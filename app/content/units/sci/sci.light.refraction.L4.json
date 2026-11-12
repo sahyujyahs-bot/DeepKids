@@ -3,7 +3,7 @@
  "title": "Refraction: the rule of the bend, and how light gets trapped",
  "level": 4,
  "summary": {
-  "text": "Shine a torch at a slant into water and the beam turns toward an upright line. Shine it straight on and it does not turn at all. Your child measures the bend with a protractor and finds the pattern. The same rule explains why a diamond sparkles, why a fish sees the whole sky in one round window, and how hair-thin glass fibres carry the internet. It explains why a hot road looks wet, how two lenses make a telescope, and why spectacles were worn for hundreds of years before anyone knew how they work.",
+  "text": "Shine a torch at a slant into water and the beam turns toward an upright line. Shine it straight on and it does not turn at all. Your child measures the bend with a protractor and finds the pattern. The same rule explains why a diamond sparkles, why a fish sees the whole sky in one round window, and how hair-thin glass fibres carry the internet. It also explains why a hot road looks wet, how two lenses make a telescope, and how spectacles work, which nobody could explain for hundreds of years after people began wearing them.",
   "art": "A rectangular tank of milky water on white paper with a torch beam entering at a slant and turning toward a dotted upright line, and a protractor lying beside it."
  },
  "intro": {
@@ -56,7 +56,7 @@
   {
    "term": "Angle out",
    "meaning": "The angle between the ray after it has crossed the surface and the normal line. Scientists call it the angle of refraction.",
-   "example": "A beam that goes into water at 60 degrees comes out of the surface into the water at about 40 degrees from the normal. That 40 degrees is the angle out.",
+   "example": "A beam that meets the water at 60 degrees from the normal carries on inside the water at about 40 degrees from the normal. That 40 degrees is the angle out.",
    "art": "A ray crossing into water and bending toward the normal, with the angle on the water side marked in orange."
   },
   {
@@ -163,11 +163,11 @@
    "concept": "How much slower: the refractive index",
    "status": "defined",
    "definition": "The refractive index of a material is a number that tells how many times slower light moves there than in empty space. The bigger the number, the slower the light and the bigger the bend.",
-   "description": "In empty space, light travels about 300,000 kilometres every second. Air slows light by a tiny amount, so for air the number is almost exactly 1. Water has a refractive index of about 1.33. That means light in water moves 1.33 times slower than in empty space, which is about 225,000 kilometres a second. Cooking oil is about 1.47. Glass is about 1.5, though the exact number depends on the kind of glass. Diamond is about 2.4, so light in a diamond moves at less than half its speed in air. Notice something odd. Oil floats on water, so oil is lighter for its size, yet oil bends light more. So a bigger refractive index does not mean heavier. It depends on how the atoms of the material hold on to their electrons, and how the electrons answer the light passing by. This is why a clear glass marble almost vanishes in honey or oil, which have refractive indexes near that of glass. Where two see-through materials have the same number, light does not bend between them.",
+   "description": "In empty space, light travels about 300,000 kilometres every second. Air slows light by a tiny amount, so for air the number is almost exactly 1. Water has a refractive index of about 1.33. That means light in water moves 1.33 times slower than in empty space, which is about 225,000 kilometres a second. Cooking oil is about 1.47. Glass is about 1.5, though the exact number depends on the kind of glass. Diamond is about 2.4, so light in a diamond moves at less than half its speed in air. Notice something odd. Oil floats on water, so oil is lighter for its size, yet oil bends light more. So a bigger refractive index does not mean heavier. It depends on how the atoms of the material hold on to their electrons, and how the electrons react to the light passing by. This is why a clear glass marble almost vanishes in honey or oil, which have refractive indexes near that of glass. Where two see-through materials have the same number, light does not bend between them.",
    "examples": [
     "Light in water travels at about three quarters of its speed in air, because 1 divided by 1.33 is about three quarters.",
     "Cooking oil bends light more than water, although oil floats on water.",
-    "Glass wins over water and diamond wins over glass: the order from least to most bending is air, water, oil, glass, diamond."
+    "Glass bends light more than water does, and diamond bends it more than glass. The order from least to most bending is air, water, oil, glass, diamond."
    ],
    "perspectives": [],
    "art": "A bar chart with bars for air 1, water 1.33, oil 1.47, glass 1.5 and diamond 2.4, with a speed arrow getting shorter beside each bar.",
@@ -176,7 +176,7 @@
   {
    "concept": "A glass block shifts a beam, and a prism turns it",
    "status": "defined",
-   "definition": "A block of glass with parallel sides bends a ray toward the normal on the way in and away from it by the same amount on the way out, so the ray leaves parallel to the way it arrived, but shifted sideways. A prism, whose sides are not parallel, turns the ray for good.",
+   "definition": "A block of glass with parallel sides bends a ray toward the normal on the way in, and away from it by the same amount on the way out. So the ray leaves parallel to the way it arrived, but shifted sideways. A prism has sides that are not parallel, so it turns the ray for good.",
    "description": "Send a ray at a slant into a thick glass slab. At the first surface it bends toward the normal. Inside the glass it goes straight. At the second surface, which is parallel to the first, the normals are parallel too. Now the ray bends away from the normal by exactly the same amount, so it comes out going in the same direction as before. But it has been moved sideways a little. That is why a thick window can make the view outside look slightly shifted when you look at a slant. A prism is different. Its two surfaces are tilted toward each other, so the second bend adds to the first instead of undoing it. The ray leaves turned toward the thick end of the prism. A bulging lens is like a set of prisms, thin at the top and bottom, and the prisms turn the rays toward each other. Isaac Newton used prisms in 1666 and showed that each colour in sunlight bends by a slightly different amount.",
    "examples": [
     "Look at a pencil through the side of a thick, clean glass block at a slant. The pencil seems shifted sideways.",
@@ -190,7 +190,7 @@
   {
    "concept": "The fish's round window and the silver ceiling: total internal reflection",
    "status": "defined",
-   "definition": "When light inside water tries to leave at a slant steeper than about 49 degrees from the normal, none of it gets out. All of it bounces back down, like off a mirror. This is called total internal reflection.",
+   "definition": "When light inside water reaches the surface at more than about 49 degrees from the normal, none of it gets out. All of it bounces back down, like off a mirror. This is called total internal reflection.",
    "description": "Light going from water into air bends away from the normal. The bigger the angle in the water, the bigger the angle in the air, and the faster it grows. At an angle of about 49 degrees in the water, the ray in the air would have to lie flat along the surface, at 90 degrees. Beyond that angle, there is no way out. Scientists call 49 degrees the critical angle for water. Every bit of the light bounces back into the water, and the surface works like a perfect mirror. Now picture a fish looking up. Rays from the whole sky, from one horizon to the other, are bent down by the surface into a cone about 97 degrees wide. So the fish sees the entire sky squeezed into one round window straight above her. Outside the window, she is looking at the underside of the surface at shallow angles. There it is a mirror, and it shows the seabed. A diver sees the same. This only works when the light is going from a slower material to a faster one. Light going from air into water can never be trapped.",
    "examples": [
     "Hold a glass of water above your eyes and look up through the side at the surface. At a slant, the surface turns silver.",
@@ -260,7 +260,7 @@
   {
    "concept": "Two lenses make a telescope or a microscope",
    "status": "defined",
-   "definition": "A telescope has a large weak lens that makes a small picture of a faraway thing, and a small strong lens that magnifies that picture. The telescope magnifies as many times as the focal length of the first lens is longer than the second. A microscope uses two strong lenses in the same way for tiny things close by.",
+   "definition": "A telescope has a large weak lens that makes a small picture of a faraway thing, and a small strong lens that magnifies that picture. To find how many times the telescope magnifies, divide the focal length of the first lens by the focal length of the second. A microscope uses two strong lenses in the same way for tiny things close by.",
    "description": "A single bulging lens makes a picture of the faraway thing at its focus point. The picture is small and upside down. Now put a second lens, a strong magnifier, so that you look at that small picture. The magnifier makes it look big. The first lens is the objective lens. The second is the eyepiece. If the objective has a focal length of 60 centimetres and the eyepiece has a focal length of 6 centimetres, the telescope magnifies 10 times, because 60 divided by 6 is 10. This kind of telescope shows everything upside down. Galileo built telescopes in 1609 and by 1610 had seen mountains on the Moon, many more stars and four moons circling Jupiter. A microscope is built the same way, but the first lens is a very strong one held close to a tiny thing, so that it makes a large picture, and the eyepiece magnifies that picture again. Robert Hooke used a microscope with two lenses, and in 1665 published drawings of what he saw, including the little boxes in cork that he called cells. Today the biggest telescopes use curved mirrors instead of lenses for the first step. Mirrors are easier to make large.",
    "examples": [
     "A simple toy telescope with two lenses shows a far signboard upside down.",
@@ -275,7 +275,7 @@
    "concept": "Rainbows: every raindrop is a tiny lens and mirror",
    "status": "defined",
    "definition": "A rainbow is sunlight that has bent as it entered each raindrop, bounced off the back of the drop, and bent again on the way out. Each colour bends by a slightly different amount, so the colours leave the drop in slightly different directions.",
-   "description": "A raindrop is a tiny round lens. Sunlight enters the drop and bends. Some of it bounces off the back of the drop, like off a weak mirror. This is not the silver-ceiling trick, because here only part of the light bounces back, which is why rainbows are fairly faint. Then it bends again as it leaves the drop. Red leaves at an angle of about 42 degrees from the line pointing away from the Sun. Violet leaves at about 40 degrees. Every drop at the same angle from that line sends the same colour to your eye. So the drops make a circle of each colour around the point opposite the Sun. You see the rainbow only with the Sun behind you. No two people see exactly the same rainbow, because each person's eyes are at a different place and so get light from different drops. In a second rainbow, which is higher and fainter, the light bounces twice inside each drop, and the colours are in the opposite order. From an aeroplane, a rainbow can be seen as a full circle. In the early 1300s, Theodoric of Freiberg in Germany and Kamal al-Din al-Farisi in Persia each worked out, by experiments with glass balls filled with water, that this is how rainbows are made.",
+   "description": "A raindrop is a tiny round lens. Sunlight enters the drop and bends. Some of it bounces off the back of the drop, like off a weak mirror. This is not total internal reflection, where all the light bounces back. Here only part of the light bounces back, which is why rainbows are fairly faint. Then the light bends again as it leaves the drop. Red leaves at an angle of about 42 degrees from the line pointing away from the Sun. Violet leaves at about 40 degrees. Every drop at the same angle from that line sends the same colour to your eye. So the drops make a circle of each colour around the point opposite the Sun. You see the rainbow only with the Sun behind you. No two people see exactly the same rainbow, because each person's eyes are at a different place and so get light from different drops. In a second rainbow, which is higher and fainter, the light bounces twice inside each drop, and the colours are in the opposite order. From an aeroplane, a rainbow can be seen as a full circle. In the early 1300s, Theodoric of Freiberg in Germany and Kamal al-Din al-Farisi in Persia each worked out, by experiments with glass balls filled with water, that this is how rainbows are made.",
    "examples": [
     "A garden sprinkler on a sunny day makes a small rainbow when you stand with the Sun behind you.",
     "The fainter second rainbow outside a bright one has its colours in the opposite order.",
@@ -327,7 +327,7 @@
    ],
    "perspectives": [],
    "art": "A glowing cloud of cold atoms in a glass cell, a pulse of light entering from the left as a long stretched ribbon and getting squashed and slow inside, with a cyclist drawn beside it for comparison.",
-   "context": "This card goes out to the edge of science, where light has been slowed to the speed of a bicycle."
+   "context": "This card is about experiments in which light was slowed to the speed of a bicycle."
   }
  ],
  "agreed": [
@@ -359,9 +359,9 @@
  "challenging": [
   {
    "claim": "A denser material always bends light more.",
-   "who": "Many people, because both ideas feel like 'more stuff in the way'.",
+   "who": "Many people, because a heavier material feels like it puts more stuff in the light's way.",
    "for": "Glass is heavier than water and bends light more than water does. Diamond is heavier still and bends light the most.",
-   "against": "Cooking oil floats on water, so it is lighter for its size, yet it bends light more than water does. What matters is how the atoms of the material answer to light, and not how heavy it is.",
+   "against": "Cooking oil floats on water, so it is lighter for its size, yet it bends light more than water does. What matters is how the atoms of the material react to light, and not how heavy it is.",
    "status": "rejected",
    "context": "This card is about a common idea that heavier materials bend light more, and a simple fact that shows it is wrong."
   },
@@ -377,7 +377,7 @@
    "claim": "A mirage is something the mind makes up, not something real.",
    "who": "A common idea, because a mirage seems to disappear when you reach it.",
    "for": "A traveller cannot walk to the 'water'. It always stays ahead.",
-   "against": "A camera can photograph a mirage. The picture of the sky on the road is made of real light that really has been bent. Our brain misreads where that light came from. It is the interpretation that is wrong, not the light.",
+   "against": "A camera can photograph a mirage. The picture of the sky on the road is made of real light that really has been bent. Our brain misreads where that light came from. The light is real. Only our guess about where it came from is wrong.",
    "status": "rejected",
    "context": "This card is about the common idea that a mirage is only imagined."
   },
@@ -418,7 +418,7 @@
    "hint": "A diamond bends light much more than honey does. What happens at the edge of something that bends light differently?"
   },
   {
-   "q": "At the edge of a fish's round window, what is the light doing that comes in at the lowest angle?",
+   "q": "The light at the edge of a fish's round window came in at the lowest angle of all. What is that light doing?",
    "kind": "deep",
    "hint": "Think about the biggest angle that light in water can have and still get out into the air."
   },
@@ -494,7 +494,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "Spectacles were first worn in Italy about 700 years ago. For more than 300 years, nobody could say why they helped. The old idea, taught since ancient Greece, was that the lens inside the eye is the part that sees, like a tiny screen. In 1604 the German astronomer Johannes Kepler worked out something different. The lens of the eye bends light to make a small upside-down picture on the back of the eye, the retina. If the eye bends light too much, the sharp picture forms in front of the retina, and the world looks blurry. A hollow lens in front of the eye can move the picture back. A bulging lens helps in the opposite case. A few years later Christoph Scheiner, a German astronomer, took the back coats from an ox eye. He looked through the thin back and saw the tiny upside-down picture glowing there. So the lens was not the screen. It was only one of the lenses.",
+  "story": "Spectacles were first worn in Italy about 700 years ago. For more than 300 years, nobody could say why they helped. The old idea, taught since ancient Greece, was that the lens inside the eye is the part that sees, like a tiny screen. In 1604 the German astronomer Johannes Kepler worked out something different. The lens of the eye bends light to make a small upside-down picture on the back of the eye, the retina. If the eye bends light too much, the sharp picture forms in front of the retina, and the world looks blurry. A hollow lens in front of the eye can move the picture back. A bulging lens helps in the opposite case. A few years later Christoph Scheiner, a German astronomer, took the back coats from an ox eye. He looked through the thin back and saw the tiny upside-down picture glowing there. So the lens was not the screen. It only bends the light to make the picture.",
   "who": "Johannes Kepler (1604) and Christoph Scheiner (early 1600s)",
   "when": "1604 to the early 1600s",
   "wrong_idea": "For centuries people believed that the lens inside the eye is the part that sees. Kepler showed that it bends light into a picture on the retina, and Scheiner showed that picture directly in an ox eye."
@@ -502,21 +502,21 @@
  "roots": {
   "context": "We measured how light bends, and found the surface of water can be a window or a mirror. Now we ask what this tells us about things, about seeing, and about ourselves.",
   "deep_truth": {
-   "truth": "From under the water, one surface was a window at one angle and a mirror at another. The water had not changed. Only the angle of the light had. So what a surface does depends on how the light meets it.",
+   "truth": "In the Water Mirror activity, the underside of the water was a clear window when you looked up steeply, and a silver mirror when you looked at a slant. The water had not changed. Only the angle of the light had. So what a surface does depends on how the light meets it.",
    "habit": "We sort things into windows and mirrors, as if each thing had one fixed nature. But a surface does one thing or the other depending on the angle of the light that meets it.",
-   "evidence": "In the water-mirror test, the underside of the water let you see through when you looked up steeply, and turned to a silver mirror when you looked at a slant. The glass and the water did not change. Only the angle of your eye did. If your results differ, write them down as they are and test again."
+   "evidence": "In the Water Mirror activity, the underside of the water let you see through when you looked up steeply, and turned to a silver mirror when you looked at a slant. The box and the water did not change. Only the angle of your eye did. If your results differ, write them down as they are and test again."
   },
   "three": {
    "who_am_i": "What you see depends on where you stand. A fish and a diver look at the same sky and see it differently.",
-   "what_is_life": "Your own eyes bend light too. If the eye grows a little long, the world goes blurry, and a lens fixes it. Living bodies keep adjusting how they meet the light.",
-   "what_is_this_world": "One rule, light slowing as it crosses an edge, makes a snapped pencil, a rainbow, a mirage, a sparkling diamond and a cable under the sea."
+   "what_is_life": "Your own eyes bend light too. The lens inside your eye gets fatter for near things and thinner for far things. If the eyeball grows a little too long, the world goes blurry, and a spectacle lens fixes it.",
+   "what_is_this_world": "One rule explains a pencil that looks snapped in water, a rainbow, a mirage, a sparkling diamond and a cable under the sea. The rule is that light changes speed when it crosses from one material into another."
   },
-  "thread": "One rule does all of this work. Light moves at different speeds in different materials, so it bends where they meet. At a steep angle it passes through the edge. At a shallow angle it is turned back. Nothing new is added for the rainbow, the diamond or the cable. The same light simply meets different edges at different angles. What looks like many separate wonders is one thing, meeting the world in many ways.",
+  "thread": "One rule does all of this work. Light moves at different speeds in different materials, so it bends where they meet. At a steep angle it passes through the edge. At a shallow angle it is turned back. Nothing new is added for the rainbow, the diamond or the cable. The same light simply meets different edges at different angles. So these are not separate wonders. They are the same rule at work in different places.",
   "teachings": [
    {
     "source": "Udana 6.4, the Buddhist story of the blind men and the elephant",
     "teaching": "A king asks blind men to feel an elephant. One feels the head, one the tusk, one the leg, and each says what the elephant is like. They quarrel, because each is sure he is right. The Buddha says each has felt a part and taken it for the whole.",
-    "link": "The surface of the water is a window to one eye and a mirror to another. Each is right about the side they meet, and wrong if they say it is only that."
+    "link": "The surface of the water is a window to one eye and a mirror to another. Each is right about what they see, and wrong only if they say the surface can be nothing else."
    },
    {
     "source": "Isha Upanishad, verse 15",
@@ -536,7 +536,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "A surface has fixed properties, such as its refractive index. Window and mirror are only two results of one rule, and the angle is just a number in it. Nothing about it depends on a point of view."
+   "view": "A surface has fixed properties, such as its refractive index. Window and mirror are only two results of one rule, and the angle is just a number in that rule. Nothing here depends on who is looking."
   },
   "practice": {
    "title": "One glass, two faces",
@@ -547,7 +547,7 @@
   "ask": [
    "Is the surface of the water a window or a mirror, or is it neither until something looks at it?",
    "A fish and a diver see the sky differently. Which one sees it as it really is?",
-   "If a thing can be two things depending on the angle, what other things might we have sorted into one box too soon?"
+   "The water's surface can be a window or a mirror, depending on the angle. What else might we have called one thing too quickly?"
   ],
   "art": "A girl's eye looking up through a glass of water, with the surface shown half as a clear window to the ceiling and half as a silver mirror."
  },
@@ -580,7 +580,7 @@
        "b": "TOWARD. Glass slows light even more than water does, so the ray bends toward the normal."
       },
       {
-       "f": "The same ray leaves the glass block on the far side, back into the air.",
+       "f": "A ray that went at a slant into a thick block of glass leaves it on the far side, back into the air.",
        "b": "AWAY. It bends away from the normal by the same amount, so it leaves parallel to the way it came in, but shifted sideways."
       },
       {
@@ -588,7 +588,7 @@
        "b": "TRAPPED. The critical angle of diamond is only about 24 degrees. At 60 degrees, all the light bounces back inside."
       },
       {
-       "f": "A diver on the sea bed looks up at the underside of the surface, far from straight above her.",
+       "f": "A diver on the sea bed looks up at the underside of the surface at a low slant, not straight above her.",
        "b": "TRAPPED. At a low slant, the surface is a mirror, and she sees the sea bed in it."
       },
       {
@@ -648,15 +648,15 @@
        "b": "TRAPPED. At a slant, the top of the water turns silver, like a mirror. Light from below is bounced back down."
       },
       {
-       "f": "TEST IT. Sit right under the box of water and look straight up through the bottom and the top of the water. What do you see?",
-       "b": "STRAIGHT. Looking straight up, the light comes along the normal, so it goes straight through. You see the ceiling. Same water, same top, but now a window."
+       "f": "TEST IT. Stand a clear plastic box of water on a tray at the table's edge. Sit right under it and look straight up through the bottom and the top of the water. What do you see?",
+       "b": "STRAIGHT. Looking straight up, the light comes along the normal, so it goes straight through. You see the ceiling. From here the top of the water is a window."
       },
       {
        "f": "TEST IT. Stand a spoon in a glass of water and look at it from the side. The part under the water looks shifted. Which way does its light bend on the way to your eye?",
        "b": "AWAY. Light from the spoon speeds up when it leaves the water for the air, so it bends away from the normal. Your eyes follow it straight back, so the spoon looks shifted."
       },
       {
-       "f": "TEST IT. Put a clear glass marble in a bowl of honey and in a bowl of water. In which bowl is it harder to see?",
+       "f": "TEST IT. Put a clear glass marble in a bowl of honey, then in a bowl of water. In which bowl is it harder to see?",
        "b": "STRAIGHT, or nearly. In honey there is almost no bend where the marble meets the honey, so it is much harder to see than in water."
       }
      ]
@@ -705,7 +705,7 @@
     "Say why in one sentence, using the word slower, faster, normal or angle. If the other players agree it is a good reason, you win one token.",
     "Then read the back out loud. If the mat was right, win one more token. A good reason with a wrong mat still wins the first token.",
     "If you take a TEST IT card, everyone does the test together first. The first player to say what happened and why wins two tokens.",
-    "When the cards run out, the player with the most tokens wins. If you play alone, count your tokens and try to beat your score next time. Players with equal tokens share the win."
+    "When the cards run out, the player with the most tokens wins. Players with equal tokens share the win. If you play alone, count your tokens and try to beat your score next time."
    ],
    "flow": [
     {
@@ -715,7 +715,7 @@
      "say": "Every card is a short journey of light. For each one, we decide. Does the light bend toward the normal, bend away, go straight, or get trapped?",
      "kid": "Cut out the cards and mats. Lay out the four mats. Shuffle the cards. Put them face down.",
      "context": "This is the first step of the card game Toward, Away, Straight or Trapped. You set it up.",
-     "parent": "The normal is the imaginary upright line standing out from a surface. With 2 to 4 players, take turns as reader and judge; the player on the left reads the back. If your child has not met it yet, draw it on the floor mat with chalk or tape, and explain it in one sentence."
+     "parent": "The normal is the imaginary upright line standing out from a surface. If your child has not met it yet, draw it on the floor mat with chalk or tape, and explain it in one sentence. With 2 to 4 players, take turns as reader and judge. The player on the left reads the back."
     },
     {
      "id": "s2",
@@ -922,7 +922,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Tape the big sheet down. 2. Draw a straight line 15 centimetres long across the middle. Call its middle point O. 3. Use the protractor to draw a line through O at a right angle. This is the normal. 4. On the upper side, draw lines from O at 20, 40 and 60 degrees from the normal, each 15 centimetres long. Label each line.",
+     "do": "1. Tape the big sheet of paper down. 2. Draw a straight line 15 centimetres long across the middle. Call its middle point O. 3. Use the protractor to draw a line through O at a right angle to the first line. This is the normal. 4. On the upper side, draw lines from O at 20, 40 and 60 degrees from the normal, each 15 centimetres long. Label each line.",
      "say": "First we draw the map. This line is the surface of the water. The upright line through O is the normal. The three slanted lines show where the torch will stand.",
      "kid": "Draw a 15 centimetre line. Mark its middle O. Draw the normal. Add lines at 20, 40 and 60 degrees.",
      "parent": "Draw the upright line first. A right angle is 90 degrees on the protractor. Set the protractor's middle hole on O. The slanted lines must be measured from the normal, not from the surface line. Put O a little to the right of the middle of the sheet, so that the 60 degree line fits on the paper.",
@@ -987,13 +987,13 @@
      "do": "Move the torch to the end of the 20 degree line, aimed at O. In the dark, find the bright line that comes out of the far wall. Mark two dots on it with a pencil, one near the wall and one 8 centimetres away. Draw a line through the dots back to the wall. Call the point where it meets the wall E. Draw a line from O to E. Measure the angle between the line OE and the normal. Write it down. Do the same for 40 and 60 degrees. Then do all three again.",
      "say": "Now the slanted beams. Mark two dots on the bright line that comes out. Draw back to the wall. Join that point to O. That is the path of the light inside the water. Measure its angle from the normal.",
      "kid": "Put the torch on the 20 degree line. Mark two dots on the bright line. Join them to O.",
-     "parent": "Why this works. The beam comes out of the far wall parallel to the way it went in, so the bright line outside points straight back to the spot E where it left the water. The path in the water is the line from O to E. Typical results are about 15 degrees for 20, about 29 for 40 and about 41 for 60. Your numbers may be 3 to 5 degrees off, because the beam is not perfectly thin. That is fine. If the beam in the water is faint, take out the milk, or add one more drop. If the outgoing line is too faint to mark, draw the line in the dark by feel with two dots at the brightest part, or repeat with the room darker. If your angles are all bigger than the angle in the air, check that you measured from the normal.",
+     "parent": "Why this works. The beam comes out of the far wall parallel to the way it went in, so the bright line outside points straight back to the spot E where it left the water. The path in the water is the line from O to E. Typical results are about 15 degrees for 20, about 29 for 40 and about 41 for 60. Your numbers may be 3 to 5 degrees off, because the beam is not perfectly thin. That is fine. If the beam in the water is faint, take out the milk, or add one more drop. If the outgoing line is too faint to mark, put the two dots at its brightest part, or make the room darker and try again. If your angles are all bigger than the angle in the air, check that you measured from the normal.",
      "context": "In this step, you measure how far the water turns the beam for three different slants, twice each."
     },
     {
      "id": "s6",
      "mins": 6,
-     "do": "Fill in the table. For each angle, work out the average of the two tries. Then take the angle in the water from the angle in the air. This is how many degrees the water turned the beam. Write toward or away.",
+     "do": "Fill in the table. For each angle, work out the average of the two tries. Then take the average angle in the water away from the angle in the air. This is how many degrees the water turned the beam. Write toward or away.",
      "say": "Fill in the table. For 60 degrees in the air, how many degrees did you measure in the water? So by how many degrees did the water turn the beam? Toward the normal or away?",
      "kid": "Fill in the table. Work out how many degrees the water turned the beam.",
      "check": {
@@ -1018,7 +1018,7 @@
      "kid": "Say what you thought, what you saw, and why it happened.",
      "ask": [
       {
-       "q": "What is your claim, your evidence and your reasoning?",
+       "q": "What do you think now, what did you see, and why did it happen?",
        "good": [
         "The water bent the beam toward the normal. At 60 degrees in the air I measured about 40 degrees in the water. Light slows down in water, so it turns.",
         "The bigger the slant, the bigger the turn. At 0 degrees there was no turn.",
@@ -1037,7 +1037,7 @@
    "title": "Build an Eye That Needs Spectacles",
    "mins": 40,
    "days": 1,
-   "question": "A magnifying glass can make a sharp picture of a faraway window on a card, like the lens in an eye makes a picture on the retina. What happens when the card is a little too far back, like in a short-sighted eye, or too near, like in a long-sighted eye? Can a spectacle lens fix it?",
+   "question": "A magnifying glass can make a sharp picture of a faraway window on a card, just as the lens in an eye makes a picture on the retina. What happens when the card is a little too far back, as in a short-sighted eye, or too near, as in a long-sighted eye? Can a spectacle lens fix it?",
    "predict": "Before you start, guess. If you move the card back a little, will the picture stay sharp? Will a lens from a short-sighted person's spectacles fix it, or a lens from reading spectacles? Why do you think so?",
    "fair_test": "The magnifying glass, the window and the room stay the same. You never change the magnifying glass in your model eye. Only the place of the card and the spectacle lens in front change. Each time, you slide the card slowly to find the sharpest picture, and you check it twice.",
    "results_table": [
@@ -1203,7 +1203,7 @@
      "kid": "Say what you thought, what you saw, and why it happened.",
      "ask": [
       {
-       "q": "What is your claim, your evidence and your reasoning?",
+       "q": "What do you think now, what did you see, and why did it happen?",
        "good": [
         "A spectacle lens can move the sharp place of the picture. My hollow lens moved it back by about 5 centimetres. Hollow lenses spread the light, so it comes together later.",
         "The picture is only sharp at one distance, so an eye that is too long or too short needs a lens to fix it.",
@@ -1248,9 +1248,9 @@
      "what": "Guess. Look up at the water from below at a slant and from straight below. Find where the window turns into a mirror. Explain it."
     }
    ],
-   "record": "A drawing of the glass from the side, with the eye in two places. Mark the place where the underside of the water looked clear, and the place where it looked silver. Write one sentence on what changed.",
+   "record": "A drawing of the box from the side, with the eye in two places. Mark the place where the underside of the water looked clear, and the place where it looked silver. Write one sentence on what changed.",
    "safety": "Keep the box in a tray and never hold it above anyone's head. Have a towel ready. A wet floor is slippery, so wipe up spills at once.",
-   "context": "In this activity, you hold a glass of water above your eyes and look up at the underside of the water. You find the place where the water's top turns from a window into a mirror.",
+   "context": "In this activity, you sit on the floor and look up at the underside of the water in a clear box on a table. You find the place where the water's top turns from a window into a mirror.",
    "setup": [
     {
      "art": "A child sitting on the floor beside a table, looking up through the side of a clear box of water in a tray above eye level, at a steep angle and seeing the ceiling light.",
@@ -1270,7 +1270,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child the box of water. Ask what the top of the water will look like if you look up at it from underneath. Write down the guess and the reason.",
-     "say": "I will hold the water above our eyes, and we will look up at the top of the water from underneath. What do you think we will see? Why do you think so?",
+     "say": "The box of water will be above our eyes, and we will look up at the top of the water from underneath. What do you think we will see? Why do you think so?",
      "kid": "Look up at the top of water from underneath. What will you see? Why?",
      "ask": [
       {
@@ -1289,8 +1289,8 @@
      "id": "s2",
      "mins": 7,
      "do": "Stand the box in the tray at the edge of a table or on books. Its bottom must be above your eyes when you sit on the floor beside it. Sit close and look up through the side wall at the underside of the water, at a low slant. A grown-up pushes a pencil tip under the surface from above, so you can see it and its reflection.",
-     "say": "Hold the box above your eyes. Look up through the side, at a low slant, at the top of the water. What do you see? What happens to the pencil tip?",
-     "kid": "Hold the box above your eyes. Look up through the side. What does the top of the water look like?",
+     "say": "The box is above your eyes. Look up through the side, at a low slant, at the top of the water. What do you see? What happens to the pencil tip?",
+     "kid": "The box is above your eyes. Look up through the side. What does the top of the water look like?",
      "adult": false,
      "parent": "A flat-sided box shows the effect more clearly than a round glass, because round glass bends the view. The underside of the water should look like a bright silver sheet, and the pencil tip may show up twice, once itself and once reflected. Never carry or hold a full box above a child's head. If you see nothing special, look at a lower slant, with your eyes level with the bottom of the box.",
      "check": {
@@ -1303,14 +1303,14 @@
        "Making new light"
       ],
       "a": 0,
-      "why": "At a low slant, light going up through the water meets the top at an angle bigger than the critical angle, about 49 degrees from the normal. None of it can get out, so all of it bounces back down. That is total internal reflection. Choosing that it lets all the light through is true only when you look steeply."
+      "why": "At a low slant, light going up through the water meets the top at an angle bigger than the critical angle, about 49 degrees from the normal. None of it can get out, so all of it bounces back down. That is total internal reflection. The surface lets light through only when you look up steeply."
      },
      "context": "In this step, you look up at the underside of the water at a low slant, and see the silver mirror."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Now raise your eyes slowly, so you look more and more steeply up at the water. Notice the place where the silver sheet gives way to a clear window, and you see the ceiling. Move your head up and down a few times to find the place. A helper marks on the box, with a sticky note, where your eye was when it flipped. Then pour out half the water and test again. Does it flip at the same angle? Last, look straight up through the bottom of the box, if it is clear.",
+     "do": "Now raise your eyes slowly, so you look more and more steeply up at the water. Notice the place where the silver sheet gives way to a clear window, and you see the ceiling. Move your head up and down a few times to find the place. A helper marks on the box, with a sticky note, where your eye was when the silver turned clear. Then pour out half the water and test again. Does the silver turn clear at the same angle? Last, look straight up through the bottom of the box, if it is clear.",
      "say": "Raise your eyes slowly. Where does the silver stop? What can you see in the clear part? Can you find the place where it changes?",
      "kid": "Look more steeply. Find where the silver turns clear. What do you see then?",
      "parent": "The change happens roughly where your line of sight makes an angle of about 40 degrees with the water's top, which is about 50 degrees from the normal. Your child may find that it is hard to find the exact place. That is fine. It is the idea that matters. The flip angle is the same with half the water, because it depends on the angle, not on how much water there is. If nothing silver shows, sit closer to the box, and use a box with clean, dry, scratch-free walls.",
@@ -1408,10 +1408,10 @@
      "id": "s2",
      "mins": 10,
      "do": "First look across the cold plate at the striped paper, 30 centimetres behind it, with your eyes level with the plate. The stripes stay still. Then a grown-up heats the plate for 2 minutes and switches off the stove, without moving the plate. Look again from an arm's length away. Watch for 1 minute, and count how many stripes wobble. (With a hair dryer, a grown-up blows hot air across the line of sight instead.)",
-     "say": "A grown-up will heat the plate and put it down. Do not touch it. Crouch down and look across the top of the plate at the stripes. What do the stripes do?",
+     "say": "A grown-up will heat the plate and leave it on the stove. Do not touch it. Crouch down and look across the top of the plate at the stripes. What do the stripes do?",
      "kid": "Look at the stripes over the cold plate. A grown-up heats it. Do not touch it. Look again.",
      "adult": true,
-     "parent": "Keep children at arm's length from the plate. The stripes should wave and wobble within a few seconds, as the hot air rises; the cold plate is your fair-test comparison. The plate stays hot for 10 minutes or more. When you finish, leave it on the stove until cool and keep children away. With 2 to 4 children, take turns to look while one holds the stripes paper, and everyone draws. If the wobble is faint, use a hotter plate (3 minutes), thicker stripes, or look in a dim kitchen with a bright window behind the stripes.",
+     "parent": "Keep children at arm's length from the plate. The stripes should wave and wobble within a few seconds, as the hot air rises. The cold plate is your fair-test comparison. The plate stays hot for 10 minutes or more. When you finish, leave it on the stove until cool and keep children away. With 2 to 4 children, take turns to look while one holds the striped paper, and everyone draws. If the wobble is faint, use a hotter plate (3 minutes), thicker stripes, or look in a dim kitchen with a bright window behind the stripes.",
      "check": {
       "t": "mcq",
       "q": "The stripes wobbled when you looked through the air above the hot plate. What bent the light?",
@@ -1501,7 +1501,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child the bottle and the torch. Ask what will happen to the light if a jet of water pours out of the bottle. The torch shines into the water. Write down the guess and the reason.",
+     "do": "Show your child the bottle and the torch. Ask what the light will do when the torch shines into the water and a jet of water pours out of the bottle. Write down the guess and the reason.",
      "say": "We will shine a torch through a bottle of water, toward a hole, and let the water pour out in a jet. Will the light go straight on, past the jet, or follow the water? Why do you think so?",
      "kid": "Shine a torch at a water jet. Will the light follow the water? Why?",
      "ask": [
@@ -1520,7 +1520,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "A grown-up makes one small hole, about 3 millimetres wide, in the side of the bottle, 4 centimetres from the bottom. Cover the hole with a small piece of tape. Fill the bottle with water. Put the cap on.",
+     "do": "A grown-up uses the nail to make one small hole, about 3 millimetres wide, in the side of the bottle, 4 centimetres from the bottom. Cover the hole with a small piece of tape. Fill the bottle with water. Put the cap on.",
      "say": "A grown-up makes the hole. We cover it with tape for now. Then we fill the bottle with water. Keep it over the sink.",
      "kid": "A grown-up makes a small hole. Cover it with tape. Fill the bottle with water.",
      "adult": true,
@@ -1583,7 +1583,7 @@
  "projects": [
   {
    "id": "p1",
-   "title": "Two-Lens Telescope: see the faraway upside down",
+   "title": "Two-Lens Telescope: see faraway things upside down",
    "days": 1,
    "mins": 60,
    "materials": [
@@ -1673,7 +1673,7 @@
      "do": "Do the same with the strong hand lens. Hold it toward the window and slide the card behind it, close to the lens. Measure the distance for the sharpest picture. This is the focal length of the strong lens. Write it down.",
      "say": "Now the strong lens. Hold it at the window and slide the card close behind. Measure the distance. This focal length should be much shorter.",
      "kid": "Do the same with the strong lens. Measure where the picture is sharp.",
-     "parent": "The strong lens should have a focal length of about 5 to 10 centimetres. If it is much longer than 15 centimetres, the telescope will not magnify much. Find a stronger lens, or a bulging lens from an old pair of reading glasses and two held together.",
+     "parent": "The strong lens should have a focal length of about 5 to 10 centimetres. If it is much longer than 15 centimetres, the telescope will not magnify much. Find a stronger lens, or hold two bulging lenses from old reading glasses together.",
      "context": "In this step, you find the focal length of the strong lens."
     },
     {
@@ -1721,7 +1721,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Work out how much your telescope magnifies, by dividing the weak lens's focal length by the strong lens's focal length. Check by looking at a row of bricks or tiles with one eye through the telescope and the other eye bare. Count how many bare-eye bricks fit in one telescope brick.",
+     "do": "Work out how much your telescope magnifies, by dividing the weak lens's focal length by the strong lens's focal length. Check by looking at a row of bricks or tiles with one eye through the telescope and the other eye bare. Count how many bricks seen with the bare eye fit in one brick seen through the telescope.",
      "say": "Divide the weak lens's focal length by the strong lens's focal length. That is how many times it magnifies. Then check with a wall of bricks.",
      "kid": "Divide the long focal length by the short one. That is the magnification.",
      "ask": [
@@ -1769,7 +1769,7 @@
     "Use two bottles in two holes, one over each end of the box.",
     "Cover the part of the bottle inside the box with a strip of frosted tape, which makes a softer, wider glow."
    ],
-   "your_turn": "Sketch your design. Build it and test it in the sun. How well can you read the print in the far corner? Change one thing, such as adding milk, and test again. Which design lit the box best? Why do you think it did? Do you light the whole box evenly, or just one bright spot?",
+   "your_turn": "Sketch your design. Build it and test it in the sun. How well can you read the print in the far corner? Change one thing, such as adding milk, and test again. Which design lit the box best? Why do you think it did? Does it light the whole box evenly, or just one bright spot?",
    "context": "This is a design challenge about using bent light. Real people in homes without windows have used water-filled bottles through the roof to bring daylight in, and you make a model.",
    "setup": [
     {
@@ -1907,7 +1907,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the measure-the-bend test in order, from first to last.",
+     "p": "Put the steps of the Measure the Bend experiment in order, from first to last.",
      "items": [
       "Draw the surface line and the normal at the point O",
       "Draw lines at 20, 40 and 60 degrees from the normal",
@@ -2006,7 +2006,7 @@
      "t": "truefalse",
      "p": "True or false: cooking oil floats on water, so it bends light less than water does.",
      "a": "False",
-     "why": "False. Oil is lighter than water for its size, yet it bends light more. The bend depends on how the atoms of a material answer to light, and not on how heavy the material is.",
+     "why": "False. Oil is lighter than water for its size, yet it bends light more. The bend depends on how the atoms of a material react to light, and not on how heavy the material is.",
      "outcome": 3
     },
     {
@@ -2071,21 +2071,21 @@
      "p": "On a hot afternoon, three children look along a road and see a shiny patch that looks like water.",
      "views": [
       {
-       "who": "Anu, a girl in Class 4",
+       "who": "The first child",
        "says": "It is water that someone spilled on the road. That is why it shines."
       },
       {
-       "who": "Farhan, her friend",
+       "who": "The second child",
        "says": "It is a picture of the sky. Light from the sky bends in the hot air and comes up to our eyes."
       },
       {
-       "who": "Kavya, her cousin",
+       "who": "The third child",
        "says": "It is not there at all. It is a trick of the mind, because our eyes get tired."
       }
      ],
      "ask": "Which child would you trust most? Give a reason from what you know about light, and say one thing that you would test.",
      "lines": 5,
-     "a": "A strong answer picks Farhan, and says that a camera can photograph a mirage, and that the patch moves away as we walk toward it, so it is not real water. Hot air bends light, so a picture of the sky appears on the road. A good test is to take a photo.",
+     "a": "A strong answer picks the second child, and says that a camera can photograph a mirage, and that the patch moves away as we walk toward it, so it is not real water. Hot air bends light, so a picture of the sky appears on the road. A good test is to take a photo.",
      "why": "The mirage is made of real light that has been bent by layers of air. A camera sees it, so it is not only in the mind. It is not water, because it keeps moving away and does not wet the road.",
      "outcome": 6
     },
@@ -2282,11 +2282,11 @@
      "p": "Two people in a family argue about spectacles for a child who cannot read the board.",
      "views": [
       {
-       "who": "Meenakshi, the child's aunt",
+       "who": "The child's aunt",
        "says": "Wearing spectacles will make her eyes weaker, so she should wait as long as she can."
       },
       {
-       "who": "Lakshmi, the child's mother",
+       "who": "The child's mother",
        "says": "The right spectacles bring the board into focus. She needs them now to learn well."
       }
      ],
@@ -2311,7 +2311,7 @@
     },
     {
      "t": "label",
-     "p": "Here is a drawing of the model eye you built. Label four parts with what they stand for.",
+     "p": "Here is a drawing of the model eye from the experiment Build an Eye That Needs Spectacles. Label four parts with what they stand for.",
      "labels": [
       "the magnifying glass",
       "the white card",
@@ -2455,11 +2455,11 @@
      "p": "Three people in a class talk about who should get the credit for the telescope.",
      "views": [
       {
-       "who": "Imran, a student in Class 4",
+       "who": "The first student",
        "says": "Galileo made the first telescope, because he made the discoveries with it."
       },
       {
-       "who": "Revathi, his classmate",
+       "who": "The second student",
        "says": "Lipperhey asked for a patent in 1608, so he was first."
       },
       {
@@ -2493,7 +2493,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a telescope from the side with its two lenses. Show light from the top of a faraway tree crossing through the tube and make the picture of the tree upside down.",
+     "p": "Draw a telescope from the side with its two lenses. Show how light from the top of a faraway tree crosses over inside the tube, so that the picture of the tree is upside down.",
      "a": "A tube with a big lens at the front and a small lens at the eye end. Rays from the top of the tree cross inside, so the top of the tree appears at the bottom of the picture.",
      "why": "A strong drawing shows rays from the top of the tree crossing over in the tube. That is why the picture ends up upside down.",
      "outcome": 7
@@ -2721,7 +2721,7 @@
     "Light comes out of the eye"
    ],
    "a": 0,
-   "why": "The picture appears on the retina, at the back, and not in the lens. So the lens is one of the lenses that bends light into a picture. The old idea, that the lens is where seeing happens, was wrong.",
+   "why": "The picture appears on the retina, at the back, and not in the lens. So the lens only helps to bend light into a picture. The old idea, that the lens is where seeing happens, was wrong.",
    "outcome": 7
   }
  ],
@@ -2820,7 +2820,7 @@
    "why_open": "In 2016, scientists made flat lenses from tiny pillars of material, called metalenses. Early ones worked well for one colour only. Making them work for all colours, cheaply, is still being worked on."
   },
   {
-   "q": "How do hunting animals that work across the water's surface, such as fish and birds, cope with the bend?",
+   "q": "Some fish and birds hunt across the water's surface. How do they cope with the bend of light?",
    "why_open": "Some animals seem to correct for the bend very well. Scientists are still studying how much is learned by practice and how much is born in them."
   },
   {
@@ -2880,7 +2880,7 @@
  ],
  "maths": [
   {
-   "problem": "In your bend test, a beam goes into the water at 30 degrees from the normal and comes out at 22 degrees from the normal in the water. By how many degrees did the water turn the beam?",
+   "problem": "In the Measure the Bend experiment, a beam meets the water at 30 degrees from the normal. Inside the water it is at 22 degrees from the normal. By how many degrees did the water turn the beam?",
    "answer": "8 degrees.",
    "explain": "The beam was at 30 degrees in the air and at 22 degrees in the water. 30 take away 22 is 8. So the water turned the beam by 8 degrees, toward the normal.",
    "math_unit": "math.lines-angles.angles.L4",
@@ -2902,7 +2902,7 @@
    "explain": "3 metres is three quarters of the real depth. One quarter is 3 divided by 3, which is 1 metre. The whole depth is 4 quarters, which is 4 metres. So the tank is 4 metres deep.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "context": "You learned that light bending out of water makes the bottom look closer than it is.",
-   "why_maths": "Working backwards from the apparent depth tells you the real depth, and tells you how much deeper than it looks any water can be."
+   "why_maths": "Working backwards from how deep the water looks tells you how deep it really is. Water is always deeper than it looks."
   },
   {
    "problem": "Light moves at about 200,000 kilometres a second in glass. A fibre in a cable under the sea is 3,000 kilometres long. How many thousandths of a second does the light take to travel along it?",
@@ -3043,7 +3043,7 @@
  "warmup": [
   {
    "q": "What is the normal in a bend diagram?",
-   "a": "An imaginary line at a right angle to the surface, where we measure every angle from."
+   "a": "An imaginary line at a right angle to the surface. We measure every angle from it."
   },
   {
    "q": "A beam goes from air into water at a slant. Which way does it bend?",
@@ -3149,5 +3149,5 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Things to check before release: (1) Measure the Bend needs a dark room, a flat-sided box and a thin slit. The expected angles in water are about 15, 29 and 41 degrees for 20, 40 and 60, worked out from a refractive index of 1.33, and a home test should come within about 5 degrees. The outgoing line is faint with a phone torch, so a brighter LED torch may be better. (2) Build an Eye That Needs Spectacles depends on the strength of the magnifier and spectacle lenses at home, so the distances will vary. If nobody is short-sighted, the step is skipped. (3) The Glowing Water Jet works best in a really dark room with a bright torch, and the hole must be clean. (4) The Two-Lens Telescope gives a rough, upside-down picture with colour fringes, and its quality depends on the lenses. (5) Shimmer Watch uses a hot plate, so a grown-up does that part, and the plate stays on the stove. (6) The Water Mirror now uses a box on the table edge, with the child sitting on the floor; check the silver and window views show clearly. Facts to verify: the dates for Colladon and Tyndall; Narinder Singh Kapany being called the father of fibre optics; Kapany's work in the 1950s; Hans Lipperhey's and Jacob Metius's patent requests in 1608; the date Aravind Eye Hospital was founded (1976); the 1999 and 2001 light-slowing experiments; the dates for Theodoric and Kamal al-Din; the 97 degree cone and the 49 degree critical angle for water; Scheiner's ox-eye experiment; the claim that outdoor time lowers the chance of short sight.",
- "warm": {"words": ["LIGHT", "PRISM", "ANGLE", "FOCUS", "GLASS"], "quiz": [["Light slowing down at a slant into a new material bends toward the normal line.", true, "The normal is a line at right angles to the surface; the beam turns toward it."], ["Light that arrives straight on, along the normal, does not bend at all.", true, "Both sides of the beam slow at the same time, so it does not turn."], ["A denser material always bends light more than a lighter one.", false, "Oil is lighter than water yet bends light more; what matters is how much it slows light."], ["Light inside water, hitting the surface at a very shallow angle, can all bounce back.", true, "This is total internal reflection; none of the light gets out."], ["The silver ceiling under water is a mirror coating that the water makes.", false, "No coating exists; it happens only where light meets the surface at a shallow angle."], ["A mirage on a hot road is only a trick of the mind.", false, "A camera can photograph it; the light has really been bent by hot air."], ["Optical fibres carry light along their length by trapping it inside.", true, "Light keeps bouncing off the inside wall of the glass strand, even round bends."], ["All lenses make things look bigger.", false, "A hollow lens spreads light out and makes things look smaller."], ["In short sight, the eye bends light too much, so the picture forms before the retina.", true, "Hollow spectacles spread the light a little first, which moves the picture back onto the retina."], ["Wearing the right spectacles makes your eyes weaker.", false, "Studies do not show this; short sight often changes as the eyeball grows."]], "odd": [[["Air into water", "Air into glass", "Air into oil", "Water into air"], "Water into air", "The first three slow light and bend it toward the normal; water into air speeds it up and bends it away."], [["Optical fibre", "Diamond sparkle", "Water jet with light", "Window pane"], "Window pane", "The first three trap light inside by total internal reflection; a window pane lets it pass straight through."], [["Short-sight spectacles", "Door peephole", "Hollow lens", "Magnifying glass"], "Magnifying glass", "The first three spread light out and make things look smaller; a magnifying glass is a bulging lens."], [["Spectacles", "Telescope", "Prism", "Image in a mirror"], "Image in a mirror", "Spectacles, telescopes and prisms bend light as it passes through glass; a mirror image comes from light bouncing."], [["Hot-road mirage", "Shimmer over a flame", "Desert mirage", "Glass block"], "Glass block", "In the first three, light bends gradually through air of changing heat; a glass block bends it only at its edges."]]}
+ "warm": {"words": ["LIGHT", "PRISM", "ANGLE", "FOCUS", "GLASS"], "quiz": [["When light goes at a slant into a material where it moves more slowly, it bends toward the normal line.", true, "The normal is a line at right angles to the surface; the beam turns toward it."], ["Light that arrives straight on, along the normal, does not bend at all.", true, "Both sides of the beam slow at the same time, so it does not turn."], ["A denser material always bends light more than a lighter one.", false, "Oil is lighter than water yet bends light more; what matters is how much it slows light."], ["Light inside water, hitting the surface at a very shallow angle, can all bounce back.", true, "This is total internal reflection; none of the light gets out."], ["The silver ceiling under water is a mirror coating that the water makes.", false, "No coating exists; it happens only where light meets the surface at a shallow angle."], ["A mirage on a hot road is only a trick of the mind.", false, "A camera can photograph it; the light has really been bent by hot air."], ["Optical fibres carry light along their length by trapping it inside.", true, "Light keeps bouncing off the inside wall of the glass strand, even round bends."], ["All lenses make things look bigger.", false, "A hollow lens spreads light out and makes things look smaller."], ["In short sight, the eye bends light too much, so the picture forms before the retina.", true, "Hollow spectacles spread the light a little first, which moves the picture back onto the retina."], ["Wearing the right spectacles makes your eyes weaker.", false, "Studies do not show this; short sight often changes as the eyeball grows."]], "odd": [[["Air into water", "Air into glass", "Air into oil", "Water into air"], "Water into air", "The first three slow light and bend it toward the normal; water into air speeds it up and bends it away."], [["Optical fibre", "Diamond sparkle", "Water jet with light", "Window pane"], "Window pane", "The first three trap light inside by total internal reflection; a window pane lets it pass straight through."], [["Short-sight spectacles", "Door peephole", "Hollow lens", "Magnifying glass"], "Magnifying glass", "The first three spread light out and make things look smaller; a magnifying glass is a bulging lens."], [["Spectacles", "Telescope", "Prism", "Image in a mirror"], "Image in a mirror", "Spectacles, telescopes and prisms bend light as it passes through glass; a mirror image comes from light bouncing."], [["Hot-road mirage", "Shimmer over a flame", "Desert mirage", "Glass block"], "Glass block", "In the first three, light bends gradually through air that is hotter in some places than in others; a glass block bends it only at its edges."]]}
 }

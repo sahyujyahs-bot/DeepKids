@@ -133,7 +133,7 @@
   },
   {
    "term": "Albedo",
-   "meaning": "Albedo is the share of the light that lands on a surface that the surface sends back. A mirror has a high albedo, and black cloth has a low one.",
+   "meaning": "Albedo is the share of light that a surface sends back, out of all the light that lands on it. A mirror has a high albedo, and black cloth has a low one.",
    "example": "Fresh snow has a high albedo. Dark tar has a low one.",
    "art": "A bright snowfield beside a patch of dark tar, with arrows showing more light returning from the snow."
   },
@@ -187,8 +187,8 @@
   {
    "concept": "How big a bump can be before it spoils the mirror",
    "status": "defined",
-   "definition": "A surface acts like a mirror when its bumps are much smaller than the wavelength of light, about half a thousandth of a millimetre.",
-   "description": "Light is a wave. A wave cannot 'feel' a bump that is far smaller than the length of the wave itself. Visible light has a wavelength of about 0.0005 millimetres. If a surface's bumps are much smaller than that, the light sees the surface as flat, and the surface works like a mirror. If the bumps are bigger, light sees every bump and scatters. So the same material can be a mirror or a wall, depending on how finely it is polished. A mirror-makers' polish is smooth to a tiny fraction of a wavelength. Ordinary paper has bumps many times bigger than that, so it scatters.",
+   "definition": "A surface acts like a mirror when its bumps are much smaller than the wavelength of light. The wavelength is the length of one wave of light, about half a thousandth of a millimetre.",
+   "description": "Light is a wave. The length of one wave is called its wavelength. Visible light has a wavelength of about 0.0005 millimetres. A wave is not affected by a bump that is far smaller than its own wavelength. If a surface's bumps are much smaller than the wavelength, the light meets the surface as if it were flat, and the surface works like a mirror. If the bumps are bigger, each bump sends the light a different way, and the light scatters. So the same material can be a mirror or a wall, depending on how finely it is polished. A mirror maker polishes a surface until its bumps are a tiny fraction of a wavelength. Ordinary paper has bumps many times bigger than that, so it scatters.",
    "examples": [
     "Rubbing a dull metal tray with fine polish makes it shine, because it wears down the bumps.",
     "The same sheet of glass can be clear and shiny, or frosted and dull if its surface is roughened.",
@@ -253,7 +253,7 @@
    "concept": "Corner mirrors that send light straight back",
    "status": "defined",
    "definition": "Two mirrors set at a right angle, or three mirrors set like the corner of a box, send light back parallel to the way it came in. Such a device is called a retroreflector.",
-   "description": "A single mirror sends a beam off at an angle. Two mirrors at a right angle make the beam bounce twice, and it comes out parallel to its path in, going back toward the torch. Three mirrors at right angles, like the inside corner of a cardboard box, do this for a beam from any direction. That is why a bicycle reflector, a cat's eye on a road and the reflective strip on a school bag glow when a headlight shines on them, as seen from near the headlight. Left on the Moon by astronauts in 1969, a set of corner reflectors still sends laser flashes back to Earth. India's Chandrayaan-3 lander, in 2023, carried one made by NASA.",
+   "description": "A single mirror sends a beam off at an angle. Two mirrors at a right angle make the beam bounce twice, and it comes out parallel to its path in, going back toward the torch. Three mirrors at right angles, like the inside corner of a cardboard box, do this for a beam from any direction. That is why a bicycle reflector, a cat's eye on a road and the reflective strip on a school bag glow when a headlight shines on them. The glow is brightest for someone looking from near the headlight. Astronauts left a set of corner reflectors on the Moon in 1969. It still sends laser flashes back to Earth. In 2023, India's Chandrayaan-3 lander carried one made by NASA.",
    "examples": [
     "A cat's eye in the middle of a highway glows back at the driver.",
     "A reflective strip on a school bag glows brightly in a torch beam, and can look dark in daylight.",
@@ -266,7 +266,7 @@
    "concept": "Curved mirrors gather or spread light",
    "status": "defined",
    "definition": "A concave mirror, curved inward, gathers parallel rays to a bright spot. A convex mirror, curved outward, spreads them and shows a wide view.",
-   "description": "Every tiny patch of a curved mirror follows the rule of reflection, but the patches are tilted differently. On a concave mirror, the patches tilt so that the reflected rays cross at one spot, the focus. The light there is packed tight and bright. Solar cookers, torch reflectors and telescope mirrors use this. On a convex mirror, the patches tilt away from each other, so the rays spread out. You see a wide view, but small. Shop corner mirrors and the side mirrors of cars are convex. Never use a curved mirror to focus sunlight at your hand, a person or a pet. The bright spot can burn skin and start fires.",
+   "description": "Every tiny patch of a curved mirror follows the rule of reflection, but the patches are tilted differently. On a concave mirror, the patches tilt so that the reflected rays cross at one spot, the focus. The light there is packed tight and bright. Solar cookers, torch reflectors and telescope mirrors use this. On a convex mirror, the patches tilt away from each other, so the rays spread out. You see a wide view, but small. Shop corner mirrors and the side mirrors of cars are convex. Never use a curved mirror to focus sunlight onto your hand, a person or a pet. The bright spot can burn skin and start fires.",
    "examples": [
     "The inside of a steel katori gathers a torch beam to a small spot, and the back spreads it out.",
     "Car headlights have a curved mirror behind the bulb, so most of the light goes forward in a beam.",
@@ -279,7 +279,7 @@
    "concept": "Light trapped inside glass: optical fibres",
    "status": "defined",
    "definition": "Light travelling along inside a thin glass strand bounces off the inside walls and stays in, even round bends. This is how an optical fibre carries a message.",
-   "description": "When light inside glass hits the wall at a shallow angle, it is all reflected back in, and none escapes. This is called total internal reflection. Inside a thin strand of glass, the light keeps hitting the wall at shallow angles, so it zigzags along the whole length, bends and all. Narinder Singh Kapany, a physicist born in Punjab, did early work in the 1950s that helped to show that light could be carried this way, and he is remembered for naming the field fibre optics. Today, internet messages travel as flashes of light along fibres on the sea floor. Doctors use bundles of fibres to look inside the body.",
+   "description": "When light inside glass hits the wall at a shallow angle, it is all reflected back in, and none escapes. This is called total internal reflection. Inside a thin strand of glass, the light keeps hitting the wall at shallow angles, so it zigzags along the whole length, bends and all. In the 1950s, Narinder Singh Kapany, a physicist born in Punjab, did early work that helped to show that light could be carried this way. He is remembered for naming the field fibre optics. Today, internet messages travel as flashes of light along fibres on the sea floor. Doctors use bundles of fibres to look inside the body.",
    "examples": [
     "Internet cables under the sea are optical fibres, carrying flashes of light.",
     "Doctors can look inside the stomach with a thin tube of optical fibres.",
@@ -292,7 +292,7 @@
    "concept": "Mirrors in living bodies",
    "status": "defined",
    "definition": "Many living beings have mirrors in their bodies, to see, to hide or to shine.",
-   "description": "A scallop has dozens of tiny eyes along the edge of their shell. In 1965, Michael Land, a British scientist, showed that each eye has a curved mirror at the back that gathers light to form an image. Many silvery fish, such as sardines, have tiny crystals in their scales that act as mirrors. In open water, these scales reflect the light around the fish, which makes the fish hard for hunters to see. Cats have a mirror layer behind the retina, which sends light back through the eye for a second chance to be caught. That is why a cat's eyes shine in a torch beam. Some beetles and butterflies have shining wings that are not coloured by paint. Their surface structure reflects only certain colours.",
+   "description": "A scallop has dozens of tiny eyes along the edge of their shell. In 1965, Michael Land, a British scientist, showed that each eye has a curved mirror at the back that gathers light to form an image. Many silvery fish, such as sardines, have tiny crystals in their scales that act as mirrors. In open water, these scales reflect the light around the fish, which makes the fish hard for hunters to see. Cats have a mirror layer behind the retina, the part at the back of the eye that catches light. The mirror layer sends light back through the retina, so the eye gets a second chance to catch it. That is why a cat's eyes shine in a torch beam. Some beetles and butterflies have shining wings that are not coloured by paint. Their surface structure reflects only certain colours.",
    "examples": [
     "A scallop's eyes use a curved mirror to make an image.",
     "A sardine's silver sides reflect the water around them.",
@@ -339,7 +339,7 @@
   },
   {
    "text": "Light follows the same rule of reflection on every flat patch of a surface, rough or smooth.",
-   "evidence": "Looking at a surface under a microscope, each tiny patch bounces a thin beam at the matching angle. Laser tests on rough and smooth surfaces agree with this."
+   "evidence": "Under a microscope, each tiny patch of a surface bounces a thin beam at the matching angle. Laser tests on rough and smooth surfaces agree with this."
   },
   {
    "text": "Polishing, waxing or wetting a surface can make it shinier, because it smooths the bumps.",
@@ -355,7 +355,7 @@
   },
   {
    "text": "A concave mirror gathers light to a focus, and a convex mirror spreads it out.",
-   "evidence": "Telescopes with curved mirrors, solar cookers, car headlights and shop mirrors all work, and a katori and a torch show it at home."
+   "evidence": "Telescopes with curved mirrors, solar cookers, car headlights and shop mirrors all work this way. You can see it at home with a katori and a torch."
   }
  ],
  "challenging": [
@@ -395,7 +395,7 @@
    "claim": "Archimedes burned the Roman fleet at Syracuse using a ring of mirrors or shiny shields.",
    "who": "Writers who lived hundreds of years after Archimedes, such as Lucian, wrote about it, and many people since have repeated it.",
    "for": "A big curved mirror can focus sunlight to a hot spot. Some modern tests have lit wood at short range after several minutes.",
-   "against": "The earliest writers who describe the siege do not mention it. Ships move, the Sun is not a point and the spot is hard to hold in place. Most historians doubt the story, though it remains a famous idea.",
+   "against": "The earliest writers who describe the siege do not mention it. Ships move, the Sun is not a tiny dot, and the hot spot is hard to hold in place. Most historians doubt the story, though it remains a famous idea.",
    "status": "debated",
    "context": "This card is about a famous old story, that Archimedes used mirrors as a weapon, and whether it could be true."
   },
@@ -430,7 +430,7 @@
    "hint": "A perfect mirror shows only the things in front of it. Can you see the mirror itself?"
   },
   {
-   "q": "Light carries a little news from every surface it bounces off. Is the light in a room a kind of record of everything it has touched?",
+   "q": "Light picks up something, such as colour, from every surface it bounces off. Is the light in a room a kind of record of everything it has touched?",
    "kind": "deep",
    "hint": "The colour of a red apple is in the light that reaches your eye. What else is in it?"
   },
@@ -480,7 +480,7 @@
    "'It moves a lot when I move the plate a little,' she said. 'That is how a ball bounces. A tiny turn makes a big change.'",
    "Now she had to aim. She remembered the trick Miss Fernandez had taught them. She held out her other hand with two fingers in a V, in front of her. She tilted the plate until the bright spot sat on the tip of one finger. Then she moved her whole hand until the V pointed straight at the white lighthouse on the shore. She slid the spot of light along her fingers, and then off the tip, and out along the line toward the land.",
    "She could not see where the spot landed, a long way off. She only knew that it was going in the right direction. Murugan stood beside her and counted. She covered the plate with her palm and uncovered it, to make short flashes and long flashes. She made three short, then three long, then three short. It was the old call for help that Miss Fernandez had told them sailors used.",
-   "The Sun slid lower. Her arm ached. The flashes got fainter, because the Sun was low and the light that fell on the plate was thinner. Her mother took the plate and held it while Selvi rested her arm, and then Selvi took it back. They kept it going, three short, three long, three short.",
+   "The Sun slid lower. Her arm ached. The flashes got fainter, because the Sun was low and the light that fell on the plate was weaker. Her mother took the plate and held it while Selvi rested her arm, and then Selvi took it back. They kept it going, three short, three long, three short.",
    "Far to the north, a bigger fishing boat was heading home. At the front stood Mary Akka, a friend of Kalaivani Amma, in a red scarf. She saw something strange. It was a small white star, blinking low over the sea, at a time of day when no stars were out. Three short blinks, three long blinks, three short blinks. She stared at it for a moment. Then she shouted to her crew, and the big boat turned.",
    "That evening, Kalaivani Amma and the children were towed back into Rameswaram harbour with the lamps coming on all along the shore.",
    "The next day Miss Fernandez asked Selvi what she had done. 'I used the plate,' said Selvi. 'The plate is smooth. The pot is covered in tiny dents. A smooth surface bounces all the light the same way, so it can be aimed in one beam. A rough surface bounces it every which way, so it just glows.'",
@@ -504,12 +504,12 @@
  "roots": {
   "context": "We found out that every surface reflects, and that the only difference is how tidily it does it. Now we ask what that tells us about seeing the world and ourselves.",
   "deep_truth": {
-   "truth": "A white wall and a mirror both bounce light off at the same angle. The wall is made of tiny bumps facing every way. So it sends light everywhere, and you see the wall itself.",
+   "truth": "A white wall and a mirror follow the same rule: light leaves at the same angle at which it arrives. But the wall is made of tiny bumps facing every way. So it sends light everywhere, and you see the wall itself.",
    "habit": "We say 'mirrors reflect' as if walls, paper and people did not. We only notice reflection when it makes a picture.",
    "evidence": "In the Where Does the Bounce Go test, the mirror showed its lit spot from one place only, and the white paper showed its spot from every place. Both followed the rule. If your results differ, write them down as they are and test again."
   },
   "three": {
-   "who_am_i": "You see your friends only because light scatters off them into your eyes. A mirror is the only time you see your own face with tidy light.",
+   "who_am_i": "You see your friends only because light scatters off them into your eyes. You see your own face only in a mirror, where the light comes back in neat order.",
    "what_is_life": "A scallop sees with tiny curved mirrors at the back of their eyes. A sardine hides by reflecting the water around her. Many living beings use reflection to see or to hide.",
    "what_is_this_world": "Almost everything you have ever seen was scattered light. The Moon, the page of a book and a friend's face are all lit by light that bounced off them."
   },
@@ -532,7 +532,7 @@
     "status": "settled"
    },
    {
-    "text": "A surface acts as a mirror when its bumps are much smaller than the wavelength of light, about half a thousandth of a millimetre.",
+    "text": "A surface acts as a mirror when its bumps are much smaller than the wavelength of light. The wavelength is the length of one wave of light, about half a thousandth of a millimetre.",
     "status": "settled"
    },
    {
@@ -601,7 +601,7 @@
       },
       {
        "f": "A calm pond at sunrise.",
-       "b": "Clear image. Calm water is smooth, and the Sun is low, which is a glancing angle. Both help to make a clear image of the trees."
+       "b": "Clear image. Calm water is smooth, and the Sun is low, so its light meets the water at a glancing angle. Both help to make a clear image of the trees."
       },
       {
        "f": "The black screen of a switched-off phone.",
@@ -702,7 +702,7 @@
     "Lay the 3 signs in a row. Shuffle the 24 cards and make a face-down pile. Put the 40 stars in a heap in the middle.",
     "On your turn, take the top card and read the front aloud. Do not read the back.",
     "Choose a sign for the card and say why in one sentence. Use the words smooth, rough or bumps. Put the card under that sign.",
-    "Read the back aloud. If you picked the right sign, take 2 stars. If you were wrong, move the card to the right sign and take 1 star for any good reason.",
+    "Read the back aloud. If you picked the right sign, take 2 stars. If you picked the wrong sign, move the card to the right sign. Take 1 star if your reason was a good one.",
     "Bonus: take 1 more star if you can say one thing that would move the card to a different sign, such as polishing it, wetting it or scratching it.",
     "Play until all the cards are placed. The player with the most stars wins. If you tie, you share the win.",
     "Playing alone: try to place at least 18 of the 24 cards correctly the first time, and win bonus stars. Then play again and beat your score."
@@ -720,12 +720,12 @@
        "q": "Which sign do you think most things around you belong in?",
        "good": [
         "No image.",
-        "The wall sign.",
+        "The No image sign.",
         "Most things are rough."
        ]
       }
      ],
-     "parent": "Do not correct the guess. Most things around us belong under No image. That is how we see them at all."
+     "parent": "Do not correct the guess. Most things around us belong under No image. They scatter light, and that is why we can see them from anywhere."
     },
     {
      "id": "s2",
@@ -769,7 +769,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Count the stars. Look at the cards under each sign. Pick one card from the third pile and ask what would make it shinier.",
+     "do": "Count the stars. Look at the cards under each sign. Pick one card from the No image pile and ask what would make that surface shinier.",
      "say": "Look at the pile with no image. Pick one card. What could you do to make it show an image?",
      "kid": "Pick a no-image card. How could you make it shine?",
      "context": "In this step, you count stars and ask how a dull surface could be made shinier.",
@@ -895,7 +895,7 @@
    "rules": [
     "Draw a 5 by 5 grid on paper, about 3 centimetres for each square. Row 1 is the top. Column 1 is on the left.",
     "Take a Maze card. Copy its mirrors onto your grid. R is a line like a slash. L is a line like a backslash. A dot is an empty square.",
-    "Put your finger where the beam enters. The beam goes straight until it meets a mirror. A mirror turns it through a right angle, as the key on the board shows.",
+    "Put your finger where the beam enters. The beam goes straight until it meets a mirror. A mirror turns it through a right angle, as the key shows.",
     "Trace the beam until it leaves the grid. Say where it leaves and how many times it turned. Then read the back.",
     "If you have the exit right, take 2 stars. If you also have the number of turns right, take 1 more star.",
     "Play all 12 cards, or as many as you like. The player with the most stars wins. If you tie, you share the win.",
@@ -905,8 +905,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the cards, the key and the tokens. Draw the 5 by 5 grid. Read the key together.",
-     "say": "A mirror turns a beam through a right angle. A mirror that leans right sends a beam going right upward. Let's check the key on the board.",
+     "do": "Cut out the cards, the key and the stars. Draw the 5 by 5 grid. Read the key together.",
+     "say": "A mirror turns a beam through a right angle. When a beam going right meets a mirror that leans right, it turns upward. Let's check the key.",
      "kid": "Draw the grid. Read the key for R and L.",
      "context": "This is the first step of Mirror Maze. You draw the grid and learn the key.",
      "ask": [
@@ -925,7 +925,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Try Maze 1 together. Copy it to the grid, trace the beam and check the back.",
-     "say": "Put your finger where the beam enters. Go straight until a mirror. Which way does it turn? Keep going until it leaves.",
+     "say": "Put your finger where the beam enters. Go straight until you meet a mirror. Which way does the beam turn? Keep going until it leaves the grid.",
      "kid": "Trace the first maze with your finger. Where does the beam leave?",
      "context": "In this step, you trace the first maze together and see how it works.",
      "check": {
@@ -1107,7 +1107,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "A grown-up draws a dot in the middle of the big sheet. Use a string 40 centimetres long to draw a half circle round it. Use a protractor to mark the torch spot at 45 degrees from the left end of the line through the dot. Mark five viewing marks at 15, 75, 105, 135 and 165 degrees. Number them 1 to 5.",
+     "do": "A grown-up draws a dot in the middle of the big sheet, and a straight line through the dot. Use a string 40 centimetres long to draw a half circle round the dot, on one side of the line. With a protractor, measure angles from the left end of the line. Mark the torch spot at 45 degrees. Mark five viewing marks at 15, 75, 105, 135 and 165 degrees. Number them 1 to 5.",
      "say": "The dot in the middle is where each surface will stand. The torch goes at its mark. We will look at the surface from five marks around the half circle.",
      "kid": "Draw a dot and a half circle. Mark the torch spot and five viewing marks.",
      "adult": true,
@@ -1130,10 +1130,10 @@
      "id": "s3",
      "mins": 8,
      "do": "Make the room dark. Stand the mirror upright on the dot with clay, facing the viewing marks. Switch on the torch at its mark, aimed at the dot through the card with the hole. Put your chin on the table at mark 1. Look at the mirror. Move to marks 2, 3, 4 and 5 in turn. Write which marks show a lit spot.",
-     "say": "Chin on the table. Look at the mirror from mark 1. Can you see the lit spot? Now mark 2. Keep going to mark 5. Where does the bright flash appear?",
+     "say": "Put your chin on the table. Look at the mirror from mark 1. Can you see the lit spot? Now look from mark 2. Keep going to mark 5. Where does the bright flash appear?",
      "kid": "Put your chin on the table. Look at the mirror from each mark. Where do you see the spot?",
      "adult": true,
-     "parent": "Expected: a bright flash of the torch itself at mark 4, and almost nothing at the other marks. The flash can be dazzling, so glance for a moment only. A thin beam makes no visible spot on a clean mirror from any other mark. Then test the smooth foil in the same way. It should act like a weaker mirror. The mirror must lie along the straight line through the dot, so its flat faces point toward marks 1 and 5. If nobody sees the flash, nudge the mirror a little.",
+     "parent": "Expected: a bright flash of the torch itself at mark 4, and almost nothing at the other marks. The flash can be dazzling, so glance for a moment only. A thin beam makes no visible spot on a clean mirror from any other mark. Then test the smooth foil in the same way. It should act like a weaker mirror. The mirror must stand along the straight line through the dot, with its shiny side facing the viewing marks. If nobody sees the flash, nudge the mirror a little.",
      "context": "In this step, you test the mirror and the smooth foil from five places."
     },
     {
@@ -1173,7 +1173,7 @@
        ]
       }
      ],
-     "parent": "The key idea is that the paper reflects too. We see the lit spot on the paper only because paper reflects light into our eyes, from every direction. The mirror sends all of its light in one direction. They follow the same rule, but the bumps in paper face every way.",
+     "parent": "The key idea is that the paper reflects too. We see the lit spot on the paper only because paper reflects light into our eyes, wherever we stand. The mirror sends all of its light in one direction. They follow the same rule, but the bumps in paper face every way.",
      "context": "In this step, you work out what the results say about smooth and rough surfaces."
     }
    ]
@@ -1283,8 +1283,8 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Dim the room. Stand the torch on the table 40 centimetres from a strip, shining along the table. Lay strip A flat in front of you. Put your chin on the table and look across the strip toward the torch. Sit on the far side of the strip so the torch is straight ahead beyond it. Score each strip. Give 0 for none, 1 for a faint smear, 2 for fuzzy but clear, and 3 for a sharp torch shape. Write what the torch's reflection looks like. Repeat for B, C and D.",
-     "say": "Chin on the table, looking across the strip at the torch. Can you see the torch's reflection in the strip? Is it sharp, or is it a fuzzy smear? Write it down. Then the next strip.",
+     "do": "Dim the room. Lay strip A flat on the table in front of you. Stand the torch on the table 40 centimetres beyond the strip, shining along the table toward you. Sit so that the strip is between you and the torch, with the torch straight ahead. Put your chin on the table and look across the strip toward the torch. Give the strip a score: 0 for no reflection, 1 for a faint smear, 2 for fuzzy but clear, and 3 for a sharp torch shape. Write what the torch's reflection looks like. Repeat for B, C and D.",
+     "say": "Put your chin on the table and look across the strip at the torch. Can you see the torch's reflection in the strip? Is it sharp, or is it a fuzzy smear? Write it down. Then do the next strip.",
      "kid": "Put your chin on the table. Look across each strip at the torch. Is the reflection sharp or fuzzy?",
      "parent": "Expected: A shows a faint fuzzy smear. D, the taped strip, shows the sharpest reflection of the torch. C is usually better than A. B varies, and may be no better than A. If B looks as good as D, write that down. Do not look directly at the torch. If every strip looks the same, darken the room and lower your chin until it touches the table. The effect needs a very low angle.",
      "context": "In this step, you look across each strip at a low angle and judge its reflection."
@@ -1351,7 +1351,7 @@
     }
    ],
    "safety": "A grown-up cuts the slit and tapes the edges of the mirrors. Never shine a torch into anyone's eyes.",
-   "record": "Fill in the table. Draw the two mirrors and your three beams on the paper, with arrows to show the way in and the way out. Colour each in and out pair with the same colour.",
+   "record": "Fill in the table. Draw the two mirrors and your three beams on the paper, with arrows to show the way in and the way out. Use a different colour for each beam, with its line in and its line out in the same colour.",
    "context": "In this experiment, you set two mirrors at a right angle and follow a beam through them. You find out why a bicycle reflector sends light straight back to a car's headlight.",
    "setup": [
     {
@@ -1395,7 +1395,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Draw a line on the paper. Stand the two mirrors upright with clay, so they meet at a corner on the line, at a right angle. Use the corner of a book to check the angle. The shiny sides face each other.",
-     "say": "Like an open book standing up, with the shiny sides facing in. The corner of the book checks that the angle between the mirrors is a right angle.",
+     "say": "Stand the two mirrors like an open book standing up, with the shiny sides facing in. Use the corner of a book to check that the angle between the mirrors is a right angle.",
      "kid": "Stand the mirrors like an open book. Check the corner with a book. Shiny sides in.",
      "adult": true,
      "parent": "Press the clay firmly. The mirrors must not wobble. If the room is bright, close the curtains. The thin line of light is faint and needs a dark room. If the line is too faint, make the slit a little wider. To make the thin line: tape the slit card flat over the torch lamp. For a sharper line, stand a second slit card on the paper about 5 centimetres in front of the torch, and let the beam skim along the paper.",
@@ -1404,7 +1404,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Lay the torch flat on the paper, aimed at the corner at about 20 degrees to the first mirror. Mark two dots on the thin line going in. Mark two dots on the line coming out. Join the dots with a ruler. Repeat at about 45 degrees and 70 degrees. Then remove one mirror and try again with one mirror alone. Use the protractor to measure the angle between each pair of lines. It should be close to 0 degrees.",
+     "do": "Lay the torch flat on the paper, aimed at the corner at about 20 degrees to the first mirror. Mark two dots on the thin line going in. Mark two dots on the line coming out. Join each pair of dots with a ruler. Use the protractor to measure the angle between the line going in and the line coming out. It should be close to 0 degrees, which means the two lines are parallel. Repeat at about 45 degrees and 70 degrees. Then remove one mirror and try again with one mirror alone.",
      "say": "Lay the torch down. Mark two dots on the beam going in. Mark two dots on the beam coming out. Join each pair with a ruler. How do the two lines compare? Do the same for a different angle.",
      "kid": "Mark the beam going in. Mark the beam coming out. Join the dots. How do the lines compare?",
      "parent": "Expected: with two mirrors at a right angle, the line out is parallel to the line in, and goes back the way it came, at all three angles. With one mirror alone, the beam goes off in a different direction every time. Tiny errors are normal. Check that the lines look parallel, not that they match exactly.",
@@ -1496,7 +1496,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guesses. Any guess is fine. The foil, tile and stone are good surprises.",
+     "parent": "Do not correct the guesses. Any guess is fine. The foil, the tile and the stone often surprise children.",
      "context": "This is the first step of Shiny or Dull Hunt. You guess before you test."
     },
     {
@@ -1505,7 +1505,7 @@
      "do": "Test each thing in turn. Hold it up, with the window or lamp behind you, and look for the window shape in it. Write down clear, fuzzy or none. Look at the steel tumbler, spoon and foil from different angles.",
      "say": "Stand with the window behind you. Hold up each thing and look for the shape of the window in it. Can you see the panes and the frame? Clearly, fuzzily or not at all?",
      "kid": "Hold each thing up. Look for the window in it. Clear, fuzzy or none?",
-     "parent": "Expected: the tumbler, spoon, flat foil and tile show the window clearly or almost. The coin, brass lamp, magazine page and wood show a fuzzy or partial one. White paper, black cloth and crumpled foil show nothing clear. Stone depends on how smooth it is. Write what you see.",
+     "parent": "Expected: the tumbler, spoon, flat foil and tile show the window clearly or almost clearly. The coin, brass lamp, magazine page and wood show a fuzzy or partial one. White paper, black cloth and crumpled foil show nothing clear. Stone depends on how smooth it is. Write what you see.",
      "check": {
       "t": "mcq",
       "q": "Crumpled foil is shiny, but shows no clear window. Why?",
@@ -1523,7 +1523,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Put your chin on the table beside the wooden table, the tile and the paper. Look across each one toward the window or lamp. Write whether you see a bright reflection of it at this low angle.",
+     "do": "Put the tile and the paper on the wooden table. Put your chin on the table. Look across the wood, then the tile, then the paper, toward the window or lamp. Write whether you see a bright reflection of the window or lamp at this low angle.",
      "say": "Put your chin down. Look across the table toward the window. Can you see a bright patch where the window is reflected? Now the paper. Now the tile.",
      "kid": "Put your chin on the table. Look across the wood, the tile and the paper. Do you see the window?",
      "parent": "At a low angle, even dull things show a bright reflection. Wood, paper and tile are good ones to try. This is why a wet road glares at night. The light skims over the bumps.",
@@ -1608,10 +1608,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Make the room dim. Fold the white card and the red card into a V, like a half-open book, with about a right angle between them. Stand them on the table. Shine the torch at the red card, so the beam hits only the red. Look at the white card near the fold. Shine the torch from about 15 centimetres, at a slant along the red card. No direct light may fall on the white card. Hold the plain white paper well away from the red and compare its colour with the white card near the fold. Give the tint a score from 0 (none) to 3 (clear) at the fold, 5 centimetres from it and 10 centimetres from it. With 2 to 4 children, one holds the torch, one holds the cards, and the others score.",
+     "do": "Make the room dim. Stand the white card and the red card on the table so that they meet in a V, like a half-open book, with about a right angle between them. Shine the torch at the red card from about 15 centimetres away, at a slant along the red card, so the beam hits only the red. No direct light may fall on the white card. Look at the white card near the fold, where the two cards meet. Hold the plain white paper well away from the red card, and compare its colour with the white card near the fold. Give the tint on the white card a score from 0 (none) to 3 (clear) at three places: at the fold, 5 centimetres from it and 10 centimetres from it. With 2 to 4 children, one holds the torch, one holds the cards, and the others score.",
      "say": "The beam lands only on the red card. Look at the white card, close to the fold. Do you see any colour on it? Move your eyes further from the fold. What happens?",
      "kid": "Light only the red card. Look at the white card near the fold. Do you see any colour?",
-     "parent": "Expected: a faint pink glow on the white card near the fold, that fades further away. The effect is subtle. A very dim room and a bright torch help. If you cannot see it, hold a clean sheet of white paper beside the white card for comparison. It will look plainer. The most reliable way is a sunny window: lay the red card in bright daylight beside the white card, with no direct sun on the white. Never look into the sun.",
+     "parent": "Expected: a faint pink glow on the white card near the fold, which fades further from the fold. The effect is subtle. A very dim room and a bright torch help. If you cannot see it, hold a clean sheet of white paper beside the white card for comparison. The clean sheet will look plainer. The most reliable way is a sunny window: lay the red card in bright daylight beside the white card, with no direct sun on the white. Never look into the sun.",
      "check": {
       "t": "mcq",
       "q": "The torch light only landed on the red card, yet the white card looked slightly pink near the fold. Why?",
@@ -1632,7 +1632,7 @@
      "do": "Swap the red for the green card, and shine the torch on the green only. Look at the white card. Then take the coloured card away and shine the torch at the white one alone. Compare.",
      "say": "Now the green card. What colour does the white card take? Now take the green away. What does the white card look like by itself?",
      "kid": "Swap in the green card. Light it. What colour does the white card take?",
-     "parent": "The white card should pick up a green tint near the fold, and none when the coloured card is removed. This is the same reason a person standing beside a bright red wall looks slightly flushed.",
+     "parent": "The white card should pick up a green tint near the fold, and none when the coloured card is removed. This is the same reason a person standing beside a bright red wall looks slightly red.",
      "context": "In this step, you swap the red card for a green one and compare."
     },
     {
@@ -1737,7 +1737,7 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "Turn the katori round, so that its back faces the torch. Catch the light on the card and move the card as before. Compare it with the inside. Then light the room. Look at your face in the inside of a large steel spoon, at arm's length. Look in the back too.",
+     "do": "Turn the katori round, so that its back faces the torch. Catch the light on the card and move the card as before. Compare it with the inside. Then switch on the room light. Look at your face in the inside of a large steel spoon, at arm's length. Look in the back of the spoon too.",
      "say": "Now the back of the katori. Where does the light go? Is it small and bright, or large and dim? What is different from before?",
      "kid": "Turn the katori round. Shine the torch on its back. Is the spot big or small?",
      "parent": "The back spreads the beam into a wide, dim patch with no sharp spot. That is why convex mirrors, which curve outward, are used on cars and in shop corners: they show a wide view. This is a good moment to name the two kinds, concave and convex. Expected: the back never makes a small bright spot, only a dim wide patch. In the inside of the spoon your face is usually upside down; in the back it is upright and small.",
@@ -1796,7 +1796,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Before you go out, ask your child to guess what kinds of things will glow back at a torch. Write the guesses. Check the torch works. With 2 to 4 children, give each their own torch and a job: spotter, recorder, side-stepper. One grown-up can look after up to four children on a quiet path.",
+     "do": "Before you go out, ask your child to guess what kinds of things will glow back at a torch. Write the guesses. Check the torch works. With 2 to 4 children, give each their own torch and a job: one spots things, one writes them down, and one steps to the side to look from there. One grown-up can look after up to four children on a quiet path.",
      "say": "We will walk at dusk with a torch. What kinds of things do you think will glow back at us when we shine the torch on them? Why do you think so?",
      "kid": "Walk at dusk with a torch. What kinds of things will glow back? Why?",
      "ask": [
@@ -1830,7 +1830,7 @@
      "kid": "Look from beside the torch. Then step to the side. Does the glow stay?",
      "check": {
       "t": "mcq",
-      "q": "A bicycle reflector glows brightly when a car's headlight lights it, and the driver sees the glow. Why is the glow so good for the driver?",
+      "q": "A bicycle reflector glows brightly when a car's headlight shines on it. Why does the driver see the glow so well?",
       "options": [
        "It sends the light straight back toward the headlight, near the driver's eyes",
        "It makes its own light",
@@ -1965,7 +1965,7 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "On day 2, slide one wedge into the top of the carton. Its top leg lies along the top edge. Its flat leg lies against the back wall. Its mirror faces the front window. Slide the second wedge into the bottom. Its flat leg lies against the front wall, and its mirror faces the back window. Tape both in place. Look into the lower window.",
+     "do": "On day 2, slide one wedge into the top of the carton. One of its 7 centimetre sides lies along the top edge. The other 7 centimetre side lies against the back wall. Its mirror faces the front window. Slide the second wedge into the bottom. One of its 7 centimetre sides lies against the front wall, and its mirror faces the back window. Tape both in place. Look into the lower window.",
      "say": "Top wedge: the mirror faces down and toward the front window. Bottom wedge: the mirror faces up and toward the back window. Both mirrors lean the same way, with their shiny sides facing each other.",
      "kid": "Fit the top wedge. Fit the bottom wedge. The mirrors face each other. Look in the lower window.",
      "adult": true,
@@ -2000,7 +2000,7 @@
    "id": "c1",
    "title": "Look Round Two Corners: a bendy periscope",
    "mins": 40,
-   "problem": "A toy sits on the floor on the far side of a sofa, and another round a corner of the hallway. Make a periscope using three or more mirrors that lets you see the toy without moving your head from one spot.",
+   "problem": "One toy sits on the floor on the far side of a sofa. Another toy sits round a corner of the hallway. Make a periscope with three or more mirrors that lets you see a toy without moving your head from one spot.",
    "constraints": [
     "Use only mirrors, card, tape and clay or books to hold them.",
     "Do not move the toy, and do not move your head from the spot you chose.",
@@ -2056,7 +2056,7 @@
        ]
       }
      ],
-     "context": "This is the first step of Look Round Two Corners. You plan."
+     "context": "This is the first step of Look Round Two Corners. You plan where the mirrors will go."
     },
     {
      "id": "s2",
@@ -2064,7 +2064,7 @@
      "do": "Place the mirrors and test them. Start by shining the torch from your eye position and follow the beam from mirror to mirror to the toy. Adjust each mirror by a small amount at a time.",
      "say": "Start from your eye. Shine the torch along the path. Does the beam reach the toy? Adjust the nearest mirror a little. Then the next.",
      "kid": "Place the mirrors. Shine the torch along the path. Adjust each mirror a little.",
-     "parent": "Light is reversible. If the torch's beam can go from your eye to the toy, the toy's light can go back to your eye. Tiny changes of angle move the beam a lot, so adjust slowly. Work in a dim room so the beam shows on the walls.",
+     "parent": "Light can travel the same path in either direction. If the torch's beam can go from your eye to the toy, the toy's light can go back to your eye. Tiny changes of angle move the beam a lot, so adjust slowly. Work in a dim room so the beam shows on the walls.",
      "context": "In this step, you place and adjust the mirrors, using a torch to find the path."
     },
     {
@@ -2094,7 +2094,7 @@
    "id": "c2",
    "title": "Wide-View Shop Mirror: see the whole room from one spot",
    "mins": 30,
-   "problem": "You are a shopkeeper in a small room with a door on one side and two corners on the other. Find the shiny surface from the kitchen that lets you see the most of the room from your chair, without moving.",
+   "problem": "You are a shopkeeper in a small room with a door on one side and two corners on the other. Find which shiny thing from the kitchen lets you see the most of the room from your chair, without moving.",
    "constraints": [
     "Test at least four different shiny things.",
     "Place five small toys around the room: two in corners, one by the door and two on the walls.",
@@ -2117,7 +2117,7 @@
     "Try a steel tumbler on its side, which curves in only one direction.",
     "Combine a flat mirror and a curved one, to see the door in one and the corner in the other."
    ],
-   "your_turn": "Sketch the room, the chair and the toys. Test each shiny thing and count the toys you can see. Which showed the most? What was the cost of the wider view? How would you improve it?",
+   "your_turn": "Sketch the room, the chair and the toys. Test each shiny thing and count the toys you can see. Which showed the most? What did you lose with the wider view? How would you improve it?",
    "context": "This is a design challenge about curved mirrors. You find which shiny kitchen thing works best as a wide-view mirror.",
    "setup": [
     {
@@ -2158,7 +2158,7 @@
      "do": "Sit on the chair. Hold each shiny thing at arm's length in front of you. Count how many of the five toys you can see in it. Write the number. Test at least four things, and repeat each once. With 2 to 4 children, each child sits in the chair in turn and counts, and the others check the count. With one child, the parent places the toys.",
      "say": "Hold the first shiny thing at arm's length. Count the toys you can see in it. Write the number. Do the same for each one.",
      "kid": "Hold each shiny thing at arm's length. Count the toys you see. Write the numbers.",
-     "parent": "Expected: the flat plate shows the fewest. The backs of the katori and the spoon, which curve outward, show the most. The steel tumbler lies in between. Things look smaller in the curved ones. Write what you find.",
+     "parent": "Expected: the flat plate shows the fewest. The backs of the katori and the spoon, which curve outward, show the most. The steel tumbler comes in between. Things look smaller in the curved ones. Write what you find.",
      "context": "In this step, you test each shiny thing and count the toys."
     },
     {
@@ -2179,7 +2179,7 @@
       "a": 0,
       "why": "Each tiny patch of a convex mirror faces a different way, so the mirror collects light from a wide range of directions. All that is squeezed into a small picture. That is why shop mirrors and car side mirrors show a wide view where things look small."
      },
-     "context": "In this step, you compare the shiny things and explain the trade-off of a wide view."
+     "context": "In this step, you compare the shiny things and explain what you lose with a wide view."
     }
    ]
   }
@@ -2394,7 +2394,7 @@
      ],
      "ask": "Which explanation fits best with what you know about smooth surfaces and low angles? Say why, and say one thing another view gets right.",
      "lines": 5,
-     "a": "Farhan's view fits best. Water fills the bumps, making the surface smoother, and a low angle makes any surface reflect more in order. Kavya's idea is partly right, as the wet road behaves like a mirror. The uncle's idea is wrong. Water does not make light.",
+     "a": "The explanation that water fills the tiny bumps, and that we see the road at a low angle, fits best. Water makes the surface smoother, and a low angle makes any surface reflect more in order. The explanation that the water acts like a mirror is partly right, as the wet road does behave like a mirror. The explanation that water makes its own light is wrong. Water does not make light.",
      "why": "A strong answer picks one view with a reason from smoothness or angle, and credits a point from another view.",
      "outcome": 4
     },
@@ -2561,7 +2561,7 @@
      "t": "write",
      "p": "Using the words bumps and wavelength, explain why a polished steel plate shows a clear picture but a scratched one shows a hazy picture.",
      "lines": 4,
-     "a": "Light behaves as a wave of about half a thousandth of a millimetre long. A polished plate has bumps much smaller than that, so the light sees a flat surface and reflects in order. A scratched plate has bigger bumps and scratches facing every way, so some of the light scatters, and the picture is hazy.",
+     "a": "Light is a wave about half a thousandth of a millimetre long. A polished plate has bumps much smaller than that, so the light meets a flat surface and reflects in order. A scratched plate has bigger bumps and scratches facing every way, so some of the light scatters, and the picture is hazy.",
      "why": "A strong answer connects the size of the bumps to the size of the wavelength.",
      "outcome": 3
     },
@@ -2886,7 +2886,7 @@
      "t": "truefalse",
      "p": "A reflective strip on a school bag looks very bright in daylight and dim in a car's headlights. True or false?",
      "a": false,
-     "why": "False. A reflective strip sends light straight back to its source. It glows brightly when a headlight or torch shines on it, as seen from near the light. In ordinary daylight it looks plain, because the light comes from everywhere and not back toward your eyes.",
+     "why": "False. A reflective strip sends light straight back to its source. It glows brightly when a headlight or torch shines on it, if you look from near the light. In ordinary daylight it looks plain, because the light comes from everywhere and not back toward your eyes.",
      "outcome": 6
     }
    ]
@@ -2960,7 +2960,7 @@
   },
   {
    "t": "mcq",
-   "p": "A periscope with just one mirror, instead of two, would show a picture that is",
+   "p": "A periscope with just one mirror, instead of two, would show what kind of picture?",
    "opts": [
     "Reversed, because one flip is not cancelled",
     "Upright, the same as with two mirrors",
@@ -3007,7 +3007,7 @@
     "It turns sunlight into sound"
    ],
    "a": 0,
-   "why": "A concave dish tilts each patch so that the reflected rays cross at the pot. The light is packed into a small area, which heats the pot. Dangerous for eyes and skin, so never aim one at a person.",
+   "why": "A concave dish tilts each patch so that the reflected rays cross at the pot. The light is packed into a small area, which heats the pot. The gathered light is dangerous for eyes and skin, so never aim a solar cooker dish at a person.",
    "outcome": 7
   },
   {
@@ -3020,7 +3020,7 @@
     "The Moon being too far away"
    ],
    "a": 0,
-   "why": "Glass bends colours by different amounts, so lenses give coloured fringes. A mirror reflects all colours alike. Newton showed this about 1666 with a prism.",
+   "why": "Glass bends colours by different amounts, so lenses give coloured fringes. A mirror reflects all colours alike. Newton showed this in about 1666 with a prism.",
    "outcome": 7
   },
   {
@@ -3124,16 +3124,16 @@
  ],
  "open_questions": [
   {
-   "q": "Could we build a mirror so smooth and so large that it makes a telescope as sharp as we dream of?",
+   "q": "Could we build a mirror so smooth and so large that a telescope using it sees as sharply as we would like?",
    "why_open": "Telescope mirrors are getting bigger, but big mirrors bend under their own weight and the air above them blurs the view. Engineers are still finding ways round these limits."
   },
   {
    "q": "Should the world try to reflect sunlight away to cool the Earth?",
-   "why_open": "The ideas have not been tested at scale, and no one knows what they would do to the monsoon or to the world's weather. Scientists and countries disagree."
+   "why_open": "The ideas have not been tested on a large scale, and no one knows what they would do to the monsoon or to the world's weather. Scientists and countries disagree."
   },
   {
    "q": "Why do only some animals recognise their own face in a mirror?",
-   "why_open": "A few kinds of animals pass the mark test. Scientists disagree about whether failing it means an animal has no sense of self, or only that the test does not suit them."
+   "why_open": "In the mark test, a mark is put on an animal's body where they can see it only in a mirror. A few kinds of animals pass the test. Scientists disagree about whether failing it means an animal has no sense of self, or only that the test does not suit them."
   },
   {
    "q": "Can we make a surface that reflects no light at all?",
@@ -3206,7 +3206,7 @@
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
    "context": "You tested six surfaces in Where Does the Bounce Go. These are made-up numbers for how much light each surface might send back.",
    "how": "e1",
-   "why_maths": "Taking a fraction of the light lands on a surface tells you how much it sends back, so you can compare surfaces with numbers."
+   "why_maths": "Taking a fraction of the light that lands on a surface tells you how much the surface sends back, so you can compare surfaces with numbers."
   },
   {
    "problem": "A beam of light lands on a flat mirror and makes an angle of 30 degrees with the surface. It leaves at the same angle on the other side. What is the angle between the beam going in and the beam going out?",
@@ -3218,7 +3218,7 @@
    "why_maths": "Subtracting the two equal angles from a straight line tells you where to look for the bounce before you test."
   },
   {
-   "problem": "A mirror at 45 degrees turns a beam through 90 degrees. A beam passes through four such mirrors in a row, and each one turns it 90 degrees in the same direction. How many degrees does the beam turn in total, and which way is it going at the end?",
+   "problem": "A mirror at 45 degrees turns a beam through 90 degrees. A beam meets four such mirrors, one after another, and each one turns it 90 degrees in the same direction. How many degrees does the beam turn in total, and which way is it going at the end?",
    "answer": "360 degrees in total. It is going the same way it started.",
    "explain": "4 times 90 is 360. A full turn is 360 degrees. So after four turns in the same direction, the beam is back to its starting direction.",
    "math_unit": "math.lines-angles.angles.L4",
@@ -3244,7 +3244,7 @@
    "why_maths": "Working out the area before you cut shows whether one sheet of card is enough for both wedges."
   },
   {
-   "problem": "The Moon sends back about 12 parts in every 100 of the sunlight that lands on it. White paper sends back about 80 parts in every 100. About how many times as much light does white paper send back as the Moon, for the same light landing?",
+   "problem": "The Moon sends back about 12 parts in every 100 of the sunlight that lands on it. White paper sends back about 80 parts in every 100. If the same amount of light lands on both, about how many times as much light does white paper send back as the Moon?",
    "answer": "About 7 times as much.",
    "explain": "80 divided by 12 is a little more than 6 and a half. 12 times 6 is 72, and 12 times 7 is 84. So 80 is a bit less than 7 times 12. We say about 7 times.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",

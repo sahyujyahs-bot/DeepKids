@@ -127,8 +127,8 @@
    "description": "On a beach in May, the more golas the cart sold, the more people got sunburnt. The numbers really did go together. That is called a correlation. A correlation is worth noticing, because it tells you where to look. But it does not tell you what is making what happen. To know that, you have to do more work. You can look for a third thing, check which came first, and compare with a situation where one of the two is missing.",
    "examples": [
     "More golas sold and more sunburn on the same days is a correlation.",
-    "Taller children read better books. Both go with being older.",
-    "On the days more umbrellas are open in Chennai, the roads are wetter. Neither makes the other happen."
+    "Taller children read better books. Height does not help reading. Both come with being older.",
+    "On the days more umbrellas are open in Chennai, the roads are wetter. Neither makes the other happen. Rain is behind both."
    ],
    "perspectives": [],
    "art": "A scatter of dots on a graph climbing from bottom left to top right, labelled Golas sold and Sunburn cases.",
@@ -151,8 +151,8 @@
   {
    "concept": "Which way round? Sometimes the arrow points the other way",
    "status": "defined",
-   "definition": "Sometimes two things go together because the second one causes the first. The arrow points the opposite way from what you guessed.",
-   "description": "Children who visit the dentist often have more fillings. Does the dentist cause fillings? No. Having bad teeth sends children to the dentist. The cause comes first, and the visit follows. Whenever two things go together, ask which one came first, and ask whether the arrow might point the other way. A diary, a photo with a date, or a timestamped record can show which came first.",
+   "definition": "Sometimes two things go together because the second one causes the first. If you draw an arrow from the cause to the result, it points the opposite way from what you guessed.",
+   "description": "Children who go to the dentist many times have more fillings. Does the dentist cause fillings? No. Having bad teeth sends children to the dentist. The cause comes first, and the visit follows. Whenever two things go together, ask which one came first, and ask whether the second one might be causing the first. A diary, a photo with a date, or a timestamped record can show which came first.",
    "examples": [
     "People who carry inhalers have more breathing trouble. The trouble is why they carry them.",
     "Wet umbrellas outside the school door do not cause rain. Rain causes wet umbrellas.",
@@ -160,13 +160,13 @@
    ],
    "perspectives": [],
    "art": "A child in a dentist's chair with two arrows: a crossed-out one from dentist to fillings and a ticked one from sore teeth to dentist.",
-   "context": "This card explains the third thing to check when two things go together: which came first."
+   "context": "This card explains another thing to check when two things go together: which one came first."
   },
   {
    "concept": "Chance can make patterns",
    "status": "defined",
    "definition": "Chance means no cause is pushing the result. Even so, chance makes streaks and lumps that look like patterns, most often when you have only a few tries.",
-   "description": "A fair coin lands heads about half the time. In ten flips, though, you will often see 7 heads, because ten flips is a small number. About one set of ten flips in six shows 7 or more heads with no wishing at all. In a long run of flips, a streak of four heads in a row turns up many times. People who see a streak often feel a reason must be behind it. Usually the reason is just luck. The way to tell is to ask how often chance alone would do that.",
+   "description": "A fair coin lands heads about half the time. In ten flips, though, you will often see 7 heads, because ten flips is a small number. About one set in every six sets of ten flips shows 7 or more heads, by luck alone. In a long run of flips, a streak of four heads in a row turns up many times. People who see a streak often feel a reason must be behind it. Usually the reason is just luck. The way to tell is to ask how often chance alone would do that.",
    "examples": [
     "Your cricket team wins three matches in a row when you wear a red shirt. Three is a small number.",
     "Two buses to the same stop come together. Chance bunches things up.",
@@ -174,7 +174,7 @@
    ],
    "perspectives": [],
    "art": "A strip of twenty coins in a row with a bracket under four heads in a row, labelled luck.",
-   "context": "This card explains why luck alone can look like a pattern, and what your coin test showed."
+   "context": "This card explains why luck alone can look like a pattern, as the 200 coin flips in The Lucky Coin experiment show."
   },
   {
    "concept": "More tries, steadier results",
@@ -183,7 +183,7 @@
    "description": "In ten flips, the number of heads can swing from 3 to 8. In 100 flips, the number of heads is between 40 and 60 about 96 times out of 100. In 200 flips, it stays even closer to half. So 7 heads out of 10 is not strong evidence of anything. But 70 heads out of 100 would be, because chance almost never does that. This does not mean bigger is always better. If a test is unfair, asking more of the same people only gives you more of the wrong answer.",
    "examples": [
     "A bowler who takes 3 wickets in one match may be lucky. One who takes 3 wickets a match for 40 matches is good.",
-    "One spoonful from a jar is a small try. Ten spoonfuls from different places are steadier.",
+    "Tasting one spoonful from a jar tells you little about the whole jar. Ten spoonfuls from different places in the jar tell you more.",
     "In 1936 a US magazine got more than two million replies to its poll and still guessed the wrong winner. It had asked the wrong people."
    ],
    "perspectives": [],
@@ -194,7 +194,7 @@
    "concept": "A fair comparison needs a control group",
    "status": "defined",
    "definition": "A control group is treated exactly like the test group, except for the one thing being tested. The only way to see what a thing does is to compare it with a case where it is missing.",
-   "description": "Suppose someone says wrapping the stalk of a banana slows its ripening. If you wrap one banana and watch it, you learn nothing, because bananas ripen anyway. You need a second banana, from the same bunch, kept in the same place, with no wrapping. That is the control. If the wrapped banana ripens slower, the wrapping might be the reason. Then you check by trying again. It is like checking an old saying about crows and guests: you need the days when the crow was missing. A control group is that idea, made on purpose.",
+   "description": "Suppose someone says wrapping the stalk of a banana slows its ripening. If you wrap one banana and watch it, you learn nothing, because bananas ripen anyway. You need a second banana, from the same bunch, kept in the same place, with no wrapping. That is the control. If the wrapped banana ripens slower, the wrapping might be the reason. Then you check by trying again. It is like checking the old saying that a crow's call means guests are coming: you also need to look at the days when no crow called. A control group is that idea, made on purpose.",
    "examples": [
     "A medicine test gives the medicine to one group and a dummy pill to another.",
     "A new fertiliser is tried on half the pots, while the other half get plain water.",
@@ -222,7 +222,7 @@
    "concept": "Blind tests and the placebo effect",
    "status": "defined",
    "definition": "In a blind test, people do not know which group they are in. A placebo is a dummy treatment. Both are used because expecting something can change how people feel.",
-   "description": "In many medicine tests, people who were given a plain sugar pill said their pain was less, and some said they felt better. This is called the placebo effect. The feelings are real. The sugar pill did not kill germs or heal bones, though. If a test does not have a placebo group, the effect of expecting to feel better gets mixed up with the effect of the medicine. So testers keep people blind. In a double-blind test, the doctors giving out the pills do not know who got which either, so no sign, look or word can give it away.",
+   "description": "In many medicine tests, people who were given a plain sugar pill said their pain was less, and some said they felt better. This is called the placebo effect. The feelings are real. The sugar pill did not kill germs or heal bones, though. If a test does not have a placebo group, the effect of expecting to feel better gets mixed up with the effect of the medicine. So testers do not tell people which pill they got. That is a blind test. In a double-blind test, the doctors giving out the pills do not know who got which either, so no sign, look or word can give it away.",
    "examples": [
     "Two cups of the same water, one labelled expensive. Many people say the labelled one tastes better.",
     "A new tablet is tested against a look-alike sugar tablet, and nobody knows who got which until the end.",
@@ -235,7 +235,7 @@
   {
    "concept": "Sneaky tricks in evidence",
    "status": "defined",
-   "definition": "Evidence can mislead even when every number in it is true. Cherry-picking, tiny samples, asking only fans, and tests run by sellers are the common tricks.",
+   "definition": "Evidence can mislead even when every number in it is true. Showing only the hits, too few tries, asking only fans, and tests run by sellers are the common tricks.",
    "description": "Here are five ways true numbers can mislead. One: only the hits are shown, like three happy customers out of three hundred. Two: too few tries, like a toothpaste tested on five people. Three: only the fans were asked, like a survey handed out at the biscuit stall. Four: the seller ran the test, so it might be tilted. Five: a chart that starts its bars at 90 instead of 0, so a tiny gap looks huge. None of these proves a claim is wrong. They tell you to ask for more before you believe it.",
    "examples": [
     "\"Nine out of ten users agree!\" Nine out of ten of which ten people?",
@@ -250,7 +250,7 @@
    "concept": "When you cannot run the test: a natural experiment",
    "status": "defined",
    "definition": "A natural experiment is a real-world case where luck has already sorted people into two groups that differ in just one way. Scientists compare them as if they had set up the test.",
-   "description": "In 1854 many people in one part of London were dying of cholera. Most doctors thought it spread through bad air. A doctor named John Snow had another idea: it spread through water. He could not give half the people clean water and half dirty water, which would have been wrong. But he found streets where neighbours were supplied by two different water companies, one drawing water from a dirtier place on the river. The streets, the poverty and the air were the same. The only difference was the water. The households with the dirtier water had many times more deaths. This was strong evidence, and he had not run a test himself.",
+   "description": "In 1854 many people in one part of London were dying of cholera. Most doctors thought it spread through bad air. A doctor named John Snow had another idea: it spread through water. He could not run a test that gave half the people clean water and half dirty water. That would have been wrong. But he found streets where neighbours were supplied by two different water companies, one drawing water from a dirtier place on the river. The streets, the poverty and the air were the same. The only difference was the water. The households with the dirtier water had many times more deaths. This was strong evidence, and he had not run a test himself.",
    "examples": [
     "Two villages get electricity in different years, and scientists compare their school results.",
     "A new road splits a town, and doctors compare the health of the two sides.",
@@ -276,7 +276,7 @@
   {
    "concept": "How strong must the evidence be?",
    "status": "debated",
-   "description": "How much evidence is enough? Thinkers disagree. One idea is that the stranger the claim, the stronger the evidence must be. Another is that the real question is how likely the claim was before you looked. Both agree that a story is not enough.",
+   "description": "How much evidence is enough? Thinkers disagree. One idea is that the stranger the claim, the stronger the evidence must be. Another is to start from how likely the claim seemed before you saw any evidence, and let each piece of evidence change your mind a little. Both agree that a story is not enough.",
    "examples": [
     "A claim that the Moon is made of cheese needs much more than a claim that it will rain tomorrow.",
     "A claim that a new vitamin helps people sleep is believable, but still needs a fair comparison."
@@ -288,7 +288,7 @@
     },
     {
      "who": "Thinkers who use probability, sometimes called Bayesians",
-     "explanation": "Start with how likely the claim was before. Then let each piece of evidence move you up or down. Odd claims start low, so they need more pushes, but nothing is ruled out."
+     "explanation": "Start with how likely the claim seemed before you saw any evidence. Each piece of evidence then makes you believe it a little more or a little less. Odd claims start out unlikely, so they need more evidence, but nothing is ruled out."
     },
     {
      "who": "Many working scientists",
@@ -302,23 +302,23 @@
  "agreed": [
   {
    "text": "Two things going together does not show that one causes the other.",
-   "evidence": "Again and again, a third thing has been found behind a pattern, such as the sun behind golas and sunburn. In Snow's London, the cause of cholera was found by looking behind the first pattern."
+   "evidence": "Again and again, a third thing has been found behind a pattern, such as the sun behind golas and sunburn. In London in 1854, the doctor John Snow found that water was spreading cholera by looking for what was behind a pattern of deaths."
   },
   {
    "text": "Chance alone can make results that look special, especially with few tries.",
-   "evidence": "With a fair coin, about one set of ten flips in six gives 7 or more heads. This follows from counting the ways a coin can fall, and your own 200 flips will show it."
+   "evidence": "With a fair coin, about one set of ten flips in six gives 7 or more heads. This follows from counting the ways a coin can fall, and the 200 flips in The Lucky Coin experiment show it."
   },
   {
    "text": "To see what a thing does, compare with a group that did not get it.",
    "evidence": "Medicine tests, farm trials and school studies all use a control group, because without one the effect of the treatment cannot be told from things that would have happened anyway."
   },
   {
-   "text": "Expecting to feel better can change how people feel, so good tests use a placebo and keep people blind.",
-   "evidence": "In many tests, people given dummy pills reported less pain than people given nothing. A large review of such tests found this effect, mostly for pain and nausea, which are reported by the person."
+   "text": "Expecting to feel better can change how people feel, so good tests use a placebo and do not tell people which group they are in.",
+   "evidence": "In many tests, people given dummy pills reported less pain than people given nothing. A large review of such tests found this effect, mostly for pain and nausea (feeling sick), which only the person themselves can report."
   },
   {
    "text": "Many tries give steadier results than few tries, but more tries cannot fix a test that asked the wrong people.",
-   "evidence": "The counts from coin flips settle towards half as the flips grow. The 1936 poll of more than two million replies still got the winner wrong because of who was asked."
+   "evidence": "The more times a coin is flipped, the closer the share of heads gets to half. In 1936 a US magazine got more than two million replies to its poll and still guessed the wrong winner, because of who was asked."
   },
   {
    "text": "People who would gain from a result are not the best ones to test it.",
@@ -346,7 +346,7 @@
    "claim": "If a poll or test has many people, it must be right.",
    "who": "Some people who like big numbers",
    "for": "More tries do give steadier results when the test is fair.",
-   "against": "In 1936, a US magazine asked millions of people and still guessed wrong, because the people it asked were not like all voters. A big biased sample is still biased.",
+   "against": "In 1936, a US magazine asked millions of people and still guessed wrong, because the people it asked were not like all voters. Asking a huge number of the wrong people still gives the wrong answer.",
    "status": "rejected",
    "context": "This card is about the idea that a big number of people makes a test right."
   },
@@ -362,14 +362,14 @@
    "claim": "We can only know a cause by running an experiment.",
    "who": "Some scientists",
    "for": "An experiment is the strongest way, because you set the groups yourself.",
-   "against": "We cannot run experiments on stars, on history, or on things that would harm people. Snow found the cause of cholera by comparing houses that luck had already sorted. Many scientists say careful comparisons are enough when experiments are impossible.",
+   "against": "We cannot run experiments on stars, on history, or on things that would harm people. John Snow, a doctor in London in 1854, found the cause of cholera by comparing houses that luck had already sorted into two groups. Many scientists say careful comparisons are enough when experiments are impossible.",
    "status": "debated",
    "context": "This card is about whether an experiment is the only way to find a cause."
   }
  ],
  "big_questions": [
   {
-   "q": "Golas and sunburn went together, but the sun was behind both. How many other things we think are connected might just be standing in the same sun?",
+   "q": "Golas and sunburn went together, but the sun was behind both. How many other things that we think are connected might really share a hidden third thing?",
    "kind": "deep",
    "hint": "Think of two things you believe go together, and ask what else is different on those days."
   },
@@ -386,10 +386,10 @@
   {
    "q": "We cannot run an experiment on the Sun or on history. How can we ever know what caused what in such cases?",
    "kind": "big",
-   "hint": "Think of Snow, who compared two kinds of houses that luck had already made."
+   "hint": "Think of John Snow, the doctor who compared houses on the same streets that got water from two different companies."
   },
   {
-   "q": "Who should test a new product: the company that makes it, or someone else? Who pays for the someone else?",
+   "q": "Who should test a new product: the company that makes it, or someone else? And who should pay that someone else?",
    "kind": "big",
    "hint": "Think of a child marking their own homework."
   },
@@ -435,7 +435,7 @@
    "\"How do I know you are not just saying this for your uncle?\" asked the councillor.",
    "\"You don't have to believe me,\" said Meenu. \"Just look at the sunny days only. Then look at Thursday, when there were no golas at all.\"",
    "Sreejith crossed his arms. \"Five sunny days is not many. It could be luck.\"",
-   "Dr. Leela smiled. \"He is right about that, and so is Meenu. Five days is few. Let's count for two more weeks. But Thursday is a good test. If golas caused the burns, a day without golas should have been quiet, and it was not. It could have failed, and it didn't.\"",
+   "Dr. Leela smiled. \"He is right about that, and so is Meenu. Five days is few. Let's count for two more weeks. But Thursday is a good test. If golas caused the burns, a day without golas should have been quiet, and it was not. Meenu's idea could have failed that test, and it didn't.\"",
    "Mrs. Fathima read the chart again, slowly. \"So what does burn the skin?\"",
    "\"The sun,\" said Meenu. \"And standing in it for hours.\"",
    "The councillor did not ban the carts. Instead she asked the camp to put up a shade tent, and to hand out caps. Dr. Leela asked Meenu to help her count for the next two weeks.",
@@ -447,7 +447,7 @@
    "What did she see when she looked only at the sunny days?",
    "Why was the Thursday with no golas such a good test?",
    "Why did Dr. Leela say five sunny days was still few?",
-   "If golas were the cause, what would the second table have looked like?"
+   "If golas were the cause, what would Meenu's table of only the sunny days have looked like?"
   ],
   "art": [
    "A girl turning the handle of an ice shaver on a beach cart while her uncle pours red syrup over a heap of white ice.",
@@ -468,7 +468,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about patterns. Each card names two things that go together. You decide what is really going on: does one cause the other, is it chance, is a hidden third thing behind both, or does the arrow point the other way?",
+   "context": "This is a card game about patterns. Each card names two things that go together. You decide what is really going on: does one cause the other, is it chance, is a hidden third thing behind both, or is it the other way round, with the second thing causing the first?",
    "printables": [
     {
      "kind": "cards",
@@ -499,7 +499,7 @@
        "b": "HIDDEN THIRD THING. How much money the families have is behind both. Cars do not switch on air conditioners."
       },
       {
-       "f": "Children who see the dentist often have more fillings.",
+       "f": "Children who go to the dentist many times have more fillings.",
        "b": "OTHER WAY ROUND. Sore teeth send children to the dentist. The visits do not make the holes."
       },
       {
@@ -547,7 +547,7 @@
        "b": "CAUSE. A grown-up can test it with two equal pans. The lid keeps the heat in."
       },
       {
-       "f": "Rani wore her blue bangles to three matches, and her team won all three.",
+       "f": "A girl wore her blue bangles to three matches, and her team won all three.",
        "b": "CHANCE. Three matches is too few to tell. Teams win some matches whatever anyone wears."
       },
       {
@@ -555,7 +555,7 @@
        "b": "CHANCE. Streaks of five heads happen in a long run of flips with an ordinary coin."
       },
       {
-       "f": "Every time Arun joins the shorter queue at the ration shop, the other queue moves faster.",
+       "f": "Every time a man joins the shorter queue at the ration shop, the other queue moves faster.",
        "b": "CHANCE. It happens both ways, but we remember the annoying times and forget the lucky ones."
       },
       {
@@ -567,7 +567,7 @@
        "b": "CHANCE, or too few matches to tell. A good player scores fifties sometimes. She would need many matches with each grip."
       },
       {
-       "f": "Divya wished for rain on a monsoon night, and it rained.",
+       "f": "A girl wished for rain on a monsoon night, and it rained.",
        "b": "CHANCE. It rains on many monsoon nights, wishing or not."
       }
      ]
@@ -619,7 +619,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards and the tokens. Give each player four tokens, one of each kind. Shuffle the cards and make a pile.",
-     "say": "Each card names two things that go together. You decide what is going on. One may cause the other. It may be chance. A hidden third thing may be behind both. Or the arrow may point the other way.",
+     "say": "Each card names two things that go together. You decide what is going on. One may cause the other. It may be chance. A hidden third thing may be behind both. Or it may be the other way round: the second thing causes the first.",
      "kid": "Each card has two things that go together. Choose a token for what is really going on.",
      "context": "This is the first step of the pattern card game. You set up the cards and the tokens."
     },
@@ -646,7 +646,7 @@
      "id": "s3",
      "mins": 11,
      "do": "Play through the pile. Take turns to be the reader. After each card, ask each player how they could check their answer.",
-     "say": "Choose your token. Turn them over together. Now the answer. Who was right? How could we check?",
+     "say": "Choose your token. Now everyone turn the tokens over together. I will read the answer. Who was right? How could we check?",
      "kid": "Read a card. Pick a token. Turn it over. Say how you could check.",
      "ask": [
       {
@@ -701,7 +701,7 @@
        "b": "TOO FEW. Four people is a very small number. Chance alone can give four yes answers. Ask: how many people were tested, and were there more?"
       },
       {
-       "f": "Rohan took a new vitamin for two days and says he can run faster now.",
+       "f": "A runner took a new vitamin for two days and says he can run faster now.",
        "b": "TOO FEW. Two days is too short, and one runner is one try. Ask: how many runners, and for how long?"
       },
       {
@@ -745,7 +745,7 @@
        "b": "SELLER'S OWN TEST. The doctor is paid and no evidence is shown. Ask: where are the tests, and who paid for them?"
       },
       {
-       "f": "Maya drank a herbal drink and her cough went away in four days. She says the drink cures coughs.",
+       "f": "A girl drank a herbal drink and her cough went away in four days. She says the drink cures coughs.",
        "b": "NO COMPARISON. Most coughs go away in a few days with no drink at all. Ask: what happens to people who do not drink it?"
       },
       {
@@ -830,7 +830,7 @@
      "id": "s3",
      "mins": 9,
      "do": "Play the rest. After each card, ask each player what question they would ask the seller. Give points as in the rules.",
-     "say": "Choose the trick. Turn them over. Now say what you would ask.",
+     "say": "Choose the token that names the trick. Turn the tokens over together. Now say what you would ask.",
      "kid": "Read the claim. Pick the trick. Say what you would ask.",
      "ask": [
       {
@@ -872,10 +872,10 @@
    "title": "The Lucky Coin: how often does chance alone look special?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment, you flip an ordinary coin 200 times, in 20 sets of 10, with no wishing. You find out how often luck alone gives a result that looks special, such as 7 heads out of 10.",
+   "context": "In this experiment, you flip an ordinary coin 200 times, in 20 sets of 10, without wishing for heads or tails. You find out how often luck alone gives a result that looks special, such as 7 heads out of 10.",
    "question": "A friend says she can make heads come up by wishing, and she got 7 heads in 10 flips. How often does an ordinary coin, with no wishing, give 7 or more heads in 10 flips?",
    "predict": "Before you start, guess. Out of 20 sets of 10 flips, how many sets will show 7 or more heads? Will your coin ever show 3 or fewer? Why do you think so?",
-   "fair_test": "We use the same coin and toss it from the same height onto the same plate every time. No wishing, no tricks. Each set is exactly 10 flips, and heads is always the side with the picture on it. We write down every set, even the boring ones, and we do not throw away a set because it looks odd. Only chance decides the result.",
+   "fair_test": "We use the same coin and toss it from the same height onto the same plate every time. Nobody wishes for heads, and nobody tries any tricks. Each set is exactly 10 flips, and heads is always the side with the picture on it. We write down every set, even the boring ones, and we do not throw away a set because it looks odd. Only chance decides the result.",
    "results_table": [
     "Set number",
     "Heads out of 10",
@@ -909,7 +909,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Draw the table, flip 20 sets of 10, count, and compare with the friend's claim."
+     "what": "Draw the table, flip 20 sets of 10, count, and compare with the friend's claim that she can make heads come up by wishing."
     }
    ],
    "record": "Fill in 20 rows, one for each set of 10 flips. Then count how many sets had 7 or more heads, and how many had 3 or fewer. Add up all the heads in the 200 flips. Last, draw a bar chart: one bar for each number of heads, from 0 to 10, showing how many sets had that number.",
@@ -970,7 +970,7 @@
      "kid": "Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest streak.",
      "ask": [
       {
-       "q": "Did the coin change when it gave 8 heads? What do you think made it happen?",
+       "q": "Did the coin change in the sets that had many heads? What do you think made those sets happen?",
        "good": [
         "No. It is the same coin. It was just luck.",
         "I wished nothing, and it still happened.",
@@ -978,15 +978,15 @@
        ]
       }
      ],
-     "parent": "Most families find that 2 to 5 sets of 20 show 7 or more heads. The exact number varies. If you got none, or ten, write it down and talk about it. That is the spread.",
+     "parent": "Most families find that 2 to 5 of the 20 sets show 7 or more heads. The exact number varies. If you got none, or ten, write it down and talk about it. Results that jump around like this are called the spread.",
      "context": "In this step, you count how many sets looked special."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Add up the heads from all 20 sets. Compare the total with 100, which is half of 200. Then compare it with the best set.",
-     "say": "Add all the heads. Is it close to one hundred? Your best set was far from five. Is the total of all 200 flips closer to half?",
-     "kid": "Add all your heads. Is the total close to 100? Is it closer to half than your best set?",
+     "do": "Add up the heads from all 20 sets. Compare the total with 100, which is half of 200. Then compare it with the set that had the most heads.",
+     "say": "Add all the heads. Is it close to one hundred? The set with the most heads was far from five out of ten. Is the total of all 200 flips closer to half?",
+     "kid": "Add all your heads. Is the total close to 100? Is it closer to half than the set with the most heads?",
      "check": {
       "t": "mcq",
       "q": "One set of 10 flips gave 8 heads. All 200 flips together gave 103 heads. Why is the total closer to half?",
@@ -1005,10 +1005,10 @@
      "mins": 6,
      "do": "Ask your child to say what the friend's 7 heads in 10 does and does not show. Ask for a claim, the evidence from the table, and the reasoning.",
      "say": "Now think about your friend. What is your claim about her seven heads? What in your table is the evidence? What is your reason?",
-     "kid": "Does 7 heads in 10 show your friend can wish? What is your evidence?",
+     "kid": "Does 7 heads in 10 show your friend can make heads come up by wishing? What is your evidence?",
      "ask": [
       {
-       "q": "What would she have to do to show she can really wish heads?",
+       "q": "What would the friend have to do to show she can really make heads come up by wishing?",
        "good": [
         "Flip many more times and get far more than half heads.",
         "Flip with and without wishing and compare.",
@@ -1016,8 +1016,8 @@
        ]
       }
      ],
-     "parent": "Good answer: 7 heads in 10 happens by chance about one set in six, so it shows nothing yet. To be convincing she would need a very large number of heads, in many more flips, compared with a plain coin. Her result is a reason to try more flips, not a proof.",
-     "context": "In this last step, you decide what your friend's result shows and what it does not."
+     "parent": "Good answer: 7 heads in 10 happens by chance about one set in six, so it shows nothing yet. To be convincing she would need far more than half heads, over many more flips, compared with flips made without wishing. Her result is a reason to try more flips, not a proof.",
+     "context": "In this last step, you decide what the friend's 7 heads in 10 flips shows and what it does not."
     }
    ],
    "setup": [
@@ -1040,7 +1040,7 @@
    ],
    "example_chart": {
     "type": "bar",
-    "title": "Nandini's 20 sets of 10 flips: how many sets had each number of heads (made-up example)",
+    "title": "An example of 20 sets of 10 flips: how many sets had each number of heads (made-up numbers)",
     "x": "Heads out of 10",
     "y": "Number of sets",
     "data": [
@@ -1084,7 +1084,7 @@
   },
   {
    "id": "e2",
-   "title": "Okra Pods: long pods, many seeds. So what makes what?",
+   "title": "Okra Pods: longer pods have more seeds. Which causes which?",
    "mins": 30,
    "days": 1,
    "context": "In this experiment, you measure ten okra pods and count the seeds in each. You find a pattern, and then work out what the pattern can tell you and what it cannot.",
@@ -1165,13 +1165,13 @@
      "kid": "Count the seeds in each pod. Move them in fives. Write the number.",
      "adult": true,
      "wait": "Counting takes about one minute a pod. Take a short break if your child tires.",
-     "parent": "Count every seed, even the tiny pale ones. A tender pod may have fewer and smaller seeds. If your child loses count, start that pod again. Honest recount is better than a lucky guess.",
+     "parent": "Count every seed, even the tiny pale ones. A tender pod may have fewer and smaller seeds. If your child loses count, start that pod again. An honest recount is better than a guess.",
      "context": "In this step, you cut open each pod and count the seeds."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Work out seeds for each centimetre for each pod. Line up the pods from shortest to longest on the plate with the seed count under each. Look for the pattern and circle any odd pod.",
+     "do": "For each pod, divide the number of seeds by the length to get the seeds for each centimetre. Line up the pods from shortest to longest on the plate with the seed count under each. Look for the pattern and circle any odd pod.",
      "say": "Put the pods in a line, from the shortest to the longest. What do you notice about the seeds? Which pod does not fit?",
      "kid": "Line up the pods. Do longer pods have more seeds? Find an odd pod.",
      "ask": [
@@ -1190,7 +1190,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Read the three stories aloud. Ask your child which one the table can settle. Then ask what test could settle the others.",
+     "do": "Read aloud the three stories below, which could each explain the pattern. Ask your child whether the table can tell which story is true. Then ask what test could.",
      "say": "Story one: more seeds make the pod grow long. Story two: a long pod just has room for more seeds. Story three: something else, like how old the pod is, makes it long and full of seeds. Can our table tell us which is true?",
      "kid": "Three stories explain the pattern. Can your table tell which is true?",
      "check": {
@@ -1228,7 +1228,7 @@
    ],
    "example_chart": {
     "type": "bar",
-    "title": "Aditi's okra pods: seeds in each pod, shortest to longest (made-up example)",
+    "title": "Example okra pods: seeds in each pod, shortest to longest (made-up numbers)",
     "x": "Pod length",
     "y": "Number of seeds",
     "data": [
@@ -1282,7 +1282,7 @@
    "title": "Find the Third Thing in a Table",
    "mins": 18,
    "days": 1,
-   "context": "In this activity, you read three small tables of made-up numbers. In each one, two things go together. You work out what is really going on: a hidden third thing, or the arrow pointing the other way.",
+   "context": "In this activity, you read three small tables of made-up numbers. In each one, two things go together. You work out what is really going on: a hidden third thing, or the second thing causing the first.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -1305,7 +1305,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Copy this table for your child. A shop in Chennai: January 20 cold drinks and 2 fans. March 90 and 11. May 200 and 24. July 150 and 17. October 60 and 6. December 15 and 1. Ask what goes together.",
+     "do": "Copy this table for your child. A shop in Chennai. January: 20 cold drinks and 2 fans. March: 90 and 11. May: 200 and 24. July: 150 and 17. October: 60 and 6. December: 15 and 1. Ask what goes together.",
      "say": "This shop sold cold drinks and fans each month. Look at the numbers. What do you notice goes together?",
      "kid": "A shop sold cold drinks and fans. What goes together in the numbers?",
      "ask": [
@@ -1360,12 +1360,12 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Read the third example. Arun carried an umbrella on 4 of 6 days, and his school shoes were muddy on the same 4 days. Ask if the umbrella makes the shoes muddy, and which came first.",
-     "say": "Arun's umbrella days were his muddy shoe days. Does the umbrella make shoes muddy? What came first? Now make up your own pair of things that go together, and say what is behind them.",
+     "do": "Read the third example. A boy carried an umbrella on 4 of 6 days, and his school shoes were muddy on the same 4 days. Ask if the umbrella makes the shoes muddy, and which came first.",
+     "say": "A boy's umbrella days were also his muddy shoe days. Does the umbrella make shoes muddy? What came first? Now make up your own pair of things that go together, and say what is behind them.",
      "kid": "Umbrella days were muddy shoe days. What is behind both? Make up your own pair.",
      "check": {
       "t": "mcq",
-      "q": "Arun carried an umbrella on 4 of 6 days. His shoes were muddy on the same 4 days. What is the best explanation?",
+      "q": "A boy carried an umbrella on 4 of 6 days. His shoes were muddy on the same 4 days. What is the best explanation?",
       "options": [
        "The umbrella made the ground muddy",
        "Rain made him carry an umbrella and also made his shoes muddy",
@@ -1433,7 +1433,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "A grown-up makes the squash in one jug. Your child writes the four labels. Ask for a guess and a reason before anyone tastes.",
+     "do": "A grown-up makes the squash in one jug. Your child writes four labels on slips of paper: POSH SHOP, HOME-MADE, 1 and 2. Ask for a guess and a reason before anyone tastes.",
      "say": "We will taste two cups. One will be labelled posh shop, and one home-made. Do you think people will like the posh shop one more? Why do you think so?",
      "kid": "Two cups, one labelled posh shop. Will people like it more? Why?",
      "ask": [
@@ -1452,7 +1452,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Round 1, open tasting. For each taster, fill two cups from the jug. Flip a coin: heads, the left cup is POSH SHOP. Tails, the right cup is. Ask which tastes better. Write the answer.",
+     "do": "Round 1, open tasting. For each taster, fill two cups from the jug. Flip a coin. If it is heads, the left cup gets the POSH SHOP label. If it is tails, the right cup gets it. The other cup gets the HOME-MADE label. Ask which tastes better. Write the answer.",
      "say": "Taste this cup and this cup. This one is from a posh shop, and this one is home-made. Which tastes better?",
      "kid": "Flip the coin to decide the labels. Ask which tastes better. Write it down.",
      "parent": "Say the same words to every taster. Do not look at the cups while they decide, because your face might give them a hint. Let the coin decide which side gets the label, so your own choice cannot tilt the test.",
@@ -1461,9 +1461,9 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Round 2, blind tasting. The taster looks away. Fill two fresh cups from the jug. Flip a coin to decide which gets the slip 1 and which gets 2. Ask which tastes better. Write it down.",
+     "do": "Round 2, blind tasting. The taster looks away. Fill two fresh cups from the jug. Flip a coin to decide which cup gets the slip marked 1 and which gets the slip marked 2. Ask which tastes better. Write it down.",
      "say": "Close your eyes while I put the numbers on. Now taste each cup. Which tastes better, one or two?",
-     "kid": "Taster looks away. Cups get number 1 and 2. Ask which tastes better.",
+     "kid": "The taster looks away. Put the numbers 1 and 2 on the cups. Ask which tastes better.",
      "parent": "In a double-blind version, a second person fills and labels the cups and the asker does not know either. If you can, try it. If you cannot, make a note that the asker knew.",
      "context": "In this step, you run the blind tasting, with only numbers on the cups."
     },
@@ -1479,7 +1479,7 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "Ask your child what the counts show. Ask what could be luck, with so few tasters. Ask what to do to be surer.",
+     "do": "Ask your child what the counts show. Ask whether it could be luck, with so few tasters. Ask what you could do to be surer.",
      "say": "What does your count show? With only a few tasters, could it be luck? What would we do to be more sure?",
      "kid": "What does your count show? Could it be luck? How could you be surer?",
      "check": {
@@ -1543,7 +1543,7 @@
      "what": "Draw a chart that starts at zero, draw a chart that starts at 90, show them, and compare what people say."
     }
    ],
-   "record": "Your two charts, and under each the answer each person gave to the question: how much better is Brand Two? Say a little, a bit, or much.",
+   "record": "Keep your two charts. Under each one, write the answer each person gave to the question: how much better is Brand Two? The answer is a little, a bit, or much.",
    "flow": [
     {
      "id": "s1",
@@ -1684,7 +1684,7 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Gently break the hand into 6 single bananas. Give each a tag, 1 to 6. 2. Make three pairs: 1 and 2, 3 and 4, 5 and 6. 3. For each pair, flip a coin. Heads, the first banana is wrapped. Tails, the second one is. 4. Wrap the stalk end of the chosen bananas in foil. 5. Lay all six on a tray in the same place. 6. Draw the colour scale on the page.",
+     "do": "1. Gently break a hand (a bunch) of 6 bananas into single bananas. Give each a tag, 1 to 6. 2. Make three pairs: 1 and 2, 3 and 4, 5 and 6. 3. For each pair, flip a coin. Heads, the first banana is wrapped. Tails, the second one is. 4. Wrap the stalk end of the chosen bananas in foil. 5. Lay all six on a tray in the same place. 6. Draw the colour scale on the page.",
      "say": "People say wrapping the stalk makes bananas last longer. We will test it. First, guess. Will the wrapped bananas ripen slower, faster, or the same? Why do you think so?",
      "kid": "Number the bananas. Make three pairs. Flip a coin for each pair. Wrap the chosen ones.",
      "ask": [
@@ -1713,9 +1713,9 @@
     {
      "id": "s3",
      "mins": 25,
-     "do": "On day 6, score the bananas once more. For each pair, say which banana ripened faster, or that they tied. Count how many pairs favoured the wrapped banana. Write what the test shows and what it cannot.",
-     "say": "Look at each pair. Which ripened faster? How many pairs favoured the wrapped banana? Is that enough to be sure?",
-     "kid": "Compare each pair. Count how many favoured the wrapped banana.",
+     "do": "On day 6, score the bananas once more. For each pair, say which banana ripened faster, or that they tied. Count the pairs in which the wrapped banana ripened slower. Write what the test shows and what it cannot.",
+     "say": "Look at each pair. Which ripened faster? In how many pairs did the wrapped banana ripen slower? Is that enough to be sure?",
+     "kid": "Compare each pair. Count the pairs in which the wrapped banana ripened slower.",
      "check": {
       "t": "mcq",
       "q": "In a banana test, 2 of 3 wrapped bananas ripened slower than their twin. What is the fairest thing to say?",
@@ -1782,8 +1782,8 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read this report aloud. Our test proves that okra seeds make pods grow long. Everyone knows seeds make fruit big. Ask your child what is wrong with it.",
-     "say": "Here is a report. Our test proves that okra seeds make pods grow long. Everyone knows seeds make fruit big. What is wrong with it?",
+     "do": "Read this report aloud: 'Our test proves that okra seeds make pods grow long. Everyone knows seeds make fruit big.' Ask your child what is wrong with it.",
+     "say": "Here is a report: 'Our test proves that okra seeds make pods grow long. Everyone knows seeds make fruit big.' What is wrong with it?",
      "kid": "This report says seeds make pods long. What is wrong with it?",
      "ask": [
       {
@@ -1867,7 +1867,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Priya says: if two things go together, one of them must cause the other. Is she right?",
+     "p": "True or false: if two things go together, one of them must cause the other.",
      "a": false,
      "why": "False. Two things can go together because a hidden third thing is behind both, because the arrow points the other way, or by chance."
     },
@@ -1946,7 +1946,7 @@
     },
     {
      "t": "write",
-     "p": "In the coin test, the total of all 200 flips was closer to half than most single sets of 10. Explain why.",
+     "p": "In The Lucky Coin experiment, the total of all 200 flips is closer to half than most single sets of 10. Explain why.",
      "lines": 3,
      "a": "A strong answer says that in a small set luck can swing far from half, but over many flips the highs and lows cancel out, so the total settles near half.",
      "why": "A strong answer connects more tries with steadier results.",
@@ -1970,11 +1970,11 @@
       "Nobody"
      ],
      "a": 2,
-     "why": "If either side knows, a look, a word or a hope could change what is reported. Keeping both blind removes that."
+     "why": "If either side knows, a look, a word or a hope could change what is reported. When neither side knows, that cannot happen."
     },
     {
      "t": "truefalse",
-     "p": "Vimala says: when people in a test feel better after a dummy pill, the feeling is real, but the pill did not cure anything. Is she right?",
+     "p": "True or false: when people in a test feel better after a dummy pill, the feeling is real, but the pill did not cure anything.",
      "a": true,
      "why": "True. In many tests, people report real changes after a placebo, especially in pain. A sugar pill cannot kill germs or heal bones."
     },
@@ -1987,7 +1987,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a diagram with three circles. Show a hidden third thing with an arrow to each of two things that go together. Use the beach, or your own example.",
+     "p": "Draw a diagram with three circles. Show a hidden third thing with an arrow to each of two things that go together. Use the golas and sunburn on the beach, or your own example.",
      "a": "A sun circle with arrows to a gola circle and a sunburn circle, and a dotted line with a cross between the gola and the sunburn.",
      "why": "A strong drawing puts the hidden third thing on top with arrows down, and shows no direct arrow between the other two.",
      "art": "A blank page with three empty circles arranged as a triangle."
@@ -2060,15 +2060,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Anusha tests a plant food on 6 plants. She gives it to the 3 tallest plants. Why is this a problem?",
+     "p": "A plant food is tested on 6 plants. The tester gives it to the 3 tallest plants. Why is this a problem?",
      "opts": [
       "Tall plants cannot use food",
-      "She may have chosen the strongest plants, so any difference may not come from the food",
+      "The tester may have chosen the strongest plants, so any difference may not come from the food",
       "Six is a bad number",
       "Plant food does not work"
      ],
      "a": 1,
-     "why": "If she chooses, the strongest plants may grow best whatever they eat. A coin flip would have made the two groups alike."
+     "why": "If the tester chooses, the strongest plants may grow best whatever they are fed. A coin flip would have made the two groups alike."
     },
     {
      "t": "write",
@@ -2079,7 +2079,7 @@
     },
     {
      "t": "mcq",
-     "p": "A doctor tries a tonic on 5 people and 4 feel better. Another tries it on 5,000 people, half with the tonic and half with a dummy, and 52 in 100 feel better with the tonic and 50 in 100 with the dummy. Which is stronger evidence for the tonic?",
+     "p": "One doctor tries a tonic on 5 people, and 4 feel better. Another doctor tries it on 5,000 people. Half get the tonic and half get a dummy. With the tonic, 52 in 100 feel better. With the dummy, 50 in 100 feel better. Which is stronger evidence for the tonic?",
      "opts": [
       "The first, because 4 out of 5 is a bigger share",
       "The second, because it has many people and a comparison group",
@@ -2091,7 +2091,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Nila says: a poll that asks one million people is always right. Is she correct?",
+     "p": "True or false: a poll that asks one million people is always right.",
      "a": false,
      "why": "False. If the million people are not like everyone, the answer is still wrong. A big sample cannot fix asking the wrong people."
     },
@@ -2112,15 +2112,15 @@
      ],
      "items": [
       [
-       "She wrapped three bananas and watched them ripen.",
+       "Someone wrapped three bananas and watched them ripen.",
        "No control group"
       ],
       [
-       "She wrapped three bananas and left three twins bare, and a coin chose which got wrapped.",
+       "Someone wrapped three bananas and left three twins bare, and a coin chose which got wrapped.",
        "Fair comparison"
       ],
       [
-       "He gave a new tonic to his whole class and they all felt fine.",
+       "Someone gave a new tonic to a whole class and they all felt fine.",
        "No control group"
       ],
       [
@@ -2136,7 +2136,7 @@
      "p": "Seven heads in 10 flips is not strong evidence of anything, but 70 heads in 100 flips would be. Explain the difference.",
      "lines": 4,
      "a": "A strong answer says that with 10 flips, luck often gives 7 heads, about 1 set in 6. With 100 flips, an ordinary coin almost never gives 70 or more heads, so it would be a surprise and would be worth looking into.",
-     "why": "A strong answer ties the size of a surprise to how often chance gives it.",
+     "why": "A strong answer says that a result is a surprise only when chance rarely gives it.",
      "how": "e1"
     },
     {
@@ -2214,7 +2214,7 @@
     },
     {
      "t": "label",
-     "p": "Here is a results table from the okra test. Label the column that was measured, the column that was counted, and the column that was worked out.",
+     "p": "Here is a results table from the Okra Pods experiment. Label the column that was measured, the column that was counted, and the column that was worked out.",
      "a": "Length is measured. Seeds is counted. Seeds for each centimetre is worked out.",
      "why": "Measuring uses a ruler, counting uses your eyes and fingers, and the last column uses arithmetic on the first two.",
      "art": "A table with columns Pod, Length in centimetres, Number of seeds, Seeds for each centimetre, and three empty label boxes above.",
@@ -2222,7 +2222,7 @@
     },
     {
      "t": "write",
-     "p": "In the okra test, longer pods had more seeds. Give two different stories that could explain this, other than that seeds make pods long.",
+     "p": "In the Okra Pods experiment, longer pods had more seeds. Give two different stories that could explain this, other than that seeds make pods long.",
      "lines": 4,
      "a": "A strong answer might say that a longer pod has more room for seeds, or that older pods have had more time to grow both long and full of seeds.",
      "why": "A strong answer sees that a pattern can fit several stories until a further test decides.",
@@ -2230,7 +2230,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the cup test, every cup was filled from one jug. Why?",
+     "p": "In the Fancy Label Cups activity, every cup was filled from one jug. Why?",
      "opts": [
       "So the drink is exactly the same, and only the label differs",
       "So the jug would be empty sooner",
@@ -2243,7 +2243,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Ishan says: a chart that starts its scale at 90 shows different numbers from one that starts at 0. Is he right?",
+     "p": "True or false: a chart that starts its scale at 90 shows different numbers from one that starts at 0.",
      "a": false,
      "why": "False. The numbers are the same. Only the picture changes, which is why it is wise to read the numbers on the side.",
      "how": "a3"
@@ -2357,7 +2357,7 @@
      "p": "Children who sleep with the light on are more afraid of the dark. Say how the arrow could go the other way, and how you could find out which came first.",
      "lines": 4,
      "a": "A strong answer says that children who are afraid of the dark may ask for the light to be left on. To find out which came first, ask parents when the fear began and when the light started to stay on.",
-     "why": "A strong answer sees that the effect may be why the cause is there."
+     "why": "A strong answer sees that the fear may have come first and led to the light being left on."
     },
     {
      "t": "truefalse",
@@ -2591,7 +2591,7 @@
     "Nobody keeps it secret"
    ],
    "a": 1,
-   "why": "If the testers know, a look or a word can give it away, and their hopes can change what they measure. Keeping both blind removes this.",
+   "why": "If the testers know, a look or a word can give it away, and their hopes can change what they measure. When neither group knows, this cannot happen.",
    "outcome": 4
   },
   {
@@ -2686,7 +2686,7 @@
    "art": "A newspaper graph with two bars and a scale starting at 90."
   },
   {
-   "text": "The weather forecast on TV that says a 70 percent chance of rain, which is a pattern from past days with the same sky.",
+   "text": "A weather forecast on TV that says there is a 70 percent chance of rain. That number comes from a pattern in past days with the same kind of sky.",
    "art": "A TV weather map of Kerala with a rain cloud and 70 percent beside it."
   },
   {
@@ -2725,7 +2725,7 @@
   },
   {
    "q": "How should a town act when the evidence is weak but the danger is serious?",
-   "why_open": "In 1854 the pump handle was removed on a strong hint, before the proof was complete. People still argue about how much evidence is enough before acting."
+   "why_open": "In London in 1854, the handle of the Broad Street water pump was taken off because of a strong hint that its water was spreading cholera, before the proof was complete. People still argue about how much evidence is enough before acting."
   },
   {
    "q": "Does a bigger test always mean a better test?",
@@ -2792,8 +2792,8 @@
  ],
  "maths": [
   {
-   "problem": "In Nandini's coin test, 4 of her 20 sets had 7 or more heads. What fraction of her sets is that, and what is it as a percent? Chance alone gives about 17 in 100 sets. Is she close?",
-   "answer": "4 out of 20 is one fifth, which is 20 percent. She is close to 17 percent.",
+   "problem": "In a Lucky Coin test, 4 of the 20 sets had 7 or more heads. What fraction of the sets is that, and what is it as a percent? Chance alone gives about 17 in 100 sets. Is the result close?",
+   "answer": "4 out of 20 is one fifth, which is 20 percent. That is close to 17 percent.",
    "explain": "4 out of 20 is 4 divided by 20, which is 0.2, or 20 out of 100. That is 20 percent. Chance gives about 17 percent, so 20 percent is close. With only 20 sets, a few sets either way is normal.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
    "how": "e1",
@@ -2801,8 +2801,8 @@
    "why_maths": "A fraction or a percent lets you compare your count with how often chance is expected to do it."
   },
   {
-   "problem": "A friend got 7 heads in 10 flips. Nandini got 103 heads in 200 flips. Write each as a percent of heads. Whose result is closer to half?",
-   "answer": "The friend: 70 percent. Nandini: 51.5 percent. Nandini is much closer to half.",
+   "problem": "One person got 7 heads in 10 flips. Another person got 103 heads in 200 flips. Write each as a percent of heads. Which result is closer to half?",
+   "answer": "The 10 flips: 70 percent. The 200 flips: 51.5 percent. The 200 flips are much closer to half.",
    "explain": "7 out of 10 is 70 out of 100, so 70 percent. 103 out of 200 is 51.5 out of 100, so 51.5 percent. Half is 50 percent. 70 is 20 away from 50, and 51.5 is only 1.5 away. More flips pull the result close to half.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
    "how": "e1",
@@ -2819,7 +2819,7 @@
    "why_maths": "Dividing the number of starting places by the chance tells you how often a streak should turn up from luck alone."
   },
   {
-   "problem": "In Aditi's okra test, a pod 8 centimetres long had 36 seeds, and a pod 12 centimetres long had 60 seeds. How many seeds is that for each centimetre in each pod? About how many seeds would you guess for a pod 10 centimetres long?",
+   "problem": "In an okra test, a pod 8 centimetres long had 36 seeds, and a pod 12 centimetres long had 60 seeds. How many seeds is that for each centimetre in each pod? About how many seeds would you guess for a pod 10 centimetres long?",
    "answer": "4.5 seeds for each centimetre in the first pod, and 5 in the second. About 45 to 50 seeds for a pod of 10 centimetres.",
    "explain": "36 divided by 8 is 4.5. 60 divided by 12 is 5. A 10 centimetre pod lies between the two, so 10 times 4.5 is 45 and 10 times 5 is 50. We can guess between 45 and 50. A real pod might still be an odd one.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
@@ -2955,7 +2955,7 @@
    "a": "It shows what would have happened without the thing being tested."
   },
   {
-   "q": "Why does a coin choose the groups?",
+   "q": "Why should a coin choose the groups in a test?",
    "a": "So the person running the test cannot tilt the groups, even by accident."
   },
   {
@@ -3044,23 +3044,23 @@
   ]
  },
  "roots": {
-  "context": "We found that golas and sunburn went together because the sun stood behind both. Now we ask what this tells us about how things in the world are joined.",
+  "context": "In the story The Ban on the Gola Cart, golas and sunburn went together because the hot sun was behind both. Now we ask what this tells us about how things in the world are connected.",
   "deep_truth": {
-   "truth": "Golas and sunburn rose and fell together, yet neither made the other happen. The hot sun stood behind both and was not in the table. Many things that move together are two results of one thing behind them. Finding that thing is where understanding starts.",
-   "habit": "We see two things together and draw an arrow between them, from the one we noticed first to the one we care about. The arrow feels like seeing, but it is a guess, and it leaves out whatever stands behind both.",
-   "evidence": "In the beach table, the golas no longer went with the sunburn once only sunny days were compared, and a day with no golas still had burns. Your coin sets and okra pods showed the other lesson: a pattern in numbers can be real, wobbly, and silent about its cause."
+   "truth": "In the story The Ban on the Gola Cart, golas and sunburn rose and fell together, yet neither made the other happen. The hot sun was behind both, and it was not in the table. Many things that move together are two results of one hidden thing. Finding that thing is how we start to understand what is really going on.",
+   "habit": "When we see two things together, we tend to decide that one causes the other. Usually we pick the one we noticed first as the cause of the one we care about. This feels like something we saw, but it is a guess, and it leaves out anything that may be behind both.",
+   "evidence": "In the beach table from the story, golas no longer went with sunburn once only sunny days were compared, and a day with no golas still had burns. The Lucky Coin experiment shows that results jump around by luck alone. The Okra Pods experiment shows that a real pattern, longer pods with more seeds, still does not say what causes what."
   },
   "three": {
    "who_am_i": "You feel hot, thirsty and grumpy, all at the same time. You may blame one feeling for another. Often one thing, the heat, is behind all three.",
-   "what_is_life": "Many flowers open when the sun is high, and bees come to them at that hour. The flowers and the bees both answer the same sun.",
+   "what_is_life": "Many flowers open when the sun is high, and bees come to them at that hour. Both the flowers and the bees are responding to the same sun.",
    "what_is_this_world": "Rain clouds, wet roads, open umbrellas and calling frogs all arrive together in the monsoon. They look like separate events, but many of them share one source."
   },
-  "thread": "Every pair of things that go together has a story behind it. Sometimes one makes the other. Sometimes the second makes the first, sometimes luck bunches them, and sometimes a third thing, like the sun, stands behind both. Telling these apart takes patience, a fair comparison and a willingness to look behind what everyone has already noticed.",
+  "thread": "When two things go together, there is always a reason. Sometimes one makes the other. Sometimes the second makes the first. Sometimes luck brings them together. And sometimes a third thing, like the sun, is behind both. Telling these apart takes patience, a fair comparison, and a willingness to look past what everyone has already noticed.",
   "teachings": [
    {
     "source": "Samyutta Nikaya 12 (dependent origination), a collection of the Buddha's teachings",
     "teaching": "The Buddha taught: when this exists, that comes to be. When this does not exist, that does not come to be. Nothing arises alone. It arises from conditions.",
-    "link": "On the day the cart was closed, the golas ended but the sunburn did not end. By this test, the sunburn did not depend on the golas. It depended on the sun."
+    "link": "In the story The Ban on the Gola Cart, there were no golas on the day the cart was closed, but people still got sunburnt. By the Buddha's test, the sunburn did not depend on the golas. It depended on the sun."
    },
    {
     "source": "Tirukkural 423, by Thiruvalluvar, an ancient Tamil book of short poems",
@@ -3096,7 +3096,7 @@
    "Think of two things you have seen go together. What could be behind both?",
    "If you could never run a test, how would you tell a cause from a pattern?",
    "Is a cause something in the world, or a habit of our minds?",
-   "What do you believe because two things went together, and have you ever looked behind it?"
+   "Is there something you believe because two things went together? Have you ever checked what else could be behind it?"
   ],
   "art": "A sun in the corner of a page with two beams reaching a bright patch on the floor and a warm arm at a window."
  },

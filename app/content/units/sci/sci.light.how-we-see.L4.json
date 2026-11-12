@@ -7,7 +7,7 @@
     "art": "A child at a table holding one finger up in front of a plain wall, with two dotted copies of the finger showing where it seems to be with the left eye and the right eye."
   },
   "intro": {
-    "hook": "Hold one finger up at arm's length, in front of a plain wall. Close your left eye and look at the finger. Now open the left eye and close the right. What happened to your finger? Did the finger move, or did something else?",
+    "hook": "Hold one finger up at arm's length, in front of a plain wall. Close your left eye and look at the finger. Now open the left eye and close the right. What happened to your finger? Did the finger really move, or did something else change?",
     "text": "The finger did not move. But each of your eyes looks from a slightly different place, so each gets a slightly different picture. Your brain joins the two into one, and it uses the difference to tell how far away things are. In this unit you find out how light travels from the world to your eyes in straight lines. You build a lens that makes a picture of a window. Then you measure the jump, and find out how much of what you see is worked out and not simply seen.",
     "art": "Two panels of the same child's view, one with the left eye closed and one with the right eye closed, with a finger in different places against a wall."
   },
@@ -16,9 +16,9 @@
     "I can draw a ray diagram, with arrows, to show how light from a lamp reaches my eye.",
     "I can explain why an eye needs a lens, and why the picture on the retina is upside down.",
     "I can explain how the lens changes shape to focus on near and far things.",
-    "I can explain why two eyes give us depth, using what I measured in the finger jump test.",
+    "I can explain why two eyes give us depth, using what I measured in the Near Pencil, Far Pencil test.",
     "I can say where the eyes of hunting and hunted animals sit, and what each gains.",
-    "I can fill in a results table, compare it with my guess, and finish with claim, evidence and reasoning.",
+    "I can fill in a results table, compare it with my guess, and finish by saying what I think, what I saw and why it happened (claim, evidence and reasoning).",
     "I can say what scientists agree about seeing, and what nobody knows yet."
   ],
   "cards_mins": 20,
@@ -97,7 +97,7 @@
     },
     {
       "term": "Long sight",
-      "meaning": "A condition where far things are easier than near things, because the eye focuses behind the retina. Glasses with a curved-out lens fix it.",
+      "meaning": "A condition where far things are easier to see than near things, because the eye focuses behind the retina. Glasses with a curved-out lens fix it.",
       "example": "Many older people hold a newspaper at arm's length, to make the letters sharp.",
       "art": "An eye with rays meeting behind the retina, and a reading lens that moves them forward."
     },
@@ -122,13 +122,13 @@
     {
       "term": "Stereoscope",
       "meaning": "An instrument that shows one flat picture to each eye so that the brain sees a solid scene. Charles Wheatstone built the first one in 1838.",
-      "example": "Old 3D picture viewers use a stereoscope.",
+      "example": "An old 3D picture viewer is a stereoscope.",
       "art": "A wooden viewer with two flat pictures and an eye on each side."
     },
     {
       "term": "Thaumatrope",
       "meaning": "A spinning card with one picture on the front and another on the back. When it spins fast, the two pictures seem to join into one.",
-      "example": "A bird on one side and a cage on the other seem to put the bird inside the cage.",
+      "example": "With a bird on one side and a cage on the other, the bird seems to be inside the cage when the card spins.",
       "art": "A round card on two strings with a bird on the front and a cage on the back, and the bird seen inside the cage while the card spins."
     }
   ],
@@ -137,7 +137,7 @@
       "concept": "Light travels in straight lines",
       "status": "defined",
       "definition": "Light travels in straight lines unless something bends it or bounces it. That is why we cannot see round corners, and why shadows have sharp edges.",
-      "description": "When you shine a torch through three cards with holes, the light only gets through if the holes line up in a straight row. Move one card a little and the light stops. A sunbeam through a window is a straight stripe. A shadow has a sharp edge because light cannot curve round the thing that blocks it. Light can be bent by water or glass, or bounced by a mirror, but in clear air or an empty space it goes straight. Light is also fast. In one second it could go round the Earth more than seven times. So its straight path looks instant.",
+      "description": "When you shine a torch through three cards with holes, the light only gets through if the holes line up in a straight row. Move one card a little and the light stops. A sunbeam through a window is a straight stripe. A shadow has a sharp edge because light cannot curve round the thing that blocks it. Light can be bent by water or glass, or bounced by a mirror, but in clear air or an empty space it goes straight. Light is also fast. In one second it could go round the Earth more than seven times. So it seems to arrive at once.",
       "examples": [
         "A torch beam in a dusty room is a straight line.",
         "You cannot see your friend if she stands behind a wall.",
@@ -179,7 +179,7 @@
       "concept": "A hole or a lens sorts the rays into a picture",
       "status": "defined",
       "definition": "A tiny hole lets through only one ray from each point of a thing, so a picture forms. A lens does the same job, but lets in much more light, by bending the rays from each point back together.",
-      "description": "Put a card with a tiny hole between a lit window and a screen. Each point of the window sends one thin ray through the hole, to one place on the screen. The rays from the top land at the bottom, and the rays from the bottom land at the top. So the picture is upside down. A pinhole makes a sharp but dim picture, because it lets little light through. A lens is a wide window that bends the rays. All the rays from one point of the window, which spread out, are bent so that they meet again at one point on the screen. That gives a bright and sharp picture. Your eye does exactly this, with the lens inside it and the retina as the screen. In 1604, Johannes Kepler worked out that the picture on the retina is upside down.",
+      "description": "Put a card with a tiny hole between a lit window and a screen. Each point of the window sends one thin ray through the hole, to one place on the screen. The rays from the top land at the bottom, and the rays from the bottom land at the top. So the picture is upside down. A pinhole makes a sharp but dim picture, because it lets little light through. A lens is like a much wider hole that bends the rays. The rays from one point of the window spread out. The lens bends them so that they meet again at one point on the screen. That gives a bright and sharp picture. Your eye does exactly this, with the lens inside it and the retina as the screen. In 1604, Johannes Kepler worked out that the picture on the retina is upside down.",
       "examples": [
         "A magnifying glass held between a window and a card makes an upside-down picture of the window on the card.",
         "A phone camera has a tiny lens that makes a sharp picture on its sensor.",
@@ -193,7 +193,7 @@
       "concept": "Focusing: the lens changes shape",
       "status": "defined",
       "definition": "The lens inside the eye can change its shape. It gets thicker to focus on near things and thinner to focus on far things.",
-      "description": "Your retina is always the same distance from your lens. But a near thing and a far thing need different bending to make a sharp picture on it. So the eye changes the lens. Tiny muscles around the lens squeeze it fatter to look at something close, such as a book. When you look at a far hill, they relax and the lens goes flatter. This takes a moment, which is why things look blurry for a second when you glance from a book to the blackboard. The lens gets stiffer with age. From around the age of 40, many people cannot make it thick enough to focus on near print. They need reading glasses. You will measure this when you find the near point of people of different ages.",
+      "description": "Your retina is always the same distance from your lens. But a near thing and a far thing need different bending to make a sharp picture on it. So the eye changes the lens. Tiny muscles around the lens squeeze it fatter to look at something close, such as a book. When you look at a far hill, they relax and the lens goes flatter. This takes a moment, which is why things look blurry for a second when you glance from a book to the blackboard. The lens gets stiffer with age. From around the age of 40, many people cannot make it thick enough to focus on near print. They need reading glasses. In the Near Point activity, you measure the closest distance at which people of different ages can still read small writing.",
       "examples": [
         "You look up from a book to a clock on the wall, and it is blurry for a moment.",
         "A grandparent holds the newspaper at arm's length.",
@@ -221,7 +221,7 @@
       "concept": "Why far things look small",
       "status": "defined",
       "definition": "The size a thing looks depends on the angle between the rays from its top and its bottom. A far thing makes a smaller angle, so it looks smaller.",
-      "description": "A person stands 4 metres away. Two straight rays go from her head and her feet into your eye. The angle between them is the visual angle. Now she steps back to 8 metres. The rays are still straight, but they come from further away, so the angle is smaller. It is about half as big. So she looks about half as tall. You can check this with a ruler held at arm's length. Because the eye makes a picture on the retina, a smaller angle means a smaller picture. This is also why signs for far readers must be bigger. A sign twice as far away must be twice as tall to look the same size.",
+      "description": "A person stands 4 metres away. Two straight rays go from her head and her feet into your eye. The angle between them is the visual angle. Now she steps back to 8 metres. The rays are still straight, but they come from further away, so the angle is smaller. It is about half as big. So she looks about half as tall. You can check this with a ruler held at arm's length. Because the eye makes a picture on the retina, a smaller angle means a smaller picture. This is also why a sign that is read from far away must be bigger. A sign twice as far away must be twice as tall to look the same size.",
       "examples": [
         "A person at 8 metres looks about half the height of the same person at 4 metres.",
         "A road sign for fast drivers has much bigger letters than a notice in a classroom.",
@@ -235,7 +235,7 @@
       "concept": "Two eyes and depth",
       "status": "defined",
       "definition": "Your two eyes are a few centimetres apart, so each sees a slightly different picture. The brain uses the difference to work out how far away things are.",
-      "description": "Hold a finger up at arm's length and swap eyes. The finger jumps against the wall behind it. Now bring the finger close to your nose and swap again. It jumps much further. The jump is called parallax. Near things jump a lot, and far things jump a little, so the size of the jump tells the brain the distance. Your brain does this all day, below your notice, for every part of the scene. It works best for things within a few metres, such as a ball coming towards you. For far things, the difference is too small. Scientists call seeing with two eyes binocular vision. Reports suggest that somewhere between 1 person in 20 and 1 in 10 cannot use their two eyes together to judge depth.",
+      "description": "Hold a finger up at arm's length and swap eyes. The finger jumps against the wall behind it. Now bring the finger close to your nose and swap again. It jumps much further. The jump is called parallax. Near things jump a lot, and far things jump a little, so the size of the jump tells the brain the distance. Your brain does this all day, without you noticing, for every part of the scene. It works best for things within a few metres, such as a ball coming towards you. For far things, the difference is too small. Scientists call seeing with two eyes binocular vision. Reports suggest that somewhere between 1 person in 20 and 1 in 10 cannot use their two eyes together to judge depth.",
       "examples": [
         "Threading a needle is much harder with one eye closed.",
         "A bus window shows parallax: near trees zip by, far hills drift.",
@@ -243,13 +243,13 @@
       ],
       "perspectives": [],
       "art": "A child's two eyes seeing a pencil against a wall, with the left view and right view overlapped, and the jump marked.",
-      "context": "Your first test is the finger jump. This card explains what the jump is and what it tells the brain."
+      "context": "In the Near Pencil, Far Pencil test, you swap eyes and a pencil seems to jump. This card explains what the jump is and what it tells the brain."
     },
     {
       "concept": "Depth with one eye",
       "status": "defined",
       "definition": "Even one eye can judge distance, using clues in the picture and the movement of the head.",
-      "description": "A person with sight in only one eye can still judge distance well, using many clues. A near thing looks bigger than the same thing far away. A thing in front of another thing hides part of it, so it must be nearer. Far hills look hazy and bluish. Shadows show shape. And if you move your head a little, near things slide across the view more than far things, which gives the same jump as two eyes, one view after the other. Painters use all these clues, except movement, to make a flat painting look deep. A person with one eye usually learns to use these clues very well. Close one eye and the world does not go flat, but touching the tips of two pencils together gets harder, because the quick difference between two views is missing.",
+      "description": "A person with sight in only one eye can still judge distance well, using many clues. A near thing looks bigger than the same thing far away. A thing in front of another thing hides part of it, so it must be nearer. Far hills look hazy and bluish. Shadows show shape. And if you move your head a little, near things slide across the view more than far things. This gives two views, one after the other, and the same jump that two eyes give. Painters use all these clues, except movement, to make a flat painting look deep. A person with one eye usually learns to use these clues very well. Close one eye and the world does not go flat, but touching the tips of two pencils together gets harder, because the quick difference between two views is missing.",
       "examples": [
         "A flat painting of a road that narrows into the distance looks deep.",
         "A person with sight in one eye sways her head slightly to judge a ball's distance.",
@@ -265,7 +265,7 @@
       "definition": "Hunting animals, such as owls, cats and tigers, have both eyes at the front, which gives depth for a pounce. Hunted animals, such as deer, hens and horses, have eyes at the sides, which gives a wide view.",
       "description": "Eyes at the front see the same scene from two nearby places, so the pictures overlap a lot. That gives strong depth for judging a leap. Eyes at the sides cannot overlap much, but each one sees a different part of the world, so together they see almost all the way round. A horse or a rabbit can watch for danger from nearly every side without turning their head. A hen bobs her head as she walks, which keeps the picture steady for a moment between steps. A chameleon moves each eye separately. Humans have front-facing eyes. One idea is that our early primate ancestors gained them from jumping between branches. Scientists still discuss this. Neither design is better. Each fits the way the animal lives.",
       "examples": [
-        "An owl turns the whole head to look, because her eyes face the front and cannot move much.",
+        "An owl turns her whole head to look, because her eyes face the front and cannot move much.",
         "A deer at a waterhole can see a tiger sneaking from the side.",
         "A hen bobs her head as she walks, to keep the picture steady between steps."
       ],
@@ -277,7 +277,7 @@
       "concept": "The sharp spot and the edges",
       "status": "defined",
       "definition": "Only a tiny spot in the middle of the retina, the fovea, sees fine detail. The rest sees blurry shapes, movement and dim light.",
-      "description": "Hold your thumb out at arm's length. The sharp part of your vision is about the size of your thumbnail. Everything else is blurry, though the world does not seem that way. Your eyes jump from place to place about three times every second, pointing the sharp spot at one thing after another. Your brain builds a picture that feels sharp everywhere. The edges of your vision have few cone cells and many rod cells, so they notice movement and dim light, but not much colour. That is why you notice a bus coming from the side before you can say its colour. It is also why a faint star seems to vanish when you look straight at it and return when you look a little to the side.",
+      "description": "Hold your thumb out at arm's length. The sharp part of your vision is about the size of your thumbnail. Everything else is blurry, though the world does not seem that way. Your eyes jump from place to place about three times every second, pointing the sharp spot at one thing after another. Your brain builds a picture that feels sharp everywhere. The edges of your vision have few cone cells, the cells that see colour and detail. They have many rod cells, the cells that notice movement and dim light. That is why you notice a bus coming from the side before you can say its colour. It is also why a faint star seems to vanish when you look straight at it and return when you look a little to the side.",
       "examples": [
         "You read by moving your sharp spot along a line of words.",
         "A faint star appears when you look beside it, and disappears when you stare at it.",
@@ -285,16 +285,16 @@
       ],
       "perspectives": [],
       "art": "A person looking at a word with a small bright circle showing the sharp spot, and the surrounding view blurred.",
-      "context": "In the last unit, you learned about rods and cones. This card says where they are, and what that means for what you see."
+      "context": "Cone cells see colour, and rod cells work in dim light. This card says where they are in the retina, and what that means for what you see."
     },
     {
-      "concept": "You see a moment ago",
+      "concept": "What you see is a moment old",
       "status": "idea",
-      "description": "The signals from your eyes take a short time to travel and to be put together by the brain. Scientists think it is about a tenth of a second or more. So what you see is slightly old. A ball moving at 10 metres each second moves a whole metre in that time. Yet fielders catch balls. The brain does not simply report the old picture. It predicts where the ball will be, using what it has learned from many catches. This is why a skilled fielder can catch a ball that she could not possibly have seen in time. There is also an older delay in the light itself. Light from the Sun takes about 8 minutes to reach us, so you see the Sun as it was 8 minutes ago. Scientists still argue about how the brain does its predicting.",
+      "description": "The signals from your eyes take a short time to travel and to be put together by the brain. Scientists think it is about a tenth of a second or more. So what you see is slightly old. A ball moving at 10 metres each second moves a whole metre in that time. Yet fielders catch balls. The brain does not simply report the old picture. It predicts where the ball will be, using what it has learned from many catches. This is why a skilled fielder can catch a ball that she could not possibly have seen in time. There is another delay, in the light itself. Light from the Sun takes about 8 minutes to reach us, so you see the Sun as it was 8 minutes ago. Scientists still argue about how the brain does its predicting.",
       "examples": [
         "A fielder runs to where the ball will land, not to where it is.",
         "You see the Sun as it was about 8 minutes ago.",
-        "The stars you see tonight are shown as they were years ago, and for some, hundreds of years ago."
+        "You see the stars tonight as they were years ago, and some of them as they were hundreds of years ago."
       ],
       "perspectives": [],
       "art": "A fielder running towards a spot on the ground ahead of a falling ball, with a dotted line to where the ball will land.",
@@ -303,11 +303,11 @@
     {
       "concept": "The Moon looks bigger near the horizon",
       "status": "debated",
-      "description": "Hold a small lentil or pea at arm's length, in front of the Moon when it is high in the sky. Do the same when the Moon is just above the horizon. The Moon is covered by the same lentil in both. A photograph shows the same size too. Yet to the eye, the Moon near the horizon looks much bigger. This is an illusion, and it has been argued about for more than 2,000 years. Scientists agree that the Moon is not really larger. They do not agree on the reason.",
+      "description": "Hold a small lentil or pea at arm's length, in front of the Moon when it is high in the sky. Do the same when the Moon is just above the horizon. The same lentil covers the Moon both times. A photograph shows the same size too. Yet to the eye, the Moon near the horizon looks much bigger. This is an illusion, and it has been argued about for more than 2,000 years. Scientists agree that the Moon is not really larger. They do not agree on the reason.",
       "examples": [
         "The full Moon rising over the sea at Marina Beach in Chennai looks huge.",
         "The same Moon high overhead looks small.",
-        "A photograph shows both at the same size."
+        "A photograph shows the Moon near the horizon and the Moon high overhead at the same size."
       ],
       "perspectives": [
         {
@@ -316,7 +316,7 @@
         },
         {
           "who": "Some other scientists",
-          "explanation": "The sky looks like a flattened dome, so the horizon looks further than the top. The brain scales the Moon's size to fit."
+          "explanation": "The sky looks like a flattened dome, so the horizon looks further away than the top of the sky. The brain changes how big the Moon looks to fit."
         },
         {
           "who": "Other scientists today",
@@ -324,12 +324,12 @@
         }
       ],
       "art": "The Moon near a row of trees and a house on the horizon looking large, and the Moon high above in empty sky looking small, with a lentil at arm's length covering each.",
-      "context": "The Moon looks different sizes at different times. This card gives the main ideas, and says that nobody agrees."
+      "context": "The Moon looks different sizes at different times. This card gives the main ideas about why, and says that scientists do not agree."
     },
     {
       "concept": "Why we have a blind spot and an octopus does not",
       "status": "defined",
-      "definition": "In the eyes of humans and other backboned animals, the nerve fibres lie in front of the light-catching cells, so the nerve must pass through the retina, which leaves a blind spot. An octopus's retina is wired the other way round, so she has no blind spot.",
+      "definition": "In the eyes of humans and other animals with backbones, the nerve fibres lie in front of the light-catching cells. So the nerve must pass through the retina, and that leaves a blind spot. An octopus's retina is wired the other way round, so she has no blind spot.",
       "description": "In your eye, the light has to pass through a layer of nerve fibres before it reaches the light-catching cells. The fibres all gather together and leave the eye in one place, the optic nerve. At that place there are no light-catching cells, which makes the blind spot. In an octopus, the light-catching cells face the light directly, and the nerve fibres lie behind them. So she has no blind spot. Eyes of octopuses and eyes of humans look alike. Scientists think the two designs evolved separately, from far-off ancestors that could only sense light. No design is better in every way. A human brain fills in the blind spot, and we have a fovea. An octopus has no blind spot, and can sense polarised light, which we cannot.",
       "examples": [
         "Your eye has a blind spot, and you do not notice it.",
@@ -338,12 +338,12 @@
       ],
       "perspectives": [],
       "art": "A cutaway human eye with nerve fibres in front of the retina and a blind spot, beside an octopus eye with the nerve fibres behind.",
-      "context": "In Class 3, you found your blind spot. This card says why it is there."
+      "context": "Each of your eyes has a blind spot, a place with no light-catching cells. This card says why it is there."
     },
     {
       "concept": "Two pictures that join in the eye",
       "status": "debated",
-      "description": "A thaumatrope has a bird on one side of a card and a cage on the other. When you twirl it quickly, the bird seems to be inside the cage. A flip book, a cartoon and a film use the same trick. Pictures shown one after another, quickly enough, seem to join or to move. The old explanation, called persistence of vision, said the eye holds on to each picture for a moment. Many scientists now think that this is only part of the story. The brain also builds movement from a series of still pictures. They still argue about how it does so.",
+      "description": "A thaumatrope is a spinning card with a bird on one side and a cage on the other. When you twirl it quickly, the bird seems to be inside the cage. A flip book, a cartoon and a film use the same trick. Pictures shown one after another, quickly enough, seem to join or to move. The old explanation, called persistence of vision, said the eye holds on to each picture for a moment. Many scientists now think that this is only part of the story. The brain also builds movement from a series of still pictures. They still argue about how it does so.",
       "examples": [
         "A film shows 24 still pictures every second, and your brain sees smooth movement.",
         "A flip book of a bouncing ball seems to move when you flick the pages.",
@@ -356,7 +356,7 @@
         },
         {
           "who": "Many brain scientists today",
-          "explanation": "The brain does not just add pictures. It actively joins nearby pictures, and builds movement between them. The effect called the phi phenomenon was described by Max Wertheimer in 1912."
+          "explanation": "The brain does not just add pictures. It actively joins nearby pictures, and builds movement between them. Max Wertheimer described this effect, called the phi phenomenon, in 1912."
         },
         {
           "who": "Other scientists",
@@ -386,7 +386,7 @@
     },
     {
       "text": "Only a small spot in the middle of the retina sees fine detail.",
-      "evidence": "The fovea is packed with cone cells, and this has been seen and counted in the retinas of people."
+      "evidence": "The fovea is packed with cone cells. These cells have been seen and counted in people's retinas."
     },
     {
       "text": "Animals that hunt tend to have eyes in front, and animals that are hunted tend to have eyes at the sides.",
@@ -447,7 +447,7 @@
     {
       "q": "Your two eyes never see the same picture, yet you notice only one. Where do the two pictures become one?",
       "kind": "deep",
-      "hint": "Think about the finger jump. Which picture did you see when both eyes were open?"
+      "hint": "Think about how your finger jumped when you swapped eyes. Which picture did you see when both eyes were open?"
     },
     {
       "q": "A person with one eye can catch a ball. If two eyes are not needed, why do we have two?",
@@ -470,7 +470,7 @@
       "hint": "Think about how long light takes, and how long your brain takes."
     },
     {
-      "q": "If your brain builds every picture from signals, how can you be sure the world looks the way it does?",
+      "q": "If your brain builds every picture from signals, how can you be sure the world really is the way it looks?",
       "kind": "big",
       "hint": "Think about what could be checked by touching, measuring or asking someone else."
     },
@@ -504,7 +504,7 @@
       "Thamarai was the best fielder on the beach, and half the village still did not believe it.",
       "She was ten. When she was a baby, a bad fever had taken the sight from her left eye. The doctor, a kind woman from Nagercoil, said that her right eye was strong and healthy, and that was all she said. Thamarai did not think about it much. She thought about cricket.",
       "Every evening, when the fishing boats came in, the children of the lane played on the hard sand near the water. They used a taped tennis ball and a flat bat cut from a palmyra branch. The captain was Selvam Anna, who was nineteen and coached the little ones when he came home from college. He was fair, and he was proud of his team.",
-      "Thamarai could catch anything. She caught low balls and fast balls and balls that skipped off the sand. But Selvam Anna had read something in a book. \"You need two eyes to judge a high catch,\" he told her kindly. \"So I will put you in the corner.\" And for every big match, he did, where the ball hardly ever came.",
+      "Thamarai could catch anything. She caught low balls and fast balls and balls that skipped off the sand. But Selvam Anna had read something in a book. \"You need two eyes to judge a high catch,\" he told her kindly. \"So I will put you in the corner.\" And for every big match, he put her in the corner, where the ball hardly ever came.",
       "On the evening of the Pongal Cup final, the whole beach was full. Their lane was playing the village across the bay. By the last over, the other side needed eight runs to win. The sun hung low over the sea, and the whole sky glowed orange.",
       "The batter was a big girl called Karthika. She swung hard. The ball shot up, higher than the palm trees, and turned into a tiny dark dot against the glare.",
       "Everybody ran. Mythili, the tallest fielder, ran forward, then back, then forward again. She put up her hands, and then she took them down. She had lost the ball in the sun.",
@@ -541,7 +541,7 @@
       "title": "Seeing Detectives: why can't I see it?",
       "mins": 20,
       "players": "2 to 4 players",
-      "context": "This is a detective game about seeing. Each card describes someone who cannot see something, or sees something odd. You choose the reason, and a back tells you the right one.",
+      "context": "This is a detective game about seeing. Each card describes someone who cannot see something, or sees something odd. You choose the reason, and the back of the card tells you the right one.",
       "setup": [
         {
           "art": "Twenty-four cards in a shuffled pile with the fronts showing, and a set of four reason tokens in front of each player.",
@@ -611,7 +611,7 @@
             },
             {
               "f": "A tiny ant on the far wall cannot be seen from across the room, though the light is good.",
-              "b": "EYE'S LIMIT. From far away the ant makes too small an angle at the eye, so her picture lands on cone cells that cannot tell her from the wall."
+              "b": "EYE'S LIMIT. From far away the ant makes too small an angle at the eye. Her picture on the retina is too small for the cone cells to tell her apart from the wall."
             },
             {
               "f": "A girl walks from a bright street into a dark cinema. For a minute she can see almost nothing.",
@@ -627,7 +627,7 @@
             },
             {
               "f": "A child holds a page 3 centimetres from her eyes, and the words are a blur.",
-              "b": "EYE'S LIMIT. The lens cannot get thick enough to focus on a page that close. It is inside her near point."
+              "b": "EYE'S LIMIT. The lens cannot get thick enough to focus on a page that close. The page is closer than her near point."
             },
             {
               "f": "A dot on a card vanishes when the card is held at one distance, and returns when the card moves closer.",
@@ -689,7 +689,7 @@
           "id": "s1",
           "mins": 3,
           "do": "Cut out the cards and the tokens. Shuffle the cards and put them in a pile with the fronts showing. Give each player a set of four tokens.",
-          "say": "Each card has someone who cannot see something, or sees something odd. You choose a reason. No light. Blocked. Eye's limit. Or the brain's guess.",
+          "say": "Each card has someone who cannot see something, or sees something odd. You choose one of four reasons: no light, blocked, the eye's limit, or the brain's guess.",
           "kid": "Cut out the cards and tokens. Shuffle the cards. Each player takes four tokens.",
           "context": "This is the first step of Seeing Detectives. You set up the cards and the tokens."
         },
@@ -705,7 +705,7 @@
               "good": [
                 "With no light, nothing is lit at all.",
                 "With blocked light, there is light, but something is in the way.",
-                "Blocked means light goes straight and cannot go round."
+                "Blocked means the light goes straight and cannot go round the thing in the way."
               ]
             }
           ],
@@ -728,7 +728,7 @@
           "do": "Play the next cards until you have played about twelve in all. The reader reads the back each time. Keep a tally of points on paper.",
           "say": "Your turn to be a detective. Pick your reason. Say why in one sentence. Turn them over. Then listen to the back.",
           "kid": "Read the card. Pick a reason. Say why. Turn it over. Score a point.",
-          "parent": "Some cards have a clear 'eye' part and a 'brain' part. Accept one sentence that gives the idea, even in different words. If a card is hard, such as the Moon at the horizon, say it is a real puzzle and scientists argue about it.",
+          "parent": "Some cards have both an 'eye' part and a 'brain' part. Accept one sentence that gives the idea, even in different words. If a card is hard, such as the Moon at the horizon, say it is a real puzzle and scientists argue about it.",
           "check": {
             "t": "mcq",
             "q": "A faint star vanishes when you stare right at it, and comes back when you look to the side. Which reason fits best?",
@@ -879,7 +879,7 @@
         },
         {
           "t": "mcq",
-          "p": "When you swapped eyes, a pencil held near jumped much more than a pencil held far. What does the brain use the size of the jump for?",
+          "p": "In the Near Pencil, Far Pencil test, you swapped eyes. A pencil held near jumped much more than a pencil held far. What does the brain use the size of the jump for?",
           "opts": [
             "To work out how far away the pencil is",
             "To make the pencil move",
@@ -962,7 +962,7 @@
           "p": "A friend says, 'Light can bend round a corner like sound can, because I can hear my mother in the next room.' Write two sentences to help your friend.",
           "lines": 3,
           "a": "Sound waves are long, so they bend round corners easily. Light waves are tiny, so they bend round corners by almost nothing, and we cannot see round a corner. A shadow has a sharp edge for the same reason.",
-          "why": "A strong answer says that light goes in straight lines in everyday life, and gives evidence such as sharp shadows or the spot that vanished in the three cards test.",
+          "why": "A strong answer says that light goes in straight lines in everyday life, and gives evidence such as sharp shadows, or the spot of light that vanished in the Three Cards test.",
           "how": "e1"
         }
       ]
@@ -1024,7 +1024,7 @@
           "t": "write",
           "p": "Astronomers can find the distance to some nearby stars by looking at them from two places half a year apart. Explain how this is like the finger jump.",
           "lines": 4,
-          "a": "A near star seems to shift a little against the far stars when the view changes, like a near finger jumps against the wall. The bigger the shift, the nearer the star. The two places half a year apart are like two eyes.",
+          "a": "A near star seems to shift a little against the far stars when the view changes, just as a near finger jumps against the wall. The bigger the shift, the nearer the star. The two places half a year apart are like two eyes.",
           "why": "A strong answer links the idea of two viewpoints, a shift against the background, and distance. Nearer things shift more.",
           "how": "e2"
         },
@@ -1188,7 +1188,7 @@
       "items": [
         {
           "t": "mcq",
-          "p": "In 1838, Charles Wheatstone showed two flat drawings, one to each eye, that looked solid. What did this show?",
+          "p": "In 1838, Charles Wheatstone showed one flat drawing to each eye, and together the two drawings looked solid. What did this show?",
           "opts": [
             "The difference between the views of the two eyes is a clue to depth in itself",
             "The brain draws solid things",
@@ -1369,7 +1369,7 @@
       "results_table": [
         "How far the middle card is moved sideways (mm)",
         "Spot of light on the wall (bright, dim or none)",
-        "A bendy straw at the elbow: can I see the lamp? (yes or no)"
+        "Looking through a straw bent at the elbow: can I see the lamp? (yes or no)"
       ],
       "materials": [
         {
@@ -1553,7 +1553,7 @@
         {
           "id": "s5",
           "mins": 3,
-          "do": "Look at a lit lamp or a bright window across the room, but never at the Sun, through a straight straw. Then bend the straw at the elbow and look again. Write what you see each time.",
+          "do": "Look through a straight straw at a lit lamp or a bright window across the room. Never look at the Sun. Then bend the straw at the elbow and look again. Write what you see each time.",
           "say": "Look through a straight straw at the lamp. Can you see it? Now bend the straw in the middle and look again. What happens?",
           "kid": "Look at a lamp through a straight straw. Then bend the straw. What do you see?",
           "parent": "Through the straight straw, the lamp is easy to see. When the straw is bent sharply, you see only the dark inside of the straw. The light cannot turn the bend. A rolled paper tube that you bend gives the same result. Each child needs a clean straw of their own, or wash the end first. Use a lamp or a bright window, never the Sun.",
@@ -1566,7 +1566,7 @@
           "say": "Now tell me three things. What do you think now about how light travels? What did you see that shows it? And why do you think it happened?",
           "kid": "Say three things. What I think. What I saw. Why it happened.",
           "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: light goes in straight lines and does not go round corners. What I saw: the spot vanished when the middle card was moved a few millimetres, and the bent straw showed no lamp. Why: the light could only pass if the holes were on one straight line.",
-          "context": "In this step, you finish like a scientist, with claim, evidence and reasoning."
+          "context": "In this step, you say what you think, what you saw and why it happened. Scientists call this claim, evidence and reasoning."
         }
       ]
     },
@@ -1678,7 +1678,7 @@
           "do": "Hold the pencil upright at arm's length, in front of the strip. Close your right eye. Call out the number on the strip that the pencil seems to cover. The helper writes it down. Swap eyes and call out the number again. Write both numbers and the jump. Repeat with the pencil half as far, and again a hand-span from your nose.",
           "say": "Hold the pencil up at arm's length. Close your right eye. What number does it cover? Now swap. What number now? Then bring the pencil nearer and do it again.",
           "kid": "Hold the pencil up. Swap eyes. Read the two numbers. Bring the pencil nearer. Do it again.",
-          "parent": "Only the child can say which number the pencil covers, because it depends on where her eyes are. The helper must not read it from the side. For a child with eyes about 5.5 centimetres apart, with the strip 2 metres away, typical jumps are about 15 centimetres at arm's length, about 35 centimetres at half arm's length, and 60 to 80 centimetres a hand-span from the nose, which may be off the strip (then write 'off the strip', and use a shorter distance). Your numbers will differ. The pattern matters: the nearer the pencil, the bigger the jump. If your child cannot focus on the pencil at the nearest distance, use a bit further, and say so. Children with eyes further apart usually get bigger jumps, so compare two children and ask why. For 2 to 4 children: each child fills in their own table, one at a time, while the others write down the numbers and check the distance with the ruler. For one child with a parent: the parent writes and checks the distance.",
+          "parent": "Only the child can say which number the pencil covers, because it depends on where her eyes are. The helper must not read it from the side. For a child with eyes about 5.5 centimetres apart, with the strip 2 metres away, typical jumps are about 15 centimetres at arm's length, about 35 centimetres at half arm's length, and 60 to 80 centimetres a hand-span from the nose. That last jump may be off the strip. If it is, write 'off the strip', and use a shorter distance. Your numbers will differ. The pattern matters: the nearer the pencil, the bigger the jump. If your child cannot focus on the pencil at the nearest distance, hold it a bit further away, and say so. Children with eyes further apart usually get bigger jumps, so compare two children and ask why. For 2 to 4 children: each child fills in their own table, one at a time, while the others write down the numbers and check the distance with the ruler. For one child with a parent: the parent writes and checks the distance.",
           "check": {
             "t": "mcq",
             "q": "The pencil jumped further the nearer it was held. What does the brain do with the size of the jump?",
@@ -1738,7 +1738,7 @@
               "The pencil moved on its own"
             ],
             "a": 0,
-            "why": "With two eyes, the brain has two views to compare, and the difference tells it how far apart the tips are. With one eye, that clue is gone, so judging a small gap is harder. Picking 'one eye cannot see a pencil' is not right, because the closed-eye pencils were still seen. Only the distance was harder to judge."
+            "why": "With two eyes, the brain has two views to compare, and the difference tells it how far apart the tips are. With one eye, that clue is gone, so judging a small gap is harder. Picking 'one eye cannot see a pencil' is not right, because you could still see both pencils with one eye closed. Only the distance was harder to judge."
           },
           "chart": {
             "type": "bar",
@@ -1767,7 +1767,7 @@
           "say": "Now tell me three things. What do you think now about two eyes? What did you see that shows it? And why do you think it happened?",
           "kid": "Say three things. What I think. What I saw. Why it happened.",
           "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: two eyes help the brain to judge how far away things are. What I saw: the nearer pencil jumped more, and touching the pencil tips was harder with one eye. Why: the two eyes see from different places, and the brain uses the difference.",
-          "context": "In this step, you finish like a scientist, with claim, evidence and reasoning."
+          "context": "In this step, you say what you think, what you saw and why it happened. Scientists call this claim, evidence and reasoning."
         }
       ]
     },
@@ -1872,7 +1872,7 @@
           "mins": 8,
           "do": "Hold the lens and move it slowly towards and away from the card. Stop when a small, sharp picture of the window appears. Measure the distance from the lens to the card. Write it in the table. Write which way up the picture is.",
           "say": "Move the lens slowly, closer to the card and then away. Stop when a sharp picture of the window appears. How far is the lens from the card? Which way up is the picture?",
-          "kid": "Move the lens slowly. Find a sharp picture of the window. Measure how far the card is.",
+          "kid": "Move the lens slowly. Find a sharp picture of the window. Measure how far the card is from the lens.",
           "parent": "You should see a small, coloured, upside-down picture of the window, with the frame and maybe a tree. It is small and a little dim. Dim the room more if it is faint. The sharp place is a narrow range, so move slowly. For a small magnifying glass, the card is typically about 10 to 20 centimetres from the lens. The lens of reading glasses is weaker, so the card may be 30 to 60 centimetres away, and the picture is bigger. If you see only a bright blur, the card is not at the sharp place yet. If nothing shows, make the room darker, and check that the lens is the kind that is thicker in the middle. Roles for 2 to 4 children: one holds the lens, one holds the card, one measures, one writes. Swap, so everyone finds the sharp picture once. One child alone with a parent: the child holds the lens, and the parent holds the card and measures.",
           "check": {
             "t": "mcq",
@@ -1891,9 +1891,9 @@
           "id": "s4",
           "mins": 7,
           "do": "Stand the phone, with a big black letter F on a bright white screen, about 50 centimetres from the lens. Move the card until a sharp picture of the F appears. Measure again from the lens to the card. Write whether the card is nearer or further than before.",
-          "say": "Now a bright thing that is nearer. The phone screen with a big F, half a metre away. Find the sharp picture on the card. Is the card nearer or further than for the window? Is the F upside down?",
+          "say": "Now use a bright thing that is nearer: the phone screen with a big F, half a metre from the lens. Find the sharp picture on the card. Is the card nearer or further than for the window? Is the F upside down?",
           "kid": "Use the phone with a big F, half a metre away. Find the sharp picture. Is the card nearer or further now?",
-          "parent": "For a small magnifying glass, the card typically has to move about 2 to 6 centimetres further from the lens than for the window. Measure carefully and write what you really see. If the card does not seem to need moving, try the phone nearer, at about 30 centimetres. The F should be small and upside down, and the picture is dimmer than the screen. Turn the screen brightness to the top and keep the room dim.",
+          "parent": "For a small magnifying glass, the card typically has to move about 2 to 6 centimetres further from the lens than for the window. Measure carefully and write what you really see. If the card does not seem to need moving, try the phone nearer, at about 30 centimetres. The F should be small and upside down, and the picture is dimmer than the screen. Turn the screen brightness up as high as it goes and keep the room dim.",
           "check": {
             "t": "mcq",
             "q": "The bright phone screen was nearer to the lens. The card had to be a little further from the lens for a sharp picture. What does this show?",
@@ -1948,7 +1948,7 @@
           "say": "Now tell me three things. What do you think now about lenses? What did you see that shows it? And why do you think it happened?",
           "kid": "Say three things. What I think. What I saw. Why it happened.",
           "parent": "A good answer sounds like this. What I think: a lens makes an upside-down picture of a bright thing. What I saw: a small upside-down window on the card, and the card had to move for a nearer thing. Why: the lens bends the rays from each point of the thing so that they meet again on the card.",
-          "context": "In this step, you finish like a scientist, with claim, evidence and reasoning."
+          "context": "In this step, you say what you think, what you saw and why it happened. Scientists call this claim, evidence and reasoning."
         }
       ]
     }
@@ -2024,9 +2024,9 @@
           "id": "s2",
           "mins": 5,
           "do": "Hold the tube to the right eye with the right hand. Hold the left hand open, palm towards you. Put it flat against the side of the tube, about 10 centimetres from the face. Keep both eyes open. Look at a far wall. Slide the hand until you see a hole in your palm.",
-          "say": "Tube to your right eye. Left hand beside the tube. Both eyes open. Look at the far wall. Do you see a hole in your hand?",
-          "kid": "Tube to one eye. Hand beside the tube. Both eyes open. Do you see a hole?",
-          "parent": "It works for most people in a few tries. If it does not, move the hand a little closer to the tube, and try the other eye. Some people need to adjust the tube a few times. The hole is a real result of two pictures being joined. Typically it works within a few tries. If it does not, make the tube a little wider or narrower, and keep the hand flat against the tube. Every child makes their own tube. Siblings can work in pairs: one tries, the other watches and adjusts the hand. Ask each child to draw what they see.",
+          "say": "Hold the tube to your right eye. Put your left hand beside the tube. Keep both eyes open and look at the far wall. Do you see a hole in your hand?",
+          "kid": "Hold the tube to one eye. Put your hand beside the tube. Keep both eyes open. Do you see a hole?",
+          "parent": "It works for most people in a few tries. If it does not, move the hand a little closer to the tube, keep the hand flat against the tube, and try the other eye. You can also make the tube a little wider or narrower. The hole is a real result of two pictures being joined. Every child makes their own tube. Siblings can work in pairs: one tries, the other watches and adjusts the hand. Ask each child to draw what they see.",
           "check": {
             "t": "mcq",
             "q": "You see a round hole in your hand, but your hand is solid. Why does it seem to have a hole?",
@@ -2044,10 +2044,10 @@
           "id": "s3",
           "mins": 4,
           "do": "Find your leading eye. Make a triangle with both hands at arm's length. Look through it at a far light switch with both eyes. Close the left eye, then the right. The eye that keeps the switch in the triangle is the leading eye.",
-          "say": "Make a small triangle with your hands, at arm's length. Look at a far light switch through it. Close one eye, then the other. Which eye keeps the switch in the hole?",
-          "kid": "Make a triangle with your hands. Look at a far switch. Close one eye, then the other. Which keeps it?",
+          "say": "Make a small triangle with your hands, at arm's length. Look at a far light switch through it. Close one eye, then the other. Which eye keeps the switch inside the triangle?",
+          "kid": "Make a triangle with your hands. Look at a far switch through it. Close one eye, then the other. Which eye keeps the switch inside the triangle?",
           "parent": "Most people favour the right eye, but many favour the left. The leading eye is the one the brain uses when the two pictures disagree. It does not mean that the other eye is weaker.",
-          "think": "Most people favour one eye, as they favour one hand. What do you notice about who in your family favours the left eye?",
+          "think": "Most people favour one eye, as they favour one hand. Who in your family favours the left eye?",
           "context": "In this step, you find which of your eyes leads."
         }
       ]
@@ -2142,7 +2142,7 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "Start behind the chair at the 6 paper on the right side. Move the red pen slowly along the circle towards 12, at arm's length from the circle. Your child says 'now' when they notice any movement. Write the hour paper. Keep going. They say 'red' when they can name the colour. Write that hour paper.",
+          "do": "Start behind the chair at the 6 paper on the right side. Move the red pen slowly along the circle towards 12, at arm's length from the circle. Your child says 'now' when they notice any movement. Write down the number of the paper the pen has reached. Keep going. They say 'red' when they can name the colour. Write down that paper's number too.",
           "say": "Keep staring at the sticker. I will move the pen in from behind. Say 'now' when you notice it moving. Say 'red' when you are sure of its colour.",
           "kid": "Stare at the sticker. Say 'now' when you notice movement. Say 'red' when you know its colour.",
           "parent": "Make sure the eyes stay on the sticker. If you see them move, start again. Typically movement is noticed at about the 3 paper or a little behind it, and the red colour is named at about the 1 or 2 paper. People differ, so write what you really see. Do not tell your child the numbers until the end. Wiggle the pen a little as you walk, because a still pen at the edge may not be noticed. Walk quietly, and do not make a sound, so that sound does not give it away. Roles for 2 to 4 children: one sits, one walks the pen, one writes, one watches the sitter's eyes. Swap after each side. One child alone with a parent: the parent walks the pen and watches the eyes, and the child writes the result afterwards.",
@@ -2162,11 +2162,11 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "Repeat on the left side, from 6 towards 12. Write the two hour papers. Compare the left side with the right side, and then with another person if you can.",
+          "do": "Repeat on the left side, from 6 towards 12. Write down the two paper numbers. Compare the left side with the right side, and then with another person if you can.",
           "say": "Now the left side. Same rules. Say 'now' for movement, and 'red' for colour. Then we compare.",
           "kid": "Now the left side. Say 'now' for movement. Say 'red' for colour.",
           "parent": "Left and right usually give similar results. A person with glasses should wear them for the test. Draw the two wedges on a top-down picture of a head, one for movement and one for colour.",
-          "think": "You can see a lot without turning your head, but you only see colour well in a smaller space. What does that say about how much of the world you really see in colour at one time?",
+          "think": "You can see a lot without turning your head, but you see colour well only in a smaller part of it. How much of the world do you really see in colour at one time?",
           "context": "In this step, you test the left side of your view and compare your results."
         }
       ]
@@ -2360,10 +2360,10 @@
           "kid": "Measure a pole on a ruler. It moves back. What happens to its height on the ruler? Why?",
           "ask": [
             {
-              "q": "What will happen to its height on the ruler when it is twice as far away?",
+              "q": "What will happen to the pole's height on the ruler when the pole is twice as far away?",
               "good": [
                 "It will be half as big.",
-                "It will stay the same, because she is the same size.",
+                "It will stay the same, because the pole is the same size.",
                 "It will get a bit smaller."
               ]
             }
@@ -2426,7 +2426,7 @@
           "id": "s4",
           "mins": 2,
           "do": "Draw a bar chart of your three measurements. Ask what happens to the height each time the distance doubles.",
-          "say": "Look at your three numbers. What happens each time she steps twice as far away?",
+          "say": "Look at your three numbers. What happens each time the pole is twice as far away?",
           "kid": "Look at your three numbers. What pattern do you see?",
           "think": "If you wanted a sign to look the same size from twice as far away, how big would you have to make it?",
           "context": "In this step, you look for the pattern in the numbers."
@@ -2517,10 +2517,10 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "A grown-up cuts two discs from the card by drawing round a mug. Draw a bird on one disc. Flip the disc over like a page, top to bottom, and note which way up the back is. On the second disc, draw a cage, the right way up when it is flipped in the same way. Glue the two discs back to back with a string between them on each side.",
+          "do": "A grown-up draws round a mug on the card and cuts out two discs. Draw a bird on one disc and a cage on the other. Hold the two discs back to back and flip them over like a page of a calendar, top to bottom. The cage must be the right way up when it comes round. Then glue the two discs back to back, with a string between them on each side.",
           "say": "Draw a bird on one disc. Draw a cage on the other. Make the cage the right way up when you flip the card like a page. Glue the two discs together with a string on each side.",
           "kid": "Draw a bird on one disc and a cage on the other. Glue them back to back with strings.",
-          "parent": "The two pictures must be the right way up for each other when the card is flipped by twirling it between the strings. A good way: draw the bird, then flip the card over like a page of a calendar, and draw the cage on the back so that it looks right way up in that position. Make both pictures simple and bold, in the middle of the disc. If the bird and cage do not line up, redraw.",
+          "parent": "When the card twirls between the strings, it flips over top to bottom. Both pictures must be the right way up as they come round. A good way: draw the bird, then flip the card over like a page of a calendar, and draw the cage on the back so that it looks right way up in that position. Make both pictures simple and bold, in the middle of the disc. If the bird and cage do not line up, redraw.",
           "check": {
             "t": "mcq",
             "q": "Why do the two pictures have to be drawn in the middle of each disc?",
@@ -2530,7 +2530,7 @@
               "Because bright colours show best there"
             ],
             "a": 0,
-            "why": "When the disc twirls, each picture lands in the same place as the other one. The brain joins them there. If one picture were off to the side, the two would not overlap, and you would just see two flickering pictures. Picking 'easy to cut' is about looks, not about what you see."
+            "why": "When the disc twirls, each picture lands in the same place as the other one. The brain joins them there. If one picture were off to the side, the two would not overlap, and you would just see two flickering pictures. Picking 'easy to cut' is about making the disc, not about what you see when it spins."
           },
           "adult": true,
           "context": "In this step, you make the thaumatrope."
@@ -2550,7 +2550,7 @@
           "do": "Use the notepad. On the corner of the last page, draw a small ball at the bottom. On the page before it, draw the ball a little higher. Go on, page by page, moving the ball up and then down. Flick the pages from the first to the last with your thumb.",
           "say": "Draw a little ball at the corner of each page, a bit higher each time. Then flick the pages with your thumb. What do you see?",
           "kid": "Draw a ball on each page. Move it a bit each time. Flick the pages. What do you see?",
-          "parent": "Draw from the back of the pad to the front, so the flick runs from the first page to the last. Keep the ball the same size and move it a small amount each time. About 15 pages is enough to make a short bounce, but 25 or more pages last longer. Press hard with a pen so that the ball shows, and draw it near the corner where the thumb flicks the pages. If the pages are thick, the ball may be hard to see through the page, so use a dark pen. The smaller the moves, the smoother the motion. Scientists have long said that the eye holds on to each picture for a moment, called persistence of vision. Many now think that the brain also builds movement from still pictures. They are still working out how.",
+          "parent": "Draw from the back of the pad to the front, so the flick runs from the first page to the last. Keep the ball the same size and move it a small amount each time. About 15 pages is enough to make a short bounce, but 25 or more pages last longer. Press hard with a pen so that the ball shows, and draw it near the corner where the thumb flicks the pages. If the pages are thick, the ball may be hard to see through the page, so use a dark pen. The smaller the moves, the smoother the motion. Scientists have long said that the eye holds on to each picture for a moment. This is called persistence of vision. Many now think that the brain also builds movement from still pictures. They are still working out how.",
           "check": {
             "t": "mcq",
             "q": "In your flip book, each page is a still picture. Why does the ball seem to move?",
@@ -2567,7 +2567,7 @@
         {
           "id": "s5",
           "mins": 4,
-          "do": "Flick the flip book slowly, one page a second. Then at a medium speed. Then fast. Time each flick with a phone stopwatch. Work out pages each second: pages divided by seconds. Write down the speed at which the ball moves smoothly. Write the speed at which it looks like separate pictures. It typically looks smooth at about 10 pages a second or more. A short pad takes only about 1 second, so flick it several times.",
+          "do": "Flick the flip book slowly, one page a second. Then at a medium speed. Then fast. Time each flick with a phone stopwatch. Work out how many pages pass each second: divide the number of pages by the number of seconds. Write down the speed at which the ball moves smoothly. Write the speed at which it looks like separate pictures. It typically looks smooth at about 10 pages a second or more. A short pad takes only about 1 second, so flick it several times.",
           "say": "Flick the flip book slowly. What do you see? Now medium. Now fast. When does the ball seem to move smoothly?",
           "kid": "Flick slowly. Flick medium. Flick fast. When does the ball seem to move?",
           "think": "A film shows 24 still pictures every second. Why do you think it seems smooth?",
@@ -2580,7 +2580,7 @@
           "say": "Now tell me three things. What do you think now about how we see pictures that come quickly? What did you see that shows it? And why do you think it happened?",
           "kid": "Say three things. What I think. What I saw. Why it happened.",
           "parent": "A good answer sounds like this. What I think: pictures that come quickly join in my eye and brain. What I saw: the bird was inside the cage when the disc spun fast, and the ball seemed to move in the flip book. Why: the brain joins pictures that come close together in time.",
-          "context": "In this step, you finish like a scientist, with claim, evidence and reasoning."
+          "context": "In this step, you say what you think, what you saw and why it happened. Scientists call this claim, evidence and reasoning."
         }
       ]
     }
@@ -2713,7 +2713,7 @@
           "do": "Look at all your distances. Ask your child which sign won, and why. Ask which change mattered most.",
           "say": "Look at your table. Which sign could be read from furthest? Which change mattered most, the size or the colour? Why?",
           "kid": "Look at your table. Which sign won? What mattered most?",
-          "think": "Road signs for fast drivers have very big letters. How much bigger must they be than a sign in a corridor, to be read in time?",
+          "think": "Road signs for fast drivers have very big letters. Why must they be so much bigger than the letters on a sign in a corridor, to be read in time?",
           "context": "In this step, you compare the signs and explain what you found."
         }
       ]
@@ -2820,7 +2820,7 @@
     },
     {
       "t": "mcq",
-      "p": "Which sentence is the best reasoning for 'touching the tips of two pencils is harder with one eye'?",
+      "p": "Which sentence best explains why touching the tips of two pencils together is harder with one eye?",
       "opts": [
         "With one eye, the brain loses the difference between two views that tells it how far away the tips are",
         "One eye is weaker than two",
@@ -3031,12 +3031,12 @@
   ],
   "maths": [
     {
-      "problem": "A child measured the jump of a pencil at three distances: 15 centimetres at 50 centimetres, 35 centimetres at 25 centimetres, and 80 centimetres at 15 centimetres. When the pencil moved from 50 to 25 centimetres, the distance halved. Did the jump less than double, exactly double or more than double?",
+      "problem": "In the Near Pencil, Far Pencil test, a pencil held 50 centimetres from the eyes jumped 15 centimetres. Held at 25 centimetres, it jumped 35 centimetres. Held at 15 centimetres, it jumped 80 centimetres. When the pencil moved from 50 to 25 centimetres, the distance halved. Did the jump less than double, exactly double or more than double?",
       "answer": "More than double.",
       "explain": "The jump at 50 centimetres was 15 centimetres. Double that is 30. The jump at 25 centimetres was 35, which is more than 30. So the jump grew by more than double when the distance halved.",
       "math_unit": "math.fractions.ratio-and-proportion.L4",
       "how": "e2",
-      "context": "In this experiment, you swap eyes while holding a pencil at different distances, and measure how far the pencil seems to jump against a strip on the wall.",
+      "context": "In the Near Pencil, Far Pencil experiment, you swap eyes while holding a pencil at different distances, and measure how far the pencil seems to jump against a strip on the wall.",
       "chart": {
         "type": "table",
         "title": "Made-up example: the jump at three distances",
@@ -3064,10 +3064,10 @@
     {
       "problem": "A pole looked 16 centimetres tall on a ruler at arm's length when it stood 2 metres away. How tall would it look at 4 metres? At 8 metres? At what distance would it look 2 centimetres tall?",
       "answer": "8 centimetres at 4 metres, 4 centimetres at 8 metres, and 2 centimetres at 16 metres.",
-      "explain": "Twice as far makes it look half as tall. Half of 16 is 8. Half of 8 is 4. Half of 4 is 2. That was three halvings, from 2 metres: 4, 8, then 16 metres.",
+      "explain": "Twice as far makes it look half as tall. Half of 16 is 8. Half of 8 is 4. Half of 4 is 2. Each halving doubles the distance: from 2 metres to 4, then 8, then 16 metres.",
       "math_unit": "math.division.division-facts.L4",
       "how": "a4",
-      "context": "In this activity, you hold a ruler at arm's length and measure how tall a pole looks when a friend holds it at different distances.",
+      "context": "In the How Big Does It Look? activity, you hold a ruler at arm's length and measure how tall a pole looks when a friend holds it at different distances.",
       "why_maths": "Halving again and again shows the pattern, and lets you work out a distance from a size you have measured."
     },
     {
@@ -3076,7 +3076,7 @@
       "explain": "The grandparent's near point is 48 centimetres and the child's is 8. 8 times 6 is 48, so it is 6 times further. The parent's is 24. 48 take away 24 is 24 centimetres.",
       "math_unit": "math.multiplication.multiplication-facts.L4",
       "how": "a3",
-      "context": "In this activity, you measure the nearest distance at which people of different ages can still read small writing.",
+      "context": "In the Near Point activity, you measure the nearest distance at which people of different ages can still read small writing.",
       "chart": {
         "type": "bar",
         "title": "Made-up example: near point of three people",
@@ -3108,7 +3108,7 @@
       "explain": "The spot was bright up to 2 millimetres and dim at 4. The hole is 5 millimetres wide. 4 is a little less than 5. If the card moves about one hole-width, the holes no longer overlap, so the light cannot go straight through all three.",
       "math_unit": "math.measurement-basics.reading-scales.L4",
       "how": "e1",
-      "context": "In this experiment, you slide the middle card of three sideways in small steps and watch the spot of light on the wall.",
+      "context": "In the Three Cards, Three Holes experiment, you slide the middle card of three sideways in small steps and watch the spot of light on the wall.",
       "chart": {
         "type": "table",
         "title": "Made-up example: how the spot changed",
@@ -3146,12 +3146,12 @@
       "why_maths": "Comparing the shift with the width of the hole explains the result, and lets you predict what a bigger hole would do."
     },
     {
-      "problem": "A clock face is a full circle of 360 degrees, and it has 12 hour marks. How many degrees are there between one hour mark and the next? In the clock-face test, a child noticed movement at the 3 mark and named the colour at the 1 mark, counted from the 12 straight ahead. How many degrees further out was the movement mark?",
+      "problem": "A clock face is a full circle of 360 degrees, and it has 12 hour marks. How many degrees are there between one hour mark and the next? In the clock-face test, a child noticed movement at the 3 mark and named the colour at the 1 mark. Both are counted from the 12, which is straight ahead. How many degrees further from the 12 is the movement mark than the colour mark?",
       "answer": "30 degrees between hour marks. The movement mark was 60 degrees further out.",
       "explain": "360 divided by 12 is 30. So each hour mark is 30 degrees from the next. The 3 mark is 3 steps from the 12, so it is 90 degrees. The 1 mark is 1 step, so 30 degrees. 90 take away 30 is 60 degrees.",
       "math_unit": "math.lines-angles.angles.L4",
       "how": "a2",
-      "context": "In this activity, you sit in the middle of a clock face laid out on the floor and find where you can notice a moving pen and where you can name its colour.",
+      "context": "In the clock-face test, you sit in the middle of a clock face laid out on the floor and find where you can notice a moving pen and where you can name its colour.",
       "why_maths": "Measuring angles in degrees turns 'a bit to the side' into a number that you can compare with other people's."
     },
     {
@@ -3168,7 +3168,7 @@
       "explain": "Letters three times as tall can be read from three times as far, so 3 times 5 is 15 metres. For 40 metres, divide by 5. 40 divided by 5 is 8, so the letters must be 8 times as tall, which is 8 centimetres.",
       "math_unit": "math.fractions.ratio-and-proportion.L4",
       "how": "c1",
-      "context": "In this challenge, you make signs with letters of different sizes and find how far away a friend can read them.",
+      "context": "In the Readable From the Far End challenge, you make signs with letters of different sizes and find how far away a friend can read them.",
       "why_maths": "Seeing that size and distance go up together lets a designer work out how big a sign must be before making it."
     },
     {
@@ -3177,7 +3177,7 @@
       "explain": "Both eyes: 4 plus 5 plus 4 plus 5 plus 3 is 21. One eye: 2 plus 1 plus 3 plus 1 plus 2 is 9. 21 take away 9 is 12. There were 5 times 5, which is 25 tries, so 9 out of 25 touched.",
       "math_unit": "math.data.bar-charts.L4",
       "how": "e2",
-      "context": "In this experiment, you try to touch two pencil tips together with two eyes open, and then with one eye closed.",
+      "context": "In the Near Pencil, Far Pencil experiment, you try to touch two pencil tips together with two eyes open, and then with one eye closed.",
       "chart": {
         "type": "bar",
         "title": "Made-up example: touches out of 25 tries",
@@ -3386,7 +3386,7 @@
     "deep_truth": {
       "truth": "Hold up a finger and swap eyes, and it jumps against the wall. The jump is bigger for near things and smaller for far things. Your brain uses that difference to say how far away things are. So distance is worked out, not seen.",
       "habit": "We say we see how far away things are, as if distance were printed on them like a label. But nothing in a single view says how far away something is. The brain has to work it out from two views, or from clues such as size and overlap.",
-      "evidence": "In the finger jump test, the pencil seemed to jump further when it was held near than when it was held far. When one eye was covered, touching two pencil tips together got harder. If your results are not clear, write them down honestly and try again with a longer strip on the wall."
+      "evidence": "In the Near Pencil, Far Pencil test, the pencil seemed to jump further when it was held near than when it was held far. When one eye was closed, touching two pencil tips together got harder. If your results are not clear, write them down honestly and try again with a longer strip on the wall."
     },
     "three": {
       "who_am_i": "You never look out from just one place. Your two eyes are about 6 centimetres apart, and your picture of the world is built from both of them.",
@@ -3428,7 +3428,7 @@
     "practice": {
       "title": "Swap eyes and breathe",
       "mins": 3,
-      "say": "Sit facing a wall. Hold up one finger at arm's length. Breathe in slowly. Close your left eye and look at the finger. Breathe out. Open your left eye and close the right. Notice the jump. Do this three times, slowly. Then open both eyes, and notice that you see one finger and one wall. Let yourself wonder who joined the two pictures.",
+      "say": "Sit facing a wall. Hold up one finger at arm's length. Breathe in slowly. Close your left eye and look at the finger. Breathe out. Open your left eye and close the right. Notice the jump. Do this three times, slowly. Then open both eyes, and notice that you see one finger and one wall. Ask yourself: who joined the two pictures?",
       "kid": "Hold up a finger. Close one eye. Breathe in. Swap eyes. Breathe out. Do this three times. Then open both eyes. Who joined the two pictures?"
     },
     "ask": [

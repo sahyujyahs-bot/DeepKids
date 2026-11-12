@@ -7,7 +7,7 @@
   "art": "A tar road and a whitewashed wall side by side in strong sunshine, a phone held up to a TV remote showing a purple glow, and a small lamp far down the street looking dim."
  },
  "intro": {
-  "hook": "Imagine standing barefoot on a tar road at noon (do not try it, it can burn), then stepping into the cool shade of a whitewashed wall. Same Sun, same sunlight. Why is the road so hot? Where did the light go when it landed on the road?",
+  "hook": "A tar road at noon is hot enough to burn bare feet (do not try it). A whitewashed wall beside it stays cool. The same Sun shines on both. Why is the road so hot? Where did the light go when it landed on the road?",
   "text": "Light does not just let us see. It carries energy, and when a surface takes the light in, that energy turns into heat. A lamp far away looks dim for a different reason. Its light spreads out over a wider and wider space, so each patch of your eye gets less. In this unit you will measure how fast a torch beam thins out, race ice cubes on black paper and white paper, and use a phone camera to catch light your eyes cannot see. You will also meet the long family of waves that light belongs to, from radio to X-rays.",
   "art": "A child in a dark room holding a torch toward squared paper on a wall, with the beam shown widening like a cone, and a bar of coloured light at the side labelled the family of light."
  },
@@ -166,7 +166,7 @@
   {
    "concept": "Light is energy on the move",
    "status": "defined",
-   "definition": "Light is a kind of energy that travels. When it lands on something, it can warm it, make a chemical change in it, or push electrons around in it.",
+   "definition": "Light is a kind of energy that travels. When it lands on something, it can warm it, make a chemical change in it, or push the tiny particles called electrons around in it.",
    "description": "Light leaves a lamp, a fire or the Sun and carries energy away with it. That energy does not vanish when the light lands. It turns into something else. Sunlight on a steel tumbler turns into heat. Sunlight on a leaf turns into the stored energy of sugar. Sunlight on a solar panel pushes electrons along a wire and makes electricity. In every case, the light is gone and the same amount of energy is still there, in a new form.",
    "examples": [
     "A solar water heater on a roof in Chennai turns sunlight into hot water for a whole family.",
@@ -195,7 +195,7 @@
    "definition": "In clear space, light is not used up as it travels. It only spreads over a bigger area, so each part of the area gets less.",
    "description": "Many people think light gets tired and weaker as it goes. In clear space, that is not what happens. Think of a bucket of water poured onto a floor. The same water makes a thick puddle if the floor is small and a thin film if the floor is huge. The amount of water has not changed. Light is like that. The total light going through a bigger and bigger sphere around a lamp stays the same. Only the light on each small patch gets less. Air with dust, smoke or fog does take in or scatter some light, so a lamp seen through fog looks dimmer still. Most of the dimming of a faraway star, however, is just spreading.",
    "examples": [
-    "A candle can be seen from a long way off on a dark night, because the light that reaches your eye is small but your eye still catches it.",
+    "A candle can be seen from a long way off on a dark night. Only a little of its light reaches your eye, but your eye still catches it.",
     "Starlight crosses space for thousands of years and arrives with its energy intact. It is thin only because it has spread.",
     "A street light looks dimmer in fog than on a clear night, because fog scatters some of its light away."
    ],
@@ -258,7 +258,7 @@
    "concept": "One family of waves: the electromagnetic spectrum",
    "status": "defined",
    "definition": "Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays are all the same kind of wave. They differ only in wavelength.",
-   "description": "Visible light is a wave of electric and magnetic fields. In 1865 James Clerk Maxwell worked out that such waves could be longer or shorter than light. In 1887 Heinrich Hertz made the longer ones in a lab and showed they behave just like light. The whole family is called the electromagnetic spectrum. The members from longest to shortest are radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays. All of them travel at the speed of light in empty space. The shorter the wavelength, the more energy each photon carries. That is why a blue photon carries more than a red one, and an X-ray photon carries thousands of times more.",
+   "description": "Visible light is a wave of electric and magnetic fields. In 1865 James Clerk Maxwell worked out that such waves could be longer or shorter than light. In 1887 Heinrich Hertz made the longer ones in a lab and showed they behave just like light. The whole family is called the electromagnetic spectrum. The members from longest to shortest are radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays. All of them travel at the speed of light in empty space. The energy of light comes in tiny packets called photons. The shorter the wavelength, the more energy each photon carries. That is why a blue photon carries more than a red one, and an X-ray photon carries thousands of times more.",
    "examples": [
     "FM radio waves are about 3 metres long. Wi-Fi waves are about 12 centimetres long.",
     "Red light has a wavelength about 100 times smaller than the width of a hair.",
@@ -271,7 +271,7 @@
    "concept": "Radio waves and microwaves: the long waves that carry messages",
    "status": "defined",
    "definition": "Radio waves and microwaves are the longest waves in the light family. They pass through walls and carry radio, TV, Wi-Fi and phone signals.",
-   "description": "Long waves are not stopped by most walls, so they are good for sending messages. A radio station turns a voice or a song into a pattern of changes in radio waves. Your radio turns the pattern back into sound. Mobile phones and Wi-Fi use microwaves, a bit shorter. A microwave oven uses microwaves of the same family, but strong ones, to shake the water in food and warm it. Jagadish Chandra Bose, a scientist in Kolkata, showed around 1895 that waves a few millimetres long can pass through walls and ring a bell in another room. The Giant Metrewave Radio Telescope near Pune uses 30 dishes to catch radio waves from far out in space.",
+   "description": "Long waves are not stopped by most walls, so they are good for sending messages. A radio station turns a voice or a song into a pattern of changes in radio waves. Your radio turns the pattern back into sound. Mobile phones and Wi-Fi use microwaves, which are a bit shorter than radio waves. A microwave oven uses strong microwaves to shake the water in food and warm it. Jagadish Chandra Bose, a scientist in Kolkata, showed around 1895 that waves a few millimetres long can pass through walls and ring a bell in another room. The Giant Metrewave Radio Telescope near Pune uses 30 dishes to catch radio waves from far out in space.",
    "examples": [
     "A phone call to a relative in Madurai travels as microwaves to a tower, then on through cables and more waves.",
     "Radio telescopes found pulsars, which are spinning dead stars that blink many times a second.",
@@ -284,7 +284,7 @@
    "concept": "Infrared: the warmth you can feel but not see",
    "status": "defined",
    "definition": "Infrared is light just beyond red. Every warm thing gives it out, and our skin feels it as warmth.",
-   "description": "The bigger the temperature of a thing, the more infrared it sends out. Your body gives out infrared, and so do a hot tava, a fire and a warm stone. You feel the heat of a fire on your face from a metre away because infrared from the fire lands on your skin. A thermal camera sees infrared and turns it into a coloured picture, so it can see warm bodies in the dark. Some snakes, such as pit vipers, have tiny pits on their faces that sense the infrared from a warm mouse. A TV remote uses infrared too. It sends a quick pattern of flickers, and the TV reads the pattern. The remote's light is invisible, but a phone camera can catch it.",
+   "description": "The hotter a thing is, the more infrared it sends out. Your body gives out infrared, and so do a hot tava, a fire and a warm stone. You feel the heat of a fire on your face from a metre away because infrared from the fire lands on your skin. A thermal camera sees infrared and turns it into a coloured picture, so it can see warm bodies in the dark. Some snakes, such as pit vipers, have tiny pits on their faces that sense the infrared from a warm mouse. A TV remote uses infrared too. It sends a quick pattern of flickers, and the TV reads the pattern. The remote's light is invisible, but a phone camera can catch it.",
    "examples": [
     "Sitting near a lit hearth, you feel its warmth long before you touch anything hot.",
     "Thermal cameras at airports check whether travellers have a fever.",
@@ -310,7 +310,7 @@
    "concept": "Why our eyes see only a thin slice of the family",
    "status": "idea",
    "definition": "",
-   "description": "Our eyes catch light with wavelengths from about 0.0004 to 0.0007 millimetres. That is a very thin slice of the whole family. There are several likely reasons. The Sun gives out most of its light in this slice. The air and water let this slice through, while they block much of the ultraviolet and some of the infrared. A cell that catches visible light needs a certain amount of energy, which is the amount a visible photon carries. Many scientists think animals ended up using this slice because it was bright, and because it could reach the ground. Other animals use different slices. Bees and many birds see some ultraviolet. Pit vipers sense infrared. The reasons are an idea, but they fit what we know.",
+   "description": "Our eyes catch light with wavelengths from about 0.0004 to 0.0007 millimetres. That is a very thin slice of the whole family. There are several likely reasons. The Sun gives out most of its light in this slice. The air and water let this slice through, while they block much of the ultraviolet and some of the infrared. A cell that catches visible light needs a certain amount of energy, which is the amount a visible photon carries. Many scientists think animals ended up using this slice because it was bright, and because it could reach the ground. Other animals use different slices. Bees and many birds see some ultraviolet. Pit vipers sense infrared. These reasons are not proven, but they fit what we know.",
    "examples": [
     "Bees see ultraviolet patterns on flowers that look plain to us.",
     "Pit vipers sense infrared heat from warm prey in darkness.",
@@ -336,7 +336,7 @@
    "concept": "Sailing on sunlight",
    "status": "idea",
    "definition": "",
-   "description": "A solar sail is a huge, very thin, shiny sheet that catches the push of sunlight. A spacecraft carrying one needs no fuel. In 2010 a Japanese spacecraft called IKAROS unfolded a square sail in space and showed that sailing on sunlight works. In 2019 a small craft called LightSail 2, paid for by The Planetary Society, used sunlight to raise its orbit around the Earth. Some scientists dream of much bigger sails. Breakthrough Starshot, a plan announced in 2016, imagines tiny sail craft pushed by powerful lasers to a nearby star within a human lifetime. Nobody has built it. The engineering is very hard, and many scientists doubt it can be done. It is an idea, but one built on a real push.",
+   "description": "A solar sail is a huge, very thin, shiny sheet that catches the push of sunlight. A spacecraft carrying one needs no fuel. In 2010 a Japanese spacecraft called IKAROS unfolded a square sail in space and showed that sailing on sunlight works. In 2019 a small craft called LightSail 2, paid for by The Planetary Society, used sunlight to raise its orbit around the Earth. Some scientists dream of much bigger sails. Breakthrough Starshot, a plan announced in 2016, imagines tiny sail craft pushed by powerful lasers to a nearby star within a human lifetime. Nobody has built it. The engineering is very hard, and many scientists doubt it can be done. It is only an idea so far, but the push of light it depends on is real.",
    "examples": [
     "IKAROS in 2010 was the first craft to sail on sunlight between planets.",
     "LightSail 2 raised its own orbit around the Earth using only sunlight.",
@@ -352,7 +352,7 @@
    "description": "Telescopes can detect a faint glow of microwaves coming from every direction in the sky. It is the oldest light there is. It was set free about 380,000 years after the universe began, when the hot young universe cooled enough to let light travel. In the mid-1960s two radio engineers, Arno Penzias and Robert Wilson, found it by accident. Their antenna in New Jersey kept picking up a steady hiss. They even cleaned out pigeon droppings from the antenna, but the hiss stayed. As the universe grew, the waves of that old light were stretched until they became microwaves. Scientists agree the glow is real and very smooth. They argue about why it is so smooth, and about what came before it.",
    "examples": [
     "A tiny part of the hiss and snow between channels on an old analogue TV is said to have come from this old light.",
-    "The glow is a little bit warmer in some directions and cooler in others. Those tiny differences are the seeds of galaxies.",
+    "The glow is a little bit warmer in some directions and cooler in others. Galaxies later grew from those tiny differences.",
     "The glow is about 3 degrees above absolute zero, the coldest anything can be."
    ],
    "art": "An egg-shaped map of the whole sky in blotches of blue and orange, with the words oldest light in the middle.",
@@ -367,7 +367,7 @@
     },
     {
      "who": "Everyone honest about it",
-     "explanation": "Nobody knows yet what happened before the glow was set free, or whether the question 'before' even makes sense."
+     "explanation": "Nobody knows yet what happened before the glow was set free, or whether asking what came 'before' even makes sense."
     }
    ]
   }
@@ -466,7 +466,7 @@
   {
    "q": "A bee sees ultraviolet patterns on a flower that we cannot see. Is it the same flower for the bee and for us?",
    "kind": "deep",
-   "hint": "Think about what each of you has to go on. The light is the same. What differs?"
+   "hint": "The light coming from the flower is the same. What is different about the bee's eyes and yours?"
   },
   {
    "q": "The food on your plate holds energy that was sunlight not long ago. Does that make you partly made of sunlight?",
@@ -486,7 +486,7 @@
   {
    "q": "Sunlight pushes so little that you do not notice it, yet in space it can move a spacecraft. Does a small push that never stops count for more than a big push that stops?",
    "kind": "big",
-   "hint": "Think about how a very slow push on a swing, repeated at the right moment, can build up."
+   "hint": "Think about how a very small push on a swing, repeated at the right moment, can build up."
   },
   {
    "q": "Our eyes see only a thin slice of the light family. What else might be happening around us that no animal on Earth can sense?",
@@ -568,7 +568,7 @@
    },
    {
     "source": "Katha Upanishad 2.2.15",
-    "teaching": "The Katha Upanishad says that the Sun does not shine there, nor the moon, nor the stars, nor lightning, much less this fire. It says that all things shine after something that shines, and that by that light all this is lit.",
+    "teaching": "The Katha Upanishad speaks of a place where the Sun does not shine, nor the moon, nor the stars, nor lightning, much less a fire. It says that everything else shines only because that one thing shines first, and that by its light all this is lit.",
     "link": "This unit followed sunlight to its end, to heat and to the waves our eyes cannot see. The Upanishad points to something behind all lights. Science cannot test that. It can only show that the light we see is one slice among many."
    }
   ],
@@ -588,7 +588,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "The family of waves is a physical fact and nothing more. Words like 'dark' and 'visible' describe our eyes, not the world. There is no deeper lesson about the limits of knowing hiding in it. This is an honest view."
+   "view": "The family of waves is a physical fact and nothing more. Words like 'dark' and 'visible' describe our eyes, not the world. It holds no deeper lesson about the limits of what we can know. This is a fair view to hold."
   },
   "practice": {
    "title": "Feel the light you cannot see",
@@ -753,7 +753,7 @@
     "Shuffle the 24 cards and make a face-down pile. Put the 48 stars in a heap in the middle.",
     "On your turn, take the top card and read the front aloud. Do not read the back.",
     "Say which sign you think the card belongs under, and why. Put the card under that sign.",
-    "Now read the back aloud. If you picked the right sign, take 2 stars. If you were wrong, move the card to the right sign and take 1 star for any good reason.",
+    "Now read the back aloud. If you picked the right sign, take 2 stars. If you were wrong, move the card to the right sign, and take 1 star if you gave a good reason.",
     "Play until all 24 cards are placed. The player with the most stars wins. If you tie, you share the win.",
     "Playing alone: try to put at least 18 of the 24 cards under the right sign on the first go, then play again to beat your score."
    ],
@@ -819,7 +819,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "After all cards are placed, count stars. Then look along the Family Line from left to right and read the first word on each pile of cards.",
+     "do": "After all cards are placed, count stars. Then look along the Family Line from left to right and read the name on the sign above each pile of cards.",
      "say": "Look along the line from left to right. What happens to the waves as we go? What happens to the energy of each photon?",
      "kid": "Look along the line. What changes from left to right?",
      "context": "In this step, you count stars and look for a pattern along the line.",
@@ -873,99 +873,99 @@
      "title": "24 two-sided cards: a stall and the light it needs on the front, the answer and working on the back",
      "items": [
       {
-       "f": "The idiyappam stall is 1 step from the lantern post. Customers need a light of at least 100. How many lanterns hang on the post?",
+       "f": "The idiyappam stall is 1 step from the lantern post. Customers need a light of at least 100. How many lanterns must hang on the post?",
        "b": "1 lantern. One lantern gives 144 at 1 step (144 ÷ 1). 1 lantern gives 144, which is enough."
       },
       {
-       "f": "The tender coconut cart is 1 step from the lantern post. Customers need a light of at least 200. How many lanterns hang on the post?",
+       "f": "The tender coconut cart is 1 step from the lantern post. Customers need a light of at least 200. How many lanterns must hang on the post?",
        "b": "2 lanterns. One lantern gives 144 at 1 step (144 ÷ 1). 2 lanterns give 288, which is enough. With 1, you would get only 144, which is too little."
       },
       {
-       "f": "The jasmine flower seller is 1 step from the lantern post. Customers need a light of at least 300. How many lanterns hang on the post?",
+       "f": "The jasmine flower seller is 1 step from the lantern post. Customers need a light of at least 300. How many lanterns must hang on the post?",
        "b": "3 lanterns. One lantern gives 144 at 1 step (144 ÷ 1). 3 lanterns give 432, which is enough. With 2, you would get only 288, which is too little."
       },
       {
-       "f": "The filter coffee stall is 2 steps from the lantern post. Customers need a light of at least 36. How many lanterns hang on the post?",
+       "f": "The filter coffee stall is 2 steps from the lantern post. Customers need a light of at least 36. How many lanterns must hang on the post?",
        "b": "1 lantern. One lantern gives 36 at 2 steps (144 ÷ 4). 1 lantern gives 36, which is enough."
       },
       {
-       "f": "The banana chip stall is 2 steps from the lantern post. Customers need a light of at least 30. How many lanterns hang on the post?",
+       "f": "The banana chip stall is 2 steps from the lantern post. Customers need a light of at least 30. How many lanterns must hang on the post?",
        "b": "1 lantern. One lantern gives 36 at 2 steps (144 ÷ 4). 1 lantern gives 36, which is enough."
       },
       {
-       "f": "The bangle seller is 2 steps from the lantern post. Customers need a light of at least 60. How many lanterns hang on the post?",
+       "f": "The bangle seller is 2 steps from the lantern post. Customers need a light of at least 60. How many lanterns must hang on the post?",
        "b": "2 lanterns. One lantern gives 36 at 2 steps (144 ÷ 4). 2 lanterns give 72, which is enough. With 1, you would get only 36, which is too little."
       },
       {
-       "f": "The murukku stall is 2 steps from the lantern post. Customers need a light of at least 100. How many lanterns hang on the post?",
+       "f": "The murukku stall is 2 steps from the lantern post. Customers need a light of at least 100. How many lanterns must hang on the post?",
        "b": "3 lanterns. One lantern gives 36 at 2 steps (144 ÷ 4). 3 lanterns give 108, which is enough. With 2, you would get only 72, which is too little."
       },
       {
-       "f": "The sugarcane juice cart is 2 steps from the lantern post. Customers need a light of at least 140. How many lanterns hang on the post?",
+       "f": "The sugarcane juice cart is 2 steps from the lantern post. Customers need a light of at least 140. How many lanterns must hang on the post?",
        "b": "4 lanterns. One lantern gives 36 at 2 steps (144 ÷ 4). 4 lanterns give 144, which is enough. With 3, you would get only 108, which is too little."
       },
       {
-       "f": "The palm-leaf toy stall is 3 steps from the lantern post. Customers need a light of at least 16. How many lanterns hang on the post?",
+       "f": "The palm-leaf toy stall is 3 steps from the lantern post. Customers need a light of at least 16. How many lanterns must hang on the post?",
        "b": "1 lantern. One lantern gives 16 at 3 steps (144 ÷ 9). 1 lantern gives 16, which is enough."
       },
       {
-       "f": "The kolam powder seller is 3 steps from the lantern post. Customers need a light of at least 32. How many lanterns hang on the post?",
+       "f": "The kolam powder seller is 3 steps from the lantern post. Customers need a light of at least 32. How many lanterns must hang on the post?",
        "b": "2 lanterns. One lantern gives 16 at 3 steps (144 ÷ 9). 2 lanterns give 32, which is enough. With 1, you would get only 16, which is too little."
       },
       {
-       "f": "The lemon soda stall is 3 steps from the lantern post. Customers need a light of at least 40. How many lanterns hang on the post?",
+       "f": "The lemon soda stall is 3 steps from the lantern post. Customers need a light of at least 40. How many lanterns must hang on the post?",
        "b": "3 lanterns. One lantern gives 16 at 3 steps (144 ÷ 9). 3 lanterns give 48, which is enough. With 2, you would get only 32, which is too little."
       },
       {
-       "f": "The conch shell stall is 3 steps from the lantern post. Customers need a light of at least 64. How many lanterns hang on the post?",
+       "f": "The conch shell stall is 3 steps from the lantern post. Customers need a light of at least 64. How many lanterns must hang on the post?",
        "b": "4 lanterns. One lantern gives 16 at 3 steps (144 ÷ 9). 4 lanterns give 64, which is enough. With 3, you would get only 48, which is too little."
       },
       {
-       "f": "The peanut seller is 4 steps from the lantern post. Customers need a light of at least 9. How many lanterns hang on the post?",
+       "f": "The peanut seller is 4 steps from the lantern post. Customers need a light of at least 9. How many lanterns must hang on the post?",
        "b": "1 lantern. One lantern gives 9 at 4 steps (144 ÷ 16). 1 lantern gives 9, which is enough."
       },
       {
-       "f": "The tamarind candy stall is 4 steps from the lantern post. Customers need a light of at least 18. How many lanterns hang on the post?",
+       "f": "The tamarind candy stall is 4 steps from the lantern post. Customers need a light of at least 18. How many lanterns must hang on the post?",
        "b": "2 lanterns. One lantern gives 9 at 4 steps (144 ÷ 16). 2 lanterns give 18, which is enough. With 1, you would get only 9, which is too little."
       },
       {
-       "f": "The pot seller is 4 steps from the lantern post. Customers need a light of at least 20. How many lanterns hang on the post?",
+       "f": "The pot seller is 4 steps from the lantern post. Customers need a light of at least 20. How many lanterns must hang on the post?",
        "b": "3 lanterns. One lantern gives 9 at 4 steps (144 ÷ 16). 3 lanterns give 27, which is enough. With 2, you would get only 18, which is too little."
       },
       {
-       "f": "The book stall is 4 steps from the lantern post. Customers need a light of at least 45. How many lanterns hang on the post?",
+       "f": "The book stall is 4 steps from the lantern post. Customers need a light of at least 45. How many lanterns must hang on the post?",
        "b": "5 lanterns. One lantern gives 9 at 4 steps (144 ÷ 16). 5 lanterns give 45, which is enough. With 4, you would get only 36, which is too little."
       },
       {
-       "f": "The silk saree stall is 6 steps from the lantern post. Customers need a light of at least 4. How many lanterns hang on the post?",
+       "f": "The silk saree stall is 6 steps from the lantern post. Customers need a light of at least 4. How many lanterns must hang on the post?",
        "b": "1 lantern. One lantern gives 4 at 6 steps (144 ÷ 36). 1 lantern gives 4, which is enough."
       },
       {
-       "f": "The spice stall is 6 steps from the lantern post. Customers need a light of at least 8. How many lanterns hang on the post?",
+       "f": "The spice stall is 6 steps from the lantern post. Customers need a light of at least 8. How many lanterns must hang on the post?",
        "b": "2 lanterns. One lantern gives 4 at 6 steps (144 ÷ 36). 2 lanterns give 8, which is enough. With 1, you would get only 4, which is too little."
       },
       {
-       "f": "The mango stall is 6 steps from the lantern post. Customers need a light of at least 10. How many lanterns hang on the post?",
+       "f": "The mango stall is 6 steps from the lantern post. Customers need a light of at least 10. How many lanterns must hang on the post?",
        "b": "3 lanterns. One lantern gives 4 at 6 steps (144 ÷ 36). 3 lanterns give 12, which is enough. With 2, you would get only 8, which is too little."
       },
       {
-       "f": "The brass lamp stall is 6 steps from the lantern post. Customers need a light of at least 20. How many lanterns hang on the post?",
+       "f": "The brass lamp stall is 6 steps from the lantern post. Customers need a light of at least 20. How many lanterns must hang on the post?",
        "b": "5 lanterns. One lantern gives 4 at 6 steps (144 ÷ 36). 5 lanterns give 20, which is enough. With 4, you would get only 16, which is too little."
       },
       {
-       "f": "The fish curry stall is 12 steps from the lantern post. Customers need a light of at least 1. How many lanterns hang on the post?",
+       "f": "The fish curry stall is 12 steps from the lantern post. Customers need a light of at least 1. How many lanterns must hang on the post?",
        "b": "1 lantern. One lantern gives 1 at 12 steps (144 ÷ 144). 1 lantern gives 1, which is enough."
       },
       {
-       "f": "The tea stall is 12 steps from the lantern post. Customers need a light of at least 3. How many lanterns hang on the post?",
+       "f": "The tea stall is 12 steps from the lantern post. Customers need a light of at least 3. How many lanterns must hang on the post?",
        "b": "3 lanterns. One lantern gives 1 at 12 steps (144 ÷ 144). 3 lanterns give 3, which is enough. With 2, you would get only 2, which is too little."
       },
       {
-       "f": "The toy stall is 12 steps from the lantern post. Customers need a light of at least 5. How many lanterns hang on the post?",
+       "f": "The toy stall is 12 steps from the lantern post. Customers need a light of at least 5. How many lanterns must hang on the post?",
        "b": "5 lanterns. One lantern gives 1 at 12 steps (144 ÷ 144). 5 lanterns give 5, which is enough. With 4, you would get only 4, which is too little."
       },
       {
-       "f": "The rice flakes stall is 12 steps from the lantern post. Customers need a light of at least 12. How many lanterns hang on the post?",
+       "f": "The rice flakes stall is 12 steps from the lantern post. Customers need a light of at least 12. How many lanterns must hang on the post?",
        "b": "12 lanterns. One lantern gives 1 at 12 steps (144 ÷ 144). 12 lanterns give 12, which is enough. With 11, you would get only 11, which is too little."
       }
      ]
@@ -1028,7 +1028,7 @@
      "context": "In this step, you try two practice cards and learn how the stars work.",
      "check": {
       "t": "mcq",
-      "q": "A stall is 4 steps from the post. One lantern gives 9 there. The stall needs a light of at least 20. How many lanterns?",
+      "q": "A stall is 4 steps from the post. One lantern gives 9 there. The stall needs a light of at least 20. How many lanterns must hang on the post?",
       "options": [
        "3 lanterns",
        "2 lanterns",
@@ -1053,8 +1053,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Count the stars. Then ask the question about the pattern.",
-     "say": "A stall twice as far away needs how many times as many lanterns, to get the same light? Check with the cards.",
-     "kid": "A stall twice as far needs how many times as many lanterns?",
+     "say": "A stall is twice as far from the post. How many times as many lanterns does it need to get the same light? Check with the cards.",
+     "kid": "A stall is twice as far away. How many times as many lanterns does it need?",
      "context": "In this step, you find the rule behind the table.",
      "check": {
       "t": "mcq",
@@ -1175,7 +1175,7 @@
      "mins": 5,
      "do": "Show your child the torch, the card with the hole and the squared paper. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "We will shine a torch through a small square hole in a card. The light makes a square patch on squared paper. If we move the paper twice as far away, how big will the patch be? Will it look brighter or dimmer? Why do you think so?",
-     "kid": "A torch shines through a small square hole. Move the paper twice as far away. How big is the patch? Why?",
+     "kid": "A torch shines through a small square hole. If you move the paper twice as far away, how big will the patch be? Why?",
      "ask": [
       {
        "q": "Why do you think the patch will change that way?",
@@ -1257,7 +1257,7 @@
        ]
       },
       {
-       "q": "Where would the patch be nine times bigger?",
+       "q": "At what distance would the patch be nine times bigger than it was at 20 centimetres?",
        "good": [
         "At three times the distance.",
         "At 60 centimetres from the torch.",
@@ -1289,7 +1289,7 @@
    "days": 1,
    "question": "Four ice cubes sit in the same sunshine on black paper, dark blue paper, yellow paper and white paper. Which melts first, and which melts last?",
    "predict": "Before you start, guess. Which ice cube will melt first and which last? Will the cube in the shade melt at all? Why do you think so?",
-   "fair_test": "All the cubes come from the same ice tray, so they are the same size. All the papers are the same size, and all sit side by side on one piece of thick cardboard in the same sunshine. Only the colour of the paper changes. Paper is thin, so the cardboard underneath keeps a hot steel tray or a white wall from changing the result. A fifth cube sits on white paper in the shade as the control, so you know what the room alone does.",
+   "fair_test": "All the cubes come from the same ice tray, so they are the same size. All the papers are the same size, and all sit side by side on one piece of thick cardboard in the same sunshine. Only the colour of the paper changes. Paper is thin, so the surface under it, such as a hot steel tray or a white wall, could change the result. The thick cardboard under the papers stops that. A fifth cube sits on white paper in the shade as the control, so you know how fast ice melts without any sunshine.",
    "results_table": [
     "Paper under the ice cube",
     "In the sun or in the shade",
@@ -1324,7 +1324,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never look straight at the Sun. Do the test on a sunny day. An LED lamp gives out too little heat, and a hot bulb is not safe for children to use. Surfaces left in the sun can get hot, so touch them with care. Keep to shade and a hat if the sun is very strong.",
+   "safety": "Never look straight at the Sun. Do the test on a sunny day. An LED lamp gives out too little heat, and a hot bulb is not safe for children to use. Surfaces left in the sun can get hot, so touch them with care. If the sun is very strong, stay in the shade and wear a hat.",
    "record": "Fill in the table. Then draw a bar chart with one bar for each paper, showing how many minutes the cube lasted. Write which colour melted its cube first and which last.",
    "context": "In this experiment, you place ice cubes on black, blue, yellow and white paper in the sunshine. You find out which colour makes the ice melt first, and what that shows about what colours do with light.",
    "setup": [
@@ -1351,7 +1351,7 @@
      "mins": 5,
      "do": "Show your child the five papers, the cardboard and the ice. Ask for a guess and a reason about which cube melts first and last. Write it at the top of the table.",
      "say": "We will put ice cubes on black, blue, yellow and white paper in the sunshine. Which one will melt first? Which one will melt last? What about the cube in the shade? Why do you think so?",
-     "kid": "Ice cubes on four colours in the sun. Which melts first? Which last? Why?",
+     "kid": "Ice cubes sit on four colours of paper in the sun. Which melts first? Which melts last? Why?",
      "ask": [
       {
        "q": "Why do you think that colour will melt its cube first?",
@@ -1369,16 +1369,16 @@
      "id": "s2",
      "mins": 5,
      "do": "Choose a spot in direct sun. Lay the black, blue, yellow and white papers on the cardboard, with a gap between them. Put the cardboard flat in the sun, out of the wind. Lay the fifth white paper, on another piece of cardboard, in the shade next to it.",
-     "say": "Sun on four papers, and shade on one. The cardboard must sit in the same sunshine, so no paper gets more sun than another.",
+     "say": "Four papers go in the sun, and one goes in the shade. The four papers in the sun must all get the same sunshine, so no paper gets more sun than another.",
      "kid": "Put four papers on the cardboard in the sun. Put one white paper in the shade.",
      "parent": "Check that no shadow of a window frame falls across the cardboard. Direct sun at midday or in the early afternoon works best. If the sun is weak or the day is cloudy, wait for a sunnier day. The test needs direct sunshine. White paper is a little see-through, so put it on white card or a plain page if the cardboard shows through. With 2 to 4 children: each child looks after one colour and its timer or tally, and one watches the control.",
-     "context": "In this step, you set up the tray in the sun with the control in the shade."
+     "context": "In this step, you set up the papers on the cardboard in the sun, with the control in the shade."
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "Bring the ice cubes out only now. Use a spoon to put one on each paper, in the middle. Start the timer as you put down the last one. Look at the cubes at 5 minutes. Write down their sizes.",
-     "say": "Ice on all five papers. The timer is running. Watch closely. At 5 minutes, which cube looks smallest? Which looks the biggest?",
+     "say": "There is an ice cube on each of the five papers, and the timer is running. Watch closely. At 5 minutes, which cube looks smallest? Which looks the biggest?",
      "kid": "Put one ice cube on each paper. Start the timer. Look again at 5 minutes.",
      "parent": "Use the same words every time for the sizes: whole, big, half, small, gone. If the cubes slide, set them back in the middle. Do not shake the cardboard.",
      "context": "In this step, you start the ice race and look at the cubes after 5 minutes."
@@ -1400,7 +1400,7 @@
        "To use up the spare paper"
       ],
       "a": 0,
-      "why": "The shaded cube is the control. It shows what the room does to ice by itself. If the cubes in the sun melt faster than the control, the sunshine did the extra melting. Picking 'to cool the other cubes' is wrong, because the shaded cube is too far away to cool anything."
+      "why": "The shaded cube is the control. It shows how fast ice melts without any sunshine. If the cubes in the sun melt faster than the control, the sunshine did the extra melting. Picking 'to cool the other cubes' is wrong, because the shaded cube is too far away to cool anything."
      },
      "context": "In this step, you watch the cubes melt and write down the time for each."
     },
@@ -1562,7 +1562,7 @@
      "id": "s5",
      "mins": 3,
      "do": "Compare the results with what you guessed. Ask what the experiment shows about the light we can see.",
-     "say": "The remote sends light that we cannot see. It goes through some things, gets blocked by others, and bounces off a mirror. So what is it like?",
+     "say": "The remote sends light that we cannot see. It goes through some things, gets blocked by others, and bounces off a mirror. So what does it behave like?",
      "kid": "The remote sends light you cannot see. Does it act like light you can see?",
      "ask": [
       {
@@ -1574,7 +1574,7 @@
        ]
       }
      ],
-     "parent": "This is the same lesson as Herschel's thermometer. There is light that our eyes do not catch, and other instruments can show it.",
+     "parent": "This is the same lesson as Herschel's thermometer, which warmed up in 1800 in a place that looked dark. There is light that our eyes do not catch, and other instruments can show it.",
      "check": {
       "t": "mcq",
       "q": "The remote's signal bounced off a mirror and was blocked by a steel plate. What does this suggest about it?",
@@ -1673,10 +1673,10 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Lay the black cloth and the white cloth side by side on the same flat surface in direct sun for 10 minutes. Guess which will feel warmer first. Then touch each with the back of your hand, eyes closed if a helper moves your hand, and say which feels warmer. Write what you find next to the jobs list.",
+     "do": "Lay the black cloth and the white cloth side by side on the same flat surface in direct sun for 10 minutes. Guess which will feel warmer first. Then touch each with the back of your hand and say which feels warmer. If a helper can move your hand for you, keep your eyes closed. Write what you find next to the jobs list.",
      "say": "Black cloth and white cloth have been in the sun for the same time. Touch each. Which feels warmer? What is the black cloth doing with the light that the white cloth is not?",
      "kid": "Leave two cloths in the sun for 10 minutes. Touch them both. Which is warmer?",
-     "parent": "In direct sun the black cloth usually feels clearly warmer. On a cloudy or damp day the difference is small, so repeat on a sunny day. Black absorbs more light. White reflects more. Keep this finding. The Ice Race experiment tests it much more carefully. With 2 to 4 children: each one searches a different room or the balcony in step 1, then they share lists, and each child touches the cloths blind in turn.",
+     "parent": "In direct sun the black cloth usually feels clearly warmer. On a cloudy or damp day the difference is small, so repeat on a sunny day. Black absorbs more light. White reflects more. Keep this finding. The Ice Race experiment tests it much more carefully. With 2 to 4 children: each one searches a different room or the balcony in step 1, then they share lists, and each child in turn touches the cloths with eyes closed.",
      "check": {
       "t": "mcq",
       "q": "The black cloth felt warmer than the white one after the same time in the sun. Why?",
@@ -1767,7 +1767,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Add the last boxes: idli on the plate, you eating, you running. Ask your child to say what changes into what in each arrow. Write it on the arrow.",
+     "do": "Add the last boxes: idli on the plate, you eating, you running. Ask your child to say what changes into what at each arrow. Write it on the arrow.",
      "say": "Go forward now. The Sun's light becomes sugar in the leaf. The sugar becomes the grain. The grain becomes the idli. The idli becomes your energy. What does your energy do?",
      "kid": "Go forward from the Sun to you. What changes into what on each arrow?",
      "parent": "On the last arrows, the energy becomes movement and heat in the child's body. A child's body stays warm because food energy keeps turning into heat. Nothing is lost. The energy only changes form.",
@@ -1871,7 +1871,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Roll the clay ball. Press a long wisp of cotton wool onto one side of it. Tie the thread round the clay and tie the other end to a pencil. Ask your child to guess which way the tail will point when the fan is switched on.",
-     "say": "A comet is a ball of ice and dust. Near the Sun it grows a tail. The fan will be our Sun. When the Sun blows on the comet, which way do you think the tail will point? Why?",
+     "say": "A comet is a ball of ice and dust. Near the Sun it grows a tail. The fan will be our Sun. When the fan blows on the comet, which way do you think the tail will point? Why?",
      "kid": "Make a comet from clay and cotton wool. Hang it from the thread. Guess where the tail will point.",
      "ask": [
       {
@@ -1889,11 +1889,11 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Place the fan on a table and switch it on low. Hold the comet by its thread, 30 centimetres in front of the fan. Watch the tail. A fan blows only forwards. So switch it off and turn it to face the comet from the left. Switch it on and watch. Repeat from the right and from the far side. Last, walk the comet toward the fan, then away. Does the tail trail or lead?",
+     "do": "Place the fan on a table and switch it on low. Hold the comet by its thread, 30 centimetres in front of the fan. Watch the tail. A fan blows only forwards. So switch it off and turn it to face the comet from the left. Switch it on and watch. Repeat from the right and from the far side. Last, walk the comet toward the fan, then away. Is the tail behind the comet or in front of it?",
      "say": "Hold the comet in front of the fan. Which way does the tail go? Now move the fan to a different side. Does the tail always point away from the fan? Walk the comet toward the fan and then away. Where is the tail now?",
      "kid": "Hold the comet in front of the fan. Watch the tail. Move the fan to other sides of the comet. Walk the comet toward and away from the fan.",
      "adult": true,
-     "parent": "The tail streams away from the fan from every side. When the comet walks toward the fan, the tail trails behind it. When it walks away, the tail leads in front, which is how a real comet's tail can lead when it is leaving the Sun. Keep the comet steady so that it does not touch the guard. Switch the fan off before you adjust anything. Use the lowest speed. If the tail hangs limp, use a thinner wisp or a smaller clay ball, or move the comet a little closer to the fan, without touching the guard. With 2 to 4 children: one holds the comet, one moves the fan, one draws and one writes. Swap after each side.",
+     "parent": "The tail streams away from the fan from every side. When you walk the comet toward the fan, the tail trails behind it. When you walk it away, the tail goes in front. A real comet's tail goes in front in the same way when the comet is leaving the Sun. Keep the comet steady so that it does not touch the guard. Switch the fan off before you adjust anything. Use the lowest speed. If the tail hangs limp, use a thinner wisp or a smaller clay ball, or move the comet a little closer to the fan, without touching the guard. With 2 to 4 children: one holds the comet, one moves the fan, one draws and one writes. Swap after each side.",
      "check": {
       "t": "mcq",
       "q": "As the model comet goes round the fan, which way does its tail point?",
@@ -1994,17 +1994,17 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child closes their eyes. The helper holds the tumbler about 3 centimetres from the left cheek, without touching. Then the right cheek. Then in front of the nose. Do 6 tries in a mixed order: 3 warm and 3 plain, in a pattern your child cannot guess. Each time, your child says warm or plain, and points to the tumbler. Count how many of 6 are right.",
-     "say": "Eyes closed. Is the tumbler near your face warm or plain? Point to where you think it is. No touching. Keep still and wait a few seconds. How many did you get right?",
+     "do": "Your child closes their eyes. The helper holds the tumbler about 3 centimetres from the left cheek without touching it, then near the right cheek, then in front of the nose. Do 6 tries in a mixed order: 3 warm and 3 plain, in a pattern your child cannot guess. Each time, your child says warm or plain, and points to the tumbler. Count how many of 6 are right.",
+     "say": "Keep your eyes closed. Is the tumbler near your face warm or plain? Point to where you think it is, without touching it. Keep still and wait a few seconds. How many did you get right?",
      "kid": "Close your eyes. Say warm or plain, and point to where it is. Try six times.",
-     "parent": "Most children get most of them right, because a plain tumbler gives no warmth at all. Guessing by luck would give about 3 of 6, so a score of 5 or 6 is a real sign. Move the tumbler slowly and keep it 2 to 3 centimetres from the skin, with no sound or touch as clues. Warm air rising from the tumbler helps too, so the test does not prove the warmth is only infrared. Part of what the cheek feels is infrared light from the tumbler, landing on the skin. With 2 to 4 children: one is tested, one holds the tumblers, one keeps the score, and they swap.",
+     "parent": "Most children get most of them right, because a plain tumbler gives no warmth at all. Guessing by luck would give about 3 of 6, so a score of 5 or 6 is a real sign that your child felt the warmth. Move the tumbler slowly and keep it 2 to 3 centimetres from the skin, with no sound or touch as clues. Warm air rising from the tumbler helps too, so the test does not prove the warmth is only infrared. Part of what the cheek feels is infrared light from the tumbler, landing on the skin. With 2 to 4 children: one is tested, one holds the tumblers, one keeps the score, and they swap.",
      "context": "In this step, you find the warm tumbler with your eyes closed."
     },
     {
      "id": "s3",
      "mins": 7,
      "do": "Hold the tumbler near the cheek again. Slide the card between the tumbler and the cheek. Ask your child what changes. Then take the card away and ask what changes again.",
-     "say": "I'll hold the tumbler where it was. Now I put the card between. What do you feel? Now I take it away. What happens? What did the card block?",
+     "say": "I'll hold the tumbler where it was. Now I put the card between the tumbler and your cheek. What do you feel? Now I take the card away. What happens? What did the card block?",
      "kid": "Feel the warmth. A card goes in the way. What happens? What does the card block?",
      "check": {
       "t": "mcq",
@@ -2068,8 +2068,8 @@
      "what": "Tape the two key-ring torches together and test whether they give twice the light of one."
     }
    ],
-   "record": "A table with the distance of each torch from the paper when the spot vanished, and the ratio of the squares of the distances. Draw the set-up and write what the spot looked like when it vanished.",
-   "context": "In this project, you build a light meter from an oil spot on paper, which people used in the 1800s. You use it to find how many times brighter one torch is than another.",
+   "record": "A table with the distance of each torch from the paper when the spot vanished, and the number you get when you multiply each distance by itself and divide the bigger answer by the smaller. Draw the set-up and write what the spot looked like when it vanished.",
+   "context": "In this project, you build a light meter from an oil spot on paper. People used this kind of meter in the 1800s. You use it to find how many times brighter one torch is than another.",
    "setup": [
     {
      "art": "A sheet of white paper with a round oil spot the size of a coin in the middle, held up to a window so that the spot glows.",
@@ -2089,7 +2089,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Show your child the two torches. Ask which they think is brighter, and by how many times. Write the guess. Explain that the paper with the oil spot will be the judge.",
-     "say": "Which torch is brighter, the phone torch or the small key-ring torch? How many times brighter? We will build a meter to find out. Why do you think so?",
+     "say": "Which torch is brighter, the phone torch or the small key-ring torch? How many times brighter? Why do you think so? We will build a meter to find out.",
      "kid": "Which torch is brighter, the phone or the key-ring torch? How many times brighter? Why?",
      "ask": [
       {
@@ -2108,7 +2108,7 @@
      "id": "s2",
      "mins": 12,
      "do": "Draw a circle the size of a coin in the middle of the paper with a pencil. Rub a few drops of cooking oil over it with cotton wool. Wait 2 minutes. Blot off extra oil. Hold the paper up to a window. The spot should glow more than the rest. Stand the paper upright in the middle of the table, held in clay.",
-     "say": "The oil makes the paper thinner for light. More light can pass through the spot. Hold it up to the window. Does the spot look different from the rest of the paper?",
+     "say": "The oil lets more light pass through the paper at the spot. Hold the paper up to the window. Does the spot look different from the rest of the paper?",
      "kid": "Rub oil on a coin-sized circle. Hold it to the window. The spot looks different.",
      "adult": true,
      "parent": "If the spot is not clear, use a little more oil. Blot well, so that no oil runs. Mark the middle of the table. The paper stands there with the oil spot facing along the table.",
@@ -2126,8 +2126,8 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Write the two distances. Work out each one multiplied by itself. Divide the bigger by the smaller. This is how many times brighter the phone torch is.",
-     "say": "Light thins out with the square of the distance. So we multiply each distance by itself. Then we divide. For example, if the phone is at 50 and the key-ring is at 20, then 2500 divided by 400 is about 6.",
+     "do": "Write the two distances. Multiply each distance by itself. Divide the bigger answer by the smaller one. This is how many times brighter the phone torch is.",
+     "say": "How much light thins out depends on the distance multiplied by itself. So we multiply each distance by itself. Then we divide. For example, if the phone is at 50 and the key-ring is at 20, then 50 times 50 is 2500 and 20 times 20 is 400. 2500 divided by 400 is about 6.",
      "kid": "Multiply each distance by itself. Divide the bigger by the smaller. That is how many times brighter.",
      "check": {
       "t": "mcq",
@@ -2205,9 +2205,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two designs, one to melt and one to keep. Ask what they know about black, white and shiny things in the sun.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two designs, one to melt a cube fast and one to keep a cube from melting. Ask what they know about black, white and shiny things in the sun.",
      "say": "You want one cube to melt fast and one to last. What did black paper do in the Ice Race? What does a shiny sheet of foil do with sunlight? Sketch your ideas first.",
-     "kid": "One cube melts fast. One lasts long. Draw your ideas first.",
+     "kid": "Make one cube melt fast and one cube last long. Draw your ideas first.",
      "ask": [
       {
        "q": "What would make a cube melt faster?",
@@ -2218,7 +2218,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the Ice Challenge. You plan."
+     "context": "This is the first step of the Ice Challenge. You plan your two designs."
     },
     {
      "id": "s2",
@@ -2256,7 +2256,7 @@
    "id": "c2",
    "title": "Power Cut Reading: light a page with one small torch",
    "mins": 30,
-   "problem": "It is a power cut and you have one small torch, one page of a book, and a room with white walls. Place the torch and anything else you can find so that the page is as bright as possible, from a torch kept at least 50 centimetres away.",
+   "problem": "There is a power cut. You have one small torch, one page of a book, and a room with white walls. The torch must stay at least 50 centimetres from the page. Place the torch, and anything else you can find, so that the page is as bright as possible.",
    "constraints": [
     "You may use only one torch.",
     "The torch must be at least 50 centimetres from the page.",
@@ -2302,7 +2302,7 @@
      "mins": 6,
      "do": "Read the problem together. Ask your child to sketch two plans. Ask what happens to light as it travels from the torch to the page.",
      "say": "A small torch 50 centimetres away makes a dim page. Light spreads out as it travels. How could you stop it from spreading so much, or collect more of it? Draw two ideas.",
-     "kid": "A small torch. A dim page. Draw two ideas to make the page brighter.",
+     "kid": "A small torch makes a dim page. Draw two ideas to make the page brighter.",
      "ask": [
       {
        "q": "What happens to the torch's light by the time it reaches the page?",
@@ -2313,13 +2313,13 @@
        ]
       }
      ],
-     "context": "This is the first step of Power Cut Reading. You plan."
+     "context": "This is the first step of Power Cut Reading. You plan how to light the page."
     },
     {
      "id": "s2",
      "mins": 15,
      "do": "Build the first plan and test it. Read the same line of small print. Rate it from 1 to 5 for how easy it is to read. Then build the second plan and rate it.",
-     "say": "Test your first plan. Can you read the small print? How easy is it, from 1 to 5? Now the second plan.",
+     "say": "Test your first plan. Can you read the small print? How easy is it, from 1 to 5? Now test the second plan.",
      "kid": "Test plan one. Rate it from 1 to 5. Test plan two. Rate it.",
      "parent": "Keep the room as dark as possible. Let your eyes get used to the dark for a minute. Use the same line of print each time. If both plans are about equal, try one thing from the lists of ideas.",
      "context": "In this step, you build and test your two plans."
@@ -2469,9 +2469,9 @@
     },
     {
      "t": "write",
-     "p": "Kavya says, 'The street light at the end of our road is dim, so it must be a weak lamp.' Another lamp of the same kind, right outside her window, looks very bright. What would you tell Kavya?",
+     "p": "The street light at the end of a road looks dim. Another lamp of the same kind, right outside your window, looks very bright. Is the far lamp a weaker lamp? Explain.",
      "lines": 3,
-     "a": "The two lamps could be the same. The far lamp's light has spread over a much bigger area by the time it reaches Kavya, so each part of her eye gets less. Brightness depends on distance as well as on the lamp.",
+     "a": "The two lamps could be the same. The far lamp's light has spread over a much bigger area by the time it reaches you, so each part of your eye gets less. Brightness depends on distance as well as on the lamp.",
      "why": "A strong answer says the lamp is not weaker, and gives distance and spreading as the reason.",
      "outcome": 0
     },
@@ -2538,12 +2538,12 @@
       "Dark places are always warm"
      ],
      "a": 0,
-     "why": "Nothing could be seen in that spot, yet the thermometer warmed. So something unseen, now called infrared, was arriving from the Sun. Picking 'the thermometer was broken' is the first thing many people think. Herschel's controls in the shade did not warm, so it was not the room.",
+     "why": "Nothing could be seen in that spot, yet the thermometer warmed. So something unseen, now called infrared, was arriving from the Sun. Picking 'the thermometer was broken' is the first thing many people think. But Herschel's control thermometers in the shade did not warm, so the room was not the cause.",
      "outcome": 7
     },
     {
      "t": "perspective",
-     "p": "Three children look at the dark patch just beyond the red end of a rainbow made by a prism. Each says something different.",
+     "p": "Three people look at the dark patch just beyond the red end of a rainbow made by a prism. Each says something different.",
      "views": [
       {
        "who": "Meenakshi",
@@ -2558,7 +2558,7 @@
        "says": "We cannot tell by looking. We would have to test it with an instrument."
       }
      ],
-     "ask": "Which view fits best with what Herschel found? Say why, and say one thing another child gets right.",
+     "ask": "Which view fits best with what Herschel found? Say why, and say one thing another person gets right.",
      "lines": 5,
      "a": "Arjun's view fits, since Herschel's thermometer warmed in the dark patch. The aunt is right that we need an instrument, which is what Herschel used. Meenakshi's idea was what most people thought, because dark seems to mean no light.",
      "why": "A strong answer picks one view with evidence from the thermometer and credits a point from another.",
@@ -2619,9 +2619,9 @@
     },
     {
      "t": "write",
-     "p": "Priya paints her flat's roof white. Her neighbour's roof is black tar. Which flat will be cooler in May, and why? Use the words reflect and absorb.",
+     "p": "One flat has a roof painted white. The flat next door has a black tar roof. Which flat will be cooler in May, and why? Use the words reflect and absorb.",
      "lines": 4,
-     "a": "Priya's flat will be cooler. The white roof reflects most of the sunlight, so little of it turns into heat. The black tar roof absorbs most of the sunlight, and the light's energy becomes heat, so the roof and the flat below get hot.",
+     "a": "The flat with the white roof will be cooler. The white roof reflects most of the sunlight, so little of it turns into heat. The black tar roof absorbs most of the sunlight, and the light's energy becomes heat, so the roof and the flat below get hot.",
      "why": "A strong answer says white reflects, black absorbs, and absorbed light turns into heat.",
      "outcome": 2
     },
@@ -2783,7 +2783,7 @@
      "ask": "The radiometer spins best with a little air left inside, and almost stops in a very good vacuum. Which view fits that evidence best, and why?",
      "lines": 5,
      "a": "The second view fits best. If light pushed the vanes, the spinning would be stronger in a better vacuum, but it stops. The air is needed. The sceptic is wrong that light cannot push, as it can, only far too weakly to turn the vanes.",
-     "why": "A strong answer uses the vacuum evidence to prefer the gas view and says the push of light is real but tiny.",
+     "why": "A strong answer uses the evidence about the vacuum to choose the view about warm air, and says the push of light is real but tiny.",
      "outcome": 5
     },
     {
@@ -2838,14 +2838,14 @@
     },
     {
      "t": "truefalse",
-     "p": "Two identical torches taped together light a page with a certain amount of light. If you move the pair twice as far from the page, the page gets the same light as one torch gave at the start. True or false?",
+     "p": "One torch lights a page. Then two identical torches, taped together, light the page from twice as far away. The page gets the same light from the pair as it got from the one torch. True or false?",
      "a": false,
      "why": "False. Two torches give twice the light, but at twice the distance the light is four times thinner. Two divided by four is a half. The page gets only half of what one torch gave at the start.",
      "outcome": 1
     },
     {
      "t": "fill",
-     "p": "To light a page equally from twice as far away, you need ____ times as many torches.",
+     "p": "To give a page the same light from twice as far away, you need ____ times as many torches.",
      "a": [
       "4",
       "four"
@@ -2965,8 +2965,8 @@
      ],
      "ask": "Who should get the credit when a team makes a discovery? Choose a view, give a reason, and say one thing another view gets right.",
      "lines": 5,
-     "a": "There is no single right answer. A strong answer gives a clear reason, such as noticing something that others would have missed deserves credit, and then admits that building the telescope and leading the team also mattered.",
-     "why": "This is a question of fairness. A strong answer weighs noticing, leading and building, and does not just repeat the prize.",
+     "a": "There is no single right answer. A strong answer gives a clear reason. One such reason is that a person who notices something others would have missed deserves credit. It then admits that building the telescope and leading the team also mattered.",
+     "why": "This is a question of fairness. A strong answer weighs noticing, leading and building, and does not just repeat what the prize committee decided.",
      "outcome": 7
     },
     {
@@ -3006,7 +3006,7 @@
       "The jar is dark"
      ],
      "a": 0,
-     "why": "Sunlight passes through the clear jar and is absorbed by the black paper. The jar traps the warm air, so heat leaves more slowly. A car left in the sun does the same. Picking 'the jar makes extra light' mixes up trapping light with making light.",
+     "why": "Sunlight passes through the clear jar and is absorbed by the black paper. The jar traps the warm air, so heat leaves more slowly. A car left in the sun does the same. Picking 'the jar makes extra light' mixes up trapping heat with making light.",
      "outcome": 2
     },
     {
@@ -3298,7 +3298,7 @@
    "why_open": "We can measure what animals respond to, but nobody knows what their experience is like from inside."
   },
   {
-   "q": "Why do the amounts of energy come in packets, called photons, at all?",
+   "q": "Why does the energy of light come in packets, called photons, at all?",
    "why_open": "Quantum physics predicts how photons behave very well. Why light is built this way is still argued about."
   }
  ],
@@ -3363,7 +3363,7 @@
    "why_maths": "Multiplying the width by the height gives the area, so you can predict the lit squares before you measure them."
   },
   {
-   "problem": "One lantern gives 144 units of light at 1 step. At 4 steps, the light is spread over 4 times 4 times the area. How many units does the lantern give at 4 steps?",
+   "problem": "One lantern gives 144 units of light at 1 step. At 4 steps, the same light is spread over an area that is 4 times 4 times as big. How many units does the lantern give at 4 steps?",
    "answer": "9 units.",
    "explain": "4 times 4 is 16. The same 144 units are shared by 16 times the area. 144 divided by 16 is 9. Check: 9 times 16 is 144.",
    "math_unit": "math.division.division-facts.L4",
@@ -3372,28 +3372,28 @@
    "why_maths": "Dividing the light by the area tells you how much reaches each part, which is how you work out how many lanterns a far stall needs."
   },
   {
-   "problem": "In an Ice Race, the cube on black paper melted in 12 minutes, and the cube on white paper melted in 30 minutes. The cube on white paper lasted how many minutes longer, and about how many times as long?",
+   "problem": "In an Ice Race, the cube on black paper melted in 12 minutes, and the cube on white paper melted in 30 minutes. How many minutes longer did the cube on white paper last? About how many times as long did it last?",
    "answer": "18 minutes longer, and about 2 and a half times as long.",
-   "explain": "30 take away 12 is 18. For the times: 12 times 2 is 24, and 12 times 2 and a half is 30. So white lasted 2 and a half times as long as black. A made-up example. Your own numbers will differ.",
+   "explain": "30 take away 12 is 18. For the times: 12 times 2 is 24, and 12 times 2 and a half is 30. So white lasted 2 and a half times as long as black. These times are made up. Your own numbers will differ.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "context": "In the Ice Race, you timed how long each ice cube lasted on different colours of paper. Here are some made-up times.",
    "how": "e2",
-   "why_maths": "Comparing times as a ratio shows how much difference the colour made, not just which was first."
+   "why_maths": "Working out how many times as long one cube lasted shows how much difference the colour made, not just which cube melted first."
   },
   {
    "problem": "Jupiter is about 5 times further from the Sun than the Earth is. Saturn is about 10 times further. How many times thinner is sunlight on Jupiter, and how many times thinner on Saturn, compared with the Earth?",
    "answer": "About 25 times thinner on Jupiter, and about 100 times thinner on Saturn.",
-   "explain": "Light thins by the square of the distance. For Jupiter, 5 times 5 is 25. For Saturn, 10 times 10 is 100. So sunlight on Saturn is about 100 times thinner than on Earth.",
+   "explain": "To find how many times thinner the light is, multiply the distance by itself. For Jupiter, 5 times 5 is 25. For Saturn, 10 times 10 is 100. So sunlight on Saturn is about 100 times thinner than on Earth.",
    "math_unit": "math.number-sense.powers-and-roots.L4",
-   "context": "You found that light covers four times the area at double the distance. Here is the same rule applied to the planets.",
-   "why_maths": "Squaring the distance turns a distance into a thinning, so a table of distances becomes a table of brightness."
+   "context": "In the Torch Spread test, you found that light covers four times the area at double the distance. Here is the same rule applied to the planets.",
+   "why_maths": "Multiplying a distance by itself tells you how many times thinner the light is, so a table of distances becomes a table of brightness."
   },
   {
    "problem": "The sunlight that falls on the Earth in one hour holds about as much energy as all of humanity uses in a year. There are 24 hours in a day and 365 days in a year. About how many times more energy does the Sun send to the Earth in a year than humanity uses?",
    "answer": "About 8,760 times more.",
    "explain": "24 times 365 is 24 times 300, which is 7,200, plus 24 times 65, which is 1,560. 7,200 plus 1,560 is 8,760. So one year holds 8,760 hours. Each hour matches one year of use. So the Sun sends about 8,760 times as much as we use.",
    "math_unit": "math.multiplication.multi-digit.L4",
-   "context": "You followed the Sun's energy into an idli. Here is how much sunlight the Earth gets in all.",
+   "context": "In From the Sun to an Idli, you followed the Sun's energy into an idli. Here is how much sunlight the Earth gets in all.",
    "why_maths": "Multiplying hours in a day by days in a year turns one hour of sunlight into a whole year of it."
   },
   {
@@ -3411,10 +3411,10 @@
    "math_unit": "math.number-sense.estimation.L4",
    "context": "In the Grease-Spot Light Meter, you balanced two torches around an oil spot. Here is a sample set of measurements.",
    "how": "p1",
-   "why_maths": "Squaring both distances and dividing turns two distances into a brightness ratio, so you can compare any two lamps."
+   "why_maths": "Multiplying each distance by itself and then dividing tells you how many times brighter one lamp is, so you can compare any two lamps."
   },
   {
-   "problem": "Imagine a white wall reflects 8 out of every 10 parts of the sunlight that land on it, and absorbs the rest. If 500 units of sunlight land on the wall, how many units become heat? These numbers are made up.",
+   "problem": "Suppose a white wall reflects 8 out of every 10 parts of the sunlight that land on it, and absorbs the rest. If 500 units of sunlight land on the wall, how many units become heat? These numbers are made up.",
    "answer": "100 units.",
    "explain": "8 out of 10 are reflected, so 2 out of 10 are absorbed. 2 tenths of 500 is 500 divided by 10, which is 50, times 2, which is 100. So 100 units become heat. A black wall might absorb 9 out of 10, which is 450 units.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -3426,7 +3426,7 @@
    "answer": "Half a unit.",
    "explain": "Two torches give 2 units. At twice the distance, the light is 4 times thinner. 2 divided by 4 is one half. So the pair at twice the distance gives only half a unit, which is less than one torch gave at the start.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
-   "context": "In the Light Meter project, you taped two torches together. Here is what happens to their light when you move them away.",
+   "context": "In the Grease-Spot Light Meter project, you taped two torches together. Here is what happens to their light when you move them away.",
    "how": "p1",
    "why_maths": "Dividing the total light by the area shows why doubling the torches does not make up for doubling the distance."
   }

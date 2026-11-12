@@ -3,12 +3,12 @@
  "title": "Fair tests, step two: repeat, average and say only what you found",
  "level": 4,
  "summary": {
-  "text": "A paper spinner dropped from the same hand, five times, takes five slightly different times to land. Nothing was changed, and yet nothing repeated exactly. So when a longer wing seems to make the spinner fall slower, how can anyone tell the wing from the wobble? Your child names the three jobs in a test, tries more than two amounts, repeats each measurement, and works out an average and a range. They test paper spinners and paper bridges, learn what to do with an odd result, and write conclusions that say no more than the results show. They also meet Tu Youyou, who found a medicine by changing one hidden thing in how a plant was prepared.",
+  "text": "A paper spinner dropped from the same hand five times takes five slightly different times to land, even though nothing was changed. So when a spinner with longer wings seems to fall more slowly, how can anyone tell whether the wings did it, or whether the times just differed as they always do? Your child names the three jobs in a test: the thing you change, the thing you measure and the things you keep the same. They try more than two amounts, repeat each measurement, and work out an average and a range. They test paper spinners and paper bridges, learn what to do with an odd result, and write conclusions that say no more than the results show. They also meet Tu Youyou, who found a medicine by changing one hidden thing in how a plant was prepared.",
   "art": "Three paper spinners of different wing lengths falling past a ruler on a wall, with a hand holding a phone stopwatch."
  },
  "intro": {
-  "hook": "Drop a paper spinner and time how long it takes to land. Now drop it again in exactly the same way. The time is different. Do it a third time. Different again. You changed nothing, and the numbers still do not match.",
-  "text": "So here is the puzzle. If the same spinner gives different times, how can you tell that a longer wing made it fall slower? Maybe the wing did it, or maybe it was just the wobble. In this unit you learn how scientists deal with the wobble. They name what they change, what they measure and what they keep the same. They repeat each measurement, and they look at the average and at how far the numbers spread. Then they write a conclusion that does not say more than the numbers do.",
+  "hook": "Drop a paper spinner and time how long it takes to land. Now drop it again in exactly the same way. The time is a little different. Drop it a third time and the time is different again. You changed nothing, and the numbers still do not match.",
+  "text": "If the same spinner gives different times, how can you tell that a longer wing made it fall slower? Maybe the wing did it, or maybe the times just differed, as they always do. We call these small differences between one try and the next the wobble. In this unit you learn how scientists deal with the wobble. They name what they change, what they measure and what they keep the same. They repeat each measurement, and they look at the average and at how far the numbers spread. Then they write a conclusion that does not say more than the numbers do.",
   "art": "A paper spinner at three moments in its fall beside a stopwatch showing three slightly different times."
  },
  "outcomes": [
@@ -92,7 +92,7 @@
   {
    "term": "Valid test",
    "meaning": "A test is valid if it really measures what your question asks about, and not something else.",
-   "example": "Timing how long a spinner takes to fall measures the fall, but not how pretty it is, so it would not answer a question about beauty.",
+   "example": "Timing a spinner's fall tells you how fast it falls. It does not tell you how pretty the spinner is, so it cannot answer a question about beauty.",
    "art": "A ruler measuring a spinner's fall time, with a tick mark."
   },
   {
@@ -104,7 +104,7 @@
   {
    "term": "Claim, evidence, reasoning",
    "meaning": "A claim is what you say is true. Evidence is the numbers or things you saw that support it. Reasoning is why the evidence supports the claim.",
-   "example": "Claim: longer wings fall slower. Evidence: average 21 tenths against 12. Reasoning: bigger wings catch more air.",
+   "example": "Claim: longer wings fall slower. Evidence: the long wings took 21 tenths of a second on average and the short wings took 12. Reasoning: bigger wings catch more air.",
    "art": "Three boxes in a row labelled claim, evidence and reasoning with arrows between them."
   },
   {
@@ -149,7 +149,7 @@
    "concept": "The three jobs in every test",
    "status": "defined",
    "definition": "Every fair test has three jobs. There is one thing you change, one thing you measure, and a list of things you keep the same.",
-   "description": "Say you want to know whether a longer wing makes a paper spinner fall more slowly. The thing you change is the wing length. The thing you measure is the time it takes to fall, in seconds. The things you keep the same are the paper, the clip, the height you drop from, the person who drops it and the stopwatch person. Scientists call these the independent variable, the dependent variable and the control variables. You do not need the long names, but you do need the three jobs. A test with two things changing is a test in which you cannot tell which one made the difference. A test with nothing measured gives no results. A test with a loose list of things to keep the same lets hidden differences slip in.",
+   "description": "Say you want to know whether a longer wing makes a paper spinner fall more slowly. The thing you change is the wing length. The thing you measure is the time it takes to fall, in seconds. The things you keep the same are the paper, the clip, the height you drop from, the person who drops it and the person who times it. Scientists call these the independent variable, the dependent variable and the control variables. You do not need the long names, but you do need the three jobs. If two things change, you cannot tell which one made the difference. If nothing is measured, there are no results. If the list of things to keep the same is loose, hidden differences slip in.",
    "examples": [
     "Question: does more salt in water make a potato float? Change: the amount of salt. Measure: whether the potato floats. Same: the potato piece, the glass, the amount of water.",
     "Question: does a longer rubber band shoot a paper ball farther? Change: the length of the band. Measure: the distance. Same: the ball, the pull-back and the person.",
@@ -174,7 +174,7 @@
   {
    "concept": "Why the same test gives different numbers",
    "status": "defined",
-   "definition": "Even a careful test gives slightly different numbers each time. The wobble comes from small changes you cannot control, and from small slips in measuring.",
+   "definition": "Even a careful test gives slightly different numbers each time. We call this the wobble. It comes from small changes you cannot control, and from small slips in measuring.",
    "description": "A spinner dropped five times will never fall in exactly the same way. A draught moves the air a little. The hand lets go a little differently. The spinner starts a bit tilted. And the person with the stopwatch presses the button a fraction early or late. Human reaction takes about a fifth to a quarter of a second. These small changes add up to a wobble in the numbers. The wobble is not a mistake. It is part of any real measurement. Because of it, one number from one try is never the whole story. We need several tries to see what is steady and what is wobble.",
    "examples": [
     "Dropping the same spinner five times gives times such as 1.4, 1.6, 1.5, 1.3 and 1.7 seconds.",
@@ -236,7 +236,7 @@
    "perspectives": [
     {
      "who": "Many school teachers",
-     "explanation": "Three repeats are a simple rule that children can manage, and it is enough to show whether a result is steady or not. Doing more may take too long."
+     "explanation": "Three repeats is a simple rule that children can manage, and it is enough to show whether a result is steady or not. Doing more may take too long."
     },
     {
      "who": "Many statisticians",
@@ -261,7 +261,7 @@
    "concept": "Tables, bar charts and line graphs",
    "status": "defined",
    "definition": "A table keeps every number in place. A bar chart compares separate things. A line graph shows how a result changes as an amount changes.",
-   "description": "Start every test with a table, ready before you begin. Put the thing you change in the first column, and your trials and averages in the next columns. Use a bar chart when the things you compare are separate, such as four different bridge shapes. Use a line graph when the thing you change is an amount that can sit anywhere along a line, such as wing length or amount of water. A line graph shows the shape, such as a steady rise, a levelling off or a dip. Label both sides with what they show and the units, and give the chart a title. Plot averages, not single tries, and write the range next to each point if you can.",
+   "description": "Start every test with a table, ready before you begin. Put the thing you change in the first column, and your trials and averages in the next columns. Use a bar chart when the things you compare are separate, such as four different bridge shapes. Use a line graph when the thing you change is an amount that can sit anywhere along a line, such as wing length or amount of water. A line graph shows the shape, such as a steady rise, a levelling off or a dip. Label the line along the bottom and the line up the side with what they show and the units, and give the chart a title. Plot averages, not single tries, and write the range next to each point if you can.",
    "examples": [
     "A bar chart for four bridge shapes: flat, channel, pleated and tube.",
     "A line graph for wing lengths 4, 6 and 8 centimetres against average fall time.",
@@ -277,7 +277,7 @@
    "description": "A claim answers your question. Evidence gives the numbers that support it. Reasoning explains why the numbers support the claim. A good conclusion also has limits. It says what you tested and does not go beyond. If you tested three wing lengths, you can say what happened for those three. You cannot say what happens for a wing of 20 centimetres. If you measured on one day in one room, say that. Use careful words such as 'in our test', 'on average' and 'the evidence suggests'. If your results are not clear, say 'we cannot tell yet' and say what you would do next.",
    "examples": [
     "Claim: longer wings fell more slowly. Evidence: the average time rose from 12 to 16 to 21 tenths. Reasoning: bigger wings catch more air. Limit: we tested only 4, 6 and 8 centimetres.",
-    "Claim: in our two weeks, we could not tell whether tulsi changes the mosquito count. Evidence: a difference of about one a night, smaller than the swings.",
+    "Claim: in our two weeks, we could not tell whether tulsi changes the mosquito count. Evidence: the difference was about one mosquito a night, and the nightly counts changed by much more than that.",
     "Claim: the pleated bridge held the most. Evidence: an average of 24 coins against 6 for the flat one."
    ],
    "art": "A notebook page with three boxes labelled claim, evidence and reasoning, and a small note beside it marked limits.",
@@ -291,7 +291,7 @@
    "examples": [
     "Two identical plates of seeds gave 7 and 9 sprouted seeds. A difference of 2 can come from chance alone.",
     "A tulsi corner had about one mosquito fewer a night, but nights varied from 2 to 9. The difference is smaller than the wobble.",
-    "Children with big shoes read better, but age lies behind both."
+    "Children with bigger shoes read better. That is because they are older, not because of the shoes."
    ],
    "art": "Three branching arrows from a difference in results labelled real cause, chance and hidden difference.",
    "perspectives": []
@@ -312,7 +312,7 @@
   {
    "concept": "Why a fold makes paper strong",
    "status": "defined",
-   "definition": "A flat strip of paper bends easily. A fold, a pleat or a tube puts the paper further from the middle line of the bend, and that makes it much stiffer.",
+   "definition": "A flat strip of paper bends easily. A fold, a pleat or a tube lifts some of the paper above and below the middle of the strip, and that makes it much stiffer.",
    "description": "Try bending a flat strip of paper across a gap. It sags at once. Fold two edges up to make a channel, and it holds far more. When a strip bends, the top side is squeezed and the bottom side is stretched. The paper in the middle does very little. A fold puts more paper at the top and the bottom, away from the middle, where it can do the most work. A tube or a pleated sheet does this very well. The same idea explains why steel girders are shaped like the letter I, and why bamboo is hollow. Engineers say that the shape matters as much as the material.",
    "examples": [
     "A rolled newspaper can hold a heavy book, though a flat sheet cannot.",
@@ -337,7 +337,7 @@
    "evidence": "Two points can be joined by a straight line however the real result behaves. A third point can show a bend or a levelling off."
   },
   {
-   "text": "An odd result should be checked and repeated, and recorded, and never quietly deleted.",
+   "text": "An odd result should be checked, repeated and recorded. It should never be quietly deleted.",
    "evidence": "Scientific societies treat hiding results as a serious fault. Some important discoveries began as an odd result that someone kept."
   },
   {
@@ -351,7 +351,7 @@
  ],
  "challenging": [
   {
-   "claim": "If I get the same answer once, I know it is right.",
+   "claim": "If I get a clear answer once, I know it is right.",
    "who": "Many children and adults.",
    "for": "A clear result feels convincing, and some differences are so large that one try shows them.",
    "against": "One try can be a fluke, or a slip of the stopwatch. Repeating shows whether the result stays the same. A result that comes only once cannot be trusted much.",
@@ -393,7 +393,7 @@
    "status": "rejected"
   },
   {
-   "claim": "Real science only counts when a number comes out.",
+   "claim": "It only counts as real science if the result is a number.",
    "who": "Some people who like measuring.",
    "for": "Numbers make comparing easy and clear.",
    "against": "Many careful tests produce words, drawings or counts, such as which seeds sprouted. What matters is that the observations are made carefully and recorded honestly.",
@@ -432,7 +432,7 @@
    "hint": "Think about the people who read the study, and the people who might have made a discovery from that number."
   },
   {
-   "q": "Tu Youyou found that one hidden thing, how hot the plant was heated, decided whether the medicine worked. What hidden things might be changing your results?",
+   "q": "The scientist Tu Youyou found that a plant medicine for malaria worked only when the plant was not heated. The heat was a hidden thing that nobody had thought about. What hidden things might be changing your results?",
    "kind": "deep",
    "hint": "Think about the room, the person, the time of day and the paper."
   },
@@ -528,84 +528,84 @@
      "title": "20 two-sided test cards: someone's test on the front, and the three jobs with a note on the back",
      "items": [
       {
-       "f": "Meenakshi asks: does idli batter rise higher in a warm place or a cool place? She puts the same batter in three cups. One goes in the fridge, one on the shelf, one near a sunny window. After six hours she measures how high each one rose.",
+       "f": "Question: does idli batter rise higher in a warm place or a cool place? The same batter goes into three cups. One cup goes in the fridge, one on the shelf and one near a sunny window. After six hours, the height of the batter in each cup is measured.",
        "b": "Change: where the cup sits, which means how warm it is. Measure: how high the batter rose, in centimetres. Keep the same: the batter, the cup size, the amount of batter and the time."
       },
       {
-       "f": "Kavya asks: does a longer rubber band shoot a paper ball farther? She uses bands of 5, 10 and 15 centimetres. She pulls each back the same distance and measures where the ball lands.",
-       "b": "Change: the length of the rubber band. Measure: how far the ball travelled. Keep the same: the ball, how far she pulled back, who shot it and the floor."
+       "f": "Question: does a longer rubber band shoot a paper ball farther? The bands are 5, 10 and 15 centimetres long. Each band is pulled back the same distance, and the place where the ball lands is measured.",
+       "b": "Change: the length of the rubber band. Measure: how far the ball travelled. Keep the same: the ball, how far the band is pulled back, who shoots it and the floor."
       },
       {
-       "f": "Arjun asks: does a wider paper plane glide farther? He makes planes with wings 4, 6 and 8 centimetres wide from the same paper. He throws each from one line in the same way.",
+       "f": "Question: does a wider paper plane glide farther? Three planes are made from the same paper, with wings 4, 6 and 8 centimetres wide. Each plane is thrown from one line in the same way.",
        "b": "Change: the width of the wings. Measure: how far each plane glided. Keep the same: the paper, the folds, the thrower, the line and the throw."
       },
       {
-       "f": "Lakshmi asks: does more water make more moong seeds sprout? Three plates of ten seeds get no water, one spoon or three spoons each morning. After three days she counts the seeds that sprouted.",
+       "f": "Question: does more water make more moong seeds sprout? Three plates of ten seeds get no water, one spoon or three spoons each morning. After three days, the sprouted seeds are counted.",
        "b": "Change: the amount of water. Measure: the number of seeds that sprouted. Keep the same: the kind of seed, the plate, the cloth, the warmth and the number of days."
       },
       {
-       "f": "Farhan asks: does a bigger coin sink faster? He drops a one, a two and a five rupee coin into a bucket from the same height and times how long each takes to reach the bottom.",
+       "f": "Question: does a bigger coin sink faster? A one, a two and a five rupee coin are dropped into a bucket from the same height. Each coin is timed until it reaches the bottom.",
        "b": "Careful. The size and the weight change together, so this is not a clean test. Change: the coin. Measure: the sinking time. Fix: use things of the same weight but different sizes, such as a foil ball and a flat foil sheet."
       },
       {
-       "f": "Divya asks: does more sugar make tea taste sweeter? She puts 1, 2 and 3 spoons into cups of the same tea. A taster who knows which cup is which scores the sweetness from 1 to 10.",
+       "f": "Question: does more sugar make tea taste sweeter? 1, 2 and 3 spoons of sugar go into cups of the same tea. A taster who knows which cup is which scores the sweetness from 1 to 10.",
        "b": "Change: the spoons of sugar. Measure: the sweetness score. Keep the same: the tea, the cup, the amount and the taster. Careful: the taster knows which cup is which, so hope could bend the score. A blind taster is better."
       },
       {
-       "f": "Sowmya asks: does a thicker straw let more juice through in ten seconds? She uses three straws of different widths and pours the juice into a cup. She measures the juice in the cup.",
-       "b": "Change: the width of the straw. Measure: the amount of juice in ten seconds. Keep the same: the juice, the straw length, the height, the time and who sucks or pours."
+       "f": "Question: does a thicker straw let more juice through in ten seconds? Juice is poured through three straws of different widths into a cup, for ten seconds each. The juice in the cup is measured.",
+       "b": "Change: the width of the straw. Measure: the amount of juice in ten seconds. Keep the same: the juice, the straw length, the height, the time and who pours."
       },
       {
-       "f": "Imran asks: do more rubber bands make a toy car shoot farther? He uses one, two and three bands on a launcher. He measures how far the car rolls each time.",
-       "b": "Change: the number of rubber bands. Measure: the distance the car rolled. Keep the same: the car, the launcher, the floor and how far he pulls back."
+       "f": "Question: do more rubber bands make a toy car shoot farther? One, two and three bands are used on a launcher. The distance the car rolls is measured each time.",
+       "b": "Change: the number of rubber bands. Measure: the distance the car rolled. Keep the same: the car, the launcher, the floor and how far the launcher is pulled back."
       },
       {
-       "f": "Hetal asks: does a dark cloth get hotter in the sun than a light cloth? She lays a dark and a light cloth of the same size in the sun for ten minutes and reads a thermometer under each.",
+       "f": "Question: does a dark cloth get hotter in the sun than a light cloth? A dark cloth and a light cloth of the same size lie in the sun for ten minutes. Then a thermometer under each cloth is read.",
        "b": "Change: the colour of the cloth. Measure: the temperature under it. Keep the same: the cloth size and type, the place, the time and the thermometer."
       },
       {
-       "f": "Nandini asks: how many pleats make a paper bridge hold the most coins? She tests strips with 0, 2 and 4 pleats and counts the coins each holds.",
+       "f": "Question: how many pleats make a paper bridge hold the most coins? Strips with 0, 2 and 4 pleats are tested, and the coins each strip holds are counted.",
        "b": "Change: the number of pleats. Measure: the number of coins held. Keep the same: the paper, the strip size, the gap and the way coins are added."
       },
       {
-       "f": "Mitali asks: does a stronger fan dry a wet cloth faster? She uses the low, medium and high settings for three cloths that are wet by the same amount. She times how long each takes to dry.",
+       "f": "Question: does a stronger fan dry a wet cloth faster? Three cloths are wet by the same amount. One dries with the fan on low, one on medium and one on high. Each cloth is timed until it is dry.",
        "b": "Change: the fan speed. Measure: the time to dry. Keep the same: the cloth, how wet it is, the distance from the fan and the room."
       },
       {
-       "f": "Shalini asks: does a longer string make a pendulum swing slower? She uses strings of 20, 40 and 60 centimetres and counts the swings in ten seconds.",
-       "b": "Change: the length of the string. Measure: the number of swings in ten seconds. Keep the same: the weight, the starting push and the way she counts."
+       "f": "Question: does a longer string make a pendulum swing slower? Strings of 20, 40 and 60 centimetres are used, and the swings in ten seconds are counted.",
+       "b": "Change: the length of the string. Measure: the number of swings in ten seconds. Keep the same: the weight, the starting push and the way the swings are counted."
       },
       {
-       "f": "Ravi asks: how many spoons of salt does a potato piece need before it floats? He adds salt a spoon at a time to the same glass of water.",
+       "f": "Question: how many spoons of salt does a potato piece need before it floats? Salt is added a spoon at a time to the same glass of water.",
        "b": "Change: the spoons of salt. Measure: whether the potato floats. Keep the same: the potato piece, the water, the glass and the stirring."
       },
       {
-       "f": "Anjali asks: do bigger leaves have longer stalks? She collects twelve leaves from the road and measures the leaf and the stalk of each.",
-       "b": "This is a pattern search. She cannot change a leaf's size, so nothing is changed. Measure: leaf size and stalk length for each leaf. Keep the same: the way of measuring. Many leaves are needed to see a pattern."
+       "f": "Question: do bigger leaves have longer stalks? Twelve leaves are collected from the road, and the leaf and the stalk of each one are measured.",
+       "b": "This is a search for a pattern, not a test. Nobody can change a leaf's size, so nothing is changed. Measure: leaf size and stalk length for each leaf. Keep the same: the way of measuring. Many leaves are needed to see a pattern."
       },
       {
-       "f": "Joseph asks: do more crows come to the balcony in the morning than in the evening? He counts crows for ten minutes at 7 am and at 6 pm for five days.",
-       "b": "This is a long watch. He chooses the time of day but does not change the crows. Measure: the number of crows. Keep the same: the place, the length of each count and the way of counting."
+       "f": "Question: do more crows come to the balcony in the morning than in the evening? The crows are counted for ten minutes at 7 am and at 6 pm, for five days.",
+       "b": "Nothing is changed here. The crows are only watched, at two chosen times of day, over several days. Measure: the number of crows. Keep the same: the place, the length of each count and the way of counting."
       },
       {
-       "f": "Revathi asks: does warmer water dissolve sugar faster? She uses cold, room and warm tap water. She stirs each in the same way and times how long a spoon of sugar takes to vanish.",
+       "f": "Question: does warmer water dissolve sugar faster? Cold, room and warm tap water are used. Each is stirred in the same way, and a spoon of sugar is timed until it vanishes.",
        "b": "Change: the temperature of the water. Measure: the time for the sugar to vanish. Keep the same: the amount of water, the sugar, the stirring and the cup."
       },
       {
-       "f": "Zainab asks: does the size of a paper parachute change how fast it falls? She makes parachutes from squares of 10, 20 and 30 centimetres. Each has the same string and the same small weight.",
+       "f": "Question: does the size of a paper parachute change how fast it falls? The parachutes are made from squares of 10, 20 and 30 centimetres. Each has the same string and the same small weight.",
        "b": "Change: the size of the square. Measure: the time to fall. Keep the same: the string, the weight, the type of paper and the height of the drop."
       },
       {
-       "f": "Hari asks: do heavier balls bounce lower? He drops a marble, a tennis ball and a cricket ball from his shoulder and measures the bounce.",
+       "f": "Question: do heavier balls bounce lower? A marble, a tennis ball and a cricket ball are dropped from shoulder height, and the bounce is measured.",
        "b": "Careful. The weight, the size and the material all change at once, so this is not a clean test. Change: the ball. Measure: the bounce. Fix: compare balls that differ in only one way."
       },
       {
-       "f": "Kiran asks: does ghee or oil make a dosa crisper? He cooks one dosa with each. His brother scores the crispness from 1 to 5.",
+       "f": "Question: does ghee or oil make a dosa crisper? One dosa is cooked with each. A taster scores the crispness from 1 to 5.",
        "b": "Change: ghee or oil. Measure: the crispness score. Keep the same: the batter, the pan, the heat and the time. Careful: one try each is not enough, so repeat the test."
       },
       {
-       "f": "Chitra asks: does a cloudy sky make the streetlight come on earlier? She writes the time it comes on each evening for a week and notes the clouds.",
-       "b": "This is a long watch. She cannot change the clouds, so she watches for different kinds of evening. Measure: the time the light comes on. Keep the same: the light she watches and where she watches from."
+       "f": "Question: does a cloudy sky make the streetlight come on earlier? Each evening for a week, the time the light comes on is written down, with a note about the clouds.",
+       "b": "Nothing is changed here, because nobody can change the clouds. The streetlight is only watched, on different kinds of evening. Measure: the time the light comes on. Keep the same: the light that is watched and the place it is watched from."
       }
      ]
     },
@@ -655,17 +655,17 @@
      "say": "Here is the first test. What is being changed? What is being measured? What must stay the same?",
      "kid": "Read the first card. Say what is changed, what is measured and what stays the same.",
      "context": "In this step, you play one practice card to learn how the game works.",
-     "parent": "Children often mix up the thing they change and the thing they measure. Ask: 'What did she choose to alter? What did she look at afterwards to see what happened?'",
+     "parent": "Children often mix up the thing that is changed and the thing that is measured. Ask: 'What was changed on purpose? What was looked at afterwards to see what happened?'",
      "check": {
       "t": "mcq",
-      "q": "Kavya tests whether a longer rubber band shoots a paper ball farther. What is the thing she measures?",
+      "q": "A test asks whether a longer rubber band shoots a paper ball farther. What is the thing that is measured?",
       "options": [
        "How far the ball travels",
        "The length of the band",
        "The weight of the ball"
       ],
       "a": 0,
-      "why": "She changes the band length. What she measures is the result, which is how far the ball goes. The ball and the pull-back stay the same."
+      "why": "The band length is the thing that is changed. The thing that is measured is the result, which is how far the ball goes. The ball and the pull-back stay the same."
      }
     },
     {
@@ -707,7 +707,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about conclusions. Each card gives some results and a conclusion. You judge whether the conclusion is supported, goes too far, or cannot yet be told.",
+   "context": "This is a card game about conclusions. Each card gives some results and a conclusion. You judge whether the conclusion is supported, goes too far, or whether we can't tell yet.",
    "setup": [
     {
      "art": "Sixteen conclusion cards in a pile and three tokens in front of each player labelled supported, too far and can't tell yet.",
@@ -728,8 +728,8 @@
      "title": "16 two-sided conclusion cards: results and a conclusion on the front, and the judgement with a reason on the back",
      "items": [
       {
-       "f": "Kavya dropped a spinner with 8 centimetre wings five times: 1.9, 2.1, 1.8, 2.0, 2.2 seconds. A spinner with 4 centimetre wings took 1.2, 1.1, 1.3, 1.2, 1.0 seconds. Her conclusion: in this test, the spinners with longer wings fell more slowly.",
-       "b": "SUPPORTED. The averages are 2.0 and about 1.2 seconds, a gap of about 0.8. The numbers in each set spread by only about 0.4, so the gap is bigger than the wobble. She also says 'in this test', which is careful."
+       "f": "A spinner with 8 centimetre wings was dropped five times: 1.9, 2.1, 1.8, 2.0, 2.2 seconds. A spinner with 4 centimetre wings took 1.2, 1.1, 1.3, 1.2, 1.0 seconds. The conclusion: in this test, the spinner with longer wings fell more slowly.",
+       "b": "SUPPORTED. The averages are 2.0 and about 1.2 seconds, a gap of about 0.8. The numbers in each set spread by only about 0.4, so the gap is bigger than the wobble. The conclusion also says 'in this test', which is careful."
       },
       {
        "f": "A blue pen and a red pen were each tried once on a rough page. The blue wrote 14 centimetres before it skipped, the red wrote 12. The conclusion: blue pens are better than red pens.",
@@ -780,11 +780,11 @@
        "b": "CAN'T TELL YET. The gap is large, so the idea is plausible, but one try each can be a fluke. Repeat the test a few times each."
       },
       {
-       "f": "A helper timed spinners and knew which was which, and hoped the long wings would be slowest. Long wings: 2.4, 2.5, 2.3, 2.4, 2.5 seconds. Short wings: 1.2, 1.1, 1.2, 1.2, 1.3 seconds. The conclusion: longer wings fell more slowly.",
+       "f": "A helper timed the spinners. The helper knew which was which, and hoped the long wings would be slowest. Long wings: 2.4, 2.5, 2.3, 2.4, 2.5 seconds. Short wings: 1.2, 1.1, 1.2, 1.2, 1.3 seconds. The conclusion: longer wings fell more slowly.",
        "b": "SUPPORTED. A hopeful helper might add a fifth of a second here or there. The gap is more than a second, so a small bias cannot explain it. A blind helper would still be better."
       },
       {
-       "f": "A girl measured arm span and height of six people. All were within 4 centimetres of each other. The conclusion: everyone in the world has an arm span within 4 centimetres of their height.",
+       "f": "The arm span and the height of six people were measured. Each person's arm span was within 4 centimetres of their height. The conclusion: everyone in the world has an arm span within 4 centimetres of their height.",
        "b": "TOO FAR. Six people can only tell us about those six, and hint at a pattern for more. 'Everyone in the world' needs many more."
       },
       {
@@ -836,7 +836,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 16 cards and the 12 tokens. 2. Shuffle the cards. 3. Give each player three tokens, one of each kind.",
-     "say": "Each card gives some results and a conclusion. You decide if the conclusion is supported, goes too far, or cannot yet be told.",
+     "say": "Each card gives some results and a conclusion. You decide whether the conclusion is supported, goes too far, or whether we can't tell yet.",
      "kid": "Cut out the cards and tokens. Take three tokens, one of each kind.",
      "context": "This is the first step of the game Supported, Too Far, or Can't Tell Yet. You set up the cards and the tokens.",
      "parent": "If you cannot print, write the cards on strips of paper. Tokens can be three small bits of paper in three colours."
@@ -1020,7 +1020,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Test each spinner once. Hold it at the sticky-note mark with the wings at the top and the clip at the bottom. Let go. Check that it spins and that all three spin. Mark the drop height with a sticky note on the wall.",
+     "do": "1. Mark the drop height with a sticky note on the wall. 2. Hold a spinner at the mark, with the wings at the top and the clip at the bottom, and let go. 3. Do this once with each spinner, and check that all three spin.",
      "say": "This is a practice drop. Let go, and watch the wings spin. Does each spinner spin as it falls? If one does not, we can bend its wings and try again.",
      "kid": "Practise one drop with each spinner. Do they all spin? Do not time yet.",
      "context": "In this step, you practise one drop each and fix any spinner that does not spin.",
@@ -1030,12 +1030,12 @@
      "id": "s4",
      "mins": 12,
      "do": "1. The helper drops the spinners in turns: 4, 6, 8, 4, 6, 8, until each has been dropped five times. 2. The timer starts the stopwatch when the spinner leaves the hand and stops it when it touches the floor. 3. Write each time in the table to the nearest tenth of a second. 4. Do not rub out any time.",
-     "say": "Short, middle, long. Short, middle, long. Count 'ready, go' and start the timer when the spinner leaves the hand. Stop it when it lands. Write the time before the next drop.",
+     "say": "Drop the spinners in turns: short, middle, long, and then short, middle, long again. Say 'ready, go'. Start the timer when the spinner leaves the hand, and stop it when the spinner lands. Write the time before the next drop.",
      "kid": "Drop in turns: 4, 6, 8. Time each fall. Write every time down. Do not rub out.",
      "context": "In this step, you drop and time each spinner five times, in turns.",
      "ask": [
       {
-       "q": "Why do we drop them in turns and not all five of one before the next?",
+       "q": "Why do we drop the three spinners in turns, and not one spinner five times before the next?",
        "good": [
         "So a draught or a tired arm affects all three spinners in the same way.",
         "So no spinner gets an easier time."
@@ -1049,7 +1049,7 @@
      "id": "s5",
      "mins": 5,
      "do": "1. For each spinner, add up the five times. 2. Divide by 5 to find the average. 3. Take the smallest time from the biggest to find the range. 4. Circle any time that is far from the others.",
-     "say": "Add up the five times for the short wings. Divide by five. That is the average. Now the biggest minus the smallest. That is the range. Do the same for the other two.",
+     "say": "Add up the five times for the short wings. Divide by five. That is the average. Now take the smallest time from the biggest. That is the range. Do the same for the other two.",
      "kid": "Add the five times. Divide by five. Find the range. Circle any odd time.",
      "context": "In this step, you work out the average and the range for each spinner.",
      "parent": "To avoid decimals, you can use tenths of a second: 14, 16, 15, 13 and 17. The total is 75 and the average is 15 tenths. The range is 17 minus 13, which is 4 tenths.",
@@ -1089,7 +1089,7 @@
        ]
       }
      ],
-     "parent": "A typical result is that longer wings give longer times, by a few tenths of a second or more, with times of about 1 to 2 seconds in all, but yours will differ and the order can even come out wrong for one pair. If the three averages are close together, say 'we cannot tell' and repeat with more drops or a bigger change in wing length."
+     "parent": "A typical result is that longer wings give longer times, by a few tenths of a second or more. The times are usually about 1 to 2 seconds in all. Yours will differ, and the order can even come out wrong for one pair. If the three averages are close together, say 'we cannot tell' and repeat with more drops or a bigger change in wing length."
     }
    ]
   },
@@ -1136,7 +1136,7 @@
      "qty": 1
     }
    ],
-   "safety": "Coins are small parts: keep them away from children under five, who might put them in their mouths. Do the test on a table, not on a shelf, so falling coins do not hit feet. Tape and scissors: a grown-up near.",
+   "safety": "Coins are small parts: keep them away from children under five, who might put them in their mouths. Do the test on a table, not on a shelf, so falling coins do not hit feet. Use tape and scissors with a grown-up near.",
    "record": "Fill in the results table. Work out the average and the range for each shape. Draw a bar chart of the averages.",
    "context": "In this experiment, you fold paper into four bridge shapes and find out how many coins each can carry across a gap. You repeat each shape three times.",
    "setup": [
@@ -1163,7 +1163,7 @@
      "mins": 5,
      "do": "Show your child the strips and the books. Ask for the three jobs in this test. Ask for a guess and a reason, and for a guess about how many coins the flat strip will hold.",
      "say": "We will fold paper into four bridges. What do we change? What do we measure? What do we keep the same? Which will hold the most coins? Why do you think so?",
-     "kid": "Four bridge shapes. Which holds the most? Which the least? Why?",
+     "kid": "There are four bridge shapes. Which will hold the most coins? Which will hold the fewest? Why?",
      "context": "This is the first step of the Paper Bridge test. You plan and guess.",
      "ask": [
       {
@@ -1184,7 +1184,7 @@
      "say": "Three strips stay flat. Three get the edges folded up. Three become a fan. Three are rolled into tubes. Write the letter on each strip.",
      "kid": "Cut 12 strips. Make 3 flat, 3 channels, 3 fans and 3 tubes. Write a letter on each.",
      "context": "In this step, you make the twelve bridges. They are alike except for the shape.",
-     "parent": "All the strips are the same size before they are folded. The folds make them shorter in width. The tube must be rolled lengthwise, so it is 21 centimetres long. Stick the seam with a small piece of tape.",
+     "parent": "All the strips are the same size before they are folded. The folds make them narrower. The tube must be rolled lengthwise, so it is 21 centimetres long. Stick the seam with a small piece of tape.",
      "check": {
       "t": "mcq",
       "q": "Why must all 12 strips be cut from the same kind of paper and be the same size?",
@@ -1209,8 +1209,8 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "1. Test the shapes in turns: F, C, P, T, F, C, P, T, F, C, P, T. 2. Use a fresh strip each time. 3. Add coins to the cup, one at a time and gently. 4. Stop when the bridge touches the table, or falls, or after 60 coins. 5. Count the coins that were in the cup just before it failed. 6. Write the number in the table.",
-     "say": "Lay a fresh strip across. Add one coin at a time, gently. Keep going until the bridge touches the table. Count the coins in the cup just before it failed. Write the number down.",
+     "do": "1. Test the shapes in turns: F, C, P, T, F, C, P, T, F, C, P, T. 2. Use a fresh strip each time. 3. Add coins to the cup, one at a time and gently. 4. Stop when the bridge touches the table, or falls, or after 60 coins. 5. Count the coins that were in the cup just before the bridge failed. 6. Write the number in the table.",
+     "say": "Lay a fresh strip across. Add one coin at a time, gently. Keep going until the bridge touches the table. Count the coins that were in the cup just before the bridge failed. Write the number down.",
      "kid": "Test the shapes in turns. Add one coin at a time. Count the coins before the bridge touches the table.",
      "context": "In this step, you test each shape three times, in turns, and count the coins.",
      "ask": [
@@ -1224,17 +1224,17 @@
       {
        "q": "Why test in turns?",
        "good": [
-        "So any slow tiredness or change in the way you add coins affects every shape in the same way."
+        "So tiredness, or any change in the way you add coins, affects every shape in the same way."
        ]
       }
      ],
-     "parent": "The flat strip usually holds very few coins, or none. If a shape carries all 60 coins without sagging to the table, write '60+' and treat it as a tie at the top. Then make the test harder by moving the stacks a little further apart (up to 17 centimetres, keeping 2 centimetres on each stack) and try again, or say honestly that you ran out of coins. All the numbers here are typical, not promised. The other shapes carry many more. Which is best may surprise you. Write what happens. If a bridge falls at once because it slid off the books, write 'slipped' and try a new strip. Do not rub out any result. If a number looks odd, circle it and try again with a fresh strip."
+     "parent": "The flat strip usually holds very few coins, or none. The other shapes carry many more, and which is best may surprise you. These numbers are typical, not promised, so write what happens. If a shape carries all 60 coins without sagging to the table, write '60+' and treat it as a tie at the top. Then make the test harder by moving the stacks a little further apart (up to 17 centimetres, keeping 2 centimetres on each stack) and try again, or say honestly that you ran out of coins. If a bridge falls at once because it slid off the books, write 'slipped' and try a new strip. Do not rub out any result. If a number looks odd, circle it and try again with a fresh strip."
     },
     {
      "id": "s5",
      "mins": 3,
      "do": "For each shape, add up the three numbers and divide by 3 to find the average. Take the smallest from the biggest to find the range. Circle any number that is far from the other two.",
-     "say": "Add the three numbers for each shape. Divide by three. That is the average. Now the range, the biggest minus the smallest.",
+     "say": "Add the three numbers for each shape. Divide by three. That is the average. Now find the range: take the smallest number from the biggest.",
      "kid": "Find the average and the range for each shape.",
      "context": "In this step, you work out the average and the range for each bridge shape.",
      "parent": "If one of the three numbers for a shape is very different from the other two, test that shape two more times before deciding.",
@@ -1346,7 +1346,7 @@
      "say": "Put all the numbers in a row. What is the smallest? What is the biggest? How far apart are they? Now add them up and divide by how many there are.",
      "kid": "Put the numbers in a row. Find the smallest and the biggest. Find the average.",
      "context": "In this step, you work out the range and the average of your measurements.",
-     "parent": "Typically the numbers spread by about 1 to 3 centimetres on a table about a metre long, and more with a short ruler placed end to end. If someone is far out, ask how they held the tape. The average of many measurements is usually a better guess at the true length than any one.",
+     "parent": "Typically the numbers spread by about 1 to 3 centimetres on a table about a metre long, and more with a short ruler placed end to end. If someone's number is far from the rest, ask how they held the tape. The average of many measurements is usually a better guess at the true length than any one.",
      "check": {
       "t": "mcq",
       "q": "Five measurements of a table are 120, 121, 120, 122 and 120 centimetres. What is the range?",
@@ -1431,7 +1431,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "While your child is out of the room, wet one cloth with two spoonfuls of water and the other with one. Hang the first in the corner and the second near the fan. Use a cloth that is a bit bigger for one of them. Say that the test is to find which cloth dries faster.",
+     "do": "While your child is out of the room, take two cloths, one a bit bigger than the other. Wet one with two spoonfuls of water and the other with one. Hang the first in the corner and the second near the fan. Tell your child that the test is to find which cloth dries faster.",
      "say": "I have set up a test to find which cloth dries faster. I think there is something wrong with it. Can you find out what?",
      "kid": "A grown-up sets up two cloths. Something is not fair. Wait until you are called in.",
      "context": "This is the first step of The Sneaky Variable. A grown-up sets up the unfair test in secret.",
@@ -1472,7 +1472,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Now ask your child to say how they would make it fair. Fix the test. Wet both cloths the same, use the same size, and hang them side by side in the same place. You do not need to wait for them to dry. If you like, leave the unfair set-up and look again after an hour. Ask: did the first cloth dry first because of the cloth, the water, the size or the place? Nobody can say, and that is the point.",
+     "do": "Now ask your child to say how they would make it fair. Fix the test. Wet both cloths the same, use the same size, and hang them side by side in the same place. You do not need to wait for them to dry. If you like, leave the unfair set-up and look again after an hour. Ask: did one cloth dry first because of the cloth, the water, the size or the place? Nobody can say, and that is the point.",
      "say": "How would you fix it? What do you keep the same? What is the one thing you change?",
      "kid": "Fix the test. What stays the same? What is the one thing you change?",
      "context": "In this step, you fix the unfair test and name the three jobs.",
@@ -1513,7 +1513,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Toss a coin ten times, five times over. Count heads each time. Look at how the counts spread."
+     "what": "Toss a coin ten times and count the heads. Do this five times. Look at how the counts spread."
     }
    ],
    "record": "A table of five sets of ten tosses with the number of heads in each, the range and the average.",
@@ -1536,9 +1536,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Ask your child to guess how many heads they will get in ten tosses. Ask if they think the number will be the same each time they toss ten coins. Ask why.",
+     "do": "Ask your child to guess how many heads they will get in ten tosses. Ask if they think the number will be the same each time they toss the coin ten times. Ask why.",
      "say": "If you toss a coin ten times, how many heads will you get? Will you get that number every time you do ten tosses? Why do you think so?",
-     "kid": "Toss ten times. How many heads? Will it be the same every set? Why?",
+     "kid": "If you toss a coin ten times, how many heads will you get? Will it be the same number every time? Why?",
      "context": "This is the first step of Coin Wobble. You guess before you toss.",
      "ask": [
       {
@@ -1559,26 +1559,26 @@
      "say": "Toss the coin ten times. Count the heads. Write the number. Do it again. We want five sets in all.",
      "kid": "Toss ten times. Count the heads. Do it five times.",
      "context": "In this step, you toss the coin and count the heads in five sets.",
-     "parent": "Typical counts are between 3 and 7, though a 2 or an 8 can happen. Do not worry if you get a 2 or an 8 now and then. That is chance too.",
+     "parent": "Typical counts are between 3 and 7. A 2 or an 8 can happen now and then. That is chance too, so do not worry.",
      "wait": "If you get tired, take a short break after set 3."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Find the smallest and biggest count. Work out the range and the average. Ask whether any set was exactly five. Ask what this means for a test where one plate gets 3 sprouted seeds and another gets 6 out of 10.",
+     "do": "Find the smallest and biggest count. Work out the range and the average. Ask whether any set was exactly five. Ask what this means for a test where one plate of 10 seeds has 3 sprouted seeds and another has 6.",
      "say": "What was your smallest count of heads? What was your biggest? Was any set exactly five? If a coin can give 3 in one set and 7 in another, what does that mean for a test?",
      "kid": "Find the smallest and the biggest. What does the wobble tell you?",
      "context": "In this step, you look at how much chance moved the counts, and think about what that means for a test.",
      "ask": [
       {
-       "q": "What does the wobble in a coin tell you about a test with 10 seeds?",
+       "q": "The count of heads wobbled from set to set. What does that tell you about a test that counts how many of 10 seeds sprout?",
        "good": [
         "A difference of one or two seeds might be chance.",
         "We need to repeat the test to be sure."
        ]
       }
      ],
-     "think": "If you tossed the coin 100 times in each set, would the counts wobble more or less in proportion?",
+     "think": "If each set had 100 tosses, not 10, would the share of heads wobble more or less?",
      "check": {
       "t": "mcq",
       "q": "Two identical plates of ten seeds, with the same water, gave 7 and 9 sprouted seeds. What is the best thing to say?",
@@ -1640,7 +1640,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Rule two lines at right angles on squared paper. 2. Label the line along the bottom 'Wing length (cm)' and mark 4, 6 and 8. 3. Label the line up the side 'Average fall time (tenths of a second)' and mark 0 up to 25. 4. Give the graph a title.",
-     "say": "Draw two lines. The one along the bottom is for what we change, the wing length. The one up the side is for what we measure, the time. Label both with units.",
+     "say": "Draw two lines. These are called the axes. The one along the bottom is for what we change, the wing length. The one up the side is for what we measure, the time. Label both with units.",
      "kid": "Draw two lines. Bottom: wing length. Side: fall time. Add units and a title.",
      "context": "This is the first step of From Table to Line. You draw the axes.",
      "parent": "If you did not do the Paper Spinner test, use these example averages: 4 centimetres gives 12 tenths of a second, 6 gives 16 and 8 gives 21. They are not from a real test, so say so on the graph. With 2 to 4 children, each child draws their own graph from the shared table, then compare."
@@ -1734,12 +1734,12 @@
     {
      "day": 2,
      "mins": 10,
-     "what": "Add the morning water. Look at each plate and note anything unusual."
+     "what": "Add the morning water. Look at each katori and note anything unusual."
     },
     {
      "day": 3,
      "mins": 10,
-     "what": "Add the morning water. Count the sprouted seeds in each plate."
+     "what": "Add the morning water. Count the sprouted seeds in each katori."
     },
     {
      "day": 4,
@@ -1748,7 +1748,7 @@
     }
    ],
    "record": "A table with the six katoris, the water each gets, and the seeds sprouted on days 3 and 4. Under it, the average for each amount, the range, and a conclusion that says what you can and cannot say.",
-   "context": "In this project, you give three amounts of water to moong seeds, with two plates for each amount, and count how many sprout. You see how much chance moves the counts.",
+   "context": "In this project, you give three amounts of water to moong seeds, with two katoris for each amount, and count how many sprout. You see how much chance moves the counts.",
    "setup": [
     {
      "art": "Six steel katoris in two rows of three, each lined with tissue and holding ten moong seeds, with labels A to F.",
@@ -1767,7 +1767,7 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Cut six pieces of tissue to fit the katoris. 2. Put one piece in each katori. 3. Count ten unbroken seeds onto each. 4. Label A and B for no water, C and D for one teaspoon, and E and F for three teaspoons. 5. Add the first water to C, D, E and F. 6. Put all six in the same place, away from sun and fan. 7. Write down the three jobs and your guess.",
+     "do": "1. Cut six pieces of tissue to fit the katoris. 2. Put one piece in each katori. 3. Count ten unbroken seeds onto each. 4. Label the katoris: A and B for no water, C and D for one teaspoon, and E and F for three teaspoons. 5. Add the first water to C, D, E and F. 6. Put all six in the same place, away from sun and fan. 7. Write down the three jobs and your guess.",
      "say": "We have three amounts of water: none, a little and plenty. Each amount gets two katoris, so we can see how much chance moves the counts. What do we change? What do we measure? What do we keep the same? Which katori will have the most sprouted seeds? Why do you think so?",
      "kid": "Set up six katoris. Two get none, two get a little, two get plenty. Which sprouts best? Why?",
      "context": "This is day 1 of Thirsty Seeds. You plan the test and set up the katoris.",
@@ -1779,7 +1779,7 @@
        ]
       }
      ],
-     "parent": "Use the same kind of seed from the same packet. Throw out cracked seeds. Keep the katoris side by side so the warmth is the same. Whatever you find is a real result. Before you begin, soak 5 seeds overnight: if they do not show a tail in 2 days, the packet is too old, so use another. Roles: with one child, the child sets up and you check. With 2 to 4 children, each looks after one amount of water (none, a little or plenty) and writes their own two katoris; the youngest counts the seeds out. If nothing sprouts even with plenty of water, the cause is old seeds or cold weather, so repeat in a warmer place. In hot, dry weather the one-teaspoon katoris can dry out by evening, so say so in your conclusion. Typically moong with plenty of water shows tails within 2 to 3 days, but your numbers will differ.",
+     "parent": "Use the same kind of seed from the same packet. Throw out cracked seeds. Keep the katoris side by side so the warmth is the same. Whatever you find is a real result. Before you begin, soak 5 seeds overnight: if they do not show a tail in 2 days, the packet is too old, so use another. Roles: with one child, the child sets up and you check. With 2 to 4 children, each looks after one amount of water (none, a little or plenty) and writes down the counts for their own two katoris; the youngest counts the seeds out. If nothing sprouts even with plenty of water, the cause is old seeds or cold weather, so repeat in a warmer place. In hot, dry weather the one-teaspoon katoris can dry out by evening, so say so in your conclusion. Typically moong with plenty of water shows tails within 2 to 3 days, but your numbers will differ.",
      "check": {
       "t": "mcq",
       "q": "Why does each amount of water get two katoris?",
@@ -1798,7 +1798,7 @@
      "do": "Each morning for the next two days, add the water. Give C and D one teaspoon. Give E and F three teaspoons. Give A and B nothing. Look at all six katoris and write a few words about each. On day 3, count the sprouted seeds in each katori and write the numbers.",
      "say": "Add the water as planned. A and B stay dry. Look closely at each katori. What do you see? Are any seeds changing?",
      "kid": "Add the water. A and B get none. Look at each katori and write what you see.",
-     "context": "In these days, you water the katoris and look at the seeds.",
+     "context": "On days 2 and 3, you water the katoris and look at the seeds.",
      "parent": "Do not move the katoris between days. If mould grows on a seed, take the seed out and write that down. A seed that swells but has no tail is not yet sprouted.",
      "wait": "Do this each morning for days 2 and 3. Then count on day 3 and again on day 4."
     },
@@ -1839,9 +1839,9 @@
    "id": "c1",
    "title": "Slowest Fall: engineer the slowest spinner and prove it",
    "mins": 40,
-   "problem": "Make a paper spinner that falls more slowly than your 6 centimetre-wing spinner. Then prove that it falls slower, using five drops of each and the average and range.",
+   "problem": "Make a paper spinner that falls more slowly than the spinner with 6 centimetre wings from the Paper Spinner test. Then prove that it falls slower, using five drops of each and the average and range.",
    "constraints": [
-    "Use two equal pieces of the same paper, each no bigger than 10 centimetres by 20 centimetres, and two paper clips of the same size. Cut the baseline and the new design from these.",
+    "Use two equal pieces of the same paper, each no bigger than 10 centimetres by 20 centimetres, and two paper clips of the same size. From these, cut a spinner with 6 centimetre wings, which is the baseline to beat, and your new design.",
     "Tape is allowed, but no extra paper. Trim no more paper off one design than the other, or say how much you trimmed, so the weights stay nearly the same.",
     "Drop both from the same mark on the wall, with the fan off.",
     "Change only one thing at a time. Say which thing you changed.",
@@ -1886,7 +1886,7 @@
      "id": "s1",
      "mins": 6,
      "do": "Read the problem together. Ask your child to sketch two or three ideas. Ask which one thing they will change. Ask what they will keep the same.",
-     "say": "You need to beat your 6 centimetre spinner. What could make a spinner fall slower? Which one thing will you change first?",
+     "say": "You need to make a spinner that falls more slowly than the one with 6 centimetre wings. What could make a spinner fall slower? Which one thing will you change first?",
      "kid": "Sketch two ideas. Choose one thing to change first.",
      "context": "This is the first step of the Slowest Fall challenge. You plan the design.",
      "ask": [
@@ -1904,9 +1904,9 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Drop the baseline spinner five times and write each time. 2. Build the new design. 3. Test it once, to be sure it spins. 4. Drop it five times and write each time. 5. Drop in turns, baseline, new, baseline, new.",
-     "say": "First, the baseline. Five drops, five times. Then your new spinner. Five drops, five times. Drop in turns, so tiredness and draughts affect both.",
-     "kid": "Drop your old spinner five times. Then your new one. Write every time.",
+     "do": "1. Build the new design. 2. Test it once, to be sure it spins. 3. Drop the baseline spinner and the new one in turns: baseline, new, baseline, new. 4. Go on until each has been dropped five times. 5. Write down every time.",
+     "say": "Each spinner gets five drops. Drop them in turns, baseline and then new, so tiredness and draughts affect both. Write down every time.",
+     "kid": "Drop your old spinner and your new one in turns, five drops each. Write down every time.",
      "context": "In this step, you time the baseline and the new design, five drops each.",
      "parent": "The same helper drops and the same timer times. Use the mark on the wall. Do not rub out any times. If one time looks odd, circle it, and drop again if you can see a reason, such as a bump."
     },
@@ -1927,12 +1927,12 @@
        ]
       }
      ],
-     "parent": "This is the fairest part of the challenge. Many first designs are only slightly different. A bigger change, such as doubling the wing area, shows up more clearly. A slow-motion phone video can time the fall more steadily than a stopwatch.",
+     "parent": "This step is about judging the result honestly. Many first designs are only slightly different. A bigger change, such as doubling the wing area, shows up more clearly. A slow-motion phone video can time the fall more steadily than a stopwatch.",
      "check": {
       "t": "mcq",
-      "q": "Old spinner averages 1.4 seconds with times from 1.2 to 1.6. New spinner averages 1.6 with times from 1.4 to 1.8. What is the best conclusion?",
+      "q": "The old spinner averages 1.4 seconds, with times from 1.2 to 1.6. The new spinner averages 1.6, with times from 1.4 to 1.8. What is the best conclusion?",
       "options": [
-       "The gap of 0.2 is the same size as the spread, so it is too close to call",
+       "The gap of 0.2 is smaller than the spread of 0.4, so it is too close to call",
        "The new spinner is much slower",
        "The new spinner is faster"
       ],
@@ -1961,21 +1961,21 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Arjun tests whether a thicker straw lets more juice through in ten seconds. What is the thing he changes?",
+     "p": "A test asks whether a thicker straw lets more juice through in ten seconds. What is the thing that is changed?",
      "opts": [
       "The thickness of the straw",
       "The amount of juice that passes",
       "The ten seconds"
      ],
      "a": 0,
-     "why": "He chooses the straw on purpose. The amount of juice is what he measures, and the ten seconds is kept the same for every straw.",
+     "why": "The straw is chosen on purpose. The amount of juice is what is measured, and the ten seconds is kept the same for every straw.",
      "outcome": 0
     },
     {
      "t": "sort",
-     "p": "A girl tests whether more rubber bands make a toy car shoot farther. Sort each item into change, measure or keep the same.",
+     "p": "A test asks whether more rubber bands make a toy car shoot farther. Sort each item into change, measure or keep the same.",
      "a": "see items",
-     "why": "The number of bands is what she chooses to alter. The distance is the result. Everything else stays steady so that only the bands can explain a difference.",
+     "why": "The number of bands is the thing that is changed on purpose. The distance is the result. Everything else stays steady so that only the bands can explain a difference.",
      "cats": [
       "Change",
       "Measure",
@@ -1999,7 +1999,7 @@
        "Keep the same"
       ],
       [
-       "how far she pulls back",
+       "how far the launcher is pulled back",
        "Keep the same"
       ]
      ],
@@ -2035,7 +2035,7 @@
     },
     {
      "t": "mcq",
-     "p": "The five times were 12, 14, 13, 15 and 16 tenths of a second. What is the range?",
+     "p": "Five spinner drops took 12, 14, 13, 15 and 16 tenths of a second. What is the range?",
      "opts": [
       "4 tenths",
       "16 tenths",
@@ -2136,7 +2136,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a results table for testing three straw widths, with five drops each. Give it headings for the straw width, each try, the average and the range.",
+     "p": "Draw a results table for testing three straw widths, with five tries each. Give it headings for the straw width, each try, the average and the range.",
      "a": "A table with a row for each of three straw widths. Columns headed Width (mm), Try 1 to Try 5 (ml), Average (ml) and Range (ml).",
      "why": "A strong table has headings with units, one row for each setting and room for every try, the average and the range.",
      "art": "An empty table in a notebook with three rows and eight columns, and a ruler beside it.",
@@ -2214,7 +2214,7 @@
     },
     {
      "t": "write",
-     "p": "A bean plant in the sun grew an average of 5 centimetres in a week, in 3 pots. A bean plant in the shade grew 2 centimetres in 3 pots. Each set ranged by about 1 centimetre. Write a claim, evidence and a limit.",
+     "p": "Bean plants in 3 pots in the sun grew 5 centimetres in a week on average. Bean plants in 3 pots in the shade grew 2 centimetres on average. Each set ranged by about 1 centimetre. Write a claim, evidence and a limit.",
      "a": "Claim: in our test, bean plants in the sun grew taller than those in the shade. Evidence: the averages were 5 and 2 centimetres, a gap of 3, bigger than the spread of about 1. Limit: we tested one kind of bean for one week.",
      "why": "A strong answer has a claim that answers the question, evidence with numbers, and a limit that says what was not tested.",
      "lines": 4,
@@ -2236,7 +2236,7 @@
      "t": "sort",
      "p": "Judge each conclusion.",
      "a": "see items",
-     "why": "A conclusion is supported when the gap between results is bigger than the wobble, and it stays within what was tested. It goes too far when it claims more. It cannot be told when the evidence is too small or too wobbly.",
+     "why": "A conclusion is supported when the gap between results is bigger than the wobble, and it stays within what was tested. It goes too far when it claims more. We can't tell yet when the evidence is too small or too wobbly.",
      "cats": [
       "Supported",
       "Goes too far",
@@ -2288,7 +2288,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl tests different amounts of salt in water to see how long a potato slice takes to rise. Which kind of graph shows the shape best?",
+     "p": "A test uses different amounts of salt in water to see how long a potato slice takes to rise. Which kind of graph shows the shape of the pattern best?",
      "opts": [
       "A line graph",
       "A bar chart",
@@ -2332,7 +2332,7 @@
      "why": "Every real measurement has several sources of wobble. A good test keeps the big ones small and repeats the test to deal with the rest.",
      "pairs": [
       [
-       "Small change in the starting hand",
+       "Small change in how the hand lets go",
        "the spinner leaves the hand a little tilted"
       ],
       [
@@ -2377,8 +2377,8 @@
     },
     {
      "t": "perspective",
-     "p": "A girl finds that the tulsi pot corner had about one fewer mosquito a night, while the nightly counts ranged from 2 to 9. One friend says 'tulsi works'. Another says 'we cannot tell'. Who do you agree with?",
-     "a": "A strong answer notes that the gap is smaller than the wobble, so the claim goes beyond the evidence, and suggests more nights or a bigger change. Kavya's hope is natural, but it should not bend the conclusion.",
+     "p": "In a balcony test, the corner with a tulsi pot had about one mosquito fewer a night than the corner without. The nightly counts ranged from 2 to 9. One friend says 'tulsi works'. Another says 'we cannot tell'. Who do you agree with?",
+     "a": "A strong answer notes that the gap is smaller than the wobble, so the claim goes beyond the evidence, and suggests more nights or a bigger change. The first friend's hope is natural, but it should not bend the conclusion.",
      "why": "Pick-a-side questions have no single right side. Marks go for comparing the gap with the wobble and for stating the other view fairly.",
      "views": [
       {
@@ -2450,9 +2450,9 @@
     },
     {
      "t": "sort",
-     "p": "Is this a hidden difference that spoils a fair test of which cloth dries faster?",
+     "p": "A test asks which kind of cloth dries faster. Sort each item: does it spoil the test or not?",
      "a": "see items",
-     "why": "The test changes the kind of cloth, so the cotton and the nylon is the point of the test. A difference in wetness or place would also change the drying time.",
+     "why": "The test changes the kind of cloth, so one cloth being cotton and the other nylon is the point of the test. It does not spoil it. A difference in wetness or place would also change the drying time, so it spoils the test.",
      "cats": [
       "Spoils the test",
       "Does not spoil the test"
@@ -2585,14 +2585,14 @@
     },
     {
      "t": "mcq",
-     "p": "A girl tests 0, 1 and 3 teaspoons of water on seeds. The sprouted counts are 0, 8 and 8 out of 10. What does this suggest?",
+     "p": "Seeds are given 0, 1 and 3 teaspoons of water. The sprouted counts are 0, 8 and 8 out of 10. What does this suggest?",
      "opts": [
       "Some water helps, but more than one teaspoon may make no difference",
       "More water is always better",
       "Water makes no difference"
      ],
      "a": 0,
-     "why": "The jump from 0 to 8 is big. The step from 1 to 3 teaspoons is zero. Trying three settings revealed that the gain levels off.",
+     "why": "The jump from 0 to 8 is big. From 1 to 3 teaspoons, the count does not change. Trying three settings showed that the gain levels off.",
      "outcome": 1
     },
     {
@@ -2626,7 +2626,7 @@
     },
     {
      "t": "write",
-     "p": "A girl counted mosquitoes on 14 evenings. The tulsi corner had 71 in total and the other corner had 84. Nightly counts ranged from 2 to 9. Write a careful conclusion.",
+     "p": "Mosquitoes were counted in two corners of a balcony on 14 evenings. The corner with a tulsi pot had 71 in total and the other corner had 84. Nightly counts ranged from 2 to 9. Write a careful conclusion.",
      "a": "In our test, the tulsi corner had slightly fewer mosquitoes, about one a night on average. But the nightly counts varied from 2 to 9, which is much more than that difference, so we cannot say the tulsi keeps mosquitoes away. We tested one pot only.",
      "why": "A strong answer notes the small gap, compares it with the wobble, avoids a claim of cause and states a limit.",
      "lines": 4,
@@ -2662,7 +2662,7 @@
   },
   {
    "t": "mcq",
-   "p": "Four drops of a spinner take 14, 16, 15 and 15 tenths. What is the average?",
+   "p": "Four drops of a spinner take 14, 16, 15 and 15 tenths of a second. What is the average?",
    "opts": [
     "15 tenths",
     "14 tenths",
@@ -2686,9 +2686,9 @@
   },
   {
    "t": "mcq",
-   "p": "One drop took 28 tenths and the other four took about 15. What should you do?",
+   "p": "One drop of a spinner took 28 tenths of a second and the other four took about 15. What should you do?",
    "opts": [
-    "Check what happened and repeat it, and record it",
+    "Check what happened, repeat the drop and record it",
     "Rub it out",
     "Use only the 28"
    ],
@@ -2746,7 +2746,7 @@
   },
   {
    "t": "mcq",
-   "p": "Children with bigger shoes read better. What is the best idea?",
+   "p": "Children with bigger shoes read better. What is the best explanation?",
    "opts": [
     "Age may sit behind both",
     "Shoes help reading",
@@ -2758,7 +2758,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why can a helper who does not know which spinner is which help a test?",
+   "p": "A helper times the spinners without knowing which spinner is which. How does this help the test?",
    "opts": [
     "Because their hopes cannot bend the timing",
     "Because they time faster",
@@ -2968,17 +2968,17 @@
    "why_maths": "Working out the average with and without the odd result shows how much one number can pull an average, so you know why to check it."
   },
   {
-   "problem": "Over 14 evenings, a tulsi corner had 71 mosquitoes in total and the other corner had 84. About how many more per night was that? The nightly counts ran from 2 to 9, so the range was 7. Is the difference per night bigger or smaller than the range?",
+   "problem": "Over 14 evenings, a tulsi corner had 71 mosquitoes in total and the other corner had 84. About how many more mosquitoes per night did the other corner have? The nightly counts ran from 2 to 9, so the range was 7. Is the difference per night bigger or smaller than the range?",
    "answer": "About 1 more per night. It is much smaller than the range of 7. So the difference is much smaller than the nightly wobble.",
    "explain": "84 take away 71 is 13. 13 divided by 14 is a little less than 1. The nightly counts spread by 7, so a difference of about 1 is far smaller than the swings.",
    "math_unit": "math.number-sense.estimation.L4",
-   "context": "In a story, a girl counted mosquitoes in two balcony corners for fourteen evenings and found a small difference.",
+   "context": "In the story The Mosquitoes and the Tulsi, Aadhira counted mosquitoes in two balcony corners for fourteen evenings and found a small difference.",
    "why_maths": "Dividing the total difference by the number of nights shows how big the difference is per night, so it can be compared with the wobble."
   },
   {
-   "problem": "Two plates of ten identical seeds with the same water gave 7 and 9 sprouted seeds. What share of each plate sprouted? How many percentage points apart are the two plates?",
-   "answer": "70 out of 100 and 90 out of 100. They are 20 percentage points apart, and they had identical treatment.",
-   "explain": "7 out of 10 is 70 out of 100, and 9 out of 10 is 90 out of 100. 90 take away 70 is 20. Two plates treated the same already differ by 20 percentage points, so a gap of 20 between two different treatments proves little.",
+   "problem": "Two plates of ten identical seeds with the same water gave 7 and 9 sprouted seeds. What share of each plate sprouted, as a number out of 100? How far apart are the two shares?",
+   "answer": "70 out of 100 and 90 out of 100. They are 20 apart, even though both plates were treated the same.",
+   "explain": "7 out of 10 is 70 out of 100, and 9 out of 10 is 90 out of 100. 90 take away 70 is 20. Two plates treated the same already differ by 20 out of 100, so a gap of 20 between two different treatments proves little.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
    "context": "In the Thirsty Seeds project and the Coin Wobble activity, you see that identical treatments can give different counts.",
    "why_maths": "Turning counts into shares makes plates of different sizes comparable, and shows how big the chance wobble can be."
@@ -3235,21 +3235,21 @@
   "story": "In 1969, Tu Youyou, a Chinese pharmacologist, joined a secret national project to find a medicine for malaria. Her team tested hundreds of plant extracts on infected mice. Sweet wormwood, an old Chinese herb, looked promising at first, but the results were uneven. People usually prepared herbal medicines by boiling or heating. Tu went back to an old handbook written by Ge Hong more than 1,600 years ago. It said to soak the herb in cold water and wring out the juice. She guessed that heat might be destroying the part that works. So she changed one thing, the heat of the extraction, and kept the plant the same. In 1971 a low-heat extract worked very well on infected animals. Tu and colleagues reportedly tried it on themselves first, to check it was safe. The medicine, artemisinin, now treats malaria around the world. Tu shared the Nobel Prize in 2015.",
   "who": "Tu Youyou, a Chinese pharmacologist, and her research team",
   "when": "1969 to 1971, and the Nobel Prize in 2015",
-  "wrong_idea": "Herbal medicines were usually prepared by heating or boiling, so heated extracts of sweet wormwood gave uneven results and some people thought the herb was not useful. Tu's team found that the heat was spoiling the active part, and a gentler extraction worked."
+  "wrong_idea": "Herbal medicines were usually prepared by heating or boiling. Prepared this way, sweet wormwood gave uneven results, and some people thought the herb was not useful. Tu's team found that the heat was spoiling the active part, and a gentler extraction worked."
  },
  "roots": {
   "context": "We have dropped spinners again and again, found averages and ranges, and learned to say no more than the numbers say. Now we ask what the wobble in every measurement tells us about the world and about ourselves.",
   "deep_truth": {
-   "truth": "Drop the same spinner from the same hand five times and you get five different times. Nothing was changed, and still nothing repeated exactly. A measurement is not one exact number. It is a small spread of numbers, and the honest answer is the whole spread.",
+   "truth": "Drop the same spinner from the same hand five times and you get five different times, even though nothing was changed. A measurement is not one exact number. It is a small spread of numbers, and the honest answer gives the whole spread.",
    "habit": "We think a measured number is the true size of the thing, like a label stuck on it. But the number changes each time we measure, so what we really have is a spread.",
-   "evidence": "In the Paper Spinner test, the same spinner gave different times on every drop. The coin tosses gave different counts of heads in every set of ten. Only the average and the range described what was steady and what wobbled."
+   "evidence": "In the Paper Spinner test, the same spinner gave different times on every drop. In the Coin Wobble activity, the coin gave a different count of heads in every set of ten tosses. Only the average and the range described what was steady and what wobbled."
   },
   "three": {
-   "who_am_i": "Count your breaths for one minute, three times, and you will get three different numbers. You are not one number. You are a spread, and so is everything about you.",
+   "who_am_i": "Count your breaths for one minute, three times, and you will get three different numbers. No single number describes you exactly. Your breathing, like anything else that is measured about you, changes a little from one time to the next.",
    "what_is_life": "No two leaves, seeds or children are exactly alike. Living beings vary from one to the next, and that variety lets a kind of living being survive when the world changes.",
    "what_is_this_world": "Air moves, hands shake and tiny causes pile up. Exact sameness is rare in the world, so careful people measure many times."
   },
-  "thread": "Think of the five falls of the spinner. Each fall was the paper, the air in the room, your hand and your eye meeting for a moment. No two meetings were quite the same, because the room, the hand and the eye are always moving a little. One number from one meeting hides that. Many numbers show it. The world is not a row of identical copies. It is a crowd of things that are similar and never the same. The pattern we find is not one point. It is the shape of the crowd.",
+  "thread": "Think of the five drops of the spinner in the Paper Spinner test. Each time depended on the paper, the air in the room, the hand that dropped the spinner and the eye that timed it. These are always moving a little, so no two drops were quite the same. One number from one drop hides that. Many numbers show it. Things in the world are similar to each other, but never exactly the same. So the pattern we find is not one exact number. It is the shape of the whole spread of numbers.",
   "teachings": [
    {
     "source": "Udana 6.4 (Tittha Sutta)",
@@ -3259,11 +3259,11 @@
    {
     "source": "Bhagavad Gita 2.48",
     "teaching": "The Gita teaches evenness of mind in success and in failure, and calls this evenness yoga.",
-    "link": "A scientist who hopes for one answer can lean towards it. Staying even about whether the result is the hoped-for one helps the test stay honest."
+    "link": "A scientist who hopes for one answer can lean towards it. Staying calm, whether or not the result is the one you hoped for, helps the test stay honest."
    },
    {
     "source": "Analects of Confucius 2.17",
-    "teaching": "Confucius told his student that knowing means this: when you know something, to hold that you know it, and when you do not know something, to allow that you do not know it.",
+    "teaching": "Confucius told his student what knowing means: when you know something, say that you know it, and when you do not know something, admit that you do not know it.",
     "link": "A conclusion that says only what the results show follows this teaching. 'We cannot tell yet' is also knowledge."
    }
   ],

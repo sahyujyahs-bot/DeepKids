@@ -295,6 +295,16 @@
   "sci.forces.stretching-springs.L4",
   "sci.gravity.falling.L4",
   "sci.gravity.weight-and-mass.L4",
-  "sci.how-we-know.asking-questions.L4"
+  "sci.how-we-know.asking-questions.L4",
+  "sci.how-we-know.fair-tests.L4",
+  "sci.how-we-know.questioning-evidence.L4",
+  "sci.how-we-know.stories-of-discovery.L4",
+  "sci.light.colour.L4",
+  "sci.light.how-we-see.L4",
+  "sci.light.living-light.L4",
+  "sci.light.reflection.L4",
+  "sci.light.refraction.L4",
+  "sci.light.transparent-opaque.L4",
+  "sci.light.what-is-light.L4"
  ]
 }

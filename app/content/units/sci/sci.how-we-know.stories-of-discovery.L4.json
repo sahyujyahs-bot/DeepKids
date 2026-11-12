@@ -7,8 +7,8 @@
   "art": "A girl holding a strip of foil with a drop of water in a tiny hole over a newspaper photograph, with her grandmother looking over her shoulder."
  },
  "intro": {
-  "hook": "Imagine you tell your class that one drop of water holds living beings too small to see. You are the only person with a lens strong enough to look. Would your class believe you? Should they?",
-  "text": "In the 1670s this really happened. Antoni van Leeuwenhoek, a Dutch cloth seller, made tiny lenses and looked at water. The Royal Society in London, the most famous group of scientists of the time, did not believe what he wrote. A discovery is not finished when one person sees something. In this unit you make your own water-drop lens, find out if a stranger can follow your steps and see what you saw, and meet people whose ideas took years to be believed.",
+  "hook": "You tell your class that one drop of water holds living beings too small to see. You are the only person with a lens strong enough to look. Would your class believe you? Should they?",
+  "text": "In the 1670s this really happened to Antoni van Leeuwenhoek, a Dutch cloth seller. He made tiny lenses, looked at water and saw tiny living beings. The Royal Society in London, the most famous group of scientists of the time, did not believe what he wrote. A discovery is not finished when one person sees something. In this unit you make your own water-drop lens, find out if a stranger can follow your steps and see what you saw, and meet people whose ideas took years to be believed.",
   "art": "A cloth seller in a Dutch shop holding up a tiny lens on a metal plate to his eye, with bolts of cloth behind him."
  },
  "outcomes": [
@@ -124,7 +124,7 @@
    "concept": "A discovery is finished when others can repeat it",
    "status": "defined",
    "definition": "A discovery is not complete when one person sees something. It is complete when other people, following the same steps, can see it too.",
-   "description": "Suppose you see something nobody else has seen. Maybe you are right. But how would anyone know? You might have made a mistake, or been fooled by your own eyes, or been the only one with the right tool. So scientists ask for the steps. If other people follow your steps and get the same result, it stops being only yours and becomes shared knowledge. This is called repeating a test. In 1989 two chemists announced a way to make energy in a jar of water at room temperature. Labs around the world followed their steps and could not get the same result, and the claim was dropped.",
+   "description": "Suppose you see something nobody else has seen. Maybe you are right. But how would anyone know? You might have made a mistake, or been fooled by your own eyes, or been the only one with the right tool. So scientists ask for the steps. If other people follow your steps and get the same result, the result stops being only yours and becomes shared knowledge. This is called repeating a test. In 1989 two chemists announced a way to make energy in a jar of water at room temperature. Labs around the world followed their steps and could not get the same result, and the claim was dropped.",
    "examples": [
     "Anjana sees dots in a newspaper photograph. Her cousin follows her steps and sees them too.",
     "A friend gets a different answer from yours when following your steps. This tells you a step is unclear.",
@@ -165,8 +165,8 @@
   {
    "concept": "Tools open new worlds",
    "status": "defined",
-   "definition": "An instrument extends what our senses can reach. Each new tool shows us a layer of the world that we did not know was there.",
-   "description": "Our eyes cannot see things that are too small, too far away or too faint. In 1665 an English scientist, Robert Hooke, published drawings of a flea, a louse and the cells of cork, seen through a microscope with several lenses. He gave cells their name. Leeuwenhoek used a different design with just one very small and very good lens, strong enough to show living beings in water. Telescopes opened the sky in the same way. A new tool does not just add facts. It can show that something we thought empty, like a drop of water, is full. It also has limits. Every tool shows only what it was built to show, and it can add its own distortions, so people must learn how to read it.",
+   "definition": "An instrument is a tool that lets us see or measure what our senses cannot. Each new tool shows us a part of the world that we did not know was there.",
+   "description": "Our eyes cannot see things that are too small, too far away or too faint. In 1665 an English scientist, Robert Hooke, published drawings of a flea, a louse and the cells of cork, seen through a microscope with several lenses. He gave cells their name. Leeuwenhoek used a different design with just one very small and very good lens, strong enough to show living beings in water. Telescopes opened the sky in the same way. A new tool does not just add facts. It can show that something we thought was empty, like a drop of water, is full of life. Every tool also has limits. It shows only what it was built to show, and it can make things look a little different from how they really are, so people must learn how to read what it shows.",
    "examples": [
     "A microscope shows bacteria and single-celled beings in a drop of pond water.",
     "A telescope shows moons around Jupiter.",
@@ -194,7 +194,7 @@
    "concept": "An old idea that was wrong: life from rotting meat",
    "status": "defined",
    "definition": "Spontaneous generation was the idea that some living things appear from non-living things. Francesco Redi tested it for flies in 1668 and showed it was wrong.",
-   "description": "For thousands of years, many people believed that maggots were made by rotting meat. They saw maggots on meat again and again, so the idea seemed sensible. Redi, an Italian doctor, wondered if flies were laying eggs that people did not see. He put pieces of meat in several jars. Some jars stayed open. Some were sealed. Some were covered with a thin cloth that let the smell through but not the flies. Maggots appeared in the open jars. They did not appear on the meat in the sealed jars. On the cloth, flies laid eggs, but the maggots could not reach the meat. Redi's test was easy to repeat, and others did. A different version of the question, about microbes, was not settled until the 1860s, when Louis Pasteur showed that microbes in broth come from microbes in the air.",
+   "description": "For thousands of years, many people believed that maggots were made by rotting meat. They saw maggots on meat again and again, so the idea seemed sensible. Redi, an Italian doctor, wondered if flies were laying eggs that people did not see. He put pieces of meat in several jars. Some jars stayed open. Some were sealed. Some were covered with a thin cloth that let the smell through but not the flies. Maggots appeared in the open jars. They did not appear on the meat in the sealed jars. On the cloth, flies laid eggs, but the maggots could not reach the meat. Redi's test was easy to repeat, and others did. A different version of the question was about microbes, which are living things too small to see. It was not settled until the 1860s, when Louis Pasteur showed that microbes in broth come from microbes in the air.",
    "examples": [
     "Maggots on open meat come from fly eggs, not from the meat.",
     "Mould on bread grows from tiny spores in the air, not from the bread itself.",
@@ -212,7 +212,7 @@
    "examples": [
     "India was once part of Gondwana, and it moves north by about 5 centimetres a year.",
     "Glossopteris fossils are found in India, Africa, South America, Australia and Antarctica.",
-    "An idea with strong evidence but no mechanism can wait decades."
+    "An idea with strong evidence but no mechanism can wait decades to be believed."
    ],
    "perspectives": [],
    "art": "Today's map of the world with arrows showing the continents once joined into one landmass, with India next to Antarctica and Africa.",
@@ -221,10 +221,10 @@
   {
    "concept": "The woman who mapped the sea floor: Marie Tharp",
    "status": "defined",
-   "definition": "Many discoveries rest on people who collect measurements and draw them, not only on the person who gets the name. Marie Tharp is one example.",
+   "definition": "Many discoveries rest on people who collect measurements and draw them, not only on the person whose name is on the idea. Marie Tharp is one example.",
    "description": "In the 1950s, Marie Tharp worked at a research centre in New York. For years, women were not allowed on research ships, so she could not collect depth readings herself. She drew the maps from the numbers that others brought back. Along the middle of the Atlantic Ocean, she noticed a deep valley in the ridge. Her colleague Bruce Heezen at first thought she must be wrong, because a valley like that would fit the idea of moving continents, which he did not believe. Then he found that earthquakes lined up along the same valley. Together they made maps of the ocean floor that helped to convince scientists that the sea floor is spreading. Her story shows how a pattern can be seen by the person who looks at all the numbers, and how it can take time for even a colleague to believe it.",
    "examples": [
-    "A person who draws a map from thousands of depth numbers sees a pattern that none of the numbers show.",
+    "A person who draws a map from thousands of depth numbers sees a pattern that no single number shows.",
     "A colleague can doubt you and then change their mind when new evidence arrives.",
     "Credit often goes to the person who explains the pattern, and less to the person who drew it."
    ],
@@ -235,7 +235,7 @@
   {
    "concept": "Why wrong ideas are kept",
    "status": "idea",
-   "description": "Wrong ideas do not stay for no reason. They can seem sensible, as with maggots on meat. They may be taught by respected people, so doubting them feels rude. A good story can feel more satisfying than a plain fact. And sometimes nobody has done the simple test. Thinkers still argue about how much of this is human nature and how much is how groups of people work. It may be that we cannot avoid the first three, but we can build habits against them, such as asking 'who tested this?' and trying the test ourselves.",
+   "description": "Wrong ideas stay for reasons. They can seem sensible, as with maggots on meat. They may be taught by respected people, so doubting them feels rude. A good story can feel more satisfying than a plain fact. And sometimes nobody has done the simple test. Thinkers still argue about how much of this is human nature and how much is how groups of people work. We may not be able to stop wrong ideas from seeming sensible, from being taught by respected people or from making a good story. But we can build habits against them, such as asking 'who tested this?' and trying the test ourselves.",
    "examples": [
     "A teacher repeats a saying that nobody has ever tested.",
     "A nice story about a famous scientist spreads, though parts of it were added later.",
@@ -275,7 +275,7 @@
   {
    "concept": "Lone geniuses, or times that were ready?",
    "status": "debated",
-   "description": "Do discoveries come from rare, brilliant people, or from the times being ready? Thinkers disagree. Both views have examples. Many discoveries were made by several people at nearly the same time.",
+   "description": "Do discoveries come from rare, brilliant people? Or do they come when the tools, the questions and the knowledge of the time are ready? Thinkers disagree. Both views have examples. Many discoveries were made by several people at nearly the same time.",
    "examples": [
     "Charles Darwin and Alfred Russel Wallace each reached the idea of natural selection in the 1850s.",
     "Isaac Newton and Gottfried Leibniz each invented calculus, working apart."
@@ -295,13 +295,13 @@
     }
    ],
    "art": "Two scientists at desks in different countries, both writing the same idea in their notebooks, with a clock on the wall between them.",
-   "context": "This card is about a question people still argue over: do discoveries come from rare geniuses or from the times being ready?"
+   "context": "This card is about a question people still argue over: do discoveries come from rare geniuses, or do they come when the time is ready for them?"
   }
  ],
  "agreed": [
   {
    "text": "Light bends when it passes between air and water, and a curved water surface can make small things look bigger.",
-   "evidence": "Anyone can make a water-drop lens and see print grow. Measurements of how light bends at surfaces match the same rule for glass, water and the lens of the eye."
+   "evidence": "Anyone can make a water-drop lens and see print look bigger. Measurements show that light bends by the same rule in glass, in water and in the lens of the eye."
   },
   {
    "text": "The tiny living beings that Leeuwenhoek saw in water are real.",
@@ -309,7 +309,7 @@
   },
   {
    "text": "Flies come from eggs laid by flies, not from rotting meat.",
-   "evidence": "Redi's open, sealed and cloth-covered jars, repeated by many people, give maggots only where flies could lay eggs."
+   "evidence": "Many people have repeated Redi's test with open, sealed and cloth-covered jars. Maggots appear only where flies could lay eggs."
   },
   {
    "text": "The continents move very slowly on large plates, a few centimetres each year.",
@@ -345,7 +345,7 @@
    "claim": "A discovery counts as soon as someone first sees it.",
    "who": "Some textbooks",
    "for": "Someone had to be the first, and their seeing was real.",
-   "against": "If nobody else can repeat what the person saw, nobody can tell a discovery from a mistake. Leeuwenhoek was believed only after Hooke repeated the look in 1677.",
+   "against": "If nobody else can repeat what the person saw, nobody can tell a discovery from a mistake. Leeuwenhoek was believed only after Hooke looked for himself in 1677 and saw the same thing.",
    "status": "rejected",
    "context": "This card is about whether a discovery counts as soon as the first person sees it."
   },
@@ -353,7 +353,7 @@
    "claim": "People who held wrong ideas in the past were foolish.",
    "who": "A common idea",
    "for": "We know more now than people did then.",
-   "against": "The idea that maggots come from meat was sensible, because people saw it again and again. It took a clever test to separate the two stories. People in the past used the evidence they had, as we do.",
+   "against": "The idea that maggots come from meat was sensible, because people saw maggots on meat again and again. It took a clever test to tell apart the two ideas: that the meat makes the maggots, or that flies lay eggs on the meat. People in the past used the evidence they had, as we do.",
    "status": "rejected",
    "context": "This card is about the idea that people who believed wrong things in the past were foolish."
   },
@@ -635,7 +635,7 @@
        ]
       }
      ],
-     "parent": "On the Redi road, steps 4 and 5 are close. Step 4 is the first simple result, and step 5 is the finer one. Accept either order if your child can explain it. The backs say how the steps join.",
+     "parent": "On the Redi road, steps 4 and 5 are easy to mix up. Step 4 is about the open jar and the sealed jar. Step 5 is about the cloth-covered jar. Accept either order if your child can explain it. The back of each card gives the reason for its step.",
      "context": "In this step, you put the other three roads in order and score the cards."
     },
     {
@@ -643,7 +643,7 @@
      "mins": 2,
      "do": "Ask your child what all four roads had in common. Look for a step where someone doubted and a step where others checked.",
      "say": "What step is on every road? Look for a step where someone doubted, and a step where others checked.",
-     "kid": "What step is on all four roads? Find doubt and finding out.",
+     "kid": "Which step is on all four roads? Look for a step where someone doubted, and a step where others checked.",
      "ask": [
       {
        "q": "What did all four roads have in common?",
@@ -693,7 +693,7 @@
       },
       {
        "f": "A shadow is shortest around midday.",
-       "b": "Check: stand a pencil in clay on a sunny sill. Mark the tip of the shadow every hour. The shortest shadow is around midday, though the Sun's noon can be up to an hour from the clock's noon in some towns."
+       "b": "Check: stand a pencil in clay on a sunny sill. Mark the tip of the shadow every hour. The shortest shadow is around midday. In some towns it comes up to an hour before or after 12 o'clock."
       },
       {
        "f": "Salt makes ice melt faster.",
@@ -717,7 +717,7 @@
       },
       {
        "f": "Moong seeds sprout in the dark as well as in the light.",
-       "b": "Check: put damp soaked moong in two cloths, one on a shelf and one in a dark cupboard. After two days, both have sprouts."
+       "b": "Check: wrap soaked moong in two damp cloths. Put one on a shelf and one in a dark cupboard. After two days, both have sprouts."
       },
       {
        "f": "A raw egg floats in very salty water but sinks in plain water.",
@@ -805,7 +805,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Play more rounds, swapping roles each time. Do the check where you have the things at home. Score as in the rules.",
-     "say": "Draw a claim and a question. Discoverer, say the steps. Doubter, listen, and try to follow them exactly.",
+     "say": "Take a claim card and a Doubter card. Discoverer, say the steps. Doubter, listen, and try to follow them exactly.",
      "kid": "Take turns. Say clear steps. Try the check.",
      "ask": [
       {
@@ -816,7 +816,7 @@
        ]
       }
      ],
-     "parent": "If a check needs a thing you do not have, say the steps aloud and check the back. It is fine to do only some of the checks. Safety: a grown-up lowers the egg and handles ice and hot or cold water.",
+     "parent": "If a check needs a thing you do not have, say the steps aloud and then read the back of the card. It is fine to do only some of the checks. Safety: a grown-up lowers the egg and handles ice and hot or cold water.",
      "context": "In this step, you play several rounds and try the checks."
     },
     {
@@ -847,8 +847,8 @@
    "mins": 45,
    "days": 1,
    "context": "In this experiment, you make three water-drop lenses with holes of different sizes and count the dots in a newspaper photograph through each one. Then you write your steps and give them to a second person, who tries the same thing from your words alone.",
-   "question": "Which size of hole shows the fewest dots across the circle, which means the strongest magnifying? And can a second person who has only your written steps get the same order of lenses?",
-   "predict": "Before you start, guess. Which hole will make the dots look biggest, the small one or the big one? Do you think a second person will get the same order from your steps? Why do you think so?",
+   "question": "Which size of hole shows the fewest dots across the circle? The fewer the dots, the more the lens magnifies. And can a second person, who has only your written steps, put the three lenses in the same order?",
+   "predict": "Before you start, guess. Which hole will make the dots look biggest, the small one or the big one? Will a second person, using only your written steps, put the lenses in the same order as you? Why do you think so?",
    "fair_test": "We use the same newspaper photograph, the same patch of the picture, the same kind of water drop and the same stack of coins every time. We count the dots in the same way. Only the size of the hole changes. When the second person does it, they use fresh foil and only the written steps, and we do not help them.",
    "results_table": [
     "Hole",
@@ -904,16 +904,16 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Tell the story of Leeuwenhoek and his lens in a few words. Ask for a guess and a reason. Write both at the top of the page.",
+     "do": "Tell the story of Leeuwenhoek and his lens in a few words. Ask your child to guess which hole will make the dots look biggest, and to give a reason. Write both at the top of the page.",
      "say": "A cloth seller in the 1670s looked at water through a tiny lens and saw living beings. Nobody else could check. We will make our own lens and count dots in a newspaper picture. Which hole will make the dots look biggest? Why?",
      "kid": "You will make three water lenses. Which hole makes the dots look biggest? Why?",
      "ask": [
       {
-       "q": "Why do you think a smaller or bigger hole will make the dots look bigger?",
+       "q": "Which hole do you think will make the dots look bigger, the smaller one or the bigger one? Why?",
        "good": [
         "A smaller drop is rounder, so it bends more light.",
         "A bigger drop shows more, so it should be stronger.",
-        "I do not know, we will count."
+        "I do not know, so we will count."
        ]
       }
      ],
@@ -927,7 +927,7 @@
      "say": "We make three holes of three sizes. A is the pinhole. B is the pencil hole. C is the pen hole. Write the letters on the strips.",
      "kid": "Make three foil strips with three holes. Write A, B and C on them.",
      "adult": true,
-     "parent": "The pencil and pen holes will have rough edges. Press the burrs flat with your thumb. The holes are about 1 millimetre, 2 millimetres and 3 to 4 millimetres across. Measure each to the nearest half millimetre against a ruler if you can.",
+     "parent": "The pencil and pen holes will have rough edges. Press the rough bits flat with your thumb. The holes are about 1 millimetre, 2 millimetres and 3 to 4 millimetres across. Measure each to the nearest half millimetre against a ruler if you can.",
      "context": "In this step, you make the three foil lenses."
     },
     {
@@ -971,10 +971,10 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Give the second person the steps, three fresh foil strips and the other things. Sit on your hands and say nothing. Watch where they get stuck and note it. They count the dots in the same way and write their numbers.",
+     "do": "Give the second person the written steps, three fresh foil strips, the toothpick, the water, the coins and the newspaper photograph. Sit on your hands and say nothing. Watch where they get stuck and note it. They count the dots in the same way and write their numbers.",
      "say": "Please follow the steps exactly. I will not help. Count the dots through each hole and write the numbers in the last column.",
      "kid": "Give a stranger only your steps. Do not help. Watch where they get stuck.",
-     "parent": "Resist helping. If you speak, the steps are not carrying the test any more. Write down each place where they stop or ask a question. Those are the steps to fix.",
+     "parent": "Resist helping. If you speak, you are doing the job that the written steps should do. Write down each place where the second person stops or asks a question. Those are the steps to fix.",
      "context": "In this step, a second person follows your written steps while you watch."
     },
     {
@@ -1017,7 +1017,7 @@
    ],
    "example_chart": {
     "type": "bar",
-    "title": "Anjali's water-drop lenses: dots across the circle, first person and second person (made-up example)",
+    "title": "Water-drop lenses: dots across the circle, first person and second person (made-up example)",
     "x": "Hole and person",
     "y": "Dots across the circle",
     "data": [
@@ -1154,7 +1154,7 @@
        ]
       }
      ],
-     "parent": "Do not tell your child what you expect. The fruit flies of a kitchen usually come within 2 to 5 days in warm weather. If the kitchen is cold or very clean, they may take longer. Keep the jars out of the sun so the lid jar does not get hot.",
+     "parent": "Do not tell your child what you expect. Fruit flies usually come to a kitchen within 2 to 5 days in warm weather. If the kitchen is cold or very clean, they may take longer. Keep the jars out of the sun so the lid jar does not get hot.",
      "context": "This is day 1 of Redi's Jars. You fill the jars, cover them and guess."
     },
     {
@@ -1193,7 +1193,7 @@
        ]
       }
      ],
-     "parent": "Redi saw that flies laid eggs on the gauze, and few young reached the meat. If your cloth jar has a few maggots, check whether the cloth had a gap or was thin. Report what you saw. Mould can grow in the lid jar too, and that is because mould starts from tiny spores already on the fruit, which is a separate story.",
+     "parent": "Redi saw that flies laid eggs on the gauze, and few young reached the meat. If your cloth jar has a few maggots, check whether the cloth had a gap or was thin. Report what you saw. Mould can grow in the lid jar too. Mould starts from tiny spores already on the fruit, so it is a separate matter from the flies.",
      "context": "In this last step, you compare the three jars and decide what they show."
     }
    ],
@@ -1213,7 +1213,7 @@
    ],
    "example_chart": {
     "type": "bar",
-    "title": "Divya's jars: number of flies seen near each jar over five days (made-up example)",
+    "title": "Redi's Jars: number of flies seen near each jar over five days (made-up example)",
     "x": "Jar",
     "y": "Flies counted in total",
     "data": [
@@ -1242,7 +1242,7 @@
    "title": "The Doubt Round: doubting kindly, and checking",
    "mins": 18,
    "days": 1,
-   "context": "In this activity, a grown-up makes a surprising claim in a very sure voice. Your child practises doubting it kindly by asking for steps and then checks it with paper. You find out what a claim can and cannot say.",
+   "context": "In this activity, a grown-up makes a surprising claim in a very sure voice. Your child practises doubting it kindly by asking questions, and then checks it by folding paper. You find out what the claim gets right and what it leaves out.",
    "materials": [
     {
      "item": "4 sheets of ordinary notebook paper or printer paper, all the same size",
@@ -1270,19 +1270,19 @@
      "id": "s1",
      "mins": 5,
      "do": "Say in a very sure voice: you cannot fold a sheet of paper in half more than seven times. Ask your child to doubt this kindly. Offer four starter questions on a card.",
-     "say": "You cannot fold a sheet of paper in half more than seven times. Everyone knows it. Now doubt it kindly. You may ask: can I try it? What would show you wrong? Did you do it yourself?",
-     "kid": "Doubt the claim kindly. Ask: Can I try it? What would show you wrong?",
+     "say": "You cannot fold a sheet of paper in half more than seven times. Everyone knows it. Now doubt it kindly. You may ask: can I try it? What would show that you are wrong? Did you do it yourself?",
+     "kid": "Doubt the claim kindly. Ask: Can I try it? What would show that you are wrong?",
      "ask": [
       {
        "q": "What kind question could you ask before you believe this?",
        "good": [
         "Can I try it myself?",
         "Did you try it, or did you hear it?",
-        "What would show you wrong?"
+        "What would show that you are wrong?"
        ]
       }
      ],
-     "parent": "Stay a little stiff and sure at first, so your child must ask. Then say: yes, try it. A doubter who asks to try is doing what the Royal Society asked of Leeuwenhoek.",
+     "parent": "Sound very sure at first, so your child has to ask. Then say: yes, try it. A doubter who asks to try is doing what the Royal Society asked of Leeuwenhoek.",
      "context": "This is the first step of the Doubt Round. You hear a sure claim and practise doubting it kindly."
     },
     {
@@ -1292,13 +1292,13 @@
      "say": "Fold the sheet in half. Press the crease. Fold it again. Count each fold out loud. Stop when you cannot fold it flat.",
      "kid": "Fold the paper in half again and again. Count each fold. Stop when you cannot fold.",
      "wait": "Each sheet takes about a minute.",
-     "parent": "Most notebook sheets stop at 6 or 7 folds. A big, thin newspaper sheet may reach 7 or 8. Write down every sheet, even if it is different from the others. If there are differences between sheets, that is itself a finding.",
+     "parent": "Most notebook sheets stop at 6 or 7 folds. A big, thin newspaper sheet may reach 7 or 8. Write down the number of folds for every sheet, even if one is different from the others. A difference between sheets is itself a finding.",
      "context": "In this step, you test the claim with paper."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask your child what the test showed about the claim. Then tell the Gallivan story from the parent note. Ask whether the claim was right, wrong or half right.",
+     "do": "Ask your child what the test showed about the claim. Then tell the story of Britney Gallivan from the parent note. Ask whether the claim was right, wrong or half right.",
      "say": "What did your folds show? Was the claim right, wrong or half right? What did the claim leave out?",
      "kid": "What did your folds show? Was the claim right, wrong, or half right?",
      "check": {
@@ -1363,7 +1363,7 @@
      "what": "Trace the coasts, fit them, sort the evidence slips, and decide how strong the case is."
     }
    ],
-   "record": "Draw your fitted coasts. Under it, write the five evidence slips in two lists: for the idea, and against it. Write one sentence on what you would need to be sure.",
+   "record": "Draw your fitted coasts. Under the drawing, write the five evidence slips in two lists: for the idea, and against it. Write one sentence on what you would need to be sure.",
    "flow": [
     {
      "id": "s1",
@@ -1381,7 +1381,7 @@
        ]
       }
      ],
-     "parent": "A grown-up helps to cut cleanly. Today's best fits use the edge of the continental shelf, under the sea, and not the line of the beach. Your shapes will not fit perfectly, and that is worth a talk. A fit is a clue, and a clue is not a proof.",
+     "parent": "A grown-up helps to cut cleanly. Scientists today get the best fit by using the edge of each continent under the sea, called the continental shelf, and not the line of the beach. Your shapes will not fit perfectly, and that is worth talking about. A fit is a clue, and a clue is not a proof.",
      "context": "This is the first step of Fit the Coasts. You trace two continents and try to fit them."
     },
     {
@@ -1407,8 +1407,8 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Ask your child which slip made Wegener's critics reluctant, and what had to happen for them to change their minds. Write one sentence on what you would need to be sure.",
-     "say": "Which slip made people doubt Wegener? What new evidence would you need to be sure? How does your fit compare with a real proof?",
+     "do": "Ask your child which slip made people doubt Wegener, and what had to happen for them to change their minds. Write one sentence on what you would need to be sure.",
+     "say": "Which slip made people doubt Wegener? What new evidence would you need to be sure? Is the fit of your two paper shapes a proof, or only a clue?",
      "kid": "Which slip made people doubt Wegener? What new evidence would help?",
      "ask": [
       {
@@ -1470,15 +1470,15 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Say the first story. Leeuwenhoek told London about his tiny creatures around 1674, and Hooke and others repeated the look in 1677. That is about 3 years. Cut a 3 centimetre piece of string and label it.",
-     "say": "Leeuwenhoek told London about his tiny creatures around 1674. Others repeated the look in 1677. How many years is that? Cut a piece of string, one centimetre for each year.",
+     "do": "Tell the first story. Leeuwenhoek told London about his tiny creatures around 1674, and Hooke and others looked for themselves and saw the same creatures in 1677. That is about 3 years. Cut a 3 centimetre piece of string and label it.",
+     "say": "Leeuwenhoek told London about his tiny creatures around 1674. Others looked for themselves and saw the same creatures in 1677. How many years is that? Cut a piece of string, one centimetre for each year.",
      "kid": "Leeuwenhoek: 1674 to 1677. How many years? Cut that many centimetres of string.",
      "context": "This is the first step of A String of Years. You cut a string for Leeuwenhoek's wait."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Say the second story. Wegener put forward his idea in 1912, and it was accepted in the 1960s. That is about 50 years. Cut a 50 centimetre piece and label it. Hold it next to the first.",
+     "do": "Tell the second story. Wegener put forward his idea in 1912, and it was accepted in the 1960s. That is about 50 years. Cut a 50 centimetre piece and label it. Hold it next to the first.",
      "say": "Wegener put forward his idea in 1912. It was accepted in the 1960s. About how many years is that? Cut the string and compare.",
      "kid": "Wegener: 1912 to the 1960s. About 50 years. Cut 50 centimetres of string.",
      "parent": "The exact date is a matter of opinion, because acceptance came step by step through the 1960s. About 50 years is a fair round figure, so cut 50 centimetres.",
@@ -1487,7 +1487,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Say the third story. Redi showed in 1668 that flies do not come from meat. The wider idea that microbes arise from non-living broth was settled by Pasteur in the 1860s. That is about 190 years. Cut a string about 190 centimetres long, which is nearly two metres, and stretch it across the floor.",
+     "do": "Tell the third story. Redi showed in 1668 that flies do not come from meat. The wider question, whether microbes appear on their own in broth, was settled by Pasteur in the 1860s. That is about 190 years. Cut a string about 190 centimetres long, which is nearly two metres, and stretch it across the floor.",
      "say": "Redi tested flies in 1668. The same idea for microbes was settled in the 1860s. About how many years is that? Cut the string and stretch it out.",
      "kid": "Redi to Pasteur: 1668 to the 1860s. About 190 years. Cut a string that long.",
      "check": {
@@ -1499,7 +1499,7 @@
        "Wegener lived in a cold country"
       ],
       "a": 0,
-      "why": "A claim that can be repeated quickly is accepted quickly. Wegener's idea needed measurements of the deep sea floor, which did not exist yet. A wrong pick usually means the child looked for a reason about the people and not about how checkable the claim was."
+      "why": "A claim that can be repeated quickly is accepted quickly. Wegener's idea needed measurements of the deep sea floor, which did not exist yet. A wrong pick usually means the child looked for a reason about the people and not about how easy the claim was to check."
      },
      "ask": [
       {
@@ -1685,8 +1685,8 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "Soak 2 tablespoons of moong in water for 6 to 8 hours. Drain them. Split them between two cloths. Put one in a bowl on a window sill and one in a bowl in a dark cupboard. Wet both cloths lightly. Write the date and a drawing of the seeds in the notebook.",
-     "say": "Merian watched caterpillars change for years and drew every stage. We will watch moong seeds. Will the seeds in the dark sprout? Will they look different from the ones in the light? Why do you think so?",
+     "do": "Soak 2 tablespoons of moong in water for 6 to 8 hours. Drain them. Split them between two cloths. Put one in a bowl on a window sill and one in a bowl in a dark cupboard. Wet both cloths lightly. Write the date in the notebook and draw the seeds.",
+     "say": "Maria Sibylla Merian watched caterpillars change for years and drew every stage. We will watch moong seeds. Will the seeds in the dark sprout? Will they look different from the ones in the light? Why do you think so?",
      "kid": "Soak moong seeds. Put half in the light and half in the dark. Draw them.",
      "ask": [
       {
@@ -1708,7 +1708,7 @@
      "say": "Rinse gently. Look closely at each bowl. Measure the three longest sprouts. Draw what you see. Write one sentence about what changed.",
      "kid": "Rinse the seeds. Measure three sprouts in each bowl. Draw. Write the date.",
      "wait": "Do this on days 2 to 6, about seven minutes each day.",
-     "parent": "Measure in millimetres, from the seed to the tip of the sprout. Write the same three sprouts if you can tell them apart. Draw what you see, even on days when little changes. Dated pages are what make a notebook useful to a stranger.",
+     "parent": "Measure in millimetres, from the seed to the tip of the sprout. Measure the same three sprouts each day if you can tell them apart. Draw what you see, even on days when little changes. Dated pages are what make a notebook useful to a stranger.",
      "context": "In this step, you look, measure and draw once a day."
     },
     {
@@ -1752,7 +1752,7 @@
    "id": "c1",
    "title": "The Size Card: report how big something looks, so anyone can check",
    "mins": 35,
-   "problem": "Look at three tiny things through your water-drop lens. Make a card that tells someone far away how big each thing looks, using only everyday things for comparison, so that they can draw it to scale without seeing it.",
+   "problem": "Look at three tiny things through your water-drop lens. Make a card that tells someone far away how big each thing looks, using only everyday things for comparison, so that they can draw each one at the right size without seeing it.",
    "constraints": [
     "Use your own water-drop lens from the experiment, or a magnifying glass.",
     "Describe each thing by comparing it with something else, not with a number alone.",
@@ -1767,11 +1767,11 @@
    ],
    "general": [
     "Look at the grain of salt through your lens. Say how much of the circle it fills, for example 'half the circle'.",
-    "Compare with a second thing: 'a grain of salt looks as wide as a sesame seed looks to your eye alone'.",
-    "Draw the circle with the thing drawn inside it, with the fraction of the circle labelled."
+    "Compare it with a second thing: 'through the lens, a grain of salt looks as wide as a sesame seed looks without a lens'.",
+    "Draw the circle with the thing inside it. Write beside it how much of the circle the thing fills."
    ],
    "creative": [
-    "Make a ladder of the three things, from the smallest to the biggest, using only comparisons.",
+    "Put the three things in order, from the smallest to the biggest, using only comparisons.",
     "Add a scale bar on the card: a short line that stands for 'one grain of rice'.",
     "Make the card for a younger child by using only pictures and the words 'bigger' and 'smaller'."
    ],
@@ -1780,7 +1780,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Tell your child that Leeuwenhoek had no ruler fine enough. So he compared sizes with a grain of sand and the width of a hair. Ask why he did not just give numbers.",
+     "do": "Tell your child that Leeuwenhoek had no ruler fine enough to measure tiny creatures. So he compared their sizes with a grain of sand and the width of a hair. Ask why he did not just give numbers.",
      "say": "Leeuwenhoek compared the tiny creatures to a grain of sand and the width of a hair. Why do you think he used things like that, instead of a number?",
      "kid": "Leeuwenhoek compared sizes to a grain of sand. Why not use a number?",
      "ask": [
@@ -1813,14 +1813,14 @@
      "kid": "A stranger draws from your card. Compare it with the real thing.",
      "check": {
       "t": "mcq",
-      "q": "A card says a grain of salt fills half the circle and is as wide as a sesame seed looks to the naked eye. What makes this card useful to a stranger?",
+      "q": "A card says a grain of salt fills half the circle and is as wide as a sesame seed looks without a lens. What makes this card useful to a stranger?",
       "options": [
        "It compares the size with things the reader knows, and gives a fraction",
        "It uses long words",
        "It has a beautiful drawing"
       ],
       "a": 0,
-      "why": "A comparison with familiar things and a fraction of the circle let the reader draw it without seeing it. A wrong pick usually means the child valued how the card looked and not how it carried the information."
+      "why": "A comparison with familiar things and a fraction of the circle let the reader draw it without seeing it. A wrong pick usually means the child valued how the card looked and not what it told the reader."
      },
      "context": "In this last step, a stranger draws from your card and you compare."
     }
@@ -1857,7 +1857,7 @@
      "t": "mcq",
      "p": "A girl sees something new through her lens, but nobody else can see it. What does she need before others will believe it?",
      "opts": [
-      "To tell it louder",
+      "To say it louder",
       "Clear steps that others can follow to see the same thing",
       "A famous teacher",
       "A bigger lens"
@@ -1867,7 +1867,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Maya says: a discovery is finished the moment one person sees something new. Is she right?",
+     "p": "True or false: a discovery is finished the moment one person sees something new.",
      "a": false,
      "why": "False. The person may have made a mistake or been fooled. A discovery is finished when others can repeat it."
     },
@@ -1973,7 +1973,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Imran says: in a jar of banana with a tight lid, maggots appeared, so the banana must make them. Does the test show this?",
+     "p": "True or false: if maggots appear in a jar of banana with a tight lid, the banana must have made them.",
      "a": false,
      "why": "False. If maggots appear only in jars that flies can reach, the maggots came from flies. A jar with a tight lid shows no maggots if no fly got in.",
      "how": "e2"
@@ -1995,7 +1995,7 @@
       "Others repeat the test and agree",
       "The finding is accepted as knowledge"
      ],
-     "why": "A discovery begins with a noticing, travels with clear steps, meets doubt, and is settled when others repeat it."
+     "why": "A discovery begins when someone notices something. It is shared through clear steps, meets doubt, and is settled when others repeat it."
     },
     {
      "t": "write",
@@ -2035,7 +2035,7 @@
      ],
      "ask": "Which friend do you agree with more? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sees that others need a way to check, and that steps are what carry a discovery. It also gives Nila her due: her seeing is real and a good reason to share the steps.",
+     "a": "A strong answer sees that others need a way to check, and that steps are what carry a discovery. It is also fair to Nila: her seeing is real and a good reason to share the steps.",
      "why": "Marks go for using the idea of repeating and for being fair to the other friend."
     },
     {
@@ -2060,7 +2060,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Why did most geologists reject the idea of drifting continents in 1912?",
+     "p": "Why did most geologists reject Alfred Wegener's idea of drifting continents in 1912?",
      "opts": [
       "Nobody had a map",
       "He could not name a force strong enough to move continents, and he was not a geologist",
@@ -2079,7 +2079,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Tara says: scientists today can measure that India is still moving, a few centimetres each year. Is she right?",
+     "p": "True or false: scientists today can measure that India is still moving, a few centimetres each year.",
      "a": true,
      "why": "True. Satellites measure the movement of the plates directly."
     },
@@ -2137,7 +2137,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Good ideas can wait for a mechanism and an insider. Wrong ideas can stay because nobody tested them, respected voices repeated them, or the story was nice."
+     "why": "Good ideas can be rejected because nobody knows how they could work, because they come from an outsider, or because they go against what experts believe. Wrong ideas can stay because nobody tested them, respected voices repeated them, or the story was nice."
     },
     {
      "t": "write",
@@ -2210,7 +2210,7 @@
      ],
      "ask": "Which friend do you agree with more? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sees that honest people can make mistakes, so claims need checking whoever makes them. It also gives Dev his due: Leeuwenhoek was right, and a good doubter should help to check and not simply refuse.",
+     "a": "A strong answer sees that honest people can make mistakes, so claims need checking whoever makes them. It is also fair to Dev: Leeuwenhoek was right, and a good doubter should help to check and not simply refuse.",
      "why": "Marks go for being fair to both views."
     },
     {
@@ -2250,7 +2250,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Rani says: written steps can carry every skill from one person to another. Is she right?",
+     "p": "True or false: written steps can carry every skill from one person to another.",
      "a": false,
      "why": "False. Some skills, such as making a good water drop or kneading dough, are learned best by watching and doing."
     },
@@ -2348,7 +2348,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Lila says: a result that two labs on different continents get is stronger evidence than a result that one lab gets twice. Is she right?",
+     "p": "True or false: a result that two labs on different continents get is stronger evidence than a result that one lab gets twice.",
      "a": true,
      "why": "True. If different people in different places agree, a hidden problem in one place is unlikely to have fooled everyone."
     },
@@ -2427,7 +2427,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each fix answers a way a discovery can fail to win belief."
+     "why": "Each fix deals with one reason why a discovery may not be believed."
     },
     {
      "t": "mcq",
@@ -2443,7 +2443,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Omar says: if two people see slightly different details through the same lens, the finding must be false. Is he right?",
+     "p": "True or false: if two people see slightly different details through the same lens, the finding must be false.",
      "a": false,
      "why": "False. Hands, drops and eyes differ. What matters is whether they agree on the main finding."
     },
@@ -2575,7 +2575,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the cloth-covered jar, flies landed and laid eggs on the cloth, but no maggots got into the banana. Why is this important?",
+   "p": "In the Redi's Jars test with banana, flies landed and laid eggs on the cloth of the cloth-covered jar, but no maggots got into the banana. Why is this important?",
    "opts": [
     "The smell got through the cloth, so smell alone does not make maggots",
     "The cloth made flies",
@@ -2635,7 +2635,7 @@
    "status": "find-id",
    "mins": 5,
    "why": "To see how a single tiny lens was made and what the first people saw through it.",
-   "check": "Not yet found. Find one made for children, watch it, and check that it says Hooke and others repeated the look."
+   "check": "Not yet found. Find one made for children, watch it, and check that it says Hooke and others looked for themselves and saw the same creatures."
   },
   {
    "title": "How to make a water-drop microscope",
@@ -2659,7 +2659,7 @@
  "applications": [
   "Doctors use microscopes to find the tiny beings that cause malaria and other illnesses in a drop of blood.",
   "Spectacles, cameras and binoculars all use lenses that bend light, as a water drop does.",
-  "Medicines are tested again by different teams before they are approved, so a result must be repeatable.",
+  "Medicines are tested again by different teams before they are approved, because a result must be one that others can repeat.",
   "Weather stations in India use standard instruments so that readings from different places can be compared.",
   "Recipe cards, building plans and instruction sheets are methods that a stranger can follow.",
   "Scientific journals ask authors to describe their methods so that others can repeat the work.",
@@ -2694,7 +2694,7 @@
    "art": "A girl trying on spectacles in a shop while an optician holds up a card of letters."
   },
   {
-   "text": "Flies gathering on an uncovered fruit seller's basket in the market.",
+   "text": "Flies gathering on a fruit seller's uncovered basket in the market.",
    "art": "A fruit seller's basket of bananas with several flies on the top fruit."
   },
   {
@@ -2717,7 +2717,7 @@
   },
   {
    "q": "What are we missing today because nobody has a tool to see it?",
-   "why_open": "Every new tool has shown something that was hidden before. By that history, there are probably things around us that we cannot see yet. Nobody knows what."
+   "why_open": "Every new tool has shown something that was hidden before. So there are probably things around us that we cannot see yet. Nobody knows what."
   },
   {
    "q": "How can we make sure that the people who did the work get named?",
@@ -2784,7 +2784,7 @@
  ],
  "maths": [
   {
-   "problem": "In a water-drop lens test, hole A showed 2 dots across the circle and hole C showed 6 dots across. How many times as wide a patch of the picture is seen through C as through A? What does this say about which lens magnifies more, and by how many times?",
+   "problem": "In a Water-Drop Lens test, hole A showed 2 dots across the circle and hole C showed 6 dots across. How many times as wide is the patch of the picture seen through C as the patch seen through A? Which lens magnifies more, and about how many times more?",
    "answer": "3 times as wide. Lens A magnifies about 3 times more than lens C.",
    "explain": "6 divided by 2 is 3. Through C you see 3 times as wide a patch. If a lens shows a narrower patch, each dot looks bigger. So A magnifies about 3 times as much as C.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
@@ -2793,7 +2793,7 @@
    "why_maths": "A ratio of the counts tells you how much stronger one lens is than another without needing a ruler."
   },
   {
-   "problem": "In the Water-Drop Lens test, your counts for holes A, B and C were 2, 3 and 6. A second person, using only your steps, got 2, 4 and 6. How far apart are the two sets of counts for each hole, and in total? Do the two sets agree about the order of the holes?",
+   "problem": "In the Water-Drop Lens test, your counts for holes A, B and C were 2, 3 and 6. A second person, using only your steps, got 2, 4 and 6. What is the difference between the two counts for each hole, and what do the differences add up to? Do the two sets agree about the order of the holes?",
    "answer": "The differences are 0, 1 and 0, which is 1 in total. Yes, both put A first, B second and C third.",
    "explain": "Hole A: 2 and 2 differ by 0. Hole B: 3 and 4 differ by 1. Hole C: 6 and 6 differ by 0. The total is 1. Both people find A has the fewest dots and C the most, so they agree on the order. Small differences are normal when two people hold a drop.",
    "math_unit": "math.addition-subtraction.mental-strategies.L4",
@@ -2811,7 +2811,7 @@
    "why_maths": "Dividing one wait by another turns two lengths of string into a clear comparison of how much longer the second one took."
   },
   {
-   "problem": "Redi tested flies in 1668. The question about microbes was settled by Pasteur in 1862. At one centimetre of string for each year, how long is that string in centimetres, and in metres and centimetres? About how many 50-centimetre Wegener strings would fit along it?",
+   "problem": "Redi tested flies in 1668. The question about microbes was settled by Pasteur in 1862. At one centimetre of string for each year, how long is that string in centimetres, and in metres and centimetres? The string for Wegener's wait is 50 centimetres long. About how many Wegener strings would fit along it?",
    "answer": "194 centimetres, which is 1 metre and 94 centimetres. About 4 Wegener strings.",
    "explain": "1862 minus 1668 is 194 years, so 194 centimetres. 100 centimetres make 1 metre, so that is 1 metre and 94 centimetres. 194 divided by 50 is a bit less than 4, so about 4 strings of 50 centimetres.",
    "math_unit": "math.length.standard-units-length.L4",
@@ -2831,7 +2831,7 @@
   {
    "problem": "In a Redi's Jars test, the flies counted near the open jar on five days were 0, 2, 5, 6 and 4. Near the cloth jar they were 0, 1, 2, 2 and 1. The lid jar had none. What are the totals? How many more flies were near the open jar than the cloth jar? About how many times as many?",
    "answer": "Open: 17. Cloth: 6. Lid: 0. Eleven more near the open jar, about 3 times as many.",
-   "explain": "0 + 2 + 5 + 6 + 4 is 17. 0 + 1 + 2 + 2 + 1 is 6. 17 minus 6 is 11. 17 divided by 6 is a bit under 3. So about 3 times as many flies came to the open jar than to the cloth jar, and none to the lid jar.",
+   "explain": "0 + 2 + 5 + 6 + 4 is 17. 0 + 1 + 2 + 2 + 1 is 6. 17 minus 6 is 11. 17 divided by 6 is a bit under 3. So about 3 times as many flies came to the open jar as to the cloth jar, and none to the lid jar.",
    "math_unit": "math.data.reading-data.L4",
    "how": "e2",
    "context": "In Redi's Jars, you count flies near three jars of banana over five days.",
@@ -2844,7 +2844,7 @@
    "math_unit": "math.length.kilometres-and-conversions.L4",
    "how": "a2",
    "context": "In Fit the Coasts, you learn that the continents move slowly, a few centimetres each year, and that India was once part of the old southern continent.",
-   "why_maths": "Multiplying a tiny yearly movement by a long time shows why Wegener's idea was hard to see, yet true."
+   "why_maths": "Multiplying a tiny yearly movement by a long time shows why nobody could see the continents moving, though Wegener was right that they do."
   },
   {
    "problem": "In a made-up sprout notebook, the longest sprouts in the light bowl were 3 millimetres on day 2 and 27 millimetres on day 6. In the dark bowl they were 4 and 34. How much did each bowl grow between day 2 and day 6? Which grew more, and by how much?",
@@ -2974,7 +2974,7 @@
    "a": "Can I try it myself?"
   },
   {
-   "q": "Who else is often left out of a discovery's story?",
+   "q": "Who is often left out of the story of a discovery?",
    "a": "People who gather data, draw maps and build instruments."
   }
  ],
@@ -3052,23 +3052,23 @@
   ]
  },
  "roots": {
-  "context": "We found that Anjana's dots became knowledge only when others could see them too. Now we ask what this tells us about how people come to know anything together.",
+  "context": "In the story The Dots in the Newspaper, Anjana saw dots in a newspaper photograph. The dots became something everyone knew only when others followed her steps and saw them too. Now we ask what this tells us about how people come to know things together.",
   "deep_truth": {
-   "truth": "In the lens test, one person saw the dots first, and then others saw them by following written steps. A discovery is not finished when one person sees something. It is finished when the steps are clear enough for someone else to see it too. So knowing is something people build together, out of steps that anyone can follow.",
-   "habit": "We picture a discovery as a lonely flash in one clever person's head. That picture leaves out the steps, the doubters and the people who repeated the test, and these are where the knowing actually happens.",
-   "evidence": "In your water-drop test, the second person counted dots using only your written steps. Where the steps were clear, the two of you agreed. Where they were not, the numbers drifted apart until you fixed the step."
+   "truth": "In the Water-Drop Lens experiment, one person saw the dots first, and then others saw them by following written steps. A discovery is not finished when one person sees something. It is finished when the steps are clear enough for someone else to see it too. So knowing is something people build together, out of steps that anyone can follow.",
+   "habit": "We often think of a discovery as one clever person suddenly seeing the answer alone. That leaves out the steps, the doubters and the people who repeated the test. They are what turn one person's sighting into something everyone knows.",
+   "evidence": "In the Water-Drop Lens experiment, a second person counted dots using only your written steps. Where the steps were clear, your counts agreed. Where they were not clear, the counts were different until you fixed the step."
   },
   "three": {
-   "who_am_i": "You are someone who can see something first, and someone who can be shown by others. Both are you, and both are needed.",
+   "who_am_i": "Sometimes you are the first to see something. Sometimes someone else shows you what they saw. Both matter, because a discovery needs both.",
    "what_is_life": "Leeuwenhoek found that a drop of pond water holds many living beings, swimming, feeding and turning. Life was there all along, in places nobody had thought to look.",
-   "what_is_this_world": "The world is much bigger than what a plain eye can see. Each new tool, from a drop of water to a satellite, shows another layer, and people have to learn to read it together."
+   "what_is_this_world": "The world is much bigger than what the eye alone can see. Each new tool, from a drop of water to a satellite, shows another part of it, and people have to learn together how to read what the tool shows."
   },
-  "thread": "A discovery travels from one pair of eyes to many. On the way it meets doubt, and it needs steps, tools and many hands. What comes out the other end is not one person's idea any more. It is something a whole community can point to and agree on, and can change when new evidence arrives.",
+  "thread": "A discovery starts with one person seeing something. Before others believe it, it meets doubt, and it needs clear steps, tools and the work of many people. By the end it is no longer one person's idea. It is something a whole community can check and agree on, and can change when new evidence arrives.",
   "teachings": [
    {
     "source": "Rigveda 1.164.46: Ekam sat, viprah bahudha vadanti",
     "teaching": "Truth is one, and the wise speak of it in many ways.",
-    "link": "Three people looked through three drops and drew three slightly different pictures. All were looking at the same dots. The differences are the many ways of speaking, and the dots are the one."
+    "link": "In The Dots in the Newspaper, three people looked through three water drops and saw three slightly different pictures. All of them were looking at the same dots. The dots are the one truth, and the three pictures are the many ways of speaking about it."
    },
    {
     "source": "Ibn al-Haytham, a scientist who worked in Cairo about a thousand years ago, in his book Doubts Concerning Ptolemy (paraphrased)",

@@ -3,7 +3,7 @@
  "title": "Living light: how a glow is made, how it is read, and why eyes need the dark",
  "level": 4,
  "summary": {
-  "text": "Switch off every light and the room seems to vanish. Wait twenty minutes, and the room slowly comes back, though not one lamp has been lit. Your eyes have changed. A firefly's flash is made by chemistry that needs four ingredients, and your eye reads that flash with chemistry too. In this unit your child counts what a dark-adapted eye can see, finds out why heat stops a helper chemical, and plays a game in which a group of fireflies flashes together with no leader.",
+  "text": "Switch off every light and at first you see nothing. After about twenty minutes you can see the room again, though no lamp has been lit. Your eyes have changed. A firefly's flash is made by chemistry that needs four ingredients, and your eye catches that flash with chemistry too. In this unit your child tests how much more their eyes can see after waiting in the dark, finds out why heat stops a helper chemical from working, and plays a game in which a group of fireflies flashes together with no leader.",
   "art": "A child sitting in a dark room beside a glow stick under a stack of paper sheets, with a faint blue glow showing through the top sheets and a few tiny fireflies in the window."
  },
  "intro": {
@@ -80,7 +80,7 @@
   {
    "term": "Wavelength",
    "meaning": "The distance from the top of one light wave to the top of the next. Red light has a long wavelength. Blue light has a shorter one.",
-   "example": "Blue light has a shorter wavelength than red light, and it carries more energy in each packet.",
+   "example": "Blue light has a shorter wavelength than red light, and each tiny packet of blue light carries more energy.",
    "art": "Two wavy lines, a long slow red wave and a short quick blue wave, with the distance between peaks marked."
   },
   {
@@ -121,7 +121,7 @@
   },
   {
    "term": "Symbiosis",
-   "meaning": "Two different kinds of living being living closely together, each getting something from the other.",
+   "meaning": "Two different kinds of living beings that live closely together, each getting something from the other.",
    "example": "A squid gives glowing bacteria a home and food, and the bacteria give the squid a lamp.",
    "art": "A small squid with a glowing patch on the underside, and tiny bacteria drawn inside the patch."
   },
@@ -156,7 +156,7 @@
    "status": "defined",
    "context": "In the first Living light unit you learned that a firefly makes their own light. This card sorts all the ways a thing can give out light, so you can tell them apart.",
    "definition": "A thing can shine because it is hot, because a chemical reaction makes light, because it sends light back at once in another colour (fluorescence), or because it stores light and lets it out slowly (phosphorescence).",
-   "description": "A candle flame and an old bulb shine because they are very hot. A firefly and a glow stick shine because a chemical reaction makes light, with almost no heat. Fluorescence is different again. A highlighter line takes in ultraviolet light that your eyes cannot see, and sends out visible light at the same moment. When the torch goes off, the glow goes off with it. Phosphorescence is a stored glow. A glow-in-the-dark star keeps some of the light that fell on it and lets it out for minutes or hours. A simple test tells them apart. Switch off the light that was shining on the thing. If the glow stops at once, it was fluorescence. If it fades slowly, it was stored. If it carries on in total darkness with nothing shining on it, it is being made. The Moon is none of these. The Moon only bounces sunlight back.",
+   "description": "A candle flame and an old bulb shine because they are very hot. A firefly and a glow stick shine because a chemical reaction makes light, with almost no heat. Fluorescence is different again. Under a UV torch, a highlighter line takes in ultraviolet light that your eyes cannot see, and sends out visible light at the same moment. When the torch goes off, the glow goes off with it. Phosphorescence is a stored glow. A glow-in-the-dark star keeps some of the light that fell on it and lets it out for minutes or hours. A simple test tells them apart. Switch off the light that was shining on the thing. If the glow stops at once, it was fluorescence. If it fades slowly, it was stored. If it carries on in total darkness with nothing shining on it, the thing is making its own light. The Moon is none of these. The Moon only bounces sunlight back.",
    "examples": [
     "A firefly's flash carries on in a pitch dark field, so it is made by chemistry.",
     "A highlighter line stops glowing the moment the UV torch is switched off, so it is fluorescence.",
@@ -168,9 +168,9 @@
   {
    "concept": "A firefly's flash needs four ingredients",
    "status": "defined",
-   "context": "You know that a firefly mixes luciferin with oxygen to make light. This card adds two more ingredients that scientists found later, and why a flash is not free.",
+   "context": "You know that a firefly mixes luciferin with oxygen to make light. This card adds two more ingredients that scientists found later, and explains why every flash costs the firefly energy.",
    "definition": "A firefly's flash needs luciferin, the helper chemical luciferase, oxygen, and ATP, the small chemical cells use to carry energy.",
-   "description": "Luciferin is the chemical that gives out the light. Luciferase is the enzyme that makes the reaction quick. Oxygen arrives through tiny air tubes. ATP is the fourth ingredient, and it is the one that is easy to miss. ATP is a small packet of energy that every living cell makes and spends. Your muscles spend it, and so does every plant. In a firefly's lantern, ATP first gets the luciferin ready, and then oxygen turns it into light. So every flash costs the firefly some of the energy from their food. In 1947, the American scientist William McElroy found that a firefly lantern extract, mixed in a test tube, glowed only when ATP was added. Without ATP the glow died away. With a new drop, it came back.",
+   "description": "Luciferin is the chemical that gives out the light. Luciferase is the enzyme that makes the reaction quick. Oxygen arrives through tiny air tubes. ATP is the fourth ingredient, and it is the one that is easy to miss. ATP is a small packet of energy that every living cell makes and spends. Your muscles spend it, and so does every plant. In a firefly's lantern, ATP first gets the luciferin ready, and then oxygen turns it into light. So every flash costs the firefly some of the energy from their food. In 1947, the American scientist William McElroy found that a firefly lantern extract, mixed in a test tube, glowed only when ATP was added. Without ATP the glow died away. When he added a new drop of ATP, the glow came back.",
    "examples": [
     "A flash costs the firefly ATP, in the same way a step costs your muscles ATP.",
     "A firefly lantern extract in a tube glows for a short while and fades, and glows again when ATP is added.",
@@ -198,10 +198,10 @@
    "status": "defined",
    "context": "In the first Living light unit you found out that a glow stick feels cold. This card puts a number on how well different lights turn energy into light.",
    "definition": "A light is efficient if most of the energy it uses comes out as light. Living light is far more efficient than an old bulb, but it is not perfect.",
-   "description": "An old bulb with a thin wire inside turns only about 5 parts in every 100 of its electrical energy into light. The other 95 parts become heat. That is why such a bulb is too hot to touch. Modern LED bulbs do much better and stay cooler. A firefly's reaction is even better at one step. In a lab in 2008, scientists reported that about 4 in every 10 firefly luciferin molecules that reacted gave out a flash of light. But that is one step in a chain. The firefly still spends energy to make luciferin, to carry oxygen and to make ATP. So living light is very efficient at the moment of light, and the whole animal still spends food to shine. Nothing in nature gives light for nothing.",
+   "description": "An old bulb with a thin wire inside turns only about 5 parts in every 100 of its electrical energy into light. The other 95 parts become heat. That is why such a bulb is too hot to touch. Modern LED bulbs do much better and stay cooler. A firefly's reaction does even better, but only at one step: the moment the light is made. In a lab in 2008, scientists reported that about 4 in every 10 firefly luciferin molecules that reacted gave out a flash of light. But that is one step in a chain. The firefly still spends energy to make luciferin, to carry oxygen and to make ATP. So living light wastes very little at the moment the light is made, but the whole animal still spends food to shine. No living being gets light for nothing.",
    "examples": [
     "An old filament bulb gives out about 5 parts of light for every 95 parts of heat.",
-    "A firefly's flash is reported to come from about 4 reacting molecules in every 10, which is why it feels cool.",
+    "About 4 in every 10 firefly luciferin molecules that react are reported to give out light. Very little is wasted as heat, which is why a firefly's flash feels cool.",
     "A glow stick's light does not need a battery, but the glow ends when the chemicals run out."
    ],
    "art": "Two bars side by side: an old bulb with a tall heat part and a tiny light part, and a firefly with a bigger light part and a smaller heat part.",
@@ -212,7 +212,7 @@
    "status": "defined",
    "context": "Deep-sea animals use light to catch food, hide, scare and talk. This card asks why so many of them use the same colour.",
    "definition": "Sea water takes in red light very quickly and lets blue light travel furthest, so most deep-sea animals make blue light and have eyes that see blue best.",
-   "description": "Sunlight is a mix of all the colours. As it goes down into the sea, the water takes in each colour at a different speed. Red is nearly gone within about ten metres. Orange and yellow go next. Green goes deeper. Blue goes furthest. So below a few hundred metres, the only light left from the Sun is a faint blue. A light the same colour as the water can be seen from far away. That is why many deep-sea animals make blue light, and why their eyes are best at catching blue. The colour of the light depends on the shape of the luciferase, the enzyme that helps make it. A small change in the luciferase's shape can change the colour. There are exceptions. Some deep-sea fish, such as certain dragonfish, make red light that most animals around them cannot see, which is like having a secret torch.",
+   "description": "Sunlight is a mix of all the colours. As it goes down into the sea, the water takes in each colour at a different speed. Red is nearly gone within about ten metres. Orange and yellow go next. Green goes deeper. Blue goes furthest. So below a few hundred metres, the only light left from the Sun is a faint blue. Blue light also travels furthest through the water, so a blue light can be seen from far away. That is why many deep-sea animals make blue light, and why their eyes are best at catching blue. The colour of the light depends on the shape of the luciferase, the enzyme that helps make it. A small change in the luciferase's shape can change the colour. There are exceptions. Some deep-sea fish, such as certain dragonfish, make red light that most animals around them cannot see, which is like having a secret torch.",
    "examples": [
     "A red cloth looks black at 20 metres under the sea, because the red light has already been taken in by the water above.",
     "A hatchetfish's belly lights are blue, to match the faint blue light that comes down from above.",
@@ -226,10 +226,10 @@
    "status": "defined",
    "context": "A firefly's flash is faint. This card explains how your eye catches faint light, and why it needs time to do it well.",
    "definition": "Your retina has two kinds of light catchers. Rod cells work in dim light and see no colour. Cone cells work in bright light and see colour.",
-   "description": "Each eye has about a hundred million rod cells and a few million cone cells. In a bright room, the cones do most of the seeing. In a dark room the cones can no longer catch enough light, and the rods must take over. Rod cells hold a light-catching chemical called rhodopsin. One packet of light, a photon, can change one rhodopsin molecule, and a rod cell can answer even to one. But bright light uses up rhodopsin. After bright light, the rods have little left, so you see almost nothing. In the dark your cells build rhodopsin back, a little at a time. This takes about twenty to thirty minutes. Your pupils also open wider within seconds, but the chemical change matters more. This is also why a red torch is kinder to night eyes. Rods are much less sensitive to red, so red light uses up much less rhodopsin.",
+   "description": "Each eye has about a hundred million rod cells and a few million cone cells. In a bright room, the cones do most of the seeing. In a dark room the cones can no longer catch enough light, and the rods must take over. Rod cells hold a light-catching chemical called rhodopsin. One packet of light, called a photon, can change one rhodopsin molecule, and a rod cell can respond to even one photon. But bright light uses up rhodopsin. After bright light, the rods have little left, so you see almost nothing. In the dark your cells build rhodopsin back, a little at a time. This takes about twenty to thirty minutes. Your pupils also open wider within seconds, but the chemical change matters more. This is also why a red torch is kinder to eyes that have got used to the dark. Rods are much less sensitive to red, so red light uses up much less rhodopsin.",
    "examples": [
     "A person who steps out of a bright street into a dark cinema cannot see the seats for a minute or two.",
-    "A pilot or sailor uses a dim red lamp at night so that their night eyes are not spoiled.",
+    "A pilot or sailor uses a dim red lamp at night so that their eyes stay used to the dark.",
     "Faint stars seem to disappear when you look straight at them, because the middle of your retina has few rod cells."
    ],
    "art": "A cross-section of a retina with tall rod cells and short cone cells, and a ray of light reaching a rod.",
@@ -240,7 +240,7 @@
    "status": "defined",
    "context": "A firefly turns chemical energy into light. This card shows that your eye does the same job the other way round.",
    "definition": "In a rod cell, a packet of light changes the shape of a rhodopsin molecule, and that starts a chain of chemical steps that ends in a signal to the brain.",
-   "description": "In a firefly, a chemical reaction ends with a packet of light being given out. In your eye, a packet of light starts a chemical reaction. When light hits rhodopsin, a part of the molecule snaps from a bent shape to a straight one. That change sets off a chain of reactions inside the rod cell, and the cell sends an electrical signal along the optic nerve. So the chain goes from the firefly's food, to their ATP, to their flash, to the rhodopsin in your eye, to the signal in your nerve, to what you see. Light is the bridge between two chemical events, one in the sender and one in the receiver. The rhodopsin must be built back afterwards, which is why seeing in the dark takes minutes to get ready.",
+   "description": "In a firefly, a chemical reaction ends with a packet of light being given out. In your eye, a packet of light starts a chemical reaction. When light hits rhodopsin, a part of the molecule snaps from a bent shape to a straight one. That change sets off a chain of reactions inside the rod cell, and the cell sends an electrical signal along the optic nerve. So the chain goes from the firefly's food, to their ATP, to their flash, to the rhodopsin in your eye, to the signal in your nerve, to what you see. Light is the bridge between two chemical events, one in the sender and one in the receiver. The rhodopsin must be built back afterwards, which is why your eyes take minutes to get ready for the dark.",
    "examples": [
     "A firefly turns chemical energy into a flash. Your rod cell turns the flash back into a chemical change.",
     "A camera turns light into numbers. An eye turns light into chemical change, then into nerve signals.",
@@ -256,7 +256,7 @@
    "definition": "Bacteria count their crowd by giving out a signal chemical. When the signal builds up past a level, all the bacteria change what they do at the same time.",
    "description": "A single bacterium is far too small to make a visible light. A bacterium that glowed alone in the open sea would waste energy. So each one makes a small amount of a signal chemical, and the chemical drifts away. In a big open sea, the signal spreads out and stays weak. In a small, crowded space, such as a squid's light organ, the signal builds up. When it passes a level, it switches on the genes for making light in every bacterium together. In the 1970s, the American scientists Kenneth Nealson and Woodland Hastings found that glowing bacteria stay dark until many of them are together. Later, the scientist Bonnie Bassler and her team found a second signal that many different kinds of bacteria use, like a shared language.",
    "examples": [
-    "A bacterium alone in the open sea stays dark, because its signal drifts away.",
+    "A bacterium alone in the open sea stays dark, because their signal drifts away.",
     "Thousands of the same bacteria packed into a squid's light organ all switch on together.",
     "Some bacteria that cause disease also wait for a crowd before they attack, which is why scientists study how to block the signal."
    ],
@@ -268,10 +268,10 @@
    "status": "defined",
    "context": "This card follows the glowing bacteria into a real animal, a small squid that lives in the sea near Hawaii.",
    "definition": "The Hawaiian bobtail squid keeps glowing bacteria in a light organ under their body. The squid gives the bacteria a home and food, and the bacteria give the squid a lamp.",
-   "description": "A newborn bobtail squid has no bacteria. They pick them up from the sea water, and only one kind of bacteria, Vibrio fischeri, is allowed to stay. The squid hunts at night in shallow water. On a moonlit night, their shadow would show against the light from above. The light organ shines a little blue light downwards to cancel the shadow, matching the brightness of the moonlight. The organ even has a lens, a shutter and light-sensing cells, so the squid can adjust their lamp as the moon changes. Each dawn the squid pushes out most of their bacteria into the sea, and the few that are left multiply during the day, ready for the night. The scientist Margaret McFall-Ngai has studied this partnership for many years.",
+   "description": "A newborn bobtail squid has no bacteria. They pick them up from the sea water, and only one kind of bacteria, Vibrio fischeri, is allowed to stay. The squid hunts at night in shallow water. On a moonlit night, the squid would show from below as a dark shadow against the light from above. The light organ shines a little blue light downwards to cancel the shadow, matching the brightness of the moonlight. The organ even has a lens, a shutter and light-sensing cells, so the squid can adjust their lamp as the moon changes. Each dawn the squid pushes out most of their bacteria into the sea, and the few that are left multiply during the day, ready for the night. The scientist Margaret McFall-Ngai has studied this partnership for many years.",
    "examples": [
     "The squid's light organ has a lens that spreads the light and a shutter that can dim it.",
-    "The squid keeps their bacteria in the day, and pushes most out at dawn, so the crowd is ready again by night.",
+    "The squid pushes most of their bacteria out at dawn. The few that are left multiply during the day, so the crowd is ready again by night.",
     "Your own gut is full of bacteria that live with you, and help you digest food."
    ],
    "art": "A small squid seen from below, with a glowing patch on the underside, and an enlarged picture of the light organ with a lens and a shutter.",
@@ -282,11 +282,11 @@
    "status": "idea",
    "context": "In the first Living light unit you read that in some trees, thousands of fireflies blink on and off as one. This card says how they might do it.",
    "definition": "In some kinds of fireflies, a crowd flashes in step because each firefly has an inner timer and adjusts it slightly when they see a neighbour's flash.",
-   "description": "In 1935, an American scientist named Hugh Smith described fireflies in Thailand flashing together in trees. Many scientists did not believe him. They thought it was a trick of the eye. Careful studies in the 1960s and 1970s, by John Buck and Elisabeth Buck, showed that it was real. The idea is simple. Each firefly has a timer that counts up to the next flash. Seeing a neighbour's flash nudges your own timer forward, so your flash comes a little sooner. Fireflies that flash late are nudged forward, and in a few cycles the whole crowd lines up. There is no leader. Computer models of this one rule can reproduce the effect, but scientists have not worked out all the details for each kind of firefly. This is why we call it an idea.",
+   "description": "In 1935, an American scientist named Hugh Smith described fireflies in Thailand flashing together in trees. Many scientists did not believe him. They thought it was a trick of the eye. Careful studies in the 1960s and 1970s, by John Buck and Elisabeth Buck, showed that it was real. The idea is simple. Each firefly has a timer that counts up to the next flash. When a firefly sees a neighbour flash, their own timer is nudged forward, so their next flash comes a little sooner. Fireflies that flash late are nudged forward, and in a few cycles the whole crowd lines up. There is no leader. Computer models that use only this one rule also end up flashing together. But scientists have not worked out all the details for each kind of firefly. This is why we still call it an idea.",
    "examples": [
     "In the mangroves of Malaysia and Thailand, thousands of fireflies of one kind flash in step along a river.",
     "In 1665, the Dutch scientist Christiaan Huygens noticed that two pendulum clocks on the same wall swung in step.",
-    "The pacemaker cells of your heart keep time together in the same way, with no boss cell."
+    "The pacemaker cells of your heart keep time together with no boss cell, as these fireflies do with no leader."
    ],
    "art": "A line of mangrove trees at night with every tree flashing at the same moment, and a small inner timer drawn inside one firefly.",
    "perspectives": []
@@ -294,8 +294,8 @@
   {
    "concept": "Where does the luciferin come from?",
    "status": "debated",
-   "context": "A firefly has luciferin in their lantern. This card asks the question that sounds easy and is not: where did the luciferin come from?",
-   "description": "A glowing being needs a supply of luciferin. Some make it inside their own body. Others may collect it from what they eat. In the sea, many glowing animals use the same luciferin, called coelenterazine. Scientists have shown that some animals can make it themselves. For others, such as some small crustaceans, the evidence points to food. Fireflies are a special case. A kind of firefly called Photuris is known to eat another kind of firefly, and so gains from them a set of bitter defence chemicals. The scientist Thomas Eisner and his team showed this in the 1990s. But how fireflies make their own luciferin is still being worked out.",
+   "context": "A firefly has luciferin in their lantern. This card asks a question that sounds easy but is not: where does the luciferin come from?",
+   "description": "A glowing being needs a supply of luciferin. Some make it inside their own body. Others may collect it from what they eat. In the sea, many glowing animals use the same luciferin, called coelenterazine. Scientists have shown that some animals can make it themselves. For others, such as some small crustaceans, the evidence points to food. Fireflies are a special case. A kind of firefly called Photuris eats fireflies of another kind, and so gets their bitter defence chemicals. The scientist Thomas Eisner and his team showed this in the 1990s. But how fireflies make their own luciferin is still being worked out.",
    "examples": [
     "Many sea animals use the same luciferin, coelenterazine, even though they are not close relatives.",
     "A trickster Photuris female eats a male of another kind, and so gets his bitter defence chemicals.",
@@ -334,8 +334,8 @@
   {
    "concept": "Sea sparkle, plankton blooms and the Indian seas",
    "status": "debated",
-   "context": "On some nights the sea near Indian beaches glows blue from sea sparkle. This card is about what happens when they grow in huge numbers.",
-   "description": "Sea sparkle, called Noctiluca by scientists, is a one-celled plankton that glows when the water is stirred. When conditions suit them, they multiply into a bloom that can turn the sea green by day and blue by night. A form of Noctiluca that has green algae living inside it has been reported to bloom each winter in the northern Arabian Sea. Scientists including Helga do Rosario Gomes, who worked in Goa, reported in 2014 that these blooms had become much larger, and linked them to patches of low-oxygen water. Some scientists worry that blooms change the food chain, because fish may not eat Noctiluca. Others say that more careful long records are needed before saying what causes them.",
+   "context": "On some nights the sea near Indian beaches glows blue from sea sparkle, a tiny glowing plankton. This card is about what happens when sea sparkle multiplies into huge numbers.",
+   "description": "Sea sparkle, called Noctiluca by scientists, is a one-celled plankton that glows when the water is stirred. When conditions suit them, they multiply into a bloom that can turn the sea green by day and blue by night. A form of Noctiluca that has green algae living inside them has been reported to bloom each winter in the northern Arabian Sea. Scientists including Helga do Rosario Gomes, who worked in Goa, reported in 2014 that these blooms had become much larger, and linked them to patches of low-oxygen water. Some scientists worry that blooms change the food chain, because fish may not eat Noctiluca. Others say that more years of careful records are needed before anyone can say what causes the blooms.",
    "examples": [
     "A bloom of Noctiluca can turn the sea surface green in the day.",
     "On a night with a bloom, every breaking wave lights up blue.",
@@ -362,7 +362,7 @@
    "status": "defined",
    "context": "Scientists have found ways to use the chemicals of living light to see things that are too small or hidden to see. This card says how.",
    "definition": "Scientists use the genes for glowing proteins as markers. If a gene is on, the cell lights up, so the light shows where the gene is working.",
-   "description": "In 1962 Osamu Shimomura and his team described a green glowing protein from a jellyfish. In 1994 Martin Chalfie put the gene for it into a tiny worm, and the worm's cells glowed green. Roger Tsien later made versions in other colours. The three shared the Nobel Prize in Chemistry in 2008. Now a scientist can join the gene for the glowing protein to a gene they want to follow. Where that gene works, the cell glows. Scientists use this to watch nerve cells grow, and cancer cells spread. The firefly gives another tool. Firefly luciferase glows in proportion to the ATP around it. A swab on a kitchen counter glows brighter if more living cells, with more ATP, have been left there.",
+   "description": "In 1962 Osamu Shimomura and his team described a green glowing protein from a jellyfish. In 1994 Martin Chalfie put the gene for it into a tiny worm, and the worm's cells glowed green. Roger Tsien later made versions in other colours. The three shared the Nobel Prize in Chemistry in 2008. Now a scientist can join the gene for the glowing protein to a gene they want to follow. Where that gene works, the cell glows. Scientists use this to watch nerve cells grow, and cancer cells spread. The firefly gives another tool. The more ATP there is, the brighter a mixture with firefly luciferase glows. So a swab wiped on a kitchen counter and tested this way glows brighter if more living cells, with more ATP, have been left there.",
    "examples": [
     "A nerve cell with the glow gene attached to it lights up green, so a scientist can see its branches.",
     "A hospital swab glows brighter when more living cells, and so more ATP, are on a surface.",
@@ -376,7 +376,7 @@
    "status": "defined",
    "context": "In the first Living light unit you saw that bright lights hide firefly flashes. This card shows that fireflies are not the only ones who need the dark.",
    "definition": "Light pollution is too much artificial light at night, and it harms many animals, not only fireflies.",
-   "description": "Many animals use the dark. Baby turtles hatch at night on a beach and crawl towards the brightest, lowest horizon, which is usually the sea shining under the sky. A bright lamp on the land behind the beach can make them crawl the wrong way. On the Chennai coast, volunteer groups protect Olive Ridley turtle nests and ask nearby houses to keep lights low in the hatching season. Moths circle lamps and get tired, so they eat less and are easier to catch. Migrating birds can be pulled off course by lit towers. A bright sky also hides the stars. A well-aimed, dim, downward light helps people and keeps the dark for others. In 2020, firefly scientists named light pollution as one of the biggest threats to fireflies after the loss of the places where they live.",
+   "description": "Many animals use the dark. Baby turtles hatch at night on a beach and crawl towards the brightest, lowest horizon, which is usually the sea shining under the sky. A bright lamp on the land behind the beach can make them crawl the wrong way. On the Chennai coast, volunteer groups protect Olive Ridley turtle nests and ask nearby houses to keep lights low in the hatching season. Moths circle lamps and get tired, so they eat less and are easier to catch. Migrating birds can be pulled off course by lit towers. A bright sky also hides the stars. A dim lamp that points down gives people the light they need and leaves the dark for the animals. In 2020, firefly scientists named light pollution as one of the biggest threats to fireflies after the loss of the places where they live.",
    "examples": [
     "Olive Ridley hatchlings can be drawn to a street lamp instead of the sea.",
     "Moths circle a lamp for hours and have less time to feed.",
@@ -500,7 +500,7 @@
    "hint": "Think about what each firefly does when they see a neighbour flash."
   },
   {
-   "q": "Why does the same flash look blue in the sea and yellow-green in a field?",
+   "q": "Why is living light mostly blue in the deep sea, but yellow-green from a firefly in a field?",
    "kind": "deep",
    "hint": "Think about which colours sea water takes in, and what the animals' eyes can see."
   },
@@ -515,7 +515,7 @@
    "hint": "Think about which of them could make the lamp alone."
   },
   {
-   "q": "A trickster firefly copies the answer flash of another kind. How does anyone trust a signal that could be copied?",
+   "q": "A trickster firefly copies the answer flash of another kind of firefly. How can a firefly trust a signal that could be copied?",
    "kind": "big",
    "hint": "Think about what a signal would have to cost, or what else a listener could check."
   }
@@ -551,12 +551,12 @@
    "'Nobody,' said Mythili. 'The light was there all the time. Our eyes just needed time to get ready for it.'",
    "In the morning, the rocks were plain and black, and the sea was only grey. Mythili stood on the beach for a long time. She thought about the lamps she had never seen, because she had never waited long enough in the dark."
   ],
-  "epiphany": "Faint light is always there. Eyes need about twenty minutes in the dark to be ready to see it, and a bright lamp undoes that work in a moment.",
+  "epiphany": "A faint light can be there even when you cannot see it. Eyes need about twenty minutes in the dark to be ready to see it, and a bright lamp undoes that work in a moment.",
   "ask": [
    "Why does shining a torch make it harder to see a faint light afterwards?",
    "Why is it easier to see a very faint light if you look a little to one side of it?",
-   "Why is a dim red light kinder to your night eyes than a bright white one?",
-   "How could you tell if a glow in water was being made by living beings or only sunlight bouncing off?"
+   "Why is a dim red light kinder than a bright white one to eyes that have got used to the dark?",
+   "How could you tell whether a glow in water was being made by living beings, or was only sunlight bouncing off?"
   ],
   "art": [
    "A fishing village on the coast at dusk, with boats lying in rows on the sand and a long wall of black rocks at the mouth of the cove.",
@@ -656,7 +656,7 @@
     "On every tick, move your marker one box to the right.",
     "When your marker reaches your flash number, you flash. Stand up, raise both hands and say flash. Then put your marker back in box 0.",
     "Listen rule, for rounds 1 and 3. Whenever you see anyone flash, and your marker is at your halfway number or further, flash too and go back to box 0. If your marker is before halfway, do nothing.",
-    "Ignore rule, for round 2. Never join. Flash only when your own marker reaches your own flash number.",
+    "Ignore rule, for round 2. Never join anyone else's flash. Flash only when your own marker reaches your own flash number.",
     "A round ends when everyone flashes on the same tick two times in a row, or after 40 ticks. Write the number of ticks on the round record. After round 3, compare the three numbers."
    ],
    "flow": [
@@ -692,9 +692,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Play round 1 with the listen rule. Start the beat. Everyone moves a box on each tick. Flash and join as the rules say. Count the ticks until everyone flashes together twice in a row.",
+     "do": "Play round 1 with the listen rule. Start the beat. Everyone moves a box on each tick. Flash at your own flash number, and join other flashes as the listen rule says. Count the ticks until everyone flashes together twice in a row.",
      "say": "Round one. Listen to each other. If you see a flash and your marker is halfway or more, flash too. Let's count the ticks until all of us flash together two times.",
-     "kid": "Round 1. If you see a flash and you are past halfway, flash too. Count the ticks.",
+     "kid": "Round 1. If you see a flash and your marker is at halfway or further, flash too. Count the ticks.",
      "check": {
       "t": "mcq",
       "q": "In round 1, a player sees a flash when their marker is before the halfway number. What do they do?",
@@ -725,14 +725,14 @@
       }
      ],
      "parent": "Expected: in round 1 a group of fireflies usually flashes together within about 9 to 19 ticks. In round 2 it almost never happens in 40 ticks. If a player makes a mistake in counting, you can still go on. Write down what really happened.",
-     "context": "In this step, you play round 2 with the rule that stops you from joining any flash. This is the test of what the listen rule does."
+     "context": "In this step, you play round 2 with the rule that stops you from joining any flash. Comparing it with round 1 shows what the listen rule does."
     },
     {
      "id": "s5",
      "mins": 5,
-     "do": "Play round 3 with the listen rule and new cards. Then talk about the three numbers. Ask for claim, evidence and reasoning.",
+     "do": "Play round 3 with the listen rule and new cards. Then talk about the three numbers. Ask your child three things: what they think made the difference, what they saw, and why they think it happened.",
      "say": "Round three, listening again with new cards. Now look at our three numbers. What do you think made the difference? What did you see? Why do you think it happened?",
-     "kid": "Round 3. Listen again. Say three things. What I think. What I saw. Why.",
+     "kid": "Round 3. Use the listen rule again. Then say three things: what you think, what you saw, and why it happened.",
      "check": {
       "t": "mcq",
       "q": "In the game, who told the fireflies when to flash together?",
@@ -742,7 +742,7 @@
        "The metronome told each firefly when to join"
       ],
       "a": 0,
-      "why": "The metronome only sets the beat for ticks. No firefly led. The group lined up because each one followed one rule. Picking 'the biggest flash number' means thinking a leader is needed, but any firefly could be first. When the rule was off, the same metronome did not line them up."
+      "why": "The metronome only sets the beat for ticks. No firefly led. The group lined up because each one followed one rule. Picking 'the biggest flash number' means thinking a leader is needed, but any firefly could be first. In round 2, with the ignore rule, the same metronome did not line them up."
      },
      "parent": "A good answer. What I think: a crowd can flash together with no leader if each one answers the flashes they see. What I saw: with the listen rule we lined up in a few ticks, and with the ignore rule we did not in 40. Why: joining a flash when you are past halfway pulls the late fireflies into step, and after that they stay together. Real fireflies seem to do something like this, but nobody knows all the details yet.",
      "think": "Fireflies in a tree may have no way to count out loud. What could each one be doing instead?",
@@ -952,7 +952,7 @@
        ]
       }
      ],
-     "parent": "The tricky pair is sent back at once and stored. The test is to switch the light off. A thing that sends light back stops the moment the light stops. A thing that stores light keeps glowing for a while.",
+     "parent": "The two kinds that are easy to mix up are 'sent back at once' and 'stored'. The test is to switch the light off. A thing that sends light back stops glowing the moment the light stops. A thing that stores light keeps glowing for a while.",
      "context": "In this step, you play the game and learn to tell the five kinds of light apart."
     },
     {
@@ -1028,7 +1028,7 @@
       ]
      ],
      "a": "see items",
-     "why": "A flame is hot. A firefly makes light by chemistry. A highlighter takes in UV light and sends out visible light at once. A star keeps light and lets it out slowly. The Moon only bounces sunlight.",
+     "why": "A flame is hot. A firefly makes light by chemistry. A highlighter takes in UV light and sends out visible light at once. A glow-in-the-dark star keeps light and lets it out slowly. The Moon only bounces sunlight.",
      "outcome": 2
     },
     {
@@ -1052,7 +1052,7 @@
     },
     {
      "t": "write",
-     "p": "In the potato test, glass D held peroxide but no potato. Why was it included, and what did it show?",
+     "p": "In the Helper That Heat Stops test, glass D held hydrogen peroxide but no potato. Why was it included, and what did it show?",
      "lines": 3,
      "a": "Glass D was the control. It showed what the peroxide does alone. It did not foam, so the foam in the other glasses came from the potato.",
      "why": "A strong answer says that a control shows what happens without the thing you are testing, so the other results can be trusted.",
@@ -1113,12 +1113,12 @@
       "The pupil closes up and stops light"
      ],
      "a": 0,
-     "why": "In dim light, cone cells cannot catch enough light, and rod cells do the seeing. Rod cells cannot tell colours apart. Picking 'colours only exist in the daytime' mixes up the paper with the eye. The paper does not change.",
+     "why": "In dim light, cone cells cannot catch enough light, and rod cells do the seeing. Rod cells cannot tell colours apart. Picking 'colours only exist in the daytime' mixes up the thing you are looking at with your eye. The thing does not change. Your eye does.",
      "outcome": 4
     },
     {
      "t": "draw",
-     "p": "Draw a line graph of the made-up numbers from an Eyes in the Dark test: 1 minute, 3 sheets. 5 minutes, 5 sheets. 10 minutes, 7 sheets. 20 minutes, 9 sheets. Say what the line shows.",
+     "p": "Here are made-up numbers from an Eyes in the Dark test. They show how many sheets of paper the glow was seen through: 3 sheets at 1 minute, 5 sheets at 5 minutes, 7 sheets at 10 minutes and 9 sheets at 20 minutes. Draw a line graph of these numbers. Say what the line shows.",
      "a": "A line that rises from 3 sheets at 1 minute to 9 sheets at 20 minutes, rising quickly at first and then more slowly. It shows that the longer the eyes are in the dark, the fainter a light they can see.",
      "why": "A strong drawing has minutes along the bottom, sheets up the side, four points joined by a line, and a sentence saying the line goes up because the eyes became ready for dim light.",
      "how": "e1",
@@ -1154,7 +1154,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says a red torch is just a dim white torch. Use what you know about rod cells to explain why a red torch is kinder to your night eyes.",
+     "p": "A friend says a red torch is just a dim white torch. Use what you know about rod cells to explain why a red torch is kinder to eyes that have got used to the dark.",
      "lines": 4,
      "a": "Rod cells are much less sensitive to red light than to other colours. So red light uses up very little of the rhodopsin in the rods. After a red torch, the rods are still ready for dim light. A white torch uses up a lot of rhodopsin.",
      "why": "A strong answer says that rods are not very sensitive to red, so red light does not undo the dark adaptation.",
@@ -1162,18 +1162,18 @@
     },
     {
      "t": "perspective",
-     "p": "A beach in Tamil Nadu is where baby Olive Ridley turtles hatch. A hotel on the road behind the beach wants to keep its bright lamps on all night. Three people disagree.",
+     "p": "Baby Olive Ridley turtles hatch on a beach in Tamil Nadu. A hotel on the road behind the beach wants to keep its bright lamps on all night. Three people disagree.",
      "views": [
       {
-       "who": "Rajan, the hotel owner",
+       "who": "The hotel owner",
        "says": "Guests want to walk to the sea at night. Bright lights make them feel safe."
       },
       {
-       "who": "Dr Anitha, a turtle volunteer",
+       "who": "A turtle volunteer",
        "says": "Hatchlings crawl towards the brightest horizon. Bright lamps behind the beach lead them away from the sea. Switch the lamps off in the hatching season."
       },
       {
-       "who": "Selvi, a village councillor",
+       "who": "A village councillor",
        "says": "Use low lamps with shades that light only the path, with dim amber bulbs, and turn them off at midnight."
       }
      ],
@@ -1310,7 +1310,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps by which a crowd of glowing bacteria light up in order.",
+     "p": "Put these steps in order to show how a crowd of glowing bacteria lights up.",
      "items": [
       "Each bacterium gives off a little signal chemical",
       "The crowd grows in a small space",
@@ -1330,7 +1330,7 @@
     },
     {
      "t": "mcq",
-     "p": "In an eye test, a child saw a hidden glow through 3 sheets at 1 minute and 8 sheets at 20 minutes. The stick and the sheets did not change. What is the best conclusion?",
+     "p": "In an Eyes in the Dark test, a child saw a hidden glow stick through 3 sheets of paper at 1 minute and through 8 sheets at 20 minutes. The glow stick and the sheets did not change. What is the best conclusion?",
      "opts": [
       "The child's eyes became able to catch fainter light",
       "The glow stick got much brighter",
@@ -1429,7 +1429,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Two children do the sheets test. Child A saw the glow through 4 sheets at 1 minute, 6 at 5 minutes, 8 at 10 minutes and 9 at 20 minutes. Child B saw it through 4, 4, 5 and 5. Give two reasons why B's numbers may have risen less.",
+     "p": "Two children do the Eyes in the Dark test. Child A saw the glow through 4 sheets at 1 minute, 6 at 5 minutes, 8 at 10 minutes and 9 at 20 minutes. Child B saw it through 4, 4, 5 and 5. Give two reasons why B's numbers may have risen less.",
      "lines": 4,
      "a": "B's room may not have been fully dark, so some light kept B's eyes from becoming ready. B may have looked at a phone or a bright light during the wait. B may also have been looking at the stack the whole time instead of waiting calmly.",
      "why": "A strong answer gives two different reasons, such as stray light in the room or a peek at a screen, and says how to check, for example by repeating the test in a darker room.",
@@ -1450,7 +1450,7 @@
     },
     {
      "t": "mcq",
-     "p": "In an enzyme test, a boiled potato cube still fizzed a little. What is the most likely reason?",
+     "p": "In the Helper That Heat Stops test, a boiled potato cube still fizzed a little in the hydrogen peroxide. What is the most likely reason?",
      "opts": [
       "The middle of the cube did not get hot enough to bend all the enzyme",
       "Boiling makes more enzyme",
@@ -1481,7 +1481,7 @@
      "p": "Match each observation to what it shows about the eye.",
      "pairs": [
       [
-       "A red torch hardly spoils your night eyes",
+       "A red torch hardly spoils eyes that are used to the dark",
        "rod cells are not very sensitive to red"
       ],
       [
@@ -1493,7 +1493,7 @@
        "rhodopsin has to be built back"
       ],
       [
-       "Pupils grow in the dark",
+       "Pupils get wider in the dark",
        "more light can enter the eye"
       ]
      ],
@@ -1503,7 +1503,7 @@
     },
     {
      "t": "mcq",
-     "p": "Look at the chart of foam heights. Which two glasses together show that heat stops the enzyme, and not just the potato being a potato?",
+     "p": "Look at the chart of foam heights. Which two glasses, compared with each other, show that heat stops the enzyme?",
      "opts": [
       "A, with raw potato, and B, with boiled potato",
       "B, with boiled potato, and D, with no potato",
@@ -1589,7 +1589,7 @@
     },
     {
      "t": "write",
-     "p": "In the Flash Together game, a player says, 'We lined up because the metronome told us when to flash.' Use the round where nobody joined to show why this is wrong.",
+     "p": "In the Flash Together game, a player says, 'We lined up because the metronome told us when to flash.' Use round 2, played with the ignore rule, to show why this is wrong.",
      "lines": 4,
      "a": "The metronome was on in both rounds. In the round where nobody joined, the group never lined up in 40 ticks. So the metronome alone did not do it. The rule about joining flashes you see made the difference.",
      "why": "A strong answer uses the control round as evidence. The metronome was the same, only the joining rule changed.",
@@ -1745,7 +1745,7 @@
      "mins": 4,
      "do": "Show your child the glow stick and the stack of paper. Say that the stick will be hidden under 12 sheets. Ask for a guess and a reason. Write it down.",
      "say": "This glow stick will lie under twelve sheets of paper. Each sheet hides some of the light. We will sit in a dark room and see how many sheets we can see the glow through. After twenty minutes, will we see it through more sheets, fewer sheets or the same? Why do you think so?",
-     "kid": "A hidden glow under 12 sheets. Wait 20 minutes in the dark. Will you see the glow through more sheets or fewer? Why?",
+     "kid": "A glow stick is hidden under 12 sheets of paper. After 20 minutes in the dark, will you see the glow through more sheets or fewer? Why?",
      "ask": [
       {
        "q": "Why do you think the number of sheets might change, or stay the same?",
@@ -1762,7 +1762,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Cut six A4 sheets in half to make 12 half-sheets. Put a table and two chairs in the dark room. Towel the gap under the door. Snap the glow stick and lay it flat on the table. Cover it with all 12 half-sheets, stacked neatly.",
+     "do": "Cut six A4 sheets in half to make 12 half-sheets. Put a table and two chairs in the dark room. Block the gap under the door with a towel. Snap the glow stick and lay it flat on the table. Cover it with all 12 half-sheets, stacked neatly.",
      "say": "We cut twelve half-sheets. The stick lies under all of them. Put your chair about thirty centimetres from the stack. This is where you will sit for every test.",
      "kid": "Cut 6 sheets in half. Snap the glow stick. Cover it with all 12 half-sheets.",
      "adult": true,
@@ -1784,11 +1784,11 @@
      "id": "s3",
      "mins": 3,
      "do": "Sit with your child in the brightest room for 3 minutes, facing a bright lamp or window. Do not look at the Sun. Then walk them, holding their hand, into the dark room.",
-     "say": "First we make your eyes ready for bright light. Look at this bright lamp, but not too closely, for three minutes. Now come into the dark room with me. Sit in your chair, and keep your eyes open.",
+     "say": "First we get your eyes used to bright light. Look at this bright lamp, but not too closely, for three minutes. Now come into the dark room with me. Sit in your chair, and keep your eyes open.",
      "kid": "Sit in bright light for 3 minutes. Then walk into the dark room. Keep your eyes open.",
      "adult": true,
-     "parent": "Bright light uses up the rhodopsin in the rod cells, so the test starts from a clear point. Never let your child look at the Sun or at the bulb directly.",
-     "context": "In this step, you make your child's eyes ready for bright light. Then you go into the dark room."
+     "parent": "Bright light uses up the rhodopsin in the rod cells, so the test has a clear starting point. Never let your child look at the Sun or at the bulb directly.",
+     "context": "In this step, you get your child's eyes used to bright light. Then you go into the dark room."
     },
     {
      "id": "s4",
@@ -1850,11 +1850,11 @@
     {
      "id": "s8",
      "mins": 4,
-     "do": "Ask for claim, evidence and reasoning. Draw a line graph of the four numbers, with minutes along the bottom and sheets up the side.",
+     "do": "Ask your child three things: what they think now, what they saw in their numbers that shows it, and why they think it happened. Draw a line graph of the four numbers, with minutes along the bottom and sheets up the side.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see in your numbers that shows it? Third, why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw in my numbers. Why it happened.",
+     "kid": "Say three things: what you think, what you saw in your numbers, and why it happened.",
      "parent": "A good answer. What I think: eyes can see fainter and fainter light the longer they are in the dark. What I saw: at 1 minute I saw the glow through a few sheets, and at 20 minutes through more. Why: the light and the stack did not change, so my eyes must have. After bright light, the rod cells need time to build back their light-catching chemical. Do not give this explanation first. Ask for the child's own idea, and then add this.",
-     "think": "A firefly's flash is faint. What does a firefly need from their watchers before they can be seen?",
+     "think": "A firefly's flash is faint. What do a watcher's eyes need before they can see it?",
      "context": "In this step, you say what the numbers show, and draw a line graph."
     }
    ]
@@ -1864,10 +1864,10 @@
    "title": "The Helper That Heat Stops: raw potato, boiled potato and a bottle of peroxide",
    "mins": 31,
    "days": 1,
-   "context": "This is a test of an enzyme, a helper chemical. A raw potato holds an enzyme that fizzes in hydrogen peroxide. You find out what boiling does to the helper, and what cold does. This is the same sort of helper as luciferase in a firefly.",
+   "context": "This is a test of an enzyme, a helper chemical. A raw potato holds an enzyme that makes hydrogen peroxide fizz. You find out what boiling does to the helper, and what cold does. This is the same sort of helper as luciferase in a firefly.",
    "question": "Which potato will make hydrogen peroxide fizz the most: a raw one, a boiled one or a very cold raw one?",
    "predict": "Before you start, guess. Which glass will have the most foam? Which will have the least? Why do you think so?",
-   "fair_test": "Every glass gets 3 cubes of potato of the same size, 1 centimetre on each side, and the same amount of hydrogen peroxide and the same drop of dish-wash liquid. You pour all the glasses at the same time and measure after the same 2 minutes. Only the potato changes: raw, boiled or cold. A fourth glass with no potato at all shows what the peroxide does alone.",
+   "fair_test": "Every glass gets 3 cubes of potato of the same size, 1 centimetre on each side, the same amount of hydrogen peroxide and one drop of dish-wash liquid. You pour all the glasses at the same time and measure after the same 2 minutes. Only the potato changes: raw, boiled or cold. A fourth glass with no potato at all shows what the peroxide does alone.",
    "results_table": [
     "Glass",
     "What is in it",
@@ -1962,7 +1962,7 @@
      "mins": 4,
      "do": "Show your child the potato, the peroxide and the four glasses. Say what will go into each glass. Ask for a guess and a reason. Write the guess down.",
      "say": "We will drop potato cubes into hydrogen peroxide. Glass A gets raw potato. Glass B gets boiled potato. Glass C gets raw potato that was very cold. Glass D gets no potato. Which glass will have the most foam? Why do you think so?",
-     "kid": "Four glasses. Raw potato, boiled potato, cold potato and none. Which makes the most foam? Why?",
+     "kid": "There are four glasses: raw potato, boiled potato, cold potato and no potato. Which makes the most foam? Why?",
      "ask": [
       {
        "q": "Why do you think boiling might change what a potato does?",
@@ -1979,7 +1979,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "A grown-up peels the potato and cuts 9 cubes of about 1 centimetre. Boil 3 cubes for 5 minutes, then cool them under cold tap water. Put 3 cubes in the bowl of ice water for 15 minutes. Keep 3 cubes raw on a plate. Meanwhile, label the glasses and put 1 drop of dish-wash liquid in each.",
+     "do": "A grown-up peels the potato and cuts 9 cubes of about 1 centimetre. Boil 3 cubes for 5 minutes, then cool them under cold tap water. Put 3 cubes in a bowl of ice water for 15 minutes. Keep 3 cubes raw on a plate. Meanwhile, label the glasses A to D and put 1 drop of dish-wash liquid in each.",
      "say": "While the boiled cubes cook, and the cold ones chill, we get the glasses ready. Each glass gets one drop of dish-wash liquid. The soap will help us see the bubbles as foam.",
      "kid": "Ask a grown-up to cut and boil. Label the glasses A to D. Add 1 drop of soap to each.",
      "adult": true,
@@ -2040,9 +2040,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask for claim, evidence and reasoning. Draw a bar chart of the foam heights.",
+     "do": "Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Draw a bar chart of the foam heights.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why it happened.",
+     "kid": "Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer. What I think: raw potato makes peroxide fizz, and heat stops it. What I saw: raw foamed the most, boiled hardly at all, cold a medium amount, and no potato did nothing. Why: raw potato holds a helper chemical, an enzyme. Heat bends the enzyme out of shape so it cannot help. Cold only slows it. In the 1880s, Raphael Dubois found that heat also stopped the helper in a glowing beetle but left the fuel unharmed. Give this last part only after your child has given their own ideas.",
      "think": "A firefly's luciferase is also an enzyme. What do you think would happen to a firefly's glow in very hot water?",
      "context": "In this step, you say what the foam heights show, and draw a bar chart."
@@ -2096,7 +2096,7 @@
      "qty": 1
     }
    ],
-   "safety": "UV light can harm eyes. A grown-up holds the torch. Never shine it at anyone's eyes, your own, a pet's or a mirror. Keep it pointing down at the table, and do not look into the beam. Keep the torch off bare skin for long. Small button batteries are dangerous if swallowed, so keep them away from children under five. Do not drink the tonic water after it has been in a test.",
+   "safety": "UV light can harm eyes. A grown-up holds the torch. Never shine it at anyone's eyes, including your own or a pet's, and never at a mirror. Keep it pointing down at the table, and do not look into the beam. Do not shine the torch on bare skin for long. Small button batteries are dangerous if swallowed, so keep them away from children under five. Do not drink the tonic water after it has been in a test.",
    "record": "Fill in the table. Draw the thing that glowed the brightest, with its colour.",
    "setup": [
     {
@@ -2118,7 +2118,7 @@
      "mins": 4,
      "do": "Lay out the nine things on a table. Show your child the UV torch, but do not switch it on yet. Ask for a guess for each thing and a reason. Write the guesses in the table.",
      "say": "This torch makes a light your eyes cannot see. It is called ultraviolet. We will shine it on each thing. Which will glow? Which will keep glowing when we switch the torch off? Why do you think so?",
-     "kid": "Nine things on the table. A UV torch. Which will glow? Which will keep glowing? Why?",
+     "kid": "There are nine things on the table, and a UV torch. Which will glow? Which will keep glowing after the torch goes off? Why?",
      "ask": [
       {
        "q": "Why do you think a light we cannot see might make some things glow?",
@@ -2136,7 +2136,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Draw a line of yellow highlighter and a line of blue pen on a plain sheet of paper. Darken the room. A grown-up holds the torch pointing down. Shine it on the white paper first.",
-     "say": "We switch off the room light. I will hold the torch. Look at the paper. Does it glow? What colour? We will go on to the other things.",
+     "say": "We switch off the room light. I will hold the torch. Look at the paper. Does it glow? What colour? Next we will test the other things.",
      "kid": "Draw 2 lines on paper. Darken the room. Look at the paper under the UV torch.",
      "adult": true,
      "parent": "Do not worry if the torch itself looks violet. That is only a little visible light that the torch gives out. Most white paper has a chemical that glows blue-white under UV, but some paper does not. Write down what yours does.",
@@ -2145,7 +2145,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Test each thing in turn for a count of five. Do the highlighter line, the blue pen line, the newspaper and the washed cloth first. Then do the unwashed cloth, the leaf, the plain water, the tonic water and the star. Write what you see in the table.",
+     "do": "Test each thing in turn for a count of five. Do the highlighter line, the blue pen line, the newspaper and the washed cloth first. Then do the unwashed cloth, the leaf, the plain water, the tonic water and the glow-in-the-dark star. Write what you see in the table.",
      "say": "Next thing. Hold the torch ten centimetres away. Count to five. What do you see? What colour? Write it in the table.",
      "kid": "Test each thing for a count of five. Write what you see.",
      "adult": true,
@@ -2166,7 +2166,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Switch the torch off. Count to five in the dark. Look at each thing again. Write which ones are still glowing. The star should still be glowing a little.",
+     "do": "Switch the torch off. Count to five in the dark. Look at each thing again. Write which ones are still glowing. The glow-in-the-dark star should still be glowing a little.",
      "say": "Now the torch is off. Look carefully. Which things are still glowing? Which went dark at once?",
      "kid": "Switch the torch off. Which things still glow? Which went dark?",
      "adult": true,
@@ -2187,11 +2187,11 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Ask for claim, evidence and reasoning. Compare with a firefly, who needs no torch at all.",
+     "do": "Ask your child three things: what they think now, what they saw, and why they think it happened. Then compare these glows with a firefly, who needs no torch at all.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see? Third, why do you think it happened? Then tell me how a firefly's glow is different from all of these.",
-     "kid": "Say three things. What I think. What I saw. Why. Then say how a firefly is different.",
+     "kid": "Say three things: what you think, what you saw, and why it happened. Then say how a firefly is different.",
      "parent": "A good answer. What I think: some things send light back at once when a UV torch shines, and some store it. What I saw: the highlighter, the cloth and the tonic water glowed and went dark when the torch was off, and the star kept glowing. Why: fluorescent things turn the invisible UV into visible light at once, and stored glows keep the light and let it out slowly. A firefly is different because they make new light from chemicals, and need no torch at all.",
-     "think": "Why does a paper money note have parts that glow under UV, and who would want to check this?",
+     "think": "Why does a banknote have parts that glow under UV, and who would want to check this?",
      "context": "In this step, you say what the test showed, and compare it with living light."
     }
    ]
@@ -2230,7 +2230,7 @@
      "what": "Cover your eyes for 30 seconds. Open them and let your partner watch your pupils. Swap roles. Draw what you saw."
     }
    ],
-   "record": "Draw one eye twice: the pupil just after you open your hands, and the pupil two seconds later. Write whether it grew or shrank.",
+   "record": "Draw one eye twice: the pupil just after the hands are taken away, and the pupil two seconds later. Write whether it grew or shrank.",
    "setup": [
     {
      "art": "A close-up drawing of an eye with a large black pupil and a small coloured ring, next to the same eye with a small pupil and a large coloured ring.",
@@ -2271,7 +2271,7 @@
      "do": "Your child covers their eyes with cupped hands for 30 seconds. The room stays bright. Then they take their hands away. You watch their pupils closely for the first three seconds. Say what you saw.",
      "say": "Cover your eyes with both hands, like a tent. Keep your eyes open under your hands. I will count thirty seconds. Now take your hands away. I am watching your pupils.",
      "kid": "Cover your eyes with cupped hands for 30 seconds. Take your hands away. Your partner watches.",
-     "parent": "Expected: just after the hands move, the pupils are wide, and within about two seconds they shrink. It can be quick, so repeat the test two or three times. Keep the light from the room the same each time.",
+     "parent": "Expected: just after the hands move, the pupils are wide, and within about two seconds they shrink. It can be quick, so repeat the test two or three times. Keep the room just as bright each time.",
      "check": {
       "t": "mcq",
       "q": "When hands are taken away from the eyes in a bright room, what happens to the pupils?",
@@ -2296,9 +2296,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask for claim, evidence and reasoning. Then mention that cat pupils are slits and an octopus has a rectangular pupil.",
+     "do": "Ask your child three things: what they think now, what they saw, and why they think pupils change. Then mention that cat pupils are slits and an octopus has a rectangular pupil.",
      "say": "What do you think now? What did you see? Why do you think pupils change? A cat's pupil is a thin slit by day and a big circle at night. Why might that help a cat?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer. What I think: pupils get bigger in the dark and smaller in bright light. What I saw: the black circle shrank in about two seconds. Why: the pupil lets light in, so a bigger pupil catches more light in the dark. Pupils can change the amount of light by roughly ten times or more, but the chemical change in the retina is a much bigger change. That takes about twenty minutes, as you will see in the Eyes in the Dark test.",
      "think": "A firefly's flash is faint. What could an owl do with their pupils to see it better?",
      "context": "In this step, you say what you saw about pupils, and compare with a cat."
@@ -2405,9 +2405,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Compare the two numbers. Ask for claim, evidence and reasoning. Mention that astronomers use this trick to see faint stars.",
+     "do": "Compare the two numbers. Ask your child three things: what they think now, what numbers they got, and why they think it happened. Mention that astronomers use this trick to see faint stars.",
      "say": "What do you think now? What numbers did you get? Why do you think the corner of the eye might see a faint light better? Astronomers use this trick to look at faint stars. They call it averted vision.",
-     "kid": "Compare your two numbers. Say three things. What I think. What I saw. Why.",
+     "kid": "Compare your two numbers. Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer. What I think: a faint light is easier to see from the corner of the eye. What I saw: I saw the glow through more sheets when I looked beside it. Why: the middle of the eye has cone cells, which need bright light, and the sides have many rod cells.",
      "context": "In this step, you compare the two numbers and say what they show."
     }
@@ -2474,7 +2474,7 @@
      "mins": 4,
      "do": "Show your child the glass, the jug and the coloured signal water. Explain that each spoonful is the signal from one bacterium. Ask for a guess: how many spoonfuls will the jug need compared with the glass?",
      "say": "Each spoonful of coloured water is the signal that one bacterium makes. The glass is like a squid's tiny light organ. The jug is like the open sea. When the water looks coloured, the bacteria know the crowd is big enough. How many spoonfuls will the glass need? And the jug? Why do you think so?",
-     "kid": "A spoonful of colour is one bacterium's signal. How many for the glass? How many for the jug? Why?",
+     "kid": "A spoonful of coloured water is one bacterium's signal. How many spoonfuls will the glass need? How many will the jug need? Why?",
      "ask": [
       {
        "q": "Why do you think the jug will need more or fewer spoonfuls than the glass?",
@@ -2491,7 +2491,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Stir 5 drops of food colour into half a cup of water. This is the signal water. Put the small glass and the plain glass side by side on the white paper. Compare them from above.",
+     "do": "Stir 5 drops of food colour into half a cup of water. This is the signal water. Put the small glass of water and a second glass of plain water side by side on the white paper. You will compare them by looking from above.",
      "say": "This is the signal water. We will add it one spoonful at a time. We stop when the water in the glass looks clearly different from the plain glass.",
      "kid": "Stir 5 drops of colour into half a cup of water. Put 2 glasses on white paper.",
      "context": "In this step, you make the signal water and set out the glasses."
@@ -2527,11 +2527,11 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Divide the jug count by the glass count. Ask for claim, evidence and reasoning.",
+     "do": "Divide the jug count by the glass count. Ask your child three things: what they think now, what they saw, and why they think it happened.",
      "say": "How many more spoonfuls did the jug need? What do you think now? What did you see? Why do you think a glowing bacterium alone in the sea stays dark?",
-     "kid": "Compare the two counts. Say three things. What I think. What I saw. Why.",
+     "kid": "Compare the two counts. Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer. What I think: a signal is strong only if there are many bacteria in a small space. What I saw: the glass needed a few spoonfuls and the jug needed many more. Why: in the big jug the signal spreads out. That is why bacteria in the open sea stay dark and bacteria packed in a squid's light organ glow.",
-     "think": "A squid empties out most of their bacteria at dawn. What would happen to the signal inside her light organ then?",
+     "think": "A squid empties out most of their bacteria at dawn. What would happen to the signal inside their light organ then?",
      "context": "In this step, you compare the counts and say what they show about glowing bacteria."
     }
    ]
@@ -2636,9 +2636,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Turn on the room light and check each square. Count how many your child named correctly. Ask for claim, evidence and reasoning.",
+     "do": "Turn on the room light and check each square. Count how many your child named correctly. Ask your child three things: what they think now, what they saw, and why they think it happened.",
      "say": "Now the light is on. Let's check. How many did you name correctly? What do you think now? What did you see? Why do you think colours seem to fade in the dark?",
-     "kid": "Switch on the light. Check each square. Count how many you got right. Say three things.",
+     "kid": "Switch on the light. Check each square. Count how many you got right. Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer. What I think: colours fade in very dim light. What I saw: I called the squares greys, and only the white and black were easy. Why: rod cells work in dim light but cannot see colour, and cone cells need more light. It is also why a moonlit garden looks grey.",
      "context": "In this step, you check the colours and say what the test showed."
     }
@@ -2651,7 +2651,7 @@
    "title": "How Dark Is Our Sky? A star count in three conditions",
    "days": 3,
    "mins": 65,
-   "context": "This is a star count. You count how many stars you can see in a fixed patch of the sky, on three nights with different amounts of light and waiting. You find out what bright lights and tired eyes do to the stars you can see.",
+   "context": "This is a star count. You count how many stars you can see in a fixed patch of the sky, on three nights with different amounts of light and waiting. You find out how bright lights, and eyes that have not waited in the dark, change the number of stars you can see.",
    "materials": [
     {
      "item": "a piece of card about 25 centimetres square with a 15 centimetre square window cut out by a grown-up",
@@ -2675,7 +2675,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Make the card window. Go out with all the lights on. Count stars straight overhead at once. Write the number."
+     "what": "Make the card window. Go out with all the lights on. Count the stars straight overhead straight away, without waiting. Write the number."
     },
     {
      "day": 2,
@@ -2727,7 +2727,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "On night 1, keep all the lights on near you. Go out. Hold the string against your nose and the card out straight. Look straight up through the window. Count the stars in the window. Write the number, and write what you can see.",
+     "do": "On night 1, keep all the lights on near you. Go out. Hold the string against your nose and the card out straight. Look straight up through the window. Count the stars in the window. Write the number, and anything else you notice.",
      "say": "Night one. All our lights are on. Hold the string to your nose and look straight up through the window. Count every star you can see. Write down the number.",
      "kid": "Hold the string to your nose. Look straight up. Count the stars in the window.",
      "adult": true,
@@ -2784,7 +2784,7 @@
    "id": "c1",
    "title": "The Unforgeable Flash: invent a signal that a trickster cannot copy",
    "mins": 30,
-   "context": "In the first Living light unit, trickster fireflies copied the answer of another kind to catch them. This is a design challenge. You invent a flash code for two friends. A trickster watches and tries to copy it, and your code must still work.",
+   "context": "In the first Living light unit, you read about trickster fireflies, who copy the answer flash of another kind of firefly to catch them. This is a design challenge. You invent a flash code for two friends. A trickster watches and tries to copy it, and your code must still work.",
    "problem": "You and a friend are on opposite sides of a dark room. You each have a torch. Invent a flash code so you know it is really your friend, and not a trickster who has been watching and copying. The trickster gets to watch your code three times.",
    "constraints": [
     "You may use only torches, with no sound and no words.",
@@ -2807,7 +2807,7 @@
    "creative": [
     "Make the code change after every flash, so a copy of the last round does not work on the next.",
     "Add a colour change with a piece of cellophane over the torch that only you two know about.",
-    "Hide the key in how long you wait. A trickster can copy a flash, but it is hard to copy a wait of exactly two heartbeats."
+    "Make the length of the wait the secret. A trickster can copy a flash, but it is hard to copy a wait of exactly two heartbeats."
    ],
    "your_turn": "Invent your own code. Write it down. Test it with a trickster who watches three rounds. Change one thing and test again. Which code was hardest to copy? Why do you think so?",
    "setup": [
@@ -2829,7 +2829,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Explain the trickster fireflies. Ask for ideas on what a trickster could copy easily and what would be hard to copy.",
-     "say": "Some female fireflies copy the answer of another kind, and then catch the males who come. Our trickster is a person who watches and copies. What is easy to copy about a flash? What is hard?",
+     "say": "Some female fireflies copy the answer flash of another kind of firefly, and then catch the males who come. Our trickster is a person who watches and copies. What is easy to copy about a flash? What is hard?",
      "kid": "A trickster watches your flashes. What is easy to copy? What is hard to copy?",
      "ask": [
       {
@@ -2846,7 +2846,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child and a friend or you design a code and write it down. They decide the flashes, the wait before the reply, and what the reply is.",
+     "do": "Your child and a friend, or your child and you, design a code and write it down. They decide the flashes, the wait before the reply, and what the reply is.",
      "say": "Design your code. How many flashes? How long between them? What does your friend send back? Write it down so you both remember it.",
      "kid": "Design a code. Write down the flashes, the wait and the reply.",
      "context": "In this step, you design and write down the flash code."
@@ -2856,7 +2856,7 @@
      "mins": 10,
      "do": "In a dim room, the two friends use the code three times. The trickster watches. Then the trickster tries to copy it. The friend says if they believe the trickster. Write down whether it worked.",
      "say": "Trickster, watch carefully. Friends, send your code three times. Now trickster, your turn. Friend, is that your real friend, or the trickster?",
-     "kid": "Use your code 3 times. The trickster tries to copy it. Is it fooled?",
+     "kid": "Use your code 3 times. The trickster tries to copy it. Is your friend fooled?",
      "check": {
       "t": "mcq",
       "q": "A code is just three quick flashes with no reply. Why is it easy for a trickster to copy?",
@@ -2868,7 +2868,7 @@
       "a": 0,
       "why": "A trickster copies what they can see. A secret that is not in the flash, such as a hidden change or an exact wait, is harder to copy. Picking 'flashes cannot be copied' misses that the trickster fireflies really do copy flashes."
      },
-     "parent": "Be a fair trickster. Copy the flashes as well as you can, and do not guess at a secret. If your child's code is fooled, that is useful. It tells them what to change.",
+     "parent": "Be a fair trickster. Copy the flashes as well as you can, and do not guess at a secret. If you manage to copy your child's code, that is useful. It tells them what to change.",
      "context": "In this step, you test the code against a trickster."
     },
     {
@@ -2929,7 +2929,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Remember the game rule and how many ticks it took. Ask your child to guess how to make a rule that is faster.",
+     "do": "Read the problem together. Recall the listen rule from the Flash Together game, and how many ticks the group took to line up. Ask your child to guess how to make a rule that is faster.",
      "say": "In the game, we lined up after about a dozen ticks. Can you make a rule that is faster? Can you make one that fails? Think of a rule, and write it in one sentence.",
      "kid": "Think of a new rule. Could it be faster than the game rule? Write it in one sentence.",
      "ask": [
@@ -2947,7 +2947,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Choose three rules to test: the game rule, your own rule and one rule of your own choice. Write each in one sentence. Fix the cards and start numbers, so each rule is tested the same way.",
+     "do": "Choose three rules to test: the game rule, your child's own rule and one more rule. Write each in one sentence. Fix the cards and start numbers, so each rule is tested the same way.",
      "say": "We test three rules. The game rule, your rule, and one more. We use the same cards and the same start numbers for each. Why is that important?",
      "kid": "Pick 3 rules. Use the same cards and start numbers for each. Why is that fair?",
      "check": {
@@ -2975,9 +2975,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Compare the three rules in a table. Ask which was fastest and which failed. Ask for claim, evidence and reasoning.",
+     "do": "Compare the three rules in a table. Ask which was fastest and which failed. Then ask your child three things: what they think now, what they saw, and why they think the best rule worked.",
      "say": "Which rule was fastest? Which never worked? What do you think now? What did you see? Why do you think the best rule worked?",
-     "kid": "Which rule was fastest? Which failed? Say three things. What I think. What I saw. Why.",
+     "kid": "Which rule was fastest? Which failed? Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer. What I think: the more willing each firefly is to join, the faster the group lines up. What I saw: the bold rule was fastest, and the shy rule never worked. Why: joining a flash pulls fireflies into step, and a rule that joins too late or only nudges never makes them flash at the same tick.",
      "think": "A firefly that joins every flash flashes at the pace of the fastest one. Is that good or bad for the group?",
      "context": "In this step, you compare the rules and say which worked and why."
@@ -3029,7 +3029,7 @@
   },
   {
    "t": "mcq",
-   "p": "A cook boils milk, and many of the enzymes in the milk stop working. Why?",
+   "p": "When milk is boiled, many of the enzymes in the milk stop working. Why?",
    "opts": [
     "Heat bends the enzymes out of shape, so they cannot grip anything",
     "Heat uses the enzymes up",
@@ -3137,14 +3137,14 @@
   },
   {
    "t": "mcq",
-   "p": "Imagine two groups of fireflies with different beats. Group one joins any flash they see once they are past halfway to their own flash. Group two ignores every flash but their own. Which group will line up, and why?",
+   "p": "There are two groups of fireflies with different beats. In group one, each firefly joins any flash they see once they are past halfway to their own flash. In group two, each firefly ignores every flash but their own. Which group will line up, and why?",
    "opts": [
     "Group one, because answering each other's flashes pulls them into step",
     "Group two, because each keeps their own steady beat",
     "Neither, because only a leader can line them up"
    ],
    "a": 0,
-   "why": "A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' is the idea that this unit shows is not needed.",
+   "why": "A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this unit shows: no leader is needed.",
    "outcome": 6
   },
   {
@@ -3156,7 +3156,7 @@
     "Both make light"
    ],
    "a": 0,
-   "why": "In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' is the idea that this lesson shows is not needed.",
+   "why": "In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' misses what this unit shows: no leader is needed.",
    "outcome": 6
   },
   {
@@ -3189,7 +3189,7 @@
   "Scientists attach green fluorescent protein to other proteins to watch nerve cells grow and cancer cells spread.",
   "Glowing bacteria are used to test water, because a poison in the water makes them dim.",
   "Doctors use enzymes in medicine and in blood tests, and keep them cool because heat would bend them out of shape.",
-  "Astronomers and sailors use a dim red lamp at night so that their night eyes are not spoiled.",
+  "Astronomers and sailors use a dim red lamp at night so that their eyes stay used to the dark.",
   "Shopkeepers and banks use UV torches to check notes and documents for parts that glow under UV.",
   "Washing powder makers add chemicals that send out blue-white light under UV, so clothes look whiter.",
   "Engineers study how a firefly's lantern lets out so much light, to make better LED lamps.",
@@ -3267,7 +3267,7 @@
   "When you are in a very dark room, which do you think sees better, the middle of your eye or the side?",
   "If you could invent a code of flashes with a friend, what would it say?",
   "Where in our house is a light that nobody needs at night?",
-  "Who in your family decides when to stop and listen to others, and when to lead?",
+  "In your family, when do you stop and listen to others, and when do you lead?",
   "Why do you think a firefly's light is yellow-green and a deep-sea animal's is blue?",
   "What do you think a baby turtle sees when she hatches on a beach at night?",
   "Which things in our kitchen change when they are heated, and which change back when they are cooled?",
@@ -3314,7 +3314,7 @@
  ],
  "maths": [
   {
-   "problem": "In a made-up Eyes in the Dark test, a child saw the glow through 3 sheets at 1 minute, 5 at 5 minutes, 7 at 10 minutes and 9 at 20 minutes. How many more sheets was it at 20 minutes than at 1 minute? How many times as many?",
+   "problem": "In a made-up Eyes in the Dark test, a child saw the glow through 3 sheets at 1 minute, 5 at 5 minutes, 7 at 10 minutes and 9 at 20 minutes. How many more sheets could the child see through at 20 minutes than at 1 minute? How many times as many is that?",
    "answer": "6 more sheets, and 3 times as many.",
    "explain": "9 sheets at 20 minutes take away 3 sheets at 1 minute is 6. The child saw through 9 sheets after 20 minutes and 3 sheets after 1 minute. 9 divided by 3 is 3. So the child saw through 3 times as many sheets.",
    "math_unit": "math.data.bar-charts.L4",
@@ -3377,7 +3377,7 @@
    "why_maths": "If the space is 10 times bigger, the signal you need is 10 times bigger. Multiplying shows why a crowd in a tiny space can count itself, and one in the open sea cannot."
   },
   {
-   "problem": "One firefly flashes every 6 ticks and another every 8 ticks, and both start at tick 0 in the Flash Together game with the ignore rule. When is the next tick when they flash at the same time?",
+   "problem": "One firefly flashes every 6 ticks and another every 8 ticks, and both start at tick 0 in the Flash Together game with the ignore rule. At which tick do they next flash at the same time?",
    "answer": "At tick 24.",
    "explain": "The first firefly flashes at 6, 12, 18, 24 and so on. The second flashes at 8, 16, 24 and so on. The first number in both lists is 24. So they flash together next at tick 24, and then not again until tick 48.",
    "math_unit": "math.factors-multiples.factors-and-multiples.L4",
@@ -3428,7 +3428,7 @@
   {
    "problem": "A bobtail squid pushes out 9 tenths of her 1,000 glowing bacteria at dawn. The bacteria that are left double every hour. After 3 hours, how many bacteria are there?",
    "answer": "800 bacteria.",
-   "explain": "9 tenths of 1,000 is 900, so 1,000 take away 900 leaves 100. After 1 hour there are 200, after 2 hours 400, and after 3 hours 800. This is made-up numbers, but real squid also refill their light organ each day.",
+   "explain": "9 tenths of 1,000 is 900, so 1,000 take away 900 leaves 100. After 1 hour there are 200, after 2 hours 400, and after 3 hours 800. These are made-up numbers, but real squid also refill their light organ each day.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
    "context": "This is about the squid and her glowing bacteria. Each dawn the squid pushes out most of the bacteria, and the few left multiply again during the day.",
    "why_maths": "Taking a fraction and then doubling shows how fast a small group can grow back, which is how the squid's lamp refills."
@@ -3692,7 +3692,7 @@
  "roots": {
   "context": "We have followed living light from a firefly's chemistry to the eye that reads it, and to a crowd of fireflies flashing as one. Now we ask what that tells us about leaders, crowds and ourselves.",
   "deep_truth": {
-   "truth": "Thousands of fireflies can flash as one with no leader. In the game, each player followed one rule: join a flash you see, if you are past halfway. The group lined up fast with that rule, and never lined up without it. So a crowd acts as one through how its members answer each other, not through any one member.",
+   "truth": "Thousands of fireflies can flash as one with no leader. In the Flash Together game, each player followed one rule: join a flash you see, if your marker is at halfway or further. The group lined up fast with that rule, and never lined up without it. So a crowd acts as one through how its members answer each other, not through any one member.",
    "habit": "We think that when many things act together, one of them must be in charge, or must have given the signal.",
    "evidence": "In the Flash Together game, players with different beats flashed together within about 20 ticks, when each one joined the flashes they saw. In the round where they ignored each other, they never lined up in 40 ticks. If your own rounds went differently, write them down as they are and play again."
   },

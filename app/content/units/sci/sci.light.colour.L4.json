@@ -7,8 +7,8 @@
     "art": "A dim room with a red torch and a green torch shining on a white wall, a glowing yellow patch in the middle where the beams overlap, and a pencil in front of the wall with one red shadow and one green shadow."
   },
   "intro": {
-    "hook": "Switch off the room light. Shine a red torch on a white wall. Now add a green torch on the same spot. What colour is the spot now? Most people are sure they know. Most people are wrong.",
-    "text": "Red light plus green light makes yellow. But red paint plus green paint makes a muddy brown. Lights and paints seem to follow opposite rules. In this unit you find out why. You make coloured shadows, stack coloured inks, and light up objects with coloured torches. You will see a coloured thing turn almost black, and a white wall turn yellow with no yellow light anywhere. Then you meet the real puzzle. The yellow is not in the room. So where is it?",
+    "hook": "Switch off the room light. Shine a red torch on a white wall. Now add a green torch on the same spot. What colour is the spot now? Most people guess wrong, because lights do not mix the way paints do.",
+    "text": "Red light plus green light makes yellow. But red paint plus green paint makes a muddy brown. Lights and paints seem to follow opposite rules. In this unit you find out why. You make coloured shadows, stack coloured inks, and light up objects with coloured torches. You will see a coloured thing turn almost black, and a white wall turn yellow with no yellow light anywhere. Then you look at the real puzzle: if there is no yellow light in the room, where does the yellow come from?",
     "art": "A child in a dark room holding two torches, one with red cellophane and one with green, both pointing at a white wall that glows yellow where the beams meet."
   },
   "outcomes": [
@@ -18,7 +18,7 @@
     "I can say why a coloured thing can look bright in one coloured light and almost black in another.",
     "I can explain that most eyes have three kinds of colour-sensing cells, and that this is why three lights can make every colour on a screen.",
     "I can explain why tiny dots of two colours blend into a third colour when I stand far enough away.",
-    "I can fill in a results table, compare it with my guess, and finish with claim, evidence and reasoning.",
+    "I can fill in a results table, compare it with my guess, and finish by saying what I think, what I saw and why it happened.",
     "I can say what scientists agree about mixing colours, and what nobody knows yet."
   ],
   "cards_mins": 20,
@@ -56,7 +56,7 @@
     {
       "term": "Subtractive mixing",
       "meaning": "Mixing filters, inks or paints. Each one takes some colours away from white light, so the mix is darker than each one alone.",
-      "example": "Yellow highlighter over blue highlighter makes green that is darker than either.",
+      "example": "Yellow highlighter over blue highlighter makes a green that is darker than either highlighter alone.",
       "art": "A white page with a yellow stripe and a blue stripe crossing, the crossing square dark green."
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "term": "Cone cell",
-      "meaning": "One of the colour-sensing cells in the retina. Most people have three kinds, and each kind responds best to a different part of the rainbow.",
+      "meaning": "One of the colour-sensing cells in the retina, at the back of the eye. Most people have three kinds, and each kind responds best to a different part of the rainbow.",
       "example": "Your cone cells are working right now as you read this page in daylight.",
       "art": "A drawing of a retina with cone cells in three shades: one reddish, one greenish and one bluish."
     },
@@ -91,8 +91,8 @@
     },
     {
       "term": "Complementary colours",
-      "meaning": "Two colours of light that make white when added together, such as red and cyan. In paint they are pairs that make a dull grey-brown.",
-      "example": "On the colour circle, yellow sits opposite blue.",
+      "meaning": "Two colours of light that make white when added together, such as red and cyan. Mixed as paints, the same pairs make a dull grey-brown.",
+      "example": "Blue light and yellow light together make white, so blue and yellow are complementary.",
       "art": "A circle divided into six coloured slices with arrows joining opposite slices."
     },
     {
@@ -104,13 +104,13 @@
     {
       "term": "Optical mixing",
       "meaning": "Colours blending in your eye because tiny dots of different colours are too small to tell apart.",
-      "example": "From across a room, close red and green dots look yellow-brown.",
+      "example": "Red and green dots drawn close together look yellow-brown from across a room.",
       "art": "A grid of red and green dots, close up, and the same grid as one smooth patch from far away."
     },
     {
       "term": "Halftone",
       "meaning": "A way of printing a picture with tiny dots of a few inks. From far away, the dots blend into a picture with many colours.",
-      "example": "A colour newspaper photo is made of tiny dots when you look at it with a magnifying glass.",
+      "example": "Look at a colour newspaper photo with a magnifying glass, and you can see that it is made of tiny dots.",
       "art": "A newspaper photo with a circle magnified to show cyan, magenta, yellow and black dots."
     },
     {
@@ -139,13 +139,13 @@
       ],
       "perspectives": [],
       "art": "A white wall with three circles of light, red, green and blue, overlapping, with labels for yellow, cyan, magenta and white.",
-      "context": "You may think mixing means getting muddy. This card shows the other kind of mixing, where colours get brighter."
+      "context": "You may think that mixing colours always makes them darker and muddier. This card shows the other kind of mixing, where colours get brighter."
     },
     {
       "concept": "Why red and green lights look yellow",
       "status": "defined",
       "definition": "The eye has three kinds of colour cells. Red light plus green light excites them in nearly the same way as real yellow light does, so we see yellow.",
-      "description": "Real yellow light has its own wavelength, between green and orange in the rainbow. A lemon lit by sunshine sends some of this light to your eyes. But the eye does not measure wavelengths. It has three kinds of cone cells, and each kind reports how much light it caught. Real yellow light makes the red-sensing and green-sensing cones respond a lot. A red torch and a green torch together make those same two kinds respond a lot too. The brain gets the same signals, so you see the same yellow. A machine that measures wavelengths could tell the two apart at once. Your eyes cannot.",
+      "description": "Each colour in the rainbow is light of a different wavelength. Real yellow light has its own wavelength, between green and orange in the rainbow. A lemon lit by sunshine sends some of this light to your eyes. But the eye does not measure wavelengths. It has three kinds of cone cells, and each kind reports how much light it caught. Real yellow light makes the red-sensing and green-sensing cones respond a lot. A red torch and a green torch together make those same two kinds respond a lot too. The brain gets the same signals, so you see the same yellow. A machine that measures wavelengths could tell the two apart at once. Your eyes cannot.",
       "examples": [
         "A phone screen shows yellow using only its red and green dots. Its yellow looks the same as a banana's yellow.",
         "A lemon lit by sunshine and a screen showing yellow look alike, though the light from each is very different.",
@@ -167,13 +167,13 @@
       ],
       "perspectives": [],
       "art": "A pencil in front of a white wall lit from the left by a red torch and from the right by a green torch, with the green shadow and red shadow labelled.",
-      "context": "The two torch test showed coloured shadows. This card says why each shadow has the colour it has."
+      "context": "In Two Torches, Two Shadows, a pencil in front of a red torch and a green torch has one red shadow and one green shadow. This card says why each shadow has the colour it has."
     },
     {
       "concept": "Filters take colours away",
       "status": "defined",
       "definition": "A colour filter lets some colours of light through and takes the others away. Two filters together take away even more.",
-      "description": "White light holds every colour. A red filter lets red light through and takes most of the other colours away. The filter does not make red light. It only decides what to let through. A green filter lets green through. Put a red filter and a green filter together, and almost no light gets past both. The light is mostly dark. A cyan filter lets green and blue through. A yellow filter lets red and green through. Put those two together, and only green gets through both. This is called subtractive mixing, because each layer subtracts, or takes away, some light.",
+      "description": "White light holds every colour. A red filter lets red light through and takes most of the other colours away. The filter does not make red light. It only decides what to let through. A green filter lets green through. Put a red filter and a green filter together, and almost no light gets past both. The patch is almost dark. A cyan filter lets green and blue through. A yellow filter lets red and green through. Put those two together, and only green gets through both. This is called subtractive mixing, because each layer subtracts, or takes away, some light.",
       "examples": [
         "A yellow sheet over a cyan sheet in front of a torch gives a green patch.",
         "Red cellophane plus green cellophane in front of a torch gives a patch that is almost dark.",
@@ -187,7 +187,7 @@
       "concept": "Inks, dyes and paints",
       "status": "defined",
       "definition": "Inks, dyes and paints are made of tiny coloured grains or molecules. Each kind takes some colours out of the light and sends the rest back. Mixing them takes away more colours, so the mix is darker.",
-      "description": "A yellow paint sends back red and green and takes away blue. A cyan paint sends back green and blue and takes away red. Mix them and only green is sent back by both, so you get green. But it is a darker green than either paint, because each paint took away some light. Cyan, magenta and yellow are the three colours that mix best for paint and ink. A colour printer uses these three inks and adds black ink. Mixing all three gives a dark muddy colour, not a true black, so black ink is added. Red, yellow and blue paints, as many children learn, also work but make a smaller range of colours.",
+      "description": "A yellow paint sends back red and green and takes away blue. A cyan paint sends back green and blue and takes away red. Mix them and only green is sent back by both, so you get green. But it is a darker green than either paint, because each paint took away some light. Cyan, magenta and yellow are the three colours that mix best for paint and ink. A colour printer uses these three inks and adds black ink. Mixing all three gives a dark muddy colour, not a true black, so black ink is added. Many children learn to mix red, yellow and blue paints. These also work, but they make a smaller range of colours.",
       "examples": [
         "A colour printer makes all its pictures from cyan, magenta, yellow and black ink.",
         "Mixing many paints from a school box makes a dark brown.",
@@ -209,7 +209,7 @@
       ],
       "perspectives": [],
       "art": "A grid of five coloured papers under red, green and blue light, with the bright ones glowing and the dark ones nearly black.",
-      "context": "In an earlier unit, a leaf turned dark under red light. This card turns that single surprise into a rule that you can use for any colour."
+      "context": "A green leaf looks nearly black under red light. This card gives the rule behind that, and you can use the rule for any colour."
     },
     {
       "concept": "Complementary colours and afterimages",
@@ -223,7 +223,7 @@
       ],
       "perspectives": [],
       "art": "A cyan stripe flag and the faint orange-white-green flag appearing on a white wall, with arrows showing tired cells in the retina.",
-      "context": "You will test this on a flag. This card says why the colours flip."
+      "context": "In The Wrong-Colour Flag, you stare at a flag drawn in the wrong colours, then look at a white wall and see the flag in other colours. This card says why the colours change."
     },
     {
       "concept": "Dots that blend",
@@ -231,7 +231,7 @@
       "definition": "When coloured dots are too small and too close to see separately, their light blends in your eye into one colour.",
       "description": "Your eye can only tell two dots apart if they are far enough apart. Closer than that, their light lands on the same cells and mixes. A colour newspaper photo has tiny dots of cyan, magenta, yellow and black ink. From a normal distance the dots blend, and you see a picture with every colour. A screen is the same. It has tiny red, green and blue dots. Painters have used this too. Georges Seurat, a French painter, built whole paintings from small dots of paint in the 1880s. Step back from a dot painting and the colours blend. Step close and they fall apart again.",
       "examples": [
-        "A colour newspaper picture is a pattern of tiny dots when you look at it with a magnifier.",
+        "Look at a colour newspaper picture with a magnifier, and you can see that it is a pattern of tiny dots.",
         "A kolam made with dots of two colours of rangoli powder looks like a third colour from a few steps away.",
         "A TV looks like a smooth picture from the sofa and like coloured dots from one centimetre away."
       ],
@@ -243,7 +243,7 @@
       "concept": "The brain adjusts for the colour of light",
       "status": "idea",
       "definition": "Your brain tries to guess the true colour of a thing, even when the light changes. Scientists call this colour constancy, and they are still working out exactly how it is done.",
-      "description": "A white sheet looks white in sunlight. It also looks white under a yellowish bulb, though the light reaching your eye is much yellower. Your brain notices the colour of the light and takes it into account. It looks at the whole scene, not at one patch. This is why a sari in a shop may look one colour under the shop lights and a slightly different one when you carry it to the door. Cameras do a similar job with a setting called white balance. Nobody yet knows exactly how the brain does it. In 2015, a photo of a dress went around the world, and people argued about whether it was blue and black or white and gold. Their brains had guessed different lights.",
+      "description": "A white sheet looks white in sunlight. It also looks white under a yellowish bulb, though the light reaching your eye is much yellower. Your brain notices the colour of the light and takes it into account. It looks at the whole scene, not at one patch. This is why a sari in a shop may look one colour under the shop lights and a slightly different one when you carry it to the door. Cameras do a similar job with a setting called white balance. Nobody yet knows exactly how the brain does it. In 2015, a photo of a dress went around the world, and people argued about whether it was blue and black or white and gold. Their brains had made different guesses about the light that fell on the dress.",
       "examples": [
         "A white wall looks white in the morning and still looks white in the evening, though the light is yellower.",
         "A phone camera sometimes makes photos look too yellow indoors until its white balance catches up.",
@@ -251,13 +251,13 @@
       ],
       "perspectives": [],
       "art": "A white sheet lit by a yellow lamp and the same sheet in daylight, both drawn white, with an eye and a brain between them.",
-      "context": "A white thing is not always the same colour of light to your eye, yet you see it as white. This card says what your brain does."
+      "context": "The light that reaches your eye from a white thing changes colour when the lamp changes, yet you still see the thing as white. This card says what your brain does."
     },
     {
       "concept": "Different eyes, different colours",
       "status": "defined",
       "definition": "People and animals have different numbers of cone cell types, so they see colour differently. Most people have three. Dogs have two. Many birds have four.",
-      "description": "A dog has two kinds of cone cells, so a dog tells yellow and blue well, but mixes up red and green. Many birds have four kinds, and one of them senses ultraviolet. In many countries, about 1 boy or man in 12 and about 1 girl or woman in 200 has a colour vision difference. In most cases one of the three kinds of cone works differently, so some reds and greens look alike. It is not an illness. It is a different way of seeing. Even among people with three kinds of cone, the exact response of each kind varies a little, so no two people see colour in exactly the same way. A test with dotted number pictures, designed by Shinobu Ishihara in Japan more than 100 years ago, is still used to find out.",
+      "description": "A dog has two kinds of cone cells, so a dog can tell yellow from blue well, but mixes up red and green. Many birds have four kinds, and one of them senses ultraviolet. In many countries, about 1 boy or man in 12 and about 1 girl or woman in 200 has a colour vision difference. In most cases one of the three kinds of cone works differently, so some reds and greens look alike. It is not an illness. It is a different way of seeing. Even among people with three kinds of cone, the exact response of each kind varies a little, so no two people see colour in exactly the same way. A test with dotted number pictures, designed by Shinobu Ishihara in Japan more than 100 years ago, is still used to find out whether a person has a colour vision difference.",
       "examples": [
         "A dog does not see a red ball on green grass as clearly as a human does.",
         "A person with red-green colour blindness may sort a red crayon with the brown ones.",
@@ -291,16 +291,16 @@
         }
       ],
       "art": "A yellow wall with three people looking at it, each with a different thought bubble: wavelengths, cone signals and a feeling.",
-      "context": "The unit ends with a puzzle: the yellow was not in the room. This card gives the main answers people have."
+      "context": "A red torch and a green torch make a white wall look yellow, though there is no yellow light in the room. This card gives the main answers people have to the question of where the yellow is."
     }
   ],
   "agreed": [
     {
       "text": "Red, green and blue lights mixed together can make almost every colour, including white.",
-      "evidence": "Stage lamps, LED strips and screens do it every day, and people matching colours with three lights get very close."
+      "evidence": "Stage lamps, LED strips and screens do it every day. When people are asked to match a colour using only three lights, they get very close."
     },
     {
-      "text": "Most people have three kinds of cone cell, and a colour is built from comparing their three signals.",
+      "text": "Most people have three kinds of cone cell, and the brain builds a colour by comparing their three signals.",
       "evidence": "Thomas Young guessed it in 1802. By 1980 scientists had measured the light that each kind of cone catches in human retinas."
     },
     {
@@ -358,7 +358,7 @@
     },
     {
       "claim": "Everyone sees colours exactly the same way.",
-      "who": "Many people who have never compared notes.",
+      "who": "Many people who have never compared what they see with what other people see.",
       "for": "Most people agree on the names of colours, and most people have three kinds of cone cell.",
       "against": "About 1 boy or man in 12 sees some reds and greens differently. Even people with three kinds of cone have slightly different cones. Nobody can compare the feeling of colour from the inside.",
       "status": "rejected"
@@ -368,7 +368,7 @@
     "story": "For a long time, painters taught that red, yellow and blue are the three basic colours, and that every other colour is a mix of them. In 1802, Thomas Young in England suggested something different for light. He guessed that the eye has only three kinds of detector, so three lights might be enough to make any colour. In the 1850s, James Clerk Maxwell, a Scottish scientist, tested the idea. He built a box of coloured lights and asked people to match colours by changing just three of them. Three were enough. In 1861, he showed a picture of a tartan ribbon. It was made from three black and white photographs, taken through red, green and blue filters, and then shone back through the same filters on one screen. The ribbon appeared in colour. For paints, the old rule is a useful guide. For light, the three that work best are red, green and blue.",
     "who": "Thomas Young and James Clerk Maxwell",
     "when": "1802 to 1861",
-    "wrong_idea": "Red, yellow and blue are the only three basic colours for everything. Maxwell's tartan ribbon, made from three filtered pictures, showed that red, green and blue light can make the full range of colour."
+    "wrong_idea": "People thought that red, yellow and blue were the three basic colours for everything. Maxwell's picture of a tartan ribbon, made from three photographs taken through filters, showed that red, green and blue light can make the full range of colour."
   },
   "big_questions": [
     {
@@ -384,12 +384,12 @@
     {
       "q": "A dog has two kinds of cone cell and you have three. Does a dog see fewer colours, or different colours?",
       "kind": "big",
-      "hint": "A dog is good at some things we are bad at. Think about why that might matter to a dog."
+      "hint": "A dog tells yellow from blue well, but mixes up red and green. Think about whether that means fewer colours, or just other ones."
     },
     {
       "q": "Every colour on a phone screen is made from only three. Does that mean every colour in the world is made from three?",
       "kind": "deep",
-      "hint": "Think about what the screen is copying, and what it is making from scratch."
+      "hint": "Think about whether the screen makes the same light as the real thing, or only light that looks the same to your eye."
     },
     {
       "q": "A sari looks one colour in the shop and another at the door. Which one is its true colour?",
@@ -541,7 +541,7 @@
             },
             {
               "f": "A yellow highlighter is coloured over a blue highlighter on white paper.",
-              "b": "Taken away. Each ink takes colours away from the light. The mix looks green, and darker than either."
+              "b": "Taken away. Each ink takes colours away from the light. The mix looks green, and it is darker than either ink alone."
             },
             {
               "f": "Red cellophane is held in front of a white torch.",
@@ -607,11 +607,11 @@
       "rules": [
         "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile with the fronts showing. Each player takes one LIGHTS ADD token and one COLOURS TAKEN AWAY token.",
         "One player is the reader. The reader takes the top card and reads the front aloud, but keeps the back hidden.",
-        "Every other player chooses a token and puts it face down. Each also decides on the colour they think will result.",
+        "Every other player chooses a token and puts it face down. Each player also decides which colour they think the mix will make.",
         "When everyone is ready, turn the tokens over together. Each player says their colour aloud. Then the reader reads the back.",
         "A player who chose the right token scores 1 point. A player who also named the right colour, or said it would be dark, scores 1 more point.",
         "The next player to the left becomes the reader, and the game goes on. In a game for two players, you take turns to be the reader.",
-        "When the pile runs out, count the points. The player with the most points wins. If two players have the same, they share the win.",
+        "When the pile runs out, count the points. The player with the most points wins. If two players have the same number of points, they share the win.",
         "If nobody was right on a card, the reader reads the back again, and the group talks about why before the next card."
       ],
       "flow": [
@@ -619,7 +619,7 @@
           "id": "s1",
           "mins": 3,
           "do": "Cut out the cards and the tokens. Shuffle the cards and put them in a pile with the fronts showing. Give each player one token of each kind. No printer? Copy each card on a paper slip, with the front on one side and the answer on the other. Use two kinds of bottle caps or coins as the tokens.",
-          "say": "These cards describe lights, filters or paints being mixed. Each of us has two tokens. Lights add, and colours taken away. We will guess which kind of mixing each card shows, and what colour you get.",
+          "say": "These cards describe lights, filters or paints being mixed. Each of us has two tokens. One says LIGHTS ADD and one says COLOURS TAKEN AWAY. We will guess which kind of mixing each card shows, and what colour you get.",
           "kid": "Cut out the cards and tokens. Shuffle the cards. Each player takes two tokens.",
           "context": "This is the first step of Add or Take Away. You set up the cards and the tokens."
         },
@@ -656,7 +656,7 @@
           "id": "s3",
           "mins": 9,
           "do": "Play the next cards until you have played about twelve. The reader reads the back each time. Keep a tally of points on paper.",
-          "say": "Your turn to guess. Choose your token and think of your colour. Turn them over together. Then listen to the back and keep your score.",
+          "say": "Your turn to guess. Choose your token and think of your colour. Turn the tokens over together. Then listen while the reader reads the back, and keep your score.",
           "kid": "Read the card. Pick a token. Think of a colour. Turn it over. Score a point.",
           "parent": "Younger players can name just the token. Older players can name the colour as well. Accept a close name, such as blue-green for cyan. If a card has a surprising answer, such as yellow and blue dots giving a greyish colour, stop and talk about it. It follows the lights-add rule, because dots blend in the eye.",
           "check": {
@@ -688,7 +688,7 @@
           "kid": "Why do lights get brighter when mixed? Why do paints get darker?",
           "parent": "A good answer sounds like this. Each torch sends new light to the spot, so there is more of it. Each paint or filter takes some light away before it reaches your eye, so there is less of it.",
           "think": "Lights add light to the spot. Paints and filters take light away. Is there a mix that adds and takes away at the same time?",
-          "context": "This is the last step of Add or Take Away. You think about what the two kinds of mixing have in common."
+          "context": "This is the last step of Add or Take Away. You talk about why lights get brighter when they are mixed and paints get darker."
         }
       ]
     }
@@ -746,14 +746,14 @@
         },
         {
           "t": "mcq",
-          "p": "A teacher says that mixing more and more paints always makes a darker colour. Which sentence best explains why?",
+          "p": "Mixing more and more paints makes a darker colour. Which sentence best explains why?",
           "opts": [
             "Each paint takes some colours of light away, so less light comes back",
             "Paints are made of darker stuff than light",
             "Paint is heavy, so it sinks the colour"
           ],
           "a": 0,
-          "why": "Each paint takes some colours out of the light that falls on it. Mixing many paints takes away many colours, so little light comes back. Picking 'heavy' mixes up paint with weight. Colour is about light."
+          "why": "Each paint takes some colours out of the light that falls on it. Mixing many paints takes away many colours, so little light comes back. Picking 'heavy' is wrong, because colour is about light, not weight."
         },
         {
           "t": "sort",
@@ -817,7 +817,7 @@
         },
         {
           "t": "write",
-          "p": "In the Two Torches test, one shadow of the pencil was green, not black. Explain in two or three sentences why it was green.",
+          "p": "In Two Torches, Two Shadows, a red torch and a green torch shine on a white wall, with a pencil in front. One shadow of the pencil is green, not black. Explain in two or three sentences why it is green.",
           "lines": 3,
           "a": "The pencil blocked the red torch at that spot. The green torch's light still reached it. So the shadow was lit by green light only, and it looked green.",
           "why": "A strong answer says that a shadow is only dark where all the light is blocked. Where just one light is blocked, the other light still lands there.",
@@ -857,7 +857,7 @@
           "t": "draw",
           "p": "Draw a red torch and a green torch shining on a white wall. Show where the wall looks red, where it looks green and where it looks yellow.",
           "a": "The red torch lights one round patch red. The green torch lights another patch green. Where the two patches overlap, the wall looks yellow.",
-          "why": "Each torch lights its own patch. Only where both reach does the wall add the colours together.",
+          "why": "Each torch lights its own patch. The colours add together only where both lights reach the wall.",
           "art": "A blank page with a rectangle for a wall and two torch outlines on the left and right.",
           "how": "e1"
         },
@@ -1056,7 +1056,7 @@
               "says": "Colour is what the eye and brain make. The same cone signals make the same yellow, whatever the light was. The yellow is made in us."
             }
           ],
-          "ask": "Which view do you agree with? Use what you saw in the Two Torches test as evidence. Then say what the other view has right.",
+          "ask": "Which view do you agree with? In Two Torches, Two Shadows, a red torch and a green torch made a white wall look yellow. Use this as evidence. Then say what the other view has right.",
           "lines": 5,
           "a": "A strong answer picks a side and uses evidence. For example: the wall looked yellow with no yellow light, so the yellow was made by the eye. Or: the torches were different from real yellow, so a machine could tell the difference. It then gives the other side a fair point.",
           "why": "Both are right about different things. Physicists measure the light, and vision scientists study the experience. How we name a colour depends on both.",
@@ -1110,7 +1110,7 @@
       "items": [
         {
           "t": "mcq",
-          "p": "A scientist looks at a yellow lamp and at a screen showing yellow through an instrument that spreads light by wavelength. What does she find?",
+          "p": "An instrument called a spectrometer splits light by wavelength. A scientist points it at a yellow lamp, and then at a screen showing yellow. What does the instrument show?",
           "opts": [
             "Different wavelengths, even though they look alike",
             "Exactly the same wavelengths",
@@ -1135,7 +1135,7 @@
             "A dog sees more colours than we do"
           ],
           "a": 0,
-          "why": "Tests on dogs suggest they tell blue and yellow apart, but mix up red and green. With two signals instead of three, fewer kinds of difference can be told apart."
+          "why": "Tests on dogs suggest they tell blue and yellow apart, but mix up red and green. With two signals instead of three, a dog can tell fewer colours apart."
         },
         {
           "t": "mcq",
@@ -1203,7 +1203,7 @@
         },
         {
           "t": "mcq",
-          "p": "A stage designer has red, green and blue lamps. She wants a pale pink glow. Which plan is best?",
+          "p": "You have red, green and blue stage lamps, and you want a pale pink glow. Which plan is best?",
           "opts": [
             "A strong red lamp with weaker green and blue lamps",
             "Only the blue lamp",
@@ -1237,9 +1237,9 @@
               "says": "Red, green and blue. These are the three lights that make nearly every colour on a screen."
             }
           ],
-          "ask": "Whose answer is best? Use two things you did in this unit as evidence. Then say when another answer would be better.",
+          "ask": "Whose answer is best? Use what you saw in Two Torches, Two Shadows and in Highlighter Layers as evidence. Then say when another answer would be better.",
           "lines": 5,
-          "a": "A strong answer says that the right set depends on whether you are mixing light or taking colours away. It uses the torch test and the highlighter test as evidence.",
+          "a": "A strong answer says that the right set depends on whether you are mixing light or taking colours away. It uses Two Torches, Two Shadows and Highlighter Layers as evidence.",
           "why": "There is no single set of basic colours for everything. For lights, red, green and blue work best. For inks, cyan, magenta and yellow work best.",
           "how": "e2"
         },
@@ -1344,7 +1344,7 @@
           "qty": 1
         }
       ],
-      "record": "Fill in the table. Draw the wall and the pencil's two shadows with coloured pencils. Write what you thought, what you saw and why.",
+      "record": "Fill in the table. Draw the wall and the pencil's two shadows with coloured pencils. Write what you thought, what you saw and why you think it happened.",
       "context": "In this experiment, you shine a red torch and a green torch on a white wall. You find out what colour the two lights make together, and what colour the shadows are.",
       "setup": [
         {
@@ -1372,8 +1372,8 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Show your child the two torches, the cellophane and the white wall. Ask for a guess and a reason for each question. Write the guesses at the top of the table.",
-          "say": "We will cover one torch with red and one with green. Then we shine both on the wall. What colour will the wall be where the two lights meet? Why do you think so?",
+          "do": "Show your child the two torches, the cellophane and the white wall. Ask what colour the wall will be where the two lights overlap, and what colour the pencil's shadows will be. Ask for a reason each time. Write the guesses at the top of the table.",
+          "say": "We will cover one torch with red cellophane and one with green cellophane. Then we shine both on the wall. What colour will the wall be where the two lights meet? Why do you think so?",
           "kid": "A red torch and a green torch. Both shine on one wall. What colour will it be? Why do you think so?",
           "ask": [
             {
@@ -1401,7 +1401,7 @@
           "mins": 6,
           "do": "Fold the red cellophane in two. Fix it over the front of one torch with a rubber band. Do the same with the green cellophane on the other torch. Dim the room. Shine each torch alone on the wall.",
           "say": "Cover each torch with cellophane. Keep the sheet tight and flat. Now shine each torch alone on the wall. What colour is each patch?",
-          "kid": "Fix red on one torch. Fix green on the other. Shine each on the wall. What colours do you see?",
+          "kid": "Fix red cellophane on one torch. Fix green cellophane on the other. Shine each on the wall. What colours do you see?",
           "parent": "Dim the room by closing the curtains, ideally in the evening. If a patch is very faint, use one layer of cellophane, or move the torch closer to the wall. If a patch looks pale, add a second layer. Cheap cellophane lets a little white light through, so a patch can look slightly pale. That is fine.",
           "check": {
             "t": "mcq",
@@ -1420,16 +1420,16 @@
           "id": "s3",
           "mins": 6,
           "do": "Stand the pencil upright in the clay, a hand's width from the wall. Switch on the red torch alone from about one metre away. Look at the shadow. Then switch on the green torch alone and look again.",
-          "say": "Here is the pencil. First only the red torch. What colour is the shadow? Now only the green. What colour is the shadow now?",
+          "say": "Here is the pencil. First, switch on only the red torch. What colour is the shadow? Now switch on only the green torch. What colour is the shadow now?",
           "kid": "Stand the pencil near the wall. Shine the red torch. Look at the shadow. Now shine the green. Look again.",
-          "parent": "With one torch, the shadow is dark, and the rest of the wall is the colour of the torch. The shadow may look dark red, dark green or almost black. Write what you really see. If the pencil's shadow is too thin to see, use a thick marker pen instead. This is your starting point for the next step.",
+          "parent": "With one torch, the shadow is dark, and the rest of the wall is the colour of the torch. The shadow may look dark red, dark green or almost black. Write what you really see. If the pencil's shadow is too thin to see, use a thick marker pen instead. In the next step, you compare these shadows with the shadows made when both torches are on.",
           "context": "In this step, you see the shadow of a pencil with only one light at a time."
         },
         {
           "id": "s4",
           "mins": 6,
           "do": "Switch on both torches. Stand them about 40 centimetres apart and about one metre from the wall, so the two patches overlap. Look at the middle. Then look at the pencil's two shadows. Write the colours in the table. Then move one torch back a hand-span at a time, and write how the middle colour changes each time.",
-          "say": "Both torches now, side by side, so the patches overlap. What colour is the wall in the middle? How many shadows does the pencil have? What colour is each one?",
+          "say": "Switch on both torches now, side by side, so the patches overlap. What colour is the wall in the middle? How many shadows does the pencil have? What colour is each one?",
           "kid": "Switch on both torches. Make the patches overlap. What colour is the middle? What colour is each shadow?",
           "ask": [
             {
@@ -1485,7 +1485,7 @@
           "id": "s5",
           "mins": 4,
           "do": "If you have a third torch, cover it with blue cellophane. Switch on all three so the patches overlap. Look at the middle and at the pencil's three shadows. With only two torches, swap the green one for blue and see what red and blue make.",
-          "say": "Now a third torch, with blue. Where all three meet, what colour is the wall? What colours are the three shadows?",
+          "say": "Now add a third torch, covered with blue cellophane. Where all three lights meet, what colour is the wall? What colours are the three shadows?",
           "kid": "Add a blue torch. What colour is the middle? What colours are the shadows?",
           "parent": "Blue cellophane is dim, so use only one layer of blue and move the blue torch closer. Expect the middle to look white or pale. The three shadows should look cyan, magenta and yellow. With only two torches, red and blue give magenta. Green and blue give cyan. This step is a bonus. Skip it if your torches are weak.",
           "context": "In this step, you add a blue torch, or swap the green for blue, and look at the new colours."
@@ -1497,7 +1497,7 @@
           "say": "Now tell me three things. What do you think now about mixing lights? What did you see that shows it? And why do you think it happened?",
           "kid": "Say three things. What I think. What I saw. Why it happened.",
           "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: red light and green light together look yellow. What I saw: the wall was yellow where the two patches overlapped, and the pencil had one red shadow and one green shadow. Why: each torch adds its light to the spot, and the eye gives the same answer to red plus green as it does to yellow.",
-          "context": "In this step, you finish like a scientist, with claim, evidence and reasoning."
+          "context": "In this step, you say what you think, what you saw and why it happened. Scientists call this claim, evidence and reasoning."
         }
       ]
     },
@@ -1507,7 +1507,7 @@
       "mins": 27,
       "days": 1,
       "question": "When you colour one highlighter over another on white paper, do the colours add up like torch light, or do they take colours away?",
-      "predict": "Before you start, guess. What colour will yellow over blue be? What colour will pink over yellow be? Will the crossing look brighter or darker than the single colours? Why do you think so?",
+      "predict": "Before you start, guess. What colour will yellow over blue be? What colour will pink over yellow be? Where two colours cross, will the crossing look brighter or darker than the single colours? Why do you think so?",
       "fair_test": "Use the same three highlighters and the same kind of white paper every time. Colour each stripe with one slow stroke and the same pressure. Only the colours you put on top of each other change. At the end, check whether the order of the layers matters.",
       "results_table": [
         "Bottom layer",
@@ -1567,7 +1567,7 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Show your child the three highlighters and the paper. Ask for a guess and a reason for each question. Write the guesses at the top of the table.",
+          "do": "Show your child the three highlighters and the paper. Ask what colour yellow over blue will be, what colour pink over yellow will be, and whether the crossings will look brighter or darker than the single stripes. Ask for a reason each time. Write the guesses at the top of the table.",
           "say": "We will colour stripes across each other. What colour will yellow over blue be? What about pink over yellow? Will the crossings be brighter or darker? Why do you think so?",
           "kid": "Three highlighters. We will draw stripes across each other. What colours will the crossings be? Why?",
           "ask": [
@@ -1580,7 +1580,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Children who have just done the torch test often guess brighter. Others who know paints guess darker. Both are good guesses. Write what they say.",
+          "parent": "Do not correct the guess. Children who have just done Two Torches, Two Shadows often guess brighter. Others who know paints guess darker. Both are good guesses. Write what they say.",
           "context": "This is the first step of the Highlighter Layers test. You guess before you test."
         },
         {
@@ -1596,9 +1596,9 @@
           "id": "s3",
           "mins": 5,
           "do": "Now draw three tall stripes down the page, from top to bottom, crossing the first ones. Use blue first, then yellow, then pink. Leave gaps between them. Use the same pressure each time.",
-          "say": "Now three tall stripes, crossing the first ones. Blue, yellow, pink. Same slow stroke as before.",
+          "say": "Now draw three tall stripes down the page, crossing the first ones. Blue, then yellow, then pink. Use the same slow stroke as before.",
           "kid": "Draw three tall stripes down the page. Blue, yellow, pink. Cross the first ones.",
-          "parent": "Wait a few seconds for the ink to dry before you look closely. The crossings of stripes of the same colour should look deeper than the single stripe. The crossings of different colours are the new ones.",
+          "parent": "Wait a few seconds for the ink to dry before you look closely. Where a stripe crosses a stripe of the same colour, the square should look deeper than the single stripe. Where two different colours cross, you get a new colour.",
           "context": "In this step, you draw the second set of stripes, which cross the first set and make nine crossing squares."
         },
         {
@@ -1655,7 +1655,7 @@
           "id": "s5",
           "mins": 5,
           "do": "On the second sheet, colour a short yellow stripe. Colour a blue stripe across it. Then colour a pink stripe across the crossing. Look at the colour where all three layers meet. Then colour one patch with blue first and yellow second, and compare it with yellow first and blue second. Last, colour a yellow patch with one stroke, then two, then three. Write how the colour changes.",
-          "say": "Three layers now. What colour is the middle where all three meet? Then try blue first and yellow second. Is it the same green?",
+          "say": "Now put all three colours on top of each other. What colour is the middle, where all three meet? Then try blue first and yellow second. Is it the same green as yellow first and blue second?",
           "kid": "Put all three colours on top of each other. What colour is it? Does the order change anything?",
           "parent": "Three layers usually give a dark brownish or greyish colour. The order often makes only a small difference. If you see a small difference, write it down as a real result. Different inks soak in at different rates.",
           "context": "In this step, you test all three layers together and test whether the order of the layers matters."
@@ -1667,7 +1667,7 @@
           "say": "Now tell me three things. What do you think now about mixing inks? What did you see that shows it? And why do you think it happened?",
           "kid": "Say three things. What I think. What I saw. Why it happened.",
           "parent": "A good answer sounds like this. What I think: inks take colours away, so mixing them makes the colour darker. What I saw: yellow over blue made a darker green, and all three layers made a dark colour. Why: each ink takes some colours out of the light, so less light comes back to my eye.",
-          "context": "In this step, you finish like a scientist, with claim, evidence and reasoning."
+          "context": "In this step, you say what you think, what you saw and why it happened. Scientists call this claim, evidence and reasoning."
         }
       ]
     }
@@ -1759,7 +1759,7 @@
             "q": "The top stripe was blue-green. On the white wall you saw a faint orange-red stripe there. Where was the orange-red made?",
             "options": [
               "In your eye, because the cone cells that sensed blue-green had grown tired",
-              "On the wall, where there was a secret colour",
+              "On the wall, where a colour was hidden",
               "In the felt pen, which dried slowly"
             ],
             "a": 0,
@@ -1773,16 +1773,16 @@
           "do": "Ask another person to try the same test, while you watch. Ask them to say what they see. Compare what they say with what you saw. With 2 to 4 children, everyone tries it at the same time and calls out how many seconds their ghost flag lasts. Write the times down and compare.",
           "say": "Now let someone else try. Do they see the same flag? Are the colours the same as yours?",
           "kid": "Ask someone else to try. Do they see the same flag?",
-          "parent": "People differ. Some see a clear tricolour, some see faint patches. That tells us that afterimages depend on the eye that makes them. Draw both flags if you can.",
+          "parent": "People differ. Some see a clear tricolour, some see faint patches. That tells us that afterimages depend on the eye that makes them. If you can, draw the ghost flag that each person saw.",
           "context": "In this step, you ask another person to try the test and compare what you both saw."
         },
         {
           "id": "s4",
           "mins": 3,
           "do": "Now draw a large red square on a new page, with a white dot in the middle. Ask your child to guess the colour of the ghost square. Then stare at it for 30 seconds and look at the white wall.",
-          "say": "One more. Guess first. If you stare at a red square, what colour is the ghost on the white wall? Then try.",
+          "say": "Let's try one more. Guess first. If you stare at a red square, what colour will the ghost be on the white wall? Then try it.",
           "kid": "Draw a red square. Guess the ghost colour. Stare. Look at the white wall.",
-          "parent": "Expect a pale blue-green ghost. The ghost of green is pink. The ghost of yellow is blue. These pairs are called complementary colours. They are not the same as the colours of the wall. They are made in the eye.",
+          "parent": "Expect a pale blue-green ghost. The ghost of green is pink. The ghost of yellow is blue. These pairs are called complementary colours. The white wall has none of these colours. They are made in the eye.",
           "think": "The ghost of red was blue-green, and the ghost of blue-green was red. What do you notice about the pairs?",
           "context": "In this step, you predict and test the afterimage of a red square."
         }
@@ -1860,7 +1860,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Many children guess green for blue and yellow, as for paint. Write their guess. The stripes should be thin, about as thin as the pen's tip, so the pen's width sets the size.",
+          "parent": "Do not correct the guess. Many children guess green for blue and yellow, as for paint. Write their guess. Draw each stripe with one stroke of the pen's thin tip, so that every stripe is as thin as the tip.",
           "context": "This is the first step of Stripes That Blend. You draw the two squares."
         },
         {
@@ -1878,7 +1878,7 @@
           "do": "Find the number of steps at which each square becomes one smooth colour. Write the number and the colour you see in the table. Do it for both squares.",
           "say": "Stop at the step where the stripes disappear. How many steps is that? What colour is the square now? Do it for both squares.",
           "kid": "Count the steps where the stripes vanish. What colour is each square?",
-          "parent": "Red and green stripes usually look a dull yellow or yellow-brown. Blue and yellow stripes usually look a pale grey or a greyish green. Felt-pen colours are not pure, so the result is duller than the lights in the torch test. Write what you really see. The mix is not green, which is the colour you would get by mixing the same two as paints.",
+          "parent": "Red and green stripes usually look a dull yellow or yellow-brown. Blue and yellow stripes usually look a pale grey or a greyish green. Felt-pen colours are not pure, so the result is duller than the lights in Two Torches, Two Shadows. Write what you really see. The blue and yellow stripes do not blend into a clear green, which is what you would get by mixing blue and yellow paints.",
           "check": {
             "t": "mcq",
             "q": "From far away, the red and green stripes looked like a dull yellow-brown. What does this show?",
@@ -1888,7 +1888,7 @@
               "Red and green paint mix on the paper"
             ],
             "a": 0,
-            "why": "From far away, light from the red stripes and the green stripes lands on the same cone cells. The light adds up, just as it did with the two torches, so you see a yellowish colour. Picking 'mix on the paper' is a common mix-up. The stripes never touched each other on the paper. The mixing happened in your eye."
+            "why": "From far away, light from the red stripes and the green stripes lands on the same cone cells. The light adds up, just as light from a red torch and a green torch adds up on a wall, so you see a yellowish colour. Picking 'mix on the paper' is a common mix-up. The stripes never touched each other on the paper. The mixing happened in your eye."
           },
           "context": "In this step, you write down where the stripes blended and what colour they became."
         },
@@ -1944,7 +1944,7 @@
         {
           "day": 1,
           "mins": 24,
-          "what": "Look at the dark things under daylight, a warm bulb and a cool bulb. Write which ones are easy or hard to tell apart."
+          "what": "Look at four dark things, two of them navy and black, in daylight, under a warm bulb and under a cool bulb. Write which ones are easy or hard to tell apart."
         }
       ],
       "record": "Fill in a table with one row for each kind of light: how easy it was to tell navy from black, and what colour the white paper looked. Write your score out of 4 for each light. Write which light was best for choosing dark clothes.",
@@ -1967,7 +1967,7 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Lay the dark things on a table. Show your child the pair of navy and black. Ask for a guess about whether it will be easy or hard to tell them apart under each light.",
+          "do": "Lay the dark things on a table. Point out the navy one and the black one. Ask your child to guess whether it will be easy or hard to tell them apart under each light.",
           "say": "Here are four dark things. Two look almost alike, the navy and the black. In which light will it be easiest to tell them apart? In which will it be hardest? Why do you think so?",
           "kid": "Four dark things. Navy and black look alike. In which light is it hardest to tell them apart? Why?",
           "ask": [
@@ -2024,11 +2024,11 @@
         {
           "id": "s5",
           "mins": 2,
-          "do": "Compare the three rows of the table. Ask your child: if you had to choose a school uniform colour for a child, in which light would you choose it? Why?",
+          "do": "Compare the three rows of the table. Ask your child: if you had to choose the colour of a school uniform, in which light would you choose it? Why?",
           "say": "Look at your table. In which light was it easiest to tell the colours apart? Why do you think a shopkeeper takes the cloth to the door?",
           "kid": "Look at your table. Which light was best for telling dark colours apart?",
           "think": "The cloth was the same in every light. What was different?",
-          "context": "In this step, you compare the lights and think about when to choose a colour."
+          "context": "In this step, you compare the lights and think about which light is best for choosing a colour."
         }
       ]
     },
@@ -2105,12 +2105,12 @@
           "do": "Hold the red cellophane over one eye, or in front of your eyes like a window. Look at both words. Then look through the green cellophane. Write down what each word looks like each time.",
           "say": "Look through the red cellophane. Which word is easy to see? Which one has vanished? Now try green. What changes?",
           "kid": "Look through the red sheet. Then the green. Which word vanishes each time?",
-          "parent": "Through the red cellophane, the red word seems to vanish into the white paper and the green word looks dark. Through the green cellophane, the green word vanishes and the red word looks dark. It is the same trick as the red torch and the green leaf. The paper can look a little pink or green through the sheet. If the red word only fades and does not vanish, use two layers of cellophane, a brighter room, or a truer red pen. Some sweet wrappers are orange, not red, and will not work as well.",
+          "parent": "Through the red cellophane, the red word seems to vanish into the white paper and the green word looks dark. Through the green cellophane, the green word vanishes and the red word looks dark. It works the same way as a green leaf looking nearly black under a red torch. The paper can look a little pink or green through the sheet. If the red word only fades and does not vanish, use two layers of cellophane, a brighter room, or a truer red pen. Some sweet wrappers are orange, not red, and will not work as well.",
           "check": {
             "t": "mcq",
             "q": "Through red cellophane, the red word vanished and the green word turned dark. Why?",
             "options": [
-              "Red paper and red ink both send back plenty of red light, and green ink sends back almost none",
+              "White paper and red ink both send back plenty of red light, and green ink sends back almost none",
               "The red cellophane painted over the red word",
               "Green ink is darker than red ink"
             ],
@@ -2122,8 +2122,8 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Write a secret message in red felt pen on white paper. Then scribble green felt-pen lines all over and around the words. Give it to a friend. Ask them to look through the green cellophane (the green scribbles fade and the red message shows dark), and then through the red cellophane (the message hides), and say what happens. With one child, the parent is the friend. With 2 to 4 children, swap messages in pairs.",
-          "say": "Write a short secret message to a friend, in red. Give them the green cellophane to read it with. Then the red one. What happens?",
+          "do": "Write a secret message in red felt pen on white paper. Then scribble green felt-pen lines all over and around the words. Give it to a friend. Ask them to look through the green cellophane, and then through the red cellophane, and say what happens. Through the green, the green scribbles fade and the red message shows dark. Through the red, the message hides. With one child, the parent is the friend. With 2 to 4 children, swap messages in pairs.",
+          "say": "Write a short secret message to a friend, in red. Give them the green cellophane to read it with. Then give them the red cellophane. What happens?",
           "kid": "Write a secret in red. Read it through green. Then red. What happens?",
           "think": "A message in red vanishes through red cellophane. What colour of pen would vanish through blue cellophane?",
           "context": "In this step, you use the trick to make a message that only shows through one sheet."
@@ -2228,7 +2228,7 @@
         {
           "id": "s2",
           "mins": 15,
-          "do": "Draw each puppet on the card. A grown-up cuts out the shape and cuts two or three windows in each, about 3 centimetres wide. Stick coloured cellophane over each window with glue or tape. Stick a puppet to a stick.",
+          "do": "Draw each puppet on the card. A grown-up cuts out the shape and cuts two or three windows in each, about 3 centimetres wide. Stick coloured cellophane over each window with glue or tape. Stick each puppet to a stick.",
           "say": "Draw a puppet on card. Cut out the shape. Ask a grown-up to cut windows in it. Cover each window with cellophane. Stick the puppet to a stick.",
           "kid": "Draw a puppet on card. A grown-up cuts it out. Cover the windows with cellophane. Add a stick.",
           "parent": "A grown-up should do all the cutting. Keep the windows big, so the colour is bright on the screen. Use one colour per window. Make three puppets, so you have different colour windows to compare.",
@@ -2262,7 +2262,7 @@
           "kid": "Use a green torch. What does the red window look like? Then use a red torch and look at the green window.",
           "check": {
             "t": "mcq",
-            "q": "Through a green torch, the red window looked almost black. Why?",
+            "q": "In the light of a green torch, the red window looked almost black. Why?",
             "options": [
               "The red cellophane lets red light through, and the green torch has almost no red to give it",
               "The green torch is too weak",
@@ -2310,7 +2310,7 @@
         "Switch on all three torches, and switch off all three."
       ],
       "creative": [
-        "Move one torch further away so that it is fainter, and see how the colour changes. Orange is a red torch strong and a green torch weak.",
+        "Move one torch further away so that it is fainter, and see how the colour changes. A strong red torch and a weak green torch make orange.",
         "Fold the cellophane into three layers on one torch to dim it, and mix again.",
         "Set up a little light show with a sequence of looks, and give each look a name, like sunrise, sea and sunset."
       ],
@@ -2335,7 +2335,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Read the challenge together. Ask your child how many different looks there will be. Ask how they can be sure they found them all.",
-          "say": "Here is your job. Three torches. Red, green and blue. Each one on or off. How many different looks can you make on the wall? How can you be sure you found them all?",
+          "say": "Here is your job. You have three torches: red, green and blue. Each one is on or off. How many different looks can you make on the wall? How can you be sure you found them all?",
           "kid": "Three torches. Each one on or off. How many looks can you make?",
           "ask": [
             {
@@ -2374,7 +2374,7 @@
           "id": "s3",
           "mins": 10,
           "do": "Now change one thing at a time. Move a torch further away, or add another layer of cellophane to it. Look at the new colours. Try to make orange and pink. Write down what you did each time.",
-          "say": "Now invent. Move a torch back, or add another layer. Can you make orange? Can you make pink? Write what you did.",
+          "say": "Now invent new colours. Move a torch back, or add another layer of cellophane. Can you make orange? Can you make pink? Write what you did.",
           "kid": "Move a torch back or add a layer. Can you make orange? Pink?",
           "parent": "Orange comes from a strong red and a weak green. Pink comes from a strong red with weaker green and blue. Changing the distance of a torch changes how much light it adds. Change only one thing at a time, so you know what made the difference.",
           "context": "In this step, you invent new colours by changing how strong each torch is."
@@ -2492,7 +2492,7 @@
     },
     {
       "t": "mcq",
-      "p": "Which sentence is the best reasoning for 'red and green torches make a yellow wall'?",
+      "p": "Which sentence best explains why red and green torches make a yellow wall?",
       "opts": [
         "Each torch adds light to the wall, and the eye gives the same answer to red plus green as to yellow",
         "Red and green paint make yellow",
@@ -2511,7 +2511,7 @@
         "That red and green light look yellow together"
       ],
       "a": 0,
-      "why": "The first two were tested many times. How signals become a feeling is still an open question.",
+      "why": "Filters taking colours away, and red and green light looking yellow together, have both been tested many times. How signals become a feeling is still an open question.",
       "outcome": 7
     },
     {
@@ -2716,16 +2716,16 @@
       "why_maths": "A fraction tells you how much of the grid shows new colours, so you can say that most of your results are new mixes."
     },
     {
-      "problem": "A phone screen row is 1,000 pixels wide. Each pixel has one red, one green and one blue dot across. How many coloured dots are there along one row?",
+      "problem": "One row of a phone screen has 1,000 pixels. Each pixel has one red, one green and one blue dot, side by side. How many coloured dots are there along one row?",
       "answer": "3,000 dots.",
       "explain": "Each pixel has 3 dots. There are 1,000 pixels. 1,000 times 3 is 3,000. So there are 3,000 coloured dots along one row.",
       "math_unit": "math.multiplication.multi-digit.L4",
       "how": "a2",
-      "context": "In this activity, you find that a printed picture is made of tiny dots, and that a screen is too.",
+      "context": "In Stripes That Blend, you find that a printed picture is made of tiny dots, and that a screen is too.",
       "why_maths": "Multiplying shows how tiny each dot must be, which is why your eye cannot tell them apart and their light blends."
     },
     {
-      "problem": "In the Wrong-Colour Flag test, Meera stared at 3 pictures for 30 seconds each, and rested her eyes for 20 seconds between them. How long did the whole test take?",
+      "problem": "In the Wrong-Colour Flag test, you stare at 3 pictures for 30 seconds each, and rest your eyes for 20 seconds between them. How long does the whole test take?",
       "answer": "130 seconds, which is 2 minutes and 10 seconds.",
       "explain": "Three stares of 30 seconds make 90 seconds. There are 2 rests between 3 pictures, and 2 times 20 is 40 seconds. 90 plus 40 is 130 seconds. 130 seconds is 2 minutes and 10 seconds.",
       "math_unit": "math.time.duration.L4",
@@ -2775,7 +2775,7 @@
       "why_maths": "A chart shows at a glance that most people saw it, but not everyone, which tells you afterimages vary from eye to eye."
     },
     {
-      "problem": "A designer says orange needs 3 units of red light for every 1 unit of green light. A big curtain gets 12 units of red light. How many units of green light does it need for the same orange?",
+      "problem": "To make orange, a stage needs 3 units of red light for every 1 unit of green light. A big curtain gets 12 units of red light. How many units of green light does it need for the same orange?",
       "answer": "4 units of green.",
       "explain": "For every 3 units of red there is 1 unit of green. 12 units of red is 4 groups of 3. So there are 4 groups of 1 unit of green, which is 4 units.",
       "math_unit": "math.division.division-facts.L4",
@@ -2784,7 +2784,7 @@
       "why_maths": "A ratio lets a designer keep the same colour when the light gets stronger, by keeping the same shares."
     },
     {
-      "problem": "A torch gives 100 units of light. A yellow sheet lets half of the light through. A second yellow sheet lets half of what is left through. How many units reach the wall with one sheet, with two sheets and with three sheets?",
+      "problem": "A torch gives 100 units of light. Each yellow sheet lets through half of the light that reaches it. How many units reach the wall with one sheet, with two sheets and with three sheets?",
       "answer": "50 units with one sheet, 25 units with two sheets and 12 and a half units with three sheets.",
       "explain": "Half of 100 is 50. Half of 50 is 25. Half of 25 is 12 and a half. Each sheet halves what is left, so the light gets weaker with every sheet.",
       "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -2986,15 +2986,15 @@
     "context": "We have mixed coloured lights, stacked coloured inks and watched colours vanish and appear. Now we ask what these tests tell us about colour itself, and about the eye that sees it.",
     "deep_truth": {
       "truth": "The wall lit by a red torch and a green torch looked yellow, yet no yellow light reached it. Your eye has only three kinds of colour sensor, so it reports red plus green as yellow. Very different mixes of light can feel exactly the same to us. So a colour is what your eye reports, not something the light has.",
-      "habit": "We say a lemon sends yellow light, as if each colour name were one fixed kind of light. But red plus green and real yellow are different light that look the same. A colour name tells us about the eye as much as about the light.",
-      "evidence": "In the two torch test, the wall looked yellow where the red and green lights overlapped, though only a red torch and a green torch were on. If your wall looked orange or greenish, write that down honestly. Cheap cellophane is never perfect, and your result is still real evidence."
+      "habit": "We say a lemon sends yellow light, as if each colour name were one fixed kind of light. But red plus green and real yellow are different kinds of light that look the same. A colour name tells us about the eye as much as about the light.",
+      "evidence": "In Two Torches, Two Shadows, the wall looked yellow where the red and green lights overlapped, though only a red torch and a green torch were on. If your wall looked orange or greenish, write that down honestly. Cheap cellophane is never perfect, and your result is still real evidence."
     },
     "three": {
-      "who_am_i": "Every colour you have ever seen came from just three signals in your eyes. You are partly made of how your own eyes answer the light.",
-      "what_is_life": "Different kinds of animals have different numbers of colour cells. A dog has two kinds, most people have three and many birds have four. Each kind of animal lives in a set of colours of their own.",
-      "what_is_this_world": "The world sends out light of every wavelength. Each eye picks just a few signals from it. So the colours we know are a meeting between the world and an eye."
+      "who_am_i": "Every colour you have ever seen came from just three signals in your eyes. So what you see depends partly on your own eyes, and not only on the light.",
+      "what_is_life": "Different kinds of animals have different numbers of colour cells. A dog has two kinds, most people have three and many birds have four. So each kind of animal sees their own set of colours.",
+      "what_is_this_world": "The world sends out light of every wavelength. Each eye picks just a few signals from it. So the colours we know come from both the light of the world and the eye that catches it."
     },
-    "thread": "Light comes in a whole range of wavelengths. An eye sorts that range into only three signals, and everything we call colour is built from those three. That is why three lights can stand in for almost any mix. The red and green torches did not turn into yellow. Your eyes gave the same answer to them as to real yellow. So colour lives in the meeting of light and a living eye, and neither makes it alone.",
+    "thread": "Light comes in a whole range of wavelengths. An eye sorts that range into only three signals, and everything we call colour is built from those three. That is why three lights can stand in for almost any mix. The red and green torches did not turn into yellow. Your eyes gave the same answer to them as to real yellow. So colour needs both light and a living eye. Neither makes it alone.",
     "teachings": [
       {
         "source": "Plotinus, Enneads 1.6.9",
@@ -3003,7 +3003,7 @@
       },
       {
         "source": "Katha Upanishad 2.2.15",
-        "teaching": "The Katha Upanishad says that there the Sun does not shine, nor the Moon or the stars, nor this lightning. All things shine after that light, and by its light all this is lit.",
+        "teaching": "The Katha Upanishad speaks of a place where the Sun does not shine, nor the Moon, the stars or lightning. It says that all things shine only after that light, and that by its light everything here is lit.",
         "link": "Every colour in a room is lit by a light that comes first. Without light, a rose, a leaf and a wall have no colour to show."
       },
       {
