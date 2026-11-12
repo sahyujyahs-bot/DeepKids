@@ -3,12 +3,12 @@
   "title": "Soil, water and crops: how soil holds water for roots, and why a field of beans feeds the next crop",
   "level": 4,
   "summary": {
-    "text": "Stand a cup of dry sand and a cup of fine dry soil in a tray of water. In an hour, the water has crept up both cups against gravity, but at very different speeds. Farmers use this every day when they cover soil with straw to keep the water in. They also know a second puzzle. A field tired by rice grows better rice after a crop of moong or groundnut, even though nobody added anything. Your child tests how water climbs in soil, how salt stops seeds, and why bean roots carry tiny helpers who pull nitrogen out of the air.",
+    "text": "Stand a cup of dry sand and a cup of fine dry soil in a tray of water. In an hour, the water has climbed up both cups against gravity, but at very different speeds. Farmers know that water climbs up through soil and escapes from the top, so they cover the soil with straw to keep the water in. They know something else too. A field worn out by growing rice grows better rice after a crop of moong or groundnut, even though nobody added anything. Your child tests how water climbs in soil and how salt stops seeds from sprouting, and learns why bean roots carry bacteria that pull nitrogen out of the air.",
     "art": "A kitchen counter with three clear cups of sand, gravel and fine soil standing in a shallow tray of blue water, with the water line climbing different heights in each cup, and a bean plant with knobbly roots lying beside them."
   },
   "intro": {
-    "hook": "Dip the corner of a dry cloth into a bowl of water and leave it. Slowly the water climbs the cloth, up and up, with nobody pushing it. Soil does the same thing. So why does the top of a bare pot dry out in a day, while the soil under a layer of straw stays damp?",
-    "text": "Water can climb through soil because of the tiny gaps between the grains. How high it climbs depends on how small the grains are. In this unit you measure the climb in gravel, sand and fine soil. You find out what salt does to seeds, and how a cover of leaves saves water. Then you meet the bean plant and the bacteria in her roots, who together pull nitrogen out of the air and leave a field richer than before. You also learn why farmers across India follow rice with a pulse.",
+    "hook": "Dip the corner of a dry cloth into a bowl of water and leave it. Slowly the water climbs up the cloth, with nobody pushing it. Soil does the same thing. So why does the top of a bare pot dry out in a day, while the soil under a layer of straw stays damp?",
+    "text": "Water can climb through soil because of the tiny gaps between the grains. How high it climbs depends on how small the grains are. In this unit you measure the climb in gravel, sand and fine soil. You find out what salt does to seeds, and how a cover of leaves saves water. Then you meet the bean plant and the bacteria in her roots, who together pull nitrogen out of the air and leave a field richer than before. You also learn why farmers across India grow a pulse, such as moong, after rice.",
     "art": "A child's hand dipping the corner of a dry cloth into a steel bowl of water, with a dark wet line climbing up the cloth, and a pot of soil with a mulch of dry leaves beside the bowl."
   },
   "outcomes": [
@@ -147,13 +147,13 @@
       "context": "Why do pots of sand, clay and garden soil behave so differently when watered? This card explains it."
     },
     {
-      "concept": "Water in soil: drains away, held for roots, held too tightly",
+      "concept": "Three kinds of water in soil: water that drains away, water that roots can use, and water held too tightly",
       "status": "defined",
       "definition": "Water in soil comes in three kinds: water that drains away, water that roots can use, and water held so tightly by the finest grains that roots cannot pull it out.",
-      "description": "After heavy rain, soil is full. The water in the biggest gaps runs down and drains away because of gravity. What is left is held on the grains as films. Roots can drink most of this water. But a small part sits so close to the finest grains that it is held very tightly, and roots cannot get it out. When the soil has dried down to that point, a plant droops, even though the soil still has a little water in it. This is called wilting. The best soil for a crop is one that, after the rain, keeps a lot of the second kind of water. Loam does that best. Sand has little of it, and clay holds a lot of the third kind.",
+      "description": "After heavy rain, soil is full. The water in the biggest gaps runs down and drains away because of gravity. What is left is held on the grains as films. Roots can drink most of this water. But a small part sits so close to the finest grains that it is held very tightly, and roots cannot get it out. When the soil has dried down to that point, a plant droops, even though the soil still has a little water in it. This is called wilting. The best soil for a crop is one that, after the rain, keeps a lot of water that roots can use. Loam does that best. Sand keeps little of it, and much of the water in clay is held too tightly for roots.",
       "examples": [
         "A sandy soil may need watering every day, because most of the water drains away and little is held for roots.",
-        "A potted plant drooping at midday and standing up again in the evening has used up the easy water and is waiting for more.",
+        "A potted plant that droops at midday and stands up again in the evening has used up the water her roots can take easily, and needs more.",
         "A farmer waters a field after the soil has begun to dry, not while it is still full, so the roots also get air."
       ],
       "perspectives": [],
@@ -164,7 +164,7 @@
       "concept": "Capillary rise: how water climbs through soil",
       "status": "defined",
       "definition": "Capillary rise is water climbing up through very narrow gaps against gravity. The narrower the gap, the higher the water climbs.",
-      "description": "Water is sticky in two ways. Water particles stick to each other, and they stick to the surface of the grains. At the edge of a narrow gap, the water sticks to the wall and pulls the water behind it upwards. This goes on until the weight of the lifted water balances the pull. In a wide gap, the pull is small, so water climbs only a little. In a narrow gap, the pull is strong, so water climbs much higher. It also moves more slowly through narrow gaps, because the gap is tight. So water climbs only a centimetre or two in gravel, tens of centimetres in sand, and up to a metre or more in very fine soil in the ground. But the finer the soil, the slower the climb. A cup of sand fills quickly, and a cup of fine soil takes much longer to wet. This is why a wick lifts oil up a diya, and why a sugar cube turns brown when you touch it to tea.",
+      "description": "Water is sticky in two ways. Water particles stick to each other, and they stick to the surface of the grains. At the edge of a narrow gap, the water sticks to the wall and pulls the water behind it upwards. This goes on until the weight of the lifted water balances the pull. In a wide gap, the pull is small, so water climbs only a little. In a narrow gap, the pull is strong, so water climbs much higher. It also moves more slowly through narrow gaps, because the gap is tight. So water climbs only a centimetre or two in gravel, tens of centimetres in sand, and up to a metre or more in very fine soil in the ground. But the finer the soil, the slower the climb. A cup of sand fills quickly, and a cup of fine soil takes much longer to wet. Capillary rise is also why a wick lifts oil up in a diya, and why a sugar cube turns brown when you touch it to tea.",
       "examples": [
         "Water climbs up the threads of a dry towel hanging with one corner in a bucket.",
         "A mud wall of a house gets damp at the bottom after the rains, as water climbs up from the wet ground.",
@@ -172,13 +172,13 @@
       ],
       "perspectives": [],
       "art": "Three thin glass tubes standing in water, wide, medium and narrow, with the water climbing highest in the narrow tube, and beside them a cup of sand and a cup of fine soil.",
-      "context": "Water went up a cloth with nobody pushing it. How? This card explains capillary rise."
+      "context": "How does water climb up a cloth, or up through soil, with nobody pushing it? This card explains capillary rise."
     },
     {
       "concept": "Why the top of a field dries, and what mulch does",
       "status": "defined",
       "definition": "Soil loses most of its water to the air by evaporation from the top. Mulch, a cover of straw or leaves, slows this down.",
-      "description": "Water climbs up through the soil by capillary rise until it reaches the surface. There the Sun and wind turn it into vapour and carry it away. On a hot day a bare field can lose a thick layer of water this way. A cover of straw, dry leaves or husk shades the soil and stops the wind from reaching it, so much less water escapes. Mulch also stops raindrops from beating the soil hard, and, as it rots, it turns into humus. Some farmers also loosen the top few centimetres of soil with a hoe. This is meant to break the narrow paths that the water climbs, so it is not drawn all the way up to the surface. Scientists find that this works well in some soils and little in others.",
+      "description": "Water climbs up through the soil by capillary rise until it reaches the surface. There the Sun and wind turn it into vapour and carry it away. On a hot day a bare field can lose a thick layer of water this way. A cover of straw, dry leaves or husk shades the soil and stops the wind from reaching it, so much less water escapes. Mulch also stops raindrops from beating the soil hard, and, as it rots, it turns into humus. Some farmers also loosen the top few centimetres of soil with a hoe. This is meant to break the narrow paths that the water climbs, so it is not drawn all the way up to the surface. Scientists find that this works well in some soils and hardly at all in others.",
       "examples": [
         "Farmers lay paddy straw, coconut husk or sugarcane leaves around the plants in vegetable and banana fields.",
         "A gardener covers the soil of a pot with dry leaves to keep it damp.",
@@ -191,7 +191,7 @@
         },
         {
           "who": "Some soil scientists",
-          "explanation": "Loosening the soil helps in some soils and in some weather, but it can also dry out the top layer and bring more soil to the air. A cover of mulch works better in most tests."
+          "explanation": "Loosening the soil helps in some soils and in some weather, but it can also dry out the top layer and leave more soil open to the air. A cover of mulch works better in most tests."
         }
       ],
       "art": "Two soil beds in the Sun: a bare one with arrows of vapour rising and a pale dry top, and one covered in straw with dark damp soil underneath and few arrows.",
@@ -201,7 +201,7 @@
       "concept": "What plants take from the soil: nitrogen, phosphorus and potassium",
       "status": "defined",
       "definition": "Plants make their food from air, water and light. But they also need more than a dozen nutrients from the soil. The three needed in the largest amounts are nitrogen, phosphorus and potassium.",
-      "description": "A plant takes these nutrients through their roots, dissolved in water. Nitrogen goes into leaves and proteins, and gives leaves their green colour. A plant short of nitrogen has pale yellow leaves and grows slowly. Phosphorus helps roots grow, and helps flowers and seeds form. Potassium helps a plant manage her water and fight disease. Every harvest carries nutrients away from the field in the grain, the fruit and the stalks. So they must be put back. Farmers do this with compost, manure and fertilisers. A fertiliser bag shows three numbers for nitrogen, phosphorus and potassium. Urea has 46 per cent nitrogen, so 100 kilograms of urea carries 46 kilograms of nitrogen. A plant cannot tell whether a nitrate ion came from manure or from a factory. The ion is the same.",
+      "description": "A plant takes in these nutrients through her roots, dissolved in water. Nitrogen goes into leaves and proteins, and gives leaves their green colour. A plant short of nitrogen has pale yellow leaves and grows slowly. Phosphorus helps roots grow, and helps flowers and seeds form. Potassium helps a plant manage her water and fight disease. Every harvest carries nutrients away from the field in the grain, the fruit and the stalks. So they must be put back. Farmers do this with compost, manure and fertilisers. A fertiliser bag shows three numbers for nitrogen, phosphorus and potassium. Urea has 46 per cent nitrogen, so 100 kilograms of urea carries 46 kilograms of nitrogen. A plant cannot tell whether the nitrogen she takes in came from manure or from a factory. It is the same nitrogen.",
       "examples": [
         "A pale yellow rice field often means the plants are short of nitrogen.",
         "The numbers on a bag of complex fertiliser, such as 19:19:19, are the shares of nitrogen, phosphorus and potassium.",
@@ -228,7 +228,7 @@
     {
       "concept": "Why crop rotation works",
       "status": "defined",
-      "definition": "Crop rotation is growing different crops in turn in the same field. It spreads out the work on the soil, and breaks up the life cycles of pests and diseases.",
+      "definition": "Crop rotation is growing different crops in turn in the same field. It means the soil is not asked for the same nutrients every season, and it breaks up the life cycles of pests and diseases.",
       "description": "A crop of rice or wheat takes a lot of nitrogen out of the soil. A crop of moong or groundnut can fix its own nitrogen, so it takes less from the soil. The roots and leaves left behind in the field when a legume is harvested add nitrogen too, as they rot. This is why farmers have long followed a cereal with a pulse. But a pulse harvest also carries away nitrogen in its seeds, so the gain is smaller than many people think. Rotation also helps in other ways. A pest or disease that attacks one crop starves when the next crop is a different kind. Deep roots and shallow roots take water and nutrients from different layers. In the Kaveri delta, many farmers sow black gram or green gram on the damp soil left after the rice harvest. Some fields are also left fallow for a season, so the soil can rest and its water can build up.",
       "examples": [
         "Rice then black gram, then rice again.",
@@ -265,7 +265,7 @@
     {
       "concept": "Salt in the soil",
       "status": "defined",
-      "definition": "Salt builds up in soil when water that carries salt is used up by evaporation and plants, and the salt is left behind.",
+      "definition": "Water used on fields carries a little salt. When the water evaporates or is taken up by plants, the salt is left behind and builds up in the soil.",
       "description": "All water from rivers, canals and wells carries a little dissolved salt. When this water is spread on a field and evaporates, only the water goes into the air. The salt stays. Year after year, it builds up, and in dry places a white crust can appear on the top of the soil. Salt makes it harder for roots to take in water, and too much damages them. Seeds sprout badly in salty soil. Salt also arrives where seawater creeps into the ground along a coast. Farmers can clear it by letting extra water wash the salt down and out through drains. Some crops have learned to cope. In Kerala, the Pokkali rice grown in the backwaters of Alappuzha and Ernakulam can grow in salty water. Millions of hectares of farmland around the world are damaged by salt.",
       "examples": [
         "A white crust on the edge of a dry irrigated field.",
@@ -279,8 +279,8 @@
     {
       "concept": "Acid and alkaline soils",
       "status": "defined",
-      "definition": "Soil can be acidic, neutral or alkaline. Plants grow best in different kinds, and each kind changes which nutrients a plant can take up.",
-      "description": "The pH scale runs from 0 to 14. A pH of 7 is neutral. Lower numbers are acidic, and higher numbers are alkaline. Vinegar is acidic. Baking soda in water is alkaline. Soils in rainy places, such as the laterite soils of Kerala, tend to be acidic, because rain washes away the minerals that balance acid. Soils in dry places, or made from chalky rock, tend to be alkaline. Tea bushes in Assam and the Nilgiris grow best in acid soil. In soil that is too acidic or too alkaline, some nutrients are locked up and a plant cannot take them in. A farmer can add lime to an acidic soil, and compost helps many soils. A Soil Health Card reports the pH of a field.",
+      "definition": "Soil can be acidic, neutral or alkaline. Different plants grow best in different kinds, and the kind of soil changes which nutrients a plant can take up.",
+      "description": "How acidic or alkaline a soil is gets measured on the pH scale, which runs from 0 to 14. A pH of 7 is neutral. Lower numbers are acidic, and higher numbers are alkaline. Vinegar is acidic. Baking soda in water is alkaline. Soils in rainy places, such as the laterite soils of Kerala, tend to be acidic, because rain washes away the minerals that balance acid. Soils in dry places, or made from chalky rock, tend to be alkaline. Tea bushes in Assam and the Nilgiris grow best in acid soil. In soil that is too acidic or too alkaline, some nutrients are locked up and a plant cannot take them in. A farmer can add lime to an acidic soil, and compost helps many soils. A Soil Health Card reports the pH of a field.",
       "examples": [
         "Tea gardens in the Nilgiris and Assam grow on acid soils.",
         "Red cabbage water turns pink with vinegar and green-blue with baking soda, and can be used to compare soils.",
@@ -293,7 +293,7 @@
     {
       "concept": "Who is in charge of the trade between a bean and her bacteria?",
       "status": "debated",
-      "description": "The bean gives sugar. The bacteria give nitrogen. But what happens when some bacteria give less than others? In 2003, researchers reported that soybean plants seemed to punish nodules that fixed little nitrogen, perhaps by cutting their oxygen supply, and those bacteria did less well. Many biologists read this as the plant sanctioning cheats. Others say there is no plan behind it. The plant simply gives more oxygen and sugar to the nodules that are working, as a result of how the nodule is built. Some scientists point out that the bacteria also change their behaviour, and that bacteria in the soil sense chemicals and choose where to swim. So the trade may be steered from both sides. Nobody has settled how much choice each side has.",
+      "description": "The bean gives sugar. The bacteria give nitrogen. But what happens when some bacteria give less than others? In 2003, researchers reported that soybean plants seemed to punish nodules that fixed little nitrogen, perhaps by cutting their oxygen supply, and those bacteria did less well. Many biologists say this shows the plant punishing bacteria that cheat. Others say there is no plan behind it. The plant simply gives more oxygen and sugar to the nodules that are working, because of the way the nodule is built. Some scientists point out that the bacteria also change their behaviour, and that bacteria in the soil sense chemicals and choose where to swim. So the trade may be steered from both sides. Nobody has settled how much choice each side has.",
       "examples": [
         "A soybean nodule that fixes less nitrogen gets less oxygen.",
         "Different kinds of Rhizobium bacteria can enter the same bean, and some fix more than others.",
@@ -306,7 +306,7 @@
         },
         {
           "who": "Other biologists",
-          "explanation": "Nothing is being decided. The nodule's oxygen and sugar supply simply follows how well the nodule is working, as the result of its build. Words like punish and reward are pictures."
+          "explanation": "Nothing is being decided. The nodule's oxygen and sugar supply simply follows how well the nodule is working, because of the way the nodule is built. Words like punish and reward are only a way of speaking."
         },
         {
           "who": "Some plant scientists",
@@ -320,7 +320,7 @@
       "concept": "Nitrogen from factories, and what nobody knows yet",
       "status": "idea",
       "definition": "In 1909 the German chemist Fritz Haber found a way to make ammonia from nitrogen gas and hydrogen, and Carl Bosch turned it into a factory process a few years later. Nitrogen fertiliser made this way is reported to feed about half the world's people today.",
-      "description": "The Haber-Bosch process breaks the strong bond in nitrogen gas using high pressure and heat, and a metal catalyst. It uses a great deal of energy, which today mostly comes from natural gas and coal. The nitrogen that crops do not take up can wash into rivers and lakes. It feeds green algae, which then use up the oxygen in the water and kill fish. So scientists are asking new questions. Could cereals like rice and wheat be helped to grow their own nitrogen partners? A maize variety grown by the Mixe people in Oaxaca, Mexico, has been reported to grow root-like structures that drip a sugary jelly where nitrogen-fixing bacteria live. Can that be copied into other crops? Nobody knows yet whether it can be made to work at scale.",
+      "description": "The Haber-Bosch process breaks the strong bond in nitrogen gas using high pressure and heat, and a metal that speeds up the change, called a catalyst. It uses a great deal of energy, which today mostly comes from natural gas and coal. The nitrogen that crops do not take up can wash into rivers and lakes. It feeds green algae, which then use up the oxygen in the water and kill fish. So scientists are asking new questions. Could cereals like rice and wheat be helped to keep nitrogen-fixing bacteria of their own? A maize variety grown by the Mixe people in Oaxaca, Mexico, has been reported to grow root-like structures that drip a sugary jelly where nitrogen-fixing bacteria live. Can that be copied into other crops? Nobody knows yet whether it can be made to work in large fields.",
       "examples": [
         "A fertiliser factory turning nitrogen gas and hydrogen into ammonia.",
         "Green algae covering a lake after nitrogen washes in from fields.",
@@ -328,7 +328,7 @@
       ],
       "perspectives": [],
       "art": "A fertiliser factory with tall pipes on one side and a bean field with nodules on the other, with a question mark above a rice plant growing its own tiny nitrogen helpers.",
-      "context": "Where does most of the nitrogen in our food come from, and what might change? This card goes to the edge of what is known."
+      "context": "Where does most of the nitrogen in our food come from, and what might change? This card also says what scientists do not know yet."
     }
   ],
   "agreed": [
@@ -350,14 +350,14 @@
     },
     {
       "text": "Bacteria in the nodules of legumes change nitrogen gas into ammonia, and the plant pays them in sugar.",
-      "evidence": "Scientists give plants nitrogen gas with a marker form of nitrogen atom, and find the marker in the plant's proteins."
+      "evidence": "Scientists give bean plants nitrogen gas marked with a rare kind of nitrogen atom. Later they find the marked atoms in the plant's proteins."
     },
     {
       "text": "Irrigation water leaves its dissolved salt behind when it evaporates, and the salt can build up in the soil.",
       "evidence": "Salt crusts and measured salt levels are found in irrigated soils worldwide, and land managers have to wash the salt out."
     },
     {
-      "text": "Growing different crops in turn lowers the build-up of pests and diseases and spreads the demand on the soil.",
+      "text": "Growing different crops in turn lowers the build-up of pests and diseases, and means the soil is not asked for the same nutrients every season.",
       "evidence": "Long-running field experiments, some over a hundred years old, compare fields with and without rotation."
     }
   ],
@@ -390,7 +390,7 @@
       "claim": "Natural manure is always better for the soil than factory fertiliser.",
       "who": "Many organic farmers and consumers",
       "for": "Manure and compost add humus, feed soil life and release nutrients slowly. Factory fertiliser used too much can wash into rivers.",
-      "against": "A plant takes up the same nitrate ions from either. Manure alone often cannot supply enough nitrogen for high yields. Many soil scientists recommend using both, in the right amounts.",
+      "against": "A plant takes up the same form of nitrogen from either. Manure alone often cannot supply enough nitrogen for high yields. Many soil scientists recommend using both, in the right amounts.",
       "status": "debated",
       "context": "This card is about a long argument between organic and chemical farming."
     },
@@ -413,7 +413,7 @@
   ],
   "big_questions": [
     {
-      "q": "Water climbed up your cup of soil with nobody pushing it. What is doing the pulling?",
+      "q": "In the Water Climb test, water climbed up a cup of soil with nobody pushing it. What is doing the pulling?",
       "kind": "deep",
       "hint": "Think about how water sticks to the grains, and what water is made of."
     },
@@ -428,7 +428,7 @@
       "hint": "Think about what has to be done to a nitrogen molecule before a plant can use it."
     },
     {
-      "q": "A bean and her bacteria cannot grow nodules alone. Is the nodule part of the bean, part of the bacteria, or something new?",
+      "q": "Neither a bean nor her bacteria can grow a nodule alone. Is the nodule part of the bean, part of the bacteria, or something new?",
       "kind": "big",
       "hint": "Think about where the plant ends and the bacteria begin."
     },
@@ -443,7 +443,7 @@
       "hint": "Think about what a farmer sees, remembers and passes on."
     },
     {
-      "q": "A field is left fallow for a season. Who is resting, the soil, the farmer, or the living things in the soil?",
+      "q": "A field is left fallow for a season. Who is resting: the soil, the farmer, or the living things in the soil?",
       "kind": "big",
       "hint": "Think about what is still happening in the soil when no crop is growing."
     },
@@ -508,18 +508,18 @@
     ]
   },
   "roots": {
-    "context": "We have watched water climb through soil, saved water with a cover of leaves, and met the bacteria in a bean's roots. Now we ask what a bean, a field and a bag of urea tell us about how life is fed.",
+    "context": "In this unit water climbs through soil, a cover of leaves saves water, and bacteria live in a bean's roots. Now we look at what a bean, a field and a bag of urea show about how living things get their food.",
     "deep_truth": {
       "truth": "Beans do not only take from a field. Tiny bacteria in swellings on their roots pull nitrogen out of the air, and the bean pays them in sugar. So a bean's food is made by two kinds of life working together. That is why a field can end a season richer than it began.",
       "habit": "We think of a plant as one being on her own, and of soil as a bank that she empties and a farmer refills. A nodule is part bean and part bacteria, and the giving goes both ways.",
       "evidence": "A working nodule is pink inside. Farmers in the Kaveri delta sow black gram after rice, and the next rice often grows greener. Scientists who feed beans nitrogen gas marked with a rare kind of atom find the marked atoms in the bean's protein."
     },
     "three": {
-      "who_am_i": "The protein in your dal was nitrogen gas in the air, until bacteria in a bean's roots turned it into something a plant can use. Your body then built it into you.",
+      "who_am_i": "The protein in your dal was nitrogen gas in the air, until bacteria in a bean's roots turned it into something a plant can use. When you eat the dal, your body uses that protein to build itself.",
       "what_is_life": "A bean and her bacteria are two different kinds of life, and neither does well alone. A great deal of life is made of partnerships like this one.",
-      "what_is_this_world": "Nitrogen passes from air to bacteria to bean to person to soil and back to the air. A field is a place where a stream flows through, not a store that empties."
+      "what_is_this_world": "Nitrogen passes from air to bacteria to bean to person to soil and back to the air. So a field is not a store that only empties. Nitrogen keeps moving through it."
     },
-    "thread": "The nitrogen in the air, the sugar in a bean leaf, the bacteria in a root and the dal on your plate look like four separate things. They are one stream. Sunlight makes the sugar, the sugar pays the bacteria, the bacteria turn air into protein, and a family eats the protein. Then bodies and roots and leaves return the nitrogen to the soil, and the stream begins again. No step in the chain can do it alone.",
+    "thread": "The nitrogen in the air, the sugar in a bean leaf, the bacteria in a root and the dal on your plate look like four separate things. They are steps in one chain. Sunlight makes the sugar, the sugar pays the bacteria, the bacteria turn air into protein, and a family eats the protein. Then bodies and roots and leaves return the nitrogen to the soil, and the chain begins again. No step in the chain can do it alone.",
     "teachings": [
       {
         "source": "Bhagavad Gita 3.14",
@@ -534,7 +534,7 @@
       {
         "source": "Avatamsaka Sutra, the image of Indra's net",
         "teaching": "Every jewel in a great net reflects every other jewel, so each one holds all the others.",
-        "link": "A nodule is a place where a plant, a bacterium, the air and the Sun all meet, and each is needed for the pink inside."
+        "link": "A nodule is a place where a plant, bacteria, the air and the Sun all meet. The nodule works, and is pink inside, only when all four are there."
       }
     ],
     "science": [
@@ -549,7 +549,7 @@
     ],
     "other_view": {
       "who": "Some plant biologists",
-      "view": "A nodule is an organ built by the plant using her own genes, and the bacteria are workers inside the nodule. Calling the two a partnership of equals is a picture. The bean grows nodules when she needs nitrogen, and stops when she does not."
+      "view": "A nodule is an organ built by the plant using her own genes, and the bacteria are workers inside the nodule. Calling the two a partnership of equals is only a way of speaking. The bean grows nodules when she needs nitrogen, and stops when she does not."
     },
     "practice": {
       "title": "Watch the cloth drink",
@@ -559,7 +559,7 @@
     },
     "ask": [
       "Is a bean plant one living being, or a bean plus her bacteria? Where would you draw the line, and why?",
-      "Murugan Mama said soil is a bank. What does the bean show about that picture?",
+      "In the story Pink Inside the Knot, Murugan Mama said the soil is a bank: when it is empty, you must put money in. What does the bean show about that picture?",
       "Farmers knew that pulses help the next crop long before anyone saw a nodule. What else do you know without knowing why?"
     ],
     "art": "A bean plant in a field with a cut-away of her roots showing pink nodules, an arrow of nitrogen coming down from the air, an arrow of sugar going down from the leaves, and a child eating dal in the corner."
@@ -598,7 +598,7 @@
             },
             {
               "f": "MAIZE. Needs 3 N. Harvest: 5 points.",
-              "b": "Maize grows tall and fast, and its big leaves need much nitrogen."
+              "b": "Maize grows tall and fast, and her big leaves need a lot of nitrogen."
             },
             {
               "f": "MAIZE. Needs 3 N. Harvest: 5 points.",
@@ -646,11 +646,11 @@
             },
             {
               "f": "MOONG. Gives 2 N. Harvest: 2 points.",
-              "b": "Moong, or green gram, is a legume. Her roots carry pink-inside nodules when they work."
+              "b": "Moong, or green gram, is a legume. The nodules on her roots are pink inside when they are working."
             },
             {
               "f": "MOONG. Gives 2 N. Harvest: 2 points.",
-              "b": "Moong grows fast, in about two months, which makes it a good crop between two cereals."
+              "b": "Moong grows fast, in about two months, which makes her a good crop to grow between two cereals."
             },
             {
               "f": "URAD. Gives 2 N. Harvest: 2 points.",
@@ -783,7 +783,7 @@
           "id": "s4",
           "mins": 3,
           "do": "Stop after season 4. Look at every bank. Compare the banks of players who played only cereals with the banks of players who mixed in pulses.",
-          "say": "Halfway through. Whose bank is fullest? Who played what? What do you notice?",
+          "say": "We are halfway through. Whose bank is fullest? Who played what? What do you notice?",
           "kid": "Compare the banks. Whose is fullest? What did they play?",
           "ask": [
             {
@@ -891,7 +891,7 @@
               "b": "A root nodule"
             },
             {
-              "f": "I am a bacterium that lives in a bean's root and turns air into plant food.",
+              "f": "I am a bacterium that lives in a bean's root and turns nitrogen from the air into a form the plant can use.",
               "b": "Rhizobium"
             },
             {
@@ -958,7 +958,7 @@
           "id": "s2",
           "mins": 9,
           "do": "Play ten cards. After each card, the holder reads the answer and says one fact about it.",
-          "say": "Is it a thing, a gas or a living being? Is it in the soil? Does it help the roots?",
+          "say": "Ask questions like these. Is it a thing, a gas or a living being? Is it in the soil? Does it help the roots?",
           "kid": "Ask yes or no questions. Guess when you are sure.",
           "check": {
             "t": "mcq",
@@ -1012,7 +1012,7 @@
       "days": 2,
       "question": "If three cups of dry gravel, sand and fine soil stand in a shallow tray of water, how high does the water climb in each one, and how fast?",
       "predict": "Look at the three dry materials. Which one will the water climb highest in? Which will it climb fastest in? Which will it not climb in at all? Why do you think so?",
-      "fair_test": "All three cups are the same size and are filled to the same line with dry material. Each is tapped five times on the table to settle it. All three stand in the same tray with the same depth of water at the same moment. Only the size of the grains changes, so any difference in the climb comes from the grains. Look at the same times for all three.",
+      "fair_test": "All three cups are the same size and are filled to the same line with dry material. Each is tapped five times on the table to settle it. All three stand in the same tray with the same depth of water at the same moment. Only the size of the grains changes, so any difference in the climb comes from the grains. Measure all three cups at the same times.",
       "results_table": [
         "Time",
         "Gravel: height of the wet line (cm)",
@@ -1058,12 +1058,12 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up makes the holes in the cups, because the nail is sharp. Rub the dry soil gently and do not breathe in the dust. Wash hands after touching soil. Do the hole-making over a towel, and keep the nail and scissors away from small children.",
+      "safety": "A grown-up makes the holes in the cups, because the nail is sharp. When you rub the dry soil through the tea strainer, do it gently and do not breathe in the dust. Wash hands after touching soil. Do the hole-making over a towel, and keep the nail and scissors away from small children.",
       "schedule": [
         {
           "day": 1,
           "mins": 35,
-          "what": "Look at the materials, guess, make the cups, fill them and start the water. Look at 5, 15, 30 and 60 minutes."
+          "what": "Look at the materials, guess, make the cups, fill them and start the water. Look at the cups after 5, 15, 30 and 60 minutes."
         },
         {
           "day": 2,
@@ -1071,14 +1071,14 @@
           "what": "Look again the next morning and measure the final wet line."
         }
       ],
-      "record": "Fill in the table at each time. Then draw the three cups with their wet lines at 60 minutes. Write which cup filled first and which did not fill.",
+      "record": "Fill in the table at each time. Then draw the three cups with their wet lines at 60 minutes. Write which cup was wet to the top first and which stayed mostly dry.",
       "flow": [
         {
           "id": "s1",
           "mins": 5,
           "do": "Spread a little of each dry material on a plate. Look closely and feel each one. Ask for a guess and a reason, and write it down.",
           "say": "Here are gravel, sand and fine soil, all dry. We will stand each in a little water. How high will the water climb? How fast? Why do you think so?",
-          "kid": "Look at the three. Which will the water climb best? Why?",
+          "kid": "Look at the gravel, the sand and the fine soil. In which one will the water climb highest? Why?",
           "ask": [
             {
               "q": "Why do you think that one will let the water climb best?",
@@ -1097,9 +1097,9 @@
           "mins": 7,
           "do": "Ask a grown-up to make five small holes in the bottom of each cup. Lay a cloth circle inside each cup. Draw a line every centimetre up the outside with the marker.",
           "say": "Fine grains must not fall out of the holes, so the cloth goes in first. The lines on the side are our ruler.",
-          "kid": "Holes in the bottom. A cloth circle inside. Draw lines up the side.",
+          "kid": "A grown-up makes holes in the bottom of each cup. Put a cloth circle inside. Draw lines up the side.",
           "adult": true,
-          "parent": "The nail makes the holes. Press it through slowly, over a towel. The cloth stops the soil falling out but still lets water in. Mark the cups A for gravel, B for sand and C for fine soil.",
+          "parent": "Use the nail to make the holes. Press it through slowly, over a towel. The cloth stops the soil falling out but still lets water in. Mark the cups A for gravel, B for sand and C for fine soil.",
           "context": "In this step you make three cups that can sit in water and show the wet line on their sides."
         },
         {
@@ -1107,7 +1107,7 @@
           "mins": 6,
           "do": "Fill cup A with gravel, cup B with sand and cup C with fine soil, each to the 9 centimetre line. Tap each cup on the table five times. Top it up to the 9 centimetre line.",
           "say": "Every cup is filled to the same line. Tap each cup the same number of times, so the grains settle the same way.",
-          "kid": "Fill to the 9 centimetre line. Tap five times. Top up.",
+          "kid": "Fill each cup to the 9 centimetre line. Tap it five times. Top it up.",
           "check": {
             "t": "mcq",
             "q": "Why do we fill all three cups to the same line and tap them five times?",
@@ -1127,7 +1127,7 @@
           "do": "Pour 1 centimetre of coloured water into the tray. Stand all three cups in it at the same moment. Start the clock.",
           "say": "All three stand in the water together. Now watch the sides of the cups. Dark means wet.",
           "kid": "Put all three in the water at once. Start the clock.",
-          "parent": "Stand the cups in the tray at the same moment. The water in the tray will go down as the cups drink it. Top it up to 1 centimetre when you check, and add the same water to the tray before you leave it overnight.",
+          "parent": "Stand the cups in the tray at the same moment. The water in the tray will go down as the cups drink it. Top it up to 1 centimetre when you check, and top it up again before you leave it overnight.",
           "context": "In this step the three cups go into the water and the timing starts."
         },
         {
@@ -1146,7 +1146,7 @@
               ]
             }
           ],
-          "parent": "Measure from the water level in the tray. Often the gravel wet line stays at about 1 to 2 centimetres. The sand rises quickly at first, often several centimetres in the first hour, and may reach the top by the next morning. The fine soil is slower to start, because it is dusty and takes time to wet. If the fine soil stays dry for a long time, write that down: it is a result too. If the soil floats a dry crust on top and nothing climbs, it may be potting mix with coco-peat that repels water: try plain garden soil. Times will be a little different in hot and in damp weather, so compare the three cups with each other, not with the example.",
+          "parent": "Measure from the water level in the tray. Often the gravel wet line stays at about 1 to 2 centimetres. The sand rises quickly at first, often several centimetres in the first hour, and may reach the top by the next morning. The fine soil is slower to start, because it is dusty and takes time to wet. If the fine soil stays dry for a long time, write that down: it is a result too. If a dry crust floats on top of the soil and nothing climbs, it may be potting mix with coco-peat, which repels water. Try plain garden soil instead. Times will be a little different in hot and in damp weather, so compare the three cups with each other, not with the example.",
           "wait": "Leave the cups standing until the next morning."
         },
         {
@@ -1160,10 +1160,10 @@
         {
           "id": "s7",
           "mins": 4,
-          "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
+          "do": "Ask your child to say or write three things: what they think the test showed, what they saw, and why they think it happened.",
           "say": "Tell me three things. What did you find? What did you see? Why do you think the grains made the difference?",
-          "kid": "Say three things. What I found. What I saw. Why.",
-          "parent": "A good answer sounds like this. What I think: the smaller the gaps, the stronger the pull on the water. What I saw: the gravel climbed about 1 centimetre, the sand climbed fast and the fine soil climbed slowly but kept going. Why: water sticks to the grains and pulls the water behind it up. Narrow gaps have more grain close to the water, so the pull is stronger. But narrow gaps are also harder to flow through, so the climb is slower.",
+          "kid": "Say three things: what you found, what you saw, and why you think it happened.",
+          "parent": "A good answer sounds like this. What I think: the smaller the gaps, the stronger the pull on the water. What I saw: the water climbed about 1 centimetre in the gravel, climbed fast in the sand, and climbed slowly in the fine soil but kept going. Why: water sticks to the grains and pulls the water behind it up. Narrow gaps have more grain close to the water, so the pull is stronger. But narrow gaps are also harder to flow through, so the climb is slower.",
           "check": {
             "t": "mcq",
             "q": "The gravel cup stayed almost dry, and the sand cup was wet to the top. What does this show?",
@@ -1173,7 +1173,7 @@
               "Sand is made of water"
             ],
             "a": 1,
-            "why": "Water is pulled up by its stickiness to the grains at the edges of a gap. In very wide gaps most of the water is too far from a grain to be pulled. In narrow gaps all the water is close to a grain, so it is lifted. Picking heavier gravel is a fair thought, but weight is not the cause."
+            "why": "Water is pulled up by its stickiness to the grains at the edges of a gap. In very wide gaps most of the water is too far from a grain to be pulled. In narrow gaps all the water is close to a grain, so it is lifted. Gravel is heavier than sand, but weight is not the cause."
           },
           "context": "This step asks you to say what you found, what you saw and why. Scientists call it claim, evidence and reasoning."
         }
@@ -1245,9 +1245,9 @@
       "title": "Salty Seeds: how much salt stops moong from sprouting?",
       "mins": 30,
       "days": 6,
-      "question": "A pinch of salt, a spoon of salt or a lot of salt in the water: how much does it take to stop moong seeds from sprouting?",
+      "question": "How much salt in the water does it take to stop moong seeds from sprouting: a pinch, half a teaspoon or a whole teaspoon?",
       "predict": "Four saucers will have water with no salt, a little salt, more salt and a lot of salt. How many seeds will sprout in each? Which saucer will sprout first? Why do you think so?",
-      "fair_test": "Each saucer has 10 seeds from the same packet, the same kind of tissue and the same amount of liquid. All four sit in the same place. The only thing that changes is the amount of salt. Seeds are counted at the same time each day. The saucer with no salt shows how well the seeds sprout without any help or harm.",
+      "fair_test": "Each saucer has 10 seeds from the same packet, the same kind of tissue and the same amount of liquid. All four sit in the same place. The only thing that changes is the amount of salt. Seeds are counted at the same time each day. The saucer with no salt shows how well the seeds sprout in plain water.",
       "results_table": [
         "Saucer and salt in 100 millilitres of water",
         "Seeds sprouted after day 1",
@@ -1295,12 +1295,12 @@
         {
           "day": 2,
           "mins": 3,
-          "what": "Count the sprouted seeds (many may not have sprouted yet). Add a tablespoon of the right liquid to each saucer."
+          "what": "Count the sprouted seeds (many may not have sprouted yet). Add a tablespoon of its own water to each saucer: water A to saucer A, and so on."
         },
         {
           "day": 3,
           "mins": 3,
-          "what": "Count again and add liquid."
+          "what": "Count again, and add its own water to each saucer."
         },
         {
           "day": 4,
@@ -1319,8 +1319,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Show the four saucers and the salt. Say that the water will have different amounts of salt. Ask for a guess and a reason. Write it down.",
-          "say": "Four saucers, four waters. One has no salt. One has a pinch. One has half a spoon. One has a whole spoon. How many seeds will sprout in each? Why do you think so?",
-          "kid": "Four waters with different salt. How many seeds sprout in each? Why?",
+          "say": "We have four saucers, each with a different water. One has no salt. One has a pinch. One has half a teaspoon. One has a whole teaspoon. How many seeds will sprout in each? Why do you think so?",
+          "kid": "Four saucers have water with different amounts of salt. How many seeds will sprout in each? Why?",
           "ask": [
             {
               "q": "Why do you think salt might change how seeds sprout?",
@@ -1337,9 +1337,9 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Label the saucers A, B, C and D. Put 100 millilitres of water in four cups. Leave A plain. Stir one eighth of a level teaspoon of salt into B. Stir half a teaspoon into C. Stir one level teaspoon into D. Stir until the salt is gone.",
+          "do": "Label four saucers and four cups A, B, C and D. Put 100 millilitres of water in each cup. Leave cup A plain. Stir one eighth of a level teaspoon of salt into cup B. Stir half a teaspoon into cup C. Stir one level teaspoon into cup D. Stir until you cannot see the salt.",
           "say": "A is plain water. B has a pinch of salt. C has half a teaspoon. D has a whole teaspoon. C is nearly as salty as the sea.",
-          "kid": "Make four waters. A plain, B a pinch, C half a spoon, D a spoon.",
+          "kid": "Make four cups of water. A is plain. B has a pinch of salt. C has half a teaspoon. D has a whole teaspoon.",
           "parent": "Use a level spoon, not a heaped one. One eighth of a teaspoon is a small pinch. Keep the waters apart and label each cup so they do not get mixed. One child with a parent: make all four. Two to four children: each child makes and looks after one saucer, then you put the counts in one table. If you have only one child, the parent counts the seeds too, so the counting is checked.",
           "check": {
             "t": "mcq",
@@ -1357,15 +1357,15 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "Lay three layers of tissue in each saucer. Pour 3 tablespoons of the right water into each saucer. Put 10 soaked seeds on each tissue, with space between them. Put a label on each saucer.",
-          "say": "Pour the right water into the right saucer. The tissue should be wet, with no puddle. Space the seeds apart, so you can count them.",
-          "kid": "Wet the tissue with the right water. Put 10 seeds on each.",
+          "do": "Lay three layers of tissue in each saucer. Pour 3 tablespoons of water A into saucer A, water B into saucer B, and so on. Put 10 soaked seeds on each tissue, with space between them. Put a label on each saucer.",
+          "say": "Each saucer gets the water with the same letter. The tissue should be wet, with no puddle. Space the seeds apart, so you can count them.",
+          "kid": "Wet each tissue with the water that has the same letter as the saucer. Put 10 seeds on each.",
           "parent": "The tissue should be damp, not floating. Put the saucers in a warm place away from direct sun. A kitchen shelf is good. In a very hot or dry room the tissue dries fast: cover each saucer loosely with an upturned plate and check each morning. In a cool room (below about 20 degrees) moong is slow, so count one day later. Moong in plain water should show a white root on most seeds by day 2 or 3. If fewer than 7 of 10 seeds in saucer A sprout, the seeds are old: start again with a fresh packet."
         },
         {
           "id": "s4",
           "mins": 3,
-          "do": "After one day, count the seeds that have sprouted in each saucer. Write the numbers in the table. Add one tablespoon of the right water to each saucer.",
+          "do": "After one day, count the seeds that have sprouted in each saucer. Write the numbers in the table. Add one tablespoon of its own water to each saucer.",
           "say": "Count the sprouted seeds in each saucer. Which saucer is ahead?",
           "kid": "Count the sprouted seeds. Write the numbers.",
           "ask": [
@@ -1378,12 +1378,12 @@
               ]
             }
           ],
-          "parent": "Often the plain saucer has most seeds sprouted by day 2 or 3. The pinch saucer may be a little behind. The half-spoon saucer is usually slow and may have few or none, and the one-spoon saucer none at all. The exact numbers depend on the seeds. If all four look the same, write that down, and try fresh seeds. That is a real result too."
+          "parent": "Often the plain saucer has most seeds sprouted by day 2 or 3. The pinch saucer may be a little behind. The half-spoon saucer is usually slow and may have few or none, and the one-spoon saucer none at all. The exact numbers depend on the seeds. If all four look the same, write that down, because it is a real result too. Then try fresh seeds."
         },
         {
           "id": "s5",
           "mins": 5,
-          "do": "On days 2 and 3, count the sprouted seeds again. Top up the right water each day. On day 4, take the seeds that have not sprouted out of the salty saucers. Rinse them in plain water. Put them on plain wet tissue.",
+          "do": "On days 2 and 3, count the sprouted seeds again. Add its own water to each saucer each day. On day 4, take the seeds that have not sprouted out of the salty saucers. Rinse them in plain water. Put them on plain wet tissue.",
           "say": "Now a second question. Salt held the seeds back. Did it kill them? Rinse them in plain water and wait two more days.",
           "kid": "Rinse the seeds that have not sprouted. Put them on plain wet tissue.",
           "parent": "Salt can hold seeds back or hurt them, depending on how salty it is. After a rinse, a few seeds from the middle saucers may sprout. Seeds from the saltiest saucer often do not, or do so only slowly. Count only roots that are at least 2 millimetres long. The salty seeds may smell or grow mould by day 4: throw them away if they do, and write that down. Write down whatever happens.",
@@ -1392,9 +1392,9 @@
         {
           "id": "s6",
           "mins": 5,
-          "do": "On day 6, count the rinsed seeds that have sprouted. Fill in the last column. Then ask for the three things: what I think, what I saw and why.",
+          "do": "On day 6, count the rinsed seeds that have sprouted. Fill in the last column. Then ask your child for three things: what they think the test showed, what they saw, and why.",
           "say": "Tell me three things. How much salt did it take to stop the seeds? What did you see? Why does salt do this?",
-          "kid": "Say three things. What I think. What I saw. Why.",
+          "kid": "Say three things: what you found, what you saw, and why you think it happened.",
           "parent": "A good answer: more salt means fewer sprouted seeds. In the saltiest water, almost no seeds sprouted. Why: salty water holds on to its water very tightly, so the seed finds it hard to take water in. Too much salt can also harm the seed. Real fields work the same way. A field with a white salt crust grows poor crops.",
           "check": {
             "t": "mcq",
@@ -1531,7 +1531,7 @@
           "mins": 3,
           "do": "Show the three cups, the soil and the leaves. Ask for a guess and a reason, and write it down.",
           "say": "Two cups of the same soil, in the same Sun. One gets a cover of dry leaves. Which dries out more? Why do you think so?",
-          "kid": "Two cups, one covered. Which dries out more? Why?",
+          "kid": "Two cups hold the same soil. One is covered with dry leaves. Which will dry out more? Why?",
           "ask": [
             {
               "q": "Why do you think the leaves will make a difference?",
@@ -1550,7 +1550,7 @@
           "mins": 7,
           "do": "Fill each cup with soil to 6 centimetres. Pour 4 tablespoons of water slowly on each. Wait 10 minutes. Then lay 2 centimetres of dry leaves on one cup. Use the fork to loosen the top 2 centimetres of soil in another.",
           "say": "Same soil, same water, same depth in each cup. One is bare, one is covered, and one has loose soil on top.",
-          "kid": "Fill the cups. Add water. Cover one. Loosen one.",
+          "kid": "Fill the cups with soil. Add water. Cover one with dry leaves. Loosen the top of another with the fork.",
           "parent": "Label the cups Bare, Covered and Loosened. The soil next to the clear wall will look dark when it is wet and pale when it is dry. If you have a kitchen scale, weigh each cup now and again each morning. The lighter the cup, the more water has gone. One child with a parent: one child sets all three cups. Two to four children: each child fills one cup, or each makes a full set of three and you compare sets. One child pours, one measures, one writes.",
           "check": {
             "t": "mcq",
@@ -1569,7 +1569,7 @@
           "id": "s3",
           "mins": 2,
           "do": "Put the three cups side by side in the same sunny place. Do not move them.",
-          "say": "Same Sun, same wind. Now we wait one day.",
+          "say": "All the cups get the same Sun and the same wind. Now we wait one day.",
           "kid": "Put the cups in the sun. Do not move them.",
           "wait": "Leave the cups in the Sun until tomorrow."
         },
@@ -1578,7 +1578,7 @@
           "mins": 5,
           "do": "Each day, lift the leaves aside. Look at the soil next to the wall of each cup. Measure the thickness of the pale dry layer at the top with a ruler, in millimetres. Write it in the table. Put the leaves back.",
           "say": "Look at the side of the cup. Dark soil is damp. Pale soil is dry. How thick is the pale layer at the top?",
-          "kid": "Look at the side. Measure the pale layer. Write it down.",
+          "kid": "Look at the side of each cup. Measure the pale layer. Write it down.",
           "ask": [
             {
               "q": "What is the difference between the bare cup and the covered cup?",
@@ -1595,9 +1595,9 @@
         {
           "id": "s5",
           "mins": 5,
-          "do": "On day 4, measure for the last time. Then ask your child for the three things: what I think, what I saw and why.",
+          "do": "On day 4, measure for the last time. Then ask your child for three things: what they think the test showed, what they saw, and why.",
           "say": "Tell me three things. What did the leaves do? What did you see? Why do you think the covered soil stayed damp?",
-          "kid": "Say three things. What I think. What I saw. Why.",
+          "kid": "Say three things: what you found, what you saw, and why you think it happened.",
           "parent": "A good answer: a cover of leaves keeps soil damp for longer. The bare cup had a thick dry layer and the covered cup had almost none. Why: the leaves shade the soil and stop the wind, so less water turns into vapour and leaves. Farmers lay straw between rows for the same reason.",
           "check": {
             "t": "mcq",
@@ -1698,7 +1698,7 @@
         {
           "day": 1,
           "mins": 15,
-          "what": "Wet three soils to dough. Make a ball and a ribbon from each. Measure the ribbons."
+          "what": "Wet three soils until each is like soft dough. Make a ball and a ribbon from each. Measure the ribbons."
         }
       ],
       "record": "A table with three rows: sand, garden soil and clay. For each, write whether it made a ball, and how long the ribbon was.",
@@ -1719,7 +1719,7 @@
               ]
             }
           ],
-          "parent": "Do not say which will hold together. Let the hands find out. If the clay is already a paste, use it as it is. One child with a parent: do all three yourselves, and let the parent do one too to compare hands. Two to four children: each child makes a set of three and you compare ribbon lengths on one table. The cup of water is shared; wash hands in a bowl, not the sink, because clay can block drains.",
+          "parent": "Do not say which will hold together. Let your child find out by feel. If the clay is already a paste, use it as it is. One child with a parent: do all three yourselves, and let the parent make one too, to compare. Two to four children: each child makes a set of three and you compare ribbon lengths on one table. Share one cup of water. Wash hands in a bowl, not the sink, because clay can block drains.",
           "context": "This is the first step of the Squeeze and Ribbon test. You wet three soils to find out how each one feels."
         },
         {
@@ -1755,11 +1755,11 @@
           "mins": 2,
           "do": "Write what you found in the table. Ask: which of these soils would hold the most water, and which would drain the fastest?",
           "say": "Which soil would hold the most water in a pot? Which would let it run through? How can you tell by feel?",
-          "kid": "Which soil holds water? Which drains?",
+          "kid": "Which soil would hold the most water? Which would drain the fastest?",
           "parent": "Clay holds the most water and drains slowest. Sand drains fastest. The garden soil is in between."
         }
       ],
-      "context": "In this activity you wet three soils to dough, then squeeze them into balls and ribbons. The feel of each soil tells you how much sand, silt and clay it has.",
+      "context": "In this activity you wet three soils until each is like soft dough, then squeeze them into balls and ribbons. The feel of each soil tells you how much sand, silt and clay it has.",
       "setup": [
         {
           "art": "Three small piles on a plate: sand, pot soil and a smooth clay paste, each with a few drops of water being added.",
@@ -1869,7 +1869,7 @@
     },
     {
       "id": "a3",
-      "title": "Nodule Hunt: find the pink pearls on a bean's roots (if you can get a whole plant)",
+      "title": "Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant)",
       "mins": 20,
       "days": 1,
       "materials": [
@@ -1929,7 +1929,7 @@
               ]
             }
           ],
-          "parent": "Nodules on groundnut are small, round and a little pale or brown on the outside, from about 1 to 5 millimetres across. If you find none, the plant may have grown in soil without the right bacteria, or the roots may have been trimmed. That is real, and worth writing down. Nodules rub off with a finger; swollen lumps that are part of the root and will not rub off are not nodules (they may be galls made by tiny worms). A plant from a market after harvest is at the end of its life, so its nodules may be few and old."
+          "parent": "Nodules on groundnut are small, round and a little pale or brown on the outside, from about 1 to 5 millimetres across. If you find none, the plant may have grown in soil without the right bacteria, or the roots may have been trimmed. That is a real result, and worth writing down. Nodules rub off with a finger. Swollen lumps that are part of the root and will not rub off are not nodules (they may be galls made by tiny worms). A plant from a market after harvest is at the end of her life, so her nodules may be few and old."
         },
         {
           "id": "s3",
@@ -1938,7 +1938,7 @@
           "say": "A grown-up cuts a nodule in half. What colour is the inside? Pink means the nodule is working.",
           "kid": "A grown-up cuts a nodule open. What colour is the inside?",
           "adult": true,
-          "parent": "A pink or reddish inside means the nodule is working and fixing nitrogen. A white or green inside means it has stopped. The pink comes from a substance that holds oxygen back from the nitrogen-fixing tool. Dried or old nodules look brown or green inside. On a plant sold after harvest this is common, so do not be surprised if none is pink: write down what you see, and try a younger plant (chana or moong at flowering time) if you can. Pink is clearest in nodules cut from a living, flowering plant.",
+          "parent": "A pink or reddish inside means the nodule is working and fixing nitrogen. A white or green inside means it has stopped. The pink comes from a substance that holds oxygen back, because oxygen damages the tool the bacteria use to fix nitrogen. Dried or old nodules look brown or green inside. On a plant sold after harvest this is common, so do not be surprised if none is pink: write down what you see, and try a younger plant (chana or moong at flowering time) if you can. Pink is clearest in nodules cut from a living, flowering plant.",
           "check": {
             "t": "mcq",
             "q": "A cut nodule is bright pink inside. What does this tell you?",
@@ -1948,7 +1948,7 @@
               "The nodule is rotting"
             ],
             "a": 0,
-            "why": "The pink comes from a substance the nodule makes to hold oxygen back from the nitrogen-fixing tool. A white or green nodule is no longer working."
+            "why": "The pink comes from a substance the nodule makes to hold oxygen back, because oxygen damages the tool the bacteria use to fix nitrogen. A white or green nodule is no longer working."
           },
           "context": "In this step you cut open a nodule to see if it is working."
         },
@@ -2004,7 +2004,7 @@
         {
           "id": "s1",
           "mins": 6,
-          "do": "Read this made-up card for a field near Thanjavur. Nitrogen is low. Phosphorus is medium. Potassium is high. Acidity is 8.1, which is slightly alkaline. Salt is low. Humus is low.",
+          "do": "Read this made-up card for a field near Thanjavur. Nitrogen is low. Phosphorus is medium. Potassium is high. The pH is 8.1, which is slightly alkaline. Salt is low. Humus is low.",
           "say": "This is a card for a farmer's field. Nitrogen is low. Phosphorus is medium. Potassium is high. The soil is slightly alkaline. Salt is low. Humus is low.",
           "kid": "Read the card. What is low? What is high?",
           "ask": [
@@ -2250,7 +2250,7 @@
             "a": 0,
             "why": "Blue-green is the colour the purple liquid turns in an alkaline liquid, like baking soda. Many chalky soils and ash are alkaline too."
           },
-          "context": "In this step you test soil water and chalk water with the purple liquid."
+          "context": "In this step you test soil water and ash (or chalk) water with the purple liquid."
         }
       ],
       "context": "In this activity you make a purple liquid from red cabbage that changes colour with acid and alkali, and use it to test soil.",
@@ -2332,7 +2332,7 @@
           "mins": 15,
           "do": "Fill both pots with the same poor soil. In pot A, sow 6 moong seeds about 2 centimetres deep. Leave pot B with no seeds. Water both with the same amount, and put them side by side.",
           "say": "Both pots have the same poor soil. Pot A grows moong. Pot B stays bare. Later we will grow methi in both. Which pot will grow better methi? Why do you think so?",
-          "kid": "Two pots, same soil. Moong in A. Nothing in B. Water both.",
+          "kid": "Fill two pots with the same soil. Sow moong in pot A. Sow nothing in pot B. Water both.",
           "ask": [
             {
               "q": "Why do you think one pot might grow better methi than the other?",
@@ -2369,7 +2369,7 @@
           "id": "s3",
           "mins": 10,
           "do": "On day 22, sow 10 methi seeds in each pot, about 1 centimetre deep. Water both pots the same amount. Keep them side by side in the sun.",
-          "say": "Now sow methi in both pots. Same seeds, same water, same sun. Only the pot's history is different.",
+          "say": "Now sow methi in both pots. Same seeds, same water, same sun. The only difference is that pot A grew moong first.",
           "kid": "Sow 10 methi seeds in each pot. Water the same.",
           "wait": "Water both pots every day or two. Look again on day 36."
         },
@@ -2379,16 +2379,16 @@
           "do": "On day 36, count the seedlings in each pot. Measure the tallest seedling in each. Look at the colour of the leaves. Write all of this in the table.",
           "say": "Count the methi in each pot. Measure the tallest. Which leaves are greener?",
           "kid": "Count the methi. Measure the tallest. Look at the colour.",
-          "parent": "If the pots look alike, write that down: it is a real result. The effect of one bean crop can be small. Green leaves mean more nitrogen. Pale yellow-green leaves often mean too little. The pots may differ by only a little, or the bare pot may even look better. That can happen if the moong used up the nitrogen before it was cut. Write down what you see.",
+          "parent": "If the pots look alike, write that down: it is a real result. The effect of one bean crop can be small. Green leaves mean more nitrogen. Pale yellow-green leaves often mean too little. The pots may differ by only a little, or the bare pot may even look better. That can happen if the moong plants used up the nitrogen before they were cut. Write down what you see.",
           "wait": "Water both pots every day or two. Look again on day 43."
         },
         {
           "id": "s5",
           "mins": 15,
-          "do": "On day 43, measure again. Compare the pots. Ask your child for the three things: what I think, what I saw and why.",
+          "do": "On day 43, measure again. Compare the pots. Ask your child for three things: what they think the project showed, what they saw, and why.",
           "say": "What is different between the pots now? What do you think the moong did? How could we be sure?",
           "kid": "What is different now? What did the moong do?",
-          "parent": "Be honest with your child. Two pots are a small test, and many things can differ. A strong test uses many pots. Ask what she would change to be surer.",
+          "parent": "Be honest with your child. Two pots are a small test, and many things can differ. A strong test uses many pots. Ask what they would change to be surer.",
           "check": {
             "t": "mcq",
             "q": "Methi in the pot that grew moong stands taller and greener. What is the best explanation?",
@@ -2443,7 +2443,7 @@
         "a ruler and a notebook"
       ],
       "general": [
-        "Stand the bottle next to the pot. Run a cotton wick from the water to the soil. The water climbs the wick, just as it climbed the cup of sand.",
+        "Stand the bottle next to the pot. Run a cotton wick from the water to the soil. The water climbs the wick, just as it climbed the cup of sand in the Water Climb test.",
         "Stand the pot on a plate of water, with a wick from the plate through the hole in the bottom of the pot.",
         "Water the pot very well before you leave, then lay a thick cover of dry leaves on the soil."
       ],
@@ -2462,7 +2462,7 @@
           "kid": "Draw two or three ways to water the pot without pouring.",
           "ask": [
             {
-              "q": "What helped the water to climb in the sand cup?",
+              "q": "In the Water Climb test, what helped the water to climb in the cup of sand?",
               "good": [
                 "The tiny gaps between the grains.",
                 "The gaps in the cloth.",
@@ -2506,7 +2506,7 @@
               "The soil sucked the water"
             ],
             "a": 0,
-            "why": "The wick works like the cup of sand. Water sticks to the fine threads, and pulls on the water behind it, so it climbs. Nothing pumps it and nothing sucks it."
+            "why": "The wick works like the cup of sand in the Water Climb test. Water sticks to the fine threads, and pulls on the water behind it, so it climbs. Nothing pumps it and nothing sucks it."
           }
         }
       ],
@@ -2548,7 +2548,7 @@
       "general": [
         "Rice, then black gram, then rice, then groundnut, and so on, like the rice and pulse pattern in the Kaveri delta.",
         "Two cereals, then a pulse, then a rest, so the bank has time to fill.",
-        "Ragi in some seasons, because it asks little of the soil."
+        "Ragi in some seasons, because she asks little of the soil."
       ],
       "creative": [
         "Grow ragi with a row of red gram between, and count the red gram as a pulse in the same season.",
@@ -2573,7 +2573,7 @@
               ]
             }
           ],
-          "parent": "Rice, then rice: 4 minus 3 is 1, plus 1 is 2. Then 2 is not enough for 3, so the crop fails. The rule says never to grow the same crop twice in a row, but the sums show why.",
+          "parent": "Rice, then rice: 4 minus 3 is 1, plus 1 is 2. Then 2 is not enough for 3, so the crop fails. The rule says never to grow the same crop twice in a row, and the sums show why.",
           "context": "This is the first step of the Four-Year Plan challenge. You plan eight crops for a field and keep track of its nitrogen."
         },
         {
@@ -2782,7 +2782,7 @@
           "p": "A white crust of salt forms on the top of a dry field that has been watered for many years. Where did the salt come from?",
           "opts": [
             "It was in the irrigation water, and stayed behind when the water evaporated",
-            "It rose from the sky in the rain",
+            "It fell from the sky in the rain",
             "It was made by the roots of the crop"
           ],
           "a": 0,
@@ -2846,7 +2846,7 @@
       "items": [
         {
           "t": "mcq",
-          "p": "Two cups of soil are poured with 100 millilitres of water. The first holds back 80 millilitres. The second holds back 30. Which soil has more clay?",
+          "p": "100 millilitres of water is poured into each of two cups of soil. The first soil holds back 80 millilitres. The second holds back 30. Which soil has more clay?",
           "opts": [
             "The first soil",
             "The second soil",
@@ -2882,15 +2882,15 @@
           "p": "A gardener and a farmer disagree about the dry season.",
           "views": [
             {
-              "who": "Lalitha, a gardener",
+              "who": "A gardener",
               "says": "Cover the soil in dry leaves. It keeps the water in."
             },
             {
-              "who": "Prakash, a farmer",
+              "who": "A farmer",
               "says": "Hoe the top of the soil. It breaks the paths the water climbs."
             },
             {
-              "who": "Dr Sunita, a soil scientist",
+              "who": "A soil scientist",
               "says": "Both help in some soils. Mulch works best in most tests, but you can try both."
             }
           ],
@@ -2903,7 +2903,7 @@
           "t": "truefalse",
           "p": "Fertiliser is food for plants.",
           "a": false,
-          "why": "False. Plants make their own food from air, water and light. Fertiliser gives the nutrients they need to build their bodies, like the bricks, and not the meal.",
+          "why": "False. Plants make their own food from air, water and light. Fertiliser gives the nutrients they need to build their bodies. It is like the bricks for a house, not the meal.",
           "outcome": 3
         },
         {
@@ -2976,7 +2976,7 @@
             "The field turns into a pond"
           ],
           "a": 0,
-          "why": "A pest that feeds on wheat finds food every year if wheat is always there. Wheat also takes a lot of nitrogen, with nothing putting it back. A rotation breaks both problems.",
+          "why": "A pest that feeds on wheat finds food every year if wheat is always there. Wheat also takes a lot of nitrogen, with nothing putting it back. Crop rotation helps with both problems.",
           "outcome": 4
         },
         {
@@ -3082,7 +3082,7 @@
             "You cannot tell"
           ],
           "a": 1,
-          "why": "Finer gaps pull harder, so water can keep rising, but they flow slowly. The soil that climbs slowly and keeps going has the finer gaps.",
+          "why": "Finer gaps pull harder, so water can keep rising, but water flows through them slowly. The soil where water climbs slowly and keeps going has the finer gaps.",
           "outcome": 1
         },
         {
@@ -3108,22 +3108,22 @@
           "p": "A town is deciding how to feed its kitchen gardens.",
           "views": [
             {
-              "who": "Meena, a gardener who uses only compost",
+              "who": "A gardener who uses only compost",
               "says": "Compost feeds the soil life and adds humus. Factory fertiliser can wash into rivers."
             },
             {
-              "who": "Joseph, a farmer who uses fertiliser",
+              "who": "A farmer who uses fertiliser",
               "says": "My crops need a lot of nitrogen fast. Compost is not enough for a big harvest."
             },
             {
-              "who": "Dr Fathima, a soil scientist",
+              "who": "A soil scientist",
               "says": "Use both. Compost builds the soil, and a little fertiliser fills the gap."
             }
           ],
           "ask": "Which idea do you agree with most? Give a reason from the unit. Then say what another person has right.",
           "lines": 5,
           "a": "A strong answer picks a view with a reason, such as soil life and humus, or the need for nitrogen, and says what a different view gets right.",
-          "why": "Organic and chemical farming is a real argument. Plants take up the same nitrate ions from both, but compost also builds the soil, so many scientists suggest using both."
+          "why": "Organic and chemical farming is a real argument. Plants take up the same form of nitrogen from both, but compost also builds the soil, so many scientists suggest using both."
         },
         {
           "t": "truefalse",
@@ -3136,7 +3136,7 @@
           "t": "label",
           "p": "Label the cut nodule: root, nodule wall, pink centre with bacteria, nitrogen arriving, sugar arriving.",
           "a": "The nodule sits on the root. Its pink centre is full of bacteria. Nitrogen gas arrives from the soil air and sugar arrives from the plant.",
-          "why": "The pink substance holds oxygen back so the nitrogen-fixing tool is safe.",
+          "why": "The pink substance holds oxygen back, so the tool the bacteria use to fix nitrogen is not damaged.",
           "art": "An unlabelled cross-section of a root with a round nodule and a pink centre, with four blank label lines."
         },
         {
@@ -3216,7 +3216,7 @@
             ]
           ],
           "a": "pairs as given",
-          "why": "These three steps moved the story from farmers' habit, to the bacteria, to the factory."
+          "why": "These three discoveries took people from knowing that beans help a field, to finding the bacteria, to fixing nitrogen in a factory."
         },
         {
           "t": "write",
@@ -3379,7 +3379,7 @@
         "The nodule is full of water"
       ],
       "a": 0,
-      "why": "The pink substance holds oxygen back so the nitrogen-fixing tool can work. A white or green nodule has stopped.",
+      "why": "The pink substance holds oxygen back, so the tool the bacteria use to fix nitrogen can work. A white or green nodule has stopped.",
       "outcome": 4
     },
     {
@@ -3489,7 +3489,7 @@
       "art": "A young coconut palm with a thick ring of dried husks and leaves around her base."
     },
     {
-      "text": "A white crust of salt on the edge of a dry field or a roadside puddle bed.",
+      "text": "A white crust of salt on the edge of a dry field, or where a roadside puddle has dried up.",
       "art": "A dry cracked field edge with a white salt crust and a few struggling plants."
     },
     {
@@ -3515,7 +3515,7 @@
       "why_open": "Researchers are studying maize with sticky root jelly in Mexico and many ways to help cereals host bacteria. Nobody has made it work in a large field yet."
     },
     {
-      "q": "Does a bean plant choose her bacteria, or does the nodule simply follow how it is built?",
+      "q": "Does a bean plant choose her bacteria, or does the match simply follow from how the nodule is built?",
       "why_open": "Experiments on soybean show nodules that fix less nitrogen do worse, but scientists argue about whether the plant is choosing."
     },
     {
@@ -3524,7 +3524,7 @@
     },
     {
       "q": "How many kinds of living things live in a handful of soil, and what do they all do?",
-      "why_open": "Most soil bacteria and fungi have never been grown in a laboratory. DNA studies show that there are far more kinds than names."
+      "why_open": "Most soil bacteria and fungi have never been grown in a laboratory. DNA studies show that there are far more kinds than have been named."
     },
     {
       "q": "How can we feed everyone while using less nitrogen fertiliser, which can wash into rivers?",
@@ -3538,8 +3538,8 @@
   "ask_kids": [
     "Why do you think the top of the soil in the pot dries first?",
     "If we cover the soil with dry leaves, what might happen to the water?",
-    "Which plants in the market have pods? Which of them might have pearls on their roots?",
-    "What would our rice be like if the soil had no helpers?",
+    "Which plants in the market have pods? Which of them might have nodules on their roots?",
+    "What would our rice be like if the soil had no helper bacteria?",
     "Where does the dal in our meal get its nitrogen?",
     "What do the numbers on a fertiliser bag tell a farmer?",
     "Why might a field near the sea have salty soil?",
@@ -3668,8 +3668,8 @@
       "context": "This is about the Salty Seeds test, where seeds sat in water with different amounts of salt."
     },
     {
-      "problem": "In the plain saucer, 9 of 10 seeds sprouted. In the saucer with half a teaspoon of salt, 2 of 10 sprouted. How many fewer seeds sprouted in the salty saucer? Out of every 10, what fraction less?",
-      "answer": "7 fewer seeds. 7 out of 9, or about three quarters, fewer.",
+      "problem": "In made-up results for the Salty Seeds test, 9 of 10 seeds sprouted in the plain saucer. In the saucer with half a teaspoon of salt, 2 of 10 sprouted. How many fewer seeds sprouted in the salty saucer? What fraction is that of the seeds that sprouted in the plain saucer?",
+      "answer": "7 fewer seeds. That is 7 out of 9, or about three quarters.",
       "explain": "9 take away 2 is 7. 7 out of the 9 that sprouted in plain water is a bit more than three quarters. So salt cut sprouting by about three quarters.",
       "math_unit": "math.fractions.fractions-of-a-whole.L4",
       "why_maths": "A fraction says how big the loss is compared with the plain saucer, which a plain subtraction does not.",
@@ -3677,7 +3677,7 @@
       "context": "This is about the made-up results of the Salty Seeds test."
     },
     {
-      "problem": "In the Cover or Bare test, the pale dry layer in the bare cup grew 6 millimetres each day. How thick was it after 5 days if it kept growing at that speed? Why might it not?",
+      "problem": "In the Cover or Bare test, the pale dry layer in the bare cup grew 6 millimetres each day. How thick would it be after 5 days if it kept growing at that speed? Why might it not keep growing that fast?",
       "answer": "30 millimetres, but in real life it may grow more slowly.",
       "explain": "6 times 5 is 30. But once the top layer is dry, water has further to climb to reach the surface, so the drying slows down.",
       "math_unit": "math.patterns.number-patterns.L4",
@@ -3696,7 +3696,7 @@
     {
       "problem": "A classroom holds 200 cubic metres of air. About 78 of every 100 parts of air are nitrogen. About how many cubic metres of nitrogen are in the room?",
       "answer": "About 156 cubic metres.",
-      "explain": "78 out of 100 is 78 per cent. Half of 200 is 100, and 78 per cent of 200 is 2 times 78, which is 156. So most of the air in the room is nitrogen, and plants cannot use it.",
+      "explain": "78 out of 100 is 78 per cent. 200 is 2 lots of 100, so 78 per cent of 200 is 2 times 78, which is 156. So most of the air in the room is nitrogen, and plants cannot use it.",
       "math_unit": "math.fractions.decimals-and-percentages.L4",
       "why_maths": "Percentages show how large a share of a space a gas fills.",
       "context": "This is about how much of the air around us is nitrogen."

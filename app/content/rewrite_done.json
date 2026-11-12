@@ -315,6 +315,16 @@
   "sci.materials.using-materials.L4",
   "sci.microorganisms.germs.L4",
   "sci.microorganisms.helpful-microbes.L4",
-  "sci.microorganisms.parasites.L4"
+  "sci.microorganisms.parasites.L4",
+  "sci.motion.newtons-laws.L4",
+  "sci.motion.spinning.L4",
+  "sci.motion.swings-and-pendulums.L4",
+  "sci.patterns-symmetry.fractals-and-spirals.L4",
+  "sci.patterns-symmetry.symmetry-in-nature.L4",
+  "sci.planet-earth.maps-and-directions.L4",
+  "sci.planet-earth.soil-and-crops.L4",
+  "sci.plants.photosynthesis.L4",
+  "sci.plants.plant-variety.L4",
+  "sci.plants.water-transport.L4"
  ]
 }

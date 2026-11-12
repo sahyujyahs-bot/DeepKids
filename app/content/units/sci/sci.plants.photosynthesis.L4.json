@@ -3,12 +3,12 @@
  "title": "Photosynthesis and breathing: how plants and other living beings share one breath",
  "level": 4,
  "summary": {
-  "text": "Every dawn, fish in a still green pond swim up and gulp at the surface. The pond is full of plants that make oxygen, so why do the fish run short of it? Your child finds out with jars of cabbage-coloured water, a money plant and a window. A plant in light uses up the carbon dioxide you breathe out. The same plant in the dark adds carbon dioxide back, because every living cell breathes all day and all night. Then the idea goes out to ponds, to sugarcane and pineapples, to coal and oil, and to the whole Earth, which breathes in and out once a year.",
+  "text": "Every dawn, fish in a still green pond swim up and gulp at the surface. The pond is full of plants that make oxygen, so why do the fish run short of it? Your child finds out with jars of cabbage-coloured water, a money plant and a window. A plant in light uses up the carbon dioxide you breathe out. The same plant in the dark adds carbon dioxide back, because every living cell breathes all day and all night. Then the idea goes out to ponds, to sugarcane and pineapples, to coal and oil, and to the carbon dioxide in the whole Earth's air, which falls and rises once a year.",
   "art": "A green pond at first light with a few fish mouths at the surface, a cloud-covered sky, and a thin line of orange on the horizon."
  },
  "intro": {
   "hook": "A pond is full of green plants, and plants make oxygen. Yet at dawn the fish in the pond come up to the surface and gulp, as if they cannot breathe. Where did the oxygen go?",
-  "text": "Last time you learned that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this unit you catch the carbon dioxide in a jar, watch a leaf use it up in the light and add it back in the dark, and then work out why a pond runs short of air just before sunrise.",
+  "text": "You may already know that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this unit you catch the carbon dioxide in a jar, watch a leaf use it up in the light and add it back in the dark, and then work out why a pond runs short of oxygen just before sunrise.",
   "art": "A jar of blue-purple water with a green sprig in it on a sunny windowsill, and an identical jar wrapped in foil next to it."
  },
  "outcomes": [
@@ -19,7 +19,7 @@
   "I can name three things that can hold photosynthesis back, and read a graph that shows it.",
   "I can explain how sugarcane, maize and pineapple handle carbon dioxide and water in different ways from rice.",
   "I can follow one carbon atom around the carbon cycle, and say why coal and oil are old sunlight.",
-  "I can say what scientists agree about, what they still argue about, and who found the pieces."
+  "I can say what scientists agree about, what they still argue about, and which scientists found out what."
  ],
  "cards_mins": 25,
  "terms": [
@@ -32,7 +32,7 @@
   {
    "term": "Respiration",
    "meaning": "How a living cell gets energy out of sugar. The cell uses oxygen to break the sugar down, and gives out carbon dioxide and water. Plants, animals, fungi and bacteria all do it, day and night.",
-   "example": "A sprouting moong seed respires, and gets a tiny bit warm as they use up their stored food.",
+   "example": "Sprouting moong seeds respire, and get a tiny bit warm as they use up their stored food.",
    "art": "A sugar molecule and an oxygen bubble going into a cell, with carbon dioxide and a spark of energy coming out."
   },
   {
@@ -163,7 +163,7 @@
    ],
    "perspectives": [],
    "art": "A leaf drawn in two halves, a sunny day half with a big arrow of oxygen out and a night half with a small arrow of carbon dioxide out.",
-   "context": "Last time you learned that leaves make food in light. This card shows the other job that a leaf does all the time: spending that food."
+   "context": "Leaves make food in light. This card shows the other job that a leaf does all the time: spending that food."
   },
   {
    "concept": "Where each job happens: chloroplasts build, mitochondria spend",
@@ -182,7 +182,7 @@
    "concept": "The compensation point: the light where making equals spending",
    "status": "defined",
    "definition": "The compensation point is the light level at which a plant's photosynthesis exactly equals their respiration. At that light, no oxygen and no carbon dioxide leaves or enters overall.",
-   "description": "Picture a plant at night. There is no light, so they only spend sugar. Now slowly switch on a lamp. At first the light is very dim. The leaf starts making a little sugar, but still spends more than they make. As the light gets brighter, photosynthesis speeds up while respiration stays about the same. At one brightness, the two are exactly equal. That is the compensation point. The plant is just paying for their own living, with nothing left over to grow. Brighter than that, the plant has sugar to spare and grows. Dimmer, the plant is slowly using up their store. Plants that live in the shade of a forest floor, such as ferns, have a low compensation point, so they can live on very little light. Sun-loving plants such as sunflowers have a high one. This is why a sunflower sulks in a dim room and a fern does not.",
+   "description": "Picture a plant at night. There is no light, so they only spend sugar. Now slowly switch on a lamp. At first the light is very dim. The leaf starts making a little sugar, but still spends more than they make. As the light gets brighter, photosynthesis speeds up while respiration stays about the same. At one brightness, the two are exactly equal. That is the compensation point. The plant is just paying for their own living, with nothing left over to grow. Brighter than that, the plant has sugar to spare and grows. Dimmer, the plant is slowly using up their store. Plants that live in the shade of a forest floor, such as ferns, have a low compensation point, so they can live on very little light. Sun-loving plants such as sunflowers have a high one. This is why a sunflower grows weak in a dim room and a fern does not.",
    "examples": [
     "A fern can live in the dim light of a shady corner, because they break even at a low light level.",
     "A sunflower seedling on a gloomy windowsill grows long and weak. The light is below what they need to break even."
@@ -195,20 +195,20 @@
    "concept": "Why a pond runs short of oxygen at dawn",
    "status": "defined",
    "definition": "In a pond, plants and algae make oxygen only in daylight, but everything in the pond, including the plants, uses oxygen all the time. So the oxygen is highest in the afternoon and lowest just before sunrise.",
-   "description": "Fish breathe the oxygen that is dissolved in water. Water holds much less oxygen than air does, and oxygen only slowly mixes in from the air above. A pond's main supply comes from the green plants and algae in it. In the day, they make more oxygen than the pond spends, so the oxygen level climbs and can be highest in the late afternoon. At night, the plants and algae stop making oxygen. But the fish, the plants themselves, the algae, the mud bacteria and the rotting leaves keep using it. So the level falls and falls through the night, and reaches its lowest point just before the sun comes up. If the night was warm and the day before was cloudy, the pond may be nearly empty of oxygen at dawn. Then the fish swim up to the top, where the water meets the air and holds a little more oxygen, and gulp. A fish farmer often runs an aerator in the second half of the night for this reason.",
+   "description": "Fish breathe the oxygen that is dissolved in water. Water holds much less oxygen than air does, and oxygen only slowly mixes in from the air above. A pond's main supply comes from the green plants and algae in it. In the day, they make more oxygen than the pond spends, so the oxygen level climbs and can be highest in the late afternoon. At night, the plants and algae stop making oxygen. But the fish, the plants themselves, the algae, the mud bacteria and the rotting leaves keep using it. So the level keeps falling through the night, and reaches its lowest point just before the sun comes up. If the night was warm and the day before was cloudy, the pond may have almost no oxygen left at dawn. Then the fish swim up to the top, where the water meets the air and holds a little more oxygen, and gulp. A fish farmer often runs an aerator in the second half of the night for this reason.",
    "examples": [
     "A fish pond after three cloudy days has less oxygen at dawn than after three sunny days, because the algae made less oxygen in the dim light.",
-    "A fish farmer who has to feed the fish less on cloudy days is protecting the pond's oxygen, because uneaten food rots and uses oxygen too."
+    "A fish farmer feeds the fish less on cloudy days. This protects the pond's oxygen, because uneaten food rots and uses oxygen too."
    ],
    "perspectives": [],
    "art": "A line graph of oxygen in a pond over 24 hours, rising through the day to a peak in the afternoon and falling through the night to a low point at dawn, with a fish mouth at the surface.",
-   "context": "Plants make oxygen, yet fish gasp at dawn. This card answers the puzzle from the start of the unit."
+   "context": "Plants make oxygen, yet fish in a green pond gasp at dawn. This card explains why."
   },
   {
    "concept": "Warm water holds less gas than cold water",
    "status": "defined",
    "definition": "The warmer water is, the less gas it can hold. So warm water holds less dissolved oxygen than cold water.",
-   "description": "Gases such as oxygen and carbon dioxide dissolve in water, a little. Cold water holds more of them. As water warms, some of the gas comes out and forms bubbles. You may have seen this: a glass of cold water from the fridge, left on a table, grows tiny bubbles on the glass as it warms up. A fizzy drink goes flat faster when it is warm for the same reason. In a pond, this matters. In hot weather, the pond water holds less oxygen to start with. And warm animals and rotting leaves use oxygen faster, because everything in a warm pond speeds up. So the hottest nights are the most dangerous ones for fish. The sea is the same. Cold seas hold more oxygen and are often rich with life, while a heated sea holds less.",
+   "description": "Gases such as oxygen and carbon dioxide dissolve in water, a little. Cold water holds more of them. As water warms, some of the gas comes out and forms bubbles. You may have seen this: a glass of cold water from the fridge, left on a table, grows tiny bubbles on the glass as it warms up. A fizzy drink goes flat faster when it is warm for the same reason. In a pond, this matters. In hot weather, the pond water holds less oxygen to start with. And the animals and rotting leaves in warm water use oxygen faster, because everything in a warm pond speeds up. So the hottest nights are the most dangerous ones for fish. The sea is the same. Cold seas hold more oxygen and are often rich with life, while a warm sea holds less.",
    "examples": [
     "A bottle of cold fizzy drink stays fizzy longer than a warm one.",
     "Tiny bubbles appear on the inside of a glass of cold water when it warms in a room."
@@ -221,7 +221,7 @@
    "concept": "What holds photosynthesis back: limiting factors",
    "status": "defined",
    "definition": "Photosynthesis can only go as fast as its slowest ingredient allows. The ingredient in shortest supply is the limiting factor. For a leaf it can be light, carbon dioxide or warmth.",
-   "description": "Imagine a kitchen with a cook, a stove and a pile of vegetables. If the stove is tiny, a second cook does not help. The stove is the limiting factor. A leaf is like that. On a dim morning, light is limiting. If you give the leaf more light, photosynthesis speeds up. But as the light gets stronger, a point comes when more light no longer helps, because the leaf cannot take in carbon dioxide fast enough. Now carbon dioxide has become the limiting factor. Warmth matters too. Photosynthesis uses enzymes, and enzymes work faster when it is warm, up to a point. Very hot leaves slow down or get damaged. Greenhouse growers use this idea. They add light in winter, put extra carbon dioxide in the air, and keep the greenhouse warm, but not hot. They make sure that no single factor is the one that holds the plants back.",
+   "description": "Think of a kitchen with a cook, a stove and a pile of vegetables. If the stove is tiny, a second cook does not help. The stove is the limiting factor. A leaf is like that. On a dim morning, light is limiting. If you give the leaf more light, photosynthesis speeds up. But as the light gets stronger, a point comes when more light no longer helps, because the leaf cannot take in carbon dioxide fast enough. Now carbon dioxide has become the limiting factor. Warmth matters too. Photosynthesis uses enzymes, which are proteins that speed up changes inside a cell. Enzymes work faster when it is warm, up to a point. Very hot leaves slow down or get damaged. Greenhouse growers use this idea. They add light in winter, put extra carbon dioxide in the air, and keep the greenhouse warm, but not hot. They make sure that no single factor is the one that holds the plants back.",
    "examples": [
     "A tomato plant in a closed greenhouse often grows faster when the grower adds carbon dioxide gas to the air.",
     "In the shade on a cold morning, a leaf is limited by light and by warmth at the same time."
@@ -234,20 +234,20 @@
    "concept": "Inside the chloroplast: a light stage and a sugar-building stage",
    "status": "defined",
    "definition": "Photosynthesis has two stages. In the light stage, chlorophyll catches light and uses it to split water, to give out oxygen and to charge up energy carriers. In the sugar-building stage, the charged carriers give their energy to join carbon dioxide into sugar.",
-   "description": "Photosynthesis is not one step. It is a long chain of small steps, each done by its own enzyme. Scientists sort the steps into two groups. In the first group, which needs light, chlorophyll catches photons. The energy splits water into hydrogen and oxygen. The oxygen floats away. The energy is stored in energy carriers, which are like small charged batteries. In the second group of steps, the carriers pass their energy to enzymes that take carbon dioxide from the air and join it into a chain of carbon atoms, which finishes as sugar. This second group does not use light directly, but it needs the charged carriers that only light can make. So it slows down soon after the light goes out. The steps were traced in the 1940s and 1950s by Melvin Calvin, Andrew Benson and James Bassham in California, who gave a plant radioactive carbon and followed it into sugar.",
+   "description": "Photosynthesis is not one step. It is a long chain of small steps, each done by its own enzyme. Scientists sort the steps into two groups. In the first group, which needs light, chlorophyll catches the light. The energy of the light splits water into hydrogen and oxygen. The oxygen floats away. The energy is stored in energy carriers, which are like small charged batteries. In the second group of steps, the carriers pass their energy to enzymes that take carbon dioxide from the air and join it into a chain of carbon atoms, which finishes as sugar. This second group does not use light directly, but it needs the charged carriers that only light can make. So it slows down soon after the light goes out. The steps were traced in the 1940s and 1950s by Melvin Calvin, Andrew Benson and James Bassham in California, who gave a plant radioactive carbon and followed it into sugar.",
    "examples": [
     "A leaf moved into the dark keeps building sugar for a short time, using up the charged carriers that are left, and then stops.",
     "The oxygen comes from the first stage, and the sugar from the second."
    ],
    "perspectives": [],
    "art": "A chloroplast cut in half. Sunlight charges small batteries on one side. The batteries move to the other side and feed a machine that joins carbon dioxide into sugar.",
-   "context": "Last time you saw photosynthesis as one arrow. This card opens the arrow and shows the two stages inside."
+   "context": "Photosynthesis is often shown as one step, from carbon dioxide and water to sugar and oxygen. This card shows the two stages inside that step."
   },
   {
    "concept": "Rubisco: the busy enzyme that sometimes grabs the wrong gas",
    "status": "defined",
-   "definition": "Rubisco is the enzyme that grabs carbon dioxide from the air and fixes it into the first sugar. It is slow, and it sometimes grabs oxygen instead, which wastes energy.",
-   "description": "Rubisco is the enzyme that takes the first step in building sugar from carbon dioxide. It is probably the most common protein on Earth, because a leaf needs a huge amount of it. Each rubisco works slowly, handling only a few carbon dioxide molecules every second. A leaf makes up for this by having a great deal of it. Rubisco has a weakness. Its pocket sometimes catches an oxygen molecule instead of carbon dioxide, because the two gases are similar in shape. When this happens, the leaf has to spend energy to clean up the mistake, and some carbon is lost as carbon dioxide. This is called photorespiration. It happens more when leaves are hot, because then the stomata close, carbon dioxide runs low inside the leaf, and oxygen builds up. Many of the plants in the next two cards have found ways around this problem.",
+   "definition": "Rubisco is the enzyme that grabs carbon dioxide from the air and builds it into the first sugar. It is slow, and it sometimes grabs oxygen instead, which wastes energy.",
+   "description": "Rubisco is the enzyme that takes the first step in building sugar from carbon dioxide. It is probably the most common protein on Earth, because a leaf needs a huge amount of it. Each rubisco works slowly, handling only a few carbon dioxide molecules every second. A leaf makes up for this by having a great deal of it. Rubisco has a weakness. It sometimes catches an oxygen molecule instead of carbon dioxide, because the two gases are similar in shape. When this happens, the leaf has to spend energy to clean up the mistake, and some carbon is lost as carbon dioxide. This is called photorespiration. It happens more when leaves are hot, because then the stomata close, carbon dioxide runs low inside the leaf, and oxygen builds up. Some plants, such as sugarcane and maize, have ways around this problem.",
    "examples": [
     "Rubisco makes up a large part of the protein in green leaves. When you eat spinach, much of the protein you eat is rubisco.",
     "On a very hot day, a rice leaf wastes more of their energy on photorespiration than on a cool day."
@@ -260,7 +260,7 @@
    "concept": "Sugarcane and maize: a carbon dioxide pump (C4)",
    "status": "defined",
    "definition": "C4 plants first grab carbon dioxide in outer leaf cells and pump it into inner cells, where rubisco works in a crowd of carbon dioxide. This lets them photosynthesise fast in heat and strong light, even with their stomata only a little open.",
-   "description": "Most plants, including rice and wheat, hand carbon dioxide straight to rubisco. Sugarcane, maize, sorghum, bajra and ragi do something cleverer. Their leaves have a ring of outer cells and a ring of inner cells around each vein. The outer cells have a fast enzyme that grabs carbon dioxide and attaches it to a small molecule. The small molecule carries the carbon into the inner cells, which hold rubisco. There it releases the carbon dioxide, so that the inner cells have a strong crowd of carbon dioxide and little oxygen. So rubisco rarely makes the oxygen mistake. The plant can keep their stomata nearly closed on a hot day, losing less water, and still make sugar quickly. This is why sugarcane grows so tall and sweet in India's heat. The pump costs some energy, so in cool, dim places a rice plant can do as well. The first clues were found in the 1960s by several scientists in different countries. Hal Hatch and Roger Slack in Australia worked out the steps. In India, Janaki Ammal, who was born in Thalassery in Kerala, worked on sugarcane breeding in Coimbatore in the 1930s.",
+   "description": "Most plants, including rice and wheat, hand carbon dioxide straight to rubisco. Sugarcane, maize, sorghum, bajra and ragi do something cleverer. Their leaves have a ring of outer cells and a ring of inner cells around each vein. The outer cells have a fast enzyme that grabs carbon dioxide and attaches it to a small molecule. The small molecule carries the carbon into the inner cells, which hold rubisco. There it releases the carbon dioxide, so that the inner cells have a lot of carbon dioxide and little oxygen. So rubisco rarely makes the oxygen mistake. The plant can keep their stomata nearly closed on a hot day, losing less water, and still make sugar quickly. This is why sugarcane grows so tall and sweet in India's heat. The pump costs some energy, so in cool, dim places a rice plant can do as well. The first clues were found in the 1960s by several scientists in different countries. Hal Hatch and Roger Slack in Australia worked out the steps. In India, Janaki Ammal, who was born in Thalassery in Kerala, worked on sugarcane breeding in Coimbatore in the 1930s.",
    "examples": [
     "Ragi and bajra can grow in dry, hot regions where rice would struggle.",
     "Sugarcane stores so much sugar in the stalk that we squeeze the stalk for juice."
@@ -280,7 +280,7 @@
    ],
    "perspectives": [],
    "art": "A cactus under a moon with open stomata and carbon dioxide arrows going in, and the same cactus under a bright sun with closed stomata and sugar being made.",
-   "context": "Some plants live where water is scarce. This card shows how they change when they open their stomata."
+   "context": "Some plants live where water is scarce. This card shows how they open their stomata at night instead of in the day."
   },
   {
    "concept": "A carbon atom's trip: the carbon cycle",
@@ -318,7 +318,7 @@
    "concept": "Coal and oil are old sunlight",
    "status": "defined",
    "definition": "Coal, oil and natural gas formed from the bodies of plants and tiny sea creatures that lived millions of years ago, and were buried before they could rot. Their energy is sunlight that was caught by photosynthesis long ago.",
-   "description": "About 300 million years ago, huge swampy forests of giant ferns and tree-like plants covered parts of the Earth. When these plants died, they fell into wet mud that had too little oxygen for the fungi and bacteria that rot wood. Layer upon layer built up and was squashed under rock for millions of years. Slowly the buried plants turned into coal. Oil and natural gas formed mostly from tiny sea living things, such as plankton, that sank to the sea floor and were buried in the same way. When we burn coal, petrol or diesel, the carbon atoms that photosynthesis took out of the air long ago return to the air as carbon dioxide, in a single lifetime. Plants take carbon dioxide out of the air slowly, and we have been putting back carbon dioxide from fossil fuels much faster than the plants and the sea can take it up. Coal is not made from dinosaurs. The coal forests grew many millions of years before the first dinosaurs.",
+   "description": "About 300 million years ago, huge swampy forests of giant ferns and tree-like plants covered parts of the Earth. When these plants died, they fell into wet mud that had too little oxygen for the fungi and bacteria that rot wood. Layer upon layer built up and was squashed under rock for millions of years. Slowly the buried plants turned into coal. Oil and natural gas formed mostly from tiny living things in the sea, such as plankton, that sank to the sea floor and were buried in the same way. When we burn coal, petrol or diesel, the carbon atoms that photosynthesis took out of the air long ago return to the air as carbon dioxide, in a single lifetime. Plants take carbon dioxide out of the air slowly, and we have been putting back carbon dioxide from fossil fuels much faster than the plants and the sea can take it up. Coal is not made from dinosaurs. The coal forests grew many millions of years before the first dinosaurs.",
    "examples": [
     "A lump of coal sometimes still shows the print of a fern leaf.",
     "A bus running on diesel is driven by sunlight that fell on the Earth millions of years ago."
@@ -334,7 +334,7 @@
    "description": "Water that gets extra minerals can make algae grow wildly. The minerals can come from fertiliser washed off fields, from sewage, or from detergent that flows into a pond or lake. The water turns thick green, which looks healthy, and by day it can be full of oxygen. But a thick bloom blocks light from the plants below it, and at night the huge crowd of algae all use oxygen. Then the bloom dies, and bacteria and fungi rot the dead algae, using still more oxygen. The water can run so low that fish and crabs die in large numbers, sometimes in a single night. Some blooms also give out poisons. Scientists call large regions of water with too little oxygen 'dead zones'. Dead zones are found at the mouths of big rivers and in lakes around the world. Careful use of fertiliser and treating sewage before it flows into water helps to prevent them.",
    "examples": [
     "Fish floating belly-up in a green pond after a hot, cloudy spell are often a sign of low oxygen.",
-    "A pond with no fish and no plants but clear water is not necessarily healthy, while a green pond is not necessarily sick. The thing to watch is the balance."
+    "Clear water with no fish and no plants is not always healthy, and green water is not always unhealthy. What matters is the balance between making oxygen and using it."
    ],
    "perspectives": [],
    "art": "A pond turning from clear to green to dark, with fish gasping at the surface and a thick mat of algae dying at the edge.",
@@ -344,14 +344,14 @@
    "concept": "The Earth breathes once a year",
    "status": "defined",
    "definition": "The amount of carbon dioxide in the whole Earth's air rises and falls a little every year, because the land plants of the northern half of the world take in more carbon dioxide in their summer and give back more in their winter.",
-   "description": "In 1958, an American scientist named Charles David Keeling began measuring the carbon dioxide in the air on a mountain in Hawaii, far from any city. He found something he did not expect. Every year, the amount of carbon dioxide went down in the northern spring and summer, and went up in autumn and winter. The wiggle repeats each year. The reason is that most of the Earth's land lies in the north. In the northern spring, forests and fields burst into leaf and their photosynthesis pulls carbon dioxide out of the air. In autumn the leaves fall and rot, and respiration by plants, microbes and animals puts it back. It is as if the whole planet breathes in and out once a year. Keeling's measurements also showed a second thing. Underneath the yearly wiggle, the line has been climbing higher every year since 1958, because we burn fossil fuels.",
+   "description": "In 1958, an American scientist named Charles David Keeling began measuring the carbon dioxide in the air on a mountain in Hawaii, far from any city. He found something he did not expect. Every year, the amount of carbon dioxide went down in the northern spring and summer, and went up in autumn and winter. This small fall and rise repeats each year. The reason is that most of the Earth's land lies in the north. In the northern spring, forests and fields burst into leaf and their photosynthesis pulls carbon dioxide out of the air. In autumn the leaves fall and rot, and respiration by plants, microbes and animals puts it back. It is as if the whole planet breathes in and out once a year. Keeling's measurements also showed a second thing. Besides the yearly fall and rise, the amount of carbon dioxide has been climbing higher every year since 1958, because we burn fossil fuels.",
    "examples": [
     "The yearly rise and fall can be seen in a graph of carbon dioxide over many years.",
     "In India, many crops follow the monsoon. The land greens up each year after the rains, and the whole country's photosynthesis rises with it."
    ],
    "perspectives": [],
    "art": "A globe with the northern half green in summer and brown in winter, next to a wiggly climbing line graph of carbon dioxide.",
-   "context": "Photosynthesis is big enough to be seen from far away. This card shows that all the plants on land breathe in and out together every year."
+   "context": "Photosynthesis is big enough to change the air of the whole Earth. This card shows how the carbon dioxide in the air falls and rises every year with the land plants of the north."
   },
   {
    "concept": "Is photorespiration a mistake?",
@@ -372,12 +372,12 @@
     }
    ],
    "art": "Two scientists looking at the same drawing of an enzyme. One has a thought bubble of a waste bin and the other has a thought bubble of a safety valve.",
-   "context": "Even a famous mistake in a leaf can be argued about. This card shows two views of the same process, and the evidence on each side."
+   "context": "Scientists do not agree on whether photorespiration is a mistake. This card shows two views of it, and the evidence on each side."
   },
   {
    "concept": "Can we make leaves better at their job?",
    "status": "idea",
-   "description": "A leaf stores only a small part of the light that falls on it. Scientists are testing ways to raise that. One group, led by Johannes Kromdijk and Stephen Long, changed tobacco plants so that their leaves recover faster when a cloud passes over after bright sun. In field trials, the plants were reported to grow about 15 percent more. Others are trying to build the sugarcane carbon dioxide pump into rice, or to add the wasteful-cleanup shortcut. These ideas are promising, but none is a quick fix. A plant is a very tangled system, and changing one step often changes ten others.",
+   "description": "A leaf stores only a small part of the energy of the light that falls on it. Scientists are testing ways to raise that. One group, led by Johannes Kromdijk and Stephen Long, changed tobacco plants so that their leaves recover faster when a cloud passes over after bright sun. In field trials, the plants were reported to grow about 15 percent more. Others are trying to build the sugarcane carbon dioxide pump into rice, or to add a shortcut that avoids the wasteful cleanup after rubisco grabs oxygen. These ideas are promising, but none is a quick fix. A plant is a very tangled system, and changing one step often changes ten others.",
    "examples": [
     "A big project has been trying to give rice the sugarcane pump since 2008, and it has proved very difficult.",
     "Some scientists are asking whether plants could be grown under coloured lights in towers, to use less land."
@@ -402,7 +402,7 @@
   },
   {
    "text": "The speed of photosynthesis is set by light, carbon dioxide and temperature, and the slowest of these is the limit.",
-   "evidence": "Researchers change one factor at a time for a leaf in a chamber. They find the rate rises with each and then levels off, where another factor takes over."
+   "evidence": "Researchers put a leaf in a chamber and change one factor at a time. Each time, photosynthesis speeds up and then levels off, because another factor has become the limit."
   },
   {
    "text": "Sugarcane, maize and other C4 plants, and pineapples, cactuses and other CAM plants, have extra steps that help them in hot or dry places.",
@@ -426,7 +426,7 @@
    "claim": "Plants take in carbon dioxide and give out oxygen, and animals do the opposite.",
    "who": "A rule taught in many schools and books for a long time",
    "for": "In daylight, a green plant takes in much more carbon dioxide than they give out, and gives out more oxygen than they take in.",
-   "against": "A plant's cells breathe in oxygen and breathe out carbon dioxide all the time. At night, the plant does only that. The plant is a net giver of oxygen only while the light is strong enough. Some animals, such as corals and sea slugs, even have photosynthesis inside or with the help of algae.",
+   "against": "A plant's cells breathe in oxygen and breathe out carbon dioxide all the time. At night, the plant does only that. The plant is a net giver of oxygen only while the light is strong enough. Some animals, such as corals and sea slugs, even have photosynthesis going on inside them, some with the help of algae.",
    "status": "rejected",
    "context": "This card looks at the simple rule that plants and animals do opposite things with air."
   },
@@ -434,7 +434,7 @@
    "claim": "A pond with more plants always has more oxygen for the fish.",
    "who": "A common belief among people who keep fish",
    "for": "Plants make oxygen in the day, so a pond with more plants is full of oxygen in the afternoon.",
-   "against": "At night the plants use oxygen too, and a thick growth can use more than the pond can supply. Dense plants and algae are often the reason the oxygen is lowest at dawn. A balance matters more than the count.",
+   "against": "At night the plants use oxygen too, and a thick growth can use more than the pond can supply. Dense plants and algae are often the reason the oxygen is lowest at dawn. The balance between making and using oxygen matters more than the number of plants.",
    "status": "rejected",
    "context": "This card asks whether adding more plants always helps a pond."
   },
@@ -480,7 +480,7 @@
   {
    "q": "Fish gasp at dawn in a pond full of oxygen-makers. What does that tell us about the idea that more of a good thing is always better?",
    "kind": "deep",
-   "hint": "Think of the oxygen graph, and of the thick green bloom that blocks light and then rots."
+   "hint": "Think of how the oxygen in a pond rises by day and falls by night, and of the thick green bloom that blocks light and then rots."
   },
   {
    "q": "A carbon atom in your breath could have been in a tree, a mango, a dinosaur's world, or a fern in a swamp. Are the atoms in your body really yours?",
@@ -493,14 +493,14 @@
    "hint": "Think about who will be here in 300 million years. Think about the plants that caught it."
   },
   {
-   "q": "Engelmann used tiny bacteria as his instrument, because they gather where there is oxygen. What other living things could we use as instruments instead of machines?",
+   "q": "In 1882, Theodor Engelmann used tiny bacteria as his instrument to find where a green alga made the most oxygen, because the bacteria gather where there is oxygen. What other living things could we use as instruments instead of machines?",
    "kind": "big",
    "hint": "Think of a canary in a mine, or ants that find sugar. Is a living instrument easier to trust or harder?"
   },
   {
    "q": "Sugarcane and pineapple found two different ways to beat the heat. Does a problem have only one right solution?",
    "kind": "deep",
-   "hint": "Compare the pump of the sugarcane with the night shift of the pineapple. Are both good?"
+   "hint": "Sugarcane pumps carbon dioxide to where it is needed. Pineapple opens the stomata at night. Are both good?"
   },
   {
    "q": "The Earth breathes in and out once a year, and we can see it from space. Is a planet something alive?",
@@ -640,7 +640,7 @@
      "kind": "tokens",
      "title": "Tokens and pond to make at home",
      "items": [
-      "OXYGEN: cut 30 small squares of blue paper, or use 30 blue beads. This is the pond's air supply.",
+      "OXYGEN: cut 30 small squares of blue paper, or use 30 blue beads. This is the pond's oxygen supply.",
       "PLANTS: cut 4 small green paper leaves. You start with 2.",
       "FISH: cut 5 small paper fish. You start with 3.",
       "POND: draw a big rectangle on a sheet of paper. The pond holds at most 12 oxygen. If it goes over 12, the extra is lost."
@@ -661,12 +661,12 @@
    ],
    "rules": [
     "Everyone plays on one team against the pond. The team starts with 8 oxygen, 2 plants and 3 fish in the pond.",
-    "The game lasts 6 days. Each day has four parts, in this order. Choose an action. Turn over a weather card. Do the night. Check at dawn.",
+    "The game lasts 6 days. Each day has four parts, in this order: choose an action, turn over a weather card, take away oxygen for the night, and check the pond at dawn.",
     "Choose one action: ADD A PLANT (up to 4 plants), ADD A FISH (up to 5 fish), STIR AT NIGHT (add 2 oxygen during the night), or REST.",
     "Turn over a weather card and follow it. Add oxygen to the pond for the day. Do all the adding and taking away for the day first, then drop any oxygen above 12. The pond can never hold more than 12 oxygen.",
     "At night, take away 1 oxygen for every plant and 1 oxygen for every fish. Plants use oxygen at night because they respire all the time and there is no light.",
     "If you chose STIR AT NIGHT, add the 2 oxygen before you take any away.",
-    "At dawn, if you cannot take away enough oxygen, take away oxygen until none is left. For every oxygen you could not pay, one fish dies.",
+    "If the pond does not have enough oxygen for the night, take away all that is left. Then, at dawn, one fish dies for every oxygen that could not be taken away.",
     "The weather cards are used once each. After 6 days, you win if at least 2 fish are alive. For a harder game, you must also have at least 4 oxygen left.",
     "Playing alone, you make every choice yourself and keep the pond diary. Playing with others, you must agree on each action before you turn over the card."
    ],
@@ -693,7 +693,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Play days 1 and 2. Each day, choose an action, turn over a weather card, do the night and check at dawn.",
+     "do": "Play days 1 and 2. Each day, choose an action, turn over a weather card, take away oxygen for the night and check the pond at dawn.",
      "say": "Choose one action for today. Then turn over the weather card. Plants add oxygen in the day. At night, plants and fish take oxygen away.",
      "kid": "Choose an action. Turn over a card. Plants add oxygen. At night, plants and fish use oxygen.",
      "ask": [
@@ -731,13 +731,13 @@
       {
        "q": "On a cloudy day, does adding another plant help?",
        "good": [
-        "Not much, because it adds 1 and uses 1 at night.",
+        "Not much, because the plant adds 1 and uses 1 at night.",
         "It does not help, because the plant uses what it makes.",
         "It makes no difference on a cloudy day."
        ]
       }
      ],
-     "parent": "On a cloudy day, a plant adds 1 oxygen and uses 1 at night, so they break even and do not help the fish. On a sunny day it adds 2 and uses 1.",
+     "parent": "On a cloudy day, a plant adds 1 oxygen and uses 1 at night, so they break even and do not help the fish. On a sunny day they add 2 and use 1.",
      "context": "In this step you play days 3 and 4. A run of cloudy days can be dangerous."
     },
     {
@@ -797,7 +797,7 @@
        "b": "Both. Photosynthesis is fast, and respiration is running too. Overall, oxygen goes out."
       },
       {
-       "f": "The same leaf in a dark cupboard at midnight.",
+       "f": "A leaf of a money plant in a dark cupboard at midnight.",
        "b": "Respiration only. There is no light, so no photosynthesis."
       },
       {
@@ -901,11 +901,11 @@
    ],
    "rules": [
     "One player is the reader. The reader takes the top card, reads the front aloud, and keeps the back hidden.",
-    "Every other player decides what is happening and holds up the sun token, the breath token, both, or neither. They hold them against their chest so that nobody can copy.",
+    "Every other player decides what is happening and picks the sun token, the breath token, both, or neither. They keep their tokens hidden against their chest so that nobody can copy.",
     "Everyone shows their tokens at the same time. Then each player who wants a bonus point explains why in one sentence.",
     "The reader reads the back. A player who showed the right tokens scores 1 point. A player who also gave a good reason scores 1 more.",
     "Pass the reader job to the next player after each card. Play all 24 cards, or stop after 12 for a short game.",
-    "Playing alone, put the cards in a pile, show yourself the tokens before you turn the card, and score 1 point for each right answer. Try to beat your best score."
+    "Playing alone, put the cards in a pile. Choose your tokens before you turn each card over, and score 1 point for each right answer. Try to beat your best score."
    ],
    "flow": [
     {
@@ -920,7 +920,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Play the first eight cards. After each card, read the back aloud and score the points.",
-     "say": "Read the card. Show your tokens together. Now the back. Who was right? Who can say why?",
+     "say": "Read the card. Show your tokens together. Now read the back. Who was right? Who can say why?",
      "kid": "Read a card. Hold up your tokens. Then check the back.",
      "ask": [
       {
@@ -942,7 +942,7 @@
        "Neither"
       ],
       "a": 0,
-      "why": "Photosynthesis needs chlorophyll and light. A root has neither. But a root is alive and needs energy, so they respire. A pick of neither means forgetting that roots are alive."
+      "why": "Photosynthesis needs chlorophyll and light. A root has neither. But a root is alive and needs energy, so they respire. Anyone who picks neither has forgotten that roots are alive."
      },
      "context": "In this step you play the first eight cards and learn how to score."
     },
@@ -993,7 +993,7 @@
       "Take in only nitrogen"
      ],
      "a": 0,
-     "why": "At night there is no light, so photosynthesis stops. But every cell of the plant still respires, so they take in some oxygen and give out some carbon dioxide. Picking that plants do nothing is a common wrong idea.",
+     "why": "At night there is no light, so photosynthesis stops. But every cell of the plant still respires, so they take in some oxygen and give out some carbon dioxide. It is a common wrong idea that plants do nothing at night.",
      "outcome": 0
     },
     {
@@ -1100,7 +1100,7 @@
     },
     {
      "t": "match",
-     "p": "Match each part of a plant to its job with gases and sugar.",
+     "p": "Match each part of a plant to what it does.",
      "pairs": [
       [
        "Chloroplast",
@@ -1174,21 +1174,21 @@
      "p": "Fish are gasping at dawn in a pond in Nagapattinam after three cloudy days. Three people say what to do.",
      "views": [
       {
-       "who": "Murugan, a fish farmer",
+       "who": "A fish farmer",
        "says": "Buy the chemical powder from the shop. It worked for my cousin."
       },
       {
-       "who": "Fatima, a fisheries student",
+       "who": "A fisheries student",
        "says": "Stir the water or run the aerator in the second half of the night, and feed the fish less."
       },
       {
-       "who": "Ravi, a neighbour",
+       "who": "A neighbour",
        "says": "Drain the pond and refill it with fresh water."
       }
      ],
      "ask": "What would you do first? Use what you know about oxygen in a pond. Then say one fair point for someone you disagree with.",
      "lines": 5,
-     "a": "Any choice can be strong if it uses the science. For example, stirring and feeding less is quick and cheap and fixes the missing oxygen. A strong answer says that Ravi is right that fresh water has oxygen, but it takes days and may harm the fish. It also says that Murugan's powder might help in some cases, but it does not add oxygen unless it is the right kind.",
+     "a": "Any choice can be strong if it uses the science. For example, stirring and feeding less is quick and cheap and fixes the missing oxygen. A strong answer says that the neighbour is right that fresh water has oxygen, but draining and refilling takes days and may harm the fish. It also says that the fish farmer's powder might help in some cases, but it does not add oxygen unless it is the right kind.",
      "why": "Stirring mixes air in at once and attacks the real problem, which is a lack of oxygen. The other ideas are slower or do not fix the oxygen. There is more than one reasonable view, so the reasons matter.",
      "outcome": 2
     },
@@ -1313,7 +1313,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Sugarcane is a C4 plant with a carbon dioxide pump. Pineapple is a CAM plant. Rice is an ordinary plant of the first kind. A cactus has no proper leaves, so the green stem does the work.",
+     "why": "Sugarcane is a C4 plant with a carbon dioxide pump. Pineapple is a CAM plant. Rice has no pump and hands carbon dioxide straight to rubisco. A cactus has no proper leaves, so the green stem does the work.",
      "outcome": 5
     },
     {
@@ -1382,7 +1382,7 @@
      "p": "A fish farmer reads 1.5 milligrams of oxygen per litre at 5 in the morning. Many pond fish get stressed below about 3. What should the farmer do, and why?",
      "lines": 3,
      "a": "A strong answer says to stir the water or run an aerator now, to mix in air, and to feed the fish less. The reading is well below 3, so the fish are in danger. Waiting for the sun to come up may be too late for some of them.",
-     "why": "The answer should connect the number to a decision, and use what the oxygen graph shows about the dawn.",
+     "why": "The answer should connect the number to a decision, and use the fact that the oxygen in a pond is lowest at dawn.",
      "outcome": 2
     },
     {
@@ -1405,22 +1405,22 @@
      "p": "Three people discuss photorespiration, the mistake in which rubisco grabs oxygen instead of carbon dioxide.",
      "views": [
       {
-       "who": "Dr. Meena, a plant scientist",
+       "who": "A plant scientist",
        "says": "It is a waste. If we could remove it, crops would grow faster and feed more people."
       },
       {
-       "who": "Dr. Arun, a plant scientist",
+       "who": "Another plant scientist",
        "says": "It is not only a waste. It clears a poison and makes useful building blocks. Plants without it die in normal air."
       },
       {
-       "who": "Shanti, a farmer",
+       "who": "A farmer",
        "says": "I do not care what it is called. I care whether the new seed gives more grain in my field."
       }
      ],
      "ask": "Which view do you find the most convincing? What evidence would change your mind? Say one fair point from someone you disagree with.",
      "lines": 5,
-     "a": "Any choice can be strong. A strong answer uses the idea that the process costs energy, but may also have uses. It names the evidence that would help, for example field trials that measure grain with and without the shortcut, and tests of whether plants are harmed. It gives Shanti credit that results in the field matter.",
-     "why": "The scientists disagree about the facts, and the farmer cares about the result. Each view has a point, so the strongest answers use evidence, not loyalty.",
+     "a": "Any choice can be strong. A strong answer uses the idea that the process costs energy, but may also have uses. It names the evidence that would help, for example field trials that measure the grain from ordinary plants and from plants changed to avoid the waste, and tests of whether the changed plants are harmed. It gives the farmer credit that results in the field matter.",
+     "why": "The scientists disagree about the facts, and the farmer cares about the result. Each view has a point, so the strongest answers use evidence and do not just pick a side.",
      "outcome": 7
     },
     {
@@ -1588,7 +1588,7 @@
     },
     {
      "t": "sort",
-     "p": "At 4 in the morning in a pond, sort each of these by what it would do to the oxygen.",
+     "p": "It is 4 in the morning at a pond. Sort each of these by what it would do to the oxygen in the water.",
      "cats": [
       "Raises the oxygen",
       "Lowers the oxygen",
@@ -1621,7 +1621,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Stirring and breezes mix air in. Rotting food and a hot night use up or let go of oxygen. Fewer fish use less oxygen. Painting a wall changes nothing in the water.",
+     "why": "Stirring and breezes mix air in. Rotting food uses up oxygen, and on a hot night the warm water holds less. Fewer fish use less oxygen. Painting a wall changes nothing in the water.",
      "outcome": 2
     },
     {
@@ -1656,7 +1656,7 @@
     },
     {
      "t": "write",
-     "p": "A tree and a seam of coal both hold carbon that once came from the air. Explain how they differ in when that carbon was last in the air.",
+     "p": "A tree and a seam of coal both hold carbon that once came from the air. When was the carbon in each one last in the air?",
      "lines": 3,
      "a": "A strong answer says that a tree holds carbon that was in the air during the tree's life, so within years or centuries. A seam of coal holds carbon taken from the air by swamp plants about 300 million years ago. Burning either returns the carbon to the air as carbon dioxide.",
      "why": "The answer should give two very different time spans and say that both go back to the air.",
@@ -1664,7 +1664,7 @@
     },
     {
      "t": "draw",
-     "p": "Sketch what you would expect to find if you measured the oxygen around a pot plant in a sealed bag from 6 in the morning to 6 the next morning. Mark where the line crosses zero change.",
+     "p": "Sketch how you would expect the oxygen around a pot plant in a sealed bag to change from 6 in the morning to 6 the next morning. Mark where the plant is at the compensation point.",
      "a": "The oxygen rises from a low point in the morning as the light gets stronger. It crosses the compensation point shortly after dawn, peaks in the afternoon, falls through the evening and goes down all night.",
      "why": "A strong sketch shows that the line crosses the compensation point twice, once in the morning and once in the evening, when the light gets too dim.",
      "art": "An empty graph frame with the time of day along the bottom and oxygen change up the side.",
@@ -1675,22 +1675,22 @@
      "p": "Three people argue about whether a greenhouse should add extra carbon dioxide.",
      "views": [
       {
-       "who": "Priya, a greenhouse grower",
+       "who": "A greenhouse grower",
        "says": "Yes. When light and warmth are plentiful, more carbon dioxide gives us bigger tomatoes."
       },
       {
-       "who": "Suresh, an organic farmer",
+       "who": "An organic farmer",
        "says": "No. It costs money and burns gas. We should use sunshine and good soil instead."
       },
       {
-       "who": "Ayesha, a plant scientist",
+       "who": "A plant scientist",
        "says": "Only if carbon dioxide is the limit. First measure which factor is holding the plants back."
       }
      ],
      "ask": "Whose view do you agree with most? Use what you learned about limiting factors. Then say one fair point from someone you disagree with.",
      "lines": 5,
-     "a": "Any choice can be strong. A strong answer uses limiting factors: extra carbon dioxide only helps if it is the shortest supply. It gives Priya credit that growth can rise, Suresh credit that the cost and burning of gas matter, or Ayesha credit for testing first.",
-     "why": "Ayesha's view uses the idea of the limiting factor. The others each have a real concern. There is no single right answer, but wasted spending on a factor that is not the limit is easy to avoid.",
+     "a": "Any choice can be strong. A strong answer uses limiting factors: extra carbon dioxide only helps if it is the shortest supply. It gives the greenhouse grower credit that growth can rise, the organic farmer credit that the cost and burning of gas matter, or the plant scientist credit for testing first.",
+     "why": "The plant scientist's view uses the idea of the limiting factor. The others each have a real concern. There is no single right answer, but wasted spending on a factor that is not the limit is easy to avoid.",
      "outcome": 4
     },
     {
@@ -1786,7 +1786,7 @@
    ],
    "safety": "A grown-up pours the hot water. Blow out gently through the straw and never suck in, because the water is not for drinking. Stop and rest if you feel dizzy. Wash hands afterwards. Cabbage water stains clothes and fingers. Keep the jars where the sun is bright but the glass does not get hot to touch; hot water kills the plants. Wash the water plants first, and wash hands after touching pond plants.",
    "record": "Match each jar to the colour ladder and write its number. Photograph all four jars side by side on the white paper at the start and after one day. Colour in the table. Write your claim, your evidence and your reasoning.",
-   "context": "In this experiment, you catch your own breath in water with a colour that changes. Then you find out what a leaf does to that breath in the light and in the dark.",
+   "context": "In this experiment, you blow your breath into cabbage water, which changes colour. Then you find out what a leaf does to that breath in the light and in the dark.",
    "setup": [
     {
      "art": "A bowl of chopped red cabbage with hot water poured on it, then a strainer pouring blue-purple liquid into a jar.",
@@ -1832,7 +1832,7 @@
      "do": "A grown-up pours 5 cups (about 1.2 litres) of hot water over the chopped cabbage. Leave it 10 minutes. Strain it into a bowl and let it cool.",
      "say": "Pour the hot water over the cabbage. Wait 10 minutes. The water will turn a deep purple. Strain it and let it cool.",
      "kid": "Ask a grown-up to pour hot water on the cabbage. Wait 10 minutes. Strain it.",
-     "parent": "The water should look blue-purple. If it looks pink or red, stir in a tiny pinch of baking soda until it turns blue-purple. Use the same water for all four jars. Water from a fridge-cold filter or boiled water makes the clearest colours. Hard tap water holds its colour and may show almost no change.",
+     "parent": "The water should look blue-purple. If it looks pink or red, stir in a tiny pinch of baking soda until it turns blue-purple. Use the same water for all four jars. Cold filtered water or boiled water gives the clearest colours. Hard tap water holds its colour and may show almost no change.",
      "check": {
       "t": "mcq",
       "q": "Why do we use the same cabbage water for all four jars?",
@@ -1863,7 +1863,7 @@
        ]
       }
      ],
-     "parent": "Time each minute with a clock. Photograph the four jars together on the white paper. Jar D stays blue-purple. A, B and C should look more pink-purple than D. If you cannot see a change, blow for two minutes in each jar, but give every jar the same time. Each blow should be gentle and slow, as if fogging a mirror. One child blows all three jars, with a rest between, while a partner times each minute. With 2 to 4 children, share the jobs: blower, timer, jar-filler, photographer. With a bigger group, make two sets of jars so everyone has a part.",
+     "parent": "Time each minute with a clock. Photograph the four jars together on the white paper. Jar D stays blue-purple. A, B and C should look more pink-purple than D. If you cannot see a change, blow for two minutes in each jar, but give every jar the same time. Each blow should be gentle and slow, as if fogging a mirror. One child blows into all three jars, with a rest between, while a partner times each minute. With 2 to 4 children, share the jobs: blower, timer, jar-filler, photographer. With a bigger group, make two sets of jars so everyone has a part.",
      "check": {
       "t": "mcq",
       "q": "Why do we blow for exactly one minute into each of A, B and C?",
@@ -1881,10 +1881,10 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Put the same bunch of water plant into B and C. Fill them to the top and close the lids tight. Wrap C all over with foil. Put all four jars at a bright window.",
+     "do": "Put one bunch of water plant into B and a bunch of the same size into C. Fill both jars to the top and close the lids tight. Wrap C all over with foil. Put all four jars at a bright window.",
      "say": "Put one bunch of water plant in B and the same size bunch in C. Close the lids tightly. Wrap C in foil so no light gets in. Put all four jars in the light.",
      "kid": "Add one bunch of water plant to B and the same to C. Wrap C in foil. Put all jars in the light.",
-     "parent": "Use fresh water plant of one kind, and weigh or measure the two bunches by eye to be the same. Keep every jar full to the top with the lid on, because air above the water would change the result. With water plants the change often shows within 3 to 5 hours of sun, so peek in the afternoon. If the day is gloomy, leave them for two days. In very hot weather, move the jars to a bright but cooler spot.",
+     "parent": "Use fresh water plant of one kind. Weigh the two bunches, or judge them by eye, so that they are the same. Keep every jar full to the top with the lid on, because air above the water would change the result. With water plants the change often shows within 3 to 5 hours of sun, so peek in the afternoon. If the day is gloomy, leave them for two days. In very hot weather, move the jars to a bright but cooler spot.",
      "wait": "Leave the jars for one day",
      "context": "In this step, you add leaves and set up light and dark, then wait a day."
     },
@@ -1911,7 +1911,7 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Ask your child to say the claim, the evidence and the reasoning. Write one sentence for each.",
+     "do": "Ask your child to say what happened (the claim), what they saw (the evidence) and why it happened (the reasoning). Write one sentence for each.",
      "say": "Tell me three things. What do you think happened? What did you see to show it? Why did it happen?",
      "kid": "Say what you think happened. Say what you saw. Say why.",
      "ask": [
@@ -2018,7 +2018,7 @@
      "mins": 5,
      "do": "Show the three jars and the water. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "Tiny green plants called algae live in pond water. We will give three jars different amounts of light. Which will turn greenest? Why?",
-     "kid": "Three jars, three amounts of light. Which jar turns greenest? Why?",
+     "kid": "We give three jars different amounts of light. Which jar turns greenest? Why?",
      "ask": [
       {
        "q": "Why do you think that jar will be the greenest?",
@@ -2035,7 +2035,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Pour 300 millilitres of water into each jar. Add a spoonful of green water to each, if you have it. Add the same tiny pinch of fertiliser to each.",
+     "do": "Pour 300 millilitres of water into each jar. Add a spoonful of green water from a pond, a rain bucket or a fish tank to each, if you have it. Add the same tiny pinch of fertiliser to each.",
      "say": "Pour the same amount of water in each jar. Add the same pinch of fertiliser to each. Make everything exactly the same.",
      "kid": "Pour the same water in each jar. Add the same pinch of fertiliser.",
      "parent": "Fertiliser feeds the algae. Use a very small amount, such as one drop or a pinch the size of a grain of rice. If you cannot find green water from a pond, a rain bucket or a fish tank, use water that has stood under a pot plant for a few days. The green may take longer to start. The best green water is from a bucket or pot saucer that has sat in sun for a week and looks slightly green.",
@@ -2108,10 +2108,10 @@
        "They are not alive"
       ],
       "a": 0,
-      "why": "Algae make their own food by photosynthesis, and photosynthesis needs light. In the dark, they cannot make food, so they do not multiply. Picking that they are not alive is a mix-up. They are tiny living plants."
+      "why": "Algae make their own food by photosynthesis, and photosynthesis needs light. In the dark, they cannot make food, so they do not multiply. Algae are alive. They are tiny living plants."
      },
      "parent": "If all three jars stayed clear after 8 days, the water may have had no algae to start, or the weather was cool. That is a real result. Add a spoon of green pond water and begin again, or carry on to day 12. If all three went green, check whether the shade jar got more light than you thought.",
-     "think": "The pond in the story had thick green water, and its fish still ran short of oxygen. What do you think thick green water does at night?",
+     "think": "In the story The Pond at Dawn, the pond had thick green water, and its fish still ran short of oxygen. What do you think thick green water does at night?",
      "context": "In this step, you compare the three jars at the end and say what light does to a pond."
     }
    ],
@@ -2119,7 +2119,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Fill and set up the three jars. Score the starting see-through."
+     "what": "Fill and set up the three jars. Give each jar its first see-through score."
     },
     {
      "day": 3,
@@ -2204,7 +2204,7 @@
      "mins": 4,
      "do": "Show the three glasses and the bowls. Ask for a guess and a reason. Write the guess down.",
      "say": "We will stand glasses of cold water in icy, cool and warm bowls. Which glass will get the most bubbles? Why do you think so?",
-     "kid": "Three glasses, three bowls. Which glass gets the most bubbles? Why?",
+     "kid": "Three glasses of cold water stand in an icy bowl, a cool bowl and a warm bowl. Which glass gets the most bubbles? Why?",
      "ask": [
       {
        "q": "Where do you think the bubbles will come from?",
@@ -2400,7 +2400,7 @@
        ]
       }
      ],
-     "parent": "A phone clip-on lens that magnifies about 60 times works best (optional, about Rs 250 to 500). A plain magnifying glass or phone zoom shows the print only as a faint pattern of cell outlines, and the stomata may not be clear. That is honest: record what you can see, then count the cell outlines instead of stomata, or look at the print under a school or friend's microscope.",
+     "parent": "A phone clip-on lens that magnifies about 60 times works best (optional, about Rs 250 to 500). A plain magnifying glass or phone zoom shows the print only as a faint pattern of cell outlines, and the stomata may not be clear. That is fine: record what you can see, then count the cell outlines instead of stomata, or look at the print under a school or friend's microscope.",
      "think": "A leaf can close the stomata. What would be the cost of closing them on a very hot day?",
      "context": "In this step, you look for stomata in your print and draw them."
     }
@@ -2438,7 +2438,7 @@
     }
    ],
    "safety": "Pick leaves only with permission, from a plant you know. Avoid plants with milky sap or thorns, and wash your hands afterwards.",
-   "record": "A table with the two leaves: colour match, area in squares, thickness by feel, and one other difference you notice.",
+   "record": "Make a table for the two leaves: the crayon colour that matches, the area in squares, the thickness by feel, and one other difference you notice.",
    "context": "In this activity, you compare a leaf that grew in bright sun with a leaf that grew in shade on the same plant. You find out how a leaf changes with the light it gets.",
    "setup": [
     {
@@ -2460,7 +2460,7 @@
      "mins": 5,
      "do": "Ask for a guess about how the two leaves will differ. Pick the leaves.",
      "say": "One leaf grew in the sun and one in the shade. How will they be different? Why do you think so?",
-     "kid": "A sun leaf and a shade leaf. How are they different? Why?",
+     "kid": "One leaf grew in the sun and one in the shade. How are they different? Why?",
      "ask": [
       {
        "q": "Which leaf do you think will be bigger, and why?",
@@ -2511,7 +2511,7 @@
      "do": "Write your claim, evidence and reasoning. Say what the plant did to adapt to the light each leaf got.",
      "say": "What did you find? Why do you think the plant made leaves that are different on the same plant?",
      "kid": "What did you find? Why are the leaves different on one plant?",
-     "think": "Each leaf grew where they were. Could a plant sense the light and change the leaf they make? What does that tell you?",
+     "think": "Each leaf grew in a different amount of light. Could a plant sense the light and change the kind of leaf they make? What does that tell you?",
      "context": "In this step, you say what the two leaves show about how plants respond to light."
     }
    ]
@@ -2657,7 +2657,7 @@
     }
    ],
    "safety": "Stop and sit down if you feel dizzy or breathless. Never hold your breath, and jump only on a clear, non-slippery floor.",
-   "record": "A table with three counts of breaths in one minute. Write the biggest change and what it tells you.",
+   "record": "Make a table with your three counts of breaths in one minute. Write the biggest change and what it tells you.",
    "context": "In this activity, you count how fast you breathe at rest and after exercise. This shows how respiration speeds up when your cells need more energy.",
    "setup": [
     {
@@ -2709,7 +2709,7 @@
        ]
       }
      ],
-     "parent": "Stop at once if your child feels dizzy or unwell. Count a breath each time the chest rises. Counting together is easier than counting alone. With 2 to 4 children, work in pairs: one counts, one is counted, then swap. Count while the child reads or looks away, because people breathe differently when they watch their own breath. Resting numbers are typical, not exact.",
+     "parent": "Stop at once if your child feels dizzy or unwell. Count a breath each time the chest rises. Counting together is easier than counting alone. With 2 to 4 children, work in pairs: one counts, one is counted, then swap. Count while the child reads or looks away, because people breathe differently when they watch their own breath. A resting count differs from child to child, so there is no exact right number.",
      "check": {
       "t": "mcq",
       "q": "Why do you breathe faster after jumping?",
@@ -2757,7 +2757,7 @@
      "what": "Draw two line graphs of the practice data. Find the highest and lowest points. Compare a sunny day and a cloudy day."
     }
    ],
-   "record": "Your graph with two lines, one for a sunny day and one for a cloudy day. Write the time of the highest and lowest oxygen on each.",
+   "record": "Draw your graph with two lines, one for a sunny day and one for a cloudy day. Write the time of the highest and lowest oxygen on each.",
    "context": "In this activity, you draw a graph of how much oxygen is in a pond over a day. The numbers are made up for practice, but they follow the pattern that real ponds show.",
    "setup": [
     {
@@ -2930,7 +2930,7 @@
      "mins": 5,
      "do": "Show the jar and plants. Ask what will happen to a sealed garden over four weeks. Write the guess.",
      "say": "We will seal two plants in a jar for four weeks. No new air, no new water. What do you think will happen? Why do you think so?",
-     "kid": "A sealed jar garden. No new air or water. What will happen? Why?",
+     "kid": "We seal a garden in a jar. It gets no new air or water. What will happen? Why?",
      "ask": [
       {
        "q": "Do you think the plants will live? What will they need from outside the jar?",
@@ -2950,7 +2950,7 @@
      "do": "Put pebbles in the jar, then soil about 6 centimetres deep. Plant the two plants. Spray lightly with water. Close the lid.",
      "say": "Put the pebbles in first. Add the soil. Plant the two plants gently. Spray the soil with water, just a little, and close the lid.",
      "kid": "Add pebbles, then soil. Plant two plants. Spray lightly. Close the lid.",
-     "parent": "The soil should be damp, not wet. Water should not pool at the bottom. If water drips down the glass at the start, open the lid for an hour to let some out. Use plants that like moist air. Cacti and succulents will rot in a sealed jar. In the damp monsoon, mould grows easily, so spray very lightly and use a little less soil water. With 2 to 4 children, each builds a jar of their own, and one sibling can make a second jar with the lid left off and not watered, to compare with the sealed one.",
+     "parent": "The soil should be damp, not wet. Water should not pool at the bottom. If water drips down the glass at the start, open the lid for an hour to let some out. Use plants that like moist air. Cacti and succulents will rot in a sealed jar. In the damp monsoon, mould grows easily, so spray very lightly and keep the soil a little drier. With 2 to 4 children, each builds a jar of their own, and one child can make a second jar with the lid left off and not watered, to compare with the sealed one.",
      "check": {
       "t": "mcq",
       "q": "Why is the jar kept in bright light but out of direct sun?",
@@ -3056,7 +3056,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem and the price list. Ask your child to say what limits a plant on a dim day. Write down the answer.",
-     "say": "A plant grows only as fast as the lowest of the three. If one is low, does it help to raise the other two? Why do you think so?",
+     "say": "A plant grows only as fast as the lowest of the three levels: light, carbon dioxide and warmth. If one is low, does it help to raise the other two? Why do you think so?",
      "kid": "A plant grows as fast as its lowest factor. Does raising the others help?",
      "ask": [
       {
@@ -3191,7 +3191,7 @@
     "It makes the water heavy"
    ],
    "a": 0,
-   "why": "Warm water holds less dissolved gas, and warm bodies and microbes use oxygen faster. Both effects lower the oxygen at once.",
+   "why": "Warm water holds less dissolved gas, and the living things in warm water use oxygen faster. Both lower the oxygen at the same time.",
    "outcome": 2,
    "how": "e3",
    "context": "In the Bubbles on the Glass test, you warm cold water and watch dissolved air come out as bubbles."
@@ -3302,8 +3302,8 @@
   "Choosing house plants that suit a dim room, because they break even at low light.",
   "Planting forests and protecting seaweed beds and mangroves, which take carbon out of the air.",
   "Monitoring the Earth's plants from space, using the green colour of chlorophyll.",
-  "Understanding fuels, because coal, oil and gas are ancient photosynthesis.",
-  "Designing sealed life-support systems for space stations, where plants and people trade breath.",
+  "Understanding fuels, because the energy in coal, oil and gas was caught by photosynthesis long ago.",
+  "Designing sealed life-support systems for space stations, where plants and people pass oxygen and carbon dioxide back and forth.",
   "Treating sewage and managing fertiliser so that ponds and lakes do not turn into dead zones.",
   "Making artificial leaves that split water with sunlight, to make clean fuel."
  ],
@@ -3419,7 +3419,7 @@
  ],
  "maths": [
   {
-   "problem": "At rest, Ravi breathes 20 times in one minute. How many breaths does he take in one hour? And in one whole day of 24 hours?",
+   "problem": "At rest, a child breathes 20 times in one minute. How many breaths does the child take in one hour? And in one whole day of 24 hours?",
    "answer": "1,200 breaths in an hour and 28,800 breaths in a day.",
    "explain": "There are 60 minutes in an hour. 20 times 60 is 1,200. A day has 24 hours. 1,200 times 24 is 28,800. Respiration never stops, so this many breaths bring in oxygen all day and night.",
    "math_unit": "math.multiplication.multi-digit.L4",
@@ -3455,7 +3455,7 @@
   {
    "problem": "Each jar in the Breath Colours test holds 250 millilitres of water and six leaves. About how many millilitres of water is there for each leaf? If you used twelve leaves, what would happen to this number, and what might it do to the colour change?",
    "answer": "About 42 millilitres for each leaf. With twelve leaves it would be about 21, and the colour might change faster.",
-   "explain": "250 divided by 6 is about 42. Twelve leaves is double the leaves, so each has half the water, about 21. More leaves for the same water means each bit of water gets more attention from the leaves, so the colour change could be quicker and easier to see.",
+   "explain": "250 divided by 6 is about 42. Twelve leaves is double the leaves, so each has half the water, about 21. More leaves in the same water change the carbon dioxide in it faster, so the colour change could be quicker and easier to see.",
    "math_unit": "math.division.L4",
    "how": "e1",
    "context": "In the Breath Colours test, you put six leaves in each of two jars of 250 millilitres of cabbage water.",
@@ -3696,18 +3696,18 @@
   ]
  },
  "roots": {
-  "context": "We have followed oxygen and carbon dioxide through jars, ponds, sugarcane and coal. Now we ask what this says about giving, taking and belonging to one air.",
+  "context": "We have followed oxygen and carbon dioxide through jars, ponds, sugarcane and coal. Now we ask what this tells us about who gives and who takes, when all living things share the same air.",
   "deep_truth": {
-   "truth": "The same leaves made the cabbage water bluer in the light and pinker in the dark. In light they used up more carbon dioxide than they made. In the dark they only made it. So a plant is not simply a giver of breath, because every living cell takes in and gives out.",
+   "truth": "In the Breath Colours test, leaves made the cabbage water bluer in the light and pinker in the dark. In light they used up more carbon dioxide than they made. In the dark they only made it. So a plant is not simply a giver of oxygen, because every living cell takes in and gives out.",
    "habit": "We sort living things into givers and takers: plants give us air, and we and the other animals take it. That sorting leaves out that a plant also breathes in oxygen and breathes out carbon dioxide, all day and all night.",
    "evidence": "In the Breath Colours test, the jar with leaves in the light ended bluer than the jar with no leaves, and the jar with leaves in the dark ended pinker. The jars, the water and the breath were the same. Only the light was different. If your own results differ, write them down as they are and try again with more leaves."
   },
   "three": {
-   "who_am_i": "You breathe out carbon dioxide that a leaf may take in tomorrow. The leaf gives out oxygen that you may breathe in. You and the plants take turns with one breath.",
+   "who_am_i": "You breathe out carbon dioxide that a leaf may take in tomorrow. The leaf gives out oxygen that you may breathe in. You and the plants keep passing the same air back and forth.",
    "what_is_life": "Every living being, from a cyanobacterium to a fish to a banyan tree, takes in and gives out all the time. Life is a flow of matter and energy, and no living being is only a giver or only a taker.",
-   "what_is_this_world": "The air is shared by all of us. A carbon atom can be in a leaf, a grain, a child's breath and the sky in turn, and the whole Earth's air rises and falls once a year with the leaves of the north."
+   "what_is_this_world": "The air is shared by all of us. A carbon atom can be in a leaf, a grain, a child's breath and the sky in turn. The carbon dioxide in the whole Earth's air falls and rises once a year with the leaves of the north."
   },
-  "thread": "A pond at dawn shows that the same plants that fill the water with oxygen by day drain it at night. The difference is only light. Plants and animals are not two teams, with one giving and one taking. Both belong to the same flow of carbon and oxygen, and each one's waste is another's food. The sorting of living things into givers and takers is our habit. The pond, the jar and the carbon cycle show a single circulation, where light only decides which way the balance tips at that moment.",
+  "thread": "A pond at dawn shows that the same plants that fill the water with oxygen by day use it up at night. The only difference is the light. Plants and animals are not two teams, with one giving and one taking. Both belong to the same flow of carbon and oxygen, and each one's waste is another's food. Sorting living things into givers and takers is our habit. The pond, the jars of cabbage water and the carbon cycle all show one flow that every living thing is part of. Light only decides which way the balance tips at that moment.",
   "teachings": [
    {
     "source": "Bhagavad Gita 3.14 to 3.16",
@@ -3736,7 +3736,7 @@
   ],
   "other_view": {
    "who": "Many ecologists",
-   "view": "Saying that the Earth breathes is only a picture. The yearly wiggle in carbon dioxide is the total of countless separate plants, microbes and animals, not one body that breathes. Calling it breath can help us imagine it, but there is no single breather."
+   "view": "Saying that the Earth breathes is only a picture. The yearly fall and rise in carbon dioxide is the total of countless separate plants, microbes and animals, not one body that breathes. Calling it breath can help us imagine it, but there is no single breather."
   },
   "practice": {
    "title": "Take turns with a leaf",

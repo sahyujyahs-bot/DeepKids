@@ -1,14 +1,14 @@
 {
   "id": "sci.planet-earth.maps-and-directions.L4",
-  "title": "Maps and directions: how to map a place you cannot see, and find yourself from three distances",
+  "title": "Maps and directions: how to map a place you cannot see, and find where you are from three distances",
   "level": 4,
   "summary": {
-    "text": "A closed shoebox hides a small landscape of hills. All you may do is push a thin stick down through holes in the lid and measure how far it goes. Can you draw a map of what you cannot see? Sailors and scientists did exactly this to map the floor of the sea, and a narrow ridge between two holes can hide from you completely. Your child makes a hidden-hills map, finds a coin with three distances, and walks a scale bar to see if it tells the truth. Then the child sees why a phone needs at least three satellites to know where it is.",
+    "text": "A closed shoebox hides a small landscape of hills. All your child may do is push a thin stick down through holes in the lid and measure how far it goes. From those measurements, your child draws a map of hills they cannot see. Sailors and scientists mapped the floor of the sea in the same way. Your child also learns that a narrow ridge lying between two holes can be missed completely. Your child then finds a hidden coin from three distances, and measures a route on a map with the scale bar and walks it to check the map. Then the child sees why a phone needs at least three satellites to know where it is.",
     "art": "A shoebox with a lid full of small holes, a child pushing a thin stick through one hole, and beside the box a squared-paper map with numbers and coloured squares."
   },
   "intro": {
     "hook": "Your phone shows a blue dot on a map, and the dot is almost exactly where you stand, even in the middle of a field with no signboards. Nobody has drawn a line on the ground to tell the phone. How does it know where you are?",
-    "text": "A phone finds your place by measuring distances. One distance is not enough, and two are not enough. In this unit you find out how many distances you need, by hiding a coin and drawing circles. You map a landscape in a box that you cannot see, and learn why the holes you choose decide what the map can show. You turn a scale bar into steps, find places with a grid, and read hills from lines. You also map your own neighbourhood.",
+    "text": "A phone finds your place by measuring distances. One distance is not enough, and two are not enough. In this unit you find out how many distances you need, by hiding a coin and drawing circles. You map a landscape in a box that you cannot see, and learn why the holes you choose decide what the map can show. You use the scale bar on a map to work out how many steps a walk will take, find places with a grid, and learn how lines on a map show hills. You also map your own neighbourhood.",
     "art": "A child in a field holding up a phone with a blue dot on its map, and three faint dotted lines running up from the phone to three small satellites in the sky."
   },
   "outcomes": [
@@ -73,7 +73,7 @@
     {
       "term": "Survey",
       "meaning": "A careful measuring of a piece of land so that it can be drawn on a map.",
-      "example": "Surveyors measure a baseline along flat ground and then measure angles to far hills.",
+      "example": "Surveyors measure a straight line along flat ground, called a baseline, and then measure the angles to far hills.",
       "art": "Two surveyors with a tripod instrument and a long chain stretched across a field."
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "term": "Longitude",
-      "meaning": "How far east or west of a line from the North Pole to the South Pole through Greenwich a place is, measured in degrees.",
+      "meaning": "How far east or west a place is from the line that runs from the North Pole to the South Pole through Greenwich, near London. It is measured in degrees.",
       "example": "Chennai is at about 80 degrees east.",
       "art": "A globe with lines running from pole to pole and the line through Greenwich in red."
     },
@@ -184,7 +184,7 @@
       "concept": "Height on a flat map: contour lines",
       "status": "defined",
       "definition": "A contour line is a line on a map that joins places at the same height above sea level. Lines that are close together mean a steep slope.",
-      "description": "A map is flat, but land has hills. Contour lines show the hills. Imagine slicing a hill at every 10 metres of height. Each slice leaves a ring on the ground. Drawn on a map, the rings are contour lines. A hill looks like rings inside rings, and the smallest ring is the top. Where the land is steep, the rings are packed close together. Where it is gentle, they are far apart. The lines never cross, because one place cannot be at two heights. Roads on a hill follow the contour lines, zigzagging up, so that the climb is gentle. Some maps colour the land between lines, with green for low land and brown for high land.",
+      "description": "A map is flat, but land has hills. Contour lines show the hills. Suppose you sliced a hill at every 10 metres of height. Each slice would leave a ring on the ground. Drawn on a map, the rings are contour lines. A hill looks like rings inside rings, and the smallest ring is the top. Where the land is steep, the rings are packed close together. Where it is gentle, they are far apart. The lines never cross, because one place cannot be at two heights. Roads on a hill follow the contour lines, zigzagging up, so that the climb is gentle. Some maps colour the land between lines, with green for low land and brown for high land.",
       "examples": [
         "The hairpin bends of the ghat road up to Kodaikanal or the Nilgiris follow the contour lines.",
         "A map of the Western Ghats has contour lines packed close together on the western side.",
@@ -198,7 +198,7 @@
       "concept": "Mapping what you cannot see: measure a few places, reason about the rest",
       "status": "defined",
       "definition": "To map something you cannot see, you measure at some places and use reasoning to fill in what lies between them. Features smaller than the gaps between your measurements can be missed.",
-      "description": "Nobody can see the floor of the deep sea. For hundreds of years, sailors found the depth by dropping a rope with a weight and knots along it. Today a ship sends a pulse of sound down and times the echo. The depth is the speed of sound in seawater, about 1,500 metres each second, times the time, divided by two, because the sound goes down and comes back. But a ship measures only along the line it sails. Between the lines nothing is measured. A mapmaker draws the shape that fits the numbers, and uses what she knows about how land and sea floors are built to fill the gaps. This is called interpolation. If the lines are close together, the map is good. If they are far apart, a narrow ridge or a small hill can hide between them. Mapmakers go back and measure again where the numbers change fast, or where something looks odd.",
+      "description": "Nobody can see the floor of the deep sea. For hundreds of years, sailors found the depth by dropping a rope with a weight and knots along it. Today a ship sends a pulse of sound down and times the echo. Sound travels about 1,500 metres each second in seawater. To find the depth, multiply that speed by the time the echo took, then divide by two, because the sound goes down and comes back. But a ship measures only along the line it sails. Between the lines nothing is measured. A mapmaker draws the shape that fits the numbers, and uses what she knows about how land and sea floors are built to fill the gaps. This is called interpolation. If the lines are close together, the map is good. If they are far apart, a narrow ridge or a small hill can hide between them. Mapmakers go back and measure again where the numbers change fast, or where something looks odd.",
       "examples": [
         "A sea-floor map made from lines of echo soundings taken by a ship.",
         "The hidden-hills box, where a thin stick is pushed through holes in a lid.",
@@ -212,9 +212,9 @@
       "concept": "Finding a place from distances: trilateration and GPS",
       "status": "defined",
       "definition": "Trilateration finds a place from its distances to three known points. GPS does this with satellites, by timing radio signals that travel at the speed of light.",
-      "description": "If you know you are 5 kilometres from a tower, you could be anywhere on a circle around the tower. If you also know you are 4 kilometres from a second tower, the two circles cross in two places. A third distance, from a third tower, picks the one place where all three circles meet. GPS works this way in space. About thirty GPS satellites circle the Earth, about 20,000 kilometres up. Each one sends out a signal with the exact time it was sent. A phone listens. It does not send anything to the satellites. It works out how long each signal took, and a signal travels at the speed of light, about 300,000 kilometres each second. Time multiplied by speed gives distance. A phone needs signals from at least four satellites, because the fourth lets it correct the error in its own cheap clock. India has its own system too, called NavIC, with its satellites above India and the seas around it.",
+      "description": "If you know you are 5 kilometres from a tower, you could be anywhere on a circle around the tower. If you also know you are 4 kilometres from a second tower, the two circles cross in two places. A third distance, from a third tower, picks the one place where all three circles meet. GPS works this way in space. About thirty GPS satellites circle the Earth, about 20,000 kilometres up. Each one sends out a signal with the exact time it was sent. A phone listens. It does not send anything to the satellites. It works out how long each signal took. A signal travels at the speed of light, about 300,000 kilometres each second. Time multiplied by speed gives distance. A phone needs signals from at least four satellites, because the fourth lets it correct the error in its own cheap clock. India has its own system too, called NavIC, with its satellites above India and the seas around it.",
       "examples": [
-        "A map app puts a blue dot on your street without needing any internet signal for the position itself.",
+        "A map app can put a blue dot on your street. It does not need the internet to find the position.",
         "A fisherman's boat with a receiver can find its place far out at sea.",
         "A farmer uses GPS to steer a tractor in straight rows."
       ],
@@ -225,7 +225,7 @@
     {
       "concept": "Latitude and longitude: a grid for the whole Earth",
       "status": "defined",
-      "definition": "Latitude is how far north or south of the equator a place is. Longitude is how far east or west of the line through Greenwich. Together they name any place on Earth.",
+      "definition": "Latitude is how far north or south of the equator a place is. Longitude is how far east or west of the line through Greenwich a place is. Together they name any place on Earth.",
       "description": "People drew a grid over the whole Earth. Lines of latitude run round the Earth in circles, parallel to the equator. The equator is 0 degrees, and the North Pole is 90 degrees north. Lines of longitude run from the North Pole to the South Pole. The line through Greenwich, near London, is 0 degrees, and the numbers go east and west from there. Chennai is at about 13 degrees north and 80 degrees east. Kanyakumari is at about 8 degrees north, and Delhi at about 28.6 degrees north. One degree of latitude is about 111 kilometres on the ground, so the north-south gap between Chennai and Delhi is about 1,700 kilometres. The Tropic of Cancer, at 23.5 degrees north, crosses eight Indian states.",
       "examples": [
         "A phone map shows the latitude and longitude of any spot if you press and hold on it.",
@@ -239,8 +239,8 @@
     {
       "concept": "Triangulation: measuring far places from a short line",
       "status": "defined",
-      "definition": "Triangulation measures a far place by measuring one short line carefully and the angles from its ends. A triangle with one known side and two known angles can be worked out.",
-      "description": "A surveyor cannot walk to the top of a mountain to measure it. But she can measure a long straight line on flat ground very carefully, called a baseline. From each end, she measures the angle to the mountain. Now she knows one side of a triangle and two angles, and she can work out the other sides by calculation. Then she can use a new side as the next baseline. The Great Trigonometrical Survey of India began in 1802 near Madras, and its surveyors worked their way across the country with chains and large instruments called theodolites. In 1852, Radhanath Sikdar, a mathematician from Calcutta working for the Survey, is reported to have been the first to work out that a peak in the Himalaya, then called Peak XV, was the highest in the world. It was later named Everest.",
+      "definition": "Triangulation is a way to measure a far place without going there. You measure one short line carefully, and the angles from its two ends to the far place. A triangle with one known side and two known angles can be worked out.",
+      "description": "A surveyor cannot walk to the top of a mountain to measure it. But she can very carefully measure a long straight line on flat ground, called a baseline. From each end, she measures the angle to the mountain. Now she knows one side of a triangle and two angles, and she can work out the other sides by calculation. Then she can use a new side as the next baseline. The Great Trigonometrical Survey of India began in 1802 near Madras, and its surveyors worked their way across the country with chains and large instruments called theodolites. Radhanath Sikdar was a mathematician from Calcutta who worked for the Survey. In 1852, he is reported to have been the first to work out that a peak in the Himalaya, then called Peak XV, was the highest in the world. It was later named Everest.",
       "examples": [
         "A baseline of several kilometres measured on flat ground near Chennai in 1802.",
         "Surveyors measuring angles to Himalayan peaks from far away.",
@@ -268,7 +268,7 @@
       "concept": "Maps that do not look like pictures",
       "status": "defined",
       "definition": "A map is any drawing that keeps what a reader needs, in a form that helps them. It does not have to look like the place.",
-      "description": "A metro map shows the stations in order and the lines where you change trains, but it does not show the true distances between stations. Harry Beck drew such a map for the London Underground in 1931, and it made journeys easier to read. In the Marshall Islands in the Pacific, navigators made stick charts. Sticks tied in a frame showed how the ocean swells bend around islands, and shells showed the islands. A navigator learned to read the chart and then travelled without it, feeling the swells in the boat. Both kinds of maps throw away what the picture would show. They keep the connections or the pattern that the traveller needs.",
+      "description": "A metro map shows the stations in order and the lines where you change trains, but it does not show the true distances between stations. Harry Beck drew such a map for the London Underground in 1931, and it made journeys easier to read. In the Marshall Islands in the Pacific, navigators made stick charts. Sticks tied in a frame showed how the ocean swells bend around islands, and shells showed the islands. A navigator learned to read the chart and then travelled without it, feeling the swells in the boat. Both kinds of map leave out what the place looks like. They keep the connections or the pattern that the traveller needs.",
       "examples": [
         "The map of a metro system hung inside a train.",
         "A stick chart of the Marshall Islands, with shells for islands and sticks for ocean swells.",
@@ -281,7 +281,7 @@
     {
       "concept": "Do bees carry a map in their heads?",
       "status": "debated",
-      "description": "A honeybee flies a long way from the hive to find flowers and then flies home in a straight line. Some scientists say she must carry something like a map in her head, a memory of how places lie in relation to each other. In 2014, a group reported that bees whose body clock had been shifted, and who were then moved to a new place, still flew towards their hive. They took this to be a sign of a map. Another group of scientists replied in the same year that the bees could be using landmarks they had learned and a memory of the Sun's position. They said the experiment did not prove a map. Nobody has settled it. Everyone agrees that the bee finds her way with great skill.",
+      "description": "A honeybee flies a long way from the hive to find flowers and then flies home in a straight line. Some scientists say she must carry something like a map in her head, a memory of how places lie in relation to each other. In 2014, a group of scientists shifted the body clocks of some bees and then moved them to a new place. The bees still flew towards their hive. The group took this as a sign that bees have a map. Another group of scientists replied in the same year that the bees could be using landmarks they had learned and a memory of the Sun's position. They said the experiment did not prove a map. Nobody has settled it. Everyone agrees that the bee finds her way with great skill.",
       "examples": [
         "Bees displaced to a new place by researchers still return to the hive.",
         "A bee learns the landmarks near her hive during short orientation flights.",
@@ -316,7 +316,7 @@
       ],
       "perspectives": [],
       "art": "A research ship on the sea, with sonar fans pointing down and a map of the sea floor half-drawn, with blank patches marked with a question mark.",
-      "context": "How much of our own planet has been mapped? This card goes to the edge of what is known."
+      "context": "How much of our own planet has been mapped? This card is about the places that have not been mapped yet."
     }
   ],
   "agreed": [
@@ -337,7 +337,7 @@
       "evidence": "Depths found from echoes match depths found by lowering a weighted line, and cable-laying ships rely on them."
     },
     {
-      "text": "Three distances fix a place on a flat surface, and a fourth fixes the clock error for GPS in space.",
+      "text": "Three distances fix a place on a flat surface. GPS works in space, and a fourth distance lets the phone correct its clock error.",
       "evidence": "GPS receivers find positions to within a few metres, and surveyors check these against known points."
     },
     {
@@ -354,9 +354,9 @@
       "claim": "A map shows exactly what is there.",
       "who": "A common idea about maps",
       "for": "Maps are made by measuring, and you can walk around with them and find the places they show.",
-      "against": "Every map leaves things out and shrinks things. Where the land or sea cannot be seen, a map is partly drawn by reasoning between the measured places. A map is a careful guess about the gaps.",
+      "against": "Every map leaves things out and shrinks things. Where the land or sea cannot be seen, a map is partly drawn by reasoning between the measured places. In the gaps, a map is a careful guess.",
       "status": "rejected",
-      "context": "This card is about the idea that a map is a window onto the world."
+      "context": "This card is about the idea that a map shows exactly what is there."
     },
     {
       "claim": "A large-scale map shows a large area.",
@@ -377,7 +377,7 @@
     {
       "claim": "A phone sends its position to satellites, and the satellites tell it where it is.",
       "who": "Many people",
-      "for": "A map app seems to talk with the sky.",
+      "for": "A map app seems to be talking to the satellites.",
       "against": "GPS satellites only send signals. A phone just listens and works out its own place. This is why it works with no mobile signal at all.",
       "status": "rejected",
       "context": "This card is about who talks to whom in GPS."
@@ -401,7 +401,7 @@
   ],
   "big_questions": [
     {
-      "q": "In the box you knew the land only under the holes. How do you know what lies between them?",
+      "q": "In the Hidden Hills box, you knew the height of the land only under the holes. How do you know what lies between them?",
       "kind": "deep",
       "hint": "Think about what you assume, and how you could check it."
     },
@@ -426,7 +426,7 @@
       "hint": "Think about ships far out at sea, and the shadow of the Earth on the Moon."
     },
     {
-      "q": "A bee flies home from a place she has never started from. Does she carry a map in her head, or a trick for each place?",
+      "q": "A bee flies home from a place she has never started from. Does she carry a map in her head, or does she use landmarks and the Sun?",
       "kind": "big",
       "hint": "Think about what a map lets you do that a list of landmarks does not."
     },
@@ -476,7 +476,7 @@
       "The next day, the men from the office came with bamboo poles tied with red cloth, and set them in a line to steer the ferry around the bar. Mr Thomas took Anjana's paper back with him. \"I shall tell them to sound every five metres near every bend,\" he said. \"And closer, wherever a boat has bumped.\"",
       "That evening, Anjana hung the knotted rope on its nail. She ran her fingers along the knots. The rope only knew the depth where the stone had fallen. All the rest was up to her."
     ],
-    "epiphany": "For the parent: a map of something hidden is built from measurements at some places and reasoning in the gaps. The old chart was true where it had measured, but a four metre bar slipped between soundings that were fifty metres apart. Anjana's first closer survey, every ten metres, still missed it. Only when a boat bumped, a sign that something was wrong, did she look closer, and she found it. The lesson of the story is about spacing: a feature smaller than the gap between measurements can hide. The way to find it is to measure again, closer, where something looks odd.",
+    "epiphany": "For the parent: a map of something hidden is built from measurements at some places and reasoning in the gaps. The old chart was true where it had measured, but a bar of mud four metres wide slipped between soundings that were fifty metres apart. Anjana's first closer survey, every ten metres, still missed it. She looked closer only after the ferry bumped again, which was a sign that something was wrong. Then she found the bar. The story is about spacing: a feature smaller than the gap between measurements can hide. The way to find it is to measure again, closer, where something looks odd.",
     "ask": [
       "Why did the chart show a smooth deep channel when there was a bar of mud in it?",
       "Anjana's first set of soundings, every ten metres, still missed the bar. Why?",
@@ -493,23 +493,23 @@
     ]
   },
   "roots": {
-    "context": "We have mapped a landscape we could not see, found a coin from three distances and walked a scale bar. Now we ask what a map tells us about how we know anything at all.",
+    "context": "In Hidden Hills we mapped a landscape we could not see. In Three Distances we found a coin from its distances to three towers. In the Scale Walk we checked a map's scale bar by walking. Now we ask what a map tells us about how we know anything at all.",
     "deep_truth": {
-      "truth": "In the box, you knew the height of the land only where your stick touched. Between the holes, the map was a guess. A narrow ridge between two holes was missed, until extra holes found it. So every map is measured in some places and guessed in the places between.",
-      "habit": "We treat a map as a window that shows what is there. It is a record of where someone measured, plus their best reasoning about the gaps.",
+      "truth": "In the Hidden Hills box, you knew the height of the land only where your stick touched. Between the holes, the map was a guess. A narrow ridge between two holes was missed, until extra holes found it. So every map is measured in some places and guessed in the places between.",
+      "habit": "We treat a map as if it shows exactly what is there. In fact it is a record of where someone measured, plus their best reasoning about the gaps.",
       "evidence": "In the Hidden Hills box, the first map with six holes missed a ridge that the full set of holes found. Sea-floor maps were once smooth because the soundings were far apart, and closer lines showed mountains and a deep valley."
     },
     "three": {
       "who_am_i": "Your picture of your own home, or of a friend, is a map too. It is made from the few times you looked, with guesses in between.",
       "what_is_life": "A bee, an ant and a child all find their way by measuring a little and guessing the rest, and then checking when something does not fit.",
-      "what_is_this_world": "Most of the world, from the sea floor to the inside of the Earth to the far side of the Moon, is known the way you knew the box: a few pokes and careful reasoning."
+      "what_is_this_world": "Most of the world, from the sea floor to the inside of the Earth to the far side of the Moon, is known the way you knew the Hidden Hills box: from a few measurements and careful reasoning."
     },
-    "thread": "A poke through a hole gives one number about one place. Many pokes make a pattern, and the mind fills the space between them with a shape. When a new poke does not fit the shape, the shape changes. This is how a child learns a room, how a scientist learns the sea floor and how a mind learns anything. The knowing is real, and it is never finished.",
+    "thread": "In Hidden Hills, one poke of the stick through a hole gives one number about one place. Many pokes make a pattern, and the mind fills the space between them with a shape. When a new poke does not fit the shape, the shape changes. A child learns a room this way, a scientist learns the sea floor this way, and anyone learns anything this way. What we know is real, but it is never finished.",
     "teachings": [
       {
         "source": "Udana 6.4, the story of the blind men and the elephant",
         "teaching": "Blind men each touched a different part of an elephant. One felt the leg and said it was a pillar. One felt the tail and said it was a rope. Each was sure of the whole.",
-        "link": "Each stick through a hole touches only one part of the hidden land. A map is what you get when many touches are put together with care."
+        "link": "Each push of the stick through a hole in the Hidden Hills box touches only one part of the hidden land. A map is what you get when many touches are put together with care."
       },
       {
         "source": "Tao Te Ching 1",
@@ -643,11 +643,11 @@
               "good": [
                 "E5 is east.",
                 "D4 is north.",
-                "North is up, so the row number goes down."
+                "North is up the grid, so the row number gets smaller."
               ]
             }
           ],
-          "parent": "East is to the right, so the letter moves forward by one. North is the top, so the number gets smaller. South is down, so the number gets bigger. D5 east is E5, north is D4, south is D6, west is C5."
+          "parent": "East is to the right, so the letter moves forward by one. North is the top, so the number gets smaller. South is down, so the number gets bigger. From D5, east is E5, north is D4, south is D6 and west is C5."
         },
         {
           "id": "s3",
@@ -664,7 +664,7 @@
               "G4"
             ],
             "a": 1,
-            "why": "South is down the grid, so the row number goes up by one. F4 becomes F5. F3 is north of F4, and G4 is east of it."
+            "why": "South is down the grid, so the row number gets bigger by one. F4 becomes F5. F3 is north of F4, and G4 is east of it."
           },
           "context": "In this step you play the game, saying directions in words after a hit."
         },
@@ -945,7 +945,7 @@
           "say": "Your child should not see the inside of the box. Tell them only that there is a landscape in it.",
           "kid": "Wait outside while a grown-up builds the landscape.",
           "adult": true,
-          "parent": "Put the narrow ridge exactly under hole D2, which is not in the first six, so that round 1 misses it. Put the lid on and test with the stick that it touches the ridge at D2 and nothing else around it; nudge the ridge until it does. With older and younger children, an older child can build a second box for the younger one, and they swap boxes. Also leave one small bump between holes. Number the holes on the lid A1 to E4 with the marker. Round 1 uses A1, C1, E1, A3, C3 and E3. Measure the inside depth of the box with a ruler, and write it down. It is probably 10 centimetres.",
+          "parent": "Number the holes on the lid A1 to E4 with the marker. Put the narrow ridge exactly under hole D2. D2 is not one of the first six holes, so round 1 will miss the ridge. Put the lid on and push the stick down D2 and the holes around it. The stick should touch the ridge at D2 and at no other hole. Move the ridge a little until it does. Also leave one small bump between holes. Round 1 uses holes A1, C1, E1, A3, C3 and E3. Measure the inside depth of the box with a ruler, and write it down. It is probably 10 centimetres. If you have older and younger children, an older child can build a second box for the younger one, and they swap boxes.",
           "context": "This is the first step of the Hidden Hills test. A grown-up builds a landscape in a shoebox that your child cannot see."
         },
         {
@@ -956,7 +956,7 @@
           "kid": "A landscape is hidden in the box. Will 6 holes show it all? Why?",
           "ask": [
             {
-              "q": "Why do you think so many holes, or so few, will be enough?",
+              "q": "Why do you think that number of holes will be enough?",
               "good": [
                 "More holes show more places.",
                 "The hills are big, so 6 will find them.",
@@ -971,7 +971,7 @@
           "id": "s3",
           "mins": 5,
           "do": "Show how to take a reading. Push the stick down one hole gently until it stops. Stop at the first touch and do not press into the hill. Pinch the stick at the lid with your finger. Pull it out. Measure from the tip to your finger. Write the reading. The height of the land is the depth of the box minus the reading.",
-          "say": "Push the stick down until it stops. Pinch it at the lid. Measure from the tip to your finger. Readings are good to about 1 centimetre, which is fine. If the box is 10 centimetres deep and the reading is 4, the land is 6 centimetres high.",
+          "say": "Push the stick down until it stops. Pinch it at the lid. Measure from the tip to your finger. Your reading may be off by about 1 centimetre, and that is fine. If the box is 10 centimetres deep and the reading is 4, the land is 6 centimetres high.",
           "kid": "Push the stick down. Pinch it at the lid. Measure.",
           "check": {
             "t": "mcq",
@@ -1029,12 +1029,12 @@
           "say": "Where do the numbers jump the most? That is where something is happening. Choose four new spots there. A grown-up makes the holes.",
           "kid": "Where do the numbers jump? Choose four new spots.",
           "adult": true,
-          "parent": "Mark each new hole with a dot on the lid and on the map. Making a new hole between squares needs the lid to be marked in a smaller grid. If the small bump is missed again, that is a real result: a feature smaller than the gaps can always hide."
+          "parent": "Mark each new hole with a dot on the lid and on the map. To make a new hole between squares, first mark a smaller grid on the lid. If the small bump is missed again, that is a real result: a feature smaller than the gaps can always hide."
         },
         {
           "id": "s7",
           "mins": 6,
-          "do": "Lift the lid. Compare the real landscape with each map. Ask for the three things: what I think, what I saw and why.",
+          "do": "Lift the lid. Compare the real landscape with each map. Then ask your child three things: what they found, what they saw, and why.",
           "say": "Lift the lid. How good were the maps? What did each one miss? Tell me three things. What did you find? What did you see? Why?",
           "kid": "Lift the lid. Compare the maps. Say what each one missed.",
           "parent": "A good answer: more holes make a better map, and the holes you choose matter. The first map missed the ridge because it lay between the holes. Extra holes put where the numbers jump are better than extra holes put anywhere. A tiny bump between holes can hide even from a good map. Real mapmakers face the same problem with the sea floor.",
@@ -1156,7 +1156,7 @@
           "mins": 5,
           "do": "Mark three dots on the paper for towers A, B and C. Keep them about 15 centimetres apart (a school compass draws circles up to a radius of about 10 centimetres), and not in a straight line. Write A, B and C by them. Show the compass.",
           "say": "These three dots are towers. A hidden coin sits somewhere on the paper. A grown-up will tell you only how far the coin is from each tower. Do you think one distance is enough? Two? Why do you think so?",
-          "kid": "Three towers. A coin is hidden. Is one distance enough? Why?",
+          "kid": "There are three towers and a hidden coin. Is one distance enough to find the coin? Why?",
           "ask": [
             {
               "q": "How many distances do you think you need to be sure where the coin is?",
@@ -1173,11 +1173,11 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Look away. A grown-up puts the coin somewhere on the paper, not on a tower. Measure the distance from the centre of the coin to each tower with the ruler. Write the three distances on three slips. Write where the coin is on a folded chit. Hide the chit. Take the coin away.",
-          "say": "Close your eyes. The coin is going down. Now I measure, and I write the three distances on three slips.",
+          "do": "Your child looks away. A grown-up puts the coin somewhere on the paper, not on a tower. The grown-up measures the distance from the centre of the coin to each tower with the ruler, and writes the three distances on three slips of paper. The grown-up writes where the coin is on a folded chit, hides the chit and takes the coin away.",
+          "say": "Close your eyes. I am putting the coin on the paper. Now I measure, and I write the three distances on three slips.",
           "kid": "Look away while the coin is hidden.",
           "adult": true,
-          "parent": "Choose a spot inside the triangle of the towers, no more than 10 centimetres from each tower, where the circles from A and B will cross at two points, so the spot is not on the line from A to B. Measure from the centre of the coin. Write the distance from each tower to the nearest centimetre. Fold the chit so your child cannot see.",
+          "parent": "Choose a spot inside the triangle made by the three towers, no more than 10 centimetres from each tower. Do not put it on the line from A to B, so that the circles from A and B cross at two points. Measure from the centre of the coin. Write the distance from each tower to the nearest centimetre. Fold the chit so your child cannot see.",
           "check": {
             "t": "mcq",
             "q": "The grown-up measures the distance from tower A to the coin as 10 centimetres. What does this tell you?",
@@ -1217,7 +1217,7 @@
           "kid": "Draw a circle around B. Where do the circles cross?",
           "ask": [
             {
-              "q": "How many places do the two circles cross, and what does it mean?",
+              "q": "In how many places do the two circles cross, and what does that tell you about the coin?",
               "good": [
                 "Two places.",
                 "The coin could be at either one.",
@@ -1250,9 +1250,9 @@
         {
           "id": "s6",
           "mins": 5,
-          "do": "Do it all again with a new coin spot. Then ask your child for the three things: what I think, what I saw and why.",
+          "do": "Do it all again with a new coin spot. Then ask your child three things: what they found, what they saw, and why.",
           "say": "Tell me three things. How many distances did you need? What did you see? Why? How does a phone use this?",
-          "kid": "Say three things. What I think. What I saw. Why.",
+          "kid": "Say three things: what you found, what you saw, and why.",
           "parent": "With several children, each takes a turn at hiding the coin, with a grown-up checking the measuring. A good answer: three distances fix one place. One gives a circle, two give two places, and three give one. A phone does the same with distances to satellites in space, but in three dimensions, which is why it needs a fourth satellite for its clock. The satellites send timed signals, and the phone turns each time into a distance."
         }
       ],
@@ -1307,7 +1307,7 @@
       "title": "The Scale Walk: does the scale bar tell the truth?",
       "mins": 45,
       "days": 1,
-      "question": "A map says the shop is 400 metres away. Does a measurement of the map, turned into steps with the scale bar, match a real walk?",
+      "question": "A map says the shop is 400 metres away. If you use the scale bar to work out how many steps that is, will the real walk take the same number of steps?",
       "predict": "Choose two places on your street, about 300 to 500 metres apart. Guess how many minutes the walk will take and how many steps you will count. Why do you think so?",
       "fair_test": "You measure the scale bar and the route on the same screen without zooming in between, because zooming changes the scale. You walk at a steady pace and count each step. You use the same route for the measuring and for the walk.",
       "results_table": [
@@ -1392,7 +1392,7 @@
               "100 metres"
             ],
             "a": 1,
-            "why": "100 metres divided over 2 centimetres is 50 metres for each centimetre. If you picked 200, you multiplied instead of dividing."
+            "why": "100 metres divided by 2 is 50, so each centimetre stands for 50 metres. If you picked 200, you multiplied instead of dividing."
           },
           "context": "In this step you measure the scale bar on the screen."
         },
@@ -1429,12 +1429,12 @@
           "say": "Walk at an easy, steady pace. Count your steps out loud. When you arrive, write the number and the time.",
           "kid": "Walk the route. Count your steps. Time the walk.",
           "adult": true,
-          "parent": "A long walk is easy to lose count of, so count in hundreds: say the number out loud up to 100, fold down a finger, and start again from 1. Count quietly in your head, so the child's count is not influenced by yours. With 2 to 4 children, each child counts their own steps and has their own step length, so their counts will differ and each is compared with their own expected number. One child times the walk. If the child loses count, repeat the walk on the way back."
+          "parent": "It is easy to lose count on a long walk, so your child counts in hundreds: they say the numbers out loud up to 100, fold down a finger, and start again from 1. If you count too, count silently, so that you do not change your child's count. With 2 to 4 children, each child counts their own steps and has their own step length, so their counts will differ. Compare each child's count with their own expected number. One child times the walk. If the child loses count, repeat the walk on the way back."
         },
         {
           "id": "s6",
           "mins": 6,
-          "do": "Compare. How close was the number of steps you counted to the number you expected? Give two reasons why they might differ. Then ask for the three things: what I think, what I saw and why.",
+          "do": "Compare. How close was the number of steps you counted to the number you expected? Give two reasons why they might differ. Then ask your child three things: what they found, what they saw, and why.",
           "say": "How close were you? What might have made the numbers differ? Tell me three things. What did you find? What did you see? Why?",
           "kid": "Compare the numbers. Why are they different?",
           "parent": "A good answer: the scale bar is a good guide, and the real walk is usually fairly close to the number worked out, often within about 10 to 15 per cent, though yours may differ. Reasons for a difference: the string does not follow every bend, the screen was small, steps change when you walk faster or slower, and the map shows a road that has turns. If the difference is big, check the measuring of the string.",
@@ -1536,7 +1536,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Put the eight things on the tray in a rough 6 by 5 pattern. Give each a name, such as school, shop or temple.",
+          "do": "Put the eight things on the tray, spread out as if the tray had 6 columns and 5 rows. Give each a name, such as school, shop or temple.",
           "say": "This tray is a town. Each thing is a building. Give each one a name. Which will be the school? Which the shop?",
           "kid": "Make a town on a tray. Name the buildings.",
           "context": "This is a starting activity for grid references. You make a small town and draw it on a grid."
@@ -1581,7 +1581,7 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "Move a building in the real town. Ask your child to say which square on the map has changed and what the new reference is.",
+          "do": "Move a building in the tabletop town. Ask your child to say which square on the map has changed and what the new reference is.",
           "say": "I moved the shop. Which square is now empty? Which square has the shop in it?",
           "kid": "I moved the shop. Which squares changed?",
           "think": "Why would a city need a grid in its map book?"
@@ -1658,7 +1658,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Walk to three of the places, close to home and within about 200 steps of each other, with a grown-up. Count your steps between each. Note the direction you walk, using the Sun or a compass. Write each in your notebook.",
+          "do": "With a grown-up, walk to three of the places. Choose places close to home and within about 200 steps of each other. Count your steps from one place to the next. Note the direction you walk, using the Sun or a compass. Write the steps and the direction in your notebook.",
           "say": "Walk to three places. Count your steps. Which way are you going? North, south, east or west?",
           "kid": "Walk to three places. Count steps. Note the direction.",
           "adult": true,
@@ -1767,7 +1767,7 @@
         {
           "id": "s2",
           "mins": 15,
-          "do": "Pour water slowly into the box until it reaches the 1 centimetre line. Put the lid on. Look straight down at the lid. Trace the edge of the water on the hill with the marker. Take the lid off, pour more water to 2 centimetres, and trace again. Repeat for 3 and 4 centimetres.",
+          "do": "Pour water slowly into the box until it reaches the 1 centimetre line. Put the lid on. Look straight down at the lid. On the lid, trace with the marker the line where the water meets the hill. Take the lid off, pour more water to 2 centimetres, and trace again. Repeat for 3 and 4 centimetres.",
           "say": "Add water to the first line. Look straight down and trace where the water meets the hill. Add more water. Trace again.",
           "kid": "Add water to each line. Trace the water's edge on the lid.",
           "parent": "Look straight down with one eye closed, or the line will be drawn in the wrong place. The rings are the contour lines of your hill. Each one joins places at the same height. With 2 to 4 children, one pours slowly, one checks the water at the line from the side, and one traces, and they swap at each level. The clay must stay firmly pressed or the water will creep underneath."
@@ -1934,7 +1934,7 @@
           "say": "Draw a map of your room. Hide five mistakes in it, and do not tell me which. I will draw one too.",
           "kid": "Draw a map with five hidden mistakes.",
           "parent": "Draw your own as well, so the child searches for yours. A mistake should be something a reader could notice by checking the map against the room.",
-          "context": "This is a game-like activity. You draw a map on purpose with five mistakes, and a friend must find them."
+          "context": "In this activity you draw a map with five mistakes put in on purpose, and someone else must find them."
         },
         {
           "id": "s2",
@@ -2187,7 +2187,7 @@
         {
           "id": "s5",
           "mins": 15,
-          "do": "Page 5. Zoom out again until the bar is about 1 centimetre long for about 5 kilometres, or as near as you can get. Trace the main roads, a river or a railway, and your home. Copy it onto your page and write the scale you measured.",
+          "do": "Page 5. Zoom out again until 1 centimetre on the screen is about 5 kilometres, or as near as you can get. Trace the main roads, a river or a railway, and your home. Copy it onto your page and write the scale you measured.",
           "say": "Page 5 is your city. 1 centimetre is 5 kilometres. Is your home still on the map? What does it look like now?",
           "kid": "Page 5: trace your city. 1 centimetre is 5 kilometres.",
           "check": {
@@ -2280,7 +2280,7 @@
           "kid": "Find the gate and the shop. Which way do you go?",
           "ask": [
             {
-              "q": "Why can't we say turn left, turn right?",
+              "q": "Why can't we say 'turn left' or 'turn right'?",
               "good": [
                 "It changes when the visitor turns.",
                 "The visitor may face another way.",
@@ -2294,7 +2294,7 @@
           "id": "s2",
           "mins": 15,
           "do": "Walk or trace the route with a grown-up. Count the steps in each part and note the landmarks. Write your first set of directions.",
-          "say": "Write the route. Walk 60 steps north. Turn east. Walk 100 steps. Name a landmark at each turn.",
+          "say": "Write the route like this: walk 60 steps north, turn east, walk 100 steps. Name a landmark at each turn.",
           "kid": "Write the route with compass directions and steps.",
           "parent": "Walk on the footpath and cross roads only at crossings. With 2 to 4 children, they walk together beside the grown-up and each writes their own directions. Check the directions with a compass. If you cannot walk it, use the map with its scale.",
           "adult": true
@@ -2352,7 +2352,7 @@
       "constraints": [
         "Use only things that can be felt, such as string, cloth, sand paper, bottle caps and clay.",
         "Show the walls, the door and at least three pieces of furniture.",
-        "Use a different texture for each kind of thing, and keep a key made of touch.",
+        "Use a different texture for each kind of thing, and make a key that can be read by touch.",
         "Keep the map the same shape as the room, with the same scale for all walls.",
         "Test the map with a friend or a grown-up wearing a blindfold."
       ],
@@ -2393,7 +2393,7 @@
               ]
             }
           ],
-          "context": "This is the first step of A Map to Touch challenge. You think about how a map can work with fingers instead of eyes."
+          "context": "This is the first step of the Map to Touch challenge. You think about how a map can work with fingers instead of eyes."
         },
         {
           "id": "s2",
@@ -2401,7 +2401,7 @@
           "do": "Measure the room by counting tiles or steps. Decide the scale. Glue the walls and door onto the cardboard. Add the furniture with bottle caps and textures.",
           "say": "Choose a scale, such as one cap-width for one tile. Glue the walls first. Then add the furniture.",
           "kid": "Glue the walls. Add the furniture.",
-          "parent": "Put the door gap in the right wall. Keep the scale the same for every wall so the shape is right."
+          "parent": "Put the door gap in the correct wall. Keep the scale the same for every wall so the shape is right."
         },
         {
           "id": "s3",
@@ -2420,7 +2420,7 @@
               "So the glue sticks better"
             ],
             "a": 0,
-            "why": "If one wall is drawn longer than it should be, the shape is wrong and a reader will walk to the wrong place. Touch maps need true distances just as seen maps do."
+            "why": "If one wall is drawn longer than it should be, the shape is wrong and a reader will walk to the wrong place. Touch maps need true distances just as ordinary maps do."
           },
           "context": "In this step your friend reads the map with their fingers."
         },
@@ -2703,15 +2703,15 @@
           "p": "Three people disagree about whether a satellite photograph can replace a map.",
           "views": [
             {
-              "who": "Divya, a trekker",
+              "who": "A trekker",
               "says": "A photograph shows everything. A map is just someone's choices."
             },
             {
-              "who": "Mohan, a bus driver",
+              "who": "A bus driver",
               "says": "I need a map that shows the route and the names, not the roofs of houses."
             },
             {
-              "who": "Dr Latha, a mapmaker",
+              "who": "A mapmaker",
               "says": "A good map team uses both. The photograph shows what is there and the map says what it means."
             }
           ],
@@ -2901,15 +2901,15 @@
           "p": "A child, a delivery rider and an older person each draw a map of the same street.",
           "views": [
             {
-              "who": "Kavya, aged 9",
+              "who": "A child, aged 9",
               "says": "My map shows the sweet shop, the park and the school. Those are the places I go."
             },
             {
-              "who": "Imran, a delivery rider",
+              "who": "A delivery rider",
               "says": "My map shows one-way lanes, bumps and where cars park. I need the fastest roads."
             },
             {
-              "who": "Mrs Radha, 78",
+              "who": "An older person, aged 78",
               "says": "My map shows benches, shade and where the road is flat. I walk slowly."
             }
           ],
@@ -2923,7 +2923,7 @@
           "p": "The Hidden Hills box and the sea floor are alike in one big way. Say what it is, and name one thing about the sea floor that the box does not have.",
           "lines": 4,
           "a": "In both, you can only measure along lines or at points and must reason about the gaps. A sea floor map has no lid you can lift to check, so nobody can look at the whole thing at once.",
-          "why": "A strong answer gives the likeness, measure and guess, and one honest difference, such as no lid or much greater size.",
+          "why": "A strong answer gives the likeness, which is measuring in some places and guessing the rest, and one real difference, such as no lid to lift or the much greater size.",
           "how": "e1",
           "outcome": 2
         },
@@ -3025,7 +3025,7 @@
         },
         {
           "t": "write",
-          "p": "Some people were kept out of the places where data was collected, yet still made discoveries from the numbers other people collected. How can a person find something new in other people's measurements?",
+          "p": "Marie Tharp did not go to sea on the ships that took the soundings, yet she found a valley in the sea floor from the numbers other people collected. How can a person find something new in other people's measurements?",
           "lines": 4,
           "a": "A person who looks very carefully at many measurements together can see a pattern that no single measurement shows. Drawing the numbers as a picture can show a shape that was always in the data.",
           "why": "There is no single answer. A strong answer says what the person does with the numbers, such as drawing them and looking for patterns.",
@@ -3170,7 +3170,7 @@
     },
     {
       "t": "mcq",
-      "p": "On a contour map, a set of rings inside rings with the smallest ring in the middle shows what?",
+      "p": "A contour map shows rings inside rings, with the smallest ring in the middle. What is it showing?",
       "opts": [
         "A hill, with its top in the middle",
         "A lake",
@@ -3331,7 +3331,7 @@
       "art": "A small concrete pillar with a brass plate at the side of a field, with a surveyor's tripod beyond."
     },
     {
-      "text": "A fishing boat with a small receiver and screen in a harbour, showing sea depths.",
+      "text": "A small receiver and screen on a fishing boat in a harbour, showing the depth of the sea.",
       "art": "A fishing boat at a harbour with a small screen in the cabin showing numbers for depth."
     },
     {
@@ -3361,7 +3361,7 @@
       "why_open": "A map as detailed as the place would be as large as the place. Mapmakers still argue about how to choose what to keep."
     },
     {
-      "q": "How can the places that were left off older maps, because nobody asked, be added back?",
+      "q": "Older maps left out some places because nobody asked the people who lived there. How can those places be added back?",
       "why_open": "Maps made by outsiders often left out the names and paths that local people knew. Projects that map with local people are still learning how to do it fairly."
     },
     {
@@ -3379,7 +3379,7 @@
     "How would you draw a hill on a flat piece of paper?",
     "What do you think is at the bottom of the deepest part of the sea?",
     "Why do you think the road to a hill temple zigzags?",
-    "If someone moved the furniture in your room, how would you find out your inner map was wrong?",
+    "If someone moved the furniture in your room, how would you find out that the map in your head was wrong?",
     "Who in our neighbourhood needs a map the most, and what would they want on it?"
   ],
   "jokes": [
@@ -3443,7 +3443,7 @@
       "context": "This is about how a ship measures the depth of the sea with sound."
     },
     {
-      "problem": "The lid of the Hidden Hills box is 30 centimetres by 20 centimetres. A map with holes every 5 centimetres needs 5 columns and 4 rows of holes. A map with holes every 2 centimetres needs 15 columns and 10 rows. How many holes is each? How many times more is the second?",
+      "problem": "The lid of the Hidden Hills box is 30 centimetres by 20 centimetres. A map with holes every 5 centimetres needs 5 columns and 4 rows of holes. A map with holes every 2 centimetres needs 15 columns and 10 rows. How many holes does each map need? How many times more holes does the second map need?",
       "answer": "20 holes and 150 holes. The second needs 7 and a half times as many.",
       "explain": "5 times 4 is 20. 15 times 10 is 150. 150 divided by 20 is 7 and a half. A finer map costs far more measurements, which is why mapmakers choose where to add them.",
       "math_unit": "math.multiplication.multiplication-facts.L4",
@@ -3478,7 +3478,7 @@
     {
       "problem": "On a grid with north at the top, you start at B2. You go 3 squares east and 2 squares south. Which square do you reach? If each square is 100 metres across, how far did you go in squares and metres?",
       "answer": "E4. 5 squares, which is 500 metres.",
-      "explain": "East moves the letter forward by 3, so B becomes E. South moves the number up by 2, so 2 becomes 4. You went 3 plus 2, which is 5 squares, and 5 times 100 is 500 metres.",
+      "explain": "East moves the letter forward by 3, so B becomes E. South makes the number bigger by 2, so 2 becomes 4. You went 3 plus 2, which is 5 squares, and 5 times 100 is 500 metres.",
       "math_unit": "math.position.directions-and-grids.L4",
       "why_maths": "Combining directions with a grid and a scale lets you give a place and a distance at the same time.",
       "how": "g1",
@@ -3494,8 +3494,8 @@
       "context": "This is about the Zoom-Out Atlas, where each page is ten times smaller than the one before."
     },
     {
-      "problem": "In the Hidden Hills test, round 1 with 6 holes found 1 of 3 features, round 2 with 20 holes found 2 of 3, and round 3 with 24 holes found all 3. How many holes were added between round 2 and round 3? Which round was best for the number of holes used for each feature found?",
-      "answer": "4 holes. Round 1 was best, with 6 holes for 1 feature.",
+      "problem": "In the Hidden Hills test, round 1 with 6 holes found 1 of 3 features, round 2 with 20 holes found 2 of 3, and round 3 with 24 holes found all 3. How many holes were added between round 2 and round 3? Which round used the fewest holes for each feature found?",
+      "answer": "4 holes. Round 1 used the fewest, with 6 holes for 1 feature.",
       "explain": "24 take away 20 is 4. Round 1 used 6 holes for 1 feature. Round 2 used 10 holes for each feature. Round 3 used 8 holes for each feature. But round 1 found only one feature, so the fewest holes did not give the most knowledge.",
       "math_unit": "math.data.bar-charts.L4",
       "why_maths": "Comparing holes with features found shows that the cheapest map is not always the best map.",

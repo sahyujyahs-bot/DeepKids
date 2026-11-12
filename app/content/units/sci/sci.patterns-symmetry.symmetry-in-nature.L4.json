@@ -3,12 +3,12 @@
  "title": "Symmetry in nature and art: moves that change nothing, and how nature breaks them",
  "level": 4,
  "summary": {
-  "text": "A square card fits back into its own outline in eight different ways, but a plain triangle cut at random fits in only one. Count the ways, and a shape's symmetry becomes a number. Your child counts the fits, builds border patterns from five moves, and finds that a left hand cannot be turned into a right hand. Then a straight strip, pushed equally from both ends, bends to one side anyway. Nature uses this to give a body a left and a right, and physics uses it to explain why energy is never lost. A chemistry puzzle remains open: life uses only left-handed building blocks, and nobody knows why.",
+  "text": "A square card fits back into its own outline in eight different ways, but a triangle with three different sides fits in only one. The number of ways tells you how symmetrical a shape is. Your child counts the fits, builds border patterns from five moves, and finds that a left hand cannot be turned into a right hand. Then a straight strip, pushed equally from both ends, bends to one side anyway. A body gets its left and its right in a similar way, from an even start. Symmetry in the laws of physics also explains why energy is never lost. A chemistry puzzle remains open: life uses only left-handed building blocks, and nobody knows why.",
   "art": "A square card sitting inside its outline on a table, with a straight card strip bowed to one side beside it and a left hand and a right hand placed palm to palm."
  },
  "intro": {
   "hook": "Hold up your left hand, then your right. They are the same size, with the same fingers in the same order. Now try to lay your left hand exactly on top of your right, both palms down. You cannot, however you turn it. What is different between two things that match in every measurement?",
-  "text": "In Class 3 you found lines of symmetry by folding and rotational symmetry by turning. Now we go one step deeper. A symmetry is any move that leaves a shape looking the same. You will count all the moves a shape allows, see why borders on sarees come in exactly seven kinds, and find out why hands, screws and shells have a handedness. Then you will push a strip and watch a perfectly even push make a lopsided bend.",
+  "text": "In Class 3 you found lines of symmetry by folding and rotational symmetry by turning. Now we go one step deeper. A symmetry is any move that leaves a shape looking the same. You will count all the moves a shape allows and see why borders on sarees come in exactly seven kinds. You will find out why hands, screws and shells are 'handed': each has a mirror twin that no turning can match. Then you will push a strip and watch a perfectly even push make a lopsided bend.",
   "art": "A left hand and a right hand drawn as paper cut-outs, one laid over the other, with the thumbs pointing in opposite directions."
  },
  "outcomes": [
@@ -49,7 +49,7 @@
   {
    "term": "Glide reflection",
    "meaning": "A flip and a slide done together. The shape is flipped over a line and slid along the line.",
-   "example": "Footprints in wet sand: the left footprint and the right footprint glide along the path.",
+   "example": "Footprints in wet sand: each footprint is the one before it, flipped and slid along the path.",
    "art": "Footprints on sand, left and right, alternating along a straight path with a dotted line down the middle."
   },
   {
@@ -156,7 +156,7 @@
    "concept": "Counting every way a shape fits back",
    "status": "defined",
    "definition": "The symmetry count of a shape is the number of different ways it can fit back into its own outline, counting the do-nothing move as one.",
-   "description": "Cut a square from card and trace around it. Now find every way to put it back in its outline. You can leave it, turn it a quarter, a half, three quarters, and you can flip it and turn it in the same ways. That is 4 turns and 4 flips, which makes 8. An equilateral triangle, with three equal sides, fits back in 6 ways. A rectangle that is not a square fits in 4. A triangle with three different sides fits in only 1, the do-nothing move. A regular shape with n equal sides always fits back in 2 times n ways: n turns and n flips. A circle fits back in endless ways. A shape with a higher symmetry count looks more regular.",
+   "description": "Cut a square from card and trace around it. Now find every way to put it back in its outline. You can leave it as it is, or turn it a quarter turn, a half turn or three quarters of a turn. That is 4 ways. Then flip it over and do the same four again. That is 4 turns and 4 flips, which makes 8. An equilateral triangle, with three equal sides, fits back in 6 ways. A rectangle that is not a square fits in 4. A triangle with three different sides fits in only 1, the do-nothing move. A regular shape with n equal sides always fits back in 2 times n ways: n turns and n flips. A circle fits back in endless ways. A shape with a higher symmetry count looks more regular.",
    "examples": [
     "Square: 8 ways.",
     "Equilateral triangle: 6 ways.",
@@ -170,7 +170,7 @@
    "concept": "Borders and floors: seven and seventeen",
    "status": "defined",
    "definition": "There are exactly seven different kinds of border pattern, and exactly seventeen different kinds of pattern that cover a flat floor.",
-   "description": "A border is a pattern that repeats along a line. You can build one from a single shape, such as the letter F, by repeating it with a slide, a glide, a flip over a line across the border, a flip over a line along the border, or a half turn. Mix these moves and you get exactly seven border patterns, and not an eighth. For a floor, the pattern repeats in two directions. Mathematicians showed there are exactly seventeen kinds. A Russian crystal scientist, Evgraf Fedorov, proved this in 1891, and the mathematician George Pólya found the same result again in 1924. Many designers in the world have used all kinds without knowing the count, and the count is a surprise: the possible patterns are not endless.",
+   "description": "A border is a pattern that repeats along a line. You can build one from a single shape, such as the letter F, by repeating it with a slide, a glide, a flip over a line across the border, a flip over a line along the border, or a half turn. Mix these moves and you get exactly seven border patterns, and not an eighth. For a floor, the pattern repeats in two directions, and there are exactly seventeen kinds. A Russian crystal scientist, Evgraf Fedorov, proved this in 1891, and the mathematician George Pólya found the same result again in 1924. Designers around the world have used every kind without knowing the count. The count is a surprise, because the possible patterns are not endless.",
    "examples": [
     "The row of mangoes on a Kanchipuram saree border: a slide.",
     "A border of leaves that point alternately up and down: a glide.",
@@ -189,13 +189,13 @@
     "Gloves, shoes and left and right hands.",
     "A jar lid or bolt: the thread winds one way.",
     "The tusk of a narwhal almost always spirals in one direction.",
-    "The letters F, R, G and S, which cannot be flipped onto themselves by turning."
+    "The letters F, R, G and S: no turning makes them match their mirror images."
    ],
    "perspectives": [],
    "art": "A left and a right hand cut-out, side by side, with the right one flipped over and now matching."
   },
   {
-   "concept": "Life uses one hand of many molecules",
+   "concept": "Life uses only one of the two forms of many molecules",
    "status": "debated",
    "description": "Many molecules come in a left-handed and a right-handed form, like gloves. Chemists can make both forms in the laboratory, in equal amounts. But the living world mostly uses just one. The amino acids that build proteins are almost all left-handed. Common sugars in living bodies are right-handed. The twist of the DNA double helix is right-handed. Nobody is sure why life ended up with one hand. This is one of the open puzzles in science.",
    "examples": [
@@ -206,15 +206,15 @@
    "perspectives": [
     {
      "who": "Chance",
-     "explanation": "Early on, a tiny random excess of one hand in some place got copied and grew until life used only that hand. It could just as easily have been the other."
+     "explanation": "Early on, by chance, some place had slightly more of one hand than the other. That small extra got copied and grew until life used only that hand. It could just as easily have been the other hand."
     },
     {
      "who": "A bias from physics",
-     "explanation": "Chien-Shiung Wu showed that one force inside atoms treats left and right differently. A few scientists think this nudged molecules a very little towards one hand. The effect is very small and not shown to be enough."
+     "explanation": "Chien-Shiung Wu showed that one force inside atoms treats left and right differently. A few scientists think this nudged molecules very slightly towards one hand. The effect is very small, and nobody has shown that it is enough."
     },
     {
      "who": "A bias from space",
-     "explanation": "Some meteorites, such as the one that fell near Murchison in Australia in 1969, hold amino acids, some of them reported with a slight excess of the left-handed form. The idea is that such rocks seeded the young Earth. Whether this is the cause is not known."
+     "explanation": "Some meteorites, such as the one that fell near Murchison in Australia in 1969, hold amino acids. Some reports say these have slightly more of the left-handed form. The idea is that such rocks seeded the young Earth. Whether this is the cause is not known."
     }
    ],
    "art": "Two molecule models that are mirror images of each other, like a pair of gloves, with one marked as used by life."
@@ -223,7 +223,7 @@
    "concept": "Symmetry breaking: an even start, a lopsided end",
    "status": "defined",
    "definition": "Symmetry breaking happens when a system that is perfectly even at the start ends up lopsided, and a tiny difference decides which way it goes.",
-   "description": "Stand a pencil on its sharp tip. It cannot stay up, and it falls. Before it falls, every direction is equal. After it falls, it points in one direction. Nothing pushed it harder from one side. A tiny draught, a speck on the table or a tiny wobble in the wood decided. In the same way, a thin straight ruler pushed equally from both ends buckles to the left or to the right. A tiny bend in the ruler or a tiny difference in your fingers decides which. Once it has gone one way, the symmetry is broken. A symmetric cause can have a lopsided result. The other way round, a very small difference can make a very big change in the shape of things. Physicists think the same idea shaped the early universe. They think the early universe was almost perfectly even, and tiny differences grew into stars and galaxies.",
+   "description": "Stand a pencil on its sharp tip. It cannot stay up, and it falls. Before it falls, every direction is equal. After it falls, it points in one direction. Nothing pushed it harder from one side. A tiny draught, a speck on the table or a tiny wobble in the wood decided. In the same way, a thin straight ruler pushed equally from both ends buckles to the left or to the right. A tiny bend in the ruler or a tiny difference in your fingers decides which. Once it has gone one way, the symmetry is broken. So an even cause can have a lopsided result, and a very small difference can make a very big change in the shape of things. Physicists think the same idea shaped the early universe. They think the early universe was almost perfectly even, and tiny differences grew into stars and galaxies.",
    "examples": [
     "A pencil balanced on its tip falls one way.",
     "A straight ruler buckles left or right.",
@@ -257,7 +257,7 @@
   {
    "concept": "Asymmetry that helps a living being",
    "status": "defined",
-   "definition": "Many living beings are not even on purpose: a lopsided part can give them a skill that an even body could not have.",
+   "definition": "Many living beings have a lopsided body for a good reason: a lopsided part can give them a skill that an even body could not have.",
    "description": "A flounder starts life as a baby that swims upright, with one eye on each side. As the baby grows, one eye slowly moves across the head to join the other. The adult lies on one side on the sea floor with both eyes looking up. A barn owl's ears sit at different heights on her head. A sound from above reaches one ear a tiny moment before the other, and she uses that to find a mouse she cannot see. A male fiddler crab grows one huge claw on one side, for fighting and for waving at females. Almost all narwhal tusks spiral the same way. A little unevenness is not a mistake in these cases. It is the way the body does a job.",
    "examples": [
     "A flounder with both eyes on the same side.",
@@ -272,7 +272,7 @@
    "concept": "Symmetry in the smallest things",
    "status": "defined",
    "definition": "Crystals, viruses and many small living things are built from many identical copies of one piece, and this makes them symmetrical.",
-   "description": "A grain of salt is a tiny cube because its particles stack in a cubic pattern that repeats in every direction. Ice makes hexagon patterns. Many viruses build their shell out of many copies of the same protein. Each copy fits into a spot among its neighbours, and the shell ends up as a 20-sided shape with 20 triangular faces. This saves the virus effort. A virus only has to carry the instructions for one small piece, and the copies join themselves. Tiny sea creatures called radiolarians make glassy skeletons with beautiful symmetry. In every case, building from identical copies makes symmetry almost automatic.",
+   "description": "A grain of salt is a tiny cube because its particles stack in a cubic pattern that repeats in every direction. Ice makes hexagon patterns. Many viruses build their shell out of many copies of the same protein. Each copy fits into a spot among its neighbours, and the shell ends up as a shape with 20 triangular faces. This saves the virus effort. A virus only has to carry the instructions for one small piece, and the copies join themselves. Tiny sea creatures called radiolarians make glassy skeletons with beautiful symmetry. In every case, building from identical copies makes symmetry almost automatic.",
    "examples": [
     "A grain of salt: a cube.",
     "A snow crystal: six arms.",
@@ -344,7 +344,7 @@
    "evidence": "Emmy Noether proved this in 1918. The conservation laws she explained have been tested many times."
   },
   {
-   "text": "Most bodies of animals that move forward are nearly even on the outside but not on the inside. Most people have their heart on the left.",
+   "text": "Most animals that move forward have bodies that are nearly even on the outside but not on the inside. Most people have their heart on the left.",
    "evidence": "Doctors see the position of organs in X-rays and scans. A small number of people have mirrored organs."
   }
  ],
@@ -394,7 +394,7 @@
   {
    "q": "Your left hand and right hand are the same in every measurement. In what way are they different?",
    "kind": "deep",
-   "hint": "Try to fit your hand outline on top of its twin. What must you do?"
+   "hint": "Trace your left hand, cut it out, and try to fit it on the outline of your right hand. What must you do to make it fit?"
   },
   {
    "q": "Why might life have chosen only left-handed amino acids?",
@@ -414,12 +414,12 @@
   {
    "q": "If everything in the universe were perfectly even, would anything have a place or a direction?",
    "kind": "deep",
-   "hint": "A line of identical bulbs along a wall. How would you tell one from another if they were truly identical?"
+   "hint": "Think of a line of identical bulbs along a wall. How would you tell one from another if they were truly identical?"
   },
   {
    "q": "Why do people everywhere make borders and patterns that repeat?",
    "kind": "big",
-   "hint": "Is it easier to make a repeat? Is it pleasing to the eye? Does a repeat tell a story like a rhythm?"
+   "hint": "Is it easier to make a repeat? Is it pleasing to the eye? Does a repeat feel like a rhythm?"
   },
   {
    "q": "Is it a mistake that your heart sits on the left, or is it how a good body is built?",
@@ -461,7 +461,7 @@
   "epiphany": "A thing and its mirror twin have the same parts, the same size and the same weight, yet no turning can make one into the other. A left-handed person needs a left-handed tool, not the same tool turned round.",
   "ask": [
    "Why could Ayesha not just turn the scissors round to cut with her left hand?",
-   "What would you need to see to tell that two things are mirror twins?",
+   "How could you check whether two things are mirror twins?",
    "What is something at home or at school that is built for right-handed people only?",
    "Think of three things that come in a left-handed and a right-handed form."
   ],
@@ -475,16 +475,16 @@
  "roots": {
   "context": "We have counted the moves that leave a shape unchanged, and we have seen that an even start can end lopsided. Now we ask what the pushed strip, the hands and the heart tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "You pushed a straight strip equally from both ends. It still bent to one side. A tiny hidden curve in the strip chose which side. A small difference can turn an even start into a lopsided end.",
-   "habit": "We think a lopsided result must have come from a lopsided cause of about the same size, so we hunt for the big thing that tipped it. In the strip test the push was even, and the tipping came from a difference too small to see.",
-   "evidence": "In the strip test, the push at both ends is equal. Card strips like this usually bend mostly one way when flattened, and a strip curled by a coin's thickness usually bends its curled way almost every time. If the strip is turned over, the bend should turn over with it. Only your own tally counts, so write your results down as they are."
+   "truth": "In the Pushed Strip experiment, you pushed a straight card strip equally from both ends. It still bent to one side. A tiny hidden curve in the strip chose which side. A small difference can turn an even start into a lopsided end.",
+   "habit": "We think a lopsided result must have come from a lopsided cause of about the same size, so we hunt for the big thing that tipped it. In the Pushed Strip experiment the push was even, and what tipped it was a difference too small to see.",
+   "evidence": "In the Pushed Strip experiment, the push at both ends is equal. A flattened card strip usually bends mostly one way. A strip curled by the thickness of a coin bends the way it is curled almost every time. If you turn the strip over, the bend should turn over with it. Your own tally is the evidence, so write your results down as they are."
   },
   "three": {
    "who_am_i": "You began as a ball of cells that looked almost the same on every side. Now your heart is on the left, and scientists think tiny spinning hairs in the early embryo started that difference.",
    "what_is_life": "The proteins in every living being are built from left-handed amino acids, and the DNA helix winds to the right. Life uses one hand, and nobody knows why.",
    "what_is_this_world": "In 1957 Chien-Shiung Wu showed that the weak force, one of the basic forces inside atoms, is not the same in a mirror. The world itself can tell left from right."
   },
-  "thread": "A pencil on its tip, a pushed strip, an early embryo and the early universe all begin even. Then one tiny difference grows, and a left and a right, a here and a there, appear. Physicists think the early universe was almost perfectly even, and tiny differences grew into stars and galaxies. That is an idea, and not yet settled. What is settled is that you can watch an even start become lopsided with a strip of card. The many shapes of the world come out of sameness through small breaks in it.",
+  "thread": "A pencil on its tip, a pushed strip, an early embryo and the early universe all begin even. Then one tiny difference grows, and the thing ends up with sides that are different from each other. Physicists think the early universe was almost perfectly even, and tiny differences grew into stars and galaxies. That is an idea, and not yet settled. What is settled is that you can watch an even start become lopsided with a strip of card. The many shapes of the world begin as something even, and small differences break that evenness.",
   "teachings": [
    {
     "source": "Tao Te Ching 42",
@@ -499,7 +499,7 @@
    {
     "source": "Aristotle, On the Heavens 2.13, reporting the thinker Anaximander",
     "teaching": "Anaximander is reported to have said that the Earth stays still because it is equally far from everything, so it has no reason to move one way rather than another.",
-    "link": "Anaximander used a symmetry argument. In the strip test, equal pushes did leave a decision to be made, and a tiny difference made it."
+    "link": "Anaximander argued from symmetry: with no reason to go one way, nothing moves. In the Pushed Strip experiment the pushes were equal, yet the strip still bent, because a tiny difference decided the side."
    }
   ],
   "science": [
@@ -518,16 +518,16 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Nothing chooses in symmetry breaking. The laws stay perfectly even, and each possible result is equally allowed. The strip bends because it has to go somewhere, and a tiny difference decides where. No deeper story is needed about sameness becoming many."
+   "view": "Nothing chooses in symmetry breaking. The laws stay perfectly even, and each possible result is equally allowed. The strip bends because it has to go somewhere, and a tiny difference decides where. There is no need for a bigger story about one even thing becoming many."
   },
   "practice": {
-   "title": "Even, then a lean",
+   "title": "Stand even, then notice the lean",
    "mins": 3,
-   "say": "Stand with your feet together near a wall. Close your eyes. Feel your weight on both feet. Breathe in slowly. Now breathe out and notice that you sway a tiny bit. Which way do you start to lean? Let the lean happen, and then come back to the middle. Do this three times. Does it lean the same way each time?",
+   "say": "Stand with your feet together near a wall. Close your eyes. Feel your weight on both feet. Breathe in slowly. Now breathe out and notice that you sway a tiny bit. Which way do you start to lean? Let the lean happen, and then come back to the middle. Do this three times. Do you lean the same way each time?",
    "kid": "Stand near a wall with your eyes closed. Feel both feet. Breathe slowly. Notice which way you start to lean."
   },
   "ask": [
-   "The strip was pushed evenly and still bent to one side. What decided which side?",
+   "In the Pushed Strip experiment, the strip was pushed evenly and still bent to one side. What decided which side?",
    "Your two hands are the same in every measurement, yet no turning makes one fit the other. Are they the same or different?",
    "If the early universe was perfectly even, what would it take for anything to be here at all?"
   ],
@@ -683,8 +683,8 @@
     "One player is the reader. The reader takes the top card and shows only the front. If a shape is hard to imagine, draw it quickly on scrap paper.",
     "Every other player chooses one number token and puts it face down. Think about turns first, and then flips.",
     "Everyone turns their tokens over together. Then the reader reads the back of the card aloud.",
-    "A player with the exact number scores 2 points. A player whose token is the next one along in the row of tokens scores 1 point.",
-    "The reader passes the cards to the next player to be the reader. Play until all 24 cards are used, or for 15 minutes.",
+    "A player with the exact number scores 2 points. A player whose number is one place away from the right one in the list 1, 2, 3, 4, 6, 8, 10, 12, 16, Endless scores 1 point.",
+    "The next player becomes the reader and takes the cards. Play until all 24 cards are used, or for 15 minutes.",
     "The player with the most points wins. A tie is a shared win.",
     "Playing alone: be the reader and the player. Choose your token, turn the card, and score yourself. Try to beat your own score next time."
    ],
@@ -728,16 +728,16 @@
        "good": [
         "The ways are double the sides.",
         "A triangle has 3 sides and 6 ways. A square has 4 sides and 8 ways.",
-        "Turns and flips are each as many as the sides."
+        "There are as many turns as sides, and as many flips as sides."
        ]
       }
      ],
-     "context": "In this step, you play ten more cards and look for a pattern in the numbers."
+     "context": "In this step, you play six more cards and look for a pattern in the numbers."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Play on from card 13 while time allows. Short of time? Jump to the letter F, the letter S, the fan and the hand. Talk about why their counts are low.",
+     "do": "Play on from card 13 while time allows. If you are short of time, jump to the letter F, the letter S, the fan and the hand. Talk about why their counts are low.",
      "say": "The letter F and the hand fit in only one way. The S fits in two. Why do these have so few ways?",
      "kid": "Look at the F, the S and the hand. Why do they have so few ways?",
      "ask": [
@@ -869,10 +869,10 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "A grown-up cuts the six shapes from the card. First, a square 6 centimetres on each side. Second, a rectangle 8 centimetres by 4 centimetres. Third, a second square cut along its diagonal into two triangles, and keep one. Fourth, a second rectangle cut along its diagonal, and keep one half. Fifth, a circle traced round the katori lid. Sixth, a triangle with three sides of 8 centimetres each.",
+     "do": "A grown-up cuts the six shapes from the card. First, a square 6 centimetres on each side. Second, a rectangle 8 centimetres by 4 centimetres. Third, cut a second square along its diagonal into two triangles, and keep one. Fourth, cut a second rectangle along its diagonal, and keep one half. Fifth, a circle traced round the katori lid. Sixth, a triangle with three sides of 8 centimetres each.",
      "say": "A grown-up cuts these shapes for us. The triangle has three equal sides. It is the one that needs care.",
      "kid": "Ask a grown-up to cut six shapes. Look at each one when it is ready.",
-     "parent": "For the triangle with equal sides, draw an 8 centimetre line. At each end, use the protractor to draw a 60 degree line upwards. They meet at the third corner. With no protractor, tie a thread to a pencil, hold the 8 centimetre end at one end of the line with a pin, and draw an arc. Repeat from the other end. The arcs cross at the third corner. The diagonal cuts of the square and the rectangle give a triangle with two equal sides and a triangle with all sides different.",
+     "parent": "For the triangle with equal sides, draw an 8 centimetre line. At each end, use the protractor to draw a 60 degree line upwards. The two lines meet at the third corner. With no protractor, tie a thread to a pencil. Pin the thread to one end of the line, 8 centimetres from the pencil, and draw an arc. Repeat from the other end. The arcs cross at the third corner. The diagonal cuts of the square and the rectangle give a triangle with two equal sides and a triangle with all sides different.",
      "context": "In this step, you make the six shapes from card."
     },
     {
@@ -901,7 +901,7 @@
      "do": "Put the square in its outline. Read the letters clockwise from the star and write them down. Turn the square a quarter turn. Write the new letters. Keep going until you have all the fits from turning. Then flip it over and do the same again.",
      "say": "Read the corner letters from the star, going clockwise. Turn it a quarter. Read again. How many different patterns do you find?",
      "kid": "Read the letters from the star. Turn the square. Read again. Then flip it.",
-     "parent": "The four turns give ABCD, DABC, CDAB and BCDA, in some order of reading. The flipped square gives four more, which read in the opposite order, such as ADCB. A pattern counts once. The letters on the star corner and the order show which is new.",
+     "parent": "The four turns give ABCD, DABC, CDAB and BCDA, in some order. The flipped square gives four more, which read in the opposite order, such as ADCB. Count each pattern only once. A pattern is new if a different letter sits at the star corner, or if the letters run in the opposite order.",
      "check": {
       "t": "mcq",
       "q": "You found 4 ways to fit the square by turning. You then flipped it over and found more. How many ways in all?",
@@ -911,7 +911,7 @@
        "16"
       ],
       "a": 1,
-      "why": "Each of the 4 turns can be done with the front up or with the back up. That makes 4 times 2, which is 8. Only 4 would mean forgetting the flips."
+      "why": "Each of the 4 turns can be done with the front up or with the back up. That makes 4 times 2, which is 8. The answer 4 forgets the flips."
      },
      "context": "In this step, you find all the ways the square fits back and write the letter patterns."
     },
@@ -925,19 +925,19 @@
       {
        "q": "Which shape surprised you?",
        "good": [
-        "The scalene triangle, which fits in only one way.",
-        "The circle, which has no end.",
+        "The triangle with three different sides, which fits in only one way.",
+        "The circle, because its count is endless.",
         "The rectangle, which has fewer than the square."
        ]
       }
      ],
-     "parent": "Expect: square 8, rectangle 4, equal-sided triangle 6, triangle with two equal sides 2, triangle with three different sides 1, circle endless. If a count is odd, check for a letter pattern counted twice, or a shape that did not fit properly. The triangle with three different sides has only the start pattern. With 2 to 4 children: one child turns and flips, one reads the letters from the star, and one writes them down. Swap roles for each shape. Each pair or group needs only one set of shapes, but a second child can cut a spare square to check the count on their own.",
+     "parent": "Expect: square 8, rectangle 4, equal-sided triangle 6, triangle with two equal sides 2, triangle with three different sides 1, circle endless. If a count looks wrong, check for a letter pattern counted twice, or a shape that did not fit properly. The triangle with three different sides has only the start pattern. With 2 to 4 children: one child turns and flips, one reads the letters from the star, and one writes them down. Swap roles for each shape. Each pair or group needs only one set of shapes, but a second child can cut a spare square to check the count on their own.",
      "context": "In this step, you find the fits for the other five shapes."
     },
     {
      "id": "s6",
      "mins": 5,
-     "do": "Look at the table. Ask your child for a claim, the evidence and the reason. Ask them to look at the square and the triangle with three equal sides.",
+     "do": "Look at the table. Ask your child what they found, which numbers show it, and why they think it happens. Ask them to look at the square and the triangle with three equal sides.",
      "say": "What did you find? What did you see in the numbers? Why do you think the count is the way it is? Look at the equal-sided shapes. What is the link between sides and ways?",
      "kid": "What did you find? What numbers show it? Why does it happen?",
      "ask": [
@@ -1050,8 +1050,8 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Cut the three strips (a grown-up helps younger children with the scissors). Mark a dot in the middle of one face of each strip. Write A, B and C at one end. Flatten strip A by rubbing it along the edge of the table in both directions until it lies flat. Curl strip B over the pencil with the dot on the inside. Curl strip C the other way.",
-     "say": "Strip A is flat. Strip B is curled towards the dot. Strip C is curled away from the dot. Lay each on the table. A curl the thickness of a coin at the ends is enough.",
+     "do": "Cut the three strips (a grown-up helps younger children with the scissors). Mark a dot in the middle of one face of each strip. Write A at one end of the first strip, B on the second and C on the third. Flatten strip A by rubbing it along the edge of the table in both directions until it lies flat. Curl strip B over the pencil with the dot on the inside. Curl strip C the other way.",
+     "say": "Strip A is flat. Strip B is curled towards the dot. Strip C is curled away from the dot. Lay each strip on the table. The ends should lift only about the thickness of a coin.",
      "kid": "Cut three strips and mark a dot. Flatten A. Curl B and C gently.",
      "parent": "A gentle curl is enough. Lay the strip on the table. Its ends should lift about the thickness of a one-rupee coin. If the strip creases, throw it away and cut a new one. A crease is a sharp fold and spoils the test.",
      "context": "In this step, you make the three strips. One is flattened and two are curled in opposite ways."
@@ -1100,7 +1100,7 @@
        "The dot is heavy"
       ],
       "a": 0,
-      "why": "The strip has a hidden curve, and the push makes it bend more along that curve. If your left hand were deciding, strip C would bend the same way as strip B. The dot is just a pen mark and has almost no weight."
+      "why": "Strip B has a curl, and the push makes it bend more along that curl. If your left hand were deciding, strip C would bend the same way as strip B. The dot is just a pen mark and has almost no weight."
      },
      "context": "In this step, you test the two curled strips ten times each."
     },
@@ -1114,7 +1114,7 @@
       {
        "q": "When you turned strip A over, did it bend the same way as before?",
        "good": [
-        "No, it flipped to the other way.",
+        "No, it bent the other way.",
         "Yes, it still goes towards me."
        ]
       }
@@ -1125,7 +1125,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Look at the table. Ask your child for a claim, the evidence and the reason. Then ask the question below.",
+     "do": "Look at the table. Ask your child what they found, which numbers show it, and why they think it happened. Then ask the question below.",
      "say": "What did you find? What numbers show it? Why do you think a perfectly even push gave a lopsided bend? What decided which way?",
      "kid": "What did you find? What numbers show it? What decided the bend?",
      "ask": [
@@ -1138,7 +1138,7 @@
        ]
       }
      ],
-     "parent": "A strong answer uses the numbers: strip A mostly went one way, B and C went opposite ways every time, and turning A over changed its direction. The reasoning is that an even push has no side to favour, so a tiny difference in the strip does. Scientists call this symmetry breaking. Some other words children use are fine.",
+     "parent": "A strong answer uses the numbers: strip A mostly went one way, B and C went opposite ways every time, and turning A over changed its direction. The reasoning is that an even push has no side to favour, so a tiny difference in the strip does. Scientists call this symmetry breaking. Your child can use other words for it.",
      "check": {
       "t": "mcq",
       "q": "You push a flat strip evenly from both ends and it bows towards the dot 8 times out of 10. What is the most likely reason?",
@@ -1254,8 +1254,8 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Stick the five borders in a column. Write the move beside each one. Ask your child which two borders look most alike and which move differs.",
-     "say": "Put your borders in a column. Write the name of the move next to each. Which two look most alike? Which move is different?",
+     "do": "Stick the five borders in a column. Write the move beside each one. Ask your child which two borders look most alike, and what is different about them.",
+     "say": "Put your borders in a column. Write the name of the move next to each. Which two look most alike? What is different about them?",
      "kid": "Put your five borders in a column. Name the move for each.",
      "ask": [
       {
@@ -1272,7 +1272,7 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Look at a saree border, a bedsheet, a temple picture or a floor tile edge. For each, find the repeating unit. Decide which move takes one unit to the next.",
+     "do": "Look at a saree border, a bedsheet, a temple picture or a floor tile edge. For each, find the shape that repeats. That shape is one unit. Decide which move takes one unit to the next.",
      "say": "Find a real border. What is the shape that repeats? Does it slide, flip, turn or glide? Try covering all but two units with your hand to see.",
      "kid": "Find a real border. What repeats? Is it a slide, a flip, a turn or a glide?",
      "ask": [
@@ -1349,7 +1349,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Draw four angles on the sheet, with the same corner point. Use 120, 90, 60 and 45 degrees. Ask your child to guess how many objects they will see at each angle.",
+     "do": "Draw four angles on the sheet, all starting from the same corner point. Use 120, 90, 60 and 45 degrees. Ask your child to guess how many objects they will see at each angle.",
      "say": "We will put one small object between two mirrors. How many objects will you see in all, counting the real one? Guess for 90 degrees, then 60, then 45. Why do you think so?",
      "kid": "Guess how many objects you will see between two mirrors. Why?",
      "ask": [
@@ -1430,14 +1430,14 @@
        ]
       }
      ],
-     "parent": "Parallel mirrors give a long row of copies, each one a little fainter and smaller, that seem to go on for ever. This is like the angle being zero, which gives an endless count.",
+     "parent": "Mirrors that face each other give a long row of copies, each one a little fainter and smaller, that seem to go on for ever. This is like the angle being zero, which gives an endless count.",
      "context": "In this step, you place the mirrors face to face and see an endless row."
     },
     {
      "id": "s6",
      "mins": 2,
-     "do": "Ask your child to link the result to the order of rotational symmetry from Class 3.",
-     "say": "The objects you saw formed a pattern that matches itself when turned. What was its order of rotational symmetry at 60 degrees?",
+     "do": "Ask your child to link the result to rotational symmetry from Class 3. The order of rotational symmetry is how many times a pattern matches itself in one full turn.",
+     "say": "The objects you saw formed a pattern that matches itself when turned. At 60 degrees, how many times does the pattern match itself in one full turn? That number is its order of rotational symmetry.",
      "kid": "At 60 degrees, how often does the pattern match in a full turn?",
      "check": {
       "t": "mcq",
@@ -1578,7 +1578,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Look at a snail shell or a picture of one. Hold it with the tip pointing up and the opening facing you. Do the coils wind to the right or to the left? Look at a hair whorl on the back of the head of a family member. Is it clockwise or anticlockwise? Ask five people and write the numbers.",
+     "do": "Look at a snail shell or a picture of one. Hold it with the tip pointing up and the opening facing you. Do the coils wind to the right or to the left? Then look at the swirl of hair at the back of a family member's head. Is it clockwise or anticlockwise? Ask five people and write the numbers.",
      "say": "Look at the shell with the tip up and the opening facing you. Which way do the coils go? Now look at the swirl of hair at the back of someone's head. Which way does it spin?",
      "kid": "Look at a shell and hair swirls. Which way do they wind?",
      "ask": [
@@ -1670,7 +1670,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Cut a curvy piece from the middle of the top side of the square. Do not cut it off the tile completely at the corners. Slide the piece straight down to the bottom side. Tape it there, with the cut edge outwards. Do the same with a piece from the left side to the right side.",
+     "do": "Cut a curvy piece from the middle of the top side of the square. Leave the corners of the square uncut. Slide the piece straight down to the bottom side. Tape it there, with the cut edge outwards. Then cut a piece from the left side, slide it straight across and tape it to the right side.",
      "say": "Cut a curvy piece from the top. Slide it straight down without turning it. Tape it to the bottom. Now do the same from the left to the right.",
      "kid": "Cut a bump from the top. Slide it to the bottom. Tape it. Do it from the left to the right.",
      "parent": "The piece must slide without turning or flipping. Keep its curved edge matching the edge it was cut from. Keep the bump and dent shapes simple. Too many wiggles make the tracing hard.",
@@ -1711,7 +1711,7 @@
        ]
       }
      ],
-     "parent": "The artist M. C. Escher became famous for making tilings of birds, fish and lizards from tiles like this. He worked on many of them with simple shapes cut and slid in the same way.",
+     "parent": "The artist M. C. Escher became famous for making tilings of birds, fish and lizards from tiles like this. He made many of them from simple shapes, cut and slid in the same way.",
      "context": "In this step, you turn the tiles into creatures."
     },
     {
@@ -1809,7 +1809,7 @@
      "say": "Find three things with a line of symmetry. Draw them and add the dotted line. Find one thing with none. How do you test it?",
      "kid": "Find three things with a mirror line. Draw each one. Add the line.",
      "context": "This is day 1 of the Symmetry Notebook. You find mirror lines.",
-     "parent": "Each child keeps their own notebook. With 2 to 4 children, compare finds at the end of each day. Never touch live animals or pick up sharp tools while hunting. Look and draw only."
+     "parent": "Each child keeps their own notebook. With 2 to 4 children, compare finds at the end of each day. Never touch live animals or pick up sharp tools while searching. Look and draw only."
     },
     {
      "id": "s2",
@@ -1832,7 +1832,7 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "On day 4, find something lopsided on purpose. A heart, a spiral shell, a picture of a crab claw, or a pair of scissors all work. Look, do not pick up live animals or sharp tools. Write how the lopsided part helps. Read all four pages to someone.",
+     "do": "On day 4, find something lopsided on purpose. A heart, a spiral shell, a picture of a crab claw, or a pair of scissors all work. Only look: do not pick up live animals or sharp tools. Write how the lopsided part helps. Read all four pages to someone.",
      "say": "Find something lopsided that has a good reason to be lopsided. What does the lopsided part do? Read your pages aloud.",
      "kid": "Find something lopsided on purpose. Why is it lopsided? Read your pages aloud.",
      "wait": "Next day",
@@ -1940,7 +1940,7 @@
        "2"
       ],
       "a": 0,
-      "why": "The third turns are 3 symmetries, counting the do-nothing move. A flip changes the badge, so there are no flip symmetries to add. A badge with mirror lines as well would have 6."
+      "why": "Turning by a third, by two thirds and not at all gives 3 symmetries. A flip changes the badge, so there are no flip symmetries to add. A badge with mirror lines as well would have 6."
      },
      "context": "In this step, you test your badges by tracing, turning and flipping."
     },
@@ -1948,7 +1948,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Make a badge for a number from 4 to 8 chosen by a friend. Show it to them without the number and ask them to count the symmetries.",
-     "say": "Choose a number from four to eight for a friend. Make a badge with that many symmetries. Can they count the symmetries and find the number?",
+     "say": "Ask a friend to choose a number from four to eight. Make a badge with that many symmetries. Show it without the number. Can your friend count the symmetries and find the number?",
      "kid": "Make a badge for a number you are given. Can a friend count its symmetries?",
      "ask": [
       {
@@ -2276,7 +2276,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort each body part by whether an even or a lopsided body helps.",
+     "p": "Sort each body part: does it help because it is lopsided, or because it is an even pair?",
      "cats": [
       "The lopsided part helps",
       "The even pair helps"
@@ -2412,11 +2412,11 @@
      "p": "Two friends test a flattened card strip and it bends the same way 9 times out of 10.",
      "views": [
       {
-       "who": "Nisha, aged 9",
+       "who": "The first friend",
        "says": "The strip bent that way because my left hand pushes harder than my right hand."
       },
       {
-       "who": "Tara, aged 9",
+       "who": "The second friend",
        "says": "The strip bent that way because the card has a tiny hidden curve that favours one side."
       }
      ],
@@ -2633,7 +2633,7 @@
      "t": "write",
      "p": "The thinker Anaximander is reported to have said the Earth stays still because it is equally far from everything, so it has no reason to move one way rather than another. Using what you found with the pushed strip, say what is missing from his argument.",
      "lines": 5,
-     "a": "In the strip test, equal pushes still gave a bend, because a tiny difference made one side win. A perfectly even situation can still end up lopsided, so an argument that there is no reason to move may not show that nothing moves.",
+     "a": "In the strip test, equal pushes still gave a bend, because a tiny difference made one side win. A perfectly even situation can still end up lopsided, so 'there is no reason to move' does not prove that nothing moves.",
      "why": "A strong answer uses the strip test as evidence: an even situation can still be tipped by a tiny difference, so 'no reason to move' is not the same as 'will not move'.",
      "outcome": 4
     },
@@ -2762,7 +2762,7 @@
    "t": "mcq",
    "p": "Why might a barn owl benefit from having her ears at different heights?",
    "opts": [
-    "She can tell how high a sound is from the small difference in when it reaches each ear",
+    "She can tell how high up a sound comes from, using the small difference in when it reaches each ear",
     "She hears less noise",
     "It makes her look fierce",
     "It is only an accident of growing"
@@ -2997,7 +2997,7 @@
    "why_maths": "Dividing 360 by the number of copies you want gives the angle, and factors show which angles are easy to set."
   },
   {
-   "problem": "Tara pushed strip A ten times. It bent towards her 7 times and away 3 times. Strip C bent away 10 times. What fraction of strip A's tries bent towards her? What percentage is that?",
+   "problem": "You push strip A ten times. It bends towards you 7 times and away 3 times. Strip C bends away 10 times. What fraction of strip A's tries bent towards you? What percentage is that?",
    "answer": "7 out of 10, which is 70 percent.",
    "explain": "The fraction is 7 over 10. As a percentage, 7 tenths is 70 per hundred, so 70 percent. Strip C is 0 towards and 10 away, so 100 percent away.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -3006,8 +3006,8 @@
    "why_maths": "A fraction or a percentage turns a tally into a number you can compare between strips."
   },
   {
-   "problem": "Maha tossed a fair coin 10 times and got 7 heads. Does this show the coin is unfair? How could she find out?",
-   "answer": "No, not by itself. 7 heads in 10 tosses is quite common with a fair coin. She could toss it 100 times and see whether the heads stay near half.",
+   "problem": "A fair coin is tossed 10 times and lands heads 7 times. Does this show the coin is unfair? How could you find out?",
+   "answer": "No, not by itself. 7 heads in 10 tosses is quite common with a fair coin. You could toss it 100 times and see whether the heads stay near half.",
    "explain": "A fair coin often gives 6, 7 or 4 heads in 10 tosses. A small number of tries is too few to be sure. With 100 tosses, a fair coin gives heads close to 50 times. The same applies to the strip: 7 out of 10 could be chance, but 10 out of 10 on many tries is not.",
    "math_unit": "math.probability.experiments.L4",
    "how": "e2",
@@ -3124,7 +3124,7 @@
   },
   {
    "q": "What does handed mean?",
-   "a": "Its mirror twin cannot be turned to match it."
+   "a": "A thing is handed if its mirror twin cannot be turned to match it."
   },
   {
    "q": "Name something that is handed.",

@@ -130,7 +130,7 @@
    "concept": "Why plants make strong chemicals",
    "status": "defined",
    "definition": "Plants cannot run away from an insect, a goat or a mould. So many plants make chemicals that are bitter, smelly, hot or sticky. These defence chemicals keep many attackers away.",
-   "description": "An animal that is being chased can run. A plant stays where their seed landed. So plants protect themselves in other ways, and chemistry is one of the biggest. Many plants keep defence chemicals in their leaves, bark, buds, seeds or roots all the time. Many plants also sense when they are being chewed and make more defence chemicals within hours. A tomato plant bitten by a caterpillar sends signals to their other leaves, and those leaves get ready too. Some plants even give off a smell that nearby plants pick up. Plants sense, remember and decide. Some scientists call these automatic responses, built up over millions of years of evolution. Scientists have found many thousands of these chemicals, and new ones are found every year.",
+   "description": "An animal that is being chased can run. A plant stays where their seed landed. So plants protect themselves in other ways, and chemistry is one of the biggest. Many plants keep defence chemicals in their leaves, bark, buds, seeds or roots all the time. Many plants also sense when they are being chewed and make more defence chemicals within hours. A tomato plant bitten by a caterpillar sends signals to their other leaves, and those leaves get ready too. Some plants even give off a smell that nearby plants pick up. Plants sense, remember and decide. Some scientists say these are automatic responses, built up over millions of years of evolution. Scientists have found many thousands of these chemicals, and new ones are found every year.",
    "examples": [
     "Neem leaves and seeds hold azadirachtin. Insects who eat it stop feeding, and young insects cannot grow into adults properly.",
     "A clove bud is packed with eugenol, which has a strong smell and stops many moulds growing.",
@@ -169,7 +169,7 @@
    "concept": "The chilli and the birds",
    "status": "defined",
    "definition": "Capsaicin, the chemical that makes chilli hot, burns the mouths of mammals like us. Birds feel no burn at all.",
-   "description": "A chilli plant's seeds grow best when they are carried far away. A mouse or a squirrel chews chilli seeds and crushes them, so those seeds never grow. A bird swallows the seeds whole, flies off and drops them somewhere new, still able to sprout. In 2001, two American scientists, Joshua Tewksbury and Gary Nabhan, showed that wild chillies are eaten by birds but avoided by rodents. So capsaicin works like a door that is shut to seed-crushers and open to seed-carriers. Chillies first grew in the Americas. Portuguese traders brought them to India about 500 years ago. Before that, Indian cooks made food hot with black pepper and long pepper, which are native to India.",
+   "description": "A chilli plant's seeds grow best when they are carried far away. A mouse or a squirrel chews chilli seeds and crushes them, so those seeds never grow. A bird swallows the seeds whole, flies off and drops them somewhere new, where they can still sprout. In 2001, two American scientists, Joshua Tewksbury and Gary Nabhan, showed that wild chillies are eaten by birds but avoided by rodents. So capsaicin keeps away the animals who crush the seeds, and lets in the birds who carry them. Chillies first grew in the Americas. Portuguese traders brought them to India about 500 years ago. Before that, Indian cooks made food hot with black pepper and long pepper, which are native to India.",
    "examples": [
     "A bulbul or a myna can peck at a ripe red chilli without any trouble.",
     "Before chillies came, food in Kerala and Tamil Nadu was made hot with black pepper.",
@@ -195,7 +195,7 @@
    "concept": "How scientists test an old remedy",
    "status": "defined",
    "definition": "To find out whether a remedy really works, scientists compare two groups that are the same in every way except the remedy. One group gets the remedy and the other, the control group, does not.",
-   "description": "Many illnesses, like a cold, get better on their own. So if you drink kadha and feel better in five days, you cannot tell whether the kadha helped. A fair trial needs two groups of people, as alike as possible. One group gets the remedy. The control group gets a placebo, something that looks and tastes the same but should do nothing. Nobody in the trial knows which group they are in, and often the doctors do not know either. This is called a blind trial. The trial needs many people, because one person's result can be luck. Scientists first test a plant in the laboratory, as you did with the potato squares. Only if it looks useful and safe do they test it in people. One of the first fair trials was in 1747, when a Scottish ship's doctor, James Lind, gave 12 sailors with scurvy six different remedies. The two who ate oranges and lemons got better fastest.",
+   "description": "Many illnesses, like a cold, get better on their own. So if you drink kadha and feel better in five days, you cannot tell whether the kadha helped. A fair trial needs two groups of people, as alike as possible. One group gets the remedy. The control group gets a placebo, something that looks and tastes the same but should do nothing. Nobody in the trial knows which group they are in, and often the doctors do not know either. This is called a blind trial. The trial needs many people, because one person's result can be luck. Scientists first test a plant in the laboratory, as you did with the potato squares in Spice Guard. Only if the plant looks useful and safe do they test it in people. One of the first fair trials was in 1747, when a Scottish ship's doctor, James Lind, gave 12 sailors with scurvy six different remedies. The two who ate oranges and lemons got better fastest.",
    "examples": [
     "Spice Guard is a laboratory test. The test shows a chemical can stop mould on food, not that the chemical cures anyone.",
     "Many trials compare the remedy with a placebo, because people often feel better just from being cared for.",
@@ -380,7 +380,7 @@
    "evidence": "The Botanical Survey of India has listed plants from every region. Repeated surveys show some, like red sanders, disappearing from places where they once grew."
   },
   {
-   "text": "Pot plants need roots with both water and air, and cuttings with a node can grow into new plants.",
+   "text": "The roots of a pot plant need both water and air, and a cutting with a node can grow into a new plant.",
    "evidence": "Gardeners and scientists have seen roots rot in waterlogged soil many times. Cuttings with a node grow roots, while pieces without a node do not."
   }
  ],
@@ -423,7 +423,7 @@
  ],
  "big_questions": [
   {
-   "q": "If a clove makes eugenol to protect themselves, is it fair for us to take it?",
+   "q": "A clove tree makes eugenol, a strong-smelling chemical, to protect their buds. Is it fair for us to take it?",
    "kind": "big",
    "hint": "Think about whether the clove tree loses anything when people pick the buds. Then think about what people give back by planting clove trees."
   },
@@ -521,9 +521,9 @@
  "roots": {
   "context": "We have tested whether haldi and clove stop mould, and learned how plants protect themselves. Now we ask what this tells us about plants, medicines and ourselves.",
   "deep_truth": {
-   "truth": "In the Spice Guard test, mould spread over the plain potato but stayed off the clove-covered piece. The rice flour did not protect the potato, so a powder alone was not the shield. A clove is a flower bud, and the clove's strong chemical guards the bud from moulds and insects. So many plant medicines are a plant's own defence, which people learned to borrow.",
+   "truth": "In the Spice Guard test, mould spread over the plain potato but stayed off the clove-covered piece. The rice flour did not protect the potato, so a powder alone was not the shield. A clove is a flower bud, and the clove's strong chemical guards the bud from moulds and insects. This is why many plant medicines are a plant's own defence, which people learned to borrow.",
    "habit": "We think of medicines and spices as things made for people. But the clove's smell, the neem's bitterness and the chilli's heat were the plants' own protection, long before anyone cooked or healed with them.",
-   "evidence": "In Spice Guard, the plain potato square and the rice flour square grew mould within a few days. The clove square stayed clean or nearly clean. The plain rice flour was the same kind of dry powder, so the protection came from the clove's chemical, eugenol. If your own squares gave different numbers, write them down as they are and test again."
+   "evidence": "In Spice Guard, the plain potato square and the rice flour square grew mould within a few days. The clove square stayed clean or nearly clean. Rice flour is a dry powder like clove powder, but it did not stop the mould. So the protection came from the clove's chemical, eugenol. If your own squares gave different numbers, write them down as they are and test again."
   },
   "three": {
    "who_am_i": "Your body makes its own defences too: tears, stomach acid and white blood cells fight germs. You and the clove both protect yourselves with chemistry.",
@@ -535,7 +535,7 @@
    {
     "source": "Charaka Samhita, Sutrasthana 26.12",
     "teaching": "There is no substance in the world that cannot be a medicine, if it is used in the right way and for the right purpose.",
-    "link": "In Spice Guard, clove powder stopped mould on food. A drop of clove oil can ease a toothache. But the same oil swallowed by a child can harm badly. Use and dose decide."
+    "link": "In Spice Guard, clove powder stopped mould on food. A drop of clove oil can ease a toothache. But the same oil swallowed by a child can harm badly. How a plant chemical is used, and how much, decide whether it helps or harms."
    },
    {
     "source": "Acharanga Sutra, Book 1, Lecture 1, Lesson 5 (Jain)",
@@ -565,11 +565,11 @@
   "practice": {
    "title": "Smell a clove slowly",
    "mins": 3,
-   "say": "Hold one clove in your palm. Look at the little ball at the top. That ball is a flower that never opened. Roll the clove slowly between your fingers. Bring your fingers to your nose and breathe in, slowly, three times. This smell is the clove bud's protection, reaching you across the room. Now breathe out slowly. Think of the clove tree in Kerala or the Nilgiris who grew this bud.",
+   "say": "Hold one clove in your palm. Look at the little ball at the top. That ball is a flower that never opened. Roll the clove slowly between your fingers. Bring your fingers to your nose and breathe in, slowly, three times. This smell is the clove bud's protection. Now breathe out slowly. Think of the clove tree in Kerala or the Nilgiris who grew this bud.",
    "kid": "Hold a clove. Roll it slowly in your fingers. Smell your fingers. Breathe in three times, slowly. This smell kept the bud safe."
   },
   "ask": [
-   "If the clove's smell is the clove's protection, is it still the clove's when we use it?",
+   "The smell is the clove's own protection. When we use it, does it still belong to the clove?",
    "A plant makes medicine without knowing about us. Does that make the medicine less of a gift, or more?",
    "Who taught the first person that a clove helps a toothache?"
   ],
@@ -581,7 +581,7 @@
    "title": "Plant Shields: a pairs game",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a memory card game. You match each plant to the shield they use to protect themselves, and to what people use them for.",
+   "context": "This is a memory card game. You match each plant to the shield they use to protect themselves, and to what people use that shield for.",
    "setup": [
     {
      "art": "Twenty-four cards laid face down in a 4 by 6 grid on a mat.",
@@ -610,7 +610,7 @@
        }
       },
       {
-       "f": "Shield of neem: A bitter chemical, azadirachtin. Insects who eat it stop feeding, and young insects cannot grow up. People: dry leaves in rice and dal tins.",
+       "f": "Shield of neem: A bitter chemical, azadirachtin. Insects who eat it stop feeding, and young insects cannot grow up. People put dry neem leaves in rice and dal tins.",
        "b": "Shield"
       },
       {
@@ -618,7 +618,7 @@
        "b": "Plant"
       },
       {
-       "f": "Shield of clove: Eugenol, with a strong smell, stops many moulds and germs. People: clove oil for toothache, and some dental fillings.",
+       "f": "Shield of clove: Eugenol, with a strong smell, stops many moulds and germs. People use clove oil for toothache, and eugenol in some dental fillings.",
        "b": "Shield"
       },
       {
@@ -630,7 +630,7 @@
        }
       },
       {
-       "f": "Shield of turmeric: Yellow curcumin and other chemicals that slow some moulds and germs in the laboratory. People: colour for food and cloth.",
+       "f": "Shield of turmeric: Yellow curcumin and other chemicals that slow some moulds and germs in the laboratory. People use turmeric to colour food and cloth.",
        "b": "Shield"
       },
       {
@@ -642,7 +642,7 @@
        }
       },
       {
-       "f": "Shield of chilli: Capsaicin burns the mouths of mammals who crush the seeds. Birds feel no burn and spread the seeds. People: spice and some pain creams.",
+       "f": "Shield of chilli: Capsaicin burns the mouths of mammals who crush the seeds. Birds feel no burn and spread the seeds. People use chilli as a spice and capsaicin in some pain creams.",
        "b": "Shield"
       },
       {
@@ -654,7 +654,7 @@
        }
       },
       {
-       "f": "Shield of tulsi: Eugenol and other strong-smelling oils that many leaf-eaters avoid. People: kadha and tea.",
+       "f": "Shield of tulsi: Eugenol and other strong-smelling oils that many leaf-eaters avoid. People make kadha and tea with tulsi leaves.",
        "b": "Shield"
       },
       {
@@ -666,7 +666,7 @@
        }
       },
       {
-       "f": "Shield of sarpagandha: Bitter chemicals called alkaloids, which many animals avoid. People: reserpine, an early medicine for high blood pressure.",
+       "f": "Shield of sarpagandha: Bitter chemicals called alkaloids, which many animals avoid. People got reserpine from the root, an early medicine for high blood pressure.",
        "b": "Shield"
       },
       {
@@ -674,7 +674,7 @@
        "b": "Plant"
       },
       {
-       "f": "Shield of garlic: When crushed, makes allicin in seconds, which harms many germs. People: food, and studied as a germ-fighter.",
+       "f": "Shield of garlic: When garlic is crushed, it makes a chemical called allicin in seconds. Allicin harms many germs. People eat garlic, and scientists study it as a germ-fighter.",
        "b": "Shield"
       },
       {
@@ -686,7 +686,7 @@
        }
       },
       {
-       "f": "Shield of mustard: When crushed and wet, make a hot oil that stings the mouth and nose. People: mustard oil and kasundi.",
+       "f": "Shield of mustard: When the seeds are crushed and wet, they make a hot oil that stings the mouth and nose. People make mustard oil and kasundi.",
        "b": "Shield"
       },
       {
@@ -694,7 +694,7 @@
        "b": "Plant"
       },
       {
-       "f": "Shield of onion: When cut, makes a chemical that stings the eyes of animals who dig them up. People: food.",
+       "f": "Shield of onion: When cut, makes a chemical that stings the eyes of animals who dig them up. People eat onions as food.",
        "b": "Shield"
       },
       {
@@ -706,7 +706,7 @@
        }
       },
       {
-       "f": "Shield of rubber tree: Milky latex that flows out of a cut and turns sticky, gluing insects' mouths. People: natural rubber.",
+       "f": "Shield of rubber tree: Milky latex that flows out of a cut and turns sticky, gluing insects' mouths. People make natural rubber from latex.",
        "b": "Shield"
       },
       {
@@ -718,7 +718,7 @@
        }
       },
       {
-       "f": "Shield of bael: Long sharp thorns on the branches keep goats away. People: bael sharbat from the fruit.",
+       "f": "Shield of bael: Long sharp thorns on the branches keep goats away. People make bael sharbat from the fruit.",
        "b": "Shield"
       },
       {
@@ -730,7 +730,7 @@
        }
       },
       {
-       "f": "Shield of touch-me-not: Folds their leaves within seconds of a touch, which may startle leaf-eaters. People: watched by scientists studying how plants move.",
+       "f": "Shield of touch-me-not: Folds their leaves within seconds of a touch, which may startle leaf-eaters. Scientists watch them to study how plants move.",
        "b": "Shield"
       }
      ]
@@ -767,7 +767,7 @@
      "mins": 14,
      "do": "Play the game. Each time someone wins a pair, ask them how people use that shield.",
      "say": "You found neem and the bitter chemical. How do people use the neem's shield?",
-     "kid": "Turn over two cards. Is it a plant and their shield? Read them aloud.",
+     "kid": "Turn over two cards and read them aloud. Are they a plant and that plant's shield?",
      "ask": [
       {
        "q": "Which shields are chemicals, and which are not?",
@@ -784,7 +784,7 @@
      "mins": 3,
      "do": "Lay all the pairs out at the end. Sort them into chemical shields and other shields.",
      "say": "Which shields do people use the most? Why might that be?",
-     "kid": "Sort the pairs. Chemical shields here. Other shields there.",
+     "kid": "Sort the pairs into two groups: chemical shields and other shields.",
      "check": {
       "t": "mcq",
       "q": "Which plant in the Plant Shields game protects themselves without any chemical?",
@@ -826,67 +826,67 @@
      "title": "16 test cards to cut out (front: the test, back: fair or not, and why)",
      "items": [
       {
-       "f": "Divya tests neem leaves in rice. She puts leaves in a full tin of new rice, and no leaves in a half-empty tin of old rice.",
+       "f": "A test of neem leaves in rice. Neem leaves go in a full tin of new rice. A half-empty tin of old rice gets no leaves.",
        "b": "Not fair. The rice is different and the amount is different. Only the neem should change."
       },
       {
-       "f": "Kavya tests clove on bread. She puts clove on one slice and nothing on another slice cut from the same loaf. She closes both in the same kind of bag in the same cupboard.",
+       "f": "A test of clove on bread. Clove goes on one slice, and nothing on another slice cut from the same loaf. Both are closed in the same kind of bag in the same cupboard.",
        "b": "Fair. Only the clove is different."
       },
       {
-       "f": "Arjun waters one tulsi pot every day and another once a week. The first is on a sunny balcony. The second is in a dark room.",
+       "f": "A test of watering tulsi. One tulsi pot is watered every day and another once a week. The first is on a sunny balcony. The second is in a dark room.",
        "b": "Not fair. The light is different too. Keep both pots in the same place."
       },
       {
-       "f": "Meera tests whether mint roots faster in tap water or rainwater. She uses two stems of the same length from the same bunch, by the same window.",
+       "f": "A test of whether mint roots faster in tap water or rainwater. The two stems are the same length, from the same bunch, by the same window.",
        "b": "Fair. Only the water is different."
       },
       {
-       "f": "Lakshmi tests haldi on one potato square in a closed box. She has no second square to compare.",
-       "b": "Not fair. There is no control. She cannot tell what would have happened without haldi."
+       "f": "A test of haldi on one potato square in a closed box. There is no second square to compare.",
+       "b": "Not fair. There is no control. Nobody can tell what would have happened without haldi."
       },
       {
-       "f": "Fathima tests three methi cups. She counts the seedlings in one cup on day 4, and the seedlings in the others on day 10.",
-       "b": "Not fair. She must count all the cups on the same days."
+       "f": "A test with three cups of methi. The seedlings in one cup are counted on day 4, and the seedlings in the others on day 10.",
+       "b": "Not fair. All the cups must be counted on the same days."
       },
       {
-       "f": "Bina tests a kadha on herself. She drinks kadha for her cold and feels better after 6 days.",
-       "b": "Not a fair test. Colds often get better in about a week anyway. She needs a control group."
+       "f": "A test of kadha on one person. The person drinks kadha for a cold and feels better after 6 days.",
+       "b": "Not a fair test. Colds often get better in about a week anyway. The test needs a control group."
       },
       {
-       "f": "Nandini tests cuttings with and without a node. Each has 4 cm of stem, in the same glass, with the same water, by the same window.",
+       "f": "A test of cuttings with and without a node. Each has 4 cm of stem, in the same glass, with the same water, by the same window.",
        "b": "Fair. Only the node is different."
       },
       {
-       "f": "Rohan tests which soil holds the most water. He pours 100 ml on one cup of soil and 200 ml on another.",
+       "f": "A test of which soil holds the most water. 100 ml is poured on one cup of soil and 200 ml on another.",
        "b": "Not fair. Use the same amount of water on each soil."
       },
       {
-       "f": "Priya tests clove powder and rice flour on two potato squares. She uses a quarter teaspoon of each, on squares of the same size.",
+       "f": "A test of clove powder and rice flour on two potato squares. A quarter teaspoon of each goes on squares of the same size.",
        "b": "Fair. The amounts and the squares are the same."
       },
       {
-       "f": "Sowmya tests haldi on one potato square in a closed box and a plain square left open on a plate.",
+       "f": "A test of haldi on potato. The haldi square is in a closed box, and the plain square is left open on a plate.",
        "b": "Not fair. The open square dries out. Both squares need the same kind of box."
       },
       {
-       "f": "Hetal tests whether neem spray keeps aphids off a rose. She sprays one rose and leaves another rose of the same kind, side by side, unsprayed.",
+       "f": "A test of whether neem spray keeps aphids off a rose. One rose is sprayed. Another rose of the same kind, right beside the first, is left unsprayed.",
        "b": "Fair. Only the spray is different."
       },
       {
-       "f": "Lalremruati counts bitten leaves on a neem and a hibiscus. She looks at 20 leaves on the neem and 5 on the hibiscus.",
-       "b": "Not fair. She should look at the same number of leaves on each plant."
+       "f": "A count of bitten leaves on a neem and a hibiscus. 20 leaves are checked on the neem and 5 on the hibiscus.",
+       "b": "Not fair. Check the same number of leaves on each plant."
       },
       {
-       "f": "Ishita tests a remedy on 40 people with colds. 20 get the remedy and 20 get a drink that looks the same. Nobody knows which they got.",
+       "f": "A test of a remedy on 40 people with colds. 20 get the remedy and 20 get a drink that looks the same. Nobody knows which they got.",
        "b": "Fair. This is a blind trial with a control group."
       },
       {
-       "f": "Anjali tests mould on chapati with and without salt. The salted chapati was made yesterday and the plain one today.",
+       "f": "A test of mould on chapati with and without salt. The salted chapati was made yesterday and the plain one today.",
        "b": "Not fair. One chapati is older. Use chapatis made at the same time."
       },
       {
-       "f": "Tanmay tests two pots of methi, one with holes and one without. He gives each 20 ml every day, in the same window.",
+       "f": "A test of two pots of methi, one with holes and one without. Each gets 20 ml of water every day, in the same window.",
        "b": "Fair. Only the holes are different."
       }
      ]
@@ -959,14 +959,14 @@
      "kid": "Count your points. Which card was hardest?",
      "check": {
       "t": "mcq",
-      "q": "Bina drank kadha and her cold got better in 6 days. Why is this not a fair test of kadha?",
+      "q": "Someone drank kadha and their cold got better in 6 days. Why is this not a fair test of kadha?",
       "options": [
        "There is no control group, and colds often get better on their own",
        "6 days is too short for any test",
        "Kadha is hot"
       ],
       "a": 0,
-      "why": "Bina's cold might have got better in 6 days without kadha. A fair test compares people who drink kadha with similar people who do not."
+      "why": "The cold might have got better in 6 days without kadha. A fair test compares people who drink kadha with similar people who do not."
      }
     }
    ],
@@ -979,9 +979,9 @@
    "title": "Spice Guard: do haldi and clove stop mould on potato?",
    "mins": 54,
    "days": 7,
-   "question": "Do haldi and clove powder stop mould growing on boiled potato? If so, is the spice the cause, or just the powder?",
+   "question": "Do haldi and clove powder stop mould growing on boiled potato? If they do, is it the spice that stops the mould, or would any dry powder do the same?",
    "predict": "Before you start, guess. Which square will grow the most mould: plain, rice flour, haldi or clove? Which will grow the least? Why do you think so? If you are 2 to 4 children, each writes a guess before anyone speaks.",
-   "fair_test": "Only the powder on top changes. Every square is cut from the same potato, the same size, and left open to the air for the same time. Each box has the same small piece of damp tissue, is the same kind, closed the same way and kept in the same cupboard. The rice flour square is there to check that a plain powder alone does not stop mould. The plain square is the control.",
+   "fair_test": "Only the powder on top changes. Every square is cut from the same potato, the same size, and left open to the air for the same time. Every box is the same kind, holds the same small piece of damp tissue, is closed the same way and is kept in the same cupboard. The rice flour square is there to check that a plain powder alone does not stop mould. The plain square is the control.",
    "results_table": [
     "Square",
     "What is on top",
@@ -1036,12 +1036,12 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up boils and cuts the potato. Once you close the boxes, do not open them again. Mould spores can make people sneeze or wheeze, especially people with asthma. Never smell or eat the potato. Keep the boxes on a shelf away from food and away from small children and pets. A child with asthma or a mould allergy should not do the daily counts; another child or a grown-up does them. Keep the grown-up knife away from children. At the end, a grown-up puts the closed boxes or bags straight in the bin, or empties boxes into the bin and washes them in hot soapy water.",
+   "safety": "A grown-up boils and cuts the potato. Once you close the boxes, do not open them again. Mould spores can make people sneeze or wheeze, especially people with asthma. Never smell or eat the potato. Keep the boxes on a shelf away from food and away from small children and pets. A child with asthma or a mould allergy should not do the daily counts; another child or a grown-up does them. Keep the knife away from children. At the end, a grown-up puts the closed boxes or bags straight in the bin, or empties boxes into the bin and washes them in hot soapy water.",
    "schedule": [
     {
      "day": 1,
      "mins": 23,
-     "what": "Guess. Cut four squares. Leave them open to the air for 30 minutes (do something else meanwhile). Add the powders, close the boxes and put them in a warm cupboard."
+     "what": "Guess which square will grow the most mould. Cut four squares. Leave them open to the air for 30 minutes (do something else meanwhile). Add the powders, close the boxes and put them in a warm cupboard."
     },
     {
      "day": 2,
@@ -1071,7 +1071,7 @@
     {
      "day": 7,
      "mins": 16,
-     "what": "Last count. Draw a line graph. Say what you think, what you saw and why. A grown-up throws the boxes away unopened. If a box has no mould at all by day 7 (cool or dry weather), leave it until day 10 before you stop."
+     "what": "Last count. Draw a line graph. Say what you think now, what you saw and why you think it happened. A grown-up throws the boxes away unopened. If a box has no mould at all by day 7 (cool or dry weather), leave it until day 10 before you stop."
     }
    ],
    "record": "Each day, write how many of the 16 small squares on each potato have mould. On day 7, draw a line graph with one line for each potato.",
@@ -1104,10 +1104,10 @@
      "mins": 5,
      "do": "Show your child the four boxes and the three powders. Ask for a guess and a reason. Write the guesses at the top of the table.",
      "say": "We are going to test four potato squares. One gets nothing. One gets rice flour. One gets haldi. One gets clove powder. Which will grow the most mould? Which will grow the least? Why do you think so?",
-     "kid": "Look at the four powders. Which square will get the most mould? Which the least? Why?",
+     "kid": "Look at the three powders. One square gets no powder. Which square will get the most mould? Which the least? Why?",
      "ask": [
       {
-       "q": "Why do you think that one will stay clean?",
+       "q": "Why do you think the square you chose will stay clean?",
        "good": [
         "Clove has a strong smell.",
         "Haldi is put on cuts at home.",
@@ -1124,12 +1124,12 @@
      "say": "Mould spores float in the air all the time. We leave the squares open so spores can land on every one. They all get the same air for the same time.",
      "kid": "A grown-up cuts four potato squares. Leave them open on a plate for 30 minutes.",
      "adult": true,
-     "parent": "Use the 30 minutes for the explanation cards on why plants make strong chemicals. Do not let the squares dry out in hot sun. The kitchen counter is fine."
+     "parent": "Use the 30 minutes to read the explanation card 'Why plants make strong chemicals'. Do not let the squares dry out in hot sun. The kitchen counter is fine."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Write A, B, C and D on the boxes. (With 2 to 4 children, one writes the labels, one spreads the powders, one counts and one records. Swap jobs on day 4. For more data, boil a second potato so each pair makes its own set of four.) 2. Put one square in each box. 3. Spread a quarter teaspoon of powder evenly over B, C and D with the back of a clean spoon. A gets nothing. Put one damp tissue piece in each box beside the potato, not touching the powder.",
+     "do": "1. Write A, B, C and D on the boxes. (With 2 to 4 children, one writes the labels, one spreads the powders, one counts and one records. Swap jobs on day 4. For more data, boil a second potato so each pair makes its own set of four.) 2. Put one square in each box. 3. Spread a quarter teaspoon of powder evenly over B, C and D with the back of a clean spoon. A gets nothing. 4. Put one damp tissue piece in each box beside the potato, not touching the powder.",
      "say": "A gets nothing. That is our control. B gets rice flour. C gets haldi. D gets clove. Why do you think we need the rice flour square?",
      "kid": "Put one square in each box. Spread rice flour on B, haldi on C and clove on D. A gets nothing.",
      "check": {
@@ -1150,13 +1150,13 @@
      "do": "1. Close each box tightly. 2. Draw a 4 by 4 grid of squares on each lid with the marker, over the potato. 3. Put all four boxes together in a cupboard away from the stove.",
      "say": "The grid gives us 16 small squares on each potato. Each day we count how many have mould. Counting turns what we see into numbers we can compare.",
      "kid": "Close the boxes. Draw a grid of 16 squares on each lid. Put them in a cupboard together.",
-     "parent": "Mould grows faster in warm, damp weather. A cupboard that stays warm, like one near the fridge, is good. Not next to the stove. Mould needs damp and warmth. In a cool or dry house it can take 7 to 10 days to show, so the damp tissue matters. All four boxes must sit in the same place."
+     "parent": "Mould needs damp and warmth, so it grows faster in warm, damp weather. A cupboard that stays warm, like one near the fridge, is good. Do not use a cupboard next to the stove. In a cool or dry house mould can take 7 to 10 days to show, so the damp tissue matters. All four boxes must sit in the same place."
     },
     {
      "id": "s5",
      "mins": 3,
      "do": "Each day from day 2 to day 7, take out the boxes without opening them. Count the grid squares on each lid that have mould under them. Write the number in the table.",
-     "say": "Look closely through the lid. Mould starts as white fuzz, then may turn green, grey or black. Slimy wet patches count too. How many squares have some?",
+     "say": "Look closely through the lid. Mould starts as white fuzz, then may turn green, grey or black. Slimy wet patches count too. How many squares have mould?",
      "kid": "Look through each lid. Count the squares with fuzz or slime. Write the number. Do not open the box.",
      "parent": "In warm, damp weather, mould often shows on the plain and rice flour squares in about 3 to 6 days. Clove often (not always) holds mould back for most of the week. Haldi may slow it a little or not at all. Rice flour can even grow mould faster, because mould feeds on it. If nothing grows on any square, or all four grow the same, write that down: it is a real result, not a mistake. In cold weather, keep counting up to day 10. A white or green fuzz is mould; a wet shiny film may be bacteria, and counts too.",
      "wait": "Count every day for 6 days"
@@ -1182,9 +1182,9 @@
     {
      "id": "s7",
      "mins": 6,
-     "do": "Ask your child for three things: what I think, what I saw, and why I think it happened. Then read the explanation card 'A plant's shield, borrowed by us'.",
+     "do": "Ask your child for three things: what they think now, what they saw, and why they think it happened. Then read the explanation card 'A plant's shield, borrowed by us'.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A strong answer sounds like this. What I think: clove stops mould, and haldi slows the mould a little. What I saw (an example only, made up to show the shape of an answer): by day 6 the plain square had about 12 mouldy squares, rice flour 13, haldi 5 and clove 0. Why: cloves have a strong chemical (eugenol) that protects the bud from moulds. Remember that haldi is only weakly protective on potato, even though it is a good colouring and a traditional preservative. Accept your own family's real numbers, even if they differ."
     },
     {
@@ -1203,7 +1203,7 @@
    "mins": 36,
    "days": 14,
    "question": "Does a money plant cutting need a node, or a leaf, to grow new roots?",
-   "predict": "You will put three pieces of money plant stem in water: one with a node and a leaf, one with a node but no leaf, and one with no node at all. Which will grow roots first? Will any grow no roots? Why do you think so? With 2 to 4 children, each child makes and guesses for a set of A, B and C. Compare the sets at the end: more cuttings make a more trustworthy result.",
+   "predict": "You will put three pieces of money plant stem in water: one with a node and a leaf, one with a node but no leaf, and one with no node at all. Which will grow roots first? Will any grow no roots? Why do you think so? With 2 to 4 children, each child makes their own set of A, B and C and guesses what that set will do. Compare the sets at the end: more cuttings make a more trustworthy result.",
    "fair_test": "Every piece is the same length (3 cm if the stem allows), and the bottom 2 cm of each stands in water, so the node of A and B is under water. All three stand in the same kind of glass, with the same depth of water, by the same window. Only the node and the leaf change. Change the water in all three glasses on the same days.",
    "results_table": [
     "Cutting",
@@ -1250,7 +1250,7 @@
     {
      "day": 1,
      "mins": 16,
-     "what": "Find the nodes. Cut three pieces. Put them in water by a bright window. Guess."
+     "what": "Find the nodes. Cut three pieces. Put them in water by a bright window. Guess which piece will grow roots first."
     },
     {
      "day": 4,
@@ -1360,7 +1360,7 @@
    "title": "Too Much Water? Methi seedlings in three cups",
    "mins": 72,
    "days": 12,
-   "question": "Do methi seedlings grow better with more water, or does a pot need drainage holes too?",
+   "question": "Do methi seedlings grow better with more water? Does the cup need drainage holes too?",
    "predict": "Cup A has holes and gets water only when the soil is dry. Cup B has holes and gets water every day. Cup C has no holes and gets water every day. Which cup will have the most healthy seedlings after 12 days? Why do you think so? With 2 to 4 children, each child sows and tends their own set of three cups, or the children share one set and take turns each day; compare all the cups at the end.",
    "fair_test": "All three cups are the same size and hold the same amount of the same soil. Each gets 10 methi seeds from the same packet, sown 1 cm deep, and all stand on the same windowsill. Cups B and C get exactly the same 30 ml (2 tablespoons) of water a day. Only the holes and the watering change.",
    "results_table": [
@@ -1423,7 +1423,7 @@
     {
      "day": 4,
      "mins": 7,
-     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count the seedlings that have come up in each cup. Note any yellow or fallen ones."
     },
     {
      "day": 5,
@@ -1443,7 +1443,7 @@
     {
      "day": 8,
      "mins": 7,
-     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count the seedlings in each cup: up on day 4, healthy green on day 8. Note any yellow or fallen ones."
+     "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count the healthy green seedlings in each cup. Note any yellow or fallen ones."
     },
     {
      "day": 9,
@@ -1540,7 +1540,7 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Help your child draw a bar chart of healthy seedlings on day 12, one bar for each cup. Then ask for what I think, what I saw and why.",
+     "do": "Help your child draw a bar chart of healthy seedlings on day 12, one bar for each cup. Then ask what they think now, what they saw and why they think it happened.",
      "say": "What do you think now? What did you see? Why do you think it happened?",
      "kid": "Draw a bar for each cup. Then say what you think, what you saw and why.",
      "parent": "A strong answer: drainage matters more than the amount of water. For example (invented numbers, only to show the shape of an answer), cup C might have 3 healthy seedlings and brown roots, while A and B have 9 and 8. Your family's real numbers count. Roots need air as well as water."
@@ -1611,14 +1611,14 @@
      "do": "Call or sit with a grandparent, an older aunt or a neighbour. Your child asks the questions and writes the answers. Aim for at least five remedies.",
      "say": "Ask them: which plants do you use when someone is unwell? Which part of the plant? Who taught you? How do you know it helps?",
      "kid": "Ask your elder: which plants help when we are ill? Which part? Who taught you?",
-     "parent": "With 2 to 4 children, one asks, one writes, one marks how sure; swap for the next remedy. Each child can also interview a different elder and compare tables later. Common answers include tulsi leaves in kadha, ajwain seeds for a stomach ache, ginger for a cough, haldi in milk, neem leaves in bath water, and curry leaves or methi in food."
+     "parent": "With 2 to 4 children, one asks, one writes and one marks how sure we are. Swap jobs for the next remedy. Each child can also interview a different elder and compare tables later. Common answers include tulsi leaves in kadha, ajwain seeds for a stomach ache, ginger for a cough, haldi in milk, neem leaves in bath water, and curry leaves or methi in food."
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "For each remedy, fill in 'How sure are we?' together. Green: tested in a fair trial in people and found to work. Yellow: not tested fairly yet, or not settled. Red: tested fairly and did not work. Look up one or two with your child.",
      "say": "Our elders saw these help. But many illnesses get better on their own. So which of these have been tested fairly? Let's find out for one.",
-     "kid": "Mark each remedy green, yellow or red. Green means tested and it works.",
+     "kid": "Mark each remedy green, yellow or red. Green: tested fairly and it works. Yellow: not tested fairly yet. Red: tested fairly and it did not work.",
      "parent": "Most home remedies will be yellow. That is honest, not an insult to the elder. Ginger for feeling sick has some good trials. Haldi milk for a cold has not been settled by a large fair trial."
     },
     {
@@ -1629,7 +1629,7 @@
      "kid": "Count your greens, yellows and reds. How could we test a yellow one?",
      "check": {
       "t": "mcq",
-      "q": "A girl's grandmother says tulsi kadha cured her cold in five days. Why is this not enough to show that tulsi kadha works?",
+      "q": "A grandmother says tulsi kadha cured her cold in five days. Why is this not enough to show that tulsi kadha works?",
       "options": [
        "A cold often gets better in about a week anyway, so we need a fair comparison with a control group",
        "Grandmothers always remember wrongly",
@@ -1698,7 +1698,7 @@
      "id": "s2",
      "mins": 15,
      "do": "From your windows, balcony or a short walk, find as many different trees and big plants as you can. Write each one down. Mark it Indian or Visitor using the list. Look up any you don't know. No trees in sight? Look in your kitchen. Potato, tomato, chilli, maize, groundnut and guava came from the Americas. They count as visitors.",
-     "say": "What is that tree? Is it on our list? Indian or visitor? With 2 to 4 children, split the street or balcony sides, each with a tally. Then add the tallies.",
+     "say": "What is that tree? Is that tree on our list? Indian or visitor? With 2 to 4 children, each child takes one side of the street or balcony and keeps a tally. Then add the tallies.",
      "kid": "Find trees and plants. Write each name. Mark it Indian or Visitor.",
      "adult": true
     },
@@ -1717,7 +1717,7 @@
        "Australia"
       ],
       "a": 0,
-      "why": "Tamarind first grew in Africa and reached India long ago. Now it is so common that many people think it is Indian. Its scientific name, Tamarindus indica, even says 'of India'."
+      "why": "Tamarind first grew in Africa and reached India long ago. Now tamarind is so common that many people think of the tree as Indian. Even the scientific name, Tamarindus indica, says 'of India'."
      }
     }
    ]
@@ -1777,7 +1777,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Help your child colour the plant's home on the map of India. Mark the state names.",
-     "say": "Where does your plant live? Why might a plant live only on high hills, or only in one hill range? (Neelakurinji last bloomed in 2018 and blooms every 12 years, so when is the next bloom, and how old will you be?)",
+     "say": "Where does your plant live? Why might a plant live only on high hills, or only in one hill range? Neelakurinji last bloomed in 2018 and blooms every 12 years. When is the next bloom, and how old will you be then?",
      "kid": "Colour where your plant lives on the map. Write the state."
     },
     {
@@ -1841,30 +1841,30 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Feel, weigh and decide again."
+     "what": "Feel the soil and weigh or lift the pot again. Water only if the soil is dry."
     },
     {
      "day": 4,
      "mins": 5,
-     "what": "Feel, weigh and decide again."
+     "what": "Feel the soil and weigh or lift the pot again. Water only if the soil is dry."
     },
     {
      "day": 5,
      "mins": 5,
-     "what": "Feel, weigh and decide again."
+     "what": "Feel the soil and weigh or lift the pot again. Water only if the soil is dry."
     },
     {
      "day": 6,
      "mins": 5,
-     "what": "Feel, weigh and decide again."
+     "what": "Feel the soil and weigh or lift the pot again. Water only if the soil is dry."
     },
     {
      "day": 7,
      "mins": 5,
-     "what": "Feel and weigh. Look at the week. How many days did the plant need water?"
+     "what": "Feel the soil and weigh or lift the pot. Look back at the week's table. How many days did the plant need water?"
     }
    ],
-   "record": "A 7-day table: day, soil feels wet, damp or dry, pot weight or heavy or light, watered or not.",
+   "record": "A 7-day table with four columns: the day, how the soil feels (wet, damp or dry), the pot's weight (or heavy or light), and whether you watered.",
    "context": "In this activity, you learn to tell when a pot plant needs water, by feeling the soil and weighing the pot every day for a week.",
    "setup": [
     {
@@ -1896,7 +1896,7 @@
      "say": "How does the soil feel today? Is the pot lighter than yesterday? Does our plant need water today?",
      "kid": "Feel the soil. Wet, damp or dry? Weigh the pot. Only water if it is dry.",
      "wait": "Every day for 7 days",
-     "parent": "Water leaves the pot through the leaves and from the soil surface. A pot may get lighter by tens of grams a day in summer (about, and it depends on the pot and plant). In the monsoon, it may stay damp for days; if the plant never needs water in 7 days, that is a result. 2 to 4 children can each choose a pot, or one sunny and one shady pot, or share one pot: one feels, one weighs, one writes, swapping each day."
+     "parent": "Water leaves the pot through the leaves and from the soil surface. In summer a pot may get lighter by tens of grams a day, depending on the pot and the plant. In the monsoon, the soil may stay damp for days. If the plant never needs water in 7 days, that is a result. With 2 to 4 children, each can choose a pot, or they can compare one sunny pot and one shady pot. They can also share one pot: one feels, one weighs and one writes, and they swap jobs each day."
     },
     {
      "id": "s3",
@@ -2067,17 +2067,17 @@
     {
      "day": 14,
      "mins": 10,
-     "what": "Finger test. Measure the tallest mint shoot. Count new leaves."
+     "what": "Do the finger test: push a finger into the soil and water only if it feels dry. Measure the tallest mint shoot. Count new leaves."
     },
     {
      "day": 21,
      "mins": 10,
-     "what": "Finger test. Measure again. Count new leaves."
+     "what": "Do the finger test again. Measure the tallest mint shoot again. Count new leaves."
     },
     {
      "day": 28,
      "mins": 30,
-     "what": "Finger test and measure again. Draw a line graph of the tallest shoot. Pick a few leaves for chutney."
+     "what": "Do the finger test and measure the tallest mint shoot again. Draw a line graph of the tallest shoot. Pick a few leaves for chutney."
     }
    ],
    "record": "A herb diary with root counts, shoot heights on days 14, 21 and 28, a line graph, and a note on each watering.",
@@ -2343,7 +2343,7 @@
       "Because they are old and going bad"
      ],
      "a": 0,
-     "why": "A plant cannot run away, so many plants protect themselves with chemistry. People found these chemicals useful later. Picking 'to make food taste nice' is a common idea, but the chemicals were there long before anyone cooked."
+     "why": "A plant cannot run away, so many plants protect themselves with chemistry. People found these chemicals useful later. Many people think the chemicals are there to make food taste nice, but they were there long before anyone cooked."
     },
     {
      "t": "mcq",
@@ -2398,7 +2398,7 @@
     },
     {
      "t": "count",
-     "p": "Revathi, a girl in Class 4 in Kochi, did Spice Guard. On day 6 she counted these mouldy squares out of 16: plain 12, rice flour 13, haldi 5, clove 0. How many more mouldy squares did the plain potato have than the haldi potato?",
+     "p": "On day 6 of Spice Guard, suppose the mouldy squares out of 16 were: plain 12, rice flour 13, haldi 5, clove 0. How many more mouldy squares did the plain potato have than the haldi potato?",
      "a": "7",
      "why": "12 take away 5 is 7. Haldi slowed the mould a lot, but did not stop them completely.",
      "how": "e1",
@@ -2406,7 +2406,7 @@
     },
     {
      "t": "write",
-     "p": "Revathi tested only one potato square of each kind. Why would her result be more trustworthy if she repeated the test with three squares of each kind and compared the averages?",
+     "p": "Suppose you tested only one potato square of each kind in Spice Guard. Why would the result be more trustworthy if you repeated the test with three squares of each kind and compared the averages?",
      "lines": 4,
      "a": "One square could be different by chance, for example it might catch more spores or be a little wetter. If three squares of the same kind give similar numbers, we can trust the result more. If they differ a lot, we know one square is not enough.",
      "why": "A strong answer says that one result can be luck, and that repeating the test shows whether the result is steady.",
@@ -2492,7 +2492,7 @@
     },
     {
      "t": "write",
-     "p": "Kavin, a boy of six, watered his tulsi three times a day because he loved them. The leaves turned yellow and drooped. Explain to Kavin what went wrong, in words he will understand.",
+     "p": "In the story The Leaves Nobody Ate, Kavin, a boy of six, watered his tulsi three times a day because he loved them. The leaves turned yellow and drooped. Explain to Kavin what went wrong, in words he will understand.",
      "lines": 4,
      "a": "Roots need air as well as water. When you water too much, the soil stays full of water and there is no air left for the roots. Then the roots start to rot, and the leaves droop. Feel the soil first, and only water when it is dry.",
      "why": "A strong answer says roots need air, links soaked soil to rotting roots, and gives Kavin a clear thing to do: check the soil first."
@@ -2502,7 +2502,7 @@
      "p": "A company makes a new tonic from a forest fruit. A forest community showed scientists the fruit, and had eaten it for generations.",
      "views": [
       {
-       "who": "Selvi, from the forest community (an imagined view)",
+       "who": "A person from the forest community (an imagined view)",
        "says": "My grandparents found this fruit and kept the forest safe. If you earn money from it, our village should share it."
       },
       {
@@ -2543,7 +2543,7 @@
       "They all fall off"
      ],
      "a": 0,
-     "why": "Plants sense a bite and send signals around their body. Other leaves get ready before the caterpillar reaches them. Picking 'only the bitten leaf' is a common idea, but scientists have measured the signals."
+     "why": "Plants sense a bite and send signals around their body. Other leaves get ready before the caterpillar reaches them. Many people think only the bitten leaf changes, but scientists have measured the signals."
     },
     {
      "t": "write",
@@ -2569,7 +2569,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mitali, a girl in Kolkata, put three money plant cuttings in water. After 14 days, cutting A had 5 roots, cutting B had 2 roots, and cutting C had none. Which cutting had no node?",
+     "p": "Three money plant cuttings stood in water. After 14 days, cutting A had 5 roots, cutting B had 2 roots, and cutting C had none. Which cutting had no node?",
      "opts": [
       "C",
       "A",
@@ -2635,11 +2635,11 @@
      "p": "A city council in Tamil Nadu is deciding whether to remove seemai karuvelam, also called vilayati babul, from the land around a lake. This tree came from Mexico and Central America and now grows everywhere.",
      "views": [
       {
-       "who": "Malar, a botanist (an imagined view)",
+       "who": "A botanist (an imagined view)",
        "says": "Seemai karuvelam takes a lot of water from the ground and crowds out native plants. We should remove them and plant native trees."
       },
       {
-       "who": "Gopal, who collects firewood (an imagined view)",
+       "who": "A person who collects firewood (an imagined view)",
        "says": "These trees give my family firewood every day, and they grow where nothing else will. Remove them, and we have nothing."
       },
       {
@@ -2647,7 +2647,7 @@
        "says": "I build my nest in these thorny branches, safe from snakes."
       }
      ],
-     "ask": "What should the council do? Give your reason. Then answer back from one of the other views.",
+     "ask": "What should the council do? Give your reason. Then say what one of the others might reply to you.",
      "lines": 5,
      "a": "Any reasoned answer. For example: remove them slowly and plant native trees like neem and vagai at the same time, so families still get firewood and birds still have nesting trees. A strong answer weighs water, native plants, people and birds.",
      "why": "Real choices about invasive plants have costs and benefits for people, for native plants and for other animals. A strong answer weighs more than one side."
@@ -2662,7 +2662,7 @@
     },
     {
      "t": "write",
-     "p": "Sakshi says, 'Our tulsi kadha must work, because my great-grandmother used it.' Is she right? What would you need to find out?",
+     "p": "Someone says, 'Our tulsi kadha must work, because my great-grandmother used it.' Are they right? What would you need to find out?",
      "lines": 4,
      "a": "Not yet. The kadha might work, but being old only shows that people trusted the kadha. We need a fair trial: two groups of people with colds, one drinking kadha and one drinking a similar drink without tulsi, and compare how fast they get better.",
      "why": "A strong answer respects the tradition but says age is not proof, and describes a fair comparison."
@@ -2709,7 +2709,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Arun says, 'Spice Guard proves that clove powder will cure an infection on my skin.' Explain what Spice Guard does show and what it does not.",
+     "p": "Someone says, 'Spice Guard proves that clove powder will cure an infection on my skin.' Explain what Spice Guard does show and what it does not.",
      "lines": 4,
      "a": "Spice Guard shows that clove powder stopped mould growing on potato in a box. It does not show that clove is safe on skin, that it works inside a person's body, or that it cures an infection. Those need tests in people, done by doctors, with the right dose.",
      "why": "A strong answer separates a laboratory result on food from a cure in people, and mentions safety and dose.",
@@ -3000,10 +3000,10 @@
   },
   {
    "t": "mcq",
-   "p": "Tamarind is used in rasam all over South India, but it first grew in Africa. How could it end up growing all over India?",
+   "p": "Tamarind is used in rasam all over South India, but the tree first grew in Africa. How could tamarind end up growing all over India?",
    "opts": [
-    "People carried its seeds and planted them, long ago",
-    "Its seeds floated across the sea by themselves to every village",
+    "People carried the seeds and planted them, long ago",
+    "The seeds floated across the sea by themselves to every village",
     "Plants can walk to new places"
    ],
    "a": 0,
@@ -3197,7 +3197,7 @@
  ],
  "maths": [
   {
-   "problem": "In Spice Guard, Revathi, a girl in Class 4 in Kochi, found that her plain potato had 12 mouldy squares out of 16 on day 6. What fraction of the potato was mouldy? Write it in its simplest form.",
+   "problem": "In Spice Guard, suppose the plain potato had 12 mouldy squares out of 16 on day 6. What fraction of the potato was mouldy? Write it in its simplest form.",
    "answer": "12 out of 16, which is three quarters.",
    "explain": "12 out of 16 is 12/16. Both numbers divide by 4. 12 divided by 4 is 3, and 16 divided by 4 is 4. So 12/16 is the same as 3/4, three quarters of the potato.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -3252,7 +3252,7 @@
    "why_maths": "Dividing the growth by the number of days gives a growth rate, so we can compare roots measured on different days."
   },
   {
-   "problem": "In Holiday Water, Ritu, a girl in Class 4, built a wick design. It used 120 ml of water a day from a bottle that holds 1 litre. A litre is 1,000 ml. Will the bottle last for a 7-day trip?",
+   "problem": "In Holiday Water, suppose a wick design used 120 ml of water a day from a bottle that holds 1 litre. A litre is 1,000 ml. Will the bottle last for a 7-day trip?",
    "answer": "Yes. 7 days need 840 ml, and the bottle holds 1,000 ml, so 160 ml would be left.",
    "explain": "7 times 120 is 840 ml for the whole trip. 1,000 take away 840 is 160. The bottle has enough, with 160 ml to spare.",
    "math_unit": "math.measurement-basics.standard-units.L4",
@@ -3268,14 +3268,14 @@
    "why_maths": "A repeating gap in time is a number pattern, so we can predict when a rare bloom will come again."
   },
   {
-   "problem": "Muli bamboo in Mizoram flowered in 1959 and again from 2006 to 2008, about every 48 years. Starting from 1959, add 48 years. Is the answer inside 2006 to 2008? Then predict the next flowering.",
+   "problem": "Muli bamboo in Mizoram flowers about every 48 years. They flowered in 1959 and again from 2006 to 2008. Starting from 1959, add 48 years. Is the answer inside 2006 to 2008? Then predict the next flowering.",
    "answer": "1959 + 48 is 2007, which is inside 2006 to 2008. The next flowering would be around 2055.",
    "explain": "1959 + 40 is 1999. 1999 + 8 is 2007. 2007 is between 2006 and 2008, so the pattern fits. 2007 + 48: 2007 + 40 is 2047, and 2047 + 8 is 2055.",
    "math_unit": "math.addition-subtraction.written-methods.L4",
    "why_maths": "Adding the gap checks whether the pattern really fits the past, before we use it to predict the future."
   },
   {
-   "problem": "In Ask the Elders, Sunita, a girl in Class 4, collected 10 family plant remedies. 2 had been tested in fair trials and found to work. 1 had been tested and did not work. The rest had not been tested fairly yet. How many had not been tested? What fraction of all the remedies is that?",
+   "problem": "In Ask the Elders, suppose a family collected 10 plant remedies. 2 had been tested in fair trials and found to work. 1 had been tested and did not work. The rest had not been tested fairly yet. How many had not been tested? What fraction of all the remedies is that?",
    "answer": "7 had not been tested. That is 7 out of 10, or seven tenths.",
    "explain": "2 + 1 is 3 tested. 10 take away 3 is 7 not tested. 7 out of 10 is 7/10.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -3283,7 +3283,7 @@
    "context": "In Ask the Elders, you collected your family's plant remedies and marked how sure we are about each one.",
    "chart": {
     "type": "bar",
-    "title": "Sunita's 10 family remedies",
+    "title": "The family's 10 plant remedies",
     "x": "How sure we are",
     "y": "Number of remedies",
     "data": [
@@ -3304,7 +3304,7 @@
    "why_maths": "Counting and a bar chart show at a glance how much of what we know is tested, and how much is still a question."
   },
   {
-   "problem": "In a trial of a cold remedy, 14 of 20 people who took the remedy were better in 5 days. 13 of 20 people who took a placebo were better in 5 days. Mohan, a boy in Class 4, says the remedy works because 14 is more than 13. What would you tell him?",
+   "problem": "In a trial of a cold remedy, 14 of 20 people who took the remedy were better in 5 days. 13 of 20 people who took a placebo were better in 5 days. Someone says the remedy works because 14 is more than 13. What would you tell them?",
    "answer": "The difference is only 1 person out of 20. That could easily be luck. The trial does not show that the remedy works.",
    "explain": "14 out of 20 and 13 out of 20 are very close: 70 out of every 100 and 65 out of every 100. If the trial were done again, the numbers could easily swap. A real effect would need a bigger, clearer difference, or many more people.",
    "math_unit": "math.logic.problem-solving.L4",
@@ -3508,7 +3508,7 @@
  },
  "how_we_found_out": {
   "context": "How did an Indian village remedy become one of the world's first medicines for high blood pressure? This card tells the true story, and the idea that turned out wrong.",
-  "story": "For centuries, healers in India used the root of sarpagandha, Indian snakeroot, to calm people who were very anxious or unwell in their minds, and for fevers and snakebite. Doctors trained in Europe mostly treated this as village folklore. In 1931, two doctors in Kolkata, G. Sen and K. C. Bose, reported that the root lowered blood pressure. The same year, the chemists Salimuzzaman Siddiqui and Rafat Husain Siddiqui took several new chemicals out of the root. Few doctors abroad paid attention. In 1949, the Mumbai heart doctor Rustom Jal Vakil published a careful study of patients in the British Heart Journal. Now the world listened. In 1952, chemists at a Swiss company took out the root's most powerful chemical and named it reserpine. Within a few years, reserpine was used around the world for high blood pressure. Later, doctors found it could cause sadness and tiredness in some people, so newer medicines replaced it. But it showed that a village remedy could be tested fairly, and be right.",
+  "story": "For centuries, healers in India used the root of sarpagandha, Indian snakeroot, to calm people who were very anxious or unwell in their minds, and for fevers and snakebite. Doctors trained in Europe mostly treated this as village folklore. In 1931, two doctors in Kolkata, G. Sen and K. C. Bose, reported that the root lowered blood pressure. The same year, the chemists Salimuzzaman Siddiqui and Rafat Husain Siddiqui took several new chemicals out of the root. Few doctors abroad paid attention. In 1949, the Mumbai heart doctor Rustom Jal Vakil published a careful study of patients in the British Heart Journal. This time doctors around the world paid attention. In 1952, chemists at a Swiss company took out the root's most powerful chemical and named it reserpine. Within a few years, reserpine was used around the world for high blood pressure. Later, doctors found it could cause sadness and tiredness in some people, so newer medicines replaced it. But it showed that a village remedy could be tested fairly, and be right.",
   "who": "G. Sen and K. C. Bose, doctors in Kolkata; Salimuzzaman Siddiqui and Rafat Husain Siddiqui, chemists; Rustom Jal Vakil, a heart doctor in Mumbai; chemists at a Swiss company who named reserpine",
   "when": "1931 (first reports), 1949 (Vakil's study), 1952 (reserpine taken out of the root)",
   "wrong_idea": "That village plant remedies from India were folklore not worth testing. Careful studies by Indian doctors and chemists showed that sarpagandha really lowers blood pressure.",
