@@ -3,7 +3,7 @@
  "title": "Liquids up close: why water pushes harder the deeper you go",
  "level": 4,
  "summary": {
-  "text": "Poke three holes in a bottle, one high, one in the middle and one low, and fill it with water. The lowest hole squirts the farthest. A thin tube of water and a huge wide tank can push on their bottoms with exactly the same strength, if the water is equally deep. A tap on the top floor of a building runs slowly when the roof tank is nearly empty, though the tank is big. Your child tests where water pushes hardest, marks a level line along a wall with a hose, and finds out why a push on a liquid in a closed pipe goes everywhere. It explains rooftop tanks, dams, car brakes and the deep sea.",
+  "text": "Poke three holes in a bottle, one high, one in the middle and one low, and fill it with water. The lowest hole squirts the farthest. A thin tube of water and a huge wide tank can push on their bottoms with exactly the same strength, if the water is equally deep. A tap on the top floor of a building runs slowly when the roof tank is nearly empty, though the tank is big. Your child tests where water pushes hardest, marks a level line along a wall with a hose, and finds out why a push on a liquid in a closed pipe goes everywhere. The same ideas explain rooftop tanks, dams, car brakes and the deep sea.",
   "art": "A plastic bottle on a stool in a bathroom with three jets of water arching from three holes at different heights, the lowest jet landing farthest."
  },
  "intro": {
@@ -145,7 +145,7 @@
    "concept": "Pressure: the push on each small bit of a surface",
    "status": "defined",
    "definition": "Pressure is how hard something pushes on each small part of a surface. It depends on the force and on the area it is spread over.",
-   "description": "Stand on one foot and then on two. Your weight is the same, but on one foot it is pressed on a smaller area, so the pressure on the floor is bigger. A pin has a tiny point, so your thumb pushes it into a board easily. A flat thumb on the board does nothing. Scientists measure pressure as force divided by area. A camel has wide feet, so the pressure on the sand is small and the camel does not sink. A nail on a bed of nails has the same force spread over hundreds of points.",
+   "description": "Stand on one foot and then on two. Your weight is the same, but on one foot it is pressed on a smaller area, so the pressure on the floor is bigger. A pin has a tiny point, so your thumb pushes it into a board easily. A flat thumb pressed on the board does nothing. Scientists measure pressure as force divided by area. A camel has wide feet, so the pressure on the sand is small and the camel does not sink. On a bed of nails, your weight is spread over hundreds of points, so the pressure on each point is small.",
    "examples": [
     "A sharp knife cuts better than a blunt one, because the edge is thin.",
     "A camel's wide feet spread her weight and stop her sinking into the sand.",
@@ -173,7 +173,7 @@
    "concept": "Pressure grows with depth",
    "status": "defined",
    "definition": "The deeper you go in water, the bigger the push. The push at any depth is the weight of the water above, pressing on each small part.",
-   "description": "Imagine a column of water standing on one square centimetre of the bottom. The deeper it is, the taller the column, and the more it weighs. So the push on that square centimetre is bigger. Every 10 metres of water adds about the push of the whole air above us. That push is about the weight of a one-kilogram bag on each square centimetre. So at 10 metres under water, the total push is about double what it is at the surface. At 20 metres it is about three times. This is why your ears hurt in the deep end of a swimming pool.",
+   "description": "Think of a column of water standing on one square centimetre of the bottom. The deeper the water, the taller the column and the more it weighs. So the push on that square centimetre is bigger. Every 10 metres of water adds about the push of the whole air above us. That push is about the weight of a one-kilogram bag on each square centimetre. So at 10 metres under water, the total push is about double what it is at the surface. At 20 metres it is about three times. This is why your ears hurt in the deep end of a swimming pool.",
    "examples": [
     "The lowest hole in a bottle squirts the strongest jet.",
     "A swimmer feels a bigger push on the ears at 3 metres than at 1 metre.",
@@ -187,10 +187,10 @@
    "concept": "Depth matters, not the amount or the shape",
    "status": "defined",
    "definition": "The push at a depth in water depends only on how deep it is. It does not depend on how much water there is, or on the shape of the container.",
-   "description": "A tall thin tube of water 1 metre deep and a wide lake 1 metre deep make the same push at 1 metre down. This surprises many people. The reason is that only the water straight above a point presses on it. The water to the side is held up by the tube wall, or by the water next to it, which pushes on it from the side with the same push. The lake presses on a much bigger area, so its total force on its bottom is larger. But the pressure, the push on each small bit, is the same. This is sometimes called the hydrostatic paradox.",
+   "description": "A tall thin tube of water 1 metre deep and a wide lake 1 metre deep make the same push at 1 metre down. This surprises many people. The reason is that only the water straight above a point presses on it. The water to the side does not rest on that point. It is held up by the wall of the container, or by the water beside it, which pushes back sideways just as hard. The lake presses on a much bigger area, so its total force on its bottom is larger. But the pressure, the push on each small bit, is the same. This is sometimes called the hydrostatic paradox.",
    "examples": [
     "A puddle 5 centimetres deep and a swimming pool 5 centimetres deep push equally on the bottom, bit for bit.",
-    "A thin tube 10 metres tall can burst a strong barrel at the bottom, as the story of Pascal tells.",
+    "In a famous story about Pascal, a thin tube of water 10 metres tall bursts a strong barrel at its bottom.",
     "A tall narrow glass of juice pushes harder on its base than a shallow wide plate of juice."
    ],
    "perspectives": [],
@@ -229,7 +229,7 @@
    "concept": "Dams and pipes: stronger at the bottom",
    "status": "defined",
    "definition": "The push of water is biggest at the bottom, so dams are thickest at the bottom, and pipes and tanks must be strongest there.",
-   "description": "A wall holding back deep water feels a push that grows with depth. At the top it is small. Near the bottom it is huge. So a dam is built wide at the base and narrower at the top. The Kallanai, or Grand Anicut, is a stone weir across the Kaveri river in Tamil Nadu. It was built about two thousand years ago, and it is traditionally credited to the Chola king Karikalan. It is still in use today. Tall modern dams, such as the Tehri Dam in the Himalayas, which is about 260 metres tall, follow the rule that a dam is widest at the bottom.",
+   "description": "A wall holding back deep water feels a push that grows with depth. At the top it is small. Near the bottom it is huge. So a dam is built wide at the base and narrower at the top. The Kallanai, or Grand Anicut, is a stone weir (a low dam) across the Kaveri river in Tamil Nadu. It was built about two thousand years ago, and it is traditionally credited to the Chola king Karikalan. It is still in use today. Tall modern dams follow the same rule and are widest at the bottom. One of them is the Tehri Dam in the Himalayas, which is about 260 metres tall.",
    "examples": [
     "Mettur Dam in Tamil Nadu is much thicker at the bottom than at the top.",
     "A storage tank has thicker walls at the bottom than at the top.",
@@ -243,7 +243,7 @@
    "concept": "A push on trapped liquid goes everywhere",
    "status": "defined",
    "definition": "When you push on a liquid trapped in a closed pipe, the extra pressure goes to every part of the liquid equally. This is Pascal's principle.",
-   "description": "Fill a tube joined to two syringes with water, with no air. Push one plunger in, and the other one moves out. Your push has travelled through the water. If the second piston is much wider than the first, the same pressure pushes on a bigger area, so the force is much bigger. A piston with 100 times the area gets 100 times the force. This is how hydraulic machines work. Car brakes, the arm of an excavator and a barber's chair all use it. There is a catch. The big piston moves much less. A 100 times bigger force means a 100 times shorter move. Nothing is gained for free.",
+   "description": "Fill a tube joined to two syringes with water, with no air. Push one plunger in, and the other one moves out. Your push has travelled through the water. If the second piston is much wider than the first, the same pressure pushes on a bigger area, so the force is much bigger. A piston with 100 times the area gets 100 times the force. This is how hydraulic machines work. Car brakes, the arm of an excavator and a barber's chair all use it. There is a catch. The big piston moves much less. If the force is 100 times bigger, the big piston moves only one hundredth as far. Nothing is gained for free.",
    "examples": [
     "A foot pushing a brake pedal makes a strong push at the wheel.",
     "An excavator's arm lifts tonnes of soil with a liquid pushed through tubes.",
@@ -271,7 +271,7 @@
    "concept": "Pressure in the body and the deep sea",
    "status": "defined",
    "definition": "Your blood is a liquid, so its pressure also depends on depth. A diver or a deep-sea animal feels a bigger and bigger push of water as she goes down.",
-   "description": "When you stand, the blood in your feet is pushed down by the blood above, so the pressure in your feet is bigger than in your head. If you stand up too fast, the blood pools in your legs and you can feel dizzy. A giraffe's heart makes about twice as much blood pressure as ours, to push blood up the long neck to her head. In the sea, the push grows with every metre. At the deepest part of the ocean, about 11 kilometres down, the water pushes with more than a thousand times the push of the air at the surface. Animals that live there have bodies without air pockets to be crushed. Sperm whales dive more than a kilometre, and scientists think their lungs fold flat as they go down.",
+   "description": "When you stand, the blood in your feet is pushed down by the blood above, so the pressure in your feet is bigger than in your head. If you stand up too fast, the blood pools in your legs and you can feel dizzy. A giraffe's heart makes about twice as much blood pressure as ours, to push blood up the long neck to her head. In the sea, the push grows with every metre. At the deepest part of the ocean, about 11 kilometres down, the water pushes with more than a thousand times the push of the air at the surface. Animals that live there have no air pockets in their bodies that could be crushed. Sperm whales dive more than a kilometre, and scientists think their lungs fold flat as they go down.",
    "examples": [
     "Standing up quickly can make you feel dizzy for a moment.",
     "Your ears feel the push in the deep end of a swimming pool.",
@@ -324,11 +324,11 @@
   {
    "context": "This card is about levels.",
    "text": "Water that can flow freely settles to the same height in all connected containers.",
-   "evidence": "Builders have used water levels for thousands of years, and they agree with other tools."
+   "evidence": "Builders have used water levels for thousands of years, and a water level gives the same result as other tools for checking levels."
   },
   {
    "context": "This card is about the weight of a liquid.",
-   "text": "At the same depth, a denser liquid pushes harder than a lighter one, whatever its thickness.",
+   "text": "At the same depth, a denser liquid (one that is heavier for its size) pushes harder than a lighter one. How thick or runny the liquid is makes no difference.",
    "evidence": "Measurements in salt water, fresh water, oil and mercury show that pressure follows the weight of the liquid, and not how runny it is."
   },
   {
@@ -356,7 +356,7 @@
    "claim": "Water only pushes downwards, because of gravity.",
    "who": "A common first guess",
    "for": "Things fall down, and water flows down.",
-   "against": "Water pushes sideways on the walls of a bottle, upwards under a boat, and in every direction at once at a point. Jets leave a bottle sideways from the wall.",
+   "against": "Water pushes sideways on the walls of a bottle and upwards under a boat. At any one point, it pushes in every direction at once. Jets leave a bottle sideways from the wall.",
    "status": "rejected"
   },
   {
@@ -395,7 +395,7 @@
    "context": "This card is about a dam wall.",
    "claim": "A dam wall can be the same thickness all the way down.",
    "who": "Some people",
-   "for": "A wall looks strong enough if it is strong enough at the top.",
+   "for": "If a wall is strong enough at the top, it seems it should be strong enough all the way down.",
    "against": "The push of water grows with depth. At the bottom of a tall dam, it is far bigger than at the top. A wall must be much thicker there, or it would break.",
    "status": "rejected"
   }
@@ -424,12 +424,12 @@
   {
    "q": "Why is the weakest tap in a building not on the ground floor but at the top?",
    "kind": "big",
-   "hint": "Think about the depth of the water above each tap in the roof tank."
+   "hint": "Think about how much depth of water there is above each tap, up to the water in the roof tank."
   },
   {
    "q": "A hydraulic machine can lift a car with a small push, but the small piston must move a long way. Is it a trick?",
    "kind": "deep",
-   "hint": "Think about what you give up when you get a bigger force. Does the machine give you more work, or just a different push?"
+   "hint": "Think about what you give up when you get a bigger force. Does the machine give you something for nothing?"
   },
   {
    "q": "If you could dive to the bottom of the deepest ocean, how would the push of the water feel on your body?",
@@ -480,7 +480,7 @@
    "Why did the top-floor tap get weaker as the water in the roof tank went down?",
    "Devika's bottle jets got weaker as the bottle emptied. How did that help her understand the tank?",
    "What did the new timer change inside the roof tank at seven in the morning?",
-   "Mr Nair thought a bigger pump was the answer. Why was the problem not about how big the tank was?"
+   "The roof tank was very big, yet the fifth-floor tap was weak. Why was the size of the tank not what mattered?"
   ],
   "art": [
    "A tall apartment block in Kochi with a black water tank on the roof, a girl at a fifth-floor window and coconut palms below.",
@@ -586,7 +586,7 @@
       },
       {
        "f": "A: a fish at 1,000 metres deep in the sea. B: a fish near the surface. Which feels a bigger push?",
-       "b": "A. It has about 1,000 metres of water above it."
+       "b": "A. She has about 1,000 metres of water above her."
       },
       {
        "f": "A: a roof tank 2 metres above a tap. B: a roof tank 6 metres above the same tap. Which gives a stronger flow?",
@@ -641,7 +641,7 @@
     "Each player puts one token face down. Then everyone turns the tokens over at the same time.",
     "The reader turns the card over and reads the answer. A right token scores 1 point.",
     "After the answer, each player with a right token must say one reason using the word depth or the word pressure. A good reason scores 1 more point.",
-    "If you were wrong, say what you will remember next time. The next reader keeps the card in a Learn pile.",
+    "If you were wrong, say what you will remember next time. The next reader puts the card in the Learn pile.",
     "When all 24 cards are played, shuffle the Learn pile and play it once more. The player with the most points wins. A tie is a shared win.",
     "Playing alone, put one token face down for each card, then check the back. Try to score at least 36 points out of a possible 48."
    ],
@@ -657,9 +657,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Play one practice card together. Read the fish card. Do not keep the points.",
+     "do": "Play one practice card together. Read the card about the two fish in a pond. Do not count the points.",
      "say": "Read the card. Put your token face down. Turn them over together. Then we check the back and say why.",
-     "kid": "Read the fish card. Put a token down. Turn them over together.",
+     "kid": "Read the card about the two fish. Put a token down. Turn the tokens over together.",
      "parent": "This practice card scores nothing. It shows the routine: read, vote, turn over, give a reason.",
      "check": {
       "t": "mcq",
@@ -670,7 +670,7 @@
        "The same"
       ],
       "a": 1,
-      "why": "The deeper fish has more water above her, so she feels a bigger push. Picking A mixes up the idea of near the top with strong. Picking the same would be right only if both fish were at the same depth."
+      "why": "The deeper fish has more water above her, so she feels a bigger push. If you picked A, you may have thought that being nearer the top means a stronger push. Same would be right only if both fish were at the same depth."
      }
     },
     {
@@ -681,7 +681,7 @@
      "kid": "Read the card. Vote. Turn over. Say a reason.",
      "ask": [
       {
-       "q": "What do the cards where the answer was the same have in common?",
+       "q": "Some cards had the answer Same. What do those cards have in common?",
        "good": [
         "The depth was the same.",
         "The shape or the amount of water did not matter.",
@@ -697,13 +697,13 @@
      "do": "Play the last twelve cards. Add up the points. Then shuffle the Learn pile and play it once more.",
      "say": "These are the last twelve cards. Count your points when they are done. Then we replay the cards that tricked us.",
      "kid": "Play the last cards. Count your points. Replay the Learn pile.",
-     "parent": "If the same card tricks your child twice, run the bottle test again at home with it in mind."
+     "parent": "If the same card tricks your child twice, do the Three Jets experiment again at home with that card in mind."
     },
     {
      "id": "s5",
      "mins": 3,
      "do": "Ask the question below. Let your child think for a moment before they answer.",
-     "say": "Look at the cards where the answer was Same. What did the shape or the amount of water change? What did not change?",
+     "say": "Look at the cards where the answer was Same. The shape or the amount of water was different on each side. What was the same?",
      "kid": "Which cards had the answer Same? What was the same in them?",
      "ask": [
       {
@@ -715,7 +715,7 @@
        ]
       }
      ],
-     "think": "Can you think of two things in your house that have the same push for this reason?"
+     "think": "Can you think of two places in your house where water is equally deep, and so pushes equally?"
     }
    ]
   }
@@ -726,7 +726,7 @@
    "title": "Three Jets: how far does water squirt from holes at three heights?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment you make three holes in a bottle at three heights, fill it with water, and measure how far each jet lands. Distances in the table are typical, not promised: your bottle, holes and stool will give different numbers, but the lowest hole should land farthest. You find out where the push of water is strongest.",
+   "context": "In this experiment you make three holes in a bottle at three heights, fill it with water, and measure how far each jet lands. You find out where the push of water is strongest. The distances in the example table are made up. Your bottle, holes and stool will give different numbers, but the jet from the lowest hole should land farthest.",
    "question": "A bottle has three holes of the same size, at three different heights. When the water squirts out, which hole sends its jet farthest, and which sends it the shortest distance?",
    "predict": "Before you start, guess. Which hole will squirt the farthest, the top one, the middle one or the bottom one? Which will squirt the shortest distance? Why do you think so?",
    "fair_test": "You use one bottle, with three holes made by the same tool, so they are the same size. The water starts at the same line each time, and you keep it there by topping up from a jug. The bottle stands on the same stool each time, and you peel off all three tapes at the same moment. Only the height of the hole changes, so any difference in the jets comes from the height.",
@@ -766,7 +766,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes, by pushing the compass point or nail away from the body into the bottle on a folded cloth. Keep fingers behind the point. Wet floors are slippery. Wipe up water at once. Keep water away from electric sockets and switches.",
+   "safety": "A grown-up makes the holes. Rest the bottle on a folded cloth and push the compass point or nail into it, away from the body. Keep fingers behind the point. Wet floors are slippery. Wipe up water at once. Keep water away from electric sockets and switches.",
    "record": "Fill in the table with the three results for each hole. Then draw the bottle with its three jets and show where each one landed.",
    "example_chart": {
     "type": "table",
@@ -826,7 +826,7 @@
      "mins": 5,
      "do": "Show the bottle, the stool and the jug. Ask your child to guess, and to give a reason. Write the guess down. Do not correct it.",
      "say": "We will make three holes, one high, one in the middle and one low. We fill the bottle with water. Which hole will squirt the farthest? Which will squirt the shortest distance? Why do you think so?",
-     "kid": "Three holes in a bottle. Which squirts the farthest? Why?",
+     "kid": "A bottle has three holes. Which one squirts the farthest? Why?",
      "ask": [
       {
        "q": "Which hole will squirt the farthest, and why?",
@@ -854,17 +854,17 @@
      "mins": 6,
      "do": "1. Put the stool in the bathroom, or on a balcony. 2. Lay the tape measure on the floor along a straight line from the foot of the stool. 3. Stand the bottle on the edge of the stool, with the holes facing the tape measure.",
      "say": "Put the stool where water can drain away. Lay the tape measure on the floor, straight out from the stool. Stand the bottle on the edge, with the holes facing the tape.",
-     "kid": "Put the stool in the bathroom. Lay the tape on the floor. Stand the bottle on it.",
+     "kid": "Put the stool in the bathroom. Lay the tape measure on the floor. Stand the bottle on the edge of the stool.",
      "parent": "The stool matters. If the bottle stands on the floor, the lowest jet has no room to fall, and lands short. A 40 centimetre stool gives every jet room to fall."
     },
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. Fill the bottle to the 22 centimetre line. 2. One person peels off the tape in one quick pull. 3. Another person pours from the jug. 4. Watch where each jet lands. Mark the wet spots. One child and a parent: the child peels and watches, the parent pours. Two to four children: one peels, one pours, one marks, one measures.",
+     "do": "1. Fill the bottle to the 22 centimetre line. 2. One person peels off the tape in one quick pull. 3. Another person pours water from the jug to keep the water at the line. 4. Watch where each jet lands. Mark the wet spots. With one child and a parent, the child peels and watches, and the parent pours. With two to four children, one peels, one pours, one marks and one measures.",
      "say": "Fill the bottle to the line. Peel all three tapes off together. Keep pouring to hold the water at the line. Watch where each jet lands.",
      "kid": "Peel the tapes off together. Watch where the jets land. Mark the spots.",
      "wait": "Look at the first five seconds of the jets. After that, the water level starts to fall.",
-     "parent": "Wet marks on the newspaper show where each jet landed. The first jets are the ones to measure; in 5 seconds the level falls only about a centimetre, so topping up is a help, not a must. Read the distance as quickly as you can. Do the test again on a dry bottle with fresh tape: tape will not stick to a wet bottle. A phone video from the side also helps."
+     "parent": "Wet marks on the newspaper show where each jet landed. Measure where the jets land in the first 5 seconds. In that time the level falls only about a centimetre, so topping up helps but is not essential. Read the distance as quickly as you can. To do the test again, dry the bottle and use fresh tape, because tape will not stick to a wet bottle. A phone video from the side also helps."
     },
     {
      "id": "s5",
@@ -888,7 +888,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Lower the water line by 10 centimetres, to 12 centimetres. 2. Peel off the tapes again and watch the jets. 3. Compare with the first time.",
+     "do": "1. This time fill the bottle only to 12 centimetres above the base, which is 10 centimetres lower than before. 2. Peel off the tapes again and watch the jets. 3. Compare with the first time.",
      "say": "Now we try a lower water line. Peel off the tapes again. Are the jets longer or shorter? What do you think this tells us about the water above?",
      "kid": "Lower the water line. Test again. Are the jets longer or shorter?",
      "ask": [
@@ -908,7 +908,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why did it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: the push of water is bigger when the water is deeper. What I saw: the lowest hole squirted the farthest, and the jets got shorter when the water was lower. Why: the push comes from the weight of the water above, and deeper holes have more water above them.",
      "think": "If the bottle were twice as wide but held the same depth of water, do you think the jets would be longer, shorter or the same? Why?"
     }
@@ -920,7 +920,7 @@
    "mins": 45,
    "days": 1,
    "context": "In this experiment you fill a clear hose with coloured water, and use it to mark two spots on a wall 3 metres apart. You find out if the marks are at the same height, and how a wide funnel and an air bubble change the result.",
-   "question": "A clear hose full of water has one end at each of two spots on a wall, 3 metres apart. The water in the hose stands at some height at each end. Are the two heights the same? Does a wide funnel on one end change it? Does a bubble of air?",
+   "question": "A clear hose full of water is held with its two ends against a wall, 3 metres apart. Does the water stand at the same height at both ends? Does a wide funnel on one end change that? Does a bubble of air?",
    "predict": "Before you start, guess. Will the two marks be at the same height from the floor? Will the water stand higher in the wide funnel or in the thin end of the hose? Why do you think so?",
    "fair_test": "You use the same hose, filled with the same coloured water, for every test. The two ends are held against the same wall, 3 metres apart, and you wait for the water to stop moving before you mark it. You measure the height of each mark from the floor in the same way. Only one thing changes in each test: a plain end, a funnel on one end, or a bubble in the hose.",
    "results_table": [
@@ -1021,7 +1021,7 @@
      "mins": 5,
      "do": "Show the hose, the funnel and the wall. Ask your child to guess, and to give a reason. Write the guess down. Do not correct it.",
      "say": "We will fill a long hose with water and use it to mark two spots on a wall, 3 metres apart. Will the two marks be at the same height? Why do you think so?",
-     "kid": "A hose full of water. Two marks, 3 metres apart. Same height? Why?",
+     "kid": "We mark the water level at both ends of a hose full of water, 3 metres apart. Will the two marks be at the same height? Why?",
      "ask": [
       {
        "q": "Will the two marks be at the same height from the floor, and why?",
@@ -1068,7 +1068,7 @@
        "The hose is longer than the wall"
       ],
       "a": 0,
-      "why": "Water that can flow freely settles to the same level everywhere it is joined. So the water at both ends stands at the same height. Picking the other answers means looking at things that have no link to the water level."
+      "why": "Water that can flow freely settles to the same level everywhere it is joined. So the water at both ends stands at the same height. The colour of the wall and the length of the hose have nothing to do with the water level."
      }
     },
     {
@@ -1102,7 +1102,7 @@
      "mins": 6,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why did it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why it happened.",
      "parent": "This is claim, evidence and reasoning. A good answer sounds like this. What I think: water in joined containers settles at the same level, whatever their width. What I saw: the two marks were within a few millimetres, the funnel made no difference, and the bubble spoiled it. Why: water at the same depth has the same push, so if one side were higher it would be pushed down until the push was equal.",
      "think": "How could a mason use this hose to check that the tops of two walls in a house are at the same height?"
     }
@@ -1183,7 +1183,7 @@
      "do": "1. Open the tap fully. 2. Hold the bottle under it and start the timer. 3. Stop when the bottle is full. 4. Write the time. 5. Pour the water into the bucket. 6. Do the same for each tap.",
      "say": "Open the tap fully. Start the timer when the bottle goes under. Stop when it is full. Write the time. Do all the taps. Keep the water in the bucket.",
      "kid": "Open the tap fully. Time one litre. Write it down. Try every tap.",
-     "parent": "Close all the other taps first, so the same push is not shared with other taps. Time each tap twice and use the middle number if you can. Use the bucket of water for plants. Roles for 2 to 4 children: one holds the bottle, one times, one writes, and then swap so each child times one tap. One child alone: the parent holds the bottle while the child times and writes."
+     "parent": "Close all the other taps first, so the same push is not shared with other taps. Time each tap twice and use the middle number if you can. Use the bucket of water for plants. With 2 to 4 children, one holds the bottle, one times and one writes, and then they swap so each child times one tap. With one child, the parent holds the bottle while the child times and writes."
     },
     {
      "id": "s3",
@@ -1196,12 +1196,12 @@
       "t": "mcq",
       "q": "The tap closest below the roof tank filled the bottle the slowest. What could explain this?",
       "options": [
-       "There is less depth of water above it pushing it than above a lower tap",
+       "It has less depth of water above it than a lower tap has, so the push is smaller",
        "It is the oldest tap",
        "Water cannot go uphill"
       ],
       "a": 0,
-      "why": "A tap close below the tank has only a small depth of water above it, so the push is smaller. Picking 'oldest' could be partly true for other reasons, but it does not link to the push. Water going 'uphill' is not the issue, as the tap is below the tank."
+      "why": "A tap close below the tank has only a small depth of water above it, so the push is smaller. An old tap might be slow for other reasons, but its age has nothing to do with the push. Water does not have to go uphill here, because the tap is below the tank."
      }
     },
     {
@@ -1219,7 +1219,7 @@
    "title": "Four Holes, One Squeeze: does a push spread through water?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you fill a bottle with water, with four holes in a ring at one height. You squeeze the bottle, and you watch what the four jets do.",
+   "context": "In this activity you fill a bottle that has four holes in a ring at one height. You squeeze the bottle, and you watch what the four jets do.",
    "materials": [
     {
      "item": "a plastic bottle of 500 millilitres with a tight cap, with thin sides that can be squeezed (a packaged-water bottle works well)",
@@ -1246,7 +1246,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes, by pushing the compass point or needle away from the body into the bottle on a folded cloth. Wet floors are slippery. Wipe up spills at once.",
+   "safety": "A grown-up makes the holes. Rest the bottle on a folded cloth and push the compass point or needle into it, away from the body. Wet floors are slippery. Wipe up spills at once.",
    "schedule": [
     {
      "day": 1,
@@ -1274,7 +1274,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. A grown-up makes four holes in a ring around the bottle, 5 centimetres above the base. 2. Cover each hole with a piece of tape. 3. Ask your child to guess what will happen when the bottle is squeezed.",
-     "say": "Four holes, all at the same height. When we squeeze the bottle, what will the four jets do? Will they be the same or different? Why do you think so?",
+     "say": "The bottle has four holes, all at the same height. When we squeeze the bottle, what will the four jets do? Will they be the same or different? Why do you think so?",
      "kid": "A grown-up makes four holes. When you squeeze, what will the jets do? Why?",
      "adult": true,
      "ask": [
@@ -1426,7 +1426,7 @@
        "Everywhere the same"
       ],
       "a": 0,
-      "why": "The push of the water is biggest at the bottom, so the wall must be strongest there. Picking the top mixes up high with strong. Picking the same everywhere would waste material at the top and risk breaking at the bottom."
+      "why": "The push of the water is biggest at the bottom, so the wall must be strongest there. The top is the highest part, but the push there is the smallest, so it does not need to be thick. A wall that is the same everywhere would waste material at the top and risk breaking at the bottom."
      }
     },
     {
@@ -1435,7 +1435,7 @@
      "do": "Ask your child to show the drawing to someone and explain it.",
      "say": "Show your drawing to someone. Explain why the arrows are different lengths and why the wall is the shape it is.",
      "kid": "Show your drawing. Explain why the wall is thickest at the bottom.",
-     "think": "Why do you think builders of dams a thousand years ago still made them thicker at the bottom?"
+     "think": "Builders a thousand years ago did not know the rule of pressure. Why do you think they made dams thicker at the bottom anyway?"
     }
    ]
   },
@@ -1513,11 +1513,11 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. A grown-up pricks a hole, about 2 millimetres wide, through one side of a straw, near the top, with the pin. 2. Put the straw in the glass. 3. Try to drink. 4. Cover the hole with a finger and try again.",
+     "do": "1. With the pin, a grown-up pricks a hole about 2 millimetres wide in one side of a straw, near the top. 2. Put the straw in the glass. 3. Try to drink. 4. Cover the hole with a finger and try again.",
      "say": "A grown-up will make a small hole near the top of this straw. Try to drink. Now cover the hole with your finger and try again. What changes?",
      "kid": "Try to drink through the straw with a hole. Then cover the hole.",
      "adult": true,
-     "parent": "A tiny pinprick may still let you drink, so make a hole you can see, and place it above the drink. With the hole open, you will get a little or no drink. With the hole covered, the straw works again."
+     "parent": "A tiny pinprick may still let you drink, so make a hole you can see, and place it above the drink. With the hole open, you will get little or no drink. With the hole covered, the straw works again."
     },
     {
      "id": "s3",
@@ -1525,7 +1525,7 @@
      "do": "1. Press a thick ring of clay round the mouth of the small bottle. 2. Push a straw through the clay into the bottle. 3. Make sure there is no gap in the clay. 4. Try to drink from the bottle.",
      "say": "Seal the mouth of the bottle with clay around the straw. Now try to drink the water. What happens?",
      "kid": "Seal the bottle with clay. Try to drink through the straw.",
-     "parent": "In the sealed bottle you cannot drink after the first tiny sip, and a thin bottle will crumple inwards. If you can still drink, there is a gap in the clay: press it again. because the air cannot push on the water. In the open glass, the air pushes. This is why the straw with a hole does not work either.",
+     "parent": "In the sealed bottle you cannot drink after the first tiny sip, because the outside air cannot push on the water. A thin bottle will crumple inwards. If you can still drink, there is a gap in the clay, so press it again. In the open glass, the air pushes on the water. This is why the straw with a hole does not work either.",
      "check": {
       "t": "mcq",
       "q": "When you drink through a straw, what pushes the drink up?",
@@ -1535,14 +1535,14 @@
        "The straw makes the water lighter"
       ],
       "a": 0,
-      "why": "Drawing in your breath lowers the pressure inside the straw. The air outside is pushing on the surface of the drink, and this push drives the drink up the straw. Picking 'pulls like a rope' is how it feels, but the experiment with the sealed bottle shows it cannot be right. Picking 'lighter' is not true."
+      "why": "Drawing in your breath lowers the pressure inside the straw. The air outside is pushing on the surface of the drink, and this push drives the drink up the straw. 'Pulls like a rope' is how it feels, but the test with the sealed bottle shows it cannot be right. The straw does not make the water lighter."
      }
     },
     {
      "id": "s4",
      "mins": 4,
      "do": "Ask the question below.",
-     "say": "Drinking feels like sucking. What is really happening to the drink? Who is doing the pushing?",
+     "say": "Drinking feels like sucking. What is really happening to the drink? What is doing the pushing?",
      "kid": "What is really happening when you drink through a straw?",
      "think": "If you had a very long straw, do you think you could drink from a glass on the floor while standing on a roof? Why or why not?"
     }
@@ -1614,8 +1614,8 @@
      "id": "s1",
      "mins": 8,
      "do": "Show your child the syringes and the tube. Ask what will happen if the two syringes are joined with water between them, and one plunger is pushed.",
-     "say": "Two syringes, joined by a tube of water. If I push one plunger in, what will the other plunger do? Why do you think so?",
-     "kid": "Two syringes joined by water. Push one. What happens to the other? Why?",
+     "say": "Two syringes are joined by a tube full of water. If I push one plunger in, what will the other plunger do? Why do you think so?",
+     "kid": "Two syringes are joined by a tube full of water. You push one plunger in. What happens to the other? Why?",
      "ask": [
       {
        "q": "What will the other plunger do, and why?",
@@ -1674,7 +1674,7 @@
        ]
       }
      ],
-     "parent": "Fixing the syringe close to the hinge makes the arm swing wider but with less force. Fixing it far from the hinge gives more force but a smaller swing. This is a trade-off.",
+     "parent": "Fixing the syringe close to the hinge makes the arm swing wider but with less force. Fixing it far from the hinge gives more force but a smaller swing. This is a trade-off: you gain one and give up some of the other.",
      "think": "If you used a big syringe on the arm and a small one for the control, would you need to push harder or less hard?"
     }
    ]
@@ -1686,7 +1686,7 @@
    "title": "The Farthest Squirt",
    "mins": 40,
    "context": "This is a design challenge. You use one bottle and one hole to make a jet of water that lands as far away as you can.",
-   "problem": "You have one 2 litre bottle with the cap off, and you may make one hole in it. Make the jet land as far from the bottle as possible. You may choose the height of the hole, the depth of the water, the height of the bottle above the floor, and a tilted straw in the hole (the hole is then about 6 millimetres wide, to fit the straw).",
+   "problem": "You have one 2 litre bottle with the cap off, and you may make one hole in it. Make the jet land as far from the bottle as possible. You may choose the height of the hole, the depth of the water and the height of the bottle above the floor. You may also put a tilted straw in the hole. For the straw, the hole is made about 6 millimetres wide, so that the straw fits.",
    "constraints": [
     "Use only one hole, about 2 millimetres wide, made by a grown-up. For the straw design, a grown-up widens the hole to fit the straw, about 6 millimetres.",
     "Fill to the same line each try. Read where the jet lands in the first 3 seconds, while a helper tops up from a jug.",
@@ -1700,7 +1700,7 @@
     "a tape measure and strips of newspaper",
     "a jug of water, masking tape, and a bent straw with modelling clay or atta dough"
    ],
-   "safety": "A grown-up makes the hole, pushing the compass point or needle away from the body into the bottle on a folded cloth. Keep fingers behind the point. Keep the bottle steady on the edge of a table, away from the floor edge. Wipe up spills at once, because wet floors are slippery.",
+   "safety": "A grown-up makes the hole. Rest the bottle on a folded cloth and push the compass point or needle into it, away from the body. Keep fingers behind the point. Keep the bottle steady on the edge of a table, away from the floor edge. Wipe up spills at once, because wet floors are slippery.",
    "general": [
     "Put the bottle on a higher stool, so the jet has further to fall.",
     "Fill the bottle to the top, so the water is deeper above the hole.",
@@ -1827,19 +1827,19 @@
   },
   {
    "t": "mcq",
-   "p": "A boy dives deeper and deeper in a pool, and his ears start to hurt. Why?",
+   "p": "When you dive deeper and deeper in a pool, your ears start to hurt. Why?",
    "opts": [
-    "The push of the water on his ears gets bigger with depth",
+    "The push of the water on your ears gets bigger with depth",
     "The water gets colder",
     "The water gets lighter"
    ],
    "a": 0,
-   "why": "There is more water above him at greater depth, so it pushes harder on his ears.",
+   "why": "The deeper you go, the more water there is above you, so it pushes harder on your ears.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "The water in the spout of a kettle and the water in its body stand at which heights?",
+   "p": "A kettle has water in it. How high does the water stand in the spout, compared with the body?",
    "opts": [
     "The same height",
     "Higher in the spout",
@@ -1932,12 +1932,12 @@
     "They push equally"
    ],
    "a": 0,
-   "why": "Pressure follows the weight of the liquid. Honey is denser than water, and coconut oil is lighter than water.",
+   "why": "At the same depth, a liquid that is heavier for its size pushes harder. Honey is heavier for its size than water, and coconut oil is lighter than water.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "A big piston has 10 times the area of a small piston, and the two are joined by a liquid. What do you gain and what do you lose?",
+   "p": "A big piston has 10 times the area of a small piston, and the two are joined by a liquid. You push the small piston. What do you gain and what do you lose at the big piston?",
    "opts": [
     "Ten times the force, but the big piston moves one tenth as far",
     "Ten times the force and ten times the distance",
@@ -2000,7 +2000,7 @@
       "It stands higher in the end that is wider"
      ],
      "a": 0,
-     "why": "Water that can flow freely settles to the same level everywhere it is joined. If one end were higher, the push would move water until they were equal.",
+     "why": "Water that can flow freely settles to the same level everywhere it is joined. If one end were higher, the push would move water until the two levels were equal.",
      "outcome": 4
     },
     {
@@ -2204,7 +2204,7 @@
     },
     {
      "t": "mcq",
-     "p": "20 centimetres of coconut oil pushes less on the bottom of a jar than 20 centimetres of water, though coconut oil is thicker. Why?",
+     "p": "Coconut oil 20 centimetres deep pushes less on the bottom of a jar than water 20 centimetres deep, though coconut oil is thicker. Why?",
      "opts": [
       "Coconut oil is lighter for its size",
       "Coconut oil is slower",
@@ -2261,7 +2261,7 @@
      "t": "truefalse",
      "p": "At 10 metres under water, the total push is about double the push at the surface.",
      "a": true,
-     "why": "True. The air adds about one unit of push, and every 10 metres of water adds about one more.",
+     "why": "True. At the surface there is the push of the air. Every 10 metres of water adds about that much again, so at 10 metres the total is about double.",
      "outcome": 2
     },
     {
@@ -2332,7 +2332,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "All four pass a push through a liquid, but the first three are hydraulic machines.",
+     "why": "All four pass a push through a liquid, but only the first three are hydraulic machines.",
      "outcome": 5
     },
     {
@@ -2402,7 +2402,7 @@
      "ask": "Who do you agree with? Give a reason. Then say one thing that the other person has right.",
      "lines": 4,
      "a": "A strong answer agrees with Imran, because pressure depends only on depth, and both are 5 metres deep. It also says Rani is right that the lake has a much bigger total force, because it pushes on a much bigger area.",
-     "why": "Both have a point. The push on each bit is the same, as Imran says. But the whole lake bed is far bigger, so the total force is bigger, as Rani feels.",
+     "why": "Both have a point. The push on each bit is the same, as Imran says. But the whole lake bed is far bigger, so the total force on it is bigger. That is the part Rani has right.",
      "outcome": 3
     }
    ]
@@ -2415,7 +2415,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A dam holds back water 30 metres deep. Not counting the air, about how many times the push of the air is the push of the water at the bottom?",
+     "p": "A dam holds back water 30 metres deep. Every 10 metres of water pushes about as hard as the air does. Leave out the air itself. About how many times as hard as the air does the water push at the bottom?",
      "opts": [
       "3 times",
       "30 times",
@@ -2427,14 +2427,14 @@
     },
     {
      "t": "mcq",
-     "p": "A diver is 20 metres down in the sea. Counting the air above, about how many times the surface push does the diver feel?",
+     "p": "A diver is 20 metres down in the sea. Every 10 metres of water adds about as much push as the air at the surface. Counting the air too, about how many times the push at the surface does the diver feel?",
      "opts": [
       "2 times",
       "3 times",
       "20 times"
      ],
      "a": 1,
-     "why": "The air adds 1 unit. Each 10 metres of water adds about 1 more, so 20 metres adds 2. The total is 3 times.",
+     "why": "The air counts as 1. Each 10 metres of water adds about 1 more, so 20 metres adds 2. The total is 3 times the push at the surface.",
      "outcome": 2
     },
     {
@@ -2536,14 +2536,14 @@
       "Sea level",
       "10 metres under water"
      ],
-     "why": "On a mountain there is less air above, so the push is smaller. At sea level the air pushes about 1 unit. Under 10 metres of water the total is about 2 units.",
+     "why": "On a mountain there is less air above, so the push is smaller. At sea level you have the full push of the air. Under 10 metres of water the total is about double that.",
      "outcome": 6
     },
     {
      "t": "write",
      "p": "A top-floor tap runs well when the roof tank is full and weakly when it is nearly empty. A ground-floor tap is strong either way. Explain both.",
      "lines": 4,
-     "a": "The top-floor tap is only a little below the tank, so the depth of water above it changes a lot when the tank empties. The ground-floor tap is far below the tank, so even a nearly empty tank adds little change to the depth above it.",
+     "a": "The top-floor tap is only a little below the tank, so the depth of water above it changes a lot when the tank empties. The ground-floor tap is far below the tank, so the depth of water above it hardly changes when the tank empties.",
      "why": "A strong answer compares the depth above each tap and says why the change matters more near the top.",
      "outcome": 3
     },
@@ -2568,7 +2568,7 @@
      "p": "A friend says a siphon works because the air 'sucks' the water along. What would you tell her, and what do scientists still argue about?",
      "lines": 4,
      "a": "The water is pushed by the air outside and pulled by gravity on the longer side. Scientists still argue about how much comes from the air pressure, and how much from the water pulling itself along.",
-     "why": "A strong answer says sucking is not a push, and mentions the argument between the air-pressure view and the chain view.",
+     "why": "A strong answer says the air pushes and does not suck, and mentions the argument between the air-pressure view and the chain view.",
      "outcome": 6
     },
     {
@@ -2590,7 +2590,7 @@
     },
     {
      "t": "perspective",
-     "p": "Meena and Joseph disagree about a tall flat building where the top-floor tap is weak.",
+     "p": "Meena and Joseph disagree about a tall building of flats where the top-floor tap is weak.",
      "views": [
       {
        "who": "Meena",
@@ -2797,7 +2797,7 @@
    "context": "This is about the level line test with a hose.",
    "problem": "The first mark was 101.2 centimetres above the floor and the second mark was 101.5 centimetres above the floor, 3 metres away. What is the difference in centimetres and in millimetres? How many millimetres is that for each metre of the wall?",
    "answer": "0.3 centimetres, which is 3 millimetres. That is 1 millimetre for each metre.",
-   "explain": "101.5 take away 101.2 is 0.3 centimetres. There are 10 millimetres in a centimetre, so 0.3 centimetres is 3 millimetres. The wall is 3 metres long, and 3 divided by 3 is 1 millimetre in each metre.",
+   "explain": "101.5 take away 101.2 is 0.3 centimetres. There are 10 millimetres in a centimetre, so 0.3 centimetres is 3 millimetres. The wall is 3 metres long. 3 millimetres shared over 3 metres is 1 millimetre for each metre.",
    "math_unit": "math.length.standard-units-length.L4",
    "why_maths": "Changing to millimetres and sharing along the wall shows how small the error is.",
    "how": "e2"
@@ -2821,7 +2821,7 @@
    "how": "p1"
   },
   {
-   "context": "This is about a roof tank like the ones in the unit.",
+   "context": "This is about a roof tank.",
    "problem": "A roof tank is 2 metres long, 1.5 metres wide and 1 metre deep. How many cubic metres does it hold? One cubic metre holds 1,000 litres. How many litres is that? By 7 in the morning, three quarters of the water has been used. How many litres are left?",
    "answer": "3 cubic metres, which is 3,000 litres. 750 litres are left.",
    "explain": "2 times 1.5 is 3, and 3 times 1 is 3 cubic metres. 3 times 1,000 is 3,000 litres. Three quarters of 3,000 is 2,250, so 3,000 take away 2,250 leaves 750 litres. Only a quarter is left, so the water is shallow.",
@@ -2956,7 +2956,7 @@
    "a": "The push of the water is biggest there."
   },
   {
-   "q": "What happens when you push on a closed liquid?",
+   "q": "What happens when you push on a liquid trapped in a closed pipe?",
    "a": "The push goes to every part of it."
   },
   {
@@ -3042,23 +3042,23 @@
   ]
  },
  "roots": {
-  "context": "We have measured the push of water at different depths and watched water find its level in a hose. Now we ask what it means that a place in water is held only by the water above it, and what that says about us.",
+  "context": "In this unit you measure the push of water at different depths, and watch water find its level in a hose. One rule is behind both: a spot in water is pushed only by the water above it. This part looks at that rule, and at where it shows up in your own body.",
   "deep_truth": {
-   "truth": "In the bottle test, the lowest hole squirted farthest, though all three holes met the same water. In the hose test, a thin tube and a wide bucket stood at the same height. A place in water is pushed only by the water above it. How much water lies around it makes no difference.",
-   "habit": "We think more water means more push, so that a big tank beats a small one and a wide lake beats a thin tube. The tests show that depth matters, and the amount does not.",
-   "evidence": "In the bottle test, the jets from the deeper holes landed farther. In the hose test, the water in the wide funnel and the thin tube stood at the same height. If your results differ, write them down as they are."
+   "truth": "In the Three Jets experiment, the lowest hole squirted farthest, though all three holes were in the same bottle of water. In the Same Level experiment, the water stood at the same height in the thin hose and in the wide funnel. A spot in water is pushed only by the water above it. How much water lies around it makes no difference.",
+   "habit": "We think more water means more push, so that a big tank beats a small one and a wide lake beats a thin tube. The Three Jets and Same Level experiments show that depth matters, and the amount does not.",
+   "evidence": "In the Three Jets experiment, the jets from the deeper holes landed farther. In the Same Level experiment, the water in the wide funnel and the thin hose stood at the same height. If your results differ, write them down as they are."
   },
   "three": {
-   "who_am_i": "Your blood is a liquid too. When you stand, the push in your feet is bigger than in your head, just as a lower hole in the bottle pushes harder than a higher one.",
+   "who_am_i": "Your blood is a liquid too. When you stand, the push in your feet is bigger than in your head, just as water pushes harder at a lower hole in a bottle than at a higher one.",
    "what_is_life": "A fish feels the push of the water all over her body, and it grows as she swims deeper. Scientists think deep-diving whales let their lungs fold flat as they go down.",
    "what_is_this_world": "The sea, the rain in the clouds and the water in a tank all follow the same rule. The deeper you go, the more water lies above you, and the more it pushes."
   },
-  "thread": "Gravity pulls on every bit of water, and the water below must hold up the water above. So the push grows with depth, and it is the same in every direction at one depth. A bottle, a dam and a hose all follow this one rule. Water settles to one level whenever it can flow freely, because only then is the push equal at equal depths.",
+  "thread": "Gravity pulls on every bit of water, and the water below must hold up the water above. So the push grows with depth, and it is the same in every direction at one depth. A bottle, a dam and a hose all follow this one rule. Water that can flow freely settles to one level, because it keeps moving until the push is equal at equal depths.",
   "teachings": [
    {
     "source": "Thirukkural 396, by Thiruvalluvar",
     "teaching": "The deeper you dig in sandy ground, the more water springs up. In the same way, the more you learn, the more knowledge springs up in you. Scholars do not agree on the date of the Kural, and some place it about two thousand years ago.",
-    "link": "The deeper the well, the stronger the push of the water at the bottom. Deeper means more push, which is the same rule you saw in the bottle test."
+    "link": "The deeper the well, the stronger the push of the water at the bottom. Deeper means more push, which is the same rule you saw in the Three Jets experiment."
    },
    {
     "source": "Tao Te Ching, chapter 66",
@@ -3076,7 +3076,7 @@
     "status": "settled"
    },
    {
-    "text": "How a siphon works is still argued, between the push of the air and the pull of water on itself.",
+    "text": "Scientists still argue about how a siphon works: by the push of the air, or by the water pulling itself along.",
     "status": "debated"
    }
   ],
@@ -3092,7 +3092,7 @@
   },
   "ask": [
    "If a place in water is pushed only by the water above it, what is pushing on a fish at the bottom of a pond?",
-   "A thin tube and a huge lake push equally at the same depth. Which one is stronger?",
+   "A thin tube and a huge lake push equally on each small bit of the bottom at the same depth. In what way is the lake still stronger?",
    "Your heart pushes blood up to your head against gravity. What would happen to the push in your feet if you lay down flat?"
   ],
   "art": "A glass tank of water with arrows of push on the walls, short at the top and long at the bottom, and a small fish in the middle."

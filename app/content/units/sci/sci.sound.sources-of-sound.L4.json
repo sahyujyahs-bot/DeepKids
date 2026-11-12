@@ -3,12 +3,12 @@
   "title": "Sources of sound: shaking, blowing, popping and rubbing",
   "level": 4,
   "summary": {
-    "text": "Tap a glass bottle that has water in it, and more water gives a lower note. Blow across the same bottle, and more water gives a higher note. Same bottle, same water, opposite order. Your child finds out why, by asking what actually shakes in each case. Then comes the sound of a damp finger squeaking on glass, a clap that has no steady note, and a whispered 'ee' and 'oo' that can still be told apart with no buzz in the throat at all. Every sound starts with air being pushed, but there are four different ways to push it. A note belongs partly to what makes it and partly to the space that shapes it. Nobody yet knows exactly why some pairs of notes sound sweet to nearly everyone.",
+    "text": "Tap a glass bottle that has water in it, and more water gives a lower note. Blow across the same bottle, and more water gives a higher note. The bottle and the water are the same, but the order of the notes is opposite. Your child finds out why, by asking what actually shakes in each case. Your child also studies a damp finger squeaking on glass, a clap that has no steady note, and a whispered 'ee' and 'oo' that can still be told apart with no buzz in the throat at all. Every sound starts with air being pushed, but there are four different ways to push it. The note you hear depends partly on what makes the sound and partly on the space that shapes it. Nobody yet knows exactly why some pairs of notes sound sweet to nearly everyone.",
     "art": "A row of glass bottles with different amounts of water on a kitchen table, a spoon tapping one, a child blowing across another, and a damp finger squeaking on a window."
   },
   "intro": {
     "hook": "Line up three glass bottles with different amounts of water. Tap each one with a spoon and listen. The fullest bottle gives the lowest note. Now blow gently across the top of each bottle, like blowing across a flute. Listen again. Is the fullest bottle still the lowest?",
-    "text": "It is not. The order flips over. The same bottle makes a low note when you tap it and a high note when you blow across it. In this unit you find out what shakes in each case, and why that matters. You also meet three other ways to make a sound, by popping, by rubbing and by whispering, and you test them with things from your kitchen and your window.",
+    "text": "When you blow across the bottles, the fullest bottle is not the lowest. It is the highest. The same bottle makes a low note when you tap it and a high note when you blow across it. In this unit you find out what shakes in each case, and why that matters. You also meet three other ways to make a sound, by popping, by rubbing and by whispering, and you test them with things from your kitchen and your window.",
     "art": "Three glass bottles with different water levels, a spoon tapping one and a child blowing across the mouth of another."
   },
   "outcomes": [
@@ -55,13 +55,13 @@
     },
     {
       "term": "Resonance",
-      "meaning": "When something vibrates strongly because the vibration it is given matches its own natural pitch. Air in a bottle has resonance at some pitches and not at others.",
+      "meaning": "Something vibrates strongly when the vibration it is given matches its own natural pitch. This is called resonance. Air in a bottle resonates at some pitches and not at others.",
       "example": "Sing slowly up a scale near the mouth of an empty bottle. At one note, the bottle suddenly booms.",
       "art": "A child singing at the mouth of a bottle, with the bottle glowing and shaking at one note."
     },
     {
       "term": "Air column",
-      "meaning": "The air inside a pipe, bottle or tube, as a standing column of air. A longer air column gives a lower note. A shorter one gives a higher note.",
+      "meaning": "The air inside a pipe, bottle or tube. A longer air column gives a lower note. A shorter one gives a higher note.",
       "example": "In a bottle with water in it, the air column is the part from the water to the top.",
       "art": "A bottle cut open to show the water at the bottom and a labelled column of air above it."
     },
@@ -79,7 +79,7 @@
     },
     {
       "term": "Stick-slip",
-      "meaning": "Two surfaces that rub, grip, then slip, then grip again, many times each second. It makes a squeak or a screech.",
+      "meaning": "What happens when two surfaces rub: they grip, then slip, then grip again, many times each second. It makes a squeak or a screech.",
       "example": "A damp finger moved across a window sticks and slips, and squeaks.",
       "art": "A finger on a window with tiny arrows showing it gripping and slipping in tiny jumps."
     },
@@ -110,13 +110,13 @@
     {
       "term": "Nodal line",
       "meaning": "A line on a vibrating plate or skin that stays still while the parts on either side move. Sand sprinkled on the plate collects along these lines.",
-      "example": "Sand on a steel plate that is rung with a violin bow gathers into lines and shapes.",
+      "example": "When a steel plate with sand on it is stroked with a violin bow, the sand gathers into lines and shapes.",
       "art": "A square plate with sand collected in a star-shaped pattern of lines, and a violin bow at the edge."
     },
     {
       "term": "Noise",
       "meaning": "A sound that mixes many pitches with no steady note. A hiss, a clap and the crash of waves are noise.",
-      "example": "Air blown out of a tyre makes a hiss. A tuning fork makes a pure note.",
+      "example": "Air let out of a tyre makes a hiss, which is noise. A tuning fork makes a pure note, which is not noise.",
       "art": "A pure note drawn as one smooth wave, beside a noise drawn as a jumble of many different wiggly lines."
     }
   ],
@@ -125,7 +125,7 @@
       "concept": "Four ways to start a sound",
       "status": "defined",
       "definition": "A sound starts when something pushes on the air. There are four common ways: a solid thing shakes, air shakes inside a space, the air gets a sudden push, or two surfaces rub, stick and slip.",
-      "description": "In the earlier unit you learned that every sound comes from something vibrating. That is true, and it is the most important idea. But it hides some differences. A shaking solid thing is the first way. A string, a drum skin, a bell, a steel plate or your vocal folds all push the air as they move. The second way is air shaking in a space. In a bansuri, a bottle or a conch, a stream of air or a tap sets the air inside shaking, and the shape of the space decides the note. The third way is a sudden push. A clap, a balloon bursting, a firecracker and thunder do not vibrate steadily. They squeeze the air once, hard, and the squeeze spreads out as a pop. The fourth way is rubbing. A damp finger on glass, chalk on a board, a squeaky door hinge and a cricket's wing all rub two surfaces together. They grip, slip, grip and slip again, hundreds or thousands of times each second, and that is a vibration too. In every case, something pushes on the air in a pattern, and the air carries the pattern to your ear. The four ways are not four different kinds of sound. They are four different ways to give the air a push. Real instruments often mix them. A bansuri uses air shaking in a space, and the player's breath also makes a hiss.",
+      "description": "Every sound comes from something vibrating. That is true, and it is the most important idea. But it hides some differences. A shaking solid thing is the first way. A string, a drum skin, a bell, a steel plate or your vocal folds all push the air as they move. The second way is air shaking in a space. In a bansuri, a bottle or a conch, a stream of air or a tap sets the air inside shaking, and the shape of the space decides the note. The third way is a sudden push. A clap, a balloon bursting, a firecracker and thunder do not vibrate steadily. They squeeze the air once, hard, and the squeeze spreads out as a pop. The fourth way is rubbing. A damp finger on glass, chalk on a board, a squeaky door hinge and a cricket's wing all rub two surfaces together. They grip, slip, grip and slip again, hundreds or thousands of times each second, and that is a vibration too. In every case, something pushes on the air in a pattern, and the air carries the pattern to your ear. The four ways are not four different kinds of sound. They are four different ways to give the air a push. Real instruments often mix them. A bansuri uses air shaking in a space, and the player's breath also makes a hiss.",
       "examples": [
         "A sitar string is a shaking solid. A bansuri is air shaking in a space. A clap is a sudden push. A squeaky chair is stick-slip.",
         "A cricket rubs a rough edge on one wing across a row of ridges on the other, like running a stick along a comb.",
@@ -147,17 +147,17 @@
       ],
       "perspectives": [],
       "art": "A number line from 20 hertz to 20,000 hertz with small pictures at the right places: an elephant rumble, a man's voice, a child's voice, a mosquito, and a high squeak.",
-      "context": "In the earlier unit you learned that a faster vibration gives a higher note. This card shows how scientists count that speed, and gives the numbers for things you know."
+      "context": "A faster vibration gives a higher note. This card shows how scientists count that speed, and gives the numbers for things you know."
     },
     {
       "concept": "Shorter means higher, in exact ratios",
       "status": "defined",
       "definition": "If you halve the length of a string or of an air column, the note goes up by one octave, which is twice as many vibrations each second. Simple ratios of length give the notes that blend best.",
-      "description": "Take a stretched string that gives the note Sa. Press it at its middle, so that only half of it can shake. It now vibrates twice as fast and gives the Sa one octave higher. A string two thirds as long vibrates one and a half times as fast and gives Pa. Sa and Pa are called a fifth in the Western system, and in Indian music theory they are samvadi, notes that agree. This is why the tanpura is tuned to Pa and Sa. The same rule works for pipes. The air in a pipe that is closed at one end vibrates at about the speed of sound divided by four times the pipe's length. Sound moves about 343 metres each second in warm air. So a closed pipe 17 centimetres long gives about 500 hertz, and one 34 centimetres long gives about 250 hertz, which is one octave lower. The rule for strings was written down by Mersenne in 1636. The rules say that vibration speed goes up when the string is shorter, tighter or thinner. It goes down when the string is longer, looser or thicker. There was an old story that Pythagoras found the ratios by listening to a blacksmith's hammers of different weights. Galileo pointed out in 1638 that the story cannot be true, because hammers of those weights do not give those notes. The ratios were real. How they were found is a legend.",
+      "description": "Take a stretched string that gives the note Sa. Press it at its middle, so that only half of it can shake. It now vibrates twice as fast and gives the Sa one octave higher. A string two thirds as long vibrates one and a half times as fast and gives Pa. Sa and Pa are called a fifth in the Western system, and in Indian music theory they are samvadi, notes that agree. This is why the tanpura is tuned to Pa and Sa. The same rule works for pipes. Take a pipe that is closed at one end. To find how many times the air in it vibrates each second, divide the speed of sound by four times the pipe's length. Sound moves about 343 metres each second in warm air. So a closed pipe 17 centimetres long gives about 500 hertz, and one 34 centimetres long gives about 250 hertz, which is one octave lower. The rule for strings was written down by Mersenne in 1636. The rules say that vibration speed goes up when the string is shorter, tighter or thinner. It goes down when the string is longer, looser or thicker. There was an old story that Pythagoras found the ratios by listening to a blacksmith's hammers of different weights. Galileo pointed out in 1638 that the story cannot be true, because hammers of those weights do not give those notes. The ratios are real, but the story of how they were found is a legend.",
       "examples": [
         "A veena has frets that shorten the string. Stopping it halfway gives the octave above the open string.",
-        "A bansuri hole near the end gives a high note, because the air column is short. All the holes covered gives the lowest note.",
-        "If a closed bottle air column is 20 centimetres long and another is 10 centimetres, the 10 centimetre one gives a note an octave higher."
+        "On a bansuri, opening a hole makes the air column shorter, so the note is higher. With all the holes covered, the bansuri gives its lowest note.",
+        "If the air column in one bottle is 20 centimetres long and the air column in another is 10 centimetres long, the 10 centimetre one gives a note an octave higher."
       ],
       "perspectives": [],
       "art": "Three strings of the same material, one full length, one half length and one two thirds length, with note names Sa, upper Sa and Pa beside them.",
@@ -170,7 +170,7 @@
       "description": "Pluck a string and it seems to make one note. But the string does not only swing as one big loop. It also swings in two halves, in three thirds, in four quarters and more, all at the same moment. Each way of swinging makes its own tone. The slowest is the fundamental, and it sets the pitch you hear. The faster ones are overtones, and they are quieter. In 1636 Marin Mersenne was the first to report that he could hear the higher tones ringing above a plucked string. Your ear and brain mix them into one note. How strong each overtone is changes the character of the sound. This is called timbre. A flute has few strong overtones and sounds smooth. A sitar has many and sounds rich and buzzy. The tanpura has a special curved bridge, with a thread slipped under each string. The string brushes against the bridge as it swings, and this adds many strong overtones. The Indian scientist C. V. Raman studied this in the 1920s, and it gives the tanpura its shimmering sound. In 1822 the French mathematician Joseph Fourier showed that any repeating wave can be built from simple waves added together. In 1863 the German scientist Hermann von Helmholtz used this to show that timbre is the mix of overtones. Plates and skins have overtones too. In 1787 the German physicist Ernst Chladni bowed a metal plate with sand on it. The sand jumped away from the parts that shook and gathered along lines that stayed still. Each note gave a different pattern. Napoleon saw this, and the French Academy offered a prize for a mathematical explanation. The self-taught mathematician Sophie Germain entered three times and won in 1816.",
       "examples": [
         "A bansuri and a violin can play the same Sa, and you can still tell them apart. Their overtones are different.",
-        "Touch a string lightly at its middle and pluck it. You hear a note one octave higher with a pure, bell-like sound, because the touch stops the fundamental and leaves the second overtone.",
+        "Touch a string lightly at its middle and pluck it. You hear a note one octave higher with a pure, bell-like sound. The touch stops the fundamental, so the string can only vibrate in two halves.",
         "Sand on a bowed plate gathers into star-like patterns. Each pattern shows one way the plate can vibrate."
       ],
       "perspectives": [],
@@ -181,15 +181,15 @@
       "concept": "Air in a bottle: why tapping and blowing give opposite orders",
       "status": "defined",
       "definition": "When you tap a bottle, the glass and the water shake. When you blow across it, the air inside shakes. More water makes the first note lower and the second note higher.",
-      "description": "Tap a glass bottle with a spoon. The glass wall shakes, and the water inside shakes with it. More water means more weight to shake, so the note is lower. Now blow across the top. What shakes is the air in the bottle. A bottle with a narrow neck acts like a spring of air with a plug of air in the neck. Less air inside means a stiffer spring, so the note is higher. More water means less air, so a fuller bottle gives a higher note when you blow. In a wider pipe the rule is easier: the air column vibrates at about the speed of sound divided by four times its length, so a shorter air column gives a higher note. The same bottle and the same water give opposite orders because different things are shaking. Helmholtz used glass bottles of different sizes in the 1860s to pick out single overtones from a complex sound. They are still called Helmholtz resonators. They also explain why a conch shell sounds like the sea. The shell is a cavity, and noise from the room makes the air inside resonate, at the pitch that fits the shell. The sound is not the sea at all. A bigger shell gives a deeper sound.",
+      "description": "Tap a glass bottle with a spoon. The glass wall shakes, and the water inside shakes with it. More water means more weight to shake, so the note is lower. Now blow across the top. What shakes is the air in the bottle. In a bottle with a narrow neck, the air inside acts like a spring, and the air in the neck acts like a plug sitting on the spring. Less air inside means a stiffer spring, so the note is higher. More water means less air, so a fuller bottle gives a higher note when you blow. In a wider pipe the rule is easier: a shorter air column gives a higher note. The same bottle and the same water give opposite orders because different things are shaking. Helmholtz used glass bottles of different sizes in the 1860s to pick out single overtones from a complex sound. They are still called Helmholtz resonators. Resonance also explains why a conch shell sounds like the sea. The shell is a cavity, which means a hollow space. Noise from the room makes the air inside resonate at the pitch that fits the shell. The sound is not the sea at all. A bigger shell gives a deeper sound.",
       "examples": [
-        "A big steel drum booms low and a small tin rings high, when blown across or tapped, because bigger spaces have lower natural notes.",
+        "Whether you blow across them or tap them, a big steel drum booms low and a small tin rings high. Bigger spaces have lower natural notes.",
         "Put your ear to a steel tumbler or a katori, and you hear a faint rushing. It is the noise of the room, with the pitch that fits the space inside.",
         "A jug filling up from a tap rises in pitch as the air above the water gets shorter. You can tell how full it is by listening."
       ],
       "perspectives": [],
       "art": "A glass bottle drawn twice: on the left being tapped with a spoon, with the glass wall and water shaking, and on the right being blown across, with the air column shaking.",
-      "context": "In the earlier unit you tapped glasses with different amounts of water. This card explains why blowing across the same bottles reverses the order."
+      "context": "When you tap bottles with different amounts of water, the notes come in one order. This card explains why blowing across the same bottles reverses the order."
     },
     {
       "concept": "Sound from moving air: whistles, flutes and singing wires",
@@ -199,7 +199,7 @@
       "examples": [
         "A bansuri player blows a thin stream of air against the sharp edge of the blowing hole. Changing how hard they blow can move the note up by a whole octave.",
         "Overhead wires can hum on a windy day. The thicker the wire, the lower the hum.",
-        "A cut bamboo pole with a hole in it can moan on a windy night, because the air inside is excited by the wind blowing over the edge."
+        "A cut bamboo pole with a hole in it can moan on a windy night, because the wind blowing over the edge of the hole sets the air inside shaking."
       ],
       "perspectives": [],
       "art": "A stream of air from a person's lips striking the sharp edge of a bansuri blowing hole, with small swirls on both sides, and a wire in the wind with a line of swirls trailing behind.",
@@ -223,7 +223,7 @@
       "concept": "Squeaks and screeches: sticking and slipping",
       "status": "defined",
       "definition": "A squeak happens when two surfaces rub, stick, slip, and stick again, over and over, very fast. The jerks make the surfaces vibrate, and they push the air.",
-      "description": "Drag your finger across a window. If the finger is dry, it drags and makes almost no sound. If it is very wet, it glides and makes no sound either. But if the finger is just a little damp, it squeaks. Here is why. The finger grips the glass, and your hand keeps pushing, so the skin stretches a little. When the push is strong enough, the finger slips forward. Then it grips again. It does this hundreds or thousands of times each second. Each jerk is a tiny vibration. A squeak needs the grip to be strong enough to stick and weak enough to slip. This middle zone of friction is why oil stops a squeaky hinge: oil makes the grip too weak to stick. A violin bow works the same way. Rosin, a sticky powder, makes the bow grip the string, pull it sideways, and then let go, again and again. The string vibrates at its own natural pitch, because it is the string's pitch that decides when it slips. A cricket makes sound by rubbing a rough edge on one wing across a row of ridges on the other wing, like running a nail along a comb. Scientists have found that crickets chirp faster when the weather is warmer. Cicadas make their loud calls with a ribbed plate on their body that clicks in and out, like pressing the lid of a tin.",
+      "description": "Drag your finger across a window. If the finger is dry, it drags and makes almost no sound. If it is very wet, it glides and makes no sound either. But if the finger is just a little damp, it squeaks. Here is why. The finger grips the glass, and your hand keeps pushing, so the skin stretches a little. When the push is strong enough, the finger slips forward. Then it grips again. It does this hundreds or thousands of times each second. Each jerk is a tiny vibration. A squeak needs the grip to be strong enough to stick and weak enough to slip. This is why oil stops a squeaky hinge: oil makes the grip too weak to stick. A violin bow works the same way. Rosin, a sticky powder, makes the bow grip the string, pull it sideways, and then let go, again and again. The string vibrates at its own natural pitch, because it is the string's pitch that decides when it slips. A cricket makes sound by rubbing a rough edge on one wing across a row of ridges on the other wing, like running a nail along a comb. Scientists have found that crickets chirp faster when the weather is warmer. Cicadas make their loud calls with a ribbed plate on their body that clicks in and out, like the lid of a tin when you press it.",
       "examples": [
         "A door hinge squeaks until a drop of oil makes it slide smoothly.",
         "Chalk on a board can screech, because it sticks and slips along the board.",
@@ -237,7 +237,7 @@
       "concept": "A voice is a buzz shaped by a space",
       "status": "defined",
       "definition": "Your voice starts as a buzz from the vocal folds, which holds many overtones. The throat, mouth and nose shape the buzz by making some overtones louder than others. The shaping makes the vowels.",
-      "description": "Your vocal folds are two soft flaps in your throat. Air from your lungs pushes them apart and they snap shut again, over and over. That makes a buzz of about 100 to 400 times each second, with many strong overtones. The buzz alone sounds like a raw, nasal hum. Then your throat, mouth and nose act like a bottle. They have natural pitches, and they make the overtones near those pitches louder. When you change the shape of your mouth, you change which overtones are boosted. This is how you make different vowels. 'Ee' has a narrow space at the front of the mouth, 'oo' has a round one. Try singing one note and changing the vowel slowly. The pitch stays the same, but the vowel changes. This is called the source and filter idea. It was worked out by the Swedish scientist Gunnar Fant in 1960. A whisper shows it clearly. When you whisper, the vocal folds do not buzz. Instead, air rushes through a narrow gap in your throat and makes a hiss. The hiss has no pitch, but your mouth shapes it, so a listener can still hear 'ee' and 'oo'. Singers in Tuva, in Siberia, use the same idea. They shape their mouth so tightly that one overtone is picked out of the buzz and sounds like a separate whistle above the low drone. Songbirds have a voice box deep in their chest, with two sides. Each side can make its own sound, so a bird can sing two notes at once.",
+      "description": "Your vocal folds are two soft flaps in your throat. Air from your lungs pushes them apart and they snap shut again, over and over. They do this about 100 to 400 times each second, and that makes a buzz with many strong overtones. The buzz alone sounds like a raw, nasal hum. Then your throat, mouth and nose act like a bottle. They have natural pitches, and they make the overtones near those pitches louder. When you change the shape of your mouth, you change which overtones are made louder. This is how you make different vowels. 'Ee' has a narrow space at the front of the mouth, and 'oo' has a round one. Try singing one note and changing the vowel slowly. The pitch stays the same, but the vowel changes. This is called the source and filter idea: the buzz is the source, and the throat, mouth and nose are the filter that shapes it. It was worked out by the Swedish scientist Gunnar Fant in 1960. A whisper shows it clearly. When you whisper, the vocal folds do not buzz. Instead, air rushes through a narrow gap in your throat and makes a hiss. The hiss has no pitch, but your mouth shapes it, so a listener can still hear 'ee' and 'oo'. Singers in Tuva, in Siberia, use the same idea. They shape their mouth so tightly that one overtone is picked out of the buzz and sounds like a separate whistle above the low drone. Songbirds have a voice box deep in their chest, with two sides. Each side can make its own sound, so a bird can sing two notes at once.",
       "examples": [
         "Sing one steady note and change from 'ee' to 'aa' to 'oo'. The pitch stays the same and the vowel changes.",
         "Put your fingers on your throat. Hum, and you feel a buzz. Whisper, and you feel nothing, yet you can still be understood.",
@@ -245,7 +245,7 @@
       ],
       "perspectives": [],
       "art": "A side view of a head with vocal folds buzzing at the throat, and the throat and mouth space shown as a bottle shape, with three different mouth shapes giving three vowels.",
-      "context": "In the earlier unit you learned that your vocal folds vibrate. This card shows how the rest of your head shapes that buzz into words."
+      "context": "Your vocal folds vibrate and make a buzz. This card shows how your throat, mouth and nose shape that buzz into words."
     },
     {
       "concept": "Why do some pairs of notes sound sweet?",
@@ -274,7 +274,7 @@
         }
       ],
       "art": "Two tanpura strings played together with a smooth line between them, and two slightly mistuned strings with a wobbly line between them.",
-      "context": "We found simple ratios for notes that blend. This card asks the question that science has not settled: why do those notes feel sweet?"
+      "context": "Notes that blend well have simple ratios, like 2 to 1 and 3 to 2. This card asks the question that science has not settled: why do those notes feel sweet?"
     }
   ],
   "agreed": [
@@ -322,7 +322,7 @@
     },
     {
       "text": "A plucked string, a played pipe and a plate vibrate in many ways at once. The mix of these overtones gives the sound its timbre.",
-      "evidence": "Hermann von Helmholtz picked out overtones with bottle resonators in 1863. Modern spectrum analysers show them as separate peaks for every instrument."
+      "evidence": "Hermann von Helmholtz picked out overtones with bottle resonators in 1863. Modern machines that split a sound into its pitches show the overtones as separate peaks for every instrument."
     },
     {
       "text": "Air moving past an edge can make a tone, and the space it blows into picks the note. A pop is one sudden push of air with no steady pitch.",
@@ -383,7 +383,7 @@
     {
       "q": "A bottle gives opposite orders of notes when it is tapped and when it is blown across. So where does the note belong, to the bottle, to the water or to the way it is played?",
       "kind": "deep",
-      "hint": "Think about what shakes in each case. Is the water the same thing in both?"
+      "hint": "Think about what shakes in each case. What does the water do when you tap, and what does it do when you blow?"
     },
     {
       "q": "A whisper has no buzz from the throat, yet we hear vowels in it. What exactly is a voice?",
@@ -391,9 +391,9 @@
       "hint": "Think about the two parts: what makes the buzz, and what shapes it."
     },
     {
-      "q": "A finger squeaks on a window only when it is damp, and not when it is dry or wet. What does this say about how the world sticks together and slips apart?",
+      "q": "A finger squeaks on a window only when it is damp, and not when it is dry or wet. What does this tell you about when rubbing makes a sound?",
       "kind": "deep",
-      "hint": "Think of a hinge, a violin bow and a cricket. All of them depend on the middle of the grip."
+      "hint": "Think of a hinge, a violin bow and a cricket. All of them need a grip that is not too strong and not too weak."
     },
     {
       "q": "A pop contains every pitch at once, and a pure note contains only one. Which is more natural?",
@@ -411,7 +411,7 @@
       "hint": "Think about what happens to the energy of a sudden squeeze."
     },
     {
-      "q": "A whole village once thought a moaning verandah was a ghost. How could you prove that a sound has an ordinary cause, and what would convince you?",
+      "q": "In the story The Moan in the Courtyard, people thought a moaning verandah was a spirit. How could you prove that a sound has an ordinary cause? What would convince you?",
       "kind": "big",
       "hint": "Think about stopping the sound, changing it on purpose and making it again."
     },
@@ -437,7 +437,7 @@
       "'Thatha, please hold the torch.' Valli put her palm flat over the mouth of the jar. The moan stopped at once. She took her palm away, and the moan began again. 'The ghost lives in the jar,' whispered Muthu Thatha. 'No,' said Valli. 'The wind lives in the jar.'",
       "She remembered the feeling of blowing across the top of a bottle. She leaned over, pursed her lips, and blew across the mouth of the jar. Hooo. A deep note came back, a little like the moan. Muthu Thatha's eyebrows rose to the top of his head.",
       "'But why only this jar?' he asked. 'And why only in the south wind?' It was a good question, and Valli did not know the answer yet. She wrote it in her notebook and went to bed.",
-      "In the morning she counted the water in the jars. The third jar was nearly empty. The others were full almost to the top. 'In school we blew across bottles with water in them,' she said at breakfast. 'The more water, the higher the note. A long column of air makes a low note, and a short one makes a high note.'",
+      "In the morning she checked the water in the jars. The third jar was nearly empty. The others were full almost to the top. 'In school we blew across bottles with water in them,' she said at breakfast. 'The more water, the higher the note. A long column of air makes a low note, and a short one makes a high note.'",
       "'So the third jar has the longest column of air,' she went on. 'It sings the lowest, and the wind finds it. The full jars have short columns of air. Their notes are too high and thin for this wind.' Aachi, who was peeling a mango, stopped. 'Then if we pour in a bucket of water...' 'The ghost will sing higher,' said Valli.",
       "They tried it that afternoon. Muthu Thatha carried the bucket himself. One bucket went in, and Valli blew across the jar. Hooo, a little higher. A second bucket. Higher still. When the jar was half full, Muthu Thatha blew across it himself, puffing out his cheeks like a conch player, and a clear, bright note came out. He laughed so hard that he had to sit down on the step.",
       "That evening the south wind came, as usual. The third jar did not moan. It sang a lighter note, almost cheerful. Meena and Karthik stood at the end of the verandah, listening, and their blankets lay forgotten on the floor.",
@@ -460,28 +460,28 @@
     ]
   },
   "roots": {
-    "context": "We have found four ways to start a sound, and seen that the space around a source shapes the sound as much as the source does. Now we ask what that says about where a sound belongs, and about what is empty.",
+    "context": "This unit found four ways to start a sound, and showed that the space around a source shapes the sound as much as the source does. Now we ask where a sound really comes from, and whether an empty space counts as part of a thing.",
     "deep_truth": {
-      "truth": "In the whisper test, listeners still told 'ee' from 'oo' with no buzz from the throat. Only a hiss left the throat, and the mouth shaped it. In the bottle test, tapping and blowing gave opposite orders of notes. So a sound belongs to what starts it and to the space that shapes it.",
+      "truth": "In the Whisper Vowels activity, the listener could still tell 'ee' from 'oo' with no buzz from the throat. Only a hiss left the throat, and the mouth shaped it. In the Tap or Blow test, tapping and blowing gave opposite orders of notes from the same bottles. So a sound comes from what starts it and also from the space that shapes it.",
       "habit": "We say a sound comes from its source: the drum, the string or the throat. But the same source sounds different when the space around it changes. So the source alone does not fix the sound.",
-      "evidence": "The same bottle and the same water gave opposite orders of notes, depending on whether it was tapped or blown across. In a whisper, the vowels came from the mouth's shape alone."
+      "evidence": "In the Tap or Blow test, the same bottles with the same water gave opposite orders of notes, depending on whether they were tapped or blown across. In the Whisper Vowels activity, the vowels came from the mouth's shape alone."
     },
     "three": {
-      "who_am_i": "Your voice is a buzz in your throat shaped by the space in your head. Your voice belongs to your whole body, and no part of it makes it alone.",
+      "who_am_i": "Your voice is a buzz in your throat, shaped by your throat, mouth and nose. No one part of your body makes your voice alone.",
       "what_is_life": "A songbird has a voice box with two sides and sings two notes at once. A cricket rubs his wings. A snapping shrimp pops a bubble. Living beings make sounds in many ways, and use the shapes of their bodies to do it.",
-      "what_is_this_world": "A jar, a throat and a flute sing with the same air. The note comes from how the air is pushed and how the empty space is shaped."
+      "what_is_this_world": "A jar, a throat and a flute all make their notes with the same air. The note depends on how the air is pushed and on the shape of the empty space."
     },
-    "thread": "A string, a skin, a stream of air and a squeeze all push on the air. The air is the same air in every case. What changes is how it is pushed and what empty space it is in. A bottle, a throat, a hall and a flute are all emptiness with a shape, and the shape picks out the notes. So the empty part of a thing is as much a part of its sound as the solid part. Where one stops and the other begins is hard to say.",
+    "thread": "A string, a skin, a stream of air and a squeeze all push on the air. The air is the same air in every case. What changes is how it is pushed and what empty space it is in. A bottle, a throat, a hall and a flute are all empty spaces with a shape, and the shape picks out the notes. So the empty part of a thing matters to its sound as much as the solid part. It is hard to say where one stops and the other begins.",
     "teachings": [
       {
         "source": "Tao Te Ching 11",
         "teaching": "Clay is shaped into a pot, and it is the empty space inside that makes the pot useful. We profit from what is there, and we use what is not there.",
-        "link": "A clay jar moans only because of the air inside it. The jar gives the shape, and the emptiness gives the note."
+        "link": "In the story The Moan in the Courtyard, a clay jar moans only because of the air inside it. The clay gives the space its shape, and the air in that space gives the note."
       },
       {
         "source": "Brihadaranyaka Upanishad 2.4.7",
         "teaching": "When a drum is beaten, we cannot grasp the sounds as they spread out. But if we grasp the drum or the person who beats it, we have grasped the sound. The text gives the same teaching for a conch and a vina.",
-        "link": "This unit finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad points to the same unity."
+        "link": "This unit finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it."
       },
       {
         "source": "Taittiriya Upanishad 1.2",
@@ -512,7 +512,7 @@
     "ask": [
       "When you speak, where does your voice live: in the throat, in the mouth, or in both?",
       "Is the empty part inside a bottle part of the bottle?",
-      "If the same buzz can become many different vowels, what else do we call different that might be the same thing shaped differently?"
+      "The same buzz can become many different vowels. Can you think of other things that seem different but are the same thing in a different shape?"
     ],
     "art": "A child humming with her mouth shaping 'oo', with a faint glowing buzz in her throat and shapes of three different mouths floating above."
   },
@@ -676,9 +676,9 @@
         }
       ],
       "rules": [
-        "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Each player needs four tokens, one for each way. The sheet has two sets. With no printer, copy the 24 fronts and backs onto small slips by hand, or let the reader read from the page and keep the backs covered. With 3 or 4 players, write the four ways on small slips of paper.",
+        "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Each player needs four tokens, one for each way of starting a sound. The sheet has two sets of tokens. With 3 or 4 players, write the four ways on small slips of paper to make more sets. If you have no printer, copy the 24 fronts and backs onto small slips by hand, or let the reader read from the page and keep the backs covered.",
         "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
-        "Every other player puts one token face down. They pick the way they think the sound is started.",
+        "Every other player picks the token for the way they think the sound is started, and puts it face down.",
         "Everyone turns their token over together. Then the reader reads the back aloud.",
         "A player who picked the right way scores 1 point. A player who also says the reason in one sentence, in their own words, scores 1 more.",
         "The next player becomes the reader. Keep going until the pile is finished. The player with the most points wins.",
@@ -716,7 +716,7 @@
           "id": "s3",
           "mins": 6,
           "do": "Play the next six cards. When a player picks the wrong token, ask them to say which clue in the card made them choose it.",
-          "say": "A wrong token is useful. Which clue made you choose it? Let us find the clue that points to the other way.",
+          "say": "A wrong token is useful. Which clue made you choose it? Let us find the clue that points to the right way.",
           "kid": "Play six more cards. If you were wrong, find the clue you missed.",
           "ask": [
             {
@@ -738,7 +738,7 @@
           "kid": "Play the last twelve cards. Write down your score.",
           "check": {
             "t": "mcq",
-            "q": "A story says that a hollow bamboo pole moans in the wind. Which way fits best?",
+            "q": "A hollow bamboo pole moans in the wind. Which way of starting a sound fits best?",
             "options": [
               "Air shakes in a space",
               "Sudden pop",
@@ -825,7 +825,7 @@
         {
           "day": 1,
           "mins": 40,
-          "what": "Guess. Fill the bottles and measure the air columns. Tap and rank. Blow and rank. Compare, and write your claim."
+          "what": "Guess first. Fill the bottles and measure the air columns. Tap the bottles and put them in order from the lowest note to the highest. Blow across them and put them in order again. Compare the two orders, and write your claim."
         }
       ],
       "record": "Fill in the table. For each way of making the sound, write the place of each bottle from lowest note to highest. Draw a line to join the water amounts to the places, once for tapping and once for blowing.",
@@ -892,7 +892,7 @@
           "mins": 5,
           "do": "Show your child the bottles and the spoon. Explain that you will tap them and then blow across them. Ask for a guess and a reason, and write both down.",
           "say": "We have five bottles with different amounts of water. First we tap them, then we blow across them. Will the order of the notes be the same both times? Which bottle will be highest when tapped, and which when blown? Why do you think so?",
-          "kid": "Tap the bottles. Then blow across them. Is the order of notes the same? Why do you think so?",
+          "kid": "We will tap the bottles, then blow across them. Will the order of the notes be the same? Why do you think so?",
           "ask": [
             {
               "q": "Why do you think the order will be the same, or different?",
@@ -931,14 +931,14 @@
               "So the spoon does not slip"
             ],
             "a": 0,
-            "why": "If the listener can see which bottle has more water, they may say what they expect. With eyes closed they must decide only from the sound. A child who picks 'ring longer' mixes up the senses."
+            "why": "If the listener can see which bottle has more water, they may say what they expect. With eyes closed they must decide only from the sound. Closing the eyes does not make a bottle ring longer."
           },
           "context": "In this step, you tap the bottles and put them in order from lowest to highest."
         },
         {
           "id": "s4",
           "mins": 10,
-          "do": "Now blow across each bottle. Rest your lower lip on the front of the bottle's mouth and blow a thin stream of air across the top. Find the position that gives a clear note. Give each bottle a place from lowest to highest in the same way.",
+          "do": "Now blow across each bottle. Rest your lower lip on the front of the bottle's mouth and blow a thin stream of air across the top. Find the position that gives a clear note. Then give each bottle a place from lowest to highest, as you did for tapping.",
           "say": "Touch your lower lip to the front of the bottle's mouth. Blow a thin stream of air across the top, as if you are blowing across a flute. It takes some tries. Then do the same for each bottle, and put them in order.",
           "kid": "Blow across the top. Find the note. Do all five. Put them in order.",
           "parent": "Blowing takes a little practice. Tilt the bottle a bit, and aim the stream of air so that it hits the far edge of the mouth. Rest between tries. If a bottle will not sing after a minute or two, try the one with the most water first, since its short air column sings more easily. A weak, airy hiss is normal at the start. Expected: the empty bottle gives the lowest blown note, and the fullest bottle gives the highest. This is the opposite of tapping.",
@@ -978,7 +978,7 @@
               "They give the same note"
             ],
             "a": 0,
-            "why": "More water means a shorter air column, and a shorter air column gives a higher note when you blow. Picking 50 millilitres is the answer for tapping, where the glass and water shake and more water is more to shake."
+            "why": "More water means a shorter air column, and a shorter air column gives a higher note when you blow. The bottle with 50 millilitres would give the higher note if you tapped it, because then the glass and water shake and more water is more to shake."
           },
           "context": "In this step, you compare the two orders and say what is shaking in each case."
         },
@@ -999,7 +999,7 @@
       "mins": 25,
       "days": 1,
       "question": "A finger moved across a window can squeak. Does it squeak when it is dry, damp, very wet, soapy or oily?",
-      "predict": "Before you start, guess. Which finger will squeak the loudest? Which will not squeak at all? Why do you think so?",
+      "predict": "Before you start, guess. Which finger (dry, damp, very wet, soapy or oily) will squeak the loudest? Which will not squeak at all? Why do you think so?",
       "fair_test": "Use the same clean glass, the same finger, the same gentle press and the same speed every time. Move the finger across about 20 centimetres of glass in about one second. Clean the glass between conditions. Each condition is tried three times, and a listener with eyes shut scores the squeak from 0 to 5. Only the wetness of the finger changes, so any difference comes from that.",
       "results_table": [
         "Finger condition",
@@ -1042,7 +1042,7 @@
         {
           "day": 1,
           "mins": 25,
-          "what": "Guess. Clean the glass. Test the five finger conditions three times each. Score and compare. Write your claim."
+          "what": "Guess first. Clean the glass. Test each of the five finger conditions three times. Score each squeak and compare the totals. Write your claim."
         }
       ],
       "record": "Fill in the table with a score from 0 (silent) to 5 (loud squeak) for each try. Then add the three scores for each condition and rank the conditions.",
@@ -1104,8 +1104,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Show your child the glass and the five finger conditions: dry, damp, very wet, soapy and oily. Ask for a guess and a reason, and write both down.",
-          "say": "We will drag a finger across clean glass five ways. Dry. Damp. Very wet. Soapy. Oily. Which will squeak loudest? Which will not squeak at all? Why do you think so?",
-          "kid": "Five kinds of finger on glass. Which squeaks loudest? Which is silent? Why?",
+          "say": "We will drag a finger across clean glass five ways: dry, damp, very wet, soapy and oily. Which will squeak loudest? Which will not squeak at all? Why do you think so?",
+          "kid": "We will try five kinds of finger on glass: dry, damp, very wet, soapy and oily. Which squeaks loudest? Which is silent? Why?",
           "ask": [
             {
               "q": "Why do you think that finger will squeak the most?",
@@ -1131,8 +1131,8 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "Test the damp finger three times, then the very wet finger three times. Dip the finger and shake off the drops for damp. Let it drip for very wet. Wipe the glass between tries. Write the scores.",
-          "say": "For a damp finger, dip it and shake off the drops. For a very wet finger, leave the drops on. Do three sweeps each and give scores. Wipe the glass between tries.",
+          "do": "Test the damp finger three times, then the very wet finger three times. For damp, dip the finger in water and shake off the drops. For very wet, dip the finger and leave the drops on. Wipe the glass between tries. Write the scores.",
+          "say": "For a damp finger, dip it in water and shake off the drops. For a very wet finger, leave the drops on. Do three sweeps each and give scores. Wipe the glass between tries.",
           "kid": "Test a damp finger and a very wet finger. Wipe the glass each time. Give scores.",
           "parent": "Expected: a damp finger squeaks loudly. A very wet finger glides with almost no sound. The squeak only happens when the finger sticks and slips. If even the damp finger is silent, the glass or finger is probably greasy. Wash the finger with soap, clean the glass with a damp cloth and dry it, then try again. A clean steel plate or a mirror also works. A few tries may be needed to find how damp is right. If your results differ, write what you hear.",
           "check": {
@@ -1227,7 +1227,7 @@
         {
           "day": 1,
           "mins": 25,
-          "what": "Guess. Walk round the house and make or find at least twelve sounds. Sort them into the four columns. Find one that does not fit."
+          "what": "Guess first. Walk round the house and make or find at least twelve sounds. Sort them into the four columns. Find one that does not fit."
         }
       ],
       "record": "A table with four columns and at least twelve sounds sorted into them. A note on the sound that was hardest to place.",
@@ -1250,8 +1250,8 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Show your child the four columns. Say that sounds start in four ways. Ask which they think will hold the most sounds in the house, and why.",
-          "say": "We will hunt for sounds and sort them in four columns. Shake, blow, pop and rub. Which column do you think will have the most sounds in our home? Why do you think so?",
+          "do": "Show your child the four columns. Say that sounds start in four ways. Ask which column they think will hold the most sounds in the house, and why.",
+          "say": "We will hunt for sounds and sort them into four columns: shake, blow, pop and rub. Which column do you think will have the most sounds in our home? Why do you think so?",
           "kid": "Hunt for sounds. Sort them into four columns. Which will have the most? Why?",
           "ask": [
             {
@@ -1292,7 +1292,7 @@
           "do": "Find at least seven more sounds and write them in the columns. Think of the fridge, the fan, the pressure cooker, the mixie, a bird at the window and your own voice.",
           "say": "Find seven more sounds in the house or outside the window. Think of the fridge, the fan, the cooker, the mixie and a bird. Write each in a column. If you are not sure, write it between two columns.",
           "kid": "Find seven more sounds. Put each in a column. Write between two columns if unsure.",
-          "parent": "Some sounds fit two columns. A pressure cooker whistle, a mixie and a bird's call are all mixed. That is fine. Ask the child where the shaking is.",
+          "parent": "Some sounds fit two columns. A pressure cooker whistle, a mixie and a bird's call each use more than one way. That is fine. Ask the child where the shaking is.",
           "context": "In this step, you find more sounds and sort them."
         },
         {
@@ -1342,7 +1342,7 @@
         {
           "day": 1,
           "mins": 30,
-          "what": "Guess. Feel the throat for a buzz when speaking and whispering. Test the listener with spoken vowels and whispered vowels, ten each. Count the right answers."
+          "what": "Guess first. Feel the throat for a buzz when speaking and whispering. Test the listener with spoken vowels and whispered vowels, ten each. Count the right answers."
         }
       ],
       "record": "A table with two rows, spoken and whispered, and the number of vowels the listener got right out of ten in each row. Note the number you would expect from guessing alone.",
@@ -1365,7 +1365,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Ask your child to put two fingers on their throat and say 'aaa' out loud, then whisper 'aaa'. Ask what they feel. Then ask for a guess and reason about the test.",
+          "do": "Ask your child to put two fingers on their throat and say 'aaa' out loud, then whisper 'aaa'. Ask what they feel. Then ask them to guess whether a listener can tell whispered vowels apart, and why.",
           "say": "Put two fingers on your throat. Say 'aaa' out loud. Now whisper 'aaa'. What do you feel? In the test, a listener will try to tell 'ee', 'aa' and 'oo' in a whisper. Can they? Why do you think so?",
           "kid": "Touch your throat. Say 'aaa', then whisper it. What do you feel?",
           "ask": [
@@ -1384,10 +1384,10 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Set up the screen so that the listener cannot see the speaker's mouth. Put the three slips in the bowl. Explain that the speaker will draw a slip, say the vowel in a clear voice, then put the slip back.",
+          "do": "Set up the screen so that the listener cannot see the speaker's mouth. Put the three slips, for 'ee', 'aa' and 'oo', in the bowl. Explain that the speaker will draw a slip, say the vowel in a clear voice, then put the slip back.",
           "say": "Put up the screen. The speaker draws a slip and says that vowel. The listener says which one it was. The speaker puts the slip back, so that each try is a new guess.",
           "kid": "Put up the screen. Draw a slip. Say the vowel. The listener guesses.",
-          "parent": "The slips go back each time, so a vowel can come twice in a row. That is what makes it a fair test. Switch off the fan and TV, and keep the room quiet, because a whisper is easy to lose in noise. The listener sits about 2 metres away. If the listener could see the lips, they could lip-read, and the test would not show what the sound alone says.",
+          "parent": "The slips go back each time, so a vowel can come twice in a row. That is what makes it a fair test. Switch off the fan and TV, and keep the room quiet, because a whisper is easy to lose in noise. The listener sits about 2 metres away. If the listener could see the lips, they could lip-read, and the test would not show what they can tell from the sound alone.",
           "check": {
             "t": "mcq",
             "q": "Why is a screen needed between the speaker and the listener?",
@@ -1483,7 +1483,7 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Guess. Measure the depth of each vessel. Hum slowly up the scale near the mouth of a big pot and find the note where it booms. Try a smaller vessel. Then try a small bathroom."
+          "what": "Guess first. Measure the depth of each vessel. Hum slowly up the scale near the mouth of a big pot and find the note where it booms. Try a smaller vessel. Then try a small bathroom."
         }
       ],
       "record": "Write which vessel boomed at which kind of note (low, middle or high). Write the depth of each vessel in centimetres. Write whether the bathroom boomed at any note.",
@@ -1508,7 +1508,7 @@
           "mins": 3,
           "do": "Show your child the big pot and the small vessel. Ask which will boom at a lower note when a person hums near it, and why.",
           "say": "We will hum near the mouth of a pot, slowly from low to high. At one note the pot will answer back. Which will answer at a lower note, the big pot or the small tumbler? Why do you think so?",
-          "kid": "Hum near a pot. Find the note where it booms. Big or small, which is lower?",
+          "kid": "Hum near a pot. Find the note where it booms. Which booms at a lower note, the big pot or the small tumbler?",
           "ask": [
             {
               "q": "Why might a big pot answer at a lower note?",
@@ -1528,7 +1528,7 @@
           "do": "Hold the big pot about 5 centimetres from your child's mouth. They hum a steady note and slowly slide it from low to high. Ask them to stop where the pot seems loudest. Write if that note was low, middle or high.",
           "say": "Hold the pot near your mouth. Hum a low note and slowly slide up. Listen for the note where the pot suddenly sounds louder. That is the pot's hidden note. Stop there.",
           "kid": "Hum low and slide up slowly. Listen for the note where the pot booms.",
-          "parent": "The booming note is the natural note of the air in the pot. Slide slowly. It may be a narrow zone of just one note. If the child's voice is not low enough, try a smaller vessel. Do not shout. The pot's note is about the pitch of a child's or woman's voice, so a child often finds it, while a deep adult voice may slide past it. The boom is soft, so keep the room quiet and listen with the pot close. Typical, not promised: the effect is clearer with a deep pot than a shallow one. Measure the depth with the ruler and write it down.",
+          "parent": "The booming note is the natural note of the air in the pot. Slide slowly, because the boom may happen at just one note. If the child's voice is not low enough, try a smaller vessel. Do not shout. The pot's note is about the pitch of a child's or woman's voice, so a child often finds it, while a deep adult voice may slide past it. The boom is soft, so keep the room quiet and listen with the pot close. The effect is usually clearer with a deep pot than a shallow one, though not always. Measure the depth with the ruler and write it down.",
           "context": "In this step, you find the hidden note of the big pot."
         },
         {
@@ -1547,7 +1547,7 @@
               "The tumbler is made of a different metal"
             ],
             "a": 0,
-            "why": "A smaller space has a shorter air column and a higher natural note, just like a shorter pipe. Weight and metal matter much less. A child who picks 'lighter' is thinking of a falling thing, not of the air inside."
+            "why": "A smaller space has a shorter air column and a higher natural note, just like a shorter pipe. Weight and metal matter much less. A child who picks 'lighter' is thinking of weight, not of the air inside."
           },
           "context": "In this step, you compare vessels and try the bathroom."
         },
@@ -1661,7 +1661,7 @@
           "say": "Play Sa on the harmonium. Blow across the first bottle and compare. Is yours lower or higher? Add water to go higher, or pour some out to go lower. Match it, and label it. Then do Re, Ga, Pa and Dha.",
           "kid": "Play a note. Blow across a bottle. Add water to go higher. Pour out to go lower.",
           "adult": false,
-          "parent": "A bottle's lowest blown note is often below the harmonium's usual Sa, so we start from the bottle's own note, and the empty bottle is Sa. Typical first guesses for a 250 to 300 millilitre bottle, to be tuned by ear: Re about 50 millilitres, Ga about 90, Pa about 140, Dha about 170. Your bottles will differ, so trust your ears. Add water in small amounts, 10 millilitres at a time. Blow gently, because a hard blow jumps to a higher note. The water goes up and up as you climb the scale. If you have no harmonium, use a keyboard app on a phone, or sing the scale and match by ear. Write the amounts of water as you go.",
+          "parent": "A bottle's lowest blown note is often below the harmonium's usual Sa, so we start from the bottle's own note, and the empty bottle is Sa. Typical first guesses for a 250 to 300 millilitre bottle, to be tuned by ear: Re about 50 millilitres, Ga about 90, Pa about 140, Dha about 170. Your bottles will differ, so trust your ears. Add water in small amounts, 10 millilitres at a time. Blow gently, because a hard blow jumps to a higher note. Each higher note needs more water. If you have no harmonium, use a keyboard app on a phone, or sing the scale and match by ear. Write the amounts of water as you go.",
           "check": {
             "t": "mcq",
             "q": "A bottle is blown across and its note is too high. What should you do to lower it?",
@@ -1702,7 +1702,7 @@
               ]
             }
           ],
-          "parent": "Expected: the amounts of water do not rise evenly. Notes are spaced by ratios, not by equal steps, and a bottle's note depends on its air volume in a more complicated way than a plain pipe. Do not worry if your numbers look uneven. Typical, not promised: going from Sa to Dha, the air in the bottle shrinks to roughly a third. If you have only a few bottles, play a three-note tune (Sa, Ga, Pa).",
+          "parent": "Expected: the amounts of water do not rise evenly. Notes are spaced by ratios, not by equal steps, and a bottle's note depends on its air volume in a more complicated way than a plain pipe. Do not worry if your numbers look uneven. Usually, though not always, the air in the bottle shrinks to roughly a third going from Sa to Dha. If you have only a few bottles, play a three-note tune (Sa, Ga, Pa).",
           "context": "In this step, you play a tune for the family and study your table."
         }
       ]
@@ -1762,7 +1762,7 @@
           "mins": 8,
           "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three ways to change the air column in the tube.",
           "say": "You have one tube, and you must get three notes out of it. What changes the note of an air column? Draw some ideas for how you could make the air column longer or shorter.",
-          "kid": "One tube. Three notes. Draw two ideas for changing the air.",
+          "kid": "Get three notes from one tube. Draw two ideas for changing the air column.",
           "ask": [
             {
               "q": "What changes the note of a tube?",
@@ -1781,7 +1781,7 @@
           "do": "Learn to get a note first. Hold the tube upright and rest your lower lip on one edge of the open end. Blow a thin stream across the opening. Find the position that gives a clear note. Then cover the far end with your palm and listen again.",
           "say": "Rest your lower lip on the edge of the tube. Blow a thin stream across the opening. When it sings, hold the tube still. Now cover the far end with your palm and blow again. What changes?",
           "kid": "Blow across the end of the tube. Find a note. Cover the far end. What changes?",
-          "parent": "It takes time to find the sweet spot. Tilt the tube a little. If it still will not sing, wet your lower lip. Expected: with the far end closed, the note is about an octave lower. If your child cannot make a note, use a shorter tube first, or tape a thin paper strip over half of the opening, so the air has a sharp edge to hit. A wide tube is harder to sing than a narrow one, so a thinner tube or a plastic bottle neck also works. In a group, each child needs their own tube and a turn at the cutting-helper role, never at the scissors.",
+          "parent": "It takes time to find the position that gives a clear note. Tilt the tube a little. If it still will not sing, wet your lower lip. Expected: with the far end closed, the note is about an octave lower. If your child cannot make a note, use a shorter tube first, or tape a thin paper strip over half of the opening, so the air has a sharp edge to hit. It is harder to get a note from a wide tube than a narrow one, so a thinner tube or a plastic bottle neck also works. In a group, each child needs their own tube. Children can take turns helping the grown-up who cuts, but they never use the scissors.",
           "check": {
             "t": "mcq",
             "q": "Covering the far end of the tube makes the note lower. What is the best reason?",
@@ -2047,7 +2047,7 @@
         },
         {
           "t": "write",
-          "p": "A friend says that every sound is a steady note. Give two sounds that are not steady notes, and say why.",
+          "p": "Is every sound a steady note? Give two sounds that are not steady notes, and say why.",
           "lines": 3,
           "a": "A clap and a hiss are not steady notes. A clap is one sudden push of air, and a hiss is a jumble of many pitches with no steady one.",
           "why": "A strong answer names two sounds, such as a clap, a pop, a hiss or a crash, and says that they have no single steady pitch.",
@@ -2185,7 +2185,7 @@
         },
         {
           "t": "order",
-          "p": "Put these in order from the one whose air gives the highest natural note to the lowest: a big clay jar, a small tin cup, a steel pot.",
+          "p": "Put these in order, from the highest natural note of the air inside to the lowest: a big clay jar, a small tin cup, a steel pot.",
           "items": [
             "small tin cup",
             "steel pot",
@@ -2303,7 +2303,7 @@
         },
         {
           "t": "write",
-          "p": "A friend says that a violin and a bansuri playing the same note should sound exactly the same. Write a reply.",
+          "p": "A violin and a bansuri play the same note. Do they sound exactly the same? Explain why or why not.",
           "lines": 4,
           "a": "They have the same pitch, but their timbre is different. A violin has many strong overtones from a stick-slip bow on a string, and a bansuri has a smoother mix from air shaking in a tube.",
           "why": "A strong answer says that the pitch is the same but the mix of overtones is different, and mentions that the sound is made in different ways.",
@@ -2327,7 +2327,7 @@
       "items": [
         {
           "t": "mcq",
-          "p": "A closed pipe gives a note of about 343 divided by four times its length in metres. About what note does a closed pipe 0.25 metres long give?",
+          "p": "The note of a closed pipe, in hertz, is about 343 divided by four times its length in metres. About what note does a closed pipe 0.25 metres long give?",
           "opts": [
             "About 343 hertz",
             "About 686 hertz",
@@ -2335,7 +2335,7 @@
             "About 1372 hertz"
           ],
           "a": 0,
-          "why": "Four times 0.25 is 1. 343 divided by 1 is 343. Picking 86 forgets to divide by four times the length.",
+          "why": "Four times 0.25 is 1. 343 divided by 1 is 343. Picking 86 divides 343 by four and forgets to multiply the four by the length first.",
           "outcome": 1
         },
         {
@@ -2442,7 +2442,7 @@
         },
         {
           "t": "mcq",
-          "p": "People of the Tsimane in Bolivia did not prefer sweet pairs of notes to rough ones. What does this suggest?",
+          "p": "The Tsimane people of Bolivia did not prefer sweet pairs of notes to rough ones. What does this suggest?",
           "opts": [
             "Part of what sounds sweet is learned from the music around us",
             "The Tsimane cannot hear",
@@ -2482,7 +2482,7 @@
             },
             {
               "who": "A flute maker",
-              "says": "The material changes how the flute feels to play, and a player who feels comfortable plays better. That may change the tone without changing the walls' sound."
+              "says": "The material changes how the flute feels to play, and a player who feels comfortable plays better. So the tone may change even though the walls themselves do not change the sound."
             }
           ],
           "ask": "Which view do you find most convincing, and how would you test it?",
@@ -2895,7 +2895,7 @@
       "why_maths": "Comparing a score with the score that guessing would give tells you whether the listener really heard a difference."
     },
     {
-      "problem": "A closed pipe gives a note of about 343 divided by four times its length in metres. What note does a closed tube 25 centimetres long give? What note does a closed tube 50 centimetres long give?",
+      "problem": "The note of a closed pipe, in hertz, is about 343 divided by four times its length in metres. What note does a closed tube 25 centimetres long give? What note does a closed tube 50 centimetres long give?",
       "answer": "About 343 hertz for the 25 centimetre tube, and about 172 hertz for the 50 centimetre tube.",
       "explain": "25 centimetres is 0.25 metres. Four times 0.25 is 1. 343 divided by 1 is 343. 50 centimetres is 0.5 metres. Four times 0.5 is 2. 343 divided by 2 is 171.5, which is about 172. Doubling the length halves the note.",
       "math_unit": "math.maths-and-world.maths-and-science.L4",

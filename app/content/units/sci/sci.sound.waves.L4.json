@@ -18,25 +18,25 @@
   "I can use the tap rate and the wave speed to work out the wavelength, and check my answer with ripples.",
   "I can tell a push wave from a shake wave and say which kind sound and earthquake waves are.",
   "I can say what amplitude tells us about a wave's energy, and why ripples shrink as they spread.",
-  "I can place ripples, sound, radio and light by wavelength, and tell how Jocelyn Bell found a steady beat from a star."
+  "I can put ripples, sound, radio and light in order of wavelength, and tell how Jocelyn Bell found a steady beat from a star."
  ],
  "cards_mins": 20,
  "terms": [
   {
    "term": "Frequency",
    "meaning": "How many times something repeats in one second. For a wave, it is how many crests pass a spot each second.",
-   "example": "A resting child's heart beats about once and a half each second, so its frequency is about one and a half beats each second.",
+   "example": "A resting child's heart beats about one and a half times each second, so its frequency is about one and a half beats each second.",
    "art": "A child with two fingers on her wrist and a clock showing one second, with small heart-beat marks beside it."
   },
   {
    "term": "Hertz",
    "meaning": "The unit for frequency. One hertz means once each second. Write it Hz.",
-   "example": "A clock that ticks once a second ticks at 1 hertz. A ceiling light on the mains in India flickers 100 times a second, from a supply of 50 hertz.",
+   "example": "A clock that ticks once a second ticks at 1 hertz. The mains electricity in India is 50 hertz, and a ceiling light on it flickers 100 times a second.",
    "art": "A wall clock with a tick mark and a label that says 1 hertz."
   },
   {
    "term": "Period",
-   "meaning": "The time one full swing or one full wave takes. It is the opposite way of saying frequency.",
+   "meaning": "The time one full swing or one full wave takes. It is another way of saying how often something repeats: a short period means a high frequency.",
    "example": "A pendulum that makes 1 swing every 2 seconds has a period of 2 seconds. Its frequency is half a swing each second.",
    "art": "A pendulum drawn at three moments with a bracket labelled 2 seconds under the whole there-and-back swing."
   },
@@ -137,7 +137,7 @@
    "status": "defined",
    "context": "This card says what frequency is, using swings you can count.",
    "definition": "Frequency is how many times something repeats in one second. It is counted in hertz. One hertz is once each second.",
-   "description": "Watch a washer on a thread. Count ten swings and time them. If ten swings take 10 seconds, the washer makes 1 swing each second, so its frequency is 1 hertz. If ten swings take 20 seconds, the washer makes half a swing each second, which is half a hertz. Things around you have frequencies too. A resting child's heart beats about 80 to 100 times each minute, which is about one and a half hertz. A hummingbird beats her wings around 50 times each second. A tune on a violin string can shake 440 times each second. The wave comes from a source that repeats, and each repeat sends out one more crest.",
+   "description": "Watch a washer on a thread. Count ten swings and time them. If ten swings take 10 seconds, the washer makes 1 swing each second, so its frequency is 1 hertz. If ten swings take 20 seconds, the washer makes half a swing each second, which is half a hertz. Things around you have frequencies too. A resting child's heart beats about 80 to 100 times each minute, which is about one and a half hertz. A hummingbird beats her wings around 50 times each second. A violin string can shake 440 times each second. A wave comes from a source that repeats, and each repeat sends out one more crest.",
    "examples": [
     "A wall clock ticks once each second, so it ticks at 1 hertz.",
     "A hummingbird's wings beat around 50 times each second, so her wing frequency is around 50 hertz.",
@@ -149,7 +149,7 @@
   {
    "concept": "Period: the time for one swing",
    "status": "defined",
-   "context": "This card gives the other way to say how often, the time for one swing.",
+   "context": "This card gives another way to say how often something repeats: the time for one swing.",
    "definition": "The period is the time one full swing or one full wave takes. The frequency is how many fit in one second. If the period is 2 seconds, the frequency is half a hertz.",
    "description": "There are two ways to say the same thing. You can say how many swings fit in one second, or how long one swing takes. A fast pendulum makes many swings in a second, and each one takes a short time. A slow pendulum makes few swings, and each one takes a long time. The two numbers are partners. If one swing takes 0.5 seconds, 2 swings fit in each second. If one swing takes 4 seconds, a quarter of a swing fits in each second. A short period and a high frequency always go together.",
    "examples": [
@@ -169,7 +169,7 @@
    "examples": [
     "A very long pendulum, such as a swing hung from a tall tree branch, swings slowly.",
     "A short pendulum, such as a washer on a 25 centimetre thread, swings once each second.",
-    "A child on a swing takes the same time per swing whether her friend pushes gently or hard, as long as the swing stays in the same ropes."
+    "A child on a swing takes the same time for each swing whether her friend pushes gently or hard, as long as the ropes stay the same length."
    ],
    "perspectives": [],
    "art": "A long pendulum with a slow beat label and a short pendulum with a fast beat label, plus a heavy washer and a light paper clip on equal threads swinging together."
@@ -177,13 +177,13 @@
   {
    "concept": "The source sets how often, and the material sets how fast",
    "status": "defined",
-   "context": "This card joins the Tray Test from Class 3 with what you found about frequency.",
+   "context": "This card explains that one thing sets how often the crests of a wave come, and a different thing sets how fast they travel.",
    "definition": "The source of a wave sets the frequency, which is how often crests are made. The material the wave travels through sets the wave speed. These are two separate settings.",
    "description": "Think of a person standing by a road throwing a ball to a friend every 2 seconds. How often a ball leaves is the thrower's choice. How fast each ball flies is decided by the throw and the air. A wave is a little different, because the wave speed is not up to the source at all. It is set by the material. When you tap a tray of water twice each second, two crests leave each second. They travel at the speed that water of that depth allows. If you tap faster, more crests leave each second, but each one still travels at the same speed. So the crests end up closer together. Nothing about the tapping changed the speed. Only the number of crests per second changed.",
    "examples": [
     "A finger tapping a tray twice each second makes two crests every second. Each travels at the speed of the water.",
     "Plucking a guitar string harder makes the sound louder but not higher, because the string sets how often it shakes.",
-    "A crowd Mexican wave goes at the speed of the people in it, however fast the first person stands."
+    "A Mexican wave in a crowd moves at the speed of the people in it, however fast the first person stands up."
    ],
    "perspectives": [],
    "art": "A hand at the left end of a tray making two crests every second, with an arrow marked speed set by the water along the tray."
@@ -193,7 +193,7 @@
    "status": "defined",
    "context": "This card gives the rule that joins frequency, wave speed and wavelength, which you test with ripples.",
    "definition": "The wavelength is how far a wave travels during one beat of the source. So wavelength equals wave speed divided by frequency. Also, wave speed equals frequency times wavelength.",
-   "description": "Suppose ripples travel 30 centimetres each second. Tap once each second. By the time the next tap happens, the first crest has gone 30 centimetres. So the crests are 30 centimetres apart. Tap twice each second. Now one tap happens every half second, and the first crest has gone only 15 centimetres. So the crests are 15 centimetres apart. Tap four times each second, and the crests are 7.5 centimetres apart. Faster taps make shorter wavelengths. You can also read the rule the other way. If you measure the wavelength and you know the frequency, multiply them, and you get the speed. 4 taps each second times 7.5 centimetres is 30 centimetres each second.",
+   "description": "Suppose ripples travel 30 centimetres each second. Tap once each second. By the time the next tap happens, the first crest has gone 30 centimetres. So the crests are 30 centimetres apart. Tap twice each second. Now one tap happens every half second, and by the next tap the first crest has gone only 15 centimetres. So the crests are 15 centimetres apart. Tap four times each second, and the crests are 7.5 centimetres apart. Faster taps make shorter wavelengths. You can also read the rule the other way. If you measure the wavelength and you know the frequency, multiply them, and you get the speed. 4 taps each second times 7.5 centimetres is 30 centimetres each second.",
    "examples": [
     "A sound of 340 hertz in air, which travels about 340 metres each second, has a wavelength of about 1 metre.",
     "A sound of 1,000 hertz has a wavelength of about 34 centimetres, because 340 divided by 1,000 is 0.34 metres.",
@@ -221,7 +221,7 @@
    "status": "defined",
    "context": "This card names the two kinds of wave you tried with a spring toy and a dupatta, and says where sound and earthquake waves belong.",
    "definition": "In a push wave, the material moves back and forth along the way the wave travels. In a shake wave, the material moves across the way the wave travels. Scientists call these longitudinal and transverse waves.",
-   "description": "A spring toy can show both. Squeeze a few coils and let go, and a squeeze runs along. That is a push wave. Flick one end sideways, and a bump runs along. That is a shake wave. Sound in air is a push wave. The air is squeezed together and then spread out as the sound goes by. A shake wave needs a material that holds its shape, like a rope or rock, because the material must be pulled back sideways. Air and water do not hold their shape, so sound in air is only a push wave. Water ripples on top of a pond are a mix of both and make small circles. An earthquake sends both kinds. Scientists call the push kind P waves, because they arrive first. They call the shake kind S waves. P waves can cross liquid, but S waves cannot. That difference was how scientists found that the Earth has a liquid outer core.",
+   "description": "A spring toy can show both. Squeeze a few coils and let go, and a squeeze runs along. That is a push wave. Flick one end sideways, and a bump runs along. That is a shake wave. Sound in air is a push wave. The air is squeezed together and then spread out as the sound goes by. A shake wave needs a material that holds its shape, like a rope or rock, because the material must be pulled back sideways. Air and water do not hold their shape, so sound in air is only a push wave. Ripples on top of a pond are a mix of both: the water moves in small circles. An earthquake sends both kinds. Scientists call the push kind P waves, because they arrive first. They call the shake kind S waves. P waves can cross liquid, but S waves cannot. That difference was how scientists found that the Earth has a liquid outer core.",
    "examples": [
     "Sound in air is a push wave.",
     "A bump along a dupatta is a shake wave.",
@@ -235,7 +235,7 @@
    "status": "defined",
    "context": "This card shows that the same rule of speed, frequency and wavelength also fits light and radio.",
    "definition": "Light, radio waves and many other waves are made of changing electric and magnetic effects, and they can cross empty space. All of them travel at the speed of light in empty space, which is about 300,000 kilometres each second. Their wavelength decides what kind they are.",
-   "description": "Because every light and radio wave travels at the same speed in empty space, a higher frequency always means a shorter wavelength. Red light is about 700 nanometres long. Violet light is about 400 nanometres long. A hair is about a hundred times wider than a red light wave. Wi-Fi uses waves about 12 centimetres long. An FM radio station at 100 megahertz uses waves about 3 metres long, because 300 million metres each second divided by 100 million is 3 metres. An AM radio station can use waves hundreds of metres long. All of them are the same kind of thing, a rippling of electric and magnetic effects. Only the wavelength differs. Light with a wavelength shorter than violet, which we cannot see, is called ultraviolet. It is what burns skin at the beach.",
+   "description": "Because every light and radio wave travels at the same speed in empty space, a higher frequency always means a shorter wavelength. A wave of red light is about 700 nanometres long, and a wave of violet light is about 400 nanometres long. A nanometre is a billionth of a metre. A hair is about a hundred times wider than a red light wave. Wi-Fi uses waves about 12 centimetres long. An FM radio station at 100 megahertz uses waves about 3 metres long, because 300 million metres each second divided by 100 million is 3 metres. An AM radio station can use waves hundreds of metres long. All of them are the same kind of thing, a rippling of electric and magnetic effects. Only the wavelength differs. Light with a wavelength shorter than violet, which we cannot see, is called ultraviolet. It is what burns skin at the beach.",
    "examples": [
     "Red light has a longer wavelength than violet light.",
     "A Wi-Fi box and a microwave oven both use waves about 12 centimetres long.",
@@ -247,7 +247,7 @@
   {
    "concept": "Ripples in space itself: gravitational waves",
    "status": "defined",
-   "context": "This card goes out to the biggest waves we know, ripples in space and time that scientists first caught in 2015.",
+   "context": "This card is about gravitational waves, ripples in space and time that scientists first caught in 2015.",
    "definition": "A gravitational wave is a ripple in space and time, made when very heavy things such as black holes move fast. It travels at the speed of light.",
    "description": "In 1916 Albert Einstein's theory of gravity said that heavy things speeding up should send out ripples in space. He thought they would be far too small to find. On 14 September 2015, two giant instruments in the United States, called LIGO, felt a ripple that had been travelling for about 1.3 billion years. It came from two black holes that crashed together. As the ripple passed, the distance between the instruments' mirrors changed by far less than the width of a proton. Scientists announced the find in February 2016. The ripple lasted a fraction of a second, with a frequency that rose from about 35 hertz to about 250 hertz, which is in the range of sounds we can hear. Played as sound, it is a short rising chirp. Indian scientists were part of the team that studied the signal, and India plans a third detector.",
    "examples": [
@@ -290,7 +290,7 @@
    "concept": "Is the beat in the thing, or in the counting?",
    "status": "debated",
    "context": "This card is a question people answer in different ways: is frequency really out in the world?",
-   "description": "A pendulum swings once every 2 seconds. Where is the 2 seconds? You can say it is in the pendulum, a fact that was there before anyone counted. Or you can say it is in the counting. Nature has swings and ripples and stars turning, but the second is a unit that people agreed on, and so is the count. A frequency is a swing seen through a human clock. The two views agree on every measurement. They disagree about what the number is.",
+   "description": "A pendulum swings once every 2 seconds. Where is the 2 seconds? You can say it is in the pendulum, a fact that was there before anyone counted. Or you can say it is in the counting. Nature has swings and ripples and stars turning, but the second is a unit that people agreed on, and so is the count. On this view, a frequency is a swing measured with a clock that people made. The two views agree on every measurement. They disagree about what the number is.",
    "examples": [
     "A pulsar spins at a steady rate whether or not anyone counts it.",
     "The word second, and the number 1.337, come from people agreeing on a clock."
@@ -311,7 +311,7 @@
  "agreed": [
   {
    "text": "The frequency of a wave is set by its source, and the speed of a wave is set by the material it travels through.",
-   "evidence": "In tray tests with the same tapping rate in different depths, the crests keep the same spacing in time at the source, but travel at the speed of the water. School laboratories use ripple tanks to show this."
+   "evidence": "When a tray is tapped at the same rate in water of different depths, the same number of crests leave each second, but they travel at a different speed in each depth. School laboratories use ripple tanks to show this."
   },
   {
    "text": "Wave speed equals frequency times wavelength.",
@@ -339,7 +339,7 @@
    "claim": "A heavier pendulum swings faster, because heavy things fall faster.",
    "who": "A very common first guess, and an old idea taught by the ancient Greek thinker Aristotle about falling things",
    "for": "A heavy stone does feel as if it drops harder and quicker than a feather.",
-   "against": "Galileo wrote that a lead ball and a cork ball hung on equal threads swung together. In the Counting Swings test a washer and two washers swing in the same time. A heavier bob is also pulled down harder, but it is harder to move, and the two effects cancel.",
+   "against": "Galileo wrote that a lead ball and a cork ball hung on equal threads swung together. In the Counting Swings test, one washer and two washers swing in the same time. A heavier washer is pulled down harder, but it is also harder to move, and the two effects cancel.",
    "status": "rejected",
    "context": "This card is about whether the weight of a pendulum changes how fast it swings."
   },
@@ -360,9 +360,9 @@
    "context": "This card is about a wrong idea that light needs an invisible material to travel through."
   },
   {
-   "claim": "The regular beat from the sky was made by a signal from a living civilisation.",
+   "claim": "The regular beat from the sky was a signal sent by a living civilisation.",
    "who": "A joke in Jocelyn Bell's team in 1967, which they called LGM, for little green men",
-   "for": "The signal was far steadier than anything astronomers expected from a star, which seemed like a deliberate clock.",
+   "for": "The signal was far steadier than anything astronomers expected from a star, so it seemed like a clock that someone had made on purpose.",
    "against": "A second beat then appeared in another part of the sky, at a different rate, and then more. It was very unlikely that several unrelated civilisations would send out signals in the same way. Spinning neutron stars explained all of them.",
    "status": "rejected",
    "context": "This card is about the first guesses for what made the beat that Jocelyn Bell found."
@@ -380,7 +380,7 @@
   {
    "q": "A pendulum takes the same time to swing wide as to swing narrow. So who decides how often it swings, you or the pendulum?",
    "kind": "deep",
-   "hint": "Think about what you changed in the test and what stayed the same."
+   "hint": "Think about what you changed in the Counting Swings test and what stayed the same."
   },
   {
    "q": "When you tap faster, the ripples get closer together but travel at the same speed. Where did the extra waves go?",
@@ -403,12 +403,12 @@
    "hint": "Try to change your heartbeat on purpose. Then try to change your breathing."
   },
   {
-   "q": "A soldier's march across a bridge can make the bridge shake if it matches the bridge's natural beat. Who is responsible when a small thing done at the wrong beat causes a big effect?",
+   "q": "Soldiers marching in step across a bridge can make the bridge shake if their steps match the bridge's natural beat. Who is responsible when a small thing done at the wrong beat causes a big effect?",
    "kind": "big",
    "hint": "Think about each person's step, and about the beat of all the steps together."
   },
   {
-   "q": "We listen to the universe by catching gravitational waves, and we see it by catching light. If we only had radios, how different would the universe look?",
+   "q": "We listen to the universe by catching gravitational waves, and we see it by catching light. If we could only catch radio waves, how different would the universe look?",
    "kind": "big",
    "hint": "Each kind of wave gets through different things and shows different things."
   },
@@ -451,7 +451,7 @@
   "ask": [
    "How did Dechen find out how often the bridge swayed, and what did she do with that number?",
    "Why did the children's rocking make the bridge sway more, when each child pushed only a little?",
-   "Why did the sway fade when the children walked in the market way, though nobody pushed any more gently?",
+   "Why did the sway fade when the children walked out of step, as people do in a market, even though nobody pushed any more gently?",
    "Pushing a child on a swing works the same way as the bridge. When should you push, and why?"
   ],
   "art": [
@@ -465,7 +465,7 @@
  "roots": {
   "context": "We have counted swings, tapped ripples and followed the beat out to radio, light and the stars. Now we ask what a beat tells us about the things around us, and about ourselves.",
   "deep_truth": {
-   "truth": "In the swing test, a wide swing and a narrow swing took the same time. How often a pendulum swings comes from the pendulum, not from how hard you push. A push that matches its beat adds up. A push at any other beat does not add up.",
+   "truth": "In the Counting Swings test, a wide swing and a narrow swing took the same time. How often a pendulum swings comes from the pendulum, not from how hard you push. Pushes that match its beat add up. Pushes at any other beat do not.",
    "habit": "We think that pushing harder always makes a thing go faster, and that whoever pushes decides the result. For a swinging thing, the push decides how far it swings, but the thing itself decides how often.",
    "evidence": "In the Counting Swings test, ten swings took the same time with a wide swing and a narrow swing, and with one washer and two. Only a longer or shorter string changed the time. If your results differ, write them down as they are and test again."
   },
@@ -474,7 +474,7 @@
    "what_is_life": "A bee, a cricket and a hummingbird each have a wingbeat or a chirp rate that comes from their own bodies. Other living beings listen for those rates, and answer them.",
    "what_is_this_world": "Ripples, sound, radio and light are all waves, and each has a beat and a length. The same rule of beat, speed and length fits waves in water and waves in space."
   },
-  "thread": "A pendulum, a plucked string, a spinning star and a tapping finger all start a wave, and in each one a repeating motion comes first. What the wave travels through then decides how far apart the crests fall. So the spacing in a wave is never made by one thing alone. It comes from a beat meeting a material. The same pattern turns up in a tray of water, in the air of a room, in empty space and in a living body.",
+  "thread": "A pendulum, a plucked string, a spinning star and a tapping finger all start a wave, and in each one a repeating motion comes first. What the wave travels through then decides how far apart the crests are. So the spacing in a wave is never made by one thing alone. It comes from the beat of the source and the material together. The same pattern turns up in a tray of water, in the air of a room, in empty space and in a living body.",
   "teachings": [
    {
     "source": "Heraclitus, fragment 12 (Diels and Kranz numbering)",
@@ -518,7 +518,7 @@
   "story": "In 1967 Jocelyn Bell was a research student at Cambridge in England. She helped build a field of wires and posts that listened to radio waves from the sky. It drew long rolls of paper chart every day, and she read them all by eye. One night she spotted a tiny squiggle that she called a bit of scruff. At first the team thought it was interference from something on Earth, such as a car or a radio set. But the squiggle came back each night about four minutes earlier, the way the stars do, so it could not be from Earth. When she ran the chart faster, she saw a string of pulses about 1.3 seconds apart, as steady as a clock. Many astronomers thought no star could beat so evenly. The team joked that it might be little green men. Then Bell found a second beat in another part of the sky, and then more. Scientists soon agreed they were spinning neutron stars. The Nobel Prize in 1974 went to her supervisor, Antony Hewish, who shared it with Martin Ryle, and not to her.",
   "who": "Jocelyn Bell Burnell (born 1943), an astronomer from Northern Ireland",
   "when": "1967 (the first beat), 1968 (the paper), 1974 (the Nobel Prize)",
-  "wrong_idea": "Many thought the regular beat must be interference from Earth, or that no natural star could beat so steadily. She showed it followed star time, and the second beat showed it came from a new kind of star."
+  "wrong_idea": "Many thought the regular beat must be interference from Earth, or that no natural star could beat so steadily. She showed that it came back about four minutes earlier each night, as the stars do, and the second beat showed it came from a new kind of star."
  },
  "games": [
   {
@@ -620,7 +620,7 @@
       },
       {
        "f": "A bat's squeak while hunting",
-       "b": "Often 20,000 to 100,000 each second, too high for people to hear."
+       "b": "Often 20,000 to 100,000 shakes each second, too high for people to hear."
       },
       {
        "f": "A police whistle",
@@ -632,11 +632,11 @@
       },
       {
        "f": "The radio waves of an FM station at 100 megahertz",
-       "b": "100 million each second."
+       "b": "100 million waves each second."
       },
       {
        "f": "A mobile phone signal",
-       "b": "Around 1 to 2 billion each second."
+       "b": "Around 1 to 2 billion waves each second."
       },
       {
        "f": "A Wi-Fi box",
@@ -664,11 +664,11 @@
     }
    ],
    "rules": [
-    "Shuffle the cards and put them in a pile with the front side up. Each player takes one Faster token and one Slower token. Two players need two of each.",
+    "Shuffle the cards and put them in a pile with the front side up. Each player takes one Faster token and one Slower token. So two players need two of each kind.",
     "The first player turns the top card over and reads both sides aloud. This is the anchor card, and everyone can see how often it repeats.",
     "The next player reads the front of the new top card out loud, but does not turn it over.",
     "Every player puts one token face down. Faster means the new card repeats more often than the anchor. Slower means it repeats less often.",
-    "Everyone turns their tokens over together. The reader turns the new card over and reads the back. Players who were right keep one point.",
+    "Everyone turns their tokens over together. The reader turns the new card over and reads the back. Each player who was right gets one point.",
     "The new card becomes the anchor. Play on until the pile is gone.",
     "At the end, lay all the cards in a line from slowest to fastest. Check the order together, and find the two cards with the biggest jump between them.",
     "Playing alone, hold the anchor in your hand and guess for every card. Try to get 20 out of 23 right."
@@ -686,9 +686,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Turn over a clock card. Read both sides as the anchor. Then read the front of the heart card, and let your child choose a token.",
+     "do": "Find the wall clock card and turn it over. Read both sides aloud: this is the anchor card. Then read the front of the card for the heart of a resting child, and let your child choose a token.",
      "say": "The clock card ticks once each second. The next card is the heart of a resting child. Does it beat faster or slower than the clock ticks? Choose a token and turn it over.",
-     "kid": "A clock ticks once a second. A child's heart beats about one and a half. Faster or slower?",
+     "kid": "A clock ticks once a second. A child's heart beats about one and a half times a second. Faster or slower?",
      "check": {
       "t": "mcq",
       "q": "A clock ticks once each second. A resting child's heart beats about 90 times each minute. Which repeats more often?",
@@ -736,7 +736,7 @@
        "The police whistle"
       ],
       "a": 2,
-      "why": "A fan turns about 5 or 6 times each second, a bee beats her wings about 200 times, and a police whistle shakes about 3,000 times. The more shakes each second, the higher the pitch you hear. A student who picks the fan may be thinking of the largest and slowest thing, which is the fan."
+      "why": "A fan turns about 5 or 6 times each second, a bee beats her wings about 200 times, a violin string shakes 440 times, and a police whistle shakes about 3,000 times. The more shakes each second, the higher the pitch you hear. If you picked the fan, you may have picked the largest thing. The fan is the slowest of the four."
      },
      "context": "In this step, you put all the cards in order from slowest to fastest."
     },
@@ -756,7 +756,7 @@
        ]
       }
      ],
-     "parent": "The slow end is full of big things, such as the Earth and the Moon. The fast end is full of waves. Light and radio repeat so fast that we cannot count them, but we know it from their wavelength."
+     "parent": "The slow end is full of big things, such as the Earth and the Moon. The fast end is full of waves. Light and radio repeat so fast that we cannot count them, but we can work out how often from their wavelength."
     }
    ]
   }
@@ -770,7 +770,7 @@
    "context": "In this experiment you hang a washer on a thread and time 10 swings, changing one thing at a time, to find out what decides how often a pendulum swings.",
    "question": "Three things could change how long a pendulum takes to swing: the length of the thread, the weight on the end, and how wide you swing it. Which of the three really does?",
    "predict": "Before you start, guess. For each of the three, will it make the pendulum take more time, less time, or the same time? Why do you think so?",
-   "fair_test": "Change only one thing at a time. Always let go of the washer without pushing it. Always time 10 swings, from the moment you let go. Measure the length from the knot at the top to the middle of the washer. Do every test twice, because a stopwatch can start a little late. The washer is the same washer unless the test is about weight.",
+   "fair_test": "Change only one thing at a time. Always let go of the washer without pushing it. Always time 10 swings, from the moment you let go. Measure the length from the knot at the top to the middle of the washer. Do every test twice, because a stopwatch can start a little late. Use the same washer every time, except in the test about weight.",
    "results_table": [
     "What I changed",
     "My guess: more, same or less time?",
@@ -828,7 +828,7 @@
      "kid": "A washer on a thread. Will a longer thread, a heavier washer or a wider swing change the time? Why?",
      "ask": [
       {
-       "q": "Why do you think a wider swing will take longer?",
+       "q": "Will a wider swing take longer? Why do you think so?",
        "good": [
         "It has further to go.",
         "It goes faster, so it takes the same time.",
@@ -866,7 +866,7 @@
      "do": "Pull the washer about 10 centimetres to one side and let go. Do not push. Start the stopwatch as you let go. Count 10 swings and stop. Write the time. Do it twice. Then repeat with threads of 50 centimetres and 25 centimetres.",
      "say": "Pull the washer back a little and let go. Do not push it. Start the stopwatch at the moment you let go. One swing is out and all the way back. Count to ten, then stop.",
      "kid": "Pull back the washer. Let go. Count 10 swings. Stop the stopwatch. Write the time.",
-     "parent": "The expected times for 10 swings are about 20 seconds for 100 centimetres, about 14 seconds for 50 centimetres and about 10 seconds for 25 centimetres. A little difference is fine. If the swing wobbles in a circle, start again, and let go from a still hand. Shorten the thread by tying a knot, or tape the thread higher or lower, and always measure again. With two or more children, share the jobs: one lets go, one watches the stopwatch and calls start and stop, one counts the swings aloud, and one writes. Swap jobs for every new length. If you are alone with a parent, the parent counts aloud and the child holds the stopwatch. Use a thread that does not stretch, and tape it firmly so the top does not slip. These times are typical; yours may differ by a second.",
+     "parent": "The expected times for 10 swings are about 20 seconds for 100 centimetres, about 14 seconds for 50 centimetres and about 10 seconds for 25 centimetres. These times are typical; yours may differ by a second. If the swing wobbles in a circle, start again, and let go from a still hand. Shorten the thread by tying a knot, or tape the thread higher or lower, and always measure again. Use a thread that does not stretch, and tape it firmly so the top does not slip. With two or more children, share the jobs: one lets go, one watches the stopwatch and calls start and stop, one counts the swings aloud, and one writes. Swap jobs for every new length. With one child and a parent, the parent counts aloud and the child holds the stopwatch.",
      "check": {
       "t": "mcq",
       "q": "A pendulum takes 20 seconds for 10 swings. How long does one swing take?",
@@ -884,7 +884,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Go back to the 50 centimetre thread. Tape a second washer to the first so they hang as one. Time 10 swings twice. Compare with the one-washer time.",
-     "say": "Same thread, same swing. Now the washer is twice as heavy. Time 10 swings. Is it faster, slower or the same?",
+     "say": "The thread and the swing are the same as before. Only the weight has changed: it is now twice as heavy. Time 10 swings. Is it faster, slower or the same?",
      "kid": "Tape on a second washer. Time 10 swings. Is it faster, slower or the same?",
      "parent": "The time stays about the same, within half a second. Heavier does not mean faster. If the time is quite different, check that the tape is not changing the length of the pendulum. If you have all three washers, tape on both extra ones so the weight is three times as much; the time should still stay about the same.",
      "context": "In this step, you change only the weight, to see if the beat changes."
@@ -893,7 +893,7 @@
      "id": "s5",
      "mins": 5,
      "do": "Take off the extra washer. With the 50 centimetre thread, pull the washer 5 centimetres to the side and time 10 swings. Then pull it 25 centimetres to the side and time 10 swings. Do each twice.",
-     "say": "Now a small swing and a big swing. Time 10 swings of each. Which takes longer? Watch the stopwatch carefully.",
+     "say": "Now try a small swing and a big swing. Time 10 swings of each. Which takes longer? Watch the stopwatch carefully.",
      "kid": "Time 10 small swings. Then time 10 big swings. Which takes longer?",
      "parent": "The two times will be within about half a second of each other. The big swing travels further but moves faster, so it takes about the same time. Keep the big swing to no more than 25 centimetres to the side. For very wide swings the time does grow a little.",
      "context": "In this step, you change only how wide the swing is."
@@ -901,9 +901,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Look at the table together. Ask your child to say three things: what I think now, what I saw, and why.",
+     "do": "Look at the table together. Ask your child to say three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What numbers show it? And why do you think it happened?",
-     "kid": "Say three things. What I think now. What I saw. Why.",
+     "kid": "Say three things: what you think now, what you saw, and why you think it happened.",
      "check": {
       "t": "mcq",
       "q": "In your test, which one thing changed how long 10 swings took?",
@@ -913,7 +913,7 @@
        "How wide the swing was"
       ],
       "a": 0,
-      "why": "Longer thread gave a longer time for 10 swings. A second washer gave about the same time, and a wide swing gave about the same time as a small one. Many people expect weight or width to matter. A heavier washer is pulled down harder, but it is also harder to move, and the two cancel."
+      "why": "A longer thread gave a longer time for 10 swings. A second washer gave about the same time, and a wide swing gave about the same time as a small one. Many people expect weight or width to matter. A heavier washer is pulled down harder, but it is also harder to move, and the two cancel."
      },
      "parent": "A strong answer sounds like this: 'The length of the thread changed the time. 25 centimetres took about 10 seconds for 10 swings, and 100 centimetres took about 20. Weight and width did not change it. I think the pendulum has its own beat that comes from its length.' Now read the card 'What sets the beat of a pendulum'.",
      "context": "In this step, you say what you found, with evidence and a reason."
@@ -1005,7 +1005,7 @@
    "context": "In this experiment you tap a tray of shallow water at different speeds, and look at how far apart the ripples are.",
    "question": "If you tap the water faster, what happens to the distance between one ripple and the next?",
    "predict": "Before you start, guess. When you tap faster, will the ripples be closer together, further apart, or the same distance apart? Will they travel faster? Why do you think so?",
-   "fair_test": "Use the same tray, the same ruler edge and the same depth of water, 1 centimetre, every time. Dip the ruler edge into the water the same small distance, about 3 millimetres, on every click. Only the tap rate changes. Measure the gap between ripples three times for each rate, because ripples are hard to see and a single measurement can be wrong. Check the depth at all four corners: if the tray is tilted the depth changes from one end to the other, and the ripples change with it.",
+   "fair_test": "Use the same tray, the same ruler edge and the same depth of water, 1 centimetre, every time. Dip the ruler edge into the water the same small distance, about 3 millimetres, on every tap. Only the tap rate changes. Measure the gap between ripples three times for each rate, because ripples are hard to see and a single measurement can be wrong. Check the depth at all four corners: if the tray is tilted the depth changes from one end to the other, and the ripples change with it.",
    "results_table": [
     "Taps each second",
     "My guess: ripples closer, further, or same?",
@@ -1089,7 +1089,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Put the tray on a towel on a flat floor. Pour in water until it is 1 centimetre deep. Check the depth at both ends with a ruler. Lay a folded towel at the far end. Put white paper under a clear tray. Dim the room.",
+     "do": "Put the tray on a towel on a flat floor. Pour in water until it is 1 centimetre deep. Check the depth at both ends with a ruler. Lay a folded towel at the far end. If the tray is clear, put white paper under it. Dim the room.",
      "say": "Pour in water until it is exactly 1 centimetre deep at both ends. Then lay the folded towel at the far end. It soaks up the ripples, so they do not bounce back.",
      "kid": "Pour 1 centimetre of water. Lay a towel at the far end. Make the room dim.",
      "parent": "The floor must be flat, or the water will be deeper at one end. If your tray is dark steel, the ripples will show as moving reflections of the torch on the ceiling and wall. Shine the torch from the side across the water and look at the bright lines on the tray bottom or the wall. A 35 by 25 centimetre tray needs about 1 litre of water for 1 centimetre. A tray on a hard flat table is steadier than one on a soft towel, so use the towel only to catch spills. A dished or bent bottom spoils the result; choose the flattest tray. Switch the fan off.",
@@ -1118,18 +1118,18 @@
     {
      "id": "s4",
      "mins": 9,
-     "do": "Take a photo (or a short video) from straight above with a ruler lying on the paper under the tray along the way the ripples travel. Find three bright lines in a row in the photo and measure from the first to the third. Divide by 2 for the gap. Do this three times. If the tray is too short for three lines, measure from the first to the second line. Then set the metronome to 180 and 240 beats a minute, and repeat.",
+     "do": "Lay a ruler on the paper under the tray, pointing the way the ripples travel. Take a photo (or a short video) from straight above. Find three bright lines in a row in the photo and measure from the first to the third. Divide by 2 for the gap. Do this three times. If the tray is too short for three lines, measure from the first to the second line. Then set the metronome to 180 and 240 beats a minute, and repeat.",
      "say": "Three bright lines in a row have two gaps. Measure from the first to the third, and halve it. Do it three times. Then speed the metronome up and do it again.",
      "kid": "Take a photo from above. Measure from the first line to the third. Halve it. Do it three times. Then tap faster.",
-     "parent": "Expect gaps of about 12 to 16 centimetres at 2 taps each second, about 9 or 10 at 3, and about 6 to 8 at 4. Your numbers may differ with your tray, but the gaps must shrink as the taps speed up. A phone photo from above, with the ruler laid beside the tray, helps you measure after the ripples have gone. At 4 taps each second, tap lightly with a small dip so the ripples stay clean. Measuring from a photo is far easier than trying to measure moving ripples by eye. At 4 taps each second the dips are quick; practise a little flick and tap lightly. These gaps are typical; your tray may give gaps a few centimetres different, but they must shrink as the taps get faster.",
+     "parent": "Expect gaps of about 12 to 16 centimetres at 2 taps each second, about 9 or 10 at 3, and about 6 to 8 at 4. These gaps are typical; your tray may give gaps a few centimetres different, but they must shrink as the taps get faster. Measuring from a phone photo taken from above, with the ruler in view, is far easier than trying to measure moving ripples by eye. At 4 taps each second the dips are quick; practise a little flick and tap lightly with a small dip, so the ripples stay clean.",
      "context": "In this step, you measure the gap between ripples at three different tap rates."
     },
     {
      "id": "s5",
      "mins": 6,
-     "do": "Look at the table together. Ask your child to say three things: what I think now, what I saw, and why.",
+     "do": "Look at the table together. Ask your child to say three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What numbers show it? And why do you think it happened? Remember that in the tray the water set the speed, and you set how often.",
-     "kid": "Say three things. What I think now. What I saw. Why.",
+     "kid": "Say three things: what you think now, what you saw, and why you think it happened.",
      "check": {
       "t": "mcq",
       "q": "At 4 taps each second, the gaps were about half the gaps at 2 taps each second. What stayed the same?",
@@ -1285,7 +1285,7 @@
      "say": "Look at your table. Which of your three things repeats most often each second, and which least often? Why do you think that is?",
      "kid": "Which repeats most often? Which least often? Put them in order.",
      "think": "Which of your three beats can you change on purpose, and which can you hardly change at all?",
-     "parent": "Expect order: breath (about 0.3 hertz), pulse (about 1.5 hertz), steps (about 2 hertz). A pulse can be changed a little by running. Breath is the beat we can change most easily. This is the idea of frequency, and you will meet it again with pendulums and ripples."
+     "parent": "Expect this order, slowest first: breath (about 0.3 hertz), pulse (about 1.5 hertz), steps (about 2 hertz). A pulse can be changed a little by running. Breath is the beat we can change most easily. This is the idea of frequency, and you will meet it again with pendulums and ripples."
     }
    ],
    "setup": [
@@ -1308,7 +1308,7 @@
    "title": "The Wave Grid: shift and colour",
    "mins": 20,
    "days": 1,
-   "context": "In this paper activity you colour a grid to model a wave moving along a line. You find out how the beat and the speed decide the wavelength.",
+   "context": "In this paper activity you colour a grid to show a wave moving along a line. You find out how the beat and the speed decide the wavelength.",
    "materials": [
     {
      "item": "squared paper, such as a page of a squared maths notebook, or plain paper and a ruler to draw grids of squares about 1 centimetre wide",
@@ -1349,7 +1349,7 @@
      "mins": 6,
      "do": "In row 1, colour the left square. In each row below, copy the row above, but slide every colour one square to the right. Colour the left square again in rows 5 and 9 only.",
      "say": "The rule is simple. Copy the row above and slide every coloured square one place to the right. The wave-maker adds a new coloured square at the left end every fourth row.",
-     "kid": "Copy each row, sliding colours one right. Add a new left square every 4th row.",
+     "kid": "Copy each row, but slide every colour one square to the right. Colour a new left square every 4th row.",
      "parent": "You should see slanting stripes. In every row the coloured squares are 4 apart. That is the wavelength: 4 squares. The wave moves at 1 square each beat, and the source makes a new crest every 4 beats, so one wave stretches over 4 squares.",
      "check": {
       "t": "mcq",
@@ -1367,10 +1367,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw a second grid with the same slide rule. This time, colour the left square every second row. Measure the gap between coloured squares in one row.",
+     "do": "Draw a second grid. As in the first grid, copy each row from the row above and slide every colour one square to the right. This time, colour the left square every second row. Measure the gap between coloured squares in one row.",
      "say": "The wave-maker now beats twice as often, every second row. Before you colour, guess. Will the coloured squares be closer together or further apart? Why do you think so?",
-     "kid": "New beat: colour the left square every 2nd row. Guess the gap first.",
-     "parent": "The coloured squares are now 2 squares apart. A faster beat with the same speed gives a shorter wavelength. This matches the ripples in your tray.",
+     "kid": "This time, colour the left square every 2nd row. Guess the gap first.",
+     "parent": "The coloured squares are now 2 squares apart. A faster beat with the same speed gives a shorter wavelength. This matches Tap Faster, where faster taps gave ripples that were closer together.",
      "context": "In this step, you make the wave-maker beat twice as fast, and see what happens to the gap."
     },
     {
@@ -1378,7 +1378,7 @@
      "mins": 5,
      "do": "Draw a third grid, 16 squares wide and 12 rows down. Slide each row two squares to the right instead of one. Colour the left square in rows 1, 5 and 9, as in the first grid. Measure the gap between coloured squares in the lower rows.",
      "say": "Now the wave moves faster, two places each beat. The wave-maker beats every 4 rows, as before. Guess the gap before you colour. Closer, further, or the same?",
-     "kid": "Slide two squares each row. Colour the left every 4th row. Guess the gap.",
+     "kid": "Slide two squares each row. Colour the left square every 4th row. Guess the gap.",
      "parent": "The coloured squares are now 8 apart. A faster wave with the same beat gives a longer wavelength. The gap is the speed (2 squares each beat) times the 4 beats between crests. This is the rule: wavelength is speed times the time between beats. The third grid needs 16 columns so that two crests are on the page together. With 2 to 4 children, each draws one grid and the group compares; alone with a parent, take turns colouring a row each.",
      "check": {
       "t": "mcq",
@@ -1389,7 +1389,7 @@
        "1 square"
       ],
       "a": 0,
-      "why": "In 3 beats the first crest moves 2 squares each beat, which is 2 times 3, or 6 squares, before the next crest begins. So the crests are 6 apart. Adding the numbers to get 5 is a common slip."
+      "why": "The first crest moves 2 squares each beat. In 3 beats it moves 2 times 3, which is 6 squares, before the next crest begins. So the crests are 6 apart. Adding the numbers to get 5 is a common slip."
      },
      "context": "In this step, you make the wave twice as fast, and see how the gap changes."
     }
@@ -1465,7 +1465,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Write down the colours in order along the band, starting from the end nearest the bright spot of reflected light. Measure the width of the band on the wall. Then move back so the CD is twice as far from the wall, and measure the band again. If it is sunny, you can also try the glass of water.",
+     "do": "Write down the colours in order along the band, starting from the end nearest the bright spot of reflected light. Measure the width of the band on the wall. Then move back so the CD is twice as far from the wall, and measure the band again. If it is sunny, you can also let a beam of sunshine pass through a glass of water onto white paper, and move the glass until a rainbow appears.",
      "say": "Say the colours in order: red, orange, yellow, green, blue, violet. Red has the longest waves, about 700 nanometres. Violet has the shortest, about 400 nanometres.",
      "kid": "Say the colours in order. Red has the longest waves. Violet has the shortest.",
      "parent": "A nanometre is a billionth of a metre. A hair is about a hundred times wider than a red light wave. The glass of water works best when a beam of sunshine passes through it onto a white paper. Move the glass until a rainbow appears. On a CD, red is the end furthest from the bright spot, because longer waves spread out more; a prism or a raindrop does the opposite. The band should be about twice as wide when the wall is twice as far away, because light travels in straight lines. The glass of water often fails: it needs strong, low sunshine and some luck, so do not worry if nothing appears.",
@@ -1539,7 +1539,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Write each wave on its own slip. The ten waves are a sea wave, a ripple in a tray, a human voice, a police whistle and FM radio. The rest are AM radio, Wi-Fi, a microwave oven, red light and a tsunami.",
+     "do": "Write each wave on its own slip. The ten waves are a sea wave, a ripple in a tray, a human voice, a police whistle, FM radio, AM radio, Wi-Fi, a microwave oven, red light and a tsunami.",
      "say": "Each slip names a kind of wave. Put them in a line, from the longest wavelength to the shortest. It is only a guess for now. Why do you put each one where you do?",
      "kid": "Put the ten slips in a line. Longest on the left. Shortest on the right.",
      "ask": [
@@ -1558,10 +1558,10 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Check your order using the numbers in the parent note. Move any slip that is in the wrong place. Write the rough wavelength on each slip. Circle the two that surprised you.",
+     "do": "Check your order using the rough lengths in the parent note of the first step. Move any slip that is in the wrong place. Write the rough wavelength on each slip. Circle the two that surprised you.",
      "say": "Now we check. Write the rough wavelength on each slip, and move any that were wrong. Which two surprised you most?",
      "kid": "Check the order. Fix any wrong slip. Circle two surprises.",
-     "parent": "Surprises to expect: a Wi-Fi box, a microwave oven and a police whistle are all within a few centimetres of each other, although they are very different waves. A tsunami's wavelength is over 100 kilometres, longer than many cities are wide. Light is a hundred times thinner than a hair.",
+     "parent": "Surprises to expect: a Wi-Fi box, a microwave oven and a police whistle are all within a few centimetres of each other, although they are very different waves. A tsunami's wavelength is over 100 kilometres, longer than many cities are wide. A red light wave is about a hundred times shorter than a hair is wide.",
      "check": {
       "t": "mcq",
       "q": "Which of these has the shortest wavelength?",
@@ -1782,10 +1782,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Let the swing settle. Switch on the metronome at 60 beats a minute. Tap the washer on every click, even when it is not coming toward you. Tap for 20 taps. Measure how wide the swing is after 10 and after 20 taps, and compare with before.",
-     "say": "Now tap once every second, whatever the washer is doing. That is not its beat. Watch what the swing does. Is it as big as before?",
-     "kid": "Tap once every second, whatever the washer does. Is the swing as big?",
-     "parent": "The swing will swell a little and shrink again, and stay much smaller than before, because the taps drift in and out of step with the washer (it swings about every 1.4 seconds and you tap every 1 second). Your numbers will vary, so compare the widest swing with the earlier one. This is why a crowd walking out of step does not make a bridge swing, but a crowd stepping in time with it can. With 2 to 4 children, take turns tapping while the others measure.",
+     "do": "Let the swing settle. Switch on the metronome at 60 beats a minute. Tap the washer on every click, even when it is not coming toward you. Tap for 20 taps. Measure how wide the swing is after 10 and after 20 taps, and compare with the swing you got by tapping at the washer's own beat.",
+     "say": "Now tap once every second, whatever the washer is doing. That is not its beat. Watch what the swing does. Is it as big as when you tapped at the washer's own beat?",
+     "kid": "Tap once every second, whatever the washer does. Does the swing grow as big as it did when you tapped at its own beat?",
+     "parent": "The swing will swell a little and shrink again, and stay much smaller than when your child tapped at the washer's own beat. This is because the taps drift in and out of step with the washer: it swings about every 1.4 seconds and you tap every 1 second. Your numbers will vary, so compare the widest swing here with the widest swing from tapping at the washer's own beat. This is why a crowd walking out of step does not make a bridge swing, but a crowd stepping in time with it can. With 2 to 4 children, take turns tapping while the others measure.",
      "think": "What would you have to do to make the pendulum swing wide at a tapping rate of once every second?"
     }
    ],
@@ -1854,7 +1854,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Set up the tray with water 1 centimetre deep, as in Tap Faster. Lay a ruler along the edge of the tray so it shows in the photos. Tap at 2 taps each second and take a photo from above.",
-     "say": "We will use the rule that speed is the taps each second times the gap between ripples. Set up the tray as before. Lay a ruler along the edge so the photo shows the scale.",
+     "say": "We will use the rule that speed is the taps each second times the gap between ripples. Set up the tray as in Tap Faster. Lay a ruler along the edge so the photo shows the scale.",
      "kid": "Set up the tray. Lay a ruler along the edge. Tap and take a photo.",
      "parent": "Hold the phone steady and as straight above the tray as you can. If the photo does not show the bright lines, shine the torch from another angle. A video clip works too: pause on a sharp frame. Lay the ruler on the paper under the tray, along the way the ripples travel, so that it lines up with the lines and there is no sideways error from the camera. With 2 to 4 children: one taps, one keeps the metronome, one photographs, one measures and writes. Switch the fan off.",
      "context": "This is the first step of the Ripple Speed Machine. You set up the tray and take a photo at 2 taps each second."
@@ -1893,7 +1893,7 @@
      "mins": 6,
      "wait": "Do this on day 2.",
      "do": "Make a prediction. At 3 taps each second, will the gap be longer, shorter or the same if the water is deeper? Write the guess and the reason down.",
-     "say": "Last time we changed the taps. Today we change the depth of the water, and keep the taps at 3 each second. In deeper water, will the gap between ripples be longer, shorter or the same? Why do you think so?",
+     "say": "On day 1 we changed the taps. Today we change the depth of the water, and keep the taps at 3 each second. In deeper water, will the gap between ripples be longer, shorter or the same? Why do you think so?",
      "kid": "Deeper water, same taps. Will the gap be longer, shorter or the same? Why?",
      "parent": "In the Class 3 Tray Test, ripples went faster in deeper water. If they go faster, and the taps are the same, the gap must grow. Let your child work out this link before you say it.",
      "context": "On day 2, you guess what depth will do to the gap, before you test."
@@ -1903,7 +1903,7 @@
      "mins": 8,
      "do": "Make the water 0.5 centimetres, 1 centimetre and 2 centimetres deep in turn. Tap at 3 taps each second. Take a photo at each depth. Measure the gap. Work out the speed.",
      "say": "Measure the water carefully each time. Tap at 3 taps each second, take a photo, and measure the gap. Then multiply by 3 to get the speed in centimetres each second.",
-     "kid": "Try three depths. Tap at 3 each second. Photo, measure, then multiply.",
+     "kid": "Try three depths. Tap at 3 each second. Take a photo, measure the gap, then multiply by 3.",
      "parent": "Expect gaps of about 7, 10 and 13 centimetres, so speeds of about 21, 30 and 39. The speed grows as the water gets deeper, but not in a straight line. Shallow ripples travel in a different way from deep ones. Your numbers will not be exact, so look for the pattern. Depth is the hard part. Check it with a ruler at all four corners, because a tilt of 1 millimetre is a big share of 0.5 centimetres. For 0.5 centimetres dip the ruler only about 2 millimetres. About 0.5 litre fills a 35 by 25 centimetre tray to 0.5 centimetres, 1 litre to 1 centimetre and 2 litres to 2 centimetres. If your three speeds do not rise neatly, trust the trend between the shallowest and the deepest. These numbers are typical, not promised.",
      "context": "On day 2, you measure the gap at three depths and work out the speed."
     },
@@ -1956,10 +1956,10 @@
    "safety": "A grown-up fixes the thread high up. Hang it where nobody walks past and nothing breakable is near, and stand to the side of the swing, because a steel washer that hits a face can hurt.",
    "problem": "Build a pendulum that makes exactly 30 swings in 30 seconds, give or take one second. It must do this twice in a row. Then use it to time 30 seconds of something fun.",
    "constraints": [
-    "Use only thread, a washer or nut, tape and a measuring tape. No stopwatch while building, only to test.",
+    "Use only thread, a washer or nut, tape and a measuring tape. Use the stopwatch only to test, not while building.",
     "The pendulum must hang free and swing in a straight line, without touching anything.",
     "Release the washer without pushing it. The swing must be small, under 15 centimetres to the side.",
-    "It must pass the test twice in a row, with 30 swings in between 29 and 31 seconds."
+    "It must pass the test twice in a row: 30 swings must take between 29 and 31 seconds."
    ],
    "materials": [
     "a strong cotton thread about 1 metre long",
@@ -1975,7 +1975,7 @@
    ],
    "creative": [
     "Make a metronome from a ruler hung from a pin: tape a weight near the bottom, and slide it up or down the ruler to change the beat.",
-    "Build a pendulum that swings once every two seconds, and then work out how long the thread must be, by changing it from the 25 centimetre one."
+    "Build a pendulum that swings once every two seconds. Start from the 25 centimetre one and change the thread until you find how long it must be."
    ],
    "your_turn": "Sketch your pendulum. Predict the length you need. Build it and test it. If 30 swings take more than 30 seconds, make the thread shorter. If less, make it longer. How close can you get?",
    "setup": [
@@ -2003,7 +2003,7 @@
       {
        "q": "What length do you think you will need?",
        "good": [
-        "About 25 centimetres, like the shortest in the test.",
+        "About 25 centimetres, like the shortest thread in Counting Swings.",
         "Something near 25 centimetres, but I will check.",
         "I do not know, so I will test a few."
        ]
@@ -2036,7 +2036,7 @@
        "Use a heavier washer"
       ],
       "a": 0,
-      "why": "Taking more time means the pendulum is too slow, and a shorter pendulum swings faster. A heavier washer changes nothing, as you saw in the test."
+      "why": "Taking more time means the pendulum is too slow, and a shorter pendulum swings faster. A heavier washer changes nothing, as you saw in Counting Swings."
      },
      "context": "In this step, you adjust the length until the pendulum passes the test."
     },
@@ -2046,7 +2046,7 @@
      "do": "Test the pendulum twice in a row. Then use it to time 30 seconds of something fun, such as a dance or a tongue-twister. Ask your child how they know it is accurate.",
      "say": "Test your pendulum twice. When it passes, use it to time 30 seconds of something fun. How do you know your timer is right?",
      "kid": "Pass the test twice. Then time 30 seconds of something fun.",
-     "think": "A clock keeps time with a swinging pendulum. Why would a longer or shorter pendulum make the clock run wrong?",
+     "think": "A pendulum clock keeps time with its swinging pendulum. Why would a longer or shorter pendulum make the clock run wrong?",
      "parent": "Pendulum clocks were the best timekeepers for about 300 years after Christiaan Huygens built the first one in the 1650s. A clock that runs too fast is fixed by lengthening its pendulum, and one that runs too slow is fixed by shortening it."
     }
    ]
@@ -2268,7 +2268,7 @@
     },
     {
      "t": "mcq",
-     "p": "A parent pushes a child on a swing at the moment the swing comes back to her each time. Why does the swing get higher and higher?",
+     "p": "A parent pushes a child on a swing each time the swing comes back. Why does the swing get higher and higher?",
      "opts": [
       "Each push comes at the swing's own beat, so each one adds to the swing already there",
       "Each push is harder than the one before",
@@ -2296,7 +2296,7 @@
       "115,600 metres"
      ],
      "a": 0,
-     "why": "Wavelength is the speed divided by the frequency. 340 divided by 340 is 1 metre. Multiplying to get 115,600 is the slip of using the wrong operation.",
+     "why": "Wavelength is the speed divided by the frequency. 340 divided by 340 is 1 metre. If you got 115,600, you multiplied instead of dividing.",
      "outcome": 3
     },
     {
@@ -2470,20 +2470,20 @@
     },
     {
      "t": "perspective",
-     "p": "Asha and Karthik are watching a pendulum swing once every 2 seconds. They argue about where the 2 seconds comes from.",
-     "a": "A strong answer picks a side, gives a reason from the pendulum test, and says what is right in the other view.",
+     "p": "A pendulum swings once every 2 seconds. Two children watching it argue about where the 2 seconds comes from.",
+     "a": "A strong answer picks a side, gives a reason from the Counting Swings test, and says what is right in the other view.",
      "why": "Both have part of the truth. The pendulum swings at its own steady beat. The number 2 and the word second come from a clock and a count that people agreed on.",
      "views": [
       {
-       "who": "Asha, aged 9",
+       "who": "One child",
        "says": "The beat is in the pendulum. It swung like that before anyone counted, and it would keep swinging that way if we left."
       },
       {
-       "who": "Karthik, aged 10",
+       "who": "The other child",
        "says": "The 2 seconds is in our counting. Nature has a swinging thing. We made the clock, and the number comes from the clock."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from your pendulum test. Then say one thing the other person has right.",
+     "ask": "Which idea do you agree with most? Give a reason from the Counting Swings test. Then say one thing the other child has right.",
      "lines": 5,
      "outcome": 0
     },
@@ -2545,7 +2545,7 @@
       "125 centimetres"
      ],
      "a": 0,
-     "why": "The gap is the speed divided by the frequency. 25 divided by 5 is 5 centimetres. Multiplying gives 125, which is a slip of using the wrong rule.",
+     "why": "The gap is the speed divided by the frequency. 25 divided by 5 is 5 centimetres. If you got 125, you multiplied instead of dividing.",
      "outcome": 3
     },
     {
@@ -2557,7 +2557,7 @@
       "1.5 centimetres each second"
      ],
      "a": 0,
-     "why": "Speed is the frequency times the gap. 6 times 4 is 24 centimetres each second. Dividing gives 1.5, the wrong way round.",
+     "why": "Speed is the frequency times the gap. 6 times 4 is 24 centimetres each second. If you got 1.5, you divided instead of multiplying.",
      "outcome": 3,
      "how": "e2"
     },
@@ -2714,7 +2714,7 @@
     {
      "t": "write",
      "p": "Gravitational waves from crashing black holes were first caught in 2015, though the idea is much older. Why might it have taken so long to catch one?",
-     "a": "The waves are extremely small by the time they reach us. The wave is so low that it changes the length of an instrument by far less than the width of a proton. It took very careful, very sensitive instruments to measure that.",
+     "a": "The waves are extremely small by the time they reach us. One changes the length of an instrument by far less than the width of a proton. It took very careful, very sensitive instruments to measure that.",
      "why": "A strong answer says that the amplitude is tiny by the time the wave reaches Earth, and that catching it needed instruments of great sensitivity.",
      "lines": 4,
      "outcome": 5
@@ -2726,11 +2726,11 @@
      "why": "Both views have a point. Noticing the signal was essential and was hers. Explaining it and leading the team also took skill. Real discoveries need both, and who gets credit depends on rules people have agreed, which can be unfair.",
      "views": [
       {
-       "who": "Meera, a student",
+       "who": "A student",
        "says": "She saw it first and she kept checking it when everyone said it was nothing. The prize should go to her."
       },
       {
-       "who": "Dr Rao, a professor",
+       "who": "A professor",
        "says": "The team was built and led by the supervisor, and the paper explained it. A prize is for the whole discovery, which takes both."
       }
      ],
@@ -2769,7 +2769,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl hangs a heavy stone and a light stone on two threads of exactly the same length. She lets them both swing a short way. What happens?",
+   "p": "You hang a heavy stone and a light stone on two threads of exactly the same length, and let them both swing a short way. What happens?",
    "opts": [
     "They swing together, one swing taking the same time for each",
     "The heavy one swings faster",
@@ -2800,7 +2800,7 @@
   },
   {
    "t": "mcq",
-   "p": "A bump moves along a rope while the rope moves up and down. How does the rope move in a push wave instead?",
+   "p": "In a shake wave, a bump moves along a rope while the rope moves up and down. How does the material move in a push wave?",
    "opts": [
     "Back and forth along the way the wave travels",
     "Up and down across the way the wave travels",
@@ -2819,7 +2819,7 @@
     "They carry the same"
    ],
    "a": 0,
-   "why": "A bigger amplitude means more energy. The frequency is the same, so how tall is the thing that differs.",
+   "why": "A bigger amplitude means more energy. The frequency is the same, so the height is the only thing that differs.",
    "outcome": 5
   },
   {
@@ -2847,7 +2847,7 @@
    "t": "truefalse",
    "p": "Pulling a pendulum back a little further before letting go makes each of its swings take noticeably longer.",
    "a": false,
-   "why": "False. For modest swings, the time of one swing stays the same. A wider swing goes further, but it also moves faster.",
+   "why": "False. For small swings, the time of one swing stays the same. A wider swing goes further, but it also moves faster.",
    "outcome": 1
   },
   {
@@ -2909,7 +2909,7 @@
    "channel": "BBC",
    "youtube": "PKtnaTxLARc",
    "mins": 3,
-   "why": "To hear the discoverer tell her own story of the scruff on the chart paper, the steady beat and the little green men joke.",
+   "why": "Jocelyn Bell Burnell tells her own story of the scruff on the chart paper, the steady beat and the little green men joke.",
    "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
@@ -2993,7 +2993,7 @@
   "If you pushed a swing at the wrong moment, what would happen?",
   "Where in our home might a wave be hiding, and what is it made of?",
   "Why do you think a violin string and a tanpura string sound different?",
-  "Why can a girl at one end of a long rope not make the wave arrive any quicker by shaking harder?",
+  "You hold one end of a long rope. Why can you not make the wave arrive any quicker by shaking harder?",
   "What would it be like if every swing took a different time?",
   "If you could hear a pulsar's beat, how would you describe it to a friend?"
  ],
@@ -3039,14 +3039,14 @@
   {
    "problem": "In Counting Swings, a 50 centimetre pendulum took 14 seconds for 10 swings. How long did one swing take, in seconds?",
    "answer": "1.4 seconds.",
-   "explain": "14 seconds shared among 10 swings is 14 divided by 10, which is 1.4 seconds for each swing. We time 10 swings and divide, because the stopwatch is then wrong by a tiny part of the answer.",
+   "explain": "14 seconds shared among 10 swings is 14 divided by 10, which is 1.4 seconds for each swing. We time 10 swings and divide, because a late press of the stopwatch then matters much less.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
    "how": "e1",
    "context": "In the Counting Swings test, you time 10 swings of a pendulum and want to know the time for one.",
    "why_maths": "Timing many swings and dividing gives a more accurate answer than timing one swing, because a late press of the stopwatch matters less."
   },
   {
-   "problem": "Aditi counts 22 pulse beats in 15 seconds. How many beats would she count in a whole minute? Is this a count of beats each minute or each second?",
+   "problem": "You count 22 pulse beats in 15 seconds. How many beats would you count in a whole minute? Is this a count of beats each minute or each second?",
    "answer": "88 beats in a minute, which is a count of beats each minute.",
    "explain": "A minute has four lots of 15 seconds. 22 times 4 is 88. We can say it is 88 beats each minute. To get beats each second, we would divide 88 by 60, which is a little under one and a half.",
    "math_unit": "math.multiplication.multiplication-facts.L4",
@@ -3106,7 +3106,7 @@
    "why_maths": "Dividing a big length by a tiny length shows how very small light waves are."
   },
   {
-   "problem": "In Tap Faster, a girl measured gaps of 14, 10 and 7 centimetres at 2, 3 and 4 taps each second. She plots these on a line graph with taps along the bottom and gap up the side. About what gap would you expect at 3.5 taps each second?",
+   "problem": "In Tap Faster, the gaps were 14, 10 and 7 centimetres at 2, 3 and 4 taps each second. Plot these on a line graph with taps along the bottom and gap up the side. About what gap would you expect at 3.5 taps each second?",
    "answer": "About 8 or 9 centimetres.",
    "explain": "At 3 taps the gap is 10 and at 4 taps it is 7. 3.5 is half way between, so the gap should be about half way between 10 and 7, which is 8.5 centimetres.",
    "math_unit": "math.data.line-graphs.L4",
@@ -3115,12 +3115,12 @@
    "why_maths": "A line graph lets you read an answer between two measurements without doing another test."
   },
   {
-   "problem": "A seconds pendulum swings once every 2 seconds, back and forth. How many full swings does it make in one hour?",
+   "problem": "A pendulum swings once every 2 seconds. How many full swings does it make in one hour?",
    "answer": "1,800 swings.",
    "explain": "One hour is 60 minutes, which is 3,600 seconds. One swing takes 2 seconds, so 3,600 divided by 2 is 1,800 swings.",
    "math_unit": "math.time.duration.L4",
    "context": "A pendulum with a 100 centimetre thread swings once every 2 seconds, as found in Counting Swings.",
-   "why_maths": "Changing hours to seconds and dividing shows how many beats a pendulum clock counts in a day."
+   "why_maths": "Changing hours to seconds and dividing shows how many beats a pendulum clock counts in an hour."
   }
  ],
  "song": {

@@ -3,11 +3,11 @@
  "title": "Reading the night sky: why the stars turn, how the Pole Star shows where you are, and how astronomers measure how far away a star is",
  "level": 4,
  "summary": {
-  "text": "Watch the night sky for an hour and every star slides slowly across it, except one that hardly moves. That star is the Pole Star, called Dhruva in India, and it is how travellers have found north for thousands of years. It stands about 13 degrees above the northern horizon in Chennai, but about 29 degrees in Delhi, so its height tells you how far north you are. Your child works out why with a ball and a straw, measures how far the sky turns in one hour, and uses a thumb and a wall to measure distances the way astronomers measure the distance to stars. Along the way: why Orion is a winter star and Scorpius a summer one, why a red star is cooler than a blue one, and why planets do not twinkle but stars do.",
+  "text": "Watch the night sky for an hour and every star slides slowly across it, except one that hardly moves. That star is the Pole Star, called Dhruva in India, and it is how travellers have found north for thousands of years. It stands about 13 degrees above the northern horizon in Chennai, but about 29 degrees in Delhi, so its height tells you how far north you are. Your child works out why with a ball and a straw, measures how far the sky turns in one hour, and uses a thumb and a wall to measure distances the way astronomers measure the distance to stars. They also learn why Orion is a winter star and Scorpius a summer one, why a red star is cooler than a blue one, and why planets do not twinkle but stars do.",
   "art": "A child on a terrace at night with a straw taped to a protractor, aiming at a faint star above the northern rooftops, with a long exposure of circling star trails drawn in the sky above."
  },
  "intro": {
-  "hook": "On a clear night, look north and find the Saptarishi, the seven stars shaped like a ladle. Two of them, Kratu and Pulaha, point at a lonely star called Dhruva, the Pole Star. Watch for an hour, and all the other stars swing slowly round it, like the spokes of a wheel round the hub. What is the sky turning around, and why does that one star stay still?",
+  "hook": "On a clear night, look north and find the Saptarishi, the seven stars shaped like a ladle. Two of them, Kratu and Pulaha, point at a star called Dhruva, the Pole Star. Watch for an hour, and all the other stars swing slowly round it, like the spokes of a wheel round the hub. What is the sky turning around, and why does that one star stay still?",
   "text": "In this unit you find out. You build a model with a ball and a straw that shows why the Pole Star stands higher in the sky the further north you go. You measure with your fist how far the stars move in an hour. You use the jump of your thumb to measure distances, which is how astronomers first measured the distance to a star. You also learn why Orion and Scorpius never share a night sky, how a star's colour shows its temperature, and how sailors crossed oceans with nothing but the stars.",
   "art": "A hand-drawn night sky with the seven stars of the Saptarishi, a dotted line from the two pointer stars to a lone star in the middle, and curved arrows showing other stars circling around it."
  },
@@ -152,7 +152,7 @@
    "concept": "The height of the Pole Star equals your latitude",
    "status": "defined",
    "definition": "The altitude of the Pole Star above your northern horizon, in degrees, is about the same as your latitude. It is 0 degrees at the equator and 90 degrees at the North Pole.",
-   "description": "The Pole Star is so far away that its light comes to every part of the Earth along the same direction. So the direction to the Pole Star is parallel to the Earth's axis wherever you stand. Imagine standing at the North Pole. The axis points straight up, so the Pole Star is overhead, at 90 degrees. On the equator, the axis lies flat along the ground, so the Pole Star sits on the northern horizon, at 0 degrees. In between, the star's height grows steadily with how far north you are. This is why a traveller walking north sees the Pole Star climb. A wanderer can find their latitude without a map. Polaris is not exactly on the pole, so the rule is right to within about one degree.",
+   "description": "The Pole Star is so far away that its light comes to every part of the Earth along the same direction. So the direction to the Pole Star is parallel to the Earth's axis wherever you stand. At the North Pole, the axis points straight up, so the Pole Star is overhead, at 90 degrees. On the equator, the axis lies flat along the ground, so the Pole Star sits on the northern horizon, at 0 degrees. In between, the star's height grows steadily with how far north you are. This is why a traveller walking north sees the Pole Star climb. It also means a traveller can find their latitude without a map. Polaris is not exactly on the pole, so the rule is right to within about one degree.",
    "examples": [
     "In Kanyakumari, at 8 degrees north, the Pole Star is less than one fist above the northern horizon and is often hidden by haze.",
     "In Chennai it is at about 13 degrees, which is one fist and a bit.",
@@ -165,7 +165,7 @@
   {
    "concept": "Stars that never set, and stars you never see",
    "status": "defined",
-   "definition": "A star is circumpolar if its circle round the Pole Star stays above your horizon. All stars within your latitude's number of degrees of the Pole Star are circumpolar for you. Stars close enough to the south pole never rise for you.",
+   "definition": "A star is circumpolar if its circle round the Pole Star stays above your horizon. If your latitude is 29 degrees, every star within 29 degrees of the Pole Star is circumpolar for you. Stars that are as close as that to the south pole of the sky never rise for you.",
    "description": "The Pole Star stands at your latitude in degrees above the horizon. A star that circles the Pole Star at a distance smaller than that never dips below the horizon. In Delhi at 29 degrees, stars within 29 degrees of the Pole Star never set. In Chennai at 13 degrees, only stars within 13 degrees never set. On the equator, nothing is circumpolar, and every star rises and sets. The same rule works in the south. In Chennai, stars within 13 degrees of the south pole never rise. So the stars you can see depend on where you live. From the southern tip of India, the Southern Cross can be seen low in the south on spring evenings, but it can never be seen from Kashmir.",
    "examples": [
     "From Kashmir, at about 34 degrees north, Kratu, the star at the corner of the Saptarishi's bowl, never sets.",
@@ -198,7 +198,7 @@
    "examples": [
     "Proxima Centauri, the nearest star after the Sun, is about 4.2 light-years away, and its parallax is about 0.77 arc-seconds, a tiny fraction of a degree.",
     "A surveyor measuring the width of a river without crossing it uses the same method, with a baseline along the bank.",
-    "For more distant stars, astronomers use other methods, such as the pulsing of Cepheid stars, which were found to be a yardstick by Henrietta Leavitt."
+    "For more distant stars, astronomers use other methods. One method uses Cepheid stars, which pulse. Henrietta Leavitt found that their pulsing can be used to measure distance."
    ],
    "perspectives": [],
    "art": "A thumb in front of a face seen from two eyes, beside the Sun with the Earth at opposite points of its orbit seeing a star shift against faraway stars.",
@@ -207,12 +207,12 @@
   {
    "concept": "How bright a star looks and how bright it really is",
    "status": "defined",
-   "definition": "A star looks bright because it is near, because it is truly powerful, or both. Astronomers call the first apparent brightness and the second true brightness, or luminosity.",
+   "definition": "A star can look bright because it is near, because it truly gives out a lot of light, or both. How bright a star looks is called its apparent brightness. How much light it really gives out is called its true brightness, or luminosity.",
    "description": "A candle two metres away can look brighter than a bright lamp across a road. Stars are the same. Sirius is the brightest star in our night sky, mostly because it is near, only about 8.6 light-years away. It gives out about 25 times as much light as the Sun. Canopus, called Agastya in India, is the second brightest and is about 310 light-years away. It must be truly powerful, about ten thousand times brighter than the Sun. Rigel in Orion is further still and gives out tens of thousands of times as much light as the Sun. To find true brightness, you need the distance first. In 1912, Henrietta Leavitt, an American astronomer working at Harvard, found that a type of pulsing star, the Cepheid, pulses more slowly if it is truly brighter. This allowed astronomers to find distances to stars too far for parallax. The Pole Star is a Cepheid.",
    "examples": [
     "Alpha Centauri, the nearest bright star, is about 4.4 light-years away and is only a little more powerful than the Sun, yet it looks very bright because it is so close.",
     "If the Sun were as far away as Canopus, it would be far too faint to see without a telescope.",
-    "Magnitudes are such that a difference of 5 steps means a star is 100 times as bright."
+    "On the magnitude scale, a star that is 5 steps brighter is 100 times as bright."
    ],
    "perspectives": [],
    "art": "A near small lamp and a far huge lamp that look equally bright, with a ruler beside them, and a second picture where the far one is shown to be much bigger.",
@@ -236,7 +236,7 @@
    "concept": "Planets and stars: who wanders, and who twinkles",
    "status": "defined",
    "definition": "The planets are called wanderers because they move slowly against the stars. Stars twinkle because their light is bent by the moving air. Planets look like tiny discs, so they usually twinkle much less.",
-   "description": "Starlight is a single tiny point when it reaches the top of our air. On the way down it passes through patches of air of slightly different temperature, which bend it one way and another. The point seems to flicker. A planet is a disc that is still very small to the eye, but its light comes from many points on the disc. Their flickers mostly average out, so the planet shines steadily. Over days and months, planets wander along the ecliptic against the stars. Venus is seen only near sunrise or sunset. Jupiter and Saturn move slowly. Mars is slightly red. A bright, steady dot is probably a planet. Stars near the horizon twinkle more than overhead stars, because their light crosses more air.",
+   "description": "Starlight is a single tiny point when it reaches the top of our air. On the way down it passes through patches of air of slightly different temperature, which bend it one way and another. So the point seems to flicker. A planet looks like a point to the eye, but it is really a tiny disc, and its light comes from many points on the disc. The flickers of those points mostly cancel each other, so the planet shines steadily. Over days and months, planets wander along the ecliptic against the stars. Venus is seen only near sunrise or sunset. Jupiter and Saturn move slowly. Mars is slightly red. A bright, steady dot is probably a planet. Stars near the horizon twinkle more than overhead stars, because their light crosses more air.",
    "examples": [
     "Venus looks like a very bright, steady star in the west after sunset, or in the east before sunrise.",
     "A star low in the sky flashes red, green and blue as the air bends its colours differently.",
@@ -389,7 +389,7 @@
   {
    "q": "The planets are called wanderers because they seem to wander among the stars. Which is really wandering, the planet or the Earth we watch from?",
    "kind": "deep",
-   "hint": "Think about the train that seemed to move at the station. What does your own motion add to what you see?"
+   "hint": "Think of sitting in a train at a station. When the train beside yours starts, your own train seems to move. What does your own motion add to what you see?"
   },
   {
    "q": "Most children in big cities never see the Milky Way. What do you think is lost when the night sky is hidden by lights?",
@@ -433,18 +433,18 @@
   ]
  },
  "roots": {
-  "context": "We have measured how the sky turns, how high the Pole Star stands, and how the jump of a thumb tells distance. Now we ask what these tell us about seeing, and about ourselves.",
+  "context": "In this unit you measure how the sky turns, how high the Pole Star stands, and how the jump of a pencil shows its distance. This part asks what those measurements show about how we see.",
   "deep_truth": {
-   "truth": "In the thumb test, your two eyes saw the pencil in two places. The size of that gap told you how far away the pencil was. So a difference between two viewpoints is not an error to remove. It is how distance is measured, and astronomers use the Earth's yearly path as their pair of eyes.",
-   "habit": "We often think that when two people see the same thing differently, one must be wrong, and that the true view is the one from nowhere. But the difference between views can carry information that no single view has.",
-   "evidence": "In the thumb test, the jump was large when the pencil was near and small when it was far, and a hidden pencil's distance could be read from its jump. In 1838, Bessel measured a star's tiny shift between two places in the Earth's orbit, and found it was about 11 light-years away."
+   "truth": "In the Jump of Your Thumb experiment, you looked at a pencil with one eye and then the other, and it seemed to jump against the wall. The size of that jump told you how far away the pencil was. So a difference between two viewpoints is not a mistake to remove. It is how distance is measured. Astronomers look at a star from two places on the Earth's yearly path round the Sun, the way you used your two eyes.",
+   "habit": "We often think that when two people see the same thing differently, one of them must be wrong, and that there is one correct view that does not depend on where you stand. But the difference between two views can tell us something that neither view tells us alone.",
+   "evidence": "In the Jump of Your Thumb experiment, the pencil's jump was large when the pencil was near and small when it was far. You could work out a hidden pencil's distance from its jump. In 1838, Bessel measured a star's tiny shift between two places in the Earth's orbit, and found that the star was about 11 light-years away."
   },
   "three": {
    "who_am_i": "You have two eyes a few centimetres apart. That small gap lets you tell how far away a cup is when you reach for it. You see depth because your two views are different.",
-   "what_is_life": "A cat measuring a jump to a wall, a hawk diving at a mouse, and a child catching a ball all use two slightly different views of the same thing. For many animals, living well depends on comparing viewpoints.",
-   "what_is_this_world": "We can measure the distance to a star because the Earth is not still. The planet we stand on is a moving pair of eyes, and the whole sky has depth because of it."
+   "what_is_life": "A cat measuring a jump to a wall, a hawk diving at a mouse, and a child catching a ball all use two slightly different views of the same thing. Many animals depend on comparing two views to judge distance.",
+   "what_is_this_world": "We can measure the distance to a star because the Earth does not stay still. It moves round the Sun, so we see each star from two different places six months apart, the way two eyes see a pencil. That is how we know the stars are at different distances."
   },
-  "thread": "Two people can look at the same pencil and see it in different places. Two eyes do the same thing all the time. Instead of being confused, your brain uses the gap to make a picture with depth. Astronomers do the same on a vast scale. They look at a star in January and again in July from opposite ends of the Earth's orbit, and the small shift tells them how far away the star is. If the Earth stood still, or if we saw from only one place, the sky would be flat. The universe has depth for us because we see it from more than one place. A view from one point is never the whole story, and several views together can show something that none shows alone.",
+  "thread": "Your two eyes look at the same pencil and see it in slightly different places against the wall. They do this all the time, with everything you look at. Instead of being confused, your brain uses the difference to make a picture with depth. Astronomers do the same on a vast scale. They look at a star in January and again in July from opposite ends of the Earth's orbit, and the small shift tells them how far away the star is. If the Earth stood still, or if we saw from only one place, we could not tell which stars are near and which are far. A view from one point is never the whole story, and several views together can show something that none shows alone.",
   "teachings": [
    {
     "source": "Rig Veda 1.164.46",
@@ -454,12 +454,12 @@
    {
     "source": "Udana 6.4 (the story of the blind men and the elephant)",
     "teaching": "Blind men each touched a different part of an elephant. One said it was like a pot, one like a fan, one like a plough. They began to quarrel, each sure that the others were wrong.",
-    "link": "Each view was true of one part. The thumb test shows the gap between views is useful, and the whole picture is built from several views."
+    "link": "Each view was true of one part. The Jump of Your Thumb experiment shows that the difference between two views is useful, and that the whole picture is built from several views."
    },
    {
     "source": "Tirukkural 423",
     "teaching": "Whatever the thing, whoever says it, to see the truth in it is wisdom.",
-    "link": "In the thumb test, the second eye does not contradict the first. It adds what the first could not show."
+    "link": "In the Jump of Your Thumb experiment, the second eye does not contradict the first. It adds what the first could not show."
    }
   ],
   "science": [
@@ -478,7 +478,7 @@
   ],
   "other_view": {
    "who": "Many astronomers",
-   "view": "Parallax is simply geometry, and it contains no deeper lesson about viewpoints. A star has a distance whether anyone measures it or not. The difference between views is a tool we use because we are stuck in one place, and the best aim is a view from no particular place at all."
+   "view": "Parallax is simply geometry, and it contains no deeper lesson about viewpoints. A star has a distance whether anyone measures it or not. The difference between views is only a tool we use because we can stand in just one place at a time. The real aim is to know things as they are, whatever place they are seen from."
   },
   "practice": {
    "title": "One thumb, two eyes",
@@ -489,7 +489,7 @@
   "ask": [
    "When two people see the same thing differently, is one of them always wrong?",
    "If you could see the sky from a planet round another star, what would you learn that you cannot learn from here?",
-   "Is a view from nowhere possible, or is every view from somewhere?"
+   "Can anyone see a thing without standing somewhere to look at it? Or is every view a view from some place?"
   ],
   "art": "A child holding up a thumb in front of a window, seen from the left eye and the right eye, with the two views side by side and a faint star behind the glass."
  },
@@ -539,7 +539,7 @@
     },
     {
      "kind": "tokens",
-     "title": "1 paper arrow, the line from the Pole Star to the two pointer stars of the Saptarishi, to pin at the middle of the sky clock",
+     "title": "1 paper arrow to pin at the middle of the sky clock. It stands for the line from the Pole Star to the two pointer stars of the Saptarishi.",
      "items": [
       "Paper arrow about 10 centimetres long, with a hole at one end for a pin or a finger to hold it at the middle"
      ]
@@ -550,7 +550,7 @@
      "items": [
       {
        "f": "CLOCK. At 8 pm the pointer stars point to 12 o'clock. Where do they point at 10 pm?",
-       "b": "11 o'clock. The sky turns 15 degrees an hour, so 2 hours is 30 degrees, which is one number on the clock, anticlockwise."
+       "b": "11 o'clock. The sky turns 15 degrees an hour, so 2 hours is 30 degrees. That is one number back on the clock, because the stars turn anticlockwise."
       },
       {
        "f": "CLOCK. At 8 pm the pointer stars point to 12 o'clock. Where do they point at 2 am?",
@@ -633,7 +633,7 @@
        "b": "Stars are so far away that the jump from a baseline of a few centimetres is far too tiny. Astronomers use the Earth's orbit, which is 300 million kilometres wide."
       },
       {
-       "f": "A red star and a blue-white star. Which has the hotter surface?",
+       "f": "Which has the hotter surface, a red star or a blue-white star?",
        "b": "The blue-white star. The bluer a star, the hotter it is."
       },
       {
@@ -641,7 +641,7 @@
        "b": "Sirius is much nearer, only about 8.6 light-years away. Canopus is about 310 light-years away."
       },
       {
-       "f": "Two bright dots in the evening sky. One flickers and flashes colours. The other shines steadily. Which is more likely to be a planet?",
+       "f": "Two bright dots are in the evening sky. One flickers and flashes colours. The other shines steadily. Which is more likely to be a planet?",
        "b": "The steady one. Stars twinkle because the air bends their pinpoint of light. A planet is a tiny disc and twinkles much less."
       }
      ]
@@ -650,7 +650,7 @@
    "rules": [
     "Put the sky clock in the middle of the table and pin the paper arrow at its centre. Shuffle the 24 cards into a pile, question side up.",
     "One player is the reader. The reader takes the top card and reads the question aloud. The reader does not show the back.",
-    "For a CLOCK card, the reader first turns the arrow to the starting number. Every other player then thinks, and turns a finger on the clock to show where the arrow will point.",
+    "For a CLOCK card, the reader first turns the arrow to the starting number. Each of the other players then points a finger at the number on the clock where they think the arrow will end up.",
     "For all other cards, the players say or write their answers. On the count of three, everyone shows their answer at once.",
     "The reader turns the card over and reads the answer. A right answer scores 2 points. A player who also gives the reason in their own words scores 1 more.",
     "The next player to the left becomes the reader. Play 12 cards for a short game, or all 24 for a long one. The player with the most points wins. A tie is a shared win.",
@@ -661,7 +661,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the sky clock, the paper arrow and the 24 cards. Fix the arrow in the middle with a paper fastener. A grown-up can push a drawing pin through it into clay instead. No pin? Hold the arrow at the middle with a fingertip. No printer? Draw the clock on paper, and have the reader read the questions from the list. Shuffle the cards.",
+     "do": "Cut out the sky clock, the paper arrow and the 24 cards. Fix the arrow in the middle with a paper fastener. A grown-up can push a drawing pin through it into clay instead. If you have no pin, hold the arrow at the middle with a fingertip. If you have no printer, draw the clock on paper, and have the reader read the questions from the list. Shuffle the cards.",
      "say": "This clock shows the sky as you look north. The Pole Star is in the middle. The stars turn round it, anticlockwise, 15 degrees every hour.",
      "kid": "Cut out the clock, the arrow and the cards. Pin the arrow in the middle.",
      "context": "This is the first step of Spin the Sky. You cut out the clock and the cards."
@@ -777,7 +777,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Mark a wall strip. Measure the pencil's jump at 25, 50 and 100 centimetres. Use your results to find the distance of a pencil hidden at a secret distance."
+     "what": "Guess what will happen. Mark a wall strip. Measure the pencil's jump at 25, 50 and 100 centimetres. Then your grown-up holds the pencil at a distance they keep secret, and you use your results to work out how far away it is."
     }
    ],
    "record": "Fill in the results table. Then draw a line graph with the distance across the bottom and the jump up the side. Write down how close your guess for the hidden pencil came.",
@@ -840,7 +840,7 @@
      "mins": 4,
      "do": "Show your child the pencil and the wall. Ask them to close one eye, then the other, with the pencil at arm's length. Then ask for the guess and the reason.",
      "say": "Look at the pencil against the wall. Close one eye, then the other. It seems to jump. If I bring the pencil twice as close, will it jump the same, twice as much, or four times as much? Why?",
-     "kid": "Swap eyes. Does the pencil jump? Guess what happens when it is closer. Why?",
+     "kid": "Close one eye, then the other. Does the pencil jump? Guess what happens when it is closer. Why?",
      "ask": [
       {
        "q": "Why do you think it will jump more, or less, when it is closer?",
@@ -857,11 +857,11 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Stick the masking tape along the wall at your child's eye height. Make a mark every 5 centimetres and write a number at every 10 centimetres, with 0 at the left end. Stick a second piece of tape on the floor, 3 metres from the wall. Make three string marks at 25, 50 and 100 centimetres from one end.",
+     "do": "Stick the masking tape along the wall at your child's eye height. Make a mark every 5 centimetres and write a number at every 10 centimetres, with 0 at the left end. Stick a second piece of tape on the floor, 3 metres from the wall. Tie three knots in the string, at 25, 50 and 100 centimetres from one end.",
      "say": "This strip is a ruler on the wall. The mark on the floor is where you will stand every time. The string has three knots for the three distances.",
      "kid": "Mark the wall like a ruler. Mark a spot 3 metres from it.",
      "adult": true,
-     "parent": "The strip should have the pencil's tip in the middle of it when you stand on the spot. A strip 1.5 metres long is enough for the largest jump. The string measures the distance from nose to pencil. One end touches the nose.",
+     "parent": "Place the strip so that, when your child stands on the spot, the pencil's tip is in front of the middle of the strip. A strip 1.5 metres long is enough for the largest jump. The string measures the distance from nose to pencil. One end touches the nose.",
      "context": "In this step you make a ruler on the wall and a spot to stand on."
     },
     {
@@ -869,15 +869,15 @@
      "mins": 10,
      "do": "Stand on the spot. Hold the pencil upright with its tip at 25 centimetres from your nose, using the string. Close your left eye and read the number behind the tip. Close your right eye and read the number again. Write both numbers and the jump. Do it twice. Then do 50 centimetres, then 100 centimetres with your grown-up holding the pencil.",
      "say": "Hold the pencil still. Look with your right eye only. What number is behind the tip? Now your left eye only. What is it now? What is the difference?",
-     "kid": "Right eye only. Read the number. Left eye only. Read the number. Subtract.",
-     "parent": "Expect the jump to be about 55 to 65 centimetres at 25 centimetres, about 25 to 30 at 50, and about 10 to 12 at 100. Your numbers will differ because eyes are different distances apart. If the numbers wander, rest your elbow on a table or ask your helper to hold the pencil. A jump of zero means you moved your head. With 2 to 4 children, give out jobs: one holds the pencil at the knot of the string, one stands on the spot and reads, one writes in the table. Swap after each distance so everyone reads once, then compare tables. Eyes are set different distances apart, so each child's numbers will differ, but the pattern (nearer means bigger jump) will be the same. These numbers are typical for a child; a grown-up's eyes are further apart, so the jumps will be a little bigger. Keep your head still: rest your chin on a chair back if it helps."
+     "kid": "Look with your right eye only and read the number. Then look with your left eye only and read the number. Take the smaller number from the bigger one.",
+     "parent": "Expect the jump to be about 55 to 65 centimetres at 25 centimetres, about 25 to 30 at 50, and about 10 to 12 at 100. These numbers are typical for a child. A grown-up's eyes are further apart, so the jumps will be a little bigger. If the numbers wander, rest your elbow on a table or ask your helper to hold the pencil. A jump of zero means you moved your head. Keep your head still: rest your chin on a chair back if it helps. With 2 to 4 children, give out jobs: one holds the pencil at the knot of the string, one stands on the spot and reads, one writes in the table. Swap after each distance so everyone reads once, then compare tables. Eyes are set different distances apart, so each child's numbers will differ, but the pattern (nearer means bigger jump) will be the same."
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "Look at the three jumps together. Ask what happens to the jump each time the pencil is brought twice as close.",
      "say": "From 100 centimetres to 50, the distance was halved. What happened to the jump? And from 50 to 25?",
-     "kid": "Half the distance. Look at the jump. What happens?",
+     "kid": "When the distance is halved, what happens to the jump?",
      "check": {
       "t": "mcq",
       "q": "When the pencil was brought to half the distance from your nose, what happened to the jump?",
@@ -897,7 +897,7 @@
      "say": "I have put the pencil at a secret distance. Measure its jump. Look at your table. Is the jump bigger or smaller than at 50 centimetres? So is the pencil nearer or farther? Make your best guess.",
      "kid": "Measure the jump of the hidden pencil. Use your table to guess how far it is.",
      "adult": true,
-     "parent": "If the jump is 40 centimetres, it is between 28 (at 50) and 60 (at 25), so the pencil is between 25 and 50 centimetres away, a bit nearer to 50, so about 38. A guess within 10 centimetres is very good. Swap roles if you like. With several children, one child hides the pencil and measures the string while the others each measure the jump, guess, and then compare guesses."
+     "parent": "Here is an example. Say the jump is 40 centimetres. That is between the jump of 28 at 50 centimetres and the jump of 60 at 25 centimetres. So the pencil is between 25 and 50 centimetres away, a bit nearer to 50: about 38 centimetres. A guess within 10 centimetres is very good. Swap roles if you like. With several children, one child hides the pencil and measures the string while the others each measure the jump, guess, and then compare guesses."
     },
     {
      "id": "s6",
@@ -1051,8 +1051,8 @@
      "id": "s5",
      "mins": 5,
      "do": "After another 30 minutes, measure a third time. Work out the change since the first measurement.",
-     "say": "Last measurement. Same spot, same fist. Now take away your first number from this one. How many fists did the star move in one hour?",
-     "kid": "Count the fists one more time. Take away the first number. How far did the star go?",
+     "say": "Last measurement. Same spot, same fist. Now find the difference between this number and your first one. How many fists did the star move in one hour?",
+     "kid": "Count the fists one more time. Find the difference from your first number. How far did the star go?",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -1118,7 +1118,7 @@
      "buy": "b-red"
     }
    ],
-   "safety": "A grown-up stays with the child outside at night. On a terrace, keep away from the edge. Do not look at the Sun with the tool in daytime. Never point the straw at the Sun, even by day; test it on buildings only.",
+   "safety": "A grown-up stays with the child outside at night. On a terrace, keep away from the edge. Never point the straw at the Sun or look at the Sun through it. By day, test the tool on buildings only.",
    "schedule": [
     {
      "day": 1,
@@ -1215,9 +1215,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "In daylight, test the tool. Look along the straw at the top of a building across the road. Hold the tool still and read where the thread crosses the scale. Take away 90 and find the angle. Do it twice.",
-     "say": "Look along the straw at the top of the building. Hold still. Read the number the thread crosses. Take it away from 90. That is how many degrees above flat the roof is.",
-     "kid": "Look along the straw at a rooftop. Read the number. Take it from 90.",
+     "do": "In daylight, test the tool. Look along the straw at the top of a building across the road. Hold the tool still and read where the thread crosses the scale. Find the difference between that number and 90. That is the angle. Do it twice.",
+     "say": "Look along the straw at the top of the building. Hold still. Read the number the thread crosses. Find the difference between that number and 90. That is how many degrees above flat the roof is.",
+     "kid": "Look along the straw at a rooftop. Read the number. Find the difference between it and 90.",
      "wait": "Do this by day. Do the night part when it is dark.",
      "check": {
       "t": "mcq",
@@ -1230,7 +1230,7 @@
       "a": 0,
       "why": "The thread hangs straight down, and on a protractor the straight-down line is at the 90 mark. When the straw tilts up, the thread moves away from 90 by the same angle. If you picked 0, you may be looking at the wrong end of the scale."
      },
-     "parent": "Check the tool against something you know: stand as far from a wall as a marked spot on it is above your eye, and the thread should read about 45 degrees away from 90 (a 45-degree set square from the geometry box is a second check). Being 3 or 4 degrees out is normal."
+     "parent": "Check the tool against an angle you know. Mark a spot on a wall, higher than your eye. Measure how far the spot is above your eye, and stand that same distance from the wall. Look at the spot along the straw. The thread should be about 45 degrees away from the 90 mark. A 45-degree set square from the geometry box is a second check. Being 3 or 4 degrees out is normal."
     },
     {
      "id": "s4",
@@ -1244,8 +1244,8 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Look along the straw at the Pole Star. Hold the tool still and read where the thread crosses the scale. Take 90 away to find the angle. Do this five times. Use the middle reading.",
-     "say": "Hold the straw on the Pole Star. Keep it steady. Read the thread. Take away 90. Do it five times. We will use the middle number.",
+     "do": "Look along the straw at the Pole Star. Hold the tool still and read where the thread crosses the scale. Find the difference between that number and 90. That is the angle. Do this five times. Use the middle reading.",
+     "say": "Hold the straw on the Pole Star. Keep it steady. Read the thread. Find the difference between that number and 90. Do it five times. We will use the middle number.",
      "kid": "Look along the straw at the Pole Star. Read the thread. Do it five times.",
      "adult": true,
      "parent": "Your readings may be off by 3 to 4 degrees, because a hand-held tool and a thread are not exact. Using the middle of five readings helps. The Pole Star is a little dim, so ask your grown-up to help line up the straw. With 2 to 4 children, one sights along the straw and one reads the thread, and a third writes; swap after each reading so everyone does every job, then compare each child's middle reading."
@@ -1256,7 +1256,7 @@
      "do": "Compare your middle reading with your city's latitude. Ask your child to say or write what I think, what I saw, and why.",
      "say": "Our middle reading is close to our latitude. What do you think now? What did you see? And why do you think the Pole Star is that high here?",
      "kid": "Is your answer close to your city's latitude? Say what you think, what you saw and why.",
-     "parent": "A good answer: what I think, the Pole Star's height is the same as how far north I am. What I saw, I measured 14 degrees and Chennai's latitude is 13. Why: the Pole Star is so far away that its light comes in parallel to the Earth's axis everywhere, so the angle between the star and the ground depends only on how far north you are."
+     "parent": "A good answer sounds like this. What I think: the Pole Star's height is the same as how far north I am. What I saw: I measured 14 degrees, and Chennai's latitude is 13. Why: the Pole Star is so far away that its light comes in parallel to the Earth's axis everywhere, so the angle between the star and the ground depends only on how far north you are."
     }
    ]
   }
@@ -1296,7 +1296,7 @@
      "what": "Guess. Make the twelve cards and put them on the walls round the lamp. Walk round the lamp one month at a time and read the sky behind you at midnight."
     }
    ],
-   "safety": "A grown-up switches the lamp on and off. A bare bulb can get hot, so use a cool LED bulb if you have one and nobody touches it. Keep the cord out of the ring you walk on so nobody trips.",
+   "safety": "A grown-up switches the lamp on and off. A bare bulb can get hot, so use a cool LED bulb if you have one, and make sure nobody touches the bulb. Keep the cord out of the ring you walk on so nobody trips.",
    "record": "A table with the twelve months, the group of stars highest at midnight in each, and the group hidden by the Sun. Draw the lamp, the ring and the cards from above.",
    "context": "In this activity you turn a room into the solar system, with a lamp as the Sun and twelve cards as the star groups round it. You walk round the lamp as the Earth does, and find out why the stars change with the seasons.",
    "setup": [
@@ -1336,8 +1336,8 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Stand the lamp in the middle of the room and switch it on. Write the twelve names on twelve cards. Tape them on the walls in a circle, going anticlockwise as seen from above. The order is Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Sagittarius, Capricornus, Aquarius and Pisces. Use the string as a compass. Hold one end at the foot of the lamp. Stick 12 pieces of tape on the floor where the other end reaches. This makes a ring 1 metre from the lamp. Space the cards as evenly as the room allows, like the hours of a clock round the lamp.",
-     "say": "These are the twelve star groups along the Sun's path. Indians call them the rashis, such as Mesha, Vrishabha, Mithuna and Karka. The lamp is the Sun. You are the Earth, walking on the ring.",
+     "do": "Stand the lamp in the middle of the room and switch it on. Write the twelve names on twelve cards. Tape them on the walls in a circle, going anticlockwise as seen from above. The order is Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Sagittarius, Capricornus, Aquarius and Pisces. Space the cards as evenly as the room allows, like the hours of a clock round the lamp. Then use the string to mark a ring on the floor. Hold one end at the foot of the lamp. Stick 12 pieces of tape on the floor where the other end reaches. This makes a ring 1 metre from the lamp.",
+     "say": "These are the twelve star groups along the Sun's path. In India they are called the rashis, such as Mesha, Vrishabha, Mithuna and Karka. The lamp is the Sun. You are the Earth, walking on the ring.",
      "kid": "Put the lamp in the middle. Tape twelve cards round the walls, in order.",
      "adult": true,
      "parent": "The twelve are Aries (Mesha), Taurus (Vrishabha), Gemini (Mithuna), Cancer (Karka), Leo (Simha), Virgo (Kanya), Libra (Tula), Scorpius (Vrischika), Sagittarius (Dhanu), Capricornus (Makara), Aquarius (Kumbha), Pisces (Meena). The Sun also passes through a thirteenth group, Ophiuchus, for about two weeks in December. We leave it out to keep the circle simple. A bare lamp bulb gets hot, so keep fingers off it.",
@@ -1347,7 +1347,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Stand on the ring next to the card for Gemini, with your back to the lamp. You are looking at the midnight sky of January. Turn round to face the lamp. The card behind the lamp is Sagittarius, hidden by the Sun's glare. Then move along the ring, one card for each month, anticlockwise: Cancer for February, Leo for March, and so on. Each time, say which card you face at midnight and which card is hidden behind the lamp.",
-     "say": "Back to the lamp, you look at the night sky. Face the lamp, and you look at the Sun, with its star group behind it. Move one card each month. Which group is hidden in June?",
+     "say": "When your back is to the lamp, you are looking at the night sky. When you face the lamp, you are looking at the Sun, and the star group behind it is hidden. Move one card each month. Which group is hidden in June?",
      "kid": "Stand with your back to the lamp. The card ahead is the midnight sky. Move one card each month.",
      "parent": "The group highest at midnight, by month: November Aries, December Taurus, January Gemini, February Cancer, March Leo, April Virgo, May Libra, June Scorpius, July Sagittarius, August Capricornus, September Aquarius, October Pisces. The group hidden by the Sun is the one on the opposite wall. This is rough, because the star groups are large and one is highest at midnight over about a month. It is a good guide. With 2 to 4 children, one child is the Earth and walks the ring, one says which card is ahead at midnight, one says which card is hidden behind the lamp, and one checks the table. Swap each month. Alone, do the walking and look the answer up in the table.",
      "check": {
@@ -1366,8 +1366,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Go back to your birth month, or the month it is now. Find the group of stars on the card ahead of you at midnight. Ask what you would look for outside, and what you would not see.",
-     "say": "It is the month of your birthday. Which group is highest at midnight? Which group do you never see in the night, because it is near the Sun?",
-     "kid": "Stand where it is your birth month. What is ahead at midnight? What is hidden?",
+     "say": "Stand at the month of your birthday. Which group is highest at midnight? Which group can you not see at night that month, because it is near the Sun?",
+     "kid": "Stand at the place for your birth month. What is ahead at midnight? What is hidden?",
      "ask": [
       {
        "q": "Why do we never see the group of stars that is near the Sun?",
@@ -1481,7 +1481,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Fix the sticker on the wall at the same height as the ball. Put the ball in the bowl. Mark its north pole and south pole with the pen. Turn the ball until the north pole is the point nearest to the sticker. Then draw the equator, halfway between the poles, using the string.",
+     "do": "Fix the sticker on the wall at the same height as the ball. The sticker is the far star. Put the ball in the bowl. Mark its north pole and south pole with the pen. Turn the ball until the north pole is the point nearest to the sticker. Then draw the equator, halfway between the poles, using the string.",
      "say": "The star is very far away, so it is in the same direction from every part of the ball. We will point the ball's axis at it. The north pole must face the star.",
      "kid": "Turn the ball so the north pole faces the star. Draw the equator.",
      "parent": "If you have a globe with a stand, turn it so the north pole points at the star on the wall. For a football, find the stitching at the top and use that as the north pole. The ball can be held still with clay. The sticker is only 3 metres away rather than hundreds of light-years, but that is far enough for this model.",
@@ -1490,7 +1490,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Hold the string tight along the ball from the equator to the north pole, on the side facing you. Mark the length. This is 90 degrees of latitude. Work out where 8, 13 and 29 degrees go: the length times the latitude, divided by 90. Mark Kanyakumari at 8, Chennai at 13, Delhi at 29, and the pole at 90.",
+     "do": "Hold the string tight along the ball from the equator to the north pole, on the side facing you. Mark the length. This is 90 degrees of latitude. To find where a place goes, multiply the length by the latitude of the place and divide by 90. Mark Kanyakumari at 8 degrees, Chennai at 13, Delhi at 29, and the pole at 90.",
      "say": "The distance from the equator to the pole is 90 degrees of latitude. Say the string is 17 centimetres long. Chennai is 13 out of 90 of that. What is 17 times 13, divided by 90? About 2.5 centimetres.",
      "kid": "Measure the string from the equator to the pole. That is 90 degrees. Find the marks.",
      "parent": "For a football about 22 centimetres across, the quarter circle from the equator to the pole is about 17 centimetres. Then 8 degrees is about 1.5 centimetres, 13 degrees about 2.5, 29 degrees about 5.5. A hand calculator helps. Mark the equator itself as zero.",
@@ -1509,11 +1509,11 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "At each mark, fix a straw with clay so that it points straight at the star on the wall. Next to it, fix a small square card lying flat against the ball, as the local horizon. Look at the ball from the side, so you see its edge. Measure the angle between the straw and the card with the protractor.",
+     "do": "At each mark, fix a straw with clay so that it points straight at the star on the wall. Next to it, fix a small square card lying flat against the ball. The card stands for the flat ground at that place, which is the horizon there. Look at the ball from the side, so you see its edge. Measure the angle between the straw and the card with the protractor.",
      "say": "At each place the card is the flat ground you would stand on, and the straw is the line to the star. How big is the angle between them? Write it down for each place.",
      "kid": "Stick a straw at each mark, pointing at the star. Lay a card flat. Measure the angle.",
      "adult": true,
-     "parent": "Expect the equator to be about 0 degrees, Kanyakumari about 8, Chennai about 13, Delhi about 29 and the pole 90. It is hard to measure well, so your numbers may be off by 5 degrees, but the pattern should be clear. The angle grows with latitude. Because the star is so far away, every straw is parallel to the axis. To keep the straws pointing the same way, sight along each straw towards the sticker, or lay a ruler along the straw at the pole and set the others parallel to it. With 2 to 4 children, each child makes one or two places and measures the angle, and a third checks that the straw points at the sticker; then put the angles in one table and compare."
+     "parent": "Expect the equator to be about 0 degrees, Kanyakumari about 8, Chennai about 13, Delhi about 29 and the pole 90. It is hard to measure well, so your numbers may be off by 5 degrees, but the pattern should be clear. The angle grows with latitude. Because the star is so far away, every straw is parallel to the axis. To keep the straws pointing the same way, sight along each straw towards the sticker, or lay a ruler along the straw at the pole and set the others parallel to it. With 2 to 4 children, each child sets up one or two places and measures the angle, and another child checks that the straw points at the sticker. Then put the angles in one table and compare."
     },
     {
      "id": "s5",
@@ -1624,7 +1624,7 @@
      "id": "s3",
      "mins": 5,
      "do": "A grown-up lights a gas stove ring and a diya. Look at both flames from a safe distance of about 1 metre. Notice the colours. Draw them.",
-     "say": "Look at the gas flame and the diya flame. Which has more blue in it? A hotter flame has more blue. Stars follow a similar pattern, but with the colour of their surface.",
+     "say": "Look at the gas flame and the diya flame. Which has more blue in it? A hotter flame has more blue. Stars are similar: the bluer a star's surface looks, the hotter it is.",
      "kid": "Look at the gas flame and the diya flame. Which is bluer? Colour them in.",
      "adult": true,
      "parent": "Stay with your child by the stove, and keep hair and loose clothes away. Blue is a rough sign of heat in fire. The colour of a flame also depends on what is burning, so this is only a hint about stars. Stars are balls of hot gas glowing, and for them, colour is a good thermometer. The yellow in a diya flame is mostly glowing bits of soot, and a gas flame burns cleaner and hotter, so it is blue."
@@ -1743,7 +1743,7 @@
      "say": "Think of the line from the Pole Star through the two pointer stars as the minute hand of a clock. Which number does it point at? Draw that line. We will draw it again every week at the same time.",
      "kid": "Draw a clock. Find the Pole Star. Draw the line to the pointer stars.",
      "adult": true,
-     "parent": "Do the same each week at exactly the same clock time, from the same spot. If you are not sure of the minute-mark, hold your page up to the sky and compare. If it is cloudy, use Stellarium Web, set to your city, and move the date and time to show where the line points. The line will be higher or lower depending on the time, so the same hour each week matters. In a week the line moves back by about 1 minute-mark. The Saptarishi sits low in the north on autumn and early winter evenings and may be hidden, especially in the south of India. If so, use Cassiopeia, the W-shaped group on the other side of the Pole Star, and draw the line from the Pole Star to the middle point of the W; use the same group all month. To read the angle well, hold the thread with the weight at arm's length so it hangs straight down through the Pole Star, then use the protractor on your page to copy the angle of the pointer line from it. If a night is cloudy, draw on the next clear night and write the date: the sky shifts about 1 degree a day, so you can still compare. With 2 to 4 children, each draws their own clock and then compare; one holds the thread, one draws.",
+     "parent": "Do the same each week at exactly the same clock time, from the same spot. The line points a different way at different times of night, so the same hour each week matters. If you are not sure of the minute-mark, hold your page up to the sky and compare. In a week the line moves back by about 1 minute-mark. To read the angle well, hold the thread with the weight at arm's length so it hangs straight down through the Pole Star, then use the protractor on your page to copy the angle of the pointer line from it. If a night is cloudy, draw on the next clear night and write the date: the sky shifts about 1 degree a day, so you can still compare. You can also use Stellarium Web, set to your city, and move the date and time to show where the line points. The Saptarishi sits low in the north on autumn and early winter evenings and may be hidden, especially in the south of India. If so, use Cassiopeia, the W-shaped group on the other side of the Pole Star, and draw the line from the Pole Star to the middle point of the W. Use the same group all month. With 2 to 4 children, each child draws their own clock, and then they compare. They can take turns to hold the thread while another draws.",
      "context": "This is the first step of Dhruva's Clock. You make the diary page and draw the first sky clock."
     },
     {
@@ -1764,7 +1764,7 @@
        ]
       }
      ],
-     "parent": "Expect about 1 minute-mark of movement in a week, the stars shifting against the clock by about 7 degrees (a minute-mark is 6 degrees). It is easy to be a mark out by eye, so the month total is more reliable than any one week. The pointer stars move anticlockwise round the Pole Star. It is a small shift, so measure carefully."
+     "parent": "Expect the line to move about 1 minute-mark in a week. The stars shift by about 7 degrees in a week, and a minute-mark is 6 degrees. It is easy to be a mark out by eye, so the month total is more reliable than any one week. The pointer stars move anticlockwise round the Pole Star. It is a small shift, so measure carefully."
     },
     {
      "id": "s3",
@@ -1780,7 +1780,7 @@
      "id": "s4",
      "mins": 14,
      "do": "On day 29, draw the last sky clock. Lay all five side by side. Measure how far the line moved from day 1 to day 29, in minute-marks. Each minute-mark is 6 degrees. Work out the degrees. Then ask how many hours of sky-turning that is.",
-     "say": "Count the minute-marks between the first line and the last. Multiply by 6 to get degrees. The sky turns 15 degrees an hour. How many hours of turning is that? So at the same clock time, the sky of next month looks like the sky of how many hours later?",
+     "say": "Count the minute-marks between the first line and the last. Multiply by 6 to get degrees. The sky turns 15 degrees an hour. How many hours of turning is that? So the sky at 8:30 pm a month from now looks like tonight's sky how many hours after 8:30 pm?",
      "kid": "Count how far the line moved. Each mark is 6 degrees. Work out the degrees.",
      "adult": true,
      "check": {
@@ -1792,9 +1792,9 @@
        "About 30 hours"
       ],
       "a": 0,
-      "why": "5 marks of 6 degrees is 30 degrees. The sky turns 15 degrees an hour, so 30 degrees is 2 hours. So at the same clock time, the sky in a month looks like the sky 2 hours later, because the Earth has moved a month round the Sun. If you picked 5 hours, you may have counted the marks as hours."
+      "why": "5 marks of 6 degrees is 30 degrees. The sky turns 15 degrees an hour, so 30 degrees is 2 hours. So a month from now, the sky at the same clock time looks the way tonight's sky looks 2 hours later. This happens because the Earth has moved on round the Sun for a month. If you picked 5 hours, you may have counted the marks as hours."
      },
-     "parent": "From day 1 to day 29 is 28 days, so the line should have moved about 28 degrees, which is about 4 to 5 minute-marks. Being a mark out is fine. This is the sky turning 4 minutes earlier each day, which adds up to about 2 hours of turning in a month."
+     "parent": "From day 1 to day 29 is 28 days, so the line should have moved about 28 degrees, which is about 4 to 5 minute-marks. Being a mark out is fine. The line moves because the stars rise about 4 minutes earlier each day, which adds up to about 2 hours of turning in a month."
     }
    ]
   }
@@ -1824,7 +1824,7 @@
     "Take your measurement three times and use the middle one, because one try can be a fluke."
    ],
    "creative": [
-    "Use two photos taken from the two ends, and see how far the thing shifts against the background, as the thumb did.",
+    "Use two photos taken from the two ends, and see how far the thing shifts against the background, as the pencil did in the Jump of Your Thumb experiment.",
     "Use a longer baseline for a farther thing, as astronomers use the whole width of the Earth's orbit for a star.",
     "Pick a thing whose real distance a grown-up can find on a map, and test how close you can get."
    ],
@@ -1867,16 +1867,16 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Stand at A with the board flat. Fix a sheet of paper on it. Stick a pin at a point near the bottom, called a. Put the ruler against the pin. Turn the ruler to point at your friend at B, and draw a line. Turn it to point at the thing, and draw a second line.",
+     "do": "Stand at A with the board flat. Fix a sheet of paper on it. Stick the pin into the paper near the bottom, and call that point a. Put the ruler against the pin. Turn the ruler to point at your friend at B, and draw a line. Turn it to point at the thing, and draw a second line.",
      "say": "Hold the ruler against the pin. Aim it at your friend and draw the line. Now aim at the tree and draw the second line. The angle between the lines is the angle the triangle has at A.",
      "kid": "Put the pin in the paper. Aim the ruler at your friend. Draw a line. Aim at the tree.",
      "adult": true,
-     "parent": "Mark the baseline length on the first line, at the scale chosen. At 1 centimetre to 1 metre, a 10 metre baseline is 10 centimetres, and the point is called b. Keep the board flat and level."
+     "parent": "Mark the length of the baseline on the first line, using the scale you chose. At 1 centimetre for 1 metre, a 10 metre baseline is 10 centimetres long on the paper. Call the point at the end of it b. Keep the board flat and level."
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "Move to B. Rest the board on a stool, chair or low wall with the pin at b. Turn the board until the ruler along the line b to a points at A. Keep it there. Now aim the ruler from b at the thing, and draw the second line. Where the two lines cross is the thing.",
+     "do": "Move to B. Rest the board on a stool, chair or low wall with the pin at b. Turn the board until the ruler along the line b to a points at A. Keep it there. Now aim the ruler from b at the thing, and draw another line. The point where this line crosses the line you drew to the thing from a stands for the thing.",
      "say": "Now we do the same from the other end. Make sure the line b to a points back at the first spot. Then aim at the tree and draw. See where the lines cross. Measure from a to the crossing with your ruler.",
      "kid": "Move to the other end. Point the line back to the first end. Aim at the tree.",
      "adult": true,
@@ -1931,7 +1931,7 @@
       "The stars are on a dome that the Moon turns"
      ],
      "a": 0,
-     "why": "The Earth spins once in about a day, and we spin with it. So the sky seems to turn the other way, like scenery seen from a train. Picking 'the stars circle the Earth' is the picture people held for thousands of years. The photos of star trails and the pendulum show that the Earth is what turns.",
+     "why": "The Earth spins once in about a day, and we spin with it. So the sky seems to turn the other way, like scenery seen from a train. 'The stars all circle the Earth' is what people believed for thousands of years. Long photos of star trails and the Foucault pendulum show that the Earth is what turns.",
      "outcome": 0
     },
     {
@@ -2111,21 +2111,21 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Pune, Kavitha and Rohan, talk about whether the Earth moves round the Sun.",
+     "p": "Long ago, astronomers argued about whether the Earth moves round the Sun. Here are the two sides.",
      "views": [
       {
-       "who": "Kavitha, aged 10",
+       "who": "Tycho Brahe, a Danish astronomer of the 1500s",
        "says": "If the Earth moved round the Sun, the nearby stars would seem to shift against the far ones during the year. Nobody sees a shift, so the Earth must be still."
       },
       {
-       "who": "Rohan, aged 10",
+       "who": "The followers of Copernicus",
        "says": "The stars are so far away that the shift is far too small to see with our eyes. That is why we see no shift, even though the Earth moves."
       }
      ],
-     "ask": "Which friend do you agree with? Give a reason. Then say what the other friend has right.",
+     "ask": "Which side do you agree with? Give a reason. Then say what the other side has right.",
      "lines": 5,
-     "a": "A strong answer picks Rohan and gives the evidence: in 1838 Bessel measured the tiny shift of a star with a very precise instrument. It also gives Kavitha her due: her argument is sound, because if stars were near, there would be a shift. She did not know how far away they were.",
-     "why": "Kavitha's argument is the one that Tycho Brahe made. It is a good argument with a missing fact. Better instruments later found the fact.",
+     "a": "A strong answer picks the followers of Copernicus and gives the evidence: in 1838 Bessel measured the tiny shift of a star with a very precise instrument. It also gives Tycho Brahe his due: his argument is sound, because if the stars were near, there would be a shift. He did not know how far away they were.",
+     "why": "Tycho Brahe's argument is a good argument with a missing fact. Better instruments later found the fact.",
      "outcome": 4
     },
     {
@@ -2225,7 +2225,7 @@
       "Neither can be a planet"
      ],
      "a": 0,
-     "why": "A planet is a tiny disc, so the wobble of the air averages out and its light looks steady. A star is a point, so the air flickers all of it at once. If you picked the flickering one, think of the foil with the tiny hole.",
+     "why": "A planet is a tiny disc, so the wobble of the air averages out and its light looks steady. A star is a point, so the moving air bends all of its light at once and it flickers. If you picked the flickering one, think of the Twinkle and Colour activity, where the light from the tiny hole flickered more than the light from the wider hole.",
      "outcome": 6
     },
     {
@@ -2293,7 +2293,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the thumb test, one thing jumped 30 centimetres against the wall and another jumped 15 centimetres. What can you say?",
+     "p": "In the Jump of Your Thumb experiment, one thing jumped 30 centimetres against the wall and another jumped 15 centimetres. What can you say?",
      "opts": [
       "The second thing is about twice as far away as the first",
       "The second thing is nearer than the first",
@@ -2353,21 +2353,21 @@
      "p": "Three people in a town talk about whether to turn off some street lights at night.",
      "views": [
       {
-       "who": "Revathi, an astronomer",
+       "who": "An astronomer",
        "says": "Bright lights hide the stars. A child who never sees the Milky Way never wonders about it. We should switch off lights we do not need."
       },
       {
-       "who": "Farhan, a shopkeeper",
+       "who": "A shopkeeper",
        "says": "Lights make the street safe for people walking home. I would not want to lose them."
       },
       {
-       "who": "Shalini, an ecologist",
+       "who": "An ecologist",
        "says": "Many insects and birds are confused by bright lights at night. Switching them off helps wildlife too."
       }
      ],
      "ask": "Which person do you agree with most? Use what you know about stars and light. Then say what one of the others gets right.",
      "lines": 6,
-     "a": "A strong answer picks one view and gives a reason from the unit, for example that light pollution hides faint stars, so Revathi's point is true. It also gives credit to another view. Farhan is right that lights help safety, and a good plan might use shielded lights that point down.",
+     "a": "A strong answer picks one view and gives a reason from the unit, for example that light pollution hides faint stars, so the astronomer's point is true. It also gives credit to another view. The shopkeeper is right that lights help safety, and a good plan might use shielded lights that point down.",
      "why": "All three have good points, and the best solution tries to meet more than one need. Shields that stop light from going up help stargazers and wildlife, and still light the street.",
      "outcome": 6
     },
@@ -2414,7 +2414,7 @@
     },
     {
      "t": "write",
-     "p": "Four thousand seven hundred years ago, a star called Thuban was the pole star. Today it is Polaris. Explain why the pole star changes.",
+     "p": "About 4,700 years ago, a star called Thuban was the pole star. Today it is Polaris. Explain why the pole star changes.",
      "lines": 4,
      "a": "The Earth's axis slowly wobbles, like a spinning top, and traces a circle in the sky once in about 26,000 years. So the axis points at different stars over time. Thuban was near the pole then, Polaris is now, and in about 12,000 years it will be Vega.",
      "why": "A strong answer names the wobble and the very long time it takes. The change is so slow that nobody sees it in a lifetime.",
@@ -2492,7 +2492,7 @@
      "p": "At the equator, no star is circumpolar. Explain why.",
      "lines": 3,
      "a": "At the equator, the Pole Star sits on the horizon. A star can only be circumpolar if its circle round the Pole Star stays above the horizon, and with the Pole Star at 0 degrees there is no room for a circle above it. So every star rises and sets.",
-     "why": "A strong answer uses the rule that stars within your latitude's number of degrees of the pole are circumpolar. At 0 degrees, that is none.",
+     "why": "A strong answer uses the rule that the stars which never set are those within as many degrees of the pole as your latitude. At a latitude of 0 degrees, that is none.",
      "outcome": 2
     },
     {
@@ -2517,7 +2517,7 @@
     },
     {
      "t": "write",
-     "p": "The thumb test and the Gaia spacecraft both measure parallax. Say one thing that is the same about them and one thing that is different.",
+     "p": "The Jump of Your Thumb experiment and the Gaia spacecraft both measure parallax. Say one thing that is the same about them and one thing that is different.",
      "lines": 4,
      "a": "Both look at the same thing from two places and measure how much it seems to shift. The baseline is different: for the thumb it is the gap between the eyes, a few centimetres, and for Gaia it is the width of the Earth's orbit, hundreds of millions of kilometres, so Gaia can measure stars.",
      "why": "A strong answer sees one method at two scales.",
@@ -2591,7 +2591,7 @@
    "t": "mcq",
    "p": "Why can Orion not be seen at night in June?",
    "opts": [
-    "The Sun is near Orion in the sky, so it is up in the day and hidden by sunlight",
+    "The Sun is near Orion in the sky, so Orion is up in the day and hidden by sunlight",
     "Orion moves to the other side of the Earth",
     "Orion is switched off in summer",
     "The Moon covers Orion"
@@ -2636,7 +2636,7 @@
     "The Sun's light helps to measure it"
    ],
    "a": 0,
-   "why": "The shift of a star is the tiny angle made by a baseline, so the longer the baseline, the bigger the shift. The Earth's orbit is about 300 million kilometres wide, and it is the longest baseline astronomers can use without leaving the solar system.",
+   "why": "The longer the baseline, the bigger a star's shift. The Earth's orbit is about 300 million kilometres wide, and it is the longest baseline astronomers can use without leaving the solar system.",
    "outcome": 4
   },
   {
@@ -2662,7 +2662,7 @@
     "Orange"
    ],
    "a": 0,
-   "why": "The hotter a star, the bluer its light. Red is the coolest of these, then orange, yellow and finally blue-white. Fire is a hint: iron glows red, then yellow, then white as it heats up.",
+   "why": "The hotter a star, the bluer its light. Red is the coolest of these, then orange, yellow and finally blue-white. Hot iron shows the same order: it glows red, then yellow, then white as it heats up.",
    "outcome": 5
   },
   {
@@ -2851,7 +2851,7 @@
    "why_maths": "Multiplying the angle for one hour by the number of hours tells you where a star will be later, which is how the sky clock works."
   },
   {
-   "problem": "A fist covers about 10 degrees. In the Turning Sky test, a star went from 3 fists to 1 and a half fists above a roof edge in one hour. How many degrees did it move? How many hours would a full circle of 360 degrees take at that rate?",
+   "problem": "A fist covers about 10 degrees. In the Turning Sky experiment, a star went from 3 fists to 1 and a half fists above a roof edge in one hour. How many degrees did it move? How many hours would a full circle of 360 degrees take at that rate?",
    "answer": "15 degrees. A full circle takes 24 hours.",
    "explain": "The star moved 3 take away 1.5, which is 1.5 fists. 1.5 times 10 is 15 degrees. 360 divided by 15 is 24. So the full turn takes 24 hours, which is one day.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",

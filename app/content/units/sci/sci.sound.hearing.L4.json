@@ -3,11 +3,11 @@
  "title": "Hearing: how two ears find where a sound is, and why noise can hide a voice",
  "level": 4,
  "summary": {
-  "text": "Sit with your eyes shut while someone clinks a spoon on a katori somewhere around you. You can point straight at it. Now cover one ear and point again, and your finger goes wrong. The sound has not changed. Each ear gets only a loudness and a moment, and your brain builds the place from the difference between the two. Your child tests this, then finds out why a running tap can hide a whisper that is still reaching her ears, how a decibel number grows, and how the inner ear sorts high notes from low ones along a coiled tube no longer than a thumb. The unit goes on to hearing aids, cochlear implants and sign language, and to ears on a cricket's knees. A Hungarian scientist, Georg von Békésy, showed in the 1940s that the ear sorts pitches with a travelling wave, and not with strings as the great Helmholtz had guessed.",
+  "text": "Sit with your eyes shut while someone clinks a spoon on a katori somewhere around you. You can point straight at it. Now cover one ear and point again, and your finger goes wrong. The sound has not changed. Each ear only picks up how loud the sound is and the moment it arrives, and your brain works out the place from the difference between the two ears. Your child tests this, then finds out why a running tap can hide a whisper that is still reaching her ears, how the decibel scale grows, and how the inner ear sorts high notes from low ones along a coiled tube no longer than a thumb. The unit goes on to hearing aids, cochlear implants and sign language, and to the ears on a cricket's front legs. A Hungarian scientist, Georg von Békésy, showed in the 1940s that the ear sorts pitches with a travelling wave, and not with strings as the German scientist Hermann von Helmholtz had guessed.",
   "art": "A girl sitting blindfolded in the middle of a room pointing at a spoon being clinked on a steel katori, with two faint curved lines from the katori reaching her two ears at slightly different lengths."
  },
  "intro": {
-  "hook": "Close your eyes. A friend claps somewhere in the room. Without peeking, point to where the clap came from. Now press one ear shut with a warm cap and try again. Which time do you point better, and why?",
+  "hook": "Close your eyes. A friend claps somewhere in the room. Without peeking, point to where the clap came from. Now cover one ear with a cap or your hand and try again. Which time do you point better, and why?",
   "text": "With two ears open, you point well. With one ear covered, you miss by a lot. A sound is just a wave in the air, and it carries no label that says where it came from. Your brain works out the place by comparing what the two ears hear. In this unit you test that yourself. You also find out why a loud sound can hide a quiet one, how the inner ear sorts high and low notes, how hearing aids and signing help people who hear less, and how other animals hear with their knees, their antennae and their jaws.",
   "art": "A child in the middle of a room with a scarf over her eyes, one ear covered by a cap, pointing in the wrong direction while a parent stands to her left holding a steel katori and spoon."
  },
@@ -79,7 +79,7 @@
   {
    "term": "Outer hair cells",
    "meaning": "About 12,000 tiny cells in each cochlea that make the wave on the basilar membrane bigger and sharper, so that we can hear very quiet sounds.",
-   "example": "When outer hair cells are damaged by loud noise, quiet sounds and sounds close in pitch become hard to tell apart.",
+   "example": "When loud noise damages the outer hair cells, quiet sounds become hard to hear, and sounds that are close in pitch become hard to tell apart.",
    "art": "Rows of tiny hair cells on a strip, with small arrows showing them pushing up on the strip."
   },
   {
@@ -151,7 +151,7 @@
    "status": "defined",
    "context": "This card says why sounds from the front and the back can be mixed up, and how to solve it.",
    "definition": "The folds of the pinna change a sound a little depending on its direction, and turning the head changes what each ear hears. Both help the brain tell front from back and up from down.",
-   "description": "A sound straight in front and a sound straight behind reach both ears at the same time. So time and loudness do not tell them apart. The folds of the pinna help, because sound from the front is shaped in a slightly different way from sound from behind. The brain learns these shapes over many years. In experiments, people who wore small moulds that changed the folds of their pinnae were at first confused about up and down, and then learned again over some weeks. The easiest fix is to turn your head. Turn your head left. A sound in front moves to your right ear. A sound behind moves to your left ear. Animals do this all the time. A cat swivels her ears to listen. Dogs and horses turn their pinnae separately. A barn owl has ears at different heights, so she can tell whether a mouse is above or below her.",
+   "description": "A sound straight in front and a sound straight behind reach both ears at the same time. So time and loudness do not tell them apart. The folds of the pinna help, because sound from the front is shaped in a slightly different way from sound from behind. The brain learns these shapes over many years. In experiments, people who wore small moulds that changed the folds of their pinnae were at first confused about up and down, and then learned again over some weeks. The easiest fix is to turn your head. Turn your head to the left. Now a sound in front is closer to your right ear, and a sound behind is closer to your left ear. Animals do this all the time. A cat swivels her ears to listen. Dogs and horses turn their pinnae separately. A barn owl has ears at different heights, so she can tell whether a mouse is above or below her.",
    "examples": [
     "A sound straight ahead moves to your right ear when you turn your head to the left.",
     "A cat turns her ears towards a noise to hear the noise better.",
@@ -165,7 +165,7 @@
    "status": "defined",
    "context": "This card says how to read a decibel number and why the numbers grow in a special way.",
    "definition": "The decibel scale measures how strong a sound is. Every 10 decibels more means 10 times as much sound energy, and a sound that seems about twice as loud.",
-   "description": "A whisper is about 30 decibels. A conversation is about 60. That is 30 decibels more, which is three steps of 10. Each step multiplies the sound energy by 10, so a conversation has 10 times 10 times 10, or 1,000 times, the energy of a whisper. Yet it only sounds about 8 times as loud to us, because our ears squash a very big range into a smaller one. That is why the scale is useful. Our ears can handle sounds from the faintest to a jet plane close by, which differ in energy by a factor of about ten trillion. The decibel numbers for these are only 0 to about 130. Common sounds: leaves rustling about 20, a quiet room 35, a refrigerator 40, a busy street 80, a mixer-grinder 85 to 90, a motorbike passing close 95, a car horn close by 110, a firecracker close by 140.",
+   "description": "A whisper is about 30 decibels. A conversation is about 60. That is 30 decibels more, which is three steps of 10. Each step multiplies the sound energy by 10, so a conversation has 10 times 10 times 10, or 1,000 times, the energy of a whisper. Yet it only sounds about 8 times as loud to us, because our ears squash a very big range into a smaller one. That is why the scale is useful. Our ears can handle sounds from the faintest we can hear to a jet plane close by. The jet has about ten trillion times as much energy as the faintest sound, yet the decibel numbers only go from 0 to about 130. Common sounds: leaves rustling about 20, a quiet room 35, a refrigerator 40, a busy street 80, a mixer-grinder 85 to 90, a motorbike passing close 95, a car horn close by 110, a firecracker close by 140.",
    "examples": [
     "A conversation at 60 decibels has 1,000 times the sound energy of a whisper at 30 decibels.",
     "A busy street at 80 decibels sounds about 4 times as loud as a conversation at 60.",
@@ -179,7 +179,7 @@
    "status": "defined",
    "context": "This card gives the rule for how long you can listen to a loud sound without harming your ears.",
    "definition": "The louder a sound, the shorter the time it is safe to listen. Health agencies say that about 85 decibels is safe for about 8 hours, and that every 3 decibels more means half the safe time.",
-   "description": "The hair cells in your cochlea can be damaged by loud sound, and in people they do not grow back. Damage depends on both the loudness and the time. At 85 decibels, such as a mixer-grinder or very heavy traffic, the safe time is about 8 hours. At 88 decibels it is about 4 hours. At 91 it is about 2 hours, at 94 about 1 hour, at 97 about 30 minutes and at 100 decibels about 15 minutes. At 110 decibels, such as a loud speaker at a wedding, harm can start in a minute or two. Indian rules for noise say that in homes and residential areas, sound should be no more than 55 decibels by day and 45 by night, and that a firecracker should not be louder than about 125 decibels when measured 4 metres away. Earplugs or moving away reduce the level a lot. Most hearing damage from noise has no pain at the time, which is why we must go by numbers. Never push cotton buds, pins or anything else into the ear. The ear cleans itself, and a push can hurt the eardrum.",
+   "description": "The hair cells in your cochlea can be damaged by loud sound, and in people they do not grow back. Damage depends on both the loudness and the time. At 85 decibels, such as a mixer-grinder or very heavy traffic, the safe time is about 8 hours. At 88 decibels it is about 4 hours. At 91 it is about 2 hours, at 94 about 1 hour, at 97 about 30 minutes and at 100 decibels about 15 minutes. At 110 decibels, such as a loudspeaker at a wedding, harm can start in a minute or two. Indian rules for noise say that in homes and residential areas, sound should be no more than 55 decibels by day and 45 by night, and that a firecracker should not be louder than about 125 decibels when measured 4 metres away. Wearing earplugs or moving away lowers the level a lot. Most hearing damage from noise causes no pain at the time, which is why we must go by the numbers. Never push cotton buds, pins or anything else into the ear. The ear cleans itself, and a push can hurt the eardrum.",
    "examples": [
     "At 85 decibels, about 8 hours is the safe limit.",
     "At 100 decibels, such as a drill or a motorbike near the ear, only about 15 minutes is safe.",
@@ -191,9 +191,9 @@
   {
    "concept": "Why a sound gets fainter as you move away",
    "status": "defined",
-   "context": "This card explains what you found in Doubling the Distance.",
+   "context": "In Doubling the Distance, you measured the sound of a fan at four distances and saw it drop each time the distance doubled. This card explains why.",
    "definition": "Sound spreads out in every direction, so the same energy covers a bigger and bigger area as you move away. In open air, each time you double the distance, the sound level falls by about 6 decibels.",
-   "description": "A ring of ripples from a marble gets lower as it spreads, because its energy is shared along a longer ring. Sound in the air spreads over the surface of a growing ball. Doubling the distance makes the ball four times bigger in area, so each bit gets a quarter of the energy. A quarter of the energy is about 6 decibels less. So if a fan reads 60 decibels at 1 metre, it reads about 54 at 2 metres, 48 at 4 metres and 42 at 8 metres in the open. Inside a room, the walls bounce some sound back, so the drop is usually smaller, about 3 to 5 decibels for each doubling. This is why the first step away from a loud speaker helps a lot, and why a whisper only reaches a few metres.",
+   "description": "When a marble drops into water, the ring of ripples gets lower as it spreads, because its energy is shared along a longer ring. Sound in the air spreads over the surface of a growing ball. Doubling the distance makes the ball four times bigger in area, so each bit gets a quarter of the energy. A quarter of the energy is about 6 decibels less. So if a fan reads 60 decibels at 1 metre, it reads about 54 at 2 metres, 48 at 4 metres and 42 at 8 metres in the open. Inside a room, the walls bounce some sound back, so the drop is usually smaller, about 3 to 5 decibels for each doubling. This is why the first step away from a loudspeaker helps a lot, and why a whisper only reaches a few metres.",
    "examples": [
     "A fan that reads 60 decibels at 1 metre reads about 54 decibels at 2 metres in the open.",
     "Moving from 1 metre to 8 metres away from a loudspeaker lowers the level by about 18 decibels in the open.",
@@ -205,9 +205,9 @@
   {
    "concept": "Masking: why noise hides a voice",
    "status": "defined",
-   "context": "This card explains what you found in Hiding a Whisper, and how your mind picks out one voice.",
+   "context": "In Hiding a Whisper, a running tap stopped you hearing a whisper. This card explains why, and how your brain picks out one voice.",
    "definition": "Masking happens when a louder sound makes a quieter sound impossible to hear, even though the quieter sound still reaches the ear. Sounds close in pitch to the noise are masked the most.",
-   "description": "In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does, and the whisper is smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to find in a crowd of drums. It also helps to be close, since each halving of the distance adds a lot to the level, and to watch the speaker's mouth, because seeing lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect, and it needs both ears, because the brain uses the direction to separate the voices.",
+   "description": "In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.",
    "examples": [
     "You cannot hear a whisper while the tap runs full, though the whisper is still there.",
     "A thin whistle is easier to hear over drums than a low voice, since its pitch is far from the drums.",
@@ -235,7 +235,7 @@
    "status": "defined",
    "context": "This card explains why sound goes through the eardrum and three tiny bones before it reaches the cochlea.",
    "definition": "Sound moving from air into a liquid mostly bounces back. The eardrum and three tiny bones collect the sound over a big area and push it into the cochlea's fluid over a small area, so that much more of the sound gets in.",
-   "description": "Call to a friend swimming underwater. Almost all your voice bounces off the surface of the water and she can hardly hear you. Only about one-thousandth of the sound energy goes from air into water. Your cochlea is full of fluid, so it has the same problem. The middle ear is the answer. The eardrum is about twenty times bigger in area than the small window it pushes on, so the push is made much stronger. The three small bones also work as a lever. Together they let most of the sound in. The smallest bone, the stirrup, is about 3 millimetres long, the smallest bone in the body. When the middle ear is blocked by a cold or fluid, sounds seem muffled because less gets through.",
+   "description": "If you call to a friend who is swimming underwater, almost all your voice bounces off the surface of the water and she can hardly hear you. Only about one-thousandth of the sound energy goes from air into water. Your cochlea is full of fluid, so it has the same problem. The middle ear is the answer. The eardrum is about twenty times bigger in area than the small window it pushes on, so the push is made much stronger. The three small bones also work as a lever. Together they let most of the sound in. The smallest of the three, the stirrup, is about 3 millimetres long. It is the smallest bone in the body. When the middle ear is blocked by a cold or fluid, sounds seem muffled because less sound gets through.",
    "examples": [
     "A voice calling from above hardly reaches someone underwater, because most of the sound bounces off the surface.",
     "A cold that blocks the middle ear makes everything seem muffled.",
@@ -263,7 +263,7 @@
    "status": "defined",
    "context": "This card says why some people hear less, and how hearing aids and cochlear implants help.",
    "definition": "Hearing loss happens when sound cannot get through the outer or middle ear, or when the hair cells and nerve cannot send the signal on. Hearing aids make sound louder. Cochlear implants send signals straight to the nerve.",
-   "description": "The World Health Organization estimates that about 1.5 billion people, about one in five, live with some hearing loss. Some loss comes from a blocked ear or fluid in the middle ear, which can often be treated. Other loss comes from damaged hair cells, from loud noise, illness, some medicines or growing old. A hearing aid has a microphone, a small amplifier and a tiny speaker, and it makes sound louder, so that the hair cells that still work get a bigger signal. If almost all the hair cells have been lost, a cochlear implant can help. A tiny microphone behind the ear sends signals to about twenty wires coiled inside the cochlea. Each wire excites the nerve at its own place, and so sounds the way the cochlea would sort pitches. It sounds different from normal hearing, but many people, including children who were born deaf, learn to understand speech with it. Early tests and early help matter most for small children, who are learning to speak.",
+   "description": "The World Health Organization estimates that about 1.5 billion people, about one in five, live with some hearing loss. Some loss comes from a blocked ear or fluid in the middle ear, which can often be treated. Other loss comes from hair cells damaged by loud noise, illness, some medicines or growing old. A hearing aid has a microphone, a small amplifier and a tiny speaker. It makes sound louder, so that the hair cells that still work get a bigger signal. If almost all the hair cells have been lost, a cochlear implant can help. A tiny microphone behind the ear sends signals to about twenty wires coiled inside the cochlea. Each wire sets off the nerve at its own place along the cochlea, so each wire stands for a different pitch, the way the cochlea itself sorts pitches. It sounds different from normal hearing, but many people, including children who were born deaf, learn to understand speech with it. Early tests and early help matter most for small children, who are learning to speak.",
    "examples": [
     "A hearing aid makes sounds louder for a grandparent whose hair cells have worn out with age.",
     "A cochlear implant can help a child who was born with no working hair cells.",
@@ -277,7 +277,7 @@
    "status": "defined",
    "context": "This card is about the ways people who cannot hear communicate and enjoy music.",
    "definition": "Sign languages are full languages made of hand shapes, movements and facial expressions. Many Deaf people also feel music through their bodies.",
-   "description": "Sign languages are not spoken language shown by hand. Linguists have shown since the 1960s that they have their own grammar and can say anything a spoken language can. India has its own, Indian Sign Language. The Indian Sign Language Research and Training Centre in New Delhi, set up in 2015, works to make it widely used and taught. Deaf people also enjoy music. Evelyn Glennie, a Scottish percussionist, lost most of her hearing by about the age of twelve. She plays barefoot to feel the vibration of the floor and the drums through her feet, legs and hands, and she has played in concert halls all over the world. When you talk with someone who hears less, face them, keep your mouth visible, speak clearly without shouting, reduce background noise, and be patient.",
+   "description": "A sign language is not a spoken language shown with the hands. Linguists have shown since the 1960s that sign languages have their own grammar and can say anything a spoken language can. India has its own, Indian Sign Language. The Indian Sign Language Research and Training Centre in New Delhi, set up in 2015, works to make it widely used and taught. Deaf people also enjoy music. Evelyn Glennie, a Scottish percussionist, lost most of her hearing by about the age of twelve. She plays barefoot to feel the vibration of the floor and the drums through her feet, legs and hands, and she has played in concert halls all over the world. When you talk with someone who hears less, face them, keep your mouth visible, speak clearly without shouting, reduce background noise, and be patient.",
    "examples": [
     "Indian Sign Language has its own words and grammar, and is not the same as spoken Hindi or English.",
     "Evelyn Glennie plays percussion barefoot so that she can feel the vibrations of the music.",
@@ -339,10 +339,10 @@
    "concept": "Is a sound in the air, or in the ear?",
    "status": "debated",
    "context": "This card asks an old question: is a sound a wave in the air or something that happens when a listener hears it?",
-   "description": "A wave of squeezes and spreads moves through the air when a drum is struck. That is certain. But is that wave the sound, or is the sound what a listener hears? The first idea says a sound exists with no one there. The second says it needs a listener, because a wave has no loudness or pitch of its own, only an amount of energy and a rate, and loudness and pitch are what we hear. Each person is right about some part of the idea. The disagreement is about the word.",
+   "description": "When a drum is struck, a wave moves through the air: the air is squeezed, then spread out, again and again. That is certain. But is that wave the sound, or is the sound what a listener hears? The first idea says a sound exists even with no one there. The second says a sound needs a listener. A wave has only an amount of energy and a number of squeezes each second. Loudness and pitch are what we hear when the wave reaches us. Each side is right about something. They disagree about what the word 'sound' should mean.",
    "examples": [
     "A drum struck in an empty room makes a wave in the air.",
-    "A loudness or a pitch is something a listener has. A wave has an amplitude and a frequency."
+    "Loudness and pitch are what a listener hears. The wave itself has a size, called its amplitude, and a number of squeezes each second, called its frequency."
    ],
    "perspectives": [
     {
@@ -351,7 +351,7 @@
     },
     {
      "who": "Many philosophers of perception",
-     "explanation": "A sound is what a listener hears. A wave has only energy and rate. Loudness, pitch and place are made by the ear and brain."
+     "explanation": "A sound is what a listener hears. A wave has only energy and a number of squeezes each second. Loudness, pitch and place are made by the ear and brain."
     }
    ],
    "art": "A drum in an empty forest with a wave in the air, and a girl with a hand to her ear listening to a wave arriving."
@@ -360,7 +360,7 @@
  "agreed": [
   {
    "text": "Animals with two ears use the tiny differences in time and loudness between the ears to find where a sound is.",
-   "evidence": "People with one ear blocked or deaf in one ear point to sounds badly. Experiments with headphones that delay a sound in one ear by a tiny fraction of a second move where the sound seems to be."
+   "evidence": "People who have one ear blocked, or who are deaf in one ear, point to sounds badly. In experiments with headphones, delaying the sound in one ear by a tiny fraction of a second moves where the sound seems to be."
   },
   {
    "text": "A loud sound can permanently damage the hair cells of the cochlea, and in people these cells do not grow back.",
@@ -376,11 +376,11 @@
   },
   {
    "text": "A loud sound can hide a quieter one that is close to it in pitch.",
-   "evidence": "Hearing tests played to thousands of people show that a quiet sound near a loud sound in pitch cannot be heard."
+   "evidence": "Hearing tests on thousands of people show that a quiet sound cannot be heard while a loud sound close to it in pitch is playing."
   },
   {
    "text": "Sign languages are full languages with their own grammar.",
-   "evidence": "Linguists have studied them since the 1960s and shown that children learn them in the same stages as spoken languages, and that they can say anything."
+   "evidence": "Linguists have studied them since the 1960s. They have shown that children learn sign languages in the same stages as spoken languages, and that sign languages can say anything a spoken language can."
   }
  ],
  "challenging": [
@@ -404,7 +404,7 @@
    "claim": "Each pitch has its own stretched fibre in the cochlea, like a string on a piano.",
    "who": "Hermann von Helmholtz, a great German scientist, in 1863",
    "for": "Different places along the membrane do respond to different pitches, as the idea says.",
-   "against": "In the 1940s Georg von Békésy looked at real cochleas and found no stretched strings. The membrane is soft, and sound makes a wave that travels along it and peaks at a place. The place idea was right. The strings were not.",
+   "against": "In the 1940s Georg von Békésy looked at real cochleas and found no stretched strings. The membrane is soft, and sound makes a wave that travels along it and peaks at one place. The idea that each pitch has its own place was right. The strings were not.",
    "status": "rejected",
    "context": "This card is about a famous idea of how the ear sorts pitches that was partly right and partly wrong."
   },
@@ -427,9 +427,9 @@
  ],
  "big_questions": [
   {
-   "q": "Each of your ears hears only a loudness and a moment. The 'where' comes from comparing them. So is the place of a sound out there in the room, or built inside you?",
+   "q": "Each ear only picks up how loud a sound is and the moment it arrives. Your brain works out where the sound is by comparing the two ears. So is the place of a sound out there in the room, or made inside you?",
    "kind": "deep",
-   "hint": "Think about what happened when you covered one ear."
+   "hint": "Think about what happened to your pointing in the Sound Clock when you covered one ear."
   },
   {
    "q": "Someone who is deaf in one ear and someone with two working ears sit in the same room. Do they hear the same room?",
@@ -437,7 +437,7 @@
    "hint": "Think about which clues each of them has to build the place of a sound."
   },
   {
-   "q": "A whisper was still reaching your ears while the tap ran, but you could not hear it. Was the whisper there?",
+   "q": "In Hiding a Whisper, the whisper was still reaching your ears while the tap ran, but you could not hear it. Was the whisper there?",
    "kind": "deep",
    "hint": "Think about the difference between a sound reaching you and a sound you hear."
   },
@@ -495,7 +495,7 @@
    "Ammamma looked at her for a long moment. \"Madam Lakshmi,\" she said, smiling, \"I owe you a box of sweets.\"",
    "That night, at home, Anjana taught her little brother Kiran the game. He sat with his eyes shut in the middle of the room, and she rang the steel whistle from a different corner each time. Kiran pointed. Sometimes he was right, and sometimes he got front and back wrong. Anjana showed him how to turn his head."
   ],
-  "epiphany": "A sound carries no map. Each ear hears only a loudness and a moment. The brain builds the direction by comparing the two. When two ears hear the same, the sound is straight ahead or straight behind, and turning the head tells which. A thin, steady sound is easier to follow through a loud noise than a low one.",
+  "epiphany": "A sound does not tell you where it came from. Each ear only picks up how loud it is and the moment it arrives. The brain works out the direction by comparing the two ears. When both ears hear the same, the sound is straight ahead or straight behind, and turning the head tells which. A thin, steady sound is easier to follow through loud noise than a low sound.",
   "ask": [
    "Why did the whistle seem to come from everywhere at first?",
    "How did Anjana tell that a sound which reached both ears equally was in front of her?",
@@ -511,23 +511,23 @@
   ]
  },
  "roots": {
-  "context": "We have tested how two ears find a sound, how noise hides a voice, and how the inner ear sorts pitches. Now we ask what it tells us about what a sound is, and about the one who hears it.",
+  "context": "We have tested how two ears find a sound, how noise hides a voice, and how the inner ear sorts pitches. Now we ask what these tests tell us about what a sound is, and about the person who hears it.",
   "deep_truth": {
-   "truth": "Each of your ears hears only a loudness and a moment. Your brain builds 'left' or 'behind' from the difference between the two. With one ear covered, the same sound seemed to come from somewhere else. So where a sound is comes partly from the listener.",
+   "truth": "Each ear only picks up how loud a sound is and the moment it arrives. Your brain works out 'left' or 'behind' from the difference between the two ears. In the Sound Clock, the same click seemed to come from somewhere else when one ear was covered. So where a sound is comes partly from the listener.",
    "habit": "We say a sound is over there, as if the place were inside the sound. A sound wave carries no label that says where it came from. The place is worked out by the listener from two ears.",
    "evidence": "In the Sound Clock, pointing was good with two ears open and went wrong when one ear was covered, although the sound was exactly the same. If your results differ, write them down as they are and test again."
   },
   "three": {
    "who_am_i": "You hear the world through a head with two ears and a brain that compares them. Someone with one ear hears the same room, and builds the places of the sounds in a slightly different way.",
-   "what_is_life": "A barn owl has ears at different heights, so she can tell above from below. A cricket hears with her knees, and a mosquito with his antennae. Every kind of listener builds a world to suit their own body.",
-   "what_is_this_world": "A sound is a wave of squeezes in the air, and it carries energy and rhythm, but no map. The map and the loudness are made where the wave is heard."
+   "what_is_life": "A barn owl has ears at different heights, so she can tell above from below. A cricket hears with her front legs, and a mosquito with his antennae. Each kind of listener hears the world in a way that fits their own body.",
+   "what_is_this_world": "A sound is a wave of squeezes in the air. It carries energy and a rhythm, but nothing in it says where it came from or how loud it will seem. The place and the loudness are worked out by the listener who hears it."
   },
-  "thread": "A sound spreads out from its source in every direction, and each ear catches only a tiny piece of it. From the difference between two pieces, a brain makes direction. From the movement along a coiled membrane, it makes pitch. So the world we hear is made in a meeting between a wave and a listener. The same wave meets a bat, a moth or a person, and each one builds a different place from it.",
+  "thread": "A sound spreads out from its source in every direction, and each ear catches only a tiny piece of it. The brain works out the direction from the difference between the two pieces. It works out the pitch from where the wave peaks along the coiled membrane in the cochlea. So what we hear depends on both the wave and the listener. The same wave reaches a bat, a moth or a person, and each one hears it differently.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 2.4.7",
     "teaching": "The Upanishad says that when a drum is beaten, one cannot grasp the sounds that go out from it, but by grasping the drum or the drummer, one grasps the sound.",
-    "link": "A sound is not something you can catch alone. You find it through the drum, the air and the listener together."
+    "link": "You cannot get hold of a sound by itself. You find it through the drum, the air and the listener together."
    },
    {
     "source": "Zhuangzi, chapter 2 (the piping of earth)",
@@ -711,13 +711,13 @@
    ],
    "rules": [
     "Cut out the cards and shuffle them in a pile with the sound side up. Draw the ladder with six bands on a big sheet of paper: 20 to 39, 40 to 59, 60 to 79, 80 to 99, 100 to 119, and 120 and up.",
-    "The first player turns over the top card and reads the sound on the front. The card is not turned over yet.",
+    "The first player picks up the top card and reads out the sound on the front. Do not turn the card over yet.",
     "Everybody guesses which band of the ladder the sound belongs to, and says why.",
     "Turn the card over and read the decibel number. Place the card on the right band of the ladder.",
     "A player whose guess was in the right band gets one point. A player who guessed the band next door gets half a point.",
     "Take turns to read cards. The game ends when all the cards are on the ladder.",
-    "At the end, look at the bands above 85 decibels. Put the safe times from the backs in order, from the longest to the shortest.",
-    "Playing alone, guess each band before turning the card over, and try to score 20 or more out of 24."
+    "At the end, look at the cards of 85 decibels and above. Put them in order of the safe time on the back, from the longest to the shortest.",
+    "If you play alone, guess each band before turning the card over, and try to score 20 or more out of 24."
    ],
    "flow": [
     {
@@ -733,7 +733,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Take the whisper, the normal conversation and the firecracker cards. Place them on the ladder. Then ask the question below.",
-     "say": "Here are three cards. A whisper, a normal conversation and a firecracker. Place each one on the ladder where you think it goes. Then we check the backs.",
+     "say": "Here are three cards: a whisper, a normal conversation and a firecracker. Place each one on the ladder where you think it goes. Then we check the backs.",
      "kid": "Place the whisper, the conversation and the firecracker on the ladder.",
      "check": {
       "t": "mcq",
@@ -752,7 +752,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Play the rest of the cards. For each, everyone guesses the band first. Then turn it over. Keep a score. After every six cards, ask the question below.",
-     "say": "Read the sound on the front. Guess the band. Then turn the card over and read the decibels. Right band is one point. The band next door is half a point.",
+     "say": "Read the sound on the front. Guess the band. Then turn the card over and read the decibels. The right band scores one point. The band next door scores half a point.",
      "kid": "Read a card. Guess the band. Turn it over. Place it on the ladder.",
      "ask": [
       {
@@ -774,14 +774,14 @@
      "say": "Look at the finished ladder. Show me the sounds that are safe all day. Now show me the sounds that need a time limit.",
      "kid": "Point to the sounds safe all day. Point to the ones with a time limit.",
      "parent": "Sounds below about 80 decibels are safe all day. At 85 decibels and above, the safe time starts to shrink.",
-     "context": "In this step, you sort the cards into safe all day and time limited."
+     "context": "In this step, you sort the cards into sounds that are safe all day and sounds that need a time limit."
     },
     {
      "id": "s5",
      "mins": 2,
-     "do": "Put the safe times from the backs in order, from longest to shortest. Ask the question below, and let your child work it out before you say the answer.",
+     "do": "Take the cards of 85 decibels and above. Put them in order of the safe time on the back, from longest to shortest. Ask the question below, and let your child work it out before you say the answer.",
      "say": "At 85 decibels the safe time is 8 hours. Each 3 decibels louder halves it. So how long is it safe at 100 decibels?",
-     "kid": "Each 3 decibels louder halves the safe time. At 100 decibels, how long?",
+     "kid": "Each 3 decibels louder halves the safe time. How long is it safe at 100 decibels?",
      "check": {
       "t": "mcq",
       "q": "The safe time at 85 decibels is 8 hours, and every 3 decibels more halves it. About how long is it safe at 100 decibels?",
@@ -793,7 +793,7 @@
       "a": 0,
       "why": "100 is 15 more than 85, which is five steps of 3 decibels. Halve 8 hours five times: 4 hours, 2 hours, 1 hour, 30 minutes, 15 minutes. If you picked 4 hours, you halved only once."
      },
-     "context": "In this step, you use the doubling rule to find a safe time."
+     "context": "In this step, you use the halving rule to find a safe time."
     }
    ]
   }
@@ -858,7 +858,7 @@
      "mins": 5,
      "do": "Show your child the chair, the katori and the eight places. Ask for a guess and a reason. Write the guess in the table.",
      "say": "I will click a spoon on a katori around you, and you will point to it with your eyes shut. First with two ears, then with one ear covered. How many out of 16 will you get exactly right each time? Why do you think so?",
-     "kid": "Shut your eyes and point to the click. Guess how many you will get right. Why?",
+     "kid": "You will shut your eyes and point to each click. Guess how many you will get right. Why?",
      "ask": [
       {
        "q": "Why do you think covering one ear will change your pointing?",
@@ -878,14 +878,14 @@
      "adult": true,
      "do": "Put the chair in the middle of a clear space. Lay the eight paper slips on the floor in a circle 1.5 metres from the chair, with Front straight ahead. Make a pile of 16 slips, two of each place, and shuffle them.",
      "say": "The chair is the middle. The slips make a circle around it, 1.5 metres away. I will pick a slip, go to that place quietly, and click once. You will point and say where you think I am.",
-     "kid": "Sit on the chair. The slips make a circle around you. Eyes shut soon.",
+     "kid": "Sit on the chair. The slips make a circle around you. You will shut your eyes soon.",
      "parent": "Wear soft socks so your footsteps do not give you away. Wait 3 seconds after reaching a place before you click. Pick the slips from a bag or a shuffled pile so the order is random. Write the true place and the pointed place for each click. Children may peek, so cover the eyes properly.",
      "context": "In this step, you set up the chair and the circle of places."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Cover your child's eyes. Draw a slip and move to that place quietly. Click once. Your child points and says front, left, back or so on. Write it down. Do all 16 slips. Keep the head still.",
+     "do": "Cover your child's eyes. Draw a slip and move to that place quietly. Click once. Your child points and says where the click is, such as front, left or back. Write it down. Do all 16 slips. Your child keeps their head still.",
      "say": "Keep your head still. When you hear the click, point with one finger and say where it is. Even if you are not sure, make a guess.",
      "kid": "Eyes covered. Keep your head still. Point to each click.",
      "parent": "Round A is two ears, head still. Mark each pointing as exactly right, one place off, or more than one place off. Front and back mix-ups count as more than one place off. Typically a child gets about 9 to 12 exactly right, plus a few front and back mix-ups. Your numbers will differ.",
@@ -893,12 +893,12 @@
       "t": "mcq",
       "q": "A click straight in front of your head and a click straight behind your head reach both ears together. Why are these two places the hardest to tell apart?",
       "options": [
-       "Both ears hear the same loudness and the same time for each, so the main clues are the same",
+       "For both places, the sound reaches the two ears at the same time and equally loudly, so the main clues are the same",
        "The click is quieter at the front and back",
        "The ears cannot hear sounds at the front or back"
       ],
       "a": 0,
-      "why": "A sound exactly in front or exactly behind is the same distance from both ears. The time and loudness clues are the same for both places. The folds of the ear and head turns are needed to tell them apart. If you chose the third option, think about whether you can hear things in front of you."
+      "why": "A sound exactly in front or exactly behind is the same distance from both ears. The time and loudness clues are the same for both places. The folds of the ear and head turns are needed to tell them apart. If you chose 'The ears cannot hear sounds at the front or back', think about whether you can hear things in front of you."
      },
      "context": "In this step, you do Round A: two ears open, head still."
     },
@@ -908,7 +908,7 @@
      "do": "Now cover one ear with a soft cover. Shuffle the slips and do another 16 clicks. Keep the head still. Mark each one as before. Note which side most of the mistakes lean towards.",
      "say": "This time one ear is covered. Same game. Keep your head still. Point when you hear the click. Do you think it will be harder or easier?",
      "kid": "One ear is covered. Same game. Keep your head still.",
-     "parent": "Round B is one ear covered. Typically about 4 to 7 exactly right, though some children do better. If nothing changes, press the cover on harder and use a quieter room. Many wrong answers leaning toward the open ear, because the sound seems louder there. If your child finds that sounds on the covered side seem to come from the front, that is normal. Remember: nothing goes inside the ear. Use an earmuff, a cap or a hand.",
+     "parent": "Round B is one ear covered. Typically a child gets about 4 to 7 exactly right, though some children do better. If nothing changes, press the cover on harder and use a quieter room. Many wrong answers lean towards the open ear, because the sound seems louder there. If your child finds that sounds on the covered side seem to come from the front, that is normal. Remember: nothing goes inside the ear. Use an earmuff, a cap or a hand.",
      "context": "In this step, you do Round B: one ear covered, head still."
     },
     {
@@ -917,25 +917,25 @@
      "do": "Take the ear cover off. Shuffle the slips and do a third round of 16 clicks. This time your child may turn the head from side to side while listening. Eyes stay covered.",
      "say": "Back to two ears. This time you may turn your head from side to side as you listen. Does it help?",
      "kid": "Two ears again. This time you may turn your head. Does it help?",
-     "parent": "Round C is two ears with head turns. Typically the front and back mix-ups drop a lot and 12 or more are exactly right. Results vary. When the head turns, the sound changes which ear is nearer, and the brain uses the change.",
+     "parent": "Round C is two ears with head turns. Typically the front and back mix-ups drop a lot and 12 or more are exactly right. Results vary. When the head turns, a different ear becomes the one nearer the sound, and the brain uses the change.",
      "context": "In this step, you do Round C: two ears, head turns allowed."
     },
     {
      "id": "s6",
      "mins": 2,
-     "do": "Look at the table together. Ask your child to say three things: what I think now, what I saw, and why.",
+     "do": "Look at the table together. Ask your child to say three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What numbers show it? And why do you think it happened? What did turning your head do?",
-     "kid": "Say three things. What I think now. What I saw. Why.",
+     "kid": "Say three things: what you think now, what you saw, and why it happened.",
      "check": {
       "t": "mcq",
-      "q": "With one ear covered, the same clicks made you point wrongly. What changed between Round A and Round B?",
+      "q": "In Round A of the Sound Clock you had two ears open. In Round B one ear was covered, and the same clicks made you point wrongly. What changed between the rounds?",
       "options": [
-       "Only the clues the brain got, because one ear gave no comparison",
+       "Only the clues your brain got, because with one ear covered it had nothing to compare",
        "The clicks got quieter",
        "The room changed"
       ],
       "a": 0,
-      "why": "The clicks and the room were the same. With one ear covered the brain no longer had two ears to compare, so it could not use the time and loudness differences. If you chose the clicks got quieter, remember that you made each click in the same way."
+      "why": "The clicks and the room were the same. With one ear covered the brain no longer had two ears to compare, so it could not use the time and loudness differences. If you chose 'The clicks got quieter', remember that each click was made in the same way."
      },
      "parent": "A strong answer sounds like this: 'With two ears I was right a lot. With one ear covered I made many more mistakes. I think the brain finds where a sound is by comparing what the two ears hear. When I could turn my head, I got even better, because the head turn changed what the ears heard.' Now read the card 'Two ears tell where a sound is'.",
      "context": "In this step, you say what you found, with evidence and a reason."
@@ -1071,7 +1071,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Mark 1, 2, 3, 4 and 5 metres along the floor from the listener's chair. Write the digit lists. Put the bucket under the tap, if the room has one. If not, get a fan or a phone with a rain track ready.",
+     "do": "Mark 1, 2, 3, 4 and 5 metres along the floor from the listener's chair. Write the digit lists. If the room has a tap, put the bucket under it. If not, get a fan or a phone with a rain track ready.",
      "say": "We mark the floor at 1, 2, 3, 4 and 5 metres from the chair. For each distance I will whisper five digits. I have written them down in a mixed-up order.",
      "kid": "Mark the floor at 1, 2, 3, 4 and 5 metres. Sit on the chair.",
      "parent": "If your tap is not in the same room, use a table fan on its highest setting, or a phone playing a steady rain or crowd track at a fixed volume, as your loud noise. Put the noise source near the listener, about 1.5 metres to one side. Make sure the noise is steady. The listener keeps eyes covered.",
@@ -1093,7 +1093,7 @@
        "Because five is the right number for whispers"
       ],
       "a": 0,
-      "why": "A digit can be guessed right by luck, one time in ten. Five digits make a lucky run very unlikely. If you picked the second option, remember that longer is not better in a test, only fairer."
+      "why": "A digit can be guessed right by luck, one time in ten. Five digits make a lucky run very unlikely. If you picked 'To make the test longer', remember that a test is not better just because it is longer. More tries make it fairer."
      },
      "context": "In this step, you find how far a whisper reaches in a quiet room."
     },
@@ -1102,14 +1102,14 @@
      "mins": 8,
      "do": "Turn on the tap gently, with a steady trickle into the bucket. Repeat the whispers at 1, 2, 3, 4 and 5 metres. Then turn the tap on hard and repeat. Write the scores.",
      "say": "Now the tap runs gently. Same whispers, same places. Listen and say the number. Then we will turn the tap up and do it again.",
-     "kid": "Tap running. Listen for each number. Say it back.",
-     "parent": "Typically the whisper reaches less far with the gentle tap, about 2 or 3 metres, and much less with the tap hard, about 1 metre or less. Your numbers will differ. If the whisper cannot be heard even at 1 metre, move to half a metre and write it beside the table. The whisper is still reaching the ear. It is hidden by the noise.",
+     "kid": "The tap is running. Listen for each number. Say it back.",
+     "parent": "Typically the whisper reaches less far with the tap running gently, about 2 or 3 metres, and much less with the tap running hard, about 1 metre or less. Your numbers will differ. If the whisper cannot be heard even at 1 metre, move to half a metre and write it beside the table. The whisper is still reaching the ear. It is hidden by the noise.",
      "context": "In this step, you find how far a whisper reaches in two levels of noise."
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "Keep the tap running hard. Stand at a distance where the listener got fewer than 4 right. Try two helps in turn. First, let the listener take the scarf off and watch your mouth. Second, move one step closer.",
+     "do": "Keep the tap running hard. Stand at a distance where the listener got fewer than 4 right. Try two helps in turn. First, let the listener take off the scarf that covers their eyes and watch your mouth. Second, move one step closer.",
      "say": "We are going to help the whisper get through the noise. First, you watch my mouth while I whisper. Then I come one step closer. Which helps more?",
      "kid": "Watch the whisperer's mouth. Then try one step closer. Which helps more?",
      "parent": "Seeing the lips usually helps a lot, because the brain uses the movements of the mouth to fill in what the ear misses. Moving closer helps too. Ask your child which one they would pick if they could pick only one in a noisy hall.",
@@ -1118,9 +1118,9 @@
     {
      "id": "s6",
      "mins": 2,
-     "do": "Look at the table together. Ask your child to say three things: what I think now, what I saw, and why.",
+     "do": "Look at the table together. Ask your child to say three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What numbers show it? And why do you think it happened? Was the whisper still arriving when the tap was loud?",
-     "kid": "Say three things. What I think now. What I saw. Why.",
+     "kid": "Say three things: what you think now, what you saw, and why it happened.",
      "check": {
       "t": "mcq",
       "q": "With the tap running hard, you could not hear the whisper. What is the best explanation?",
@@ -1130,7 +1130,7 @@
        "Your ear stopped working while the tap ran"
       ],
       "a": 0,
-      "why": "The whisper was the same, and it still arrived. The louder tap sound moved the same part of the ear as the whisper, so the whisper was lost inside it. This is called masking. If you chose the third option, notice that when the tap was turned off, you could hear the whisper again."
+      "why": "The whisper was the same, and it still arrived. The louder tap sound moved the same part of the ear as the whisper, so the whisper was lost inside it. This is called masking. If you chose 'Your ear stopped working while the tap ran', notice that when the tap was turned off, you could hear the whisper again."
      },
      "parent": "A strong answer sounds like this: 'The louder the noise, the shorter the distance a whisper reached. In a quiet room it reached about 4 metres. With the tap hard it reached less than 1 metre. I think the noise hid the whisper, even though it still reached my ear. Watching the lips and moving closer helped.' Now read the card 'Masking: why noise hides a voice'.",
      "context": "In this step, you say what you found, with evidence and a reason."
@@ -1205,7 +1205,7 @@
    "context": "In this experiment you measure how loud a steady sound is at four distances with a free sound meter app, and find what happens each time you double the distance.",
    "question": "Each time you double your distance from a steady sound, how many decibels does it drop?",
    "predict": "Before you start, guess. If the fan reads 60 decibels at 1 metre, what will it read at 2 metres, 4 metres and 8 metres? Why do you think so?",
-   "fair_test": "Use the same sound on the same setting, the same phone and app, and the same height, one metre from the floor, for every reading. Only the distance changes. Take three readings at each distance and use the middle one, because an app jumps around.",
+   "fair_test": "Use the same sound on the same setting, the same phone and app, and the same height, one metre from the floor, for every reading. Only the distance changes. Take three readings at each distance and use the middle one, because the number on the app jumps around.",
    "results_table": [
     "Distance from the fan (metres)",
     "My guess (decibels)",
@@ -1240,7 +1240,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the sound no louder than a normal conversation. Use a fan with a guard, and keep little fingers away from it. Switch off the fan when you finish. Keep fingers away from fan blades.",
+   "safety": "Keep the sound no louder than a normal conversation. Use a fan with a guard, and keep fingers away from the blades. Switch off the fan when you finish.",
    "schedule": [
     {
      "day": 1,
@@ -1272,7 +1272,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Put the fan on a table at one end of the room. Switch it on at a steady speed. Mark 0.5, 1, 2 and 4 metres from the fan on the floor. Run the line out to the side of the fan. Wind must not blow on the phone. Open the app and check that it reads a number.",
+     "do": "Put the fan on a table at one end of the room. Switch it on at a steady speed. On the floor, mark 0.5, 1, 2 and 4 metres from the fan. Mark them along a line that runs out to the side of the fan, so that the fan's wind does not blow on the phone. Open the app and check that it reads a number.",
      "say": "We place the fan at one end. We mark 0.5 metres, 1 metre, 2 metres and 4 metres along the floor. Then we open the app and check that it works.",
      "kid": "Switch on the fan. Mark the floor at four distances. Open the app.",
      "parent": "Phone microphones are not accurate. The numbers may be off by 5 decibels or more, and some apps do not read below 30 or above 90. That is fine here. We are looking at how the number changes between distances, not at the exact number. Hold the phone at the height of the fan, pointing at it, and do not move it between readings. Wind on the microphone makes false readings, so keep the phone out of the airflow. If the readings stop falling at about 40 decibels, the room noise is in the way. Turn off other noise, close the window, try at night, or play a louder track.",
@@ -1303,7 +1303,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Put the three readings in order at each distance, and pick the middle one. Work out the drop from one distance to the next. Look for a pattern.",
-     "say": "For each distance, put the three readings in order and pick the middle one. Then take away the next middle reading. What is the drop each time you double the distance?",
+     "say": "For each distance, put the three readings in order and pick the middle one. Then subtract each middle reading from the one at the distance before it. What is the drop each time you double the distance?",
      "kid": "Pick the middle reading. Find the drop each time the distance doubles.",
      "parent": "The drops are likely to be similar to each other, around 3 to 6 decibels. In open air, sound spreads over a ball that gets four times bigger in area each time the distance doubles, so each bit gets a quarter of the energy, which is a drop of about 6 decibels.",
      "context": "In this step, you work out the drop at each doubling."
@@ -1311,9 +1311,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Look at the table together. Ask your child to say three things: what I think now, what I saw, and why.",
+     "do": "Look at the table together. Ask your child to say three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What numbers show it? And why do you think it happened? Where does the sound's energy go as you move away?",
-     "kid": "Say three things. What I think now. What I saw. Why.",
+     "kid": "Say three things: what you think now, what you saw, and why it happened.",
      "check": {
       "t": "mcq",
       "q": "Why does a sound get quieter as you move away from it?",
@@ -1338,7 +1338,7 @@
      "Reading 2",
      "Reading 3",
      "Middle reading",
-     "Drop from the one before"
+     "Drop from the distance before"
     ],
     "rows": [
      [
@@ -1544,7 +1544,7 @@
      "mins": 7,
      "do": "Draw a strip 35 centimetres long. Make one end 1 centimetre wide and the other end 5 centimetres wide. Join the sides with straight lines. Cut it out.",
      "say": "The cochlea is a coiled tube about 3.5 centimetres long. Our model is 10 times as long, so 35 centimetres. The strip stands for the basilar membrane. It is narrow at one end and about five times wider at the other.",
-     "kid": "Draw a strip, 35 centimetres long. One end 1 centimetre wide. One end 5 wide.",
+     "kid": "Draw a strip 35 centimetres long. Make one end 1 centimetre wide and the other end 5 centimetres wide.",
      "parent": "Use the ruler to mark both ends and join them with straight lines. The narrow end is where the sound enters the cochlea. The wide end is deep inside. Real cochleas are tiny, so our model is ten times bigger than life in length. With 2 to 4 children, each makes a strip. Share one ruler and one pair of scissors.",
      "check": {
       "t": "mcq",
@@ -1687,7 +1687,7 @@
        "They feel the same"
       ],
       "a": 0,
-      "why": "Slow, strong pushes from a deep drum are easiest for the skin to sense. High flute notes shake the air too fast for the balloon and skin to follow. If you picked the same, try both again, and focus on your fingertips."
+      "why": "Slow, strong pushes from a deep drum are easiest for the skin to sense. High flute notes shake the air too fast for the balloon and skin to follow. If you picked 'They feel the same', try both again, and focus on your fingertips."
      },
      "context": "In this step, you feel a drum beat and a flute through a balloon."
     },
@@ -1733,7 +1733,7 @@
      "qty": 1
     }
    ],
-   "safety": "Stand next to a wall or a sturdy table so that you can touch it if you start to fall. Stop if you feel dizzy. Clear the floor of toys and sharp corners. Stay within arm's reach when the eyes are shut.",
+   "safety": "Stand next to a wall or a sturdy table so that you can touch it if you start to fall. Stop if you feel dizzy. Clear the floor of toys and sharp corners. A grown-up stays within arm's reach when the child's eyes are shut.",
    "schedule": [
     {
      "day": 1,
@@ -1777,7 +1777,7 @@
      "do": "Now ask your child to shut their eyes, and time them again, three tries on each leg. Stay close, and be ready to catch them. Stop the clock if the foot touches down.",
      "say": "Now shut your eyes. Stand on one leg. I will be right beside you. Stop if you wobble too much. Three tries on each leg.",
      "kid": "Shut your eyes. Stand on one leg. Stop if you wobble too much.",
-     "parent": "Typically a big drop, often to 5 to 15 seconds. Some children manage more. With the eyes shut, the brain has lost one of its three sources of balance information. The inner ear and the feet are still working. Standing on a soft mat makes it harder, because the feet feel less.",
+     "parent": "Typically the time drops a lot, often to 5 to 15 seconds. Some children manage more. With the eyes shut, the brain has lost one of its three sources of balance information. The inner ear and the feet are still working. Standing on a soft mat makes it harder, because the feet feel less.",
      "check": {
       "t": "mcq",
       "q": "Shutting your eyes made standing on one leg harder. What is the best explanation?",
@@ -1787,7 +1787,7 @@
        "The floor became less flat"
       ],
       "a": 0,
-      "why": "Balance uses the eyes, the inner ears and the feel of the feet together. With the eyes shut, the brain has only two sources left, so it manages less well. If you picked the legs, notice that your legs were just as strong a moment before."
+      "why": "Balance uses the eyes, the inner ears and the feel of the feet together. With the eyes shut, the brain has only two sources left, so it manages less well. If you picked 'The legs got weaker when the eyes shut', notice that your legs were just as strong a moment before."
      },
      "context": "In this step, you time standing on one leg with your eyes shut."
     }
@@ -1931,7 +1931,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the card. The small end of the trumpet rests near the ear, never pushed in. Keep the sound quiet. Never use a trumpet near loud sounds, and nobody shouts into one.",
+   "safety": "A grown-up cuts the card. The small end of the trumpet rests near the ear, never pushed in. Keep the sound quiet. Never use a trumpet near loud sounds, and never shout into one.",
    "schedule": [
     {
      "day": 1,
@@ -1949,9 +1949,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the paper, the phone and the corridor. Ask for a guess and a reason about which size of mouth will let them hear furthest.",
-     "say": "Long ago, before hearing aids, people used ear trumpets to hear better. Today we make three. One with a small mouth, one with a medium mouth and one with a big mouth. Which do you think will help most? Why do you think so?",
-     "kid": "Three ear trumpets. Which mouth helps you hear furthest? Why?",
+     "do": "Show your child the paper, the phone and the corridor. Ask which size of trumpet mouth will let them hear furthest, and why.",
+     "say": "Long ago, before hearing aids, people used ear trumpets to hear better. Today we make three. The mouth of a trumpet is its wide, open end. One trumpet has a small mouth, one a medium mouth and one a big mouth. Which do you think will help most? Why do you think so?",
+     "kid": "We make three ear trumpets. Which size of mouth helps you hear furthest? Why?",
      "ask": [
       {
        "q": "Why do you think that size will help the most?",
@@ -2020,7 +2020,7 @@
        "It stops other sounds from reaching the ear"
       ],
       "a": 0,
-      "why": "A wide mouth catches a bigger share of the spreading sound and guides it to a small opening at the ear. The trumpet does not add energy. It gathers energy that would have missed the ear. Picking the second option is a natural slip, because the sound is made at the phone, and the trumpet is at your ear."
+      "why": "A wide mouth catches a bigger share of the spreading sound and guides it to a small opening at the ear. The trumpet does not add energy. It gathers energy that would have missed the ear. If you picked 'It makes the sound louder at the source', remember that the sound is made at the phone, and the trumpet is at your ear."
      },
      "context": "On day 2, you draw a bar chart and explain the result."
     }
@@ -2067,7 +2067,7 @@
    ],
    "creative": [
     "A phone on a table that vibrates when called, with a ring of cups to make the vibration more visible. Test whether the helper notices the movement.",
-    "A set of three light signals in different colours of cloth that mean different visitors, such as family, a friend or a delivery."
+    "Three light signals, each made with a different colour of cloth, that mean different visitors, such as family, a friend or a delivery."
    ],
    "your_turn": "Sketch two ideas. Pick the one you think is best. Build it, and test it with a helper in another room. Did they notice it? How fast? What would make it better?",
    "setup": [
@@ -2116,7 +2116,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Ask your helper to put on earmuffs and go to the kitchen, busy with a task. Go to the door and use your signal. Time how long they take to notice. Ask them how it felt.",
+     "do": "Ask your helper to put on earmuffs, go to the kitchen and get busy with a task. Go to the door and use your signal. Time how long they take to notice. Ask them how it felt.",
      "say": "Helper, put on the earmuffs and do something in the kitchen. I will go to the door and use my signal. I will time how long it takes you to notice. Don't look at the door.",
      "kid": "The helper wears earmuffs and works in the kitchen. Use your signal. Time it.",
      "parent": "The helper pretends to be someone who cannot hear. Be respectful. Real Deaf people have many ways of managing, and we are only testing an idea. Record the time and what the helper says.",
@@ -2129,7 +2129,7 @@
        "Signals are not useful in kitchens"
       ],
       "a": 0,
-      "why": "A person cannot notice a signal they are not facing. A light that fills the room or a vibration that can be felt works from any direction. If you chose the second option, remember that the test was the same each time and only the direction changed."
+      "why": "A person cannot notice a signal they are not facing. A light that fills the room or a vibration that can be felt works from any direction. If you chose 'The helper was not trying', remember that the test was the same each time and only the direction changed."
      },
      "context": "In this step, you test your signal with a helper who cannot hear the door."
     },
@@ -2234,7 +2234,7 @@
      "t": "match",
      "p": "Match each word to what it means.",
      "a": "pairs as given",
-     "why": "These words are the tools for talking about hearing.",
+     "why": "You need these words to talk about hearing.",
      "pairs": [
       [
        "Pinna",
@@ -2263,7 +2263,7 @@
      "t": "sort",
      "p": "Is each one a clue the brain can use to find the direction of a sound, or not?",
      "a": "see items",
-     "why": "The brain uses the time, the loudness, the folds of the ear flap and the changes when the head turns. The temperature of the room and the colour of the sound do not help.",
+     "why": "The brain uses the time, the loudness, the folds of the ear flap and the changes when the head turns. The temperature of the room and the colour of the walls do not help.",
      "cats": [
       "A clue for direction",
       "Not a clue for direction"
@@ -2570,16 +2570,16 @@
     },
     {
      "t": "perspective",
-     "p": "Rhea and Imran are in a forest. A heavy branch falls to the ground with nobody there to hear it. They argue about whether it made a sound.",
+     "p": "A heavy branch falls to the ground in a forest, with nobody there to hear it. Two friends argue about whether it made a sound.",
      "a": "A strong answer picks a side, gives a reason from what you know about waves and hearing, and says what the other person has right.",
      "why": "Both have a point. The falling branch makes a wave in the air whether anyone is there. What we call loudness and pitch are what a listener makes of the wave.",
      "views": [
       {
-       "who": "Rhea, aged 10",
+       "who": "The first friend",
        "says": "Yes. The branch made a wave in the air. A sound is that wave, and it was there with nobody listening."
       },
       {
-       "who": "Imran, aged 9",
+       "who": "The second friend",
        "says": "No. The wave is only squeezes in the air. A sound is what someone hears. With nobody there, there is only a wave."
       }
      ],
@@ -2815,7 +2815,7 @@
     },
     {
      "t": "perspective",
-     "p": "Meenu's school plans a sports day with a loudspeaker at about 100 decibels for two hours.",
+     "p": "A school plans a sports day with a loudspeaker at about 100 decibels for two hours.",
      "a": "A strong answer picks a side, uses the safe time rule, and says what the other person has right.",
      "why": "Both views have a point. A sports day is exciting, and it is only one day. But at 100 decibels the safe time is about 15 minutes, and hair cells that are lost do not grow back.",
      "views": [
@@ -2824,7 +2824,7 @@
        "says": "It makes the day exciting, and it is only one day in the year. Nobody will be hurt."
       },
       {
-       "who": "Dr Nair, a parent who is a doctor",
+       "who": "A parent who is a doctor",
        "says": "At 100 decibels, the safe time is only about 15 minutes. Two hours can damage hair cells that never grow back."
       }
      ],
@@ -2980,7 +2980,7 @@
     "Moths hear better than all other animals"
    ],
    "a": 0,
-   "why": "The wave is in the air for all to share, but each animal's ears answer only to some pitches. People's ears cannot answer to a bat's squeak.",
+   "why": "The wave is in the air for every animal, but each animal's ears pick up only some pitches. People's ears cannot pick up a bat's squeak.",
    "outcome": 6
   }
  ],
@@ -3015,7 +3015,7 @@
   "Cochlear implants let many children who were born deaf learn to understand speech.",
   "Hospitals check newborn babies' hearing in a minute or two by recording the faint sounds the ear gives out, so that help can begin early.",
   "Earplugs and ear defenders protect the hair cells of people who work near drills, machines and aircraft.",
-  "Noise rules and sound meters set safe limits for homes, schools, hospitals and for firecrackers, and help check them.",
+  "Noise rules set safe limits for homes, schools, hospitals and firecrackers, and sound meters are used to check them.",
   "Concert halls and classrooms are designed so that sound reaches every seat clearly, and so that echoes and noise do not hide speech.",
   "Music files such as MP3s are made smaller by dropping sounds that a louder sound next to them would hide anyway, which uses the idea of masking.",
   "Stereo sound and surround sound use the time and loudness differences between two ears to make a sound seem to come from a place.",
@@ -3032,11 +3032,11 @@
    "art": "A kitchen with a mixer-grinder running, a pressure cooker whistling and two people leaning close to talk."
   },
   {
-   "text": "A cat or dog that turns one ear and then the other towards a noise before the person hears anything.",
+   "text": "A cat or dog who turns one ear and then the other towards a noise before a person nearby hears anything.",
    "art": "A cat with her ears turned in different directions, looking at a door."
   },
   {
-   "text": "A cricket or grasshopper in the garden chirping, where the ears are on her legs or belly and not on her head.",
+   "text": "A cricket or grasshopper chirping in the garden, whose ears are on her legs or belly and not on her head.",
    "art": "A cricket on a leaf with an arrow pointing to a small round eardrum below her front knee."
   },
   {
@@ -3134,11 +3134,11 @@
  ],
  "maths": [
   {
-   "problem": "Sound travels about 340 metres each second. How far does it travel in one hundredth of a second, which is 0.01 seconds? Your two ears are about 20 centimetres apart. Is that more or less than the distance in one thousandth of a second?",
+   "problem": "Sound travels about 340 metres each second. How far does it travel in one hundredth of a second, which is 0.01 seconds? Your two ears are about 20 centimetres apart. Is that more or less than the distance sound travels in one thousandth of a second?",
    "answer": "3.4 metres in one hundredth of a second. In one thousandth it is 34 centimetres, so 20 centimetres takes less than a thousandth, about 6 ten-thousandths of a second.",
    "explain": "340 divided by 100 is 3.4 metres. 340 divided by 1,000 is 0.34 metres, which is 34 centimetres. Your ears are 20 centimetres apart, which is less than 34, so a sound crosses between them in less than a thousandth of a second.",
    "math_unit": "math.division.division-facts.L4",
-   "context": "In the Sound Clock, the brain compares the moment a sound reaches your two ears, which are about 20 centimetres apart.",
+   "context": "In the Sound Clock, the brain compares the moments a sound reaches each of your two ears, which are about 20 centimetres apart.",
    "why_maths": "Dividing a speed by 100 or 1,000 shows how short the time between your ears really is, and why the brain's skill is so remarkable."
   },
   {
@@ -3158,8 +3158,8 @@
    "why_maths": "A halving pattern lets you work out safe times for sounds you have not been told about."
   },
   {
-   "problem": "In a Sound Clock, Dhanya got 13 of 16 clicks exactly right with two ears and 6 of 16 exactly right with one ear covered. Which round was more than half right? How many fewer did she get right with one ear?",
-   "answer": "The two-ear round was more than half. She got 7 fewer right with one ear.",
+   "problem": "In the Sound Clock, a child got 13 of 16 clicks exactly right with two ears and 6 of 16 exactly right with one ear covered. Which round was more than half right? How many fewer did the child get right with one ear covered?",
+   "answer": "The two-ear round was more than half right. The child got 7 fewer right with one ear covered.",
    "explain": "Half of 16 is 8. 13 is more than 8, and 6 is less than 8. The difference is 13 take away 6, which is 7.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
    "how": "e1",
@@ -3189,7 +3189,7 @@
    "answer": "30,000 hair cells in two ears, and 3,000 lost in all.",
    "explain": "15,000 plus 15,000 is 30,000. One in ten of 15,000 is 1,500 in each ear. 1,500 plus 1,500 is 3,000 lost in all. They do not grow back.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
-   "context": "In the cochlea card, each ear has about 15,000 hair cells, and loud noise can destroy them for good.",
+   "context": "The card 'The cochlea sorts high and low pitches along its length' says each ear has about 15,000 hair cells. Loud noise can destroy them for good.",
    "why_maths": "Finding a fraction of a large number shows how much hearing could be lost in one loud night."
   },
   {

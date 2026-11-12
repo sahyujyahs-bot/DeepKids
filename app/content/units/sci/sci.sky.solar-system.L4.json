@@ -3,7 +3,7 @@
  "title": "The solar system: why a rocky planet and a gas giant are so different, and how we know",
  "level": 4,
  "summary": {
-  "text": "Mercury is the closest planet to the Sun, yet Venus is hotter. Jupiter is about 11 times as wide as the Earth, yet a lump of Jupiter weighs only about a quarter as much as a lump of Earth the same size, and Saturn is lighter than water. Four planets have solid ground and four have none, though all eight formed from one cloud around one Sun. Your child drops marbles into flour to see how craters give away the age of a world, sorts a jar into layers like a young planet, finds the rule that links a planet's distance to the length of its year, and walks a model where the Earth is a mustard seed. Along the way: why Mars lost its air, why a day on Venus is longer than its year, and why a message sent to a spacecraft at Mars is already many minutes old when it arrives.",
+  "text": "Mercury is the closest planet to the Sun, yet Venus is hotter. Jupiter is about 11 times as wide as the Earth, yet a lump of Jupiter weighs only about a quarter as much as a lump of Earth the same size, and Saturn is lighter than water. Four planets have solid ground and four have none, though all eight formed from one cloud around one Sun. Your child drops marbles into flour to see how craters give away the age of a world, shakes a jar and watches it settle into layers as a young planet did, finds the rule that links a planet's distance to the length of its year, and walks a model where the Earth is a mustard seed. Along the way: why Mars lost its air, why a day on Venus is longer than its year, and why a message sent to a spacecraft at Mars is already many minutes old when it arrives.",
   "art": "A kitchen table with a tray of flour full of marble craters, a jar with layers of steel nuts, sand, water and oil, and a row of eight planets drawn on a long strip of paper behind them."
  },
  "intro": {
@@ -127,7 +127,7 @@
    "description": "Mercury, Venus, the Earth and Mars are small, because only rock and metal could stay solid close to the young Sun. Jupiter is about 11 times as wide as the Earth. About 1,300 Earths would fit inside it. Jupiter and Saturn are made mostly of hydrogen and helium, the same gases as the Sun. Uranus and Neptune hold a lot of water, ammonia and methane, and they are called ice giants. A giant has no surface to land on. Going down, the gas gets thicker and hotter until it is more like a hot fluid. When astronomers need a 'surface' for Jupiter, they choose the level where the air pressure equals the pressure at sea level on the Earth.",
    "examples": [
     "A spacecraft sent into Jupiter's clouds cannot land. It is crushed and heated long before it could reach anything solid.",
-    "Mars has volcanoes and canyons because it has solid ground. Olympus Mons, a volcano on Mars, is about 22 kilometres high, and Mount Everest is less than 9.",
+    "Mars has volcanoes and canyons because it has solid ground. Olympus Mons, a volcano on Mars, is about 22 kilometres high. Mount Everest is less than 9 kilometres high.",
     "All four giants have rings, though only Saturn's are bright and wide enough to see with a small telescope."
    ],
    "perspectives": [],
@@ -160,11 +160,11 @@
    "perspectives": [
     {
      "who": "Many planet scientists, including James Pollack and his team in 1996",
-     "explanation": "Core accretion. A core of rock and ice grows first, to several times the Earth's weight. Then its gravity pulls in gas from the disc and the planet swells into a giant. This fits Jupiter, which seems to have a heavy centre, and it explains why Uranus and Neptune have more ices."
+     "explanation": "This idea is called core accretion. A core of rock and ice grows first, until it is several times the Earth's weight. Then its gravity pulls in gas from the disc and the planet swells into a giant. This fits Jupiter, which seems to have a heavy centre, and it explains why Uranus and Neptune have more ices."
     },
     {
      "who": "Alan Boss, an American astronomer, in 1997",
-     "explanation": "Disc instability. A thick part of the disc may collapse under its own gravity, all at once, into a giant ball of gas. It could be faster than building a core first, which matters because the gas in a disc disappears within a few million years."
+     "explanation": "This idea is called disc instability. A thick part of the disc may collapse under its own gravity, all at once, into a giant ball of gas. This could be faster than building a core first. Speed matters, because the gas in a disc disappears within a few million years."
     }
    ],
    "art": "A young Sun in the middle of a flat disc, a dotted circle marking the frost line, small rocky lumps inside it and bigger icy lumps with gas swirling in outside it.",
@@ -196,12 +196,12 @@
    ],
    "perspectives": [],
    "art": "A cratered Moon highland next to a smooth dark Moon plain with few craters, and a magnifying glass over a big old crater cut across by a smaller newer one.",
-   "context": "This card explains why craters are used as a clock, which is the idea behind the crater tray test."
+   "context": "This card explains why craters are used as a clock, which is the idea behind the Crater Tray experiment."
   },
   {
    "concept": "How old is Lonar Lake, the crater in Maharashtra?",
    "status": "debated",
-   "description": "Lonar Lake lies near the town of Lonar in Maharashtra. It fills a round crater about 1.8 kilometres across, dug into hard volcanic rock called basalt. Basalt is the same kind of rock that makes the surface of much of the Moon's dark plains, which is why scientists study Lonar. The crater is the work of a space rock that hit long ago. The lake's salty green water and the thrown-out rock round its rim are still there. But when did it happen? Earlier studies suggested about 50,000 years ago. A later study using the rock's radioactive argon suggested around half a million years. The question matters because it shows how hard it is to date an impact even when the crater can be walked around.",
+   "description": "Lonar Lake lies near the town of Lonar in Maharashtra. It fills a round crater about 1.8 kilometres across, dug into hard volcanic rock called basalt. Much of the Moon's dark plains are made of the same kind of rock, which is why scientists study Lonar. The crater was made by a space rock that hit long ago. The lake's salty green water and the thrown-out rock round its rim are still there. But when did it happen? Earlier studies suggested about 50,000 years ago. A later study using the rock's radioactive argon suggested around half a million years. The question matters because it shows how hard it is to date an impact, even when you can walk around the crater.",
    "examples": [
     "The tests are done on tiny grains of rock that were melted by the impact. When melted rock cools, its natural radioactive clock starts again from zero.",
     "Lonar is one of very few craters in the world dug into basalt, which makes it a useful practice ground for studying the Moon and Mars.",
@@ -237,7 +237,7 @@
   {
    "concept": "Why Mars lost its air and water",
    "status": "idea",
-   "description": "Mars has dry river valleys, lake beds and rocks that formed in water. So billions of years ago it was warmer and wetter, with thicker air. Today its air is thin and cold, and its water is mostly ice. Most scientists think Mars lost much of its air to space. Mars is small, so its gravity is weak and holds gas less tightly. Mars also lost its strong magnetic field early. Without that shield, the solar wind, a stream of fast particles from the Sun, could blow the air away bit by bit. NASA's MAVEN spacecraft, which reached Mars in 2014, measured the air escaping to space. It is a good idea backed by measurements, but scientists are still working out how much of the loss came from this and how much from other causes.",
+   "description": "Mars has dry river valleys, lake beds and rocks that formed in water. So billions of years ago it was warmer and wetter, with thicker air. Today its air is thin and cold, and its water is mostly ice. Most scientists think Mars lost much of its air to space. Mars is small, so its gravity is weak and holds gas less tightly. Mars also lost its strong magnetic field early. Without that shield, the solar wind, a stream of fast particles from the Sun, could blow the air away bit by bit. NASA's MAVEN spacecraft, which reached Mars in 2014, measured the air escaping to space. So this idea is backed by measurements. But scientists are still working out how much of the loss came from the solar wind and how much from other causes.",
    "examples": [
     "The Perseverance rover is exploring a dry river delta in Jezero crater, where a lake once lay.",
     "Mars today has a pale sky and sometimes huge dust storms that cover the whole planet.",
@@ -250,10 +250,10 @@
   {
    "concept": "Orbits are ellipses, and a planet's year follows a rule",
    "status": "defined",
-   "definition": "Every planet moves round the Sun on an ellipse. A planet moves faster when it is closer to the Sun. Square a planet's year and you get the same number as when you multiply its distance by itself three times, with the year in Earth years and the distance in astronomical units.",
-   "description": "For about 2,000 years, people believed the planets must move in perfect circles. In 1609, Johannes Kepler, a German astronomer, showed that Mars moves on an oval instead. A few years later he found the rule linking distance and year. For the Earth, both numbers are 1, so the rule is easy to check. Mars is 1.52 AU from the Sun. Multiply 1.52 three times and you get about 3.5. Mars's year is 1.88 Earth years. Multiply 1.88 by itself and you also get about 3.5. The rule works for every planet, and for asteroids, comets and planets round other stars. Isaac Newton later showed that it follows from gravity getting weaker with distance. A planet's year is not the same as its day. A year is one trip round the Sun. A day is one spin on its own axis.",
+   "definition": "Every planet moves round the Sun on an ellipse. A planet moves faster when it is closer to the Sun. There is also a rule for the length of its year. Multiply the planet's year by itself. Then work out distance times distance times distance. The two answers are the same, when the year is in Earth years and the distance is in astronomical units.",
+   "description": "For about 2,000 years, people believed the planets must move in perfect circles. In 1609, Johannes Kepler, a German astronomer, showed that Mars moves on an oval instead. A few years later he found the rule linking distance and year. For the Earth, both numbers are 1, so the rule is easy to check. Mars is 1.52 astronomical units (AU) from the Sun. 1.52 times 1.52 times 1.52 is about 3.5. Mars's year is 1.88 Earth years. 1.88 times 1.88 is also about 3.5. The rule works for every planet, and for asteroids, comets and planets round other stars. Isaac Newton later showed that it follows from gravity getting weaker with distance. A planet's year is not the same as its day. A year is one trip round the Sun. A day is one spin on its own axis.",
    "examples": [
-    "Ceres, the largest object in the asteroid belt, is 2.77 AU from the Sun. Cube 2.77 and you get about 21. A year of about 4.6 Earth years squared is also about 21. That is Ceres's real year.",
+    "Ceres, the largest object in the asteroid belt, is 2.77 AU from the Sun. 2.77 times 2.77 times 2.77 is about 21. So its year, multiplied by itself, must also be about 21. That gives a year of about 4.6 Earth years, and that is Ceres's real year.",
     "A day on Venus lasts 243 Earth days, longer than its year of 225 Earth days. Venus also spins backwards compared with most planets.",
     "Mercury spins on its axis three times for every two trips round the Sun. So from sunrise to sunrise on Mercury takes 176 Earth days."
    ],
@@ -265,11 +265,11 @@
    "concept": "How big the solar system is: light-minutes and empty space",
    "status": "defined",
    "definition": "Light and radio signals travel at about 300,000 kilometres every second. Even at that speed, crossing the solar system takes minutes to hours. Almost all of the solar system is empty space.",
-   "description": "The Earth is 1 astronomical unit from the Sun, and light needs 8 minutes and 20 seconds to cross it. So the Sun you see is the Sun of 8 minutes ago. Light takes about 43 minutes to reach Jupiter, and about 4 hours to reach Neptune. A signal to Mars takes between 3 and 22 minutes, depending on where the two planets are in their orbits. A radio message to the Voyager 1 spacecraft, the farthest thing people have sent into space, takes close to a day. So a rover on Mars cannot be driven with a joystick from the Earth. It is given a plan, and it uses its own cameras and computer to avoid danger. In a model with the Sun as a 14-centimetre ball, the Earth is a mustard seed 15 metres away, and Neptune is about 450 metres away. Between the planets there is almost nothing.",
+   "description": "The Earth is 1 astronomical unit from the Sun, and light needs 8 minutes and 20 seconds to cross that distance. So the Sun you see is the Sun of 8 minutes ago. Light takes about 43 minutes to reach Jupiter, and about 4 hours to reach Neptune. A signal to Mars takes between 3 and 22 minutes, depending on where the two planets are in their orbits. A radio message to the Voyager 1 spacecraft, the farthest thing people have sent into space, takes close to a day. So a rover on Mars cannot be driven with a joystick from the Earth. It is given a plan, and it uses its own cameras and computer to avoid danger. In a model with the Sun as a 14-centimetre ball, the Earth is a mustard seed 15 metres away, and Neptune is about 450 metres away. Between the planets there is almost nothing.",
    "examples": [
     "When Mangalyaan fired its main engine to enter orbit round Mars in 2014, the signal confirming it took about 12 minutes to reach the Earth.",
     "If the Sun were switched off now, we would see it shining for 8 more minutes and 20 seconds.",
-    "In a 1 to 10 billion model, the nearest star after the Sun would be about 4,000 kilometres away, further than the length of India."
+    "In a model where everything is 10 billion times smaller than the real thing, the nearest star after the Sun would be about 4,000 kilometres away. That is further than the length of India."
    ],
    "perspectives": [],
    "art": "The Sun at the left with clocks marking the light travel time at each planet, from 3 minutes at Mercury to 4 hours at Neptune, and a tiny spacecraft far to the right.",
@@ -279,7 +279,7 @@
  "agreed": [
   {
    "text": "The four inner planets are small and rocky, and the four outer planets are giants with no solid ground.",
-   "evidence": "Spacecraft have landed on Venus and Mars and orbited every planet. Weighing each planet by the pull on its moons or on passing spacecraft, and measuring its size, gives its density, which separates rock from gas."
+   "evidence": "Spacecraft have landed on Venus and Mars and orbited every planet. Scientists weigh each planet by its pull on its moons or on passing spacecraft, and they measure its size. Together these give its density, which tells rock from gas."
   },
   {
    "text": "Saturn is less dense than water, and the Earth is the densest planet.",
@@ -298,7 +298,7 @@
    "evidence": "Spacecraft that landed on Venus measured about 460 degrees Celsius and an air pressure about 90 times the Earth's. Mercury, closer to the Sun, has almost no air to trap heat."
   },
   {
-   "text": "For every planet, the square of its year equals the cube of its distance from the Sun, in Earth years and astronomical units.",
+   "text": "For every planet, year times year equals distance times distance times distance, with the year in Earth years and the distance from the Sun in astronomical units.",
    "evidence": "Kepler found the rule in 1619 from measurements by Tycho Brahe. It has been checked on every planet, on asteroids and comets, and on planets round other stars."
   },
   {
@@ -311,7 +311,7 @@
    "claim": "The planets must travel in perfect circles.",
    "who": "Astronomers from ancient Greece until about 1600, including Aristotle, Ptolemy and Copernicus, and Kepler at first",
    "for": "A circle seemed the most perfect shape, and the heavens were thought to be perfect. A circle also matches what we see for most planets, which move on paths very close to circles.",
-   "against": "Tycho Brahe measured the position of Mars so carefully that it was off the circle by about a quarter of the width of the Moon. Kepler could not ignore that, and in 1609 he showed that Mars moves on an oval.",
+   "against": "Tycho Brahe measured the position of Mars very carefully. His measurements put Mars off the circle by about a quarter of the width of the Moon. Kepler could not ignore that, and in 1609 he showed that Mars moves on an oval.",
    "status": "rejected",
    "context": "This card is about a belief that lasted about 2,000 years and what finally ended it."
   },
@@ -321,7 +321,7 @@
    "for": "The Moon has volcanic plains, and some volcanoes on the Earth have round craters.",
    "against": "In 1893 Grove Karl Gilbert, an American geologist, argued that Moon craters were made by impacts, and he tested it by shooting clay balls into soft clay. Real volcano craters are mostly at the tops of cones, while Moon craters are shallow bowls with raised rims. In 1960 Eugene Shoemaker found impact-shocked rock at Meteor Crater in Arizona.",
    "status": "rejected",
-   "context": "This card is about a long argument over where craters come from. The crater tray test is a small version of Gilbert's experiment."
+   "context": "This card is about a long argument over where craters come from. The Crater Tray experiment, where you drop a marble into flour, is a small version of Gilbert's experiment."
   },
   {
    "claim": "Mars has canals built by clever Martians.",
@@ -382,7 +382,7 @@
   {
    "q": "Some scientists once said Jupiter's gravity protects the Earth from comets. Others say it also throws some towards us. How could you test either idea?",
    "kind": "deep",
-   "hint": "You cannot run it again. What could you do instead, using computer models or craters?"
+   "hint": "You cannot run the history of the solar system a second time. What could you do instead, using computer models or craters?"
   },
   {
    "q": "Jupiter has no surface. So where does the planet stop and space begin?",
@@ -413,7 +413,7 @@
    "Amma phoned at nine, hoarse and happy. 'We waited over half an hour for something that had already happened,' she said. 'Did you know the Earth and Mars have a delay?' 'Twelve and a half minutes, Amma,' said Kavya. 'I worked it out on the newspaper.' There was a pause. 'Did you?' said her mother.",
    "Later, Kavya stood at the window. The Sun was high over the neem tree. She remembered that its light, too, had left it eight minutes ago. She waved at it anyway."
   ],
-  "epiphany": "For the parent: light and radio signals travel fast but not instantly. Across the solar system they take minutes to hours, so a message to Mars is old when it arrives, and a spacecraft far away must act on its own. Kavya works out the delay by dividing a distance by a speed. The idea in the story's turn is that the burn had already succeeded or failed before anyone on the Earth could know. What we see of a faraway place is always a record of the past.",
+  "epiphany": "For the parent: light and radio signals travel fast but not instantly. Across the solar system they take minutes to hours, so a message to Mars is old when it arrives, and a spacecraft far away must act on its own. Kavya works out the delay by dividing a distance by a speed. The key idea in the story is that the burn had already succeeded or failed before anyone on the Earth could know. What we see of a faraway place is always a record of the past.",
   "ask": [
    "Why could Amma's team not simply press stop if the engine went wrong?",
    "How did Kavya work out that a message to Mars takes about twelve and a half minutes?",
@@ -430,16 +430,16 @@
  "roots": {
   "context": "We have looked at craters, layers, air, orbits and the long delays of light. Now we ask what these tell us about what a world is, and about ourselves.",
   "deep_truth": {
-   "truth": "In the crater tray, each drop left a dent, and newer dents cut into older ones. So the dents told you which hit came first. The Moon and Mercury keep theirs for billions of years, but Earth's rain, wind and moving ground erase most. So a planet's face is a diary, and a lively planet keeps rewriting it.",
+   "truth": "In the Crater Tray experiment, each marble dropped into the flour left a dent, and newer dents cut into older ones. So the dents told you which hit came first. The Moon and Mercury keep their craters for billions of years, but the Earth's rain, wind and moving ground erase most of its craters. So a planet's surface is a record of what has happened to it, and an active planet like the Earth keeps wiping that record and starting again.",
    "habit": "We think of a world as a finished object that simply is the way it looks now. But a surface is a record of what has happened to a world, and of how much that world can wipe out and begin again.",
-   "evidence": "In the tray, a later crater cut through an earlier one, so the order could be read. When you sifted flour over the tray, the older craters were softened first. On the Moon, the crowded highlands are more than 4 billion years old, while the Earth has fewer than 200 known craters."
+   "evidence": "In the Crater Tray experiment, a later crater cut through an earlier one, so the order could be read. When you sifted flour over the tray, the older craters were softened first. On the Moon, the crowded highlands are more than 4 billion years old, while the Earth has fewer than 200 known craters."
   },
   "three": {
    "who_am_i": "Your body also keeps a record and renews itself. A scar stays, but most of your skin is replaced over weeks. You live on a planet that does the same with its surface.",
    "what_is_life": "A world with moving ground, water and living things wipes out its old craters. A living thing also rebuilds itself all the time. Neither the Earth nor a living body stays the same for long.",
    "what_is_this_world": "Every planet began from one cloud, and each has had a different history. The Moon kept its history. The Earth turned its into soil, seas and living things."
   },
-  "thread": "A planet is not only a place. It is something that has happened, and is still happening. The Moon is like a diary left open on a shelf, with every old entry still there. The Earth is more like a diary that someone keeps rewriting. Its rain smooths out its craters, its plates carry old rock down and push new rock up, and its living things take old material and make it into new forms. What looks like permanence on the Moon is only the lack of anything that changes it. What looks like loss on the Earth is the same energy, put to use again. A surface tells you how much its world is still alive.",
+  "thread": "A planet is not only a place. It is also everything that has happened to it, and things are still happening. The Moon is like a diary where every old entry is still there. The Earth is like a diary that keeps being rewritten. Its rain smooths out its craters, its plates carry old rock down and push new rock up, and its living things turn old material into new forms. The Moon keeps its craters only because nothing there changes them. The Earth loses its craters because so much is still going on there. So a surface tells you how active its world still is.",
   "teachings": [
    {
     "source": "Tirukkural 336",
@@ -632,7 +632,7 @@
     }
    ],
    "rules": [
-    "Cut out the 8-space planet row and the 24 cards. Shuffle the cards and put them in a face-down pile, clue side up.",
+    "Cut out the 8-space planet row and the 24 cards. Shuffle the cards and put them in a pile with the clue side up.",
     "One player is the reader. The reader takes the top card and reads the clue aloud. The reader does not show the back.",
     "The other players think for a few seconds. Then the reader counts down: 3, 2, 1, show! Everyone holds up as many fingers as the planet's number in the row, from 1 for Mercury to 8 for Neptune.",
     "The reader turns the card over and reads the answer. A player who shows the right number scores 2 points.",
@@ -689,7 +689,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Play the rest of the cards you have time for. Keep score on a piece of paper.",
-     "say": "Keep going. Your turn to read the clue. Can you read it so well that nobody can guess too soon?",
+     "say": "Keep going. It is your turn to read the clue. Read it slowly and clearly.",
      "kid": "Take turns to be the reader. Keep the score. Try to read each clue clearly.",
      "parent": "Younger children can win by getting the number right. Older children can add the rocky or giant answer and a reason."
     },
@@ -722,7 +722,7 @@
    "days": 1,
    "question": "When a marble is dropped from higher up, how much wider is the crater it digs? And when one crater lands on another, how can you tell which came first?",
    "predict": "Before you start, guess. If you drop a marble from 8 times as high, will the crater be 8 times as wide, about twice as wide, or only a little wider? Why do you think so?",
-   "fair_test": "Use the same marble, the same tray, and flour of the same depth, smoothed flat before every drop. Drop the marble gently from a measured height, never throw it. Only the drop height changes, so any change in the crater comes from the height. Drop three times from each height, because one drop can be a fluke.",
+   "fair_test": "Use the same marble, the same tray, and flour of the same depth, smoothed flat before every drop. Let the marble fall from a measured height. Never throw it. Only the drop height changes, so any change in the crater comes from the height. Drop three times from each height, because one drop can be a fluke.",
    "results_table": [
     "Drop height (cm)",
     "Width of crater 1 (cm)",
@@ -770,7 +770,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Prepare the tray. Drop the marble from 10, 20, 40 and 80 centimetres, three times each. Read the order of three overlapping craters. Then soften them with flour 'weather'."
+     "what": "Make your guess and prepare the tray. Drop the marble from 10, 20, 40 and 80 centimetres, three times each. Then make three overlapping craters and work out which came first. Last, sift fresh flour over half the tray as 'weather' and see how the craters soften."
     }
    ],
    "record": "Fill in the results table. Then draw a bar chart with one bar for each height, using the average width. Sketch the three overlapping craters and write which came first.",
@@ -844,7 +844,7 @@
      "mins": 4,
      "do": "Show your child the tray, the marble and the ruler. Ask for the guess and the reason. Write both down at the top of the table.",
      "say": "The marble is a rock from space. The flour is the ground of a planet. If I drop the marble from 8 times as high, how much wider will the crater be? Why do you think so?",
-     "kid": "The marble is a space rock. If you drop it from 8 times higher, how wide is the crater? Guess. Say why.",
+     "kid": "The marble is a space rock. If you drop it from 8 times as high, how much wider will the crater be? Guess. Say why.",
      "ask": [
       {
        "q": "Why do you think the crater will be that much wider?",
@@ -873,17 +873,17 @@
      "do": "Stand a metre scale beside the tray. Hold the marble at 10 centimetres above the flour and let go. Lay the ruler across the crater and read its width from rim to rim. Lift the marble out with a spoon. Smooth the flour, dust it again, and repeat. Do 3 drops at 10 centimetres, then 3 at 20, 3 at 40 and 3 at 80.",
      "say": "Hold the marble high, then let it go. Do not push it. Read the width across the middle. Write the number down. Then smooth the flour again.",
      "kid": "Drop the marble from 10 centimetres. Measure the crater. Smooth the flour. Do it three times.",
-     "parent": "Working alone with a grown-up: you drop and measure, they smooth the flour and write the numbers. With 2 to 4 children: one drops, one measures, one smooths and dusts, one writes, and swap after each height; each pair of children can run its own tray if you have two. Expect the craters to grow slowly. At 10 centimetres you may see about 3 centimetres wide, and at 80 centimetres about 4.5. Your numbers may differ by a centimetre or so. What matters is the pattern. Typical results only: your numbers may differ, and a damp tray or a different marble will change them. Measure from the top of the rim on one side to the top of the rim on the other.",
+     "parent": "With one child: the child drops and measures, and you smooth the flour and write the numbers. With 2 to 4 children: one drops, one measures, one smooths and dusts, and one writes. They swap jobs after each height. If you have two trays, each pair of children can run its own. Expect the craters to grow slowly. At 10 centimetres the crater may be about 3 centimetres wide, and at 80 centimetres about 4.5. These are typical results only. Your numbers may differ by a centimetre or so, and a damp tray or a different marble will change them. What matters is the pattern. Measure from the top of the rim on one side to the top of the rim on the other.",
      "check": {
       "t": "mcq",
-      "q": "A marble dropped from 8 times as high made a crater only about one and a half times as wide. What does this tell you?",
+      "q": "A marble dropped from 8 times as high hits the flour faster. Its crater was only about one and a half times as wide. What does this tell you?",
       "options": [
-       "Crater width grows with the speed of the hit, but much more slowly",
-       "Crater width does not depend on the speed at all",
-       "Crater width grows exactly 8 times"
+       "A faster hit makes a wider crater, but only a little wider",
+       "The speed of the hit makes no difference to the width",
+       "The crater becomes exactly 8 times as wide"
       ],
       "a": 0,
-      "why": "The widths did go up each time, so speed matters. But the crater grew only a little. Picking 'does not depend' ignores the numbers, and picking 'exactly 8 times' is the natural guess that the tray did not support."
+      "why": "The widths did go up each time, so speed matters. But the crater grew only a little. Saying that speed makes no difference ignores the numbers. 'Exactly 8 times as wide' is the natural guess, but the tray did not show it."
      }
     },
     {
@@ -898,7 +898,7 @@
       "q": "Crater A has a complete round rim. Crater B's rim cuts into A, so a piece of A's rim is missing. Which crater is older?",
       "options": [
        "Crater A, because B cut into it",
-       "Crater B, because it is cut into A",
+       "Crater B, because it cuts into A",
        "You cannot tell which is older"
       ],
       "a": 0,
@@ -909,7 +909,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Take the sieve and shake a thin layer of fresh flour over half of the tray, to be 'weather'. Leave the other half alone. Compare the craters in the two halves.",
+     "do": "Take the sieve and shake a thin layer of fresh flour over half of the tray. This is the 'weather'. Leave the other half alone. Compare the craters in the two halves.",
      "say": "Half of this tray has had weather. Look at the craters in each half. Which craters are sharper? Which are softer? What could the Earth do that the Moon cannot?",
      "kid": "Sift some flour over half the tray. Look at both halves. Which craters are sharper?",
      "ask": [
@@ -929,7 +929,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see in the tray? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a faster rock digs a wider crater, but only a little wider, and the order of craters can be read. What I saw: from 10 centimetres the average was about 3 centimetres and from 80 centimetres about 4.5. A crater with a cut rim was older. Why: a hit throws flour out in all directions, and a later hit destroys whatever is in its way. The Moon has no weather, so it keeps every crater. Counting craters is how scientists date a surface."
     }
    ]
@@ -977,12 +977,12 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes along if the test is on a balcony or terrace. Keep tumblers away from the edge. Do not touch a tumbler that has been in strong sun without checking that it is not hot. Plastic tumblers are safer than glass. Never look straight at the Sun.",
+   "safety": "A grown-up must be there if the test is on a balcony or terrace. Keep tumblers away from the edge. Do not touch a tumbler that has been in strong sun without checking that it is not hot. Plastic tumblers are safer than glass. Never look straight at the Sun.",
    "schedule": [
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Put three ice cubes in each tumbler, cover one with film, and place both in the sun. Check every 5 minutes. Repeat once if you have time."
+     "what": "Make your guess. Put three ice cubes in each tumbler, cover one with film, and place both in the sun. Check every 5 minutes. Repeat once if you have time."
     }
    ],
    "record": "Fill in the results table. Draw the two tumblers at the end of the test. Write which melted first and by how many minutes.",
@@ -1067,7 +1067,7 @@
      "do": "Stand the two tumblers on the black paper. Put three ice cubes in each. Stretch cling film over one tumbler. Hold it with a rubber band. Carry both to the sunny spot together.",
      "say": "The black paper soaks up sunlight, so the tumblers get a good share of it. The film is our blanket of air. Carry them out together, side by side.",
      "kid": "Put ice in both tumblers. Cover one with film. Carry both into the sun.",
-     "parent": "Take the ice straight from the freezer and set up quickly, so the ice has not already started melting. Place the tumblers an arm's length apart, so one does not shade the other. Working alone: you watch both tumblers and your grown-up keeps time. With 2 to 4 children: one child looks after each tumbler, one keeps the clock and one writes. Two tumblers are enough for any group.",
+     "parent": "Take the ice straight from the freezer and set up quickly, so the ice has not already started melting. Place the tumblers an arm's length apart, so one does not shade the other. With one child: the child watches both tumblers and you keep time. With 2 to 4 children: one child looks after each tumbler, one keeps the clock and one writes. Two tumblers are enough for any group.",
      "context": "In this step you set up both tumblers in the same sunshine."
     },
     {
@@ -1077,7 +1077,7 @@
      "say": "Look closely at both tumblers. How much ice is left in each? Write it down. We check again in 5 minutes.",
      "kid": "Every 5 minutes, look at both. How much ice is left? Write it down.",
      "adult": true,
-     "parent": "Expect the ice in the covered tumbler to melt a little sooner, often by a few minutes. If both seem equal, repeat the test with 4 cubes each, or on a hotter, sunnier day. A cloudy or rainy day will not work, so choose a bright day around noon. Droplets inside the film are normal. If the covered ice melts later, say so honestly, and check that the film did not touch the ice or shade it. If there is no direct sun today, try another day. The result can be small, and a small difference is still a finding."
+     "parent": "Choose a bright day around noon. A cloudy or rainy day will not work, so if there is no direct sun today, try another day. Expect the ice in the covered tumbler to melt a little sooner, often by a few minutes. Droplets inside the film are normal. If both seem equal, repeat the test with 4 cubes each, or on a hotter, sunnier day. If the covered ice melts later, say so honestly, and check that the film did not touch the ice or shade it. The result can be small, and a small difference is still a finding."
     },
     {
      "id": "s4",
@@ -1094,16 +1094,16 @@
        "The ice in the covered tumbler was a different kind"
       ],
       "a": 0,
-      "why": "Sunlight passes through the clear film and warms the paper and the air. The film stops the warm air from flowing away, so the inside gets hotter. The film does not make sunshine, and a fair test uses the same ice. If you picked the third, check that you used cubes from the same tray."
+      "why": "Sunlight passes through the clear film and warms the paper and the air. The film stops the warm air from flowing away, so the inside gets hotter. The film does not make sunshine, and a fair test uses the same ice. If you picked 'a different kind', check that you used cubes from the same tray."
      },
-     "parent": " A digital fever thermometer reads only above about 32 degrees Celsius. Stop if it shows HI."
+     "parent": "A digital fever thermometer reads only above about 32 degrees Celsius. Stop if it shows HI."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Ask your child to say or write what I think, what I saw, and why. Then tell your child how this is like Venus.",
+     "do": "Ask your child to say or write three things: what they think now, what they saw, and why they think it happened. Then tell your child how this is like Venus.",
      "say": "Tell me three things. What do you think now? What did you see? Why do you think it happened? Venus is like the covered tumbler, with a thick blanket of air round it.",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a cover makes things warmer. What I saw: the covered tumbler's ice melted first, by a few minutes (your gap may be larger or smaller). Why: the film stopped warm air from leaving. Be honest that this is only a model. A lid stops warm air from rising away. On Venus, the gas carbon dioxide slows down heat rays on their way out. The two work differently in detail, but both act like a blanket."
     }
    ]
@@ -1145,10 +1145,10 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess. Make the Sun and the planets to the same scale. Measure your step. Walk to Mercury, Venus, the Earth and Mars. Work out where the giants would be."
+     "what": "Guess how far the Earth should be from the Sun. Make the Sun and the planets to the same scale. Measure your step. Walk to Mercury, Venus, the Earth and Mars. Work out where the giants would be."
     }
    ],
-   "record": "A table with each planet, its size in this model, its distance in metres and its distance in your steps. Draw the row of planets with the Sun, and mark how far away the nearest star would be.",
+   "record": "Make a table with each planet, its size in this model, its distance in metres and its distance in your steps. Draw the row of planets with the Sun, and mark how far away the nearest star would be.",
    "context": "In this activity you build a model of the solar system where the sizes and the distances are both shrunk by the same amount. It shows how small the planets are and how far apart.",
    "setup": [
     {
@@ -1186,15 +1186,15 @@
       }
      ],
      "parent": "Do not correct the guess. Most people guess a few steps. The real answer is about 30 steps for a child.",
-     "context": "This is the first step of the Walk the Solar System. You guess how far apart the Sun and the Earth should be."
+     "context": "This is the first step of the Walk the Solar System activity. You guess how far apart the Sun and the Earth should be."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Cut a Sun disc 14 centimetres wide. Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape and measure how far you went. Divide by 10 to find the length of one step.",
+     "do": "Cut a Sun disc 14 centimetres wide. Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape measure and read how far you went. Divide by 10 to find the length of one step.",
      "say": "In this model, 1 millimetre stands for 10,000 kilometres. So the Sun is 14 centimetres, the Earth is about 1 millimetre, and Jupiter is 14 millimetres. Now find how long your step is.",
-     "kid": "Make the Sun and the planets. Walk 10 steps. Measure. Divide by 10 for one step.",
-     "parent": "A grown-up helps with the scissors. Working alone with a grown-up: you walk and count, they tape the planets down. With 2 to 4 children: one walks and counts steps, one holds the tape, one places and labels the planets, one writes the table, and all take turns being the walker. Each child can make a different planet. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.",
+     "kid": "Make the Sun and the planets. Walk 10 steps and measure how far you went. Divide by 10 to get the length of one step.",
+     "parent": "A grown-up helps with the scissors. With one child: the child walks and counts, and you tape the planets down. With 2 to 4 children: one walks and counts steps, one holds the tape, one places and labels the planets, and one writes the table. All take turns being the walker. Each child can make a different planet. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.",
      "context": "In this step you make the model and measure your step."
     },
     {
@@ -1213,12 +1213,12 @@
        ]
       }
      ],
-     "parent": "Most homes are shorter than 25 metres, so a terrace, a school ground, a park path or a flat roof is better than a corridor. If you only have a short corridor, do Mercury, Venus and the Earth, and calculate Mars. For the outer planets, the distances are Jupiter 78 metres, Saturn 143 metres, Uranus 287 metres and Neptune 450 metres. That is like 4 cricket pitches to Jupiter, and about 4 football grounds in a row to Neptune. A walk along a quiet road or a school ground works if you have one. Go with a grown-up, stay off the road and away from traffic."
+     "parent": "Most homes are shorter than 25 metres, so a terrace, a school ground, a park path or a flat roof is better than a corridor. If you only have a short corridor, do Mercury, Venus and the Earth, and calculate Mars. For the outer planets, the distances are Jupiter 78 metres, Saturn 143 metres, Uranus 287 metres and Neptune 450 metres. That is like 4 cricket pitches to Jupiter, and about 4 football grounds in a row to Neptune. You can walk these beside a quiet road or on a school ground, if you have one. Go with your child, and keep off the road and away from traffic."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Show your child the next idea. The Earth is 15 metres from the Sun in this model. Tell your child the nearest star after the Sun would be about 4,000 kilometres away. Ask where that would be, using a map of India.",
+     "do": "Remind your child that the Earth is 15 metres from the Sun in this model. Tell them the nearest star after the Sun would be about 4,000 kilometres away. Ask where that would be, using a map of India.",
      "say": "In this model the nearest other star is about 4,000 kilometres away. India is about 3,200 kilometres long, from Kashmir to Kanyakumari. So that star is further than the whole length of India. What is in all that space?",
      "kid": "The nearest star would be 4,000 kilometres away. That is more than the length of India!",
      "check": {
@@ -1237,7 +1237,7 @@
      "id": "s5",
      "mins": 2,
      "do": "Ask your child to draw the row of planets from the Sun, with distances. Ask what they would tell a friend who has only seen book pictures.",
-     "say": "What would you tell a friend who thinks the planets are close together like in the book?",
+     "say": "What would you tell a friend who thinks the planets are close together, the way books draw them?",
      "kid": "Draw your row of planets. What would you tell a friend about the space between them?",
      "ask": [
       {
@@ -1275,7 +1275,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess if a planet 4 times as far has a year 4 times as long. Test two ideas on real data. Find the rule. Use it to predict the year of Ceres."
+     "what": "Guess whether a planet 4 times as far from the Sun has a year 4 times as long. Test two ideas on real data. Find the rule. Use it to predict the year of Ceres."
     }
    ],
    "record": "A table with each planet's distance, year, the result of Test 1 and the result of Test 2. Write down which test worked, and the year you predicted for Ceres.",
@@ -1298,7 +1298,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Write out the table for your child. Distances in AU and years: Earth 1 and 1. Mars 1.52 and 1.88. Jupiter 5.2 and 11.86. Saturn 9.54 and 29.46. Ask for a guess.",
+     "do": "Write this table for your child, with each planet's distance from the Sun in astronomical units (AU) and its year in Earth years. Earth: 1 and 1. Mars: 1.52 and 1.88. Jupiter: 5.2 and 11.86. Saturn: 9.54 and 29.46. Then ask for a guess.",
      "say": "The Earth is 1 unit from the Sun and has a year of 1. Jupiter is about 5 times as far. Will its year be 5 times as long? Why do you think so?",
      "kid": "Jupiter is 5 times as far as Earth. Is its year 5 times as long? Guess. Why?",
      "ask": [
@@ -1311,33 +1311,33 @@
        ]
       }
      ],
-     "parent": "Many children guess 5 times. The real year is 11.86 Earth years, more than twice as long as the guess. Do not give this away yet. Working alone: your child does all the sums. With 2 to 4 children: each child takes one planet for Test 1 and Test 2, then everyone shares answers on one table; only one phone calculator is needed. Nothing here needs more than a calculator and paper.",
-     "context": "This is the first step of the Planet Data Detective. You guess how a planet's year depends on its distance."
+     "parent": "Many children guess 5 times. The real year is 11.86 Earth years, more than twice as long as that guess. Do not give this away yet. With one child: your child does all the sums. With 2 to 4 children: each child takes one planet for Test 1 and Test 2, and then everyone shares answers on one table. All you need is paper and one phone calculator.",
+     "context": "This is the first step of the Planet Data Detective activity. You guess how a planet's year depends on its distance."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "Test 1. For Mars, Jupiter and Saturn, divide the year by the distance on the calculator. Write the three answers in the table. Look to see if they are the same.",
-     "say": "If the year were just in step with the distance, dividing one by the other would give the same number each time. Mars gives 1.24. What do Jupiter and Saturn give?",
+     "say": "If a planet twice as far had a year twice as long, dividing the year by the distance would give the same number each time. Mars gives 1.24. What do Jupiter and Saturn give?",
      "kid": "Divide each planet's year by its distance. Are the answers all the same?",
      "parent": "Expect about 1.24 for Mars, 2.28 for Jupiter and 3.09 for Saturn. They are not the same. So the first idea fails. This is fine. Scientists often find that their first idea does not work, and that is how they learn.",
      "check": {
       "t": "mcq",
       "q": "Dividing the year by the distance gave 1.24, 2.28 and 3.09. What does this show?",
       "options": [
-       "The year is not simply in step with the distance, so the rule must be something else",
+       "The year does not grow at the same rate as the distance, so the rule must be something else",
        "The planets are the same",
        "The calculator is wrong"
       ],
       "a": 0,
-      "why": "If the year grew in step with the distance, the answers would match. They do not, so the pattern is not that simple. If you picked 'calculator is wrong', try it again. The numbers will come out the same."
+      "why": "If the year grew at the same rate as the distance, the three answers would match. They do not, so the pattern is not that simple. If you picked 'the calculator is wrong', try it again. The numbers will come out the same."
      }
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "Test 2. For each planet, multiply the distance by itself three times (for Mars, 1.52 x 1.52 x 1.52). Then multiply the year by itself once. Write both answers side by side. For the Earth both are 1. Compare the two numbers for Mars, Jupiter and Saturn.",
-     "say": "Multiply the distance by itself three times. For Mars, 1.52 times 1.52 times 1.52 gives about 3.5. Now multiply its year, 1.88, by itself. What do you get? Is it close?",
+     "do": "Test 2. For each planet, work out distance x distance x distance (for Mars, 1.52 x 1.52 x 1.52). Then work out year x year. Write both answers side by side. For the Earth both are 1. Compare the two numbers for Mars, Jupiter and Saturn.",
+     "say": "Work out distance times distance times distance. For Mars, 1.52 times 1.52 times 1.52 gives about 3.5. Now multiply its year, 1.88, by itself. What do you get? Is it close?",
      "kid": "Distance times distance times distance. Year times year. Do the two numbers match?",
      "parent": "Expect Mars 3.5 and 3.5. Jupiter 140.6 and 140.7. Saturn 868 and 868. The answers match to three figures. This is Kepler's rule, found in 1619. The small differences come from rounding. Make sure your child keys in the multiplication one step at a time.",
      "ask": [
@@ -1345,7 +1345,7 @@
        "q": "What do you notice about the two numbers for each planet?",
        "good": [
         "They are almost the same.",
-        "The year squared matches the distance cubed.",
+        "Year times year matches distance times distance times distance.",
         "The rule works for every planet."
        ]
       }
@@ -1354,18 +1354,18 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Give your child the distance of Ceres, 2.77 AU. Ask them to cube it and then find a number that multiplied by itself gives the same answer. Let them try by guess and check.",
-     "say": "Ceres is a small world in the asteroid belt. It is 2.77 units from the Sun. Cube that number. What number times itself makes the same answer? That should be its year.",
-     "kid": "Ceres is 2.77 units out. Cube it. Find a number that times itself gives your answer.",
-     "parent": "2.77 cubed is about 21.25. Try 4 times 4, which is 16, then 4.5 times 4.5, which is 20.25, then 4.6 times 4.6, which is 21.16. So the year is about 4.6 Earth years, and that is Ceres's real year. Your child has just predicted something about a world far away with just a pencil and one rule. A spacecraft, Dawn, later visited Ceres and its year agrees."
+     "do": "Give your child the distance of Ceres, 2.77 AU. Ask them to work out 2.77 x 2.77 x 2.77. Then ask them to find a number that, multiplied by itself, gives the same answer. Let them guess and check.",
+     "say": "Ceres is a small world in the asteroid belt. It is 2.77 units from the Sun. Work out 2.77 times 2.77 times 2.77. What number times itself gives the same answer? That number should be its year.",
+     "kid": "Ceres is 2.77 units from the Sun. Work out 2.77 times 2.77 times 2.77. Then find a number that, times itself, gives the same answer.",
+     "parent": "2.77 times 2.77 times 2.77 is about 21.25. Try 4 times 4, which is 16, then 4.5 times 4.5, which is 20.25, then 4.6 times 4.6, which is 21.16. So the year is about 4.6 Earth years, and that is Ceres's real year. Your child has just predicted something about a faraway world with only a pencil and one rule. The spacecraft Dawn later visited Ceres, and Ceres's year does match."
     },
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child to say or write three things. What I think. What I saw. Why.",
+     "do": "Ask your child to say or write three things: what they think now, what they found in the numbers, and why they think the rule works.",
      "say": "Tell me three things. What do you think now? What did you find in the numbers? And why do you think the rule works for every planet?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: a planet's year grows faster than its distance. What I saw: dividing did not work, but year times year matched distance times itself three times. Why: the Sun's gravity is weaker far away, so distant planets move slowly as well as travelling further. Isaac Newton later showed this rule follows from gravity."
+     "kid": "Say or write three things: what you think now, what you found in the numbers, and why you think the rule works.",
+     "parent": "A good answer sounds like this. What I think: a planet's year grows faster than its distance. What I saw: dividing did not work, but year times year matched distance times distance times distance. Why: the Sun's gravity is weaker far away, so distant planets move slowly as well as travelling further. Isaac Newton later showed this rule follows from gravity."
     }
    ]
   },
@@ -1396,7 +1396,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Lay out a rock course. One person is the rover, with eyes closed, and one is Mission Control. Try step-by-step control, then a full plan, then a plan with the rover's own rules."
+     "what": "Lay out a course with cushions as rocks. One person is the rover, with eyes closed, and one is Mission Control. Try step-by-step control, then a full plan, then a plan with the rover's own rules."
     }
    ],
    "record": "A table of the three rounds, with the number of messages, the Mars minutes used and the number of bumps. Write which round was best and why.",
@@ -1419,7 +1419,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Lay out the course with six cushions between a start line and the spoon, which are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way on average. Each message and its reply cost about 25 minutes in this game. This is the Mars minutes tally.",
+     "do": "Lay out the course with six cushions between a start line and a spoon, which the rover must reach. The start line and the spoon are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way on average. In this game, each message and its reply cost about 25 minutes. You keep a tally of these 'Mars minutes'.",
      "say": "A rover on Mars has a camera, but Mission Control on the Earth gets its answers late. Each message and answer takes about 25 minutes. We will count those Mars minutes.",
      "kid": "You are the rover on Mars. Close your eyes. Your helper is Mission Control.",
      "adult": true,
@@ -1452,7 +1452,7 @@
        ]
       }
      ],
-     "parent": "A small error in the first steps grows over a long plan, so bumps are common. This is real. Rover planners send plans of only a few metres at a time."
+     "parent": "A small error in the first steps grows over a long plan, so bumps are common. The same happens with real rovers. Their planners send plans of only a few metres at a time."
     },
     {
      "id": "s4",
@@ -1470,7 +1470,7 @@
        "There is nobody on the Earth who can drive them"
       ],
       "a": 0,
-      "why": "Messages take minutes to cross the gap, and replies take as long again. A rover that waited for every command would drive a few metres a day. So the rover gets a plan, and uses its own camera and computer to avoid danger. If you picked the third, remember that Mission Control plans every drive."
+      "why": "Messages take minutes to cross the gap, and replies take as long again. A rover that waited for every command would drive a few metres a day. So the rover gets a plan, and uses its own camera and computer to avoid danger. If you picked 'nobody on the Earth can drive them', remember that Mission Control plans every drive."
      }
     }
    ]
@@ -1547,7 +1547,7 @@
       }
      ],
      "parent": "Do not correct the guess. Any guess with a reason is a good start.",
-     "context": "This is the first step of the Planet in a Jar. You guess before you test."
+     "context": "This is the first step of the Planet in a Jar activity. You guess before you test."
     },
     {
      "id": "s2",
@@ -1565,7 +1565,7 @@
      "do": "Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Draw what you see each time. Write the minute when the nuts land, the sand settles and the oil clears. Label the layers from the bottom to the top.",
      "say": "Watch carefully. What is happening to the nuts? To the sand? To the oil? What order are the layers in?",
      "kid": "Watch the jar. Draw it after 1 minute. Draw it again after 5. Draw it again after 10.",
-     "parent": "The nuts fall at once. The sand follows in seconds and settles in a layer. The water clears slowly as the finest sand sinks. The oil drops rise and join into a layer on top after a few minutes. Working alone: you shake and draw, your grown-up keeps time. With 2 to 4 children: give each child their own bottle and compare how fast each layer settles, or let each child try a different material. If the oil stays cloudy after 10 minutes, wait a little longer.",
+     "parent": "The nuts fall at once. The sand follows in seconds and settles in a layer. The water clears slowly as the finest sand sinks. The oil drops rise and join into a layer on top after a few minutes. With one child: the child shakes and draws, and you keep time. With 2 to 4 children: give each child their own bottle and compare how fast each layer settles, or let each child try a different material. If the oil stays cloudy after 10 minutes, wait a little longer.",
      "check": {
       "t": "mcq",
       "q": "After settling, which layer was at the bottom of the jar, and which was at the top?",
@@ -1594,14 +1594,14 @@
        ]
       }
      ],
-     "parent": "A young rocky planet was very hot from its formation, so its rock and metal were partly melted. Heavy iron sank to the middle, and lighter rock floated above it. This took millions of years, not minutes. This is a good model for the order of layers, but it is not a model of the time it took."
+     "parent": "A young rocky planet was very hot from its formation, so its rock and metal were partly melted. Heavy iron sank to the middle, and lighter rock floated above it. This took millions of years, not minutes. The jar is a good model for the order of the layers, but not for the time it took."
     },
     {
      "id": "s5",
      "mins": 1,
-     "do": "Ask your child to say or write three things. What I think. What I saw. Why.",
+     "do": "Ask your child to say or write three things: what they think now, what they saw in the jar, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see in the jar? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw in the jar, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: the densest stuff sinks to the middle and the lightest stays on top. What I saw: nuts at the bottom, then sand, then water, then oil. Why: gravity pulls denser things down more strongly than lighter ones, so they pass through each other until each reaches its level. The same thing sorted the Earth into core, mantle and crust."
     }
    ]
@@ -1665,7 +1665,7 @@
      "mins": 5,
      "do": "Show your child the dough and the ruler. Explain that 1 centimetre stands for 2,000 kilometres. Ask for a guess on how thick the layers will be.",
      "say": "The Earth is about 12,700 kilometres wide. In our model, 1 centimetre stands for 2,000 kilometres. How wide will the Earth ball be? And which layer do you think is the thickest?",
-     "kid": "One centimetre is 2,000 kilometres. Guess how wide the Earth ball will be. Which layer is thickest?",
+     "kid": "In this model, 1 centimetre stands for 2,000 kilometres. Guess how wide the Earth ball will be. Which layer is thickest?",
      "ask": [
       {
        "q": "Why do you think that layer is the thickest?",
@@ -1683,9 +1683,9 @@
      "id": "s2",
      "mins": 35,
      "do": "Roll a yellow ball 1.2 centimetres wide for the solid inner core. Wrap it in red dough until the ball is 3.5 centimetres wide, for the liquid outer core. Wrap that in brown dough until the whole ball is 6.4 centimetres wide, for the mantle. Press a thin skin of blue dough over the whole ball, for the crust and the oceans. Wrap it in cling film or a plastic bag and leave it overnight. In damp or hot weather keep it in the fridge so it does not turn sticky or sour.",
-     "say": "Layer by layer. The inner core is the yellow ball, solid iron. The outer core is red, liquid iron. The mantle is the brown layer, hot rock. The crust is thinner than a coat of paint at this scale. Measure each layer with the ruler.",
+     "say": "Build it one layer at a time. The inner core is the yellow ball, solid iron. The outer core is red, liquid iron. The mantle is the brown layer, hot rock. The crust is thinner than a coat of paint at this scale. Measure each layer with the ruler.",
      "kid": "Make the yellow ball. Wrap it in red. Wrap that in brown. Measure each size.",
-     "wait": "Leave the dough to rest overnight, wrapped in a cloth.",
+     "wait": "Leave the dough to rest overnight, wrapped in cling film or a plastic bag.",
      "parent": "The dough is for modelling, not eating. If anyone is allergic to wheat, use clay instead. At this scale the real crust is typically less than a fifth of a millimetre thick. A skin of paint is far too thick, so tell your child the crust is thinner than the thinnest layer you can make. The numbers: inner core 1.2 centimetres wide, whole core 3.5 centimetres, whole planet 6.4 centimetres."
     },
     {
@@ -1695,7 +1695,7 @@
      "say": "Here are the layers of our Earth. Look at the thick mantle. Look at the small core. Jupiter at this scale would be 70 centimetres wide, as big as a large beach ball. We cannot make that, so ours is not to scale.",
      "kid": "Cut the Earth in half. Look at the layers. Make a Jupiter. It will not be to scale.",
      "adult": true,
-     "parent": "A grown-up cuts. Working alone with a grown-up: you build, they cut. With 2 to 4 children: one child builds the Earth, another the Jupiter, and others measure and label; swap for the drawing. The layers may smear when cut; that is normal, so measure from the cut face and not from the colours alone. Jupiter's insides are partly an idea. Many scientists think it has a thick outer layer of hydrogen gas, below that hydrogen squeezed so hard it acts like a metal, and a small, fuzzy centre of heavier stuff. Label those layers 'idea'. No spacecraft has seen inside.",
+     "parent": "A grown-up does the cutting. With one child: the child builds and you cut. With 2 to 4 children: one child builds the Earth, another builds the Jupiter, and the others measure and label. They swap jobs for the drawing. The layers may smear when cut. That is normal, so measure from the cut face and not from the colours alone. Jupiter's insides are partly an idea. Many scientists think it has a thick outer layer of hydrogen gas. Below that is hydrogen squeezed so hard that it acts like a metal. At the middle is a small, fuzzy centre of heavier stuff. Label those layers 'idea'. No spacecraft has seen inside.",
      "check": {
       "t": "mcq",
       "q": "In the cut-open Earth, which layer is the thickest?",
@@ -1705,7 +1705,7 @@
        "The inner core"
       ],
       "a": 0,
-      "why": "The mantle is about 2,900 kilometres thick, much thicker than any other layer. The crust is only a few kilometres to a few tens of kilometres thick. If you picked the crust, it is because it is the layer we live on."
+      "why": "The mantle is about 2,900 kilometres thick, much thicker than any other layer. The crust is only a few kilometres to a few tens of kilometres thick. If you picked the crust, that may be because it is the layer we live on."
      }
     },
     {
@@ -1713,7 +1713,7 @@
      "mins": 15,
      "do": "Put flags on each layer with its name. Draw both planets with labels. Write one sentence under each saying what is known and what is an idea. Show your planets to someone at home.",
      "say": "Label your planets. Which parts are certain? Which parts are only ideas? Why do scientists know the Earth's layers but not all of Jupiter's?",
-     "kid": "Label both planets. Which layers are sure? Which are only ideas? Show someone.",
+     "kid": "Label both planets. Which layers are certain? Which are only ideas? Show someone.",
      "parent": "Toothpicks have sharp points. Help younger children push them in, and put them away afterwards.",
      "ask": [
       {
@@ -1735,7 +1735,7 @@
    "id": "c1",
    "title": "Land on Mars: a parachute that hardly works",
    "mins": 40,
-   "problem": "You must land a cherry tomato, the astronaut, safely on the floor from a height of 1.5 metres. On Mars the air is so thin that a parachute works very poorly. Your parachute can be no wider than 15 centimetres. Design a lander that stops the tomato from bursting.",
+   "problem": "A cherry tomato is your astronaut. You must land the tomato safely on the floor from a height of 1.5 metres. On Mars the air is so thin that a parachute works very poorly. So your parachute can be no wider than 15 centimetres. Design a lander that stops the tomato from bursting.",
    "constraints": [
     "The parachute can be no wider than 15 centimetres, because Mars has very thin air.",
     "The tomato must ride inside the lander and must not burst or split when it lands.",
@@ -1758,7 +1758,7 @@
    "creative": [
     "Hang the tomato below the parachute on strings, like the sky crane that lowered rovers on cables.",
     "Add a ring of straws that bend and spring back, like landing legs.",
-    "Put the tomato inside a bag of puffed air with crumpled paper around it, like airbags."
+    "Put the tomato inside a bag puffed up with air, with crumpled paper around it, like airbags."
    ],
    "your_turn": "Now design your own lander. Sketch two ideas first. Build the one you like and test it three times. Change one thing, such as the size of the pad, and test again. Which design worked best? Why do you think so?",
    "context": "This is a design challenge about landing on a world with very thin air. You use what you know about atmospheres to plan a safe landing.",
@@ -1781,8 +1781,8 @@
      "id": "s1",
      "mins": 6,
      "do": "Read the problem with your child. Ask them to sketch two different landers. Remind them that Mars has air less than 1 percent as thick as the Earth's.",
-     "say": "On Mars the air is very thin, so a parachute grips very little. Our parachute can be only 15 centimetres wide. What else could stop the tomato from bursting?",
-     "kid": "Mars air is thin. Your parachute is small. Draw two ideas for a safe landing.",
+     "say": "On Mars the air is very thin, so a parachute has very little air to catch. Our parachute can be only 15 centimetres wide. What else could stop the tomato from bursting?",
+     "kid": "The air on Mars is thin. Your parachute is small. Draw two ideas for a safe landing.",
      "ask": [
       {
        "q": "What could stop the tomato from bursting, other than a big parachute?",
@@ -1837,7 +1837,7 @@
        "Venus has no gravity"
       ],
       "a": 0,
-      "why": "A parachute works by pushing against air. Thick air gives it lots to push against, and thin air gives it little. Mars's air is less than 1 percent as thick as the Earth's. Venus's air presses about 90 times as hard as the Earth's. If you picked the second, remember that Mars is smaller than Venus."
+      "why": "A parachute works by pushing against air. Thick air gives it lots to push against, and thin air gives it little. Mars's air is less than 1 percent as thick as the Earth's. Venus's air presses about 90 times as hard as the Earth's. If you picked 'Mars is bigger than Venus', remember that Mars is smaller than Venus."
      }
     }
    ]
@@ -2038,21 +2038,21 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Madurai, Hari and Sana, talk about the Moon's craters.",
+     "p": "Two friends talk about the Moon's craters.",
      "views": [
       {
-       "who": "Hari, aged 9",
+       "who": "The first friend",
        "says": "The Moon's face is like a diary. Every crater is a page from the past, and nothing has been rubbed out."
       },
       {
-       "who": "Sana, aged 9",
+       "who": "The second friend",
        "says": "A diary needs someone to write it. The Moon is just rock. The craters are only holes made by the laws of physics."
       }
      ],
      "ask": "Which friend do you agree with? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and gives a reason from the craters. For Hari: the craters record the order of hits, as the overlapping craters in the tray did. For Sana: physics made the craters, and nobody wrote them down on purpose. Each friend has a true point.",
-     "why": "Both are using the word 'diary' in different ways. Hari means a record that can be read. Sana means something that is written by a writer. Both are correct about what they mean.",
+     "a": "A strong answer picks a side and gives a reason from the craters. For the first friend: the craters record the order of hits, as the overlapping craters in the Crater Tray experiment did. For the second friend: physics made the craters, and nobody wrote them down on purpose. Each friend has a true point.",
+     "why": "The two friends use the word 'diary' in different ways. The first friend means a record that can be read. The second friend means something written by a writer. Each is right about what they mean.",
      "outcome": 2
     },
     {
@@ -2086,7 +2086,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A new planet is found 4 times as far from its Sun-like star as the Earth is from the Sun. Using the rule that the year squared equals the distance cubed, how long is its year?",
+     "p": "A new planet is found 4 times as far from its Sun-like star as the Earth is from the Sun. Use the rule that year times year equals distance times distance times distance. How long is its year?",
      "opts": [
       "8 Earth years",
       "4 Earth years",
@@ -2094,12 +2094,12 @@
       "2 Earth years"
      ],
      "a": 0,
-     "why": "The distance cubed is 4 times 4 times 4, which is 64. The year times itself must also be 64, and 8 times 8 is 64. So the year is 8 Earth years. Picking 4 assumes the year grows in step with the distance, which the planet data showed is not true.",
+     "why": "Distance times distance times distance is 4 times 4 times 4, which is 64. The year times itself must also be 64, and 8 times 8 is 64. So the year is 8 Earth years. Picking 4 assumes the year grows at the same rate as the distance, which the Planet Data Detective activity showed is not true.",
      "outcome": 4
     },
     {
      "t": "fill",
-     "p": "A planet is 9 times as far from its star as the Earth is from the Sun. The distance cubed is 729. Its year, in Earth years, is ____.",
+     "p": "A planet is 9 times as far from its star as the Earth is from the Sun. 9 times 9 times 9 is 729. Its year, in Earth years, is ____.",
      "a": [
       "27"
      ],
@@ -2156,7 +2156,7 @@
     },
     {
      "t": "mcq",
-     "p": "In a flour tray, a marble dropped from 4 times as high lands. What happens to the width of the crater?",
+     "p": "A marble is dropped into a tray of flour. Then it is dropped again from 4 times as high. How does the width of the second crater compare with the first?",
      "opts": [
       "It is wider, but by much less than 4 times",
       "It is exactly 4 times as wide",
@@ -2164,7 +2164,7 @@
       "It is narrower"
      ],
      "a": 0,
-     "why": "A faster hit digs a bigger crater, but crater width grows slowly. In the tray test, a drop from 8 times as high made a crater only about one and a half times as wide. Picking 'exactly 4 times' is the natural guess that the numbers did not support.",
+     "why": "A faster hit digs a bigger crater, but crater width grows slowly. In the Crater Tray experiment, a drop from 8 times as high made a crater only about one and a half times as wide. 'Exactly 4 times' is the natural guess, but the numbers did not support it.",
      "how": "e1",
      "outcome": 2
     },
@@ -2300,7 +2300,7 @@
       "About 460 degrees Celsius"
      ],
      "a": 0,
-     "why": "With the natural greenhouse effect the Earth averages about 15 degrees Celsius. The effect adds about 33 degrees, so without it the average would be about minus 18. Picking 460 is Venus's temperature.",
+     "why": "With the natural greenhouse effect the Earth averages about 15 degrees Celsius. The effect adds about 33 degrees, so without it the average would be about minus 18. About 460 degrees Celsius is the temperature on Venus.",
      "outcome": 3
     },
     {
@@ -2309,7 +2309,7 @@
      "a": [
       "4"
      ],
-     "why": "The year squared is 64. The distance cubed must be 64, and 4 times 4 times 4 is 64. So the planet is 4 astronomical units from its star, as far as four Earth-Sun distances.",
+     "why": "8 times 8 is 64. Distance times distance times distance must also be 64, and 4 times 4 times 4 is 64. So the planet is 4 astronomical units from its star, which is four Earth-Sun distances.",
      "outcome": 4
     }
    ]
@@ -2325,21 +2325,21 @@
      "p": "Three people talk about Jupiter and the Earth.",
      "views": [
       {
-       "who": "Revathi, a planet scientist",
+       "who": "A planet scientist",
        "says": "Jupiter shields the Earth. Its strong gravity catches or throws away many comets that might otherwise hit us."
       },
       {
-       "who": "Farhan, an astronomer",
+       "who": "An astronomer",
        "says": "Jupiter sometimes flings comets inwards as well. It can be a danger as much as a shield."
       },
       {
-       "who": "Shalini, a computer modeller",
+       "who": "A computer modeller",
        "says": "Models give different answers depending on what you assume. We need more evidence before we say."
       }
      ],
      "ask": "Which person do you agree with most? Use what you know about gravity and orbits. Then say what one of the others gets right.",
      "lines": 6,
-     "a": "A strong answer picks one view and backs it with an idea about gravity: a big planet pulls comets strongly, so they can be redirected either way. It also gives another person's view its due. Shalini's point stands in every case, because models depend on starting numbers.",
+     "a": "A strong answer picks one view and backs it with an idea about gravity: a big planet pulls comets strongly, so they can be redirected either way. It also gives another person's view its due. The computer modeller's point stands in every case, because models depend on starting numbers.",
      "why": "All three have a point, and scientists do not agree. The question is which comets the planet changes and in which direction. This kind of disagreement is how science moves forward.",
      "outcome": 5
     },
@@ -2410,7 +2410,7 @@
       "It has no mass"
      ],
      "a": 0,
-     "why": "Rock and metal are far denser than water, which has a density of 1. A world with a density of 0.8 must be made of light stuff such as gas, with little rock. Picking iron would give a density near 8.",
+     "why": "Rock and metal are far denser than water, which has a density of 1. A world with a density of 0.8 must be made of light stuff such as gas, with little rock. Solid iron would have a density near 8.",
      "outcome": 1
     },
     {
@@ -2443,7 +2443,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Measurements can be repeated and checked. An idea is a best explanation that is still being tested. A strong answer says why the Lonar age is argued about, when two methods give different answers.",
+     "why": "Measurements can be repeated and checked. An idea is a best explanation that is still being tested. A strong answer says why the age of Lonar crater is argued about: two methods give different answers.",
      "outcome": 2
     },
     {
@@ -2478,7 +2478,7 @@
      "t": "write",
      "p": "A friend says the planets are called wanderers because they move about with no pattern. Use what you know about orbits to show your friend that they follow a rule.",
      "lines": 4,
-     "a": "Every planet moves on an oval path round the Sun, faster when closer. The square of its year equals the cube of its distance, for every planet. So the planets wander across the stars, but by a rule that can be used to predict where they will be.",
+     "a": "Every planet moves on an oval path round the Sun, faster when closer. For every planet, year times year equals distance times distance times distance. So the planets wander across the stars, but by a rule that can be used to predict where they will be.",
      "why": "A strong answer says why they look as if they wander: they move against the fixed stars. It then uses the year-and-distance rule as proof of a pattern.",
      "outcome": 4
     },
@@ -2511,7 +2511,7 @@
     "Four planets with moons and four without"
    ],
    "a": 0,
-   "why": "The four inner planets are small and rocky, and the four outer ones are giants with no solid ground. Picking the second reverses the order. All the giants have rings, and almost every planet has or once had moons, so rings and moons do not split the planets into two groups.",
+   "why": "The four inner planets are small and rocky, and the four outer ones are giants with no solid ground. The second option has the order backwards. All the giants have rings, and almost every planet has or once had moons, so rings and moons do not split the planets into two groups.",
    "outcome": 0
   },
   {
@@ -2547,7 +2547,7 @@
     "The inside of the Earth must be denser than surface rock, such as heavy iron",
     "The surface rock is lighter than it looks",
     "The Earth is hollow",
-    "The surface rock is wrong"
+    "The density of the surface rock was measured wrongly"
    ],
    "a": 0,
    "why": "The average of the whole Earth is higher than the rock on top, so something much denser must be inside. This is the iron core. Picking 'hollow' would make the Earth less dense, not more.",
@@ -2563,7 +2563,7 @@
     "The plain with few craters was hit harder"
    ],
    "a": 0,
-   "why": "Craters pile up with time, so more craters means a longer time. A plain with few craters was covered or renewed more recently. If you picked the second, remember that old does not mean smooth.",
+   "why": "Craters pile up with time, so more craters means a longer time. A plain with few craters was covered or renewed more recently. If you picked 'the plain with few craters is older', remember that old does not mean smooth.",
    "outcome": 2
   },
   {
@@ -2654,7 +2654,7 @@
     "Only the sizes must be to scale"
    ],
    "a": 0,
-   "why": "If the planets are drawn big enough to see, the distances become far too short. A true scale model shows tiny planets very far apart. Evenly spaced planets are what a book page does to fit on a page, and that is not true to scale.",
+   "why": "If the planets are drawn big enough to see, the distances become far too short. A true scale model shows tiny planets very far apart. Books draw the planets evenly spaced so that they fit on a page, and that is not true to scale.",
    "outcome": 6
   }
  ],
@@ -2695,7 +2695,7 @@
   "Working out the distance of planets round other stars from the length of their years, using Kepler's rule.",
   "Testing how to nudge a dangerous asteroid, as the DART spacecraft did in 2022 when it hit a small asteroid and changed its orbit.",
   "Making maps, building plans and model aeroplanes, all of which shrink sizes and distances by the same scale.",
-  "Teams of women scientists and engineers, reported among the leaders of the Mangalyaan mission, using these ideas to steer a spacecraft to Mars."
+  "Steering a spacecraft to Mars with these ideas, as the Mangalyaan team did. Women scientists and engineers were reported among the leaders of that mission."
  ],
  "spotted": [
   {
@@ -2711,7 +2711,7 @@
    "art": "The full Moon with dark smooth patches and bright rough areas, labelled plains and highlands."
   },
   {
-   "text": "A car parked in the sun with its windows shut. The inside gets hotter than the outside, in the same way as the covered tumbler.",
+   "text": "A car parked in the sun with its windows shut. The inside gets hotter than the outside, in the same way as the covered tumbler in the Two Tumblers in the Sun experiment.",
    "art": "A car parked in strong sunshine with a child's hand held near the shut window and a thermometer showing a high number."
   },
   {
@@ -2727,7 +2727,7 @@
    "art": "A tall glass of cloudy water with a layer of sand settling at the bottom and clearer water above."
   },
   {
-   "text": "A road map with a scale bar. Every distance on the map has been shrunk by the same amount, like the solar system walk.",
+   "text": "A road map with a scale bar. Every distance on the map has been shrunk by the same amount, as in the Walk the Solar System activity.",
    "art": "A folded road map of South India with a scale bar at the corner showing 100 kilometres."
   }
  ],
@@ -2817,7 +2817,7 @@
    "why_maths": "Dividing one density by another shows how much more tightly packed one world is than another, which is what separates rock from gas."
   },
   {
-   "problem": "In the walk model, the Earth is 15 metres from the Sun, and Jupiter is 5.2 times as far. How many metres from the Sun is Jupiter? Two of your steps make a metre. About how many steps is that?",
+   "problem": "In the Walk the Solar System model, the Earth is 15 metres from the Sun, and Jupiter is 5.2 times as far. How many metres from the Sun is Jupiter? Two of your steps make a metre. About how many steps is that?",
    "answer": "78 metres, which is about 156 steps.",
    "explain": "15 times 5 is 75, and 15 times 0.2 is 3, so 15 times 5.2 is 78 metres. Two steps for every metre makes 78 times 2, which is 156 steps.",
    "math_unit": "math.measurement-basics.scale-models.L4",
@@ -2851,13 +2851,13 @@
    "why_maths": "A ratio of crater counts turns a count into a comparison of ages, which scientists use for places no one has visited."
   },
   {
-   "problem": "A small world is 2 astronomical units from the Sun. Cube its distance. Then find a number that, multiplied by itself, gives the same answer. That is its year in Earth years. Give your answer to one decimal place.",
+   "problem": "A small world is 2 astronomical units from the Sun. Work out distance times distance times distance. Then find a number that, multiplied by itself, gives the same answer. That is its year in Earth years. Give your answer to one decimal place.",
    "answer": "About 2.8 Earth years.",
    "explain": "2 times 2 times 2 is 8. 2.8 times 2.8 is 7.84, and 2.9 times 2.9 is 8.41. So 2.8 is closest to the number we want. The year is about 2.8 Earth years.",
    "math_unit": "math.number-sense.powers-and-roots.L4",
    "how": "a2",
-   "context": "This is about the rule in the Planet Data Detective activity: the year times itself equals the distance times itself three times.",
-   "why_maths": "Cubing and guess-and-check let you predict the year of a world from its distance, as Kepler's rule says."
+   "context": "This is about the rule in the Planet Data Detective activity: year times year equals distance times distance times distance.",
+   "why_maths": "Multiplying and guess-and-check let you predict the year of a world from its distance, as Kepler's rule says."
   },
   {
    "problem": "At 10:00 a command is sent to a rover on Mars. The message takes 13 minutes to arrive. The rover sends a photo back at once, and it takes 13 minutes to return. At what time does Mission Control see the photo? If it waits for each photo before sending the next command, how many commands can it send in 2 hours?",
@@ -3059,7 +3059,7 @@
   "story": "Nobody has ever dug to the middle of the Earth, so for a long time people could only guess what was there. In 1906 an English geologist, Richard Oldham, noticed that waves from earthquakes were blocked or bent deep inside the Earth. That showed there was a core. Scientists soon decided the whole core was a single ball of liquid metal. Then Inge Lehmann, a Danish scientist who looked after earthquake records in Copenhagen, studied a large earthquake from New Zealand in 1929. Some faint waves turned up in a place where a completely liquid core should have left none. In 1936 she published a very short paper with a bold idea: inside the liquid core there is a solid ball, and it bounces the waves. At first not everyone agreed. Better instruments later showed she was right.",
   "who": "Inge Lehmann, a Danish seismologist (1888 to 1993), building on the work of Richard Oldham",
   "when": "1936",
-  "wrong_idea": "That the Earth's whole core was one ball of liquid metal. Lehmann showed that faint waves in the 'shadow zone' could only come from a solid ball in the middle of the liquid."
+  "wrong_idea": "That the Earth's whole core was one ball of liquid metal. Lehmann showed that faint waves, which turned up where a completely liquid core should have left none, could only come from a solid ball in the middle of the liquid."
  },
  "playtest": "Walked through as a parent and child in a city flat would use it, but not yet tried at home. Crater Tray: the flour must be dry and 3 centimetres deep, and the surface smooth. With a 1.5 centimetre marble, expect craters about 3 centimetres wide from 10 centimetres and about 4.5 from 80 centimetres. Widths grow slowly, so the step tells the parent not to expect a big change. The drops should be measured against a metre scale, and the child must not throw. The overlapping craters game works only if the grown-up keeps the order secret. Two Tumblers in the Sun needs direct sunshine and is outside the spine. The difference may be only a few minutes, and the step says so and gives what to do if there is none. It is a model: a lid stops warm air from flowing away, while on Venus the gas carbon dioxide slows heat rays, and the step says this honestly. Planet in a Jar: a clear jar, steel nuts, sand, water and oil. The oil takes a few minutes to join into a layer. Walk the Solar System needs about 25 metres for the inner planets. The outer four are worked out from the numbers or walked on an open ground. Drive a Rover is done with eyes closed, so the floor must be clear and a grown-up must stay close. Land on Mars uses a cherry tomato, dropped from 1.5 metres by a grown-up. The planet data used in the data detective were rounded from the NASA fact sheet. Facts a reader should check before publishing: the 12-minute signal delay in the Mangalyaan story, the ages given for Lonar crater, the exact words of the Tirukkural and Dhammapada lines, and the description of Jupiter's interior as an idea. The spine is the intro, the Crater Tray, Planet in a Jar, the explanations, roots and the quiz, about 95 minutes over two sessions."
 }

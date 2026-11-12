@@ -3,12 +3,12 @@
  "title": "Evaporation and condensation: why some liquids leave fast, where the heat goes, and what salt does to the air",
  "level": 4,
  "summary": {
-  "text": "A drop of hand sanitiser vanishes from your hand in seconds and leaves it cold. A drop of water takes minutes, and a drop of coconut oil never leaves at all. All three sit in the same air. In the monsoon, a spoon of salt left on a shelf turns damp, though nothing cold has touched it. In this unit your child races six liquids across a steel plate, boils water with the lid on and with the lid off, and finds which kitchen things pull water out of the air. Then they follow the heat. Evaporation takes heat from what is left. Condensation gives it back, in a fridge, an air conditioner and a monsoon cloud.",
+  "text": "A drop of hand sanitiser vanishes from your hand in seconds and leaves it cold. A drop of water takes minutes, and a drop of coconut oil never leaves at all. All three sit in the same air. In the monsoon, a spoon of salt left on a shelf turns damp, though nothing cold has touched it. In this unit your child races six liquids across a steel plate, boils water with the lid on and with the lid off, and finds which kitchen things pull water out of the air. Then they find out where the heat goes. Evaporation takes heat from what is left. Condensation gives it back, in a fridge, an air conditioner and a monsoon cloud.",
   "art": "A steel plate with six wet streaks in a ring, some already dry, with a hand beside it holding a drop of sanitiser, and a small dish of damp salt beside a closed jar of dry salt."
  },
  "intro": {
   "hook": "Put one drop of water and one drop of hand sanitiser on the back of your hand. The sanitiser is gone in seconds, and your skin feels much colder where it was. The water takes minutes and feels only a little cool. Both are at room warmth. So why do they leave at such different speeds, and where does the cold come from?",
-  "text": "Water leaves a wet thing and comes back as drops all the time, and a damp cloth dries only when more leaves than comes back. Here you ask harder questions. Which liquids leave fastest, and why? Where does the heat go when a liquid leaves, and where does it land when the vapour turns back into drops? And why does a spoon of salt turn damp in a monsoon room when nothing cold has touched it? You answer with a steel plate, two pans and a humid box.",
+  "text": "Water is always leaving wet things as vapour and coming back as drops. A damp cloth dries only when more water leaves it than comes back. In this unit you ask harder questions. Which liquids leave fastest, and why? Where does the heat go when a liquid leaves, and where does it go when the vapour turns back into drops? And why does a spoon of salt turn damp in a monsoon room when nothing cold has touched it? You answer these questions with a steel plate, two pans and a humid box.",
   "art": "A child holding two hands out, a droplet of clear liquid on the back of each, with tiny wavy arrows rising from one drop quickly and from the other slowly."
  },
  "outcomes": [
@@ -19,7 +19,7 @@
   "I can explain that air can carry only a certain amount of water vapour, that the amount grows quickly as air gets warmer, and what relative humidity and dew point mean.",
   "I can show that some things, such as salt, pull water out of the air even when they are not cold, and say why this makes a salt box go damp in the monsoon.",
   "I can say that a solid, such as camphor, can turn straight into a gas, and name one place where this happens at home.",
-  "I can tell how William Cullen showed that cold can be made by a liquid leaving, with no cold thing added."
+  "I can tell how William Cullen showed that cold can be made by a liquid evaporating, with no cold thing added."
  ],
  "cards_mins": 20,
  "terms": [
@@ -125,7 +125,7 @@
    "concept": "Different liquids leave at different speeds",
    "status": "defined",
    "definition": "A liquid is volatile if its particles hold each other weakly, so many escape each second. A liquid whose particles hold each other tightly evaporates slowly.",
-   "description": "In every liquid, particles are moving and bumping, and some at the surface are fast enough to break free. How many break free each second depends on how tightly the others are holding them. Alcohol molecules hold each other weakly, so many escape each second. That is why hand sanitiser dries in seconds. Water molecules hold each other more tightly, so water dries slowly. The molecules of coconut oil are long and tangled, and they cling to each other so tightly that hardly any escape at room warmth. Salt and sugar dissolved in water make it dry a little more slowly, because the dissolved particles get in the way and stay behind. A liquid's boiling point tells the same story. Alcohol boils at about 78 degrees, water at 100 and oils at far higher temperatures.",
+   "description": "In every liquid, particles are moving and bumping, and some at the surface are fast enough to break free. How many break free each second depends on how tightly the others are holding them. Alcohol molecules hold each other weakly, so many escape each second. That is why hand sanitiser dries in seconds. Water molecules hold each other more tightly, so water dries slowly. The molecules of coconut oil are long and tangled, and they cling to each other so tightly that hardly any escape at room warmth. Salt and sugar dissolved in water make it dry a little more slowly, because the dissolved particles get in the way and stay behind. The boiling points of these liquids show the same order. Alcohol boils at about 78 degrees, water at 100 and oils at far higher temperatures.",
    "examples": [
     "Hand sanitiser dries in seconds, water in minutes, and coconut oil stays for days.",
     "Nail polish remover and petrol are volatile, which is why their smell spreads so fast.",
@@ -147,13 +147,13 @@
    ],
    "perspectives": [],
    "art": "A hand with a drop of sanitiser on it, fast particles flying off the drop carrying red heat arrows away, and the skin below shown turning blue.",
-   "context": "This card explains why the sanitiser on your hand felt colder than the water."
+   "context": "In the Drop Race, the drop of sanitiser on your hand felt colder than the drop of water. This card explains why."
   },
   {
    "concept": "Condensation gives the heat back",
    "status": "defined",
    "definition": "When water vapour turns back into liquid, it gives out the same heat it took in when it evaporated. This is why condensation warms the thing it forms on.",
-   "description": "Every gram of water that evaporates takes a lot of heat with it. When that vapour turns back into drops, the same heat comes out again. Steam at 100 degrees can burn you worse than boiling water at 100 degrees for this reason. The steam gives up all its latent heat as it condenses on your skin, on top of the heat from cooling. The same thing warms the air when a monsoon cloud forms. The Sun's heat evaporated sea water and carried the heat up in the vapour. When the vapour turns to cloud drops high above, the heat is released into the air around, and that warm air rises further. Tropical storms and thunderclouds get much of their power this way.",
+   "description": "Every gram of water that evaporates takes a lot of heat with it. When that vapour turns back into drops, the same heat comes out again. This is why steam at 100 degrees can burn you worse than boiling water at 100 degrees. The steam gives up all its latent heat as it condenses on your skin, on top of the heat it gives out as it cools. The same thing warms the air when a monsoon cloud forms. The Sun's heat evaporated sea water, and the vapour carried that heat up. When the vapour turns to cloud drops high above, the heat is released into the air around, and that warm air rises further. Tropical storms and thunderclouds get much of their power this way.",
    "examples": [
     "Steam from a kettle burns more than boiling water, because condensing steam gives out its latent heat.",
     "Warm, moist air rising in a monsoon cloud gets extra warmth as its vapour condenses into drops.",
@@ -167,11 +167,11 @@
    "concept": "How a fridge and an air conditioner move heat",
    "status": "defined",
    "definition": "A fridge and an air conditioner use a liquid that evaporates inside, taking heat in, and condenses outside, giving heat out. They move heat from a cold place to a warmer place.",
-   "description": "Inside a fridge, a pipe carries a special liquid called a refrigerant. In the pipes inside the cold box, the refrigerant evaporates and takes heat from the food and the air. A pump called a compressor squeezes the vapour, which makes it hot. The hot vapour flows through the pipes at the back of the fridge, where it condenses and gives out heat to the kitchen. That is why the back of a fridge is warm. The liquid then flows back inside, and the loop starts again. An air conditioner works the same way. The room unit is the cold part, and the box outside is the warm part. Heat does not flow from cold to warm by itself, so the compressor needs electricity to push it uphill.",
+   "description": "Inside a fridge, a pipe carries a special liquid called a refrigerant. In the pipes inside the cold box, the refrigerant evaporates and takes heat from the food and the air. A pump called a compressor squeezes the vapour, which makes it hot. The hot vapour flows through the pipes at the back of the fridge, where it condenses and gives out heat to the kitchen. That is why the back of a fridge is warm. The liquid then flows back inside, and the loop starts again. An air conditioner works the same way. The room unit is the cold part, and the box outside is the warm part. Heat does not flow from a cold place to a warm place by itself, so the compressor needs electricity to push it that way.",
    "examples": [
     "The back and sides of a running fridge are warm.",
     "The outdoor box of an air conditioner blows out warm air.",
-    "A fridge left with its door open warms the kitchen, because it moves heat out but the heat flows back in."
+    "A fridge left with its door open warms the kitchen. It gives out heat at the back, and the cold inside cannot cool the whole room."
    ],
    "perspectives": [],
    "art": "A fridge with a pipe loop: a cold pipe inside labelled evaporates and a warm pipe at the back labelled condenses, with heat arrows going out.",
@@ -180,8 +180,8 @@
   {
    "concept": "Air can carry only so much water vapour, and warm air carries much more",
    "status": "defined",
-   "definition": "At each temperature there is a most that air can carry, and it grows quickly as the air gets warmer. At 20 degrees Celsius it is about 17 grams in every cubic metre, and at 30 degrees it is about 30 grams.",
-   "description": "Air does not soak up water like a sponge. Water vapour mixes in among the air particles, and how much can stay as vapour depends on the temperature. At 10 degrees, a cubic metre of air can carry about 9 grams of water vapour. At 20 degrees it is about 17 grams, at 30 degrees about 30 grams, and at 40 degrees about 51 grams. So warm air can carry about 3 times as much water as air at 10 degrees. If the air carries all it can, it is saturated. If you cool saturated air a little, some of its vapour has to condense into drops. This is why warm, damp tropical air makes such heavy rain when it rises and cools.",
+   "definition": "At each temperature there is a limit to how much water vapour air can carry, and the limit rises quickly as the air gets warmer. At 20 degrees Celsius it is about 17 grams in every cubic metre, and at 30 degrees it is about 30 grams.",
+   "description": "Air does not soak up water like a sponge. Water vapour mixes in among the air particles, and how much can stay as vapour depends on the temperature. At 10 degrees, a cubic metre of air can carry about 9 grams of water vapour. At 20 degrees it is about 17 grams, at 30 degrees about 30 grams, and at 40 degrees about 51 grams. So air at 30 degrees can carry about 3 times as much water vapour as air at 10 degrees. If the air carries all it can, it is saturated. If you cool saturated air a little, some of its vapour has to condense into drops. This is why warm, damp tropical air makes such heavy rain when it rises and cools.",
    "examples": [
     "A cubic metre of air at 30 degrees can carry about 30 grams of water vapour, which is more than a small spoonful.",
     "A room 4 metres by 3 metres by 3 metres can hold more than a litre of water as vapour when saturated at 30 degrees.",
@@ -194,7 +194,7 @@
   {
    "concept": "Relative humidity and dew point",
    "status": "defined",
-   "definition": "Relative humidity tells you how full the air is, as a percentage of the most it can carry. The dew point is the temperature at which the air you have would be completely full.",
+   "definition": "Relative humidity tells you how full the air is, as a percentage of the most it can carry. The dew point is the temperature to which the air must be cooled to become completely full.",
    "description": "A weather report may say 70 per cent humidity at 30 degrees. That means the air holds 70 per cent of the most it could hold at 30 degrees, about 21 grams in each cubic metre. If this air is cooled, the same 21 grams stay in each cubic metre, but the most the air can carry falls. At about 24 degrees, the most it can carry has fallen to 21 grams, and the air is full. That temperature, 24 degrees, is the dew point. Any surface colder than the dew point gets drops. A dew point close to the air temperature means very damp air. The dew point is a better sign than humidity of how muggy it feels, because it does not change when the air warms or cools.",
    "examples": [
     "A steel glass at 20 degrees mists in a room where the dew point is 24 degrees.",
@@ -265,7 +265,7 @@
    "concept": "Hot and humid: the wet-bulb limit",
    "status": "debated",
    "definition": "Wet-bulb temperature combines heat and humidity. When it rises too high, sweat cannot evaporate fast enough to cool the body, and the body overheats even in shade.",
-   "description": "Sweat cools us only if it evaporates. In very humid air, sweat evaporates slowly, and the body cannot lose enough heat. A wet-bulb thermometer, with a wet cloth round its bulb, shows how far evaporation can cool. A day at 35 degrees with 90 per cent humidity is more dangerous than a day at 45 degrees in dry air, because the dry-air sweat evaporates freely. Scientists have asked what wet-bulb temperature a healthy person can survive for six hours. They are not agreed on the answer. Heat waves in humid parts of India, such as the coast and the Gangetic plain, can come near the dangerous range.",
+   "description": "Sweat cools us only if it evaporates. In very humid air, sweat evaporates slowly, and the body cannot lose enough heat. A wet-bulb thermometer has a wet cloth round its bulb, and it shows how far evaporation can cool something. A day at 35 degrees with 90 per cent humidity is more dangerous than a day at 45 degrees in dry air, because in dry air sweat evaporates freely. Scientists have asked what wet-bulb temperature a healthy person can survive for six hours. They do not agree on the answer. Heat waves in humid parts of India, such as the coast and the Gangetic plain, can come near the dangerous range.",
    "examples": [
     "A humid coastal city can feel more dangerous at 38 degrees than a dry desert town at 44.",
     "Outdoor workers in humid heat need shade, water and rest, even if the thermometer reads lower than in a dry heat wave.",
@@ -288,10 +288,10 @@
    "concept": "A warmer world carries more water vapour",
    "status": "defined",
    "definition": "For each degree that air warms, it can carry about 7 per cent more water vapour. Warmer air therefore brings heavier downpours and more humid heat.",
-   "description": "Because warm air can carry much more water, a warming world sends more water vapour into the air from oceans and wet land. When that air rises in a cloud and cools, more water falls as rain at once. So the heaviest downpours are getting heavier in many places, while the days between them can be longer and drier. Water vapour is also itself a gas that traps heat, which makes warm air warmer still. Scientists measure these effects by satellite and by weather stations. What they cannot yet say is how clouds will change in each place, and cloud changes are the biggest uncertainty in forecasts of future warming.",
+   "description": "Because warm air can carry much more water, a warming world sends more water vapour into the air from oceans and wet land. When that air rises in a cloud and cools, more water falls as rain at once. So the heaviest downpours are getting heavier in many places, while the days between them can be longer and drier. Water vapour is also a gas that traps heat, which makes warm air warmer still. Scientists measure these effects by satellite and by weather stations. What they cannot yet say is how clouds will change in each place, and cloud changes are the biggest uncertainty in forecasts of future warming.",
    "examples": [
     "Heavy rain events in parts of India have become more frequent, according to weather records.",
-    "A hot, humid week is followed by a violent thunderstorm in many towns.",
+    "In many towns, a hot, humid week is followed by a violent thunderstorm.",
     "The same warm sea that feeds a cyclone gives it extra vapour to condense."
    ],
    "perspectives": [],
@@ -330,7 +330,7 @@
    "claim": "Air is like a sponge that soaks up water, so dry air is thirsty.",
    "who": "A picture in many school books",
    "for": "The picture explains simply why clothes dry in dry air and why damp air feels heavy.",
-   "against": "Water also evaporates into an empty space with no air in it, as William Cullen's experiment used a pump to take the air away. The limit on vapour depends on temperature, not on the air being thirsty. The sponge picture is handy but not literally true.",
+   "against": "Water also evaporates into an empty space with no air in it. In William Cullen's experiment, a pump took the air away and the liquid still evaporated. The limit on vapour depends on temperature, not on the air being thirsty. The sponge picture is handy but not literally true.",
    "status": "rejected",
    "context": "This card tests the idea that air soaks up water like a sponge."
   },
@@ -345,7 +345,7 @@
   {
    "claim": "A lid makes water boil hotter.",
    "who": "A common idea in kitchens",
-   "for": "A covered pan comes to the boil sooner and seems fiercer.",
+   "for": "A covered pan comes to the boil sooner and seems to boil harder.",
    "against": "Water in a covered pan still boils at 100 degrees at sea level. The lid keeps the heat and the vapour in, so the pan boils sooner and loses almost no water. Only a pressure cooker, which holds in pressure, makes the water hotter.",
    "status": "rejected",
    "context": "This card tests the idea that a lid raises the boiling point."
@@ -385,7 +385,7 @@
  ],
  "big_questions": [
   {
-   "q": "The sanitiser felt colder than the water on your hand, but both were at room warmth. Where did the cold come from?",
+   "q": "In the Drop Race, the sanitiser felt colder on your hand than the water, but both were at room warmth. Where did the cold come from?",
    "kind": "deep",
    "hint": "Think about which particles leave a liquid first, and what they carry with them."
   },
@@ -402,7 +402,7 @@
   {
    "q": "Camphor shrinks in a box and leaves no puddle. Where does it go, and is it right to say a solid can evaporate?",
    "kind": "deep",
-   "hint": "Think about the smell, and what you smell when you smell something."
+   "hint": "Think about the smell of camphor. What has to reach your nose for you to smell something?"
   },
   {
    "q": "A fridge keeps food cold by pushing heat out into the kitchen. Can anything be cooled for free?",
@@ -410,12 +410,12 @@
    "hint": "Think about where the heat goes, and what pays for it."
   },
   {
-   "q": "Heat leaves the sea when water evaporates and drops off again in a cloud. Is the monsoon a way of moving heat as much as a way of moving water?",
+   "q": "When sea water evaporates, heat leaves the sea with the vapour. The heat is given out again when the vapour turns into drops in a cloud. Is the monsoon a way of moving heat as much as a way of moving water?",
    "kind": "big",
    "hint": "Think about the warm sea and the cooler air high above it."
   },
   {
-   "q": "On a very humid day, a person can overheat in shade with water to drink. What does that say about how a body cools itself?",
+   "q": "On a very humid day, a person can overheat even in the shade, with water to drink. What does that say about how a body cools itself?",
    "kind": "big",
    "hint": "Think about what has to happen to sweat for it to cool you."
   },
@@ -455,7 +455,7 @@
    "Appa scrolled back. 'Fifty-eight.'",
    "Janani counted on her fingers. 'Yesterday, the air was a little over half full of water, and the salt was dry. Today, the air is nearly full, and the salt is wet. So the salt drinks from the air when the air is damp enough.' She took a breath. 'Paati's salt is not telling us about rain. It is telling us about the air. And if the air is nearly full of water, what happens to the vadams?'",
    "Appa opened his mouth, and shut it again.",
-   "'They cannot dry,' said Janani. 'Wet vadam water has nowhere to go if the air cannot take any more. And when the Sun heats the ground and the damp air goes up, it cools, and the water comes out as clouds. That makes rain.'",
+   "'They cannot dry,' said Janani. 'The water in the wet vadams has nowhere to go if the air cannot take any more. And when the Sun heats the ground and the damp air goes up, it cools, and the water comes out as clouds. That makes rain.'",
    "There was a pause. Then Paati said, very gently, 'Appa, the saris.'",
    "They carried the vadams in, sari by sari, like sleeping children. Amma laid them on the beds and the dining table. By two o'clock, the sky to the west had turned the colour of a bruise. By four, thunder rolled across the town and the rain came down so hard that the lane flooded in minutes. Across the road, a neighbour ran out in her nightdress, trying to drag a sheet of drying chillies under a roof.",
    "Appa stood at the window, watching. 'The phone said zero,' he said at last.",
@@ -485,20 +485,20 @@
  "roots": {
   "context": "We have raced liquids across a plate, boiled water with and without a lid, and watched salt pull water from the air. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "On your hand, the sanitiser vanished fastest and felt the coldest. The water vanished more slowly and felt less cold. Nothing cold touched your skin. The liquid that left took your warmth with it.",
-   "habit": "We think cold is something that arrives, like ice or a cold wind. On your hand, cold came from something going away. Cooling and leaving were the same event, seen from two sides.",
+   "truth": "In the Drop Race, the drop of sanitiser on your hand vanished fastest and felt the coldest. The drop of water vanished more slowly and felt less cold. Nothing cold touched your skin. The liquid that left took heat from your skin with it.",
+   "habit": "We think cold is something that arrives, like ice or a cold wind. In the Drop Race, the cold on your hand came from something going away. The liquid left and your skin cooled, and these were one event, not two.",
    "evidence": "In the Drop Race, a drop of sanitiser dried in seconds and felt colder on the skin than a drop of water on the same hand. William Cullen froze water by letting a liquid boil away, with nothing cold brought near."
   },
   "three": {
-   "who_am_i": "When you sweat, water leaves your skin and carries heat away with it. Your body keeps its warmth by letting water go.",
-   "what_is_life": "A tulsi plant on a balcony sends water out of their leaves all day. The leaving cools the leaves, and pulls more water up from the roots.",
-   "what_is_this_world": "The sea carries the Sun's heat up in vapour and sets it down again in clouds. The monsoon is heat on the move, carried by water."
+   "who_am_i": "When you sweat, water leaves your skin and carries heat away with it. Your body keeps its temperature steady by letting water go.",
+   "what_is_life": "A tulsi plant on a balcony sends water out of their leaves all day. As the water leaves, it cools the leaves and pulls more water up from the roots.",
+   "what_is_this_world": "Water that evaporates from the sea carries the Sun's heat up as vapour, and gives it out again in the clouds. The monsoon moves heat as well as water."
   },
-  "thread": "Water holds a great deal of heat when it is a gas, and it hands that heat over when it becomes a liquid again. A drop on your hand, a fridge, a salt box, a monsoon cloud and a sea are all places where water picks heat up or puts it down. Nothing is made or lost. Heat is carried from one place to another by water changing state, and the same water takes part in every one of those places.",
+  "thread": "Water takes in a great deal of heat when it becomes a gas, and it gives that heat out when it becomes a liquid again. A drop on your hand, a fridge, a salt box, a monsoon cloud and the sea are all places where heat is taken in or given out in this way. No heat is made or lost. It is carried from one place to another by water changing state, and the same thing happens in every one of those places.",
   "teachings": [
    {
     "source": "Bhagavad Gita 9.19",
-    "teaching": "Krishna says to Arjuna: 'I give heat. I hold back the rain and I send it forth.' The verse speaks of heat and rain together, as one giving and withholding.",
+    "teaching": "Krishna says to Arjuna: 'I give heat. I hold back the rain and I send it forth.' The verse speaks of heat and rain together, as two parts of one act of giving and holding back.",
     "link": "In the monsoon, the Sun's heat lifts water from the sea and the same water falls as rain. Heat and rain are two sides of the same journey of water."
    },
    {
@@ -674,15 +674,15 @@
       },
       {
        "f": "Why is the dew point higher on a hot, damp day than on a cold, damp day?",
-       "b": "Hot air can carry much more vapour, so air that is equally close to full holds more water, and its dew point is higher."
+       "b": "Hot air can carry much more vapour. So when hot air and cold air are equally close to full, the hot air holds more water, and its dew point is higher."
       },
       {
        "f": "Which has a higher dew point, a hot dry day or a hot damp day?",
        "b": "A hot damp day, because there is more vapour in the air."
       },
       {
-       "f": "Why does a cold steel glass mist but a plastic cup of the same water mist less?",
-       "b": "Steel takes the cold of the water on its outside faster, so its surface gets colder than the dew point sooner."
+       "f": "Why does a steel glass of cold water mist more than a plastic cup of the same water?",
+       "b": "Steel passes the cold of the water to its outside faster, so its outside gets colder than the dew point sooner."
       },
       {
        "f": "Why can fog form on a clear, still night?",
@@ -693,7 +693,7 @@
        "b": "It falls, because the same vapour is now a smaller share of what the warm air could carry."
       },
       {
-       "f": "If the air temperature is 30 and the dew point is 22, which is closer to saturation, this air or air at 30 degrees with a dew point of 28?",
+       "f": "Two lots of air are both at 30 degrees. One has a dew point of 22 and the other has a dew point of 28. Which is closer to saturation?",
        "b": "The air with a dew point of 28, because its dew point is closer to the air temperature."
       },
       {
@@ -718,8 +718,8 @@
     "Say MIST if the glass is colder than the dew point. Say NO MIST if the glass is warmer. Say the dew point out loud too.",
     "Turn the card over to check. A right answer scores 1 point. If you also said the right dew point, you score 1 more.",
     "After every fourth card, the next player answers a bonus card for 1 point.",
-    "If two players disagree, the one who found the dew point first in the chart decides, then check the back of the card.",
-    "After 24 cards, the player with the most points wins. If points are equal, you share the win. Playing alone, try to beat your own score next time."
+    "If two players disagree, the one who found the dew point first in the chart decides. Then check the back of the card.",
+    "After 24 cards, the player with the most points wins. If points are equal, you share the win. If you play alone, try to beat your own score next time."
    ],
    "flow": [
     {
@@ -753,7 +753,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Play the next eight cards, with a bonus card after the fourth and eighth cards.",
-     "say": "Now with a bonus question after every fourth card. Which cards are hardest, the ones where the glass is close to the dew point?",
+     "say": "Now we add a bonus question after every fourth card. Which cards are the hardest? Are they the ones where the glass is close to the dew point?",
      "kid": "Play eight more cards. Answer a bonus card after every fourth card.",
      "parent": "Cards where the glass is within two degrees of the dew point are the hardest. This is realistic. Real glasses are rarely exactly at the dew point.",
      "context": "In this step you play eight more cards and answer bonus questions."
@@ -762,7 +762,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Play the last eight cards. Add up the points. Ask the question below.",
-     "say": "Last eight cards. Then count your points. Which weather made it easiest for the glass to mist, hot and damp or cool and dry?",
+     "say": "Play the last eight cards. Then count your points. Which weather made it easiest for the glass to mist, hot and damp or cool and dry?",
      "kid": "Play the last eight cards. Count your points.",
      "check": {
       "t": "mcq",
@@ -910,7 +910,7 @@
      "mins": 5,
      "do": "Show your child the plate and the six cups. Ask for a guess about the order and a reason. Write the guesses in the table.",
      "say": "Here are six liquids. We will smear a thin streak of each on this plate. Which will dry first? Which will be last? Why do you think so?",
-     "kid": "Six liquids. Which dries first? Which dries last? Why do you think so?",
+     "kid": "Here are six liquids. Which will dry first? Which will dry last? Why do you think so?",
      "ask": [
       {
        "q": "Why do you think that one will dry first?",
@@ -927,7 +927,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Dip a stick into the water. 2. Wipe off the extra on the rim of the cup. 3. Smear a thin streak, about a finger long and a finger wide, on the plate. 4. Do the same for each liquid with its own stick, in its own place. 5. A grown-up does the sanitiser. 6. Start the timer after the last streak.",
+     "do": "1. Dip a stick into the water. 2. Wipe the extra water off on the rim of the cup. 3. Smear a thin streak, about a finger long and a finger wide, on the plate. 4. Do the same for each liquid with its own stick, in its own place. 5. A grown-up does the sanitiser. 6. Start the timer after the last streak.",
      "say": "Wipe the extra off the stick, so the streak is thin. Make every streak the same size. Draw where each liquid is on your paper. Start the timer when the last streak is done.",
      "kid": "Dip a stick. Wipe off the extra. Smear a thin streak. Do all six. Start the timer.",
      "adult": true,
@@ -949,7 +949,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Put a drop of plain water on the back of your hand and spread it to the size of a coin. 2. Wait ten seconds. 3. Score how cold it feels, from 0 to 5. 4. Wipe dry and wait one minute. 5. A grown-up puts a drop of sanitiser on the same place. 6. Score again.",
-     "say": "Put a drop of water on the back of your hand. How cold does it feel, from 0 to 5? Now a drop of sanitiser on the same place. How cold does that feel? Which left first?",
+     "say": "Put a drop of water on the back of your hand. How cold does it feel, from 0 to 5? Now a grown-up puts a drop of sanitiser on the same place. How cold does that feel? Which left first?",
      "kid": "Put a drop of water on your hand. Score how cold it feels. Try sanitiser. Score again.",
      "adult": true,
      "parent": "Skip the sanitiser if your child's skin is cut or sore. Expect the sanitiser to dry in a few seconds and feel much colder than the water. Blowing gently across each drop makes the cool feeling stronger.",
@@ -961,7 +961,7 @@
      "do": "1. Look at the plate every two minutes for twenty minutes. 2. Look from the side, at eye level. 3. Write down the minute when each streak first looks dry, with no shine. 4. If a streak is still shiny at the end, write 'still wet'.",
      "say": "Look from the side. A wet streak is shiny. A dry streak is dull. Tell me when each one stops shining. Which went first? Which are still shiny?",
      "kid": "Look every two minutes. Wet streaks shine. Dry ones go dull. Write the minute.",
-     "parent": "On a humid day water may take more than twenty minutes. If so, switch on a fan for the plate, so all six dry in the same moving air, and carry on. Sanitiser dries in seconds, and may leave a sticky film if it is a gel. The oil will not dry at all in this time. These times are typical, not promised: in a hot dry room water may dry in about 5 to 10 minutes, in a damp monsoon room it may still be shiny at 20 minutes. Salt water in a very damp room may never fully dry and stay glossy. That is a real result: write it down, and say why.",
+     "parent": "On a humid day water may take more than twenty minutes. If so, switch on a fan that blows on the whole plate, so all six dry in the same moving air, and carry on. Sanitiser dries in seconds, and may leave a sticky film if it is a gel. The oil will not dry at all in this time. These times are typical, not promised. In a hot dry room water may dry in about 5 to 10 minutes. In a damp monsoon room it may still be shiny at 20 minutes. Salt water in a very damp room may never fully dry, and may stay glossy. That is a real result, so write it down and say why.",
      "context": "In this step you check the plate every two minutes and write when each liquid dries."
     },
     {
@@ -978,8 +978,8 @@
      "mins": 7,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is claim, evidence and reasoning. A strong answer: What I think: liquids leave at very different speeds, and the faster one feels colder. What I saw: sanitiser dried first and felt coldest, water took minutes, and oil stayed. Why: the particles of some liquids hold each other loosely so they escape easily, and the escaping particles take heat from the skin. Do not explain it yourself before they have answered.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
+     "parent": "These three things are a claim, the evidence for it, and the reasoning. A strong answer: What I think: liquids leave at very different speeds, and the faster one feels colder. What I saw: sanitiser dried first and felt coldest, water took minutes, and oil stayed. Why: the particles of some liquids hold each other loosely so they escape easily, and the escaping particles take heat from the skin. Do not explain it yourself before they have answered.",
      "check": {
       "t": "mcq",
       "q": "Sanitiser dried in seconds and felt colder than water on the skin. What is the best explanation?",
@@ -1078,7 +1078,7 @@
      "mins": 5,
      "do": "Show your child the six things. Ask for a guess about each one, and a reason. Write the guesses.",
      "say": "Here are six things. We will put them in a very damp box. Which will get damp? Which will stay dry? Why do you think so?",
-     "kid": "Six things. A damp box. Which get wet? Which stay dry? Why?",
+     "kid": "Six things go into a damp box. Which will get damp? Which will stay dry? Why?",
      "ask": [
       {
        "q": "Why do you think salt will get wet, when it is not cold?",
@@ -1096,9 +1096,9 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Put one level teaspoon of each thing in its own saucer. 2. Label each saucer with a paper slip. 3. Put one level teaspoon of salt in a saucer inside the closed jar. 4. If you have a scale, weigh each saucer and write the number.",
-     "say": "Level teaspoons, so every heap is the same size. This salt in the jar is our control. It stays in dry air, so we can compare.",
+     "say": "Use level teaspoons, so every heap is the same size. The salt in the jar is our control. It stays in dry air, so we can compare.",
      "kid": "Put a level spoon of each thing in a saucer. Label them. Put salt in the closed jar.",
-     "parent": "Use a pinch of puffed rice on its own saucer, still crisp. Wipe the inside of the lid dry before you start. The control tells you whether the room itself is damp enough to affect salt. If the control salt turns damp, it is a very humid day.",
+     "parent": "For the puffed rice, put a pinch that is still crisp on its own saucer. Wipe the inside of the lid dry before you start. The control tells you whether the room itself is damp enough to affect salt. If the control salt turns damp, it is a very humid day.",
      "check": {
       "t": "mcq",
       "q": "What is the control jar of salt for?",
@@ -1119,7 +1119,7 @@
      "say": "A grown-up will put the saucers in the box with a bowl of hot water. The steam fills the box with water vapour. Close the lid tight. Now we wait forty minutes.",
      "kid": "A grown-up puts the saucers and hot water in the box. Close the lid. Note the time.",
      "adult": true,
-     "parent": "The hot water fills the closed box with water vapour, so the air inside is almost completely full. Do not open the lid during the wait. If you do not have a big box with a lid, use the bathroom after a hot bath with the door closed. Drops of water may form under the lid and fall onto a saucer. A splash makes one wet spot, while a thirsty thing goes damp all through the heap. Stand the saucers in a ring away from the middle of the lid if you can, and do not count a splash. For 2 to 4 children: one child fills the labels, one sets the timer, and each guesses for every saucer, then compares guesses at the end.",
+     "parent": "The hot water fills the closed box with water vapour, so the air inside is almost completely full. Do not open the lid during the wait. If you do not have a big box with a lid, use the bathroom after a hot bath with the door closed. Drops of water may form under the lid and fall onto a saucer. A splash makes one wet spot, while a thing that pulls water from the air goes damp all through the heap. Stand the saucers in a ring away from the middle of the lid if you can, and do not count a splash. For 2 to 4 children: one child writes the labels, one sets the timer, and each guesses for every saucer, then compares guesses at the end.",
      "context": "In this step a grown-up makes the box humid, with a bowl of hot water and a tight lid."
     },
     {
@@ -1145,13 +1145,13 @@
      "mins": 7,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A strong answer: What I think: some things pull water out of damp air even when they are not cold. What I saw: the salt and jaggery got damp in the box, while the control salt stayed dry. Why: they hold on to water so strongly that water vapour lands on them and stays. Do not explain it yourself before they have answered.",
      "check": {
       "t": "mcq",
       "q": "The salt in the humid box got damp, but the salt in the closed jar stayed dry. What does this show?",
       "options": [
-       "Damp air made the salt pull water out of it",
+       "The salt pulled water out of the damp air",
        "The box made the salt cold",
        "Salt gets damp when it is old"
       ],
@@ -1203,7 +1203,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does all the cooking. Steam and the lid can burn badly. Tie back long hair and loose dupattas, and keep children at arm's length from the stove. Lift the lid away from your face with oven gloves or tongs. A grown-up pours the water into the jug only once the pan is cool enough to touch with a bare hand, which can take 30 minutes, and then the child reads the measuring.",
+   "safety": "A grown-up does all the cooking. Steam and the lid can burn badly. Tie back long hair and loose dupattas, and keep children at arm's length from the stove. Lift the lid away from your face with oven gloves or tongs. A grown-up pours the water into the jug only once the pan is cool enough to touch with a bare hand, which can take 30 minutes. Then the child reads the level on the jug.",
    "schedule": [
     {
      "day": 1,
@@ -1279,7 +1279,7 @@
      "mins": 6,
      "do": "1. A grown-up pours 500 millilitres of water into each pan. 2. Check each pan with the jug. 3. Write the starting amount. 4. Put the lid on one pan only.",
      "say": "Pour exactly 500 millilitres into each pan. Write it down. The lid goes on one pan only. Everything else is the same.",
-     "kid": "Measure 500 millilitres into each pan. Write it down. Lid on one pan only.",
+     "kid": "Measure 500 millilitres into each pan. Write it down. Put the lid on one pan only.",
      "adult": true,
      "parent": "If you only have one burner, do two runs, one after the other, with the same pan, the same flame setting and fresh water at room temperature each time. Let the pan cool before the second run.",
      "check": {
@@ -1298,7 +1298,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. A grown-up lights the stove under both pans at the same flame. 2. When the open pan is rolling with a steady boil, start a ten-minute timer. 3. Lower the flame a little if the covered pan bubbles over. 4. After ten minutes, turn the stove off.",
+     "do": "1. A grown-up lights the stove under both pans at the same flame. 2. When the water in the open pan is boiling steadily, start a ten-minute timer. 3. Lower the flame a little if the covered pan bubbles over. 4. After ten minutes, turn the stove off.",
      "say": "A grown-up lights both pans. When the open pan boils steadily, we start the ten-minute timer. Stay back and watch the steam. Where does it go in each pan?",
      "kid": "A grown-up boils both pans for ten minutes. Stay back. Watch the steam.",
      "adult": true,
@@ -1329,7 +1329,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A strong answer: What I think: a lid keeps almost all the water in the pan. What I saw: the open pan lost about ninety millilitres and the covered pan about ten, and there were drops under the lid. Why: the vapour meets the cooler lid, turns back to liquid and drips back. Do not explain it yourself before they have answered.",
      "check": {
       "t": "mcq",
@@ -1424,7 +1424,7 @@
      "id": "s3",
      "mins": 4,
      "do": "1. A grown-up opens the door again. 2. Breathe out slowly into the cold space. 3. Watch your breath. 4. Close the door.",
-     "say": "Breathe out slowly into the freezer. What do you see? Where do you think your breath's water came from?",
+     "say": "Breathe out slowly into the freezer. What do you see? Where do you think the water in your breath came from?",
      "kid": "Breathe out into the freezer. What do you see? Where did the cloud come from?",
      "adult": true,
      "parent": "Your breath carries water vapour from inside you. The cold air cools it below its dew point, and a white cloud of tiny drops appears. It is the same thing that happens on a cold morning when you can see your breath. The breath cloud works even when the fog does not, so the activity never fails. For 2 to 4 children: one child holds the torch and one watches the direction of the fog, then swap and repeat.",
@@ -1514,7 +1514,7 @@
      "say": "Hold the back of your hand a few centimetres away. Do not touch it. Is it warmer here than at the front? Which part is warmest?",
      "kid": "Hold your hand near the back of the fridge. Do not touch. Is it warm? Where is it warmest?",
      "adult": true,
-     "parent": "Hold the hand on the side panel too, as many fridges have their warm pipe there. The warmth is gentle, not hot. If the fridge back is not reachable, feel the air that comes out below or above the fridge. For 2 to 4 children: each child scores the warmth and compares scores. If they differ, hold the hand at the same distance. No fridge back is reachable? Feel the warm air at the gap above or below.",
+     "parent": "Hold the hand near the side panel too, as many fridges have their warm pipe there. The warmth is gentle, not hot. If you cannot reach the back of the fridge, feel the warm air that comes out at the gap above or below it. For 2 to 4 children: each child scores the warmth, and they compare scores. If the scores differ, try again with every hand at the same distance.",
      "context": "In this step you feel the warmth coming from the back of the fridge."
     },
     {
@@ -1534,7 +1534,7 @@
        "Heat from inside the food just disappears"
       ],
       "a": 0,
-      "why": "A fridge takes heat from inside and gives it out at the back, where the special liquid condenses. The motor adds a little heat too, but the main warmth is the heat taken from the food. Heat is never made to disappear."
+      "why": "A fridge takes heat from inside and gives it out at the back, where the special liquid condenses. The motor adds a little heat too, but the main warmth is the heat taken from the food. Heat never just disappears."
      },
      "context": "In this step you feel the air from an outdoor air conditioner, if your home has one, and answer the question."
     }
@@ -1621,7 +1621,7 @@
      "do": "1. Wipe the outside of each tumbler dry. 2. Watch each one for two minutes. 3. Write whether it misted, and how soon. 4. Compare with your predictions. 5. Wipe one misted patch with a finger. If it mists again, the water came from the air, not from a leak.",
      "say": "Wipe each tumbler dry. Watch for two minutes. Does mist appear? How soon? Was your prediction right?",
      "kid": "Wipe each tumbler dry. Watch for two minutes. Does mist appear?",
-     "parent": "A glass colder than the dew point will mist within a minute. A glass warmer than it will stay dry. If the tap-water glass is only slightly warmer, add one ice cube at a time and stir. The mist should start when the water has cooled just below the dew point. If you have a thermometer, read the water temperature at that moment. The mist test works with steel tumblers too, they just go dull. For 2 to 4 children: each child owns one glass and makes the prediction before the others see the result. A phone weather app may show only humidity, so use the chart.",
+     "parent": "A glass colder than the dew point will mist within a minute. A glass warmer than it will stay dry. If the tap-water glass is only slightly warmer, add one ice cube at a time and stir. The mist should start when the water has cooled just below the dew point. If you have a thermometer, read the water temperature at that moment. The mist test works with steel tumblers too. The steel just goes dull. For 2 to 4 children: each child takes one glass and makes the prediction before the others see the result. If the weather app shows only humidity, use the dew point chart from the Will It Mist? game.",
      "check": {
       "t": "mcq",
       "q": "The dew point is 23 degrees. Which glass of water will mist?",
@@ -1689,13 +1689,13 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. If the sky is clear or overcast, skip to the sum. Flat bottoms are easiest to see on a sunny afternoon with small, separate clouds.",
+     "parent": "Do not correct the guess. If the sky is clear or overcast, skip to the next step, where you work out the height. Flat bottoms are easiest to see on a sunny afternoon with small, separate clouds.",
      "context": "This is the first step of the Flat-Bottomed Clouds activity. You look at the sky and guess."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Read the temperature and the dew point on the weather app. 2. Subtract the dew point from the temperature. 3. Multiply by 125. The answer is the height of the cloud bottoms in metres. The answer is about that height, not exact.",
+     "do": "1. Read the temperature and the dew point on the weather app. 2. Subtract the dew point from the temperature. 3. Multiply by 125. The answer is roughly the height of the cloud bottoms in metres. It is not exact.",
      "say": "Take the dew point away from the temperature. Then multiply by 125. That gives the height of a cloud bottom in metres. For 32 degrees and a dew point of 22, what do you get?",
      "kid": "Temperature minus dew point. Multiply by 125. That is the cloud height in metres.",
      "parent": "For 32 degrees and a dew point of 22, 32 take away 22 is 10, and 10 times 125 is 1250 metres. This is a rule of thumb for clouds made by warm air rising on a sunny day. It gives an estimate, not an exact height.",
@@ -1707,7 +1707,7 @@
      "do": "1. Talk about the answer. 2. A 30-floor building is about 100 metres tall. How many of them would you stack to reach the cloud bottom? 3. Explain why the bottoms are flat. 4. Do the sum again early next morning. Compare. Which gives lower cloud bottoms? Why?",
      "say": "A 30-floor building is about 100 metres. How many would you stack to reach the cloud bottoms? Why are the bottoms flat? What happens to rising air as it climbs?",
      "kid": "How many tall buildings would reach the cloud? Why are the bottoms flat?",
-     "parent": "Warm air rises and cools as it climbs. At the height where it has cooled to its dew point, its vapour condenses into drops, and a cloud begins. Every rising bubble of air reaches that height at the same level, so the bottoms are flat. The early-morning sum is usually smaller because the air is closer to its dew point. For 2 to 4 children: each works out the sum alone and the answers are compared. On cloudy or rainy days the rule does not fit, so use it only on a sunny afternoon with small clouds.",
+     "parent": "Warm air rises and cools as it climbs. At the height where it has cooled to its dew point, its vapour condenses into drops, and a cloud begins. Every rising bubble of air cools to its dew point at about the same height, so the bottoms are flat. The early-morning sum is usually smaller because the air is closer to its dew point. For 2 to 4 children: each works out the sum alone and the answers are compared. On cloudy or rainy days the rule does not fit, so use it only on a sunny afternoon with small clouds.",
      "check": {
       "t": "mcq",
       "q": "Why do fair-weather clouds have flat bottoms at the same height?",
@@ -1719,7 +1719,7 @@
       "a": 0,
       "why": "Rising air cools as it climbs. At one particular height it reaches its dew point, and the water vapour condenses into drops. That height is nearly the same over a wide area, so the bottoms are level. Wind does not cut clouds flat, and the Sun does not melt them."
      },
-     "context": "In this step you picture how tall the cloud base is and explain why it is flat."
+     "context": "In this step you picture how high the cloud base is and explain why it is flat."
     }
    ]
   },
@@ -1876,22 +1876,22 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Measure, write the weather."
+     "what": "Measure the depth in each jar and write the weather."
     },
     {
      "day": 4,
      "mins": 5,
-     "what": "Measure, write the weather."
+     "what": "Measure the depth in each jar and write the weather."
     },
     {
      "day": 5,
      "mins": 5,
-     "what": "Measure, write the weather."
+     "what": "Measure the depth in each jar and write the weather."
     },
     {
      "day": 6,
      "mins": 5,
-     "what": "Measure, write the weather."
+     "what": "Measure the depth in each jar and write the weather."
     },
     {
      "day": 7,
@@ -1924,7 +1924,7 @@
      "mins": 20,
      "do": "1. Pour water into each jar until it is 60 millimetres deep. 2. Tie a cloth over the mouth of each jar with a rubber band. 3. Put one jar on a sunny ledge under a roof, so rain cannot fall in. 4. Put the other in a shady room. 5. Ask your child to predict how much each jar will lose.",
      "say": "We will measure the water in two jars every day for a week. One is in the sun and one in the shade. How many millimetres will each lose in a day? Which will lose more? Why do you think so?",
-     "kid": "Fill two jars to 60 millimetres. Cover with cloth. One in the sun, one in the shade. Guess how much they lose.",
+     "kid": "Fill two jars to 60 millimetres. Cover each with a cloth. Put one in the sun and one in the shade. Guess how much each will lose.",
      "ask": [
       {
        "q": "Why do you think the sunny jar will lose more water?",
@@ -2004,7 +2004,7 @@
     "Use a lid and a dry rice layer together, and compare with the lid alone.",
     "Test two designs that differ in only one way, such as with rice and without rice."
    ],
-   "your_turn": "Sketch two or three designs. Build them and test them in the humid box for forty minutes. Which kept the salt loosest? Which kept it dampest? Why do you think so? What would you change next time?",
+   "your_turn": "Sketch two or three designs. Build them and test them in the humid box for forty minutes. Which kept the salt loosest? Which left it dampest? Why do you think so? What would you change next time?",
    "setup": [
     {
      "art": "Three small jars on a table: one with a tight lid, one with salt and rice, one covered with foil, beside a plain open saucer of salt.",
@@ -2036,7 +2036,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the Keep the Salt Free-Flowing challenge. You plan."
+     "context": "This is the first step of the Keep the Salt Free-Flowing challenge. You plan your designs."
     },
     {
      "id": "s2",
@@ -2044,7 +2044,7 @@
      "do": "1. Build each design with one level teaspoon of salt. 2. Label each one. 3. Set out the plain open saucer of salt as the control. 4. Write what each design is.",
      "say": "Build your designs. Use one level teaspoon of salt each. Label them. The plain open saucer is the control.",
      "kid": "Build your designs. Put one spoon of salt in each. Label them. Set out a plain saucer.",
-     "parent": "Keep the designs simple. One variable at a time makes the result easier to understand. A plain open saucer in the box is the control.",
+     "parent": "Keep the designs simple. Change one thing at a time, so the result is easier to understand. A plain open saucer in the box is the control.",
      "context": "In this step you build your designs and set out the control."
     },
     {
@@ -2073,7 +2073,7 @@
        "Jars stop salt dissolving"
       ],
       "a": 0,
-      "why": "The salt is the same, and both were in the same humid air. Only the lid changed. The lid kept the vapour away from the salt, so it stayed dry. Salt in a jar is not colder, and the dampness is not about dissolving in a jar."
+      "why": "The salt is the same, and both were in the same humid air. Only the lid changed. The lid kept the vapour away from the salt, so it stayed dry. The jar did not make the salt colder, and dissolving has nothing to do with it."
      },
      "context": "In this step you open the box and compare all your designs with the control."
     }
@@ -2243,7 +2243,7 @@
     },
     {
      "t": "odd",
-     "p": "Which one is not a thing that pulls water out of damp air?",
+     "p": "Which one does not pull water out of damp air?",
      "opts": [
       "Table salt",
       "Jaggery powder",
@@ -2278,7 +2278,7 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi, a girl in Class 4, notices that the salt in her family's kitchen box goes lumpy every monsoon. Three people suggest how to keep it loose.",
+     "p": "The salt in a family's kitchen box goes lumpy every monsoon. Three people in the family suggest how to keep it loose.",
      "views": [
       {
        "who": "Her father",
@@ -2400,7 +2400,7 @@
      "t": "label",
      "p": "Label the drawing of a flat-bottomed cloud: warm air rising, air cooling, the height where the dew point is reached, the cloud base, the cloud.",
      "a": "Warm air rising from the ground. The air cooling as it climbs. A level line where it reaches its dew point. The cloud base at that line. The cloud above it.",
-     "why": "A cloud begins where rising air has cooled to its dew point, and all rising air reaches that height at about the same level, so the base is flat.",
+     "why": "A cloud begins where rising air has cooled to its dew point. All rising air cools to its dew point at about the same height, so the base is flat.",
      "art": "A hot field with an arrow of rising air going up to a small white cloud with a flat bottom, and five blank label lines.",
      "how": "a4"
     },
@@ -2484,7 +2484,7 @@
    "items": [
     {
      "t": "write",
-     "p": "In a lid-on and lid-off test, the open pan lost 90 millilitres of 500 and the covered pan lost 10 millilitres. Write a claim, the evidence and the reasoning.",
+     "p": "In the Lid On or Lid Off test, the open pan lost 90 of its 500 millilitres and the covered pan lost 10 millilitres. Write a claim, the evidence and the reasoning.",
      "lines": 5,
      "a": "Claim: a lid keeps almost all the water in a boiling pan. Evidence: the open pan lost 90 millilitres and the covered pan only 10. Reasoning: the vapour meets the cooler lid, turns back into drops and falls back into the pan.",
      "why": "A strong answer states the claim, uses both numbers as evidence and explains how the lid works.",
@@ -2494,7 +2494,7 @@
      "t": "mcq",
      "p": "Steam at 100 degrees burns skin worse than boiling water at 100 degrees. Why?",
      "opts": [
-      "Steam gives out a large amount of heat as it condenses on the skin, as well as cooling",
+      "Steam gives out a large amount of heat as it condenses on the skin, as well as the heat it gives out as it cools",
       "Steam is hotter than 100 degrees",
       "Water cannot burn"
      ],
@@ -2673,7 +2673,7 @@
      "t": "write",
      "p": "A friend says ice cubes shrink in the freezer because they melt a little. How would you show that this is not the right explanation?",
      "lines": 4,
-     "a": "The freezer is below zero, so ice cannot melt there. You could weigh a cube and keep another sealed in a box, and compare after a few days. The open cube gets lighter and the walls get frost, so the ice has turned into vapour. The sealed one stays the same.",
+     "a": "The freezer is below zero, so ice cannot melt there. You could weigh two cubes, leave one open in the freezer and seal the other in a box, and weigh them again after a few days. The open cube gets lighter and the walls get frost, so the ice has turned into vapour. The sealed one stays the same.",
      "why": "A strong answer uses a test with a sealed control, and points to the frost on the walls as the vapour landing again."
     }
    ]
@@ -2942,7 +2942,7 @@
   "Why do you think we cover a pan when we want the water to boil sooner?",
   "Why do you think the salt in the box goes lumpy in the rainy season?",
   "Which would dry faster on a plate, water or sanitiser, and why?",
-  "Why do you think clothes dry faster in a dry wind, but the heat of a monsoon day makes us sweat so much?",
+  "Clothes dry fast in a dry wind. On a damp monsoon day we stay wet with sweat. Why do you think that is?",
   "Have you seen your breath as a white cloud? When was that, and why do you think it appeared?",
   "What do you think the flat bottoms of clouds tell us about the air below them?",
   "Why do you think a wet cloth on a hot forehead feels cool?"
@@ -3030,7 +3030,7 @@
    "why_maths": "Finding the total change and sharing it over the days gives a typical loss for a day, which you can compare between jars."
   },
   {
-   "problem": "The temperature is 34 degrees Celsius and the dew point is 22 degrees. Each degree between them is about 125 metres of height to the cloud bottoms. How many metres up are the cloud bottoms? How many kilometres is that?",
+   "problem": "The temperature is 34 degrees Celsius and the dew point is 22 degrees. For each degree of difference between them, the cloud bottoms are about 125 metres higher. How many metres up are the cloud bottoms? How many kilometres is that?",
    "answer": "1500 metres, which is 1 and a half kilometres.",
    "explain": "34 take away 22 is 12. 12 times 125 is 1500 metres. 1000 metres make a kilometre, so that is 1 and a half kilometres.",
    "math_unit": "math.length.kilometres-and-conversions.L4",
@@ -3148,7 +3148,7 @@
    "a": "Sanitiser, because its particles hold each other weakly."
   },
   {
-   "q": "What happens to the temperature of the liquid left behind when a liquid evaporates?",
+   "q": "When a liquid evaporates, what happens to the temperature of the liquid left behind?",
    "a": "It falls, because the fastest particles took heat away."
   },
   {
