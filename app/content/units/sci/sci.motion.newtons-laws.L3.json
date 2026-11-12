@@ -145,7 +145,7 @@
    "concept": "Why things on Earth stop: friction and air resistance",
    "status": "defined",
    "definition": "On Earth, moving things slow down and stop because forces act on them: friction from the surface they touch, and air resistance from the air.",
-   "description": "Roll a marble from the same ramp onto a towel, a doormat and a bare floor. On the towel it stops after a short way, because the towel gives a lot of friction. On the smooth floor it rolls much further. Ice is smoother and more slippery still, so a ball or a stone slides a very long way on ice. The less friction and air resistance, the further a thing goes. With none at all, it would never stop. This is the 'ball on ice' that the first law is often explained with.",
+   "description": "Roll a marble from the same ramp onto a towel, a doormat and a bare floor. On the towel it stops after a short way, because the towel gives a lot of friction. On the smooth floor it rolls much further. Ice is smoother and more slippery still, so a ball or a stone slides a very long way on ice. The less friction and air resistance, the further a thing goes. With none at all, it would never stop. People often use a ball sliding on ice to explain the first law.",
    "examples": [
     "A marble stops quickly on a towel but rolls across a tiled floor.",
     "A stone slid across a frozen lake glides a long way.",
@@ -160,7 +160,7 @@
    "concept": "Turning needs a force too",
    "status": "defined",
    "definition": "A moving thing goes in a straight line unless a force turns it. Changing direction is a change of motion, so it needs a force.",
-   "description": "Swing a rolled sock on a string in a circle, and the string pulls the sock towards your hand all the time. That pull keeps turning it. Let go of the string, and the sock flies off in a straight line, the way it was going at that moment. It does not keep curving. When a bus turns left, your body keeps going straight, so you lean against the side of the bus. The bus turns, and you are carried round only when the seat or the bar pushes on you.",
+   "description": "Swing a rolled sock on a string in a circle, and the string pulls the sock towards your hand all the time. That pull keeps turning it. Let go of the string, and the sock flies off in a straight line, the way it was going at that moment. It does not keep curving. When a bus turns left, your body keeps going straight, so you lean against the side of the bus. You turn with the bus only when the seat or the bar pushes on you.",
    "examples": [
     "When a bus turns a corner, passengers lean towards the outside of the turn.",
     "A sock swung on a string flies off in a straight line when you let go.",
@@ -327,7 +327,7 @@
   {
    "q": "If nothing ever slowed it down, would a rolling marble roll for ever?",
    "kind": "deep",
-   "hint": "Think about the towel, the floor and the ice. What happens as the slowing force gets smaller and smaller?"
+   "hint": "Think of a marble rolling on a towel, on a bare floor and on ice. What happens as the slowing force gets smaller and smaller?"
   },
   {
    "q": "Newton's law says what things do, but not why. Is it enough to know what always happens, or do we need to know why?",
@@ -498,7 +498,7 @@
       },
       {
        "f": "A sock swung on a string is let go. Keep going or change?",
-       "b": "Keep going: straight, not round. The string no longer turns it."
+       "b": "Keep going: it flies off straight, not round in a circle. The string no longer turns it."
       },
       {
        "f": "You toss a ball up in a smooth train. Keep going or change?",
@@ -644,7 +644,7 @@
     "The driver reads a card aloud.",
     "Passengers lean the way their bodies would really move, and freeze like statues.",
     "The driver checks: starting, lean back. Braking or stopping at a signal, lean forward. Turning left, lean right. Turning right, lean left. Going round a roundabout, lean away from the middle. Speed breaker, bend your knees a little, because the bus rises under you. Pothole, stand tall and feel lighter for a moment. Steady speed or parked, stand still. A gentle start or brake gets a small lean.",
-    "A right lean gets 1 point. After 12 cards, add up. With friends, the passenger with most points becomes the driver. With one passenger, try to get all 12, then swap jobs and play again."
+    "A correct lean gets 1 point. After 12 cards, add up the points. With friends, the passenger with the most points becomes the driver. With one passenger, try to get all 12 right, then swap jobs and play again."
    ],
    "flow": [
     {
@@ -832,20 +832,20 @@
      "parent": "Expect the socks to land past the plate, often about 20 to 50 cm past, in the direction your child was walking. Measure from the centre of the plate to the middle of the socks. If they land on the plate, check that your child is not stopping or pulling the hand back as they let go.",
      "check": {
       "t": "mcq",
-      "q": "Riya, a girl in Class 3, walks past a plate and lets go of rolled socks right above it. Where do the socks land?",
+      "q": "You walk past a plate and let go of rolled socks right above it. Where do the socks land?",
       "options": [
        "On the plate",
-       "Before the plate, behind her",
-       "Past the plate, in the direction she was walking"
+       "Before the plate, behind you",
+       "Past the plate, in the direction you were walking"
       ],
       "a": 2,
-      "why": "The socks were moving forward with Riya. After she let go, nothing pushed them back, so they kept moving forward while they fell, and landed past the plate. Picking 'on the plate' means thinking the socks stop moving forward the moment they leave the hand. Picking 'behind her' means thinking the socks are left behind. Both are very common guesses."
+      "why": "The socks were moving forward with you. After you let go, nothing pushed them back, so they kept moving forward while they fell, and landed past the plate. Picking 'on the plate' means thinking the socks stop moving forward the moment they leave the hand. Picking 'behind you' means thinking the socks are left behind. Both are very common guesses."
      }
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Now your child walks fast, but does not run. 2. Say 'now' above the plate, as before. 3. Mark and measure. 4. Do it 3 times. 5. Fill in the table.",
+     "do": "1. Now your child walks fast, but does not run. 2. Say 'now' when their hand is right above the plate, as before. 3. Mark and measure where the socks land. 4. Do it 3 times. 5. Fill in the table.",
      "say": "Now walk fast, but don't run. Let go at 'now' again. Will the socks land in the same place, nearer the plate, or further away? Why do you think so?",
      "kid": "Walk fast this time. Don't run! Let go when your helper says now. Do the socks land further away? Measure.",
      "parent": "Walking fast, the socks usually land further past the plate, often 50 to 90 cm. Results vary by 10 or 20 cm between tries, because nobody lets go at exactly the same moment. That is why we do 3 tries."
@@ -853,9 +853,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Swap jobs: you walk and drop, and your child watches from the side, crouching low. 2. Ask them to watch the path of the socks in the air. 3. Then ask what the dropper saw.",
+     "do": "1. Swap jobs: you walk and drop, and your child watches from the side, crouching low. 2. Ask them to watch the path of the socks in the air. 3. Then ask what the socks seemed to do when your child was the one walking.",
      "say": "Now you watch from the side, and I'll walk. Watch the socks in the air very carefully. Do they fall straight down, or in a curve?",
-     "kid": "Now you watch from the side. Your helper walks and drops. Watch the socks in the air. Straight down, or a curve?",
+     "kid": "Now you watch from the side. Your helper walks and drops. Watch the socks in the air. Do they fall straight down, or in a curve?",
      "ask": [
       {
        "q": "What path did the socks take, seen from the side?",
@@ -887,7 +887,7 @@
      "mins": 6,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: when you let go of something while you walk, it keeps moving forward as it falls. What I saw: standing still, the socks landed on the plate. Walking slowly, they landed about 35 cm past. Walking fast, about 70 cm past. Why: the socks were moving forward with me, and nothing pushed them back after I let go, so they kept going forward until they hit the floor."
     }
    ]
@@ -897,7 +897,7 @@
    "title": "The Egg That Keeps Turning",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you find out which eggs are raw and which are boiled, without cracking any of them. You spin each egg, stop it for a moment, and let go. If your family does not use eggs, do the Water That Keeps Turning activity instead (a2). It shows the same idea.",
+   "context": "In this experiment you find out which eggs are raw and which are boiled, without cracking any of them. You spin each egg, stop it for a moment, and let go. If your family does not use eggs, do the activity called The Water That Keeps Turning instead. It shows the same idea.",
    "question": "Can we tell a raw egg from a boiled egg by spinning it, stopping it and letting go?",
    "predict": "Guess first. When you stop a spinning egg with one finger and let go, will it stay still or start turning again? Will a raw egg and a boiled egg do the same thing? Why do you think so?",
    "fair_test": "Use eggs of about the same size, spun on the same plate. Stop each one with one fingertip for about one second, then lift your finger. Test each egg 3 times. You don't know which egg is which until the end, so you can't fool yourself.",
@@ -977,20 +977,20 @@
      "parent": "A boiled egg stays still once stopped. A raw egg slowly starts turning again, for half a turn or more. If nothing happens with any egg, the stop was too long: touch for only about one second, then lift your finger right away.",
      "check": {
       "t": "mcq",
-      "q": "Meera, a girl in Class 3 in Chennai, stops a spinning raw egg with her finger and lets go. The egg starts turning again. Why?",
+      "q": "You stop a spinning raw egg with your finger and let go. The egg starts turning again. Why?",
       "options": [
-       "Her finger pushed it",
+       "Your finger pushed it",
        "The runny inside kept turning after the shell stopped, and it turned the shell again",
        "Raw eggs are lighter"
       ],
       "a": 1,
-      "why": "Meera's finger stopped only the shell. The runny inside was not touched, so it kept turning, because of inertia. When she let go, the turning inside rubbed on the shell and set it turning again. In a boiled egg the inside is solid and fixed to the shell, so the whole egg stops together. Picking 'her finger pushed it' is a fair guess: try lifting the finger very carefully, straight up, and see that it still happens."
+      "why": "Your finger stopped only the shell. The runny inside was not touched, so it kept turning, because of inertia. When you let go, the turning inside rubbed on the shell and set it turning again. In a boiled egg the inside is solid and fixed to the shell, so the whole egg stops together. Picking 'your finger pushed it' is a fair guess: try lifting the finger very carefully, straight up, and see that it still happens."
      }
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Your child says which eggs they think are raw and why. 2. Show your secret note. 3. Crack one egg your child chose as raw into a bowl, to check.",
+     "do": "1. Your child says which eggs they think are raw and why. 2. Show your note of which eggs are raw. 3. Crack one egg your child chose as raw into a bowl, to check.",
      "say": "Which two do you think are raw? What did they do that tells you? Let's check one by cracking it.",
      "kid": "Which two eggs are raw? Say why. Now crack one into a bowl. Were you right?",
      "adult": true,
@@ -1000,13 +1000,13 @@
   },
   {
    "id": "e3",
-   "title": "How Far Will It Roll? On the way to ice",
+   "title": "How Far Will It Roll? Towel, doormat and bare floor",
    "mins": 25,
    "days": 1,
    "context": "In this experiment you roll a marble down the same ramp onto three different floors, and measure how far it goes. It shows why moving things on Earth stop.",
    "question": "A marble rolls down the same ramp onto a towel, a doormat and a bare floor. On which will it roll furthest, and why?",
    "predict": "Guess first. Put the three surfaces in order, from shortest roll to longest roll. Then guess: on ice, would it roll even further? Why do you think so?",
-   "fair_test": "Use the same marble, the same ramp at the same height, and let go from the same mark every time. Don't push the marble, just let go. Only the surface changes. Roll 3 times on each, because one try can be a fluke. Keep the book end of the ramp the same every time.",
+   "fair_test": "Use the same marble, the same ramp at the same height, and let go from the same mark every time. Don't push the marble, just let go. Only the surface changes. Roll 3 times on each, because one try can be a fluke. Rest the ruler on the book in the same way every time.",
    "results_table": [
     "Surface",
     "Try 1 (cm)",
@@ -1046,7 +1046,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Roll a marble down a ruler ramp onto a towel, a doormat and a bare floor. Measure how far it rolls. Imagine ice."
+     "what": "Roll a marble down a ruler ramp onto a towel, a doormat and a bare floor. Measure how far it rolls. Then imagine how far it would roll on ice."
     }
    ],
    "record": "Fill in the table and draw a bar chart with one bar for each surface.",
@@ -1097,7 +1097,7 @@
      "kid": "Which floor stopped the marble fastest? What slowed it down?",
      "check": {
       "t": "mcq",
-      "q": "Arjun, a boy in Class 3, rolls a marble. It rolled 20 cm on a towel and 250 cm on tiles, from the same ramp. Why did it go so much further on the tiles?",
+      "q": "From the same ramp, a marble rolled 20 cm on a towel and 250 cm on tiles. Why did it go so much further on the tiles?",
       "options": [
        "The tiles pushed it along",
        "The tiles gave less friction, so less force slowed it down",
@@ -1129,7 +1129,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: friction is what slows a rolling marble down, and with no friction it would never stop. What I saw: from the same ramp, the marble rolled about 20 cm on the towel, 60 cm on the mat and 250 cm on the tiles. Why: the rougher the surface, the more friction, and the faster it stopped. Less friction means a longer roll, so with none it would keep going."
     }
    ]
@@ -1203,7 +1203,7 @@
      "kid": "Nothing pushed the coin down. So why did it fall into the tumbler?",
      "check": {
       "t": "mcq",
-      "q": "Ananya, a girl in Class 3, flicks the card away fast, and the coin drops into the tumbler. Why?",
+      "q": "You flick the card away fast, and the coin drops into the tumbler. Why?",
       "options": [
        "The flick pushed the coin down",
        "The coin stayed still while the card shot away, and then gravity pulled it down",
@@ -1220,7 +1220,7 @@
    "title": "The Water That Keeps Turning",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you stir water in a bowl and stop stirring. Does the water stop too? Then you turn the bowl and watch a leaf on the water. It works for families who do not use eggs, instead of the egg experiment.",
+   "context": "In this activity you stir water in a bowl and stop stirring. Does the water stop too? Then you turn the bowl and watch a leaf on the water. Families who do not use eggs can do this instead of the egg experiment.",
    "materials": [
     {
      "item": "a round steel bowl, about half full of water",
@@ -1272,7 +1272,7 @@
      "do": "1. Wait until the water is completely still. 2. Float the leaf in the middle, pointing at a spot on the wall. 3. Your child turns the bowl quickly a quarter turn, then holds it still.",
      "say": "Now the water is still. If you turn the bowl quickly, will the water and the leaf turn with it? Why do you think so?",
      "kid": "Wait until the water is still. Float the leaf. Turn the bowl quickly. Does the leaf turn with the bowl?",
-     "parent": "The bowl turns, but the water and the leaf mostly stay where they were, though the leaf may drift a little, so it keeps pointing at nearly the same spot on the wall. Turn it smoothly and quickly. A slow turn gives the bowl time to drag the water round."
+     "parent": "The bowl turns, but the water and the leaf mostly stay where they were. The leaf may drift a little, but it keeps pointing at nearly the same spot on the wall. Turn the bowl smoothly and quickly. A slow turn gives the bowl time to drag the water round."
     },
     {
      "id": "s3",
@@ -1282,7 +1282,7 @@
      "kid": "Moving water kept moving. Still water stayed still. Why?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 3, stirs water in a bowl and lifts the spoon out. Why does the water keep turning?",
+      "q": "You stir water in a bowl and lift the spoon out. Why does the water keep turning?",
       "options": [
        "Because of inertia: moving water keeps moving until friction slows it",
        "Because the bowl is still turning",
@@ -1343,17 +1343,17 @@
      "do": "1. Your child flicks the striker hard into the bottom coin. 2. Try a soft, slow flick too. 3. Try 5 times each.",
      "say": "Flick it hard and fast. Then try a slow, soft flick. What is different?",
      "kid": "Flick the striker hard. Did only the bottom coin move? Now try a slow flick. What happened?",
-     "parent": "A hard, fast hit knocks out the bottom coin, and the rest drop straight down. A slow hit pushes the whole tower over. Hitting low and flat matters, so it may take a few tries."
+     "parent": "A hard, fast hit knocks out the bottom coin, and the rest drop straight down. A slow hit pushes the whole tower over. The striker must hit the bottom coin low and flat, so it may take a few tries."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Talk about why the fast hit works.",
      "say": "Why did the coins on top drop straight down instead of flying off?",
-     "kid": "Why did the top coins stay and drop down?",
+     "kid": "Why did the top coins drop straight down instead of flying off?",
      "ask": [
       {
-       "q": "Why did the top coins stay?",
+       "q": "Why did the top coins stay in place and drop straight down?",
        "good": [
         "They were still and stayed still, because the bottom coin rubbed them for only a moment.",
         "Inertia."
@@ -1426,14 +1426,14 @@
      "kid": "When a bus brakes, which way do people lurch? Why? Is it like the water?",
      "check": {
       "t": "mcq",
-      "q": "Farhan, a boy in Class 3, is standing in a city bus. The bus brakes suddenly. Which way does his body lurch?",
+      "q": "You are standing in a city bus. The bus brakes suddenly. Which way does your body lurch?",
       "options": [
-       "Forward, because his body keeps moving",
-       "Backward, because the bus pushes him back",
-       "He does not move at all"
+       "Forward, because your body keeps moving",
+       "Backward, because the bus pushes you back",
+       "You do not move at all"
       ],
       "a": 0,
-      "why": "Farhan's body was moving forward with the bus. When the bus slows, his body keeps moving forward until his feet, the floor and his hand on the bar slow him down. That is why people hold the bar. Picking 'backward' mixes it up with what happens when the bus starts suddenly."
+      "why": "Your body was moving forward with the bus. When the bus slows, your body keeps moving forward until your feet, the floor and your hand on the bar slow you down. That is why people hold the bar. Picking 'backward' mixes it up with what happens when the bus starts suddenly."
      }
     }
    ]
@@ -1495,7 +1495,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about it on the way home.",
+     "do": "On the way home, talk about what the ball did.",
      "say": "With your eyes shut on a smooth ride, could you tell you were moving? So could we be moving right now, without feeling it?",
      "kid": "Shut your eyes on a smooth ride. Can you tell you are moving? Is the Earth moving now?",
      "ask": [
@@ -1587,7 +1587,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Connect it to real seatbelts and helmets.",
+     "do": "Talk about real seatbelts and helmets.",
      "say": "Why does everyone in a car need to wear a seatbelt, even in the back seat?",
      "kid": "Why should everyone in a car wear a seatbelt, even at the back?",
      "check": {
@@ -1665,12 +1665,12 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Talk about it.",
+     "do": "Talk about why the sock flew off straight.",
      "say": "Why did the sock go straight once you let go?",
      "kid": "Why did the sock fly straight?",
      "ask": [
       {
-       "q": "Why did it go straight?",
+       "q": "Why did the sock go straight when you let go?",
        "good": [
         "The string stopped pulling, so nothing turned it.",
         "Moving things go straight unless a force turns them."
@@ -1777,7 +1777,7 @@
    "id": "c1",
    "title": "Save the Dough Passenger",
    "mins": 30,
-   "context": "This is an engineering challenge. You design a car that keeps a dough passenger safe when it crashes into a book from a steeper slope.",
+   "context": "This is an engineering challenge. You design a car that keeps a dough passenger safe when it rolls down a steep slope and crashes into a book.",
    "problem": "A toy car rolls down a steep slope and hits a book wall. Design a way to keep a soft atta-dough passenger on the car and unsquashed.",
    "constraints": [
     "Use only things from home.",
@@ -1820,9 +1820,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Run the car with a bare passenger down the steep slope once, so your child sees the problem.",
-     "say": "Watch what happens to the passenger with no safety at all. What goes wrong?",
-     "kid": "Roll the car with no safety. What happens to the passenger?"
+     "do": "Run the car down the steep slope once, with nothing holding the passenger on, so your child sees the problem.",
+     "say": "Watch what happens to the passenger with nothing to keep them safe. What goes wrong?",
+     "kid": "Roll the car with nothing holding the passenger on. What happens to the passenger?"
     },
     {
      "id": "s2",
@@ -1959,14 +1959,14 @@
   },
   {
    "t": "mcq",
-   "p": "Nisha, a girl in Class 3, walks past a plate and lets go of rolled socks right above it. Where do they land?",
+   "p": "You walk past a plate and let go of rolled socks right above it. Where do they land?",
    "opts": [
     "On the plate",
     "Behind the plate",
     "Past the plate"
    ],
    "a": 2,
-   "why": "The socks keep moving forward as they fall, so they land past the plate. Picking 'on the plate' means thinking they lose their forward motion when they leave her hand.",
+   "why": "The socks keep moving forward as they fall, so they land past the plate. Picking 'on the plate' means thinking they lose their forward motion when they leave your hand.",
    "outcome": 2,
    "how": "e1"
   },
@@ -2047,7 +2047,7 @@
   },
   {
    "t": "mcq",
-   "p": "The stars seem to move west across the night sky. If really the Earth is turning and the stars are still, which is the best comparison?",
+   "p": "The stars seem to move west across the night sky, but really the Earth is turning and the stars are still. Which comparison fits this best?",
    "opts": [
     "A person in a moving boat, who sees the trees on the bank move backwards",
     "A spinning top",
@@ -2104,22 +2104,22 @@
    "items": [
     {
      "t": "sort",
-     "p": "Divya, a girl in Class 3 in Kochi, writes down six moments from her day. Sort each one: is a force changing the motion, or is the thing just keeping on doing what it was doing?",
+     "p": "Here are six moments from a day. Sort each one: is a force changing the motion, or is the thing just keeping on doing what it was doing?",
      "cats": [
       "A force changes the motion",
       "It keeps doing what it was doing"
      ],
      "items": [
       [
-       "A football she kicks starts rolling",
+       "A football you kick starts rolling",
        "A force changes the motion"
       ],
       [
-       "Her pencil box lies on the desk all morning",
+       "Your pencil box lies on the desk all morning",
        "It keeps doing what it was doing"
       ],
       [
-       "Her cycle slows down when she stops pedalling",
+       "Your cycle slows down when you stop pedalling",
        "A force changes the motion"
       ],
       [
@@ -2127,7 +2127,7 @@
        "It keeps doing what it was doing"
       ],
       [
-       "Her hand catches a tossed ball",
+       "Your hand catches a tossed ball",
        "A force changes the motion"
       ],
       [
@@ -2136,24 +2136,24 @@
       ]
      ],
      "a": "see items",
-     "why": "Whenever motion starts, stops, speeds up, slows down or turns, a force is acting: a kick, friction, a hand. Things that stay still, or keep moving straight at a steady speed, need no force. A strong answer sorts the slowing cycle as a force, friction, and not as stopping by itself."
+     "why": "Whenever motion starts, stops, speeds up, slows down or turns, a force is acting: a kick, friction, a hand. Things that stay still, or keep moving straight at a steady speed, need no force. A strong answer puts the slowing cycle under 'a force changes the motion', because friction slows it. The cycle does not stop by itself."
     },
     {
      "t": "truefalse",
-     "p": "Meenakshi, a girl in Class 3, says, 'If you stop pushing a moving thing, it stops by itself.' Is she right?",
+     "p": "If you stop pushing a moving thing, it stops by itself.",
      "a": false,
      "why": "False. A moving thing keeps moving until a force stops it. On Earth that force is usually friction or air resistance, which is why it seems to stop by itself. On ice it slides much further, and in space it would not stop at all."
     },
     {
      "t": "mcq",
-     "p": "Riya, a girl in Class 3, walks past a steel plate and lets go of rolled socks right above it. Where do they land?",
+     "p": "You walk past a steel plate and let go of rolled socks right above it. Where do they land?",
      "opts": [
       "On the plate",
       "Behind the plate",
-      "Past the plate, the way she was walking"
+      "Past the plate, the way you were walking"
      ],
      "a": 2,
-     "why": "The socks were moving forward with Riya, and they kept moving forward as they fell. So they landed past the plate. Picking 'on the plate' means thinking a dropped thing loses its forward motion as soon as you let go.",
+     "why": "The socks were moving forward with you, and they kept moving forward as they fell. So they landed past the plate. Picking 'on the plate' means thinking a dropped thing loses its forward motion as soon as you let go.",
      "how": "e1"
     },
     {
@@ -2166,7 +2166,7 @@
     },
     {
      "t": "draw",
-     "p": "Your helper watched the walking drop from the side. Draw the path of the rolled socks through the air, from your hand to the floor. Draw the plate too.",
+     "p": "In the walking drop, your helper watched from the side. Draw the path of the rolled socks through the air as your helper saw it, from your hand to the floor. Draw the plate too.",
      "a": "A curve that starts at the hand, goes forward and down, and lands past the plate.",
      "why": "Seen from the side, the socks move forward and fall at the same time, so the path curves. A strong drawing shows the socks landing past the plate, in the direction of walking.",
      "art": "A stick figure walking, with a plate on the floor ahead, and blank space for the path.",
@@ -2174,7 +2174,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun, a boy in Class 3, rolls a marble down the same ramp onto a towel, a doormat and bare tiles. On which does it roll furthest?",
+     "p": "A marble rolls down the same ramp onto a towel, a doormat and bare tiles. On which does it roll furthest?",
      "opts": [
       "The towel",
       "The doormat",
@@ -2194,14 +2194,14 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 3, is standing in a bus that brakes suddenly. Which way does he lurch?",
+     "p": "You are standing in a bus that brakes suddenly. Which way do you lurch?",
      "opts": [
       "Forward",
       "Backward",
-      "He does not move"
+      "You do not move"
      ],
      "a": 0,
-     "why": "His body was moving forward with the bus, and it keeps moving forward when the bus slows. So he lurches forward. That is why standing passengers hold the bar."
+     "why": "Your body was moving forward with the bus, and it keeps moving forward when the bus slows. So you lurch forward. That is why standing passengers hold the bar."
     },
     {
      "t": "truefalse",
@@ -2265,18 +2265,18 @@
      "p": "Two friends in Mysuru watch a cycle slow down and stop when the rider stops pedalling.",
      "views": [
       {
-       "who": "Pooja, aged 8",
+       "who": "The first friend",
        "says": "It stopped because nothing was pushing it any more. Moving things need a push to keep moving."
       },
       {
-       "who": "Asha, aged 9",
+       "who": "The second friend",
        "says": "It stopped because friction and the air slowed it down. Without them, it would keep going."
       }
      ],
      "ask": "Which friend do you agree with? Use what you found in the marble rolling test. Then say what the other friend has noticed that is true.",
      "lines": 5,
-     "a": "A strong answer agrees with Asha, using evidence: the marble rolled much further on smooth tiles than on a towel, so the slowing comes from friction, not from the missing push. It is fair to Pooja: in everyday life, things do stop when we stop pushing, so her idea fits what we usually see. Aristotle thought the same for nearly 2,000 years.",
-     "why": "Both girls describe what they see. Only a test that changes the friction can show which explanation is right.",
+     "a": "A strong answer agrees with the second friend, using evidence: the marble rolled much further on smooth tiles than on a towel, so the slowing comes from friction, not from the missing push. It is fair to the first friend: in everyday life, things do stop when we stop pushing, so that idea fits what we usually see. Aristotle thought the same, and people believed him for nearly 2,000 years.",
+     "why": "Both friends describe what they see. Only a test that changes the friction can show which explanation is right.",
      "how": "e3"
     },
     {
@@ -2322,7 +2322,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the walking drop, Kavya, a girl aged 9, walked fast and the socks landed 70 cm past the plate. When she walked slowly, they landed 35 cm past. What does this show?",
+     "p": "In the walking drop, the socks landed 70 cm past the plate at a fast walk and 35 cm past at a slow walk. What does this show?",
      "opts": [
       "Faster walking gives the socks more forward speed, so they go further while falling",
       "Faster walking makes the socks heavier",
@@ -2334,9 +2334,9 @@
     },
     {
      "t": "write",
-     "p": "Divya, a girl in Class 3 in Kochi, wants her walking-drop socks to land on the plate while she walks. When should she let go, and why?",
+     "p": "In the walking drop, you want the socks to land on the plate while you walk. When should you let go, and why?",
      "lines": 3,
-     "a": "Before her hand reaches the plate. The socks keep moving forward as they fall, so she must let go early for them to land on it.",
+     "a": "Before my hand reaches the plate. The socks keep moving forward as they fall, so I must let go early for them to land on it.",
      "why": "A strong answer uses the idea that the socks keep their forward motion, and says to let go before the plate."
     },
     {
@@ -2356,7 +2356,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 3, pulls the card slowly from under the coin on the tumbler. The coin moves with the card. Why is this different from a fast flick?",
+     "p": "When you pull the card slowly from under the coin on the tumbler, the coin moves with the card. Why is this different from a fast flick?",
      "opts": [
       "With a slow pull, friction acts on the coin for longer, so it gets the coin moving",
       "The coin is heavier when the card moves slowly",
@@ -2387,14 +2387,14 @@
     },
     {
      "t": "mcq",
-     "p": "Sana, a girl in Class 3, swings a sock on a string in a circle and lets go. Which way does the sock fly?",
+     "p": "You swing a sock on a string in a circle and let go. Which way does the sock fly?",
      "opts": [
       "It keeps going round in a circle",
       "Straight, the way it was moving at that moment",
-      "Straight back to her hand"
+      "Straight back to your hand"
      ],
      "a": 1,
-     "why": "The string was the force turning the sock. Once she lets go, no force turns it, so it flies off straight, along the edge of the circle.",
+     "why": "The string was the force turning the sock. Once you let go, no force turns it, so it flies off straight, along the edge of the circle.",
      "how": "a7"
     },
     {
@@ -2413,7 +2413,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy in your class, says, 'A marble on Earth always stops, so Newton's first law is wrong.' What would you tell him? Use your marble rolling results.",
+     "p": "Someone says, 'A marble on Earth always stops, so Newton's first law is wrong.' What would you tell them? Use your results from the marble rolling test.",
      "lines": 3,
      "a": "The law says a thing keeps moving unless a force acts. On Earth, friction and air resistance act on the marble. My results show that with less friction, on the tiles, it rolled much further than on the towel. So the law is right, and friction is the force that stops it.",
      "why": "A strong answer points to the pattern in the results: less friction, longer roll.",
@@ -2428,20 +2428,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two sisters in Hyderabad argue about the walking drop.",
+     "p": "Two sisters argue about the walking drop.",
      "views": [
       {
-       "who": "Nandini, aged 9, who dropped the socks",
+       "who": "The sister who dropped the socks",
        "says": "The socks fell straight down. I saw them fall right beside my leg."
       },
       {
-       "who": "Ritu, aged 7, who watched from the side",
+       "who": "The sister who watched from the side",
        "says": "No, the socks fell in a curve. I saw them go forward as they fell."
       }
      ],
      "ask": "Who do you think is right? Explain what each sister saw, and why.",
      "lines": 5,
-     "a": "A strong answer says both describe truly what they saw. To Nandini, who was moving forward at the same speed, the socks stayed beside her leg, so they seemed to fall straight down. To Ritu, standing still, the socks moved forward and down at once, so they fell in a curve. The path you see depends on how you are moving.",
+     "a": "A strong answer says both describe truly what they saw. The sister who dropped the socks was moving forward at the same speed as the socks. They stayed beside her leg, so they seemed to fall straight down. The sister who watched was standing still. She saw the socks move forward and down at once, so they fell in a curve. The path you see depends on how you are moving.",
      "why": "This is a real puzzle in physics. How a thing moves always depends on what you compare it with.",
      "how": "e1"
     },
@@ -2522,13 +2522,13 @@
        "says": "Nothing needs to push it. A moving thing keeps moving until a force changes it."
       },
       {
-       "who": "Kavya, a girl aged 9",
+       "who": "A child who did the walking drop",
        "says": "In my walking drop, nothing pushed the socks forward after I let go, and they still went forward."
       }
      ],
      "ask": "Which idea fits the evidence best? Use something you tested. Then say why Aristotle's idea seemed sensible in his time.",
      "lines": 6,
-     "a": "A strong answer sides with Newton and Kavya, with evidence: in space, with no air at all, Voyager 1 keeps moving, so air cannot be what keeps things going. The air actually slows a thrown ball down. Aristotle's idea seemed sensible because on Earth everything stops unless something keeps pushing, and nobody could test motion without air.",
+     "a": "A strong answer sides with Newton and the child, with evidence: in space, with no air at all, Voyager 1 keeps moving, so air cannot be what keeps things going. The air actually slows a thrown ball down. Aristotle's idea seemed sensible because on Earth everything stops unless something keeps pushing, and nobody could test motion without air.",
      "why": "Aristotle's idea was believed for nearly 2,000 years. Tests with less and less friction, and travel in space, showed it was wrong."
     },
     {
@@ -2546,7 +2546,7 @@
      "t": "write",
      "p": "People once said, 'If the Earth were moving, a stone dropped from a tower would land far behind it.' Explain what is wrong with this argument.",
      "lines": 3,
-     "a": "The stone is moving with the Earth and the tower before it is dropped. While it falls, it keeps that motion, so it stays with the tower and lands at its foot, just as the socks kept moving with me.",
+     "a": "The stone is moving with the Earth and the tower before it is dropped. While it falls, it keeps that motion, so it stays with the tower and lands at its foot, just as the socks in the walking drop kept moving with me.",
      "why": "A strong answer uses inertia and links it to the walking drop or Gassendi's ship."
     },
     {
@@ -2559,7 +2559,7 @@
     },
     {
      "t": "write",
-     "p": "In one family's hover puck test, the puck glided about 3 metres and without air it slid about 10 cm from the same tap. What does this show about friction and inertia?",
+     "p": "In one family's hover puck test, the puck glided about 3 metres with air under it. Without air, the same tap sent it only about 10 cm. What does this show about friction and inertia?",
      "lines": 3,
      "a": "The puck rode on air, so there was almost no friction. With almost nothing to slow it, it kept moving much longer. This shows that moving things keep moving, and friction is what stops them.",
      "why": "A strong answer uses the numbers as evidence and names friction as the force that made the difference.",
@@ -2604,7 +2604,7 @@
      "p": "Newton's law tells us what moving things do, but not why they have inertia. Do you think scientists will ever find out why? Give a reason.",
      "lines": 4,
      "a": "Any thoughtful answer. For example: yes, because scientists have already found out where most mass comes from. Or: maybe not, because every answer leads to a new 'why'.",
-     "why": "A strong answer gives a reason and shows it understands that the law describes what happens without saying why."
+     "why": "A strong answer gives a reason. It also shows that the law describes what happens without saying why."
     },
     {
      "t": "mcq",
@@ -2794,7 +2794,7 @@
  ],
  "maths": [
   {
-   "problem": "In the walking drop, a girl's socks landed 30 cm, 40 cm and 35 cm past the plate when she walked slowly. Put the results in order. Which is the middle result?",
+   "problem": "In the walking drop, the socks landed 30 cm, 40 cm and 35 cm past the plate at a slow walk. Put the results in order. Which is the middle result?",
    "answer": "30 cm, 35 cm, 40 cm. The middle result is 35 cm.",
    "explain": "In order from smallest to biggest: 30, 35, 40. The middle one is 35 cm. The middle result is a fair single number for the three tries, because it is not the biggest or the smallest.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2850,7 +2850,7 @@
    "math_unit": "math.length.standard-units-length.L3",
    "context": "This is about the marble rolling test, and imagining an even more slippery floor made of ice.",
    "how": "e3",
-   "why_maths": "Changing centimetres into metres helps us picture how far 2,400 cm really is."
+   "why_maths": "Changing centimetres into metres helps us picture how far 2,500 cm really is."
   },
   {
    "problem": "In the raw egg test, egg B started turning again 3 times out of 3, egg D 3 times out of 3, and eggs A and C 0 times out of 3. Make a tally chart. Which eggs were raw?",
@@ -3047,8 +3047,8 @@
  "roots": {
   "context": "We have learned that things keep doing what they are doing until a force changes it. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "You let go of the socks right above the plate, yet they landed past it. While you carried them, they moved forward with you. After you let go, nothing pushed them forward, but they kept going. A moving thing carries its motion with it until a force takes it away.",
-   "habit": "We split things into still and moving, and think still is natural while moving needs a cause. But the socks needed no push to keep moving. Only a change in motion needs a cause, a force.",
+   "truth": "In the walking drop, you let go of the rolled socks right above the plate, yet they landed past it. While you carried them, they moved forward with you. After you let go, nothing pushed them forward, but they kept going. A moving thing carries its motion with it until a force takes it away.",
+   "habit": "We split things into still and moving, and think still is natural while moving needs a cause. But in the walking drop, the socks needed no push to keep moving. Only a change in motion needs a cause, a force.",
    "evidence": "In the walking drop, the socks landed about 35 cm past the plate at a slow walk and about 70 cm past at a fast walk. Standing still, they landed on it. Nothing pushed them forward after they left the hand."
   },
   "three": {
@@ -3056,12 +3056,12 @@
    "what_is_life": "A cheetah or a running child must push on the ground to start and to stop, because their body keeps doing what it is doing.",
    "what_is_this_world": "The Earth carries you, your home and the sea round the Sun very fast and very smoothly. You move together, so you feel still."
   },
-  "thread": "Before you let go, you and the socks moved as one. After you let go, the socks went on alone, still carrying the motion you had shared. The Earth does this for all of us. Every person, tree, river and building on the Earth shares the same motion round the Sun. Our separate journeys across a room or a city all happen inside that one shared movement.",
+  "thread": "In the walking drop, you and the socks moved together before you let go. After you let go, the socks went on alone, still moving forward the way you had both been moving. The Earth does this for all of us. Every person, tree, river and building on the Earth shares the same motion round the Sun. Our separate journeys across a room or a city all happen inside that one shared movement.",
   "teachings": [
    {
     "source": "Aryabhata, Aryabhatiya, Golapada section, about 499 CE",
     "teaching": "A person in a moving boat sees the still trees on the bank moving backwards. In the same way, people on the turning Earth see the still stars moving west.",
-    "link": "Aryabhata saw that a smooth motion you share cannot be felt, only seen in what is outside you. That is exactly the smooth train and the walking drop."
+    "link": "Aryabhata saw that a smooth motion you share cannot be felt. You can only see it in what is outside you. It is the same in a smooth train, where a tossed ball lands back in your hand, and in the walking drop, where the socks seem to fall straight down beside you."
    },
    {
     "source": "Bhagavad Gita 3.5",
@@ -3096,7 +3096,7 @@
    "title": "Feel the start and the stop",
    "mins": 4,
    "say": "Let's sit on the floor with our eyes closed. Take three slow breaths. Right now, the Earth is carrying us round the Sun, faster than any rocket. Can you feel it? Now let's stand up and walk slowly across the room. When I clap, stop at once. Did you feel your body lean forward? Let's walk again, and stop again. Now sit down, close your eyes, and take three more slow breaths. Which did you feel, the smooth moving or the stopping?",
-   "kid": "Sit on the floor. Close your eyes. Breathe slowly three times. The Earth is carrying you fast. Can you feel it? Now walk slowly. Stop suddenly. Did your body lean? Sit and breathe three times. Which did you feel?"
+   "kid": "Sit on the floor. Close your eyes. Breathe slowly three times. The Earth is carrying you fast. Can you feel it? Now walk slowly. Stop suddenly. Did your body lean? Sit and breathe three times. Which did you feel, the smooth moving or the stopping?"
   },
   "ask": [
    "In the walking drop, you saw the socks fall straight, and your helper saw a curve. Can two true views of the same thing be different?",
@@ -3111,6 +3111,6 @@
   "who": "Aryabhata, an Indian astronomer, Galileo Galilei, an Italian scientist, and Pierre Gassendi, a French priest and scientist",
   "when": "Around 499 CE (Aryabhata), 1632 (Galileo) and 1640 (Gassendi)",
   "wrong_idea": "People argued that if the Earth were moving, a stone dropped from a tower would be left behind and land far from its foot. In the same way, they said a stone dropped from the mast of a moving ship would land behind the mast.",
-  "story": "Around 499 CE, the Indian astronomer Aryabhata wrote that the Earth turns. He said the stars only seem to move west, the way trees on a river bank seem to move backwards to someone in a moving boat. For more than a thousand years, most people elsewhere disagreed. In Europe, they had a strong argument. If the Earth were moving, a stone dropped from a tall tower would be left behind, and land far from the tower's foot. It lands right at the foot. So, they said, the Earth must be still. They added that a stone dropped from the top of a moving ship's mast lands behind the mast. In 1632, Galileo Galilei answered that the stone moves forward with the ship, and keeps moving forward as it falls. But had anyone really tried it? In 1640, the French priest and scientist Pierre Gassendi did. On a galley, a ship rowed by many oars, moving fast in the sea off Marseille, stones were dropped from the top of the mast. They landed at the foot of the mast, not behind it. A moving stone keeps its motion, so the old argument against a moving Earth was wrong."
+  "story": "Around 499 CE, the Indian astronomer Aryabhata wrote that the Earth turns. He said the stars only seem to move west, the way trees on a river bank seem to move backwards to someone in a moving boat. For more than a thousand years, most people elsewhere disagreed. In Europe, they had a strong argument. If the Earth were moving, a stone dropped from a tall tower would be left behind, and land far from the tower's foot. It lands right at the foot. So, they said, the Earth must be still. They added that a stone dropped from the top of a moving ship's mast would land behind the mast. In 1632, Galileo Galilei answered that the stone moves forward with the ship, and keeps moving forward as it falls. But had anyone really tried it? In 1640, the French priest and scientist Pierre Gassendi did. He used a galley, a ship rowed with many oars, moving fast in the sea off Marseille. Stones were dropped from the top of the mast. They landed at the foot of the mast, not behind it. A moving stone keeps its motion, so the old argument against a moving Earth was wrong."
  }
 }

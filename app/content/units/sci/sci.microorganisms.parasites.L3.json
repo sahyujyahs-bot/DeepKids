@@ -179,7 +179,7 @@
    "status": "defined",
    "context": "This card is about worms that can live in a person's gut, and how they get in.",
    "definition": "Some worms are parasites who live in the human gut. The commonest in Indian children are roundworms, hookworms and threadworms.",
-   "description": "A worm inside the gut has plenty of food. The worm's hard problem is getting from one person to the next. Each kind solves it in their own way. A female roundworm lays thousands of eggs, which leave the body in poo. Where poo gets into soil, the eggs wait there. They get into a new person on dirty hands or unwashed vegetables. Young hookworms wait in damp soil and get in through the skin of bare feet. A threadworm crawls out of the bottom at night to lay eggs, which makes it itch. Scratching puts eggs under the nails, and from there they reach the mouth. So toilets, chappals, washing hands, short nails and washed vegetables close every one of these paths. Twice a year, on National Deworming Day, schools and anganwadis give children a tablet called albendazole that clears worms out.",
+   "description": "A worm inside the gut has plenty of food. The worm's hard problem is getting from one person to the next. Each kind solves it in their own way. A female roundworm lays thousands of eggs, which leave the body in poo. Where poo gets into soil, the eggs wait there. They get into a new person on dirty hands or unwashed vegetables. Young hookworms wait in damp soil and get in through the skin of bare feet. A threadworm crawls out of the bottom at night to lay eggs, which makes the bottom itch. Scratching puts eggs under the nails, and from there they reach the mouth. So toilets, chappals, washing hands, short nails and washed vegetables close every one of these paths. Twice a year, on National Deworming Day, schools and anganwadis give children a tablet called albendazole that clears worms out.",
    "examples": [
     "Wearing chappals on wet soil keeps hookworms out.",
     "Washing hands with soap after the toilet and before eating keeps roundworm and threadworm eggs out of the mouth.",
@@ -284,7 +284,7 @@
    "claim": "Malaria comes from bad air rising from swamps at night.",
    "who": "Doctors and ordinary people for more than two thousand years. The name comes from the Italian 'mala aria', bad air.",
    "for": "Malaria was worst near swamps and at night, and people who slept near marshes fell ill.",
-   "against": "Swamps and night are when and where Anopheles mosquitoes breed and bite. Ross and Grassi showed in 1897 and 1898 that the parasite travels in mosquitoes. Nets stop malaria, though air passes through them.",
+   "against": "Swamps and night are where and when Anopheles mosquitoes breed and bite. Ross and Grassi showed in 1897 and 1898 that the parasite travels in mosquitoes. Nets stop malaria, though air passes through them.",
    "status": "rejected",
    "context": "This card is about the old idea that bad air causes malaria."
   },
@@ -320,7 +320,7 @@
    "hint": "Think about where the louse gets their food and warmth, and what happens if they fall off."
   },
   {
-   "q": "The malaria parasite cannot finish their life without both a mosquito and a person. Who is the parasite's home?",
+   "q": "The malaria parasite cannot finish their life without both a mosquito and a person. Which one is the parasite's home?",
    "kind": "deep",
    "hint": "Think of the journey from a person's blood into a mosquito's stomach and back."
   },
@@ -408,7 +408,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game. A malaria parasite travels from a person into a mosquito and on to a new person. Bite cards can help the parasite on its way or break the path.",
+   "context": "This is a board game. A malaria parasite travels from a person into a mosquito and on to a new person. Bite cards can help the parasite on their way or break the path.",
    "printables": [
     {
      "kind": "board",
@@ -427,7 +427,7 @@
       "Square 11: In the mosquito's stomach. Nearly ready.",
       "Square 12: In the mosquito's stomach. One to two weeks have passed. The parasite is fully grown.",
       "Square 13: The parasite leaves the stomach.",
-      "Square 14: The parasite is on its way to the mosquito's saliva.",
+      "Square 14: The parasite is on their way to the mosquito's saliva.",
       "Square 15: In the mosquito's saliva. The mosquito can now pass the parasite on.",
       "Square 16: The mosquito bites a new person. Draw a Bite card.",
       "Square 17: In the new person's blood, on the way to the liver.",
@@ -449,16 +449,16 @@
       "A fan is blowing on the bed. The mosquito cannot land. Miss a turn.",
       "The person wears long sleeves at dusk. The mosquito finds only cloth. Miss a turn.",
       "The water drum has no lid. More mosquitoes hatch. Move 2 squares.",
-      "Every flowerpot saucer was emptied and scrubbed this week. No new mosquitoes. Go back 3 squares.",
+      "Every flowerpot saucer was emptied and scrubbed this week. No new mosquitoes hatch. Go back 3 squares.",
       "The person sees a doctor for the fever and takes the full medicine. The parasites in the blood are cleared. Go back to square 1.",
       "The person has a fever and waits a week before seeing a doctor. Move 3 squares.",
       "A repellent cream is on the skin. The mosquito stays away. Miss a turn.",
-      "Screens on every window. Go back 4 squares.",
+      "There are screens on every window. Go back 4 squares.",
       "The cooler was not emptied for a month. Move 3 squares.",
       "The person sleeps on the terrace without a net. Move 2 squares.",
       "A neighbour covers the building's water tank. Go back 2 squares.",
       "The mosquito bites a person who has no parasites. Nothing is passed on. Miss a turn.",
-      "An evening walk by a pond in shorts. Move 2 squares.",
+      "The person takes an evening walk by a pond in shorts. Move 2 squares.",
       "The family empties and covers every container on Sunday. Go back 3 squares."
      ]
     },
@@ -798,14 +798,14 @@
      "mins": 6,
      "do": "1. Stand the wide-tooth comb on the start line, behind the seeds, with its teeth touching the paper. 2. Sweep it slowly to the finish line. 3. Count the sesame and the khus khus seeds that reached the line. 4. Put them all back and do it twice more.",
      "say": "Keep the teeth flat on the paper and move slowly. Then count what reached the finish line.",
-     "kid": "Put the comb behind the seeds. Teeth touch the paper. Sweep slowly. Count the seeds at the line. Do it three times.",
+     "kid": "Put the comb behind the seeds. Let the teeth touch the paper. Sweep slowly. Count the seeds at the line. Do it three times.",
      "parent": "Seeds sometimes jump over the comb or roll sideways. If a seed rolls off the paper, put the seed back and redo that sweep. Pressing the teeth lightly on the paper gives steadier results."
     },
     {
      "id": "s5",
      "mins": 8,
      "do": "Do the same three sweeps with the ordinary comb, and then with the lice comb. Write every count in the table.",
-     "say": "Now the ordinary comb, three times. Then the lice comb, three times. Same seeds, same lines, same slow sweep.",
+     "say": "Now sweep with the ordinary comb, three times. Then with the lice comb, three times. Use the same seeds, the same lines and the same slow sweep.",
      "kid": "Now try the ordinary comb three times. Then the lice comb three times. Write each count.",
      "parent": "Usually the wide comb lets most of both kinds of seed slip through. An ordinary comb pushes most of the sesame seeds and only a few khus khus. The lice comb pushes nearly all of both. Combs differ a lot, so what your child sees is the real result. If a comb does something odd, count it anyway and talk about why."
     },
@@ -828,7 +828,7 @@
      },
      "ask": [
       {
-       "q": "What I think, what I saw, and why?",
+       "q": "Say what you think, what you saw, and why you think it happened.",
        "good": [
         "What I think: only a comb with very small gaps catches tiny things. What I saw: the lice comb pushed the khus khus, the wide comb did not. Why: the seeds slipped between the wide teeth."
        ]
@@ -910,7 +910,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason for each place, and write them in the table.",
      "say": "Which places will be windy, and which will be still? Why do you think so?",
-     "kid": "Guess each place. Still, flutters or blows flat? Why?",
+     "kid": "Guess for each place: will the flag stay still, flutter or blow flat? Why?",
      "parent": "Wait for the guesses. Many children think the whole room is windy when the fan is on."
     },
     {
@@ -1005,7 +1005,7 @@
      "mins": 7,
      "do": "Read the sizes aloud and draw each parasite beside the right seed.",
      "say": "A louse egg is less than 1 mm long, smaller than a khus khus seed. A louse is up to 3 mm, like a sesame seed. A flea is the same. An unfed tick is a little bigger, and swells to about 1 cm after feeding. A mosquito's body is about as long as a grain of rice. A threadworm is up to about 1 cm. A roundworm can be longer than your ruler.",
-     "kid": "Draw each one by its seed. Egg by khus khus. Louse by sesame. Mosquito by rice.",
+     "kid": "Draw each one by its seed. Draw the egg by the khus khus seed, the louse by the sesame seed and the mosquito by the grain of rice.",
      "parent": "These sizes are approximate. A roundworm can grow to about 30 cm or more. The malaria parasite is far too small for this line. They live inside red blood cells, and a red blood cell is less than one hundredth of a millimetre across."
     },
     {
@@ -1153,7 +1153,7 @@
      "mins": 3,
      "do": "1. Sit by a window with a white towel round the shoulders. 2. Wet the hair. 3. Rub in conditioner or a little coconut oil.",
      "say": "We check everyone's hair once a week, just like brushing teeth. Lice can happen to anyone, so this is nothing to be shy about.",
-     "kid": "Sit by the window. Towel on your shoulders. Wet hair first.",
+     "kid": "Sit by the window. Put a towel on your shoulders. Wet your hair first.",
      "adult": true,
      "context": "This is a weekly lice check with a fine-tooth comb. Everyone in the family can have one."
     },
@@ -1162,7 +1162,7 @@
      "mins": 10,
      "do": "1. Part the hair into sections. 2. Comb each section from the scalp to the ends. 3. Wipe the comb on the tissue after every stroke. 4. Look for moving brown dots and for eggs glued near the roots.",
      "say": "Tell me if it pulls. Let's see what is on the tissue each time.",
-     "kid": "Sit still. Look at the tissue after each stroke. See anything move?",
+     "kid": "Sit still. Look at the tissue after each stroke. Do you see anything move?",
      "adult": true,
      "parent": "Lice are fast and avoid light, so they may be hard to spot. Nits are glued close to the scalp and do not flick off like dandruff. Finding only a few old nits far from the scalp usually means they are empty cases. If you find a living louse, check everyone in the family that day and comb on days 1, 5, 9 and 13."
     },
@@ -1174,11 +1174,11 @@
      "kid": "Wash the comb. Write today's date and what you found.",
      "check": {
       "t": "mcq",
-      "q": "Meena, a girl in Class 3, finds a louse in her hair. What does that tell you?",
+      "q": "A child finds a louse in their hair. What does that tell you?",
       "options": [
-       "Meena does not wash her hair",
-       "Meena's head touched the head of someone who had lice",
-       "Meena's cat gave her the louse"
+       "The child does not wash their hair",
+       "The child's head touched the head of someone who had lice",
+       "The child's cat gave them the louse"
       ],
       "a": 1,
       "why": "Head lice crawl from head to head when hair touches. They live on clean hair as happily as on unwashed hair, and cats and dogs do not carry human head lice. If you picked 'does not wash', that is a very common idea, and it is wrong."
@@ -1254,7 +1254,7 @@
      "kid": "Why must the holes be small? Why tuck the net in?",
      "check": {
       "t": "mcq",
-      "q": "Arjun, a boy in Class 4, sleeps under a net with one tear the size of a coin. Is he safe from mosquitoes?",
+      "q": "Someone sleeps under a net with one tear the size of a coin. Are they safe from mosquitoes?",
       "options": [
        "Yes, one small tear does not matter",
        "No, a mosquito can find the tear and come in",
@@ -1319,7 +1319,7 @@
      "parent": "Good fixes: empty and scrub flowerpot saucers and coolers once a week, because mosquito eggs stuck to the sides survive. Cover water drums. Keep one comb for each person. Wear chappals outside.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 3, finds water standing in a flowerpot saucer on the balcony. What should she do?",
+      "q": "There is water standing in a flowerpot saucer on the balcony. What should you do?",
       "options": [
        "Leave it for the plant",
        "Empty it and scrub the saucer, once a week",
@@ -1469,8 +1469,8 @@
      "id": "s2",
      "mins": 20,
      "do": "1. Fill in pages for worms, the mosquito and the malaria parasite. 2. On the last page, list every path and how to close it.",
-     "say": "Now the parasites who live inside us, and the mosquito who carries one. Then a last page: every path and how we close it.",
-     "kid": "Add worms, the mosquito and the malaria parasite. Last page: how to close each path.",
+     "say": "Now fill in the parasites who live inside us, and the mosquito who carries one. Then make a last page: every path and how we close it.",
+     "kid": "Add worms, the mosquito and the malaria parasite. On the last page, write how to close each path.",
      "check": {
       "t": "mcq",
       "q": "On the louse page, what is the louse's big problem?",
@@ -1725,7 +1725,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, who is eight, walks barefoot on wet soil in a village. Which worm could get in through her feet?",
+   "p": "A child walks barefoot on wet soil in a village. Which worm could get in through their feet?",
    "opts": [
     "Hookworm",
     "Roundworm",
@@ -1780,7 +1780,7 @@
     "Malaria spreads through water"
    ],
    "a": 0,
-   "why": "The parasites grew inside the mosquitoes after they drank infected blood. When such a mosquito bites someone else, it can pass the parasites on. So stopping mosquitoes stops malaria spreading.",
+   "why": "The parasites grew inside the mosquitoes after they drank infected blood. When such a mosquito bites someone else, she can pass the parasites on. So stopping mosquitoes stops malaria spreading.",
    "outcome": 5
   }
  ],
@@ -1942,11 +1942,11 @@
       "The parasites move to the mosquito's saliva",
       "The mosquito bites a new person"
      ],
-     "why": "The parasite needs a person and a mosquito. They grow in the mosquito for one to two weeks before they can pass on."
+     "why": "The parasite needs a person and a mosquito. The parasites grow in the mosquito for one to two weeks before she can pass them on."
     },
     {
      "t": "perspective",
-     "p": "Kavya and her friend Divya both have head lice. Three grown-ups each say what to do.",
+     "p": "Two friends both have head lice. Three grown-ups each say what to do.",
      "views": [
       {
        "who": "Divya's aunt",
@@ -2138,7 +2138,7 @@
     },
     {
      "t": "write",
-     "p": "Divya, a girl in Kavya's class, says, 'Lice are for dirty children.' What would you tell her? Give one reason.",
+     "p": "Someone says, 'Lice are for dirty children.' What would you tell them? Give one reason.",
      "lines": 3,
      "a": "Lice live on clean hair too. They crawl across when heads touch, and washing does not remove their eggs. So anyone can get lice.",
      "why": "A good answer gives a reason from the science: how lice spread, or that washing does not move nits."
@@ -2168,11 +2168,11 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 4, does the Comb Test. Her ordinary comb pushed 9 of 10 sesame seeds but only 1 of 10 khus khus seeds. What is the best explanation?",
+     "p": "In the Comb Test, an ordinary comb pushed 9 of 10 sesame seeds but only 1 of 10 khus khus seeds. What is the best explanation?",
      "opts": [
       "The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller",
       "Khus khus seeds are heavier",
-      "She swept faster for the khus khus"
+      "The comb was swept faster for the khus khus"
      ],
      "a": 0,
      "why": "Seeds bigger than the gaps get pushed. Seeds smaller than the gaps slip through. The one khus khus seed pushed may have been stuck against a sesame seed or a tooth.",
@@ -2227,7 +2227,7 @@
     },
     {
      "t": "write",
-     "p": "Rupali, a girl in Class 4 in Guwahati, says her family empties their cooler once a month. Mosquitoes take about a week to grow from egg to adult in water. Is once a month enough? Explain.",
+     "p": "A family empties their cooler once a month. Mosquitoes take about a week to grow from egg to adult in water. Is once a month enough? Explain.",
      "lines": 3,
      "a": "No. In a month, about four batches of mosquitoes could grow up and fly away. The cooler must be emptied and scrubbed at least once a week, so no young mosquitoes have time to become adults.",
      "why": "A strong answer compares the two times, a week to grow and a month between emptying, and says what follows."
@@ -2269,10 +2269,10 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya, who is eight, has a fever with shivering, and there are many mosquitoes where she lives. What should her family do?",
+     "p": "A child has a fever with shivering, and there are many mosquitoes where they live. What should the family do?",
      "opts": [
       "Wait a week to see if it goes",
-      "Take her to a doctor for a blood test the same day",
+      "Take the child to a doctor for a blood test the same day",
       "Give her a lice comb"
      ],
      "a": 1,
@@ -2385,7 +2385,7 @@
  "open_questions": [
   {
    "q": "Can malaria ever be wiped out completely?",
-   "why_open": "Many countries, including Sri Lanka in 2016, have ended malaria. But mosquitoes are learning to survive insecticides and parasites to survive medicines, so nobody knows whether the whole world can."
+   "why_open": "Many countries, including Sri Lanka in 2016, have ended malaria. But some mosquitoes now survive insecticides, and some parasites now survive medicines. So nobody knows whether the whole world can end malaria."
   },
   {
    "q": "Why do some people get many more mosquito bites than others?",
@@ -2472,11 +2472,11 @@
    "why_maths": "Multiplying shows how fast one louse can become many, and why a careful comb-through matters."
   },
   {
-   "problem": "In the Comb Test, Meenakshi, a girl in Class 4, pushed the khus khus seeds three times with each comb. Out of 10, the wide comb pushed 0, 1 and 0. The ordinary comb pushed 2, 1 and 3. The lice comb pushed 10, 9 and 10. Which comb would you use to remove nits, and how sure are you?",
+   "problem": "Here are made-up results from the Comb Test. Each comb swept 10 khus khus seeds three times. The wide comb pushed 0, 1 and 0. The ordinary comb pushed 2, 1 and 3. The lice comb pushed 10, 9 and 10. Which comb would you use to remove nits, and how sure are you?",
    "answer": "The lice comb. Every sweep it pushed 9 or 10 seeds, while the others never pushed more than 3.",
    "explain": "Add each comb's sweeps. Wide: 0 + 1 + 0 = 1 out of 30. Ordinary: 2 + 1 + 3 = 6 out of 30. Lice comb: 10 + 9 + 10 = 29 out of 30. The lice comb's worst sweep, 9, beats the ordinary comb's best sweep, 3. So we can be sure the result is not a fluke.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "Remember the Comb Test, where you swept three combs across sesame and khus khus seeds? Here are some made-up results.",
+   "context": "In the Comb Test, you sweep three combs across sesame and khus khus seeds and count how many each comb pushes to the line.",
    "why_maths": "Comparing the best and worst sweeps tells us whether one comb is really better, or whether we were lucky.",
    "how": "e1",
    "chart": {
@@ -2574,11 +2574,11 @@
  ],
  "warmup": [
   {
-   "q": "What is a living being who lives on another and feeds from them called?",
+   "q": "A living being lives on another and feeds from them. What are they called?",
    "a": "A parasite."
   },
   {
-   "q": "What is the being a parasite lives on called?",
+   "q": "What do we call the living being a parasite lives on?",
    "a": "The host."
   },
   {
@@ -2709,7 +2709,7 @@
    "what_is_life": "The malaria parasite cannot finish their life in one body. They need a person and a mosquito, one after the other.",
    "what_is_this_world": "All over the world, living beings live on and inside other living beings: dodder on plants, koel chicks in crows' nests, worms in guts."
   },
-  "thread": "A louse, a flea, a tick, a worm and the malaria parasite are very different beings. Yet each one lives on the life of another. The blood that keeps you alive also feeds the louse in your hair and the mosquito at your window. One life, yours, holds up several others at the same time. A host and a parasite have lived together for so long that each one's body has been shaped by the other.",
+  "thread": "A louse, a flea, a tick, a worm and the malaria parasite are very different beings. Yet each one lives by feeding on another living being. The blood that keeps you alive also feeds the louse in your hair and the mosquito at your window. So your one body can keep several other beings alive at the same time. A host and a parasite have lived together for so long that each one's body has been shaped by the other.",
   "teachings": [
    {
     "source": "Acharanga Sutra, Book 1, Lecture 4, Lesson 1 (Jain)",
@@ -2719,7 +2719,7 @@
    {
     "source": "Thirukkural 948 (chapter on medicine)",
     "teaching": "Find the illness, then find its cause, then find what will end it, and then act.",
-    "link": "This is how malaria was solved. Laveran found the parasite, Ross found the mosquito that carries them, and now we act by closing that path with nets, covered water and medicine."
+    "link": "This is how malaria was solved. Laveran found the parasite, Ross found the mosquito who carries the parasite, and now we act by closing that path with nets, covered water and medicine."
    }
   ],
   "science": [
@@ -2743,7 +2743,7 @@
   "practice": {
    "title": "Feel the warmth they need",
    "mins": 3,
-   "say": "Let's sit still and close our eyes. Put both hands gently on top of your head. Feel how warm your scalp is. That warmth is what a louse egg needs to hatch. Now put your hands on your tummy and feel it rise and fall. Your breath is what a mosquito follows. Take five slow breaths. Your warmth and your breath reach out into the world, and other living beings notice them.",
+   "say": "Let's sit still and close our eyes. Put both hands gently on top of your head. Feel how warm your scalp is. That warmth is what a louse egg needs to hatch. Now put your hands on your tummy and feel it rise and fall. Your breath is what a mosquito follows. Take five slow breaths. Your warmth and your breath spread into the air around you, and other living beings can sense them.",
    "kid": "Close your eyes. Put your hands on your head. Feel the warmth. Now hands on your tummy. Breathe slowly five times. Others can sense your warmth and breath."
   },
   "ask": [

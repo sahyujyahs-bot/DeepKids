@@ -12,7 +12,7 @@
   "art": "A child's hand holding a ring of keys that swing back and forth, with a faint curved arrow showing the swing."
  },
  "outcomes": [
-  "I can name the parts of a pendulum, the pivot, the string and the bob, and say what one full swing is.",
+  "I can name the three parts of a pendulum (the pivot, the string and the bob) and say what one full swing is.",
   "I can explain why a pendulum swings back after I let it go, and say where it moves fastest.",
   "I can plan a fair test that changes one thing at a time, and time 10 full swings.",
   "I can say that a shorter string makes a pendulum swing quicker, and that more weight or a wider start change the time very little.",
@@ -112,7 +112,7 @@
    "description": "When you pull the bob to one side, you lift it a little. Let go, and gravity pulls it down and back towards the middle. It goes faster and faster on the way down. At the very bottom it is moving fastest. A moving thing keeps moving unless something slows it, so the bob does not stop in the middle. It swings up the other side. Now gravity slows it down, until it stops for a moment at the far end. Then it falls back the other way. Each swing, its speed turns into height, and its height turns back into speed.",
    "examples": [
     "On a swing, you feel your tummy flip at the bottom, where you move fastest.",
-    "At the very top of each swing, a swing stops for a moment before it comes back.",
+    "A playground swing stops for a moment at the highest point on each side, before it comes back.",
     "A bag of coins on a thread comes back almost to the same height it started from."
    ],
    "perspectives": [],
@@ -135,9 +135,9 @@
   {
    "concept": "Very wide swings take a little longer",
    "status": "defined",
-   "context": "Is a small swing and a wide swing really the same? This card tells the small exception.",
+   "context": "Do a small swing and a wide swing really take the same time? This card explains the one small exception.",
    "definition": "For swings up to about a hand-width or two, the time hardly changes. A very wide swing, high up to the side, takes a little longer than a small one.",
-   "description": "Galileo thought every swing takes exactly the same time, however wide. Later, Christiaan Huygens worked out that this is only nearly true. A pendulum let go from far out to the side, almost level with the pivot, takes about one sixth longer for each swing than a small one. For the swings in your test, the difference is only a few tenths of a second in 10 swings. That is about as much as a stopwatch press can be off by. This is why clock pendulums swing only a little way each side.",
+   "description": "Galileo thought every swing takes exactly the same time, however wide. Later, Christiaan Huygens worked out that this is only nearly true. A pendulum let go from far out to the side, almost level with the pivot, takes about one sixth longer for each swing than a small one. For the swings in the Swing Test, the difference is only a few tenths of a second in 10 swings. That is about as much as a stopwatch press can be off by. This is why clock pendulums swing only a little way each side.",
    "examples": [
     "In the swing test, the wide start may take 14.4 seconds and the small start 14.2 seconds.",
     "A wall clock's pendulum swings only a few centimetres each way."
@@ -167,7 +167,7 @@
    "examples": [
     "Pushing a swing each time it comes back to you.",
     "Children on an Onam oonjal swing higher by leaning and pulling in time with each swing.",
-    "Soldiers break step when they march across a bridge, so their steps don't add up to shake it."
+    "Soldiers stop marching in step when they cross a bridge, so their steps don't add up to shake it."
    ],
    "perspectives": [],
    "art": "A child pushing a swing just as it reaches the back of its path, with a small push arrow and a growing curved path drawn above."
@@ -531,7 +531,7 @@
    "rules": [
     "Everyone except the caller stands with space around them and lets one arm hang down like a pendulum.",
     "The caller starts everyone swinging gently at a steady beat.",
-    "The caller reads only the capital words on a card, not the brackets. Everyone changes their swing to match.",
+    "The caller reads only the words in capitals on a card, not the words in brackets. Everyone changes their swing to match.",
     "The caller watches each player and marks a tick for a right swing or a cross for a wrong one on the beat check sheet.",
     "Take turns being the caller. When all 12 cards are read, the player with the most ticks wins."
    ],
@@ -567,7 +567,7 @@
      "mins": 2,
      "do": "Try the real thing. Hold your arm straight and let it swing, then bend it at the elbow and let it swing.",
      "say": "Now swing your straight arm, then your bent arm. Which one swings quicker by itself?",
-     "kid": "Swing your arm straight. Then bent. Which is quicker?",
+     "kid": "Swing your arm straight. Then swing it bent. Which is quicker?",
      "ask": [
       {
        "q": "Why does a bent arm swing quicker?",
@@ -719,7 +719,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Wind the thread round the ruler's tip and tape it. 2. Stop when it is 12 and a half cm to the middle of the coins, a quarter of 50 cm. 3. Time 10 swings twice.",
+     "do": "1. Wind the thread round the ruler's tip until it is 12 and a half cm from the ruler to the middle of the coins. That is a quarter of 50 cm. 2. Tape the thread in place. 3. Time 10 swings twice.",
      "say": "Test three changes only the length. The thread is now a quarter as long. Count quickly, because it will be fast.",
      "kid": "Make the thread short. Time 10 swings again. Count fast!",
      "parent": "This should take about 7 seconds, half the time. Count out loud with your child, because the swings come quickly."
@@ -740,7 +740,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In your test, which change made the swings much quicker?",
+      "q": "In the Swing Test, which change made the swings much quicker?",
       "options": [
        "Taking out 4 coins",
        "Starting it wider",
@@ -818,7 +818,7 @@
    "days": 1,
    "context": "In this experiment you change the length of your coin pendulum until each full swing takes exactly one second.",
    "question": "How long must the thread be so that one full swing takes exactly 1 second?",
-   "predict": "50 cm took about 14 seconds for 10 swings. 12 and a half cm took about 7 seconds. What length will take exactly 10 seconds? Why do you think so?",
+   "predict": "In the Swing Test, the 50 cm thread took about 14 seconds for 10 swings. The 12 and a half cm thread took about 7 seconds. What length will take exactly 10 seconds? Why do you think so?",
    "fair_test": "Use the same 5 coins and the same small start every time. Change only the length. Always count 10 swings, so that small timing mistakes matter less.",
    "results_table": [
     "Length (cm, to the middle of the coins)",
@@ -895,7 +895,7 @@
      "do": "1. Set the guessed length. 2. Time 10 swings. 3. If it took more than 10 seconds, make the thread shorter. If less, make it longer. 4. Repeat until it takes 10 seconds.",
      "say": "Too slow? Make it shorter. Too quick? Make it longer. Change it a little at a time.",
      "kid": "Time 10 swings. Too slow? Shorter. Too quick? Longer. Try again.",
-     "parent": "The answer is about 25 cm. Many children guess about 30 cm, halfway between. The length is not halfway, because halving the time needs a quarter of the length."
+     "parent": "The answer is about 25 cm. Many children guess about 30 cm, halfway between 12 and a half cm and 50 cm. The right length is not halfway, because halving the time needs a quarter of the length."
     },
     {
      "id": "s3",
@@ -935,7 +935,7 @@
    "context": "In this experiment you find out why a pendulum slows down and stops, by giving it a card that catches the air.",
    "question": "Does a pendulum that pushes more air stop swinging sooner?",
    "predict": "We will tape a postcard to the thread just above the coins. Will the pendulum with the card stop swinging sooner, later or at the same time? Will each swing take longer? Why do you think so?",
-   "fair_test": "Use the same length, the same coins and the same start for both. Change only the card. Stop the stopwatch at the same mark both times.",
+   "fair_test": "Use the same length, the same coins and the same start for both. Change only the card. Both times, stop the stopwatch when the bag no longer reaches the 10 cm mark.",
    "results_table": [
     "Pendulum",
     "Seconds until it no longer reaches the 10 cm mark",
@@ -1006,7 +1006,7 @@
      "do": "1. Set up the 50 cm coin pendulum. 2. Stand a shoebox (or a stack of books) under it and lay a paper strip about 50 cm long on top. 3. Raise the strip until it is just under the resting bag. 4. Centre the strip under the bag. 5. Mark 10 cm and 20 cm each side of the middle.",
      "say": "We let go from the 20 cm mark. We stop the clock when the bag no longer swings out as far as the 10 cm mark.",
      "kid": "Let go from 20 cm. Watch it swing. When does it stop reaching 10 cm?",
-     "context": "This is the first step of the test on what makes a swing die down."
+     "context": "This is the first step of the experiment What Makes a Swing Die Down? You set up the coin pendulum and mark how far it swings."
     },
     {
      "id": "s2",
@@ -1095,7 +1095,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Swing a bunch of keys. Notice and wonder. Make a guess to test later."
+     "what": "Swing a bunch of keys. Say what you notice and what you wonder. Make a guess to test later."
     }
    ],
    "record": "Write one thing you noticed and one thing you wonder.",
@@ -1158,7 +1158,7 @@
    "title": "Push at the Right Time",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you make a pendulum swing high using tiny hand movements, if they come at the right beat. This is called resonance.",
+   "context": "In this activity you make a pendulum swing high using only tiny hand movements. It works when the movements come at the pendulum's own beat. This is called resonance.",
    "materials": [
     {
      "item": "the coin pendulum from the Swing Test, 50 cm long, held in your hand instead of tied to the ruler",
@@ -1285,7 +1285,7 @@
        ]
       }
      ],
-     "parent": "Within a minute or two the second one starts swinging and the first nearly stops. Then the swing passes back. This one is fussy. If nothing happens, check that the lengths match and the string is a little loose, and try again. The effect can be small, so treat it as a try."
+     "parent": "Within a minute or two the second one starts swinging and the first nearly stops. Then the swing passes back. This activity does not work every time. If nothing happens, check that the lengths match and the string is a little loose, and try again. The effect can be small, so it is fine if you see only a little of it."
     },
     {
      "id": "s3",
@@ -1642,7 +1642,7 @@
      "kid": "Which change helped most? Why?",
      "check": {
       "t": "mcq",
-      "q": "Sindhu, a girl in Class 4, wants her pendulum to swing for longer. Which change should help most?",
+      "q": "You want your pendulum to swing for longer. Which change should help most?",
       "options": [
        "Tape a big paper flag to the bob",
        "Use a heavy, small bob on a thin thread",
@@ -1669,7 +1669,7 @@
    "title": "A Beat for Music Practice",
    "mins": 25,
    "context": "This is a design challenge. You build a pendulum whose beat you can change easily, for practising music.",
-   "problem": "Kavya, a girl in Class 4, practises Carnatic songs and needs a steady beat. Build a pendulum that can give 60 full swings a minute, and then a quicker beat, without retying any knots.",
+   "problem": "A singer practising Carnatic songs needs a steady beat. Build a pendulum that can give 60 full swings a minute, and then a quicker beat, without retying any knots.",
    "constraints": [
     "No retying knots once it is built.",
     "It must change from 60 swings a minute to a quicker beat in under 10 seconds.",
@@ -1696,8 +1696,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem. Remind each other what length gave 1 second for each swing.",
-     "say": "One full swing a second is 60 a minute. What length gave that before? How could we change the length without retying?",
+     "do": "Read the problem. Remind each other what length gave 1 second for each full swing in the One-Second Pendulum experiment.",
+     "say": "One full swing a second is 60 a minute. What length gave that in the One-Second Pendulum experiment? How could we change the length without retying?",
      "kid": "60 swings a minute is one a second. What length was that?",
      "context": "This is the Beat for Music Practice challenge. You build a pendulum with a beat you can change."
     },
@@ -1782,7 +1782,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Class 3, lets go of a swing. It goes to the far side and comes back to her hands. How much swinging has it done?",
+   "p": "You let go of a swing. It goes to the far side and comes back to your hands. How much swinging has it done?",
    "opts": [
     "Half a full swing",
     "One full swing",
@@ -1821,7 +1821,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy in Class 4, wants to test if the weight of the bob changes the swing time. What should he change?",
+   "p": "You want to test whether the weight of the bob changes the swing time. What should you change?",
    "opts": [
     "The weight and the length together",
     "Only the weight, keeping the same length and start",
@@ -1829,7 +1829,7 @@
     "Everything, to see what happens"
    ],
    "a": 1,
-   "why": "In a fair test you change one thing only. If Farhan changed the length too, he would not know which change made the difference.",
+   "why": "In a fair test you change one thing only. If you changed the length too, you would not know which change made the difference.",
    "outcome": 2
   },
   {
@@ -1847,7 +1847,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl in Class 4, swings 5 coins on a 50 cm thread. Then she takes out 4 coins, leaving 1, and keeps the length the same. What happens to the time for 10 swings?",
+   "p": "You swing 5 coins on a 50 cm thread. Then you take out 4 coins, leaving 1, and keep the length the same. What happens to the time for 10 swings?",
    "opts": [
     "It gets much shorter",
     "It gets much longer",
@@ -1860,7 +1860,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meena, a girl in Class 4, makes her pendulum's thread a quarter as long. Before, 10 swings took 14 seconds. About how long do they take now?",
+   "p": "You make your pendulum's thread a quarter as long. Before, 10 swings took 14 seconds. About how long do they take now?",
    "opts": [
     "About 3 and a half seconds",
     "About 7 seconds",
@@ -1874,7 +1874,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun, a boy in Class 3, pushes his little sister on a swing, first gently and then much harder. What happens to the time for each swing?",
+   "p": "You push a child on a swing, first gently and then much harder. What happens to the time for each swing?",
    "opts": [
     "It gets much quicker",
     "It stays nearly the same, but the swing goes higher",
@@ -2065,7 +2065,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sneha, a girl in Class 4, has a pendulum takes 14 seconds for 10 swings. She starts it from twice as far out to the side. About how long will 10 swings take now?",
+     "p": "A pendulum takes 14 seconds for 10 swings. You start it from twice as far out to the side. About how long will 10 swings take now?",
      "a": 1,
      "why": "A wider start makes the bob travel further, but also faster, so the time stays about the same. It may be a few tenths of a second longer.",
      "opts": [
@@ -2144,7 +2144,7 @@
     },
     {
      "t": "odd",
-     "p": "Three of these change how long a pendulum takes to swing very little. Which one changes it a lot?",
+     "p": "Three of these changes make very little difference to how long a pendulum takes to swing. Which one makes a big difference?",
      "a": 2,
      "why": "The length sets the beat. The weight, a small start and a slightly wider start change it very little.",
      "opts": [
@@ -2240,7 +2240,7 @@
        "says": "Small swings take nearly the same time. But very wide swings take a little longer."
       }
      ],
-     "ask": "Who was right? Use what you found when you tried a small and a wide start. Then say what the other scientist got right.",
+     "ask": "Who was right? Use what you found in the Swing Test, when you tried a small start and a wide start. Then say what the other scientist got right.",
      "lines": 5
     },
     {
@@ -2364,8 +2364,8 @@
     {
      "t": "perspective",
      "p": "Three people talk about why a swing in a park stopped.",
-     "a": "A strong answer agrees most with Selvi, because the card test showed air slowing a pendulum, and a squeaky swing loses movement at its hooks. It gives Nisha her due: gravity does keep pulling, but it pulls the swing back to the middle, it does not stop it. And it gives Ravi his due: the swing did move less and less, but the movement went somewhere, into warmth.",
-     "why": "This checks that the child can use the card test as evidence and judge three ideas fairly.",
+     "a": "A strong answer agrees most with Selvi, because the postcard experiment (What Makes a Swing Die Down?) showed air slowing a pendulum, and a squeaky swing loses movement at its hooks. It gives Nisha her due: gravity does keep pulling, but it pulls the swing back to the middle, it does not stop it. And it gives Ravi his due: the swing did move less and less, but the movement went somewhere, into warmth.",
+     "why": "This checks that the child can use the postcard experiment as evidence and judge three ideas fairly.",
      "views": [
       {
        "who": "Nisha, aged 9",
@@ -2380,7 +2380,7 @@
        "says": "Its movement just ran out, like a phone battery."
       }
      ],
-     "ask": "Which idea explains it best? Use the card test as evidence. Then say what each of the others got partly right.",
+     "ask": "Which idea explains it best? As evidence, use the experiment where a postcard taped to the pendulum made it stop swinging sooner. Then say what each of the others got partly right.",
      "lines": 6,
      "how": "e3"
     },
@@ -2431,7 +2431,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these into what sets a pendulum's beat a lot, and what changes it very little.",
+     "p": "Sort these into things that change a pendulum's beat a lot and things that change it very little.",
      "a": "see items",
      "why": "The length and gravity set the beat. The weight, the material and the size of a small start change it very little.",
      "cats": [
@@ -2679,8 +2679,8 @@
    "why_maths": "Spotting the pattern lets you predict the swing time of a pendulum far too long to build at home."
   },
   {
-   "problem": "Ishani, a girl in Class 4, timed 10 swings with 5 coins: 14.1 and 14.4 seconds. With 1 coin: 14.3 and 14.0 seconds. Her brother says the 1 coin was quicker, because 14.0 is less than 14.1. Is he right to say so?",
-   "answer": "No. The two tries with 1 coin added up to 28.3 seconds, and with 5 coins 28.5 seconds. That is only 0.2 seconds apart, which is less than the difference between two tries of the same pendulum. So the weight made no difference she could measure.",
+   "problem": "You timed 10 swings with 5 coins: 14.1 and 14.4 seconds. With 1 coin: 14.3 and 14.0 seconds. Someone says the 1 coin was quicker, because 14.0 is less than 14.1. Is that right?",
+   "answer": "No. The two tries with 1 coin added up to 28.3 seconds, and with 5 coins 28.5 seconds. That is only 0.2 seconds apart, which is less than the difference between two tries of the same pendulum. So the weight made no difference you could measure.",
    "explain": "14.1 + 14.4 = 28.5. 14.3 + 14.0 = 28.3. The two 5-coin tries differ by 0.3 seconds on their own. A difference smaller than that is just the stopwatch, not the coins.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the Swing Test for weight, where you time 10 swings with 5 coins and then with 1 coin.",
@@ -2862,7 +2862,7 @@
  "roots": {
   "context": "We have learned that a pendulum's beat is set by its length, and how clocks count that beat. Now we ask what swings tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Ten swings took about the same time with one coin or five, from a small start or a wide one. Only a shorter string made the swings quicker. The length and the Earth's pull set the beat, and your push only sets how wide it swings. So every pendulum of one length keeps the same time here, and that is how clocks were made.",
+   "truth": "In the Swing Test, ten swings took about the same time with one coin or five, and from a small start or a wide one. Only a shorter string made the swings quicker. The length and the Earth's pull set the beat, and your push only sets how wide it swings. So every pendulum of the same length keeps the same time on Earth, and that is why pendulums could be used to make clocks.",
    "habit": "We expect a bigger push or a heavier weight to make things go faster, as if speed always comes from effort. A pendulum keeps its own beat whatever we do to it. The steady time of a clock was not made by people. Clockmakers found a beat that the Earth's pull and a length of string already keep, and counted it.",
    "evidence": "In the Swing Test, 1 coin and 5 coins both took about 14 seconds for 10 swings, and so did a wide start. A thread a quarter as long took about 7 seconds."
   },
@@ -2871,7 +2871,7 @@
    "what_is_life": "Hoolock gibbons in the forests of Assam swing through the trees like pendulums, letting gravity carry them to the next branch.",
    "what_is_this_world": "The Earth's pull sets the beat of every pendulum on it. On the Moon, the same pendulum would swing about two and a half times more slowly."
   },
-  "thread": "A pendulum at rest hangs straight down, perfectly balanced. Pull it to one side and let go, and it swings across to the other side and back. Every swing to the left is matched by a swing to the right, around that still middle. Out of one still balance comes a rhythm that repeats again and again. People counted that rhythm and turned it into hours, days and calendars that a whole world shares.",
+  "thread": "A pendulum at rest hangs straight down. Pull it to one side and let go, and it swings across to the other side and back. Every swing to the left is matched by a swing to the right, around the middle where it rests. So a weight that was hanging still gives a beat that repeats again and again. People counted that beat and turned it into hours, days and calendars that the whole world shares.",
   "teachings": [
    {
     "source": "Tao Te Ching 40",

@@ -3,12 +3,12 @@
  "title": "What is it made of? Where materials come from",
  "level": 3,
  "summary": {
-  "text": "Pick up anything and follow it backwards, and you always reach something nature made. A steel spoon began as rock dug from a mine. A plastic bucket began as oil deep underground. Some things are natural, like a stone, a mango or a crow's feather. Other things are made by people, but never from nothing. People take natural raw materials and change them by cutting, spinning, melting, baking and mixing. Your child makes paper, salt, milk plastic, plant colours and a clay diya with their own hands. Then they zoom in: natural and made things are built from the same few kinds of atoms, and those atoms were made long ago inside stars.",
+  "text": "Trace anything back to where it came from, and you always reach something nature made. A steel spoon began as rock dug from a mine. A plastic bucket began as oil deep underground. Some things are natural, like a stone, a mango or a crow's feather. Other things are made by people, but never from nothing. People take natural raw materials and change them by cutting, spinning, melting, baking and mixing. Your child makes paper, salt, milk plastic, plant colours and a clay diya with their own hands. Then they zoom in: natural and made things are built from the same few kinds of atoms, and those atoms were made long ago inside stars.",
   "art": "A child holding a steel tumbler, with thin dotted lines running from it back to a hill with a mine, a cotton plant, a sheep, the sea with salt pans, and up into the night sky to a bright star."
  },
  "intro": {
-  "hook": "Pick up anything near you. A pencil, a spoon, a button. Now ask it a question. Where were you before you were this? And before that? How far back can you go?",
-  "text": "The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Follow any object backwards, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.",
+  "hook": "Pick up anything near you: a pencil, a spoon, a button. What was it before it was this? And what was it before that? How far back can you go?",
+  "text": "The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Trace any object back far enough, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.",
   "art": "A pencil in the middle of a page, with a chain of small pictures leading back from it: a pencil factory, a log, a tree in rain, a cloud over the sea, and a second chain from the grey tip back to a dark graphite rock in the ground."
  },
  "outcomes": [
@@ -18,7 +18,7 @@
   "I can make a made material from a natural one, like paper, salt, milk plastic, a dye or a clay diya. I can say what I think, what I saw and why.",
   "I can explain that plants and animals make materials too, and that some made materials are copies of natural ones.",
   "I can explain that natural and made things are built from the same kinds of atoms, and that those atoms were made long ago in stars.",
-  "I can say what scientists agree on and still argue about, and name some of the hidden people who dig, grow, spin and make our things."
+  "I can say what scientists agree on and what they still argue about. I can name some of the people we never see, who dig, grow, spin and make our things."
  ],
  "cards_mins": 20,
  "terms": [
@@ -359,7 +359,7 @@
    "concept": "Zoom in: the same tiny bricks build everything",
    "status": "defined",
    "definition": "Everything, natural or made, is built from atoms. There are about 90 kinds of atom found in nature, called elements.",
-   "description": "Imagine a box of building blocks with about 90 colours. With them you can build anything at all. Atoms work like that. Wood, cotton and sugar are made mostly of three elements: carbon, hydrogen and oxygen. Most plastics are made mostly of carbon and hydrogen. Things are different because their atoms are joined in different patterns. A diamond and the graphite in your pencil are both carbon, joined in different ways. When people make a material in a kitchen or a factory, they never make new atoms. They only move atoms around and join them in new ways.",
+   "description": "Think of a box of building blocks with about 90 colours. With them you can build anything at all. Atoms work like that. Wood, cotton and sugar are made mostly of three elements: carbon, hydrogen and oxygen. Most plastics are made mostly of carbon and hydrogen. Things are different because their atoms are joined in different patterns. A diamond and the graphite in your pencil are both carbon, joined in different ways. When people make a material in a kitchen or a factory, they never make new atoms. They only move atoms around and join them in new ways.",
    "examples": [
     "A wooden spoon and a plastic spoon are both built from carbon and hydrogen atoms. The wood also has many oxygen atoms. Most plastic has few or none.",
     "Diamond and graphite are both made of carbon atoms, joined in different patterns.",
@@ -372,7 +372,7 @@
   {
    "concept": "Where atoms come from: made in stars",
    "status": "debated",
-   "description": "Scientists agree on most of this story. Right after the universe began, there was almost only hydrogen and helium, the two lightest elements. Stars are giant furnaces. Inside them, light atoms are squeezed together into heavier ones, like carbon, oxygen and iron. When big stars die, they blow these atoms out into space. New stars and planets, like our Sun and Earth, form from that dust. So the iron in your spoon was made in a star. The open question is about the heaviest atoms, like gold.",
+   "description": "Scientists agree on most of this story. Right after the universe began, there was almost only hydrogen and helium, the two lightest elements. Stars are giant furnaces. Inside them, light atoms are squeezed together into heavier ones, like carbon, oxygen and iron. When big stars die, they blow these atoms out into space. New stars and planets, like our Sun and Earth, form from that dust. So the iron in your spoon was made in a star. Scientists still disagree about where the heaviest atoms, like gold, were made.",
    "examples": [
     "The carbon in your pencil was made inside a star.",
     "The iron in your blood and in a kadai was made in stars."
@@ -567,7 +567,7 @@
    "hint": "What happens to a clay kulhad after you drink chai from it? What happens to a plastic cup?"
   },
   {
-   "q": "Where is 'away', when we throw something away?",
+   "q": "When we throw something away, where does it go?",
    "kind": "big",
    "hint": "Every material has to go somewhere."
   },
@@ -605,7 +605,7 @@
    "Kashi set out a plate of her own, on the flat stone by their door. All day she watched it. The water shrank. The white rim crept inwards. By the evening the plate was a ring of salt, glittering, like a small full moon that had come down to stay.",
    "She did not sell it. She gave a pinch to everyone who passed."
   ],
-  "epiphany": "For the parent: the turn of the story is Kashi's discovery that salt is a natural material. People do not make it. The sea already holds it, and the sun takes away the water, leaving the salt behind. People only collect it. This is the heart of the unit: made things are natural things that people collect and change, and nobody makes a material from nothing.",
+  "epiphany": "For the parent: the key moment in the story is Kashi's discovery that salt is a natural material. People do not make it. The sea already holds it, and the sun takes away the water, leaving the salt behind. People only collect it. This is the main idea of the unit: made things are natural things that people collect and change, and nobody makes a material from nothing.",
   "ask": [
    "At first, where did Kashi think salt came from? What did she find out at the stone hollow?",
    "Where was the salt before it appeared on the rim of the hollow?",
@@ -727,12 +727,12 @@
    "rules": [
     "Cut out all the cards. Put the 6 HOW cards face up in the middle.",
     "Shuffle the 36 journey cards. Deal 5 to each player. Put the rest face down as a pile.",
-    "On your turn, ask one player for a card you need. You may only ask for a card that completes a set where you already hold at least one card. For example: 'Do you have the RAW card for the glass bangle?'",
+    "On your turn, ask one player for a card you need. You may only ask for a card from a set if you already hold at least one card of that set. For example: 'Do you have the RAW card for the glass bangle?'",
     "If they have it, they give it to you and you ask again. If not, they say 'Dig!' and you take the top card from the pile. Your turn then ends. If the pile is empty, your turn just ends. With 2 players, you always ask the other player.",
-    "When you have a full set of three (at any time, even one you drew from the pile), lay it down in order: source, raw, made. Read the journey out loud.",
+    "As soon as you have a full set of three, lay it down in order: source, raw, made. This counts even if you drew the last card of the set from the pile. Read the journey out loud.",
     "Then point to the HOW card that fits your journey, and say how people change the raw material. A correct HOW wins 1 extra point.",
     "If you have no cards left in your hand on your turn, take 3 from the pile. If the pile is empty, your turn is skipped.",
-    "A full set is worth 3 points. The game ends at the end of the first turn after which the pile is empty. Cards left in hands do not score. The player with the most points wins. A tie is a shared win."
+    "A full set is worth 3 points. When the pile runs out, finish that turn. Then the game ends. Cards left in hands do not score. The player with the most points wins. A tie is a shared win."
    ],
    "flow": [
     {
@@ -758,7 +758,7 @@
        "Spin and weave it"
       ],
       "a": 1,
-      "why": "Sea water has salt dissolved in it. In salt pans, the sun takes the water away into the air, and the salt is left behind. Picking 'bake it in a kiln' usually means thinking every made thing needs a big fire. Some, like salt, need only sunshine and time."
+      "why": "Sea water has salt dissolved in it. In salt pans, the sun takes the water away into the air, and the salt is left behind. If you picked 'Bake it in a kiln', you may have thought that every made thing needs a big fire. Some, like salt, need only sunshine and time."
      }
     },
     {
@@ -783,7 +783,7 @@
      "mins": 4,
      "do": "Count the points. Then lay all the sets out together and sort them into three groups: from plants, from animals, from the ground or sea.",
      "say": "Look at all the journeys. Which ones began with a plant? Which with an animal? Which with the ground or the sea? Was there any journey that did not start in nature?",
-     "kid": "Count your points. Now sort the sets. Plants, animals, or ground and sea. Did any journey start somewhere else?",
+     "kid": "Count your points. Now sort the sets into three groups: from plants, from animals, and from the ground or sea. Did any journey start somewhere else?",
      "think": "The plastic bucket started at an oil well. But where did the oil come from, long, long ago?"
     }
    ],
@@ -879,7 +879,7 @@
      "mins": 3,
      "context": "This is the first step of the Tricky Court, a game where you argue about who made something: nature, an animal or people.",
      "do": "1. Lay out the three mats: MADE BY NATURE, MADE BY AN ANIMAL and MADE BY PEOPLE. 2. Shuffle the case cards. 3. Choose the first judge.",
-     "say": "Natural things are made by nature. Some are made by animals. Other things are made by people, from natural materials. Some things are tricky. Today you are lawyers. You must argue who made each thing, with a reason.",
+     "say": "Some things are made by nature. Some are made by animals. Others are made by people, from natural materials. And some things are tricky. Today you are lawyers. You must argue who made each thing, with a reason.",
      "kid": "You are a lawyer today! Each card is a tricky thing. Who made it? Nature, an animal, or people? Give a reason."
     },
     {
@@ -890,14 +890,14 @@
      "kid": "People put a tiny bead in an oyster. The oyster coats it with pearl. Who made the pearl?",
      "check": {
       "t": "mcq",
-      "q": "A cultured pearl. Who made it?",
+      "q": "Who made a cultured pearl?",
       "options": [
        "Only people",
        "Only the oyster",
        "Both: the oyster made the pearl, but people started it"
       ],
       "a": 2,
-      "why": "The oyster made every layer of the pearl. But people put the bead inside and looked after the oyster. So it is a good tricky case, and the line between natural and made is not always sharp. Picking 'only people' usually means thinking a farm makes everything on it. Picking 'only the oyster' leaves out the farmer's part."
+      "why": "The oyster made every layer of the pearl. But people put the bead inside and looked after the oyster. So it is a good tricky case, and the line between natural and made is not always sharp. If you picked 'only people', you may have thought that a farm makes everything on it. 'Only the oyster' leaves out the farmer's part."
      }
     },
     {
@@ -905,7 +905,7 @@
      "mins": 11,
      "do": "1. The judge reads each card. 2. Lawyers argue. 3. The judge places the card and gives a token. 4. Swap judges every 5 cards, or after every card with 2 players.",
      "say": "Judge, read the case. Lawyers, make your case. Remember to give a reason.",
-     "kid": "Judge reads a card. Lawyers argue. Judge decides. Win a token for a good reason.",
+     "kid": "The judge reads a card. The lawyers argue. The judge decides. A good reason wins a token.",
      "parent": "Helpful facts for the judge. A paper wasp's nest really is paper, made by the wasp from chewed wood. Honey is made by bees from flower nectar. A loaf of bread is made by people, from wheat and with the help of yeast, a tiny living thing. Rain and sand dunes are natural. A concrete road is made by people from cement, sand and stones. Cement is made from natural limestone and clay. The plastic rock is called plastiglomerate. Scientists first described it in 2014, on a beach in Hawaii. It was formed when fires melted plastic onto sand and stones.",
      "ask": [
       {
@@ -1039,7 +1039,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Pour the pulp into a bowl and divide it into three equal parts. 2. Pour the first part into the tray and add water until it is about two fingers deep. Stir. 3. Slide the netted frame into the tray at an angle, then lift it flat and level. Let the water drip out. 4. Flip the frame onto a cloth and press the back with a sponge or cloth to squeeze out water. Lift the frame gently. The wet sheet stays on the cloth. 5. Rinse the tray. For the second sheet, stir dried grass into the next part of the pulp in the tray and repeat. 6. For the third sheet, do the same with petals.",
+     "do": "1. Pour the pulp into a bowl and divide it into three equal parts. 2. Pour the first part into the tray and add water until it is about two fingers deep. Stir. 3. Slide the netted frame into the tray at an angle, then lift it flat and level. Let the water drip out. 4. Flip the frame onto a cloth and press the back with a sponge or cloth to squeeze out water. Lift the frame gently. The wet sheet stays on the cloth. 5. Rinse the tray. For the second sheet, pour the second part of the pulp into the tray, stir in dried grass, and repeat steps 2 to 4. 6. For the third sheet, do the same with petals.",
      "say": "Lift slowly and keep the frame flat. The fibres settle on the net in a thin layer. When we squeeze out the water, they tangle and hold on to each other.",
      "kid": "Dip the frame in the pulp. Lift it flat. Let it drip. Flip it onto a cloth. Press out the water. Lift the frame gently. Make three sheets: plain, grass and petals.",
      "check": {
@@ -1076,7 +1076,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: We can make new paper from old paper. What I saw: The mashed pulp dried into a sheet. The grass and petals showed up in it. Why: Paper is made of plant fibres. When we mash it, the fibres come apart. When we press and dry them, they tangle together again."
     }
    ],
@@ -1192,8 +1192,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "context": "This is the first step of getting salt from salty water. You make sea water, or use real sea water.",
-     "do": "1. Stir 1 level teaspoon of salt into 1 cup of water until you cannot see it any more. 2. Taste one drop from your fingertip. 3. If you live near the sea, a grown-up can bring a cup of real sea water instead.",
+     "context": "This is the first step of getting salt from salty water. You make salty water like sea water, or use real sea water.",
+     "do": "1. Stir 1 level teaspoon of salt into 1 cup of water until you cannot see the salt any more. 2. Taste one drop from your fingertip. 3. If you live near the sea, a grown-up can bring a cup of real sea water instead.",
      "say": "Where did the salt go? It has not vanished. It is still there, hidden in the water, like sugar in tea. Sea water is like this. It has salt hidden in it.",
      "kid": "Stir a spoon of salt into a cup of water. Where did it go? Taste one drop. It is still there, hidden!",
      "ask": [
@@ -1209,8 +1209,8 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Pour half the cup onto each plate. 2. Put one plate in a sunny place and one in a shady place indoors. 3. Write the date and time.",
-     "say": "We are doing what salt makers do in salt pans. The only thing we change is the sun.",
+     "do": "1. Pour half of the cup of salty water onto each plate. 2. Put one plate in a sunny place and one in a shady place indoors. 3. Write the date and time.",
+     "say": "We are doing what salt makers do in salt pans. The only thing we change is whether the plate is in the sun or in the shade.",
      "kid": "Pour half the water on each plate. Put one in the sun. Put one in the shade. Now wait.",
      "parent": "On the coasts of Gujarat and Tamil Nadu, and in the Little Rann of Kutch, salt makers let sea water or salty underground water dry in big flat pans. In the Rann, families called Agariyas have made salt this way for generations."
     },
@@ -1230,7 +1230,7 @@
        "It turns into salt"
       ],
       "a": 0,
-      "why": "The water goes into the air. Scientists say it evaporates. The sun's warmth makes it evaporate faster. The salt cannot go into the air, so it is left behind. Picking 'it turns into salt' is a very common idea. But the salt was in the water from the start. The water only leaves it behind."
+      "why": "The water goes into the air. Scientists say it evaporates. The sun's warmth makes it evaporate faster. The salt cannot go into the air, so it is left behind. Many people think the water turns into salt. But the salt was in the water from the start. The water only leaves it behind."
      }
     },
     {
@@ -1246,7 +1246,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: The sun gets salt out of water faster, but it does not make more salt. What I saw: The sunny plate dried in 1 day and the shady plate took 3 days. Both gave about the same heap of salt. Why: The salt was already hidden in the water. The sun only took the water away into the air. People do not make salt. They collect it."
     }
    ],
@@ -1334,7 +1334,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Make four dyes, put a cloth in each for 30 minutes (a wait that is not counted in the minutes), then hang the cloths to dry."
+     "what": "Make four dyes and put a cloth in each. Leave the cloths in the dye for 30 minutes. This waiting time is extra: it is not counted in the minutes for this session. Then hang the cloths to dry."
     },
     {
      "day": 2,
@@ -1349,7 +1349,7 @@
      "mins": 20,
      "adult": true,
      "context": "This is the first step of making colours from the kitchen. A grown-up boils four plant materials in water to make four dyes.",
-     "do": "1. A grown-up boils each plant material in 2 cups of water for 10 minutes. The four are the turmeric, the grated beetroot, the onion skins and the tea. Use two pans at once, so it takes two rounds. 2. Pour each coloured water into its own bowl. 3. Let it cool until it is just warm.",
+     "do": "1. A grown-up boils each of the four plant materials (the turmeric, the grated beetroot, the onion skins and the tea) in 2 cups of water for 10 minutes. Use two pans at once, so it takes two rounds. 2. Pour each coloured water into its own bowl. 3. Let it cool until it is just warm.",
      "say": "The colour is hidden inside the plant. Hot water pulls it out. Before 1856, almost every colour on every sari came from plants, animals or minerals.",
      "kid": "Ask a grown-up to boil each plant in water. Watch the water change colour. The colour came out of the plant!",
      "ask": [
@@ -1388,7 +1388,7 @@
        "Because half a cloth takes the dye better"
       ],
       "a": 0,
-      "why": "Both halves had the same cloth, the same dye and the same soaking time. Only the washing is different, so any change in colour comes from the washing. Picking 'to save soap' misses the point of keeping everything else the same."
+      "why": "Both halves had the same cloth, the same dye and the same soaking time. Only the washing is different, so any change in colour comes from the washing. Saving soap is not the reason. The reason is to keep everything else the same."
      }
     },
     {
@@ -1406,7 +1406,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: Plants can give strong colours to cotton, but some colours wash out. What I saw: The onion skin cloth stayed orange-brown after washing. The beetroot cloth went pale pink. Why: The colour was hidden inside the plants. Hot water pulled it out, and it soaked into the cotton. Some colours hold on to cotton better than others."
     }
    ],
@@ -1535,8 +1535,8 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "1. Do the same with a fresh cup of hot milk and 2 teaspoons of vinegar. 2. Then with a third cup and 4 teaspoons. 3. Pour each bowl through the strainer. 4. Count how many teaspoons of lumps each bowl gave.",
-     "say": "The white lumps are a material called casein. It was hidden in the milk all along, and the vinegar makes it come out. Now, same milk, same warmth, same stirring. Only the vinegar changes. Which bowl gives the most lumps?",
+     "do": "1. Take a fresh cup of hot milk, add 2 teaspoons of vinegar and stir slowly for 1 minute. 2. Do the same with a third cup of hot milk and 4 teaspoons of vinegar. 3. Pour each bowl through the strainer. 4. Count how many teaspoons of lumps each bowl gave.",
+     "say": "The white lumps are a material called casein. It was hidden in the milk all along, and the vinegar makes it come out. Now we use the same milk, the same warmth and the same stirring. Only the amount of vinegar changes. Which bowl gives the most lumps?",
      "kid": "Try again with 2 spoons of vinegar. Then 4 spoons. Strain each bowl. Count the spoons of lumps.",
      "parent": "This is how paneer is made too, with lemon juice. The lumps are casein, a natural material from milk, with some milk fat. Let the lumps cool before your child touches them. With only 1 teaspoon of vinegar you may get very few lumps. That is a real result, not a mistake."
     },
@@ -1555,7 +1555,7 @@
        "It is not a material"
       ],
       "a": 1,
-      "why": "The casein came from milk, a natural material. But people heated the milk, added vinegar, strained, squeezed and shaped it. So milk plastic is made by people, from a natural raw material. Picking 'natural, because cows make it' means looking only at the source. The cow made the milk, but not the plastic."
+      "why": "The casein came from milk, a natural material. But people heated the milk, added vinegar, strained, squeezed and shaped it. So milk plastic is made by people, from a natural raw material. If you picked 'Natural, because cows make it', you looked only at the source. The cow made the milk, but not the plastic."
      }
     },
     {
@@ -1573,7 +1573,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Before we finish, tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: We can make a plastic from milk, and more vinegar made more lumps, up to a point. What I saw: 1 teaspoon gave a few lumps. 4 teaspoons gave the most. The shapes went hard after 2 days. Why: Milk has a natural material called casein hidden in it. Vinegar made it come out in lumps. When it dried, it set hard, like plastic."
     }
    ],
@@ -1647,9 +1647,9 @@
      "id": "s1",
      "mins": 4,
      "context": "This is the first step of The Journey Backwards. You choose three objects to follow back to nature.",
-     "do": "1. Put a steel spoon, a cotton hanky and a plastic comb on the table. 2. Pick up the spoon and ask the two detective questions.",
-     "say": "Two detective questions. What is it made of? And where was that, before it was this?",
-     "kid": "Pick up the spoon. Ask it: what are you made of? Where were you before?",
+     "do": "1. Put a steel spoon, a cotton hanky and a plastic comb on the table. 2. Pick up the spoon and ask the two detective questions: What is it made of? Where was that material before it became this?",
+     "say": "Here are the two detective questions. What is it made of? And where was that material before it became this?",
+     "kid": "Pick up the spoon. Ask two questions. What is it made of? Where was that material before it was a spoon?",
      "ask": [
       {
        "q": "What is the spoon made of?",
@@ -1664,19 +1664,19 @@
      "id": "s2",
      "mins": 12,
      "do": "For each object, draw a chain of boxes from right to left. Start with the object on the right. Keep asking 'and before that?' until you reach nature. Draw a small picture in each box.",
-     "say": "The shop. Before the shop? A factory. Before the factory? Keep going until you reach something nature made.",
+     "say": "It came from a shop. Where was it before the shop? In a factory. Where was it before the factory? Keep going until you reach something nature made.",
      "kid": "Draw the object in a box. Draw an arrow back. What was it before? Keep going until you reach nature.",
      "parent": "Good chains. Steel spoon: shop, factory pressing steel sheets, stainless steel made in a furnace from iron and chromium, iron ore and chromium ore dug from mines in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny living things in the sea, millions of years ago.",
      "check": {
       "t": "mcq",
-      "q": "Follow a plastic comb backwards. Where does it end up?",
+      "q": "Trace a plastic comb back to where its material came from. Where does the journey end?",
       "options": [
        "At a factory, because plastic is invented there",
        "At oil deep underground, made from ancient sea life",
        "Nowhere: plastic comes from nothing"
       ],
       "a": 1,
-      "why": "Most plastic is made from petroleum and natural gas. These formed deep underground over millions of years, from tiny living things in ancient seas. Picking 'a factory' usually means stopping the journey too soon. The factory changes the oil, but it does not make the material from nothing."
+      "why": "Most plastic is made from petroleum and natural gas. These formed deep underground over millions of years, from tiny living things in ancient seas. If you picked 'At a factory', you stopped the journey too soon. The factory changes the oil, but it does not make the material from nothing."
      }
     },
     {
@@ -1747,7 +1747,7 @@
      "mins": 8,
      "do": "1. Lay out three old cloths or sheets of newspaper: LIVING OR ONCE-LIVING (natural), NEVER LIVING (natural), MADE BY PEOPLE. 2. Your child sorts each thing and says why. 3. Make a tally of each heap.",
      "say": "A leaf was once part of a living tree. A stone was never alive. A bottle cap was made by people. Where does each thing go?",
-     "kid": "Make three heaps. Once-living natural things. Never-living natural things. Things made by people. Sort them and count.",
+     "kid": "Make three heaps: once-living natural things, never-living natural things, and things made by people. Sort your things and count each heap.",
      "parent": "Once-living: leaves, twigs, seeds, feathers, shells, flowers. Never-living: stones, sand, soil. Made by people: bottle caps, string, paper, pieces of brick. A brick piece is made by people from clay. Cotton string is made by people from a once-living plant."
     },
     {
@@ -1758,14 +1758,14 @@
      "kid": "Which thing was hardest to sort? Why? Now draw a bar for each heap.",
      "check": {
       "t": "mcq",
-      "q": "A piece of cotton string. Which heap?",
+      "q": "Which heap does a piece of cotton string go in?",
       "options": [
        "Natural, once living",
        "Natural, never living",
        "Made by people"
       ],
       "a": 2,
-      "why": "The cotton came from a plant, which was alive. But people picked, spun and twisted the fibres into string. So the string is made by people, from a natural, once-living material. Picking 'natural, once living' means looking only at the source, and leaving out what people did."
+      "why": "The cotton came from a plant, which was alive. But people picked, spun and twisted the fibres into string. So the string is made by people, from a natural, once-living material. If you picked 'Natural, once living', you looked only at the source and left out what people did."
      }
     }
    ],
@@ -1815,12 +1815,12 @@
      "context": "This is the first step of the Then and Now interview. You get ready to interview an older person.",
      "do": "Help your child write six things in the table: bucket, plate, school bag, toy, cup for tea, raincoat or umbrella.",
      "say": "We are going to travel back in time, by asking questions. What were these things made of when the person you ask was your age?",
-     "kid": "Write six things in your table. Bucket, plate, bag, toy, tea cup, umbrella. Now let's travel back in time!"
+     "kid": "Write six things in your table: bucket, plate, bag, toy, tea cup, umbrella. Now let's travel back in time!"
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child asks an older relative or neighbour, in person or by phone, the three questions for each thing. You help write down the answers.",
+     "do": "Your child asks an older relative or neighbour, in person or by phone, three questions about each thing: what it was made of, where that material came from, and why it changed. You help write down the answers.",
      "say": "Ask: What was it made of when you were small? Where did that material come from? Why do you think it changed?",
      "kid": "Ask an older person three questions. What was it made of then? Where did it come from? Why did it change?",
      "parent": "Common answers. Buckets were brass, aluminium, or galvanised iron, which is steel coated with zinc. Plates were brass, bronze, steel or leaves (a pattal in the north, a banana leaf in the south). Bags were cloth or jute. Tea came in clay kulhads in the north, and coffee in steel tumblers and davara in the south. Toys were wood, clay or cloth. Umbrellas were cloth on a cane or metal frame. Plastic became common in Indian homes from about the 1970s and 1980s."
@@ -1911,14 +1911,14 @@
      "kid": "Choose one place on your map. Who works there? What is their day like?",
      "check": {
       "t": "mcq",
-      "q": "Salt in Gujarat's Little Rann of Kutch is made by…",
+      "q": "Who makes the salt in Gujarat's Little Rann of Kutch?",
       "options": [
        "Machines that make salt from nothing",
        "Families who let salty water dry in the sun in big pans",
        "Farmers who grow salt in fields from seeds"
       ],
       "a": 1,
-      "why": "In the Little Rann of Kutch, families called Agariyas pump up salty underground water into big flat pans. The sun dries the water away, and the salt is left. They collect it by hand. Picking 'machines that make salt' usually means thinking made things are made from nothing. Salt is collected, not made, and it is not grown from seed."
+      "why": "In the Little Rann of Kutch, families called Agariyas pump up salty underground water into big flat pans. The sun dries the water away, and the salt is left. They collect it by hand. If you picked 'Machines that make salt from nothing', you may have thought that made things are made from nothing. Salt is collected, not made, and it is not grown from seed."
      }
     }
    ],
@@ -1942,7 +1942,7 @@
    "title": "Spin a Thread",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you turn fluffy cotton into a thread by twisting it, the first step in making cloth. You make a simple spindle from a pencil and a disc.",
+   "context": "In this activity you turn fluffy cotton into a thread by twisting it. This is the first step in making cloth. You make a simple spindle from a pencil and a disc.",
    "materials": [
     {
      "item": "a ball of cotton wool, the kind from a medical shop",
@@ -2014,7 +2014,7 @@
      "do": "Measure your longest thread with a ruler. Tape it into the notebook.",
      "say": "How long is your thread? One cotton sari is woven from many kilometres of thread.",
      "kid": "Measure your thread with a ruler. Tape it in your notebook.",
-     "think": "The fine Dhaka muslin of old Bengal was spun by hand, so thin that people said a whole length could pass through a ring. How many hours do you think it took?"
+     "think": "The fine Dhaka muslin of old Bengal was spun by hand. It was so thin that people said a whole length of cloth could pass through a ring. How many hours do you think the spinning took?"
     }
    ],
    "setup": [
@@ -2112,7 +2112,7 @@
    "title": "We Are Stardust: Act It Out",
    "mins": 15,
    "days": 1,
-   "context": "This is a short play where you act as an atom. You are made in a star, blown into space when it dies, and become part of a new planet, and then a steel spoon.",
+   "context": "This is a short play where you act as an atom. You are made in a star and blown into space when the star dies. Then you become part of a new planet, and later a steel spoon.",
    "materials": [
     {
      "item": "a torch for the star, and some open space",
@@ -2155,15 +2155,15 @@
        "In the mine"
       ],
       "a": 1,
-      "why": "Iron atoms were made inside stars, long before the Earth formed. The iron sat in rocks in the ground. People dug up the ore and melted out the iron in a furnace. The factory made the spoon, and the mine gave the ore. But only a star can make the iron atoms. Picking 'the mine' stops the journey too early."
+      "why": "Iron atoms were made inside stars, long before the Earth formed. The iron sat in rocks in the ground. People dug up the ore and melted out the iron in a furnace. The factory made the spoon, and the mine gave the ore. But only a star can make the iron atoms. If you picked 'In the mine', you stopped the journey too early."
      }
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "1. The grown-up 'digs up' the child, or one of the children. That child is the iron atom. They walk to the table. 2. The child holds up the steel spoon.",
-     "say": "Miners dug you out. A furnace melted you. A factory pressed you into a spoon. And here you are, at our dinner table. A little piece of a star.",
-     "kid": "A miner digs you up. A furnace melts you. Now you are a spoon! A little piece of a star.",
+     "say": "Miners dug you out. A furnace melted you. A factory pressed you into a spoon. And here you are at our dinner table, a little piece of a star.",
+     "kid": "A miner digs you up. A furnace melts you. Now you are a spoon, a little piece of a star!",
      "think": "Scientists still argue about where gold atoms were made. Was it exploding stars, or two dead stars crashing together?"
     }
    ],
@@ -2265,7 +2265,7 @@
       "a": 0,
       "why": "Big, heavy grains like sand sink fast. The tiny grains of clay sink very slowly, so they settle last, on top. Picking 'clay floats' is a fair guess. But clay does sink if you wait long enough. It is just slow."
      },
-     "parent": "If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Clay is slow to settle, and some soils have very little of it, so this step can fail. A lemon-sized ball needs a good handful of clay; with less, make a smaller diya. If yours has hardly any, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty. Clay in a cloth takes about a day to firm up. If it is still sticky on day 3, leave it a few hours more before you knead it."
+     "parent": "If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Clay is slow to settle, and some soils have very little of it, so this step can fail. A lemon-sized ball needs a good handful of clay. If you have less, make a smaller diya. If your soil has hardly any clay, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty. Clay in a cloth takes about a day to firm up. If it is still sticky on day 3, leave it a few hours more before you knead it."
     },
     {
      "id": "s3",
@@ -2364,7 +2364,7 @@
    ],
    "creative": [
     "Weave long grass or coconut leaf strips into a small mat, then line it with a leaf.",
-    "Use half a coconut shell as a bowl. It is natural, strong and lasts years.",
+    "Use half a coconut shell as a bowl. It is natural and strong, and it lasts for years.",
     "Press leaves together while damp and let them dry in a stack, so they hold their shape."
    ],
    "your_turn": "Now invent your own natural plate or bowl. Test it with an idli and a spoon of sambar. Does it leak?",
@@ -2401,7 +2401,7 @@
        "It melts in the sun"
       ],
       "a": 0,
-      "why": "Leaves are made by living plants. Tiny living things in the soil, like bacteria and fungi, break them down into soil. Scientists say they decompose. Picking 'stays for hundreds of years' mixes leaves up with some plastics, which tiny living things can hardly break down."
+      "why": "Leaves are made by living plants. Tiny living things in the soil, like bacteria and fungi, break them down into soil. Scientists say they decompose. Some plastics stay for hundreds of years, because tiny living things can hardly break them down. Leaves are not like that."
      }
     },
     {
@@ -2435,7 +2435,7 @@
    "context": "This is a design challenge. You choose one plastic thing in your home and design a replacement made from a natural material, or a material that lasts for many years.",
    "problem": "Choose one plastic thing your family throws away often, like a straw, a carry bag or a cling film wrap. Design something to replace it, made from a natural material or one that lasts for years.",
    "constraints": [
-    "It must do the same job as well.",
+    "It must do the same job just as well.",
     "It must not cost much more.",
     "You must say where its material comes from, and what happens to it when it is old."
    ],
@@ -2521,7 +2521,7 @@
    "channel": "SciShow",
    "youtube": "2f69EVbCdBY",
    "mins": 5,
-   "why": "Glass is usually made by people from sand. But nature makes glass too: from volcanoes, lightning strikes and meteorites. A great puzzle for the natural or made question. For the parent and curious older children.",
+   "why": "Glass is usually made by people from sand. But nature makes glass too: from volcanoes, lightning strikes and meteorites. This is a good puzzle for the question 'natural or made?'. For the parent and curious older children.",
    "check": "Preview it first to make sure it suits your child."
   },
   {
@@ -2529,7 +2529,7 @@
    "channel": "WildFilmsIndia",
    "youtube": "cOmo0ybReW8",
    "mins": 5,
-   "why": "Shows milky latex dripping from a cut in a rubber tree, then being made into rubber sheets. It is a clear natural-to-made journey. This film was shot in Arunachal Pradesh; rubber is also tapped in Kerala and Tripura.",
+   "why": "This film shows milky latex dripping from a cut in a rubber tree, then being made into rubber sheets. It is a clear journey from natural to made. The film was shot in Arunachal Pradesh. Rubber is also tapped in Kerala and Tripura.",
    "check": "Preview it first to make sure it suits your child."
   }
  ],
@@ -2550,7 +2550,7 @@
       "Soil and seeds"
      ],
      "a": 0,
-     "why": "The flower pot is the object. Baked clay is the material, what it is made of. Breaking an object changes its shape, not its material. A strong answer names the material, not the object's name."
+     "why": "The flower pot is the object. Baked clay is the material, what it is made of. Breaking an object changes its shape, not its material. A strong answer names the material, not the object."
     },
     {
      "t": "sort",
@@ -2623,12 +2623,12 @@
     },
     {
      "t": "mcq",
-     "p": "A girl says, 'A wooden table is natural, because wood is natural.' What has she forgotten?",
+     "p": "'A wooden table is natural, because wood is natural.' What does this sentence forget?",
      "opts": [
       "A carpenter cut and joined the wood, so the table was made by people",
       "Wood is not really natural",
       "Tables grow on trees",
-      "Nothing, she is right"
+      "Nothing, the sentence is right"
      ],
      "a": 0,
      "why": "The material, wood, is natural. But people made the table from it. A strong answer looks at both the material and what people did to it."
@@ -2658,7 +2658,7 @@
      "p": "Choose something you used today, like your toothbrush or your plate. Trace its material back to nature, in three steps.",
      "lines": 4,
      "a": "For example: my steel plate. A factory pressed it from a sheet of steel. The steel was made from iron melted out of iron ore. The iron ore was dug out of the ground.",
-     "why": "A strong answer ends in nature, a plant, an animal, the ground, the sea or the air, and each step is a real change people made.",
+     "why": "A strong answer ends in nature: a plant, an animal, the ground, the sea or the air. Each step is a real change people made.",
      "how": "a1",
      "context": "In the Journey Backwards, you follow things in your home back to where their material came from."
     },
@@ -2687,11 +2687,11 @@
       "Sugar on the rainwater plate"
      ],
      "a": 0,
-     "why": "The salt was hidden in the sea water from the start. Rainwater has almost no salt. The sun takes only the water away. Picking 'salt on both' means thinking the sun makes salt. It only leaves behind what was already there."
+     "why": "The salt was hidden in the sea water from the start. Rainwater has almost no salt. The sun takes only the water away. If you picked 'Salt on both plates', you may have thought that the sun makes salt. It only leaves behind what was already there."
     },
     {
      "t": "write",
-     "p": "A child thinks salt is always made in a factory with chimneys and machines. You leave a shallow dish of sea water in the sun for a few days. What will you see, and how could it change the child's mind?",
+     "p": "Some people think salt is always made in a factory with chimneys and machines. You leave a shallow dish of sea water in the sun for a few days. What will you see? How could it change their mind?",
      "lines": 3,
      "a": "A strong answer says a white crust of salt is left in the dish. Nobody made it. The sun took the water away into the air, and the salt that was in the sea water was left behind. So salt can come straight from the sea.",
      "why": "A strong answer says what you would see, and uses it as evidence, not only what you think."
@@ -2708,15 +2708,15 @@
      "p": "Is a mango from a farm natural, or made by people? Three people disagree.",
      "views": [
       {
-       "who": "Meenakshi, aged 8",
+       "who": "A child aged 8",
        "says": "The mango is natural. The tree grew the mango. Nobody can make a mango in a factory."
       },
       {
-       "who": "Selvi, a mango farmer near Salem",
-       "says": "People made it too. I chose the best kind of tree, planted them and watered them every week."
+       "who": "A mango farmer near Salem",
+       "says": "People made it too. I chose the best kind of tree, planted the trees and watered them every week."
       },
       {
-       "who": "Dr Ammu, a plant scientist",
+       "who": "A plant scientist",
        "says": "Wild mangoes are small and stringy. Farmers chose the sweetest trees for hundreds of years to give us today's big mangoes."
       }
      ],
@@ -2795,13 +2795,13 @@
      "p": "In the paper experiment, you looked closely at the torn edge of a newspaper. What did you see? What does it tell you paper is made of?",
      "lines": 3,
      "a": "A strong answer says the torn edge was hairy, with tiny threads sticking out. These are plant fibres, usually from trees. So paper is a flat mat of tangled plant fibres.",
-     "why": "The child's own look is the evidence. The answer should link what they saw to the plant the paper came from.",
+     "why": "What the child saw is the evidence. The answer should link what they saw to the plant the paper came from.",
      "how": "e1",
      "context": "In the paper experiment, you tore newspaper, mashed it with water into pulp, lifted it on a netted frame and let it dry into a new sheet."
     },
     {
      "t": "mcq",
-     "p": "In the paper experiment, a boy mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can he be sure the grass caused this?",
+     "p": "In the paper experiment, the sheet with dried grass was rougher and tore more easily. How can you be sure the grass caused this?",
      "opts": [
       "Use the same amount of pulp, press and dry both sheets the same way, and change only the grass",
       "Make the grass sheet bigger",
@@ -2815,7 +2815,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl heats two cups of the same milk. She adds 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will she probably see?",
+     "p": "You heat two cups of the same milk. You add 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will you probably see?",
      "opts": [
       "More lumps in the cup with 4 teaspoons",
       "More lumps in the cup with 1 teaspoon",
@@ -2882,7 +2882,7 @@
       "All plant colours wash out"
      ],
      "a": 0,
-     "why": "The colour came from the beetroot, but it did not hold on to the cloth. Onion skins and tea held on better. Picking 'all plant colours wash out' is too big a rule from one cloth. Indigo, from a plant, lasts for years.",
+     "why": "The colour came from the beetroot, but it did not hold on to the cloth. Onion skins and tea held on better. 'All plant colours wash out' is too big a rule to make from one cloth. Indigo, from a plant, lasts for years.",
      "how": "e3",
      "context": "In the colour experiment, you dyed white cotton cloths with turmeric, onion skins, tea and beetroot. Then you washed them to see which colours stayed."
     },
@@ -2896,7 +2896,7 @@
     },
     {
      "t": "write",
-     "p": "The diya you made in the project and dried in the air goes soft if water drips on it. Explain why. How does a potter fix this?",
+     "p": "In the From Soil to Diya project, you dried your diya in the air. It goes soft if water drips on it. Explain why. How does a potter fix this?",
      "lines": 3,
      "a": "A strong answer says air drying only takes the water out. The clay is still clay, so water can soften it again. A potter bakes the diya in a kiln. The great heat changes the clay for ever, so it stays hard.",
      "why": "Drying can be undone by adding water. Baking cannot be undone.",
@@ -2932,19 +2932,19 @@
      "p": "A school in Hyderabad is choosing cloth for new uniforms. Three people see it differently.",
      "views": [
       {
-       "who": "Padma, who grows cotton in Telangana",
+       "who": "A cotton farmer in Telangana",
        "says": "Choose cotton. It is natural, it rots away at the end, and it feeds farming families."
       },
       {
-       "who": "Rukhsana, a mother who washes uniforms",
+       "who": "A mother who washes uniforms",
        "says": "Choose polyester. It dries quickly in the monsoon and lasts for years."
       },
       {
-       "who": "Dr Nalini, a scientist",
+       "who": "A scientist",
        "says": "Both have a cost. Polyester sheds tiny bits of plastic when it is washed. Growing cotton takes a lot of water."
       }
      ],
-     "ask": "Which cloth would you choose? Give a reason using where the material comes from or where it ends up. Then answer back from one other side.",
+     "ask": "Which cloth would you choose? Give a reason using where the material comes from or where it ends up. Then give one fair point from another side.",
      "lines": 6,
      "a": "Any choice can be strong. A strong answer uses a fact about the material's journey, for example: cotton comes from a plant and rots away, but polyester is made from petroleum and does not. Then it answers back fairly, for example: polyester lasts longer, so fewer uniforms are needed.",
      "why": "Natural is not always better, and made is not always worse. Each choice has a cost somewhere on the material's journey."
@@ -2969,7 +2969,7 @@
     },
     {
      "t": "write",
-     "p": "Kashi's salt came straight from the sea. A packet of salt from a shop has been washed, dried and had iodine added. Is the shop salt still natural? Explain your thinking.",
+     "p": "In this unit's story, Kashi's salt came straight from the sea. A packet of salt from a shop has been washed, dried and had iodine added. Is the shop salt still natural? Explain your thinking.",
      "lines": 4,
      "a": "A strong answer says the salt itself is natural, because it came from the sea. But people cleaned it and added iodine, so the packet is a natural material changed by people. Either answer is fine if the reason looks at both the material and what people did.",
      "why": "Many things in a kitchen are natural materials that people have changed a little."
@@ -2991,7 +2991,7 @@
     },
     {
      "t": "draw",
-     "p": "In the project, you shook soil and water in a bottle and let it settle. Draw the layers you saw, and label them.",
+     "p": "In the From Soil to Diya project, you shook soil and water in a bottle and let it settle. Draw the layers you saw, and label them.",
      "a": "Pebbles and sand at the bottom, then silt, then smooth clay, then cloudy or clear water at the top.",
      "why": "Heavier grains sink first, so they are at the bottom. Clay grains are the finest, so they settle last, on top. A strong drawing labels the clay, because that is what the diya is made of.",
      "how": "p1",
@@ -3007,7 +3007,7 @@
       "Nylon rots away quickly"
      ],
      "a": 0,
-     "why": "Nylon was made to copy some of silk's properties, like being strong and smooth, at a lower cost. Picking 'rots away quickly' is the opposite of nylon. Made from petroleum, it lasts a very long time."
+     "why": "Nylon was made to copy some of silk's properties, like being strong and smooth, at a lower cost. 'Nylon rots away quickly' is the opposite of the truth. Nylon is made from petroleum and lasts a very long time."
     }
    ]
   },
@@ -3034,7 +3034,7 @@
     },
     {
      "t": "mcq",
-     "p": "A jeweller in Surat shows two diamonds that look the same. One was dug from a mine. The other was grown in a laboratory. Which one is real diamond?",
+     "p": "Two diamonds look the same. One was dug from a mine. The other was grown in a laboratory. Which one is real diamond?",
      "opts": [
       "Both, because both are carbon atoms in the same pattern",
       "Only the mined one",
@@ -3053,15 +3053,15 @@
        "says": "Everyone. Nobody made it. The sea and the sun give it to all of us."
       },
       {
-       "who": "Hansa, who makes salt in the Little Rann of Kutch",
+       "who": "A salt maker in the Little Rann of Kutch",
        "says": "The people who do the hard work of collecting it. I stand in the hot salt pans all day."
       },
       {
-       "who": "Ravi, a government officer",
+       "who": "A government officer",
        "says": "The government should look after it, so that it is clean, safe and shared fairly."
       }
      ],
-     "ask": "Who do you agree with most? Use what you learned about where salt comes from. Then answer back from one other person's side.",
+     "ask": "Who do you agree with most? Use what you learned about where salt comes from. Then give one fair point from another person's side.",
      "lines": 6,
      "a": "Any side can be strong. A strong answer uses the science, for example: nobody makes salt, the sun leaves it behind, so it should belong to everyone. Then it answers back fairly, for example: collecting salt is hard work, so the workers should be paid for it.",
      "why": "This was a real fight in 1930, when only the British government could collect salt. There is no single right answer, but a strong answer uses the fact that people collect salt and do not make it.",
@@ -3105,7 +3105,7 @@
       "It does not matter"
      ],
      "a": 0,
-     "why": "All those roads, buildings and machines were made from sand, rock, ore and oil taken from the Earth. Picking 'factories make materials from nothing' is the old mistake. The materials came from somewhere, and they had to be dug up.",
+     "why": "All those roads, buildings and machines were made from sand, rock, ore and oil taken from the Earth. Factories do not make materials from nothing. The materials came from somewhere, and they had to be dug up.",
      "context": "Emily Elhacham, Ron Milo and others in Israel worked this out in 2020."
     },
     {
@@ -3130,7 +3130,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl says, 'Natural things are always safe, and things made by people are always harmful.' Which pair shows she is wrong both ways?",
+     "p": "Here is a rule: 'Natural things are always safe, and things made by people are always harmful.' Which pair shows the rule is wrong both ways?",
      "opts": [
       "Snake venom is natural and harmful. A steel spoon is made by people and safe.",
       "Honey is natural and safe. Plastic waste is made by people and harmful.",
@@ -3138,7 +3138,7 @@
       "Rain is natural and safe."
      ],
      "a": 0,
-     "why": "Venom is natural but can kill. A steel spoon was made by people and is safe to eat with. Picking honey and plastic agrees with the girl instead of testing her rule. A strong answer judges each material by what it does, not by where it came from."
+     "why": "Venom is natural but can kill. A steel spoon was made by people and is safe to eat with. The honey and plastic pair agrees with the rule instead of testing it. A strong answer judges each material by what it does, not by where it came from."
     },
     {
      "t": "draw",
@@ -3189,12 +3189,12 @@
     "Atoms"
    ],
    "a": 1,
-   "why": "They are materials, what objects are made of. Picking 'objects' mixes up the thing and what it is made of.",
+   "why": "They are materials, what objects are made of. The tumbler is the object. Steel, glass and plastic are what it can be made of.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "A girl traces her woollen shawl back to nature. Which step comes first?",
+   "p": "A woollen shawl has a journey from nature to the shop. Which step comes first?",
    "opts": [
     "A sheep grows a coat of wool",
     "The wool is spun into yarn",
@@ -3202,7 +3202,7 @@
     "The shawl is sold in a shop"
    ],
    "a": 0,
-   "why": "The journey starts with the sheep, who grows the wool. Then people cut it, spin it and knit it. Picking 'sold in a shop' starts at the end of the journey instead of in nature.",
+   "why": "The journey starts with the sheep, who grows the wool. Then people cut it, spin it and knit it. 'The shawl is sold in a shop' is the end of the journey, not the start in nature.",
    "outcome": 0
   },
   {
@@ -3215,7 +3215,7 @@
     "A steel gate"
    ],
    "a": 0,
-   "why": "Nature made the neem tree. People made the others from natural materials. Picking 'a brick' means remembering that clay is natural, but forgetting that people baked it.",
+   "why": "Nature made the neem tree. People made the others from natural materials. If you picked 'a brick', you remembered that clay is natural, but forgot that people baked it.",
    "outcome": 1
   },
   {
@@ -3227,7 +3227,7 @@
     "Both are natural"
    ],
    "a": 0,
-   "why": "The tulsi grew themself from a seed. People may water them, but the plant did the growing, so we call them natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.",
+   "why": "The tulsi plant grew from a seed. People may give water, but the plant did the growing, so the plant is natural. The pot was made by people. If you picked 'Both are made by people', you may have thought that whatever people look after is made by them.",
    "outcome": 1
   },
   {
@@ -3240,7 +3240,7 @@
     "Soak it in water"
    ],
    "a": 0,
-   "why": "Sand must be melted at a very high heat in a furnace. Picking 'dry it in the sun' mixes glass up with salt. The sun is far too cool to melt sand.",
+   "why": "Sand must be melted at a very high heat in a furnace. Drying in the sun is how people get salt, not glass. The sun is far too cool to melt sand.",
    "outcome": 2
   },
   {
@@ -3265,7 +3265,7 @@
     "The shady plate, because shade makes salt"
    ],
    "a": 0,
-   "why": "The salt was in the water from the start. The sun only made the water leave faster. Picking 'the sun makes salt' is the most common idea. Salt is collected, not made.",
+   "why": "The salt was in the water from the start. The sun only made the water leave faster. Many people think the sun makes salt. But salt is collected, not made.",
    "outcome": 3,
    "context": "In the salt experiment, you put the same salty water on two plates. One plate went in the sun and one in the shade. You waited for each to dry.",
    "how": "e2"
@@ -3294,7 +3294,7 @@
     "The fish"
    ],
    "a": 0,
-   "why": "Lac insects on trees make a resin. People scrape it off for lac bangles, varnish and sealing wax. Picking 'the cow' usually means thinking of milk, which makes paneer and milk plastic, not lac.",
+   "why": "Lac insects on trees make a resin. People scrape it off for lac bangles, varnish and sealing wax. If you picked 'the cow', you may have been thinking of milk, which makes paneer and milk plastic, not lac.",
    "outcome": 4
   },
   {
@@ -3306,7 +3306,7 @@
     "Made from sand"
    ],
    "a": 0,
-   "why": "Chemists showed they are exactly the same substance. Picking 'a different colour' means thinking made copies can never match nature.",
+   "why": "Chemists showed they are exactly the same substance. If you picked 'A different colour from plant indigo', you may have thought that a made copy can never match nature. This one does.",
    "outcome": 4
   },
   {
@@ -3339,12 +3339,12 @@
    "t": "mcq",
    "p": "Do scientists fully agree on where gold atoms were made?",
    "opts": [
-    "No. Many think neutron star crashes, others think exploding stars too",
+    "No. Many think gold was made when neutron stars crashed. Others think exploding stars made some too",
     "Yes, gold is made in mines",
     "Yes, gold is made in volcanoes"
    ],
    "a": 0,
-   "why": "It is still being worked out. Picking 'in mines' confuses where we find gold with where its atoms were made.",
+   "why": "It is still being worked out. Mines are where we find gold, not where its atoms were made.",
    "outcome": 6
   },
   {
@@ -3357,7 +3357,7 @@
     "Only machines, with no people"
    ],
    "a": 0,
-   "why": "Most of India's iron ore is dug in Odisha, Jharkhand, Chhattisgarh and Karnataka, by miners we never see. Picking 'only machines' forgets that people drive and fix the machines. Picking 'ready-made' forgets that iron must be melted out of rock.",
+   "why": "Most of India's iron ore is dug in Odisha, Jharkhand, Chhattisgarh and Karnataka, by miners we never see. It is not 'only machines', because people drive and fix the machines. Steel is not found ready-made, because iron must be melted out of rock.",
    "outcome": 6
   }
  ],
@@ -3416,7 +3416,7 @@
   },
   {
    "q": "How long does plastic really last in the sea and soil?",
-   "why_open": "Most plastic has existed for less than a human lifetime. The long numbers you hear are estimates, and scientists are still measuring how fast it breaks into smaller bits."
+   "why_open": "Most plastic has existed for less than a human lifetime. The very long times people quote are estimates, and scientists are still measuring how fast plastic breaks into smaller bits."
   },
   {
    "q": "How did the hand-spinners of Bengal make Dhaka muslin so fine?",
@@ -3450,7 +3450,7 @@
   "Where did the salt in this rasam come from?",
   "The iron in this kadai was made inside stars. How did it get from a star to our kitchen?",
   "Which thing in your school bag had the longest journey?",
-  "What was a kitchen made of when someone much older than you was a child?"
+  "Ask an older person: what were the things in your kitchen made of when you were a child?"
  ],
  "jokes": [
   {
@@ -3479,7 +3479,7 @@
   },
   {
    "j": "Why did the paper wasp get top marks?",
-   "a": "It was good at paper work."
+   "a": "She was good at paper work."
   },
   {
    "j": "Why do diyas love Karthigai Deepam?",
@@ -3521,7 +3521,7 @@
    "why_maths": "Salt makers need to know how much salt their pans will give. Multiplying the salt in one litre by the number of litres tells them, without waiting for the sun."
   },
   {
-   "problem": "On the Three-Heap Walk, a girl found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did she find altogether? How many were natural?",
+   "problem": "On the Three-Heap Walk, you found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did you find altogether? How many were natural?",
    "answer": "16 things altogether. 11 were natural.",
    "explain": "Altogether: 7 + 4 + 5 = 16. The natural things are the once-living and the never-living ones: 7 + 4 = 11. The bar chart has three bars: 7, 4 and 5 tall.",
    "math_unit": "math.data.bar-charts.L3",
@@ -3586,7 +3586,7 @@
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "In the milk plastic experiment, you made a plastic from milk. A factory version called Galalith was invented in 1897. Bakelite, made from chemicals, came in 1907.",
    "how": "e4",
-   "why_maths": "Dates tell a story only when we work out the gaps. Subtracting shows that plastic is a very young material compared with clay, cotton or salt."
+   "why_maths": "Dates mean more when we work out the gaps between them. Subtracting shows that plastic is a very young material compared with clay, cotton or salt."
   },
   {
    "problem": "You spun a cotton thread 10 centimetres long in 1 minute. If you kept spinning at the same speed, how long would your thread be after 5 minutes? After 10 minutes?",
@@ -3784,7 +3784,7 @@
    "a": "Sand."
   },
   {
-   "q": "Natural or made by people: a brick?",
+   "q": "Is a brick natural or made by people?",
    "a": "Made by people, from natural clay."
   },
   {
@@ -3920,7 +3920,7 @@
   "teachings": [
    {
     "source": "Mundaka Upanishad 1.1.7",
-    "teaching": "A spider spins a thread out of their own body. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source.",
+    "teaching": "A spider spins a thread out of her own body. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source.",
     "link": "In this unit, spiders and silkworms spin silk out of their own bodies, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source."
    },
    {
@@ -3946,7 +3946,7 @@
   "practice": {
    "title": "Look deeply",
    "mins": 3,
-   "say": "Let's pick up one thing near us, maybe a sheet of paper or a cotton cloth. Hold it and look at it quietly for a minute. Now let's close our eyes and picture where it came from. A tree, or a cotton plant. The rain that fed them. The sun. The people who made it. Breathe slowly. Open your eyes. Is it still just paper?",
+   "say": "Let's pick up one thing near us, maybe a sheet of paper or a cotton cloth. Hold it and look at it quietly for a minute. Now let's close our eyes and picture where it came from. Picture a tree, or a cotton plant. Picture the rain that fed them, and the sun. Picture the people who made it. Breathe slowly. Open your eyes. Is it still just paper?",
    "kid": "Hold a piece of paper. Look at it quietly. Close your eyes. Picture the tree, the rain and the sun inside the paper."
   },
   "ask": [
