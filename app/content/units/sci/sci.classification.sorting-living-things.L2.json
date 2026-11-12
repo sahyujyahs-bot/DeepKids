@@ -119,14 +119,14 @@
    "concept": "Sorting animals by food",
    "status": "defined",
    "definition": "Herbivores eat plants. Carnivores eat other animals. Omnivores eat both plant food and animal food.",
-   "description": "You cannot see food on an animal's body. You find out by watching what they eat. A cow eats grass all day, so a cow is a herbivore. A gecko by the tube light eats moths, so a gecko is a carnivore. A crow eats rice, fruit, insects and scraps, so a crow is an omnivore. A human body can eat both kinds of food. Many people choose to eat only plant food and milk.",
+   "description": "You cannot tell what an animal eats by looking at their body. You find out by watching what they eat. A cow eats grass all day, so a cow is a herbivore. A gecko by the tube light eats moths, so a gecko is a carnivore. A crow eats rice, fruit, insects and scraps, so a crow is an omnivore. A human body can eat both kinds of food. Many people choose to eat only plant food and milk.",
    "examples": [
     "Herbivores: cow, goat, parrot, fruit bat, butterfly.",
     "Carnivores: tiger, gecko, spider, frog, snake.",
     "Omnivores: crow, hen, ant, humans."
    ],
    "perspectives": [],
-   "context": "This card is about the third way to sort: by what an animal eats. It comes after the ant test.",
+   "context": "This card is about the third way to sort: by what an animal eats. Read it after the Ant Lunch experiment.",
    "art": "Three plates: one of grass and fruit, one with a fish bone, and one with rice and a dead insect, each with an animal beside the plate."
   },
   {
@@ -140,7 +140,7 @@
     "Food: hen with crow, ant and you."
    ],
    "perspectives": [],
-   "context": "This card is about the card sort, where the same hen card moved to new groups.",
+   "context": "This card is about the activity Who Sits With the Hen?, where the same hen card moved to new groups each time the rule changed.",
    "art": "A hen card in the middle, with three arrows to three groups: feathered birds, two-legged animals with a child, and animals who eat both."
   },
   {
@@ -159,7 +159,7 @@
   {
    "concept": "Food groups are not always neat",
    "status": "debated",
-   "definition": "Most animals eat mostly one kind of food, with some of the other.",
+   "definition": "Most animals eat mainly one kind of food, and a little of the other kind.",
    "description": "Many animals do not fit one food group neatly. Some are mostly one kind of eater, with a little of the other. Scientists still argue about where a few of them belong.",
    "examples": [
     "A frog tadpole eats tiny water plants, but a grown frog eats insects.",
@@ -195,14 +195,14 @@
    "perspectives": [
     {
      "who": "Scientists who study animal minds",
-     "explanation": "Ants sense, choose and remember. A colony decides together what to collect, from what each ant senses."
+     "explanation": "Ants sense, choose and remember. The colony decides together what to collect, using what each ant senses."
     },
     {
      "who": "Other scientists",
      "explanation": "An ant follows simple built-in rules, and the colony's choices come from many ants following those rules."
     }
    ],
-   "context": "This card is about what the ants were doing in the ant test.",
+   "context": "This card is about what the ants were doing in the Ant Lunch experiment.",
    "art": "A close-up of an ant touching a crumb of banana with her antennae."
   }
  ],
@@ -254,7 +254,7 @@
   {
    "q": "You can count a crow's legs in one look. Why does it take days of watching to find out what a crow eats?",
    "kind": "deep",
-   "hint": "A crow's legs are there all the time. Think about when a crow eats, and what is around."
+   "hint": "A crow's legs are there all the time. Think about how often a crow eats, and what food is nearby each time."
   },
   {
    "q": "A butterfly has wings and 6 legs. A fruit bat has wings and 2 legs. Are wings a good way to sort animals?",
@@ -482,7 +482,7 @@
     "Every player puts down each of their cards that fits the rule, and says why: 'My gecko has scales.'",
     "Anyone can check a card by reading the back. A card that does not fit goes back to that player.",
     "If you put down no cards and the animal pile still has cards, take the top card. If the pile is empty, just wait.",
-    "Turn over the next rule card. Everyone who has no cards left wins, and the game ends.",
+    "Turn over the next rule card and play again. The game ends when a player has no cards left. Everyone who has no cards left wins.",
     "If all 12 rule cards have been turned over and nobody has finished, the player with the fewest cards left wins. Two players with the same number win together."
    ],
    "setup": [
@@ -530,8 +530,8 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "At the end, find the hen card and put the hen card on the floor. Then ask the question below.",
-     "say": "The hen fits feathers, 2 legs and eats both. Did the hen change, or did the rule change?",
+     "do": "At the end, find the hen card and put it on the floor. Then ask the question below.",
+     "say": "The hen fits three rules: feathers, 2 legs and eats both. Did the hen change, or did the rule change?",
      "kid": "The hen fits three different rules. Did the hen change, or the rule?",
      "check": {
       "t": "mcq",
@@ -600,7 +600,7 @@
      "id": "s2",
      "mins": 6,
      "do": "Play 3 or 4 rounds, taking turns to hide.",
-     "say": "Which question will cut the cards down the most? Feathers, or 'Do you eat other animals?'",
+     "say": "Which question helps you more: 'Do you have feathers?' or 'Do you eat other animals?'",
      "kid": "Which question helps most? Pick it and ask.",
      "parent": "A good first question splits the cards into two big groups, like 'Do you eat other animals?' About half the cards say yes. A question about one rare feature, like feathers, often gets a 'no' and tells less."
     },
@@ -796,7 +796,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask your child to say what they found, what they saw, and why. Then wipe up the food.",
+     "do": "Ask your child which foods the ants came to, what the ants did there, and why they think so. Then wipe up the food.",
      "say": "Was your guess right? Which foods did the ants come to? So which food group are our ants in?",
      "kid": "Was your guess right? Which foods did the ants eat? Which food group are they in?",
      "ask": [
@@ -1087,7 +1087,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Draw a grid with 4 columns: animal, covering, legs, food. Fill in the first row for your child, then any animal you can see from the window."
+     "what": "Draw a grid with 4 columns: animal, covering, legs, food. Fill in the first row about your child. Then add any animal you can see from the window."
     },
     {
      "day": 2,
@@ -1110,7 +1110,7 @@
     {
      "id": "s1",
      "mins": 12,
-     "do": "1. Draw a grid with 4 columns: animal, covering, legs, food. 2. Fill in the first row for your child. 3. Add any animal you can see from the window.",
+     "do": "1. Draw a grid with 4 columns: animal, covering, legs, food. 2. Fill in the first row about your child. 3. Add any animal you can see from the window.",
      "say": "The first row is you. What covers your body? How many legs? What do you eat?",
      "kid": "The first row is you. Fill in your covering, your legs and your food.",
      "wait": "Leave the grid for tomorrow.",
@@ -1143,7 +1143,7 @@
    "title": "Feed the Rescue Centre",
    "mins": 20,
    "context": "This is a planning challenge. You plan the food trays for five animals at a small animal rescue centre.",
-   "problem": "Dr Meenakshi runs a small animal rescue centre in Mysuru. Today she is caring for a cow, a shikra (a small hawk), a star tortoise, a crow and a green parrot. She has only three food trays. How can she fill the trays so that every animal gets food they eat?",
+   "problem": "A small animal rescue centre in Mysuru is caring for a cow, a shikra (a small hawk), a star tortoise, a crow and a green parrot. The centre has only three food trays. How can the trays be filled so that every animal gets food they eat?",
    "constraints": [
     "There are only three trays.",
     "Every animal must get food they eat.",
@@ -1231,7 +1231,7 @@
    "channel": "National Geographic",
    "youtube": "fjyTkagc8BI",
    "mins": 1,
-   "why": "Shows ants carrying food together, close up, so the child can compare the film with their own ant test.",
+   "why": "Shows ants carrying food together, close up, so the child can compare the film with their own Ant Lunch experiment.",
    "check": "Found by search: \"How Crazy Ants Carry Heavy Loads\" by National Geographic, 1 minute. A parent may preview it."
   }
  ],
@@ -1305,7 +1305,7 @@
     "Eats both"
    ],
    "a": 1,
-   "why": "Moths and flies are animals, so a gecko is a meat-eater, a carnivore. Choosing 'eats both' would need the gecko to eat plants too.",
+   "why": "Moths and flies are animals, so a gecko is a meat-eater, a carnivore. A gecko would be in the 'eats both' group only if the gecko ate plants too.",
    "outcome": 2
   },
   {
@@ -1353,12 +1353,12 @@
     "Look at their fur"
    ],
    "a": 1,
-   "why": "Food is found by watching, not by looking at fur. Jane Goodall watched wild chimpanzees and saw them eat meat and termites.",
+   "why": "You find out what an animal eats by watching, not by looking at fur. Jane Goodall watched wild chimpanzees and saw them eat meat and termites.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 2, wants to know what the ants in her kitchen eat. What should she do?",
+   "p": "You want to know what the ants in your kitchen eat. What should you do?",
    "opts": [
     "Count their legs",
     "Put out different foods and watch",
@@ -1492,7 +1492,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw your ant test: the paper, the three foods, and dots for the ants on each food.",
+     "p": "Draw your Ant Lunch experiment: the paper, the three foods (banana, rice and a dead insect), and dots for the ants on each food.",
      "a": "A drawing of the banana, the rice and the insect, with dots showing where the ants gathered.",
      "why": "A strong drawing shows all three foods, and shows clearly which foods had the most ants.",
      "how": "e1"
@@ -1696,14 +1696,14 @@
     },
     {
      "t": "count",
-     "p": "Mitali saw 3 crows and 2 dogs on her street in Kolkata. How many legs is that?",
+     "p": "There are 3 crows and 2 dogs on a street. How many legs do they have altogether?",
      "a": 14,
      "why": "3 crows have 2 legs each, which makes 6. 2 dogs have 4 legs each, which makes 8. 6 and 8 make 14.",
      "art": "Three crows on a wall and two dogs lying below them on a Kolkata street."
     },
     {
      "t": "label",
-     "p": "Write P for plant food or A for animal food next to each food from the ant test.",
+     "p": "These foods could be used in the Ant Lunch experiment. Write P for plant food or A for animal food next to each one.",
      "labels": [
       "banana",
       "rice",
@@ -1812,7 +1812,7 @@
    "why_maths": "Every ant has the same number of legs, so counting in sixes is faster than counting every leg."
   },
   {
-   "problem": "In the ant test, Nandini counted 9 ants on the banana and 6 on the dead mosquito. How many more ants were on the banana?",
+   "problem": "In the ant test, there were 9 ants on the banana and 6 ants on the dead mosquito. How many more ants were on the banana?",
    "answer": "3 more ants were on the banana.",
    "explain": "Count on from 6 to 9: 7, 8, 9. That is 3 more.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1821,7 +1821,7 @@
    "why_maths": "Comparing the two counts shows which food the ants went to more."
   },
   {
-   "problem": "In the Same and Different Hoops, Lakshmi put 2 slips on the crow side, 5 slips in the middle, and 2 slips on the hen side. How many things are true of the crow?",
+   "problem": "In the Same and Different Hoops, there are 2 slips on the crow side, 5 slips in the middle, and 2 slips on the hen side. How many things are true of the crow?",
    "answer": "7 things are true of the crow.",
    "explain": "The crow side and the middle both belong to the crow's hoop. 2 and 5 make 7. The hen side is not inside the crow's hoop.",
    "math_unit": "math.logic.sets-and-venn.L2",
@@ -1830,7 +1830,7 @@
    "why_maths": "In overlapping hoops, the middle counts for both animals, so you must add it to each side."
   },
   {
-   "problem": "Jaya counted 12 legs in a picture of hens. How many hens are in the picture?",
+   "problem": "A picture of hens shows 12 legs. How many hens are in the picture?",
    "answer": "6 hens.",
    "explain": "Each hen has 2 legs. Share 12 legs into twos: 2, 4, 6, 8, 10, 12. That is 6 twos, so 6 hens.",
    "math_unit": "math.division.sharing-and-grouping.L2",
@@ -1986,28 +1986,28 @@
   ]
  },
  "roots": {
-  "context": "We have sorted animals by covering, by legs and by food. Now we ask what the ant test tells us about eating, and about where we fit.",
+  "context": "We have sorted animals by covering, by legs and by food. Now we ask what the Ant Lunch experiment tells us about eating, and about where we fit.",
   "deep_truth": {
    "truth": "In the Ant Lunch test, the ants came to the banana and to the dead insect. So ants eat food from plants and from animals, like crows and most people. Animals who eat many kinds of food can find a meal almost anywhere. That is one reason ants, crows and people all live in our cities.",
    "habit": "We think of food groups as fixed labels, and we picture each animal with one kind of food. Many animals eat both, and these are often the animals who live closest to us.",
-   "evidence": "In the ant test, the ants gathered on the banana and on the dead insect. Crows at the window eat rice, fruit, bread and insects. Both share our flats and streets."
+   "evidence": "In the Ant Lunch test, the ants gathered on the banana and on the dead insect. Crows at the window eat rice, fruit, bread and insects. Both ants and crows share our flats and streets."
   },
   "three": {
    "who_am_i": "You are an animal with hair and two legs, whose body can eat both kinds of food. You sit in many groups at once.",
-   "what_is_life": "Every animal lives by eating other living beings, or what they made, like fruit and nectar. The ants on the banana were doing what you do at lunch.",
-   "what_is_this_world": "The world is full of eaters, and each one chooses their food. A crow, an ant and a person can all find a meal in the same flat."
+   "what_is_life": "Every animal lives by eating other living beings, or what they made, like fruit and nectar. In the Ant Lunch test, the ants on the banana were eating, just as you do at lunch.",
+   "what_is_this_world": "The world is full of animals who eat, and each one chooses their food. A crow, an ant and a person can all find a meal in the same flat."
   },
   "thread": "The banana grew on a banana plant, from sunlight, water and air. The ants ate the banana, and the banana became part of the ants. A crow may eat an ant, and one day the crow's body will feed the soil. So the energy that came from the Sun passes from one living being to the next.",
   "teachings": [
    {
     "source": "Bhagavata Purana 1.13.47",
     "teaching": "Beings without hands are food for beings with hands. Beings without legs are food for beings with four legs. One living being is the life of another.",
-    "link": "This old verse sorts animals by hands, by legs and by who eats whom, as you did with the cards. The ants and the mosquito showed its last line on your own paper."
+    "link": "This old verse sorts animals by hands, by legs and by who eats whom, as you did with the cards. In the Ant Lunch test, the ants ate the dead mosquito. That is the last line of the verse: one living being is the life of another."
    },
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "The young seeker Bhrigu came to understand that food is Brahman, the one reality. From food all beings are born. By food they live. Into food they return.",
-    "link": "Every food in the ant test came from a living being: a banana plant, a rice plant and a mosquito. The ants grew from what they ate."
+    "link": "Every food in the Ant Lunch test came from a living being: a banana plant, a rice plant and a mosquito. The ants grew from what they ate."
    }
   ],
   "science": [
@@ -2046,5 +2046,5 @@
   "art": "A young woman with a ponytail sitting quietly in a forest, watching a grey-bearded chimpanzee poke a grass stem into a termite mound."
  },
  "playtest": "Walked through every game, activity and the ant test as a parent and a child in a flat. Find My Group could leave players stuck when the animal pile ran out (4 players deal all 16 cards) and had no end if nobody emptied their hand, so it now says what happens in both cases, and Three Clues now has a clear end and a goal. Fixed the rescue-centre challenge (a young calf drinks milk, so the animal is now a cow), the story and worksheet names (Shalini is now only the story friend), a crow week that can return nothing, and dogs, deer and the pangolin, which came back in too many places. Removed one worksheet question that repeated the ant test, two weak jokes (adding two real ones), and the odd-pairs centipede fact that is too hard for age 7 to 8.",
- "warm": {"words": ["BIRDS", "GROUP", "PLANT", "SHELL", "SCALE"], "quiz": [["Every bird has feathers and two legs.", true, "Among animals alive today, only birds have feathers, and all birds have two legs."], ["A pangolin is a reptile because the pangolin is covered in scales.", false, "A pangolin has some hair and the mother feeds her baby milk, so one feature can fool us."], ["A whale feeds her baby milk, so whales are not fish.", true, "Feeding milk and breathing air put whales with mammals, even though they swim."], ["A plant-eater never eats any animal food.", false, "Food groups say what an animal mostly eats; some plant-eaters sometimes eat animals."], ["One animal can sit in different groups when we use different sorting rules.", true, "Each rule makes its own groups, so a crow can sit with different animals under different rules."], ["A butterfly and a fruit bat should go in one group because both have wings.", false, "A butterfly has six legs and a bat has hair and two legs, so wings alone mislead."], ["You can see an animal's legs at a glance, but you must watch to learn its food.", true, "Food shows only when the animal eats, so we have to observe it for a while."], ["If two animals are together under one rule, they stay together under every rule.", false, "Each rule makes its own groups, so animals together under one rule may part under another."], ["An animal that mostly eats plants may still sometimes eat animal food.", true, "Food groups say what an animal mostly eats; deer have been seen eating bird chicks."], ["Counting legs cannot help pick out insects, because insects have different numbers of legs.", false, "Every adult insect has six legs, so counting legs helps to find insects."]], "odd": [[["hen", "crow", "parrot", "cow"], "cow", "Hen, crow and parrot are birds with feathers; a cow has hair."], [["ant", "beetle", "grasshopper", "spider"], "spider", "Ant, beetle and grasshopper are insects with six legs; a spider has eight."], [["cow", "goat", "buffalo", "tiger"], "tiger", "Cow, goat and buffalo eat plants; a tiger eats other animals."], [["whale", "bat", "pangolin", "shark"], "shark", "Whale, bat and pangolin feed their babies milk; a shark is a fish and does not."], [["body covering", "number of legs", "ear shape", "food eaten"], "food eaten", "We can see the first three at a glance; we find an animal's food only by watching."]]}
+ "warm": {"words": ["BIRDS", "GROUP", "PLANT", "SHELL", "SCALE"], "quiz": [["Every bird has feathers and two legs.", true, "Among animals alive today, only birds have feathers, and all birds have two legs."], ["A pangolin is a reptile because the pangolin is covered in scales.", false, "A pangolin has some hair and the mother feeds her baby milk, so one feature can fool us."], ["A whale feeds her baby milk, so whales are not fish.", true, "Feeding milk and breathing air put whales with mammals, even though they swim."], ["A plant-eater never eats any animal food.", false, "Food groups say what an animal mostly eats; some plant-eaters sometimes eat animals."], ["One animal can sit in different groups when we use different sorting rules.", true, "Each rule makes its own groups, so a crow can sit with different animals under different rules."], ["A butterfly and a fruit bat should go in one group because both have wings.", false, "A butterfly has six legs and a bat has hair and two legs, so wings alone are not a good way to sort."], ["You can see an animal's legs at a glance, but you must watch to learn their food.", true, "You can see what an animal eats only when they are eating, so you have to watch them for a while."], ["If two animals are together under one rule, they stay together under every rule.", false, "Each rule makes its own groups, so animals who are together under one rule may be in different groups under another."], ["An animal that mostly eats plants may still sometimes eat animal food.", true, "Food groups say what an animal mostly eats; deer have been seen eating bird chicks."], ["Counting legs cannot help pick out insects, because insects have different numbers of legs.", false, "Every adult insect has six legs, so counting legs helps to find insects."]], "odd": [[["hen", "crow", "parrot", "cow"], "cow", "Hen, crow and parrot are birds with feathers; a cow has hair."], [["ant", "beetle", "grasshopper", "spider"], "spider", "Ant, beetle and grasshopper are insects with six legs; a spider has eight."], [["cow", "goat", "buffalo", "tiger"], "tiger", "Cow, goat and buffalo eat plants; a tiger eats other animals."], [["whale", "bat", "pangolin", "shark"], "shark", "Whale, bat and pangolin feed their babies milk; a shark is a fish and does not."], [["body covering", "number of legs", "ear shape", "food eaten"], "food eaten", "We can see the first three at a glance; we find an animal's food only by watching."]]}
 }

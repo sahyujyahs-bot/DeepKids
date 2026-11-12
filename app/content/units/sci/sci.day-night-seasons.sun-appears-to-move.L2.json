@@ -59,7 +59,7 @@
   },
   {
    "term": "Appears",
-   "meaning": "Something appears to happen when it looks as if it happens, even if the real reason is different.",
+   "meaning": "Something appears to happen when it looks as if it is happening, even if something else is really going on.",
    "example": "From a moving train, the trees appear to rush backwards. Really, the train is moving.",
    "art": "A child looking out of a train window at trees that look blurred and streaming backwards."
   },
@@ -100,7 +100,7 @@
   {
    "concept": "Why the Sun seems to move: the Earth turns",
    "status": "defined",
-   "context": "This card answers the question from the sun patch test: what made the patch move?",
+   "context": "In the Moving Sun Patch experiment, the patch of sunlight moved though nobody touched the window. This card says what made it move.",
    "definition": "The Sun seems to move across our sky because the Earth rotates, or turns, once every day.",
    "description": "The Earth is a huge ball, and it is always turning. Our home, our street and we ourselves turn with it. As we turn, the Sun seems to rise, cross the sky and set. It is like sitting in a train: the trees seem to rush past, but really the train is moving. The turning is so smooth that we cannot feel it.",
    "examples": [
@@ -114,7 +114,7 @@
   {
    "concept": "Morning, noon and evening shadows",
    "status": "defined",
-   "context": "This card is about the Shadow Footsteps test, where you counted your own shadow at three times of day.",
+   "context": "This card is about the Shadow Footsteps test, where you counted how many footsteps long your shadow was at three times of day.",
    "definition": "When the Sun is low, shadows are long. When the Sun is high, shadows are short. So shadows are long in the morning and evening, and shortest around noon.",
    "description": "Sunlight travels in straight lines. When the Sun is low, its light comes in sideways, so your body blocks a long stretch of ground and your shadow is long. When the Sun is high, the light comes from above, so your shadow is short. Around noon it is shortest.",
    "examples": [
@@ -156,7 +156,7 @@
   {
    "concept": "Other beings follow the Sun's movement too",
    "status": "defined",
-   "context": "This card is about animals and plants that keep track of where the Sun is going, like the cat in the story.",
+   "context": "This card is about animals and plants that keep track of where the Sun is going, like Kutti the cat in the story Kutti Follows the Sunshine.",
    "definition": "Many animals and plants keep track of the Sun's movement across the sky and use it.",
    "description": "Honeybees use the Sun to find their way back to flowers, and change direction as it moves. Young sunflower plants turn to face the Sun in the morning and follow it west. At night they turn back to face east. Cats move from patch to patch to stay in the warm sunshine. These beings sense the Sun, remember where it was, and get ready for where it will be.",
    "examples": [
@@ -198,7 +198,7 @@
  "challenging": [
   {
    "claim": "The Sun travels round the Earth once every day.",
-   "who": "Most people for thousands of years, and the first idea of most children",
+   "who": "Most people for thousands of years, and most children at first",
    "for": "It really does look that way. The Sun rises, crosses the sky and sets, and the ground does not seem to move.",
    "against": "The Earth turns once a day, and that makes the Sun seem to move. Swinging pendulums, photos from space, and the way all the stars wheel across the night sky together show it.",
    "status": "rejected",
@@ -223,7 +223,7 @@
  ],
  "big_questions": [
   {
-   "q": "You were sitting still, yet the Earth was carrying you along. What does it really mean to be still?",
+   "q": "When you sit still, the Earth is still carrying you along. What does it really mean to be still?",
    "kind": "deep",
    "hint": "Still compared with what? The floor, the Sun, or the whole sky?"
   },
@@ -373,7 +373,7 @@
     "The first player takes the top card and reads it aloud, or a grown-up reads it.",
     "The player says morning, noon or evening.",
     "Then they give a reason. Turn the card over to check.",
-    "1 point for the right time. 1 more point for a good reason.",
+    "Score 1 point for the right time, and 1 more point for a good reason.",
     "Take turns until the pile is finished. The player with the most points wins."
    ],
    "setup": [
@@ -400,7 +400,7 @@
      "do": "1. Players take turns to read a card and answer. 2. Ask for a reason every time. 3. Keep the score.",
      "say": "Is it morning, noon or evening? How do you know?",
      "kid": "Read the card. Morning, noon or evening? How do you know?",
-     "parent": "The reasons matter more than the guesses. Listen for: long means low Sun, short means high Sun, and the shadow points away from the Sun."
+     "parent": "The reasons matter more than the guesses. Listen for these ideas: a long shadow means a low Sun, a short shadow means a high Sun, and a shadow points away from the Sun."
     },
     {
      "id": "s3",
@@ -463,7 +463,7 @@
       },
       {
        "f": "Midnight",
-       "b": "There is no Sun in the sky. No sunshine, so no Sun shadow at all. The shadow player hides."
+       "b": "There is no Sun in the sky, so there is no sunshine and no shadow from the Sun. The shadow player hides."
       }
      ]
     },
@@ -479,8 +479,8 @@
    "rules": [
     "Tape the EAST sign on one wall and the WEST sign on the opposite wall. For the game, pretend these walls are east and west. Clear a space on the floor.",
     "Play in pairs. One player stands in the middle of the room as the person. The other is the shadow. With 2 players, that is the whole game. With 4 players, two pairs take turns while the others watch.",
-    "The person turns over the top time card, looks at the front only, and holds the paper Sun from activity a5 (or a yellow plate) in the right place for that time.",
-    "The shadow player lies or curls on the floor from the person's feet, the right length and pointing the right way. At midnight, the shadow player hides.",
+    "The person turns over the top time card, looks at the front only, and holds the paper Sun from the activity The Sun on a Stick (or a yellow plate) in the right place for that time.",
+    "The shadow player lies down or curls up on the floor, starting at the person's feet. They must be the right length and point the right way. At midnight, the shadow player hides.",
     "The person reads the back of the card aloud. If the shadow is right, the pair gets 1 point.",
     "Swap jobs after every two cards. The game ends when all 8 cards are used. With 2 players, try to get all 8 right together. With 4 players, the pair with more points wins."
    ],
@@ -509,7 +509,7 @@
      "mins": 7,
      "do": "1. The person turns over a time card and holds the paper Sun in the right place. 2. The shadow player moves. 3. Read the back to check.",
      "say": "Eight in the morning! The Sun is here, low by East. Shadow, where do you go? How long are you?",
-     "kid": "Look where the Sun is. Lie the right way. Long or short?",
+     "kid": "Look where the Sun is. Lie down pointing the right way. Should you be long or short?",
      "ask": [
       {
        "q": "Why did the shadow curl up at noon?",
@@ -550,7 +550,7 @@
    "context": "In this experiment you mark the corner of a patch of sunlight on your floor every 5 minutes. You find out whether the sunlight stays still, and if it moves, which way and how far.",
    "question": "If nobody touches the window or the curtain, does a patch of sunlight on the floor stay in the same place?",
    "predict": "Guess first. In 20 minutes, will the sun patch stay still, or move? If it moves, which way will it go? Why do you think so?",
-   "fair_test": "Nobody touches the window, the door or the curtain during the test. We always mark the same corner of the patch. We mark it every 5 minutes by the clock, so the gaps are the same. The same child's fingers count the finger widths.",
+   "fair_test": "Nobody touches the window, the door or the curtain during the test. We always mark the same corner of the patch. We mark it every 5 minutes by the clock, so the gaps are the same. The same child measures in finger widths every time.",
    "results_table": [
     "Clock time",
     "Mark number",
@@ -579,7 +579,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess, mark the corner of the sun patch five times, 5 minutes apart, then count how far it moved."
+     "what": "Guess first. Then mark the corner of the sun patch five times, 5 minutes apart, and count how far it moved."
     }
    ],
    "record": "Fill in the table. Draw the patch with five small numbered dots at its corner, from mark 1 to mark 5.",
@@ -623,7 +623,7 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "1. Put coin 1 exactly at the corner. 2. Write the time and mark 1 in the table.",
+     "do": "1. Put coin 1 exactly at the corner. 2. Write the time next to mark 1 in the table.",
      "say": "Put this coin right at the corner of the patch. What is the time now? Write it next to mark 1.",
      "kid": "Put coin 1 right at the corner. Tell your grown-up the time to write down."
     },
@@ -652,10 +652,10 @@
      "mins": 5,
      "do": "1. Count the finger widths from coin 1 to coin 5. 2. Ask your child to say what they think, what they saw, and why.",
      "say": "Count the finger widths from the first coin to the last. Nobody touched the window. So what made the patch move?",
-     "kid": "Count the fingers from coin 1 to coin 5. What made the patch move?",
+     "kid": "Count the finger widths from coin 1 to coin 5. What made the patch move?",
      "ask": [
       {
-       "q": "What do you think, and what did you see?",
+       "q": "What did you see? What do you think made the patch move?",
        "good": [
         "The patch moved, even though nobody touched the window.",
         "It moved the same way every time.",
@@ -665,7 +665,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 2, marks a sun patch every 5 minutes. Nobody touches the window. What will she see?",
+      "q": "You mark a sun patch every 5 minutes. Nobody touches the window. What will you see?",
       "options": [
        "The patch moves a little each time",
        "The patch stays exactly where it was",
@@ -674,7 +674,7 @@
       "a": 0,
       "why": "The Sun seems to move slowly across the sky, so the sunlight comes in at a new slant. The patch creeps a little way every few minutes. It does not jump."
      },
-     "parent": "Let your child give a reason before you explain. Then read the card about why the Sun seems to move: the Earth, with your home on it, is turning."
+     "parent": "Let your child give a reason before you explain. Then read the card \"Why the Sun seems to move: the Earth turns\". It says that the Earth, with your home on it, is turning."
     }
    ]
   },
@@ -716,7 +716,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Count your shadow at about 8 in the morning, around noon and at about 5 in the evening, about 5 minutes each time. Then compare."
+     "what": "Count how many footsteps long your shadow is at about 8 in the morning, around noon and at about 5 in the evening. Each count takes about 5 minutes. Then compare."
     }
    ],
    "record": "Fill in the table, and draw yourself three times with your shadow, the right length and pointing the right way.",
@@ -739,14 +739,14 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Draw the results table. 2. Ask for a guess and a reason for each time of day.",
-     "say": "We will count your shadow three times today: morning, noon and evening. When will it be longest? Why do you think so?",
+     "say": "We will measure your shadow in footsteps three times today: morning, noon and evening. When will it be longest? Why do you think so?",
      "kid": "When will your shadow be longest? Morning, noon or evening? Why?",
      "parent": "This test needs an open sunny place. A grown-up fills in the table. If you have no open sunny place, skip this test or do it at a park or on a relative's terrace."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. At about 8 in the morning, mark a spot with chalk. 2. Your child stands on it. 3. Put a stone where the shadow of the head ends. 4. Your child walks heel to toe from the cross to the stone and counts. 5. Note a building or tree the shadow points at.",
+     "do": "1. At about 8 in the morning, draw a cross on the ground with chalk. 2. Your child stands on the cross. 3. Put a stone where the shadow of the head ends. 4. Your child walks heel to toe from the cross to the stone and counts the footsteps. 5. Note a building or tree the shadow points at.",
      "say": "Stand on the cross and keep still. I will put a stone where your shadow ends. Now walk from the cross to the stone, heel to toe, and count. What is the shadow pointing at?",
      "kid": "Stand on the cross. Keep still. Then walk to the stone, heel to toe, and count your steps.",
      "adult": true,
@@ -790,7 +790,7 @@
      "kid": "You did not grow or shrink. So why did your shadow change?",
      "check": {
       "t": "mcq",
-      "q": "Rani, a girl in Class 2, finds her shadow is 12 footsteps long in the morning. What is it likely to be at noon?",
+      "q": "Your shadow is 12 footsteps long in the morning. What is it likely to be at noon?",
       "options": [
        "About 2 footsteps",
        "About 12 footsteps",
@@ -879,7 +879,7 @@
      "kid": "Guess first. Is the sunshine in the same rooms now? Go and check.",
      "check": {
       "t": "mcq",
-      "q": "Ishaan, a boy in Class 2, lives in a flat where morning sunlight comes in through the bedroom window. Where is the evening sunlight most likely to come in?",
+      "q": "In a flat, the morning sunlight comes in through the bedroom window. Where is the evening sunlight most likely to come in?",
       "options": [
        "A window on the other side of the flat",
        "The same bedroom window",
@@ -951,11 +951,11 @@
      "id": "s3",
      "mins": 3,
      "do": "Look out of the east window together. Name what the Sun rises behind: a building, a hill, a tree or a water tank.",
-     "say": "The Sun rises over there, behind something. What is it? Do not look at the Sun. Look early in the morning, or at the buildings.",
+     "say": "The Sun rises over there. What does it come up behind? We can look out early in the morning, but never at the Sun itself, only at the buildings.",
      "kid": "What does the Sun rise behind? A building? A tree? Say it.",
      "check": {
       "t": "mcq",
-      "q": "Farhan, a boy in Class 2, puts his East sign on his bedroom wall. Where should his West sign go?",
+      "q": "You put your East sign on your bedroom wall. Where should your West sign go?",
       "options": [
        "On the opposite wall",
        "Next to the East sign",
@@ -1041,7 +1041,7 @@
      "kid": "Guess first. Higher or lower? Draw the new sun. Join the suns.",
      "check": {
       "t": "mcq",
-      "q": "Tanvi, a girl in Class 2, drew the Sun at 9 in the morning and at noon. Where will her 3 o'clock sun go?",
+      "q": "You drew the Sun at 9 in the morning and at noon. Where will your 3 o'clock sun go?",
       "options": [
        "Lower down, on the other side from the morning sun",
        "Higher than the noon sun",
@@ -1051,7 +1051,7 @@
       "why": "After noon, the Sun seems to sink again, towards the west. So at 3 o'clock it is lower than at noon, on the opposite side from the morning sun."
      },
      "wait": "Come back around noon, then in the afternoon",
-     "parent": "Around noon in most of India, the Sun is very high, so draw it near the top of the paper. Do not lean over the balcony railing to look up. The pattern is low, high, low."
+     "parent": "Around noon in most of India, the Sun is very high, so draw it near the top of the paper. Do not lean over the balcony railing to look up. The pattern to look for is: low in the morning, high at noon, low in the afternoon."
     }
    ]
   },
@@ -1122,7 +1122,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Selvi, a woman who lives in a flat, puts her washing in a sunny corner of the terrace at 9 in the morning. At 3 in the afternoon, the corner is in shade. Why?",
+      "q": "At 9 in the morning, washing is put in a sunny corner of the terrace. At 3 in the afternoon, the corner is in shade. Why?",
       "options": [
        "The Sun has moved across the sky, so the shadows have moved",
        "The washing made the shade",
@@ -1208,7 +1208,7 @@
      "kid": "The Sun is by the East sign. Where does your shadow point?",
      "check": {
       "t": "mcq",
-      "q": "Meena, a girl in Class 2, holds her paper Sun low, near the West sign. What time of day is she showing?",
+      "q": "You hold your paper Sun low, near the West sign. What time of day are you showing?",
       "options": [
        "Evening",
        "Morning",
@@ -1254,7 +1254,7 @@
      "what": "Without looking at a clock, guess the time from where the patch corner is. Then check the clock. Do it three or four times."
     }
    ],
-   "record": "A photo or drawing of the floor clock with its time strips, and a table: my guess from the floor clock, the real time.",
+   "record": "A photo or drawing of the floor clock with its time strips, and a table with two columns: my guess from the floor clock, and the real time.",
    "setup": [
     {
      "art": "A row of small paper strips stuck on a tiled floor in a gentle curve, each with a time written on it: 9:00, 9:30, 10:00, 10:30.",
@@ -1298,7 +1298,7 @@
      "kid": "Was your floor clock right? Why does it work?",
      "check": {
       "t": "mcq",
-      "q": "Leela, a girl in Class 2, made a floor clock. It worked on Monday and on Tuesday. Why can a sun patch tell the time?",
+      "q": "A floor clock worked on Monday and again on Tuesday. Why can a sun patch tell the time?",
       "options": [
        "The Sun seems to move across the sky the same way every day",
        "The patch moves only when someone walks past",
@@ -1317,7 +1317,7 @@
    "id": "c1",
    "title": "Shade for a Toy, All Day Long",
    "mins": 20,
-   "context": "This is a design challenge. You build a shade for a small toy, so that it stays in shadow when a torch Sun shines low from one side, high from above, and low from the other side.",
+   "context": "This is a design challenge. You build a shade for a small toy. A torch plays the Sun. The toy must stay in shadow when the torch shines low from one side, high from above, and low from the other side.",
    "problem": "Can you build a shade from card and paper that keeps a toy in shadow in the morning, at noon and in the evening?",
    "constraints": [
     "Use only paper, card from old boxes, tape and ice-cream sticks or pencils.",
@@ -1375,7 +1375,7 @@
      "kid": "Which Sun was hardest to block? Why?",
      "check": {
       "t": "mcq",
-      "q": "Divya, a girl in Class 2, puts a flat roof over her toy. When does the torch Sun still shine on the toy?",
+      "q": "You put a flat roof over the toy. When does the torch still shine on the toy?",
       "options": [
        "When the torch is low at one side",
        "When the torch is high above",
@@ -1394,7 +1394,7 @@
    "channel": "GazdonianProductions",
    "youtube": "3B7KLstUZbI",
    "mins": 1,
-   "why": "Shows a shadow swinging round as the Sun crosses the sky in one day, after your child has watched their own sun patch move.",
+   "why": "Your child has watched their own sun patch move. This video shows a shadow swinging round as the Sun crosses the sky in one day.",
    "check": "Found by search: \"Sun's shadow time lapse  (N arrow is off a little bit)\" by GazdonianProductions, 1 minute, 21 seconds. A parent may preview it."
   },
   {
@@ -1410,7 +1410,7 @@
    "channel": "Firstpost",
    "youtube": "I7kQR7mXnRs",
    "mins": 3,
-   "why": "Shows objects losing their side shadows at noon on Zero Shadow Day in Bengaluru, as in the noon card.",
+   "why": "Shows objects losing their side shadows at noon on Zero Shadow Day in Bengaluru, as in the card \"Noon with no shadow: Zero Shadow Day\".",
    "check": "Found by search: \"India: Bengaluru Experiences Rare Celestial Event \"Zero Shadow Day\", Here is What it Means\" by Firstpost, 3 minutes, 1 second. A parent may preview it."
   }
  ],
@@ -1453,7 +1453,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nila is on a train. The trees outside seem to rush backwards. What is really moving?",
+   "p": "You are on a train. The trees outside seem to rush backwards. What is really moving?",
    "opts": [
     "The train",
     "The trees",
@@ -1514,14 +1514,14 @@
   },
   {
    "t": "mcq",
-   "p": "Pooja, a girl in Class 2, marked a sun patch corner every 5 minutes. The marks went further and further from the first one. What did she find?",
+   "p": "You mark the corner of a sun patch every 5 minutes. Each mark is further from the first one. What does this show?",
    "opts": [
     "The sun patch moves slowly and steadily",
     "The sun patch stays still",
-    "The sun patch moves only when she looks away"
+    "The sun patch moves only when you look away"
    ],
    "a": 0,
-   "why": "Her marks show that the patch creeps a little way every few minutes, because the Sun seems to move across the sky.",
+   "why": "The marks show that the patch creeps a little way every few minutes, because the Sun seems to move across the sky.",
    "outcome": 4,
    "how": "e1"
   },
@@ -1630,7 +1630,7 @@
     },
     {
      "t": "write",
-     "p": "Remember the Moving Sun Patch test. Say it, and a grown-up writes it down: what happened to the corner of the patch?",
+     "p": "In the Moving Sun Patch test, you put a coin at the corner of the sun patch every 5 minutes. What happened to the corner? Say your answer, and a grown-up writes it down.",
      "lines": 2,
      "a": "The corner moved a little further from the first coin every 5 minutes, though nobody touched the window.",
      "why": "A strong answer says the patch moved by itself and steadily, and names the way it went.",
@@ -1698,7 +1698,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Gauri, a girl in Class 2, sees that her shadow points west and is very long. Is it morning or evening?",
+     "p": "Your shadow points west and is very long. Is it morning or evening?",
      "opts": [
       "Morning",
       "Evening",
@@ -1859,7 +1859,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sneha, a girl in Class 2, wants to dry her clothes in the sun all afternoon. Her balcony faces east. Is it a good place?",
+     "p": "You want to dry clothes in the sun all afternoon. Your balcony faces east. Is it a good place?",
      "opts": [
       "No, an east balcony gets the morning sun, not the afternoon sun",
       "Yes, an east balcony is sunny all day",
@@ -1978,7 +1978,7 @@
    "art": "The huge triangular wall of the Samrat Yantra in Jaipur with its shadow on a curved stone scale."
   },
   {
-   "text": "On a sunny morning in Mumbai, the auto-rickshaws parked along one side of the road are in shade, and by evening those on the other side are.",
+   "text": "On a sunny morning in Mumbai, the auto-rickshaws parked along one side of the road are in shade. By evening, the ones on the other side are in shade instead.",
    "art": "A Mumbai road with a row of auto-rickshaws half in building shadow in the morning."
   }
  ],
@@ -2041,7 +2041,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Moving Sun Patch test, Leela, a girl in Class 2, found that her patch corner moved 3 finger widths in 15 minutes. If it keeps going at the same speed, how far will it move in 30 minutes?",
+   "problem": "In the Moving Sun Patch test, the corner of the patch moved 3 finger widths in 15 minutes. If it keeps going at the same speed, how far will it move in 30 minutes?",
    "answer": "6 finger widths.",
    "explain": "30 minutes is two lots of 15 minutes. Each lot moves the corner 3 finger widths. 3 and 3 make 6.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -2050,12 +2050,12 @@
    "why_maths": "Because the patch moves at a steady speed, we can use equal groups to predict where it will be later."
   },
   {
-   "problem": "In the Shadow Footsteps test, Rani, a girl in Class 2, counted her shadow. It was 11 footsteps in the morning, 2 at noon and 14 in the evening. Which shadow was longest? How many footsteps longer was it than the morning shadow?",
+   "problem": "In the Shadow Footsteps test, a shadow was 11 footsteps long in the morning, 2 at noon and 14 in the evening. Which shadow was longest? How many footsteps longer was it than the morning shadow?",
    "answer": "The evening shadow was longest. It was 3 footsteps longer than the morning shadow.",
    "explain": "14 is more than 11, and both are more than 2. Count on from 11 to 14: 12, 13, 14. That is 3 more.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e2",
-   "context": "This is about the Shadow Footsteps test, where you counted your shadow three times in one day.",
+   "context": "This is about the Shadow Footsteps test, where you counted how many footsteps long your shadow was three times in one day.",
    "why_maths": "Comparing the numbers shows the pattern at a glance: long, short, long."
   },
   {
@@ -2064,7 +2064,7 @@
    "explain": "From 8 o'clock to 12 o'clock: 9, 10, 11, 12. That is 4 hours. From 12 o'clock to 4 o'clock: 1, 2, 3, 4. That is 4 hours too.",
    "math_unit": "math.time.telling-time.L2",
    "how": "a4",
-   "context": "This is about the activity where you asked the family how they follow the sunshine.",
+   "context": "This is about the activity Who Follows the Sun at Home?, where you asked grown-ups how they move their drying things as the sunshine moves.",
    "why_maths": "Counting the hours shows that the sunshine moves along the balcony at a steady pace, so the moves can be planned."
   },
   {
@@ -2074,7 +2074,7 @@
    "math_unit": "math.patterns.number-patterns.L2",
    "how": "e1",
    "context": "This is about the Moving Sun Patch test, where you marked the corner every 5 minutes.",
-   "why_maths": "Seeing the pattern in the times lets you know when to make each mark without looking it up."
+   "why_maths": "Once you see the pattern in the times, you know when to make each mark."
   }
  ],
  "song": {
@@ -2236,7 +2236,7 @@
    {
     "source": "Aitareya Brahmana 3.44",
     "teaching": "The Aitareya Brahmana, an old Sanskrit text, says the Sun never really rises or sets. It says that when people think the Sun is setting, it is only making night on one side and day on the other.",
-    "link": "Your sun patch test agrees that rising and setting are not what they seem. The old text gave a different reason. We now know it is the Earth's turning that makes the Sun seem to rise and set."
+    "link": "The Moving Sun Patch test agrees that rising and setting are not what they seem. The old text gave a different reason. We now know it is the Earth's turning that makes the Sun seem to rise and set."
    },
    {
     "source": "Jain teaching of anekantavada, many-sidedness",
@@ -2246,7 +2246,7 @@
    {
     "source": "Heraclitus, fragment 91 (Diels-Kranz numbering)",
     "teaching": "Heraclitus, a Greek thinker who lived about 2,500 years ago, said you cannot step into the same river twice, because new water is always flowing past.",
-    "link": "Your floor looked as still as a calm pond. Yet it was always moving with the Earth. Even things that look still are on the move."
+    "link": "Your floor looks still. Yet it is always moving with the Earth. Like the river, even things that look still are on the move."
    }
   ],
   "science": [
@@ -2261,7 +2261,7 @@
   ],
   "other_view": {
    "who": "Some physicists and philosophers",
-   "view": "Movement is always measured against something else. So from the ground, it is fair to say the Sun moves across the sky. Saying the Earth turns is chosen because it explains the Sun, the stars and the seasons together, most simply."
+   "view": "Movement is always measured against something else. So from the ground, it is fair to say the Sun moves across the sky. Scientists choose to say the Earth turns because that one idea explains the Sun, the stars and the seasons together, most simply."
   },
   "practice": {
    "title": "Sit in the Sun Patch",
@@ -2270,14 +2270,14 @@
    "kid": "Sit with your toes at the corner of the sun patch. Close your eyes. Breathe slowly ten times. Open your eyes. Where is the corner now?"
   },
   "ask": [
-   "You sat still, yet the patch moved. What else around you might be moving that you do not notice?",
+   "In Sit in the Sun Patch, you sat still, yet the patch moved. What else around you might be moving that you do not notice?",
    "From the ground the Sun moves, and from space the Earth turns. Which way of saying it feels true to you, and why?",
    "Kutti the cat moves to stay in the sunshine. How do you think she knows where it will go next?"
   ],
   "art": "A child sitting cross-legged at the edge of a sun patch with eyes closed, toes at its corner, and a small drawing of the Earth turning beside her."
  },
  "how_we_found_out": {
-  "story": "For a very long time, most people thought the Earth stood still and the Sun travelled round it once a day. It really does look that way. About 2,300 years ago, a Greek astronomer called Aristarchus of Samos said that the Earth turns, and also goes round the Sun. Seleucus, who lived in Seleucia on the river Tigris, in what is now Iraq, agreed with him. Almost nobody else did. About 1,500 years ago in India, Aryabhata wrote that the Earth turns. He said the stars only seem to move west, like still trees that seem to move backwards when you sit in a boat. In 1543, Nicolaus Copernicus in Poland wrote a book with the Sun in the middle. Later, careful tests with telescopes and pendulums showed that the Earth really does turn. These thinkers were right, though most people around them did not believe it.",
+  "story": "For a very long time, most people thought the Earth stood still and the Sun travelled round it once a day. It really does look that way. About 2,300 years ago, a Greek astronomer called Aristarchus of Samos said that the Earth turns, and also goes round the Sun. Seleucus, who lived in Seleucia on the river Tigris, in what is now Iraq, agreed with him. Almost nobody else did. About 1,500 years ago in India, Aryabhata wrote that the Earth turns. He said the stars only seem to move west, like still trees that seem to move backwards when you sit in a boat. In 1543, Nicolaus Copernicus in Poland wrote a book that put the Sun, not the Earth, in the middle. Later, careful tests with telescopes and pendulums showed that the Earth really does turn. These thinkers were right, though most people around them did not believe it.",
   "who": "Aristarchus of Samos, a Greek astronomer; Seleucus of Seleucia, on the river Tigris; Aryabhata in India; later Nicolaus Copernicus in Poland",
   "when": "About 2,300 years ago for Aristarchus, about 2,150 years ago for Seleucus, about 1,500 years ago for Aryabhata, and 1543 for Copernicus",
   "wrong_idea": "That the Earth stands still and the Sun travels round it every day. It looks that way from the ground, but later evidence from telescopes, pendulums and photos from space showed that the Earth turns.",

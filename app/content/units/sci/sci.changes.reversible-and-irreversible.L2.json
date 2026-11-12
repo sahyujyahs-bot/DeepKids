@@ -91,7 +91,7 @@
    "status": "defined",
    "context": "This card explains changes that can be undone.",
    "definition": "A reversible change is a change that can be undone, so the material goes back to how it was before.",
-   "description": "Your squashed dough rolled back into a ball. The dough from the freezer was stiff and cold, but in your warm hands it went soft again. A plastic ruler bent into a curve and sprang back straight. Melting and freezing are reversible too. Ice melts into water, and water freezes back into ice.",
+   "description": "In the Dough Test, the squashed dough rolled back into a ball. The dough from the freezer was stiff and cold, but in warm hands it went soft again. In the Bend Test, a plastic ruler bent into a curve and sprang back straight. Melting and freezing are reversible too. Ice melts into water, and water freezes back into ice.",
    "examples": [
     "Squashed dough rolled back into a ball",
     "Stiff frozen dough warmed until it is soft again",
@@ -106,7 +106,7 @@
    "status": "defined",
    "context": "This card explains changes that cannot be undone.",
    "definition": "An irreversible change is a change that cannot be undone. Often, heating makes a new material that cannot turn back into the old one.",
-   "description": "On the hot tawa, the soft dough became a stiff roti with brown spots. When it cooled, you could not roll it into a ball. Soaking it in water only made it soggy. The heat had changed the dough into a new material. A snapped toothpick is irreversible in a different way. It is still wood, but you cannot join it into one piece.",
+   "description": "In the Dough Test, the soft dough became a stiff roti with brown spots on the hot tawa. When it cooled, you could not roll it into a ball. Soaking it in water only made it soggy. The heat had changed the dough into a new material. A snapped toothpick is irreversible in a different way. It is still wood, but you cannot join it into one piece.",
    "examples": [
     "Dough cooked into a roti",
     "Dosa batter cooked into a dosa",
@@ -135,7 +135,7 @@
    "concept": "Can every change be undone, if we find the right way?",
    "status": "debated",
    "context": "This card is about a question scientists still think about.",
-   "description": "Nobody has ever turned a roti back into dough. But scientists have undone some changes people thought were for ever. In 2015, scientists in the USA and Australia used a fast-spinning machine to undo part of the change in a boiled egg white. They could not make a raw egg, but they unfolded one cooked part back to how it was.",
+   "description": "Nobody has ever turned a roti back into dough. But scientists have undone some changes people thought were for ever. In 2015, scientists in the USA and Australia used a fast-spinning machine to undo part of the change in a boiled egg white. They could not make a raw egg again. But one tiny part of the cooked egg white went back to how it was when raw.",
    "examples": [
     "Cooked egg white partly undone in a laboratory in 2015",
     "Old glass bottles melted down and made into new bottles",
@@ -165,7 +165,7 @@
   },
   {
    "text": "Cooling makes many materials stiffer or solid, and warming them again often undoes the change.",
-   "evidence": "Dough from the freezer was stiff and cold. A few minutes in warm hands made it soft enough to roll again."
+   "evidence": "In the Dough Test, the dough from the freezer was stiff and cold. A few minutes in warm hands made it soft enough to roll again."
   },
   {
    "text": "Heating can change some materials into new materials that cannot be changed back.",
@@ -192,7 +192,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your squashed dough rolled back into a ball. Was it exactly the same ball as before?",
+   "q": "In the Dough Test, you squashed the dough and rolled it back into a ball. Was it exactly the same ball as before?",
    "kind": "deep",
    "hint": "Could anyone tell, just by looking, what you had done to it?"
   },
@@ -204,7 +204,7 @@
   {
    "q": "A crumpled paper pressed flat still has lines on it. Is that change undone or not?",
    "kind": "deep",
-   "hint": "Is the shape back? Is everything back?"
+   "hint": "Is the paper flat again? Are the lines gone?"
   },
   {
    "q": "You grow taller every year, and never shorter again. Is growing up a change that can be undone?",
@@ -280,7 +280,7 @@
    "context": "In this experiment you make three equal pieces of atta dough. You squash one, put one in the freezer and a grown-up cooks one on a hot tawa. Then you try to make each one a soft ball again.",
    "question": "We can change dough by squashing it, by cooling it and by heating it. Which of these changes can we undo?",
    "predict": "Look at the three pieces of dough. After we squash one, freeze one and cook one, which ones can you roll back into a soft ball? Why do you think so?",
-   "fair_test": "All three pieces come from the same ball of dough, and they are the same size. We try to undo each change in the same way, by rolling it in our hands. We check every piece after it has come back to room warmth.",
+   "fair_test": "All three pieces come from the same ball of dough, and they are the same size. We try to undo each change in the same way, by rolling it in our hands. We check every piece only after it has warmed up or cooled down to the warmth of the room.",
    "results_table": [
     "Piece",
     "What we did to it",
@@ -333,7 +333,7 @@
    "record": "Fill in the results table. Draw each piece after its change, and write 'went back' or 'did not go back' under it.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Thenmozhi's kitchen in Coimbatore",
+    "title": "Made-up example results",
     "cols": [
      "Piece",
      "What we did",
@@ -440,7 +440,7 @@
      "adult": true,
      "context": "In this step of the dough test, a grown-up cooks piece 3 on a hot tawa.",
      "do": "1. Roll piece 3 into a small, thin disc. 2. Heat the tawa. 3. Cook the disc for about one minute on each side. 4. Put it on the plate to cool for 2 minutes.",
-     "say": "Stand back from the stove and watch. What is happening to the dough on the tawa? What colour is it going?",
+     "say": "Stand back from the stove and watch. What is happening to the dough on the tawa? What colour is it turning?",
      "kid": "Stand back from the stove. Watch the dough on the tawa. What do you see?",
      "ask": [
       {
@@ -494,7 +494,7 @@
      "id": "s7",
      "mins": 2,
      "context": "This is the last step of the dough test. You say what you found.",
-     "do": "1. Put the three pieces side by side. 2. Ask your child what they think, what they saw and why. 3. Then read the cards on reversible and irreversible changes.",
+     "do": "1. Put the three pieces side by side. 2. Ask your child which changes could be undone, what they saw, and why they think so. 3. Then read the cards on reversible and irreversible changes.",
      "say": "Look at all three. Which changes could you undo? What did you see that tells you? Why do you think the tawa changed the dough for good?",
      "kid": "Look at the three pieces. Which changes could you undo? Which could you not? Why?",
      "ask": [
@@ -518,7 +518,7 @@
    "context": "In this experiment you gently bend six things from home: a plastic ruler, a broom stick, a strip of foil, a paper clip, an eraser and a toothpick. You watch what each one does when you let go.",
    "question": "When we bend things and let go, which ones spring back, which stay bent and which break?",
    "predict": "Look at the six things. Which will spring back? Which will stay bent? Which will break? Why do you think so?",
-   "fair_test": "We bend each thing gently, in the middle, and hold it for a count of five. Then we let go and look. We try each thing two times, because one try can be a fluke.",
+   "fair_test": "We bend each thing gently, in the middle, and hold it for a count of five. Then we let go and look. We try each thing two times, because one try can go wrong by chance.",
    "results_table": [
     "Thing",
     "My guess",
@@ -561,13 +561,13 @@
     {
      "day": 1,
      "mins": 18,
-     "what": "Guess, then bend each of six things and let go. Tick what each one does. Count each kind."
+     "what": "Guess, then bend each of six things and let go. Tick what each one does. Count how many sprang back, stayed bent and broke."
     }
    ],
    "record": "Tick a box for each thing in the table. Then count how many sprang back, stayed bent and broke.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Anjali's home in Pune",
+    "title": "Made-up example results",
     "cols": [
      "Thing",
      "Guess",
@@ -673,7 +673,7 @@
       {
        "q": "Which changes can be undone?",
        "good": [
-        "Springing back undoes itself.",
+        "The things that sprang back undid the bend by themselves.",
         "I can bend the foil straight again, but a broken toothpick cannot be joined."
        ]
       }
@@ -684,7 +684,7 @@
      "id": "s4",
      "mins": 3,
      "context": "This is the last step of the bend test. You say what you found.",
-     "do": "1. Ask your child what they think, what they saw and why. 2. Then read the card 'Why some things spring back and others stay bent'.",
+     "do": "1. Ask your child what was different about the two bends of the paper clip, and why they think so. 2. Then read the card 'Why some things spring back and others stay bent'.",
      "say": "The same paper clip sprang back once and stayed bent once. What was different? Why do you think that happened?",
      "kid": "The paper clip sprang back once, and stayed bent once. What was different?",
      "ask": [
@@ -736,7 +736,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Give your child one sheet. 2. Ask them to crumple it into the tightest ball they can.",
+     "do": "1. Give your child one sheet of paper. 2. Ask them to crumple it into the tightest ball they can.",
      "say": "Crumple this into a tight ball. Squash it as hard as you can. What has changed about the paper?",
      "kid": "Crumple the paper into a tight ball. Squash it hard. What changed?",
      "ask": [
@@ -748,14 +748,14 @@
        ]
       }
      ],
-     "parent": "This is the thing to notice first. Do not explain anything yet."
+     "parent": "Let your child notice that the shape and the size of the paper changed. Do not explain anything yet."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Your child opens the ball and presses it flat with both hands. 2. Put it beside the smooth sheet. 3. Ask the questions below.",
-     "say": "Now open it and make it flat again. Put it next to the other sheet. Is it the same as before? What do you notice?",
-     "kid": "Open the ball. Press it flat. Put it next to the smooth sheet. Is it the same?",
+     "do": "1. Your child opens the ball and presses it flat with both hands. 2. Put it beside a sheet that was not crumpled. 3. Ask the questions below.",
+     "say": "Now open it and make it flat again. Put it next to a sheet that was not crumpled. Is it the same as before? What do you notice?",
+     "kid": "Open the ball. Press it flat. Put it next to a sheet you did not crumple. Is it the same?",
      "ask": [
       {
        "q": "Did the change get undone?",
@@ -891,7 +891,7 @@
      "what": "Watch batter turn into a dosa. Put a spoon of batter in the fridge and compare it with the dosa."
     }
    ],
-   "record": "Draw the batter, then the dosa. Draw an arrow between them, and cross out the arrow going back.",
+   "record": "Draw the batter, then the dosa. Draw an arrow from the batter to the dosa. Then draw an arrow going back from the dosa to the batter, and cross it out.",
    "setup": [
     {
      "art": "A ladle pouring white dosa batter in a circle on a hot black tawa.",
@@ -1126,7 +1126,7 @@
     "One player turns over the top card and reads it out.",
     "Everyone holds up one sign at the same time.",
     "Turn the card over and read the back. Everyone who was right gets a point.",
-    "When the pile is finished, the player with the most points wins. Playing alone, sort the cards into two piles and then check the backs."
+    "When the pile is finished, the player with the most points wins. If you are playing alone, sort the cards into two piles and then check the backs."
    ],
    "setup": [
     {
@@ -1378,7 +1378,7 @@
    "title": "The Folded Paper Bridge: how many coins can it hold?",
    "mins": 20,
    "context": "This is a design challenge. A flat sheet of paper laid across two tumblers sags when you put a coin on it. You change its shape by bending and folding, to make it hold as many coins as you can.",
-   "problem": "Make a sheet of paper hold as many coins as possible between two steel tumblers, without changing the paper in any way except bending and folding it.",
+   "problem": "Make one sheet of paper hold as many coins as you can between two steel tumblers. You may only bend and fold the paper.",
    "constraints": [
     "Use one sheet of paper the size of a notebook page.",
     "Do not use glue or tape.",
@@ -1552,7 +1552,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why could you not turn the cooked piece back into dough?",
+     "p": "Say your answer out loud, and a grown-up writes it down. Why could you not turn the cooked piece back into dough?",
      "lines": 2,
      "a": "The heat of the tawa changed the dough into roti, a new material, so it could not go back.",
      "why": "A strong answer says that heat changed the dough into something new, not only its shape. Saying 'because it was hard' describes it but does not say why.",
@@ -1561,7 +1561,7 @@
     },
     {
      "t": "count",
-     "p": "In the bend test, Meenakshi tested 6 things. 3 sprang back, 1 stayed bent and the rest broke. How many broke?",
+     "p": "In the bend test, 6 things were tested. 3 sprang back, 1 stayed bent and the rest broke. How many broke?",
      "a": 2,
      "why": "3 and 1 make 4. 6 take away 4 is 2. So 2 things broke.",
      "context": "This question is about the bend test. You bent a plastic ruler, a broom stick, a foil strip, a paper clip, an eraser and a toothpick, and watched what each one did when you let go.",
@@ -1587,7 +1587,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, a girl in Class 2, crumples a sheet of paper and then presses it flat again. She and her friend Farhan look at it.",
+     "p": "Kavya crumples a sheet of paper and then presses it flat again. She and her friend Farhan look at it.",
      "views": [
       {
        "who": "Kavya",
@@ -1657,7 +1657,7 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi says, 'Cold changes can never be undone, because ice is so hard.' Use the dough test to say what you think.",
+     "p": "Someone says, 'Cold changes can never be undone, because ice is so hard.' Use the dough test to say what you think.",
      "lines": 3,
      "a": "The frozen dough was stiff, but in warm hands it went soft and rolled into a ball again. So a cold change could be undone.",
      "why": "A strong answer uses evidence from the test: the frozen piece went soft again when warmed. That shows a cold change being undone.",
@@ -1678,7 +1678,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi, a girl in Kochi, squeezes a sponge and a slice of bread. What will most likely happen?",
+     "p": "You squeeze a sponge and a slice of bread, then open your hand. What will most likely happen?",
      "opts": [
       "Both spring back",
       "Only the sponge springs back",
@@ -1770,14 +1770,14 @@
     },
     {
      "t": "count",
-     "p": "Arjun's flat paper bridge held 1 coin. His folded paper bridge held 9 coins. How many more coins did the folded bridge hold?",
+     "p": "A flat paper bridge held 1 coin. A folded paper bridge held 9 coins. How many more coins did the folded bridge hold?",
      "a": 8,
      "why": "9 take away 1 is 8. Folding changed only the paper's shape, but it held 8 more coins.",
      "how": "c1"
     },
     {
      "t": "write",
-     "p": "Your dough ball was squashed into a snake and rolled back into a ball. Could anyone tell, just by looking, what you did to it? Could anyone tell that a roti was once heated?",
+     "p": "In the dough test, you squashed a dough ball, rolled it into a snake and rolled it back into a ball. Could anyone tell, just by looking, what you did to it? Could anyone tell that a roti was once heated?",
      "lines": 3,
      "a": "Nobody could tell that the ball had been a snake. Anyone can tell that a roti was heated, because it has brown spots and is stiff.",
      "why": "A strong answer sees that a change that is undone leaves no sign, but a change that cannot be undone shows what happened.",
@@ -1867,7 +1867,7 @@
   },
   {
    "t": "mcq",
-   "p": "Thenmozhi, a girl in Coimbatore, bends a strip of foil and lets go. What will it most likely do?",
+   "p": "You bend a strip of foil and let go. What will it most likely do?",
    "opts": [
     "Spring back straight",
     "Stay bent",
@@ -1905,7 +1905,7 @@
   },
   {
    "t": "mcq",
-   "p": "Most of the changes that cannot be undone in a kitchen are made by what?",
+   "p": "In a kitchen, what makes most of the changes that cannot be undone?",
    "opts": [
     "Squashing",
     "Heating",
@@ -1917,7 +1917,7 @@
   },
   {
    "t": "mcq",
-   "p": "Mawii, a girl in Aizawl, snaps a dry twig in two. Which kind of change is this?",
+   "p": "You snap a dry twig in two. Which kind of change is this?",
    "opts": [
     "Reversible, because it is still wood",
     "Irreversible, because the pieces cannot be joined back",
@@ -1959,7 +1959,7 @@
   "Roofs and steel sheets are made wavy, because bending a sheet into folds makes it much stiffer, like the folded paper bridge.",
   "Springs in pens, mattresses and weighing scales use materials that spring back after they are squashed or stretched.",
   "Ironing uses heat to press creases out of cotton. The creases come back when the cloth is worn and washed. Ruth Benerito, an American chemist, worked out ways to treat cotton so it creases less.",
-  "Glass bottles can be melted down and made into new bottles, because melting glass can be undone and redone many times."
+  "Glass bottles can be melted down and made into new bottles, because glass can be melted and set hard again many times."
  ],
  "spotted": [
   {
@@ -2048,9 +2048,9 @@
  ],
  "maths": [
   {
-   "problem": "In the bend test, Meenakshi made a tally of what happened: 4 sprang back, 1 stayed bent and 1 broke. How many things did she test?",
+   "problem": "In the bend test, a tally shows what happened: 4 things sprang back, 1 stayed bent and 1 broke. How many things were tested?",
    "answer": "6 things.",
-   "explain": "4 and 1 make 5. 5 and 1 make 6. So she tested 6 things. More than half of them sprang back.",
+   "explain": "4 and 1 make 5. 5 and 1 make 6. So 6 things were tested. More than half of them sprang back.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "e2",
    "context": "This question is about the bend test. You bent a plastic ruler, a broom stick, a foil strip, a paper clip, an eraser and a toothpick, and watched what each one did when you let go.",
@@ -2066,7 +2066,7 @@
    "why_maths": "Fair tests need equal pieces, and fractions tell us how much of the dough each change used."
   },
   {
-   "problem": "Thenmozhi put her dough in the freezer at 4 o'clock. She took it out 15 minutes later. What time was it?",
+   "problem": "A piece of dough went into the freezer at 4 o'clock. It came out 15 minutes later. What time was it then?",
    "answer": "Quarter past 4.",
    "explain": "15 minutes is a quarter of an hour. So 15 minutes after 4 o'clock is quarter past 4, or 4:15.",
    "math_unit": "math.time.telling-time.L2",
@@ -2075,7 +2075,7 @@
    "why_maths": "Knowing the time means every piece gets the same time in the freezer, which keeps the test fair."
   },
   {
-   "problem": "Arjun's fan-folded paper held 12 coins. His flat paper held 1 coin, and his rolled paper held 5. Put the three in order from strongest to weakest. What do you notice?",
+   "problem": "A sheet of paper folded like a hand fan held 12 coins. A flat sheet held 1 coin, and a sheet rolled into a tube held 5. Put the three in order from strongest to weakest. What do you notice?",
    "answer": "Fan-folded 12, rolled 5, flat 1.",
    "explain": "12 is more than 5, and 5 is more than 1. The same paper held 12 times as many coins when it was fan-folded as when it was flat. Only the shape changed.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -2190,23 +2190,23 @@
   ]
  },
  "roots": {
-  "context": "We have squashed, frozen and cooked dough, and bent things to see which spring back. Now we ask what changes that can and cannot be undone tell us about the world, and about ourselves.",
+  "context": "In the Dough Test we squashed, froze and cooked dough. In the Bend Test we bent things to see which spring back. Now we ask what changes that can and cannot be undone tell us about the world, and about ourselves.",
   "deep_truth": {
-   "truth": "Your dough was squashed into a snake, then rolled back into a ball. Nobody looking at the ball could tell. The cooked piece shows anyone that it was heated. A change we cannot undo is how we can tell what happened before.",
-   "habit": "We think that when a thing looks the same as before, nothing happened to it. The dough ball had been a disc and a snake, and kept no sign of those shapes. Changes that cannot be undone are the ones that leave a sign.",
+   "truth": "In the Dough Test, you squashed the dough, rolled it into a snake and rolled it back into a ball. Nobody looking at the ball could tell what you had done. But anyone can see that the cooked piece was heated. A change we cannot undo leaves a sign, and that sign is how we can tell what happened before.",
+   "habit": "We think that when a thing looks the same as before, nothing happened to it. But in the Dough Test, the dough ball had been a disc and a snake, and kept no sign of those shapes. Changes that cannot be undone are the ones that leave a sign.",
    "evidence": "In the dough test, the squashed piece and the frozen piece both became soft balls again, and looked like the dough before. The cooked piece stayed stiff and brown-spotted, and would not become dough even in water."
   },
   "three": {
    "who_am_i": "You grew from a baby, and you will never be that small again. Your body carries the signs of every year you have grown.",
-   "what_is_life": "A seed that sprouts can never go back inside their seed coat. Living things grow in one direction, and their bodies show how they have grown.",
+   "what_is_life": "A plant that has sprouted from a seed can never go back inside the seed. Living things grow in one direction, and their bodies show how they have grown.",
    "what_is_this_world": "Rocks, riverbeds and old pots all keep marks of what happened to them. Scientists read those marks to find out about the past."
   },
-  "thread": "The dough was one material that could take many shapes, a disc, a snake and a ball, and still be dough. Heat made something new from it, and the roti now carries a sign of the tawa. In the same way, the world is always taking new shapes, and some of them stay. Everything is conscious, the dough and the clay too, and each one is changed by what happens to it. Some scientists disagree, and say only living things with brains can be aware.",
+  "thread": "In the Dough Test, the dough was one material that could take many shapes, a disc, a snake and a ball, and still be dough. Heat made something new from it, and the roti now carries a sign of the tawa. In the same way, the world is always taking new shapes, and some of them stay. Everything is conscious, which means aware, the dough and the clay too, and each one is changed by what happens to it. Some scientists disagree, and say only living things with brains can be aware.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka, a teacher in ancient India, told his son that by knowing one lump of clay, you know everything made of clay. The pot and the plate are only names for different shapes. The clay is what is real.",
-    "link": "Your squashed dough became a disc, a snake and a ball, and stayed dough all along, just as Uddalaka said of clay. The tawa showed something the teaching does not talk about: heat can turn the dough into something new."
+    "link": "In the Dough Test, your dough became a disc, a snake and a ball, and stayed dough all along, just as Uddalaka said of clay. The tawa showed something the teaching does not talk about: heat can turn the dough into something new."
    },
    {
     "source": "Rubaiyat of Omar Khayyam, translated by Edward FitzGerald, first edition, 1859, verse 51",
@@ -2235,7 +2235,7 @@
    "kid": "Crumple a paper slowly. Listen. Open it and press it flat. Close your eyes. Feel the lines with your fingers. Breathe slowly three times."
   },
   "ask": [
-   "The dough ball kept no sign that it was once a snake. Did the snake really happen?",
+   "In the Dough Test, the dough ball kept no sign that it was once a snake. Did the snake shape really happen?",
    "Your body has grown every year. Can you find a sign on your body of something that happened to you?",
    "If every change could be undone, how would we know what happened yesterday?"
   ],
@@ -2258,5 +2258,5 @@
   ]
  },
  "playtest": "Thought through as a parent and child in a flat. The dough test needs only atta, water, a freezer and a tawa, which nearly every Indian kitchen has. A coin-thin disc of dough goes stiff in a home freezer within about 15 minutes, and goes soft again in warm hands within about 3 to 5 minutes. A note covers using the fridge instead. A small disc cooked on a medium tawa for a minute on each side becomes a stiff roti with brown spots. Once cool, it tears rather than rolling into a ball, and in water it goes soggy but never sticky like dough. The bend test uses a plastic ruler, a broom stick, a foil strip, a paper clip, an eraser and a toothpick, all common at home. A paper clip springs back from a small bend and stays bent after a big one. Only the grown-up uses the stove.",
- "warm": {"words": ["DOUGH", "TWIST", "SHAPE", "MELTS", "BREAK"], "quiz": [["Squashing a ball of dough changes its shape but not what it is made of.", true, "Squashing only pushes the dough into a new shape. It is still the same dough."], ["A roti cooked on a hot tawa can be rolled back into a ball of dough.", false, "Heat made a new material. A roti can never be dough again."], ["A rubber band springs back after a small stretch.", true, "Its tiny particles are pushed a little out of place, and then they pull back."], ["If a ruler stays bent, it has turned into a new material.", false, "It stays bent because its particles slid to new places. The material is still the same."], ["Chocolate that melts in the sun can go firm again when it is cooled.", true, "Warming and cooling can go back and forth, so this change can be undone."], ["A crumpled paper pressed flat is exactly as it was before.", false, "The creases stay on the paper. The change is only partly undone."], ["Heating can turn a material into a new one that cannot go back.", true, "The new material is not the old one any more, so it cannot be changed back."], ["Plastic can be melted and made into new things again and again without getting weaker.", false, "Each time, the long chain-like particles break a little. After a few times the plastic is too weak."], ["A ruler always springs back, however far you bend it.", false, "Bend it too far and its particles slide to new places, so it stays bent or breaks."], ["A child grows taller each year and never grows shorter again.", true, "Growing up is a change that does not go back, so it cannot be undone."]], "odd": [[["Cooking a roti", "Boiling an egg", "Frying a papad", "Melting butter"], "Melting butter", "Heating makes a new material that cannot go back in the first three. Butter can set again."], [["Squashing dough", "Bending a ruler", "Twisting a rope", "Burning paper"], "Burning paper", "The first three only change the shape of the same material. Burning makes new materials."], [["Rubber ball", "Sponge", "Spring", "Wet clay"], "Wet clay", "The first three spring back to their old shape when you let go. Wet clay stays squashed."], [["Snapped toothpick", "Torn paper", "Cracked plate", "Stretched rubber band"], "Stretched rubber band", "The first three are breaks that cannot be undone. A rubber band goes back to its old shape."], [["Water in a freezer", "Melted wax cooling", "Butter in a fridge", "Cooking an egg"], "Cooking an egg", "The first three go firm when they get cold, and can melt again. Cooking an egg is heating that cannot be undone."]]}
+ "warm": {"words": ["DOUGH", "TWIST", "SHAPE", "MELTS", "BREAK"], "quiz": [["Squashing a ball of dough changes its shape but not what it is made of.", true, "Squashing only pushes the dough into a new shape. It is still the same dough."], ["A roti cooked on a hot tawa can be rolled back into a ball of dough.", false, "Heat made a new material. A roti can never be dough again."], ["A rubber band springs back after a small stretch.", true, "Its tiny particles are pushed a little out of place, and then they pull back."], ["If a ruler stays bent, it has turned into a new material.", false, "It stays bent because its particles slid to new places. The material is still the same."], ["Chocolate that melts in the sun can go firm again when it is cooled.", true, "The chocolate melts when it is warmed and goes firm when it is cooled, so this change can be undone."], ["A crumpled paper pressed flat is exactly as it was before.", false, "The creases stay on the paper. The change is only partly undone."], ["Heating can turn a material into a new one that cannot go back.", true, "Cooking dough into a roti is one example. The roti can never be dough again."], ["Plastic can be melted and made into new things again and again without getting weaker.", false, "Each time, the long chain-like particles break a little. After a few times the plastic is too weak."], ["A ruler always springs back, however far you bend it.", false, "Bend it too far and its particles slide to new places, so it stays bent or breaks."], ["A child grows taller each year and never grows shorter again.", true, "Growing taller is a change that cannot be undone."]], "odd": [[["Cooking a roti", "Boiling an egg", "Frying a papad", "Melting butter"], "Melting butter", "In the first three, heating makes a new material that cannot go back. Butter can set again."], [["Squashing dough", "Bending a ruler", "Twisting a rope", "Burning paper"], "Burning paper", "The first three only change the shape of the same material. Burning makes new materials."], [["Rubber ball", "Sponge", "Spring", "Wet clay"], "Wet clay", "The first three spring back to their old shape when you let go. Wet clay stays squashed."], [["Snapped toothpick", "Torn paper", "Cracked plate", "Stretched rubber band"], "Stretched rubber band", "The first three are breaks that cannot be undone. A rubber band goes back to its old shape."], [["Water in a freezer", "Melted wax cooling", "Butter in a fridge", "Cooking an egg"], "Cooking an egg", "The first three go firm when they get cold, and can melt again. Cooking an egg is heating that cannot be undone."]]}
 }

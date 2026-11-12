@@ -3,11 +3,11 @@
  "title": "Seasons in India: summer, monsoon and winter, and what changes",
  "level": 2,
  "summary": {
-  "text": "Every year in India, a hot summer, a rainy monsoon and a cooler winter come round in the same order. These parts of the year are called seasons. In each season the heat, the rain and the wind change, and so do people and other animals: what we wear, what we eat, which birds call and which trees flower. The seasons do not come at the same time all over India. In this unit your child finds out what changes in each season, and tests why white clothes are cooler in the summer sun.",
+  "text": "Every year in India, a hot summer, a rainy monsoon and a cooler winter come round in the same order. These parts of the year are called seasons. In each season the heat, the rain and the wind change. People, other animals and plants change too: what we wear, what we eat, which birds call and which trees flower. The seasons do not come at the same time all over India. In this unit your child finds out what changes in each season, and tests why white clothes are cooler in the summer sun.",
   "art": "A long strip picture of one Indian street in three parts: a hot summer afternoon with a red gulmohar tree and a buttermilk stall, a rainy monsoon day with umbrellas and puddles, and a misty winter morning with people in sweaters."
  },
  "intro": {
-  "hook": "In May, Paati in Chennai hangs out a white cotton saree, and her neighbour's black T-shirt is too hot to touch after an hour on the clothes line. Both were in the same sunshine. Why did one get so much hotter?",
+  "hook": "In May in Chennai, a white cotton saree and a black T-shirt hang on the same clothes line. After an hour in the sun, the black T-shirt is too hot to touch, and the saree is not. Both were in the same sunshine. Why did one get so much hotter?",
   "text": "Look at a photo of your home from a few months ago. Is anything different from today? Maybe the fan was off, or there was an umbrella by the door, or everyone wore sweaters. The year in India turns from hot to rainy to cool, and back again. These parts of the year are called seasons. In this unit we find out what changes in each season, why the monsoon reaches Kochi weeks before Delhi, and why people choose white cotton for the summer.",
   "art": "A black T-shirt and a white cotton saree hanging side by side on a clothes line on a sunny Chennai balcony, with a girl touching the T-shirt and pulling her hand back."
  },
@@ -82,7 +82,7 @@
    "status": "defined",
    "context": "This card is about what we mean by a season.",
    "definition": "A season is a part of the year with its own kind of weather. The seasons come back in the same order every year.",
-   "description": "Weather is what the air is doing today: hot or cool, rainy or dry, windy or still. A season is the usual weather for many weeks in a row. One cool day in May does not make winter. A cycle is something that happens again and again in the same order, like the days of the week.",
+   "description": "Weather is what the air is doing today: hot or cool, rainy or dry, windy or still. A season is the usual weather for many weeks in a row. One cool day in May does not make winter. The seasons come in a cycle. A cycle is something that happens again and again in the same order, like the days of the week.",
    "examples": [
     "In Hyderabad, April and May are hot almost every day. That is the summer season.",
     "In Mumbai, it rains on most days of July. That is the monsoon season.",
@@ -152,7 +152,7 @@
    "status": "defined",
    "context": "This card is about how families change what they do as the seasons turn.",
    "definition": "People change their clothes, food, work and festivals with the seasons.",
-   "description": "In summer, people wear loose cotton, drink buttermilk and coconut water, and stay in the shade at noon. In the monsoon, out come umbrellas, raincoats and hot roasted corn, and farmers sow rice and many other crops. In winter, sweaters and blankets come out of the cupboard. Festivals follow the seasons too: Onam in Kerala in August or September, and Pongal, Makar Sankranti, Uttarayan in Gujarat and Magh Bihu in Assam in January.",
+   "description": "In summer, people wear loose cotton, drink buttermilk and coconut water, and stay in the shade at noon. In the monsoon, people bring out umbrellas and raincoats and eat hot roasted corn, and farmers sow rice and many other crops. In winter, sweaters and blankets come out of the cupboard. Festivals follow the seasons too. Onam comes in Kerala in August or September. Pongal, Makar Sankranti, Uttarayan in Gujarat and Magh Bihu in Assam all come in January.",
    "examples": [
     "Neer mor, a thin spiced buttermilk, is given out free at street stalls in Tamil Nadu in summer.",
     "Roasted corn, called bhutta in many places, is sold hot on rainy days.",
@@ -232,7 +232,7 @@
   {
    "claim": "Black clothes always make you hotter in the sun.",
    "who": "A common idea, tested by scientists in 1980",
-   "for": "A black cloth absorbs more sunlight and gets hotter, as your ice test showed.",
+   "for": "A black cloth absorbs more sunlight and gets hotter. The Black or White test shows this: ice under a black cloth melts faster than ice under a white cloth.",
    "against": "Scientists measured Bedouin people in the desert wearing loose black and white robes. The black robe got hotter on the outside, but the person inside gained about the same heat. Moving air carried the extra heat away before it reached the skin.",
    "status": "debated",
    "context": "This card is about whether the colour of clothes is the whole story."
@@ -261,7 +261,7 @@
    "hint": "Is there one start day for all of India, or a start day for each place?"
   },
   {
-   "q": "Your black cloth and white cloth sat in the same sunshine. Why did they end up at different temperatures?",
+   "q": "In the Black or White test, a black cloth and a white cloth sit in the same sunshine. Why do they end up at different temperatures?",
    "kind": "deep",
    "hint": "Think about how much of the light each cloth took in."
   },
@@ -440,7 +440,7 @@
      "kid": "Read your card. Say the season. Name two things to pack.",
      "ask": [
       {
-       "q": "Why did Chennai in May and Chennai in November get different answers?",
+       "q": "The Chennai in May card and the Chennai in November card have different weather. Why?",
        "good": [
         "May is summer there and very hot.",
         "November is when Chennai gets its big rain."
@@ -457,14 +457,14 @@
      "kid": "Which trip do you want most? Why?",
      "check": {
       "t": "mcq",
-      "q": "Farhan, a boy in Class 2, has an aunt in Chennai. She says, 'Our big rains come in November.' Farhan lives in Mumbai. When are his big rains?",
+      "q": "Chennai gets its big rains in November. When does Mumbai get its big rains?",
       "options": [
        "June to September",
        "November",
        "January"
       ],
       "a": 0,
-      "why": "Mumbai gets the southwest monsoon from June to September. Chennai gets its big rain later, from the northeast monsoon. If you chose November, look again at the Mumbai card."
+      "why": "Mumbai gets its monsoon rain from June to September. Chennai gets its big rain later, from the northeast monsoon. If you chose November, look again at the Mumbai card."
      }
     }
    ]
@@ -583,9 +583,9 @@
    "rules": [
     "Put the three pile mats on the floor: summer, monsoon and winter.",
     "Mix the 18 clue cards and split them into two equal piles, one for each player.",
-    "Say 'Go!' Each player puts their cards, clue side up, on the right mat, as fast as they can.",
+    "Say 'Go!' Each player puts their cards, clue side up, on the mat for the season they belong to, as fast as they can.",
     "When both players have finished, turn every card over and check the back.",
-    "Each card on the right mat scores 1 point. The player with more points wins.",
+    "Each card on the correct mat scores 1 point. The player with more points wins.",
     "Playing alone? Try to sort all 18 cards in two minutes, then check."
    ],
    "setup": [
@@ -611,7 +611,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Split the cards into two piles. 2. Say 'Go!' 3. Each player sorts their cards onto the mats. 4. Turn all the cards over and score.",
-     "say": "Ready? Go! Put each card on the right mat.",
+     "say": "Ready? Go! Put each card on the mat for its season.",
      "kid": "Go! Put each card on a mat. Be quick!"
     },
     {
@@ -623,7 +623,7 @@
      "parent": "Some cards depend on where you live. Fog and seeing your breath belong to winter in the north, but rarely happen in Chennai. That is a good thing to notice, not a mistake.",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 2, hears frogs croaking all night by the puddles. Which season is it?",
+      "q": "Frogs are croaking all night by the puddles. Which season is it?",
       "options": [
        "Monsoon",
        "Summer",
@@ -754,7 +754,7 @@
      "do": "1. After 15 minutes, lift both cloths. 2. Look at the two ice cubes and the water on each plate. 3. Draw what you see.",
      "say": "Let us lift the cloths. Look at both ice cubes. What do you see?",
      "kid": "Lift both cloths. Look at the ice. Which is smaller?",
-     "parent": "In strong sun, the ice under the black cloth is usually much smaller, or gone, with more water round it. The ice under the white cloth is still clearly there. If both are still large, cover them again and wait 10 more minutes. If both are already gone, try again next time with bigger cubes, or look at 8 minutes."
+     "parent": "In strong sun, the ice under the black cloth is usually much smaller, or gone, with more water round it. The ice under the white cloth is still clearly there. If both are still large, cover them again and wait 10 more minutes. If both are already gone, try again next time with bigger cubes, or lift the cloths after 8 minutes."
     },
     {
      "id": "s5",
@@ -762,14 +762,14 @@
      "do": "Count how many teaspoons of water you can scoop from each plate. Write the numbers in the table.",
      "say": "Let us count the water. Scoop it up with the teaspoon. How many spoons from each plate?",
      "kid": "Scoop the water with a spoon. Count the spoons on each plate.",
-     "parent": "The cloths soak up a little meltwater, so count only the water on the plate, and lift the cloth to let it drip first. Both cloths do this, so the test stays fair. Spoons will be few, so also compare how big the ice looks."
+     "parent": "The cloths soak up a little meltwater, so count only the water on the plate, and lift the cloth to let it drip first. Both cloths do this, so the test stays fair. There will be only a few spoons of water, so also compare how big each ice cube looks."
     },
     {
      "id": "s6",
      "mins": 3,
-     "do": "Look at the table together. Ask your child what they think, what they saw, and why. Then read the card Why a black cloth gets hotter in the sun.",
+     "do": "Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Why a black cloth gets hotter in the sun.",
      "say": "Was your guess right? Both cloths had the same sun. So why did the black one melt its ice faster?",
-     "kid": "Was your guess right? Same sun. Why did the black cloth melt more ice?",
+     "kid": "Was your guess right? Both cloths had the same sun. Why did the ice under the black cloth melt more?",
      "ask": [
       {
        "q": "Why did the ice melt faster under the black cloth?",
@@ -782,14 +782,14 @@
      "parent": "A strong answer uses the evidence: 'The black cloth felt hotter, and its plate had more spoons of water.' Then add the words: black absorbs, or takes in, most of the light, and white reflects, or sends back, most of it.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl of 7, is going to the beach in Chennai in May. Which shirt will keep her coolest in the sun?",
+      "q": "You are going to the beach in Chennai in May. Which shirt will keep you coolest in the sun?",
       "options": [
        "A loose white cotton shirt",
        "A tight black shirt",
        "A thick woollen sweater"
       ],
       "a": 0,
-      "why": "A white shirt reflects most of the sunlight, so it stays cooler, and loose cotton lets air move. If you chose the black shirt, remember which ice cube melted first in your test."
+      "why": "A white shirt reflects most of the sunlight, so it stays cooler, and loose cotton lets air move. If you chose the black shirt, remember that in the Black or White test the ice under the black cloth melted first."
      }
     }
    ]
@@ -895,7 +895,7 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Talk about what your child thinks, what they saw, and why.",
+     "do": "Ask your child what they saw, and why they think it happened.",
      "say": "The papad never touched the water. So how did it get soft?",
      "kid": "The papad never touched the water. How did it go soft?",
      "ask": [
@@ -910,14 +910,14 @@
      "parent": "This is why papads, biscuits and salt go soft or lumpy in the monsoon. Monsoon air is humid: it holds a lot of water you cannot see.",
      "check": {
       "t": "mcq",
-      "q": "Meena lives in Mumbai. In July her mother leaves an open packet of biscuits on the table. What will happen to the biscuits?",
+      "q": "In Mumbai in July, an open packet of biscuits is left on the table. What will happen to the biscuits?",
       "options": [
        "They will go soft",
        "They will get crisper",
        "Nothing will happen"
       ],
       "a": 0,
-      "why": "In the monsoon the air is humid, and biscuits soak up water from the air. If you chose 'nothing', remember the papad in the damp box."
+      "why": "In the monsoon the air is humid, and biscuits soak up water from the air. If you chose 'nothing', remember that the papad in the damp box went soft without touching the water."
      }
     }
    ]
@@ -989,7 +989,7 @@
      "kid": "Name three things that changed.",
      "check": {
       "t": "mcq",
-      "q": "In a photo, Farhan, a boy in Class 2, is wearing a raincoat and there are puddles on the road. Which season is it?",
+      "q": "In a photo, a boy is wearing a raincoat and there are puddles on the road. Which season is it?",
       "options": [
        "Monsoon",
        "Summer",
@@ -1411,7 +1411,7 @@
      "do": "Take out both halves and bend each one. Talk about what worked.",
      "say": "Does it snap? What kept the damp air out? What would you change?",
      "kid": "Bend both halves. Which one snaps? What worked?",
-     "parent": "A tight lid or a sealed bag usually works best, because the damp air cannot get in. The bare half shows what damp air does. If both halves still snap, the papad may be a slow one: wait 30 more minutes."
+     "parent": "A tight lid or a sealed bag usually works best, because the damp air cannot get in. The bare half shows what damp air does. If both halves still snap, your papad may take longer to go soft: wait 30 more minutes."
     }
    ],
    "safety": "A grown-up pours the hot water."
@@ -1507,7 +1507,7 @@
   },
   {
    "t": "mcq",
-   "p": "Shabnam, a woman in Chennai, asks when her city gets most of its rain. What is the answer?",
+   "p": "When does Chennai get most of its rain?",
    "opts": [
     "October to December",
     "March to May",
@@ -1629,7 +1629,7 @@
     },
     {
      "t": "write",
-     "p": "Two ice cubes sit in the sun, one under a black cloth and one under a white cloth. Say it, and a grown-up writes it down: which melts first, and why?",
+     "p": "Two ice cubes sit in the sun, one under a black cloth and one under a white cloth. Which ice cube melts first, and why? Say your answer, and a grown-up writes it down.",
      "lines": 2,
      "a": "The ice under the black cloth melts first. The black cloth takes in more sunlight and gets hotter.",
      "why": "A strong answer names the black cloth and gives the reason: black takes in more sunlight and gets hotter.",
@@ -1753,7 +1753,7 @@
     },
     {
      "t": "write",
-     "p": "Ammu, a girl of 7, lives in Kochi. Her cousin lives in Delhi. In early June, Ammu has rain and her cousin does not. Why?",
+     "p": "In early June, it is raining in Kochi but not in Delhi. Why?",
      "lines": 2,
      "a": "The monsoon rain reaches Kerala first and moves north slowly. It reaches Delhi weeks later.",
      "why": "A strong answer says the rain travels north and that Kochi is far to the south of Delhi."
@@ -1875,7 +1875,7 @@
     },
     {
      "t": "mcq",
-     "p": "Neha, a girl in Class 3, wants to test whether a red cloth melts ice faster than a white cloth. Which test is fair?",
+     "p": "You want to test whether a red cloth melts ice faster than a white cloth. Which test is fair?",
      "opts": [
       "Same size ice, same sun, same time, only the cloth colour changes",
       "Red cloth in the sun, white cloth in the shade",
@@ -1894,7 +1894,7 @@
     },
     {
      "t": "write",
-     "p": "A koel calls in summer and frogs croak in the monsoon. Choose one. What might they be noticing, to know the season has come?",
+     "p": "A koel calls in summer and frogs croak in the monsoon. Choose the koel or the frogs. What might tell them that their season has come?",
      "lines": 2,
      "a": "The frogs may be feeling the rain and the wet ground. The koel may be noticing the longer, hotter days.",
      "why": "A strong answer names something the animal could sense: rain, heat, or the length of the day."
@@ -2017,7 +2017,7 @@
    "art": "Rooftops crowded with families flying colourful kites against a clear winter sky."
   },
   {
-   "text": "On a hot afternoon, lightly touch the roof of a black car and a white car parked in the same sun with one quick finger. Which is hotter?",
+   "text": "On a hot afternoon, find a black car and a white car parked in the same sun. Touch each roof quickly and lightly with one finger. Which is hotter?",
    "art": "A black car and a white car parked side by side in bright sun, with wavy heat lines over the black one."
   },
   {
@@ -2093,7 +2093,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Black or White test, Nila, a girl in Class 2, scooped 6 spoons of water from the black plate and 2 spoons from the white plate. How many more spoons came from the black plate?",
+   "problem": "In one Black or White test, there were 6 spoons of water on the black plate and 2 spoons on the white plate. How many more spoons of water were on the black plate?",
    "answer": "4 more spoons.",
    "explain": "6 take away 2 is 4. So the black plate had 4 more spoons of water.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -2118,7 +2118,7 @@
    "why_maths": "Counting days on a calendar shows us how fast the rain moves north."
   },
   {
-   "problem": "Kavya, a girl in Class 2, kept a rain chart for one week in July. It rained on Monday, Tuesday, Thursday, Friday and Sunday. On how many days did it not rain?",
+   "problem": "A rain chart for one week in July shows rain on Monday, Tuesday, Thursday, Friday and Sunday. On how many days did it not rain?",
    "answer": "2 days.",
    "explain": "A week has 7 days. It rained on 5 of them. 7 take away 5 is 2. The dry days were Wednesday and Saturday.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2126,7 +2126,7 @@
    "why_maths": "A tally of rainy days shows how wet a week was, so we can compare it with a week in another season."
   },
   {
-   "problem": "On the Family Season Calendar, Meena, a girl in Class 2, coloured 3 months orange for summer, 4 blue for the monsoon and 3 green for winter. The other months were after the rains. How many months were after the rains?",
+   "problem": "On a Family Season Calendar, 3 months are coloured orange for summer, 4 blue for the monsoon and 3 green for winter. The other months come after the rains. How many months come after the rains?",
    "answer": "2 months.",
    "explain": "3 and 4 and 3 make 10. A year has 12 months. 12 take away 10 is 2.",
    "math_unit": "math.addition-subtraction.number-facts.L2",
@@ -2273,8 +2273,8 @@
  "roots": {
   "context": "We have sorted the year into seasons and watched ice melt under two cloths in the sun. Now we ask what the Black or White test tells us about sunlight, and about ourselves.",
   "deep_truth": {
-   "truth": "In the same sunshine, the ice under the black cloth melted first. The black cloth took in most of the light, and that light became heat. The white cloth sent most of the light away again. So summer sunshine warms each thing by how much of its light that thing takes in.",
-   "habit": "We think of summer heat as something in the air, the same for everything around us. But two cloths side by side in the same sun got very different temperatures. The heat came from the light each one took in.",
+   "truth": "In the same sunshine, the ice under the black cloth melted first. The black cloth took in most of the light, and that light became heat. The white cloth sent most of the light away again. So how hot a thing gets in the summer sun depends on how much of the light it takes in.",
+   "habit": "We think of summer heat as something in the air, the same for everything around us. But in the Black or White test, two cloths side by side in the same sun ended up at very different temperatures. The heat came from the light each one took in.",
    "evidence": "In the Black or White test, the black cloth felt hotter after 10 minutes, and its plate held more spoons of melted ice after 15 minutes. Both cloths had the same sun for the same time."
   },
   "three": {
@@ -2287,7 +2287,7 @@
    {
     "source": "Matthew 5:45, the Bible",
     "teaching": "Jesus said that God makes the sun rise on the good and on the bad, and sends rain on everyone alike.",
-    "link": "In your test, the same sun shone on both cloths equally. The difference was not in the sunlight but in how much of it each cloth took in."
+    "link": "In the Black or White test, the same sun shone on both cloths equally. The sunlight was the same. The difference was in how much of it each cloth took in."
    },
    {
     "source": "Dhammapada, verse 277",
@@ -2297,7 +2297,7 @@
    {
     "source": "Ritusamhara, canto 1, by Kalidasa",
     "teaching": "Kalidasa's old Sanskrit poem has one part for each season. In the summer part, people and other animals look for shade and cool water.",
-    "link": "People in India have long known that summer sun is something to shelter from. In your test, the white cloth kept more of its ice."
+    "link": "People in India have long known that summer sun is something to shelter from. In the Black or White test, more ice was left under the white cloth than under the black one."
    }
   ],
   "science": [
@@ -2328,7 +2328,7 @@
   "art": "A child sitting quietly by a sunny window with eyes closed, one hand under a black cloth and one under a white cloth, in a beam of sunlight."
  },
  "how_we_found_out": {
-  "story": "People in hot places have worn white and pale clothes for a very long time. Benjamin Franklin, an American printer and scientist, tested why. In the early 1760s he wrote about it in a letter to Mary Stevenson, a young woman in London who studied science with him by letter. He had laid small squares of cloth of many colours on snow on a sunny morning. A few hours later, the black square had sunk deepest into the snow, because it had melted the most. The white square stayed on top. Franklin said people in hot, sunny places should wear white. Many people took from this that black clothes always make you hotter. In 1980, the scientists Amiram Shkolnik, Virginia Finch and their team tested people of the Bedouin desert tribes, who wear loose black robes. The black robe did get hotter on the outside. But the person inside gained about the same heat as in a white robe. Air moving under the loose robe carried the extra heat away. So colour matters, and so does how clothes fit and how the air moves.",
+  "story": "People in hot places have worn white and pale clothes for a very long time. Benjamin Franklin, an American printer and scientist, tested why. In the early 1760s he wrote about it in a letter to Mary Stevenson, a young woman in London who studied science with him by letter. He had laid small squares of cloth of many colours on snow on a sunny morning. A few hours later, the black square had sunk deepest into the snow, because it had melted the most. The white square stayed on top. Franklin said people in hot, sunny places should wear white. After this, many people believed that black clothes always make you hotter. In 1980, the scientists Amiram Shkolnik, Virginia Finch and their team tested people of the Bedouin desert tribes, who wear loose black robes. The black robe did get hotter on the outside. But the person inside gained about the same heat as in a white robe. Air moving under the loose robe carried the extra heat away. So colour matters, and so does how clothes fit and how the air moves.",
   "who": "Benjamin Franklin, who wrote to Mary Stevenson, and later Amiram Shkolnik, Virginia Finch and their team",
   "when": "The early 1760s, and 1980",
   "wrong_idea": "That black clothes always make the wearer hotter in the sun. A black cloth does take in more sunlight, but the 1980 desert study showed that a loose black robe let moving air carry the extra heat away, so the person inside was no hotter.",

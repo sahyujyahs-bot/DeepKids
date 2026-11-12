@@ -88,7 +88,7 @@
    "context": "This card explains the difference between a torch cell and the wall socket.",
    "status": "defined",
    "definition": "The push that drives electricity is measured in volts. A torch cell gives about 1.5 volts. Mains electricity in India is about 230 volts.",
-   "description": "A torch cell pushes electricity very gently. You can touch both ends of a torch cell and feel nothing. The wall pushes about 150 times harder. That is strong enough to drive electricity through a person. So sockets, plugs and mains wires are for grown-ups only.",
+   "description": "A torch cell pushes electricity very gently. You can touch both ends of a torch cell and feel nothing. The wall socket pushes about 150 times harder. That is strong enough to drive electricity through a person. So sockets, plugs and mains wires are for grown-ups only.",
    "examples": [
     "A TV remote runs on two small cells. You can change them yourself.",
     "The iron, the geyser and the washing machine run on mains electricity. Only a grown-up plugs them in.",
@@ -116,7 +116,7 @@
    "context": "This card explains why we keep water away from switches, sockets and chargers.",
    "status": "defined",
    "definition": "Water from a tap, rain or sweat always has some salt and other things mixed into it, so it carries electricity.",
-   "description": "Dry skin does not let electricity in easily. Wet skin lets it in much more easily. So a wet hand on a switch is far more dangerous than a dry one. In the Dry Hands Test, a towel is the way to get hands really dry. Spilled water can also run into a socket or charger and carry electricity out to you.",
+   "description": "Dry skin does not let electricity in easily. Wet skin lets it in much more easily. So a wet hand on a switch is far more dangerous than a dry one. The Dry Hands Test shows that a towel is the way to get hands really dry. Spilled water can also run into a socket or charger and carry electricity out to you.",
    "examples": [
     "Never touch a switch straight after a bath or after playing in the rain.",
     "Never use a phone while it is charging in the bathroom.",
@@ -130,7 +130,7 @@
    "context": "This card explains how a crow can sit on an electric wire and stay safe.",
    "status": "defined",
    "definition": "Electricity flows through something only when it has a path to somewhere else, such as the ground or another wire.",
-   "description": "A crow on a wire touches only that one wire. The electricity has nowhere else to go through the crow, so it stays in the wire. A person on a ladder who touches the wire is also touching the ground. Then the electricity has a path through the person. A big bird whose wings touch two wires at once can be killed.",
+   "description": "A crow on a wire touches only that one wire. The electricity has no path through the crow to anywhere else, so it stays in the wire. A person on a ladder who touches the wire is also touching the ground. Then the electricity has a path through the person. A big bird whose wings touch two wires at once can be killed.",
    "examples": [
     "Crows, pigeons and mynas sit on wires all over Indian cities.",
     "Never pull down a kite caught on a wire.",
@@ -254,7 +254,7 @@
    "'Only when the electricity is switched off,' said Amma. 'We check it twice. And we wear thick rubber gloves, because rubber is an insulator. Electricity does not pass through it easily.'",
    "Tara looked out of the window. A row of crows sat on the wet wire outside, fluffing their feathers.",
    "'Then why don't the crows get a shock?' she asked.",
-   "'Each crow touches only one wire,' said Amma. 'The electricity has nowhere else to go through them, so it stays in the wire. If I stood on a ladder and touched that wire, the electricity could go through me, down the ladder, to the ground. That is the danger.'",
+   "'Each crow touches only one wire,' said Amma. 'So the electricity has no path through them, and it stays in the wire. If I stood on a ladder and touched that wire, the electricity could go through me, down the ladder, to the ground. That is the danger.'",
    "Ammamma brought in hot tea and banana fritters. 'Tell her about Lalitha,' she said.",
    "'A. Lalitha grew up in Chennai, about a hundred years ago,' said Amma. 'Her husband died when she was only eighteen, and she had a baby daughter. People told her to stay at home. Instead, she studied electrical engineering at the college in Guindy. In the 1940s she became one of the first women engineers in India. Later she worked on the electrical equipment for the great Bhakra Nangal dam.'",
    "'Like you,' said Tara.",
@@ -450,7 +450,7 @@
        "q": "What did you find?",
        "good": [
         "Shaking still left wet prints.",
-        "My hand felt dry after my clothes, but some fingers were wet.",
+        "My hand felt dry after I wiped it on my clothes, but some fingers were wet.",
         "Only the towel left no prints."
        ]
       },
@@ -472,7 +472,7 @@
        "Shake it once more"
       ],
       "a": 1,
-      "why": "In the test, a hand can feel dry but still leave wet prints. A towel dries it properly. Wet skin lets electricity in much more easily."
+      "why": "In the Dry Hands Test, a hand can feel dry but still leave wet prints. A towel dries it properly. Wet skin lets electricity in much more easily."
      }
     }
    ]
@@ -481,10 +481,10 @@
    "id": "e2",
    "title": "The Spill Test: how far does one tumbler of water run?",
    "mins": 17,
-   "context": "In this experiment your child knocks over half a tumbler of water on the floor and on a towel, and measures how far it runs. A paper drawing of an extension board sits nearby. Did the spill reach it? This shows why drinks must stay far from sockets and chargers.",
+   "context": "In this experiment your child knocks over half a tumbler of water on the floor and on a towel, and measures how far it runs. A paper drawing of an extension board sits nearby, to see whether the spill reaches it. This shows why drinks must stay far from sockets and chargers.",
    "question": "If a half-full tumbler of water falls over, how far will the water run?",
    "predict": "How many hand spans will the water run on the smooth floor? Will it reach the paper board two hand spans away? Why do you think so?",
-   "fair_test": "We use the same tumbler and the same amount of water each time. We tip it over the same way, from standing, as if knocked by an elbow. Only the place changes: the smooth floor or a folded towel.",
+   "fair_test": "We use the same tumbler and the same amount of water each time. We knock it over the same way each time, with an elbow, while it is standing upright. Only the place changes: the smooth floor or a folded towel.",
    "results_table": [
     "Where we spilled it",
     "My guess (hand spans)",
@@ -589,7 +589,7 @@
      "do": "1. Stand the tumbler up, with the paper board two hand spans in front of it. 2. Your child kneels and knocks it over towards the board with an elbow. 3. Wait until the water stops moving. 4. Measure the longest run in hand spans. 5. Did it touch the paper board?",
      "say": "Knock it with your elbow, like an accident at the table. Now let's wait until it stops. How many hand spans did it go?",
      "kid": "Knock the tumbler over with your elbow. Wait. Measure with your hand.",
-     "parent": "Water on a smooth floor usually spreads much further than children expect, and splashes go further still. Then wipe the floor dry straight away."
+     "parent": "Water on a smooth floor usually spreads much further than children expect, and splashes go further still. Wipe the floor dry straight after measuring."
     },
     {
      "id": "s4",
@@ -675,7 +675,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Ask for your child's idea first. Then explain.",
-     "say": "Why do you think the birds are safe? Each bird touches only one wire. The electricity has nowhere else to go through them. A person on a ladder touches the ground too. Then the electricity can go through them.",
+     "say": "Why do you think the birds are safe? Each bird touches only one wire. So the electricity has no path through the bird. A person on a ladder touches the ground too. Then the electricity can go through them.",
      "kid": "Why are the birds safe? Why would a person not be safe?",
      "ask": [
       {
@@ -730,11 +730,11 @@
      "mins": 4,
      "adult": true,
      "do": "1. Unplug a mixer or table fan. 2. Show the plug and wire. 3. Point to the plastic body, the metal pins and the plastic cover on the wire.",
-     "say": "The metal pins carry the electricity. The plastic body is for holding. The plastic cover on the wire keeps the electricity inside. Why do you think the holder is plastic, not metal?",
+     "say": "The metal pins carry the electricity. The plastic body is for holding. The plastic cover on the wire keeps the electricity inside. Why do you think the part you hold is plastic, not metal?",
      "kid": "Look at the plug. Which part is metal? Which part is plastic?",
      "ask": [
       {
-       "q": "Why is the holder plastic?",
+       "q": "Why is the part you hold plastic?",
        "good": [
         "Electricity does not go through plastic easily.",
         "So it does not go into your hand."
@@ -800,7 +800,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Lay the dupatta on the floor as a pretend wire. Read the first card: 'You see a wire lying on the road after a storm.'",
+     "do": "Lay a dupatta on the floor as a pretend wire. Read the first card: 'You see a wire lying on the road after a storm.'",
      "say": "Here is a fallen wire after a storm. What would you do? Show me.",
      "kid": "A wire is lying on the road. What do you do? Show it.",
      "ask": [
@@ -927,7 +927,7 @@
     }
    ],
    "rules": [
-    "Cut out the 25 squares. Lay them in 5 rows of 5, with square 1 at the bottom left. Number the rows from the bottom, and go left to right in every row.",
+    "Cut out the 25 squares. Lay them in 5 rows of 5, with square 1 at the bottom left. Lay every row from left to right, and put each new row above the one before.",
     "Each player needs a button or a coin as a counter. You also need one dice, or six paper slips marked 1 to 6 to pick from.",
     "Everyone starts on square 1. Take turns to roll the dice and move your counter.",
     "If you land on a ladder square, read the square aloud. Say why it is safe. Then climb to the square the ladder leads to.",
@@ -950,7 +950,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Cut out the 25 squares and lay them in 5 rows of 5. Draw a line from each ladder or snake square to the square where the line ends.",
+     "do": "Cut out the 25 squares and lay them in 5 rows of 5. Draw a line from each ladder square and each snake square to the square it leads to.",
      "say": "Let us build the board. The ladders are safe things to do. The snakes are dangerous things.",
      "kid": "Lay out the squares. Ladders are safe. Snakes are dangerous."
     },
@@ -985,7 +985,7 @@
      "kid": "Which snake is the most dangerous in real life? Why?",
      "check": {
       "t": "mcq",
-      "q": "In the game, you pulled a friend away from a machine giving a shock. Why is that a snake?",
+      "q": "In the Safe Steps game, one snake square says you pull a friend away from a machine that is giving a shock. Why is that a snake?",
       "options": [
        "The electricity can flow into you too",
        "Your friend will be cross",
@@ -1056,7 +1056,7 @@
     "The caller reads a card aloud.",
     "If it is dangerous, everyone freezes and shouts the safe thing to do.",
     "If it is safe, everyone keeps moving.",
-    "Anyone who freezes on a safe card, or keeps moving on a danger card, says the reason. Then they carry on.",
+    "Anyone who freezes on a safe card, or keeps moving on a danger card, says why the card is safe or dangerous. Then they carry on.",
     "When all 10 cards have been read, the game is over. Shuffle the cards and play again if you like."
    ],
    "setup": [
@@ -1187,11 +1187,11 @@
    "id": "c1",
    "title": "The Safe Homework Corner",
    "mins": 20,
-   "context": "This is a planning challenge. Meenakshi, a girl in Class 2, is setting up a homework corner. She has a table, a lamp with a plug, a phone charger, a water bottle and a cup of paint water. Where should everything go, so nothing wet can reach the plugs?",
+   "context": "This is a planning challenge. A homework corner has a table, a lamp with a plug, a phone charger, a water bottle and a cup of paint water. Where should everything go, so nothing wet can reach the plugs?",
    "problem": "Draw a plan of a homework corner where the lamp and the charger are safe from spills.",
    "constraints": [
     "There is only one extension board, and at the start it sits on the floor under the table.",
-    "Meenakshi needs her water bottle and her paint water while she works.",
+    "The water bottle and the paint water must stay within reach while the child works.",
     "The lamp's wire must not stretch across where people walk."
    ],
    "materials": [
@@ -1224,8 +1224,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Read the problem aloud. Draw the table from above.",
-     "say": "Meenakshi has a lamp, a charger, a water bottle and paint water. What could go wrong?",
-     "kid": "What could go wrong at Meenakshi's table?",
+     "say": "This homework corner has a lamp, a charger, a water bottle and paint water. What could go wrong?",
+     "kid": "What could go wrong at this homework table?",
      "ask": [
       {
        "q": "What could go wrong?",
@@ -1295,14 +1295,14 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy in Class 2, drops a hairpin near a socket. What should he do?",
+   "p": "You drop a hairpin near a socket. What should you do?",
    "opts": [
     "Push the hairpin into the socket to keep it safe",
     "Pick it up and never poke it into the socket",
     "Blow into the socket"
    ],
    "a": 1,
-   "why": "Never poke anything into a socket. A metal hairpin is a conductor, and it would carry the electricity into his hand.",
+   "why": "Never poke anything into a socket. A metal hairpin is a conductor, and it would carry the electricity into your hand.",
    "outcome": 1
   },
   {
@@ -1331,21 +1331,21 @@
   },
   {
    "t": "mcq",
-   "p": "Your friend Lakshmi is touching a machine and cannot let go. What should you do first?",
+   "p": "Your friend is touching a machine and cannot let go. What should you do first?",
    "opts": [
-    "Pull her away by the arm",
+    "Pull your friend away by the arm",
     "Shout for a grown-up to switch off the electricity",
     "Throw water on the machine"
    ],
    "a": 1,
-   "why": "If you touch her, the electricity can flow into you too. Water carries electricity. A grown-up must switch off the electricity first.",
+   "why": "If you touch your friend, the electricity can flow into you too. Throwing water is dangerous as well, because water carries electricity. A grown-up must switch off the electricity first.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "After a storm, Divya, a girl in Class 2, sees a wire lying in a puddle on the road. What should she do?",
+   "p": "After a storm, you see a wire lying in a puddle on the road. What should you do?",
    "opts": [
-    "Move it out of the way with her foot",
+    "Move it out of the way with your foot",
     "Stay far away and tell a grown-up",
     "Step over it quickly"
    ],
@@ -1367,7 +1367,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali, a girl in Class 2, has a kite stuck on an electric wire. What is the safe thing to do?",
+   "p": "Your kite is stuck on an electric wire. What is the safe thing to do?",
    "opts": [
     "Pull the string hard",
     "Climb up and get it",
@@ -1398,7 +1398,7 @@
     "Unplug every machine with wet hands"
    ],
    "a": 0,
-   "why": "The main switch turns off electricity to the whole home. A grown-up turns it off if they can reach it safely and dry. Then the water in the flat cannot carry mains electricity.",
+   "why": "The main switch turns off electricity to the whole home. A grown-up turns it off if they can reach it without standing in water. Then the water in the flat cannot carry mains electricity.",
    "outcome": 5
   }
  ],
@@ -1489,14 +1489,14 @@
     },
     {
      "t": "mcq",
-     "p": "Pooja, a girl in Class 2, says: \"I wear rubber chappals, so I can touch a broken wire.\" Is she right?",
+     "p": "Someone says: \"I wear rubber chappals, so I can touch a broken wire.\" Are they right?",
      "opts": [
       "Yes, rubber always stops electricity",
-      "No, chappals can be wet or thin, and she could touch something else too",
+      "No, chappals can be wet or thin, and the person could touch something else too",
       "Yes, but only on Sundays"
      ],
      "a": 1,
-     "why": "A dry, thick rubber sole helps, but chappals get wet and worn. Another part of her could touch a wet wall or a steel tap. Nobody should touch a broken wire."
+     "why": "A dry, thick rubber sole helps, but chappals get wet and worn. Another part of the body could touch a wet wall or a steel tap. Nobody should touch a broken wire."
     },
     {
      "t": "fill",
@@ -1642,7 +1642,7 @@
     },
     {
      "t": "write",
-     "p": "Kiran, a boy aged five, says: \"I can hold a torch cell, so the wall socket is safe too.\" Say what you would tell him, and a grown-up writes it.",
+     "p": "A younger child says: \"I can hold a torch cell, so the wall socket is safe too.\" Say what you would tell them, and a grown-up writes it.",
      "lines": 3,
      "a": "For example: 'A torch cell is weak. The wall is about 150 times stronger. It can go through your body and hurt you.'",
      "why": "A strong answer says that both give electricity, but the wall is far stronger, strong enough to pass through a person."
@@ -1878,7 +1878,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Dry Hands Test, Revathi, a girl in Class 2, got 5 wet fingerprints with no drying, 5 after shaking, 2 after wiping on her clothes, and 0 after the towel. How many fewer wet fingerprints did the towel leave than shaking?",
+   "problem": "Suppose the Dry Hands Test gave 5 wet fingerprints with no drying, 5 after shaking, 2 after wiping on clothes, and 0 after the towel. How many fewer wet fingerprints did the towel leave than shaking?",
    "answer": "5 fewer. Shaking left 5 and the towel left 0.",
    "explain": "5 take away 0 is 5. So the towel left 5 fewer wet fingerprints than shaking.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1896,7 +1896,7 @@
    "why_maths": "Comparing two numbers tells us whether a spill could reach a plug."
   },
   {
-   "problem": "Ranjana, a girl in Class 2, counted the birds on the wire outside: 4 crows, 3 pigeons and 1 myna. How many birds were there? How many wires did each bird touch?",
+   "problem": "On the wire outside sat 4 crows, 3 pigeons and 1 myna. Every bird had both feet on the same wire. How many birds were there? How many wires did each bird touch?",
    "answer": "8 birds. Each one touched just 1 wire.",
    "explain": "4 and 3 make 7, and 1 more makes 8. Every bird had both feet on the same wire, which is why they were safe.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1905,7 +1905,7 @@
    "why_maths": "Tally marks and adding help us count a group of birds that keep moving."
   },
   {
-   "problem": "Gauri, a girl in Class 2, found these things at home: a TV remote, a fan, a wall clock, a fridge, a torch and an iron. Sort them into 'runs on cells' and 'runs on the wall'. Which group is bigger?",
+   "problem": "Here are six things in a home: a TV remote, a fan, a wall clock, a fridge, a torch and an iron. Sort them into 'runs on cells' and 'runs on the wall'. Which group is bigger?",
    "answer": "Cells: TV remote, wall clock, torch. Wall: fan, fridge, iron. Both groups have 3, so they are the same size.",
    "explain": "Count each group. 3 and 3 are equal. The cell things are safe to hold. The wall things are plugged in by grown-ups.",
    "math_unit": "math.logic.sets-and-venn.L2",
@@ -2076,7 +2076,7 @@
   "ask": [
    "If your nerves use electricity, is the electricity in you the same as the electricity in the wall?",
    "Your skin sometimes feels dry when it is still wet. What else might your senses miss?",
-   "A crow is safe on the wire and you would not be. What does that tell you about how a body meets the world?"
+   "A crow is safe on the wire and you would not be. What is different about what the crow touches and what you would touch?"
   ],
   "art": "A child's hand in front of a switch board, with a faint glowing line running up the arm towards the head, and a monsoon lightning flash in the window behind."
  },
@@ -2099,5 +2099,5 @@
   ]
  },
  "playtest": "Walked through every experiment, game and activity as a parent and child in a flat, with the listed things. Wrote out the snakes and ladders board as all 25 squares, with two or more players and a grown-up playing, and checked that every ladder and snake lands on a plain square and the game ends at 25. Made the clothes-wipe and towel in the Dry Hands Test the same length of time so the test is fair, fixed the Spill Test minutes, and removed worksheet questions that repeated the quiz. Gave every made-up child an introduction, removed assumed family members, and kept 8 jokes.",
- "warm": {"words": ["WATER", "WIRES", "SHOCK", "METAL", "CELLS"], "quiz": [["The electricity in a wall socket is much stronger than the electricity in a torch cell.", true, "The wall pushes electricity about 150 times harder than a cell, so it can hurt or kill."], ["A small shock from a socket is harmless, so it is fine to touch.", false, "The same socket can give a deadly shock if your hand is wet, and nobody can tell beforehand."], ["Wet hands let electricity into the body more easily than dry hands.", true, "Wet skin carries electricity much better than dry skin, so a wet hand makes a shock far worse."], ["Tap water cannot carry electricity because it looks clean.", false, "Tap water, rain and sweat have salts mixed in, and the salts let electricity flow through."], ["A crow sits safely on one wire because the electricity has no other path to go.", true, "Electricity flows only when it has a path to somewhere else, like the ground or another wire."], ["If someone is getting a shock, you should pull them away quickly with your hands.", false, "Touching them lets the electricity flow into you too, so switch off the power first."], ["Rubber chappals make it safe to touch a bare wire.", false, "Chappals can be wet, worn or thin, and your hand may touch another path like a steel tap."], ["Plastic and dry wood do not let electricity pass through easily.", true, "They are insulators, which block electricity, unlike metals and salty water that let it through."], ["If your hand feels dry, it is safe to touch a plug.", false, "Skin can feel dry and still hold water, so feeling is not a good test."], ["Your body can carry electricity because it is mostly water with salt in it.", true, "Salty water carries electricity, so a body can carry it too, which is why shocks are dangerous."]], "odd": [[["Copper wire", "Steel tap", "Iron nail", "Rubber glove"], "Rubber glove", "Copper, steel and iron let electricity pass through, but rubber is an insulator that blocks it."], [["Torch cell", "Clock cell", "Remote cell", "Wall socket"], "Wall socket", "The three cells are weak and safe to touch, but a wall socket gives strong mains electricity that can kill."], [["Switch off the main switch", "Call a grown-up", "Stay back and shout", "Pull them away by hand"], "Pull them away by hand", "The other three keep you from touching the person, but touching lets the electricity flow into you too."], [["Wet floor", "Wet hands", "Sweaty feet", "Dry rubber mat"], "Dry rubber mat", "Wet floors, wet hands and sweat carry electricity into the body, but a dry rubber mat does not."], [["Crow on one wire", "Bat hanging on one wire", "Squirrel on one wire", "Person touching wire and tap"], "Person touching wire and tap", "The animals touch only one wire, so electricity has no path to go, but the person's body gives it a path."]]}
+ "warm": {"words": ["WATER", "WIRES", "SHOCK", "METAL", "CELLS"], "quiz": [["The electricity in a wall socket is much stronger than the electricity in a torch cell.", true, "The wall pushes electricity about 150 times harder than a cell, so it can hurt or kill."], ["A small shock from a socket is harmless, so it is fine to touch.", false, "The same socket can give a deadly shock if your hand is wet, and nobody can tell beforehand."], ["Wet hands let electricity into the body more easily than dry hands.", true, "Wet skin carries electricity much better than dry skin, so a wet hand makes a shock far worse."], ["Tap water cannot carry electricity because it looks clean.", false, "Tap water, rain and sweat have salts mixed in, and the salts let electricity flow through."], ["A crow sits safely on one wire because the electricity has no path through the crow.", true, "Electricity flows only when it has a path to somewhere else, like the ground or another wire."], ["If someone is getting a shock, you should pull them away quickly with your hands.", false, "Touching them lets the electricity flow into you too, so switch off the power first."], ["Rubber chappals make it safe to touch a bare wire.", false, "Chappals can be wet, worn or thin, and your hand may touch another path like a steel tap."], ["Plastic and dry wood do not let electricity pass through easily.", true, "They are insulators, which block electricity, unlike metals and salty water that let it through."], ["If your hand feels dry, it is safe to touch a plug.", false, "Skin can feel dry and still hold water, so feeling is not a good test."], ["Your body can carry electricity because it is mostly water with salt in it.", true, "Salty water carries electricity, so a body can carry it too, which is why shocks are dangerous."]], "odd": [[["Copper wire", "Steel tap", "Iron nail", "Rubber glove"], "Rubber glove", "Copper, steel and iron let electricity pass through, but rubber is an insulator that blocks it."], [["Torch cell", "Clock cell", "Remote cell", "Wall socket"], "Wall socket", "The three cells are weak and safe to touch, but a wall socket gives strong mains electricity that can kill."], [["Switch off the main switch", "Call a grown-up", "Stay back and shout", "Pull them away by hand"], "Pull them away by hand", "The other three keep you from touching the person, but touching lets the electricity flow into you too."], [["Wet floor", "Wet hands", "Sweaty feet", "Dry rubber mat"], "Dry rubber mat", "Wet floors, wet hands and sweat carry electricity into the body, but a dry rubber mat does not."], [["Crow on one wire", "Bat hanging on one wire", "Squirrel on one wire", "Person touching wire and tap"], "Person touching wire and tap", "The animals touch only one wire, so the electricity has no path through them, but the person's body gives it a path."]]}
 }

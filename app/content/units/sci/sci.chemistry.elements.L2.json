@@ -75,7 +75,7 @@
    "concept": "Everything is made of atoms",
    "status": "defined",
    "definition": "An atom is the smallest piece of an element. Everything around us is made of atoms.",
-   "description": "Imagine cutting a thin sheet of gold in half, and in half again, again and again. The pieces get smaller and smaller. The smallest piece that is still gold is one gold atom. Atoms are far too small to see, but your table, the air and you are all made of them.",
+   "description": "If you cut a thin sheet of gold in half, and kept cutting each piece in half, the pieces would get smaller and smaller. The smallest piece that is still gold is one gold atom. Atoms are far too small to see, but your table, the air and you are all made of them.",
    "examples": [
     "A drop of water is made of a huge number of atoms.",
     "The air you breathe is atoms flying about, far apart from each other.",
@@ -153,7 +153,7 @@
    "perspectives": [
     {
      "who": "Many scientists who study the crash seen in 2017",
-     "explanation": "When two very heavy dead stars, called neutron stars, crash together, they make lots of gold. They think most gold came this way."
+     "explanation": "When two very heavy dead stars, called neutron stars, crash together, they make lots of gold. These scientists think most gold was made this way."
     },
     {
      "who": "Other scientists",
@@ -206,7 +206,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your silver anklet was black, then shiny again. Was it the same anklet all the time?",
+   "q": "In the Foil Bowl experiment, a black silver anklet turned shiny again. Was it the same anklet all the time?",
    "kind": "deep",
    "hint": "Think about where the silver atoms were when the anklet was black."
   },
@@ -275,7 +275,7 @@
   "story": "In the 1500s, people in Borrowdale, in the north of England, dug up a soft, shiny black rock. It left dark marks on anything it touched, so shepherds used it to mark their sheep, and soon it was cut into sticks for writing. It looked a little like the metal lead, so people called it black lead. That is why we still say pencil lead today. For about two hundred years, nobody knew what it really was. Then, in 1779, Carl Wilhelm Scheele, a chemist who ran a small chemist's shop in Sweden, tested it with strong chemicals. The gas that came off was the same gas that comes off when charcoal burns. Charcoal is mostly carbon, so the black rock was carbon, not lead. In 1789 a German scientist, Abraham Werner, named it graphite, from a Greek word that means to write. In the 1790s, Smithson Tennant in England burned a diamond and found that it was pure carbon too.",
   "who": "Carl Wilhelm Scheele, a Swedish chemist and shopkeeper, showed graphite is carbon. Abraham Werner named it. Smithson Tennant showed diamond is carbon.",
   "when": "Graphite was found in the 1500s. Scheele tested it in 1779. Werner named it graphite in 1789. Tennant burned a diamond in the 1790s.",
-  "wrong_idea": "That the black in a pencil is a kind of lead. Scheele tested it and got the same gas as from burning charcoal, so it had to be carbon."
+  "wrong_idea": "People thought the black in a pencil was a kind of lead. Scheele tested it and got the same gas as from burning charcoal, so it had to be carbon."
  },
  "experiments": [
   {
@@ -332,10 +332,10 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Look at the dark silver and guess, then try the bowl with no foil and the bowl with foil, five minutes each, and compare."
+     "what": "Look at the dark silver and guess what will happen. Then put it in the bowl with no foil for five minutes, and in the bowl with foil for five minutes, and compare."
     }
    ],
-   "record": "Draw the silver before, after the no-foil bowl and after the foil bowl. Colour each drawing the colour you saw.",
+   "record": "Draw the silver three times: before the test, after the bowl with no foil, and after the bowl with foil. Colour each drawing the colour you saw.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results, with a dark silver toe ring",
@@ -402,7 +402,7 @@
      "mins": 3,
      "do": "1. Show both bowls, one lined with foil. 2. Ask for a guess and a reason. 3. Write the guesses in the table.",
      "say": "Both bowls will get hot water with soda. One has foil in it. In which bowl will the dark go away? Why do you think so?",
-     "kid": "Both bowls get hot soda water. One has foil. Where will the dark go? Why?",
+     "kid": "Both bowls get hot soda water. One has foil. In which bowl will the dark go away? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -436,8 +436,8 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. A grown-up pours 1 cup of hot water into the foil bowl. 2. The silver moves on to the foil, so it touches the foil. 3. Start another 5-minute timer. 4. Watch, and smell gently from a little way back.",
-     "say": "Now it is lying on the foil. Watch the dark parts. Do you notice a smell?",
+     "do": "1. A grown-up pours 1 cup of hot water into the foil bowl. 2. A grown-up moves the silver into this bowl with a spoon, so that it lies on the foil. 3. Start another 5-minute timer. 4. Watch, and smell gently from a little way back.",
+     "say": "Now the silver is lying on the foil. Watch the dark parts. Do you notice a smell?",
      "kid": "Now the silver is on the foil. Watch it. Can you smell anything?",
      "adult": true,
      "parent": "The dark usually fades within a few minutes, starting where the silver touches the foil. A faint smell of boiled eggs is normal. If the silver is very dark, turn it over halfway, or leave it a few more minutes."
@@ -447,7 +447,7 @@
      "mins": 5,
      "do": "1. A grown-up lifts the silver out and rinses it under the tap. 2. Dry it with a cloth. 3. Your child says what they think, what they saw and why.",
      "say": "What happened? Which bowl took the dark away? Why do you think the foil mattered?",
-     "kid": "Which bowl made it shine? What did you see? Why?",
+     "kid": "Which bowl made the silver shine? What did you see? Why do you think that happened?",
      "ask": [
       {
        "q": "The soda water was the same in both bowls. So what made the difference?",
@@ -476,7 +476,7 @@
       "a": 1,
       "why": "The dark layer is silver joined with sulfur. Aluminium holds on to sulfur more strongly than silver does. So on the foil, the sulfur moves from the silver to the aluminium. The silver is left shiny. Without foil, the sulfur has nowhere to go."
      },
-     "parent": "This is the heart of the unit. Tell your child now: the dark layer was silver joined with sulfur. The foil, which is aluminium, took the sulfur. The same silver atoms stayed on the anklet. Scrubbing rubs a little silver off with the black. This way keeps all the silver."
+     "parent": "This is the main idea of the unit. Tell your child now: the dark layer was silver joined with sulfur. The foil, which is aluminium, took the sulfur. The same silver atoms stayed on the anklet. Scrubbing rubs a little silver off with the black. The foil bowl keeps all the silver."
     }
    ]
   },
@@ -488,7 +488,7 @@
    "context": "In this experiment you rub one half of a dull brass or copper thing with tamarind and the other half with plain water. You see which half shines.",
    "question": "A brass lamp or copper vessel has gone dull and brown. Will rubbing with tamarind pulp or with plain water bring back the shine?",
    "predict": "Which half will shine more: the tamarind half, the water half, or will they be the same? Why do you think so?",
-   "fair_test": "We use one dull brass or copper thing, so both halves are the same metal. We rub both halves 20 times with the same cloth and the same push. Only one thing changes: tamarind or plain water.",
+   "fair_test": "We use one dull brass or copper thing, so both halves are the same metal. We rub both halves 20 times with the same cloth, pushing just as hard each time. Only one thing changes: tamarind or plain water.",
    "results_table": [
     "Half",
     "My guess",
@@ -560,9 +560,9 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Squeeze the soaked tamarind into a soft pulp. 2. Your child rubs one half 20 times with tamarind on a cloth. 3. They rub the other half 20 times with a cloth dipped in water.",
-     "say": "Count your rubs out loud. Twenty on each half. Push the same each time.",
+     "say": "Count your rubs out loud. Twenty on each half. Push just as hard each time.",
      "kid": "Rub the tamarind half 20 times. Rub the water half 20 times. Count out loud.",
-     "parent": "Wash hands after. If there is a cut on the hand, tamarind may sting."
+     "parent": "Wash hands afterwards. If there is a cut on the hand, tamarind may sting."
     },
     {
      "id": "s3",
@@ -575,8 +575,8 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask your child to say what they think, what they saw and why. Then compare it with the silver test.",
-     "say": "Why did tamarind work but not water? In the foil bowl test, the silver came back. Here, where did the dull layer go?",
+     "do": "Ask your child to say what they think, what they saw and why. Then compare it with the Foil Bowl experiment.",
+     "say": "Why did tamarind work but not water? In the Foil Bowl experiment, the silver stayed and only the sulfur left. Here, where did the dull layer go?",
      "kid": "Why did tamarind work? Where did the dull layer go?",
      "ask": [
       {
@@ -599,7 +599,7 @@
       "a": 1,
       "why": "The dull layer is copper joined with oxygen and other things from the air. The sour acid in tamarind dissolves that layer, and it washes away. The bright metal underneath shows again. Plain water does not dissolve it."
      },
-     "parent": "Here the dull layer is washed away into the tamarind water, so a very thin bit of metal goes with it. In the foil bowl, the silver stayed on the anklet. Two different ways to get a shine back."
+     "parent": "Here the dull layer is washed away into the tamarind water, so a very thin bit of metal goes with it. In the foil bowl, the silver stayed on the anklet. These are two different ways to get a shine back."
     }
    ]
   }
@@ -670,7 +670,7 @@
        "q": "Where does a pencil go?",
        "good": [
         "Two or more: the core has carbon and clay, and the outside is wood.",
-        "Two or more columns, because it is made of different things."
+        "Two or more, because it is made of different things."
        ]
       }
      ]
@@ -687,7 +687,7 @@
       "options": [
        "Most things are elements joined together",
        "Elements are so rare that nobody has any",
-       "The child sorted them wrongly"
+       "The things were sorted wrongly"
       ],
       "a": 0,
       "why": "Elements usually join with other elements. Water, salt, sugar, steel and wood are all elements joined together."
@@ -830,7 +830,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Tell the short story of the name, then ask the question below.",
+     "do": "Tell your child how pencil lead got its name: people long ago thought the black stuff was the metal lead. Then ask the question below.",
      "say": "People once called this black stuff lead. A chemist tested it and found it was carbon. So why do we still say pencil lead?",
      "kid": "It is not lead. It is carbon. Why do we still call it lead?",
      "ask": [
@@ -1098,7 +1098,7 @@
     "Mix the cards and lay them face down in four rows of four.",
     "On your turn, turn over two cards. If one is an element and the other is a place where that element is found, keep the pair.",
     "When you keep a pair, say one more place where that element is found.",
-    "If they do not match, turn them face down again.",
+    "If the two cards do not match, turn them face down again.",
     "When all the pairs are found, the player with the most pairs wins. If players tie, they all win."
    ],
    "setup": [
@@ -1124,7 +1124,7 @@
      "mins": 10,
      "do": "Play until all pairs are found. Each time a pair is kept, the player names one more place.",
      "say": "You found aluminium and foil. Where else do we find aluminium?",
-     "kid": "Turn two cards. Is it a pair? Name one more place.",
+     "kid": "Turn over two cards. Are they a pair? If they are, name one more place where that element is found.",
      "parent": "More places: aluminium in pressure cookers and window frames, copper in old vessels, iron in gates and kadais, carbon in charcoal and soot, oxygen dissolved in water, which fish take in through their gills."
     },
     {
@@ -1132,7 +1132,7 @@
      "mins": 2,
      "do": "Ask the question below.",
      "say": "Which element did you find most places for?",
-     "kid": "Which element is in the most places?",
+     "kid": "Which element did you find the most places for?",
      "check": {
       "t": "mcq",
       "q": "A balloon that floats up is filled with which element?",
@@ -1245,10 +1245,10 @@
     "Test your idea against silver left in an open katori, kept in the same room."
    ],
    "materials": [
-    "two silver things that have just been made bright in the foil bowl, as in the first experiment",
+    "two silver things that have just been made bright in the Foil Bowl experiment",
     "small boxes, steel dabbas or jars with lids",
     "plastic zip bags, paper and cloth",
-    "two big jars with tight lids, and one hard-boiled egg yolk cut in half, for families who eat eggs, to speed up the test"
+    "to speed up the test, for families who eat eggs: two big jars with tight lids, and one hard-boiled egg yolk cut in half"
    ],
    "general": [
     "Shut the silver in an airtight box or zip bag, so less air reaches it.",
@@ -1289,7 +1289,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. After a week, or a day with egg yolk, compare the two. 2. Your child says which way worked and why.",
+     "do": "1. After a week, or after a day if you used egg yolk, compare the two silver things. 2. Your child says which way worked and why.",
      "say": "Which one stayed brighter? Why do you think your box worked, or did not?",
      "kid": "Which one is brighter? Why?",
      "wait": "Leave it for one week, or one day if you used egg yolk.",
@@ -1364,7 +1364,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a zoomed-in circle of gold, with dots for its atoms. Use one colour or more?",
+     "p": "Draw a zoomed-in circle of gold, with dots for its atoms. Should you use one colour, or more than one?",
      "a": "A circle full of dots, all the same colour.",
      "why": "A strong drawing uses one colour only, because gold has one kind of atom. Dots packed close show that gold is solid.",
      "how": "a2",
@@ -1402,7 +1402,7 @@
     },
     {
      "t": "write",
-     "p": "Remember the foil bowl test? Write what happened to the dark silver in the bowl with no foil, and in the bowl with foil.",
+     "p": "In the Foil Bowl experiment, dark silver went into a bowl with no foil, and then into a bowl with foil. Write what happened to the silver in each bowl.",
      "lines": 2,
      "a": "With no foil, it stayed dark. On the foil, it turned shiny.",
      "why": "A strong answer names both bowls and what changed. Only the foil was different, so the foil made the difference.",
@@ -1438,7 +1438,7 @@
     },
     {
      "t": "perspective",
-     "p": "Arjun, a boy of 5, sees the black silver anklet that his sister Lakshmi wears for Pongal. Their grandmother, Paati, looks at it too.",
+     "p": "In the story The Black Kolusu, Lakshmi's silver anklet has gone black. Her brother Arjun and her grandmother, Paati, both look at it.",
      "views": [
       {
        "who": "Arjun",
@@ -1476,7 +1476,7 @@
     },
     {
      "t": "write",
-     "p": "In the foil bowl, the water smelled a little like boiled eggs. Where do you think the smell came from?",
+     "p": "In the Foil Bowl experiment, the water smelled a little like boiled eggs. Where do you think the smell came from?",
      "lines": 2,
      "a": "From the sulfur that left the silver.",
      "why": "A strong answer links the smell to sulfur. A boiled egg smells because of a gas with sulfur in it, and the same kind of gas is made in the foil bowl.",
@@ -1555,7 +1555,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, a girl of 8, and her friend Farhan, a boy of 8, want to make Kavya's dark silver coin shine for Diwali.",
+     "p": "Kavya and Farhan want to make a dark silver coin shine for Diwali.",
      "views": [
       {
        "who": "Kavya",
@@ -1589,7 +1589,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 2, puts her dark silver toe ring in hot soda water, but it does not touch the foil. What will happen?",
+     "p": "A dark silver toe ring sits in hot soda water in the foil bowl, but it does not touch the foil. What will happen to the toe ring?",
      "opts": [
       "It turns shiny anyway",
       "It stays mostly dark",
@@ -1601,7 +1601,7 @@
     },
     {
      "t": "count",
-     "p": "Nisha, a girl in Class 2, asked grown-ups in her building about their oldest ornaments. She found 6 gold ones and 5 silver ones. All 6 gold ones were shiny. 4 of the silver ones were dark. How many ornaments were shiny?",
+     "p": "A survey of old ornaments found 6 gold ones and 5 silver ones. All 6 gold ones were shiny. 4 of the silver ones were dark. How many ornaments were shiny?",
      "a": 7,
      "why": "All 6 gold ones were shiny. Of 5 silver ones, 4 were dark, so 1 was shiny. 6 and 1 makes 7.",
      "how": "a4"
@@ -1640,7 +1640,7 @@
     },
     {
      "t": "write",
-     "p": "Farhan, a boy of 8, says, 'Shiny means it is an element.' Is he right? Give an example to test his idea.",
+     "p": "Someone says, 'Shiny means it is an element.' Are they right? Give an example to test the idea.",
      "lines": 3,
      "a": "No. A steel spoon is shiny but it is iron mixed with other elements. Brass is shiny but it is copper and zinc.",
      "why": "A strong answer tests the idea with a shiny thing that is not an element, like steel or brass. It may also say that oxygen is an element but is not shiny at all."
@@ -1734,7 +1734,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nisha, a girl in Class 2, sorts things at home. Which one should go in the 'two or more elements' column?",
+   "p": "You are sorting things at home. Which one should go in the 'two or more elements' column?",
    "opts": [
     "A copper wire",
     "A spoon of sugar",
@@ -1808,11 +1808,11 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali, a girl of 7, says the foil made her silver shiny. What is the best evidence for her claim?",
+   "p": "Someone says the foil made the silver shiny in the foil bowl test. What is the best evidence for this?",
    "opts": [
     "The foil was shiny too",
     "The same silver stayed dark with no foil, then turned shiny on foil",
-    "Her mother said so"
+    "A grown-up said so"
    ],
    "a": 1,
    "why": "Only the foil changed between the two bowls. So the change in the silver came from the foil.",
@@ -1844,7 +1844,7 @@
    "status": "find-id",
    "mins": 4,
    "why": "Shows very old gold objects that still shine, next to old silver or iron objects that have darkened or rusted.",
-   "check": "Find a museum video. Check the dates given for the objects, and that it explains gold hardly reacts."
+   "check": "Find a museum video. Check the dates given for the objects, and that it explains that gold hardly joins with other elements."
   }
  ],
  "applications": [
@@ -1933,7 +1933,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Element Hunt, Kavya, a girl of 8, found 4 things made of one element and 9 things made of two or more. How many more things were in the two-or-more column?",
+   "problem": "An Element Hunt found 4 things made of one element and 9 things made of two or more. How many more things were in the two-or-more column?",
    "answer": "5 more.",
    "explain": "9 take away 4 is 5. So the two-or-more column had 5 more things.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1942,7 +1942,7 @@
    "why_maths": "Taking one number from the other shows exactly how much bigger one column is."
   },
   {
-   "problem": "Anjali, a girl of 7, counted the silver things in her building's survey: 3 dark anklets, 2 dark coins and 1 shiny coin. How many silver things did she count in all? How many were dark?",
+   "problem": "An Ornament Survey counted these silver things: 3 dark anklets, 2 dark coins and 1 shiny coin. How many silver things were counted in all? How many were dark?",
    "answer": "6 silver things. 5 were dark.",
    "explain": "3 and 2 and 1 makes 6 silver things. The dark ones are 3 and 2, which is 5.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1959,7 +1959,7 @@
    "why_maths": "Finding the missing part tells us how much of an ornament is not gold."
   },
   {
-   "problem": "Each tiny bit of water is 1 oxygen atom and 2 hydrogen atoms. Farhan, a boy of 8, draws 4 bits of water. How many hydrogen dots does he need? How many oxygen dots?",
+   "problem": "Each tiny bit of water is 1 oxygen atom and 2 hydrogen atoms. To draw 4 bits of water, how many hydrogen dots do you need? How many oxygen dots?",
    "answer": "8 hydrogen dots and 4 oxygen dots.",
    "explain": "Each bit of water needs 2 hydrogen dots. 2 and 2 and 2 and 2 makes 8. Each bit needs 1 oxygen dot, so 4 bits need 4.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -2108,7 +2108,7 @@
  "roots": {
   "context": "We have made dark silver shine on foil, hunted for elements at home and found out why gold stays bright. Now we ask what elements tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your dark silver turned bright again where it touched the foil. The dark layer was silver atoms joined with sulfur atoms. The foil took the sulfur, and the same silver atoms stayed behind. An element can join with others and come out again, still itself.",
+   "truth": "In the Foil Bowl experiment, dark silver turned bright again where it touched the foil. The dark layer was silver atoms joined with sulfur atoms. The foil took the sulfur, and the same silver atoms stayed behind. An element can join with others and come out again, still itself.",
    "habit": "We think that when a thing goes black or spoilt, it is used up and gone. But the silver was there the whole time, inside the black layer, only joined with sulfur.",
    "evidence": "In the foil bowl test, the same dark silver stayed dark in hot soda water with no foil. On the foil it turned bright, with no rubbing, and the water smelled faintly of eggs as the sulfur left."
   },
@@ -2117,7 +2117,7 @@
    "what_is_life": "Living beings take in elements from food, water and air, use them, and give them back. The oxygen in your breath goes back into the air.",
    "what_is_this_world": "The whole world is made of about 90 natural elements, joined in endless ways, like a few letters making every word."
   },
-  "thread": "A few kinds of atoms make up everything: the anklet, the tamarind, the air and you. Each element joins with others to make new things, then can come out again, still itself. Silver joined sulfur and went black, then came back as silver. Everything is conscious, down to each atom, so the silver and the sulfur take part in this joining and parting. Many scientists say atoms only follow forces, and have no inner life.",
+  "thread": "A few kinds of atoms make up everything: the anklet, the tamarind, the air and you. Each element joins with others to make new things, then can come out again, still itself. Silver joined with sulfur and went black, then came back as silver. Everything is conscious, down to each atom, so the silver and the sulfur take part in this joining and parting. Many scientists say atoms only follow forces, and have no inner life.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6",
@@ -2151,7 +2151,7 @@
    "kid": "Close your eyes. Breathe in slowly. That air has oxygen. A tree or a plant gave out some of that oxygen. Breathe out. Do it three more times."
   },
   "ask": [
-   "When your silver was black, was it still silver?",
+   "When the silver anklet was black, was it still silver?",
    "If the atoms in you came from food, air and water, where do you begin?",
    "Gold hardly joins with anything. Is something that never changes more real, or less?"
   ],
