@@ -49,13 +49,13 @@
   {
    "term": "Joint family and nuclear family",
    "meaning": "A joint family is a big family where grandparents, parents, uncles, aunts and cousins live together. A nuclear family is parents, or one parent, living with their children.",
-   "example": "Farhan lives with his grandparents, his parents, his uncle, his aunt and two cousins. That is a joint family.",
+   "example": "A child who lives with grandparents, parents, an uncle, an aunt and two cousins lives in a joint family.",
    "art": "Two houses side by side: a big one with many people at the windows, and a small flat with three people."
   },
   {
    "term": "Guardian",
    "meaning": "A grown-up who takes the place of a parent and is responsible for a child.",
-   "example": "Meenakshi's grandmother is her guardian, because her parents work in another country.",
+   "example": "When a child's parents work in another country and her grandmother looks after her, the grandmother is her guardian.",
    "art": "A grandmother walking a girl to school, holding her hand and her school bag."
   },
   {
@@ -67,7 +67,7 @@
   {
    "term": "Care work",
    "meaning": "Looking after people who need help: feeding a baby, bathing a toddler, giving medicine, helping with homework, sitting with someone who is ill.",
-   "example": "Rina in Guwahati spends half an hour each evening helping her grandfather with his eye drops and his walk. That is care work.",
+   "example": "Spending half an hour each evening helping a grandfather with his eye drops and his walk is care work.",
    "art": "A girl holding her grandfather's arm as he walks slowly down a corridor in a flat."
   },
   {
@@ -91,9 +91,9 @@
    "definition": "A family is a group of people who care for each other and are joined by birth, marriage, adoption or by choosing to live as a family.",
    "description": "Families come in many shapes. A joint family has grandparents, parents, uncles, aunts and cousins under one roof. A nuclear family is parents and their children. Some children live with one parent, some with grandparents, and some were adopted. Some families live apart, with a parent working in another city or country. What makes all of these families is the same: the people in them look after each other.",
    "examples": [
-    "Farhan in Hyderabad lives in a joint family of nine people.",
-    "Divya in Kochi lives with her mother only. They are a family of two.",
-    "Arjun, aged 8, was adopted as a baby. His parents are his parents, just as much as anyone's."
+    "Nine people from three generations living in one home are a joint family.",
+    "A mother and her daughter who live together are a family of two.",
+    "A child who was adopted as a baby: the parents are the child's parents, just as much as anyone's."
    ],
    "perspectives": [],
    "art": "Four small pictures of different families: a big joint family, a mother and daughter, two grandparents with a grandson, and a couple with an adopted baby."
@@ -185,7 +185,7 @@
     },
     {
      "who": "Kristen Hawkes and her team, who studied the Hadza people of Tanzania",
-     "explanation": "Grandmothers matter most. Hadza grandmothers dig food for their grandchildren, so mothers can have the next baby sooner. This is called the grandmother idea."
+     "explanation": "Grandmothers matter most. Hadza grandmothers dig up food for their grandchildren, so mothers can have the next baby sooner. This is called the grandmother idea."
     },
     {
      "who": "John Bowlby, a British doctor, in his early writing",
@@ -254,7 +254,7 @@
   {
    "q": "If nobody counts a piece of work, is it still there?",
    "kind": "big",
-   "hint": "Think about your own work count, and what would happen if a job was not done for a week."
+   "hint": "Think about your Home Work Count, and what would happen if a job was not done for a week."
   }
  ],
  "story": {
@@ -283,7 +283,7 @@
    "\"I loved sums,\" said Ajji. \"I was the fastest in my class. I still add the vegetable bill before the shopkeeper does.\"",
    "\"That's not fair,\" said Kavya.",
    "\"No,\" said Ajji. \"It was not fair. Things are better now. Your Amma studied nursing. You will study whatever you like.\"",
-   "Kavya looked at her notebook. Every line was a job that had to be done, or nobody would have eaten, and nobody would have had clean clothes. Ajji's minutes had held up the whole day, and nobody had counted them before.",
+   "Kavya looked at her notebook. Every line was a job that had to be done, or nobody would have eaten, and nobody would have had clean clothes. The whole day had depended on Ajji's minutes, and nobody had counted them before.",
    "\"Can I draw a picture of the minutes?\" she asked. \"One clock for every half hour?\"",
    "She drew it. Ajji's row had twelve clocks and a bit. Appa's row had one clock and a bit.",
    "Appa looked at the picture for a long time. \"I don't know how to make ragi mudde,\" he said at last.",
@@ -446,7 +446,7 @@
     "Shuffle the 12 animal cards and put them in a pile, animal side up.",
     "On your turn, take the top animal card. Place the card below the carer you think is right, and say why.",
     "Turn the card over and read the back aloud. If you were right, keep the card. If not, put it under the right carer card.",
-    "When the pile is finished, count your cards. The player with the most cards wins, and a tie is fine. Playing with one grown-up, try to beat your own score in a second round."
+    "When the pile is finished, count your cards. The player with the most cards wins, and a tie is fine. If you are playing with just one grown-up, try to beat your own score in a second round."
    ],
    "flow": [
     {
@@ -561,7 +561,7 @@
        ]
       }
      ],
-     "parent": "Write down the guess with the reason. It is the child's prediction, and it matters more when it turns out wrong.",
+     "parent": "Write down the guess with the reason. This is your child's prediction. A wrong guess is useful too, because it shows what the count taught them.",
      "context": "This is the first step of the Home Work Count. You guess who will do the most home work this evening."
     },
     {
@@ -577,8 +577,8 @@
      "mins": 20,
      "do": "1. From 5 o'clock, each time someone starts a home job, your child writes the job, the person and the start time. 2. When the job ends, they write the end time. 3. Write whether the person is paid for it.",
      "say": "Someone is starting the cooking. What time is it now? Write it down. Tell me when they finish.",
-     "kid": "Someone starts a job. Look at the clock. Write the time. Write it again when they stop.",
-     "parent": "Spread this over the evening: your child only writes for a minute each time a job starts or stops, so the 20 minutes here is the writing time. If reading the clock is hard, you can read out the times and your child writes the job and the person. If two jobs happen at once, write both. Count your child's own jobs too, such as setting the plates.",
+     "kid": "When someone starts a job, look at the clock and write the time. Write the time again when they stop.",
+     "parent": "This step runs through the whole evening. Your child writes for only about a minute each time a job starts or stops. The 20 minutes shown for this step is the total writing time. If reading the clock is hard, you can read out the times and your child writes the job and the person. If two jobs happen at once, write both. Count your child's own jobs too, such as setting the plates.",
      "check": {
       "t": "mcq",
       "q": "A grandmother starts cooking at 6:10 and stops at 7:00. How long did she cook?",
@@ -597,7 +597,7 @@
      "do": "1. After the evening, work out the minutes for each job. 2. Add up the minutes for each person. 3. Write each person's total in a list.",
      "say": "Now add up each person's minutes. Who did the most? Who did the least? Was any of it paid?",
      "kid": "Add up each person's minutes. Who did the most?",
-     "parent": "Help with the adding if the numbers are big. In most Indian homes, one or two people, very often women, do most of the minutes. Your result may be different. Whatever you found is a real result."
+     "parent": "Help with the adding if the numbers are big. In most Indian homes, one or two people, very often women, do most of the work. Your result may be different. Whatever you found is a real result."
     },
     {
      "id": "s5",
@@ -610,7 +610,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Ask your child for a claim, the evidence and a reason. Compare with the guess from the start.",
+     "do": "Ask your child what the count showed, which numbers show it, and why they think it turned out that way. Compare this with the guess from the start.",
      "say": "Was your guess right? What did the count show? Who was paid, and who was not? Why do you think it is like that?",
      "kid": "Was your guess right? Who did most? Who was paid?",
      "ask": [
@@ -703,7 +703,7 @@
      "kid": "Now fold with two people. If someone else is at home, fold with three. Time each one.",
      "check": {
       "t": "mcq",
-      "q": "Divya, a girl in Class 3 in Kochi, took 8 minutes to fold the clothes alone. With her mother, they took 5 minutes. Was that exactly half the time?",
+      "q": "A child took 8 minutes to fold the clothes alone. When her mother helped, the two of them took 5 minutes. Was that exactly half the time?",
       "options": [
        "Yes, 5 is half of 8",
        "No, half of 8 is 4, so it took a little longer than half",
@@ -724,7 +724,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Look at the results together. Ask for a claim, the evidence and a reason.",
+     "do": "Look at the results together. Ask your child what the times showed, which numbers show it, and why they think it turned out that way.",
      "say": "Did two people take exactly half the time? If you tried three, did they take a third? Why not?",
      "kid": "Did two of you take half the time? Why or why not?",
      "ask": [
@@ -803,7 +803,7 @@
      "kid": "Count. How many people are 'uncle' in English? How many words do we have?",
      "check": {
       "t": "mcq",
-      "q": "Arjun, aged 8, calls his mother's brother Mama and his father's younger brother Chithappa. What does English call both of them?",
+      "q": "In Tamil, Mama is your mother's brother and Chithappa is your father's younger brother. What does English call both of them?",
       "options": [
        "Uncle",
        "Cousin",
@@ -888,7 +888,7 @@
       "a": 1,
       "why": "Each of your 4 grandparents had 2 parents, and 4 times 2 is 8. The number doubles every generation you go back. If you chose 6, you added 2 instead of doubling."
      },
-     "think": "If the number doubles each generation, how many people were your family 10 generations ago?"
+     "think": "If the number doubles each generation, how many ancestors did you have 10 generations ago?"
     }
    ],
    "setup": [
@@ -1059,7 +1059,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child writes the card: the jobs, the minutes, and one sentence on why each job matters. Then gives it.",
+     "do": "Your child writes the card: the jobs, the minutes, and one sentence on why each job matters. Then your child gives the card to that person.",
      "say": "Write what they did and why it mattered. For example: You cooked for 70 minutes, so everyone had dinner.",
      "kid": "Write the jobs and the minutes. Say why each one mattered. Give the card.",
      "think": "How did the person feel when they read the minutes?"
@@ -1341,7 +1341,7 @@
      "mins": 20,
      "do": "Build a tray from cardboard, cloth and tape. A grown-up does the cutting.",
      "say": "What will stop the tumbler sliding? What will stop it tipping?",
-     "kid": "Build your tray. Stop the slide. Stop the tip.",
+     "kid": "Build your tray. Make it stop the tumbler from sliding and from tipping.",
      "adult": true
     },
     {
@@ -1371,7 +1371,7 @@
    "channel": "UN Women",
    "youtube": "fcqt0QzgUFU",
    "mins": 3,
-   "why": "For the parent, and a child who has done the Home Work Count: a short film on cooking, cleaning and caring as work that keeps the world going.",
+   "why": "For the parent, and for a child who has done the Home Work Count. This short film shows cooking, cleaning and caring as work that keeps the world going.",
    "check": "Watch it yourself before showing your child."
   },
   {
@@ -1387,18 +1387,18 @@
    "channel": "Michael Baker",
    "youtube": "OrNBEhzjg8I",
    "mins": 6,
-   "why": "For the parent first. The old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one with milk, from the How We Found Out story. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child.",
+   "why": "For the parent first. This is the old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one that gave milk. The How We Found Out story in this unit tells what happened. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child.",
    "check": "Watch it yourself before showing your child."
   }
  ],
  "quiz": [
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 3, counts the home work in her flat one evening. Her grandmother, Ajji, cooks for 70 minutes and nobody pays her. The house help sweeps for 60 minutes and is paid. Who did work?",
+   "p": "In one evening, a grandmother cooks for 70 minutes and nobody pays her. A house help sweeps for 60 minutes and is paid. Who did work?",
    "opts": [
     "Only the house help, because she was paid",
     "Both of them",
-    "Only Ajji, because she worked longer"
+    "Only the grandmother, because she worked longer"
    ],
    "a": 1,
    "why": "Both did work. Cooking and sweeping both need time and effort, and the family needs both. Being paid or not does not change whether it is work. Choosing 'only the house help' means thinking only paid jobs count.",
@@ -1407,7 +1407,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan lives with his grandparents, his parents, his uncle, his aunt and two cousins in one home. What kind of family is this?",
+   "p": "A child lives with his grandparents, his parents, his uncle, his aunt and two cousins in one home. What kind of family is this?",
    "opts": [
     "A nuclear family",
     "A joint family",
@@ -1419,7 +1419,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya lives in Kochi with only her mother. Are they a family?",
+   "p": "A girl lives with only her mother. Are they a family?",
    "opts": [
     "Yes, because they live together and care for each other",
     "No, a family needs a mother and a father",
@@ -1600,7 +1600,7 @@
       ]
      ],
      "a": "see items",
-     "why": "The same kind of job can be paid or unpaid. It is paid when someone outside the family is given money to do it. A strong sorter looks at who pays, not at the job."
+     "why": "The same kind of job can be paid or unpaid. It is paid when someone outside the family is given money to do it. A strong answer looks at whether the person is paid, not at the job."
     },
     {
      "t": "write",
@@ -1686,7 +1686,7 @@
      ],
      "ask": "Who do you agree with? Give a reason from your Home Work Count. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence, for example that Amma already did the most minutes in the count. It also says what the other side has right: Arjun is right that some jobs go faster with practice, and Meenakshi is right that sharing makes it fairer.",
+     "a": "A strong answer picks a side with evidence, for example that Amma already did the most minutes in the count. It also says what the other side has right: Sanjay is right that some jobs go faster with practice, and Janaki is right that sharing makes it fairer.",
      "why": "Both have a point. Being fastest is a reason, but it can also mean one person ends up doing everything. Practice makes other people faster too.",
      "how": "e1"
     },
@@ -1763,7 +1763,7 @@
     },
     {
      "t": "write",
-     "p": "In the Many Hands test, three people took longer than a third of the time one person took. Give two reasons why.",
+     "p": "In the Many Hands test, three people did not finish in a third of the time one person took. They took longer. Give two reasons why.",
      "lines": 4,
      "a": "They had to wait for each other, they got in each other's way, and some folders were slower than others.",
      "why": "A strong answer gives two different reasons that come from what really happens when people work together.",
@@ -1798,7 +1798,7 @@
      "p": "Long ago, some experts told parents not to hug or kiss their children. Later studies showed that baby monkeys clung to a soft cloth mother for comfort. What does that tell us about the old advice?",
      "opts": [
       "It was right: hugs spoil children",
-      "It was wrong: comfort and touch are something young ones need",
+      "It was wrong: young ones need comfort and touch",
       "It does not matter either way"
      ],
      "a": 1,
@@ -1987,7 +1987,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi, a girl in Class 4, folded 20 clothes alone in 12 minutes, then with her aunt in 7 minutes, then alone again in 9 minutes. Why was her second try alone faster than her first?",
+     "p": "A girl folded 20 clothes alone in 12 minutes, then with her aunt in 7 minutes, then alone again in 9 minutes. Why was her second try alone faster than her first?",
      "opts": [
       "Practice made her faster",
       "The clothes got smaller",
@@ -2012,7 +2012,7 @@
     },
     {
      "t": "label",
-     "p": "Here is a picture of the results table from the Home Work Count. Label the column that shows how you know who was paid.",
+     "p": "Here is a picture of the results table from the Home Work Count. Label the column that shows who was paid.",
      "labels": [
       "Job",
       "Who did it",
@@ -2196,8 +2196,8 @@
  ],
  "maths": [
   {
-   "problem": "Kavya, a girl in Class 3, did a Home Work Count. In it, Ajji did 135 minutes, Amma did 60 minutes, Appa did 30 minutes and Kavya did 15 minutes. In a pictograph, one clock is 15 minutes. How many clocks does each person get?",
-   "answer": "Ajji 9 clocks, Amma 4, Appa 2, Kavya 1.",
+   "problem": "In a Home Work Count, Ajji did 135 minutes, Amma did 60 minutes, Appa did 30 minutes and the child did 15 minutes. In a pictograph, one clock is 15 minutes. How many clocks does each person get?",
+   "answer": "Ajji 9 clocks, Amma 4, Appa 2, the child 1.",
    "explain": "135 divided by 15 is 9, because 9 times 15 is 135. 60 divided by 15 is 4. 30 divided by 15 is 2. 15 divided by 15 is 1.",
    "math_unit": "math.data.pictographs.L3",
    "context": "This is about the Home Work Count, where you time every home job in one evening.",
@@ -2214,12 +2214,12 @@
    "how": "e1"
   },
   {
-   "problem": "In the Many Hands test, Meena, a girl in Class 3, folded 20 clothes alone in 10 minutes. With her brother they took 6 minutes. With three people they took 5 minutes. How much time did the second helper save? How much did the third helper save?",
-   "answer": "The second helper saved 4 minutes. The third helper saved only 1 more minute.",
-   "explain": "10 minus 6 is 4 minutes saved. 6 minus 5 is only 1 more minute. Each extra helper saved less time than the one before.",
+   "problem": "In the Many Hands test, one child folded 20 clothes alone in 10 minutes. Two people took 6 minutes. Three people took 5 minutes. How much time did adding the second person save? How much more did adding the third person save?",
+   "answer": "The second person saved 4 minutes. The third person saved only 1 more minute.",
+   "explain": "10 minus 6 is 4 minutes saved. 6 minus 5 is only 1 more minute. Each extra person saved less time than the one before.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the Many Hands test, where you time folding clothes alone and with helpers.",
-   "why_maths": "Taking one time from another shows how much each helper really changed, which a list of times hides.",
+   "why_maths": "Subtracting one time from the next shows how much time each extra person saved. A list of times alone does not show this.",
    "how": "e2"
   },
   {
@@ -2352,7 +2352,7 @@
  "roots": {
   "context": "We have named our relatives, counted every minute of home work in one evening, and met animal families. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your count found that cooking, washing and caring take hours in a home every evening. A house help is paid for this work, but a family member doing it is not. When India adds up the value of all its work, it leaves out unpaid home work. So the work that keeps every family alive is missing from the count.",
+   "truth": "In the Home Work Count, you found that cooking, washing and caring take hours in a home every evening. A house help is paid for this work, but a family member doing it is not. When India adds up the value of all its work, it leaves out unpaid home work. So the work that keeps every family alive is missing from the country's total.",
    "habit": "We use the word 'work' for a paid job. People say 'Appa goes to work' and 'Amma doesn't work', even when Amma works for hours at home. The word hides the work that everything else depends on.",
    "evidence": "In the Home Work Count, the jobs added up to hours in one evening, and only a house help, if there was one, was paid. India's Time Use Survey of 2019 found women doing about 299 minutes of unpaid home work a day."
   },
@@ -2371,7 +2371,7 @@
    {
     "source": "Taittiriya Upanishad 1.11",
     "teaching": "A teacher tells students who are leaving: treat your mother as a god, treat your father as a god, treat your teacher as a god, treat your guest as a god.",
-    "link": "The mother is named first. In many homes, as the Home Work Count shows, her minutes are the ones the whole day stands on."
+    "link": "The mother is named first. In many homes, as the Home Work Count shows, the rest of the day depends on her work."
    },
    {
     "source": "Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa",

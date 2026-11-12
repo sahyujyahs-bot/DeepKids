@@ -135,7 +135,7 @@
    "context": "This card is about why things held higher have more energy waiting, from a coconut to the water tank on your roof.",
    "status": "defined",
    "definition": "When you lift a thing against the Earth's pull, called gravity, you store energy. The higher and heavier the thing, the more energy is stored. It comes out as movement when the thing falls.",
-   "description": "Gravity is the pull of the Earth on everything. To lift a water bottle onto a high shelf, your arm works against gravity, and that work is stored. If the bottle falls, the stored energy turns into movement, and it lands with a thud. A bottle on a higher shelf would land harder, because more energy was stored. This is why many buildings in Indian cities have a water tank on the roof. A motor pumps water up into the tank once or twice a day. Then the water stays there, high up, with energy waiting. When anyone opens a tap, the water rushes down the pipes by itself. Taps on the ground floor usually flow harder than taps on the top floor, because the water above them has fallen further. Scientists say the stored energy belongs to the bottle and the Earth together, because the Earth's pull is what makes the fall.",
+   "description": "Gravity is the pull of the Earth on everything. To lift a water bottle onto a high shelf, your arm works against gravity, and that work is stored. If the bottle falls, the stored energy turns into movement, and it lands with a thud. A bottle on a higher shelf would land harder, because more energy was stored. This is why many buildings in Indian cities have a water tank on the roof. A motor pumps water up into the tank once or twice a day. Then the water stays there, high up, with energy waiting. When anyone opens a tap, the water rushes down the pipes by itself. Taps on the ground floor usually flow harder than taps on the top floor, because the water reaching them has fallen further. Scientists say the stored energy belongs to the bottle and the Earth together, because the Earth's pull is what makes the fall.",
    "examples": [
     "Hydroelectric power stations, such as the one at the Mettur dam on the Kaveri river or the Koyna dam in Maharashtra, let water stored high behind a dam fall through pipes to spin machines that make electricity.",
     "A child at the top of a slide has stored energy that becomes speed on the way down.",
@@ -177,7 +177,7 @@
    "context": "Remember the wait test, when you held the wound jar still for a minute before letting go? This card explains what that showed.",
    "status": "defined",
    "definition": "A store keeps energy until it is released. It can release the energy all at once or a little at a time.",
-   "description": "When you held the wound jar still for a minute, nothing moved, but the jar still rolled back when you let go. Your push had ended a minute earlier. The energy waited in the band in between. This is what makes stores so useful. Ammamma winds a clock for a few minutes on a Sunday, and the spring lets the energy out a tiny bit at each tick, for eight days. A bow stores energy slowly, as the archer pulls, and gives it all to the arrow in a moment. A flea needs to jump onto a dog many times their own height. Their leg muscles are too slow to throw them that high. So the flea slowly squeezes a pad of very springy material in their body, called resilin, then lets it go all at once.",
+   "description": "When you held the wound jar still for a minute, nothing moved, but the jar still rolled back when you let go. Your push had ended a minute earlier. The energy waited in the band in between. This is what makes stores so useful. In the story, Ammamma winds her clock for a few minutes on a Sunday, and the spring lets the energy out a tiny bit at each tick, for eight days. A bow stores energy slowly, as the archer pulls, and gives it all to the arrow in a moment. A flea needs to jump many times their own height to land on a dog. Their leg muscles are too slow to throw them that high. So the flea slowly squeezes a pad of very springy material in their body, called resilin, then lets it go all at once.",
    "examples": [
     "A pendulum wall clock wound once a week keeps ticking all week.",
     "A flea stores energy slowly in a springy pad, then jumps in about a thousandth of a second.",
@@ -188,7 +188,7 @@
   },
   {
    "concept": "No store gives back everything",
-   "context": "Your roll-back jar never came back quite as far as you hoped, and it stopped in the end. This card explains why.",
+   "context": "The roll-back jar never comes back quite as far as you rolled it out, and in the end it stops. This card explains why.",
    "status": "defined",
    "definition": "When stored energy comes out, all of it goes somewhere, but some always spreads out as a little warmth and sound that we cannot get back.",
    "description": "Energy is never made from nothing, and it never vanishes. So a store can give back at most the energy that was put in. In real life it gives back less, because some energy always spreads out. As the roll-back jar rolls, it rubs on the floor and makes a soft rumbling sound. The band rubs inside itself as it twists and untwists, and gets very slightly warm. That warmth and sound are still energy, but they spread into the air and the floor, and nobody can collect them again. So the jar rolls back and forth a few times, each time a little less, and then stops.",
@@ -234,7 +234,7 @@
     },
     {
      "who": "Some philosophers",
-     "explanation": "Energy may be the ability of the world to change. A store is a change that has not happened yet."
+     "explanation": "Energy may be what lets things change. Stored energy is a change that can happen but has not happened yet."
     }
    ],
    "art": "A child holding a stretched rubber band and looking at it closely with a magnifying glass, with a question mark drawn above."
@@ -287,7 +287,7 @@
    "claim": "The kcal number on a packet tells you how good a food is for you.",
    "who": "Many diet adverts",
    "for": "Eating much more energy than you use, for years, can make a body store too much fat.",
-   "against": "A kcal number says only how much energy is stored. It says nothing about protein, vitamins or fibre. Groundnuts are high in kcal and full of protein. A sweet drink is lower and has almost nothing else.",
+   "against": "A kcal number says only how much energy is stored. It says nothing about protein, vitamins or fibre. Groundnuts are high in kcal and full of protein. A sweet drink is lower in kcal and has almost nothing else.",
    "status": "debated",
    "context": "This card is about what the energy number on a food packet does and does not tell you."
   },
@@ -302,7 +302,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your push ended a minute before the jar rolled back. Is the rolling caused by the push, or by the band?",
+   "q": "In the wait test, your push ended a minute before the roll-back jar rolled back. Is the rolling caused by the push, or by the band?",
    "kind": "deep",
    "hint": "Think about what would happen with no push, and what would happen with no band."
   },
@@ -390,7 +390,7 @@
      "items": [
       {
        "f": "A catapult with its rubber pulled back and held still",
-       "b": "Waiting. Store: SHAPE (stretched). A let-go would fire the stone."
+       "b": "Waiting. Store: SHAPE (stretched). Letting go would fire the stone."
       },
       {
        "f": "A coconut high on a palm tree",
@@ -515,7 +515,7 @@
     }
    ],
    "rules": [
-    "Lay the 4 store cards face up in a row. Shuffle the 24 cards and put them in a pile with the writing side up.",
+    "Lay the 4 store cards face up in a row. Shuffle the 24 cards and put them in a pile with the fronts facing up.",
     "On your turn, take the top card and read the front only. Say 'waiting' or 'moving'. Then turn the card over and check the back.",
     "If you are right, you win the card. If the energy is waiting, put the card under the right store card and say what would let the energy out. That earns a bonus point.",
     "If you are wrong, read the back out loud and put the card at the bottom of the pile.",
@@ -598,7 +598,7 @@
     "One player is the Winder. Everyone else picks a toy card and freezes.",
     "The Winder turns an invisible key on a player's back, counting the turns out loud, from 1 to 10.",
     "The player must stay frozen until the Winder says 'Let go!'",
-    "Then the player acts out their toy: 1 turn gives 1 step, 5 turns give 5 steps. They slow down as they run out, and stop.",
+    "Then the player acts out their toy: 1 turn gives 1 step, 5 turns give 5 steps. They slow down as their steps run out, and then stop.",
     "A player who moves before 'Let go!' or does more steps than turns becomes the next Winder."
    ],
    "flow": [
@@ -626,11 +626,11 @@
      "kid": "While you were frozen, where was your energy?",
      "check": {
       "t": "mcq",
-      "q": "A girl named Gowri is wound 4 turns and has to wait. When she is let go, how many steps should she take?",
+      "q": "A player is wound 4 turns and has to wait. When the player is let go, how many steps should they take?",
       "options": [
-       "More than 4, because she rested",
-       "4 steps, the same as her winding",
-       "None, because waiting used her energy up"
+       "More than 4, because the player rested",
+       "4 steps, the same as the winding",
+       "None, because waiting used the energy up"
       ],
       "a": 1,
       "why": "A store gives back what was put in, so 4 turns gives 4 steps. Waiting does not add energy. A real spring loses only a tiny bit while it waits."
@@ -712,7 +712,7 @@
     {
      "day": 1,
      "mins": 40,
-     "what": "Build the roll-back jar. Guess, then test 1, 2, 3 and 4 turns, 3 tries each. Do the wait test. Say what you found."
+     "what": "Build the roll-back jar. Guess, then test 1, 2, 3 and 4 turns, 3 tries each. Do the wait test: hold the wound jar still for a minute, then let go. Say what you found."
     }
    ],
    "record": "Fill in the table. Then draw a bar for each number of turns, as tall as the middle result. Write one sentence under it: what the bars show.",
@@ -761,7 +761,7 @@
      "parent": "Each turn twists the band one more turn, because the padlock stays hanging at the bottom. The jar usually rolls back past the chalk line, slows down, and may wobble back again. Measure only to the place where it first stops. Expect more turns to send it further. A 10 cm wide jar rolls about 30 cm in each turn, so it rolls back about as far as you rolled it out, a little less because some energy spreads out. That is about 30 cm for 1 turn and about 1 metre for 4 turns, so 4 turns needs about 1.3 metres of floor in front, and the same behind. Your numbers will differ with your jar and floor, and your own numbers are the ones that count. If the padlock swings right over the band inside and the band unwinds without moving the jar, the band is too strong for the weight. Use a heavier weight or fewer turns.",
      "check": {
       "t": "mcq",
-      "q": "Leela, a girl in Class 3, winds her roll-back jar 1 turn, and then 4 turns. Which will she find?",
+      "q": "You wind a roll-back jar 1 turn, and then 4 turns. What will you find?",
       "options": [
        "It rolls back the same distance both times",
        "It rolls back further after 4 turns",
@@ -958,7 +958,7 @@
      "parent": "A good answer sounds like this. What I think: a tired cell is not empty. What I saw: it made the torch dim, but the clock ticked all night. Why: the torch needs a big flow of electricity and the clock needs only a little, so the cell still had enough stored energy for the clock.",
      "check": {
       "t": "mcq",
-      "q": "Rohini, a girl in Class 4, finds that her TV remote has stopped working. Her mother says the cells are empty. What could Rohini try before throwing them away?",
+      "q": "A TV remote has stopped working, and someone says the cells are empty. What could you try before throwing the cells away?",
       "options": [
        "Put them in the freezer to fill them up",
        "Try them in a wall clock, which needs only a tiny flow of electricity",
@@ -1072,7 +1072,7 @@
      "kid": "Sort your finds. High up? Stretched or twisted? Food or fuel? Cells?",
      "check": {
       "t": "mcq",
-      "q": "Asha, a girl in Class 3, finds a clothes peg pinching a towel on the line. What kind of store is in the peg?",
+      "q": "A clothes peg is pinching a towel on the line. What kind of store is in the peg?",
       "options": [
        "A height store",
        "A shape store, in its squashed spring",
@@ -1128,9 +1128,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Cut two squares of card, 8 cm by 8 cm. 2. Lay them side by side with a 2 mm gap. 3. Tape along the gap on both sides, to make a hinge. 4. Cut a small notch in the middle of each far edge. 5. Stretch the band across the back, from notch to notch.",
+     "do": "1. Cut two squares of card, 8 cm by 8 cm. 2. Lay them side by side with a 2 mm gap. 3. Tape along the gap on both sides, to make a hinge. 4. On each square, cut a small notch in the middle of the edge furthest from the hinge. 5. Stretch the band across the back, from notch to notch.",
      "say": "We are making a hinge, like the spine of a book. The band goes across the back, from one notch to the other.",
-     "kid": "Cut two squares. Tape them together like a book. Cut a notch on each far side. Put the band across the back.",
+     "kid": "Cut two squares. Tape them together like a book. Cut a notch in the edge of each square furthest from the tape. Put the band across the back.",
      "adult": true,
      "context": "This is the first step of the Pop-Up Jumper. You make a card hinge with a rubber band across it."
     },
@@ -1140,7 +1140,7 @@
      "do": "1. Fold the card shut so the band is on the outside. 2. Press the folded card flat on the floor with one finger. 3. Lift your finger quickly.",
      "say": "Fold it so that the band goes round the outside. Press it flat. What do you feel pushing your finger? Now let go quickly.",
      "kid": "Fold it with the band outside. Press it flat. Feel the push? Let go fast!",
-     "parent": "Folding the card with the band outside stretches the band. The stretched band snaps the card open, and it hops. How high it hops depends on your card and band, and it may only be a few centimetres, or flip over. If it only opens without hopping, use a tighter band or a stiffer card.",
+     "parent": "Folding the card with the band outside stretches the band. The stretched band snaps the card open, and it hops. How high it hops depends on your card and band. It may hop only a few centimetres, or flip over. If it only opens without hopping, use a tighter band or a stiffer card.",
      "ask": [
       {
        "q": "Where was the energy while you held it flat?",
@@ -1163,7 +1163,7 @@
       "options": [
        "The loose band",
        "The tight band",
-       "Both jumped the same"
+       "Both jump the same"
       ],
       "a": 1,
       "why": "A tighter band is stretched more when the card is folded, so it stores more energy and throws the card higher. If your two bands jumped about the same, they may be too alike. Try a thick band and a thin one."
@@ -1217,7 +1217,7 @@
      "say": "Food stores energy, and the packet tells us how much. Look for the word Energy, and a number with kcal. That is the energy stored in 100 grams.",
      "kid": "Turn the packet over. Find the word Energy. Find the number with kcal.",
      "parent": "Kcal means kilocalories, a unit for energy in food. Some packets also give kJ, kilojoules. Use the kcal number. Use the 'per 100 g' column so all the foods are compared fairly.",
-     "context": "This is the first step of the food packet activity. You find the energy number on a food packet."
+     "context": "This is the first step of Energy on the Packet. You find the energy number on a food packet."
     },
     {
      "id": "s2",
@@ -1326,7 +1326,7 @@
      "do": "1. Pull off the tape quickly. 2. Watch the three jets. 3. Keep watching as the bottle empties.",
      "say": "Look at the three jets. Which one shoots out fastest? What happens to the jets as the water goes down?",
      "kid": "Pull the tape off! Which jet is fastest? Watch as the water goes down.",
-     "parent": "The bottom jet shoots out fastest and hardest, because the most water is above it. The water above is pressing down on that hole. The middle jet often lands furthest, because it starts higher above the tray. As the bottle empties, every jet gets weaker, because the water level is falling. The top jet stops first."
+     "parent": "The bottom jet shoots out fastest and hardest, because the most water is above it. The water above is pressing down on that hole. The middle jet often lands furthest, because it starts higher up than the bottom jet. As the bottle empties, every jet gets weaker, because the water level is falling. The top jet stops first."
     },
     {
      "id": "s4",
@@ -1343,7 +1343,7 @@
        "All taps flow the same"
       ],
       "a": 1,
-      "why": "The ground-floor tap has the most water above it, so the water has fallen furthest when it reaches the tap. It comes out hardest, like the bottom hole of the bottle. Picking the top floor is a natural guess, because it is nearest the tank, but nearest is not what matters. Height above the tap is."
+      "why": "The ground-floor tap has the most water above it, so the water has fallen furthest when it reaches the tap. It comes out hardest, like the bottom hole of the bottle. Picking the top floor is a natural guess, because it is nearest the tank. But being near the tank is not what matters. What matters is how far the water falls to reach the tap."
      }
     }
    ],
@@ -1476,7 +1476,7 @@
      "what": "Draw a line graph of the five days. Say what fills the store and what empties it."
     }
    ],
-   "record": "A table with a row for each day and columns for morning, afternoon, night, and what the phone did. Then a line graph of the battery number over the week.",
+   "record": "A table with a row for each day and columns for morning, afternoon, night, and what the phone was used for. Then a line graph of the battery number over the five days.",
    "flow": [
     {
      "id": "s1",
@@ -1497,7 +1497,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. On day 4, write the three numbers as usual. 2. With a grown-up, write the battery number. 3. Play a video for 10 minutes and write the number. 4. Leave the screen off for 10 minutes and write the number again.",
+     "do": "1. On day 4, write the three numbers as usual. 2. Then do a test with a grown-up. Write the battery number. 3. Play a video for 10 minutes and write the number. 4. Leave the screen off for 10 minutes and write the number again.",
      "say": "Which do you think empties the store faster, a video or the screen being off? Why? Let's test it.",
      "kid": "Guess first. Video or screen off: which uses more? Why? Now test it.",
      "parent": "A video with a bright screen and sound usually takes a few percent of the battery in 10 minutes. With the screen off, the number usually stays the same or falls by 1. Phones differ, so go by your own numbers."
@@ -1510,7 +1510,7 @@
      "kid": "Draw the line. Where does it go up? Where does it fall fastest?",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 4, keeps a battery diary. Her phone's number jumps from 20 to 100 overnight. What happened?",
+      "q": "In a battery diary, a phone's number jumps from 20 to 100 overnight. What happened?",
       "options": [
        "The phone made its own energy while it rested",
        "The phone was charged, so energy from the wall was stored in its battery",
@@ -1588,14 +1588,14 @@
      "kid": "Show your best jar. What did you change? Why did it help?",
      "check": {
       "t": "mcq",
-      "q": "Meena, a girl in Class 4, changed two things at once, and her jar went further. What is the problem?",
+      "q": "Someone changed two things on a roll-back jar at once, and the jar went further. What is the problem?",
       "options": [
        "Nothing. It went further, so both changes helped",
-       "She cannot tell which change helped",
-       "She should have changed three things"
+       "They cannot tell which change helped",
+       "They should have changed three things"
       ],
       "a": 1,
-      "why": "With two changes at once, she cannot tell which one helped. One might have helped a lot and the other might even have made it worse. Changing one thing at a time is what makes a test fair."
+      "why": "With two changes at once, nobody can tell which one helped. One might have helped a lot and the other might even have made it worse. Changing one thing at a time is what makes a test fair."
      }
     }
    ],
@@ -1654,7 +1654,7 @@
      "say": "Each channel must slope down a little. If it is too steep, the marble goes fast. If it is too flat, it stops.",
      "kid": "Tape the channels in a zigzag. Each one slopes down a little. Test as you go.",
      "adult": true,
-     "parent": "Help with taping high up. Stand on the floor, not on a chair, unless a grown-up holds it. Slopes of about one finger-width drop for every 30 cm work well."
+     "parent": "Help with taping high up. Your child should stand on the floor, not on a chair, unless a grown-up holds the chair. A slope that drops about one finger-width for every 30 cm works well."
     },
     {
      "id": "s3",
@@ -1723,19 +1723,19 @@
     "Energy that has been used up"
    ],
    "a": 1,
-   "why": "Stored energy waits until it is released. Picking 'used up' is a common mix-up: used energy has spread out, not stored.",
+   "why": "Stored energy waits until it is released. Picking 'used up' is a common mix-up. Energy that has been used has spread out. It is no longer stored.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl in Class 3, holds a rubber band stretched between her fingers, without moving. Where is the energy?",
+   "p": "You hold a rubber band stretched between your fingers, without moving. Where is the energy?",
    "opts": [
     "There is none, because nothing moves",
     "In the stretch of the band",
     "In the air around it"
    ],
    "a": 1,
-   "why": "The stretch of the band holds the energy. It flies off when she lets go. Picking 'none' comes from thinking only moving things have energy.",
+   "why": "The stretch of the band holds the energy. The band flies off when you let go. Picking 'none' comes from thinking only moving things have energy.",
    "outcome": 0
   },
   {
@@ -1884,7 +1884,7 @@
       ],
       [
        "A plate of rice",
-       "in its food"
+       "in the food"
       ],
       [
        "A TV remote's AA cells",
@@ -1966,7 +1966,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Stores are things holding energy for later. Moving energy is energy being used right now as movement, light, heat or sound. A strong sorter asks: is something happening now?"
+     "why": "Stores are things holding energy for later. Moving energy is energy being used right now as movement, light, heat or sound. To sort them, ask: is something happening now?"
     },
     {
      "t": "draw",
@@ -2001,7 +2001,7 @@
     },
     {
      "t": "perspective",
-     "p": "Remember the Tired Cell test, where a cell made a torch dim. Three people in a family in Kochi decide what to do with it.",
+     "p": "In the Tired Cell test, a cell made a torch dim. Three people in a family in Kochi say what to do with a cell like that.",
      "views": [
       {
        "who": "Amma, the mother",
@@ -2018,7 +2018,7 @@
      ],
      "ask": "Which idea do you agree with most? Use what you found in the Tired Cell test. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and uses evidence, such as 'our tired cell ran the clock all night'. It then gives another side its due: an old cell left in a box for months can leak, so Amma is right that it should not be kept for ever.",
+     "a": "A strong answer picks a side and uses evidence, such as 'our tired cell ran the clock all night'. Then it says what another person has right: an old cell left in a box for months can leak, so Amma is right that it should not be kept for ever.",
      "why": "There is a real trade-off. A tired cell still holds energy, but very old cells can leak, so using it soon is better than keeping it.",
      "how": "e2"
     },
@@ -2076,7 +2076,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Roshni, a girl in Class 3, says, 'My roll-back jar came back past the start line, so it got extra energy from somewhere.' What really happened?",
+     "p": "Someone says, 'My roll-back jar came back past the start line, so it got extra energy from somewhere.' What really happened?",
      "opts": [
       "It got energy from the floor",
       "It was moving fast at the start line, so it twisted the band the other way and kept going a little",
@@ -2088,7 +2088,7 @@
     },
     {
      "t": "write",
-     "p": "Your roll-back jar never rolled back for ever. It rocked back and forth a few times and stopped. Where did its energy go?",
+     "p": "Your roll-back jar did not keep rolling for ever. It rocked back and forth a few times and stopped. Where did its energy go?",
      "lines": 3,
      "a": "Some energy spread out as a soft rumbling sound as the jar rolled on the floor. Some warmed the band a tiny bit as it twisted and untwisted, and some warmed the floor. That energy cannot be collected again, so the jar stopped.",
      "why": "A strong answer says the energy did not vanish. It spread out as sound and warmth.",
@@ -2109,7 +2109,7 @@
      ],
      "ask": "Which friend do you agree with? Give a reason. Then say what the other friend has right.",
      "lines": 5,
-     "a": "A strong answer might back Selvi: far from the Earth there is no pull, and lifting the ball would store almost nothing, so the Earth matters. It then gives Pavithra her due: it is the ball that speeds up, so saying the ball has the energy is a handy short way of talking.",
+     "a": "A strong answer might agree with Selvi: far from the Earth there is no pull, and lifting the ball would store almost nothing, so the Earth matters. Then it says what Pavithra has right: the ball is the thing that speeds up, so saying the ball has the energy is a handy short way of talking.",
      "why": "Physicists say the energy belongs to the ball and the Earth together. Most people say it belongs to the ball, which is fine for everyday sums."
     },
     {
@@ -2157,19 +2157,19 @@
       "The bottom hole"
      ],
      "a": 2,
-     "why": "The bottom hole had the most water above it. The top of the water had furthest to fall to reach that hole, so its jet was fastest.",
+     "why": "The bottom hole has the most water above it. The top of the water has furthest to fall to reach that hole, so its jet is fastest.",
      "how": "a4"
     },
     {
      "t": "truefalse",
      "p": "A tall bottle full of water has three holes, one above the other. As the bottle empties, all three jets get weaker.",
      "a": true,
-     "why": "True. As the water level fell, every hole had less water above it, so every jet slowed. The top jet stopped first.",
+     "why": "True. As the water level falls, every hole has less water above it, so every jet slows. The top jet stops first.",
      "how": "a4"
     },
     {
      "t": "write",
-     "p": "A flea must jump onto a passing dog, many times their own height. Their leg muscles are too slow to throw them that high. How does a flea solve this problem?",
+     "p": "A flea must jump many times their own height to land on a passing dog. Their leg muscles are too slow to throw them that high. How does a flea solve this problem?",
      "lines": 3,
      "a": "The flea slowly squeezes a pad of very springy material called resilin, and stores energy in it. Then they let it go all at once, so the jump is far quicker than their muscles alone could make it.",
      "why": "A strong answer says the energy is stored slowly and released fast. That is the flea's way of getting a big, quick jump from slow muscles."
@@ -2205,7 +2205,7 @@
     },
     {
      "t": "match",
-     "p": "Match each living thing to the store that helps their life.",
+     "p": "Match each living thing to the store that helps them live.",
      "pairs": [
       [
        "Camel",
@@ -2229,9 +2229,9 @@
     },
     {
      "t": "write",
-     "p": "Ishaan, a boy in Class 3, says, 'A toy that I wind up today and play with tomorrow will have more energy tomorrow, because it has rested.' Is he right? Explain.",
+     "p": "Someone says, 'A toy that I wind up today and play with tomorrow will have more energy tomorrow, because it has rested.' Are they right? Explain.",
      "lines": 3,
-     "a": "No. A store gives back only what was put in. Waiting does not add energy. The roll-back jar held still for a minute rolled back about as far as before, not further.",
+     "a": "No. A store gives back only what was put in. Waiting does not add energy. In the wait test, the roll-back jar was held still for a minute and then rolled back about as far as before, not further.",
      "why": "A strong answer uses the wait test as evidence.",
      "how": "e1"
     },
@@ -2293,9 +2293,9 @@
        "says": "The tank is useful, but the top floor gets weak water. Put it higher."
       }
      ],
-     "ask": "Which idea do you agree with most? Use what you know about water stored high up. Then answer back from one of the other views.",
+     "ask": "Which idea do you agree with most? Use what you know about water stored high up. Then say what the other two people have right.",
      "lines": 6,
-     "a": "A strong answer sees that the tank is a store of energy: the motor puts energy in once, and the water can come out later, even in a power cut. It also gives Farzana her due, since pumping and storing take some electricity, and Dadi hers, since a higher tank does give more push to every tap.",
+     "a": "A strong answer sees that the tank is a store of energy: the motor puts energy in once, and the water can come out later, even in a power cut. It also says what the others have right. Farzana is right that pumping and storing take some electricity. Dadi is right that a higher tank gives more push to every tap.",
      "why": "Each view has something right. A store costs energy to fill, but it lets the energy come out later, when it is needed."
     },
     {
@@ -2307,14 +2307,14 @@
     },
     {
      "t": "mcq",
-     "p": "Durga winds her roll-back jar 10 turns, much more than before. The padlock flips over inside, and the jar does not roll back at all. Why?",
+     "p": "A roll-back jar is wound 10 turns, much more than before. The padlock flips over inside, and the jar does not roll back at all. Why?",
      "opts": [
       "10 turns removed all the energy",
       "The twist pulled so hard that it swung the padlock over, so the band unwound inside instead of turning the jar",
       "The jar was too heavy"
      ],
      "a": 1,
-     "why": "With too many turns, the band pulls harder than the padlock's weight can resist. The padlock swings up and over, and the band unwinds without turning the jar. A heavier weight would let her wind more turns.",
+     "why": "With too many turns, the band pulls harder than the padlock's weight can resist. The padlock swings up and over, and the band unwinds without turning the jar. With a heavier weight, the jar could be wound more turns.",
      "how": "e1"
     },
     {
@@ -2330,7 +2330,7 @@
      "opts": [
       "The dog makes heat from nothing",
       "The heat matches the energy in the food the dog used",
-      "The dog gives out more heat than its food holds"
+      "The dog gives out more heat than their food holds"
      ],
      "a": 1,
      "why": "Energy is never made from nothing. So the heat the dog gives out should match the energy in the food the dog used. When scientists did this, it matched almost exactly. Living bodies follow the same rule as everything else."
@@ -2339,7 +2339,7 @@
      "t": "draw",
      "p": "Draw a comic strip in four boxes: energy going into a store, waiting, and coming out later. Use any store from this unit.",
      "a": "For example: 1. A child rolls the jar 3 turns. 2. The child holds it still and counts to 60. 3. The child lets go. 4. The jar rolls back. Each box has a label: in, waiting, out.",
-     "why": "A strong strip shows all three stages, including the waiting, which is the heart of a store.",
+     "why": "A strong strip shows all three stages, including the waiting. The waiting is what makes it a store.",
      "art": "Four empty comic boxes in a row."
     },
     {
@@ -2524,12 +2524,12 @@
  ],
  "ask_kids": [
   "Is there anything in this room with energy waiting in it? How would we let it out?",
-  "Your lunch is a store. What will you spend it on this evening?",
+  "Your lunch is a store of energy. What will you use that energy for this evening?",
   "Why do you think the tank is on the roof, and not on the ground?",
   "When you crouch before a jump, what are you storing?",
   "If the phone battery is at 20%, how long do you think it will last?",
   "Which food on your plate stores the most energy, do you think?",
-  "Where does a clock's ticking come from?",
+  "Where does a wind-up clock get the energy to tick?",
   "Can you think of a store that lets its energy out slowly, and one that lets it out all at once?"
  ],
  "jokes": [
@@ -2576,7 +2576,7 @@
  ],
  "maths": [
   {
-   "problem": "Remember the roll-back jar, wound 1, 2, 3 and 4 turns. Tara, a girl in Class 4, tested her own jar. Her middle results were 33 cm, 64 cm, 92 cm and 117 cm. How much further did each extra turn send the jar? What pattern do you see?",
+   "problem": "A roll-back jar was wound 1, 2, 3 and 4 turns. The middle results were 33 cm, 64 cm, 92 cm and 117 cm. How much further did each extra turn send the jar? What pattern do you see?",
    "answer": "31 cm, then 28 cm, then 25 cm. Each extra turn adds 3 cm less than the one before.",
    "explain": "64 - 33 = 31. 92 - 64 = 28. 117 - 92 = 25. The gaps get 3 cm smaller each time. So more turns always help, but each extra turn helps a little less.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2585,7 +2585,7 @@
    "how": "e1",
    "chart": {
     "type": "bar",
-    "title": "Tara's roll-back jar",
+    "title": "Roll-back jar results",
     "x": "Turns wound",
     "y": "Distance rolled back (cm)",
     "data": [
@@ -2613,11 +2613,11 @@
    }
   },
   {
-   "problem": "Using Tara's pattern, where each extra turn adds 3 cm less than the one before, predict how far her jar would roll back after 5 turns.",
+   "problem": "A roll-back jar rolled back 33 cm, 64 cm, 92 cm and 117 cm after 1, 2, 3 and 4 turns. Each extra turn added 3 cm less than the one before. If the pattern goes on, how far would the jar roll back after 5 turns?",
    "answer": "About 139 cm.",
-   "explain": "The last gap was 25 cm. The next gap should be 3 cm less, which is 22 cm. 117 + 22 = 139 cm. This is only a prediction. With too many turns the padlock may flip over, so the test must check it.",
+   "explain": "The last gap was 25 cm, because 117 - 92 = 25. The next gap should be 3 cm less, which is 22 cm. 117 + 22 = 139 cm. This is only a prediction. With too many turns the padlock may flip over, so only a real test can check it.",
    "math_unit": "math.patterns.number-patterns.L3",
-   "context": "This is about the Roll-Back Jar experiment, using Tara's results for 1 to 4 turns.",
+   "context": "This is about the Roll-Back Jar experiment, using one jar's results for 1 to 4 turns.",
    "why_maths": "A number pattern lets you make a prediction, and then a test can show whether the pattern holds.",
    "how": "e1"
   },
@@ -2630,7 +2630,7 @@
    "why_maths": "Counting equal groups shows how a small amount of winding each week adds up to all the energy for a year."
   },
   {
-   "problem": "Kavya, a girl in Class 4, keeps a battery diary. Her phone showed 100% at 7 in the morning and 60% at 3 in the afternoon. How much did it drop each hour, if it dropped the same amount each hour? At that rate, at what time will it reach 20%?",
+   "problem": "A phone showed 100% at 7 in the morning and 60% at 3 in the afternoon. It dropped the same amount each hour. How much did it drop each hour? At that rate, at what time will it reach 20%?",
    "answer": "5% each hour. It will reach 20% at 11 at night.",
    "explain": "From 7 to 3 is 8 hours. 100 - 60 = 40. 40 shared over 8 hours is 5 each hour. From 60 to 20 is 40 more, which takes another 8 hours. 3 in the afternoon plus 8 hours is 11 at night.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2643,7 +2643,7 @@
    "answer": "10 times as much. 1,000 grams, which is 1 kilogram, of banana.",
    "explain": "900 is 10 lots of 90. So oil stores 10 times as much for its weight. To match it you need 10 lots of 100 grams of banana, which is 1,000 grams. A banana is mostly water, which stores no energy.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
-   "context": "This is about the food packet activity, where you read the energy number on food packets.",
+   "context": "This is about the Energy on the Packet activity, where you read the energy number on food packets.",
    "why_maths": "Comparing the numbers shows how different foods are as stores of energy, which a list alone does not make clear.",
    "how": "a3"
   }
@@ -2831,14 +2831,14 @@
  "roots": {
   "context": "We have wound a jar, tested a tired cell and found energy waiting all over the house. Now we ask what a store of energy tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "You wound the jar, held it still for a minute, then let go, and it rolled back. Your push had ended a minute before the rolling began. In between, the energy waited in the twisted band. So a store lets the energy of a push given now come out later, quickly or slowly.",
-   "habit": "We expect a cause and its effect to happen together: the push, then straight away the movement. A store breaks that link in time. The cause can end long before the effect begins, like Ammamma's Sunday winding and Thursday's ticking.",
+   "truth": "In the wait test of the Roll-Back Jar, you wound the jar, held it still for a minute, then let go, and it rolled back. Your push had ended a minute before the rolling began. In between, the energy waited in the twisted band. So a store lets the energy of a push given now come out later, quickly or slowly.",
+   "habit": "We expect a cause and its effect to come together: you push, and the thing moves straight away. With a store, they can be far apart. The cause can end long before the effect begins. In the story, Ammamma wound her clock on Sunday, and it was still ticking on Thursday.",
    "evidence": "In the wait test of the Roll-Back Jar, the jar held still for a minute still rolled back about as far as before. In the story, ten turns of a key kept a clock ticking for eight days."
   },
   "three": {
    "who_am_i": "You are a store too. Today's lunch waits in your body as the energy for this evening's run.",
-   "what_is_life": "A seed holds food from their parent plant, sometimes for years, until water tells them it is time to grow.",
-   "what_is_this_world": "Water held high behind a dam waits in the hills, until the gates open and it lights a city."
+   "what_is_life": "A seed holds food from their parent plant, sometimes for years, until water reaches them and they start to grow.",
+   "what_is_this_world": "Water held high behind a dam has energy waiting. When the gates open, the water falls and makes electricity that lights a city."
   },
   "thread": "Winding the jar puts many small pushes into one twisted band. Letting go sends that energy out again as rolling, a soft rumble and a little warmth in the band and the floor. Nothing is lost on the way. The energy only changes where it is and what it does.",
   "teachings": [
@@ -2850,7 +2850,7 @@
    {
     "source": "Aristotle, Metaphysics, Book 9",
     "teaching": "Aristotle said a thing can be something 'in potential' before it is that thing 'in action'. A builder who is resting can still build. Our word energy comes from his Greek word energeia, which means being at work.",
-    "link": "The scientists' word for stored energy, potential energy, comes from the same old idea. A wound band is rolling in potential, until you let go and it rolls in action."
+    "link": "The scientists' word for stored energy, potential energy, comes from the same old idea. A wound band is able to roll the jar, but is not doing it yet. When you let go, it does."
    },
    {
     "source": "Tao Te Ching 64",

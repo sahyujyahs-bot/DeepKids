@@ -3,12 +3,12 @@
  "title": "A balanced diet: why your body needs many kinds of food",
  "level": 3,
  "summary": {
-  "text": "A plate of rice can fill your stomach and still leave your body short of protein, iron and vitamins. A balanced diet means eating many kinds of food, in about the right amounts, over a day or a week. Inside you, food is broken down into tiny building blocks, and your blood carries them to about 30 trillion cells. Your cells burn some of them for energy and use the rest to grow and mend. About as many microbes live in your gut, and they eat the fibre you cannot digest. No single food is good or bad on its own, because what matters is the mix over many meals.",
+  "text": "A plate of rice can fill your stomach and still leave your body short of protein, iron and vitamins. A balanced diet means eating many kinds of food, in about the right amounts, over a day or a week. Inside you, food is broken down into tiny building blocks, and your blood carries them to about 30 trillion cells. Your cells burn some of them for energy and use the rest to grow and mend. Your gut also holds about as many microbes as your body has cells, and they eat the fibre you cannot digest. No single food is good or bad on its own, because what matters is the mix over many meals.",
   "art": "A steel thali seen from above, half green with poriyal and fruit, a quarter golden with rice and chapati, a quarter red-brown with dal and curd, a glass of water beside it, and faint dotted lines running from each part to a tiny glowing cell."
  },
  "intro": {
   "hook": "Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?",
-  "text": "Almost all our food starts as plants growing in sunlight. Here we follow it after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Some of it is burned for energy, and you breathe it out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?",
+  "text": "Almost all our food starts as plants growing in sunlight. In this unit we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Some of it is burned for energy, and you breathe it out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?",
   "art": "A girl breathing out onto her palm, a faint curl of warm breath, and inside a dotted outline of her body a tiny chapati breaking into sparkling specks that flow to her lungs."
  },
  "outcomes": [
@@ -228,7 +228,7 @@
   {
    "concept": "Your food travels to 30 trillion cells",
    "status": "defined",
-   "definition": "After digestion, the blood carries the tiny food pieces to every cell in the body. Each cell takes what they need.",
+   "definition": "After digestion, the blood carries the tiny food pieces to every cell in the body. The cells each take what they need.",
    "description": "Your body is made of about 30 trillion cells. That is 30 followed by twelve zeros. Each one is alive and needs food. Your heart pumps blood past almost every cell, all the time. The blood carries glucose, amino acids, fats, vitamins, minerals and water. A muscle cell takes amino acids to build more muscle. A bone cell takes calcium. A cell in the bone marrow takes iron and folate to make new red blood cells. A brain cell takes glucose. Your body is always rebuilding itself like this. The lining of your gut is replaced every few days. So part of you next month will be built from this month's food.",
    "examples": [
     "Your red blood cells each live about four months. New ones are made all the time from the iron, protein and vitamins in your food.",
@@ -243,7 +243,7 @@
    "concept": "Inside the cell: food plus oxygen gives energy",
    "status": "defined",
    "definition": "Inside each cell, tiny parts called mitochondria join glucose or fat with oxygen. This releases the energy the cell uses. Carbon dioxide and water are left over.",
-   "description": "Your cells need energy for everything: moving, growing, thinking and keeping warm. They get it by slowly burning food with oxygen. It is a bit like a fire. But it happens gently, in tiny steps, so it never gets hot enough to hurt. This is why you breathe. You breathe in oxygen for your cells. You breathe out the carbon dioxide they made from your food. When the body burns its stored fat, most of that fat leaves through the breath, as carbon dioxide. Two scientists in Australia worked this out in 2014. The brain is very hungry. In a child of about five, the brain uses nearly half of all the energy the body burns.",
+   "description": "Your cells need energy for everything: moving, growing, thinking and keeping warm. They get it by slowly burning food with oxygen. It is a bit like a fire. But it happens gently, in tiny steps, so it never gets hot enough to hurt. This is why you breathe. You breathe in oxygen for your cells. You breathe out the carbon dioxide they made from your food. When the body burns its stored fat, most of that fat leaves through the breath, as carbon dioxide. Two scientists in Australia worked this out in 2014. The brain uses a lot of energy. In a child of about five, the brain uses nearly half of all the energy the body burns.",
    "examples": [
     "Run fast and you breathe harder. Your muscle cells are burning more food and need more oxygen.",
     "Your body stays at about 37 degrees Celsius. That warmth comes from your cells burning food.",
@@ -299,7 +299,7 @@
    "concept": "Vitamins and minerals: tiny amounts, big jobs",
    "status": "defined",
    "definition": "Vitamins and minerals are nutrients the body needs in very small amounts. Without them, many parts of the body slowly stop working well.",
-   "description": "You need only a pinch of each vitamin and mineral, but you need them every week. Vitamin C, in amla, guava, lemon and oranges, helps make skin, gums and blood vessels strong. It also helps the body take in iron from plant foods. Iron, in dal, palak, bajra, rajma, eggs and meat, goes into the blood to carry oxygen. Calcium, in milk, curd, ragi, til and green leaves, makes bones hard. Iodine, in iodised salt and sea fish, helps the body grow and the brain develop. Vitamin D is made in your own skin when sunlight falls on it. Folate, in green leaves, dals and yeast, helps make new blood cells. Many of them were discovered when people fell ill without them.",
+   "description": "You need only a pinch of each vitamin and mineral, but you need them every week. Vitamin C, in amla, guava, lemon and oranges, helps make skin, gums and blood vessels strong. It also helps the body take in iron from plant foods. Iron, in dal, palak, bajra, rajma, eggs and meat, goes into the blood to carry oxygen. Calcium, in milk, curd, ragi, til and green leaves, makes bones hard. Iodine, in iodised salt and sea fish, helps the body grow and the brain develop. Vitamin D is made in your own skin when sunlight falls on it. Folate, in green leaves, dals and yeast, helps make new blood cells. Many of these vitamins and minerals were discovered when people fell ill without them.",
    "examples": [
     "Squeeze lemon on your dal. The vitamin C helps you take in the dal's iron.",
     "Sailors on long voyages used to fall ill with scurvy. In 1747 a ship's doctor, James Lind, showed that oranges and lemons cured it. We now know the cure is vitamin C.",
@@ -340,7 +340,7 @@
   {
    "concept": "A healthy diet and a less healthy diet",
    "status": "debated",
-   "description": "Scientists agree on a lot. Diets with plenty of vegetables, fruits, pulses, whole grains and nuts are linked to good health in many countries. Some diets have lots of added sugar, salt and very processed packet foods, and few vegetables. They are linked to more tooth decay, and over many years to heart illness. But they do not agree on everything. They argue about which fats are best, about eggs, and about why packet foods seem to make people eat more. And very different traditional diets have kept people healthy. No single food makes a diet healthy or unhealthy. It is the pattern over years.",
+   "description": "Scientists agree on a lot. Diets with plenty of vegetables, fruits, pulses, whole grains and nuts are linked to good health in many countries. Some diets have lots of added sugar, salt and very processed packet foods, and few vegetables. Those diets are linked to more tooth decay, and over many years to heart illness. But scientists do not agree on everything. They argue about which fats are best, about eggs, and about why packet foods seem to make people eat more. And very different traditional diets have kept people healthy. No single food makes a diet healthy or unhealthy. What matters is the pattern over years.",
    "examples": [
     "Eating sweets after every meal, every day, gives mouth bacteria a steady supply of sugar. They make acid that eats holes in teeth.",
     "A diet of the same few foods, day after day, can miss a vitamin even when the stomach is always full.",
@@ -366,10 +366,10 @@
   {
    "concept": "Different bodies, different plates",
    "status": "debated",
-   "description": "A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mother, a farmer and an old grandparent need different amounts. Some bodies also digest foods differently. Most people in the world digest milk sugar less well once they grow up. Some get tummy aches from milk. In India, this is more common in the south and east than in the north-west. Some people cannot eat wheat, or peanuts. Families also choose foods because of their beliefs. Some eat no meat, Jain families eat no root vegetables, and some eat no beef or pork. A balanced diet can be built inside all of these. Scientists are now asking a newer question. Why does the same food raise one person's blood sugar a lot, and another's only a little?",
+   "description": "A balanced diet is not one fixed menu. A baby, a growing child, a pregnant mother, a farmer and an old grandparent need different amounts. Some bodies also digest foods differently. Most people in the world digest milk sugar less well once they grow up. Some get tummy aches from milk. In India, this is more common in the south and east than in the north-west. Some people cannot eat wheat, or peanuts. Families also choose foods because of their beliefs. Some eat no meat, Jain families eat no root vegetables, and some eat no beef or pork. All of these people can still eat a balanced diet. Scientists are now asking a newer question. Why does the same food raise one person's blood sugar a lot, and another's only a little?",
    "examples": [
     "A Jain family eats no root vegetables like onion and potato. They can still balance their plate with dals, milk foods, grains, leafy greens and fruit.",
-    "A cousin who gets tummy aches from milk can have curd, which has less milk sugar, or ragi and til for calcium.",
+    "Someone who gets tummy aches from milk can have curd, which has less milk sugar, or ragi and til for calcium.",
     "A grandmother and a growing ten-year-old may eat the same dal, but need different amounts."
    ],
    "perspectives": [
@@ -405,7 +405,7 @@
   },
   {
    "text": "Tens of trillions of microbes live in the human gut, mostly in the large intestine. They digest fibre that we cannot.",
-   "evidence": "Scientists count them by looking at stool samples and reading their genes. In 2016, Ron Sender, Shai Fuchs and Ron Milo estimated about 38 trillion bacteria, roughly as many as the body's own cells."
+   "evidence": "Scientists count them by studying samples of poo and reading the microbes' genes. In 2016, Ron Sender, Shai Fuchs and Ron Milo estimated about 38 trillion bacteria, roughly as many as the body's own cells."
   }
  ],
  "challenging": [
@@ -472,7 +472,7 @@
   {
    "q": "Why can the body make some amino acids but not others?",
    "kind": "deep",
-   "hint": "Our far-back ancestors ate plants and animals that already had them. What happens to a skill you never need to use?"
+   "hint": "Long ago, our ancestors ate plants and animals that already had these amino acids. What happens to a skill you never need to use?"
   },
   {
    "q": "When you breathe out, you breathe out part of your dinner. Where does that breath go next?",
@@ -492,7 +492,7 @@
   {
    "q": "Should we choose our food only for our own health, or also for the animals, the farmers and the Earth?",
    "kind": "big",
-   "hint": "Every plate has a story behind it: soil, water, animals and people's work."
+   "hint": "Every plate of food needed soil, water, animals and people's work."
   },
   {
    "q": "Who decides what a 'healthy' plate looks like, and could they be wrong?",
@@ -535,7 +535,7 @@
    "That summer I found a broken kerosene tin and filled it with earth from the railway side. I begged a pinch of methi seeds from the vegetable woman and pushed them in with my finger. I watered them every morning before the mill whistle.",
    "When the first leaves came, small and round and green, I picked a handful. I washed them at the tap, chopped them as fine as I could, and stirred them into my mother's dal."
   ],
-  "epiphany": "For the parent: the turn is the doctor's sentence, 'Enough food is not the same as the right food.' Sakhu's stomach was full of rice every day, but her diet was not balanced. It was missing a vitamin, later named folate, that the body needs only in tiny amounts to make new blood cells. Kamal's ending joins the two ideas without saying so: the missing thing was in leaves. Whether a family eats a balanced diet often depends on money and work, not on knowing better.",
+  "epiphany": "For the parent: the key moment is the doctor's sentence, 'Enough food is not the same as the right food.' Sakhu's stomach was full of rice every day, but her diet was not balanced. It was missing a vitamin, later named folate, that the body needs only in tiny amounts to make new blood cells. At the end, Kamal grows methi leaves for her mother. The story does not say why, but the missing vitamin is found in leaves. Whether a family eats a balanced diet often depends on money and work, not on knowing better.",
   "ask": [
    "Aai said she was not hungry. Why was she still ill?",
    "What did the doctor mean when she said 'enough food is not the same as the right food'?",
@@ -627,16 +627,16 @@
       "Bone cell: needs 1 calcium",
       "Blood-making cell: needs 1 iron and 1 vitamin C",
       "Eye cell: needs 1 vitamin A and 1 fat",
-      "Gut-lining cell: needs 2 fibre (the microbes turn fibre into their food)",
-      "Water drop: needs 1 water. Without it, the game ends with no cells fed."
+      "Gut-lining cell: needs 2 fibre (gut microbes turn the fibre into food for this cell)",
+      "Water drop: needs 1 water. If it is not ticked at the end, none of your cells count as fed."
      ]
     }
    ],
    "rules": [
     "Each player has a My Body sheet. Shuffle the 24 food cards. Lay 5 face up in a row. This row is the market. Put the rest in a pile, face down.",
     "On your turn, take one card from the market. Tick the boxes it fills on your sheet, then put the card on a discard pile. Fill the market back up to 5 from the pile. When the pile is empty, shuffle the discard pile and turn it face down as the new pile.",
-    "Extra ticks are not kept. If your Brain cell already has their 2 energy, more energy does not count.",
-    "A cell is fed when all their boxes are ticked. Colour them in.",
+    "Extra ticks are not kept. If your Brain cell already has 2 energy, more energy does not count.",
+    "A cell is fed when every box for that cell is ticked. Colour the cell in.",
     "Each player gets 8 turns, like the meals and snacks of one day.",
     "Your body also needs water. Tick the Water drop by taking the buttermilk card, or by using one turn to say 'I drink water' instead of taking a card. If your Water drop is empty at the end, none of your cells count.",
     "With friends or a parent: after 8 turns each, the player with the most fed cells wins. A tie goes to whoever fed the Gut-lining cell. If that is tied too, share the win.",
@@ -654,12 +654,12 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play one practice turn together. Point at the Muscle cell on the sheet and ask which market card would help them.",
-     "say": "The Muscle cell needs 2 protein. Which card in the market would feed them best?",
-     "kid": "Look at the Muscle cell. They need 2 protein. Which card gives protein?",
+     "do": "Play one practice turn together. Point at the Muscle cell on the sheet and ask which market card would help that cell.",
+     "say": "The Muscle cell needs 2 protein. Which card in the market would feed this cell best?",
+     "kid": "Look at the Muscle cell. This cell needs 2 protein. Which card gives protein?",
      "check": {
       "t": "mcq",
-      "q": "The Muscle cell needs 2 protein. Which card feeds them in one go?",
+      "q": "The Muscle cell needs 2 protein. Which card feeds this cell in one go?",
       "options": [
        "Rice",
        "Moong dal",
@@ -676,7 +676,7 @@
      "do": "1. Take turns. 2. On each turn, take one market card, read it out and tick the boxes it fills. Or use the turn to drink water. 3. Refill the market. 4. Each player has 8 turns.",
      "say": "Before you pick, look at which cells are still hungry. A card that gives three different things can be better than one that gives a lot of one thing.",
      "kid": "Take turns. Pick one market card. Tick the boxes it fills. Which cells are still hungry?",
-     "parent": "Good players notice that one-thing cards, like rice, jalebi or ghee, fill only one cell. Mixed cards, like ragi mudde, dal, egg or til laddoo, fill several. The Eye cell is tricky: they need vitamin A and fat. Egg does both at once. Carrot and a spoon of ghee also work, just as carrots cooked in oil give more vitamin A. Don't call jalebi or chips a bad card. They are fine cards that give energy, just not much else.",
+     "parent": "Good players notice that one-thing cards, like rice, jalebi or ghee, fill only one cell. Mixed cards, like ragi mudde, dal, egg or til laddoo, fill several. The Eye cell is tricky, because this cell needs both vitamin A and fat. Egg gives both at once. Carrot and a spoon of ghee also work, just as carrots cooked in oil give more vitamin A. Don't call jalebi or chips a bad card. They are fine cards that give energy, just not much else.",
      "ask": [
       {
        "q": "Why is the Gut-lining cell fed by fibre, when we cannot digest fibre?",
@@ -839,7 +839,7 @@
     }
    ],
    "rules": [
-    "Shuffle the 16 thali cards and put them in a pile, meal side up when turned. You will play 8 cards.",
+    "Shuffle the 16 thali cards and put them in a pile with the meal side facing down. You will play 8 cards.",
     "One player turns over the top card and reads the meal on the front out loud. The answer on the back stays hidden.",
     "Everyone holds up, at the same time, the token for the colour they think is most missing: yellow for go foods, red for grow foods or green for glow foods.",
     "Turn the card over. Everyone whose colour is named on the back scores 1 point.",
@@ -930,7 +930,7 @@
      "t": "mcq",
      "p": "A woman eats rice and thin dal every day and always feels full. Yet she grows pale and ill. Why?",
      "opts": [
-      "Enough food is not the same as the right food. Her meals were missing something her body needed.",
+      "Enough food is not the same as the right food. Her meals are missing something her body needs.",
       "She ate too much rice",
       "Feeling full always means the body is well fed"
      ],
@@ -983,7 +983,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl says, \"Potato is a vegetable. So a plate of rice and potato curry is half vegetables.\" What is the mistake in her thinking?",
+     "p": "Here is an idea: \"Potato is a vegetable. So a plate of rice and potato curry is half vegetables.\" What is the mistake in this thinking?",
      "opts": [
       "Potato is mostly starch, so in the body it acts more like rice than like greens",
       "Potato is not a plant",
@@ -1020,7 +1020,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Paper Window Test. Which food left a see-through spot that stayed?",
+     "p": "In the Paper Window Test, which food left a see-through spot that stayed?",
      "opts": [
       "Peanut",
       "Apple",
@@ -1081,13 +1081,13 @@
       "blood",
       "muscle cell"
      ],
-     "why": "The dal is chewed in the mouth. Acid and enzymes break it down in the stomach. In the small intestine it is cut into tiny pieces called amino acids. These pass into the blood. A muscle cell builds them into their own protein."
+     "why": "The dal is chewed in the mouth. Acid and enzymes break it down in the stomach. In the small intestine it is cut into tiny pieces called amino acids. These pass into the blood. A muscle cell joins them to make new muscle protein."
     },
     {
      "t": "write",
-     "p": "A girl loves dosa and wants to eat only dosa, every meal, every day. Dosa gives energy and some protein. What would her body be short of, and why?",
+     "p": "Suppose you ate only dosa, every meal, every day. Dosa gives energy and some protein. What would your body be short of, and why?",
      "lines": 4,
-     "a": "She would be short of vitamins like vitamin C, minerals like calcium and iron, and fibre, because dosa has very little of these. No single food has every nutrient. So she needs vegetables, fruit, curd or milk too.",
+     "a": "My body would be short of vitamins like vitamin C, minerals like calcium and iron, and fibre, because dosa has very little of these. No single food has every nutrient. So I would need vegetables, fruit, curd or milk too.",
      "why": "A strong answer names at least two missing nutrients and gives the main idea: no single food has everything."
     },
     {
@@ -1142,14 +1142,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Vanishing Blue test, amla also contains other substances, called tannins, that clear the blue. What does this mean for the results?",
+     "p": "In the Vanishing Blue test, vitamin C clears the blue. But amla also has other substances, called tannins, that clear the blue too. What does this mean for the results?",
      "opts": [
       "The drop counts are a good guide to vitamin C, but not an exact measure",
       "The test measures only vitamin C, exactly",
       "The test cannot tell juices apart"
      ],
      "a": 0,
-     "why": "The test clears the blue with vitamin C and with some similar substances. So fewer drops usually points to more vitamin C, but it is a guide, not an exact measure.",
+     "why": "Vitamin C clears the blue, and so do some similar substances. So fewer drops usually means more vitamin C, but it is a guide, not an exact measure.",
      "how": "e2",
      "context": "In the Vanishing Blue test, vitamin C makes a blue iodine and starch liquid turn clear. You count the drops of juice needed."
     },
@@ -1209,15 +1209,15 @@
      "p": "A family in Madurai is arguing about ghee.",
      "views": [
       {
-       "who": "Paati, the grandmother",
+       "who": "The grandmother",
        "says": "Ghee is good food. We have cooked with it for hundreds of years, and it helps the body take in some vitamins."
       },
       {
-       "who": "Dr Revathi, a heart doctor",
+       "who": "A heart doctor",
        "says": "Ghee is mostly saturated fat. Eating a lot of it for many years may raise the risk of heart disease, so use a little."
       },
       {
-       "who": "Kavya, aged 9",
+       "who": "A child, aged 9",
        "says": "No single food is good or bad. It depends on how much you eat, and what else is on your plate."
       }
      ],
@@ -1316,15 +1316,15 @@
      "p": "Trillions of tiny living beings called microbes live in your gut. They eat the fibre you cannot digest. People disagree about whether they are part of you.",
      "views": [
       {
-       "who": "Meera, a scientist who studies microbes",
+       "who": "A scientist who studies microbes",
        "says": "Yes. You cannot stay healthy without them. They feed your gut cells, so you and they are one team."
       },
       {
-       "who": "Dr Anjali, a doctor",
+       "who": "A doctor",
        "says": "No. They have their own genes and their own lives, and some kinds can make you ill."
       },
       {
-       "who": "Nila, aged 9",
+       "who": "A child, aged 9",
        "says": "They are like guests in a house. They live in me, but they are not me."
       }
      ],
@@ -1466,7 +1466,7 @@
    "days": 1,
    "question": "Which of our everyday foods carry fat, and which carry a lot?",
    "predict": "Before you start, guess. Which foods will leave a see-through spot on the paper? Which will leave nothing? Write your guess next to each food, and say why you think so.",
-   "fair_test": "To make it fair, change only the food. Use the same paper, squares of the same size, a piece of food about the size of your thumbnail, and rub each one for the same time, 10 rubs. Oil and water are tested too, so you can see what a fat spot and a water spot look like.",
+   "fair_test": "To make it fair, change only the food. Use the same paper, cut into squares of the same size. Use a piece of each food about the size of your thumbnail. Rub each one the same number of times, 10 rubs. Oil and water are tested too, so you can see what a fat spot and a water spot look like.",
    "results_table": [
     "Food",
     "My guess: fat or no fat?",
@@ -1495,7 +1495,7 @@
     {
      "day": 1,
      "mins": 28,
-     "what": "Guess, rub each food on its own square, wait 15 minutes, then hold each square up to the light and record the spots. Tell what you think, saw and why."
+     "what": "Guess, rub each food on its own square, wait 15 minutes, then hold each square up to the light and record the spots. Then say what you think, what you saw and why it matters."
     }
    ],
    "record": "Fill in the table. Then draw a bar for each food, as tall as its spot: 0 for none, 1 for small, 2 for medium, 3 for big.",
@@ -1591,7 +1591,7 @@
        "The food is sweet"
       ],
       "a": 0,
-      "why": "Water dries into the air, so its spot disappears. Fat does not dry, so its window stays. A spot that is still there after 15 minutes means fat. Picking 'water' usually means looking too soon, before the water has dried."
+      "why": "Water dries into the air, so its spot disappears. Fat does not dry, so its see-through spot stays. A spot that is still there after 15 minutes means fat. Picking 'water' usually means looking too soon, before the water has dried."
      }
     },
     {
@@ -1599,7 +1599,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why it matters.",
      "say": "Now tell me three things. What do you think now? What did you see? And why does the body need foods like these?",
-     "kid": "Now say three things. What I think. What I saw. Why it matters.",
+     "kid": "Now say three things: what you think, what you saw, and why it matters.",
      "parent": "A good answer sounds like this. What I think: peanuts, coconut and paneer carry fat, and apple and plain chapati carry almost none. What I saw: big see-through spots for peanut and coconut, and no spot for apple. Why: fat builds the thin skin around every cell and helps us take in vitamin A from carrots and palak. So a little fat is part of a balanced diet. Do not let the talk turn into 'fat is bad'. Peanuts and coconut are nourishing foods."
     }
    ],
@@ -1735,7 +1735,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the Vanishing Blue test. You use a blue liquid made with iodine and starch. Vitamin C makes the blue disappear, so you can count which juice has the most."
+     "context": "This is the first step of the Vanishing Blue test. You use a blue liquid made with iodine and starch. Vitamin C makes the blue disappear. By counting drops, you find which juice has the most."
     },
     {
      "id": "s2",
@@ -1750,9 +1750,9 @@
      "id": "s3",
      "mins": 15,
      "do": "1. Add amla juice to the first bowl, one drop at a time. 2. Swirl after every drop and count. 3. Stop when the blue has gone, and write the number. 4. Rinse the dropper. 5. Do the same for each juice, and for water.",
-     "say": "One drop, swirl, look. One drop, swirl, look. Stop the moment the blue is gone.",
+     "say": "Add one drop, swirl the bowl and look. Do the same again, counting each drop. Stop the moment the blue is gone.",
      "kid": "Add one drop. Swirl. Look. Count each drop. Stop when the blue is gone.",
-     "parent": "Amla usually clears the blue in just a few drops. Guava is usually next. Lemon and mosambi need many more drops, often about the same number. Packet drinks often need many drops, unless vitamin C has been added, which is a real result too. Read the packet to check. Water never clears it. Stop any juice at 40 drops and write '40 or more'. Orange-coloured juices tint the liquid, so look for the blue going, not for it turning clear. Amla also has other substances, called tannins, that clear the blue too. So the test measures vitamin C together with some similar substances, not vitamin C alone.",
+     "parent": "Amla usually clears the blue in just a few drops. Guava is usually next. Lemon and mosambi need many more drops, often about the same number. Packet drinks often need many drops. If vitamin C has been added to the drink, it will need fewer, and that is a real result too. Read the packet to check. Water never clears the blue. Stop any juice at 40 drops and write '40 or more'. Orange-coloured juices tint the liquid, so look for the blue going, not for the liquid turning clear. Amla also has other substances, called tannins, that clear the blue too. So the test measures vitamin C together with some similar substances, not vitamin C alone.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: drops of juice needed to clear the blue",
@@ -1808,14 +1808,14 @@
      "id": "s4",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "What do you think now? What did you see? Why do you think amla is so good at this?",
-     "kid": "Now say three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: amla has the most vitamin C, and the packet drink had very little. What I saw: amla cleared the blue in 3 drops, lemon in 18, and the packet drink was still blue at 40. Why: vitamin C reacts with the iodine and takes away its blue. So the fewer drops, the more vitamin C. Extra: vitamin C is also lost when food is boiled a long time or cut and left open. Try a squeezed lemon juice left out overnight, if you are curious. The change may be small."
+     "say": "What do you think now? What did you see? Why do you think amla cleared the blue so fast?",
+     "kid": "Now say three things: what you think, what you saw, and why you think it happened.",
+     "parent": "A good answer sounds like this. What I think: amla has the most vitamin C, and the packet drink had very little. What I saw: amla cleared the blue in 3 drops, lemon in 18, and the packet drink was still blue at 40. Why: vitamin C reacts with the iodine and takes away its blue. So the fewer drops, the more vitamin C. Extra: vitamin C is also lost when food is boiled a long time or cut and left open. If you are curious, test lemon juice that was squeezed and left out overnight. The change may be small."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Talk about the iron partners. Squeeze lemon on a bowl of dal at the next meal, or eat a guava with your lunch.",
+     "do": "Talk about how vitamin C helps the body take in iron. Squeeze lemon on a bowl of dal at the next meal, or eat a guava with your lunch.",
      "say": "Vitamin C has another job. It helps your body take in the iron from dal, palak and bajra. So the old habit of squeezing lemon on dal also helps your body.",
      "kid": "Vitamin C helps your body take iron from dal. Squeeze lemon on your dal at dinner.",
      "think": "Old recipes put lemon on dal and amla in chutney, long before anyone knew about vitamins. Why do you think these habits lasted?"
@@ -1881,12 +1881,12 @@
    "title": "Balloon Bellies: what do microbes like to eat?",
    "mins": 61,
    "days": 1,
-   "question": "Do tiny living things make more gas when they are fed sugar, flour or nothing at all?",
+   "question": "Does yeast, a tiny living fungus, make more gas when fed sugar, atta or nothing at all?",
    "predict": "Before you start, guess. Which balloon will grow biggest: the sugar bottle, the atta bottle or the plain water bottle? Will any stay flat? Why do you think so?",
-   "fair_test": "To make it fair, change only the food. Every bottle gets the same yeast, 2 teaspoons, the same warm water, 150 millilitres, and sits in the same place for the same time. The plain water bottle has no food, so you can see what happens without any.",
+   "fair_test": "To make it fair, change only the food. Every bottle gets the same amount of yeast (2 teaspoons) and the same amount of warm water (150 millilitres). All the bottles sit in the same place for the same time. The plain water bottle has no food, so you can see what happens without any.",
    "results_table": [
     "Bottle",
-    "Balloon round after 15 minutes (cm)",
+    "Distance round the balloon after 15 minutes (cm)",
     "After 30 minutes (cm)",
     "After 45 minutes (cm)"
    ],
@@ -1925,13 +1925,13 @@
      "what": "Set up three bottles of yeast with sugar, atta or nothing. Measure the balloons every 15 minutes for 45 minutes. Then talk about what you saw."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each bottle, as tall as its balloon was round after 45 minutes.",
+   "record": "Fill in the table. Then draw a bar for each bottle, as tall as the distance round its balloon after 45 minutes.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Show your child the yeast. 2. Explain that each grain holds a great many tiny living fungi, resting until they get water, warmth and food. 3. Ask them to guess which food the yeast will like best.",
-     "say": "Yeast is a living thing, a tiny fungus. Each grain holds a great many of them, resting. When they eat, they make a gas. Your gut microbes do the same thing with the fibre you cannot digest. Which food will these ones like best?",
+     "say": "Yeast is a living thing, a tiny fungus. Each grain holds a great many of them, resting. When they eat, they make a gas. Your gut microbes do the same thing with the fibre you cannot digest. Which food will the yeast like best?",
      "kid": "Yeast is alive. Each grain holds a great many tiny fungi, resting. When they eat, they make gas. Which food will they like best?",
      "context": "This is the first step of Balloon Bellies. You feed yeast, a tiny living fungus, three different foods and watch balloons fill with the gas they make. It is a model of how gut microbes eat."
     },
@@ -1947,16 +1947,16 @@
     {
      "id": "s3",
      "mins": 45,
-     "do": "1. Put the bottles in a warm spot, out of the fan. 2. Every 15 minutes, wrap a string round the fattest part of each balloon, then measure the string on a ruler. 3. Write the numbers. 4. In between, play Cell Delivery or read the story.",
+     "do": "1. Put the bottles in a warm spot, away from the fan. 2. Every 15 minutes, wrap a string round the fattest part of each balloon, then measure the string on a ruler. 3. Write the numbers. 4. In between, play Cell Delivery or read the story.",
      "say": "Let's measure each balloon with the string. Which one is growing fastest?",
      "kid": "Every 15 minutes, measure each balloon with a string. Write down the numbers.",
      "wait": "Check every 15 minutes, three times.",
-     "parent": "The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because enzymes in the flour must first cut its starch into sugar for the yeast. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. Sometimes nothing happens at all after 20 minutes. Then the water was too hot or too cold, or the yeast was old. Test the yeast: a spoonful in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.",
+     "parent": "The sugar balloon usually starts to stand up within 15 to 20 minutes, and fills more by 45. The atta balloon grows slowly, because enzymes in the flour must first cut its starch into sugar for the yeast. The water balloon stays almost flat. If the balloons are still small at 45 minutes, keep going to 60 minutes. If nothing at all has happened after 20 minutes, the water was too hot or too cold, or the yeast was old. Test the yeast: a spoonful in warm sugar water should froth within 10 minutes. In cold months, stand the bottles in a bowl of warm water.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: how round each balloon was after 45 minutes",
       "x": "Bottle",
-      "y": "Balloon round (cm)",
+      "y": "Distance round the balloon (cm)",
       "note": "These numbers are made up. Measure round the fattest part of each balloon with a string, then hold the string against a ruler.",
       "data": [
        {
@@ -1985,7 +1985,7 @@
        "Sugar makes gas without the yeast"
       ],
       "a": 0,
-      "why": "Every bottle had the same yeast and the same warm water. Only the food was different. So the gas came from the yeast eating the food. Picking 'balloons grow by themselves' misses the water bottle, which was warm too and stayed flat. To check the last idea, you could try sugar and warm water with no yeast."
+      "why": "Every bottle had the same yeast and the same warm water. Only the food was different. So the gas came from the yeast eating the food. Picking 'balloons grow by themselves' misses the water bottle, which was warm too and stayed flat. To check whether sugar makes gas without the yeast, you could try sugar and warm water with no yeast."
      }
     },
     {
@@ -1993,7 +1993,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why. Then talk about how the yeast is like, and unlike, gut microbes.",
      "say": "What do you think now? What did you see? Why? Now, your gut microbes are not yeast. They are mostly bacteria. But they also eat and make gas. What do they eat?",
-     "kid": "Now say three things. What I think. What I saw. Why. What do your gut microbes eat?",
+     "kid": "Now say three things: what you think, what you saw, and why. Then say what your gut microbes eat.",
      "parent": "A good answer sounds like this. What I think: yeast makes gas when they eat, and they like sugar best. What I saw: the sugar balloon was 28 centimetres round after 45 minutes, atta 13 and water about 1. Why: the yeast ate the food and gave off carbon dioxide gas. Our gut microbes eat fibre from dal, poriyal and fruit. They also make gas, and acids that feed our gut cells. A model is never exactly the real thing. Yeast is a fungus, and most gut microbes are bacteria."
     }
    ],
@@ -2002,7 +2002,7 @@
     "type": "bar",
     "title": "Made-up example: how round each balloon was after 45 minutes",
     "x": "Bottle",
-    "y": "Balloon round (cm)",
+    "y": "Distance round the balloon (cm)",
     "note": "These numbers are made up. Measure round the fattest part of each balloon with a string, then hold the string against a ruler.",
     "data": [
      {
@@ -2069,7 +2069,7 @@
      "do": "1. Ask your child to tell you everything they ate and drank yesterday, from waking up to bedtime. 2. Write it as a list, one food per line. 3. Include drinks, snacks and anything nibbled.",
      "say": "Let's be food detectives. Tell me everything you ate and drank yesterday. Start from the moment you woke up.",
      "kid": "What did you eat and drink yesterday? Start from when you woke up. Write one food on each line.",
-     "parent": "Include water, milk, tea, biscuits and fruit. Children often forget snacks and drinks. Do not comment on any food. This is noticing, not marking.",
+     "parent": "Include water, milk, tea, biscuits and fruit. Children often forget snacks and drinks. Do not comment on any food. The aim is to notice, not to judge.",
      "context": "This is the first step of Yesterday's Plate. You list your food from yesterday and sort it by the job each food does in your body."
     },
     {
@@ -2094,9 +2094,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Count the dots of each colour. 2. Ask: what do you notice, and what do you wonder? 3. Write one sentence of each.",
+     "do": "1. Count the dots of each colour. 2. Ask: what do you notice, and what do you wonder? 3. Write one sentence for each.",
      "say": "Count each colour. What do you notice? Is there a colour with lots of dots, or one with very few? What do you wonder about that?",
-     "kid": "Count each colour. What do you notice? What do you wonder? Say one of each.",
+     "kid": "Count each colour. What do you notice? What do you wonder? Say one thing you notice and one thing you wonder.",
      "ask": [
       {
        "q": "What do you notice about your colours?",
@@ -2230,7 +2230,7 @@
      "mins": 4,
      "do": "1. Eat the meal. 2. Afterwards, ask your child to say three short sentences. First, what I think. Second, what I saw. Third, why.",
      "say": "After we eat, tell me three things. What do you think about our plate? What was on it? Why does the body need all three colours?",
-     "kid": "After eating, say three things. What I think. What I saw on my plate. Why my body needs every colour.",
+     "kid": "After eating, say three things: what you think, what you saw on your plate, and why your body needs every colour.",
      "parent": "A good answer sounds like this. What I think: our lunch was balanced. What I saw: bhindi and salad for green, rice for yellow, dal and curd for red, and water. Why: energy foods give fuel, grow foods build my body, and glow foods help everything work. Balance over the whole day matters more than any one plate."
     }
    ],
@@ -2287,7 +2287,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Make one long chain of 10 clips of the same colour. This is starch from chapati. 2. Make a chain of 12 clips in mixed colours. This is protein from dal.",
-     "say": "Starch is a long chain of glucose, all the same kind of piece. Protein is a chain of amino acids, in many kinds. Here they are as paper clips.",
+     "say": "Starch is a long chain of glucose, all the same kind of piece. Protein is a chain of amino acids of many kinds. Here they are as paper clips.",
      "kid": "Make a long chain of same-colour clips. That is starch from chapati. Make a mixed-colour chain. That is protein from dal.",
      "context": "This is the first step of the Paper-Clip Journey. Paper-clip chains stand for food. You find out why food must be cut into tiny pieces before your body can use it."
     },
@@ -2323,7 +2323,7 @@
      "mins": 5,
      "do": "1. On the blood side, take the single clips to the cell bowls. 2. In the Muscle cell bowl, join the mixed clips into a new chain in a new order. 3. Put the same-colour clips in the Brain cell bowl, where they are burned for energy.",
      "say": "Your muscle cells take the amino acids and join them in a new order, to make your own muscle protein. Your brain cells burn the glucose for energy.",
-     "kid": "Take the clips to the cells. Join the mixed clips in a new order. That is new muscle. Put the plain clips in the brain bowl.",
+     "kid": "Take the clips to the cells. Join the mixed clips in a new order. That is new muscle. Put the same-colour clips in the Brain cell bowl.",
      "check": {
       "t": "mcq",
       "q": "The protein from dal is cut up and rebuilt in your muscle. Whose protein is it now?",
@@ -2427,7 +2427,7 @@
      "do": "1. Spoon that many level teaspoons of sugar onto a saucer in front of each packet. 2. Put the whole fruit at the end.",
      "say": "Let's see what that sugar looks like. Count the spoons out loud as you go.",
      "kid": "Spoon out the sugar for each packet. Count out loud. Put the fruit at the end.",
-     "parent": "Fruit has natural sugar too. But it is locked inside fibre and water, so it reaches the blood slowly. And few people eat four oranges at once. The World Health Organization advises keeping added sugar under a tenth of our food energy, and lower is better. For a child, a tenth is roughly 10 teaspoons in a whole day, and half of that is even better. These are sometimes drinks, not forbidden ones."
+     "parent": "Fruit has natural sugar too. But it is locked inside fibre and water, so it reaches the blood slowly. And few people eat four oranges at once. The World Health Organization advises keeping added sugar under a tenth of our food energy, and lower is better. For a child, a tenth is roughly 10 teaspoons in a whole day, and half of that is even better. Sugary drinks are for sometimes. They are not forbidden."
     },
     {
      "id": "s4",
@@ -2731,12 +2731,12 @@
    "id": "c1",
    "title": "The Tiffin Week Challenge",
    "mins": 30,
-   "problem": "Plan five school tiffins for one week. Each one must be balanced, with go, grow and glow foods. It must survive until lunch without a fridge, and not get soggy. You must be able to help make it in 15 minutes in the morning.",
+   "problem": "Plan five school tiffins for one week. Each one must be balanced, with go, grow and glow foods. It must stay good until lunch without a fridge, and not get soggy. You must be able to help make it in 15 minutes in the morning.",
    "constraints": [
-    "No fridge between morning and lunch, and Indian summer heat.",
+    "The tiffin has no fridge between morning and lunch, in Indian summer heat.",
     "Your family's usual budget, with no special shopping.",
     "Made in 15 minutes, with you helping.",
-    "Something you will happily eat. No point in a tiffin that comes home full."
+    "Something you will happily eat. There is no point in a tiffin that comes home full."
    ],
    "materials": [
     "paper and pencil",
@@ -3055,7 +3055,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl eats white bread and no vegetables or fruit for a whole week. What happens to her gut microbes?",
+   "p": "Suppose you eat white bread and no vegetables or fruit for a whole week. What happens to your gut microbes?",
    "opts": [
     "Many of them go hungry, because they get very little fibre",
     "They grow more, because bread has sugar",
@@ -3110,7 +3110,7 @@
    "art": "The side of a juice box with a small black-and-white table of numbers."
   },
   {
-   "text": "A poriyal cart in the morning, piled with leaves, gourds and seasonal fruit.",
+   "text": "A vegetable cart in the morning, piled with leaves, gourds and seasonal fruit.",
    "art": "A wooden cart piled with methi, palak, bottle gourd, tomatoes and guavas, and a woman weighing them on a hand scale."
   },
   {
@@ -3153,7 +3153,7 @@
   }
  ],
  "ask_kids": [
-  "Which colours are on your plate right now: go, grow and glow?",
+  "Which kinds of food are on your plate right now: go, grow or glow?",
   "Where will this chapati be tomorrow morning?",
   "Can you feel the warmth of your breath? Which meal is that from?",
   "What do you think your gut microbes are eating right now?",
@@ -3162,7 +3162,7 @@
   "Is anything on this plate made from a seed? A leaf? A root?",
   "How hungry are you, from 1 to 5?",
   "Who grew this food, and who cooked it?",
-  "If a cell could talk, what would your bone cells ask you for today?",
+  "If your bone cells could talk, what would they ask you for today?",
   "Why do you think the dal has lemon squeezed on it?"
  ],
  "jokes": [
@@ -3288,7 +3288,7 @@
    "why_maths": "A pictograph with a key shows a week of counting at a glance, without drawing every single plant."
   },
   {
-   "problem": "In the Vanishing Blue test, amla cleared the blue in 3 drops. Lemon needed 18 drops. About how many times more vitamin C is in a drop of amla than a drop of lemon?",
+   "problem": "In the Vanishing Blue test, amla cleared the blue in 3 drops. Lemon needed 18 drops. About how many times as much vitamin C is in a drop of amla as in a drop of lemon?",
    "answer": "About 6 times as much.",
    "explain": "The same amount of blue needs the same amount of vitamin C. Amla did it in 3 drops and lemon in 18. 18 divided by 3 is 6. So one drop of amla carries about as much vitamin C as 6 drops of lemon.",
    "math_unit": "math.division.division-facts.L3",
@@ -3496,7 +3496,7 @@
    "a": "Iron."
   },
   {
-   "q": "Which fruit cleared the blue fastest in the vitamin C test?",
+   "q": "In the Vanishing Blue test, which fruit juice cleared the blue in the fewest drops?",
    "a": "Usually amla."
   },
   {
@@ -3508,7 +3508,7 @@
    "a": "Its vitamin C helps your body take in the dal's iron."
   },
   {
-   "q": "Where does most of the food you burn go?",
+   "q": "When your body burns food for energy, where does most of that food go?",
    "a": "Out in your breath, as carbon dioxide."
   },
   {
@@ -3610,14 +3610,14 @@
  "roots": {
   "context": "We have been learning what happens to food inside us, and why the body needs so many kinds. Now we ask what a balanced diet tells us about food, about ourselves and about the world.",
   "deep_truth": {
-   "truth": "On your paper, the oil spot stayed while the water spot dried. In the tumbler, oil floated on the water and would not mix. Because fat does not mix with water, your body uses it to build the thin skin around every cell. So some of the fat you eat becomes the skin of your cells.",
+   "truth": "In the Paper Window Test, the oil spot stayed on the paper while the water spot dried. In the tumbler of water, the drops of oil floated and would not mix. Because fat does not mix with water, your body uses it to build the thin skin around every cell. So some of the fat you eat becomes the skin of your cells.",
    "habit": "We think of food as fuel, like petrol for a scooter, and of fat as something to avoid. But a scooter is not built from its petrol, and you are built from your food, fat included.",
    "evidence": "In the Paper Window Test, the water spot dried away, while oil, peanut and coconut left see-through spots that stayed. Two drops of oil in a tumbler of water floated and did not mix. Every cell membrane is made largely of fats that line up in two layers, because they do not mix with water."
   },
   "three": {
    "who_am_i": "Your muscles are built from amino acids that came from many foods. Some came from the rice and some from the dal.",
    "what_is_life": "A living body is always rebuilding itself. The lining of your gut is made new every few days, from the food you eat.",
-   "what_is_this_world": "The world comes into you at every meal, as soil, sunlight, rain, plants, animals and other people's work."
+   "what_is_this_world": "Every meal took soil, sunlight, rain, plants, animals and other people's work to make. When you eat, a little of all that becomes part of you."
   },
   "thread": "Food does not stay food inside you. The fat in a peanut becomes the skin of your cells. The amino acids in dal become your muscle, and the calcium in ragi becomes your bone. So you are built, piece by piece, from many different foods, and each kind builds a different part. That is why one food, however good, can never be enough.",
   "teachings": [

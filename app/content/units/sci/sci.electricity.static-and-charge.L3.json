@@ -125,7 +125,7 @@
    "concept": "Everything is full of charge",
    "status": "defined",
    "definition": "Every atom has a centre with plus charges, called protons, and minus charges around it, called electrons. In most things, there are exactly as many of each, so the charges cancel.",
-   "description": "You, the balloon, the wall and the air are all made of atoms. Every atom holds plus charge in its centre and minus charge in its electrons. So a balloon straight from the packet is packed with charge. But it holds exactly as much plus as minus. The pushes and pulls cancel out, so it does nothing. We call it neutral. Things only start to push and pull when the balance is upset, when one thing has a few more electrons than it should, or a few fewer.",
+   "description": "You, the balloon, the wall and the air are all made of atoms. Every atom holds plus charge in its centre and minus charge in its electrons. So a balloon straight from the packet is packed with charge. But it holds exactly as much plus as minus. The pushes and pulls cancel out, so it does nothing. We call it neutral. Things only start to push and pull when the balance is upset. That happens when one thing has a few more electrons than it should, or a few fewer.",
    "examples": [
     "A new balloon is neutral. Hold it over paper bits, and none jump.",
     "A single grain of salt holds more electrons than there are people on Earth, and as many protons, so it is neutral.",
@@ -167,7 +167,7 @@
    "concept": "Why a charged balloon attracts things with no charge",
    "status": "defined",
    "definition": "A charged thing attracts a neutral thing by pushing or pulling the charges inside it a tiny way, so the near side gets the opposite charge.",
-   "description": "A paper bit is neutral. So why does it jump up to a rubbed balloon? The balloon's extra minus charge pushes the electrons in the paper a tiny way back. Now the side of the paper nearest the balloon has a little more plus charge, and the far side a little more minus. The near side is pulled, and the far side is pushed. But the near side is closer, so its pull is stronger. The paper is pulled up overall. A wall, a stream of water and an empty can are attracted in the same way. The thing must be light, because the force is small. A paper bit jumps, but a book does not move.",
+   "description": "A paper bit is neutral. So why does it jump up to a rubbed balloon? The balloon's extra minus charge pushes the electrons in the paper a tiny way towards the far side. Now the side of the paper nearest the balloon has a little more plus charge, and the far side a little more minus. The near side is pulled, and the far side is pushed. But the near side is closer, so its pull is stronger. The paper is pulled up overall. A wall, a stream of water and an empty can are attracted in the same way. The thing must be light, because the force is small. A paper bit jumps, but a book does not move.",
    "examples": [
     "A rubbed balloon sticks to a painted wall.",
     "A rubbed comb bends a thin stream of tap water.",
@@ -344,10 +344,10 @@
   {
    "q": "Rubbing moved electrons from your hair to the balloon. How did the electrons know which way to go?",
    "kind": "deep",
-   "hint": "Think about which materials grab electrons and which let them go. What happened when you rubbed a balloon with another balloon?"
+   "hint": "Think about which materials grab electrons and which let them go. In the Rubbing Test, what happened when you rubbed a balloon with another balloon?"
   },
   {
-   "q": "Why does the electric force hide so well, when it can lift your hair against the pull of the whole Earth?",
+   "q": "The electric force can lift your hair against the pull of the whole Earth. So why do we hardly ever notice it?",
    "kind": "deep",
    "hint": "Think about how much plus and minus charge there is in everything, and how exactly they cancel."
   },
@@ -359,7 +359,7 @@
   {
    "q": "People once thought lightning was thrown by gods. Today we know it is a spark. Does knowing how it works make lightning less wonderful, or more?",
    "kind": "big",
-   "hint": "Think about how you felt when your own sweater crackled in the dark."
+   "hint": "In Sparks in the Dark, a sweater crackled in the dark room. Think about how you felt when you saw and heard it."
   },
   {
    "q": "Every atom in you holds plus and minus in balance. Are you, too, a kind of balance?",
@@ -407,7 +407,7 @@
   ],
   "epiphany": "For the parent: rubbing two different materials moves electrons from one to the other. The wool and the shirt rub as the sweater comes off, so they get opposite charges. When enough charge builds up, it jumps across the air as a tiny spark, which glows and crackles. Lightning is the same kind of spark on a giant scale. Revathi's test also shows two things a scientist does: she tested the balloon first with no rubbing, and she took the old charge off before each new cloth, so the test was fair.",
   "ask": [
-   "Why did Revathi know the sparks were not coming from the wiring?",
+   "How did Revathi know the sparks were not coming from the wiring?",
    "Why did she hold the balloon over the paper first, before rubbing it?",
    "Why did she pat the balloon with a damp hand before rubbing it on the towel?",
    "Which worked better, the wool or the cotton? What does that tell you about wool?",
@@ -494,7 +494,7 @@
     "Turn over the top two cards, side by side.",
     "The first player to say 'attract', 'repel' or 'nothing' correctly wins both cards.",
     "If someone says the wrong answer, the other players can win the pair by saying why it is wrong.",
-    "If one of the two cards is SPARK!, the first player to explain how a spark happens wins both cards. (Charge builds up, then jumps across the air with a flash and a crackle.) If both are SPARK!, the same.",
+    "If one of the two cards is SPARK!, the first player to explain how a spark happens wins both cards. (Charge builds up, then jumps across the air with a flash and a crackle.) If both cards are SPARK!, the rule is the same.",
     "There are 30 cards, so there are 15 pairs. When the pile is finished, the player with the most cards wins. If two players tie, they play the pairs again with the cards they won.",
     "Playing alone: turn over two cards, say your answer, and check it on the answer cards. Try to get 12 right in a row."
    ],
@@ -522,7 +522,7 @@
        "They repel"
       ],
       "a": 1,
-      "why": "They attract. The balloon pushes the electrons in the paper a tiny way back, so the near side of the paper has a little plus charge, and that side is pulled up. Picking 'nothing' is a good thought, because the paper has no extra charge. But a charged thing still attracts a neutral one."
+      "why": "They attract. The balloon pushes the electrons in the paper a tiny way towards the far side, so the near side of the paper has a little plus charge, and that side is pulled up. Picking 'nothing' is a good thought, because the paper has no extra charge. But a charged thing still attracts a neutral one."
      }
     },
     {
@@ -682,7 +682,7 @@
    "rules": [
     "Everyone puts a counter on square 1, the paddy field. Take turns to roll the dice and move that many squares.",
     "The STORM squares are 3, 6, 9, 12, 15, 18 and 21. Land on one and another player reads you a storm card.",
-    "Give the safe answer and say why: move ahead 2 squares. Give an unsafe answer: move back 2 squares. (You never land on another STORM square this way, so only one card at a time.)",
+    "Give the safe answer and say why: move ahead 2 squares. Give an unsafe answer: move back 2 squares. (You never land on another STORM square this way, so you answer only one card on each turn.)",
     "Read the safe answer on the back of the card aloud after every answer, so everyone learns it.",
     "The first player to reach square 24, HOME, or pass it wins. If all 16 cards have been used, shuffle them and use them again.",
     "Playing alone: read a card, say your answer, then turn it over to check. Move your counter as if you were two players taking turns, and see how many turns it takes to get home."
@@ -717,7 +717,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "When the car card comes up, or after the game, talk about it.",
+     "do": "When the car card comes up, or after the game, talk about why a closed car is safe in a storm.",
      "say": "A closed car is safe in a storm. Many people think it is because of the rubber tyres. What do you think keeps you safe?",
      "kid": "A car is safe in a storm. Is it the tyres? Or something else?",
      "parent": "The metal body of the car carries the charge round the outside and down to the ground. The tyres are far too thin to stop lightning, which has just crossed kilometres of air."
@@ -743,7 +743,7 @@
    "days": 1,
    "question": "If you rub a balloon with different things, which one gives it the most charge? Does a balloon rubbed with another balloon get charged at all?",
    "predict": "Look at the things you will rub the balloon with: dry hair, a woollen sweater, a cotton towel, a newspaper and a second balloon. Which one will make the most paper bits jump up? Which will make the fewest? Why do you think so?",
-   "fair_test": "Use the same balloon, the same 20 paper bits, the same 10 rubs and the same height every time. Only the thing you rub with changes. Before each new rub, take the old charge off the balloon, and check that it lifts no bits. Do each one twice, because one try can be a fluke.",
+   "fair_test": "Use the same balloon, the same 20 paper bits, the same 10 rubs and the same height every time. Only the thing you rub with changes. Before each new rub, take the old charge off the balloon, and check that it lifts no bits. Do each one twice, because one try can go wrong by chance.",
    "results_table": [
     "Rubbed with",
     "My guess",
@@ -803,8 +803,8 @@
       {
        "q": "Why do you think that one will work best?",
        "good": [
-        "Because the sweater made sparks in the story.",
-        "Because hair stood up to the balloon before."
+        "Because the sweater made sparks in the story, Sparks in Thatha's Sweater.",
+        "Because my hair rose up to the balloon in The Sticky Balloon and the Rising Hair."
        ]
       }
      ],
@@ -816,7 +816,7 @@
      "do": "1. Rub one side of the balloon 10 times on the first thing, firmly, in one direction. 2. Hold the rubbed side 2 cm above the heap for 3 seconds. 3. Count the bits that cling and write the number as Try 1. 4. Pick off the bits. 5. Pat the balloon all over with a damp hand, wait until it is dry (about a minute), and check it lifts no bits. 6. Do the same again for Try 2. 7. Go on to the next thing.",
      "say": "Rub ten times on one side. Hold that side over the paper. Count the bits that stick. Then pat it with a damp hand to take the charge off. We do each thing twice.",
      "kid": "Rub ten times. Hold it over the paper. Count the bits. Pat it with a damp hand. Do each thing twice.",
-     "parent": "Hair, if it is clean, dry and not oiled, and wool usually lift the most bits. Cotton and newspaper usually lift fewer. A balloon rubbed with another balloon usually lifts very few or none, because both are the same material, so neither grabs electrons harder. Results vary from day to day, so a different order is fine, as long as you saw it. If nothing lifts at all, the air is too damp. Try in an AC room, make the bits smaller, or do the water-bending test instead, which works in damper air.",
+     "parent": "Hair, if it is clean, dry and not oiled, and wool usually lift the most bits. Cotton and newspaper usually lift fewer. A balloon rubbed with another balloon usually lifts very few or none, because both are the same material, so neither grabs electrons harder. Results vary from day to day, so a different order is fine, as long as you saw it. If nothing lifts at all, the air is too damp. Try in an AC room, make the bits smaller, or do the Bend the Water experiment instead, which works in damper air.",
      "check": {
       "t": "mcq",
       "q": "Why do we pat the balloon with a damp hand and check it before each new rub?",
@@ -842,7 +842,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: some things give the balloon much more charge than others. What I saw: after wool it lifted 12 bits, after cotton only 3, and after the other balloon none. Why: rubbing moves electrons. Wool lets go of its electrons easily, and the balloon grabs them. Two balloons are the same material, so neither grabs harder.",
      "check": {
       "t": "mcq",
@@ -1018,9 +1018,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask for claim, evidence and reasoning.",
+     "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Now tell me what you think, what you saw, and why you think it happened.",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
      "parent": "A good answer sounds like this. What I think: rubbed plastic can bend water, but rubbed metal cannot. What I saw: the comb and the ruler bent the stream, the unrubbed comb and the spoon did not, and the wet comb stopped working. Why: plastic is an insulator and keeps its charge. Steel and water are conductors, so the charge runs away.",
      "think": "Your body is a conductor. So how can your hair stay charged after rubbing?"
     }
@@ -1121,7 +1121,7 @@
      "do": "1. Rub the balloon on dry hair or wool 10 times. 2. Press it gently against a painted wall and let go. 3. Try a plain balloon, not rubbed, the same way.",
      "say": "Watch this. I rub the balloon and hold it on the wall. Now I let go. What do you notice? What do you wonder?",
      "kid": "Rub the balloon ten times. Hold it on the wall. Let go!",
-     "parent": "On a dry day the rubbed balloon often stays on the wall for many minutes. The plain balloon falls at once. On a damp day it may slide down after a few seconds. That is fine: it still shows the difference.",
+     "parent": "On a dry day the rubbed balloon often stays on the wall for many minutes. The plain balloon falls at once. On a damp day the rubbed balloon may slide down after a few seconds. That is fine: it still shows the difference.",
      "context": "This is a starting activity for static electricity. You stick a rubbed balloon to a wall with nothing but its charge."
     },
     {
@@ -1238,8 +1238,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Compare the tassel with rubbed hair.",
-     "say": "Remember your hair after the balloon? How is it like this tassel?",
-     "kid": "How is this tassel like your hair after the balloon?",
+     "say": "In The Sticky Balloon and the Rising Hair, your hairs spread apart after you rubbed them with the balloon. How is that like this tassel?",
+     "kid": "Your hairs spread apart after you rubbed them with a balloon. How is this tassel like that?",
      "parent": "Rubbed hairs each have the same plus charge, so they spread apart, just like the strips."
     }
    ],
@@ -1315,7 +1315,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about bees.",
+     "do": "Talk about how bees pick up pollen.",
      "say": "A bee needs pollen from flowers. A flying bee picks up a plus charge, and a flower has a small minus charge. What might happen to the pollen when a bee comes close?",
      "kid": "A bee has charge, like your balloon. What happens to the pollen?",
      "parent": "Pollen grains jump across a small gap onto a charged bee, in the same way as the pepper. This helps the bee carry pollen, and helps plants spread their pollen to other flowers."
@@ -1403,7 +1403,7 @@
        "Air coming out of the wool"
       ],
       "a": 1,
-      "why": "Rubbing gives the sweater and your shirt opposite charges. When enough builds up, charge jumps across the air in a tiny spark. The spark heats the air, which snaps outwards. That is a tiny thunder. Picking 'wool tearing' is a good guess, but the sweater is not damaged afterwards."
+      "why": "Rubbing gives the sweater and your shirt opposite charges. When enough charge builds up, it jumps across the air in a tiny spark. The spark heats the air, which snaps outwards. That is a tiny thunder. Picking 'wool tearing' is a good guess, but the sweater is not damaged afterwards."
      }
     }
    ],
@@ -1595,12 +1595,12 @@
      "do": "1. Make a paper sign marked plus in red, and one marked minus in blue, for each person. 2. Everyone starts in the middle of the room as a water drop.",
      "say": "We are all water drops inside a storm cloud. The wind is carrying us up into the cold top of the cloud, where we freeze.",
      "kid": "You are a water drop in a storm cloud. The wind lifts you up!",
-     "context": "This is an act-out of how a storm cloud builds up charge until lightning jumps."
+     "context": "In this activity you act out how a storm cloud builds up charge until lightning jumps."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Half of the players are light ice crystals and half are heavy hail. 2. Players walk about and gently bump elbows. 3. After each bump, ice crystals hold up a plus sign and move to one end of the room, the top. 4. Hail hold up a minus sign and move to the other end, the bottom.",
+     "do": "1. Half of the players are light ice crystals and half are heavy hail. 2. Players walk about and gently bump elbows. 3. After each bump, the ice crystals hold up a plus sign and move to one end of the room, which is the top of the cloud. 4. The hail players hold up a minus sign and move to the other end, which is the bottom of the cloud.",
      "say": "Ice crystals are light. When they bump the hail, they get plus charge and the wind lifts them to the top. Hail is heavy. It gets minus charge and stays near the bottom.",
      "kid": "Bump elbows gently. Ice goes to the top with plus. Hail stays low with minus.",
      "parent": "This is a simple picture of the main idea. Scientists still study exactly how each bump moves the charge.",
@@ -1624,7 +1624,7 @@
      "kid": "Too much charge! Spark! Clap once for the thunder."
     }
    ],
-   "context": "In this act-out you are the ice and hail inside a storm cloud. You find out how the cloud builds up charge until lightning jumps.",
+   "context": "In this activity you act as the ice and hail inside a storm cloud. You find out how the cloud builds up charge until lightning jumps.",
    "setup": [
     {
      "art": "Children in a living room, each holding a small red plus or blue minus sign, gently bumping elbows.",
@@ -1722,7 +1722,7 @@
      "wait": "Day 5: the last test, then draw the chart.",
      "check": {
       "t": "mcq",
-      "q": "Meera, a girl in Class 4, kept a Static Weather Diary. Her balloon lifted 15 bits on a dry day and 3 bits on a rainy day. What is the best reason?",
+      "q": "In a Static Weather Diary, a balloon lifted 15 bits on a dry day and 3 bits on a rainy day. What is the best reason?",
       "options": [
        "The balloon was tired on the rainy day",
        "Damp air lets the charge leak away through a thin layer of water",
@@ -1769,7 +1769,7 @@
     "Rub again whenever the can slows down."
    ],
    "creative": [
-    "Use two balloons, one rubbed while the other pulls, and swap.",
+    "Use two balloons. Rub one while the other pulls the can, then swap them.",
     "Try a rubbed plastic ruler or a big plastic sheet instead of a balloon.",
     "Find the smoothest floor in your home for the race."
    ],
@@ -1825,7 +1825,7 @@
    "id": "c2",
    "title": "Build a Charge Detector",
    "mins": 30,
-   "problem": "Build a detector that shows when something is charged, even when it is too weak to lift paper. Two thin strips of foil inside a jar must spread apart when a charged thing comes near.",
+   "problem": "Build a detector that shows when something is charged, even when the charge is too weak to lift paper. Two thin strips of foil inside a jar must spread apart when a charged thing comes near.",
    "constraints": [
     "The foil strips must be inside a jar, out of the wind.",
     "Use only things from home.",
@@ -1872,7 +1872,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Try the creative ideas and talk about why it works.",
+     "do": "Try the creative ideas and talk about why the detector works.",
      "say": "Why do the two strips push apart? What charge do they both have?",
      "kid": "Why do the two strips push apart?",
      "check": {
@@ -1941,14 +1941,14 @@
   },
   {
    "t": "mcq",
-   "p": "Swathi rubs a balloon on her dry hair. Electrons move from her hair onto the balloon. What charge does her hair have now?",
+   "p": "You rub a balloon on your dry hair. Electrons move from your hair onto the balloon. What charge does your hair have now?",
    "opts": [
     "Extra minus charge",
     "Extra plus charge",
     "No charge"
    ],
    "a": 1,
-   "why": "Her hair has lost some electrons, which are minus, so it is left with extra plus charge. Picking 'minus' mixes up the two: the balloon gained the electrons, so the balloon is the one with extra minus.",
+   "why": "Your hair has lost some electrons, which are minus, so it is left with extra plus charge. Picking 'minus' mixes up the two: the balloon gained the electrons, so the balloon is the one with extra minus.",
    "outcome": 0
   },
   {
@@ -1965,7 +1965,7 @@
   },
   {
    "t": "mcq",
-   "p": "After rubbing with a balloon, Bornali's hair stands up and the strands spread apart. Why do the strands spread apart?",
+   "p": "After you rub your hair with a balloon, your hair stands up and the strands spread apart. Why do the strands spread apart?",
    "opts": [
     "Each strand has the same plus charge, and the same charges repel",
     "The wind blows them",
@@ -1990,7 +1990,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Rubbing Test, Fathima rubbed a balloon with five things. Which result shows that rubbing two of the same material moves hardly any charge?",
+   "p": "In the Rubbing Test, a balloon is rubbed with five things. Which result shows that rubbing two of the same material moves hardly any charge?",
    "opts": [
     "Wool: 12 bits",
     "Cotton: 3 bits",
@@ -2028,14 +2028,14 @@
   },
   {
    "t": "mcq",
-   "p": "Lalitha rubs a steel spoon on wool, holding its handle. It does not bend the water stream. Why?",
+   "p": "You rub a steel spoon on wool, holding its handle. It does not bend the water stream. Why?",
    "opts": [
-    "Steel is a conductor, so the charge runs through the spoon and her body",
+    "Steel is a conductor, so the charge runs through the spoon and your body",
     "The spoon is too shiny",
-    "She did not rub it enough"
+    "You did not rub it enough"
    ],
    "a": 0,
-   "why": "Steel and your body are conductors, so any charge on the spoon runs away through her hand. Plastic is an insulator, so a comb keeps its charge.",
+   "why": "Steel and your body are conductors, so any charge on the spoon runs away through your hand. Plastic is an insulator, so a comb keeps its charge.",
    "outcome": 4,
    "how": "e2"
   },
@@ -2187,7 +2187,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavitha rubs only one side of a balloon on wool. She holds the other side over paper bits. What happens?",
+     "p": "You rub only one side of a balloon on wool. You hold the other side over paper bits. What happens?",
      "opts": [
       "Many bits jump",
       "Few or no bits jump",
@@ -2344,18 +2344,18 @@
     },
     {
      "t": "mcq",
-     "p": "Ranjini rubs a balloon on her hair. The balloon now has 1,000 extra electrons. How many electrons has her hair lost?",
+     "p": "You rub a balloon on your hair. The balloon now has 1,000 extra electrons. How many electrons has your hair lost?",
      "opts": [
       "1,000",
       "500",
       "None"
      ],
      "a": 0,
-     "why": "Rubbing does not make or destroy charge. Every electron the balloon gained came from her hair, so her hair lost exactly 1,000. Real numbers are far bigger, but the rule is the same."
+     "why": "Rubbing does not make or destroy charge. Every electron the balloon gained came from your hair, so your hair lost exactly 1,000. Real numbers are far bigger, but the rule is the same."
     },
     {
      "t": "write",
-     "p": "Arun says, 'Rubbing a balloon makes electricity.' Use what you have seen with rubbed balloons and hair to explain what rubbing really does.",
+     "p": "Some people say, 'Rubbing a balloon makes electricity.' Use what you have seen with rubbed balloons and hair to explain what rubbing really does.",
      "lines": 4,
      "a": "Rubbing does not make charge. It moves electrons from one thing to the other. The balloon gets extra minus charge, and the hair is left with the same amount of plus. My hair rose to the balloon, which shows the hair was charged too.",
      "why": "A strong answer corrects the idea and uses the rising hair as evidence that both things got charged."
@@ -2416,9 +2416,9 @@
     },
     {
      "t": "write",
-     "p": "In the Static Weather Diary, Deepa, a girl in Class 4, finds her balloon lifted 15 bits on Monday and only 2 bits on Thursday. Suggest a reason, and say how she could check it.",
+     "p": "In a Static Weather Diary, a balloon lifted 15 bits on Monday and only 2 bits on Thursday. Suggest a reason, and say how you could check it.",
      "lines": 4,
-     "a": "Thursday was probably a damper day, so the charge leaked away. She could check the humidity in a weather app for each day, or test on a damp day in an AC room to see if the count goes up.",
+     "a": "Thursday was probably a damper day, so the charge leaked away. You could check the humidity in a weather app for each day, or test on a damp day in an AC room to see if the count goes up.",
      "why": "A strong answer gives a reason from the science and a test that could show whether it is right.",
      "how": "p1"
     },
@@ -2534,7 +2534,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ipsita rubs a balloon on a woollen shawl and a second balloon on her hair. She hangs them side by side, and they lean apart. What does this tell her?",
+     "p": "You rub one balloon on a woollen shawl and a second balloon on your hair. You hang them side by side, and they lean apart. What does this tell you?",
      "opts": [
       "Both balloons got the same kind of charge",
       "The balloons got opposite charges",
@@ -2545,7 +2545,7 @@
     },
     {
      "t": "write",
-     "p": "Your hair is a conductor when it is wet, but your hair can stay charged after a balloon. Explain how both can be true.",
+     "p": "Your hair is a conductor when it is wet, but your hair can stay charged after you rub it with a balloon. Explain how both can be true.",
      "lines": 4,
      "a": "Dry hair is a poor conductor, almost an insulator, so the charge stays on it for a while. Wet hair has water on it, and water is a conductor, so wet hair loses its charge quickly. That is why static tricks need dry hair.",
      "why": "A strong answer sees that whether something holds charge depends on whether it is dry."
@@ -2618,7 +2618,7 @@
       "It blows a wind"
      ],
      "a": 0,
-     "why": "The spider lets out silk threads that carry charge. The Earth's electric field pulls on them and helps lift the spider up, so they can drift to a new place. This is called ballooning."
+     "why": "Young spiders let out silk threads that carry charge. The Earth's electric field pulls on the threads and helps lift the spiders up, so they can drift to a new place. This is called ballooning."
     },
     {
      "t": "fill",
@@ -2779,7 +2779,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Rubbing Test, Fathima's balloon lifted these paper bits: dry hair 14, wool 12, newspaper 5, cotton 3, another balloon 0. How many more bits did hair lift than cotton? How many bits were lifted in all?",
+   "problem": "In the Rubbing Test, a balloon lifted these paper bits: dry hair 14, wool 12, newspaper 5, cotton 3, another balloon 0. How many more bits did hair lift than cotton? How many bits were lifted in all?",
    "answer": "Hair lifted 11 more than cotton. 34 bits were lifted in all.",
    "explain": "14 take away 3 is 11. For the total, 14 + 12 = 26, 26 + 5 = 31, 31 + 3 = 34, and 34 + 0 = 34.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2788,7 +2788,7 @@
    "how": "e1",
    "chart": {
     "type": "bar",
-    "title": "Fathima's Rubbing Test",
+    "title": "Rubbing Test results",
     "x": "Rubbed with",
     "y": "Paper bits lifted",
     "data": [
@@ -2821,7 +2821,7 @@
    }
   },
   {
-   "problem": "Sound travels about 1 kilometre in 3 seconds. Gayathri counts 12 seconds between a flash of lightning and the thunder. About how far away was the lightning?",
+   "problem": "Sound travels about 1 kilometre in 3 seconds. You count 12 seconds between a flash of lightning and the thunder. About how far away was the lightning?",
    "answer": "About 4 kilometres.",
    "explain": "Every 3 seconds is about 1 kilometre. 12 divided by 3 is 4. So the lightning was about 4 kilometres away.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2837,7 +2837,7 @@
    "why_maths": "Multiplying shows how common lightning really is, though most of us see it only a few times a year."
   },
   {
-   "problem": "Meera, a girl in Class 4, kept a Static Weather Diary. Her balloon lifted 15, 13, 4, 2 and 14 bits on five days. On two of the days it rained. Which two days were probably the rainy ones? Why?",
+   "problem": "In a Static Weather Diary, a balloon lifted 15, 13, 4, 2 and 14 bits on five days. On two of the days it rained. Which two days were probably the rainy ones? Why?",
    "answer": "Days 3 and 4, with 4 and 2 bits.",
    "explain": "Damp air lets charge leak away, so a rainy day gives a low count. The counts 4 and 2 are much lower than the others, which are all 13 or more.",
    "math_unit": "math.logic.puzzles.L3",
@@ -3036,7 +3036,7 @@
  "roots": {
   "context": "We have rubbed balloons, bent water and learned what lightning is. Now we ask what static electricity tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your hair and the balloon were each full of plus and minus charge, in equal amounts. Rubbing moved only a tiny share of the electrons from your hair to the balloon. Yet that small imbalance lifted your hair against the pull of the whole Earth. So the electric force is huge, and it hides only because charges almost always balance.",
+   "truth": "Your hair and the balloon were each full of plus and minus charge, in equal amounts. Rubbing moved only a tiny share of the electrons from your hair to the balloon. Yet that small imbalance lifted your hair against the pull of the whole Earth. So the electric force is huge. We rarely notice it only because charges almost always balance.",
    "habit": "We think of things as either electric or not electric, and of a plain balloon as having no electricity in it. But every object is packed with charge. What we call 'no charge' is a very exact balance of plus and minus.",
    "evidence": "In the Rubbing Test, the plain balloon lifted no paper at all. After only ten rubs, the same balloon lifted paper bits, and your hair rose up towards it, against gravity."
   },
@@ -3045,7 +3045,7 @@
    "what_is_life": "A bee feels the faint electric field of a flower, and uses it to choose which flower to visit.",
    "what_is_this_world": "The same force that lifts a paper bit builds the lightning in a monsoon storm."
   },
-  "thread": "A plain balloon looks as if nothing is going on inside it. In fact it holds huge amounts of plus and minus charge, which add up to exactly zero. Tip that balance a tiny way, by rubbing, and forces appear at once: hair rises, paper jumps, water bends and sparks crackle. In a storm cloud, the same tipping, on a giant scale, makes lightning. Out of one quiet balance come many different happenings.",
+  "thread": "A plain balloon looks as if nothing is going on inside it. In fact it holds huge amounts of plus and minus charge, which add up to exactly zero. Upset that balance a tiny way, by rubbing, and forces appear at once: hair rises, paper jumps, water bends and sparks crackle. In a storm cloud, the same thing happens on a giant scale, and it makes lightning. All of these come from one balance being upset a little.",
   "teachings": [
    {
     "source": "Tao Te Ching 42",
@@ -3055,7 +3055,7 @@
    {
     "source": "Rig Veda 1.32",
     "teaching": "The hymn tells how Indra struck the serpent Vritra with his thunderbolt, the vajra, and set free the waters held back in the clouds.",
-    "link": "People who wrote this hymn saw that lightning and rain come together. Science agrees that lightning is made in tall rain clouds, by the bumping ice and water that also bring the rain. It explains the link with charge instead of with a god."
+    "link": "The people who wrote this hymn saw that lightning and rain come together. Science agrees that lightning is made in tall rain clouds, by the bumping ice and water that also bring the rain. Science explains the link with charge instead of with a god."
    }
   ],
   "science": [
@@ -3084,7 +3084,7 @@
   },
   "ask": [
    "A plain balloon is full of charge, but does nothing. Is a perfect balance the same as nothing at all?",
-   "Your arm felt the balloon without touching it. Where does your arm end and the balloon's field begin?",
+   "In Feel without touching, your arm felt the balloon although the balloon did not touch it. Where does your arm end and the balloon's field begin?",
    "If the electric force is so strong, why is the world mostly calm and quiet?"
   ],
   "art": "A child on a balcony at dusk holding a balloon just above her bare arm, the fine hairs lifting towards it, and far away over the city a single lightning bolt in a monsoon cloud."
@@ -3096,5 +3096,5 @@
   "when": "1750 (Franklin's proposal) and 10 May 1752 (the sparks at Marly-la-Ville)",
   "wrong_idea": "Many people thought lightning was a different thing from the small sparks of rubbed glass, and that ringing church bells would keep it away. The sparks drawn from the iron rod showed that lightning is electricity, and lightning conductors protected buildings where bells had not."
  },
- "warm": {"words": ["SPARK", "ATOMS", "STORM", "CLOUD", "WATER"], "quiz": [["Rubbing a balloon on hair moves electrons from the hair onto the balloon.", true, "The electrons were already in the hair. Rubbing only moves them, so the balloon gains what the hair loses."], ["A paper bit jumps to a charged balloon only if the paper is charged too.", false, "The paper is neutral. The balloon shifts the charges inside it a tiny way, so the near side is opposite."], ["Two things with the same kind of charge push each other apart.", true, "Same charges repel and opposite charges attract, and the closer they are, the stronger the push or pull."], ["Lightning never strikes the same place twice.", false, "Tall pointed things are struck again and again, such as tall buildings many times a year."], ["Static electricity works badly on a damp day because water lets charge leak away.", true, "Damp air leaves a thin layer of water on things, and the charge escapes through it."], ["The rubber tyres of a car keep you safe from lightning.", false, "Lightning jumps kilometres through air, so rubber cannot stop it. A closed metal car is safe for another reason."], ["Thunder is the sound of air bursting outwards after lightning heats it very fast.", true, "Lightning heats the air in its path so quickly that the air bursts outwards with a bang."], ["Static electricity and the electricity in a wire are two different kinds.", false, "Both are electric charge carried by electrons. Static charge stays still, and in a wire the charge moves."], ["The closer two charges are, the stronger their push or pull.", true, "Electric force gets stronger as charges come nearer and weaker as they move apart."], ["A storm cloud gets its charge because the Sun's light fills it with electricity.", false, "Charge builds up as tiny ice crystals and bits of hail bump into each other inside the cloud."]], "odd": [[["Metal spoon", "Salty water", "Human body", "Dry plastic comb"], "Dry plastic comb", "Metal, salty water and the body let charge move through them, but dry plastic is an insulator that holds charge in place."], [["Plus and minus", "Balloon and neutral paper", "Hair and rubbed balloon", "Two minus charges"], "Two minus charges", "The first three pull towards each other, but two charges of the same kind push apart."], [["Dry winter air", "Dry hair", "Dry plastic comb", "Damp rainy air"], "Damp rainy air", "The first three help charge stay where it is put, but damp air has water that lets charge leak away."], [["Inside a house", "Closed metal-roof car", "Inside a shop", "Under a tall tree"], "Under a tall tree", "The first three shelter you from lightning, but a tall lone tree is often struck and is dangerous."], [["Small spark from a door handle", "Lightning", "Thunder", "Neutral new balloon"], "Neutral new balloon", "The first three come from charge jumping through air and heating it, but a neutral balloon has no extra charge."]]}
+ "warm": {"words": ["SPARK", "ATOMS", "STORM", "CLOUD", "WATER"], "quiz": [["Rubbing a balloon on hair moves electrons from the hair onto the balloon.", true, "The electrons were already in the hair. Rubbing only moves them, so the balloon gains what the hair loses."], ["A paper bit jumps to a charged balloon only if the paper is charged too.", false, "The paper is neutral. The balloon shifts the charges inside it a tiny way, so the near side gets the opposite charge and is pulled."], ["Two things with the same kind of charge push each other apart.", true, "Same charges repel and opposite charges attract, and the closer they are, the stronger the push or pull."], ["Lightning never strikes the same place twice.", false, "Tall, pointed things are struck again and again. Some tall buildings are struck many times a year."], ["Static electricity works badly on a damp day because water lets charge leak away.", true, "Damp air leaves a thin layer of water on things, and the charge escapes through it."], ["The rubber tyres of a car keep you safe from lightning.", false, "Lightning jumps kilometres through air, so rubber cannot stop it. A closed car is safe because its metal body carries the charge around you."], ["Thunder is the sound of air bursting outwards after lightning heats it very fast.", true, "Lightning heats the air in its path so quickly that the air bursts outwards with a bang."], ["Static electricity and the electricity in a wire are two different kinds.", false, "Both are electric charge carried by electrons. Static charge stays still, and in a wire the charge moves."], ["The closer two charges are, the stronger their push or pull.", true, "Electric force gets stronger as charges come nearer and weaker as they move apart."], ["A storm cloud gets its charge because the Sun's light fills it with electricity.", false, "Charge builds up as tiny ice crystals and bits of hail bump into each other inside the cloud."]], "odd": [[["Metal spoon", "Salty water", "Human body", "Dry plastic comb"], "Dry plastic comb", "Metal, salty water and the body let charge move through them, but dry plastic is an insulator that holds charge in place."], [["Plus and minus", "Balloon and neutral paper", "Hair and rubbed balloon", "Two minus charges"], "Two minus charges", "The first three pull towards each other, but two charges of the same kind push apart."], [["Dry winter air", "Dry hair", "Dry plastic comb", "Damp rainy air"], "Damp rainy air", "The first three help charge stay where it is put, but damp air has water that lets charge leak away."], [["Inside a house", "Closed metal-roof car", "Inside a shop", "Under a tall tree"], "Under a tall tree", "The first three shelter you from lightning, but a tall lone tree is often struck and is dangerous."], [["Small spark from a door handle", "Lightning", "Thunder", "Neutral new balloon"], "Neutral new balloon", "The first three come from charge jumping through air and heating it, but a neutral balloon has no extra charge."]]}
 }

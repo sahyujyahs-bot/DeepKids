@@ -35,7 +35,7 @@
   },
   {
    "term": "Conduction",
-   "meaning": "Heat moving through a material, or from one thing into another thing it touches, part by part, with nothing flowing.",
+   "meaning": "Heat moving through a material, passed from each part to the part next to it. Heat also moves this way from one thing into another thing it touches. Nothing flows.",
    "example": "The handle of a steel ladle gets hot by conduction, from the end that sits in the hot sambar.",
    "art": "A zoomed-in drawing of a spoon handle as a row of tiny balls, the ones near the tea shaking hard, the ones further up shaking less."
   },
@@ -70,7 +70,7 @@
    "concept": "Heat moves from hotter to cooler",
    "status": "defined",
    "definition": "Heat moves by itself from a hotter thing to a cooler thing. It keeps moving until both are equally warm.",
-   "description": "Hot tea warms the spoon in it. The spoon never cools the tea down to colder than the room. An ice cube in your hand melts because heat moves from your hand into the ice. Your hand feels cold because it is losing heat. No cold comes out of the ice. Heat never moves by itself from a cooler thing to a hotter one. A fridge can make that happen only because it uses electricity to pump the heat out.",
+   "description": "Hot tea warms the spoon in it, and the tea cools a little. The tea never gets colder than the room. An ice cube in your hand melts because heat moves from your hand into the ice. Your hand feels cold because it is losing heat. No cold comes out of the ice. Heat never moves by itself from a cooler thing to a hotter one. A fridge can make that happen only because it uses electricity to pump the heat out.",
    "examples": [
     "Hot rasam in a steel bowl warms the bowl, and the bowl warms the table under it.",
     "A cold bottle from the fridge gets warmer on the table, because heat moves into it from the warmer room."
@@ -119,10 +119,10 @@
    "art": "A kitchen shelf with a tawa, a pressure cooker and a coconut-shell ladle, each with its metal part coloured red and its handle coloured blue."
   },
   {
-   "context": "This card explains why metals carry heat so well, from inside the atom.",
+   "context": "This card explains why metals carry heat so well. The reason lies in atoms, the tiny particles a metal is made of.",
    "concept": "Why metals are such good conductors",
    "status": "defined",
-   "definition": "In a metal, some tiny particles called electrons are free to move about between the atoms. They carry heat quickly from the hot part to the cool part.",
+   "definition": "A metal is made of tiny particles called atoms. Some even smaller particles, called electrons, are free to move about between the atoms. They carry heat quickly from the hot part to the cool part.",
    "description": "Every atom has electrons on its outside. In wood or plastic, the electrons stay tied to their own atoms. Then heat can only be passed on by atoms nudging their neighbours, which is slow. In a metal, some electrons wander freely through the whole piece. They pick up energy in the hot part and quickly carry it to the cool part. These free electrons are also why metals carry electricity. So the best conductors of electricity, like silver and copper, are also the best conductors of heat.",
    "examples": [
     "Copper carries both heat and electricity very well. It is used in electric wires and in the bottoms of good cooking pots.",
@@ -275,7 +275,7 @@
   {
    "id": "g1",
    "title": "Pass the Heat: a board game along a ladle",
-   "context": "This is a board game for two or more players, or one. Each player is a bit of heat, travelling from the hot sambar up the ladle handle to the cook's hand. Metal cards speed you up, and air, wood and plastic slow you down.",
+   "context": "This is a board game for one or more players. Each player is a bit of heat, travelling from the hot sambar up the ladle handle to the cook's hand. Metal cards speed you up, and air, wood and plastic slow you down.",
    "mins": 20,
    "players": [
     "alone",
@@ -403,7 +403,7 @@
    ],
    "rules": [
     "Put every player's token on square 1, in the sambar. Shuffle the 24 move cards and put them face down. Put the 12 question cards face down too.",
-    "On your turn, take a move card and move your token. Then follow what the square says. Follow only one square per turn.",
+    "On your turn, take a move card and move your token. Then do what the square you land on says. Do this only once in a turn.",
     "Instead of a move card, you may answer a question card. Read the front aloud and let the others check the back. Answer right, and move on 2. Answer wrong, and stay where you are.",
     "If the move cards run out, shuffle the used ones and use them again.",
     "The first player to reach or pass square 20, the cook's hand, wins. Playing alone, try to reach the hand in 12 turns.",
@@ -430,7 +430,7 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "Play the game. When someone lands on an AIR or WOOD square, ask why it slows the heat.",
+     "do": "Play the game. When someone takes a WOOD or AIR card, ask why it slows the heat.",
      "say": "Why does a wood card not move you at all?",
      "kid": "Play. When you get a wood card, say why it stops you.",
      "ask": [
@@ -477,9 +477,9 @@
    "results_table": [
     "Dot",
     "Height above the water (cm)",
-    "My guess: order it falls",
+    "My guess: the order it falls in",
     "Time it fell (minutes and seconds)",
-    "Wait since the dot before"
+    "Time since the dot before fell"
    ],
    "materials": [
     {
@@ -632,7 +632,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see? And why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A strong answer sounds like this. What I think: heat travels up the steel slowly, near parts first. What I saw: the 2 cm peppercorn fell first, then the 4 cm one, and the 8 cm one never fell. Why: each part of the ladle has to warm up before it passes heat on, and some heat goes into the air."
     }
    ]
@@ -645,7 +645,7 @@
    "days": 1,
    "question": "Does heat move along a steel spoon as fast when the spoon lies flat as when it stands up?",
    "predict": "One spoon stands up in hot water. One lies flat, with its bowl in the water. Which butter dot will melt first? Why do you think so?",
-   "fair_test": "Use two spoons of the same kind. Put one butter dot on each, 3 cm along the handle from where the bowl of the spoon ends, the same size. Pour the water until it just covers the bowl of each spoon, from the same kettle at the same time. Only the direction of the spoon changes.",
+   "fair_test": "Use two spoons of the same kind. Put one butter dot of the same size on each, 3 cm along the handle from where the bowl of the spoon ends. Pour the water from the same kettle at the same time, until it just covers the bowl of each spoon. Only the direction of the spoon changes.",
    "results_table": [
     "Spoon",
     "Upright or flat",
@@ -713,9 +713,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Stack books beside the shallow bowl, up to its rim. 2. Lay one spoon with its bowl in the empty bowl and its handle on the books. 3. Lean the other spoon in the tumbler, bowl down. 4. On each handle, put a butter dot with a peppercorn 3 cm from where the bowl of the spoon ends.",
+     "do": "1. Stack books beside the shallow bowl, up to its rim. 2. Lay one spoon flat, with its bowl end inside the empty shallow bowl and its handle resting on the books. 3. Lean the other spoon in the tumbler, bowl end down. 4. On each handle, put a butter dot with a peppercorn 3 cm from where the bowl of the spoon ends.",
      "say": "One spoon stands up, and one lies flat. Both dots are the same distance from the bowl of the spoon, which is where the water will reach.",
-     "kid": "One spoon stands up. One lies flat. Put a dot on each, 3 cm up.",
+     "kid": "One spoon stands up. One lies flat. Put a butter dot on each, 3 cm along the handle.",
      "parent": "Keep the flat spoon's handle clear of the bowl's rim, because the hot rim would warm it from the side. If it touches, lay a folded cloth on the rim."
     },
     {
@@ -831,7 +831,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Write down your child's idea about how the handle got warm. Do not explain yet.",
-     "say": "That is a good question to keep. We will test it with a ladle and some butter.",
+     "say": "Keep that idea. We will test it with a ladle and some butter.",
      "kid": "How did the heat get up the spoon? Keep your idea. We will test it.",
      "parent": "Keep the explanation for after the Ladle Line test. Your child's own idea now makes the test more interesting."
     }
@@ -1044,7 +1044,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Read the usual and the creative ideas. Then talk about your own.",
+     "do": "Read the ideas given for this challenge. Then talk about your own.",
      "say": "Your grip slowed the heat. What could make it even better?",
      "kid": "Your grip slowed the heat. How could you make it better?"
     }
@@ -1165,7 +1165,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meena, a girl aged 9, puts butter dots on a steel ladle at 2 cm and 6 cm above hot water. What will most likely happen?",
+   "p": "Butter dots are put on a steel ladle at 2 cm and 6 cm above hot water. What will most likely happen?",
    "opts": [
     "The 6 cm dot melts first",
     "The 2 cm dot melts first, and the 6 cm dot much later or not at all",
@@ -1201,19 +1201,19 @@
   },
   {
    "t": "mcq",
-   "p": "Priya, a girl aged 7, holds an ice cube and her hand gets cold. Why?",
+   "p": "You hold an ice cube and your hand gets cold. Why?",
    "opts": [
-    "Cold moves from the ice into her hand",
-    "Heat moves from her hand into the ice",
+    "Cold moves from the ice into your hand",
+    "Heat moves from your hand into the ice",
     "The ice is wet"
    ],
    "a": 1,
-   "why": "Heat moves from warmer to cooler. Her hand loses heat to the ice, so it feels cold, and the ice melts.",
+   "why": "Heat moves from warmer to cooler. Your hand loses heat to the ice, so it feels cold, and the ice melts.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy aged 9, wants to test how far heat travels up a ladle. Which test is fair?",
+   "p": "You want to test how far heat travels up a ladle. Which test is fair?",
    "opts": [
     "Dots of different sizes at different heights",
     "Dots of the same size at different heights",
@@ -1237,7 +1237,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why do the particles in a hot spoon pass heat along?",
+   "p": "How do the particles in a hot spoon pass heat along?",
    "opts": [
     "They flow up the handle like water",
     "They shake faster and bump the particles next to them",
@@ -1261,7 +1261,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl aged 8, timed butter dots on a steel ladle in hot water. They fell at 1 minute, 3 minutes and 8 minutes. What does this tell her?",
+   "p": "Butter dots on a steel ladle in hot water were timed. They fell at 1 minute, 3 minutes and 8 minutes. What does this show?",
    "opts": [
     "Heat moved at one steady speed",
     "Heat took longer and longer to reach parts further from the water",
@@ -1352,7 +1352,7 @@
       ]
      ],
      "a": "see items",
-     "why": "The metals are good conductors of heat. Wood, plastic, cloth and paper are insulators. A strong sorter asks 'Is it a metal?'"
+     "why": "The metals are good conductors of heat. Wood, plastic, cloth and paper are insulators. A good way to sort is to ask, 'Is it a metal?'"
     },
     {
      "t": "draw",
@@ -1363,7 +1363,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl aged 8, pours hot rasam into a cold steel bowl. What happens to the bowl?",
+     "p": "Hot rasam is poured into a cold steel bowl. What happens to the bowl?",
      "opts": [
       "It stays cold, because steel is cold",
       "It warms up, because heat moves from the rasam into the steel",
@@ -1411,11 +1411,11 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl aged 10, tests a ladle. She puts a big butter dot at 2 cm and a tiny butter dot at 6 cm. Why is this not a fair test?",
+     "p": "In a ladle test, a big butter dot is put at 2 cm and a tiny butter dot at 6 cm. Why is this not a fair test?",
      "opts": [
       "The dots are different sizes, so size changes how fast they melt",
       "The ladle is steel",
-      "She used butter, not ghee"
+      "The test used butter, not ghee"
      ],
      "a": 0,
      "why": "A big dot takes longer to melt than a tiny one. In a fair test only the distance should change, so every dot must be the same size."
@@ -1443,14 +1443,14 @@
     },
     {
      "t": "mcq",
-     "p": "Aarti, a girl aged 7, holds a hot steel tumbler of milk. Which way does heat move?",
+     "p": "You hold a hot steel tumbler of milk. Which way does heat move?",
      "opts": [
-      "From the tumbler into her hand",
-      "From her hand into the tumbler",
+      "From the tumbler into your hand",
+      "From your hand into the tumbler",
       "Heat does not move"
      ],
      "a": 0,
-     "why": "Heat moves from the hotter tumbler into her cooler hand, so her hand warms up."
+     "why": "Heat moves from the hotter tumbler into your cooler hand, so your hand warms up."
     },
     {
      "t": "write",
@@ -1475,7 +1475,7 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Kavya, a girl aged 8, and Meena, a girl aged 9, are arguing about a steel spoon lying flat, with only its bowl in hot water.",
+     "p": "Two children, Kavya and Meena, are arguing about a steel spoon lying flat, with only its bowl in hot water.",
      "views": [
       {
        "who": "Kavya, aged 8",
@@ -1494,7 +1494,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy aged 9, stands a steel spoon and an aluminium spoon of the same size in the same hot water. Each has a butter dot 4 cm up. Which peppercorn will most likely fall first?",
+     "p": "A steel spoon and an aluminium spoon of the same size stand in the same hot water. Each has a butter dot with a peppercorn 4 cm up. Which peppercorn will most likely fall first?",
      "opts": [
       "The steel one",
       "The aluminium one",
@@ -1520,16 +1520,16 @@
     },
     {
      "t": "write",
-     "p": "Nila, a girl aged 10, wraps cloth round the middle of a ladle handle and stands the ladle in hot water. Does the steel under the cloth still get warm? Explain.",
+     "p": "Cloth is wrapped round the middle of a ladle handle, and the ladle stands in hot water. Does the steel under the cloth still get warm? Explain.",
      "lines": 3,
      "a": "Yes. Heat still travels up the steel inside the cloth. But the cloth is an insulator, so heat goes through it to the outside very slowly, and the outside of the cloth stays cool.",
      "why": "A strong answer says the steel still conducts, and the cloth only slows heat getting out to the hand."
     },
     {
      "t": "write",
-     "p": "Sneha, a girl aged 8, holds an ice cube in a thick woollen glove. Will it melt faster or slower than in her bare hand? Why?",
+     "p": "You hold an ice cube in a thick woollen glove. Will it melt faster or slower than in your bare hand? Why?",
      "lines": 3,
-     "a": "Slower. The wool and the air caught in it are insulators, so heat from Sneha's hand reaches the ice more slowly.",
+     "a": "Slower. The wool and the air caught in it are insulators, so heat from your hand reaches the ice more slowly.",
      "why": "A strong answer says which way the heat moves (hand to ice) and why the glove slows it."
     },
     {
@@ -1612,14 +1612,14 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy aged 6, says, 'If the ladle were twice as long, its top end would get even hotter.' Is he right? Explain.",
+     "p": "Someone says, 'If the ladle were twice as long, its top end would get even hotter.' Is that right? Explain.",
      "lines": 3,
      "a": "No. The top end would be further from the hot water. The heat would take longer to get there, and more would leak into the air on the way. So the top would stay cooler.",
      "why": "A strong answer uses what the Ladle Line showed: further parts get heat later and less of it."
     },
     {
      "t": "mcq",
-     "p": "Tanvi, a girl aged 9, wants her hot tea to stay warm longer. Which cup is best?",
+     "p": "You want your hot tea to stay warm longer. Which cup is best?",
      "opts": [
       "A cup of thin steel",
       "A cup with two walls and a layer of air between them",
@@ -1630,7 +1630,7 @@
     },
     {
      "t": "write",
-     "p": "Anitha, a girl aged 9, repeats the Ladle Line with a copper spoon of the same size instead of a steel one. What do you expect to happen to the times? Why?",
+     "p": "Suppose the Ladle Line is repeated with a copper spoon of the same size instead of a steel one. What do you expect to happen to the times? Why?",
      "lines": 3,
      "a": "The peppercorns fall sooner, and the far one is more likely to fall, because copper carries heat about 25 times faster than stainless steel.",
      "why": "A strong answer predicts shorter times and gives the reason: copper is a better conductor.",
@@ -1647,7 +1647,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a graph sketch of the Ladle Line. Put the dot's height (2, 4, 6, 8 cm) along the bottom and the time it fell up the side. Use made-up numbers like the ones you found. Does your line go straight, or curve?",
+     "p": "Draw a graph sketch of the Ladle Line. Put the dot's height (2, 4, 6, 8 cm) along the bottom and the time it fell up the side. Use times like the ones you found. Does your line go straight, or curve?",
      "a": "The line curves upward and gets steeper, because each dot took longer than the last.",
      "why": "A strong sketch shows the times growing faster than the distance.",
      "art": "An empty box with two arrows drawn as axes."
@@ -1722,7 +1722,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy aged 6, did the Ladle Line test and says, 'The 8 cm peppercorn never fell, so no heat got past 6 cm.' Find the mistake in his thinking.",
+     "p": "After the Ladle Line test, someone says, 'The 8 cm peppercorn never fell, so no heat got past 6 cm.' Find the mistake in this thinking.",
      "lines": 3,
      "a": "Some heat did get past 6 cm, but not enough to melt the butter. The steel at 8 cm was a little warmer than before, just not warm enough.",
      "why": "A strong answer sees that 'not enough to melt butter' is not the same as 'no heat at all'.",
@@ -1916,7 +1916,7 @@
  "maths": [
   {
    "context": "This is about the Ladle Line, where you time butter dots melting along a ladle in hot water. These are made-up results.",
-   "problem": "Meenakshi, a girl aged 8, timed peppercorns falling off her ladle. They fell at 40 seconds, 150 seconds and 360 seconds. How long was the wait between the first and the second? And between the second and the third?",
+   "problem": "Peppercorns fell off a ladle at 40 seconds, 150 seconds and 360 seconds. How long was the wait between the first and the second? And between the second and the third?",
    "answer": "110 seconds, then 210 seconds.",
    "explain": "150 minus 40 is 110. 360 minus 150 is 210. The second wait was almost twice as long as the first. So the heat took longer and longer to reach each dot.",
    "math_unit": "math.time.duration.L3",
@@ -1925,9 +1925,9 @@
   },
   {
    "context": "This is about the Ladle Line test, where butter dots go along a ladle handle.",
-   "problem": "Kavya, a girl aged 8, has a ladle with 20 cm of handle above the water. She wants a butter dot every 4 cm, starting 4 cm from the water. How many dots can she fit?",
+   "problem": "A ladle has 20 cm of handle above the water. You want a butter dot every 4 cm, starting 4 cm from the water. How many dots can you fit?",
    "answer": "5 dots.",
-   "explain": "The dots go at 4, 8, 12, 16 and 20 cm. 20 divided by 4 is 5. So she can fit 5 dots.",
+   "explain": "The dots go at 4, 8, 12, 16 and 20 cm. 20 divided by 4 is 5. So you can fit 5 dots.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "how": "e1",
    "why_maths": "Dividing tells you how many equal steps fit along the handle before you start."
@@ -1936,14 +1936,14 @@
    "context": "This is about the Flat or Upright test, where one spoon stands up and one lies flat in hot water. These are made-up results.",
    "problem": "The upright spoon's peppercorn fell at 95 seconds. The flat spoon's fell at 105 seconds. What is the difference? Is that enough to say heat goes up faster?",
    "answer": "10 seconds. That is too small to be sure.",
-   "explain": "105 minus 95 is 10. A difference of 10 seconds can come from a slightly bigger dot or shallower water. To be sure, you would do the test again. If the flat one were not always slower, the difference was luck.",
+   "explain": "105 minus 95 is 10. A difference of 10 seconds can come from a slightly bigger dot or shallower water. To be sure, you would do the test again. If the flat spoon is not slower every time, the difference was just chance.",
    "math_unit": "math.measurement-basics.estimation-and-precision.L3",
    "how": "e2",
    "why_maths": "Working out the difference, then asking if it is big enough, stops us from reading too much into a small number."
   },
   {
    "context": "This is about the Ladle Line. Here are made-up waits between peppercorns.",
-   "problem": "Divya, a girl aged 10, timed the waits between peppercorns. They were 1 minute, then 2 minutes, then 4 minutes. If the pattern carried on, how long would the next wait be?",
+   "problem": "The waits between peppercorns were 1 minute, then 2 minutes, then 4 minutes. If the pattern carried on, how long would the next wait be?",
    "answer": "8 minutes.",
    "explain": "Each wait is double the one before: 1, 2, 4. Double 4 is 8. In a real test the pattern is not exact, and the far dot may never fall at all, because heat leaks into the air.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2103,7 +2103,7 @@
  "roots": {
   "context": "We have watched heat travel up a ladle, part by part. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "On your ladle, the peppercorn nearest the water fell first, and each one after took longer. Heat must warm each part of the steel before it can move on to the next. Along the way, some of it leaks into the air. So heat slows down as it travels along a handle, and the far end may stay cool.",
+   "truth": "In the Ladle Line test, the peppercorn nearest the hot water fell first, and each one after took longer. Heat must warm each part of the steel before it can move on to the next. Along the way, some of it leaks into the air. So heat slows down as it travels along a handle, and the far end may stay cool.",
    "habit": "We picture heat running through a spoon like water through a pipe, at one steady speed. But heat in a solid is handed on part by part, so it gets slower the further it goes, and some escapes on the way.",
    "evidence": "In the Ladle Line, the waits between the falling peppercorns grew longer, and the 8 cm dot often never fell. A palm held near the handle felt warmth leaving it into the air."
   },
@@ -2117,7 +2117,7 @@
    {
     "source": "Heraclitus, fragment B126 (Diels-Kranz numbering)",
     "teaching": "Cold things grow warm, the warm grows cold, the wet dries and the dry grows wet.",
-    "link": "In your tests, the hot water cooled while the ladle warmed, and your warm hand cooled while the ice melted. Heat keeps moving from warm to cool, so warm and cold things keep changing into each other."
+    "link": "In the Ladle Line test, the hot water cooled while the ladle warmed. In Who Melts the Ice, your warm hand cooled while the ice melted. Heat keeps moving from warm to cool, so warm and cold things keep changing into each other."
    },
    {
     "source": "Samyutta Nikaya 12.21 (the Buddha's teaching of dependent arising)",
@@ -2146,9 +2146,9 @@
    "kid": "Hold a tumbler of cool water in both hands. Close your eyes. Breathe slowly. Does the steel feel less cold after a minute? Your warmth went into it."
   },
   "ask": [
-   "The far end of your ladle stayed cool. Did the heat stop, or did it go somewhere else?",
+   "In the Ladle Line test, the far end of the ladle stayed cool. Did the heat stop, or did it go somewhere else?",
    "Each part of the ladle was warmed by the part next to it. So where does the ladle's warmth really begin?",
-   "Your hand warmed the cold tumbler. Once that warmth is in the steel, is it still yours?"
+   "In Warm the Tumbler, your hand warmed the cold steel. Once that warmth is in the steel, is it still yours?"
   ],
   "art": "A child on a balcony at dusk holding a steel tumbler in both hands, eyes closed, with a faint warm glow passing from their palms into the steel."
  },
