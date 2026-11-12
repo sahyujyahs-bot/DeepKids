@@ -8,7 +8,7 @@
   },
   "intro": {
     "hook": "Put the back of your hand on your forehead. Feel how warm you are? Where did that warmth come from, and where is it going now?",
-    "text": "Your body is about as warm as a cup of tea you could sip. Nobody lit a fire inside you. The warmth comes from your last meal, which was a plant or an animal who ate plants, which caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this unit you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.",
+    "text": "Your body is about as warm as a cup of tea you could sip. Nobody lit a fire inside you. The warmth comes from your last meal. That meal was a plant, or an animal who ate plants, and the plants caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this unit you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.",
     "art": "A child with a hand on their forehead, and faint heat waves rising from the hand and the head into a room, with a plate of rice and dal on the table."
   },
   "outcomes": [
@@ -42,7 +42,7 @@
     },
     {
       "term": "Secondary consumer",
-      "meaning": "An animal who eats primary consumers. She is at level 3. One who eats those is a tertiary consumer, at level 4.",
+      "meaning": "An animal who eats primary consumers. She is at level 3. An animal who eats secondary consumers is a tertiary consumer, at level 4.",
       "example": "A frog eating a grasshopper is a secondary consumer. A snake eating the frog is a tertiary consumer.",
       "art": "A frog catching a grasshopper, with a snake behind the frog, and level numbers 3 and 4 beside them."
     },
@@ -85,13 +85,13 @@
     {
       "term": "Pyramid of numbers",
       "meaning": "A drawing with one bar for each trophic level, where the width of the bar shows how many living beings are at that level.",
-      "example": "One banyan tree can feed thousands of insects, so its pyramid of numbers is not a pyramid.",
+      "example": "One banyan tree can feed thousands of insects, so her pyramid of numbers is not shaped like a pyramid.",
       "art": "A spindle-shaped drawing with a thin line for one tree at the bottom, a wide bar for insects above it, and narrow bars for birds and a hawk."
     },
     {
       "term": "Energy pyramid",
       "meaning": "A drawing with one bar for each trophic level, where the width of the bar shows how much energy flows through that level in a year.",
-      "example": "If grass takes in 1000 units of energy, the grasshoppers who eat her pass on about 100 and the frogs about 10.",
+      "example": "If 1000 units of energy flow through the grass, about 100 flow through the grasshoppers who eat her, and about 10 through the frogs.",
       "art": "A tall pyramid of four bars, widest at the bottom, with energy numbers 1000, 100, 10 and 1 written in the bars."
     },
     {
@@ -189,7 +189,7 @@
       "concept": "Three pyramids: numbers, biomass and energy",
       "status": "defined",
       "definition": "A pyramid of numbers counts the living beings at each level. A pyramid of biomass weighs them. A pyramid of energy measures how much energy flows through each level in a year.",
-      "description": "Each pyramid answers a different question. Numbers ask: how many? Biomass asks: how much living matter is here right now? Energy asks: how much energy passes through this level in a year? In a grass field all three are wide at the bottom and narrow at the top. Energy is the fairest of the three, because one big animal and one tiny animal are compared by the same unit. The energy pyramid is always wide at the bottom, whatever the place, because a level can never pass on more energy than it receives. Numbers and biomass can behave oddly, as the next card shows.",
+      "description": "Each pyramid answers a different question. Numbers ask: how many? Biomass asks: how much living matter is here right now? Energy asks: how much energy passes through this level in a year? In a grass field all three are wide at the bottom and narrow at the top. Energy is the fairest of the three, because one big animal and one tiny animal are compared by the same unit. The energy pyramid is always wide at the bottom, whatever the place, because a level can never pass on more energy than it receives. The pyramids of numbers and biomass can sometimes be upside down.",
       "examples": [
         "A grass field: 1000 grass plants, 100 grasshoppers, 10 frogs, 1 snake. The numbers shrink at each step.",
         "A pond: the weight of all the water plants is much more than the weight of all the fish.",
@@ -202,7 +202,7 @@
       "concept": "Upside-down pyramids",
       "status": "defined",
       "definition": "Pyramids of numbers and of biomass can be the wrong way up, but a pyramid of energy never is.",
-      "description": "A single banyan tree is one producer, yet thousands of insects and many birds live from her. So the pyramid of numbers is thin at the bottom, wide in the middle and thin at the top. In the open sea, the tiny algae are eaten almost as quickly as they grow. At any one moment their total weight can be smaller than the weight of the tiny animals who eat them. The biomass pyramid is then upside down. Yet the algae divide every day or two, so over a year they make far more food energy than the animals do. The energy pyramid, which counts a whole year, stays the right way up.",
+      "description": "A single banyan tree is one producer, yet thousands of insects and many birds get their food from her. So the pyramid of numbers is thin at the bottom, wide in the middle and thin at the top. In the open sea, the tiny algae are eaten almost as quickly as they grow. At any one moment their total weight can be smaller than the weight of the tiny animals who eat them. The biomass pyramid is then upside down. Yet the algae divide every day or two, so over a year they make far more food energy than the animals do. The energy pyramid, which counts a whole year, stays the right way up.",
       "examples": [
         "One banyan tree, 1000 insects living on her leaves, 20 birds, 1 hawk. The numbers are narrow, wide, narrow, narrow.",
         "One deer can carry thousands of ticks. The ticks are more numerous than the deer.",
@@ -215,10 +215,10 @@
       "concept": "Food webs and levels that are not whole numbers",
       "status": "defined",
       "definition": "Most animals eat from more than one level, so an animal's trophic level is the average level of her food plus one, and is often not a whole number.",
-      "description": "A crow eats grain and fruit, which are level 1, and also insects, which are level 2. Half her food is level 1 and half is level 2. The average is 1.5, so the crow sits at 2.5. Scientists use this idea to give every animal a number. They also measure it in the body. The nitrogen in an animal's body gets a little heavier at each step up a food chain, and the size of that change tells scientists the level. In 2013 a team estimated that people around the world, on average, are at about 2.2. That is near a pig or an anchovy. Most of what most people eat comes from plants.",
+      "description": "A crow eats grain and fruit, which are level 1, and also insects, which are level 2. Half her food is level 1 and half is level 2. The average is 1.5, so the crow sits at 2.5. Scientists use this idea to give every animal a number. They also measure it in the body. The nitrogen in an animal's body gets a little heavier at each step up a food chain, and the size of that change tells scientists the level. In 2013 a team estimated that people around the world, on average, are at about 2.2. That is about the same level as a pig or an anchovy. Most of what most people eat comes from plants.",
       "examples": [
         "A cow eats only grass and straw. She is at level 2.",
-        "A rat snake eats half frogs (level 3) and half rats (level 2). She is at 3.5.",
+        "Half of a rat snake's food is frogs (level 3) and half is rats (level 2). She is at 3.5.",
         "A person who eats mostly rice, dal and vegetables, with a little curd, is a little above 2."
       ],
       "art": "A crow in the middle of a web with a number 2.5 above her head, and arrows from grain, fruit and insects joining at her.",
@@ -228,7 +228,7 @@
       "concept": "The dead-leaf chain",
       "status": "defined",
       "definition": "A detritus food chain begins with dead plant matter, not with a living plant being eaten. Detritivores and decomposers feed on it, and other animals feed on them.",
-      "description": "Most leaves are never eaten alive. In a forest, grazing animals eat less than a fifth of the leaves. The rest falls, dies and is eaten as detritus. In open water the balance is the other way, and most algae are eaten alive. In a mangrove, fallen leaves are pulled into burrows by crabs. Fungi and bacteria soften the leaf and grow on it, and tiny worms and shrimp-like animals graze on that film. Prawns, fish and herons then feed on those. So a dead leaf is not the end of a food chain. It is the start of another. Scientists are still measuring how much of a mangrove's food comes from its leaves, and how much from algae and plankton.",
+      "description": "Most leaves are never eaten alive. In a forest, grazing animals eat less than a fifth of the leaves. The rest falls, dies and is eaten as detritus. In open water the balance is the other way, and most algae are eaten alive. In a mangrove, fallen leaves are pulled into burrows by crabs. Fungi and bacteria soften the leaf and grow on it in a thin layer, and tiny worms and shrimp-like animals graze on that layer. Prawns, fish and herons then feed on those small animals. So a dead leaf is not the end of a food chain. It is the start of another. Scientists are still measuring how much of a mangrove's food comes from its leaves, and how much from algae and plankton.",
       "examples": [
         "Mangrove leaf, then crab, then fish, then heron, in a Kerala backwater.",
         "Fallen leaf, then fungus, then springtail, then centipede, in the soil of a plant pot.",
@@ -241,10 +241,10 @@
       "concept": "Atoms go round, energy goes through",
       "status": "defined",
       "definition": "The atoms in living things are used again and again. The energy is not. It enters as light or chemical energy and leaves as heat.",
-      "description": "A carbon atom can be in the air as carbon dioxide, then in a leaf as sugar, then in a grasshopper, then in a frog, then back in the air when the frog respires. The same atom can go round many times. Energy is different. Sunlight arrives, plants catch a small part, and at every step much of it is turned into heat. That heat spreads out and finally leaves the Earth as invisible infrared light. The Earth sends out almost exactly as much energy as it gets from the Sun, which is why its temperature stays steady. A food chain is a small stretch of this one-way road.",
+      "description": "A carbon atom can be in the air as carbon dioxide, then in a leaf as sugar, then in a grasshopper, then in a frog, then back in the air when the frog respires. The same atom can go round many times. Energy is different. Sunlight arrives, plants catch a small part, and at every step much of it is turned into heat. That heat spreads out and finally leaves the Earth as invisible infrared light. The Earth sends out almost exactly as much energy as it gets from the Sun, which is why its temperature stays steady. A food chain is a small part of this one-way journey.",
       "examples": [
         "The carbon in a tiger's muscle was in the air as carbon dioxide only weeks or months earlier, before a plant took it in.",
-        "A candle flame, a human body and a leaf all give out heat that ends in the sky.",
+        "A candle flame, a human body and a leaf all give out heat that spreads out and finally leaves the Earth.",
         "Satellites measure the light the Earth receives and the heat it gives out, and the two nearly match."
       ],
       "art": "A circle of arrows for atoms going round between air, a leaf, a deer and soil, and a straight arrow of energy going from the Sun through them and out to space.",
@@ -305,7 +305,7 @@
     },
     {
       "text": "Dead matter is one of the biggest pathways of energy in nature.",
-      "evidence": "A 1999 study by Just Cebrian of many places found that in forests grazers eat only a small share of what the plants make, and the rest goes to the dead-leaf chain."
+      "evidence": "In 1999 Just Cebrian studied many places and found that in forests, grazers eat only a small share of what the plants make. The rest goes to the dead-leaf chain."
     },
     {
       "text": "A pyramid of energy is never upside down, but pyramids of numbers and biomass sometimes are.",
@@ -355,7 +355,7 @@
   ],
   "big_questions": [
     {
-      "q": "You eat rice, and the rice was sunlight. Then the energy leaves you as heat. If none of it stays, what exactly is it that you are made of?",
+      "q": "The energy in your rice came from sunlight. Later that energy leaves you as heat. If none of the energy stays, what are you made of?",
       "kind": "deep",
       "hint": "Think about the atoms that stay and the energy that passes. Which of the two is you?"
     },
@@ -367,10 +367,10 @@
     {
       "q": "An animal's trophic level changes with what she eats. Is a level something an animal has, or something she does?",
       "kind": "deep",
-      "hint": "A crow at 2.5 eats more insects one week and more fruit the next. Where is the crow's level then?"
+      "hint": "A crow eats more insects one week and more fruit the next. Does her level stay at 2.5?"
     },
     {
-      "q": "Nine tenths of the energy at every step becomes heat. Is that waste, or is the heat the point?",
+      "q": "Nine tenths of the energy at every step becomes heat. Is that heat wasted, or does it do something useful?",
       "kind": "big",
       "hint": "Think about the warmth that keeps you alive, and the heat that keeps the Earth from freezing."
     },
@@ -561,11 +561,11 @@
               "b": "Level 5. Her whole diet is level 4, so she is 4 plus 1."
             },
             {
-              "f": "Meenakshi eats mostly rice, dal and vegetables. Nine tenths of her food is plants and one tenth is curd (level 2).",
+              "f": "A person eats mostly rice, dal and vegetables. Nine tenths of her food is plants and one tenth is curd (level 2).",
               "b": "Level 2.1. Nine tenths at 1 and one tenth at 2 gives 1.1. Add 1."
             },
             {
-              "f": "Farhan eats half plants (level 1), a quarter milk (level 2) and a quarter fish (level 3).",
+              "f": "Half of a person's food is plants (level 1), a quarter is milk (level 2) and a quarter is fish (level 3).",
               "b": "Level 2.75. Half at 1 is 0.5, a quarter at 2 is 0.5, a quarter at 3 is 0.75. The sum is 1.75. Add 1."
             }
           ]
@@ -594,7 +594,7 @@
         "Every other player writes a guess on a slip, such as 2, 2.5 or 3.75. Then everyone shows their slip together.",
         "The reader turns the card over and reads the back. The player closest to the answer scores 2 points. Anyone who guessed it exactly scores 3.",
         "If two players are equally close, both score. Any player who can explain the working scores 1 extra point.",
-        "With two players, the parent and the child swap roles after every card. The reader never guesses on her own card, so the guesser scores as when playing alone.",
+        "With two players, the parent and the child swap roles after every card. The reader never guesses on her own card. The guesser scores in the same way as a player playing alone: 2 for a guess within 0.25, and 3 for an exact one.",
         "Playing alone, write your guess before you look at the back. You score 2 for a guess within 0.25, and 3 for an exact one.",
         "Play ten cards. The player with the most points wins. Playing alone, try to beat 20 points."
       ],
@@ -604,7 +604,7 @@
           "mins": 4,
           "do": "Cut out the 24 cards. Shuffle them and make a pile, front side up. Print the score sheet. Read the first rule together.",
           "say": "Each card names a living being and what she eats. We guess her level. A level is 1 plus the average level of her food.",
-          "kid": "Cut out the cards. Shuffle them. A level is 1 plus the average level of her food.",
+          "kid": "Cut out the cards. Shuffle them. A being's level is 1 plus the average level of her food.",
           "context": "This is the first step of Level Detective. You set up the cards and learn how to work out a level.",
           "parent": "No printer? Write the 24 cards by hand on slips of paper. You only need 10 to play. With 3 or 4 players, the reader changes after every card."
         },
@@ -629,8 +629,8 @@
           "id": "s3",
           "mins": 8,
           "do": "Play the next five cards. Swap the reader's job after each one. Keep score on paper.",
-          "say": "Keep going. Add up the foods on the card. Take the average. Then add 1.",
-          "kid": "Play on. Take the average of the foods. Add 1.",
+          "say": "Keep going. Look at the levels of the foods on the card. Take their average. Then add 1.",
+          "kid": "Play on. Take the average level of the foods. Add 1.",
           "check": {
             "t": "mcq",
             "q": "A heron eats half fish at level 2.5 and half frogs at level 3. Which number is closest to her level?",
@@ -648,7 +648,7 @@
           "id": "s4",
           "mins": 5,
           "do": "Play the last cards until you have played ten. Add up the points. Then ask the last question.",
-          "say": "Add up your points. Who found the most? Now look at the cards again. Which animal was highest, and which was lowest?",
+          "say": "Add up your points. Who scored the most? Now look at the cards again. Which animal was highest, and which was lowest?",
           "kid": "Add your points. Which card gave the highest level? Which gave the lowest?",
           "parent": "A tiger eats deer, who eat plants, so she is at 3. Sea animals often have more levels because the chain starts with tiny algae, and many small steps lie between algae and tuna. Do not worry if your child has not guessed this. It is a thing to wonder about.",
           "think": "A tiger is only at level 3. Why do you think a hunter on land is often lower than a hunter in the sea?",
@@ -697,7 +697,7 @@
             "Which animal eats first"
           ],
           "a": 0,
-          "why": "The arrow points from the eaten to the eater, because it shows the way the energy moves. Some children read it as 'eats', which gives the arrow the wrong way round.",
+          "why": "The arrow points from the eaten to the eater, because it shows the way the energy moves. Some children read the arrow as 'eats', and then they draw it pointing the wrong way.",
           "outcome": 0
         },
         {
@@ -716,7 +716,7 @@
           "t": "truefalse",
           "p": "A mushroom is a decomposer who eats living plants.",
           "a": false,
-          "why": "False. A mushroom is a fungus who digests dead matter outside her body and soaks up the food. Most mushrooms in the home grow on rotting wood or soil.",
+          "why": "False. A mushroom is a fungus who digests dead matter outside her body and soaks up the food. Most mushrooms you see around the home grow on rotting wood or soil.",
           "outcome": 3
         },
         {
@@ -809,7 +809,7 @@
         },
         {
           "t": "count",
-          "p": "Grass has stored 2000 units of energy in a season. About one tenth passes to the next level each time. How many units reach a frog who eats grasshoppers who ate the grass?",
+          "p": "Grass has stored 2000 units of energy in a season. About one tenth passes to the next level each time. Grasshoppers eat the grass, and a frog eats the grasshoppers. How many units reach the frog?",
           "a": "20",
           "why": "The grasshoppers get a tenth of 2000, which is 200. The frog gets a tenth of 200, which is 20. This is a rough guess, because real numbers vary.",
           "outcome": 1
@@ -874,12 +874,12 @@
             "The insects are bigger than the tree"
           ],
           "a": 0,
-          "why": "One banyan has an enormous amount of leaf, so it can feed very many small animals. The count at the bottom is only one, so the numbers pyramid is not a pyramid. Biomass and energy would show a wide base.",
+          "why": "One banyan has an enormous amount of leaf, so she can feed very many small animals. The count at the bottom is only one, so the pyramid of numbers is not shaped like a pyramid. Pyramids of biomass and energy would have a wide base.",
           "outcome": 2
         },
         {
           "t": "mcq",
-          "p": "In the open sea, the tiny algae weigh less than the tiny animals who eat them at one moment. Why is the energy pyramid still wide at the bottom?",
+          "p": "At any one moment in the open sea, the tiny algae weigh less than the tiny animals who eat them. Why is the energy pyramid still wide at the bottom?",
           "opts": [
             "The algae divide so quickly that they make far more food energy over a year",
             "Algae are heavier than animals",
@@ -910,7 +910,7 @@
             "3"
           ],
           "a": 0,
-          "why": "The average level of her food is 1.5. She is one step above her food, so her level is 2.5. Choosing 1.5 forgets to add the step for the crow herself.",
+          "why": "The average level of her food is 1.5. She is one step above her food, so her level is 2.5. If you chose 1.5, you forgot to add the step for the crow herself.",
           "outcome": 2
         },
         {
@@ -933,7 +933,7 @@
           "a": [
             "numbers"
           ],
-          "why": "The numbers pyramid counts the beings at each level. One tree and thousands of insects makes a spindle shape.",
+          "why": "The pyramid of numbers counts the beings at each level. One tree and thousands of insects make a shape that is thin at the bottom and wide in the middle.",
           "outcome": 2
         },
         {
@@ -959,7 +959,7 @@
         },
         {
           "t": "sort",
-          "p": "Sort each of these into where a grasshopper's meal of leaf energy goes.",
+          "p": "A grasshopper eats a leaf. Sort each of these by where the leaf's energy goes.",
           "cats": [
             "Heat from respiration",
             "Dung or uneaten",
@@ -1024,7 +1024,7 @@
         },
         {
           "t": "odd",
-          "p": "Which pyramid is the odd one out, and why? A banyan's numbers pyramid, ticks on a deer in a numbers pyramid, an open-sea biomass pyramid, an open-sea energy pyramid.",
+          "p": "Which pyramid is the odd one out, and why? A banyan's pyramid of numbers, a pyramid of numbers for the ticks on a deer, an open-sea pyramid of biomass, an open-sea pyramid of energy.",
           "a": "The open-sea energy pyramid, because it is always the right way up. The other three can be upside down.",
           "why": "Energy cannot grow on its way up a chain. Numbers and biomass depend on how big and how fast-growing the beings are.",
           "outcome": 2
@@ -1034,11 +1034,11 @@
           "p": "Two friends argue about who runs a forest food web.",
           "views": [
             {
-              "who": "Meera (an imagined view)",
+              "who": "The first friend (an imagined view)",
               "says": "The plants run everything. If there is less rain, there is less grass, fewer deer and fewer tigers, whatever the tigers do."
             },
             {
-              "who": "Imran (an imagined view)",
+              "who": "The second friend (an imagined view)",
               "says": "The hunters run everything. If the tigers go, the deer eat all the young trees, and then the forest changes."
             },
             {
@@ -1062,8 +1062,8 @@
         {
           "t": "draw",
           "p": "A deer carries 3000 ticks. Draw the pyramid of numbers for the grass, the deer and the ticks, and write what is odd about its shape.",
-          "a": "A thin bar for the grass or a line, a thin bar for one deer, and a very wide bar for the ticks. The shape is upside down at the top, not a pyramid.",
-          "why": "Ticks live on one deer, so their count is far greater than the deer's. Counting beings makes the pyramid odd, and weighing or measuring energy would not.",
+          "a": "A thin bar or a line for the grass, a thin bar for one deer, and a very wide bar for the ticks. The shape is upside down at the top, not a pyramid.",
+          "why": "Thousands of ticks live on one deer, so there are far more ticks than deer. Counting beings gives the pyramid an odd shape. Weighing them or measuring their energy would not.",
           "outcome": 2
         }
       ]
@@ -1185,7 +1185,7 @@
               "Agreed"
             ],
             [
-              "Plants or hunters run most food webs",
+              "Whether plants or hunters run most food webs",
               "Argued about"
             ],
             [
@@ -1211,7 +1211,7 @@
         },
         {
           "t": "order",
-          "p": "Put these in order to follow a bit of rice energy from the Sun to the end.",
+          "p": "Put these in order, to follow the energy in a rice plant from the Sun until it leaves the Earth.",
           "a": [
             "Sunlight falls on a rice leaf",
             "A plant makes sugar and stores energy",
@@ -1253,7 +1253,7 @@
         },
         {
           "t": "write",
-          "p": "A friend says energy is 'passed on' along a food chain, but you say it is not 'kept'. Use the burning peanut to explain what you mean.",
+          "p": "In the experiment A Peanut Full of Sunshine, a burning peanut warmed a tin of water. Energy is passed on along a food chain, but it is not kept. Use the burning peanut to explain what this means.",
           "lines": 5,
           "a": "When the peanut burned, its stored energy turned into heat and light. The water caught some of the heat, but most spread into the air. The nut did not keep its energy. In a food chain, each eater receives some energy and lets most of it go as heat.",
           "why": "A strong answer says that the energy changes form and spreads out, and that at each step much of it becomes heat that is not kept.",
@@ -1293,7 +1293,7 @@
       "days": 1,
       "question": "When a peanut burns under a tin of water, how much does the water warm? And does a foil shield around the flame catch more of the heat?",
       "predict": "Before you start, guess. How many degrees will the water warm from one burning peanut? Will the foil shield make it warmer or not? Why do you think so?",
-      "fair_test": "Every trial uses 100 millilitres of water from the same jug, a peanut of about the same size, and a tin held 4 centimetres above the nut. The only thing that changes is the foil shield. Trials 1 and 2 have no shield. Trials 3 and 4 have the shield. We do each twice, because one try can be a fluke.",
+      "fair_test": "Every trial uses 100 millilitres of water from the same jug, a peanut of about the same size, and a tin held 4 centimetres above the nut. The only thing that changes is the foil shield. Trials 1 and 2 have no shield. Trials 3 and 4 have the shield. We do each twice, because one try can go wrong by chance.",
       "results_table": [
         "Trial",
         "Set-up",
@@ -1353,7 +1353,7 @@
         }
       ],
       "safety": "A grown-up lights the nut and holds the hot tin. The nut burns with a real flame and spits a little oil. Work on a steel tray, away from curtains, with a bowl of water and a wet cloth close by. Tie back long hair and loose dupattas. Switch off the fan, because moving air blows the flame about. Open a window, because the smoke smells strong. Keep young children a full arm's length back. Never eat a nut that has been burned. Do not leave a burning nut alone. A burned nut stays hot for a minute, so let it cool before touching.",
-      "record": "Write the start and end temperatures for each trial and the rise. Work out the average rise for bare and for shielded. Then write one sentence each for: what I think, what I saw, and why.",
+      "record": "For each trial, write the start temperature, the end temperature and the rise. Work out the average rise for the trials with no shield, and for the trials with the shield. Then write one sentence each on what you thought would happen, what you saw, and why you think it happened.",
       "context": "In this experiment, you burn a peanut under a tin of water to see how much of its stored energy you can catch as heat. It shows what food energy is, and how much of it escapes.",
       "setup": [
         {
@@ -1390,7 +1390,7 @@
               ]
             }
           ],
-          "parent": "With 2 to 4 children, everyone guesses first. Turn the jobs each trial: the grown-up lights, one child times, one reads and stirs, one writes. All children work out the averages. Do not correct the guess. A guess with a reason is a good start. Most children guess 1 or 2 degrees, or 50. The real answer is somewhere between.",
+          "parent": "With 2 to 4 children, everyone guesses first. Swap the jobs for each trial: the grown-up lights, one child times, one reads and stirs, one writes. All children work out the averages. Do not correct the guess. A guess with a reason is a good start. Most children guess 1 or 2 degrees, or 50. The real answer is somewhere between.",
           "context": "This is the first step of the Peanut test. You make your guess before the test."
         },
         {
@@ -1406,7 +1406,7 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Trial 1 and 2: no shield. A grown-up holds the peanut in the diya flame until it catches. Put it under the tin, held 4 centimetres above with tongs. Time the burn. When the flame goes out, stir the water gently and read the highest temperature. Refill with fresh water for trial 2.",
+          "do": "Trials 1 and 2 have no shield. A grown-up holds the peanut in the diya flame until it catches fire, then puts it under the tin. Hold the tin with tongs, 4 centimetres above the nut. Time the burn. When the flame goes out, stir the water gently and read the highest temperature. Refill the tin with fresh water for trial 2.",
           "say": "Light the nut. It may take up to 30 seconds. Hold the tin 4 centimetres above the flame until it goes out. Then stir the water gently and read the highest number.",
           "kid": "A grown-up lights the nut. We hold the tin above it. When the flame dies, we stir and read the temperature.",
           "adult": true,
@@ -1421,7 +1421,7 @@
               ]
             }
           ],
-          "parent": "The nut may take a few tries to light, especially in damp weather. Dry the nuts in the sun for an hour first. A cashew lights more easily than a peanut. Let the flame touch an edge. A good peanut burns for 20 to 60 seconds. A rise of about 3 to 10 degrees is typical, but we have not promised it. For a steadier tin, rest it across two upside-down steel katoris about 4 centimetres tall. A black ash left behind is normal. If the rise is under 2 degrees, use only 50 millilitres of water in every trial. Dry the tin before refilling. Do not reuse a half-burned nut.",
+          "parent": "The nut may take a few tries to light, especially in damp weather. Dry the nuts in the sun for an hour first. A cashew lights more easily than a peanut. Let the flame touch an edge. A good peanut burns for 20 to 60 seconds. A rise of about 3 to 10 degrees is typical, but it is not certain. For a steadier tin, rest it across two upside-down steel katoris about 4 centimetres tall. A black ash left behind is normal. If the rise is under 2 degrees, use only 50 millilitres of water in every trial. Dry the tin before refilling. Do not reuse a half-burned nut.",
           "check": {
             "t": "mcq",
             "q": "The water warmed by 6 degrees. What is the best explanation?",
@@ -1438,9 +1438,9 @@
         {
           "id": "s4",
           "mins": 10,
-          "do": "Trial 3 and 4: with the shield. Roll the foil strip into a ring about 8 centimetres wide and 4 centimetres tall. Cut two small notches at the bottom for air. Stand the ring round the nail. Light the nut. Rest the tin on top of the ring. Read the water as before.",
-          "say": "Make a foil ring round the nut, with two notches for air. A grown-up lights the nut. The tin rests on the ring. Read the water when the flame goes out.",
-          "kid": "Put a foil ring round the nut. A grown-up lights it. Rest the tin on the ring. Read the water.",
+          "do": "Trials 3 and 4 use the shield. Roll the foil strip into a ring about 8 centimetres wide and 4 centimetres tall. Cut two small notches at the bottom for air. Stand the ring round the nail. Light the nut. Rest the tin on top of the ring. When the flame goes out, stir the water gently and read the highest temperature.",
+          "say": "Make a foil ring round the nut, with two notches for air. A grown-up lights the nut. The tin rests on the ring. Read the water temperature when the flame goes out.",
+          "kid": "Put a foil ring round the nut. A grown-up lights it. Rest the tin on the ring. Read the water temperature.",
           "adult": true,
           "parent": "Keep the notches so the flame can breathe. Without air, the nut goes out. The ring is hot, so let it cool before touching it. Use a fresh nut and fresh water for trial 4.",
           "context": "In this step, you repeat the test with a foil shield. You find out if less heat escapes."
@@ -1448,14 +1448,14 @@
         {
           "id": "s5",
           "mins": 7,
-          "do": "Work out the average rise for the bare trials and for the shield trials. Then ask your child to say what they thought, what they saw and why. Read the nutrition label of the nuts together.",
+          "do": "Work out the average rise for the trials with no shield, and for the trials with the shield. Then ask your child to say what they thought, what they saw and why. Read the nutrition label of the nuts together.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-          "kid": "Work out the average rise for each set-up. Say what you thought, what you saw and why.",
-          "parent": "A strong answer says that the shield trials warmed the water more, because less heat escaped into the room. If the two averages differ by under 1 degree, say the test cannot tell, and repeat it. After they have spoken, explain: the water caught only some of the heat. To find the share, weigh 10 nuts. A nut is typically about 0.6 grams, so weigh yours if you can. The label says about 24 kilojoules in a gram of peanut, so one nut holds about 14 kilojoules. The water caught 100 grams times 4.2 joules times the rise. For a rise of 8 degrees that is 3360 joules, or 3.4 kilojoules, about one quarter. These numbers are rough, because a nut rarely burns fully. The rest warmed the air, the tin and the foil, or left as smoke.",
+          "kid": "Work out the average rise with no shield and with the shield. Say what you thought, what you saw and why.",
+          "parent": "A strong answer says that the shield trials warmed the water more, because less heat escaped into the room. If the two averages differ by under 1 degree, say the test cannot tell, and repeat it. After they have spoken, explain: the water caught only some of the heat. To find the share, you need the weight of one nut. A nut is typically about 0.6 grams, but weigh 10 of yours if you can. The label says about 24 kilojoules in a gram of peanut, so one nut holds about 14 kilojoules. The energy the water caught is 100 grams times 4.2 joules times the rise in degrees. For a rise of 8 degrees that is 3360 joules, or 3.4 kilojoules, about one quarter. These numbers are rough, because a nut rarely burns fully. The rest warmed the air, the tin and the foil, or left as smoke.",
           "think": "Where did the rest of the heat go? How could you catch more of it?",
           "check": {
             "t": "mcq",
-            "q": "Water in the shielded set-up warmed more than in the bare set-up. What does that show?",
+            "q": "The water warmed more with the foil shield than without it. What does that show?",
             "options": [
               "The shield stopped some heat from escaping into the room.",
               "The shield made extra energy.",
@@ -1473,15 +1473,15 @@
       "title": "Warm Seeds: do living things give off heat?",
       "mins": 55,
       "days": 3,
-      "question": "Does a box of sprouting moong become warmer than a box of boiled moong or an empty box, if all three sit in the same room?",
-      "predict": "Before you start, guess. Which box will be warmest after a day? Will any box be warmer than the room? Why do you think so?",
-      "fair_test": "All three boxes have the same size and the same lid. Box A holds soaked, living moong. Box B holds the same amount of moong that has been boiled, so the seeds are dead. Box C is empty. All sit side by side in one big cardboard box, wrapped in a towel. We read the same thermometer in each box at the same times. Box C shows what the room does to a box with nothing alive in it. Box B shows that heat does not come from the moong simply being there.",
+      "question": "Does a tub of sprouting moong become warmer than a tub of boiled moong or an empty tub, if all three sit in the same room?",
+      "predict": "Before you start, guess. Which tub will be warmest after a day? Will any tub be warmer than the room? Why do you think so?",
+      "fair_test": "All three tubs have the same size and the same lid. Tub A holds soaked, living moong. Tub B holds the same amount of moong that has been boiled, so the seeds are dead. Tub C is empty. All three sit side by side in one big cardboard box, wrapped in a towel. We read the same thermometer in each tub at the same times. Tub C shows what the room does to a tub with nothing alive in it. Tub B shows that heat does not come from the moong simply being there.",
       "results_table": [
         "Time",
         "Room (degrees)",
-        "Box A: living moong (degrees)",
-        "Box B: boiled moong (degrees)",
-        "Box C: empty (degrees)"
+        "Tub A: living moong (degrees)",
+        "Tub B: boiled moong (degrees)",
+        "Tub C: empty (degrees)"
       ],
       "materials": [
         {
@@ -1511,8 +1511,8 @@
         }
       ],
       "safety": "A grown-up boils the moong and drains it. Hot water scalds. Do not eat any moong from this test, because it sits warm for a day. Keep the tubs away from toddlers, because moong seeds are small. Wash your hands after touching the seeds.",
-      "record": "Write each temperature in the table. Draw a line graph with one line for each box. Say which box was warmest, and by how many degrees.",
-      "context": "In this experiment, you look for heat made by living seeds. Sprouting seeds respire, and respiration gives off heat. You compare living moong, dead moong and an empty box.",
+      "record": "Write each temperature in the table. Draw a line graph with one line for each tub. Say which tub was warmest, and by how many degrees.",
+      "context": "In this experiment, you look for heat made by living seeds. Sprouting seeds respire, and respiration gives off heat. You compare living moong, dead moong and an empty tub.",
       "schedule": [
         {
           "day": 1,
@@ -1582,20 +1582,20 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Put the three tubs in the cardboard box. Wrap the box in a towel. Push the thermometer into the middle of each tub. Wait one minute each and read it. Always go in the order room, A, B, C. Write the numbers in the first row.",
+          "do": "Put the three tubs in the cardboard box. Wrap the box in a towel. Push the thermometer into the middle of each tub in turn. Wait one minute in each tub, then read it. Always read in the same order: the room, then A, B and C. Write the numbers in the first row.",
           "say": "Put the tubs side by side in the box. Read the room first. Then read A, B and C the same way each time. Write the numbers down.",
           "kid": "Put the tubs in the box. Read the room, then A, B and C. Write the numbers.",
           "parent": "Pack the gaps with crumpled newspaper. Wipe the thermometer between tubs. The first readings should be almost the same. If A and B differ by more than 1 degree, wait 20 minutes and read again.",
           "check": {
             "t": "mcq",
-            "q": "Why does the test include a box with boiled moong?",
+            "q": "Why does the test include a tub with boiled moong?",
             "options": [
               "To show that heat does not come from moong that is only sitting there.",
               "To make the test longer.",
               "To get extra moong."
             ],
             "a": 0,
-            "why": "Boiled moong is full of the same food as living moong, but it is dead. If it stayed as cool as the empty tub, then the heat must come from life. If you chose another option, remember that a fair test changes one thing at a time."
+            "why": "Boiled moong is full of the same food as living moong, but it is dead. If the boiled moong stays as cool as the empty tub, then the heat must come from life. If you chose another option, remember that a fair test changes one thing at a time."
           },
           "context": "In this step, you pack the tubs and take the first readings. These are your starting temperatures."
         },
@@ -1606,7 +1606,7 @@
           "say": "Read the room, A, B and C again. Write the numbers. Keep the lids closed between readings.",
           "kid": "Read all four numbers again. Write them down. Close the lids.",
           "parent": "Keep the box in the coolest, shadiest room, away from the fan and the sun. In hot weather, tub B may warm too, and smell sour, as microbes grow. A rise of 1 or 2 degrees is typical, and it may be zero. A rise is real if the thermometer gave the same number in all three tubs at the start. Moong that is sprouting well will have small white tips by the evening. If A is no warmer than C, add more moong, use a smaller tub, or wrap the box with another towel.",
-          "context": "In this step, you take more readings during the day. A warm rise builds slowly."
+          "context": "In this step, you take more readings during the day. The rise in temperature builds slowly."
         },
         {
           "id": "s5",
@@ -1672,7 +1672,7 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the numbers for a grass field out loud. Grass plants 1000. Grasshoppers 100. Frogs 10. Snakes 1. Cut four strips 1 centimetre wide for every 100 beings. So grass is 10 centimetres wide. Grasshoppers are 1 centimetre. Frogs and the snake are so thin that you can draw them as lines. Glue the strips in a pyramid, centred.",
+          "do": "Read the numbers for a grass field out loud: 1000 grass plants, 100 grasshoppers, 10 frogs and 1 snake. Cut four paper strips, one for each level. Make each strip 1 centimetre wide for every 100 beings. So the grass strip is 10 centimetres wide and the grasshopper strip is 1 centimetre wide. The frogs and the snake are so thin that you can draw them as lines. Glue the strips one above the other, centred, to make a pyramid.",
           "say": "These are made-up numbers for a grass field. We will draw how wide each level is. The widest strip is the grass. The snake is just a line.",
           "kid": "Cut a wide strip for the grass. Make the grasshoppers narrower. Make the frogs and snake thin lines. Glue them in a pyramid.",
           "ask": [
@@ -1690,8 +1690,8 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "First sketch the shape you expect. Now do a banyan tree. One tree. 1000 insects that eat her leaves. 20 birds that eat the insects. 1 hawk. Use the same rule, 1 centimetre for every 100. The tree is a line. The insects are 10 centimetres wide. Glue them in a pile and look at the shape.",
-          "say": "First sketch the shape you expect. Now a banyan tree. There is one tree, but 1000 insects live on her leaves. Make the strips. What shape do you get?",
+          "do": "Now make a pyramid of numbers for a banyan tree. There is 1 tree, 1000 insects who eat her leaves, 20 birds who eat the insects, and 1 hawk. First sketch the shape you expect. Then use the same rule, 1 centimetre for every 100 beings. The tree is a line. The insect strip is 10 centimetres wide. Glue the strips one above the other and look at the shape.",
+          "say": "Now we make a pyramid for a banyan tree. There is one tree, but 1000 insects live on her leaves. First sketch the shape you expect. Then make the strips. What shape do you get?",
           "kid": "Make strips for one banyan tree. One tree is a line. Then 1000 insects, 20 birds and 1 hawk. What shape is it?",
           "parent": "The shape is thin, wide, thin, thinner. This is correct. Counting the number of beings makes the tree look unimportant, even though she feeds everyone.",
           "check": {
@@ -1705,12 +1705,12 @@
             "a": 0,
             "why": "A big tree has a large amount of leaf to share. So the number of animals is high even though there is only one tree. A pyramid of numbers can hide how important the tree is."
           },
-          "context": "In this step, you make a pyramid of numbers for a banyan tree. It is not a pyramid."
+          "context": "In this step, you make a pyramid of numbers for a banyan tree. Its shape is not a pyramid."
         },
         {
           "id": "s3",
           "mins": 9,
-          "do": "Now the open sea. These made-up weights are in tonnes, at one moment. Tiny algae 2, tiny animals 5, small fish 3, tuna 1. Use 1 centimetre for each tonne and glue the strips. Then make a second pyramid for the energy in a year: 1000, 100, 10 and 1. Use 1 centimetre for every 100 units. Compare the two.",
+          "do": "Now make a pyramid of weights for the open sea. These made-up weights are in tonnes, at one moment: tiny algae 2, tiny animals 5, small fish 3, tuna 1. Use 1 centimetre for each tonne and glue the strips. Then make a second pyramid for the energy in a year: 1000, 100, 10 and 1. Use 1 centimetre for every 100 units. Compare the two.",
           "say": "In the open sea, the algae are eaten as fast as they grow. At one moment they weigh less than the tiny animals who eat them. Make that pyramid. Then make the energy pyramid.",
           "kid": "Make a weight pyramid for the sea. The algae are narrow. Then make the energy pyramid. Compare them.",
           "ask": [
@@ -1761,7 +1761,7 @@
       ],
       "safety": "A grown-up cuts the bottle. The bulb gets hot, so keep it 15 centimetres above the soil (10 for an LED) and away from the plastic. Do not touch it. Stay in the room while it is on. Centipedes can bite, so lift nothing with your fingers. Use a spoon or paper strip. Wash your hands after touching soil or compost. Do not touch any animals with your bare hands.",
       "record": "Draw the animals you find, and write how many you counted and what each might eat.",
-      "context": "In this activity, you find the small animals that live on dead leaves. They are the first eaters in the dead-leaf chain, and a lamp drives them out of the soil into a cup.",
+      "context": "In this activity, you find the small animals that live on dead leaves. They are the first eaters in the dead-leaf chain. A lamp drives them out of the leaves and into a jar.",
       "setup": [
         {
           "art": "A bottle top turned upside down as a funnel, with a net inside and a jar of damp tissue underneath.",
@@ -1781,10 +1781,10 @@
           "id": "s1",
           "mins": 10,
           "do": "A grown-up cuts the top third off the bottle. Turn the top upside down and stand it in a jar. Put the net inside. Add the leaf litter. Ask your child to guess what will fall into the jar and why.",
-          "say": "We will see who lives in the dead leaves. Light and warmth dry the leaves from the top. What do you think will fall into the jar? Why?",
+          "say": "We will see who lives in the dead leaves. A lamp will warm the leaves and dry them from the top. What do you think will fall into the jar? Why?",
           "kid": "Make a funnel with the bottle top. Put the leaves in. What will fall into the jar? Why?",
           "adult": true,
-          "parent": "The best litter is damp, brown and crumbly, from under a tree, from a compost pot or from a kitchen compost bin. Fresh potting mix often has almost nothing alive. If your soil is dry, mist it. With 2 to 4 children, make one funnel each with a different litter, such as under a tree, a compost pot and dry soil. The animals are tiny, so use the magnifying glass.",
+          "parent": "The best litter is damp, brown and crumbly, from under a tree, from a compost pot or from a kitchen compost bin. Fresh potting mix often has almost nothing alive. If your soil is dry, spray a little water on it. With 2 to 4 children, make one funnel each with a different litter, such as under a tree, a compost pot and dry soil. The animals are tiny, so use the magnifying glass.",
           "context": "This is the first step of the funnel trap. You set it up and make a guess."
         },
         {
@@ -1802,7 +1802,7 @@
           "mins": 15,
           "do": "Put a little of what fell into the jar on the white plate. Look with the magnifying glass. Count how many kinds you see. Draw two. Say what each one might be eating.",
           "say": "Look at the plate. Count the kinds of animals. Draw two of them. What might each one eat?",
-          "kid": "Tip the jar on to the plate. Look with the lens. Count the kinds. Draw two.",
+          "kid": "Tip the jar on to the plate. Look with the magnifying glass. Count the kinds. Draw two.",
           "ask": [
             {
               "q": "Which of these animals eats leaves, and which eats other animals?",
@@ -1873,10 +1873,10 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Write a level for each food. Plants are level 1. A cow eats grass, so she is level 2, and so are milk and curd. A hen eats half grain and half insects, and she is about 2.25. A sardine is about 2.5. Egg: 2.25. Fish fry: 2.5.",
+          "do": "Write a level for each food. Plants are level 1. A cow eats grass, so she is level 2, and so are milk and curd. A hen eats grain and insects, and she is about 2.25, so an egg is 2.25. A sardine is about 2.5, so a fish fry is 2.5.",
           "say": "A food has the level of the being it came from. Plants are level 1. Cows are level 2. Hens are 2.25 and sardines are 2.5.",
           "kid": "Write a level beside each food. Plants are 1. Cow's milk and curd are 2. Eggs are 2.25. Sardines are 2.5.",
-          "parent": "These levels come from the Level Detective game. If you do not have a level for an animal, ask a grown-up to guess, using what she eats.",
+          "parent": "These levels come from the Level Detective game. If you do not have a level for an animal, make a guess from what she eats.",
           "check": {
             "t": "mcq",
             "q": "A person eats rice, dal and curd in equal amounts. Rice and dal are level 1 and curd is level 2. What is the average level of the food?",
@@ -1976,7 +1976,7 @@
           "do": "On day 2, next to each food, write the being it came from. Write its level, using the Level Detective cards. Skip salt. Count how many foods are at level 1, at level 2 and above. Add the levels and divide by the number of foods. Add 1.",
           "say": "Now trace each food to a plant or animal. Use the levels from the game. Count how many are level 1, how many are level 2 and above. Work out the average.",
           "kid": "Trace each food. Write its level. Count how many foods are at each level.",
-          "parent": "Rice, wheat, dal, vegetables, fruit and oil are level 1. Milk, curd and ghee are level 2. Eggs are 2.25. A chicken meal is 2.25 as the food. Small sea fish are about 2.5. A bigger fish such as a tuna is 4. Salt does not count. A count of foods treats a pinch of ghee like a bowl of rice. For a fairer answer, count each food once for every spoon or piece. Then work out the average again.",
+          "parent": "Rice, wheat, dal, vegetables, fruit and oil are level 1. Milk, curd and ghee are level 2. Eggs are 2.25, and so is chicken. Small sea fish are about 2.5. A bigger fish such as a tuna is 4. Salt does not count. A count of foods treats a pinch of ghee like a bowl of rice. For a fairer answer, count each food once for every spoon or piece. Then work out the average again.",
           "context": "In this step, you find the being each food came from and give each food a level."
         },
         {
@@ -1996,10 +1996,10 @@
       "id": "c1",
       "title": "Feed the Village: twelve fields, eighty mouths",
       "mins": 40,
-      "problem": "A village of 80 people has 12 fields. Each field can grow rice, grass for cows, or fish in a pond. Plan the fields to feed everyone for one month. At least one tenth of the food must come from milk, fish or eggs, because people need more than rice. Use these made-up numbers. One rice field feeds 8 people for a month. One grass field for cows feeds 1 person for a month with milk. One fish pond feeds 3 people for a month. If you keep at least one grass field, the straw from each 2 rice fields feeds the cows and adds 1 more person-month of milk, up to 4 more.",
+      "problem": "A village of 80 people has 12 fields. Each field can grow rice, grass for cows, or fish in a pond. Plan the fields to feed everyone for one month. At least one tenth of the food must come from milk, fish or eggs, because people need more than rice. Use these made-up numbers. One rice field feeds 8 people for a month. One grass field for cows gives enough milk to feed 1 person for a month. One fish pond feeds 3 people for a month. If you keep at least one grass field, the cows can also eat the straw from the rice fields. The straw from every 2 rice fields gives milk for 1 more person for a month, up to 4 more people.",
       "constraints": [
         "You have exactly 12 fields, and each field does one job.",
-        "You must feed at least 80 people-months.",
+        "You must feed at least 80 people for the month. Feeding one person for one month is 1 person-month, so you need at least 80 people-months.",
         "At least 8 of those people-months must come from milk, fish or eggs.",
         "Show your sums on paper, one line for each kind of field.",
         "These numbers are made up, but they keep the true pattern: animals give back less than plants."
@@ -2011,8 +2011,8 @@
       ],
       "general": [
         "Grow rice in 9 fields and keep 3 fish ponds. Rice feeds 72 and the ponds feed 9. That is 81 people-months, and 9 come from fish. It works, and it needs no cows.",
-        "Grow rice in 10 fields, 1 fish pond and 1 grass field. Rice feeds 80, the pond 3 and the grass 1. Straw adds 4, which is the most it can add. That is 88, and 8 come from animals. It works with a little to spare.",
-        "Grow rice in 9 fields, 1 fish pond and 2 grass fields. Rice feeds 72, the pond 3 and the grass 2. Straw adds 4. That is 81, and 9 come from animals. It works.",
+        "Grow rice in 10 fields, and keep 1 fish pond and 1 grass field. Rice feeds 80, the pond 3 and the grass 1. Straw adds 4, which is the most it can add. That is 88, and 8 come from animals. It works with a little to spare.",
+        "Grow rice in 9 fields, and keep 1 fish pond and 2 grass fields. Rice feeds 72, the pond 3 and the grass 2. Straw adds 4. That is 81, and 9 come from animals. It works.",
         "Grow rice in all 12 fields. That feeds 96, but nothing comes from milk, fish or eggs. It fails the rule for animal foods."
       ],
       "creative": [
@@ -2118,7 +2118,7 @@
     },
     {
       "t": "mcq",
-      "p": "An animal eats 100 units of energy. Which statement is most likely true?",
+      "p": "An animal eats food that holds 100 units of energy. Which statement is most likely true?",
       "opts": [
         "Only a small part becomes new body that the next eater can use",
         "Nearly all of it becomes new body",
@@ -2252,11 +2252,11 @@
   "applications": [
     "Farmers choose crops and animals by asking how much food energy each field can really give. Rice and ragi give more energy per hectare than cattle fed on grain.",
     "Fish farmers in Kerala and Andhra Pradesh feed fish and prawns as low on the chain as they can, because every step up wastes energy.",
-    "Biogas plants and composting turn the energy in dung and kitchen waste into gas and heat that families use, using the decomposer chain on purpose.",
+    "Biogas plants and compost heaps put decomposers to work on purpose. They turn the energy in dung and kitchen waste into gas and heat that families use.",
     "Conservation planners count the energy at the bottom of the web to decide how many tigers a forest can support.",
     "Fishing rules, such as a break during the monsoon, protect the lower levels so that bigger fish can feed.",
-    "Dairy farmers feed cows straw and grass that people cannot eat, and get milk, which is a way of turning energy people cannot use into food people can.",
-    "Insulated lunch boxes and thermoses work by slowing the heat's escape, the same escape that every body in a food chain has.",
+    "Dairy farmers feed cows straw and grass that people cannot eat, and get milk. The cows turn energy that people cannot use into food that people can eat.",
+    "Insulated lunch boxes and thermoses work by slowing down the escape of heat. Heat escapes in the same way from every body in a food chain.",
     "Scientists measure what fish and sea birds eat by the heavy nitrogen in their bodies, to learn whether a fishery is still healthy.",
     "Wetland and mangrove protection, such as at Pichavaram and in the Sundarbans, keeps the dead-leaf chain that feeds fish.",
     "Cooks and nutritionists measure food in kilojoules or kilocalories, the same energy units that scientists use to measure a food chain."
@@ -2381,7 +2381,7 @@
   ],
   "maths": [
     {
-      "problem": "In your peanut test, 100 grams of water warmed by 8 degrees. It takes about 4 joules to warm 1 gram of water by 1 degree. How many joules did the water catch?",
+      "problem": "In the Peanut test, 100 grams of water warmed by 8 degrees. It takes about 4 joules to warm 1 gram of water by 1 degree. How many joules did the water catch?",
       "answer": "3200 joules.",
       "explain": "Multiply the three numbers. 100 times 8 is 800. 800 times 4 is 3200. So the water caught about 3200 joules, or 3.2 kilojoules.",
       "math_unit": "math.multiplication.multi-digit.L4",
@@ -2390,7 +2390,7 @@
       "why_maths": "Multiplying turns a thermometer reading into an amount of energy, so that you can compare it with the energy in the nut."
     },
     {
-      "problem": "The peanut held about 14,000 joules and the water caught 3500. A friend says most of the heat was lost. Is she right? What fraction was lost?",
+      "problem": "In the Peanut test, the peanut held about 14,000 joules and the water caught 3500. A friend says most of the heat was lost. Is she right? What fraction was lost?",
       "answer": "Yes. Three quarters was lost.",
       "explain": "3500 out of 14,000 is one quarter, because 3500 times 4 is 14,000. So the water caught one quarter and three quarters went elsewhere. She is right.",
       "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -2408,13 +2408,13 @@
       "why_maths": "A pattern lets you guess what comes next, and see when the guess shows a limit."
     },
     {
-      "problem": "In the Peanut test, the bare set-up gave rises of 5 and 7 degrees. The shielded set-up gave rises of 9 and 11 degrees. The two trials of each set-up differ by 2 degrees. The averages differ by 4. Does the shield really make a difference?",
+      "problem": "In the Peanut test, the two trials with no shield gave rises of 5 and 7 degrees. The two trials with the foil shield gave rises of 9 and 11 degrees. So two trials of the same set-up differ by 2 degrees, and the averages of the two set-ups differ by 4. Does the shield really make a difference?",
       "answer": "Yes, probably. The gap between the set-ups is bigger than the gap between two trials of the same set-up.",
-      "explain": "The averages are 6 and 10, so they differ by 4 degrees. Two trials of the same set-up differ by only 2. A difference bigger than the usual wobble between trials is more likely to be real.",
+      "explain": "The averages are 6 and 10, so they differ by 4 degrees. Two trials of the same set-up differ by only 2. A difference bigger than the usual small difference between trials is more likely to be real.",
       "math_unit": "math.data.reading-data.L4",
       "how": "e1",
       "context": "In the Peanut test, you do each set-up twice. Here you decide if the difference between set-ups is real.",
-      "why_maths": "Comparing a difference with the wobble between repeats shows whether a result is likely to be real."
+      "why_maths": "Comparing a difference with the small differences between repeats of the same test shows whether a result is likely to be real."
     },
     {
       "problem": "A hen eats 3 parts grain, which is level 1, for every 1 part of insects, which is level 2. What is her level? Show how you work it out.",
@@ -2535,7 +2535,7 @@
       "a": "Detritus."
     },
     {
-      "q": "Is a decomposer an animal, a plant or a fungus or bacterium?",
+      "q": "Is a decomposer an animal, a plant, or a fungus or bacterium?",
       "a": "A fungus or a bacterium."
     },
     {
@@ -2630,15 +2630,15 @@
     "context": "We have followed the Sun's energy along food chains and watched it turn into heat. Now we ask what this tells us about what a living body is, and who we are.",
     "deep_truth": {
       "truth": "Energy is not kept in a food chain. It passes through, and at every step most of it turns into heat. A living body is not a store of energy. It is a pattern that lasts only while energy keeps flowing through it, like a flame.",
-      "habit": "We talk as if a body 'has' energy and 'uses it up', like petrol in a tank, and as if the animal at the top has collected the most. But energy is never used up. It only changes form and spreads out as heat. What a body keeps is a way of letting energy pass.",
-      "evidence": "The burning peanut gave its stored energy to the water, the air and the tin, and none of it stayed in the nut. Lindeman found less energy at every level of a lake, and heat leaves the Earth as fast as sunlight arrives. Living cells give off heat every second they are alive, and a body that stops taking in energy stops being alive."
+      "habit": "We talk as if a body 'has' energy and 'uses it up', like petrol in a tank, and as if the animal at the top has collected the most. But energy is never used up. It only changes form and spreads out as heat. A body does not keep the energy. It keeps its shape, while energy passes through.",
+      "evidence": "In the experiment A Peanut Full of Sunshine, the burning peanut gave its stored energy to the water, the air and the tin, and none of it stayed in the nut. In 1942 Raymond Lindeman found less energy at every level of a lake. Heat leaves the Earth as fast as sunlight arrives. Living cells give off heat every second they are alive, and a body that stops taking in energy stops being alive."
     },
     "three": {
       "who_am_i": "You are not a box that holds energy. You are a pattern that lasts while sunlight, through plants and food, keeps flowing through you.",
       "what_is_life": "Life is energy passing through matter in a particular shape. Every being, from a bacterium to a tiger, keeps that shape going for a while by taking energy in and letting heat out.",
       "what_is_this_world": "The Earth is a place where the Sun's light is slowed down on its way back to space. Every green leaf, every grasshopper and every mangrove crab is part of that slowing down."
     },
-    "thread": "Sunlight arrives all as one stream. A leaf catches a small part, a caterpillar takes a small part of that, and a bird a small part of that again. At each step the stream turns into many bodies, each in a different shape, and at each step heat leaves and joins the sky. The Earth then gives back to space almost as much as it received. Nothing in the chain keeps the energy, and nothing in the chain could live without it. The many bodies are one flow, seen at different places along its way.",
+    "thread": "Sunlight arrives as one flow of energy. A leaf catches a small part, a caterpillar takes a small part of that, and a bird a small part of that again. At each step the energy passes into many bodies of different shapes, and at each step heat leaves and spreads into the sky. The Earth then gives back to space almost as much as it received. Nothing in the chain keeps the energy, and nothing in the chain could live without it. All these bodies are parts of one flow of energy, at different places along its way.",
     "teachings": [
       {
         "source": "Taittiriya Upanishad 3.2 (the Bhrigu Valli)",
@@ -2648,7 +2648,7 @@
       {
         "source": "Isha Upanishad, verse 1",
         "teaching": "The verse says that all this world is pervaded by one reality. It then says to enjoy what is given by letting go, and not to covet anyone's wealth.",
-        "link": "In a food chain, no one holds the energy for long. Each eater receives, uses and lets go. The heat she lets go is what the next living thing, the sky, receives."
+        "link": "In a food chain, no one holds the energy for long. Each eater receives, uses and lets go. The heat she lets go passes on to the air and the sky."
       },
       {
         "source": "Tattvartha Sutra 5.21, a Jain text by Umaswati",
@@ -2668,7 +2668,7 @@
     ],
     "other_view": {
       "who": "Some ecologists",
-      "view": "Energy flow is a useful way to count, but it is our way of drawing nature. A forest has no goal of passing on energy. They say it is better to study how species affect each other, because a tiny predator can change a whole web without moving much energy."
+      "view": "Energy flow is a useful way to count, but it is our way of drawing nature. A forest has no goal of passing on energy. Some ecologists say it is better to study how species affect each other, because a tiny predator can change a whole web without moving much energy."
     },
     "practice": {
       "title": "One slow mouthful",
@@ -2690,5 +2690,5 @@
     "when": "1941 to 1942",
     "wrong_idea": "Many ecologists thought the way to understand a lake or a forest was to list and count who lives there. Counting can mislead, because one tree can carry thousands of insects. Lindeman showed that following the energy, and including the dead matter in the mud, tells you much more."
   },
- "warm": {"words": ["SUGAR", "TENTH", "LEVEL", "PLANT", "FUNGI"], "quiz": [["A green field stores only about one hundredth of the sunlight that falls on it, or less.", true, "Plants catch a very small part of the sunlight, and turn only that part into sugar."], ["Exactly one tenth of the energy always passes to the next level, like a law of nature.", false, "Measured numbers range from under 2 to over 30 in 100, depending on who is eating."], ["Every living body gives off heat because cells use food and oxygen to free energy.", true, "This is respiration: food and oxygen make carbon dioxide, water and heat."], ["A pyramid of energy can be upside down, just like a pyramid of numbers can.", false, "Energy flowing through a level cannot be more than what it got from the level below."], ["One big tree can feed thousands of insects, so a pyramid of numbers can be upside down.", true, "A few large producers can support many small eaters, so the bottom bar is the narrower one."], ["Decomposers are the end of the food chain, and nothing eats them.", false, "Nematodes graze on fungi and bacteria, and springtails eat fungi, so decomposers feed others too."], ["Some food chains in the deep sea begin with chemicals, not sunlight.", true, "Near hot vents in total darkness, bacteria make food from chemicals and animals feed on them."], ["An animal who eats grass and also insects always sits at level 3.", false, "Her level is the average level of her food plus one, so it can be between 2 and 3."], ["Atoms in living things are used again and again, but energy is not.", true, "Atoms go round and round, while energy enters as light and leaves as heat."], ["Eating plants always uses less land than eating animals.", false, "Cows and goats turn grass and straw, which people cannot digest, into food, often on land where crops will not grow."]], "odd": [[["Cow", "Goat", "Rabbit", "Hawk"], "Hawk", "Cow, goat and rabbit eat producers, so they are at level 2; a hawk eats other animals, at level 3."], [["Dung beetle", "Earthworm", "Fungus", "Hawk"], "Hawk", "Dung beetle, earthworm and fungus feed on dead matter; a hawk hunts living animals."], [["Carbon in sugar", "Nitrogen in soil", "Atoms in dung", "Heat from respiration"], "Heat from respiration", "Atoms are used again and again; heat leaves living things and is not used again."], [["Sugar", "Starch", "Fat", "Salt"], "Salt", "Sugar, starch and fat hold chemical energy in joined atoms that a body can free; salt holds none to use."], [["Lizard", "Frog", "Snake", "Sparrow"], "Sparrow", "Cold-blooded lizards, frogs and snakes burn little food for heat, so pass on more; a warm-blooded sparrow passes on less."]]}
+ "warm": {"words": ["SUGAR", "TENTH", "LEVEL", "PLANT", "FUNGI"], "quiz": [["A green field stores only about one hundredth of the sunlight that falls on it, or less.", true, "Plants catch a very small part of the sunlight, and turn only that part into sugar."], ["Exactly one tenth of the energy always passes to the next level, like a law of nature.", false, "Measured numbers range from under 2 to over 30 in 100, depending on who is eating."], ["Every living body gives off heat because cells use food and oxygen to free energy.", true, "This is respiration: food and oxygen make carbon dioxide, water and heat."], ["A pyramid of energy can be upside down, just like a pyramid of numbers can.", false, "Energy flowing through a level cannot be more than what it got from the level below."], ["One big tree can feed thousands of insects, so a pyramid of numbers can be upside down.", true, "A few large producers can support many small eaters, so the bottom bar is the narrower one."], ["Decomposers are the end of the food chain, and nothing eats them.", false, "Nematodes graze on fungi and bacteria, and springtails eat fungi, so decomposers feed others too."], ["Some food chains in the deep sea begin with chemicals, not sunlight.", true, "Near hot vents in total darkness, bacteria make food from chemicals and animals feed on them."], ["An animal who eats grass and also insects always sits at level 3.", false, "Her level is the average level of her food plus one, so it can be between 2 and 3."], ["Atoms in living things are used again and again, but energy is not.", true, "Atoms go round and round, while energy enters as light and leaves as heat."], ["Eating plants always uses less land than eating animals.", false, "Cows and goats turn grass and straw, which people cannot digest, into food, often on land where crops will not grow."]], "odd": [[["Cow", "Goat", "Rabbit", "Hawk"], "Hawk", "Cow, goat and rabbit eat producers, so they are at level 2; a hawk eats other animals, at level 3."], [["Dung beetle", "Earthworm", "Fungus", "Hawk"], "Hawk", "Dung beetle, earthworm and fungus feed on dead matter; a hawk hunts living animals."], [["Carbon in sugar", "Nitrogen in soil", "Atoms in dung", "Heat from respiration"], "Heat from respiration", "Atoms are used again and again; heat leaves living things and is not used again."], [["Sugar", "Starch", "Fat", "Salt"], "Salt", "Sugar, starch and fat hold chemical energy in joined atoms that a body can free; salt holds none to use."], [["Lizard", "Frog", "Snake", "Sparrow"], "Sparrow", "Cold-blooded lizards, frogs and snakes burn little food for heat, so they pass on more; a warm-blooded sparrow passes on less."]]}
 }
