@@ -373,7 +373,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Put every card on its half of the mat. Count the cards on each half. Ask which half has more cooking changes.",
+     "do": "Put every card on its half of the mat. Count the cards on each half. Ask which half has more cards.",
      "say": "Look at the Stays changed half. How many of those use heat? Which ones were done by tiny living beings?",
      "kid": "Count each half. Which has more?",
      "ask": [

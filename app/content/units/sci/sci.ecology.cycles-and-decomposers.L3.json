@@ -542,7 +542,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In the game, which card helps a leaf rot fastest?",
+      "q": "In the game, which card gives decomposers the water they need to feed?",
       "options": [
        "HOT SUN",
        "RAIN",
@@ -1481,7 +1481,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. The leaf falls. 2. The millipede tears the newspaper leaf into big pieces. 3. The earthworm pulls pieces into a pretend burrow under a chair. 4. The fungus and bacteria tear the pieces into tiny bits. 5. The plant picks up the tiny bits and sticks them on a paper tree as new leaves.",
+     "do": "1. The leaf falls. A sheet of newspaper stands for the leaf. 2. The millipede tears the newspaper leaf into big pieces. 3. The earthworm pulls pieces into a pretend burrow under a chair. 4. The fungus and bacteria tear the pieces into tiny bits. 5. The plant picks up the tiny bits and sticks them on a paper tree as new leaves.",
      "say": "First the leaf falls. Who comes next? Why do the bits need to get smaller and smaller?",
      "kid": "Act out your part. Tear the leaf smaller and smaller. Then the plant uses the bits!",
      "parent": "Point out that each step makes the pieces smaller. Small pieces have more surface for fungi and bacteria to feed on. Tearing is only our model. Fungi and bacteria really break food down with chemicals called enzymes."

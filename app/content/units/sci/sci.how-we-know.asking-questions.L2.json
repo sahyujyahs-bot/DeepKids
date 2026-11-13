@@ -1371,9 +1371,9 @@
   },
   {
    "t": "mcq",
-   "p": "Comets were seen in 1531, 1607 and 1682. They all moved the same way across the sky, and came about 75 years apart. What is a good prediction?",
+   "p": "Comets were seen in 1531, 1607 and 1682. They all moved the same way across the sky, and came about 76 years apart. What is a good prediction?",
    "opts": [
-    "It is one comet coming back, so it will return about 75 years after 1682",
+    "It is one comet coming back, so it will return about 76 years after 1682",
     "The Moon will fall",
     "It will rain tomorrow"
    ],
@@ -1383,7 +1383,7 @@
   },
   {
    "t": "mcq",
-   "p": "A comet comes back about every 75 years. On its trip it passes near big planets like Jupiter and Saturn. Why might it come back a little later than expected?",
+   "p": "A comet comes back about every 76 years. On its trip it passes near big planets like Jupiter and Saturn. Why might it come back a little later than expected?",
    "opts": [
     "The pull of the big planets can slow it down",
     "It gets tired",
@@ -1972,7 +1972,7 @@
   ],
   "other_view": {
    "who": "Some philosophers",
-   "view": "They say that even a test result is seen by each person in their own way, so no two people ever see exactly the same thing. Others answer that, even so, everyone who watched can agree that the bottle lifted."
+   "view": "Some philosophers say that even a test result is seen by each person in their own way, so no two people ever see exactly the same thing. Others answer that, even so, everyone who watched can agree that the bottle lifted."
   },
   "practice": {
    "title": "Predict your breath",

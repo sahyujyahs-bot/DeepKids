@@ -696,7 +696,7 @@
       "Square 13: THE SEA. No resting here. A wrong answer sends you back 2.",
       "Square 14: THE SEA. No resting here. A wrong answer sends you back 2.",
       "Square 15: THE SEA. No resting here. A wrong answer sends you back 2.",
-      "Square 16: THE SEA. BRIGHT LIGHTS on a ship. Go back 1, unless you can say why lights are a problem for migrating birds. A wrong answer sends you back 2 as well.",
+      "Square 16: THE SEA. BRIGHT LIGHTS on a ship. Say why lights are a problem for migrating birds. A wrong answer sends you back 2.",
       "Square 17: THE SEA. No resting here. A wrong answer sends you back 2.",
       "Square 18: THE SEA. No resting here. A wrong answer sends you back 2.",
       "Square 19: THE SEA. No resting here. A wrong answer sends you back 2.",
@@ -1558,7 +1558,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Ask family members four questions about when they feel most awake, and compare the answers by age."
+     "what": "Ask family members when they wake on a holiday and when they feel most awake, and compare the answers by age."
     }
    ],
    "record": "A table with each person's age, when they wake on a holiday, and when they feel most awake.",

@@ -575,7 +575,7 @@
      [
       "Milk packet, not rinsed",
       "Yes",
-      "Dry, after rinsing"
+      "No (dry after rinsing)"
      ],
      [
       "Plastic wrapper",
@@ -1883,7 +1883,7 @@
   ],
   "other_view": {
    "who": "Many biologists",
-   "view": "They describe bacteria and fungi breaking down a peel as chemistry: the microbes make juices called enzymes that cut the peel into small pieces. They do not use the words choose or want for this."
+   "view": "Many scientists who study microbes describe bacteria and fungi breaking down a peel as chemistry: the microbes make juices called enzymes that cut the peel into small pieces. They do not use the words choose or want for this."
   },
   "practice": {
    "title": "Where will it go?",

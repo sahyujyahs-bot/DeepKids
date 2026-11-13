@@ -2987,7 +2987,7 @@
    "explain": "There are 60 minutes in an hour. Each minute has about 100 heartbeats. 60 lots of 100 is 6,000. So a child's heart beats about 6,000 times every hour, day and night. In one day that is more than 100,000 beats.",
    "math_unit": "math.number-sense.place-value.L3",
    "how": "a3",
-   "context": "This is about the squeeze like a heart activity. You squeeze a ball once every time your heart beats, to feel how hard the heart works.",
+   "context": "This is about the squeeze like a heart activity. You squeeze a ball about as often as your heart beats, once every second, to feel how hard the heart works.",
    "why_maths": "Big numbers are hard to feel. Building them up from one minute you have felt helps you understand how hard your heart really works."
   }
  ],

@@ -1841,7 +1841,7 @@
  ],
  "applications": [
   "Makers of artificial limbs, like the Jaipur Foot, copy how a real foot bends, so people can walk, squat and climb again.",
-  "Doctors called physiotherapists help people move a joint again after an injury, with gentle exercises.",
+  "Physiotherapists are health workers who help people move a joint again after an injury, with gentle exercises.",
   "Designers make big buttons, thick pencils and easy-grip handles for people whose thumbs and fingers are stiff, like many older people.",
   "Engineers build robot hands with a thumb that presses against the fingers, so the robot can pick up small things."
  ],
@@ -1878,7 +1878,7 @@
   },
   {
    "q": "Why are about one in ten people left-handed?",
-   "why_open": "Left-handedness runs a little in families, but many genes and things before birth play a part. Nobody yet knows the full answer."
+   "why_open": "Left-handedness runs a little in families. Genes are the instructions passed down from parents that help build your body. Many genes, and things before birth, play a part. Nobody yet knows the full answer."
   }
  ],
  "ask_kids": [

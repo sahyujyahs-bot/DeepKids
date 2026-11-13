@@ -1269,7 +1269,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Pick a sun patch that lasts at least two hours. 2. Choose one sharp corner. 3. Cut 5 strips.",
+     "do": "1. Pick a sun patch that lasts at least two hours. 2. Choose one sharp corner. 3. Cut 5 strips of paper or masking tape.",
      "say": "We are going to turn this sun patch into a clock. Which corner has the sharpest edge?",
      "kid": "Pick the sharpest corner of the sun patch."
     },
@@ -2059,7 +2059,7 @@
    "why_maths": "Comparing the numbers shows the pattern at a glance: long, short, long."
   },
   {
-   "problem": "In the story, Meenakshi's grandmother Ammamma moves her drying chillies at 8 o'clock in the morning, at 12 o'clock, and at 4 o'clock in the afternoon. How many hours are there between each move?",
+   "problem": "On a sunny day, Meenakshi's grandmother Ammamma moves her drying chillies at 8 o'clock in the morning, at 12 o'clock, and at 4 o'clock in the afternoon. How many hours are there between each move?",
    "answer": "4 hours.",
    "explain": "From 8 o'clock to 12 o'clock: 9, 10, 11, 12. That is 4 hours. From 12 o'clock to 4 o'clock: 1, 2, 3, 4. That is 4 hours too.",
    "math_unit": "math.time.telling-time.L2",

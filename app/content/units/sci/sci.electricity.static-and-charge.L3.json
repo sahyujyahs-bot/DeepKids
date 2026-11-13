@@ -1221,7 +1221,7 @@
      "do": "1. Hold the wool around the top of the tassel. 2. Pull it down the strips 5 or 6 times. 3. Let go and step back.",
      "say": "Now we rub every strip in the same way. Before I let go, guess: will the strips stick together, or spread apart? Why?",
      "kid": "Pull the wool down the strips five times. Let go. What happens?",
-     "parent": "The strips spread out into a fan, and push away from your hand too if you bring the wool near. Every strip got the same kind of charge from the wool, and the same charges repel. On a damp day the spread is smaller. Try again in an AC room.",
+     "parent": "The strips spread out into a fan. If you bring the wool near, the strips lean towards it, because the wool has the opposite charge to the strips. Every strip got the same kind of charge from the wool, and the same charges repel. On a damp day the spread is smaller. Try again in an AC room.",
      "check": {
       "t": "mcq",
       "q": "The rubbed plastic strips spread apart. Why?",

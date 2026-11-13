@@ -1954,7 +1954,7 @@
    "why_maths": "Taking the smaller time from the bigger one shows how much faster your warm hand was than the floor."
   },
   {
-   "problem": "In the Make It or Keep It warmth hunt, you made a tally: Makes warmth: |||| . Keeps warmth in: |||| | . Which column has more, and by how many?",
+   "problem": "In the Make It or Keep It warmth hunt, you made a tally: Makes warmth: ||||| . Keeps warmth in: ||||| | . Which column has more, and by how many?",
    "answer": "Keeps warmth in has more, by 1. It has 6 and Makes warmth has 5.",
    "explain": "Count the tally marks. The first column has 5 and the second has 6. 6 is 1 more than 5.",
    "math_unit": "math.data.sorting-and-tallies.L2",

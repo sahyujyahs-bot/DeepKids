@@ -941,8 +941,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Go down the list. 2. For each thing, ask if a natural material could do the job. 3. Circle those.",
-     "say": "Could this be made of wood, steel, clay, cloth or leaf instead? Which ones would be hard to replace?",
-     "kid": "Could it be wood, steel, clay or cloth instead? Circle those.",
+     "say": "Could this be made of wood, clay, cloth or leaf instead? Which ones would be hard to replace?",
+     "kid": "Could it be wood, clay or cloth instead? Circle those.",
      "ask": [
       {
        "q": "Which plastic thing would be hardest to replace?",
@@ -1472,7 +1472,7 @@
      ],
      "ask": "Whose plan would you pick? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks one and gives a reason, such as 'the banana leaf broke down in the soil test'. It also says what the other is right about, such as 'steel plates are used again and again, so they make no rubbish'.",
+     "a": "A strong answer picks one and gives a reason, such as 'the banana peel broke down in the soil test, and banana leaves are a plant material too'. It also says what the other is right about, such as 'steel plates are used again and again, so they make no rubbish'.",
      "why": "Both are good choices. One breaks down, the other lasts and is used again. Made does not always mean bad."
     }
    ]

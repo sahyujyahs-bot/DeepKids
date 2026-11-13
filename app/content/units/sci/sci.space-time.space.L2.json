@@ -92,7 +92,7 @@
    "definition": "Distance is how much space there is between two things. Near means a small distance. Far means a big distance.",
    "description": "In Step It Out, you counted steps to places in your home. The place that took the fewest steps was the nearest. We use steps for short distances at home. For longer ones, we use metres and kilometres. A kilometre is about 1,300 steps of a grown-up. The Moon is about 384,000 kilometres away. That is so far that walking there, day and night without stopping, would take about 9 years.",
    "examples": [
-    "3 steps to the bed, and 7 steps to the door",
+    "3 steps to the window, and 7 steps to the door",
     "A short walk to the corner shop",
     "The very long way to the Moon"
    ],
@@ -883,7 +883,7 @@
      "id": "s2",
      "mins": 11,
      "do": "1. Play at least four rounds, swapping hider and seeker. 2. Keep count of the cards shown each round.",
-     "say": "Nearer. Nearer. Oh, farther now. Very near!",
+     "say": "Hold up the cards as the seeker walks: 'Nearer', 'Nearer', 'Farther', 'Very near'.",
      "kid": "Walk the way the cards tell you. Find the tumbler.",
      "ask": [
       {

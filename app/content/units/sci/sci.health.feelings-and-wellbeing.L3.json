@@ -427,7 +427,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Round 1, whole face. 1. Shuffle the cards in the bowl. 2. The face maker takes one without showing it. 3. They make that face for a count of three, with no sound. 4. The guesser names the feeling. 5. Write a tick or a cross. Do all six cards.",
+     "do": "Round 1, whole face. 1. Shuffle the cards in a bowl. 2. The face maker takes one without showing it. 3. They make that face for a count of three, with no sound. 4. The guesser names the feeling. 5. Write a tick or a cross. Do all six cards.",
      "say": "Round one. You will see my whole face. I will make a face for a count of three. Then you tell me the feeling.",
      "kid": "Round one. Watch the whole face. Count to three. Say the feeling you see.",
      "parent": "Don't tell your child whether they were right until the round ends. Then show each card. When a guess is wrong, write down what they guessed, for example 'said surprised, was scared'."
@@ -2206,7 +2206,7 @@
   },
   {
    "q": "What is a feeling like for a crow, a dog or a plant?",
-   "why_open": "All living beings feel. Nobody yet knows how to find out what their feelings are like from the inside."
+   "why_open": "Nobody yet knows which living beings feel, or how to find out what their feelings are like from the inside."
   }
  ],
  "ask_kids": [

@@ -2847,7 +2847,7 @@
      "do": "1. Hold the magnet under the paper, right below the clip. 2. Slowly move the magnet. The clip will follow, and paint a line. 3. Make spirals, swirls and zig-zags. 4. Try a clip dipped in a different colour of paint.",
      "say": "Move the magnet slowly under the paper. The clip follows and draws a line. Make spirals and swirls!",
      "kid": "Move the magnet slowly under the paper. The clip follows and paints. Make spirals and swirls!",
-     "parent": "If the clip stops moving, the paper is too thick or the magnet is too weak. Try a thinner plate or a stronger magnet."
+     "parent": "If the clip stops moving, the paper is too thick or the magnet is too weak. Try thinner paper or a stronger magnet."
     },
     {
      "id": "s3",

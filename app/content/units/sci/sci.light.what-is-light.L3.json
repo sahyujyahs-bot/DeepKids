@@ -995,7 +995,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Glow Star Test, you shine a red phone screen on a glow star for 2 minutes. Then you shine a blue screen on a glow star for 30 seconds. Which one makes the star glow?",
+     "p": "In the Glow Star Test, you shine a red phone screen on glow star 1 for 2 minutes. Then you shine a blue screen on glow star 2 for 30 seconds. Which one makes its star glow?",
      "opts": [
       "The red screen, because it shone for longer",
       "The blue screen",
@@ -1058,7 +1058,7 @@
        "Needs something to travel through"
       ],
       [
-       "a ripple in an uruli of water",
+       "a ripple in an uruli (a wide, shallow bowl) of water",
        "Needs something to travel through"
       ]
      ],
@@ -2148,7 +2148,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the uruli on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.",
+     "do": "1. Put the uruli (a wide, shallow bowl) on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.",
      "say": "Watch the rings spread out. That is a wave. The water itself only bobs up and down. The movement is what travels outwards.",
      "kid": "Drop one coin in the middle. Watch the rings spread. That is a wave!",
      "context": "This is the first step of Ripples in an Uruli. You make water waves to see what a wave is, so you can compare it with light.",

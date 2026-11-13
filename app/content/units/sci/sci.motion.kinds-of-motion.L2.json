@@ -208,7 +208,7 @@
    "Ammamma's bunch of keys hung on a long red thread from her waist. Revathi untied them. \"Can I play with these, Ammamma?\"",
    "\"Gently,\" said Ammamma. \"And keep them away from faces.\"",
    "Revathi stood near the wall and held the thread. She moved her hand in a tiny circle. The keys went round and round below it. Their big black shadow moved on the wall.",
-   "Arjun was on the sofa. \"You're swinging them,\" he said. \"Like an uyyala.\"",
+   "Arjun was on the sofa. \"You're swinging them,\" he said. \"Like an uyyala, a swing.\"",
    "\"I'm not swinging,\" said Revathi. \"They're going round. Look down at them.\"",
    "\"I can only see the shadow,\" said Arjun. \"And it's going back and forth.\"",
    "Revathi frowned. She gave Arjun the keys. \"You do it. Make a tiny circle with your hand. Slowly.\" She showed him how. Then she sat on the sofa, where Arjun had been.",
@@ -559,7 +559,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Your child walks 8 steps along the line with eyes open. 2. Put a slip at their toes. 3. Measure the gap from the slip to the line, counting in widths of your child's hand. 4. Do it twice.",
+     "do": "1. Your child walks 8 steps along the line with eyes open. 2. Put a slip of paper on the floor at their toes. 3. Measure the gap from the slip to the line, counting in widths of your child's hand. 4. Do it twice.",
      "say": "Walk 8 steps along the line with your eyes open. Stop. How far are your toes from the line?",
      "kid": "Eyes open. Walk 8 steps on the line. Stop. Look at your toes.",
      "parent": "With eyes open, most children stay on the line or very close to it."
@@ -567,7 +567,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Your child stands at the start and shuts their eyes. 2. Walk close beside them while they take 8 steps. 3. Put a slip at their toes. 4. Measure the gap in hand-widths. 5. Do it 3 times.",
+     "do": "1. Your child stands at the start and shuts their eyes. 2. Walk close beside them while they take 8 steps. 3. Put a slip of paper on the floor at their toes. 4. Measure the gap in hand-widths. 5. Do it 3 times.",
      "say": "Now shut your eyes. Walk 8 steps, as straight as you can. I am right beside you. Stop. Now open your eyes.",
      "kid": "Shut your eyes. Walk 8 steps. A grown-up is beside you. Stop and look.",
      "adult": true,

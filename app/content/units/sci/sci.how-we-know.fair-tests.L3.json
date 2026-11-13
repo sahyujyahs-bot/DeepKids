@@ -2643,9 +2643,9 @@
    "why_maths": "Adding up all the tries is fairer than looking at one try, because one try can be a fluke."
   },
   {
-   "problem": "In the Family Balance Table, a grandmother stood on one foot for 20, 22 and 18 seconds. A father stood for 8, 10 and 12 seconds. About how many times longer did the grandmother balance?",
+   "problem": "In the Family Balance Table, Paati stood on one foot for 20, 22 and 18 seconds. Appa stood for 8, 10 and 12 seconds. About how many times longer did Paati balance?",
    "answer": "About 2 times as long.",
-   "explain": "The grandmother's total is 20 + 22 + 18 = 60 seconds. The father's total is 8 + 10 + 12 = 30 seconds. 60 is 2 times 30.",
+   "explain": "Paati's total is 20 + 22 + 18 = 60 seconds. Appa's total is 8 + 10 + 12 = 30 seconds. 60 is 2 times 30.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "This is about the Family Balance Table, where each person in the family stands on one foot three times.",
    "why_maths": "Saying 'about 2 times as long' compares the two people more clearly than just 'longer'.",

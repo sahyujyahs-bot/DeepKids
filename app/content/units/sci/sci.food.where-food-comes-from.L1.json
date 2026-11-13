@@ -896,7 +896,7 @@
        ]
       }
      ],
-     "parent": "Salt goes in the small katori. Salt comes from sea water or the ground, and no plant or animal made salt. Don't explain the others yet. Let your child argue."
+     "parent": "Salt fits neither plate. Put it in a small katori (a small bowl) to one side. Salt comes from sea water or the ground, and no plant or animal made salt. Don't explain the others yet. Let your child argue."
     },
     {
      "id": "s3",
@@ -1032,7 +1032,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Find where ants walk: the kitchen floor, a window ledge, or near the dustbin. 2. Put the paper there. 3. Put the four food bits in a row on the paper, a finger apart.",
+     "do": "1. Find where ants walk: the kitchen floor, a window ledge, or near the dustbin. 2. Put a sheet of paper there. 3. Put the four food bits in a row on the paper, a finger apart.",
      "say": "Which food do you think the ants will like best? Why?",
      "kid": "Put four foods near the ants. Which one will ants like?",
      "ask": [

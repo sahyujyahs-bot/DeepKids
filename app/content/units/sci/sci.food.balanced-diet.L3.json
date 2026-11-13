@@ -2424,10 +2424,10 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Spoon that many level teaspoons of sugar onto a saucer in front of each packet. 2. Put the whole fruit at the end.",
+     "do": "1. Spoon that many level teaspoons of sugar onto a saucer in front of each packet. 2. Put one whole orange at the end, to compare.",
      "say": "Let's see what that sugar looks like. Count the spoons out loud as you go.",
-     "kid": "Spoon out the sugar for each packet. Count out loud. Put the fruit at the end.",
-     "parent": "Fruit has natural sugar too. But it is locked inside fibre and water, so it reaches the blood slowly. And few people eat four oranges at once. The World Health Organization advises keeping added sugar under a tenth of our food energy, and lower is better. For a child, a tenth is roughly 10 teaspoons in a whole day, and half of that is even better. Sugary drinks are for sometimes. They are not forbidden."
+     "kid": "Spoon out the sugar for each packet. Count out loud. Put the orange at the end.",
+     "parent": "Fruit has natural sugar too. But it is locked inside fibre and water, so it reaches the blood slowly. And few people eat several oranges at once, while a glass of juice holds the sugar of several oranges. The World Health Organization advises keeping added sugar under a tenth of our food energy, and lower is better. For a child, a tenth is roughly 10 teaspoons in a whole day, and half of that is even better. Sugary drinks are for sometimes. They are not forbidden."
     },
     {
      "id": "s4",

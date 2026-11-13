@@ -965,8 +965,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Look at the four columns together. 2. Ask the question below.",
-     "say": "Look at your columns. Which column has the most things? Why do you think so?",
-     "kid": "Which column has the most things? Why?",
+     "say": "Look at your columns. Is the ghee in our home solid or liquid today? Why do you think so?",
+     "kid": "Is the ghee solid or liquid today? Why?",
      "ask": [
       {
        "q": "Is the ghee in our home solid or liquid today?",

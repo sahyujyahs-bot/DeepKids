@@ -1917,7 +1917,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Look together at an aurora photo (search 'aurora' on a phone, or find one in a book), and at the picture on the explanation card about the Earth's magnetic field.",
+     "do": "Look together at an aurora photo (search 'aurora' on a phone, or find one in a book), and at the picture on the explanation card 'The Earth's magnetic field shields us, and makes auroras'.",
      "say": "The Sun blows out tiny charged particles. The Earth's magnetic field steers them towards the poles. They hit the air high up and make it glow.",
      "kid": "Look at the aurora. Tiny particles from the Sun hit the air. The Earth's magnetic field steers them to the poles. The air glows.",
      "context": "This is the first step of Draw an Aurora. You learn what makes the lights near the poles, then draw them."

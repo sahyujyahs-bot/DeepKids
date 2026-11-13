@@ -1290,7 +1290,7 @@
    "title": "Make a Paper Finger That Bends",
    "mins": 25,
    "context": "This is a design challenge. Your finger has bones, joints, and tendons that muscles pull. Your job is to make a paper finger that bends when you pull a thread.",
-   "problem": "Can you make a paper finger with three bones and three joints, which curls up when you pull a thread, like a real finger?",
+   "problem": "Can you make a paper finger with three bones and two joints, which curls up when you pull a thread, like a real finger?",
    "constraints": [
     "Use only paper or card, tape, thread or wool, and scissors.",
     "The finger must bend only at the joints, not in the middle of a bone.",
@@ -1758,7 +1758,7 @@
       ]
      ],
      "a": "see items",
-     "why": "The knee, elbow and middle finger joint are hinges, so they move one way and back. The hip and shoulder are ball and socket joints, so they can go round.",
+     "why": "The elbow and middle finger joint are hinges, so they move one way and back. The shoulder is a ball and socket joint, so it can go round.",
      "how": "e1"
     },
     {
@@ -2197,7 +2197,7 @@
   "deep_truth": {
    "truth": "In the Torch on the Wall experiment, when you moved only your elbow, the torch light could only go up and down. When you moved only your shoulder, the light drew a whole circle. The elbow fits together like a door hinge, and the shoulder like a ball in a cup. So the ways your body can move are set by the shapes where its bones meet.",
    "habit": "We think of moving as something we simply decide to do, or something our muscles do. But muscles can only pull a bone the ways its joint allows. The shape where the bones meet decides which paths are possible.",
-   "evidence": "In the Torch on the Wall experiment, the shoulder and hip could draw circles, while the elbow, knee and middle finger joints could only go back and forth. In an X-ray or a skeleton, the top of the arm bone is a round ball in a cup, and the elbow is a hinge."
+   "evidence": "In the Torch on the Wall experiment, the shoulder could draw a circle, while the elbow and middle finger joint could only go back and forth. In an X-ray or a skeleton, the top of the arm bone is a round ball in a cup, and the elbow is a hinge."
   },
   "three": {
    "who_am_i": "Inside you is a frame of living bones, about 206 in a grown-up. They are joined at many joints and moved by muscles that pull.",

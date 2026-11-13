@@ -1448,7 +1448,7 @@
       "The chick cracks the shell and hatches"
      ],
      "a": "order shown",
-     "why": "The heart beats after about two days. Feathers start after about ten. Just before hatching, the chick pokes into the air pocket and takes a first breath of air, then cracks the shell on about day 21."
+     "why": "The heart beats after about two days. Feathers start after about nine. Just before hatching, the chick pokes into the air pocket and takes a first breath of air, then cracks the shell on about day 21."
     },
     {
      "t": "mcq",
@@ -2299,7 +2299,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the sheet loose around the body, never over the face.",
+   "safety": "Keep the sari loose around the body, never over the face.",
    "schedule": [
     {
      "day": 1,
@@ -3197,7 +3197,7 @@
   },
   {
    "t": "mcq",
-   "p": "A caterpillar ate leaves. The leaves were made from air, water and soil. Where did the butterfly's body come from?",
+   "p": "A caterpillar ate leaves. The leaves were made from air, water and sunlight. Where did the butterfly's body come from?",
    "opts": [
     "From the world around them, through the leaves",
     "From nothing",

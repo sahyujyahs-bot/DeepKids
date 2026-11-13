@@ -2592,9 +2592,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. The grasshoppers use 9 of their 10 grains to hop, breathe and keep warm, and some comes out as poo. Move 9 grains into USED FOR LIVING. 2. Move 1 grain into the FROG bowl. 3. Now break that one grain into 10 crumbs. Move 9 crumbs to USED FOR LIVING, and 1 crumb to the SNAKE bowl.",
-     "say": "The grasshoppers use most of their food too. Only one grain in ten passes to the frog. And the frog uses most of that. The snake gets one tiny crumb.",
-     "kid": "The grasshoppers use 9 grains to live. The frog gets just 1 grain. Break it into 10 crumbs. The snake gets one crumb!",
+     "do": "1. The frog eats the 10 grains in the GRASSHOPPER bowl. It uses 9 of them to hop, breathe and keep warm, and some comes out as poo. Move 9 grains into USED FOR LIVING. 2. Move 1 grain into the FROG bowl. 3. Now break that one grain into 10 crumbs. Move 9 crumbs to USED FOR LIVING, and 1 crumb to the SNAKE bowl.",
+     "say": "The frog eats the grasshoppers' 10 grains and uses most of them just to live. Only one grain in ten becomes frog. Then the snake eats the frog and uses most of that too. The snake gets one tiny crumb.",
+     "kid": "The frog uses 9 grains to live. Only 1 grain becomes frog. Break it into 10 crumbs. The snake gets one crumb!",
      "check": {
       "t": "mcq",
       "q": "The field started with 100 grains of food. How much reached the snake?",

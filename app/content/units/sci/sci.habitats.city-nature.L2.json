@@ -695,7 +695,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Show the noise maker. Ask for a guess and a reason, and write it down.",
+     "do": "Show the phone that will be the noise maker. It plays loud traffic sound. Ask for a guess and a reason, and write it down.",
      "say": "Next, I will put this noise right beside you, like traffic. How many soft words will you hear then? And if I speak loudly? Why do you think so?",
      "kid": "Guess. How many words will you hear in the noise? Why?",
      "ask": [
@@ -721,7 +721,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Round 2: put the noise maker about one arm away from your child. Turn it up loud. Say list 2 in the same soft voice. Tick the words heard.",
+     "do": "Round 2: put the noise maker (the phone) about one arm away from your child. Turn it up loud. Say list 2 in the same soft voice. Tick the words heard.",
      "say": "Now the noise is on. Same soft voice. Say back each word you hear.",
      "kid": "The noise is on. Listen hard. Say back each word.",
      "parent": "The noise should be loud, but not painful. Keep the phone an arm away and never at your child's ear. If your child still hears almost every word, turn it up a little or move it closer. Most children hear far fewer words in this round."
@@ -1940,7 +1940,7 @@
    {
     "source": "Purananuru 192, by the Tamil poet Kaniyan Pungundranar",
     "teaching": "Every town is our town. Everyone is our kin.",
-    "link": "The poet was speaking about people. Our street shows that the crow, the koel, the dog and the neem tree also call our town their home. They are our neighbours in it."
+    "link": "The Tamil poet Kaniyan Pungundranar was speaking about people. Our street shows that the crow, the koel, the dog and the neem tree also call our town their home. They are our neighbours in it."
    },
    {
     "source": "Udana 6.4, the Buddhist story of the blind men and the elephant",

@@ -676,7 +676,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Test the empty katori 3 times, lifting slowly. 2. Write the heights. 3. Put 20 coins in it. 4. Test it 3 times again.",
+     "do": "1. Lay a sheet of newspaper on the board. 2. Test the empty katori 3 times, lifting slowly. 3. Write the heights. 4. Put 20 coins in it. 5. Test it 3 times again.",
      "say": "We use the same board, the same newspaper on it and the same slow lifting. Only the weight changes.",
      "kid": "Test the empty one 3 times. Add the coins. Test 3 times again.",
      "parent": "On newspaper, the two usually slide at about the same height. A difference of 1 or 2 cm counts as the same. If you see a big difference, check that you lifted at the same speed."

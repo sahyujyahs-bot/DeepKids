@@ -630,7 +630,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Fill the bottle almost to the top with water. 2. Your child adds one spoon of rava or tea leaves, and the colour if you like. 3. Close the cap tightly.",
+     "do": "1. Fill the bottle almost to the top with water. 2. Your child adds one spoon of rava or tea leaves, and a pinch of glitter if you like. 3. Close the cap tightly.",
      "say": "We are making a settling bottle. Pour in the rava. Now let's close it tight.",
      "kid": "Pour the rava into the water. Close the cap tight.",
      "parent": "Rava sinks in about 20 to 30 seconds. Used tea leaves, rinsed, take about the same. Glitter takes longer. Check the cap is tight so it does not leak."
@@ -1595,7 +1595,7 @@
    "opts": [
     "Feelings change through the day",
     "A feeling stays all day",
-    "Chinnu drew it wrong"
+    "Only sad feelings change"
    ],
    "a": 0,
    "why": "Chinnu's feelings changed again and again. Feelings come and go.",

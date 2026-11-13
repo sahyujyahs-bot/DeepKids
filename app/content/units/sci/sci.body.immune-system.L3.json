@@ -456,7 +456,7 @@
  ],
  "big_questions": [
   {
-   "q": "If more than half the living cells on and in you are microbes, which part is really 'you'?",
+   "q": "If about half the living cells on and in you are microbes, which part is really 'you'?",
    "kind": "big",
    "hint": "Your friendly microbes help guard you and digest your food. Are they visitors, or part of you?"
   },
@@ -895,7 +895,7 @@
      "t": "write",
      "p": "Think about the Apple Skin Test. Add an apple E: it has a cut with soil rubbed in, and then a clean plaster over the cut. On day 7, will E look more like apple C (soil in the cut, no cover) or like apple A (skin whole)? Say why.",
      "lines": 3,
-     "a": "E should look better than C. The plaster works like skin: it keeps microbes from the air and the outside away from the cut. But the soil was already inside the cut, so E may still start to go soft, a little later than A. Washing the cut first, like apple D, would help more.",
+     "a": "E should look better than C. The plaster works like skin: it keeps microbes from the air and the outside away from the cut. But the soil was already inside the cut, so E may still start to go soft, a little later than C. Washing the cut first, like apple D, would help more.",
      "why": "A strong answer says that a cover acts like a skin wall, and also notices that microbes already inside the cut are not kept out by it. That is why we wash a cut before we cover it.",
      "how": "e1"
     },
@@ -1864,7 +1864,7 @@
        ],
        [
         "11 am",
-        "Running about indoors, then rested 5 minutes",
+        "Just after running about indoors",
         "36.9"
        ],
        [

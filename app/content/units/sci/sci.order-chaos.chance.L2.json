@@ -347,7 +347,7 @@
    "record": "Fill in the results table. Keep the tally sheets. Circle the person whose heads count was closest to 10.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Ananya's flat in Bengaluru",
+    "title": "Made-up example results",
     "cols": [
      "",
      "Right guesses out of 10",
@@ -519,7 +519,7 @@
    "record": "Draw two rows, 'six' and 'not six'. Make a tally line for every roll. Write the two totals. Draw a bar for each total.",
    "example_chart": {
     "type": "bar",
-    "title": "Made-up example results, from Revathi's flat in Chennai",
+    "title": "Made-up example results",
     "x": "Roll",
     "y": "Times in 30 rolls",
     "data": [
@@ -849,7 +849,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Put ten coins in the dabba. 2. Ask the question below.",
+     "do": "1. Put ten coins in a small tin or box (a dabba). 2. Ask the question below.",
      "say": "When we tip out ten coins, how many will land heads? Will it be the same every time? Why do you think so?",
      "kid": "How many of ten coins will land heads? Why?",
      "ask": [

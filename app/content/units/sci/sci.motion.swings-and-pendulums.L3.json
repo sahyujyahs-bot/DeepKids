@@ -1449,7 +1449,7 @@
      "say": "We are making a pendulum that draws. The salt will fall out of the tip as it swings.",
      "kid": "Make a paper cone. Hang it from the broom. Keep a finger on the hole.",
      "adult": true,
-     "parent": "If the salt doesn't flow, make the hole a little bigger. If it pours too fast, use fine salt instead of rava.",
+     "parent": "If the salt doesn't flow, make the hole a little bigger. If it pours too fast, tape over part of the hole.",
      "context": "This is the first step of Pendulum Pictures, where a swinging cone of salt draws patterns."
     },
     {
@@ -2177,7 +2177,7 @@
      "why": "Things that push more air, or rub more at the pivot, make it die down sooner. A heavy, small bob is slowed least.",
      "cats": [
       "Dies down sooner",
-      "Little difference or longer"
+      "Lasts about the same or longer"
      ],
      "items": [
       [
@@ -2194,11 +2194,11 @@
       ],
       [
        "using a small, heavy bob",
-       "Little difference or longer"
+       "Lasts about the same or longer"
       ],
       [
        "using a thin, smooth thread",
-       "Little difference or longer"
+       "Lasts about the same or longer"
       ],
       [
        "a big, light balloon as the bob",

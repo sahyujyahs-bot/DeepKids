@@ -926,7 +926,7 @@
       },
       {
        "f": "NO FAULT",
-       "b": "Change nothing. The finder must say 'There is no fault.'"
+       "b": "Change nothing. The fixer must say 'There is no fault.'"
       }
      ]
     },
@@ -943,9 +943,9 @@
    ],
    "rules": [
     "Build a working circuit with a cell, a rubber band, two wires and a bulb.",
-    "One player is the finder and the other is the fixer. The finder turns away. The fixer takes a fault card, reads the back, and makes that fault in the circuit.",
-    "The finder turns back and looks. They must say what is wrong before they touch anything.",
-    "Then the finder fixes it. If the bulb lights, the finder gets 2 points.",
+    "One player is the fixer and the other is the breaker. The fixer turns away. The breaker takes a fault card, reads the back, and makes that fault in the circuit.",
+    "The fixer turns back and looks. They must say what is wrong before they touch anything.",
+    "Then the fixer fixes it. If the bulb lights, the fixer gets 2 points.",
     "Swap jobs each round. After 8 rounds, the player with the most points wins."
    ],
    "setup": [
@@ -962,7 +962,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards. 2. Build the circuit and check it lights. 3. Play one round yourself as the fixer, the player who makes the fault.",
+     "do": "1. Cut out the cards. 2. Build the circuit and check it lights. 3. Play one round yourself as the breaker, the player who makes the fault.",
      "say": "I will make one thing wrong while you look away. Then you be the detective. Say what is wrong before you touch it.",
      "kid": "Look away. Then find what is wrong. Say it first, then fix it.",
      "adult": true,
@@ -971,7 +971,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Take turns being the fixer and the finder. After each round, ask how they found the fault.",
+     "do": "Take turns being the breaker and the fixer. After each round, ask how they found the fault.",
      "say": "How did you find it? Where did you look first?",
      "kid": "How did you find it?",
      "ask": [

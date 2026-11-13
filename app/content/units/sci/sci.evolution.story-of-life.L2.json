@@ -635,7 +635,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Label three cups: plain, a little, sea. 2. Stir 1 level spoon of salt into half a tumbler of water. This is sea-salty water. 3. Pour 4 spoons of sea-salty water into the sea cup. 4. In a fourth cup, mix 1 spoon of sea-salty water with 9 spoons of plain water. Pour 4 spoons of this into the cup labelled a little. 5. Pour 4 spoons of plain water into the plain cup. 6. Put 10 moong in each of the three labelled cups and cover them.",
+     "do": "1. Label three cups: plain, a little, sea. 2. Stir 1 level spoon of salt into half a tumbler of water. This is sea-salty water. 3. Pour 4 spoons of sea-salty water into the sea cup. 4. In a spare cup, mix 1 spoon of sea-salty water with 9 spoons of plain water. Pour 4 spoons of this into the cup labelled a little. 5. Pour 4 spoons of plain water into the plain cup. 6. Put 10 moong in each of the three labelled cups and cover them.",
      "say": "All life began in salty sea water, long ago. Moong plants live on land. Can their seeds sprout in sea water? What do you think? Why?",
      "kid": "Label three cups: plain, a little, sea. Put sea-salty water in the sea cup. Put weak salty water in the cup labelled a little. Put plain water in the plain cup. Put 10 moong in each cup. Cover them. Which will sprout? Say why.",
      "parent": "Use fresh moong, because very old seeds may not sprout even in plain water. The weak salty water is about one tenth as salty as the sea. The seeds should sit in the water, not deep under it, so they get air too. Add a spoon of the same water if a cup dries out. Keep the cups on a warm shelf: in a cold room, sprouting is slow in every cup, so wait one more day before you count.",
@@ -1369,11 +1369,11 @@
      "views": [
       {
        "who": "Farhan",
-       "says": "The oil spoiled the powder, so it can never fizz."
+       "says": "Farhan says: Nothing happens, so the oil spoiled the powder and it can never fizz."
       },
       {
        "who": "Lakshmi",
-       "says": "The powder is not spoiled. It just has no water."
+       "says": "Lakshmi says: The powder is not spoiled. It just has no water."
       }
      ],
      "ask": "Who do you agree with? Give one reason from the dry mix test. Then say one thing the other person noticed that is true.",

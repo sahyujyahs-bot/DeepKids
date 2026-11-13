@@ -462,7 +462,7 @@
        "b": "PLAN. A fair comparison, set up on purpose.\nDid the work: Howard Florey, Ernst Chain, Norman Heatley and the Oxford team.\nLeft out: Norman Heatley, who was not named in the 1945 Nobel Prize."
       },
       {
-       "f": "1963, Tanzania. Erasto Mpemba puts his ice cream mixture in the freezer while it is still hot, because there is no time to cool it.",
+       "f": "1963, Tanzania. Erasto Mpemba puts his ice cream mixture in the freezer while it is still hot, because there is not much space in the freezer.",
        "b": "ACCIDENT. He was in a hurry and broke the usual rule.\nDid the work: Erasto Mpemba noticed it. Denis Osborne tested it in a laboratory, and they wrote a paper together in 1969.\nNo bonus point on this card."
       },
       {
@@ -535,7 +535,7 @@
     "Shuffle the 16 discovery cards and put them face down. The answer is on the back of each card, so read only the front.",
     "On your turn, read the top card out loud and put it under ACCIDENT, MISTAKE or PLAN.",
     "Then name two people who did the work. Some cards name only one person, so name that one.",
-    "Turn the card over and check. A right sort scores 1 point. Naming one person from the back scores 1 more point.",
+    "Turn the card over and check. A right sort scores 1 point. Naming the person (or people) from the back scores 1 more point.",
     "If you named the person the back says was left out, score a bonus point.",
     "Playing alone? Sort all 16 cards, then turn them over and add up your score.",
     "When all the cards are played, the highest score wins. If you tie, you both win."
@@ -976,7 +976,7 @@
      "do": "1. Every 15 minutes, open the freezer, look at both cups, and close it quickly. 2. Write what you see. 3. Between checks, play Accident, Mistake or Plan? or read the explanation cards.",
      "say": "Look at the top of each cup. Is there a thin white skin of ice yet? Close the door quickly.",
      "kid": "Every 15 minutes, look at both cups. Is there a skin of ice on top? Close the door fast. Write what you see.",
-     "wait": "Check every 15 minutes. It usually takes 1 to 2 hours for a skin of ice to form. You are only busy during the checks, about 12 minutes in all.",
+     "wait": "Check every 15 minutes. It usually takes 1 to 2 hours for a skin of ice to form. You are only busy during the checks, about 30 minutes in all.",
      "parent": "In most home freezers, the cold water gets ice first. Sometimes the hot one does. If both freeze at about the same check, write 'same time'. A skin of ice is the easiest thing to judge. Don't wait for the whole cup to turn solid."
     },
     {

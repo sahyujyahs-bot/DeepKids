@@ -679,7 +679,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep glitter away from eyes and mouth. Never put glitter on food, plates or anything that goes in the mouth. Use an empty tumbler for the test and wash it afterwards. At the end, a grown-up wipes up all the glitter with a damp cloth and shakes the cloth into the dustbin, not down the drain, because glitter is plastic. If you use kumkum or rangoli colour instead of glitter, keep it off sofas and clothes, because it can stain light cloth.",
+   "safety": "Keep glitter away from eyes and mouth. Never put glitter on food, plates or anything that goes in the mouth. Use an empty tumbler for the test and wash it afterwards. At the end, a grown-up wipes up all the glitter with a damp cloth and shakes the cloth into the dustbin, not down the drain, because glitter is plastic.",
    "schedule": [
     {
      "day": 1,
@@ -710,9 +710,9 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "1. Rub two drops of oil on your child's right palm. 2. Sprinkle one pinch of glitter on it. 3. Your child rubs both palms together once.",
+     "do": "1. Rub two drops of cooking oil on your child's right palm. 2. Sprinkle one pinch of glitter on it. 3. Your child rubs both palms together once.",
      "say": "Skin has its own thin layer of oil, and germs sit in that layer. The drops of oil make the glitter stick to your hand the way germs do.",
-     "kid": "Rub two drops of oil on your right palm. Add a pinch of glitter. Rub your hands together once.",
+     "kid": "Rub two drops of cooking oil on your right palm. Add a pinch of glitter. Rub your hands together once.",
      "adult": true,
      "parent": "Use a small pinch, about as much as fits on the tip of a teaspoon. Too much glitter falls everywhere and makes the trail hard to read."
     },
@@ -919,7 +919,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Rub two drops of oil on the first hand. 2. Add one pinch of glitter. 3. Lay the paper on the palm and count the specks you see in the square, using the torch.",
+     "do": "1. Rub two drops of cooking oil on the first hand. 2. Add one pinch of glitter. 3. Lay the paper on the palm and count the specks you see in the square, using the torch.",
      "say": "Count the specks in the square on hand one. That is where the chain starts.",
      "kid": "Count the specks in the square on hand one. Write the number.",
      "adult": true,
@@ -2563,7 +2563,7 @@
    }
   },
   {
-   "problem": "John Snow wrote that a brewery near the bad pump had about 70 workers, and none of them died of cholera. A workhouse nearby had 535 people living in it, and its own well. Only 5 of them died. Why are these numbers good evidence against bad air?",
+   "problem": "John Snow wrote that a brewery near the bad pump had about 70 workers, and none of them died of cholera. A workhouse (a home for poor people) nearby had 535 people living in it, and its own well. Only 5 of them died. Why are these numbers good evidence against bad air?",
    "answer": "Both groups breathed the same air as their neighbours, who were dying in large numbers. But they did not drink the pump water, and almost none of them died.",
    "explain": "If bad air caused cholera, about as many brewery workers and workhouse people should have died as people in the houses around them. 0 out of 70 and 5 out of 535 are far fewer, so the air was not the cause.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -2796,7 +2796,7 @@
   "art": "A tall building of flats drawn as a cut-away, with faint glowing lines running between hands on every floor, all meeting at the lift button on the ground floor."
  },
  "how_we_found_out": {
-  "story": "In 1854, cholera broke out in Soho, in London. More than 500 people died in about ten days. Most doctors believed cholera came from miasma, bad-smelling air from rubbish and sewers. A doctor called John Snow thought it came from dirty water. He went from house to house, asking where each family got their water. Nearly all the dead had drunk from one street pump, on Broad Street. Two groups nearby breathed the same air but did not use the pump: about 70 workers at a brewery, who drank beer and the brewery's own water, and 535 people in a workhouse with its own well. None of the brewery workers died, and only 5 people in the workhouse did. A widow far away in Hampstead also died. She liked the taste of the Broad Street water, so her family brought it to her. On 8 September 1854, the pump's handle was removed. A local priest, Henry Whitehead, at first wanted to prove Snow wrong. Instead, he found how the outbreak probably started: a sick baby's nappies had been washed into a cesspit next to the well.",
+  "story": "In 1854, cholera broke out in Soho, in London. More than 500 people died in about ten days. Most doctors believed cholera came from miasma, bad-smelling air from rubbish and sewers. A doctor called John Snow thought it came from dirty water. He went from house to house, asking where each family got their water. Nearly all the dead had drunk from one street pump, on Broad Street. Two groups nearby breathed the same air but did not use the pump: about 70 workers at a brewery, who drank beer and the brewery's own water, and 535 people in a workhouse, a home for poor people, with its own well. None of the brewery workers died, and only 5 people in the workhouse did. A widow far away in Hampstead also died. She liked the taste of the Broad Street water, so her family brought it to her. On 8 September 1854, the pump's handle was removed. A local priest, Henry Whitehead, at first wanted to prove Snow wrong. Instead, he found how the outbreak probably started: a sick baby's nappies had been washed into a cesspit next to the well.",
   "who": "John Snow, a doctor in London, and Henry Whitehead, a priest in Soho",
   "when": "August and September 1854",
   "wrong_idea": "Most doctors thought cholera came from miasma, bad-smelling air. Snow showed that people who breathed the same air but drank other water stayed well, while a woman far away who drank the pump water died."
