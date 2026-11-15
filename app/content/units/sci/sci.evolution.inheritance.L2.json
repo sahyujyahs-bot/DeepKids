@@ -1124,20 +1124,20 @@
     },
     {
      "t": "perspective",
-     "p": "Mala and her brother Rohan listen to their aunt sing Carnatic music.",
+     "p": "Mala and her brother the first child listen to their aunt sing Carnatic music.",
      "views": [
       {
        "who": "Mala, aged 7",
        "says": "Our aunt sings so well because she practised for years."
       },
       {
-       "who": "Rohan, aged 6",
+       "who": "The first child, aged 6",
        "says": "Our aunt was born a singer. It is in her genes."
       }
      ],
      "ask": "Who do you agree with? Say why. Then say one thing the other child might be right about.",
-     "a": "Mala is closer. Nobody is born singing Carnatic music, so the aunt practised a lot. Rohan may be a little right: genes can help a voice, but they do not teach a song.",
-     "why": "A strong answer says singing is learned by practice, and is fair to Rohan's idea that genes can help."
+     "a": "Mala is closer. Nobody is born singing Carnatic music, so the aunt practised a lot. The first child may be a little right: genes can help a voice, but they do not teach a song.",
+     "why": "A strong answer says singing is learned by practice, and is fair to the first child's idea that genes can help."
     },
     {
      "t": "label",
@@ -1211,10 +1211,10 @@
     },
     {
      "t": "perspective",
-     "p": "Deepa and Grace are talking about Deepa's uncle. He lifts heavy sacks at the market every day, and his arms are very strong. He and his wife are expecting a baby.",
+     "p": "The first child and Grace are talking about the first child's uncle. He lifts heavy sacks at the market every day, and his arms are very strong. He and his wife are expecting a baby.",
      "views": [
       {
-       "who": "Deepa, aged 7",
+       "who": "The first child, aged 7",
        "says": "The baby will be born with strong arms, because the baby's father has strong arms."
       },
       {
@@ -1223,8 +1223,8 @@
       }
      ],
      "ask": "Who do you agree with? What test could show who is right?",
-     "a": "Grace is right. Muscles built by work are not passed on at birth. Deepa is right that strong parents often have strong children, because genes help shape a body.",
-     "why": "A strong answer picks Grace and is fair to Deepa's idea."
+     "a": "Grace is right. Muscles built by work are not passed on at birth. The first child is right that strong parents often have strong children, because genes help shape a body.",
+     "why": "A strong answer picks Grace and is fair to the first child's idea."
     },
     {
      "t": "draw",

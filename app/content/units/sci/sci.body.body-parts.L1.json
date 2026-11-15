@@ -810,10 +810,10 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi touched a hot tawa, and her hand jumped back before she felt the pain.",
+     "p": "The first person touched a hot tawa, and her hand jumped back before she felt the pain.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first person",
        "says": "My hand decided to jump. My hand and my spine did the deciding."
       },
       {
@@ -824,7 +824,7 @@
      "ask": "Who do you agree with? Why? Then say one thing the other one has right.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason. The message went from the hand to the spine and straight back, before the brain knew. Many scientists call this a reflex, and some say sensing and deciding happen all through the body.",
-     "why": "Scientists still argue about where deciding happens. Both views use the same fact: the hand moved before Lakshmi knew it was hot."
+     "why": "Scientists still argue about where deciding happens. Both views use the same fact: the hand moved before the first person knew it was hot."
     },
     {
      "t": "mcq",

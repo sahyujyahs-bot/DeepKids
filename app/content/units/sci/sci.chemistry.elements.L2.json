@@ -1555,20 +1555,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and Farhan want to make a dark silver coin shine for Diwali.",
+     "p": "The first person and the second person want to make a dark silver coin shine for Diwali.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "Let's scrub it with toothpaste. It's quick, and we can see the black come off."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "Let's use the foil bowl. It takes longer, but the silver stays on the coin."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer gives a reason. For example: 'Farhan, because scrubbing rubs a little silver away, and the foil bowl keeps all the silver.' Then it is fair to Kavya: scrubbing is quick and works on silver that cannot go in hot water.",
+     "a": "A strong answer gives a reason. For example: 'The second person, because scrubbing rubs a little silver away, and the foil bowl keeps all the silver.' Then it is fair to the first person: scrubbing is quick and works on silver that cannot go in hot water.",
      "why": "Both work. Scrubbing takes the tarnish off along with a little silver. The foil method takes away only the sulfur, so the silver stays. But silver with stones or a dark design should not go in the foil bowl.",
      "how": "e1"
     }

@@ -1304,16 +1304,16 @@
      "p": "Two friends in Kochi are washing plates after lunch. The rice on the plates has dried hard.",
      "views": [
       {
-       "who": "Kavya, aged 6",
+       "who": "The first child, aged 6",
        "says": "Let's soak the plates in a little water first, and wait."
       },
       {
-       "who": "Farhan, aged 7",
+       "who": "The second child, aged 7",
        "says": "Let's just scrub hard with a dry cloth. It is quicker."
       }
      ],
      "ask": "Which friend do you agree with? Think about what water does to dried, hard food. Then say one thing the other friend got right.",
-     "a": "Kavya is closer: water soaks into the dried rice and loosens it, so a soaked plate comes clean in a few wipes. But Farhan is right that soaking takes a few minutes of waiting.",
+     "a": "The first child is closer: water soaks into the dried rice and loosens it, so a soaked plate comes clean in a few wipes. But the second child is right that soaking takes a few minutes of waiting.",
      "why": "A strong answer uses what water does to dried food, and is fair to both: soaking makes cleaning easier, but it takes a little time.",
      "how": "e2"
     },
@@ -1417,12 +1417,12 @@
        "says": "Save some for the plants. They give us food and shade."
       },
       {
-       "who": "Priya, aged 7",
+       "who": "The first child, aged 7",
        "says": "Save some for the birds. They cannot turn on a tap."
       }
      ],
      "ask": "Who do you agree with most? Say why. Then say one good thing about another person's idea.",
-     "a": "Any choice with a reason is fine. For example: Revathi, because people need water to live. But Priya is right that birds need water too and cannot get it from a tap.",
+     "a": "Any choice with a reason is fine. For example: Revathi, because people need water to live. But the first child is right that birds need water too and cannot get it from a tap.",
      "why": "A strong answer picks one person, gives a reason, and is fair to another view. Every living being needs water, so there is no single right answer."
     },
     {

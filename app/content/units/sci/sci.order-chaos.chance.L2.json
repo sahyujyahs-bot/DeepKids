@@ -1460,21 +1460,21 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her brother Arjun tossed a coin four times. It landed heads all four times.",
+     "p": "The first person and her brother the second person tossed a coin four times. It landed heads all four times.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "The next toss is still half and half. The coin starts fresh every time."
       },
       {
-       "who": "Arjun",
+       "who": "The second person",
        "says": "Tails has to come now. Heads and tails always even out."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Kavya, because each toss has the same chance whatever came before. It also says Arjun is right that over many tosses heads and tails come out close to half.",
-     "why": "Arjun has part of it right: many tosses do even out. But they even out because of the many new tosses, not because tails must come next. A strong answer uses the coin test, where runs of heads or tails happened and then the next toss could go either way."
+     "a": "A strong answer agrees with the first person, because each toss has the same chance whatever came before. It also says the second person is right that over many tosses heads and tails come out close to half.",
+     "why": "The second person has part of it right: many tosses do even out. But they even out because of the many new tosses, not because tails must come next. A strong answer uses the coin test, where runs of heads or tails happened and then the next toss could go either way."
     },
     {
      "t": "label",
@@ -1566,14 +1566,14 @@
     },
     {
      "t": "perspective",
-     "p": "Before a cricket match, the two captains toss a coin to choose who bats first. Shalini says the toss is fair. Her friend Farhan says the toss is not fair, because his team lost it three times this month.",
+     "p": "Before a cricket match, the two captains toss a coin to choose who bats first. The first person says the toss is fair. Her friend the second person says the toss is not fair, because his team lost it three times this month.",
      "views": [
       {
-       "who": "Shalini",
+       "who": "The first person",
        "says": "The toss is fair. Each captain has the same chance every time."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "It can't be fair if we keep losing it."
       },
       {
@@ -1583,7 +1583,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing another person has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Shalini, because losing three tosses in a row can happen with a fair coin. It may say the scientists found a tiny lean, too small to matter in a few tosses. It says Farhan is right that it is worth checking a game is fair.",
+     "a": "A strong answer agrees with the first person, because losing three tosses in a row can happen with a fair coin. It may say the scientists found a tiny lean, too small to matter in a few tosses. It says the second person is right that it is worth checking a game is fair.",
      "why": "Runs of losses happen by chance, so three losses do not show the toss is unfair. The scientists' lean is real but tiny, about 1 toss in 100. A strong answer weighs what each view gets right."
     },
     {

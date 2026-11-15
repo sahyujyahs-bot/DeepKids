@@ -1252,18 +1252,18 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, aged 7, lives in Chennai. A spider has spun a round web on the balcony grill.",
+     "p": "The first child, aged 7, lives in Chennai. A spider has spun a round web on the balcony grill.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first child",
        "says": "Let's sweep the web away. It is messy."
       },
       {
-       "who": "Lakshmi's grandmother",
+       "who": "The first child's grandmother",
        "says": "Leave it. The spider spun the web with nobody to teach her, and the web catches mosquitoes."
       },
       {
-       "who": "Lakshmi's mother",
+       "who": "The first child's mother",
        "says": "Leave it tonight so we can watch how she mends it. We can look again tomorrow."
       }
      ],

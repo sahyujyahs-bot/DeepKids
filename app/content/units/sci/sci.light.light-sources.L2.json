@@ -1416,7 +1416,7 @@
     },
     {
      "t": "perspective",
-     "p": "In a power cut, Kavya's Amma, her Paati and her friend Farhan, aged 8, talk about what darkness is. When you open the door of a dark room onto a lit hall, light comes into the room, but no dark goes out into the hall.",
+     "p": "In a power cut, Kavya's Amma, her Paati and her friend the first child, aged 8, talk about what darkness is. When you open the door of a dark room onto a lit hall, light comes into the room, but no dark goes out into the hall.",
      "views": [
       {
        "who": "Amma",
@@ -1427,13 +1427,13 @@
        "says": "Darkness is real. I can see it and feel it all around me."
       },
       {
-       "who": "Farhan",
+       "who": "The first child",
        "says": "Darkness comes in when the lights go off, like water flowing in."
       }
      ],
      "ask": "Which idea fits what happens at the door best? Give a reason. Then say one thing about another idea that makes sense.",
      "lines": 3,
-     "a": "Amma's idea fits the door best: light came in, and no dark ever came out. Paati is right that we really do see the dark. Farhan's idea does not fit, because nothing came in when the lights went off.",
+     "a": "Amma's idea fits the door best: light came in, and no dark ever came out. Paati is right that we really do see the dark. The first child's idea does not fit, because nothing came in when the lights went off.",
      "why": "A strong answer uses the door as evidence. People in India argued about this long ago: some schools said darkness is only missing light, and Jain thinkers counted it as something real."
     },
     {
@@ -1489,10 +1489,10 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Kolkata, Rimi and Joy, do the Paper Moon test. They ask which sheet bounces light best.",
+     "p": "Two friends in Kolkata, the first person and Joy, do the Paper Moon test. They ask which sheet bounces light best.",
      "views": [
       {
-       "who": "Rimi",
+       "who": "The first person",
        "says": "The foil is the best bouncer, because it is the shiniest."
       },
       {

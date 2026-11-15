@@ -2546,11 +2546,11 @@
      "p": "Three people look at the dark patch just beyond the red end of a rainbow made by a prism. Each says something different.",
      "views": [
       {
-       "who": "Meenakshi",
+       "who": "The first person",
        "says": "Dark means there is no light there. Nothing can warm a thermometer in a dark place."
       },
       {
-       "who": "Arjun",
+       "who": "The second person",
        "says": "There may be rays there that our eyes cannot see, and the thermometer can feel them."
       },
       {
@@ -2560,7 +2560,7 @@
      ],
      "ask": "Which view fits best with what Herschel found? Say why, and say one thing another person gets right.",
      "lines": 5,
-     "a": "Arjun's view fits, since Herschel's thermometer warmed in the dark patch. The aunt is right that we need an instrument, which is what Herschel used. Meenakshi's idea was what most people thought, because dark seems to mean no light.",
+     "a": "The second person's view fits, since Herschel's thermometer warmed in the dark patch. The aunt is right that we need an instrument, which is what Herschel used. The first person's idea was what most people thought, because dark seems to mean no light.",
      "why": "A strong answer picks one view with evidence from the thermometer and credits a point from another.",
      "outcome": 7
     },

@@ -1470,20 +1470,20 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and her brother Kiran are looking at a pencil.",
+     "p": "The second child and her brother the first child are looking at a pencil.",
      "views": [
       {
-       "who": "Kiran, aged 6",
+       "who": "The first child, aged 6",
        "says": "A pencil is made of wood. Look, it is brown."
       },
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The second child, aged 7",
        "says": "A pencil is made of many materials. The middle is grey, and there is paint and a rubber."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other one has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For Lakshmi: the grey middle is graphite, not wood, and the rubber is rubber. For Kiran: most of a pencil is wood, so he named the main material.",
+     "a": "A strong answer picks a side with a reason. For the second child: the grey middle is graphite, not wood, and the rubber is rubber. For the first child: most of a pencil is wood, so he named the main material.",
      "why": "Both are partly right. Most of a pencil is wood, but a pencil is made of several materials. Looking at every part tells you the whole answer."
     },
     {

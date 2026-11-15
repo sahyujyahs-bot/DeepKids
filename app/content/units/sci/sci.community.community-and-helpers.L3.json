@@ -1907,15 +1907,15 @@
     {
      "t": "perspective",
      "p": "Two children talk about the shared swing in their building's park.",
-     "a": "A strong answer picks one side, gives a reason from the Shared Pond Test, and says one thing the other child has right. For example: Anjali is right that the swing gets broken, but a rule made together, like turns of 20 pushes, may keep it in use for everyone.",
+     "a": "A strong answer picks one side, gives a reason from the Shared Pond Test, and says one thing the other child has right. For example: The first child is right that the swing gets broken, but a rule made together, like turns of 20 pushes, may keep it in use for everyone.",
      "why": "Both have a point. A lock stops overuse but wastes the swing. A rule made together keeps it in use, but only if people keep it.",
      "views": [
       {
-       "who": "Anjali, aged 9",
+       "who": "The first child, aged 9",
        "says": "The big boys broke the last swing. The building should lock it, and only the watchman should unlock it."
       },
       {
-       "who": "Farhan, aged 8",
+       "who": "The second child, aged 8",
        "says": "If we all agree turns and one person counts the pushes, we won't need a lock."
       }
      ],
@@ -2155,16 +2155,16 @@
     },
     {
      "t": "perspective",
-     "p": "Moumita in Kolkata and Shalini in Bengaluru argue about how to keep their city's lake clean.",
-     "a": "A strong answer picks one side with a reason, perhaps from the Shared Pond Test or the Rule Hunt, and says one thing the other side has right. For example: Shalini is right that people who live by the lake can watch it every day, but Moumita is right that a city government can stop a big factory that does not listen.",
+     "p": "The first child in Kolkata and the second child in Bengaluru argue about how to keep their city's lake clean.",
+     "a": "A strong answer picks one side with a reason, perhaps from the Shared Pond Test or the Rule Hunt, and says one thing the other side has right. For example: The second child is right that people who live by the lake can watch it every day, but the first child is right that a city government can stop a big factory that does not listen.",
      "why": "Both are real views. Ostrom found that local groups often do well, but they may need help from a government against big polluters.",
      "views": [
       {
-       "who": "Moumita, aged 10",
+       "who": "The first child, aged 10",
        "says": "The city government should fine anyone who throws waste in the lake. People only listen to fines."
       },
       {
-       "who": "Shalini, aged 9",
+       "who": "The second child, aged 9",
        "says": "The people who live near the lake should make a group, make rules and take turns to watch it. They care about it most."
       }
      ],

@@ -1635,20 +1635,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, a girl of 8, and her brother Arjun, who is 6, melted some butter. Then they put it in the freezer, and it set again.",
+     "p": "The second person, a girl of 8, and her brother the first person, who is 6, melted some butter. Then they put it in the freezer, and it set again.",
      "views": [
       {
-       "who": "Arjun",
+       "who": "The first person",
        "says": "It is solid butter again. So nothing changed."
       },
       {
-       "who": "Kavya",
+       "who": "The second person",
        "says": "It looks a little different now. There is a watery layer underneath. So it did change a bit."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For example: 'Arjun, because it is butter and it is solid again.' Then it is fair to Kavya: it may look a little different, because the water and milk bits settled.",
+     "a": "A strong answer picks a side with a reason. For example: 'The first person, because it is butter and it is solid again.' Then it is fair to the second person: it may look a little different, because the water and milk bits settled.",
      "why": "Both are partly right. The fat melted and set again, so that part went back. But the water and milk bits may have moved, so it is not exactly the same as before.",
      "how": "a1"
     },
@@ -1717,20 +1717,20 @@
     },
     {
      "t": "perspective",
-     "p": "Divya, a girl of 8, and her friend Farhan, who is 8 too, are eating curd rice.",
+     "p": "The first person, a girl of 8, and her friend the second person, who is 8 too, are eating curd rice.",
      "views": [
       {
-       "who": "Divya",
+       "who": "The first person",
        "says": "Rice is a food. You chew it, so it is not a drink."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "Cooked rice is mostly water. So eating rice is a bit like drinking water."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Farhan, because the rice drank two cups of water when it cooked.' Then it is fair to Divya: the water is held inside the grains, so you chew it as food.",
+     "a": "A strong answer picks a side with a reason, for example: 'The second person, because the rice drank two cups of water when it cooked.' Then it is fair to the first person: the water is held inside the grains, so you chew it as food.",
      "why": "Both are right in a way. Cooked rice is more than half water, so it does give your body water. But the water is held inside the soft grains, so we eat it as a food."
     },
     {
@@ -1798,20 +1798,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two cooks make rice in different ways. Lakshmi Paati, in Chennai, soaks rice for 20 minutes before cooking. Mitali, in Kolkata, cooks it straight from the packet.",
+     "p": "Two cooks make rice in different ways. Lakshmi Paati, in Chennai, soaks rice for 20 minutes before cooking. The first person, in Kolkata, cooks it straight from the packet.",
      "views": [
       {
        "who": "Lakshmi Paati",
        "says": "Soaking lets the water start going in. So the rice cooks faster and uses less gas."
       },
       {
-       "who": "Mitali",
+       "who": "The first person",
        "says": "In the morning rush, I have no time to wait 20 minutes. It only saves a few minutes anyway."
       }
      ],
      "ask": "Whose way would you choose? Why? Then say one thing the other cook has right.",
      "lines": 3,
-     "a": "A strong answer chooses a way and gives a reason, then is fair to the other cook. For example: 'Lakshmi Paati, because saving gas matters. But Mitali is right that soaking takes planning.'",
+     "a": "A strong answer chooses a way and gives a reason, then is fair to the other cook. For example: 'Lakshmi Paati, because saving gas matters. But the first person is right that soaking takes planning.'",
      "why": "This is a real trade-off. Soaking saves a few minutes of cooking and some gas. Not soaking saves planning time. Both are sensible."
     },
     {

@@ -1769,10 +1769,10 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her grandmother, Paati, find a bar of chocolate that melted in a bag and then went hard again with white streaks on top.",
+     "p": "The first child and her grandmother, Paati, find a bar of chocolate that melted in a bag and then went hard again with white streaks on top.",
      "views": [
       {
-       "who": "Kavya, aged 7",
+       "who": "The first child, aged 7",
        "says": "It has gone bad. We should throw it away."
       },
       {
@@ -1782,8 +1782,8 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Paati, because melting can be undone and the chocolate is the same substance. It also says Kavya is right that it looks different, and that food left in a dirty or wet place can spoil.",
-     "why": "Melting and setting again does not turn chocolate into something else. The white streaks are its fat, set in a new pattern. Kavya is right to check food before eating it."
+     "a": "A strong answer agrees with Paati, because melting can be undone and the chocolate is the same substance. It also says the first child is right that it looks different, and that food left in a dirty or wet place can spoil.",
+     "why": "Melting and setting again does not turn chocolate into something else. The white streaks are its fat, set in a new pattern. The first child is right to check food before eating it."
     },
     {
      "t": "odd",
@@ -1862,14 +1862,14 @@
     },
     {
      "t": "perspective",
-     "p": "Nila and Bidisha want to cool a glass of nimbu pani on a hot day in Kolkata.",
+     "p": "The first child and the second child want to cool a glass of nimbu pani on a hot day in Kolkata.",
      "views": [
       {
-       "who": "Nila, aged 8",
+       "who": "The first child, aged 8",
        "says": "Put ice cubes in it. The ice will cool it quickly as it melts."
       },
       {
-       "who": "Bidisha, aged 7",
+       "who": "The second child, aged 7",
        "says": "Put the glass in the fridge. Then the drink won't get watery."
       }
      ],

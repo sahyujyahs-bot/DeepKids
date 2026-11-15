@@ -1312,20 +1312,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and Meena are looking at the gap between a bed and a wall.",
+     "p": "The first person and the second person are looking at the gap between a bed and a wall.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "The gap is empty. There is nothing there."
       },
       {
-       "who": "Meena",
+       "who": "The second person",
        "says": "The gap is not empty. It is full of air."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Meena, because a shut bottle pushes back when squeezed, so air fills space that looks empty. It also says Kavya is right that there are no things you can see in the gap.",
+     "a": "A strong answer agrees with the second person, because a shut bottle pushes back when squeezed, so air fills space that looks empty. It also says the first person is right that there are no things you can see in the gap.",
      "why": "Both have part of it. There are no toys or furniture in the gap, so it looks empty. But it is full of air. The squeezed bottle in the space hunt is the evidence."
     },
     {
@@ -1428,21 +1428,21 @@
     },
     {
      "t": "perspective",
-     "p": "Gauri and Zoya are talking about space.",
+     "p": "The first person and the second person are talking about space.",
      "views": [
       {
-       "who": "Gauri",
+       "who": "The first person",
        "says": "Space must end somewhere. Everything has an end, like a road or a rope."
       },
       {
-       "who": "Zoya",
+       "who": "The second person",
        "says": "Space can't end. If there were a wall at the end, there would be more space on the other side."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other girl has right.",
      "lines": 3,
      "a": "Any side, with a reason. A strong answer says that nobody knows yet, and uses something from the unit, such as the mirror tunnel or the stick question of Archytas.",
-     "why": "This is a real open question. Gauri is right that most things we know have an end. Zoya uses the same idea Archytas used. Scientists still disagree, so a strong answer gives a reason, not only a side."
+     "why": "This is a real open question. The first person is right that most things we know have an end. The second person uses the same idea Archytas used. Scientists still disagree, so a strong answer gives a reason, not only a side."
     },
     {
      "t": "count",
@@ -1505,21 +1505,21 @@
     },
     {
      "t": "perspective",
-     "p": "Sneha and her brother Arjun are arguing about space.",
+     "p": "The first person and her brother the second person are arguing about space.",
      "views": [
       {
-       "who": "Sneha",
+       "who": "The first person",
        "says": "Space is like a huge empty box. Even with nothing in it, the space would still be there."
       },
       {
-       "who": "Arjun",
+       "who": "The second person",
        "says": "Space is only the gaps between things. With no things at all, there would be no space."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
      "a": "Any side, with a reason. A strong answer notices that we always measure space using things, like steps between the bed and the door.",
-     "why": "This is a real argument. Isaac Newton thought like Sneha. Gottfried Leibniz thought like Arjun. Thinkers still argue about it."
+     "why": "This is a real argument. Isaac Newton thought like the first person. Gottfried Leibniz thought like the second person. Thinkers still argue about it."
     },
     {
      "t": "draw",

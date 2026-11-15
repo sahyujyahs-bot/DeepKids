@@ -1431,21 +1431,21 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, a girl of 7 in Madurai, and her cousin Ravi, who is 8, are talking about bedtime.",
+     "p": "The second person, a girl of 7 in Madurai, and her cousin the first person, who is 8, are talking about bedtime.",
      "views": [
       {
-       "who": "Ravi",
+       "who": "The first person",
        "says": "I watch cartoons in bed. It makes me feel calm, so I sleep better."
       },
       {
-       "who": "Lakshmi",
+       "who": "The second person",
        "says": "Screens in bed keep you awake. A story with a dim lamp is better."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right. A grown-up can write your answer.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Lakshmi, because studies find children with screens in bed sleep later and less.' Then it is fair to Ravi: a show can feel calming, and scientists still argue about how much the light itself matters.",
-     "why": "Both have a point. Most studies agree with Lakshmi, but Ravi is right that feeling calm matters for sleep."
+     "a": "A strong answer picks a side with a reason, for example: 'The second person, because studies find children with screens in bed sleep later and less.' Then it is fair to the first person: a show can feel calming, and scientists still argue about how much the light itself matters.",
+     "why": "Both have a point. Most studies agree with the second person, but the first person is right that feeling calm matters for sleep."
     },
     {
      "t": "count",
@@ -1562,14 +1562,14 @@
     },
     {
      "t": "perspective",
-     "p": "Revathi, a nurse in Chennai, works at night and sleeps in the day. Her daughter Anu, who is 7, sleeps at night.",
+     "p": "The second person, a nurse in Chennai, works at night and sleeps in the day. Her daughter the first person, who is 7, sleeps at night.",
      "views": [
       {
-       "who": "Anu",
+       "who": "The first person",
        "says": "People should sleep at night, when it is dark. Sleeping in the day is wrong."
       },
       {
-       "who": "Revathi",
+       "who": "The second person",
        "says": "My body can learn to sleep in the day, if I make my room dark and keep the same times."
       },
       {
@@ -1579,7 +1579,7 @@
      ],
      "ask": "Which view do you agree with most? Why? Then say what another view gets right. A grown-up can write your answer.",
      "lines": 3,
-     "a": "A strong answer picks a view with a reason, for example: 'Revathi, because the body clock can learn a new time, and bats sleep in the day.' Then it is fair to Anu: night is the easiest time for most humans, and night workers often find it harder to sleep well.",
+     "a": "A strong answer picks a view with a reason, for example: 'The second person, because the body clock can learn a new time, and bats sleep in the day.' Then it is fair to the first person: night is the easiest time for most humans, and night workers often find it harder to sleep well.",
      "why": "Most humans sleep best at night, but bodies can shift, and other animals sleep at other times. Each view has part of the truth."
     },
     {

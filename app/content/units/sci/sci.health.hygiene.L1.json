@@ -648,10 +648,10 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Farida, a girl of 7 in Hyderabad, and her uncle Imran are talking about brushing.",
+     "p": "The first person, a girl of 7 in Hyderabad, and her uncle Imran are talking about brushing.",
      "views": [
       {
-       "who": "Farida",
+       "who": "The first person",
        "says": "I brush my back teeth every night, because the tiny beings in my mouth eat the leftover food."
       },
       {
@@ -661,7 +661,7 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and uses the biscuit test. For example: 'Farida, because water left crumbs in my back teeth, and the brush took them out.' Then it is fair to Uncle Imran: rinsing does wash the front teeth and helps a little.",
+     "a": "A strong answer picks a side and uses the biscuit test. For example: 'The first person, because water left crumbs in my back teeth, and the brush took them out.' Then it is fair to Uncle Imran: rinsing does wash the front teeth and helps a little.",
      "why": "Both are partly right. Rinsing helps, especially after sweets. But in the biscuit test, only the brush cleaned the grooves of the back teeth.",
      "how": "e1"
     },

@@ -1392,17 +1392,17 @@
      "p": "Two friends in Madurai look at an empty water bottle with no cap.",
      "views": [
       {
-       "who": "Divya, aged 6",
+       "who": "The first child, aged 6",
        "says": "It is empty. There is nothing inside."
       },
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The second child, aged 7",
        "says": "It is full of air."
       }
      ],
-     "ask": "Who is right? Use what you found in Catch the Air. Then say one thing Divya got right.",
-     "a": "Lakshmi is right: the bottle is full of air, just like the bucket and the space under the bed. Divya is right that there is no water and nothing we can see inside.",
-     "why": "A strong answer uses Catch the Air: every place that looked empty had air. It is also fair to Divya: 'empty' usually means nothing we can see.",
+     "ask": "Who is right? Use what you found in Catch the Air. Then say one thing the first child got right.",
+     "a": "The second child is right: the bottle is full of air, just like the bucket and the space under the bed. The first child is right that there is no water and nothing we can see inside.",
+     "why": "A strong answer uses Catch the Air: every place that looked empty had air. It is also fair to the first child: 'empty' usually means nothing we can see.",
      "how": "e1"
     }
    ]

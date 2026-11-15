@@ -1556,14 +1556,14 @@
     },
     {
      "t": "perspective",
-     "p": "It is a cold morning in Shillong. Kavya and her friend Divya want to get warm before school.",
+     "p": "It is a cold morning in Shillong. The first child and her friend the second child want to get warm before school.",
      "views": [
       {
-       "who": "Kavya, aged 7",
+       "who": "The first child, aged 7",
        "says": "Put on a sweater. It keeps you warm all day."
       },
       {
-       "who": "Divya, aged 8",
+       "who": "The second child, aged 8",
        "says": "Run and jump. Your body makes new warmth."
       }
      ],
@@ -1611,11 +1611,11 @@
      "p": "A hen sits on her eggs to keep them warm. Two girls argue about it.",
      "views": [
       {
-       "who": "Sneha, aged 8",
+       "who": "The first child, aged 8",
        "says": "The hen's feathers keep the eggs warm."
       },
       {
-       "who": "Revathi, aged 7",
+       "who": "The second child, aged 7",
        "says": "No, the hen's body makes the warmth."
       }
      ],

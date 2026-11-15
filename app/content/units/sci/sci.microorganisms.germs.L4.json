@@ -2550,20 +2550,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meera has a cold and a sore throat. Her doctor says no antibiotic is needed.",
+     "p": "The first person has a cold and a sore throat. Her doctor says no antibiotic is needed.",
      "views": [
       {
-       "who": "Meera",
+       "who": "The first person",
        "says": "I want an antibiotic. It will make me better faster, and my friend got one when she had a cold."
       },
       {
-       "who": "Farhan, Meera's brother",
+       "who": "Farhan, the first person's brother",
        "says": "The doctor is right. A cold is caused by a virus, and antibiotics do not work on viruses."
       }
      ],
      "ask": "Who do you agree with, and why? Then say one thing the other person has right.",
      "lines": 4,
-     "a": "A strong answer agrees with the doctor and Farhan: antibiotics do not work on viruses, and they can leave tough bacteria behind. It also says that Meera is right to want to get better, and that rest and drinks are the real help. If the throat gets worse, the doctor can test for bacteria.",
+     "a": "A strong answer agrees with the doctor and Farhan: antibiotics do not work on viruses, and they can leave tough bacteria behind. It also says that the first person is right to want to get better, and that rest and drinks are the real help. If the throat gets worse, the doctor can test for bacteria.",
      "why": "Wanting to get better is reasonable. The best help is the one that matches the cause."
     },
     {

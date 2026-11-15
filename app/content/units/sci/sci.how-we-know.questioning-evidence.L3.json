@@ -1984,17 +1984,17 @@
      "p": "Two sisters in Kochi argue about the old saying that a crow calling means a guest is coming.",
      "views": [
       {
-       "who": "Lakshmi, aged 9",
+       "who": "The first child, aged 9",
        "says": "Paati has seen it happen many times. She is old and wise, so the saying must be true."
       },
       {
-       "who": "Kavya, aged 7",
+       "who": "The second child, aged 7",
        "says": "Paati is wise, but she might remember only the days it worked. We should write down every day for a week and count."
       }
      ],
      "ask": "Which sister do you agree with more? Give a reason. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer sees that a tally of every day is better evidence than memory. It also gives Lakshmi her due: Paati has watched crows for years, and she noticed something true, that crows call a lot.",
+     "a": "A strong answer sees that a tally of every day is better evidence than memory. It also gives the first child her due: Paati has watched crows for years, and she noticed something true, that crows call a lot.",
      "why": "Pick-a-side questions have no single right answer. Marks go for using evidence and stating the other view fairly."
     },
     {
@@ -2110,17 +2110,17 @@
      "p": "Two friends in Hyderabad read a claim on a cereal box: 'Children who eat this cereal do better at school.'",
      "views": [
       {
-       "who": "Anjali, aged 9",
+       "who": "The first child, aged 9",
        "says": "It's printed on the box, so it must be checked. Companies aren't allowed to lie."
       },
       {
-       "who": "Farhan, aged 8",
+       "who": "The second child, aged 8",
        "says": "Says who? The company wants to sell cereal. And children who eat breakfast might do better anyway, whatever they eat."
       }
      ],
      "ask": "Which friend do you agree with more? Ask: Says who? How do they know? Who is missing? Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer asks who tested it, how, and against what. It also gives Anjali her due: there are rules about what can be printed on food packets.",
+     "a": "A strong answer asks who tested it, how, and against what. It also gives the first child her due: there are rules about what can be printed on food packets.",
      "why": "Marks go for using the three questions, and for stating the other view fairly."
     },
     {

@@ -1725,17 +1725,17 @@
        "says": "Play the big carton drum gently. Its sound is low and calm."
       },
       {
-       "who": "Ananya",
+       "who": "The first person",
        "says": "Hoot the bottle softly. A soft hoot is the gentlest sound."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "Shake the rice bottle slowly, on a slow beat, like a lullaby."
       }
      ],
      "ask": "Who do you agree with? Give one reason from your own tests. Then say one thing another friend has right.",
      "lines": 4,
-     "a": "A strong answer picks a side and gives a reason. Kavya is right that a gentle tap on the carton is soft and low. Ananya is right that soft sounds are calmer. Farhan is right that a slow tempo, like a lullaby's, helps a baby calm down.",
+     "a": "A strong answer picks a side and gives a reason. Kavya is right that a gentle tap on the carton is soft and low. The first person is right that soft sounds are calmer. The second person is right that a slow tempo, like a lullaby's, helps a baby calm down.",
      "why": "Being calm depends on being soft and on a slow tempo, more than on being high or low. Each friend has part of it."
     },
     {
@@ -1869,17 +1869,17 @@
        "says": "Because it is bigger. Its big sides vibrate more slowly."
       },
       {
-       "who": "Farhan",
+       "who": "The first person",
        "says": "Because it is made of card, and card always sounds low."
       },
       {
-       "who": "Meena",
+       "who": "The second person",
        "says": "Because it has much more air inside it, and that air vibrates too."
       }
      ],
      "ask": "Who do you agree with? Use what you found in the Big Box test. Then say whether another friend is partly right.",
      "lines": 4,
-     "a": "A strong answer agrees with Kavya and uses evidence: all the boxes were card, yet the small ones sounded high. So Farhan's reason cannot be right. Meena is partly right: the air inside a box vibrates too, and more air also makes a lower sound.",
+     "a": "A strong answer agrees with Kavya and uses evidence: all the boxes were card, yet the small ones sounded high. So the first person's reason cannot be right. The second person is partly right: the air inside a box vibrates too, and more air also makes a lower sound.",
      "why": "The matchbox and the carton were both card, so the material alone cannot explain it. Size changes both the sides and the amount of air inside.",
      "how": "e1"
     },

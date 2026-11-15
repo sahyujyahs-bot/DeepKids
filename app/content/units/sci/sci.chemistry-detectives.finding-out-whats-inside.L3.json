@@ -1927,17 +1927,17 @@
      "p": "Two friends in Kochi look at a black sketch pen dot that has split into blue and purple.",
      "views": [
       {
-       "who": "Lakshmi, aged 8",
+       "who": "The first child, aged 8",
        "says": "The ink is black. I can see that it's black when I write with it."
       },
       {
-       "who": "Farhan, aged 9",
+       "who": "The second child, aged 9",
        "says": "The ink is really blue and purple. The black is just a trick."
       }
      ],
      "ask": "Who do you agree with more? Use what the split dot shows. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sees that both have part of it. The ink is a mixture of blue and purple dyes, as the strip shows. Lakshmi is right that the mixture looks black. Farhan is right that blue and purple are in it. The black is not a trick: it is how the dyes look together.",
+     "a": "A strong answer sees that both have part of it. The ink is a mixture of blue and purple dyes, as the strip shows. The first child is right that the mixture looks black. The second child is right that blue and purple are in it. The black is not a trick: it is how the dyes look together.",
      "why": "This question asks the child to use evidence and to see that 'looks black' and 'is made of blue and purple dyes' can both be true."
     },
     {
@@ -2002,17 +2002,17 @@
      "p": "In the story, the secret note's strip matched Arun's pen. Two cousins argue about what this proves.",
      "views": [
       {
-       "who": "Divya, aged 10",
+       "who": "The first child, aged 10",
        "says": "It proves Arun wrote the note. His pen matched."
       },
       {
-       "who": "Arjun, aged 8",
+       "who": "The second child, aged 8",
        "says": "It proves nothing. Anyone could have used any pen."
       }
      ],
      "ask": "Who is closer to the truth? Say what the strip does show, and what it does not show. Then say one thing the other cousin has right.",
      "lines": 5,
-     "a": "A strong answer says the strip shows which ink wrote the note: Arun's pen. It does not show who held the pen. Divya is right that the evidence points at Arun's pen. Arjun is right that a pen can be used by anyone, so more questions are needed. But the test does tell us something, so it does not prove nothing.",
+     "a": "A strong answer says the strip shows which ink wrote the note: Arun's pen. It does not show who held the pen. The first child is right that the evidence points at Arun's pen. The second child is right that a pen can be used by anyone, so more questions are needed. But the test does tell us something, so it does not prove nothing.",
      "why": "Real forensic scientists are careful in the same way: evidence answers one question, not every question."
     },
     {

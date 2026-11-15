@@ -1292,15 +1292,15 @@
      "p": "You want your grandmother on the balcony to hear you. Three children have ideas.",
      "views": [
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The first child, aged 7",
        "says": "Shout as loud as you can."
       },
       {
-       "who": "Anu, aged 6",
+       "who": "The second child, aged 6",
        "says": "Use a paper cone and point it at the balcony."
       },
       {
-       "who": "Ravi, aged 7",
+       "who": "The third child, aged 7",
        "says": "Walk to the balcony and talk in your normal voice."
       }
      ],
@@ -1405,7 +1405,7 @@
      "p": "A cooker whistles in the kitchen. Two friends talk about why it sounds soft in the far bedroom.",
      "views": [
       {
-       "who": "Divya, aged 7",
+       "who": "The first child, aged 7",
        "says": "The sound gets tired as it walks far."
       },
       {
@@ -1415,8 +1415,8 @@
      ],
      "ask": "Who do you agree with? What did you hear in the Walk Away test or The Paper Cone that helps you decide? Then say what is good about the other idea.",
      "lines": 3,
-     "a": "Zoya's idea matches the tests. The sound spreads out to every side, so less of it reaches far away. Divya is right that far means soft, but sounds do not get tired. With a cone, which stops some of the spreading, a far voice sounds louder.",
-     "why": "A strong answer uses evidence, like the cone test or the finger rub fading, and is fair to Divya: she noticed that far sounds are softer."
+     "a": "Zoya's idea matches the tests. The sound spreads out to every side, so less of it reaches far away. The first child is right that far means soft, but sounds do not get tired. With a cone, which stops some of the spreading, a far voice sounds louder.",
+     "why": "A strong answer uses evidence, like the cone test or the finger rub fading, and is fair to the first child: she noticed that far sounds are softer."
     },
     {
      "t": "write",

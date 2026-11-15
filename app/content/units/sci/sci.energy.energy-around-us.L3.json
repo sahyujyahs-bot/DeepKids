@@ -1945,18 +1945,18 @@
      "p": "Two friends in Kochi argue after a game of football. They are both very tired.",
      "views": [
       {
-       "who": "Anjali, aged 9",
+       "who": "The first child, aged 9",
        "says": "We used up all our energy. It's gone."
       },
       {
-       "who": "Revathi, aged 8",
+       "who": "The second child, aged 8",
        "says": "Energy can never be used up. It just went somewhere else."
       }
      ],
      "ask": "Which friend do you agree with? Use what you know about where energy goes. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer agrees with Revathi that energy is never destroyed: it passed into the ball, sounds, and mostly warmth spreading into the air. It gives Anjali her due: the energy is gone from their bodies, in a form they can't use again, so they need to eat and rest.",
-     "why": "Both friends see part of the truth. Scientists agree with Revathi about the total. Anjali is right about what she feels: the useful energy in her body is lower."
+     "a": "A strong answer agrees with the second child that energy is never destroyed: it passed into the ball, sounds, and mostly warmth spreading into the air. It gives the first child her due: the energy is gone from their bodies, in a form they can't use again, so they need to eat and rest.",
+     "why": "Both friends see part of the truth. Scientists agree with the second child about the total. The first child is right about what she feels: the useful energy in her body is lower."
     },
     {
      "t": "label",
@@ -2089,18 +2089,18 @@
      "p": "Two cousins in Mysuru argue about a ball on a high shelf.",
      "views": [
       {
-       "who": "Tanvi, aged 9",
+       "who": "The first child, aged 9",
        "says": "The ball has energy right now. It's stored, ready to fall."
       },
       {
-       "who": "Ishaan, aged 8",
+       "who": "The second child, aged 8",
        "says": "The ball has no energy until it falls. Energy only shows when something happens."
       }
      ],
      "ask": "Which cousin do you agree with? Use the Atta Crater Test or the water bottle lift as evidence. Then say what the other cousin has right.",
      "lines": 5,
-     "a": "A strong answer sides with Tanvi: lifting the ball took energy, which is stored, and it comes out when it falls, as in the atta craters. It gives Ishaan his due: we only see energy when something happens, and nothing shows while the ball sits still.",
-     "why": "Scientists call Tanvi's idea stored energy, or potential energy. Ishaan is right that we notice energy only by what it does."
+     "a": "A strong answer sides with the first child: lifting the ball took energy, which is stored, and it comes out when it falls, as in the atta craters. It gives the second child his due: we only see energy when something happens, and nothing shows while the ball sits still.",
+     "why": "Scientists call the first child's idea stored energy, or potential energy. The second child is right that we notice energy only by what it does."
     },
     {
      "t": "mcq",

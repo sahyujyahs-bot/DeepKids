@@ -1244,14 +1244,14 @@
     },
     {
      "t": "perspective",
-     "p": "Selvi and her brother Ravi are choosing a cover for a small window in their flat.",
+     "p": "The first child and her brother the second child are choosing a cover for a small window in their flat.",
      "views": [
       {
-       "who": "Selvi, aged 8",
+       "who": "The first child, aged 8",
        "says": "Use clear polythene. It lets the light in and keeps the rain out."
       },
       {
-       "who": "Ravi, aged 6",
+       "who": "The second child, aged 6",
        "says": "Use a mosquito net. It lets fresh air in and keeps the mosquitoes out."
       }
      ],
@@ -1310,14 +1310,14 @@
     },
     {
      "t": "perspective",
-     "p": "Anjali and Meera are arguing about whether a rubber band is strong.",
+     "p": "The first child and the second child are arguing about whether a rubber band is strong.",
      "views": [
       {
-       "who": "Anjali, aged 8",
+       "who": "The first child, aged 8",
        "says": "A rubber band is strong. It held our bundle of pencils tight."
       },
       {
-       "who": "Meera, aged 7",
+       "who": "The second child, aged 7",
        "says": "A rubber band is not strong. It snaps when you pull it too far."
       }
      ],

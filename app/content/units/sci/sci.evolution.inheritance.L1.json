@@ -1161,14 +1161,14 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and Lalitha, two sisters in Kochi, look at their new baby cousin, Siddharth.",
+     "p": "The first child and the second child, two sisters in Kochi, look at their new baby cousin, Siddharth.",
      "views": [
       {
-       "who": "Kavya, aged 7",
+       "who": "The first child, aged 7",
        "says": "He looks just like his Amma. He has her round face."
       },
       {
-       "who": "Lalitha, aged 6",
+       "who": "The second child, aged 6",
        "says": "No, he looks like his Appa. He has his Appa's ears."
       }
      ],
@@ -1248,20 +1248,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi and Farhana, two girls in Hyderabad, are talking about pea plants.",
+     "p": "The first child and the second child, two girls in Hyderabad, are talking about pea plants.",
      "views": [
       {
-       "who": "Meenakshi, aged 7",
+       "who": "The first child, aged 7",
        "says": "If a tall pea plant and a short pea plant have babies, the babies will be medium, like mixing two paints."
       },
       {
-       "who": "Farhana, aged 6",
+       "who": "The second child, aged 6",
        "says": "The babies might all be tall, or all short."
       }
      ],
      "ask": "Who do you agree with? How could the girls find out? Then say why the other girl's idea makes sense too.",
-     "a": "Farhana is closer. When Gregor Mendel did this, all the babies were tall. Short plants came back in the next generation. Meenakshi's idea makes sense, because many children look a bit like both parents.",
-     "why": "A strong answer says to grow the seeds and look, and is fair to Meenakshi's idea."
+     "a": "The second child is closer. When Gregor Mendel did this, all the babies were tall. Short plants came back in the next generation. The first child's idea makes sense, because many children look a bit like both parents.",
+     "why": "A strong answer says to grow the seeds and look, and is fair to the first child's idea."
     },
     {
      "t": "odd",

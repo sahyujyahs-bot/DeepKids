@@ -2326,20 +2326,20 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Nandini and her brother Vikram watch paper bits jump up to a rubbed balloon. They disagree about why.",
+     "p": "The first person and her brother the second person watch paper bits jump up to a rubbed balloon. They disagree about why.",
      "views": [
       {
-       "who": "Nandini",
+       "who": "The first person",
        "says": "The paper must be charged too, with the opposite charge. Only opposite charges attract."
       },
       {
-       "who": "Vikram",
+       "who": "The second person",
        "says": "The paper is not charged. The balloon is charged, and that is enough to pull the paper."
       }
      ],
      "ask": "Who do you agree with? Give your evidence. Then say what the other person got right.",
      "lines": 5,
-     "a": "A strong answer sides mostly with Vikram: the paper was never rubbed, and it is neutral. But it gives Nandini her due: the near side of the paper does get a little opposite charge, because the balloon pushes the paper's electrons a tiny way back. So both are partly right.",
+     "a": "A strong answer sides mostly with the second person: the paper was never rubbed, and it is neutral. But it gives the first person her due: the near side of the paper does get a little opposite charge, because the balloon pushes the paper's electrons a tiny way back. So both are partly right.",
      "why": "This tests the hardest idea in the unit: how a charged thing attracts a neutral one."
     },
     {

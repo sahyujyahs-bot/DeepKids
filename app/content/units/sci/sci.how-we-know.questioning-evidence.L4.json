@@ -2018,17 +2018,17 @@
      "p": "Two cousins in Madurai argue about a herbal tea.",
      "views": [
       {
-       "who": "Janani, aged 9",
+       "who": "The first child, aged 9",
        "says": "My aunt drank the tea and her cold was gone in a week. The tea works."
       },
       {
-       "who": "Karthik, aged 8",
+       "who": "The second child, aged 8",
        "says": "Colds go away in a week anyway. We would have to compare people who drank it with people who did not."
       }
      ],
      "ask": "Which cousin do you agree with more? Give a reason. Then say one thing the other cousin has right.",
      "lines": 5,
-     "a": "A strong answer sees that one story cannot show what would have happened without the tea. It also gives Janani her due: her aunt's experience is real and a good reason to run a fair test.",
+     "a": "A strong answer sees that one story cannot show what would have happened without the tea. It also gives the first child her due: her aunt's experience is real and a good reason to run a fair test.",
      "why": "Marks go for using the idea of a control group and for being fair to the other cousin."
     },
     {
@@ -2192,17 +2192,17 @@
      "p": "Two friends in Kochi talk about a headache tablet test.",
      "views": [
       {
-       "who": "Rohit, aged 9",
+       "who": "The first child, aged 9",
        "says": "People in the test felt better after the sugar pill, so they were only pretending. Placebo means fake."
       },
       {
-       "who": "Deepa, aged 9",
+       "who": "The second child, aged 9",
        "says": "The feeling can be real, because expecting to feel better can change how we feel. But a sugar pill cannot fix a broken bone."
       }
      ],
      "ask": "Which friend do you agree with more? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sees that placebo effects are real feelings, especially for pain, but do not cure everything. It gives Rohit his due: a sugar pill has nothing in it that acts like a medicine.",
+     "a": "A strong answer sees that placebo effects are real feelings, especially for pain, but do not cure everything. It gives the first child his due: a sugar pill has nothing in it that acts like a medicine.",
      "why": "Marks go for using evidence and stating the other view fairly."
     },
     {

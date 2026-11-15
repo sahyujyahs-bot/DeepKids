@@ -1305,21 +1305,21 @@
     },
     {
      "t": "perspective",
-     "p": "Thenmozhi and her friend Anjali are mixing paints in Chennai.",
+     "p": "The first child and her friend the second child are mixing paints in Chennai.",
      "views": [
       {
-       "who": "Thenmozhi, aged 6",
+       "who": "The first child, aged 6",
        "says": "If I mix every colour, I will get the most beautiful colour of all, a rainbow colour."
       },
       {
-       "who": "Anjali, aged 7",
+       "who": "The second child, aged 7",
        "says": "If I mix every colour, I will get a dark, muddy colour. Each paint makes the mix darker."
       }
      ],
      "ask": "Who do you agree with? Why? Say it out loud, and a grown-up writes it down. Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks Anjali and uses the Colour Mixing Test: all three paints made dark brown. It also says Thenmozhi has something right: each paint alone is bright, and brown is a useful colour, for a tree trunk or soil.",
-     "why": "Anjali is right about paint. Thenmozhi's guess is a common one. Mixing light works differently, which a later unit shows. Both girls are thinking about what mixing does.",
+     "a": "A strong answer picks the second child and uses the Colour Mixing Test: all three paints made dark brown. It also says the first child has something right: each paint alone is bright, and brown is a useful colour, for a tree trunk or soil.",
+     "why": "The second child is right about paint. The first child's guess is a common one. Mixing light works differently, which a later unit shows. Both girls are thinking about what mixing does.",
      "how": "e1"
     },
     {

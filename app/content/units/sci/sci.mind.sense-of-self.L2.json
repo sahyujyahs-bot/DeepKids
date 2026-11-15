@@ -1328,10 +1328,10 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, a girl aged 8, and her grandmother (Ammamma) talk about flowers that reject their own pollen.",
+     "p": "The first person, a girl aged 8, and her grandmother (Ammamma) talk about flowers that reject their own pollen.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first person",
        "says": "Many flowers know their own pollen and keep it out. So a flower has a sense of self."
       },
       {
@@ -1417,20 +1417,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two girls, Meenakshi and her friend Divya, talk about the glove hand test, where a glove is stroked while your real hand is hidden.",
+     "p": "Two girls, the first person and her friend the second person, talk about the glove hand test, where a glove is stroked while your real hand is hidden.",
      "views": [
       {
-       "who": "Meenakshi",
+       "who": "The first person",
        "says": "The glove felt like my hand. So my brain decides what is me by what I see and feel together."
       },
       {
-       "who": "Divya",
+       "who": "The second person",
        "says": "It didn't work on me at all. So the glove test doesn't show anything."
       }
      ],
      "ask": "Who do you agree with? Give one reason. What would you test next to find out more? A grown-up can write your answer.",
      "lines": 4,
-     "a": "A strong answer sees that the test worked for one person and not the other, which is a real result. Meenakshi's idea fits her result. Divya is right that it doesn't work for everyone. Next, test more people, with strokes at the same moment and at different moments.",
+     "a": "A strong answer sees that the test worked for one person and not the other, which is a real result. The first person's idea fits her result. The second person is right that it doesn't work for everyone. Next, test more people, with strokes at the same moment and at different moments.",
      "why": "Scientists found the glove trick works for many people, not all. One person's result is not enough either way.",
      "how": "e2"
     },

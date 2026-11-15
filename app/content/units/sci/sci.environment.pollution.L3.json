@@ -1725,11 +1725,11 @@
      "p": "Two sisters in Kochi talk about their neighbour, who burns the dry leaves from his garden every week.",
      "views": [
       {
-       "who": "Nandini, aged 10",
+       "who": "The first child, aged 10",
        "says": "Leaves are natural, so burning them is fine. It's not like burning plastic."
       },
       {
-       "who": "Tara, aged 8",
+       "who": "The second child, aged 8",
        "says": "The smoke still goes into our window and our noses. It doesn't matter that the leaves are natural."
       }
      ],
@@ -1883,7 +1883,7 @@
        "says": "Mosquitoes carry dengue. The coil keeps them away, so it keeps us safe."
       },
       {
-       "who": "Ishita, aged 9",
+       "who": "The first child, aged 9",
        "says": "The coil fills our room with smoke all night. We breathe it for hours."
       },
       {
@@ -1894,7 +1894,7 @@
      "ask": "Who do you agree with? Give a reason from this unit. Then say what the others have right.",
      "lines": 5,
      "a": "A strong answer sees that both dangers are real: dengue is serious, and coil smoke is full of fine particles. It may choose the net because it solves both problems, and it gives each person credit for their point.",
-     "why": "This is a real trade-off. The mother is right that mosquitoes are dangerous. Ishita is right about the smoke. Ammamma's net removes both problems, though a net must be tucked in well to work."
+     "why": "This is a real trade-off. The mother is right that mosquitoes are dangerous. The first child is right about the smoke. Ammamma's net removes both problems, though a net must be tucked in well to work."
     },
     {
      "t": "write",
@@ -1973,7 +1973,7 @@
        "says": "The bonfire is our tradition. My mother and grandmother lit it. Without the fire, it isn't Bhogi."
       },
       {
-       "who": "Meera, aged 9",
+       "who": "The first child, aged 9",
        "says": "Last Bhogi the sky was grey, and flights at the airport were delayed by the smoke. We can keep Bhogi without it."
       },
       {

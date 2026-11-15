@@ -1443,20 +1443,20 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and her friend Zainab watched the paper cup curve round on the floor.",
+     "p": "The first child and her friend the second child watched the paper cup curve round on the floor.",
      "views": [
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The first child, aged 7",
        "says": "The cup went round because of its shape. One end is wide and one end is narrow."
       },
       {
-       "who": "Zainab, aged 6",
+       "who": "The second child, aged 6",
        "says": "No, the floor made it go round. On a slippery floor it would just slide."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other child has right. Say it out loud and a grown-up writes it.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For Lakshmi: the bottle rolled straight on the same floor, so the shape made the difference. For Zainab: the floor's grip holds the two ends as they roll. On a very slippery floor the cup would slide, not roll.",
+     "a": "A strong answer picks a side and gives a reason. For the first child: the bottle rolled straight on the same floor, so the shape made the difference. For the second child: the floor's grip holds the two ends as they roll. On a very slippery floor the cup would slide, not roll.",
      "why": "Both children see something true. The shape decides which way the cup turns, and the floor's grip, called friction, is what lets it roll at all.",
      "how": "e1"
     },
@@ -1585,21 +1585,21 @@
     },
     {
      "t": "perspective",
-     "p": "Divya and Zeenat are watching a top spin on a steel plate in Hyderabad.",
+     "p": "The first child and the second child are watching a top spin on a steel plate in Hyderabad.",
      "views": [
       {
-       "who": "Divya, aged 7",
+       "who": "The first child, aged 7",
        "says": "The top stands up because it is spinning."
       },
       {
-       "who": "Zeenat, aged 6",
+       "who": "The second child, aged 6",
        "says": "The top stands up because its point is sharp."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other child has right. Say it out loud and a grown-up writes it.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For Divya: the same top with the same point fell over when it was still, so the spin is what holds it up. For Zeenat: a sharp, smooth point rubs less on the plate, so the top keeps spinning longer.",
-     "why": "Divya has the main reason: spinning keeps a top up. Zeenat is right that the point matters, because a point that rubs less lets the top spin for longer.",
+     "a": "A strong answer picks a side and gives a reason. For the first child: the same top with the same point fell over when it was still, so the spin is what holds it up. For the second child: a sharp, smooth point rubs less on the plate, so the top keeps spinning longer.",
+     "why": "The first child has the main reason: spinning keeps a top up. The second child is right that the point matters, because a point that rubs less lets the top spin for longer.",
      "how": "p1"
     },
     {

@@ -1097,21 +1097,21 @@
      "p": "Three neighbours disagree about how to keep a bunch of palak fresh. Each gives advice.",
      "views": [
       {
-       "who": "Sheela",
+       "who": "The first person",
        "says": "Keep the palak in the fruit bowl, next to the ripe bananas, so you see it and use it."
       },
       {
-       "who": "Rukmini",
+       "who": "The second person",
        "says": "Wrap the palak in a damp cloth and keep it in a box, away from the fruit bowl."
       },
       {
-       "who": "Hasan",
+       "who": "The third person",
        "says": "Seal the palak in a plastic bag in the fridge, so no air can reach it."
       }
      ],
      "ask": "Which advice would you follow? Give a reason from what you know about leaves and ripe fruit. Then say one thing another neighbour gets right.",
      "lines": 5,
-     "a": "A strong answer picks Rukmini's plan. Ripe bananas give off ethylene, which makes leaves yellow sooner, so keeping the palak away from fruit helps. A damp cloth keeps the leaves from drying out. Hasan is right that the fridge slows ageing, but a sealed plastic bag can make leaves slimy. Sheela is right that the palak is more likely to be used if it is in sight, but the bananas shorten its life. A strong answer gives each plan its due.",
+     "a": "A strong answer picks the second person's plan. Ripe bananas give off ethylene, which makes leaves yellow sooner, so keeping the palak away from fruit helps. A damp cloth keeps the leaves from drying out. The third person is right that the fridge slows ageing, but a sealed plastic bag can make leaves slimy. The first person is right that the palak is more likely to be used if it is in sight, but the bananas shorten its life. A strong answer gives each plan its due.",
      "why": "Ethylene from ripe fruit pushes leaves to age. Cool, damp and airy storage keeps leaves fresh longest.",
      "outcome": 2
     },

@@ -1339,20 +1339,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two sisters in Madurai, Anu and Divya, watch a hen in their neighbour's yard.",
+     "p": "Two sisters in Madurai, the first child and the second child, watch a hen in their neighbour's yard.",
      "views": [
       {
-       "who": "Anu, aged 6",
+       "who": "The first child, aged 6",
        "says": "A hen is not a bird. Hens hardly fly."
       },
       {
-       "who": "Divya, aged 8",
+       "who": "The second child, aged 8",
        "says": "A hen is a bird. She has feathers and a beak."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Divya, because every bird has feathers and a beak, and the hen has both. Anu is right that hens fly much less than crows. A hen can still fly a short way, up onto a wall.",
+     "a": "A strong answer agrees with the second child, because every bird has feathers and a beak, and the hen has both. The first child is right that hens fly much less than crows. A hen can still fly a short way, up onto a wall.",
      "why": "Many children sort birds by flying. Feathers are the feature every bird has, whether they fly far or not."
     },
     {
@@ -1463,20 +1463,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her friend Farhan sort bird cards. One card shows a black male koel. Another shows a brown, spotted female koel.",
+     "p": "The first person and her friend the second person sort bird cards. One card shows a black male koel. Another shows a brown, spotted female koel.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "Sort them by colour. You can see colour at once."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "Colour can fool you. These two are both koels."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one way the other person's idea helps.",
      "lines": 3,
-     "a": "A strong answer agrees with Farhan for these cards, because a male and a female koel are the same kind of bird with different colours. Kavya is right that colour is quick to see, and bird watchers do use colour to tell many birds apart.",
+     "a": "A strong answer agrees with the second person for these cards, because a male and a female koel are the same kind of bird with different colours. The first person is right that colour is quick to see, and bird watchers do use colour to tell many birds apart.",
      "why": "Colour is a useful clue, but it can split one kind of animal into two groups."
     },
     {

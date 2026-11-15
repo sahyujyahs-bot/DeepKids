@@ -1547,14 +1547,14 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her sister Anjali are sorting animal cards.",
+     "p": "The first person and her sister the second person are sorting animal cards.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "Sort by covering. You can see it in one look."
       },
       {
-       "who": "Anjali",
+       "who": "The second person",
        "says": "Sort by food. Then you know how to feed each animal."
       }
      ],
@@ -1678,14 +1678,14 @@
     },
     {
      "t": "perspective",
-     "p": "Dr Meenakshi, a vet, and her nephew Farhan are talking about dogs.",
+     "p": "Dr Meenakshi, a vet, and her nephew the first person are talking about dogs.",
      "views": [
       {
        "who": "Dr Meenakshi",
        "says": "Dogs are meat-eaters. They come from wolves, and they have sharp teeth."
       },
       {
-       "who": "Farhan",
+       "who": "The first person",
        "says": "Dogs eat both. Street dogs live on rice and chapati, and their bodies digest it well."
       }
      ],

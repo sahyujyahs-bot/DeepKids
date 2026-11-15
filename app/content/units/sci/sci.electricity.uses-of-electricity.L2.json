@@ -1418,20 +1418,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two sisters, Meghna and Ishita, find a cell that cannot light the torch.",
+     "p": "Two sisters, the first child and the second child, find a cell that cannot light the torch.",
      "views": [
       {
-       "who": "Meghna, aged 8",
+       "who": "The first child, aged 8",
        "says": "This cell is dead. Throw it away."
       },
       {
-       "who": "Ishita, aged 6",
+       "who": "The second child, aged 6",
        "says": "Let's try it in the clock first. It might still work there."
       }
      ],
      "ask": "Who do you agree with? Say why. Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "Ishita is wise to test it in the clock, because a cell too weak for a torch can still run a clock. Meghna is right that it is no use for the torch any more.",
+     "a": "The second child is wise to test it in the clock, because a cell too weak for a torch can still run a clock. The first child is right that it is no use for the torch any more.",
      "why": "A strong answer uses the Tired Cell Test as evidence, and does not call either sister simply wrong.",
      "how": "e1"
     },
@@ -1611,7 +1611,7 @@
      "p": "Three people talk about the light in a room.",
      "views": [
       {
-       "who": "Nandini, aged 9",
+       "who": "The first child, aged 9",
        "says": "The light comes from the bulb."
       },
       {
@@ -1619,7 +1619,7 @@
        "says": "The light comes from the power station."
       },
       {
-       "who": "Kabir, aged 7",
+       "who": "The second child, aged 7",
        "says": "The light comes from the river at the dam."
       }
      ],

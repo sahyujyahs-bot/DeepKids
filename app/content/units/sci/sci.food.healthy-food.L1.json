@@ -1279,20 +1279,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meena, a girl of 6 in Kochi, has just eaten two small pieces of watermelon. It is a hot afternoon. Her grandmother is with her.",
+     "p": "The first person, a girl of 6 in Kochi, has just eaten two small pieces of watermelon. It is a hot afternoon. Her grandmother is with her.",
      "views": [
       {
-       "who": "Meena",
+       "who": "The first person",
        "says": "I don't need a drink of water now. The watermelon was full of water."
       },
       {
-       "who": "Meena's grandmother",
+       "who": "The first person's grandmother",
        "says": "The watermelon helped. But on a hot day you still need a proper drink of water."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For example: 'Grandmother, because a hot day takes a lot of water out of you.' Then it is fair to the other side: Meena is right that the watermelon gave her water.",
+     "a": "A strong answer picks a side with a reason. For example: 'Grandmother, because a hot day takes a lot of water out of you.' Then it is fair to the other side: The first person is right that the watermelon gave her water.",
      "why": "Both are partly right. Watermelon really does give water. But a few pieces of fruit may not put back all the water lost on a hot day, and thirst tells you when you need more."
     },
     {
@@ -1364,10 +1364,10 @@
     },
     {
      "t": "perspective",
-     "p": "Two sisters in Bhubaneswar, Lipi aged 7 and Rina aged 5, are at dinner. There is karela on the table.",
+     "p": "Two sisters in Bhubaneswar, Lipi aged 7 and the first person aged 5, are at dinner. There is karela on the table.",
      "views": [
       {
-       "who": "Rina",
+       "who": "The first person",
        "says": "I will never like karela. It is too bitter."
       },
       {
@@ -1377,7 +1377,7 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For example: 'Lipi, because tasting many times helps people like a food.' Then it is fair to the other side: Rina is right that karela is very bitter, and some people never like it.",
+     "a": "A strong answer picks a side with a reason. For example: 'Lipi, because tasting many times helps people like a food.' Then it is fair to the other side: The first person is right that karela is very bitter, and some people never like it.",
      "why": "Scientists found that many children come to like a food after tasting it many times. But tongues differ, and some people keep disliking a food. Both views have some truth."
     },
     {

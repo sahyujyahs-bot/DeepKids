@@ -1238,21 +1238,21 @@
      "p": "Three girls in a Class 3 group are arguing about which organ is the boss of the body.",
      "views": [
       {
-       "who": "Nandini",
+       "who": "The first person",
        "says": "The brain is the boss. It sends messages that tell the heart and lungs how fast to work."
       },
       {
-       "who": "Revathi",
+       "who": "The second person",
        "says": "The heart is the boss. Without its blood, the brain stops working in a few minutes."
       },
       {
-       "who": "Mitali",
+       "who": "The third person",
        "says": "There is no boss. The organs are a team, and each one needs the others."
       }
      ],
      "ask": "Pick one girl. Give one piece of evidence from this unit for her side. Then say what one of the other girls would answer back.",
      "lines": 5,
-     "a": "A strong answer picks a side and backs it with a real fact. For Nandini: the brain speeds up the heart when you run or are scared. For Revathi: the brain dies within minutes without blood, and the heart starts its own beat. For Mitali: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.",
+     "a": "A strong answer picks a side and backs it with a real fact. For the first person: the brain speeds up the heart when you run or are scared. For the second person: the brain dies within minutes without blood, and the heart starts its own beat. For the third person: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.",
      "why": "Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence."
     },
     {

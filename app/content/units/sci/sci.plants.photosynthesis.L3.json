@@ -1156,25 +1156,25 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, a girl aged 9, and her family in Chennai argue about keeping potted plants in the bedroom at night.",
+     "p": "The first child, a girl aged 9, and her family in Chennai argue about keeping potted plants in the bedroom at night.",
      "views": [
       {
-       "who": "Paati, Kavya's grandmother",
+       "who": "Paati, the first child's grandmother",
        "says": "Take the plants out at night. They breathe out carbon dioxide in the dark and steal our oxygen."
       },
       {
-       "who": "Kavya, aged 9",
+       "who": "The first child, aged 9",
        "says": "Keep lots of plants. Plants give us oxygen, so they make the bedroom healthier."
       },
       {
-       "who": "Amma, Kavya's mother",
+       "who": "Amma, the first child's mother",
        "says": "One plant is enough. Plants make the room calm and pretty, but water left in their saucers breeds mosquitoes."
       }
      ],
      "ask": "How many plants would you keep in the bedroom? Use what you learned about what plants do in the light and in the dark. Then say one fair point from someone you disagree with.",
      "lines": 5,
-     "a": "Any choice can be strong. A strong answer uses the science, for example: in the dark a plant only respires, but a few pots use far less oxygen than one sleeping person, so Paati's worry is very small. In the day they give out oxygen, but too little to change a room much, so Kavya's reason is small too. Then it is fair to another side, for example: Amma is right that mosquitoes are a real problem.",
-     "why": "Paati is right that plants give out carbon dioxide at night. Kavya is right that they give out oxygen in the day. The amounts in a bedroom are small either way, so other things, like mosquitoes or how the plants make you feel, can decide it. There is no single right answer."
+     "a": "Any choice can be strong. A strong answer uses the science, for example: in the dark a plant only respires, but a few pots use far less oxygen than one sleeping person, so Paati's worry is very small. In the day they give out oxygen, but too little to change a room much, so the first child's reason is small too. Then it is fair to another side, for example: Amma is right that mosquitoes are a real problem.",
+     "why": "Paati is right that plants give out carbon dioxide at night. The first child is right that they give out oxygen in the day. The amounts in a bedroom are small either way, so other things, like mosquitoes or how the plants make you feel, can decide it. There is no single right answer."
     },
     {
      "t": "truefalse",
@@ -1377,7 +1377,7 @@
      "p": "Where does the oxygen we breathe come from? Three people answer differently.",
      "views": [
       {
-       "who": "Meena, aged 9",
+       "who": "The first child, aged 9",
        "says": "From forests like the Amazon. That is why people call them the lungs of the Earth."
       },
       {
@@ -1391,7 +1391,7 @@
      ],
      "ask": "Whose answer do you think is most useful? Give a reason. Then say what one of the others gets right.",
      "lines": 6,
-     "a": "A strong answer picks one and gives evidence, for example: Dr Shalini, because half of photosynthesis is in the sea, which most people forget. Then it is fair to another, for example: Meena is right that forests make a lot of oxygen, and Selvi is right that they also use it.",
+     "a": "A strong answer picks one and gives evidence, for example: Dr Shalini, because half of photosynthesis is in the sea, which most people forget. Then it is fair to another, for example: The first child is right that forests make a lot of oxygen, and Selvi is right that they also use it.",
      "why": "This is a real argument. In 2019 many news stories called the Amazon the lungs of the world. Scientists pointed out that a mature forest uses up almost all the oxygen it makes. Each view has some truth."
     },
     {

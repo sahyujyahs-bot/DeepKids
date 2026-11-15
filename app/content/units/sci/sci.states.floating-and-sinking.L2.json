@@ -1435,20 +1435,20 @@
     },
     {
      "t": "perspective",
-     "p": "Sneha, aged 8, and her friend Bornali, aged 7, see a big wooden log floating in a river.",
+     "p": "The first child, aged 8, and her friend the second child, aged 7, see a big wooden log floating in a river.",
      "views": [
       {
-       "who": "Sneha",
+       "who": "The first child",
        "says": "The log floats because it is big and wide. A small piece of the same wood would sink."
       },
       {
-       "who": "Bornali",
+       "who": "The second child",
        "says": "The log floats because it is made of wood. A small piece of the same wood would float too."
       }
      ],
      "ask": "Who do you agree with? Use something from the bucket test as evidence. Then say one thing the other girl noticed that is worth checking.",
      "lines": 3,
-     "a": "A strong answer agrees with Bornali and gives evidence: the tiny matchstick floated like the big rolling pin, and the tiny potato piece sank like the whole potato. It also says Sneha is right that shape can matter for some things, like a steel bowl, which is worth testing.",
+     "a": "A strong answer agrees with the second child and gives evidence: the tiny matchstick floated like the big rolling pin, and the tiny potato piece sank like the whole potato. It also says the first child is right that shape can matter for some things, like a steel bowl, which is worth testing.",
      "why": "Both girls give a reason. The bucket test showed that for a solid lump, the material decides, not the size. Shape and air inside can matter for hollow things, which the Class 4 unit tests."
     },
     {

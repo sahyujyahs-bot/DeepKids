@@ -1636,17 +1636,17 @@
      "p": "Two children look at a photo of the Milky Way. They disagree about what it is.",
      "views": [
       {
-       "who": "Lakshmi, aged 8",
+       "who": "The first child, aged 8",
        "says": "The Milky Way is one thing. It has one name, and gravity holds it together."
       },
       {
-       "who": "Farhan, aged 8",
+       "who": "The second child, aged 8",
        "says": "The Milky Way is billions of things. It is just stars that happen to be together."
       }
      ],
      "ask": "Who do you agree with more? Give a reason from the Pinhole Galaxy experiment or from this unit. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For Lakshmi: the stars all go round one centre together, held by gravity, so the galaxy acts as one. For Farhan: up close, the pinhole glow was many separate lights. Then it gives the other side its due.",
+     "a": "A strong answer picks a side with evidence. For the first child: the stars all go round one centre together, held by gravity, so the galaxy acts as one. For the second child: up close, the pinhole glow was many separate lights. Then it gives the other side its due.",
      "why": "Both are partly right. A galaxy is many stars, and it is also one system moving together. A strong answer uses evidence for both."
     }
    ]

@@ -1427,24 +1427,24 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, aged 7, lives in Kochi. A thin-legged spider has made a web in the corner of her bathroom.",
+     "p": "The first child, aged 7, lives in Kochi. A thin-legged spider has made a web in the corner of her bathroom.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first child",
        "says": "The spider is scary. Let's sweep the web away."
       },
       {
-       "who": "Kavya's mother",
+       "who": "The first child's mother",
        "says": "Leave her there. She catches mosquitoes for us."
       },
       {
-       "who": "Kavya's aunt",
+       "who": "The first child's aunt",
        "says": "Gently move the spider outside on a piece of paper. Then nobody is scared, and she can still catch insects."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing another person has right. Say it out loud, or a grown-up can write it for you.",
      "lines": 4,
-     "a": "A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. Kavya is right that her feelings matter. The aunt finds a way that helps both Kavya and the spider.",
+     "a": "A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. The first child is right that her feelings matter. The aunt finds a way that helps both the first child and the spider.",
      "why": "Common house spiders are not dangerous and they catch insects. Moving a spider gently, or leaving her, both avoid harming her."
     },
     {
@@ -1586,24 +1586,24 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Lakshmi lives in a flat in Mysuru. A line of ants walks from a crack in the kitchen wall to the sugar tin.",
+     "p": "The first person lives in a flat in Mysuru. A line of ants walks from a crack in the kitchen wall to the sugar tin.",
      "views": [
       {
-       "who": "Lakshmi's grandmother",
+       "who": "The first person's grandmother",
        "says": "Draw a chalk line round the tin, or spray the ants. They are in our food."
       },
       {
-       "who": "Lakshmi",
+       "who": "The first person",
        "says": "The ants are only taking crumbs home to their sisters. Let them be."
       },
       {
-       "who": "Lakshmi's mother",
+       "who": "The first person's mother",
        "says": "Close the sugar tin tightly and wipe up the crumbs. The ants will stop coming, and nobody gets hurt."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say what one other person has right. Say it out loud, or a grown-up can write it for you.",
      "lines": 4,
-     "a": "A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. Lakshmi is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.",
+     "a": "A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. The first person is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.",
      "why": "Ants come where they find food. Closing tins and wiping crumbs works well, and is kinder than spray. Some chalks sold for ants have poison in them, so they must be kept away from children."
     },
     {

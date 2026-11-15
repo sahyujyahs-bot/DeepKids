@@ -2574,22 +2574,22 @@
      "p": "Three friends argue about hot and heat.",
      "views": [
       {
-       "who": "Kavya, aged 9",
+       "who": "The first child, aged 9",
        "says": "A hotter thing always has more heat, because hot just means a lot of heat."
       },
       {
-       "who": "Farhan, aged 10",
+       "who": "The second child, aged 10",
        "says": "A bucket of warm water has more heat than a cup of hot tea. So the amount matters as well as the temperature."
       },
       {
-       "who": "Meenakshi, aged 8",
+       "who": "The third child, aged 8",
        "says": "Heat and temperature are two words for the same thing."
       }
      ],
      "ask": "Which idea do you agree with most? Use something from this unit as evidence. Then say what another friend has right.",
      "lines": 6,
-     "a": "A strong answer usually agrees with Farhan: the Katori and the Bowl test showed that a cooler bowl can melt more ice. It admits that Kavya has a point, since between two equal amounts of the same thing, the hotter one does hold more heat. It explains that heat and temperature are different, which Meenakshi's idea misses.",
-     "why": "There is a real argument here. Scientists once agreed with Kavya and Meenakshi, until Joseph Black showed that temperature and the amount of heat are different. A strong answer uses evidence and is fair to the other friends.",
+     "a": "A strong answer usually agrees with the second child: the Katori and the Bowl test showed that a cooler bowl can melt more ice. It admits that the first child has a point, since between two equal amounts of the same thing, the hotter one does hold more heat. It explains that heat and temperature are different, which the third child's idea misses.",
+     "why": "There is a real argument here. Scientists once agreed with the first child and the third child, until Joseph Black showed that temperature and the amount of heat are different. A strong answer uses evidence and is fair to the other friends.",
      "outcome": 0
     },
     {

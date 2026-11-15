@@ -2787,14 +2787,14 @@
     },
     {
      "t": "perspective",
-     "p": "Your body keeps replacing many of its cells. Your red blood cells last only about four months. Lakshmi, aged 10, her brother Vikram, aged 8, and their grandmother talk about it.",
+     "p": "Your body keeps replacing many of its cells. Your red blood cells last only about four months. The first child, aged 10, her brother the second child, aged 8, and their grandmother talk about it.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first child",
        "says": "I am the same person as last year. I have the same name, the same memories and the same face."
       },
       {
-       "who": "Vikram",
+       "who": "The second child",
        "says": "I am not the same. Many of my cells are new, so I am made of different stuff now."
       },
       {

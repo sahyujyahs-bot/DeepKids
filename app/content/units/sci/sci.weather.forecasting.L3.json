@@ -2209,18 +2209,18 @@
      "p": "Two sisters in Madurai are planning tomorrow.",
      "views": [
       {
-       "who": "Asha, aged 10",
+       "who": "The first child, aged 10",
        "says": "Today was sunny, so tomorrow will be sunny. That's what usually happens."
       },
       {
-       "who": "Bhavana, aged 8",
+       "who": "The second child, aged 8",
        "says": "Look at those thin streaks getting thicker. I think rain is coming."
       }
      ],
      "ask": "Which sister do you agree with? Give a reason. Then say one thing the other sister has right.",
      "lines": 5,
      "how": "e1",
-     "a": "A strong answer picks a side and gives a reason. It sees that Asha is right on most ordinary days, because the weather often stays the same, and that Bhavana's way can catch the days when the weather changes. A very strong answer suggests using both.",
+     "a": "A strong answer picks a side and gives a reason. It sees that the first child is right on most ordinary days, because the weather often stays the same, and that the second child's way can catch the days when the weather changes. A very strong answer suggests using both.",
      "why": "Both sisters are partly right. 'Same as today' wins on settled days and loses when the weather changes."
     },
     {

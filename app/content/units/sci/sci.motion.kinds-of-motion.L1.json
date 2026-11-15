@@ -1502,20 +1502,20 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Anjali and her brother Rohan look at a round steel plate.",
+     "p": "The second child and her brother the first child look at a round steel plate.",
      "views": [
       {
-       "who": "Rohan, aged 6",
+       "who": "The first child, aged 6",
        "says": "A plate can only slide. That is how plates move."
       },
       {
-       "who": "Anjali, aged 7",
+       "who": "The second child, aged 7",
        "says": "A plate can slide, spin or roll. It depends how you push it."
       }
      ],
      "ask": "Who do you agree with? Try it with a plate, then say why. Then say one thing the other person might say back.",
-     "a": "Anjali. A plate slides when pushed flat, spins when twisted, and rolls when stood on its edge.",
-     "why": "A strong answer uses a test with a real plate. It also says why Rohan thought so: we usually only see plates slide on a table."
+     "a": "The second child. A plate slides when pushed flat, spins when twisted, and rolls when stood on its edge.",
+     "why": "A strong answer uses a test with a real plate. It also says why the first child thought so: we usually only see plates slide on a table."
     },
     {
      "t": "draw",
@@ -1612,23 +1612,23 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Lakshmi, Kavya and their friend Arjun watch an auto go by.",
+     "p": "The first child, the second child and their friend the third child watch an auto go by.",
      "views": [
       {
-       "who": "Lakshmi, aged 8",
+       "who": "The first child, aged 8",
        "says": "The wheels roll along the road."
       },
       {
-       "who": "Kavya, aged 7",
+       "who": "The second child, aged 7",
        "says": "No, each wheel spins round its middle."
       },
       {
-       "who": "Arjun, aged 7",
+       "who": "The third child, aged 7",
        "says": "The whole auto slides along the road."
       }
      ],
      "ask": "Who is right? Can two of them be right at once? Say why.",
-     "a": "Lakshmi and Kavya are both right. Each wheel spins round its middle while it rolls along the road. The auto does not slide, unless it skids.",
+     "a": "The first child and the second child are both right. Each wheel spins round its middle while it rolls along the road. The auto does not slide, unless it skids.",
      "why": "A strong answer sees that one wheel can roll and spin at the same time, and that rolling is not sliding."
     },
     {

@@ -2143,7 +2143,7 @@
      "p": "Two sisters in Kochi are planning the apple test. They disagree about when to look.",
      "views": [
       {
-       "who": "Aleena, aged 9",
+       "who": "The first child, aged 9",
        "says": "Let's look only at the start and after one hour. That's enough to see which slice went brown."
       },
       {
@@ -2153,7 +2153,7 @@
      ],
      "ask": "Which sister do you agree with? Give a reason. Then say one good thing about the other sister's plan.",
      "lines": 5,
-     "a": "A strong answer sees that Aleena's plan is quicker and does show which slice ended up browner. Mini's plan also shows when and how fast each slice changed, which two looks can't show.",
+     "a": "A strong answer sees that the first child's plan is quicker and does show which slice ended up browner. Mini's plan also shows when and how fast each slice changed, which two looks can't show.",
      "why": "Both plans answer a question, but not the same question. A strong answer says what each plan can and can't tell you, and chooses the one that fits the question asked."
     },
     {
@@ -2299,11 +2299,11 @@
      "p": "Two friends in Mysuru are keeping records of a banana ripening. They argue about the best record.",
      "views": [
       {
-       "who": "Priya, aged 9",
+       "who": "The first child, aged 9",
        "says": "A drawing is best. When you draw, you have to look closely, so you notice more."
       },
       {
-       "who": "Ravi, aged 8",
+       "who": "The second child, aged 8",
        "says": "A photo is best. It shows exactly what was there, and you can't get it wrong."
       }
      ],

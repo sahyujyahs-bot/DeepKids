@@ -2158,14 +2158,14 @@
     },
     {
      "t": "perspective",
-     "p": "Divya and her brother Karthik touch the steel railing and the wooden door on their balcony in the morning.",
+     "p": "The second person and her brother the first person touch the steel railing and the wooden door on their balcony in the morning.",
      "views": [
       {
-       "who": "Karthik",
+       "who": "The first person",
        "says": "The railing is colder than the door. I can feel it."
       },
       {
-       "who": "Divya",
+       "who": "The second person",
        "says": "They are the same temperature. The railing just takes heat from your hand faster."
       }
      ],

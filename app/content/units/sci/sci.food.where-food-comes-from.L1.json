@@ -1425,14 +1425,14 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, aged 7, and her brother Arun, aged 5, live in Chennai. They are eating honey on dosa.",
+     "p": "The first child, aged 7, and her brother the second child, aged 5, live in Chennai. They are eating honey on dosa.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first child",
        "says": "Honey is food from an animal, because bees make honey."
       },
       {
-       "who": "Arun",
+       "who": "The second child",
        "says": "Honey is food from a plant, because honey comes from flowers."
       }
      ],
@@ -1561,14 +1561,14 @@
     },
     {
      "t": "perspective",
-     "p": "Meera keeps honey bees in wooden boxes in Kodagu. Her friend Salma does not eat honey.",
+     "p": "Meera keeps honey bees in wooden boxes in Kodagu. Her friend the first person does not eat honey.",
      "views": [
       {
        "who": "Meera, a beekeeper",
        "says": "I take some honey and leave plenty for the bees. My bees also visit the coffee flowers, and that helps the coffee plants make more fruit."
       },
       {
-       "who": "Salma",
+       "who": "The first person",
        "says": "The bees made the honey for their own hive. I would rather leave all of it for them."
       }
      ],

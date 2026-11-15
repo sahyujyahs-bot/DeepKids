@@ -1377,20 +1377,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi pushes the first domino in a line. She and her brother Arjun watch the last domino fall.",
+     "p": "The first person pushes the first domino in a line. She and her brother the second person watch the last domino fall.",
      "views": [
       {
-       "who": "Meenakshi",
+       "who": "The first person",
        "says": "My finger knocked down the last domino, because I started the push."
       },
       {
-       "who": "Arjun",
+       "who": "The second person",
        "says": "The domino next to it knocked it down. Your finger never touched it."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, then sees the other side. For example: Arjun is right that the ninth domino hit the last one. Meenakshi is right that without her push, nothing would have fallen.",
+     "a": "A strong answer picks a side and gives a reason, then sees the other side. For example: The second person is right that the ninth domino hit the last one. The first person is right that without her push, nothing would have fallen.",
      "why": "Both are partly right. The last domino's nearest cause was its neighbour. But the push started with the finger. Every link in a chain is a cause.",
      "context": "This question is about the domino gap test. You stood ten dominoes in a line, pushed the first one, and counted how many fell with three different gaps.",
      "how": "e1"
@@ -1459,20 +1459,20 @@
     },
     {
      "t": "perspective",
-     "p": "In the story, Meenu made a new friend after her school van was late because a coconut fell on the road. Her cousins Revathi and Joel talk about it.",
+     "p": "In the story, Meenu made a new friend after her school van was late because a coconut fell on the road. Her cousins the first person and the second person talk about it.",
      "views": [
       {
-       "who": "Revathi",
+       "who": "The first person",
        "says": "The coconut caused the friendship. Without it, the van would not have been late."
       },
       {
-       "who": "Joel",
+       "who": "The second person",
        "says": "Meenu caused it. She chose to talk to the new girl at the gate."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason and sees the other side. For example: Joel is right that Meenu chose to speak. Revathi is right that Meenu would not have been there without the coconut.",
+     "a": "A strong answer picks a side with a reason and sees the other side. For example: The second person is right that Meenu chose to speak. The first person is right that Meenu would not have been there without the coconut.",
      "why": "Both are real causes. A happening usually has many causes, some that just happen and some that people choose."
     },
     {
@@ -1537,10 +1537,10 @@
     },
     {
      "t": "perspective",
-     "p": "Nila and her grandmother watch a line of dominoes fall.",
+     "p": "The first person and her grandmother watch a line of dominoes fall.",
      "views": [
       {
-       "who": "Nila",
+       "who": "The first person",
        "says": "I saw each domino push the next one. I saw the cause."
       },
       {
@@ -1550,7 +1550,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For example: Nila is right that the dominoes touched and pushed. Her grandmother is right that what our eyes see is one movement after another.",
+     "a": "A strong answer picks a side and gives a reason. For example: The first person is right that the dominoes touched and pushed. Her grandmother is right that what our eyes see is one movement after another.",
      "why": "This is a real question that thinkers have argued about. The Scottish thinker David Hume said, in 1748, that we never see a cause itself, only one thing following another."
     },
     {

@@ -2215,20 +2215,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Guwahati, Bornali and Farhan, heard about Comet NEOWISE in July 2020.",
+     "p": "Two friends in Guwahati, the first child and the second child, heard about Comet NEOWISE in July 2020.",
      "views": [
       {
-       "who": "Bornali, aged 9",
+       "who": "The first child, aged 9",
        "says": "A comet is a lucky sign. People should make wishes when one comes."
       },
       {
-       "who": "Farhan, aged 9",
+       "who": "The second child, aged 9",
        "says": "A comet is just a lump of ice and dust that comes near the Sun on its path. It can't bring luck."
       }
      ],
      "ask": "Which friend do you agree with? Give a reason. Then say one thing the other friend has a point about.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence, such as comets returning on paths we can work out. It also says what the other friend has right. Bornali is right that seeing a comet is special and makes people happy, as it did for Paati in the story Seven Shooting Stars over Madurai. Farhan is right about what a comet is made of.",
+     "a": "A strong answer picks a side with evidence, such as comets returning on paths we can work out. It also says what the other friend has right. The first child is right that seeing a comet is special and makes people happy, as it did for Paati in the story Seven Shooting Stars over Madurai. The second child is right about what a comet is made of.",
      "why": "People have felt strongly about comets for thousands of years. Science tells us what a comet is, while how people feel about seeing one is their own."
     },
     {
@@ -2469,13 +2469,13 @@
        "says": "Phaethon behaves like a comet, because it sheds dust near the Sun and makes a meteor shower."
       },
       {
-       "who": "Ishita, aged 9",
+       "who": "The first child, aged 9",
        "says": "Maybe Phaethon is an old comet that has lost all its ice."
       }
      ],
      "ask": "Which person do you agree with most? Give a reason. Then say what the others have right.",
      "lines": 6,
-     "a": "A strong answer uses evidence about what Phaethon is made of and what it does. Tanvi is right that it is rocky. Gargi is right that it acts a bit like a comet. Ishita's idea is one that some scientists also take seriously. It shows that some things in nature do not fit neatly under one name.",
+     "a": "A strong answer uses evidence about what Phaethon is made of and what it does. Tanvi is right that it is rocky. Gargi is right that it acts a bit like a comet. The first child's idea is one that some scientists also take seriously. It shows that some things in nature do not fit neatly under one name.",
      "why": "Phaethon really is hard to name. 'Asteroid' and 'comet' are names people made up, and some objects sit between them."
     },
     {

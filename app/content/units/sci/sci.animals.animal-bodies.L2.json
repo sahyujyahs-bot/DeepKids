@@ -1741,14 +1741,14 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Meenakshi and her friend Farhan live in Madurai. They are looking at pictures of a cow's teeth and a tiger's teeth.",
+     "p": "The first child and her friend the second child live in Madurai. They are looking at pictures of a cow's teeth and a tiger's teeth.",
      "views": [
       {
-       "who": "Meenakshi, aged 7",
+       "who": "The first child, aged 7",
        "says": "The tiger's teeth are better. They are long and sharp, and they can tear anything."
       },
       {
-       "who": "Farhan, aged 7",
+       "who": "The second child, aged 7",
        "says": "The cow's teeth are better. A cow can eat grass all day, and grass is everywhere."
       }
      ],
@@ -1893,14 +1893,14 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Lakshmi and her brother Arjun live in Mysuru. They are talking about legs.",
+     "p": "The first child and her brother the second child live in Mysuru. They are talking about legs.",
      "views": [
       {
-       "who": "Lakshmi, aged 8",
+       "who": "The first child, aged 8",
        "says": "Having no legs is better. A snake can go into tiny holes and swim, and she never trips."
       },
       {
-       "who": "Arjun, aged 6",
+       "who": "The second child, aged 6",
        "says": "Having legs is better. With legs you can run fast and jump over things."
       }
      ],

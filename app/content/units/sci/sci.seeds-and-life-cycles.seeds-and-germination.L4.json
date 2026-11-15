@@ -1056,21 +1056,21 @@
      "p": "You are counting seeds on a plate. After four days, three seeds still have no root. Three friends give you advice.",
      "views": [
       {
-       "who": "Nisha",
+       "who": "The first person",
        "says": "They are dead. Throw them away and write down that 27 out of 30 woke."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "Wait two more days, because a late seed is often only slow."
       },
       {
-       "who": "Lakshmi",
+       "who": "The third person",
        "says": "Press each one with a nail. A seed that is firm and plump may still be alive."
       }
      ],
      "ask": "Which advice would you follow? Give a reason from what you know about seeds. Then say one thing that another friend gets right.",
      "lines": 5,
-     "a": "A strong answer uses the idea that seeds in one batch wake at different times. Farhan's advice fits that idea best: seeds can be late. Lakshmi's test is a useful check that does not wait. Nisha is right that some seeds really are dead, but she cannot know that yet. A strong answer picks one and gives the others their due.",
+     "a": "A strong answer uses the idea that seeds in one batch wake at different times. The second person's advice fits that idea best: seeds can be late. The third person's test is a useful check that does not wait. The first person is right that some seeds really are dead, but she cannot know that yet. A strong answer picks one and gives the others their due.",
      "why": "Seeds that wake late are common, and a firm, plump seed may still be alive. But some seeds really are dead. The best plan combines waiting with a check.",
      "outcome": 1
     },
@@ -1266,7 +1266,7 @@
      "p": "A family wants to keep chana seeds for sowing next year. Three neighbours give advice about storage.",
      "views": [
       {
-       "who": "Selvi",
+       "who": "The first person",
        "says": "Dry the seeds in hot sun for a week, then keep them in an open basket."
       },
       {
@@ -1280,7 +1280,7 @@
      ],
      "ask": "Which plan would you choose? Give a reason from what you know about seeds. Then say one thing that another plan gets right.",
      "lines": 5,
-     "a": "A strong answer picks Rao Uncle's plan. Seeds live longest when they are dry and cool, so shade drying and a closed jar in a cool place is best. Selvi is right that seeds must be dry, but hot sun and an open basket can overheat the seeds and let in damp air. Mehra Aunty's cold is good, but damp is bad: a damp bag would wake or rot the seeds. A strong answer gives each plan its due.",
+     "a": "A strong answer picks Rao Uncle's plan. Seeds live longest when they are dry and cool, so shade drying and a closed jar in a cool place is best. The first person is right that seeds must be dry, but hot sun and an open basket can overheat the seeds and let in damp air. Mehra Aunty's cold is good, but damp is bad: a damp bag would wake or rot the seeds. A strong answer gives each plan its due.",
      "why": "Dry and cold slow the ageing of a seed. Heat and damp speed it up. A closed jar keeps out damp air.",
      "outcome": 6
     },

@@ -2742,21 +2742,21 @@
      "p": "Three people in Chennai argue about what makes a bag 'heavy'.",
      "views": [
       {
-       "who": "Kavya, aged 9",
+       "who": "The first child, aged 9",
        "says": "A bag is heavy because it has a lot of stuff in it. That is why we count kilograms."
       },
       {
-       "who": "Farhan, aged 10",
+       "who": "The second child, aged 10",
        "says": "A bag is heavy because the Earth pulls it hard. On the Moon, the same bag would be light."
       },
       {
-       "who": "Paati, Kavya's grandmother",
+       "who": "Paati, the first child's grandmother",
        "says": "A bag is heavy when it is hard to hold up. It feels lighter in the river and heavier when the lift starts up."
       }
      ],
      "ask": "Whose meaning of heavy would you use at a shop, and whose on a trip to the Moon? Pick the one you think matters most, and give a reason. Then say one fair point from another person.",
      "lines": 5,
-     "a": "A strong answer sees that each person means something different: Kavya means mass, Farhan means weight, and Paati means the weight you feel. It picks one with a reason, for example that mass never changes, so a shop can count on it. It then admits a real point from another side.",
+     "a": "A strong answer sees that each person means something different: The first child means mass, the second child means weight, and Paati means the weight you feel. It picks one with a reason, for example that mass never changes, so a shop can count on it. It then admits a real point from another side.",
      "why": "All three are real meanings. Scientists keep them apart with three names: mass, weight, and the support force that you feel."
     }
    ]

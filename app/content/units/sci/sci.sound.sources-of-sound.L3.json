@@ -1068,20 +1068,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her cousin Arjun are arguing about whispers.",
+     "p": "The first child and her cousin the second child are arguing about whispers.",
      "views": [
       {
-       "who": "Kavya, aged 9",
+       "who": "The first child, aged 9",
        "says": "A whisper is not really a sound made by vibrating, because my vocal folds do not buzz when I whisper."
       },
       {
-       "who": "Arjun, aged 8",
+       "who": "The second child, aged 8",
        "says": "A whisper must come from something vibrating, because I can hear it, and every sound is a vibration."
       }
      ],
      "ask": "Who do you agree with more? Give your evidence. You could use the throat test: hum, then whisper, with your fingers on your throat. Then say what the other person has right.",
      "lines": 5,
-     "a": "A strong answer sees that both have a point. Kavya is right that the vocal folds do not vibrate in a whisper: the throat test shows no buzz. Arjun is right that something still vibrates: the air itself, rushing through the narrow gaps between the tongue, teeth and lips, shakes back and forth. A strong answer uses the throat test as evidence and then gives the other side its due.",
+     "a": "A strong answer sees that both have a point. The first child is right that the vocal folds do not vibrate in a whisper: the throat test shows no buzz. The second child is right that something still vibrates: the air itself, rushing through the narrow gaps between the tongue, teeth and lips, shakes back and forth. A strong answer uses the throat test as evidence and then gives the other side its due.",
      "why": "A whisper is air rushing through a narrow gap, which makes the air itself shake. So every sound is still a vibration, but the thing vibrating can be the air, not the vocal folds."
     },
     {
@@ -1307,21 +1307,21 @@
      "p": "A big tree falls in an empty forest. No people are there, and no animals are close enough to hear.",
      "views": [
       {
-       "who": "Ishwarya, aged 10",
+       "who": "The first child, aged 10",
        "says": "The falling tree makes a sound, because the air vibrates whether anyone hears it or not."
       },
       {
-       "who": "Mohan, aged 9",
+       "who": "The second child, aged 9",
        "says": "There is no sound, because a sound is what an ear hears. With no ear, there is only moving air."
       },
       {
-       "who": "Zainab, aged 10",
+       "who": "The third child, aged 10",
        "says": "You are both right. You are using the word 'sound' to mean two different things."
       }
      ],
      "ask": "Which view do you agree with most? Explain using what you know about vibrations and ears. Then answer back from one of the other views.",
      "lines": 5,
-     "a": "A strong answer says what 'sound' means in its own argument. If sound is the vibration in the air, the falling tree makes one, with or without a listener. If sound is what is heard, an ear is needed. A strong answer notices that Zainab has spotted why the argument never ends, and adds that a real forest is rarely empty: birds, insects and deer are nearly always near.",
+     "a": "A strong answer says what 'sound' means in its own argument. If sound is the vibration in the air, the falling tree makes one, with or without a listener. If sound is what is heard, an ear is needed. A strong answer notices that the third child has spotted why the argument never ends, and adds that a real forest is rarely empty: birds, insects and deer are nearly always near.",
      "why": "This is an old puzzle about what a word means. The science is clear: the air vibrates. The disagreement is about whether 'sound' means the vibration or the hearing."
     },
     {

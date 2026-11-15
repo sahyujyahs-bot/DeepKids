@@ -2194,17 +2194,17 @@
      "p": "Two friends in Kochi talk about a loaded cart and an empty cart rolling down the same smooth ramp.",
      "views": [
       {
-       "who": "Lakshmi, aged 9",
+       "who": "The first child, aged 9",
        "says": "The loaded cart will be slower. It is heavier, so it is harder to get moving."
       },
       {
-       "who": "Farhan, aged 10",
+       "who": "The second child, aged 10",
        "says": "They will arrive together. The ramp pulls the heavier cart harder, so it makes up for the extra mass."
       }
      ],
      "ask": "Which friend do you agree with? Use what you saw in the Ramp Surprise experiment. Then say what the other friend has noticed that is true.",
      "lines": 5,
-     "a": "A strong answer agrees with Farhan, using evidence: in the ramp test the loaded cart took about the same time as the empty cart. It is fair to Lakshmi: on a table, pulled by the same bag, the heavier cart is slower, so heavy things are harder to get moving. On the ramp, the pull itself grows with the weight.",
+     "a": "A strong answer agrees with the second child, using evidence: in the ramp test the loaded cart took about the same time as the empty cart. It is fair to the first child: on a table, pulled by the same bag, the heavier cart is slower, so heavy things are harder to get moving. On the ramp, the pull itself grows with the weight.",
      "why": "Both friends have noticed something real. Only a test that changes the load on a ramp can tell the difference between the pull staying the same and the pull growing with the mass.",
      "outcome": 3,
      "how": "e2"
@@ -2377,17 +2377,17 @@
      "p": "Two friends in Madurai talk about what a force is.",
      "views": [
       {
-       "who": "Meenakshi, aged 10",
+       "who": "The first child, aged 10",
        "says": "A force is a real thing. You can feel it when you push a wall."
       },
       {
-       "who": "Aarti, aged 10",
+       "who": "The second child, aged 10",
        "says": "Nobody has ever seen a force. We only see things move, or springs stretch. A force is a name for the reason a motion changes."
       }
      ],
      "ask": "Which friend do you agree with? Use what you know about the cart and the bag. Then say what the other friend has right.",
      "lines": 5,
-     "a": "Either answer is fine if it is backed by evidence. A strong answer agrees with Meenakshi by saying that we feel pushes and pulls with our bodies, and the cart speeds up when the bag pulls. It credits Aarti by saying that what we measure is the cart's change in motion, or a spring's stretch, and a force is how we explain them.",
+     "a": "Either answer is fine if it is backed by evidence. A strong answer agrees with the first child by saying that we feel pushes and pulls with our bodies, and the cart speeds up when the bag pulls. It credits the second child by saying that what we measure is the cart's change in motion, or a spring's stretch, and a force is how we explain them.",
      "why": "Scientists still discuss this. Ernst Mach pointed out in 1883 that the second law can be read as a way of defining force. Both friends have noticed something true.",
      "outcome": 6
     },
@@ -2543,18 +2543,18 @@
      "p": "Two friends in Hyderabad talk about the hammer and feather dropped on the Moon in 1971.",
      "views": [
       {
-       "who": "Anika, aged 9",
+       "who": "The first child, aged 9",
        "says": "They landed together because there is no gravity on the Moon."
       },
       {
-       "who": "Kabir, aged 10",
+       "who": "The second child, aged 10",
        "says": "There is gravity on the Moon. They landed together because there is no air to slow the feather."
       }
      ],
      "ask": "Which friend do you agree with? Use what you know about weight, mass and air. Then say what the other friend has noticed that is true.",
      "lines": 5,
-     "a": "A strong answer agrees with Kabir. The Moon has gravity, about one sixth of the Earth's, which is why things fall there. They fell together because nothing pushed up on the feather. It credits Anika for noticing that the Moon is different from the Earth, and that without air things fall differently from what we see at home.",
-     "why": "Anika has mixed up gravity and air. The Moon pulls things down, and the astronauts' hammer fell. Only the lack of air let the feather keep up.",
+     "a": "A strong answer agrees with the second child. The Moon has gravity, about one sixth of the Earth's, which is why things fall there. They fell together because nothing pushed up on the feather. It credits the first child for noticing that the Moon is different from the Earth, and that without air things fall differently from what we see at home.",
+     "why": "The first child has mixed up gravity and air. The Moon pulls things down, and the astronauts' hammer fell. Only the lack of air let the feather keep up.",
      "outcome": 3
     },
     {

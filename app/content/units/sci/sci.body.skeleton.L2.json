@@ -1519,21 +1519,21 @@
      "p": "Three cousins are arguing about which joint is the best.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "The shoulder is best. It moves in a whole circle, so I can throw and swim."
       },
       {
-       "who": "Meena",
+       "who": "The second person",
        "says": "The knee is best. It only bends one way, so it stays steady when I stand and jump."
       },
       {
-       "who": "Ammu",
+       "who": "The third person",
        "says": "There is no best joint. Each one suits its job."
       }
      ],
      "ask": "Talk it over. Who do you agree with? Give one reason. Then say one thing another cousin has right. A grown-up writes down your answer.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. Kavya is right that the shoulder moves the most. Meena is right that a hinge is steady: a shoulder can slip out of its cup more easily than a knee or an elbow. Ammu is right that each joint fits what it does.",
+     "a": "A strong answer picks a side and gives a reason. The first person is right that the shoulder moves the most. The second person is right that a hinge is steady: a shoulder can slip out of its cup more easily than a knee or an elbow. The third person is right that each joint fits what it does.",
      "why": "A ball and socket joint moves more ways, but it is less steady. A hinge moves fewer ways, but it is steadier. Both kinds are useful in different places."
     },
     {
@@ -1634,14 +1634,14 @@
     },
     {
      "t": "perspective",
-     "p": "Revathi, her cousin Anitha and her aunt are talking about whether bones are alive.",
+     "p": "Revathi, her cousin the first person and her aunt are talking about whether bones are alive.",
      "views": [
       {
        "who": "Revathi",
        "says": "Bones are alive. A broken arm mends by itself in a few weeks."
       },
       {
-       "who": "Anitha",
+       "who": "The first person",
        "says": "A skeleton in a museum is bone, and it is not alive. So bone is not alive."
       },
       {
@@ -1651,7 +1651,7 @@
      ],
      "ask": "Talk it over. Who do you agree with? Give one reason. Then say one thing another person has right. A grown-up writes down your answer.",
      "lines": 3,
-     "a": "A strong answer picks one view with a reason. Revathi is right that a living bone mends. Anitha is right that a museum skeleton is no longer alive, because the bone cells have died. The aunt explains both: the hard part is mineral, and the cells inside it are alive.",
+     "a": "A strong answer picks one view with a reason. Revathi is right that a living bone mends. The first person is right that a museum skeleton is no longer alive, because the bone cells have died. The aunt explains both: the hard part is mineral, and the cells inside it are alive.",
      "why": "Bone in a living body is alive, because it has living cells and blood. When an animal dies, the cells die, and the hard mineral part is left."
     },
     {

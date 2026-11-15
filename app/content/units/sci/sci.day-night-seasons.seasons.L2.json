@@ -1719,17 +1719,17 @@
      "p": "Two friends in Hyderabad are choosing a shirt for a hot afternoon walk.",
      "views": [
       {
-       "who": "Divya",
+       "who": "The first person",
        "says": "Wear the white one. It sends back the sunlight, so it stays cooler."
       },
       {
-       "who": "Rukhsana",
+       "who": "The second person",
        "says": "Wear the loose one, whatever its colour. Air moving under it keeps you cool."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other friend has right.",
      "lines": 4,
-     "a": "A strong answer picks a side with evidence. Divya is right that white reflects more light, so ice under a white cloth melts more slowly than under a black one. Rukhsana is right that loose clothes let moving air carry heat away, as scientists found with desert robes.",
+     "a": "A strong answer picks a side with evidence. The first person is right that white reflects more light, so ice under a white cloth melts more slowly than under a black one. The second person is right that loose clothes let moving air carry heat away, as scientists found with desert robes.",
      "why": "Both colour and fit matter. A loose white shirt does both jobs."
     }
    ]
@@ -1827,15 +1827,15 @@
      "p": "Three friends are counting India's seasons.",
      "views": [
       {
-       "who": "Meenakshi",
+       "who": "The first person",
        "says": "Three: summer, monsoon and winter."
       },
       {
-       "who": "Sana",
+       "who": "The second person",
        "says": "Four, like the weather department: winter, summer, the monsoon and after the monsoon."
       },
       {
-       "who": "Arjun",
+       "who": "The third person",
        "says": "Six, like the old Tamil and Sanskrit calendars."
       }
      ],
@@ -1982,13 +1982,13 @@
        "says": "The whole belt of rain near the middle of the Earth moves north in summer, following the Sun."
       },
       {
-       "who": "Rohan",
+       "who": "The first person",
        "says": "In summer the land gets much hotter than the sea, so wet wind blows from the sea onto the land."
       }
      ],
      "ask": "Whose idea do you like better? Give a reason. Then say one thing the other person has right.",
      "lines": 4,
-     "a": "A strong answer picks one and gives a reason. Rohan's idea is old, from 1686, and the land really does get hotter than the sea. Dr Lata's idea is what many scientists say today, and it explains why the rain moves north.",
+     "a": "A strong answer picks one and gives a reason. The first person's idea is old, from 1686, and the land really does get hotter than the sea. Dr Lata's idea is what many scientists say today, and it explains why the rain moves north.",
      "why": "Scientists still argue about how much each idea explains. Both see part of it."
     }
    ]

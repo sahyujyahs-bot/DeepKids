@@ -2106,17 +2106,17 @@
      "p": "Two sisters are giving directions to their building's terrace.",
      "views": [
       {
-       "who": "Anu, aged 10",
+       "who": "The first child, aged 10",
        "says": "Say 'turn left at the stairs'. Everyone understands left and right."
       },
       {
-       "who": "Revathi, aged 8",
+       "who": "The second child, aged 8",
        "says": "Say 'go to the east side of the stairs'. Left changes when you turn round."
       }
      ],
      "ask": "Who do you agree with? Give a reason from this unit. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For Revathi: in the Left-Right or East-West test, 'turn right' worked only from one start, but east worked every time. For Anu: most people do not know which way east is inside a building, and someone walking up the stairs always faces the same way, so 'left' works there.",
+     "a": "A strong answer picks a side with evidence. For the second child: in the Left-Right or East-West test, 'turn right' worked only from one start, but east worked every time. For the first child: most people do not know which way east is inside a building, and someone walking up the stairs always faces the same way, so 'left' works there.",
      "why": "Both sisters have a point. East works for any reader. Left works when everyone arrives facing the same way."
     }
    ]
@@ -2300,7 +2300,7 @@
        "says": "Ask the friend for landmarks: the temple, the big banyan tree, the blue gate. Landmarks never run out of charge."
       },
       {
-       "who": "Ravi, aged 9",
+       "who": "The first child, aged 9",
        "says": "Draw our own map from the friend's directions, so we can look at it any time."
       }
      ],

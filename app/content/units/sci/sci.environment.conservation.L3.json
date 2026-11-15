@@ -1759,17 +1759,17 @@
      "p": "Two sisters in Coimbatore are looking after their grandmother's cows for a week.",
      "views": [
       {
-       "who": "Janani, aged 9",
+       "who": "The first child, aged 9",
        "says": "Grass grows back, so we can keep the cows in the same small field all week."
       },
       {
-       "who": "Nila, aged 7",
+       "who": "The second child, aged 7",
        "says": "We should move them to a new field every two days."
       }
      ],
      "ask": "Which sister do you agree with? Use what you found in the Cutting Test. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer says grass does grow back, as Janani says, but only so fast. If the cows eat a small field faster than it regrows, it turns bare. Moving them gives each field time to grow.",
+     "a": "A strong answer says grass does grow back, as the first child says, but only so fast. If the cows eat a small field faster than it regrows, it turns bare. Moving them gives each field time to grow.",
      "why": "Both have part of it. Grass regrows, and the speed of regrowth decides how long animals can stay."
     },
     {

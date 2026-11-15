@@ -1475,21 +1475,21 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Two children, Kavya and Meena, are arguing about a steel spoon lying flat, with only its bowl in hot water.",
+     "p": "Two children, the first child and the second child, are arguing about a steel spoon lying flat, with only its bowl in hot water.",
      "views": [
       {
-       "who": "Kavya, aged 8",
+       "who": "The first child, aged 8",
        "says": "The handle will stay cold, because heat rises, and this handle is not higher than the water."
       },
       {
-       "who": "Meena, aged 9",
+       "who": "The second child, aged 9",
        "says": "The handle will get warm, because heat goes from hot to cool, whichever way that is."
       }
      ],
-     "ask": "Who do you agree with? Describe a test that could show who is right, such as comparing a spoon lying flat with one standing upright. Then say what Kavya has partly right.",
+     "ask": "Who do you agree with? Describe a test that could show who is right, such as comparing a spoon lying flat with one standing upright. Then say what the first child has partly right.",
      "lines": 5,
-     "a": "Meena is right for a solid spoon: a spoon lying flat warms at about the same speed as one standing upright, because heat goes from hot to cool in any direction. Kavya is partly right that hot air and hot water rise.",
-     "why": "A strong answer describes a fair test, and gives Kavya fair credit for what is true about hot air.",
+     "a": "The second child is right for a solid spoon: a spoon lying flat warms at about the same speed as one standing upright, because heat goes from hot to cool in any direction. The first child is partly right that hot air and hot water rise.",
+     "why": "A strong answer describes a fair test, and gives the first child fair credit for what is true about hot air.",
      "how": "e2"
     },
     {
@@ -1680,7 +1680,7 @@
        "says": "Buy the plain steel one. It costs less and is easier to keep clean."
       },
       {
-       "who": "Divya, aged 10",
+       "who": "The first child, aged 10",
        "says": "Buy the plain steel one, but cook on a lower flame and stir more."
       }
      ],

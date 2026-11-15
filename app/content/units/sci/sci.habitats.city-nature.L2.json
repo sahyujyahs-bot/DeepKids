@@ -1343,17 +1343,17 @@
      "p": "Two friends in Hyderabad see pigeons on their balcony.",
      "views": [
       {
-       "who": "Revathi, aged 8",
+       "who": "The first child, aged 8",
        "says": "Let's put out rice for the pigeons every day. They are hungry."
       },
       {
-       "who": "Farida, aged 7",
+       "who": "The second child, aged 7",
        "says": "Let's only put out a bowl of water. Lots of food will bring huge flocks, and their droppings can make people sick."
       }
      ],
      "ask": "Which friend do you agree with? Why? Then say one thing the other friend has right.",
      "lines": 3,
-     "a": "Either side, with a reason. Revathi is right that birds need food. Farida is right that too much food brings too many pigeons and their droppings can harm lungs.",
+     "a": "Either side, with a reason. The first child is right that birds need food. The second child is right that too much food brings too many pigeons and their droppings can harm lungs.",
      "why": "A strong answer picks a side, gives a reason, and fairly says what the other friend got right."
     },
     {
@@ -1432,10 +1432,10 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and her aunt Mehrunnisa talk about why there are fewer sparrows in their city, Pune.",
+     "p": "The first child and her aunt Mehrunnisa talk about why there are fewer sparrows in their city, Pune.",
      "views": [
       {
-       "who": "Priya, aged 8",
+       "who": "The first child, aged 8",
        "says": "The mobile phone towers drove the sparrows away."
       },
       {
@@ -1446,7 +1446,7 @@
      "ask": "Who do you agree with? What could you look for to check? Then say why someone might think the other way.",
      "lines": 3,
      "a": "Most evidence supports Mehrunnisa, but the full answer is still being studied. A child might suggest counting sparrows near old buildings with holes and near new glass buildings.",
-     "why": "A strong answer names a way to check, such as comparing old and new buildings, and is fair to Priya: sparrows did become fewer as towers spread."
+     "why": "A strong answer names a way to check, such as comparing old and new buildings, and is fair to the first child: sparrows did become fewer as towers spread."
     },
     {
      "t": "draw",

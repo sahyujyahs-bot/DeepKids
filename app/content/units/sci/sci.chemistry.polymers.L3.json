@@ -2006,17 +2006,17 @@
      "p": "Two friends in Chennai are arguing about the borax test.",
      "views": [
       {
-       "who": "Divya, aged 8",
+       "who": "The first child, aged 8",
        "says": "Borax is the slime. The borax turns into slime."
       },
       {
-       "who": "Kavitha, aged 9",
+       "who": "The second child, aged 9",
        "says": "The glue is the slime. Borax only ties it together."
       }
      ],
      "ask": "Which friend do you agree with? Use what you saw in the borax test. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sides mostly with Kavitha: the long chains in slime come from the glue, and the borax was only a few teaspoons. It also gives Divya her due: without borax there is no slime, so borax is part of it.",
+     "a": "A strong answer sides mostly with the second child: the long chains in slime come from the glue, and the borax was only a few teaspoons. It also gives the first child her due: without borax there is no slime, so borax is part of it.",
      "why": "Both have a point. The slime's long molecules are the glue's, but the ties are the borax's. Slime is chains and ties together.",
      "how": "e1"
     },

@@ -1739,14 +1739,14 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and Divya live in Chennai. They are arguing about a fish and a camel.",
+     "p": "The first child and the second child live in Chennai. They are arguing about a fish and a camel.",
      "views": [
       {
-       "who": "Kavya, aged 7",
+       "who": "The first child, aged 7",
        "says": "The camel is better. She can go for days without drinking."
       },
       {
-       "who": "Divya, aged 7",
+       "who": "The second child, aged 7",
        "says": "The fish is better. She never has to look for water at all."
       }
      ],

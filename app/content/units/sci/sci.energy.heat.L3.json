@@ -2052,22 +2052,22 @@
      "p": "Three friends argue about why their hands feel cold after holding a steel tumbler of fridge water.",
      "views": [
       {
-       "who": "Nila, aged 9",
+       "who": "The first child, aged 9",
        "says": "The tumbler is sending cold into my hand."
       },
       {
-       "who": "Meenakshi, aged 10",
+       "who": "The second child, aged 10",
        "says": "My hand is sending heat into the tumbler. My hand feels cold because it is losing heat."
       },
       {
-       "who": "Farhan, aged 8",
+       "who": "The third child, aged 8",
        "says": "It is the same thing. Saying cold goes in or heat goes out are two ways of saying it."
       }
      ],
      "ask": "Which idea do you agree with most? Use something from this unit as evidence. Then say what another friend has right.",
      "lines": 6,
-     "a": "A strong answer usually agrees with Meenakshi: a thermometer shows the hand cooling and the tumbler warming, and Prévost showed that only heat moves. It admits Farhan has a point, since both words describe the same change, but explains that scientists measure the heat, and cold is just less of it.",
-     "why": "There is a real argument here. Farhan's view is not silly, and scientists in the 1790s argued about it. A strong answer gives evidence and is fair to another side."
+     "a": "A strong answer usually agrees with the second child: a thermometer shows the hand cooling and the tumbler warming, and Prévost showed that only heat moves. It admits the third child has a point, since both words describe the same change, but explains that scientists measure the heat, and cold is just less of it.",
+     "why": "There is a real argument here. The third child's view is not silly, and scientists in the 1790s argued about it. A strong answer gives evidence and is fair to another side."
     },
     {
      "t": "mcq",
@@ -2191,13 +2191,13 @@
        "says": "Open everything and let the breeze in. Moving air cools us down."
       },
       {
-       "who": "Kavya, aged 10",
+       "who": "The first child, aged 10",
        "says": "Close them while it is hotter outside than inside, and open them in the evening when outside is cooler."
       }
      ],
      "ask": "Which idea do you agree with most? Use what you know about heat moving from warmer to cooler. Then say what another person has right.",
      "lines": 6,
-     "a": "A strong answer usually backs Kavya: heat comes in when the outside is hotter, and goes out when the outside is cooler, so a thermometer inside and outside tells you when to open the windows. It admits Paati is right that a breeze cools our skin even when the air is warm, because it helps sweat evaporate, and Amma is right about the hottest hours.",
+     "a": "A strong answer usually backs the first child: heat comes in when the outside is hotter, and goes out when the outside is cooler, so a thermometer inside and outside tells you when to open the windows. It admits Paati is right that a breeze cools our skin even when the air is warm, because it helps sweat evaporate, and Amma is right about the hottest hours.",
      "why": "This is a real choice families make, with a real trade-off. A strong answer uses the direction of heat flow as evidence and is fair to the other views."
     },
     {

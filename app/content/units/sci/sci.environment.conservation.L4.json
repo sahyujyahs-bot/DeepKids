@@ -2577,17 +2577,17 @@
      "p": "Two children in Kochi are talking about the sea, where their uncles fish.",
      "views": [
       {
-       "who": "Lakshmi, aged 8",
+       "who": "The first child, aged 8",
        "says": "The sea is so big that nobody could empty it. The boats can catch as much as they like."
       },
       {
-       "who": "Farhan, aged 10",
+       "who": "The second child, aged 10",
        "says": "Even a big sea can run low if the boats catch more than the fish can replace. We need a rule."
       }
      ],
      "ask": "Which child do you agree with? Use what you know about stocks and parents. Then say one thing the other child has right.",
      "lines": 5,
-     "a": "A strong answer says that Farhan is right that fish can run low when the catch is bigger than the births, and that the sea is large but not endless. Lakshmi is right that the sea is big, and that it has many fish.",
+     "a": "A strong answer says that the second child is right that fish can run low when the catch is bigger than the births, and that the sea is large but not endless. The first child is right that the sea is big, and that it has many fish.",
      "why": "Both children have part of it. A strong answer uses the idea of stock and births, not only the size of the sea."
     }
    ]
@@ -2799,11 +2799,11 @@
      "p": "Two children are talking about a plan to bring cheetahs from Africa to a national park in India.",
      "views": [
       {
-       "who": "Anjali, aged 10",
+       "who": "The first child, aged 10",
        "says": "Bring them back. India lost its cheetahs, and the grasslands need big hunters."
       },
       {
-       "who": "Rafiq, aged 9",
+       "who": "The second child, aged 9",
        "says": "Spend the money on animals that still live here, like the great Indian bustard."
       }
      ],
@@ -2987,11 +2987,11 @@
      "p": "Two children are talking about a village pond that every family uses for fishing.",
      "views": [
       {
-       "who": "Deepa, aged 9",
+       "who": "The first child, aged 9",
        "says": "If a pond is shared, everyone will take too much. We need a guard and a fine for those who cheat."
       },
       {
-       "who": "Karthik, aged 10",
+       "who": "The second child, aged 10",
        "says": "The families who use the pond know each other. If they make the rules together, they can keep it healthy."
       }
      ],

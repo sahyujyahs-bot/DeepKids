@@ -1659,17 +1659,17 @@
      "p": "Two sisters in Hyderabad look at a potato slice with spots on it after four days in a closed box.",
      "views": [
       {
-       "who": "Zara, aged 7",
+       "who": "The first child, aged 7",
        "says": "The spots came out of the potato. Old food makes spots by itself."
       },
       {
-       "who": "Ayesha, aged 9",
+       "who": "The second child, aged 9",
        "says": "The spots came from microbes that landed on the potato. The potato was just their food."
       }
      ],
      "ask": "Which sister do you agree with more? Give a reason from the potato test. Then say one thing the other sister has right.",
      "lines": 4,
-     "a": "A strong answer agrees more with Ayesha and uses the test: the slice nobody touched grew the fewest spots, so the spots came from what touched the slices. Zara has something right too: the potato is the food that the microbes grew on.",
+     "a": "A strong answer agrees more with the second child and uses the test: the slice nobody touched grew the fewest spots, so the spots came from what touched the slices. The first child has something right too: the potato is the food that the microbes grew on.",
      "why": "The spots are colonies grown from microbes that landed on the slice. The potato only gave them food. A strong answer uses the Nobody slice as evidence."
     },
     {

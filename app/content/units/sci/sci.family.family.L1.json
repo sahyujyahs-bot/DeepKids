@@ -1335,14 +1335,14 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and Lalitha, two sisters in Kochi, are talking about families.",
+     "p": "The first child and the second child, two sisters in Kochi, are talking about families.",
      "views": [
       {
-       "who": "Kavya, aged 7",
+       "who": "The first child, aged 7",
        "says": "Your family is the people you are related to, like cousins far away."
       },
       {
-       "who": "Lalitha, aged 6",
+       "who": "The second child, aged 6",
        "says": "Your family is the people who live with you and look after you."
       }
      ],
@@ -1531,15 +1531,15 @@
      "p": "Three people in Bengaluru talk about where body smell comes from.",
      "views": [
       {
-       "who": "Lavanya, aged 7",
+       "who": "The first child, aged 7",
        "says": "Your smell comes from the food you eat, like garlic and onion."
       },
       {
-       "who": "Imran, aged 7, Lavanya's classmate",
+       "who": "Imran, aged 7, the first child's classmate",
        "says": "Your smell comes from tiny microbes on your skin."
       },
       {
-       "who": "Lavanya's grandmother, Ajji",
+       "who": "The first child's grandmother, Ajji",
        "says": "You are born with your smell. It comes from your parents."
       }
      ],

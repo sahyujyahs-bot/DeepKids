@@ -1421,20 +1421,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two children, Kavya and Arjun, talk about the name 'black hole'.",
+     "p": "Two children, the first child and the second child, talk about the name 'black hole'.",
      "views": [
       {
-       "who": "Kavya, aged 8",
+       "who": "The first child, aged 8",
        "says": "'Black hole' is a good name. It is black, and things fall in, like into a hole."
       },
       {
-       "who": "Arjun, aged 8",
+       "who": "The second child, aged 8",
        "says": "'Black hole' is a bad name. It is not empty. It is packed full of mass."
       }
      ],
      "ask": "Who do you agree with more? Give a reason from this unit. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For Kavya: no light comes out, so it is black, and anything that crosses the edge falls in for good. For Arjun: a black hole is a huge mass squeezed small, not an empty space. Then it says one thing the other person has right.",
+     "a": "A strong answer picks a side with evidence. For the first child: no light comes out, so it is black, and anything that crosses the edge falls in for good. For the second child: a black hole is a huge mass squeezed small, not an empty space. Then it says one thing the other person has right.",
      "why": "Both are partly right. The name describes what we see and what happens to things that fall in, but not what a black hole is made of."
     }
    ]
@@ -1611,20 +1611,20 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and her grandmother argue about the black hole at the centre of our galaxy.",
+     "p": "The first child and her grandmother argue about the black hole at the centre of our galaxy.",
      "views": [
       {
-       "who": "Priya, aged 9",
+       "who": "The first child, aged 9",
        "says": "Nobody has ever seen the black hole itself, so we cannot be sure it is there."
       },
       {
-       "who": "Priya's grandmother",
+       "who": "The first child's grandmother",
        "says": "We are sure. Stars race round it, and nothing else could pull them that hard."
       }
      ],
      "ask": "Who do you agree with more? Give a reason from this unit. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For Priya: seeing is strong evidence, and no picture shows the black hole itself, only gas round it. For her grandmother: many teams have tracked the stars for years, and no other heavy thing could fit in so small a space. Then it says one thing the other person has right.",
+     "a": "A strong answer picks a side with evidence. For the first child: seeing is strong evidence, and no picture shows the black hole itself, only gas round it. For her grandmother: many teams have tracked the stars for years, and no other heavy thing could fit in so small a space. Then it says one thing the other person has right.",
      "why": "This is a real question about evidence. Most knowledge about black holes comes from what they do to things nearby, not from seeing them."
     }
    ]
@@ -1795,24 +1795,24 @@
     },
     {
      "t": "perspective",
-     "p": "Three people talk about what is inside a black hole: Divya, her friend Gurpreet, and Divya's aunt, who is a physicist.",
+     "p": "Three people talk about what is inside a black hole: The first child, her friend the second child, and the first child's aunt, who is a physicist.",
      "views": [
       {
-       "who": "Divya, aged 10",
+       "who": "The first child, aged 10",
        "says": "We will never know what is inside, because no light or message can come out."
       },
       {
-       "who": "Gurpreet, aged 10",
+       "who": "The second child, aged 10",
        "says": "We can work it out with maths, the way Schwarzschild worked out the edge before anyone found one."
       },
       {
-       "who": "Divya's aunt, a physicist",
+       "who": "The first child's aunt, a physicist",
        "says": "Our maths breaks down at the very centre. We need a new theory that joins gravity with the physics of the very small."
       }
      ],
      "ask": "Who do you agree with most? Give a reason. Then say one thing each of the others has right.",
      "lines": 6,
-     "a": "A strong answer picks a view and gives a reason. Divya is right that no message can come out. Gurpreet is right that maths has predicted black holes before they were found. The aunt is right that today's maths fails at the centre. A strong answer sees that all three can be partly true.",
+     "a": "A strong answer picks a view and gives a reason. The first child is right that no message can come out. The second child is right that maths has predicted black holes before they were found. The aunt is right that today's maths fails at the centre. A strong answer sees that all three can be partly true.",
      "why": "This is a real open question in physics. Nobody yet knows what happens at the centre of a black hole."
     }
    ]

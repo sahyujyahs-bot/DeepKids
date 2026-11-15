@@ -1314,11 +1314,11 @@
        "says": "Light the diya. It needs no cells and no charging. We always have oil in the kitchen."
       },
       {
-       "who": "Meera, aged 9",
+       "who": "The first child, aged 9",
        "says": "Use the torch. It has no flame, so nothing can catch fire. It is brighter too."
       },
       {
-       "who": "Rohan, aged 7",
+       "who": "The second child, aged 7",
        "says": "Use the phone. It is already in my hand."
       }
      ],
@@ -1425,11 +1425,11 @@
      "p": "It is Karthigai Deepam. Two friends talk about how to light up their balcony.",
      "views": [
       {
-       "who": "Aditi, aged 8",
+       "who": "The first child, aged 8",
        "says": "We should light clay diyas. The oil comes from plants, and the flames are beautiful. Our families have always done it."
       },
       {
-       "who": "Farida, aged 8",
+       "who": "The second child, aged 8",
        "says": "We should use LED lights. There is no flame and no smoke, so nothing can catch fire. They use very little electricity."
       }
      ],

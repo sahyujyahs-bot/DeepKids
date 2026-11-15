@@ -1937,18 +1937,18 @@
      "p": "Two friends in Chennai look at a plate of seedlings. Moong, methi and mustard grew side by side on the same cotton.",
      "views": [
       {
-       "who": "Divya, aged 8",
+       "who": "The first child, aged 8",
        "says": "The seedlings are different because the seeds are different. Each seed carries their own instructions."
       },
       {
-       "who": "Farhan, aged 9",
+       "who": "The second child, aged 9",
        "says": "The cotton, water and light matter most. Without them, no seed would grow at all."
       }
      ],
      "ask": "Which friend do you agree with more? Use what you saw in the Three Seeds test. Then say what the other friend has right.",
      "lines": 5,
      "how": "e1",
-     "a": "A strong answer sees that both are right about different things. The shape came from inside each seed, because everything outside was the same, so Divya explains why they differ. Farhan is right that water, light and warmth give the materials and energy: a dry seed never sprouts.",
+     "a": "A strong answer sees that both are right about different things. The shape came from inside each seed, because everything outside was the same, so the first child explains why they differ. The second child is right that water, light and warmth give the materials and energy: a dry seed never sprouts.",
      "why": "Instructions and surroundings both shape a living thing. A strong answer uses the test to show which one explains the difference here."
     },
     {

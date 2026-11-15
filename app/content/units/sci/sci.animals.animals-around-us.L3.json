@@ -2436,14 +2436,14 @@
     },
     {
      "t": "perspective",
-     "p": "Sunita, a girl in Class 3, lives beside a big banyan tree. Hundreds of fruit bats hang in it all day and fly out at dusk.",
+     "p": "The first person, a girl in Class 3, lives beside a big banyan tree. Hundreds of fruit bats hang in it all day and fly out at dusk.",
      "views": [
       {
        "who": "A neighbour who parks cars under the tree",
        "says": "The bats are noisy, and their droppings and half-eaten fruit fall on my car. Cut the branches."
       },
       {
-       "who": "Sunita",
+       "who": "The first person",
        "says": "Fruit bats carry seeds far away when they feed at night, and new trees grow from them. If we cut the tree, they lose their roost."
       },
       {

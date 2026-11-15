@@ -1397,16 +1397,16 @@
      "p": "Two friends in Guwahati look at a pot where they planted seeds three days ago. Nothing shows on top.",
      "views": [
       {
-       "who": "Bornali, aged 6",
+       "who": "The first child, aged 6",
        "says": "Nothing is happening. The seeds are dead. Let's throw the soil away."
       },
       {
-       "who": "Moni, aged 7",
+       "who": "The second child, aged 7",
        "says": "The seeds might be growing roots underneath. Let's wait."
       }
      ],
      "ask": "Which friend do you agree with? Say what you saw in Peek Under the Soil. Then say one thing the other friend got right.",
-     "a": "Moni, because our chana grew roots under the soil for days before anything showed. Bornali is right that a seed can die, for example if the soil stays too wet.",
+     "a": "The second child, because our chana grew roots under the soil for days before anything showed. The first child is right that a seed can die, for example if the soil stays too wet.",
      "why": "A strong answer uses the dug-up seeds as evidence, and fairly says that sometimes a seed does not grow."
     },
     {

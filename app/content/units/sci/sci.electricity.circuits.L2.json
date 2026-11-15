@@ -1414,21 +1414,21 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and her brother Dev look at a circuit with very long, curly wires.",
+     "p": "The first child and her brother the second child look at a circuit with very long, curly wires.",
      "views": [
       {
-       "who": "Priya, aged 8",
+       "who": "The first child, aged 8",
        "says": "It will light. The wires go from each end of the cell to the bulb."
       },
       {
-       "who": "Dev, aged 6",
+       "who": "The second child, aged 6",
        "says": "It might not light. The wires are so curly, the electricity could get lost."
       }
      ],
      "ask": "Who do you agree with? Say why. Then say one thing the other person got right.",
      "lines": 3,
-     "a": "Priya is right, because the Shape Test showed coiled wires still light the bulb. Dev is right to look closely at the wires before building.",
-     "why": "A strong answer uses the Shape Test as evidence and says what Dev noticed, without calling him silly.",
+     "a": "The first child is right, because the Shape Test showed coiled wires still light the bulb. The second child is right to look closely at the wires before building.",
+     "why": "A strong answer uses the Shape Test as evidence and says what the second child noticed, without calling him silly.",
      "how": "e1"
     }
    ]
@@ -1596,7 +1596,7 @@
      "p": "Three people talk about why a bulb lights.",
      "views": [
       {
-       "who": "Swathi, aged 9",
+       "who": "The first child, aged 9",
        "says": "The cell fills the bulb with electricity, like water filling a cup."
       },
       {
@@ -1604,13 +1604,13 @@
        "says": "The electricity goes round and comes back to the cell."
       },
       {
-       "who": "Joseph, aged 7",
+       "who": "The second child, aged 7",
        "says": "The wires make the light."
       }
      ],
      "ask": "Who do you agree with? Think of Your First Circuit: the bulb stayed dark with one wire and lit with two. Then say what the others got partly right.",
      "lines": 4,
-     "a": "Rahima, because the bulb lit only when a second wire went back to the cell. Swathi is right that the cell gives the bulb its energy. Joseph is right that the wires are needed.",
+     "a": "Rahima, because the bulb lit only when a second wire went back to the cell. The first child is right that the cell gives the bulb its energy. The second child is right that the wires are needed.",
      "why": "A strong answer uses evidence from building the circuit, and finds something true in each view.",
      "how": "a1"
     },

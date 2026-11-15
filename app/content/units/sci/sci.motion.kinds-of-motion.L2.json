@@ -1535,14 +1535,14 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Kavya and her friend Farhan look at the ceiling fan.",
+     "p": "The first child and her friend the second child look at the ceiling fan.",
      "views": [
       {
-       "who": "Kavya, aged 8",
+       "who": "The first child, aged 8",
        "says": "The fan moves by itself. Nobody pushes it."
       },
       {
-       "who": "Farhan, aged 7",
+       "who": "The second child, aged 7",
        "says": "The fan is moved. Electricity turns its motor. In a power cut, it stops."
       }
      ],
@@ -1680,24 +1680,24 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Meenakshi, Anu and their friend Ravi see a shadow on the wall going back and forth.",
+     "p": "The first child, the second child and their friend the third child see a shadow on the wall going back and forth.",
      "views": [
       {
-       "who": "Meenakshi, aged 8",
+       "who": "The first child, aged 8",
        "says": "The thing making the shadow is swinging."
       },
       {
-       "who": "Anu, aged 7",
+       "who": "The second child, aged 7",
        "says": "It might be going round. From the side, round looks like back and forth."
       },
       {
-       "who": "Ravi, aged 8",
+       "who": "The third child, aged 8",
        "says": "We cannot know until we look at the thing itself from above."
       }
      ],
-     "ask": "Who do you agree with? Say why, using the keys test. Then say what Meenakshi might say back.",
-     "a": "Anu and Ravi. In the keys test, the shadow of keys going round looked like a swing. Looking from above shows which it is.",
-     "why": "A strong answer uses the shadow game as evidence and sees that Meenakshi could still be right: a swing also makes that shadow.",
+     "ask": "Who do you agree with? Say why, using the keys test. Then say what the first child might say back.",
+     "a": "The second child and the third child. In the keys test, the shadow of keys going round looked like a swing. Looking from above shows which it is.",
+     "why": "A strong answer uses the shadow game as evidence and sees that the first child could still be right: a swing also makes that shadow.",
      "how": "e1"
     },
     {

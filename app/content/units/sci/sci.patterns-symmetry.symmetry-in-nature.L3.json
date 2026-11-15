@@ -2040,18 +2040,18 @@
      "p": "Two friends in Kochi look at a pot of periwinkle flowers. Each flower has five matching petals.",
      "views": [
       {
-       "who": "Anjali, aged 8",
+       "who": "The first child, aged 8",
        "says": "The flowers are even because bees like even flowers best. Bees chose them."
       },
       {
-       "who": "Sneha, aged 9",
+       "who": "The second child, aged 9",
        "says": "The flowers are even because the petals grow in a ring round the middle of the bud. That makes them even by themselves."
       }
      ],
      "ask": "Which friend do you agree with more? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sees that both can be part of the answer. Sneha is right that petals grow in a ring round the tip of the bud, which spaces them evenly. Anjali is right that experiments show bees learn and often prefer symmetrical patterns, and bees visiting more often may have helped such flowers spread over a long time. A strong answer says which matters more is still being studied.",
-     "why": "Scientists agree on Sneha's point. Anjali's point is supported by bee experiments, but nobody yet knows how strong the effect is. Either side, argued with a reason, is a good answer."
+     "a": "A strong answer sees that both can be part of the answer. The second child is right that petals grow in a ring round the tip of the bud, which spaces them evenly. The first child is right that experiments show bees learn and often prefer symmetrical patterns, and bees visiting more often may have helped such flowers spread over a long time. A strong answer says which matters more is still being studied.",
+     "why": "Scientists agree on the second child's point. The first child's point is supported by bee experiments, but nobody yet knows how strong the effect is. Either side, argued with a reason, is a good answer."
     },
     {
      "t": "write",

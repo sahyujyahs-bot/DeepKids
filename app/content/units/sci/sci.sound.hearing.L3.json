@@ -2268,17 +2268,17 @@
      "p": "Two friends in Madurai are at a wedding with a very loud band.",
      "views": [
       {
-       "who": "Divya, aged 9",
+       "who": "The first child, aged 9",
        "says": "It doesn't hurt, so it can't harm my ears. I'll stay right at the front."
       },
       {
-       "who": "Nandini, aged 8",
+       "who": "The second child, aged 8",
        "says": "We had to shout to talk. I'm going to stand at the back."
       }
      ],
      "ask": "Which friend do you agree with? Use the arm's-length test and what you know about hair cells. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer agrees with Nandini, because having to shout at arm's length means the sound is loud enough to harm hearing over time, and hair cells don't grow back. It gives Divya her due: pain is a real warning sign, and a short time near loud music is not a disaster. But no pain doesn't mean no harm.",
+     "a": "A strong answer agrees with the second child, because having to shout at arm's length means the sound is loud enough to harm hearing over time, and hair cells don't grow back. It gives the first child her due: pain is a real warning sign, and a short time near loud music is not a disaster. But no pain doesn't mean no harm.",
      "why": "Both have part of it. Pain is a warning, but harm can start below the level that hurts."
     },
     {
@@ -2386,14 +2386,14 @@
     },
     {
      "t": "perspective",
-     "p": "Rekha's grandfather keeps the TV very loud. The family argues about what to do.",
+     "p": "The first child's grandfather keeps the TV very loud. The family argues about what to do.",
      "views": [
       {
-       "who": "Rekha, aged 9",
+       "who": "The first child, aged 9",
        "says": "We should all just talk louder to Thatha. Shouting is the easiest fix."
       },
       {
-       "who": "Rekha's mother",
+       "who": "The first child's mother",
        "says": "Shouting makes it harder. We should face him, turn off the fan and get his hearing tested."
       },
       {
@@ -2403,7 +2403,7 @@
      ],
      "ask": "Pick one view and support it with what you know about high sounds and hearing loss. Then answer back from one other view.",
      "lines": 6,
-     "a": "A strong answer says Thatha probably hears low voices but not high ones, so he hears the deep newsreader but misses children's higher voices. It supports the mother: shouting makes voices higher and blurs them, while facing him and cutting noise helps, and an audiologist can test him. It gives Rekha credit for wanting to help quickly.",
+     "a": "A strong answer says Thatha probably hears low voices but not high ones, so he hears the deep newsreader but misses children's higher voices. It supports the mother: shouting makes voices higher and blurs them, while facing him and cutting noise helps, and an audiologist can test him. It gives the first child credit for wanting to help quickly.",
      "why": "Each person sees part of it. Thatha's own words are the best clue."
     },
     {

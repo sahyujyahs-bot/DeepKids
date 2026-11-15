@@ -1285,20 +1285,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meena, aged 7, and her friend Joseph, aged 7, live in Mysuru. They are watching a hen with five chicks.",
+     "p": "The first child, aged 7, and her friend the second child, aged 7, live in Mysuru. They are watching a hen with five chicks.",
      "views": [
       {
-       "who": "Meena",
+       "who": "The first child",
        "says": "The chicks don't need their mother. They can walk and peck by themselves."
       },
       {
-       "who": "Joseph",
+       "who": "The second child",
        "says": "The chicks need their mother. She keeps them warm and safe."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks one side and gives a reason, and says the other side is partly right. Chicks can walk and peck on the first day, so Meena is partly right. But the mother hen broods them to keep them warm and calls them away from danger, so Joseph is partly right too.",
+     "a": "A strong answer picks one side and gives a reason, and says the other side is partly right. Chicks can walk and peck on the first day, so the first child is partly right. But the mother hen broods them to keep them warm and calls them away from danger, so the second child is partly right too.",
      "why": "Both are true: chicks are born ready to walk and feed, but they still get care."
     },
     {
@@ -1386,14 +1386,14 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, aged 8, and her grandmother live in Madurai. A tiny sparrow chick is sitting on the ground below a tree. The chick has feathers, but cannot fly far.",
+     "p": "The first child, aged 8, and her grandmother live in Madurai. A tiny sparrow chick is sitting on the ground below a tree. The chick has feathers, but cannot fly far.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first child",
        "says": "We must take the chick home and feed them, or they will die."
       },
       {
-       "who": "Lakshmi's grandmother",
+       "who": "The first child's grandmother",
        "says": "Leave the chick where they are. The parents are nearby and will keep feeding them."
       },
       {
@@ -1403,7 +1403,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing another person has right.",
      "lines": 4,
-     "a": "A strong answer picks one view and gives a reason. Young birds who have just left the nest often sit on the ground while the parents still feed them, so the grandmother is often right. Lakshmi is right that the chick needs food, and Dr Farida is right that a hurt or alone chick needs help.",
+     "a": "A strong answer picks one view and gives a reason. Young birds who have just left the nest often sit on the ground while the parents still feed them, so the grandmother is often right. The first child is right that the chick needs food, and Dr Farida is right that a hurt or alone chick needs help.",
      "why": "Fledglings out of the nest are usually still cared for by their parents. Watching first is the safest choice."
     },
     {
@@ -1468,20 +1468,20 @@
     },
     {
      "t": "perspective",
-     "p": "Priya, aged 9, and her brother Sameer, aged 7, live in Kolkata. They are talking about why chick mouths are bright.",
+     "p": "The first child, aged 9, and her brother the second child, aged 7, live in Kolkata. They are talking about why chick mouths are bright.",
      "views": [
       {
-       "who": "Priya",
+       "who": "The first child",
        "says": "Bright mouths help the parents find the chicks in the dark."
       },
       {
-       "who": "Sameer",
+       "who": "The second child",
        "says": "Bright mouths tell the parents which chick is hungriest."
       }
      ],
      "ask": "Who do you agree with? Use what happens when coloured mouths are hidden in a dark nest. Then say what test could show if the other person is right.",
      "lines": 4,
-     "a": "A strong answer uses evidence: in dim light, bright mouths are found more, so Priya's idea fits. For Sameer's idea, you would need to see if hungrier chicks have brighter mouths. Scientists have found both ideas can be true, in different birds.",
+     "a": "A strong answer uses evidence: in dim light, bright mouths are found more, so the first child's idea fits. For the second child's idea, you would need to see if hungrier chicks have brighter mouths. Scientists have found both ideas can be true, in different birds.",
      "why": "Scientists still argue about this. A good answer uses evidence for one side and suggests a fair test for the other.",
      "how": "e1"
     },

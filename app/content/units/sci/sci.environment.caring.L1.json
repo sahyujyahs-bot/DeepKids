@@ -1584,17 +1584,17 @@
      "p": "Two friends in Mysuru see a chips packet in the park.",
      "views": [
       {
-       "who": "Divya, aged 6",
+       "who": "The first child, aged 6",
        "says": "It's not mine. The person who dropped it should pick it up."
       },
       {
-       "who": "Rehana, aged 7",
+       "who": "The second child, aged 7",
        "says": "If we leave the chips packet, the rain will take it to the drain. Let's put it in the bin."
       }
      ],
      "ask": "Which friend do you agree with? Why? Then say one thing the other friend has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, for example that the rain will carry the packet away and nobody else may pick it up. It also sees that Divya has a point: the person who dropped it did something unfair.",
+     "a": "A strong answer picks a side and gives a reason, for example that the rain will carry the packet away and nobody else may pick it up. It also sees that the first child has a point: the person who dropped it did something unfair.",
      "why": "Both friends are right about something. It is fair that people clear up their own litter. But the packet will still travel, whoever dropped it."
     },
     {
@@ -1697,7 +1697,7 @@
      "p": "A cow is eating vegetable peels and a plastic bag outside a building in Pune.",
      "views": [
       {
-       "who": "Swati, aged 8",
+       "who": "The first child, aged 8",
        "says": "The cow is hungry. We should put out more peels for her."
       },
       {
@@ -1787,17 +1787,17 @@
      "p": "Two sisters in Bhubaneswar find ants in the sugar jar.",
      "views": [
       {
-       "who": "Mitali, aged 9",
+       "who": "The first child, aged 9",
        "says": "Let's spray the ants. They are stealing our sugar."
       },
       {
-       "who": "Rupa, aged 6",
+       "who": "The second child, aged 6",
        "says": "Let's close the jar tightly and wipe the shelf, so the ants go back outside."
       }
      ],
      "ask": "Which sister do you agree with? Why? Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "A strong answer gives a reason from the Sugar Test, for example that wiping takes away the smell trail. It also sees Mitali's point: the family needs their sugar to stay clean.",
+     "a": "A strong answer gives a reason from the Sugar Test, for example that wiping takes away the smell trail. It also sees the first child's point: the family needs their sugar to stay clean.",
      "why": "Both sisters want the sugar safe. One way hurts the ants. The other way changes what brings them in.",
      "how": "e2"
     },

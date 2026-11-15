@@ -2215,17 +2215,17 @@
      "p": "Two cousins in Kochi are on the beach in the afternoon, feeling the cool breeze.",
      "views": [
       {
-       "who": "Anu, aged 9",
+       "who": "The first child, aged 9",
        "says": "The sea is blowing the wind at us. It comes from the sea, so the sea must make it."
       },
       {
-       "who": "Nila, aged 8",
+       "who": "The second child, aged 8",
        "says": "The land is making the wind. The hot land warms the air, and the sea air comes in to fill its place."
       }
      ],
      "ask": "Which cousin do you agree with? Use something you did in this unit as evidence. Then say one thing the other cousin has right.",
      "lines": 5,
-     "a": "A strong answer uses evidence, such as the Open Fridge experiment or the Soil or Water experiment. Anu is right about the direction: the breeze does come from the sea. But the cause is the warm land. Nila is right that the land starts it, because the air over the land rises and makes room.",
+     "a": "A strong answer uses evidence, such as the Open Fridge experiment or the Soil or Water experiment. The first child is right about the direction: the breeze does come from the sea. But the cause is the warm land. The second child is right that the land starts it, because the air over the land rises and makes room.",
      "why": "Both cousins see part of it. The breeze comes from the sea, but it starts because the land warms up and its air rises. Evidence from the Open Fridge experiment and the Soil or Water experiment helps decide."
     },
     {

@@ -3126,11 +3126,11 @@
           "p": "A school ruler has a worn end, so it reads 1 centimetre too big. Three children disagree about what to do.",
           "views": [
             {
-              "who": "Anjali",
+              "who": "The first person",
               "says": "Throw it away. A faulty tool cannot give true results."
             },
             {
-              "who": "Imran",
+              "who": "The second person",
               "says": "Keep it. Subtract 1 from every reading, or check it against another ruler first."
             },
             {
@@ -3140,7 +3140,7 @@
           ],
           "ask": "Who is right? Give one reason. Say what another person has right.",
           "lines": 5,
-          "a": "Imran and the teacher use the fault wisely. A steady fault can be found and removed. In a difference between two readings, the same error cancels. Anjali is right that it is not safe for measuring a true size without a correction.",
+          "a": "The second person and the teacher use the fault wisely. A steady fault can be found and removed. In a difference between two readings, the same error cancels. The first person is right that it is not safe for measuring a true size without a correction.",
           "why": "A zero error is the same on every reading, so it can be found and handled. A wobbling error cannot."
         },
         {

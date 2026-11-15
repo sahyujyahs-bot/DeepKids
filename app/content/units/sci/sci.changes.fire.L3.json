@@ -2203,7 +2203,7 @@
     },
     {
      "t": "perspective",
-     "p": "Keerthana, aged 9, wants to light the pooja lamp at home. Her family is deciding whether she may.",
+     "p": "The first child, aged 9, wants to light the pooja lamp at home. Her family is deciding whether she may.",
      "a": "A strong answer picks a side and backs it with a reason from the unit, such as the fire triangle, the steel plate, or the matches staying with grown-ups. It then gives one fair point from another side.",
      "why": "There is a real trade-off. Children learn care by doing, but matches and loose clothes need a grown-up's control.",
      "views": [
@@ -2216,7 +2216,7 @@
        "says": "Not until she is older. Matches are for grown-ups, and one slip can set her clothes on fire."
       },
       {
-       "who": "Keerthana",
+       "who": "The first child",
        "says": "I can put the lamp on the steel plate and fill the oil. A grown-up can do the match."
       }
      ],
@@ -2285,16 +2285,16 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Class 3, Kavya and Dhruv, are arguing about blowing on fires.",
+     "p": "Two friends in Class 3, the first person and the second person, are arguing about blowing on fires.",
      "a": "A strong answer sees that both are partly right. Blowing on a candle pushes the small amount of wax gas away and cools the wick. Blowing on embers brings more oxygen than it takes heat away, so they burn harder.",
      "why": "This is a real puzzle with two true sides. What blowing does depends on how big the fire is and how much fuel and heat it has.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "Blowing puts out fires. I blow out my birthday candles every year."
       },
       {
-       "who": "Dhruv",
+       "who": "The second person",
        "says": "Blowing makes fires bigger. My grandmother blows through a pipe to get the chulha going."
       }
      ],

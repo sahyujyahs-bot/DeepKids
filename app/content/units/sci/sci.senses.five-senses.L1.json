@@ -1449,20 +1449,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi and her friend Deepa are smelling jasmine flowers in a garden in Madurai.",
+     "p": "The first child and her friend the second child are smelling jasmine flowers in a garden in Madurai.",
      "views": [
       {
-       "who": "Meenakshi, aged 6",
+       "who": "The first child, aged 6",
        "says": "The smell is in the flowers. My nose just finds it."
       },
       {
-       "who": "Deepa, aged 7",
+       "who": "The second child, aged 7",
        "says": "The smell is in my nose. Tiny bits came from the flowers into my nose, and then I smelled them."
       }
      ],
      "ask": "Say who you agree with and why, and a grown-up writes it down. Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks one side and gives a reason. For Deepa: the bits travelled into my nose, and I smelled them only when they arrived. For Meenakshi: the bits came from the flowers, and they smell like jasmine because of the flowers.",
+     "a": "A strong answer picks one side and gives a reason. For the second child: the bits travelled into my nose, and I smelled them only when they arrived. For the first child: the bits came from the flowers, and they smell like jasmine because of the flowers.",
      "why": "Both girls are partly right. The tiny bits come from the flowers, but the smell happens when they reach a nose. Scientists and thinkers still talk about where a smell really is."
     },
     {
@@ -1595,20 +1595,20 @@
     },
     {
      "t": "perspective",
-     "p": "Nirmala and her brother Farhan are talking about dogs in Hyderabad.",
+     "p": "The second child and her brother the first child are talking about dogs in Hyderabad.",
      "views": [
       {
-       "who": "Farhan, aged 7",
+       "who": "The first child, aged 7",
        "says": "Dogs are better than people at smelling. Our noses are weak."
       },
       {
-       "who": "Nirmala, aged 8",
+       "who": "The second child, aged 8",
        "says": "Dogs are better at some smells. But people are good at smelling too. People can even follow a smell trail."
       }
      ],
      "ask": "Say who you agree with and why, and a grown-up writes it down. Then say one thing the other one has right.",
      "lines": 3,
-     "a": "A strong answer uses evidence: people followed a chocolate smell trail across a field, so human noses are good. Farhan is right that dogs smell many things we miss.",
+     "a": "A strong answer uses evidence: people followed a chocolate smell trail across a field, so human noses are good. The first child is right that dogs smell many things we miss.",
      "why": "For a long time people said human noses are weak. Tests now show humans are good at many smells, while dogs are better at others."
     },
     {

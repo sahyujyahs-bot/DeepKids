@@ -2388,21 +2388,21 @@
     },
     {
      "t": "perspective",
-     "p": "Rani and Imran are talking about a wide lake and a narrow tube of water that are both 5 metres deep.",
+     "p": "Rani and the first person are talking about a wide lake and a narrow tube of water that are both 5 metres deep.",
      "views": [
       {
        "who": "Rani",
        "says": "The lake has far more water, so it must push harder on its bottom."
       },
       {
-       "who": "Imran",
+       "who": "The first person",
        "says": "Only the depth counts, so each bit of the bottom feels the same push in the lake and in the tube."
       }
      ],
      "ask": "Who do you agree with? Give a reason. Then say one thing that the other person has right.",
      "lines": 4,
-     "a": "A strong answer agrees with Imran, because pressure depends only on depth, and both are 5 metres deep. It also says Rani is right that the lake has a much bigger total force, because it pushes on a much bigger area.",
-     "why": "Both have a point. The push on each bit is the same, as Imran says. But the whole lake bed is far bigger, so the total force on it is bigger. That is the part Rani has right.",
+     "a": "A strong answer agrees with the first person, because pressure depends only on depth, and both are 5 metres deep. It also says Rani is right that the lake has a much bigger total force, because it pushes on a much bigger area.",
+     "why": "Both have a point. The push on each bit is the same, as the first person says. But the whole lake bed is far bigger, so the total force on it is bigger. That is the part Rani has right.",
      "outcome": 3
     }
    ]
@@ -2590,20 +2590,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meena and Joseph disagree about a tall building of flats where the top-floor tap is weak.",
+     "p": "The first person and the second person disagree about a tall building of flats where the top-floor tap is weak.",
      "views": [
       {
-       "who": "Meena",
+       "who": "The first person",
        "says": "Put the water tank on a higher stand, so the water is deeper above the top taps."
       },
       {
-       "who": "Joseph",
+       "who": "The second person",
        "says": "Put a pump on the pipe, so the water is pushed even when the tank is low."
       }
      ],
      "ask": "Who do you agree with? Give a reason. Then say one thing that the other person has right.",
      "lines": 4,
-     "a": "A strong answer picks one and gives a reason about pressure. For Meena, the push comes from the depth above the tap. For Joseph, a pump adds a push that does not depend on the tank. It also says that the other idea would work too.",
+     "a": "A strong answer picks one and gives a reason about pressure. For the first person, the push comes from the depth above the tap. For the second person, a pump adds a push that does not depend on the tank. It also says that the other idea would work too.",
      "why": "Both work, because both raise the push at the tap. A higher tank uses depth of water, and a pump adds its own push. Which is better depends on cost, space and electricity.",
      "outcome": 3
     }

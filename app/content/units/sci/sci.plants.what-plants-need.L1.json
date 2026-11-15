@@ -1205,16 +1205,16 @@
      "p": "Two friends in Kochi lift the bowl and see tall yellow methi sprouts.",
      "views": [
       {
-       "who": "Fathima, aged 6",
+       "who": "The first child, aged 6",
        "says": "These sprouts are sick. We should throw them away."
       },
       {
-       "who": "Revathi, aged 7",
+       "who": "The second child, aged 7",
        "says": "These sprouts are fine. They are only waiting for light."
       }
      ],
      "ask": "Which friend do you agree with? Use what you saw on day 6 of Three Plates of Methi. Then say one thing the other friend got right.",
-     "a": "Revathi is closer: on day 6, the yellow sprouts turned green in the light. But Fathima is right that they are weaker: they are thin and some fell over.",
+     "a": "The second child is closer: on day 6, the yellow sprouts turned green in the light. But the first child is right that they are weaker: they are thin and some fell over.",
      "why": "A strong answer uses the day 6 result, and is fair to both: the sprouts were alive and could turn green, but they were thin and weak.",
      "how": "e1"
     }

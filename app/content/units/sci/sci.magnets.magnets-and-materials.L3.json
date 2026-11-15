@@ -2718,17 +2718,17 @@
      "p": "Two sisters in Chennai have a big flat fridge magnet and a tiny round magnet. They argue about which one is stronger.",
      "views": [
       {
-       "who": "Meena, aged 9",
+       "who": "The first child, aged 9",
        "says": "The big one must be stronger. It is ten times bigger than the tiny one."
       },
       {
-       "who": "Divya, aged 7",
+       "who": "The second child, aged 7",
        "says": "The tiny one is stronger. It is much harder to pull off the fridge door."
       }
      ],
      "ask": "Which sister do you agree with? Say how you could test it, for example by counting how many paper clips each magnet can hold in a chain. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer uses evidence, such as the number of clips each magnet held. It sees that size is not the whole story: a tiny magnet made of a strong material can beat a big flexible one. It also gives the other sister her due. Meena is right that, of two magnets made the same way, the bigger one is usually stronger. Divya is right that how hard it is to pull off is a real clue, but counting clips is fairer than feeling.",
+     "a": "A strong answer uses evidence, such as the number of clips each magnet held. It sees that size is not the whole story: a tiny magnet made of a strong material can beat a big flexible one. It also gives the other sister her due. The first child is right that, of two magnets made the same way, the bigger one is usually stronger. The second child is right that how hard it is to pull off is a real clue, but counting clips is fairer than feeling.",
      "why": "There is no single right answer without a test. Strength depends on what the magnet is made of and how well its tiny magnets line up, as well as its size."
     },
     {

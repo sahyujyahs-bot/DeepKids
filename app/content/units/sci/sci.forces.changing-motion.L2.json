@@ -1486,22 +1486,22 @@
      "p": "Three friends are talking about the Bend Wall test, where a marble rolled round a curved card wall.",
      "views": [
       {
-       "who": "Meenakshi",
+       "who": "The first person",
        "says": "The marble did not get faster or slower going round. So turning needs no force."
       },
       {
-       "who": "Farida",
+       "who": "The second person",
        "says": "The wall pushed the marble sideways all the way round. That push made it turn."
       },
       {
-       "who": "Joseph",
+       "who": "The third person",
        "says": "The marble pushed the wall. I felt it knock on my finger. So the marble did the pushing, not the wall."
       }
      ],
      "ask": "Who do you agree with? Give one reason from the test. Then say one thing another friend has right.",
      "lines": 4,
-     "a": "A strong answer agrees with Farida, because the marble went straight as soon as the wall ended. Meenakshi is right that the speed hardly changed, but the direction did. Joseph is right that the marble pushed the wall too: when two things push, each pushes the other.",
-     "why": "Turning is a change of direction, so it needs a force. Joseph's point is true as well: the wall and the marble push on each other at the same time.",
+     "a": "A strong answer agrees with the second person, because the marble went straight as soon as the wall ended. The first person is right that the speed hardly changed, but the direction did. The third person is right that the marble pushed the wall too: when two things push, each pushes the other.",
+     "why": "Turning is a change of direction, so it needs a force. The third person's point is true as well: the wall and the marble push on each other at the same time.",
      "how": "e1"
     },
     {
@@ -1630,22 +1630,22 @@
      "p": "Three cousins are talking about the Moon, which goes round the Earth.",
      "views": [
       {
-       "who": "Aditi",
+       "who": "The first person",
        "says": "The Moon goes round and round by itself. Nothing needs to pull it."
       },
       {
-       "who": "Kamala",
+       "who": "The second person",
        "says": "The Earth's gravity pulls the Moon all the time, like the card wall pushing the marble round."
       },
       {
-       "who": "Rahul",
+       "who": "The third person",
        "says": "If the Earth pulls the Moon, the Moon should fall down onto us. It doesn't, so the Earth can't be pulling it."
       }
      ],
      "ask": "Who do you agree with? Use the Bend Wall test in your answer. Then say what you would tell one of the others.",
      "lines": 4,
-     "a": "A strong answer agrees with Kamala. The marble only went round while the wall pushed it, and went straight when the push stopped. Without the Earth's pull, the Moon would go off straight too. Rahul asks a good question: the Moon is moving sideways very fast, so the pull bends its path round the Earth instead of pulling it down.",
-     "why": "Anything that goes round a curve needs a force towards the middle. For the Moon, that force is the Earth's gravity. Rahul's puzzle is real, and Isaac Newton answered it: the Moon is always falling towards the Earth, but it is going sideways fast enough to keep missing.",
+     "a": "A strong answer agrees with the second person. The marble only went round while the wall pushed it, and went straight when the push stopped. Without the Earth's pull, the Moon would go off straight too. The third person asks a good question: the Moon is moving sideways very fast, so the pull bends its path round the Earth instead of pulling it down.",
+     "why": "Anything that goes round a curve needs a force towards the middle. For the Moon, that force is the Earth's gravity. The third person's puzzle is real, and Isaac Newton answered it: the Moon is always falling towards the Earth, but it is going sideways fast enough to keep missing.",
      "how": "e1"
     },
     {

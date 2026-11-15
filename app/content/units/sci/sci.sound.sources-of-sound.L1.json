@@ -1409,15 +1409,15 @@
      "p": "You want to call your friend from across the playground. Three children have ideas.",
      "views": [
       {
-       "who": "Priya, aged 7",
+       "who": "The first child, aged 7",
        "says": "Shout her name. A loud shout goes far."
       },
       {
-       "who": "Anu, aged 6",
+       "who": "The second child, aged 6",
        "says": "Clap your hands hard. It is loud, and you won't hurt your throat."
       },
       {
-       "who": "Ravi, aged 8",
+       "who": "The third child, aged 8",
        "says": "Walk over and talk softly. Then nobody else is disturbed."
       }
      ],
@@ -1525,18 +1525,18 @@
     },
     {
      "t": "perspective",
-     "p": "Meera, a girl aged 8, watches rain fall on a window with her mother and her grandfather. They disagree about the sound source.",
+     "p": "The first person, a girl aged 8, watches rain fall on a window with her mother and her grandfather. They disagree about the sound source.",
      "views": [
       {
-       "who": "Meera's mother",
+       "who": "The first person's mother",
        "says": "The raindrops are the sound source. They are what is falling."
       },
       {
-       "who": "Meera's grandfather",
+       "who": "The first person's grandfather",
        "says": "The window is the sound source. The glass shakes when the drops hit it."
       },
       {
-       "who": "Meera",
+       "who": "The first person",
        "says": "Both of them. The drops hit, and the glass moves."
       }
      ],

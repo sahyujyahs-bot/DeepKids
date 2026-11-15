@@ -1279,20 +1279,20 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and her friend Bornali hear a very loud clap of thunder.",
+     "p": "The first child and her friend the second child hear a very loud clap of thunder.",
      "views": [
       {
-       "who": "Lakshmi, aged 6",
+       "who": "The first child, aged 6",
        "says": "That thunder was so loud. The storm must be right above our building."
       },
       {
-       "who": "Bornali, aged 7",
+       "who": "The second child, aged 7",
        "says": "Thunder is always very loud. So even loud thunder can be far away."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For Lakshmi: closer thunder is louder, so a very loud clap may mean the storm is near. For Bornali: thunder is so big that we hear it from far away.",
+     "a": "A strong answer picks a side and gives a reason. For the first child: closer thunder is louder, so a very loud clap may mean the storm is near. For the second child: thunder is so big that we hear it from far away.",
      "why": "Both girls are partly right. Louder thunder often means a closer storm, but thunder is so loud that even far thunder can sound big."
     },
     {

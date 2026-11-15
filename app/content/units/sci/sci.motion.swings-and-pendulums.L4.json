@@ -2052,16 +2052,16 @@
     },
     {
      "t": "perspective",
-     "p": "Two cousins, Dhruv and Farida, argue about a park swing. Dhruv pushes the swing once and lets it go.",
-     "a": "A strong answer agrees with Farida. The swing cannot rise above the place it was let go from without an extra push. It gives Dhruv his due: a bigger push does make the swing go higher.",
+     "p": "Two cousins, the first child and the second child, argue about a park swing. The first child pushes the swing once and lets it go.",
+     "a": "A strong answer agrees with the second child. The swing cannot rise above the place it was let go from without an extra push. It gives the first child his due: a bigger push does make the swing go higher.",
      "why": "This question checks that the child knows a swing gets its height from where it is let go, and that pushing adds energy.",
      "views": [
       {
-       "who": "Dhruv, aged 9",
+       "who": "The first child, aged 9",
        "says": "If the swing is going fast at the bottom, it will go higher than where I let go."
       },
       {
-       "who": "Farida, aged 10",
+       "who": "The second child, aged 10",
        "says": "It can only climb back to where it started. The speed at the bottom came from the height."
       }
      ],
@@ -2185,20 +2185,20 @@
     },
     {
      "t": "perspective",
-     "p": "Three friends, Latha, Imran and Pooja, talk about why a pendulum finally stops.",
-     "a": "A strong answer agrees most with Pooja, because the air and the rubbing at the pivot take the swing's energy and turn it into warmth. It gives Latha her due: gravity keeps pulling, but it pulls the bob back to the middle and does not stop it. It gives Imran his due: the movement has indeed gone, but it was changed into warmth.",
+     "p": "Three friends, the first child, the second child and the third child, talk about why a pendulum finally stops.",
+     "a": "A strong answer agrees most with the third child, because the air and the rubbing at the pivot take the swing's energy and turn it into warmth. It gives the first child her due: gravity keeps pulling, but it pulls the bob back to the middle and does not stop it. It gives the second child his due: the movement has indeed gone, but it was changed into warmth.",
      "why": "This question checks that the child can use the idea of energy changing form to judge three ideas fairly.",
      "views": [
       {
-       "who": "Latha, aged 10",
+       "who": "The first child, aged 10",
        "says": "Gravity pulled it still."
       },
       {
-       "who": "Imran, aged 9",
+       "who": "The second child, aged 9",
        "says": "The movement just ran out and disappeared."
       },
       {
-       "who": "Pooja, aged 10",
+       "who": "The third child, aged 10",
        "says": "The air and the pivot took the energy and turned it into a tiny bit of warmth."
       }
      ],
@@ -2370,16 +2370,16 @@
     },
     {
      "t": "perspective",
-     "p": "Two students, Meera and Karan, discuss whether the Peg Test proves that energy is never lost.",
-     "a": "A strong answer agrees with Meera that the test shows the bob returning to nearly the same height. It gives Karan his due: the bob came back slightly lower, so some energy did leave. A strong answer says that the energy turned into warmth, and the test alone cannot show that.",
+     "p": "Two students, the first child and the second child, discuss whether the Peg Test proves that energy is never lost.",
+     "a": "A strong answer agrees with the first child that the test shows the bob returning to nearly the same height. It gives the second child his due: the bob came back slightly lower, so some energy did leave. A strong answer says that the energy turned into warmth, and the test alone cannot show that.",
      "why": "This question checks that the child can say what a test shows and what it does not show.",
      "views": [
       {
-       "who": "Meera, aged 11",
+       "who": "The first child, aged 11",
        "says": "The bob always came back to nearly the same height, so energy is conserved."
       },
       {
-       "who": "Karan, aged 11",
+       "who": "The second child, aged 11",
        "says": "It came back a little lower each time, so some energy was lost."
       }
      ],

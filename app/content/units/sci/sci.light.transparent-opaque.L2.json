@@ -1437,14 +1437,14 @@
     },
     {
      "t": "perspective",
-     "p": "Anjali and her friend Fathima, both aged 7, argue about paper in Kochi.",
+     "p": "The first person and her friend the second person, both aged 7, argue about paper in Kochi.",
      "views": [
       {
-       "who": "Anjali",
+       "who": "The first person",
        "says": "Paper is translucent. One sheet glows at the window."
       },
       {
-       "who": "Fathima",
+       "who": "The second person",
        "says": "Paper is opaque. My thick notebook is dark at the window."
       }
      ],

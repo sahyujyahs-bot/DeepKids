@@ -1287,14 +1287,14 @@
     },
     {
      "t": "perspective",
-     "p": "Nandini and her brother Farhan are making a mat for Paati's tea tray.",
+     "p": "The first child and her brother the second child are making a mat for Paati's tea tray.",
      "views": [
       {
-       "who": "Nandini, aged 8",
+       "who": "The first child, aged 8",
        "says": "Use rubber. In our tilt test it held the katori on the steepest tilt."
       },
       {
-       "who": "Farhan, aged 6",
+       "who": "The second child, aged 6",
        "says": "Use cotton cloth. It soaks up spilt tea, and we can wash it."
       }
      ],
@@ -1370,14 +1370,14 @@
     },
     {
      "t": "perspective",
-     "p": "A park in Hyderabad needs a new slide. Revathi and Gurpreet disagree.",
+     "p": "A park in Hyderabad needs a new slide. The first child and the second child disagree.",
      "views": [
       {
-       "who": "Revathi, aged 9",
+       "who": "The first child, aged 9",
        "says": "Make it of steel. Steel is very slippery and lasts for years in the rain."
       },
       {
-       "who": "Gurpreet, aged 8",
+       "who": "The second child, aged 8",
        "says": "Make it of plastic. A steel slide gets burning hot in the summer sun, and plastic hurts less."
       }
      ],
@@ -1439,14 +1439,14 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Meenakshi and her cousin Anitha are arguing about rubber.",
+     "p": "The first child and her cousin the second child are arguing about rubber.",
      "views": [
       {
-       "who": "Meenakshi, aged 8",
+       "who": "The first child, aged 8",
        "says": "Rubber is a good material. It held the katori best in our tilt test."
       },
       {
-       "who": "Anitha, aged 7",
+       "who": "The second child, aged 7",
        "says": "Rubber is a bad material. It made me stick halfway down the slide."
       }
      ],

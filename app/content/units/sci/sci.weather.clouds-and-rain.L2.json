@@ -1370,21 +1370,21 @@
     },
     {
      "t": "perspective",
-     "p": "Anjali and Tara, two sisters in Mysuru, look at a small white cloud on a sunny day.",
+     "p": "The first child and the second child, two sisters in Mysuru, look at a small white cloud on a sunny day.",
      "views": [
       {
-       "who": "Anjali, aged 8",
+       "who": "The first child, aged 8",
        "says": "That cloud is full of water. It will rain soon."
       },
       {
-       "who": "Tara, aged 7",
+       "who": "The second child, aged 7",
        "says": "It is white and thin. It won't rain from that cloud."
       }
      ],
      "ask": "Who do you agree with more? Give one reason. Then say one thing the other sister has right. Say it, and a grown-up writes it.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, such as 'white clouds are thinner, so they rain less'. It also says what the other gets right, such as 'every cloud does hold water'.",
-     "why": "Both have a point. Every cloud is made of water, as Anjali says. But a thin white cloud rarely rains, as Tara says. Thick grey clouds hold more water, and their drops have more chances to join."
+     "why": "Both have a point. Every cloud is made of water, as the first child says. But a thin white cloud rarely rains, as the second child says. Thick grey clouds hold more water, and their drops have more chances to join."
     },
     {
      "t": "mcq",
@@ -1490,10 +1490,10 @@
     },
     {
      "t": "perspective",
-     "p": "Kavitha's family in Bengaluru wants to dry clothes on the balcony. The sky is grey in the morning.",
+     "p": "The first child's family in Bengaluru wants to dry clothes on the balcony. The sky is grey in the morning.",
      "views": [
       {
-       "who": "Kavitha, aged 8",
+       "who": "The first child, aged 8",
        "says": "Put the clothes out. The sky is often grey in the morning and then clears."
       },
       {

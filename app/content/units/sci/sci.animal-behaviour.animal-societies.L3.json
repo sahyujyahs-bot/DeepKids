@@ -1895,17 +1895,17 @@
      "p": "Two friends in Kochi watch a long line of ants carrying rice grains.",
      "views": [
       {
-       "who": "Anjali, aged 9",
+       "who": "The first child, aged 9",
        "says": "There must be a leader ant at the front, showing the others the way."
       },
       {
-       "who": "Farhan, aged 8",
+       "who": "The second child, aged 8",
        "says": "There is no leader. Every ant just follows the smell."
       }
      ],
      "ask": "Who do you agree with? Use what you saw when you watched an ant road or did the sugar drop test. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer agrees with Farhan, using evidence: no ant was in charge, and ants followed the scent trail. It also gives Anjali some credit: one ant did find the food first, so the first ant did show the way, by leaving scent.",
+     "a": "A strong answer agrees with the second child, using evidence: no ant was in charge, and ants followed the scent trail. It also gives the first child some credit: one ant did find the food first, so the first ant did show the way, by leaving scent.",
      "why": "The first ant does lead in a way, by laying the first trail, but she gives no orders and the line keeps going without her. A strong answer sees both."
     }
    ]

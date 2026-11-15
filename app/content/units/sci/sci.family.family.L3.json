@@ -1673,20 +1673,20 @@
     },
     {
      "t": "perspective",
-     "p": "Janaki and her brother Sanjay disagree about who should wash the dinner plates.",
+     "p": "The first child and her brother the second child disagree about who should wash the dinner plates.",
      "views": [
       {
-       "who": "Janaki, aged 9",
+       "who": "The first child, aged 9",
        "says": "Amma cooked dinner, so the rest of us should wash up. That way everyone does a share."
       },
       {
-       "who": "Sanjay, aged 7",
+       "who": "The second child, aged 7",
        "says": "Amma is the fastest at washing up, so it makes sense for her to do it. We would be slow and break things."
       }
      ],
      "ask": "Who do you agree with? Give a reason from your Home Work Count. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence, for example that Amma already did the most minutes in the count. It also says what the other side has right: Sanjay is right that some jobs go faster with practice, and Janaki is right that sharing makes it fairer.",
+     "a": "A strong answer picks a side with evidence, for example that Amma already did the most minutes in the count. It also says what the other side has right: The second child is right that some jobs go faster with practice, and the first child is right that sharing makes it fairer.",
      "why": "Both have a point. Being fastest is a reason, but it can also mean one person ends up doing everything. Practice makes other people faster too.",
      "how": "e1"
     },

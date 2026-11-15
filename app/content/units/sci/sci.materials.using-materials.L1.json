@@ -1327,7 +1327,7 @@
      "p": "Three people in a family in Chennai talk about the best spoon.",
      "views": [
       {
-       "who": "Kavya, aged 7",
+       "who": "The first child, aged 7",
        "says": "Steel is best, because it never goes soft."
       },
       {
@@ -1341,7 +1341,7 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing another person has right.",
      "lines": 3,
-     "a": "A strong answer picks one and gives a reason about the material, not only its colour. For example: 'Kavya, because steel stays stiff in water. But Meenakshi is right too, because wood does not scratch the pan.'",
+     "a": "A strong answer picks one and gives a reason about the material, not only its colour. For example: 'The first child, because steel stays stiff in water. But Meenakshi is right too, because wood does not scratch the pan.'",
      "why": "There is no one best spoon. The best material depends on the job. A child who sees that the job decides has understood the unit."
     },
     {

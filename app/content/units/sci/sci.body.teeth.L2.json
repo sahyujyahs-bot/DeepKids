@@ -2055,21 +2055,21 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi and her brother Kiran are talking about milk teeth.",
+     "p": "The second child and her brother the first child are talking about milk teeth.",
      "views": [
       {
-       "who": "Kiran, aged 6",
+       "who": "The first child, aged 6",
        "says": "I don't need to brush my milk teeth much. They are going to fall out anyway."
       },
       {
-       "who": "Meenakshi, aged 9",
+       "who": "The second child, aged 9",
        "says": "You must brush them. You will use them for years, and a hole in one can hurt."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right. Say your answer out loud, and a grown-up writes it down.",
      "lines": 3,
-     "a": "A strong answer agrees with Meenakshi, because milk teeth are used for chewing and speaking for many years, a cavity can hurt, and milk teeth hold the space for adult teeth. It also says Kiran is right that milk teeth do fall out.",
-     "why": "Kiran is right that they fall out. Meenakshi is right that they still matter while they are there."
+     "a": "A strong answer agrees with the second child, because milk teeth are used for chewing and speaking for many years, a cavity can hurt, and milk teeth hold the space for adult teeth. It also says the first child is right that milk teeth do fall out.",
+     "why": "The first child is right that they fall out. The second child is right that they still matter while they are there."
     }
    ]
   },
@@ -2152,14 +2152,14 @@
     },
     {
      "t": "perspective",
-     "p": "Farzana and her grandmother are cleaning their teeth.",
+     "p": "The first child and her grandmother are cleaning their teeth.",
      "views": [
       {
-       "who": "Farzana's grandmother, aged 70",
+       "who": "The first child's grandmother, aged 70",
        "says": "I have cleaned my teeth with a neem twig every morning of my life. It needs no shop and no plastic."
       },
       {
-       "who": "Farzana, aged 8",
+       "who": "The first child, aged 8",
        "says": "I use a toothbrush with fluoride toothpaste. The small head reaches my back teeth, and the fluoride makes enamel harder for acid to wear away."
       }
      ],

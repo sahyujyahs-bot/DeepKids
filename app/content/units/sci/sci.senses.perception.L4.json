@@ -2513,20 +2513,20 @@
         },
         {
           "t": "perspective",
-          "p": "Two friends, Lavanya and Imran, talk about a video in which a person in a gorilla suit walks through a ball game while viewers count the passes.",
+          "p": "Two friends, the first person and the second person, talk about a video in which a person in a gorilla suit walks through a ball game while viewers count the passes.",
           "views": [
             {
-              "who": "Lavanya",
+              "who": "The first person",
               "says": "I would never miss a gorilla. People who miss it are not paying attention."
             },
             {
-              "who": "Imran",
+              "who": "The second person",
               "says": "About half of the people miss it, because they are paying attention to the passes."
             }
           ],
           "ask": "Who do you agree with? Use what you know about attention. Then say one thing the other person has right.",
           "lines": 4,
-          "a": "A strong answer agrees with Imran, because missing the gorilla comes from attention being used on the passes, not from carelessness. It can say that Lavanya is right that attention matters, and that if you were told to look for a gorilla, you would not miss the gorilla.",
+          "a": "A strong answer agrees with the second person, because missing the gorilla comes from attention being used on the passes, not from carelessness. It can say that the first person is right that attention matters, and that if you were told to look for a gorilla, you would not miss the gorilla.",
           "why": "Missing a large thing is normal when attention is elsewhere. People miss the gorilla because they are paying attention to the passes.",
           "outcome": 1
         },
@@ -2695,20 +2695,20 @@
         },
         {
           "t": "perspective",
-          "p": "Two friends, Revathi and Mohan, talk about seeing faces in clouds and sockets.",
+          "p": "Two friends, the first person and the second person, talk about seeing faces in clouds and sockets.",
           "views": [
             {
-              "who": "Revathi",
+              "who": "The first person",
               "says": "Seeing faces in clouds is a mistake. The brain should not do it."
             },
             {
-              "who": "Mohan",
+              "who": "The second person",
               "says": "It is a useful habit. Missing a real face matters more than being fooled by a cloud."
             }
           ],
           "ask": "Who do you agree with? Use what you know about the face finder in the brain. Then say one thing the other person has right.",
           "lines": 4,
-          "a": "A strong answer may agree with Mohan, because the face finder responds to a rough pattern so as not to miss real faces. It can say that Revathi is right that the face in a cloud is not really there, and that this is a false alarm.",
+          "a": "A strong answer may agree with the second person, because the face finder responds to a rough pattern so as not to miss real faces. It can say that the first person is right that the face in a cloud is not really there, and that this is a false alarm.",
           "why": "The same habit finds friends in a crowd and faces in sockets. Scientists treat it as a useful rule that sometimes gives false alarms.",
           "outcome": 4
         },
@@ -2805,20 +2805,20 @@
         },
         {
           "t": "perspective",
-          "p": "Two students, Kavitha and Prakash, talk about what seeing is.",
+          "p": "Two students, the first person and the second person, talk about what seeing is.",
           "views": [
             {
-              "who": "Kavitha",
+              "who": "The first person",
               "says": "Seeing records the world exactly, like a camera."
             },
             {
-              "who": "Prakash",
+              "who": "The second person",
               "says": "Seeing is a best guess that the brain makes, using clues and what it expects."
             }
           ],
           "ask": "Who do you agree with? Use the cube drawing that flips, the change on the tray that goes unseen, or the F's that people miss. Then say one thing the other person has right.",
           "lines": 4,
-          "a": "A strong answer agrees with Prakash, because the cube flipped though the lines did not change, a big change went unseen, and F's were missed because of expectation. It can say that Kavitha is right that the eye does catch light like a camera does, and that most guesses are good.",
+          "a": "A strong answer agrees with the second person, because the cube flipped though the lines did not change, a big change went unseen, and F's were missed because of expectation. It can say that the first person is right that the eye does catch light like a camera does, and that most guesses are good.",
           "why": "The eye does catch light, but the brain builds the seeing from it. Seeing is usually right because the brain's guesses are good, and wrong in the cases we tested.",
           "outcome": 0
         },
@@ -2919,20 +2919,20 @@
         },
         {
           "t": "perspective",
-          "p": "Two children, Devi and Arun, talk about the minute they waited.",
+          "p": "Two children, Devi and the first person, talk about the minute they waited.",
           "views": [
             {
               "who": "Devi",
               "says": "A minute is a minute, and it lasts the same time for everybody."
             },
             {
-              "who": "Arun",
+              "who": "The first person",
               "says": "A minute feels different when you wait and when you play, even though the clock is the same."
             }
           ],
           "ask": "Who do you agree with? Use what you know about attention. Then say one thing the other person has right.",
           "lines": 4,
-          "a": "A strong answer says that both are right in different ways. The clock minute is the same for everyone, as Devi says. The felt minute changes with attention, as Arun says. The word minute is used for two different things.",
+          "a": "A strong answer says that both are right in different ways. The clock minute is the same for everyone, as Devi says. The felt minute changes with attention, as the first person says. The word minute is used for two different things.",
           "why": "A clock measures time. The brain's sense of time is built from attention and an inner clock, and can stretch or shrink.",
           "outcome": 5
         },

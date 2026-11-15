@@ -1587,20 +1587,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya crumples a sheet of paper and then presses it flat again. She and her friend Farhan look at it.",
+     "p": "The first person crumples a sheet of paper and then presses it flat again. She and her friend the second person look at it.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "It is flat again, so the change is undone."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "It still has lines all over it, so the change is not undone."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, for example agreeing with Farhan because the crease lines stay. It also says Kavya is right that the shape and the size have gone back.",
+     "a": "A strong answer picks a side and gives a reason, for example agreeing with the second person because the crease lines stay. It also says the first person is right that the shape and the size have gone back.",
      "why": "Both are partly right. The shape went back but the creases did not. Some changes can be undone only partly."
     },
     {
@@ -1752,10 +1752,10 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and her Ajji, her grandmother, look at a boiled egg.",
+     "p": "The first child and her Ajji, her grandmother, look at a boiled egg.",
      "views": [
       {
-       "who": "Priya, aged 7",
+       "who": "The first child, aged 7",
        "says": "A boiled egg can never be uncooked. Nobody can do it."
       },
       {
@@ -1765,7 +1765,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer sees that both have a point. Ajji is right that scientists in 2015 undid one small part of boiled egg white. Priya is right that nobody can turn a boiled egg back into a raw egg in a kitchen.",
+     "a": "A strong answer sees that both have a point. Ajji is right that scientists in 2015 undid one small part of boiled egg white. The first child is right that nobody can turn a boiled egg back into a raw egg in a kitchen.",
      "why": "Science sometimes undoes a change people thought was for ever, but only a part of it, with special tools."
     },
     {

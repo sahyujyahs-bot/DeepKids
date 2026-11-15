@@ -1455,20 +1455,20 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and her brother Farhan are sorting a knife with a steel blade and a plastic handle.",
+     "p": "The second child and her brother the first child are sorting a knife with a steel blade and a plastic handle.",
      "views": [
       {
-       "who": "Farhan, aged 6",
+       "who": "The first child, aged 6",
        "says": "It goes with the metal things. The blade is the important part."
       },
       {
-       "who": "Priya, aged 7",
+       "who": "The second child, aged 7",
        "says": "It goes in both groups, because it is made of metal and plastic."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other one has right. Say it, and a grown-up can write it down.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For Priya: the knife really is made of two materials. For Farhan: the blade is the part that does the cutting, so it is fair to group it with metal things.",
+     "a": "A strong answer picks a side with a reason. For the second child: the knife really is made of two materials. For the first child: the blade is the part that does the cutting, so it is fair to group it with metal things.",
      "why": "Both are partly right. A thing made of two materials can go in two groups. Which group you choose depends on why you are sorting."
     },
     {
@@ -1567,20 +1567,20 @@
     },
     {
      "t": "perspective",
-     "p": "Rukmini, aged 7, and her cousin Kavya, aged 6, are sorting the steel katori after the Sink or Float Sort.",
+     "p": "The first child, aged 7, and her cousin the second child, aged 6, are sorting the steel katori after the Sink or Float Sort.",
      "views": [
       {
-       "who": "Rukmini, aged 7",
+       "who": "The first child, aged 7",
        "says": "The katori goes in the metal group. It is made of steel."
       },
       {
-       "who": "Kavya, aged 6",
+       "who": "The second child, aged 6",
        "says": "The katori goes in the float group. I saw it float."
       }
      ],
      "ask": "Who is right? Can they both be right? Say why. A grown-up can write your answer.",
      "lines": 3,
-     "a": "A strong answer says both are right, because they asked different questions. Rukmini asked 'What is it made of?' Kavya asked 'Does it float?' The katori is metal and it floats, right way up.",
+     "a": "A strong answer says both are right, because they asked different questions. The first child asked 'What is it made of?' The second child asked 'Does it float?' The katori is metal and it floats, right way up.",
      "why": "The same thing can be in different groups when you ask different questions. The groups come from the question.",
      "how": "e1"
     },

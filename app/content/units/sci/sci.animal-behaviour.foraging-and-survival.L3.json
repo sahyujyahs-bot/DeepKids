@@ -1986,11 +1986,11 @@
      "p": "Two friends in Hyderabad watch a film of a tiger chasing a deer.",
      "views": [
       {
-       "who": "Ayesha, aged 9",
+       "who": "The first child, aged 9",
        "says": "I want the deer to escape. It is not fair that the tiger hunts."
       },
       {
-       "who": "Divya, aged 8",
+       "who": "The second child, aged 8",
        "says": "I want the tiger to win. She has cubs to feed, and she might be very hungry."
       }
      ],
@@ -2267,11 +2267,11 @@
      "p": "Two sisters in Mysuru argue about a grey moth they found resting on the bark of a tree.",
      "views": [
       {
-       "who": "Meera, aged 10",
+       "who": "The first child, aged 10",
        "says": "The moth is just lucky to be that colour. She did not do anything to hide."
       },
       {
-       "who": "Kavitha, aged 8",
+       "who": "The second child, aged 8",
        "says": "The moth chose that tree. Some moths even turn round until their pattern lines up with the bark."
       }
      ],

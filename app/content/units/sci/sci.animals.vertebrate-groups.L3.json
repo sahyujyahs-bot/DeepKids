@@ -2364,14 +2364,14 @@
     },
     {
      "t": "perspective",
-     "p": "In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends, Meera and Farida, argue about which kind of animal has the better life there.",
+     "p": "In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends, the first person and the second person, argue about which kind of animal has the better life there.",
      "views": [
       {
-       "who": "Meera",
+       "who": "The first person",
        "says": "The garden lizard has the better life. They take their heat from the sun, so they need only a few insects a week."
       },
       {
-       "who": "Farida",
+       "who": "The second person",
        "says": "The desert gerbil, a kind of mouse, has the better life. They make their own heat, so they can hunt at night, when it is cool and a lizard is too cold to move."
       },
       {

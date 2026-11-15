@@ -1352,17 +1352,17 @@
      "p": "Two sisters in Chennai see a gecko on the kitchen wall.",
      "views": [
       {
-       "who": "Kayal, aged 6",
+       "who": "The first child, aged 6",
        "says": "The gecko should go away. The gecko does not belong in our home."
       },
       {
-       "who": "Nandini, aged 8",
+       "who": "The second child, aged 8",
        "says": "The gecko can stay. The gecko eats the mosquitoes."
       }
      ],
      "ask": "Which sister do you agree with? Why? Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, such as 'Nandini, because the gecko eats mosquitoes that bite us.' Then the child is fair to the other side: Kayal is right that a gecko should not walk on our food.",
+     "a": "A strong answer picks a side and gives a reason, such as 'The second child, because the gecko eats mosquitoes that bite us.' Then the child is fair to the other side: The first child is right that a gecko should not walk on our food.",
      "why": "Both sisters have a point. The gecko helps by eating insects and has no poison. But any animal walking on food can carry germs, so food is kept covered."
     }
    ]
@@ -1475,7 +1475,7 @@
      "p": "Three friends in Pune talk about who owns their building.",
      "views": [
       {
-       "who": "Isha, aged 7",
+       "who": "The first child, aged 7",
        "says": "The building belongs to the people. We built it and we pay for it."
       },
       {
@@ -1483,13 +1483,13 @@
        "says": "The building belongs to everyone who lives in it, the ants and the gecko too."
       },
       {
-       "who": "Arjun, aged 7",
+       "who": "The second child, aged 7",
        "says": "The birds and the ants were here first, before the building."
       }
      ],
      "ask": "Who do you agree with most? Why? Then say one thing another friend has right.",
      "lines": 3,
-     "a": "Any side can be argued well. A strong answer gives a reason, such as 'Grace, because the ants and the gecko live here too and need the building.' Then it is fair to another friend, such as 'Isha is right that people built it.'",
+     "a": "Any side can be argued well. A strong answer gives a reason, such as 'Grace, because the ants and the gecko live here too and need the building.' Then it is fair to another friend, such as 'The first child is right that people built it.'",
      "why": "This is a real question with no single answer. People built the building, other animals live in it too, and many animals lived on this land before."
     },
     {

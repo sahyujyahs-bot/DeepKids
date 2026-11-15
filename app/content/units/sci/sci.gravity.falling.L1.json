@@ -566,21 +566,21 @@
     },
     {
      "t": "perspective",
-     "p": "Gurpreet and Lakshmi watched the balloon in the Let-Go Test. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.",
+     "p": "The first child and the second child watched the balloon in the Let-Go Test. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.",
      "views": [
       {
-       "who": "Gurpreet, aged 6",
+       "who": "The first child, aged 6",
        "says": "The balloon floated. It is so light that it doesn't really fall."
       },
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The second child, aged 7",
        "says": "The balloon fell. It just fell slowly, and then it landed on the floor."
       }
      ],
      "ask": "Who do you agree with? Why? Say one thing the other child noticed that is true.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason from the test. Lakshmi is right that it landed. Gurpreet is right that it moved very slowly, as if floating, and that it is light.",
-     "why": "The balloon did fall, all the way to the floor. But Gurpreet saw something true: it moved so slowly that it seemed to float, because the air slowed it.",
+     "a": "A strong answer picks a side with a reason from the test. The second child is right that it landed. The first child is right that it moved very slowly, as if floating, and that it is light.",
+     "why": "The balloon did fall, all the way to the floor. But the first child saw something true: it moved so slowly that it seemed to float, because the air slowed it.",
      "how": "e1"
     },
     {
@@ -654,20 +654,20 @@
     },
     {
      "t": "perspective",
-     "p": "Ishita and her brother Farhan are watching a kite bird circling high over Kolkata. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.",
+     "p": "The second child and her brother the first child are watching a kite bird circling high over Kolkata. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.",
      "views": [
       {
-       "who": "Farhan, aged 6",
+       "who": "The first child, aged 6",
        "says": "She is not falling because she is so light."
       },
       {
-       "who": "Ishita, aged 7",
+       "who": "The second child, aged 7",
        "says": "She is not falling because her wings push on the air, and the air holds her up."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other child has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For Ishita: when the bird folds her wings, she swoops down, so the wings are holding her up. For Farhan: birds are light for their size, and that helps.",
+     "a": "A strong answer picks a side with a reason. For the second child: when the bird folds her wings, she swoops down, so the wings are holding her up. For the first child: birds are light for their size, and that helps.",
      "why": "Both see something true. Birds have light bodies for their size, which helps them fly. But a light bird still falls when she folds her wings. Her spread wings push the air down, and the air pushes her up."
     },
     {

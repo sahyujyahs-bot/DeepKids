@@ -1136,24 +1136,24 @@
     },
     {
      "t": "perspective",
-     "p": "Riya and her family are arguing about the robot vacuum cleaner that cleans their floor.",
+     "p": "The first person and her family are arguing about the robot vacuum cleaner that cleans their floor.",
      "views": [
       {
-       "who": "Riya",
+       "who": "The first person",
        "says": "The robot is a little bit alive. It senses walls, finds its way home and charges itself when it is hungry."
       },
       {
-       "who": "Paati, Riya's grandmother",
+       "who": "Paati, the first person's grandmother",
        "says": "Only things made of cells can be alive. A machine of metal and plastic is never alive, however clever it is."
       },
       {
-       "who": "Arjun, Riya's cousin",
+       "who": "Arjun, the first person's cousin",
        "says": "If someone built a robot that could find its own food, repair itself and build copies of itself, then it would be alive."
       }
      ],
      "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and uses the signs of life. For Paati: a robot has no cells and does not grow from inside. For Arjun: some scientists who study 'artificial life' think the same. A strong answer also says what another person has right. For example, Riya is right that the robot senses and moves, but 'hungry' is only a word for a low battery.",
+     "a": "A strong answer picks a side and uses the signs of life. For Paati: a robot has no cells and does not grow from inside. For Arjun: some scientists who study 'artificial life' think the same. A strong answer also says what another person has right. For example, the first person is right that the robot senses and moves, but 'hungry' is only a word for a low battery.",
      "why": "Scientists really do disagree about whether a machine could ever be alive. There is no single right answer. A strong answer names signs of life and is fair to the other side."
     }
    ]

@@ -2087,10 +2087,10 @@
     },
     {
      "t": "perspective",
-     "p": "Sushila's family is looking at a peepal tree that is dropping leaves in March, in front of their building.",
+     "p": "The first child's family is looking at a peepal tree that is dropping leaves in March, in front of their building.",
      "views": [
       {
-       "who": "Sushila, aged 9",
+       "who": "The first child, aged 9",
        "says": "The tree is fine. Peepal trees drop their leaves every dry season and grow new pink ones."
       },
       {
@@ -2098,13 +2098,13 @@
        "says": "The tree must be sick. We should call someone to cut the tree down before she falls."
       },
       {
-       "who": "Sushila's mother",
+       "who": "The first child's mother",
        "says": "We can't be sure from one look. Let's watch the tree for a month and see if new leaves come."
       }
      ],
      "ask": "Whose idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so Sushila is probably right. It then gives another view its due: Amma's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.",
+     "a": "A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so the first child is probably right. It then gives another view its due: Amma's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.",
      "why": "There is a real choice between knowing a pattern, checking with evidence, and being careful about safety. The best answers use the seasonal pattern and the idea of watching over time."
     },
     {

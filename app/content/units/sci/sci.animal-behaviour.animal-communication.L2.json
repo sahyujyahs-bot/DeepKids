@@ -1369,22 +1369,22 @@
     },
     {
      "t": "perspective",
-     "p": "Meera, aged 7, lives in Chennai. A street dog barks at her every morning at the gate of her building.",
+     "p": "The first child, aged 7, lives in Chennai. A street dog barks at her every morning at the gate of her building.",
      "views": [
       {
-       "who": "Meera",
+       "who": "The first child",
        "says": "That dog hates me."
       },
       {
-       "who": "Meera's grandmother",
+       "who": "The first child's grandmother",
        "says": "He sleeps at that gate. He is saying, 'This is my place.'"
       },
       {
-       "who": "Meera's friend Joseph",
+       "who": "The first child's friend Joseph",
        "says": "People feed him at the gate. Maybe he is asking you for food."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. What could Meera listen for or look for to find out?",
+     "ask": "Who do you agree with? Give one reason. What could the first child listen for or look for to find out?",
      "lines": 4,
      "a": "A strong answer picks a view and gives a reason, then says what to check: is the bark low and fast, or higher with gaps? Is his tail stiff or loose? Does he stop when she walks past, or follow her to where food is?",
      "why": "A bark can mean 'stay back', 'feed me' or 'let's play'. The tune of the bark and the dog's body help to tell them apart."
@@ -1507,14 +1507,14 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and Farhan, two friends in Hyderabad, hear a male koel calling 'ku-oo, ku-oo' from a tree every morning.",
+     "p": "The first person and the second person, two friends in Hyderabad, hear a male koel calling 'ku-oo, ku-oo' from a tree every morning.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first person",
        "says": "He calls because he is happy."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "He calls so that other koels know where he is. When a female is near, she can find him."
       }
      ],

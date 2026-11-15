@@ -1915,20 +1915,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and Rohan are making lemonade for guests. They disagree about the sugar.",
+     "p": "The first person and the second person are making lemonade for guests. They disagree about the sugar.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "Stir the sugar into a little warm water first. Then add cold water."
       },
       {
-       "who": "Rohan",
+       "who": "The second person",
        "says": "Put everything in the cold water and keep stirring. It saves washing another cup."
       }
      ],
      "ask": "Whose way would you choose? Give a reason from the Cold, Room or Warm test. Then say one good point about the other way.",
      "lines": 4,
-     "a": "A strong answer picks one and uses evidence. For example: Kavya's way, because in the Cold, Room or Warm test, warm water dissolved sugar in far fewer stirs than cold water. Then it gives the other side fairly: Rohan's way does work if you stir long enough, and it is simpler.",
+     "a": "A strong answer picks one and uses evidence. For example: The first person's way, because in the Cold, Room or Warm test, warm water dissolved sugar in far fewer stirs than cold water. Then it gives the other side fairly: The second person's way does work if you stir long enough, and it is simpler.",
      "why": "Both ways can work. One is faster, and the other is simpler. A good answer weighs both."
     }
    ]
@@ -2146,24 +2146,24 @@
     },
     {
      "t": "perspective",
-     "p": "Three friends, Kavya, Meenakshi and Rohan, explain why the water that was full of salt could still dissolve sugar in the Full Glass Test.",
+     "p": "Three friends, the first person, the second person and the third person, explain why the water that was full of salt could still dissolve sugar in the Full Glass Test.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "There was still some empty space in the water."
       },
       {
-       "who": "Meenakshi",
+       "who": "The second person",
        "says": "Water has a different limit for each thing, so salt did not use up the sugar limit."
       },
       {
-       "who": "Rohan",
+       "who": "The third person",
        "says": "Sugar is softer than salt, so it squeezed in."
       }
      ],
      "ask": "Which explanation fits best with all your tests? Give your reason. Then say which part of another explanation could also be true.",
      "lines": 5,
-     "a": "A strong answer picks Meenakshi's, because the sugar glass took more than ten spoons while the salt stopped at three, so each thing has its own limit. Kavya's idea sounds sensible, because a glass does look as if it has room. But it cannot explain why sugar fits and salt does not.",
+     "a": "A strong answer picks the second person's, because the sugar glass took more than ten spoons while the salt stopped at three, so each thing has its own limit. The first person's idea sounds sensible, because a glass does look as if it has room. But it cannot explain why sugar fits and salt does not.",
      "why": "The evidence that sugar and salt have different limits in the same water supports separate limits. 'Empty space' and 'softer' do not explain why sugar dissolves so much more."
     },
     {

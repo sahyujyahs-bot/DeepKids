@@ -1185,14 +1185,14 @@
         },
         {
           "t": "perspective",
-          "p": "A grandmother in Kochi, her grandson Kabir and a neighbour argue about a banana plant with yellow, drooping leaves in a pot with no hole.",
+          "p": "A grandmother in Kochi, her grandson the first child and a neighbour argue about a banana plant with yellow, drooping leaves in a pot with no hole.",
           "views": [
             {
               "who": "Meenakshi, the grandmother",
               "says": "She is thirsty. Give her two mugs of water every day."
             },
             {
-              "who": "Kabir, aged 9",
+              "who": "The first child, aged 9",
               "says": "Check the soil first. If it is soaked, the roots may be drowning, and she needs a hole in the pot."
             },
             {
@@ -1202,8 +1202,8 @@
           ],
           "ask": "Whose advice would you follow first? Use what you know about roots and air. Then say one fair point for someone you disagree with.",
           "lines": 5,
-          "a": "Any choice can be strong if it uses the science. A strong answer follows Kabir: check the soil, and if it is soaked, drain it, because roots need air. It gives Meenakshi credit that a dry plant does droop, and Hari credit that a plant may need minerals later. But more water or fertiliser on drowned roots makes things worse.",
-          "why": "Kabir's advice checks the cause before acting. Water and fertiliser would not help roots that have no air. The other views are reasonable guesses, but they come before the facts.",
+          "a": "Any choice can be strong if it uses the science. A strong answer follows the first child: check the soil, and if it is soaked, drain it, because roots need air. It gives Meenakshi credit that a dry plant does droop, and Hari credit that a plant may need minerals later. But more water or fertiliser on drowned roots makes things worse.",
+          "why": "The first child's advice checks the cause before acting. Water and fertiliser would not help roots that have no air. The other views are reasonable guesses, but they come before the facts.",
           "outcome": 0
         },
         {

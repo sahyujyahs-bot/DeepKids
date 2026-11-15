@@ -2115,16 +2115,16 @@
     },
     {
      "t": "perspective",
-     "p": "Two cousins in Hyderabad, Rohan and Ayesha, are on the swings in their building's play area. They disagree.",
-     "a": "A strong answer uses the Swing Test, where weight changed the time very little, so Ayesha is right that the beat stays the same. It also gives Rohan his due: he is right that his swing goes higher with a big push.",
+     "p": "Two cousins in Hyderabad, the first child and the second child, are on the swings in their building's play area. They disagree.",
+     "a": "A strong answer uses the Swing Test, where weight changed the time very little, so the second child is right that the beat stays the same. It also gives the first child his due: he is right that his swing goes higher with a big push.",
      "why": "This question checks that the child can tell 'goes higher' apart from 'swings quicker', and uses evidence.",
      "views": [
       {
-       "who": "Rohan, aged 8",
+       "who": "The first child, aged 8",
        "says": "If my big sister sits on the swing, it will go back and forth faster, because she is heavier."
       },
       {
-       "who": "Ayesha, aged 9",
+       "who": "The second child, aged 9",
        "says": "Heavy or light, each swing takes about the same time. Only a push makes it go higher, not quicker."
       }
      ],
@@ -2364,19 +2364,19 @@
     {
      "t": "perspective",
      "p": "Three people talk about why a swing in a park stopped.",
-     "a": "A strong answer agrees most with Selvi, because the postcard experiment (What Makes a Swing Die Down?) showed air slowing a pendulum, and a squeaky swing loses movement at its hooks. It gives Nisha her due: gravity does keep pulling, but it pulls the swing back to the middle, it does not stop it. And it gives Ravi his due: the swing did move less and less, but the movement went somewhere, into warmth.",
+     "a": "A strong answer agrees most with the second child, because the postcard experiment (What Makes a Swing Die Down?) showed air slowing a pendulum, and a squeaky swing loses movement at its hooks. It gives the first child her due: gravity does keep pulling, but it pulls the swing back to the middle, it does not stop it. And it gives the third child his due: the swing did move less and less, but the movement went somewhere, into warmth.",
      "why": "This checks that the child can use the postcard experiment as evidence and judge three ideas fairly.",
      "views": [
       {
-       "who": "Nisha, aged 9",
+       "who": "The first child, aged 9",
        "says": "Gravity pulled it down, so it stopped."
       },
       {
-       "who": "Selvi, aged 10",
+       "who": "The second child, aged 10",
        "says": "The air pushed against it and the hooks rubbed, so it slowed a little every swing."
       },
       {
-       "who": "Ravi, aged 8",
+       "who": "The third child, aged 8",
        "says": "Its movement just ran out, like a phone battery."
       }
      ],

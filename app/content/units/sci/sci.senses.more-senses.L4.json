@@ -2727,20 +2727,20 @@
         },
         {
           "t": "perspective",
-          "p": "Anitha and her grandmother are choosing a walking stick. Her grandmother says a stick shows she is weak.",
+          "p": "The first person and her grandmother are choosing a walking stick. Her grandmother says a stick shows she is weak.",
           "views": [
             {
               "who": "Grandmother",
               "says": "A stick is a prop for weak people. I will manage without one."
             },
             {
-              "who": "Anitha",
+              "who": "The first person",
               "says": "A stick you only touch lightly is a sensor. It tells your feet where the ground is."
             }
           ],
           "ask": "Who do you agree with? Use what happens when a fingertip rests lightly on a still wall: the person stands steadier. Then say one thing the other person has right.",
           "lines": 4,
-          "a": "A strong answer agrees with Anitha, because light touch gives the brain extra balance information even when it carries no weight. It also says that Grandmother is right that a stick can be used as a prop, to take weight off a sore knee, and that this is a different use.",
+          "a": "A strong answer agrees with the first person, because light touch gives the brain extra balance information even when it carries no weight. It also says that Grandmother is right that a stick can be used as a prop, to take weight off a sore knee, and that this is a different use.",
           "why": "The light touch of a stick or a finger works as a fourth source of balance information. A prop is a different use.",
           "outcome": 1
         }
@@ -2897,21 +2897,21 @@
         },
         {
           "t": "perspective",
-          "p": "Two children, Mina and Revathi, talk about pain after one of them scrapes a knee.",
+          "p": "Two children, the first person and the second person, talk about pain after one of them scrapes a knee.",
           "views": [
             {
-              "who": "Mina",
+              "who": "The first person",
               "says": "Pain is a sense, like seeing. Special nerve endings catch harm, and the feeling is what their signal feels like."
             },
             {
-              "who": "Revathi",
+              "who": "The second person",
               "says": "The signal is not yet pain. The brain builds pain from the signal, from fear and from attention, so the same scrape can hurt a lot or a little."
             }
           ],
           "ask": "Who do you agree with? Use what happened in Ice in the Palm, when you held the ice cube and only watched it, and when you held it and counted backwards. Then say one thing the other person has right.",
           "lines": 4,
           "how": "e3",
-          "a": "A strong answer may agree with Revathi, because the same ice cube gave a different ache when the mind was busy. It can also say that Mina is right that special nerve endings catch harm, so the signal is real. Scientists still argue about which view is better.",
+          "a": "A strong answer may agree with the second person, because the same ice cube gave a different ache when the mind was busy. It can also say that the first person is right that special nerve endings catch harm, so the signal is real. Scientists still argue about which view is better.",
           "why": "This is a question that scientists still debate. Both views fit some of the evidence.",
           "outcome": 5
         },
@@ -2997,20 +2997,20 @@
         },
         {
           "t": "perspective",
-          "p": "Two friends, Jaya and Sudha, are told to 'stand still' on one foot.",
+          "p": "Two friends, the first person and the second person, are told to 'stand still' on one foot.",
           "views": [
             {
-              "who": "Jaya",
+              "who": "The first person",
               "says": "To stay balanced, you should hold your body as still as a statue."
             },
             {
-              "who": "Sudha",
+              "who": "The second person",
               "says": "A balanced body is always moving a little. It sways and corrects, again and again."
             }
           ],
           "ask": "Who do you agree with? Use what you know about the three helpers. Then say one thing the other person has right.",
           "lines": 4,
-          "a": "A strong answer agrees with Sudha, because the brain keeps correcting small sways using eyes, ears and feet. It can say that Jaya is right that big wobbling is not helpful, and that calm, small movements look still.",
+          "a": "A strong answer agrees with the second person, because the brain keeps correcting small sways using eyes, ears and feet. It can say that the first person is right that big wobbling is not helpful, and that calm, small movements look still.",
           "why": "Standing still is work. A stiff body corrects less well, and a body that moves a little all the time is the steadier one.",
           "outcome": 1
         },

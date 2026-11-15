@@ -1697,20 +1697,20 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and her brother Arun are talking about after school.",
+     "p": "The second child and her brother the first child are talking about after school.",
      "views": [
       {
-       "who": "Arun, aged 6",
+       "who": "The first child, aged 6",
        "says": "I'm tired after school. I should lie down and watch TV until dinner."
       },
       {
-       "who": "Priya, aged 9",
+       "who": "The second child, aged 9",
        "says": "We sat all day at school. We should go and play first, then rest."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right. A grown-up can write it for you.",
      "lines": 3,
-     "a": "A strong answer might agree with Priya, because sitting all day gives the muscles little work and play helps you sleep well. It also says Arun is right that his body may need some rest.",
+     "a": "A strong answer might agree with the second child, because sitting all day gives the muscles little work and play helps you sleep well. It also says the first child is right that his body may need some rest.",
      "why": "Both are partly right. A body needs both moving and resting. Which comes first can depend on how the day went."
     }
    ]
@@ -1813,10 +1813,10 @@
     },
     {
      "t": "perspective",
-     "p": "Meera's family is going to a cousin's wedding. It ends late at night, and there is school the next day.",
+     "p": "The first child's family is going to a cousin's wedding. It ends late at night, and there is school the next day.",
      "views": [
       {
-       "who": "Meera, aged 7",
+       "who": "The first child, aged 7",
        "says": "I want to stay until the end. It only happens once."
       },
       {
@@ -1855,17 +1855,17 @@
      "p": "Two friends are arguing about stretching.",
      "views": [
       {
-       "who": "Nandini, aged 8",
+       "who": "The first child, aged 8",
        "says": "Stretching is not real exercise, because it doesn't make you puff."
       },
       {
-       "who": "Joseph, aged 8",
+       "who": "The second child, aged 8",
        "says": "Stretching is exercise, because your muscles are still working."
       }
      ],
      "ask": "Who do you agree with? Use what you found in the three moves test. Then say what the other friend has right. A grown-up can write it for you.",
      "lines": 3,
-     "a": "A strong answer says stretching makes muscles work and keeps the body bendy, so it is a kind of exercise, even though it makes you breathe less than star jumps. Nandini is right that it is much gentler on the heart and lungs.",
+     "a": "A strong answer says stretching makes muscles work and keeps the body bendy, so it is a kind of exercise, even though it makes you breathe less than star jumps. The first child is right that it is much gentler on the heart and lungs.",
      "why": "Different exercise does different jobs. Fast moves work the heart and lungs. Stretching keeps muscles long and bendy.",
      "context": "This question is about the three moves test. You count your breaths after slow stretching, after walking on the spot, and after fast jumping, with a rest in between.",
      "how": "e2"

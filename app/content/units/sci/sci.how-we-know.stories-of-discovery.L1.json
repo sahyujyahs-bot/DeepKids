@@ -1411,16 +1411,16 @@
      "p": "Two friends in Chennai talk about scientists.",
      "views": [
       {
-       "who": "Lakshmi, aged 6",
+       "who": "The first child, aged 6",
        "says": "Scientists are very clever people in big laboratories."
       },
       {
-       "who": "Farhan, aged 7",
+       "who": "The second child, aged 7",
        "says": "Anyone who asks questions and tests them is a scientist."
       }
      ],
      "ask": "Who do you agree with? Use the haldi test or a story from this unit. Then say one thing the other friend got right.",
-     "a": "Many children agree with Farhan, because they did the haldi test at home and found something out. Lakshmi is right that many scientists work in laboratories and learn a lot.",
+     "a": "Many children agree with the second child, because they did the haldi test at home and found something out. The first child is right that many scientists work in laboratories and learn a lot.",
      "why": "A strong answer uses evidence, like Mary Anning on the beach or the haldi test in the kitchen. It is also fair to the other side."
     }
    ]
@@ -1490,10 +1490,10 @@
     },
     {
      "t": "perspective",
-     "p": "Meera, a girl in Hyderabad, and her grandfather talk about old books.",
+     "p": "The first child, a girl in Hyderabad, and her grandfather talk about old books.",
      "views": [
       {
-       "who": "Meera, aged 7",
+       "who": "The first child, aged 7",
        "says": "Old books are always right. They have been read for hundreds of years."
       },
       {

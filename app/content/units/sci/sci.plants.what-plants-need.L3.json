@@ -1199,14 +1199,14 @@
     },
     {
      "t": "perspective",
-     "p": "It is May in Chennai. Lakshmi, who is 8, disagrees with her grandmother and her mother about how to water the tulsi plant on their sunny balcony.",
+     "p": "It is May in Chennai. The first child, who is 8, disagrees with her grandmother and her mother about how to water the tulsi plant on their sunny balcony.",
      "views": [
       {
        "who": "Paati, the grandmother",
        "says": "Water the tulsi every morning and every evening. In this heat the soil dries out fast."
       },
       {
-       "who": "Lakshmi, aged 8",
+       "who": "The first child, aged 8",
        "says": "Water only when the top of the soil feels dry. Too much water stops the roots getting air."
       },
       {
@@ -1216,7 +1216,7 @@
      ],
      "ask": "Which idea do you agree with most? Give a reason from the tests in this unit. Then say one thing that another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and backs it with evidence. Lakshmi's finger test works in every season, and the SOAKED cups showed that too much water harms roots. A strong answer also gives others their due. Paati is right that a pot in the Chennai sun may really need water twice a day. Amma's saucer is fine if it is emptied, but kept full it soaks the soil like the SOAKED cups.",
+     "a": "A strong answer picks a side and backs it with evidence. The first child's finger test works in every season, and the SOAKED cups showed that too much water harms roots. A strong answer also gives others their due. Paati is right that a pot in the Chennai sun may really need water twice a day. Amma's saucer is fine if it is emptied, but kept full it soaks the soil like the SOAKED cups.",
      "why": "There is a real trade-off. Too little water and too much water both harm a plant, and the right amount changes with the weather. Checking the soil is a way to find the right amount each day."
     },
     {

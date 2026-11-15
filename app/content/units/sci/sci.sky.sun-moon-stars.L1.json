@@ -1368,7 +1368,7 @@
        "says": "Sunshine is too hot now. Stay in the shade, or you will get tired and thirsty."
       },
       {
-       "who": "Joseph, aged 7",
+       "who": "The first child, aged 7",
        "says": "I want to play in the sun. It is the brightest time of day."
       }
      ],
@@ -1505,18 +1505,18 @@
      "p": "Two friends are talking about the stars in the daytime.",
      "views": [
       {
-       "who": "Priya, aged 8",
+       "who": "The first child, aged 8",
        "says": "The stars are still there in the day. We can't see them because the sky is so bright."
       },
       {
-       "who": "Arjun, aged 7",
+       "who": "The second child, aged 7",
        "says": "If we can't see the stars in the day, how do we know they are there? Maybe they really go away."
       }
      ],
      "ask": "Who do you agree with? What evidence would you show the other friend? Say it, and a grown-up writes it down.",
      "lines": 3,
-     "a": "Most children agree with Priya and show the torch star test, or tell Arjun about a total eclipse, when stars appear in the day. Arjun's question is still a good one: a scientist asks how we know.",
-     "why": "A strong answer picks a side and gives evidence. It also says why Arjun's question is fair: we should ask how we know something we cannot see."
+     "a": "Most children agree with the first child and show the torch star test, or tell the second child about a total eclipse, when stars appear in the day. The second child's question is still a good one: a scientist asks how we know.",
+     "why": "A strong answer picks a side and gives evidence. It also says why the second child's question is fair: we should ask how we know something we cannot see."
     }
    ]
   }

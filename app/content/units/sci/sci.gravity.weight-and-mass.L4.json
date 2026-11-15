@@ -2648,21 +2648,21 @@
      "p": "Three friends argue about the centre of gravity of a cardboard ring.",
      "views": [
       {
-       "who": "Asha, aged 9",
+       "who": "The first child, aged 9",
        "says": "It has to be in the cardboard, because that is where the weight is."
       },
       {
-       "who": "Farhan, aged 10",
+       "who": "The second child, aged 10",
        "says": "It is in the hole. The weight of all the cardboard acts as if it were at the middle."
       },
       {
-       "who": "Meera, aged 8",
+       "who": "The third child, aged 8",
        "says": "There is no such thing. It is just a point we make up to add up all the pulls."
       }
      ],
      "ask": "Which idea do you agree with most? Use something from this unit as evidence. Then say what another friend has right.",
      "lines": 6,
-     "a": "A strong answer usually agrees with Farhan, because the plumb lines crossed in the empty hole. It admits that Meera has a point: the centre of gravity is a point that we work out by adding up the pulls, and is not a piece of the cardboard. Asha's idea does not fit what the lines showed.",
+     "a": "A strong answer usually agrees with the second child, because the plumb lines crossed in the empty hole. It admits that the third child has a point: the centre of gravity is a point that we work out by adding up the pulls, and is not a piece of the cardboard. The first child's idea does not fit what the lines showed.",
      "why": "There is a real argument here. Engineers sometimes say it is only a calculation. A strong answer uses the plumb-line evidence and is fair to the idea that it is a worked-out point.",
      "outcome": 4
     },

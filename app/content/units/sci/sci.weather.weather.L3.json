@@ -2050,17 +2050,17 @@
      "p": "Two friends in Hyderabad argue about where to put the rain gauge for their school weather diary.",
      "views": [
       {
-       "who": "Sneha, aged 9",
+       "who": "The first child, aged 9",
        "says": "Put it on the open terrace. Then all the rain can fall in."
       },
       {
-       "who": "Rohan, aged 8",
+       "who": "The second child, aged 8",
        "says": "Put it on the classroom window sill under the sunshade. Then it won't blow over, and we can read it every day."
       }
      ],
      "ask": "Whose idea gives a truer reading? Use what you know about rain gauges. Then say one good point the other friend made.",
      "lines": 5,
-     "a": "A strong answer picks Sneha for a truer reading, because a gauge under a sunshade catches little or no rain. It also gives Rohan his due: a gauge must not blow over, and it must be easy to read every day. A good answer joins both: put it on the open terrace, and weigh it down or tape it in place.",
+     "a": "A strong answer picks the first child for a truer reading, because a gauge under a sunshade catches little or no rain. It also gives the second child his due: a gauge must not blow over, and it must be easy to read every day. A good answer joins both: put it on the open terrace, and weigh it down or tape it in place.",
      "why": "Both care about something real: getting all the rain, and making the gauge safe and easy to read. The best plan meets both needs."
     },
     {
@@ -2228,17 +2228,17 @@
      "p": "Two sisters in Bengaluru look at the weather app. It says 30 °C, but 'feels like 34 °C'.",
      "views": [
       {
-       "who": "Anjali, aged 10",
+       "who": "The first child, aged 10",
        "says": "The real temperature is 30. A thermometer measured it. The 34 is just made up."
       },
       {
-       "who": "Lavanya, aged 8",
+       "who": "The second child, aged 8",
        "says": "34 is more real. That's how hot it is for us. Who cares what a thermometer feels?"
       }
      ],
      "ask": "Which sister do you agree with more? Explain. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer sees that both are partly right. Anjali is right that 30 °C was measured in the shade, and that 'feels like' is worked out from a formula, not measured. Lavanya is right that damp air and no wind make it feel hotter to people, and that matters for health. A good answer says each number answers a different question.",
+     "a": "A strong answer sees that both are partly right. The first child is right that 30 °C was measured in the shade, and that 'feels like' is worked out from a formula, not measured. The second child is right that damp air and no wind make it feel hotter to people, and that matters for health. A good answer says each number answers a different question.",
      "why": "The measured temperature describes the air. The 'feels like' number tries to describe how people's bodies cope. Different apps work it out differently."
     },
     {

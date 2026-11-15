@@ -1280,17 +1280,17 @@
      "p": "Two friends in Madurai find a snail on a wet wall.",
      "views": [
       {
-       "who": "Divya, aged 7",
+       "who": "The first child, aged 7",
        "says": "Let's take the snail home and keep her in a box. We can look after her."
       },
       {
-       "who": "Revathi, aged 8",
+       "who": "The second child, aged 8",
        "says": "Let's leave the snail on the wall. The wall is her home."
       }
      ],
      "ask": "Which friend do you agree with? Why? Then say one thing the other friend has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Revathi, because the wet wall gives the snail water and food.' Then it is fair to the other side: Divya wants to care for the snail, and looking closely teaches us a lot.",
+     "a": "A strong answer picks a side with a reason, for example: 'The second child, because the wet wall gives the snail water and food.' Then it is fair to the other side: The first child wants to care for the snail, and looking closely teaches us a lot.",
      "why": "Both friends care. A snail can be watched for a short time in a damp box with leaves, and then put back. A dry box away from her wall would harm her."
     },
     {

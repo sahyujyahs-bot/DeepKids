@@ -2402,17 +2402,17 @@
           "p": "Two friends in Bengaluru are planning a night to look at the Moon with binoculars.",
           "views": [
             {
-              "who": "Meera, aged 9",
+              "who": "The first child, aged 9",
               "says": "I will look at the full Moon, because it is the brightest and I will see the most."
             },
             {
-              "who": "Zainab, aged 10",
+              "who": "The second child, aged 10",
               "says": "I will look at the half Moon, because the craters have shadows on it."
             }
           ],
           "ask": "Who do you agree with? Use what you know about shadows. Then say one thing the other friend has right.",
           "lines": 5,
-          "a": "A strong answer sides with Zainab, because the half Moon is lit from the side and shows craters with shadows, while the full Moon is lit from behind us and looks flat. It gives Meera her due: the full Moon is the brightest and the most beautiful, and it shows bright rays and the dark plains well.",
+          "a": "A strong answer sides with the second child, because the half Moon is lit from the side and shows craters with shadows, while the full Moon is lit from behind us and looks flat. It gives the first child her due: the full Moon is the brightest and the most beautiful, and it shows bright rays and the dark plains well.",
           "why": "This tests the main idea: shadows from slanting light show shape, so a brighter Moon is not a better one for craters."
         },
         {
@@ -2562,17 +2562,17 @@
           "p": "Two friends in Mysuru are arguing about the colour of the Moon.",
           "views": [
             {
-              "who": "Latha, aged 9",
+              "who": "The first child, aged 9",
               "says": "The Moon is white. I can see it is bright white in the night sky."
             },
             {
-              "who": "Imran, aged 9",
+              "who": "The second child, aged 9",
               "says": "The Moon is dark grey. It only reflects a little of the Sun's light, like a tarred road."
             }
           ],
           "ask": "Who do you agree with? Then say one thing the other friend has right.",
           "lines": 5,
-          "a": "A strong answer sides with Imran: the Moon sends back only about 12 parts in 100 of the sunlight that falls on it, so it is dark grey. It gives Latha her due: it looks white because the night sky around it is black, and she describes what we see.",
+          "a": "A strong answer sides with the second child: the Moon sends back only about 12 parts in 100 of the sunlight that falls on it, so it is dark grey. It gives the first child her due: it looks white because the night sky around it is black, and she describes what we see.",
           "why": "This tests whether a child separates what a thing is from how it looks against its surroundings."
         },
         {
@@ -2706,17 +2706,17 @@
           "p": "Two friends want to photograph craters on the Moon with a phone and binoculars.",
           "views": [
             {
-              "who": "Sneha, aged 10",
+              "who": "The first child, aged 10",
               "says": "We should wait for the quarter Moon, since the craters show up near the line between day and night."
             },
             {
-              "who": "Rahul, aged 10",
+              "who": "The second child, aged 10",
               "says": "We should photograph the full Moon, since there is more light and the photo will be sharper."
             }
           ],
           "ask": "Who has the better plan? Say why. Then say one good thing about the other plan.",
           "lines": 5,
-          "a": "A strong answer picks Sneha's plan, because shadows along the terminator show shape. It gives Rahul his due: a full Moon is bright, so a short exposure is easy, and the photo can show the bright rays and dark plains well. Neither plan involves looking at the Sun.",
+          "a": "A strong answer picks the first child's plan, because shadows along the terminator show shape. It gives the second child his due: a full Moon is bright, so a short exposure is easy, and the photo can show the bright rays and dark plains well. Neither plan involves looking at the Sun.",
           "why": "This is a real trade-off between brightness and detail. Both give something."
         },
         {

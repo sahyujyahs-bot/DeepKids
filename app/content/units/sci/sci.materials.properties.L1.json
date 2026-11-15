@@ -1368,20 +1368,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her friend Thenmozhi are looking at a bucket of water in Madurai.",
+     "p": "The first child and her friend the second child are looking at a bucket of water in Madurai.",
      "views": [
       {
-       "who": "Kavya, aged 6",
+       "who": "The first child, aged 6",
        "says": "Water is not shiny. You can see right through it. Only steel and mirrors are shiny."
       },
       {
-       "who": "Thenmozhi, aged 7",
+       "who": "The second child, aged 7",
        "says": "Still water is shiny. In the Torch Spot Test it made a bright spot on the ceiling, and I can see my face in it."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives evidence. For Thenmozhi: the water made a bright spot, and it shows faces when still. For Kavya: you can see through water, and its spot was fainter than the mirror's.",
+     "a": "A strong answer picks a side and gives evidence. For the second child: the water made a bright spot, and it shows faces when still. For the first child: you can see through water, and its spot was fainter than the mirror's.",
      "why": "Both girls see something true. Water lets most light through, so it shines less than a mirror. But its smooth surface still reflects some light back in one direction, so still water shines.",
      "how": "e1"
     },
@@ -1472,14 +1472,14 @@
     },
     {
      "t": "perspective",
-     "p": "Meera and her sister Anu are folding a cotton towel in Kochi.",
+     "p": "The first child and her sister the second child are folding a cotton towel in Kochi.",
      "views": [
       {
-       "who": "Meera, aged 7",
+       "who": "The first child, aged 7",
        "says": "This towel is soft. When I squeeze it, it squashes."
       },
       {
-       "who": "Anu, aged 6",
+       "who": "The second child, aged 6",
        "says": "No, this towel is rough. When I rub it on my cheek, I feel little loops."
       }
      ],

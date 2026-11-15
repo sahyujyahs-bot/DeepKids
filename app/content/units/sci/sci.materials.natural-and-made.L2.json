@@ -1459,10 +1459,10 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her grandfather are choosing plates for a big family lunch at Onam.",
+     "p": "The first child and her grandfather are choosing plates for a big family lunch at Onam.",
      "views": [
       {
-       "who": "Kavya, aged 8",
+       "who": "The first child, aged 8",
        "says": "Let's use banana leaves. They are natural, and they break down in the soil afterwards."
       },
       {
@@ -1564,18 +1564,18 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi and her friend Farhan see a paper wasp's nest on a balcony.",
+     "p": "The first child and her friend the second child see a paper wasp's nest on a balcony.",
      "views": [
       {
-       "who": "Meenakshi, aged 8",
+       "who": "The first child, aged 8",
        "says": "The nest is natural. A wasp made it, and wasps are part of nature."
       },
       {
-       "who": "Farhan, aged 7",
+       "who": "The second child, aged 7",
        "says": "Then notebooks are natural too. People are animals, and people make paper from wood too."
       }
      ],
-     "ask": "Do you agree with Meenakshi, Farhan, or both? Give a reason. Then say one way a wasp's paper and the paper in a notebook are different.",
+     "ask": "Do you agree with the first child, the second child, or both? Give a reason. Then say one way a wasp's paper and the paper in a notebook are different.",
      "lines": 3,
      "a": "A strong answer gives a clear reason, for example that people are animals too, so both could be called natural. It also names a difference, for example that people use big machines, chemicals and factories.",
      "why": "There is no single right answer. It depends on where we draw the line between natural and made."

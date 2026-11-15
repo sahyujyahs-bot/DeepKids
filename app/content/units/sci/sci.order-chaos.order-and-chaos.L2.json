@@ -1434,20 +1434,20 @@
     },
     {
      "t": "perspective",
-     "p": "Arjun, a boy in Class 2, and his older sister Meenakshi watch a dry leaf fall from a tree.",
+     "p": "The first person, a boy in Class 2, and his older sister the second person watch a dry leaf fall from a tree.",
      "views": [
       {
-       "who": "Arjun",
+       "who": "The first person",
        "says": "Nobody can say where it will land, so it is just luck. No rules decide it."
       },
       {
-       "who": "Meenakshi",
+       "who": "The second person",
        "says": "Gravity pulls it and the air pushes it every time. So rules decide where it lands."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For example, agreeing with Meenakshi because gravity pulls the leaf and the air pushes it the same way each time. It also says Arjun is right that nobody can predict where it lands.",
+     "a": "A strong answer picks a side and gives a reason. For example, agreeing with the second person because gravity pulls the leaf and the air pushes it the same way each time. It also says the first person is right that nobody can predict where it lands.",
      "why": "Both have a point. The leaf follows rules, but tiny changes make it impossible to predict. A strong answer uses the paper leaf test as evidence."
     },
     {
@@ -1522,10 +1522,10 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and her Amma are drawing a kolam. Their neighbour, Fatima Aunty, is watching the rain.",
+     "p": "The first person and her Amma are drawing a kolam. Their neighbour, Fatima Aunty, is watching the rain.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first person",
        "says": "Neat things like a kolam are better, because we can make them again."
       },
       {
@@ -1535,7 +1535,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For example, agreeing with Lakshmi because you can plan with order. It also says what Fatima Aunty has right: messy things bring surprises and are never boring.",
+     "a": "A strong answer picks a side with a reason. For example, agreeing with the first person because you can plan with order. It also says what Fatima Aunty has right: messy things bring surprises and are never boring.",
      "why": "There is no single right answer. Order lets us repeat and plan. Chaos brings new things every time. A strong answer sees what each side gets right."
     },
     {

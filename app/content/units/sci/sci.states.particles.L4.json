@@ -2352,21 +2352,21 @@
     },
     {
      "t": "perspective",
-     "p": "Meena and Farhan are talking about the particles in a steel spoon.",
+     "p": "The first person and the second person are talking about the particles in a steel spoon.",
      "views": [
       {
-       "who": "Meena",
+       "who": "The first person",
        "says": "A steel spoon does not move, so its particles are completely still."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "The particles in a spoon jiggle on the spot. If you heat the spoon, they jiggle harder."
       }
      ],
      "ask": "Who do you agree with? Give a reason. Then say one thing that the other person has right.",
      "lines": 4,
-     "a": "A strong answer agrees with Farhan, because a hot spoon is evidence the particles move, since heat is movement. It also says Meena is right that the spoon as a whole does not move, and that the particles stay in their places.",
-     "why": "Both have part of it. The spoon stays where it is, and its particles stay in their places, as Meena says. But they jiggle on the spot all the time, as Farhan says, and heating makes the jiggle bigger.",
+     "a": "A strong answer agrees with the second person, because a hot spoon is evidence the particles move, since heat is movement. It also says the first person is right that the spoon as a whole does not move, and that the particles stay in their places.",
+     "why": "Both have part of it. The spoon stays where it is, and its particles stay in their places, as the first person says. But they jiggle on the spot all the time, as the second person says, and heating makes the jiggle bigger.",
      "outcome": 1
     }
    ]
@@ -2553,21 +2553,21 @@
     },
     {
      "t": "perspective",
-     "p": "Asha and Ravi are talking about a table.",
+     "p": "The first person and the second person are talking about a table.",
      "views": [
       {
-       "who": "Asha",
+       "who": "The first person",
        "says": "A table is solid, so there is no empty space inside it."
       },
       {
-       "who": "Ravi",
+       "who": "The second person",
        "says": "Even a table is mostly empty space, because atoms are mostly empty space. It feels hard because the atoms push on each other."
       }
      ],
      "ask": "Who do you agree with? Give a reason from the unit. Then say one thing that the other person has right.",
      "lines": 4,
-     "a": "A strong answer agrees with Ravi, because atoms are mostly empty space, and the hardness comes from the push between atoms. It also says Asha is right that a table is a solid, with its particles held in place.",
-     "why": "Both are partly right. A table is a solid, as Asha says. But it is full of gaps, as Ravi says, because even atoms are mostly empty space.",
+     "a": "A strong answer agrees with the second person, because atoms are mostly empty space, and the hardness comes from the push between atoms. It also says the first person is right that a table is a solid, with its particles held in place.",
+     "why": "Both are partly right. A table is a solid, as the first person says. But it is full of gaps, as the second person says, because even atoms are mostly empty space.",
      "outcome": 6
     }
    ]

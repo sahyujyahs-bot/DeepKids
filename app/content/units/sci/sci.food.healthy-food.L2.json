@@ -1496,20 +1496,20 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and her brother Vikram are looking at a packet of chips.",
+     "p": "The second person and her brother the first person are looking at a packet of chips.",
      "views": [
       {
-       "who": "Vikram",
+       "who": "The first person",
        "says": "Chips are made from potato. Potato is a go food. So chips are healthy."
       },
       {
-       "who": "Priya",
+       "who": "The second person",
        "says": "Chips are a treat. They are fried in oil and have lots of salt."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Priya, because frying adds lots of oil, and chips have lots of salt.' Then it is fair to Vikram: chips really are made from potato, and they do give energy.",
+     "a": "A strong answer picks a side with a reason, for example: 'The second person, because frying adds lots of oil, and chips have lots of salt.' Then it is fair to the first person: chips really are made from potato, and they do give energy.",
      "why": "Both are partly right. Chips start as potato, a go food. But frying and salt change them, so they give lots of energy and salt, and very little that protects you."
     },
     {
@@ -1564,20 +1564,20 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her grandmother are talking about milk.",
+     "p": "The first person and her grandmother are talking about milk.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "Milk is a grow food. It goes on the red sheet only."
       },
       {
-       "who": "Kavya's grandmother",
+       "who": "The first person's grandmother",
        "says": "Milk does all three jobs. It helps you grow, gives energy and keeps bones strong."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, for example: 'Grandmother, because milk has protein, fat and sugar, and calcium too.' Then it is fair to Kavya: growing is the job milk is best known for.",
+     "a": "A strong answer picks a side and gives a reason, for example: 'Grandmother, because milk has protein, fat and sugar, and calcium too.' Then it is fair to the first person: growing is the job milk is best known for.",
      "why": "Most foods do more than one job. Sorting by the main job is a handy short cut, but it hides the rest."
     },
     {

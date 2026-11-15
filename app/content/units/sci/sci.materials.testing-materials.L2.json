@@ -1505,14 +1505,14 @@
     },
     {
      "t": "perspective",
-     "p": "Revathi and her brother Arun are buying a bag for vegetables.",
+     "p": "The first child and her brother the second child are buying a bag for vegetables.",
      "views": [
       {
-       "who": "Revathi, aged 8",
+       "who": "The first child, aged 8",
        "says": "Buy a cloth bag. It held the full bottle in our bottle lift, and we can use it for years."
       },
       {
-       "who": "Arun, aged 6",
+       "who": "The second child, aged 6",
        "says": "Take a polythene bag. It is waterproof, so wet vegetables will not leak."
       }
      ],
@@ -1709,10 +1709,10 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and her grandmother are wrapping lunch for a picnic in the rain.",
+     "p": "The first child and her grandmother are wrapping lunch for a picnic in the rain.",
      "views": [
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The first child, aged 7",
        "says": "Use foil. It kept the circle dry in our spot test."
       },
       {

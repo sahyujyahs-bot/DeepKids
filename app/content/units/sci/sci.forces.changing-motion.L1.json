@@ -1393,20 +1393,20 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Lakshmi and her friend Farhan roll a ball across the floor in Hyderabad. It slows down and stops.",
+     "p": "The second child and her friend the first child roll a ball across the floor in Hyderabad. It slows down and stops.",
      "views": [
       {
-       "who": "Farhan, aged 6",
+       "who": "The first child, aged 6",
        "says": "The ball stopped by itself. Nobody touched it."
       },
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The second child, aged 7",
        "says": "Something did stop it. The floor rubbed against it. On the towel it stopped even sooner."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with evidence. For Lakshmi: the ball stopped sooner on a towel, so something outside the ball slows it. For Farhan: no person touched it, and the push from the floor is too small to see.",
+     "a": "A strong answer picks a side with evidence. For the second child: the ball stopped sooner on a towel, so something outside the ball slows it. For the first child: no person touched it, and the push from the floor is too small to see.",
      "why": "Both see something true. No hand touched the ball, but the floor and the air push against it all the time. That is why it stops sooner on a rough towel.",
      "how": "c1"
     },

@@ -2161,11 +2161,11 @@
      "why": "Pick-a-side questions have no single right side. Marks go for using the idea of the wobble and for stating the other view fairly.",
      "views": [
       {
-       "who": "Sneha",
+       "who": "The first person",
        "says": "Three tries are enough to see whether the numbers stay close together. More tries take longer, and I might get bored and make mistakes."
       },
       {
-       "who": "Hari",
+       "who": "The second person",
        "says": "Ten tries show the wobble far better. If the test is quick, there is no reason not to do more."
       }
      ],
@@ -2382,11 +2382,11 @@
      "why": "Pick-a-side questions have no single right side. Marks go for comparing the gap with the wobble and for stating the other view fairly.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "Fewer mosquitoes in the tulsi corner is what we expected. The numbers agree, so tulsi probably works."
       },
       {
-       "who": "Arun",
+       "who": "The second person",
        "says": "The nightly counts swing by much more than the difference of one. We cannot tell chance from a real effect, so we should keep counting."
       }
      ],

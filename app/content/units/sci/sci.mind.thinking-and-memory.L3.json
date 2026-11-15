@@ -2155,14 +2155,14 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi and Farhan, two children in Class 4, disagree about memory.",
+     "p": "The first person and the second person, two children in Class 4, disagree about memory.",
      "views": [
       {
-       "who": "Meenakshi",
+       "who": "The first person",
        "says": "Some people are just born with a better memory. My cousin remembers everything without trying."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "Anyone can have a good memory. It depends on practice and on the tricks you use."
       }
      ],

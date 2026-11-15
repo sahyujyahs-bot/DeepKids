@@ -2144,17 +2144,17 @@
      "p": "Two friends in Kochi are talking about the Sun.",
      "views": [
       {
-       "who": "Anjana, aged 9",
+       "who": "The first child, aged 9",
        "says": "The Sun can't be dangerous. Its light feels gentle and warm on my hands."
       },
       {
-       "who": "Rehana, aged 8",
+       "who": "The second child, aged 8",
        "says": "The Sun is very dangerous. A magnifying glass made its light burn paper."
       }
      ],
      "ask": "Who do you agree with? Use what you saw in the Sun Dot experiment. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer says both are partly right. Spread-out sunlight on the skin is gentle for a short time, as Anjana says, though it can still burn skin over a long time. Gathered by a lens, the same light is fierce enough to burn paper, as Rehana saw. The eye has a lens, so looking at the Sun is dangerous, even though sunlight on the hands is not.",
+     "a": "A strong answer says both are partly right. Spread-out sunlight on the skin is gentle for a short time, as the first child says, though it can still burn skin over a long time. Gathered by a lens, the same light is fierce enough to burn paper, as the second child saw. The eye has a lens, so looking at the Sun is dangerous, even though sunlight on the hands is not.",
      "why": "This tests the main idea of the unit: how strong sunlight is depends on how much is gathered into one place.",
      "how": "e1"
     },
@@ -2323,17 +2323,17 @@
        "says": "Stay indoors with the curtains shut. It is not worth any risk."
       },
       {
-       "who": "Kavya, aged 10",
+       "who": "The first child, aged 10",
        "says": "Let's watch it with a colander and a mirror picture. Then nobody looks at the Sun."
       },
       {
-       "who": "Kavya's uncle",
+       "who": "The first child's uncle",
        "says": "I'll just look quickly through my sunglasses."
       }
      ],
      "ask": "Whose plan would you choose? Explain why using what you know about the eye. Then say what is sensible about one of the other plans.",
      "lines": 5,
-     "a": "A strong answer picks Kavya's plan, because the colander and the mirror make pictures of the Sun, so no sunlight is gathered into anyone's eye. It explains that sunglasses let through far too much light, and the retina has no pain nerves to give a warning, so the uncle's plan is dangerous. It also gives the grandmother her due: staying indoors is completely safe, and she is right to take the risk seriously, though the family would miss the eclipse.",
+     "a": "A strong answer picks the first child's plan, because the colander and the mirror make pictures of the Sun, so no sunlight is gathered into anyone's eye. It explains that sunglasses let through far too much light, and the retina has no pain nerves to give a warning, so the uncle's plan is dangerous. It also gives the grandmother her due: staying indoors is completely safe, and she is right to take the risk seriously, though the family would miss the eclipse.",
      "why": "There is a real choice between being completely safe and seeing the eclipse safely. Only the uncle's plan is truly harmful."
     },
     {

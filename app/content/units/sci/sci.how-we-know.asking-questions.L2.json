@@ -1545,20 +1545,20 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Two girls in Kolkata, Mitali and Rumki, predict what happens when you push a pencil into a bottle of rice and lift it.",
+     "p": "Two girls in Kolkata, the first child and the second child, predict what happens when you push a pencil into a bottle of rice and lift it.",
      "views": [
       {
-       "who": "Mitali, aged 7",
+       "who": "The first child, aged 7",
        "says": "The bottle will come up, because the rice will hold the pencil."
       },
       {
-       "who": "Rumki, aged 8",
+       "who": "The second child, aged 8",
        "says": "The pencil will slide out, because the rice is loose and there are gaps."
       }
      ],
      "ask": "Who do you agree with? Use what you saw in the Rice Bottle Lift. Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer: Rumki is right for loose rice, because the grains slide. Mitali is right once the rice is packed tight, because then it grips the pencil. Both are right, in different cases.",
+     "a": "A strong answer: The second child is right for loose rice, because the grains slide. The first child is right once the rice is packed tight, because then it grips the pencil. Both are right, in different cases.",
      "why": "Both girls have part of the answer. The test showed that it depends on how tightly the rice is packed.",
      "how": "e1"
     },

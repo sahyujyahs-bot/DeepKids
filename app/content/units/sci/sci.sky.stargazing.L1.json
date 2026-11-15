@@ -1329,11 +1329,11 @@
      "p": "Three people are looking at the Moon. They have different ideas about whether the Moon is a light.",
      "views": [
       {
-       "who": "Farhana, aged 7",
+       "who": "The first child, aged 7",
        "says": "The Moon is a light. It lights up the road at night."
       },
       {
-       "who": "Meenakshi, aged 9",
+       "who": "The second child, aged 9",
        "says": "The Moon is not a light source. Its light comes from the Sun."
       },
       {
@@ -1343,7 +1343,7 @@
      ],
      "ask": "Say out loud, and a grown-up writes it: who do you agree with most? Why? Then say one good thing about someone else's idea.",
      "lines": 3,
-     "a": "Any choice with a good reason. Farhana is right that moonlight helps us see. Meenakshi is right that the Moon makes no light of its own. Ammamma joins both ideas.",
+     "a": "Any choice with a good reason. The first child is right that moonlight helps us see. The second child is right that the Moon makes no light of its own. Ammamma joins both ideas.",
      "why": "A strong answer gives a reason, and fairly says what is good about another view. Moonlight is real light that helps us see, and it all started at the Sun."
     },
     {

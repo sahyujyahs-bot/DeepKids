@@ -1862,20 +1862,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two cousins in Kochi are writing down the cricket score. Ammu draws a dot for every ball with no runs. Arjun leaves those balls blank.",
+     "p": "Two cousins in Kochi are writing down the cricket score. The first child draws a dot for every ball with no runs. The second child leaves those balls blank.",
      "views": [
       {
-       "who": "Ammu, aged 9",
+       "who": "The first child, aged 9",
        "says": "If I don't mark the balls with no runs, I can't count how many balls were bowled."
       },
       {
-       "who": "Arjun, aged 8",
+       "who": "The second child, aged 8",
        "says": "Nothing happened on those balls, so there is nothing to write. Blanks are quicker."
       }
      ],
      "ask": "Which cousin do you agree with? Use what you learned about zero. Then say one thing the other cousin has right.",
      "lines": 5,
-     "a": "A strong answer agrees with Ammu: without a mark, nobody can count the balls, just as a blank at the end of 520 gets missed. It also gives Arjun his due: it is true that no runs were scored, and blanks are quicker if all you need is the total runs.",
+     "a": "A strong answer agrees with the first child: without a mark, nobody can count the balls, just as a blank at the end of 520 gets missed. It also gives the second child his due: it is true that no runs were scored, and blanks are quicker if all you need is the total runs.",
      "why": "Both views have something true. The question is what the score sheet is for: if you only need the runs, blanks are enough, but to count balls, every ball needs a mark."
     },
     {
@@ -2107,7 +2107,7 @@
      "p": "A family in Kolkata is arguing about who invented zero.",
      "views": [
       {
-       "who": "Bina, aged 10",
+       "who": "The first child, aged 10",
        "says": "Zero was invented in India. That is a fact."
       },
       {
@@ -2121,7 +2121,7 @@
      ],
      "ask": "Who do you think is most right? Use what you know about a sign for an empty place and a number with rules. Then say what each of the others has right.",
      "lines": 6,
-     "a": "A strong answer sees that all three have part of it. A sign for an empty place was made in more than one place. Treating zero as a number with its own rules, inside the ten-digit system the world uses, is something different. So the grandmother's view fits best, but Bina is right that our zero came from India, and the aunt is right that others found the idea too.",
+     "a": "A strong answer sees that all three have part of it. A sign for an empty place was made in more than one place. Treating zero as a number with its own rules, inside the ten-digit system the world uses, is something different. So the grandmother's view fits best, but the first child is right that our zero came from India, and the aunt is right that others found the idea too.",
      "why": "This is a real argument among historians. The answer depends on what 'inventing zero' means: a sign for an empty place, or a number with rules."
     },
     {
@@ -2236,14 +2236,14 @@
     },
     {
      "t": "perspective",
-     "p": "Two girls in Class 3 in Pune, Ishita and Rukhsana, are talking about the number 0.",
+     "p": "Two girls in Class 3 in Pune, the first person and the second person, are talking about the number 0.",
      "views": [
       {
-       "who": "Ishita",
+       "who": "The first person",
        "says": "Zero is something people invented, like a word."
       },
       {
-       "who": "Rukhsana",
+       "who": "The second person",
        "says": "Zero was already there. People only found a sign for it."
       }
      ],

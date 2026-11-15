@@ -1122,7 +1122,7 @@
      "p": "A family is deciding what to do with their old newspapers.",
      "views": [
       {
-       "who": "Lakshmi, aged 9",
+       "who": "The first child, aged 9",
        "says": "Sell them to the kabadiwala. They go to a paper mill and become new paper, so fewer trees are cut."
       },
       {
@@ -1452,13 +1452,13 @@
        "says": "A cotton bag takes a lot of water and energy to make. It is only better if it is used many, many times. But a plastic bag can last for centuries as litter."
       },
       {
-       "who": "Anjali, aged 10",
+       "who": "The first child, aged 10",
        "says": "The best bag is the one I already have at home, used again and again until it falls apart."
       }
      ],
      "ask": "Whose view do you agree with most? Use what you found in the bag test or in this unit. Then answer back from one of the other views.",
      "lines": 5,
-     "a": "A strong answer weighs the real costs. Making a cotton bag uses far more water and energy than making a plastic one, so Revathi has a point. But the bag test shows a cloth bag carries much more and lasts for years, and a plastic bag that escapes does not rot. Anjali's view follows the order of the Rs: reusing what you already have avoids making anything new. A strong answer picks a side, backs it with a fact, and is fair to another view.",
+     "a": "A strong answer weighs the real costs. Making a cotton bag uses far more water and energy than making a plastic one, so Revathi has a point. But the bag test shows a cloth bag carries much more and lasts for years, and a plastic bag that escapes does not rot. The first child's view follows the order of the Rs: reusing what you already have avoids making anything new. A strong answer picks a side, backs it with a fact, and is fair to another view.",
      "why": "Scientists who compare bags find that the answer depends on how many times each bag is used, and on what happens to it at the end. There is no bag that is best in every way.",
      "how": "e3"
     },

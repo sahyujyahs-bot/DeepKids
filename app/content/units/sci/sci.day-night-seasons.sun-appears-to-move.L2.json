@@ -1712,21 +1712,21 @@
      "p": "Three friends are arguing about the Sun's path.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "The Sun moves across the sky. I can see it with my own eyes, by the shadows."
       },
       {
-       "who": "Nila",
+       "who": "The second person",
        "says": "The Earth turns. The Sun only seems to move, like trees from a train."
       },
       {
-       "who": "Arjun",
+       "who": "The third person",
        "says": "From the ground, you cannot tell which one is moving. Both ways describe the same day."
       }
      ],
      "ask": "Who do you agree with? Give one reason from your own tests. Then say one thing another friend has right.",
      "lines": 4,
-     "a": "A strong answer picks a side and uses evidence. Kavya is right about what we see. Nila is right about why: the Earth turns. Arjun is right that we cannot tell it from the ground.",
+     "a": "A strong answer picks a side and uses evidence. The first person is right about what we see. The second person is right about why: the Earth turns. The third person is right that we cannot tell it from the ground.",
      "why": "Scientists agree the Earth turns, and that explains the sky most simply. But from the ground, the Sun really does appear to move. Each friend sees part of it."
     },
     {
@@ -1898,20 +1898,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends, Sunita and Imran, disagree about when noon is.",
+     "p": "Two friends, the first person and the second person, disagree about when noon is.",
      "views": [
       {
-       "who": "Sunita",
+       "who": "The first person",
        "says": "Noon is when the clock says 12 o'clock."
       },
       {
-       "who": "Imran",
+       "who": "The second person",
        "says": "Noon is when the shadows are shortest, because the Sun is highest."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 4,
-     "a": "A strong answer picks a side with a reason. Sunita is right that clocks call 12 o'clock noon, so everyone shares one time. Imran is right that the Sun's noon is when shadows are shortest. In many Indian cities that is a little after or a little before 12.",
+     "a": "A strong answer picks a side with a reason. The first person is right that clocks call 12 o'clock noon, so everyone shares one time. The second person is right that the Sun's noon is when shadows are shortest. In many Indian cities that is a little after or a little before 12.",
      "why": "Clock noon and Sun noon are not exactly the same. All of India uses one clock time, but the Sun is highest at slightly different times in different cities."
     },
     {

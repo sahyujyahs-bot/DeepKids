@@ -1398,14 +1398,14 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi and her brother Arjun did the Secret Packet test.",
+     "p": "The first child and her brother the second child did the Secret Packet test.",
      "views": [
       {
-       "who": "Meenakshi, aged 7",
+       "who": "The first child, aged 7",
        "says": "My hand is great at feeling. It felt the packet in the empty bag every time."
       },
       {
-       "who": "Arjun, aged 6",
+       "who": "The second child, aged 6",
        "says": "Hands are bad at feeling. Mine missed the packet in the heavy bag."
       }
      ],
@@ -1554,20 +1554,20 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmamma sells tomatoes in a market. Her son Ravi helps her. They talk about holding bags of vegetables.",
+     "p": "Lakshmamma sells tomatoes in a market. Her son the first child helps her. They talk about holding bags of vegetables.",
      "views": [
       {
        "who": "Lakshmamma",
        "says": "I always weigh on my balance. It is fair to everyone."
       },
       {
-       "who": "Ravi, aged 9",
+       "who": "The first child, aged 9",
        "says": "I can tell how heavy a bag is just by holding it. The balance takes too long."
       }
      ],
      "ask": "Who do you agree with? Use the Secret Packet test to say why. A grown-up can write it down. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Lakshmamma for heavy bags, because a hand can miss a small extra in a heavy load. It also says Ravi is right that a hand can guess quickly, and can feel small changes in light bags.",
+     "a": "A strong answer agrees with Lakshmamma for heavy bags, because a hand can miss a small extra in a heavy load. It also says the first child is right that a hand can guess quickly, and can feel small changes in light bags.",
      "why": "A strong answer uses evidence from the test and is fair to both sides.",
      "how": "e1",
      "context": "This question is about the Secret Packet test. With your eyes shut, you hold a cloth bag while a grown-up sometimes slips in a small packet of rice. First the bag is empty, then it holds two full water bottles."
@@ -1604,10 +1604,10 @@
     },
     {
      "t": "perspective",
-     "p": "Divya touches the leaf of a touch-me-not plant, and the leaves fold up.",
+     "p": "The first child touches the leaf of a touch-me-not plant, and the leaves fold up.",
      "views": [
       {
-       "who": "Divya, aged 8",
+       "who": "The first child, aged 8",
        "says": "The plant felt my finger's push, so she folded her leaves."
       },
       {

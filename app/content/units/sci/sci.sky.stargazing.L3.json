@@ -1910,14 +1910,14 @@
     },
     {
      "t": "perspective",
-     "p": "Meena, a girl in Class 3, says the Saptarishi is not real, because its stars are not together. Her grandmother says it is real, because everyone can see it. Their neighbour Asha, an astronomer, has a third view.",
+     "p": "The first child, a girl in Class 3, says the Saptarishi is not real, because its stars are not together. Her grandmother says it is real, because everyone can see it. Their neighbour Asha, an astronomer, has a third view.",
      "views": [
       {
-       "who": "Meena, aged 8",
+       "who": "The first child, aged 8",
        "says": "The stars are at different distances. The ladle is just an accident of where we are. It is not a real thing."
       },
       {
-       "who": "Meena's grandmother",
+       "who": "The first child's grandmother",
        "says": "Everyone on Earth sees the same ladle, and people have seen it for thousands of years. That makes it real."
       },
       {
@@ -1927,7 +1927,7 @@
      ],
      "ask": "Who do you agree with most? Give a reason from the Thread Saptarishi model. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence: from the side, the paper stars did not make a ladle, so Meena has a point. But it also admits that from Earth the ladle really does show every time, as the grandmother says.",
+     "a": "A strong answer picks a side with evidence: from the side, the paper stars did not make a ladle, so the first child has a point. But it also admits that from Earth the ladle really does show every time, as the grandmother says.",
      "why": "This is a real question about what 'real' means. Everyone agrees on the facts: the distances and the view from Earth. They disagree about whether a view counts as a real thing."
     },
     {
@@ -2197,7 +2197,7 @@
        "says": "Our children should first learn Saptarishi, Krittika and the nakshatras. These names carry our history and festivals."
       },
       {
-       "who": "Anjali, aged 10",
+       "who": "The first child, aged 10",
        "says": "We can learn both, like knowing a place's local name and its name on a map."
       }
      ],

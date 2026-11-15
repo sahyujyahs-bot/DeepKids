@@ -1772,17 +1772,17 @@
      "p": "Two sisters in Chennai watched the Useless Step Test. They argue about the tap.",
      "views": [
       {
-       "who": "Divya, aged 9",
+       "who": "The first child, aged 9",
        "says": "People who copied the tap were being silly. They could see it did nothing."
       },
       {
-       "who": "Kavya, aged 7",
+       "who": "The second child, aged 7",
        "says": "Copying the tap was sensible. Maybe it matters in a way you can't see."
       }
      ],
      "ask": "Which sister do you agree with? Use what you found in the Useless Step Test. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer uses evidence from the test, such as how many people tapped and why they said they did. It sees both sides. Divya is right that the tap did nothing in a clear box. Kavya is right that copying every step is often useful, because some steps matter in ways we can't see.",
+     "a": "A strong answer uses evidence from the test, such as how many people tapped and why they said they did. It sees both sides. The first child is right that the tap did nothing in a clear box. The second child is right that copying every step is often useful, because some steps matter in ways we can't see.",
      "why": "Scientists still argue about why people overimitate. Both sisters have part of the answer.",
      "how": "e1"
     },

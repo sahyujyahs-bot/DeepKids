@@ -1843,21 +1843,21 @@
      "p": "Three friends are arguing about a shadow.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "A shadow belongs to the puppet. It has the puppet's shape."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "A shadow belongs to the light. With two lights, one puppet makes two shadows."
       },
       {
-       "who": "Meena",
+       "who": "The third person",
        "says": "A shadow needs the puppet and the light together. Take either away, and it is gone."
       }
      ],
      "ask": "Who do you agree with? Give one reason from your own tests. Then say one thing another friend has right.",
      "lines": 4,
-     "a": "A strong answer picks a side and uses evidence. Kavya is right that the outline comes from the puppet. Farhan is right that each light makes its own shadow. Meena is right that both are needed.",
+     "a": "A strong answer picks a side and uses evidence. The first person is right that the outline comes from the puppet. The second person is right that each light makes its own shadow. The third person is right that both are needed.",
      "why": "A shadow's shape comes from the blocker, but its place, size and number come from the light. Every view sees part of it."
     },
     {

@@ -1540,11 +1540,11 @@
      "p": "Two children talk about a scary dream.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first person",
        "says": "My dream was real, because I really felt scared."
       },
       {
-       "who": "Farhan",
+       "who": "The second person",
        "says": "Your dream was not real, because the tiger was gone when you woke up."
       }
      ],
@@ -1642,11 +1642,11 @@
      "p": "Two children talk about the door test.",
      "views": [
       {
-       "who": "Priya",
+       "who": "The first person",
        "says": "The phone fooled me, so my ears are no good."
       },
       {
-       "who": "Gurpreet",
+       "who": "The second person",
        "says": "Your ears heard a real sound. It was your guess about what made it that was wrong."
       }
      ],
@@ -1710,11 +1710,11 @@
      "p": "Two people talk about how we know things.",
      "views": [
       {
-       "who": "Nandini",
+       "who": "The first person",
        "says": "I only trust what I see with my own eyes."
       },
       {
-       "who": "Revathi",
+       "who": "The second person",
        "says": "When I see smoke from the next building, I know something is burning, even if I can't see the fire."
       }
      ],

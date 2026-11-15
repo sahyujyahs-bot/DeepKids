@@ -1270,17 +1270,17 @@
      "p": "Two friends in Chennai are going shopping for vegetables.",
      "views": [
       {
-       "who": "Divya, aged 8",
+       "who": "The first child, aged 8",
        "says": "Let's take a paper bag. Paper rots away and does not trap animals."
       },
       {
-       "who": "Ammu, aged 7",
+       "who": "The second child, aged 7",
        "says": "Let's take our cloth bag. We can use it again and again, so we make no litter at all."
       }
      ],
      "ask": "Which friend do you agree with? Why? Then say one thing the other friend has right.",
      "lines": 3,
-     "a": "Either side, with a reason. Divya is right that paper rots away and tears when wet, so an animal is less likely to get trapped. Ammu is right that a bag used many times makes the least waste.",
+     "a": "Either side, with a reason. The first child is right that paper rots away and tears when wet, so an animal is less likely to get trapped. The second child is right that a bag used many times makes the least waste.",
      "why": "A strong answer gives a reason from the unit for one side, and fairly says what the other side has right."
     },
     {
@@ -1353,7 +1353,7 @@
      "p": "After Sankranti, a family in Ahmedabad talks about kites.",
      "views": [
       {
-       "who": "Hetal, aged 9",
+       "who": "The first child, aged 9",
        "says": "We should stop flying kites. Birds get hurt every year."
       },
       {
@@ -1367,7 +1367,7 @@
      ],
      "ask": "Which view do you agree with most? Why? Then say what one of the others has right.",
      "lines": 3,
-     "a": "Any view, with a reason. Hetal is right that birds get hurt. The grandmother is right that the festival matters, and that cotton string and picking up help. The rescuer gives facts that help us choose safer ways.",
+     "a": "Any view, with a reason. The first child is right that birds get hurt. The grandmother is right that the festival matters, and that cotton string and picking up help. The rescuer gives facts that help us choose safer ways.",
      "why": "A strong answer uses a fact from the unit and is fair to another view."
     },
     {

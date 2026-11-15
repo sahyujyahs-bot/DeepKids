@@ -1197,20 +1197,20 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and Farida are talking about the Mirror Test.",
+     "p": "The first child and the second child are talking about the Mirror Test.",
      "views": [
       {
-       "who": "Priya, aged 6",
+       "who": "The first child, aged 6",
        "says": "My face is symmetric. I have one eye and one ear on each side, and my nose is in the middle."
       },
       {
-       "who": "Farida, aged 7",
+       "who": "The second child, aged 7",
        "says": "My face is not symmetric. When I put the mirror on my photo, the mirror face did not look like me."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other one has right.",
      "lines": 3,
-     "a": "A strong answer says both are partly right. Priya is right that a face has matching parts on each side. Farida is right that the halves are not exactly the same, because the mirror face looked a little different.",
+     "a": "A strong answer says both are partly right. The first child is right that a face has matching parts on each side. The second child is right that the halves are not exactly the same, because the mirror face looked a little different.",
      "why": "A face is nearly symmetric, never exactly. A child who picks either side and uses the Mirror Test as evidence is thinking well.",
      "how": "e1"
     },

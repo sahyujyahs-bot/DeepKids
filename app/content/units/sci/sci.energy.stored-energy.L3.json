@@ -2008,7 +2008,7 @@
        "says": "Throw it in the e-waste bag. If it can't light a torch, it is finished."
       },
       {
-       "who": "Revathi, aged 9",
+       "who": "The first child, aged 9",
        "says": "Put it in the wall clock. It still has energy for something that needs only a little."
       },
       {
@@ -2099,17 +2099,17 @@
      "p": "Two friends in Madurai argue about a ball held high.",
      "views": [
       {
-       "who": "Pavithra",
+       "who": "The first person",
        "says": "The stored energy is in the ball. The ball is the thing that falls."
       },
       {
-       "who": "Selvi",
+       "who": "The second person",
        "says": "The stored energy belongs to the ball and the Earth together, because it comes from the pull between them."
       }
      ],
      "ask": "Which friend do you agree with? Give a reason. Then say what the other friend has right.",
      "lines": 5,
-     "a": "A strong answer might agree with Selvi: far from the Earth there is no pull, and lifting the ball would store almost nothing, so the Earth matters. Then it says what Pavithra has right: the ball is the thing that speeds up, so saying the ball has the energy is a handy short way of talking.",
+     "a": "A strong answer might agree with the second person: far from the Earth there is no pull, and lifting the ball would store almost nothing, so the Earth matters. Then it says what the first person has right: the ball is the thing that speeds up, so saying the ball has the energy is a handy short way of talking.",
      "why": "Physicists say the energy belongs to the ball and the Earth together. Most people say it belongs to the ball, which is fine for everyday sums."
     },
     {
@@ -2285,7 +2285,7 @@
        "says": "The tank is a waste. The motor uses electricity to pump water up, so why not pump it straight to the taps?"
       },
       {
-       "who": "Zoya, aged 10",
+       "who": "The first child, aged 10",
        "says": "The tank is useful. The motor runs once, and then the water flows to the taps by itself, any time, even in a power cut."
       },
       {

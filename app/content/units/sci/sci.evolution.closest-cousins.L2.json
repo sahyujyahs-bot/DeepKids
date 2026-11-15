@@ -1453,21 +1453,21 @@
     },
     {
      "t": "perspective",
-     "p": "Sameer and his sister Divya watch a film of a young chimpanzee being tickled.",
+     "p": "The first person and his sister the second person watch a film of a young chimpanzee being tickled.",
      "views": [
       {
-       "who": "Sameer",
+       "who": "The first person",
        "says": "Only people laugh. The chimpanzee is just breathing fast."
       },
       {
-       "who": "Divya",
+       "who": "The second person",
        "says": "The chimpanzee is laughing. The laugh just sounds different from ours."
       }
      ],
      "ask": "Who do you agree with? Give one reason from the laugh test or this unit. Then say one thing the other person noticed that is true.",
      "lines": 3,
-     "a": "A strong answer agrees with Divya: young apes pant-laugh when tickled and playing, and scientists recorded it. It also says Sameer is right that the sound is like fast breathing, in and out.",
-     "why": "Sameer noticed something true about the sound. But the pant comes in play and tickling, just as our laugh does, so scientists call it laughter."
+     "a": "A strong answer agrees with the second person: young apes pant-laugh when tickled and playing, and scientists recorded it. It also says the first person is right that the sound is like fast breathing, in and out.",
+     "why": "The first person noticed something true about the sound. But the pant comes in play and tickling, just as our laugh does, so scientists call it laughter."
     },
     {
      "t": "label",
@@ -1567,21 +1567,21 @@
     },
     {
      "t": "perspective",
-     "p": "Nandini and her friend Farah talk about who leads an ape group.",
+     "p": "The first person and her friend the second person talk about who leads an ape group.",
      "views": [
       {
-       "who": "Nandini",
+       "who": "The first person",
        "says": "In ape groups, the biggest male is always the leader."
       },
       {
-       "who": "Farah",
+       "who": "The second person",
        "says": "In bonobo groups, the females often lead."
       }
      ],
      "ask": "Who do you agree with? Use what you know about gorillas and bonobos. Then say what is true in the other person's idea. (A grown-up can write it for you.)",
      "lines": 3,
-     "a": "A strong answer agrees with Farah: bonobo females often hold the top places and stick together. It also says Nandini is partly right, because a gorilla family is often led by a big silverback.",
-     "why": "Different apes live differently. Gorillas fit Nandini's idea, bonobos do not. So 'always' is the wrong word."
+     "a": "A strong answer agrees with the second person: bonobo females often hold the top places and stick together. It also says the first person is partly right, because a gorilla family is often led by a big silverback.",
+     "why": "Different apes live differently. Gorillas fit the first person's idea, bonobos do not. So 'always' is the wrong word."
     },
     {
      "t": "draw",
@@ -1652,20 +1652,20 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Meera and her aunt Rehana talk about apes in zoos.",
+     "p": "The first person and her aunt the second person talk about apes in zoos.",
      "views": [
       {
-       "who": "Meera",
+       "who": "The first person",
        "says": "Zoos keep some apes safe, and people who see them learn to care about apes."
       },
       {
-       "who": "Rehana",
+       "who": "The second person",
        "says": "Apes need big forests and their own families. A zoo is too small for them."
       }
      ],
      "ask": "Who do you agree with? Give a reason. Then say one good point the other person made. (A grown-up can write it for you.)",
      "lines": 4,
-     "a": "Either side is a good answer if it comes with a reason. For example: Rehana, because an orangutan in the wild travels through many trees and a chimpanzee lives with a big community. Meera also makes a good point: people protect what they have seen and care about.",
+     "a": "Either side is a good answer if it comes with a reason. For example: The second person, because an orangutan in the wild travels through many trees and a chimpanzee lives with a big community. The first person also makes a good point: people protect what they have seen and care about.",
      "why": "This is a real argument. A strong answer uses facts about how apes live, and is fair to the other side."
     },
     {

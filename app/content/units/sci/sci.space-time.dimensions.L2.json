@@ -1516,20 +1516,20 @@
     },
     {
      "t": "perspective",
-     "p": "Farhana and Divya are looking at a dosa on a plate.",
+     "p": "The first person and the second person are looking at a dosa on a plate.",
      "views": [
       {
-       "who": "Farhana",
+       "who": "The first person",
        "says": "A dosa is a flat shape, like a circle drawn on paper."
       },
       {
-       "who": "Divya",
+       "who": "The second person",
        "says": "A dosa is a solid. It is just very thin."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Divya, because you can lift a dosa and it has a top and a bottom, so it has a little height. It also says Farhana is right that a dosa is round and very thin, so it looks almost flat.",
+     "a": "A strong answer agrees with the second person, because you can lift a dosa and it has a top and a bottom, so it has a little height. It also says the first person is right that a dosa is round and very thin, so it looks almost flat.",
      "why": "Both have part of it. The outline of a dosa is a circle, and the dosa is thin. But a dosa has a top and a bottom, so it has height and is a solid. A pile of 100 sheets of paper is about 1 centimetre tall, and that shows that even very thin things have height."
     },
     {
@@ -1621,20 +1621,20 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and Arjun are talking about the potato cube from the slice and trace test.",
+     "p": "The first person and the second person are talking about the potato cube from the slice and trace test.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first person",
        "says": "A cube has square faces, so every cut you make will be a square."
       },
       {
-       "who": "Arjun",
+       "who": "The second person",
        "says": "When we cut off a corner, we got a triangle. So a cube can give other shapes too."
       }
      ],
      "ask": "Who do you agree with? Give your reason. Then say why the other idea makes sense at first.",
      "lines": 3,
-     "a": "A strong answer agrees with Arjun, because the corner cut gave a triangle. It also says Lakshmi's idea makes sense, because a cube's faces are squares, and a cut straight across the middle, side to side, does give a square.",
+     "a": "A strong answer agrees with the second person, because the corner cut gave a triangle. It also says the first person's idea makes sense, because a cube's faces are squares, and a cut straight across the middle, side to side, does give a square.",
      "why": "The shape of a slice depends on where you cut. A cut straight across, in line with a face, gives a square. A cut across a corner gives a triangle. The traced triangle is the evidence.",
      "how": "e1"
     },
@@ -1734,20 +1734,20 @@
     },
     {
      "t": "perspective",
-     "p": "Nithya and her grandfather are talking about the ground under their feet.",
+     "p": "The first person and her grandfather are talking about the ground under their feet.",
      "views": [
       {
-       "who": "Nithya's grandfather",
+       "who": "The first person's grandfather",
        "says": "The ground looks flat, so the Earth must be flat."
       },
       {
-       "who": "Nithya",
+       "who": "The first person",
        "says": "The Earth is a huge ball. A small piece of a huge ball looks flat."
       }
      ],
      "ask": "Who do you agree with? Give one piece of evidence. Then say why the other idea makes sense at first.",
      "lines": 3,
-     "a": "A strong answer agrees with Nithya, and gives evidence such as the round shadow of the Earth on the Moon, or photos from space. It also says the grandfather's idea makes sense, because the ground near us really does look flat.",
+     "a": "A strong answer agrees with the first person, and gives evidence such as the round shadow of the Earth on the Moon, or photos from space. It also says the grandfather's idea makes sense, because the ground near us really does look flat.",
      "why": "The Earth is a solid ball, but it is so big that the piece we stand on looks almost flat. Aristotle saw that the Earth's shadow on the Moon is always round, and only a ball does that."
     },
     {

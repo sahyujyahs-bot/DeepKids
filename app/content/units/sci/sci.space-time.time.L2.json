@@ -1712,20 +1712,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two girls, Meera and Farhana, are talking about clocks.",
+     "p": "Two girls, the first person and the second person, are talking about clocks.",
      "views": [
       {
-       "who": "Meera",
+       "who": "The first person",
        "says": "A salt timer is not a real clock. A real clock has numbers and hands."
       },
       {
-       "who": "Farhana",
+       "who": "The second person",
        "says": "A salt timer is a real clock, because the salt runs out in the same time every time."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Farhana, because my salt took 18 seconds every time.' Then it says what Meera has right: a wall clock is easier to read, and it can count a whole day.",
+     "a": "A strong answer picks a side with a reason, for example: 'The second person, because my salt took 18 seconds every time.' Then it says what the first person has right: a wall clock is easier to read, and it can count a whole day.",
      "why": "Both girls see something true. A clock needs a steady change, which the salt has. Numbers and hands make a clock easier to read, but they are not what makes it a clock."
     },
     {
@@ -1836,20 +1836,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two girls, Lakshmi and Ketki, are arguing about time.",
+     "p": "Two girls, the first person and the second person, are arguing about time.",
      "views": [
       {
-       "who": "Lakshmi",
+       "who": "The first person",
        "says": "Time is a line. Yesterday is gone and never comes back."
       },
       {
-       "who": "Ketki",
+       "who": "The second person",
        "says": "Time is a wheel. Monday comes back every week, and the rains come back every year."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Ketki, because Pongal comes every year.' Then it says what Lakshmi has right: I will never be 5 again.",
+     "a": "A strong answer picks a side with a reason, for example: 'The second person, because Pongal comes every year.' Then it says what the first person has right: I will never be 5 again.",
      "why": "Both views are old and both see something true. Days and seasons come round, but some changes never go back."
     },
     {
@@ -1926,10 +1926,10 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Rekha, a science teacher, and Mou, a girl of 9, disagree about time.",
+     "p": "The first person, a science teacher, and Mou, a girl of 9, disagree about time.",
      "views": [
       {
-       "who": "Rekha",
+       "who": "The first person",
        "says": "Time goes on by itself, even if nothing changes. Clocks only try to keep up with it."
       },
       {
@@ -1939,8 +1939,8 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Mou, because my salt timer only showed time while the salt was running.' Then it says what Rekha has right: all clocks keep together, as if they all follow one time.",
-     "why": "This is a real argument. Isaac Newton thought like Rekha. Aristotle and Nagarjuna thought more like Mou. Nobody has settled it."
+     "a": "A strong answer picks a side with a reason, for example: 'Mou, because my salt timer only showed time while the salt was running.' Then it says what the first person has right: all clocks keep together, as if they all follow one time.",
+     "why": "This is a real argument. Isaac Newton thought like the first person. Aristotle and Nagarjuna thought more like Mou. Nobody has settled it."
     },
     {
      "t": "mcq",

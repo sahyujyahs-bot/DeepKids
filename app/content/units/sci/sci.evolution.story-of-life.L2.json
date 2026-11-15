@@ -1365,21 +1365,21 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and Farhan look at the oil bowl in the dry mix test, before any water is added.",
+     "p": "The second person and the first person look at the oil bowl in the dry mix test, before any water is added.",
      "views": [
       {
-       "who": "Farhan",
-       "says": "Farhan says: Nothing happens, so the oil spoiled the powder and it can never fizz."
+       "who": "The first person",
+       "says": "The first person says: Nothing happens, so the oil spoiled the powder and it can never fizz."
       },
       {
-       "who": "Lakshmi",
-       "says": "Lakshmi says: The powder is not spoiled. It just has no water."
+       "who": "The second person",
+       "says": "The second person says: The powder is not spoiled. It just has no water."
       }
      ],
      "ask": "Who do you agree with? Give one reason from the dry mix test. Then say one thing the other person noticed that is true.",
      "lines": 3,
-     "a": "A strong answer agrees with Lakshmi, because the powder fizzed under the oil once water reached it. It also says Farhan was right that nothing happened while there was only oil.",
-     "why": "The dry mix test answers this: when water was dripped into the oil bowl, the powder fizzed. Farhan's observation was true, but his reason was not."
+     "a": "A strong answer agrees with the second person, because the powder fizzed under the oil once water reached it. It also says the first person was right that nothing happened while there was only oil.",
+     "why": "The dry mix test answers this: when water was dripped into the oil bowl, the powder fizzed. The first person's observation was true, but his reason was not."
     },
     {
      "t": "write",
@@ -1512,10 +1512,10 @@
     },
     {
      "t": "perspective",
-     "p": "Sneha and her grandmother are talking about life on Earth.",
+     "p": "The first person and her grandmother are talking about life on Earth.",
      "views": [
       {
-       "who": "Sneha",
+       "who": "The first person",
        "says": "Life is mostly big plants and animals, like trees and elephants."
       },
       {
@@ -1586,14 +1586,14 @@
     },
     {
      "t": "perspective",
-     "p": "Divya and Rukhsana are arguing about where life began.",
+     "p": "The first person and the second person are arguing about where life began.",
      "views": [
       {
-       "who": "Divya",
+       "who": "The first person",
        "says": "Life began at hot springs on the deep sea floor, where warm water is full of chemicals."
       },
       {
-       "who": "Rukhsana",
+       "who": "The second person",
        "says": "Life began in warm pools on land, which dried out and filled up again."
       }
      ],

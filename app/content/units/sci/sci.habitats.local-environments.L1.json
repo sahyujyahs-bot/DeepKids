@@ -1194,17 +1194,17 @@
      "p": "Two friends in Kochi find a big flat stone in the park.",
      "views": [
       {
-       "who": "Anu, aged 6",
+       "who": "The first child, aged 6",
        "says": "Let's lift the stone and see who lives underneath."
       },
       {
-       "who": "Fathima, aged 7",
+       "who": "The second child, aged 7",
        "says": "Let's leave the stone alone. Lifting the stone takes the roof off someone's home."
       }
      ],
      "ask": "Which friend do you agree with? Why? Then say one thing the other friend has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, such as 'Anu, because we can learn who lives there.' Then it is fair to the other side: Fathima is right that the stone is a roof for the animals.",
+     "a": "A strong answer picks a side and gives a reason, such as 'The first child, because we can learn who lives there.' Then it is fair to the other side: The second child is right that the stone is a roof for the animals.",
      "why": "Both friends have a point. Looking teaches us about small homes. Lifting the stone slowly, not touching, and putting the stone back the same way keeps the home safe."
     },
     {
@@ -1321,20 +1321,20 @@
     },
     {
      "t": "perspective",
-     "p": "Ritu and Deepa, two sisters in Pune, watch pill bugs under a flowerpot.",
+     "p": "The first child and the second child, two sisters in Pune, watch pill bugs under a flowerpot.",
      "views": [
       {
-       "who": "Ritu, aged 8",
+       "who": "The first child, aged 8",
        "says": "The pill bugs chose this damp place. They can feel where it is nice."
       },
       {
-       "who": "Deepa, aged 6",
+       "who": "The second child, aged 6",
        "says": "The pill bugs just walked fast on the dry floor and slowly in the damp. So they ended up here."
       }
      ],
      "ask": "Which sister do you agree with? Why? Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, such as 'Ritu, because the pill bugs sense the damp.' Then it is fair to the other side: Deepa is right that pill bugs really do walk faster in dry places.",
+     "a": "A strong answer picks a side with a reason, such as 'The first child, because the pill bugs sense the damp.' Then it is fair to the other side: The second child is right that pill bugs really do walk faster in dry places.",
      "why": "Scientists still describe this in both ways. Pill bugs sense dry and damp, and they also walk faster in the dry. Both sisters are using real evidence."
     },
     {

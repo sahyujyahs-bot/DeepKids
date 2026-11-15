@@ -1567,20 +1567,20 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Nandini, aged 7, and her Thatha tasted the same lemon juice in the lemon test.",
+     "p": "The first child, aged 7, and her Thatha tasted the same lemon juice in the lemon test.",
      "views": [
       {
        "who": "Thatha",
        "says": "We tasted the same lemon, so we felt the same sour. You just show your fingers differently."
       },
       {
-       "who": "Nandini",
+       "who": "The first child",
        "says": "I showed 5 fingers and you showed 2. So we felt different sours."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right. Say it out loud and a grown-up can write it down.",
      "lines": 4,
-     "a": "A strong answer picks a side with a reason. Nandini has evidence: the numbers were different. Thatha has a point too: one person's 5 may not mean the same as another person's 5. Nobody can check from the outside.",
+     "a": "A strong answer picks a side with a reason. The first child has evidence: the numbers were different. Thatha has a point too: one person's 5 may not mean the same as another person's 5. Nobody can check from the outside.",
      "why": "Both views are real. This is why scientists find experience so hard to study.",
      "how": "e2"
     },

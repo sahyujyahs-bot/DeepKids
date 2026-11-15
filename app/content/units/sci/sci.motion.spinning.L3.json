@@ -2075,17 +2075,17 @@
      "p": "Two cousins in Hyderabad are choosing a top at a toy shop.",
      "views": [
       {
-       "who": "Ananya, aged 9",
+       "who": "The first child, aged 9",
        "says": "Get the heavy one. Heavy tops always spin longest."
       },
       {
-       "who": "Kiran, aged 8",
+       "who": "The second child, aged 8",
        "says": "Weight doesn't matter at all. Only how hard you spin it matters."
       }
      ],
      "ask": "Who do you agree with more? Use what you found in the coin top test. Then say one thing the other cousin has right.",
      "lines": 5,
-     "a": "A strong answer uses the coin top test: the same coins spun longer at the edge than in the middle, so where the weight sits matters, not only how much. Ananya is partly right: a heavy rim does help. Kiran is partly right: a harder spin does make a top spin longer.",
+     "a": "A strong answer uses the coin top test: the same coins spun longer at the edge than in the middle, so where the weight sits matters, not only how much. The first child is partly right: a heavy rim does help. The second child is partly right: a harder spin does make a top spin longer.",
      "why": "Both cousins have part of the truth. The coin top test shows the place of the weight matters. A strong answer gives each cousin credit.",
      "how": "e1"
     }
@@ -2209,17 +2209,17 @@
      "p": "Two sisters in Mysuru watch their brother ride his cycle.",
      "views": [
       {
-       "who": "Pooja, aged 10",
+       "who": "The first child, aged 10",
        "says": "The cycle stays up because its wheels spin, like a top."
       },
       {
-       "who": "Nila, aged 8",
+       "who": "The second child, aged 8",
        "says": "It stays up because he steers. When it leans, he turns the handle."
       }
      ],
      "ask": "Who do you agree with more? Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer says that engineers in 2011 built a bicycle whose spinning effects cancelled out, and it still balanced itself, so steering matters most. Nila is mostly right. Pooja is right that spinning wheels help a little, and that a spinning wheel does resist tipping.",
+     "a": "A strong answer says that engineers in 2011 built a bicycle whose spinning effects cancelled out, and it still balanced itself, so steering matters most. The second child is mostly right. The first child is right that spinning wheels help a little, and that a spinning wheel does resist tipping.",
      "why": "This is a real question scientists have tested. Both sisters have part of the answer."
     },
     {

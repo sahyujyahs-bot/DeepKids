@@ -1452,21 +1452,21 @@
      "p": "Three friends watched the Step Race, where a girl walked the same path with tiny steps, giant steps and her ordinary walk.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "The first person",
        "says": "Tiny steps should win, because her feet moved the fastest."
       },
       {
-       "who": "Revathi",
+       "who": "The second person",
        "says": "Her ordinary walk won, because each step went a good way and came quickly too."
       },
       {
-       "who": "Farhan",
+       "who": "The third person",
        "says": "Giant steps should win, because she needed the fewest steps."
       }
      ],
      "ask": "Who do you agree with? Give one reason from your own Step Race. Then say one thing another friend has right.",
      "lines": 4,
-     "a": "A strong answer usually agrees with Revathi, using the clap counts from the Step Race. Kavya is right that tiny steps come fastest, but each one is short. Farhan is right that giant steps are fewest, but each one is slow.",
+     "a": "A strong answer usually agrees with the second person, using the clap counts from the Step Race. The first person is right that tiny steps come fastest, but each one is short. The third person is right that giant steps are fewest, but each one is slow.",
      "why": "Speed depends on both how far each step goes and how often a step comes. Each friend saw one half of that.",
      "how": "e1"
     },
@@ -1583,7 +1583,7 @@
      "p": "Two friends are arguing about whether a slow racer can ever win.",
      "views": [
       {
-       "who": "Bisakha",
+       "who": "The first person",
        "says": "The faster racer always wins. That is what faster means."
       },
       {
@@ -1593,7 +1593,7 @@
      ],
      "ask": "Who do you agree with? Use the Head-Start Race as your evidence. Then say when the other friend would be right.",
      "lines": 4,
-     "a": "A strong answer agrees with Thenmozhi, because the slow grown-up won the short race with a head start. Bisakha is right in a fair race with the same start line: then the faster racer always wins.",
+     "a": "A strong answer agrees with the second person, because the slow grown-up won the short race with a head start. The first person is right in a fair race with the same start line: then the faster racer always wins.",
      "why": "In a fair race, the faster racer wins. With a head start, the length of the race decides.",
      "how": "e2"
     },

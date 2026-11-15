@@ -2025,17 +2025,17 @@
      "p": "Two friends in Kochi talk about a new claim.",
      "views": [
       {
-       "who": "Nila, aged 9",
+       "who": "The first child, aged 9",
        "says": "I saw it with my own eyes. I do not need steps. I know it is true."
       },
       {
-       "who": "Kabir, aged 9",
+       "who": "The second child, aged 9",
        "says": "If nobody else can repeat it, I cannot be sure. I would like to try it myself."
       }
      ],
      "ask": "Which friend do you agree with more? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sees that others need a way to check, and that steps are what carry a discovery. It is also fair to Nila: her seeing is real and a good reason to share the steps.",
+     "a": "A strong answer sees that others need a way to check, and that steps are what carry a discovery. It is also fair to the first child: her seeing is real and a good reason to share the steps.",
      "why": "Marks go for using the idea of repeating and for being fair to the other friend."
     },
     {
@@ -2200,17 +2200,17 @@
      "p": "Two friends in Chennai talk about the Royal Society and Leeuwenhoek.",
      "views": [
       {
-       "who": "Dev, aged 9",
+       "who": "The first child, aged 9",
        "says": "It was unfair to doubt Leeuwenhoek. He was telling the truth."
       },
       {
-       "who": "Mira, aged 8",
+       "who": "The second child, aged 8",
        "says": "Doubting him was what the Society's motto asked for. He could be honest and still wrong, so they had to check."
       }
      ],
      "ask": "Which friend do you agree with more? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sees that honest people can make mistakes, so claims need checking whoever makes them. It is also fair to Dev: Leeuwenhoek was right, and a good doubter should help to check and not simply refuse.",
+     "a": "A strong answer sees that honest people can make mistakes, so claims need checking whoever makes them. It is also fair to the first child: Leeuwenhoek was right, and a good doubter should help to check and not simply refuse.",
      "why": "Marks go for being fair to both views."
     },
     {

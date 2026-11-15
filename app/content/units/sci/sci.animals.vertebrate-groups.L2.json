@@ -1671,21 +1671,21 @@
     },
     {
      "t": "perspective",
-     "p": "After the Clue Test, two children, Ammu and Divya, argue about the best clue.",
+     "p": "After the Clue Test, two children, the first person and the second person, argue about the best clue.",
      "views": [
       {
-       "who": "Ammu",
+       "who": "The first person",
        "says": "The body covering is the best clue. It put almost every animal in the right group."
       },
       {
-       "who": "Divya",
+       "who": "The second person",
        "says": "Milk is the best clue. It put the pangolin and the dolphin with the mammals."
       }
      ],
      "ask": "Who do you agree with? Use what you found in the Clue Test. Then say one thing the other person has right. A grown-up can write down what you say.",
      "lines": 3,
      "how": "e2",
-     "a": "A strong answer uses the test results. Covering sorted most animals well, so Ammu is partly right. But milk only tells you about mammals, and does nothing for a frog or a lizard. Using both clues together got every animal right.",
+     "a": "A strong answer uses the test results. Covering sorted most animals well, so the first person is partly right. But milk only tells you about mammals, and does nothing for a frog or a lizard. Using both clues together got every animal right.",
      "why": "Each clue does part of the job. Checking more than one clue works best."
     },
     {

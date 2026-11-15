@@ -1879,21 +1879,21 @@
      "p": "Three people talk about the bubbles that came up when water was poured into a glass of chana.",
      "views": [
       {
-       "who": "Divya, aged 8",
+       "who": "The first child, aged 8",
        "says": "The bubbles were air that was hiding between the grains."
       },
       {
-       "who": "Rohan, aged 9",
+       "who": "The second child, aged 9",
        "says": "The bubbles were gas coming out of the chana itself."
       },
       {
-       "who": "Amma, Divya's mother",
+       "who": "Amma, the first child's mother",
        "says": "Maybe both. Most of the bubbles came from the gaps, but a few could come from inside the grains."
       }
      ],
      "ask": "Which idea do you agree with most? Give a reason from your own Full Glass test. Then say what you would do to check another person's idea.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence: most bubbles came at once, from between the grains, as the water reached them. To check Rohan's idea, put one chana grain in water and watch whether it gives bubbles by itself.",
+     "a": "A strong answer picks a side with evidence: most bubbles came at once, from between the grains, as the water reached them. To check the second child's idea, put one chana grain in water and watch whether it gives bubbles by itself.",
      "why": "This is a real question. Dry grains do have a little air in tiny cracks, so Amma's view is fair. The test with a single grain can show how much comes from the grain itself.",
      "how": "e1"
     },
@@ -2080,24 +2080,24 @@
     },
     {
      "t": "perspective",
-     "p": "Sneha, aged 10, and her family are talking about keeping money plants in her bedroom.",
+     "p": "The first child, aged 10, and her family are talking about keeping money plants in her bedroom.",
      "views": [
       {
-       "who": "Ammamma, Sneha's grandmother",
+       "who": "Ammamma, the first child's grandmother",
        "says": "Plants use up oxygen at night. Keep them out of the bedroom."
       },
       {
-       "who": "Revathi, Sneha's mother",
+       "who": "Revathi, the first child's mother",
        "says": "Plants give us oxygen, so a bedroom full of plants makes the air much fresher."
       },
       {
-       "who": "Sneha, aged 10",
+       "who": "The first child, aged 10",
        "says": "A few plants are fine, but they only change the air a tiny bit, either way."
       }
      ],
      "ask": "Which idea do you agree with most? Use facts from this unit. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer sides with Sneha and gives reasons: plants do use oxygen at night, as Ammamma says, but very little, far less than one sleeping person. Plants do give out oxygen in light, as Revathi says, but a few plants hardly change the air of a whole room. An open window changes it far more.",
+     "a": "A strong answer sides with the first child and gives reasons: plants do use oxygen at night, as Ammamma says, but very little, far less than one sleeping person. Plants do give out oxygen in light, as Revathi says, but a few plants hardly change the air of a whole room. An open window changes it far more.",
      "why": "Each person has part of the truth. A strong answer gives Ammamma and Revathi credit for the real facts behind their ideas."
     },
     {

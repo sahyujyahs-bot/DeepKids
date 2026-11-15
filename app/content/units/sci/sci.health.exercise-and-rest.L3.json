@@ -2304,21 +2304,21 @@
     },
     {
      "t": "perspective",
-     "p": "Nandini and her cousin Vikram are arguing about the tired peg test.",
+     "p": "The first person and her cousin the second person are arguing about the tired peg test.",
      "views": [
       {
-       "who": "Nandini",
+       "who": "The first person",
        "says": "My fingers slowed down because the muscle ran out of fuel. My count fell, so the muscle was getting empty."
       },
       {
-       "who": "Vikram",
+       "who": "The second person",
        "says": "Your brain slowed you down to protect your fingers. You could have kept going if you had really tried."
       }
      ],
      "ask": "Who do you agree with? Use your own peg results. Then say one thing the other person has right.",
      "lines": 5,
      "how": "e1",
-     "a": "A strong answer picks a side with evidence. For Nandini: the counts fell even though I tried my hardest, and the arm-up test tired faster when less blood came, which points to fuel in the muscle. For Vikram: some runners can sprint at the finish, so the brain may hold some strength back. Many scientists think both happen.",
+     "a": "A strong answer picks a side with evidence. For the first person: the counts fell even though I tried my hardest, and the arm-up test tired faster when less blood came, which points to fuel in the muscle. For the second person: some runners can sprint at the finish, so the brain may hold some strength back. Many scientists think both happen.",
      "why": "Scientists still argue about this. A good answer uses evidence and is fair to the other side."
     },
     {
@@ -2470,10 +2470,10 @@
     },
     {
      "t": "perspective",
-     "p": "Pooja wants to stay up late to practise the veena for a concert. Her aunt Shalini thinks she should go to bed. Her friend Ritu says she should do both, a little.",
+     "p": "The first person wants to stay up late to practise the veena for a concert. Her aunt Shalini thinks she should go to bed. Her friend the second person says she should do both, a little.",
      "views": [
       {
-       "who": "Pooja",
+       "who": "The first person",
        "says": "More practice means I will play better. Every hour counts."
       },
       {
@@ -2481,7 +2481,7 @@
        "says": "Sleep helps your brain store what you practised. A tired player makes more mistakes."
       },
       {
-       "who": "Ritu",
+       "who": "The second person",
        "says": "Practise slowly for a short time, then sleep. You need both."
       }
      ],

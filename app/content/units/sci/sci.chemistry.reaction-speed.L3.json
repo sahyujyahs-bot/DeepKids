@@ -1918,20 +1918,20 @@
     },
     {
      "t": "perspective",
-     "p": "Revathi and her brother Arun, in Madurai, look at the foamy potato cup.",
+     "p": "The first child and her brother the second child, in Madurai, look at the foamy potato cup.",
      "views": [
       {
-       "who": "Revathi, aged 9",
+       "who": "The first child, aged 9",
        "says": "The potato made the oxygen. It's coming out of the potato."
       },
       {
-       "who": "Arun, aged 7",
+       "who": "The second child, aged 7",
        "says": "The oxygen came from the peroxide. The potato just helped."
       }
      ],
      "ask": "Who do you agree with? Use this clue: when the same potato is strained out and put into fresh peroxide, it makes it foam again. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer agrees with Arun, because the same potato made fresh peroxide foam again, so the oxygen came from the peroxide each time. Revathi has something right: the bubbles do appear on the potato, because that is where the catalase is.",
+     "a": "A strong answer agrees with the second child, because the same potato made fresh peroxide foam again, so the oxygen came from the peroxide each time. The first child has something right: the bubbles do appear on the potato, because that is where the catalase is.",
      "why": "Both children saw something real. Bubbles form on the potato, but the potato is not used up, so the oxygen must come from the peroxide.",
      "how": "e1"
     },

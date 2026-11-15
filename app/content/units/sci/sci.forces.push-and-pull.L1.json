@@ -1430,20 +1430,20 @@
     },
     {
      "t": "perspective",
-     "p": "Nandini, aged 6, and her friend Farhan, aged 5, closed a bedroom door together. Nandini was inside the room. Farhan was outside, holding the handle.",
+     "p": "The first child, aged 6, and her friend the second child, aged 5, closed a bedroom door together. The first child was inside the room. The second child was outside, holding the handle.",
      "views": [
       {
-       "who": "Nandini, aged 6",
+       "who": "The first child, aged 6",
        "says": "I pushed the door shut. It went away from me."
       },
       {
-       "who": "Farhan, aged 5",
+       "who": "The second child, aged 5",
        "says": "No, I pulled the door shut. It came towards me."
       }
      ],
      "ask": "Who is right? Why? Say one thing the other child has right. A grown-up writes your answer.",
      "lines": 3,
-     "a": "Both are right. From inside, the door moved away from Nandini, so she pushed. From outside, it came towards Farhan, so he pulled.",
+     "a": "Both are right. From inside, the door moved away from the first child, so she pushed. From outside, it came towards the second child, so he pulled.",
      "why": "A strong answer notices where each child stood. The door moved the same way, and push or pull depends on where you stand.",
      "how": "a2"
     },
@@ -1499,20 +1499,20 @@
     },
     {
      "t": "perspective",
-     "p": "Ishita and Gauri are talking about pushes and pulls.",
+     "p": "The first child and the second child are talking about pushes and pulls.",
      "views": [
       {
-       "who": "Ishita, aged 7",
+       "who": "The first child, aged 7",
        "says": "Push and pull are different. You can pull a boat with a rope, but you can't push a boat with a rope."
       },
       {
-       "who": "Gauri, aged 6",
+       "who": "The second child, aged 6",
        "says": "Push and pull are the same kind of thing. Both are forces that make a still thing start to move."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right. A grown-up writes your answer.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For Gauri: both are forces. For Ishita: a floppy rope can only pull, so for a rope they really are different.",
+     "a": "A strong answer picks a side and gives a reason. For the second child: both are forces. For the first child: a floppy rope can only pull, so for a rope they really are different.",
      "why": "Both girls see something true. Pushes and pulls are both forces. But some things, like a rope, can only pull, so builders need to know whether a part will be pushed or pulled.",
      "how": "e2"
     },

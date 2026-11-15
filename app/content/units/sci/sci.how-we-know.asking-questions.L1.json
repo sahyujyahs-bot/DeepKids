@@ -1433,21 +1433,21 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Nila and her friend Tara, two girls in Mysuru, shake a shut dabba. It goes shhh.",
+     "p": "The first child and her friend the second child, two girls in Mysuru, shake a shut dabba. It goes shhh.",
      "views": [
       {
-       "who": "Nila, aged 6",
+       "who": "The first child, aged 6",
        "says": "It is rice. I am sure. We don't need to open it."
       },
       {
-       "who": "Tara, aged 7",
+       "who": "The second child, aged 7",
        "says": "It sounds like rice, but it could be dal or salt. Let's open it and check."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks one side and gives a reason. For Tara: rice, dal and salt can all go shhh, so checking tells us which. For Nila: the shhh is a real clue, and rice is the most likely thing in a kitchen dabba.",
-     "why": "Both girls use the clue well. Nila makes a good guess from it. Tara knows that some things sound alike, so a check makes sure."
+     "a": "A strong answer picks one side and gives a reason. For the second child: rice, dal and salt can all go shhh, so checking tells us which. For the first child: the shhh is a real clue, and rice is the most likely thing in a kitchen dabba.",
+     "why": "Both girls use the clue well. The first child makes a good guess from it. The second child knows that some things sound alike, so a check makes sure."
     },
     {
      "t": "order",

@@ -1480,21 +1480,21 @@
     },
     {
      "t": "perspective",
-     "p": "Farhan and his sister Reshma look at the leaning moong shoots in the window test.",
+     "p": "The first person and his sister the second person look at the leaning moong shoots in the window test.",
      "views": [
       {
-       "who": "Farhan",
+       "who": "The first person",
        "says": "The window pulled the shoots towards it."
       },
       {
-       "who": "Reshma",
+       "who": "The second person",
        "says": "The shoots grew towards the light by themselves."
       }
      ],
      "ask": "Who do you agree with? Give one reason from your own window test. Then say one thing the other person noticed that is true.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason from the test, such as 'when we turned the cup, they turned back by themselves', and says Farhan was right that the shoots end up pointing at the window.",
-     "why": "Light does not pull. But Farhan noticed something real: the shoots do end up pointing at the window. Reshma's view explains why.",
+     "a": "A strong answer picks a side with a reason from the test, such as 'when we turned the cup, they turned back by themselves', and says the first person was right that the shoots end up pointing at the window.",
+     "why": "Light does not pull. But the first person noticed something real: the shoots do end up pointing at the window. The second person's view explains why.",
      "context": "This question is about the window test. You grew moong shoots in the dark, put them by a window, and later turned the cup round.",
      "how": "e1"
     },
@@ -1630,14 +1630,14 @@
     },
     {
      "t": "perspective",
-     "p": "Gauri and her cousin Arjun are talking about a touch-me-not.",
+     "p": "The first person and her cousin the second person are talking about a touch-me-not.",
      "views": [
       {
-       "who": "Gauri",
+       "who": "The first person",
        "says": "A touch-me-not feels a touch, just as I do."
       },
       {
-       "who": "Arjun",
+       "who": "The second person",
        "says": "A touch-me-not just reacts, like a door that shuts when you push it."
       }
      ],
@@ -1699,21 +1699,21 @@
     },
     {
      "t": "perspective",
-     "p": "Anu and her aunt Leela, a plant scientist, look at the root box.",
+     "p": "The first person and her aunt the second person, a plant scientist, look at the root box.",
      "views": [
       {
-       "who": "Anu",
+       "who": "The first person",
        "says": "The root decided to grow down."
       },
       {
-       "who": "Leela",
+       "who": "The second person",
        "says": "Heavy grains sank in the root tip, so the root grew down. That is how it works."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Can both be right at once?",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, and thinks about whether knowing how something works also tells us whether the root decided.",
-     "why": "Leela describes how the root senses gravity. Anu describes what the root does with it. Some scientists say the root decides where to grow; others use only words like Leela's."
+     "why": "The second person describes how the root senses gravity. The first person describes what the root does with it. Some scientists say the root decides where to grow; others use only words like the second person's."
     },
     {
      "t": "draw",

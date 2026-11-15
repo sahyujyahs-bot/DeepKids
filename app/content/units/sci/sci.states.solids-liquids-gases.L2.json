@@ -1407,14 +1407,14 @@
     },
     {
      "t": "perspective",
-     "p": "Meena and Divya are taking water on a long, hot train ride from Chennai to Madurai.",
+     "p": "The first child and the second child are taking water on a long, hot train ride from Chennai to Madurai.",
      "views": [
       {
-       "who": "Meena, aged 8",
+       "who": "The first child, aged 8",
        "says": "Freeze a bottle of water the night before. It stays cold for longer, and we drink it as it melts."
       },
       {
-       "who": "Divya, aged 7",
+       "who": "The second child, aged 7",
        "says": "Take liquid water. We can drink it straight away, the moment we get thirsty."
       }
      ],
@@ -1485,14 +1485,14 @@
     },
     {
      "t": "perspective",
-     "p": "Fathima and Nandini are eating set curd from a katori.",
+     "p": "The first child and the second child are eating set curd from a katori.",
      "views": [
       {
-       "who": "Fathima, aged 8",
+       "who": "The first child, aged 8",
        "says": "Curd is a solid. I cut it with my spoon, and the cut keeps its shape."
       },
       {
-       "who": "Nandini, aged 7",
+       "who": "The second child, aged 7",
        "says": "Curd is a liquid. When Amma stirs it hard, it flows and takes the shape of the cup."
       }
      ],

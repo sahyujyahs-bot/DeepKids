@@ -2159,17 +2159,17 @@
      "p": "Two friends argue about Lémery's old idea that acid particles have sharp spikes.",
      "views": [
       {
-       "who": "Nila, aged 9",
+       "who": "The first child, aged 9",
        "says": "It was a good idea. It explained why lemon stings your tongue and why acids fizz with soda."
       },
       {
-       "who": "Joseph, aged 10",
+       "who": "The second child, aged 10",
        "says": "It was a bad idea, because nobody could ever see the spikes or test them."
       }
      ],
      "ask": "Who do you agree with more? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with a reason. For example: 'I agree with Joseph. A good idea must be something you can test. Chemists later tested acids and found they all have hydrogen.' And then: 'But Nila is right that Lémery's idea did explain what people could notice.'",
+     "a": "A strong answer picks a side with a reason. For example: 'I agree with the second child. A good idea must be something you can test. Chemists later tested acids and found they all have hydrogen.' And then: 'But the first child is right that Lémery's idea did explain what people could notice.'",
      "why": "Both views have something true. A good scientific idea explains what we see and can also be tested."
     },
     {

@@ -1459,20 +1459,20 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and her brother Arun are eating dinner in Madurai. Karela is on the table.",
+     "p": "The second child and her brother the first child are eating dinner in Madurai. Karela is on the table.",
      "views": [
       {
-       "who": "Arun, aged 5",
+       "who": "The first child, aged 5",
        "says": "Karela is yucky. Nobody should eat karela."
       },
       {
-       "who": "Lakshmi, aged 7",
-       "says": "I like karela. Arun just likes different tastes from me."
+       "who": "The second child, aged 7",
+       "says": "I like karela. The first child just likes different tastes from me."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing Arun has right.",
+     "ask": "Who do you agree with? Why? Then say one thing the first child has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Lakshmi: the same karela tastes different to different people, so neither of them is wrong. Arun is right that karela is very bitter, and for him it really does taste yucky.",
+     "a": "A strong answer agrees with the second child: the same karela tastes different to different people, so neither of them is wrong. The first child is right that karela is very bitter, and for him it really does taste yucky.",
      "why": "Many children think that if they dislike a food, the food is bad for everyone. The Same Food, Different Faces taste test shows that the same food can taste different to each person."
     },
     {
@@ -1549,20 +1549,20 @@
     },
     {
      "t": "perspective",
-     "p": "Shreya lives in Pune. Her new friend Ritu has just moved there from Kolkata.",
+     "p": "The first child lives in Pune. Her new friend the second child has just moved there from Kolkata.",
      "views": [
       {
-       "who": "Shreya, aged 6",
-       "says": "Ritu looks different from me and talks differently, so she must be very different inside."
+       "who": "The first child, aged 6",
+       "says": "The second child looks different from me and talks differently, so she must be very different inside."
       },
       {
-       "who": "Ritu, aged 6",
+       "who": "The second child, aged 6",
        "says": "Inside, we both have a heart, lungs and bones, and we both like to play. We are very similar."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing Shreya has right.",
+     "ask": "Who do you agree with? Why? Then say one thing the first child has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Ritu: all people have the same parts inside and the same needs. Shreya is right that Ritu looks and talks a little differently on the outside.",
+     "a": "A strong answer agrees with the second child: all people have the same parts inside and the same needs. The first child is right that the second child looks and talks a little differently on the outside.",
      "why": "People often think that looking different means being different inside. Inside, all people share the same body parts and almost all the same genes."
     },
     {
