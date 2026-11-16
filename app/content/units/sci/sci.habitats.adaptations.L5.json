@@ -965,9 +965,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your table. Say what you thought would happen, what you saw, and why you think it happened. Now think of a real tree. What would a heavy load of snow do to a wide, flat branch?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why.",
+     "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
+     "say": "Look at your table. Say what you thought would happen, what you saw, and why it happened. Now think of a real tree. What would a heavy load of snow do to a wide, flat branch?",
+     "kid": "Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
        "q": "Why did the steep cone keep so little rava?",
@@ -982,7 +982,7 @@
        "good": [
         "There is no snow there.",
         "A wide tree catches more sunlight.",
-        "Its leaves spread out to the light."
+        "Her leaves spread out to the light."
        ]
       }
      ],
@@ -1132,7 +1132,7 @@
      "do": "Count the striped squares in the eaten pile, and how many of them were copycats marked T. Then turn over all the squares left on the newspaper. Count the striped copycats left alive. Record the numbers and the score.",
      "say": "Let us count. How many striped squares did you eat out of 12? How many of them were copycats? Now turn over the rest. How many copycats are still alive?",
      "kid": "Count the striped squares you ate. Turn over the rest. Count the copycats alive.",
-     "context": "In this step of the Copycat Test you count the striped copycats eaten in the first hunt, and those left alive."
+     "context": "In this step of the Copycat Test you count the striped copycats eaten and left alive in the first hunt."
     },
     {
      "id": "s5",
@@ -1148,14 +1148,14 @@
      "do": "Count the dotted squares in the eaten pile, and how many of them were copycats. Turn over the squares that are left. Count the dotted copycats left alive. Record the numbers and the score.",
      "say": "Count again. How many dotted squares did you eat out of 12? How many copycats were eaten, and how many are still alive?",
      "kid": "Count the dotted squares you ate. Count the copycats left alive.",
-     "context": "In this step of the Copycat Test you count the dotted copycats eaten in the second hunt, and those left alive."
+     "context": "In this step of the Copycat Test you count the dotted copycats eaten and left alive in the second hunt."
     },
     {
      "id": "s7",
      "mins": 6,
-     "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your two rows. Say what you thought would happen, what you saw, and why you think it happened. The copycats looked the same as the bitter squares in both hunts. So what made them safe in one hunt and not in the other?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why.",
+     "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
+     "say": "Look at your two rows. Say what you thought would happen, what you saw, and why it happened. The copycats looked the same as the bitter squares in both hunts. So what made them safe in one hunt and not in the other?",
+     "kid": "Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
        "q": "Why did you stop eating striped squares in the first hunt?",
@@ -1174,7 +1174,7 @@
        ]
       }
      ],
-     "parent": "Most hunters eat only 1 to 3 striped squares in the first hunt, so both striped copycats usually live. In the second hunt most hunters find that dotted squares are nearly all tasty, and eat most of them. Write down what you really found. A careful hunter may stop early in both hunts, and real birds differ in the same way. The reason: a hunter judges a pattern by the meals it has given so far. When most patterned prey are bitter, the hunter avoids the pattern, and the few copycats are protected. When most are harmless, the hunter learns that the pattern is safe. So a copycat depends on the bitter animals whose pattern she copies. Jane Brower tested this in 1960 with starlings and bitter mealworms.",
+     "parent": "Most hunters eat only 1 to 3 striped squares in the first hunt, so both striped copycats usually live. In the second hunt most hunters find that dotted squares are nearly all tasty, and eat most of them. Write down what you really found. A careful hunter may stop early in both hunts, and real birds differ in the same way. The reason: a hunter judges a pattern by the meals it has given so far. When most patterned prey are bitter, the hunter avoids the pattern, and the few copycats are protected. When most are harmless, the hunter learns that the pattern is safe. So a copycat depends on the bitter animals whose pattern she copies. Scientists call the copycat a mimic and the bitter animal a model. Jane Brower tested this in 1960 with starlings and bitter mealworms.",
      "think": "Make 12 new squares with a third pattern. How many of them must be bitter before a hunter gives up on that pattern?",
      "context": "This is the last step of the Copycat Test. You compare the copycats left alive in the two hunts, and say why."
     }
@@ -1473,7 +1473,7 @@
       "a": 0,
       "why": "A ripe fruit is the plant's payment to animals who carry her seeds away. Leaves make the plant's food, so many plants make them bitter or tough. An unripe fruit is defended until the seeds are ready."
      },
-     "parent": "Leaves make the plant's food, so many plants defend them with bitter chemicals, hairs or thorns. A ripe fruit is different. It is sweet and brightly coloured, and it invites animals who will carry the seeds away. An unripe fruit is sour and green until the seeds are ready. The chilli is a special case. Its burning chemical hurts the mouths of rats and other mammals, who would crush the seeds. The sensors in a bird's mouth do not respond to that chemical. Birds swallow the seeds whole and spread them.",
+     "parent": "Leaves make the plant's food, so many plants defend them with bitter chemicals, hairs or thorns. A ripe fruit is different. It is sweet and brightly coloured, and it invites animals who will carry the seeds away. An unripe fruit is sour and green until the seeds are ready. The chilli is a special case. The burning chemical in a chilli hurts the mouths of rats and other mammals, who would crush the seeds. The sensors in a bird's mouth do not respond to that chemical. Birds swallow the seeds whole and spread them.",
      "context": "This is the last step of Bitter Leaf, Sweet Fruit. You work out why a plant makes her leaves unpleasant and her ripe fruit sweet."
     }
    ]
@@ -1552,7 +1552,7 @@
        ]
       }
      ],
-     "parent": "People and insects face the same problem: a warning must be seen from far off and remembered. A warning mark also stops working if it is put on harmless things, as in the Copycat Test.",
+     "parent": "People and insects face the same problem: a warning must be seen from far off and remembered. A warning mark also stops working if it is put on harmless things. In the Copycat Test, the hunter ate the dotted squares once most of them proved harmless.",
      "context": "This is the last step of Warning Colours at Home. You tally the colours and compare people's warnings with the warning colours of insects."
     }
    ]
@@ -2219,9 +2219,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A harmless mimic stays safe however common mimics become.",
+     "p": "In the common mormon butterfly, both males and females are mimics.",
      "a": false,
-     "why": "False. If hunters meet many harmless mimics and few harmful models, they learn that the pattern is usually safe. Then they eat both.",
+     "why": "False. Only some of the females copy the poisonous common rose. The males, and the other females, are black with a row of white spots.",
      "outcome": 5
     },
     {
@@ -2738,7 +2738,7 @@
    "youtube": "",
    "status": "find-id",
    "mins": 4,
-   "why": "To see a faster hunter overshoot when the prey swerves, as in Turn or Sprint.",
+   "why": "To see a faster hunter overshoot when the prey swerves, as the chaser does in Turn or Sprint.",
    "check": "No address yet. Find a clip from a wildlife film maker or a university. Watch it first, because some hunts end in a kill. Choose one where the chase and the turn can be seen clearly."
   }
  ],
@@ -2748,7 +2748,7 @@
   "In Rajasthan, people hang shining flaps called bird diverters on power lines. The flaps help great Indian bustards to see the wires.",
   "Farmers in Botswana painted eyes on the rumps of cattle. Lions hunt by ambush, and during the four-year study no painted cow was killed.",
   "In the Sundarbans in the 1980s, honey collectors wore face masks on the back of the head. Tigers usually attack from behind.",
-  "Farmers in Assam and Karnataka hang ropes smeared with chilli around fields. The burning chemical that protects the chilli plant also turns elephants away.",
+  "Farmers in Assam hang ropes smeared with chilli around fields. The burning chemical that protects the chilli plant also turns elephants away.",
   "Houses in Himachal Pradesh and Kashmir have steep sloping roofs. Snow slides off before the weight can break the roof."
  ],
  "spotted": [
@@ -2968,11 +2968,11 @@
    "why": "For the project An Animal at Risk: where the bird lives, how many are left and why."
   },
   {
-   "title": "Tropical Butterfly Conservatory",
-   "url": "https://en.wikipedia.org/wiki/Tropical_Butterfly_Conservatory,_Tiruchirappalli",
+   "title": "Bannerghatta Biological Park, with its butterfly park",
+   "url": "https://en.wikipedia.org/wiki/Bannerghatta_Biological_Park",
    "kind": "place",
    "why": "To see live butterflies with warning colours, and to look for mimics among them.",
-   "where": "Srirangam, Tiruchirappalli, Tamil Nadu"
+   "where": "Bengaluru, Karnataka"
   },
   {
    "title": "Pichavaram mangrove forest",
@@ -3227,7 +3227,7 @@
    "Kunte K. and others (2014). doublesex is a mimicry supergene. Nature 507: 229-232.",
    "Kettlewell H. B. D. (1955, 1956). Selection experiments on industrial melanism in the Lepidoptera. Heredity 9: 323-342 and 10: 287-301.",
    "Cook L. M., Grant B. S., Saccheri I. J., Mallet J. (2012). Selective bird predation on the peppered moth: the last experiment of Michael Majerus. Biology Letters 8: 609-612.",
-   "Fennell J. G., Talas L., Baddeley R. J., Cuthill I. C., Scott-Samuel N. E. (2019). Optimizing colour for camouflage and visibility using deep learning. Journal of the Royal Society Interface 16: 20190183.",
+   "Fennell J. G., Talas L., Baddeley R. J., Cuthill I. C., Scott-Samuel N. E. (2019). Optimizing colour for camouflage and visibility using deep learning. Journal of the Royal Society Interface 16.",
    "Wilson A. M. and others (2018). Biomechanics of predator-prey arms race in lion, zebra, cheetah and impala. Nature 554: 183-188.",
    "Hamilton W. D. (1971). Geometry for the selfish herd. Journal of Theoretical Biology 31: 295-311.",
    "King A. J. and others (2012). Selfish-herd behaviour of sheep under threat. Current Biology 22: R561-R562.",
