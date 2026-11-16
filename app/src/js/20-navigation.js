@@ -28,8 +28,12 @@ const SEGS = {
   week: [
     ["days", "Planner", "Tell DeepKids your plans, answer its questions, and see your classes and to-dos."],
     ["cal", "Calendar", "Your plan by day, week, month or year, and where you add classes, trips and to-dos."],
-    ["next", "Up next", "What comes next in each subject. Drag to change the order."],
-    ["finish", "To finish", "What your child started, and what is still to try."],
+    [
+      "next",
+      "Up next",
+      "What comes next: lessons, projects, experiments, activities, worksheets and quizzes from your planned units.",
+    ],
+    ["finish", "To finish", "What your child started, and what is still to try, by kind and subject."],
     [
       "shop",
       "Shopping",

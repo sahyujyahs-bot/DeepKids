@@ -411,6 +411,8 @@ function rfsetBody() {
     box = (title, note, L) =>
       `<section class="card"><div class="sech"><b class="h5">${title}</b><span class="pill">${L.length}</span></div><p class="xs muted">${note}</p>${L.length ? `<div class="col" style="gap:4px">${L.join("")}</div>` : `<p class="xs muted">None yet.</p>`}</section>`,
     mastered = [...new Set(Object.values(S.rfq || {}).map((x) => x.k))].filter((k) => rfRight(k) >= RF_PER);
+  if (!Q.length && !mastered.length)
+    return `<p class="note">Nothing to refresh yet. When your child finishes a unit, a quick revision quiz from it shows up on Today and here, until they answer ${RF_PER} of its questions right.</p><button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz</button>`;
   return `<p class="sm">Every unit your child completes comes back until they answer ${RF_PER} of its questions right. A day's refresher is at most ${RF_MAX} questions, ${RF_PER} from each of up to ${RF_MAX / RF_PER} units, taking turns across all subjects.</p>
    ${box(
      "Not finished",

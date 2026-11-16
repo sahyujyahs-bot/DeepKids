@@ -3636,10 +3636,6 @@ a.btn {
   font: 700 var(--fs-4) var(--body);
   color: var(--muted);
 }
-.finh {
-  font-size: var(--fs-6);
-  margin: 10px 0 0;
-}
 .sgrp summary {
   cursor: pointer;
   list-style: none;
@@ -6938,6 +6934,13 @@ body {
     border-radius: 18px;
     background: var(--surface);
     box-shadow: var(--lift);
+  }
+  #paceSec {
+    column-count: 2;
+    column-gap: 24px;
+  }
+  #paceSec > * {
+    break-inside: avoid;
   }
   .plangrid,
   .monthwide {
