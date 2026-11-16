@@ -1,24 +1,24 @@
 {
  "id": "sci.microorganisms.helpful-microbes.L5",
- "title": "Keeping food: how drying, salt, sugar and cold stop the microbes that spoil it",
+ "title": "Why food spoils, and how drying, salt, sugar and cold keep it",
  "level": 5,
  "summary": {
-  "text": "A jar of honey keeps for years on a shelf, but a bowl of cooked dal spoils in one day. Food spoils because microbes, living beings too small to see, eat the food and multiply. Microbes can grow only where there is free water, some warmth and food that is not too sour. Your child tests how much salt it takes to stop dal water from spoiling, and finds that thin jaggery water ferments while thick jaggery syrup keeps. They learn how drying, salt, sugar, sourness, oil, cold and heat each take away something microbes need, and how families across India use these methods. They also meet the helpful microbes that guard curd and pickle, and the ones that live in the gut.",
+  "text": "A jar of honey keeps for years on a shelf, but a bowl of cooked dal spoils in one day. Food spoils because microbes eat the food and multiply. Microbes are living beings too small to see. Microbes can grow only where there is free water, some warmth and food that is not too sour. Your child tests how much salt it takes to stop dal water from spoiling. They also find that thin jaggery water ferments while thick jaggery syrup keeps. They learn how drying, salt, sugar, sourness, oil, cold and heat each take away something microbes need. They see how families across India use these methods. They also meet the helpful microbes that guard curd and pickle, and the ones that live in the gut.",
   "art": "A kitchen shelf with a jar of honey, a jar of mango pickle under oil and a tin of papad, beside a bowl of dal with froth on top."
  },
  "intro": {
   "hook": "A jar of honey can sit on a shelf for years and never spoil. A bowl of cooked dal spoils in one day. Both are wet. So why does one keep and the other spoil?",
-  "text": "Food spoils when microbes eat it. Microbes are living beings too small to see, such as bacteria, yeasts and moulds. They are in the air, on our hands and on every food. They grow fast in cooked dal, because dal gives them food, water and warmth. In this unit you find out what stops them. You make a ladder of five glasses with more and more salt. You keep thin jaggery water beside thick jaggery syrup. You dry tomato slices and weigh the water that leaves. By the end you can explain why honey keeps, and why your grandmother says never to put a wet spoon in the pickle.",
+  "text": "Food spoils because microbes eat the food before we do. Microbes are living beings too small to see, such as bacteria, yeasts and moulds. They are in the air, on our hands and on every food. They grow fast in cooked dal, because dal gives them food, water and warmth. In this unit you find out what stops them. You make a ladder of five glasses with more and more salt. You keep thin jaggery water beside thick jaggery syrup. You dry tomato slices and weigh the water that leaves. By the end you can explain why honey keeps. You can also explain why a wet spoon must never go into the pickle.",
   "art": "A jar of golden honey and a steel bowl of cooked dal side by side on a kitchen counter, with a calendar on the wall behind them."
  },
  "outcomes": [
-  "By the end I can explain that food spoils because bacteria, yeasts and moulds eat it, and say what these microbes need to grow.",
-  "By the end I can explain how drying, salt, sugar, sourness, oil, cold and heat each keep food, with an Indian example of each.",
-  "By the end I can use my Salt Ladder and Thick or Thin results to explain why the amount of salt or sugar matters.",
-  "By the end I can tell spoiled food from fermented food, and from changes that microbes do not cause, such as a cut apple going brown.",
-  "By the end I can say what helpful microbes do in curd and pickle, in my gut and in the soil.",
-  "By the end I can plan a fair test with a ladder of amounts, record it every day and show the results in a chart.",
-  "By the end I can say what scientists still argue about, such as whether fermented foods change the microbes in our gut."
+  "By the end I can explain that microbes spoil food, and say what bacteria, yeasts and moulds need to grow.",
+  "By the end I can explain how drying, salt, sugar, sourness, oil, cold and heat each keep food.",
+  "By the end I can use my own test results to explain why the amount of salt or sugar matters.",
+  "By the end I can tell spoiled food from fermented food, and from changes that microbes do not cause.",
+  "By the end I can say what helpful microbes do in curd, in my gut and in the soil.",
+  "By the end I can plan a fair test with a ladder of amounts, and chart the results.",
+  "By the end I can say what scientists still argue about, such as fermented foods and gut microbes."
  ],
  "cards_mins": 20,
  "terms": [
@@ -31,7 +31,7 @@
   {
    "term": "Bacteria",
    "meaning": "Microbes made of one very small cell each. One alone is called a bacterium. In warm, wet food some bacteria can split in two every 20 to 30 minutes.",
-   "example": "Bacteria turn milk into curd. Other bacteria make cooked dal frothy and sour when it is left out.",
+   "example": "Bacteria turn milk into curd. Other bacteria turn cooked dal frothy and sour on a warm counter.",
    "art": "A bowl of dal with froth on top, and a circle zooming in to show many small rod-shaped cells, some splitting in two."
   },
   {
@@ -54,20 +54,20 @@
   },
   {
    "term": "Spoilage",
-   "meaning": "The change in food when unwanted microbes grow in it. The smell, taste, colour or feel changes, and the food may become unsafe.",
+   "meaning": "The change in food when unwanted microbes grow there. The smell, taste, colour or feel changes, and the food may become unsafe.",
    "example": "Milk that smells sour and splits, bread with green spots and slimy spinach are all spoiled.",
    "art": "Three foods on a plate: a split glass of milk, a slice of bread with green spots and a bunch of dark slimy leaves."
   },
   {
    "term": "Preservation",
-   "meaning": "Keeping food safe to eat for longer, by stopping microbes from growing in it.",
+   "meaning": "Keeping food safe to eat for longer, by stopping the growth of microbes.",
    "example": "Drying fish, salting mango, making jam and keeping milk in the fridge are all ways of preserving food.",
    "art": "A row of preserved foods: dried fish on a string, a pickle jar, a jam jar and a milk packet in an open fridge."
   },
   {
    "term": "Free water",
    "meaning": "Water in a food that microbes are able to take in. Water that salt or sugar is holding is not free. Scientists call the measure of free water 'water activity'.",
-   "example": "Honey is about one-sixth water, but sugar holds nearly all of that water. So honey has very little free water, and microbes do not grow in it.",
+   "example": "Honey is about one-sixth water, but sugar holds nearly all of that water. So honey has very little free water, and microbes do not grow in honey.",
    "art": "A drop of honey zoomed in to show small water particles each surrounded and held by larger sugar particles."
   },
   {
@@ -84,7 +84,7 @@
   },
   {
    "term": "Osmosis",
-   "meaning": "The movement of water through the thin skin of a cell, towards the side that has more salt or sugar dissolved in it.",
+   "meaning": "The movement of water through the thin skin of a cell. The water moves towards the side with more salt or sugar dissolved.",
    "example": "A microbe who lands in thick sugar syrup loses water through their cell skin by osmosis. They shrink and stop growing.",
    "art": "A round cell in plain water looking plump, and the same cell in syrup looking shrunken, with small arrows showing water leaving."
   },
@@ -102,7 +102,7 @@
   },
   {
    "term": "Pasteurisation",
-   "meaning": "Heating a food enough to kill most microbes, and then cooling it fast. Milk is heated to 72 degrees Celsius for 15 seconds.",
+   "meaning": "Heating a food enough to kill most microbes, followed by fast cooling. Milk is heated to 72 degrees Celsius for 15 seconds.",
    "example": "A milk packet says 'pasteurised'. The milk still has a few microbes, so the packet must stay in the fridge.",
    "art": "A milk packet with the word pasteurised on it, beside a small drawing of milk flowing through a hot pipe and then a cold pipe."
   },
@@ -139,14 +139,14 @@
  ],
  "explanations": [
   {
-   "concept": "Why food spoils: microbes eat it before we do",
+   "concept": "Why food spoils: microbes eat the food before we do",
    "status": "defined",
-   "definition": "Food spoils when bacteria, yeasts or moulds grow in it. They eat the food, multiply, and leave behind acids, gases and other substances that change the smell, taste and look.",
-   "description": "Microbes are everywhere. Mould spores float in the air, bacteria live on hands, spoons and vegetable skins, and wild yeasts sit on fruit. So every food already carries some. They feed by breaking the big molecules of the food, such as starch and protein, into small ones. They take the energy and let the leftovers go. Those leftovers are what we notice. Acids taste sour. Gases make froth and bubbles. Some small molecules smell very bad, such as the ones from spoiled fish or eggs. Bacteria multiply by splitting in two. In warm, wet food some kinds can split every 20 to 30 minutes, so a few bacteria can become millions in a few hours. This is why cooked dal that was fine at lunch can be spoiled by the next morning.",
+   "definition": "Food spoils when bacteria, yeasts or moulds grow in the food. They eat the food, multiply, and leave behind acids, gases and other substances that change the smell, taste and look.",
+   "description": "Microbes are everywhere. Mould spores float in the air, bacteria live on hands, spoons and vegetable skins, and wild yeasts sit on fruit. So every food already carries some. They feed by breaking the big molecules of the food, such as starch and protein, into small ones. They take the energy and let the leftovers go. Those leftovers are what we notice. Acids taste sour. Gases make froth and bubbles. Some small molecules smell very bad, such as the ones from spoiled fish or eggs. Bacteria multiply by splitting in two. In warm, wet food some kinds can split every 20 to 30 minutes. So a few bacteria can become millions in a few hours. This is why cooked dal that was fine at lunch can be spoiled by the next morning.",
    "examples": [
-    "Cooked dal left on the counter overnight in summer turns frothy and sour, because bacteria have multiplied in it.",
+    "Cooked dal left on the counter overnight in summer turns frothy and sour. Bacteria have multiplied in the dal.",
     "A lemon forgotten in a basket grows blue-green mould. The mould's threads spread through the fruit as they feed.",
-    "Sweet palm sap, called neera, starts to ferment within a few hours in warm air, because wild yeasts eat the sugar. Kamala Sohonie, the first Indian woman to earn a PhD in science, studied neera as a food."
+    "Sweet palm sap, called neera, starts to ferment within a few hours in warm air. Wild yeasts eat the sugar. Kamala Sohonie, the first Indian woman to earn a PhD in science, studied neera as a food."
    ],
    "perspectives": [],
    "art": "A bowl of dal drawn three times, at lunch, at night and the next morning, with a few dots, then many dots, then froth."
@@ -155,10 +155,10 @@
    "concept": "What spoiling microbes need",
    "status": "defined",
    "definition": "Microbes that spoil food need five things: food, free water, enough warmth, enough time, and food that is not too sour. Moulds also need air.",
-   "description": "Take away any one of these and growth slows or stops. Most spoiling bacteria grow fastest between about 20 and 45 degrees Celsius, which is the warmth of an Indian kitchen. They grow slowly in a fridge at about 4 degrees, and stop in a freezer. They need water they can take in, so they grow in dal, milk, cooked rice and cut fruit, and they do not grow in dry rice or atta. Most stop in very sour food. Moulds are tougher in two ways: they grow on drier and more sour food than most bacteria. But moulds must have air. Some bacteria are the opposite, and grow only where there is no air at all. So no single method stops every microbe, and that is why many foods use more than one method.",
+   "description": "Take away any one of these and growth slows or stops. Most spoiling bacteria grow fastest between about 20 and 45 degrees Celsius, which is the warmth of an Indian kitchen. They grow slowly in a fridge at about 4 degrees, and stop in a freezer. They need water they can take in. So they grow in dal, milk, cooked rice and cut fruit, but not in dry rice or atta. Most stop in very sour food. Moulds are tougher in two ways: they grow on drier and more sour food than most bacteria. But moulds must have air. Some bacteria are the opposite, and grow only where there is no air at all. So no single method stops every microbe, and that is why many foods use more than one method.",
    "examples": [
     "Raw rice keeps for a year. Cook the same rice, which adds water, and the rice spoils in a day.",
-    "Bread in a closed plastic bag in the monsoon grows mould within a week, because the bag holds the dampness in.",
+    "Bread in a closed plastic bag grows mould within a week in the monsoon. The bag holds the dampness in.",
     "Milk in the fridge keeps for days. The same milk on a summer counter can spoil within a day."
    ],
    "perspectives": [],
@@ -167,12 +167,12 @@
   {
    "concept": "Free water: why honey is too dry for microbes",
    "status": "defined",
-   "definition": "Microbes can use only free water, which is water that nothing else is holding. Salt and sugar hold on to water. So a food with a lot of dissolved salt or sugar can feel wet and still have too little free water for microbes.",
+   "definition": "Microbes can use only free water, which is water that nothing else is holding. Salt and sugar hold on to water. So a very salty or very sweet food can feel wet and still have too little free water for microbes.",
    "description": "A microbe is a cell with a thin skin, and water passes through that skin. Water moves towards the side with more salt or sugar dissolved in it. This movement is called osmosis. In thick syrup or strong brine, the water inside the microbe moves out. The cell shrinks and stops growing. Scientists measure free water on a scale from 0 to 1, called water activity. Pure water is 1. Fresh bread is about 0.95, jam about 0.8 and honey about 0.6. Most bacteria stop growing below about 0.9, and most moulds below about 0.8. Almost nothing grows below 0.6. Honey is about one-sixth water, and bread is more than one-third water. But in honey the sugar holds the water, and in bread much of the water is free. So bread grows mould and honey keeps.",
    "examples": [
-    "In Thick or Thin, thin jaggery water ferments within a few days, and thick jaggery syrup usually stays as it was.",
+    "In Thick or Thin, thin jaggery water ferments within a few days. Thick jaggery syrup usually stays unchanged.",
     "Jam is about two-thirds sugar. An opened jar still keeps for weeks.",
-    "Stir a spoon of water into honey and leave it, and yeasts can begin to ferment it. People have made a drink from honey and water this way for thousands of years."
+    "Honey mixed with water can ferment, because yeasts now have free water. People have made a drink from honey and water this way for thousands of years."
    ],
    "perspectives": [],
    "art": "A scale from 0 to 1 drawn like a ruler, with dry biscuit, honey, jam, bread and water placed along it, and marks where moulds and bacteria stop."
@@ -181,11 +181,11 @@
    "concept": "Drying: taking the water away",
    "status": "defined",
    "definition": "Drying removes most of the water from a food. With too little free water, microbes on the food stop growing. They are not killed. Many wait as spores, and grow again if the food gets damp.",
-   "description": "Sun and moving air carry water away from thin pieces of food. A tomato is about 94 parts water in every 100, so a dried tomato slice weighs very little. Dried food must then be kept dry. Dry food takes in water from damp air, which is why papad goes soft and mouldy in the monsoon if the tin is left open. Families dry food in the hot, dry months for this reason. Ghee is a dried food too. Butter is about one-sixth water. When butter is heated, the water boils away as bubbles, and the milk solids are strained out. What is left is almost pure fat with almost no water, so ghee keeps for months without a fridge. Freeze-drying is a modern way of drying. The food is frozen, and the ice is drawn off as vapour, so the food keeps its shape.",
+   "description": "Sun and moving air carry water away from thin pieces of food. A tomato is about 94 parts water in every 100, so a dried tomato slice weighs very little. Dried food must then be kept dry. Dry food takes in water from damp air. That is why papad in an open tin goes soft and mouldy in the monsoon. Families dry food in the hot, dry months for this reason. Ghee is a dried food too. Butter is about one-sixth water. When butter is heated, the water boils away as bubbles, and the milk solids are strained out. What is left is almost pure fat with almost no water, so ghee keeps for months without a fridge. Freeze-drying is a modern way of drying. The food is frozen, and the ice is drawn off as vapour, so the food keeps its shape.",
    "examples": [
     "Vadam and vathal are dried on terraces in Tamil Nadu in March and April, before the rains.",
     "Salted fish dries on racks along the coasts of Kerala, Konkan and Odisha.",
-    "In Kashmir, brinjal, gourd and tomato are dried on strings in autumn and cooked in winter, when snow closes the roads.",
+    "In Kashmir, brinjal, gourd and tomato are dried on strings in autumn. They are cooked in winter, when snow closes the roads.",
     "Milk powder, instant coffee and the food astronauts carry are dried in factories."
    ],
    "perspectives": [],
@@ -195,7 +195,7 @@
    "concept": "Salt and sugar: the amount matters",
    "status": "defined",
    "definition": "Salt and sugar preserve food only in large amounts. A little salt or sugar does not stop microbes, and a little sugar feeds them.",
-   "description": "The salt we add for taste is about 1 gram in 100 grams of food. That is far too little to hold back microbes. Sea water has about 3.5 grams of salt in 100 millilitres, and many bacteria live in the sea. Pickling brine has 10 to 20 grams in 100 millilitres. Sugar works the same way. A spoon of sugar in a glass of water is food for yeast. Jam and murabba are more than half sugar, and at that strength the sugar holds the water. This is why pickle is very salty and jam is very sweet. They could not keep otherwise. It is also why we eat them in small amounts, because too much salt or sugar is not good for the body.",
+   "description": "The salt we add for taste is about 1 gram in 100 grams of food. That is far too little to hold back microbes. Sea water has about 3.5 grams of salt in 100 millilitres, and many bacteria live in the sea. Pickling brine has 10 to 20 grams in 100 millilitres. Sugar works the same way. A spoon of sugar in a glass of water is food for yeast. Jam and murabba are more than half sugar, and at that strength the sugar holds the water. This is why pickle is very salty and jam is very sweet. They could not keep otherwise. It is also why we eat them in small amounts. Too much salt or sugar is not good for the body.",
    "examples": [
     "In the Salt Ladder, the glasses with no salt and a quarter teaspoon of salt usually spoil first. The glasses with 2 and 4 teaspoons usually stay clear.",
     "Amla murabba from Uttar Pradesh keeps for a year in thick sugar syrup.",
@@ -208,10 +208,10 @@
    "concept": "Sourness and fermentation: helpful microbes guard the food",
    "status": "defined",
    "definition": "Most microbes that spoil food or make people ill grow poorly in strong acid. We can add an acid, such as vinegar, lemon or tamarind. Or we can let helpful bacteria make the acid, which is fermentation.",
-   "description": "When a spoon of curd goes into warm milk, the curd bacteria multiply fast. They eat the milk sugar and make lactic acid. The acid sets the milk and makes it sour. Now the curd is a poor place for most other microbes. So curd keeps longer than the milk it came from. The helpful bacteria got there first, used the food and changed the place. The same thing happens in idli batter, in gajar kanji from North India, and in gundruk, the fermented leafy greens of Sikkim and Nepal. Fermenting is a way of keeping food by choosing which microbes grow in it. Some of these bacteria also make substances that harm other bacteria. One of them, nisin, is now used as a food preservative.",
+   "description": "When a spoon of curd goes into warm milk, the curd bacteria multiply fast. They eat the milk sugar and make lactic acid. The acid sets the milk and makes it sour. Now the curd is a poor place for most other microbes. So curd keeps longer than the milk it came from. The helpful bacteria got there first, used the food and changed the place. The same thing happens in idli batter and in gajar kanji from North India. It also happens in gundruk, the fermented leafy greens of Sikkim and Nepal. Fermenting keeps food by choosing which microbes grow there. Some of these bacteria also make substances that harm other bacteria. One of them, nisin, is now used as a food preservative.",
    "examples": [
     "Curd keeps for a few days in the fridge, and pasteurised milk from an opened packet for about two.",
-    "Puliyodarai, tamarind rice, is packed for long journeys in Tamil Nadu and Karnataka because the tamarind and oil help the rice keep.",
+    "Puliyodarai, tamarind rice, is packed for long journeys in Tamil Nadu and Karnataka. The tamarind and oil help the rice keep.",
     "Vinegar onions and kasundi, the mustard sauce of Bengal, are kept by their sourness."
    ],
    "perspectives": [],
@@ -221,7 +221,7 @@
    "concept": "Cold, heat and sealing",
    "status": "defined",
    "definition": "Cold slows microbes down but does not kill them. Strong heat kills them. Sealing a food after heating stops new microbes from getting in.",
-   "description": "In a fridge at about 4 degrees Celsius, most bacteria split only once in many hours, so food lasts days. In a freezer at minus 18 degrees there is no liquid water and growth stops. When the food warms up, the microbes who lived through the cold grow again. Boiling kills most microbes, but the spores of some bacteria live through boiling. Pasteurised milk is heated to 72 degrees for 15 seconds, which kills most microbes and leaves the taste. Milk in a carton that keeps for months without a fridge has been heated to about 140 degrees for a few seconds and packed with no microbes. Tinned food is sealed and then heated to about 121 degrees. That heat is needed because one kind of bacterium grows without air and makes a deadly toxin. A tin or packet that has swollen has gas made by microbes inside, and must be thrown away unopened. In the early 1900s the American chemist Mary Engle Pennington worked out how cold eggs, milk and chicken must be kept on their way to the shop. Her rules for cold railway wagons made food safer for millions of people.",
+   "description": "In a fridge at about 4 degrees Celsius, most bacteria split only once in many hours, so food lasts days. In a freezer at minus 18 degrees there is no liquid water and growth stops. When the food warms up, the microbes who lived through the cold grow again. Boiling kills most microbes, but the spores of some bacteria live through boiling. Pasteurised milk is heated to 72 degrees for 15 seconds, which kills most microbes and leaves the taste. Some milk is sold in cartons that keep for months without a fridge. That milk has been heated to about 140 degrees for a few seconds and packed with no microbes. Tinned food is sealed and then heated to about 121 degrees. That heat is needed because one kind of bacterium grows without air and makes a deadly toxin. A tin or packet that has swollen has gas made by microbes inside, and must be thrown away unopened. In the early 1900s the American chemist Mary Engle Pennington studied eggs, milk and chicken on the way to shops. She worked out how cold they must be kept. Her rules for cold railway wagons made food safer for millions of people.",
    "examples": [
     "An unopened carton of long-life milk keeps for months on a shelf. Once opened, it needs the fridge like any milk.",
     "Apples from Himachal Pradesh are kept in cold stores, so they can be sold many months after the harvest.",
@@ -234,7 +234,7 @@
    "concept": "Hurdles: several small barriers together",
    "status": "defined",
    "definition": "A hurdle is anything that makes a food harder for microbes to grow in. Many preserved foods use several hurdles at once, each one weaker than it would need to be alone.",
-   "description": "The German food scientist Lothar Leistner gave this idea its name in the 1970s. A microbe who can get past one hurdle is often stopped by the next. Mango pickle is a good example. The salt holds the water. The raw mango is sour. Mustard and chilli slow some microbes. The layer of oil on top keeps air away from moulds. If one hurdle fails, the others may still hold. But a wet spoon can bring in fresh water and leave pieces of mango sticking out above the oil, and then mould can start. A food label often shows its hurdles. 'Refrigerate after opening' means that the seal was one hurdle, and once the seal is broken, cold must take its place.",
+   "description": "The German food scientist Lothar Leistner gave this idea its name in the 1970s. A microbe who can get past one hurdle is often stopped by the next. Mango pickle is a good example. The salt holds the water. The raw mango is sour. Mustard and chilli slow some microbes. The layer of oil on top keeps air away from moulds. If one hurdle fails, the others may still hold. But a wet spoon brings in fresh water. As the oil is used up, pieces of mango stick out above it, and mould can start there. A food label often shows its hurdles. 'Refrigerate after opening' means that the seal was one hurdle. Once the seal is broken, cold must take its place.",
    "examples": [
     "Tomato ketchup uses vinegar, sugar, salt, heating and a sealed bottle.",
     "Dried fish is both salted and dried.",
@@ -260,7 +260,7 @@
    "concept": "Food that looks fine can still be unsafe",
    "status": "defined",
    "definition": "Spoiled food usually warns us with smell or looks. But some microbes that make people ill do not change the food in a way we can notice.",
-   "description": "The microbes that make food smell bad are often not the ones that make people ill. Some harmful bacteria can reach dangerous numbers while the food still looks and smells normal. Some leave toxins that boiling does not destroy. Moulds send fine threads deep into soft food, far beyond the fuzzy patch, and some moulds make toxins. So cutting the mould off bread, fruit or cooked food does not make it safe. A few simple rules follow from the science. Eat cooked food within about two hours, or put it in the fridge. Heat food from the fridge until it is steaming. Keep raw meat, fish and eggs away from food that will not be cooked. If spoiled food is eaten by mistake, it can cause vomiting, loose motions and stomach pain. The body loses water, so the person should sip ORS or water. See a doctor if it lasts more than a day, or at once for a small child.",
+   "description": "The microbes that make food smell bad are often not the ones that make people ill. Some harmful bacteria can reach dangerous numbers while the food still looks and smells normal. Some leave toxins that boiling does not destroy. Moulds send fine threads deep into soft food, far beyond the fuzzy patch, and some moulds make toxins. So cutting the mould off bread, fruit or cooked food does not make the food safe. A few simple rules follow from the science. Eat cooked food within about two hours, or put it in the fridge. Heat food from the fridge until it is steaming. Keep raw meat, fish and eggs away from food that will not be cooked. If spoiled food is eaten by mistake, it can cause vomiting, loose motions and stomach pain. The body loses water, so the person should sip ORS or water. See a doctor if it lasts more than a day, or at once for a small child.",
    "examples": [
     "Cooked rice kept warm all day can cause vomiting even after it is fried again.",
     "Groundnuts and maize stored damp can grow a mould whose toxin harms the liver. This is one reason farmers dry their grain well.",
@@ -272,21 +272,21 @@
   {
    "concept": "Helpful microbes in your gut",
    "status": "defined",
-   "definition": "Tens of trillions of bacteria live in your large intestine. They digest parts of food that you are unable to digest, make some vitamins, and take up space that harmful microbes would otherwise use.",
-   "description": "Your own enzymes are unable to break down most plant fibre. Your gut microbes ferment it. As they do, they make small molecules that feed the cells of your gut wall. They also make vitamin K and some B vitamins. The number of bacteria in and on a person is about the same as the number of the person's own cells. A gut with many kinds of microbes is usually a sign of good health. One large study, with more than 10,000 people, found that people who ate 30 or more kinds of plants in a week had more kinds of gut microbes than people who ate fewer than 10. After an upset stomach or a course of antibiotics, the gut microbes take some time to return to their usual numbers.",
+   "definition": "Tens of trillions of bacteria live in your large intestine. They digest parts of food that you are unable to digest, and they make some vitamins. They also take up space that harmful microbes would otherwise use.",
+   "description": "Your own enzymes are unable to break down most plant fibre. Your gut microbes ferment the fibre. As they do, they make small molecules that feed the cells of your gut wall. They also make vitamin K and some B vitamins. A person carries about as many bacteria as they have cells of their own. A gut with many kinds of microbes is usually a sign of good health. One large study looked at more than 10,000 people. Those who ate 30 or more kinds of plants in a week had more kinds of gut microbes. Those who ate fewer than 10 kinds had fewer. After an upset stomach or a course of antibiotics, the gut microbes take time to return to their usual numbers.",
    "examples": [
     "A meal of rice, sambar and a vegetable poriyal can hold eight or more kinds of plants.",
     "Babies are born with almost no gut microbes. They collect them from their mother, from milk and from the world around them.",
-    "Outside the body, soil bacteria and fungi do the same work on fallen leaves and peels, and turn them into food for plants."
+    "Outside the body, soil bacteria and fungi do the same work on fallen leaves and peels. They turn them into food for plants."
    ],
    "perspectives": [],
-   "art": "An outline of a child with the large intestine shown, many colours of bacteria inside it, and small arrows from bits of vegetable to the bacteria and from the bacteria to the gut wall."
+   "art": "An outline of a child with the large intestine shown, many colours of bacteria drawn inside, and small arrows from bits of vegetable to the bacteria and from the bacteria to the gut wall."
   },
   {
    "concept": "Do fermented foods and probiotics change your gut microbes?",
    "status": "debated",
    "definition": "Curd, buttermilk, kanji and other fermented foods hold living bacteria. Scientists agree these foods are safe and nourishing. They disagree about whether the bacteria in them settle in the gut and change a person's health.",
-   "description": "More than a hundred years ago, the scientist Elie Metchnikoff suggested that the bacteria in sour milk help people live longer. Today shops sell probiotic drinks and capsules with the same promise. The tests so far give mixed answers, and what holds for one person may not hold for another.",
+   "description": "More than a hundred years ago, the scientist Elie Metchnikoff suggested that bacteria in sour milk help people live longer. Today shops sell probiotic drinks and capsules with the same promise. The tests so far give mixed answers, and what holds for one person may not hold for another.",
    "examples": [
     "Many families give curd rice or buttermilk after an upset stomach.",
     "Probiotic drinks are sold with claims about digestion and immunity."
@@ -294,7 +294,7 @@
    "perspectives": [
     {
      "who": "Scientists at Stanford University, in a study published in 2021",
-     "explanation": "They asked 36 healthy adults to eat either more fermented foods or more fibre for ten weeks. The people who ate more fermented foods ended with more kinds of gut microbes, and with lower signs of inflammation in their blood."
+     "explanation": "They asked 36 healthy adults to eat either more fermented foods or more fibre for ten weeks. The people who ate more fermented foods ended with more kinds of gut microbes. They also had lower signs of inflammation in their blood."
     },
     {
      "who": "Scientists at the Weizmann Institute in Israel, in a study published in 2018",
@@ -302,7 +302,7 @@
     },
     {
      "who": "Many doctors",
-     "explanation": "Fermented foods are good foods, and eating them is sensible. But most studies are small and short. No one should expect curd or a probiotic drink to cure an illness, and costly capsules are not needed for a healthy child."
+     "explanation": "Fermented foods are good foods, and eating them is sensible. But most studies are small and short. No one should expect curd or a probiotic drink to cure an illness. A healthy child does not need costly capsules."
     }
    ],
    "art": "A bowl of curd and a small bottle of probiotic drink on a table, with a question mark drawn over an outline of a belly."
@@ -324,8 +324,8 @@
   {
    "concept": "The same rules keep a mummy, a mammoth and an astronaut's dinner",
    "status": "defined",
-   "definition": "The things that keep food also keep anything else that microbes would eat. Dryness, salt, cold and sourness have preserved bodies, seeds and food for thousands of years.",
-   "description": "In ancient Egypt, bodies were packed in a natural salt called natron for about 40 days. The salt drew out the water, and the dried bodies have lasted more than 3,000 years. Jars of honey about 3,000 years old have been found in Egyptian tombs, still unspoiled. In Siberia, woolly mammoths frozen in the ground have been found with their hair and flesh after tens of thousands of years. A man who died in the Alps about 5,300 years ago was found in the ice in 1991, with his last meal still in his stomach. On an island near the North Pole, a vault holds dried seeds from all over the world at minus 18 degrees Celsius. Astronauts eat food that has been dried or heated and sealed. The Defence Food Research Laboratory in Mysuru has prepared packed foods such as idli and upma for India's astronauts. Nobody yet knows how to keep a full, tasty diet fresh for a journey to Mars that could last years.",
+   "definition": "The things that keep food also keep anything else that microbes would eat. Dryness, salt, sugar and cold have preserved bodies, seeds and food for thousands of years.",
+   "description": "In ancient Egypt, bodies were packed in a natural salt called natron for about 40 days. The salt drew out the water, and the dried bodies have lasted more than 3,000 years. Jars of honey about 3,000 years old have been found in Egyptian tombs, still unspoiled. In Siberia, frozen ground has kept woolly mammoths, with hair and flesh, for tens of thousands of years. A man died in the Alps about 5,300 years ago. He was found in the ice in 1991, with his last meal still in his stomach. On an island near the North Pole, a vault holds dried seeds from all over the world. The vault is kept at minus 18 degrees Celsius. Astronauts eat food that has been dried or heated and sealed. The Defence Food Research Laboratory in Mysuru has prepared packed foods such as idli and upma for India's astronauts. Nobody yet knows how to keep a full, tasty diet fresh for a journey to Mars that could last years.",
    "examples": [
     "Egyptian mummies were dried with salt.",
     "Frozen mammoths were kept by cold.",
@@ -337,20 +337,20 @@
  ],
  "agreed": [
   {
-   "text": "Food spoils because microbes grow in it. Air alone does not spoil food.",
-   "evidence": "In the 1860s Louis Pasteur kept boiled broth open to the air in flasks whose long bent necks trapped dust and microbes. The broth stayed clear. Tinned food that was not heated enough spoils even though no air is inside."
+   "text": "Food spoils because microbes grow in the food. Air alone does not spoil food.",
+   "evidence": "In the 1860s Louis Pasteur kept boiled broth open to the air in flasks with long bent necks. The necks trapped dust and microbes. The broth stayed clear. Tinned food that was not heated enough spoils even though no air is inside."
   },
   {
    "text": "Microbes need free water to grow, and salt and sugar take free water away.",
-   "evidence": "In the 1950s the Australian scientist W. J. Scott showed that the growth of microbes in food follows the measure of free water, and not the total amount of water. Food scientists have used his measure ever since."
+   "evidence": "In the 1950s an Australian scientist, William James Scott, measured how microbes grow in foods. Their growth followed the free water, and not the total amount of water. Food scientists have used his measure ever since."
   },
   {
    "text": "Cold slows the growth of microbes but does not kill most of them.",
    "evidence": "Food taken out of a freezer and left warm spoils as fast as fresh food. Bacteria have been grown from food kept frozen for years."
   },
   {
-   "text": "Heating food in a sealed container preserves it, if the heat is strong enough to kill spores.",
-   "evidence": "Nicolas Appert showed this with bottles in 1810. In the 1890s Samuel Prescott and William Underwood found living bacteria in swollen tins that had been heated too little, and worked out the heating times that prevent it."
+   "text": "Heating food in a sealed container preserves the food, if the heat is strong enough to kill spores.",
+   "evidence": "Nicolas Appert showed this with bottles in 1810. In the 1890s Samuel Prescott and William Underwood found living bacteria in swollen tins that had been heated too little. They worked out the heating times that prevent this."
   },
   {
    "text": "The acid made by fermenting bacteria holds back most other microbes.",
@@ -398,7 +398,7 @@
    "claim": "People in hot countries use more spices because spices stop food from spoiling.",
    "who": "Jennifer Billing and Paul Sherman, two American biologists, in 1998",
    "for": "They studied thousands of recipes from 36 countries. Hotter countries used more spices, and many spices slow bacteria in laboratory tests.",
-   "against": "In 2021 a team led by Lindell Bromham studied many more recipes. They found that spice use follows other things as closely as it follows heat, and does not match the risk of illness from food. The amounts of spice in a dish are also much smaller than the amounts used in the laboratory tests.",
+   "against": "In 2021 a team led by Lindell Bromham studied many more recipes. They found that spice use follows other things as closely as it follows heat. It does not match the risk of illness from food. The amounts of spice in a dish are also much smaller than the amounts used in the laboratory tests.",
    "status": "debated",
    "context": "This card is about whether spicy food is a way of preserving food."
   },
@@ -447,7 +447,7 @@
   "title": "The Wet Spoon",
   "mins": 10,
   "read_aloud": true,
-  "note": "Sravani, Karthik and Ammamma are made up. These facts are real: avakaya is the mango pickle of Andhra Pradesh and Telangana, made in May from raw mango, salt, mustard powder, chilli powder and oil. Families keep it for a year in a tall ceramic jar called a jaadi. The rules about dry mangoes, dry jars, dry spoons and a layer of oil over the pieces are followed in many homes. White mould can grow on pickle pieces that stick out above the oil.",
+  "note": "Sravani, Karthik and Ammamma are made up. These facts are real. Avakaya is the mango pickle of Andhra Pradesh and Telangana. It is made in May from raw mango, salt, mustard powder, chilli powder and oil. Families keep it for a year in a tall ceramic jar called a jaadi. Many homes follow the rules about dry mangoes, dry jars, dry spoons and a layer of oil over the pieces. White mould can grow on pickle pieces that stick out above the oil.",
   "text": [
    "Every May, Ammamma made avakaya, the mango pickle that her family in Tenali ate all year. This year Sravani, who was ten, was allowed to help. Her cousin Karthik, who was eight, was allowed to carry things.",
    "Ammamma had rules. There were so many that Sravani counted them on her fingers. Wipe each mango dry with a cloth. Never wash the pieces after cutting. Put the big jar in the sun for a whole day before filling it. Dry your hands. Dry the ladle. And pour oil until it stands two fingers above the mango.",
@@ -498,7 +498,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about how foods are kept. Each card names a preserved food. You say which hurdle keeps microbes from growing in it: dry, salt, sugar, sour, no air, cold, or heat and seal.",
+   "context": "This is a card game about how foods are kept. Each card names a preserved food. You say which hurdle keeps that food from spoiling: dry, salt, sugar, sour, no air, cold, or heat and seal.",
    "printables": [
     {
      "kind": "cards",
@@ -663,7 +663,7 @@
        ]
       }
      ],
-     "parent": "A good answer names what the microbes lack. 'Because it is in a jar' is not enough, so ask what the jar keeps out. If your child names a hurdle that is true but is not first on the back, count it as the extra hurdle.",
+     "parent": "A good answer names what the microbes lack. 'Because it is in a jar' is not enough, so ask what the jar keeps out. Your child may name a true hurdle that is not first on the back. Count that as the extra hurdle.",
      "context": "This is the main part of Which Hurdle? Here you read each food card and name the hurdle that keeps microbes from growing in that food."
     },
     {
@@ -677,11 +677,11 @@
       "q": "Ghee and butter are both made from milk fat. Why does ghee keep without a fridge, when butter does not?",
       "options": [
        "Ghee has more salt than butter",
-       "The water in the butter was boiled away to make ghee",
+       "The water in butter was boiled away",
        "Ghee is yellow, and microbes avoid yellow food"
       ],
       "a": 1,
-      "why": "Butter is about one-sixth water, so microbes can grow in it. Making ghee boils that water away and removes the milk solids. With almost no water, almost nothing grows."
+      "why": "Butter is about one-sixth water, so microbes can grow in butter. Making ghee boils that water away and removes the milk solids. With almost no water, almost nothing grows."
      },
      "context": "This is the last step of Which Hurdle? Here you count your cards and talk about the foods that surprised you."
     }
@@ -766,7 +766,7 @@
     "One player is the reader. The reader takes a card and keeps the back hidden.",
     "The reader reads clue 1 aloud. The detective may guess, or ask for the next clue.",
     "A guess has two parts: the verdict (spoiled, fermented, or only changed) and the reason.",
-    "The detective gets one guess for each card. A right guess after clue 1 scores 3 points, after clue 2 scores 2 points, and after clue 3 scores 1 point.",
+    "The detective gets one guess for each card. A right guess after clue 1 scores 3 points. After clue 2 it scores 2 points, and after clue 3 it scores 1 point.",
     "After six cards, swap places. The player with more points wins.",
     "Playing with a parent: the parent reads all twelve cards. Try to score 24 points or more."
    ],
@@ -822,8 +822,8 @@
       "t": "mcq",
       "q": "A cut apple goes brown in 20 minutes. Is the apple spoiled?",
       "options": [
-       "Yes, microbes turned it brown",
-       "No, substances in the apple reacted with oxygen in the air",
+       "Yes, microbes turned the apple brown",
+       "No, the apple reacted with oxygen in air",
        "Yes, any change in colour means spoiled"
       ],
       "a": 1,
@@ -841,9 +841,9 @@
    "mins": 50,
    "days": 4,
    "context": "In this experiment you put the same dal water into five glasses, with more salt in each one. Over three days you find out how much salt it takes to stop the dal water from spoiling.",
-   "question": "Does a little salt stop microbes, or does it take a lot? How much salt in 100 millilitres of dal water keeps it from spoiling for three days?",
+   "question": "Does a little salt stop microbes, or is a lot of salt needed? How much salt in 100 millilitres of dal water keeps it from spoiling for three days?",
    "predict": "Guess first. Five glasses of dal water get no salt, a quarter teaspoon, 1 teaspoon, 2 teaspoons and 4 teaspoons. Which glasses will spoil, and which will spoil first? Is there a glass that will not spoil at all? Why do you think so? Write your guess and your reason.",
-   "fair_test": "Every glass gets dal water from the same pot, in the same amount, in the same kind of glass. All five stand open in the same air for the same 30 minutes, and then sit side by side in the same place. Only the amount of salt changes. Stir from the least salty glass to the most salty, so the spoon carries no extra salt backwards.",
+   "fair_test": "Every glass gets dal water from the same pot, in the same amount, in the same kind of glass. All five stand open in the same air for the same 30 minutes. Then they sit side by side in the same place. Only the amount of salt changes. Stir from the least salty glass to the most salty, so the spoon carries no extra salt backwards.",
    "results_table": [
     "Glass and salt in 100 ml",
     "Day 1 evening",
@@ -911,7 +911,7 @@
      "what": "Do the last check. Draw the bar chart, say what you found, and wash everything."
     }
    ],
-   "record": "Fill in the table at every check. Write 'same' if a glass looks and smells as it did at the start. Write what changed if it is cloudier, frothy, has a skin on top or smells sour or bad. Then draw a bar chart of the check at which each glass first spoiled. Write one sentence saying what you found (your claim), one giving the checks that show it (your evidence) and one saying why you think it happened (your reasoning).",
+   "record": "Fill in the table at every check. Write 'same' if a glass looks and smells as it did at the start. Write what changed if it is cloudier, frothy, has a skin on top or smells sour or bad. Then draw a bar chart of the check at which each glass first spoiled. Write one sentence saying what you found (your claim). Write one giving the checks that show it (your evidence). Write one saying why you think it happened (your reasoning).",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: the check at which each glass first spoiled",
@@ -995,7 +995,7 @@
      "say": "Measure carefully. Every glass must get the same dal water, so that only the salt is different. Level each teaspoon with your finger.",
      "kid": "Pour 100 ml into each glass. Add the salt for each label. Stir glass A first and glass E last. Stick the labels on.",
      "parent": "One level teaspoon of fine salt weighs about 6 grams. So the five glasses hold about 0, 1.5, 6, 12 and 24 grams of salt in 100 ml. The salt in glass E takes a minute or two of stirring to dissolve.",
-     "context": "In this step of the Salt Ladder you fill five glasses with the same dal water and add a different amount of salt to each."
+     "context": "In this step of the Salt Ladder you fill five glasses with the same dal water. You add a different amount of salt to each."
     },
     {
      "id": "s4",
@@ -1013,7 +1013,7 @@
       }
      ],
      "parent": "The salty glasses may look a little different from the start. That is why check 1 matters: later you compare each glass with how that same glass looked on day 1.",
-     "context": "In this step of the Salt Ladder you let the same air reach all five glasses, cover them, and write down how they look at the start."
+     "context": "In this step of the Salt Ladder you let the same air reach all five glasses and cover them. You also write down how they look at the start."
     },
     {
      "id": "s5",
@@ -1042,9 +1042,9 @@
      "kid": "Do the last check. Draw a bar for each glass. Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
-       "q": "Glass E is still mostly water. Why did microbes not grow in it?",
+       "q": "Glass E is still mostly water. Why did microbes not grow there?",
        "good": [
-        "The salt holds on to the water, so the microbes are unable to take it in.",
+        "The salt holds on to the water, so the microbes are unable to take any in.",
         "Water moves out of the microbes into the salty water."
        ]
       },
@@ -1059,10 +1059,10 @@
      "parent": "If glass C spoiled late, point to it: it shows that the change from 'spoils' to 'keeps' happens somewhere between 1 and 2 teaspoons. That is 6 to 12 grams in 100 ml, about the strength of pickling brine.",
      "check": {
       "t": "mcq",
-      "q": "In the Salt Ladder, the glass with a quarter teaspoon of salt spoiled as fast as the glass with no salt. What does that show?",
+      "q": "In the Salt Ladder, a quarter teaspoon of salt did not slow the spoiling. What does that show?",
       "options": [
        "Salt has no effect on microbes",
-       "A small amount of salt is too little to stop microbes",
+       "A little salt is too little to stop microbes",
        "That glass was dirtier than the others"
       ],
       "a": 1,
@@ -1076,11 +1076,11 @@
    "id": "e2",
    "title": "Thick or Thin: can jaggery water be too sweet to spoil?",
    "mins": 45,
-   "days": 5,
-   "context": "In this experiment you make jaggery water at three strengths: thin, medium and a thick syrup. Over five days you find out which ones ferment, and then you thin the thick syrup to see what changes.",
+   "days": 8,
+   "context": "In this experiment you make jaggery water at three strengths: thin, medium and a thick syrup. Over five days you find out which ones ferment. Then you thin the thick syrup with water to see what changes.",
    "question": "Yeasts eat sugar. So does more sugar mean more fermenting, or can there be so much sugar that the yeasts stop?",
    "predict": "Guess first. One glass has a little jaggery in a lot of water. One has more jaggery. One is a thick syrup with very little water. Which will bubble and smell fermented first? Which will change the least? Why do you think so? Write your guess and your reason.",
-   "fair_test": "All three glasses get jaggery from the same block, the same small pinch of atta and the same kind of cover, and they stand side by side. Only the share of jaggery to water changes.",
+   "fair_test": "All three glasses get jaggery from one block, the same small pinch of atta and the same kind of cover. They stand side by side. Only the share of jaggery to water changes.",
    "results_table": [
     "Glass",
     "Jaggery and water",
@@ -1097,7 +1097,7 @@
     },
     {
      "item": "drinking water at room warmth",
-     "qty": "16 tablespoons, about 240 millilitres"
+     "qty": "24 tablespoons, about 360 millilitres"
     },
     {
      "item": "hot water, poured by a grown-up",
@@ -1105,7 +1105,7 @@
     },
     {
      "item": "atta (whole wheat flour)",
-     "qty": "4 small pinches"
+     "qty": "3 small pinches"
     },
     {
      "item": "clear glasses or small clean jars",
@@ -1125,7 +1125,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Guess. Mix the thin, medium and thick glasses, add a pinch of atta to each, cover them and put them in a warm place."
+     "what": "Guess. Mix the thin, medium and thick glasses. Add a pinch of atta to each, cover them and put them in a warm place."
     },
     {
      "day": 2,
@@ -1144,8 +1144,13 @@
     },
     {
      "day": 5,
-     "mins": 15,
-     "what": "Do the last check and say what you found. Then thin one spoon of the thick syrup with water in a new glass, and watch it for three more days."
+     "mins": 18,
+     "what": "Do the last check and say what you found. Then thin one spoon of the thick syrup with water in a new glass."
+    },
+    {
+     "day": 8,
+     "mins": 3,
+     "what": "Look at the thinned glass after three days. Write what you find, and pour everything away."
     }
    ],
    "record": "Each day, write for each glass: bubbles (yes or no), froth or skin on top (yes or no), smell (same, sour, fruity or bad). Circle the first day each glass changed. At the end, write what you found (your claim), which days show it (your evidence) and why you think it happened (your reasoning).",
@@ -1237,7 +1242,7 @@
        ]
       }
      ],
-     "context": "In this step of Thick or Thin you add the same pinch of atta, which carries wild yeasts, to all three glasses of jaggery water, and cover them."
+     "context": "In this step of Thick or Thin you add the same pinch of atta to three glasses of jaggery water. Atta carries wild yeasts."
     },
     {
      "id": "s4",
@@ -1265,7 +1270,7 @@
        ]
       },
       {
-       "q": "How could we test whether something in the thick syrup is poisoning the yeasts, or whether it is only short of water?",
+       "q": "How could we test whether the thick syrup harms the yeasts, or is only short of water?",
        "good": [
         "Add water to some of the thick syrup and see if it ferments then."
        ]
@@ -1277,20 +1282,20 @@
       "q": "In Thick or Thin, thin jaggery water fermented but thick jaggery syrup did not. Why?",
       "options": [
        "Thick syrup has no food for yeasts",
-       "In thick syrup the sugar holds the water, so yeasts can take almost none",
-       "Yeasts only like the colour of thin jaggery water"
+       "In thick syrup, sugar holds the water",
+       "Yeasts dislike the colour of thick syrup"
       ],
       "a": 1,
-      "why": "Thick syrup is full of food, but the sugar holds on to nearly all the water. A yeast cell in it loses water and stops growing. Thin jaggery water has the same food and plenty of free water."
+      "why": "Thick syrup is full of food, but the sugar holds on to nearly all the water. A yeast cell in thick syrup loses water and stops growing. Thin jaggery water has the same food and plenty of free water."
      },
-     "context": "In this step of Thick or Thin you compare three strengths of jaggery water after five days and explain which fermented."
+     "context": "In this step of Thick or Thin you compare three strengths of jaggery water after five days. You explain which ones fermented."
     },
     {
      "id": "s6",
      "mins": 12,
-     "do": "1. Put 1 tablespoon of the thick syrup into a clean fourth glass. 2. Stir in 8 tablespoons of water and a small pinch of atta. 3. Label it 'Thick, thinned' and cover it. 4. Keep it beside the old thick glass. 5. Check both once a day for three more days. Then pour everything away.",
+     "do": "1. Put 1 tablespoon of the thick syrup into a clean fourth glass. 2. Stir in 8 tablespoons of water, and add nothing else. 3. Label it 'Thick, thinned' and cover it. 4. Keep it beside the old thick glass. 5. Check both once a day for three more days. Then pour everything away.",
      "say": "Now we test your idea. This is the same syrup that did not ferment. We add only water. What do you think will happen? Why?",
-     "kid": "Take one spoon of the thick syrup. Add 8 spoons of water and a pinch of atta. Watch it for three days.",
+     "kid": "Take one spoon of the thick syrup. Add 8 spoons of water and nothing else. Watch it for three days.",
      "ask": [
       {
        "q": "The thinned syrup fermented. What does that tell you about the thick syrup?",
@@ -1302,7 +1307,7 @@
      ],
      "parent": "The thinned glass usually ferments within two or three days, like the first thin glass. This is the strongest evidence in the experiment, because the only thing added was water.",
      "wait": "Check the thinned glass once a day for three more days",
-     "context": "This is the last step of Thick or Thin. The thick jaggery syrup did not ferment, so here you add water to a spoon of it and see whether it ferments now."
+     "context": "This is the last step of Thick or Thin. The thick jaggery syrup did not ferment. So here you add water to one spoon of that syrup and see whether it ferments now."
     }
    ]
   },
@@ -1314,7 +1319,7 @@
    "context": "In this experiment you dry some tomato slices in the sun and seal other slices in a jar. You weigh the drying slices every day, and you find out which slices spoil.",
    "question": "How much of a tomato's weight is water? And which will spoil first: slices sealed in a clean jar, or slices left in the open sun?",
    "predict": "Guess first. Six tomato slices will dry in the sun for three days. Will they end at about half their weight, a quarter, or less? Three more slices will be sealed in a clean jar. Which will spoil first, the open slices or the sealed ones? Why do you think so? Write your guesses and your reasons.",
-   "fair_test": "All the slices come from the same tomatoes and are cut to the same thickness. The only difference is that one set loses water in the sun and moving air, and the other set keeps all its water in a closed jar.",
+   "fair_test": "All the slices come from the same tomatoes and are cut to the same thickness. Only one thing differs. One set loses water in the sun and moving air. The other set keeps all its water in a closed jar.",
    "results_table": [
     "Day",
     "Weight of the six sun slices (grams)",
@@ -1372,7 +1377,7 @@
     {
      "day": 4,
      "mins": 15,
-     "what": "Weigh the sun slices for the last time. Work out how much water left. Compare the two sets and explain."
+     "what": "Weigh the sun slices once more. Work out how much water left. Compare the two sets and explain."
     }
    ],
    "record": "Each day, write the weight of the six sun slices, and how both sets look. On day 4, subtract the last weight from the first to find the water that left. Draw a line graph of weight against day. Write what you found (your claim), the numbers that show it (your evidence) and why you think it happened (your reasoning).",
@@ -1426,7 +1431,7 @@
      "do": "1. Show your child the tomatoes, the plate and the jar. 2. Ask for both guesses and the reasons. 3. Write them down.",
      "say": "Six slices will dry in the sun. How much lighter will they be after three days? And which slices will spoil first, the open ones or the sealed ones? Why?",
      "kid": "How much lighter will dried slices be? Which will spoil first: open slices or sealed slices? Say why. Write your guesses.",
-     "parent": "Many children expect the open slices to spoil first, because flies and dust can reach them, and the sealed ones to stay clean. Do not correct the guess.",
+     "parent": "Many children expect the open slices to spoil first, because flies and dust can reach them. They expect the sealed ones to stay clean. Do not correct the guess.",
      "context": "This step of Sun-Dried Tomato is for guessing. You guess how much weight tomato slices lose in the sun, and whether open or sealed slices spoil first."
     },
     {
@@ -1441,11 +1446,11 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Weigh the six sun slices on a kitchen scale, and write the grams. 2. With no scale, hang a paper cup from each end of a hanger, and hang the hanger from a door handle. 3. Put the slices in one cup. 4. Add water to the other cup with the 5 ml spoon until the hanger is level. 5. Count the spoons. Each spoon is 5 grams.",
+     "do": "1. Weigh the six sun slices on a kitchen scale, and write the grams. 2. With no scale, hang a paper cup from each end of a hanger. Hang the hanger from a door handle. 3. Put the slices in one cup. 4. Add water to the other cup with the 5 ml spoon until the hanger is level. 5. Count the spoons. Each spoon is 5 grams.",
      "say": "We need the weight at the start, so we can tell how much water leaves. One 5 ml spoon of water weighs 5 grams.",
      "kid": "Weigh the six slices. With no scale, use the hanger balance. Count spoons of water until it is level. Each spoon is 5 grams.",
-     "parent": "A hanger balance is good to about one spoon, 5 grams. Six slices usually weigh 60 to 90 grams, which is 12 to 18 spoons. Check first that the empty cups hang level, and add a paper clip to the lighter side if they do not.",
-     "context": "In this step of Sun-Dried Tomato you weigh six tomato slices before they dry, on a scale or on a hanger balance."
+     "parent": "A hanger balance is good to about one spoon, 5 grams. Six slices usually weigh 60 to 90 grams, which is 12 to 18 spoons. Check first that the empty cups hang level. If they do not, add a paper clip to the lighter side.",
+     "context": "In this step of Sun-Dried Tomato you weigh six tomato slices before they dry. You use a scale or a hanger balance."
     },
     {
      "id": "s4",
@@ -1454,7 +1459,7 @@
      "say": "The cloth keeps flies off and lets the air through. The jar stays closed from now on. We only look through the glass.",
      "kid": "Spread the slices on the plate. Put it in the sun. Cover it with thin cloth. Put the jar on a shelf.",
      "parent": "Bring the plate indoors at night. In the monsoon, or with no sunny spot, put the plate under a ceiling fan. If the open slices still do not dry and begin to grow mould, write that down. It shows why families dry food in the hot, dry months.",
-     "context": "In this step of Sun-Dried Tomato you put six tomato slices in the sun under a cloth, and a jar of three slices on a shelf."
+     "context": "In this step of Sun-Dried Tomato you put six tomato slices in the sun under a cloth. A jar of three slices goes on a shelf."
     },
     {
      "id": "s5",
@@ -1462,19 +1467,19 @@
      "do": "1. Each day for two days, weigh the six sun slices and write the weight. 2. Turn each slice over. 3. Feel one slice: is it wet, leathery or crisp? 4. Look at the jar slices through the glass. Look for liquid, slime and fuzz. Do not open the jar.",
      "say": "What has changed in the sun slices? What has changed in the jar? Which set still has all its water?",
      "kid": "Weigh the sun slices each day. Turn them over. Look at the jar slices. Do not open the jar. Write it all down.",
-     "parent": "The sun slices usually lose more than half their weight on the first sunny day. The jar slices usually sit in a pool of juice by day 2 or 3, and may show slime or fuzz by day 3 to 5.",
+     "parent": "The sun slices usually lose more than half their weight on the first sunny day. The jar slices usually sit in a pool of juice by day 2 or 3. They may show slime or fuzz by day 3 to 5.",
      "wait": "Weigh and look once a day on day 2 and day 3",
      "context": "This step of Sun-Dried Tomato is repeated on two days. You weigh the tomato slices drying in the sun, and look at the slices sealed in the jar."
     },
     {
      "id": "s6",
      "mins": 15,
-     "do": "1. On day 4, weigh the sun slices for the last time. 2. Subtract the last weight from the first weight. That is the water that left. 3. Draw a line graph of the four weights. 4. Compare the sun slices with the jar slices. 5. Put the dried slices in a dry, closed jar, and look at them again in a week.",
+     "do": "1. On day 4, weigh the sun slices once more. 2. Subtract the last weight from the first weight. That is the water that left. 3. Draw a line graph of the four weights. 4. Compare the sun slices with the jar slices. 5. Put the dried slices in a dry, closed jar, and look at them again in a week.",
      "say": "Say what you thought would happen, what you saw, and why it happened. The jar was clean and closed. So why did those slices spoil?",
      "kid": "Weigh the dried slices. Subtract to find the water lost. Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
-       "q": "The jar was clean and closed. Where did the microbes in it come from?",
+       "q": "The jar was clean and closed. Where did the microbes inside come from?",
        "good": [
         "They were already on the tomato skin and the knife.",
         "Microbes are on every food."
@@ -1496,10 +1501,10 @@
      "parent": "A tomato is about 94 parts water in 100. After three days of home drying, slices usually weigh between one-tenth and one-fifth of their starting weight. If your child's result is far from this, ask what could have gone wrong with the weighing.",
      "check": {
       "t": "mcq",
-      "q": "In Sun-Dried Tomato, slices sealed in a clean jar spoiled, and slices dried in open air did not. What is the best explanation?",
+      "q": "In Sun-Dried Tomato, the sealed slices spoiled and the dried slices did not. What explains this best?",
       "options": [
        "Sunlight adds a preservative to food",
-       "The sealed slices kept their water, and the dried slices lost theirs",
+       "Only the sealed slices kept their water",
        "Air cleans the microbes off food"
       ],
       "a": 1,
@@ -1560,7 +1565,7 @@
      "do": "1. Ask your child to find eight foods in the kitchen that keep for months without a fridge. 2. For packets, read the 'best before' line. 3. Write each food and how long it keeps.",
      "say": "Which foods in our kitchen have been here the longest? Find eight that keep for months. Read the label where there is one.",
      "kid": "Find eight foods that keep for months. Read the 'best before' line on packets. Write each food and how long it keeps.",
-     "parent": "Good finds are rice, dal, atta, sugar, salt, papad, pickle, jam, honey, ghee, oil, biscuits, tamarind, jaggery, milk powder and long-life milk in a carton.",
+     "parent": "Good finds are rice, dal, atta, sugar, salt, papad, pickle, jam, honey and ghee. Oil, biscuits, tamarind, jaggery, milk powder and long-life milk in a carton also count.",
      "context": "This is the first step of the Longest-Lasting Shelf. Here you find the foods in your kitchen that keep for months."
     },
     {
@@ -1616,7 +1621,7 @@
    "title": "Count the Hurdles: read a pickle jar, a jam jar and a sauce bottle",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you read the labels of preserved foods from your kitchen. For each food you count the hurdles, which are the separate things that keep microbes from growing in it.",
+   "context": "In this activity you read the labels of preserved foods from your kitchen. For each food you count the hurdles. A hurdle is any one thing that keeps that food from spoiling.",
    "materials": [
     {
      "item": "preserved foods with labels, such as pickle, jam, tomato sauce, squash, papad, biscuits or long-life milk",
@@ -1665,7 +1670,7 @@
      "say": "Vinegar, acetic acid, citric acid and lemon all make food sour. 'Preservative' with a number is an added one. Which hurdles does this food use?",
      "kid": "Read each label aloud. Tick every hurdle the food uses. Look for 'refrigerate after opening' too.",
      "parent": "Some help with label words: 'acidity regulator (260)' is the acid of vinegar and '(330)' is the acid of lemons. 'Preservative (211)' is sodium benzoate and '(202)' is potassium sorbate. A jar or bottle that was sealed in a factory was almost always heated first.",
-     "context": "In this step of Count the Hurdles you read each label and tick every hurdle that keeps microbes out of that food."
+     "context": "In this step of Count the Hurdles you read each label. You tick every hurdle that keeps that food from spoiling."
     },
     {
      "id": "s3",
@@ -1688,11 +1693,11 @@
       "q": "A jam jar says 'refrigerate after opening'. Why is the fridge not needed before opening?",
       "options": [
        "Unopened jam has no sugar",
-       "The sealed jar was heated, and no new microbes can get in",
+       "The jar was heated and sealed",
        "Jam only spoils in the light"
       ],
       "a": 1,
-      "why": "The jam was heated and sealed, so it starts with almost no living microbes and none can enter. Opening the jar lets spores in from the air and from spoons. The seal was one hurdle, and cold replaces it."
+      "why": "The jam was heated and sealed. So the jar starts with almost no living microbes, and none can enter. Opening the jar lets spores in from the air and from spoons. The seal was one hurdle, and cold replaces it."
      },
      "context": "This is the last step of Count the Hurdles. Here you compare how many hurdles each preserved food uses."
     }
@@ -1726,7 +1731,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Guess. Put one biscuit in an airtight dabba, one on an open plate, and one under a bowl beside a damp cloth."
+     "what": "Guess. Put one biscuit in an airtight dabba and one on an open plate. Put the third under a bowl beside a damp cloth."
     },
     {
      "day": 2,
@@ -1785,10 +1790,10 @@
      "parent": "Biscuit 1 should snap cleanly and biscuit 3 should bend. Biscuit 2 depends on your weather: it softens on a humid night and may stay crisp in dry winter air. Either result is worth talking about.",
      "check": {
       "t": "mcq",
-      "q": "A papad in an open tin goes soft in the monsoon, and later grows mould. Why does the mould come only after the papad is soft?",
+      "q": "A papad in an open tin goes soft, and later grows mould. Why does mould come only after softening?",
       "options": [
        "Mould spores arrive only in the rain",
-       "The papad has taken in water from the air, so waiting spores can now grow",
+       "Water from the air lets waiting spores grow",
        "Soft papad has more salt"
       ],
       "a": 1,
@@ -1803,7 +1808,7 @@
    "title": "The Preserving Map of India",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you draw a map of India and place twelve preserved foods on it, from dried vegetables in Kashmir to dried fish in Kerala. For each food you name the hurdle that keeps it.",
+   "context": "In this activity you draw a map of India and place twelve preserved foods on it. They range from dried vegetables in Kashmir to dried fish in Kerala. For each food you name the hurdle that keeps it.",
    "materials": [
     {
      "item": "a large sheet of paper and pencils or crayons",
@@ -1874,7 +1879,7 @@
        ]
       }
      ],
-     "context": "In this step of the Preserving Map of India you write how each food is kept, and look for a pattern between the method and the weather."
+     "context": "In this step of the Preserving Map of India you write how each food is kept. You look for a pattern between the method and the weather."
     },
     {
      "id": "s3",
@@ -1882,12 +1887,12 @@
      "do": "1. Your child asks an older person about two foods their own family preserved. 2. They ask how each was made, in which month, and what rules had to be followed. 3. They add the two foods to the map.",
      "say": "Ask what our family used to preserve, in which month, and what the rules were. Then work out which hurdle each rule was protecting.",
      "kid": "Ask an older person: what did our family preserve? In which month? What were the rules? Add two foods to your map.",
-     "parent": "Rules such as 'dry spoon only', 'sun the jar first' and 'do not touch with wet hands' all keep water out. If no elder is available, your child can add two preserved foods from your own kitchen.",
+     "parent": "Rules such as 'dry spoon only', 'sun the jar first' and 'no wet hands' all keep water out. If no elder is available, your child can add two preserved foods from your own kitchen.",
      "check": {
       "t": "mcq",
       "q": "Vathal and vadam are made in March and April in Tamil Nadu. Why in those months?",
       "options": [
-       "The sun is hot and the air is dry, so food dries fast",
+       "Hot sun and dry air dry food fast",
        "Microbes sleep in March and April",
        "Rice is cheapest then"
       ],
@@ -1903,7 +1908,7 @@
    "title": "Thirty Plants: what do my gut microbes get to eat?",
    "mins": 20,
    "days": 3,
-   "context": "In this activity you count every different plant you eat in three days. Your gut microbes feed on the fibre in plants, and people who eat more kinds of plants have more kinds of gut microbes.",
+   "context": "In this activity you count every different plant you eat in three days. Your gut microbes feed on the fibre in plants. People who eat more kinds of plants have more kinds of gut microbes.",
    "materials": [
     {
      "item": "a notebook page and a pencil",
@@ -1931,11 +1936,11 @@
      "what": "Add today's new plants, count the total and compare it with your guess."
     }
    ],
-   "record": "Keep one list. Write each plant only once, the first time you eat it. At the end, write the total and one way you could add three more plants next week.",
+   "record": "Keep one list. Write each plant's name only once. At the end, write the total and one way you could add three more plants next week.",
    "setup": [
     {
      "art": "A plate of rice, sambar, a green vegetable and curd, with small labels pointing to rice, toor dal, drumstick, tomato, onion, tamarind and curry leaf.",
-     "caption": "1. Look at one meal. Name every plant in it."
+     "caption": "1. Look at one meal. Name every plant in that meal."
     },
     {
      "art": "A notebook page with a numbered list of plants, some ticked, and a pencil.",
@@ -1953,7 +1958,7 @@
      "do": "1. Ask your child to guess how many different plants they eat in three days. 2. Look at today's meals together. 3. Name every plant: grains, dals, vegetables, fruits, nuts, seeds, herbs and spices. 4. Write each one once.",
      "say": "Your gut microbes eat the fibre in plants. How many different plants do you think you eat in three days? Let's count the ones in today's lunch.",
      "kid": "Guess how many different plants you eat in three days. Now name every plant in today's meals. Write each one once.",
-     "parent": "Rice, wheat, ragi, each kind of dal, each vegetable and fruit, groundnuts, coconut, mustard seed, curry leaf and coriander all count. Sugar, oil and white flour do not add much, because their fibre has been removed. Milk, curd, egg, fish and meat are not plants.",
+     "parent": "Rice, wheat, ragi, each kind of dal, and each vegetable and fruit all count. So do groundnuts, coconut, mustard seed, curry leaf and coriander. Sugar, oil and white flour do not add much, because their fibre has been removed. Milk, curd, egg, fish and meat are not plants.",
      "context": "This is the first step of Thirty Plants. Here you guess how many different plants you eat in three days, and start a list."
     },
     {
@@ -1980,17 +1985,17 @@
        ]
       }
      ],
-     "parent": "In one large study, people who ate 30 or more kinds of plants a week had more kinds of gut microbes than people who ate fewer than 10. A family eating sambar, dal, sabzi and fruit often passes 30 in a week. Do not turn the number into a rule or a worry.",
+     "parent": "One large study counted the plants people ate in a week. Those who ate 30 or more kinds had more kinds of gut microbes. Those who ate fewer than 10 kinds had fewer. A family eating sambar, dal, sabzi and fruit often passes 30 in a week. Do not turn the number into a rule or a worry.",
      "check": {
       "t": "mcq",
       "q": "Why do your gut microbes depend on the plants you eat?",
       "options": [
-       "They feed on plant fibre that your own body is unable to digest",
-       "Plants carry the gut microbes into you each day",
+       "They feed on fibre that you cannot digest",
+       "Plants bring new gut microbes every day",
        "Plants make the gut warm"
       ],
       "a": 0,
-      "why": "Your own enzymes do not break down most fibre, so it reaches the large intestine whole. The microbes there ferment it. Most gut microbes live in you all the time and are not swallowed fresh each day."
+      "why": "Your own enzymes do not break down most fibre, so it reaches the large intestine whole. The microbes there ferment the fibre. Most gut microbes live in you all the time and are not swallowed fresh each day."
      },
      "context": "This is the last step of Thirty Plants. Here you count the different plants you ate in three days and compare the total with your guess."
     }
@@ -2090,7 +2095,7 @@
        ]
       }
      ],
-     "parent": "Let the plan be theirs, even if you expect a method to fail. Remind them of the Salt Ladder: a quarter teaspoon of salt did little, so the amount matters. Good plans include a lot of salt, lemon juice or vinegar to cover, drying in the sun, sugar syrup, or the fridge.",
+     "parent": "Let the plan be theirs, even if you expect a method to fail. Remind them of the Salt Ladder: a quarter teaspoon of salt did little, so the amount matters. Good plans include a lot of salt, or enough lemon juice or vinegar to cover the carrot. Drying in the sun, sugar syrup and the fridge are good too.",
      "context": "This is the first step of My Own Keeping Trial. Here you choose three ways to keep grated carrot from spoiling and write a plan."
     },
     {
@@ -2129,10 +2134,10 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In a keeping trial, one jar of carrot gets salt, lemon juice and the fridge together. That jar keeps best. What can you say?",
+      "q": "One jar of carrot gets salt, lemon juice and the fridge together. That jar keeps best. What can you say?",
       "options": [
        "Salt is the best method",
-       "You cannot tell which of the three did the work",
+       "You cannot tell which one did the work",
        "The fridge did nothing"
       ],
       "a": 1,
@@ -2159,7 +2164,7 @@
    ],
    "materials": [
     "paper and a pencil",
-    "what you learned from the Salt Ladder, Thick or Thin and Count the Hurdles",
+    "your notes on which hurdles keep which foods",
     "an older person who has packed food for journeys, to ask",
     "for the test: the ingredients for one item from your plan"
    ],
@@ -2170,12 +2175,12 @@
     "Whole fruit with the skin on, such as bananas and oranges."
    ],
    "creative": [
-    "Mix rice with milk and one spoon of curd in the morning. By lunchtime the curd bacteria have turned it into fresh curd rice.",
-    "Carry dry parts and wet parts separately and mix at mealtime, such as sattu powder and water, or puffed rice with chopped onion.",
+    "Mix rice with milk and one spoon of curd in the morning. By lunchtime the curd bacteria have made fresh curd rice.",
+    "Carry dry parts and wet parts separately, and mix them at mealtime. Sattu powder with water, or puffed rice with chopped onion, works this way.",
     "Pack each meal in its own closed box, so opening one does not let microbes into the others.",
     "Plan the order: the wettest and least sour food is eaten first, and the driest last."
    ],
-   "your_turn": "Now write your own plan as a table: the meal, the hour it is eaten, the foods and the hurdles. Then make one item from your plan, keep it closed at room warmth for 12 hours, and let a grown-up check it.",
+   "your_turn": "Now write your own plan as a table: the meal, the hour it is eaten, the foods and the hurdles. Then make one item from your plan and keep it closed at room warmth for 12 hours. Let a grown-up check it.",
    "setup": [
     {
      "art": "A child at a table with a sheet of paper ruled into a table with columns for meal, hour, food and hurdle.",
@@ -2213,8 +2218,8 @@
      "do": "1. Your child rules the table and fills in four meals and two snacks. 2. For each, they write the hour it is eaten and its hurdles. 3. Check the plan against the five rules.",
      "say": "Plan the first meal for hour 4 and the last for hour 30. For each food, tell me which hurdle keeps it safe until then.",
      "kid": "Fill in your table. Write the hour for each meal. Write the hurdle that keeps each food safe.",
-     "parent": "Ask an older relative how they packed food for trains. Many families have a set journey menu, and each item in it uses a hurdle. If a food in the plan has no hurdle, ask your child to move it to the first meal or replace it.",
-     "context": "In this step of the Train Tiffin you plan four meals and two snacks for a long journey, and name the hurdle that keeps each one safe."
+     "parent": "Ask an older relative how they packed food for trains. Many families have a set journey menu, and each item in it uses a hurdle. A food in the plan may have no hurdle. Ask your child to move that food to the first meal, or replace it.",
+     "context": "In this step of the Train Tiffin you plan four meals and two snacks for a long journey. You name the hurdle that keeps each one safe."
     },
     {
      "id": "s3",
@@ -2223,7 +2228,7 @@
      "say": "Now we test one part of your plan. After 12 hours, we look and smell. I will decide whether it is safe to taste.",
      "kid": "Make one item from your plan. Pack it and write the time. After 12 hours, a grown-up checks it.",
      "adult": true,
-     "parent": "A grown-up decides about tasting. If the food smells or looks different from when it was packed, do not taste it, and treat that as a useful result.",
+     "parent": "A grown-up decides about tasting. If the food smells or looks different from when it was packed, do not taste it. Treat that as a useful result.",
      "check": {
       "t": "mcq",
       "q": "Which of these is the safest choice for the last meal of a 33-hour train journey?",
@@ -2245,7 +2250,7 @@
    "title": "The Fly-Proof Dryer: dry faster than an open plate",
    "mins": 40,
    "context": "This is a design challenge about drying food. In Sun-Dried Tomato, slices dried slowly on a plate under a cloth. Now you build a dryer that dries faster than an open plate and keeps flies and dust off.",
-   "problem": "Food dried on an open plate dries slowly, and flies and dust can reach it. Build a dryer from things at home that dries a wet cloth faster than an open plate does, and that no fly can get into. The wet cloth stands in for slices of food.",
+   "problem": "Food dried on an open plate dries slowly, and flies and dust can reach it. Build a dryer from things at home. It must dry a wet cloth faster than an open plate does, and no fly may get in. The wet cloth stands in for slices of food.",
    "constraints": [
     "Use only things already at home.",
     "Air must be able to pass through the dryer.",
@@ -2317,7 +2322,7 @@
      "kid": "Draw your design. Mark where air goes in and out. Then build it. Check the five rules.",
      "adult": true,
      "parent": "A grown-up does any cutting of cardboard. Do not correct the design before the test. The test will show what to change.",
-     "context": "In this step of the Fly-Proof Dryer you design and build a dryer from a box, a net and a rack."
+     "context": "Here you design and build the Fly-Proof Dryer from a box, a net and a rack."
     },
     {
      "id": "s3",
@@ -2331,7 +2336,7 @@
       "q": "A dryer has a solid lid and no holes. The cloth inside stays wet. What is the most likely reason?",
       "options": [
        "The box is too warm",
-       "The damp air has nowhere to go, so no more water leaves the cloth",
+       "The damp air inside has nowhere to go",
        "The cloth is the wrong colour"
       ],
       "a": 1,
@@ -2496,7 +2501,7 @@
       "Honey turning grainy"
      ],
      "a": 2,
-     "why": "Green fuzz is a mould growing. A cut apple browns by reacting with air, a biscuit softens by taking in water, and honey turns grainy as sugar forms crystals.",
+     "why": "Green fuzz is a mould growing. A cut apple browns by reacting with air, and a biscuit softens by taking in water. Honey turns grainy as sugar forms crystals.",
      "outcome": 3
     },
     {
@@ -2506,14 +2511,14 @@
       "acid",
       "lactic acid"
      ],
-     "why": "The acid is lactic acid. It sets the milk, makes it sour, and holds back most other microbes.",
+     "why": "The acid is lactic acid. The acid sets the milk and makes the curd sour. Most other microbes grow poorly in that acid.",
      "outcome": 4
     },
     {
      "t": "write",
      "p": "Milk powder keeps for a year. Explain what changes once water is stirred in.",
      "lines": 3,
-     "a": "Milk powder is dry, so microbes on it have too little water to grow. Stirring in water gives them free water again. Now it is like fresh milk and will spoil in about a day unless it is kept cold.",
+     "a": "Milk powder is dry, so the microbes on the powder have too little water to grow. Stirring in water gives them free water again. Now it is like fresh milk and will spoil in about a day unless it is kept cold.",
      "why": "A strong answer says that the microbes were there all along, waiting, and that water is what lets them grow.",
      "outcome": 1
     },
@@ -2522,12 +2527,12 @@
      "p": "Explain why a wet spoon can spoil a jar of pickle.",
      "lines": 3,
      "a": "Pickle keeps because the salt holds the water and the oil keeps air out. A wet spoon brings in fresh water that the salt has not yet held. Mould spores can grow in that water, most of all on pieces that stick out above the oil.",
-     "why": "A strong answer names the hurdle that the water weakens, and says that the spoon can be perfectly clean and still do this.",
+     "why": "A strong answer names the hurdle that the water weakens. It also says that a perfectly clean spoon can still do this.",
      "outcome": 1
     },
     {
      "t": "draw",
-     "p": "Draw a jar of mango pickle. Label four hurdles that keep microbes from growing in it.",
+     "p": "Draw a jar of mango pickle. Label four hurdles that keep the pickle from spoiling.",
      "a": "A jar with mango pieces fully under a layer of oil. Labels: a lot of salt, sour mango, mustard and chilli, and oil that keeps air out.",
      "why": "A strong drawing shows every piece below the oil, and each label says what the microbes are missing.",
      "art": "A blank outline of a tall pickle jar with a lid.",
@@ -2539,7 +2544,7 @@
      "views": [
       {
        "who": "A cook",
-       "says": "Yes. We cannot eat that lemon now. The mould may have left toxins in it, and the lemon is wasted."
+       "says": "Yes. We cannot eat that lemon now. The mould may have left toxins in the lemon, and the lemon is wasted."
       },
       {
        "who": "Someone speaking for the mould",
@@ -2610,7 +2615,7 @@
       "Oil is too cold for them",
       "Oil is a strong acid",
       "Moulds are afraid of oil",
-      "Moulds need air, and oil keeps it out"
+      "Moulds need air, and oil keeps air out"
      ],
      "a": 3,
      "why": "Moulds must have air. The oil keeps air away from the pickle. Pieces that stick out above the oil can grow mould.",
@@ -2618,7 +2623,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Dried food has no living microbes on it.",
+     "p": "No living microbes are left on dried food.",
      "a": false,
      "why": "False. Drying stops microbes from growing but does not kill them all. Many wait as spores, and grow if the food gets damp.",
      "outcome": 1
@@ -2683,7 +2688,7 @@
     },
     {
      "t": "count",
-     "p": "A brine needs 12 grams of salt in every 100 ml of water. How many grams of salt are needed for 500 ml?",
+     "p": "A brine needs 12 grams of salt in every 100 ml. How many grams are needed for 500 ml?",
      "a": 60,
      "why": "500 ml is 5 lots of 100 ml. 5 times 12 grams is 60 grams.",
      "outcome": 5
@@ -2754,7 +2759,7 @@
      ],
      "ask": "Which view do you agree with most? Give a reason from what you have learned. Then answer one of the other views.",
      "a": "Any view with a reason from the unit. One reason is that every preserved food uses hurdles, and salt and sugar are preservatives too. Another is that food poisoning and wasted food are real harms.",
-     "why": "This is a real trade-off. A strong answer weighs a harm on each side and does not treat either 'natural' or 'tested' as the end of the matter.",
+     "why": "This is a real trade-off. A strong answer weighs a harm on each side. It does not treat either 'natural' or 'tested' as the end of the matter.",
      "outcome": 6
     },
     {
@@ -2782,7 +2787,7 @@
      "a": [
       "osmosis"
      ],
-     "why": "In osmosis, water passes through the cell's thin skin towards the side with more salt or sugar dissolved in it.",
+     "why": "In osmosis, water passes through the cell's thin skin. The water moves towards the side with more salt or sugar dissolved.",
      "outcome": 2
     }
    ]
@@ -2906,15 +2911,15 @@
      "p": "Milk keeps for days at 4 degrees but spoils in a day at 30 degrees. Use doubling to explain why.",
      "lines": 4,
      "a": "At 30 degrees bacteria may double every half hour, so a few become millions in a few hours. At 4 degrees they double only once in many hours, so their numbers stay low for days. The fridge does not kill them. It makes each doubling slow.",
-     "why": "A strong answer says that the same doubling happens in both places, and that only the time for each doubling is different.",
+     "why": "A strong answer says that the same doubling happens in both places. Only the time for each doubling is different.",
      "outcome": 0
     },
     {
      "t": "write",
      "p": "Design a fair test to find how much sugar stops jaggery water from fermenting.",
      "lines": 5,
-     "a": "Make a ladder of glasses with the same water and more jaggery in each, for example 1, 2, 4, 6 and 8 tablespoons in 8 tablespoons of water. Add the same pinch of atta to each and keep them together. Check each day and note the first day each one bubbles. The answer lies between the last glass that ferments and the first that does not.",
-     "why": "A strong answer has several steps of sugar, keeps everything else the same, and says how the result will be read.",
+     "a": "Make a ladder of glasses with the same water and more jaggery in each. For example, use 1, 2, 4, 6 and 8 tablespoons in 8 tablespoons of water. Add the same pinch of atta to each and keep them together. Check each day and note the first day each one bubbles. The answer lies between the last glass that ferments and the first that does not.",
+     "why": "A strong answer has several steps of sugar and keeps everything else the same. It says how the result will be read.",
      "outcome": 5
     },
     {
@@ -2952,14 +2957,14 @@
      ],
      "ask": "Which view do you agree with most? Give a reason from what you have learned. Then answer one of the other views.",
      "a": "Any view with a reason from the unit. One reason is that dry foods have a strong hurdle and change slowly. Another is that wet foods can be unsafe with no sign.",
-     "why": "A strong answer says that the right choice depends on the kind of food and its hurdles, and uses one example of each.",
+     "why": "A strong answer says that the right choice depends on the kind of food and its hurdles. It uses one example of each.",
      "outcome": 6
     },
     {
      "t": "draw",
-     "p": "Draw one yeast cell in thin jaggery water and one in thick syrup. Use arrows to show which way water moves.",
+     "p": "Draw a yeast cell in thin jaggery water and one in thick syrup. Show with arrows how water moves.",
      "a": "In thin jaggery water the cell is plump, and arrows show water moving in. In thick syrup the cell is shrunken, and arrows show water moving out of the cell into the syrup.",
-     "why": "A strong drawing shows the direction of the water and the change in the cell's size, and labels which side has more sugar.",
+     "why": "A strong drawing shows the direction of the water and the change in the cell's size. It labels which side has more sugar.",
      "art": "Two blank glasses side by side, one labelled thin and one labelled thick.",
      "how": "e2",
      "outcome": 2
@@ -2978,7 +2983,7 @@
     "Salt, sugar and acid"
    ],
    "a": 0,
-   "why": "Bacteria, yeasts and moulds are the microbes that eat food and multiply in it. Flies and ants are animals we can see, and they are not what makes dal froth or bread grow fuzz.",
+   "why": "Bacteria, yeasts and moulds are the microbes that eat food and multiply there. Flies and ants are animals we can see, and they are not what makes dal froth or bread grow fuzz.",
    "outcome": 0
   },
   {
@@ -3004,7 +3009,7 @@
     "It makes the food sour"
    ],
    "a": 2,
-   "why": "Dried food has too little free water for microbes to grow. Many microbes are still on it, waiting, which is why dried food must stay dry.",
+   "why": "Dried food has too little free water for microbes to grow. Many microbes are still on the food, waiting. That is why dried food must stay dry.",
    "outcome": 1
   },
   {
@@ -3063,7 +3068,7 @@
    "t": "mcq",
    "p": "A crisp biscuit left out overnight now bends. What happened to the biscuit?",
    "opts": [
-    "Microbes ate part of it",
+    "Microbes ate part of the biscuit",
     "It took in water from the air",
     "It lost its sugar",
     "The air cooled it"
@@ -3095,7 +3100,7 @@
     "Salt"
    ],
    "a": 1,
-   "why": "Your enzymes do not break down most fibre, so it reaches the large intestine. Gut microbes ferment it, and what they make feeds your gut wall.",
+   "why": "Your enzymes do not break down most fibre, so it reaches the large intestine. Gut microbes ferment the fibre, and what they make feeds your gut wall.",
    "outcome": 4
   },
   {
@@ -3142,7 +3147,7 @@
    "status": "find-id",
    "mins": 5,
    "why": "To hear the idea of free water explained with honey, after the Thick or Thin experiment.",
-   "check": "No address yet. Find a short explainer from a science channel or a museum. Check that it gives low water as the main reason, and that it does not claim honey can never spoil even when water is added."
+   "check": "No address yet. Find a short explainer from a science channel or a museum. Check that it gives low water as the main reason. It should not claim that honey can never spoil, even when water is added."
   },
   {
    "title": "Drying fish or making vadam in the sun in an Indian village",
@@ -3158,11 +3163,11 @@
   "Long-life milk in cartons is heated to about 140 degrees Celsius for a few seconds and packed with no microbes. It keeps for months without a fridge until it is opened.",
   "Farmers dry rice, wheat and groundnuts well before storing them. Damp grain grows moulds, and some of those moulds make toxins.",
   "Cold stores in Himachal Pradesh, Uttar Pradesh and West Bengal keep apples and potatoes for many months after the harvest.",
-  "Fishing families along the coasts of Kerala, Tamil Nadu, Gujarat and Odisha salt and dry the part of the catch that cannot be sold fresh.",
-  "Small sachets of silica gel in packets of snacks, shoes and medicines take water out of the air inside, so the contents stay dry.",
-  "Vaccines are carried to villages in cold boxes, because cold slows the changes that would spoil them, as it does for food.",
+  "Fishing families along the coasts of Kerala, Tamil Nadu, Gujarat and Odisha salt and dry part of the catch. This is the part that cannot be sold fresh.",
+  "Small sachets of silica gel are packed with snacks, shoes and medicines. They take water out of the air inside, so the contents stay dry.",
+  "Vaccines are carried to villages in cold boxes. Cold slows the changes that would spoil them, as it does for food.",
   "Seed banks keep dried seeds at minus 18 degrees Celsius. Dry and cold together let seeds wait alive for many decades.",
-  "Food for astronauts and for soldiers on mountains is dried, or heated in sealed pouches, so that it keeps for a year or more without a fridge."
+  "Food for astronauts and for soldiers on mountains is dried, or heated in sealed pouches. It keeps for a year or more without a fridge."
  ],
  "spotted": [
   {
@@ -3209,10 +3214,10 @@
   },
   {
    "q": "How does a microbe sense that water is running short, and decide to form a spore?",
-   "why_open": "Scientists know some of the signals inside the cell, but not the whole chain from sensing dryness to making a spore."
+   "why_open": "Scientists know some of the signals inside the cell. They do not know the whole chain from sensing dryness to making a spore."
   },
   {
-   "q": "Do bacteria on food signal to each other before they spoil it?",
+   "q": "Do bacteria on food signal to each other before they spoil the food?",
    "why_open": "Many bacteria release chemical signals, and act differently once they are crowded. Whether these signals set off spoiling in real foods is still being studied."
   },
   {
@@ -3275,7 +3280,7 @@
    "explain": "500 ml is 5 lots of 100 ml. 5 times 12 grams is 60 grams. Each teaspoon is about 6 grams, and 60 divided by 6 is 10.",
    "math_unit": "math.fractions.ratio-and-proportion.L5",
    "how": "e1",
-   "context": "This is about the Salt Ladder, where five glasses of dal water get different amounts of salt and you watch which ones spoil.",
+   "context": "This is about the Salt Ladder. In it, five glasses of dal water get different amounts of salt, and you watch which ones spoil.",
    "why_maths": "A recipe for brine must work for any size of jar. Keeping the same share of salt to water does that."
   },
   {
@@ -3284,7 +3289,7 @@
    "explain": "The bars for 2 and 4 teaspoons both reach 7, so those glasses never spoiled. The bar for 1 teaspoon stops at 5, so that glass spoiled late. So the change lies between 1 and 2 teaspoons in 100 ml.",
    "math_unit": "math.data.bar-charts.L5",
    "how": "e1",
-   "context": "This is about the Salt Ladder, where five glasses of dal water get different amounts of salt and you watch which ones spoil.",
+   "context": "This is about the Salt Ladder. In it, five glasses of dal water get different amounts of salt, and you watch which ones spoil.",
    "chart": {
     "type": "bar",
     "title": "Made-up example: the check at which each glass first spoiled",
@@ -3334,12 +3339,12 @@
   },
   {
    "problem": "100 grams of honey hold about 17 grams of water. 100 grams of bread hold about 38 grams of water. Which holds more water? Which one grows mould? What does this tell you about total water and free water?",
-   "answer": "Bread holds more than twice as much water, and bread grows mould. The total amount of water does not decide it. Free water does.",
+   "answer": "Bread holds more than twice as much water, and bread grows mould. So free water matters, and the total amount of water does not.",
    "explain": "38 is more than twice 17. In honey, sugar holds nearly all of the 17 grams. In bread, much of the 38 grams is free. So counting water alone does not tell you whether a food will keep.",
    "math_unit": "math.number-sense.comparing-ordering.L5",
    "how": "e2",
    "context": "This follows Thick or Thin, where thin jaggery water fermented and thick jaggery syrup did not.",
-   "why_maths": "Comparing the two numbers shows that the amount of water alone does not explain the result, so another idea is needed."
+   "why_maths": "Comparing the two numbers shows that the amount of water alone does not explain the result. Another idea is needed."
   },
   {
    "problem": "In Thick or Thin, the thin glass has 1 tablespoon of jaggery to 8 of water. The thick glass has 8 tablespoons of jaggery to 3 of water. What fraction of each mixture is jaggery? In which glass is more than half the mixture jaggery?",
@@ -3454,7 +3459,7 @@
    [
     "Honey spoils within a week of opening the jar.",
     false,
-    "Honey has so little free water that microbes do not grow in it."
+    "Honey has so little free water that microbes do not grow in honey."
    ],
    [
     "A fridge slows microbes but does not kill them.",
@@ -3632,8 +3637,8 @@
  },
  "how_we_found_out": {
   "context": "How did people find out why heating and sealing keeps food? This card tells the true story, and the idea that turned out wrong.",
-  "story": "In the 1790s, armies and ships needed food that would keep for months. Nicolas Appert, a cook and sweet-maker in Paris, tried for about fourteen years to find a way. He packed soups, peas and fruit into glass bottles, corked them tightly and heated them in boiling water. The food kept. In 1810 the French government paid him 12,000 francs to publish his method. Appert did not know why it worked. The chemist Joseph Louis Gay-Lussac tested the bottles. He said that air spoils food, and that the bottled food kept because no air was left to act on it. Most scientists accepted this for fifty years. In the 1860s Louis Pasteur showed that living microbes, carried on dust in the air, do the spoiling. The heat had killed the microbes in the bottle, and the cork kept new ones out. In the 1890s Samuel Prescott and William Underwood, in the United States, opened swollen tins of clams and corn. No air had got in, yet the food had spoiled. They found living bacteria inside, whose spores had survived too little heating.",
-  "who": "Nicolas Appert, a cook in Paris; Joseph Louis Gay-Lussac and Louis Pasteur, French chemists; Samuel Prescott and William Underwood in the United States",
+  "story": "In the 1790s, armies and ships needed food that would keep for months. Nicolas Appert, a cook and sweet-maker in Paris, tried for about fourteen years to find a way. He packed soups, peas and fruit into glass bottles, corked them tightly and heated them in boiling water. The food kept. In 1810 the French government paid him 12,000 francs to publish his method. Appert did not know why it worked. The chemist Joseph Louis Gay-Lussac tested the bottles. He said that air spoils food. He thought the bottled food kept because no air was left to act on it. Most scientists accepted this for fifty years. In the 1860s Louis Pasteur showed that living microbes, carried on dust in the air, do the spoiling. The heat had killed the microbes in the bottle, and the cork kept new ones out. In the 1890s Samuel Prescott and William Underwood, in the United States, opened swollen tins of clams and corn. No air had got in, yet the food had spoiled. They found living bacteria inside, whose spores had survived too little heating.",
+  "who": "Nicolas Appert, a cook in Paris. Joseph Louis Gay-Lussac and Louis Pasteur, French chemists. Samuel Prescott and William Underwood in the United States.",
   "when": "Appert published his method in 1810. Pasteur's work was in the 1860s. Prescott and Underwood worked on tins from 1895 to 1898.",
   "wrong_idea": "That air itself spoils food, and that food keeps when the air is taken away. Pasteur showed that microbes do the spoiling. Prescott and Underwood found food spoiled by bacteria inside tins that no air had entered.",
   "art": "A cook in an apron in an old Paris kitchen lowering corked glass bottles of peas into a large pot of boiling water."
@@ -3642,20 +3647,20 @@
   "context": "We have tested how salt and sugar stop microbes, and learned how people keep food. Now we ask what this tells us about water, about life and about ourselves.",
   "deep_truth": {
    "truth": "In Thick or Thin, the thin jaggery water fermented and the thick jaggery syrup did not. Both glasses held the same jaggery and the same pinch of atta, which carries wild yeasts. In the thick syrup, the sugar holds on to the water, so the yeasts can take almost none. So a food can feel wet to us and still be too dry for a microbe.",
-   "habit": "We call a food wet or dry by how it feels to our fingers, as if wetness were one fact about the food. For a living cell, what matters is how much of the water is free to take. Honey is about one-sixth water and keeps for years. Bread feels dry and grows mould in a week.",
-   "evidence": "In Thick or Thin, the thick syrup stays unchanged for five days. When a spoon of that same syrup is stirred into water, it ferments within a few days. In the Salt Ladder, the glass with 4 teaspoons of salt is still a liquid, yet it stays clear while the unsalted glass spoils. If your own results differ, write them down as they are and test again."
+   "habit": "We call a food wet or dry by how it feels to our fingers. We treat wetness as one fact about the food. For a living cell, what matters is how much of the water is free to take. Honey is about one-sixth water and keeps for years. Bread feels dry and grows mould in a week.",
+   "evidence": "In Thick or Thin, the thick syrup stays unchanged for five days. When a spoon of that same syrup is stirred into water, it ferments within a few days. In the Salt Ladder, the glass with 4 teaspoons of salt is still a liquid. Yet it stays clear while the unsalted glass spoils. If your own results differ, write them down as they are and test again."
   },
   "three": {
    "who_am_i": "Your cells need free water too. After very salty food you feel thirsty, because the salt in your blood is holding water that your cells need.",
-   "what_is_life": "A living being can wait. A yeast cell dried in a packet, or a mould spore on a papad, does nothing we can see for months. Give them water, and they grow again.",
+   "what_is_life": "A living being can wait. A dried yeast cell, or a mould spore on a papad, does nothing we can see for months. Give them water, and they grow again.",
    "what_is_this_world": "Water is in most places on Earth, but living beings can use it only where it is free. A salt pan, a jar of honey and a desert are each dry in their own way."
   },
-  "thread": "Every living being, from a yeast cell to you, is mostly water and must take in free water to grow. All life shares this need, because all life descends from the same first cells, who lived in water. So one rule explains many kitchens. Avakaya in Andhra Pradesh, dried fish in Kerala, murabba in Uttar Pradesh and gundruk in Sikkim all keep food by keeping free water from microbes. People who never met each other found the same answer, because they were all dealing with the same living beings and the same need.",
+  "thread": "Every living being, from a yeast cell to you, is mostly water and must take in free water to grow. All life shares this need, because all life descends from the same first cells, who lived in water. So one rule explains many kitchens. Avakaya in Andhra Pradesh, dried fish in Kerala and murabba in Uttar Pradesh all keep free water from microbes. People who never met each other found the same answer. They were all dealing with the same living beings and the same need.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 2.2",
     "teaching": "From food all beings are born. By food they live, and into food they pass when they die.",
-    "link": "A mango that we do not eat is eaten by moulds and bacteria, and returns to the soil as food for plants. In this unit's science too, everything alive is food for someone."
+    "link": "A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this unit's science too, everything alive is food for someone."
    },
    {
     "source": "Digha Nikaya 16, the Mahaparinibbana Sutta (the Buddha's last words)",
@@ -3694,5 +3699,5 @@
   ],
   "art": "A child sitting cross-legged with eyes closed and one raisin on an open palm, beside a small bowl of grapes and a jar of honey."
  },
- "playtest": "Every experiment, activity, game and challenge was reasoned through step by step as a parent and child in a city flat would do it. None has yet been tried at home, so the timings and results below are expected, not measured. The Salt Ladder (core) needs dal, salt and five clear glasses. In a warm kitchen the glasses with no salt and a quarter teaspoon should turn cloudy and sour within one to two days, and the glasses with 2 and 4 teaspoons should stay as they were. The glass with 1 teaspoon is the uncertain one. In a cool room everything is slower, and the steps say to go on for two more days. Very salty dal water can look slightly different from the start, so each glass is compared with how that same glass looked on day 1. Thick or Thin (core) needs about 200 grams of jaggery or sugar and a pinch of atta. The thin glass should bubble within two to three days in warm weather. Jaggery differs from block to block, so the day may vary, and a white skin or mould counts as a change too. Nothing from either test is tasted. Sun-Dried Tomato needs three sunny days or a ceiling fan. In the monsoon the open slices may grow mould before they dry, and the step says to record that. The hanger balance is good to about 5 grams. The Snap Test depends on the weather for the open plate, but the biscuit beside the damp cloth softens in any season. My Own Keeping Trial is the child's own design, so some methods will fail, and that is part of the project. The Train Tiffin ends with a grown-up deciding whether a packed item is safe to taste. No part needs a garden. Facts to treat with care: one level teaspoon of fine salt is taken as 6 grams, and spoons differ. The water-activity numbers, the share of water in honey, bread, butter and tomato, and the heating temperatures are the usual rounded figures. The doubling times in the maths are examples, marked with 'suppose'. The ages of the Egyptian honey, the frozen mammoths and the man in the ice are rounded. The Upanishad and Digha Nikaya lines are paraphrases. The three videos have no address yet."
+ "playtest": "Every experiment, activity, game and challenge was reasoned through step by step for a family in a city flat. None has yet been tried at home. So the timings and results below are expected, not measured. The Salt Ladder (core) needs dal, salt and five clear glasses. In a warm kitchen, glasses A and B should turn cloudy and sour within one to two days. They hold no salt and a quarter teaspoon. Glasses D and E, with 2 and 4 teaspoons, should stay as they were. Glass C, with 1 teaspoon, is the uncertain one. In a cool room everything is slower, and the steps say to go on for two more days. Very salty dal water can look slightly different from the start. So each glass is compared with how that same glass looked on day 1. Thick or Thin (core) needs about 200 grams of jaggery or sugar and a pinch of atta. The thin glass should bubble within two to three days in warm weather. Jaggery differs from block to block, so the day may vary. A white skin or mould counts as a change too. Nothing from either test is tasted. Sun-Dried Tomato needs three sunny days or a ceiling fan. In the monsoon the open slices may grow mould before they dry, and the step says to record that. The hanger balance is good to about 5 grams. In the Snap Test, the biscuit on the open plate depends on the weather. The biscuit beside the damp cloth softens in any season. My Own Keeping Trial is the child's own design. Some methods will fail, and that is part of the project. The Train Tiffin ends with a grown-up deciding whether a packed item is safe to taste. No part needs a garden. Facts to treat with care: one level teaspoon of fine salt is taken as 6 grams, and spoons differ. The numbers for free water and the heating temperatures are the usual rounded figures. So are the shares of water in honey, bread, butter and tomato. The doubling times in the maths are examples, marked with 'suppose'. The ages of the Egyptian honey, the frozen mammoths and the man in the ice are rounded. The Upanishad and Digha Nikaya lines are paraphrases. The three videos have no address yet."
 }
