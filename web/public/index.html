@@ -6917,12 +6917,59 @@ body {
 }
 @media (max-width: 899px) {
   .monthday,
-  .orbitinfo {
+  .orbitinfo,
+  .libpanel:not(.open) {
     display: none;
   }
 }
 @media (min-width: 900px) {
   /* Plan on a big screen: adding on the left, questions and lists on the right; the month with its chosen day beside it */
+  /* a unit's front page on a big screen: the picture stays on the left, the words and the parts on the right */
+  .fxmap {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 32px;
+    align-items: start;
+    max-width: 1180px;
+    margin: 0 auto;
+  }
+  .fxcover {
+    position: sticky;
+    top: 0;
+    max-width: none;
+  }
+  .fxcover .fximg.fxhero {
+    max-height: 100dvh;
+    aspect-ratio: 3/4;
+  }
+  .fxsheetp {
+    margin-top: 0;
+    max-width: none;
+    padding-top: 40px;
+  }
+  /* Library on a big screen: the filters stay open as a panel on the left, the topics in two columns */
+  .libwide {
+    display: grid;
+    grid-template-columns: 230px minmax(0, 1fr);
+    gap: 0 24px;
+    align-items: start;
+  }
+  .libwide > .libpanel {
+    grid-column: 1;
+    grid-row: 1 / span 4;
+  }
+  .libwide > :not(.libpanel) {
+    grid-column: 2;
+  }
+  .libfilt,
+  .libdone {
+    display: none;
+  }
+  .libgrid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 16px;
+  }
   /* Progress on a big screen: the school comparison is the big card, the subjects sit beside it */
   .progrid {
     display: grid;
@@ -7191,9 +7238,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="6444ecfd9a8d278fd1";window.DK_APPV="6444ecfd9a";window.DK_DATAV="8d271c7988"</script>
-<script src="/config.js?v=6444ecfd9a8d278fd1"></script>
+<script>window.DK_BUILD="d000d6ee708d278fd1";window.DK_APPV="d000d6ee70";window.DK_DATAV="8d271c7988"</script>
+<script src="/config.js?v=d000d6ee708d278fd1"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=6444ecfd9a8d278fd1"></script>
+<script src="/platform.js?v=d000d6ee708d278fd1"></script>
 </body>
 </html>

@@ -9073,7 +9073,7 @@ function combinedTopicList() {
       ),
     sum: ["Class plan", `Class ${lv}`],
     count: `${L.length} topics`,
-    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`,
+    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
   };
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
@@ -9673,7 +9673,7 @@ function topicsTab() {
       .join("")}</div></div>`,
     // one bar says what is being shown; the filter icon opens every choice in one panel
     browse = (c) =>
-      `<div class="sech"><h3 class="fs5">Browse the syllabus</h3></div><button class="libfilt" data-act="lfilt" aria-expanded="${!!ui.libfilt}">${icon("filter")}<span class="libfiltt"><b>${track === "dk" ? "DeepKids" : "Board"} track</b><span class="sm muted">${c.sum.map(esc).join(" · ")}</span></span><span class="sm muted">${c.count}</span></button>${ui.libfilt ? `<div class="libpanel">${trackSeg}${c.ctl}<button class="btn sm self-end" data-act="lfilt">Done</button></div>` : ""}${c.body}`;
+      `<div class="libwide"><div class="sech"><h3 class="fs5">Browse the syllabus</h3></div><button class="libfilt" data-act="lfilt" aria-expanded="${!!ui.libfilt}">${icon("filter")}<span class="libfiltt"><b>${track === "dk" ? "DeepKids" : "Board"} track</b><span class="sm muted">${c.sum.map(esc).join(" · ")}</span></span><span class="sm muted">${c.count}</span></button><div class="libpanel${ui.libfilt ? " open" : ""}">${trackSeg}${c.ctl}<button class="btn sm self-end libdone" data-act="lfilt">Done</button></div>${c.body}</div>`;
   if (track === "dk") {
     h += browse(dkTrackBrowse());
     if (gen.length)
@@ -9712,7 +9712,7 @@ function topicsTab() {
    ${levels.length > 1 ? pickRow("c", B === "cambridge" ? "Stage" : B === "nios" ? "Level" : "Class", levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")) : ""}`,
     sum = [BNAME[B], SUBJ[sj], lvName(lv)].filter(Boolean),
     body = `<p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
-${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:var(--fs-1)">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`;
+<div class="libgrid">${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:var(--fs-1)">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("")}</div>${units.length ? "" : `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`;
   return h + browse({ ctl, sum, count: "", body }) + `</section>`;
 }
 const slug = (s) =>
@@ -14237,21 +14237,26 @@ function onTrackView() {
       if (!U.length) return "";
       const isDone = (u) => rank[statusOf(u.k)] >= 2,
         done = U.filter(isDone).length,
-        exp = Math.round(Y.gone * U.length),
+        // a school's pace, but never more than the family's lesson days since they started could cover
+        weeks = Math.max(0, (parse(today) - parse(S.start || today)) / (7 * 864e5)),
+        avgDays = U.reduce((a, u) => a + sessionsFor(u), 0) / U.length,
+        pace = Math.floor((weeks * daysOf(s).length) / Math.max(1, avgDays)),
+        schoolExp = Math.round(Y.gone * U.length),
+        exp = Math.min(schoolExp, pace),
         gap = done - exp,
         catchUp = U.filter((u) => !isDone(u)).slice(0, Math.max(0, -gap)),
         extras = all.filter((u) => isDone(u) && !U.includes(u));
       const pc = (n) => Math.round((100 * n) / U.length),
         bar = (cls, label, n) =>
           `<div class="trkline ${cls}"><span class="xs">${label}</span><div class="trkbar"><i style="width:${Math.max(pc(n), n ? 3 : 0)}%"></i></div><b class="sm">${n} of ${U.length}</b></div>`;
-      return `<div class="trow2 ${subjClass(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]} · Class ${DATA.levels[S.levels[s]].cls}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind school` : gap > 0 ? `${gap} ahead of school` : "On track"}</span></div>
-       ${bar("done", `${esc(S.child || "Your child")} has done`, done)}${bar("school", "A school would have done by now", exp)}
+      return `<div class="trow2 ${subjClass(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]} · Class ${DATA.levels[S.levels[s]].cls}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind` : gap > 0 ? `${gap} ahead` : "On track"}</span></div>
+       ${bar("done", `${esc(S.child || "Your child")} has done`, done)}${bar("school", exp < schoolExp ? "Expected by now at your pace" : "A school would have done by now", exp)}
        ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<div class="row catchrow"><button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button><button class="btn xs soft" data-act="catchup" data-s="${s}" data-ks="${u.k}">Do next</button></div>`).join("")}<button class="btn sm" data-act="catchup" data-s="${s}" data-ks="${esc(catchUp.map((u) => u.k).join("~"))}">Put all ${catchUp.length} at the front of the queue</button></details>` : ""}
        ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
     })
     .join("");
   return rows
-    ? `<section class="sec"><div class="sech"><h3>How we compare with school</h3></div><div class="card ontrack"><p class="sm">This compares what ${esc(S.child || "your child")} has finished with what a child at school in the same class would have covered by today.</p><div class="yearstrip"><div class="ys-top"><b>${Math.round(Y.gone * 100)}%</b><span class="sm">of the school year has gone</span></div><div class="ysbar"><i style="width:${Math.round(Y.gone * 100)}%"></i>${[...Array(12)].map((_, k) => `<span>${MN[((S.yearStartMonth ?? 3) + k) % 12][0]}</span>`).join("")}</div><p class="xs muted">${fmt(Y.start)} to ${fmt(Y.end)} · Each subject below is measured against the class your child is working at.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label></div>${rows}</div></section>`
+    ? `<section class="sec"><div class="sech"><h3>How we compare with school</h3></div><div class="card ontrack"><p class="sm">This compares what ${esc(S.child || "your child")} has finished with what a child at school in the same class would have covered by today. If you started partway through the school year, we only count the lesson days since you started.</p><div class="yearstrip"><div class="ys-top"><b>${Math.round(Y.gone * 100)}%</b><span class="sm">of the school year has gone</span></div><div class="ysbar"><i style="width:${Math.round(Y.gone * 100)}%"></i>${[...Array(12)].map((_, k) => `<span>${MN[((S.yearStartMonth ?? 3) + k) % 12][0]}</span>`).join("")}</div><p class="xs muted">${fmt(Y.start)} to ${fmt(Y.end)} · Each subject below is measured against the class your child is working at.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label></div>${rows}</div></section>`
     : "";
 }
 function viewJourneyTabs() {
