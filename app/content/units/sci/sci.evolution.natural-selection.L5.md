@@ -25,7 +25,7 @@
 - **Predator**: A predator is an animal who hunts and eats other animals. *e.g.* A tiger is a predator of chital deer. A house lizard is a predator of moths.
 - **Prey**: Prey are the animals a predator hunts. One animal can be a predator and also be prey. *e.g.* A frog is prey for a snake, and the same frog is a predator of flies.
 - **Camouflage**: Camouflage is a colour, pattern or shape that makes a living being hard to see against their background. *e.g.* The orange oakleaf butterfly of Indian forests closes their wings and looks like a dry leaf.
-- **Mimicry**: Mimicry is when one species looks like another species that predators avoid. *e.g.* The female common mormon butterfly is harmless. Many look like the common rose butterfly, which tastes bad to birds.
+- **Mimicry**: Mimicry is when one species looks like another species that predators avoid. *e.g.* The female common mormon butterfly is harmless. Many look like the common rose butterfly, who tastes bad to birds.
 - **Mutation**: A mutation is a change in DNA, made by chance when a cell copies DNA. Mutations are where new variations come from. *e.g.* One chance mutation long ago let some adult humans keep digesting milk. Their children inherited it.
 - **Species**: A species is a group of living beings who can breed together and have young who can also have young. Scientists do not all agree on this meaning. *e.g.* Horses and donkeys are two species. Their young, the mule, cannot have young of her own.
 - **Selective breeding**: Selective breeding is when people choose which plants or animals become parents, to get features that people want. *e.g.* Farmers bred cabbage, cauliflower and knol khol from one wild plant, by saving seed from the plants they liked.

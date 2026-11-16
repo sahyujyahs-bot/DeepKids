@@ -10,7 +10,7 @@
 1. I can explain why a plucked string keeps moving back and forth, and what makes a vibration faster or slower.
 2. I can explain how separate pushes become a steady note, and work out the pushes in each second, in hertz.
 3. I can say what vibrates in a string instrument, a drum, a wind instrument and a voice.
-4. I can describe how a vibration travels from a source to the eardrum, through a solid, a liquid or a gas.
+4. I can describe how a vibration travels through a solid, a liquid or a gas to the eardrum.
 5. I can plan a fair test, and name what I change, what I measure and what I keep the same.
 6. I can explain where a vibration goes when a sound dies away, and why a soundboard makes a sound louder.
 

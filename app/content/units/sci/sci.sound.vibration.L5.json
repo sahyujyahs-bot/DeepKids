@@ -16,7 +16,7 @@
   "I can explain why a plucked string keeps moving back and forth, and what makes a vibration faster or slower.",
   "I can explain how separate pushes become a steady note, and work out the pushes in each second, in hertz.",
   "I can say what vibrates in a string instrument, a drum, a wind instrument and a voice.",
-  "I can describe how a vibration travels from a source to the eardrum, through a solid, a liquid or a gas.",
+  "I can describe how a vibration travels through a solid, a liquid or a gas to the eardrum.",
   "I can plan a fair test, and name what I change, what I measure and what I keep the same.",
   "I can explain where a vibration goes when a sound dies away, and why a soundboard makes a sound louder."
  ],
@@ -1196,7 +1196,7 @@
      "say": "Now I will move back. I will try to strike just as hard each time. Why does that matter? Tell me the score after each strike.",
      "kid": "Now the plate moves back. Score each strike at 20, 40 and 80 centimetres. Add up each row.",
      "parent": "A hand cannot strike exactly the same way twice. Three strikes at each distance make one odd strike matter less. Expect the scores to fall as the plate moves away.",
-     "context": "In this step of the Thali and the Skin the plate is struck at 20, 40 and 80 centimetres from the bowl. There are three strikes at each distance."
+     "context": "In this step of the Thali and the Skin the plate is struck further from the bowl: 20, 40 and 80 centimetres. There are three strikes at each distance."
     },
     {
      "id": "s5",
@@ -1378,7 +1378,7 @@
      "say": "Now the wool, then the rubber bands. Count each time. Last, I will pinch the string while the spoon is ringing. What do you think you will hear?",
      "kid": "Try wool. Then try rubber bands. Count each time. Then someone pinches the string. What happens?",
      "parent": "Rubber bands usually carry the ring worst. Soft, stretchy rubber takes the energy out of the vibration. Wool often falls in between. Write down what you really hear. A pinch on the string cuts the ring off at once, because the fingers take the vibration.",
-     "context": "In this step of the Spoon on a String you change the string for wool, and then for a chain of rubber bands. Then someone pinches the string while the spoon rings."
+     "context": "In this step of the Spoon on a String you swap the string for wool, then for rubber bands. Then someone pinches the string while the spoon rings."
     },
     {
      "id": "s4",
