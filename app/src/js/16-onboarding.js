@@ -88,13 +88,16 @@ function obKeepName() {
 }
 // First page: who is learning, which track, which subjects. Second page: the level of each subject, the week, then the plan is built.
 const obTrack = (d) => {
-  const isB = ["ncert", "cambridge", "nios"].includes(d.board);
-  return `<h2 class="obh">Which track?</h2><p class="muted">You can change this later. Every level and every chapter stays open to browse and add, whichever you pick.</p><div class="choices">
-    <button type="button" class="choice" aria-pressed="${d.board === "combined"}" data-b="combined"><img class="obimg" src="media/ui/intro-together.jpg" alt=""><span><b>DeepKids track</b><span>Led by topics. Every topic that NCERT, Cambridge and NIOS teach in a class, and much more, so your child is ready for any school. The plan follows curiosity, keeps pace with the boards, and has one catch-up week each quarter.</span></span></button>
-    <button type="button" class="choice" aria-pressed="${isB}" data-obtrack="board"><img class="obimg" src="media/ui/intro-schools.jpg" alt=""><span><b>Board track</b><span>Led by your textbook. The book chapter by chapter, with our quizzes, big questions, other points of view, songs, jokes and worksheets alongside.</span></span></button></div>
+  const isB = ["ncert", "cambridge", "nios"].includes(d.board),
+    opt = (on, attr, name, text, tag) =>
+      `<button type="button" class="obopt" aria-pressed="${on}" ${attr}><i class="obtick"></i><span><b>${name}${tag ? ` <span class="pill">${tag}</span>` : ""}</b><span class="obd">${text}</span></span></button>`;
+  return `<h2 class="obh">How do you want to learn?</h2><p class="muted">Pick one. You can change it later.</p><div class="obopts">
+    ${opt(d.board === "combined", 'data-b="combined"', "DeepKids track", "Led by topics: every topic NCERT, Cambridge and NIOS teach in a class, and much more.", "Recommended")}
+    ${opt(isB, 'data-obtrack="board"', "Board track", "Led by your textbook, chapter by chapter, with our quizzes and worksheets alongside.")}
+    ${opt(d.board === "waldorf", 'data-b="waldorf"', "Waldorf (Steiner)", "A way of teaching, not a board: stories, arts and handwork, the Indian way.")}</div>
     ${
       isB
-        ? `<h2 style="font-size:var(--fs-6);margin-top:10px">Which boards?</h2><p class="xs muted">Pick one or more. The plan follows the first one you pick; the others' chapters show in the Library to add any time.</p><div class="row">${[
+        ? `<h2 class="obh">Which boards?</h2><p class="muted">Pick one or more. The plan follows the first one you pick.</p><div class="row chips">${[
             ["ncert", "NCERT / CBSE"],
             ["cambridge", "Cambridge Primary"],
             ["nios", "NIOS"],
@@ -105,15 +108,15 @@ const obTrack = (d) => {
             )
             .join("")}</div>`
         : ""
-    }
-    <p class="sm" style="margin-top:12px">Or a different way of learning:</p><div class="choices"><button type="button" class="choice" aria-pressed="${d.board === "waldorf"}" data-b="waldorf"><img class="obimg" src="media/ui/track-waldorf.jpg" alt=""><span><b>Waldorf (Steiner)</b><span>A way of teaching, not a board: a long morning main lesson, stories, arts and handwork, the Indian way.</span></span></button></div>
-    `;
+    }`;
 };
 const obSubjects = (d) =>
-  `<h2 class="obh">Which subjects?</h2><div class="choices">${visSubj(d.board)
+  `<h2 class="obh">Which subjects?</h2><p class="muted">Tap to leave one out or bring it back.</p><div class="row chips">${visSubj(
+    d.board,
+  )
     .map(
       (k) =>
-        `<button type="button" class="choice" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${sblob(k, d.subjects.includes(k) ? "happy" : "sleepy")}<span><b>${SUBJ[k]}</b><span>${k === "wml" ? "The long morning lesson: stories, letters, numbers, nature and history in blocks of 3–4 weeks" : k === "wart" ? "Painting, handwork, music, modelling and baking, one each weekday" : k === "hin" && d.board === "waldorf" ? "Hindi as the second language: songs first, then letters" : k === "hin" ? "Not part of Cambridge" : "Tap to include or leave out"}</span></span></button>`,
+        `<button type="button" class="chip" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${d.subjects.includes(k) ? "✓ " : ""}${SUBJ[k]}</button>`,
     )
     .join("")}</div>`;
 const obLevels = (d) => {
@@ -134,7 +137,7 @@ function viewOnboarding() {
   d.picked = d.picked || {};
   if (ob.quiz) return fxObQuiz();
   if (ob.step === 0)
-    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/intro-play.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div><span class="xs muted">You choose the level for each subject on the next page. Children are often at different levels in different subjects.</span></div>${obTrack(d)}${obSubjects(d)}${fxObNav(false, `Continue${icon("next")}`)}</div>`;
+    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/intro-play.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div></div>${obTrack(d)}${obSubjects(d)}${fxObNav(false, `Continue${icon("next")}`)}</div>`;
   return `<div class="ob">${fxObBar(1)}<h1>${esc(d.child || "Your child")}'s learning plan</h1>${obLevels(d)}${obWeek(d)}${fxObNav(true, `Build my plan${icon("next")}`)}</div>`;
 }
 // Checks the current step, then moves on; the last step builds the plan
@@ -286,7 +289,7 @@ function lvqStep(Q, knew) {
 }
 const fxHasPQ = (s) => [1, 2, 3, 4, 5].every((l) => fxPQ(s, l).length);
 const fxObNav = (back, label) =>
-  `<div class="row" style="justify-content:space-between">${back ? `<button class="btn soft" data-ob="back">Back</button>` : "<span></span>"}<button class="btn" data-ob="next">${label}</button></div>`;
+  `<div class="row obnav" style="justify-content:space-between">${back ? `<button class="btn soft" data-ob="back">Back</button>` : "<span></span>"}<button class="btn" data-ob="next">${label}</button></div>`;
 function fxObQuiz() {
   return `<div class="ob">${fxObBar(1)}${lvqCard(ob.quiz, "data-obqa")}</div>`;
 }

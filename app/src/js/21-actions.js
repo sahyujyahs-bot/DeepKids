@@ -41,7 +41,7 @@ function onAct(e) {
   if (ob) {
     const d = ob.d,
       t = e.target.closest(
-        "[data-ob],button[data-age],button[data-cls],button[data-b],button.choice[data-s],button[data-mode]",
+        "[data-ob],button[data-age],button[data-cls],button[data-b],button[data-s],button[data-mode]",
       );
     if (!t) return;
     obKeepName();
