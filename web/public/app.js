@@ -321,6 +321,7 @@ const ICONS = {
   exps: '<path d="M12 21v-8M12 13c0-4-3-6.5-7.5-6.5 0 4.2 3 6.5 7.5 6.5zM12 11c0-3.5 2.4-6.5 7-6.5 0 3.5-2.4 6.5-7 6.5z"/>',
   check: '<path d="M5 12.5l4.5 4.5L19 7.5" stroke-width="2.4"/>',
   close: '<path d="M6 6l12 12M18 6L6 18"/>',
+  filter: '<path d="M4 6h16M7 12h10M10 18h4"/>',
   plus: '<path d="M12 5v14M5 12h14"/>',
   next: '<path d="M9 6l6 6-6 6"/>',
   back: '<path d="M15 6l-6 6 6 6"/>',
@@ -2031,8 +2032,8 @@ function buildDayPlan(date) {
       who: "both",
       kind: "paper",
       p: rs.p,
-      title: "Real research: " + rs.p.title,
-      sub: "This week's research paper, picked from what you like · " + rs.p.source.name,
+      title: "Research paper made easy: " + rs.p.title,
+      sub: "A real scientific paper, retold in simple words, picked from what you like · " + rs.p.source.name,
       done: rs.done || !!S.tl[date + "|paper"],
     });
   if (parse(date).getDay() === 0)
@@ -9078,8 +9079,20 @@ function combinedTopicList() {
       .sort((a, b) => a - b),
     lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.sci) ? S.levels.sci : cls[0],
     L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
-  return `${pickRow("c", "Class", cls.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`).join(""))}
-   ${dkViewPick(`${L.length} topics`)}<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`;
+  return {
+    ctl:
+      dkViewPick() +
+      pickRow(
+        "c",
+        "Class",
+        cls
+          .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`)
+          .join(""),
+      ),
+    sum: ["Class plan", `Class ${lv}`],
+    count: `${L.length} topics`,
+    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`,
+  };
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
 function combinedCard(e) {
@@ -9107,26 +9120,36 @@ function dkTrackBrowse() {
         .join(""),
     );
   if (sj !== "sci")
-    return `${chips}<p class="note">DeepKids ${esc(SUBJ[sj])} is coming soon. For now, its chapters are under Board track.</p>`;
-  return chips + combinedBrowse();
+    return {
+      ctl: chips,
+      sum: [SUBJ[sj]],
+      count: "",
+      body: `<p class="note">DeepKids ${esc(SUBJ[sj])} is coming soon. For now, its chapters are under Board track.</p>`,
+    };
+  const c = combinedBrowse();
+  return { ...c, ctl: chips + c.ctl, sum: [SUBJ[sj], ...c.sum] };
 }
 // DeepKids Science two ways, picked under View: the class plan, or every topic with its levels 1 to 5
-const dkViewPick = (count) =>
-  `<div class="libview"><label class="viewpick"><span class="sm">View:</span><select id="dkView">${[
-    ["class", "Class plan"],
-    ["topic", "All topics and levels"],
-  ]
-    .map(
-      ([k, n]) =>
-        `<option value="${k}"${(ui.dkview === "topic" ? "topic" : "class") === k ? " selected" : ""}>${n}</option>`,
-    )
-    .join("")}</select></label><span class="sm muted">${count}</span></div>`;
+const dkViewPick = () =>
+  pickRow(
+    "v",
+    "View",
+    [
+      ["class", "Class plan"],
+      ["topic", "All topics and levels"],
+    ]
+      .map(
+        ([k, n]) =>
+          `<button class="chip" aria-pressed="${(ui.dkview === "topic" ? "topic" : "class") === k}" data-act="dkv" data-v="${k}">${n}</button>`,
+      )
+      .join(""),
+  );
 const combinedBrowse = () => (ui.dkview === "topic" ? fxTopicLadder() : combinedTopicList());
 // every science unit, one level at a time: pick a level, see its units by strand; any open unit can be added to the
 // plan alongside the class plan, and a count says how many more are coming
 function fxTopicLadder() {
   const T = DATA.ladder?.sci || [];
-  if (!T.length) return "";
+  if (!T.length) return { ctl: "", sum: [], count: "", body: "" };
   const lvs = [...new Set(T.flatMap((t) => t.levels.map(([l]) => +l)))].sort((a, b) => a - b),
     lv = lvs.includes(ui.bl) ? ui.bl : lvs.includes(S.levels?.sci) ? S.levels.sci : lvs[Math.min(2, lvs.length - 1)],
     at = (t) => t.levels.find(([l]) => +l === lv)?.[1] || [],
@@ -9140,9 +9163,22 @@ function fxTopicLadder() {
           .filter(([id]) => DATA.units?.[id]),
       ])
       .filter(([, L]) => L.length);
-  return `${dkViewPick(`${have.length} units`)}${pickRow("c", "Level", lvs.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Level ${l}</button>`).join(""))}
-   <p class="xs muted">Level ${lv} is about Class ${DATA.levels?.[lv]?.cls || lv}. Add any unit to your plan, alongside your class plan.${["combined", "none"].includes(S.board) ? "" : " Units with a 🔒 open on the DeepKids track."}</p>
+  const body = `<p class="xs muted">Level ${lv} is about Class ${DATA.levels?.[lv]?.cls || lv}. Add any unit to your plan, alongside your class plan.${["combined", "none"].includes(S.board) ? "" : " Units with a 🔒 open on the DeepKids track."}</p>
    <section class="fxnew">${strands.map(([st, L]) => `<h3 class="fxsh">${esc(st)}</h3>${fxUnitBtns(L.map(([id]) => DATA.units[id]))}`).join("")}${all.length > have.length ? `<p class="sm muted">${all.length - have.length} more units are coming at Level ${lv}.</p>` : ""}${fxSongBtns()}</section>`;
+  return {
+    ctl:
+      dkViewPick() +
+      pickRow(
+        "c",
+        "Level",
+        lvs
+          .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Level ${l}</button>`)
+          .join(""),
+      ),
+    sum: ["All topics", `Level ${lv}`],
+    count: `${have.length} units`,
+    body,
+  };
 }
 const LSUBJ = {
   sci: "Science",
@@ -9213,7 +9249,7 @@ const storyHtml = (st) =>
   `<article class="story"><h2>${esc(st.title)}</h2>${st.text.map((p, i) => `<p${i ? "" : ' class="first"'}>${esc(p)}</p>`).join("")}<div class="storyask"><b>Talk about it</b><ol>${st.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ol></div></article>`;
 const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
-  ["research", "Research Papers", "Real research papers, retold for children as flashcards"],
+  ["research", "Research Papers", "Real scientific papers, made easy to read as flashcards"],
   ["games", "Games", "Quick games to play now, puzzles to play here, and every card and board game"],
   ["science", "Curated Resources", "Free activities, simulations and videos, tagged to chapters"],
   [
@@ -9647,14 +9683,17 @@ function topicsTab() {
     return h;
   }
   const track = ui.btrack || (onDkTrack() ? "dk" : "board"),
-    head = `<div class="sech"><h3 class="fs5">Browse the syllabus</h3></div><div class="pickl">Track</div><div class="seg trackseg">${[
+    trackSeg = `<div class="pick t"><span class="pickl">Track</span><div class="seg trackseg">${[
       ["dk", "DeepKids track"],
       ["board", "Board track"],
     ]
       .map(([k, n]) => `<button aria-pressed="${track === k}" data-act="btrack" data-v="${k}">${n}</button>`)
-      .join("")}</div>`;
+      .join("")}</div></div>`,
+    // one bar says what is being shown; the filter icon opens every choice in one panel
+    browse = (c) =>
+      `<div class="sech"><h3 class="fs5">Browse the syllabus</h3></div><button class="libfilt" data-act="lfilt" aria-expanded="${!!ui.libfilt}">${icon("filter")}<span class="libfiltt"><b>${track === "dk" ? "DeepKids" : "Board"} track</b><span class="sm muted">${c.sum.map(esc).join(" · ")}</span></span><span class="sm muted">${c.count}</span></button>${ui.libfilt ? `<div class="libpanel">${trackSeg}${c.ctl}<button class="btn sm self-end" data-act="lfilt">Done</button></div>` : ""}${c.body}`;
   if (track === "dk") {
-    h += head + dkTrackBrowse();
+    h += browse(dkTrackBrowse());
     if (gen.length)
       h += `<div class="sech"><h3 class="fs5">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
     return h + `</section>`;
@@ -9686,15 +9725,13 @@ function topicsTab() {
           : B === "nios"
             ? "Level " + (l <= 3 ? "A" : "B")
             : "Level " + l;
-  h += `${head}
-   ${pickRow("b", "Board", BT.map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join(""))}${`
+  const ctl = `${pickRow("b", "Board", BT.map((b) => `<button class="chip" aria-pressed="${B === b}" data-act="bb" data-b="${b}">${BNAME[b]}</button>`).join(""))}
    ${subjs.length > 1 ? pickRow("s", "Subject", subjs.map((s) => `<button class="chip" aria-pressed="${sj === s}" data-act="bs" data-s="${s}">${SUBJ[s]}</button>`).join("")) : ""}
-   ${levels.length > 1 ? pickRow("c", B === "cambridge" ? "Stage" : B === "nios" ? "Level" : "Class", levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")) : ""}
-   <p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
-   ${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:var(--fs-1)">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`}`;
-  if (gen.length)
-    h += `<div class="sech"><h3 class="fs5">Explored by families</h3></div>${gen.map((g) => topicRow(genUnit(g))).join("")}`;
-  return h + `</section>`;
+   ${levels.length > 1 ? pickRow("c", B === "cambridge" ? "Stage" : B === "nios" ? "Level" : "Class", levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")) : ""}`,
+    sum = [BNAME[B], SUBJ[sj], lvName(lv)].filter(Boolean),
+    body = `<p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
+${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:var(--fs-1)">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`;
+  return h + browse({ ctl, sum, count: "", body }) + `</section>`;
 }
 const slug = (s) =>
   s
@@ -10141,6 +10178,16 @@ Object.assign(ACT, {
     sfx("tap");
     render();
   },
+  lfilt() {
+    ui.libfilt = !ui.libfilt;
+    sfx("tap");
+    render();
+  },
+  dkv(b) {
+    ui.dkview = b.dataset.v;
+    sfx("tap");
+    render();
+  },
   bs(b, e, a, k) {
     ui.bs = b.dataset.s;
     ui.bl = null;
@@ -10528,7 +10575,7 @@ function researchTab() {
     st = rsSt(),
     L = f === "you" ? rsForYou() : f === "read" ? rsAll().filter((p) => st.read[p.id]) : rsAll();
   const chip = (k, n) => `<button class="chip" data-act="rsf" data-f="${k}" aria-pressed="${f === k}">${n}</button>`;
-  return `<section class="sec"><div class="card rshead"><span class="eyebrow">Real science, told for children</span><h2>What scientists found out</h2><p class="sm">Real research papers, retold in a few flashcards: the question, who found out, how, and what they found. Read one together each week. Tap 🤍 on the ones you enjoy, and we'll pick more like them.</p></div>
+  return `<section class="sec"><div class="card rshead"><span class="eyebrow">Research papers made easy</span><h2>What scientists found out</h2><p class="sm">Real research papers from scientists, rewritten in plain words as a few flashcards: the question, who found out, how, and what they found. Read one together each week. Tap 🤍 on the ones you enjoy, and we'll pick more like them.</p></div>
    <div class="row">${chip("you", "Picked for you")}${chip("all", "All " + rsAll().length)}${chip("read", "Read already")}</div>
    ${L.length ? `<div class="rsgrid">${L.map(rsCard).join("")}</div>` : `<p class="sm muted">${f === "read" ? "Nothing read yet. Pick one above." : "You've read them all. New ones come every week."}</p>`}</section>`;
 }
@@ -10687,7 +10734,7 @@ function calHead0(d) {
       day: "numeric",
       month: "short",
     });
-  return `<div class="calhead"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><div class="calt"><b>${lab}</b><span class="xs muted">${sub}</span></div><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button>${d !== today ? `<button class="link xs" data-act="tday" data-d="0" style="margin-left:auto">Back to today</button>` : `<button class="link xs" data-act="quick" style="margin-left:auto">${ui.qaOpen ? "Close" : "+ Add"}</button>`}</div>${ui.qaOpen && d === today ? `<section class="qa-in"><b class="h5">Add to today</b>${quickAdd(today)}</section>` : ""}`;
+  return `<div class="calhead"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><div class="calt"><b>${lab}</b><span class="xs muted">${sub}</span></div><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button>${d !== today ? `<button class="link xs" data-act="tday" data-d="0" style="margin-left:auto">Back to today</button>` : `<button class="link xs" data-act="quick" style="margin-left:auto">+ Add</button>`}</div>`;
 }
 function noLessonNote(d) {
   const wd = parse(d).getDay(),
@@ -10988,7 +11035,17 @@ function qaKeep(b) {
   const f = b.closest(".addbox");
   if (f) ui.qdraft = Object.fromEntries(["t", "s", "e", "d"].map((k) => [k, f.querySelector("#qa-" + k)?.value]));
 }
-function quickAdd(date) {
+// the kind chosen in the Plan screen's list: keep what was typed, show that kind's form
+function qaSetKind(sel) {
+  qaKeep(sel);
+  ui.qkind = sel.value;
+  ui.qrep = ui.qwho = null;
+  ui.qdays = [];
+  sfx("tap");
+  render();
+  if (sheet.open) renderSheet();
+}
+function quickAdd(date, one) {
   const Q = ui.qdraft || {},
     { kd, repeats, w, r } = qaPick(),
     K = ADDK.find((x) => x[0] === kd),
@@ -10997,7 +11054,7 @@ function quickAdd(date) {
     dated = !["interest", "have"].includes(kd) && !(repeats && r !== "once"),
     life = kd === "did" || kd === "went";
   return `<div class="addbox">
-   <div class="addkinds">${ADDK.map(([k, e, n, , sh]) => `<button type="button" class="addk" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}"><span>${e}</span>${sh || n}</button>`).join("")}</div>
+   ${one ? "" : `<label class="sm" for="qkindSel"><b>What are you adding?</b></label><select class="inp" id="qkindSel">${ADDK.map(([k, e, n]) => `<option value="${k}"${kd === k ? " selected" : ""}>${e} ${n}</option>`).join("")}</select>`}
    <div class="addform"><label class="sm" for="qa-t"><b>${K[2]}</b></label><input class="inp" id="qa-t" maxlength="${kd === "have" ? 300 : 80}" value="${esc(Q.t || "")}" placeholder="${esc(K[3])}">
    ${
      timed
@@ -11059,7 +11116,7 @@ function quickSave(root) {
     ui.qdraft = null;
     lifeRecord({ kind: kd, title: t, date: d > today ? today : d, mins: +g("#qa-m") || 0 });
     clearIn("qa-t");
-    return;
+    return true;
   } else if (kd === "todo") {
     S.todos = [...(S.todos || []), { id, title: t, who: "you", date: d, note: "", done: false }];
     toast("To-do added for " + fmt(d));
@@ -11086,6 +11143,17 @@ function quickSave(root) {
   ui.qdraft = null;
   commit();
   ["qa-t", "qa-s", "qa-e"].forEach(clearIn);
+  return true;
+}
+// Add from Today: a sheet that first lists the kinds, then shows only the form of the one chosen
+function qaddView() {
+  const k = ui.sheet.kind;
+  if (!k) {
+    setSheetTitle("Add to today");
+    return `<div class="addlist">${ADDK.map(([id, e, n, ex]) => `<button type="button" class="addpick" data-act="qpick" data-k="${id}"><span class="e">${e}</span><span class="m"><b>${n}</b><span class="xs muted">${ex}</span></span></button>`).join("")}</div>`;
+  }
+  setSheetTitle("Add " + ADDK.find((x) => x[0] === k)[2].toLowerCase());
+  return `<button type="button" class="link sm" data-act="qback">‹ All kinds</button>${quickAdd(today, true)}`;
 }
 function parentView() {
   const p = S.parent || {},
@@ -11151,7 +11219,7 @@ const WEEK1 = [
   [
     "photo",
     "Save your child's work",
-    "Take a photo of a drawing, a model or a worksheet. It goes into their learning diary and progress.",
+    "Take a photo of a drawing, a model or a worksheet. It goes into Photos and files in Progress.",
     'data-act="uploads"',
   ],
   [
@@ -11419,9 +11487,21 @@ Object.assign(ACT, {
   },
   quick(b, e, a, k) {
     sfx("flip");
-    ui.qaOpen = !ui.qaOpen;
-    render();
-    if (ui.qaOpen) setTimeout(() => document.getElementById("qa-t")?.focus(), 80);
+    openSheet({ mode: "qadd" });
+  },
+  qpick(b, e, a, k) {
+    ui.qkind = b.dataset.k;
+    ui.qrep = ui.qwho = null;
+    ui.qdays = [];
+    ui.qdraft = null;
+    ui.sheet.kind = b.dataset.k;
+    sfx("tap");
+    renderSheet(true);
+  },
+  qback(b, e, a, k) {
+    ui.sheet.kind = null;
+    sfx("tap");
+    renderSheet(true);
   },
   qwho(b, e, a, k) {
     ui.qwho = b.dataset.w;
@@ -11429,16 +11509,7 @@ Object.assign(ACT, {
     sfx("tap");
   },
   qaddq(b, e, a, k) {
-    quickSave(b.closest(".addbox"));
-  },
-  qkind(b, e, a, k) {
-    qaKeep(b);
-    ui.qkind = b.dataset.k;
-    ui.qrep = ui.qwho = null;
-    ui.qdays = [];
-    sfx("tap");
-    render();
-    if (sheet.open) renderSheet();
+    if (quickSave(b.closest(".addbox")) && ui.sheet?.mode === "qadd") sheet.close();
   },
   qrep(b, e, a, k) {
     qaKeep(b);
@@ -14133,14 +14204,14 @@ function onTrackView() {
       const pc = (n) => Math.round((100 * n) / U.length),
         bar = (cls, label, n) =>
           `<div class="trkline ${cls}"><span class="xs">${label}</span><div class="trkbar"><i style="width:${Math.max(pc(n), n ? 3 : 0)}%"></i></div><b class="sm">${n} of ${U.length}</b></div>`;
-      return `<div class="trow2 ${subjClass(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind` : gap > 0 ? `${gap} ahead` : "On track"}</span></div>
-       ${bar("done", "Done", done)}${bar("school", "A school by now", exp)}
+      return `<div class="trow2 ${subjClass(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]} · Class ${DATA.levels[S.levels[s]].cls}</b><span class="trkchip ${gap < 0 ? "behind" : gap > 0 ? "ahead" : "even"}">${gap < 0 ? `${-gap} behind school` : gap > 0 ? `${gap} ahead of school` : "On track"}</span></div>
+       ${bar("done", `${esc(S.child || "Your child")} has done`, done)}${bar("school", "A school would have done by now", exp)}
        ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<div class="row catchrow"><button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button><button class="btn xs soft" data-act="catchup" data-s="${s}" data-ks="${u.k}">Do next</button></div>`).join("")}<button class="btn sm" data-act="catchup" data-s="${s}" data-ks="${esc(catchUp.map((u) => u.k).join("~"))}">Put all ${catchUp.length} at the front of the queue</button></details>` : ""}
        ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
     })
     .join("");
   return rows
-    ? `<section class="sec"><div class="sech"><h3>Are we on track?</h3></div><div class="card ontrack"><div class="yearstrip"><div class="ys-top"><b>${Math.round(Y.gone * 100)}%</b><span class="sm">of the school year has gone</span></div><div class="ysbar"><i style="width:${Math.round(Y.gone * 100)}%"></i>${[...Array(12)].map((_, k) => `<span>${MN[((S.yearStartMonth ?? 3) + k) % 12][0]}</span>`).join("")}</div><p class="xs muted">${fmt(Y.start)} to ${fmt(Y.end)} · For each subject: topics done, and how many a school would have covered by now.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label></div>${rows}</div></section>`
+    ? `<section class="sec"><div class="sech"><h3>How we compare with school</h3></div><div class="card ontrack"><p class="sm">This compares what ${esc(S.child || "your child")} has finished with what a child at school in the same class would have covered by today. A school spreads a year's syllabus over the whole school year.</p><div class="yearstrip"><div class="ys-top"><b>${Math.round(Y.gone * 100)}%</b><span class="sm">of the school year has gone</span></div><div class="ysbar"><i style="width:${Math.round(Y.gone * 100)}%"></i>${[...Array(12)].map((_, k) => `<span>${MN[((S.yearStartMonth ?? 3) + k) % 12][0]}</span>`).join("")}</div><p class="xs muted">${fmt(Y.start)} to ${fmt(Y.end)} · Each subject below is measured against the class your child is working at.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label></div>${rows}</div></section>`
     : "";
 }
 function viewJourneyTabs() {
@@ -15543,8 +15614,6 @@ const JOURNEY_TABS = {
   high: "Highlights",
   board: "Syllabus progress",
   beyond: "Beyond the syllabus",
-  diary: "Learning diary",
-  numbers: "Numbers",
 };
 function jrView() {
   const p = ui.sheet.p;
@@ -15553,22 +15622,6 @@ function jrView() {
 }
 function jPart(p) {
   let h = "";
-  if (p === "numbers") {
-    const tasks = Object.values(S.tasks).reduce((a, t) => a + Object.keys(t).length, 0),
-      gd = Object.values(S.games).filter((g) => g.g?.length || Object.keys(g.tf || {}).length || g.odd).length,
-      hrs = S.log.reduce((a, l) => a + hpdOf(l.subj), 0);
-    h += `<section class="sec"><div class="stack3">${[
-      [S.log.length, "lessons", "var(--sun)"],
-      [fmtHours(hrs), "hours learned", "var(--pist)"],
-      [tasks, "tasks done", "var(--gum)"],
-      [gd, "game days", "var(--sky)"],
-    ]
-      .map(
-        ([n, l, c], i) =>
-          `<div class="scard" style="--c:${c};min-height:104px"><span class="big num">${n}</span><span class="sm" style="font-weight:800">${l}</span>${blob("rgba(255,255,255,.6)", 60 + i, "happy")}</div>`,
-      )
-      .join("")}</div></section>`;
-  }
   if (p === "high") {
     const Qs = quotes().slice(-3).reverse(),
       W = workOf().slice(-6).reverse();
@@ -15590,17 +15643,6 @@ function jPart(p) {
     const beyond = S.log.filter((l) => l.kind === "free"),
       bk = [...new Set(beyond.map((l) => l.title))];
     h += `<section class="sec"><div class="sech"><h3>${JOURNEY_TABS.beyond}</h3></div><div class="card">${bk.length ? `<div class="row">${bk.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>` : `<p class="sm muted">Things you explore freely show up here.</p>`}<p class="xs muted">${S.exps.filter((e) => e.closed).length} experiments finished · ${quotes().length} big-question answers recorded</p></div></section>`;
-  }
-  if (p === "diary") {
-    h += `<section class="sec"><div class="sech"><h3>Learning diary</h3></div><div class="card diary">${
-      S.log
-        .slice(0, 20)
-        .map(
-          (l) =>
-            `<div class="dline ${subjClass(l.subj)}">${sblob(l.subj, "happy", "", 'width="34" height="34"')}<span><b class="h4">${esc(l.title)}</b><br><span class="xs muted">${fmt(l.date)} · ${SUBJ[l.subj] || ""}${l.kind === "free" ? " · explored freely" : l.kind === "more" ? " · extra lesson" : ""}</span></span></div>`,
-        )
-        .join("") || `<p class="sm muted">Finished lessons appear here.</p>`
-    }</div></section>`;
   }
   return h;
 }
@@ -15888,7 +15930,7 @@ function viewJourney0() {
       Qn || W ? `${Qn} answers in ${kid}'s words · ${W} photos` : "Answers and photos of work",
       blob("var(--sun)", 4, "wow", "", 'width="40" height="40"'),
     ],
-    ...(bs.length
+    ...(S.board !== "combined" && bs.length > 1
       ? [
           [
             "board",
@@ -15899,18 +15941,6 @@ function viewJourney0() {
         ]
       : []),
     ["beyond", JOURNEY_TABS.beyond, "Free exploring", blob("var(--gum)", 7, "happy", "", 'width="40" height="40"')],
-    [
-      "diary",
-      "Learning diary",
-      S.log.length + " lessons so far",
-      blob("var(--pist)", 9, "happy", "", 'width="40" height="40"'),
-    ],
-    [
-      "numbers",
-      "Numbers",
-      "Lessons, hours, tasks, games",
-      blob("var(--tang)", 11, "happy", "", 'width="40" height="40"'),
-    ],
   ];
   h += `<section class="sec">${rows.map(([k, t, s, b]) => `<button class="menurow" data-act="jrsheet" data-p="${k}">${b}<span><b>${t}</b><br><span class="xs muted">${s}</span></span>${icon("next")}</button>`).join("")}</section>`;
   h += rfCard();
@@ -18030,6 +18060,7 @@ function renderSheetBody(top) {
     puzzle: puzzleView,
     moment: momentView,
     lifeadd: lifeAddView,
+    qadd: qaddView,
     track: trackView,
     school: schoolView,
     refresh: refreshView,
@@ -18161,11 +18192,6 @@ function fxCrumbs() {
   }
   const T = { today: "Today", week: "Plan", journey: "Progress", library: "Library" },
     parts = [T[tab] || "Today"];
-  if (tab === "week") parts.push((SEGS.week.find((x) => x[0] === seg("week")) || [])[1]);
-  if (tab === "library") {
-    const l = (LIBT.find((x) => x[0] === (ui.lt || "topics")) || [])[1];
-    if (l) parts.push(l);
-  }
   if (tab === "today" && ui.tday && ui.tday !== today) parts.push(fmt(ui.tday));
   if (parts.filter(Boolean).length < 2) return ""; // a main tab on its own is already marked in the tab bar
   return parts
@@ -18601,13 +18627,9 @@ document.addEventListener("change", (e) => {
   }
 });
 document.addEventListener("change", (e) => {
+  if (e.target.id === "qkindSel") qaSetKind(e.target);
   if (e.target.id === "qfSel") {
     ui.qf = e.target.value;
-    render();
-  }
-  if (e.target.id === "dkView") {
-    ui.dkview = e.target.value;
-    delete e.target.dataset.dirty;
     render();
   }
   if (e.target.id === "rcSel") {
