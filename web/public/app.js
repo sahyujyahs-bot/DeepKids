@@ -1139,7 +1139,8 @@ function smartShuffle(list, s) {
 function plannedUnits(s) {
   const o = [];
   for (let l = S.levels[s]; l <= 5; l++) o.push(...plannedAt(s, l));
-  return o;
+  // a unit that sits in the plan of more than one level is one unit
+  return [...new Map(o.map((u) => [u.k, u])).values()];
 }
 const everyUnit = () =>
   S.subjects.flatMap((s) =>
