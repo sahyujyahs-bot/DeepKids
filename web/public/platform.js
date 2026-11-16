@@ -23,7 +23,10 @@
    .dkg .slide img{width:100%;height:auto;border-radius:24px;background:#e9dcc8;display:block}
    .dkg .slide{text-align:left}.dkg .pts{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:10px 4px 0;border-top:1px solid rgba(43,35,64,.12);font-size:13px;line-height:1.4;color:#5d5670}.dkg .pts i{display:block;font:700 10.5px system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;font-style:normal;color:#c8372d;margin-bottom:2px}.dkg .tag{justify-self:start;font-size:12px;font-weight:600;padding:3px 10px;border-radius:999px;background:#dff0ee;color:#1b6b64}
    .dkg .slide p{font-size:15px;padding:0 4px}.dkg .slide b{display:block;font-size:17px;margin-bottom:4px;color:#2B2340}
-   .dkg .dots{display:flex;align-items:center;gap:7px;justify-content:center;margin-top:-4px}.dkg .dots i{width:7px;height:7px;border-radius:50%;background:rgba(43,35,64,.2)}.dkg .dots i.on{background:#2B2340;width:20px;border-radius:4px}`;
+   .dkg .dots{display:flex;align-items:center;gap:7px;justify-content:center;margin-top:-4px}.dkg .dots i{width:7px;height:7px;border-radius:50%;background:rgba(43,35,64,.2)}.dkg .dots i.on{background:#2B2340;width:20px;border-radius:4px}
+   .dkg .intro,.dkg .show{display:grid;gap:16px}.dkg .gbtn{display:flex;justify-content:center}
+   @media(max-width:899px){.dkg .intro,.dkg .show{display:contents}.dkg h1,.dkg .lead,.dkg .who{order:1}.dkg .show>*{order:2}.dkg .dkgo,.dkg .err,.dkg small{order:3}}
+   @media(min-width:900px){.dkg .box{max-width:1080px;grid-template-columns:minmax(0,1fr) minmax(0,1.25fr);column-gap:64px;align-items:center;text-align:left}.dkg h1{font-size:44px;line-height:1.1}.dkg .lead{font-size:21px;margin-top:0}.dkg .who{font-size:16px;margin-top:0}.dkg .dkgo{max-width:340px}.dkg .gbtn{justify-content:flex-start}.dkg .show{gap:12px}.dkg .swipe{margin:0;padding:0}}`;
   /* what DeepKids does: one picture and its words per slide, swiped by hand */
   // the welcome slides before log-in: one list in app/content/welcome.json, which the app uses too.
   // [picture, heading, one line, two points, optional tag]
@@ -31,12 +34,12 @@
   const GOOGLE=`<svg width="20" height="20" viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.6 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.6 15.1 18.9 12 24 12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-8l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg>Continue with Google`;
   async function signInScreen(msg){
     const FEATS=await slides();
-    document.body.innerHTML=`<style>${css}</style><div class="dkg"><div class="box"><h1>DeepKids Gurukul</h1><p class="lead">The only app homeschooling parents need.</p><p class="who">For Indian families with children aged 6 to 10.</p>
-      <div class="swipe">${FEATS.map(([n,t,d,pts,tag])=>`<div class="slide"><img src="/media/ui/${n}.jpg" alt=""><div><b>${t}</b><p>${d}</p></div><div class="pts">${pts.map(([l,x])=>`<div><i>${l}</i>${x}</div>`).join("")}</div>${tag?`<span class="tag">${tag}</span>`:""}</div>`).join("")}</div>
-      <div class="dots">${FEATS.map((f,i)=>`<i${i?"":' class="on"'}></i>`).join("")}</div>
+    document.body.innerHTML=`<style>${css}</style><div class="dkg"><div class="box"><div class="intro"><h1>DeepKids Gurukul</h1><p class="lead">The only app homeschooling parents need.</p><p class="who">For Indian families with children aged 6 to 10.</p>
       ${ready?`<button id="dkGoogle" class="dkgo">${GOOGLE}</button>`:`<p class="err">This site isn't connected to its database yet. Fill in web/public/config.js (see web/SETUP.md).</p>`}
       ${msg?`<p class="err">${msg}</p>`:""}
-      <small>We use your Google account only to sign you in. Your family's plans, progress and photos are private to you.</small></div></div>`;
+      <small>We use your Google account only to sign you in. Your family's plans, progress and photos are private to you.</small></div>
+      <div class="show"><div class="swipe">${FEATS.map(([n,t,d,pts,tag])=>`<div class="slide"><img src="/media/ui/${n}.jpg" alt=""><div><b>${t}</b><p>${d}</p></div><div class="pts">${pts.map(([l,x])=>`<div><i>${l}</i>${x}</div>`).join("")}</div>${tag?`<span class="tag">${tag}</span>`:""}</div>`).join("")}</div>
+      <div class="dots">${FEATS.map((f,i)=>`<i${i?"":' class="on"'}></i>`).join("")}</div></div></div></div>`;
     const sw=$(".swipe");sw.onscroll=()=>{const k=Math.round(sw.scrollLeft/sw.clientWidth);document.querySelectorAll(".dots i").forEach((d,i)=>d.classList.toggle("on",i===k))};
     document.querySelectorAll(".dkgo").forEach(x=>x.onclick=async()=>{x.disabled=true;try{await sb.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+location.pathname}})}catch(e){signInScreen("Couldn't start Google sign-in. Try again.")}});
     const b=$("#dkGoogle");
@@ -49,7 +52,7 @@
   function googleButton(b){
     load("https://accounts.google.com/gsi/client").then(()=>{const g=window.google?.accounts?.id;if(!g)return;
       g.initialize({client_id:C.googleClientId,ux_mode:"popup",callback:async r=>{const {error}=await sb.auth.signInWithIdToken({provider:"google",token:r.credential});if(error)return signInScreen("Couldn't sign in with Google. Try again.");location.reload()}});
-      const d=document.createElement("div");d.style.cssText="display:flex;justify-content:center";b.replaceWith(d);g.renderButton(d,{theme:"outline",size:"large",shape:"pill",text:"continue_with",width:320})}).catch(()=>{})}
+      const d=document.createElement("div");d.className="dkgo gbtn";b.replaceWith(d);g.renderButton(d,{theme:"outline",size:"large",shape:"pill",text:"continue_with",width:320})}).catch(()=>{})}
 
   /* ---------- helpers ---------- */
   const err=(code,message)=>Object.assign(new Error(message||code),{code});
