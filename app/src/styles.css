@@ -1572,6 +1572,10 @@ dialog.sheet::backdrop {
 .ob h1 {
   font-size: clamp(30px, 7.6vw, 42px);
 }
+.ob .obh {
+  margin-top: 22px;
+  font-size: var(--fs-6);
+}
 .choices {
   display: grid;
   gap: 10px;

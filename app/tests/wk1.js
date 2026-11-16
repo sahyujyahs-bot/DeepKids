@@ -21,7 +21,6 @@ const { chromium } = require("playwright");
     await p.waitForTimeout(500);
     await p.fill("#obName", "Kid");
     await p.click('[data-age="8"]');
-    await p.click('[data-ob="next"]');
     await p.waitForTimeout(200);
     if (board === "ncert") {
       await p.click('[data-obtrack="board"]');

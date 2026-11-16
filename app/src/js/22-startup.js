@@ -833,6 +833,7 @@ document.addEventListener(
     if (!ob) return;
     const d = ob.d,
       t = e.target;
+    if (t.closest("[data-obtrack],[data-obb]")) obKeepName();
     const tr = t.closest("[data-obtrack]");
     if (tr) {
       e.preventDefault();

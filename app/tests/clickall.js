@@ -27,7 +27,6 @@ const SCREENS = [
   await p.waitForTimeout(400);
   await p.fill("#obName", "Liri");
   await p.click('[data-age="8"]');
-  await p.click('[data-ob="next"]');
   await p.click('[data-b="combined"]');
   for (let i = 0; i < 8; i++) {
     await p.evaluate(() => {

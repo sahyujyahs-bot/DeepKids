@@ -17,7 +17,6 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html",
   await p.waitForTimeout(300);
   await p.fill("#obName", "Liri");
   await p.click('[data-age="8"]');
-  await p.click('[data-ob="next"]');
   await p.click('[data-b="combined"]');
   for (let i = 0; i < 8; i++) {
     await p.evaluate(() => {

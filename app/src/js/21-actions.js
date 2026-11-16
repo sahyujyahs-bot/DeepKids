@@ -44,20 +44,15 @@ function onAct(e) {
         "[data-ob],button[data-age],button[data-cls],button[data-b],button.choice[data-s],button[data-mode]",
       );
     if (!t) return;
+    obKeepName();
     sfx("tap");
     if (t.dataset.ob === "next") return obNext();
     if (t.dataset.ob === "back") {
       ob.step--;
       return render();
     }
-    if (t.dataset.age) {
-      d.child = document.getElementById("obName").value;
-      d.age = +t.dataset.age;
-    }
-    if (t.dataset.cls) {
-      d.child = document.getElementById("obName").value;
-      d.cls = +t.dataset.cls;
-    }
+    if (t.dataset.age) d.age = +t.dataset.age;
+    if (t.dataset.cls) d.cls = +t.dataset.cls;
     if (t.dataset.b) {
       const was = d.board;
       d.board = t.dataset.b;

@@ -378,7 +378,7 @@ function renderMain() {
 function fxCrumbs() {
   if (!ACC) return "";
   if (ob) {
-    const N = ["Child", "Track", "Subjects", "Levels", "Week", "Summary"];
+    const N = ["About your child", "Your plan"];
     return N.slice(0, ob.step + 1)
       .map((n, i) => (i < ob.step ? `<button class="fxcr" data-fxob="${i}">${n}</button><i>›</i>` : `<b>${n}</b>`))
       .join("");

@@ -10,7 +10,6 @@ const { chromium } = require("playwright");
   await p.waitForTimeout(300);
   await p.fill("#obName", "Liri");
   await p.click('[data-age="8"]');
-  await p.click('[data-ob="next"]');
   await p.click('[data-b="combined"]');
   for (let i = 0; i < 8; i++) {
     const n = await p.$('[data-ob="next"]');

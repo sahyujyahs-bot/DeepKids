@@ -56,7 +56,6 @@ const FREEZE = () => {
     await p.fill("#obName", "Kid");
     await p.click(`[data-age="${age}"]`);
     await shot("1onboard");
-    await p.click('[data-ob="next"]');
     await p.waitForTimeout(200);
     if (board === "waldorf") await p.click('[data-obtrack="waldorf"]').catch(() => {});
     else if (board !== "combined") {
