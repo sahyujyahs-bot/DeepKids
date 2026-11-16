@@ -1590,10 +1590,6 @@ dialog.sheet::backdrop {
 .ob h1 {
   font-size: clamp(30px, 7.6vw, 42px);
 }
-.ob .obh {
-  margin-top: 22px;
-  font-size: var(--fs-6);
-}
 .choices {
   display: grid;
   gap: 10px;
@@ -7149,6 +7145,27 @@ select.inp {
   background: var(--bg);
   z-index: 5;
 }
+/* sign-up: the class of each subject, one line per subject */
+.lvlist {
+  display: grid;
+}
+.lvrow {
+  display: grid;
+  grid-template-columns: 76px 1fr auto;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+}
+.lvrow .row {
+  flex-wrap: nowrap;
+  gap: 6px;
+}
+.lvrow .chip {
+  min-width: 34px;
+  padding-inline: 0;
+  justify-content: center;
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -7167,9 +7184,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="13969d288d8d278fd1";window.DK_APPV="13969d288d";window.DK_DATAV="8d271c7988"</script>
-<script src="/config.js?v=13969d288d8d278fd1"></script>
+<script>window.DK_BUILD="7bcebb01408d278fd1";window.DK_APPV="7bcebb0140";window.DK_DATAV="8d271c7988"</script>
+<script src="/config.js?v=7bcebb01408d278fd1"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=13969d288d8d278fd1"></script>
+<script src="/platform.js?v=7bcebb01408d278fd1"></script>
 </body>
 </html>

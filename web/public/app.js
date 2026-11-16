@@ -16238,22 +16238,23 @@ const obTrack = (d) => {
     }`;
 };
 const obSubjects = (d) =>
-  `<h2 class="obh">Subjects</h2><p class="muted">Tap to leave one out or bring it back.</p><div class="row chips">${visSubj(
-    d.board,
-  )
+  `<p class="sm muted">Subjects: tap one to leave it out or bring it back.</p><div class="row chips">${visSubj(d.board)
     .map(
       (k) =>
         `<button type="button" class="chip" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${d.subjects.includes(k) ? "✓ " : ""}${SUBJ[k]}</button>`,
     )
     .join("")}</div>`;
-const obLevels = (d) => {
-  const sug = Math.min(5, Math.max(1, (d.age || 8) - 5));
-  return `<h2 class="obh">Level for each subject</h2><p class="muted">Pick where ${esc(d.child || "your child")} is now in each subject, or take a 2-minute quiz together. Most ${d.age || 8}-year-olds are around Class ${sug}, but go by your child.</p>
-   ${d.subjects.map((x) => `<div class="card ${subjClass(x)}"><b class="fs5">${SUBJ[x]}</b><div class="row" style="gap:6px">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}">Class ${l}</button>`).join("")}</div><div class="row" style="justify-content:space-between">${fxHasPQ(x) ? `<button type="button" class="btn soft sm" data-obquiz="${x}">Not sure? Quiz</button>` : "<span></span>"}<select class="inp" style="width:auto" data-hpd="${x}" aria-label="${SUBJ[x]} time a day">${[0.25, 0.5, 0.75, 1, 1.5, 2, 3].map((v) => `<option value="${v}" ${(d.hpd || DEF_HPD)[x] === v ? "selected" : ""}>${v * 60} min a day</option>`).join("")}</select></div></div>`).join("")}`;
-};
+const obLevels = (d) =>
+  `<p class="sm muted">Tap the class ${esc(d.child || "your child")} is at in each subject. Not sure? Take the quiz.</p>
+   <div class="lvlist">${d.subjects
+     .map(
+       (x) =>
+         `<div class="lvrow ${subjClass(x)}"><b>${SUBJ[x]}</b><div class="row chips">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}" aria-label="Class ${l}">${l}</button>`).join("")}</div>${fxHasPQ(x) ? `<button type="button" class="link xs" data-obquiz="${x}">Quiz</button>` : "<span></span>"}</div>`,
+     )
+     .join("")}</div>`;
 // what will be set up, with a way to change the subjects and levels
 const obMore = (d) =>
-  `<div class="field"><p class="sm muted">${d.subjects.map((s) => `${SUBJ[s]} (Class ${d.picked[s] ? d.levels[s] : obCls(d)})`).join(", ")}. <button type="button" class="link sm" data-ob="more">${ob.more ? "Hide" : "Change subjects and levels"}</button></p>${ob.more ? obSubjects(d) + obLevels(d) : ""}</div>`;
+  `<div class="field"><p class="sm muted">${ob.more ? "" : d.subjects.map((s) => `${SUBJ[s]} (Class ${d.picked[s] ? d.levels[s] : obCls(d)})`).join(", ") + ". "}<button type="button" class="link sm" data-ob="more">${ob.more ? "Hide subjects and classes" : "Change subjects and classes"}</button></p>${ob.more ? obLevels(d) + obSubjects(d) : ""}</div>`;
 function viewOnboarding() {
   const d = ob.d;
   d.boards = d.boards || (["ncert", "cambridge", "nios"].includes(d.board) ? [d.board] : []);
