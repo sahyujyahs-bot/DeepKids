@@ -78,7 +78,7 @@ function calHead0(d) {
       day: "numeric",
       month: "short",
     });
-  return `<div class="calhead"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><div class="calt"><b>${lab}</b><span class="xs muted">${sub}</span></div><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button>${d !== today ? `<button class="link xs" data-act="tday" data-d="0" style="margin-left:auto">Back to today</button>` : `<button class="link xs" data-act="quick" style="margin-left:auto">${ui.qaOpen ? "Close" : "+ Add"}</button>`}</div>${ui.qaOpen && d === today ? `<section class="qa-in"><b class="h5">Add to today</b>${quickAdd(today)}</section>` : ""}`;
+  return `<div class="calhead"><button class="iconbtn sm" data-act="tday" data-d="-1" aria-label="Previous day">${icon("back")}</button><div class="calt"><b>${lab}</b><span class="xs muted">${sub}</span></div><button class="iconbtn sm" data-act="tday" data-d="1" aria-label="Next day">${icon("next")}</button>${d !== today ? `<button class="link xs" data-act="tday" data-d="0" style="margin-left:auto">Back to today</button>` : `<button class="link xs" data-act="quick" style="margin-left:auto">+ Add</button>`}</div>`;
 }
 function noLessonNote(d) {
   const wd = parse(d).getDay(),
@@ -379,7 +379,17 @@ function qaKeep(b) {
   const f = b.closest(".addbox");
   if (f) ui.qdraft = Object.fromEntries(["t", "s", "e", "d"].map((k) => [k, f.querySelector("#qa-" + k)?.value]));
 }
-function quickAdd(date) {
+// the kind chosen in the Plan screen's list: keep what was typed, show that kind's form
+function qaSetKind(sel) {
+  qaKeep(sel);
+  ui.qkind = sel.value;
+  ui.qrep = ui.qwho = null;
+  ui.qdays = [];
+  sfx("tap");
+  render();
+  if (sheet.open) renderSheet();
+}
+function quickAdd(date, one) {
   const Q = ui.qdraft || {},
     { kd, repeats, w, r } = qaPick(),
     K = ADDK.find((x) => x[0] === kd),
@@ -388,7 +398,7 @@ function quickAdd(date) {
     dated = !["interest", "have"].includes(kd) && !(repeats && r !== "once"),
     life = kd === "did" || kd === "went";
   return `<div class="addbox">
-   <div class="addkinds">${ADDK.map(([k, e, n, , sh]) => `<button type="button" class="addk" aria-pressed="${kd === k}" data-act="qkind" data-k="${k}"><span>${e}</span>${sh || n}</button>`).join("")}</div>
+   ${one ? "" : `<label class="sm" for="qkindSel"><b>What are you adding?</b></label><select class="inp" id="qkindSel">${ADDK.map(([k, e, n]) => `<option value="${k}"${kd === k ? " selected" : ""}>${e} ${n}</option>`).join("")}</select>`}
    <div class="addform"><label class="sm" for="qa-t"><b>${K[2]}</b></label><input class="inp" id="qa-t" maxlength="${kd === "have" ? 300 : 80}" value="${esc(Q.t || "")}" placeholder="${esc(K[3])}">
    ${
      timed
@@ -450,7 +460,7 @@ function quickSave(root) {
     ui.qdraft = null;
     lifeRecord({ kind: kd, title: t, date: d > today ? today : d, mins: +g("#qa-m") || 0 });
     clearIn("qa-t");
-    return;
+    return true;
   } else if (kd === "todo") {
     S.todos = [...(S.todos || []), { id, title: t, who: "you", date: d, note: "", done: false }];
     toast("To-do added for " + fmt(d));
@@ -477,6 +487,17 @@ function quickSave(root) {
   ui.qdraft = null;
   commit();
   ["qa-t", "qa-s", "qa-e"].forEach(clearIn);
+  return true;
+}
+// Add from Today: a sheet that first lists the kinds, then shows only the form of the one chosen
+function qaddView() {
+  const k = ui.sheet.kind;
+  if (!k) {
+    setSheetTitle("Add to today");
+    return `<div class="addlist">${ADDK.map(([id, e, n, ex]) => `<button type="button" class="addpick" data-act="qpick" data-k="${id}"><span class="e">${e}</span><span class="m"><b>${n}</b><span class="xs muted">${ex}</span></span></button>`).join("")}</div>`;
+  }
+  setSheetTitle("Add " + ADDK.find((x) => x[0] === k)[2].toLowerCase());
+  return `<button type="button" class="link sm" data-act="qback">‹ All kinds</button>${quickAdd(today, true)}`;
 }
 function parentView() {
   const p = S.parent || {},
@@ -542,7 +563,7 @@ const WEEK1 = [
   [
     "photo",
     "Save your child's work",
-    "Take a photo of a drawing, a model or a worksheet. It goes into their learning diary and progress.",
+    "Take a photo of a drawing, a model or a worksheet. It goes into Photos and files in Progress.",
     'data-act="uploads"',
   ],
   [
@@ -810,9 +831,21 @@ Object.assign(ACT, {
   },
   quick(b, e, a, k) {
     sfx("flip");
-    ui.qaOpen = !ui.qaOpen;
-    render();
-    if (ui.qaOpen) setTimeout(() => document.getElementById("qa-t")?.focus(), 80);
+    openSheet({ mode: "qadd" });
+  },
+  qpick(b, e, a, k) {
+    ui.qkind = b.dataset.k;
+    ui.qrep = ui.qwho = null;
+    ui.qdays = [];
+    ui.qdraft = null;
+    ui.sheet.kind = b.dataset.k;
+    sfx("tap");
+    renderSheet(true);
+  },
+  qback(b, e, a, k) {
+    ui.sheet.kind = null;
+    sfx("tap");
+    renderSheet(true);
   },
   qwho(b, e, a, k) {
     ui.qwho = b.dataset.w;
@@ -820,16 +853,7 @@ Object.assign(ACT, {
     sfx("tap");
   },
   qaddq(b, e, a, k) {
-    quickSave(b.closest(".addbox"));
-  },
-  qkind(b, e, a, k) {
-    qaKeep(b);
-    ui.qkind = b.dataset.k;
-    ui.qrep = ui.qwho = null;
-    ui.qdays = [];
-    sfx("tap");
-    render();
-    if (sheet.open) renderSheet();
+    if (quickSave(b.closest(".addbox")) && ui.sheet?.mode === "qadd") sheet.close();
   },
   qrep(b, e, a, k) {
     qaKeep(b);

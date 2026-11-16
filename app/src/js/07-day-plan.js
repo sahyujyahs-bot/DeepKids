@@ -540,8 +540,8 @@ function buildDayPlan(date) {
       who: "both",
       kind: "paper",
       p: rs.p,
-      title: "Real research: " + rs.p.title,
-      sub: "This week's research paper, picked from what you like · " + rs.p.source.name,
+      title: "Research paper made easy: " + rs.p.title,
+      sub: "A real scientific paper, retold in simple words, picked from what you like · " + rs.p.source.name,
       done: rs.done || !!S.tl[date + "|paper"],
     });
   if (parse(date).getDay() === 0)

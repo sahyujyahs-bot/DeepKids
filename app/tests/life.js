@@ -112,7 +112,7 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
     mo: S.moments.length,
   }));
   const add = async (k, fill) => {
-    await p.click(`[data-act="qkind"][data-k="${k}"]`);
+    await p.selectOption("#qkindSel", k);
     for (const [sel, v] of Object.entries(fill)) await p.fill(sel, v);
     await p.click('[data-act="qaddq"]');
     await p.waitForTimeout(300);

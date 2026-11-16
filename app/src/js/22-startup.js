@@ -193,13 +193,9 @@ document.addEventListener("change", (e) => {
   }
 });
 document.addEventListener("change", (e) => {
+  if (e.target.id === "qkindSel") qaSetKind(e.target);
   if (e.target.id === "qfSel") {
     ui.qf = e.target.value;
-    render();
-  }
-  if (e.target.id === "dkView") {
-    ui.dkview = e.target.value;
-    delete e.target.dataset.dirty;
     render();
   }
   if (e.target.id === "rcSel") {

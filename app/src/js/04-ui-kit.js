@@ -149,6 +149,7 @@ const ICONS = {
   exps: '<path d="M12 21v-8M12 13c0-4-3-6.5-7.5-6.5 0 4.2 3 6.5 7.5 6.5zM12 11c0-3.5 2.4-6.5 7-6.5 0 3.5-2.4 6.5-7 6.5z"/>',
   check: '<path d="M5 12.5l4.5 4.5L19 7.5" stroke-width="2.4"/>',
   close: '<path d="M6 6l12 12M18 6L6 18"/>',
+  filter: '<path d="M4 6h16M7 12h10M10 18h4"/>',
   plus: '<path d="M12 5v14M5 12h14"/>',
   next: '<path d="M9 6l6 6-6 6"/>',
   back: '<path d="M15 6l-6 6 6 6"/>',

@@ -55,7 +55,7 @@ function researchTab() {
     st = rsSt(),
     L = f === "you" ? rsForYou() : f === "read" ? rsAll().filter((p) => st.read[p.id]) : rsAll();
   const chip = (k, n) => `<button class="chip" data-act="rsf" data-f="${k}" aria-pressed="${f === k}">${n}</button>`;
-  return `<section class="sec"><div class="card rshead"><span class="eyebrow">Real science, told for children</span><h2>What scientists found out</h2><p class="sm">Real research papers, retold in a few flashcards: the question, who found out, how, and what they found. Read one together each week. Tap 🤍 on the ones you enjoy, and we'll pick more like them.</p></div>
+  return `<section class="sec"><div class="card rshead"><span class="eyebrow">Research papers made easy</span><h2>What scientists found out</h2><p class="sm">Real research papers from scientists, rewritten in plain words as a few flashcards: the question, who found out, how, and what they found. Read one together each week. Tap 🤍 on the ones you enjoy, and we'll pick more like them.</p></div>
    <div class="row">${chip("you", "Picked for you")}${chip("all", "All " + rsAll().length)}${chip("read", "Read already")}</div>
    ${L.length ? `<div class="rsgrid">${L.map(rsCard).join("")}</div>` : `<p class="sm muted">${f === "read" ? "Nothing read yet. Pick one above." : "You've read them all. New ones come every week."}</p>`}</section>`;
 }

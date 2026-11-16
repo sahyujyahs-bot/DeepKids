@@ -249,6 +249,7 @@ function renderSheetBody(top) {
     puzzle: puzzleView,
     moment: momentView,
     lifeadd: lifeAddView,
+    qadd: qaddView,
     track: trackView,
     school: schoolView,
     refresh: refreshView,
@@ -380,11 +381,6 @@ function fxCrumbs() {
   }
   const T = { today: "Today", week: "Plan", journey: "Progress", library: "Library" },
     parts = [T[tab] || "Today"];
-  if (tab === "week") parts.push((SEGS.week.find((x) => x[0] === seg("week")) || [])[1]);
-  if (tab === "library") {
-    const l = (LIBT.find((x) => x[0] === (ui.lt || "topics")) || [])[1];
-    if (l) parts.push(l);
-  }
   if (tab === "today" && ui.tday && ui.tday !== today) parts.push(fmt(ui.tday));
   if (parts.filter(Boolean).length < 2) return ""; // a main tab on its own is already marked in the tab bar
   return parts
