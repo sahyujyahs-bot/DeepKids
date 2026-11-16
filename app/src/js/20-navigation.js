@@ -341,7 +341,7 @@ function renderMain() {
     m.replaceChildren(htmlToEl(`<div class="wrap"><p class="muted acctload">Opening your family's plan…</p></div>`));
     return;
   }
-  if (!S.setup && !ob) return startOnboarding(0);
+  if (!S.setup && !ob) return startOnboarding();
   nav.hidden = !!ob;
   document.getElementById("me").hidden = !!ob;
   document.getElementById("guideBtn").hidden = !!ob;
@@ -359,7 +359,7 @@ function renderMain() {
     !ob && nightDue()
       ? `<button class="nightbar" data-act="night">${blob("var(--peri)", 17, "sleepy", "", 'width="34" height="34"')}<span><b>Get ready for tomorrow</b><br><span class="xs">${nightItems().filter((p) => !S.prep[p.id]).length} things to set up tonight for tomorrow's lessons · tap to see them</span></span>${icon("next")}</button>`
       : "";
-  const vk = ob ? "ob" + ob.step : tab,
+  const vk = ob ? "ob" : tab,
     kept = ui.lastView === vk ? keepInputs(m) : null;
   ui.lastView = vk;
   m.replaceChildren(
@@ -378,10 +378,7 @@ function renderMain() {
 function fxCrumbs() {
   if (!ACC) return "";
   if (ob) {
-    const N = ["About your child", "Your plan"];
-    return N.slice(0, ob.step + 1)
-      .map((n, i) => (i < ob.step ? `<button class="fxcr" data-fxob="${i}">${n}</button><i>›</i>` : `<b>${n}</b>`))
-      .join("");
+    return "<b>Set up</b>";
   }
   const T = { today: "Today", week: "Plan", journey: "Progress", library: "Library" },
     parts = [T[tab] || "Today"];
@@ -413,7 +410,7 @@ function fxWay() {
   }
   c.innerHTML = fxCrumbs();
   const b = document.getElementById("backTop");
-  if (b) b.hidden = !ACC || (tab === "today" && !ui.tday && !navHist.length && !(ob && ob.step > 0));
+  if (b) b.hidden = !ACC || (tab === "today" && !ui.tday && !navHist.length && !ob?.quiz);
 }
 const fxHome = () => {
   if (ob) {
@@ -466,6 +463,6 @@ Object.assign(ACT, {
   },
   redo(b, e, a, k) {
     sheet.close();
-    startOnboarding(1);
+    startOnboarding();
   },
 });

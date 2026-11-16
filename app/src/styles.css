@@ -5631,12 +5631,6 @@ header.top .hello b {
 .tline.done .ck {
   animation: fxtick 0.35s ease;
 }
-.obhero {
-  width: 100%;
-  max-height: 120px;
-  object-fit: cover;
-  border-radius: 16px;
-}
 header.top::after {
   display: none !important;
 }
@@ -7126,53 +7120,6 @@ select.inp {
   background-size: 22px;
 }
 /* sign-up: pick-one rows with a clear tick, and the Continue button always in view */
-.obopts {
-  display: grid;
-  gap: 10px;
-}
-.obopt {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 12px;
-  align-items: center;
-  text-align: left;
-  padding: 12px 14px;
-  border: 1.5px solid var(--rule);
-  border-radius: var(--r-lg);
-  background: var(--surface);
-}
-.obopt[aria-pressed="true"] {
-  border-color: var(--forest);
-  background: color-mix(in srgb, var(--forest) 8%, #fff);
-}
-.obopt b {
-  display: block;
-  font: 700 var(--fs-5) var(--body);
-  color: var(--ink);
-}
-.obd {
-  font-size: var(--fs-3);
-  color: var(--muted);
-}
-.obtick {
-  display: grid;
-  place-items: center;
-  width: 26px;
-  height: 26px;
-  border-radius: 50%;
-  border: 2px solid var(--rule);
-  background: #fff;
-  color: #fff;
-  font: 700 var(--fs-3) var(--body);
-  font-style: normal;
-}
-.obopt[aria-pressed="true"] .obtick {
-  border-color: var(--forest);
-  background: var(--forest);
-}
-.obopt[aria-pressed="true"] .obtick::after {
-  content: "✓";
-}
 .obnav {
   position: fixed;
   bottom: 0;

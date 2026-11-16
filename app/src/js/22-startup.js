@@ -853,17 +853,6 @@ document.addEventListener(
       render();
       return;
     }
-    const wt = t.closest("[data-obwt]");
-    if (wt) {
-      e.preventDefault();
-      e.stopPropagation();
-      const x = +wt.dataset.obwt,
-        W = { ...(d.weekType || FXWT0) };
-      W[x] = W[x] === "free" ? "full" : "free";
-      d.weekType = W;
-      render();
-      return;
-    }
     const qz = t.closest("[data-obquiz]");
     if (qz) {
       e.preventDefault();
@@ -957,12 +946,10 @@ document.addEventListener(
     }
     const b = e.target.closest("#backTop");
     if (!b) return;
-    if (ob && ob.step > 0) {
+    if (ob?.quiz) {
       e.preventDefault();
       e.stopPropagation();
-      if (ob.quiz) {
-        ob.quiz = null;
-      } else ob.step--;
+      ob.quiz = null;
       render();
       scrollTo(0, 0);
       return;
@@ -976,20 +963,6 @@ document.addEventListener(
       render();
       scrollTo(0, 0);
     }
-  },
-  true,
-);
-document.addEventListener(
-  "click",
-  (e) => {
-    const c = e.target.closest("[data-fxob]");
-    if (!c || !ob) return;
-    e.preventDefault();
-    e.stopPropagation();
-    ob.quiz = null;
-    ob.step = +c.dataset.fxob;
-    render();
-    scrollTo(0, 0);
   },
   true,
 );
