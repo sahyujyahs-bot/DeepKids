@@ -147,6 +147,7 @@ document.addEventListener("pointerover", (e) => {
   if (t) tipAt(t);
   else if (TIP) TIP.style.display = "none";
 });
+document.addEventListener("mouseover", orbitHover);
 document.addEventListener("focusin", (e) => {
   const t = e.target.closest?.("[data-tip]");
   if (t) tipAt(t);
@@ -240,19 +241,9 @@ document.addEventListener(
 /* uploads, night inputs, alarm and the clock */
 document.addEventListener("change", async (e) => {
   const t = e.target;
-  if (t.id === "obExam" && ob) {
-    ob.d.exam = t.checked;
-    return;
-  }
   if (t.id === "sMode") {
     S.mode = t.value;
     S.plus = t.value !== "books";
-    sfx("tick");
-    commit();
-    return;
-  }
-  if (t.id === "sExam") {
-    S.exam = t.checked;
     sfx("tick");
     commit();
     return;

@@ -584,7 +584,7 @@ function queuesView() {
   const L = qItems(t, s),
     mv = (x, d, on, lab, ch) =>
       `<button class="iconbtn qb" data-act="qmv" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" data-d="${d}" ${on ? "" : "disabled"} aria-label="${lab}">${ch}</button>`;
-  h += `<div class="row"><button class="btn soft sm" data-act="qshuf" data-ty="${t}" data-s="${s}">${icon("spark")}Shuffle</button>${t === "les" ? `<button class="btn ${S.exam ? "" : "soft"} sm" data-act="exam">${S.exam ? "Exam track on" : "Exam track off"}</button>` : ""}</div>`;
+  h += `<div class="row"><button class="btn soft sm" data-act="qshuf" data-ty="${t}" data-s="${s}">${icon("spark")}Shuffle</button></div>`;
   h += L.length
     ? `<div class="qlist" data-ty="${t}" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i + 1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b>${x.ty && x.ty !== "les" ? " " + stPills(x).replace(/ <span class="pill st-queued"[^]*$/, "") : ""}<br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div>`).join("")}</div>`
     : `<p class="note">${t === "les" ? "No chapters waiting." : `No ${WORK_TYPES[t][0].toLowerCase()} queued${qfOf() === "all" ? "" : " in " + SUBJ[qfOf()]}. Tap “+ Queue” on one in Pending, in a lesson or in a chapter.`}</p>`;
@@ -939,8 +939,8 @@ function queueCard() {
     .slice(0, 4);
   return `<section class="sec"><div class="sech"><h3>Up next</h3><span class="xs muted">${modeOf() === "books" ? "Syllabus books" : MODES[modeOf()][0]}</span></div>
    <div class="seg">${S.subjects.map((x) => `<button aria-pressed="${x === s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>
-   <div class="row"><button class="btn ${sh ? "" : "soft"} sm" data-act="shuffle" data-s="${s}">${icon("spark")}Smart shuffle ${sh ? "on" : "off"}</button>${sh ? `<button class="btn soft sm" data-act="reshuffle" data-s="${s}">Shuffle again</button>` : ""}<button class="btn ${S.exam ? "" : "soft"} sm" data-act="exam">${S.exam ? "Exam track on" : "Exam track off"}</button></div>
-   <p class="xs muted">${sh ? "Shuffle respects what each topic needs first, and never drops a syllabus chapter." : "Book order."} ${S.exam ? "Exam track keeps every syllabus chapter first; extra topics come after." : "Extra topics are mixed in between syllabus chapters."}</p>
+   <div class="row"><button class="btn ${sh ? "" : "soft"} sm" data-act="shuffle" data-s="${s}">${icon("spark")}Smart shuffle ${sh ? "on" : "off"}</button>${sh ? `<button class="btn soft sm" data-act="reshuffle" data-s="${s}">Shuffle again</button>` : ""}</div>
+   <p class="xs muted">${sh ? "Shuffle respects what each topic needs first, and never drops a syllabus chapter." : "Book order."} Extra topics are mixed in between syllabus chapters.</p>
    <div class="col" style="gap:8px">${L.map((u, i) => {
      const T = tagsOf(u)[0];
      return `<div class="qrow ${subjClass(u.subj)}${u.k === ui.flash ? " flash" : ""}"><span class="qn">${L0.indexOf(u) + 1}</span><button class="plain" data-act="chapter" data-k="${u.k}" style="min-width:0"><b class="h4">${esc(u.title)}</b><br><span class="xs muted">${u.board === "gen" ? "DeepKids topic" : esc(T?.txt || u.book)} · ${sessionsFor(u)} days</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${i ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qnext" data-s="${s}" data-k="${u.k}" aria-label="Do ${esc(u.title)} next">${icon("play")}</button>` : `<span class="pill learning">Next</span>`}<button class="iconbtn" style="width:36px;height:36px" data-act="qlater" data-s="${s}" data-k="${u.k}" aria-label="Move ${esc(u.title)} to later">${icon("next")}</button>${extra.includes(u.k) ? `<button class="iconbtn" style="width:36px;height:36px" data-act="qrem" data-s="${s}" data-k="${u.k}" aria-label="Remove ${esc(u.title)}">${icon("close")}</button>` : ""}</span></div>`;
@@ -1033,8 +1033,20 @@ function yearOrbit() {
     });
   });
   const [nx, ny] = pt(ang(today), 158);
-  o += `<line x1="${c}" y1="${c}" x2="${nx.toFixed(1)}" y2="${ny.toFixed(1)}" stroke="var(--tang)" stroke-width="2.5" stroke-linecap="round"/><circle cx="${nx.toFixed(1)}" cy="${ny.toFixed(1)}" r="5" fill="var(--tang)"/>`;
-  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div>${calLegend()}<p class="xs muted center">Each ring is a subject; each bead is a topic, in the month it starts. The red line is today. Tap a bead to open it.</p>${yearList(m0)}`;
+  o += `<line class="orbnow" x1="${c}" y1="${c}" x2="${nx.toFixed(1)}" y2="${ny.toFixed(1)}" stroke="var(--tang)" stroke-width="2.5" stroke-linecap="round"/><circle class="orbnow" cx="${nx.toFixed(1)}" cy="${ny.toFixed(1)}" r="5" fill="var(--tang)"/>`;
+  return `<div class="orbitwide"><div><div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div>${calLegend()}<p class="xs muted center">Each ring is a subject; each bead is a topic, in the month it starts. The red line is today. Tap a bead to open it.</p></div><aside class="orbitinfo" id="orbitInfo">${orbitInfo(null)}</aside></div>${yearList(m0)}`;
+}
+// the box beside the year picture: the unit under the pointer, on a wide screen
+function orbitInfo(k) {
+  const u = k && unitByK(k);
+  if (!u) return `<p class="sm muted">Point at a dot to see the unit.</p>`;
+  const d = firstDates()[k];
+  return `<span class="${subjClass(u.subj)} pill">${esc(SUBJ[u.subj] || "")}</span><h3 class="fs6">${esc(chT(u))}</h3><p class="sm">${STATUS[statusOf(k)]}${d ? ` · starts ${fmt(d)}` : ""}</p><button class="btn sm" data-act="chapter" data-k="${esc(k)}">Open</button>`;
+}
+function orbitHover(e) {
+  const g = e.target.closest?.(".bead[data-k]"),
+    box = document.getElementById("orbitInfo");
+  if (g && box) box.innerHTML = orbitInfo(g.dataset.k);
 }
 function sessMap() {
   const by = {};
@@ -1475,12 +1487,6 @@ Object.assign(ACT, {
     const s = b.dataset.s;
     S.seed = { ...(S.seed || {}), [s]: Math.floor(Math.random() * 9999) };
     sfx("flip");
-    commit();
-  },
-  exam(b, e, a, k) {
-    S.exam = !S.exam;
-    sfx("tick");
-    toast(S.exam ? "Exam track on: syllabus first" : "Exam track off");
     commit();
   },
   qlater(b, e, a, k) {

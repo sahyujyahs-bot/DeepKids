@@ -127,7 +127,7 @@ function orderUnits(s, base, extra, every) {
     nx = (S.next || {})[s] || [];
   let b = (S.shuffle || {})[s] ? smartShuffle(base, s) : base;
   const out = [];
-  if (S.exam || !b.length || !extra.length) out.push(...b, ...extra);
+  if (!b.length || !extra.length) out.push(...b, ...extra);
   else {
     let j = 0;
     b.forEach((u, i) => {

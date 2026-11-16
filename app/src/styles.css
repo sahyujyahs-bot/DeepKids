@@ -6910,13 +6910,35 @@ body {
     width: 170px;
   }
 }
+/* the red line for today never blocks the dots under it */
+.orbnow {
+  pointer-events: none;
+}
 @media (max-width: 899px) {
-  .monthday {
+  .monthday,
+  .orbitinfo {
     display: none;
   }
 }
 @media (min-width: 900px) {
   /* Plan on a big screen: adding on the left, questions and lists on the right; the month with its chosen day beside it */
+  .orbitwide {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    gap: 0 24px;
+    align-items: start;
+  }
+  .orbitinfo {
+    position: sticky;
+    top: 24px;
+    display: grid;
+    gap: 8px;
+    justify-items: start;
+    padding: 16px;
+    border-radius: 18px;
+    background: var(--surface);
+    box-shadow: var(--lift);
+  }
   .plangrid,
   .monthwide {
     display: grid;

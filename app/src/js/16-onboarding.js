@@ -67,7 +67,6 @@ function startOnboarding(step) {
         levels: S.levels,
         hpd: S.hpd || DEF_HPD,
         mode: S.mode || (S.plus ? "booksplus" : "books"),
-        exam: !!S.exam,
       }),
     ),
   };
