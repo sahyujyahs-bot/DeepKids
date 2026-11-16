@@ -21,7 +21,7 @@ function combinedTopicList() {
       ),
     sum: ["Class plan", `Class ${lv}`],
     count: `${L.length} topics`,
-    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p>${L.map(combinedCard).join("")}`,
+    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: every science topic any board teaches in Class ${lv}.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
   };
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
@@ -621,7 +621,7 @@ function topicsTab() {
       .join("")}</div></div>`,
     // one bar says what is being shown; the filter icon opens every choice in one panel
     browse = (c) =>
-      `<div class="sech"><h3 class="fs5">Browse the syllabus</h3></div><button class="libfilt" data-act="lfilt" aria-expanded="${!!ui.libfilt}">${icon("filter")}<span class="libfiltt"><b>${track === "dk" ? "DeepKids" : "Board"} track</b><span class="sm muted">${c.sum.map(esc).join(" · ")}</span></span><span class="sm muted">${c.count}</span></button>${ui.libfilt ? `<div class="libpanel">${trackSeg}${c.ctl}<button class="btn sm self-end" data-act="lfilt">Done</button></div>` : ""}${c.body}`;
+      `<div class="libwide"><div class="sech"><h3 class="fs5">Browse the syllabus</h3></div><button class="libfilt" data-act="lfilt" aria-expanded="${!!ui.libfilt}">${icon("filter")}<span class="libfiltt"><b>${track === "dk" ? "DeepKids" : "Board"} track</b><span class="sm muted">${c.sum.map(esc).join(" · ")}</span></span><span class="sm muted">${c.count}</span></button><div class="libpanel${ui.libfilt ? " open" : ""}">${trackSeg}${c.ctl}<button class="btn sm self-end libdone" data-act="lfilt">Done</button></div>${c.body}</div>`;
   if (track === "dk") {
     h += browse(dkTrackBrowse());
     if (gen.length)
@@ -660,7 +660,7 @@ function topicsTab() {
    ${levels.length > 1 ? pickRow("c", B === "cambridge" ? "Stage" : B === "nios" ? "Level" : "Class", levels.map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">${lvName(l)}</button>`).join("")) : ""}`,
     sum = [BNAME[B], SUBJ[sj], lvName(lv)].filter(Boolean),
     body = `<p class="xs muted">${units.length} ${B === "cambridge" ? "units" : B === "nios" ? "lessons" : B === "waldorf" ? "blocks" : "chapters"}${units.filter((u) => u.c?.p).length ? ` · ${units.filter((u) => u.c?.p).length} with full day plans` : ""}${units[0] ? " · " + esc(units[0].book) : ""}</p>
-${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:var(--fs-1)">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("") || `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`;
+<div class="libgrid">${units.map((u) => topicRow(u).replace("</b><br>", `</b>${u.c?.p ? ` <span class="pill completed" style="font-size:var(--fs-1)">${u.c.p.days.length} parts</span>` : ""}<br>`)).join("")}</div>${units.length ? "" : `<p class="note">${(DATA.notes[B] || {})[sj + "|" + lv] || (B === "ncert" ? DATA.notes.ncert[sj + "|" + lv] : "") || "Nothing here yet."}</p>`}`;
   return h + browse({ ctl, sum, count: "", body }) + `</section>`;
 }
 const slug = (s) =>

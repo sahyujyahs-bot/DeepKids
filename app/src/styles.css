@@ -6899,12 +6899,59 @@ body {
 }
 @media (max-width: 899px) {
   .monthday,
-  .orbitinfo {
+  .orbitinfo,
+  .libpanel:not(.open) {
     display: none;
   }
 }
 @media (min-width: 900px) {
   /* Plan on a big screen: adding on the left, questions and lists on the right; the month with its chosen day beside it */
+  /* a unit's front page on a big screen: the picture stays on the left, the words and the parts on the right */
+  .fxmap {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 32px;
+    align-items: start;
+    max-width: 1180px;
+    margin: 0 auto;
+  }
+  .fxcover {
+    position: sticky;
+    top: 0;
+    max-width: none;
+  }
+  .fxcover .fximg.fxhero {
+    max-height: 100dvh;
+    aspect-ratio: 3/4;
+  }
+  .fxsheetp {
+    margin-top: 0;
+    max-width: none;
+    padding-top: 40px;
+  }
+  /* Library on a big screen: the filters stay open as a panel on the left, the topics in two columns */
+  .libwide {
+    display: grid;
+    grid-template-columns: 230px minmax(0, 1fr);
+    gap: 0 24px;
+    align-items: start;
+  }
+  .libwide > .libpanel {
+    grid-column: 1;
+    grid-row: 1 / span 4;
+  }
+  .libwide > :not(.libpanel) {
+    grid-column: 2;
+  }
+  .libfilt,
+  .libdone {
+    display: none;
+  }
+  .libgrid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 16px;
+  }
   /* Progress on a big screen: the school comparison is the big card, the subjects sit beside it */
   .progrid {
     display: grid;
