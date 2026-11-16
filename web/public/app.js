@@ -12913,7 +12913,7 @@ function planPart(k) {
   if (k === "add") {
     const Q = askList();
     return (
-      `<section class="sec"><div class="card"><h3 class="fs5">Add to your plan</h3><p class="xs muted">Classes, outings, to-dos, reminders. Two ways to add them:</p><div class="seg addmode">${[
+      `<div class="plangrid"><section class="sec"><div class="card"><h3 class="fs5">Add to your plan</h3><p class="xs muted">Classes, outings, to-dos, reminders. Two ways to add them:</p><div class="seg addmode">${[
         ["pick", "Quick add"],
         ["say", "Type or speak"],
       ]
@@ -12922,8 +12922,7 @@ function planPart(k) {
             `<button aria-pressed="${(ui.addmode || "pick") === m}" data-act="addmode" data-m="${m}">${n}</button>`,
         )
         .join("")}</div>${ui.addmode === "say" ? dumpCard() : quickAdd(ui.pday || today)}</div></section>` +
-      (Q.length ? plPart("asks") : "") +
-      (ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`)
+      `<div class="plancol">${Q.length ? plPart("asks") : ""}${ui.sheet?.mode === "told" ? "" : `<section class="sec">${toldView()}</section>`}</div></div>`
     );
   }
   // how the plan is made: times, subjects, levels, pace and the refresher (Plan settings)
@@ -12932,7 +12931,9 @@ function planPart(k) {
   if (k === "cal")
     return `<section class="sec"><div class="seg">${Object.entries(PLAN_VIEWS)
       .map(([kk, nm]) => `<button aria-pressed="${v === kk}" data-act="pv" data-v="${kk}">${nm}</button>`)
-      .join("")}</div>${{ year: yearOrbit, month: monthView, week: weekView, day: dayView }[v]()}</section>`;
+      .join(
+        "",
+      )}</div>${v === "month" ? `<div class="monthwide"><div>${monthView()}</div><div class="monthday">${dayView()}</div></div>` : { year: yearOrbit, week: weekView, day: dayView }[v]()}</section>`;
   if (k === "todo") return todoTab();
   if (k === "queue")
     return (
@@ -13270,7 +13271,8 @@ Object.assign(ACT, {
   },
   pday(b, e, a, k) {
     ui.pday = b.dataset.d;
-    ui.pv = "day";
+    // on a wide screen the month stays and the day opens beside it
+    if (!(ui.pv === "month" && matchMedia("(min-width: 900px)").matches)) ui.pv = "day";
     sfx("tap");
     render();
   },
