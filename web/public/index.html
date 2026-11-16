@@ -6928,6 +6928,22 @@ body {
     width: 170px;
   }
 }
+@media (min-width: 900px) {
+  /* Today on a big screen: the day on the left, the rest of the screen's cards in a column beside it */
+  .todaygrid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr);
+    gap: 0 24px;
+    align-items: start;
+  }
+  .todaygrid > .cal {
+    grid-column: 1;
+    grid-row: 1 / span 8;
+  }
+  .todaygrid > :not(.cal) {
+    grid-column: 2;
+  }
+}
 @media (min-width: 1400px) {
   .wrap {
     max-width: 1080px;
@@ -7110,9 +7126,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="6e239cae248d273c8f";window.DK_APPV="6e239cae24";window.DK_DATAV="8d271c7988"</script>
-<script src="/config.js?v=6e239cae248d273c8f"></script>
+<script>window.DK_BUILD="c27fbda8228d273c8f";window.DK_APPV="c27fbda822";window.DK_DATAV="8d271c7988"</script>
+<script src="/config.js?v=c27fbda8228d273c8f"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=6e239cae248d273c8f"></script>
+<script src="/platform.js?v=c27fbda8228d273c8f"></script>
 </body>
 </html>

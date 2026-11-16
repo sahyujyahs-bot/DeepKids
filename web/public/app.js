@@ -11150,7 +11150,7 @@ function qaddView() {
   const k = ui.sheet.kind;
   if (!k) {
     setSheetTitle("Add to today");
-    return `<div class="addlist">${ADDK.map(([id, e, n, ex]) => `<button type="button" class="addpick" data-act="qpick" data-k="${id}"><span class="e">${e}</span><span class="m"><b>${n}</b><span class="xs muted">${ex}</span></span></button>`).join("")}</div>`;
+    return `<div class="addlist">${ADDK.map(([id, e, n, ex]) => `<button type="button" class="addpick" data-act="addkind" data-k="${id}"><span class="e">${e}</span><span class="m"><b>${n}</b><span class="xs muted">${ex}</span></span></button>`).join("")}</div>`;
   }
   setSheetTitle("Add " + ADDK.find((x) => x[0] === k)[2].toLowerCase());
   return `<button type="button" class="link sm" data-act="qback">‹ All kinds</button>${quickAdd(today, true)}`;
@@ -11314,13 +11314,13 @@ function viewToday() {
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   // the first-week guide on top, then what to do next, then the day as a list; the week's numbers sit below it
-  h += `${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${nudgeCard()}${calHead(today)}`;
+  h += `<div class="todaygrid">${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (real.length) h += `<div class="tt compact daydrag">${real.map((i) => tRow(i, today, f)).join("")}</div>`;
   h += `</section><div class="lotusline" aria-hidden="true"></div>${real.some((i) => !i.done) ? "" : fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends; "Continue learning" only comes once everything planned is done (it animates in the first time only)
   window.FXANIMED = 1;
-  h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">quiz, photos, jokes, games, your reading</span></button>`;
+  h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">quiz, photos, jokes, games, your reading</span></button></div>`;
   return h;
 }
 function fxTodayTop(animate) {
@@ -11489,7 +11489,7 @@ Object.assign(ACT, {
     sfx("flip");
     openSheet({ mode: "qadd" });
   },
-  qpick(b, e, a, k) {
+  addkind(b, e, a, k) {
     ui.qkind = b.dataset.k;
     ui.qrep = ui.qwho = null;
     ui.qdays = [];
