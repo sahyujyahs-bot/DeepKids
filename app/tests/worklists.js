@@ -79,6 +79,19 @@ const { chromium } = require("playwright");
     t.tags.some((x) => /Started|Not tried yet/.test(x)),
     JSON.stringify(t),
   );
+  // Today holds one project; when it is finished the next one takes its place
+  const pr = await p.evaluate(() => {
+    const first = nextProject(),
+      onToday = dayPlan(today).filter((x) => x.kind === "project").length;
+    const uid = first.u.k.slice(5);
+    fxSt().done[uid] = fxSt().done[uid] || {};
+    fxSt().done[uid]["sec:" + first.id] = 1;
+    fxSt().done[uid]["man:" + first.id] = 1;
+    const second = nextProject();
+    return { onToday, first: first.title, second: second?.title };
+  });
+  check("Today holds exactly one project", pr.onToday === 1, JSON.stringify(pr));
+  check("a finished project is replaced by the next one", pr.second && pr.second !== pr.first, JSON.stringify(pr));
   let bad = 0;
   for (const r of out) {
     if (!r.ok) bad++;

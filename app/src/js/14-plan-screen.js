@@ -591,6 +591,16 @@ const upList = (t) => {
     seen = new Set(q.map((x) => x.ref));
   return bySubj([...q, ...workItems(true).filter((x) => x.ty === t && x.state !== "going" && !seen.has(x.ref))]);
 };
+// the one project Today shows: the one already started, else one you queued, else the next in the plan; when it is
+// finished the next one takes its place
+function nextProject() {
+  if (_planMemo && "proj" in _planMemo) return _planMemo.proj;
+  const L = workItems(true).filter((x) => x.ty === "proj"),
+    q = new Set(wqList("proj").map((x) => x.ref)),
+    pj = L.find((x) => x.state === "going") || L.find((x) => q.has(x.ref)) || L[0] || null;
+  if (_planMemo) _planMemo.proj = pj;
+  return pj;
+}
 // everything started or reached but not tried, in one list per kind; each row says which it is
 function finishView() {
   const t = WORK_TYPES[ui.tq] ? ui.tq : "les",

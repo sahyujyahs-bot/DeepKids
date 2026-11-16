@@ -6905,6 +6905,13 @@ body {
 }
 @media (min-width: 900px) {
   /* Plan on a big screen: adding on the left, questions and lists on the right; the month with its chosen day beside it */
+  /* Progress on a big screen: the school comparison is the big card, the subjects sit beside it */
+  .progrid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    gap: 0 24px;
+    align-items: start;
+  }
   .orbitwide {
     display: grid;
     grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);

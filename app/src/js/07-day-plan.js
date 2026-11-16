@@ -365,6 +365,19 @@ function buildDayPlan(date) {
         sub: fin.length > 1 ? `${fin.length} things started · you choose which to finish` : "One thing left half-done",
         done: !!S.tl[date + "|finish"],
       });
+    const pj = date >= today ? nextProject() : null;
+    if (pj)
+      items.push({
+        id: "project",
+        at: place(30),
+        dur: 30,
+        who: "both",
+        kind: "project",
+        title: "Project: " + pj.title,
+        sub: `${chT(pj.u)} · ${SUBJ[pj.u.subj]}`,
+        pj,
+        done: !!S.tl[date + "|project"],
+      });
     const open = [...S.exps.filter((e) => !e.closed && e.start <= date), ...fxOngoing(date)];
     if (open.length)
       items.push({
@@ -606,7 +619,7 @@ function myQuietTime(date, items, ev, d) {
 // breaks, lunch and rest times are not things to do
 const isTask = (i) => i.kind !== "brk" && i.kind !== "rest";
 // what a parent can drag into a different order on Today (classes, outings and prep keep their own times)
-const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "mynote", "finish"]);
+const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "mynote", "finish", "project"]);
 // A day's plan; today, snoozed items move to their new time, and a dragged order swaps the time slots
 // Drawing a screen asks for the same day several times and each ask takes about 30 ms, so render() keeps each day it has
 // worked out until the screen is drawn

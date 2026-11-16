@@ -172,6 +172,7 @@ function itemAction(it, a) {
       exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
       refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
       finish: [`data-act="tofinish"`, "Open the list"],
+      project: [it.pj?.open || "", "Start the project"],
       mynote: [`data-act="chapter" data-k="${it.mk}"`, "Open your notes"],
     }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"]
   );
@@ -229,6 +230,7 @@ const DAYPIC = {
   prep: "prep",
   warm: "jokes",
   finish: "finish",
+  project: "science",
   exps: "science",
   paper: "science",
   refresh: "refresh",
