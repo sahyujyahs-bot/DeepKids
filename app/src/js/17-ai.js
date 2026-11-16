@@ -413,7 +413,6 @@ function fxChat(about, photo, at = null) {
   const u = FXU && document.getElementById("fxDlg")?.open ? FXU : null;
   d.innerHTML = `<div class="fxcbox"><div class="fxchead">${iamFace("big")}<b>IAm</b><span class="fxsm">${u ? "About: " + esc(u.title) : at ? "On " + esc(at.where) : "Any question, any subject"}</span><button class="fxx" data-cx="x" aria-label="Close">✕</button></div>
     <div class="fxmsgs">${FXCHAT.length ? FXCHAT.map((m) => `<p class="fxm ${m.r}">${esc(m.t)}</p>`).join("") : `${iamFace("hero")}<p class="fxm ai">I am IAm. ${at ? `I can see you're on ${esc(at.where)}. Ask me about it, or anything at all.` : `Ask me anything: why the sky is blue, what a word means, how to explain this card to your child. ${about ? "I can see the card you're on." : ""}`}</p>${at ? `<div class="iamasks">${IAM_ASKS[at.kind].map((q) => `<button class="chip" data-cx="q" data-q="${esc(q)}">${esc(q)}</button>`).join("")}</div>` : ""}`}</div>
-    ${about ? `<p class="fxctx">On this card: “${esc(about.slice(0, 140))}${about.length > 140 ? "…" : ""}”</p>` : ""}
     <div class="fxcin"><button class="fxb" data-cx="pic" aria-label="Add a photo">📷</button><textarea rows="2" placeholder="${photo ? "Add a photo of the finished worksheet, then tap Send" : "Type a question…"}"></textarea><button class="fxb" data-cx="send">Send</button><input type="file" accept="image/*" capture="environment" hidden></div></div>`;
   d.querySelector("input[type=file]").onchange = (e) => {
     d._pic = e.target.files[0] || null;
