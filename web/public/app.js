@@ -1824,6 +1824,19 @@ function buildDayPlan(date) {
         sub: fin.length > 1 ? `${fin.length} things started · you choose which to finish` : "One thing left half-done",
         done: !!S.tl[date + "|finish"],
       });
+    const pj = date >= today ? nextProject() : null;
+    if (pj)
+      items.push({
+        id: "project",
+        at: place(30),
+        dur: 30,
+        who: "both",
+        kind: "project",
+        title: "Project: " + pj.title,
+        sub: `${chT(pj.u)} · ${SUBJ[pj.u.subj]}`,
+        pj,
+        done: !!S.tl[date + "|project"],
+      });
     const open = [...S.exps.filter((e) => !e.closed && e.start <= date), ...fxOngoing(date)];
     if (open.length)
       items.push({
@@ -2065,7 +2078,7 @@ function myQuietTime(date, items, ev, d) {
 // breaks, lunch and rest times are not things to do
 const isTask = (i) => i.kind !== "brk" && i.kind !== "rest";
 // what a parent can drag into a different order on Today (classes, outings and prep keep their own times)
-const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "mynote", "finish"]);
+const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "mynote", "finish", "project"]);
 // A day's plan; today, snoozed items move to their new time, and a dragged order swaps the time slots
 // Drawing a screen asks for the same day several times and each ask takes about 30 ms, so render() keeps each day it has
 // worked out until the screen is drawn
@@ -10797,6 +10810,7 @@ function itemAction(it, a) {
       exps: [`data-act="tlcheck" ${a}`, "Checked them all"],
       refresh: [`data-act="refresh" data-date="${today}"`, "Play it"],
       finish: [`data-act="tofinish"`, "Open the list"],
+      project: [it.pj?.open || "", "Start the project"],
       mynote: [`data-act="chapter" data-k="${it.mk}"`, "Open your notes"],
     }[it.kind] || [`data-act="tlcheck" ${a}`, "Done"]
   );
@@ -10854,6 +10868,7 @@ const DAYPIC = {
   prep: "prep",
   warm: "jokes",
   finish: "finish",
+  project: "science",
   exps: "science",
   paper: "science",
   refresh: "refresh",
@@ -12297,6 +12312,16 @@ const upList = (t) => {
     seen = new Set(q.map((x) => x.ref));
   return bySubj([...q, ...workItems(true).filter((x) => x.ty === t && x.state !== "going" && !seen.has(x.ref))]);
 };
+// the one project Today shows: the one already started, else one you queued, else the next in the plan; when it is
+// finished the next one takes its place
+function nextProject() {
+  if (_planMemo && "proj" in _planMemo) return _planMemo.proj;
+  const L = workItems(true).filter((x) => x.ty === "proj"),
+    q = new Set(wqList("proj").map((x) => x.ref)),
+    pj = L.find((x) => x.state === "going") || L.find((x) => q.has(x.ref)) || L[0] || null;
+  if (_planMemo) _planMemo.proj = pj;
+  return pj;
+}
 // everything started or reached but not tried, in one list per kind; each row says which it is
 function finishView() {
   const t = WORK_TYPES[ui.tq] ? ui.tq : "les",
@@ -14239,11 +14264,13 @@ function viewJourneyTabs() {
       /<button class="menurow" data-act="(rem|told|track|uploads|school|folder|todo|hist)"[\s\S]*?<\/button>/g,
       "",
     );
-    h += o.replace(
-      /^<section class="sec mt8"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
-      '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
-    );
-    h += onTrackView();
+    const [, subjects, rest] = o
+      .replace(
+        /^<section class="sec mt8"><div class="sech"><h1[^>]*>[^<]*<\/h1>[\s\S]*?<\/div>/,
+        '<section class="sec"><div class="sech"><h3>By subject</h3></div>',
+      )
+      .match(/^([\s\S]*?<\/section>)([\s\S]*)$/);
+    h += `<div class="progrid">${onTrackView()}${subjects}</div>${rest}`;
   } else if (k === "time") h += `<section class="sec">${trackView()}</section>`;
   else if (k === "life") h += lifeTab();
   else if (k === "work")
