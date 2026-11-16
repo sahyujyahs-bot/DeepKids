@@ -4823,11 +4823,6 @@ dialog .fxfab {
 .fxwait {
   opacity: 0.6;
 }
-.fxctx {
-  margin: 0 16px;
-  font-size: var(--fs-3);
-  color: var(--muted);
-}
 .fxcin {
   display: flex;
   gap: 8px;
@@ -7088,6 +7083,15 @@ body {
   text-decoration: underline;
   cursor: pointer;
 }
+/* a list you pick from: a bold arrow, well in from the edge */
+select.inp {
+  appearance: none;
+  padding-right: 52px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232a2540' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 9l7 7 7-7'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 18px center;
+  background-size: 22px;
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -7106,9 +7110,9 @@ body {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="528b901a968d273c8f";window.DK_APPV="528b901a96";window.DK_DATAV="8d271c7988"</script>
-<script src="/config.js?v=528b901a968d273c8f"></script>
+<script>window.DK_BUILD="32088369168d273c8f";window.DK_APPV="3208836916";window.DK_DATAV="8d271c7988"</script>
+<script src="/config.js?v=32088369168d273c8f"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=528b901a968d273c8f"></script>
+<script src="/platform.js?v=32088369168d273c8f"></script>
 </body>
 </html>
