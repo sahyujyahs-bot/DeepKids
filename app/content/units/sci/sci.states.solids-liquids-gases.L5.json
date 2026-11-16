@@ -1020,7 +1020,7 @@
       "t": "mcq",
       "q": "In Two Balloons on a Hanger, the carbon dioxide balloon sank lower than the air balloon. Both were the same size. What does that show?",
       "options": [
-       "A litre of carbon dioxide has more mass than a litre of air",
+       "Carbon dioxide is heavier than air, litre for litre",
        "Air has no mass at all",
        "The carbon dioxide balloon held a liquid"
       ],
@@ -1159,7 +1159,7 @@
       "t": "mcq",
       "q": "In Weigh the Fizz, the open tumbler lost about 3 grams. The closed bottle lost none until it was opened. Why?",
       "options": [
-       "The gas has mass, and it could leave only the open tumbler",
+       "The gas has mass, and it left the open tumbler",
        "Fizzing destroys a little matter",
        "The closed bottle did not fizz"
       ],
@@ -1477,7 +1477,7 @@
       "options": [
        "It spread through both jars and looked thinner",
        "It stayed in the first jar only",
-       "It grew, so both jars looked as grey as the first"
+       "It grew, so both jars looked just as grey"
       ],
       "a": 0,
       "why": "A gas spreads into all the space it can reach. No new smoke was made, so the same amount in twice the space looks thinner."
@@ -1561,7 +1561,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Refill the bottle and set it up again. 2. Your child takes the deepest breath they can and blows it all out through the tube. 3. Cap, lift and read as before. 4. If you like, a grown-up tries too. 5. Work out the mass of each breath: about 1.2 grams for each litre.",
+     "do": "1. Refill the bottle and set it up again. 2. Your child takes the deepest breath they can and blows it all out through the tube. 3. Cap the bottle under water, lift it out and read the water left. 4. If you like, a grown-up tries too. 5. Work out the mass of each breath: about 1.2 grams for each litre.",
      "say": "Now your deepest breath. Blow until no more comes out. How does it compare with the quiet breath?",
      "kid": "Fill the bottle again. Take your deepest breath. Blow it all out through the tube. Read the water left. How big was this breath?",
      "adult": true,
@@ -1763,7 +1763,7 @@
       "t": "mcq",
       "q": "A gas can be compressed into less space, but a liquid cannot. Why?",
       "options": [
-       "Gas particles have empty space between them, and liquid particles already touch",
+       "Gas particles have gaps between them, and liquid particles touch",
        "Gas particles are soft and liquid particles are hard",
        "A liquid is heavier than a gas"
       ],
@@ -1944,7 +1944,7 @@
       "t": "mcq",
       "q": "Which property belongs to a gas, but not to a solid or a liquid?",
       "options": [
-       "It spreads out to fill all the space it is given",
+       "It spreads to fill all the space it gets",
        "It has mass",
        "It is made of particles"
       ],
@@ -2167,9 +2167,9 @@
       "t": "mcq",
       "q": "A cloth mask lets air through but stops much of the dust. Why?",
       "options": [
-       "Dust bits are far bigger than gas particles, so threads catch them",
+       "Dust bits are much bigger than gas particles",
        "The cloth makes new clean air",
-       "Air is lighter than dust, so it floats over the cloth"
+       "Air is lighter than dust and floats past"
       ],
       "a": 0,
       "why": "Gas particles are far smaller than the gaps between threads, so they pass through. A bit of dust is many thousands of times bigger and gets caught on the threads. The cloth makes no air. It only sorts the gas from the solid bits."
@@ -2374,7 +2374,7 @@
     },
     {
      "t": "write",
-     "p": "In Two Balloons on a Hanger, the carbon dioxide balloon sank lower than the air balloon of the same size. Explain why.",
+     "p": "Two balloons are the same size. The carbon dioxide balloon sinks lower on a balance than the air balloon. Explain why.",
      "a": "Both balloons held the same volume of gas. Carbon dioxide particles are heavier than the particles of air. So the same volume of carbon dioxide has more mass, and its end of the hanger went down.",
      "why": "A strong answer says that the sizes were the same, so the difference must come from the gas. It also says that both gases have mass.",
      "lines": 3,
@@ -2562,7 +2562,7 @@
     },
     {
      "t": "draw",
-     "p": "A box holds 36 particles of liquid water. Draw the same box when it holds steam. How many particles belong in it?",
+     "p": "A box holds 36 particles of liquid water. Draw the same box holding steam. How many particles belong in it?",
      "a": "At most one particle, and often none. In steam each particle is about 12 widths from the next. So a box 6 particles wide has room for less than one.",
      "why": "A strong drawing is almost empty. Most drawings of gases show far too many particles.",
      "art": "Two boxes of the same size, the first filled with 36 touching dots and the second left blank.",
@@ -2666,7 +2666,7 @@
     },
     {
      "t": "label",
-     "p": "Label a drawing of a bottle with a balloon on top: vinegar, baking soda, carbon dioxide. Write the state beside each.",
+     "p": "Label a bottle with a balloon on top: vinegar, baking soda, carbon dioxide. Write the state beside each.",
      "a": [
       "Vinegar: liquid, in the bottle",
       "Baking soda: solid, falling in from the balloon",
@@ -2684,7 +2684,7 @@
     },
     {
      "t": "mcq",
-     "p": "A deep breath pushes 1,800 ml of water out of an upturned bottle. About what is the mass of that air?",
+     "p": "A deep breath pushes 1,800 ml of water out of a bottle. About what is the mass of that air?",
      "opts": [
       "About 2 grams",
       "About 2 kilograms",
@@ -2723,7 +2723,7 @@
     },
     {
      "t": "write",
-     "p": "A closed bottle of fizzing vinegar and soda keeps its mass. When it is opened, it loses 3 grams. Explain both results.",
+     "p": "A closed bottle of fizzing vinegar and soda keeps its mass. Opened, it loses 3 grams. Explain both results.",
      "a": "The fizz makes carbon dioxide gas, which has mass. While the bottle is closed, the gas stays inside, so the mass stays the same. When the cap opens, gas rushes out, and its mass leaves with it.",
      "why": "A strong answer uses one idea, that a gas has mass, to explain both results.",
      "lines": 4,
@@ -2811,7 +2811,7 @@
      "t": "mcq",
      "p": "A sticky square by the road catches 40 specks. One in a bedroom catches 5. What is the fairest conclusion?",
      "opts": [
-      "More dust floats in the air by the road",
+      "More dust floats in air by the road",
       "The bedroom air has no dust at all",
       "Road air holds 40 kinds of gas",
       "The bedroom square was not sticky"
@@ -2889,7 +2889,7 @@
      "t": "mcq",
      "p": "Why is the mix of gases in air almost the same in Chennai and in Shimla?",
      "opts": [
-      "Winds stir the air, and gases spread among each other",
+      "Winds stir the air, and gases mix",
       "Each city makes its own air",
       "The heavy gases all stay in Chennai",
       "Mountain air has no nitrogen"
@@ -2937,7 +2937,7 @@
    "t": "mcq",
    "p": "Which test best shows that a gas has mass?",
    "opts": [
-    "A fizzing mix gets lighter as its gas escapes",
+    "A fizzing mix gets lighter as gas leaves",
     "A balloon feels smooth",
     "Smoke looks grey",
     "Wind moves the leaves"
@@ -2976,7 +2976,7 @@
    "t": "mcq",
    "p": "Which property do liquids and gases share, but solids do not have?",
    "opts": [
-    "They flow and take the shape of their container",
+    "They flow and take their container's shape",
     "They keep one fixed shape",
     "They can be squashed easily",
     "They have no mass"
@@ -3028,7 +3028,7 @@
    "t": "mcq",
    "p": "Two balloons are the same size. One holds carbon dioxide and one holds air. Why is the first heavier?",
    "opts": [
-    "Its particles are heavier, and there are about as many",
+    "Its particles are heavier, and just as many",
     "It holds a liquid",
     "It is colder",
     "It was blown up harder"
@@ -3042,7 +3042,7 @@
    "t": "mcq",
    "p": "A bag of water feels almost weightless while it is under water. What is the same idea for air?",
    "opts": [
-    "A balloon of air seems almost weightless in air",
+    "A balloon of air seems weightless in air",
     "Air has no mass",
     "Water has no mass",
     "Bags always float"
@@ -3055,7 +3055,7 @@
    "t": "mcq",
    "p": "What is PM2.5?",
    "opts": [
-    "Tiny solid and liquid bits floating in the air",
+    "Tiny solid and liquid bits floating in air",
     "A gas that plants make",
     "A kind of oxygen",
     "The name of a weather app"
@@ -3068,7 +3068,7 @@
    "t": "mcq",
    "p": "Two balloons of different gases are compared, but one balloon is bigger. Why is the test not fair?",
    "opts": [
-    "Two things differ, so we cannot tell which caused the result",
+    "Two things differ, so the cause is unclear",
     "Bigger balloons always win",
     "A fair test needs three balloons",
     "The balloons must be the same colour"
