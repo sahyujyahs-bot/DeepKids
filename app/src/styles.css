@@ -1572,10 +1572,6 @@ dialog.sheet::backdrop {
 .ob h1 {
   font-size: clamp(30px, 7.6vw, 42px);
 }
-.ob .obh {
-  margin-top: 22px;
-  font-size: var(--fs-6);
-}
 .choices {
   display: grid;
   gap: 10px;
@@ -7130,4 +7126,25 @@ select.inp {
   padding: 12px 16px calc(12px + env(safe-area-inset-bottom, 0));
   background: var(--bg);
   z-index: 5;
+}
+/* sign-up: the class of each subject, one line per subject */
+.lvlist {
+  display: grid;
+}
+.lvrow {
+  display: grid;
+  grid-template-columns: 76px 1fr auto;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+}
+.lvrow .row {
+  flex-wrap: nowrap;
+  gap: 6px;
+}
+.lvrow .chip {
+  min-width: 34px;
+  padding-inline: 0;
+  justify-content: center;
 }
