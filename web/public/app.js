@@ -6620,6 +6620,8 @@ function rfsetBody() {
     box = (title, note, L) =>
       `<section class="card"><div class="sech"><b class="h5">${title}</b><span class="pill">${L.length}</span></div><p class="xs muted">${note}</p>${L.length ? `<div class="col" style="gap:4px">${L.join("")}</div>` : `<p class="xs muted">None yet.</p>`}</section>`,
     mastered = [...new Set(Object.values(S.rfq || {}).map((x) => x.k))].filter((k) => rfRight(k) >= RF_PER);
+  if (!Q.length && !mastered.length)
+    return `<p class="note">Nothing to refresh yet. When your child finishes a unit, a quick revision quiz from it shows up on Today and here, until they answer ${RF_PER} of its questions right.</p><button class="btn soft sm self-start" data-act="quizgo">🎯 Quick quiz</button>`;
   return `<p class="sm">Every unit your child completes comes back until they answer ${RF_PER} of its questions right. A day's refresher is at most ${RF_MAX} questions, ${RF_PER} from each of up to ${RF_MAX / RF_PER} units, taking turns across all subjects.</p>
    ${box(
      "Not finished",
@@ -11806,7 +11808,7 @@ const isQ = (u, id) => {
   return !!(w && (w.q || w.st === "planned"));
 };
 const stPills = (x) =>
-  `<span class="pill st-${x.st === "going" ? "going" : x.pend ? "new" : "none"}" style="font-size:var(--fs-1)">${x.st === "going" ? "Ongoing" : x.pend ? "Pending" : "Not started"}</span>${x.q ? ` <span class="pill st-queued" style="font-size:var(--fs-1)">Queued</span>` : ""}`;
+  `<span class="pill st-${x.st === "going" ? "going" : x.pend ? "new" : "none"}" style="font-size:var(--fs-1)">${x.st === "going" ? "Started" : x.pend ? "Not tried yet" : "Not started"}</span>${x.q ? ` <span class="pill st-queued" style="font-size:var(--fs-1)">Queued</span>` : ""}`;
 function unQueue(ty, key) {
   const W = weekSt(),
     w = W[key];
@@ -11977,7 +11979,15 @@ function stepTicked(u, id) {
     ([key, arr]) => key.replace(/^x/, "").startsWith(u.k + "|") && (arr || []).some((n) => names.has(n)),
   );
 }
-function boardWorkItems() {
+// the units a family does next, in each subject's order: the work inside them is what Up next lists
+const upcomingKeys = () =>
+  S.subjects.flatMap((s) =>
+    plannedUnits(s)
+      .filter((u) => rank[statusOf(u.k)] < 2)
+      .slice(0, 12)
+      .map((u) => u.k),
+  );
+function boardWorkItems(all) {
   const out = [],
     W = weekSt(),
     refK = (r) => {
@@ -11992,6 +12002,7 @@ function boardWorkItems() {
     ...Object.keys(W).map((k) => k.slice(0, k.lastIndexOf("|"))),
     ...Object.values(workQueue()).flat().map(refK),
     ...Object.keys(S.quiz || {}).map((k) => k.slice(0, k.lastIndexOf("|"))),
+    ...(all ? upcomingKeys() : []),
   ]);
   const add = (ty, u, id, title, o) => {
     const st = itemState(ty, u, id);
@@ -11999,7 +12010,7 @@ function boardWorkItems() {
     const reached = o.day <= o.dn,
       q = isQ(u, id),
       pend = st === "none" && reached;
-    if (st === "none" && !reached && !q) return;
+    if (st === "none" && !reached && !q && !all) return;
     out.push({
       ref: ty + ":" + u.k + "|" + id,
       ty,
@@ -12009,7 +12020,7 @@ function boardWorkItems() {
       st,
       q,
       pend,
-      state: st === "going" ? "going" : pend ? "new" : "queued",
+      state: st === "going" ? "going" : pend ? "new" : q ? "queued" : "upcoming",
       sub: o.sub(st, reached),
       open: o.open,
       go: st === "going" ? "Continue" : "Start",
@@ -12102,17 +12113,19 @@ function boardWorkItems() {
   });
   return out;
 }
-function workItems() {
-  const out = boardWorkItems();
+function workItems(all) {
+  const out = boardWorkItems(all),
+    up = new Set(all ? upcomingKeys() : []);
   Object.keys(DATA.units || {}).forEach((id) => {
     const u = unitBy("unit|" + id);
     if (!u) return;
     const P = DATA.units[id].parts || [],
-      X = fxStates(id);
-    if (X.every((x) => x === "none")) return;
+      X = fxStates(id),
+      next = up.has(u.k);
+    if (X.every((x) => x === "none") && !next) return;
     P.forEach((p, i) => {
       const x = X[i];
-      if (x !== "going" && x !== "pending") return;
+      if (x !== "going" && x !== "pending" && !(next && x === "none")) return;
       const multi = (p[5] || 1) > 1;
       out.push({
         ref: "fx:" + id + "|" + p[0],
@@ -12123,12 +12136,12 @@ function workItems() {
         st: x === "going" ? "going" : "none",
         q: false,
         pend: x === "pending",
-        state: x === "going" ? "going" : "new",
+        state: x === "going" ? "going" : x === "none" ? "upcoming" : "new",
         sub:
-          `${u.title} · part ${i + 1} of ${P.length}` +
+          `Part ${i + 1} of ${P.length}` +
           (x === "pending" ? " · reached the end, questions left" : multi ? ` · runs ${p[5]} days` : ""),
         open: `data-act="fxpart" data-u="${esc(id)}" data-p="${esc(p[0])}"`,
-        go: x === "going" ? "Continue" : "Finish it",
+        go: x === "going" ? "Continue" : x === "none" ? "Start" : "Finish it",
       });
     });
   });
@@ -12248,7 +12261,7 @@ function viewTasks() {
   return h + (k === "going" ? goingView() : k === "new" ? newView() : queuesView());
 }
 const taskRow = (x, extra = "") =>
-  `<div class="trow"><img class="tpic" src="${esc(lessonPic(x.u))}" alt="" loading="lazy"><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty === "les" ? `<span class="pill st-going" style="font-size:var(--fs-1)">Ongoing</span>` : stPills(x)}<br><span class="xs muted">${x.ty === "les" ? "" : esc(chT(x.u)) + " · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state === "going" ? "accent" : "soft"}" ${x.open}>${x.go}</button></div>`;
+  `<div class="trow"><img class="tpic" src="${esc(lessonPic(x.u))}" alt="" loading="lazy"><div style="min-width:0;flex:1"><b>${esc(x.title)}</b> ${x.ty === "les" ? `<span class="pill st-going" style="font-size:var(--fs-1)">Started</span>` : stPills(x)}<br><span class="xs muted">${x.ty === "les" ? "" : esc(chT(x.u)) + " · "}${esc(SUBJ[x.u.subj])} · ${esc(x.sub)}</span>${extra}</div><button class="btn xs ${x.state === "going" ? "accent" : "soft"}" ${x.open}>${x.go}</button></div>`;
 function grouped(list, empty, rowFn) {
   const by = Object.keys(WORK_TYPES)
     .map((t) => [t, list.filter((x) => x.ty === t)])
@@ -12293,45 +12306,80 @@ function goingView() {
       .join("")}</div></section>`;
   return h;
 }
+const queueExtra = (x) =>
+  `<div class="row" style="gap:10px;margin-top:4px">${x.q ? `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}">Take out of the queue</button>` : qPick(x.ty, x.u.subj, x.ref, "+ Queue", "link xs")}${ui.qpick === x.ref ? "" : `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}" data-how="skip">Not doing this</button>`}</div>`;
 function newView() {
   const L = bySubj(workItems().filter((x) => x.pend));
   return grouped(
     L,
     "Nothing pending. When you finish a lesson part, its worksheets, quizzes, experiments and activities that weren't started show up here.",
-    (x) =>
-      taskRow(
-        x,
-        `<div class="row" style="gap:10px;margin-top:4px">${x.q ? `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}">Take out of the queue</button>` : qPick(x.ty, x.u.subj, x.ref, "+ Queue", "link xs")}${ui.qpick === x.ref ? "" : `<button class="link xs" data-act="qx" data-ty="${x.ty}" data-r="${esc(x.ref)}" data-how="skip">Not doing this</button>`}</div>`,
-      ),
+    (x) => taskRow(x, queueExtra(x)),
   );
+}
+// the kinds of work (Lessons, Projects…) as tabs, each with how many are in the list, and the subject filter under them
+const workTabs = (t, count) =>
+  `<div class="seg qtypes">${Object.entries(WORK_TYPES)
+    .map(
+      ([k, [n, ic]]) =>
+        `<button aria-pressed="${k === t}" data-act="tqt" data-t="${k}">${ic} ${n}${count(k) == null ? "" : ` <small>${count(k)}</small>`}</button>`,
+    )
+    .join("")}</div>`;
+// what comes next in a kind of work: what you queued, then what the planned units hold, in plan order
+const upList = (t) => {
+  const q = wqList(t),
+    seen = new Set(q.map((x) => x.ref));
+  return bySubj([...q, ...workItems(true).filter((x) => x.ty === t && x.state !== "going" && !seen.has(x.ref))]);
+};
+// everything started or reached but not tried, in one list per kind; each row says which it is
+function finishView() {
+  const t = WORK_TYPES[ui.tq] ? ui.tq : "les",
+    items = (k) =>
+      bySubj([
+        ...(k === "les" ? lessonsGoing() : []),
+        ...workItems().filter((x) => x.ty === k && (x.state === "going" || x.pend)),
+      ]);
+  let h = `<section class="sec">${workTabs(t, (k) => items(k).length)}${subjChips()}`;
+  const L = items(t),
+    Q = t === "qz" && S.qzopen?.run;
+  if (Q)
+    h += `<div class="trow"><span class="tic">🎯</span><div style="min-width:0;flex:1"><b>Quick quiz</b> <span class="pill st-going" style="font-size:var(--fs-1)">Started</span><br><span class="xs muted">${Q.res.length} of ${Q.qs.length} answered · started ${fmt(S.qzopen.date)}</span></div><button class="btn xs accent" data-act="qzresume">Continue</button></div>`;
+  h += L.length
+    ? `<div class="col" style="gap:8px">${L.map((x) => taskRow(x, x.state === "going" ? "" : queueExtra(x))).join("")}</div>`
+    : Q
+      ? ""
+      : `<p class="note">Nothing to finish in ${WORK_TYPES[t][0].toLowerCase()}${qfOf() === "all" ? "" : " for " + SUBJ[qfOf()]}.</p>`;
+  return h + `</section>`;
 }
 function queuesView() {
   const t = WORK_TYPES[ui.tq] ? ui.tq : "les",
     s = S.subjects.includes(ui.qs) ? ui.qs : S.subjects[0];
-  let h = `<section class="sec"><div class="seg qtypes">${Object.entries(WORK_TYPES)
-    .map(
-      ([k, [n, ic]]) =>
-        `<button aria-pressed="${k === t}" data-act="tqt" data-t="${k}">${ic} ${n}${k === "les" ? "" : ` <small>${bySubj(wqList(k)).length}</small>`}</button>`,
-    )
-    .join("")}</div>`;
-  h +=
-    t === "les"
-      ? `<div class="seg">${S.subjects.map((x) => `<button aria-pressed="${x === s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>`
-      : subjChips();
-  const L = qItems(t, s),
-    mv = (x, d, on, lab, ch) =>
-      `<button class="iconbtn qb" data-act="qmv" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" data-d="${d}" ${on ? "" : "disabled"} aria-label="${lab}">${ch}</button>`;
-  h += `<div class="row"><button class="btn soft sm" data-act="qshuf" data-ty="${t}" data-s="${s}">${icon("spark")}Shuffle</button></div>`;
-  h += L.length
-    ? `<div class="qlist" data-ty="${t}" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i + 1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b>${x.ty && x.ty !== "les" ? " " + stPills(x).replace(/ <span class="pill st-queued"[^]*$/, "") : ""}<br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="${t}" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div>`).join("")}</div>`
-    : `<p class="note">${t === "les" ? "No chapters waiting." : `No ${WORK_TYPES[t][0].toLowerCase()} queued${qfOf() === "all" ? "" : " in " + SUBJ[qfOf()]}. Tap “+ Queue” on one in Pending, in a lesson or in a chapter.`}</p>`;
-  if (t === "les") {
-    const all = plannedUnits(s).filter((u) => rank[statusOf(u.k)] < 2).length;
-    if (all > 12)
-      h += `<button class="btn soft sm self-start" data-act="qall">${ui.qall ? "Show only the next 12" : `Show the whole year · ${all - L.length} more`}</button>`;
-    h += `<button class="link self-start" data-act="lt2">Find more chapters and topics in the Library →</button>`;
+  let h = `<section class="sec">${workTabs(t, (k) => (k === "les" ? null : upList(k).length))}`;
+  if (t !== "les") {
+    const L = upList(t);
+    return (
+      h +
+      subjChips() +
+      (L.length
+        ? `<div class="col" style="gap:8px">${L.map((x) => taskRow(x, queueExtra(x))).join("")}</div>`
+        : `<p class="note">No ${WORK_TYPES[t][0].toLowerCase()} coming up${qfOf() === "all" ? "" : " in " + SUBJ[qfOf()]}.</p>`) +
+      `</section>`
+    );
   }
-  return h + `</section>`;
+  h += `<div class="seg">${S.subjects.map((x) => `<button aria-pressed="${x === s}" data-act="qsub" data-s="${x}">${SUBJ[x]}</button>`).join("")}</div>`;
+  const L = qItems("les", s),
+    mv = (x, d, on, lab, ch) =>
+      `<button class="iconbtn qb" data-act="qmv" data-ty="les" data-s="${s}" data-r="${esc(x.ref)}" data-d="${d}" ${on ? "" : "disabled"} aria-label="${lab}">${ch}</button>`;
+  h += `<div class="row"><button class="btn soft sm" data-act="qshuf" data-ty="les" data-s="${s}">${icon("spark")}Shuffle</button></div>`;
+  h += L.length
+    ? `<div class="qlist" data-ty="les" data-s="${s}">${L.map((x, i) => `<div class="qrow2${x.ref === ui.flash ? " flash" : ""}" data-r="${esc(x.ref)}"><span class="dh" aria-hidden="true">⠿</span><span class="qn">${i + 1}</span><button class="plain" ${x.open} style="min-width:0;flex:1;text-align:left"><b>${esc(x.title)}</b>${x.ty && x.ty !== "les" ? " " + stPills(x).replace(/ <span class="pill st-queued"[^]*$/, "") : ""}<br><span class="xs muted">${esc(x.sub)}</span></button><span class="row" style="gap:4px;flex-wrap:nowrap">${mv(x, -1, i > 0, "Move up", "▲")}${mv(x, 1, i < L.length - 1, "Move down", "▼")}${x.rm ? `<button class="iconbtn qb" data-act="qx" data-ty="les" data-s="${s}" data-r="${esc(x.ref)}" aria-label="Take out">${icon("close")}</button>` : ""}</span></div>`).join("")}</div>`
+    : `<p class="note">No chapters waiting.</p>`;
+  const all = plannedUnits(s).filter((u) => rank[statusOf(u.k)] < 2).length;
+  if (all > 12)
+    h += `<button class="btn soft sm self-start" data-act="qall">${ui.qall ? "Show only the next 12" : `Show the whole year · ${all - L.length} more`}</button>`;
+  return (
+    h +
+    `<button class="link self-start" data-act="lt2">Find more chapters and topics in the Library →</button></section>`
+  );
 }
 function qzsView() {
   const P = ui.sheet,
@@ -12684,7 +12732,7 @@ function queueCard() {
    }).join("")}</div>
    ${radio.length ? `<div class="sech"><h3 class="fs5">More like this</h3><button class="link" data-act="lt2">Find topics</button></div><div class="row">${radio.map((u) => `<button class="chip ${subjClass(u.subj)}" data-act="qadd" data-s="${s}" data-k="${u.k}">${icon("plus")}${esc(u.title)}</button>`).join("")}</div>` : `<button class="link self-start" data-act="lt2">Find more topics →</button>`}</section>`;
 }
-const PLAN_VIEWS = { year: "Year", month: "Month", week: "Week", day: "Day" };
+const PLAN_VIEWS = { year: "Year", month: "Month", week: "Week" };
 function firstDates() {
   const m = {};
   S.subjects.forEach((s) =>
@@ -12848,7 +12896,7 @@ function weekView() {
 }
 function dayView() {
   const d = ui.pday || today;
-  return `<div class="pager"><button class="iconbtn" data-act="pdd" data-d="-1" aria-label="Previous day">${icon("back")}</button><h3 class="fs6">${d === today ? "Today" : fmt(d)}</h3><button class="iconbtn" data-act="pdd" data-d="1" aria-label="Next day">${icon("next")}</button></div>${timeline(d)}`;
+  return `${ui.pv === "day" ? `<button class="link sm" data-act="pv" data-v="month">‹ Back to the month</button>` : ""}<div class="pager"><button class="iconbtn" data-act="pdd" data-d="-1" aria-label="Previous day">${icon("back")}</button><h3 class="fs6">${d === today ? "Today" : fmt(d)}</h3><button class="iconbtn" data-act="pdd" data-d="1" aria-label="Next day">${icon("next")}</button></div>${timeline(d)}`;
 }
 function askList() {
   const Q = [];
@@ -13026,15 +13074,7 @@ function viewPlanner() {
   // Up next: the order of what comes next
   if (k === "next") return head + planPart("queue");
   // To finish: one subject filter, then the two lists one after the other
-  if (k === "finish")
-    return (
-      head +
-      `<section class="sec">${subjChips()}</section>` +
-      `<section class="sec" id="finGoing"><h2 class="finh">Started, not finished</h2><p class="xs muted">Lessons and parts your child started, and a quiz left half-way.</p></section>` +
-      planPart("ongoing") +
-      `<section class="sec" id="finTry"><h2 class="finh">Not tried yet</h2><p class="xs muted">Parts of finished lessons not started yet, like a project or an experiment. Ones you've queued stay here too, tagged Queued.</p></section>` +
-      planPart("pending")
-    );
+  if (k === "finish") return head + finishView();
   if (k === "refresh") return head + `<section class="sec">${rfsetBody()}</section>` + fxPractiseAll();
   if (k === "shop") return head + shopView();
   return head + planPart("tell");
@@ -17845,8 +17885,12 @@ const SEGS = {
   week: [
     ["days", "Planner", "Tell DeepKids your plans, answer its questions, and see your classes and to-dos."],
     ["cal", "Calendar", "Your plan by day, week, month or year, and where you add classes, trips and to-dos."],
-    ["next", "Up next", "What comes next in each subject. Drag to change the order."],
-    ["finish", "To finish", "What your child started, and what is still to try."],
+    [
+      "next",
+      "Up next",
+      "What comes next: lessons, projects, experiments, activities, worksheets and quizzes from your planned units.",
+    ],
+    ["finish", "To finish", "What your child started, and what is still to try, by kind and subject."],
     [
       "shop",
       "Shopping",
