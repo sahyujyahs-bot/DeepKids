@@ -6910,6 +6910,22 @@ body {
     width: 170px;
   }
 }
+@media (min-width: 900px) {
+  /* Today on a big screen: the day on the left, the rest of the screen's cards in a column beside it */
+  .todaygrid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr);
+    gap: 0 24px;
+    align-items: start;
+  }
+  .todaygrid > .cal {
+    grid-column: 1;
+    grid-row: 1 / span 8;
+  }
+  .todaygrid > :not(.cal) {
+    grid-column: 2;
+  }
+}
 @media (min-width: 1400px) {
   .wrap {
     max-width: 1080px;
