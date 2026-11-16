@@ -1,0 +1,3626 @@
+{
+ "id": "sci.seeds-and-life-cycles.seeds-and-germination.L5",
+ "title": "Seeds that wait: how a dry seed stays alive for years",
+ "level": 5,
+ "summary": {
+  "text": "Put dry moong seeds in the freezer for a night, and nearly all of them still sprout. Soak the same seeds first, and one night in the freezer kills them. A dry seed holds so little water that no ice forms inside. This is how a lotus seed stayed alive for about 1,300 years. It is also how seed banks keep seeds alive for a hundred years or more. Your child runs the Freezer Test. Then they test whether a seed that has started to wake can be dried again. They also learn how a seed bank dries, freezes, tests and regrows seeds.",
+  "art": "Two steel plates side by side on wet cloths: one with green moong seeds that all have white roots, one with dark, soft moong seeds and no roots, and a freezer door open behind them."
+ },
+ "intro": {
+  "hook": "A scientist in the United States was given a lotus seed from a dry lake bed in China. The seed was about 1,300 years old. She filed a small cut in the hard coat and put the seed in water. Within a few days the seed had a green shoot. How can a seed stay alive for 1,300 years?",
+  "text": "The scientist was Jane Shen-Miller, and she reported the lotus seed in 1995. The seed had done almost nothing for all those years. They had not grown, and they had hardly used any food. Then water reached the young plant inside, and the seed germinated like a seed from last year. In this unit you find out what keeps a dry seed alive. You put dry seeds and soaked seeds in the freezer. You dry seeds again after they have started to wake. Then you see how seed banks use the same science to keep seeds safe.",
+  "art": "A dark brown, oval lotus seed with a small filed cut in the coat, lying in a shallow dish of water with a short green shoot coming out."
+ },
+ "outcomes": [
+  "I can name the parts of a seed and say, in order, what happens when a seed germinates.",
+  "I can plan a fair germination test: what to change, what to measure and what to keep the same.",
+  "I can turn a count into a germination percentage, and explain why a test needs many seeds and many days.",
+  "I can explain why a dry seed lives through freezing and a soaked seed does not.",
+  "I can explain why a seed can be dried again before the root comes out, but not after.",
+  "I can explain what dormancy is, and give examples of seeds that waited for many years.",
+  "I can describe how a seed bank keeps seeds alive, and why the bank must test and regrow them.",
+  "I can give reasons for keeping seeds in frozen banks and reasons for keeping them growing in farmers' fields."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Germination",
+   "meaning": "The start of growth in a seed. The seed takes in water and swells, the seed coat splits, and the first root comes out.",
+   "example": "A moong seed on a wet cloth germinates in about a day. You can see a small white root.",
+   "art": "A green moong seed with a split coat and a short white root pointing down."
+  },
+  {
+   "term": "Embryo",
+   "meaning": "The young plant inside a seed. The embryo has a tiny root, a tiny shoot and one or two seed leaves.",
+   "example": "Open a soaked chana. The small pointed bump at one end is the embryo's root.",
+   "art": "A chana opened in two halves, with an arrow pointing at the tiny plant at one end."
+  },
+  {
+   "term": "Seed coat",
+   "meaning": "The skin around a seed. The seed coat protects the embryo and controls how fast water gets in.",
+   "example": "The green skin of a moong seed and the red skin of a rajma are seed coats.",
+   "art": "A soaked rajma with the red skin half peeled away from the pale inside."
+  },
+  {
+   "term": "Food store (cotyledons)",
+   "meaning": "The food that the parent plant packed into the seed. In beans and dals, the food is in two thick seed leaves called cotyledons.",
+   "example": "The two halves of a chana are cotyledons. The embryo lives on this food until the first green leaves work.",
+   "art": "The two fat halves of a bean, shaded to show they are full of food, joined to a tiny shoot and root."
+  },
+  {
+   "term": "Radicle and plumule",
+   "meaning": "The radicle is the embryo's first root. The plumule is the embryo's first shoot. The radicle always comes out first.",
+   "example": "The white tail on a moong sprout is the radicle. The plumule comes up a day or two later.",
+   "art": "A sprouting bean with the root labelled radicle and the small folded shoot labelled plumule."
+  },
+  {
+   "term": "Viable",
+   "meaning": "Alive and able to germinate. A viable seed may be dry and still for years.",
+   "example": "Dry moong in a jar are viable. Boiled moong look the same, but they are no longer viable.",
+   "art": "Two heaps of moong that look the same, one with a tick and one with a cross."
+  },
+  {
+   "term": "Dormant",
+   "meaning": "Alive, but not germinating. Some seeds stay dormant even when they have water, warmth and air.",
+   "example": "A lotus seed can lie dormant in wet mud for hundreds of years, because water cannot pass the hard coat.",
+   "art": "A hard brown lotus seed lying in wet mud with no shoot."
+  },
+  {
+   "term": "Variable",
+   "meaning": "Anything in a test that can change. In a fair test you change one variable, measure one variable, and keep all the others the same.",
+   "example": "In the Freezer Test, one variable you change is whether the seeds go into the freezer.",
+   "art": "Three small labels on a notebook page: change, measure, keep the same."
+  },
+  {
+   "term": "Control group",
+   "meaning": "The group in a test that gets the ordinary treatment. You compare every other group with the control.",
+   "example": "In the Freezer Test, the dry seeds kept on the shelf are the control group.",
+   "art": "Four plates of seeds with one plate marked with a star as the control."
+  },
+  {
+   "term": "Germination percentage",
+   "meaning": "How many seeds out of every 100 germinate in a test.",
+   "example": "If 18 of 20 seeds germinate, that is 90 out of 100, or 90 percent.",
+   "art": "A plate of 20 seeds, 18 with roots and 2 without, and the label 90%."
+  },
+  {
+   "term": "Sample",
+   "meaning": "A small number of seeds taken from a big batch and tested, to find out about the whole batch.",
+   "example": "A seed bank tests a sample of 50 or 100 seeds. The rest of the seeds stay in the freezer.",
+   "art": "A big sack of seeds with a small spoonful taken out and laid in rows."
+  },
+  {
+   "term": "Moisture content",
+   "meaning": "How much of a seed's weight is water.",
+   "example": "A dry moong seed is about one tenth water. A moong sprout is more than three quarters water.",
+   "art": "A seed drawn as a bar with a small blue part for water, beside a sprout whose bar is mostly blue."
+  },
+  {
+   "term": "Ice crystal",
+   "meaning": "A small, sharp-edged piece of ice that forms when water freezes.",
+   "example": "When a soaked seed freezes, ice crystals form inside the cells and tear them.",
+   "art": "A zoom-in on a plant cell with sharp ice crystals poking through the cell's thin skin."
+  },
+  {
+   "term": "Seed bank (gene bank)",
+   "meaning": "A place that keeps seeds of many kinds of plants alive for a long time. The seeds are dried, sealed and frozen.",
+   "example": "India's National Genebank in New Delhi keeps more than 4 lakh seed samples in cold rooms.",
+   "art": "Shelves of sealed silver packets in a cold room, with a worker in a thick jacket."
+  },
+  {
+   "term": "Soil seed bank",
+   "meaning": "All the living seeds lying in the soil of a place, waiting to germinate.",
+   "example": "Weeds that come up in a pot where you sowed nothing grew from the soil seed bank.",
+   "art": "A cut-away view of soil with many tiny seeds scattered at different depths."
+  },
+  {
+   "term": "Regrow (regenerate)",
+   "meaning": "To sow some stored seeds, grow the plants, and collect fresh seeds to put back in the bank.",
+   "example": "When fewer than 85 in 100 stored seeds germinate, a seed bank regrows the sample.",
+   "art": "A sealed seed packet with an arrow to a row of plants, and an arrow from the plants to a new packet."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Inside a seed, and the steps of germination",
+   "status": "defined",
+   "definition": "A seed has three parts: a seed coat, an embryo and a food store. Germination is the start of growth, and its steps always come in the same order.",
+   "description": "The seed coat is the skin. The embryo is the young plant, with a first root called the radicle and a first shoot called the plumule. The food store feeds the embryo. In beans and dals the food is in two thick seed leaves called cotyledons. Germination has five steps. First, the seed takes in water and swells. Second, the seed coat splits. Third, the radicle grows out and turns downwards. Fourth, the plumule grows upwards. Fifth, the first green leaves open and start to make food. Until then the seedling lives only on the food store, so the cotyledons shrink as the seedling grows. This is why a seed can germinate in the dark.",
+   "examples": [
+    "Soak a chana overnight and open the two halves. The tiny pointed embryo sits at one end.",
+    "A moong seed on a wet cloth shows a split coat and a white radicle in about one day.",
+    "The two thick halves of a moong sprout shrivel after a week, because the food has been used."
+   ],
+   "perspectives": [],
+   "art": "Five small drawings in a row: a dry bean, a swollen bean, a bean with a split coat and a root, a bean with a root and a shoot, and a seedling with two green leaves."
+  },
+  {
+   "concept": "What a seed needs to germinate, and how a fair test shows it",
+   "status": "defined",
+   "definition": "Most seeds need three things to germinate: water, oxygen from the air, and enough warmth. Most seeds do not need light or soil.",
+   "description": "Water softens the coat and starts the chemistry inside the embryo. Oxygen lets the embryo release energy from the food store. This is called respiration, and it is why seeds under deep water often fail. Warmth sets the speed. Moong germinate fastest at about 25 to 35 degrees Celsius, and hardly at all in a fridge. A fair test finds these needs one at a time. A variable is anything that can change in a test. You change one variable, such as water or no water. You measure one variable, such as how many seeds have a root. You keep every other variable the same: the kind of seed, the number, the cloth and the place. The group with the ordinary treatment is the control group. A few kinds of seed also need light. Lettuce seeds and many tiny weed seeds germinate only after light has reached them.",
+   "examples": [
+    "Dry moong on a dry cloth: none germinate. The same moong on a wet cloth: nearly all germinate.",
+    "Moong on a wet cloth in the fridge: very few germinate until the cup is moved to a shelf.",
+    "Moong in a dark cupboard germinate as well as moong by a window."
+   ],
+   "perspectives": [],
+   "art": "Five labelled jars of seeds: dry, wet, wet in a fridge, wet in a dark box, and under water with a layer of oil."
+  },
+  {
+   "concept": "Why a test needs many seeds, many days and a percentage",
+   "status": "defined",
+   "definition": "A germination test uses a sample of many seeds and runs for several days. The result is given as a percentage, which is the number that germinate out of every 100.",
+   "description": "In any batch, a few seeds are dead or damaged before the test begins. With 2 seeds in a group, one dead seed changes the result from 100 percent to 50 percent. With 20 seeds, one dead seed changes the result by only 5 percent. So a bigger sample gives a steadier answer. Seeds also wake at different times, so a count on day 1 can miss seeds that wake on day 3. A test must run until no more seeds are waking. A percentage lets you compare groups of different sizes. For 18 of 20 seeds, each seed is worth 5 percent, so 18 seeds make 90 percent. A result that does not fit the pattern is called an odd result, or an anomalous result. Scientists write odd results down and repeat the test. They never rub them out.",
+   "examples": [
+    "18 of 20 seeds is 90 percent. 41 of 50 seeds is 82 percent.",
+    "Seed labs test 100 seeds at a time, often four lots of 100.",
+    "Seed packets in India print the germination percentage and the date of the test."
+   ],
+   "perspectives": [],
+   "art": "A cloth with 20 seeds in four neat rows of 5, most with roots, and a notebook showing 18 out of 20 equals 90 percent."
+  },
+  {
+   "concept": "A dry seed: alive, with almost no water",
+   "status": "defined",
+   "definition": "A dry seed is alive, but nearly all activity inside has stopped. This is possible because the seed holds very little water.",
+   "description": "While a seed ripens on the parent plant, the seed dries out on purpose. A stored moong seed is only about one tenth water. Your body is more than half water, and a moong sprout is more than three quarters water. Before drying, the embryo fills their cells with sugars and protective proteins. As the last water leaves, this mixture sets hard, a little like hard-boiled sugar candy. Scientists call this the glassy state. In a glass, molecules can hardly move, so the chemical reactions of life almost stop. The embryo uses almost no food and wears out very slowly. When water comes back, the glass softens within hours, and the reactions start again. Tardigrades, which are tiny water animals, and some mosses and ferns can dry out and wait in the same way.",
+   "examples": [
+    "Dry moong, rajma and wheat in kitchen jars are alive and waiting.",
+    "Sanjeevani, a small fern relative sold dry in Indian markets, turns green again in a bowl of water.",
+    "A dried tardigrade can start moving again after years, once water returns."
+   ],
+   "perspectives": [],
+   "art": "A zoom-in on a dry seed cell drawn as a solid, clear block with parts held still inside, beside a wet cell with parts moving about."
+  },
+  {
+   "concept": "Why freezing kills a soaked seed and spares a dry seed",
+   "status": "defined",
+   "definition": "Freezing harms living cells when the water inside them turns to ice. A dry seed has too little free water to make ice, so cold does not harm them.",
+   "description": "Water grows bigger when it freezes, and it forms sharp crystals. A soaked seed is full of water. In a freezer, ice crystals form inside the cells. The crystals tear the thin skins, called membranes, around each cell and inside it. When the seed thaws, the cells leak and die. A dry seed holds only a little water, and that water is held tightly inside the glassy mixture. No ice crystals form, so nothing is torn. Cold then helps the seed, because cold slows the slow wearing out even more. So the result depends on two variables together. Cold alone does not kill the seed. Water alone does not kill the seed. Cold and water together do.",
+   "examples": [
+    "Dry wheat seeds in a seed bank stay alive at minus 18 degrees Celsius for many decades.",
+    "Frozen green peas from a shop do not grow, because they were wet when they were frozen.",
+    "A wet leaf of palak left in the freezer turns limp and dark when it thaws."
+   ],
+   "perspectives": [],
+   "art": "Two zoom-in circles: a wet cell pierced by sharp ice crystals, and a dry cell with no crystals, both under a snowflake sign."
+  },
+  {
+   "concept": "The point of no return: when a waking seed can no longer be dried",
+   "status": "defined",
+   "definition": "A seed can be soaked and dried again safely for the first few hours. Once the radicle has come out, drying kills the seedling.",
+   "description": "The embryo keeps their protection for the first hours of soaking. If the seed dries again in that time, the glassy state forms again and the seed waits. Farmers use this. Many soak seeds overnight, dry the surface and then sow, so the seeds come up faster. This is called seed priming. Once the radicle grows out, the embryo has changed. The new cells are large and full of water. The protective sugars and proteins have been used or taken apart. If these cells dry, they collapse and die. So germination has a point of no return, at about the time the root appears. A seed that wakes just before a long dry spell cannot go back to waiting. This is why the timing of waking matters so much to a plant.",
+   "examples": [
+    "Moong soaked for 6 hours and dried for 2 days usually germinate well when wetted again.",
+    "Moong with roots 1 centimetre long, dried for 2 days, usually do not grow again.",
+    "Seedlings that come up after one light shower often die if no more rain follows."
+   ],
+   "perspectives": [],
+   "art": "A timeline arrow: a dry seed, a swollen seed marked 'can still be dried', then a seed with a root and a red line marked 'no way back'."
+  },
+  {
+   "concept": "Dormancy: seeds that wait even when they have water",
+   "status": "defined",
+   "definition": "A dormant seed is alive but does not germinate, even with water, warmth and air. Dormancy keeps a seed from waking at a bad time.",
+   "description": "A dry seed in a jar waits because there is no water. Scientists call that resting. Dormancy is different, because a dormant seed waits even on wet soil. Some dormant seeds have a coat that water cannot pass, such as lotus and tamarind. Others hold chemical signals that stop the embryo until a sign arrives. The sign may be a cold season, light, or a heavy rain. Because germination cannot be undone, waiting for the right sign protects the seedling. Dormant seeds collect in the ground. All the living seeds in the soil of a place are called the soil seed bank. Some of them wait for one season, and some wait for many years.",
+   "examples": [
+    "A lotus seed's coat is so hard that the seed can lie in wet mud for centuries.",
+    "Apple seeds germinate only after some weeks of cold, which tells them winter has passed.",
+    "Dig up a patch of bare soil, and weeds soon appear from seeds that were buried there."
+   ],
+   "perspectives": [],
+   "art": "A cut-away of pond mud with a hard lotus seed lying still, and a second lotus seed with a cracked coat sending up a shoot."
+  },
+  {
+   "concept": "How long can a seed wait?",
+   "status": "idea",
+   "description": "Nobody knows the longest time a seed can stay alive. The answer is different for every kind of seed, and for every place the seed is kept. In ordinary kitchen storage, onion seeds last a year or two, and moong lasts several years. The oldest seeds known to have germinated were kept dry or sealed by nature. A date palm seed about 2,000 years old, from the desert fortress of Masada, germinated in 2005. A lotus seed about 1,300 years old, from a dry lake bed in China, germinated in the 1990s. Seeds die in the end because damage slowly builds up, even in the glassy state. The instructions in their DNA break in places, and the cell membranes become leaky. A waking seed repairs this damage in the first hours. When there is too much damage to repair, the seed can no longer germinate.",
+   "examples": [
+    "Moth mullein seeds buried in a bottle in 1879 still germinated in 2021, after 142 years.",
+    "Lotus seedlings grown from very old seeds sometimes had odd leaves, a sign of old damage.",
+    "Mango and jackfruit seeds die within weeks, because they cannot survive drying at all."
+   ],
+   "perspectives": [],
+   "art": "A long timeline with three seeds on it: a small mullein seed at 142 years, a lotus seed at 1,300 years and a date seed at 2,000 years."
+  },
+  {
+   "concept": "How a seed bank keeps seeds alive",
+   "status": "defined",
+   "definition": "A seed bank keeps seeds viable for a long time by keeping them very dry and very cold. Then it tests them and regrows them before they die.",
+   "description": "A seed bank follows six steps. First, the seeds are collected, with a note of the place and the date. Second, they are cleaned and a sample is tested for germination. Third, they are dried slowly in a cool, dry room for some weeks. By the end they are only about one twentieth water. Fourth, they are sealed in packets that no air or damp can enter. Fifth, they are stored at about minus 18 degrees Celsius, which is the cold of a home freezer. Sixth, a sample is taken out every five or ten years and tested. Before a packet is opened, it is left closed until it reaches room temperature. Otherwise damp from the air would settle on the cold seeds. If fewer than about 85 in 100 germinate, the bank sows the seeds. The plants are grown, and the fresh seeds are stored. A seed bank also sends copies to other banks. The Svalbard Global Seed Vault in Norway opened in 2008. More than 13 lakh copies from banks around the world are kept there.",
+   "examples": [
+    "India's National Genebank in New Delhi stores more than 4 lakh seed samples.",
+    "The Millennium Seed Bank in England stores seeds of more than 40,000 kinds of wild plants.",
+    "In 2015, scientists who had to leave Aleppo in Syria took back their copies from Svalbard and regrew them."
+   ],
+   "perspectives": [],
+   "art": "Six small pictures in a row: collecting seed heads, cleaning, a drying room, sealing a silver packet, a freezer room, and a germination test on paper."
+  },
+  {
+   "concept": "Frozen banks or living fields: two ways to save seeds",
+   "status": "debated",
+   "definition": "People agree that old crop varieties must be saved. They disagree about which matters more: frozen seed banks, or farmers who keep sowing the seeds.",
+   "description": "A frozen seed is safe from floods, pests and war, but the seed does not change. The world outside keeps changing: new pests arrive, and the weather shifts. A crop that farmers sow every year keeps adapting. Each year, the plants that do well leave the most seed. But a field can be lost in one bad season. Some seeds cannot be frozen at all, because they die when they are dried. Mango, jackfruit and cocoa are like this, and they are kept as living trees.",
+   "examples": [
+    "Rahibai Popere, a farmer in Maharashtra, has saved many old crop varieties by growing and sharing them.",
+    "Women farmers of the Deccan Development Society in Telangana run village seed banks of millets. Seed is lent, and paid back after harvest.",
+    "After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that stands salty soil."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who run frozen seed banks",
+     "explanation": "A freezer keeps thousands of varieties in one small room for a hundred years, at low cost. When a variety is lost from the fields, the bank can give it back. No village could keep growing so many varieties every year."
+    },
+    {
+     "who": "Farmers and scientists who keep seeds growing, such as the ecologist Debal Deb in Odisha",
+     "explanation": "A seed in a freezer stops adapting to new weather and new pests. A variety also needs farmers who know how to grow, cook and choose that crop. So the seeds should be sown every year, in many fields."
+    },
+    {
+     "who": "Many people who work with both",
+     "explanation": "The two ways cover each other's risks. Fields keep seeds adapting, and frozen banks are the back-up when a field is lost."
+    }
+   ],
+   "art": "A split picture: a cold room with sealed packets on one side, and women farmers sorting seeds on a mat beside a millet field on the other."
+  },
+  {
+   "concept": "Is a dry seed alive while nothing is happening inside?",
+   "status": "debated",
+   "definition": "Scientists agree that a dry seed can live again. They disagree about what to call the seed while almost nothing is happening inside.",
+   "description": "In the driest, coldest seeds, scientists can find almost no activity at all. No growth, no feeding, and almost no respiration can be measured. Yet the seed germinates when water returns. The biologist David Keilin gave this state a name in 1959. He called it cryptobiosis, which means hidden life.",
+   "examples": [
+    "A dry tardigrade and a dry seed both show almost no activity, and both can become active again.",
+    "A boiled seed shows no activity either, but can never become active again."
+   ],
+   "perspectives": [
+    {
+     "who": "Biologists who say life is something a body does",
+     "explanation": "Living means taking in food, respiring and repairing. A seed that does none of these is not living at that time. The seed keeps the ability to live, and that ability is what a boiled seed has lost."
+    },
+    {
+     "who": "Biologists who say life is something a body keeps",
+     "explanation": "The seed keeps all the parts and all the order needed for life, and guards them. Keeping that order through 1,000 years is itself what the living seed is doing. So the seed is alive all the time."
+    }
+   ],
+   "art": "A dry seed in the centre of a page with a question mark above, and a faint outline of a full-grown plant drawn around the seed."
+  },
+  {
+   "concept": "Seeds beyond the Earth",
+   "status": "idea",
+   "description": "A dry seed can live through more than a freezer. From 2008 to 2009, scientists kept seeds of two small plants outside the International Space Station. The seeds stayed there for 18 months. The seeds had no air. They met strong ultraviolet light from the Sun, and they went from very hot to very cold on every orbit. Back on Earth, some of the seeds still germinated. The dark colours in the seed coat had shielded the embryo from the ultraviolet light. Some scientists ask whether dry seeds or spores could carry life from one planet to another. This is only an idea. Nobody has found any sign that it has happened.",
+   "examples": [
+    "Tobacco and thale cress seeds germinated after 18 months outside the space station.",
+    "Dry seeds have been flown to the Moon's orbit and grown afterwards on Earth."
+   ],
+   "perspectives": [],
+   "art": "A small tray of seeds fixed to the outside of a space station, with the Earth far below."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "A seed germinates in a fixed order: water goes in, the seed swells, the coat splits, the root comes out, and then the shoot.",
+   "evidence": "Anyone can watch this on a wet cloth or through the side of a glass jar. Time-lapse films of many kinds of seed show the same order."
+  },
+  {
+   "text": "Most seeds need water, oxygen and warmth to germinate. Most seeds do not need light.",
+   "evidence": "Fair tests that change one variable at a time give the same result all over the world. Seeds in the dark germinate. Seeds without water, without air or in the cold do not."
+  },
+  {
+   "text": "A dry seed lives through freezing, and a soaked seed does not.",
+   "evidence": "Seed banks freeze dry seeds at minus 18 degrees Celsius and germinate them decades later. The Freezer Test shows the same thing at home in five days."
+  },
+  {
+   "text": "Drier and colder seeds live longer.",
+   "evidence": "Seed scientists have stored batches of seeds at many levels of dryness and cold, and tested samples for years. The drier, colder batches kept their germination longest."
+  },
+  {
+   "text": "Some seeds can stay alive for more than a thousand years.",
+   "evidence": "A lotus seed and a date palm seed were dated by a test called carbon dating, which measures age. Both seeds were then germinated."
+  },
+  {
+   "text": "Stored seeds slowly die, even when frozen, so seed banks must test them and regrow them.",
+   "evidence": "Seed banks that have tested the same samples for decades see the germination percentage fall. Some kinds fall within a few decades, and others take far longer."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Cold kills seeds.",
+   "who": "A common belief.",
+   "for": "Frost kills seedlings and young plants. Wet seeds left out on a freezing night do die.",
+   "against": "Cold kills only when there is water inside to turn into ice. Dry seeds live through a freezer, and seed banks depend on this.",
+   "status": "rejected",
+   "context": "This card is about the belief that cold always harms seeds."
+  },
+  {
+   "claim": "Wheat found in the tombs of ancient Egypt can still grow.",
+   "who": "Many people in Europe in the 1800s, and some sellers of 'mummy wheat' since then.",
+   "for": "Travellers said they had sown grain from tombs and seen it grow. Seeds do live for a long time when they are dry.",
+   "against": "Botanists who tested grain that truly came from tombs never saw one grain germinate. The grain was brown and brittle. The wheat that grew had been mixed in later.",
+   "status": "rejected",
+   "context": "This card is about an old claim that wheat grains about 3,000 years old had germinated."
+  },
+  {
+   "claim": "Once seeds are in a frozen vault, that crop is safe for ever.",
+   "who": "A common belief about seed banks.",
+   "for": "Dry, frozen seeds can live for a hundred years or more, and a vault is safe from floods and pests.",
+   "against": "Frozen seeds still age slowly, and some kinds die within decades. A bank must keep testing and regrowing its seeds. That needs fields, money and skilled people.",
+   "status": "rejected",
+   "context": "This card is about the belief that a frozen seed vault needs no further work."
+  },
+  {
+   "claim": "The best seed bank is a farmer's field, not a freezer.",
+   "who": "Many farmers' groups and some ecologists.",
+   "for": "Seeds sown every year keep adapting to new weather and pests. The knowledge of how to grow them stays alive too.",
+   "against": "A flood, a drought or a war can wipe out a field in one season. Without a frozen copy, the variety is lost.",
+   "status": "debated",
+   "context": "This card is about a real disagreement over where seeds are safest."
+  },
+  {
+   "claim": "A fully dry seed is not alive. It is only able to become alive.",
+   "who": "Some biologists who study dried and frozen life.",
+   "for": "In the driest seeds, no feeding, growth or respiration can be measured.",
+   "against": "The seed keeps and protects every part needed for life, and a dead seed does not. Many biologists call that being alive.",
+   "status": "debated",
+   "context": "This card is about what to call a seed while almost nothing is happening inside."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A dry seed and a boiled seed both do nothing in a jar. One is alive and one is dead. What is the difference between them?",
+   "kind": "deep",
+   "hint": "Think about what each seed still has inside, and what happens to each when water arrives."
+  },
+  {
+   "q": "A seedling cannot go back to being a seed. What other changes in living things cannot be undone?",
+   "kind": "deep",
+   "hint": "Think about an egg that has hatched, a flower that has opened, or a tooth that has fallen out."
+  },
+  {
+   "q": "In the Freezer Test, neither cold alone nor water alone killed the seeds. Can a cause be two things together?",
+   "kind": "deep",
+   "hint": "Think about a wet floor and running. Which one makes you slip?"
+  },
+  {
+   "q": "During a war in the 1940s, hungry scientists in Leningrad guarded sacks of seed and did not eat them. Why would seeds matter that much?",
+   "kind": "big",
+   "hint": "The seeds were thousands of crop varieties collected by Nikolai Vavilov. Think about who would need them after the war."
+  },
+  {
+   "q": "A seed bank stops seeds from germinating for a hundred years. Is that done for the seeds, or for us?",
+   "kind": "big",
+   "hint": "Think about what a seed would do without us. Then think about what the plants gain when a lost variety is sown again."
+  },
+  {
+   "q": "Farmers bred every crop over thousands of years, and nobody knows their names. Who should own the seeds in a seed bank?",
+   "kind": "big",
+   "hint": "In the Svalbard vault, each box still belongs to the bank that sent it. Is that fair to the farmers?"
+  }
+ ],
+ "story": {
+  "title": "The Pot Under the Roof",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "Thenmozhi, Paatti, Selvam Maama and their village are made up. These things are real. On 26 December 2004 a tsunami sent sea water over the fields of Nagapattinam district in Tamil Nadu. The salt stayed in the soil. Afterwards, farmers there went back to old paddy varieties that can grow in salty soil. Many families kept seed paddy in sealed mud pots with dried neem leaves. Counting 100 seeds onto a wet cloth is the test that farmers and seed labs really use. The numbers in Thenmozhi's count are made up.",
+  "text": [
+   "The sea came into Thenmozhi's village on a Sunday morning in December. By evening the water had gone back. The salt had not.",
+   "Nine months later, the family's paddy field still showed it. In the nursery bed, the seedlings from the shop seed had come up green. Then they had turned yellow from the tips, and then brown. Selvam Maama pulled up a seedling and held the little plant out. The roots were short and dark.",
+   "\"Salt,\" he said. \"The rain has not washed enough of it out. And I have no money for a second sack.\"",
+   "Paatti said nothing. She fetched the ladder, and she pointed at the roof.",
+   "Under the palm-leaf roof, tied to a rafter, hung a mud pot. The sea had filled the house to the height of Thenmozhi's chest that Sunday. The pot had hung above the water. The mouth was closed with a clay lid, and the lid was sealed with mud.",
+   "Maama brought the pot down. Paatti broke the seal with her thumbnail. Inside lay dry neem leaves, and under them paddy. The grains were darker than shop paddy, with long, stiff hairs at the tips.",
+   "\"My mother grew this in the low field by the backwater,\" said Paatti. \"The backwater is half sea. This paddy never minded.\"",
+   "\"When did you fill this pot?\" asked Maama.",
+   "\"Two harvests ago.\"",
+   "Maama let the grains run through his fingers. \"Twenty months, Amma. Through two monsoons, in this wet air. This is not seed any more. This is bird feed.\" He looked at the sky. \"And if I sow the nursery from this pot and nothing comes up, the season is gone. There is no time to sow twice.\"",
+   "Thenmozhi picked up one grain and bit down. The grain was hard, and cracked between her teeth like a tiny stick.",
+   "\"They are very dry,\" she said.",
+   "\"Dry is not the same as alive,\" said Maama.",
+   "He was right about that, and Thenmozhi knew it. A dead grain and a living grain look the same. She turned the grain over. There was no way to see inside.",
+   "\"Soak them,\" said Maama. \"Soak the whole pot tonight. If they swell and sprout, we sow. If they rot, we know.\"",
+   "\"And if they sprout, and then no rain comes for the field?\" said Paatti. \"A sprouted grain cannot go back into the pot, Selvam. Once the root is out, you sow that day or you lose them.\"",
+   "Maama had no answer. They stood around the pot. Thousands of grains lay in it, and nobody could ask them.",
+   "Thenmozhi looked at the grain in her hand. One grain could not speak for the pot. One grain might be the only dead one, or the only living one. But the pot was all the same harvest, dried on the same mat, sealed on the same day.",
+   "\"We do not have to wake them all,\" she said slowly. \"We can wake some. A hundred.\"",
+   "\"And waste a hundred grains?\"",
+   "\"A hundred is half a handful, Maama. The pot holds thousands. The hundred will tell us about the rest.\"",
+   "Paatti was already tearing a square from an old gunny sack.",
+   "Thenmozhi wet the sack cloth and wrung it out. She stirred the pot with her arm, right to the bottom, and took grains from the top, the middle and the deep part. She counted them onto the cloth in rows of ten. Ten rows. She rolled the cloth up like a mat, tied it with a strip of banana fibre, and stood it in a tumbler in the corner where the cooking fire kept the wall warm.",
+   "On the second day she unrolled it. Nothing. The grains looked exactly as before, only darker with the wet.",
+   "\"Bird feed,\" said Maama, and went out to the field.",
+   "On the third day, twelve grains had a white point at one end, no longer than an ant.",
+   "On the fifth day she counted fifty-eight.",
+   "On the seventh day she counted three times, moving each sprouted grain to one side of the cloth so that none was counted twice. Seventy-one grains had a root and a pale green spike. Twenty-nine lay as they had lain on the first day.",
+   "Maama squatted beside the cloth. \"Twenty-nine dead,\" he said.",
+   "\"Seventy-one alive,\" said Thenmozhi. \"After twenty months. Out of every ten grains, seven will grow. So where you would sow seven, sow ten.\"",
+   "Maama looked at the cloth for a long time. Then he laughed. \"So now the pot has spoken,\" he said. \"Through half a handful.\"",
+   "They sowed the nursery bed the next morning, thicker than Maama had ever sown it. The seedlings came up dark green. Thenmozhi went to look at the tips every day. They stayed green.",
+   "In January the paddy stood chest high in the field where the shop seedlings had died, and the long hairs on the grains shone in the sun. Paatti filled three pots from the first threshing, before a single grain was sold. One went back under the roof. Two went to the neighbours on either side.",
+   "Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoal from the hearth. On the side of the pot she wrote the month and the year. Under that she wrote: 71 of 100.",
+   "\"Next year,\" she told the pot, \"I will ask you again.\""
+  ],
+  "epiphany": "For the parent: nobody can tell a living seed from a dead one by looking. The only way to know is to wake the seed with water, and waking cannot be undone. So Thenmozhi wakes a sample of 100 grains and lets them speak for the whole pot. Her count, 71 of 100, also tells the family how thickly to sow. The paddy was alive after 20 months because the grains were kept dry in a sealed pot.",
+  "ask": [
+   "Maama wanted to soak the whole pot to find out whether the paddy was alive. What was wrong with that plan?",
+   "Why did Thenmozhi take grains from the top, the middle and the bottom of the pot?",
+   "Would 10 grains have told the family as much as 100? Why or why not?",
+   "The paddy in the pot stayed alive for 20 months in damp sea air. What kept the grains alive?",
+   "Why did Paatti fill three pots before selling any grain, and give two away?"
+  ],
+  "art": [
+   "A village house in coastal Tamil Nadu with a palm-leaf roof, and a mud pot with a sealed clay lid hanging from a rafter high above a water mark on the wall.",
+   "A girl of ten, an old woman and a man standing around an open mud pot of dark paddy grains with dry neem leaves on top.",
+   "A girl counting paddy grains in rows of ten onto a wet square of gunny cloth on the floor.",
+   "A rolled, tied cloth standing in a steel tumbler in a corner near a cooking fire.",
+   "An unrolled cloth with most of the paddy grains showing white roots and small green spikes, and a man squatting to look.",
+   "A girl writing '71 of 100' with charcoal on the side of a sealed mud pot, with a field of tall paddy behind her."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Scoop and Guess: how many seeds must you test?",
+   "mins": 25,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "In this game a dabba holds 50 seeds. Rajma stand for living seeds and chana stand for dead seeds. You take out a few seeds without looking and guess what percent of the whole dabba is alive.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "5 mix cards for the setter: cut them out and keep them face down",
+     "items": [
+      "5 chana and 45 rajma: 90 percent alive",
+      "10 chana and 40 rajma: 80 percent alive",
+      "15 chana and 35 rajma: 70 percent alive",
+      "20 chana and 30 rajma: 60 percent alive",
+      "25 chana and 25 rajma: 50 percent alive"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet: one row for each round",
+     "items": [
+      "Round number",
+      "Guess after 5 seeds (percent alive)",
+      "Guess after 10 seeds (percent alive)",
+      "Guess after 25 seeds (percent alive)",
+      "True percent alive on the mix card",
+      "Points: 1 for each guess within 10 of the true percent"
+     ]
+    }
+   ],
+   "rules": [
+    "You need 45 rajma, 25 kabuli chana, a steel dabba with a lid, a spoon, and the mix cards. A rajma is a living seed. A chana is a dead seed.",
+    "One player is the setter. The setter picks a mix card in secret, puts those seeds in the dabba, closes the lid and shakes.",
+    "The other player is the guesser. The guesser shuts their eyes, stirs with the spoon and lifts out 5 seeds, one at a time.",
+    "The guesser looks at the 5 seeds and says what percent of the whole dabba is alive. The setter writes the guess.",
+    "The guesser lifts out 5 more seeds, to make 10, and guesses again. Then 15 more, to make 25, and guesses a third time.",
+    "The setter shows the mix card. Each guess within 10 of the true percent scores 1 point. A round can score 3 points.",
+    "Put all the seeds back, swap jobs and play again. After 3 rounds each, the player with more points wins.",
+    "Playing alone? Use the 80 percent mix. Take 5 seeds and write the percent alive. Put them back and shake. Do this 10 times. Then do 10 scoops of 25 seeds. Count how many scoops of each size came within 10 of 80."
+   ],
+   "setup": [
+    {
+     "art": "A steel dabba with rajma and pale chana mixed inside, a spoon, five small cards face down and a score sheet.",
+     "caption": "1. The setter fills the dabba with the mix on a secret card and shakes."
+    },
+    {
+     "art": "A child with eyes shut lifting one seed out of a dabba with a spoon, and four seeds already on a plate.",
+     "caption": "2. The guesser lifts out 5 seeds without looking and guesses the percent alive."
+    },
+    {
+     "art": "A plate with 25 seeds sorted into a big heap of rajma and a small heap of chana, beside a card being turned over.",
+     "caption": "3. Guess again after 10 seeds and after 25. Then turn over the card."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Cut out the mix cards. 2. Count 45 rajma and 25 chana into two bowls. 3. Explain that rajma are living seeds and chana are dead seeds. 4. Practise turning a small count into a percentage.",
+     "say": "Out of 5 seeds, each seed is worth 20 percent. Out of 10, each is worth 10 percent. Out of 25, each is worth 4 percent. So 4 rajma out of 5 means 80 percent alive.",
+     "kid": "Cut out the cards. Count the rajma and chana. Rajma are alive. Chana are dead.",
+     "parent": "A seed bank has the same problem. It cannot germinate every seed to find out how many are alive. Then no seeds would be left to store.",
+     "context": "This is the first step of Scoop and Guess. You set up a dabba of rajma and chana that stands for a batch of living and dead seeds."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Play two rounds each. After each round, ask the question below.",
+     "say": "Shut your eyes, stir, and lift out 5 seeds. What percent of the dabba is alive? Now take 5 more. Do you want to change your guess? Now 15 more.",
+     "kid": "Shut your eyes. Lift out 5 seeds. Guess the percent alive. Take more seeds. Guess again.",
+     "ask": [
+      {
+       "q": "Which of your three guesses did you trust most? Why?",
+       "good": [
+        "The guess after 25 seeds, because I had seen half the dabba.",
+        "With 5 seeds, one chana changes the answer by 20 percent."
+       ]
+      }
+     ],
+     "parent": "A player who gets 5 rajma out of 5 will often guess 100 percent. Let the game correct that.",
+     "context": "In this step of Scoop and Guess you take samples of 5, 10 and 25 seeds. Each time you guess how many seeds in the dabba are alive."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Finish the rounds. Then count, over all rounds, how many guesses were within 10 after 5 seeds, after 10 and after 25. Talk about the question below.",
+     "say": "Let's count how often each size of sample was close. Which size was right most often? What does that tell a seed lab?",
+     "kid": "Finish the game. Count which guess was close most often: 5, 10 or 25 seeds.",
+     "check": {
+      "t": "mcq",
+      "q": "A lab tests 100 seeds, not 5, from a big sack. What is the main reason?",
+      "options": [
+       "A bigger sample gives a steadier answer",
+       "Small samples take longer to count",
+       "Five seeds cannot germinate alone"
+      ],
+      "a": 0,
+      "why": "With 5 seeds, one dead seed changes the answer by 20 percent, so luck decides the result. With 100 seeds, one dead seed changes the answer by 1 percent. This is a game moment, so talk about it and play on."
+     },
+     "context": "This is the last step of Scoop and Guess. You find out which sample size gave the closest guesses about the seeds in the dabba."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Wake, Wait or Gone? The seed fate cards",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about what happens to seeds. Each card describes a seed and what was done to them. You say whether the seed will wake, wait, or is gone.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "24 seed fate cards: the seed on the front, the answer and the reason on the back",
+     "items": [
+      {
+       "f": "Dry moong seeds spend one night in a freezer. Then they are put on a wet cloth.",
+       "b": "WAKE. A dry seed holds too little water to make ice, so the cold does no harm."
+      },
+      {
+       "f": "Soaked moong seeds spend one night in a freezer. Then they are put on a wet cloth.",
+       "b": "GONE. Ice crystals formed inside the wet cells and tore them."
+      },
+      {
+       "f": "Dry moong seeds sit in a closed jar on a kitchen shelf for six months.",
+       "b": "WAIT. With no water the seeds rest, and they stay viable."
+      },
+      {
+       "f": "Moong seeds with roots 1 centimetre long are dried for two days. Then they get water.",
+       "b": "GONE. Once the root is out, the seedling cannot survive drying."
+      },
+      {
+       "f": "Moong seeds are soaked for 6 hours and dried for two days. Then they get water.",
+       "b": "WAKE. Before the root comes out, a seed can be dried again safely."
+      },
+      {
+       "f": "Moong seeds are boiled for ten minutes, cooled and put on a wet cloth.",
+       "b": "GONE. Boiling destroyed the embryo."
+      },
+      {
+       "f": "Moong seeds lie on a wet cloth in the fridge for three days.",
+       "b": "WAIT. They are too cold to germinate. Most wake when they are moved to a shelf."
+      },
+      {
+       "f": "A lotus seed lies in wet pond mud. The hard coat has no crack.",
+       "b": "WAIT. The seed is dormant, because water cannot pass the coat."
+      },
+      {
+       "f": "A lotus seed about 1,300 years old has a cut filed in the coat and is put in water.",
+       "b": "WAKE. Water reached the embryo, and the embryo was still alive."
+      },
+      {
+       "f": "Wheat grains lie in a tomb in Egypt for 3,000 years. Then they get water.",
+       "b": "GONE. Real tomb wheat has never germinated. Too much damage had built up."
+      },
+      {
+       "f": "A date seed lies in a dry desert fortress for 2,000 years. Then the seed is soaked and sown.",
+       "b": "WAKE. This happened in 2005. The dry desert air kept the seed alive."
+      },
+      {
+       "f": "A mango stone is left to dry on a shelf for two months.",
+       "b": "GONE. A mango seed cannot survive drying, and must be sown fresh."
+      },
+      {
+       "f": "Dry paddy seeds are sealed in a packet and kept at minus 18 degrees Celsius for 30 years.",
+       "b": "WAIT. Dry and frozen, the seeds age very slowly."
+      },
+      {
+       "f": "Moth mullein seeds lie in a buried bottle of sand for 142 years. Then they are spread on wet soil in the light.",
+       "b": "WAKE. This happened in 2021, in a test begun in 1879."
+      },
+      {
+       "f": "Apple seeds from a freshly picked apple are put on a wet cloth in a warm room.",
+       "b": "WAIT. Most apple seeds are dormant until they have had some weeks of cold."
+      },
+      {
+       "f": "Tiny lettuce seeds are buried 5 centimetres deep in warm, wet, dark soil.",
+       "b": "WAIT. Many lettuce seeds germinate only after light has reached them."
+      },
+      {
+       "f": "Dry moong seeds hang in a closed jar of warm, damp air for a month.",
+       "b": "GONE, for most of them. Seeds take in water from damp air, age fast and grow mould."
+      },
+      {
+       "f": "Weed seeds lie deep in garden soil. A gardener digs the bed, and the seeds end up on top in the light and rain.",
+       "b": "WAKE. Light and water tell the seeds they are near the surface."
+      },
+      {
+       "f": "Dry tobacco seeds are fixed to the outside of the space station for 18 months. Then they are sown on Earth.",
+       "b": "WAKE, for some of them. This was tested from 2008 to 2009."
+      },
+      {
+       "f": "Frozen green peas from a shop packet are put on a wet cloth.",
+       "b": "GONE. The peas were full of water when they were frozen."
+      },
+      {
+       "f": "Dry rajma from a kitchen jar are soaked overnight and kept on a wet cloth.",
+       "b": "WAKE. Kitchen rajma are dry, resting seeds, and most are viable."
+      },
+      {
+       "f": "Roasted chana are put on a wet cloth.",
+       "b": "GONE. Roasting destroyed the embryo."
+      },
+      {
+       "f": "Tamarind seeds with an unbroken hard coat are soaked in water for two days.",
+       "b": "WAIT, for most of them. Water cannot pass the coat until something thins it."
+      },
+      {
+       "f": "Jackfruit seeds from a ripe fruit are sown in wet soil the same week.",
+       "b": "WAKE. Jackfruit seeds have no waiting stage, so they must be sown fresh."
+      }
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "3 answer tokens: WAKE, WAIT, GONE. Print one set for each player",
+     "items": [
+      "WAKE: the seed germinates",
+      "WAIT: the seed stays alive and does not germinate",
+      "GONE: the seed is dead"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the 24 cards into a pile, fronts up. Give each player the three answer tokens.",
+    "One player is the reader. The reader takes the top card and reads the front aloud, keeping the back hidden.",
+    "Every other player puts one token face down. Then all the tokens are turned over together.",
+    "The reader reads the back. A player whose token matches scores 1 point.",
+    "A player who also gives the reason scores 1 more point. The reader decides, using the back of the card.",
+    "With two players, swap the reader's job after every card.",
+    "Playing alone? Read the front, say your answer and your reason aloud, and then turn the card over. Score 1 point for each right answer.",
+    "After all 24 cards, the player with the most points wins. If you play alone, your score out of 24 is your result."
+   ],
+   "setup": [
+    {
+     "art": "A pile of 24 cards on a table and three small tokens marked WAKE, WAIT and GONE in front of each of two players.",
+     "caption": "1. Shuffle the cards. Each player takes three tokens."
+    },
+    {
+     "art": "One child reading a card aloud while another slides a token forward, face down.",
+     "caption": "2. The reader reads the front. The others put down one token, face down."
+    },
+    {
+     "art": "Tokens turned face up and the reader showing the back of the card.",
+     "caption": "3. Turn the tokens over. The reader reads the answer and the reason."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Cut out the 24 cards and the tokens. Shuffle the cards. Give each player three tokens.",
+     "say": "Each card tells what was done to a seed. You decide what happens next: the seed wakes, waits, or is gone.",
+     "kid": "Cut out the cards and tokens. Shuffle the cards. Take three tokens.",
+     "context": "This is the first step of Wake, Wait or Gone. You set up the seed fate cards and the answer tokens."
+    },
+    {
+     "id": "s2",
+     "mins": 9,
+     "do": "Play the first 12 cards. Read each back aloud. After card 6, ask the question below.",
+     "say": "Listen to the card. Is there water? Is the seed dry or wet? Has the root come out? Choose your token.",
+     "kid": "Listen to the card. Choose WAKE, WAIT or GONE. Turn your token over. Check the back.",
+     "ask": [
+      {
+       "q": "What do you ask yourself first, to decide a seed's fate?",
+       "good": [
+        "Is the seed dry or wet?",
+        "Has the root come out yet?",
+        "Does the seed have water, air and warmth?"
+       ]
+      }
+     ],
+     "parent": "For a stuck player, ask three things. Is the embryo still whole? Has the seed got what a seed needs? Is something holding the seed back?",
+     "context": "In this step of Wake, Wait or Gone you play the first 12 seed fate cards."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Play the last 12 cards. Add up the points. Then each player picks the card that surprised them most and says why.",
+     "say": "Let's finish the pile. Then tell me which card surprised you most.",
+     "kid": "Play the rest of the cards. Add up your points. Which card surprised you most?",
+     "check": {
+      "t": "mcq",
+      "q": "Which seed is most likely to be alive after 50 years?",
+      "options": [
+       "A dry seed kept frozen",
+       "A soaked seed kept frozen",
+       "A dry seed kept in damp air"
+      ],
+      "a": 0,
+      "why": "Dry and cold together slow a seed's ageing the most. A soaked seed is killed by ice, and damp air ages a seed fast. This is a game moment, so talk about it and play on."
+     },
+     "context": "This is the last step of Wake, Wait or Gone. You finish the seed fate cards and count the points."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Freezer Test: can a seed live through a night in the freezer?",
+   "mins": 50,
+   "days": 5,
+   "context": "In this five-day experiment you put dry moong seeds and soaked moong seeds in the freezer for one night. Then you give all the seeds water and count how many germinate.",
+   "question": "Does one night in a freezer kill a moong seed? Does the answer depend on whether the seed is dry or soaked?",
+   "predict": "Guess before you start. There are four groups of 20 seeds: dry on the shelf, dry in the freezer, soaked on the shelf and soaked in the freezer. How many of each 20 will germinate? Why do you think so? Write your four guesses and your reason.",
+   "fair_test": "All 80 seeds come from one packet, and each group has 20. Every group germinates on the same kind of wet cloth, on the same shelf. Two variables are changed: dry or soaked, and shelf or freezer. The four groups test every mix of the two. Group A, dry on the shelf, is the control group. The groups get water at different times, so compare the final counts on day 5 and not the speed.",
+   "results_table": [
+    "Group",
+    "My guess (out of 20)",
+    "With a root on day 3",
+    "With a root on day 4",
+    "With a root on day 5",
+    "Percent on day 5"
+   ],
+   "materials": [
+    {
+     "item": "whole green moong seeds from one packet (not split dal), with no cracks or holes",
+     "qty": 80,
+     "buy": "b-moong"
+    },
+    {
+     "item": "small bowls or katoris: 2 for soaking and keeping seeds, 2 that can go in the freezer",
+     "qty": 4
+    },
+    {
+     "item": "steel plates, and 4 more plates to use as lids",
+     "qty": 4
+    },
+    {
+     "item": "pieces of clean cotton cloth or kitchen tissue, each about the size of a plate",
+     "qty": 4
+    },
+    {
+     "item": "a cup of water, a marker and paper or tape for the labels A, B, C and D",
+     "qty": 1
+    },
+    {
+     "item": "a freezer, and a shelf away from direct sunlight",
+     "qty": 1
+    }
+   ],
+   "safety": "Do not eat any seeds from this test. The soaked seeds from the freezer go soft and may smell by day 5. Throw all the seeds away at the end and wash your hands.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "In the morning, guess and soak 40 seeds. After 8 hours, put one dry group and one soaked group in the freezer."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Take the two groups out of the freezer. Put all four groups on wet cloths."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Count the seeds with a root in each group. Keep the cloths wet."
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "Count again."
+    },
+    {
+     "day": 5,
+     "mins": 15,
+     "what": "Make the final count, work out the percentages and draw a bar chart. Say what you thought, what you saw and why."
+    }
+   ],
+   "record": "Fill in the table on days 3, 4 and 5. On day 5, turn each count into a percentage. Each seed out of 20 is worth 5 percent. Draw a bar chart with one bar for each group.",
+   "example_chart": {
+    "type": "bar",
+    "title": "Made-up example results: seeds germinated by day 5",
+    "x": "Group",
+    "y": "Percent germinated",
+    "data": [
+     {
+      "label": "A Dry, shelf",
+      "value": 95
+     },
+     {
+      "label": "B Dry, freezer",
+      "value": 90
+     },
+     {
+      "label": "C Soaked, shelf",
+      "value": 100
+     },
+     {
+      "label": "D Soaked, freezer",
+      "value": 0
+     }
+    ],
+    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be your own."
+   },
+   "setup": [
+    {
+     "art": "Four small heaps of 20 green moong seeds on a steel plate, with paper labels A, B, C and D.",
+     "caption": "1. Count four groups of 20 moong. Soak groups C and D for 8 hours. Keep A and B dry."
+    },
+    {
+     "art": "An open freezer with two small steel bowls inside, one holding dry moong and one holding swollen, soaked moong.",
+     "caption": "2. Put B (dry) and D (soaked) in the freezer for one night. Keep A and C on the shelf."
+    },
+    {
+     "art": "Four steel plates in a row, each with a wet cloth and 20 moong seeds, and four more plates beside them as lids.",
+     "caption": "3. Next morning, put every group on a wet cloth. Cover each plate."
+    },
+    {
+     "art": "A child pointing at seeds with small white roots on a wet cloth and writing numbers in a table.",
+     "caption": "4. On days 3, 4 and 5, count the seeds with a root in each group."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Show your child the plan: four groups of 20 seeds. Ask for a guess for each group, and the reason. Write the guesses in the table.",
+     "say": "Some seeds will spend tonight in the freezer. Some will be dry and some will be soaked first. How many of each 20 will still germinate? Why do you think so?",
+     "kid": "Four groups of seeds. Two go in the freezer. Guess how many of each 20 will grow. Say why.",
+     "ask": [
+      {
+       "q": "Why do you think the freezer will or will not kill the seeds?",
+       "good": [
+        "Cold kills plants, so the seeds will die.",
+        "Dry seeds are hard, so cold cannot hurt them.",
+        "Wet things turn to ice, and ice might break the seed."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. A guess with a reason is what you need. Many children expect the freezer to kill both groups.",
+     "context": "This is the first step of the Freezer Test. You guess what a night in the freezer does to dry seeds and to soaked seeds."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Count out four groups of 20 seeds. Throw out any cracked seed. 2. Put groups C and D in a bowl with water 2 centimetres above them. 3. Keep groups A and B dry in two katoris. 4. Write down the time.",
+     "say": "We start in the morning. Groups C and D soak for 8 hours. Groups A and B stay dry. Why do we use 20 seeds in each group, and not 2?",
+     "kid": "Count four groups of 20 seeds. Soak two groups in water. Keep two groups dry.",
+     "ask": [
+      {
+       "q": "Why 20 seeds in each group, and not 2?",
+       "good": [
+        "One seed might be dead already.",
+        "With 20 seeds, one dead seed changes the result only a little."
+       ]
+      }
+     ],
+     "wait": "Leave the seeds to soak for 8 hours",
+     "context": "In this step of the Freezer Test you count four groups of 20 moong and start soaking two groups."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. After 8 hours, drain the water. 2. Put soaked group D in one freezer bowl and dry group B in the other. Put both in the freezer. 3. Put soaked group C on a wet cloth on a plate and cover it. 4. Leave dry group A on the shelf.",
+     "say": "Look how much the soaked seeds have swollen. Now B and D go into the freezer for the night. A and C stay on the shelf.",
+     "kid": "Drain the soaked seeds. Put B and D in the freezer. Keep A and C on the shelf.",
+     "check": {
+      "t": "mcq",
+      "q": "In the Freezer Test, why do dry seeds go in the freezer too?",
+      "options": [
+       "To see what cold does to a dry seed",
+       "To keep the soaked seeds company",
+       "To make the dry seeds wet"
+      ],
+      "a": 0,
+      "why": "Group B shows what cold alone does to a dry seed. Without group B you could not tell whether cold or water caused a result. If you chose another answer, remember that each group is there to test one thing."
+     },
+     "parent": "The soaked seeds should be swollen but should not yet show a root. In a very hot room, soak for 6 hours.",
+     "wait": "Leave B and D in the freezer overnight, for about 12 hours",
+     "context": "In this step of the Freezer Test you put one dry group and one soaked group in the freezer overnight."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "1. Take B and D out of the freezer. Leave them for 30 minutes. 2. Let your child look at D and C side by side, and touch them. 3. Label four plates A, B, C and D. 4. Put each group on a wet cloth on a plate. Group C is already on one. 5. Cover every plate and put all four on one shelf.",
+     "say": "Look at the two soaked groups. Is anything different about the group from the freezer? Now every group gets a wet cloth. Groups A and B get water later than C. So we will compare the final count, not the speed.",
+     "kid": "Take B and D out. Wait until they thaw. Look closely. Put every group on a wet cloth. Cover the plates.",
+     "ask": [
+      {
+       "q": "What do you notice about the soaked seeds from the freezer?",
+       "good": [
+        "They look darker.",
+        "They feel softer, or the skin is loose.",
+        "They look just the same as the others."
+       ]
+      }
+     ],
+     "parent": "The cloth must be wet all through, with no water lying on the plate. The thawed soaked seeds may look darker and feel softer. Sometimes they look the same.",
+     "context": "In this step of the Freezer Test you take two groups out of the freezer. Then all four groups go on wet cloths."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Day 3. Count the seeds with a white root in each plate. Write the four numbers. Sprinkle water if a cloth is drying.",
+     "say": "Count every seed that has a white root. Which groups are growing? Is that what you guessed?",
+     "kid": "Count the seeds with a root on each plate. Write the numbers. Keep the cloths wet.",
+     "context": "In this step of the Freezer Test you make the first count of seeds with a root."
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "do": "Day 4. Count again and write the numbers. Smell plate D from a distance and note any change.",
+     "say": "Count again. Have any more seeds woken? What is happening on plate D?",
+     "kid": "Count again. Write the numbers. Look closely at plate D.",
+     "context": "In this step of the Freezer Test you count the seeds with a root again, one day later."
+    },
+    {
+     "id": "s7",
+     "mins": 15,
+     "do": "Day 5. 1. Make the final count. 2. Help your child turn each count into a percentage: count times 5. 3. Draw a bar chart with four bars. 4. Ask your child to say what they thought would happen, what they saw, and why it happened. 5. Then read the note below together.",
+     "say": "Each seed out of 20 is worth 5 percent. Work out the four percentages and draw the bars. Now say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Count for the last time. Each seed is 5 percent. Draw four bars. Say what you thought. Say what you saw. Say why it happened.",
+     "ask": [
+      {
+       "q": "Which two groups show what cold does to a dry seed?",
+       "good": [
+        "A and B. Both are dry, and only B was frozen."
+       ]
+      },
+      {
+       "q": "Which two groups show what cold does to a soaked seed?",
+       "good": [
+        "C and D. Both were soaked, and only D was frozen."
+       ]
+      },
+      {
+       "q": "So what killed the seeds in group D: the cold, the water, or both together?",
+       "good": [
+        "Both together. Cold alone did not kill B, and water alone did not kill C."
+       ]
+      }
+     ],
+     "parent": "Usually groups A, B and C germinate almost fully, and group D hardly at all. Write down what you really found, even if it differs. The reason: a soaked seed is full of water. In the freezer the water turns to sharp ice crystals that tear the cells. A dry seed is only about one tenth water, and that water is held too tightly to form ice. So cold does not harm a dry seed. If some group D seeds grew, they may not have frozen right through.",
+     "think": "A seed bank keeps seeds in freezers. What must the bank do to every seed before freezing?",
+     "context": "This is the last step of the Freezer Test. You compare how many dry and soaked moong seeds germinated after a night in the freezer."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "No Going Back: can a waking seed be dried again?",
+   "mins": 44,
+   "days": 7,
+   "context": "In this seven-day experiment you soak moong seeds and then dry them again. Some are dried before a root appears and some after. Then you give all of them water and see who grows.",
+   "question": "Can a moong seed be dried again after soaking, and still grow later? Does the answer change once the root has come out?",
+   "predict": "Guess before you start. Group A is never wet. Group B is soaked for 6 hours and then dried. Group C is allowed to grow a root and is then dried. When all three get water again, how many of each 20 will grow? Why do you think so?",
+   "fair_test": "All the seeds come from one packet, and each group ends with 20. Groups B and C are dried side by side on the same kind of plate, until both are hard. All three groups get water again on the same day, on the same kind of cloth and shelf. Only one variable is changed: how far the seed had gone before drying. Group A, never wet, is the control group.",
+   "results_table": [
+    "Group",
+    "My guess (out of 20)",
+    "Growing on day 6",
+    "Growing on day 7",
+    "Percent on day 7"
+   ],
+   "materials": [
+    {
+     "item": "whole green moong seeds from one packet: 20 for group A, 20 for group B and 25 for group C",
+     "qty": 65,
+     "buy": "b-moong"
+    },
+    {
+     "item": "a bowl for soaking, and a katori to keep group A dry",
+     "qty": 2
+    },
+    {
+     "item": "steel plates: 2 for drying, 3 for germinating, and 3 to use as lids",
+     "qty": 8
+    },
+    {
+     "item": "pieces of clean cotton cloth or kitchen tissue, each about the size of a plate",
+     "qty": 3
+    },
+    {
+     "item": "a ruler, a marker and paper or tape for the labels A, B and C",
+     "qty": 1
+    },
+    {
+     "item": "a shelf under a fan or near an open window, away from direct sunlight",
+     "qty": 1
+    }
+   ],
+   "safety": "Do not eat any seeds from this test. Dried sprouts can grow mould. Throw all the seeds away at the end and wash your hands.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "In the morning, guess and soak 45 seeds. After 6 hours, spread group B to dry and put group C on a wet cloth."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "When group C has roots about 1 centimetre long, spread 20 of them to dry beside group B."
+    },
+    {
+     "day": 4,
+     "mins": 8,
+     "what": "Check that B and C are hard and dry. Put groups A, B and C on wet cloths."
+    },
+    {
+     "day": 6,
+     "mins": 4,
+     "what": "Count the seeds that are growing in each group."
+    },
+    {
+     "day": 7,
+     "mins": 12,
+     "what": "Make the final count and work out the percentages. Say what you thought, what you saw and why."
+    }
+   ],
+   "record": "Fill in the table on days 6 and 7. A seed counts as growing if there is a firm white root at least 2 centimetres long. On day 7, turn each count into a percentage. Draw one seed from each group.",
+   "example_chart": {
+    "type": "bar",
+    "title": "Made-up example results: seeds growing on day 7",
+    "x": "Group",
+    "y": "Percent growing",
+    "data": [
+     {
+      "label": "A Never wet",
+      "value": 95
+     },
+     {
+      "label": "B Soaked, then dried",
+      "value": 95
+     },
+     {
+      "label": "C Rooted, then dried",
+      "value": 10
+     }
+    ],
+    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be your own."
+   },
+   "setup": [
+    {
+     "art": "A bowl of moong seeds soaking in water beside a katori of dry moong labelled A, with a clock showing morning.",
+     "caption": "1. Soak 45 moong for 6 hours. Keep 20 dry as group A."
+    },
+    {
+     "art": "A dry steel plate with swollen moong spread in one layer under a ceiling fan, labelled B.",
+     "caption": "2. Spread 20 soaked seeds on a dry plate. This is group B."
+    },
+    {
+     "art": "A ruler beside moong sprouts with white roots about 1 centimetre long, being moved onto a dry plate labelled C.",
+     "caption": "3. Next day, when the others have roots about 1 centimetre long, spread 20 to dry. This is group C."
+    },
+    {
+     "art": "Three covered plates labelled A, B and C on a shelf, with one lid lifted to show seeds on a wet cloth.",
+     "caption": "4. On day 4, give all three groups a wet cloth. Count who is growing on days 6 and 7."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Explain the three groups. Ask for a guess for each group and the reason. Write the guesses in the table.",
+     "say": "Group A stays dry all along. Group B is soaked and dried again. Group C grows a root and is then dried. Later they all get water. How many of each 20 will grow? Why do you think so?",
+     "kid": "Three groups of seeds. Two will be wetted and dried again. Guess how many will grow later. Say why.",
+     "ask": [
+      {
+       "q": "Do you think a seed with a root can dry out and wait again? Why?",
+       "good": [
+        "Yes, because seeds are made to be dry.",
+        "No, because the root is soft and will die.",
+        "Maybe some, if the root is very short."
+       ]
+      }
+     ],
+     "parent": "Any guess with a reason is a good start. Many children expect group B to die too.",
+     "context": "This is the first step of No Going Back. You guess whether seeds that are soaked and then dried can still grow."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Count 20 seeds into a dry katori. This is group A. 2. Put 45 more seeds in a bowl, with water 2 centimetres above them. 3. Write down the time.",
+     "say": "We start in the morning. Group A stays dry. The other 45 seeds soak for 6 hours.",
+     "kid": "Count 20 seeds for group A. Keep them dry. Soak 45 more seeds in water.",
+     "wait": "Leave the seeds to soak for 6 hours",
+     "context": "In this step of No Going Back you set aside 20 dry moong seeds and start soaking 45 more."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. After 6 hours, drain the water. 2. Spread 20 soaked seeds in one layer on a dry plate, under a fan. This is group B. 3. Put the other 25 on a wet cloth on a plate and cover it. These will become group C.",
+     "say": "The seeds have swollen, but no root shows yet. Group B dries now. The rest keep their water and carry on.",
+     "kid": "Drain the seeds. Spread 20 on a dry plate. Put 25 on a wet cloth and cover them.",
+     "parent": "Dry the seeds in moving air and shade, not in hot sun. Hot sun could harm them and spoil the test.",
+     "wait": "Leave until the next day, when most roots are about 1 centimetre long",
+     "context": "In this step of No Going Back you start drying 20 soaked moong. The other 25 carry on germinating."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Day 2. 1. Measure three roots with the ruler. Most should be half to 1 centimetre long. 2. Choose 20 seeds with a root and spread them on the second dry plate. This is group C. 3. Put it beside group B under the fan.",
+     "say": "Measure a few roots. Now these 20 seedlings go to dry beside group B. What do you think will happen to the roots?",
+     "kid": "Measure three roots. Spread 20 rooted seeds on a dry plate. Put them beside group B.",
+     "wait": "Leave B and C to dry for 2 more days",
+     "context": "In this step of No Going Back you start to dry 20 moong whose roots are about 1 centimetre long."
+    },
+    {
+     "id": "s5",
+     "mins": 8,
+     "do": "Day 4. 1. Press a seed from B and one from C. Both should be as hard as seeds from the packet. 2. Let your child describe each group. 3. Label three plates A, B and C. 4. Put each group on a wet cloth, cover the plates and put them on one shelf.",
+     "say": "Describe the seeds in B and in C. How do they differ from group A? Now all three groups get water on the same day.",
+     "kid": "Press the seeds. Are they hard? Say how B and C look. Put all three groups on wet cloths.",
+     "ask": [
+      {
+       "q": "How do the dried seeds of group C look now?",
+       "good": [
+        "The roots are thin, brown threads.",
+        "The seeds have shrunk and the skins are loose."
+       ]
+      }
+     ],
+     "parent": "In damp weather, drying can take a day longer. If the seeds dent when pressed, wait another day.",
+     "context": "In this step of No Going Back you check that the dried moong are hard. Then all three groups get water again."
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "Day 6. Count the seeds in each group that have a firm white root at least 2 centimetres long. Write the numbers. Keep the cloths wet.",
+     "say": "A seed counts as growing if the root is white, firm and at least 2 centimetres long. Count each group.",
+     "kid": "Count the seeds with a long white root. Write the numbers. Keep the cloths wet.",
+     "context": "In this step of No Going Back you count how many moong in each group are growing."
+    },
+    {
+     "id": "s7",
+     "mins": 12,
+     "do": "Day 7. 1. Make the final count. 2. Turn each count into a percentage: count times 5. 3. Ask your child to say what they thought would happen, what they saw, and why it happened. 4. Then read the note below together.",
+     "say": "Count once more and work out the percentages. Now say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Count for the last time. Work out the percentages. Say what you thought. Say what you saw. Say why it happened.",
+     "ask": [
+      {
+       "q": "Group B and group C were both wetted and both dried. What was different?",
+       "good": [
+        "Group C had already grown a root before drying.",
+        "Group B was dried before any root came out."
+       ]
+      },
+      {
+       "q": "A light shower wakes some seeds in a field, and then no rain comes for two weeks. What happens to them?",
+       "good": [
+        "If their roots are out, they dry and die.",
+        "Seeds that had not woken yet are still safe."
+       ]
+      }
+     ],
+     "parent": "Usually groups A and B grow almost fully, and B is often a little faster. Group C mostly stays brown and still. Write down what you really found. The reason: for the first hours of soaking, the embryo keeps the sugars and proteins that protect dry cells. Once the root grows, its new cells are large and full of water, and the protection has been taken apart. Those cells die when they dry. A few group C seeds may grow a new root from higher up.",
+     "think": "A seed cannot undo waking. How might that explain why many wild seeds wait for a heavy rain?",
+     "context": "This is the last step of No Going Back. You compare seeds dried before the root came out with seeds dried after."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Read the Five Jars: what does a germination test show?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you check someone else's germination test. Five jars of 10 moong seeds were kept in five ways for 8 days. The results are made up, but they are typical. You work out what the test shows and where it is not fair.",
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "record": "Write a conclusion in two sentences: what moong seeds need to germinate, and what they do not need. Then write one change that would make the test fairer.",
+   "example_chart": {
+    "type": "table",
+    "title": "The Five Jars table: made-up results. Seeds with a root, out of 10 moong in each jar",
+    "cols": [
+     "Jar",
+     "How the jar was kept",
+     "Day 2",
+     "Day 4",
+     "Day 6",
+     "Day 8"
+    ],
+    "rows": [
+     [
+      "1",
+      "Dry cloth, shelf, light",
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "2",
+      "Wet cloth, shelf, light",
+      "2",
+      "7",
+      "9",
+      "9"
+     ],
+     [
+      "3",
+      "Wet cloth, fridge",
+      "0",
+      "0",
+      "1",
+      "2"
+     ],
+     [
+      "4",
+      "Wet cloth, shelf, dark box",
+      "3",
+      "8",
+      "9",
+      "10"
+     ],
+     [
+      "5",
+      "Under water, sealed with oil",
+      "0",
+      "0",
+      "1",
+      "1"
+     ]
+    ],
+    "show": "Five jars of moong seeds, each kept in a different way for 8 days."
+   },
+   "setup": [
+    {
+     "art": "Five glass jars in a row, each with 10 moong seeds on cloth: one dry, one wet, one inside a fridge, one under a dark box, one filled with water with a shiny layer of oil on top.",
+     "caption": "1. Five jars of 10 moong seeds were kept in five ways."
+    },
+    {
+     "art": "A table of numbers with five rows and four columns for days 2, 4, 6 and 8.",
+     "caption": "2. Every two days, the seeds with a root were counted."
+    },
+    {
+     "art": "A child pointing at two rows of the table with two fingers, comparing them.",
+     "caption": "3. Compare two jars at a time. What is the one difference between them?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Look at the Five Jars table together. Ask your child what they notice. Then ask which jar is the control group.",
+     "say": "Here are five jars of moong, kept in five ways. Read the table. What do you notice? Which jar had the ordinary treatment that the others are compared with?",
+     "kid": "Read the table of five jars. What do you notice? Which jar is the control?",
+     "chart": {
+      "type": "table",
+      "title": "The Five Jars table: made-up results. Seeds with a root, out of 10 moong in each jar",
+      "cols": [
+       "Jar",
+       "How the jar was kept",
+       "Day 2",
+       "Day 4",
+       "Day 6",
+       "Day 8"
+      ],
+      "rows": [
+       [
+        "1",
+        "Dry cloth, shelf, light",
+        "0",
+        "0",
+        "0",
+        "0"
+       ],
+       [
+        "2",
+        "Wet cloth, shelf, light",
+        "2",
+        "7",
+        "9",
+        "9"
+       ],
+       [
+        "3",
+        "Wet cloth, fridge",
+        "0",
+        "0",
+        "1",
+        "2"
+       ],
+       [
+        "4",
+        "Wet cloth, shelf, dark box",
+        "3",
+        "8",
+        "9",
+        "10"
+       ],
+       [
+        "5",
+        "Under water, sealed with oil",
+        "0",
+        "0",
+        "1",
+        "1"
+       ]
+      ],
+      "show": "Five jars of moong seeds, each kept in a different way for 8 days."
+     },
+     "ask": [
+      {
+       "q": "Which jar is the control group, and why?",
+       "good": [
+        "Jar 2. It has water, air, warmth and light, and each other jar changes one thing."
+       ]
+      }
+     ],
+     "parent": "Jar 2 is the control: wet cloth, on the shelf, in the light.",
+     "context": "This is the first step of Read the Five Jars. You read a table of made-up results from a germination test with five jars."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "For jars 1, 3, 4 and 5, ask which variable was changed compared with jar 2. Write the four variables: water, warmth, light and air.",
+     "say": "Compare each jar with jar 2. What one thing is different? What does each pair tell you?",
+     "kid": "Compare each jar with jar 2. Name the one thing that is different. Write it down.",
+     "chart": {
+      "type": "table",
+      "title": "The Five Jars table: made-up results. Seeds with a root, out of 10 moong in each jar",
+      "cols": [
+       "Jar",
+       "How the jar was kept",
+       "Day 2",
+       "Day 4",
+       "Day 6",
+       "Day 8"
+      ],
+      "rows": [
+       [
+        "1",
+        "Dry cloth, shelf, light",
+        "0",
+        "0",
+        "0",
+        "0"
+       ],
+       [
+        "2",
+        "Wet cloth, shelf, light",
+        "2",
+        "7",
+        "9",
+        "9"
+       ],
+       [
+        "3",
+        "Wet cloth, fridge",
+        "0",
+        "0",
+        "1",
+        "2"
+       ],
+       [
+        "4",
+        "Wet cloth, shelf, dark box",
+        "3",
+        "8",
+        "9",
+        "10"
+       ],
+       [
+        "5",
+        "Under water, sealed with oil",
+        "0",
+        "0",
+        "1",
+        "1"
+       ]
+      ],
+      "show": "Five jars of moong seeds, each kept in a different way for 8 days."
+     },
+     "check": {
+      "t": "mcq",
+      "q": "In the Five Jars table, which two jars test whether moong seeds need light?",
+      "options": [
+       "Jar 2 and jar 4",
+       "Jar 1 and jar 2",
+       "Jar 3 and jar 5"
+      ],
+      "a": 0,
+      "why": "Jars 2 and 4 are both wet and warm, and only the light differs. Jar 4 in the dark germinated fully, so moong do not need light. Jars 1 and 2 differ in water, not light."
+     },
+     "parent": "The oil in jar 5 stops air from dissolving into the water, so those seeds get almost no oxygen.",
+     "context": "In this step of Read the Five Jars you find which variable each jar changes, compared with the control jar."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Ask about jar 3. A fridge is cold, and it is also dark. Ask whether that is fair, and which other jar helps. Then ask why the test ran for 8 days and not 4.",
+     "say": "The fridge jar differs from jar 2 in two ways. What are they? Which jar shows that darkness was not the cause? Now look at jar 3 on day 4 and on day 8.",
+     "kid": "The fridge is cold and dark. Is that fair? Which jar helps you decide? Look at jar 3 on day 8.",
+     "chart": {
+      "type": "table",
+      "title": "The Five Jars table: made-up results. Seeds with a root, out of 10 moong in each jar",
+      "cols": [
+       "Jar",
+       "How the jar was kept",
+       "Day 2",
+       "Day 4",
+       "Day 6",
+       "Day 8"
+      ],
+      "rows": [
+       [
+        "1",
+        "Dry cloth, shelf, light",
+        "0",
+        "0",
+        "0",
+        "0"
+       ],
+       [
+        "2",
+        "Wet cloth, shelf, light",
+        "2",
+        "7",
+        "9",
+        "9"
+       ],
+       [
+        "3",
+        "Wet cloth, fridge",
+        "0",
+        "0",
+        "1",
+        "2"
+       ],
+       [
+        "4",
+        "Wet cloth, shelf, dark box",
+        "3",
+        "8",
+        "9",
+        "10"
+       ],
+       [
+        "5",
+        "Under water, sealed with oil",
+        "0",
+        "0",
+        "1",
+        "1"
+       ]
+      ],
+      "show": "Five jars of moong seeds, each kept in a different way for 8 days."
+     },
+     "ask": [
+      {
+       "q": "The fridge jar was cold and dark. How do we know the cold slowed the seeds, not the dark?",
+       "good": [
+        "Jar 4 was dark and warm, and all 10 germinated.",
+        "So darkness does not stop moong. The cold must be the cause."
+       ]
+      },
+      {
+       "q": "What would you have said about cold if the test had stopped on day 4?",
+       "good": [
+        "That cold stops seeds completely.",
+        "By day 8 two had woken, so cold slows them down a lot."
+       ]
+      }
+     ],
+     "parent": "When two things change at once, you cannot tell which caused the result. Here jar 4 untangles the two.",
+     "context": "In this step of Read the Five Jars you find a place where the test is not quite fair. You also see why a test must run for many days."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Your child turns each day 8 count into a percentage: count times 10. 2. They write a conclusion in two sentences. 3. Ask why each jar had 10 seeds and not 1.",
+     "say": "Each seed out of 10 is worth 10 percent. Work out the five percentages. Then write what moong need to germinate, and what they do not need.",
+     "kid": "Work out the percentage for each jar. Write what seeds need. Write what they do not need.",
+     "chart": {
+      "type": "table",
+      "title": "The Five Jars table: made-up results. Seeds with a root, out of 10 moong in each jar",
+      "cols": [
+       "Jar",
+       "How the jar was kept",
+       "Day 2",
+       "Day 4",
+       "Day 6",
+       "Day 8"
+      ],
+      "rows": [
+       [
+        "1",
+        "Dry cloth, shelf, light",
+        "0",
+        "0",
+        "0",
+        "0"
+       ],
+       [
+        "2",
+        "Wet cloth, shelf, light",
+        "2",
+        "7",
+        "9",
+        "9"
+       ],
+       [
+        "3",
+        "Wet cloth, fridge",
+        "0",
+        "0",
+        "1",
+        "2"
+       ],
+       [
+        "4",
+        "Wet cloth, shelf, dark box",
+        "3",
+        "8",
+        "9",
+        "10"
+       ],
+       [
+        "5",
+        "Under water, sealed with oil",
+        "0",
+        "0",
+        "1",
+        "1"
+       ]
+      ],
+      "show": "Five jars of moong seeds, each kept in a different way for 8 days."
+     },
+     "ask": [
+      {
+       "q": "In jar 2, one seed never germinated. What if jar 2 had held only that one seed?",
+       "good": [
+        "We would have said that wet, warm seeds do not germinate.",
+        "One dead seed would have given the wrong answer."
+       ]
+      }
+     ],
+     "parent": "A good conclusion: moong need water, air and warmth to germinate. They do not need light. A fairer test would use more seeds in each jar, or repeat every jar.",
+     "context": "This is the last step of Read the Five Jars. You write what the five-jar germination test shows."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Rag Doll Test: test 50 seeds the way a seed lab does",
+   "mins": 30,
+   "days": 4,
+   "context": "In this activity you roll 50 seeds in a wet cloth and count the strong seedlings four days later. Farmers call this the rag doll test. It tells you the germination percentage of a packet before you sow.",
+   "materials": [
+    {
+     "item": "seeds from the oldest packet of whole seeds in your home: moong, methi, lobia, chana or leftover garden seeds",
+     "qty": 50
+    },
+    {
+     "item": "a clean cotton cloth about 30 centimetres square, such as an old handkerchief",
+     "qty": 1
+    },
+    {
+     "item": "thread or 2 rubber bands, a tall tumbler and a plate or plastic bag to cover it",
+     "qty": 1
+    },
+    {
+     "item": "a ruler, a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Do not eat the test seeds. Wash your hands after sorting them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Guess. Lay 50 seeds in rows on a wet cloth, roll the cloth up and stand the roll in a tumbler."
+    },
+    {
+     "day": 4,
+     "mins": 15,
+     "what": "Unroll the cloth. Sort the seeds into strong seedlings, weak seedlings and seeds that did not wake. Work out the percentage."
+    }
+   ],
+   "record": "Write three numbers: strong seedlings, weak seedlings and seeds that did not wake. They must add up to 50. Write the germination percentage, which is the number of strong seedlings times 2.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results for 50 old moong seeds",
+    "cols": [
+     "What we found on day 4",
+     "Number"
+    ],
+    "rows": [
+     [
+      "Strong seedlings",
+      "41"
+     ],
+     [
+      "Weak seedlings",
+      "4"
+     ],
+     [
+      "Did not wake",
+      "5"
+     ],
+     [
+      "Germination percentage (41 x 2)",
+      "82"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A wet square cloth on a table with 50 seeds laid in five neat rows of ten across the upper half.",
+     "caption": "1. Lay 50 seeds in 5 rows of 10 on a wet cloth."
+    },
+    {
+     "art": "Hands folding the lower half of the cloth over the seeds and rolling the cloth loosely like a mat.",
+     "caption": "2. Fold the cloth over the seeds and roll it up loosely."
+    },
+    {
+     "art": "A rolled cloth tied at both ends, standing upright in a steel tumbler with a plate on top.",
+     "caption": "3. Tie the roll, stand it in a tumbler and cover it."
+    },
+    {
+     "art": "An unrolled cloth with three heaps: long white seedlings, short brown ones and seeds with no root.",
+     "caption": "4. On day 4, unroll and sort the seeds into three heaps."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Show your child the packet. Ask how many of 50 seeds they think will grow into strong seedlings, and why. Write the guess.",
+     "say": "This is our oldest packet. Out of 50 seeds, how many will grow into strong seedlings? Why do you think so?",
+     "kid": "Look at the old packet. Guess how many of 50 will grow well. Say why.",
+     "parent": "Stir the packet first and take the 50 seeds without choosing. Picking the best-looking seeds would make the result too high.",
+     "context": "This is the first step of the Rag Doll Test. You guess how many seeds from an old packet are still able to grow."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Wet the cloth and wring it out. 2. Lay 50 seeds in 5 rows of 10 on the upper half. 3. Fold the lower half over the seeds. 4. Roll the cloth loosely and tie both ends. 5. Stand the roll in a tumbler and cover it. 6. Sprinkle water on the roll once a day.",
+     "say": "Rows of ten make the seeds easy to count later. Roll the cloth loosely, so that air can reach the seeds.",
+     "kid": "Wet the cloth. Lay 50 seeds in rows of 10. Fold, roll and tie. Stand the roll in a tumbler.",
+     "ask": [
+      {
+       "q": "Why must the roll be loose and only damp, not soaking?",
+       "good": [
+        "Seeds need air as well as water.",
+        "Seeds sitting in water get too little oxygen."
+       ]
+      }
+     ],
+     "wait": "Leave the roll for 3 days, sprinkling water once a day",
+     "context": "In this step of the Rag Doll Test you roll 50 seeds in a wet cloth so they can germinate."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Day 4. 1. Unroll the cloth. 2. Sort the seeds into three heaps. Strong: a firm white root at least 2 centimetres long. Weak: a short, brown or broken root, or mould. Did not wake: no root. 3. Count each heap.",
+     "say": "A seed lab counts only strong seedlings, because a weak one may die in a field. Sort yours into strong, weak and not woken. Do the three numbers add up to 50?",
+     "kid": "Unroll the cloth. Make three heaps: strong, weak, not woken. Count each heap.",
+     "parent": "Chana and lobia are slower. Give them one more day before you sort.",
+     "context": "In this step of the Rag Doll Test you unroll the cloth and sort the 50 seeds into three heaps."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Double the number of strong seedlings to get the percentage. 2. Compare it with 75 percent, the lowest allowed on a certified moong packet in India. 3. Work out how many seeds to sow for 20 plants.",
+     "say": "50 seeds is half of 100, so double your number of strong seedlings. Is your packet above 75 percent? How many seeds would you sow to get 20 plants?",
+     "kid": "Double the strong seedlings. That is your percentage. How many seeds would you sow for 20 plants?",
+     "ask": [
+      {
+       "q": "Your packet scores 80 percent. How many seeds should you sow to get 20 plants?",
+       "good": [
+        "25 seeds. 80 percent of 25 is 20.",
+        "More than 20, because 2 in every 10 will fail."
+       ]
+      }
+     ],
+     "parent": "If the packet scores far below 75 percent, sow extra seeds or buy fresh ones. The unwoken seeds may be dead, or a few may be dormant.",
+     "context": "This is the last step of the Rag Doll Test. You turn your count of strong seedlings into a germination percentage."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Four Days, Four Drawings: what happens inside a waking chana?",
+   "mins": 30,
+   "days": 4,
+   "context": "In this activity you open one chana each day for four days, from dry seed to seedling. You draw and label what you find, and put the steps of germination in order.",
+   "materials": [
+    {
+     "item": "kabuli chana (the big pale kind), whole and uncooked",
+     "qty": 8
+    },
+    {
+     "item": "a bowl of water, a steel plate with a lid and a piece of cotton cloth",
+     "qty": 1
+    },
+    {
+     "item": "a ruler, a notebook, a pencil and a hand lens or a phone camera to zoom in",
+     "qty": 1
+    }
+   ],
+   "safety": "Do not eat the chana you have handled and opened.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Draw a dry chana and measure it. Soak 7 chana overnight."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Measure a soaked chana, open the chana and draw the three parts. Put the other 6 on a wet cloth."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Open one chana and draw what has changed."
+    },
+    {
+     "day": 4,
+     "mins": 7,
+     "what": "Open one more chana, draw it, and write the steps of germination in order."
+    }
+   ],
+   "record": "Make four drawings, one for each day, with the day written under each. Label the seed coat, the food store (cotyledons), the radicle and the plumule. Write the length of the chana or of the root beside each drawing.",
+   "setup": [
+    {
+     "art": "A dry kabuli chana beside a ruler, with its small pointed beak facing right.",
+     "caption": "1. Day 1: draw and measure a dry chana. Soak 7 overnight."
+    },
+    {
+     "art": "A soaked chana opened into two pale halves, with a tiny pointed plant at one end.",
+     "caption": "2. Day 2: open a soaked chana. Find the tiny plant between the two halves."
+    },
+    {
+     "art": "Six chana on a wet cloth on a steel plate, some with short white roots.",
+     "caption": "3. Keep the others on a wet cloth. Open one each day."
+    },
+    {
+     "art": "A notebook page with four labelled drawings in a row, from dry seed to seedling.",
+     "caption": "4. Draw what you find each day, and label the parts."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Your child draws a dry chana and finds the small pointed beak. 2. They measure the length with a ruler. 3. Soak 7 chana in a bowl overnight. Keep 1 dry.",
+     "say": "Look closely at a dry chana. Find the small beak at one end. What do you think lies under that beak? Draw the chana and measure it.",
+     "kid": "Draw a dry chana. Find the small beak. Measure the chana. Soak 7 overnight.",
+     "ask": [
+      {
+       "q": "What do you think is under the beak of the chana?",
+       "good": [
+        "The part that will grow.",
+        "The baby plant's root."
+       ]
+      }
+     ],
+     "wait": "Leave the chana to soak overnight",
+     "context": "This is the first step of Four Days, Four Drawings. You draw and measure a dry chana before any water reaches the seed."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Put a soaked chana beside the dry one and measure both. 2. Peel the skin off the soaked chana. 3. Open the two halves gently with a thumbnail. 4. Find the tiny plant at the beak end. 5. Your child draws and labels the parts. 6. Put the other 6 soaked chana on a wet cloth and cover them.",
+     "say": "How much longer is the soaked chana? Now peel the skin and open the two halves. Find the tiny plant. Which end points out, and which end is tucked inside?",
+     "kid": "Measure the soaked chana. Peel the skin. Open the halves. Find the tiny plant. Draw and label.",
+     "check": {
+      "t": "mcq",
+      "q": "In a soaked chana, what are the two big halves?",
+      "options": [
+       "The food store for the young plant",
+       "Two young plants",
+       "The seed coat"
+      ],
+      "a": 0,
+      "why": "The two halves are the cotyledons, which hold the food. The young plant is the tiny pointed part joined to them. If you chose two plants, look again: there is only one tiny root."
+     },
+     "parent": "The skin is the seed coat. The halves are the cotyledons. The pointed tip under the beak is the radicle, and the tiny folded tip between the halves is the plumule.",
+     "context": "In this step of Four Days, Four Drawings you open a soaked chana. You find the seed coat, the food store and the embryo."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Day 3. Look at the chana on the cloth. Most have a white root coming out near the beak. Open one, measure the root and draw it.",
+     "say": "What came out first, and from where? Measure the root. Is the shoot showing yet?",
+     "kid": "Look at the chana on the cloth. What came out first? Open one. Measure the root. Draw.",
+     "ask": [
+      {
+       "q": "Which came out first, the root or the shoot? Why might that order help the seedling?",
+       "good": [
+        "The root. The seedling needs water before anything else.",
+        "The root also holds the seedling in place."
+       ]
+      }
+     ],
+     "context": "In this step of Four Days, Four Drawings you see which part of the chana embryo comes out first."
+    },
+    {
+     "id": "s4",
+     "mins": 7,
+     "do": "Day 4. 1. Open one more chana and draw it. 2. Look between the halves for the plumule, which is now longer. 3. Your child writes the steps of germination in order under the four drawings.",
+     "say": "Find the plumule between the halves. Has it grown? Now write, in order, everything that has happened to a chana since day 1.",
+     "kid": "Open one more chana. Find the tiny shoot. Draw it. Write the steps in order.",
+     "ask": [
+      {
+       "q": "Say the steps of germination in order.",
+       "good": [
+        "The seed takes in water and swells.",
+        "The seed coat splits.",
+        "The radicle comes out and grows down.",
+        "The plumule grows up, and then the first leaves open."
+       ]
+      }
+     ],
+     "parent": "The first two halves often look a little thinner by day 4. The embryo is using the food. You can plant the remaining chana in a pot.",
+     "context": "This is the last step of Four Days, Four Drawings. You put the steps of germination in order from your own four drawings."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Three Jars, Three Weeks: what makes stored seeds die?",
+   "days": 25,
+   "mins": 80,
+   "context": "In this project you store moong seeds in three closed jars for three weeks: dry on a shelf, dry in the fridge, and in damp air on a shelf. Each week you test 20 seeds from each jar.",
+   "materials": [
+    {
+     "item": "whole green moong seeds from one packet: 70 for each jar and 20 for the first test (about one heaped tablespoon)",
+     "qty": 230,
+     "buy": "b-moong"
+    },
+    {
+     "item": "clean, dry glass jars with tight lids, such as jam or pickle jars",
+     "qty": 3
+    },
+    {
+     "item": "squares of thin cotton cloth, about 12 centimetres across, and 3 pieces of thread about 20 centimetres long",
+     "qty": 3
+    },
+    {
+     "item": "tablespoons of water, for the damp jar only",
+     "qty": 3
+    },
+    {
+     "item": "steel plates with lids and pieces of cloth for the germination tests",
+     "qty": 3
+    },
+    {
+     "item": "a marker and labels: Dry shelf, Dry fridge, Damp shelf",
+     "qty": 1
+    },
+    {
+     "item": "squared paper or a notebook page for a line graph",
+     "qty": 1
+    }
+   ],
+   "safety": "The seeds in the damp jar are likely to grow mould. A grown-up opens that jar, near an open window. Do not smell it closely. Wash hands after every test. A child with asthma or a dust allergy should watch from a distance. Throw all the seeds away at the end.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Set up the three jars. Put 20 seeds from the packet on a wet cloth as the first test."
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "Count how many of the first 20 seeds germinated."
+    },
+    {
+     "day": 8,
+     "mins": 10,
+     "what": "Week 1: take 20 seeds from each jar and put them on wet cloths."
+    },
+    {
+     "day": 11,
+     "mins": 5,
+     "what": "Count the week 1 seeds with a root."
+    },
+    {
+     "day": 15,
+     "mins": 10,
+     "what": "Week 2: take 20 seeds from each jar and put them on wet cloths."
+    },
+    {
+     "day": 18,
+     "mins": 5,
+     "what": "Count the week 2 seeds with a root."
+    },
+    {
+     "day": 22,
+     "mins": 10,
+     "what": "Week 3: take 20 seeds from each jar and put them on wet cloths."
+    },
+    {
+     "day": 25,
+     "mins": 15,
+     "what": "Count the week 3 seeds. Draw a line graph for each jar. Say what you thought, what you saw and why."
+    }
+   ],
+   "record": "Make a table with a row for each jar. The columns are the start, week 1, week 2 and week 3. Write the number germinated out of 20 and the percentage. Draw a line graph with weeks along the bottom and percent germinated up the side, one line for each jar.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results: percent of 20 seeds that germinated",
+    "cols": [
+     "Jar",
+     "Start",
+     "Week 1",
+     "Week 2",
+     "Week 3"
+    ],
+    "rows": [
+     [
+      "Dry shelf",
+      "95",
+      "95",
+      "100",
+      "95"
+     ],
+     [
+      "Dry fridge",
+      "95",
+      "100",
+      "95",
+      "95"
+     ],
+     [
+      "Damp shelf",
+      "95",
+      "80",
+      "45",
+      "15"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "Three glass jars with lids, each with a small cloth pouch of seeds hanging inside from a thread held by the lid. One jar has a little water at the bottom.",
+     "caption": "1. Hang a pouch of 70 moong in each jar. Add 3 tablespoons of water to the damp jar only."
+    },
+    {
+     "art": "One jar on a fridge shelf and two jars on a kitchen shelf, with labels Dry fridge, Dry shelf and Damp shelf.",
+     "caption": "2. Put one dry jar in the fridge. Keep the other dry jar and the damp jar on a shelf."
+    },
+    {
+     "art": "Three plates with wet cloths and 20 seeds each, labelled with the jar names and 'Week 1'.",
+     "caption": "3. Each week, test 20 seeds from each jar on a wet cloth."
+    },
+    {
+     "art": "A hand-drawn line graph with three lines, two staying high and one falling week by week.",
+     "caption": "4. After three weeks, draw a line for each jar."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 20,
+     "do": "1. Tie 70 seeds loosely in each cloth square to make three pouches. 2. Hang one pouch inside each jar by a thread, and trap the thread under the lid. 3. Pour 3 tablespoons of water into the bottom of one jar. The pouch must hang above the water. 4. Label the jars and close them tightly. 5. Put the Dry fridge jar in the fridge and the other two on a shelf. 6. Put 20 seeds from the packet on a wet cloth, as the first test.",
+     "say": "Seed banks keep seeds dry and cold. We will test what happens when seeds are kept dry, dry and cold, or damp. Which jar of seeds will stay alive best for three weeks? Why do you think so?",
+     "kid": "Make three seed pouches. Hang one in each jar. Add water to one jar only. Guess which seeds stay alive best. Say why.",
+     "ask": [
+      {
+       "q": "The seeds in the damp jar never touch the water. Can the water still reach them? How?",
+       "good": [
+        "Yes, as water vapour in the air of the jar.",
+        "The air in the jar becomes damp, and the seeds take in the damp."
+       ]
+      }
+     ],
+     "parent": "The seeds in the damp jar must not get wet, only sit in damp air. Keep both shelf jars out of the sun.",
+     "wait": "Leave the jars closed for one week",
+     "context": "This is the first step of Three Jars, Three Weeks. You set up three jars of moong seeds: dry on a shelf, dry in the fridge, and damp on a shelf."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Day 4. Count how many of the first 20 seeds have a root. Work out the percentage. This is the starting number for all three jars.",
+     "say": "This number tells us how good the seeds were at the start. Why do we need it?",
+     "kid": "Count the first 20 seeds. How many have a root? Work out the percentage.",
+     "ask": [
+      {
+       "q": "Why do we test the seeds before storing them?",
+       "good": [
+        "So we know how many were alive at the start.",
+        "Then we can see how much each jar has changed."
+       ]
+      }
+     ],
+     "context": "In this step of Three Jars, Three Weeks you find the germination percentage of the moong before any storage."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Day 8. 1. Take the fridge jar out and leave it closed for 30 minutes. 2. A grown-up opens each jar in turn, lifts out the pouch and counts out 20 seeds. 3. Hang the pouch back and close the jar. 4. Put each 20 on a wet cloth on a labelled plate. Cover the plates.",
+     "say": "A cold jar must warm up before we open it. Otherwise damp from the air settles on the cold seeds. Look at the seeds from each jar. Do they look or feel different?",
+     "kid": "A grown-up opens the jars. Count 20 seeds from each. Put them on wet cloths. Label each plate.",
+     "adult": true,
+     "parent": "Seeds from the damp jar may look dull, feel softer or show a little fuzz. If you see roots in the pouch, drops of water fell on the seeds. Write that down too.",
+     "wait": "Count the seeds with a root 3 days later",
+     "context": "In this step of Three Jars, Three Weeks you take 20 moong from each jar after one week. You start a germination test."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Day 11. Count the seeds with a root on each plate. Write the numbers and the percentages in the table.",
+     "say": "Count each plate. Is any jar different from the start yet?",
+     "kid": "Count the seeds with a root. Write the three numbers.",
+     "context": "In this step of Three Jars, Three Weeks you count how many moong germinated after one week in each jar."
+    },
+    {
+     "id": "s5",
+     "mins": 30,
+     "do": "Days 15 and 22. Repeat the test each week: 20 seeds from each jar onto wet cloths. Count them 3 days later, on days 18 and 25. Each test takes about 10 minutes and each count about 5 minutes.",
+     "say": "We do the same test in week 2 and week 3. Keep everything the same each time. What do you expect to change?",
+     "kid": "Test 20 seeds from each jar again. Do this in week 2 and week 3. Count after 3 days.",
+     "adult": true,
+     "context": "In this step of Three Jars, Three Weeks you repeat the germination test after two weeks and after three weeks."
+    },
+    {
+     "id": "s6",
+     "mins": 10,
+     "do": "Day 25. 1. Help your child draw a line graph with three lines. 2. Ask your child to say what they thought would happen, what they saw, and why it happened. 3. Then read the note below together.",
+     "say": "Draw one line for each jar. Now say what you thought would happen, what you saw, and why it happened. Did the fridge make a difference in three weeks?",
+     "kid": "Draw a line for each jar. Say what you thought. Say what you saw. Say why it happened.",
+     "ask": [
+      {
+       "q": "Which did more harm in three weeks: warmth or damp?",
+       "good": [
+        "Damp. The dry shelf jar stayed about the same.",
+        "The seeds in damp air died, even though they were never wet."
+       ]
+      },
+      {
+       "q": "The two dry jars look the same after three weeks. Does that prove cold does not help?",
+       "good": [
+        "No. Three weeks may be too short to show it.",
+        "Seed banks see the difference over many years."
+       ]
+      }
+     ],
+     "parent": "Usually the two dry jars stay near the starting number, and the damp jar falls week by week. In a cool room the fall is slower, so add a fourth and fifth week. The reason: seeds take in water from damp air. With more water inside, the glassy state softens and the seed's chemistry speeds up. Damage builds up fast, and moulds grow on the seeds. Cold slows the same damage. Three weeks is too short to show that with dry seeds.",
+     "context": "This is the last step of Three Jars, Three Weeks. You compare how well moong stayed alive in dry, cold and damp storage."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "The Power Cut: keep a frozen sample frozen without a freezer",
+   "mins": 35,
+   "context": "This is an engineering challenge. A seed bank must stay frozen even when the electricity fails. Here an ice cube stands for a frozen packet of seeds. You design a holder that keeps the cube frozen.",
+   "problem": "The power has failed at your seed bank. One ice cube is your frozen seed sample. Build a holder from things at home that keeps the cube from melting for as long as possible. Test it against a bare cube in an open katori. After 90 minutes, your holder must have less meltwater than the bare cube.",
+   "constraints": [
+    "Use ice cubes of the same size from the same tray, taken out at the same moment.",
+    "No fridge, no freezer and no extra ice.",
+    "The holder must fit inside a shoebox.",
+    "You must be able to take the cube out to check it in under 10 seconds.",
+    "Keep both cubes in the same room, out of the sun."
+   ],
+   "materials": [
+    "3 ice cubes of the same size",
+    "3 katoris or cups",
+    "a teaspoon, to measure the meltwater",
+    "newspaper, an old towel or a woollen cap",
+    "a steel dabba or a plastic box with a lid",
+    "cotton wool, dry sand or dry soil in a pot, if you have some",
+    "a clock"
+   ],
+   "general": [
+    "Wrap the katori in several layers of newspaper.",
+    "Put the katori inside a closed dabba, and wrap the dabba in a towel.",
+    "Fill the gaps around the katori with cotton wool or crumpled paper."
+   ],
+   "creative": [
+    "Put a small box inside a bigger box, with a layer of still air or crumpled paper between them.",
+    "Bury the closed dabba in a pot of dry sand or soil. The Svalbard seed vault is dug into frozen rock in the same way.",
+    "Chill the empty holder in the fridge before the test starts, so the holder does not warm the cube.",
+    "Find the coolest spot in your home: on the floor, away from windows and the kitchen."
+   ],
+   "your_turn": "Now design your own holder. Draw it and build it. Test it beside a bare cube for 90 minutes, and measure the meltwater from each in teaspoons. Then change one thing and test again. Write which change helped most.",
+   "setup": [
+    {
+     "art": "An ice cube in an open steel katori on a table beside a clock.",
+     "caption": "1. One bare ice cube in an open katori is the one to beat."
+    },
+    {
+     "art": "A katori with an ice cube inside a steel dabba, with crumpled newspaper around it and a towel wrapped outside.",
+     "caption": "2. Build a holder for a second cube from things at home."
+    },
+    {
+     "art": "A child pouring meltwater from a katori into a teaspoon and counting.",
+     "caption": "3. After 90 minutes, measure the meltwater from each cube in teaspoons."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Read the problem together. Ask what makes ice melt, and where the heat comes from. Let your child choose a plan and draw it.",
+     "say": "Heat from the warm room flows into the cold cube. Your holder must slow that heat down. What will you use, and why?",
+     "kid": "Read the problem. What melts the ice? Draw your plan to slow the heat.",
+     "ask": [
+      {
+       "q": "Where does the heat that melts the cube come from?",
+       "good": [
+        "From the warm air of the room.",
+        "From the table and the katori, and from hands."
+       ]
+      }
+     ],
+     "context": "This is the first step of the Power Cut challenge. You plan a holder that keeps an ice cube frozen without a freezer."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Your child builds the holder. 2. Take two cubes from the tray at the same moment. 3. Put one in an open katori and one in the holder. 4. Write down the time.",
+     "say": "Build your holder first, and take the ice out last. Both cubes must start at the same moment.",
+     "kid": "Build your holder. Then put one cube inside. Put one cube in an open katori. Note the time.",
+     "wait": "Leave both cubes for 90 minutes. Do not open the holder to peep",
+     "context": "In this step of the Power Cut challenge you build your holder and start the test with two ice cubes."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "After 90 minutes, pour the meltwater from each katori into the teaspoon and count the spoonfuls. Look at what is left of each cube. Write both results.",
+     "say": "How many teaspoons of water did each cube make? How much ice is left in each?",
+     "kid": "Measure the meltwater from each cube in teaspoons. Look at the ice that is left. Write it down.",
+     "parent": "In a warm room the bare cube is usually all water by 90 minutes. A wrapped cube in a closed dabba usually still has ice.",
+     "context": "In this step of the Power Cut challenge you measure how much each ice cube melted in 90 minutes."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "Change one thing in the design and test again with the third cube, or plan the change on paper. Then talk about the question below.",
+     "say": "What one thing would you change? The real vault at Svalbard is dug deep into a frozen mountain. How does that help in a power cut?",
+     "kid": "Change one thing. Test again, or draw the new plan. Why is a real vault inside a frozen mountain?",
+     "ask": [
+      {
+       "q": "Why was the Svalbard seed vault built inside a frozen mountain?",
+       "good": [
+        "The rock around it stays below freezing all year.",
+        "If the cooling machines stop, the seeds still stay frozen."
+       ]
+      }
+     ],
+     "parent": "The rock at Svalbard is permafrost, which is ground that stays frozen all year. Machines cool the vault further, to minus 18 degrees Celsius. Praise a clear account of what changed and why.",
+     "context": "This is the last step of the Power Cut challenge. You improve your holder and compare it with a real seed vault."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Seeds that wait (core)",
+   "tier": "core",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which part of a seed is the young plant?",
+     "opts": [
+      "The embryo",
+      "The seed coat",
+      "The food store",
+      "The soil around the seed"
+     ],
+     "a": 0,
+     "why": "The embryo is the young plant, with a tiny root and a tiny shoot. The seed coat protects the embryo, and the food store feeds the embryo.",
+     "outcome": 0
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of germination in order.",
+     "items": [
+      "The seed takes in water and swells",
+      "The seed coat splits",
+      "The radicle grows out and turns down",
+      "The plumule grows up",
+      "The first green leaves open"
+     ],
+     "a": [
+      "The seed takes in water and swells",
+      "The seed coat splits",
+      "The radicle grows out and turns down",
+      "The plumule grows up",
+      "The first green leaves open"
+     ],
+     "why": "Water must go in first. Then the coat splits and the root comes out before the shoot. The leaves open last and start to make food.",
+     "outcome": 0
+    },
+    {
+     "t": "label",
+     "p": "Label four parts on this picture of an opened bean seed: seed coat, cotyledon, radicle, plumule.",
+     "labels": [
+      "Seed coat",
+      "Cotyledon",
+      "Radicle",
+      "Plumule"
+     ],
+     "a": [
+      "Seed coat: the thin skin around the outside",
+      "Cotyledon: one of the two thick halves, which hold the food",
+      "Radicle: the tiny pointed root at the edge",
+      "Plumule: the tiny folded shoot between the halves"
+     ],
+     "why": "The seed coat protects, the cotyledons feed, and the radicle and plumule are the two ends of the embryo.",
+     "art": "An opened bean seed showing the skin, the two thick halves and a tiny plant with a pointed root and a folded shoot, with four blank label lines.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
+     "p": "The first root that comes out of a seed is called the ____.",
+     "a": [
+      "radicle"
+     ],
+     "why": "The radicle is the embryo's root. It always comes out before the shoot, so the seedling can take in water.",
+     "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "A moong seed needs light to germinate.",
+     "a": false,
+     "why": "False. Moong germinate in a dark cupboard, because the embryo lives on the food store. A few kinds of seed, such as lettuce, do need light.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "To test whether seeds need water, which two jars should you compare?",
+     "opts": [
+      "Wet warm jar and dry warm jar",
+      "Wet warm jar and wet cold jar",
+      "Dry warm jar and wet cold jar",
+      "Two dry warm jars"
+     ],
+     "a": 0,
+     "why": "Only the water should differ between the two jars. If warmth changed too, you could not tell which one caused the result.",
+     "outcome": 1
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Do most seeds need each one to germinate?",
+     "cats": [
+      "Needed",
+      "Not needed"
+     ],
+     "items": [
+      [
+       "water",
+       "Needed"
+      ],
+      [
+       "oxygen from the air",
+       "Needed"
+      ],
+      [
+       "warmth",
+       "Needed"
+      ],
+      [
+       "light",
+       "Not needed"
+      ],
+      [
+       "soil",
+       "Not needed"
+      ]
+     ],
+     "a": "see items",
+     "why": "Seeds germinate on a wet cloth in a dark cupboard, so they need neither soil nor light. Without water, air or warmth they do not germinate.",
+     "outcome": 1
+    },
+    {
+     "t": "count",
+     "p": "18 of 20 seeds germinate. Each seed is worth 5 percent. What is the germination percentage?",
+     "a": 90,
+     "why": "18 times 5 is 90. So 90 out of every 100 seeds would germinate.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "A germination test uses 20 seeds in each group, not 1. Explain why.",
+     "lines": 3,
+     "a": "In any batch a few seeds are dead already. With 1 seed, a dead one would give the wrong answer. With 20 seeds, one dead seed changes the result by only 5 percent.",
+     "why": "A strong answer says that single seeds can be dead or odd, and that many seeds make the result steadier.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "What happens inside a soaked seed in a freezer?",
+     "opts": [
+      "Ice crystals tear the cells",
+      "The food store melts",
+      "The seed dries out safely",
+      "The embryo grows faster"
+     ],
+     "a": 0,
+     "why": "A soaked seed is full of water. The water freezes into sharp crystals that tear the cell membranes, and the cells die.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "Dry moong seeds die after one night in a freezer.",
+     "a": false,
+     "why": "False. A dry seed holds too little water to form ice, so the cold does no harm. Seed banks store dry seeds in freezers.",
+     "outcome": 3,
+     "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Match each word to its meaning.",
+     "pairs": [
+      [
+       "Viable",
+       "Alive and able to germinate"
+      ],
+      [
+       "Dormant",
+       "Alive, but not germinating"
+      ],
+      [
+       "Sample",
+       "A few seeds tested from a big batch"
+      ],
+      [
+       "Control group",
+       "The group with the ordinary treatment"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A viable seed can germinate. A dormant seed is viable but waiting. A sample stands for the whole batch, and the control is what the other groups are compared with.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "A seed with a root 1 centimetre long is dried for two days. What happens, and why?",
+     "lines": 3,
+     "a": "The seedling dies. The new cells of the root are full of water and have lost the protection that dry seeds have. When they dry, they collapse.",
+     "why": "A strong answer says that the root marks a point of no return, and gives the reason: the growing cells can no longer survive drying.",
+     "outcome": 4,
+     "how": "e2"
+    },
+    {
+     "t": "fill",
+     "p": "A seed bank stores dry seeds at about minus ____ degrees Celsius.",
+     "a": [
+      "18",
+      "eighteen"
+     ],
+     "why": "Minus 18 degrees Celsius is about the cold of a home freezer. Cold slows the ageing of a dry seed.",
+     "outcome": 6
+    },
+    {
+     "t": "perspective",
+     "p": "Where are old crop seeds safest?",
+     "views": [
+      {
+       "who": "A scientist at a frozen seed bank",
+       "says": "In a freezer. Dry, frozen seeds stay alive for a hundred years, safe from floods and pests."
+      },
+      {
+       "who": "A farmer who saves her own seeds",
+       "says": "In my field. Seeds that are sown every year keep up with new pests and new weather."
+      },
+      {
+       "who": "A village seed keeper",
+       "says": "In both. If my field fails in a bad year, I need a copy kept somewhere else."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give a reason from what you know about seeds. Then answer one of the other views.",
+     "a": "Any view with a reason from the unit. For the freezer: dry, cold seeds age very slowly. For the field: frozen seeds do not adapt, and some seeds cannot be dried. For both: each covers the other's risk.",
+     "why": "Each view is partly right. A strong answer uses a fact about seeds, such as slow ageing in the cold. A strong answer also replies fairly to another view.",
+     "outcome": 7
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Dry, cold and counted (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "In the Freezer Test, dry seeds germinated equally well from the freezer and from the shelf. What does this show?",
+     "lines": 3,
+     "a": "It shows that cold alone does not kill a dry seed. The two groups differ only in the freezer, and the result is the same.",
+     "why": "A strong answer names the one difference between the groups and says that this difference did not change the result.",
+     "outcome": 3,
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Soaked seeds on a shelf: 100 percent. Soaked, frozen: 0 percent. Dry, frozen: 90 percent. What killed the seeds?",
+     "opts": [
+      "Cold and water together",
+      "Cold alone",
+      "Water alone",
+      "Old age"
+     ],
+     "a": 0,
+     "why": "Dry frozen seeds lived, so cold alone is not the cause. Soaked seeds on the shelf lived, so water alone is not the cause. Only the group with both died.",
+     "outcome": 3,
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A dormant seed is a dead seed.",
+     "a": false,
+     "why": "False. A dormant seed is alive and can germinate later. A dead seed can never germinate.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "A jar in the fridge is cold and also dark. Why is that a problem in a fair test?",
+     "lines": 3,
+     "a": "Two variables change at once. If the seeds do not germinate, you cannot tell whether the cold or the dark was the cause. A dark, warm jar is needed to check.",
+     "why": "A strong answer says that only one variable should change, and suggests a way to separate the two.",
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "A result that does not fit the pattern of the other results is called an ____ result.",
+     "a": [
+      "anomalous",
+      "odd"
+     ],
+     "why": "Scientists keep anomalous results in the table and repeat the test. An odd result can be a mistake, or the start of a discovery.",
+     "outcome": 2
+    },
+    {
+     "t": "count",
+     "p": "41 of 50 seeds grow into strong seedlings. What is the germination percentage?",
+     "a": 82,
+     "why": "50 is half of 100, so double the count. 41 times 2 is 82 percent.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "A packet tests at 80 percent. How many seeds should you sow to get 40 plants?",
+     "opts": [
+      "50",
+      "40",
+      "32",
+      "80"
+     ],
+     "a": 0,
+     "why": "80 percent means 8 of every 10 seeds grow. To get 40 plants you need 5 lots of 10 seeds, which is 50 seeds.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort these seeds. Can each be dried and stored for years, or must each be sown fresh?",
+     "cats": [
+      "Can be dried and stored",
+      "Must be sown fresh"
+     ],
+     "items": [
+      [
+       "moong",
+       "Can be dried and stored"
+      ],
+      [
+       "wheat",
+       "Can be dried and stored"
+      ],
+      [
+       "paddy",
+       "Can be dried and stored"
+      ],
+      [
+       "mango",
+       "Must be sown fresh"
+      ],
+      [
+       "jackfruit",
+       "Must be sown fresh"
+      ]
+     ],
+     "a": "see items",
+     "why": "Moong, wheat and paddy dry out as they ripen and can wait for years. Mango and jackfruit seeds die if they dry, so they cannot be kept in a frozen seed bank.",
+     "outcome": 6
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of a seed bank in order.",
+     "items": [
+      "Collect the seeds and note the place and date",
+      "Clean the seeds and test a sample",
+      "Dry the seeds slowly",
+      "Seal them in packets",
+      "Freeze the packets",
+      "Test a sample every few years"
+     ],
+     "a": [
+      "Collect the seeds and note the place and date",
+      "Clean the seeds and test a sample",
+      "Dry the seeds slowly",
+      "Seal them in packets",
+      "Freeze the packets",
+      "Test a sample every few years"
+     ],
+     "why": "Seeds must be dry before they are sealed and frozen, or ice would kill them. Testing goes on for as long as the seeds are stored.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "Why does a seed bank let a cold packet warm up before opening the packet?",
+     "lines": 3,
+     "a": "Damp from the room air settles as water on anything cold. If the packet were opened cold, the dry seeds would take in that water. Wetter seeds age faster.",
+     "why": "A strong answer links the cold surface to damp settling on the seeds, and damp to faster ageing.",
+     "outcome": 6
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a seed bank regrow a sample when germination falls below 85 percent?",
+     "opts": [
+      "Fresh seeds replace the ageing ones",
+      "The freezer has become too full",
+      "Old seeds grow into weeds",
+      "Farmers ask for bigger seeds"
+     ],
+     "a": 0,
+     "why": "Stored seeds slowly die, even when frozen. Sowing them while most are still alive gives fresh seeds of the same variety to store again.",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw a soaked cell and a dry cell in a freezer. Show what the ice does in each.",
+     "a": "The soaked cell is full of water, with sharp ice crystals poking through the thin skin of the cell. The dry cell is small and solid, with no crystals and an unbroken skin.",
+     "why": "A strong drawing shows ice only where there is water, and shows the damage as torn cell skins.",
+     "art": "Two blank circles side by side under a snowflake, one labelled soaked cell and one labelled dry cell.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "Seeds soaked for a few hours and then dried can still germinate later.",
+     "a": true,
+     "why": "True. Before the root comes out, the embryo still has the protection of a dry seed. Farmers use this to make seeds come up faster.",
+     "outcome": 4
+    },
+    {
+     "t": "match",
+     "p": "Match each cause to its effect on a stored seed.",
+     "pairs": [
+      [
+       "Kept very dry",
+       "Chemistry almost stops"
+      ],
+      [
+       "Kept in damp air",
+       "The seed takes in water and ages fast"
+      ],
+      [
+       "Kept cold and dry",
+       "Slow damage becomes even slower"
+      ],
+      [
+       "Frozen while wet",
+       "Ice tears the cells"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Water speeds up the damage inside a seed, and cold slows the damage down. But cold with water inside the seed makes ice, which kills.",
+     "outcome": 6
+    },
+    {
+     "t": "perspective",
+     "p": "Is a dry seed in a jar alive?",
+     "views": [
+      {
+       "who": "The first biologist",
+       "says": "Not at this moment. Living means feeding, respiring and growing, and the dry seed does none of these."
+      },
+      {
+       "who": "The second biologist",
+       "says": "Yes. The seed keeps every part needed for life in working order. A dead seed does not."
+      },
+      {
+       "who": "A farmer",
+       "says": "I call a seed alive if the seed grows when I sow. Until then I cannot know."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give a reason, using what you know about dry seeds. Then answer one of the other views.",
+     "a": "Any view with a reason from the unit. One reason: a dry seed shows almost no activity. Another: a dry seed germinates with water and a boiled seed never does, so something is kept in the dry seed.",
+     "why": "This is a real disagreement among scientists. A strong answer uses a fact, such as the difference between a dry seed and a boiled seed. A strong answer also replies fairly to another view.",
+     "outcome": 5
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Think like a seed scientist (challenge)",
+   "tier": "challenge",
+   "mins": 35,
+   "items": [
+    {
+     "t": "write",
+     "p": "Plan a fair test of warm and cool soaking water. Say what you change, measure and keep the same.",
+     "lines": 5,
+     "a": "Change: the warmth of the soaking water. Measure: how many seeds have a root at each count. Keep the same: the kind and number of seeds, the soaking time, the cloth and the shelf.",
+     "why": "A strong plan changes only one variable and measures something that can be counted. A strong plan also uses many seeds and lists three things kept the same.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "A test finds that 2 of 2 seeds germinated: '100 percent'. Give two reasons not to trust this number.",
+     "lines": 3,
+     "a": "Two seeds are too few: one dead seed would have made the result 50 percent. The two seeds may also not stand for the whole batch.",
+     "why": "A strong answer says that a small sample swings widely by chance. A sample must be big enough to stand for the batch.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Two groups of 20 seeds score 95 percent and 90 percent. What is the fairest conclusion?",
+     "opts": [
+      "No clear difference: it is one seed",
+      "The first group is clearly better",
+      "The second group is dying",
+      "The whole test failed"
+     ],
+     "a": 0,
+     "why": "With 20 seeds, 5 percent is a single seed. One seed more or less can happen by chance, so the two groups are about the same.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Frozen shop peas do not grow. Dry peas from a jar do. Explain why, using water and ice.",
+     "lines": 3,
+     "a": "The shop peas were full of water when they were frozen, so ice crystals tore their cells. The dry peas hold too little water to make ice, so their embryos are unharmed.",
+     "why": "A strong answer says that freezing harms only when there is water inside to form ice.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "In the Freezer Test, cold alone killed the soaked seeds.",
+     "a": false,
+     "why": "False. Dry seeds in the same freezer lived, so cold alone does not kill. The soaked seeds died because cold and water were together.",
+     "outcome": 3,
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "A light shower wakes half the seeds in a field. Then no rain comes. Predict what happens to each half.",
+     "lines": 3,
+     "a": "The half that woke grow roots and then dry out and die, because a seedling cannot go back to waiting. The half that stayed dormant are still alive and can wake at the next rain.",
+     "why": "A strong answer uses the point of no return, and sees that the seeds that waited save the plant's chances.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Why is waiting for a heavy rain safer for a desert seed than waking at the first drops?",
+     "opts": [
+      "A woken seedling cannot go back to waiting",
+      "Heavy rain is warmer than light rain",
+      "Light rain washes the seeds away",
+      "Seeds wake only at night"
+     ],
+     "a": 0,
+     "why": "Germination cannot be undone. After a light shower the soil soon dries, and a seedling dies. A heavy rain wets the soil for long enough for roots to grow deep.",
+     "outcome": 5
+    },
+    {
+     "t": "fill",
+     "p": "All the living seeds lying in the soil of a place are called the soil seed ____.",
+     "a": [
+      "bank"
+     ],
+     "why": "The soil seed bank is why weeds appear in bare soil where nobody sowed anything. Some of its seeds wait for many years.",
+     "outcome": 5
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Does each one make a stored seed live longer, or die sooner?",
+     "cats": [
+      "Lives longer",
+      "Dies sooner"
+     ],
+     "items": [
+      [
+       "drier seeds",
+       "Lives longer"
+      ],
+      [
+       "a colder store",
+       "Lives longer"
+      ],
+      [
+       "a packet sealed against damp",
+       "Lives longer"
+      ],
+      [
+       "warm, damp air",
+       "Dies sooner"
+      ],
+      [
+       "a cold packet opened in damp air",
+       "Dies sooner"
+      ]
+     ],
+     "a": "see items",
+     "why": "Water and warmth speed up the slow damage inside a seed. Dry, cold and sealed storage slows it.",
+     "outcome": 6
+    },
+    {
+     "t": "count",
+     "p": "A seed bank holds 600 seeds of one variety. Each test uses 50. How many tests can the bank do?",
+     "a": 12,
+     "why": "600 divided by 50 is 12. So a bank cannot test too often, and must regrow the variety before the seeds run out.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "A seed vault is sealed and never opened or tested for 200 years. What might people find inside? Why?",
+     "lines": 3,
+     "a": "Some kinds of seed may still be alive, and others will be dead. Even frozen seeds age slowly, and some kinds last only a few decades. With no tests, nobody regrew them in time.",
+     "why": "A strong answer says that freezing slows ageing but does not stop ageing. Testing and regrowing are part of keeping seeds.",
+     "outcome": 6
+    },
+    {
+     "t": "odd",
+     "p": "Three of these seeds stay alive when they are dried. Which one is the odd one out?",
+     "opts": [
+      "Moong",
+      "Paddy",
+      "Wheat",
+      "Mango"
+     ],
+     "a": 3,
+     "why": "Moong, paddy and wheat dry out as they ripen and can be stored. A mango seed dies if dried, so the stone must be sown fresh.",
+     "outcome": 6
+    },
+    {
+     "t": "perspective",
+     "p": "People once said that wheat from a 3,000-year-old tomb had grown. Is the claim true?",
+     "views": [
+      {
+       "who": "A seller of 'mummy wheat'",
+       "says": "Yes. I sowed grain that came from a tomb, and wheat came up."
+      },
+      {
+       "who": "A botanist",
+       "says": "Not yet. I want proof that the grain truly came from the tomb. I also want a test of many grains that others can watch."
+      },
+      {
+       "who": "A child who has read about the lotus",
+       "says": "It could be true. A lotus seed lived for 1,300 years, so old seeds can live."
+      }
+     ],
+     "ask": "Whose view do you agree with most? What evidence would settle the question? Then answer one of the other views.",
+     "a": "The botanist's demand is the strongest. Evidence that would settle it: the age of the grain measured by carbon dating, and a watched germination test on many grains. Real tomb grain has failed such tests.",
+     "why": "A strong answer separates what could be true from what has been shown, and names evidence that anyone could check.",
+     "outcome": 5
+    },
+    {
+     "t": "draw",
+     "p": "Draw the line graph you expect: percent germinated over 4 weeks, in a dry jar and in a damp jar.",
+     "a": "Two lines that start at the same high point. The dry jar line stays nearly flat. The damp jar line falls, slowly at first and then faster.",
+     "why": "A strong graph has weeks along the bottom and percent up the side. Both lines start together, and only the damp line falls.",
+     "art": "Blank graph axes with weeks 0 to 4 along the bottom and 0 to 100 percent up the side.",
+     "outcome": 6,
+     "how": "p1"
+    },
+    {
+     "t": "match",
+     "p": "Match each test result to what it most likely means.",
+     "pairs": [
+      [
+       "No seeds germinate, even in the control",
+       "The seeds were dead, or the test went wrong"
+      ],
+      [
+       "Every group germinates equally",
+       "The changed variable does not matter here"
+      ],
+      [
+       "One group is far below the control",
+       "The change harmed or stopped the seeds"
+      ],
+      [
+       "A few seeds wake days after the rest",
+       "Seeds in a batch wake at different times"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "The control group tells you whether the seeds and the test were sound. Only then can a difference between groups be trusted.",
+     "outcome": 1
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What comes out of a germinating seed first?",
+   "opts": [
+    "The root",
+    "The shoot",
+    "A green leaf",
+    "A flower bud"
+   ],
+   "a": 0,
+   "why": "The root, called the radicle, comes out first and turns down. The seedling needs water and a hold on the ground before anything else.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What feeds a seedling before the first green leaves open?",
+   "opts": [
+    "The food store in the seed",
+    "Sunlight",
+    "The soil",
+    "Rainwater"
+   ],
+   "a": 0,
+   "why": "The embryo lives on the food the parent plant packed into the seed. That is why a seed can germinate in the dark.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which three things do most seeds need to germinate?",
+   "opts": [
+    "Water, oxygen and warmth",
+    "Water, light and soil",
+    "Soil, light and warmth",
+    "Light, oxygen and fertiliser"
+   ],
+   "a": 0,
+   "why": "Fair tests show that seeds without water, air or warmth do not germinate. Most germinate without light or soil.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Seeds in a dark box germinate as well as seeds in the light. What does this show?",
+   "opts": [
+    "These seeds do not need light",
+    "Seeds need darkness",
+    "The test was unfair",
+    "Light harms seeds"
+   ],
+   "a": 0,
+   "why": "The two groups differ only in light, and the result is the same. So light does not matter for these seeds.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "9 of 10 seeds germinate. What is the germination percentage?",
+   "opts": [
+    "90 percent",
+    "9 percent",
+    "19 percent",
+    "45 percent"
+   ],
+   "a": 0,
+   "why": "Each seed out of 10 is worth 10 percent, and 9 times 10 is 90.",
+   "outcome": 2
+  },
+  {
+   "t": "truefalse",
+   "p": "A test with 5 seeds gives a steadier answer than a test with 100 seeds.",
+   "a": false,
+   "why": "False. With 5 seeds, one dead seed changes the result by 20 percent. With 100 seeds, one dead seed changes the result by 1 percent.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a dry seed live through a night in a freezer?",
+   "opts": [
+    "Too little water inside to form ice",
+    "The seed coat keeps the cold out",
+    "A dry seed is already dead",
+    "The seed grows a thicker coat"
+   ],
+   "a": 0,
+   "why": "Freezing harms cells when the water in them turns to ice. A dry seed is only about one tenth water, held too tightly to freeze into crystals.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Soaked seeds are frozen, thawed and put on a wet cloth. What is most likely?",
+   "opts": [
+    "They do not germinate",
+    "They germinate faster",
+    "They germinate as usual",
+    "They become dry seeds again"
+   ],
+   "a": 0,
+   "why": "Ice crystals formed inside the wet cells and tore them. The cells leak and die when they thaw.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "When can a soaked seed still be dried again safely?",
+   "opts": [
+    "Before the root comes out",
+    "After the root comes out",
+    "After the leaves open",
+    "At any time"
+   ],
+   "a": 0,
+   "why": "For the first hours the embryo keeps the protection of a dry seed. Once the root grows, the new cells cannot survive drying.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "What is a dormant seed?",
+   "opts": [
+    "A living seed that is not germinating",
+    "A dead seed",
+    "A seed with a root",
+    "A seed that was boiled"
+   ],
+   "a": 0,
+   "why": "A dormant seed is alive and waiting. Some dormant seeds wait even when they have water, warmth and air.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "How does a seed bank keep seeds alive for decades?",
+   "opts": [
+    "Dries, seals and freezes them",
+    "Soaks and freezes them",
+    "Keeps them warm and damp",
+    "Sows them all at once"
+   ],
+   "a": 0,
+   "why": "Dry seeds age slowly, and cold slows them further. Sealing keeps damp air out. Soaked seeds would be killed by ice.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "What can a farmer's field do for a crop variety that a freezer cannot?",
+   "opts": [
+    "Let the crop keep adapting",
+    "Keep the seeds safe from floods",
+    "Stop the seeds from ageing",
+    "Hold thousands of varieties in one room"
+   ],
+   "a": 0,
+   "why": "Seeds sown every year face each year's weather and pests, and the plants that do well leave the most seed. A frozen seed stays as the seed was.",
+   "outcome": 7
+  }
+ ],
+ "videos": [
+  {
+   "title": "Bean Time-Lapse - 25 days | Soil cross section",
+   "channel": "GPhase",
+   "youtube": "w77zPAtVTuI",
+   "mins": 3,
+   "why": "To watch the steps of germination in order: the seed swells, the coat splits, the root goes down and then the shoot comes up.",
+   "check": "This address is the one already used and confirmed in the Class 4 unit on seeds. A parent should preview it. Pause when the root first appears and ask what will come next."
+  },
+  {
+   "title": "Inside a seed bank: how seeds are dried, sealed, frozen and tested",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 5,
+   "why": "To see the drying room, the sealed packets, the cold store and a germination test in a real seed bank.",
+   "check": "No address yet. Look for a film from the Millennium Seed Bank at Kew, the Crop Trust or the Svalbard Global Seed Vault. Check that it shows seeds being dried before freezing, and a germination test."
+  },
+  {
+   "title": "Digging up a bottle from the Beal seed experiment in 2021",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 4,
+   "why": "To see scientists dig up a bottle of seeds buried in 1879 and sow the seeds.",
+   "check": "No address yet. Look for a short film from Michigan State University about the 2021 dig. Check that it says the bottles were buried in 1879 and that some seeds germinated."
+  }
+ ],
+ "applications": [
+  "Seed packets in India print the germination percentage and the date of the test. A farmer uses the number to decide how much seed to sow.",
+  "Seed banks dry seeds and freeze them at about minus 18 degrees Celsius. India's National Genebank in New Delhi keeps more than 4 lakh samples this way.",
+  "Many farmers soak seeds overnight and dry the surface before sowing. The seeds come up faster. This works because a seed can be dried again before the root appears.",
+  "Families store grain and seed with dried neem leaves in sealed pots, tins and bins. Keeping the seeds dry matters most.",
+  "When a flood, a drought or a war wipes out a crop variety, a seed bank can send seeds back. Scientists from Aleppo in Syria rebuilt their collection this way from 2015.",
+  "Plant breeders search seed banks for old varieties that stand salt, heat or disease, and cross them with today's crops.",
+  "Gardeners who turn over the soil soon see weeds, because digging brings buried seeds up to the light."
+ ],
+ "spotted": [
+  {
+   "text": "Weeds coming up in a flower pot where you sowed nothing. They grew from the soil seed bank in the potting soil.",
+   "art": "A balcony flower pot with a rose plant and several small weeds of different kinds around its base."
+  },
+  {
+   "text": "The label on a seed packet at a nursery or seed shop. The label shows the germination percentage and the date of the test.",
+   "art": "A hand holding a packet of bhindi seeds, with a small printed box showing a percentage and a date."
+  },
+  {
+   "text": "Sprouts in a tiffin box. If dry moong from the shelf sprouts, the seeds were alive and resting all the time in the jar.",
+   "art": "A steel tiffin box full of moong sprouts with short white tails."
+  },
+  {
+   "text": "A sealed tin, mud pot or bin of seed grain with dry neem leaves on top, in a store room.",
+   "art": "A mud pot with a clay lid sealed with mud, on a shelf in a store room, with dry neem leaves beside it."
+  },
+  {
+   "text": "Lotus pods at a flower market or a temple tank, such as in Madurai or Thrissur. The dark seeds inside have one of the hardest coats of any seed.",
+   "art": "A dried lotus pod like a shower head, with dark round seeds sitting in its holes."
+  },
+  {
+   "text": "Paddy or wheat that sprouts on the standing plant when rain falls at harvest time. Once the grains have sprouted, they cannot be stored as seed.",
+   "art": "A drooping head of ripe paddy in the rain, with tiny green shoots coming out of some grains."
+  },
+  {
+   "text": "A bare field or roadside that turns green a few days after the first heavy rain of the monsoon.",
+   "art": "A dry brown roadside on the left and the same roadside covered in small green seedlings on the right."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "What is the longest time a seed can stay alive?",
+   "why_open": "The record so far is about 2,000 years, for a date palm seed. Nobody knows the limit, and tests like the buried bottles take centuries."
+  },
+  {
+   "q": "Is anything at all happening inside a very dry, frozen seed?",
+   "why_open": "Any activity is too small to measure with today's tools. So nobody can say whether the seed's chemistry is very slow or fully stopped."
+  },
+  {
+   "q": "How does a waking seed repair damage that built up over many years?",
+   "why_open": "Scientists see repair of DNA in the first hours after water enters. They do not yet know how much damage a seed can repair, or why repair finally fails."
+  },
+  {
+   "q": "Why do some seeds live for centuries and others for only a few years, even in the same freezer?",
+   "why_open": "Oily seeds often age faster, but that does not explain all the differences. Seed banks are still collecting the data."
+  },
+  {
+   "q": "How can seeds that die when dried, such as mango and jackfruit, be stored for a long time?",
+   "why_open": "Scientists can freeze the tiny embryos of a few kinds in liquid nitrogen. For most kinds, no method works well yet."
+  },
+  {
+   "q": "Will seeds frozen today still suit the weather and pests of a hundred years from now?",
+   "why_open": "Nobody knows how fast the climate and pests will change. Nobody knows how well an old variety will cope when sown again."
+  }
+ ],
+ "ask_kids": [
+  "Which dry seeds in our kitchen do you think are alive right now? How could we find out without using them all up?",
+  "If you were a seed in dry soil, what sign would you wait for before waking?",
+  "Why can we freeze dry rajma safely, when a wet palak leaf is ruined by the freezer?",
+  "If we could save the seeds of only five plants for the future, which five would you choose?",
+  "What things in your life cannot be undone once they have started?",
+  "Who should look after a country's seeds: farmers, scientists, the government, or everyone?",
+  "A seed can wait a thousand years. What is the longest you have ever waited for something?",
+  "If a seed is doing nothing at all, how is the seed different from a small stone?"
+ ],
+ "jokes": [
+  {
+   "j": "Why was the dry moong not afraid of the freezer?",
+   "a": "There was no water inside to get cold feet."
+  },
+  {
+   "j": "What did the seed bank say to the new seed?",
+   "a": "Stay cool and stay dry. We will call you in ten years."
+  },
+  {
+   "j": "Why did the sprout refuse to go back in the jar?",
+   "a": "The root was out, and there was no going back."
+  },
+  {
+   "j": "How do you know a seed is patient?",
+   "a": "One waited 2,000 years and did not complain once."
+  },
+  {
+   "j": "Why did the scientist test a hundred seeds and not one?",
+   "a": "One seed can be lazy. A hundred cannot all be."
+  },
+  {
+   "j": "What did the lotus seed say after 1,300 years?",
+   "a": "Is it morning already?"
+  },
+  {
+   "j": "Why did the soaked seed fail the freezer test?",
+   "a": "The ice was too sharp for a soft seed."
+  },
+  {
+   "j": "What is a seed's favourite game?",
+   "a": "Wait and seed."
+  },
+  {
+   "j": "Why do weeds love a gardener who digs?",
+   "a": "Every turn of the spade is a wake-up call."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Freezer Test, 19 of 20 dry seeds from the shelf germinated. From the freezer, 18 of 20 dry seeds germinated. What is each percentage? Is the difference big enough to matter?",
+   "answer": "95 percent and 90 percent. The difference is too small to matter.",
+   "explain": "Each seed out of 20 is worth 5 percent. 19 times 5 is 95, and 18 times 5 is 90. The difference is one seed, and one seed can fail by chance.",
+   "math_unit": "math.fractions.decimals-and-percentages.L5",
+   "how": "e1",
+   "context": "In the Freezer Test you put dry and soaked moong seeds in a freezer for a night. Then you count how many germinate. These are made-up counts for the two dry groups.",
+   "why_maths": "A percentage lets you compare groups, and knowing what one seed is worth tells you whether a difference means anything."
+  },
+  {
+   "problem": "Look at the made-up Freezer Test chart. By how many percentage points did freezing lower the dry seeds? And the soaked seeds? What do the two answers tell you together?",
+   "answer": "Dry seeds: 5 points lower. Soaked seeds: 100 points lower. The harm from cold depends on whether the seed is wet.",
+   "explain": "Dry: 95 minus 90 is 5. Soaked: 100 minus 0 is 100. The same freezer did almost nothing to dry seeds and killed every soaked seed. So cold and water act together.",
+   "math_unit": "math.data.reading-data.L5",
+   "how": "e1",
+   "chart": {
+    "type": "bar",
+    "title": "Made-up Freezer Test results: percent germinated by day 5",
+    "x": "Group",
+    "y": "Percent germinated",
+    "data": [
+     {
+      "label": "A Dry, shelf",
+      "value": 95
+     },
+     {
+      "label": "B Dry, freezer",
+      "value": 90
+     },
+     {
+      "label": "C Soaked, shelf",
+      "value": 100
+     },
+     {
+      "label": "D Soaked, freezer",
+      "value": 0
+     }
+    ]
+   },
+   "context": "In the Freezer Test, four groups of 20 moong seeds were dry or soaked. Each group was kept on a shelf or in a freezer. This chart shows made-up results.",
+   "why_maths": "Subtracting within each pair shows the effect of one variable. Comparing the two differences shows that one variable changes what the other does."
+  },
+  {
+   "problem": "A Rag Doll Test shows that a sack of paddy seed germinates at 80 percent. A farmer wants 2,000 seedlings. How many seeds should she sow?",
+   "answer": "2,500 seeds.",
+   "explain": "80 percent means 8 of every 10 seeds grow. 2,000 seedlings are 250 lots of 8. So she needs 250 lots of 10 seeds, which is 2,500.",
+   "math_unit": "math.fractions.ratio-and-proportion.L5",
+   "how": "a2",
+   "context": "In the Rag Doll Test you roll 50 seeds in a wet cloth and count the strong seedlings. The count gives the germination percentage of a batch.",
+   "why_maths": "A germination percentage is only useful if you can turn it into the number of seeds to sow."
+  },
+  {
+   "problem": "In Scoop and Guess, 80 percent of the seeds in the dabba are rajma. In a scoop of 5, which counts of rajma give a guess within 10 of 80 percent? In a scoop of 25?",
+   "answer": "In a scoop of 5: only 4 rajma. In a scoop of 25: 18, 19, 20, 21 or 22 rajma.",
+   "explain": "Out of 5, each seed is 20 percent, so 3, 4 and 5 rajma give 60, 80 and 100. Only 80 is within 10. Out of 25, each seed is 4 percent, so 18 to 22 rajma give 72 to 88. A bigger scoop has more ways to land close.",
+   "math_unit": "math.probability.experiments.L5",
+   "how": "g1",
+   "context": "In the game Scoop and Guess you take a few seeds from a dabba without looking. Then you guess what percent of all the seeds are rajma.",
+   "why_maths": "Working out what each seed is worth shows why a small sample jumps about. A big sample settles near the true value."
+  },
+  {
+   "problem": "William Beal buried bottles of seeds in 1879. One bottle was opened in 2021, and the last is due in 2100. How long was each wait? How old will a child born in 2016 be in 2100?",
+   "answer": "142 years and 221 years. The child will be 84.",
+   "explain": "2021 minus 1879 is 142. 2100 minus 1879 is 221. 2100 minus 2016 is 84.",
+   "math_unit": "math.time.duration.L5",
+   "context": "This is about the buried bottle test. A botanist buried bottles of weed seeds in 1879. Every few years, people dig up one bottle and see whether the seeds still germinate.",
+   "why_maths": "Subtracting years shows how far this test runs beyond one human life. That is why each scientist must hand the test on to the next."
+  },
+  {
+   "problem": "In Three Jars, Three Weeks, the damp jar gave these made-up results. Between which two tests did germination fall most? A seed bank regrows seeds below 85 percent. By which test should these seeds have been regrown?",
+   "answer": "It fell most between week 1 and week 2. The seeds should have been regrown by week 1.",
+   "explain": "The first fall is 95 to 80, which is 15 points. The second is 80 to 45, which is 35 points. The third is 45 to 15, which is 30 points. The line first goes below 85 at week 1, when it reads 80.",
+   "math_unit": "math.data.line-graphs.L5",
+   "how": "p1",
+   "chart": {
+    "type": "line",
+    "title": "Made-up results: moong kept in damp air",
+    "x": "Time in the damp jar",
+    "y": "Percent germinated",
+    "data": [
+     {
+      "label": "Start",
+      "value": 95
+     },
+     {
+      "label": "Week 1",
+      "value": 80
+     },
+     {
+      "label": "Week 2",
+      "value": 45
+     },
+     {
+      "label": "Week 3",
+      "value": 15
+     }
+    ]
+   },
+   "context": "In Three Jars, Three Weeks you store moong seeds in dry and damp jars. Every week you test 20 seeds from each jar. This line shows made-up results for the damp jar.",
+   "why_maths": "A line graph shows how fast something is changing. Then you can see when to act before it is too late."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.seeds-and-life-cycles.L5",
+  "title": "Seed to Seed Again",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Svalbard Global Seed Vault",
+   "url": "https://www.seedvault.no",
+   "kind": "interactive",
+   "why": "For the parent and child: pictures and facts about the back-up seed store dug into a frozen mountain in Norway."
+  },
+  {
+   "title": "Royal Botanic Gardens, Kew",
+   "url": "https://www.kew.org",
+   "kind": "interactive",
+   "why": "Search the site for 'Millennium Seed Bank' to see how seeds of wild plants are dried, frozen and tested."
+  },
+  {
+   "title": "Crop Trust",
+   "url": "https://www.croptrust.org",
+   "kind": "interactive",
+   "why": "For the parent: how seed banks around the world keep crop varieties, and why copies are sent to Svalbard."
+  },
+  {
+   "title": "Genesys",
+   "url": "https://www.genesys-pgr.org",
+   "kind": "interactive",
+   "why": "A catalogue of seed samples held in seed banks around the world. Search for rice or millet and see how many samples come from India."
+  },
+  {
+   "title": "National Genebank, ICAR-NBPGR",
+   "url": "",
+   "kind": "place",
+   "where": "New Delhi",
+   "why": "India's national store of crop seeds, kept in very cold rooms. It is a working research institute, so write and ask before you visit."
+  },
+  {
+   "title": "Navdanya Biodiversity Conservation Farm",
+   "url": "",
+   "kind": "place",
+   "where": "Near Dehradun",
+   "why": "A farm and community seed bank. Hundreds of old varieties of rice, wheat and millets are grown and shared here every year."
+  },
+  {
+   "title": "Deccan Development Society",
+   "url": "",
+   "kind": "place",
+   "where": "Pastapur, near Zaheerabad, Telangana",
+   "why": "Women farmers here run village seed banks of millets and pulses. Ask about a visit during their yearly festival of seeds."
+  },
+  {
+   "title": "A plant nursery or seed shop near you",
+   "url": "",
+   "kind": "place",
+   "where": "Anywhere",
+   "why": "Read the labels on seed packets. Ask how the shop stores its seeds in the monsoon, and how old the oldest packet is."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-moong",
+   "item": "Whole green moong, about 250 grams",
+   "kind": "material",
+   "why": "For the Freezer Test, No Going Back and Three Jars, Three Weeks. Most kitchens have it. Use one packet for all the groups in a test.",
+   "url": "https://www.amazon.in/s?k=whole+green+moong",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ]
+  },
+  {
+   "id": "b-book",
+   "item": "The Triumph of Seeds, a book by Thor Hanson (2015)",
+   "kind": "book",
+   "why": "For the parent or an older child: a biologist's clear and lively account of how seeds feed, wait, travel and defend themselves.",
+   "url": "https://www.amazon.in/s?k=The+Triumph+of+Seeds+Thor+Hanson",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "After No Going Back, a parent can read aloud from the chapters on how seeds wait."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Name the three parts of a seed.",
+   "a": "The seed coat, the embryo and the food store."
+  },
+  {
+   "q": "What comes out of a seed first, the root or the shoot?",
+   "a": "The root, which is called the radicle."
+  },
+  {
+   "q": "Name three things most seeds need to germinate.",
+   "a": "Water, oxygen and warmth."
+  },
+  {
+   "q": "17 of 20 seeds germinate. What percent is that?",
+   "a": "85 percent, because each seed is worth 5 percent."
+  },
+  {
+   "q": "Why does a dry seed live through a freezer?",
+   "a": "There is too little water inside to form ice."
+  },
+  {
+   "q": "When can a soaked seed no longer be dried safely?",
+   "a": "Once the root has come out."
+  },
+  {
+   "q": "What three things does a seed bank do to seeds before storing them?",
+   "a": "Dries them, seals them and freezes them."
+  },
+  {
+   "q": "What is a dormant seed?",
+   "a": "A living seed that is not germinating."
+  }
+ ],
+ "warm": {
+  "words": [
+   "SEEDS",
+   "WATER",
+   "SHOOT",
+   "VAULT",
+   "ROOTS"
+  ],
+  "quiz": [
+   [
+    "The root comes out of a germinating seed before the shoot.",
+    true,
+    "The root takes in water and holds the seedling in place."
+   ],
+   [
+    "Most seeds need light to germinate.",
+    false,
+    "Most seeds germinate in the dark, living on their food store."
+   ],
+   [
+    "A dry seed in a kitchen jar is alive.",
+    true,
+    "Dry moong or rajma germinate when they are given water."
+   ],
+   [
+    "Freezing kills dry seeds.",
+    false,
+    "A dry seed has too little water to form ice. Seed banks freeze dry seeds."
+   ],
+   [
+    "Freezing kills soaked seeds.",
+    true,
+    "Ice crystals form inside the wet cells and tear them."
+   ],
+   [
+    "A seedling with a root can be dried and stored again.",
+    false,
+    "Once the root is out, the growing cells die if they dry."
+   ],
+   [
+    "A lotus seed has germinated after about 1,300 years.",
+    true,
+    "The seed lay in a dry lake bed in China and was germinated in the 1990s."
+   ],
+   [
+    "A test of 100 seeds is steadier than a test of 5 seeds.",
+    true,
+    "One dead seed changes a test of 5 by 20 percent, and a test of 100 by 1 percent."
+   ],
+   [
+    "Seeds in a frozen vault stay alive for ever.",
+    false,
+    "They age slowly, so a seed bank tests them and regrows them."
+   ],
+   [
+    "Mango seeds can be dried and frozen like moong.",
+    false,
+    "A mango seed dies when dried, so the stone must be sown fresh."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Water",
+     "Oxygen",
+     "Warmth",
+     "Light"
+    ],
+    "Light",
+    "Most seeds need water, oxygen and warmth to germinate, but not light."
+   ],
+   [
+    [
+     "Moong",
+     "Wheat",
+     "Paddy",
+     "Jackfruit"
+    ],
+    "Jackfruit",
+    "Moong, wheat and paddy can be dried and stored, but a jackfruit seed dies when dried."
+   ],
+   [
+    [
+     "Drying",
+     "Sealing",
+     "Freezing",
+     "Soaking"
+    ],
+    "Soaking",
+    "A seed bank dries, seals and freezes seeds, but soaking would wake them."
+   ],
+   [
+    [
+     "Seed coat",
+     "Embryo",
+     "Food store",
+     "Petal"
+    ],
+    "Petal",
+    "The seed coat, the embryo and the food store are parts of a seed. A petal is part of a flower."
+   ],
+   [
+    [
+     "Dry seed in a jar",
+     "Dry seed in a freezer",
+     "Lotus seed in mud",
+     "Boiled seed"
+    ],
+    "Boiled seed",
+    "The first three are alive and waiting, but a boiled seed is dead."
+   ]
+  ]
+ },
+ "plan": {
+  "start_options": [
+   "intro",
+   "a3",
+   "e1",
+   "story",
+   "g2",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "summary",
+   "a3",
+   "terms",
+   "e1",
+   "a1",
+   "explanations",
+   "story",
+   "g1",
+   "e2",
+   "videos",
+   "ws-core",
+   "a2",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "g2",
+   "p1",
+   "c1",
+   "ws-stretch",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a3",
+   "e1",
+   "a1",
+   "g1",
+   "e2",
+   "ws-core"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "Founder's notebook for this topic (ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md): the SCI Card for Nikolai Vavilov and the Leningrad seed bank, used in a big question, and the weekly journey 'Let grow and grow' (grow a plant from seed and record the growth), behind the daily counts in the experiments.",
+   "Curriculum entry sci.seeds-and-life-cycles.seeds-and-germination.L5: germination investigations, dormancy and seeds that wait for years, seed banks. Board chapter Cambridge Stage 5, 1.4 Seed germination: the parts of a seed, the steps of germination, a fair test of what seeds need, results tables and conclusions. These are covered by Four Days, Four Drawings, Read the Five Jars, the explanations and the core worksheet.",
+   "Combined lesson app/content/combined/sci-C5-seeds-plant-growth-and-plant-life-cycles.json: the five-jar test of what seeds need, used here as a table to analyse (Read the Five Jars) because the Class 3 unit already runs that test.",
+   "Earlier units were checked so that nothing repeats. The five-cup test is in the Class 3 unit of this subtopic. The waking curve, sowing depth, the pale seedling, the tamarind coat, the seed library and the Dry Vault are in the Class 4 unit. Tomato juice on seeds is in sci.ecology.interdependence.L3, salt water on seeds is in sci.evolution.story-of-life.L2, old kitchen seeds are in sci.environment.conservation.L4, and soaking and drying chana to measure size is in sci.changes.reversible-and-irreversible.L4. The Freezer Test, No Going Back, Three Jars Three Weeks, the Rag Doll Test, both games and the story are new."
+  ],
+  "science": [
+   "Shen-Miller J., Mudgett M. B., Schopf J. W., Clarke S., Berger R. (1995). Exceptional seed longevity and robust growth: ancient sacred lotus from China. American Journal of Botany 82: 1367-1380.",
+   "Sallon S., Solowey E., Cohen Y., Korchinsky R., Egli M., Woodhatch I., Simchoni O., Kislev M. (2008). Germination, genetics, and growth of an ancient date seed. Science 320: 1464.",
+   "Telewski F. W., Zeevaart J. A. D. (2002). The 120-yr period for Dr. Beal's seed viability experiment. American Journal of Botany 89: 1285-1288. The 2021 bottle was reported by Michigan State University.",
+   "Roberts E. H. (1973). Predicting the storage life of seeds. Seed Science and Technology 1: 499-514. The source of the split between seeds that can be dried and seeds that cannot.",
+   "Harrington J. F. (1972). Seed storage and longevity. In Kozlowski T. T. (ed.), Seed Biology, volume 3. Academic Press. Drier and colder seeds live longer.",
+   "Williams R. J., Leopold A. C. (1989). The glassy state in corn embryos. Plant Physiology 89: 977-981.",
+   "Buitink J., Leprince O. (2004). Glass formation in plant anhydrobiotes: survival in the dry state. Cryobiology 48: 215-228.",
+   "Walters C., Wheeler L. M., Grotenhuis J. M. (2005). Longevity of seeds stored in a genebank: species characteristics. Seed Science Research 15: 1-20.",
+   "FAO (2014). Genebank Standards for Plant Genetic Resources for Food and Agriculture. Storage at about minus 18 degrees Celsius, and regrowing when viability falls below 85 percent of its starting value.",
+   "Keilin D. (1959). The problem of anabiosis or latent life: history and current concept. Proceedings of the Royal Society B 150: 149-191. The source of the word cryptobiosis.",
+   "Tepfer D., Zalar A., Leach S. (2012). Survival of plant seeds, their UV screens, and nptII DNA for 18 months outside the International Space Station. Astrobiology 12: 517-528.",
+   "Harris D., Joshi A., Khan P. A., Gothkar P., Sodhi P. S. (1999). On-farm seed priming in semi-arid tropical India. Experimental Agriculture 35: 15-29.",
+   "Indian Minimum Seed Certification Standards (Government of India): minimum germination of 75 percent for green gram (moong)."
+  ]
+ },
+ "how_we_found_out": {
+  "context": "How did people find out how long a seed can stay alive? This card tells the true story, including a claim that turned out to be wrong.",
+  "story": "In the 1800s, many people in Europe believed that wheat from ancient Egyptian tombs had been sown and had grown. The grain was said to be 3,000 years old, and sellers offered 'mummy wheat' for gardens. Botanists then tested grain that truly came from tombs. Not one grain germinated. The grain was brown and brittle, and the embryos were dead. So how long can a seed really live? In 1879, William James Beal began a test to find out. He was a botanist at a college in Michigan in the United States. He filled 20 glass bottles with slightly damp sand. Into each bottle he mixed 50 seeds from each of 21 kinds of common weeds. He buried the bottles with their open mouths tilted down, so that rain could not fill them. Every few years a bottle was dug up and the seeds were sown. Beal knew the test would outlast him. In 2021, a team dug up a bottle after 142 years, and seeds of moth mullein still germinated. The last bottle is due to be opened in 2100.",
+  "who": "William James Beal, an American botanist, and the scientists at Michigan State University who have carried on his test",
+  "when": "The bottles were buried in 1879. A bottle was opened in 2021, after 142 years. The last one is due in 2100.",
+  "wrong_idea": "That wheat from Egyptian tombs, about 3,000 years old, could still grow. Tests on real tomb grain showed that it was dead. Beal's buried bottles then measured how long seeds really live, with seeds whose age was known.",
+  "art": "A man in nineteenth-century clothes kneeling by a hole in a lawn, placing a glass bottle of sand in the ground with its open mouth tilted downwards."
+ },
+ "roots": {
+  "context": "In this unit you froze dry seeds and soaked seeds, and you dried seeds that had started to wake. Here we ask what a waiting seed shows about life, and about ourselves.",
+  "deep_truth": {
+   "truth": "In the Freezer Test, dry moong lived through a night in the freezer, and soaked moong died. In No Going Back, moong who were dried after their roots came out died too. A dry seed can live through cold and drying that kill a seedling. So a plant is toughest as a dry seed, and once the root is out there is no way back.",
+   "habit": "We think of a seed as the small, helpless start of a plant. We think of the grown plant as the strong one. Against cold and drought it is the other way round. The dry seed is the form in which a plant survives what no leaf or root can.",
+   "evidence": "In the Freezer Test, dry moong from the freezer germinated about as well as dry moong from the shelf. Soaked moong from the freezer did not germinate. In No Going Back, seeds dried before the root appeared woke again. Seeds dried after the root appeared mostly did not. Seed banks freeze dry seeds for a hundred years. If your own results were different, write down what you saw."
+  },
+  "three": {
+   "who_am_i": "Your body cannot stop and wait. Your heart must beat every second, and you must drink every day. You began as one cell that started growing and never paused.",
+   "what_is_life": "Life does not have to keep moving to stay alive. A seed can become almost still for years, and then carry on from where they stopped.",
+   "what_is_this_world": "The soil under a field, a park or a flower pot holds living seeds that nobody sowed. The ground is full of plants who are waiting."
+  },
+  "thread": "A dry seed and a growing plant are one living being in two forms. One form is hard, dry and still, and can wait for a thousand years. The other form is soft, wet and growing, and cannot wait for a week without water. Every flowering plant passes from stillness to growth and back to stillness, as seed, plant and seed again. Many sages taught that stillness is the source that all moving things come from and return to.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.12",
+    "teaching": "Uddalaka asks his son Shvetaketu to split a banyan seed and say what is inside. The boy sees nothing at all. His father says that the great banyan tree stands up out of that fine essence which he cannot see.",
+    "link": "A dry seed shows nothing when you open one: no movement, no growth. Yet the whole plant is there, held still. The Upanishad uses the seed to teach about the self, which science does not test."
+   },
+   {
+    "source": "The Gospel of John 12:24",
+    "teaching": "Unless a grain of wheat falls into the earth and dies, the grain stays alone. If the grain dies, a great harvest follows.",
+    "link": "A seed that germinates stops being a seed for good, as No Going Back showed. A seed that never wakes stays one seed. The verse uses this to teach about giving oneself, which is a teaching and not a finding."
+   },
+   {
+    "source": "Tao Te Ching 16",
+    "teaching": "All things rise and grow, and each one returns to its root. Returning to the root is called stillness.",
+    "link": "A plant's year ends in seeds, which are the plant made still. From that stillness the next growth begins."
+   }
+  ],
+  "science": [
+   {
+    "text": "In a dry seed, the inside of each cell sets into a glassy solid in which molecules can hardly move. This is why the seed's chemistry almost stops.",
+    "status": "settled"
+   },
+   {
+    "text": "Tardigrades, some mosses and some ferns can also dry out, wait for years and become active again. This ability has arisen in many branches of life.",
+    "status": "settled"
+   },
+   {
+    "text": "Whether a very dry, very cold seed has any activity at all, or none, is not known. Any activity is too small to measure so far.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Some biologists who study dried and frozen living things",
+   "view": "Life is a set of activities: feeding, respiring, repairing, growing. A fully dry seed does none of them, so at that time the seed is not living. The seed is a very well kept set of parts that can start living again. On this view, 'alive' and 'dead' are not enough, and a third word is needed for the dry seed."
+  },
+  "practice": {
+   "title": "Still as a seed",
+   "mins": 3,
+   "say": "Hold one dry seed in your closed hand. Sit as still as you can for one minute. Do not move a finger. Now notice what did not stop. Your breath went in and out. Your heart kept beating. The seed in your hand has been stiller than that for months. Open your hand and look at the seed for three slow breaths.",
+   "kid": "Hold a dry seed in your fist. Sit very still for one minute. Notice your breath. Notice your heartbeat. You could not stop them. The seed has been still for months. Open your hand and look."
+  },
+  "ask": [
+   "A lotus seed did almost nothing for 1,300 years, and then grew. What was the seed during all those years?",
+   "Once the root is out, a seed cannot go back. If you were a seed, what would you want to be sure of before you woke?",
+   "You cannot become still and wait, as a seed can. What can a seed do that you cannot, and what can you do that a seed cannot?"
+  ],
+  "art": "A child sitting cross-legged with one closed fist held in her lap and her eyes shut, and a faint drawing of a tall plant rising from the fist."
+ },
+ "playtest": "Read through step by step as a parent and child in a city flat would use it. The experiments were reasoned through carefully but have not been tried at home. Please treat the expected results as likely and not certain. The Freezer Test (core) needs 80 whole moong, four plates, cloths and a freezer. Dry moong should germinate almost fully after a night in the freezer, and soaked moong should not. If the freezer is weak or the soaked seeds sat in a thick heap, a few soaked seeds may live. No Going Back (core) needs 65 moong and a fan or an airy shelf. Seeds dried before a root shows should grow again. Seeds dried with a root of about 1 centimetre should mostly fail, though a few may grow a new root. In damp monsoon weather the drying takes a day longer. Three Jars, Three Weeks needs three jars with tight lids. The damp jar usually grows mould, so a grown-up opens the jar by a window. In a cool room the seeds in damp air die more slowly. The project then needs four or five weeks. If water drips onto the pouch, some seeds may sprout inside the jar. The step says to write that down. The Rag Doll Test works with any whole seeds, and chana and lobia need one more day. Four Days, Four Drawings (core) needs 8 kabuli chana. Read the Five Jars (core) needs only a pencil, and its table is made up. Scoop and Guess (core) needs 45 rajma and 25 kabuli chana, and one child can play it alone. The Power Cut needs three ice cubes. In a cool room the bare cube may take longer than 90 minutes to melt. Nothing needs a garden. Facts to treat with care: the ages of the lotus seed (about 1,300 years) and the date seed (about 2,000 years) come from carbon dating and are rounded. The numbers of samples at Svalbard and at India's National Genebank grow every year. The Bible, Upanishad and Tao Te Ching passages are paraphrases. Two of the three videos have no address yet."
+}
