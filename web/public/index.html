@@ -5649,12 +5649,6 @@ header.top .hello b {
 .tline.done .ck {
   animation: fxtick 0.35s ease;
 }
-.obhero {
-  width: 100%;
-  max-height: 120px;
-  object-fit: cover;
-  border-radius: 16px;
-}
 header.top::after {
   display: none !important;
 }
@@ -7144,53 +7138,6 @@ select.inp {
   background-size: 22px;
 }
 /* sign-up: pick-one rows with a clear tick, and the Continue button always in view */
-.obopts {
-  display: grid;
-  gap: 10px;
-}
-.obopt {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 12px;
-  align-items: center;
-  text-align: left;
-  padding: 12px 14px;
-  border: 1.5px solid var(--rule);
-  border-radius: var(--r-lg);
-  background: var(--surface);
-}
-.obopt[aria-pressed="true"] {
-  border-color: var(--forest);
-  background: color-mix(in srgb, var(--forest) 8%, #fff);
-}
-.obopt b {
-  display: block;
-  font: 700 var(--fs-5) var(--body);
-  color: var(--ink);
-}
-.obd {
-  font-size: var(--fs-3);
-  color: var(--muted);
-}
-.obtick {
-  display: grid;
-  place-items: center;
-  width: 26px;
-  height: 26px;
-  border-radius: 50%;
-  border: 2px solid var(--rule);
-  background: #fff;
-  color: #fff;
-  font: 700 var(--fs-3) var(--body);
-  font-style: normal;
-}
-.obopt[aria-pressed="true"] .obtick {
-  border-color: var(--forest);
-  background: var(--forest);
-}
-.obopt[aria-pressed="true"] .obtick::after {
-  content: "✓";
-}
 .obnav {
   position: fixed;
   bottom: 0;
@@ -7220,9 +7167,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="6faae95d9c8d278fd1";window.DK_APPV="6faae95d9c";window.DK_DATAV="8d271c7988"</script>
-<script src="/config.js?v=6faae95d9c8d278fd1"></script>
+<script>window.DK_BUILD="13969d288d8d278fd1";window.DK_APPV="13969d288d";window.DK_DATAV="8d271c7988"</script>
+<script src="/config.js?v=13969d288d8d278fd1"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=6faae95d9c8d278fd1"></script>
+<script src="/platform.js?v=13969d288d8d278fd1"></script>
 </body>
 </html>

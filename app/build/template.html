@@ -5637,12 +5637,6 @@ header.top .hello b {
 .tline.done .ck {
   animation: fxtick 0.35s ease;
 }
-.obhero {
-  width: 100%;
-  max-height: 120px;
-  object-fit: cover;
-  border-radius: 16px;
-}
 header.top::after {
   display: none !important;
 }
@@ -7132,53 +7126,6 @@ select.inp {
   background-size: 22px;
 }
 /* sign-up: pick-one rows with a clear tick, and the Continue button always in view */
-.obopts {
-  display: grid;
-  gap: 10px;
-}
-.obopt {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 12px;
-  align-items: center;
-  text-align: left;
-  padding: 12px 14px;
-  border: 1.5px solid var(--rule);
-  border-radius: var(--r-lg);
-  background: var(--surface);
-}
-.obopt[aria-pressed="true"] {
-  border-color: var(--forest);
-  background: color-mix(in srgb, var(--forest) 8%, #fff);
-}
-.obopt b {
-  display: block;
-  font: 700 var(--fs-5) var(--body);
-  color: var(--ink);
-}
-.obd {
-  font-size: var(--fs-3);
-  color: var(--muted);
-}
-.obtick {
-  display: grid;
-  place-items: center;
-  width: 26px;
-  height: 26px;
-  border-radius: 50%;
-  border: 2px solid var(--rule);
-  background: #fff;
-  color: #fff;
-  font: 700 var(--fs-3) var(--body);
-  font-style: normal;
-}
-.obopt[aria-pressed="true"] .obtick {
-  border-color: var(--forest);
-  background: var(--forest);
-}
-.obopt[aria-pressed="true"] .obtick::after {
-  content: "✓";
-}
 .obnav {
   position: fixed;
   bottom: 0;
@@ -23379,9 +23326,8 @@ function accountCard() {
        : ""
    }</section>`;
 }
-function startOnboarding(step) {
+function startOnboarding() {
   ob = {
-    step: step ?? 0,
     d: JSON.parse(
       JSON.stringify({
         child: S.child,
@@ -23411,18 +23357,25 @@ function obKeepName() {
   const n = document.getElementById("obName");
   if (n) ob.d.child = n.value;
 }
-// First page: who is learning, which track, which subjects. Second page: the level of each subject, the week, then the plan is built.
+// the whole set-up is one small form: who is learning and how, with subjects and levels already chosen for the age
 const obTrack = (d) => {
   const isB = ["ncert", "cambridge", "nios"].includes(d.board),
-    opt = (on, attr, name, text, tag) =>
-      `<button type="button" class="obopt" aria-pressed="${on}" ${attr}><i class="obtick"></i><span><b>${name}${tag ? ` <span class="pill">${tag}</span>` : ""}</b><span class="obd">${text}</span></span></button>`;
-  return `<h2 class="obh">How do you want to learn?</h2><p class="muted">Pick one. You can change it later.</p><div class="obopts">
-    ${opt(d.board === "combined", 'data-b="combined"', "DeepKids track", "Led by topics: every topic NCERT, Cambridge and NIOS teach in a class, and much more.", "Recommended")}
-    ${opt(isB, 'data-obtrack="board"', "Board track", "Led by your textbook, chapter by chapter, with our quizzes and worksheets alongside.")}
-    ${opt(d.board === "waldorf", 'data-b="waldorf"', "Waldorf (Steiner)", "A way of teaching, not a board: stories, arts and handwork, the Indian way.")}</div>
+    cur = isB ? "board" : d.board,
+    say = {
+      combined: "Led by topics: every topic NCERT, Cambridge and NIOS teach in a class, and much more. Recommended.",
+      board: "Led by your textbook, chapter by chapter, with our quizzes and worksheets alongside.",
+      waldorf: "A way of teaching, not a board: stories, arts and handwork, the Indian way.",
+    }[cur];
+  return `<div class="field"><span>How do you want to learn?</span><div class="seg">${[
+    ["combined", 'data-b="combined"', "DeepKids"],
+    ["board", 'data-obtrack="board"', "Board"],
+    ["waldorf", 'data-b="waldorf"', "Waldorf"],
+  ]
+    .map(([k, a, n]) => `<button type="button" aria-pressed="${cur === k}" ${a}>${n}</button>`)
+    .join("")}</div><span class="xs muted">${say}</span></div>
     ${
       isB
-        ? `<h2 class="obh">Which boards?</h2><p class="muted">Pick one or more. The plan follows the first one you pick.</p><div class="row chips">${[
+        ? `<div class="field"><span>Which boards? Pick one or more. The plan follows the first.</span><div class="row chips">${[
             ["ncert", "NCERT / CBSE"],
             ["cambridge", "Cambridge Primary"],
             ["nios", "NIOS"],
@@ -23431,12 +23384,12 @@ const obTrack = (d) => {
               ([k, n]) =>
                 `<button type="button" class="chip" aria-pressed="${d.boards.includes(k)}" data-obb="${k}">${d.boards.includes(k) ? (d.boards.indexOf(k) === 0 ? "1st · " : "✓ ") : ""}${n}</button>`,
             )
-            .join("")}</div>`
+            .join("")}</div></div>`
         : ""
     }`;
 };
 const obSubjects = (d) =>
-  `<h2 class="obh">Which subjects?</h2><p class="muted">Tap to leave one out or bring it back.</p><div class="row chips">${visSubj(
+  `<h2 class="obh">Subjects</h2><p class="muted">Tap to leave one out or bring it back.</p><div class="row chips">${visSubj(
     d.board,
   )
     .map(
@@ -23447,54 +23400,38 @@ const obSubjects = (d) =>
 const obLevels = (d) => {
   const sug = Math.min(5, Math.max(1, (d.age || 8) - 5));
   return `<h2 class="obh">Level for each subject</h2><p class="muted">Pick where ${esc(d.child || "your child")} is now in each subject, or take a 2-minute quiz together. Most ${d.age || 8}-year-olds are around Class ${sug}, but go by your child.</p>
-   ${d.subjects.map((x) => `<div class="card ${subjClass(x)}"><b class="fs5">${SUBJ[x]}</b><div class="row" style="gap:6px">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${!!d.picked[x] && d.levels[x] === l}" data-oblvl="${x}:${l}">Class ${l}</button>`).join("")}</div><div class="row" style="justify-content:space-between">${fxHasPQ(x) ? `<button type="button" class="btn soft sm" data-obquiz="${x}">Not sure? Quiz</button>` : "<span></span>"}<select class="inp" style="width:auto" data-hpd="${x}" aria-label="${SUBJ[x]} time a day">${[0.25, 0.5, 0.75, 1, 1.5, 2, 3].map((v) => `<option value="${v}" ${(d.hpd || DEF_HPD)[x] === v ? "selected" : ""}>${v * 60} min a day</option>`).join("")}</select></div></div>`).join("")}`;
+   ${d.subjects.map((x) => `<div class="card ${subjClass(x)}"><b class="fs5">${SUBJ[x]}</b><div class="row" style="gap:6px">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}">Class ${l}</button>`).join("")}</div><div class="row" style="justify-content:space-between">${fxHasPQ(x) ? `<button type="button" class="btn soft sm" data-obquiz="${x}">Not sure? Quiz</button>` : "<span></span>"}<select class="inp" style="width:auto" data-hpd="${x}" aria-label="${SUBJ[x]} time a day">${[0.25, 0.5, 0.75, 1, 1.5, 2, 3].map((v) => `<option value="${v}" ${(d.hpd || DEF_HPD)[x] === v ? "selected" : ""}>${v * 60} min a day</option>`).join("")}</select></div></div>`).join("")}`;
 };
-const obWeek = (d) => {
-  const N = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-    L = { full: "Lessons", free: "Free day" },
-    W = d.weekType || FXWT0;
-  return `<h2 class="obh">Your week</h2><p class="muted">Tap a day to make it a free day, with no lessons.</p><div class="col" style="gap:8px">${[1, 2, 3, 4, 5, 6, 0].map((x) => `<button type="button" class="choice" data-obwt="${x}"><span><b>${N[x]}</b><span>${L[W[x] || "full"]}</span></span></button>`).join("")}</div>
-    <div class="field"><label for="obEnd">Learning ends by</label><input class="inp" id="obEnd" type="time" value="${d.endAt || "18:30"}"></div>`;
-};
+// what will be set up, with a way to change the subjects and levels
+const obMore = (d) =>
+  `<div class="field"><p class="sm muted">${d.subjects.map((s) => `${SUBJ[s]} (Class ${d.picked[s] ? d.levels[s] : obCls(d)})`).join(", ")}. <button type="button" class="link sm" data-ob="more">${ob.more ? "Hide" : "Change subjects and levels"}</button></p>${ob.more ? obSubjects(d) + obLevels(d) : ""}</div>`;
 function viewOnboarding() {
   const d = ob.d;
   d.boards = d.boards || (["ncert", "cambridge", "nios"].includes(d.board) ? [d.board] : []);
   d.picked = d.picked || {};
   if (ob.quiz) return fxObQuiz();
-  if (ob.step === 0)
-    return `<div class="ob">${fxObBar(0)}<img class="obhero" src="media/ui/intro-play.jpg" alt=""><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div></div>${obTrack(d)}${obSubjects(d)}${fxObNav(false, `Continue${icon("next")}`)}</div>`;
-  return `<div class="ob">${fxObBar(1)}<h1>${esc(d.child || "Your child")}'s learning plan</h1>${obLevels(d)}${obWeek(d)}${fxObNav(true, `Build my plan${icon("next")}`)}</div>`;
+  return `<div class="ob"><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div></div>${obTrack(d)}${obMore(d)}${fxObNav(`Build my plan${icon("next")}`)}</div>`;
 }
-// Checks the current step, then moves on; the last step builds the plan
+// Checks the form, then builds the plan
 function obNext() {
   const d = ob.d,
-    s = ob.step,
     no = (msg) => {
       sfx("no");
       toast(msg);
     };
-  if (s === 0) {
-    d.child = (document.getElementById("obName")?.value || "").trim();
-    if (!d.child) return no("Type your child's name");
-    if (!d.age) return no("Pick an age");
-    if (!d.board || d.board === "none") return no("Pick a track");
-    if (["ncert", "cambridge", "nios"].includes(d.board) && !d.boards.length) return no("Pick at least one board");
-    if (d.board === "combined" || d.board === "waldorf") d.boards = [];
-    d.mode = "booksplus";
-    if (!d.subjects.length) return no("Pick at least one subject");
-    ob.step = 1;
-    render();
-    scrollTo(0, 0);
-    return;
-  }
-  const miss = d.subjects.filter((x) => !d.picked[x]);
-  if (miss.length) return no("Pick a level for " + miss.map((x) => SUBJ[x]).join(", "));
-  const e = document.getElementById("obEnd");
-  if (e?.value) d.endAt = e.value;
-  // build the plan
-  const end = d.endAt;
-  if (end) S.dayOver = S.dayOver || {};
-  delete d.endAt;
+  d.child = (document.getElementById("obName")?.value || "").trim();
+  if (!d.child) return no("Type your child's name");
+  if (!d.age) return no("Pick an age");
+  if (!d.board || d.board === "none") return no("Pick how you want to learn");
+  if (["ncert", "cambridge", "nios"].includes(d.board) && !d.boards.length) return no("Pick at least one board");
+  if (d.board === "combined" || d.board === "waldorf") d.boards = [];
+  d.mode = "booksplus";
+  if (!d.subjects.length) return no("Pick at least one subject");
+  // a subject whose level was not chosen starts at the class that suits the age
+  d.subjects.forEach((x) => {
+    if (!d.picked[x]) d.levels[x] = obCls(d);
+    d.picked[x] = 1;
+  });
   if (d.board === "none") d.mode = "plus";
   d.mode = d.mode || "booksplus";
   d.plus = d.mode !== "books";
@@ -23504,10 +23441,6 @@ function obNext() {
   commit();
   sfx("win");
   confetti();
-  if (end) {
-    S.day = { ...(S.day || {}), endAt: end };
-    commit();
-  }
   const f = dayFit();
   if (f.n && f.need > f.have)
     setTimeout(
@@ -23613,16 +23546,13 @@ function lvqStep(Q, knew) {
   return Math.max(1, Q.best || Math.max(1, Q.low - 1));
 }
 const fxHasPQ = (s) => [1, 2, 3, 4, 5].every((l) => fxPQ(s, l).length);
-const fxObNav = (back, label) =>
-  `<div class="row obnav" style="justify-content:space-between">${back ? `<button class="btn soft" data-ob="back">Back</button>` : "<span></span>"}<button class="btn" data-ob="next">${label}</button></div>`;
+const fxObNav = (label) =>
+  `<div class="row obnav" style="justify-content:flex-end"><button class="btn" data-ob="next">${label}</button></div>`;
 function fxObQuiz() {
-  return `<div class="ob">${fxObBar(1)}${lvqCard(ob.quiz, "data-obqa")}</div>`;
+  return `<div class="ob">${lvqCard(ob.quiz, "data-obqa")}</div>`;
 }
 
 /* Today: the week strip is gone (the calendar below already moves day by day) */
-function fxObBar(n) {
-  return `<div class="fxstep"><b><i style="width:${Math.round(((n + 1) / 2) * 100)}%"></i></b></div>`;
-}
 
 /* What this file's buttons do, by their data-act name; the click handler in 21-actions.js calls ACT[name](button, event, name, b.dataset.k) */
 Object.assign(ACT, {
@@ -25352,7 +25282,7 @@ function renderMain() {
     m.replaceChildren(htmlToEl(`<div class="wrap"><p class="muted acctload">Opening your family's plan…</p></div>`));
     return;
   }
-  if (!S.setup && !ob) return startOnboarding(0);
+  if (!S.setup && !ob) return startOnboarding();
   nav.hidden = !!ob;
   document.getElementById("me").hidden = !!ob;
   document.getElementById("guideBtn").hidden = !!ob;
@@ -25370,7 +25300,7 @@ function renderMain() {
     !ob && nightDue()
       ? `<button class="nightbar" data-act="night">${blob("var(--peri)", 17, "sleepy", "", 'width="34" height="34"')}<span><b>Get ready for tomorrow</b><br><span class="xs">${nightItems().filter((p) => !S.prep[p.id]).length} things to set up tonight for tomorrow's lessons · tap to see them</span></span>${icon("next")}</button>`
       : "";
-  const vk = ob ? "ob" + ob.step : tab,
+  const vk = ob ? "ob" : tab,
     kept = ui.lastView === vk ? keepInputs(m) : null;
   ui.lastView = vk;
   m.replaceChildren(
@@ -25389,10 +25319,7 @@ function renderMain() {
 function fxCrumbs() {
   if (!ACC) return "";
   if (ob) {
-    const N = ["About your child", "Your plan"];
-    return N.slice(0, ob.step + 1)
-      .map((n, i) => (i < ob.step ? `<button class="fxcr" data-fxob="${i}">${n}</button><i>›</i>` : `<b>${n}</b>`))
-      .join("");
+    return "<b>Set up</b>";
   }
   const T = { today: "Today", week: "Plan", journey: "Progress", library: "Library" },
     parts = [T[tab] || "Today"];
@@ -25424,7 +25351,7 @@ function fxWay() {
   }
   c.innerHTML = fxCrumbs();
   const b = document.getElementById("backTop");
-  if (b) b.hidden = !ACC || (tab === "today" && !ui.tday && !navHist.length && !(ob && ob.step > 0));
+  if (b) b.hidden = !ACC || (tab === "today" && !ui.tday && !navHist.length && !ob?.quiz);
 }
 const fxHome = () => {
   if (ob) {
@@ -25477,7 +25404,7 @@ Object.assign(ACT, {
   },
   redo(b, e, a, k) {
     sheet.close();
-    startOnboarding(1);
+    startOnboarding();
   },
 });
 
@@ -25530,8 +25457,8 @@ function onAct(e) {
     obKeepName();
     sfx("tap");
     if (t.dataset.ob === "next") return obNext();
-    if (t.dataset.ob === "back") {
-      ob.step--;
+    if (t.dataset.ob === "more") {
+      ob.more = !ob.more;
       return render();
     }
     if (t.dataset.age) d.age = +t.dataset.age;
@@ -26486,17 +26413,6 @@ document.addEventListener(
       render();
       return;
     }
-    const wt = t.closest("[data-obwt]");
-    if (wt) {
-      e.preventDefault();
-      e.stopPropagation();
-      const x = +wt.dataset.obwt,
-        W = { ...(d.weekType || FXWT0) };
-      W[x] = W[x] === "free" ? "full" : "free";
-      d.weekType = W;
-      render();
-      return;
-    }
     const qz = t.closest("[data-obquiz]");
     if (qz) {
       e.preventDefault();
@@ -26590,12 +26506,10 @@ document.addEventListener(
     }
     const b = e.target.closest("#backTop");
     if (!b) return;
-    if (ob && ob.step > 0) {
+    if (ob?.quiz) {
       e.preventDefault();
       e.stopPropagation();
-      if (ob.quiz) {
-        ob.quiz = null;
-      } else ob.step--;
+      ob.quiz = null;
       render();
       scrollTo(0, 0);
       return;
@@ -26609,20 +26523,6 @@ document.addEventListener(
       render();
       scrollTo(0, 0);
     }
-  },
-  true,
-);
-document.addEventListener(
-  "click",
-  (e) => {
-    const c = e.target.closest("[data-fxob]");
-    if (!c || !ob) return;
-    e.preventDefault();
-    e.stopPropagation();
-    ob.quiz = null;
-    ob.step = +c.dataset.fxob;
-    render();
-    scrollTo(0, 0);
   },
   true,
 );
