@@ -6,7 +6,7 @@
 **Intro.** *Hold a bunch of keys by its ring and let the keys hang. Pull them a little to one side and let go. They swing back and forth by themselves. Now try a tiny push and then a big push. Does the big push make each swing quicker, or only wider?* Anything that hangs from one point and swings back and forth is a pendulum. Swings, cradles, jhumkas and the keys in your hand are all pendulums. In this unit you find out what makes a pendulum swing quickly or slowly. Make a guess now, and keep it. You will test it soon.
 
 ## Learning outcomes
-0. I can name the parts of a pendulum, the pivot, the string and the bob, and say what one full swing is.
+0. I can name the three parts of a pendulum (the pivot, the string and the bob) and say what one full swing is.
 1. I can explain why a pendulum swings back after I let it go, and say where it moves fastest.
 2. I can plan a fair test that changes one thing at a time, and time 10 full swings.
 3. I can say that a shorter string makes a pendulum swing quicker, and that more weight or a wider start change the time very little.
@@ -38,21 +38,21 @@ A pendulum has three parts. The pivot is the fixed point at the top. The string,
 ### Why a pendulum swings back and forth · *defined*
 **Definition:** Gravity pulls the bob down towards the middle. When it reaches the middle it is moving fast, so it carries on up the other side until gravity slows it to a stop. Then it falls back, and the swing repeats.
 
-When you pull the bob to one side, you lift it a little. Let go, and gravity pulls it down and back towards the middle. It goes faster and faster on the way down. At the very bottom it is moving fastest. A moving thing keeps moving unless something slows it, so the bob does not stop in the middle. It swings up the other side. Now gravity slows it down, until it stops for a moment at the far end. Then it falls back the other way. Each swing, its speed turns into height, and its height turns back into speed.
+When you pull the bob to one side, you lift it a little. Let go, and gravity pulls it down and back towards the middle. It goes faster and faster on the way down. At the very bottom it is moving fastest. A moving thing keeps moving unless something slows it, so the bob does not stop in the middle. It swings up the other side. Now gravity slows it down, until it stops for a moment at the far end. Then it falls back the other way. On the way down, the bob loses height and gets faster. On the way up, it gains height and gets slower.
 - e.g. On a swing, you feel your tummy flip at the bottom, where you move fastest.
-- e.g. At the very top of each swing, a swing stops for a moment before it comes back.
+- e.g. A playground swing stops for a moment at the highest point on each side, before it comes back.
 - e.g. A bag of coins on a thread comes back almost to the same height it started from.
 ### What changes the swing time: the length · *defined*
 **Definition:** The time for one full swing depends on the length of the pendulum. A shorter pendulum swings quicker. A longer one swings slower. For small swings, the weight of the bob and how wide it starts change the time very little.
 
-In the swing test, 5 coins and 1 coin both took about 14 seconds for 10 swings. A small start and a wide start took about 14 seconds too. But a thread one quarter as long took only about 7 seconds. Make a pendulum 4 times shorter, and it swings twice as fast. Weight does not matter for the same reason that a heavy and a light ball fall together. Gravity pulls a heavier bob harder, but a heavier bob also needs more force to get moving. The two cancel out. A wider start also takes nearly the same time, because the bob falls from higher and so moves faster over its longer path. Length is measured from the pivot to the middle of the bob, because that is where the weight is.
+In the swing test, 5 coins and 1 coin both took about 14 seconds for 10 swings. A small start and a wide start took about 14 seconds too. But a thread one quarter as long took only about 7 seconds. So making a pendulum 4 times shorter makes each swing take half the time. Why does weight not matter? Gravity pulls a heavier bob harder. But a heavier bob is also harder to get moving. These two effects are equal, so a heavy bob and a light bob swing in the same time. It is the same reason a heavy ball and a light ball fall together. A wider start takes nearly the same time too. The bob starts higher, so it moves faster, and it also has a longer path to cover. These two effects almost cancel as well. Length is measured from the pivot to the middle of the bob, because that is where the weight is.
 - e.g. A pendulum 25 cm long takes about 1 second for one full swing. One 1 metre long takes about 2 seconds.
 - e.g. A small child and a grown-up on the same swing take about the same time for each swing.
 - e.g. The swing for little children, with short ropes, swings back and forth quicker than a tall swing.
 ### Very wide swings take a little longer · *defined*
 **Definition:** For swings up to about a hand-width or two, the time hardly changes. A very wide swing, high up to the side, takes a little longer than a small one.
 
-Galileo thought every swing takes exactly the same time, however wide. Later, Christiaan Huygens worked out that this is only nearly true. A pendulum let go from far out to the side, almost level with the pivot, takes about one sixth longer for each swing than a small one. For the swings in your test, the difference is only a few tenths of a second in 10 swings. That is about as much as a stopwatch press can be off by. This is why clock pendulums swing only a little way each side.
+Galileo thought every swing takes exactly the same time, however wide. Later, Christiaan Huygens worked out that this is only nearly true. A pendulum let go from far out to the side, almost level with the pivot, takes about one sixth longer for each swing than a small one. For the swings in the Swing Test, the difference is only a few tenths of a second in 10 swings. That is about as much as a stopwatch press can be off by. This is why clock pendulums swing only a little way each side.
 - e.g. In the swing test, the wide start may take 14.4 seconds and the small start 14.2 seconds.
 - e.g. A wall clock's pendulum swings only a few centimetres each way.
 ### Why a swing slows down and stops · *defined*
@@ -67,7 +67,7 @@ If nothing slowed it, a pendulum would swing for ever. But it moves through air,
 When you push a friend on a swing, you push each time they come back to you. Each push adds a little to the swing. Because the pushes come at the swing's own beat, they add up, and your friend goes higher and higher. If you push at the wrong moment, while the swing is still coming towards you, you slow it down instead. You can try this with your coin pendulum. Hold the top of the thread and move your hand a tiny bit side to side, in time with the swing. The swing grows. Move your hand too fast or too slow, and it stays small.
 - e.g. Pushing a swing each time it comes back to you.
 - e.g. Children on an Onam oonjal swing higher by leaning and pulling in time with each swing.
-- e.g. Soldiers break step when they march across a bridge, so their steps don't add up to shake it.
+- e.g. Soldiers stop marching in step when they cross a bridge, so their steps don't add up to shake it.
 ### How pendulums keep time in clocks · *defined*
 **Definition:** A pendulum of a fixed length always takes the same time for each swing, so a clock can count its swings to measure time. A small part of the clock gives the pendulum a tiny push on each swing, so it never dies down.
 
@@ -110,7 +110,7 @@ Hoolock gibbons are India's only apes. They live high in the forests of Assam an
 ## Roots
 We have learned that a pendulum's beat is set by its length, and how clocks count that beat. Now we ask what swings tell us about ourselves and the world.
 
-**Deep truth.** Ten swings took about the same time with one coin or five, from a small start or a wide one. Only a shorter string made the swings quicker. The length and the Earth's pull set the beat, and your push only sets how wide it swings. So every pendulum of one length keeps the same time here, and that is how clocks were made.  
+**Deep truth.** In the Swing Test, ten swings took about the same time with one coin or five, and from a small start or a wide one. Only a shorter string made the swings quicker. The length and the Earth's pull set the beat, and your push only sets how wide it swings. So every pendulum of the same length keeps the same time on Earth, and that is why pendulums could be used to make clocks.  
 *Habit it breaks:* We expect a bigger push or a heavier weight to make things go faster, as if speed always comes from effort. A pendulum keeps its own beat whatever we do to it. The steady time of a clock was not made by people. Clockmakers found a beat that the Earth's pull and a length of string already keep, and counted it.  
 *Evidence:* In the Swing Test, 1 coin and 5 coins both took about 14 seconds for 10 swings, and so did a wide start. A thread a quarter as long took about 7 seconds.
 
@@ -118,7 +118,7 @@ We have learned that a pendulum's beat is set by its length, and how clocks coun
 - *what is life:* Hoolock gibbons in the forests of Assam swing through the trees like pendulums, letting gravity carry them to the next branch.
 - *what is this world:* The Earth's pull sets the beat of every pendulum on it. On the Moon, the same pendulum would swing about two and a half times more slowly.
 
-A pendulum at rest hangs straight down, perfectly balanced. Pull it to one side and let go, and it swings across to the other side and back. Every swing to the left is matched by a swing to the right, around that still middle. Out of one still balance comes a rhythm that repeats again and again. People counted that rhythm and turned it into hours, days and calendars that a whole world shares.
+A pendulum at rest hangs straight down. Pull it to one side and let go, and it swings across to the other side and back. Every swing to the left is matched by a swing to the right, around the middle where it rests. So a weight that was hanging still gives a beat that repeats again and again. People counted that beat and turned it into hours, days and calendars that the whole world shares.
 
 - **Tao Te Ching 40:** Returning is the movement of the Tao. (A pendulum always turns back towards its middle. Its whole movement is made of going out and returning.)
 - **Bhagavad Gita 2.14:** Heat and cold, pleasure and pain, come and go. They do not last. Bear them patiently. (A swing goes up on one side and up on the other, but its resting point stays where it is. The swing changes all the time around a middle that does not move.)
@@ -225,7 +225,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Child mode:* Find the slowest card in the pack. Why is it the slowest?
   - Ask: Which is the slowest card, and why? (good: The 4 metre string, because it is the longest.; The bucket and the coin on 4 metres tie, because weight doesn't matter.)
 ### g2 · Pendulum Says: an acting game (10 min)
-- **rules:** Everyone except the caller stands with space around them and lets one arm hang down like a pendulum.; The caller starts everyone swinging gently at a steady beat.; The caller reads only the capital words on a card, not the brackets. Everyone changes their swing to match.; The caller watches each player and marks a tick for a right swing or a cross for a wrong one on the beat check sheet.; Take turns being the caller. When all 12 cards are read, the player with the most ticks wins.
+- **rules:** Everyone except the caller stands with space around them and lets one arm hang down like a pendulum.; The caller starts everyone swinging gently at a steady beat.; The caller reads only the words in capitals on a card, not the words in brackets. Everyone changes their swing to match.; The caller watches each player and marks a tick for a right swing or a cross for a wrong one on the beat check sheet.; Take turns being the caller. When all 12 cards are read, the player with the most ticks wins.
 - **Printable cards: 12 caller cards:** LONG STRING! (swing your arm slowly); SHORT STRING! (swing your arm quickly); HEAVIER BOB! (trick card: keep the same beat); LIGHTER BOB! (trick card: keep the same beat); WIDE START! (swing wider, but keep almost the same beat); SMALL START! (swing smaller, same beat); AIR RESISTANCE! (let your swing get smaller and smaller, same beat); PUSH AT THE RIGHT TIME! (each swing gets a little bigger); PUSH AT THE WRONG TIME! (your swing jerks and gets smaller); ON THE MOON! (swing much more slowly); CLOCK! (swing small and steady, and say tick, tock); GIBBON! (swing your arm forward and pretend to grab a branch)
 - **Printable score sheet: Beat check sheet:** Card; Did I speed up, slow down or keep the beat?; Was that right? (tick or cross)
 - **s1 (2 min)**  
@@ -240,7 +240,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 - **s3 (2 min)**  
   *Parent does:* Try the real thing. Hold your arm straight and let it swing, then bend it at the elbow and let it swing.  
   *Parent says:* Now swing your straight arm, then your bent arm. Which one swings quicker by itself?  
-  *Child mode:* Swing your arm straight. Then bent. Which is quicker?
+  *Child mode:* Swing your arm straight. Then swing it bent. Which is quicker?
   - Ask: Why does a bent arm swing quicker? (good: Bending makes it shorter.; A shorter pendulum swings quicker.)
   - Note: A bent arm is a shorter pendulum, so it swings quicker on its own. This is why runners bend their arms.
 
@@ -278,7 +278,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Child mode:* Time a small start. Then a wide start. Write both times.
   - Note: Both should take about 14 seconds. The wide start may be a few tenths of a second longer. That small difference is real, and the explanation cards come back to it.
 - **s6 (5 min)**  
-  *Parent does:* 1. Wind the thread round the ruler's tip and tape it. 2. Stop when it is 12 and a half cm to the middle of the coins, a quarter of 50 cm. 3. Time 10 swings twice.  
+  *Parent does:* 1. Wind the thread round the ruler's tip until it is 12 and a half cm from the ruler to the middle of the coins. That is a quarter of 50 cm. 2. Tape the thread in place. 3. Time 10 swings twice.  
   *Parent says:* Test three changes only the length. The thread is now a quarter as long. Count quickly, because it will be fast.  
   *Child mode:* Make the thread short. Time 10 swings again. Count fast!
   - Note: This should take about 7 seconds, half the time. Count out loud with your child, because the swings come quickly.
@@ -286,11 +286,12 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Parent does:* Look at the whole table together. Circle the change that made a big difference.  
   *Parent says:* Which change made a big difference? Tell me what you think, what you saw and why.  
   *Child mode:* Which change made a big difference? Say what you think, what you saw and why.
-  - Ask: What did you find out? (good: What I think: only the length changes the swing time. What I saw: 1 coin and 5 coins both took about 14 seconds, but the short thread took 7. Why: the length sets the beat.)
-  - Check: In your test, which change made the swings much quicker? → **Making the thread shorter**
+  - Ask: What did you find out? (good: What I think: only the length changes the swing time. What I saw: 1 coin and 5 coins both took about 14 seconds, but the short thread took 7. Why: the time for each swing depends on how long the pendulum is.)
+  - Check: In the Swing Test, which change made the swings much quicker? → **Making the thread shorter**
 ### e2 · The One-Second Pendulum (20 min)
+- **problem:** A clock needs a pendulum that takes the same time for every swing. In this experiment you find the thread length that makes each full swing take exactly 1 second.
 - **question:** How long must the thread be so that one full swing takes exactly 1 second?
-- **predict:** 50 cm took about 14 seconds for 10 swings. 12 and a half cm took about 7 seconds. What length will take exactly 10 seconds? Why do you think so?
+- **predict:** In the Swing Test, the 50 cm thread took about 14 seconds for 10 swings. The 12 and a half cm thread took about 7 seconds. What length will take exactly 10 seconds? Why do you think so?
 - **fair test:** Use the same 5 coins and the same small start every time. Change only the length. Always count 10 swings, so that small timing mistakes matter less.
 - **record:** Write every length you tried and its time. Draw a star by the length that took 10 seconds.
 - **results table:** Length (cm, to the middle of the coins) | Seconds for 10 swings | Too slow, too quick or just right?
@@ -303,16 +304,17 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Parent does:* 1. Set the guessed length. 2. Time 10 swings. 3. If it took more than 10 seconds, make the thread shorter. If less, make it longer. 4. Repeat until it takes 10 seconds.  
   *Parent says:* Too slow? Make it shorter. Too quick? Make it longer. Change it a little at a time.  
   *Child mode:* Time 10 swings. Too slow? Shorter. Too quick? Longer. Try again.
-  - Note: The answer is about 25 cm. Many children guess about 30 cm, halfway between. The length is not halfway, because halving the time needs a quarter of the length.
+  - Note: The answer is about 25 cm. Many children guess about 30 cm, halfway between 12 and a half cm and 50 cm. The right length is not halfway, because halving the time needs a quarter of the length.
 - **s3 (5 min)**  
   *Parent does:* Use your one-second pendulum to time something. Count swings while your child hops on one foot, or while they say a times table.  
   *Parent says:* Now our pendulum is a clock. Each full swing is one second. How long can you hop on one foot?  
   *Child mode:* Your pendulum is a clock now. Count swings while you hop!
   - Check: You made a pendulum that takes 1 second for each full swing. Your friend wants one that takes 2 seconds. What should she do? → **Make the thread longer**
 ### e3 · What Makes a Swing Die Down? (25 min)
+- **problem:** A swing does not go on for ever. In this experiment you find out what slows a pendulum down, by taping a card to it so that it has to push through more air.
 - **question:** Does a pendulum that pushes more air stop swinging sooner?
 - **predict:** We will tape a postcard to the thread just above the coins. Will the pendulum with the card stop swinging sooner, later or at the same time? Will each swing take longer? Why do you think so?
-- **fair test:** Use the same length, the same coins and the same start for both. Change only the card. Stop the stopwatch at the same mark both times.
+- **fair test:** Use the same length, the same coins and the same start for both. Change only the card. Both times, stop the stopwatch when the bag no longer reaches the 10 cm mark.
 - **record:** Write both times. Draw the two pendulums and show with arrows where the air pushes.
 - **results table:** Pendulum | Seconds until it no longer reaches the 10 cm mark | Seconds for 10 swings at the start
 - **s1 (5 min)**  
@@ -359,6 +361,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Child mode:* What makes a swing quick or slow? Make a guess. Say why.
   - Ask: What is your guess? (good: Any guess with a reason. Keep it for the Swing Test.)
 ### a2 · Push at the Right Time (10 min)
+- **problem:** A small push at the right moment can make a swing go very high. In this activity you make a hanging bag swing high with tiny hand movements. You find out which movements work and which do not. This is called resonance.
 - **record:** Write what happened when you moved your hand in time, too fast and too slow.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold the top of the thread between finger and thumb, with the coin bag hanging still. 2. Move your hand very slightly side to side, no more than 1 cm, in time with the bag's own swing.  
@@ -376,6 +379,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Child mode:* When should you push a friend on a swing? Why?
   - Check: You push your friend on a swing. When should you push, to make them go higher? → **Just as they start to swing away from you**
 ### a3 · Two Pendulums Share a String (15 min)
+- **problem:** Every pendulum has its own beat, set by its length. In this activity you hang two pendulums of the same length from one string. You start one and watch what happens to the other. Then you change one length and try again.
 - **record:** Draw the two pendulums at the start, after 30 seconds and after a minute. Show which one is swinging.
 - **s1 (5 min)**  
   *Parent does:* 1. Put two chairs back to back, about 1 metre apart. 2. Tie the string between the chair backs, a little loose so it sags about 3 cm. 3. Hang two coin pendulums from it, 20 cm apart, each exactly 30 cm long.  
@@ -386,7 +390,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Parent says:* Only one is swinging. Watch the other one. What happens?  
   *Child mode:* Start one pendulum. Watch the other one. What happens?
   - Ask: What happened? (good: The still one started to swing.; The first one stopped, then started again.)
-  - Note: Within a minute or two the second one starts swinging and the first nearly stops. Then the swing passes back. This one is fussy. If nothing happens, check that the lengths match and the string is a little loose, and try again. The effect can be small, so treat it as a try.
+  - Note: Within a minute or two the second one starts swinging and the first nearly stops. Then the swing passes back. This activity does not work every time. If nothing happens, check that the lengths match and the string is a little loose, and try again. The effect can be small, so it is fine if you see only a little of it.
 - **s3 (4 min)**  
   *Parent does:* Make one pendulum 15 cm long and try again.  
   *Parent says:* Now they are different lengths. Does the swing still pass across?  
@@ -415,7 +419,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Parent does:* 1. Roll the paper into a cone and tape it. 2. Snip the tip to make a hole about 3 mm wide. 3. Tape three threads round the top rim and tie them together above. 4. Lay the broom across two chair backs. 5. Hang the cone from it on the string, about 5 cm above the dark paper on the floor. Shorten the string if needed.  
   *Parent says:* We are making a pendulum that draws. The salt will fall out of the tip as it swings.  
   *Child mode:* Make a paper cone. Hang it from the broom. Keep a finger on the hole.
-  - Note: If the salt doesn't flow, make the hole a little bigger. If it pours too fast, use fine salt instead of rava.
+  - Note: If the salt doesn't flow, make the hole a little bigger. If it pours too fast, tape over part of the hole.
 - **s2 (10 min)**  
   *Parent does:* 1. Fill the cone with salt, keeping a finger over the hole. 2. Pull it to one side and give it a small sideways push as you let go, so it swings in an oval. 3. Watch the pattern grow.  
   *Parent says:* Push it a little sideways as you let go, so it swings round in an oval. Watch what it draws.  
@@ -429,6 +433,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 
 ## Projects
 ### p1 · A Pendulum Wave (50 min, 2 days)
+- **problem:** Pendulums of different lengths have different beats, so the shorter ones swing quicker. In this project you hang five pendulums, each a little shorter than the last, and let go of all five together. You watch them drift apart into a wavy pattern, and then line up again.
 - **record:** Draw the pattern at the start, after a few seconds and after 15 seconds. Write how many swings each pendulum made in 15 seconds.
 - **schedule:** day 1: Hang five pendulums of lengths 39, 33, 28 and a half, 25 and 22 cm from a broom across two chairs. (25 min); day 2: Check each length by timing, let go of all five together and watch the wave. (25 min)
 - **s1 (25 min)**  
@@ -464,16 +469,16 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   *Parent does:* Compare the times.  
   *Parent says:* Which change helped most? Why do you think so?  
   *Child mode:* Which change helped most? Why?
-  - Check: Sindhu, a girl in Class 4, wants her pendulum to swing for longer. Which change should help most? → **Use a heavy, small bob on a thin thread**
+  - Check: You want your pendulum to swing for longer. Which change should help most? → **Use a heavy, small bob on a thin thread**
 ### c2 · A Beat for Music Practice (25 min)
-- **problem:** Kavya, a girl in Class 4, practises Carnatic songs and needs a steady beat. Build a pendulum that can give 60 full swings a minute, and then a quicker beat, without retying any knots.
+- **problem:** A singer practising Carnatic songs needs a steady beat. Build a pendulum that can give 60 full swings a minute, and then a quicker beat, without retying any knots.
 - **your turn:** Now design your own beat-keeper. Find the length for 60 swings a minute, then for a quicker beat. Mark them, and play a song along with it.
 - **constraints:** No retying knots once it is built.; It must change from 60 swings a minute to a quicker beat in under 10 seconds.; Use only things from home.
 - **general:** Wind the thread round a pencil at the pivot. Turn the pencil to wind it up shorter or let it out longer.; Mark the thread with a pen at the right lengths for each beat.
 - **creative:** Thread a bead on the string and pinch the thread against the bead to make the swinging part shorter.; Make a paper scale next to the thread that shows where to set it for slow, medium and quick beats.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem. Remind each other what length gave 1 second for each swing.  
-  *Parent says:* One full swing a second is 60 a minute. What length gave that before? How could we change the length without retying?  
+  *Parent does:* Read the problem. Remind each other what length gave 1 second for each full swing in the One-Second Pendulum experiment.  
+  *Parent says:* One full swing a second is 60 a minute. What length gave that in the One-Second Pendulum experiment? How could we change the length without retying?  
   *Child mode:* 60 swings a minute is one a second. What length was that?
 - **s2 (15 min)**  
   *Parent does:* 1. Lay a pencil across two stacks of books, with a heavy book on each end to hold it. 2. Wind the thread round the pencil, with the coin bag hanging in the gap. 3. Set it to about 25 cm and check 10 swings take 10 seconds. Mark the thread. 4. Lift a book a little and wind the thread shorter. 5. Stop when 10 swings take about 7 seconds. Mark that too.  
@@ -503,7 +508,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 7. (mcq) You time 10 swings of the same pendulum three times: 14.2, 14.5 and 14.3 seconds. Why are the times not exactly the same?  
    Options: The pendulum changes its length each time / The stopwatch is pressed a little early or late each time / Gravity changes between tries  
    **Answer:** The stopwatch is pressed a little early or late each time. *Why:* The pendulum keeps the same beat. Pressing the stopwatch a little early or late changes each time by a few tenths of a second. That is why we repeat a test.
-8. (mcq) Sneha, a girl in Class 4, has a pendulum takes 14 seconds for 10 swings. She starts it from twice as far out to the side. About how long will 10 swings take now?  
+8. (mcq) A pendulum takes 14 seconds for 10 swings. You start it from twice as far out to the side. About how long will 10 swings take now?  
    Options: About 7 seconds / About 14 seconds / About 28 seconds  
    **Answer:** About 14 seconds. *Why:* A wider start makes the bob travel further, but also faster, so the time stays about the same. It may be a few tenths of a second longer.
 9. (order) Put the steps of the Swing Test for weight in order.  
@@ -514,19 +519,19 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
    **Answer:** Mine, because each of my swings is two of my friend's. My 10 swings take twice as long as theirs.. *Why:* A strong answer sees that the two ways of counting differ by two times, and says why everyone must count the same way to compare.
 12. (draw) Draw a pendulum at the start, the middle and the far end of one swing. Draw a long arrow where it moves fastest and no arrow where it stops.  
    **Answer:** A long arrow at the bottom and no arrows at the two ends.. *Why:* A strong drawing shows the bob fastest at the bottom and still for a moment at each end.
-13. (perspective) Two cousins in Hyderabad, Rohan and Ayesha, are on the swings in their building's play area. They disagree.  
-   **Answer:** A strong answer uses the Swing Test, where weight changed the time very little, so Ayesha is right that the beat stays the same. It also gives Rohan his due: he is right that his swing goes higher with a big push.. *Why:* This question checks that the child can tell 'goes higher' apart from 'swings quicker', and uses evidence.
+13. (perspective) Two cousins in Hyderabad, the first child and the second child, are on the swings in their building's play area. They disagree.  
+   **Answer:** A strong answer uses the Swing Test, where weight changed the time very little, so the second child is right that the beat stays the same. It also gives the first child his due: he is right that his swing goes higher with a big push.. *Why:* This question checks that the child can tell 'goes higher' apart from 'swings quicker', and uses evidence.
 14. (mcq) Why does a swing slow down and stop if nobody pushes it?  
    Options: Gravity gets tired / Air resistance and friction at the hooks slow it a little on each swing / The chains get longer  
    **Answer:** Air resistance and friction at the hooks slow it a little on each swing. *Why:* Each swing, the air pushes back and the hooks rub on the bar. Gravity does not tire. Picking 'gravity gets tired' means thinking of gravity as something that runs out.
-15. (odd) Three of these change how long a pendulum takes to swing very little. Which one changes it a lot?  
+15. (odd) Three of these changes make very little difference to how long a pendulum takes to swing. Which one makes a big difference?  
    Options: Adding more coins / Starting it a little wider / Making the string much shorter / Using a heavier key bunch  
-   **Answer:** 2. *Why:* The length sets the beat. The weight, a small start and a slightly wider start change it very little.
+   **Answer:** 2. *Why:* The time for each swing depends mostly on the length. The weight, a small start and a slightly wider start change it very little.
 ### Pendulum Puzzles (stretch) (stretch, 15 questions)
 1. (write) In the One-Second Pendulum, many children first guess about 30 cm, halfway between 12 and a half cm and 50 cm. Why is the right length shorter than halfway?  
-   **Answer:** The time does not change in step with the length. A quarter of the length gives half the time, so to get from 7 seconds to 10 seconds you need less extra length than you might think. The answer is about 25 cm.. *Why:* A strong answer uses the numbers from the experiments and says that length and time do not change by the same amount.
+   **Answer:** The time does not go up in step with the length. Four times the length gives only twice the time. Halfway between 12 and a half cm and 50 cm is about 31 cm. But the right length is shorter than that, about 25 cm.. *Why:* A strong answer uses the numbers from the experiments and says that length and time do not change by the same amount.
 2. (sort) Sort these changes. Will each one make a swing die down sooner, or make little difference?  
-   **Answer:** taping a postcard to the bob → Dies down sooner; a rusty, rubbing pivot → Dies down sooner; swinging under a running fan → Dies down sooner; using a small, heavy bob → Little difference or longer; using a thin, smooth thread → Little difference or longer; a big, light balloon as the bob → Dies down sooner. *Why:* Things that push more air, or rub more at the pivot, make it die down sooner. A heavy, small bob is slowed least.
+   **Answer:** taping a postcard to the bob → Dies down sooner; a rusty, rubbing pivot → Dies down sooner; swinging under a running fan → Dies down sooner; using a small, heavy bob → Lasts about the same or longer; using a thin, smooth thread → Lasts about the same or longer; a big, light balloon as the bob → Dies down sooner. *Why:* Things that push more air, or rub more at the pivot, make it die down sooner. A heavy, small bob is slowed least.
 3. (mcq) Two pendulums hang from one loose string. Both are 30 cm long. You start one. What will the other one do?  
    Options: Stay still / Swing the opposite way at once / Slowly start swinging, while the first one slows down  
    **Answer:** Slowly start swinging, while the first one slows down. *Why:* Each small tug on the string comes at the first pendulum's beat, which is also the second one's own beat. So the tugs add up, and the swing passes across. This is resonance.
@@ -558,7 +563,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
    **Answer:** ['friction']. *Why:* The air pushes against the bob, and the pivot rubs a little. Together they use up the movement.
 ### Clockmaker's Questions (challenge) (challenge, 15 questions)
 1. (perspective) Three people talk about why a swing in a park stopped.  
-   **Answer:** A strong answer agrees most with Selvi, because the card test showed air slowing a pendulum, and a squeaky swing loses movement at its hooks. It gives Nisha her due: gravity does keep pulling, but it pulls the swing back to the middle, it does not stop it. And it gives Ravi his due: the swing did move less and less, but the movement went somewhere, into warmth.. *Why:* This checks that the child can use the card test as evidence and judge three ideas fairly.
+   **Answer:** A strong answer agrees most with the second child, because the postcard experiment (What Makes a Swing Die Down?) showed air slowing a pendulum, and a squeaky swing loses movement at its hooks. It gives the first child her due: gravity does keep pulling, but it pulls the swing back to the middle, it does not stop it. And it gives the third child his due: the swing did move less and less, but the movement went somewhere, into warmth.. *Why:* This checks that the child can use the postcard experiment as evidence and judge three ideas fairly.
 2. (mcq) In the pendulum wave, the longest pendulum makes 12 swings in 15 seconds and the shortest makes 16. Why do they all line up again at 15 seconds?  
    Options: Because they get tired / Because each one has made a whole number of swings and is back at the start / Because the air pushes them back together  
    **Answer:** Because each one has made a whole number of swings and is back at the start. *Why:* Each pendulum makes a whole number of swings in 15 seconds, so at that moment every one is back where it started. In between they are out of step.
@@ -571,8 +576,8 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
    **Answer:** Small swings all take nearly the same time, so the clock stays accurate. *Why:* Very wide swings take a little longer, and the time changes if the width changes. Small swings all take nearly the same time, so the clock stays steady.
 6. (write) Many people think a bigger push makes a swing go back and forth quicker. Plan a test to find out if they are right. Say what you change, what you keep the same and what you measure.  
    **Answer:** Change only how far out you let it go. Keep the same length and the same bob. Time 10 swings from each start, twice each.. *Why:* A strong answer changes one thing, keeps the rest the same, measures 10 swings and repeats.
-7. (sort) Sort these into what sets a pendulum's beat a lot, and what changes it very little.  
-   **Answer:** the length of the string → Changes the beat a lot; taking it to the Moon → Changes the beat a lot; a brass bob instead of a steel one → Changes it very little; 1 coin instead of 5 → Changes it very little; a small start or a slightly wider one → Changes it very little. *Why:* The length and gravity set the beat. The weight, the material and the size of a small start change it very little.
+7. (sort) Sort these into things that change a pendulum's beat a lot and things that change it very little.  
+   **Answer:** the length of the string → Changes the beat a lot; taking it to the Moon → Changes the beat a lot; a brass bob instead of a steel one → Changes it very little; 1 coin instead of 5 → Changes it very little; a small start or a slightly wider one → Changes it very little. *Why:* The length and the strength of gravity decide how long each swing takes. The weight, the material and the size of a small start change it very little.
 8. (fill) A pendulum about ______ long takes one second to swing one way, so tall floor clocks use one this long.  
    **Answer:** ['1 metre', 'one metre', 'a metre']. *Why:* A pendulum about 1 metre long takes 1 second each way, and 2 seconds for a full swing there and back.
 9. (mcq) A metronome is a pendulum turned upside down, with a sliding weight on its arm. A music teacher slides the weight up. What happens?  
@@ -588,7 +593,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 13. (truefalse) A pendulum clock needs something to give its pendulum a tiny push on each swing, or it would stop.  
    **Answer:** True. *Why:* True. Air resistance and friction slow every pendulum, so the clock's wheel gives a tiny push each swing to replace what is lost.
 14. (write) In the Pendulum Wave, the lengths must be right to about half a centimetre. Why does a small mistake spoil the pattern?  
-   **Answer:** A small error in length changes the beat a little. Over 15 seconds the swings drift apart, so the pendulums no longer line up at the end.. *Why:* A strong answer says that length sets the beat, and that a small difference adds up over many swings.
+   **Answer:** A small error in length changes the beat a little. Over 15 seconds the swings drift apart, so the pendulums no longer line up at the end.. *Why:* A strong answer says that the length decides the time for each swing, and that a small difference adds up over many swings.
 15. (write) Some tall buildings hang a huge heavy weight near the top. It swings against the sway when the wind pushes the building. Why does that help?  
    **Answer:** The weight swings on its own beat, against the building's sway, so it pulls the building back and calms it.. *Why:* A strong answer says the weight swings against the sway and takes away some of its movement.
 
@@ -601,7 +606,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 1. (mcq) On a playground swing, which part is the pivot?  
    Options: The seat / The bar or hooks at the top / The child / The ground  
    **Answer:** The bar or hooks at the top. *Why:* The pivot is the fixed point the swing hangs from, at the top. The child on the seat is the bob. Picking the seat means mixing up the bob and the pivot.
-2. (mcq) Divya, a girl in Class 3, lets go of a swing. It goes to the far side and comes back to her hands. How much swinging has it done?  
+2. (mcq) You let go of a swing. It goes to the far side and comes back to your hands. How much swinging has it done?  
    Options: Half a full swing / One full swing / Two full swings / Ten full swings  
    **Answer:** One full swing. *Why:* One full swing is there and back again. Counting each side as a swing gives twice the right number.
 3. (mcq) Where does a pendulum move fastest?  
@@ -610,19 +615,19 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 4. (mcq) Why does a pendulum not stop at the bottom, where it hangs at rest?  
    Options: The string pulls it past / It is moving fast there, so it carries on up the other side / The air pushes it on / The other side pulls it  
    **Answer:** It is moving fast there, so it carries on up the other side. *Why:* A moving thing keeps moving unless something slows it. At the bottom the bob is moving fastest, so it carries on up the far side until gravity slows it.
-5. (mcq) Farhan, a boy in Class 4, wants to test if the weight of the bob changes the swing time. What should he change?  
+5. (mcq) You want to test whether the weight of the bob changes the swing time. What should you change?  
    Options: The weight and the length together / Only the weight, keeping the same length and start / Only the length / Everything, to see what happens  
-   **Answer:** Only the weight, keeping the same length and start. *Why:* In a fair test you change one thing only. If Farhan changed the length too, he would not know which change made the difference.
+   **Answer:** Only the weight, keeping the same length and start. *Why:* In a fair test you change one thing only. If you changed the length too, you would not know which change made the difference.
 6. (mcq) Why do we time 10 full swings instead of just one?  
    Options: Because 10 is a nice number / One swing is too quick to time well, so a small stopwatch mistake matters less over 10 / Because the first nine don't count / Because the pendulum gets faster  
    **Answer:** One swing is too quick to time well, so a small stopwatch mistake matters less over 10. *Why:* One swing takes about a second, and pressing a stopwatch can be off by a few tenths of a second. Over 10 swings, the same mistake is a much smaller part of the time.
-7. (mcq) Lakshmi, a girl in Class 4, swings 5 coins on a 50 cm thread. Then she takes out 4 coins, leaving 1, and keeps the length the same. What happens to the time for 10 swings?  
+7. (mcq) You swing 5 coins on a 50 cm thread. Then you take out 4 coins, leaving 1, and keep the length the same. What happens to the time for 10 swings?  
    Options: It gets much shorter / It gets much longer / It stays about the same / The pendulum won't swing  
    **Answer:** It stays about the same. *Why:* The weight changes the time very little. Gravity pulls the heavier bob harder, but it also needs more force to move. Thinking it changes a lot is the most common first guess.
-8. (mcq) Meena, a girl in Class 4, makes her pendulum's thread a quarter as long. Before, 10 swings took 14 seconds. About how long do they take now?  
+8. (mcq) You make your pendulum's thread a quarter as long. Before, 10 swings took 14 seconds. About how long do they take now?  
    Options: About 3 and a half seconds / About 7 seconds / About 14 seconds / About 28 seconds  
    **Answer:** About 7 seconds. *Why:* Making a pendulum 4 times shorter makes it swing twice as fast. Half of 14 seconds is 7 seconds. Many people expect a quarter of the time, but the length and the time do not change in step.
-9. (mcq) Arjun, a boy in Class 3, pushes his little sister on a swing, first gently and then much harder. What happens to the time for each swing?  
+9. (mcq) You push a child on a swing, first gently and then much harder. What happens to the time for each swing?  
    Options: It gets much quicker / It stays nearly the same, but the swing goes higher / It gets much slower / The swing stops  
    **Answer:** It stays nearly the same, but the swing goes higher. *Why:* A harder push sends the swing further and faster, and the two balance out. Each swing takes nearly the same time. Only very wide swings take a little longer.
 10. (mcq) Why does a pendulum with a big card taped on it stop swinging sooner?  
@@ -690,7 +695,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 - In the Swing Test, 10 full swings of the 50 cm pendulum took 14 seconds. About how long did one full swing take? **About 1 and a half seconds. More exactly, 1.4 seconds.**. One swing is one tenth of 10 swings. 14 seconds shared into 10 equal parts is 1.4 seconds each. That is a little less than one and a half seconds. (queues `math.division.sharing-and-grouping.L3`)
 - A pendulum takes 1 second for each full swing. How many full swings does it make in 3 minutes? **180 swings.**. There are 60 seconds in a minute, so 60 swings in a minute. In 3 minutes there are 60 + 60 + 60 = 180 seconds, so 180 swings. (queues `math.time.duration.L3`)
 - Here is a pattern. A pendulum 25 cm long takes 1 second for each swing. One 4 times as long, 1 metre, takes 2 seconds. One 4 times longer again, 4 metres, takes 4 seconds. How long would a 16 metre pendulum take? **8 seconds.**. Each time the length is multiplied by 4, the time is multiplied by 2. 4 metres times 4 is 16 metres. 4 seconds times 2 is 8 seconds. (queues `math.patterns.number-patterns.L3`)
-- Ishani, a girl in Class 4, timed 10 swings with 5 coins: 14.1 and 14.4 seconds. With 1 coin: 14.3 and 14.0 seconds. Her brother says the 1 coin was quicker, because 14.0 is less than 14.1. Is he right to say so? **No. The two tries with 1 coin added up to 28.3 seconds, and with 5 coins 28.5 seconds. That is only 0.2 seconds apart, which is less than the difference between two tries of the same pendulum. So the weight made no difference she could measure.**. 14.1 + 14.4 = 28.5. 14.3 + 14.0 = 28.3. The two 5-coin tries differ by 0.3 seconds on their own. A difference smaller than that is just the stopwatch, not the coins. (queues `math.addition-subtraction.word-problems.L3`)
+- You timed 10 swings with 5 coins: 14.1 and 14.4 seconds. With 1 coin: 14.3 and 14.0 seconds. Someone says the 1 coin was quicker, because 14.0 is less than 14.1. Is that right? **No. The two tries with 1 coin added up to 28.3 seconds, and with 5 coins 28.5 seconds. That is only 0.2 seconds apart, which is less than the difference between two tries of the same pendulum. So the weight made no difference you could measure.**. 14.1 + 14.4 = 28.5. 14.3 + 14.0 = 28.3. The two 5-coin tries differ by 0.3 seconds on their own. A difference smaller than that is just the stopwatch, not the coins. (queues `math.addition-subtraction.word-problems.L3`)
 - In the Pendulum Wave, the longest pendulum makes 12 swings in 15 seconds and the shortest makes 16. How many more swings does the shortest make in 30 seconds? **8 more swings.**. In 30 seconds, twice as long, the longest makes 24 swings and the shortest makes 32. 32 - 24 = 8. (queues `math.multiplication.equal-groups.L3`)
 
 ## Song

@@ -576,7 +576,7 @@
   {
    "q": "Plants have made food from light for billions of years, and mend their own leaves every day. No machine can yet grow, mend itself and make food from light. What does that tell us about living things?",
    "kind": "big",
-   "hint": "Is something cleverer just because it was made by people?"
+   "hint": "Think about what a living leaf can do that a machine made by people cannot yet do."
   },
   {
    "q": "Deep in the sea, where sunlight never reaches, tubeworms and crabs live around hot springs on the sea floor. How can there be life with no sunlight at all?",
@@ -974,7 +974,7 @@
      "do": "Sit down together and fill in the energy chain sheet.",
      "say": "So which comes in fresh every day, and which goes round and round: the light, or the carbon?",
      "kid": "Fill in the sheet. Which goes round and round? Which comes new each day from the Sun?",
-     "think": "The carbon in your body has been in leaves, animals and air many times before. Who might it have belonged to?"
+     "think": "In the game, the carbon balls went from the air into a leaf, then to animals, then back to the air. So where could the carbon in your body have been before you? Name two places."
     }
    ],
    "context": "This is a running game. Players pass light from the Sun to a leaf, and sugar along a food chain. It shows that energy comes fresh from the Sun and carbon goes round and round.",
@@ -2030,7 +2030,7 @@
      "do": "Lay the tested leaf next to your drawing from before. Compare them.",
      "say": "In the 1860s, a German scientist called Julius Sachs did tests like this. He showed that leaves make starch only in the light.",
      "kid": "Put your leaf next to your first drawing. Does the pale shape match the paper star? A scientist did this test over 160 years ago!",
-     "think": "Could you write a secret message on a leaf, using only light?"
+     "think": "Could you write a secret message on a leaf, using only light? What would you cover the leaf with, and how would you make the message show?"
     },
     {
      "id": "s6",
@@ -2330,7 +2330,7 @@
      "do": "Write your child's guess and reason on a page, with the date. Keep it.",
      "say": "Let's write your guess down, with your reason. At the end, we'll see if you still think the same.",
      "kid": "Write down your guess and why. Keep the page safe. You will check it at the end.",
-     "think": "If the tree really were made of soil, what would you see around their roots?"
+     "think": "If the tree really were made of soil, what would happen to the soil around their roots as the tree grew?"
     }
    ],
    "context": "This is the opening activity of the unit. You hold a big tree's seed, look at a tree, and guess where all the tree's wood came from.",
@@ -2418,7 +2418,7 @@
      "do": "Sit facing a pot plant or a tree. Breathe out slowly towards them. Then breathe in slowly.",
      "say": "Breathe out to the plant. They can take in your carbon dioxide. Breathe in. Some of the oxygen you take in was made by leaves. Let's do it five times, slowly.",
      "kid": "Sit by a plant. Breathe out slowly to them. Then breathe in slowly. You and the plant are sharing air. Do it five times.",
-     "think": "The carbon dioxide you breathe out can become part of a leaf. Where does the air stop and the plant begin?"
+     "think": "Some of the carbon in a plant's leaves may once have been in your breath. How could that happen?"
     }
    ],
    "context": "In this activity, you make limewater from chuna, the lime paste in paan. You breathe into it and it turns milky. This shows your breath carries carbon dioxide, the gas a tree is built from.",
@@ -2522,7 +2522,7 @@
      "do": "Let the chalk dry. Look at the bands together.",
      "say": "The green band is chlorophyll, the colour that catches light. The yellow helps catch light too, and protects the leaf from too much sun.",
      "kid": "The green band is chlorophyll. It catches the light. The yellow helps too. Every green leaf has hidden yellow inside!",
-     "think": "Why do you think leaves are not black, which would soak up every colour?"
+     "think": "A black leaf would soak up every colour of light. Scientists still do not agree on why leaves are green instead. What is your idea?"
     }
    ],
    "context": "In this activity, you make a rainbow to see the colours in sunlight. Then you separate the colours inside a leaf, using chalk and spirit. You find out what makes leaves green.",
@@ -2611,7 +2611,7 @@
      "do": "Look at the IN plate and the OUT plate together.",
      "say": "Every single ball on the OUT plate was on the IN plate. A tree is built this way, one sugar at a time, from air and water.",
      "kid": "Count all the balls on the OUT plate. Are they the same as at the start? A tree is built like this!",
-     "think": "The atoms in a sugar were once in the air. Where might they go after you eat the sugar?"
+     "think": "The atoms in a sugar were once in the air and water. After you eat the sugar, where might some of its carbon atoms go? Think about what you breathe out."
     }
    ],
    "context": "In this activity, you build models of molecules from clay balls. You take apart carbon dioxide and water and rebuild them into sugar and oxygen, the way a leaf does in sunlight.",
@@ -3425,8 +3425,8 @@
   "What is this wooden chair really made of?",
   "Which do you think made more of the oxygen you breathed today: the trees on land, or the tiny living things in the sea?",
   "Where did the energy for your run today first come from?",
-  "Why are the leaves at the top of a tree often smaller and thicker than the ones in the shade below?",
-  "If you could see carbon dioxide, what would the air in this room look like?"
+  "A leaf in the shade gets less light than a leaf in the sun. Which one makes more food, and why?",
+  "You cannot see carbon dioxide, but it is in the air of this room. Where does it come from?"
  ],
  "jokes": [
   {
@@ -3927,7 +3927,7 @@
   "context": "We have been learning how a leaf makes food from air, water and sunlight. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "In The Rising Leaf Discs, spinach leaf discs sunk in water floated up only when they had both light and carbon dioxide. That showed they were making food and oxygen from air and water, using light. Van Helmont's willow gained about 75 kilograms, while their soil lost only about 60 grams. So most of a tree's wood was once a gas in the air.",
-   "habit": "We assume a living thing is made of what they seem to feed on, and a plant seems to feed on soil through their roots. This mixes up what holds a plant in place and brings them water with what builds their body.",
+   "habit": "We assume a living thing is made of what they seem to feed on, and a plant seems to feed on soil through their roots. But the roots only hold the plant in place and bring in water and a few minerals. The material that builds the plant's body comes mostly from the air.",
    "evidence": "In The Rising Leaf Discs, discs floated in the light with baking soda water, but not in the dark or in plain boiled water. Van Helmont's willow gained about 75 kilograms in five years, while their soil lost about 60 grams. In Burn It Back to Air, dry twigs burn down to only a little ash."
   },
   "three": {
@@ -3935,7 +3935,7 @@
    "what_is_life": "Almost all life runs on sunlight that leaves have turned into food.",
    "what_is_this_world": "A giant tree is built mostly from carbon dioxide in the air, using the energy of sunlight."
   },
-  "thread": "The carbon in a mango was carbon dioxide in the air a few months before. Some of it may have come from your own breath. When you eat the mango and breathe out, that carbon goes back into the air for another leaf. The same atoms keep passing between air, plants and people. This passing on shows that a tree and a child are parts of one living whole, not strangers.",
+  "thread": "The carbon in a mango was carbon dioxide in the air a few months before. Some of it may have come from your own breath. When you eat the mango and breathe out, that carbon goes back into the air for another leaf. The same atoms keep passing between air, plants and people. In this way, a tree and a child are linked, because the atoms in one become the atoms in the other.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2",
@@ -3974,9 +3974,9 @@
    "kid": "Sit by a plant. Breathe out towards a leaf. Breathe in slowly. The leaf and you are sharing air."
   },
   "ask": [
-   "The carbon in your body was once in the air. Is the air part of you, or are you part of the air?",
-   "Are you, in a way, running on sunshine?",
-   "Who owns a mango: the land owner, or the sun and rain?"
+   "The carbon in your body was once a gas in the air, and it will go back to the air. Do you think of yourself as separate from the air around you? Why or why not?",
+   "The energy in your breakfast began as sunlight. In what way are you running on sunshine?",
+   "A mango is built mostly from air, sunlight and rain, and a tiny pinch of soil. Who do you think a mango belongs to, and why?"
   ],
   "art": "A child and a neem tree facing each other, with soft arrows of breath flowing from one to the other in sunlight."
  },

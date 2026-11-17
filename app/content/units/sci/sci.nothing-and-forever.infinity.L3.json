@@ -92,7 +92,7 @@
    "description": "Many children think infinity is the biggest number, waiting far away at the end of the counting. But the counting has no end, so there is nowhere for infinity to wait. If infinity were a counting number, then infinity plus one would be a bigger number, and infinity would not be the end after all. So infinity is a word for the never-ending, not a place on the number line. In maths books the sign ∞ is used to say 'the numbers go on'. Mathematicians have also found careful ways to compare different endless collections. You can meet those ideas in Class 5.",
    "examples": [
     "Counting 1, 2, 3, … and reaching infinity is impossible, because there is always a next number.",
-    "Saying 'infinity plus one' does not give a new number, because infinity was never a counting number.",
+    "Infinity plus one is not a bigger number. Infinity was never a counting number, so you cannot add to it the way you add one to 5.",
     "A shopkeeper can sell you a crore grains of rice, but never an infinite number of grains."
    ],
    "perspectives": [],
@@ -466,7 +466,7 @@
    "days": 1,
    "question": "Is the number of rice grains in a cup so big that it is infinite, or can we find it?",
    "predict": "Guess first. How many grains of rice are in one steel tumbler: about a hundred, about a thousand, about ten thousand, or infinitely many? Why do you think so?",
-   "fair_test": "Use the same teaspoon every time, filled level, not heaped. Count two separate teaspoons and use the middle of the two counts, because one spoonful can be a fluke.",
+   "fair_test": "Use the same teaspoon every time, filled level, not heaped. Count two separate teaspoons and use the number halfway between the two counts, because one spoonful can be a fluke.",
    "results_table": [
     "What we counted",
     "Number"
@@ -520,7 +520,7 @@
       "210"
      ],
      [
-      "Grains in one teaspoon (middle)",
+      "Grains in one teaspoon (halfway between the two)",
       "about 200"
      ],
      [
@@ -575,19 +575,19 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Tip the counted rice into the big bowl. 2. Count a second level teaspoon the same way. 3. Write both numbers and pick a number in the middle.",
+     "do": "1. Tip the counted rice into the big bowl. 2. Count a second level teaspoon the same way. 3. Write both numbers and pick the number halfway between them.",
      "say": "Let's count one more spoonful. If the two numbers are close, our count is good.",
-     "kid": "Count a second teaspoon the same way. Are the two numbers close? Pick a number in the middle.",
+     "kid": "Count a second teaspoon the same way. Are the two numbers close? Pick the number halfway between them.",
      "check": {
       "t": "mcq",
-      "q": "Teaspoon 1 had 190 grains. Teaspoon 2 had 210 grains. Which number is in the middle?",
+      "q": "Teaspoon 1 had 190 grains. Teaspoon 2 had 210 grains. Which number is halfway between them?",
       "options": [
        "200",
        "400",
        "20"
       ],
       "a": 0,
-      "why": "200 is halfway between 190 and 210. Using the middle number evens out a spoon that was a little too full or a little too empty."
+      "why": "200 is halfway between 190 and 210. Using the halfway number evens out a spoon that was a little too full or a little too empty."
      }
     },
     {
@@ -766,7 +766,8 @@
      ],
      "think": "The old list stops at parardha. Did the numbers stop there, or only the names?"
     }
-   ]
+   ],
+   "problem": "The Yajurveda, one of India's oldest books, gave a name to each big number from one up to a 1 followed by 12 zeros. In this activity you write those names on a ladder, with each step ten times the one below. Then you ask whether the ladder could ever stop."
   },
   {
    "id": "a3",
@@ -918,7 +919,8 @@
      ],
      "parent": "This is a subtle idea. The path has no end, because it joins up, but it has a fixed length. The numbers are different: you never come back to the start, and there is always a new number."
     }
-   ]
+   ],
+   "problem": "A line that joins up with itself can be traced round and round for ever. In this activity you draw the infinity sign and a sikku kolam, and you ask whether a line like this is infinite, the way the counting numbers are."
   },
   {
    "id": "a5",
@@ -2076,7 +2078,7 @@
   "Do you think there are infinitely many grains of salt in the jar? How could we find out?",
   "How long do you think it would take to count to a lakh?",
   "Is there anything at home that you think might go on for ever?",
-  "If the numbers never end, where do you think they go?"
+  "Is there a number so big that nothing can come after it? How do you know?"
  ],
  "jokes": [
   {
@@ -2307,7 +2309,7 @@
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "The numbers behave like this. Take away the first hundred numbers, and the numbers that are left still never end."
+    "link": "Take away the first hundred counting numbers, and the numbers that are left still never end. Taking a part away does not use up the endless."
    },
    {
     "source": "Anuyogadvara Sutra, a Jain text",

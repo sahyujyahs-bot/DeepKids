@@ -364,7 +364,7 @@
   {
    "concept": "Forests make rain",
    "status": "debated",
-   "description": "All the water that leaves let out goes up into the air. Over a forest, it can form clouds and fall again as rain somewhere further on. Scientists have measured this in the Amazon rainforest in South America. The forest sends so much water into the air that some call it a flying river. Plants are a big part of the water cycle. That is the endless trip of water from land and sea, up to the sky, and back. But how big a part? Scientists still argue about that.",
+   "description": "Plants let water vapour out of their leaves, and all of that vapour goes up into the air. Over a forest, it can form clouds and fall again as rain somewhere further on. Scientists have measured this in the Amazon rainforest in South America. The forest sends so much water into the air that some call it a flying river. Plants are a big part of the water cycle. That is the endless trip of water from land and sea, up to the sky, and back. But how big a part? Scientists still argue about that.",
    "examples": [
     "A big tree on a hot day can send hundreds of litres of water into the air.",
     "Cutting down large forests can make the land around them drier."
@@ -417,7 +417,7 @@
    "concept": "Plants and bodies: a pull, not a pump",
    "status": "defined",
    "definition": "Your blood is pushed round your body in a loop by your heart. A plant's water goes one way, from root to leaf, pulled from the top by evaporation. Most of the water tubes are dead cells.",
-   "description": "You and a plant both need to move water to every part. Your body uses a living pump, your heart, and living pipes, your blood vessels. The blood goes round and round. A plant uses dead, hollow tubes, and the pull of water evaporating in the Sun. The water goes one way only, up and out. A plant does have a second set of living tubes, the phloem, that carry sugary food both up and down. Both of you cool off in the same way, though. You sweat. A leaf lets water evaporate.",
+   "description": "You and a plant both need to move water to every part. Your body uses a living pump, your heart, and living pipes, your blood vessels. The blood goes round and round. A plant uses dead, hollow tubes, and the pull of water evaporating in the Sun. The water goes one way only, up and out. A plant does have a second set of living tubes, the phloem, that carry sugary food both up and down. You and a plant also cool off in the same way. You sweat, and a leaf lets water evaporate.",
    "examples": [
     "When you run, your heart beats faster to push more blood. On a hot day, a plant pulls more water.",
     "Blood keeps going round your body. Water leaves the plant and goes into the sky."
@@ -430,7 +430,7 @@
    "concept": "Plants in space, and the water's long journey",
    "status": "defined",
    "definition": "In space, water does not drip downwards. So astronauts on the International Space Station grow plants in soft pillows with wicks. The wicks feed water to the roots by capillary action.",
-   "description": "On Earth, gravity pulls water down into the soil and around the roots. On the space station, everything floats. Water clumps into wobbly balls and can drown roots or float away. NASA's Veggie garden grows lettuce in small pillows of soil that soak up water through wicks, like a cotton thread. The water in your plant also has a very long story. Its hydrogen was made soon after the universe began, about 13.8 billion years ago. Its oxygen atoms were made inside stars that exploded long before the Sun was born. The same water has been through clouds, seas, dinosaurs and trees, over and over.",
+   "description": "On Earth, gravity pulls water down into the soil and around the roots. On the space station, everything floats. Water clumps into wobbly balls and can drown roots or float away. NASA's Veggie garden grows lettuce in small pillows of soil that soak up water through wicks, like a cotton thread. The water in a plant also has a very long story. The hydrogen in water was made soon after the universe began, about 13.8 billion years ago. The oxygen in water was made inside stars that exploded long before the Sun was born. The same water has been through clouds, seas, dinosaurs and trees, over and over.",
    "examples": [
     "Astronauts on the space station have grown lettuce there and eaten it.",
     "The water in your glass may once have been inside a dinosaur or a tree in an ancient forest."
@@ -500,7 +500,7 @@
    "for": "Water does creep up thin gaps by itself, and plant tubes are very thin.",
    "against": "Capillary action alone can only lift water a short way in tubes as wide as a plant's, much less than the height of a tall tree. It helps water cling to the tube walls, but the big lift comes from the pull of evaporation at the leaves.",
    "status": "rejected",
-   "context": "Tea climbs up a tissue dipped in it. This card asks whether that is how water climbs a tree."
+   "context": "Capillary action means water creeping up into very thin gaps by itself. It does this because it sticks to the sides of the gap. For example, tea climbs up the corner of a tissue dipped in it. This card asks whether that is how water climbs a tall tree."
   },
   {
    "claim": "Plants waste water by letting most of it escape from their leaves.",
@@ -1702,7 +1702,7 @@
      "do": "Look at the table together. Work out how long the colour took to reach the petals.",
      "say": "We started at this time. We first saw colour in the petals or the leaf at this time. How many hours did the water take to climb up?",
      "kid": "Look at your table. When did you first see colour? How many hours was that?",
-     "think": "A neem tree has no glass of coloured water. The water tubes are hidden inside the wood. How could you find out how fast water climbs in a tree?",
+     "think": "A neem tree has water tubes inside too, but you cannot see them. Which part of a tree trunk holds the water tubes?",
      "chart": {
       "type": "line",
       "title": "Made-up example: how high the colour climbed up a see-through balsam stem",
@@ -1731,7 +1731,8 @@
         "value": 12
        }
       ]
-     }
+     },
+     "parent": "The water tubes of a tree make up the wood of the trunk. Each year the tree adds a new layer of them, and the old layers are the rings you see in a cut trunk. The coloured water in the stem showed the same kind of tubes, only much smaller."
     },
     {
      "id": "s7",
@@ -2192,7 +2193,7 @@
       "why": "Each water tube runs on its own, from the bottom of the stem to one part of the flower. Water in one tube does not mix with water in the tubes beside it. So the blue tubes fed one side and the red tubes fed the other. Picking 'all the water mixes' is a very sensible guess, because the stem looks like one solid thing. The flower shows it is really a bundle of separate tubes."
      },
      "think": "If one root of a big tree is cut, which branches might go thirsty?",
-     "parent": "Carnation petals usually show two colours within a day. If the colours are faint, leave the flower another day and look again."
+     "parent": "Carnation petals usually show two colours within a day. If the colours are faint, leave the flower another day and look again. For the question about the cut root, each tube feeds its own part of the tree. So the branches that were fed by tubes from that root may go thirsty first."
     }
    ],
    "context": "In this activity you split a white flower's stem into two halves. Each half drinks a different colour. The flower shows which tubes go where.",
@@ -3806,7 +3807,7 @@
  },
  "how_we_found_out": {
   "context": "How did people find out what lifts water up a tree? This card tells the true story, and the idea that turned out wrong.",
-  "story": "For a long time, people thought water must be pushed up a plant from below. In 1727, Stephen Hales, an English clergyman, showed that roots really can push. He fixed a tall glass tube to a cut grapevine stump, and sap rose up the tube. Many scientists then thought the roots, or living cells in the stem working like tiny pumps, did all the lifting. In 1891, Eduard Strasburger, a German botanist, tested the pump idea. He stood long cut stems in poison, which climbed up them and killed their living cells. Then he stood the dead stems in coloured liquid. The colour still climbed. So no living pump was needed. In 1894, Henry Dixon and John Joly, in Dublin, explained what does the lifting. Water evaporating from the leaves pulls on the water below it, and the water holds together as one unbroken thread. Root pressure is real, but it is far too weak to lift water to the top of a tall tree.",
+  "story": "For a long time, people thought water must be pushed up a plant from below. In 1727, Stephen Hales, an English clergyman, showed that roots really can push. He fixed a tall glass tube to a cut grapevine stump, and sap rose up the tube. Many scientists then thought the roots, or living cells in the stem working like tiny pumps, did all the lifting. In 1891, Eduard Strasburger, a German botanist, tested the pump idea. He stood long cut stems in poison. The poison climbed up the stems and killed their living cells. Then he stood the dead stems in coloured liquid. The colour still climbed. So no living pump was needed. In 1894, Henry Dixon and John Joly, in Dublin, explained what does the lifting. Water evaporating from the leaves pulls on the water below it, and the water holds together as one unbroken thread. Root pressure is real, but it is far too weak to lift water to the top of a tall tree.",
   "who": "Stephen Hales, an English clergyman; Eduard Strasburger, a German botanist; Henry Dixon and John Joly, scientists in Dublin",
   "when": "1727 (Hales), 1891 (Strasburger) and 1894 (Dixon and Joly)",
   "wrong_idea": "That roots, or living cells in the stem, pump water all the way up a plant. Strasburger killed the cells in long stems, and coloured liquid still climbed them. Root pressure exists, but it is far too weak for a tall tree.",

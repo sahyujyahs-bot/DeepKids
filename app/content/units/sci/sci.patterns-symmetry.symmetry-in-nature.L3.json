@@ -631,7 +631,7 @@
      "kid": "Which pattern folds to match? Which turns to match?",
      "check": {
       "t": "mcq",
-      "q": "In round 2, you copied one quarter by turning the sheet a quarter turn each time. What kind of symmetry does the finished pattern always have?",
+      "q": "A pattern is made by drawing one quarter, then copying it by turning the sheet a quarter turn each time. What kind of symmetry does the finished pattern always have?",
       "options": [
        "Rotational symmetry of order 4",
        "Exactly one line of symmetry",
@@ -1042,9 +1042,9 @@
     {
      "id": "s4",
      "mins": 1,
-     "do": "Ask which thing surprised your child most.",
-     "say": "Which one surprised you? Did anything have both kinds of symmetry?",
-     "kid": "Which one surprised you? Did anything have both kinds of symmetry?"
+     "do": "Ask whether anything passed both tests, and which one it was.",
+     "say": "Look at your two columns. Did anything pass both the fold test and the turn test? Which one was it?",
+     "kid": "Look at your two columns. Did anything pass both tests? Which one?"
     }
    ]
   },
@@ -1178,7 +1178,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Fold the square corner to corner into a triangle. 2. Fold it in half again into a smaller triangle. 3. Fold this into three equal parts, like a fan, one part over the front and one behind. 4. Cut off the uneven top straight across.",
-     "say": "Most paper snowflakes are folded into eight, but a real one has six arms. Folding in three is the trick.",
+     "say": "Many paper snowflakes are folded so that they open into eight arms. A real snowflake has six arms. So we fold the paper into three parts, which makes it open into six matching arms.",
      "kid": "Fold the square into a triangle. Fold it in half. Now fold it into three, like a fan. Cut the top straight.",
      "adult": true,
      "context": "This activity makes a paper snowflake with six arms, like a real one."
@@ -1525,7 +1525,7 @@
    "id": "c1",
    "title": "The Pinwheel Puzzle: why a spinner needs a twist",
    "mins": 25,
-   "problem": "Make a paper pinwheel that spins when you blow on it. Then find out what kind of symmetry it has, and why a pinwheel with a fold line would not spin.",
+   "problem": "Make a paper pinwheel that spins when you blow on it. Every blade of a pinwheel is bent the same way round, so the air pushes every blade in the same direction. A pinwheel with a fold line would have blades bent in opposite ways, and their pushes would cancel. Find out what kind of symmetry a pinwheel has, and why it needs to be that kind.",
    "constraints": [
     "Use one square of paper, a pin, and a pencil with an eraser or a straw.",
     "It must spin when you blow on it from the front.",
@@ -1620,7 +1620,7 @@
     "Circles always leave gaps."
    ],
    "creative": [
-    "Count how many shapes meet at one corner of your patch: 3 hexagons, 4 squares or 6 triangles. Why can circles never fit?",
+    "Count how many shapes meet at one corner of your patch. You should find 3 hexagons, or 4 squares, or 6 triangles. Why can circles never fit together with no gaps?",
     "Look at floor tiles in your building. Which shapes do people use?",
     "Try pentagons, five-sided shapes. Do they fit without gaps?"
    ],
@@ -2780,7 +2780,7 @@
     "status": "settled"
    },
    {
-    "text": "In 1918, the mathematician Emmy Noether proved that each symmetry in the laws of physics comes with something whose total amount never changes. For example, the laws are the same at every moment, and that is why energy is never made or lost.",
+    "text": "In 1918, the mathematician Emmy Noether proved something surprising about physics. Each kind of symmetry in the laws of physics goes with an amount that never changes. For example, the laws of physics are the same today as they were yesterday. Noether showed that this is exactly why the total amount of energy is never made or lost.",
     "status": "settled"
    }
   ],

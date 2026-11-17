@@ -638,7 +638,7 @@
      "do": "Talk about the game.",
      "say": "If I turned the board round, would '3 squares east' still take you to the same place?",
      "kid": "Turn the board round. Does '3 squares east' still take you to the same place?",
-     "think": "East on the board is fixed by the north arrow. What happens if someone draws the arrow pointing the other way?"
+     "think": "Yes, it would. The north arrow is drawn on the board, so it turns with the board, and the squares keep the same names. Now think about this. What would happen if someone drew the north arrow pointing the other way?"
     }
    ],
    "setup": [
@@ -1602,7 +1602,7 @@
    "id": "c1",
    "title": "A Map with No Words",
    "mins": 25,
-   "problem": "Make a map of your home that leads a person to the fridge, the balcony and the bathroom, without a single written word. Someone who cannot read your language must be able to use it.",
+   "problem": "Make a map of your home that leads a person to the fridge, the balcony and the bathroom, without a single written word. Someone who cannot read your language must be able to use it. A map also needs something that shows direction, so the reader knows how to turn it to match the real place. Think about how to show direction with a picture.",
    "constraints": [
     "No letters or words anywhere on the map, not even in the key.",
     "The map must still show a direction, such as a rising Sun drawn on the east side.",

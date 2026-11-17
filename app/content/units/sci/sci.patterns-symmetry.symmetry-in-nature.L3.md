@@ -50,13 +50,13 @@ To count it, put a small mark on one corner of the shape, such as a bindi sticke
 **Definition:** A soap film pulls itself as tight as it can. When bubbles of the same size crowd together, their walls meet three at a time, at equal angles. Each bubble in the middle is pressed equally by about six neighbours, so it becomes a six-sided cell.
 
 A single bubble floating in the air is round. A ball is the shape that holds the air inside with the least skin. When many bubbles touch, each wall is shared by two bubbles, and the films pull the walls short and flat. Where walls meet, they always meet in threes, never in fours. A Belgian scientist, Joseph Plateau, wrote this rule down in 1873, after years of studying soap films. Three walls that pull equally settle at equal angles, a third of a full turn apart. When every bubble is the same size and is pressed equally on every side, the shape that fits these rules is a hexagon. At the edge of the raft, a bubble has neighbours on one side and open water or the plate on the other. The pushes are not even, so the bubble is lopsided. A bubble much smaller than its neighbours usually has fewer than six walls, and a bigger one usually has more.
-- e.g. In the middle of your raft, most bubbles have six walls.
+- e.g. In the middle of a bubble raft, most bubbles have six walls.
 - e.g. At the edge, bubbles have a curved side and fewer walls.
 - e.g. Foam on a cup of filter coffee or in a sink of washing-up has the same three-wall meeting points.
 ### Why a snowflake has six matching arms · *defined*
 **Definition:** A snowflake is a crystal of ice. In ice, water molecules join up in rings of six, so ice crystals grow in six directions. The six arms match because they all grow at the same time in the same air.
 
-A snowflake starts as a tiny six-sided piece of ice high in a cloud. Water vapour, which is water as a gas, freezes onto its corners, and six arms grow out. As the snowflake falls, the air around it changes: a little warmer, a little colder, a little wetter, a little drier. Each change reaches all six arms at the same moment, because the snowflake is tiny. So when one arm grows a side branch, the other five grow the same branch. That is why the arms match without being joined by any plan. Snowflakes fall through slightly different air, so big branching snowflakes almost never look exactly the same. Most real snowflakes are also a little uneven, because they bump or because one side meets slightly different air. The scientist Ukichiro Nakaya grew snowflakes in a cold laboratory in Japan in the 1930s. He showed that the temperature and the moisture of the air decide whether a snowflake grows as flat plates, long needles or branching stars.
+A snowflake starts as a tiny six-sided piece of ice high in a cloud. Water vapour, which is water as a gas, freezes onto its corners, and six arms grow out. As the snowflake falls, the air around it changes: a little warmer, a little colder, a little wetter, a little drier. Each change reaches all six arms at the same moment, because the snowflake is tiny. So when one arm grows a side branch, the other five grow the same branch. That is why the arms match with no plan. Each snowflake falls through slightly different air, so big branching snowflakes almost never look exactly the same. Most real snowflakes are also a little uneven, because they bump or because one side meets slightly different air. The scientist Ukichiro Nakaya grew snowflakes in a cold laboratory in Japan in the 1930s. He showed that the temperature and the moisture of the air decide whether a snowflake grows as flat plates, long needles or branching stars.
 - e.g. A snowflake has six arms, never eight. Paper snowflakes folded into eight make eight arms, which real ones never grow.
 - e.g. Frost on a cold window can grow in feathery branches for the same reason.
 - e.g. Snow falls in winter in Kashmir, Himachal Pradesh, Uttarakhand, Sikkim and Arunachal Pradesh.
@@ -70,7 +70,7 @@ A plant cannot walk to another plant to share her pollen. She needs a pollinator
 ### Why animals that move have a left side and a right side · *defined*
 **Definition:** Animals that move forward through the world, such as people, fish, birds, ants and earthworms, have bilateral symmetry: a left half and a right half that nearly match. Animals that stay in one place or drift, such as jellyfish and sea anemones, often have radial symmetry.
 
-An animal that moves forward meets the world front first. The front is where her mouth and eyes are, because that is where food and danger come from. Her left side and right side meet the world in the same way, so they nearly match. A jellyfish drifts in the sea, and food and danger can come from any side. So her body is the same all the way round. A starfish is a surprise. Her young swim as tiny two-sided larvae, and only later grow into a five-armed shape.
+An animal that moves forward meets the world front first. The front is where her mouth and eyes are, because that is where food and danger come from. Her left side and right side meet the world in the same way, so they nearly match. A jellyfish drifts in the sea, and food and danger can come from any side. So her body is the same all the way round. A starfish is a surprise. Her young, called larvae, are tiny and two-sided, and they swim. Only later do they grow into a five-armed shape.
 - e.g. You: two eyes, two ears, two arms and two legs, one on each side.
 - e.g. A fish: fins on the left and right, mouth at the front.
 - e.g. A jellyfish: the same all the way round.
@@ -117,9 +117,9 @@ To draw a pulli kolam, you first put down a grid of dots. Then you loop a line a
 ## Roots
 We have found symmetry in flowers, snowflakes, bubbles and kolams, and seen even shapes appear with no one drawing them. Now we ask what symmetry tells us about ourselves and the world.
 
-**Deep truth.** In the middle of your raft, each bubble was pressed equally from every side. Most came out six-sided, like their neighbours. At the edge, bubbles were pressed on some sides only, and came out lopsided. Nobody drew the hexagons: an even push all round made an even shape.  
+**Deep truth.** In the bubble raft experiment, each bubble in the middle was pressed equally from every side. Most came out six-sided, like their neighbours. At the edge, bubbles were pressed on some sides only, and came out lopsided. Nobody drew the hexagons: an even push all round made an even shape.  
 *Habit it breaks:* We think a neat, even shape needs a maker who plans it, the way a person plans a kolam. The bubble raft shows an even shape can also come from even conditions all round, and that an uneven shape points to the side where something was different.  
-*Evidence:* The middle bubbles and the edge bubbles were the same soap, the same size and under the same lid. Only the push around them differed. The middle ones came out six-sided, and the edge ones came out lopsided.
+*Evidence:* In the bubble raft, the middle bubbles and the edge bubbles were the same soap, the same size and under the same lid. Only the push around them differed. The middle ones came out six-sided, and the edge ones came out lopsided.
 
 - *who am i:* You have a left side and a right side that nearly match, because you move forward and meet the world front first. Your heart sits a little to the left, so you are not perfectly even.
 - *what is life:* A flower's even petals help her bees find her and land on her. Her shape is part of how she lives with the bees.
@@ -130,19 +130,19 @@ A snowflake begins as one tiny piece of ice, the same on every side. One rule, w
 - **Avatamsaka Sutra, the image of Indra's net:** Indra's net has a jewel at every knot. Each jewel reflects every other jewel, so each one holds the whole net. (In a bubble raft, each bubble's shape is made by the bubbles pressing around it, and it presses on them in turn. No bubble is shaped on its own.)
 - **Plato, Timaeus (the passage on the five regular solids):** Plato taught that fire, air, water and earth are made of tiny perfectly regular shapes, such as cubes and pyramids. (Plato's shapes were wrong. But he was right that the smallest parts of matter sit in regular patterns: in ice, water molecules really do join in rings of six.)
 - Science (settled): Soap films meet three at a time at equal angles, which is why same-sized bubbles pressed together become hexagons. Joseph Plateau set out the rules in 1873.
-- Science (settled): In 1918, the mathematician Emmy Noether proved that each symmetry in the laws of physics goes with something that is never used up. Because the laws are the same at every moment, energy is never made or lost.
-- Other view, Many biologists: In living things, symmetry comes mostly from genes and from what helped their ancestors survive, not only from even conditions. A flower's five petals come out even in a lopsided wind too, because her bud grows that way.
+- Science (settled): In 1918, the mathematician Emmy Noether proved something surprising about physics. Each kind of symmetry in the laws of physics goes with an amount that never changes. For example, the laws of physics are the same today as they were yesterday. Noether showed that this is exactly why the total amount of energy is never made or lost.
+- Other view, Many biologists: In living things, symmetry comes mostly from genes and from what helped their ancestors survive, not only from even conditions. A flower's five petals come out even when the wind blows on her from one side too, because her bud grows that way.
 - Practice, Even breath (3 min): Let's sit tall and put one hand on each side of our ribs. Breathe in slowly. Do both hands rise together? Breathe out slowly. Now move one hand a little left of the middle of your chest. Can you feel your heart beating there? Our two sides breathe together, but our heart sits on one side. Take three more slow breaths and feel both.
-- Ask: A kolam corner came out squashed because something was in the way on one side. What does an uneven corner tell you?
+- Ask: In the story The Kolam by the Shoe Rack, one corner of the kolam came out squashed because the shoe rack was in the way on that side. What does an uneven corner tell you?
 - Ask: Your two hands nearly match, but not exactly. Which tells you more about you, the matching or the small differences?
 - Ask: If everything were perfectly even everywhere, would anything have a shape at all?
 
 ## Deep and big questions
-- *deep:* The bubbles in the middle of your raft became six-sided, and nobody drew them. What else around you might have an even shape with no plan behind it? (hint: Think of foam, cracks in dry mud, drops on a window, the rings when a stone drops in water.)
+- *deep:* In the bubble raft, the bubbles in the middle became six-sided, and nobody drew them. What else around you might have an even shape with no plan behind it? (hint: Think of foam, cracks in dry mud, drops on a window, the rings when a stone drops in water.)
 - *deep:* A snowflake's six arms grow in the same air at the same time. Do two leaves on the same branch grow in the same conditions? Do they match? (hint: Pick two leaves from opposite sides of one stem and compare them.)
 - *deep:* Your left hand and right hand are mirror images. Can you ever turn your left glove so it fits your right hand? (hint: Try it with a glove or a sock with a heel. What about turning it inside out?)
 - *big:* Why do so many people, all over the world, make symmetrical art, from kolams to mandalas to carpets? (hint: Is it because nature shows us symmetry, because it is easier to draw, or because our eyes like it?)
-- *big:* Is a little unevenness a mistake, or is it what makes each living thing that one living thing? (hint: Look at your own face in a photo, then at the same photo made with two left halves. Which looks like you?)
+- *big:* Is a little unevenness a mistake, or is it what makes each living thing different from every other? (hint: Look at your own face in a photo, then at the same photo made with two left halves. Which looks like you?)
 
 ## Story: The Kolam by the Shoe Rack
 *Made-up story. Kolams drawn at doorsteps in the month of Margazhi, soap walls meeting three at a time, and plants leaning to the light are all real.*
@@ -221,7 +221,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 
 ## Games
 ### g1 · Turn Snap: match the order of symmetry (15 min)
-- **rules:** Shuffle the 24 cards and deal them out equally, face down. Keep your pile face down. The back of each card shows its order, so try not to peek: it is for checking an argued snap.; Take turns to turn over your top card onto a pile in the middle.; If the new card has the same order of rotational symmetry as the card just below it, the first to say 'Snap!' and the order wins the middle pile. Put won cards face down beside you.; Say the order out loud, for example 'Snap, five!'. If you snap when the orders are different, or say the wrong number, the other player (or the player to your left) wins the pile.; If your pile runs out, you can still snap. The game ends when every card has been turned over, or after 10 minutes. The player with the most won cards wins; a tie is a shared win.; Playing alone: guess the order of each card, then turn it over to check the back. Sort the cards into piles by order. Time yourself, and try to beat your time.
+- **rules:** Shuffle the 24 cards and deal them out equally, face down. Keep your pile face down. The back of each card shows its order, so try not to peek. The back is there to check when players disagree about a snap.; Take turns to turn over your top card onto a pile in the middle.; If the new card has the same order of rotational symmetry as the card just below it, the first to say 'Snap!' and the order wins the middle pile. Put won cards face down beside you.; Say the order out loud, for example 'Snap, five!'. If you snap when the orders are different, or say the wrong number, the other player (or the player to your left) wins the pile.; If your pile runs out, you can still snap. The game ends when every card has been turned over, or after 10 minutes. The player with the most won cards wins; a tie is a shared win.; Playing alone: guess the order of each card, then turn it over to check the back. Sort the cards into piles by order. Time yourself, and try to beat your time.
 - **Printable cards: 24 shape cards:** periwinkle flower (back: Order 5) [picture]; star fruit slice (back: Order 5); apple cut across (back: Order 5); starfish (back: Order 5) [picture]; snowflake (back: Order 6) [picture]; honeycomb cell (back: Order 6); bubble in the middle of a raft (back: Order 6); hexagonal nut (back: Order 6); three-bladed ceiling fan (back: Order 3); cucumber cut across (back: Order 3); equal-sided triangle (back: Order 3); banana cut across (back: Order 3); 4-quarter kolam (back: Order 4); square floor tile (back: Order 4); plus sign (back: Order 4); ixora flower with 4 petals (back: Order 4) [picture]; letter S (back: Order 2); letter Z (back: Order 2); playing card 8 of diamonds (back: Order 2); rectangle (back: Order 2); butterfly (back: Order 1: one line of symmetry, no rotational symmetry) [picture]; human face (back: Order 1: one line of symmetry, no rotational symmetry); tulsi flower (back: Order 1: one line of symmetry, no rotational symmetry) [picture]; leaf (back: Order 1: one line of symmetry, no rotational symmetry) [picture]
 - **s1 (2 min)**  
   *Parent does:* 1. Print and cut out the 24 cards. 2. Shuffle and deal them out equally.  
@@ -234,7 +234,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   - Note: The order is written on the back of each card. A butterfly, a face, a tulsi flower and a leaf have order 1: they have a line of symmetry but no rotational symmetry. Draw a small picture on each card if you like.
 - **s3 (3 min)**  
   *Parent does:* Look at the order 1 cards together.  
-  *Parent says:* The butterfly, the face, the tulsi flower and the leaf have order 1. But they do have a line of symmetry. What do they have in common?  
+  *Parent says:* The butterfly, the face, the tulsi flower and the leaf have order 1, so they do not match when turned. Can you find a fold line on each one?  
   *Child mode:* Look at the order 1 cards. Do they have a fold line?
   - Check: A butterfly, a tulsi flower and your face all have order 1. What do they have in common? → **They each have one line of symmetry, a left side and a right side**
 ### g2 · Finish My Half: a dot-grid partner game (15 min)
@@ -253,7 +253,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Parent does:* Compare a mirror sheet and a four-quarter sheet.  
   *Parent says:* Which sheet has a fold line? Which looks the same when turned? Can one have both?  
   *Child mode:* Which pattern folds to match? Which turns to match?
-  - Check: In round 2, you copied one quarter by turning the sheet a quarter turn each time. What kind of symmetry does the finished pattern always have? → **Rotational symmetry of order 4**
+  - Check: A pattern is made by drawing one quarter, then copying it by turning the sheet a quarter turn each time. What kind of symmetry does the finished pattern always have? → **Rotational symmetry of order 4**
 
 ## Experiments
 ### e1 · The Bubble Raft: what shape do crowded bubbles take? (30 min)
@@ -267,7 +267,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Parent does:* 1. Pour 1 cup of water into a bowl. 2. Add 1 tablespoon of dishwashing liquid and 1 teaspoon of sugar. 3. Stir slowly, without making foam. 4. Pour it into the plate. The layer should be a few millimetres deep, enough to cover the tip of the straw.  
   *Parent says:* We are going to make a raft of bubbles. Stir gently, because we don't want foam yet. We want to make the bubbles ourselves, one at a time.  
   *Child mode:* Mix water, dishwash liquid and sugar in a bowl. Stir slowly. Pour it into the plate.
-  - Note: A layer 5 mm to 1 cm deep works best, just deep enough for the straw's tip to sit under the surface. If it will not, add more soapy water. Sugar helps the bubbles last longer, but the test works without it.
+  - Note: A layer 5 mm to 1 cm deep works best, just deep enough for the straw's tip to sit under the surface. If the tip does not go under, add more soapy water. Sugar helps the bubbles last longer, but the test works without it.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess and give a reason. Write the guess at the top of the record sheet.  
   *Parent says:* Each bubble starts round. When we squash lots of them together under a lid, what shape will a bubble in the middle become? What about one at the edge? Why do you think so?  
@@ -299,7 +299,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **s7 (2 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why. Write it under the table.  
   *Parent says:* What do you think now? What did you see that tells you? Why do you think the middle bubbles and the edge bubbles are different?  
-  *Child mode:* Say three things. What I think. What I saw. Why I think it.
+  *Child mode:* Say three things: what you think now, what you saw, and why you think the middle bubbles and the edge bubbles are different.
   - Ask: Why were the middle bubbles six-sided, but the edge bubbles lopsided? (good: The middle bubbles were pressed equally from every side by their neighbours.; The edge bubbles had bubbles on one side and nothing on the other side.; The push was the same all round in the middle, but not at the edge.)
   - Note: A strong answer uses the edge bubbles as evidence: same soap, same lid, same size, but a different push around them, and a different shape.
   - Check: Nobody drew the hexagons in the bubble raft. What made them? → **Each middle bubble was pressed equally on every side by bubbles of the same size**
@@ -325,15 +325,15 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Child mode:* Count the parts around the middle. Touch each one. Count again. Write the number.
   - Note: Most bhindis show 5 seed rows, though some kinds have more. A cucumber usually shows 3 seed parts. An apple usually shows a five-pointed star of seed rooms. A banana shows a faint three-part pattern. Lemons often differ: one may have 8 segments and the other 10 or 11. Tomatoes differ a lot too, from 2 rooms to many. Whatever you find is the real answer.
 - **s4 (5 min)**  
-  *Parent does:* Compare your numbers. Which kinds matched, and which did not? Then read the question below about another child's fruit.  
+  *Parent does:* Compare your numbers. Which kinds matched, and which did not? Then answer the question below.  
   *Parent says:* Which fruits gave the same number both times? Which ones changed?  
   *Child mode:* Which fruits matched both times? Which ones did not?
   - Note: The parts inside a fruit grew from the flower's centre, one part for each section. Each section holds and feeds a row of seeds.
-  - Check: Kavya, a girl in Class 3, cut two bhindis and two lemons across. Both bhindis had 5 seed rows. One lemon had 9 segments and the other had 11. What does this show? → **Some kinds of fruit keep the same number of parts, and others vary**
+  - Check: Two bhindis and two lemons are cut across. Both bhindis have 5 seed rows. One lemon has 9 segments and the other has 11. What does this show? → **Some kinds of fruit keep the same number of parts, and others vary**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why.  
   *Parent says:* What do you think now about fruits and symmetry? What did you see? Why might a lemon vary but a bhindi not?  
-  *Child mode:* Say what you think. Say what you saw. Say why.
+  *Child mode:* Say what you think now about fruits and symmetry, what you saw, and why a lemon might vary but a bhindi not.
   - Ask: Why might every bhindi have 5 seed rows? (good: Because bhindi flowers grow 5 parts in their centre.; Because each row grew from one part of the flower.)
 
 ## Activities
@@ -345,18 +345,18 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Child mode:* Find 8 flat things at home. Put them on the table.
 - **s2 (4 min)**  
   *Parent does:* 1. For each thing, lay the thread across it in a straight line. 2. Ask: would the two halves match if you folded it along the thread? 3. Try several directions.  
-  *Parent says:* Imagine folding it along the thread. Would one half sit exactly on the other? Try the thread a different way too.  
+  *Parent says:* Think of folding it along the thread. Would one half sit exactly on the other? Try the thread a different way too.  
   *Child mode:* Lay the thread across. Would the two halves match if folded? Try other ways too.
   - Ask: Which things have a line of symmetry? (good: The leaf, down its middle vein.; The butterfly.; The plate, in many directions.)
 - **s3 (5 min)**  
-  *Parent does:* 1. Stick the bindi on one edge of a thing. 2. Turn it slowly on the table. 3. Count each time it looks exactly as it did at the start, until the bindi is back.  
+  *Parent does:* 1. Stick the bindi on the edge of one thing. 2. Turn it slowly on the table. 3. Count each time it looks exactly as it did at the start, until the bindi is back where it began.  
   *Parent says:* Now the turn test. Turn it slowly. Every time it looks exactly the same, count one.  
   *Child mode:* Stick the bindi on one edge. Turn it slowly. Count each time it looks the same.
   - Check: You turn a leaf all the way round. It only looks the same when the bindi comes back to the start. What does that mean? → **The leaf has no rotational symmetry**
 - **s4 (1 min)**  
-  *Parent does:* Ask which thing surprised your child most.  
-  *Parent says:* Which one surprised you? Was anything both kinds?  
-  *Child mode:* Which one surprised you? Was anything both kinds?
+  *Parent does:* Ask whether anything passed both tests, and which one it was.  
+  *Parent says:* Look at your two columns. Did anything pass both the fold test and the turn test? Which one was it?  
+  *Child mode:* Look at your two columns. Did anything pass both tests? Which one?
 ### a2 · Draw a Pulli Kolam with four matching quarters (20 min)
 - **record:** Draw or photograph your kolam. Draw its lines of symmetry in pencil and write its order of rotational symmetry.
 - **s1 (3 min)**  
@@ -383,7 +383,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **record:** Stick your snowflake in your notebook. Write its order of rotational symmetry and how many lines of symmetry it has.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Fold the square corner to corner into a triangle. 2. Fold it in half again into a smaller triangle. 3. Fold this into three equal parts, like a fan, one part over the front and one behind. 4. Cut off the uneven top straight across.  
-  *Parent says:* Most paper snowflakes are folded into eight, but a real one has six arms. Folding in three is the trick.  
+  *Parent says:* Many paper snowflakes are folded so that they open into eight arms. A real snowflake has six arms. So we fold the paper into three parts, which makes it open into six matching arms.  
   *Child mode:* Fold the square into a triangle. Fold it in half. Now fold it into three, like a fan. Cut the top straight.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Cut small notches and curves from both long edges. Don't cut all the way across.  
@@ -409,9 +409,9 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Parent says:* A butterfly flies by flapping both wings together. What would happen if one wing were much bigger?  
   *Child mode:* A butterfly flaps both wings together. What if one wing were bigger?
   - Ask: Why does a butterfly need two matching wings? (good: So she can fly straight.; If one wing pushed more air, she would fly in circles.)
-  - Note: A butterfly's problem is flying straight to flowers and away from birds. Two matching wings push the same amount of air on each side. Real wings are nearly matching, never exactly.
+  - Note: A butterfly has to fly straight to flowers and away from birds. Two matching wings push the same amount of air on each side. Real wings nearly match, but never exactly.
 ### a5 · My Two Halves: how even is my body? (15 min)
-- **record:** A table with 'left' and 'right' for hand span and foot length.
+- **record:** Make a table with 'left' and 'right' for hand span and foot length.
 - **s1 (8 min)**  
   *Parent does:* 1. Spread each hand on the ruler and measure from thumb tip to little finger tip. 2. Stand on paper, draw round each foot, and measure each outline from heel to big toe. 3. Write the numbers in the table.  
   *Parent says:* Your body has a left half and a right half. Do they match exactly? Let's measure.  
@@ -435,7 +435,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Child mode:* Look down on the plant. Count leaves on the window side. Count leaves on the room side.
 - **s2 (5 min)**  
   *Parent does:* Talk about why the sides differ.  
-  *Parent says:* The plant's problem is getting enough light to make food. What was different on the window side?  
+  *Parent says:* A plant needs light to make food. What was different on the window side?  
   *Child mode:* Plants make food with light. Which side got more light?
   - Ask: Why is the plant not even on all sides? (good: The window side gets more light.; She grows towards the light to make more food.; Her two sides met different conditions.)
   - Note: Light came from one side only, so the plant grew more on that side and bent towards it. Turning the pot a quarter turn every few days helps her grow more evenly.
@@ -456,12 +456,12 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   - Wait: Next day
 - **s3 (10 min)**  
   *Parent does:* Day 3: draw a kolam with four matching quarters and four fold lines.  
-  *Parent says:* Draw one quarter, then turn and repeat. Make each quarter even too, so it folds as well.  
+  *Parent says:* Draw one quarter, then turn and repeat. Make each quarter a mirror image of itself too, so the kolam also folds to match.  
   *Child mode:* Draw four matching quarters. Make it fold four ways too.
   - Wait: Next day
 - **s4 (10 min)**  
   *Parent does:* Day 4: draw a flower kolam or rangoli with 6 or 8 petals.  
-  *Parent says:* Today, a flower. Will you give it 6 petals like a snowflake has arms, or 8?  
+  *Parent says:* Today, draw a flower. Will you give it 6 petals, like the 6 arms of a snowflake, or 8?  
   *Child mode:* Draw a flower kolam with 6 or 8 petals.
   - Wait: Next day
 - **s5 (10 min)**  
@@ -473,12 +473,12 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 
 ## Challenges
 ### c1 · The Pinwheel Puzzle: why a spinner needs a twist (25 min)
-- **problem:** Make a paper pinwheel that spins when you blow on it. Then find out what kind of symmetry it has, and why a pinwheel with a fold line would not spin.
+- **problem:** Make a paper pinwheel that spins when you blow on it. Every blade of a pinwheel is bent the same way round, so the air pushes every blade in the same direction. A pinwheel with a fold line would have blades bent in opposite ways, and their pushes would cancel. Find out what kind of symmetry a pinwheel has, and why it needs to be that kind.
 - **safety:** A pin is sharp. A grown-up pushes it in and presses the tip into the eraser.
 - **your turn:** Design your own spinner, with any number of blades. Predict its order of rotational symmetry, then test whether it spins.
 - **constraints:** Use one square of paper, a pin, and a pencil with an eraser or a straw.; It must spin when you blow on it from the front.; A grown-up pushes in the pin.
-- **general:** Cut from each corner towards the centre, stopping halfway. Fold every other point into the centre and pin them through the middle into the eraser.; Four blades, all bent the same way round, so the pinwheel looks the same after a quarter turn.
-- **creative:** Try 3 blades or 6 blades, cut from a triangle or hexagon of paper.; Bend two blades one way and two the other. Does it still spin?; Look at the ceiling fan, switched off: are its blades tilted all the same way round?
+- **general:** Cut from each corner towards the centre, stopping halfway. Fold every other point into the centre and pin them through the middle into the eraser.; It has four blades, all bent the same way round, so the pinwheel looks the same after each quarter turn.
+- **creative:** Try 3 blades or 6 blades, cut from a triangle or hexagon of paper.; Bend two blades one way and two the other. Does it still spin?; Look at a ceiling fan while it is switched off. Are all its blades tilted the same way round?
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Cut from each corner towards the centre, stopping halfway. 2. Fold every other point to the middle. 3. A grown-up pins them through the centre into the eraser.  
   *Parent says:* Let's make a pinwheel. Fold every other point, all going the same way round.  
@@ -498,8 +498,8 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **safety:** Cut with the scissors pointing away from your fingers. Children under 8 cut with a grown-up beside them.
 - **your turn:** Design your own tile shape that covers a floor with no gaps. It doesn't have to be regular. Test it.
 - **constraints:** Use card and scissors.; Make each kind of shape the same size, by tracing a template.; Lay the shapes edge to edge on a table, with no gaps and no overlaps, to test each kind.
-- **general:** Squares and equal triangles cover a floor with no gaps.; Hexagons cover it with no gaps too.; Circles always leave gaps.
-- **creative:** Count how many shapes meet at one corner of your patch: 3 hexagons, 4 squares or 6 triangles. Why can circles never fit?; Look at floor tiles in your building. Which shapes do people use?; Try pentagons, five-sided shapes. Do they fit without gaps?
+- **general:** Squares and equal-sided triangles cover a floor with no gaps.; Hexagons cover it with no gaps too.; Circles always leave gaps.
+- **creative:** Count how many shapes meet at one corner of your patch. You should find 3 hexagons, or 4 squares, or 6 triangles. Why can circles never fit together with no gaps?; Look at floor tiles in your building. Which shapes do people use?; Try pentagons, five-sided shapes. Do they fit without gaps?
 - **s1 (14 min)**  
   *Parent does:* 1. Trace around the bottle cap on card and cut out 6 circles. 2. Measure across your circle and halve it. Cut a paper strip that long. 3. Start anywhere on the edge of a traced circle and mark the strip's length round the edge, six times. The six marks are the corners of a hexagon: join them, cut it out and use it as a template. 4. Join every second mark instead to get an equal-sided triangle, and cut that out as a template too. 5. Draw a square with sides about 2 cm. 6. Trace and cut so you have 6 of each shape.  
   *Parent says:* A bee needs cells with no gaps, using as little wax as she can. Let's make circles, squares, triangles and hexagons and test which ones fit together.  
@@ -516,18 +516,18 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 
 ## Worksheets
 ### Fold, Turn and Bubble (core) (core, 15 questions)
-1. (sort) Arjun, a boy of 7, sorts things by the fold test. Does each one have a line of symmetry?  
+1. (sort) Sort these things by the fold test. Does each one have a line of symmetry?  
    **Answer:** a butterfly → Has a line of symmetry; the letter S → No line of symmetry; a steel plate → Has a line of symmetry; your left hand → No line of symmetry; a heart shape → Has a line of symmetry; the letter Z → No line of symmetry. *Why:* A shape has a line of symmetry if a fold makes its halves match. The letters S and Z only match when turned, not folded. A hand has no fold that matches. A strong answer imagines the fold for each one.
-2. (mcq) Kavya, a girl in Class 3, sticks a bindi on the edge of a five-petalled periwinkle flower picture and turns it slowly. How many times does it look the same in one full turn?  
+2. (mcq) You stick a bindi on the edge of a picture of a five-petalled periwinkle flower and turn the picture slowly. How many times does it look the same in one full turn?  
    Options: 1 / 4 / 5 / 10  
    **Answer:** 5. *Why:* Each of the five petals takes the place of the next one after one-fifth of a turn. So it matches 5 times, which is order 5.
-3. (truefalse) Farhan, a boy in Class 3, says, 'Every shape looks the same after one full turn.' Is he right?  
+3. (truefalse) 'Every shape looks the same after one full turn.' Is this true?  
    **Answer:** True. *Why:* True. After a full turn, everything is back where it started. That is why a shape that only matches at the full turn has order 1, which means no rotational symmetry.
 4. (fill) A flat shape with six straight sides is called a ____.  
    **Answer:** ['hexagon']. *Why:* Hexagon means six-sided. Honeycomb cells and the squashed bubbles in the middle of a bubble raft are hexagons.
 5. (fill) A butterfly's left wing and right wing match when you fold along her line of ____.  
    **Answer:** ['symmetry']. *Why:* The fold line that makes the two halves match is the line of symmetry. A butterfly has one.
-6. (mcq) Tamanna, a girl in Class 3, holds up a square floor tile. How many lines of symmetry does it have?  
+6. (mcq) How many lines of symmetry does a square floor tile have?  
    Options: 1 / 2 / 4 / 8  
    **Answer:** 4. *Why:* A square can be folded along two lines through the middles of opposite sides and along two diagonals. That makes 4.
 7. (count) Look at the drawing of a bubble raft. Count the walls of the bubble marked with a star in the middle.  
@@ -537,7 +537,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 9. (mcq) Which of these has bilateral symmetry, a left half and a right half that match?  
    Options: Your body / A three-bladed fan / A snowflake / A jellyfish seen from above  
    **Answer:** Your body. *Why:* Your body has one line of symmetry, from head to feet. A fan, a snowflake and a jellyfish all have rotational symmetry around a centre.
-10. (mcq) Rani, a girl in Class 3, cuts a bhindi across its middle. She sees 5 rows of seeds around the centre. What order of rotational symmetry does the cut face have?  
+10. (mcq) A bhindi is cut across its middle. It shows 5 rows of seeds around the centre. What order of rotational symmetry does the cut face have?  
    Options: 1 / 2 / 5 / 10  
    **Answer:** 5. *Why:* Five repeating seed rows around the centre give order 5. It matches itself 5 times in one full turn.
 11. (mcq) A butterfly needs two matching wings. What is the main reason?  
@@ -548,7 +548,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 13. (draw) Draw a shape that has exactly one line of symmetry and no rotational symmetry. Then draw a shape that has rotational symmetry but no line of symmetry.  
    **Answer:** For example, a butterfly or a heart for the first, and the letter S, the letter Z or a pinwheel for the second.. *Why:* A strong drawing shows the dotted fold line on the first shape. For the second, it shows how the shape matches itself after a turn but no fold makes the halves match.
 14. (perspective) Two friends in Kochi look at a pot of periwinkle flowers. Each flower has five matching petals.  
-   **Answer:** A strong answer sees that both can be part of the answer. Sneha is right that petals grow in a ring round the tip of the bud, which spaces them evenly. Anjali is right that experiments show bees learn and often prefer symmetrical patterns, and bees visiting more often may have helped such flowers spread over a long time. A strong answer says which matters more is still being studied.. *Why:* Scientists agree on Sneha's point, and Anjali's point is supported by bee experiments but how strong the effect is remains open. Either side, argued with a reason, is a good answer.
+   **Answer:** A strong answer sees that both can be part of the answer. The second child is right that petals grow in a ring round the tip of the bud, which spaces them evenly. The first child is right that experiments show bees learn and often prefer symmetrical patterns, and bees visiting more often may have helped such flowers spread over a long time. A strong answer says which matters more is still being studied.. *Why:* Scientists agree on the second child's point. The first child's point is supported by bee experiments, but nobody yet knows how strong the effect is. Either side, argued with a reason, is a good answer.
 15. (write) A friend says a circle is the most symmetrical shape of all. Why might she be right?  
    **Answer:** A circle looks the same however little you turn it, and every line through its centre is a line of symmetry.. *Why:* A strong answer says a circle matches itself after any turn and has endless lines of symmetry, unlike a square, which matches only after quarter turns.
 ### Why Nature Comes Out Even (stretch) (stretch, 15 questions)
@@ -562,28 +562,28 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    **Answer:** 5. *Why:* A shape with 5 equal points has 5 lines of symmetry, each through one point and the middle of the gap opposite. A strong answer draws the lines to check.
 4. (order) Put the steps of the bubble raft experiment in order.  
    **Answer:** ['Mix dishwashing liquid, sugar and water and pour the soapy water into a plate', 'Blow gently through a straw to make same-sized bubbles', 'Lay a clear lid gently on top', 'Count the walls of 5 middle and 5 edge bubbles']. *Why:* First make the soapy layer, then the bubbles, then flatten them, then count. Counting both middle and edge bubbles lets you compare.
-5. (mcq) Divya, a girl in Class 3, makes a raft of soap bubbles. In it, one bubble in the middle is much smaller than its neighbours. How many walls is it most likely to have?  
+5. (mcq) In a raft of soap bubbles, one bubble in the middle is much smaller than its neighbours. How many walls is it most likely to have?  
    Options: Fewer than 6 / Exactly 6 / More than 6 / None  
    **Answer:** Fewer than 6. *Why:* Smaller bubbles in a foam tend to have fewer walls, and bigger ones more. Only bubbles of the same size, pressed equally, come out as six-sided hexagons.
-6. (truefalse) Pooja, a girl in Class 4, says, 'Every real snowflake is perfectly symmetrical.' Is she right?  
+6. (truefalse) 'Every real snowflake is perfectly symmetrical.' Is this true?  
    **Answer:** False. *Why:* False. Most real snowflakes are a little uneven, broken or stuck to others. The perfect ones in books were picked out by photographers. A strong answer says why some are uneven: one side met slightly different air, or the snowflake bumped into something.
-7. (mcq) Ukichiro Nakaya grew snowflakes in a cold laboratory in Japan. What did he find decides whether a snowflake grows as a plate, a needle or a branching star?  
+7. (mcq) A scientist grows snowflakes in a cold laboratory. What could he change to make them grow as a plate, a needle or a branching star?  
    Options: The colour of the cloud / The temperature and the moisture of the air / How fast the wind blows / The shape of the ground  
-   **Answer:** The temperature and the moisture of the air. *Why:* Nakaya showed that temperature and moisture decide the shape. That is why a snowflake's arms change as it falls through different air, and why all six arms change together.
+   **Answer:** The temperature and the moisture of the air. *Why:* Temperature and moisture decide the shape. That is why a snowflake's arms change as it falls through different air, and why all six arms change together.
 8. (fill) A jellyfish drifts in the sea. Food and danger can reach her from any side, so her body is the same all the way round. This is called ____ symmetry.  
    **Answer:** ['radial']. *Why:* Radial symmetry is symmetry all the way round a centre, like spokes on a wheel. Animals that move forward instead have bilateral symmetry.
 9. (label) Label the drawing of a periwinkle flower: draw one line of symmetry, mark the centre, and write its order of rotational symmetry.  
-   **Answer:** A line from the tip of one petal through the centre to the gap between the opposite petals, a dot at the centre, and 'order 5'.. *Why:* A five-petalled flower has 5 lines of symmetry, each through one petal tip and the centre. Its order is 5. A strong answer places the line through a petal tip, not between two petals on both sides.
+   **Answer:** A line from the tip of one petal through the centre to the gap between the opposite petals, a dot at the centre, and 'order 5'.. *Why:* A five-petalled flower has 5 lines of symmetry, each through one petal tip and the centre. Its order is 5. A strong answer draws the line through a petal tip on one side and through the gap between two petals on the other.
 10. (write) A plant cannot walk to another plant to share her pollen. Explain how a symmetrical flower helps her solve this problem.  
-   **Answer:** She needs a bee or another pollinator to carry the pollen. A symmetrical flower is easy for a bee to spot and land on. Many bees prefer symmetrical flowers. A flower with a landing lip lets the bee land the same way every time, so the pollen goes onto the same part of her body and reaches the next flower.. *Why:* A strong answer starts with the plant's problem, then says how the shape helps the bee find or land, and so carry pollen.
+   **Answer:** She needs a bee or another pollinator to carry the pollen. A symmetrical flower is easy for a bee to spot and land on. Many bees prefer symmetrical flowers. A flower with a landing lip lets the bee land the same way every time, so the pollen goes onto the same part of the bee's body and reaches the next flower.. *Why:* A strong answer starts with the plant's problem, then says how the shape helps the bee find or land, and so carry pollen.
 11. (write) Many people think an even shape must be planned by someone. Use what you saw in this unit to argue against this.  
    **Answer:** In the bubble raft, nobody drew the hexagons. The bubbles became six-sided because each was pressed equally on every side. A snowflake grows six matching arms with no plan, because all six arms grow in the same air at the same time.. *Why:* A strong answer uses evidence from the bubble raft or the snowflake, not just an opinion.
 12. (write) A tree grows at the edge of a busy road, next to a tall building. Predict what shape the tree will be, and explain why.  
    **Answer:** It will be lopsided, with more branches on the open side away from the building. The building blocks the light on one side, so the tree grows more where the light is.. *Why:* A strong answer links the break in symmetry to one side meeting different conditions, like the window plant and the edge bubbles.
 13. (draw) Draw a fish from the side and from above. On the view from above, draw her line of symmetry.  
    **Answer:** A fish from above with a line running from her mouth to her tail.. *Why:* A strong drawing shows that the fish's left and right halves match, and that the line runs from the front, where she meets the world first, to the back.
-14. (truefalse) Priya, a girl in Class 4, says, 'A rectangle that is not a square has four lines of symmetry.' Is she right?  
-   **Answer:** False. *Why:* False. A rectangle has two lines of symmetry, one across the middle each way, and order 2 rotational symmetry. Only a square has four lines. A strong answer imagines folding a long, thin rectangle along its corner.
+14. (truefalse) 'A rectangle that is not a square has four lines of symmetry.' Is this true?  
+   **Answer:** False. *Why:* False. A rectangle has two lines of symmetry, one across the middle each way, and order 2 rotational symmetry. Only a square has four lines. A strong answer thinks of folding a long, thin rectangle from corner to corner, and sees that the two halves do not match.
 15. (perspective) Three people talk about why honeycomb cells are hexagons.  
    **Answer:** A strong answer uses evidence: bubbles show that pressing and pulling can make hexagons without a plan, and hexagons really do use the least wall. It also gives the bees credit: scientists still argue how much the bees shape the cells and how much the wax does, and recent studies suggest bees build the walls directly. A strong answer says this is still argued.. *Why:* This is a real debate among scientists. There is no single settled answer, so a good answer argues with evidence and admits what is unknown.
 ### Symmetry Puzzles and Big Ideas (challenge) (challenge, 15 questions)
@@ -592,34 +592,34 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    **Answer:** H. *Why:* H matches when folded across the middle or down the middle, and it looks the same after half a turn. A has only a fold line, S only a turn, and F neither.
 2. (mcq) A shape has 4 lines of symmetry. What is the smallest order of rotational symmetry it can have?  
    Options: 1 / 2 / 4 / 8  
-   **Answer:** 4. *Why:* A flat shape with 4 lines of symmetry, like a square, also matches itself 4 times in one turn. Two mirror lines at an angle always make a turn, so many mirror lines bring rotational symmetry with them.
+   **Answer:** 4. *Why:* A flat shape with 4 lines of symmetry, like a square, also matches itself 4 times in one turn. Flipping a shape over one mirror line and then over another is the same as turning it. So a shape with several mirror lines always has rotational symmetry too.
 3. (mcq) You fold a paper square into 8 layers and cut a snowflake. How many arms will it have?  
    Options: 6 / 4 or 8 / 12 / 3  
-   **Answer:** 4 or 8. *Why:* Folding into 8 gives a four-fold or eight-fold pattern, not six. A real snowflake has six arms, so you fold into three after the first two folds.
+   **Answer:** 4 or 8. *Why:* Folding into 8 gives a four-fold or eight-fold pattern, not six. A real snowflake has six arms. To get six, you fold the paper into three after the first two folds.
 4. (mcq) A snowflake falls past a warm chimney, so one side meets warmer air than the other. What will its arms most likely look like?  
    Options: All six still match perfectly / The arms on the warm side grow differently from the others / It will grow eight arms / It becomes a bubble  
    **Answer:** The arms on the warm side grow differently from the others. *Why:* The arms match only when they all meet the same air. If one side meets different air, those arms grow differently and the symmetry breaks. The break shows where the air was different.
-5. (mcq) Kavya, a girl in Class 3, puts a bubble raft right next to a ruler lying in the plate. What will the bubbles touching the ruler look like?  
+5. (mcq) A bubble raft sits right next to a ruler lying in the plate. What will the bubbles touching the ruler look like?  
    Options: Hexagons like the middle ones / Flat on the side touching the ruler / Perfect circles / Triangles  
    **Answer:** Flat on the side touching the ruler. *Why:* The ruler presses on one side only, so the walls touching it are straight and the bubbles are lopsided, like the edge bubbles at the rim of the plate. Wherever the push changes, the shape changes.
 6. (sort) Sort these living things by their symmetry.  
    **Answer:** a crow → Bilateral (left and right); a jellyfish → Radial (all the way round); an earthworm → Bilateral (left and right); a hibiscus flower → Radial (all the way round); a tulsi flower → Bilateral (left and right); a sea anemone → Radial (all the way round). *Why:* Animals that move forward, like a crow and an earthworm, are bilateral. A tulsi flower is bilateral too, with a landing lip. A jellyfish, a sea anemone and a hibiscus flower are the same all the way round.
 7. (count) A snowflake has six arms. Each arm grows 4 side branches on each side. How many side branches does the whole snowflake have?  
    **Answer:** 48. *Why:* Each arm has 4 + 4 = 8 branches. Six arms have 6 × 8 = 48. A strong answer shows the working: branches per arm first, then times six.
-8. (truefalse) Shreya, a girl in Class 4, says, 'If a shape has rotational symmetry, it must also have a line of symmetry.' Is she right?  
+8. (truefalse) 'If a shape has rotational symmetry, it must also have a line of symmetry.' Is this true?  
    **Answer:** False. *Why:* False. A pinwheel and the letter S have rotational symmetry but no line of symmetry. A strong answer gives an example like these.
 9. (write) Your heart sits a little to the left. Your body has a left and a right side that nearly match. Why do you think the outside of your body is more even than the inside?  
    **Answer:** The outside meets the world, and moving forward means both sides meet the world in the same way, so it is useful for them to match. Inside, organs like the heart, stomach and liver can be packed in any way that fits, so they are not in matching pairs.. *Why:* There is no single right answer. A strong answer links the evenness of the outside to how the body moves and meets the world, and says the inside has a different job.
-10. (write) Explain why the bubbles at the edge of your raft and the window plant are alike.  
+10. (write) The bubbles at the edge of the bubble raft are lopsided. A plant beside a window has more leaves on the window side. Explain how the two are alike.  
    **Answer:** Both break their symmetry because one side met something different. The edge bubbles were pressed on one side only. The plant got light on one side only. In both, the uneven shape shows which side was different.. *Why:* A strong answer names the different condition in each case and says how the shape shows it.
-11. (write) Kepler, in 1611, wondered why every snowflake has six corners. If you could talk to him, what would you tell him, and how do scientists know?  
+11. (write) In 1611, the astronomer Johannes Kepler wondered why every snowflake has six corners. If you could talk to him, what would you tell him, and how do scientists know?  
    **Answer:** I would tell him that in ice, water molecules join in rings of six, so ice grows in six directions, and the arms match because they grow in the same air together. Scientists know this from shining X-rays through ice to see where the molecules sit, and from Nakaya's snowflakes grown in a laboratory.. *Why:* A strong answer gives both parts: why six, and why the arms match, and names how we know.
 12. (write) An engineer builds a fan whose blades are bent half one way and half the other. Predict what happens when it is switched on, and explain.  
    **Answer:** It will hardly turn. The blades bent one way push the fan one way, and the blades bent the other way push it the other way. The pushes cancel out.. *Why:* A strong answer uses the pinwheel challenge: a spinner needs rotational symmetry without a line of symmetry.
 13. (draw) Design a tile that can cover a floor with no gaps, and draw how 6 of them fit together.  
-   **Answer:** Any shape that fits without gaps: a square, an equal triangle, a hexagon, or a cleverer shape.. *Why:* A strong drawing shows the tiles meeting edge to edge with no gaps or overlaps. Extra credit for a shape that is not a square, triangle or hexagon.
+   **Answer:** Any shape that fits without gaps: a square, an equal-sided triangle, a hexagon, or a cleverer shape.. *Why:* A strong drawing shows the tiles meeting edge to edge with no gaps or overlaps. Extra credit for a shape that is not a square, triangle or hexagon.
 14. (perspective) Two cousins, Meenakshi and Arjun, argue about whether symmetry is everywhere in nature.  
-   **Answer:** A strong answer sees that both are partly right. Many natural shapes are nearly symmetrical, like the middle bubbles, a snowflake's arms and a periwinkle. But none is perfectly even: edge bubbles, the window plant and your own two hands show small breaks, each caused by something different on one side.. *Why:* This question has no single right side. A strong answer uses evidence for both.
+   **Answer:** A strong answer sees that both are partly right. Many natural shapes are nearly symmetrical, like bubbles in the middle of a raft, a snowflake's arms and a periwinkle. But none is perfectly even: bubbles at the edge, a plant leaning to a window and your own two hands show small breaks, each caused by something different on one side.. *Why:* This question has no single right side. A strong answer uses evidence for both.
 15. (perspective) Three people say why so many people around the world make symmetrical art, from kolams to mandalas.  
    **Answer:** A strong answer picks one and supports it, for example with how a kolam is drawn quarter by quarter (practical), or how quickly the eye spots a symmetrical pattern (perception), and gives credit to another view. Many people think all three play a part.. *Why:* This is an open question. Any side argued with a reason, and fair to another view, is a good answer.
 
@@ -629,19 +629,19 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **Symmetry, reality's riddle - Marcus du Sautoy** (TED-Ed, 18 min) id `1xlAaBrIxMs`: For the parent: a mathematician on what symmetry is and why it matters, from art to physics. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. It is a long talk for grown-ups, not for children: a parent should preview it and check its length.
 
 ## Quiz
-1. (mcq) Lakshmi, a girl in Class 3, folds a picture of a butterfly down the middle, and the two halves match exactly. What is the fold called?  
+1. (mcq) You fold a picture of a butterfly down the middle, and the two halves match exactly. What is the fold called?  
    Options: A line of symmetry / A centre / An order / A hexagon  
    **Answer:** A line of symmetry. *Why:* The fold that splits a shape into two matching halves is a line of symmetry, also called a mirror line. 'Centre' is the point a shape turns around, which is for rotational symmetry.
-2. (mcq) A ceiling fan has three blades. You turn it slowly, switched off. How many times does it look exactly the same in one full turn?  
+2. (mcq) A ceiling fan has three blades. With the fan switched off, you turn it slowly. How many times does it look exactly the same in one full turn?  
    Options: 1 / 2 / 3 / 6  
-   **Answer:** 3. *Why:* It looks the same after each third of a turn, so 3 times. That is order 3 rotational symmetry. Picking 6 means counting blades and gaps both.
+   **Answer:** 3. *Why:* It looks the same after each third of a turn, so 3 times. That is order 3 rotational symmetry. If you picked 6, you counted the gaps as well as the blades.
 3. (mcq) Which of these has rotational symmetry but no line of symmetry?  
    Options: The letter S / The letter A / A butterfly / A square  
    **Answer:** The letter S. *Why:* The letter S looks the same after half a turn, but no fold makes its halves match. The letter A and a butterfly have a line of symmetry but no rotational symmetry. A square has both.
-4. (mcq) Divya, a girl in Class 3, makes a raft of same-sized soap bubbles and covers it with a clear lid. What shape are most of the bubbles in the middle?  
+4. (mcq) You make a raft of same-sized soap bubbles and cover it with a clear lid. What shape are most of the bubbles in the middle?  
    Options: Circles / Squares / Six-sided / Triangles  
    **Answer:** Six-sided. *Why:* Each bubble in the middle is pressed equally by about six neighbours, and the walls meet three at a time at equal angles. So most become six-sided. If you guessed squares, try it: four walls meeting at a point slide apart into threes.
-5. (mcq) In the same bubble raft, why are the bubbles at the edge lopsided?  
+5. (mcq) In a bubble raft, why are the bubbles at the edge lopsided?  
    Options: They are older bubbles / They are pressed by bubbles on one side only / The soap is thinner at the edge / The lid is bent  
    **Answer:** They are pressed by bubbles on one side only. *Why:* An edge bubble has neighbours on one side and open water or the plate on the other. The push is not the same all round, so the shape is not even. The middle bubbles have the same push from every side.
 6. (mcq) Why does a snowflake have six arms?  
@@ -659,7 +659,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 10. (mcq) Why do fish, ants and people have a left side and a right side that nearly match?  
    Options: They move forward, so they meet the world front first and their two sides meet it in the same way / Their mothers fold them / Water makes them even / They live in cities  
    **Answer:** They move forward, so they meet the world front first and their two sides meet it in the same way. *Why:* Animals that move forward have their mouth and eyes at the front, and their left and right sides meet the world in the same way. Animals that drift, like jellyfish, are often the same all the way round.
-11. (mcq) Meenakshi, a girl in Chennai, draws a kolam by drawing one quarter, then turning and drawing the same quarter three more times. What order of rotational symmetry does it have?  
+11. (mcq) A kolam is made by drawing one quarter, then turning and drawing the same quarter three more times. What order of rotational symmetry does it have?  
    Options: 1 / 2 / 4 / 8  
    **Answer:** 4. *Why:* Four matching quarters, each a quarter turn apart, make the kolam look the same 4 times in one full turn.
 12. (mcq) A money plant beside a window has more leaves on the window side. What does this break in her symmetry tell you?  
@@ -683,8 +683,8 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 ## Open questions
 - **How much did bees choosing symmetrical flowers shape the flowers we see today?** Bees learn and often prefer symmetrical patterns, but it is hard to measure how strongly this has shaped flowers over millions of years.
 - **How exactly do bees build hexagonal cells?** Some scientists think warm wax pulls itself into hexagons. Others have filmed bees building hexagonal walls directly. The question is still argued.
-- **Why are living bodies so nearly symmetrical, yet slightly uneven in such similar ways, like the heart on the left?** Scientists know some of the signals in a growing embryo that tell left from right, but not the whole story of how the first difference starts.
-- **Why do people find symmetry beautiful?** Ideas include health, easier seeing and habit from nature. Studies disagree, and it may be a mix.
+- **Why are living bodies nearly symmetrical, but uneven in the same few ways, such as the heart sitting on the left?** Scientists know some of the signals in a growing embryo that tell left from right, but not the whole story of how the first difference starts.
+- **Why do people find symmetry beautiful?** Some say symmetry is a sign of health. Others say symmetrical shapes are easier to see, or that we are used to them from nature. Studies disagree, and it may be a mix.
 
 ## Questions to ask kids
 - Is that flower even all the way round, or does it have a left and a right side?
@@ -707,11 +707,11 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - What did the starfish say after she turned a fifth of the way round? *Nothing has changed.*
 
 ## Connected maths
-- In the bubble raft, Divya, a girl in Class 3, counted the walls of 5 middle bubbles: 6, 6, 5, 6, 7. How many walls is that altogether, and what is the usual number per bubble? **30 walls altogether. 30 shared out among 5 bubbles is 6 each.**. Add them: 6 + 6 + 5 + 6 + 7 = 30. Sharing 30 equally among 5 bubbles gives 6 each. The 5 and the 7 balance out: one is one less than 6, the other one more. (queues `math.division.division-facts.L3`)
+- In a bubble raft, the walls of 5 middle bubbles were counted: 6, 6, 5, 6, 7. How many walls is that altogether, and what is the usual number per bubble? **30 walls altogether. 30 shared out among 5 bubbles is 6 each.**. Add them: 6 + 6 + 5 + 6 + 7 = 30. Sharing 30 equally among 5 bubbles gives 6 each. The 5 and the 7 balance out: one is one less than 6, the other one more. (queues `math.division.division-facts.L3`)
 - A pulli kolam has 5 rows of 5 dots. Another has 7 rows of 7 dots. How many more dots does the bigger kolam have? **24 more dots.**. 5 rows of 5 is 25 dots. 7 rows of 7 is 49 dots. 49 take away 25 is 24. (queues `math.multiplication.multiplication-facts.L3`)
 - A paper snowflake has 6 arms. You cut 3 notches on each side of each arm. How many notches are there on the opened snowflake? **36 notches.**. Each arm has 3 + 3 = 6 notches. 6 arms with 6 notches each is 6 × 6 = 36. (queues `math.multiplication.equal-groups.L3`)
 - A kolam with order 4 rotational symmetry is drawn quarter by quarter. Each quarter takes 3 minutes. How long does the whole kolam take? What fraction is done after 2 quarters? **12 minutes. After 2 quarters, half is done.**. 4 quarters of 3 minutes is 4 × 3 = 12 minutes. 2 quarters out of 4 is the same as one half. (queues `math.fractions.halves-and-quarters.L3`)
-- Kavya, a girl in Class 3, counted lemon segments: 9, 11, 10 and 10. Bhindi seed rows: 5, 5, 5 and 5. Which fruit's count varied more? What is the difference between the biggest and smallest lemon count? **The lemon varied more. The difference is 2.**. The bhindi counts were all 5, so they did not vary. The lemon counts went from 9 to 11. 11 take away 9 is 2. (queues `math.data.sorting-and-tallies.L3`)
+- Four lemons had 9, 11, 10 and 10 segments. Four bhindis had 5, 5, 5 and 5 seed rows. Which fruit's count varied more? What is the difference between the biggest and smallest lemon count? **The lemon varied more. The difference is 2.**. The bhindi counts were all 5, so they did not vary. The lemon counts went from 9 to 11. 11 take away 9 is 2. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
 Fold It, Turn It (sci.patterns-symmetry.L3): Topic-level song for Patterns and symmetry L3

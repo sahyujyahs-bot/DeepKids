@@ -46,7 +46,7 @@ We write every number with only ten digits. A 5 on the right means five ones. On
 ### Why a gap is not enough · *defined*
 **Definition:** A blank space can hold an empty place in the middle of a number, but nobody can see a blank at the end.
 
-About 2,300 years ago, scribes in Babylon, in what is now Iraq, wrote numbers on clay. At first they left a gap for an empty place. Gaps were easy to miss, so later scribes drew two small slanted marks in the gap. But they did not put the mark at the end of a number. So a reader had to guess, from the writing around the number, whether it meant 2 or 120 or 7,200. You can see the same problem in the missing zero test: blanks at the end of a number go unseen.
+About 2,300 years ago, scribes in Babylon, in what is now Iraq, wrote numbers on clay. At first they left a gap for an empty place. Gaps were easy to miss, so later scribes drew two small slanted marks in the gap. But they did not put the mark at the end of a number. Their numbers were built on sixties. So the same marks could mean 2, or 120, or 7,200, and the reader had to guess from the writing around the number. You can see the same problem in the missing zero test: blanks at the end of a number go unseen.
 - e.g. 52 followed by a blank looks exactly like 52.
 - e.g. 3, a gap, then 4 might be read as 34 or as 304.
 ### India's gift: zero as a number · *defined*
@@ -58,7 +58,7 @@ Indian astronomers used place value with ten signs from at least about 1,500 yea
 ### Brahmagupta's rules for zero · *defined*
 **Definition:** In 628, Brahmagupta wrote rules for zero: a number plus zero stays the same, a number minus zero stays the same, and a number times zero is zero.
 
-Brahmagupta lived in Bhillamala, which is now Bhinmal in Rajasthan. His book was called the Brahmasphutasiddhanta. Before him, zero was a sign for an empty place. He treated it as a number you can add, take away and multiply. He also gave rules for negative numbers, which he called debts, and for positive numbers, which he called fortunes. Zero sits between them. A debt taken from zero becomes a fortune, he wrote.
+Brahmagupta lived in Bhillamala, which is now Bhinmal in Rajasthan. His book was called the Brahmasphutasiddhanta. Before him, zero was a sign for an empty place. He treated it as a number you can add, take away and multiply. He also gave rules for negative numbers, which he called debts, and for positive numbers, which he called fortunes. Zero sits between them. He wrote that taking a debt away from zero leaves a fortune. If someone cancels a debt you owe, you are better off.
 - e.g. 8 + 0 = 8. Adding no modaks to 8 modaks leaves 8.
 - e.g. 8 - 0 = 8. Taking away no modaks leaves 8.
 - e.g. 8 × 0 = 0. Eight plates with no modaks on each hold no modaks.
@@ -66,7 +66,7 @@ Brahmagupta lived in Bhillamala, which is now Bhinmal in Rajasthan. His book was
 ### Why nobody can divide by zero · *defined*
 **Definition:** Dividing a number by zero has no answer. Mathematicians call it undefined.
 
-Division undoes multiplication. 12 ÷ 3 = 4, because 4 × 3 = 12. So 12 ÷ 0 asks: what number, times 0, gives 12? Every number times 0 is 0, so no number works. You can see it with beans. Put 12 beans in groups of 0. You can make group after group, and the heap never gets smaller. For 0 ÷ 0, every number works, so there is no single answer either. Brahmagupta thought 0 ÷ 0 was 0. Later mathematicians showed that this rule does not fit with the others.
+Division undoes multiplication. 12 ÷ 3 = 4, because 4 × 3 = 12. So 12 ÷ 0 asks: what number, times 0, gives 12? Every number times 0 is 0, so no number works. You can see it with beans. Put 12 beans in groups of 0. You can make group after group, and the heap never gets smaller. For 0 ÷ 0, every number works, so there is no single answer either. Brahmagupta thought 0 ÷ 0 was 0. Later mathematicians showed that this was wrong, because every number gives a working answer, so there is no single answer.
 - e.g. A calculator shows an error for 12 ÷ 0.
 - e.g. 12 ÷ 4 = 3 and 12 ÷ 2 = 6. Smaller groups give more groups. With groups of 0, the groups never end.
 ### Zero as a starting point · *defined*
@@ -112,7 +112,7 @@ Brahmagupta's book was translated into Arabic in Baghdad in the 700s. In about 8
 ## Challenging perspectives
 - **Zero is nothing, so leaving it out does not matter.** (A common idea among children, and a mistake grown-ups make when they write fast; *rejected*)  
   For: Zero does mean none. A 0 adds no ones and no tens.  
-  Against: Take the 0 out of 520 and you get 52, ten times smaller. The 0 adds nothing to count, but it keeps the other digits in their places. That is one reason a cheque asks for the amount in words as well.
+  Against: Take the 0 out of 520 and you get 52, ten times smaller. The 0 adds nothing to count, but it keeps the other digits in their places. That is one reason a cheque has the amount in words as well as digits. The words make it hard for anyone to change the amount by adding or leaving out a 0.
 - **Zero was invented in India, and nowhere else.** (Many people, in India and outside; *rejected*)  
   For: Zero as a number with rules, and the ten digits the world uses, did come from India.  
   Against: Scribes in Babylon used a mark for an empty place about 2,300 years ago, but never as a number. The Maya of Central America made their own zero sign, more than 1,500 years ago. So several peoples found the idea of an empty place. India made zero a number.
@@ -143,7 +143,7 @@ We have learned that zero is the number for none, and that a 0 holds an empty pl
 Ten digits, 0 to 9, can write every number there is. Zero makes this work, because it holds the empty places that give every other digit its value. Some old texts say the same about empty space: a pot or a wheel works because of what is empty inside it.
 
 - **Tao Te Ching 11:** Thirty spokes meet at one hub, but it is the empty centre that makes the wheel useful. Shape clay into a pot, and it is the empty space inside that makes the pot useful. (The empty tens place in 205 is like the hole in the hub. It holds nothing, but without it the number does not work.)
-- **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (The verse plays with taking away and what remains, as Brahmagupta's rules do with zero. It is about the whole, not about numbers.)
+- **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (Taking something away from the whole still leaves the whole. This is a little like taking zero away from a number, which leaves it the same. The verse is about the whole of everything, not about numbers, so this is only a comparison.)
 - **Rig Veda 10.129, the Nasadiya Sukta (the hymn of creation):** Then there was neither being nor non-being. Who really knows how it all began? (The hymn asks what was there before anything. Scientists also ask whether any place can be truly empty, and nobody knows yet.)
 - Science (settled): Brahmagupta wrote rules for calculating with zero in 628. His rules for adding, taking away and multiplying are the ones used today.
 - Science (settled): Even space with no atoms in it holds a tiny amount of energy, which physicists have measured. No perfectly empty place is known.
@@ -356,6 +356,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   - Note: Notice which zeros are 'none' and which are holding a place, like the 0 in 30 or in a pin code such as 600 028. You will come back to this difference.
   - Check: In the date 30 October, what does the 0 tell you? → **The 3 means three tens, and there are no extra ones**
 ### a2 · The katori abacus (12 min)
+- **problem:** When you write 205, the 0 says that the tens place is empty. In this activity you use beans in three katoris to see what happens to the number when the empty place is left out.
 - **safety:** Children under 4 must not be left with dry beans, which they could choke on.
 - **record:** Draw the katoris for 205 and write the number under them.
 - **s1 (3 min)**  
@@ -374,6 +375,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Child mode:* Make 250, then 502, then 520. Write each one. Now make one for your grown-up to write.
   - Check: There are 5 beans in Hundreds, 0 in Tens and 2 in Ones. What number is it? → **502**
 ### a3 · Brahmagupta's rules with beans (15 min)
+- **problem:** In the year 628, an Indian mathematician called Brahmagupta wrote the first rules for doing sums with zero. In this activity you test his rules with beans. You also try to share 12 beans into groups of 0, to see why nobody can divide by zero.
 - **safety:** Children under 4 must not be left with dry beans.
 - **record:** Write each rule you tested, with a small drawing of the beans.
 - **s1 (4 min)**  
@@ -414,6 +416,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Child mode:* Write 350 and 105 three ways. Which way is quickest?
   - Check: Roman numerals and old Tamil numerals had no zero. What did they use instead? → **Special signs for ten, a hundred and more**
 ### a5 · The lift number line: below zero (12 min)
+- **problem:** Is zero the smallest number? A lift in a tall building goes below the ground floor, to the basement floors. In this activity you use lift buttons and a number line to find out what the numbers below zero are.
 - **record:** Draw your number line and mark G as 0.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw a line with marks for -3, -2, -1, 0, 1, 2, 3, 4, 5. 2. Write G under 0, and B1, B2, B3 under -1, -2, -3.  

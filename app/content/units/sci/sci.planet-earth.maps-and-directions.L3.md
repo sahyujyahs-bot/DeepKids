@@ -3,7 +3,7 @@
 
 **Summary.** A map is a drawing of a place as if you were looking down on it from above. It does not show colours, smells or sounds, yet it can lead a stranger straight to a hidden coin. It works because it keeps how far apart things are and which way they lie. North, south, east and west are directions fixed to the Earth, so they mean the same for everyone, whichever way they face. You can find east from the morning Sun, and draw a map of your room by counting floor tiles.
 
-**Intro.** *Put a coin on the floor of a room. Can you draw a map so good that someone who did not see you can walk in and put a finger on the coin?* In this unit you draw maps of your room, your home and your street. You find out which way north, south, east and west are in your own flat. You test two maps against each other to see which one finds a hidden coin. And you find out how a desert ant finds her way home by counting her steps.
+**Intro.** *Put a coin on the floor of a room. Can you draw a map so good that someone who did not see where you put it can walk in and put a finger on the coin?* In this unit you draw maps of your room, your home and your street. You find out which way north, south, east and west are in your own flat. You test two maps against each other to see which one finds a hidden coin. And you find out how a desert ant finds her way home by counting her steps.
 
 ## Learning outcomes
 0. I can name the four directions, north, south, east and west, and find east and north in my home from the morning Sun or a compass.
@@ -108,9 +108,9 @@ Cataglyphis ants live in the Sahara desert, where the ground can be hotter than 
 ## Roots
 We have drawn maps of a room, a home and a street, and tested which map finds a hidden coin. Now we ask what a map tells us about ourselves and the world.
 
-**Deep truth.** Your tile map had no colours, no cushions and no smells. Yet it led someone straight to the coin. It kept only how far apart things are, and which way they lie. So a map can be true about a place while looking nothing like it.  
+**Deep truth.** A tile map has no colours, no cushions and no smells. Yet it can lead someone to a hidden coin. It keeps only how far apart things are, and which way they lie. So a map can be true about a place while looking nothing like it.  
 *Habit it breaks:* We think a true picture must look like the thing it shows, like a photo. But a map is true in a different way. It keeps the distances and directions between things, and drops almost everything else.  
-*Evidence:* In the coin test, the plain tile map led the finder to the right tile, while the memory map, with its guessed distances, was tiles off. In the child-and-grown-up test, two maps of different sizes had the same shape, and both were right.
+*Evidence:* In the Memory Map or Tile Map test, the plain tile map led the finder to the right tile, while the memory map, with its guessed distances, was tiles off. In the Child Steps, Grown-up Steps test, two maps of different sizes had the same shape, and both were right.
 
 - *who am i:* You carry a map of your home inside you. That is how you find the bathroom in the dark.
 - *what is life:* A desert ant keeps her own map by counting her steps and watching the Sun. That is how she gets home alive across hot sand.
@@ -118,20 +118,20 @@ We have drawn maps of a room, a home and a street, and tested which map finds a 
 
 One room can have many true maps: your tile map, a grown-up's map of it in their head, an ant's count of steps, a plumber's plan of the pipes. They look nothing alike. Each one keeps a different part of how the room is arranged, and each one is useful to whoever uses it.
 
-- **Alfred Korzybski, Science and Sanity (1933), page 58:** A map is not the land it shows. But if the map is correct, it has the same arrangement as the land, and that is why it is useful. (This is what the coin test showed. The tile map was not the room, but every distance on it matched the room's arrangement. That is why it found the coin.)
-- **Jorge Luis Borges, 'On Exactitude in Science' (1946):** In this very short story, mapmakers in an empire made a map as big as the empire itself, matching it point for point. The next people found it useless and left it to rot in the desert. (A map helps because it is smaller than the place and leaves things out. Your tile map fitted on one page, so you could see the whole room at once.)
-- **Majjhima Nikaya 22, the Alagaddupama Sutta (the parable of the raft):** The Buddha said his teaching is like a raft for crossing a river. When you reach the other bank, you do not carry the raft on your head. You leave it and walk on. (A map is the same kind of tool. It is for getting somewhere, such as from the door to the coin. Once Thatha knew the way home, he hardly needed the map.)
+- **Alfred Korzybski, Science and Sanity (1933), page 58:** A map is not the land it shows. But if the map is correct, it has the same arrangement as the land, and that is why it is useful. (This is what the Memory Map or Tile Map test showed. The tile map was not the room, but every distance on it matched the room's arrangement. That is why it found the coin.)
+- **Jorge Luis Borges, 'On Exactitude in Science' (1946):** In this very short story, mapmakers in an empire made a map as big as the empire itself, matching it point for point. The people who came after them found it useless and left it to rot in the desert. (A map helps because it is smaller than the place and leaves things out. A tile map fits on one page, so you can see the whole room at once.)
+- **Majjhima Nikaya 22, the Alagaddupama Sutta (the parable of the raft):** The Buddha said his teaching is like a raft for crossing a river. When you reach the other bank, you do not carry the raft on your head. You leave it and walk on. (A map is the same kind of tool. It is for getting somewhere, such as from the door to the coin. In the story Thatha and the Six Towers, once Thatha knew the way home, he hardly needed the map.)
 - Science (settled): In 1971, John O'Keefe found 'place cells' in rats' brains, which fire when the rat is in one particular spot. In 2005, May-Britt Moser and Edvard Moser found 'grid cells', which fire in a grid pattern as the rat moves. The three shared the Nobel Prize in 2014.
 - Science (settled): Desert ants measure distance by counting steps. Ants given stilts walked past their nest.
-- Science (open): How signals from these cells become the feeling of knowing where you are is not known.
+- Science (open): How signals from place cells and grid cells become the feeling of knowing where you are is not known.
 - Other view, Many mapmakers and geographers: No map is simply true. Every map leaves things out, and the mapmaker chooses what. A city map for cars can leave out the footpaths that walkers need. So instead of asking whether a map is true, we should ask what it is for and whom it leaves out.
 - Practice, Walk the map with your eyes closed (3 min): Sit still and close your eyes. Picture your bed. Now picture walking from your bed to the kitchen. Count the steps in your head. Which way do you turn at each door? Open your eyes. Now walk it for real and count. Was the map in your head right?
 - Ask: Which of the maps you made in this unit was the most useful, and who was it useful to?
-- Ask: Thatha hardly needed his map once he knew the way home. What is a map for?
+- Ask: In the story Thatha and the Six Towers, Thatha hardly needed his map once he knew the way home. So what is a map for?
 - Ask: If an ant, a bird and you each map the same building, whose map is the real one?
 
 ## Deep and big questions
-- *deep:* Your tile map had no colours and no cushions on it, yet it found the coin. What does a map need to keep to be true? (hint: Think about what you left out, and what you were careful to get right.)
+- *deep:* A tile map has no colours and no cushions on it, yet it can lead someone to a hidden coin. What does a map need to keep to be true? (hint: Think about what you left out, and what you were careful to get right.)
 - *deep:* If you walk north and keep going, where do you end up? And which way is south from there? (hint: Think about the North Pole. From there, every direction leads away from it.)
 - *big:* A desert ant counts her steps with no paper and no numbers. Is she making a map? (hint: Think about what a map does for you, and whether the ant does the same thing inside her body.)
 - *big:* Borders between countries are drawn on maps, but you cannot see them on the ground. Are they real? (hint: Think about who drew them, and what changes when people agree on them.)
@@ -195,7 +195,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 
 ## Games
 ### g1 · Vadakku, Therku! A turn-and-face direction game (15 min)
-- **rules:** Stick the four wall labels on the right walls first. Use the morning Sun or a compass, as in the Find the Four Directions activity.; Shuffle the 16 direction cards and put them face down. One player is the caller. With two players, you take turns being the caller.; The caller turns over a card and reads it aloud. The words in brackets tell the caller which direction it is. Everyone else turns to face that direction and points.; Anyone pointing at the right wall scores 1. The last one to turn, or anyone pointing at the wrong wall, scores 0. The caller does not score on their own cards.; The caller changes after every 4 cards. After each caller's 4 cards, that caller also says one corner, such as 'between north and east'. Everyone points to that corner, and the right corner scores 1.; Play the first 8 cards with the labels up. Then take the labels down and play the last 8 cards from memory.; The game ends when all 16 cards are used. The player with the most points wins.
+- **rules:** Stick the four wall labels on the right walls first. Use the morning Sun or a compass, as in the Find the Four Directions activity.; Shuffle the 16 direction cards and put them face down. One player is the caller. With two players, you take turns being the caller.; The caller turns over a card and reads it aloud. The words in brackets tell the caller which direction it is. Everyone else turns to face that direction and points.; Anyone pointing at the right wall scores 1. The last one to turn, or anyone pointing at the wrong wall, scores 0. The caller does not score on their own cards.; Each caller reads 4 cards. Then that caller names one corner, such as 'between north and east'. Everyone points to that corner, and anyone pointing at the right corner scores 1. Then the next player becomes the caller.; Play the first 8 cards with the labels up. Then take the labels down and play the last 8 cards from memory.; The game ends when all 16 cards are used. The player with the most points wins.
 - **Printable cards: 16 direction cards to cut out:** NORTH; SOUTH; EAST; WEST; Vadakku (Tamil and Malayalam: north); Therku (Tamil: south); Thekku (Malayalam: south); Kizhakku (Tamil and Malayalam: east); Merku (Tamil: west); Padinjaru (Malayalam: west); Uttaram (Telugu: north); Toorpu (Telugu: east); Uttar (Hindi: north); Dakshin (Hindi: south); Purab (Hindi: east); Paschim (Hindi: west)
 - **Printable cards: 4 wall labels:** N; S; E; W
 - **Printable score sheet: Score sheet:** Player name; Right turns; Wrong turns
@@ -219,8 +219,8 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
   *Child mode:* When you turned, did north move?
   - Think: Your right hand pointed at a different wall each time. Did north ever change?
 ### g2 · Tile Treasure: a grid treasure-hunt board game (20 min)
-- **rules:** Lay the squares out in 8 rows of 10, with A1 at the top left. North is the top row. Put all tokens on the START square, A5, at the front door. Put a paper coin on each of the 8 coin spots.; Shuffle the direction cards and put them face down. Each player holds 3 cards.; On your turn, play one card. Move your token that many squares in a straight line in that direction. Then take a new card.; Walls and doors are on the square sides. You cannot go through a wall. If a wall stops you, stay on the last square before it. You can only go from one room to the next through a door.; If none of your cards can move you, play one anyway. It goes on the used pile and you take a new one. When the face-down cards run out, shuffle the used pile and use it again.; Before you move, say which square you will end on. If you are right, score 1 point.; Land on a coin spot to pick up the coin there. Each coin is worth 2 points.; The game ends when all coins are gone, or when every player has had 8 turns. The player with the most points wins. Playing alone, collect all 8 coins in as few turns as you can.
-- **Printable board: The flat map: 80 squares, 10 across (A to J) and 8 down (1 to 8). Draw a north arrow above the top row.:** A1, kitchen. Coin spot: the fridge. Wall on the north and west sides.; B1, kitchen. Wall on the north side.; C1, kitchen. Wall on the north side.; D1, kitchen. Wall on the north and east sides.; E1, bedroom 1. Wall on the north and west sides.; F1, bedroom 1. Wall on the north side.; G1, bedroom 1. Wall on the north side.; H1, bedroom 1. Wall on the north and east sides.; I1, bathroom. Wall on the north and west sides.; J1, bathroom. Coin spot: the washing machine. Wall on the north and east sides.; A2, kitchen. Wall on the west side.; B2, kitchen.; C2, kitchen.; D2, kitchen. Wall on the east side.; E2, bedroom 1. Wall on the west side.; F2, bedroom 1.; G2, bedroom 1. Coin spot: the bed.; H2, bedroom 1. Wall on the east side.; I2, bathroom. Wall on the west side.; J2, bathroom. Wall on the east side.; A3, kitchen. Wall on the south and west sides.; B3, kitchen. Wall on the south side.; C3, kitchen. Door on the south side.; D3, kitchen. Wall on the south and east sides.; E3, bedroom 1. Wall on the south and west sides.; F3, bedroom 1. Door on the south side.; G3, bedroom 1. Wall on the south side.; H3, bedroom 1. Wall on the south and east sides.; I3, bathroom. Door on the south side. Wall on the west side.; J3, bathroom. Wall on the south and east sides.; A4, hall. Wall on the north and west sides.; B4, hall. Wall on the north side.; C4, hall. Door on the north side.; D4, hall. Wall on the north side.; E4, hall. Wall on the north side.; F4, hall. Coin spot: the TV. Door on the north side.; G4, hall. Wall on the north side.; H4, hall. Wall on the north side.; I4, hall. Door on the north side.; J4, hall. Coin spot: the pooja shelf. Wall on the north and east sides.; A5, hall. START square. Door on the west (the front door) side. Wall on the south side.; B5, hall. Coin spot: the shoe rack. Door on the south side.; C5, hall. Wall on the south side.; D5, hall. Wall on the south side.; E5, hall. Wall on the south side.; F5, hall. Wall on the south side.; G5, hall. Door on the south side.; H5, hall. Wall on the south side.; I5, hall. Wall on the south side.; J5, hall. Wall on the south and east sides.; A6, bedroom 2. Wall on the north and west sides.; B6, bedroom 2. Door on the north side.; C6, bedroom 2. Wall on the north side.; D6, bedroom 2. Wall on the north and east sides.; E6, balcony. Wall on the north and west sides.; F6, balcony. Wall on the north side.; G6, balcony. Door on the north side.; H6, balcony. Wall on the north side.; I6, balcony. Wall on the north side.; J6, balcony. Wall on the north and east sides.; A7, bedroom 2. Wall on the west side.; B7, bedroom 2.; C7, bedroom 2.; D7, bedroom 2. Wall on the east side.; E7, balcony. Wall on the west side.; F7, balcony.; G7, balcony.; H7, balcony.; I7, balcony.; J7, balcony. Wall on the east side.; A8, bedroom 2. Wall on the south and west sides.; B8, bedroom 2. Wall on the south side.; C8, bedroom 2. Wall on the south side.; D8, bedroom 2. Coin spot: the school bag. Wall on the south and east sides.; E8, balcony. Wall on the south and west sides.; F8, balcony. Wall on the south side.; G8, balcony. Wall on the south side.; H8, balcony. Wall on the south side.; I8, balcony. Wall on the south side.; J8, balcony. Coin spot: the balcony plant. Wall on the south and east sides.
+- **rules:** Lay the squares out in 8 rows of 10, with A1 at the top left. North is the top row. Put all tokens on the START square, A5, at the front door. Put a paper coin on each of the 8 coin spots.; Shuffle the direction cards and put them face down. Each player holds 3 cards.; On your turn, play one card. Move your token that many squares in a straight line in that direction. Then take a new card.; Walls and doors are marked on the sides of the squares. You cannot go through a wall. If a wall stops you, stay on the last square before it. You can only go from one room to the next through a door.; If none of your cards can move you, play one anyway. It goes on the used pile and you take a new one. When the face-down cards run out, shuffle the used pile and use it again.; Before you move, say which square you will end on. If you are right, score 1 point.; Land on a coin spot to pick up the coin there. Each coin is worth 2 points.; The game ends when all coins are gone, or when every player has had 8 turns. The player with the most points wins. Playing alone, collect all 8 coins in as few turns as you can.
+- **Printable board: The flat map: 80 squares, 10 across (A to J) and 8 down (1 to 8). Draw a north arrow above the top row.:** A1, kitchen. Coin spot: the fridge. Wall on the north and west sides.; B1, kitchen. Wall on the north side.; C1, kitchen. Wall on the north side.; D1, kitchen. Wall on the north and east sides.; E1, bedroom 1. Wall on the north and west sides.; F1, bedroom 1. Wall on the north side.; G1, bedroom 1. Wall on the north side.; H1, bedroom 1. Wall on the north and east sides.; I1, bathroom. Wall on the north and west sides.; J1, bathroom. Coin spot: the washing machine. Wall on the north and east sides.; A2, kitchen. Wall on the west side.; B2, kitchen.; C2, kitchen.; D2, kitchen. Wall on the east side.; E2, bedroom 1. Wall on the west side.; F2, bedroom 1.; G2, bedroom 1. Coin spot: the bed.; H2, bedroom 1. Wall on the east side.; I2, bathroom. Wall on the west side.; J2, bathroom. Wall on the east side.; A3, kitchen. Wall on the south and west sides.; B3, kitchen. Wall on the south side.; C3, kitchen. Door on the south side.; D3, kitchen. Wall on the south and east sides.; E3, bedroom 1. Wall on the south and west sides.; F3, bedroom 1. Door on the south side.; G3, bedroom 1. Wall on the south side.; H3, bedroom 1. Wall on the south and east sides.; I3, bathroom. Door on the south side. Wall on the west side.; J3, bathroom. Wall on the south and east sides.; A4, hall. Wall on the north and west sides.; B4, hall. Wall on the north side.; C4, hall. Door on the north side.; D4, hall. Wall on the north side.; E4, hall. Wall on the north side.; F4, hall. Coin spot: the TV. Door on the north side.; G4, hall. Wall on the north side.; H4, hall. Wall on the north side.; I4, hall. Door on the north side.; J4, hall. Coin spot: the pooja shelf. Wall on the north and east sides.; A5, hall. START square. The front door is on the west side. Wall on the south side.; B5, hall. Coin spot: the shoe rack. Door on the south side.; C5, hall. Wall on the south side.; D5, hall. Wall on the south side.; E5, hall. Wall on the south side.; F5, hall. Wall on the south side.; G5, hall. Door on the south side.; H5, hall. Wall on the south side.; I5, hall. Wall on the south side.; J5, hall. Wall on the south and east sides.; A6, bedroom 2. Wall on the north and west sides.; B6, bedroom 2. Door on the north side.; C6, bedroom 2. Wall on the north side.; D6, bedroom 2. Wall on the north and east sides.; E6, balcony. Wall on the north and west sides.; F6, balcony. Wall on the north side.; G6, balcony. Door on the north side.; H6, balcony. Wall on the north side.; I6, balcony. Wall on the north side.; J6, balcony. Wall on the north and east sides.; A7, bedroom 2. Wall on the west side.; B7, bedroom 2.; C7, bedroom 2.; D7, bedroom 2. Wall on the east side.; E7, balcony. Wall on the west side.; F7, balcony.; G7, balcony.; H7, balcony.; I7, balcony.; J7, balcony. Wall on the east side.; A8, bedroom 2. Wall on the south and west sides.; B8, bedroom 2. Wall on the south side.; C8, bedroom 2. Wall on the south side.; D8, bedroom 2. Coin spot: the school bag. Wall on the south and east sides.; E8, balcony. Wall on the south and west sides.; F8, balcony. Wall on the south side.; G8, balcony. Wall on the south side.; H8, balcony. Wall on the south side.; I8, balcony. Wall on the south side.; J8, balcony. Coin spot: the balcony plant. Wall on the south and east sides.
 - **Printable cards: 24 direction cards:** 1 square north; 1 square north; 2 squares north; 2 squares north; 3 squares north; 3 squares north; 1 square south; 1 square south; 2 squares south; 2 squares south; 3 squares south; 3 squares south; 1 square east; 1 square east; 2 squares east; 2 squares east; 3 squares east; 3 squares east; 1 square west; 1 square west; 2 squares west; 2 squares west; 3 squares west; 3 squares west
 - **Printable tokens: Tokens:** 4 player tokens, one for each player: a button, a bottle cap, a coin or a rolled-up bit of paper; 8 paper coins, each about 2 cm across
 - **Printable score sheet: Score sheet:** Player name; Coins collected; Right guesses
@@ -236,13 +236,13 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns. 2. Say where you will land, then move. 3. Keep score. 4. Stop when the coins are gone or everyone has had 8 turns.  
   *Parent says:* Say which square you will land on before you move. A right guess is a point. Which door will you use to reach a coin in another room?  
-  *Child mode:* Say where you will land. Then move. Right guess? Extra point!
+  *Child mode:* Say where you will land. Then move. If you were right, you get a point.
   - Note: Ask your child to give you directions sometimes: 'Tell me how to get from the fridge to the balcony.' A strong answer uses directions and counts, such as '2 squares south, then 4 east', and goes through the doors.
 - **s4 (2 min)**  
   *Parent does:* Talk about the game.  
   *Parent says:* If I turned the board round, would '3 squares east' still take you to the same place?  
-  *Child mode:* Turn the board round. Does 3 east still go the same place?
-  - Think: East on the board is fixed by the north arrow. What happens if someone draws the arrow pointing the other way?
+  *Child mode:* Turn the board round. Does '3 squares east' still take you to the same place?
+  - Think: Yes, it would. The north arrow is drawn on the board, so it turns with the board, and the squares keep the same names. Now think about this. What would happen if someone drew the north arrow pointing the other way?
 
 ## Experiments
 ### e1 · Memory Map or Tile Map: which one finds the hidden coin? (35 min)
@@ -270,12 +270,12 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s4 (12 min)**  
   *Parent does:* 1. The finder waits outside. 2. Your child puts the coin on a tile in open floor, away from furniture. 3. They mark an X on the memory map and secretly write the true spot, as tiles from two walls. 4. They pick up the coin. 5. The finder comes in with the memory map and puts the chit where the X shows. 6. Put the coin back on its true tile and count the tiles between the chit and the coin. 7. Do the same with a new spot and the tile map. 8. Do one more round with each map.  
   *Parent says:* Now the finder comes in with only the map. No hints and no pointing. When the chit is down, we count how many tiles off it is.  
-  *Child mode:* Hide the coin. Mark an X. Pick the coin up. Let the finder use the map. How many tiles off?
+  *Child mode:* Hide the coin. Mark an X on the map. Pick the coin up. Let the finder use the map. Count how many tiles off the chit is.
   - Note: The tile map is usually closer to the coin, often on the right tile or the next one. The memory map is often a few tiles off, because some things were drawn too big. But luck plays a part. If the memory map wins a round, write that down too, because it is a real result. If both maps land close, choose a spot further from all furniture and try again.
 - **s5 (4 min)**  
-  *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
+  *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see? And why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. A good answer, if the tile map was closer: What I think: the tile map is better for finding things. What I saw: the tile map was 0 and 1 tiles off, and the memory map was 3 and 2 tiles off. Why: on the tile map, every distance was shrunk by the same amount, so the X was in the right place compared with the walls.
   - Check: If the tile map led the finder closer to the coin, why did it? → **Every distance was shrunk by the same amount, so the X sat in the right place**
 ### e2 · Left-Right or East-West: which directions still work when you face another way? (20 min)
@@ -287,7 +287,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s1 (5 min)**  
   *Parent does:* 1. Put the cushion on a tile at least 4 tiles from every wall. 2. Stand on it facing east, and put the coin 3 tiles forward and 2 tiles to the right. 3. Write chit A: 'Walk 3 tiles forward. Turn right. Walk 2 tiles.' 4. Write chit B: 'Walk 3 tiles towards the east wall. Then walk 2 tiles towards the south wall.'  
   *Parent says:* We will write two sets of directions to the same coin. One uses forward and right. The other uses east and south.  
-  *Child mode:* Two chits. Both lead to the coin. One says right. One says east and south.
+  *Child mode:* Write two chits. Both lead to the coin. One uses forward and right. The other uses east and south.
   - Note: Check the coin's place. Facing east, your right hand points south. So '2 tiles right' and '2 tiles towards the south wall' are the same tiles.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason.  
@@ -297,13 +297,13 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s3 (10 min)**  
   *Parent does:* 1. Pick a folded 'face' chit. 2. Stand on the cushion facing that wall. 3. Follow chit A and put a finger on the tile where you stop. 4. Go back to the cushion, face the same wall, and follow chit B. 5. Fill in the table. 6. Do all four 'face' chits.  
   *Parent says:* Pick a chit to see which wall to face. Follow chit A. Did you land on the coin? Now chit B.  
-  *Child mode:* Pick a chit. Face that wall. Follow A. Then follow B. Coin?
+  *Child mode:* Pick a 'face' chit. Face that wall. Follow chit A, then chit B. Did each one reach the coin?
   - Note: Chit B finds the coin all four times. Chit A finds it only when you start facing east, the way the writer faced.
 - **s4 (3 min)**  
   *Parent does:* Talk about the results.  
   *Parent says:* Which chit found the coin every time? Why do you think that is?  
   *Child mode:* Which chit always found the coin? Why?
-  - Check: Why did chit B find the coin from every start? → **East and south stay the same whichever way you face**
+  - Check: Why did chit B find the coin whichever wall you faced at the start? → **East and south stay the same whichever way you face**
 ### e3 · Child Steps, Grown-up Steps: do two maps of one room come out the same shape? (20 min)
 - **question:** If a child and a grown-up each map the same room using their own steps, will the two maps have the same shape?
 - **predict:** A grown-up's foot is longer than yours. Will a grown-up's map of the room be the same shape as yours, or a different shape? Why do you think so?
@@ -360,7 +360,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s2 (5 min)**  
   *Parent does:* 1. Stand in the middle of the room with your right arm pointing to the sunny side. 2. You are now facing north. 3. Stick E on the sunny wall and N on the wall in front. Stick W on your left and S behind you.  
   *Parent says:* Point your right arm at the sunny side. That is east. Now you face north. Where are south and west?  
-  *Child mode:* Right arm to the sun side. That is east. You face north.
+  *Child mode:* Point your right arm at the sunny side. That is east. Now you are facing north.
   - Note: If the walls do not line up exactly with the directions, stick each label on the wall that is closest.
 - **s3 (5 min)**  
   *Parent does:* 1. Check with a compass if you have one. 2. Go round the flat. Which way does the front door face? Which way does the balcony face?  
@@ -372,12 +372,12 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s1 (5 min)**  
   *Parent does:* 1. Walk through the home together. 2. In each room, ask your child which wall is next to which room.  
   *Parent says:* Let's walk through our home. Which room is next to the kitchen? Which door leads to the balcony?  
-  *Child mode:* Walk through your home. What room is next to what?
+  *Child mode:* Walk through your home. Which room is next to which?
 - **s2 (12 min)**  
   *Parent does:* 1. Draw each room as a box, in the right place next to the others. 2. Show doors as gaps. 3. Draw small symbols for a few things: the fridge, beds, taps, the pooja shelf, the TV.  
   *Parent says:* Draw each room as a box. Make the big rooms bigger. Leave a gap where each door is.  
   *Child mode:* Draw each room as a box. Doors are gaps.
-  - Note: Help your child keep the rooms in the right order. Exact sizes do not matter here. The tile map in the experiment is for exact sizes.
+  - Note: Help your child keep the rooms in the right order. Exact sizes do not matter here. The tile map in the Memory Map or Tile Map experiment is for exact sizes.
 - **s3 (5 min)**  
   *Parent does:* 1. Make a key box in one corner. 2. Draw each symbol in the key and write what it means. 3. Draw a north arrow, using the labels from the Find the Four Directions activity.  
   *Parent says:* Now the key. Draw every symbol again in this box, and write what it means. Then add the north arrow.  
@@ -416,10 +416,10 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
   *Parent says:* Which way does the street run? From north to south, or from east to west? Show north with an arrow.  
   *Child mode:* Add a north arrow and a key.
 ### a6 · Turn the Map: make the map match the room (10 min)
-- **record:** Write one sentence: what happens to the rooms on the map when its arrow points the real north?
+- **record:** Write one sentence: what happens to the rooms on the map when its arrow points to the real north?
 - **s1 (5 min)**  
   *Parent does:* 1. Stand in the hall holding the map with the writing the right way up. 2. Point to the kitchen on the map, then to the real kitchen. 3. Now turn the map until its N arrow points to the N wall. 4. Point again.  
-  *Parent says:* Point to the kitchen on the map. Now point to the real kitchen. Same way? Now turn the map until its arrow points north.  
+  *Parent says:* Point to the kitchen on the map. Now point to the real kitchen. Did you point the same way? Now turn the map until its arrow points north.  
   *Child mode:* Point to the kitchen on the map. Now to the real one.
 - **s2 (5 min)**  
   *Parent does:* Go to another room and do it again.  
@@ -449,10 +449,10 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 
 ## Challenges
 ### c1 · A Map with No Words (25 min)
-- **problem:** Make a map of your home that leads a person to the fridge, the balcony and the bathroom, without a single written word. Someone who cannot read your language must be able to use it.
+- **problem:** Make a map of your home that leads a person to the fridge, the balcony and the bathroom, without a single written word. Someone who cannot read your language must be able to use it. A map also needs something that shows direction, so the reader knows how to turn it to match the real place. Think about how to show direction with a picture.
 - **your turn:** Now design your own wordless map of a place you know well, such as a temple, a market or a relative's home, and test it on someone.
 - **constraints:** No letters or words anywhere on the map, not even in the key.; The map must still show a direction, such as a rising Sun drawn on the east side.; Test it on someone and change it if they get stuck.
-- **general:** Use pictures as symbols: a small drawing of a fridge, a plant pot for the balcony, a tap for the bathroom.; Show north with a picture of a rising Sun on the east side instead of the letter N.
+- **general:** Use pictures as symbols: a small drawing of a fridge, a plant pot for the balcony, a tap for the bathroom.; Show direction with a picture of a rising Sun on the east side, instead of the letter N.
 - **creative:** Use colours as a code: blue for water places, green for plants, yellow for light.; Draw footprints along the route, and a big dot where the walk begins.; Draw each door as the shape of the real door handle.
 - **s1 (5 min)**  
   *Parent does:* Read the problem and talk about how to show things without words.  
@@ -502,14 +502,14 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
    **Answer:** True. *Why:* True. A map should still be right tomorrow, so it shows things that stay, such as roads, buildings and big trees.
 6. (sort) Sort these. Would each one go on a map of your street, or be left off?  
    **Answer:** the temple → On the map; a parked auto → Left off; the big neem tree → On the map; a crow on a wire → Left off; the bus stop → On the map; a vegetable cart passing by → Left off. *Why:* A map keeps things that stay in one place. A strong sorter asks: will it still be there tomorrow?
-7. (write) Kavya, a girl in Class 3, points her right arm to the window where the morning Sun comes in. Which wall is she facing? Explain how you know.  
-   **Answer:** She faces the north wall. The morning Sun is in the east, so her right arm points east. When east is on your right, you face north.. *Why:* A strong answer starts from the Sun being in the east and works out the rest.
+7. (write) You point your right arm to the window where the morning Sun comes in. Which wall are you facing? Explain how you know.  
+   **Answer:** You face the north wall. The morning Sun is in the east, so your right arm points east. When east is on your right, you face north.. *Why:* A strong answer starts from the Sun being in the east and works out the rest.
 8. (mcq) Why should you never look straight at the Sun to find east?  
    Options: It can hurt your eyes / The Sun moves away / It is not polite  
    **Answer:** It can hurt your eyes. *Why:* Sunlight is strong enough to damage your eyes. Look at where its light falls on the floor or wall instead.
 9. (order) Put these in order, going clockwise round a compass, starting at north.  
    **Answer:** ['north', 'east', 'south', 'west']. *Why:* Clockwise from north: north, east, south, west. Some children remember it as 'never eat soggy wheat'.
-10. (write) In the coin test, which map led the finder closer to the coin: the memory map or the tile map? Use your own numbers to explain.  
+10. (write) In the Memory Map or Tile Map test, which map led the finder closer to the coin: the memory map or the tile map? Use your own numbers to explain.  
    **Answer:** The tile map. For example: the tile map was 0 and 1 tiles off, and the memory map was 3 and 2 tiles off. On the tile map I counted, so every distance was right compared with the others.. *Why:* A strong answer gives the result, the numbers as evidence, and the reason: counting kept the distances in proportion.
 11. (fill) On a tile map, one floor tile is drawn as one ____ on the paper.  
    **Answer:** ['square']. *Why:* One tile, one square. That keeps every distance shrunk by the same amount.
@@ -517,15 +517,15 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
    **Answer:** False. *Why:* False. Left depends on which way you face. Someone coming in from the other side turns the other way.
 13. (label) Here is a cross for a compass. Write N, S, E and W at its four ends. North is at the top.  
    **Answer:** N at the top, S at the bottom, E on the right, W on the left.. *Why:* With north at the top, east is on the right. A strong answer checks it by facing north and pointing right.
-14. (mcq) Leela, a girl in Class 3, is drawing a map of her home. What should she draw to show which way north is?  
+14. (mcq) You are drawing a map of your home. What should you draw to show which way north is?  
    Options: A key / A north arrow / A photo of the Sun  
    **Answer:** A north arrow. *Why:* A north arrow, or a compass rose, shows which way north is. The key explains the symbols.
 15. (write) A visitor has never been to your flat. Write directions from the lift to your front door, using at least one direction word such as east or north.  
    **Answer:** Any clear directions with landmarks and counts. For example: Come out of the lift and walk east along the corridor, towards the window. Ours is the third door on the north side, with a kolam outside.. *Why:* A strong answer uses landmarks, counts and at least one direction word, so it works whichever way the visitor faces.
 16. (perspective) Two sisters are giving directions to their building's terrace.  
-   **Answer:** A strong answer picks a side with evidence. For Revathi: in the left-right test, 'turn right' worked only from one start, but east worked every time. For Anu: most people do not know which way east is inside a building, and someone walking up the stairs always faces the same way, so 'left' works there.. *Why:* Both sisters have a point. East works for any reader. Left works when everyone arrives facing the same way.
+   **Answer:** A strong answer picks a side with evidence. For the second child: in the Left-Right or East-West test, 'turn right' worked only from one start, but east worked every time. For the first child: most people do not know which way east is inside a building, and someone walking up the stairs always faces the same way, so 'left' works there.. *Why:* Both sisters have a point. East works for any reader. Left works when everyone arrives facing the same way.
 ### Which Way? (stretch) (stretch, 15 questions)
-1. (write) In the coin test, why is it fair to hide the coin away from all furniture?  
+1. (write) In the Memory Map or Tile Map test, the coin is hidden away from all furniture. Why does that make the test fair?  
    **Answer:** If the coin is next to the bed, the finder can just look for 'next to the bed' on any map. In open floor, only a map with the right distances shows where it is.. *Why:* A strong answer says how a landmark next to the coin would let a bad map look good.
 2. (mcq) A memory map shows the cupboard as big as the bed. Really, the cupboard is half as long. What will a finder using this map probably do?  
    Options: Go to exactly the right spot / Miss the spot, because the gaps around the cupboard are wrong / Find the cupboard is missing  
@@ -534,11 +534,11 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
    **Answer:** ['Count the tiles along each wall', 'Draw the walls on squared paper, one square per tile', 'Count tiles from the walls to each piece of furniture', 'Draw each piece of furniture where you counted it', 'Add a north arrow and a key']. *Why:* The walls come first, because everything else is counted from them.
 4. (truefalse) A grown-up and a child each map a room in their own steps. The child's map has more squares, so it must be wrong.  
    **Answer:** False. *Why:* False. The child's steps are shorter, so there are more of them. Both maps shrink every wall by the same amount, so both have the same shape and both are right.
-5. (write) In the left-right test, chit A said 'forward, then right'. It found the coin only when you started facing east. Why that wall?  
+5. (write) In the Left-Right or East-West test, chit A said 'forward, then right'. It found the coin only when you started facing east. Why only then?  
    **Answer:** Chit A was written by someone facing east. It works only for someone standing the same way, because forward and right turn with your body.. *Why:* A strong answer links the one start that worked with the way the writer was facing.
 6. (mcq) You face south. Which way is your right hand pointing?  
    Options: East / West / North  
-   **Answer:** West. *Why:* Facing south, west is on your right and east is on your left. It is the mirror of facing north. Stand up and try it.
+   **Answer:** West. *Why:* Facing south, west is on your right and east is on your left. It is the opposite of facing north. Stand up and try it.
 7. (draw) Draw a map of your bedroom from above. Include a key with at least four symbols and a north arrow.  
    **Answer:** A box for the room with gaps for the door and window, symbols for the bed, cupboard and other things, a key that explains every symbol, and an N arrow.. *Why:* A strong map shows things from above, explains every symbol, and shows north so the reader can turn it.
 8. (fill) Holding a map so that its north arrow points to the real north is called ____ the map.  
@@ -547,16 +547,16 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
    **Answer:** Yes. It is only a little off, so it shows which wall is roughly east. For a home map, the closest wall is all we need. For a ship at sea, you would need a compass.. *Why:* A strong answer says how big the error is compared with what the map needs.
 10. (sort) Sort these directions. Do they depend on which way you face, or are they fixed to the Earth?  
    **Answer:** left → Depends on you; north → Fixed to the Earth; forward → Depends on you; south-west → Fixed to the Earth; behind you → Depends on you; east → Fixed to the Earth. *Why:* Body directions turn when you turn. Earth directions stay put.
-11. (mcq) On Anil's map, 1 square stands for 5 steps. The shop is 6 squares from his gate. About how many steps is that?  
+11. (mcq) On a map, 1 square stands for 5 steps. The shop is 6 squares from the gate. About how many steps is that?  
    Options: 11 steps / 30 steps / 60 steps  
    **Answer:** 30 steps. *Why:* Each square is 5 steps, so 6 squares is 6 times 5, which is 30 steps.
 12. (write) A desert ant lives in the hot Sahara. She must find food far from her nest and get home before the heat kills her. How does counting her steps help her?  
    **Answer:** Smell trails do not work well on hot, windy sand. By counting her steps, and using the Sun for direction, she knows how far and which way her nest is. So she can run straight home instead of searching.. *Why:* A strong answer says her problem first, the heat and far trips, and then how counting steps solves it.
 13. (truefalse) On every map in history, north has been at the top.  
    **Answer:** False. *Why:* False. North at the top is a custom. Al-Idrisi's famous world map of 1154 had south at the top.
-14. (mcq) In the story Thatha and the Six Towers, Meenakshi drew a map for her grandfather. Why did he walk the wrong way, even though her first map showed every tower?  
-   Options: The towers had moved / When he turned round, the map did not turn with him, so left and right swapped / He could not read  
-   **Answer:** When he turned round, the map did not turn with him, so left and right swapped. *Why:* Her first map had no direction arrow, so he did not know how to turn it. After she added an east arrow, he could turn the map to match the ground.
+14. (mcq) A girl draws a map of her street for her grandfather. It shows every shop, but it has no direction arrow. He turns round and walks the wrong way. Why?  
+   Options: The shops had moved / When he turned round, the map did not turn with him, so left and right swapped / He could not read  
+   **Answer:** When he turned round, the map did not turn with him, so left and right swapped. *Why:* With no direction arrow, he could not tell how to turn the map to match the ground. An arrow, such as one pointing east, lets you line the map up with the real street.
 15. (perspective) A family is deciding how to get to a new friend's house in Mysuru.  
    **Answer:** A strong answer picks one way with a reason and fairly gives another view. For example, the phone map is exact, but a phone can run out of charge or lose signal. Landmarks are easy to remember. A drawn map needs the distances to be roughly right.. *Why:* Each way has real strengths and weaknesses. A strong answer weighs them.
 ### True Maps (challenge) (challenge, 15 questions)
@@ -607,22 +607,22 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 2. (mcq) Which tells you where east is, roughly, inside a flat?  
    Options: The window that gets the evening Sun / The window that gets the morning Sun / The coldest room  
    **Answer:** The window that gets the morning Sun. *Why:* The Sun rises roughly in the east, so the window with morning sunlight faces roughly east. The evening Sun comes in from the west.
-3. (mcq) Divya, a girl in Class 3, gives her friend directions to a hidden coin: 'Walk 3 tiles forward, then turn right.' Her friend starts facing a different wall. What happens?  
-   Options: She finds the coin anyway / She ends up in a different place / She cannot move  
-   **Answer:** She ends up in a different place. *Why:* Forward and right depend on which way you face. A different start means a different path. Directions like 'towards the east wall' work from any start.
+3. (mcq) A child gives a friend directions to a hidden coin: 'Walk 3 tiles forward, then turn right.' The friend starts facing a different wall from the one the child faced. What happens?  
+   Options: The friend finds the coin anyway / The friend ends up in a different place / The friend cannot move  
+   **Answer:** The friend ends up in a different place. *Why:* Forward and right depend on which way you face. A different start means a different path. Directions like 'towards the east wall' work from any start.
 4. (mcq) Why do maps use north, south, east and west instead of left and right?  
    Options: They are shorter words / They stay the same whichever way a reader faces / Left and right are only for roads  
    **Answer:** They stay the same whichever way a reader faces. *Why:* Every reader of a map faces a different way. North, south, east and west are fixed to the Earth, so they mean the same to all of them.
 5. (mcq) From straight above, what does a round dining table look like on a map?  
    Options: A rectangle on four legs / A circle / A triangle  
    **Answer:** A circle. *Why:* From above you see only the round top, so it is a circle. The legs are hidden under it. Maps draw things as they look from above.
-6. (mcq) Pooja, a girl in Class 3, draws a small blue circle on her map for the water tank. Where should she say what the blue circle means?  
+6. (mcq) You draw a small blue circle on your map for the water tank. Where should you say what the blue circle means?  
    Options: In the key / On the north arrow / Nowhere, everyone knows  
    **Answer:** In the key. *Why:* The key lists every symbol and its meaning, so a reader who has never seen the map before can understand it.
-7. (mcq) Arun, a boy in Class 3, made a tile map with one square for each floor tile. His bed is 5 tiles long. How long is the bed on his map?  
+7. (mcq) On a tile map, one square stands for one floor tile. A bed is 5 tiles long. How long is the bed on the map?  
    Options: 1 square / 5 squares / 10 squares  
    **Answer:** 5 squares. *Why:* One tile is one square, so 5 tiles is 5 squares. Every distance shrinks by the same amount, which keeps the shape of the room right.
-8. (mcq) On Pooja's map, one square stands for 10 steps. Two doors are 4 squares apart on the map. About how many steps apart are they in real life?  
+8. (mcq) On a map, one square stands for 10 steps. Two doors are 4 squares apart on the map. About how many steps apart are they in real life?  
    Options: 4 steps / 14 steps / 40 steps  
    **Answer:** 40 steps. *Why:* Each square is 10 steps, so 4 squares is 4 times 10, which is 40 steps. The scale turns squares on paper back into real steps.
 9. (mcq) A map's north arrow points to the top of the page. Real north is on your right. How should you hold the map?  
@@ -642,7 +642,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - Phone maps use GPS satellites to find where you are. Gladys West's careful maths on the exact shape of the Earth helped make GPS accurate.
 - In the 1950s, Marie Tharp drew the first maps of the floor of the Atlantic Ocean from depth measurements taken by ships. She found a long valley running down the middle of an underwater mountain range.
 - Auto, taxi and delivery drivers use maps to reach addresses they have never visited.
-- Pilots and sailors steer by compass directions, because at sea or in the sky there is no left turn at the temple.
+- Pilots and sailors steer by compass directions, because at sea or in the sky there are no landmarks, such as a temple, to turn left at.
 - Architects draw a plan of a flat from above before it is built, with every room to scale.
 - Fire exit maps in malls and hospitals show the way out, with a red dot marking 'you are here'.
 - Farmers and village offices keep land maps that show where each field begins and ends.
@@ -658,7 +658,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - The morning sunlight on one wall of your flat, which shows you the east side.
 
 ## Open questions
-- **How exactly do birds such as Arctic terns find their way across whole oceans?** Scientists know birds use the Sun, the stars, smells and the Earth's magnetism. But how a bird senses magnetism, and how they put all these clues together, is still argued about.
+- **How exactly do birds such as Arctic terns find their way across whole oceans?** Scientists know birds use the Sun, the stars, smells and the Earth's magnetism. But how birds sense magnetism, and how they put all these clues together, is still argued about.
 - **How does the brain turn signals from grid cells into the feeling of knowing where you are?** Scientists can record grid cells and place cells firing. Nobody yet knows how these signals become the sense of 'I am in my kitchen'.
 - **Why do some people find their way easily and others get lost often?** Practice, attention and the way someone learned to give directions all seem to matter. Scientists are still finding out how much each one counts.
 
@@ -683,11 +683,11 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - Why did the island of California vanish? *Someone finally went and looked.*
 
 ## Connected maths
-- Lakshmi, a girl in Class 3, made a tile map of her room. The room is 8 tiles long and 6 tiles wide. How many tiles cover the whole floor? **48 tiles.**. The floor has 6 rows, and each row has 8 tiles. 6 times 8 is 48. (queues `math.multiplication.equal-groups.L3`)
+- A room is 8 tiles long and 6 tiles wide. How many tiles cover the whole floor? **48 tiles.**. The floor has 6 rows, and each row has 8 tiles. 6 times 8 is 48. (queues `math.multiplication.equal-groups.L3`)
 - On Meenakshi's map, 1 square is 10 steps. From the gate to the temple is 2 squares, the temple to the water tank 6 squares, and the water tank to Tower D 9 squares. How many steps is it from the gate to Tower D? **170 steps.**. 2 + 6 + 9 = 17 squares. Each square is 10 steps, so 17 times 10 is 170 steps. (queues `math.multiplication.equal-groups.L3`)
-- A treasure is 3 squares north and 4 squares east of the door on a grid. Ravi, a boy in Class 3, says, 'Then it is 4 squares east and 3 squares north.' Is he right? **Yes.**. Going 3 north then 4 east, or 4 east then 3 north, ends on the same square. The order of the moves does not change where you end up, as long as nothing blocks the way. (queues `math.position.directions-and-grids.L3`)
-- In the coin test, the memory map was 3, 2 and 4 tiles off in three rounds. The tile map was 0, 1 and 0 tiles off. How many tiles off was each map in total? How many times better was the tile map? **The memory map was 9 tiles off in total. The tile map was 1 tile off. So the tile map was 9 times closer.**. 3 + 2 + 4 = 9. 0 + 1 + 0 = 1. 9 divided by 1 is 9. (queues `math.data.bar-charts.L3`)
-- A child measured a room as 18 steps long and 14 steps wide. A grown-up measured the same room as 13 steps long. About how wide do you think the grown-up found it: 5, 10 or 14 steps? Why? **About 10 steps.**. For the child, the width is a bit less than the length, about 4 steps less out of 18. The grown-up's steps are longer, so both numbers shrink. 10 is a bit less than 13 in the same way. 14 would make the room nearly square, and 5 would make it very thin. (queues `math.measurement-basics.estimation-and-precision.L3`)
+- A treasure is 3 squares north and 4 squares east of the door on a grid. Someone says, 'Then it is 4 squares east and 3 squares north.' Is that right? **Yes.**. Going 3 north then 4 east, or 4 east then 3 north, ends on the same square. The order of the moves does not change where you end up, as long as nothing blocks the way. (queues `math.position.directions-and-grids.L3`)
+- In the Memory Map or Tile Map test, the memory map was 3, 2 and 4 tiles off in three rounds. The tile map was 0, 1 and 0 tiles off. How many tiles off was each map in total? How many times closer was the tile map? **The memory map was 9 tiles off in total. The tile map was 1 tile off. So the tile map was 9 times closer.**. 3 + 2 + 4 = 9. 0 + 1 + 0 = 1. 9 divided by 1 is 9. (queues `math.data.bar-charts.L3`)
+- A child measured a room as 18 steps long and 14 steps wide. A grown-up measured the same room as 13 steps long. About how wide do you think the grown-up found it: 5, 10 or 14 steps? Why? **About 10 steps.**. The room is the same shape for both people. For the child, the width (14 steps) is a bit less than the length (18 steps). So for the grown-up, the width must be a bit less than 13 steps. That is 10. 14 would make the room nearly square, and 5 would make it very thin. (queues `math.measurement-basics.estimation-and-precision.L3`)
 
 ## Song
 Rock, Leaf and Worm (sci.planet-earth.L3): Topic-level song for Planet Earth L3

@@ -128,7 +128,7 @@
    "concept": "Why a gap is not enough",
    "status": "defined",
    "definition": "A blank space can hold an empty place in the middle of a number, but nobody can see a blank at the end.",
-   "description": "About 2,300 years ago, scribes in Babylon, in what is now Iraq, wrote numbers on clay. At first they left a gap for an empty place. Gaps were easy to miss, so later scribes drew two small slanted marks in the gap. But they did not put the mark at the end of a number. So a reader had to guess, from the writing around the number, whether it meant 2 or 120 or 7,200. You can see the same problem in the missing zero test: blanks at the end of a number go unseen.",
+   "description": "About 2,300 years ago, scribes in Babylon, in what is now Iraq, wrote numbers on clay. At first they left a gap for an empty place. Gaps were easy to miss, so later scribes drew two small slanted marks in the gap. But they did not put the mark at the end of a number. Their numbers were built on sixties. So the same marks could mean 2, or 120, or 7,200, and the reader had to guess from the writing around the number. You can see the same problem in the missing zero test: blanks at the end of a number go unseen.",
    "examples": [
     "52 followed by a blank looks exactly like 52.",
     "3, a gap, then 4 might be read as 34 or as 304."
@@ -154,7 +154,7 @@
    "concept": "Brahmagupta's rules for zero",
    "status": "defined",
    "definition": "In 628, Brahmagupta wrote rules for zero: a number plus zero stays the same, a number minus zero stays the same, and a number times zero is zero.",
-   "description": "Brahmagupta lived in Bhillamala, which is now Bhinmal in Rajasthan. His book was called the Brahmasphutasiddhanta. Before him, zero was a sign for an empty place. He treated it as a number you can add, take away and multiply. He also gave rules for negative numbers, which he called debts, and for positive numbers, which he called fortunes. Zero sits between them. A debt taken from zero becomes a fortune, he wrote.",
+   "description": "Brahmagupta lived in Bhillamala, which is now Bhinmal in Rajasthan. His book was called the Brahmasphutasiddhanta. Before him, zero was a sign for an empty place. He treated it as a number you can add, take away and multiply. He also gave rules for negative numbers, which he called debts, and for positive numbers, which he called fortunes. Zero sits between them. He wrote that taking a debt away from zero leaves a fortune. If someone cancels a debt you owe, you are better off.",
    "examples": [
     "8 + 0 = 8. Adding no modaks to 8 modaks leaves 8.",
     "8 - 0 = 8. Taking away no modaks leaves 8.",
@@ -169,7 +169,7 @@
    "concept": "Why nobody can divide by zero",
    "status": "defined",
    "definition": "Dividing a number by zero has no answer. Mathematicians call it undefined.",
-   "description": "Division undoes multiplication. 12 ÷ 3 = 4, because 4 × 3 = 12. So 12 ÷ 0 asks: what number, times 0, gives 12? Every number times 0 is 0, so no number works. You can see it with beans. Put 12 beans in groups of 0. You can make group after group, and the heap never gets smaller. For 0 ÷ 0, every number works, so there is no single answer either. Brahmagupta thought 0 ÷ 0 was 0. Later mathematicians showed that this rule does not fit with the others.",
+   "description": "Division undoes multiplication. 12 ÷ 3 = 4, because 4 × 3 = 12. So 12 ÷ 0 asks: what number, times 0, gives 12? Every number times 0 is 0, so no number works. You can see it with beans. Put 12 beans in groups of 0. You can make group after group, and the heap never gets smaller. For 0 ÷ 0, every number works, so there is no single answer either. Brahmagupta thought 0 ÷ 0 was 0. Later mathematicians showed that this was wrong, because every number gives a working answer, so there is no single answer.",
    "examples": [
     "A calculator shows an error for 12 ÷ 0.",
     "12 ÷ 4 = 3 and 12 ÷ 2 = 6. Smaller groups give more groups. With groups of 0, the groups never end."
@@ -278,7 +278,7 @@
    "claim": "Zero is nothing, so leaving it out does not matter.",
    "who": "A common idea among children, and a mistake grown-ups make when they write fast",
    "for": "Zero does mean none. A 0 adds no ones and no tens.",
-   "against": "Take the 0 out of 520 and you get 52, ten times smaller. The 0 adds nothing to count, but it keeps the other digits in their places. That is one reason a cheque asks for the amount in words as well.",
+   "against": "Take the 0 out of 520 and you get 52, ten times smaller. The 0 adds nothing to count, but it keeps the other digits in their places. That is one reason a cheque has the amount in words as well as digits. The words make it hard for anyone to change the amount by adding or leaving out a 0.",
    "status": "rejected",
    "context": "This card is about a common idea: that a 0 can be left out because it means nothing."
   },
@@ -304,7 +304,7 @@
    "for": "Dividing by smaller and smaller numbers gives bigger and bigger answers: 12 ÷ 1 = 12, 12 ÷ 0.1 = 120, 12 ÷ 0.01 = 1,200.",
    "against": "Infinity is not a number, and no number times 0 gives 12. So in ordinary sums, mathematicians say dividing by zero has no answer. Calculators show an error.",
    "status": "rejected",
-   "context": "What is 12 divided by 0? This card looks at the answer 'infinity'."
+   "context": "What is 12 divided by 0? Dividing 12 by 3 asks how many groups of 3 make 12. This card looks at the answer 'infinity' for groups of 0."
   },
   {
    "claim": "0 °C means there is no heat at all.",
@@ -541,7 +541,7 @@
        "Because a dot means one run"
       ],
       "a": 1,
-      "why": "A blank leaves no trace, so a ball with no runs could not be counted. A dot is a mark for 'a ball, and no runs'. A 0 in a number does the same job: it marks an empty place so it can be seen and counted. This is a game moment, so any answer is fine to talk about."
+      "why": "A blank leaves no trace, so a ball with no runs could not be counted. A dot is a mark for 'a ball, and no runs'. A 0 in a number does the same job: it marks an empty place so it can be seen and counted."
      }
     }
    ],
@@ -1065,7 +1065,8 @@
      "art": "The empty middle katori lifted away, and the other two pushed together, now reading 25.",
      "caption": "2. Take the empty katori away. What number is it now?"
     }
-   ]
+   ],
+   "problem": "When you write 205, the 0 says that the tens place is empty. In this activity you use beans in three katoris to see what happens to the number when the empty place is left out."
   },
   {
    "id": "a3",
@@ -1179,7 +1180,8 @@
      "art": "A phone calculator showing 12 ÷ 0 and an error message.",
      "caption": "3. Ask the calculator."
     }
-   ]
+   ],
+   "problem": "In the year 628, an Indian mathematician called Brahmagupta wrote the first rules for doing sums with zero. In this activity you test his rules with beans. You also try to share 12 beans into groups of 0, to see why nobody can divide by zero."
   },
   {
    "id": "a4",
@@ -1326,7 +1328,8 @@
      "art": "A toy car being moved down from 2 to -1 on the paper line.",
      "caption": "2. Give the toy lift rides up and down."
     }
-   ]
+   ],
+   "problem": "Is zero the smallest number? A lift in a tall building goes below the ground floor, to the basement floors. In this activity you use lift buttons and a number line to find out what the numbers below zero are."
   }
  ],
  "projects": [
@@ -2648,7 +2651,7 @@
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "The verse plays with taking away and what remains, as Brahmagupta's rules do with zero. It is about the whole, not about numbers."
+    "link": "Taking something away from the whole still leaves the whole. This is a little like taking zero away from a number, which leaves it the same. The verse is about the whole of everything, not about numbers, so this is only a comparison."
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta (the hymn of creation)",

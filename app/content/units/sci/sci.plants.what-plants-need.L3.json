@@ -533,7 +533,7 @@
    "for": "Liebig, a famous German scientist, wrote about it around 1840 and made the idea famous around the world.",
    "against": "Carl Sprengel, a less famous German scientist, published the idea in 1828, about twelve years earlier. Historians now often call it the Sprengel and Liebig law of the minimum.",
    "status": "debated",
-   "context": "This card is about who gets the credit for an important idea about what plants need."
+   "context": "The idea is that a plant grows only as well as the need in shortest supply allows. For example, if a plant has plenty of water but too little light, giving it more water will not help. This card is about who gets the credit for that idea."
   },
   {
    "claim": "Plants grow better if you talk or sing to them.",
@@ -1991,7 +1991,7 @@
      "say": "Let's give the dark seedlings their light back. What do you think will happen by tomorrow?",
      "kid": "Put the dark cups in the light. Look again tomorrow. Do the seedlings turn green?",
      "wait": "Look again on Day 9.",
-     "parent": "Within a day, the yellow seedlings usually start to turn green, because they make chlorophyll once they have light. Very weak seedlings that have fallen over may not recover. Giving the light back is a kind way to end the test, too.",
+     "parent": "Within a day, the yellow seedlings usually start to turn green, because they make chlorophyll once they have light. Very weak seedlings that have fallen over may not recover. Giving the light back is a kind way to end the test, too. For the question about how the seedlings knew: plants have special molecules, called photoreceptors, that notice light and darkness. They work a little like tiny eyes.",
      "think": "The dark seedlings had no eyes. How did they know they were in the dark?"
     }
    ],
@@ -3192,7 +3192,7 @@
       "a": 1,
       "why": "Our eyes adjust to dim light, so a room feels bright. But a light meter shows that outside daylight is often a hundred times brighter, or more. Picking 'about the same' means trusting our eyes, which is what nearly everyone does. Plants are not fooled."
      },
-     "think": "Your eyes adjusted so well that you did not notice how dim the room was. What else might your senses be hiding from you?"
+     "think": "Your eyes adjusted so well that you did not notice how dim the room was. A plant that needs lots of light is not fooled. Which place on your map would that plant choose?"
     }
    ],
    "context": "This activity maps how bright each place in your home is, using a light-meter app or shadows. Then you choose the best place for each plant.",
@@ -3299,7 +3299,7 @@
       "a": 1,
       "why": "The lever makes growth look 4 times bigger. So the real growth is 8 divided by 4, which is 2 millimetres. Picking '32' means multiplying instead of dividing: the plant's growth is the small number, not the big one."
      },
-     "think": "Bose's machine made growth look thousands of times bigger. He saw it speed up and slow down from minute to minute. What could make a plant grow faster for a few minutes?"
+     "think": "Bose's machine made growth look thousands of times bigger. He saw it speed up and slow down from minute to minute. What could make a plant grow faster for a few minutes? Think about what Bose did to his plants."
     }
    ],
    "context": "This activity builds a simple straw lever that makes a plant's growth easier to see. It is a tiny version of the crescograph, a growth-measuring machine invented by Jagadish Chandra Bose in Kolkata.",
@@ -3358,11 +3358,11 @@
      "kid": "It is dark. Stretch up tall and thin, fast. Keep your hands folded. You are looking for light!",
      "ask": [
       {
-       "q": "How does it feel to stretch and stretch?",
+       "q": "Why does a seedling in the dark stretch so fast?",
        "good": [
-        "Tiring.",
-        "Wobbly.",
-        "I want to fall over."
+        "It is looking for light.",
+        "It has no light, so it uses its stored food to grow tall.",
+        "It cannot make food, so it stretches to find some light."
        ]
       }
      ]
@@ -3527,7 +3527,7 @@
      "do": "At about Day 12, when the bean is around 15 cm tall, push the stick in beside them. Do not hurt the roots.",
      "say": "Many beans are climbers. Watch what the tip does with the stick in the next few days.",
      "kid": "Push a stick into the soil next to your bean. Watch the tip. Will they find the stick?",
-     "think": "The bean has no eyes. How do they find the stick to climb?"
+     "think": "The bean has no eyes. How do they find the stick to climb? The tip of a climbing bean slowly swings round in circles, so it touches things nearby. When it touches the stick, it wraps around it."
     },
     {
      "id": "s5",
@@ -3637,7 +3637,7 @@
      "do": "Read the usual solutions and the creative ideas below.",
      "say": "Here's what people usually do, and some creative ideas. Which will we try?",
      "kid": "Look at the usual ways and the creative ideas. Pick the ones you want to try.",
-     "think": "People in a crowded city also live in dim rooms. How do light and sunlight change how people feel?"
+     "think": "Which of your ideas would still work on a cloudy day, and which would work only in direct sunshine?"
     },
     {
      "id": "s3",

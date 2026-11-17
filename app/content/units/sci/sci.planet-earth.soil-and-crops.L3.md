@@ -3,7 +3,7 @@
 
 **Summary.** A handful of soil looks like one brown material, but it is a mix. Most of it is rock, broken into grains so small you can hardly see them. Some of it is humus, the dark remains of dead leaves, roots and animals. Air and water fill the gaps between the grains, and earthworms and countless tiny living things live there. Different rocks make different soils, so farmers in India grow rice in river soil, ragi in red soil and cotton in black soil.
 
-**Intro.** *Put a spoon of soil from a flower pot into a glass of water and stir it. Some grains sink at once. The water turns cloudy and stays cloudy. Small dark bits float on top. Why does soil come apart like this in water?* Soil comes apart in water because it was never one thing. It is a mix of grains of different sizes, broken off rocks, and pieces of plants that were once alive. In this unit you shake soil in a jar and watch it sort itself into layers. You find out how rock becomes sand and clay, how dead leaves become humus, and how earthworms mix it all. You also find out why different soils in India grow different crops.
+**Intro.** *Put a spoon of soil from a flower pot into a glass of water and stir it. Some grains sink at once. The water turns cloudy and stays cloudy. Small dark bits float on top. Why does soil come apart like this in water?* Soil comes apart in water because it was never one thing. It is a mix of rock grains of different sizes and pieces of plants that were once alive. In this unit you shake soil in a jar and watch it sort itself into layers. You find out how rock becomes sand and clay, how dead leaves become humus, and how earthworms mix it all. You also find out why different soils in India grow different crops.
 
 ## Learning outcomes
 0. I can say what soil is made of: rock grains, humus, air, water and living things.
@@ -37,7 +37,7 @@
 Most of the solid part of soil is rock, broken into grains. The grains come in three sizes: sand, silt and clay. Mixed in with them is humus, made from dead plants and animals. Between the grains are tiny gaps. Some gaps are full of air, and some are full of water. Plant roots need both. Roots take in water from the gaps, and they also need air to stay alive. In a good garden soil, roughly half is solid grains and humus. The other half is gaps, filled with air and water. Earthworms, ants, fungi and bacteria live in the gaps too. A teaspoon of healthy soil can hold hundreds of millions of bacteria.
 - e.g. Soil from a flower pot, shaken in a jar of water, settles into layers of sand, silt and clay, with bits of humus floating on top.
 - e.g. Squeeze a lump of damp soil and drops of water come out of the gaps.
-- e.g. Drop a lump of dry soil into water and small bubbles rise. That was air in the gaps.
+- e.g. Drop a lump of dry soil into water and small bubbles rise. The bubbles are air that was in the gaps.
 ### How rock becomes soil · *defined*
 **Definition:** Weathering is the slow breaking up of rock into smaller pieces by heat, water, wind, ice and living things.
 
@@ -88,15 +88,15 @@ A rice plant makes their food in their leaves, using sunlight. But they need wat
 - e.g. After the monsoon, rivers run brown with soil washed off bare land.
 - e.g. The Soil Health Card scheme, started by the Government of India in 2015, tests farmers' soil and tells them which nutrients it needs.
 ### Roots and soil life sense and choose · *debated*
-Roots sense the soil around them. They grow towards water and towards patches rich in nutrients, and away from salt and from hard ground. Roots and fungi in the soil trade with each other. The fungi bring water and nutrients to the root, and the plant gives the fungi sugar made in the leaves. Bacteria in the soil sense chemicals and swim towards food. Earthworms sense light, touch, damp and shaking ground, and decide where to go. All of these beings feel and choose. Soil is full of minds at work.
+Roots sense the soil around them. They grow towards water and towards patches rich in nutrients, and away from salt and from hard ground. Roots and fungi in the soil trade with each other. The fungi bring water and nutrients to the root, and the plant gives the fungi sugar made in the leaves. Bacteria in the soil sense chemicals and swim towards food. Earthworms sense light, touch, damp and shaking ground, and decide where to go. All of these beings sense what is around them and act on it. So the soil is full of living beings who are feeling their surroundings and making choices.
 - e.g. A root grows sideways towards a damp patch in a pot, rather than straight down into dry soil.
 - e.g. Earthworms move away from a bright torch held over their soil.
 - e.g. Most kinds of soil bacteria have never been grown or named in a laboratory.
 - **Many plant scientists:** Roots sense and respond to water, nutrients and touch, and they make choices about where to grow. Some scientists call this plant intelligence, a growing field of study.
-- **Other scientists:** These are automatic responses, built in by evolution, like a thermostat switching on. They say the word choice should be kept for animals with brains.
+- **Other scientists:** These are automatic responses, built in by evolution, like a thermostat switching on. The word 'choice' should be kept for animals with brains.
 
 ## Mostly agreed
-- The mineral grains in soil come from rock that was broken up by weathering. *How we know:* Under a soil, digging down usually reaches broken rock and then solid rock. The grains in the soil are made of the same minerals as the rock below or nearby.
+- The mineral grains in soil come from rock that was broken up by weathering. *How we know:* Digging down through soil usually reaches broken rock and then solid rock. The grains in the soil are made of the same minerals as the rock below or nearby.
 - Humus forms when decomposers break down dead plants and animals. *How we know:* Leaves left on damp soil slowly turn dark and crumbly. Scientists have watched and measured this in fields and in laboratories for over a hundred years.
 - Earthworms mix the soil and leave castings that are richer in plant nutrients than the soil around them. *How we know:* Charles Darwin measured castings for many years and published his results in 1881. Many later studies measured the nutrients in castings.
 - New soil forms very slowly, and soil can be lost quickly by erosion. *How we know:* The Food and Agriculture Organization of the United Nations reports that one centimetre of soil can take up to a thousand years to form. One heavy storm on bare land can wash away more than that.
@@ -114,7 +114,7 @@ Roots sense the soil around them. They grow towards water and towards patches ri
   For: A cut worm's two halves can both wriggle for a while.  
   Against: Usually only the front part, with the mouth, can survive and grow a new tail. The back part dies. Some kinds of worm cannot regrow at all.
 - **Earthworms come up after rain because they would drown in wet soil.** (A common explanation, in many books; *debated*)  
-  For: Worms do come up when the soil is soaked, and water in the soil holds less air than the gaps did.  
+  For: Worms do come up when the soil is soaked, and soaked soil has less air, because water has filled the gaps.  
   Against: Earthworms can survive for days in water that has air in it. Some scientists think worms come up because moving over wet ground is easy and safe from drying out, so it is a good time to travel to new places. Others think the drumming of rain makes them come up.
 - **Earthworms are always good for the land.** (Most gardeners and farmers; *accepted*)  
   For: In fields and gardens, worms mix soil, make tunnels and leave castings that help crops.  
@@ -126,11 +126,11 @@ Roots sense the soil around them. They grow towards water and towards patches ri
 ## Roots
 We have shaken soil in a jar, made worm tunnels and looked at where soil comes from. Now we ask what soil tells us about ourselves and the world.
 
-**Deep truth.** In your jar, the soil split into layers. Sand sank first, fine clay stayed cloudy for a day, and dead plant bits floated. The grains are rock broken very small, and the floating bits were once alive. So the ground under every crop is old rock and old life mixed together.  
-*Habit it breaks:* We call soil dirt, as if it were one plain, worthless material. The jar shows it is two very old things mixed: mountains broken down over centuries, and plants and animals who lived and died there.  
+**Deep truth.** In the Soil Jar experiment, the soil split into layers. Sand sank first, fine clay stayed cloudy for a day, and dead plant bits floated. The grains are rock broken very small, and the floating bits were once alive. So the ground under every crop is old rock and old life mixed together.  
+*Habit it breaks:* We call soil dirt, as if it were one plain, worthless material. The Soil Jar experiment shows it is two very old things mixed: mountains broken down over centuries, and plants and animals who lived and died there.  
 *Evidence:* In the Soil Jar, sand settled within a minute, silt within a few hours and clay by the next day, while dark bits of dead roots and leaves floated on top. In Rock to Grains, knocking chalk made rounded pieces and powder like silt.
 
-- *who am i:* Your body is built from rice, dal and vegetables that grew in soil, so you are partly made of what the rocks and old leaves gave them.
+- *who am i:* Your body is built from rice, dal and vegetables that grew in soil. So part of you is made of what broken rock and old leaves gave to those plants.
 - *what is life:* Living things take from the soil while they live, and give their bodies back to it when they die, as humus for the next plants.
 - *what is this world:* The ground under a city is mountains worn down over millions of years and mixed with the remains of countless living beings.
 
@@ -138,20 +138,20 @@ A rock on a hill and a leaf on a tree look like two separate things. Over hundre
 
 - **Taittiriya Upanishad 2.1:** From space came air, from air fire, from fire water, from water earth. From earth came plants, from plants food, and from food the person. (The unit follows the last part of this chain. Rice grows from soil, and food from the rice builds the child's own body.)
 - **Atharva Veda 12.1.12, the Bhumi Sukta:** The Earth is my mother, and I am her child. (Soil feeds every crop that feeds us, the way a mother feeds a child. The hymn asks us to treat the ground with the same care.)
-- **Genesis 3.19:** For dust you are, and to dust you will return. (The floating bits in the jar were once living plants returning to soil. Plants and animals, people too, are made from what the soil gives and go back to it.)
-- Science (settled): The atoms in our bodies were once in soil, water and air, and they will go back there. Atoms are not made or lost, only moved.
+- **Genesis 3.19:** For dust you are, and to dust you will return. (In the Soil Jar experiment, the floating bits were pieces of dead plants on their way back to soil. Plants, animals and people are all made from what the soil gives, and all go back to it.)
+- Science (settled): The atoms in our bodies were once in soil, water and air, and they will go back there. Atoms are not made or destroyed on this journey. They only move from one place to another.
 - Science (open): Most of the living things in soil, especially bacteria and fungi, have never been named or studied.
 - Other view, Many soil scientists: Soil is a mix of minerals, water, air and living things. Only the living things in it are alive. The sand and clay are minerals, and calling soil a mother, or alive as a whole, is a picture, not a finding.
 - Practice, Hold the ground (3 min): Take a handful of damp soil from a pot. Close your eyes. Rub it gently and feel the gritty grains. Those were once part of a mountain. Now smell it. That earthy smell comes from living bacteria. Feel how cool it is. Breathe in slowly three times. Then open your eyes and put the soil back around the plant.
-- Ask: Dokuchaev found the same rock under very different soils. If the rock is the same, what else makes a soil?
+- Ask: The soil scientist Vasily Dokuchaev found the same rock under very different soils. If the rock is the same, what else makes a soil?
 - Ask: Many soil scientists say only the living things in soil are alive. What do you think, and what would you check?
-- Ask: Which part of your jar is the oldest, and how could you tell?
+- Ask: In the Soil Jar experiment, the sand grains came from rock, and the floating bits came from dead plants. Which of the two is older, and how could you tell?
 
 ## Deep and big questions
-- *deep:* The sand in your jar was once part of a solid rock. Is the sand the same rock, or something new? (hint: Think about whether anything was added or taken away when the rock broke.)
-- *deep:* Clay grains are so small that water held them up for a whole day. How small can a grain get and still be rock? (hint: Think about what rock is made of, all the way down.)
-- *big:* Your body is built from food grown in soil, and one day it will go back to soil. Where do you begin and where does the soil end? (hint: Think of the rice in your lunch. Where was it a month ago? Where was it a year before that?)
-- *big:* An earthworm eats soil and gives soil back, richer than before. Can a creature be both eating a place and making it? (hint: Think of what the field would be like with no worms at all.)
+- *deep:* In the Soil Jar experiment, sand settled at the bottom of the jar. That sand was once part of a solid rock. Is the sand still the same rock, or something new? (hint: Think about whether anything was added or taken away when the rock broke.)
+- *deep:* In the Soil Jar experiment, the clay grains were so small that the water held them up for a whole day. How small can a grain get and still be rock? (hint: Think about what rock is made of, all the way down.)
+- *big:* Your body is built from food grown in soil, and one day it will go back to soil. Is there a clear line between you and the soil? (hint: Think of the rice in your lunch. Where was it a month ago? Where was it a year before that?)
+- *big:* An earthworm eats soil, and what comes out is richer soil. Can an animal eat the place they live in and build it at the same time? (hint: Think of what the field would be like with no worms at all.)
 - *big:* Soil takes hundreds of years to form and one storm to lose. Who should look after the soil: the farmer, everyone who eats, or someone else? (hint: Think about who eats the rice from a field, and who will farm it in a hundred years.)
 
 ## Story: The Tired Pot
@@ -213,9 +213,9 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 
 ## Games
 ### g1 · Rock to Rice: a board race (20 min)
-- **rules:** You need a dice. Put every token on square 0, the mountain rock.; On your turn, another player reads you a question card, front side only. Playing alone? Read the card yourself, then turn it over to check.; Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square.; Follow the instruction on the square where you land. If an instruction moves you onto another special square, do not follow that second instruction.; When the question cards run out, shuffle them and use them again.; The first grain to reach or pass square 24, the rice field, wins. Then say the whole journey aloud, from rock to rice. Playing alone? Count your turns and try to finish in fewer next time.
+- **rules:** You need a dice. Put every token on square 0, the mountain rock.; On your turn, another player reads you a question card, front side only. Playing alone? Read the card yourself, then turn it over to check.; If you answer right, roll the dice and move that many squares. If you answer wrong, move 1 square.; Follow the instruction on the square where you land. If an instruction moves you onto another special square, do not follow that second instruction.; When the question cards run out, shuffle them and use them again.; The first grain to reach or pass square 24, the rice field, wins. Then say the whole journey aloud, from rock to rice. Playing alone? Count your turns and try to finish in fewer next time.
 - **Printable board: A path of 25 squares, from a mountain (square 0) to a rice field (square 24):** Square 0, START: a rock on a mountain; Square 1: a rocky slope. Nothing happens here.; Square 2: a bare ledge. Nothing happens here.; Square 3: CRACK! Sun and rain crack your rock. Move on 2 squares.; Square 4: a dry stream bed. Nothing happens here.; Square 5: a steep gully. Nothing happens here.; Square 6: ROOT IN THE CRACK. A root splits you off. Move on 1 square.; Square 7: a pile of loose stones. Nothing happens here.; Square 8: STILL POOL. You sink and wait. Miss a turn.; Square 9: a boulder field. Nothing happens here.; Square 10: CRACK! Sun and rain crack your rock. Move on 2 squares.; Square 11: a bend in the stream. Nothing happens here.; Square 12: RIVER RAPIDS. You are knocked into sand. Move on 3 squares.; Square 13: a shallow stretch. Nothing happens here.; Square 14: a gravel bank. Nothing happens here.; Square 15: STILL POOL. You sink and wait. Miss a turn.; Square 16: a wide river. Nothing happens here.; Square 17: a sandy bend. Nothing happens here.; Square 18: EARTHWORM. A worm swallows you and mixes you into the topsoil. Move on 2 squares.; Square 19: a muddy bank. Nothing happens here.; Square 20: a flat plain. Nothing happens here.; Square 21: STORM ON BARE LAND. You are washed away. Go back 4 squares.; Square 22: the edge of the field. Nothing happens here.; Square 23: a field channel. Nothing happens here.; Square 24, FINISH: a rice field in the Kaveri delta
-- **Printable cards: 20 question cards to cut out (question on the front, answer on the back):** Which grains in soil are the biggest? (back: Sand); In the soil jar test, which layer settles first? (back: Sand); Why does the jar water stay cloudy for a day? (back: Tiny clay grains sink very slowly.); What do the floating bits in the jar come from? (back: Dead plants); Name one way rock is broken up. (back: Heat and cold, water freezing, roots, or rivers knocking stones together); Why does an earthworm make slime? (back: To keep their skin damp so they can breathe); What helps an earthworm grip the tunnel walls? (back: Tiny bristles on their rings); How do worm tunnels help rain? (back: Water runs down them into the soil.); Which soil covers much of Tamil Nadu and Karnataka? (back: Red soil); Where does alluvial soil come from? (back: Rivers lay it down.); Why is lost soil a big problem? (back: New soil takes hundreds of years to form.); Name one thing farmers add to feed the soil. (back: Manure, compost or fertiliser); What does a plant root do inside a crack in a rock? (back: It widens the crack and pushes the rock apart.); Why are river pebbles smooth and round? (back: Other stones knocked off their corners for a long time.); Name one living thing in soil besides worms. (back: Ants, fungi or bacteria); Why do roots often grow down along old worm tunnels? (back: The soil there is loose and has air and water.); What does humus do for a plant? (back: It holds water like a sponge and gives nutrients.); Which crop grows well in laterite soil? (back: Cashew); How do roots and plant cover protect a hill in a storm? (back: Roots hold the soil, and plants slow the rain.); Name one thing that takes nutrients out of a field. (back: The crops that are harvested from it)
+- **Printable cards: 20 question cards to cut out (question on the front, answer on the back):** Which grains in soil are the biggest? (back: Sand); In the soil jar test, which layer settles first? (back: Sand); In the soil jar test, why does the water stay cloudy for a day? (back: Tiny clay grains sink very slowly.); In the soil jar test, what do the floating bits come from? (back: Dead plants); Name one way rock is broken up. (back: Heat and cold, water freezing, roots, or rivers knocking stones together); Why does an earthworm make slime? (back: To keep their skin damp so they can breathe); What helps an earthworm grip the tunnel walls? (back: Tiny bristles on their rings); How do worm tunnels help rain soak into the soil? (back: Water runs down them into the soil.); Which soil covers much of Tamil Nadu and Karnataka? (back: Red soil); Where does alluvial soil come from? (back: Rivers lay it down.); Why is lost soil a big problem? (back: New soil takes hundreds of years to form.); Name one thing farmers add to feed the soil. (back: Manure, compost or fertiliser); What does a plant root do inside a crack in a rock? (back: It widens the crack and pushes the rock apart.); Why are river pebbles smooth and round? (back: Other stones knocked off their corners for a long time.); Name one living thing in soil besides worms. (back: Ants, fungi or bacteria); Why do roots often grow down along old worm tunnels? (back: The soil there is loose and has air and water.); What does humus do for a plant? (back: It holds water like a sponge and gives nutrients.); Which crop grows well in laterite soil? (back: Cashew); How do roots and plant cover protect a hill in a storm? (back: Roots hold the soil, and plants slow the rain.); Name one thing that takes nutrients out of a field. (back: The crops that are harvested from it)
 - **Printable tokens: 4 grain tokens, one for each player (cut out as many as you need):** 🪨; 🟤; ⚪; 🔴
 - **s1 (2 min)**  
   *Parent does:* Lay out the board, the cards and the tokens, and find a dice. Read the rules aloud.  
@@ -224,7 +224,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s2 (15 min)**  
   *Parent does:* Take turns. Read a question card, answer, and move.  
   *Parent says:* Here is your question. If you are right, roll the dice.  
-  *Child mode:* Answer the card. Right? Roll the dice and move.
+  *Child mode:* Answer the question on the card. If you are right, roll the dice and move.
   - Check: You land on STORM ON BARE LAND and go back 4 squares. What could the farmer have done to stop the soil washing away? → **Kept plants or crop stubble on the field, so roots hold the soil**
 - **s3 (3 min)**  
   *Parent does:* When someone wins, ask each player to tell the journey of their grain.  
@@ -237,8 +237,8 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **Printable cards: 3 answer cards for each player (cut out a set for each player):** SINKS AT ONCE; SETTLES SLOWLY; FLOATS
 - **s1 (2 min)**  
   *Parent does:* Hand out the answer cards and read the first card.  
-  *Parent says:* Sinks at once, settles slowly, or floats? A pebble.  
-  *Child mode:* Show your card. Sinks, settles or floats?
+  *Parent says:* A pebble. Does it sink at once, settle slowly, or float?  
+  *Child mode:* Does it sink at once, settle slowly, or float? Show your card.
 - **s2 (6 min)**  
   *Parent does:* Take turns reading the cards one at a time. Test a few of the things in a glass of water.  
   *Parent says:* Show your card. Why did you choose that? Let's test it.  
@@ -274,7 +274,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. Fill the jar one third with soil. 2. Add water until it is nearly full. 3. Add a few drops of dish-washing liquid. 4. Close the lid tightly. 5. Shake hard for two minutes.  
   *Parent says:* Fill it one third with soil, then water nearly to the top. Close the lid tight. Now shake it hard for two whole minutes.  
-  *Child mode:* Soil to one third. Water nearly to the top. Lid on tight. Shake for two minutes!
+  *Child mode:* Fill the jar one third with soil. Add water nearly to the top. Close the lid tight. Shake for two minutes.
   - Note: A grown-up checks the lid is tight and holds a glass jar over a towel. Take turns shaking. Two minutes is longer than it sounds. Every lump must break up.
 - **s4 (6 min)**  
   *Parent does:* 1. Put the jar down on a shelf where nobody will touch it. 2. Watch for one minute. 3. Mark the top of the bottom layer with a pen or tape.  
@@ -298,12 +298,12 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s7 (2 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
   *Parent says:* Now tell me three things. What do you think soil is made of? What did you see that shows it? Why did the layers form in that order?  
-  *Child mode:* Say three things. What is soil made of? What did you see? Why that order?
+  *Child mode:* Say three things. What is soil made of? What did you see? Why did the layers settle in that order?
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soil is a mix of grains of different sizes and bits of dead plants. What I saw: sand sank in seconds, silt in a few hours, clay by the next day, and dark bits floated. Why: the biggest, heaviest grains sink fastest, and the lightest grains sink slowest. The grains are broken rock. The floating bits were once alive.
   - Check: What were the dark bits floating on top? → **Bits of dead plants, which are part of the humus**
 ### e2 · Worm Tunnels: do holes help rain soak into packed soil? (30 min)
 - **question:** Earthworms make tunnels in soil. Does water soak into packed soil faster when it has tunnels?
-- **predict:** We will pack soil hard into two cups. One cup gets pencil tunnels, like worm tunnels. Then we pour the same water on both. Which cup will soak up the water faster? Why do you think so?
+- **predict:** We will pack soil hard into two cups. In one cup we make holes with a pencil, like worm tunnels. Then we pour the same amount of water on both. Which cup will soak up the water faster? Why do you think so?
 - **fair test:** Use two cups of the same size, the same dry soil, and the same amount in each. Press both down equally hard. Pour the same amount of water, in the same way, onto both. Only the tunnels change. Do the test twice, because a tunnel can be blocked by chance.
 - **record:** Fill in the table. Draw both cups, with the water on top and the tunnels.
 - **results table:** Cup | Tunnels? | Try 1: seconds until no water is left on top | Try 2: seconds | What I saw
@@ -319,7 +319,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   - Note: The tunnels should go most of the way down.
 - **s3 (2 min)**  
   *Parent does:* Ask your child to guess which cup will soak up the water faster, and why.  
-  *Parent says:* We will pour the same water on both. Which cup will drink it faster? Why do you think so?  
+  *Parent says:* We will pour the same amount of water on both cups. Which cup will soak it up faster? Why do you think so?  
   *Child mode:* Which cup will soak up water faster? Why?
   - Note: Write the guess and the reason before you pour.
 - **s4 (5 min)**  
@@ -328,18 +328,18 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   *Child mode:* Pour the water. Start the clock. Stop when no water is on top.
   - Note: On packed soil, a puddle may sit on top for a long time. With tunnels, the water drains down the holes in a few seconds, often with bubbles as air comes out. If the packed cup takes very long, stop at three minutes and write 'more than three minutes'. Pot soil that is mostly cocopeat may soak water up quickly in both cups. If so, write that down: it is a result too.
 - **s5 (10 min)**  
-  *Parent does:* Empty both cups and fill two with fresh dry soil. Pack them, make tunnels in one, then pour and time the water again.  
+  *Parent does:* Empty both cups and fill them again with fresh dry soil. Pack them, make tunnels in one, then pour and time the water again.  
   *Parent says:* One test can be a fluke. Let's do it again with fresh soil. Do we get the same result?  
-  *Child mode:* Do it again. Is it the same?
+  *Child mode:* Do the test again with fresh dry soil. Is the result the same?
   - Note: Wet soil soaks water differently from dry soil, so use fresh dry soil for the second try.
 - **s6 (5 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning.  
+  *Parent does:* Ask your child to say three things: what they think now, what they saw, and why they think it happened.  
   *Parent says:* What do you think now? What did you see? Why do you think tunnels make a difference?  
-  *Child mode:* What did you find? What did you see? Why?
+  *Child mode:* What did you find? What did you see? Why do tunnels make a difference?
   - Note: A good answer: tunnels help water soak in faster. The tunnel cup was dry on top in a few seconds, and the packed cup kept a puddle. Water runs down the tunnels, and the air in them bubbles out. Earthworm tunnels do the same in a field, so rain soaks in instead of running off with the soil.
   - Check: Why does rain soak into a field with many earthworms faster? → **Their tunnels let water run down into the soil**
 ### e3 · Rock to Grains: does knocking break rock into smaller pieces? (25 min)
-- **question:** Rivers knock stones against each other for years. Does knocking pieces of soft rock together make them smaller, and does water change how fast?
+- **question:** Rivers knock stones against each other for years. Does knocking pieces of soft rock together make them smaller? Does adding water change how fast it happens?
 - **predict:** We will shake pieces of chalk in two closed boxes, one dry and one with water. What will happen to the pieces? Which box will make more powder? Why do you think so?
 - **fair test:** Break two sticks of chalk into pieces of about the same size. Put the same number of pieces in each box. Shake both boxes for the same time, with the same strength, taking turns. Only the water changes.
 - **safety:** Do not breathe in the chalk dust or rub it in your eyes. Open the boxes slowly. Wash your hands afterwards.
@@ -364,7 +364,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   *Child mode:* Look at the pieces. What happened to the corners? Where is the powder?
   - Note: The corners are rounded off in both boxes, and there is fine white powder in both. In the wet box the water turns milky with powder. The two boxes may look alike, or one may have a little more powder. If you cannot see a difference, write that down: it is a result too. The powder is like silt and clay, and the rounded pieces are like river pebbles.
 - **s5 (4 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning.  
+  *Parent does:* Ask your child to say three things: what they think now, what they saw, and why they think it happened.  
   *Parent says:* What do you think now? What did you see? How is this like a river and its stones?  
   *Child mode:* What happened? What did you see? How is it like a river?
   - Note: A good answer: knocking breaks rock into smaller pieces and powder, and rounds the corners. Real rock is much harder than chalk, so a river needs many years, not minutes. This is one way rock becomes the sand and silt in soil.
@@ -396,8 +396,8 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **schedule:** day 1: Fill the bottle with layers, put the worms on top, add leaves and wrap it in dark paper. (15 min); day 3: Unwrap and look at the layers and tunnels. Sprinkle a little water with your fingers if the top is dry. (5 min); day 5: Look again. Have any leaves been pulled down? (5 min); day 7: Draw the final layers. Release the worms. (5 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Put layers in the bottle: soil, sand, soil, sand, each about 3 cm. 2. Spray them damp, not wet. 3. Lay the worms on top with leaves and peels. 4. Wrap the bottle in dark paper.  
-  *Parent says:* Earthworms live in the dark and need damp skin to breathe. So we keep the soil damp and the bottle dark. Let's make stripes so we can see if they mix them.  
-  *Child mode:* Make stripes of soil and sand. Keep them damp. Add the worms and leaves. Wrap it dark.
+  *Parent says:* Earthworms live in the dark and need damp skin to breathe. So we keep the soil damp and the bottle dark. Let's make stripes of soil and sand, so we can see whether the worms mix them.  
+  *Child mode:* Make stripes of soil and sand in the bottle. Spray them damp. Put the worms and leaves on top. Wrap the bottle in dark paper.
   - Note: This needs live earthworms, so it is not part of the main lesson. Composting worms from a nursery live near the surface and burrow less than garden worms, so the mixing may be slower. Keep the bottle in the shade.
 - **s2 (5 min)**  
   *Parent does:* On day 3, unwrap the bottle and look at the sides.  
@@ -411,7 +411,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   - Wait: Leave the bottle wrapped for two more days.
 - **s4 (5 min)**  
   *Parent does:* On day 7, draw the bottle, then release the worms into a pot or a compost bin.  
-  *Parent says:* What did the worms do to the stripes and to the leaves in one week? Imagine that in a whole field, for a hundred years.  
+  *Parent says:* What did the worms do to the stripes and to the leaves in one week? Think of worms doing that in a whole field for a hundred years.  
   *Child mode:* Draw the bottle. What did the worms change? Now let them go.
   - Check: After a week, some leaves have been pulled down into the soil. Who did it? → **The earthworms, who pull leaves into their burrows to eat**
 ### a3 · Soil Map of India: match the soil to the crop (15 min)
@@ -446,7 +446,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s2 (4 min)**  
   *Parent does:* Decide together which pot needs feeding with compost or fallen leaves.  
   *Parent says:* Which pot has hard, pale soil? How could we feed it?  
-  *Child mode:* Which pot is tired? How could we feed it?
+  *Child mode:* Which pot has hard, pale soil? How could we feed it?
   - Note: Hard, pale soil that water runs off is packed and low in humus. Loosening the top with a fork and adding a layer of compost or dry leaves helps.
 
 ## Projects
@@ -456,7 +456,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s1 (20 min)**  
   *Parent does:* 1. Fill one pot with washed sand and one with soil and compost. Use two pots of the same size. 2. Sow 15 methi seeds in each, just under the surface. 3. Water both with the same amount. 4. Keep both in the same sunny place.  
   *Parent says:* Sand is rock grains with almost no humus. Pot soil with compost has plenty. Will the methi grow the same in both? Why do you think so?  
-  *Child mode:* One pot of sand. One pot of soil. Sow 15 seeds in each. Which will grow better? Why?
+  *Child mode:* Fill one pot with sand and one with soil and compost. Sow 15 methi seeds in each. Which will grow better? Why?
   - Wait: Water both pots the same amount every day or two. Look again on day 7.
 - **s2 (10 min)**  
   *Parent does:* On day 7, count the seedlings in each pot and measure the tallest.  
@@ -483,15 +483,15 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **your turn:** Now design your own way to protect the soil. Test it, and compare how muddy the water in the bowl is.
 - **constraints:** Use a board or tray lifted at one end by two books, with the same slope each time.; Use only things from home.; Pour the same two tumblers of water from the same height each time.
 - **general:** Cover the soil with dry leaves or straw, called mulch, so raindrops do not hit bare soil.; Plant something, so roots hold the soil together.; Build little walls across the slope, like the terraces on hills, so the water slows down.
-- **creative:** Grow a thick mat of moong sprouts on the soil for three days before the storm.; Make tiny steps out of ice-cream sticks across the slope.; Lay a cloth over the soil and see whether water still soaks through it.
+- **creative:** Grow a thick mat of moong sprouts on the soil for three days before you pour the water.; Make tiny steps out of ice-cream sticks across the slope.; Lay a cloth over the soil and see whether water still soaks through it.
 - **s1 (8 min)**  
   *Parent does:* 1. Press damp soil onto the board and lift one end on two books, with the low end over the bowl. 2. Pour two tumblers of water slowly at the top. 3. Look at the water in the bowl.  
   *Parent says:* Here is a bare hill. Let's make it rain. How muddy is the water that runs off?  
-  *Child mode:* Make it rain on the bare slope. Look at the muddy water.
+  *Child mode:* Pour water at the top of the bare slope. Look at how muddy the water in the bowl is.
 - **s2 (15 min)**  
   *Parent does:* 1. Press fresh soil onto the board in the same way, with the same slope. 2. Add your protection. 3. Pour the same water. 4. Compare the water in the bowl.  
   *Parent says:* Now protect the soil. Use leaves, sticks, a cloth or plants. Pour the same water. Is the water in the bowl clearer?  
-  *Child mode:* Protect the soil. Make it rain again. Is the water clearer?
+  *Child mode:* Cover the soil with leaves, sticks, a cloth or plants. Pour the same water again. Is the water in the bowl clearer?
   - Note: Do this in the bathroom or on the balcony. A layer of leaves or a mat of sprouts usually gives much clearer water. Clearer water means less soil was lost.
 - **s3 (7 min)**  
   *Parent does:* Read the usual and creative ideas, and try one more.  
@@ -506,15 +506,15 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Make three mixes, twelve spoons each: all sand, all compost, and four spoons each of sand, soil and compost. 2. Put each in a cup over a tumbler.  
   *Parent says:* Let's make three soils. All sand. All compost. And a mix of all three. Which one will drain best? Which will hold water best?  
-  *Child mode:* Make three soils. Which drains best? Which holds water best?
+  *Child mode:* Make three soils: all sand, all compost, and a mix of sand, soil and compost. Which will drain best? Which will hold water best?
 - **s2 (12 min)**  
   *Parent does:* 1. Pour half a tumbler of water on each cup. 2. After five minutes, compare how much water dripped into each tumbler.  
-  *Parent says:* Pour the same water on each. Wait five minutes. Which tumbler caught the most water?  
+  *Parent says:* Pour the same amount of water on each cup. Wait five minutes. Which tumbler caught the most water?  
   *Child mode:* Pour the water. Wait five minutes. Which tumbler has the most?
   - Note: Sand lets most water drip through fast. Compost holds the most. The mix is in between, which most pot plants like. Dry compost can let water run through in channels at first, so the difference may be small. Write down what you see.
 - **s3 (8 min)**  
   *Parent does:* Choose the best mix for the tulsi and explain why.  
-  *Parent says:* A tulsi does not like wet feet, but it does not like to dry out either. Which mix would you choose? Why?  
+  *Parent says:* A tulsi plant does not like their roots sitting in wet soil, and they do not like to dry out either. Which mix would you choose? Why?  
   *Child mode:* Which mix is best for a tulsi? Why?
 
 ## Worksheets
@@ -522,14 +522,14 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 1. (fill) The biggest grains in soil, which feel gritty, are called ____.  
    **Answer:** ['sand']. *Why:* Sand grains are the biggest grains in soil. You can see each one, and they feel gritty when rubbed.
 2. (sort) Sort these parts of soil. Did each one come from rock, or from living things?  
-   **Answer:** sand → From rock; clay → From rock; humus → From living things; silt → From rock; a bit of dead root → From living things; worm castings → From living things. *Why:* Sand, silt and clay are rock broken very small. Humus and dead roots come from plants. Worm castings are soil that has passed through a worm, so they are made by a living thing, though they also hold rock grains. A strong sorter can explain the castings either way.
+   **Answer:** sand → From rock; clay → From rock; humus → From living things; silt → From rock; a bit of dead root → From living things; worm castings → From living things. *Why:* Sand, silt and clay are rock broken very small. Humus and dead roots come from plants. Worm castings are soil that has passed through a worm, so they are made by a living thing, though they also hold rock grains. Either answer for castings is fine if the child can explain it.
 3. (draw) Draw your soil jar the day after you shook it. Label the sand, the silt, the clay, the water and the floating bits.  
    **Answer:** Sand at the bottom, then a finer silt layer, then a thin clay layer, then water that is clearer, with dark bits floating at the top.. *Why:* A strong drawing puts the layers in the right order and labels each one.
 4. (write) In the soil jar, sand sank in seconds but clay took a whole day. Why?  
    **Answer:** Sand grains are big and heavy, so they sink fast. Clay grains are tiny and light, so the water holds them up for a long time.. *Why:* A strong answer links the speed of sinking to the size of the grains.
-5. (mcq) Divya, a girl in Class 3, finds that lots of dark bits float on her soil jar. What does this tell her?  
-   Options: Her soil has a lot of plant material / Her soil has no rock / Her soil is very old rock  
-   **Answer:** Her soil has a lot of plant material. *Why:* The floating bits are pieces of dead plants. Lots of them means her soil has a lot of humus, or a lot of cocopeat if it came from a nursery mix.
+5. (mcq) Lots of dark bits float on top of a soil jar. What does this tell you about the soil?  
+   Options: The soil has a lot of plant material / The soil has no rock / The soil is very old rock  
+   **Answer:** The soil has a lot of plant material. *Why:* The floating bits are pieces of dead plants. Lots of them means the soil has a lot of humus, or a lot of cocopeat if it came from a nursery mix.
 6. (truefalse) Rock can be broken up by plant roots.  
    **Answer:** True. *Why:* True. Roots grow into cracks and get thicker, which pushes the rock apart.
 7. (match) Match each word to what it means.  
@@ -545,27 +545,27 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
    **Answer:** cotton → Black soil; ragi → Red soil; rice → River soil; groundnut → Red soil; wheat → River soil. *Why:* Cotton likes the water-holding black soil. Ragi and groundnut grow well in red soil. Rice and wheat grow in river plains and deltas.
 12. (fill) Rain or wind carrying soil away is called soil ____.  
    **Answer:** ['erosion']. *Why:* Soil erosion is the loss of soil, washed away by rain or blown away by wind.
-13. (write) Arjun, the six-year-old boy in the story The Tired Pot, says, "Rocks never change." Give one piece of evidence from your home or this unit that rocks do slowly change.  
+13. (write) Someone says, "Rocks never change." Give one piece of evidence from your home or this unit that rocks do slowly change.  
    **Answer:** Old stone steps are worn smooth in the middle. Chalk pieces shaken in a box lost their corners and made powder. River pebbles are round.. *Why:* A strong answer gives something the child can see, and says how it shows the rock is wearing away.
 14. (truefalse) All soil in India is the same.  
    **Answer:** False. *Why:* False. India has red, black, river and laterite soils, from different rocks and climates, and they suit different crops.
 15. (draw) Draw a cut-away of soil under a tree. Show fallen leaves on top, humus below them, an earthworm tunnel and a root.  
    **Answer:** Leaves on the surface, a dark humus layer below, a worm in a tunnel, and a root growing down.. *Why:* A strong drawing shows how dead leaves become humus and how worms and roots share the soil.
 ### Rock, Worms and Rain (stretch) (stretch, 15 questions)
-1. (write) Your soil jar settled into layers. Use the layers to explain why soil is a mix and not one material.  
+1. (write) In the Soil Jar experiment, the soil settled into layers. Use the layers to explain why soil is a mix and not one material.  
    **Answer:** If soil were one material, it would all sink or float together. Instead, sand, silt and clay settled at different speeds, and plant bits floated. So soil is made of different parts mixed together.. *Why:* A strong answer uses the different settling speeds as evidence for a mix.
-2. (mcq) Lakshmi, a girl in Class 4, tests two soils in jars. Soil A has a thick sand layer and almost no clay. Soil B has a thick clay layer. Which soil will water drain through faster?  
+2. (mcq) Two soils are tested in jars. Soil A has a thick sand layer and almost no clay. Soil B has a thick clay layer. Which soil will water drain through faster?  
    Options: Soil A, the sandy one / Soil B, the clayey one / They will be the same  
    **Answer:** Soil A, the sandy one. *Why:* Sand grains are big, with big gaps between them, so water runs through fast. Clay grains are tiny, with tiny gaps, so water moves slowly and is held.
 3. (order) Put the journey of a grain in order, from rock to rice field.  
    **Answer:** ['Sun and rain crack a rock on a hill', 'A piece breaks off and rolls into a river', 'The river knocks it into tiny grains', 'The river lays the grains down in a delta', 'Worms and roots mix the grains with humus', 'Rice grows in the field']. *Why:* This is how much of the river soil in the Kaveri and Godavari deltas was made: weathering, then rivers carrying and breaking the grains, then laying them down, then living things making it into topsoil.
 4. (perspective) A family on a hill farm is deciding what to do with a bare, steep field before the monsoon.  
    **Answer:** A strong answer picks a side with a reason about erosion, such as roots holding soil or walls slowing water, and admits a fair point from another side, such as the need to plant on time.. *Why:* There is no single right answer. Each idea weighs work, time and the risk of losing topsoil.
-5. (mcq) Ayesha, a girl in Class 3, cuts open old worm tunnels in a field and finds roots growing down inside them. Why do roots grow there?  
+5. (mcq) Old worm tunnels in a field often have roots growing down inside them. Why do roots grow there?  
    Options: The soil in a tunnel is loose and has air and water / Roots are afraid of worms / The tunnels are full of sunlight  
    **Answer:** The soil in a tunnel is loose and has air and water. *Why:* Worm tunnels are open paths, with air, water and castings rich in nutrients. A root senses these and grows where it is easiest and best.
 6. (write) Earthworms move away from a bright torch held over their soil. How does this help them live?  
-   **Answer:** In bright light they are easy for birds to see, and sun dries their skin, and they need damp skin to breathe. Moving away from light keeps them safe and damp.. *Why:* A strong answer links the behaviour to the worm's problem: drying out and being seen.
+   **Answer:** In bright light, birds can see them easily. The sun also dries their skin, and they need damp skin to breathe. Moving away from light keeps them safe and damp.. *Why:* A strong answer links the behaviour to the worm's problem: drying out and being seen.
 7. (truefalse) Worm castings hold more nutrients plants can use than the soil the worm swallowed.  
    **Answer:** True. *Why:* True. Inside the worm, dead plant bits are ground up and partly digested, so nutrients come out in a form plants can use.
 8. (fill) A grain of clay is much ____ than a grain of sand.  
@@ -579,29 +579,29 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
    **Answer:** On the bare slope, brown water and soil run down. On the planted slope, the water is clearer and soaks in around the roots.. *Why:* A strong drawing shows that roots and plant cover hold soil and slow the water.
 12. (sort) Sort these ways rock is broken up.  
    **Answer:** a root growing in a crack → By living things; hot days and cool nights → By weather; a river rolling stones → By moving water; water freezing in a crack → By weather; waves on a rocky beach → By moving water; an earthworm grinding grains in their gut → By living things. *Why:* Rock is broken by weather, by living things, and by moving water. Earthworms grind soil grains a little in their gut, so they belong with living things.
-13. (mcq) In the Rock to Grains test, what did the white powder at the bottom stand for?  
-   Options: The silt and clay that rocks break into / Melted rock / Salt from the water  
-   **Answer:** The silt and clay that rocks break into. *Why:* The powder was tiny grains knocked off the chalk, like the silt and clay knocked off stones in a river.
+13. (mcq) You shake pieces of chalk in a closed jar of water for a long time. A white powder collects at the bottom. What does this show about stones in a river?  
+   Options: Stones knock against each other and break into tiny grains like silt and clay / Stones melt in water / The water turns into salt  
+   **Answer:** Stones knock against each other and break into tiny grains like silt and clay. *Why:* The powder is tiny grains knocked off the chalk, like the silt and clay knocked off stones in a river. Over a long time this is how rock becomes part of soil.
 14. (write) Many people think plants eat soil to grow. Use what you know to say what plants really take from the soil.  
-   **Answer:** Plants take water and small amounts of nutrients from the soil, and the soil holds them up. Most of a plant's body is made from air and water, joined together using sunlight.. *Why:* A strong answer separates what comes from soil, water and nutrients, from what comes from air and light.
+   **Answer:** Plants take water and small amounts of nutrients from the soil, and the soil holds them up. Most of a plant's body is made from air and water, joined together using sunlight.. *Why:* A strong answer separates what comes from the soil (water and nutrients) from what comes from air and light.
 15. (label) Label the layers in the side of a dug pit: topsoil, lower soil, broken rock, solid rock.  
    **Answer:** Dark topsoil at the top, lighter lower soil below it, broken rock below that, and solid rock at the bottom.. *Why:* The layers show soil forming from rock below and humus from above.
 ### Soil Takes Centuries (challenge) (challenge, 15 questions)
 1. (perspective) A city is deciding what to do with the fallen leaves in its parks.  
    **Answer:** A strong answer uses humus as evidence: fallen leaves become humus that holds water and feeds the soil, and burning sends them into the air as smoke. It also admits a real point on the other side, such as tidy paths.. *Why:* This is a real choice that cities make. Each view balances tidiness, smoke and soil.
-2. (write) Darwin found that earthworms slowly buried stones in a field under their castings. Explain how worms could bury a stone without ever moving it.  
+2. (write) Charles Darwin found that earthworms slowly buried stones in a field under their castings. Explain how worms could bury a stone without ever moving it.  
    **Answer:** Worms eat soil from under and around the stone and leave castings on the surface. The ground under the stone is tunnelled, so the stone slowly sinks, while castings pile up on top. Over many years, the stone ends up below the surface.. *Why:* A strong answer uses both parts of the worms' work: removing soil below and adding castings above.
-3. (mcq) Meera, a girl in Class 4, shakes two soils in jars. Jar 1 has 4 cm of sand and 1 cm of clay. Jar 2 has 1 cm of sand and 4 cm of clay. Which soil would crack in the summer heat?  
+3. (mcq) Two soils are shaken in jars. Jar 1 has 4 cm of sand and 1 cm of clay. Jar 2 has 1 cm of sand and 4 cm of clay. Which soil would crack in the summer heat?  
    Options: Jar 2, the clayey soil / Jar 1, the sandy soil / Neither, because soil never cracks  
    **Answer:** Jar 2, the clayey soil. *Why:* Clay swells when wet and shrinks when dry, so soil full of clay cracks as it dries. Sandy soil does not shrink much. That is why the clayey black soil of the Deccan cracks.
 4. (write) One centimetre of soil can take hundreds of years to form. A storm can wash away a centimetre in a day. What does this mean for how we should treat soil?  
    **Answer:** Soil we lose cannot be replaced in our lifetime, so we should protect it: keep plants on the ground, put back humus, and stop rain washing it off bare slopes.. *Why:* A strong answer compares the two speeds and draws a practical conclusion.
 5. (truefalse) Earthworms help the soil everywhere in the world.  
    **Answer:** False. *Why:* False. In some northern forests of North America that had no earthworms for thousands of years, worms brought from elsewhere eat the thick leaf layer that forest plants and animals depend on.
-6. (mcq) Dokuchaev found similar rocks under very different soils. What did this show?  
+6. (mcq) Vasily Dokuchaev, a Russian geologist, found similar rocks under very different soils. What did this show?  
    Options: Rock alone does not explain what soil forms. Climate, living things and time matter too. / Rock has nothing to do with soil / All soils are the same  
    **Answer:** Rock alone does not explain what soil forms. Climate, living things and time matter too.. *Why:* If rock alone decided the soil, the same rock would always give the same soil. Dokuchaev showed that climate, plants, the shape of the land and time all change the soil that forms.
-7. (write) Your Worm Tunnels test used pencil holes. In what way is a real worm tunnel different from a pencil hole? Would that make the real soil soak up water even better, or worse?  
+7. (write) The Worm Tunnels test used pencil holes in place of worm tunnels. How is a real worm tunnel different from a pencil hole? Would that difference make real soil soak up water better, or worse?  
    **Answer:** A real tunnel is lined with slime and castings, and worms keep making new ones. Worms also pull leaves down and loosen soil around the tunnel. So real soil with worms probably soaks up water even better, and keeps doing it.. *Why:* A strong answer names a real difference and reasons about its effect. Any well-argued answer is good.
 8. (order) Put these grains in order from the biggest to the smallest.  
    **Answer:** ['a pebble', 'sand', 'silt', 'clay']. *Why:* Pebbles are bigger than sand, sand is bigger than silt, and clay is the smallest. This is also the order they settle in water.
@@ -625,13 +625,13 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 ## Videos
 - **Where Does Soil Come From?** (SciShow Kids, 4 min) id `5b9o7yM7YGE`: A short video for children on how rock is broken down and mixed with dead plants to make soil. *Check:* A parent should watch it first.
 - **Worms Are Wonderful | Amazing Animals | Backyard Science** (SciShow Kids, 4 min) id `l-zc_1vjLnI`: A children's video about earthworms: how they move, breathe through their skin, and help the soil. *Check:* A parent should watch it first.
-- **The Jar Test - Decoding your Soil's Texture** (Milkwood, 5 min) id `PvN_oWoechg`: For the parent: gardeners doing the same soil jar test as experiment e1, and reading the sand, silt and clay layers. *Check:* A parent should watch it first.
+- **The Jar Test - Decoding your Soil's Texture** (Milkwood, 5 min) id `PvN_oWoechg`: For the parent: gardeners doing the same soil jar test as the Soil Jar experiment, and reading the sand, silt and clay layers. *Check:* A parent should watch it first.
 
 ## Quiz
 1. (mcq) What is most of the solid part of soil made of?  
    Options: Tiny grains of broken rock / Dead leaves / Water  
    **Answer:** Tiny grains of broken rock. *Why:* Most of the solid part of soil is rock broken into sand, silt and clay. Humus from dead plants is a smaller part, and water fills some of the gaps.
-2. (mcq) Meena, a girl in Class 3, shakes pot soil in a jar of water and puts it down. Which layer reaches the bottom first?  
+2. (mcq) You shake pot soil in a jar of water and put the jar down. Which layer reaches the bottom first?  
    Options: Clay / Sand / Humus  
    **Answer:** Sand. *Why:* Sand grains are the biggest and heaviest, so they sink in seconds. Clay grains are so small they take a day or more. Humus bits often float.
 3. (mcq) Where does humus come from?  
@@ -643,7 +643,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 5. (mcq) A peepal plant grows in a crack in an old wall. What happens to the wall over many years?  
    Options: Nothing, because roots are soft / The roots grow thicker and push the crack wider / The wall turns into a tree  
    **Answer:** The roots grow thicker and push the crack wider. *Why:* Roots grow thicker as the plant grows, and they push with great force. This is one way rock and stone are broken up by living things.
-6. (mcq) Farhan, a boy in Class 3, pours water on two cups of packed soil. One cup has pencil holes. What happens?  
+6. (mcq) You pour water on two cups of packed soil. One cup has pencil holes. What happens?  
    Options: The cup with holes soaks up the water much faster / Both soak it up at the same speed / The cup with holes keeps a puddle on top  
    **Answer:** The cup with holes soaks up the water much faster. *Why:* The holes are open paths, like worm tunnels. Water runs down them quickly. On packed soil with no holes, the water sits on top.
 7. (mcq) Why do farmers like earthworms in their fields?  
@@ -652,9 +652,9 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 8. (mcq) Why is the red soil of Tamil Nadu and Karnataka red?  
    Options: It has iron in it, the same way rust is red / Red flowers have rotted into it / It is very hot  
    **Answer:** It has iron in it, the same way rust is red. *Why:* Red soil holds iron. Iron that has joined with oxygen, like rust, is red.
-9. (mcq) Which crop grows well in the black soil of the Deccan?  
-   Options: Cotton / Tea / Apples  
-   **Answer:** Cotton. *Why:* Black soil holds water for a long time, which suits cotton. It is also called black cotton soil.
+9. (mcq) Black soil holds water for a long time after the rain stops. Why does this help farmers in a dry place?  
+   Options: Crops can keep drinking for weeks after the rain / The soil stays cold / Water makes the soil black  
+   **Answer:** Crops can keep drinking for weeks after the rain. *Why:* Black soil is full of clay, which holds water. So crops like cotton can keep growing well into the dry season. It is also called black cotton soil.
 10. (mcq) Why is soil that washes away in a storm such a big loss?  
    Options: New soil takes hundreds of years to form / Soil cannot get wet again / The rain takes the soil to the Moon  
    **Answer:** New soil takes hundreds of years to form. *Why:* Soil forms very slowly from rock and dead plants. It can take up to a thousand years to make one centimetre. Soil lost in a storm cannot be quickly replaced.
@@ -693,9 +693,9 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - What will happen to these fallen leaves if we leave them?
 - Why do you think worms come out after rain?
 - Which soil do you think is under our city?
-- What crop grows near a grandparent's or an older relative's village, if you have one? What soil is there?
+- Does a grandparent or an older relative live in a village? What crop grows near it? What soil is there?
 - Why are the stone steps smoother in the middle?
-- Where was the rice on your plate before it was rice?
+- Where did the rice on your plate grow, and what was it growing in?
 
 ## Jokes
 - Why did the earthworm get top marks? *They really dug into their studies.*
@@ -709,11 +709,11 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - Why was the black soil so clever? *It always cracked the problem in summer.*
 
 ## Connected maths
-- In the soil jar, Kavya, a girl in Class 3, measured 4 cm of sand, 2 cm of silt and 1 cm of clay. How tall were the settled layers in all? Which layer was the biggest? **7 cm in all. Sand was the biggest layer.**. 4 + 2 + 1 = 7. So the layers were 7 cm tall. The sand layer, 4 cm, was more than the silt and clay together, which were 3 cm. (queues `math.addition-subtraction.word-problems.L3`)
-- Draw a bar chart of Kavya's jar: sand 4 cm, silt 2 cm, clay 1 cm. Then Meena's jar, from a different pot (Meena is also in Class 3): sand 2 cm, silt 2 cm, clay 3 cm. Whose soil would hold more water? **Meena's soil, because it has more clay.**. The bars show Kavya's soil is mostly sand and Meena's is mostly clay. Clay has tiny gaps that hold water, so Meena's soil holds more. (queues `math.data.bar-charts.L3`)
+- In a soil jar, the layers measured 4 cm of sand, 2 cm of silt and 1 cm of clay. How tall were the settled layers in all? Which layer was the biggest? **7 cm in all. Sand was the biggest layer.**. 4 + 2 + 1 = 7. So the layers were 7 cm tall. The sand layer, 4 cm, was more than the silt and clay together, which were 3 cm. (queues `math.addition-subtraction.word-problems.L3`)
+- Draw a bar chart of two soil jars. The first jar is Kavya's, with sand 4 cm, silt 2 cm and clay 1 cm. The second jar is Meena's, with soil from a different pot: sand 2 cm, silt 2 cm and clay 3 cm. Which soil would hold more water? **The soil in the second jar, because it has more clay.**. The bars show the first soil is mostly sand and the second is mostly clay. Clay has tiny gaps that hold water, so the second soil holds more. (queues `math.data.bar-charts.L3`)
 - In the Worm Tunnels test, the packed cup took 150 seconds to soak up the water. The cup with tunnels took 15 seconds. How many times faster was the cup with tunnels? **10 times faster.**. 150 divided by 15 is 10. So the tunnels made the water soak in 10 times faster. (queues `math.division.division-facts.L3`)
 - Suppose one centimetre of soil takes 500 years to form. How long would 3 centimetres take? **1,500 years.**. 3 lots of 500 is 1,500. So 3 centimetres would take 1,500 years, longer than most temples in India have stood. (queues `math.multiplication.equal-groups.L3`)
-- In the methi project, the sand pot had 12 seedlings and the soil pot had 14. On day 21, the tallest in sand was 5 cm and the tallest in soil was 11 cm. The seeds sprouted almost equally. So what made the big difference? **The soil, not the sprouting. Almost the same number sprouted, but the soil plants grew more than twice as tall.**. 12 and 14 are close, so both pots sprouted well. 11 cm is more than twice 5 cm. The difference came after sprouting, once the seed's own food was used up and the plants needed the soil's water and nutrients. (queues `math.number-sense.comparing-ordering.L3`)
+- In the methi project, 12 seedlings came up in the sand pot and 14 in the soil pot. On day 21, the tallest seedling in sand was 5 cm and the tallest in soil was 11 cm. Which difference is bigger: the number of seedlings, or their height? What caused it? **The soil, not the sprouting. Almost the same number sprouted, but the soil plants grew more than twice as tall.**. 12 and 14 are close, so both pots sprouted well. 11 cm is more than twice 5 cm. The difference came after sprouting, once the seed's own food was used up and the plants needed the soil's water and nutrients. (queues `math.number-sense.comparing-ordering.L3`)
 
 ## Song
 Rock, Leaf and Worm (sci.planet-earth.L3): Topic-level song for Planet Earth L3

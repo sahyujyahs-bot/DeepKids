@@ -270,7 +270,7 @@
    "concept": "Wood took millions of years to appear",
    "status": "defined",
    "definition": "The first plants on land had no wood. The first woody stems appeared about 400 million years ago, and the first trees about 390 million years ago.",
-   "description": "For most of Earth's history there were no plants on land at all. The first land plants were tiny, like moss, and lay close to the ground. Over millions of years, some plants began to build thick stems packed with lignin, the hard glue in wood. Now they could stand tall. One of the oldest fossil forests ever found is at Gilboa, in New York State. Its trees lived about 385 million years ago, long before dinosaurs. They looked like giant ferns on top of a trunk. Wood changed the whole planet. Forests spread, made soil and changed the air.",
+   "description": "For most of Earth's history there were no plants on land at all. The first land plants were tiny, like moss, and lay close to the ground. Over millions of years, some plants began to build thick stems packed with lignin, the hard glue in wood. Now they could stand tall. One of the oldest fossil forests ever found is at Gilboa, in New York State. Its trees lived about 385 million years ago, long before dinosaurs. They looked like giant ferns on top of a trunk. Wood changed the whole planet. Forests spread across the land. Their roots and fallen leaves helped to make soil. Their leaves also took in carbon dioxide from the air and gave out oxygen, so the air changed too.",
    "examples": [
     "The Gilboa fossil forest trees, called Wattieza, were about 8 metres tall.",
     "Coal is the squashed remains of ancient forests and swamps from about 300 million years ago.",
@@ -473,7 +473,7 @@
    "for": "In 1997, Simard and her team showed that some carbon passed between trees through fungi joined to their roots.",
    "against": "In 2023, other scientists looked again at the studies. They said the evidence that trees really help each other this way is weaker than the popular story says.",
    "status": "debated",
-   "context": "This card is about a big argument in forest science today."
+   "context": "Fungi are living things, like mushrooms, whose thin threads grow through the soil and join to tree roots. Some scientists say trees pass food and warning messages to each other through these threads. People call this the 'wood wide web', because it is a bit like the internet joining computers together. This card is about whether that is really true."
   }
  ],
  "big_questions": [
@@ -583,7 +583,7 @@
   "deep_truth": {
    "truth": "In the Stem Test, the woody twig stood up alone, but the soft stems bent over. Every plant must get their leaves into sunlight to make food. A tree holds them up on wood, a climber leans on a support, and a creeper spreads them flat. So a plant's kind is their way of reaching the light.",
    "habit": "We learn tree, shrub, herb, climber and creeper as names to memorise, like labels on jars. But each kind is a way of living. It tells you how that plant reaches the light, and what they need from the place they grow.",
-   "evidence": "In the Stem Test, the woody twig stayed stiff, the soft stems bent, and a long money plant stem, if you had one, flopped over. A money plant still reaches the top of a window grill, because they hold on to the grill or a pole with little roots along their stem. Farmers in Kerala plant a tree or a post before they plant pepper, for the same reason."
+   "evidence": "In the Stem Test, the woody twig stayed stiff and the soft stems bent. If you also tested a long money plant stem, it flopped over. A money plant still reaches the top of a window grill, because they hold on to the grill or a pole with little roots along their stem. Farmers in Kerala plant a tree or a post before they plant pepper, for the same reason."
   },
   "three": {
    "who_am_i": "Your bones hold you up, the way wood holds up a tree. Your muscles work all the time to keep you balanced.",
@@ -919,7 +919,8 @@
      "do": "Count the families and find the winner. Then lay all the families out together.",
      "say": "Look at all our families. Which kind of plant gives us the most food?",
      "kid": "Count your families. Who won? Which kind gives us the most food?",
-     "think": "If you could only keep one kind of plant, which would you keep, and why?"
+     "think": "If you could only keep one kind of plant, which would you keep, and why?",
+     "parent": "Look at the cards that say food. Rice, wheat and sugarcane are all herbs that are grasses, so the herbs family gives the most. Accept any answer the child can explain from the cards."
     }
    ]
   },
@@ -1860,8 +1861,8 @@
      "mins": 4,
      "do": "Optional: a grown-up cooks the banana stem, if your family eats it. It is used in curries and juice in many Indian homes.",
      "say": "Many families in south India cook banana stem. The banana plant gives us fruit, leaves for plates, stem for food and fibre for rope.",
-     "kid": "Banana plants give fruit, leaf plates, food and rope. Which use is most surprising?",
-     "parent": "Banana leaves are used as plates, and banana fibre is made into rope, mats and even cloth.",
+     "kid": "Banana plants give fruit, leaf plates, food and rope. Which part of the plant gives the rope?",
+     "parent": "Banana leaves are used as plates. Banana fibre comes from the stem and is made into rope, mats and even cloth. So the answer to the question is the stem.",
      "adult": true
     }
    ]
@@ -2161,7 +2162,7 @@
      "id": "s5",
      "mins": 10,
      "do": "On Day 28, make the plant friend card together.",
-     "say": "What did you learn about your plant friend? What surprised you most?",
+     "say": "Look back at your diary. What changed in your plant friend over four weeks? How do your two drawings show it?",
      "kid": "Make your plant friend card. Write their kind, their uses, their visitors and what changed.",
      "wait": "Day 28",
      "think": "Does your plant know you visited them? How could you ever find out?"
@@ -2552,7 +2553,7 @@
      "ask": "Which plant would you choose? Give a reason that uses the kind of plant they are and how people use them. Then say one good point another person made.",
      "lines": 5,
      "a": "A strong answer links the choice to the plant's kind. A curry leaf shrub has woody stems and grows big, so they need a deep pot, but they give leaves for years. A tulsi is a herb. They grow fast in a small pot, and people use their leaves as a home remedy. A money plant is a climber, so they need the grill as a support, and they can shade a window. A strong answer then admits another person's good point.",
-     "why": "Each choice is sensible. They trade off food, medicine, shade and space. What matters is using the plant's kind to say how they will grow in one small pot."
+     "why": "Each choice is sensible. Each one gives something useful and leaves something out, whether it is food, medicine, shade or space. What matters is using the plant's kind to say how they will grow in one small pot."
     },
     {
      "t": "mcq",
@@ -3137,7 +3138,7 @@
  "ask_kids": [
   "What kind of plant is that one: tree, shrub, herb, climber or creeper?",
   "What is your breakfast made from? Which plants?",
-  "If you were a plant, would you be a tree, a climber or a creeper? Why?",
+  "Which kind of plant would be easiest to see from here, and how could you tell by its stem?",
   "Which plant on our street gives the best shade?",
   "What is that door made of? Which tree might it have come from?",
   "That plant is growing out of a wall. How did they get there?",

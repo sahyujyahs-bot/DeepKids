@@ -223,7 +223,7 @@
   {
    "concept": "Roots and soil life sense and choose",
    "status": "debated",
-   "description": "Roots sense the soil around them. They grow towards water and towards patches rich in nutrients, and away from salt and from hard ground. Roots and fungi in the soil trade with each other. The fungi bring water and nutrients to the root, and the plant gives the fungi sugar made in the leaves. Bacteria in the soil sense chemicals and swim towards food. Earthworms sense light, touch, damp and shaking ground, and decide where to go. All of these beings feel and choose. Soil is full of minds at work.",
+   "description": "Roots sense the soil around them. They grow towards water and towards patches rich in nutrients, and away from salt and from hard ground. Roots and fungi in the soil trade with each other. The fungi bring water and nutrients to the root, and the plant gives the fungi sugar made in the leaves. Bacteria in the soil sense chemicals and swim towards food. Earthworms sense light, touch, damp and shaking ground, and decide where to go. All of these beings sense what is around them and act on it. So the soil is full of living beings who are feeling their surroundings and making choices.",
    "examples": [
     "A root grows sideways towards a damp patch in a pot, rather than straight down into dry soil.",
     "Earthworms move away from a bright torch held over their soil.",
@@ -2635,7 +2635,7 @@
   "Which soil do you think is under our city?",
   "Does a grandparent or an older relative live in a village? What crop grows near it? What soil is there?",
   "Why are the stone steps smoother in the middle?",
-  "Where was the rice on your plate before it was rice?"
+  "Where did the rice on your plate grow, and what was it growing in?"
  ],
  "jokes": [
   {
@@ -2686,7 +2686,7 @@
    "context": "This is about the soil jar, where soil settled into layers of sand, silt and clay."
   },
   {
-   "problem": "Draw a bar chart of two soil jars. The first jar has sand 4 cm, silt 2 cm and clay 1 cm. The second jar, with soil from a different pot, has sand 2 cm, silt 2 cm and clay 3 cm. Which soil would hold more water?",
+   "problem": "Draw a bar chart of two soil jars. The first jar is Kavya's, with sand 4 cm, silt 2 cm and clay 1 cm. The second jar is Meena's, with soil from a different pot: sand 2 cm, silt 2 cm and clay 3 cm. Which soil would hold more water?",
    "answer": "The soil in the second jar, because it has more clay.",
    "explain": "The bars show the first soil is mostly sand and the second is mostly clay. Clay has tiny gaps that hold water, so the second soil holds more.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2951,7 +2951,7 @@
   ],
   "science": [
    {
-    "text": "The atoms in our bodies were once in soil, water and air, and they will go back there. Atoms are not made or lost, only moved.",
+    "text": "The atoms in our bodies were once in soil, water and air, and they will go back there. Atoms are not made or destroyed on this journey. They only move from one place to another.",
     "status": "settled"
    },
    {
@@ -2972,7 +2972,7 @@
   "ask": [
    "The soil scientist Vasily Dokuchaev found the same rock under very different soils. If the rock is the same, what else makes a soil?",
    "Many soil scientists say only the living things in soil are alive. What do you think, and what would you check?",
-   "In the Soil Jar experiment, which part of your jar is the oldest, and how could you tell?"
+   "In the Soil Jar experiment, the sand grains came from rock, and the floating bits came from dead plants. Which of the two is older, and how could you tell?"
   ],
   "art": "A child on a balcony holding a handful of soil, and drawn faintly inside the soil a mountain, a fallen leaf and an earthworm, with a small rice plant growing beside the child."
  },

@@ -16,7 +16,7 @@
 ## Terms
 - **Counting numbers**: The counting numbers are the numbers we use to count things: 1, 2, 3, 4 and so on. Each one is one more than the number before it. *e.g.* You count the idlis on a plate: 1, 2, 3, 4. Those are counting numbers.
 - **Infinity**: Infinity means without end. We say the counting numbers go on to infinity, because they never stop. Infinity is not a counting number. *e.g.* You can keep adding 1 for ever and never reach a last number. That never-ending is what infinity means.
-- **Infinite**: Something is infinite if it has no end at all. However much of it you count or measure, there is always more. *e.g.* The counting numbers are infinite. The grains of sand on Marina Beach are not: there are a huge number, but it is a number.
+- **Infinite**: Something is infinite if it has no end at all. However much of it you count or measure, there is always more. *e.g.* The counting numbers are infinite. The grains of sand on Marina Beach are not: there is a huge number of grains, but it is still a number.
 - **Finite**: Finite means it has an end. A finite amount can be counted or measured, even if it would take a very long time. *e.g.* The rice in a 5-kilogram bag is finite. You could count every grain if you had many days.
 - **The infinity sign**: This is the sign for infinity: ∞. It looks like the number 8 lying on its side. An English mathematician, John Wallis, first used it in 1655. *e.g.* In a maths book you might see 1, 2, 3, … ∞. It means the numbers go on without end.
 - **Estimate**: To estimate is to work out a good guess of a number, without counting every single one. You count a small part, then work out the whole. *e.g.* Count the grains in one teaspoon of rice. Then count how many teaspoons fill a cup. Now you can estimate the grains in the cup.
@@ -34,9 +34,9 @@ Think of the biggest number you can. Now add one. The new number is bigger, so t
 ### Infinity is not a number you can count to · *defined*
 **Definition:** Infinity means without end. It is not one of the counting numbers, so you can never reach it by counting.
 
-Many children think infinity is the biggest number, waiting far away at the end of the counting. But the counting has no end, so there is nowhere for infinity to wait. If infinity were a counting number, then infinity plus one would be bigger, and that does not work. So infinity is a word for the never-ending, not a place on the number line. In maths books the sign ∞ is used to say 'the numbers go on'. Much later, mathematicians found careful ways to compare different endless collections. You can meet those ideas in Class 5.
+Many children think infinity is the biggest number, waiting far away at the end of the counting. But the counting has no end, so there is nowhere for infinity to wait. If infinity were a counting number, then infinity plus one would be a bigger number, and infinity would not be the end after all. So infinity is a word for the never-ending, not a place on the number line. In maths books the sign ∞ is used to say 'the numbers go on'. Mathematicians have also found careful ways to compare different endless collections. You can meet those ideas in Class 5.
 - e.g. Counting 1, 2, 3, … and reaching infinity is impossible, because there is always a next number.
-- e.g. Saying 'infinity plus one' does not give a new number, because infinity was never a counting number.
+- e.g. Infinity plus one is not a bigger number. Infinity was never a counting number, so you cannot add to it the way you add one to 5.
 - e.g. A shopkeeper can sell you a crore grains of rice, but never an infinite number of grains.
 ### Very many is still finite · *defined*
 **Definition:** A collection is finite if it can be counted to the end, even if the count takes a very long time. Something infinite can never be counted to the end.
@@ -54,8 +54,8 @@ The numbers are infinite. But is there anything infinite that you could touch or
 - **Other cosmologists:** Space could curve back on itself very gently, like a huge ball. Then it would be finite but with no edge. Our measurements cannot yet tell these apart.
 - **Some mathematicians and philosophers:** Infinity is a tool for thinking about numbers. Real things may always be finite, however big.
 ### How can we be sure of something we can never finish? · *idea*
-Nobody has ever counted all the numbers, and nobody ever will. Yet every mathematician agrees that they never end. We know it from a rule that works every time: add one, and you get a bigger number. People cannot check every case, but they can be sure the rule never fails. This is one of the oldest ideas in maths. Thinkers still discuss what it means that a short life can be sure of something endless.
-- e.g. You never counted past a few hundred, but you are sure there is a number after a crore crore.
+Nobody has ever counted all the numbers, and nobody ever will. Yet every mathematician agrees that they never end. We know it from a rule that works every time: add one, and you get a bigger number. People cannot check every case, but they can be sure the rule never fails. This is one of the oldest ideas in maths. Thinkers still discuss how a person, who lives only a short time, can be sure of something endless.
+- e.g. You have never counted past a few hundred, but you are sure there is a number after a crore crore.
 - e.g. An old Greek thinker, Aristotle, said infinity is something you can always go further into, but never finish.
 - e.g. Jain thinkers in ancient India sorted numbers into countable, uncountable and infinite.
 - **Most mathematicians:** The plus-one rule is a proof. Once a proof is found, the question is settled for ever.
@@ -68,7 +68,7 @@ Nobody has ever counted all the numbers, and nobody ever will. Yet every mathema
 - Huge collections, such as the grains of sand on the Earth, are finite. *How we know:* Their size can be estimated by counting a small part and multiplying. Archimedes did this for sand about 2,200 years ago.
 
 ## How we found out
-**Archimedes of Syracuse, a Greek mathematician, About 3rd century BCE, in his book The Sand Reckoner.** For thousands of years, people said that the grains of sand were infinite. In many languages, 'as many as the sand' meant 'too many to number'. About 2,200 years ago, Archimedes, a Greek thinker who lived in Syracuse in Sicily, decided to test this idea. He wrote a short book for King Gelon, called The Sand Reckoner. It begins: 'There are some, King Gelon, who think that the number of the sand is infinite.' Archimedes guessed how many grains fit inside a poppy seed. Then he worked out how many poppy seeds would fill a finger-width, a stadium, the Earth, and at last the whole universe, as people pictured it then. The Greek number names stopped at a myriad, which is ten thousand. So Archimedes invented new names for bigger and bigger numbers. His answer was that fewer than a 1 followed by 63 zeros grains of sand would fill the universe. That is a huge number, but it is a number. Archimedes showed that 'too many to count' is not the same as infinite. Only the numbers themselves have no end.  
+**Archimedes of Syracuse, a Greek mathematician, In the 3rd century BCE, about 2,200 years ago, in his book The Sand Reckoner.** For thousands of years, people said that the grains of sand were infinite. In many languages, 'as many as the sand' meant 'too many to number'. About 2,200 years ago, Archimedes, a Greek thinker who lived in Syracuse in Sicily, decided to test this idea. He wrote a short book for King Gelon, called The Sand Reckoner. It begins: 'There are some, King Gelon, who think that the number of the sand is infinite.' Archimedes guessed how many grains fit inside a poppy seed. Then he worked out how many poppy seeds would fill a finger-width, a stadium, the Earth, and at last the whole universe, as people pictured it then. The Greek number names stopped at a myriad, which is ten thousand. So Archimedes invented new names for bigger and bigger numbers. His answer was that the grains of sand needed to fill the universe would be fewer than a 1 followed by 63 zeros. That is a huge number, but it is a number. Archimedes showed that 'too many to count' is not the same as infinite. Only the numbers themselves have no end.  
 *What people believed before:* People believed the grains of sand were infinite. Archimedes showed that even the sand needed to fill the universe, as he pictured it, could be given a number: fewer than a 1 followed by 63 zeros.
 
 ## Challenging perspectives
@@ -88,29 +88,29 @@ Nobody has ever counted all the numbers, and nobody ever will. Yet every mathema
 ## Roots
 We have learned that the numbers never end, and that infinity is the word for this never-ending. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** Saying 20 big numbers took you longer than saying 20 small ones, and soon you had to stop. Yet you know the numbers never run out. You know it from one rule: any number plus one is a bigger number. So a mind can be sure of something endless without ever seeing all of it.  
+**Deep truth.** In the experiment 'Does Counting Get Slower?', saying 20 big numbers took you longer than saying 20 small ones, and soon you had to stop. Yet you know the numbers never run out. You know it from one rule: any number plus one is a bigger number. So a person can be sure of something endless without ever seeing all of it.  
 *Habit it breaks:* We think knowing a thing means seeing or counting all of it, and we picture infinity as a very big number far away. But nobody can count all the numbers, and still everyone who understands the plus-one rule can be sure they never stop.  
-*Evidence:* The stopwatch showed that bigger numbers take longer to say, and Jeremy Harper needed 89 days to reach ten lakh. The counting can never finish. Yet the plus-one rule shows, in a moment, that there is always a next number.
+*Evidence:* In the experiment 'Does Counting Get Slower?', the stopwatch showed that bigger numbers take longer to say. Jeremy Harper needed 89 days to count out loud to ten lakh. So the counting can never finish. Yet the plus-one rule shows, in a moment, that there is always a next number.
 
 - *who am i:* You are someone who can count only a little way, yet can understand that the numbers never end.
-- *what is life:* A life has a length you can count in days. Within it, you can still think about the endless.
+- *what is life:* A life has a length you can count in days. Even so, a person can think about things that never end.
 - *what is this world:* The world is full of very big numbers: grains, hairs, stars. Whether anything in it is truly infinite, nobody knows yet.
 
-The counting numbers begin with one. Add one, and you have two. Add one again, and again, and every counting number appears, without end. So one plain rule, used over and over, gives numbers without end.
+The counting numbers begin with one. Add one, and you have two. Keep adding one, and you get every counting number. So one plain rule, used over and over, gives numbers without end.
 
-- **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (The numbers behave like this. Take away the first hundred numbers, and the numbers that are left still never end.)
+- **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (Take away the first hundred counting numbers, and the numbers that are left still never end. Taking a part away does not use up the endless.)
 - **Anuyogadvara Sutra, a Jain text:** Numbers are of three kinds: countable, uncountable and infinite. (Jain thinkers drew the same line this unit draws: the grains in a tumbler are countable, however many there are, and the numbers themselves are infinite.)
 - **Aristotle, Physics, Book III:** The infinite is that beyond which there is always something more. It is never complete. (This is the plus-one rule. However far you count, there is always more, and the counting is never complete.)
 - Science (settled): There is no largest counting number: any number plus one is larger. Mathematicians accept this as proved.
 - Science (open): Whether space goes on for ever is not known. It is very nearly flat, which fits an infinite universe, but also a very large finite one.
-- Other view, Ultrafinitists, a small group of mathematicians: A rule that can never be carried out to the end tells us about the rule, not about an endless thing. Numbers too big for anyone to ever write may not really exist, so nothing endless is known at all.
+- Other view, Ultrafinitists, a small group of mathematicians: Nobody can ever follow the plus-one rule all the way to the end. So the rule tells us only about the rule. It does not show that an endless collection of numbers exists. Numbers too big for anyone to ever write may not really exist. If so, we do not know of anything endless at all.
 - Practice, Count your breaths, then begin again (3 min): Let's sit still and close our eyes. Breathe in and out slowly. Count each out-breath, from one to ten. At ten, start again at one. Your breaths will go on all day without you counting them. Now open your eyes. Did your breathing stop when the counting stopped?
-- Ask: How can a small head be sure of something that never ends?
+- Ask: How can a person be sure of something that never ends?
 - Ask: If you could live for ever, would you ever finish counting?
 - Ask: Do you think anything you can touch is infinite? Why or why not?
 
 ## Deep and big questions
-- *deep:* If you can never count to infinity, how do you know the numbers never end? (hint: Think about the plus-one game. Did you need to check every number to know you would always win?)
+- *deep:* If you can never count to infinity, how do you know the numbers never end? (hint: Think about the game One More Than You, where the second player always says one more. Did you need to check every number to know the second player would always win?)
 - *big:* Is anything you can touch infinite, or are only ideas infinite? (hint: Think of the rice in the cup and the hairs on your head. Can you think of anything that might have no end?)
 - *deep:* Why does counting get slower as the numbers get bigger? (hint: Say 'seven' and then 'one lakh twenty-three thousand four hundred and fifty-seven'. Which takes longer, and why?)
 - *big:* Is infinity something people found, like a new star, or something people made, like a game? (hint: Mathematicians argue about this. Think about the plus-one rule. Did someone invent it, or was it always true?)
@@ -226,7 +226,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s4 (3 min)**  
   *Parent does:* Ask how many cards you would need to make the biggest number of all.  
   *Parent says:* If we kept playing with more and more cards, would anyone ever make the biggest number of all?  
-  *Child mode:* Imagine you kept getting more cards. Could you make the biggest number of all?
+  *Child mode:* Suppose you kept getting more cards. Could you make the biggest number of all?
   - Think: Every round had a winner, but the game could never have a 'biggest number ever' winner. Why?
 
 ## Experiments
@@ -258,7 +258,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
   *Child mode:* Read each list again while the grown-up times you. Write the new times in the table.
   - Check: Why do we read each list twice? → **Because one try can be a fluke**
 - **s5 (4 min)**  
-  *Parent does:* 1. Look at the table together. 2. Ask what the times show. 3. Ask for the child's claim, evidence and reasoning.  
+  *Parent does:* 1. Look at the table together. 2. Ask what the times show. 3. Ask your child to say what they found, which times show it, and why they think it happened.  
   *Parent says:* What do your times show? Which list was slowest? Why do you think it took longer?  
   *Child mode:* Look at your times. Which list was slowest? Why do you think so? Say it in one sentence.
   - Ask: Why did list C take longer, even though it had the same number of numbers? (good: Each big number has more words to say.; 'One lakh twenty-three thousand four hundred and fifty-one' is much longer than 'one'.)
@@ -271,7 +271,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 ### e2 · How Many Grains of Rice in a Cup? Very many, or infinite? (30 min)
 - **question:** Is the number of rice grains in a cup so big that it is infinite, or can we find it?
 - **predict:** Guess first. How many grains of rice are in one steel tumbler: about a hundred, about a thousand, about ten thousand, or infinitely many? Why do you think so?
-- **fair test:** Use the same teaspoon every time, filled level, not heaped. Count two separate teaspoons and use the middle of the two counts, because one spoonful can be a fluke.
+- **fair test:** Use the same teaspoon every time, filled level, not heaped. Count two separate teaspoons and use the number halfway between the two counts, because one spoonful can be a fluke.
 - **safety:** Keep raw rice away from children under 3, who might put grains in their nose or mouth.
 - **record:** Write the number of grains in each teaspoon, the number of teaspoons in the tumbler, and your estimate for the whole tumbler. Write your first guess next to it.
 - **results table:** What we counted | Number
@@ -286,10 +286,10 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
   *Child mode:* Tip one level teaspoon onto the plate. Push the grains into heaps of ten. Count the heaps. Count the leftover grains.
   - Note: A level teaspoon of raw rice usually holds between 150 and 250 grains, depending on the rice. Short grains such as ponni rice give more than long basmati grains. Any number is fine. A toothpick helps to move single grains.
 - **s3 (7 min)**  
-  *Parent does:* 1. Tip the counted rice into the big bowl. 2. Count a second level teaspoon the same way. 3. Write both numbers and pick a number in the middle.  
+  *Parent does:* 1. Tip the counted rice into the big bowl. 2. Count a second level teaspoon the same way. 3. Write both numbers and pick the number halfway between them.  
   *Parent says:* Let's count one more spoonful. If the two numbers are close, our count is good.  
-  *Child mode:* Count a second teaspoon the same way. Are the two numbers close? Pick a number in the middle.
-  - Check: Teaspoon 1 had 190 grains. Teaspoon 2 had 210 grains. Which number is in the middle? → **200**
+  *Child mode:* Count a second teaspoon the same way. Are the two numbers close? Pick the number halfway between them.
+  - Check: Teaspoon 1 had 190 grains. Teaspoon 2 had 210 grains. Which number is halfway between them? → **200**
 - **s4 (5 min)**  
   *Parent does:* 1. Fill the empty tumbler with rice from the big bowl, one level teaspoon at a time. 2. Your child makes a tally mark for each spoonful.  
   *Parent says:* Now we don't count the grains. We count the spoonfuls. Make one tally mark for every spoon.  
@@ -322,6 +322,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
   - Ask: Is there a biggest number? (good: No, because you can always add one.; No. Every number has a bigger one after it.)
   - Think: If you say 'infinity', can the other player add one? Keep this question for later.
 ### a2 · The Old Indian Ladder of Big Numbers (15 min)
+- **problem:** The Yajurveda, one of India's oldest books, gave a name to each big number from one up to a 1 followed by 12 zeros. In this activity you write those names on a ladder, with each step ten times the one below. Then you ask whether the ladder could ever stop.
 - **record:** Keep the ladder on the wall. Add a step at the top with your own name for the next number.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw 13 steps on the strip with the ruler. 2. Explain that each step is ten times the step below.  
@@ -356,6 +357,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
   - Ask: Where does the number line end? (good: It doesn't. The numbers go on even after the wall.; Only the room ends. The numbers keep going.)
   - Check: Why does a number line in a maths book have an arrow at the end? → **To show the numbers go on for ever**
 ### a4 · One Line, Never Lifted: the infinity sign and a sikku kolam (15 min)
+- **problem:** A line that joins up with itself can be traced round and round for ever. In this activity you draw the infinity sign and a sikku kolam, and you ask whether a line like this is infinite, the way the counting numbers are.
 - **record:** Draw your loop in your notebook. Write one sentence on how a loop is different from the numbers.
 - **s1 (4 min)**  
   *Parent does:* 1. Show the sign ∞. 2. Your child draws it in one stroke, then traces it round three times without stopping.  
@@ -375,9 +377,9 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 ### a5 · Very Many or Infinite? A sorting hunt at home (12 min)
 - **record:** Keep your sorted list. Put a star next to anything you are not sure about.
 - **s1 (7 min)**  
-  *Parent does:* 1. Walk around the home together. 2. Your child names things that seem endless. 3. They write each one on a side of the paper.  
+  *Parent does:* 1. Walk around the home together. 2. Your child names things that seem endless. 3. They write each one on the 'very many' side or the 'never ends' side of the paper.  
   *Parent says:* Let's find things that seem to go on for ever. Salt in the jar? Hairs on your head? Drops in the water tank? Write each one down.  
-  *Child mode:* Walk around the home. Find things that seem endless. Write each one on the side you think is right.
+  *Child mode:* Walk around the home. Find things that seem endless. Write each one on the 'very many' side or the 'never ends' side, whichever you think is right.
   - Note: Good things to find: grains of salt, sugar or muri (puffed rice), hairs on a head, threads in a towel, drops of water in a bucket, leaves on a plant, the numbers themselves.
 - **s2 (5 min)**  
   *Parent does:* Go through the list and ask, for each thing, 'Could someone count it to the end, if they had enough time?'  
@@ -437,11 +439,11 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 
 ## Worksheets
 ### Is There a Biggest Number? (core) (core, 15 questions)
-1. (truefalse) Arjun, a boy aged 7, says, 'A crore is the biggest number.' Is he right?  
+1. (truefalse) A crore is the biggest number.  
    **Answer:** False. *Why:* False. A crore and one is bigger than a crore. Any number plus one is bigger, so there is no biggest number. A strong answer names a number bigger than a crore.
-2. (mcq) Meenakshi, a girl in Class 3, says the biggest number she knows. Her mother always answers with that number plus one. Who will win in the end?  
-   Options: Her mother, because she can always add one / Meenakshi, if she says a very big number / Nobody can say who wins  
-   **Answer:** Her mother, because she can always add one. *Why:* Whoever adds one can always beat the other number. So the mother always wins. That is why there is no biggest number.
+2. (mcq) A child says the biggest number she knows. Her mother always answers with that number plus one. Who will win in the end?  
+   Options: The mother, because she can always add one / The child, if she says a very big number / Nobody can say who wins  
+   **Answer:** The mother, because she can always add one. *Why:* Whoever adds one can always beat the other number. So the mother always wins. That is why there is no biggest number.
 3. (fill) The word for 'without end' is ____.  
    **Answer:** ['infinity']. *Why:* Infinity means without end. The counting numbers go on to infinity, because they never stop.
 4. (mcq) Which sign means infinity?  
@@ -449,9 +451,9 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
    **Answer:** ∞. *Why:* The infinity sign, ∞, looks like an 8 lying on its side. John Wallis first used it in 1655. A standing 8 is just the number eight.
 5. (match) Match each word to what it means.  
    **Answer:** Infinite → has no end at all; Finite → has an end, and can be counted; Estimate → a good guess worked out from a small count; Lakh → one hundred thousand, 1,00,000; Crore → one hundred lakh, 1,00,00,000. *Why:* These words come up all through the unit. A strong answer can also give an example of each, such as 'the rice in a cup is finite'.
-6. (truefalse) In the counting test, reading 1,23,451 to 1,23,470 out loud takes longer than reading 1 to 20.  
-   **Answer:** True. *Why:* True. Both lists have 20 numbers, but each big number has many more words to say. A strong answer gives the times from your own test.
-7. (write) Kavya, a girl aged 9, says, 'Infinity is the biggest number of all.' Explain what is wrong with her idea.  
+6. (truefalse) In the experiment 'Does Counting Get Slower?', reading 1,23,451 to 1,23,470 out loud takes longer than reading 1 to 20.  
+   **Answer:** True. *Why:* True. Both lists have 20 numbers, but each big number has many more words to say. A strong answer gives your own times from the experiment.
+7. (write) Someone says, 'Infinity is the biggest number of all.' Explain what is wrong with this idea.  
    **Answer:** If infinity were the biggest number, you could add one and get a bigger number. That can't happen to the biggest one. So infinity is not a number at the end. It is the word for the numbers never ending.. *Why:* A strong answer uses the plus-one idea to show that there cannot be a biggest number, so infinity cannot be one.
 8. (sort) Sort these into 'very many, but finite' and 'never ends'.  
    **Answer:** the hairs on your head → Very many, but finite; the grains of rice in a 5 kg bag → Very many, but finite; the counting numbers → Never ends; the people in India → Very many, but finite; the grains of sand on Marina Beach → Very many, but finite; the numbers on a number line with an arrow → Never ends. *Why:* Hairs, rice, people and sand can all be counted, given enough time, so they are finite. The counting numbers never end. A strong answer says why sand is finite: each grain takes up space, and the beach has a size.
@@ -459,19 +461,19 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
    **Answer:** ['ten', 'one thousand', 'one lakh', 'one crore']. *Why:* Ten is 10. One thousand is 1,000. One lakh is 1,00,000. One crore is 1,00,00,000. Each has more zeros than the one before.
 10. (draw) Draw a number line from 0 to 10. Show, with one mark, that the numbers go on after 10.  
    **Answer:** A straight line with 0 to 10 evenly spaced, and an arrow at the end after 10.. *Why:* The arrow shows the numbers go on for ever. A strong drawing has the numbers evenly spaced and the arrow pointing away from 0.
-11. (write) Use your own times from the counting test. Why could nobody ever count to the end of the numbers?  
+11. (write) In the experiment 'Does Counting Get Slower?', you timed yourself reading lists of small and big numbers aloud. Use your own times to explain why nobody could ever count to the end of the numbers.  
    **Answer:** My list of big numbers took much longer than my list of small numbers. Bigger numbers keep getting longer to say. And every number has a next one, so the counting can never finish.. *Why:* A strong answer uses the child's own evidence (the times) and the plus-one idea together.
 12. (mcq) The Yajurveda has a list of number names that ends with 'parardha', a 1 followed by 12 zeros. What comes after parardha?  
    Options: Parardha plus one, and many more numbers / Nothing, because parardha is the end / Infinity, the next number  
    **Answer:** Parardha plus one, and many more numbers. *Why:* The old list of names stops at parardha, but the numbers do not. You can always add one or another zero. Infinity is not the next number.
-13. (label) Here is a picture of a sheet with three lists from the counting test. Label each list 'fastest', 'middle' or 'slowest'.  
+13. (label) Here is a picture of the three lists from the experiment 'Does Counting Get Slower?'. Each list has 20 numbers to read aloud. Label each list 'fastest', 'middle' or 'slowest'.  
    **Answer:** ['1 to 20: fastest', '351 to 370: middle', '1,23,451 to 1,23,470: slowest']. *Why:* The more words a number has, the longer it takes to say. A strong answer says 'one' has one word and 'one lakh twenty-three thousand four hundred and fifty-one' has eight.
-14. (perspective) Two sisters in Kochi look at a sack of rice in a shop.  
-   **Answer:** A strong answer agrees with Anu, using the rice test: a spoonful had about 200 grains, so a sack holds a big number that can be estimated. It also sees what Divya has right: counting every grain one by one would take a very long time.. *Why:* This question asks the child to use evidence and to tell 'very many' apart from 'infinite', while being fair to the other view.
-15. (write) In the rice test, why did you count the grains in one teaspoon instead of counting the whole tumbler?  
+14. (perspective) Two sisters look at a sack of rice in a shop.  
+   **Answer:** A strong answer agrees with the younger sister, using the experiment 'How Many Grains of Rice in a Cup?': a spoonful had about 200 grains, so a sack holds a big number that can be estimated. It also sees what the older sister has right: counting every grain one by one would take a very long time.. *Why:* This question asks the child to use evidence and to tell 'very many' apart from 'infinite', while being fair to the other view.
+15. (write) In the experiment 'How Many Grains of Rice in a Cup?', why did you count the grains in one teaspoon instead of counting the whole tumbler?  
    **Answer:** Counting a small part is quick. Then I can multiply by the number of spoons to find the whole. The tumbler of rice turned out to be a number I could work out, not infinite.. *Why:* A strong answer says that a small count plus multiplying gives a good estimate of a big collection.
 ### Very Many or Infinite? (stretch) (stretch, 15 questions)
-1. (mcq) Farhan, a boy in Class 4, says 'infinity plus one'. What do mathematicians say about this?  
+1. (mcq) Someone says 'infinity plus one'. What do mathematicians say about this?  
    Options: Infinity is not a counting number, so adding one does not give a new counting number / It is a number one bigger than infinity / It is the same as 2  
    **Answer:** Infinity is not a counting number, so adding one does not give a new counting number. *Why:* Infinity is not a counting number, so you can't add one to it the way you add one to 5. Infinity plus one is still endless. In Class 5 you meet the careful way mathematicians compare endless collections.
 2. (truefalse) If you counted all day, every day, for your whole life, you would reach the last number.  
@@ -483,16 +485,16 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 5. (odd) Three of these are finite. Which one is the odd one out?  
    Options: The counting numbers / The stars you can see on a dark night / The grains in a sack of rice / The people in Kolkata  
    **Answer:** 0. *Why:* The stars you can see, the grains of rice and the people in Kolkata can all be counted, given enough time. The counting numbers never end.
-6. (write) Sneha, a girl in Class 3, says a sikku kolam line is infinite, because you can trace it round and round for ever. Is the line infinite? Explain.  
+6. (write) A sikku kolam is a kolam made of one line that loops around dots and joins back to its start. Someone says the line is infinite, because you can trace it round and round for ever. Is the line infinite? Explain.  
    **Answer:** The line is not infinite. You can measure it with a thread. Tracing it never ends because it joins up, so you go round the same line again. The numbers are different: each new number is new, and you never come back to the start.. *Why:* A strong answer separates a path you can go round for ever from a thing that has no end.
-7. (mcq) Archimedes, a Greek thinker who lived about 2,200 years ago, heard people say that the grains of sand were infinite. What did he show?  
-   Options: The grains of sand can be given a number, even if it is huge / The grains of sand really are infinite / Sand is too small to count  
-   **Answer:** The grains of sand can be given a number, even if it is huge. *Why:* Archimedes worked out that the grains of sand needed to fill the whole universe, as he pictured it, would be fewer than a 1 followed by 63 zeros. That is huge, but it is a number.
+7. (mcq) Suppose a whole room were filled with sand. Is the number of grains infinite?  
+   Options: No. It is a huge number, but the room has an end, so the grains can be given a number / Yes. Sand is always infinite / Sand is too small to count  
+   **Answer:** No. It is a huge number, but the room has an end, so the grains can be given a number. *Why:* Very many is not the same as endless. You could count a spoonful and multiply, as you did with rice in the experiment 'How Many Grains of Rice in a Cup?'. Only something with no end can be infinite.
 8. (draw) Draw a picture that shows the difference between 'very many' and 'infinite'.  
    **Answer:** For example: a heap of rice labelled 'very many', and a number line with an arrow labelled 'infinite'.. *Why:* A strong drawing shows something that has an end, even if it is big, next to something that never ends.
 9. (truefalse) The numbers on a clock go 1 to 12 and then start again. So a clock shows that numbers are infinite.  
    **Answer:** False. *Why:* False. A clock repeats the same 12 numbers. It never shows a new number after 12. The counting numbers are different: every number is new, and there is always a next one.
-10. (order) Put the steps of the rice estimate in order.  
+10. (order) In the experiment 'How Many Grains of Rice in a Cup?', you estimated the grains of rice in a tumbler. Put the steps in order.  
    **Answer:** ['Count the grains in one level teaspoon', 'Count how many spoons fill the tumbler', 'Multiply the grains in a spoon by the number of spoons', 'Compare the answer with your first guess']. *Why:* First count a small part, then count how many parts make the whole, then multiply. Comparing with your guess shows how good the guess was.
 11. (perspective) Two scientists talk about space, the huge emptiness that holds all the stars.  
    **Answer:** Either view is fine with a reason. A strong answer sees that nobody knows yet, that we can see only part of the universe, and suggests what to measure, such as whether space curves.. *Why:* This is a real open question. The child practises weighing two views when the evidence can't yet decide.
@@ -508,11 +510,11 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 ### Thinking About the Endless (challenge) (challenge, 15 questions)
 1. (write) If infinity were a counting number, what would 'infinity plus one' be? Explain why this shows infinity is not a counting number.  
    **Answer:** It would be a bigger counting number than infinity. But infinity was supposed to be past all of them. That doesn't work, so infinity can't be a counting number.. *Why:* A strong answer follows the argument step by step and finds where it breaks.
-2. (mcq) Pooja, a girl in Class 4, wrote down her counting times:: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?  
+2. (mcq) Here are one child's times for reading three lists of 20 numbers aloud: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, and 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?  
    Options: Even longer than 48 seconds / About 9 seconds / Exactly 23 seconds  
    **Answer:** Even longer than 48 seconds. *Why:* Bigger numbers have more words, such as 'ninety-eight lakh seventy-six thousand five hundred and forty-one'. So the time keeps growing. This is why counting gets slower and slower.
 3. (perspective) Three people argue about a very big number that nobody could ever write out.  
-   **Answer:** Any view with a reason. A strong answer might side with Malini because the rule works every time, while granting Ravi that some numbers can never be written, or Aristotle that nobody can hold infinity all at once.. *Why:* This is a real disagreement among mathematicians and philosophers. The child weighs three serious views, not a wrong one.
+   **Answer:** Any view with a reason. A strong answer might side with the maths teacher because the rule works every time, while granting the computer engineer that some numbers can never be written, or Aristotle that nobody can hold infinity all at once.. *Why:* This is a real disagreement among mathematicians and philosophers. The child weighs three serious views, not a wrong one.
 4. (write) Archimedes said the grains of sand that would fill the universe are fewer than a 1 followed by 63 zeros. Why was this an important thing to show?  
    **Answer:** People thought sand was infinite. Archimedes showed that even a huge amount of sand has a number. So 'too many to count' is not the same as 'infinite'.. *Why:* A strong answer says what people believed before, and what changed after Archimedes showed it.
 5. (mcq) A shop has 25 sacks of rice. Each sack holds about 10 lakh grains. About how many grains are in the shop?  
@@ -522,7 +524,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
    **Answer:** For example: box 1, a girl starts '1, 2, 3'. Box 2, she is tired at '1,23,451'. Box 3, she sees the numbers still going on past the edge of the picture.. *Why:* A strong cartoon shows that the counting gets slower and never ends.
 7. (fill) A number line has an ____ at its end, to show that the numbers go on.  
    **Answer:** ['arrow']. *Why:* The arrow means the numbers go on for ever. The page ends, but the numbers do not.
-8. (write) Your rice test gave a number for one tumbler. Explain how you could estimate the grains in a 25 kg sack without counting every grain.  
+8. (write) In the experiment 'How Many Grains of Rice in a Cup?', you found the number of grains in one tumbler. Explain how you could estimate the grains in a 25 kg sack without counting every grain.  
    **Answer:** Find how many tumblers fill the sack, or weigh one tumbler of rice and see how many tumblers make 25 kg. Then multiply the grains in one tumbler by that number.. *Why:* A strong answer uses the same idea as the experiment: count a small part, find how many parts make the whole, and multiply.
 9. (odd) Three of these ideas are about something finite. Which one is about something infinite?  
    Options: There is always a number after the one you just said / A crore is a very big number / Most people have about one lakh hairs on their head / A tumbler holds about 8,000 grains of rice  
@@ -534,7 +536,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
    **Answer:** True. *Why:* True. The Jain book called the Anuyogadvara Sutra sorts numbers this way. It shows that people in India thought carefully about infinity long ago.
 12. (match) Match each person to what they are known for.  
    **Answer:** Archimedes → showed the grains of sand have a number; John Wallis → first used the sign ∞ in 1655; Jeremy Harper → counted out loud to ten lakh in 89 days; Aristotle → said infinity is never finished. *Why:* Each of these people helped us think about very big numbers and infinity in a different way.
-13. (write) Your head is small, and your life is not endless. Yet you know the numbers never end. How is that possible?  
+13. (write) Nobody lives long enough to count all the numbers. Yet you know the numbers never end. How do you know?  
    **Answer:** Because of a rule I understand: any number plus one is bigger. I don't need to count them all. A rule can tell me about every number at once.. *Why:* There is no single right answer. A strong answer uses the plus-one rule and thinks about what it means to know something without seeing all of it.
 14. (sort) Sort these sentences into 'true' and 'not true'.  
    **Answer:** Infinity is the biggest number. → Not true; There is no biggest counting number. → True; A beach has infinitely many grains of sand. → Not true; Counting gets slower as numbers get longer. → True; You can reach infinity if you count fast enough. → Not true; A crore crore is a finite number. → True. *Why:* Infinity is not a number you can reach, a beach has a finite number of grains, and a crore crore is a huge but finite number. The numbers have no biggest one, and big numbers take longer to say.
@@ -544,10 +546,10 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 ## Videos
 - **Infinity is bigger than you think - Numberphile** (Numberphile, 8 min) id `elvOZm0d4H0`: For the parent and curious older children: a mathematician explains with pen and paper why infinity is not a number, and goes on to the idea that some infinities are bigger than others. *Check:* Preview it first. The second half (bigger infinities) is Class 5 material.
 - **Infinity isn't a number. It's something much weirder.** (Be Smart, 10 min) id `IqU9onfl5eA`: For the parent: a lively explainer of why infinity is an idea about never ending, not a number. *Check:* Preview it first and check its length.
-- **How Long Does it Take to Count to 1 Million?** (Math with Mr. J, 5 min) id `ljT8wNiCG7g`: For the child, after the counting test: a teacher works out how long counting to a million would take. *Check:* Preview it first and check its length.
+- **How Long Does it Take to Count to 1 Million?** (Math with Mr. J, 5 min) id `ljT8wNiCG7g`: For the child, after the experiment 'Does Counting Get Slower?': a teacher works out how long counting to a million would take. *Check:* Preview it first and check its length.
 
 ## Quiz
-1. (mcq) Nila, a girl in Class 3, says, 'There is no biggest number.' Why is she right?  
+1. (mcq) Why is there no biggest number?  
    Options: Any number plus one is a bigger number / Big numbers are too hard to say / Nobody has counted that far yet  
    **Answer:** Any number plus one is a bigger number. *Why:* Whatever number you choose, adding one gives a bigger one. So there can never be a biggest. 'Too hard to say' is about people, not about numbers.
 2. (mcq) What does infinity mean?  
@@ -556,10 +558,10 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 3. (mcq) Can anyone count to infinity?  
    Options: No, because there is always a next number / Yes, if they count very fast / Yes, if they count for a whole year  
    **Answer:** No, because there is always a next number. *Why:* Every number has a next number, so the counting never finishes. Counting fast or for a long time only gets you to a bigger number.
-4. (mcq) In the counting test, 20 small numbers and 20 big numbers were read aloud. Which list took longer?  
+4. (mcq) In the experiment 'Does Counting Get Slower?', 20 small numbers and 20 big numbers were read aloud. Which list took longer?  
    Options: The big numbers, because each one has more words / The small numbers / Both took exactly the same time  
    **Answer:** The big numbers, because each one has more words. *Why:* 'One lakh twenty-three thousand four hundred and fifty-one' takes much longer to say than 'one'. That is why counting gets slower as the numbers get bigger.
-5. (mcq) Selvi, a girl in Chennai, counts about 200 grains of rice in a teaspoon. A tumbler holds 40 teaspoons. What does this tell her?  
+5. (mcq) A teaspoon holds about 200 grains of rice. A tumbler holds 40 teaspoons. What does this tell you?  
    Options: The tumbler holds about 8,000 grains, a big but finite number / The tumbler holds infinitely many grains / The tumbler holds 240 grains  
    **Answer:** The tumbler holds about 8,000 grains, a big but finite number. *Why:* 200 times 40 is 8,000. That is a lot, but it is a number. Choosing 'infinitely many' mixes up very many with endless.
 6. (mcq) Which of these is infinite?  
@@ -571,15 +573,15 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 8. (mcq) The Yajurveda's old list of number names ends with parardha. Does that mean the numbers end there?  
    Options: No. The names stop, but you can always add one / Yes. Parardha is the last number / Yes. After parardha comes infinity  
    **Answer:** No. The names stop, but you can always add one. *Why:* The list of names ends, but the numbers do not. Parardha plus one is a bigger number, and so on for ever.
-9. (mcq) Long ago, some people said the grains of sand were infinite. What did Archimedes, a Greek thinker, show?  
-   Options: The sand has a number, even if it is huge / The sand really is infinite / Sand can't be counted at all  
-   **Answer:** The sand has a number, even if it is huge. *Why:* Archimedes showed that even sand filling the universe, as he pictured it, would be fewer than a 1 followed by 63 zeros. A huge number is still a number.
+9. (mcq) Some people say the grains of sand on all the beaches are infinite. What would you tell them?  
+   Options: The sand has a number, even if it is huge, because the beaches do not go on for ever / The sand really is infinite / Sand can't be counted at all  
+   **Answer:** The sand has a number, even if it is huge, because the beaches do not go on for ever. *Why:* A beach has an end, so its grains can be given a number, even a huge one. A huge number is still a number. Archimedes showed this long ago.
 10. (mcq) Which question about infinity does nobody know the answer to yet?  
    Options: Does space go on for ever? / Is there a biggest number? / Is a crore bigger than a lakh?  
    **Answer:** Does space go on for ever?. *Why:* Nobody knows yet whether space is infinite. But we do know there is no biggest number, and that a crore is a hundred lakh.
 
 ## Applications
-- Computer programmers must stop programs from looping for ever. Radia Perlman's Spanning Tree Protocol stops data from going round network loops without end.
+- Computer programmers must stop programs from going round in a loop for ever. Radia Perlman wrote a set of rules, called the Spanning Tree Protocol, that stops data from going round and round a computer network without end.
 - Mathematicians use the plus-one idea to prove facts about every number at once, without checking them one by one.
 - Scientists estimate huge numbers, such as the fish in a lake or the stars in a galaxy, by counting a small part and multiplying.
 - Astronomers measure whether space curves, to find out whether the universe could be infinite.
@@ -600,7 +602,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - Do you think there are infinitely many grains of salt in the jar? How could we find out?
 - How long do you think it would take to count to a lakh?
 - Is there anything at home that you think might go on for ever?
-- If the numbers never end, where do you think they go?
+- Is there a number so big that nothing can come after it? How do you know?
 
 ## Jokes
 - What did the number 1 say to the number 2? *Don't worry, there is always someone bigger.*
@@ -613,8 +615,8 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - Why did the crore feel small? *It met a crore crore.*
 
 ## Connected maths
-- In the counting test, Revathi, a girl in Class 3, read 20 small numbers in 10 seconds and 20 big numbers in 40 seconds. How many times as long did the big numbers take? **4 times as long.**. The big numbers took 40 seconds and the small ones took 10. 40 divided by 10 is 4. Check: 10 + 10 + 10 + 10 = 40. (queues `math.division.sharing-and-grouping.L3`)
-- Lakshmi, a girl in Class 3, found 200 grains in one teaspoon of rice. Her tumbler held 40 teaspoons. How many grains are in 5 tumblers? **40,000 grains.**. One tumbler is 200 times 40, which is 8,000 grains. Five tumblers is 8,000 times 5, which is 40,000. That is a lot of rice, but it is still a finite number. (queues `math.multiplication.equal-groups.L3`)
+- Reading 20 small numbers aloud took 10 seconds. Reading 20 big numbers aloud took 40 seconds. How many times as long did the big numbers take? **4 times as long.**. The big numbers took 40 seconds and the small ones took 10. 40 divided by 10 is 4. Check: 10 + 10 + 10 + 10 = 40. (queues `math.division.sharing-and-grouping.L3`)
+- One teaspoon of rice holds 200 grains. A tumbler holds 40 teaspoons. How many grains are in 5 tumblers? **40,000 grains.**. One tumbler is 200 times 40, which is 8,000 grains. Five tumblers is 8,000 times 5, which is 40,000. That is a lot of rice, but it is still a finite number. (queues `math.multiplication.equal-groups.L3`)
 - Jeremy Harper counted to 10,00,000 in 89 days. If he had kept going at the same speed, about how many days would it take him to count to one crore? **About 890 days, which is nearly two and a half years. In fact it would take longer, because the numbers get longer to say.**. One crore is 10 times ten lakh. 89 times 10 is 890 days. But each number above ten lakh has more words, so the real time would be more than 890 days. (queues `math.number-sense.infinity.L3`)
 - In the Make It Bigger game, the biggest number you can make with 3 cards is 999. The smallest number with 4 cards is 1,000. Which is bigger, and by how much? **1,000 is bigger, by 1.**. 1,000 minus 999 is 1. So the smallest 4-digit number is just one more than the biggest 3-digit number. One more digit always beats every number with fewer digits. (queues `math.number-sense.place-value.L3`)
 

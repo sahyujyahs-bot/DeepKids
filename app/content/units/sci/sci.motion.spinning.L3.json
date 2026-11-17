@@ -3,7 +3,7 @@
  "title": "Spinning tops and wheels: why a spinning top stays up",
  "level": 3,
  "summary": {
-  "text": "Stand a top on its point and let go, and it falls at once. Spin it, and it stands up on that same point. A spinning top keeps its axis, the line it turns around, pointing the same way. When gravity tries to tip it over, the lean slowly circles round instead. Friction at the tip slowly takes the spin away, so in the end every top wobbles and falls. Where the weight sits matters too. A top or wheel with its weight near the edge is harder to start turning, and it keeps turning longer. On a merry-go-round, the outside goes round a bigger circle than the middle, so it moves faster.",
+  "text": "Stand a top on its point and let go, and it falls at once. Spin it, and it stands up on that same point. A spinning top keeps its axis, the line it turns around, pointing the same way. When gravity tries to tip it over, the lean slowly circles round instead of falling. Friction at the tip slowly takes the spin away, so in the end every top wobbles and falls. Where the weight sits matters too. A top with its weight near the edge is harder to start turning, but it keeps turning longer. On a merry-go-round, every rider goes round once in the same time. The outside goes round a bigger circle than the middle, so the outside moves faster.",
   "art": "A wooden top spinning upright on a steel plate with a curved arrow round it and a dotted line through its middle for the axis. Beside it, the same top lying on its side, still. Behind, a small merry-go-round with a girl on the outside horse and a boy near the middle."
  },
  "intro": {
@@ -120,7 +120,7 @@
    "concept": "Why a spinning top stays up",
    "status": "defined",
    "definition": "A spinning top keeps its axis pointing the same way. When gravity tries to tip it, the lean slowly circles round instead of falling. This slow circling is called precession.",
-   "description": "Every bit of a spinning top is racing round in a circle. To tip the top over, gravity would have to change the direction all those bits are moving. A fast top resists that change. So when the top leans, it does not fall. Instead its handle slowly moves round in a circle. You can see this when a top leans: its head draws slow circles in the air. The faster the top spins, the better it stays up. A spinning cycle wheel held by its axle does the same thing. In 1888, the Russian mathematician Sofia Kovalevskaya worked out the maths of one hard kind of spinning top, and won a big prize for it.",
+   "description": "Every bit of a spinning top is racing round in a circle. To tip the top over, gravity would have to change the direction all those bits are moving. The faster the bits move, the harder that is to do. So when the top leans, it does not fall. Instead its handle slowly moves round in a circle. You can see this when a top leans: its head draws slow circles in the air. The faster the top spins, the better it stays up. A spinning cycle wheel held by its axle does the same thing. In 1888, the Russian mathematician Sofia Kovalevskaya worked out the maths of one hard kind of spinning top, and won a big prize for it.",
    "examples": [
     "A leaning bambaram circles slowly round instead of falling.",
     "A coin spun on its edge stands up while it spins, and falls when it stops.",
@@ -147,7 +147,7 @@
    "concept": "Weight near the edge keeps a spin going",
    "status": "defined",
    "definition": "The further a thing's weight is from its axis, the harder it is to start it turning, and the harder it is to stop it turning.",
-   "description": "When a disc spins, weight near the edge goes round a big circle on every turn. Weight near the middle goes round a tiny circle. So the weight near the edge is moving much faster, and it carries more motion. The rubbing at the tip takes longer to use all of that up. That is why a top with coins taped near its edge spins longer than the same top with the same coins taped near its middle. It is also why a ring rolls down a slope more slowly than a solid round thing. More of the ring's motion goes into spinning.",
+   "description": "When a disc spins, weight near the edge goes round a big circle on every turn. Weight near the middle goes round a tiny circle. In the same time, the weight near the edge travels much further, so it moves much faster. Weight that moves faster holds more spin. The rubbing at the tip needs longer to take all that spin away. That is why a top with coins taped near its edge spins longer than the same top with the same coins taped near its middle. It is also why a ring rolls down a slope more slowly than a solid round thing. A ring has its weight at the edge, so more of its movement goes into turning round, and less goes into rolling forward.",
    "examples": [
     "A potter's wheel has a heavy rim, so it keeps turning after the potter stops pushing.",
     "The big wheel on a sugarcane juice machine keeps the rollers turning smoothly.",
@@ -175,7 +175,7 @@
    "concept": "The outside of a merry-go-round goes fastest",
    "status": "defined",
    "definition": "Every part of a merry-go-round takes the same time to go round once. The outside goes round a bigger circle, so it moves faster.",
-   "description": "On a merry-go-round, a rider on an outside horse and a rider near the pole both go round once in the same time. But the outside rider travels round a much bigger circle. So the outside rider is moving faster. The middle pole only turns on the spot. Riders also feel thrown outwards. In fact their bodies are trying to keep going straight, and the seat keeps pulling them round in a circle. If a rider let go, they would fly off in a straight line, not straight outwards.",
+   "description": "On a merry-go-round, a rider on an outside horse and a rider near the pole both go round once in the same time. But the outside rider travels round a much bigger circle. So the outside rider is moving faster. The middle pole only turns on the spot. Riders feel as if something is throwing them outwards. What is really happening is that their bodies are trying to keep going in a straight line. The seat keeps pulling them round in a circle instead. If a rider let go, they would fly off in a straight line along the edge of the circle, not straight outwards.",
    "examples": [
     "On a giant wheel at a mela, the seats go round a big circle while the middle only turns.",
     "When children walk round in a ring holding a dupatta, the child at the end has to run."
@@ -262,7 +262,7 @@
    "claim": "A spinning gyroscope weighs less than a still one.",
    "who": "Eric Laithwaite, a British engineer, in a famous lecture in London in 1974",
    "for": "A heavy spinning gyroscope feels surprisingly easy to lift and swing round on the end of a rod.",
-   "against": "Careful weighing shows a spinning gyroscope weighs exactly the same as a still one. It feels easier only because of the way its spin makes it move.",
+   "against": "Careful weighing shows a spinning gyroscope weighs exactly the same as a still one. It feels easier because the spin makes it swing sideways instead of tipping down. Its weight has not changed.",
    "status": "rejected",
    "context": "This card is about a real engineer who thought spinning could do something it cannot."
   },
@@ -270,7 +270,7 @@
    "claim": "On a merry-go-round, a force throws you straight outwards.",
    "who": "How it feels to almost everyone",
    "for": "You feel pressed against the outside of your seat.",
-   "against": "If you let go, you would fly off in a straight line along the edge of the circle, not straight outwards. Your body is trying to keep going straight, and the seat pulls you round. Physicists say both descriptions can be used, if you are careful about who is watching.",
+   "against": "If you let go, you would fly off in a straight line along the edge of the circle, not straight outwards. Your body is trying to keep going straight, and the seat pulls you round. Someone riding feels an outward push. Someone watching from the ground sees the rider trying to go straight. Physicists say both ways of describing it are correct.",
    "status": "debated",
    "context": "This card is about what you feel on a merry-go-round, and what is really happening."
   }
@@ -342,7 +342,7 @@
    "That afternoon, Rohan asked Meenakshi to teach him the string. He wound it too loosely, and the bambaram flopped onto its side. He wound it again, tighter. On his ninth try, the bambaram landed on its point and hummed.",
    "He watched its head draw slow circles, and he did not say anything for a long time."
   ],
-  "epiphany": "For the parent: a still top falls because gravity tips it as soon as it leans. A spinning top keeps its axis pointing the same way, so when gravity tries to tip it, the lean slowly circles round instead. This circling is called precession. Friction at the tip slows the spin, the circles grow into a wobble, and the top falls. In the story, Rohan's top spins longer mainly because its weight is in a ring at the edge. Weight near the edge goes round a bigger circle, moves faster and carries more motion, so the floor takes longer to rub the spin away. The potter's wheel works the same way.",
+  "epiphany": "For the parent: a still top falls because gravity tips it as soon as it leans. A spinning top keeps its axis pointing the same way, so when gravity tries to tip it, the lean slowly circles round instead. This circling is called precession. Friction at the tip slows the spin, the circles grow into a wobble, and the top falls. In the story, Rohan's top spins longer mainly because its weight is in a ring at the edge. Weight near the edge goes round a bigger circle, moves faster and holds more spin, so the floor takes longer to rub the spin away. The potter's wheel works the same way.",
   "ask": [
    "Why did the bambaram fall over when Meenakshi stood it still on its point?",
    "What did the head of the spinning bambaram do when it leaned?",
@@ -433,7 +433,7 @@
        "b": "The one with the coins near the edge."
       },
       {
-       "f": "A roll of cello tape (a ring) and a battery (solid) roll down a slope together. Which usually wins?",
+       "f": "A roll of cello tape is a ring. A battery is solid all through. They roll down a slope together. Which usually wins?",
        "b": "The battery."
       },
       {
@@ -734,11 +734,11 @@
       "q": "Most families find that the top spins longer with the coins near the edge. Why?",
       "options": [
        "The edge coins were heavier",
-       "The edge coins went round a bigger circle, so they moved faster and carried more motion",
+       "The edge coins went round a bigger circle, so they moved faster and held more spin",
        "The tape held the edge coins tighter"
       ],
       "a": 1,
-      "why": "The coins were the same, so they weighed the same. At the edge, each coin travels round a big circle in every turn, so it moves fast and carries more motion. The rubbing at the tip takes longer to use it up. If your results are the other way round, check that the pencil is in the exact middle and spin again. If you picked 'heavier', look again: they were the same coins."
+      "why": "The coins were the same, so they weighed the same. At the edge, each coin travels round a big circle in every turn, so it moves fast and holds more spin. The rubbing at the tip needs longer to take all that spin away. If your results are the other way round, check that the pencil is in the exact middle and spin again. If you picked 'heavier', look again: they were the same coins."
      }
     },
     {
@@ -755,7 +755,7 @@
      "do": "Ask your child to say or write three short sentences: what I think, what I saw, and why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a top spins longer with its weight near the edge. What I saw: with the coins near the edge, it spun for 22, 25 and 19 seconds. Near the middle it spun for 11, 9 and 12 seconds. Why: the edge coins go round a bigger circle, so they move faster and carry more motion, and the rubbing at the tip takes longer to stop them."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a top spins longer with its weight near the edge. What I saw: with the coins near the edge, it spun for 22, 25 and 19 seconds. Near the middle it spun for 11, 9 and 12 seconds. Why: the edge coins go round a bigger circle, so they move faster and hold more spin. The rubbing at the tip then takes longer to stop them."
     }
    ],
    "context": "In this experiment you make a top from card and a pencil. You tape four coins near its edge, then near its middle, and time which spins longer.",
@@ -935,7 +935,8 @@
      "art": "A steel plate, a tiled floor, a sheet of newspaper and a folded towel in a row, with a coin on each.",
      "caption": "2. Spin it 3 times on each surface and time it."
     }
-   ]
+   ],
+   "problem": "A spinning coin slows down and then falls flat. In this experiment you spin a coin on four surfaces, to find out which surfaces rub the spin away fastest. The rubbing between two surfaces that touch is called friction."
   },
   {
    "id": "e3",
@@ -1003,7 +1004,7 @@
      "do": "1. Lift the ruler straight up, quickly. 2. Watch which reaches the bottom first. 3. Swap their sides and race again. 4. Race 5 times and write each winner.",
      "say": "Lift the ruler fast so both start together. Watch the bottom of the slope.",
      "kid": "Lift the ruler quickly. Which one gets to the bottom first? Race 5 times.",
-     "parent": "The solid battery usually wins, by a few centimetres on a short tray. If one rolls off sideways, start again. The tape roll has most of its weight far from its middle, like the edge coins in the coin top. More of its motion goes into spinning, so it rolls forward more slowly."
+     "parent": "The solid battery usually wins, by a few centimetres on a short tray. If one rolls off sideways, start again. The tape roll has most of its weight far from its middle, like the edge coins in the coin top. As each one goes down the slope, some of its movement goes into rolling forward and some into turning round. The tape roll needs more of it for turning round. So less is left for rolling forward, and it moves forward more slowly."
     },
     {
      "id": "s4",
@@ -1020,7 +1021,7 @@
        "Tape is sticky"
       ],
       "a": 1,
-      "why": "Weight far from the middle is harder to start turning. As the tape roll goes down the slope, more of its motion goes into spinning and less into rolling forward. Weight alone is not the reason: a heavy steel bangle loses to a light solid round thing too. 'Sticky' is a fair thing to check. But the sticky side is inside the roll, so it does not touch the tray."
+      "why": "Weight far from the middle is harder to start turning. As the tape roll goes down the slope, more of its movement goes into turning round and less into rolling forward. Weight alone is not the reason: a heavy steel bangle loses to a light solid round thing too. 'Sticky' is a fair thing to check. But the sticky side is inside the roll, so it does not touch the tray."
      }
     },
     {
@@ -1081,7 +1082,8 @@
      "art": "A tape roll and a battery rolling down a tilted tray, the battery slightly ahead.",
      "caption": "2. Lift the ruler and watch which reaches the bottom first."
     }
-   ]
+   ],
+   "problem": "A roll of cello tape is a ring, because its weight is all round the edge. A battery is solid all the way through. In this experiment you race them down a slope, to find out whether weight near the edge changes how a round thing rolls."
   }
  ],
  "activities": [
@@ -1307,7 +1309,8 @@
      "art": "The same scene from above, with a tiny circle round the grown-up and a big dotted circle round the girl's path.",
      "caption": "2. Go round once. Count everyone's steps."
     }
-   ]
+   ],
+   "problem": "On a merry-go-round, the horses on the outside and the seats near the pole all go round once in the same time. In this activity you and a grown-up pretend to be a merry-go-round, using a dupatta. You count your steps to find out who has to move faster."
   },
   {
    "id": "a4",
@@ -1540,8 +1543,7 @@
      "mins": 15,
      "do": "Put a rider in each cup. Check that the ride turns freely when you twirl the pencil.",
      "say": "Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?",
-     "kid": "Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?",
-     "wait": "Leave it until the next day."
+     "kid": "Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?"
     },
     {
      "id": "s3",
@@ -1549,7 +1551,7 @@
      "do": "1. Twirl the pencil slowly, then faster. 2. Watch the threads.",
      "say": "Twirl it slowly, then faster. What do the threads do?",
      "kid": "Twirl it slowly. Then faster. What do the threads do?",
-     "parent": "When the ride spins fast, the cups swing outwards and the threads lean. The faster it spins, the more they lean. The thread is pulling each cup inwards, keeping it going round in a circle."
+     "parent": "When the ride spins fast, the cups swing outwards and the threads lean. The faster it spins, the more they lean. Each cup would like to move in a straight line. The thread pulls it inwards all the time, so it goes round in a circle instead."
     },
     {
      "id": "s4",
@@ -1567,7 +1569,7 @@
        "The air blows them out"
       ],
       "a": 1,
-      "why": "Each cup is moving, and a moving thing keeps going straight unless a force changes it. The thread pulls it inwards and keeps it going round. To pull inwards, the thread has to lean out. It feels like an outward push to a rider, which is why 'pushed straight out' is a common answer."
+      "why": "Each cup is moving, and a moving thing keeps going straight unless a force changes it. The thread pulls the cup inwards all the time, so the cup goes round in a circle instead. To pull inwards, the thread has to slant, so the cups look as if they swing outwards. It feels like an outward push to a rider, which is why 'pushed straight out' is a common answer."
      }
     }
    ],
@@ -1581,7 +1583,8 @@
      "art": "The same ride spinning, the cups swung outwards and the threads leaning.",
      "caption": "2. Spin it and watch the seats swing out."
     }
-   ]
+   ],
+   "problem": "In a chair-swing ride at a mela, the seats swing outwards as the ride spins. In this project you build a small one and watch the seats. You find out why the seats swing out, and whether a heavy rider swings out more than a light one."
   }
  ],
  "challenges": [
@@ -1789,7 +1792,7 @@
     "No difference"
    ],
    "a": 0,
-   "why": "Edge coins go round a bigger circle each turn, so they move faster and carry more motion. The rubbing at the tip takes longer to use it up.",
+   "why": "Edge coins go round a bigger circle each turn, so they move faster and hold more spin. The rubbing at the tip needs longer to take all that spin away.",
    "outcome": 2,
    "how": "e1"
   },
@@ -2052,7 +2055,7 @@
      "t": "write",
      "p": "In the coin top test, the top spun longer with the coins near the edge. Explain why.",
      "lines": 3,
-     "a": "The coins near the edge go round a bigger circle on every turn, so they move faster and carry more motion. The rubbing at the tip takes longer to use it all up.",
+     "a": "The coins near the edge go round a bigger circle on every turn, so they move faster and hold more spin. The rubbing at the tip needs longer to take all that spin away.",
      "why": "A strong answer says the coins were the same, so the place made the difference, and that edge coins move faster.",
      "how": "e1"
     },
@@ -2106,19 +2109,19 @@
       "The tape sticks to the tray"
      ],
      "a": 1,
-     "why": "Weight near the edge is harder to start turning. More of the tape roll's motion goes into spinning, so it rolls forward more slowly. Weight alone is not the reason.",
+     "why": "Weight near the edge is harder to start turning. As the tape roll goes down the slope, more of its movement goes into turning round, and less goes into rolling forward. So it rolls forward more slowly. Weight alone is not the reason.",
      "how": "e3"
     },
     {
      "t": "mcq",
      "p": "A potter in Kumbakonam spins a heavy stone wheel and lets go. Why does it keep turning for a long time?",
      "opts": [
-      "Its heavy rim carries a lot of motion, so friction takes a long time to stop it",
+      "Its heavy rim holds a lot of spin, so friction takes a long time to stop it",
       "Clay makes it turn",
       "The potter's hand is still pushing it"
      ],
      "a": 0,
-     "why": "A potter's wheel has most of its weight near its rim. Weight far from the axis moves fast and carries a lot of motion, so it takes a long time for friction to stop it."
+     "why": "A potter's wheel has most of its weight near its rim. Weight far from the axis moves fast and holds a lot of spin. So it takes a long time for friction to stop it."
     },
     {
      "t": "mcq",
@@ -2141,7 +2144,7 @@
       "They get lighter when spinning"
      ],
      "a": 0,
-     "why": "A moving thing keeps going straight unless a force changes it. The chain pulls each seat inwards, round the circle. To do that, the chain leans outwards.",
+     "why": "A moving thing keeps going straight unless a force changes it. The chain pulls each seat inwards, so the seat goes round the circle instead of straight on. To pull inwards, the chain has to slant, and that makes the seat look as if it is swinging outwards.",
      "how": "p1"
     },
     {
@@ -2153,7 +2156,7 @@
       "Gravity stopped working"
      ],
      "a": 1,
-     "why": "As friction slows the spin, the top resists tipping less, so its lean circles wider. This is the wobble just before it falls."
+     "why": "As friction slows the spin, the top keeps its axis steady less and less well, so its lean circles wider. This is the wobble just before it falls."
     },
     {
      "t": "write",
@@ -2331,7 +2334,7 @@
      "t": "mcq",
      "p": "Why does a fast-spinning top stay up better than a slow one?",
      "opts": [
-      "A fast top resists the change that tipping would need, so the lean only circles",
+      "A fast top keeps its axis pointing the same way more strongly, so the lean only circles",
       "A fast top is lighter",
       "A fast top pushes air under itself"
      ],
@@ -2789,7 +2792,7 @@
  "roots": {
   "context": "We have learned why a spinning top stays up and why weight near the edge keeps it spinning. Now we ask what spinning tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the Coin Top experiment, the top spun longer with four coins at its edge than with the same coins at its middle. The coins at the edge went round a bigger circle on every turn, so they moved faster. Faster coins carry more motion, so the rubbing at the tip took longer to use it up. So a turning thing keeps going longest when its weight sits far from its middle.",
+   "truth": "In the Coin Top experiment, the top spun longer with four coins at its edge than with the same coins at its middle. The coins at the edge went round a bigger circle on every turn, so they moved faster. Coins that move faster hold more spin, so the rubbing at the tip needed longer to take it all away. So a turning thing keeps going longest when its weight sits far from its middle.",
    "habit": "We usually think of weight as one number: a thing is heavy or light. But in the Coin Top experiment, the same four coins made the top spin twice as long, or half as long, depending on where they were taped. How a thing moves depends on how its weight is spread, not only on how much there is.",
    "evidence": "In the coin top test, the edge top spun clearly longer than the middle top, with the same card, pencil and coins. In the rolling race, a tape roll with its weight at the edge lost to a solid battery."
   },

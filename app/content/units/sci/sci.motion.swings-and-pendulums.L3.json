@@ -109,7 +109,7 @@
    "status": "defined",
    "context": "When you let go of a pendulum, why does it not just stop at the bottom? This card explains.",
    "definition": "Gravity pulls the bob down towards the middle. When it reaches the middle it is moving fast, so it carries on up the other side until gravity slows it to a stop. Then it falls back, and the swing repeats.",
-   "description": "When you pull the bob to one side, you lift it a little. Let go, and gravity pulls it down and back towards the middle. It goes faster and faster on the way down. At the very bottom it is moving fastest. A moving thing keeps moving unless something slows it, so the bob does not stop in the middle. It swings up the other side. Now gravity slows it down, until it stops for a moment at the far end. Then it falls back the other way. Each swing, its speed turns into height, and its height turns back into speed.",
+   "description": "When you pull the bob to one side, you lift it a little. Let go, and gravity pulls it down and back towards the middle. It goes faster and faster on the way down. At the very bottom it is moving fastest. A moving thing keeps moving unless something slows it, so the bob does not stop in the middle. It swings up the other side. Now gravity slows it down, until it stops for a moment at the far end. Then it falls back the other way. On the way down, the bob loses height and gets faster. On the way up, it gains height and gets slower.",
    "examples": [
     "On a swing, you feel your tummy flip at the bottom, where you move fastest.",
     "A playground swing stops for a moment at the highest point on each side, before it comes back.",
@@ -123,7 +123,7 @@
    "status": "defined",
    "context": "This card explains what you found in the swing test: which change made the swings quicker or slower.",
    "definition": "The time for one full swing depends on the length of the pendulum. A shorter pendulum swings quicker. A longer one swings slower. For small swings, the weight of the bob and how wide it starts change the time very little.",
-   "description": "In the swing test, 5 coins and 1 coin both took about 14 seconds for 10 swings. A small start and a wide start took about 14 seconds too. But a thread one quarter as long took only about 7 seconds. Make a pendulum 4 times shorter, and it swings twice as fast. Weight does not matter for the same reason that a heavy and a light ball fall together. Gravity pulls a heavier bob harder, but a heavier bob also needs more force to get moving. The two cancel out. A wider start also takes nearly the same time, because the bob falls from higher and so moves faster over its longer path. Length is measured from the pivot to the middle of the bob, because that is where the weight is.",
+   "description": "In the swing test, 5 coins and 1 coin both took about 14 seconds for 10 swings. A small start and a wide start took about 14 seconds too. But a thread one quarter as long took only about 7 seconds. So making a pendulum 4 times shorter makes each swing take half the time. Why does weight not matter? Gravity pulls a heavier bob harder. But a heavier bob is also harder to get moving. These two effects are equal, so a heavy bob and a light bob swing in the same time. It is the same reason a heavy ball and a light ball fall together. A wider start takes nearly the same time too. The bob starts higher, so it moves faster, and it also has a longer path to cover. These two effects almost cancel as well. Length is measured from the pivot to the middle of the bob, because that is where the weight is.",
    "examples": [
     "A pendulum 25 cm long takes about 1 second for one full swing. One 1 metre long takes about 2 seconds.",
     "A small child and a grown-up on the same swing take about the same time for each swing.",
@@ -734,7 +734,7 @@
       {
        "q": "What did you find out?",
        "good": [
-        "What I think: only the length changes the swing time. What I saw: 1 coin and 5 coins both took about 14 seconds, but the short thread took 7. Why: the length sets the beat."
+        "What I think: only the length changes the swing time. What I saw: 1 coin and 5 coins both took about 14 seconds, but the short thread took 7. Why: the time for each swing depends on how long the pendulum is."
        ]
       }
      ],
@@ -925,7 +925,8 @@
      "art": "Three coin pendulums of different lengths, labelled 50 cm too slow, 12 cm too quick and 25 cm just right, with a phone stopwatch showing 10 seconds.",
      "caption": "2. Change the length until 10 swings take 10 seconds."
     }
-   ]
+   ],
+   "problem": "A clock needs a pendulum that takes the same time for every swing. In this experiment you find the thread length that makes each full swing take exactly 1 second."
   },
   {
    "id": "e3",
@@ -1071,7 +1072,8 @@
      "art": "The same pendulum with a postcard taped flat to the thread above the coins, and small lines showing air pushing on the card.",
      "caption": "3. Tape on a card and time it again."
     }
-   ]
+   ],
+   "problem": "A swing does not go on for ever. In this experiment you find out what slows a pendulum down, by taping a card to it so that it has to push through more air."
   }
  ],
  "activities": [
@@ -1227,7 +1229,8 @@
      "art": "The same hand moving a tiny bit to the side, and the bag swinging wide below it, with a growing curved arrow.",
      "caption": "2. Tiny movements in time make a big swing."
     }
-   ]
+   ],
+   "problem": "A small push at the right moment can make a swing go very high. In this activity you make a hanging bag swing high with tiny hand movements. You find out which movements work and which do not. This is called resonance."
   },
   {
    "id": "a3",
@@ -1315,7 +1318,8 @@
      "art": "The same setup with the left pendulum still and the right one swinging, and an arrow showing the swing passing across.",
      "caption": "2. Start one. Watch the swing pass to the other."
     }
-   ]
+   ],
+   "problem": "Every pendulum has its own beat, set by its length. In this activity you hang two pendulums of the same length from one string. You start one and watch what happens to the other. Then you change one length and try again."
   },
   {
    "id": "a4",
@@ -1583,7 +1587,8 @@
      "art": "The five bags swinging and spread out in a snake shape, with a piece of cardboard on the floor beside them.",
      "caption": "2. Day 2: let go of all five together and watch the wave."
     }
-   ]
+   ],
+   "problem": "Pendulums of different lengths have different beats, so the shorter ones swing quicker. In this project you hang five pendulums, each a little shorter than the last, and let go of all five together. You watch them drift apart into a wavy pattern, and then line up again."
   }
  ],
  "challenges": [
@@ -2146,7 +2151,7 @@
      "t": "odd",
      "p": "Three of these changes make very little difference to how long a pendulum takes to swing. Which one makes a big difference?",
      "a": 2,
-     "why": "The length sets the beat. The weight, a small start and a slightly wider start change it very little.",
+     "why": "The time for each swing depends mostly on the length. The weight, a small start and a slightly wider start change it very little.",
      "opts": [
       "Adding more coins",
       "Starting it a little wider",
@@ -2165,7 +2170,7 @@
     {
      "t": "write",
      "p": "In the One-Second Pendulum, many children first guess about 30 cm, halfway between 12 and a half cm and 50 cm. Why is the right length shorter than halfway?",
-     "a": "The time does not change in step with the length. A quarter of the length gives half the time, so to get from 7 seconds to 10 seconds you need less extra length than you might think. The answer is about 25 cm.",
+     "a": "The time does not go up in step with the length. Four times the length gives only twice the time. Halfway between 12 and a half cm and 50 cm is about 31 cm. But the right length is shorter than that, about 25 cm.",
      "why": "A strong answer uses the numbers from the experiments and says that length and time do not change by the same amount.",
      "lines": 4,
      "how": "e2"
@@ -2433,7 +2438,7 @@
      "t": "sort",
      "p": "Sort these into things that change a pendulum's beat a lot and things that change it very little.",
      "a": "see items",
-     "why": "The length and gravity set the beat. The weight, the material and the size of a small start change it very little.",
+     "why": "The length and the strength of gravity decide how long each swing takes. The weight, the material and the size of a small start change it very little.",
      "cats": [
       "Changes the beat a lot",
       "Changes it very little"
@@ -2523,7 +2528,7 @@
      "t": "write",
      "p": "In the Pendulum Wave, the lengths must be right to about half a centimetre. Why does a small mistake spoil the pattern?",
      "a": "A small error in length changes the beat a little. Over 15 seconds the swings drift apart, so the pendulums no longer line up at the end.",
-     "why": "A strong answer says that length sets the beat, and that a small difference adds up over many swings.",
+     "why": "A strong answer says that the length decides the time for each swing, and that a small difference adds up over many swings.",
      "lines": 4,
      "how": "p1"
     },

@@ -1,7 +1,7 @@
 # Spinning tops and wheels: why a spinning top stays up
 `sci.motion.spinning.L3`
 
-**Summary.** Stand a top on its point and let go, and it falls at once. Spin it, and it stands up on that same point. A spinning top keeps its axis, the line it turns around, pointing the same way. When gravity tries to tip it over, the lean slowly circles round instead. Friction at the tip slowly takes the spin away, so in the end every top wobbles and falls. Where the weight sits matters too. A top or wheel with its weight near the edge is harder to start turning, and it keeps turning longer. On a merry-go-round, the outside goes round a bigger circle than the middle, so it moves faster.
+**Summary.** Stand a top on its point and let go, and it falls at once. Spin it, and it stands up on that same point. A spinning top keeps its axis, the line it turns around, pointing the same way. When gravity tries to tip it over, the lean slowly circles round instead of falling. Friction at the tip slowly takes the spin away, so in the end every top wobbles and falls. Where the weight sits matters too. A top with its weight near the edge is harder to start turning, but it keeps turning longer. On a merry-go-round, every rider goes round once in the same time. The outside goes round a bigger circle than the middle, so the outside moves faster.
 
 **Intro.** *Try this. Stand a top, or a pencil stuck through a cardboard circle, on its point. Let go. It falls over at once. Now spin it hard and let go. It stands on the same tiny point for many seconds. Why does spinning keep it up?* Children in India have played with tops for hundreds of years. In Tamil a string top is a bambaram, and in Hindi it is a lattu. In this unit you make your own top, time how long it spins, and find out what makes it spin longer. You also find out why wheels are round, and why the outside of a merry-go-round moves fastest.
 
@@ -43,7 +43,7 @@ A top's point is very small. It can never stand exactly straight, so it always l
 ### Why a spinning top stays up · *defined*
 **Definition:** A spinning top keeps its axis pointing the same way. When gravity tries to tip it, the lean slowly circles round instead of falling. This slow circling is called precession.
 
-Every bit of a spinning top is racing round in a circle. To tip the top over, gravity would have to change the direction all those bits are moving. A fast top resists that change. So when the top leans, it does not fall. Instead its handle slowly moves round in a circle. You can see this when a top leans: its head draws slow circles in the air. The faster the top spins, the better it stays up. A spinning cycle wheel held by its axle does the same thing. In 1888, the Russian mathematician Sofia Kovalevskaya worked out the maths of one hard kind of spinning top, and won a big prize for it.
+Every bit of a spinning top is racing round in a circle. To tip the top over, gravity would have to change the direction all those bits are moving. The faster the bits move, the harder that is to do. So when the top leans, it does not fall. Instead its handle slowly moves round in a circle. You can see this when a top leans: its head draws slow circles in the air. The faster the top spins, the better it stays up. A spinning cycle wheel held by its axle does the same thing. In 1888, the Russian mathematician Sofia Kovalevskaya worked out the maths of one hard kind of spinning top, and won a big prize for it.
 - e.g. A leaning bambaram circles slowly round instead of falling.
 - e.g. A coin spun on its edge stands up while it spins, and falls when it stops.
 - e.g. A spinning gyroscope can balance on the tip of a finger.
@@ -56,7 +56,7 @@ A top's tip rubs on the floor. The air rubs on its sides too. Both are friction,
 ### Weight near the edge keeps a spin going · *defined*
 **Definition:** The further a thing's weight is from its axis, the harder it is to start it turning, and the harder it is to stop it turning.
 
-When a disc spins, weight near the edge goes round a big circle on every turn. Weight near the middle goes round a tiny circle. So the weight near the edge is moving much faster, and it carries more motion. The rubbing at the tip takes longer to use all of that up. That is why a top with coins taped near its edge spins longer than the same top with the same coins taped near its middle. It is also why a ring rolls down a slope more slowly than a solid round thing. More of the ring's motion goes into spinning.
+When a disc spins, weight near the edge goes round a big circle on every turn. Weight near the middle goes round a tiny circle. In the same time, the weight near the edge travels much further, so it moves much faster. Weight that moves faster holds more spin. The rubbing at the tip needs longer to take all that spin away. That is why a top with coins taped near its edge spins longer than the same top with the same coins taped near its middle. It is also why a ring rolls down a slope more slowly than a solid round thing. A ring has its weight at the edge, so more of its movement goes into turning round, and less goes into rolling forward.
 - e.g. A potter's wheel has a heavy rim, so it keeps turning after the potter stops pushing.
 - e.g. The big wheel on a sugarcane juice machine keeps the rollers turning smoothly.
 - e.g. Spinning toy tops with a heavy metal ring round the edge spin for a long time.
@@ -70,7 +70,7 @@ Roll a round lid along the floor, and its middle moves along in a straight, leve
 ### The outside of a merry-go-round goes fastest · *defined*
 **Definition:** Every part of a merry-go-round takes the same time to go round once. The outside goes round a bigger circle, so it moves faster.
 
-On a merry-go-round, a rider on an outside horse and a rider near the pole both go round once in the same time. But the outside rider travels round a much bigger circle. So the outside rider is moving faster. The middle pole only turns on the spot. Riders also feel thrown outwards. In fact their bodies are trying to keep going straight, and the seat keeps pulling them round in a circle. If a rider let go, they would fly off in a straight line, not straight outwards.
+On a merry-go-round, a rider on an outside horse and a rider near the pole both go round once in the same time. But the outside rider travels round a much bigger circle. So the outside rider is moving faster. The middle pole only turns on the spot. Riders feel as if something is throwing them outwards. What is really happening is that their bodies are trying to keep going in a straight line. The seat keeps pulling them round in a circle instead. If a rider let go, they would fly off in a straight line along the edge of the circle, not straight outwards.
 - e.g. On a giant wheel at a mela, the seats go round a big circle while the middle only turns.
 - e.g. When children walk round in a ring holding a dupatta, the child at the end has to run.
 ### Does a bicycle stay up because its wheels spin? · *debated*
@@ -104,15 +104,15 @@ Many people think a moving cycle stays up because its spinning wheels act like t
   Against: In 2011 engineers built a bicycle whose spinning effects cancelled out, and it still balanced itself when pushed. Steering into the lean matters more.
 - **A spinning gyroscope weighs less than a still one.** (Eric Laithwaite, a British engineer, in a famous lecture in London in 1974; *rejected*)  
   For: A heavy spinning gyroscope feels surprisingly easy to lift and swing round on the end of a rod.  
-  Against: Careful weighing shows a spinning gyroscope weighs exactly the same as a still one. It feels easier only because of the way its spin makes it move.
+  Against: Careful weighing shows a spinning gyroscope weighs exactly the same as a still one. It feels easier because the spin makes it swing sideways instead of tipping down. Its weight has not changed.
 - **On a merry-go-round, a force throws you straight outwards.** (How it feels to almost everyone; *debated*)  
   For: You feel pressed against the outside of your seat.  
-  Against: If you let go, you would fly off in a straight line along the edge of the circle, not straight outwards. Your body is trying to keep going straight, and the seat pulls you round. Physicists say both descriptions can be used, if you are careful about who is watching.
+  Against: If you let go, you would fly off in a straight line along the edge of the circle, not straight outwards. Your body is trying to keep going straight, and the seat pulls you round. Someone riding feels an outward push. Someone watching from the ground sees the rider trying to go straight. Physicists say both ways of describing it are correct.
 
 ## Roots
 We have learned why a spinning top stays up and why weight near the edge keeps it spinning. Now we ask what spinning tells us about ourselves and the world.
 
-**Deep truth.** In the Coin Top experiment, the top spun longer with four coins at its edge than with the same coins at its middle. The coins at the edge went round a bigger circle on every turn, so they moved faster. Faster coins carry more motion, so the rubbing at the tip took longer to use it up. So a turning thing keeps going longest when its weight sits far from its middle.  
+**Deep truth.** In the Coin Top experiment, the top spun longer with four coins at its edge than with the same coins at its middle. The coins at the edge went round a bigger circle on every turn, so they moved faster. Coins that move faster hold more spin, so the rubbing at the tip needed longer to take it all away. So a turning thing keeps going longest when its weight sits far from its middle.  
 *Habit it breaks:* We usually think of weight as one number: a thing is heavy or light. But in the Coin Top experiment, the same four coins made the top spin twice as long, or half as long, depending on where they were taped. How a thing moves depends on how its weight is spread, not only on how much there is.  
 *Evidence:* In the coin top test, the edge top spun clearly longer than the middle top, with the same card, pencil and coins. In the rolling race, a tape roll with its weight at the edge lost to a solid battery.
 
@@ -210,7 +210,7 @@ That afternoon, Rohan asked Meenakshi to teach him the string. He wound it too l
 
 He watched its head draw slow circles, and he did not say anything for a long time.
 
-**For the parent:** For the parent: a still top falls because gravity tips it as soon as it leans. A spinning top keeps its axis pointing the same way, so when gravity tries to tip it, the lean slowly circles round instead. This circling is called precession. Friction at the tip slows the spin, the circles grow into a wobble, and the top falls. In the story, Rohan's top spins longer mainly because its weight is in a ring at the edge. Weight near the edge goes round a bigger circle, moves faster and carries more motion, so the floor takes longer to rub the spin away. The potter's wheel works the same way.
+**For the parent:** For the parent: a still top falls because gravity tips it as soon as it leans. A spinning top keeps its axis pointing the same way, so when gravity tries to tip it, the lean slowly circles round instead. This circling is called precession. Friction at the tip slows the spin, the circles grow into a wobble, and the top falls. In the story, Rohan's top spins longer mainly because its weight is in a ring at the edge. Weight near the edge goes round a bigger circle, moves faster and holds more spin, so the floor takes longer to rub the spin away. The potter's wheel works the same way.
 
 - Ask: Why did the bambaram fall over when Meenakshi stood it still on its point?
 - Ask: What did the head of the spinning bambaram do when it leaned?
@@ -222,7 +222,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 ### g1 · Spin Round the Mela (20 min)
 - **rules:** Put every token on the mela gate, square 0. You need a dice, or six small papers numbered 1 to 6 to pick from.; On your turn, another player reads you the front of the top card. Playing alone? Read it yourself, then turn it over to check.; If you answer right, roll the dice, move that many squares, and do what your new square says. If you answer wrong, move 1 square.; On a TEST IT card, do the test. Then move 2 squares.; When the cards run out, shuffle them and use them again.; The first player to get all the way round to the gate, or past it, wins. Playing alone? Try to finish in fewer turns next time.
 - **Printable board: A round board with 20 squares in a circle, starting and ending at the mela gate:** Square 0: the mela gate, the start and the finish; Square 1: JUICE STALL. Have a sip. Roll again right away; Square 2: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1; Square 3: FRICTION SLIP. The floor is rough here. Move back 1 square, and do not do that square's action; Square 4: MERRY-GO-ROUND. Move on 2 squares, and do not do the action of the square you land on; Square 5: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1; Square 6: JUICE STALL. Have a sip. Roll again right away; Square 7: WOBBLE. Your top is slowing down. Miss a turn unless you can say why tops wobble; Square 8: FRICTION SLIP. The floor is rough here. Move back 1 square, and do not do that square's action; Square 9: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1; Square 10: GIANT WHEEL. Name one thing at a fair that turns round a middle pole or axle. Then move on 1; Square 11: JUICE STALL. Have a sip. Roll again right away; Square 12: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1; Square 13: FRICTION SLIP. The floor is rough here. Move back 1 square, and do not do that square's action; Square 14: MERRY-GO-ROUND. Move on 2 squares, and do not do the action of the square you land on; Square 15: JUICE STALL. Have a sip. Roll again right away; Square 16: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1; Square 17: WOBBLE. Your top is slowing down. Miss a turn unless you can say why tops wobble; Square 18: FRICTION SLIP. The floor is rough here. Move back 1 square, and do not do that square's action; Square 19: SPIN HUNT. Point to something in the room that spins or turns, and show its axis. Then move on 1
-- **Printable cards: 20 question cards to cut out:** In a cycle wheel, the axle goes through the middle. Is the middle part called the rim or the hub? (back: The hub. The rim is the outside edge.); What is the rod that a wheel turns on called? (back: An axle.); A top hums lower and begins to rattle. Is it speeding up or slowing down? (back: Slowing down. This is the wobble just before it falls.); A spinning top is leaning. What does the head of the top do? (back: It goes round in a slow circle.); What is the slow circling of a spinning top's lean called? (back: Precession.); Friction rubs a top's spin away. Besides the floor, what else rubs on a spinning top? (back: The air.); In the Spinning Coin experiment, why do you spin the coin three times on each surface, and not just once? (back: One spin can be a fluke. Three spins give a fairer answer.); Two card tops have the same four coins. On one the coins are near the edge, on the other near the middle. Which spins longer? (back: The one with the coins near the edge.); A roll of cello tape (a ring) and a battery (solid) roll down a slope together. Which usually wins? (back: The battery.); A square wheel with a pencil through its middle bumps along. What does the pencil do on every corner? (back: It goes up and down. On a round wheel it stays at the same height.); A merry-go-round turns once. Do a rider on the outside horse and a rider near the pole take the same time or different times to go round once? (back: The same time. The outside rider goes round a bigger circle, so moves faster.); A cycle wheel and a toy car wheel each turn once. Which goes further? (back: The big cycle wheel.); What do we call a heavy wheel that keeps a machine turning smoothly? (back: A flywheel.); What is a string top called in Tamil? (back: A bambaram.); Which state is the town of Channapatna in, famous for lacquered wooden toys and spinning tops? (back: Karnataka.); Name something in your kitchen that spins. (back: A mixie blade, a whisk, a bottle cap, a fan...); Does a bicycle stay up mainly because of its spinning wheels? (back: No. Steering into the lean matters more.); TEST IT: spin a coin on the table. Count the seconds. (back: The coin spins for some seconds, whirrs faster, then lies flat.); TEST IT: stand a pencil on its point and let go. What happens? (back: It falls over at once, because it is not spinning.); TEST IT: point to the axis of a door. (back: The line down its hinges.)
+- **Printable cards: 20 question cards to cut out:** In a cycle wheel, the axle goes through the middle. Is the middle part called the rim or the hub? (back: The hub. The rim is the outside edge.); What is the rod that a wheel turns on called? (back: An axle.); A top hums lower and begins to rattle. Is it speeding up or slowing down? (back: Slowing down. This is the wobble just before it falls.); A spinning top is leaning. What does the head of the top do? (back: It goes round in a slow circle.); What is the slow circling of a spinning top's lean called? (back: Precession.); Friction rubs a top's spin away. Besides the floor, what else rubs on a spinning top? (back: The air.); In the Spinning Coin experiment, why do you spin the coin three times on each surface, and not just once? (back: One spin can be a fluke. Three spins give a fairer answer.); Two card tops have the same four coins. On one the coins are near the edge, on the other near the middle. Which spins longer? (back: The one with the coins near the edge.); A roll of cello tape is a ring. A battery is solid all through. They roll down a slope together. Which usually wins? (back: The battery.); A square wheel with a pencil through its middle bumps along. What does the pencil do on every corner? (back: It goes up and down. On a round wheel it stays at the same height.); A merry-go-round turns once. Do a rider on the outside horse and a rider near the pole take the same time or different times to go round once? (back: The same time. The outside rider goes round a bigger circle, so moves faster.); A cycle wheel and a toy car wheel each turn once. Which goes further? (back: The big cycle wheel.); What do we call a heavy wheel that keeps a machine turning smoothly? (back: A flywheel.); What is a string top called in Tamil? (back: A bambaram.); Which state is the town of Channapatna in, famous for lacquered wooden toys and spinning tops? (back: Karnataka.); Name something in your kitchen that spins. (back: A mixie blade, a whisk, a bottle cap, a fan...); Does a bicycle stay up mainly because of its spinning wheels? (back: No. Steering into the lean matters more.); TEST IT: spin a coin on the table. Count the seconds. (back: The coin spins for some seconds, whirrs faster, then lies flat.); TEST IT: stand a pencil on its point and let go. What happens? (back: It falls over at once, because it is not spinning.); TEST IT: point to the axis of a door. (back: The line down its hinges.)
 - **Printable tokens: One paper token for each player (2 to 4 players):** 🎠; 🎡; 🪀; 🎪
 - **s1 (3 min)**  
   *Parent does:* Cut out the cards and tokens. Print the round board, or copy the squares onto a drawn circle.  
@@ -287,7 +287,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
   *Parent does:* 1. Peel the coins off. 2. Tape the same four coins flat around the pencil, touching it. 3. Spin 3 times, the same way, and write each time.  
   *Parent says:* Now the same coins go next to the pencil. Everything else stays the same.  
   *Child mode:* Move the coins next to the pencil. Spin it 3 times again. Write down the times.
-  - Check: Most families find that the top spins longer with the coins near the edge. Why? → **The edge coins went round a bigger circle, so they moved faster and carried more motion**
+  - Check: Most families find that the top spins longer with the coins near the edge. Why? → **The edge coins went round a bigger circle, so they moved faster and held more spin**
 - **s6 (4 min)**  
   *Parent does:* Look at the table together. Compare the longest spin of each top.  
   *Parent says:* Which top spun longer? How much longer? Was your guess right?  
@@ -297,8 +297,9 @@ He watched its head draw slow circles, and he did not say anything for a long ti
   *Parent does:* Ask your child to say or write three short sentences: what I think, what I saw, and why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a top spins longer with its weight near the edge. What I saw: with the coins near the edge, it spun for 22, 25 and 19 seconds. Near the middle it spun for 11, 9 and 12 seconds. Why: the edge coins go round a bigger circle, so they move faster and carry more motion, and the rubbing at the tip takes longer to stop them.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a top spins longer with its weight near the edge. What I saw: with the coins near the edge, it spun for 22, 25 and 19 seconds. Near the middle it spun for 11, 9 and 12 seconds. Why: the edge coins go round a bigger circle, so they move faster and hold more spin. The rubbing at the tip then takes longer to stop them.
 ### e2 · The Spinning Coin: which floor lets it spin longest? (25 min)
+- **problem:** A spinning coin slows down and then falls flat. In this experiment you spin a coin on four surfaces, to find out which surfaces rub the spin away fastest. The rubbing between two surfaces that touch is called friction.
 - **question:** Does a spinning coin spin longer on some surfaces than on others?
 - **predict:** Guess first. You will spin a coin on a steel plate, a tiled floor, a sheet of newspaper and a towel. Put them in order, from longest spin to shortest. Why do you think so?
 - **fair test:** Use the same coin and spin it the same way each time. Only the surface changes. Spin 3 times on each surface, because one spin can be a fluke.
@@ -330,6 +331,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
   *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer: the coin spins longest on a smooth hard surface. On steel it spun up to 9 seconds, and on the towel 0 seconds. A rough or soft surface rubs more, so friction stops the spin sooner.
 ### e3 · The Rolling Race: ring or solid? (25 min)
+- **problem:** A roll of cello tape is a ring, because its weight is all round the edge. A battery is solid all the way through. In this experiment you race them down a slope, to find out whether weight near the edge changes how a round thing rolls.
 - **question:** If a ring and a solid round thing roll down the same slope together, which reaches the bottom first?
 - **predict:** Guess first. You will race a roll of cello tape against a battery down a tray. Which will win, or will it be a tie? Why do you think so?
 - **fair test:** Use the same slope. Hold both at the same starting line and let go at the same moment. Race them 5 times, and swap sides each time, in case one side of the tray is smoother.
@@ -349,7 +351,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
   *Parent does:* 1. Lift the ruler straight up, quickly. 2. Watch which reaches the bottom first. 3. Swap their sides and race again. 4. Race 5 times and write each winner.  
   *Parent says:* Lift the ruler fast so both start together. Watch the bottom of the slope.  
   *Child mode:* Lift the ruler quickly. Which one gets to the bottom first? Race 5 times.
-  - Note: The solid battery usually wins, by a few centimetres on a short tray. If one rolls off sideways, start again. The tape roll has most of its weight far from its middle, like the edge coins in the coin top. More of its motion goes into spinning, so it rolls forward more slowly.
+  - Note: The solid battery usually wins, by a few centimetres on a short tray. If one rolls off sideways, start again. The tape roll has most of its weight far from its middle, like the edge coins in the coin top. As each one goes down the slope, some of its movement goes into rolling forward and some into turning round. The tape roll needs more of it for turning round. So less is left for rolling forward, and it moves forward more slowly.
 - **s4 (4 min)**  
   *Parent does:* Talk about the result.  
   *Parent says:* Which won most of the races? The tape roll has its weight near its edge, like the top with coins near its edge in the Coin Top experiment. What does weight near the edge do?  
@@ -399,6 +401,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
   *Child mode:* What did the lean do when the top was spinning?
   - Check: What does a leaning spinning top do? → **Its lean slowly circles round, so its head draws a circle**
 ### a3 · The Dupatta Merry-go-round (15 min)
+- **problem:** On a merry-go-round, the horses on the outside and the seats near the pole all go round once in the same time. In this activity you and a grown-up pretend to be a merry-go-round, using a dupatta. You count your steps to find out who has to move faster.
 - **safety:** Walk slowly. Move chairs and tables out of the way. Stop if anyone feels dizzy.
 - **record:** Write how many steps each person took in one turn. Draw the two circles.
 - **s1 (3 min) · grown-up needed**  
@@ -460,6 +463,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 
 ## Projects
 ### p1 · Build a Chair-swing Ride (50 min, 2 days)
+- **problem:** In a chair-swing ride at a mela, the seats swing outwards as the ride spins. In this project you build a small one and watch the seats. You find out why the seats swing out, and whether a heavy rider swings out more than a light one.
 - **safety:** A grown-up pokes the holes in the plate and the cups.
 - **record:** Draw the ride still and spinning, showing how the threads hang each time.
 - **schedule:** day 1: Build the ride: a bottle base, a pencil pole and a plate roof with 4 hanging seats. (30 min); day 2: Spin the ride slowly, then faster. Watch the seats. Test riders of different weights. (20 min)
@@ -472,12 +476,11 @@ He watched its head draw slow circles, and he did not say anything for a long ti
   *Parent does:* Put a rider in each cup. Check that the ride turns freely when you twirl the pencil.  
   *Parent says:* Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?  
   *Child mode:* Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?
-  - Wait: Leave it until the next day.
 - **s3 (10 min)**  
   *Parent does:* 1. Twirl the pencil slowly, then faster. 2. Watch the threads.  
   *Parent says:* Twirl it slowly, then faster. What do the threads do?  
   *Child mode:* Twirl it slowly. Then faster. What do the threads do?
-  - Note: When the ride spins fast, the cups swing outwards and the threads lean. The faster it spins, the more they lean. The thread is pulling each cup inwards, keeping it going round in a circle.
+  - Note: When the ride spins fast, the cups swing outwards and the threads lean. The faster it spins, the more they lean. Each cup would like to move in a straight line. The thread pulls it inwards all the time, so it goes round in a circle instead.
 - **s4 (10 min)**  
   *Parent does:* 1. Put a heavy rider in one cup and a light one in another. 2. Spin again. Do the heavy and light cups lean out the same amount?  
   *Parent says:* Will the heavy rider swing out more than the light one? Why do you think so? Let's see.  
@@ -556,7 +559,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 11. (order) Put the steps of the coin top test in order.  
    **Answer:** ['Push a pencil through the middle of a card circle', 'Tape four coins near the edge', 'Spin it 3 times and time it', 'Move the same coins near the pencil and spin 3 more times']. *Why:* First make the top, then add the coins, test it, and then change only where the coins sit and test again.
 12. (write) In the coin top test, the top spun longer with the coins near the edge. Explain why.  
-   **Answer:** The coins near the edge go round a bigger circle on every turn, so they move faster and carry more motion. The rubbing at the tip takes longer to use it all up.. *Why:* A strong answer says the coins were the same, so the place made the difference, and that edge coins move faster.
+   **Answer:** The coins near the edge go round a bigger circle on every turn, so they move faster and hold more spin. The rubbing at the tip needs longer to take all that spin away.. *Why:* A strong answer says the coins were the same, so the place made the difference, and that edge coins move faster.
 13. (write) Why does a spinning top stay up, when a still top falls?  
    **Answer:** A spinning top keeps its axis pointing the same way. When gravity tries to tip it, the lean only circles slowly round instead of falling. A still top has no spin, so gravity just tips it over.. *Why:* A strong answer mentions the lean circling round, and that a still top falls because of gravity.
 14. (draw) Draw a spinning top from the side. Draw a dotted line for its axis, and a dotted circle to show the path of its head when it leans.  
@@ -566,19 +569,19 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 ### Wheels and Rides (stretch) (stretch, 15 questions)
 1. (mcq) A roll of cello tape and a battery race down a tray. The battery wins every time. Why?  
    Options: The battery is heavier / The tape roll's weight is near its edge, so it is harder to get spinning / The tape sticks to the tray  
-   **Answer:** The tape roll's weight is near its edge, so it is harder to get spinning. *Why:* Weight near the edge is harder to start turning. More of the tape roll's motion goes into spinning, so it rolls forward more slowly. Weight alone is not the reason.
+   **Answer:** The tape roll's weight is near its edge, so it is harder to get spinning. *Why:* Weight near the edge is harder to start turning. As the tape roll goes down the slope, more of its movement goes into turning round, and less goes into rolling forward. So it rolls forward more slowly. Weight alone is not the reason.
 2. (mcq) A potter in Kumbakonam spins a heavy stone wheel and lets go. Why does it keep turning for a long time?  
-   Options: Its heavy rim carries a lot of motion, so friction takes a long time to stop it / Clay makes it turn / The potter's hand is still pushing it  
-   **Answer:** Its heavy rim carries a lot of motion, so friction takes a long time to stop it. *Why:* A potter's wheel has most of its weight near its rim. Weight far from the axis moves fast and carries a lot of motion, so it takes a long time for friction to stop it.
+   Options: Its heavy rim holds a lot of spin, so friction takes a long time to stop it / Clay makes it turn / The potter's hand is still pushing it  
+   **Answer:** Its heavy rim holds a lot of spin, so friction takes a long time to stop it. *Why:* A potter's wheel has most of its weight near its rim. Weight far from the axis moves fast and holds a lot of spin. So it takes a long time for friction to stop it.
 3. (mcq) A plate 25 cm across rolls about 78 cm in one turn. About how far would a plate 50 cm across roll in one turn?  
    Options: About 39 cm / About 78 cm / About 156 cm  
    **Answer:** About 156 cm. *Why:* A wheel twice as wide has an edge twice as long, so it rolls twice as far in one turn. 78 + 78 = 156.
 4. (mcq) Why do the seats of a chair-swing ride swing outwards when it spins?  
    Options: Each seat tries to keep going straight, and its chain pulls it round / The wind pushes them / They get lighter when spinning  
-   **Answer:** Each seat tries to keep going straight, and its chain pulls it round. *Why:* A moving thing keeps going straight unless a force changes it. The chain pulls each seat inwards, round the circle. To do that, the chain leans outwards.
+   **Answer:** Each seat tries to keep going straight, and its chain pulls it round. *Why:* A moving thing keeps going straight unless a force changes it. The chain pulls each seat inwards, so the seat goes round the circle instead of straight on. To pull inwards, the chain has to slant, and that makes the seat look as if it is swinging outwards.
 5. (mcq) A spinning coin top leans more and more, in wider and wider circles, and then falls. What was happening?  
    Options: It was spinning faster and faster / Friction was slowing its spin, so it could not keep its axis steady / Gravity stopped working  
-   **Answer:** Friction was slowing its spin, so it could not keep its axis steady. *Why:* As friction slows the spin, the top resists tipping less, so its lean circles wider. This is the wobble just before it falls.
+   **Answer:** Friction was slowing its spin, so it could not keep its axis steady. *Why:* As friction slows the spin, the top keeps its axis steady less and less well, so its lean circles wider. This is the wobble just before it falls.
 6. (write) A roadside sugarcane juice machine has a big heavy wheel on its side. Why might the makers put most of the weight near the wheel's rim?  
    **Answer:** Weight near the rim keeps the wheel turning for longer and more smoothly, so the rollers keep crushing the cane between pushes.. *Why:* A strong answer links rim weight to keeping the turn going, as in the coin top test.
 7. (write) A coin top with the coins near the edge wobbled a lot and fell after 3 seconds. What might have gone wrong? Give two ideas.  
@@ -620,8 +623,8 @@ He watched its head draw slow circles, and he did not say anything for a long ti
    Options: The bolt near the middle / The seat on the edge / They move at the same speed  
    **Answer:** The seat on the edge. *Why:* Both go round once in 2 minutes, but the seat goes round a much bigger circle. So it moves faster.
 9. (mcq) Why does a fast-spinning top stay up better than a slow one?  
-   Options: A fast top resists the change that tipping would need, so the lean only circles / A fast top is lighter / A fast top pushes air under itself  
-   **Answer:** A fast top resists the change that tipping would need, so the lean only circles. *Why:* The faster a top spins, the more it keeps its axis pointing the same way. A slow top cannot resist gravity as well, so it wobbles and falls. Spinning does not change a top's weight.
+   Options: A fast top keeps its axis pointing the same way more strongly, so the lean only circles / A fast top is lighter / A fast top pushes air under itself  
+   **Answer:** A fast top keeps its axis pointing the same way more strongly, so the lean only circles. *Why:* The faster a top spins, the more it keeps its axis pointing the same way. A slow top cannot resist gravity as well, so it wobbles and falls. Spinning does not change a top's weight.
 10. (mcq) You hold a spinning cycle wheel by both ends of its axle and try to tilt it. What will you feel?  
    Options: Nothing different from a still wheel / The wheel resists, and twists sideways in your hands / The wheel gets heavier  
    **Answer:** The wheel resists, and twists sideways in your hands. *Why:* A spinning wheel keeps its axis pointing the same way. When you tilt it, it pushes back and twists sideways, just as a top's lean circles round. Its weight stays the same.
@@ -653,7 +656,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
    **Answer:** Circles slowly round. *Why:* The lean of a spinning top circles slowly round. This is called precession.
 4. (mcq) You tape four coins near the edge of a card top and spin it. Then you tape the same coins near its middle and spin it again. Which way does the top usually spin longer?  
    Options: With the coins near the edge / With the coins near the middle / No difference  
-   **Answer:** With the coins near the edge. *Why:* Edge coins go round a bigger circle each turn, so they move faster and carry more motion. The rubbing at the tip takes longer to use it up.
+   **Answer:** With the coins near the edge. *Why:* Edge coins go round a bigger circle each turn, so they move faster and hold more spin. The rubbing at the tip needs longer to take all that spin away.
 5. (mcq) Why does a top spin longer on a steel plate than on a carpet?  
    Options: Steel is shiny / There is less friction at the tip on smooth steel / Carpets are warmer  
    **Answer:** There is less friction at the tip on smooth steel. *Why:* Smooth, hard steel rubs less than soft carpet, so less spin is taken away each second.

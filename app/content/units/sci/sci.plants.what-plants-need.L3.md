@@ -12,7 +12,7 @@
 3. I can show my results in a bar chart and write a conclusion: what I think, what I saw, and why.
 4. I can read a plant's clues, like tall and pale, wilting, or yellow with soggy soil, and say which need is missing.
 5. I can explain that more is not always better. Too much water, too much heat or too much cold harms a plant, and each kind of plant has their own 'just right'.
-6. I can give big examples. Plants sense light and warmth with special molecules. People grow plants in space. Scientists still have open questions about how plants sense warmth.
+6. I can explain three bigger ideas. Plants sense light and warmth with special molecules. People grow plants in space. Scientists still have open questions about how plants sense warmth.
 
 ## Terms
 - **Need**: Something a living thing must have to stay alive and healthy. *e.g.* You need food, water and air. A plant needs light, water, air, warmth and minerals.
@@ -51,7 +51,7 @@ Think of everything you need to live: food, water, air and a place that is not t
 ### A fair test changes only one thing · *defined*
 **Definition:** A fair test changes only one thing, called the variable, and keeps everything else the same. Then any difference in the results was caused by that one thing.
 
-Imagine you put one cup of seedlings in a sunny window and another in a dark cupboard. But you also forget to water the cupboard cup. A week later the cupboard seedlings are dead. Was it the dark, or the thirst? You cannot tell, because two things changed. In a fair test you choose one thing to change. You keep everything else the same: the same kind of seeds, the same soil, the same cups and the same water. You measure the same way each time, and test more than one plant, because one plant can be a fluke.
+Say you put one cup of seedlings in a sunny window and another in a dark cupboard. But you also forget to water the cupboard cup. A week later the cupboard seedlings are dead. Was it the dark, or the thirst? You cannot tell, because two things changed. In a fair test you choose one thing to change. You keep everything else the same: the same kind of seeds, the same soil, the same cups and the same water. You measure the same way each time, and test more than one plant, because one plant can be a fluke.
 - e.g. Light test: same seeds, same soil, same water. Only the light is different.
 - e.g. Water test: same seeds, same soil, same window. Only the amount of water is different.
 - e.g. Warmth test: same sprouts, same wet cotton, same dark boxes. Only the temperature is different.
@@ -65,7 +65,7 @@ A seed carries a small store of food. A seedling in the light uses that store to
 ### Water: just right, not as much as possible · *defined*
 **Definition:** A plant needs enough water to keep their cells full and firm, but not so much that their roots cannot get air. Too little water makes them wilt. Too much water makes their roots rot.
 
-A plant is mostly water. Their tiny cells are full of water, like balloons full of air. The full cells push against each other, and that holds the leaves and soft stems up. With too little water, the cells go soft, like a balloon going flat, and the plant wilts. Water also carries minerals from the soil and is used to make food. But roots need air too. Root cells use oxygen from the air, just as your cells do. Soil has tiny air spaces between its grains. If the soil is always soaked, water fills every space. Then the roots cannot breathe, start to rot and turn brown, and the plant goes yellow. How water travels up a plant is in the unit How water moves up a plant.
+A plant is mostly water. Their tiny cells are full of water, like balloons full of air. The full cells push against each other, and that holds the leaves and soft stems up. With too little water, the cells go soft, like a balloon going flat, and the plant wilts. Water also carries minerals from the soil and is used to make food. But roots need air too. Root cells use oxygen from the air, just as your cells do. Soil has tiny air spaces between its grains. If the soil is always soaked, water fills every space. Then the roots cannot breathe, start to rot and turn brown, and the plant goes yellow. The unit How water moves up a plant explains how water travels up a plant.
 - e.g. A tulsi left without water on a hot day wilts. After a good drink they stand up again within hours.
 - e.g. A pot standing in a dish of water for a week often has yellow leaves and soft, smelly roots.
 - e.g. Pots have a hole in the bottom so extra water can run out.
@@ -79,13 +79,13 @@ Inside every living cell, tiny helpers called enzymes do the work of growing. Th
 ### Each kind of plant has their own just right · *defined*
 **Definition:** Every kind of plant needs light, water and warmth, but each needs different amounts. These depend on the place their wild ancestors came from.
 
-A cactus and a fern need very different amounts of water. A cactus lives in dry, sunny places and stores water in their fat stem. Water them every day and they rot. A fern lives in damp, shady places. Put them in full summer sun and their leaves burn. Indian farmers know this well. Wheat is sown at the start of the cool winter, and rice at the start of the hot, wet monsoon. Each crop is planted when the weather is just right for it.
+A cactus and a fern need very different amounts of water. A cactus lives in dry, sunny places and stores water in their fat stem. Water them every day and they rot. A fern lives in damp, shady places. Put them in full summer sun and their leaves burn. Indian farmers know this well. Wheat is sown at the start of the cool winter, and rice at the start of the hot, wet monsoon. Each crop is planted when the weather is just right for that crop.
 - e.g. Aloe vera and cactus need only a little water. Money plant and ferns like more water and some shade.
 - e.g. Wheat grows in the cool winter in Punjab. Rice grows in the hot, wet monsoon.
 - e.g. Apples grow in cool hills like Himachal Pradesh. Coconuts grow on hot coasts like Kerala.
 - e.g. Tea bushes grow on cool, misty hills in Assam and Darjeeling. In hot, dry plains they would struggle.
 ### The shortest plank: the need in shortest supply · *debated*
-Imagine a wooden bucket made of planks, with one plank much shorter than the rest. Pour water in. It can only fill up to the top of the shortest plank. In the 1800s, two German scientists said plants are like this. A plant can only grow as well as their scarcest need allows. Give a plant more water when what they really lack is light, and they will not grow any better. Scientists still argue about how true this simple picture is.
+Think of a wooden bucket made of planks, with one plank much shorter than the rest. Pour water in. The bucket can only fill up to the top of the shortest plank. In the 1800s, two German scientists said plants are like this. A plant can only grow as well as their scarcest need allows. Give a plant more water when what they really lack is light, and they will not grow any better. Scientists still argue about how true this simple picture is.
 - e.g. A plant in a dark corner will not grow better with extra fertiliser. Light is their shortest plank.
 - e.g. A farmer's field may have plenty of rain but very little nitrogen in the soil. Adding nitrogen helps more than adding water.
 - **Carl Sprengel, a German scientist, in 1828, and Justus von Liebig, another German scientist, around 1840:** A plant's growth is limited by whichever need is in shortest supply. Sprengel wrote this first. Liebig made it famous, and for a long time it was called Liebig's law of the minimum.
@@ -110,7 +110,7 @@ A plant has no eyes and no skin like ours. But they have special molecules calle
 - **Two teams of plant scientists in 2016. One was led by Philip Wigge in Cambridge, England. One was led by Jorge Casal in Buenos Aires, Argentina.:** They found that phytochrome B, a light-sensing molecule, also changes faster when it is warm. So it helps the plant feel temperature.
 - **Other scientists since then:** They have found more molecules in plants that change when it gets warm. Plants seem to use several sensors together. Which ones matter most, in which plants, is still open.
 ### Do plants need soil? · *defined*
-**Definition:** Plants do not need the soil. They need what soil gives them: support, water, air for the roots and minerals. Growing plants in mineral water without soil is called hydroponics.
+**Definition:** Plants do not need soil itself. They need what soil gives them: support, water, air for the roots and minerals. Growing plants in mineral water without soil is called hydroponics.
 
 Most plants grow in soil, so it is easy to think they need it. But think about what soil gives a plant. It holds the roots, so the plant does not fall over. It holds water, with air between its grains. And it has small amounts of minerals. If you give a plant those things another way, they do not need soil at all. In the 1860s, two German scientists, Julius Sachs and Wilhelm Knop, grew plants with their roots in water mixed with minerals. In the 1930s, an American scientist, William Gericke, grew huge tomato plants this way and called it hydroponics. Many city farms in India now grow lettuce and herbs like this.
 - e.g. A money plant cutting grows roots and leaves in a jar of water on a windowsill.
@@ -135,13 +135,13 @@ Many people say their plants grow better when they talk or sing to them. Some bo
 - e.g. A plant that is talked to every day probably also gets watered and checked every day.
 - **Some gardeners and a few popular books, such as The Sound of Music and Plants by Dorothy Retallack, in 1973:** Plants grow better with gentle music and worse with loud rock music.
 - **Most plant scientists:** Those tests were small and not fair enough. Other things changed too. Careful tests have not shown that music makes plants grow better.
-- **Heidi Appel and Rex Cocroft, two scientists in the USA, in 2014:** Plants do respond to some vibrations. They shook the leaves of thale cress, a small weed that scientists often study, with a recording of the vibrations caterpillars make when they chew. Later, when real caterpillars fed on these plants, the plants made more of their bitter defence chemicals. So plants can sense some sounds, but this is not the same as liking music.
+- **Heidi Appel and Rex Cocroft, two scientists in the USA, in 2014:** Plants do respond to some vibrations. The two scientists shook the leaves of thale cress, a small weed that scientists often study, with a recording of the vibrations caterpillars make when they chew. Later, when real caterpillars fed on these plants, the plants made more of their bitter defence chemicals. So plants can sense some sounds, but this is not the same as liking music.
 
 ## Mostly agreed
 - Plants need light, water, air, suitable warmth and minerals to grow well. *How we know:* Farmers and gardeners have seen this for thousands of years. Scientists have tested each need with fair tests, taking it away and keeping everything else the same.
-- Seedlings grown in the dark grow tall, thin and pale, and die when their stored food runs out. *How we know:* Anyone can repeat the light test with moong in a week. The pale colour is because plants make chlorophyll only in light.
+- Seedlings grown in the dark grow tall, thin and pale, and die when their stored food runs out. *How we know:* Anyone can repeat the light test with moong in a week. The seedlings are pale because plants make chlorophyll only in light.
 - Roots need air. Waterlogged soil harms most plants. *How we know:* Roots kept in soaked soil turn brown and rot. Some plants do live in water, like rice, lotus and the mangroves of the Sundarbans. They have special air channels or breathing roots that carry air down.
-- Plants grow faster when warm and slower when cold, and each kind of plant has their own best range of temperature. *How we know:* Growth has been measured at different temperatures in many experiments. Farmers sow each crop in the season that suits it.
+- Plants grow faster when warm and slower when cold, and each kind of plant has their own best range of temperature. *How we know:* Growth has been measured at different temperatures in many experiments. Farmers sow each crop in the season that suits that crop.
 - We can only trust a test of what plants need if it changes one thing and uses more than one plant. *How we know:* When scientists repeat careful fair tests in different places, they get the same answers. Unfair tests give answers that do not repeat.
 
 ## How we found out
@@ -179,26 +179,26 @@ We have been finding out what a plant needs, with fair tests of light, water and
 - *what is life:* A living thing keeps sensing the world and changing to fit it. Too little or too much of a need changes how they grow.
 - *what is this world:* The light that shapes a seedling on your windowsill left the Sun about eight minutes earlier. So a star 150 million kilometres away helps shape a plant in your home.
 
-A moong seed holds the start of a plant: a tiny root, a tiny shoot and a store of food. But the plant they become depends on what they meet. Light, water, warmth and air all change their shape as they grow. A living thing and their world keep making each other. A seedling senses their place from their first day, and grows to fit it.
+A moong seed holds the start of a plant: a tiny root, a tiny shoot and a store of food. But the plant they become depends on what they meet. Light, water, warmth and air all change their shape as they grow. A living thing and the world around them keep shaping each other. A seedling senses their place from their first day, and grows to fit it.
 
 - **Taittiriya Upanishad 2.1:** From the Self came space. From space came air. From air came fire, and from fire came water. From water came earth, from earth came plants, and from plants came food. (The Upanishad puts plants after air, fire, water and earth, as if they are made from all of them. Our tests give the same list from science: a plant needs air, warmth and light, water, and minerals from the earth.)
-- **Samyutta Nikaya 56.11, the Buddha's first teaching:** The Buddha said that two extremes, too much comfort and too much hardship, do not lead anywhere good. He taught a middle way between them. (The Buddha was talking about how people live, not about plants. But our water test has the same shape: no water and too much water both harm a moong seedling, and they grow best in between.)
+- **Samyutta Nikaya 56.11, the Buddha's first teaching:** The Buddha said that two extremes, too much comfort and too much hardship, do not lead anywhere good. He taught a middle way between them. (The Buddha was talking about how people live, not about plants. But our water test found something similar: no water and too much water both harm a moong seedling, and they grow best in between.)
 - Science (settled): The same seeds can grow into very different shapes in different light, water and warmth. Biologists call this power to change shape to fit the surroundings plasticity.
 - Science (settled): Sunlight takes about eight minutes to travel from the Sun to a leaf.
-- Other view, Jain thinkers: Jain thinkers teach that each plant has their own soul, called a jiva, separate from every other soul. On this view, a seedling turns to the light because they are a living being in their own right, not because they and the world are one.
+- Other view, Jain thinkers: Jain thinkers teach that each plant has their own soul, called a jiva, separate from every other soul. On this view, a seedling turns to the light because they are a living being in their own right, not because the world is shaping them.
 - Practice, Sun and shade (3 min): Let's stand in a patch of sunlight by a window for one minute. Close your eyes and feel the warmth on your face and arms. Then step into the shade and stand still for one minute. Breathe slowly. What changed on your skin? A plant senses this difference too, in their own way.
 - Ask: The same seed can grow short and green, or tall and pale. Which one shows what a moong plant really looks like?
 - Ask: A seedling in the dark spent their stored food on reaching for light. Were they choosing?
-- Ask: Your body changes with sun and use, like a seedling changes with light. What has the place you live in shaped in you?
+- Ask: Your body changes with sun and use, like a seedling changes with light. How has the place you live in changed you?
 
 ## Deep and big questions
-- *deep:* A seedling in the dark grows tall instead of green. Is that a mistake, or a clever plan? (hint: Imagine you are in a dark tunnel with your last packed lunch. You see a crack of light far above. What would you do?)
+- *deep:* A seedling in the dark grows tall instead of green. Is that a mistake, or a clever plan? (hint: Suppose you are in a dark tunnel with your last packed lunch. You see a crack of light far above. What would you do?)
 - *deep:* Why can't a plant just walk to the light, or to water, as an animal can? How do they cope instead? (hint: Watch how a plant on a windowsill leans, and how roots spread. Plants move by growing.)
 - *big:* In the water test, the moong standing in water had the most water, but they did worse than the moong given a spoonful a day. Is more always better? (hint: Think of the cups standing in water. What else is good in the right amount, but harmful when there is too much?)
 - *deep:* The same moong seeds grew short and green in the light, and tall and pale in the dark. Which one shows what a moong plant really looks like? (hint: Is there one true shape, or does the shape always depend on where they grow? Think about how your skin changes in strong sun.)
 - *big:* The Buddha taught a middle path, between too much and too little. Plants seem to live on a middle path too. Where else in life is the middle the best place to be? (hint: Think about food, sleep, screen time, and how hard to push a friend on a swing.)
-- *big:* In our light test, we kept some seedlings in the dark until they were weak. Is it fair to the plants? When is it right to do experiments on living things? (hint: What do we learn? Can we give the dark plants back their light at the end? Would you test on an animal?)
-- *deep:* The light that grew your idli left the Sun about 8 minutes before the rice plant caught the light. So are you made of sunlight? (hint: Follow your food back step by step: idli, batter, rice plant, leaf, sunlight.)
+- *big:* In our light test, we kept some seedlings in the dark until they were weak. Was that fair to the plants? When is it right to do experiments on living things? (hint: What do we learn? Can we give the dark plants back their light at the end? Would you test on an animal?)
+- *deep:* The light that grew the rice in your idli left the Sun about 8 minutes before the rice plant caught it. So are you made of sunlight? (hint: Follow your food back step by step: idli, batter, rice plant, leaf, sunlight.)
 - *deep:* If people one day live on the Moon or Mars, what will they need to bring for plants, that Earth gives for free? (hint: Make a list: light, air, water, warmth, minerals. Which ones does the Moon have?)
 - *big:* Carl Sprengel had an idea first, but Justus von Liebig made it famous. Who should get the credit for an idea: the person who has it first, or the person who spreads it? (hint: Has someone ever said your idea louder than you, and got the praise?)
 - *big:* A plant cannot tell us in words what they need. How can we listen to something that does not use words? (hint: A plant doctor reads clues: drooping, yellow, leaning. A baby cannot use words either. How do people find out what a baby needs?)
@@ -248,7 +248,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 ### g1 · Grow or Droop (25 min)
 - **rules:** Each player is a moong seedling. Put a counter (a coin or a button) on square 1. Take 4 green leaf tokens and 2 rescue cards. The other leaf tokens make the spare pile.; Shuffle the weather and care cards and put them face down.; On your turn, take the top weather and care card, read it out and do what it says. You never move back past square 1. When the pile runs out, shuffle the used cards and turn them face down again.; If you land on a square with a leaf drawn on it, take 1 leaf token from the spare pile. If the spare pile is empty, take nothing.; Play a rescue card only when the card you drew names it. Say which need it gives back to your plant: light, water, air for the roots, the right warmth or space. Then put the rescue card aside. It is used up.; Cupboard and doormat cards move you up fast, but you lose a green leaf token. Put it in the spare pile. Tall and pale is not the same as healthy.; To win, reach or pass square 20 with at least one green leaf token left. If you ever have no leaf tokens, put your counter back on square 1 and take 2 leaf tokens from the spare pile.
 - **Printable board: A growing-stem board with 20 squares:** Square 1: a seed in the soil. Everyone starts here.; Square 2: the stem; Square 3: the stem; Square 4: the stem; Square 5: the stem, with a leaf drawn on it. Land here and take 1 leaf token from the spare pile; Square 6: the stem; Square 7: the stem; Square 8: the stem; Square 9: the stem; Square 10: the stem, with a leaf drawn on it. Land here and take 1 leaf token from the spare pile; Square 11: the stem; Square 12: the stem; Square 13: the stem; Square 14: the stem; Square 15: the stem, with a leaf drawn on it. Land here and take 1 leaf token from the spare pile; Square 16: the stem; Square 17: the stem; Square 18: the stem; Square 19: the stem; Square 20: a flower. Reach it with at least one green leaf token to win.
-- **Printable cards: 24 weather and care cards to cut out:** Sunny windowsill all day. Move up 3.; Watered just right: damp, not soggy. Move up 2.; Warm spring day, 28 °C. Move up 2.; Fresh compost added to the soil. Move up 1.; Bright morning sun, cool shady afternoon. Move up 2.; Rain at night, sunny day. Move up 2.; A week in a dark cupboard. Move up 3, but lose one green leaf token. You grew tall and pale.; Under a doormat for a week. Move up 2, but lose one green leaf token.; Forgot to water on a hot day. You wilt. Miss a turn, unless you play a Watering Can card.; The pot stood in a dish of water all week. Roots cannot breathe. Move back 3, unless you play a Drainage Hole card.; Watered three times a day. Soggy soil. Move back 2, unless you play a Drainage Hole card.; Cold night, 6 °C. You hardly grow. Stay where you are.; Winter fog for a week. Move up only 1.; Heat wave, 46 °C on the terrace. Move back 2, unless you play a Shade card.; Next to the hot pressure cooker every day. Move back 1, unless you play a Shade card.; Your roots fill the whole pot. Move back 1, unless you play a Bigger Pot card.; Planted in a crack with almost no soil. Move up only 1.; A taller plant shades you. Move up 1 and lose one green leaf token, unless you play a Move to the Light card.; Moved to a dim corner. Move up 1, unless you play a Move to the Light card.; A dusty window. Move up 1. Play a Move to the Light card to clean the window and move up 3 instead.; TEST IT: hold one hand in the sun and the other in the shade. Which is warmer? Everyone who answers right moves up 1.; TEST IT: press a finger into the soil of a pot. Is it dry, damp or soggy? Say what the plant needs. Everyone who answers right moves up 1.; TEST IT: fetch a real pot and find the hole in the bottom. Why is it there? A good answer moves up 2.; TEST IT: look at a plant near a window. Which way is it leaning? Say why. Everyone who answers right moves up 1.
+- **Printable cards: 24 weather and care cards to cut out:** Sunny windowsill all day. Move up 3.; Watered just right: damp, not soggy. Move up 2.; Warm spring day, 28 °C. Move up 2.; Fresh compost added to the soil. Move up 1.; Bright morning sun, cool shady afternoon. Move up 2.; Rain at night, sunny day. Move up 2.; A week in a dark cupboard. Move up 3, but lose one green leaf token. You grew tall and pale.; Under a doormat for a week. Move up 2, but lose one green leaf token.; Forgot to water on a hot day. You wilt. Miss a turn, unless you play a Watering Can card.; The pot stood in a dish of water all week. Roots cannot breathe. Move back 3, unless you play a Drainage Hole card.; Watered three times a day. Soggy soil. Move back 2, unless you play a Drainage Hole card.; Cold night, 6 °C. You hardly grow. Stay where you are.; Winter fog for a week. Move up only 1.; Heat wave, 46 °C on the terrace. Move back 2, unless you play a Shade card.; Next to the hot pressure cooker every day. Move back 1, unless you play a Shade card.; Your roots fill the whole pot. Move back 1, unless you play a Bigger Pot card.; Planted in a crack with almost no soil. Move up only 1.; A taller plant shades you. Move up 1 and lose one green leaf token, unless you play a Move to the Light card.; Moved to a dim corner. Move up 1, unless you play a Move to the Light card.; A dusty window. Move up 1. Play a Move to the Light card to clean the window and move up 3 instead.; TEST IT: hold one hand in the sun and the other in the shade. Which is warmer? Everyone who answers right moves up 1.; TEST IT: press a finger into the soil of a pot. Is it dry, damp or soggy? Say what the plant needs. Everyone who answers right moves up 1.; TEST IT: fetch a real pot and find the hole in the bottom. Why is it there? A good answer moves up 2.; TEST IT: look at a plant near a window. Which way are they leaning? Say why. Everyone who answers right moves up 1.
 - **Printable cards: 12 rescue cards to cut out (deal 2 to each player):** Watering Can; Drainage Hole; Shade; Move to the Light; Bigger Pot; Watering Can; Drainage Hole; Shade; Move to the Light; Bigger Pot; Watering Can; Move to the Light
 - **Printable tokens: 24 green leaf tokens (each player starts with 4):** Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token; Green leaf token
 - **s1 (3 min)**  
@@ -268,7 +268,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Note: Good answers: Watering Can gives water. Drainage Hole lets extra water out, so roots get air. Shade protects from too much heat. Move to the Light gives light. Bigger Pot gives roots space. Notice who rushes up with the cupboard cards and then runs out of leaves. That is the lesson of the light test.
 - **s4 (3 min)**  
   *Parent does:* When someone draws a cupboard or doormat card, stop for a moment and ask the question below.  
-  *Parent says:* This card moved you up 3 squares. So why did you lose a leaf?  
+  *Parent says:* This card moved you up fast. So why did you lose a leaf?  
   *Child mode:* You grew fast in the cupboard, but lost a leaf. Why? Say it out loud.
   - Think: If you could only measure one thing to judge a plant, what would you choose? Height, leaves, or colour?
 - **s5 (2 min)**  
@@ -306,7 +306,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 ### e1 · The Light Test: what happens in the dark? (45 min, 9 days)
 - **question:** Do moong seedlings need light to grow well? What happens to them in the dark?
 - **predict:** Before you start, guess. After a week, will the seedlings in the dark be taller or shorter than the ones in the light? Will they be green or another colour? Write your guess and your reason.
-- **fair test:** Change only the light. Use 6 cups that are the same, the same soil, and 5 moong seeds in each cup. Put all 6 cups side by side near the same bright window, out of strong afternoon sun, so the box does not get hotter than the open cups. Cover 3 of them with a cardboard box. Water every cup with the same tablespoon of water each morning. Measure every cup at the same time of day. We use 3 cups for each, because one cup could be a fluke.
+- **fair test:** Change only the light. Use 6 cups that are the same, the same soil, and 5 moong seeds in each cup. Put all 6 cups side by side near the same bright window, out of strong afternoon sun, so the box does not get hotter than the open cups. Cover 3 of them with a cardboard box. Water every cup with the same tablespoon of water each morning. Measure every cup at the same time of day. We use 3 cups in the light and 3 under the box, because one cup could be a fluke.
 - **safety:** A grown-up pokes the holes in the cups with a nail or a pin.
 - **record:** Fill in the table. Then draw two bar charts: one of the heights on Day 7, and one of the number of open green leaves.
 - **results table:** Cup | Day 3: height of the tallest seedling (cm) | Day 5: height (cm) | Day 7: height (cm) | Colour of the leaves | Open green leaves on the tallest seedling
@@ -357,7 +357,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* On Day 8, move the dark cups into the light. On Day 9, look again.  
   *Parent says:* Let's give the dark seedlings their light back. What do you think will happen by tomorrow?  
   *Child mode:* Put the dark cups in the light. Look again tomorrow. Do the seedlings turn green?
-  - Note: Within a day, the yellow seedlings usually start to turn green, because they make chlorophyll once they have light. Very weak seedlings that have fallen over may not recover. Giving the light back is a kind way to end the test, too.
+  - Note: Within a day, the yellow seedlings usually start to turn green, because they make chlorophyll once they have light. Very weak seedlings that have fallen over may not recover. Giving the light back is a kind way to end the test, too. For the question about how the seedlings knew: plants have special molecules, called photoreceptors, that notice light and darkness. They work a little like tiny eyes.
   - Think: The dark seedlings had no eyes. How did they know they were in the dark?
   - Wait: Look again on Day 9.
 ### e2 · The Water Test: too little, just right, too much (73 min, 14 days)
@@ -367,7 +367,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **safety:** A grown-up pokes the holes in the cups. Wash hands after touching soil. Tip out the SOAKED dish and fill it with fresh water every second day, so mosquitoes cannot breed in it. Throw away soggy, smelly soil outside or in the dustbin, not in the kitchen sink.
 - **record:** Fill in the table. Draw a bar chart of the middle height of each group on Day 14. Draw what the roots looked like in each group.
 - **results table:** Cup | Day 6: height (cm) | Day 10: height (cm) | Day 14: height (cm) | Leaves: firm, drooping, yellow or dry? | Soil: dry, damp or soggy?
-- **schedule:** day 1: Sow 5 soaked moong in each of 9 cups. Water every cup with 1 tablespoon and put them all on the windowsill. (12 min); day 2: Water all 9 cups with 1 tablespoon each. (2 min); day 3: Water all 9 cups the same. (2 min); day 4: Water all 9 cups the same. (2 min); day 5: Water all 9 cups the same. (2 min); day 6: Measure all cups. Write your predictions. Label the cups and start the three treatments: none, just right, soaked. (12 min); day 7: Water the JUST RIGHT cups with 1 tablespoon. Feel the soil in one cup of each group. (2 min); day 8: Water the JUST RIGHT cups. Tip out the SOAKED dish and fill it with fresh water. Look at the leaves and write one line about each group. (3 min); day 9: Water the JUST RIGHT cups. (2 min); day 10: Water the JUST RIGHT cups, change the dish water and measure. (5 min); day 11: Water the JUST RIGHT cups. (2 min); day 12: Water the JUST RIGHT cups, change the dish water and look closely at the leaves. (3 min); day 13: Water the JUST RIGHT cups. (2 min); day 14: Final measuring. Tip one cup from each group out to look at the roots. Draw a bar chart and say what you think, what you saw and why. (22 min)
+- **schedule:** day 1: Sow 5 soaked moong in each of 9 cups. Water every cup with 1 tablespoon and put them all on the windowsill. (12 min); day 2: Water all 9 cups with 1 tablespoon each. (2 min); day 3: Water all 9 cups the same. (2 min); day 4: Water all 9 cups the same. (2 min); day 5: Water all 9 cups the same. (2 min); day 6: Measure all cups. Write your predictions. Label the cups and start the three kinds of watering: none, just right, soaked. (12 min); day 7: Water the JUST RIGHT cups with 1 tablespoon. Feel the soil in one cup of each group. (2 min); day 8: Water the JUST RIGHT cups. Tip out the SOAKED dish and fill it with fresh water. Look at the leaves and write one line about each group. (3 min); day 9: Water the JUST RIGHT cups. (2 min); day 10: Water the JUST RIGHT cups, change the dish water and measure. (5 min); day 11: Water the JUST RIGHT cups. (2 min); day 12: Water the JUST RIGHT cups, change the dish water and look closely at the leaves. (3 min); day 13: Water the JUST RIGHT cups. (2 min); day 14: Final measuring. Tip one cup from each group out to look at the roots. Draw a bar chart and say what you think, what you saw and why. (22 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Fill 9 cups with soil. 2. Press 5 soaked moong into each. 3. Water each cup with 1 tablespoon. 4. Put all 9 on a tray on a bright windowsill.  
   *Parent says:* First we grow all 9 cups exactly the same way, so they start the test the same.  
@@ -389,7 +389,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* On Day 8 or Day 10, look closely at the leaves in each group together.  
   *Parent says:* Let's be plant doctors. What do the leaves look like in each group?  
   *Child mode:* Look at the leaves in each group. Are they firm, drooping, yellow or dry?
-  - Check: The NONE cups have drooping, floppy leaves. What is the plant telling us? → **They need water**
+  - Check: The seedlings in the NONE cups have drooping, floppy leaves. What are the plants telling us? → **They need water**
 - **s5 (12 min)**  
   *Parent does:* On Day 14: 1. Measure the tallest seedling in each cup. 2. Gently tip one cup from each group onto newspaper. 3. Wash the soil off the roots in a bowl of water. 4. Compare the roots.  
   *Parent says:* Let's look at the hidden part, the roots. What do the roots look like in each group?  
@@ -423,7 +423,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* 1. Fold a wet cloth flat in each bowl. 2. Wet each with exactly 4 teaspoons of water. 3. Put 10 sprouts on the cloth in each bowl. 4. Measure the 5 longest sprouts in each bowl, from the tip of the root to the top, and add them up. 5. Cover each bowl with a plate.  
   *Parent says:* The fridge is dark inside. So we cover all three bowls with a plate, to make them all dark. That way only the warmth is different.  
   *Child mode:* Put a folded wet cloth in 3 bowls. Add 4 spoons of water to each. Put 10 sprouts in each. Measure 5 sprouts. Cover each bowl with a plate.
-  - Ask: What should we do to the other two bowls, so that only the warmth is different? (good: Cover them too, so all three are dark.; Keep everything else the same.)
+  - Ask: The fridge bowl will be in the dark. What should we do to the other two bowls, so that only the warmth is different? (good: Cover them too, so all three are dark.; Keep everything else the same.)
   - Note: Adding up 5 sprouts gives one number for each bowl, and evens out small and big sprouts. Sprouts of 1 cm, 2 cm, 1 cm, 1 cm and 1 cm add up to 6 cm. Lift each sprout gently, because their root may stick to the cloth.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Put one bowl in the fridge, not the freezer. 2. Put one bowl in a cupboard in a room. 3. Put one bowl in a warm spot, like a cupboard in the warmest room or the top of the fridge. 4. If you have a thermometer, leave it in each place for 5 minutes and read it.  
@@ -431,7 +431,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Child mode:* Put one bowl in the fridge. Put one in a cupboard. Put one somewhere warm. Read the thermometer in each place.
   - Note: Never use the stove, oven, a heater or a flame for the warm spot. If your warm spot turns out no warmer than the cupboard, the test still works with two places: the fridge and the cupboard. In winter, a warm spot makes a bigger difference.
 - **s4 (10 min)**  
-  *Parent does:* On Day 2 and Day 3: take each bowl out, measure the 5 longest sprouts and add them up. Add 1 teaspoon of water if the cloth is drying, and the same to the other two bowls. Put each bowl back quickly.  
+  *Parent does:* On Day 2 and Day 3: take each bowl out, measure the 5 longest sprouts and add them up. If the cloth in any bowl is drying, add 1 teaspoon of water to all three bowls. Put each bowl back quickly.  
   *Parent says:* Measure the 5 longest sprouts and add them up. Which bowl is growing fastest?  
   *Child mode:* Measure the 5 longest sprouts in each bowl. Add them up. Write the total. Put the bowl back fast.
   - Check: You add water to the warm bowl because its cloth is drying. What should you do for the other two bowls? → **Add the same amount, so the water stays the same in all three**
@@ -486,7 +486,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 ### a1 · Pale Sprouts (15 min, 4 days)
 - **safety:** Do not eat sprouts that have stood on the windowsill for days.
 - **record:** Draw a sprout from the tiffin and a sprout from the windowsill. Write three things you notice and one thing you wonder.
-- **schedule:** day 1: Soak a handful of moong in water overnight. Next morning, drain it and close it in a tiffin on a wet cloth. (2 min); day 3: Open the tiffin. Notice the colour of the shoots. Put half the sprouts on the windowsill and close the rest back in the tiffin. (10 min); day 4: Compare a windowsill sprout with a tiffin sprout. (3 min)
+- **schedule:** day 1: Soak a handful of moong in water overnight. Next morning, drain it, spread it on a wet cloth in a tiffin and close the lid. (2 min); day 3: Open the tiffin. Notice the colour of the shoots. Put half the sprouts on the windowsill and close the rest back in the tiffin. (10 min); day 4: Compare a windowsill sprout with a tiffin sprout. (3 min)
 - **s1 (2 min)**  
   *Parent does:* 1. Soak a handful of moong in a bowl of water overnight. 2. Next morning, drain it. 3. Spread it on a wet cloth in a steel tiffin and close the lid.  
   *Parent says:* We are going to grow some sprouts in a closed box. In two days we will open it and look.  
@@ -533,13 +533,13 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Child mode:* Same time every day. Measure. Cut a strip. Stick it next to yesterday's.
   - Wait: Repeat every day for 10 days.
 - **s4 (10 min)**  
-  *Parent does:* After 10 strips, look at the chart together. Find the day they grew most, by finding the biggest jump between two strips.  
-  *Parent says:* Our strips have made a chart. Look for the biggest jump from one strip to the next. That was the day they grew most.  
+  *Parent does:* After 10 strips, look at the chart together. Find the day the plant grew most, by finding the biggest jump between two strips.  
+  *Parent says:* Our strips have made a chart. Look for the biggest jump from one strip to the next. That was the day the plant grew most.  
   *Child mode:* Look at your strips. They make a chart! Find the biggest jump. That day, your plant grew most.
-  - Ask: How much did they grow on their best day? (good: I took the height on the day before away from the height on that day. For example, 15 millimetres.)
-  - Ask: Did they grow the same amount every day? (good: No, some days more, some days less.)
+  - Ask: How much did the plant grow on the best day? (good: I took the height on the day before away from the height on that day. For example, 15 millimetres.)
+  - Ask: Did the plant grow the same amount every day? (good: No, some days more, some days less.)
   - Note: This paper chart is a real bar chart. Each strip is a bar. Children who make one usually understand bar charts straight away.
-  - Think: Was the weather different on the day they grew most? Warmer? Sunnier?
+  - Think: Was the weather different on the day the plant grew most? Warmer? Sunnier?
 ### a3 · Plant Doctor: which need is missing? (20 min, 8 days)
 - **record:** For each plant, write: the clue, the missing need, and the cure.
 - **schedule:** day 1: Examine 5 plants, write a diagnosis and a cure for each, and do one cure. (17 min); day 8: Look at the plant you helped. Was your diagnosis right? (3 min)
@@ -567,17 +567,17 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent says:* Let's make a map of how bright each place in our home is. Plants can't walk to the light, so we have to choose for them.  
   *Child mode:* Draw a map of your home. Show the rooms, the windows and the balcony.
 - **s2 (12 min)**  
-  *Parent does:* Visit 6 places: a sunny window, the middle of a room, a corridor, a bathroom, the balcony and an open window. In each place, use the light-meter app. Or hold a pencil over white paper and see how dark and sharp its shadow is.  
+  *Parent does:* Visit 6 places: a sunny window, the middle of a room, a corridor, a bathroom, the balcony and an open window. In each place, use a light-meter app on a phone. Or hold a pencil over white paper and see how dark and sharp its shadow is.  
   *Parent says:* Our eyes are tricky. They adjust, so a room feels bright even when it is much dimmer than outside. A light meter tells the truth.  
-  *Child mode:* Go to 6 places. Measure the light with the app. Or look at a pencil's shadow. A dark, sharp shadow means bright light.
+  *Child mode:* Go to 6 places. Measure the light with a light-meter app. Or look at a pencil's shadow. A dark, sharp shadow means bright light.
   - Ask: Which place is brightest? Which is darkest? (good: The open window is brightest.; The corridor is darkest.)
   - Note: Light meters measure in lux. Outdoor daylight is often tens of thousands of lux. A bright room is often a few hundred. So a room can be a hundred times dimmer than outside, even though it seems bright indoors. That is why indoor plants lean to the windows. Phone apps are not exact, but they are good enough to compare places.
 - **s3 (8 min)**  
   *Parent does:* Mark each place on the map: very bright, bright, dim or dark. Then decide where your home's plants should live.  
   *Parent says:* A tulsi needs lots of sun. A money plant is happy with less. Where should each of our plants go?  
   *Child mode:* Colour each place on the map: very bright, bright, dim or dark. Draw where each plant should live.
-  - Check: Outside on a sunny day, and in the middle of a room: which is usually brighter, and by how much? → **Outside, often about a hundred times brighter or more**
-  - Think: Your eyes adjusted so well that you did not notice how dim the room was. What else might your senses be hiding from you?
+  - Check: Which is usually brighter: outside on a sunny day, or the middle of a room? By how much? → **Outside, often about a hundred times brighter or more**
+  - Think: Your eyes adjusted so well that you did not notice how dim the room was. A plant that needs lots of light is not fooled. Which place on your map would that plant choose?
 ### a5 · Bose's Growth Magnifier (35 min)
 - **safety:** A grown-up handles the pin. Tie the thread loosely, so it does not cut the plant.
 - **record:** Write where the pointer was every 2 hours. Work out how far it moved, and how much the plant really grew.
@@ -602,7 +602,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Child mode:* Measure how far the pointer moved. Divide that by 4. That is how much the plant really grew.
   - Ask: If the pointer moved 12 millimetres, how much did the plant grow? (good: 3 millimetres, because 12 divided by 4 is 3.)
   - Check: The pointer on the long end of the straw moved 8 millimetres. The long end moves 4 times as far as the plant grows. How much did the plant grow? → **2 millimetres**
-  - Think: Bose's machine made growth look thousands of times bigger. He saw it speed up and slow down from minute to minute. What could make a plant grow faster for a few minutes?
+  - Think: Bose's machine made growth look thousands of times bigger. He saw it speed up and slow down from minute to minute. What could make a plant grow faster for a few minutes? Think about what Bose did to his plants.
 ### a6 · Seedling Dance: in the dark and in the light (12 min)
 - **record:** Draw yourself as a seedling in the dark and in the light.
 - **s1 (3 min)**  
@@ -613,7 +613,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* Turn off the lights. Ask your child to grow like a seedling in the dark.  
   *Parent says:* It's dark. You can't make food. Stretch up as tall and thin as you can, fast, looking for light. Keep your hands folded shut, like small closed leaves.  
   *Child mode:* It is dark. Stretch up tall and thin, fast. Keep your hands folded. You are looking for light!
-  - Ask: How does it feel to stretch and stretch? (good: Tiring.; Wobbly.; I want to fall over.)
+  - Ask: Why does a seedling in the dark stretch so fast? (good: It is looking for light.; It has no light, so it uses its stored food to grow tall.; It cannot make food, so it stretches to find some light.)
 - **s3 (3 min)**  
   *Parent does:* Shine the torch, or open the curtains. Ask your child to grow like a seedling in the light.  
   *Parent says:* Light! Now open your leaves wide, like hands catching sunshine. Stand strong and solid. You don't need to stretch so far.  
@@ -629,16 +629,16 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 ### p1 · My Bean, My Diary (80 min, 21 days)
 - **safety:** Do not eat raw rajma seeds, because they are harmful uncooked.
 - **record:** A diary with a page every third day: date, height, number of leaves, weather, temperature and one sentence about how the plant looks. At the end, a bar chart of the heights.
-- **schedule:** day 1: Soak the beans the night before. Choose the best place using your light map. Sow the beans. Name your plant. Start the diary. (20 min); day 3: Check the soil with a finger. Water if dry. Write one line in the diary. (3 min); day 6: Measure the shoot. Write the height, the weather and the temperature. (5 min); day 9: Measure. Count the leaves. (5 min); day 12: Measure. Push in the stick for climbing. Do a plant doctor check. (5 min); day 15: Measure. Draw the plant. (5 min); day 18: Measure. Did anything slow them down? (5 min); day 21: Final measuring. Draw a growth chart of all your measurements. Write what helped and what harmed your plant. Show your diary to the family. (32 min)
+- **schedule:** day 1: Soak the beans the night before. Choose the best place using your light map. Sow the beans. Name your plant. Start the diary. (20 min); day 3: Check the soil with a finger. Water if dry. Write one line in the diary. (3 min); day 6: Measure the shoot. Write the height, the weather and the temperature. (5 min); day 9: Measure. Count the leaves. (5 min); day 12: Measure. Push in the stick for climbing. Do a plant doctor check. (5 min); day 15: Measure. Draw the plant. (5 min); day 18: Measure. Did anything slow your plant down? (5 min); day 21: Final measuring. Draw a growth chart of all your measurements. Write what helped and what harmed your plant. Show your diary to the family. (32 min)
 - **s1 (8 min)**  
-  *Parent does:* Look at the light map from the light map activity, if you made one. Choose a bright place with some morning sun for the pot.  
+  *Parent does:* Look at the map you made in The Light Map of Our Home, if you made one. Choose a bright place with some morning sun for the pot.  
   *Parent says:* Beans need lots of light, water that is just right, and warmth. Where in our home is the best place?  
   *Child mode:* Look at your light map. Find a bright place with some morning sun. That is your bean's home.
 - **s2 (12 min)**  
   *Parent does:* 1. Fill the pot with the soil and compost. 2. Push 3 soaked beans in, about 2 cm deep and a hand-width apart. 3. Water until a little runs out of the hole. 4. Give your plant a name and write the name on the pot.  
   *Parent says:* Some families talk to their plant and name them. Let's name ours. What will you call your bean?  
   *Child mode:* Fill the pot. Push in 3 beans, 2 cm deep. Water until a little runs out of the hole. Give your plant a name!
-  - Note: Children take more care of a plant they have named. If more than one bean comes up, keep the strongest and snip the others off at the soil after a week, so they have space.
+  - Note: Children take more care of a plant they have named. If more than one bean comes up, keep the strongest and snip the others off at the soil after a week, so the strongest has space.
 - **s3 (25 min)**  
   *Parent does:* Every third day: 1. Press a finger into the soil. Water only if the top is dry. 2. Measure the shoot from the soil to the tip. 3. Write the height, the number of leaves, the weather and the temperature in the diary.  
   *Parent says:* Check first, then water. Too much water drowns the roots. Then measure and write it down.  
@@ -649,10 +649,10 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* At about Day 12, when the bean is around 15 cm tall, push the stick in beside them. Do not hurt the roots.  
   *Parent says:* Many beans are climbers. Watch what the tip does with the stick in the next few days.  
   *Child mode:* Push a stick into the soil next to your bean. Watch the tip. Will they find the stick?
-  - Think: The bean has no eyes. How do they find the stick to climb?
+  - Think: The bean has no eyes. How do they find the stick to climb? The tip of a climbing bean slowly swings round in circles, so it touches things nearby. When it touches the stick, it wraps around it.
 - **s5 (30 min)**  
   *Parent does:* On Day 21: 1. Measure one last time. 2. Make a bar chart with one bar for each measuring day. 3. Write two sentences: what helped your plant grow and what slowed them down. 4. Show the diary to the family.  
-  *Parent says:* Look at your chart. When did they grow fastest? Was the weather different then? What would you change next time?  
+  *Parent says:* Look at your chart. When did your bean grow fastest? Was the weather different then? What would you change next time?  
   *Child mode:* Draw one bar for each day you measured. When did your bean grow fastest? Write what helped them and what slowed them down.
   - Note: If the plant dies, that is a real result too. Be a plant doctor together: which need was missing? Your child can write a short note about how it feels to lose a plant, and then try again.
 
@@ -671,7 +671,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* Read the usual solutions and the creative ideas below.  
   *Parent says:* Here's what people usually do, and some creative ideas. Which will we try?  
   *Child mode:* Look at the usual ways and the creative ideas. Pick the ones you want to try.
-  - Think: People in a crowded city also live in dim rooms. How do light and sunlight change how people feel?
+  - Think: Which of your ideas would still work on a cloudy day, and which would work only in direct sunshine?
 - **s3 (5 min)**  
   *Parent does:* Draw or list three ideas together, including at least one of your own.  
   *Parent says:* Engineers think before they build. Let's list three ideas.  
@@ -735,8 +735,8 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
    **Answer:** So all three bowls are in the dark. Then the only thing that is different is how warm they are. If only the fridge bowl was dark, both light and warmth would change, and we could not tell which one made the difference.. *Why:* A strong answer says the plates keep the light the same, so warmth is the only thing that changes.
 9. (draw) Draw two seedlings: one grown in the light and one grown in the dark. Label three differences.  
    **Answer:** The light seedling is short, thick and green, with open leaves. The dark seedling is tall, thin and pale yellow, bent over, with tiny folded leaves.. *Why:* A strong drawing labels colour, leaves and stem, not only height.
-10. (perspective) It is May in Chennai. Lakshmi, a girl of 8, her grandmother and her mother disagree about how to water the tulsi plant on their sunny balcony.  
-   **Answer:** A strong answer picks a side and backs it with evidence. Lakshmi's finger test works in every season, and the SOAKED cups showed that too much water harms roots. A strong answer also gives others their due. Paati is right that a pot in the Chennai sun may really need water twice a day. Amma's saucer is fine if it is emptied, but kept full it soaks the soil like the SOAKED cups.. *Why:* There is a real trade-off. Too little water and too much water both harm a plant, and the right amount changes with the weather. Checking the soil is a way to find the right amount each day.
+10. (perspective) It is May in Chennai. The first child, who is 8, disagrees with her grandmother and her mother about how to water the tulsi plant on their sunny balcony.  
+   **Answer:** A strong answer picks a side and backs it with evidence. The first child's finger test works in every season, and the SOAKED cups showed that too much water harms roots. A strong answer also gives others their due. Paati is right that a pot in the Chennai sun may really need water twice a day. Amma's saucer is fine if it is emptied, but kept full it soaks the soil like the SOAKED cups.. *Why:* There is a real trade-off. Too little water and too much water both harm a plant, and the right amount changes with the weather. Checking the soil is a way to find the right amount each day.
 11. (fill) When a plant droops and goes floppy because they have too little water, we say the plant ____.  
    **Answer:** ['wilts', 'wilted', 'is wilting']. *Why:* A plant's cells are firm when full of water, like a blown-up balloon. Without water they go soft, and the plant droops.
 12. (mcq) A girl grows one cup of moong in the light and one cup in the dark. Her teacher says she should grow 3 cups of each. Why?  
@@ -751,7 +751,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 ### Fair Tests and Plant Clues (stretch) (stretch, 16 questions)
 1. (mcq) You want to test if plants need light. Which test is fair?  
    Options: One pot in the sun with water, and one pot in a cupboard with no water / A big plant in the sun and a tiny plant in the cupboard / Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard  
-   **Answer:** Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard. *Why:* Only the light is different in this test. The sun-and-no-water choice misses that water changed too. The big-and-tiny choice misses that the plants were different sizes.
+   **Answer:** Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard. *Why:* The fair test is the one with two pots of the same seedlings: only the light is different. The sun-and-no-water choice misses that water changed too. The big-and-tiny choice misses that the plants were different sizes.
 2. (mcq) Rice plants stand in water in flooded fields. Why don't their roots rot, like our soaked moong?  
    Options: Rice roots don't need air / Rice plants have air channels that carry air down to their roots / The water in rice fields is special  
    **Answer:** Rice plants have air channels that carry air down to their roots. *Why:* Rice, lotus and mangroves all have ways to get air down to their roots. Moong does not. 'Rice roots don't need air' is a common guess, but all roots need air. Rice plants have their own air pipes.
@@ -762,7 +762,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
    **Answer:** I will change only the place: 3 cups of methi in the sun and 3 cups in the shade. I will keep the same seeds, soil, cups and water. Every two days I will measure the tallest seedling in each cup and count the green leaves.. *Why:* A strong plan names one thing to change, several things to keep the same, and what to measure. It uses more than one cup in each place.
 5. (draw) Draw a bar chart of the water test results: NONE 5 cm, JUST RIGHT 13 cm, SOAKED 8 cm. Label the bottom line and the side line.  
    **Answer:** Three bars. NONE is 5 squares tall, JUST RIGHT is 13 and SOAKED is 8. The bottom line says 'Group' and the side line says 'Height (cm)'.. *Why:* A bar chart shows at a glance which group grew best.
-6. (mcq) Usha, a girl in Class 4, says: 'My plant grows well because I talk to them every day.' What is the best question to ask her?  
+6. (mcq) A friend says: 'My plant grows well because I talk to them every day.' What is the best question to ask your friend?  
    Options: What do you say to your plant? / Is the plant big? / Do you also water and check that plant more than your other plants?  
    **Answer:** Do you also water and check that plant more than your other plants?. *Why:* Talking to a plant usually comes with more care, so more than one thing changes. Picking 'what do you say' takes it for granted that talking is the cause, before anyone has tested it.
 7. (sort) Is this a need that a plant has, or something they can live without?  
@@ -794,7 +794,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 2. (mcq) Under green see-through cellophane, seedlings often grow taller and paler, as if they were in dim light. Why?  
    Options: Green is a cold colour / Leaves use red and blue light most, and bounce back much of the green, so they get little of the light they use / Green cellophane is poisonous  
    **Answer:** Leaves use red and blue light most, and bounce back much of the green, so they get little of the light they use. *Why:* A leaf looks green because it reflects more green light than other colours. So green is the colour a leaf uses least. Picking 'cold colour' mixes up how colours feel to us with what plants use.
-3. (mcq) A plant stands in a dark corner. A girl gives the plant extra fertiliser, but they grow no better. What does this show?  
+3. (mcq) A plant stands in a dark corner. A girl gives the plant extra fertiliser, but the plant grows no better. What does this show?  
    Options: Light was the need in shortest supply, so more minerals could not help / Fertiliser never works / The plant was dead  
    **Answer:** Light was the need in shortest supply, so more minerals could not help. *Why:* This is the idea of the shortest plank. Extra of one need does not help if another need is in short supply. Picking 'fertiliser never works' stretches one result to every case.
 4. (perspective) Long ago, two scientists asked what a plant's body is made from.  
@@ -814,8 +814,8 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
    **Answer:** True. *Why:* True. On a hot afternoon, leaves lose water into the air faster than the roots can drink it. The plant droops, then stands up again in the cool evening. Check the soil before watering: damp soil means wait, not pour.
 10. (match) More is not always better. Match each 'too much' to what it does to a plant.  
    **Answer:** Too much water → the roots get no air and start to rot; Too much heat → the plant loses water fast and their enzymes stop working; Too much fertiliser → the salty soil draws water out of the roots; Too little light → the plant grows tall, pale and weak. *Why:* Every need has a just-right amount. Too little and too much can both harm a plant.
-11. (write) Ishita, a girl in Class 4, says: 'If a little fertiliser is good for my plant, a lot must be even better.' What would you tell her? How could she test her idea fairly?  
-   **Answer:** More is not always better. Too much fertiliser makes the soil salty, and that can damage roots. To test it, she could grow 3 cups with no fertiliser, 3 with a little and 3 with a lot. Everything else stays the same: seeds, soil, light and water. Then she measures and compares after two weeks.. *Why:* A strong answer challenges the 'more is better' idea and plans a test with three amounts, like the water test.
+11. (write) A friend says: 'If a little fertiliser is good for my plant, a lot must be even better.' What would you tell your friend? How could your friend test the idea fairly?  
+   **Answer:** More is not always better. Too much fertiliser makes the soil salty, and that can damage roots. To test it, your friend could grow 3 cups with no fertiliser, 3 with a little and 3 with a lot. Everything else stays the same: seeds, soil, light and water. Then your friend measures and compares after two weeks.. *Why:* A strong answer challenges the 'more is better' idea and plans a test with three amounts, like the water test.
 12. (write) Bose's growth magnifier makes a plant's growth look 4 times bigger. The pointer moved 20 millimetres in 10 hours. How much did the plant really grow in those 10 hours? How much is that in one hour?  
    **Answer:** 20 divided by 4 is 5. So the plant grew 5 millimetres in 10 hours. 5 millimetres shared between 10 hours is half a millimetre each hour.. *Why:* Divide the pointer's movement by how much the lever magnifies. Then share it between the hours.
 13. (write) In the light test, we kept some seedlings in the dark until they were weak. Was that fair to the seedlings? Give one reason for and one reason against.  
@@ -828,7 +828,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
    **Answer:** A bucket with planks for light, water, air, warmth and minerals. The light plank is the shortest, and water spills out over it.. *Why:* Zoya's moong had water, air, warmth and soil, but very little light. So light was their shortest plank.
 
 ## Videos
-- **Plant Life Cycle** (SuperKidzo Tv, 5 min) id `ib5uiLMM2wY`: A short cartoon of a seed growing into a plant. Watch it before sowing the bean in the bean diary. *Check:* 
+- **Plant Life Cycle** (SuperKidzo Tv, 5 min) id `ib5uiLMM2wY`: A short cartoon of a seed growing into a plant. Watch it before sowing the bean in the project My Bean, My Diary. *Check:* 
 - **A time-lapse of seedlings turning towards the light** (Green Timelapse, 3 min) id `jJrqmkbiwdE`: Shows young plants bending towards the light, again and again, as the light is moved. It shows in a minute what a plant on a windowsill does over days. *Check:* 
 - **Growing lettuce on the International Space Station (NASA Veggie)** (NASA, 4 min) id `c1Gxn_nfgWA`: Shows how astronauts give plants light, water, air and warmth in space. *Check:* 
 
@@ -869,19 +869,19 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 12. (mcq) Astronauts grow lettuce on the International Space Station, inside a closed box. Which need do the box's pink-purple lamps give the plants?  
    Options: Water / Minerals / Light  
    **Answer:** Light. *Why:* The lamps give light, mostly red and blue, the colours leaves use most. Water and minerals come from a pillow of soil-like material. Picking 'water' mixes up what a lamp gives with what a watering can gives.
-13. (mcq) Jagadish Chandra Bose built the crescograph, a machine that made a plant's growth look thousands of times bigger. What did it show?  
-   Options: That plants never grow at night / That a plant's growth speeds up and slows down from minute to minute / That plants grow only when someone is watching  
-   **Answer:** That a plant's growth speeds up and slows down from minute to minute. *Why:* Bose saw a plant's growth change within minutes, for example when they were touched or warmed. Plants respond to what is around them all the time. Picking 'never at night' is wrong: plants grow at night too.
+13. (mcq) A machine makes a plant's growth look thousands of times bigger. You touch the plant, then warm them. What would you most likely see?  
+   Options: The growth never changes / The growth speeds up or slows down within minutes / The plant grows only when someone is watching  
+   **Answer:** The growth speeds up or slows down within minutes. *Why:* Plants respond to what is around them all the time, so their growth changes within minutes when they are touched or warmed. Jagadish Chandra Bose saw this with his crescograph.
 
 ## Applications
-- Farmers sow each crop in the season whose warmth and rain suit it. Rabi wheat is sown in winter, and kharif rice in the monsoon.
+- Farmers sow each crop in the season whose warmth and rain suit that crop. Rabi wheat is sown in winter, and kharif rice in the monsoon.
 - Greenhouses and polyhouses keep plants warm and protected, so farmers can grow vegetables out of season.
 - Drip irrigation gives each plant just the right water, drop by drop, and saves a lot of water. Many Indian farms use it.
 - Plant nurseries put sun-loving plants in full sun and shade-loving plants under green shade nets.
 - Hydroponic farms on city rooftops grow lettuce, spinach and herbs in mineral water with no soil.
 - Grow lights in vertical farms and space gardens often use red and blue lamps, the colours plants use most.
 - Seed banks keep seeds cold and dry so they stay alive for many years.
-- Fair tests are used by scientists who breed new crops, to find out which kind grows best in heat or drought.
+- Scientists who breed new crops use fair tests to find out which kind grows best in heat or drought.
 - Weather forecasts help farmers decide when to sow and when to water.
 - Space agencies are testing how to grow food for long journeys to the Moon and Mars.
 - Gardeners use pots with drainage holes and add sand to heavy soil, so roots get air.
@@ -913,7 +913,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - It's very hot today. How do you think the plants on the balcony feel? What could help them?
 - Why do you think the potatoes in the dark basket have grown long white shoots?
 - Your bean grew 2 cm since yesterday. How much is that in millimetres?
-- If we wanted to know if our neighbour's plant grows better because of their soil, how could we test it fairly?
+- Suppose our neighbour's plant grows better than ours. How could we test fairly whether the soil is the reason?
 - What do you need to grow, apart from food? What does a plant need that you need too?
 - If astronauts grew plants on the Moon, what would they need to bring?
 
@@ -930,9 +930,9 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 ## Connected maths
 - In the light test, a seedling was 3 cm tall on Day 3 and 8 cm tall on Day 7. How much did they grow between Day 3 and Day 7? **5 cm.**. The seedling was 8 cm on Day 7 and 3 cm on Day 3. 8 take away 3 is 5. So they grew 5 cm. You can check: 3 + 5 = 8. (queues `math.addition-subtraction.word-problems.L3`)
 - Look at the ruler in the picture. The top of a seedling is at the arrow, halfway between 6 and 7. Each big number is a centimetre. How tall is the seedling, in centimetres and in millimetres? **6 and a half centimetres, which is 65 millimetres.**. The arrow is past the 6, halfway to the 7. Halfway is 5 tiny millimetre marks. So the seedling is 6 centimetres and 5 millimetres. Each centimetre is 10 millimetres, so 6 centimetres is 60 millimetres. 60 + 5 = 65 millimetres. (queues `math.measurement-basics.standard-units.L3`)
-- In the warmth test, you put a thermometer in each place. Look at the thermometer in the picture. What temperature does it show? **27 degrees Celsius.**. The red line stops at the mark 2 above the 25. Each mark is 1 degree. So the temperature is 25 + 2 = 27 degrees Celsius. That is the temperature of the room cupboard. (queues `math.temperature.reading-thermometers.L3`)
+- In the warmth test, you put a thermometer in each place. Look at the thermometer in the picture. What temperature does it show? **27 degrees Celsius.**. The red line stops 2 marks above the 25. Each mark is 1 degree. So the temperature is 25 + 2 = 27 degrees Celsius. That is the temperature of the room cupboard. (queues `math.temperature.reading-thermometers.L3`)
 - Look at the bar chart from the water test. How much taller was the JUST RIGHT group than the SOAKED group? **5 cm.**. The JUST RIGHT bar reaches 13 cm and the SOAKED bar reaches 8 cm. 13 take away 8 is 5. So the JUST RIGHT seedlings were 5 cm taller. (queues `math.data.bar-charts.L3`)
-- In the light test, the three DARK cups measured 13 cm, 15 cm and 14 cm. What is the middle value? **14 cm.**. 30 take away 6 is 24. So the 5 sprouts grew 24 cm altogether. 24 shared between 5 sprouts is 4 each, with 4 cm left over. Share the 4 cm too: each sprout gets 8 millimetres more. So each sprout grew 4 cm and 8 millimetres, a little under 5 cm. (queues `math.measurement-basics.estimation-and-precision.L3`)
+- In the light test, the three DARK cups measured 13 cm, 15 cm and 14 cm. What is the middle value? **14 cm.**. Put the three heights in order: 13 cm, 14 cm, 15 cm. The middle one is 14 cm. So the middle value is 14 cm. (queues `math.measurement-basics.estimation-and-precision.L3`)
 - In the warmth test, the 5 longest sprouts in the warm bowl added up to 6 cm on Day 1. On Day 4 they added up to 30 cm. How much did they grow? How much is that for each sprout, on average? **They grew 24 cm altogether. That is a little under 5 cm for each sprout.**. 30 take away 6 is 24. So the 5 sprouts grew 24 cm altogether. 24 shared between 5 sprouts is 4 each, with 4 cm left over. Sharing those 4 cm as well gives each sprout almost 1 cm more. So each sprout grew a little under 5 cm. (queues `math.division.sharing-and-grouping.L3`)
 
 ## Song
@@ -970,7 +970,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - Do sprouts grow faster in the fridge or in a warm room? → In a warm room.
 - A plant droops and their soil is dry. What do they need? → Water.
 - Who built the crescograph to watch plants grow? → Jagadish Chandra Bose.
-- Does a plant need soil, or only what soil gives? → No, only what soil gives: water, air, minerals and support.
+- Does a plant need soil, or only what soil gives? → Only what soil gives: water, air, minerals and support.
 - Which crop is sown in the cool winter: wheat or rice? → Wheat.
 
 ## Plan
