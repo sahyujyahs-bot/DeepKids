@@ -167,7 +167,7 @@ Light, sound and smell come from the same world to every creature. A body turns 
 - Science (idea): The brain may settle on a reading by combining what its senses report with what it expects, in the way a scientist weighs an idea against the evidence. This is a main idea in brain science today, called predictive processing.
 - Science (open): Why the brain flips, and what a reading feels like from the inside, are not known.
 - Other view, Many brain scientists: The two readings are two states of a network of nerve cells that compete and then tire. Words such as 'choice' or 'reading' only describe the competition. The science needs only the nerve cells and their activity.
-- Practice, Hold two readings (3 min): Look at the cube drawing. Notice the reading you see now. Breathe slowly. Wait until it flips. When it does, whisper the word 'now'. Then try to see both readings at once, and notice that you cannot. Quietly say the word 'maybe'.
+- Practice, Hold two readings (3 min): Look at the cube drawing. Notice the reading you see now. Breathe slowly. Wait until it flips. When it does, whisper the word 'now'. Then try to see both readings at once. You will find that you cannot, because your brain shows you only one reading at a time. Now quietly say the word 'maybe' to yourself. It reminds you that the drawing could be read either way. You can still only see one.
 - Ask: When you see a face in a cloud, who is making the face: the cloud or you?
 - Ask: What is the first thing you see in a new person or a new place? What other reading might you be missing?
 - Ask: If a bee sees a flower differently, which of you sees the true flower?
@@ -543,7 +543,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   - Wait: Ask all eight people during day 2.
 - **s3 (15 min)**  
   *Parent does:* Sort all the answers into five kinds: animal, person, plant, thing and nothing. Count each kind. Pick the five most surprising answers. Set up the blots with the best answers beside them. Ask the check question.  
-  *Parent says:* Let us sort all the answers. How many animals? How many people? Which answer surprised you most? Did two people ever see the same thing?  
+  *Parent says:* Let us sort all the answers into kinds, such as animals and people. How many of each kind are there? Did two people ever see the same thing in the same blot? Which blot gave the most different answers?  
   *Child mode:* Sort the answers into kinds. Count each kind. Pick the most surprising.
   - Check: Two people see different things in the same blot. What is the best explanation? → **The blot fits many readings, and each brain picks one using its own memories**
 

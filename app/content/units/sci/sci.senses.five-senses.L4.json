@@ -125,7 +125,7 @@
    "concept": "A signal is a pulse, and a strong signal is a fast drumbeat of pulses",
    "status": "defined",
    "definition": "A nerve pulse is a tiny wave of electricity that runs along a neuron. All pulses are the same size. A stronger stimulus makes more pulses each second.",
-   "description": "Every sense sends the brain nerve signals. Now look closer at one signal. A neuron is a nerve cell with a long thread. When something sets the neuron off, tiny gates open in the skin of the thread. Charged particles rush in, and that makes a small wave of electricity that runs down the thread. This wave is a nerve pulse. A pulse is like a spark that is either there or not there. It is never half a spark, and it is never a bigger spark. So how does the brain know that a touch is hard and not gentle? In 1926 two scientists, Edgar Adrian and Yngve Zotterman, listened to a single nerve thread from a frog's muscle. When they hung a heavier weight on the muscle, the pulses did not get bigger. They came faster. A light weight gave a few pulses each second. A heavy weight gave many. Edgar Adrian later shared the 1932 Nobel Prize for this kind of work. So the strength of a sense is written in the speed of the drumbeat. What the signal is about is written in which thread it travels along. Your brain holds about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, counted them in 2009 by turning a brain into a soup of cell centres and counting those. Each eye sends about one million threads to the brain, and every thread sends its own drumbeat. Plants also use pulses. A Venus flytrap has trigger hairs inside her trap. One touch on a hair sends one pulse, and nothing happens. A second touch within about 20 seconds makes the trap snap shut. She counts.",
+   "description": "Every sense sends the brain nerve signals. Now look closer at one signal. A neuron is a nerve cell with a long thread. When something sets the neuron off, tiny gates open in the skin of the thread. Charged particles rush in, and that makes a small wave of electricity that runs down the thread. This wave is a nerve pulse. A pulse is like a spark that is either there or not there. It is never half a spark, and it is never a bigger spark. So how does the brain know that a touch is hard and not gentle? In 1926 two scientists, Edgar Adrian and Yngve Zotterman, listened to a single nerve thread from a frog's muscle. When they hung a heavier weight on the muscle, the pulses did not get bigger. They came faster. A light weight gave a few pulses each second. A heavy weight gave many. Edgar Adrian later shared the 1932 Nobel Prize for this kind of work. So the strength of a sense is written in the speed of the drumbeat. What the signal is about is written in which thread it travels along. Your brain holds about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, counted them in 2009 by turning a brain into a soup of cell centres and counting those. Each eye sends about one million threads to the brain, and every thread sends its own drumbeat. Plants also use pulses. A Venus flytrap has trigger hairs inside her trap. One touch on a hair sends one pulse, and nothing happens. A second touch within about 20 seconds makes the trap snap shut. So the trap counts touches. This is how she tells a living insect, which touches the hairs more than once, from a single raindrop.",
    "examples": [
     "Press a fingertip on a table very lightly, then harder. The skin sends the same kind of pulse both times. The harder press only sends more of them each second.",
     "A Venus flytrap shuts only when two touches arrive within about 20 seconds. A raindrop that touches one hair once does not trigger her. She uses pulses to tell prey from rain.",
@@ -442,7 +442,7 @@
    "'From today,' she said, 'there are two rules in this warehouse. Before any lorry leaves, a nose that has just come in from outside sniffs the sacks first. And whoever has been inside all day goes out to the tea stall for ten minutes before deciding anything.'",
    "'And who is the fresh nose?' asked Devika, trying not to smile. 'I come at four every day.' Ammamma laughed for the first time that evening. 'Then you are hired. Your wages are one packet of banana chips.' And that is how a girl of nine became the Honest First Minute of the best spice warehouse in Kochi."
   ],
-  "epiphany": "For the parent: a smell that stays the same fades from notice. Smell receptors send a burst of pulses at the start, then fewer and fewer. Ammamma's nose was not broken. It was tired of the pepper, which had been constant since morning. A nose reports a change, like a new damp smell, but only if the nose has been away or has just arrived. The ten minutes at the tea stall gave her receptors time to recover, so her first sniff back at the warehouse picked up the damp smell. Devika's nose found it first because she had just arrived.",
+  "epiphany": "For the parent: a smell that stays the same fades from notice. Smell receptors send a burst of pulses at the start, then fewer and fewer. Ammamma's nose was not broken. It was tired of the pepper, which had been constant since morning. A nose reports what is new. So a new damp smell is noticed only by a nose that has just arrived. It is also noticed by a nose that has been away for a few minutes. The ten minutes at the tea stall gave her receptors time to recover, so her first sniff back at the warehouse picked up the damp smell. Devika's nose found it first because she had just arrived.",
   "ask": [
    "Why could Devika smell the damp when her grandmother could not?",
    "Why did going to the tea stall help Ammamma's nose?",
@@ -467,9 +467,9 @@
   "three": {
    "who_am_i": "The 'you' who is aware of this moment is always a fraction of a second behind the world, and you still feel that you are right here.",
    "what_is_life": "A Venus flytrap counts two touches before she shuts. A robin senses the Earth's magnetism. Every living being turns the world into pulses, then acts on them.",
-   "what_is_this_world": "A light, a sound and a smell are very different in the world. Inside a body, all three become the same kind of pulse. The world we know is made where the world meets a body."
+   "what_is_this_world": "A light, a sound and a smell are very different in the world. Inside a body, all three become the same kind of pulse. So the world as you know it is built partly by the world and partly by your own body and brain."
   },
-  "thread": "Light, sound, smell and pressure are very different things out in the world. Once they pass through a sense they are all the same: pulses on a thread. A bee, a shark and a child each turn the same world into different pulses, and each is right about what they detect. The world and the body that senses it are not two separate things. Each experience is made from both together, and made a moment late. If everything is one awareness, then the sensing is that awareness meeting itself, slowly, through many different bodies.",
+  "thread": "Light, sound, smell and pressure are very different things out in the world. Once they pass through a sense they are all the same: pulses on a thread. A bee, a shark and a child each turn the same world into different pulses, and each is right about what they detect. Every experience is made from two things together. One is the world, and the other is the body that senses it. The experience is made a moment late. Some traditions, such as Advaita Vedanta, say that everything is one awareness. If that is true, then sensing is that one awareness meeting the world through many different bodies. Each meeting comes a little late.",
   "teachings": [
    {
     "source": "Kena Upanishad 1.2",
@@ -504,8 +504,8 @@
   "practice": {
    "title": "Catch the sound that has already happened",
    "mins": 3,
-   "say": "Sit still and close your eyes. Breathe in slowly three times. Now listen. Every time you notice a sound, whisper the word 'now'. Then ask yourself something. When you whispered, was the sound already finished? Keep listening for one minute, and notice how each sound arrives just after it was made.",
-   "kid": "Sit still. Close your eyes. Listen for a minute. Whisper 'now' at each sound. Was the sound already over?"
+   "say": "Sit still and close your eyes. Breathe in slowly three times. Now listen. Every time you notice a sound, whisper the word 'now'. Your whisper always comes after the sound has begun. This is because the sound has to reach your ear, and the signal has to reach your brain. Can you feel the tiny gap between the sound and your 'now'? Keep listening for one minute.",
+   "kid": "Sit still. Close your eyes. Listen for a minute. Whisper 'now' when you notice each sound. Can you feel a tiny gap between the sound and your 'now'?"
   },
   "ask": [
    "If your 'now' is always a little late, what do you mean when you say 'right now'?",
@@ -753,7 +753,7 @@
      "id": "s5",
      "mins": 3,
      "do": "Add up the scores. Ask each player which idea they found hardest, and which story surprised them most.",
-     "say": "Add up your scores. Which idea was hardest for you? Which story surprised you most? What story could you make up for that idea?",
+     "say": "Add up your scores. Which idea was hardest for you to spot? What story could you make up for that idea?",
      "kid": "Add up your points. Make up your own story for one idea.",
      "ask": [
       {
@@ -1649,7 +1649,7 @@
      "do": "Mark the cardboard strip at the bottom as 0. Use the ruler to make marks every 5 centimetres. Write the times beside the marks. 5 cm is 0.10 seconds. 10 cm is 0.14. 15 cm is 0.17. 20 cm is 0.20. 25 cm is 0.23. 30 cm is 0.25.",
      "say": "Draw a line at the bottom for zero. Mark every 5 centimetres going up. Write the time beside each mark. A thing that falls a short way took a short time. A thing that falls further took longer.",
      "kid": "Mark the strip every 5 centimetres. Write the time beside each mark.",
-     "parent": "These times come from the way things fall: the time for a fall of d metres is the square root of 2d divided by 9.8, rounded. You do not need to explain this yet. The time gaps between the marks get smaller further up the strip, which shows that the time grows more slowly than the distance.",
+     "parent": "These times come from the rule for falling things. To find the time in seconds, first multiply the distance in metres by 2. Then divide by 9.8. Last, take the square root. You do not need to explain this to your child yet. The time gaps between the marks get smaller further up the strip. This shows that a falling ruler speeds up, so the time grows more slowly than the distance.",
      "check": {
       "t": "mcq",
       "q": "On the strip, the marks for 0.10 and 0.14 seconds are 5 centimetres apart. The marks for 0.23 and 0.25 seconds are also 5 centimetres apart. What does that tell you?",
@@ -2749,7 +2749,7 @@
    "art": "A fielder at slip with arms out, and a dotted line showing the path of the ball ahead of her hands."
   },
   {
-   "text": "The noticeable change when someone turns a fan off or a refrigerator stops humming, and the room suddenly feels quiet.",
+   "text": "A room that suddenly feels quiet when someone turns off a fan or a refrigerator stops humming. You did not notice the hum until it stopped.",
    "art": "A kitchen with a fridge and a child holding her breath, listening to the sudden quiet."
   },
   {
@@ -2790,7 +2790,7 @@
  "ask_kids": [
   "What can you hear right now that you did not notice a minute ago?",
   "Which smell in our home would a visitor notice, but we do not?",
-  "If a signal from your toe takes a second to reach your brain, how can you move away from a hot floor so fast?",
+  "A slow pain signal takes about a second to reach the brain. A sharp pain signal takes about a tenth of a second. Which one helps you pull your foot off a hot floor in time?",
   "Why do you think the cook is the last person to notice a smell in the kitchen?",
   "How could you test whether the first bite of food or the last bite tastes stronger?",
   "Do you think a bee's world is smaller, bigger or just different from yours?",

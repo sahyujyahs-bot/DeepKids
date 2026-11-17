@@ -43,7 +43,7 @@
     },
     {
       "term": "Ear crystals",
-      "meaning": "Tiny crystals of calcium carbonate, the same stuff as chalk, resting on jelly over hair cells in the inner ear. Gravity pulls on them, so they tell you which way is down. Scientists call them otoliths.",
+      "meaning": "Tiny crystals of calcium carbonate, the same material that chalk is made of, resting on jelly over hair cells in the inner ear. Gravity pulls on them, so they tell you which way is down. Scientists call them otoliths.",
       "example": "When you tilt your head, the crystals slide a little and bend the hairs under them.",
       "art": "A magnified layer of jelly with white crystals on top and hairs poking up from below, tilted to one side."
     },
@@ -211,7 +211,7 @@
       "concept": "A fingertip that steadies a whole body",
       "status": "defined",
       "definition": "Resting one fingertip on a still object, with a force of less than about 1 newton (about the weight of a small tomato), makes people sway less, even with their eyes shut. The touch gives the brain a fourth source of information.",
-      "description": "In 1994, two researchers, John Jeka and James Lackner, asked people to stand in a difficult pose, with their feet in a line, one in front of the other. They found that a fingertip resting on a rail steadied people a great deal, even when the force of the touch was less than 1 newton. One newton is about the weight of a small tomato. That is far too small to hold up a standing person. So the touch does not work as a prop. It works as a sense. A still wall under the fingertip tells the brain exactly how the body is moving compared with the room. Studies since then have reported the same in older people, and a walking stick held lightly can help in the same way. A stick that you lean on is a support. A stick that you only touch is a sensor.",
+      "description": "In 1994, two researchers, John Jeka and James Lackner, asked people to stand in a difficult pose, with their feet in a line, one in front of the other. They found that a fingertip resting on a rail steadied people a great deal, even when the force of the touch was less than 1 newton. One newton is about the weight of a small tomato. That is far too small to hold up a standing person. So the touch does not work as a prop. It works as a sense. A still wall under the fingertip tells the brain exactly how the body is moving compared with the room. Studies since then have reported the same in older people, and a walking stick held lightly can help in the same way. A stick that you lean on holds some of your weight, so it works as a support. A stick that you only touch holds none of your weight. But it tells your brain where the ground is, so it works as a sensor.",
       "examples": [
         "Resting one fingertip on a wall helps you stand on one foot with your eyes shut.",
         "A person who walks with a stick touches the ground lightly, as a cat uses her whiskers.",
@@ -267,7 +267,7 @@
       "concept": "Keeping warm and cool: sensing is half of a loop",
       "status": "defined",
       "definition": "Your body keeps its core temperature close to 37 degrees Celsius with a feedback loop. Sensors in the skin and deep in the body measure the temperature, and the brain makes the body warm itself or cool itself.",
-      "description": "A part of the brain called the hypothalamus works like a thermostat. It gets reports from temperature sensors in the skin and from the blood passing through it. If your core gets too warm, the brain makes you sweat. Sweat takes heat away as it dries. The brain also widens the blood vessels near the skin, so more heat can leave. If your core gets too cool, the brain narrows those blood vessels, makes your muscles shiver to make heat, and makes the tiny muscles at the base of each hair pull, which gives you goosebumps. Then the sensors check the result again. When you have a fever, the loop is not broken. The brain has raised the level it aims for, so you feel cold and shiver until you reach the higher number. The senses in this loop do more than tell you the temperature. The body uses them to correct it.",
+      "description": "A part of the brain called the hypothalamus works like a thermostat. It gets reports from temperature sensors in the skin and from the blood passing through it. If your core gets too warm, the brain makes you sweat. Sweat takes heat away as it dries. The brain also widens the blood vessels near the skin, so more heat can leave. If your core gets too cool, the brain narrows those blood vessels, makes your muscles shiver to make heat, and makes the tiny muscles at the base of each hair pull, which gives you goosebumps. Then the sensors check the result again. When you have a fever, the loop is not broken. The brain has raised the level it aims for, so you feel cold and shiver until you reach the higher temperature. The senses in this loop do more than report the temperature. The brain also uses their reports to bring the temperature back to where it should be.",
       "examples": [
         "After running, you sweat and your face goes red, as the loop sends heat out.",
         "On a cold morning, you shiver and your hairs stand up.",
@@ -451,7 +451,7 @@
       "claim": "A fever means the body has lost control of its temperature.",
       "who": "Many worried people, when a child feels very hot.",
       "for": "The child is hot and uncomfortable, and the temperature is not normal.",
-      "against": "In a fever, the brain's thermostat is set higher on purpose, so the body shivers to reach the higher number. The control loop works. A very high fever or a long one still needs a doctor.",
+      "against": "In a fever, the brain's thermostat is set higher on purpose, so the body shivers to reach the higher temperature. The control loop works. A very high fever or a long one still needs a doctor.",
       "status": "rejected",
       "context": "This card is about what is really happening in the body during a fever."
     },
@@ -2150,7 +2150,7 @@
               ]
             }
           ],
-          "parent": "People over 60, and anyone who feels unsteady, should do the eyes-open tests on the bare floor only, and hold a counter with one hand. They should skip the blanket and the eyes-shut tests. In the average, count only the people who did that test. One child works with a parent. With two to four children, one is the spotter, one times, and one writes in the table. Do not let anyone do a test that makes them anxious. Write down what each person says about how it felt.",
+          "parent": "People over 60, and anyone who feels unsteady, should do the eyes-open tests on the bare floor only, and hold a kitchen counter with one hand. They should skip the blanket and the eyes-shut tests. In the average, count only the people who did that test. One child works with a parent. With two to four children, one is the spotter, one times, and one writes in the table. Do not let anyone do a test that makes them anxious. Write down what each person says about how it felt.",
           "context": "This is the first day of the Family Balance Lab. You test your first people."
         },
         {
@@ -2191,7 +2191,7 @@
       "title": "Night Path for Paati: help a grandparent walk safely in the dark",
       "mins": 40,
       "safety": "This is a model path in a room, tested by a child with a grown-up beside. Keep the floor clear. Use a torch or a plug-in night light, never a candle or a lamp with a flame. Nothing is stuck on a floor where a real grandparent walks until a grown-up has checked that it cannot slip or trip anyone. Walk slowly, with a grown-up's hand ready.",
-      "problem": "A grandparent feels unsteady in the dark. Their feet tell them less than they used to. They need to walk from the bed to the toilet at night, without waking anyone and without falling. Design a night path that gives all three balance helpers, and a touch helper, what they need.",
+      "problem": "A grandparent feels unsteady in the dark. Their feet tell them less than they used to. They need to walk from the bed to the toilet at night, without waking anyone and without falling. Design a night path with three kinds of help. It should help the eyes see the floor. It should help the feet feel the way. It should also give a fingertip something still to touch.",
       "constraints": [
         "It must cost very little and be easy to make at home.",
         "It must have no flame, no loose wires and nothing to trip on.",
@@ -2713,7 +2713,7 @@
           "t": "truefalse",
           "p": "A fever means the body has lost control of its temperature.",
           "a": false,
-          "why": "False. In a fever, the brain's thermostat is set higher on purpose, so the body shivers until it reaches the higher number. The control loop is working, though a very high or long fever needs a doctor.",
+          "why": "False. In a fever, the brain's thermostat is set higher on purpose, so the body shivers until it reaches the higher temperature. The control loop is working, though a very high or long fever needs a doctor.",
           "outcome": 4
         },
         {
@@ -3597,7 +3597,7 @@
     "three": {
       "who_am_i": "You feel one thing: 'I am upright'. You do not feel your eyes, inner ears and legs reporting one by one, because your brain builds that one feeling from all of them at once.",
       "what_is_life": "A fly steers with two tiny clubs, a python hunts by heat, and a fish balances with stones in her ears. Each living being has the senses that suit the life they live.",
-      "what_is_this_world": "Down is real, but nobody feels it directly. A fish and a child each find down in a different way, by stones or by crystals, and a fly feels its turning with clubs. The same world pushes on all of them."
+      "what_is_this_world": "Down is real, but there is no single organ that senses it. A fish finds down with ear stones. A child finds down with ear crystals. A fly feels when she turns, using her clubs. The same world pushes on all of them."
     },
     "thread": "Gravity pulls on everything, and turning pushes on everything. A crystal in your ear, a stone in a fish's ear and a swinging club in a fly are all small things that gravity or turning pushes, and a nerve feels the push. Your eyes add what they see, and your feet add what the ground feels like. The brain joins all of these into one feeling. A body stays upright by noticing the pushes and pulls of the world and correcting for them, again and again.",
     "teachings": [
@@ -3633,8 +3633,8 @@
     "practice": {
       "title": "Stand like a tree in the wind",
       "mins": 3,
-      "say": "Stand with your feet a little apart and your eyes open. Let your arms hang. Feel the small sways, forwards and back. Do not try to stop them. Now shut your eyes for ten slow breaths. Feel your feet doing the work. Open your eyes and notice what changes.",
-      "kid": "Stand with your feet apart. Let your arms hang. Feel the tiny sways. Shut your eyes for ten breaths. Open them. What changed?"
+      "say": "Stand with your feet a little apart and your eyes open. Let your arms hang. Feel the small sways, forwards and back. Do not try to stop them. Now shut your eyes for ten slow breaths. Feel your feet doing more of the work. Open your eyes. Did you sway more with your eyes shut or with them open? Which balance helper was missing when your eyes were shut?",
+      "kid": "Stand with your feet apart. Let your arms hang. Feel the tiny sways. Shut your eyes for ten breaths. Open them. Did you sway more with your eyes shut?"
     },
     "ask": [
       "Which of your balance helpers do you feel the most? Do you ever feel them one at a time?",

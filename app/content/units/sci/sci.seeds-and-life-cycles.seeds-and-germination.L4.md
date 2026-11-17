@@ -31,18 +31,18 @@
 - **Moisture content**: How much of a seed's weight is water. A dry seed in a jar might be about one-tenth water. *e.g.* Chana kept in a damp monsoon kitchen slowly takes in water, and the moisture content of the chana rises.
 - **Seed bank**: A safe store of many kinds of seeds, kept dry and cold so that they stay alive for many years. *e.g.* India has a national seed bank in New Delhi. Farmers like Rahibai Popere keep village seed banks of old local crops.
 - **Dry-keeping seed**: A seed that stays alive when dried and kept cold. Scientists call this an orthodox seed. *e.g.* Moong, chana, wheat and rice can be dried and stored for years.
-- **Wet-keeping seed**: A kind of seed that dies when the seed dries out, so the seed must be sown fresh. Scientists call this a recalcitrant seed. *e.g.* Jackfruit and cocoa seeds are wet-keeping seeds.
+- **Wet-keeping seed**: A kind of seed that dies on drying out, so these seeds must be sown fresh. Scientists call this a recalcitrant seed. *e.g.* Jackfruit and cocoa seeds are wet-keeping seeds.
 
 ## Explanations
 ### A germination test: counting how many seeds wake · *defined*
 **Definition:** A germination test counts how many seeds in a sample sprout. The count is turned into a germination percentage, which is how many seeds out of every 100 would sprout.
 
-Seed sellers and seed labs test their seeds before they sell them. They put seeds on damp paper in warm conditions and count the ones with a root. If 24 of 30 seeds sprout, that is 24 out of 30. Share 30 into three lots of 10, and 24 becomes 8 out of every 10. That is 80 out of every 100, or 80 percent. A seed packet in India usually carries this number, so a farmer knows how many seeds to sow. If the packet says 80 percent and you want 40 plants, you sow 50 seeds. A real seed lab does not test just a few seeds. Many labs test four lots of 100 seeds, and compare the lots. A small test can mislead, because one or two odd seeds change a small count a lot.
+Seed sellers and seed labs test their seeds before they sell them. They put seeds on damp paper in warm conditions and count the ones with a root. Suppose 24 of 30 seeds sprout. 30 seeds make three lots of 10, and 24 makes three lots of 8, so 8 out of every 10 seeds sprouted. That is 80 out of every 100, or 80 percent. A seed packet in India usually carries this number, so a farmer knows how many seeds to sow. If the packet says 80 percent and you want 40 plants, you sow 50 seeds. A real seed lab does not test just a few seeds. Many labs test four lots of 100 seeds, and compare the lots. A small test can mislead, because one or two odd seeds change a small count a lot.
 - e.g. If 9 of 10 seeds sprout, that is 90 percent. If 18 of 20 sprout, that is also 90 percent.
 - e.g. A packet says 80 percent. To get 40 plants you sow 50 seeds, because 8 out of every 10 sprout.
 - e.g. A seed lab tests 400 seeds, in four lots of 100, so that one odd lot does not fool them.
 ### Seeds in one packet do not wake together · *defined*
-**Definition:** Seeds from the same plant, in the same packet, wake at different times. A few sprout early, most sprout in the middle and a few sprout late. If you plot the running total against time, the line is shaped like a lazy letter S.
+**Definition:** Seeds from the same plant, in the same packet, wake at different times. A few sprout early, most sprout in the middle and a few sprout late. The running total is the number of seeds that have sprouted so far. If you plot the running total against time, the line looks like a letter S stretched out sideways, which people call a lazy S.
 
 Every seed is a little different from every other seed. One was a bit bigger, one sat nearer the middle of the pod, one has a coat that is a little thicker. So water reaches the baby plant at different speeds, and the baby plants are ready at different speeds. You see this when you count a plate of moong every few hours. The running total starts slowly, speeds up in the middle and slows down at the end. Scientists call this a germination curve. The time when half the seeds have sprouted is a handy number. It tells you how fast the batch is. The gap between the first and last seed tells you how spread out the batch is. Old seeds are usually slower and more spread out than fresh seeds.
 - e.g. On a plate of 30 moong, 4 might have roots at 12 hours, 15 at 24 hours, 24 at 36 hours and 28 at 48 hours.
@@ -65,7 +65,7 @@ Moong has almost no dormancy, which is why moong sprouts so quickly. Many wild s
 ### The keys that unlock a sleeping seed · *defined*
 **Definition:** Different seeds wait for different signs. The sign might be a thin spot in the coat, a spell of cold, a flash of light, smoke from a fire, or a big rain. A sign that wakes a seed is like a key.
 
-A hard coat can be thinned by sandpaper, by slowly rotting in the soil, or by passing through the gut of a bird or a bat. A spell of cold tells apple seeds that winter is over. Light tells tiny seeds that they are near the surface, so their small food store will last until the shoot reaches the sun. Smoke tells some Australian and South African seeds that a fire has just cleared the land and given them room. A big rain tells some desert wildflower seeds that the soil is wet deep down. In the 1940s, a plant scientist called Frits Went suggested that seeds of some desert wildflowers have a chemical in the coat that only a large rain washes away. A small shower does not wash it away, so the seeds stay asleep. A small shower would wet the soil for only a day or two. The keys are all different. But each one is a sign that tells the seed that a good time has come.
+A hard coat can be thinned by sandpaper, by slowly rotting in the soil, or by passing through the gut of a bird or a bat. A spell of cold tells apple seeds that winter is over. Light tells tiny seeds that they are near the surface, so their small food store will last until the shoot reaches the sun. Smoke tells some Australian and South African seeds that a fire has just cleared the land and given them room. A big rain tells some desert wildflower seeds that the soil is wet deep down. In the 1940s, a plant scientist called Frits Went suggested that seeds of some desert wildflowers have a chemical in the coat that only a large rain washes away. A small shower wets the soil for only a day or two. It does not wash the chemical away, so the seeds stay asleep. The keys are all different. But each one is a sign that tells the seed that a good time has come.
 - e.g. Tamarind: a rough rub thins the coat, so water can get in.
 - e.g. Apple: weeks of cold tell the seed that winter has passed.
 - e.g. Some desert wildflowers: a big rain washes away the sleep chemical.
@@ -74,8 +74,8 @@ Inside a seed, two plant hormones pull in opposite directions. Abscisic acid tel
 - e.g. A seed that makes more of the sleep messenger stays asleep longer.
 - e.g. When a barley grain wakes, the gibberellin goes from the baby plant to the food store, and the food store starts to work.
 - e.g. Gardeners sometimes soak stubborn seeds in a weak gibberellin solution, because it works as a wake message.
-- **Most plant scientists:** The balance of the two messengers is the main switch. It is a chemical sum that the seed does by themself.
-- **Some plant biologists:** The seed is deciding. The seed senses many signs, remembers the cold they felt, and acts at the right time. They think this counts as a simple kind of thinking without a brain.
+- **Most plant scientists:** The balance of the two messengers is the main switch. It is a chemical sum, and the seed's own chemistry does it.
+- **Some plant biologists:** The seed is deciding. The seed senses many signs, remembers the cold, and acts at the right time. These biologists say this counts as a simple kind of thinking without a brain.
 ### How deep can a seed be sown? The food store sets the limit · *defined*
 **Definition:** A shoot has to push up through the soil before the shoot can see light. The shoot lives on the food in the seed all that time. So the bigger the seed's food store, the deeper the seed can be sown.
 
@@ -100,7 +100,7 @@ In moong and rajma, the stem just below the seed leaves, called the hypocotyl, b
 ### The pale search: a seedling that cannot find light · *defined*
 **Definition:** A seedling grown in the dark stretches fast, stays pale and thin, and keeps the tiny leaves folded. The seedling is searching for light and spending their food to do it. Scientists call this an etiolated seedling.
 
-In the dark, a seedling puts nearly everything into growing longer. Their stem grows long and thin, their leaves stay small and folded, and the hook at the top stays closed. They make almost no chlorophyll, the green substance that catches sunlight, so they are pale yellow or white. The long stem is the best use of their food. The sooner the top reaches the surface, the sooner they can make new food. Bean sprouts are sold long and white because they are grown in the dark on purpose. If the seedling reaches light, things change within hours. The stem slows down, the hook opens, the leaves unfold and chlorophyll starts to form, so they turn green. If they do not reach light before the food runs out, they cannot recover.
+In the dark, a seedling puts nearly everything into growing longer. Their stem grows long and thin, their leaves stay small and folded, and the hook at the top stays closed. They make almost no chlorophyll, the green substance that catches sunlight, so they are pale yellow or white. Growing long is the best use of their food. The sooner the top reaches the surface, the sooner they can make new food. Bean sprouts are sold long and white because they are grown in the dark on purpose. If the seedling reaches light, things change within hours. The stem slows down, the hook opens, the leaves unfold and chlorophyll starts to form, so they turn green. If they do not reach light before the food runs out, they cannot recover.
 - e.g. Moong grown in a dark box for five days is long, thin and pale.
 - e.g. The same moong in a bright window is shorter, thicker and green, with open leaves.
 - e.g. A potato in a dark cupboard sends out long, pale shoots that search for light.
@@ -110,11 +110,11 @@ A seedling has light sensors, which are proteins that change shape when light hi
 - e.g. A seedling under the shade of a bigger plant stretches taller, as if she senses the shade.
 - e.g. A seedling in a window leans towards the glass.
 - **Most plant biologists:** A seedling has sensors and chemical switches that respond to light. The pale search is a built-in programme, and light turns off the pale search programme and turns on the green programme.
-- **Some plant scientists:** A seedling that senses shade, light and direction, and then changes how they grow, is making a choice. They say this is a simple kind of thinking, done by cells without a brain.
+- **Some plant scientists:** A seedling senses shade, light and direction, and then changes how they grow. These scientists say that this is making a choice. They call it a simple kind of thinking, done by cells without a brain.
 ### How seeds keep for years: dry and cold slow the ageing · *defined*
 **Definition:** Seeds slowly age and get damaged inside, even when they are asleep. Dry and cold slow the damage. A drier, colder seed lives longer.
 
-A sleeping seed still uses a tiny bit of food and slowly wears out. Water is what drives the wearing out, so a very dry seed lasts longer. Warmth speeds it up, so a cold seed lasts longer too. An American seed scientist, James Harrington, wrote down two rough rules of thumb. For each 1 percent less water in a seed, the seed lives about twice as long. For each 5 degrees Celsius or so colder, the seed lives about twice as long. They only work within limits, but they show why seed banks dry their seeds and freeze them. India's national seed bank in New Delhi keeps crop seeds in very cold rooms at around minus 20 degrees Celsius. At home, a monsoon kitchen is bad for seeds, because the air is damp and warm. A tightly closed jar with a dry spoon of rice or a silica packet keeps the seeds much drier.
+A sleeping seed still uses a tiny bit of food and slowly wears out. Water is what drives the wearing out, so a very dry seed lasts longer. Warmth speeds it up, so a cold seed lasts longer too. An American seed scientist, James Harrington, wrote down two rough rules of thumb. For each 1 percent less water in a seed, the seed lives about twice as long. For each 5 degrees Celsius or so colder, the seed lives about twice as long. These rules only work within limits, but they show why seed banks dry their seeds and freeze them. India's national seed bank in New Delhi keeps crop seeds in very cold rooms at around minus 20 degrees Celsius. At home, a monsoon kitchen is bad for seeds, because the air is damp and warm. A tightly closed jar with a spoon of dry rice or a silica packet inside keeps the seeds much drier.
 - e.g. A sealed jar of dry chana in a cool cupboard keeps the seeds sprouting for years.
 - e.g. The same chana in an open bowl in a monsoon kitchen can mould, or sprout too early.
 - e.g. Seed banks freeze seeds because every drop of 5 degrees Celsius roughly doubles the time that the seed stays alive.
@@ -151,7 +151,7 @@ Seed scientists find that the behaviour of a seed depends on the past. Seeds tha
 - **The seeds that wake first are the strongest, and the late ones are weak.** (Some farmers and some seed testers.; *debated*)  
   For: In tests of seed vigour, seeds that sprout fast often grow into bigger seedlings.  
   Against: In a dry year, the early seedlings may all die and the late ones may be the only survivors. Fast and slow seeds are each good in different weather. Strong or weak depends on the year.
-- **The deeper you sow a seed, the safer they are.** (Many beginner gardeners.; *rejected*)  
+- **The deeper you sow a seed, the safer the seed is.** (Many beginner gardeners.; *rejected*)  
   For: Deep soil is cooler and wetter, and birds and ants cannot find seeds easily.  
   Against: A small seed has only a small food store. If the seed is buried too deep, the shoot uses up the food before the shoot reaches the light. A seed should be sown about two or three times as deep as the seed is wide.
 - **Soaking any seed in very hot water makes the seed sprout faster.** (Some gardeners.; *rejected*)  
@@ -164,23 +164,23 @@ Seed scientists find that the behaviour of a seed depends on the past. Seeds tha
 ## Roots
 We counted how seeds wake, hour by hour, and found that seeds from one packet do not wake together. Now we ask what that spread in time tells us about ourselves and the world.
 
-**Deep truth.** On one plate, thirty seeds from one packet woke over several days, not in one hour. The first and the last were far apart. If all had woken together, one dry spell could end the lot. So the spread in time is part of how a group of seeds survives.  
+**Deep truth.** In the Waking Curve test, thirty moong seeds from one packet lay on one wet cloth. They woke over several days, not in one hour. The first and the last were far apart. If all had woken together, one dry spell could end the lot. So the spread in time is part of how a group of seeds survives.  
 *Habit it breaks:* We say a packet of seeds is 'the same', and we call the late ones slow, weak or dead. But the difference between seeds is not a fault. It is what keeps the group alive when the weather turns.  
 *Evidence:* In the waking-curve test, seeds from one packet on one cloth sprouted over many hours, so the running total climbed slowly and not in one jump. In pond mud that Charles Darwin kept covered, 537 plants came up over six months. If your own plate looked different, write down what you saw.
 
 - *who am i:* Children of the same age do not all learn to walk in the same week. Some walk at nine months and some at eighteen months, and both are healthy. Differences in timing are normal in living beings.
 - *what is life:* A sleeping seed is alive. Living does not always look like growing. Sometimes living means waiting, and a late seed has not failed.
-- *what is this world:* Nobody can predict the weather for a whole season. A group that spreads out in time lives through bad luck that would end a group that all did the same thing.
+- *what is this world:* Nobody can predict the weather for a whole season. If every member of a group does the same thing at the same time, one piece of bad luck can end them all. A group whose members act at different times lives through it.
 
-One plant made all thirty seeds and packed them in one pod. They share nearly the same instructions, and yet each seed wakes in their own time. So one source gives rise to many differences, and the group needs all of them. A field of bajra is one living thing made of many small wakings and waitings. When one part fails, another part is ready.
+The thirty seeds came from the same packet and share nearly the same instructions. Yet each seed wakes in their own time. So seeds from one source turn out different, and the group needs all of those differences. A field of bajra works like one living thing made of many seeds, some waking and some waiting. When one part fails, another part is ready.
 
 - **Tao Te Ching 64:** A tree too big to hug grows from a tiny shoot. A journey of a thousand miles begins where you stand. (A whole field of bajra begins as a few seeds meeting water in the sand. The seeds that start late are still beginnings.)
-- **Qur'an 22:5:** You see the earth dry and lifeless. Then when rain falls on it, it stirs, swells and puts out every kind of beautiful growth. (Dry sand holds seeds that stir and swell when enough rain reaches them. This is what the seeds in the Thar do after the second rain.)
+- **Qur'an 22:5:** You see the earth dry and lifeless. Then when rain falls on it, it stirs, swells and puts out every kind of beautiful growth. (Dry sand holds seeds that stir and swell when enough rain reaches them. In the story The Second Rain, this is what the bajra seeds in the Thar desert do after the second rain.)
 - **A doha of Kabir, a poet of North India in the 1400s:** Go slowly, my mind, for everything happens in its own time. The gardener may water with a hundred pots, but the fruit comes only when its season comes. (You cannot make a seed wake by pushing. Each seed has their own time, and watering more does not hurry the late ones.)
 - Science (settled): In places where rain is unpredictable, plants that wake only part of their seeds each year leave more young over many years. Mathematics by Dan Cohen in 1966 showed why, and many desert plants behave this way.
 - Science (open): How a seed adds up water, cold, light and chemical signs, and decides to wake, is still being worked out.
 - Other view, Some evolutionary biologists: Part of the spread in wake-up times may be an accident. No two seeds can be built exactly alike, and not every difference has a purpose. Saying that seeds spread their risk puts a plan where there may only be chance, and it is hard to tell which is which.
-- Practice, Wait like a seed (3 min): Hold one dry seed in the palm of your hand. Close your fingers gently. Breathe in slowly while you count to four. Breathe out slowly while you count to four. Do this ten times. Think of yourself as the seed, waiting for the sign. Do not hurry. Then open your hand and look at the seed. What sign would you wait for?
+- Practice, Wait like a seed (3 min): Hold one dry seed in the palm of your hand. Close your fingers gently. Breathe in slowly while you count to four. Breathe out slowly while you count to four. Do this ten times. Think of yourself as the seed, waiting for the sign. Do not hurry. Then open your hand and look at the seed. A seed waits for a sign that the time is right. Can you name two signs that different seeds wait for?
 - Ask: Is a seed that has not woken yet late, or is she right on her own time?
 - Ask: If a group needs its slow members as well as its quick ones, is 'late' a fair word?
 - Ask: Are the thirty seeds on your plate thirty separate seeds, or one crop that wakes in thirty ways?
@@ -264,7 +264,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Child mode:* Play the last six rounds. Then count your points.
   - Note: A seed still asleep at the end is worth 1 point. A growing plant is worth 2. A lost seed is worth 0. Check each player's total before talking.
 - **s5 (4 min)**  
-  *Parent does:* Look at who scored the most. Ask the questions below. Then ask what a seed might gain by waking only some of the seeds each year.  
+  *Parent does:* Look at who scored the most. Ask the questions below. Then ask what a plant might gain if only some of their seeds wake each year.  
   *Parent says:* Who won? Did the player who woke the most seeds win? What did the winner do differently?  
   *Child mode:* Who won? Did the winner wake the most seeds? Talk about what they did.
   - Ask: What did the winner do that the others did not? (good: They woke some seeds and kept some asleep.; They waited for good signs.; They did not wake everything at once.)
@@ -272,7 +272,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   - Think: A real plant cannot read a sign card. How could a plant spread their seeds over time without reading signs?
 ### g2 · Wake-Up Keys: match each seed to the key that wakes them (15 min)
 - **rules:** Cut out the 20 cards. Shuffle them and lay them face down in four rows of five.; On your turn, turn over any two cards and show them to everyone.; If one is a seed and the other is the key that wakes that seed, you keep both. Say in one sentence why they go together. Then take another turn.; If they do not match, turn both cards face down again in the same places. The next player has a turn.; Two seed cards, or two key cards, never match.; When all the cards are taken, the player with the most pairs wins. Ties share the win.; Playing alone: count how many turns you need to find all ten pairs. Write it on the score sheet. Next time, try to beat it.
-- **Printable cards: 20 cards to cut out: 10 seed cards and 10 key cards:** SEED: A tamarind seed, with a coat so hard that water can hardly get in.; KEY: A rough rub that thins the coat.; SEED: An apple seed, which stays asleep through autumn.; KEY: Weeks of cold, like a long winter.; SEED: A tiny lettuce seed, with almost no food inside.; KEY: A flash of light, which says the seed is near the top of the soil.; SEED: A seed of a bush plant in Australia, lying in burnt ground.; KEY: Chemicals in smoke from a fire.; SEED: A desert wildflower seed with a sleep chemical in the coat.; KEY: A big rain that washes the chemical away.; SEED: A moong seed in a kitchen jar.; KEY: Just water and warmth. The seed wakes in a day or two.; SEED: A seed inside a ripe fruit that a bird has eaten.; KEY: A trip through the bird, which softens the coat and carries the seed away.; SEED: A mango stone, which dies if the seed dries out.; KEY: Fresh, damp soil, soon after the fruit falls.; SEED: A paddy seed in a flooded field, where there is little air.; KEY: A shoot that grows up fast to reach the air, like a snorkel.; SEED: A bajra seed in dry desert sand.; KEY: A second rain that is big enough to reach the seed.
+- **Printable cards: 20 cards to cut out: 10 seed cards and 10 key cards:** SEED: A tamarind seed, with a coat so hard that water can hardly get in.; KEY: A rough rub that thins the coat.; SEED: An apple seed, which stays asleep through autumn.; KEY: Weeks of cold, like a long winter.; SEED: A tiny lettuce seed, with almost no food inside.; KEY: A flash of light, which says the seed is near the top of the soil.; SEED: A seed of a bush plant in Australia, lying in burnt ground.; KEY: Chemicals in smoke from a fire.; SEED: A desert wildflower seed with a sleep chemical in the coat.; KEY: A big rain that washes the chemical away.; SEED: A moong seed in a kitchen jar.; KEY: Just water and warmth. The seed wakes in a day or two.; SEED: A seed inside a ripe fruit that a bird has eaten.; KEY: A trip through the bird, which softens the coat and carries the seed away.; SEED: A mango stone, which dies if the seed dries out.; KEY: Fresh, damp soil, soon after the fruit falls.; SEED: A paddy seed in a flooded field, where there is little air.; KEY: A first shoot that grows up fast through the water to reach the air.; SEED: A bajra seed in dry desert sand.; KEY: A second rain that is big enough to reach the seed.
 - **Printable score sheet: A score sheet for pairs and turns:** Player | Pairs found | Turns taken (for playing alone) | My best number of turns so far
 - **s1 (3 min)**  
   *Parent does:* Look through all 20 cards face up together for two minutes. Then shuffle them and lay them face down in four rows of five.  
@@ -291,17 +291,17 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Child mode:* Turn over two cards. Find a seed and the matching key. Say why they match.
   - Check: Which key helps a desert wildflower seed that has a sleep chemical in the coat? → **A big rain that washes the chemical away**
 - **s4 (3 min)**  
-  *Parent does:* Lay the ten pairs in a row. Ask your child to sort the keys into three groups. The groups are water, time and cold, and other living things.  
+  *Parent does:* Lay the ten pairs in a row. Ask your child to sort the keys into three groups. The three groups are: water, time or cold, and other living things.  
   *Parent says:* Look at all ten keys. Which ones are about water? Which are about time or cold? Which depend on other living things?  
-  *Child mode:* Sort the ten keys into three groups. Water. Time or cold. Other living things.
-  - Note: There is no single right sort. Rain, the bird's gut and the rub can all be seen as ways of letting in water. Accept any group a child can explain.
-  - Think: Different seeds wait for different keys. Is waiting for a key the same as being asleep?
+  *Child mode:* Sort the ten keys into three groups: water, time or cold, and other living things.
+  - Note: There is no single right sort. Rain, the bird's gut and the rub can all be seen as ways of letting in water. Accept any group a child can explain. For the last question, the answer is that the baby plant is alive the whole time and is simply waiting. The baby plant starts to grow as soon as the right key arrives.
+  - Think: A seed waiting for its key is not dead. What is the baby plant inside doing while the seed waits?
 
 ## Experiments
 ### e1 · The Waking Curve: do all the seeds in a packet wake together? (47 min, 5 days)
 - **question:** Do 30 seeds on one wet cloth all wake at the same time? If not, how far apart are the first and the last?
 - **predict:** Before you start, guess two things. How many hours will the first seed take to show a root? Will all 30 wake in the same hour, or one by one? Say why you think so.
-- **fair test:** Both plates get the same kind of moong, the same number of seeds, the same kind of cloth, the same water and the same warm place. Only the age of the seeds is different, or nothing is different if you have just one packet. You count at the same hours every time. A seed counts only when you can see a white root.
+- **fair test:** Plate A gets seeds from one packet. Plate B gets seeds from an older packet, or from the same packet if you have only one. Both plates get the same kind of moong, the same number of seeds, the same kind of cloth, the same water and the same warm place. So only the age of the seeds is different, or nothing is different if you have just one packet. You count at the same hours every time. A seed counts only when you can see a white root.
 - **safety:** Do not eat the seeds from this test. Wash your hands after touching damp seeds. Throw away any seeds that smell sour.
 - **record:** Fill in the table at every count. Write the running total each time, which is all the seeds with a root so far. Then draw a line graph with hours along the bottom and seeds with a root up the side. Mark the hour when half of the seeds, 15, had a root.
 - **results table:** Hours since the seeds got wet | Plate A: seeds with a root so far | Plate B: seeds with a root so far | Plate A: new seeds with a root since last count
@@ -309,7 +309,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **s1 (5 min)**  
   *Parent does:* Show your child the seeds, the plates and the cloths. Ask for both guesses and the reasons. Write the guesses at the top of the table.  
   *Parent says:* We will count when thirty moong seeds wake up. How long will the first one take? Will all thirty wake at the same time? Why do you think so?  
-  *Child mode:* Thirty seeds on one wet cloth. Will they all wake together? Why?
+  *Child mode:* Thirty seeds lie on one wet cloth. Will they all wake together? Why do you think so?
   - Ask: Why do you think they will wake together, or one by one? (good: They are all from one packet, so they are the same.; Some seeds are bigger, so they may be slower.; Some may be older or have a damaged coat.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write both guesses in the table so you can look back at them on the last day.
 - **s2 (10 min)**  
@@ -327,7 +327,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **s4 (6 min)**  
   *Parent does:* Count both plates at 36 hours and at 48 hours. Write the numbers. Add a few drops of water if the cloth is dry.  
   *Parent says:* Is the number still growing fast? Or is it slowing down? How can you tell?  
-  *Child mode:* Count again at 36 hours and 48 hours. Is it growing slower now?
+  *Child mode:* Count again at 36 hours and 48 hours. Is the number growing more slowly now?
   - Wait: Count at 36 hours and at 48 hours
 - **s5 (6 min)**  
   *Parent does:* Count both plates at 72 hours and at 96 hours. Write the numbers. Note how many seeds still have no root.  
@@ -340,13 +340,13 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. Draw a line graph. Put hours along the bottom and seeds with a root up the side. 2. Mark a dot for each count on plate A. 3. Join the dots. 4. Mark the hour when 15 seeds had a root. 5. Do plate B in another colour.  
   *Parent says:* Look at the shape of the line. Where is it steepest? Where is it flat? What does a steep line mean?  
   *Child mode:* Draw the graph. Join the dots. Mark where half the seeds had woken.
-  - Note: The line should be an S shape: slow, then fast, then slow. If your line was a straight stair, that is fine. Write down what you actually found.
+  - Note: The line should be an S shape: slow, then fast, then slow. If your line looks more like a straight set of steps, that is fine. Write down what you actually found.
   - Check: On a waking curve, the line climbs steeply in the middle and then goes flat at the end. What does the flat end mean? → **Almost no new seeds are waking, because most have woken already**
 - **s7 (6 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then compare plate A with plate B.  
   *Parent says:* What do you think about seeds from one packet? What did you see in your counts? Why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why. Compare plates A and B.
-  - Note: A good answer sounds like this. What I think: seeds from one packet wake at different times. What I saw (made-up numbers): 4 seeds had a root at 12 hours, 15 at 24 hours and 29 by 96 hours, and the last one took four days. Why: each seed is a little different, so water and warmth reach each baby plant at different speeds. The old packet is usually slower and ends with fewer. If plates A and B were close but not equal, say that too. It shows how much a test can wobble.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened. Then compare plates A and B.
+  - Note: A good answer sounds like this. What I think: seeds from one packet wake at different times. What I saw (made-up numbers): 4 seeds had a root at 12 hours, 15 at 24 hours and 29 by 96 hours, and the last one took four days. Why: each seed is a little different, so water and warmth reach each baby plant at different speeds. Seeds from the older packet are usually slower, and fewer of them sprout. If plates A and B were close but not equal, say that too. It shows how much two tests of the same seeds can differ.
   - Think: If all thirty seeds had woken in the same hour, what could go wrong in a field?
 ### e2 · How Deep? A tiny seed and a big seed at three depths (49 min, 9 days)
 - **question:** How deep can a tiny mustard seed and a big chana be sown and still reach the top?
@@ -359,7 +359,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **s1 (5 min)**  
   *Parent does:* Show your child the mustard seeds and the chana. Ask for guesses and reasons. Write the guesses in the table.  
   *Parent says:* Mustard seeds are tiny. Chana is big. We will bury both at three depths. Which will reach the top from deep down? Why do you think so?  
-  *Child mode:* A tiny seed and a big seed. Which can climb from deep down? Why?
+  *Child mode:* One seed is tiny and one is big. Which can climb up from deep down? Why do you think so?
   - Ask: Why might a big seed do better when sown deep? (good: Big seeds have more food.; Big seeds are stronger.; A big seed can push harder.)
   - Note: Do not correct the guess. Children often say the big seed wins, but their reason is usually 'the big seed is stronger'. That is a good start. The food store is the real reason, and the test will show it.
 - **s2 (6 min)**  
@@ -386,7 +386,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   - Wait: Count 5 days after sowing
 - **s6 (10 min)**  
   *Parent does:* 1. Count the shoots for the last time. 2. Tip each tumbler out slowly onto newspaper. 3. Find the seeds that did not reach the top. 4. Look at each one. Is there a root? Is there a shoot? 5. Draw the longest pale shoot you find.  
-  *Parent says:* Look at the seeds that never reached the top. They are not just lying there. What do you see?  
+  *Parent says:* Look at the seeds that never reached the top. Did they grow at all? What do you see?  
   *Child mode:* Tip out the tumblers. Look at the seeds that did not reach the top.
   - Ask: What do you notice about the shoots that did not reach the top? (good: They are pale and thin.; They grew a long way, then stopped.; The seed looks shrivelled, because the food was used.)
   - Note: Deep mustard seeds often did sprout, but the shoots are tiny. Tip each tumbler onto white paper and sift gently with a spoon. You may find thin, pale, curled shoots that stopped under the soil. The seed leaves are shrivelled because the food is gone. If the deep chana has not come up yet, wait two more days before you tip it out. Look for a pale curl 1 to 3 centimetres long, and use a magnifier if you have one. If you cannot find any, write that down. It is a result too.
@@ -394,9 +394,9 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **s7 (7 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think about seed size and depth? What did you see? Why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: a bigger seed can be sown deeper. What I saw (example numbers): 7 of 8 mustard seeds came up from 1 centimetre, none from 6 centimetres, and the chana came up from 6 centimetres. Why: a shoot grows in the dark using the seed's food. The chana has a big food store, and the mustard seed has a tiny one, so the mustard shoot ran out of food before the shoot reached the light. Your results may differ. Write down what you got.
-  - Think: A tiny seed has little food. What does a tiny seed need that a chana does not need?
+  - Think: A tiny seed has little food, and a chana has a lot. How does that change how deep each one can be sown?
 ### e3 · The Pale Search: what happens to a seedling that never sees light? (36 min, 6 days)
 - **question:** How does a moong seedling grow in the dark, compared with one by a window? What happens when the dark one gets light?
 - **predict:** Before you start, guess. After five days, which shoots will be taller, the dark ones or the window ones? What colour will each be? Why do you think so?
@@ -408,12 +408,12 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **s1 (4 min)**  
   *Parent does:* Show your child the cups, the seeds and the dark box. Ask for a guess and a reason. Write it in the table.  
   *Parent says:* We will grow moong in two places. One cup stays in the dark. One sits by a window. After five days, which will be taller? What colour will each be? Why do you think so?  
-  *Child mode:* One cup in the dark, one by the window. Which grows taller? Why?
+  *Child mode:* One cup stays in the dark and one sits by the window. Which shoots will grow taller? Why do you think so?
   - Ask: Why do you think the dark seedlings will be shorter, or taller? (good: They have no light, so they cannot grow.; They are searching for light, so they stretch.; Plants like the sun, so the window ones grow best.)
   - Note: Do not correct the guess. Most children guess that the window seedlings will be taller. Write the guess down. The result often surprises them.
 - **s2 (10 min)**  
   *Parent does:* 1. Line each cup with a sheet of tissue. 2. Press five soaked moong between the tissue and the cup, halfway up. 3. Pour 1 centimetre of water into the bottom. 4. Put one cup in the dark box. 5. Put the other by a bright window, out of hot sun.  
-  *Parent says:* The tissue holds the seeds against the glass. The water soaks up the tissue. One cup goes in the dark. The other goes by the window.  
+  *Parent says:* The tissue holds the seeds against the glass. The water climbs up the tissue. One cup goes in the dark. The other goes by the window.  
   *Child mode:* Line two cups with tissue. Press in five seeds. Add a little water. One goes in the dark.
   - Note: Put the dark cup in a warm place that stays dark, such as a closed box in a cupboard. A box with the lid on is good. The window cup should be warm, but out of the hottest sun. Use two layers of tissue so that the water climbs well. A steel dabba left in the sun gets hot and cooks the seeds, so keep the dark cup in a cupboard. If the water turns cloudy or smells sour, pour it out and add fresh water. One child: look after both cups. Two to four children: each child sets up a pair of cups, dark and window, with 5 seeds each. Then compare the pairs. One child measures and one writes. Count only the seeds that grew. Measure from the seed to the tip of the shoot.
   - Check: Why do both cups get the same seeds, the same tissue and the same water? → **So only the light is different**
@@ -433,20 +433,20 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   - Wait: Measure on day 5
 - **s5 (5 min)**  
   *Parent does:* On day 6, look at the cup you moved. Look at the colour of the tips and the leaves. Compare with the window cup. Draw the moved cup.  
-  *Parent says:* One day in the light. What has changed? Look at the tips and the leaves.  
+  *Parent says:* The dark cup has had one day in the light. What has changed? Look at the tips and the leaves.  
   *Child mode:* Look at the cup you moved. What changed after one day in the light?
-  - Note: The tips usually show a tinge of green within a day, and the folded leaves begin to open. The long stems stay long. If you see no change, give it one more day.
-  - Think: The pale shoots turned greener in a day. How did they know that the light had come?
+  - Note: The tips usually show a tinge of green within a day, and the folded leaves begin to open. The long stems stay long. If you see no change, give it one more day. The answer is that a seedling has light sensors. These are tiny proteins that change when light hits them. When they catch light, they tell the seedling to stop stretching, open the leaves and start making chlorophyll.
+  - Think: The pale shoots turned greener in a day. What do you think told them that light had come?
   - Wait: Look on day 6
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think about seedlings in the dark? What did you see? Why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: a seedling in the dark stretches to search for light. What I saw (example numbers): the dark shoots were 9 centimetres and pale, and the window shoots were 5 centimetres and green. Why: in the dark the seedling spends the food in the seed on growing long. Light tells the seedling to turn green and open their leaves.
 ### e4 · The Locked Seed: what does a tamarind seed need before water can get in? (35 min, 3 days)
 - **question:** Does a tamarind seed with a hard coat swell in water? Does thinning the coat make a difference?
 - **predict:** Before you start, guess. After two days in water, which seeds will be bigger, the untouched ones or the rubbed ones? Why do you think so?
-- **fair test:** Both groups have 6 tamarind seeds from the same pulp, the same cup of water and the same warm place. The only difference is whether the coat has been rubbed. We press-test both groups the same way, and weigh them if we have a scale.
+- **fair test:** Both groups have 6 tamarind seeds from the same pulp, the same cup of water and the same warm place. The only difference is whether the coat has been rubbed. We press the seeds in both groups the same way, and weigh them if we have a scale.
 - **safety:** A grown-up helps with the rubbing. Rub away from your fingers, over a plate, and do not blow the dust. Never use a knife, scissors or pliers to crack a seed. Tamarind seeds are small, so keep them away from toddlers.
 - **record:** Write the weights in the table at the start, after 24 hours and after 48 hours. Draw one seed from each group. Write whether each feels hard or soft.
 - **results table:** Group | Weight at the start (grams) | Weight after 24 hours (grams) | Weight after 48 hours (grams) | Do the seeds feel soft or hard? | Press score of the 6 seeds at 24 and 48 hours (0 hard, 1 a little soft, 2 soft; most possible 12)
@@ -470,8 +470,8 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   - Check: Why do we weigh both groups at the start? → **So we know how much each group changes**
 - **s4 (5 min)**  
   *Parent does:* After 24 hours, take the seeds out and dab them dry. Weigh each group. Press each seed with a fingernail and give each seed a score. Put the seeds back in fresh water.  
-  *Parent says:* Weigh each group again. Press a seed from each bowl. Which is softer? Which is heavier?  
-  *Child mode:* Weigh each group. Press one seed. Which feels softer?
+  *Parent says:* Weigh each group again. Press the seeds from each bowl. Which are softer? Which group is heavier?  
+  *Child mode:* Weigh each group. Press the seeds. Which feel softer?
   - Wait: Weigh after 24 hours
 - **s5 (6 min)**  
   *Parent does:* After 48 hours, weigh both groups again. Press and score each seed again. Write the weights and scores. Ask your child to say what they see.  
@@ -482,7 +482,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think a hard coat does? What did you see? Why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: a hard coat keeps water out until it is thinned. What I saw (example numbers): the rubbed seeds weighed 6 grams after 48 hours and the untouched seeds stayed at 3. Why: water could get through the dull patch, but not through the hard coat. In nature, the coat is thinned by time, soil, fire, or by the gut of an animal that eats the fruit.
   - Think: In the wild, no one rubs the seed on sandpaper. What might thin the coat there?
 
@@ -490,7 +490,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 ### a1 · Iodine on a Seed: where is the food kept? (37 min, 7 days)
 - **safety:** A grown-up handles the iodine and the knife. Iodine stains skin and clothes. Never taste it or the foods you test with it. Wash your hands afterwards. Do not use iodine if anyone is allergic to it. Keep the cup of iodine water away from small children.
 - **record:** Draw a chana opened in half and colour it as the iodine showed. Draw the soaked half and the sprouted half side by side. Write which part turned darkest. Score the darkness of the big halves and of the baby plant from 0 (no change) to 5 (blue-black), for the soaked chana and the sprout.
-- **schedule:** day 1: Guess. Soak 6 chana overnight, then spread them on a damp cloth to sprout. (8 min); day 3: Rinse the sprouting chana, and rinse them again every day until the test. Twice a day in hot weather. Keep the cloth damp. (2 min); day 6: Soak 6 fresh chana overnight. (3 min); day 7: Test the potato, the cucumber and both groups of chana with iodine. Say what you think, what you saw and why. (24 min)
+- **schedule:** day 1: Guess. Soak 6 chana overnight, then spread them on a damp cloth to sprout. (8 min); day 3: Rinse the sprouting chana every day until the test, and twice a day in hot weather. Keep the cloth damp. (2 min); day 6: Soak 6 fresh chana overnight. (3 min); day 7: Test the potato, the cucumber and both groups of chana with iodine. Say what you think, what you saw and why. (24 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Soak six chana overnight. 2. The next day, drain them and spread them on a damp cloth. 3. Cover the cloth with a plate. 4. Ask your child to guess which part of a chana holds the food.  
   *Parent says:* Inside a chana there is food for the baby plant. Where do you think the food is kept? How could we find out? What do you think happens to it when the seed sprouts?  
@@ -522,11 +522,11 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think about where the food is kept? What did you see? Why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: the big halves hold the food, which is starch. What I saw: the big halves turned dark blue-black and the baby plant stayed pale. The sprout was paler than the soaked seed. Why: the baby plant uses up starch from the big halves as they grow.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
+  - Note: A good answer sounds like this. What I think: the big halves hold the food, which is starch. What I saw: the big halves turned dark blue-black and the baby plant stayed pale. The sprout was paler than the soaked seed. Why: the baby plant uses up starch from the big halves as they grow. Starch is too big for the baby plant to use directly. Helpers called enzymes cut the starch into sugar, and the baby plant uses the sugar for energy and for growing.
   - Think: A sprout uses starch from the big halves. Where does the starch go?
 ### a2 · Packet Detective: read a seed packet and choose (20 min)
-- **record:** Write a table with three rows, A, B and C. For each, write the germination percentage, the age, and how many seeds you would sow to get 30 plants, and what those seeds cost. Then write which one you would buy and why.
+- **record:** Write a table with three rows, A, B and C. For each, write the germination percentage, the age, how many seeds you would sow to get 30 plants, and what those seeds cost. Then write which one you would buy and why.
 - **s1 (4 min)**  
   *Parent does:* Read the three labels aloud. Packet A: 90 percent germination, packed ten months ago, Rs 40 for 100 seeds. Packet B: 70 percent, packed two months ago, Rs 30 for 100 seeds. Packet C: loose seeds in a bag, no label. Ask which packet your child would buy and why.  
   *Parent says:* Three packets of moong seed. Packet A says ninety percent sprouted, packed ten months ago, and costs forty rupees for a hundred seeds. Packet B says seventy percent, packed two months ago, and costs thirty rupees. Packet C has no label. Which would you buy? Why?  
@@ -549,7 +549,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* Ask your child to choose one packet. Ask for two reasons using numbers.  
   *Parent says:* Which packet will you buy? Give me two reasons. Use numbers.  
   *Child mode:* Choose a packet. Give two reasons. Use numbers.
-  - Note: Any packet can be argued for. A good answer uses the numbers and also says what is unknown. For example: I choose B, because it is only two months old, so 70 percent is likely still true today. A has a higher number, but it was measured ten months ago.
+  - Note: Any packet can be argued for. A good answer uses the numbers and also says what is unknown. For example: I choose B, because it is only two months old, so 70 percent is likely still true today. A has a higher number, but it was measured ten months ago. For the last question, suppose A cost twice as much. Then 34 seeds of A would cost about Rs 27. And 43 seeds of B would still cost about Rs 13. Many children will then choose B, and that is a good answer if they use the numbers.
   - Think: Would your choice change if packet A cost twice as much?
 ### a3 · Seeds That Cannot Wait: jackfruit or mango seeds, fresh and dried (37 min, 22 days)
 - **safety:** Jackfruit sap is sticky, so rub a little cooking oil on your hands first. Mango skin and sap can irritate some people's skin, so a grown-up handles the mango stones. Do not eat the seeds from this test, because they are tested raw. Wash your hands afterwards.
@@ -586,15 +586,15 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think about seeds that dry out? What did you see? Why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: jackfruit seeds cannot survive drying out. What I saw: the dried seeds lost a lot of weight and fewer sprouted than the fresh seeds. Why: a wet-keeping seed has no way to survive losing most of the water, so the seed must be sown fresh. If both pots sprouted equally, say that. Some jackfruit seeds survive some drying, and a longer drying time would show a difference.
-  - Think: Chana can wait for years. A jackfruit seed cannot. How would each plant pay for that difference?
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
+  - Note: A good answer sounds like this. What I think: jackfruit seeds cannot survive drying out. What I saw: the dried seeds lost a lot of weight and fewer sprouted than the fresh seeds. Why: a wet-keeping seed has no way to survive losing most of the water, so the seed must be sown fresh. If both pots sprouted equally, say that. Some jackfruit seeds survive some drying, and a longer drying time would show a difference. For the last question, a good answer starts with chana. Chana can wait for years through bad times, but the seed must dry out first and cannot sprout straight away. A jackfruit seed sprouts at once when the ground is damp. But a jackfruit seed cannot wait, and a dried one dies.
+  - Think: Chana can wait for years. A jackfruit seed cannot. What does each kind of plant gain from their way, and what does it cost them?
 
 ## Projects
 ### p1 · My Seed Library: save, label and test your own seeds (56 min, 16 days)
 - **safety:** A grown-up cuts the fruit. After touching papaya or chilli seeds, wash your hands and do not rub your eyes. Keep small seeds away from toddlers. Skip any fruit that someone at home is allergic to.
 - **record:** A table for each seed kind: the fruit, the date saved, how many seeds sprouted out of 10, and the percentage. A neat label on each packet.
-- **schedule:** day 1: Choose four ripe fruits. Scoop out the seeds, rinse them and spread them to dry. (12 min); day 2: Turn the seeds over so they dry evenly. (4 min); day 7: Make and label the packets. Set up a germination test with 10 seeds of each kind. (20 min); day 11: Count the seeds that have sprouted. (6 min); day 15: Count again. Work out the percentage for each kind that has sprouted. Slow kinds such as papaya may need until day 21. Write the percentage on each packet. (8 min); day 16: Swap a packet with a friend or neighbour, and tell the story of your seed. (6 min)
+- **schedule:** day 1: Choose four ripe fruits. Scoop out the seeds, rinse them and spread them to dry. (12 min); day 2: Turn the seeds over so they dry evenly. (4 min); day 7: Make and label the packets. Set up a germination test with 10 seeds of each kind. (20 min); day 11: Count the seeds that have sprouted. (6 min); day 15: Count again. Work out the percentage of each kind that has sprouted. Slow kinds such as papaya may need until day 21. Write the percentage on each packet. (8 min); day 16: Swap a packet with a friend or neighbour, and tell the story of your seed. (6 min)
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the fruit open. 2. Scoop out the seeds into a bowl. 3. Rinse them in a strainer under slow running water. 4. Rub off the slimy coat. 5. Spread them on paper in the shade.  
   *Parent says:* Every fruit is full of seeds. Each seed is a baby plant. We will keep some of them. Rinse them well, so they do not go mouldy.  
@@ -615,7 +615,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   - Check: Why do we write the date on a seed packet? → **Seeds get older, and old seeds may not sprout as well**
 - **s4 (12 min)**  
   *Parent does:* 1. Wet a cotton cloth and squeeze it. 2. Lay it flat on a plate. 3. Put 10 seeds of each kind in a row, with a paper label beside each row. 4. Cover with another plate. 5. Keep the cloth damp.  
-  *Parent says:* We test each kind of seed. Ten seeds of each. A packet of seeds is only useful if the seeds wake.  
+  *Parent says:* We test ten seeds of each kind. A packet of seeds is only useful if the seeds wake.  
   *Child mode:* Put ten seeds of each kind on a damp cloth. Label each row. Cover the plate.
   - Note: Different seeds take different times. Pumpkin and melon often show roots in three to five days. Tomato takes five to ten days. Papaya can take two weeks or more. Keep the cloth damp, and be patient. If a seed grows white or grey fuzz, take that seed out, count that seed as not sprouted, and rinse the cloth.
 - **s5 (6 min)**  
@@ -631,9 +631,9 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   - Wait: Count again after about 4 more days
 - **s7 (6 min)**  
   *Parent does:* Swap one packet with a friend or a neighbour. Tell the story of the seed: the fruit, the date and the test result.  
-  *Parent says:* Seeds are old gifts. People have swapped them for thousands of years. Tell your friend the story of your packet.  
-  *Child mode:* Swap a packet with a friend. Tell its story.
-  - Note: Keep the other packets in a closed jar in a cool, dry place. Test them again in six months to see how a seed's power to sprout changes with time.
+  *Parent says:* People have swapped seeds for thousands of years. Tell your friend the story of your packet.  
+  *Child mode:* Swap a packet with a friend. Tell the story of the seed: the fruit, the date and the test result.
+  - Note: Keep the other packets in a closed jar in a cool, dry place. Test them again in six months to see how a seed's power to sprout changes with time. For the last question, a good answer is that we would lose many local kinds of seed. We would also lose the variety that helps crops cope with disease and weather.
   - Think: Many families once kept their own seeds and swapped them. What would we lose if everyone bought seeds only from a few shops?
 
 ## Challenges
@@ -660,12 +660,12 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. After three days, open the box. 2. Take out the salt packets. Feel and look at each one. 3. Score each from 0 (dry and loose) to 3 (wet and lumpy). 4. If you have a scale, weigh each portion of chana. 5. Write which design kept the salt driest.  
   *Parent says:* Open the box. Which salt packet is dry? Which is damp or lumpy? Which container worked best?  
   *Child mode:* Open the box. Feel each salt packet. Which is driest?
-  - Note: Salt pulls water from the air, so a damp packet shows that damp air got in. The bare packet should be the wettest and the cupboard packet the driest. A closed jar or steel dabba often keeps the salt driest, but many lids leak a little, so a few lumps are a real result. If everything looks the same, leave the box for one more day. Chana gains only a gram or two in three days. One child: test all four designs. Two to four children: each child builds one container and the same child sets up the damp box. Use the results to say why seed banks use airtight containers.
+  - Note: Salt pulls water from the air, so a damp packet shows that damp air got in. The bare packet should be the wettest and the cupboard packet the driest. A closed jar or steel dabba often keeps the salt driest, but many lids leak a little, so a few lumps are a real result. If everything looks the same, leave the box for one more day. Chana gains only a gram or two in three days. One child: test all four designs. Two to four children: each child builds one container, and one child sets up the damp box. Use the results to say why seed banks use airtight containers. For the last question, keeping seeds dry is easy at home with a closed jar. Keeping them cold is harder, because that needs a fridge or a freezer. A seed bank does both.
   - Think: A seed bank keeps seeds dry and cold. Which of the two is easier for a family to do at home?
 ### c2 · The Rain Door: a seed that wakes only for a big rain (40 min)
 - **problem:** In a desert, a small shower wets only the top of the soil, and a big rain soaks deep. Design a layer of sand over a seed so that a small shower does not reach the seed, but a big rain does.
 - **safety:** Use clean dry sand. Do not eat the seeds after the test. Wash your hands afterwards, and keep sand away from your eyes.
-- **your turn:** Now invent your own layers. Draw your design, build it and test it with a small shower and then a big rain. Does your seed stay dry in the small shower? Does it get wet in the big rain? Why do you think so?
+- **your turn:** Now invent your own layers. Draw your design, build it and test it with a small shower and then a big rain. Does your seed stay dry in the small shower? Does the seed get wet in the big rain? Why do you think so?
 - **constraints:** Use a clear cup about 7 centimetres wide and 12 centimetres tall.; Put a dry moong seed on a dry paper tissue at the bottom of the cup. The sand goes on top.; The small shower is 2 tablespoons of water, poured slowly. The big rain is about 1 cup (200 millilitres). If the cup overflows, use 150 millilitres.; You may change the depth of the sand, the kind of sand and the layers, but not the cup.
 - **general:** A deep layer of sand, about 6 centimetres, so a small shower soaks only the top.; A layer of coarse sand over a layer of fine soil.; A layer of dry soil that is packed down firmly, so water spreads sideways before it goes down.
 - **creative:** A layer of dry rice husks or dry leaves on top, which soak up a small shower and let a big rain through.; Three layers, each a different thickness, to catch different amounts of rain.; A paper tissue folded like a funnel in the sand, to guide a big flow of water down to the seed.
@@ -678,23 +678,23 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
   *Parent does:* 1. Put a dry tissue at the bottom of each cup. 2. Put a dry moong seed on it. 3. Add sand to the depth of your design. 4. Pour 2 tablespoons of water slowly. 5. Wait one minute. 6. Lift off the sand a little at a time and check if the tissue is wet. 7. Measure how deep the dark, wet sand goes.  
   *Parent says:* Pour slowly, like a gentle shower. Wait a minute. Then lift the sand away. Is the tissue still dry?  
   *Child mode:* Build your layers. Pour a small shower. Is the seed's tissue still dry?
-  - Note: Sand compresses and sorts itself, so tap the cup gently to level it. The result depends on the sand, so expect to adjust the depth. If the small shower reaches the seed, try a deeper layer. Do not eat the seeds. Wet sand looks darker, so the ruler can measure how far the water went. One child: build and test all the designs. Two to four children: each child builds one design, and you compare the wet depths.
+  - Note: Sand packs down and settles, so tap the cup gently to level it. The result depends on the sand, so expect to adjust the depth. If the small shower reaches the seed, try a deeper layer. Do not eat the seeds. Wet sand looks darker, so the ruler can measure how far the water went. One child: build and test all the designs. Two to four children: each child builds one design, and you compare the wet depths.
   - Check: In the test, the tissue stays dry after the small shower. What does that tell you about the design? → **The sand layer held the small shower in the top layer**
 - **s3 (16 min)**  
   *Parent does:* 1. Make a fresh cup with the same design. 2. Pour 1 cup of water over the sand, in about 20 seconds. 3. Wait one minute. 4. Lift off the sand and check the tissue. 5. Measure the wet depth. 6. Write down what happened in each test.  
   *Parent says:* Now the big rain. Pour a full cup of water over the sand. Did it reach the seed this time?  
   *Child mode:* Test the same design with a big rain. Does the seed get wet?
-  - Note: A good design keeps the tissue dry in the small shower and wet in the big rain. If the big rain floods the cup, that is also a result. Real desert rain soaks the ground deeply in this way. If you like, leave the big-rain cup for two days. The moong seed should show a root, and the seed from the small shower should stay dry and asleep.
-  - Think: Desert seeds that wake only in a big rain have many seeds that never wake. Is that a waste?
+  - Note: A good design keeps the tissue dry in the small shower and wet in the big rain. If the big rain floods the cup, that is also a result. Real desert rain soaks the ground deeply in this way. If you like, leave the big-rain cup for two days. The moong seed should show a root, and the seed from the small shower should stay dry and asleep. For the last question, a good answer is that it is not a waste. The seeds that stay asleep are a saved supply. They wake in a later year, when a big rain finally comes.
+  - Think: Among desert seeds that wake only in a big rain, many never wake at all. Is that a waste?
 
 ## Worksheets
 ### Waking Seeds (core) (core, 16 questions)
-1. (mcq) Meena tests 30 seeds from a packet on a wet cloth. After four days, 24 of them have a root. What is the germination percentage?  
+1. (mcq) You test 30 seeds from a packet on a wet cloth. After four days, 24 of them have a root. What is the germination percentage?  
    Options: 24 percent / 80 percent / 30 percent / 6 percent  
    **Answer:** 80 percent. *Why:* 24 out of 30 is the same as 8 out of 10, which is 80 out of every 100, or 80 percent. Picking 24 percent means using the count itself as the percentage, which only works when exactly 100 seeds are tested.
-2. (fill) Kavya counts the seeds with a root on a plate. She finds 4 at 12 hours, 15 at 24 hours and 24 at 36 hours. How many new seeds woke between 24 hours and 36 hours? ____  
+2. (fill) You count the seeds with a root on a plate. You find 4 at 12 hours, 15 at 24 hours and 24 at 36 hours. How many new seeds woke between 24 hours and 36 hours? ____  
    **Answer:** ['9', 'nine']. *Why:* 24 take away 15 is 9. The counts are running totals, so the new seeds in each period are found by taking one count away from the next.
-3. (truefalse) You test 30 seeds from one packet on two plates in the same room. The two plates give exactly the same count at every hour.  
+3. (truefalse) Put 30 seeds from one packet on each of two plates in the same room. The two plates will give exactly the same count at every hour.  
    **Answer:** False. *Why:* False. Even identical-looking plates differ a little, because each seed is a little different. A small difference between two plates is normal, and a good reason to test with more seeds.
 4. (mcq) Why do the seeds in one packet not all wake at the same hour?  
    Options: Each seed is a little different, so water and warmth reach each baby plant at a different speed / The seeds argue about who goes first / Only the biggest seeds can wake / The packet was badly made  
@@ -709,11 +709,11 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 8. (mcq) A tiny mustard seed is sown 8 centimetres deep. A big chana is sown 8 centimetres deep too. Which is more likely to reach the top, and why?  
    Options: The chana, because the bigger food store can feed a long climb in the dark / The mustard, because the seed is lighter / Both reach the top, because shoots always find the light / Neither, because seeds cannot grow in soil  
    **Answer:** The chana, because the bigger food store can feed a long climb in the dark. *Why:* A shoot grows in the dark using the food in the seed. The chana has a big food store, so the shoot can travel a long way. The mustard seed has only a pinch of food and runs out first. Picking 'lighter' mixes up weight with food store.
-9. (write) Explain in your own words why a rule says to sow a seed about two or three times as deep as the seed is wide.  
+9. (write) A gardener's rule says to sow a seed about two or three times as deep as the seed is wide. Explain in your own words why.  
    **Answer:** A seed has to push a shoot up through the soil using the food stored inside, because there is no light underground. A deeper sowing means a longer climb. A bigger seed has more food and can climb further. The rule matches the depth to the amount of food, so the shoot arrives at the surface before the food runs out.. *Why:* A strong answer links the depth to the food store and says that the shoot lives on that food until it reaches the light.
 10. (odd) Which of these seeds is the odd one out? Moong, chana, rice, mango stone.  
    Options: Moong / Chana / Rice / Mango stone  
-   **Answer:** 3. *Why:* Moong, chana and rice are dry-keeping seeds. They finish growing, dry out and can wait for years. A mango stone is a wet-keeping seed. It dies if the seed dries out, so the seed must be sown fresh.
+   **Answer:** 3. *Why:* Moong, chana and rice are dry-keeping seeds. They finish growing, dry out and can wait for years. A mango stone is a wet-keeping seed, which dies on drying out and must be sown fresh.
 11. (order) Put these in order, from first to last, as a moong seedling comes up from the soil.  
    **Answer:** order shown. *Why:* First the seed drinks and swells. The root comes out first and anchors the seedling. Then the stem forms a hook and pulls the fat seed leaves up out of the soil. In the light, the hook straightens and the leaves open.
 12. (sort) Sort these seedlings. Do they lift their seed leaves into the air, or leave them under the soil?  
@@ -723,8 +723,8 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
    **Answer:** In the dark the sprouts stretch long and stay pale, which is what people want to eat. *Why:* A seedling in the dark stretches fast and makes almost no chlorophyll, so they stay pale. Growers use this on purpose. Picking 'light would kill the seeds' is wrong, because the same seeds grow well in light as green, shorter seedlings.
 14. (truefalse) A pale seedling that has grown in a dark box begins to turn green within a day or two of being moved to a window.  
    **Answer:** True. *Why:* True. Light switches on the making of chlorophyll, the green substance that catches sunlight. The tips usually start to turn greener within a day, and the leaves begin to open.
-15. (perspective) Hasan is counting seeds on a plate. After four days, three seeds still have no root. Three friends give him advice.  
-   **Answer:** A strong answer uses the idea that seeds in one batch wake at different times. Farhan's advice fits that idea best: seeds can be late. Lakshmi's test is a useful check that does not wait. Nisha is right that some seeds really are dead, but she cannot know that yet. A strong answer picks one and gives the others their due.. *Why:* Seeds that wake late are common, and a firm, plump seed may still be alive. But some seeds really are dead. The best plan combines waiting with a check.
+15. (perspective) You are counting seeds on a plate. After four days, three seeds still have no root. Three friends give you advice.  
+   **Answer:** A strong answer uses the idea that seeds in one batch wake at different times. The second person's advice fits that idea best: seeds can be late. The third person's test is a useful check that does not wait. The first person is right that some seeds really are dead, but she cannot know that yet. A strong answer picks one and gives the others their due.. *Why:* Seeds that wake late are common, and a firm, plump seed may still be alive. But some seeds really are dead. The best plan combines waiting with a check.
 16. (draw) Draw a waking curve for a plate of 30 seeds. Put the hours along the bottom and the number of seeds with a root up the side. Show a lazy S shape, and mark where about half the seeds had woken.  
    **Answer:** A line graph with hours along the bottom and seeds with a root up the side. The line starts low, climbs steeply in the middle and flattens near the top. A mark is on the line where it reaches about 15 seeds.. *Why:* The shape shows that seeds wake at different times, with a few early, most in the middle and a few late.
 ### Sleep, Keys and Light (stretch) (stretch, 17 questions)
@@ -739,7 +739,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
    Options: The hard coat keeps water out until it is thinned / The rubbed seed is hungrier / The seed has no baby plant inside / The rub warms the seed  
    **Answer:** The hard coat keeps water out until it is thinned. *Why:* A thick hard coat is like a locked door. Rubbing thins the coat in one spot and lets water in. Picking 'no baby plant' is a mistake, because the untouched seed is alive and only locked.
 5. (truefalse) A dormant seed is a dead seed that has not rotted yet.  
-   **Answer:** False. *Why:* False. A dormant seed is alive and is holding back until the right sign comes. Boiled seeds are dead, and a dormant seed will sprout when the seed gets the right key.
+   **Answer:** False. *Why:* False. A dormant seed is alive and is holding back until the right sign comes. A boiled seed is dead and will never sprout. A dormant seed will sprout once the right key comes.
 6. (mcq) Apple seeds taken straight from an apple sprout badly. After several weeks in a damp, cold fridge, many more of them sprout. What is the best explanation?  
    Options: The seeds need a spell of cold before they wake, which tells them that winter has passed / Cold makes the seeds bigger / The fridge feeds the seeds / The seeds learn to love the cold  
    **Answer:** The seeds need a spell of cold before they wake, which tells them that winter has passed. *Why:* Many seeds of cold places stay dormant until they have been through a spell of cold. This stops them waking in autumn, when winter would kill the seedlings. Picking 'bigger' is not right. Cold changes the balance of chemical messengers inside the seed.
@@ -750,7 +750,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
    **Answer:** About 1 centimetre. *Why:* Two times 4 millimetres is 8 millimetres. Three times 4 millimetres is 12 millimetres. So about 1 centimetre is right. Picking 4 centimetres means sowing the seed 10 times as deep as the seed is wide, which a small seed could not climb.
 9. (truefalse) In the wild, an orchid seed is as fine as dust and has almost no food store. The seed can start to grow with no help at all.  
    **Answer:** False. *Why:* False. An orchid seed has so little food that, in the wild, the seed grows only when a tiny fungus in the soil feeds the seed. The fungus is the seed's helper.
-10. (write) A girl sows tiny seeds 8 centimetres deep in a tumbler of soil. None come up. When she tips out the soil, she finds long, thin, pale shoots that stopped under the soil. Explain what happened.  
+10. (write) Tiny seeds are sown 8 centimetres deep in a tumbler of soil. None come up. When the soil is tipped out, there are long, thin, pale shoots that stopped under the soil. Explain what happened.  
    **Answer:** The seeds woke and grew, but the shoots had only a tiny store of food. Growing in the dark spends that food fast. They ran out of food before they reached the surface and the light, and could not make new food. They stopped growing and died under the soil.. *Why:* A strong answer says that the seeds were alive and sprouted, and that the food store ran out before the light was reached.
 11. (sort) Sort these seeds. Can they be dried and stored, or must they be sown fresh?  
    **Answer:** moong → Can be dried and stored; wheat → Can be dried and stored; chana → Can be dried and stored; mango stone → Must be sown fresh; jackfruit seed → Must be sown fresh; cocoa seed → Must be sown fresh. *Why:* Dry-keeping seeds dry out on purpose and can wait for years. Wet-keeping seeds never dry out and die if they do, so they have to be sown soon after the fruit falls.
@@ -758,26 +758,26 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
    Options: The window seedling, because the dark seedling spent more food on stretching / The dark seedling, because the seedling grew taller / They have the same / Neither, because seed leaves hold no food  
    **Answer:** The window seedling, because the dark seedling spent more food on stretching. *Why:* In the dark, a seedling spends their food on stretching to find light, and cannot make new food. The window seedling spent less on stretching and began making their own food. Picking 'the dark seedling' mixes up how tall a seedling is with how much food is left.
 13. (perspective) A family wants to keep chana seeds for sowing next year. Three neighbours give advice about storage.  
-   **Answer:** A strong answer picks Rao Uncle's plan. Seeds live longest when they are dry and cool, so shade drying and a closed jar in a cool place is best. Selvi is right that seeds must be dry, but hot sun and an open basket can overheat the seeds and let in damp air. Mehra Aunty's cold is good, but damp is bad: a damp bag would wake or rot the seeds. A strong answer gives each plan its due.. *Why:* Dry and cold slow the ageing of a seed. Heat and damp speed it up. A closed jar keeps out damp air.
+   **Answer:** A strong answer picks Rao Uncle's plan. Seeds live longest when they are dry and cool, so shade drying and a closed jar in a cool place is best. The first person is right that seeds must be dry, but hot sun and an open basket can overheat the seeds and let in damp air. Mehra Aunty's cold is good, but damp is bad: a damp bag would wake or rot the seeds. A strong answer gives each plan its due.. *Why:* Dry and cold slow the ageing of a seed. Heat and damp speed it up. A closed jar keeps out damp air.
 14. (fill) A rough rule says each 5 degrees Celsius colder roughly doubles how long a seed stays alive. Suppose chana lasts about 4 years at 25 degrees Celsius. About how many years would chana last at 15 degrees Celsius? ____  
    **Answer:** ['16', 'sixteen']. *Why:* From 25 down to 15 is 10 degrees, which is two steps of 5 degrees. Each step doubles the time. 4 doubled is 8, and 8 doubled is 16. It is only a rough rule, so the real answer will be different.
 15. (odd) Which of these is not a key that wakes a sleeping seed? Rub on a rough surface, weeks of cold, smoke from a fire, boiling in water.  
    Options: Rub on a rough surface / Weeks of cold / Smoke from a fire / Boiling in water  
    **Answer:** 3. *Why:* Rubbing thins a hard coat, cold tells an apple seed that winter has passed, and smoke tells some bush seeds that a fire has cleared the land. Boiling cooks the baby plant, so the seed never wakes.
-16. (draw) Draw two moong or chana seedlings in cutaway soil. On one, show the seed leaves lifted into the air. On the other, show them left under the soil. Label which is which.  
+16. (draw) Draw a moong seedling and a chana seedling, with the soil cut away so you can see under the ground. Show which one lifts the seed leaves into the air and which one leaves them under the soil. Label each.  
    **Answer:** Two cutaway pictures. In the first, a hooked stem has pulled two fat green seed leaves above the soil line. In the second, the seed leaves are still buried and only a shoot with small leaves is above the soil.. *Why:* Moong lifts the seed leaves into the air. Chana and peas leave them under the soil.
 17. (truefalse) A mango stone, dried in a drawer for several months, can usually be sown later in the same way as a dry chana.  
-   **Answer:** False. *Why:* False. A mango seed is a wet-keeping seed. It dies if the seed dries out, so the seed must be sown fresh. A dry chana is a dry-keeping seed and can wait for years.
+   **Answer:** False. *Why:* False. A mango seed is a wet-keeping seed, which dies on drying out and must be sown fresh. A dry chana is a dry-keeping seed and can wait for years.
 ### Seed Puzzles (challenge) (challenge, 16 questions)
 1. (mcq) Charles Darwin kept three spoonfuls of pond mud covered in his study, and counted 537 plants that grew from it over six months. What does this show?  
    Options: Mud holds many seeds that wait alive for a long time / Pond mud makes seeds grow faster / All the seeds were new that year / Plants can grow from mud without seeds  
    **Answer:** Mud holds many seeds that wait alive for a long time. *Why:* Mud with no plants in it still grew hundreds of plants. The seeds had been lying in the mud alive and waiting. Picking 'without seeds' is the old idea that plants appear from nothing, and the experiment shows that every plant came from a seed.
 2. (write) In a dry year, the seeds that woke first all died, and a few of the late seeds survived. In a wet year, the early seeds grew best. Explain why it helps a plant to have both early and late seeds.  
    **Answer:** Nobody knows in advance whether a year will be wet or dry. If a plant's seeds all woke early, a dry year could kill them all. If they all woke late, a wet year would waste the good weather. A mix of early and late seeds means that some seeds are well timed whatever the weather does. So the plant leaves young in every kind of year.. *Why:* A strong answer says that the weather is unpredictable, and that a mix of wake-up times means that some seeds are right in any kind of year.
-3. (mcq) Farhan tests 10 seeds on a plate and 7 sprout. Lakshmi tests 100 seeds from the same packet and 82 sprout. Whose result is a steadier guide to the whole packet, and why?  
-   Options: Lakshmi's, because a bigger sample is less changed by one odd seed / Farhan's, because 10 is easier to count / They are equally good / Neither, because a packet cannot be tested  
-   **Answer:** Lakshmi's, because a bigger sample is less changed by one odd seed. *Why:* With 10 seeds, one seed changes the answer by 10 percent. With 100 seeds, one seed changes it by 1 percent. A bigger sample is steadier. Picking 'easier to count' is true, but easy does not mean right.
-4. (mcq) Using the rough rules, each 1 percent less water roughly doubles how long a seed lives, and each 5 degrees Celsius colder roughly doubles it too. A seed lot is dried by 2 percent and stored 10 degrees colder. About how many times longer will it live?  
+3. (mcq) One test uses 10 seeds from a packet, and 7 sprout. Another test uses 100 seeds from the same packet, and 82 sprout. Which result is a steadier guide to the whole packet, and why?  
+   Options: The test of 100 seeds, because a bigger sample is less changed by one odd seed / The test of 10 seeds, because 10 is easier to count / They are equally good / Neither, because a packet cannot be tested  
+   **Answer:** The test of 100 seeds, because a bigger sample is less changed by one odd seed. *Why:* With 10 seeds, one seed changes the answer by 10 percent. With 100 seeds, one seed changes it by 1 percent. A bigger sample is steadier. Picking 'easier to count' is true, but easy does not mean right.
+4. (mcq) Two rough rules say that each 1 percent less water roughly doubles how long a seed lives, and each 5 degrees Celsius colder roughly doubles it too. A batch of seeds is dried until it has 2 percent less water, and is stored 10 degrees colder. About how many times longer will the seeds live?  
    Options: 4 times / 8 times / 16 times / 20 times  
    **Answer:** 16 times. *Why:* Drying by 2 percent doubles the life twice, which makes it 4 times as long. Cooling by 10 degrees doubles it twice, which is another 4 times. 4 times 4 is 16. The rules are rough, and they only work within limits, so the real result will differ.
 5. (perspective) Who should own a seed? Three people have different views.  
@@ -799,7 +799,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
    **Answer:** ['82', 'eighty-two', 'eighty two']. *Why:* 82 + 79 + 85 + 82 = 328. 328 divided by 4 is 82. So the average is 82 out of 100, or 82 percent.
 12. (truefalse) Soaking a seed in water for a short time and then drying it again can make the seed wake faster the next time the seed gets wet.  
    **Answer:** True. *Why:* True. This is called priming, and farmers and seed companies use it. It shows that the past of a seed can change how the seed behaves later.
-13. (write) A tiny seed stays dormant in the dark and wakes only when light reaches it. Explain how this helps the seed.  
+13. (write) A tiny seed stays dormant in the dark and wakes only when light reaches the seed. Explain how this helps the seed.  
    **Answer:** A tiny seed has only a little food. If the seed woke deep in the soil, the shoot would use up the food before reaching the surface. Light only reaches a seed that is near the top. So waiting for light means the seed wakes only where the shoot has a short climb and enough food.. *Why:* A strong answer links the small food store to the depth and says that light is a sign that the seed is near the surface.
 14. (match) Match each result to what it shows.  
    **Answer:** Pond mud grows plants for six months → seeds can wait alive in the soil for a long time; Tamarind seeds swell only after a rub → a hard coat keeps water out; Bean sprouts are long and white → they are grown in the dark and stretch to search for light; A packet says 80 percent → 8 of every 10 seeds sprouted in the seller's test. *Why:* Each result points to an idea from the unit: waiting seeds, hard coats, the pale search in the dark, and the germination percentage.
@@ -833,7 +833,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 6. (mcq) Why does a seed packet show the date it was packed?  
    Options: Seeds get older and fewer of them sprout as the years pass / So the packet looks neat / Seeds only sprout on the date written / The date tells you how deep to sow  
    **Answer:** Seeds get older and fewer of them sprout as the years pass. *Why:* A seed's power to sprout slowly drops with time. The date lets a buyer judge how fresh the seeds are. Picking 'only sprout on the date' misunderstands what the date means.
-7. (mcq) Which of these seedlings lifts its seed leaves up into the air?  
+7. (mcq) Which of these seedlings lifts the seed leaves up into the air?  
    Options: Moong / Chana / Peas / Rice  
    **Answer:** Moong. *Why:* In moong and rajma, a hooked stem pulls the fat seed leaves up into the light. In chana and peas, they stay in the soil. In rice, a sheath covers the first leaf, and one thin seed leaf stays below.
 8. (mcq) Two plates, each with 30 seeds from the same packet, give 26 sprouted on one plate and 28 on the other. What does this tell you?  
@@ -890,7 +890,7 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - Where do the weeds in a pavement crack come from, when nobody sowed them?
 - Would you sow a whole bag of seed on the first rain, or keep some back? Why?
 - What does a potato in a dark cupboard do, and why?
-- Have you ever been late, and then found that it did not matter? Do seeds feel this way?
+- Have you ever finished something later than everyone else and found that it did not matter? A late seed is in the same position. Do you think a late seed matters to the whole group?
 - Why is the seed of a coconut so big, and the seed of a banyan so tiny?
 - If you were a seed, what sign would make you wake up?
 - Can something be alive and wait for ten years? What do you think the seed is doing while they wait?
@@ -907,11 +907,11 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
 - Why did the chana win the digging contest? *They brought a big packed lunch.*
 
 ## Connected maths
-- On plate A, 24 of the 30 seeds had a root after 48 hours. What fraction of the seeds is that, in its simplest form? What is it as a percentage? **4 out of 5, which is 80 percent.**. 24 out of 30 can be shared by 6 on top and bottom, which gives 4 out of 5. 4 out of 5 is the same as 8 out of 10, and 80 out of 100. So 80 percent of the seeds had a root. (queues `math.fractions.decimals-and-percentages.L4`)
+- On plate A, 24 of the 30 seeds had a root after 48 hours. What fraction of the seeds is that, in its simplest form? What is it as a percentage? **4 out of 5, which is 80 percent.**. Divide both 24 and 30 by 6, which gives 4 out of 5. 4 out of 5 is the same as 8 out of 10, and 80 out of 100. So 80 percent of the seeds had a root. (queues `math.fractions.decimals-and-percentages.L4`)
 - The running totals of seeds with a root were 4 at 12 hours, 15 at 24 hours, 24 at 36 hours and 27 at 48 hours. How many new seeds woke in each 12-hour period? In which period did the most wake? **4, then 11, then 9, then 3. The most woke between 12 and 24 hours.**. The first period starts at 0, so 4 woke. 15 take away 4 is 11. 24 take away 15 is 9. 27 take away 24 is 3. The biggest number is 11, so the most seeds woke between 12 and 24 hours. (queues `math.data.line-graphs.L4`)
-- A packet says that 80 percent of the seeds sprout. You want 60 plants. How many seeds should you sow? **75 seeds.**. 80 percent means 8 of every 10 seeds sprout. 60 plants need 60 divided by 8 lots, which is 7 and a half lots of 10 seeds. That is 75 seeds. A check: 80 percent of 75 is 8 tenths of 75, which is 60. (queues `math.fractions.ratio-and-proportion.L4`)
+- A packet says that 80 percent of the seeds sprout. You want 60 plants. How many seeds should you sow? **75 seeds.**. 80 percent means 8 of every 10 seeds sprout. 60 divided by 8 is 7 and a half, so you need 7 and a half lots of 10 seeds. That is 75 seeds. A check: 80 percent of 75 is 8 tenths of 75, which is 60. (queues `math.fractions.ratio-and-proportion.L4`)
 - A rule of thumb says to sow a seed two or three times as deep as the seed is wide. A mustard seed is about 1 millimetre wide, and a chana is about 8 millimetres wide. What is the range of depths for each? **Mustard: 2 to 3 millimetres. Chana: 16 to 24 millimetres, which is about 2 centimetres.**. For mustard, 2 times 1 is 2 and 3 times 1 is 3, so 2 to 3 millimetres. For chana, 2 times 8 is 16 and 3 times 8 is 24, so 16 to 24 millimetres. 10 millimetres make 1 centimetre, so that is about 2 centimetres. (queues `math.measurement-basics.standard-units.L4`)
-- A rough rule says each 5 degrees Celsius colder roughly doubles how long a seed stays alive. A seed lot lives 6 years at 25 degrees Celsius. About how long would it live at 15 degrees Celsius, and at 5 degrees Celsius? **About 24 years at 15 degrees Celsius, and about 96 years at 5 degrees Celsius.**. From 25 to 15 is 10 degrees, which is two steps of 5. 6 doubled is 12, and doubled again is 24. From 25 to 5 is 20 degrees, which is four steps. 6, 12, 24, 48, 96. So about 96 years. It is a rough rule, so these are rough numbers. (queues `math.patterns.number-patterns.L4`)
+- A rough rule says each 5 degrees Celsius colder roughly doubles how long a seed stays alive. A batch of seeds lives 6 years at 25 degrees Celsius. About how long would the seeds live at 15 degrees Celsius, and at 5 degrees Celsius? **About 24 years at 15 degrees Celsius, and about 96 years at 5 degrees Celsius.**. From 25 to 15 is 10 degrees, which is two steps of 5. 6 doubled is 12, and doubled again is 24. From 25 to 5 is 20 degrees, which is four steps. 6, 12, 24, 48, 96. So about 96 years. It is a rough rule, so these are rough numbers. (queues `math.patterns.number-patterns.L4`)
 - You put 30 seeds on a wet cloth at 7 o'clock on Monday evening. You make your last count 96 hours later. On which day, and at what time, is the last count? **Friday evening, at 7 o'clock.**. 24 hours is one day. 96 divided by 24 is 4 days. Four days after Monday evening is Friday evening. The time of day stays the same, so it is 7 o'clock. (queues `math.time.duration.L4`)
 - Six untouched tamarind seeds weigh 3 grams before soaking and 3 grams after two days. Six rubbed seeds weigh 3 grams before and 6 grams after. How much water did the rubbed seeds take in? How many times as heavy are they now? **3 grams of water. They are 2 times as heavy.**. 6 take away 3 is 3 grams of water. 3 grams doubled is 6 grams, so the seeds are 2 times as heavy. The untouched seeds took in no measurable water, which shows the hard coat keeping the water out. (queues `math.weight-capacity.weight.L4`)
 - In the card game Wake or Wait, 13 of the 24 cards say SAFE. A woken seed on a SAFE card is worth 2 points, and on a DANGER card it is worth 0. A sleeping seed is worth 1 point. If you woke one seed on each of the 24 cards, about how many points would you win from those 24 seeds? What would 24 sleeping seeds be worth? Which is better? **26 points from waking, 24 points from sleeping. Waking is a little better on average, but with much more risk.**. 13 SAFE cards at 2 points is 26 points. The 11 DANGER cards give 0. 24 sleeping seeds at 1 point each is 24 points. 26 is a little more than 24, so on average waking is slightly better. But any single seed can lose, so players who wake everything at once can lose a lot on a bad day. (queues `math.probability.likely-and-unlikely.L4`)

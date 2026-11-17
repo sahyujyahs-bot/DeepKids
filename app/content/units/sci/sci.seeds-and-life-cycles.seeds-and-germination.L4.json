@@ -264,7 +264,7 @@
    "concept": "The pale search: a seedling that cannot find light",
    "status": "defined",
    "definition": "A seedling grown in the dark stretches fast, stays pale and thin, and keeps the tiny leaves folded. The seedling is searching for light and spending their food to do it. Scientists call this an etiolated seedling.",
-   "description": "In the dark, a seedling puts nearly everything into growing longer. Their stem grows long and thin, their leaves stay small and folded, and the hook at the top stays closed. They make almost no chlorophyll, the green substance that catches sunlight, so they are pale yellow or white. The long stem is the best use of their food. The sooner the top reaches the surface, the sooner they can make new food. Bean sprouts are sold long and white because they are grown in the dark on purpose. If the seedling reaches light, things change within hours. The stem slows down, the hook opens, the leaves unfold and chlorophyll starts to form, so they turn green. If they do not reach light before the food runs out, they cannot recover.",
+   "description": "In the dark, a seedling puts nearly everything into growing longer. Their stem grows long and thin, their leaves stay small and folded, and the hook at the top stays closed. They make almost no chlorophyll, the green substance that catches sunlight, so they are pale yellow or white. Growing long is the best use of their food. The sooner the top reaches the surface, the sooner they can make new food. Bean sprouts are sold long and white because they are grown in the dark on purpose. If the seedling reaches light, things change within hours. The stem slows down, the hook opens, the leaves unfold and chlorophyll starts to form, so they turn green. If they do not reach light before the food runs out, they cannot recover.",
    "examples": [
     "Moong grown in a dark box for five days is long, thin and pale.",
     "The same moong in a bright window is shorter, thicker and green, with open leaves.",
@@ -772,7 +772,7 @@
       "SEED: A mango stone, which dies if the seed dries out.",
       "KEY: Fresh, damp soil, soon after the fruit falls.",
       "SEED: A paddy seed in a flooded field, where there is little air.",
-      "KEY: A shoot that grows up fast to reach the air, like a snorkel.",
+      "KEY: A first shoot that grows up fast through the water to reach the air.",
       "SEED: A bajra seed in dry desert sand.",
       "KEY: A second rain that is big enough to reach the seed."
      ]
@@ -849,8 +849,8 @@
      "do": "Lay the ten pairs in a row. Ask your child to sort the keys into three groups. The three groups are: water, time or cold, and other living things.",
      "say": "Look at all ten keys. Which ones are about water? Which are about time or cold? Which depend on other living things?",
      "kid": "Sort the ten keys into three groups: water, time or cold, and other living things.",
-     "parent": "There is no single right sort. Rain, the bird's gut and the rub can all be seen as ways of letting in water. Accept any group a child can explain.",
-     "think": "Different seeds wait for different keys. Is waiting for a key the same as being asleep?"
+     "parent": "There is no single right sort. Rain, the bird's gut and the rub can all be seen as ways of letting in water. Accept any group a child can explain. For the last question, the answer is that the baby plant is alive the whole time and is simply waiting. The baby plant starts to grow as soon as the right key arrives.",
+     "think": "A seed waiting for its key is not dead. What is the baby plant inside doing while the seed waits?"
     }
    ]
   }
@@ -1999,7 +1999,7 @@
      "say": "What do you think about seed size and depth? What did you see? Why do you think it happened?",
      "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a bigger seed can be sown deeper. What I saw (example numbers): 7 of 8 mustard seeds came up from 1 centimetre, none from 6 centimetres, and the chana came up from 6 centimetres. Why: a shoot grows in the dark using the seed's food. The chana has a big food store, and the mustard seed has a tiny one, so the mustard shoot ran out of food before the shoot reached the light. Your results may differ. Write down what you got.",
-     "think": "A tiny seed has little food. What does a tiny seed need that a chana does not need?"
+     "think": "A tiny seed has little food, and a chana has a lot. How does that change how deep each one can be sown?"
     }
    ]
   },
@@ -2192,8 +2192,8 @@
      "do": "On day 6, look at the cup you moved. Look at the colour of the tips and the leaves. Compare with the window cup. Draw the moved cup.",
      "say": "The dark cup has had one day in the light. What has changed? Look at the tips and the leaves.",
      "kid": "Look at the cup you moved. What changed after one day in the light?",
-     "parent": "The tips usually show a tinge of green within a day, and the folded leaves begin to open. The long stems stay long. If you see no change, give it one more day.",
-     "think": "The pale shoots turned greener in a day. How did they know that the light had come?",
+     "parent": "The tips usually show a tinge of green within a day, and the folded leaves begin to open. The long stems stay long. If you see no change, give it one more day. The answer is that a seedling has light sensors. These are tiny proteins that change when light hits them. When they catch light, they tell the seedling to stop stretching, open the leaves and start making chlorophyll.",
+     "think": "The pale shoots turned greener in a day. What do you think told them that light had come?",
      "wait": "Look on day 6"
     },
     {
@@ -2553,7 +2553,7 @@
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think about where the food is kept? What did you see? Why do you think it happened?",
      "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-     "parent": "A good answer sounds like this. What I think: the big halves hold the food, which is starch. What I saw: the big halves turned dark blue-black and the baby plant stayed pale. The sprout was paler than the soaked seed. Why: the baby plant uses up starch from the big halves as they grow.",
+     "parent": "A good answer sounds like this. What I think: the big halves hold the food, which is starch. What I saw: the big halves turned dark blue-black and the baby plant stayed pale. The sprout was paler than the soaked seed. Why: the baby plant uses up starch from the big halves as they grow. Starch is too big for the baby plant to use directly. Helpers called enzymes cut the starch into sugar, and the baby plant uses the sugar for energy and for growing.",
      "think": "A sprout uses starch from the big halves. Where does the starch go?"
     }
    ]
@@ -2666,7 +2666,7 @@
      "do": "Ask your child to choose one packet. Ask for two reasons using numbers.",
      "say": "Which packet will you buy? Give me two reasons. Use numbers.",
      "kid": "Choose a packet. Give two reasons. Use numbers.",
-     "parent": "Any packet can be argued for. A good answer uses the numbers and also says what is unknown. For example: I choose B, because it is only two months old, so 70 percent is likely still true today. A has a higher number, but it was measured ten months ago.",
+     "parent": "Any packet can be argued for. A good answer uses the numbers and also says what is unknown. For example: I choose B, because it is only two months old, so 70 percent is likely still true today. A has a higher number, but it was measured ten months ago. For the last question, suppose A cost twice as much. Then 34 seeds of A would cost about Rs 27. And 43 seeds of B would still cost about Rs 13. Many children will then choose B, and that is a good answer if they use the numbers.",
      "think": "Would your choice change if packet A cost twice as much?"
     }
    ]
@@ -2808,7 +2808,7 @@
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think about seeds that dry out? What did you see? Why do you think it happened?",
      "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-     "parent": "A good answer sounds like this. What I think: jackfruit seeds cannot survive drying out. What I saw: the dried seeds lost a lot of weight and fewer sprouted than the fresh seeds. Why: a wet-keeping seed has no way to survive losing most of the water, so the seed must be sown fresh. If both pots sprouted equally, say that. Some jackfruit seeds survive some drying, and a longer drying time would show a difference.",
+     "parent": "A good answer sounds like this. What I think: jackfruit seeds cannot survive drying out. What I saw: the dried seeds lost a lot of weight and fewer sprouted than the fresh seeds. Why: a wet-keeping seed has no way to survive losing most of the water, so the seed must be sown fresh. If both pots sprouted equally, say that. Some jackfruit seeds survive some drying, and a longer drying time would show a difference. For the last question, a good answer starts with chana. Chana can wait for years through bad times, but the seed must dry out first and cannot sprout straight away. A jackfruit seed sprouts at once when the ground is damp. But a jackfruit seed cannot wait, and a dried one dies.",
      "think": "Chana can wait for years. A jackfruit seed cannot. What does each kind of plant gain from their way, and what does it cost them?"
     }
    ]
@@ -2986,7 +2986,7 @@
      "do": "Swap one packet with a friend or a neighbour. Tell the story of the seed: the fruit, the date and the test result.",
      "say": "People have swapped seeds for thousands of years. Tell your friend the story of your packet.",
      "kid": "Swap a packet with a friend. Tell the story of the seed: the fruit, the date and the test result.",
-     "parent": "Keep the other packets in a closed jar in a cool, dry place. Test them again in six months to see how a seed's power to sprout changes with time.",
+     "parent": "Keep the other packets in a closed jar in a cool, dry place. Test them again in six months to see how a seed's power to sprout changes with time. For the last question, a good answer is that we would lose many local kinds of seed. We would also lose the variety that helps crops cope with disease and weather.",
      "think": "Many families once kept their own seeds and swapped them. What would we lose if everyone bought seeds only from a few shops?"
     }
    ]
@@ -3087,7 +3087,7 @@
      "do": "1. After three days, open the box. 2. Take out the salt packets. Feel and look at each one. 3. Score each from 0 (dry and loose) to 3 (wet and lumpy). 4. If you have a scale, weigh each portion of chana. 5. Write which design kept the salt driest.",
      "say": "Open the box. Which salt packet is dry? Which is damp or lumpy? Which container worked best?",
      "kid": "Open the box. Feel each salt packet. Which is driest?",
-     "parent": "Salt pulls water from the air, so a damp packet shows that damp air got in. The bare packet should be the wettest and the cupboard packet the driest. A closed jar or steel dabba often keeps the salt driest, but many lids leak a little, so a few lumps are a real result. If everything looks the same, leave the box for one more day. Chana gains only a gram or two in three days. One child: test all four designs. Two to four children: each child builds one container, and one child sets up the damp box. Use the results to say why seed banks use airtight containers.",
+     "parent": "Salt pulls water from the air, so a damp packet shows that damp air got in. The bare packet should be the wettest and the cupboard packet the driest. A closed jar or steel dabba often keeps the salt driest, but many lids leak a little, so a few lumps are a real result. If everything looks the same, leave the box for one more day. Chana gains only a gram or two in three days. One child: test all four designs. Two to four children: each child builds one container, and one child sets up the damp box. Use the results to say why seed banks use airtight containers. For the last question, keeping seeds dry is easy at home with a closed jar. Keeping them cold is harder, because that needs a fridge or a freezer. A seed bank does both.",
      "think": "A seed bank keeps seeds dry and cold. Which of the two is easier for a family to do at home?"
     }
    ]
@@ -3184,7 +3184,7 @@
      "do": "1. Make a fresh cup with the same design. 2. Pour 1 cup of water over the sand, in about 20 seconds. 3. Wait one minute. 4. Lift off the sand and check the tissue. 5. Measure the wet depth. 6. Write down what happened in each test.",
      "say": "Now the big rain. Pour a full cup of water over the sand. Did it reach the seed this time?",
      "kid": "Test the same design with a big rain. Does the seed get wet?",
-     "parent": "A good design keeps the tissue dry in the small shower and wet in the big rain. If the big rain floods the cup, that is also a result. Real desert rain soaks the ground deeply in this way. If you like, leave the big-rain cup for two days. The moong seed should show a root, and the seed from the small shower should stay dry and asleep.",
+     "parent": "A good design keeps the tissue dry in the small shower and wet in the big rain. If the big rain floods the cup, that is also a result. Real desert rain soaks the ground deeply in this way. If you like, leave the big-rain cup for two days. The moong seed should show a root, and the seed from the small shower should stay dry and asleep. For the last question, a good answer is that it is not a waste. The seeds that stay asleep are a saved supply. They wake in a later year, when a big rain finally comes.",
      "think": "Among desert seeds that wake only in a big rain, many never wake at all. Is that a waste?"
     }
    ]
@@ -3486,7 +3486,7 @@
   "Where do the weeds in a pavement crack come from, when nobody sowed them?",
   "Would you sow a whole bag of seed on the first rain, or keep some back? Why?",
   "What does a potato in a dark cupboard do, and why?",
-  "Have you ever been late, and then found that it did not matter? Do seeds feel this way?",
+  "Have you ever finished something later than everyone else and found that it did not matter? A late seed is in the same position. Do you think a late seed matters to the whole group?",
   "Why is the seed of a coconut so big, and the seed of a banyan so tiny?",
   "If you were a seed, what sign would make you wake up?",
   "Can something be alive and wait for ten years? What do you think the seed is doing while they wait?"
@@ -3865,7 +3865,7 @@
   "practice": {
    "title": "Wait like a seed",
    "mins": 3,
-   "say": "Hold one dry seed in the palm of your hand. Close your fingers gently. Breathe in slowly while you count to four. Breathe out slowly while you count to four. Do this ten times. Think of yourself as the seed, waiting for the sign. Do not hurry. Then open your hand and look at the seed. What sign would you wait for?",
+   "say": "Hold one dry seed in the palm of your hand. Close your fingers gently. Breathe in slowly while you count to four. Breathe out slowly while you count to four. Do this ten times. Think of yourself as the seed, waiting for the sign. Do not hurry. Then open your hand and look at the seed. A seed waits for a sign that the time is right. Can you name two signs that different seeds wait for?",
    "kid": "Hold one dry seed in your hand. Close your fingers. Breathe in slowly while you count to four. Breathe out slowly while you count to four. Do this ten times. Think of yourself as a seed that is waiting. Then open your hand."
   },
   "ask": [

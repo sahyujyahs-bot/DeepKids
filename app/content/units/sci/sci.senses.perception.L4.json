@@ -1963,7 +1963,7 @@
           "id": "s3",
           "mins": 15,
           "do": "Sort all the answers into five kinds: animal, person, plant, thing and nothing. Count each kind. Pick the five most surprising answers. Set up the blots with the best answers beside them. Ask the check question.",
-          "say": "Let us sort all the answers. How many animals? How many people? Which answer surprised you most? Did two people ever see the same thing?",
+          "say": "Let us sort all the answers into kinds, such as animals and people. How many of each kind are there? Did two people ever see the same thing in the same blot? Which blot gave the most different answers?",
           "kid": "Sort the answers into kinds. Count each kind. Pick the most surprising.",
           "check": {
             "t": "mcq",
@@ -3458,8 +3458,8 @@
     "practice": {
       "title": "Hold two readings",
       "mins": 3,
-      "say": "Look at the cube drawing. Notice the reading you see now. Breathe slowly. Wait until it flips. When it does, whisper the word 'now'. Then try to see both readings at once, and notice that you cannot. Quietly say the word 'maybe'.",
-      "kid": "Look at the cube. Breathe slowly. When it flips, whisper 'now'. Try to see both readings. Say 'maybe'."
+      "say": "Look at the cube drawing. Notice the reading you see now. Breathe slowly. Wait until it flips. When it does, whisper the word 'now'. Then try to see both readings at once. You will find that you cannot, because your brain shows you only one reading at a time. Now quietly say the word 'maybe' to yourself. It reminds you that the drawing could be read either way. You can still only see one.",
+      "kid": "Look at the cube. Breathe slowly. When it flips, whisper 'now'. Try to see both readings at once. You cannot. Say 'maybe' to remember that the drawing could be either."
     },
     "ask": [
       "When you see a face in a cloud, who is making the face: the cloud or you?",

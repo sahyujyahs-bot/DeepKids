@@ -138,7 +138,7 @@
    "concept": "What ripening is, and why fruit do it",
    "status": "defined",
    "definition": "Ripening is a set of changes that turns a hard, sour, green fruit into a soft, sweet, scented, coloured one. It happens when the seeds inside are ready to travel.",
-   "description": "A raw mango is hard, green and sour. This helps the fruit, because animals leave the fruit alone until the seeds are ready. When the seeds are ready, the fruit changes. Enzymes, which are substances that speed up changes inside living things, cut the starch stored in the fruit into sugar, so the fruit tastes sweet. Other enzymes loosen the walls between the cells, so the fruit gets soft. The green chlorophyll is taken apart. Then the yellow and orange substances that were hidden under the green begin to show. In some fruit, such as a tomato, new red substances are made. The amount of acid falls, so the sour taste fades. Tiny scent molecules are made, and these are what you smell from across a room. Each change is a signal to a bird, a bat, a monkey or a person that the fruit is ready to eat. The animal carries the seeds away. Ripening is a fruit asking to be eaten.",
+   "description": "A raw mango is hard, green and sour. This helps the fruit, because animals leave the fruit alone until the seeds are ready. When the seeds are ready, the fruit changes. Enzymes, which are substances that speed up changes inside living things, cut the starch stored in the fruit into sugar, so the fruit tastes sweet. Other enzymes loosen the walls between the cells, so the fruit gets soft. The green chlorophyll is taken apart. Then the yellow and orange substances that were hidden under the green begin to show. In some fruit, such as a tomato, new red substances are made. The amount of acid falls, so the sour taste fades. Tiny scent molecules are made, and these are what you smell from across a room. Each change is a signal to a bird, a bat, a monkey or a person that the fruit is ready to eat. The animal carries the seeds away. So ripening is how a fruit gets itself eaten, and that is how the seeds get carried away to new places.",
    "examples": [
     "A green banana is starchy and hard. A yellow banana is sugary and soft.",
     "A green tomato turns red as a red substance called lycopene is made.",
@@ -2112,7 +2112,7 @@
      "id": "s3",
      "mins": 6,
      "context": "In this step you set up the three jars.",
-     "do": "1. Put three cuttings into each jar. 2. Jar A holds the cuttings with a node and a leaf, jar B the cuttings with a node and no leaf, and jar C the cuttings with no node. 3. Check that the node is under the water in A and B. 4. Label the jars. 5. Put them in a bright place out of hot sun.",
+     "do": "1. Put three cuttings into each jar. 2. Jar A holds the cuttings with a node and a leaf. Jar B holds the cuttings with a node and no leaf. Jar C holds the cuttings with no node. 3. Check that the node is under the water in A and B. 4. Label the jars. 5. Put them in a bright place out of hot sun.",
      "say": "Each jar holds one kind of cutting. The nodes in jars A and B go under the water. Put the jars in a bright place, but out of hot sun.",
      "kid": "Put three cuttings in each jar. Nodes go under the water. Label the jars.",
      "parent": "Change the water every three days, or top it up if it falls. Keep the water clean. A slimy jar should be washed and refilled. Who: one child sets up all three jars. With 2 to 4 children, each child owns a jar and measures its roots, and a different child writes the numbers down. Or each child can set up a full set of nine cuttings for a bigger sample.",
@@ -2164,7 +2164,7 @@
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think about where roots grow? What did you see? Why do you think it happened?",
      "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-     "parent": "A good answer sounds like this. What I think: roots grow from nodes, and a leaf helps. What I saw: the cuttings with a node and a leaf grew the longest roots, the ones with a node and no leaf grew a few short roots, and the plain pieces grew none. Why: the node holds the cells that can turn into roots, and the leaf supplies food and a growth message. Each rooted cutting is a clone of the vine. If the leafless cuttings rooted as well as the leaf ones, say so. That is a real finding and the explanation about the leaf may be only part of the story.",
+     "parent": "A good answer sounds like this. What I think: roots grow from nodes, and a leaf helps. What I saw: the cuttings with a node and a leaf grew the longest roots, the ones with a node and no leaf grew a few short roots, and the plain pieces grew none. Why: the node holds the cells that can turn into roots, and the leaf supplies food and a growth message. Each rooted cutting is a clone of the vine. The three cuttings in a jar are three separate new plants. Each one is an exact copy of the vine they came from. If the leafless cuttings rooted as well as the leaf ones, say so. That is a real finding and the explanation about the leaf may be only part of the story.",
      "think": "All three cuttings in jar A came from the same vine. Are they the same plant, or three plants?"
     }
    ]
@@ -2840,11 +2840,11 @@
      "mins": 6,
      "context": "In this step you walk along the strip and compare.",
      "do": "Walk along the strip together. Stop at each plant. Ask what surprised your child.",
-     "say": "Walk along the strip. Which is the first mark you can see clearly? Which plant is the longest? How many moong lifetimes would fit in one year?",
+     "say": "Walk along the strip. Which plant is so short that you can hardly see it? Which plant is the longest? A moong plant lives a quarter of a year. How many moong lifetimes would fit in one year?",
      "kid": "Walk along the strip. Which plant is the longest? Which can you hardly see?",
      "ask": [
       {
-       "q": "What surprised you about the strip?",
+       "q": "Which plants are tiny on the strip, and which is very long? What does that show about how long plants live?",
        "good": [
         "The moong is a tiny dot.",
         "The bristlecone pine is so long.",
@@ -2861,7 +2861,7 @@
      "say": "What do you think about how long plants live? What did you see on the strip? Why do some plants live so much longer than others?",
      "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: plants live for very different lengths of time. What I saw: moong is a dot, a mango is 10 centimetres, and the pine is nearly 5 metres. Why: some plants put their effort into growing fast and making seeds quickly. Others put theirs into growing slowly and surviving for centuries.",
-     "think": "If a moong plant is a dot and a pine is almost five metres long, can you compare their lives?"
+     "think": "On the strip, a moong plant is a dot and the pine is almost five metres long. What does that tell you about how different plants spend their lives?"
     }
    ],
    "safety": "Do not leave the strip across a doorway or stairs where someone may trip. Chalk marks wash off with water."
@@ -3145,8 +3145,8 @@
      "do": "On the dinner day: 1. Press each mango. 2. Rate the softness from 1 to 5. 3. Find the one closest to 4. 4. Cut the best mango open. 5. Write down what each design did.",
      "say": "Dinner day! Press each mango. Which is soft but not mushy? Which design worked best? Why?",
      "kid": "Press each mango. Which is softest but not mushy? Which design won?",
-     "parent": "A rating of 4 is soft, with a good smell and yellow colour. A rating of 5 is very soft and starting to spoil. If none of the mangoes is ripe, say so, and say what you would change. Cut open only the best mangoes and eat them if they smell sweet.",
-     "think": "If you had five days, would you change your plan? What would you do if you had only two?"
+     "parent": "A rating of 4 is soft, with a good smell and yellow colour. A rating of 5 is very soft and starting to spoil. If none of the mangoes is ripe, say so, and say what you would change. Cut open only the best mangoes and eat them if they smell sweet. If your child has only two days, a good answer is to add a second ripe banana and use the warmest spot. The bag must still be opened once a day for fresh air.",
+     "think": "If you had only two days instead of four, what would you change to make the mango ripen faster?"
     }
    ]
   },
@@ -3891,7 +3891,7 @@
    {
     "source": "Thich Nhat Hanh, on interbeing, in The Heart of Understanding",
     "teaching": "If you are a poet, you will see clearly that there is a cloud floating in this sheet of paper. Without a cloud there is no rain, without rain the trees cannot grow, and without trees we cannot make paper.",
-    "link": "A mango that ripens because of a banana has a banana in it, in a way. What a fruit becomes depends on the fruit nearby."
+    "link": "A mango that ripens in a bag with a banana has been changed by that banana. So what a fruit becomes depends partly on the fruit around them, and not only on the fruit themself."
    },
    {
     "source": "Purananuru 192, a Tamil poem by Kaniyan Pungundranar from the Sangam age",
@@ -3921,8 +3921,8 @@
   "practice": {
    "title": "Smell the message",
    "mins": 3,
-   "say": "Hold a ripe banana in one hand and a raw mango in the other. Close your eyes. Breathe in slowly through your nose. Notice the sweet smell of the banana. That smell is the fruit sending a message into the air. Breathe in slowly three times. What do you think the raw mango is doing right now?",
-   "kid": "Hold a ripe banana. Close your eyes. Breathe in the smell, slowly, three times. The fruit is sending a message through the air."
+   "say": "Hold a ripe banana in one hand and a raw mango in the other. Close your eyes. Breathe in slowly through your nose. Notice the sweet smell of the banana. The ripening gas itself has almost no smell. The sweet smell only tells you that the banana is ripe and is giving off the gas. Breathe in slowly three times. Now imagine the two fruit sharing a bag. What do you think the gas from the banana would do to the raw mango?",
+   "kid": "Hold a ripe banana. Close your eyes. Breathe in the smell, slowly, three times. A ripe banana gives off a gas you cannot see. What would that gas do to a raw mango?"
   },
   "ask": [
    "When a banana and a mango share a bag, are they ripening separately or together?",

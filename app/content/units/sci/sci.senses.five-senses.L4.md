@@ -37,7 +37,7 @@
 ### A signal is a pulse, and a strong signal is a fast drumbeat of pulses · *defined*
 **Definition:** A nerve pulse is a tiny wave of electricity that runs along a neuron. All pulses are the same size. A stronger stimulus makes more pulses each second.
 
-Every sense sends the brain nerve signals. Now look closer at one signal. A neuron is a nerve cell with a long thread. When something sets the neuron off, tiny gates open in the skin of the thread. Charged particles rush in, and that makes a small wave of electricity that runs down the thread. This wave is a nerve pulse. A pulse is like a spark that is either there or not there. It is never half a spark, and it is never a bigger spark. So how does the brain know that a touch is hard and not gentle? In 1926 two scientists, Edgar Adrian and Yngve Zotterman, listened to a single nerve thread from a frog's muscle. When they hung a heavier weight on the muscle, the pulses did not get bigger. They came faster. A light weight gave a few pulses each second. A heavy weight gave many. Edgar Adrian later shared the 1932 Nobel Prize for this kind of work. So the strength of a sense is written in the speed of the drumbeat. What the signal is about is written in which thread it travels along. Your brain holds about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, counted them in 2009 by turning a brain into a soup of cell centres and counting those. Each eye sends about one million threads to the brain, and every thread sends its own drumbeat. Plants also use pulses. A Venus flytrap has trigger hairs inside her trap. One touch on a hair sends one pulse, and nothing happens. A second touch within about 20 seconds makes the trap snap shut. She counts.
+Every sense sends the brain nerve signals. Now look closer at one signal. A neuron is a nerve cell with a long thread. When something sets the neuron off, tiny gates open in the skin of the thread. Charged particles rush in, and that makes a small wave of electricity that runs down the thread. This wave is a nerve pulse. A pulse is like a spark that is either there or not there. It is never half a spark, and it is never a bigger spark. So how does the brain know that a touch is hard and not gentle? In 1926 two scientists, Edgar Adrian and Yngve Zotterman, listened to a single nerve thread from a frog's muscle. When they hung a heavier weight on the muscle, the pulses did not get bigger. They came faster. A light weight gave a few pulses each second. A heavy weight gave many. Edgar Adrian later shared the 1932 Nobel Prize for this kind of work. So the strength of a sense is written in the speed of the drumbeat. What the signal is about is written in which thread it travels along. Your brain holds about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, counted them in 2009 by turning a brain into a soup of cell centres and counting those. Each eye sends about one million threads to the brain, and every thread sends its own drumbeat. Plants also use pulses. A Venus flytrap has trigger hairs inside her trap. One touch on a hair sends one pulse, and nothing happens. A second touch within about 20 seconds makes the trap snap shut. So the trap counts touches. This is how she tells a living insect, which touches the hairs more than once, from a single raindrop.
 - e.g. Press a fingertip on a table very lightly, then harder. The skin sends the same kind of pulse both times. The harder press only sends more of them each second.
 - e.g. A Venus flytrap shuts only when two touches arrive within about 20 seconds. A raindrop that touches one hair once does not trigger her. She uses pulses to tell prey from rain.
 - e.g. Doctors can record the pulses from a nerve and play them as clicks. A stronger touch sounds like faster clicking.
@@ -144,9 +144,9 @@ We have followed the senses from stimulus to nerve pulse to brain, and found tha
 
 - *who am i:* The 'you' who is aware of this moment is always a fraction of a second behind the world, and you still feel that you are right here.
 - *what is life:* A Venus flytrap counts two touches before she shuts. A robin senses the Earth's magnetism. Every living being turns the world into pulses, then acts on them.
-- *what is this world:* A light, a sound and a smell are very different in the world. Inside a body, all three become the same kind of pulse. The world we know is made where the world meets a body.
+- *what is this world:* A light, a sound and a smell are very different in the world. Inside a body, all three become the same kind of pulse. So the world as you know it is built partly by the world and partly by your own body and brain.
 
-Light, sound, smell and pressure are very different things out in the world. Once they pass through a sense they are all the same: pulses on a thread. A bee, a shark and a child each turn the same world into different pulses, and each is right about what they detect. The world and the body that senses it are not two separate things. Each experience is made from both together, and made a moment late. If everything is one awareness, then the sensing is that awareness meeting itself, slowly, through many different bodies.
+Light, sound, smell and pressure are very different things out in the world. Once they pass through a sense they are all the same: pulses on a thread. A bee, a shark and a child each turn the same world into different pulses, and each is right about what they detect. Every experience is made from two things together. One is the world, and the other is the body that senses it. The experience is made a moment late. Some traditions, such as Advaita Vedanta, say that everything is one awareness. If that is true, then sensing is that one awareness meeting the world through many different bodies. Each meeting comes a little late.
 
 - **Kena Upanishad 1.2:** The Upanishad asks what is behind the senses. It speaks of the ear of the ear, the mind of the mind and the eye of the eye. Something hears through the ear and sees through the eye, and cannot itself be heard or seen. (Science finds that the ear and the eye only send pulses to the brain. The question of who is aware of those pulses is the same question the Upanishad asks.)
 - **Sabba Sutta, Samyutta Nikaya 35.23:** The Buddha taught that 'the all', everything we can know, is the eye and what it sees, the ear and what it hears, the nose, the tongue, the body and the mind, each with what it meets. (This matches what the science of the senses finds. All we know of the world has come through the senses and the brain's work on their signals.)
@@ -154,7 +154,7 @@ Light, sound, smell and pressure are very different things out in the world. Onc
 - Science (settled): Every sense turns the world into nerve pulses of the same size, and every signal takes time to arrive.
 - Science (debated): Perception is mostly the brain's prediction, corrected by the senses. Scientists argue about how far this idea goes.
 - Other view, The Charvaka school of ancient India, and many modern philosophers called direct realists: Perception is the surest way of knowing. What you see and touch is simply there, and talk of a hidden world behind the senses is not needed. A delay of a fifth of a second does not stop you meeting the real mango.
-- Practice, Catch the sound that has already happened (3 min): Sit still and close your eyes. Breathe in slowly three times. Now listen. Every time you notice a sound, whisper the word 'now'. Then ask yourself something. When you whispered, was the sound already finished? Keep listening for one minute, and notice how each sound arrives just after it was made.
+- Practice, Catch the sound that has already happened (3 min): Sit still and close your eyes. Breathe in slowly three times. Now listen. Every time you notice a sound, whisper the word 'now'. Your whisper always comes after the sound has begun. This is because the sound has to reach your ear, and the signal has to reach your brain. Can you feel the tiny gap between the sound and your 'now'? Keep listening for one minute.
 - Ask: If your 'now' is always a little late, what do you mean when you say 'right now'?
 - Ask: Who is the one that notices the pulses? Is it the eye, the brain, or something else?
 - Ask: A bee, a shark and a child each meet the same fruit with different pulses. Is there a real fruit that is different from what each of them senses?
@@ -210,7 +210,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 
 'And who is the fresh nose?' asked Devika, trying not to smile. 'I come at four every day.' Ammamma laughed for the first time that evening. 'Then you are hired. Your wages are one packet of banana chips.' And that is how a girl of nine became the Honest First Minute of the best spice warehouse in Kochi.
 
-**For the parent:** For the parent: a smell that stays the same fades from notice. Smell receptors send a burst of pulses at the start, then fewer and fewer. Ammamma's nose was not broken. It was tired of the pepper, which had been constant since morning. A nose reports a change, like a new damp smell, but only if the nose has been away or has just arrived. The ten minutes at the tea stall gave her receptors time to recover, so her first sniff back at the warehouse picked up the damp smell. Devika's nose found it first because she had just arrived.
+**For the parent:** For the parent: a smell that stays the same fades from notice. Smell receptors send a burst of pulses at the start, then fewer and fewer. Ammamma's nose was not broken. It was tired of the pepper, which had been constant since morning. A nose reports what is new. So a new damp smell is noticed only by a nose that has just arrived. It is also noticed by a nose that has been away for a few minutes. The ten minutes at the tea stall gave her receptors time to recover, so her first sniff back at the warehouse picked up the damp smell. Devika's nose found it first because she had just arrived.
 
 - Ask: Why could Devika smell the damp when her grandmother could not?
 - Ask: Why did going to the tea stall help Ammamma's nose?
@@ -246,7 +246,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   - Check: A person who walks into the kitchen smells a gas leak at once, but the cook cannot smell it. Which idea fits best? → **Adapting receptors**
 - **s5 (3 min)**  
   *Parent does:* Add up the scores. Ask each player which idea they found hardest, and which story surprised them most.  
-  *Parent says:* Add up your scores. Which idea was hardest for you? Which story surprised you most? What story could you make up for that idea?  
+  *Parent says:* Add up your scores. Which idea was hardest for you to spot? What story could you make up for that idea?  
   *Child mode:* Add up your points. Make up your own story for one idea.
   - Ask: Can you invent a new story for one of the five ideas? (good: Something that fits 'adapting receptors', like a smell that fades.; A story with a clear clue.; A story where the sense changes over time.)
 
@@ -433,7 +433,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   *Parent does:* Mark the cardboard strip at the bottom as 0. Use the ruler to make marks every 5 centimetres. Write the times beside the marks. 5 cm is 0.10 seconds. 10 cm is 0.14. 15 cm is 0.17. 20 cm is 0.20. 25 cm is 0.23. 30 cm is 0.25.  
   *Parent says:* Draw a line at the bottom for zero. Mark every 5 centimetres going up. Write the time beside each mark. A thing that falls a short way took a short time. A thing that falls further took longer.  
   *Child mode:* Mark the strip every 5 centimetres. Write the time beside each mark.
-  - Note: These times come from the way things fall: the time for a fall of d metres is the square root of 2d divided by 9.8, rounded. You do not need to explain this yet. The time gaps between the marks get smaller further up the strip, which shows that the time grows more slowly than the distance.
+  - Note: These times come from the rule for falling things. To find the time in seconds, first multiply the distance in metres by 2. Then divide by 9.8. Last, take the square root. You do not need to explain this to your child yet. The time gaps between the marks get smaller further up the strip. This shows that a falling ruler speeds up, so the time grows more slowly than the distance.
   - Check: On the strip, the marks for 0.10 and 0.14 seconds are 5 centimetres apart. The marks for 0.23 and 0.25 seconds are also 5 centimetres apart. What does that tell you? → **A falling ruler speeds up, so each extra centimetre takes less time further down**
 - **s3 (8 min)**  
   *Parent does:* On day 1, test each family member in the morning. The dropper holds the strip at the top. The catcher keeps thumb and finger open at the 0 end. Do 3 practice tries and then 7 counted tries. Write the middle value.  
@@ -672,7 +672,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - A tea-tasting room in the Nilgiris or Darjeeling, where tasters sip and spit again and again to compare leaves.
 - A smoke alarm or gas-leak alarm that uses a loud sound and a flashing light, so it does not depend on one sense.
 - A cricketer reaching for a catch before the ball seems to arrive, because the brain predicts where it will be.
-- The noticeable change when someone turns a fan off or a refrigerator stops humming, and the room suddenly feels quiet.
+- A room that suddenly feels quiet when someone turns off a fan or a refrigerator stops humming. You did not notice the hum until it stopped.
 - Your watch, your glasses or your slippers, which you feel at the start and forget afterwards.
 - A sprinter at the start of a race on a school sports day, waiting for the sound of the starting whistle.
 
@@ -687,7 +687,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 ## Questions to ask kids
 - What can you hear right now that you did not notice a minute ago?
 - Which smell in our home would a visitor notice, but we do not?
-- If a signal from your toe takes a second to reach your brain, how can you move away from a hot floor so fast?
+- A slow pain signal takes about a second to reach the brain. A sharp pain signal takes about a tenth of a second. Which one helps you pull your foot off a hot floor in time?
 - Why do you think the cook is the last person to notice a smell in the kitchen?
 - How could you test whether the first bite of food or the last bite tastes stronger?
 - Do you think a bee's world is smaller, bigger or just different from yours?
