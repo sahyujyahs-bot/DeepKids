@@ -139,7 +139,7 @@
    "concept": "Matter goes round, energy goes through",
    "status": "defined",
    "definition": "The atoms in living things are used again and again, so matter moves in cycles. Energy is not used again. It comes from the Sun, passes along food chains, and leaves as heat.",
-   "description": "Earth gets very few new atoms. The carbon in your body has been in plants, animals and the air before. A decomposer does not make new carbon. She only moves it on. Energy is different. A leaf holds energy from sunlight. A caterpillar eats the leaf and uses the energy to move and grow, and some of the energy goes out of her body as heat. A fungus eats the caterpillar's droppings, and the rest of the energy goes out as heat. Heat spreads into the air and into space, and no living thing can use it again. So life on Earth stays alive because the Sun keeps sending new energy, while the atoms keep going round. Decomposers close the loop: they send the atoms back so plants can start again.",
+   "description": "Earth gets very few new atoms. The carbon in your body has been in plants, animals and the air before. A decomposer does not make new carbon. She only moves it on. Energy is different. A leaf holds energy from sunlight. A caterpillar eats the leaf and uses the energy to move and grow, and some of the energy goes out of her body as heat. A fungus eats the caterpillar's droppings, and the rest of the energy goes out as heat. Heat spreads into the air and into space, and no living thing can use it again. So life on Earth stays alive because the Sun keeps sending new energy, while the atoms keep going round. Decomposers finish the round trip. They send the atoms back into the air and the soil, so plants can use them again.",
    "examples": [
     "The same carbon atoms pass from air to leaf to caterpillar to soil and back to air.",
     "The Sun's energy passes along the food chain and ends as heat. It does not go back to the leaf.",
@@ -298,7 +298,7 @@
    "hint": "A bee and you can look at the same fruit and see different colours."
   },
   {
-   "q": "The carbon in your last breath may once have been in a leaf, a log, or a dinosaur. In what way is it yours?",
+   "q": "The carbon in your last breath may once have been in a leaf, a log or a dinosaur. Does it belong to you, or are you only borrowing it for a while?",
    "kind": "deep",
    "hint": "Think about how long you hold on to the atoms of your body."
   },
@@ -323,7 +323,7 @@
    "hint": "Think about what lands on the ground every day."
   },
   {
-   "q": "Every atom in your body was once part of something else. Does that make you new, or old?",
+   "q": "Every atom in your body was once part of something else, such as a plant, an animal or the air. Does that make you a new thing, or a very old one?",
    "kind": "big",
    "hint": "Think about how long the atoms have been around, and how long you have."
   }
@@ -536,7 +536,7 @@
      "do": "Cut out the 24 cards and the 16 tokens. Shuffle the cards and put them in a pile. Give each player one set of four tokens, one of each kind.",
      "say": "These cards show dead things or leftovers. Each player gets one set of four tokens: Scavenger, Shredder, Digester and Nobody yet. We will guess who comes to eat each thing.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take four tokens.",
-     "parent": "The game suits one child with a parent, or 2 to 4 children; a lone child plays against the cards. For fewer than 4 players, put the spare tokens away. Fold each card down the middle so the front is on one side and the back on the other, or glue the sheets back to back. A Scavenger finds dead animals and eats them. A Shredder chews dead things small. A Digester pours on enzymes. Nobody yet means no cleanup crew can eat it.",
+     "parent": "The game suits one child with a parent, or 2 to 4 children. A lone child plays against the cards. For fewer than 4 players, put the spare tokens away. Fold each card down the middle so the front is on one side and the back on the other, or glue the sheets back to back. A Scavenger finds dead animals and eats them. A Shredder chews dead things small. A Digester pours on enzymes. Nobody yet means no cleanup crew can eat it.",
      "context": "This is the first step of Cleanup Crew. You set up the cards and the tokens."
     },
     {
@@ -609,7 +609,7 @@
      "qty": 3
     },
     {
-     "item": "3 small cups or katoris that stand inside a jar (a clear glass cup shows the milkiness best; a steel katori also works, look at the top of the liquid)",
+     "item": "3 small cups or katoris that stand inside a jar (a clear glass cup shows the milkiness best. A steel katori also works, but then you look at the top of the liquid)",
      "qty": 3
     },
     {
@@ -676,7 +676,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write the guesses on the results table. Your child met limewater in the animal breathing unit, if you have done it. If not, a quick breath test through a straw will show it in step 4. One child with a parent: the child predicts and scores, the parent handles chuna. Two to four children: each child is the keeper of one jar and scores it, or each pair makes its own set of three jars (jars and soil are free); the grown-up makes one jug of limewater for all.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write the guesses on the results table. Your child met limewater in the animal breathing unit, if you have done it. If not, a quick breath test through a straw will show it in step 4. One child with a parent: the child predicts and scores, the parent handles chuna. Two to four children: each child is the keeper of one jar and scores it, or each pair makes its own set of three jars (jars and soil are free). The grown-up makes one jug of limewater for all.",
      "context": "This is the first step of the Breathing Soil test. You guess before you set up."
     },
     {
@@ -705,7 +705,7 @@
        ]
       }
      ],
-     "parent": "Chop the peel as fine as you can, because small pieces rot faster. Do not pack the soil down. The soil needs to be damp but not muddy. The jaggery is food for the soil microbes and makes the result quick and clear; both soil jars get the same. The jars will smell a little sweet and sour in a day. That is normal.",
+     "parent": "Chop the peel as fine as you can, because small pieces rot faster. Do not pack the soil down. The soil needs to be damp but not muddy. The jaggery is food for the soil microbes and makes the result quick and clear. Both soil jars get the same. The jars will smell a little sweet and sour in a day. That is normal.",
      "check": {
       "t": "mcq",
       "q": "Why do we keep jar C with only air?",
@@ -726,7 +726,7 @@
      "say": "First check your limewater by blowing through a straw. If it turns milky, it works. Then fill the three katoris, stand one in each jar, and close the lids quickly. Jar B goes in the fridge.",
      "kid": "Blow into the limewater. It turns milky. Fill three katoris, put one in each jar, close the lids.",
      "adult": true,
-     "parent": "Do not let the limewater touch the soil. Keep the powder at the bottom of the jug and pour only the clear water. If the breath test does not turn milky, the chuna may be old. Make a new jug, using a bigger spoon. Put jars A and C in a warm spot out of the sun, such as a kitchen shelf. Use jars with tight lids; if a lid is loose, put a layer of cling film under it. If your room is cold, jar A may be slow.",
+     "parent": "Do not let the limewater touch the soil. Keep the powder at the bottom of the jug and pour only the clear water. If the breath test does not turn milky, the chuna may be old. Make a new jug, using a bigger spoon. Put jars A and C in a warm spot out of the sun, such as a kitchen shelf. Use jars with tight lids. If a lid is loose, put a layer of cling film under it. If your room is cold, jar A may be slow.",
      "context": "In this step, you check the limewater, and then seal a katori of it into each jar."
     },
     {
@@ -817,7 +817,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up uses the knife and the grater. Do not open the boxes once they have fuzzy mould on them, because the spores can make some people sneeze or cough. Look through the clear lid. A grown-up wraps the boxes in a bag and puts them in the bin when the test is over. Wash hands after. Anyone with asthma or a mould allergy should not open the boxes or smell them closely; a grown-up does it.",
+   "safety": "A grown-up uses the knife and the grater. Do not open the boxes once they have fuzzy mould on them, because the spores can make some people sneeze or cough. Look through the clear lid. A grown-up wraps the boxes in a bag and puts them in the bin when the test is over. Wash hands after. Anyone with asthma or a mould allergy should not open the boxes or smell them closely. A grown-up does it.",
    "record": "Each day, give each box a score: 0 for no change, 1 for a smell or a soft spot, 2 for slime or a little fuzz, 3 for mostly soft and fuzzy. Write the scores in the table. Draw a line for each carrot over the six days.",
    "context": "In this experiment, you cut one carrot in three ways and watch which part rots first. It tests whether small pieces rot faster than big ones.",
    "setup": [
@@ -855,7 +855,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is good. Some children guess that the whole carrot will rot first because it is bigger. Write it down and let the test answer it. One child: the child scores and draws the graph, the parent cuts. Two to four children: one child is cutter-helper, one fills the boxes, one scores each day; or each child makes their own three boxes from a thick-end carrot of their own (carrots are cheap).",
+     "parent": "Do not correct the guess. Any guess with a reason is good. Some children guess that the whole carrot will rot first because it is bigger. Write it down and let the test answer it. One child: the child scores and draws the graph, the parent cuts. Two to four children: one child helps the grown-up cut, one fills the boxes and one scores each day. Or each child makes their own three boxes from a thick-end carrot of their own (carrots are cheap).",
      "context": "This is the first step of Cut It Up. You guess before you start."
     },
     {
@@ -1112,7 +1112,7 @@
     }
    ],
    "record": "A diary page for each look (day 1, 4, 8 and 14), with a drawing, how many flowers still look like flowers, a short note about colour, smell and softness, and a guess about who has been at work.",
-   "safety": "Wash hands after touching the soil and the flowers. Do not eat any of the flowers. Anyone with asthma or a mould allergy should not dig up or sniff the fuzzy flowers; a grown-up does it, with gloves. Use unsprayed flowers if you can, and keep the pot out of reach of small children and pets.",
+   "safety": "Wash hands after touching the soil and the flowers. Do not eat any of the flowers. Anyone with asthma or a mould allergy should not dig up or sniff the fuzzy flowers. A grown-up does it, with gloves. Use unsprayed flowers if you can, and keep the pot out of reach of small children and pets.",
    "context": "In this activity, you watch a used flower garland change over two weeks. One half goes in damp soil, and one half stays dry.",
    "setup": [
     {
@@ -1427,7 +1427,7 @@
     }
    ],
    "record": "A table with the three pots and, for day 4, 8 and 14, the average height of the plants and their colour. A bar chart of height on day 14.",
-   "safety": "Wash hands after handling soil and compost. Do not eat the seeds or the sprouts from this test. Methi is a legume: a child allergic to peanuts, chickpeas or other legumes should not handle the seeds; use another seed and keep the sprouts away from food.",
+   "safety": "Wash hands after handling soil and compost. Do not eat the seeds or the sprouts from this test. Methi is a legume: a child allergic to peanuts, chickpeas or other legumes should not handle the seeds. Use another seed and keep the sprouts away from food.",
    "context": "In this project, you grow methi in three different pots over two weeks. It tests whether rotted leaves feed a new plant.",
    "setup": [
     {
@@ -1454,7 +1454,7 @@
      "do": "Show your child the three pots and what goes in each. Ask for a guess and a reason about which pot will grow the best plants.",
      "say": "Pot A has only cocopeat. Pot B has cocopeat and rotted compost. Pot C has garden soil. Which pot will grow the best methi? Why do you think so?",
      "kid": "There are three pots. Which pot will grow the best methi? Why?",
-     "parent": "Cocopeat holds water but has almost no nutrients. Vermicompost is made by worms and microbes from dead plant matter. Do not correct the guess. Pots A and B differ only by the compost, so they are the fair test; pot C is a bonus that shows ordinary soil. One child: the child measures and records. Two to four children: each child keeps one pot (or each pair its own set of three) and measures its plants; compare in a group chart.",
+     "parent": "Cocopeat holds water but has almost no nutrients. Vermicompost is made by worms and microbes from dead plant matter. Do not correct the guess. Pots A and B differ only by the compost, so they are the fair test. Pot C is a bonus that shows ordinary soil. One child: the child measures and records. Two to four children: each child keeps one pot (or each pair its own set of three) and measures its plants. Then compare the heights in a group chart.",
      "context": "This is the first step of the Methi project. You guess before you plant."
     },
     {
@@ -1463,7 +1463,7 @@
      "do": "Fill the pots. Plant 8 methi seeds about 1 centimetre deep in each. Water each pot with the same amount, about half a cup. Put all three on the same window ledge.",
      "say": "Fill the pots the same way, and plant 8 seeds in each. Water each pot with the same amount. Put them side by side in the light.",
      "kid": "Fill the pots. Plant 8 seeds in each. Water all three the same.",
-     "parent": "Soak the seeds in water overnight to help them sprout. Methi seeds sprout in 2 to 4 days. Keep the soil damp, not soaked. The seeds hold their own food for the first week, so the differences between the pots only show clearly after about 10 days. Cocopeat from a shop is sometimes salty; rinse it once if it is a hard block. Be patient.",
+     "parent": "Soak the seeds in water overnight to help them sprout. Methi seeds sprout in 2 to 4 days. Keep the soil damp, not soaked. The seeds hold their own food for the first week, so the differences between the pots only show clearly after about 10 days. Cocopeat from a shop is sometimes salty, so rinse it once if it is a hard block. Be patient.",
      "check": {
       "t": "mcq",
       "q": "Why do all three pots get the same amount of seeds, water and light?",
@@ -1492,7 +1492,7 @@
      "do": "On day 14, measure and draw a bar chart of the average heights. Ask your child to say what they thought, what they saw, and why.",
      "say": "Draw a bar for each pot. Tell me what you thought, what you saw, and why you think it happened.",
      "kid": "Draw a bar for each pot. Say what you thought, what you saw, and why.",
-     "parent": "A strong answer says that the compost holds nutrients from dead leaves and other waste, released by decomposers, and the plants drink them. After your child has explained, say that the methi plants have just done what the banana plants did in the story The Palm That Stayed.",
+     "parent": "A strong answer says that the compost holds nutrients from dead leaves and other waste, released by decomposers, and the plants drink them. After your child has explained, say that in the story The Palm That Stayed, the banana plants grew well beside the rotting trunk. The methi plants have just shown the same thing.",
      "think": "Where did the nutrients in the vermicompost come from, before they were in the compost?",
      "context": "This is the last step of the Methi project. You draw the chart and explain what you found."
     }
@@ -2414,7 +2414,7 @@
   "If you could ask a fungus one question, what would you ask?",
   "Is there anything in your bag that no cleanup crew could eat?",
   "Who might be living under a pot or a stone in our yard or on our balcony?",
-  "When we cut a fruit for the compost, what are we making more of?",
+  "When we cut a fruit small for the compost, what do we make more of for the decomposers to work on?",
   "What do you think happens to a mango stone when we leave it in the soil?",
   "How could a tree feed another tree, even after she falls?"
  ],
@@ -2579,7 +2579,7 @@
    "id": "b-cocopeat",
    "item": "Cocopeat, a small block or bag",
    "kind": "material",
-   "why": "For the Methi project. Cocopeat holds water but has almost no nutrients. A small block costs about Rs 50 to 100; a nursery may sell a handful, or use sand for pot A.",
+   "why": "For the Methi project. Cocopeat holds water but has almost no nutrients. A small block costs about Rs 50 to 100. A nursery may sell a handful, or you can use sand for pot A.",
    "url": "https://www.amazon.in/s?k=cocopeat+block",
    "used_in": [
     "p1"
@@ -2589,7 +2589,7 @@
    "id": "b-vermi",
    "item": "Vermicompost, a small pack",
    "kind": "material",
-   "why": "For the Methi project. It is the rotted matter left by earthworms and microbes. A nursery or a neighbour with a compost pit can spare 3 tablespoons; a small pack costs about Rs 50.",
+   "why": "For the Methi project. It is the rotted matter left by earthworms and microbes. A nursery or a neighbour with a compost pit can spare 3 tablespoons. A small pack costs about Rs 50.",
    "url": "https://www.amazon.in/s?k=vermicompost+organic+manure",
    "used_in": [
     "p1"
@@ -2707,14 +2707,14 @@
  "roots": {
   "context": "We have followed a dead log into the air and the soil. Now we ask what the cleanup crews tell us about waste, and about what we are made of.",
   "deep_truth": {
-   "truth": "In the Breathing Soil test, the soil in the jar breathed out carbon dioxide, and the limewater above it went milky. Tiny decomposers eat dead leaves and turn them into gas and into food for plants. In a forest, every leftover is someone's meal. 'Waste' is only what nobody has learned to eat yet.",
+   "truth": "In the Breathing Soil test, the soil in the jar breathed out carbon dioxide, and the limewater above it went milky. Tiny decomposers eat dead leaves and turn them into gas and into food for plants. In a forest, every leftover is someone's meal. In nature, 'waste' only means something that nobody has learned to eat yet.",
    "habit": "We split the world into useful things and waste, as if some things were made to be thrown away. A dead leaf, a dropped peel and a fallen palm look like rubbish. They are food for the next living being. A thing becomes waste only when there is no one to eat it.",
    "evidence": "In the Breathing Soil test, the jar with soil and peel turned limewater milky, and the jar with only air did not. In the Cut It Up test, the grated carrot rotted first. Plastic stays because few decomposers have the enzymes for it."
   },
   "three": {
    "who_am_i": "The carbon in your body was in the air, in plants and in other animals before it was in you, and it will move on again.",
    "what_is_life": "Life is made of eating and being eaten. A fungus is as much a part of life as a lion, and she is the one who sends the atoms back for the next plant.",
-   "what_is_this_world": "The world is a loop of matter powered by the Sun. The atoms in every leaf have been in the soil, the air and a body many times already."
+   "what_is_this_world": "Matter goes round and round on Earth, and the energy of the Sun keeps it going. The atoms in every leaf have been in the soil, the air and a body many times already."
   },
   "thread": "A leaf is made from air and water, using the energy of sunlight. When the leaf dies, a fungus or a worm breaks it down, and the same atoms go back into the air and the soil. A new leaf then builds its body from those atoms. The loop has no starting point, and nothing in it is waste. Each body holds the atoms only for a while. The Sun keeps the loop going. Its energy is passed along and ends as heat.",
   "teachings": [
@@ -2726,12 +2726,12 @@
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and then each returns to its root. Returning to the root is called stillness.",
-    "link": "A leaf grows from the soil and the air, and returns to them. The cycle is a return to the root."
+    "link": "When a leaf rots, its atoms return to the soil and the air that they came from."
    },
    {
     "source": "Genesis 3:19",
     "teaching": "From dust you were made, and to dust you will return.",
-    "link": "Many traditions say it in their own words. The science says it as a count of atoms: the carbon and the minerals in a body come from the soil and the air, and they go back."
+    "link": "Many traditions say this in their own words. Science says it by following the atoms. The carbon and the minerals in a body come from the soil and the air, and they go back there."
    }
   ],
   "science": [
@@ -2746,7 +2746,7 @@
   ],
   "other_view": {
    "who": "The Charvaka school of ancient India",
-   "view": "A person is only matter in a certain arrangement, and when the arrangement falls apart nothing remains. The body goes back to the elements, and there is nothing more to say. A view that sees all life as one can accept this. It agrees about the atoms, and then asks whether anything else goes round besides the atoms."
+   "view": "A person is only matter in a certain arrangement, and when the arrangement falls apart nothing remains. The body goes back to the elements, and there is nothing more to say. A view that sees all life as one can accept this, because it agrees about the atoms. It then asks a further question, which is whether anything besides the atoms goes round."
   },
   "practice": {
    "title": "Where does this breath go?",
@@ -2769,5 +2769,5 @@
   "when": "1990s to 2006",
   "wrong_idea": "People first thought that an infectious disease was killing the vultures. The team showed that the birds were being poisoned by a painkiller in the dead cattle they ate, and that a vulture's kidneys fail within days of eating it."
  },
- "warm": {"words": ["FUNGI", "HUMUS", "CYCLE", "WORMS", "ROOTS"], "quiz": [["Rotting is a slow, cool kind of burning, because decomposers use oxygen and give out carbon dioxide.", true, "Decomposers get energy from dead food by respiration, as a fire does, but slowly and with little heat."], ["When a log rots, most of it turns into soil.", false, "Most of its carbon is breathed out by decomposers as carbon dioxide into the air."], ["A fallen leaf rots at the same speed in a cold, dry place and a warm, wet one.", false, "Decomposers work fastest when it is warm, wet and airy, and slowly when cold, dry or short of air."], ["A chopped carrot rots faster than a whole carrot of the same weight.", true, "Decomposers work only on the outside of food, and small pieces have more surface."], ["Matter goes round and round in living things, but energy passes through and leaves as heat.", true, "The same atoms are used again and again, while energy from the Sun is not used again."], ["A lush rainforest must grow on rich soil.", false, "Many rainforests grow on poor soil; their nutrients are held mostly in living trees and fast-rotting leaf litter."], ["Plastic lasts a very long time because few microbes make enzymes that fit it.", true, "Enzymes cut food into pieces small enough to soak up, and most enzymes do not fit plastic."], ["The world is better without vultures, because they are dirty.", false, "Vultures clear dead animals fast; when India lost most of them, carcasses lay in the open for longer."], ["A bioplastic labelled biodegradable will rot like a banana peel in any garden.", false, "Many need the steady heat of a compost plant, about 58 degrees Celsius. Elsewhere they can last for years."], ["Plants can use nutrients that decomposers set free from dead plants and animals.", true, "Decomposers release minerals into the soil water, and roots drink them to build new leaves and stems."]], "odd": [[["Fungus", "Bacterium", "Mould", "Dung beetle"], "Dung beetle", "Fungi, bacteria and mould digest dead matter with enzymes; the dung beetle only chews it into smaller pieces."], [["Burning wood", "Rotting log", "Running child", "Leaf making food"], "Leaf making food", "The first three give out carbon dioxide as they release energy; a leaf making food takes carbon dioxide in."], [["Chopped carrot", "Grated carrot", "Crushed leaves", "Whole coconut"], "Whole coconut", "The first three have lots of surface for decomposers to work on; a whole coconut has little for its size."], [["Cold mountain top", "Dry desert sand", "Flooded swamp mud", "Warm wet forest floor"], "Warm wet forest floor", "The first three are cold, dry or short of air, so rot is slow; warm, wet, airy ground rots fast."], [["Carbon atoms", "Nitrogen atoms", "Phosphorus atoms", "Heat from rotting"], "Heat from rotting", "Atoms are used again and again in cycles; heat is energy that leaves and is not used again."]]}
+ "warm": {"words": ["FUNGI", "HUMUS", "CYCLE", "WORMS", "ROOTS"], "quiz": [["Rotting is a slow, cool kind of burning, because decomposers use oxygen and give out carbon dioxide.", true, "Decomposers get energy from dead food by respiration, as a fire does, but slowly and with little heat."], ["When a log rots, most of it turns into soil.", false, "Most of its carbon is breathed out by decomposers as carbon dioxide into the air."], ["A fallen leaf rots at the same speed in a cold, dry place and a warm, wet one.", false, "Decomposers work fastest when it is warm, wet and airy, and slowly when cold, dry or short of air."], ["A chopped carrot rots faster than a whole carrot of the same weight.", true, "Decomposers work only on the outside of food, and small pieces have more surface."], ["Matter goes round and round in living things, but energy passes through and leaves as heat.", true, "The same atoms are used again and again, while energy from the Sun is not used again."], ["A lush rainforest must grow on rich soil.", false, "Many rainforests grow on poor soil. Their nutrients are held mostly in living trees and fast-rotting leaf litter."], ["Plastic lasts a very long time because few microbes make enzymes that fit it.", true, "Enzymes cut food into pieces small enough to soak up, and most enzymes do not fit plastic."], ["The world is better without vultures, because they are dirty.", false, "Vultures clear dead animals fast; when India lost most of them, carcasses lay in the open for longer."], ["A bioplastic labelled biodegradable will rot like a banana peel in any garden.", false, "Many need the steady heat of a compost plant, about 58 degrees Celsius. Elsewhere they can last for years."], ["Plants can use nutrients that decomposers set free from dead plants and animals.", true, "Decomposers release minerals into the soil water, and roots drink them to build new leaves and stems."]], "odd": [[["Fungus", "Bacterium", "Mould", "Dung beetle"], "Dung beetle", "Fungi, bacteria and mould digest dead matter with enzymes. The dung beetle only chews it into smaller pieces."], [["Burning wood", "Rotting log", "Running child", "Leaf making food"], "Leaf making food", "The first three give out carbon dioxide as they release energy. A leaf making food takes carbon dioxide in."], [["Chopped carrot", "Grated carrot", "Crushed leaves", "Whole coconut"], "Whole coconut", "The first three have lots of surface for decomposers to work on. A whole coconut has little for its size."], [["Cold mountain top", "Dry desert sand", "Flooded swamp mud", "Warm wet forest floor"], "Warm wet forest floor", "The first three are cold, dry or short of air, so rot is slow. Warm, wet, airy ground rots fast."], [["Carbon atoms", "Nitrogen atoms", "Phosphorus atoms", "Heat from rotting"], "Heat from rotting", "Atoms are used again and again in cycles. Heat is energy that leaves and is not used again."]]}
 }

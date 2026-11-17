@@ -207,7 +207,7 @@
    "status": "defined",
    "context": "This card explains why shape is a poor clue for who is related to whom.",
    "definition": "Convergent evolution is when animals who are not close relatives end up with a similar shape, because they solve the same problem.",
-   "description": "A shark, a dolphin and a penguin all have a smooth, pointed body and a fin or flipper on each side. Swimming fast through water pushes every swimmer towards that shape. Over a very long time, each one's young changed a little in each generation, and the shape that cut through water best was the one that was passed on. The shark is a fish, the dolphin is a mammal and the penguin is a bird, so they sit on three different branches of the family tree. A bat's wing and a crow's wing are another pair. Both are for flying, but each kind of wing was built separately, from skin stretched over long fingers in the bat and from feathers in the crow. So scientists look past the shape, to clues that come from ancestors, such as milk, hair and the bones inside.",
+   "description": "A shark, a dolphin and a penguin all have a smooth, pointed body and a fin or flipper on each side. Swimming fast through water pushes every swimmer towards that shape. Over a very long time, the young in each generation changed a little. The shapes that cut through water best were the ones that were passed on. The shark is a fish, the dolphin is a mammal and the penguin is a bird, so they sit on three different branches of the family tree. A bat's wing and a crow's wing are another pair. Both are for flying, but each kind of wing was built separately. The bat's wing is skin stretched over long fingers, and the crow's wing is made of feathers. So scientists look past the shape, to clues that come from ancestors, such as milk, hair and the bones inside.",
    "examples": [
     "A shark, a dolphin and a penguin have similar shapes but different breathing and babies.",
     "The wings of a bat, a crow and a butterfly all fly, but have three different builds.",
@@ -239,7 +239,7 @@
    "examples": [
     "A frog is inside the four-limbs room but not the sealed-egg room.",
     "A crow is inside the sealed-egg room, and so are a gecko and a cat.",
-    "A dolphin is in the hair-and-milk room because her ancestors walked on land."
+    "A dolphin is in the hair-and-milk room because she is a mammal. Her ancestors walked on land, so she also fits the rooms around it."
    ],
    "perspectives": [],
    "art": "A floor plan of four rooms inside each other, labelled backbone, four limbs, sealed egg, and hair and milk, with animals standing in the rooms."
@@ -250,9 +250,9 @@
    "context": "This card is about where birds fit, because the family tree puts them in a surprising place.",
    "description": "In 1861 a fossil called Archaeopteryx was found in Germany. She had feathers and wings like a bird, and teeth and a long bony tail like a small dinosaur. Since 1996, fossils from China have shown many small dinosaurs with feathers. Most scientists agree that birds are the living descendants of small, feathered dinosaurs. When an asteroid hit the Earth about 66 million years ago, the bird branch survived. The closest living relatives of birds are crocodiles. What scientists still argue about is the name. Should birds still be a group of their own next to the reptiles, or are they a branch inside the reptiles?",
    "examples": [
-    "A crow's scaly legs look like a lizard's skin.",
+    "A crow's legs are covered in scales, like a lizard's skin. This is a small sign of the reptile family.",
     "A crocodile builds a nest and guards her eggs, like a bird.",
-    "A crow and a crocodile are closer relatives than a crocodile and a gecko."
+    "A crocodile is a closer relative of a crow than of a gecko."
    ],
    "perspectives": [
     {
@@ -315,7 +315,7 @@
    "status": "defined",
    "context": "This card shows the three kinds of evidence scientists use today to check the groups, and one surprise.",
    "definition": "Scientists check animal groups with three kinds of evidence: bones, fossils and DNA. Where all three agree, the group is trusted.",
-   "description": "Bones show shared plans, like the arm bones. Fossils show animals in between, such as Tiktaalik. DNA lets scientists compare the genes of any two animals, even ones that look nothing alike. Mostly the three agree. Sometimes DNA gives a surprise. The closest living relatives of whales and dolphins are hippos. Fossils fit this. Early whales lived in the rivers and shores of what is now India and Pakistan about 50 million years ago, and the ones found in Pakistan had four legs. A fossil jaw called Himalayacetus, found in Himachal Pradesh and described in 1998 by Sunil Bajpai and Philip Gingerich, is one of the oldest early-whale fossils known.",
+   "description": "Bones show shared plans, like the arm bones. Fossils show animals in between, such as Tiktaalik. DNA lets scientists compare the genes of any two animals, even ones that look nothing alike. Mostly the three agree. Sometimes DNA gives a surprise. The closest living relatives of whales and dolphins are hippos. The fossils agree with this. Early whales lived in the rivers and shores of what is now India and Pakistan about 50 million years ago, and the ones found in Pakistan had four legs. A fossil jaw called Himalayacetus, found in Himachal Pradesh and described in 1998 by Sunil Bajpai and Philip Gingerich, is one of the oldest early-whale fossils known.",
    "examples": [
     "Bones show that your arm and a bat's wing share a plan.",
     "Fossils from Pakistan show early whales with four legs.",
@@ -339,7 +339,7 @@
    "evidence": "Fossils of Archaeopteryx and of many feathered dinosaurs from China show feathers, wishbones and nesting in animals that were not birds yet."
   },
   {
-   "text": "A mammal is an animal who feeds her babies milk, and egg laying does not exclude her.",
+   "text": "A mammal is an animal who feeds her babies milk. Laying eggs does not stop an animal from being a mammal.",
    "evidence": "The platypus and the echidnas lay eggs and feed milk, and William Caldwell showed in 1884 that they lay eggs."
   },
   {
@@ -1716,7 +1716,7 @@
    "creative": [
     "For reptiles: Animals with dry scales and lungs. The fish have wet scales, and the amphibians have moist skin.",
     "For amphibians: Animals with moist skin, who breathe with lungs and skin together, and who lay jelly eggs in water or damp soil.",
-    "A rule that uses 'or', such as 'animals with hair or feathers', makes one group of warm animals. Is that a real family?"
+    "Try a rule that uses 'or', such as 'animals with hair or feathers'. It puts birds and mammals into one group of warm-blooded animals. Is that group one real family, or two families joined together?"
    ],
    "your_turn": "Pick a group and write your best rule. Test it. How many animals break it? Which clue did you use, and where did that clue come from?",
    "setup": [
@@ -2630,12 +2630,12 @@
   "Fisheries managers sort the catch by group, so that dolphins, turtles and sharks caught by accident can be released safely.",
   "Museums arrange skeletons by their matching bones, so visitors can see which animals share a plan.",
   "Drug researchers study animals with no backbone, such as cone snails, whose venom led to a painkiller.",
-  "Farmers sort animals as ruminants, birds or fish to plan feed, housing and medicines.",
+  "Farmers sort animals into ruminants (animals such as cows and goats, who chew their cud), birds and fish, to plan feed, housing and medicines.",
   "Wildlife researchers use DNA to tell which animals are related, and to find animals not yet named."
  ],
  "spotted": [
   {
-   "text": "A house crow on the window ledge. Look at her scaly legs: they look like a lizard's skin.",
+   "text": "A house crow on the window ledge. Look at her legs. They are covered in scales, like a lizard's skin.",
    "art": "A house crow on a window ledge with her scaly legs showing."
   },
   {
@@ -3045,7 +3045,7 @@
   "context": "We have tested sorting rules against animals that break them, and followed the backbone family tree. Now we ask what this tells us about ourselves and about the world.",
   "deep_truth": {
    "truth": "A lungfish is a closer relative of a cow than of a salmon. The fish branch that crawled onto land became frogs, lizards, birds, mammals and us. So the word fish names a way of life in water, not one family. By family, we are inside that branch.",
-   "habit": "We picture the five groups as five separate boxes, and fish as the box farthest from us. But boxes made from looks and ways of life can cut one family in two, and the family tree has no gap between fish and us.",
+   "habit": "We picture the five groups as five separate boxes, with fish as the box farthest from us. But boxes made from looks and ways of life can split one family in two. On the family tree, there is no gap between fish and us.",
    "evidence": "In the Rule Test, the rule 'animals that live in water are fish' put a dolphin with the fish. A lungfish has lungs and fins with bones. Her genes are closer to land animals than to a salmon. And a 375-million-year-old fossil called Tiktaalik had fins with wrist bones."
   },
   "three": {
@@ -3053,7 +3053,7 @@
    "what_is_life": "Every animal with a backbone came from one very old ancestor. Fish, frogs, lizards, crows and cows are all her descendants, so they are cousins.",
    "what_is_this_world": "Most animals in the world have no backbone, 19 of every 20 kinds. The world is mostly theirs, and we are a small branch of the animals."
   },
-  "thread": "More than 500 million years ago, the first small swimmers with a backbone lived in the sea. Their young changed a little in each generation, and the branches split again and again. One branch grew jaws, one grew fleshy fins, and one crawled onto land. Later, eggs with a waterproof skin let animals breed away from water, and then feathers and milk appeared. When we sort by clues that come from ancestors, we are finding where the branches join. All animals with a backbone are one family, and the five groups are five of its branches.",
+  "thread": "More than 500 million years ago, the first small swimmers with a backbone lived in the sea. Over a very long time, the young in each generation changed a little, and the family split into more and more branches. One branch grew jaws. Another branch grew fleshy fins, and some of those animals crawled onto land. Later, eggs with a waterproof skin let animals breed away from water, and then feathers and milk appeared. When we sort by clues that come from ancestors, we are finding where the branches join. All animals with a backbone are one family, and the five groups are five of its branches.",
   "teachings": [
    {
     "source": "Tattvartha Sutra 5.21, by Umaswati, a Jain text",
@@ -3094,13 +3094,13 @@
   "ask": [
    "The lungfish is a fish, and she is closer to a cow than to a salmon. What do you think the word fish should mean?",
    "If all animals with a backbone came from one ancestor, are they all cousins? What would that change about how you look at a crow or a frog?",
-   "Nobody drew the lines between the five groups before the animals existed. Who drew them, and why?"
+   "Nature did not come with the five groups already drawn. People drew those lines. Who drew them, and why?"
   ],
   "art": "A big tree with a small swimming animal at its roots, and branches ending in a fish, a frog, a lizard, a crow, a cow and a child, all reaching into the same sky."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Rule Test needs the animal cards from the Group Detective game, so print them first. Every expected count was worked out card by card: rule 1 lets in 6 and leaves out 0, rule 2 lets in 1 and leaves out 2, rule 3 lets in 3 and leaves out 1, rule 4 lets in 2 and leaves out 0, and rule 5 has none. The line 'Young' on the Russell's viper and whale shark cards must not mention milk, or the milk rules break. Hold Your Breath is done sitting down, with a stop whenever the child wants to, and the star jumps are skipped for a child with asthma. Lump or Powder: warm tap water dissolves a crushed cube in under a minute and a whole cube in about 4 to 8 minutes, but these times were reasoned, not measured, and kalkandu takes much longer than a sugar cube, so write down what you really see. The floor game needs chalk or masking tape. Checked by a second reader: the 2022 Palk Bay dugong reserve, the dive times, the lung area range, the Himalayacetus jaw and the caecilian scales. Still to check before the unit goes live: the counts of 1.5 million named animals and about 75,000 with a backbone, the exact wording of the Caldwell telegram, the Tamil name kadal pasu, and the wording of the Tattvartha Sutra and Sutta Nipata lines. The videos have no address yet.",
  "how_we_found_out": {
-  "story": "In 1799 a dried skin of a strange animal reached Britain from New South Wales. It had fur, a flat bill like a duck and webbed feet. The scientist George Shaw wondered whether someone had sewn the parts together as a trick. It was real, and it was a platypus. The next puzzle was her eggs. Aboriginal people had long said the platypus lays eggs. Most European scientists did not believe it, because they thought every animal with fur and milk must give birth to live young. So for decades the question stayed open. In 1884 a young Scottish scientist, William Caldwell, hired many Aboriginal people to help him find platypuses and echidnas in Queensland. In late August he found a platypus egg. He sent a short telegram to a scientific meeting in Montreal. It said that these animals lay eggs. Scientists then changed the rule. A mammal is an animal that feeds milk. Live birth was not needed.",
+  "story": "In 1799 a dried skin of a strange animal reached Britain from New South Wales. It had fur, a flat bill like a duck and webbed feet. The scientist George Shaw wondered whether someone had sewn the parts together as a trick. It was real, and it was a platypus. The next puzzle was her eggs. Aboriginal people had long said the platypus lays eggs. Most European scientists did not believe it, because they thought every animal with fur and milk must give birth to live young. So for decades the question stayed open. In 1884 a young Scottish scientist, William Caldwell, hired many Aboriginal people to help him find platypuses and echidnas in Queensland. In late August he found a platypus egg. He sent a short telegram to a scientific meeting in Montreal. It said that these animals lay eggs. Scientists then changed the rule. They agreed that a mammal is an animal who feeds her babies milk, and that giving birth to live young is not needed.",
   "who": "George Shaw, William Caldwell, and the Aboriginal people who had always known",
   "when": "1799 (the first skin described) and 1884 (the eggs shown)",
   "wrong_idea": "People thought that an animal with fur and milk must give birth to live young, so an animal who lays eggs could not be a mammal. Caldwell found the eggs in 1884, and scientists changed the rule to milk.",

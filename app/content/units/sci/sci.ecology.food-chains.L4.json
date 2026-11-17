@@ -8,7 +8,7 @@
   },
   "intro": {
     "hook": "Put the back of your hand on your forehead. Feel how warm you are? Where did that warmth come from, and where is it going now?",
-    "text": "Your body is about as warm as a cup of tea you could sip. Nobody lit a fire inside you. The warmth comes from your last meal. That meal was a plant, or an animal who ate plants, and the plants caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this unit you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.",
+    "text": "Your body stays warm all the time, at about 37 degrees. Nobody lit a fire inside you. The warmth comes from your last meal. That meal was a plant, or an animal who ate plants, and the plants caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this unit you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.",
     "art": "A child with a hand on their forehead, and faint heat waves rising from the hand and the head into a room, with a plate of rice and dal on the table."
   },
   "outcomes": [
@@ -25,7 +25,7 @@
     {
       "term": "Trophic level",
       "meaning": "A step in a food chain, counted from the producers. Producers are level 1, the animals that eat them are level 2, and so on.",
-      "example": "In rice, grasshopper, frog, snake, the frog is at level 3.",
+      "example": "In the food chain rice, grasshopper, frog, snake, the frog is at level 3.",
       "art": "A staircase of four steps, with a rice plant on the first step, a grasshopper on the second, a frog on the third and a snake on the fourth."
     },
     {
@@ -215,7 +215,7 @@
       "concept": "Food webs and levels that are not whole numbers",
       "status": "defined",
       "definition": "Most animals eat from more than one level, so an animal's trophic level is the average level of her food plus one, and is often not a whole number.",
-      "description": "A crow eats grain and fruit, which are level 1, and also insects, which are level 2. Half her food is level 1 and half is level 2. The average is 1.5, so the crow sits at 2.5. Scientists use this idea to give every animal a number. They also measure it in the body. The nitrogen in an animal's body gets a little heavier at each step up a food chain, and the size of that change tells scientists the level. In 2013 a team estimated that people around the world, on average, are at about 2.2. That is about the same level as a pig or an anchovy. Most of what most people eat comes from plants.",
+      "description": "A crow eats grain and fruit, which are level 1, and also insects, which are level 2. Half her food is level 1 and half is level 2. The average is 1.5, so the crow sits at 2.5. Scientists use this idea to give every animal a number. They also measure it in the body. Nitrogen atoms come in a lighter kind and a slightly heavier kind. The share of the heavier kind in an animal's body goes up a little at each step up a food chain, and the size of that rise tells scientists the level. In 2013 a team estimated that people around the world, on average, are at about 2.2. That is about the same level as a pig or an anchovy. Most of what most people eat comes from plants.",
       "examples": [
         "A cow eats only grass and straw. She is at level 2.",
         "Half of a rat snake's food is frogs (level 3) and half is rats (level 2). She is at 3.5.",
@@ -313,7 +313,7 @@
     },
     {
       "text": "Most animals feed at more than one trophic level.",
-      "evidence": "Scientists check this by looking inside stomachs and by measuring nitrogen in bodies. Nitrogen gets a little heavier at each step, as Minagawa and Wada found in 1984."
+      "evidence": "Scientists check this by looking inside stomachs and by measuring nitrogen in bodies. The share of heavy nitrogen rises a little at each step, as Minagawa and Wada found in 1984."
     }
   ],
   "challenging": [
@@ -360,7 +360,7 @@
       "hint": "Think about the atoms that stay and the energy that passes. Which of the two is you?"
     },
     {
-      "q": "A candle flame stays the same shape while the wax burns away. Is a living body more like a thing, or more like a flame?",
+      "q": "A candle flame keeps its shape while the wax burns away and the heat leaves. A living body also keeps its shape while food is used up and heat leaves. So is a living body more like a solid thing, or more like a flame?",
       "kind": "deep",
       "hint": "What would have to stop for the flame to go out? What would have to stop for a body to stop being alive?"
     },
@@ -1090,7 +1090,7 @@
           "t": "mcq",
           "p": "Why do ecologists measure heavy nitrogen in an animal's body?",
           "opts": [
-            "It becomes a little heavier at each step up the food chain, so it shows her level",
+            "Its heavy kind builds up a little at each step up the food chain, so it shows her level",
             "It shows how old she is",
             "It shows how fast she can run"
           ],
@@ -1151,7 +1151,7 @@
             ],
             [
               "Minagawa and Wada",
-              "Found that nitrogen gets heavier at each step up a food chain"
+              "Found that the heavy kind of nitrogen builds up at each step up a food chain"
             ]
           ],
           "a": "pairs as given",
@@ -1751,7 +1751,7 @@
           "qty": 1
         },
         {
-          "item": "a desk lamp with a bright bulb (an old filament bulb or a CFL is best; an LED stays cool, so it works slowly), or strong sun on a window sill",
+          "item": "a desk lamp with a bright bulb (an old filament bulb or a CFL is best, because an LED stays cool and so it works slowly), or strong sun on a window sill",
           "qty": 1
         },
         {
@@ -2256,7 +2256,7 @@
     "Conservation planners count the energy at the bottom of the web to decide how many tigers a forest can support.",
     "Fishing rules, such as a break during the monsoon, protect the lower levels so that bigger fish can feed.",
     "Dairy farmers feed cows straw and grass that people cannot eat, and get milk. The cows turn energy that people cannot use into food that people can eat.",
-    "Insulated lunch boxes and thermoses work by slowing down the escape of heat. Heat escapes in the same way from every body in a food chain.",
+    "Insulated lunch boxes and thermoses work by slowing down the escape of heat. A foil shield around a burning peanut does the same job.",
     "Scientists measure what fish and sea birds eat by the heavy nitrogen in their bodies, to learn whether a fishery is still healthy.",
     "Wetland and mangrove protection, such as at Pichavaram and in the Sundarbans, keeps the dead-leaf chain that feeds fish.",
     "Cooks and nutritionists measure food in kilojoules or kilocalories, the same energy units that scientists use to measure a food chain."
@@ -2629,14 +2629,14 @@
   "roots": {
     "context": "We have followed the Sun's energy along food chains and watched it turn into heat. Now we ask what this tells us about what a living body is, and who we are.",
     "deep_truth": {
-      "truth": "Energy is not kept in a food chain. It passes through, and at every step most of it turns into heat. A living body is not a store of energy. It is a pattern that lasts only while energy keeps flowing through it, like a flame.",
+      "truth": "Energy is not kept in a food chain. It passes through, and at every step most of it turns into heat. A living body is not a store of energy. It stays alive and keeps its shape only while energy keeps flowing through it. A candle flame is the same, because it keeps its shape only while the wax burns.",
       "habit": "We talk as if a body 'has' energy and 'uses it up', like petrol in a tank, and as if the animal at the top has collected the most. But energy is never used up. It only changes form and spreads out as heat. A body does not keep the energy. It keeps its shape, while energy passes through.",
       "evidence": "In the experiment A Peanut Full of Sunshine, the burning peanut gave its stored energy to the water, the air and the tin, and none of it stayed in the nut. In 1942 Raymond Lindeman found less energy at every level of a lake. Heat leaves the Earth as fast as sunlight arrives. Living cells give off heat every second they are alive, and a body that stops taking in energy stops being alive."
     },
     "three": {
-      "who_am_i": "You are not a box that holds energy. You are a pattern that lasts while sunlight, through plants and food, keeps flowing through you.",
-      "what_is_life": "Life is energy passing through matter in a particular shape. Every being, from a bacterium to a tiger, keeps that shape going for a while by taking energy in and letting heat out.",
-      "what_is_this_world": "The Earth is a place where the Sun's light is slowed down on its way back to space. Every green leaf, every grasshopper and every mangrove crab is part of that slowing down."
+      "who_am_i": "You are not a box that stores energy. You stay alive and keep your shape only while energy from the Sun keeps flowing through you, by way of plants and food.",
+      "what_is_life": "Every living being, from a bacterium to a tiger, keeps their shape and stays alive by taking energy in and letting heat out. When the energy stops flowing through a body, that body stops being alive.",
+      "what_is_this_world": "The Earth receives the Sun's energy and gives almost all of it back to space as heat. On the way, the energy passes through green leaves, grasshoppers and mangrove crabs, and each of them uses it to stay alive."
     },
     "thread": "Sunlight arrives as one flow of energy. A leaf catches a small part, a caterpillar takes a small part of that, and a bird a small part of that again. At each step the energy passes into many bodies of different shapes, and at each step heat leaves and spreads into the sky. The Earth then gives back to space almost as much as it received. Nothing in the chain keeps the energy, and nothing in the chain could live without it. All these bodies are parts of one flow of energy, at different places along its way.",
     "teachings": [
@@ -2678,7 +2678,7 @@
     },
     "ask": [
       "If none of the energy stays in you, what is it that stays?",
-      "When you die, the atoms and the energy go on to others. What stops?",
+      "When you die, your atoms and your energy go on into other living things. What is it that comes to an end?",
       "Is the heat that leaves a body lost, or given?"
     ],
     "art": "A child holding a bite of rice beside a warm cheek, with a thin line of golden light running from a faraway Sun, through a rice plant, to the child, and wavy heat lines going up from the child into the sky."
@@ -2690,5 +2690,5 @@
     "when": "1941 to 1942",
     "wrong_idea": "Many ecologists thought the way to understand a lake or a forest was to list and count who lives there. Counting can mislead, because one tree can carry thousands of insects. Lindeman showed that following the energy, and including the dead matter in the mud, tells you much more."
   },
- "warm": {"words": ["SUGAR", "TENTH", "LEVEL", "PLANT", "FUNGI"], "quiz": [["A green field stores only about one hundredth of the sunlight that falls on it, or less.", true, "Plants catch a very small part of the sunlight, and turn only that part into sugar."], ["Exactly one tenth of the energy always passes to the next level, like a law of nature.", false, "Measured numbers range from under 2 to over 30 in 100, depending on who is eating."], ["Every living body gives off heat because cells use food and oxygen to free energy.", true, "This is respiration: food and oxygen make carbon dioxide, water and heat."], ["A pyramid of energy can be upside down, just like a pyramid of numbers can.", false, "Energy flowing through a level cannot be more than what it got from the level below."], ["One big tree can feed thousands of insects, so a pyramid of numbers can be upside down.", true, "A few large producers can support many small eaters, so the bottom bar is the narrower one."], ["Decomposers are the end of the food chain, and nothing eats them.", false, "Nematodes graze on fungi and bacteria, and springtails eat fungi, so decomposers feed others too."], ["Some food chains in the deep sea begin with chemicals, not sunlight.", true, "Near hot vents in total darkness, bacteria make food from chemicals and animals feed on them."], ["An animal who eats grass and also insects always sits at level 3.", false, "Her level is the average level of her food plus one, so it can be between 2 and 3."], ["Atoms in living things are used again and again, but energy is not.", true, "Atoms go round and round, while energy enters as light and leaves as heat."], ["Eating plants always uses less land than eating animals.", false, "Cows and goats turn grass and straw, which people cannot digest, into food, often on land where crops will not grow."]], "odd": [[["Cow", "Goat", "Rabbit", "Hawk"], "Hawk", "Cow, goat and rabbit eat producers, so they are at level 2; a hawk eats other animals, at level 3."], [["Dung beetle", "Earthworm", "Fungus", "Hawk"], "Hawk", "Dung beetle, earthworm and fungus feed on dead matter; a hawk hunts living animals."], [["Carbon in sugar", "Nitrogen in soil", "Atoms in dung", "Heat from respiration"], "Heat from respiration", "Atoms are used again and again; heat leaves living things and is not used again."], [["Sugar", "Starch", "Fat", "Salt"], "Salt", "Sugar, starch and fat hold chemical energy in joined atoms that a body can free; salt holds none to use."], [["Lizard", "Frog", "Snake", "Sparrow"], "Sparrow", "Cold-blooded lizards, frogs and snakes burn little food for heat, so they pass on more; a warm-blooded sparrow passes on less."]]}
+ "warm": {"words": ["SUGAR", "TENTH", "LEVEL", "PLANT", "FUNGI"], "quiz": [["A green field stores only about one hundredth of the sunlight that falls on it, or less.", true, "Plants catch a very small part of the sunlight, and turn only that part into sugar."], ["Exactly one tenth of the energy always passes to the next level, like a law of nature.", false, "Measured numbers range from under 2 to over 30 in 100, depending on who is eating."], ["Every living body gives off heat because cells use food and oxygen to free energy.", true, "This is respiration: food and oxygen make carbon dioxide, water and heat."], ["A pyramid of energy can be upside down, just like a pyramid of numbers can.", false, "Energy flowing through a level cannot be more than what it got from the level below."], ["One big tree can feed thousands of insects, so a pyramid of numbers can be upside down.", true, "A few large producers can support many small eaters, so the bottom bar is the narrower one."], ["Decomposers are the end of the food chain, and nothing eats them.", false, "Nematodes graze on fungi and bacteria, and springtails eat fungi, so decomposers feed others too."], ["Some food chains in the deep sea begin with chemicals, not sunlight.", true, "Near hot vents in total darkness, bacteria make food from chemicals and animals feed on them."], ["An animal who eats grass and also insects always sits at level 3.", false, "Her level is the average level of her food plus one, so it can be between 2 and 3."], ["Atoms in living things are used again and again, but energy is not.", true, "Atoms go round and round, while energy enters as light and leaves as heat."], ["Eating plants always uses less land than eating animals.", false, "Cows and goats turn grass and straw, which people cannot digest, into food, often on land where crops will not grow."]], "odd": [[["Cow", "Goat", "Rabbit", "Hawk"], "Hawk", "Cow, goat and rabbit eat producers, so they are at level 2. A hawk eats other animals, so she is at level 3."], [["Dung beetle", "Earthworm", "Fungus", "Hawk"], "Hawk", "Dung beetle, earthworm and fungus feed on dead matter. A hawk hunts living animals."], [["Carbon in sugar", "Nitrogen in soil", "Atoms in dung", "Heat from respiration"], "Heat from respiration", "Atoms are used again and again. Heat leaves living things and is not used again."], [["Sugar", "Starch", "Fat", "Salt"], "Salt", "Sugar, starch and fat hold chemical energy in joined atoms that a body can free. Salt holds none that a body can use."], [["Lizard", "Frog", "Snake", "Sparrow"], "Sparrow", "Cold-blooded lizards, frogs and snakes burn little food for heat, so they pass on more. A warm-blooded sparrow passes on less."]]}
 }

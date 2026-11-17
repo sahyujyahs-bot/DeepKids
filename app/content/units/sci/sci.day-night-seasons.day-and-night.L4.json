@@ -108,7 +108,7 @@
       "definition": "The Earth spins once around its axis in about a day, from west to east. So places in the east turn into the sunlight before places in the west.",
       "description": "Seen from above the North Pole, the Earth turns anticlockwise. A place in the east is carried into the sunlit half before a place in the west. That is why the Sun rises in the east, and why Arunachal Pradesh sees sunrise before Gujarat does. Half of the Earth is always lit. The day-night line runs from the North Pole to the South Pole. As the Earth turns, this line moves west over the ground, all day and all night. When the dawn part of the line is over Guwahati, Dong, in Arunachal Pradesh further east, is already in daylight, and Mumbai in the west is still in the dark. The line never stops, so at every moment, somewhere on Earth, it is sunrise.",
       "examples": [
-        "The Sun rises in the east because the ground under us turns towards the east.",
+        "The Sun seems to rise in the east because the spinning Earth carries us towards the east, into the light.",
         "Sunrise in Arunachal Pradesh comes more than an hour before sunrise in Gujarat.",
         "At any moment, it is sunrise somewhere on Earth."
       ],
@@ -132,7 +132,7 @@
       "concept": "Clock time and Sun time: Indian Standard Time",
       "status": "defined",
       "definition": "Indian Standard Time is the one clock time used all over India. It matches the Sun on the line of longitude 82.5 degrees east, which passes near Mirzapur in Uttar Pradesh. It is 5 hours 30 minutes ahead of the world's reference time, UTC.",
-      "description": "Long ago, every town set its clocks by its own Sun. That worked until trains and the telegraph needed timetables that made sense in many towns. In 1906 British India introduced one standard time, Indian Standard Time. Calcutta and Bombay kept their own city clocks for many more years. Today one Indian Standard Time is used for the whole country. On this clock, the Sun is highest at 12 o'clock only on the line 82.5 degrees east. Chennai is about 2 degrees west of that line, so its noon comes about 9 minutes after 12. Guwahati is about 9 degrees east of it, so its noon comes about 37 minutes before 12. Dong, in Arunachal Pradesh, is about 14 degrees east, so its noon comes close to an hour before 12. These noon times are yearly averages. During the year the Sun's noon moves a few minutes either way, but the gaps between cities stay the same. The clock is an agreement among people. The Sun's time belongs to each place. Some tea gardens in Assam have kept their own garden time, one hour ahead of Indian Standard Time, so that work starts at sunrise.",
+      "description": "Long ago, every town set its clocks by its own Sun. That worked until trains and the telegraph needed timetables that made sense in many towns. In 1906 British India introduced one standard time, Indian Standard Time. Calcutta and Bombay kept their own city clocks for many more years. Today one Indian Standard Time is used for the whole country. On this clock, the Sun is highest at 12 o'clock only on the line 82.5 degrees east. Chennai is about 2 degrees west of that line, so its noon comes about 9 minutes after 12. Guwahati is about 9 degrees east of it, so its noon comes about 37 minutes before 12. Dong, in Arunachal Pradesh, is about 14 degrees east, so its noon comes close to an hour before 12. These noon times are yearly averages. During the year the Sun's noon moves a few minutes either way, but the gaps between cities stay the same. The clock time is something people agreed on. The Sun's own time is different in each place, because it depends on where the place is. Some tea gardens in Assam have kept their own garden time, one hour ahead of Indian Standard Time, so that work starts at sunrise.",
       "examples": [
         "Noon by the Sun in Mumbai is about 12:38, not 12:00.",
         "Noon by the Sun in Guwahati is about 11:23, not 12:00.",
@@ -145,7 +145,7 @@
       "concept": "How fast you are carried: the same turn, a different circle",
       "status": "defined",
       "definition": "Every place on Earth makes one full turn in a day. A place far from the equator travels round a smaller circle, so it is carried more slowly.",
-      "description": "The equator is about 40,075 kilometres around. A person on the equator is carried once round it in 24 hours. 40,075 divided by 24 is about 1,670 kilometres an hour. Move north and the circle that your place makes gets smaller, like the rings on a spinning top. The circle at 60 degrees north, where Oslo and Helsinki lie, is only half as long as the equator. A person there is carried at about 835 kilometres an hour. At the North Pole itself, a person only turns on the spot. Speed depends on latitude, and the nearer you are to the equator, the faster you go. Chennai, at 13 degrees north, is carried at about 1,625 kilometres an hour. Delhi, at 29 degrees north, is carried at about 1,465.",
+      "description": "The equator is about 40,075 kilometres around. A person on the equator is carried once round it in 24 hours. 40,075 divided by 24 is about 1,670 kilometres an hour. Think of a globe. The circle around the middle is the longest one. The circles nearer the top are smaller and smaller. The circle at 60 degrees north, where Oslo and Helsinki lie, is only half as long as the equator. A person there is carried at about 835 kilometres an hour. At the North Pole itself, a person only turns on the spot. Speed depends on latitude, and the nearer you are to the equator, the faster you go. Chennai, at 13 degrees north, is carried at about 1,625 kilometres an hour. Delhi, at 29 degrees north, is carried at about 1,465.",
       "examples": [
         "Kochi is carried at about 1,645 kilometres an hour.",
         "Delhi is carried at about 1,465 kilometres an hour.",
@@ -224,7 +224,7 @@
         },
         {
           "who": "The back-to-the-light idea (Samuel Fabian and colleagues, 2024)",
-          "explanation": "High-speed cameras showed insects tilting so that their backs face the brightest light. This works well under a bright sky. Near a lamp, it makes them tilt, circle, and sometimes fly upside down."
+          "explanation": "High-speed cameras showed insects tilting so that their backs face the brightest light. Under an open sky, the brightest light is above them, so this keeps them upright. Near a lamp, the brightest light is close by, so they tilt, circle, and sometimes fly upside down."
         }
       ]
     },
@@ -249,7 +249,7 @@
     },
     {
       "text": "Solar noon comes about 4 minutes later for every degree of longitude we go west.",
-      "evidence": "Sunrise and sunset tables for cities around the world, and world time zones, all follow this rule. 360 degrees in 24 hours is 4 minutes a degree."
+      "evidence": "Sunrise and sunset tables for cities around the world, and world time zones, all follow this rule. The Earth turns 360 degrees in 24 hours, so dividing 24 hours by 360 degrees gives 4 minutes for each degree."
     },
     {
       "text": "Every place makes one turn a day, so places far from the equator are carried more slowly than places near it.",
@@ -269,7 +269,7 @@
       "claim": "The Sun is highest at 12 o'clock everywhere in India.",
       "who": "Many people, because every clock in the country says 12.",
       "for": "All of India uses one clock time, so it feels like the same moment everywhere.",
-      "against": "Noon by the Sun is about 11:23 in Guwahati and about 12:38 in Mumbai. The clock is an agreement. The Sun's time belongs to each place.",
+      "against": "Noon by the Sun is about 11:23 in Guwahati and about 12:38 in Mumbai. Every clock in India says 12 because people agreed to use one clock time. The Sun's own time is different in each place.",
       "status": "rejected"
     },
     {
@@ -313,7 +313,7 @@
       "hint": "Think about what would stay the same if everyone changed their clocks."
     },
     {
-      "q": "Near the Arctic Circle, a plane flying west at about 670 kilometres an hour moves as fast as the ground there is carried east by the spin. What would you see the Sun do out of the window? What does this tell you about how fast the Earth turns there?",
+      "q": "Near the Arctic Circle, the spin carries the ground east at about 670 kilometres an hour. Now imagine a plane flying west at the same speed. What would you see the Sun do out of the window? What does that tell you about how fast the Earth turns there?",
       "kind": "deep",
       "hint": "Think about the small circle near the pole that you drew in the Orange Earth test."
     },
@@ -388,16 +388,16 @@
       "evidence": "In the Five Noons test, the Sun was highest about 4 minutes later for every degree west. Five cities under one Sun and one clock had five different noons. And because the Earth keeps turning, a dawn is always crossing somewhere."
     },
     "three": {
-      "who_am_i": "You are not waiting for the morning to come to you. You are being carried through it, at about 1,500 kilometres an hour, on a turning Earth.",
+      "who_am_i": "The morning does not come to you while you stand still. The spinning Earth carries you towards the Sun's light, at about 1,500 kilometres an hour.",
       "what_is_life": "Birds, flowers and people wake as the dawn reaches them. Many birds start singing as the light arrives, so a wave of birdsong travels with the line of dawn round the world.",
       "what_is_this_world": "There is one Sun and one turning Earth. So a line of dawn and a line of dusk are always crossing the planet, and somewhere it is always morning."
     },
-    "thread": "There is one Sun and one turning Earth, so there is one line of dawn, and it passes from place to place. No place owns the morning. Each place gets it a few minutes after the place to its east, and then it moves on to the west. So the many mornings are really one morning, passed along. One dawn line going round the world is a different time of day in every place it crosses.",
+    "thread": "There is one Sun and one turning Earth, so there is one line of dawn, and it passes from place to place. No place owns the morning. Each place gets it a few minutes after the place to its east, and then it moves on to the west. So the many mornings are really one line of dawn, passed along. At any moment, it is dawn at the places the line is crossing, and a different time of day everywhere else.",
     "teachings": [
       {
         "source": "Rig Veda 1.113",
         "teaching": "This hymn to Night and Dawn describes them as two sisters who follow each other across the sky. They look different, but they work together and are never apart for long.",
-        "link": "Night and dawn are made by one turning Earth. The dawn line is the border where one sister meets the other."
+        "link": "Night and dawn are made by one turning Earth. The line of dawn is the place on Earth where night ends and day begins, so it is where the two sisters meet."
       },
       {
         "source": "Heraclitus, fragment 6 (about 500 BCE)",
@@ -460,75 +460,75 @@
           "items": [
             {
               "f": "Port Blair (92.7 degrees east) and Chennai (80.3 degrees east). How many minutes later is the Sun highest in Chennai?",
-              "b": "About 50 minutes. 92.7 minus 80.3 is 12.4 degrees. 12.4 times 4 is about 50. Token: 30 to 60 minutes."
+              "b": "About 50 minutes. 92.7 minus 80.3 is 12.4 degrees. 12.4 times 4 is about 50. The right token is 30 to 60 minutes."
             },
             {
               "f": "Kolkata (88.4 degrees east) and Kochi (76.3 degrees east). How many minutes later is the Sun highest in Kochi?",
-              "b": "About 48 minutes. 88.4 minus 76.3 is 12.1 degrees. 12.1 times 4 is about 48. Token: 30 to 60 minutes."
+              "b": "About 48 minutes. 88.4 minus 76.3 is 12.1 degrees. 12.1 times 4 is about 48. The right token is 30 to 60 minutes."
             },
             {
               "f": "Guwahati (91.7 degrees east) and Mumbai (72.9 degrees east). How many minutes later is the Sun highest in Mumbai?",
-              "b": "About 75 minutes. 91.7 minus 72.9 is 18.8 degrees. 18.8 times 4 is about 75. Token: more than 60 minutes."
+              "b": "About 75 minutes. 91.7 minus 72.9 is 18.8 degrees. 18.8 times 4 is about 75. The right token is more than 60 minutes."
             },
             {
               "f": "Kohima (94.1 degrees east) and Dwarka (69.0 degrees east). How many minutes later is the Sun highest in Dwarka?",
-              "b": "About 100 minutes, which is 1 hour 40 minutes. 94.1 minus 69.0 is 25.1 degrees. 25.1 times 4 is about 100. Token: more than 60 minutes."
+              "b": "About 100 minutes, which is 1 hour 40 minutes. 94.1 minus 69.0 is 25.1 degrees. 25.1 times 4 is about 100. The right token is more than 60 minutes."
             },
             {
               "f": "Delhi (77.2 degrees east) and Bengaluru (77.6 degrees east). Which is first, and by how many minutes?",
-              "b": "Bengaluru is first, by about 2 minutes. They are on almost the same line of longitude, so how far north or south they are does not matter. Token: under 10 minutes."
+              "b": "Bengaluru is first, by about 2 minutes. They are on almost the same line of longitude, so how far north or south they are does not matter. The right token is under 10 minutes."
             },
             {
               "f": "Hyderabad (78.5 degrees east) and Chennai (80.3 degrees east). How many minutes later is the Sun highest in Hyderabad?",
-              "b": "About 7 minutes. 80.3 minus 78.5 is 1.8 degrees. 1.8 times 4 is about 7. Token: under 10 minutes."
+              "b": "About 7 minutes. 80.3 minus 78.5 is 1.8 degrees. 1.8 times 4 is about 7. The right token is under 10 minutes."
             },
             {
               "f": "Kolkata (88.4 degrees east) and Visakhapatnam (83.3 degrees east). How many minutes later is the Sun highest in Visakhapatnam?",
-              "b": "About 20 minutes. 88.4 minus 83.3 is 5.1 degrees. 5.1 times 4 is about 20. Token: 10 to 30 minutes."
+              "b": "About 20 minutes. 88.4 minus 83.3 is 5.1 degrees. 5.1 times 4 is about 20. The right token is 10 to 30 minutes."
             },
             {
               "f": "Dong in Arunachal Pradesh (97.0 degrees east) and Guwahati (91.7 degrees east). How many minutes later is the Sun highest in Guwahati?",
-              "b": "About 21 minutes. 97.0 minus 91.7 is 5.3 degrees. 5.3 times 4 is about 21. Token: 10 to 30 minutes."
+              "b": "About 21 minutes. 97.0 minus 91.7 is 5.3 degrees. 5.3 times 4 is about 21. The right token is 10 to 30 minutes."
             },
             {
               "f": "Chennai (80.3 degrees east) and Madurai (78.1 degrees east). How many minutes later is the Sun highest in Madurai?",
-              "b": "About 9 minutes. 80.3 minus 78.1 is 2.2 degrees. 2.2 times 4 is about 9. Token: under 10 minutes."
+              "b": "About 9 minutes. 80.3 minus 78.1 is 2.2 degrees. 2.2 times 4 is about 9. The right token is under 10 minutes."
             },
             {
               "f": "Kochi (76.3 degrees east) and Mangaluru (74.9 degrees east). How many minutes later is the Sun highest in Mangaluru?",
-              "b": "About 6 minutes. 76.3 minus 74.9 is 1.4 degrees. 1.4 times 4 is about 6. Token: under 10 minutes."
+              "b": "About 6 minutes. 76.3 minus 74.9 is 1.4 degrees. 1.4 times 4 is about 6. The right token is under 10 minutes."
             },
             {
               "f": "Delhi (77.2 degrees east) and Jaipur (75.8 degrees east). How many minutes later is the Sun highest in Jaipur?",
-              "b": "About 6 minutes. 77.2 minus 75.8 is 1.4 degrees. 1.4 times 4 is about 6. Token: under 10 minutes."
+              "b": "About 6 minutes. 77.2 minus 75.8 is 1.4 degrees. 1.4 times 4 is about 6. The right token is under 10 minutes."
             },
             {
               "f": "Guwahati (91.7 degrees east) and Shillong (91.9 degrees east). Is the Sun highest at about the same time in both?",
-              "b": "Yes, within 1 minute. They are only 0.2 degrees apart, and 0.2 times 4 is under 1 minute. Token: under 10 minutes."
+              "b": "Yes, within 1 minute. They are only 0.2 degrees apart, and 0.2 times 4 is under 1 minute. The right token is under 10 minutes."
             },
             {
               "f": "India is about 29 degrees wide from east to west. About how many minutes pass between the Sun's highest moment in the far east and in the far west?",
-              "b": "About 116 minutes, nearly 2 hours. 29 times 4 is 116. Token: more than 60 minutes."
+              "b": "About 116 minutes, nearly 2 hours. 29 times 4 is 116. The right token is more than 60 minutes."
             },
             {
               "f": "Thiruvananthapuram (76.9 degrees east) and Kochi (76.3 degrees east). Which is first, and by how many minutes?",
-              "b": "Thiruvananthapuram is first, by about 2 minutes. 76.9 minus 76.3 is 0.6 degrees. 0.6 times 4 is about 2. Token: under 10 minutes."
+              "b": "Thiruvananthapuram is first, by about 2 minutes. 76.9 minus 76.3 is 0.6 degrees. 0.6 times 4 is about 2. The right token is under 10 minutes."
             },
             {
               "f": "Kolkata (88.4 degrees east) and Chennai (80.3 degrees east). How many minutes later is the Sun highest in Chennai?",
-              "b": "About 32 minutes. 88.4 minus 80.3 is 8.1 degrees. 8.1 times 4 is about 32. Token: 30 to 60 minutes."
+              "b": "About 32 minutes. 88.4 minus 80.3 is 8.1 degrees. 8.1 times 4 is about 32. The right token is 30 to 60 minutes."
             },
             {
               "f": "Guwahati (91.7 degrees east) and Chennai (80.3 degrees east). How many minutes later is the Sun highest in Chennai?",
-              "b": "About 46 minutes. 91.7 minus 80.3 is 11.4 degrees. 11.4 times 4 is about 46. Token: 30 to 60 minutes."
+              "b": "About 46 minutes. 91.7 minus 80.3 is 11.4 degrees. 11.4 times 4 is about 46. The right token is 30 to 60 minutes."
             },
             {
               "f": "Hyderabad (78.5 degrees east) and Mumbai (72.9 degrees east). How many minutes later is the Sun highest in Mumbai?",
-              "b": "About 22 minutes. 78.5 minus 72.9 is 5.6 degrees. 5.6 times 4 is about 22. Token: 10 to 30 minutes."
+              "b": "About 22 minutes. 78.5 minus 72.9 is 5.6 degrees. 5.6 times 4 is about 22. The right token is 10 to 30 minutes."
             },
             {
               "f": "Indian Standard Time is set by the Sun at 82.5 degrees east. Dong is at 97.0 degrees east. About how many minutes before 12 o'clock is the Sun highest in Dong?",
-              "b": "About 58 minutes before. 97.0 minus 82.5 is 14.5 degrees. 14.5 times 4 is 58. Token: 30 to 60 minutes."
+              "b": "About 58 minutes before. 97.0 minus 82.5 is 14.5 degrees. 14.5 times 4 is 58. The right token is 30 to 60 minutes."
             }
           ]
         },
@@ -1583,7 +1583,7 @@
             {
               "q": "Jupiter is much bigger than the Earth. How can it turn faster?",
               "good": [
-                "It spins like a top.",
+                "Being big does not make a planet spin slowly.",
                 "It was spun fast when it formed.",
                 "It formed from a fast-spinning cloud."
               ]
@@ -1689,7 +1689,7 @@
           "do": "Vote again. Count the votes. Ask if anyone changed their mind, and which argument changed it. Then ask what facts about the Sun would help decide.",
           "say": "Vote again. Did anyone change their mind? What changed it?",
           "kid": "Vote again. Did anyone change their mind? Why?",
-          "parent": "A good result is that your child can name one reason for each side. The Sun's time belongs to each place. The clock is an agreement among people. The question is how closely the clock should follow the Sun.",
+          "parent": "A good result is that your child can name one reason for each side. The Sun's time is different in each place, and the clock time is something people agreed on. The real question is how closely the clock should follow the Sun.",
           "think": "Is a clock supposed to follow the Sun, or to help people work together?",
           "context": "This is the last step of the Clock Debate. You vote again and think about what you learned."
         }
@@ -2139,7 +2139,7 @@
           "t": "write",
           "p": "Someone says: 'All the clocks in India say 12, so the Sun must be highest everywhere at the same moment.' Explain in one or two sentences why this is wrong.",
           "lines": 3,
-          "a": "The clock is an agreement. The Sun is highest about 4 minutes later for every degree you go west, so it is highest earlier in the east and later in the west.",
+          "a": "All the clocks show 12 because people agreed to use one clock time for the whole country. The Sun is highest about 4 minutes later for every degree you go west, so it is highest earlier in the east and later in the west.",
           "why": "A strong answer says that one clock is shared, but the Sun's position depends on where you are, and gives the 4 minutes for each degree rule.",
           "outcome": 0
         },
@@ -2365,7 +2365,7 @@
           ],
           "ask": "Whose view do you agree with more? What facts about the Sun and the clock would help you decide?",
           "a": "Answers vary. A strong answer picks a side, gives a reason, and uses a fact such as noon being about 58 minutes earlier in Dong than at the middle of India.",
-          "why": "Both views have a point. A single clock is simple, and following the Sun saves daylight. The clock is an agreement and the Sun's time belongs to each place.",
+          "why": "Both views have a point. A single clock is simple, and following the Sun saves daylight. The clock time is something people agreed on, and the Sun's own time is different in each place.",
           "outcome": 3
         }
       ]
@@ -2512,7 +2512,7 @@
           "t": "write",
           "p": "A friend says: 'Noon is a fact about the Sun, not about clocks.' Do you agree? Use two cities to explain.",
           "lines": 4,
-          "a": "I agree. The Sun is highest at about 11:23 in Guwahati and 12:38 in Mumbai. The Sun's noon belongs to each place. The clock says 12 in both, but that is an agreement.",
+          "a": "I agree. The Sun is highest at about 11:23 in Guwahati and about 12:38 in Mumbai. The Sun's noon is different in each place. Both clocks say 12 only because people agreed to use one clock time.",
           "why": "A strong answer separates the Sun's highest point, which depends on place, from the clock's 12 o'clock, which people agreed, and uses two cities as evidence.",
           "outcome": 3
         },
@@ -2712,10 +2712,10 @@
     }
   ],
   "applications": [
-    "Railway and flight timetables, which all use a single agreed clock time across places where the Sun's time differs.",
-    "Rockets launched towards the east, as ISRO does from Sriharikota, which get a free speed boost of about 0.45 kilometres a second from the Earth's spin.",
-    "Finding longitude at sea by comparing local noon with the time at a home port, with 4 minutes for every degree.",
-    "Jet lag, which is the body's own clock catching up after travel east or west, where the Sun's time changes by 4 minutes for every degree of longitude.",
+    "Railway and flight timetables use one agreed clock time, even across places where the Sun's time is different.",
+    "Rockets launched towards the east get a free speed boost of about 0.45 kilometres a second from the Earth's spin. ISRO launches many of its rockets this way from Sriharikota.",
+    "Sailors find their longitude at sea by comparing local noon with the time at their home port. Every 4 minutes of difference is 1 degree of longitude.",
+    "Jet lag happens when the body's own clock has not yet caught up after travel east or west. The Sun's time changes by 4 minutes for every degree of longitude you cross.",
     "Designing street lighting that points down and is dim and warm, to protect the night sky and wildlife.",
     "Planning solar power and farm work by knowing exactly when the Sun is highest in each place."
   ],
@@ -3038,7 +3038,7 @@
     },
     {
       "q": "Name one animal that is awake at night and how she finds her way.",
-      "a": "A barn owl, with her ears. A bat, with echoes. A python, with heat."
+      "a": "A barn owl finds mice with her ears. A bat listens to echoes. A python senses heat."
     }
   ],
   "plan": {
@@ -3128,5 +3128,5 @@
     "wrong_idea": "Many French scientists, including the Cassini family, believed the Earth was longer from pole to pole than across the equator, like a lemon. The two expeditions showed that it is flattened at the poles, and wider at the equator, because it spins."
   },
   "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Five Noons needs sunrise and sunset times, which come from a weather app, a newspaper weather box or a call to a relative in another city. The noon gaps should come out near 13, 46, 62 and 75 minutes after Guwahati for Kolkata, Chennai, Kochi and Mumbai, give or take two minutes because apps round times. The sunrise gaps will look untidy, because sunrise also depends on how far north a city is and on the season, and the steps say so. The Orange Earth uses a large orange. The 30 degree circle should be about 85 to 90 out of 100 of the equator and the 60 degree circle about half. On the small circles, mark dots and join them instead of using a rubber band, which slides. The Extra Turn needs a clear floor of about 3 metres. Star Gate depends on clear nights and a view of a fixed edge, so the steps say what to do when clouds stop you, and give the planetarium as a fallback. The Night Watch needs a grown-up, and the lamp challenge uses only a torch and paper. Facts to check before the unit goes live: that British India adopted one standard time in 1906; that Assam tea gardens keep garden time one hour ahead of Indian Standard Time; the 2011 Japan earthquake figure of about 2 millionths of a second; the 2016 figure of more than 80 percent of people under brightened skies; the Moon's drift of about 3.8 centimetres a year; the weight difference of about half a percent between pole and equator; that Emilie du Chatelet translated Newton's Principia into French; and the Richer pendulum figure of about two and a half minutes a day. The longitudes of the cities are rounded to one decimal place. The videos have no address yet.",
- "warm": {"words": ["EARTH", "NIGHT", "POLES", "CLOCK", "SPINS"], "quiz": [["Places in the east see sunrise first because the Earth spins from west to east.", true, "The spin carries eastern places into the sunlight before western places."], ["The Sun is highest at 12 o'clock on the clock in every Indian city.", false, "India uses one clock time, but the Sun's highest moment depends on how far east or west a place is."], ["Moving one degree west makes the Sun reach its highest point about four minutes later.", true, "The Earth turns one degree of longitude in about four minutes, so noon reaches western places later."], ["Every place on Earth moves at the same speed, because every place turns once a day.", false, "Places near the equator travel a bigger circle in the same time, so they move faster."], ["The Earth is slightly wider around the equator than from pole to pole.", true, "Because the Earth spins, it bulges a little around the middle."], ["A day has always been exactly 24 hours long.", false, "The Earth's spin is slowing, mainly because of the Moon's tides, so days were shorter long ago."], ["We feel nothing of the Earth's spin because it is smooth and steady.", true, "Everything around us is carried along at the same smooth speed, so nothing seems to move."], ["Light at night from streetlights never harms animals.", false, "Artificial light confuses animals such as turtles, birds and insects, and it hides the stars."], ["The Earth spins once in 23 hours 56 minutes, but noon to noon takes 24 hours.", true, "The Earth also moves round the Sun, so it must turn a little extra to face the Sun again."], ["If the Earth spun the other way, the Sun would still rise in the east.", false, "Sunrise is seen on the side that the ground is turning towards. The Earth spins towards the east, so that side is the east."]], "odd": [[["Chennai", "Kochi", "Quito", "Svalbard"], "Svalbard", "Chennai, Kochi and Quito are near the equator and are carried round big circles fast; Svalbard is near the Arctic, on a small circle."], [["Solar noon", "Shadow length", "Sun's highest point", "Indian Standard Time"], "Indian Standard Time", "The other three are measured from the Sun's real position; Indian Standard Time is a clock time that people agreed on."], [["Day and night", "Sun seeming to rise", "Wide equator", "Summer and winter"], "Summer and winter", "The first three come from the Earth's spin; summer and winter come from the tilt of the axis."], [["Owl", "Bat", "Firefly", "Crow"], "Crow", "Owls, bats and fireflies are active at night; a crow is active in the day."], [["Streetlight", "Bright billboard", "Lit-up stadium", "Moonlight"], "Moonlight", "The first three are artificial lights that can confuse animals; moonlight is natural and animals have always lived with it."]]}
+ "warm": {"words": ["EARTH", "NIGHT", "POLES", "CLOCK", "SPINS"], "quiz": [["Places in the east see sunrise first because the Earth spins from west to east.", true, "The spin carries eastern places into the sunlight before western places."], ["The Sun is highest at 12 o'clock on the clock in every Indian city.", false, "India uses one clock time, but the Sun's highest moment depends on how far east or west a place is."], ["Moving one degree west makes the Sun reach its highest point about four minutes later.", true, "The Earth turns one degree of longitude in about four minutes, so noon reaches western places later."], ["Every place on Earth moves at the same speed, because every place turns once a day.", false, "Places near the equator travel a bigger circle in the same time, so they move faster."], ["The Earth is slightly wider around the equator than from pole to pole.", true, "Because the Earth spins, it bulges a little around the middle."], ["A day has always been exactly 24 hours long.", false, "The Earth's spin is slowing, mainly because of the Moon's tides, so days were shorter long ago."], ["We feel nothing of the Earth's spin because it is smooth and steady.", true, "Everything around us is carried along at the same smooth speed, so nothing seems to move."], ["Light at night from streetlights never harms animals.", false, "Artificial light confuses animals such as turtles, birds and insects, and it hides the stars."], ["The Earth spins once in 23 hours 56 minutes, but noon to noon takes 24 hours.", true, "The Earth also moves round the Sun, so it must turn a little extra to face the Sun again."], ["If the Earth spun the other way, the Sun would still rise in the east.", false, "Sunrise is seen on the side that the ground is turning towards. The Earth spins towards the east, so that side is the east."]], "odd": [[["Chennai", "Kochi", "Quito", "Svalbard"], "Svalbard", "Chennai, Kochi and Quito are near the equator, so they are carried round big circles fast. Svalbard is near the Arctic, on a small circle."], [["Solar noon", "Shadow length", "Sun's highest point", "Indian Standard Time"], "Indian Standard Time", "The other three are measured from the Sun's real position. Indian Standard Time is a clock time that people agreed on."], [["Day and night", "Sun seeming to rise", "Wide equator", "Summer and winter"], "Summer and winter", "The first three come from the Earth's spin. Summer and winter come from the tilt of the axis."], [["Owl", "Bat", "Firefly", "Crow"], "Crow", "Owls, bats and fireflies are active at night. A crow is active in the day."], [["Streetlight", "Bright billboard", "Lit-up stadium", "Moonlight"], "Moonlight", "The first three are artificial lights that can confuse animals. Moonlight is natural, and animals have always lived with it."]]}
 }
