@@ -78,9 +78,9 @@
    "definition": "A natural material is found in nature. It comes from plants, from animals or from the ground.",
    "description": "Wood and cotton grow on plants. Wool grows on sheep. Silk is spun by silkworms, who are baby moths. Clay, sand and stone are dug out of the ground, and so are the rocks that metals come from. People may cut or clean a natural material, but it stays the same material. A wooden plank is still wood.",
    "examples": [
-    "From plants: wood, cotton, jute, coir from coconuts, bamboo.",
-    "From animals: wool, silk, beeswax.",
-    "From the ground: clay, sand, stone, salt."
+    "Wood, cotton, jute, coir from coconuts and bamboo come from plants.",
+    "Wool, silk and beeswax come from animals.",
+    "Clay, sand, stone and salt come from the ground."
    ],
    "perspectives": [],
    "art": "Three groups: a tree and a cotton plant, a sheep and a silkworm cocoon, and a heap of clay and sand."
@@ -148,9 +148,9 @@
    "context": "This card is about the hard cases, where people do not agree whether a material is natural or made.",
    "description": "Some cases are easy. A stone is natural and a plastic mug is made by people. But think of a cotton shirt. Cotton is natural, yet people spun it into thread and wove it into cloth. A paper wasp chews wood and makes real paper for her nest. A bird weaves a nest from grass. People answer these cases in different ways.",
    "examples": [
-    "A cotton shirt: natural fibre, made by people into cloth.",
-    "A wasp's paper nest: paper made by an animal.",
-    "A brick: clay, baked so hot that it can never turn back into clay."
+    "A cotton shirt is made of a natural fibre, but people spun it and wove it into cloth.",
+    "A wasp makes paper for her nest, so paper can be made by an animal too.",
+    "A brick began as clay, but it is baked so hot that it can never turn back into clay."
    ],
    "perspectives": [
     {
@@ -589,7 +589,7 @@
        ]
       }
      ],
-     "parent": "Newspaper is a made material, but it is made of plant fibres. That makes it an interesting one to watch."
+     "parent": "Newspaper is a made material, but it is made of plant fibres. Watch whether it breaks down like a natural material or like plastic."
     },
     {
      "id": "s2",
@@ -807,7 +807,7 @@
        ]
       }
      ],
-     "parent": "Salt grains are tiny clear cubes. Glass-making sand is made of tiny clear grains too, which is why melted sand can be clear."
+     "parent": "If your child is stuck on why the heap looks white, say this: light bounces off the edges of every grain, in all directions, so very little of it goes straight through. Salt grains are tiny clear cubes. Glass-making sand is made of tiny clear grains too, which is why melted sand can be clear."
     }
    ]
   },
@@ -1077,11 +1077,11 @@
      "kid": "Count your pairs. Which was changed the most?",
      "check": {
       "t": "mcq",
-      "q": "Which pair is right?",
+      "q": "Which of these says correctly what a thing is made from?",
       "options": [
-       "A notebook: sand",
-       "A glass bottle: sand",
-       "A plastic bucket: a tree"
+       "A notebook, made from sand",
+       "A glass bottle, made from sand",
+       "A plastic bucket, made from a tree"
       ],
       "a": 1,
       "why": "Glass is made from melted sand. A notebook is made from a tree, and a plastic bucket from oil."
@@ -1250,12 +1250,12 @@
     "a torch"
    ],
    "general": [
-    "A clear plastic packet taped over the hole.",
-    "Butter paper, which lets light in but blurs the view."
+    "Tape a clear plastic packet over the hole.",
+    "Tape butter paper over the hole. It lets light in but blurs the view."
    ],
    "creative": [
-    "White paper rubbed with a few drops of oil. The oil fills the gaps between the fibres, so more light gets through. Before glass was common, people in China and Japan used oiled paper or paper screens in windows.",
-    "A thin white cloth, such as a hanky or muslin, with a few drops of oil rubbed in."
+    "Rub a few drops of oil into white paper. The oil fills the gaps between the fibres, so more light gets through. Before glass was common, people in China and Japan used oiled paper or paper screens in windows.",
+    "Rub a few drops of oil into a thin white cloth, such as a hanky or muslin."
    ],
    "your_turn": "Make your own window. Put the toy right behind it, shine a torch at the window from the side, and look through. Can you tell the toy is inside? Then make it better.",
    "setup": [
@@ -1285,7 +1285,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Let your child try each material over the hole. 2. Rub a few drops of oil into a piece of white paper and try that too.",
-     "say": "Hold each one over the window. Which lets in the most light? Look at the oily paper. What changed?",
+     "say": "Hold each one over the window. Which lets in the most light? Look at the oily paper. What changed? Remember the sugar sheet, which had no grain edges inside. The oil fills the gaps between the paper fibres in a similar way.",
      "kid": "Try each material. Which lets in the most light?",
      "ask": [
       {
@@ -1410,7 +1410,7 @@
      "t": "count",
      "p": "You count the plastic things in a bathroom. You find a bucket, a mug, a soap box, a toothbrush and a comb. How many plastic things did you find?",
      "a": 5,
-     "why": "Bucket, mug, soap box, toothbrush, comb: 1, 2, 3, 4, 5.",
+     "why": "Count them one by one. The bucket is 1, the mug is 2, the soap box is 3, the toothbrush is 4 and the comb is 5. So there are 5 plastic things.",
      "how": "a4",
      "context": "This question is about the plastic count, where you count all the plastic things in one room."
     },
@@ -1459,10 +1459,10 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her grandfather are choosing plates for a big family lunch at Onam.",
+     "p": "Anjana and her grandfather are choosing plates for a big family lunch at Onam.",
      "views": [
       {
-       "who": "The first child, aged 8",
+       "who": "Anjana, aged 8",
        "says": "Let's use banana leaves. They are natural, and they break down in the soil afterwards."
       },
       {
@@ -1564,18 +1564,18 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her friend the second child see a paper wasp's nest on a balcony.",
+     "p": "Anjana and her friend Sana see a paper wasp's nest on a balcony.",
      "views": [
       {
-       "who": "The first child, aged 8",
+       "who": "Anjana, aged 8",
        "says": "The nest is natural. A wasp made it, and wasps are part of nature."
       },
       {
-       "who": "The second child, aged 7",
+       "who": "Sana, aged 7",
        "says": "Then notebooks are natural too. People are animals, and people make paper from wood too."
       }
      ],
-     "ask": "Do you agree with the first child, the second child, or both? Give a reason. Then say one way a wasp's paper and the paper in a notebook are different.",
+     "ask": "Do you agree with Anjana, Sana, or both? Give a reason. Then say one way a wasp's paper and the paper in a notebook are different.",
      "lines": 3,
      "a": "A strong answer gives a clear reason, for example that people are animals too, so both could be called natural. It also names a difference, for example that people use big machines, chemicals and factories.",
      "why": "There is no single right answer. It depends on where we draw the line between natural and made."

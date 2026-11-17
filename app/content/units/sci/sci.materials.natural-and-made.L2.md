@@ -28,9 +28,9 @@
 **Definition:** A natural material is found in nature. It comes from plants, from animals or from the ground.
 
 Wood and cotton grow on plants. Wool grows on sheep. Silk is spun by silkworms, who are baby moths. Clay, sand and stone are dug out of the ground, and so are the rocks that metals come from. People may cut or clean a natural material, but it stays the same material. A wooden plank is still wood.
-- e.g. From plants: wood, cotton, jute, coir from coconuts, bamboo.
-- e.g. From animals: wool, silk, beeswax.
-- e.g. From the ground: clay, sand, stone, salt.
+- e.g. Wood, cotton, jute, coir from coconuts and bamboo come from plants.
+- e.g. Wool, silk and beeswax come from animals.
+- e.g. Clay, sand, stone and salt come from the ground.
 ### Made materials · *defined*
 **Definition:** A made material is a new material that people make by changing natural materials.
 
@@ -42,35 +42,35 @@ People never start from nothing. Every made material begins as a natural raw mat
 ### How glass is made from sand · *defined*
 **Definition:** Glass is made by melting sand, with a little soda and limestone, in a furnace. It then cools into a hard, clear solid.
 
-A heap of sand looks pale, and you cannot see through it. Light bounces off the edges of every grain. In a furnace at about 1,500 degrees Celsius, the grains melt into one glowing liquid. Now there are no edges inside, so light goes straight through. Workers blow, press or pull the hot glass into bottles, windows and bangles. The melted sugar did the same. It was white as grains, and clear as one piece.
+A heap of sand looks pale, and you cannot see through it. Light bounces off the edges of every grain. In a furnace at about 1,500 degrees Celsius, the grains melt into one glowing liquid. Now there are no edges inside, so light goes straight through. Workers blow, press or pull the hot glass into bottles, windows and bangles. The sugar in the Sugar Test did the same. It was white as grains, and clear as one melted piece.
 - e.g. Bangles from Firozabad are made of melted glass, pulled and coiled while hot.
 - e.g. Old glass bottles are crushed and melted again to make new ones.
 - e.g. Crushed glass looks white, like sugar, because it has many edges again.
 ### How paper is made from plants · *defined*
 **Definition:** Paper is made by mashing plant parts in water into tiny fibres. The fibres are then spread thin, pressed and dried.
 
-Most paper is made from wood. In India, a lot of paper is also made from bamboo and from bagasse. Bagasse is what is left of sugarcane after the juice is squeezed out. In a paper mill, the plant parts are cooked and beaten in water into a soft mush called pulp. The pulp is spread on a screen and the water drains away. The fibres dry and hold on to each other, and that makes a sheet. When paper gets very wet, the fibres let go again. That is why your tissue fell apart in the water shake.
+Most paper is made from wood. In India, a lot of paper is also made from bamboo and from bagasse. Bagasse is what is left of sugarcane after the juice is squeezed out. In a paper mill, the plant parts are cooked and beaten in water into a soft mush called pulp. The pulp is spread on a screen and the water drains away. The fibres dry and hold on to each other, and that makes a sheet. When paper gets very wet, the fibres let go again. That is why the tissue falls apart in the Water Shake, when you shake it in a jar of water.
 - e.g. A paper mill in Karur, Tamil Nadu, makes paper from sugarcane bagasse.
 - e.g. Notebooks, newspapers, paper bags and tissues are all plant fibres.
 - e.g. Old paper can be mashed in water and made into new paper.
 ### How plastic is made from oil · *defined*
 **Definition:** Most plastic is made in factories from oil and natural gas. Both are dug out from deep under the ground.
 
-Oil formed over millions of years from the remains of tiny living beings of the sea. In a factory, very small particles from oil are joined into very long chains. Those chains make plastic. Bacteria and fungi in soil eat banana peel and paper easily. They have very few ways to eat plastic, so plastic can stay in soil for a very long time. Scientists have found a few bacteria that can eat some kinds of plastic, but only slowly.
+Oil formed over millions of years from the remains of tiny living beings of the sea. In a factory, very small particles from oil are joined into very long chains. Those chains make plastic. Bacteria and fungi are tiny living beings in the soil. They eat banana peel and paper easily. They have very few ways to eat plastic, so plastic can stay in soil for a very long time. Scientists have found a few bacteria that can eat some kinds of plastic, but only slowly.
 - e.g. Buckets, mugs, toothbrushes and milk packets are plastic.
 - e.g. Polyester cloth in many clothes is a plastic too.
 - e.g. In a soil cup test, a plastic bag usually looks the same after two weeks.
 ### Where is the line between natural and made? · *debated*
-Easy cases are easy. A stone is natural and a plastic mug is made by people. But think of a cotton shirt. Cotton is natural, yet people spun it into thread and wove it into cloth. A paper wasp chews wood and makes real paper for her nest. A bird weaves a nest from grass. People answer these cases in different ways.
-- e.g. A cotton shirt: natural fibre, made by people into cloth.
-- e.g. A wasp's paper nest: paper made by an animal.
-- e.g. A brick: clay, baked so hot that it can never turn back into clay.
+Some cases are easy. A stone is natural and a plastic mug is made by people. But think of a cotton shirt. Cotton is natural, yet people spun it into thread and wove it into cloth. A paper wasp chews wood and makes real paper for her nest. A bird weaves a nest from grass. People answer these cases in different ways.
+- e.g. A cotton shirt is made of a natural fibre, but people spun it and wove it into cloth.
+- e.g. A wasp makes paper for her nest, so paper can be made by an animal too.
+- e.g. A brick began as clay, but it is baked so hot that it can never turn back into clay.
 - **Many textbooks:** If the material is still the same stuff, like cotton in a shirt or wood in a chair, it is natural. If it has become a new material, like glass or plastic, it is made.
 - **Some scientists who study animals:** Humans are animals. If a wasp's paper is natural, then our paper is natural too. Animals, including us, change natural materials all the time.
 - **People who care about waste:** The question that matters most is whether the material can break down and go back into the soil. Banana leaves can. Most plastic cannot, for a very long time.
 
 ## Mostly agreed
-- Glass is made by melting sand, and it is clear because, once melted, it has no grain edges inside to bounce the light about. *How we know:* Glass makers have melted sand into glass for more than 4,000 years. Crush clear glass into powder, and the powder looks white, because it has many edges again.
+- Glass is made by melting sand. It is clear because the melted sand is one piece, with no grain edges inside to bounce the light about. *How we know:* Glass makers have melted sand into glass for more than 4,000 years. Crush clear glass into powder, and the powder looks white, because it has many edges again.
 - Paper is a sheet of tiny plant fibres holding on to each other. *How we know:* Under a microscope, paper looks like a flat mat of thin threads. Soak it and shake it, and the threads come apart.
 - Most plastic is made from oil and natural gas, and it takes a very long time to break down. *How we know:* Plastic factories use oil and gas as their raw materials. In soil tests, plastic looks the same after months, while peel and paper break down.
 
@@ -80,11 +80,11 @@ Easy cases are easy. A stone is natural and a plastic mug is made by people. But
 
 ## Challenging perspectives
 - **Glass is really a liquid that flows very slowly. That is why old church windows are thicker at the bottom.** (A popular story; *rejected*)  
-  For: Glass has no neat rows of particles inside, like a liquid. Some very old windows really are thicker at one edge.  
+  For: The particles inside glass are jumbled, like those in a liquid, not in neat rows. Some very old windows really are thicker at one edge.  
   Against: Old glass was made in uneven sheets, and builders often put the thick edge at the bottom. Some old windows have the thick edge at the top or the side. Scientists worked out that glass at room temperature would take far longer than the age of the universe to flow enough to see.
 - **Plastic has nothing natural in it.** (A common idea; *rejected*)  
   For: Plastic is made in factories, and nothing like a plastic bucket grows in nature.  
-  Against: Plastic is made from oil, and oil formed from tiny sea living beings long ago. The very first plastics, in the 1860s, were made from cotton. Every made material starts as a natural one.
+  Against: Plastic is made from oil, and oil formed long ago from tiny living beings of the sea. The very first plastics, in the 1860s, were made from cotton. Every made material starts as a natural one.
 - **Natural materials are always better than made ones.** (Some people; *debated*)  
   For: Many natural materials, like banana leaves, cotton and clay, break down in soil and go back to the earth. Plastic stays for a very long time.  
   Against: Some made materials do jobs that natural ones cannot. Glass lets light in and keeps the rain out. Steel holds up bridges. And some natural materials are harmful, like poisonous plants. Which is better depends on the job and on what happens to it afterwards.
@@ -92,8 +92,8 @@ Easy cases are easy. A stone is natural and a plastic mug is made by people. But
 ## Roots
 We have learnt that glass, paper and plastic are made from natural materials. Now we ask what the sugar test tells us about materials, and about ourselves.
 
-**Deep truth.** Your heap of white sugar grains was not see-through. Melted and cooled, the same sugar set into a clear sheet. Each grain was already clear, but light bounced off all the edges between grains. Glass is clear because melting joins many sand grains into one piece with no edges inside.  
-*Habit it breaks:* We think the colour of a material belongs to the material itself. The sugar was white as grains and clear as one piece, so how a material looks also depends on how its pieces meet.  
+**Deep truth.** In the Sugar Test, the heap of white sugar grains was not see-through. Melted and cooled, the same sugar set into a clear sheet. Each grain was already clear, but light bounced off all the edges between grains. Glass is clear because melting joins many sand grains into one piece with no edges inside.  
+*Habit it breaks:* We think the colour of a material belongs to the material itself. In the Sugar Test, the sugar was white as grains and clear as one piece. So how a material looks also depends on whether it is many small pieces or one whole piece.  
 *Evidence:* In the sugar test, the dry heap hid the newspaper words, the cooled sheet showed them, and the crushed sheet turned white again. Single grains under a torch looked clear.
 
 - *who am i:* You are made of natural materials too: water, and things from the food you ate, which came from plants, soil and sun.
@@ -105,11 +105,11 @@ Sand, a glass bangle and sea glass are mostly the same material in different arr
 - **Chandogya Upanishad 6.1.4:** By knowing one lump of clay, you know everything made of clay. The pot and the lamp are only names and shapes. What is real is the clay. (A glass bottle, a window and a bangle have different names and shapes. Underneath, all three are glass, made mainly from sand.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper, and you can see the cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. (Paper is made from a tree, and the tree grew from rain, soil and sunlight. A made material carries all of those natural things inside it.)
 - Science (settled): Glass is a solid whose tiny particles are jumbled, not in neat rows. With no grain edges inside, light passes straight through.
-- Science (open): Exactly what happens when a melted liquid sets into glass is still argued about by physicists.
+- Science (open): Physicists still argue about exactly what happens when a melted liquid sets into glass.
 - Other view, Many physicists: They explain the clear sugar sheet only with light and tiny particles: light bounces off edges, and without edges it goes straight through. They do not use awareness to explain it.
 - Practice, Look through the window (3 min): Sit near a window. Breathe in slowly, and breathe out slowly. Look through the glass at the sky or the building across the road. This glass was once sand dug from the ground. Now it lets the light reach your eyes. Breathe in and out three more times, and keep looking.
 - Ask: If glass is melted sand, is a window natural or made?
-- Ask: What else might look one way in pieces and another way as one?
+- Ask: What else might look one way in small pieces and another way as one whole piece?
 
 ## Deep and big questions
 - *big:* When a glass bangle breaks and is thrown away, will it ever become sand again? (hint: Think of waves rolling broken glass on a beach for many years.)
@@ -173,7 +173,7 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 **For the parent:** A heap of sand is not see-through because light bounces off the edges of all its grains. Melted into one piece, with no edges inside, the same sand becomes clear glass.
 
 - Ask: Why was Nila's sea glass cloudy?
-- Ask: Why did it go clear when it was wet?
+- Ask: Why did the sea glass go clear when it was wet?
 - Ask: What do you think: is sea glass natural or made by people?
 
 ## Games
@@ -194,9 +194,9 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Parent does:* Count the pairs. Ask one last question.  
   *Parent says:* Which start material was changed the most? Which was changed the least?  
   *Child mode:* Count your pairs. Which was changed the most?
-  - Check: Which pair is right? → **A glass bottle: sand**
+  - Check: Which of these says correctly what a thing is made from? → **A glass bottle, made from sand**
 ### g2 · Stand Up, Sit Down: natural or made? (10 min)
-- **rules:** One player is the caller and holds the cards, after shuffling them. Everyone else stands in a line.; The caller reads a card aloud, but not the back.; If it is a natural material, stand up tall. If it is made by people, sit down on the floor.; The caller reads the back. Anyone who got it wrong does 3 jumps, then plays on.; If the back says 'Tricky', everyone stops. Each player says natural or made, and why. No one does jumps.; After 8 cards, a new player becomes the caller. The game ends after all 16 cards.
+- **rules:** One player is the caller. The caller shuffles the cards and holds them. Everyone else stands in a line.; The caller reads the front of a card aloud, but not the back.; If it is a natural material, stand up tall. If it is made by people, sit down on the floor.; The caller reads the back. Anyone who got it wrong does 3 jumps, then plays on.; If the back says 'Tricky', everyone stops. Each player says natural or made, and why. No one does jumps.; After 8 cards, a new player becomes the caller. The game ends after all 16 cards.
 - **Printable cards: 16 caller cards to cut out:** A mango (back: Natural: stand up); A glass window (back: Made: sit down); A pebble (back: Natural: stand up); A plastic comb (back: Made: sit down); Sand on a beach (back: Natural: stand up); A newspaper (back: Made: sit down); A coconut shell (back: Natural: stand up); A brick (back: Made: sit down); A bamboo pole (back: Natural: stand up) [picture]; A steel plate (back: Made: sit down); Sheep's wool (back: Natural: stand up) [picture]; A plastic bucket (back: Made: sit down); A bird's nest (back: Tricky: stop and talk); A cotton shirt (back: Tricky: stop and talk); A wasp's paper nest (back: Tricky: stop and talk); A wooden chair (back: Tricky: stop and talk)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Explain: stand for natural, sit for made.  
@@ -231,7 +231,7 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Parent does:* 1. Put 4 tablespoons of sugar and 2 tablespoons of water in the pan. 2. Heat on a medium flame. 3. Stir until the sugar is gone, then stop stirring. 4. Let it bubble for about 6 to 10 minutes.  
   *Parent says:* Stay back where you are. Watch the bubbles. Tell me when they change.  
   *Child mode:* Stand back from the stove. Watch the bubbles. Do they change?
-  - Note: After a few minutes the bubbles get smaller and slower, and the syrup turns pale gold. Drop a little into the cold water. If it goes hard and snaps, it is ready. If it bends like chewing gum, heat one or two minutes more. Take it off before it turns dark brown. If the syrup turns white and grainy, it has set back into crystals. Start again in a clean pan, and add 3 drops of lemon juice.
+  - Note: After a few minutes the bubbles get smaller and slower, and the syrup turns pale gold. Drop a little into cold water. If it goes hard and snaps, it is ready. If it bends like chewing gum, heat one or two minutes more. Take it off before it turns dark brown. If the syrup turns white and grainy, it has set back into crystals. Start again in a clean pan, and add 3 drops of lemon juice.
 - **s3 (2 min) · grown-up needed**  
   *Parent does:* 1. Pour the syrup slowly onto the oiled steel plate. 2. Tilt the plate a little so it spreads thin. 3. Put the plate somewhere safe to cool.  
   *Parent says:* I am pouring it now. Don't touch it. It is hotter than boiling water.  
@@ -247,7 +247,7 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Child mode:* Count the letters you can read through each one. Now crush a small piece. What colour is it now?
   - Ask: Why is the crushed sugar white again? (good: Because it is grains again.; The light bounces off all the little pieces.; It has edges again, so we can't see through.)
   - Note: A strong answer uses what your child saw: 'The sheet let me read the word, but the crushed bits did not.' In damp weather the sheet turns sticky after a few hours, so compare it soon after it cools. Now read the card 'How glass is made from sand'. When the sheet is fully cool, your child may taste a small piece. Break it in the cloth first, as the edges can be sharp.
-  - Check: Fathima, a girl in Class 2, crushes a clear glass marble into powder. What colour will the powder look? → **White, like sugar grains**
+  - Check: You crush a clear glass marble into powder. What colour will the powder look? → **White, like sugar grains**
 ### e2 · The Soil Cup Test: which materials break down? (22 min, 14 days)
 - **question:** Which materials break down in damp soil in two weeks: banana peel, newspaper, cotton cloth or a plastic bag?
 - **predict:** Which piece do you think will change the most in two weeks? Which will change the least? Why do you think so?
@@ -255,13 +255,13 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 - **safety:** Mould may grow on the peel. Dig with a spoon, don't sniff it, and wash hands with soap afterwards.
 - **record:** Draw each piece on day 1, day 7 and day 14. Write 'natural' or 'made' under each.
 - **results table:** Material | Natural or made? | My guess | After 1 week | After 2 weeks
-- **schedule:** day 1: Guess. Bury one piece in each cup, label the cups, and water them. (8 min); day 4: Add 2 spoons of water to each cup. (1 min); day 7: Dig each piece up with a spoon, look, write what you see, and bury it again. Add 2 spoons of water. (5 min); day 11: Add 2 spoons of water to each cup. (1 min); day 14: Dig up each piece. Compare them. Which changed the most? Sort them: broke down, changed a little, did not change. (7 min)
+- **schedule:** day 1: Guess which piece will change the most. Bury one piece in each cup, label the cups, and water them. (8 min); day 4: Add 2 spoons of water to each cup. (1 min); day 7: Dig each piece up with a spoon, look, write what you see, and bury it again. Add 2 spoons of water. (5 min); day 11: Add 2 spoons of water to each cup. (1 min); day 14: Dig up each piece. Compare them. Which changed the most? Sort them: broke down, changed a little, did not change. (7 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the four pieces. 2. Ask which are natural and which are made by people. 3. Ask for a guess and a reason.  
   *Parent says:* Which of these come from nature, and which did people make? Which one will change most in the soil? Why?  
   *Child mode:* Which pieces are natural? Which are made? Which will change most? Why?
   - Ask: Which will change most? (good: The banana peel, because peels go rotten.; The paper, because it gets soggy.; The plastic will not change, because plastic lasts.)
-  - Note: Newspaper is a made material, but it is made of plant fibres. That makes it an interesting one to watch.
+  - Note: Newspaper is a made material, but it is made of plant fibres. Watch whether it breaks down like a natural material or like plastic.
 - **s2 (5 min)**  
   *Parent does:* 1. Fill each cup half full of soil. 2. Lay one piece in each. 3. Cover it with more soil. 4. Add 2 spoons of water. 5. Label each cup.  
   *Parent says:* Push the soil down gently. Now each piece is in the dark, in damp soil.  
@@ -279,15 +279,15 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Parent says:* Which pieces have started to break down? Which are natural, and which were made by people? Was your guess right?  
   *Child mode:* Sort them: broke down, changed a little, did not change. Was your guess right?
   - Ask: Why didn't the plastic change? (good: The tiny living beings in the soil can't eat it easily.; Plastic is made from oil, and soil bacteria have few ways to eat plastic.)
-  - Note: Cotton takes months to break down, so it may only look stained or a little weaker. That is a real result too. Then read the card 'How plastic is made from oil'. If the peel only dried out, the soil was too dry. Water it more, and look again after a few days.
-  - Check: Lakshmi, a girl in Madurai, buries a banana leaf and a plastic plate in soil. After two weeks, which will have changed more? → **The banana leaf**
+  - Note: Cotton takes months to break down, so it may only look stained or a little weaker. That is a real result too. If the peel only dried out, the soil was too dry. Water it more, and look again after a few days. When you have finished, read the card 'How plastic is made from oil'.
+  - Check: You bury a banana leaf and a plastic plate in soil. After two weeks, which will have changed more? → **The banana leaf**
   - Wait: Leave the cups for another 7 days.
 
 ## Activities
 ### a1 · The Changing Line: how much did people change it? (10 min)
 - **record:** Draw the line in your notebook with all 8 things on it, in order.
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the string or dupatta on the floor. 2. Put a sign at each end. 3. Collect 8 things with your child.  
+  *Parent does:* 1. Lay the string or dupatta on the floor. 2. Put a sign at each end: 'As nature made it' and 'Changed a lot by people'. 3. Collect 8 things with your child.  
   *Parent says:* Let's find 8 things. Find some that came straight from nature, and some that people made.  
   *Child mode:* Find 8 things. Some from nature. Some made by people.
   - Note: Try to include one of each: something living or grown, something from the ground, something cut from wood, and some glass, paper and plastic.
@@ -295,13 +295,13 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Parent does:* 1. Pick up one thing at a time. 2. Ask your child where it goes on the line, and why. 3. Let them move things as they change their minds.  
   *Parent says:* Where does the wooden spoon go? It is still wood, but someone carved it. How much did people change it?  
   *Child mode:* Put each thing on the line. How much did people change it?
-  - Ask: Why did you put the glass tumbler near the end? (good: Because sand had to be melted to make glass.; You can't find a glass tumbler in nature.)
+  - Ask: Why did you put the glass tumbler near the 'Changed a lot by people' end? (good: Because sand had to be melted to make glass.; You can't find a glass tumbler in nature.)
   - Note: There is no single right answer for the middle things. The reasons matter more than the places.
 - **s3 (2 min)**  
   *Parent does:* 1. Count the things in the half nearer 'As nature made it'. 2. Count the things in the other half.  
   *Parent says:* How many things are on the nature side? How many on the people side? Which side has more?  
   *Child mode:* Count each half. Which half has more things?
-  - Check: Gurpreet, a girl in Class 2, has a cotton hanky and a plastic bottle. Which one goes nearer the 'Changed a lot by people' end? → **The plastic bottle**
+  - Check: You have a cotton hanky and a plastic bottle. Which one goes nearer the 'Changed a lot by people' end? → **The plastic bottle**
 ### a2 · Grains Up Close: is one grain white? (8 min)
 - **record:** Draw one grain big, and a heap small. Colour them as you saw them.
 - **s1 (4 min)**  
@@ -314,7 +314,7 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Parent says:* One grain looks clear. So why does the heap look white?  
   *Child mode:* Now look at a heap. Why does the heap look white?
   - Ask: Why does the heap look white? (good: The light bounces off all the grains.; There are so many edges.)
-  - Note: Salt grains are tiny clear cubes. Glass-making sand is made of tiny clear grains too, which is why melted sand can be clear.
+  - Note: If your child is stuck on why the heap looks white, say this: light bounces off the edges of every grain, in all directions, so very little of it goes straight through. Salt grains are tiny clear cubes. Glass-making sand is made of tiny clear grains too, which is why melted sand can be clear.
 ### a3 · The Water Shake: paper or plastic? (10 min)
 - **record:** Draw what came out of each jar.
 - **s1 (2 min)**  
@@ -344,8 +344,8 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   - Note: Lids, packets, the handle of a knife and the switches on the wall all count.
 - **s3 (4 min)**  
   *Parent does:* 1. Go down the list. 2. For each thing, ask if a natural material could do the job. 3. Circle those.  
-  *Parent says:* Could this be made of wood, steel, clay, cloth or leaf instead? Which ones would be hard to replace?  
-  *Child mode:* Could it be wood, steel, clay or cloth instead? Circle those.
+  *Parent says:* Could this be made of wood, clay, cloth or leaf instead? Which ones would be hard to replace?  
+  *Child mode:* Could it be wood, clay or cloth instead? Circle those.
   - Ask: Which plastic thing would be hardest to replace? (good: The bucket, because it must be light and not break.; The light switch, because it must keep electricity in.)
 
 ## Projects
@@ -355,18 +355,18 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 - **problem:** Cut a window in a shoebox. Cover it with a material that lets light in and keeps a few drops of water out. You must be able to tell that a toy is inside without opening the box.
 - **your turn:** Make your own window. Put the toy right behind it, shine a torch at the window from the side, and look through. Can you tell the toy is inside? Then make it better.
 - **constraints:** No glass.; Use only things from home.; The window must be at least as big as a playing card.
-- **general:** A clear plastic packet taped over the hole.; Butter paper, which lets light in but blurs the view.
-- **creative:** White paper rubbed with a few drops of oil. The oil fills the gaps between the fibres, so more light gets through. Before glass was common, people in China and Japan used oiled paper or paper screens in windows.; A thin white cloth, such as a hanky or muslin, with a few drops of oil rubbed in.
+- **general:** Tape a clear plastic packet over the hole.; Tape butter paper over the hole. It lets light in but blurs the view.
+- **creative:** Rub a few drops of oil into white paper. The oil fills the gaps between the fibres, so more light gets through. Before glass was common, people in China and Japan used oiled paper or paper screens in windows.; Rub a few drops of oil into a thin white cloth, such as a hanky or muslin.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a window in the side of the box. 2. Your child puts a toy inside and closes the lid.  
-  *Parent says:* Glass is a great window, because sand melted into one clear piece. What else could let light in?  
+  *Parent says:* Glass makes a good window, because the sand melted into one clear piece. What else could let light in?  
   *Child mode:* Put a toy in the box. What could make a window, without glass?
 - **s2 (8 min)**  
   *Parent does:* 1. Let your child try each material over the hole. 2. Rub a few drops of oil into a piece of white paper and try that too.  
-  *Parent says:* Hold each one over the window. Which lets in the most light? Look at the oily paper. What changed?  
+  *Parent says:* Hold each one over the window. Which lets in the most light? Look at the oily paper. What changed? Remember the sugar sheet, which had no grain edges inside. The oil fills the gaps between the paper fibres in a similar way.  
   *Child mode:* Try each material. Which lets in the most light?
   - Ask: Why does the oily paper let more light through? (good: The oil fills the gaps between the fibres.; It has fewer edges for the light to bounce off.)
-  - Note: This is the same idea as the sugar test. Filling the gaps between fibres means less light bounces about.
+  - Note: This is the same idea as the Sugar Test, where the melted sugar had no grain edges inside and was clear. The oil fills the gaps between the fibres, so less light bounces about.
 - **s3 (6 min)**  
   *Parent does:* 1. Your child tapes the best material over the window, with the toy right behind it. 2. Shine a torch at the window from the side and look through. 3. Sprinkle a few drops of water on the outside.  
   *Parent says:* Can you tell the toy is inside? Did the water get in?  
@@ -384,12 +384,12 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
    **Answer:** Glass → sand; Paper → wood; Plastic → oil; Brick → clay. *Why:* Every made material starts as a natural raw material.
 3. (draw) Draw the heap of sugar and the cooled sugar sheet, each on top of a word in the newspaper.  
    **Answer:** The heap hides the word. The word can be read through the sheet.. *Why:* A strong drawing shows the word hidden under the heap and clear under the sheet.
-4. (write) Say out loud, and a grown-up writes it down: why did the crushed sugar sheet look white?  
+4. (write) Why did the crushed sugar sheet look white? Say your answer out loud, and a grown-up writes it down.  
    **Answer:** Because it was in tiny pieces again, and light bounced off all their edges.. *Why:* A strong answer says that the pieces have many edges, and light bounces off them.
 5. (truefalse) Paper is made from plants.  
    **Answer:** True. *Why:* True. Paper is made of tiny plant fibres, from wood, bamboo or sugarcane waste, pressed together.
-6. (count) Bornali, a girl in Guwahati, counts plastic things in her bathroom. She finds a bucket, a mug, a soap box, a toothbrush and a comb. How many plastic things did she find?  
-   **Answer:** 5. *Why:* Bucket, mug, soap box, toothbrush, comb: 1, 2, 3, 4, 5.
+6. (count) You count the plastic things in a bathroom. You find a bucket, a mug, a soap box, a toothbrush and a comb. How many plastic things did you find?  
+   **Answer:** 5. *Why:* Count them one by one. The bucket is 1, the mug is 2, the soap box is 3, the toothbrush is 4 and the comb is 5. So there are 5 plastic things.
 7. (odd) Three of these are natural. Which one is made by people?  
    Options: A coconut shell / A plastic bottle / A pebble / A feather  
    **Answer:** 1. *Why:* A plastic bottle is made in a factory from oil. The others come straight from nature.
@@ -398,18 +398,18 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 9. (mcq) In the soil cup test, which piece changed the most in two weeks?  
    Options: The plastic bag / The banana peel / They all stayed the same  
    **Answer:** The banana peel. *Why:* Bacteria and fungi in the soil eat banana peel quickly. Picking the plastic bag may mean mixing up 'changed most' and 'changed least'.
-10. (perspective) Kavya and her grandfather are choosing plates for a big family lunch at Onam.  
-   **Answer:** A strong answer picks one and gives a reason, such as 'the banana leaf broke down in the soil test'. It also says what the other is right about, such as 'steel plates are used again and again, so they make no rubbish'.. *Why:* Both are good choices. One breaks down, the other lasts and is used again. Made does not always mean bad.
+10. (perspective) Anjana and her grandfather are choosing plates for a big family lunch at Onam.  
+   **Answer:** A strong answer picks one and gives a reason, such as 'the banana peel broke down in the soil test, and banana leaves are a plant material too'. It also says what the other is right about, such as 'steel plates are used again and again, so they make no rubbish'.. *Why:* Both are good choices. One breaks down, the other lasts and is used again. Made does not always mean bad.
 ### From Sand to Glass (stretch) (stretch, 10 questions)
-1. (write) Arun, a boy of 5, says, 'Glass can't be made from sand. Sand is not clear.' What would you tell him? Use the sugar test.  
+1. (write) Someone says, 'Glass can't be made from sand. Sand is not clear.' What would you tell them? Use the Sugar Test.  
    **Answer:** The sugar heap was white too, but melted and cooled it became clear. Each grain lets light through, but a heap has many edges. Melted sand joins into one piece with no edges, so glass is clear.. *Why:* A strong answer uses the sugar test as evidence, and says why melting makes the material clear.
 2. (mcq) Why does glass-making need a furnace, not a stove?  
    Options: Sand needs much more heat to melt than sugar / Sand is wet / A stove is too big  
    **Answer:** Sand needs much more heat to melt than sugar. *Why:* Sugar syrup melts on a stove. Sand needs about 1,500 degrees Celsius, far hotter than any kitchen.
 3. (order) Put the steps of making paper in order.  
    **Answer:** [1, 0, 2, 3]. *Why:* First the plant parts are collected, then mashed into pulp, then spread thin, then pressed and dried.
-4. (write) Thara, a girl in Class 2, says, 'Plastic is not natural at all.' Is she right? What did plastic start as?  
-   **Answer:** Partly. Plastic is made by people, but it starts as oil, which is natural. Oil formed long ago from tiny sea living beings.. *Why:* A strong answer says plastic is a made material, and also names its natural raw material, oil.
+4. (write) Someone says, 'Plastic is not natural at all.' Are they right? What did plastic start as?  
+   **Answer:** Partly. Plastic is made by people, but it starts as oil, which is natural. Oil formed long ago from tiny living beings of the sea.. *Why:* A strong answer says plastic is a made material, and also names its natural raw material, oil.
 5. (draw) Draw the journey of a glass bangle, from the beach to a wrist. Draw at least three steps.  
    **Answer:** Sand, then a furnace melting it, then a worker pulling or shaping hot glass, then a bangle on a wrist.. *Why:* A strong drawing shows that the sand is melted by heat, shaped while hot, and cooled.
 6. (fill) The natural material that something is made from is called its ____ material.  
@@ -419,7 +419,7 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 8. (mcq) In the water shake, the tissue fell apart, but the plastic did not. Why?  
    Options: The tissue is made of fibres that let go of each other when wet / The plastic was bigger / The water was too cold  
    **Answer:** The tissue is made of fibres that let go of each other when wet. *Why:* Paper is plant fibres holding each other. Water gets between them and they let go. Plastic is made of long chains that water does not pull apart.
-9. (perspective) Meenakshi and her friend Farhan see a paper wasp's nest on a balcony.  
+9. (perspective) Anjana and her friend Sana see a paper wasp's nest on a balcony.  
    **Answer:** A strong answer gives a clear reason, for example that people are animals too, so both could be called natural. It also names a difference, for example that people use big machines, chemicals and factories.. *Why:* There is no single right answer. It depends on where we draw the line between natural and made.
 10. (write) In the soil cup test, the plastic bag did not change in two weeks. Why could that be a problem if plastic is thrown on the ground?  
    **Answer:** Because it will stay there for a very long time. It does not break down like peel or paper, so it piles up.. *Why:* A strong answer uses the test result and says what happens when plastic is not broken down.
@@ -439,7 +439,7 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 3. (mcq) Most plastic is made from what?  
    Options: Oil from under the ground / Melted sand / Tree bark  
    **Answer:** Oil from under the ground. *Why:* Plastic is made in factories from oil and natural gas. Picking melted sand mixes it up with glass.
-4. (mcq) Revathi, a girl in Kochi, watches a grown-up pour melted sugar onto a plate. When it cools, what will it look like?  
+4. (mcq) A grown-up pours melted sugar onto a plate. When it cools, what will it look like?  
    Options: White grains / A clear, hard sheet / Wet sugar water  
    **Answer:** A clear, hard sheet. *Why:* In the sugar test, the melted sugar set into one clear piece. Picking 'white grains' means thinking it goes back to how it was.
 5. (mcq) Why does a heap of sugar look white?  
@@ -454,12 +454,12 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 8. (mcq) In the soil cup test, which piece did not change at all?  
    Options: The banana peel / The newspaper / The plastic bag  
    **Answer:** The plastic bag. *Why:* Soil bacteria and fungi have very few ways to eat plastic. Picking newspaper may mean thinking all made materials last. Paper is plant fibres, so paper breaks down.
-9. (mcq) Selvi, a girl in Class 2, is not sure where a brick comes from. What is a brick made from?  
+9. (mcq) What is a brick made from?  
    Options: Baked clay / Melted sand / Pressed paper  
    **Answer:** Baked clay. *Why:* Bricks are clay that is shaped and baked very hot. Melted sand makes glass, not bricks.
-10. (mcq) Before the sugar test, Farhan, a boy in Class 2, guessed the melted sugar would stay white. After the test, what should he do?  
-   Options: Keep his guess, because guesses are always right / Say what he saw, and change his idea / Do the test again until it comes out white  
-   **Answer:** Say what he saw, and change his idea. *Why:* A good scientist says what the test showed, even when it is different from the guess.
+10. (mcq) Before the Sugar Test, you guessed the melted sugar would stay white. The test showed a clear sheet. What should you do?  
+   Options: Keep your guess, because guesses are always right / Say what you saw, and change your idea / Do the test again until it comes out white  
+   **Answer:** Say what you saw, and change your idea. *Why:* A good scientist says what the test showed, even when it is different from the guess.
 
 ## Applications
 - Glass makers melt sand, and old crushed glass, to make bottles, windows, spectacles and bangles.
@@ -497,11 +497,11 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 - What did one brick say to the other? *Let's stick together!*
 
 ## Connected maths
-- In the sugar test, Tamanna, a girl in Class 2, read 0 letters through the sugar heap and 8 letters through the sugar sheet. How many more letters could she read through the sheet? **8 more letters.**. 8 take away 0 is 8. The sheet showed 8 letters, the heap showed none. (queues `math.addition-subtraction.meaning.L2`)
-- The grown-up set a 10 minute timer for the sugar sheet to cool. After 4 minutes, Selvi, a girl in Class 2, asked if it was ready. How many more minutes did she have to wait? **6 more minutes.**. Count on from 4 to 10: 5, 6, 7, 8, 9, 10. That is 6 minutes. (queues `math.addition-subtraction.meaning.L2`)
-- Bornali, a girl in Guwahati, counted 12 plastic things in her kitchen. Her friend Fathima counted 9 in hers. Who counted more, and how many more? **Bornali counted 3 more.**. 12 is more than 9. Count on from 9 to 12: 10, 11, 12. That is 3. (queues `math.number-sense.comparing-ordering.L2`)
-- In the changing line, Kavya, a girl in Class 2, put 8 things down. 5 were nearer the 'Changed a lot by people' end. How many were nearer the 'As nature made it' end? Which side had more? **3 things. The 'changed a lot' side had 2 more.**. 8 take away 5 is 3. 5 is more than 3, and 5 take away 3 is 2. (queues `math.data.sorting-and-tallies.L2`)
-- In the soil cup test, Lakshmi, a girl in Madurai, waters each of her 4 cups with 2 spoons of water. How many spoons does she use every time she waters? **8 spoons.**. 4 cups, 2 spoons each: 2, 4, 6, 8. (queues `math.multiplication.equal-groups.L2`)
+- In the Sugar Test, you read 0 letters through the sugar heap and 8 letters through the sugar sheet. How many more letters could you read through the sheet? **8 more letters.**. 8 take away 0 is 8. The sheet showed 8 letters and the heap showed none. (queues `math.addition-subtraction.meaning.L2`)
+- The grown-up set a 10 minute timer for the sugar sheet to cool. After 4 minutes, you ask if it is ready. How many more minutes do you have to wait? **6 more minutes.**. Count on from 4 to 10: 5, 6, 7, 8, 9, 10. That is 6 minutes. (queues `math.addition-subtraction.meaning.L2`)
+- You count 12 plastic things in the kitchen and 9 in the bathroom. Which room has more, and how many more? **The kitchen has 3 more.**. 12 is more than 9. Count on from 9 to 12: 10, 11, 12. That is 3. (queues `math.number-sense.comparing-ordering.L2`)
+- In the Changing Line, you put 8 things down. 5 were nearer the 'Changed a lot by people' end. How many were nearer the 'As nature made it' end? Which side had more? **3 things. The 'changed a lot' side had 2 more.**. 8 take away 5 is 3. 5 is more than 3, and 5 take away 3 is 2. (queues `math.data.sorting-and-tallies.L2`)
+- In the Soil Cup Test, you water each of the 4 cups with 2 spoons of water. How many spoons do you use every time you water? **8 spoons.**. 4 cups, 2 spoons each: 2, 4, 6, 8. (queues `math.multiplication.equal-groups.L2`)
 
 ## Song
 Test It and See (sci.materials.L2): Topic-level song for Materials L2

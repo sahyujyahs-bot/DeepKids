@@ -65,9 +65,9 @@
    "definition": "A transparent material lets light go straight through. A translucent material lets some light through, but spreads it in all directions, so you see no clear picture. An opaque material lets no light through.",
    "description": "In the Three Plates activity, you held things up to the window. Glass and clear plastic showed you the window clearly. They are transparent. A napkin and an onion skin glowed, but you could not see the window through them. They are translucent. A steel plate was dark, with no glow at all. It is opaque.",
    "examples": [
-    "Transparent: a glass tumbler, a clear polythene bag, clean water.",
-    "Translucent: a paper napkin, a dry onion skin, a thin cotton dupatta.",
-    "Opaque: a steel plate, a wooden spoon, a brick wall."
+    "A glass tumbler, a clear polythene bag and clean water are transparent.",
+    "A paper napkin, a dry onion skin and a thin cotton dupatta are translucent.",
+    "A steel plate, a wooden spoon and a brick wall are opaque."
    ],
    "perspectives": [],
    "context": "This card says what the three words mean.",
@@ -227,7 +227,7 @@
    "That night, the power went off. Amma lit a small torch and gave it to Nila. Nila pulled her thin cotton bedsheet over her head and shone the torch. The sheet glowed all around her like a tent.",
    "\"Varun,\" she whispered, \"this sheet is one layer. Get me the thick quilt.\"",
    "Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was gone. It was dark and warm under there, like the bottom of the sea.",
-   "\"Now we're deep-sea fish,\" said Varun, and switched on his own little light, which was the torch."
+   "\"Now we're deep-sea fish,\" said Varun. He switched on the torch. \"This is my own little light.\""
   ],
   "epiphany": "For the parent: Nila works out that whether a dosa is translucent or opaque depends on how many layers there are. Each layer stops some of the light, and enough layers stop it all. Ajji then shows that the same is true of sea water: a handful is clear, but deep water is dark.",
   "ask": [
@@ -337,7 +337,7 @@
      "kid": "Guess how many layers of each will hide the sun. Why?",
      "ask": [
       {
-       "q": "Why did you guess that the paper will need fewer layers than the polythene?",
+       "q": "Why do you think paper will need fewer layers than polythene?",
        "good": [
         "Paper is thicker.",
         "I can see through polythene, but not really through paper."
@@ -563,7 +563,8 @@
       ],
       "a": 0,
       "why": "With half the water gone, there is less cloudy water in the way. So more light reaches the coin and comes back up. It is like taking squares off the pile in the Layer Test."
-     }
+     },
+     "parent": "A good answer is that the cloudy water is like the paper. The more of it that is in the way, the more light it stops. Taking half the water out is like taking squares off the pile."
     }
    ]
   }
@@ -1437,14 +1438,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and her friend the second person, both aged 7, argue about paper in Kochi.",
+     "p": "Anjali and her friend Deepa, both aged 7, argue about paper in Kochi.",
      "views": [
       {
-       "who": "The first person",
+       "who": "Anjali",
        "says": "Paper is translucent. One sheet glows at the window."
       },
       {
-       "who": "The second person",
+       "who": "Deepa",
        "says": "Paper is opaque. My thick notebook is dark at the window."
       }
      ],

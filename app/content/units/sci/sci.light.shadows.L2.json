@@ -104,9 +104,9 @@
    "definition": "To make a shadow you need a light, something that blocks the light, and a surface for the shadow to fall on.",
    "description": "Switch the torch off, and the shadow is gone. Take your hand away, and the shadow is gone. Shine the torch out of an open window at night, and there is no wall for the shadow to fall on, so you see none. All three are needed at once: a light, a thing in the way, and a surface behind it.",
    "examples": [
-    "No light: switch off the torch and the hand shadow vanishes.",
-    "No blocker: take your hand away and the wall is all lit.",
-    "No surface: shine the torch out of a window into the night sky, and you see no shadow."
+    "With no light, the hand shadow vanishes. Switch off the torch and see.",
+    "With nothing to block the light, there is no shadow. Take your hand away and the wall is all lit.",
+    "With no surface, you see no shadow. Shine the torch out of a window into the night sky and see."
    ],
    "perspectives": [],
    "art": "Three small pictures: a torch switched off with no shadow, a torch with no hand and a lit wall, and a torch with a hand and a dark shadow."
@@ -159,9 +159,9 @@
    "definition": "A shadow always falls on the side of the thing that is away from the light.",
    "description": "Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.",
    "examples": [
-    "The torch on the left: the shadow falls on the right.",
-    "A light on the ceiling: the shadow of a chair is under the chair.",
-    "The Sun in the east in the morning: shadows point to the west."
+    "If the torch is on the left, the shadow falls on the right.",
+    "If a light is on the ceiling, the shadow of a chair is under the chair.",
+    "In the morning the Sun is in the east, so shadows point to the west."
    ],
    "perspectives": [],
    "art": "A toy on a plate seen from above, with a torch on four sides in turn and the shadow pointing the opposite way each time."
@@ -206,7 +206,7 @@
    "status": "defined",
    "context": "This card is about plants and animals that notice shadows and act on them.",
    "definition": "Many living beings sense shadows and change what they do.",
-   "description": "A plant in the shade of other leaves senses the shade. The light under leaves has less red light, and plants feel that change. The plant then grows a longer stem to reach the sunlight. Giant clams in the sea pull in quickly when a shadow passes over them. A shadow can mean a fish is coming close. In Africa, a bird called the black heron spreads her wings into an umbrella over the water while she fishes.",
+   "description": "A plant in the shade of other leaves senses the shade. Leaves take in red light, so the light that comes through them has less red in it. Plants can feel this change. The plant then grows a longer stem to reach the sunlight. Giant clams in the sea pull in quickly when a shadow passes over them. A shadow can mean a fish is coming close. In Africa, a bird called the black heron spreads her wings into an umbrella over the water while she fishes.",
    "examples": [
     "A tulsi plant on a crowded windowsill grows taller and thinner than one with space round them.",
     "A pigeon on the balcony rail may fly off when your shadow falls over them.",
@@ -346,9 +346,9 @@
    "Paati smiled. \"Shadow puppeteers use the same trick,\" she said. \"When Ravana comes on, angry and proud, they pull him back towards the lamps, and he fills the whole cloth.\"",
    "Amma switched on the torch and shone it at the elephant from the other side of the room. Now there were two elephants on the wall, one from the lamp and one from the torch. Each one was grey, not black. Where they crossed, there was one dark patch.",
    "\"Two lights, two shadows,\" said Amma.",
-   "Arjun counted. \"One elephant. Two shadows.\" He thought for a moment. \"So the shadow belongs to the lamp, too. Not only to the elephant.\"",
+   "Arjun counted. \"One elephant. Two shadows.\" He thought for a moment. \"So the shadow does not belong only to the elephant. It comes from the elephant and the light together.\"",
    "Then the fans whirred, and the tube light flickered on. The whole wall went bright. The elephant shadows went pale and nearly vanished.",
-   "\"Oh,\" said Arjun. \"The big light filled them in.\"",
+   "\"Oh,\" said Arjun. \"The big light shines into the shadows. So they are not dark now.\"",
    "Paati blew out the little lamp. \"Tomorrow,\" she said, \"we will make Ravana. With ten heads.\""
   ],
   "epiphany": "For the parent: Arjun first thinks the shadow is a thing that goes away and comes back, and that the elephant grows. Nila sees that the shadow is only the place the lamp's light cannot reach, so its size depends on where the puppet is. The second light shows Arjun that a shadow comes from the light and the puppet together.",
@@ -711,7 +711,7 @@
      "say": "This is our test track. The torch must stay exactly here the whole time. Why do you think that matters?",
      "kid": "The torch stays in one place. Only the toy moves.",
      "adult": true,
-     "parent": "One metre is about two big steps for a child of 7. If you use a phone, prop it against a box so the torch on the back faces the wall. Evening is easiest, with the curtains closed. Keep the torch as low as the table top, so the shadows start at the table."
+     "parent": "One metre is about two big steps for a child of 7. If you use a phone, prop it against a box so the torch on the back faces the wall. Evening is easiest, with the curtains closed. Keep the torch as low as the table top, so the shadows start at the table. A good answer to the question above is that if the torch moved too, we would not know whether the toy or the torch changed the shadow."
     },
     {
      "id": "s3",
@@ -1441,7 +1441,7 @@
    "title": "Build a Shadow Monster",
    "mins": 20,
    "context": "This is a design challenge. You build a monster from kitchen things, but only its shadow will be seen. Your job is to make the shadow look as amazing as you can.",
-   "problem": "Can you build a monster from kitchen things whose shadow has a big head, glowing eyes and claws, and can grow huge on the wall?",
+   "problem": "Can you build a monster from kitchen things whose shadow has a big head, glowing eyes and claws, and can grow huge on the wall? The glowing eyes are holes in the monster. Light shines through them and makes two bright dots in the dark shadow.",
    "constraints": [
     "Use only things from the kitchen that will not break, such as spoons, forks, a tea strainer, a paper plate and steel plates, plus tape.",
     "The shadow must have at least two eyes of light.",
@@ -1576,7 +1576,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Near or Far test, where was the toy's shadow biggest?",
+   "p": "A toy stands between a torch and a wall. When is its shadow biggest?",
    "opts": [
     "When the toy was close to the torch",
     "When the toy was close to the wall",
@@ -1738,7 +1738,7 @@
     },
     {
      "t": "write",
-     "p": "In the Near or Far test, why did your toy's shadow grow when the toy was near the torch? Say your answer, and a grown-up writes it down.",
+     "p": "A toy stands between a torch and a wall. Why does its shadow grow when the toy is moved near the torch? Say your answer, and a grown-up writes it down.",
      "lines": 2,
      "a": "Near the torch, the toy blocked more of the light, so the dark patch on the wall was bigger.",
      "why": "A strong answer says the toy stayed the same size, and that near the torch it blocked a bigger part of the spreading light.",
@@ -1761,7 +1761,7 @@
       "shadow: the dark patch on the wall",
       "wall: where the shadow falls"
      ],
-     "why": "These are the parts of every shadow: a light, the light itself, a blocker, the shadow and a surface.",
+     "why": "Every shadow needs a torch to make the light, a toy to block the light, and a wall to catch the shadow. The yellow lines show the light going from the torch to the wall.",
      "art": "A torch on the left, yellow lines of light, a toy in the middle and a wall on the right with a dark toy shadow."
     },
     {
@@ -1840,24 +1840,24 @@
     },
     {
      "t": "perspective",
-     "p": "Three friends are arguing about a shadow.",
+     "p": "Three friends, Divya, Lakshmi and Farhan, are arguing about a shadow.",
      "views": [
       {
-       "who": "The first person",
+       "who": "Divya",
        "says": "A shadow belongs to the puppet. It has the puppet's shape."
       },
       {
-       "who": "The second person",
+       "who": "Lakshmi",
        "says": "A shadow belongs to the light. With two lights, one puppet makes two shadows."
       },
       {
-       "who": "The third person",
+       "who": "Farhan",
        "says": "A shadow needs the puppet and the light together. Take either away, and it is gone."
       }
      ],
      "ask": "Who do you agree with? Give one reason from your own tests. Then say one thing another friend has right.",
      "lines": 4,
-     "a": "A strong answer picks a side and uses evidence. The first person is right that the outline comes from the puppet. The second person is right that each light makes its own shadow. The third person is right that both are needed.",
+     "a": "A strong answer picks a side and uses evidence. Divya is right that the outline comes from the puppet. Lakshmi is right that each light makes its own shadow. Farhan is right that both are needed.",
      "why": "A shadow's shape comes from the blocker, but its place, size and number come from the light. Every view sees part of it."
     },
     {
@@ -2000,7 +2000,7 @@
      "t": "truefalse",
      "p": "True or false: a plant can sense the shade of other leaves, and grow taller to get out of it.",
      "a": true,
-     "why": "True. Light under leaves has less red light. Plants sense this and grow longer stems to reach sunlight."
+     "why": "True. Leaves take in red light, so the light under them has less red in it. Plants sense this and grow longer stems to reach sunlight."
     },
     {
      "t": "match",
@@ -2370,7 +2370,7 @@
    "evidence": "In the Near or Far test, the toy's shadow was only a little taller than the toy near the wall, and about three times as tall near the torch. The toy did not change at all."
   },
   "three": {
-   "who_am_i": "You are something light cannot pass through. Wherever you stand in the light, you leave a patch of shade behind you.",
+   "who_am_i": "Light cannot pass through your body. So wherever you stand in the light, you leave a patch of shade behind you.",
    "what_is_life": "A plant feels the shade of a neighbour and grows taller to reach the light. Living beings sense shadows and act on them.",
    "what_is_this_world": "The world is full of light and of things that block it. Night is when your side of the Earth is in the Earth's own shadow."
   },

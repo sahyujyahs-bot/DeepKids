@@ -25,14 +25,14 @@
 ### Three ways a material can treat light · *defined*
 **Definition:** A transparent material lets light go straight through. A translucent material lets some light through, but spreads it in all directions, so you see no clear picture. An opaque material lets no light through.
 
-Remember the three plates, where you held things up to the window? Glass and clear plastic showed you the window clearly. They are transparent. A napkin and an onion skin glowed, but you could not see the window through them. They are translucent. A steel plate was dark, with no glow at all. It is opaque.
-- e.g. Transparent: a glass tumbler, a clear polythene bag, clean water.
-- e.g. Translucent: a paper napkin, a dry onion skin, a thin cotton dupatta.
-- e.g. Opaque: a steel plate, a wooden spoon, a brick wall.
+In the Three Plates activity, you held things up to the window. Glass and clear plastic showed you the window clearly. They are transparent. A napkin and an onion skin glowed, but you could not see the window through them. They are translucent. A steel plate was dark, with no glow at all. It is opaque.
+- e.g. A glass tumbler, a clear polythene bag and clean water are transparent.
+- e.g. A paper napkin, a dry onion skin and a thin cotton dupatta are translucent.
+- e.g. A steel plate, a wooden spoon and a brick wall are opaque.
 ### Each layer stops some of the light · *defined*
 **Definition:** When light goes through a layer of a material, some of the light is stopped and the rest goes on. Each new layer stops some more. So many layers let through much less light than one.
 
-Remember the Layer Test, where you piled squares on a drawing? One square of paper let you see the drawing. With every square you added, the drawing got fainter, until it was gone. Each layer sent some light back and soaked up some more. Only the rest went on to the next layer. Polythene stopped very little light, so the drawing still showed through many layers.
+In the Layer Test, you piled squares on a drawing. One square of paper let you see the drawing. With every square you added, the drawing got fainter, until it was gone. Each layer sent some light back and soaked up some more. Only the rest went on to the next layer. Polythene stopped very little light, so the drawing still showed through many layers.
 - e.g. In the Layer Test, the drawing got fainter with each paper square.
 - e.g. One napkin glows at a window, but a whole packet of napkins looks dark.
 - e.g. A thin cotton curtain lets light into a room. Two or three curtains, one behind the other, make the room much darker.
@@ -55,12 +55,12 @@ A whole cucumber is opaque. A paper-thin slice of the same cucumber glows at the
 
 A glass of water is clear. But sunlight going down into the sea passes through more and more water. Each metre stops a little of the light. About 200 metres down, it is very dim. Below about 1,000 metres, there is no sunlight left, and the water is completely dark. Many animals live there, and lots of them make their own light.
 - e.g. Water in a glass is clear.
-- e.g. In the milk test, half a glass of cloudy water let the coin show, but a full glass hid it.
+- e.g. In the Milk Cloud test, half a glass of cloudy water let the coin show, but a full glass hid it.
 - e.g. Deep-sea fish such as anglerfish carry their own glowing lights.
 
 ## Mostly agreed
 - Some materials are transparent, some are translucent and some are opaque. *How we know:* Anyone can hold glass, a napkin and a steel plate up to a window and see the difference.
-- More layers of a material let less light through. *How we know:* In the Layer Test, the drawing got fainter with each square added. Light meters show the same thing very exactly.
+- More layers of a material let less light through. *How we know:* In the Layer Test, the drawing got fainter with each square added. Light meters measure the same thing exactly.
 - Thin slices of most rocks let light through. *How we know:* Since the 1850s, scientists have ground rocks into slices thinner than paper and looked at them with light shining through, under a microscope.
 - Below about 1,000 metres in the sea, no sunlight reaches. *How we know:* Scientists have lowered light meters from ships and gone down in deep-sea vehicles, and measured the light fading away.
 
@@ -77,33 +77,33 @@ A glass of water is clear. But sunlight going down into the sea passes through m
   Against: In the Layer Test, the pile that hid the drawing still glowed with a torch behind it. Light was getting through, but scattered, so there was no picture.
 - **Clear water lets all the light through, however deep it is.** (A common idea; *rejected*)  
   For: A glass of water, a bucket of water and the shallow sea at a beach all look clear.  
-  Against: The deep sea is completely dark below about 1,000 metres, because so much water above stops the sunlight. In the milk test, a full glass of cloudy water hid the coin, but half a glass let it show.
+  Against: The deep sea is completely dark below about 1,000 metres, because so much water above stops the sunlight. In the Milk Cloud test, a full glass of cloudy water hid the coin, but half a glass let it show.
 
 ## Roots
-We have piled up squares until a drawing disappeared, and watched a torch glow through the pile. Now we ask what that tells us about ourselves and the world.
+In the Layer Test, you piled up squares until a drawing disappeared, and then a torch glowed through the pile. Here we ask what that tells us about ourselves and the world.
 
-**Deep truth.** One sheet of paper over your drawing still let you see it. A few more sheets hid it, but the torch still glowed through them. Each sheet stops some of the light and lets the rest pass on. So whether paper is translucent or opaque depends on how many sheets there are.  
+**Deep truth.** In the Layer Test, one sheet of paper over the drawing still let you see it. A few more sheets hid it, but the torch still glowed through them. Each sheet stops some of the light and lets the rest pass on. So whether paper is translucent or opaque depends on how many sheets there are.  
 *Habit it breaks:* We sort materials into fixed groups, as if paper is always translucent and rock is always opaque. But the group depends on the piece: one sheet of paper glows, a thick notebook can be dark, and rock ground thinner than paper lets light through.  
 *Evidence:* In the Layer Test, the drawing faded with every paper square until it was gone, yet the pile still glowed with a torch behind it. A thin cucumber slice glowed at the window, but a thick chunk was dark.
 
 - *who am i:* Your eyelids are thin layers of skin. Facing a bright window with your eyes shut, you still see a warm glow, because some light gets through them.
-- *what is life:* Seaweeds and corals that need sunlight live near the top of the sea, where the water above is thin enough to let light through. Deep down, many animals make their own light.
-- *what is this world:* Light meets everything, and everything lets through a little or a lot of it. Whether light gets through depends on what a thing is made of and how thick it is.
+- *what is life:* Seaweeds and corals that need sunlight live near the top of the sea, where there is not much water above them and light still gets through. Deep down, many animals make their own light.
+- *what is this world:* Light falls on everything. Some things let a lot of it through, and some let only a little. How much gets through depends on what a thing is made of and how thick it is.
 
-One torch sends out light. Each layer it meets takes a share of the light and passes on the rest. So the light fades little by little, until there is none left to pass on. Paper, water, a leaf and a rock all meet the same light, each in its own measure. Everything is aware in its own way, the paper and the water too. Many scientists disagree, and say only living beings with nerves are aware.
+A torch sends out light. Each layer the light meets stops a share of it and passes on the rest. So the light fades little by little, until there is none left to pass on. Paper, water, a leaf and a rock all meet the same light, and each lets a different amount through. Everything is aware in its own way, the paper and the water too. Many scientists disagree, and say only living beings with nerves are aware.
 
-- **Bhagavad Gita 3.38:** As fire is covered by smoke, as a mirror is covered by dust, and as a baby is covered by the womb, so wisdom is covered by desire. (The Gita gives three coverings, from thin to thick. Smoke dims a fire, but its light still shows. Dust hides a mirror's picture. The womb hides the baby completely. In your Layer Test, too, each layer covered a little more.)
-- **Tattvartha Sutra, chapter 8 (Jain):** Jain thinkers teach that every soul can know all things, but kinds of karma cover that knowledge. The first kind they name is jnanavaraniya, which means 'knowledge-covering'. As the covering thins, more knowledge shines through. (In your Layer Test, taking squares off the pile let more light through. The Jain teaching uses the same picture of layers for how much we can know.)
+- **Bhagavad Gita 3.38:** As fire is covered by smoke, as a mirror is covered by dust, and as a baby is covered by the womb, so wisdom is covered by desire. (The Gita gives three coverings, from thin to thick. Smoke dims a fire, but its light still shows. Dust hides a mirror's picture. The womb hides the baby completely. In the Layer Test, too, each layer covered a little more.)
+- **Tattvartha Sutra, chapter 8 (Jain):** Jain thinkers teach that every soul can know all things, but kinds of karma cover that knowledge. The first kind they name is jnanavaraniya, which means 'knowledge-covering'. As the covering thins, more knowledge shines through. (In the Layer Test, taking squares off the pile lets more light through. The Jain teaching uses the same picture of layers for how much we can know.)
 - Science (settled): Each layer of a material stops some of the light that reaches it, so light fades bit by bit through thicker pieces. Below about 1,000 metres, the sea has no sunlight at all.
 - Science (settled): Most rocks let light through when they are ground thinner than paper, and very thin gold leaf lets green light through.
 - Other view, The Buddha, in the Phena Sutta (Samyutta Nikaya 22.95): The Buddha compared what we call a self to the trunk of a banana plant. Someone cuts it open looking for a hard core and peels away layer after layer, but finds no core inside. In this view, there is no hidden self under the layers waiting to shine through. There are only the layers.
 - Practice, Light through your eyelids (3 min): Sit facing a bright window, but never look at the Sun. Close your eyes gently. Breathe in slowly, and breathe out slowly, three times. What colour do you see with your eyes shut? Now cup your hands over your closed eyes. What happened to the glow? Take your hands away slowly. Where does the glow come from?
 - Ask: Your eyelids let light in even when they are shut. Is the glow you see inside you, or outside you?
-- Ask: The light faded layer by layer in your test. Was there ever one moment when it stopped?
+- Ask: In the Layer Test, the light faded layer by layer. Was there ever one moment when it stopped?
 - Ask: If everything lets through a little light when it is thin enough, is anything truly opaque?
 
 ## Deep and big questions
-- *deep:* One tissue lets light through, and a whole roll of tissue does not. At which layer does the roll become opaque? (hint: Did the light stop all at once in your test, or fade bit by bit? Is there one exact layer?)
+- *deep:* One tissue lets light through, and a whole roll of tissue does not. At which layer does the roll become opaque? (hint: In the Layer Test, did the light stop all at once, or fade bit by bit? Is there one exact layer?)
 - *deep:* When light runs out inside a pile of paper, where does it go? (hint: Look at the front of the pile when the torch is behind it. Does some light come back towards the torch? Does the paper warm up a tiny bit?)
 - *big:* Your eyelids let in a red glow even when they are shut. Are you ever in complete darkness? (hint: Try it in a bright room and in a dark room at night. When is there no glow at all?)
 - *big:* Fish deep in the sea live where sunlight never reaches. Is their world dark, or lit in a different way? (hint: Many deep-sea animals make their own light. Who would you see if you went down there?)
@@ -139,7 +139,7 @@ Nila frowned. "So is a dosa translucent, or opaque?"
 
 "What do you think?" asked Ajji.
 
-Nila thought about it. One dosa glowed brightly. Four layers glowed less. Six folded dosas, which made many layers, did not glow at all. "It depends how many there are," she said slowly. "Every layer stops some of the light. If there are enough layers, all the light is stopped."
+Nila thought about it. One dosa glowed brightly. Four layers glowed less. Six folded dosas, which made many layers, hardly glowed at all. "It depends how many there are," she said slowly. "Every layer stops some of the light. If there are enough layers, all the light is stopped."
 
 Ajji smiled. "That is true for almost everything."
 
@@ -161,7 +161,7 @@ That night, the power went off. Amma lit a small torch and gave it to Nila. Nila
 
 Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was gone. It was dark and warm under there, like the bottom of the sea.
 
-"Now we're deep-sea fish," said Varun, and switched on his own little light, which was the torch.
+"Now we're deep-sea fish," said Varun. He switched on the torch. "This is my own little light."
 
 **For the parent:** For the parent: Nila works out that whether a dosa is translucent or opaque depends on how many layers there are. Each layer stops some of the light, and enough layers stop it all. Ajji then shows that the same is true of sea water: a handful is clear, but deep water is dark.
 
@@ -172,11 +172,11 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 
 ## Games
 ### g1 · Thin or Thick? A card game (15 min)
-- **rules:** Mix the 12 cards and put them in a pile, face down.; The reader takes the top card and reads the front out loud. The reader keeps the back hidden.; Everyone else shows an answer with their hands. Open hands wide means 'see through'. Wiggling fingers means 'glows'. Fists mean 'dark'. Everyone says why.; The reader turns the card over and reads the back. Everyone who was right gets a point. Then the next player is the reader.; When all the cards are read, lay them face up. Find the five pairs: a thin thing and a thick thing made of the same material. Each pair you find is one more point. The window pane and the eyelids have no partner, so leave them out.; Add up the points. The most points wins. If you tie, you all win.
+- **rules:** Mix the 12 cards and put them in a pile, face down.; The reader takes the top card and reads the front out loud. The reader keeps the back hidden.; Everyone else shows an answer with their hands. Hands open wide mean 'see through'. Wiggling fingers mean 'glows'. Fists mean 'dark'. Everyone says why.; The reader turns the card over and reads the back. Everyone who was right gets a point. Then the next player is the reader.; When all the cards are read, lay them face up. Find the five pairs: a thin thing and a thick thing made of the same material. Each pair you find is one more point. The window pane and the eyelids have no partner, so leave them out.; Add up the points. The most points wins. If you tie, you all win.
 - **Printable cards: 12 cards: thin and thick:** One glass of water (back: SEE THROUGH. A little water is transparent.) [picture]; The deep sea, one kilometre down (back: DARK. So much water above stops all the sunlight.); One paper napkin (back: GLOWS. One napkin is translucent.); A whole roll of toilet paper (back: DARK. Enough layers stop all the light.); A paper-thin slice of cucumber (back: GLOWS. A thin slice is translucent.); A whole cucumber (back: DARK. A thick piece is opaque.); Gold leaf, hammered much thinner than paper (back: GLOWS. Very thin gold lets green light through.); A gold bangle (back: DARK. Thick gold is opaque.); A slice of rock, ground thinner than paper (back: GLOWS. Most rocks let light through when they are this thin.); A big rock (back: DARK. A thick rock is opaque.); A clear window pane (back: SEE THROUGH. Window glass is transparent.); Your closed eyelids, facing a bright window (back: GLOWS. Eyelids are thin, so a warm red glow gets through.)
 - **s1 (2 min)**  
   *Parent does:* Read the rules together. Practise the three hand signs. Decide who reads first.  
-  *Parent says:* Open hands means see through. Wiggly fingers means glows. Fists mean dark. Let's try each one.  
+  *Parent says:* Open hands mean see through. Wiggly fingers mean glows. Fists mean dark. Let's try each one.  
   *Child mode:* Open hands: see through. Wiggly fingers: glows. Fists: dark.
 - **s2 (9 min)**  
   *Parent does:* Play all 12 cards. The reader reads each front, waits for every hand sign and reason, then reads the back. Pass the cards to the next reader.  
@@ -187,9 +187,9 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Parent does:* Lay the cards face up and find the pairs together.  
   *Parent says:* Find a thin thing and a thick thing made of the same material. What is the same about every pair?  
   *Child mode:* Find the pairs. What is the same in every pair?
-  - Check: Ishita, a girl in Kolkata, has two cards: 'one glass of water' and 'the deep sea'. Why is one see through and the other dark? → **The deep sea has much more water in the way**
+  - Check: Two cards say 'one glass of water' and 'the deep sea'. Why is one see through and the other dark? → **The deep sea has much more water in the way**
 ### g2 · Window, Curtain, Wall: a moving game (8 min)
-- **rules:** Window: stand tall and make a square frame with your hands in front of your eyes, and look through it.; Curtain: sway gently from side to side, like a curtain in the breeze.; Wall: stand stiff and still, with your arms tight at your sides.; A grown-up calls out a thing. Everyone moves as fast as they can.; The grown-up says the answer. Anyone who chose differently says why. A good reason counts too.; When all 12 calls are done, count how many you moved right at the first try. Try to beat that next time.
+- **rules:** Window: stand tall and make a square frame with your hands in front of your eyes, and look through it.; Curtain: sway gently from side to side, like a curtain in the breeze.; Wall: stand stiff and still, with your arms tight at your sides.; A grown-up calls out a thing. Everyone moves as fast as they can.; The grown-up says the answer. Anyone who chose differently says why. A good reason counts too.; When all 12 calls are done, count how many you got right at the first try. Try to beat that next time.
 - **Printable cards: 12 calls for the grown-up:** A glass tumbler (back: Window) [picture]; A wooden door (back: Wall); A thin cotton dupatta (back: Curtain); A clear polythene bag (back: Window); A steel almirah (back: Wall); One paper napkin (back: Curtain); A whole packet of paper napkins (back: Wall) [picture]; A dry onion skin (back: Curtain); Clean water in a bucket (back: Window); A thick quilt (back: Wall); A leaf held up to the sky (back: Curtain); Your spectacles, or a pair of reading glasses (back: Window)
 - **s1 (2 min)**  
   *Parent does:* Show the three moves. Practise each one twice.  
@@ -204,7 +204,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Parent does:* Ask one last question.  
   *Parent says:* Which thing made you change from curtain to wall, just by adding more of it?  
   *Child mode:* Which thing turned from curtain to wall when there was more of it?
-  - Check: Ammu, a girl in Thrissur, hears the call 'a thin cotton dupatta'. Which move should she make? → **Curtain**
+  - Check: The grown-up calls out 'a thin cotton dupatta'. Which move should you make? → **Curtain**
 
 ## Experiments
 ### e1 · The Layer Test: how many layers hide the drawing? (25 min)
@@ -223,7 +223,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Parent does:* Ask your child to guess how many layers of each material will hide the sun. Write the guesses in the table.  
   *Parent says:* We will pile squares on the sun, one at a time. How many layers of polythene will hide it? How many of tissue, and of paper? Why do you think so?  
   *Child mode:* Guess how many layers of each will hide the sun. Why?
-  - Ask: Why did you guess that the paper will need fewer layers than the polythene? (good: Paper is thicker.; I can see through polythene, but not really through paper.)
+  - Ask: Why do you think paper will need fewer layers than polythene? (good: Paper is thicker.; I can see through polythene, but not really through paper.)
   - Note: Any guess is fine. Write it down and don't say what will happen.
 - **s3 (8 min)**  
   *Parent does:* 1. Put the drawing on a table near the window. 2. Your child lays polythene squares on it one at a time, flat. 3. After each one, they look from where they sit. 4. Count the layers until the sun is gone. 5. Do the same with tissue, then paper. 6. Last, lay the steel plate on it.  
@@ -232,7 +232,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   - Ask: What happened to the sun as you added paper squares? (good: It got fainter and fainter.; It went grey, then it was gone.)
   - Note: Paper usually hides a thick drawing in about 3 to 6 layers. Tissue often needs more, because each layer is thinner. The sun usually still shows through all 10 polythene squares, a little greyer. If a material still shows the sun at 10, write 'more than 10'. Your numbers may be different from these. What matters is what you see.
 - **s4 (6 min)**  
-  *Parent does:* 1. Draw the curtains or go to a dim room. 2. Lay the torch on the table with its light pointing up. A phone lies face down, with its torch pointing up. 3. Switch it on. 4. Lay the paper pile that hid the sun over the light, and look down at it. 5. Do the same with the tissue pile and the steel plate.  
+  *Parent does:* 1. Draw the curtains or go to a dim room. 2. Lay the torch on the table with its light pointing up. If you use a phone, lay it face down so its torch points up. 3. Switch it on. 4. Lay the paper pile that hid the sun over the light, and look down at it. 5. Do the same with the tissue pile and the steel plate.  
   *Parent says:* This paper pile hid the sun completely. Now I put the torch behind it. Do you think any light will get through? Why?  
   *Child mode:* The paper pile hid the sun. Will the torch glow through it?
   - Ask: Did the paper pile glow? (good: Yes, it glowed.; Light came through, but I still can't see the sun.)
@@ -244,7 +244,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Child mode:* Which hid the sun fastest? Did the paper pile stop all the light? How do you know?
   - Ask: What does each layer do to the light? (good: It stops a little bit.; Some light goes through, and some is stopped.)
   - Ask: Is the pile of paper translucent or opaque? (good: Translucent, because the torch glowed through it.; It hides the picture, but light gets through, so translucent.)
-  - Check: Malini, a girl in Chennai, piles 5 paper squares on her drawing. The drawing is hidden. Then she shines a torch behind the pile. What will she see? → **The pile glows**
+  - Check: You pile 5 paper squares on a drawing. The drawing is hidden. Then you shine a torch behind the pile. What will you see? → **The pile glows**
 ### e2 · The Milk Cloud: how many drops hide the coin? (18 min)
 - **question:** How many drops of milk does it take to hide a coin at the bottom of a glass of water? If we take half the cloudy water out, can we see the coin again?
 - **predict:** How many drops do you think it will take to hide the coin? When we take half the water out, will the coin show again? Why do you think so?
@@ -267,7 +267,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   - Ask: What is happening to the water? (good: It is getting cloudy.; It is turning white, like weak milk.)
   - Note: The number of drops depends on your milk, your glass and your drops. It may be 20, or it may be 60. Keep counting in fives until the coin is really gone.
 - **s4 (4 min)**  
-  *Parent does:* Scoop about half the cloudy water into the other tumbler with the katori, so the coin stays put. Your child looks straight down into the half-full glass.  
+  *Parent does:* Use the katori to scoop about half the cloudy water into the other tumbler. Do not move the coin. Your child looks straight down into the half-full glass.  
   *Parent says:* The water is just as cloudy as before. But now there is only half as much. Will the coin show again? Why?  
   *Child mode:* Now there is half as much water. Can you see the coin?
   - Ask: Why can you see the coin again? (good: There is less water in the way.; Fewer layers of cloudy water.)
@@ -276,7 +276,8 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Parent does:* Talk about the test.  
   *Parent says:* Clear water was transparent. With milk, it became cloudy. A full glass hid the coin, but half a glass did not. How is this like the Layer Test?  
   *Child mode:* How is the cloudy water like the pile of paper?
-  - Check: Shreya, a girl in Pune, has a full glass of cloudy milky water. She cannot see the coin at the bottom. What can she do to see the coin, without adding anything? → **Take half the water out**
+  - Note: A good answer is that the cloudy water is like the paper. The more of it that is in the way, the more light it stops. Taking half the water out is like taking squares off the pile.
+  - Check: You have a full glass of cloudy, milky water. You cannot see the coin at the bottom. What can you do to see the coin, without adding anything? → **Take half the water out**
 
 ## Activities
 ### a1 · Three Plates: see through, glow or dark? (10 min)
@@ -296,7 +297,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Parent does:* Look at the three plates together. Tell your child the three words.  
   *Parent says:* Things on the eye plate are called transparent. Things on the glow plate are called translucent. Things on the dark plate are called opaque. Which plate has the most things?  
   *Child mode:* Eye plate: transparent. Glow plate: translucent. Dark plate: opaque.
-  - Check: Teju, a girl in Bengaluru, holds a paper napkin up to the window. It glows, but she cannot see the window through it. Which plate does it go on? → **Glow plate: translucent**
+  - Check: You hold a paper napkin up to the window. It glows, but you cannot see the window through it. Which plate does it go on? → **Glow plate: translucent**
 ### a2 · Thin Slice, Thick Piece: the cucumber test (10 min)
 - **safety:** A grown-up does all the cutting.
 - **record:** Draw the three pieces, and colour the ones that glowed.
@@ -313,9 +314,9 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - **s3 (3 min)**  
   *Parent does:* Talk about it. Then eat the cucumber.  
   *Parent says:* Is cucumber translucent or opaque? Can it be both?  
-  *Child mode:* Is cucumber translucent or opaque? It depends on what?
+  *Child mode:* Is cucumber translucent or opaque? What does it depend on?
   - Ask: What made the difference? (good: How thick it was.; Thin pieces let light through, thick ones don't.)
-  - Check: Gauri, a girl in Bhubaneswar, holds a very thin slice of potato up to the window. What will she most likely see? → **It glows a little**
+  - Check: You hold a very thin slice of potato up to the window. What will you most likely see? → **It glows a little**
 
 ## Projects
 ### p1 · The Window Letter: a message only light can show (25 min)
@@ -338,11 +339,11 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Parent says:* The paper hid your message on the table. Why can we read it at the window?  
   *Child mode:* Hold it up to the window. What do you see? Why?
   - Ask: Why does the message show at the window? (good: Light comes through the paper, but not through the black ink.; The paper is translucent, and the ink blocks light.)
-  - Check: Vaishnavi, a girl in Madurai, covers her message with 2 sheets of paper. Her brother can still read it on the table. What should she do? → **Add another layer of paper on top**
+  - Check: You cover your message with 2 sheets of paper. Someone can still read it on the table. What should you do? → **Add another layer of paper on top**
 
 ## Challenges
 ### c1 · The Nap Room: make a shoebox dark (20 min)
-- **problem:** Divya, a girl in Hyderabad, makes a shoebox room for her toy cat. It has a big window cut in the lid and a peephole at one end. The cat wants an afternoon nap. Divya must cover the window so the room is dark inside, even next to a bright window. She wants to use as few layers as she can.
+- **problem:** A shoebox is a room for a white paper cat. The room has a big window cut in the lid and a peephole at one end. The cat wants an afternoon nap. Cover the window so the room is dark inside, even next to a bright window. Use as few layers as you can.
 - **your turn:** Find two ways to make the room dark. Which used the fewest layers? Can you make a cover that gives a soft glow for waking up?
 - **constraints:** Use only things you already have at home.; You must be able to lift the cover off again.; Count every layer you use.
 - **general:** Pile on sheets of newspaper until you can no longer see the white cat through the peephole.; Cover the window with one piece of cardboard.
@@ -360,13 +361,13 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Parent does:* Talk about which way worked best.  
   *Parent says:* Which cover used the fewest layers? Why did it need so few?  
   *Child mode:* Which cover used the fewest layers? Why?
-  - Check: Divya needs 8 sheets of newspaper to make the box dark. Her friend Rahul uses only 1 layer. What might Rahul have used? → **A piece of cardboard**
+  - Check: You need 8 sheets of newspaper to make the shoebox dark. A friend uses only 1 layer. What might the friend have used? → **A piece of cardboard**
 
 ## Worksheets
 ### See Through, Glow or Dark (core) (core, 10 questions)
 1. (sort) A grown-up reads each one. Does light go straight through, glow through, or stop? Draw a line to the right box.  
    **Answer:** A glass tumbler → Transparent; A paper napkin → Translucent; A steel plate → Opaque; A clear polythene bag → Transparent; A dry onion skin → Translucent; A wooden door → Opaque. *Why:* We see clearly through the glass and the polythene. The napkin and the onion skin glow, but show no clear picture. The plate and the door let no light through.
-2. (mcq) Remember the Layer Test, where you piled squares on a drawing of a sun. Which material still showed the sun after 10 layers?  
+2. (mcq) In the Layer Test, you piled squares on a drawing of a sun. Which material still showed the sun after 10 layers?  
    Options: Clear polythene / White paper / A steel plate  
    **Answer:** Clear polythene. *Why:* Each polythene layer stops only a little light, so the sun still shows through many layers. Paper stops much more at each layer.
 3. (truefalse) A pile of paper that hides a drawing stops all the light.  
@@ -375,7 +376,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
    **Answer:** Many arrows come out of the one square. Only a few come out of the pile of five.. *Why:* A strong drawing shows fewer arrows after more layers, because each layer stops some of the light.
 5. (match) Draw a line from each word to what it means.  
    **Answer:** Transparent → You can see clearly through it; Translucent → Light gets through, but no clear picture; Opaque → No light gets through. *Why:* These are the three ways a material can treat light.
-6. (write) Say out loud, and a grown-up writes it down: the paper pile hid your drawing, but the torch glowed through it. Is the pile translucent or opaque? How do you know?  
+6. (write) In the Layer Test, the paper pile hid your drawing, but the torch glowed through it. Is the pile translucent or opaque? How do you know? Say your answer out loud, and a grown-up writes it down.  
    **Answer:** Translucent, because light from the torch came through it, even though I could not see the drawing.. *Why:* A strong answer uses the glow as the evidence: opaque things give no glow at all.
 7. (fill) Each layer of paper stops some of the ____.  
    **Answer:** light. *Why:* Each layer stops some light and lets the rest go on. So more layers let less light through.
@@ -399,7 +400,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
    **Answer:** Bright at the top, dim in the middle, black at the bottom, with a glowing animal deep down.. *Why:* A strong drawing shows the light fading little by little with depth, not stopping all at once.
 6. (sort) Will each one glow, or look dark, when held up to a bright window?  
    **Answer:** One paper napkin → Glows; A whole packet of napkins → Dark; A thin slice of cucumber → Glows; A whole cucumber → Dark; One thin cotton dupatta → Glows; A thick folded quilt → Dark. *Why:* Thin things let some light through and glow. Thick things, or many layers, stop the light and look dark.
-7. (perspective) Anjali and her friend Fathima, both aged 7, argue about paper in Kochi.  
+7. (perspective) Anjali and her friend Deepa, both aged 7, argue about paper in Kochi.  
    **Answer:** Both are right about what they saw. One sheet of paper is translucent. Enough sheets, like a thick notebook, can be opaque.. *Why:* A strong answer says the answer depends on how thick the paper is, and uses evidence from the Layer Test. It is fair to both girls.
 8. (mcq) A bathroom window is made of frosted glass. What does it do?  
    Options: Lets light in, but no clear view / Lets no light in / Gives a clear view outside  
@@ -410,18 +411,18 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
    Options: A warm red glow / A clear picture of the window / Complete blackness  
    **Answer:** A warm red glow. *Why:* Your eyelids are thin, so some light gets through them. It is a glow, not a picture.
 ### Thinking About Thickness (challenge) (challenge, 10 questions)
-1. (write) Polythene still showed the sun after 10 layers. Do you think it would still show it after 50 layers? Why? How could you find out?  
+1. (write) In the Layer Test, polythene still showed the drawing of the sun after 10 layers. Do you think it would still show it after 50 layers? Why? How could you find out?  
    **Answer:** Probably not clearly. Each layer stops a little light, so after enough layers the sun would get faint and then hidden. I could pile on 50 squares and look.. *Why:* A strong answer uses the idea that each layer stops some light, and suggests a real test instead of just guessing.
 2. (perspective) Two scientists look at a gold bangle and at gold leaf, which is gold hammered much thinner than paper.  
    **Answer:** Both are right. Thick gold is opaque. Very thin gold lets some light through. It depends on thickness.. *Why:* A strong answer says that the same material can stop light or let some through, depending on how thick the piece is.
-3. (mcq) Suresh did the Layer Test, but his very first tissue square hid the sun. What is the most likely reason?  
-   Options: His sun was drawn too faintly in pencil / Tissue is opaque / He used too few squares  
-   **Answer:** His sun was drawn too faintly in pencil. *Why:* One tissue layer normally lets a thick drawing show. A faint pencil drawing is hidden much more easily. Using a thick black sketch pen makes the test fair.
-4. (write) Lalitha's baby brother naps in the afternoon. The window has a thin curtain, and the room is too bright. Write two ways to make the room dimmer, using what you learned about layers.  
+3. (mcq) You do the Layer Test, but your very first tissue square hides the sun. What is the most likely reason?  
+   Options: Your sun was drawn too faintly in pencil / Tissue is opaque / You used too few squares  
+   **Answer:** Your sun was drawn too faintly in pencil. *Why:* One tissue layer normally lets a thick drawing show. A faint pencil drawing is hidden much more easily. Using a thick black sketch pen makes the test fair.
+4. (write) A baby naps in the afternoon. The window has a thin curtain, and the room is too bright. Write two ways to make the room dimmer, using what you learned about layers.  
    **Answer:** Hang a second curtain behind the first one. Or use a thicker cloth, or fold the curtain double.. *Why:* A strong answer uses more layers or a thicker material, because each layer stops more light.
 5. (draw) Draw light going down into the sea, with arrows. Draw many arrows at the top, fewer in the middle and none at the bottom.  
    **Answer:** Many arrows at the surface, fewer lower down, and none at the bottom.. *Why:* A strong drawing shows that each layer of water stops some light, so the arrows run out with depth.
-6. (mcq) When Ritu presses a torch to the back of a pile of 5 paper squares, the front glows. What does the glow tell her?  
+6. (mcq) You press a torch to the back of a pile of 5 paper squares, and the front glows. What does the glow tell you?  
    Options: Some light is getting through the pile / The paper makes its own light / The pile is opaque  
    **Answer:** Some light is getting through the pile. *Why:* Paper makes no light of its own. The glow is torch light that got through all five layers. So the pile is translucent, not opaque.
 7. (order) Put these in order, from the one that lets the most light through to the one that lets the least.  
@@ -452,9 +453,9 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 4. (mcq) Which of these is translucent?  
    Options: A dry onion skin / A glass window / A steel spoon  
    **Answer:** A dry onion skin. *Why:* An onion skin lets light through but shows no clear picture. Glass is transparent, and a steel spoon is opaque.
-5. (mcq) In the Layer Test, what happened to the drawing as more paper squares were added?  
-   Options: It got fainter and then disappeared / It got brighter / It stayed the same  
-   **Answer:** It got fainter and then disappeared. *Why:* Each layer stops some light, so the drawing faded with every square until it was gone.
+5. (mcq) You put squares of thin paper on a drawing, one on top of another. What happens to the drawing as you add more squares?  
+   Options: It gets fainter and then disappears / It gets brighter / It stays the same  
+   **Answer:** It gets fainter and then disappears. *Why:* Each layer stops some light, so the drawing fades with every square until it is gone.
 6. (mcq) To make the Layer Test fair, what do we change?  
    Options: Only the material / The drawing and the material / The light and the drawing  
    **Answer:** Only the material. *Why:* In a fair test we change only one thing. Then we know the material made the difference.
@@ -470,9 +471,9 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 10. (mcq) Why is it completely dark deep in the sea?  
    Options: So much water above stops all the sunlight / Sea water at the bottom is black / The Sun does not shine on the sea  
    **Answer:** So much water above stops all the sunlight. *Why:* Each metre of water stops a little light. Below about 1,000 metres, no sunlight is left.
-11. (mcq) In the Milk Cloud test, which glass let the coin show again?  
+11. (mcq) Two glasses hold the same cloudy, milky water, with a coin at the bottom of each. One glass is full and one is half full. In which glass is the coin easier to see?  
    Options: The half-full glass / The full glass / Neither  
-   **Answer:** The half-full glass. *Why:* With less cloudy water in the way, more light reached the coin and came back.
+   **Answer:** The half-full glass. *Why:* With less cloudy water in the way, more light reaches the coin and comes back to your eyes.
 
 ## Applications
 - Curtain makers sell thick or double-layered curtains, called blackout curtains, to keep a bedroom dark in the day.
@@ -512,11 +513,11 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - Why did the torch go to school? *To get a little brighter!*
 
 ## Connected maths
-- In the Layer Test, Harini's paper hid the sun at 4 layers. Her tissue hid it at 9 layers. How many more tissue layers did she need? **5 more.**. Count on from 4 to 9: 5, 6, 7, 8, 9. That is 5. So tissue needed 5 more layers than paper. (queues `math.addition-subtraction.meaning.L2`)
-- Here are Sneha's results. Paper hid the sun at 5 layers, tissue at 8, and a steel plate at 1. Put them in order, from fewest layers to most. **Steel plate, paper, tissue.**. 1 is the smallest, then 5, then 8. So the order is steel plate, paper, tissue. (queues `math.number-sense.comparing-ordering.L2`)
-- Nila, a girl of 7, folds a paper napkin in half. Now it is 2 layers. She folds it in half again: 4 layers. Again: 8 layers. How many layers after one more fold? **16 layers.**. Each fold doubles the layers: 2, 4, 8, then 8 and 8 more, which is 16. (queues `math.patterns.number-patterns.L2`)
-- In the Milk Cloud test, Revathi added milk 5 drops at a time. The coin disappeared after she had done this 6 times. How many drops did she add? **30 drops.**. 6 groups of 5 drops: 5, 10, 15, 20, 25, 30. So she added 30 drops. (queues `math.multiplication.equal-groups.L2`)
-- Asha did the Layer Test twice with paper. The first time the sun was hidden at 4 layers. The second time it was hidden at 2 layers, because it had gone cloudy outside. Which result would you trust, and what would you do? **Do both tests in the same light, and test again.**. With less light, the drawing is harder to see, so it seems to hide sooner. The light changed, so the test was not fair. Test again in the same light and see if the numbers match. (queues `math.logic.problem-solving.L2`)
+- In the Layer Test, paper hid the drawing of the sun at 4 layers. Tissue hid it at 9 layers. How many more layers of tissue were needed? **5 more.**. Count on from 4 to 9: 5, 6, 7, 8, 9. That is 5. So tissue needed 5 more layers than paper. (queues `math.addition-subtraction.meaning.L2`)
+- Here are some Layer Test results. Paper hid the drawing of the sun at 5 layers, tissue at 8, and a steel plate at 1. Put them in order, from fewest layers to most. **Steel plate, paper, tissue.**. 1 is the smallest, then 5, then 8. So the order is steel plate, paper, tissue. (queues `math.number-sense.comparing-ordering.L2`)
+- You fold a paper napkin in half. Now it has 2 layers. You fold it in half again: 4 layers. Again: 8 layers. How many layers are there after one more fold? **16 layers.**. Each fold doubles the layers: 2, 4, 8, then 8 and 8 more, which is 16. (queues `math.patterns.number-patterns.L2`)
+- In the Milk Cloud test, you add milk 5 drops at a time. The coin disappears after you have done this 6 times. How many drops did you add? **30 drops.**. 6 groups of 5 drops: 5, 10, 15, 20, 25, 30. So you added 30 drops. (queues `math.multiplication.equal-groups.L2`)
+- You do the Layer Test twice with paper. The first time, the drawing of the sun is hidden at 4 layers. The second time, it is hidden at 2 layers, because it has gone cloudy outside. Which result would you trust, and what would you do? **Do both tests in the same light, and test again.**. With less light, the drawing is harder to see, so it seems to hide sooner. The light changed, so the test was not fair. Test again in the same light and see if the numbers match. (queues `math.logic.problem-solving.L2`)
 
 ## Song
 Borrowed Light (sci.light.L2): Topic-level song for Light, seeing and shadows L2

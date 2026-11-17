@@ -36,10 +36,10 @@ Light comes out of the torch and lands on the wall. When your hand is in the way
 ### A shadow needs three things · *defined*
 **Definition:** To make a shadow you need a light, something that blocks the light, and a surface for the shadow to fall on.
 
-Switch the torch off, and the shadow is gone. Take your hand away, and the shadow is gone. Shine the torch at an open window at night, and there is no wall for the shadow to fall on, so you see none. All three are needed at once: a light, a thing in the way, and a surface behind it.
-- e.g. No light: switch off the torch and the hand shadow vanishes.
-- e.g. No blocker: take your hand away and the wall is all lit.
-- e.g. No surface: shine the torch out of a window into the night sky, and you see no shadow.
+Switch the torch off, and the shadow is gone. Take your hand away, and the shadow is gone. Shine the torch out of an open window at night, and there is no wall for the shadow to fall on, so you see none. All three are needed at once: a light, a thing in the way, and a surface behind it.
+- e.g. With no light, the hand shadow vanishes. Switch off the torch and see.
+- e.g. With nothing to block the light, there is no shadow. Take your hand away and the wall is all lit.
+- e.g. With no surface, you see no shadow. Shine the torch out of a window into the night sky and see.
 ### Light travels in straight lines · *defined*
 **Definition:** Light travels in straight lines, so it cannot bend round a thing that is in its way.
 
@@ -63,10 +63,10 @@ A torch is not a single point. Light comes from all over its bright part. Near t
 ### Which side a shadow falls on · *defined*
 **Definition:** A shadow always falls on the side of the thing that is away from the light.
 
-Light comes from the torch and stops at the toy. The place that misses out is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.
-- e.g. The torch on the left: the shadow falls on the right.
-- e.g. A light on the ceiling: the shadow of a chair is under the chair.
-- e.g. The Sun in the east in the morning: shadows point to the west.
+Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.
+- e.g. If the torch is on the left, the shadow falls on the right.
+- e.g. If a light is on the ceiling, the shadow of a chair is under the chair.
+- e.g. In the morning the Sun is in the east, so shadows point to the west.
 ### Two lights, two shadows · *defined*
 **Definition:** Each light makes its own shadow of a thing. Two lights make two shadows.
 
@@ -83,7 +83,7 @@ A shadow has a shape and a size. You can draw round it and measure it. Yet it is
 ### Living beings that sense shadows · *defined*
 **Definition:** Many living beings sense shadows and change what they do.
 
-A plant in the shade of other leaves senses the shade. The light under leaves has less red light, and plants feel that change. The plant then grows a longer stem to reach the sunlight. Giant clams in the sea pull in quickly when a shadow passes over them. A shadow can mean a fish is coming close. In Africa, a bird called the black heron spreads her wings into an umbrella over the water while she fishes.
+A plant in the shade of other leaves senses the shade. Leaves take in red light, so the light that comes through them has less red in it. Plants can feel this change. The plant then grows a longer stem to reach the sunlight. Giant clams in the sea pull in quickly when a shadow passes over them. A shadow can mean a fish is coming close. In Africa, a bird called the black heron spreads her wings into an umbrella over the water while she fishes.
 - e.g. A tulsi plant on a crowded windowsill grows taller and thinner than one with space round them.
 - e.g. A pigeon on the balcony rail may fly off when your shadow falls over them.
 - e.g. The black heron fishes in the shade of her own wings.
@@ -123,20 +123,20 @@ India has many shadow plays. In Kerala, tholpavakoothu puppeteers in Palakkad wo
   Against: Some scientists think the shade also tricks fish, because small fish swim into shady places to hide. It may do both jobs. Nobody is sure which matters more.
 
 ## Roots
-We have made shadows grow, shrink, split in two and tell a story. Now we ask what the Near or Far test tells us about shadows, and about ourselves.
+In the Near or Far test, the same toy made a small shadow near the wall and a big one near the torch. Now we ask what that tells us about shadows, and about ourselves.
 
-**Deep truth.** Your toy stayed the same size, yet its shadow grew as you moved it nearer the torch. A shadow is the patch the toy keeps light from reaching. Near the torch, the toy blocks a wider spread of the light. So a shadow's size is set by where the toy stands, as much as by the toy.  
-*Habit it breaks:* We think of a shadow as a dark copy that belongs to a thing, with the thing's own size. But the same toy made a small shadow and a huge one. The size came from the toy's place between the light and the wall.  
+**Deep truth.** In the Near or Far test, your toy stayed the same size, yet its shadow grew as you moved it nearer the torch. A shadow is the patch of wall that the toy stops the light from reaching. Near the torch, the toy blocks a wider spread of the light. So the size of a shadow depends on where the toy stands, as much as on the toy itself.  
+*Habit it breaks:* We think of a shadow as a dark copy that belongs to a thing, with the thing's own size. But in the Near or Far test, the same toy made a small shadow and a huge one. The size came from the toy's place between the light and the wall.  
 *Evidence:* In the Near or Far test, the toy's shadow was only a little taller than the toy near the wall, and about three times as tall near the torch. The toy did not change at all.
 
-- *who am i:* You are something light cannot pass through. Wherever you stand in the light, you leave a patch of shade behind you.
+- *who am i:* Light cannot pass through your body. So wherever you stand in the light, you leave a patch of shade behind you.
 - *what is life:* A plant feels the shade of a neighbour and grows taller to reach the light. Living beings sense shadows and act on them.
-- *what is this world:* The world is full of light and of the shapes that block it. Night itself is your side of the Earth in the Earth's own shadow.
+- *what is this world:* The world is full of light and of things that block it. Night is when your side of the Earth is in the Earth's own shadow.
 
-One torch and one toy made a small sharp shadow, a big fuzzy one, and, with a second torch, two pale shadows. The toy never changed. Each shadow was a different meeting of the same light with the same toy. A shadow is made by the light, the thing and the surface together, and by where each one is.
+One torch and one toy made a small sharp shadow near the wall and a big fuzzy one near the torch. With a second torch, the toy made two pale shadows. The toy never changed. What changed was where the toy and the lights were. A shadow is made by the light, the thing and the surface together, and by where each one is.
 
-- **Katha Upanishad 1.3.1:** The Katha Upanishad speaks of two that live together in the body. It says the wise call them shadow and sunlight. (In your tests, a shadow was only ever there because of the light. Shadow and light come as a pair: switch off the torch, and the shadow goes too.)
-- **Tao Te Ching, chapter 2:** The Tao Te Ching, an old Chinese book, says that long and short show each other, and high and low lean on each other. (Your toy's shadow was not long or short by itself. It was long or short depending on where the toy stood between the torch and the wall.)
+- **Katha Upanishad 1.3.1:** The Katha Upanishad speaks of two that live together in the body. It says the wise call them shadow and sunlight. (In the Make a Shadow, Lose a Shadow activity, the shadow was only there because of the light. Shadow and light come as a pair: switch off the torch, and the shadow goes too.)
+- **Tao Te Ching, chapter 2:** The Tao Te Ching, an old Chinese book, says that long and short show each other, and high and low lean on each other. (In the Near or Far test, your toy's shadow was not long or short by itself. It was long or short depending on where the toy stood between the torch and the wall.)
 - **Plato, Republic, Book 7 (514a to 520a):** Plato, a Greek thinker, told of people who could see only shadows on a cave wall, and thought the shadows were the real things. (A shadow shows an outline, but not the colour or the true size. In the Near or Far test, a small toy made a giant shadow. You knew the toy, so the shadow could not fool you.)
 - Science (settled): Light travels in straight lines through air, so a shadow has the outline of the thing that blocks the light.
 - Science (settled): Plants sense the shade of other leaves with light-sensing proteins called phytochromes, and grow longer stems to reach the light.
@@ -149,7 +149,7 @@ One torch and one toy made a small sharp shadow, a big fuzzy one, and, with a se
 ## Deep and big questions
 - *deep:* When you step out of the light, where does your shadow go? (hint: Did the shadow move away, or did the light just reach that place again?)
 - *big:* A shadow is made of missing light, yet you can draw round it and measure it. Is a shadow something, or nothing? (hint: Think of the gap in a row of teeth. It is empty, yet you can see it and count it.)
-- *deep:* Your toy made a small shadow and a giant one. Which one is the toy's real shadow? (hint: Is there one right size for a shadow, or does it depend on where the toy and the light are?)
+- *deep:* In the Near or Far test, your toy made a small shadow and a giant one. Which one is the toy's real shadow? (hint: Is there one right size for a shadow, or does it depend on where the toy and the light are?)
 - *big:* At night, your side of the Earth is turned away from the Sun. Is night a kind of shadow? (hint: What blocks the Sun's light from you at night?)
 - *big:* A plant can sense the shade of a neighbour. Which other living beings might notice when your shadow falls over them? (hint: Think of ants on the floor, a pigeon on the rail, or a cat asleep in the sun.)
 
@@ -198,11 +198,11 @@ Amma switched on the torch and shone it at the elephant from the other side of t
 
 "Two lights, two shadows," said Amma.
 
-Arjun counted. "One elephant. Two shadows." He thought for a moment. "So the shadow belongs to the lamp, too. Not only to the elephant."
+Arjun counted. "One elephant. Two shadows." He thought for a moment. "So the shadow does not belong only to the elephant. It comes from the elephant and the light together."
 
 Then the fans whirred, and the tube light flickered on. The whole wall went bright. The elephant shadows went pale and nearly vanished.
 
-"Oh," said Arjun. "The big light filled them in."
+"Oh," said Arjun. "The big light shines into the shadows. So they are not dark now."
 
 Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With ten heads."
 
@@ -233,7 +233,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Parent does:* Add up the points. Then ask about the hardest card.  
   *Parent says:* Which card was the hardest? What did you find out from it?  
   *Child mode:* Which card was hardest? What did you learn?
-  - Check: Kavya, a girl of 7, wants her hand's shadow to have a fuzzy edge. Where should she hold her hand? → **Close to the torch**
+  - Check: You want your hand's shadow to have a fuzzy edge. Where should you hold your hand? → **Close to the torch**
 ### g2 · Giant, Tiny, Gone! (10 min)
 - **rules:** Put a torch on the floor at one end of a room, pointing at a plain wall about four big steps away.; The caller stands near the torch. The other players stand between the torch and the wall, where they can see their shadows.; The caller holds up the top card and reads it aloud.; The players change their shadows to match the card. The caller reads the back aloud to check.; The first player to get it right keeps the card and becomes the next caller. If nobody gets it right, the caller keeps the card.; The game ends when the cards run out. The player with the most cards wins.
 - **Printable cards: 8 call cards to cut out, with what to do on the back:** Giant! (back: Step close to the torch. Your shadow grows big.); Tiny! (back: Step close to the wall. Your shadow shrinks.); Gone! (back: Step out of the light. Your shadow disappears.); Sharp! (back: Stand close to the wall. The edge of your shadow gets crisp.); Fuzzy! (back: Stand close to the torch. The edge of your shadow goes soft.); Thin! (back: Turn sideways to the torch. Your shadow gets narrow.); Wide! (back: Face the torch and stretch your arms out. Your shadow gets wide.); Hide! (back: Stand right behind the caller, in the caller's shadow. Your own shadow joins theirs and seems to vanish.)
@@ -247,7 +247,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Parent says:* Giant! Tiny! Gone! Which way do you need to move? Why?  
   *Child mode:* Watch the card. Move fast. Make your shadow match.
   - Ask: To make your shadow giant, did you go towards the torch or the wall? (good: Towards the torch.; Near the torch, I block more of the light.)
-  - Note: If a child goes the wrong way, let them look at their shadow and try again. They will soon feel the pattern.
+  - Note: If a child goes the wrong way, let them look at their shadow and try again. They will soon see the pattern.
 - **s3 (2 min)**  
   *Parent does:* Sit down together and ask the question below. If the Hide! card did not come up, try it now.  
   *Parent says:* When you stood behind the caller, your shadow seemed to vanish. Where did it go?  
@@ -272,7 +272,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Parent does:* 1. Push the table against a plain wall, or work on the floor next to the wall. 2. Tape the two sheets of paper on the wall, one above the other, starting at the table top. 3. Lay the torch on its side on the table, about one metre from the wall, pointing at the paper. 4. Close the curtains and switch off the room lights.  
   *Parent says:* This is our test track. The torch must stay exactly here the whole time. Why do you think that matters?  
   *Child mode:* The torch stays in one place. Only the toy moves.
-  - Note: One metre is about two big steps for a child of 7. If you use a phone, prop it against a box so the torch on the back faces the wall. Evening is easiest, with the curtains closed. Keep the torch as low as the table top, so the shadows start at the table.
+  - Note: One metre is about two big steps for a child of 7. If you use a phone, prop it against a box so the torch on the back faces the wall. Evening is easiest, with the curtains closed. Keep the torch as low as the table top, so the shadows start at the table. A good answer to the question above is that if the torch moved too, we would not know whether the toy or the torch changed the shadow.
 - **s3 (2 min)**  
   *Parent does:* 1. Put one paper strip half a ruler (about 15 centimetres) from the wall. 2. Put one halfway between the torch and the wall. 3. Put one a whole ruler (about 30 centimetres) from the torch. 4. All three go in a straight line between the torch and the wall.  
   *Parent says:* These strips are the three places for the toy. Let us put them in a straight line, so the shadow always lands on the paper.  
@@ -294,12 +294,12 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Child mode:* Measure each mark. Which is tallest? Write the numbers.
   - Note: With a toy about 8 centimetres tall and the torch one metre from the wall, expect about 9 or 10 centimetres near the wall, about 16 halfway and about 27 near the torch. Your numbers will be different, but the pattern will be the same.
 - **s7 (3 min)**  
-  *Parent does:* Look at the table together. Ask your child what they think, what they saw, and why. Then read the card Nearer the light, bigger shadow.  
+  *Parent does:* Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Nearer the light, bigger shadow.  
   *Parent says:* Was your guess right? The toy never changed size. So why did its shadow grow?  
   *Child mode:* Was your guess right? The toy stayed the same. Why did the shadow grow?
   - Ask: Why was the shadow biggest near the torch? (good: Near the torch, the toy blocks more of the light.; The light spreads out, so the blocked part gets bigger on the way to the wall.)
   - Note: A strong answer uses the marks: 'Near the wall the shadow was 10 centimetres, near the torch it was 30. The toy blocked more of the light near the torch.'
-  - Check: Meenakshi, a girl of 7, wants a giant shadow of her small toy horse. Where should she put the horse? → **Close to the torch**
+  - Check: You want a giant shadow of a small toy horse. Where should you put the horse? → **Close to the torch**
 ### e2 · Two Lights: how many shadows? (20 min)
 - **question:** If two lights shine on one toy from different places, how many shadows will it make, and how dark will they be?
 - **predict:** Guess first. With two lights on, will the toy have one shadow, two shadows, or none? Will they be darker or paler than with one light? Why do you think so?
@@ -331,12 +331,12 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Parent says:* I am switching off light A. Which shadow went away? What happened to the other one?  
   *Child mode:* Light A is off. Which shadow went? Did the other get darker?
 - **s6 (3 min)**  
-  *Parent does:* Look at the table together. Ask your child what they think, what they saw, and why. Then read the card Two lights, two shadows.  
+  *Parent does:* Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Two lights, two shadows.  
   *Parent says:* How many shadows did the toy have with two lights? Why was each one paler than with one light?  
   *Child mode:* How many shadows with two lights? Why were they paler?
   - Ask: Why were the two shadows pale grey and not dark? (good: The other light shone on each shadow.; Light A lit up light B's shadow.)
   - Note: A strong answer: 'Two shadows, one from each light. Each one was pale, because the other light still shone there. Where they crossed, no light got in, so it was dark.'
-  - Check: Jonali in Guwahati has a tube light and a table lamp on in her room. How many shadows does her chair make on the floor? → **Two**
+  - Check: A room has a tube light and a table lamp switched on. How many shadows does a chair in that room make on the floor? → **Two**
 
 ## Activities
 ### a1 · Make a Shadow, Lose a Shadow (8 min)
@@ -356,7 +356,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Parent does:* Ask your child to name what a shadow needs.  
   *Parent says:* So what does a shadow need? How many things?  
   *Child mode:* What does a shadow need? Count them on your fingers.
-  - Check: Lakshmi, a girl of 7, switches off the torch. What happens to her hand shadow? → **It disappears at once**
+  - Check: You switch off the torch. What happens to your hand shadow? → **It disappears at once**
 ### a2 · Make a Card Shadow Puppet (15 min)
 - **safety:** A grown-up makes the eye hole with a pencil point and helps with the scissors.
 - **record:** Draw your puppet and its shadow side by side. Colour the puppet, and leave the shadow dark.
@@ -382,7 +382,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Child mode:* Make your puppet walk. Make it grow. Make it shrink.
   - Think: If you cut a mouth hole too, what would the shadow look like?
 ### a3 · Which Way Does It Point? (10 min)
-- **record:** On the paper, the toy's spot in the middle, with four shadow drawings round it and an arrow showing where the torch was for each.
+- **record:** Keep the paper. It shows the toy's spot in the middle, four shadow drawings round it, and an arrow showing where the torch was for each one.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the paper on the floor and stand the toy in the middle. 2. Make the room dim. 3. Lay the torch on the paper, low down, on one side of the toy, pointing at it. Prop it on a small book to keep it still. 4. Your child draws round the shadow.  
   *Parent says:* The torch is low, here on this side. Where is the shadow? Draw round it.  
@@ -397,7 +397,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Parent says:* Now the torch is high above the toy. Where is the shadow? Is it long or short?  
   *Child mode:* Torch high up. Where is the shadow now? Long or short?
   - Note: With the light straight above, the shadow becomes short and sits round the bottom of the toy, like the shadow under a chair from a ceiling light.
-  - Check: Farhan holds the torch on the left of his toy. Where does the shadow fall? → **On the right of the toy**
+  - Check: The torch is on the left of a toy. Where does the toy's shadow fall? → **On the right of the toy**
 ### a4 · Draw a Shadow Portrait (15 min)
 - **record:** The finished shadow portrait, with the person's name written underneath.
 - **s1 (4 min)**  
@@ -457,7 +457,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 
 ## Challenges
 ### c1 · Build a Shadow Monster (20 min)
-- **problem:** Can you build a monster from kitchen things whose shadow has a big head, glowing eyes and claws, and can grow huge on the wall?
+- **problem:** Can you build a monster from kitchen things whose shadow has a big head, glowing eyes and claws, and can grow huge on the wall? The glowing eyes are holes in the monster. Light shines through them and makes two bright dots in the dark shadow.
 - **your turn:** Build your own monster. Does its shadow have glowing eyes? Can you make it grow? If a part does not show, turn it so its outline faces the torch, and try again.
 - **constraints:** Use only things from the kitchen that will not break, such as spoons, forks, a tea strainer, a paper plate and steel plates, plus tape.; The shadow must have at least two eyes of light.; Someone must be able to make the monster's shadow grow and shrink.
 - **general:** Use a paper plate for the head, with two holes poked for glowing eyes.; Tape forks to the sides as claws. Their prongs show as sharp spikes in the shadow.; Move the monster close to the torch to make it grow, and back to the wall to shrink it.
@@ -494,10 +494,10 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
    **Answer:** a steel plate, flat face to the torch → a circle; a book, front cover to the torch → a rectangle; a fork, flat face to the torch → a shape with spikes; an ice-cream cone, held side-on → a triangle. *Why:* A shadow has the outline of the thing, as seen from the torch.
 5. (fill) A shadow is the dark patch where light is ___.  
    **Answer:** blocked. *Why:* Something is in the way, so the light cannot reach that patch.
-6. (write) Remember the Near or Far test. Say it, and a grown-up writes it down: why did your toy's shadow grow when it was near the torch?  
+6. (write) A toy stands between a torch and a wall. Why does its shadow grow when the toy is moved near the torch? Say your answer, and a grown-up writes it down.  
    **Answer:** Near the torch, the toy blocked more of the light, so the dark patch on the wall was bigger.. *Why:* A strong answer says the toy stayed the same size, and that near the torch it blocked a bigger part of the spreading light.
 7. (label) Label the picture: torch, light, toy, shadow, wall.  
-   **Answer:** ['torch: where the light comes from', 'light: the yellow lines from the torch', 'toy: the thing in the way', 'shadow: the dark patch on the wall', 'wall: where the shadow falls']. *Why:* These are the parts of every shadow: a light, the light itself, a blocker, the shadow and a surface.
+   **Answer:** ['torch: where the light comes from', 'light: the yellow lines from the torch', 'toy: the thing in the way', 'shadow: the dark patch on the wall', 'wall: where the shadow falls']. *Why:* Every shadow needs a torch to make the light, a toy to block the light, and a wall to catch the shadow. The yellow lines show the light going from the torch to the wall.
 8. (sort) Sort these into: makes a dark shadow, or makes only a very pale shadow.  
    **Answer:** a steel tumbler → Dark shadow; a clean glass window → Very pale shadow; your hand → Dark shadow; a clear polythene sheet → Very pale shadow; a book → Dark shadow. *Why:* Opaque things like steel, books and hands block the light, so they make dark shadows. Clear glass and clear polythene let most light through.
 9. (count) Look at the picture. Three toys stand in a row on a table, and one torch shines on all of them. How many shadows are on the wall?  
@@ -505,12 +505,12 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 10. (order) Put the toy's shadows in order, from the smallest to the biggest.  
    **Answer:** ['the toy close to the wall', 'the toy halfway', 'the toy close to the torch']. *Why:* The nearer the toy is to the torch, the more light it blocks, so the bigger its shadow.
 ### Shadows (stretch) (stretch, 10 questions)
-1. (mcq) Lakshmi holds her puppet close to the wall. Its shadow is small and sharp. What happens if she moves it towards the lamp?  
+1. (mcq) A puppet is held close to the wall. Its shadow is small and sharp. What happens if the puppet moves towards the lamp?  
    Options: The shadow gets bigger and fuzzier / The shadow gets smaller and sharper / The shadow disappears  
    **Answer:** The shadow gets bigger and fuzzier. *Why:* Moving towards the lamp, the puppet blocks more of the spreading light, so the shadow grows. Its edge also gets fuzzy.
-2. (perspective) Three friends are arguing about a shadow.  
-   **Answer:** A strong answer picks a side and uses evidence. Kavya is right that the outline comes from the puppet. Farhan is right that each light makes its own shadow. Meena is right that both are needed.. *Why:* A shadow's shape comes from the blocker, but its place, size and number come from the light. Every view sees part of it.
-3. (write) Remember the Two Lights test. Why did one toy have two shadows?  
+2. (perspective) Three friends, Divya, Lakshmi and Farhan, are arguing about a shadow.  
+   **Answer:** A strong answer picks a side and uses evidence. Divya is right that the outline comes from the puppet. Lakshmi is right that each light makes its own shadow. Farhan is right that both are needed.. *Why:* A shadow's shape comes from the blocker, but its place, size and number come from the light. Every view sees part of it.
+3. (write) In the Two Lights test, why did one toy have two shadows?  
    **Answer:** Each light made its own shadow, because the toy blocked some light from each one.. *Why:* A strong answer says one shadow came from each light, and may add that switching one light off made its shadow go.
 4. (draw) Draw a puppet with a hole for the eye. Next to it, draw its shadow on the wall. Show what the eye looks like in the shadow.  
    **Answer:** A dark puppet shadow with a bright dot where the eye hole is.. *Why:* The card blocks the light, but the hole lets light through, so the eye shows as a bright dot in the dark shadow.
@@ -521,7 +521,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
    **Answer:** True. *Why:* True. A shadow falls wherever something blocks the light and a surface is there. Hold your hand above a torch that points up, and its shadow falls on the ceiling.
 7. (fill) Light travels in ___ lines, so it cannot bend round the toy.  
    **Answer:** straight. *Why:* Because light goes in straight lines, the edge of the shadow follows the edge of the toy.
-8. (mcq) Sai sees his shadow on the floor pointing towards the door. Where is the light?  
+8. (mcq) Your shadow on the floor points towards the door. Where is the light?  
    Options: On the side away from the door / Next to the door / Under the floor  
    **Answer:** On the side away from the door. *Why:* A shadow points away from the light. So if the shadow points to the door, the light is on the other side, away from the door.
 9. (write) Many people think a shadow is completely black. In your tests, could you still see the floor or wall inside a shadow? Why?  
@@ -531,8 +531,8 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 ### Shadows (challenge) (challenge, 10 questions)
 1. (perspective) In Africa, a bird called the black heron spreads her wings like an umbrella over the water while she fishes. Three people give a reason.  
    **Answer:** A strong answer picks a side with a reason. Dr Asha is right that shade makes it easier to see into water. Thenmozhi is right that many small fish hide in shade. Gauri may be right too. Scientists still argue about this.. *Why:* This is a real question that scientists are still studying, so more than one answer can be well argued.
-2. (write) Hetal, a girl in Class 2, wants the shadow of her toy to be almost the same size as the toy. Where should she hold it? Why?  
-   **Answer:** As close to the wall as she can, because there the toy blocks only a small part of the spreading light, so the shadow is about the same size as the toy.. *Why:* A strong answer gives the place and says the shadow grows as the toy moves towards the torch, so near the wall it stays small.
+2. (write) You want the shadow of your toy to be almost the same size as the toy. Where should you hold the toy? Why?  
+   **Answer:** As close to the wall as you can. There the toy blocks only a small part of the spreading light, so the shadow is about the same size as the toy.. *Why:* A strong answer gives the place and says the shadow grows as the toy moves towards the torch, so near the wall it stays small.
 3. (draw) Draw the shadow of a steel tumbler standing up, when a torch shines at it from the side. Then draw its shadow when the tumbler lies on its side with the open end facing the torch.  
    **Answer:** Standing: a rectangle, a little wider at the top. Lying with the open end to the torch: a circle.. *Why:* A shadow shows the outline of a thing as seen from the light. A standing tumbler seen from the side looks like a rectangle. Seen from its open end, it looks round.
 4. (mcq) In a long school corridor, there is a light on the ceiling every few steps. What do you see as you walk along?  
@@ -541,7 +541,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 5. (write) A shadow is made of missing light. Yet in the Near or Far test you measured it with a ruler. How did you measure something made of missing light?  
    **Answer:** I marked where the dark patch ended at the top and measured from the table to the mark. The edge of the shadow is where the light starts again.. *Why:* A strong answer says you measure where the light stops and starts. The edge is real, even if the patch is only missing light.
 6. (truefalse) True or false: a plant can sense the shade of other leaves, and grow taller to get out of it.  
-   **Answer:** True. *Why:* True. Light under leaves has less red light. Plants sense this and grow longer stems to reach sunlight.
+   **Answer:** True. *Why:* True. Leaves take in red light, so the light under them has less red in it. Plants sense this and grow longer stems to reach sunlight.
 7. (match) Draw a line from each shadow-puppet play to the state it comes from.  
    **Answer:** tholpavakoothu → Kerala; tholu bommalata → Andhra Pradesh; togalu gombeyaata → Karnataka; ravanachhaya → Odisha. *Why:* India has shadow plays in many states, each with its own name, puppets and stories.
 8. (sort) Sort these into: gives a sharper shadow, or gives a fuzzier shadow.  
@@ -561,10 +561,10 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 1. (mcq) What is a shadow?  
    Options: A dark patch where light is blocked / A dark copy that comes out of a thing / A kind of light  
    **Answer:** A dark patch where light is blocked. *Why:* A shadow is the place the light cannot reach, because something is in the way. Nothing dark comes out of the thing.
-2. (mcq) Kavya wants to make a shadow on her bedroom wall. Which of these does she NOT need?  
+2. (mcq) You want to make a shadow on a wall. Which of these do you NOT need?  
    Options: A mirror / A light / Something to block the light  
    **Answer:** A mirror. *Why:* A shadow needs a light, something to block it, and a surface for the shadow to fall on. A mirror is not needed.
-3. (mcq) In the Near or Far test, where was the toy's shadow biggest?  
+3. (mcq) A toy stands between a torch and a wall. When is its shadow biggest?  
    Options: When the toy was close to the torch / When the toy was close to the wall / It was the same size everywhere  
    **Answer:** When the toy was close to the torch. *Why:* Close to the torch, the toy blocks a big part of the spreading light, so the shadow on the wall is big.
 4. (mcq) A torch shines on a doll from the right. Where is the doll's shadow?  
@@ -585,7 +585,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 9. (mcq) Why does a shadow have the same outline as the thing that makes it?  
    Options: Light travels in straight lines / Light bends round things / The wall copies the thing  
    **Answer:** Light travels in straight lines. *Why:* Light that just misses the edge goes straight on to the wall, and light that hits the thing stops. So the edge of the shadow follows the edge of the thing.
-10. (mcq) Revathi holds her hand very close to the torch. What does the edge of the shadow look like?  
+10. (mcq) You hold your hand very close to the torch. What does the edge of its shadow look like?  
    Options: Soft and fuzzy / Sharp and crisp / Bright yellow  
    **Answer:** Soft and fuzzy. *Why:* Close to the torch, the edge of the shadow gets a little light from part of the torch, so it is grey and soft. Close to the wall, the edge is sharp.
 
@@ -630,7 +630,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 - In a Near or Far test, a toy's shadow was 10 centimetres tall near the wall and 30 centimetres tall near the torch. How many times taller was the shadow near the torch? **3 times taller.**. Count in tens: 10, 20, 30. That is three tens. So 30 centimetres is 3 times 10 centimetres. (queues `math.multiplication.equal-groups.L2`)
 - Three puppets stand in a room with two lamps on. Each puppet has one shadow from each lamp. How many shadows are there in all? **6 shadows.**. Each puppet has 2 shadows. Three puppets: 2, 4, 6. So there are 6 shadows. (queues `math.multiplication.equal-groups.L2`)
 - Three shadows of the same toy were 14 centimetres, 9 centimetres and 31 centimetres tall. Put them in order from smallest to biggest. Which one was the toy close to the torch? **9, 14, 31. The 31 centimetre shadow was the toy close to the torch.**. 9 is the smallest, then 14, then 31. The nearer the toy is to the torch, the bigger its shadow, so the biggest one, 31, was nearest the torch. (queues `math.number-sense.comparing-ordering.L2`)
-- Nila folds a card in half and cuts out half a butterfly along the fold. When she opens it, both wings match. Will the butterfly's shadow have matching wings too? Why? **Yes. The shadow has the same outline as the card, so its two halves match as well.**. The fold is a line of symmetry. A shadow keeps the outline of the card, so the shadow has the same line of symmetry. (queues `math.symmetry.line-symmetry.L2`)
+- Fold a card in half and cut out half a butterfly along the fold. When you open the card, both wings match. Will the butterfly's shadow have matching wings too? Why? **Yes. The shadow has the same outline as the card, so its two halves match as well.**. The fold is a line of symmetry. A shadow keeps the outline of the card, so the shadow has the same line of symmetry. (queues `math.symmetry.line-symmetry.L2`)
 - The family's shadow play started at 7 o'clock in the evening and lasted half an hour. At what time did it end? **Half past 7.**. Half an hour after 7 o'clock, the long hand has moved half way round the clock, to the 6. That is half past 7. (queues `math.time.telling-time.L2`)
 
 ## Song
@@ -648,9 +648,9 @@ Where the Light Can't Go (sci.light.L2): Topic-level song for Light, seeing and 
 ## Warm-up
 - What is a shadow? → The dark patch where light is blocked.
 - What three things does a shadow need? → A light, something to block it, and a surface.
-- To make a shadow bigger, move the thing nearer the light or nearer the wall? → Nearer the light.
+- To make a shadow bigger, do you move the thing nearer the light or nearer the wall? → Nearer the light.
 - Which side does a shadow fall on? → The side away from the light.
-- One toy, two lights. How many shadows? → Two.
+- Two lights shine on one toy. How many shadows does the toy have? → Two.
 - Does a shadow show a puppet's colours? → No, only the outline.
 - Name a shadow-puppet play from Kerala. → Tholpavakoothu.
 - Does light travel in straight lines or bend round corners? → Straight lines.

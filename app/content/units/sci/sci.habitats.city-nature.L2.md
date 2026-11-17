@@ -9,7 +9,7 @@
 0. By the end I can say that a town or city is a habitat, and name birds, trees, insects and other animals who live in it with us.
 1. By the end I can say what a street tree gives: shade, food, and places for nests and for resting.
 2. By the end I can say why some animals do well in cities: they eat many kinds of food, and they use buildings like cliffs or tree holes.
-3. By the end I can guess, test and say what I saw in the noise test.
+3. By the end I can make a guess, do the Words in the Noise experiment, and say what I saw.
 4. By the end I can say how city noise changes bird songs, and one more way city animals change what they do.
 5. By the end I can watch city animals kindly and safely, from a distance.
 
@@ -40,7 +40,7 @@ Under a big tree the road is cooler, so street dogs, cows and people rest there 
 **Definition:** Animals who eat many kinds of food, and who can nest in many kinds of places, usually do well in cities.
 
 House crows eat almost anything: scraps, insects, fruit and grain. City pigeons come from wild rock doves, who nest on cliff ledges. To a pigeon, a window ledge is like a ledge on a cliff. Mynas nest in holes in walls and pipes. Other beings find a city hard. Hornbills need big old trees with holes. House sparrows have become fewer in many Indian cities, and scientists are still finding out why.
-- e.g. Pigeons nest on window ledges, like their wild relatives nest on cliffs.
+- e.g. Pigeons nest on window ledges, just as their wild relatives nest on cliffs.
 - e.g. A myna nests inside a hole in an old wall.
 - e.g. Rock bees hang a big hive under the ledge of a tall building.
 ### How city noise changes bird songs · *debated*
@@ -60,13 +60,13 @@ At night, moths and other insects gather round street lights and balcony lights.
 - e.g. A house gecko waits beside a tube light on the balcony wall.
 - e.g. Moths circle a street light on a summer night.
 - e.g. A spotted owlet sits on a lamp post at dusk.
-- **An older idea:** Insects steer by keeping the Moon at the same angle. A lamp is so close that keeping it at one angle makes them fly round and round it.
-- **Scientists who filmed insects at night in 2024:** Scientists who filmed insects in 2024 found that insects keep their backs towards the brightest light, because in nature the bright sky is above them. Near a lamp this tilts them, so they circle the lamp and cannot fly away.
+- **An older idea:** At night, insects may steer by keeping the Moon on one side of them as they fly. The Moon is so far away that it stays in the same direction, so this keeps them flying in a straight line. A lamp is very close. As an insect flies past, the lamp's direction keeps changing. If the insect keeps the lamp on one side, the path bends into a circle, so they fly round and round the lamp.
+- **Scientists who filmed insects at night in 2024:** Scientists who filmed insects in 2024 found that insects tilt so that their backs face the brightest light. In nature the bright sky is above them, so this keeps them the right way up. Near a lamp, the brightest light is at their side. This tilts them over, so they cannot fly straight. They circle the lamp and cannot fly away.
 
 ## Mostly agreed
 - Many kinds of birds, insects, plants and other animals live in Indian towns and cities. *How we know:* Every February, people across India count birds for four days in the Great Backyard Bird Count. Many of the lists come from towns and cities, and they hold many kinds of birds.
 - Trees make streets cooler. *How we know:* The ground in the shade of a tree feels much cooler to touch than the road in the sun. Scientists who measure temperatures find that streets with many trees are cooler in summer than bare streets.
-- City noise covers bird songs, and many birds change how they sing. *How we know:* Scientists record birds in noisy and quiet places and compare the songs. In your noise test, soft words were lost in the noise too, until the speaker spoke louder.
+- City noise covers bird songs, and many birds change how they sing. *How we know:* Scientists record birds in noisy and quiet places and compare the songs. In the Words in the Noise experiment, soft words were lost in the loud noise too, until the speaker spoke louder.
 
 ## How we found out
 **Elizabeth Derryberry and Jennifer Phillips, American bird scientists, with their team, 2003 to 2020.** Birds sing to find a mate and to tell other birds where their home is. For a long time, many people thought that city noise bothered only humans, and that birds simply kept singing as they always had. Then scientists began to record city birds. In 2003, scientists in the Netherlands found that great tits in noisy parts of a city sang higher songs than great tits in quiet parts. In spring 2020, something strange happened. Because of the lockdown, the roads of San Francisco, in the United States, went very quiet. Elizabeth Derryberry led a team of bird scientists who knew the white-crowned sparrows of the city well. One of them, Jennifer Phillips, had recorded the same birds a few years before. Now the team recorded them again. In the quiet, the sparrows sang more softly, yet their songs could be heard about twice as far. Their songs also used lower notes again. Within a few weeks, the birds had changed their songs to fit the quieter city. So noise does not bother only people. Birds hear it too, and change how they sing.  
@@ -81,41 +81,41 @@ At night, moths and other insects gather round street lights and balcony lights.
   Against: No good study has shown that phone towers drive sparrows away. Other things changed at the same time. New buildings have fewer holes for nests. Sparrow chicks need insects, and many cities have fewer insects now. Most scientists think these changes matter more, but the full answer is still being studied.
 - **Feeding street animals is always kind.** (Some people; *debated*)  
   For: Food helps hungry dogs, cows, crows and pigeons, especially in the hot summer.  
-  Against: Bread, biscuits and fried snacks can make birds ill. Too much food in one place brings huge flocks of pigeons, and their droppings can make people's lungs sick. Monkeys who are fed by people may start to snatch food and bite. Clean water in summer helps almost every animal. Food needs more care.
+  Against: Bread, biscuits and fried snacks can make birds ill. Too much food in one place brings huge flocks of pigeons, and their droppings can make people's lungs sick. Monkeys who are fed by people may start to snatch food and bite. Clean water in summer helps almost every animal. Giving food needs more care.
 
 ## Roots
 We have met the beings who share our streets, and tested what loud noise does to a soft voice. Now we ask what that tells us about a city and the lives in it.
 
-**Deep truth.** With the noise on, you missed most soft words, until the speaker spoke louder. A call works only if it can be heard over the other sounds. Many city birds sing louder or higher than birds of the same kind in quiet places. So the noise of a city changes the songs of the birds who live in it.  
-*Habit it breaks:* We think of a city as a place built for people, where other animals just carry on as they would in the wild. But the city changes them. Birds by busy roads change how they sing, the way you changed your voice in the noise.  
-*Evidence:* In the noise test, the same speaker, the same place and the same kind of words gave many words in the quiet and few in the noise. A loud voice brought the words back. Recordings show great tits singing higher in noisy city places, and San Francisco sparrows singing more softly when the roads went quiet in 2020.
+**Deep truth.** In the Words in the Noise experiment, you missed most of the soft words when the noise was on, until the speaker spoke louder. A call works only if it can be heard over the other sounds. Many city birds sing louder or higher than birds of the same kind in quiet places. So the noise of a city changes the songs of the birds who live in it.  
+*Habit it breaks:* We think of a city as a place built for people, where other animals just carry on as they would in the wild. But the city changes them. Birds by busy roads change how they sing, the way the speaker in the Words in the Noise experiment had to speak louder to be heard.  
+*Evidence:* In the Words in the Noise experiment, the speaker, the place and the kind of words stayed the same. The listener heard many words in the quiet and few in the noise. When the speaker spoke loudly, the listener heard the words again. Recordings show great tits singing higher in noisy city places, and San Francisco sparrows singing more softly when the roads went quiet in 2020.
 
-- *who am i:* You are one of the animals who live in this town. In the noise you changed your voice, the way a bird changes their song.
-- *what is life:* Living beings keep fitting themselves to where they are. A koel by a busy road decides when and how to call, so that another koel can hear.
+- *who am i:* You are one of the animals who live in this town. In the Call Over the Traffic game, you changed your call to be heard over the noise, the way a bird changes their song.
+- *what is life:* Living beings keep changing what they do to suit the place where they live. A koel by a busy road changes when and how he calls, so that another koel can hear.
 - *what is this world:* One street is home to many beings at once: people, crows, a neem tree, bees and a sleeping dog. Each one hears and uses the street in their own way.
 
 One street holds many lives. The same neem tree gives shade to a dog, flowers to bees and a high fork to a crow. Traffic noise covers the koel's call, and the koel answers by calling louder, higher or at quieter times. Each being on the street senses it in their own way and acts on it. So the street shapes each life, and each life shapes the street a little in return.
 
-- **Purananuru 192, by the Tamil poet Kaniyan Pungundranar:** Every town is our town. Everyone is our kin. (The poet was speaking about people. Our street shows that the crow, the koel, the dog and the neem tree also call our town their home. They are our neighbours in it.)
+- **Purananuru 192, by the Tamil poet Kaniyan Pungundranar:** Every town is our town. Everyone is our kin. (The Tamil poet Kaniyan Pungundranar was speaking about people. Our street shows that the crow, the koel, the dog and the neem tree also call our town their home. They are our neighbours in it.)
 - **Udana 6.4, the Buddhist story of the blind men and the elephant:** Some men who cannot see each touch one part of an elephant. One feels the trunk, one the ear, one the leg. Each says the elephant is only what he touched, and they argue. (A dog knows our street mostly by smell, a bat by echoes at night, a koel by sound, and you mostly by sight. Each being meets a different part of the same street.)
 - Science (settled): Many birds who live near loud roads sing louder, higher or at quieter times than birds of the same kind in quiet places.
 - Science (open): Whether birds change their songs on the spot, learn new songs when young, or both, is still being studied.
 - Other view, Many scientists: Many scientists say a bird singing louder in noise is an automatic reflex. People do the same without choosing: we raise our voices in a noisy bus. To these scientists, the change is real, and it happens quickly and automatically.
 - Practice, Listen Under the Noise (3 min): Sit by the window and close your eyes. Breathe in slowly, and out slowly, three times. First find the loudest sound you can hear. Now listen under it, for a softer sound. Wait for a gap in the traffic. In the gap, who do you hear? Open your eyes and tell me.
 - Ask: When the traffic stops for a moment, what do you hear that was there all along?
-- Ask: If a dog, a crow and you walked down the same street, would you all meet the same street?
+- Ask: If a dog, a crow and you walked down the same street, would the street seem the same to all three of you?
 - Ask: Which sound on your street do the birds have to sing over?
 
 ## Deep and big questions
-- *deep:* Why do we hear more birds on a quiet holiday morning? (hint: Think about the noise test. What happened to the soft words when the noise was on?)
+- *deep:* Why do we hear more birds on a quiet holiday morning? (hint: Think about the Words in the Noise experiment. What happened to the soft words when the loud noise was on?)
 - *deep:* Why do pigeons like window ledges so much? (hint: Think about where wild rock doves nest.)
 - *big:* Who lived on this land before our building was built? Where did they go? (hint: Was it a field, a lake, a scrub forest or a farm? Who lives in places like that?)
-- *big:* Whose city is it: only people's, or everyone's who lives in it? (hint: Think about the crow, the dog, the neem tree and you. Who needs the street, and for what?)
+- *big:* Does the city belong only to people, or to everyone who lives in it? (hint: Think about the crow, the dog, the neem tree and you. Who needs the street, and for what?)
 
 ## Story: The Morning the Road Was Quiet
 *Kavya, Arjun and Paati are made up. The birds are real city birds of South India. Koels call loudly in the hot months, and a koel mother lays her eggs in a crow's nest. Palm squirrels give a sharp chip-chip call when they are alarmed.*
 
-Kavya lived on the fifth floor of a building in Chennai. The building stood beside a busy road. Every morning, buses roared, autos rattled and horns honked all day long.
+Kavya lived on the fifth floor of a building in Chennai. The building stood beside a busy road. Every day, buses roared, autos rattled and horns honked all day long.
 
 Kavya was eight. Her brother Arjun was six. Their grandmother, Paati, lived with them.
 
@@ -123,7 +123,7 @@ Kavya was eight. Her brother Arjun was six. Their grandmother, Paati, lived with
 
 Kavya was not so sure. But she could not think how to show him.
 
-It was the summer holidays, in May. One night Paati said, "Tomorrow I will wake you both very early. Before the sun. I want you to hear something."
+It was the summer holidays, in May. One night Paati said, "Tomorrow I will wake you both very early, before the sun is up. I want you to hear something."
 
 At half past five, the sky was dark blue. Paati, Kavya and a sleepy Arjun stood on the balcony. The road below was empty. No buses. No autos. No horns.
 
@@ -137,7 +137,7 @@ Arjun's eyes went wide. "Where did they all come from?" he whispered.
 
 Kavya listened hard. She thought about it. "I don't think they came from anywhere," she said slowly. "I think they live here. We just never hear them."
 
-Paati smiled and said nothing. She only said, "Let's come back at nine o'clock."
+Paati smiled. She only said, "Let's come back at nine o'clock."
 
 At nine, the road was full again. A bus roared past. An auto honked. Kavya and Arjun stood on the balcony and listened.
 
@@ -177,13 +177,13 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 
 - Ask: Why could Kavya and Arjun hear so many birds at half past five, but not at nine o'clock?
 - Ask: What did the neem tree give the crow, the dog and the bees?
-- Ask: Arjun drew the koel's notes going up above the buses. Why do you think a bird might sing higher near a busy road?
+- Ask: Arjun drew the koel's notes going up above the buses. Traffic noise is a low, deep rumble. Why might a bird sing higher notes near a busy road?
 
 ## Games
 ### g1 · Call Over the Traffic (12 min)
-- **rules:** The bird stands at one end of the room. The friend bird stands at the other end, with their back to the bird.; The traffic player sits next to the friend bird, with a steel plate and a spoon. With 2 players, the friend bird also plays the traffic: turn the traffic card and make the noise yourself.; The bird takes a call card and keeps the card secret.; The traffic player turns over a traffic card. Knock on the plate with the spoon for the seconds written on the back of the card. A quiet card means no noise.; While the noise is going, the bird calls once in a soft voice. The friend bird says the sound they heard, for example "Kaa kaa".; If the friend bird did not say the right sound, the bird picks one trick card and calls again, with the same noise made again. Put the trick card back afterwards. For the quiet gap trick, the bird waits until the noise stops, then calls.; A call heard right on the first try wins 2 points. A call heard right after a trick wins 1 point. A call still not heard wins no point.; Play 8 calls, one call card each time. Swap jobs after every 2 calls. Add up all the points as one team score, and say which trick worked best.
-- **Printable cards: 8 call cards to cut out:** House crow: Kaa! Kaa! (back: House crows live in almost every Indian town. They eat almost anything.) [picture]; Koel: Ku-oo! Ku-oo! Ku-oo! (back: The male koel calls loudly in the hot months, from mango, neem and peepal trees.) [picture]; Pigeon: Gutr-goo, gutr-goo (back: Pigeons coo softly on window ledges, where they nest like their wild relatives on cliffs.) [picture]; Rose-ringed parakeet: Kee-ak! Kee-ak! (back: Green parakeets fly over towns in noisy flocks and roost together in big trees.) [picture]; Coppersmith barbet: Tuk, tuk, tuk, tuk (back: This small green bird sounds like a coppersmith tapping on metal. Barbets eat figs from peepal and banyan trees.) [picture]; Common myna: Chak-chak, keek-keek (back: Mynas chatter in pairs and groups. They nest in holes in walls and pipes.) [picture]; Spotted owlet: Chirurr-chirurr (back: This small owl is nocturnal. Spotted owlets chatter at dusk from old buildings and trees.) [picture]; Palm squirrel: Chip-chip-chip! (back: Squirrels call like this when they see a cat or a crow. They are animals, not birds, but they call to each other too.) [picture]
-- **Printable cards: 4 trick cards to cut out:** Call louder (back: Nightingales in a noisy city sang louder in noisier places.); Call higher, in a squeaky voice (back: Great tits in noisy city places sing higher songs, above the low rumble of traffic.); Wait for a quiet gap, then call (back: Some city birds sing in the gaps between cars, or early before the traffic starts.); Fly closer: take 2 steps forward (back: A call close by is easier to hear. But a bird who moves too close may enter another bird's home.)
+- **rules:** The bird stands at one end of the room. The friend bird stands at the other end, with their back to the bird.; The traffic player sits next to the friend bird, with a steel plate and a spoon. With 2 players, the friend bird also plays the traffic: turn the traffic card and make the noise yourself.; The bird takes a call card and keeps the card secret.; The traffic player turns over a traffic card and knocks on the plate with the spoon for as many seconds as the back of the card says. A quiet card means no noise.; While the noise is going, the bird calls once in a soft voice. The friend bird says the sound they heard, for example "Kaa kaa".; If the friend bird did not say the right sound, the bird picks one trick card. The traffic player makes the same noise again, and the bird calls again using the trick. Put the trick card back afterwards. For the quiet gap trick, the bird waits until the noise stops, then calls.; A call heard right on the first try wins 2 points. A call heard right after a trick wins 1 point. A call still not heard wins no point.; Play 8 calls, one call card each time. Swap jobs after every 2 calls. Add up all the points as one team score, and say which trick worked best.
+- **Printable cards: 8 call cards to cut out:** House crow: Kaa! Kaa! (back: House crows live in almost every Indian town. They eat almost anything.) [picture]; Koel: Ku-oo! Ku-oo! Ku-oo! (back: The male koel calls loudly in the hot months, from mango, neem and peepal trees.) [picture]; Pigeon: Gutr-goo, gutr-goo (back: Pigeons coo softly on window ledges. They nest there, just as their wild relatives nest on cliffs.) [picture]; Rose-ringed parakeet: Kee-ak! Kee-ak! (back: Green parakeets fly over towns in noisy flocks and roost together in big trees.) [picture]; Coppersmith barbet: Tuk, tuk, tuk, tuk (back: This small green bird sounds like a coppersmith tapping on metal. Barbets eat figs from peepal and banyan trees.) [picture]; Common myna: Chak-chak, keek-keek (back: Mynas chatter in pairs and groups. They nest in holes in walls and pipes.) [picture]; Spotted owlet: Chirurr-chirurr (back: This small owl is nocturnal. Spotted owlets chatter at dusk from old buildings and trees.) [picture]; Palm squirrel: Chip-chip-chip! (back: Squirrels call like this when they see a cat or a crow. They are animals, not birds, but they call to each other too.) [picture]
+- **Printable cards: 4 trick cards to cut out:** Call louder (back: Nightingales in the city of Berlin sang louder in noisier places.); Call higher, in a squeaky voice (back: Great tits in noisy city places sing higher songs, above the low rumble of traffic.); Wait for a quiet gap, then call (back: Some city birds sing in the gaps between cars, or early before the traffic starts.); Fly closer: take 2 steps forward (back: A call close by is easier to hear. But a bird who moves too close may enter another bird's home.)
 - **Printable cards: 8 traffic cards to cut out:** A bus goes past (back: Make loud noise for 5 seconds.); A horn honks (back: Make loud noise for 2 seconds.); A quiet gap (back: Make no noise for 3 seconds.); A row of autos (back: Make loud noise for 8 seconds.); Early morning, empty road (back: Make no noise for 5 seconds.); A lorry rumbles past (back: Make loud, low noise for 6 seconds.); A scooter goes by (back: Make loud noise for 3 seconds.); A wedding band goes by (back: Make loud noise for 6 seconds.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Show where the bird, the friend bird and the traffic stand. 3. Read the rules aloud.  
@@ -224,7 +224,7 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 ### e1 · Words in the Noise: can a soft voice be heard over traffic? (25 min)
 - **question:** Five big steps away, how many soft words can you hear with no noise? How many with loud noise on? And how many when the speaker speaks loudly in the noise?
 - **predict:** Guess first. Out of 10 soft words, how many will you hear with no noise? How many with the noise on? Will a loud voice help in the noise? Why do you think so?
-- **fair test:** The same person speaks every time, from the same place, five big steps away. The listener always faces the wall, so they cannot read the speaker's lips. Each round uses 10 new short words, so nobody can remember them. Only the noise and the loudness of the voice change.
+- **fair test:** The same person speaks every time, from the same place, five big steps away. The listener always faces the wall, so they cannot read the speaker's lips. Each round uses 10 new short words, so the listener cannot remember them from the round before. Only the noise and the loudness of the voice change.
 - **record:** Fill in the table with the words heard in each round. Then draw three towers of blocks, one for each round, as tall as the number of words heard.
 - **results table:** Round | Noise on or off? | How the words were said | Words heard (out of 10)
 - **s1 (4 min)**  
@@ -233,18 +233,18 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   *Child mode:* Face the wall. Listen. Say each word back.
   - Note: Your child faces the wall so they cannot read your lips. Speak softly, as if a baby is asleep in the next room. Keep the same soft voice all through rounds 1 and 2.
 - **s2 (3 min)**  
-  *Parent does:* Show the noise maker. Ask for a guess and a reason, and write it down.  
+  *Parent does:* Show the phone that will be the noise maker. It plays loud traffic sound. Ask for a guess and a reason, and write it down.  
   *Parent says:* Next, I will put this noise right beside you, like traffic. How many soft words will you hear then? And if I speak loudly? Why do you think so?  
   *Child mode:* Guess. How many words will you hear in the noise? Why?
-  - Ask: How many words do you think you will hear with the noise on? Why? (good: Fewer, because the noise covers my words.; All of them, because I listen hard.; Some, if you speak in the gaps.)
+  - Ask: How many words do you think you will hear with the noise on? Why? (good: Fewer, because the noise covers the words.; All of them, because I listen hard.; Some, if you speak in the gaps.)
   - Note: Any guess is fine. Write down the guess and the reason. The test will answer it.
 - **s3 (4 min)**  
   *Parent does:* Round 1: no noise. Say the 10 words of list 1 softly, one at a time. Tick each word your child says back right.  
   *Parent says:* Here is the first word. Say it back to me.  
   *Child mode:* Listen to each soft word. Say it back.
-  - Note: If your child gets all 10 easily, take two more steps back. If they hear fewer than 6, step one step closer. Then use the spare list 4 for round 1 instead, and keep the new distance for all three rounds. You want a distance where soft words are heard well in the quiet.
+  - Note: If your child gets all 10 easily, take two more steps back. If they hear fewer than 6, take one step closer. If you changed the distance, do round 1 again with the spare list 4, and keep the new distance for all three rounds. You want a distance where soft words are heard well in the quiet.
 - **s4 (4 min)**  
-  *Parent does:* Round 2: put the noise maker about one arm away from your child. Turn it up loud. Say list 2 in the same soft voice. Tick the words heard.  
+  *Parent does:* Round 2: put the noise maker (the phone) about one arm away from your child. Turn it up loud. Say list 2 in the same soft voice. Tick the words heard.  
   *Parent says:* Now the noise is on. Same soft voice. Say back each word you hear.  
   *Child mode:* The noise is on. Listen hard. Say back each word.
   - Note: The noise should be loud, but not painful. Keep the phone an arm away and never at your child's ear. If your child still hears almost every word, turn it up a little or move it closer. Most children hear far fewer words in this round.
@@ -254,10 +254,10 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   *Child mode:* The noise is still on. Now I speak loudly. Say back each word.
   - Ask: Was it easier to hear this time? Why? (good: Yes, because your voice was louder than the noise.; The loud words got through the noise.)
 - **s6 (6 min)**  
-  *Parent does:* Fill in the table together. Ask your child to say three things: what they think, what they saw, and why. Then look back at their guess.  
+  *Parent does:* Fill in the table together. Ask your child to say three things: what they found, what they saw that shows it, and why they think it happened. Then look back at their guess.  
   *Parent says:* Look at the three numbers. What happened to the soft words when the noise was on? Why did the loud words get through? Was your guess right?  
   *Child mode:* Look at your three numbers. What did you find? Why?
-  - Check: Most families hear the fewest words in which round? → **Round 2: soft words with the noise on**
+  - Check: In which round do most families hear the fewest words? → **Round 2: soft words with the noise on**
   - Think: A koel calls from a tree beside a busy road. What could the koel do, so that another koel hears him?
 ### e2 · Sun or Shade: where does an ice cube last longer? (if your balcony or window gets sun) (20 min)
 - **question:** Does an ice cube melt more slowly in the shade of leaves than in full sun?
@@ -275,7 +275,7 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   *Parent says:* Let's look. Which cube is smaller now?  
   *Child mode:* Look every 5 minutes. Which cube is smaller?
   - Ask: What is the shade doing for the ice? (good: Keeping the sun off.; Keeping it cooler.)
-  - Note: In strong sun, the sun cube usually melts much faster. The shade cube still melts, only more slowly, because the air is warm too. If it is still there after 12 minutes, write 'not melted yet' and compare the sizes. Do not let your child stare at the sun.
+  - Note: In strong sun, the sun cube usually melts much faster. The shade cube still melts, only more slowly, because the air is warm too. If the shade cube is still there after 12 minutes, write 'not melted yet' and compare the sizes of the two cubes. Do not let your child stare at the sun.
 - **s3 (4 min)**  
   *Parent does:* Talk about what you saw. Ask where your child likes to sit on a hot day.  
   *Parent says:* The shade kept the ice cool for longer. On a hot afternoon, where do you like to sit: in the sun or in the shade?  
@@ -289,7 +289,7 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   *Parent says:* We will be animal counters for 10 minutes. Every time you see someone, make one mark in their row.  
   *Child mode:* Draw six rows. Make one mark for each animal you see.
 - **s2 (10 min)**  
-  *Parent does:* Watch for 10 minutes. Make one tally mark for each being. Count a bird again only if a new one comes.  
+  *Parent does:* Watch for 10 minutes. Make one tally mark for each being. Do not count the same bird twice. Make a new mark only when a new bird comes.  
   *Parent says:* Who do you see? Where are they? What are they doing?  
   *Child mode:* Watch for 10 minutes. Make a mark for each one.
   - Note: Look high and low: roof edges, wires, ledges, tree tops, the road, under parked cars, and flowers. Don't forget people. Humans are animals too, so your child can add a row for people if they like.
@@ -348,9 +348,10 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   - Note: On day 4, watch at dusk from a window or balcony, with a grown-up. A gecko by a light, moths, bats and owlets may come out.
 - **s3 (10 min)**  
   *Parent does:* On day 5, watch for 5 minutes and draw one insect. Then your child reads the whole diary to someone at home.  
-  *Parent says:* Read your diary to someone at home. Which being surprised you most?  
-  *Child mode:* Read your diary to someone. Who surprised you most?
-  - Check: Ishita, a girl in Class 2, saw a gecko by the light at dusk and a squirrel on the tree at noon. What does this show? → **Different beings use the street at different times**
+  *Parent says:* Read your diary to someone at home. Then look at your five drawings together. Which beings used a tree? Which beings used a building or a wall?  
+  *Child mode:* Read your diary to someone. Which beings used a tree? Which used a building or a wall?
+  - Note: Expect answers like these. A crow, a squirrel, a koel or a bee used the tree. A pigeon, a gecko or a myna used a building or a wall. The point is that one street gives many beings a place to nest, rest or find food.
+  - Check: Suppose you see a gecko by the light at dusk and a squirrel on the tree at noon. What does this show? → **Different beings use the street at different times**
 
 ## Challenges
 ### c1 · Design a Street That Shares (25 min)
@@ -369,9 +370,10 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   *Parent says:* Where will the trees go? Where will the water go? Where will people walk?  
   *Child mode:* Draw or build your street. Put in trees, water and nest places.
 - **s3 (5 min)**  
-  *Parent does:* Check the list together. Then ask the "one more thing" question.  
+  *Parent does:* Check the list together. Then ask: who might still find your street hard to live in? Add one more thing for them.  
   *Parent says:* Let's check. Has every being got what they need? Who might still find it hard?  
   *Child mode:* Check your list. Who still needs something?
+  - Note: A good answer names a real need. For example, sparrows need holes in walls for nests, hornbills need big old trees with holes, and bees need flowers. Ask your child to add one of these to the street.
   - Check: Why would a quiet zone near the trees help the birds? → **Their songs would not be covered by noise**
 
 ## Worksheets
@@ -381,18 +383,18 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 2. (mcq) Where does a koel mother lay her eggs?  
    Options: In a crow's nest / In a nest she builds of grass / In a hole in the ground  
    **Answer:** In a crow's nest. *Why:* A koel mother does not build a nest. She lays her eggs in a crow's nest, and the crows bring up her babies.
-3. (draw) Draw yourself in round 2 of the noise test. Show the noise next to you and the soft words going towards you.  
+3. (draw) Draw yourself in round 2 of the Words in the Noise experiment, when the noise was on and the words were soft. Show the noise next to you and the soft words going towards you.  
    **Answer:** A drawing of the child facing the wall, the noise maker close by, and only a few words reaching them.. *Why:* A strong drawing shows the noise between the words and the listener, and fewer words getting through.
 4. (truefalse) Birds live only in forests, not in cities.  
    **Answer:** False. *Why:* False. Crows, pigeons, mynas, koels, parakeets, kites and many other birds live in Indian cities.
 5. (count) Count the animals in this tree picture: 4 mynas, 2 squirrels, 1 crow's nest with no crow, and 1 paper kite stuck in the branches.  
    **Answer:** 6. *Why:* 4 mynas and 2 squirrels make 6 animals. The empty nest is a home, not an animal. The paper kite is not alive.
-6. (sort) Sort these beings: eats many kinds of food, or eats one main kind of food.  
+6. (sort) Sort these beings into two groups: those who eat many kinds of food, and those who eat one main kind of food.  
    **Answer:** House crow → Eats many kinds; Common myna → Eats many kinds; Street dog → Eats many kinds; Silkworm caterpillar (mulberry leaves) → Eats one main kind; Honeybee (nectar and pollen from flowers) → Eats one main kind. *Why:* Crows, mynas and dogs eat scraps, insects, fruit and more, so they find food all over a city. A silkworm eats mulberry leaves, and a bee needs flowers, so they need the right plants nearby.
 7. (write) Say it to a grown-up, who writes it down: what is one thing you can do to help the birds and animals near your home?  
    **Answer:** Put out a bowl of clean water in the shade in summer, or watch the animals from a distance and leave them in peace. Do not feed them bread or fried snacks.. *Why:* A strong answer gives one kind action and a reason, such as water helping in the heat, or animals needing to be left in peace.
 8. (perspective) Two friends in Hyderabad see pigeons on their balcony.  
-   **Answer:** Either side, with a reason. Revathi is right that birds need food. Farida is right that too much food brings too many pigeons and their droppings can harm lungs.. *Why:* A strong answer picks a side, gives a reason, and fairly says what the other friend got right.
+   **Answer:** Either side, with a reason. The first child is right that birds need food. The second child is right that too much food brings too many pigeons and their droppings can harm lungs.. *Why:* A strong answer picks a side, gives a reason, and fairly says what the other friend got right.
 9. (label) Label the picture of a street tree. Write who uses each part.  
    **Answer:** ["fork: a crow's nest", 'flowers: bees or butterflies', 'shade: a dog, a cow or people resting', 'figs: koels, barbets, parakeets, squirrels or fruit bats']. *Why:* Any being who really uses that part is right. One tree gives different gifts to many beings.
 10. (fill) A place where birds or bats rest or sleep together is called a ______.  
@@ -401,21 +403,21 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 1. (mcq) Traffic noise is mostly a low, deep rumble. Which bird song is easiest to hear over the rumble?  
    Options: A high, sharp song / A low, deep song / A very soft song  
    **Answer:** A high, sharp song. *Why:* High notes sit above the low rumble, so they are not covered as much. This is why great tits in noisy city places sing higher songs.
-2. (write) Two families did the noise test. In both, the child heard 9 soft words in the quiet. With the noise on, one child heard only 2 words, and the other child heard 9. What might have been different in the second family?  
+2. (write) Two families did the Words in the Noise experiment. In both, the child heard 9 soft words with no noise. With the noise on, one child heard only 2 words, and the other child heard 9. What might have been different in the second family?  
    **Answer:** The noise may have been too quiet or too far away, the speaker may have spoken louder, or the child may have seen the speaker's lips.. *Why:* A strong answer names one thing that could change the result, such as the noise being weaker, and says why that would let more words through.
-3. (order) Put these in order, to tell what happened to the sparrows of San Francisco in 2020.  
-   **Answer:** ['The roads were busy, and the sparrows sang over the noise', 'In the lockdown, the roads went quiet', 'The sparrows sang more softly', 'Their songs could be heard about twice as far']. *Why:* When the noise stopped, the birds did not need to sing so loudly, and their songs still carried further. They changed their songs within weeks.
+3. (order) Put these in order, to tell what can happen to city birds' songs when busy roads go quiet.  
+   **Answer:** ['The roads are busy, and the birds sing over the noise', 'The roads go quiet', 'The birds sing more softly', 'Their songs can be heard further']. *Why:* When the noise stops, the birds do not need to sing so loudly, and their songs still carry further. Birds can change their songs within weeks.
 4. (truefalse) A bird always sings in exactly the same way, wherever they live.  
    **Answer:** False. *Why:* False. Many birds near loud roads sing louder, higher or at quieter times than birds of the same kind in quiet places.
-5. (perspective) Priya and her aunt Mehrunnisa talk about why there are fewer sparrows in their city, Pune.  
-   **Answer:** Most evidence supports Mehrunnisa, but the full answer is still studied. A child might suggest counting sparrows near old buildings with holes and near new glass buildings.. *Why:* A strong answer names a way to check, such as comparing old and new buildings, and is fair to Priya: sparrows did become fewer as towers spread.
+5. (perspective) The first child and her aunt Mehrunnisa talk about why there are fewer sparrows in their city, Pune.  
+   **Answer:** Most evidence supports Mehrunnisa, but the full answer is still being studied. A child might suggest counting sparrows near old buildings with holes and near new glass buildings.. *Why:* A strong answer names a way to check, such as comparing old and new buildings, and is fair to the first child: sparrows did become fewer as towers spread.
 6. (draw) A new glass building has no holes or ledges. Draw one change that would give sparrows a place to nest.  
    **Answer:** A nest box on the wall, a gap under the roof, or a small ledge with a hole, high up and out of reach of cats.. *Why:* A strong drawing shows a small, safe, covered space high up, because sparrows nest in holes and gaps.
 7. (odd) Which is the odd one out? Think about when each one is busy.  
    Options: Fruit bat / Spotted owlet / House gecko / Pigeon  
    **Answer:** 3. *Why:* Fruit bats, spotted owlets and house geckos are nocturnal: they are busy at night. Pigeons are busy in the daytime.
 8. (label) Write H on the hottest place and C on the coolest place on a sunny afternoon.  
-   **Answer:** ['black road: H', 'shade under the neem tree: C', 'pale pavement: in between']. *Why:* Dark roads in the sun get hottest. The shade of leaves keeps the ground coolest, as the ice cube and the hand test show.
+   **Answer:** ['black road: H', 'shade under the neem tree: C', 'pale pavement: in between']. *Why:* Dark roads in the sun get hottest. The shade of leaves keeps the ground coolest. The Sun or Shade ice cube experiment and the Sun Road, Shade Road walk both show this.
 9. (write) Before your building was built, the land might have been a field, a lake or a scrub forest. Name two beings who may have lived there. Where might they have gone?  
    **Answer:** For example, frogs and herons in a lake, or hares and partridges in scrub. Some moved to other places, some stayed and changed, and some could not find a new home.. *Why:* A strong answer names real beings for that kind of land, and thinks about more than one ending.
 10. (mcq) Hornbills need big old trees with holes to nest in. Which of these would find a city hardest to live in?  
@@ -446,18 +448,18 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 6. (mcq) Which kind of animal usually does best in a city?  
    Options: One who eats many kinds of food / One who eats one rare plant / One who needs a very old forest  
    **Answer:** One who eats many kinds of food. *Why:* A city has many kinds of food scattered around. Animals who eat many kinds find food easily.
-7. (mcq) In the noise test, what helped the words get through the noise?  
+7. (mcq) In the Words in the Noise experiment, what helped the words get through the noise?  
    Options: Speaking loudly / Speaking more softly / Facing the wall  
    **Answer:** Speaking loudly. *Why:* A loud voice was louder than the noise. Facing the wall only stopped lip-reading, to keep the test fair.
-8. (mcq) Why did the listener face the wall in the noise test?  
+8. (mcq) In the Words in the Noise experiment, why did the listener face the wall?  
    Options: So they could not read the speaker's lips / So the noise was quieter / So they could see the words  
    **Answer:** So they could not read the speaker's lips. *Why:* If the listener saw the lips move, they could guess words without hearing them. Facing the wall makes it a test of hearing only.
 9. (mcq) What do many birds who live by busy roads do?  
    Options: Sing louder, higher, or at quieter times / Stop singing for ever / Sing only underwater  
    **Answer:** Sing louder, higher, or at quieter times. *Why:* They change their songs so other birds can still hear them over the traffic.
-10. (mcq) When the roads of San Francisco went quiet in 2020, what did the sparrows do?  
-   Options: They sang more softly / They all flew away / They sang much louder  
-   **Answer:** They sang more softly. *Why:* With less noise to sing over, they sang more softly, and their songs still carried about twice as far.
+10. (mcq) City birds sing loudly to be heard over the traffic. If the roads suddenly went quiet for weeks, what would you expect the birds to do?  
+   Options: Sing more softly / All fly away / Sing much louder  
+   **Answer:** Sing more softly. *Why:* With less noise to sing over, they would not need to sing so loudly, and their songs would still carry further. When this really happened in San Francisco in 2020, the birds sang more softly.
 11. (mcq) You see a street dog with puppies under a car. What is the kind and safe thing to do?  
    Options: Watch from a distance and leave them in peace / Pick up a puppy to hold / Shout so they move away  
    **Answer:** Watch from a distance and leave them in peace. *Why:* A mother dog protects her puppies and may bite if you come close. Watching from a distance keeps everyone safe.
@@ -498,10 +500,10 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 - What is a gecko's favourite part of the house? *The tube light, because that is where the snacks fly in!*
 
 ## Connected maths
-- Nandini, a girl in Class 2, did the noise test. She heard 9 soft words with no noise. With the noise on, she heard only 3. How many words did the noise take away? **6 words.**. 9 words in the quiet take away the 3 heard in the noise leaves 6. 9 - 3 = 6. (queues `math.addition-subtraction.meaning.L2`)
-- In 10 minutes at the window, Swati, a girl in Class 2, made a tally: 7 crows, 12 pigeons and 3 dogs. Which did she see most? How many more pigeons than crows? **Pigeons. 5 more pigeons than crows.**. 12 is the biggest number. 12 - 7 = 5. (queues `math.data.sorting-and-tallies.L2`)
-- Imagine a sparrow's song could be heard 10 big steps away on a busy road. In the quiet of the lockdown, songs could be heard about twice as far. How far is that? **About 20 big steps.**. Twice 10 is two groups of 10. 10 + 10 = 20. (queues `math.multiplication.equal-groups.L2`)
-- Kavya counted bird calls she heard in one minute at different times: 6 o'clock, 8 calls. 7 o'clock, 6 calls. 8 o'clock, 4 calls. As the traffic grew, the number went down. What pattern do you see? What might she count at 9 o'clock? **The number goes down by 2 each hour. At 9 o'clock she might count 2 calls.**. 8, 6, 4: each number is 2 less than the one before. The next would be 2. (queues `math.patterns.number-patterns.L2`)
+- In the Words in the Noise experiment, a child heard 9 soft words with no noise. With the noise on, the child heard only 3. How many words did the noise take away? **6 words.**. 9 words were heard in the quiet and 3 in the noise. 9 take away 3 leaves 6. 9 - 3 = 6. (queues `math.addition-subtraction.meaning.L2`)
+- A tally from 10 minutes at the window shows 7 crows, 12 pigeons and 3 dogs. Which animal was seen most? How many more pigeons than crows were there? **Pigeons. 5 more pigeons than crows.**. 12 is the biggest number. 12 - 7 = 5. (queues `math.data.sorting-and-tallies.L2`)
+- Suppose a sparrow's song can be heard 10 big steps away on a busy road. When the roads went quiet in the 2020 lockdown, songs could be heard about twice as far. How far is that? **About 20 big steps.**. Twice 10 is two groups of 10. 10 + 10 = 20. (queues `math.multiplication.equal-groups.L2`)
+- These bird calls were heard in one minute from a balcony. At 6 o'clock: 8 calls. At 7 o'clock: 6 calls. At 8 o'clock: 4 calls. The traffic grew each hour. What pattern do you see? How many calls might be heard at 9 o'clock? **The number goes down by 2 each hour. At 9 o'clock there might be 2 calls.**. 8, 6, 4: each number is 2 less than the one before. The next would be 2. (queues `math.patterns.number-patterns.L2`)
 
 ## Song
 Every Home Is Somebody's (sci.habitats.L2): Topic-level song for Habitats L2

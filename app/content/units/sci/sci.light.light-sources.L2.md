@@ -48,7 +48,7 @@ In the Door Test, light from the lit hall came into the dark room, but no dark w
 ### Grey rock that looks bright · *defined*
 **Definition:** The Moon reflects only about one tenth of the sunlight that falls on it. It looks bright because sunlight is very strong and the night sky around it is dark.
 
-Moon rock is dark grey, about as dark as an old tar road. It sends back only about one tenth of the sunlight that lands on it. Sunlight is so strong that this is still enough to light a terrace. The Moon looks bright because the sky around it is black; in the day, the same Moon looks pale because the sky is bright too.
+Moon rock is dark grey, about as dark as an old tar road. It sends back only about one tenth of the sunlight that lands on it. Sunlight is so strong that this is still enough to light a terrace. The Moon looks bright because the sky around it is black. In the day, the same Moon looks pale, because the sky around it is bright too.
 - e.g. In the Paper Moon test, even the grey newspaper lit up some pictures.
 - e.g. In the daytime, the Moon looks pale white against the blue sky.
 - e.g. Moon rock is about as dark as an old tar road.
@@ -75,20 +75,20 @@ Moon rock is dark grey, about as dark as an old tar road. It sends back only abo
   Against: Eyes get used to dim light, not to no light. In a room with no light at all, nothing can come to your eyes, however long you wait.
 
 ## Roots
-We have made a paper Moon in the dark and watched light come in through a door. Now we ask what that tells us about the night, about ourselves and about the world.
+In the Paper Moon test, we made a paper Moon in a dark room. In the Door Test, we watched light come in through a door. Now we ask what that tells us about the night, about ourselves and about the world.
 
-**Deep truth.** In the dark room, the white paper lit your pictures only while the torch shone on it. The Moon lights our nights the same way, with sunlight. So on a moonlit night, the light on your floor left the Sun about eight minutes earlier.  
-*Habit it breaks:* We split time into day, when the Sun lights us, and night, when the Sun is gone. Moonlight shows that the Sun keeps lighting our nights, by way of the Moon.  
+**Deep truth.** In the Paper Moon test, the white paper lit your pictures only while the torch shone on it. The Moon lights our nights the same way, with sunlight. So on a moonlit night, the light on your floor left the Sun about eight minutes earlier.  
+*Habit it breaks:* We split time into day, when the Sun lights us, and night, when the Sun is gone. Moonlight shows that the Sun does not stop lighting us at night. Its light reaches us after it bounces off the Moon.  
 *Evidence:* In the Paper Moon test, the pictures went dark the moment the torch went off. The bright side of the Moon always faces the Sun, and Moon rock makes no light of its own.
 
-- *who am i:* You see only what light reaches you. Almost everything you see, you see by light that bounced off it.
-- *what is life:* On full-Moon nights, many sea creatures, such as some corals, time their lives by moonlight. They are living by sunlight that came the long way round.
+- *who am i:* You can see a thing only when light from it reaches your eyes. Almost everything you see, you see by light that bounced off it.
+- *what is life:* Many sea creatures, such as some corals, time their lives by the light of the full Moon. That moonlight is sunlight that bounced off the Moon on its way to them.
 - *what is this world:* The world has a few light sources and countless things that pass light on. The Moon, the walls of your home and your own face all pass on light.
 
 The Sun makes the light, and the Moon, the clouds, the walls and your face pass it on. The light on your terrace floor is the Sun's light, bounced once off the Moon. Everything is aware in its own way, the Sun and the Moon too. Many scientists disagree, and say only living beings with nerves are aware.
 
-- **Katha Upanishad 5.15 (also numbered 2.2.15):** There the Sun does not shine, nor the Moon and the stars. Everything shines only after that one light shines. By its light, all this is lit. (In the Paper Moon test, the paper shone only after the torch shone. In the sky, the Moon shines only after the Sun. The Upanishad speaks of one light behind all lights, and the paper and the Moon are a small everyday example of shining by another's light.)
-- **Tao Te Ching, chapter 11:** We shape clay into a pot, but it is the empty space inside that makes it useful. (Darkness is an absence, the way the inside of a pot is empty. Yet we notice it, name it and use it, for example to sleep or to see the stars.)
+- **Katha Upanishad 5.15 (also numbered 2.2.15):** There the Sun does not shine, nor the Moon and the stars. Everything shines only after that one light shines. By its light, all this is lit. (In the Paper Moon test, the paper shone only after the torch shone. In the sky, the Moon shines only after the Sun. The Upanishad speaks of one light behind all lights. The paper and the Moon are a small everyday example of this, because each one shines only by another light.)
+- **Tao Te Ching, chapter 11:** We shape clay into a pot, but it is the empty space inside that makes it useful. (Darkness is an absence of light, in the same way that the inside of a pot is an empty space. An empty space is useful, because you can fill it. Darkness is useful too. We need it to sleep, and to see the stars.)
 - Science (settled): The Moon makes no light of its own. It reflects about one tenth of the sunlight that falls on it.
 - Science (settled): Darkness is the absence of light. Even outer space between the stars is not perfectly dark: a faint glow of microwaves from the early universe fills it, and our eyes cannot see it.
 - Other view, Many scientists today, and the old Charvaka school of India: They say the Sun and the Moon are not aware of anything. To them the Moon is only rock, and moonlight is only light bouncing off it. They think awareness belongs to living beings with nerves or brains.
@@ -171,7 +171,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 ## Games
 ### g1 · Trace It Back: a card game about where light comes from (12 min)
 - **rules:** Mix the 12 cards and put them in a pile, face down.; Take turns. On your turn, take the top card and read the front out loud.; Say where its light started, and every place it went on the way. If it is a light source, say 'light source!'. If no light gets there, say 'dark!'.; Another player turns the card over and reads the back. If your answer matches, you keep the card. If not, put it at the bottom of the pile.; When the pile is gone, count your cards. The player with the most cards wins. If you tie, you both win.
-- **Printable cards: 12 light cards:** Moonlight on the terrace floor (back: Sun, then Moon, then the floor.); A shining steel plate in the kitchen (back: Tube light or sunlight, then the plate.); A bright white wall at noon (back: Sun, then the wall.); A glowing phone screen (back: LIGHT SOURCE. The screen makes its own light.); The Moon in the night sky (back: Sun, then the Moon.) [picture]; A lit diya at Karthigai Deepam (back: LIGHT SOURCE. The flame makes its own light.) [picture]; Your face in a mirror (back: A lamp or the Sun, then your face, then the mirror.); A shiny road sign at night (back: A car's headlights, then the sign.); Fireflies flashing in the dark (back: LIGHT SOURCE. Fireflies make their own light.) [picture]; Inside a shut steel dabba (back: DARK. No light is getting in, so there is nothing to trace.); A white kolam on the doorstep at dusk (back: The evening sky, which is lit by the Sun, then the kolam.); A wet road shining under a street light (back: The street light, then the wet road.)
+- **Printable cards: 12 light cards:** Moonlight on the terrace floor (back: The light starts at the Sun. It bounces off the Moon. Then it lands on the floor.); A shining steel plate in the kitchen (back: The light starts at the tube light or the Sun. It lands on the plate, and the plate sends it on.); A bright white wall at noon (back: The light starts at the Sun. It lands on the wall, and the wall sends it on.); A glowing phone screen (back: LIGHT SOURCE. The screen makes its own light.); The Moon in the night sky (back: The light starts at the Sun. It bounces off the Moon and comes to us.) [picture]; A lit diya at Karthigai Deepam (back: LIGHT SOURCE. The flame makes its own light.) [picture]; Your face in a mirror (back: The light starts at a lamp or the Sun. It bounces off your face, and then off the mirror, into your eyes.); A shiny road sign at night (back: The light starts at a car's headlights. It lands on the sign, and the sign sends it back.); Fireflies flashing in the dark (back: LIGHT SOURCE. Fireflies make their own light.) [picture]; Inside a shut steel dabba (back: DARK. No light is getting in, so there is nothing to trace.); A white kolam on the doorstep at dusk (back: The light starts at the Sun, and the evening sky sends it on. It lands on the kolam, and the kolam sends it on to your eyes.); A wet road shining under a street light (back: The light starts at the street light. It lands on the wet road, and the road sends it on.)
 - **s1 (1 min)**  
   *Parent does:* Read the rules together. Put the cards face down.  
   *Parent says:* Each card shows something bright or dark. You say where its light started, step by step.  
@@ -182,13 +182,13 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   *Child mode:* Read the card. Where did its light start? Turn it over.
   - Note: The Moon cards are the tricky ones. If your child says the light started at the Moon, ask: where did the Moon get it?
 - **s3 (2 min)**  
-  *Parent does:* Count the cards. Then ask about the dark card.  
-  *Parent says:* Inside a shut dabba, what is there to trace? Why is it dark in there?  
+  *Parent does:* Count the cards. Then ask about the card 'Inside a shut steel dabba'.  
+  *Parent says:* One card says 'Inside a shut steel dabba'. Is there any light to trace in there? Why is it dark?  
   *Child mode:* Why is it dark inside the shut dabba?
-  - Check: Sindhu, a girl in Chennai, gets the card 'The Moon in the night sky'. Where did its light start? → **At the Sun**
+  - Check: You get the card 'The Moon in the night sky'. Where did its light start? → **At the Sun**
 ### g2 · Sun and Moons: a moving game (8 min)
 - **rules:** One player is the Sun and holds a yellow paper or cloth. Everyone else is a Moon and holds a white paper plate or a sheet of white paper. With two players, there is one Moon.; The Moons stand around the room, and freeze.; The Sun takes a sky card from the pile, reads the front to themselves, and does what it says. Afterwards, everyone reads the back to check.; A Moon may dance only while the Sun faces that Moon. When the Sun is not facing a Moon, that Moon freezes at once.; A Moon who moves while no light reaches that Moon sits out the next card. After all 6 cards, swap so a new player is the Sun. There is no winner: the aim is to get through all 6 cards without sitting out.
-- **Printable cards: 6 sky cards for the Sun:** Face one Moon. (back: That Moon dances. Any other Moon freezes. Light reaches only that Moon.); Turn your back on everyone. (back: All Moons freeze. No light is reaching them.); Face everyone. (back: All Moons dance. It is a full Moon night!); Hold a book up in front of you, like a cloud, and face the Moons. (back: All Moons freeze. The cloud blocks the light.); Face one Moon, then turn to face a different Moon. (back: The first Moon freezes at once. The second Moon starts to dance.); Face the Moons, then turn your back. (back: Dance, then freeze at once. Light stops the moment it stops arriving.)
+- **Printable cards: 6 sky cards for the Sun:** Face one Moon. (back: That Moon dances. Any other Moon freezes. Light reaches only that Moon.); Turn your back on everyone. (back: All Moons freeze. No light is reaching them.); Face everyone. (back: All Moons dance. It is a full Moon night!); Hold a book up in front of you, like a cloud, and face the Moons. (back: All Moons freeze. The cloud blocks the light.); Face one Moon, then turn to face a different Moon. (back: The first Moon freezes at once. The second Moon starts to dance.); Face the Moons, then turn your back. (back: The Moons dance, then freeze at once. A Moon goes dark the moment light stops reaching it.)
 - **s1 (1 min)**  
   *Parent does:* Choose the Sun. Give everyone else a white plate or paper. Read the rules. Mix the 6 cards and put them in a pile.  
   *Parent says:* The Sun gives light. The Moons give none of their own. A Moon may dance only while the Sun faces them.  
@@ -198,20 +198,21 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   *Parent says:* The Sun turns away from you. What do the Moons do? Why?  
   *Child mode:* Watch the Sun. Dance or freeze?
 - **s3 (1 min)**  
-  *Parent does:* Stop and ask the question.  
+  *Parent does:* Stop the game and ask why the Moons froze.  
   *Parent says:* Why did the Moons freeze when the Sun turned away?  
   *Child mode:* Why did you freeze when the Sun turned away?
-  - Check: Lakshmi, a girl playing a Moon, must freeze when the Sun turns away from her. Why? → **No light reaches her, and Moons make none of their own**
+  - Check: In the Sun and Moons game, a Moon must freeze when the Sun turns away. Why? → **No light reaches that Moon, and Moons make none of their own**
 
 ## Experiments
 ### e1 · The Paper Moon Test: can bounced light help you see? (20 min)
+- **problem:** The Moon makes no light of its own, but it lights up the night. In this test, a sheet of paper plays the part of the Moon, and a torch plays the part of the Sun. You will find out whether paper that only bounces the torch's light can help you see pictures in the dark.
 - **question:** In a dark room, which sheet sends the most torch light on to a picture card: white paper, newspaper, black cloth or kitchen foil?
 - **predict:** Which sheet will let you see the most pictures in the dark? Which will let you see the fewest? Why do you think so?
 - **fair test:** We use the same torch, the same dark room and the same picture card every time. The torch and the card stay in the same places. We change only the sheet that the torch shines on. We count for the same time, ten seconds, each time.
 - **record:** Fill in the table. Then draw a bar for each sheet: as many boxes as pictures you saw.
 - **results table:** Sheet the torch shines on | My guess: how many pictures will I see? | How many pictures I saw
 - **s1 (2 min)**  
-  *Parent does:* 1. Draw six pictures on a white sheet with a thick black pen. Make them go from big to small. 2. Show your child the four sheets. 3. Let them feel each one.  
+  *Parent does:* 1. Make the picture card: draw six pictures on a white sheet with a thick black pen. Make them go from big to small. 2. Show your child the four sheets. 3. Let them feel each one.  
   *Parent says:* Here are four sheets: white paper, newspaper, black cloth and shiny foil. Soon we will shine a torch on each one in the dark.  
   *Child mode:* Look at the four sheets. Feel each one. Which one looks brightest?
 - **s2 (3 min)**  
@@ -221,19 +222,19 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   - Ask: Why did you guess that number for the foil? (good: It is shiny, so it will send lots of light.; It is like a mirror, so the light might go somewhere else.)
   - Note: Any guess is fine. Many children expect the shiny foil to win. Don't say what will happen.
 - **s3 (3 min)**  
-  *Parent does:* 1. In the darkest room you have at night, lay the torch flat on the floor. 2. Hold the white sheet up, one ruler length in front of the torch, with its face straight to the torch. 3. Stand the card beside the torch, facing the sheet. 4. Stand the book between the torch's front and the card.  
-  *Parent says:* The torch shines on the white paper. The book stops the torch shining straight on the pictures. Now let's switch off the room light and wait for one minute.  
+  *Parent does:* 1. In the darkest room you have at night, lay the torch flat on the floor. 2. Hold the white paper upright, one ruler length in front of the torch, facing the torch straight on. 3. Stand the card beside the torch, facing the white paper. 4. Stand the book between the front of the torch and the card.  
+  *Parent says:* The torch shines on the white paper. The book stops the torch shining straight on the pictures. Now let's switch off the room light. We wait for one minute, because our eyes need that long to get used to the dark.  
   *Child mode:* Help set it up. Then the room light goes off. Wait one minute with me.
-  - Note: You hold the sheet. A bathroom with the door shut works well. If light comes under the door, lay a towel along the gap. Check with the room light on that the torch beam does not land on the card itself. Keep every sheet in the same place, flat and straight to the torch.
+  - Note: You hold the sheet. A bathroom with the door shut works well. If light comes under the door, lay a towel along the gap. Check with the room light on that the torch beam does not land on the card itself. Keep every sheet in the same place, flat and facing the torch straight on.
 - **s4 (6 min)**  
   *Parent does:* 1. Switch the torch on. 2. Count to ten while your child looks at the card. 3. Your child says how many pictures they can name, big ones and small ones. 4. Write it down. 5. Do the same with the newspaper, the black cloth and the foil, in the same place.  
   *Parent says:* Look at the card. Count the pictures you can see. Now let's change the sheet. Same torch, same card, same place. How many now?  
   *Child mode:* Look at the card. How many pictures can you see? Now try the next sheet.
   - Ask: Which sheet showed the most pictures? (good: The white paper.; The one that sent the most light on to the card.)
-  - Note: In dim light we lose the small pictures first. White paper usually shows most of the six, newspaper fewer, and black cloth few or none. Foil is the surprise. Held flat and straight to the torch, it works like a mirror and sends the beam straight back, so the card may stay dark. Crumple it a little and flatten it again, and it spreads the light and lights the card better. Say what you really saw, even if it is odd.
+  - Note: In dim light we lose the small pictures first. White paper usually shows most of the six, newspaper fewer, and black cloth few or none. Foil is the surprise. When it is held flat and facing the torch straight on, it works like a mirror and sends the beam straight back, so the card may stay dark. Crumple it a little and flatten it again, and it spreads the light and lights the card better. Write down what you really saw, even if it is odd.
 - **s5 (3 min)**  
   *Parent does:* Put the white paper back. Then switch the torch off. Wait ten seconds.  
-  *Parent says:* The white paper made the pictures visible. Now I am switching the torch off. Is the paper still lighting the pictures?  
+  *Parent says:* The white paper let you see the pictures. Now I am switching the torch off. Is the paper still lighting the pictures?  
   *Child mode:* The torch goes off. Can the white paper still light the pictures?
   - Ask: What happened when the torch went off? (good: It all went dark.; The paper stopped lighting the pictures straight away.)
 - **s6 (3 min)**  
@@ -242,7 +243,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   *Child mode:* Which sheet helped most? Did the paper make its own light? How do you know?
   - Ask: What does the paper do with the torch's light? (good: It bounces it on to the pictures.; It sends the light on, but makes none.)
   - Ask: How is the white paper like the Moon? (good: The Moon bounces the Sun's light to us.; The Moon makes no light of its own, like the paper.)
-  - Check: Revathi, a girl in Kochi, shines a torch on white paper in a dark room. The paper lights up her drawing. Then she switches the torch off. What happens? → **The drawing goes dark**
+  - Check: You shine a torch on white paper in a dark room. The paper lights up your drawing. Then you switch the torch off. What happens? → **The drawing goes dark**
 ### e2 · The Blackest Black: a hole in a box (15 min)
 - **question:** Which looks darker: black paper, or a small hole into a closed box?
 - **predict:** Look at the black paper. Will the hole look darker, or just the same? Why do you think so?
@@ -251,7 +252,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **record:** Draw the box with its black paper and its hole. Colour the darkest part darkest. Write: the hole is darker because…
 - **results table:** What I looked at | My guess: how dark? | What I saw
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. If you have spare black paper or cloth, line the inside of the box with it. 2. Glue black paper over one outside side of the box. 3. Push a pencil through the middle to make a hole as wide as the pencil. 4. Close the lid.  
+  *Parent does:* 1. If you have spare black paper or cloth, line the inside of the box with it. 2. Glue black paper over one side of the box, on the outside. 3. Push a pencil through the middle of the black paper to make a hole as wide as the pencil. 4. Close the lid.  
   *Parent says:* We have covered the box with black paper. Now I will make a small hole in it. Black is the darkest colour we have.  
   *Child mode:* Watch the grown-up make a small hole in the black paper.
 - **s2 (3 min)**  
@@ -269,16 +270,17 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   *Parent does:* Ask your child to explain what they saw.  
   *Parent says:* Black paper sends back a little light. What about the hole? Why is it so dark?  
   *Child mode:* Why is the hole so dark? Where did the light go?
-  - Check: Thara, a girl in Mysuru, sees that the hole in her box is darker than black paper. Why? → **Almost no light comes back out of the hole**
+  - Note: Listen for this idea: the light goes into the hole and does not come back out, so almost none reaches your eyes. If your child says only that the hole is black, ask where the light went.
+  - Check: In the Blackest Black experiment, the hole in the box looks darker than the black paper. Why? → **Almost no light comes back out of the hole**
 
 ## Activities
 ### a1 · The Door Test: does the dark come out? (8 min)
 - **record:** Draw the door, the dark room and the lit room. Draw arrows to show what moved.
 - **s1 (2 min)**  
-  *Parent does:* 1. Switch off the light in a small room, such as the bathroom. 2. Put the white paper on its floor. 3. Your child stands inside. 4. You stand outside in the lit hall and close the door.  
+  *Parent does:* 1. Switch off the light in a small room, such as the bathroom. 2. Put a sheet of white paper on the floor of that room. 3. Your child stands inside. 4. You stand outside in the lit hall and close the door.  
   *Parent says:* Stand in the dark room and look at the white paper on the floor. Soon I will open the door. What do you think will happen? Why?  
   *Child mode:* Stand in the dark. Look at the paper. What will happen when the door opens?
-  - Note: If your child is nervous in the dark, go in with them and let them open the door. A little light under the door is fine; a towel along the gap makes it darker.
+  - Note: If your child is nervous in the dark, go in with them and let them open the door. A little light under the door is fine. A towel along the gap makes it darker.
 - **s2 (2 min)**  
   *Parent does:* Open the door very slowly, a little at a time.  
   *Parent says:* I am opening the door. Watch the paper. What do you see?  
@@ -298,15 +300,15 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 ### a2 · Where Is the Sun? Read the bright side of the Moon (10 min, 3 days)
 - **safety:** Look at the Moon only after the Sun has set or is hidden. Never look at the Sun itself.
 - **record:** Draw the Moon each evening. Draw an arrow from the bright side towards where the Sun went down.
-- **schedule:** day 1: Find the Moon in the evening. Draw its shape and which side is bright. Point to where the Sun went down. (4 min); day 3: Look again at the same time. Draw it again, then compare the two drawings. Which way did the bright side face each time? (6 min)
+- **schedule:** day 1: Find the Moon in the evening. Draw its shape and which side is bright. Point to where the Sun went down. (4 min); day 3: Two days later, look at the Moon again at the same time. Draw it again, then compare the two drawings. Which way did the bright side face each time? (6 min)
 - **s1 (4 min)**  
   *Parent does:* 1. In the week after Amavasya, the new Moon, look out after sunset. The Moon will be in the west, near where the Sun set. 2. Help your child find it. 3. Ask them to draw it.  
   *Parent says:* Can you find the Moon? Which side of it is bright? Now point to where the Sun went down.  
   *Child mode:* Find the Moon. Which side is bright? Point to where the Sun went down.
   - Note: A calendar with Amavasya and Purnima marked helps. The thin evening Moon is easiest to see in the first week after Amavasya. If clouds hide the Moon, try another night, or look at a Moon photo taken in the evening.
 - **s2 (3 min)**  
-  *Parent does:* Two days later, look again at the same time. Draw it again.  
-  *Parent says:* The Moon has moved and grown fatter. Which side is bright now? Is it still the side near the Sun?  
+  *Parent does:* Two days later, look at the Moon again at the same time. Ask your child to draw the Moon again.  
+  *Parent says:* The Moon has moved and grown fatter. Which side is bright now? Is it still the side nearer to where the Sun went down?  
   *Child mode:* Draw the Moon again. Which side is bright now?
   - Wait: Look again 2 days later
 - **s3 (3 min)**  
@@ -314,7 +316,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   *Parent says:* Look at your drawings. Which way did the bright side face each time? What does that tell us about where the Moon's light comes from?  
   *Child mode:* Look at your drawings. Which way did the bright side face?
   - Ask: Which way did the bright side face? (good: Towards where the Sun went down.; Towards the Sun.)
-  - Check: Ananya, a girl in Lucknow, sees the Moon in the evening. The bright side faces the place where the Sun has just set. What does this show? → **The Moon's light comes from the Sun**
+  - Check: You see the Moon in the evening. The bright side faces the place where the Sun has just set. What does this show? → **The Moon's light comes from the Sun**
 ### a3 · Arrows of Light: draw how moonlight reaches you (10 min)
 - **record:** Keep the drawing. Write one sentence under it: moonlight is…
 - **s1 (4 min)**  
@@ -337,7 +339,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 ### p1 · The Paper Moon Night-Light (25 min)
 - **record:** Draw your room lit by your paper Moon, with arrows from the torch to the Moon and on to the room.
 - **s1 (8 min)**  
-  *Parent does:* 1. Draw round the steel plate on the white paper. 2. Help your child cut out the circle. 3. They draw a few light grey patches and small round craters.  
+  *Parent does:* 1. Draw round the steel plate on the white paper. 2. Help your child cut out the circle. 3. Your child draws a few light grey patches and small round craters on it.  
   *Parent says:* The real Moon has dark patches and craters. Draw some on your Moon. Keep most of it white. Why do we keep it white?  
   *Child mode:* Draw round the plate. Cut it out. Add a few grey craters. Keep most of it white.
   - Ask: Why keep most of it white? (good: White sends back the most light.; So it lights the room better.)
@@ -352,14 +354,14 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   - Ask: What happened when the torch went off? (good: The paper Moon went dark.; The room went dark, because no light reached the Moon.)
   - Note: The light is soft and dim. Hold the book close to the paper Moon, and give your eyes a minute to get used to the dark.
 - **s4 (2 min)**  
-  *Parent does:* Ask the last question.  
-  *Parent says:* In our room, the torch is the Sun. What is the real Moon's torch?  
+  *Parent does:* Ask your child what lights the real Moon.  
+  *Parent says:* In our room, the torch lights the paper Moon. What lights the real Moon?  
   *Child mode:* Your torch is like the Sun. What lights the real Moon?
-  - Check: Ishita, a girl in Surat, lights her room with a paper Moon and a torch. What is the torch like? → **The Sun**
+  - Check: You light your room with a paper Moon and a torch. What is the torch like? → **The Sun**
 
 ## Challenges
 ### c1 · Light the Hidden Picture (15 min)
-- **problem:** Meera, a girl in Hyderabad, puts a picture behind a big box in a dark room. The torch is fixed on the other side and shines at the wall. She may not move the torch. How can she light up the picture, the way the Moon lights up the night when the Sun is hidden?
+- **problem:** A picture is behind a big box in a dark room. The torch is on the other side of the box and shines at the wall. You may not move the torch. How can you get light to the picture? The Moon does something like this at night. The Sun is on the far side of the Earth. Its light bounces off the Moon to reach us.
 - **your turn:** Find two ways to light the hidden picture. Which way made it brightest? Which way lit up the most of the room?
 - **constraints:** The torch stays where it is, pointing the same way.; The box stays where it is.; Use only things you already have at home.
 - **general:** Hold a mirror in the torch beam and turn it until the light lands on the picture.; Hold a big white sheet where the beam hits, so it spreads light all round, even behind the box.
@@ -377,30 +379,30 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   *Parent does:* Talk about which way worked best.  
   *Parent says:* Which way worked best? Which light source did every way start with?  
   *Child mode:* Which way was best? Where did the light start?
-  - Check: Meera lit the hidden picture with a mirror. Where did the light on the picture start? → **At the torch**
+  - Check: You light the hidden picture with a mirror. Where did the light on the picture start? → **At the torch**
 
 ## Worksheets
 ### Light Sources and the Moon (core) (core, 10 questions)
-1. (sort) A grown-up reads each one. Does it make its own light, or does it only send on light? Colour the light sources yellow.  
+1. (sort) A grown-up reads out each thing. Does it make its own light, or does it only send on light? Colour the light sources yellow.  
    **Answer:** The Sun → Light source; The Moon → Sends on light; A tube light → Light source; A white wall → Sends on light; A lit diya → Light source; A steel plate → Sends on light. *Why:* The Sun, the tube light and the diya make their own light. The Moon, the wall and the plate only send on light that falls on them.
-2. (mcq) Remember the Paper Moon test, where a torch shone on different sheets in the dark. Which sheet let you see the most pictures?  
+2. (mcq) A torch shines on different sheets in the dark, and each sheet bounces light onto a card of pictures. Which sheet will let you see the most pictures?  
    Options: White paper / Black cloth / Newspaper  
    **Answer:** White paper. *Why:* White paper sends back most of the light that falls on it. Black cloth takes in most of it, and newspaper is in between.
 3. (draw) Draw the Sun, the Moon and your home at night. Draw arrows to show how the light gets to your window.  
    **Answer:** An arrow from the Sun to the Moon, and an arrow from the Moon to the home.. *Why:* A strong drawing starts the light at the Sun, not at the Moon, and shows the light bouncing off the Moon.
 4. (truefalse) A white kolam on a doorstep makes its own light at dusk.  
    **Answer:** False. *Why:* False. A kolam only sends on light that falls on it from the sky. It is easy to see because white sends back a lot of light.
-5. (mcq) Where would it be darkest?  
+5. (mcq) Which of these places would be the darkest?  
    Options: Inside a shut steel cupboard / Under a thin white sheet / Behind a glass window  
    **Answer:** Inside a shut steel cupboard. *Why:* No light can get into a shut cupboard, so nothing is lit and it is dark. Light passes through glass and a thin sheet.
 6. (match) Draw a line from each thing to where its light comes from.  
-   **Answer:** The Moon → The Sun; A white page at night → The lamp; A diya → Its own flame. *Why:* The Moon sends on sunlight, and the page sends on lamplight. The diya makes its own light.
+   **Answer:** The Moon → The Sun; A white page lit by a lamp at night → The lamp; A diya → Its own flame. *Why:* The Moon sends on sunlight, and the page sends on lamplight. The diya makes its own light.
 7. (write) Say out loud, and a grown-up writes it down: in the Door Test, light came into the dark room. Why did no dark come out into the hall?  
    **Answer:** Dark is not a thing that can move. It is only where light is not arriving. Light moves out from a light source.. *Why:* A strong answer says that dark is no light, so there is nothing to come out.
 8. (fill) Darkness is what we see where no ____ is arriving.  
    **Answer:** light. *Why:* Darkness is the absence of light.
 9. (perspective) Kavya, aged 7, and her cousin Arjun, aged 5, look at the full Moon from their terrace in Madurai.  
-   **Answer:** Kavya is right about where the light starts. Arjun is right that the Moon is very bright at night.. *Why:* A strong answer uses evidence, such as the white paper going dark when the torch went off, or the bright side facing the Sun. It also says fairly that Arjun's noticing is true: the Moon really is bright.
+   **Answer:** Kavya is right about where the light starts. Arjun is right that the Moon is very bright at night.. *Why:* A strong answer uses evidence, such as the white paper going dark when the torch went off, or the bright side of the Moon facing the Sun. It also says what Arjun got right: the Moon really is bright.
 10. (count) Look at this street at night. Count only the light sources. Write the number.  
    **Answer:** 4. *Why:* There are 4 light sources: a street light, a lit window, a scooter headlight and a star. The Moon, the shiny car roof and the white wall only send on light.
 ### Bouncing Light and Darkness (stretch) (stretch, 10 questions)
@@ -418,13 +420,13 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
    **Answer:** The white shirt sends back more of the light that falls on it. *Why:* White sends back most of the light that falls on it, as the white paper did in the Paper Moon test. Black takes most of it in.
 6. (order) Put the journey of moonlight in order, from start to end.  
    **Answer:** ['It leaves the Sun', 'It reaches the Moon', 'It bounces off the grey rock', 'It lands on your face']. *Why:* Moonlight starts at the Sun, travels to the Moon, bounces off its rock and comes down to us.
-7. (perspective) In a power cut, Kavya's Amma, her Paati and her friend Farhan, aged 8, talk about what darkness is.  
-   **Answer:** Amma's idea fits the door test best: light came in, and no dark ever came out. Paati is right that we really do see the dark. Farhan's idea does not fit, because nothing came in when the lights went off.. *Why:* A strong answer uses the door test as evidence. People in India argued about this long ago: some schools said darkness is only missing light, and Jain thinkers counted it as something real.
+7. (perspective) In a power cut, Kavya's Amma, her Paati and her friend Meena, aged 8, talk about what darkness is. When you open the door of a dark room onto a lit hall, light comes into the room, but no dark goes out into the hall.  
+   **Answer:** Amma's idea fits the door best: light came in, and no dark ever came out. Paati is right that we really do see the dark. Meena's idea does not fit, because nothing came in when the lights went off.. *Why:* A strong answer uses the door as evidence. People in India argued about this long ago: some schools said darkness is only missing light, and Jain thinkers counted it as something real.
 8. (write) A cloud covers the Moon, and the terrace goes dark. Where did the dark come from? Say it, and a grown-up writes it.  
    **Answer:** The dark did not come from anywhere. The cloud blocked the moonlight, so light stopped arriving on the terrace.. *Why:* A strong answer says what changed: the light stopped arriving. Nothing dark arrived.
-9. (draw) Draw the box from the Blackest Black test. Colour the hole and the black paper. Make the darker one darker.  
+9. (draw) Draw a shut box with a small hole in its side, and a piece of black paper next to it. Colour the hole and the black paper. Make the darker one darker.  
    **Answer:** The hole is coloured darker than the black paper.. *Why:* Black paper sends back a little light. Almost no light comes back out of the hole, so it looks darkest.
-10. (mcq) Leela, a girl in Pune, sees the Moon in the daytime. It looks pale and faint. Why?  
+10. (mcq) In the daytime, the Moon looks pale and faint. Why?  
    Options: The sky around it is bright too / The Moon makes less light in the day / It is a different Moon  
    **Answer:** The sky around it is bright too. *Why:* The Moon reflects the same sunlight all the time. At night the sky around it is black, so it looks bright. In the day the sky is bright too, so the Moon looks pale.
 ### Thinking About Light (challenge) (challenge, 10 questions)
@@ -433,19 +435,19 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 2. (mcq) Moon rock is dark grey. It reflects only about one tenth of the sunlight that falls on it. Why can the Moon still light up a terrace?  
    Options: Sunlight is very, very strong / The Moon is very hot / The Moon stores light in the day  
    **Answer:** Sunlight is very, very strong. *Why:* Sunlight is so strong that even one tenth of it, bounced off the Moon, is enough to see by at night.
-3. (perspective) Two friends in Kolkata, Rimi and Joy, test bouncers in the dark.  
+3. (perspective) Two friends in Kolkata, Moushumi and Joy, do the Paper Moon test. They ask which sheet bounces light best.  
    **Answer:** Both can be right in different ways. Foil sends light in one direction, so it makes a very bright patch where it points. White paper spreads light everywhere, so it lights the whole card more evenly.. *Why:* A strong answer sees that 'best' depends on what you want: one bright spot, or light spread all round.
-4. (write) Divya, a girl in Bhopal, says on a moonlit night: the Sun is lighting my floor. Is she right? Explain. Say it, and a grown-up writes it.  
-   **Answer:** Yes. Moonlight is sunlight that bounced off the Moon. So the light on her floor started at the Sun, about eight minutes earlier.. *Why:* A strong answer traces the light back to the Sun and says the Moon only sends it on.
+4. (write) On a moonlit night, someone says: the Sun is lighting my floor. Is that right? Explain. Say it, and a grown-up writes it.  
+   **Answer:** Yes. Moonlight is sunlight that bounced off the Moon. So the light on the floor started at the Sun, about eight minutes earlier.. *Why:* A strong answer traces the light back to the Sun and says the Moon only sends it on.
 5. (sort) Sort these into 'makes light' and 'only sends light on'.  
    **Answer:** Lightning → Makes light; A cat's eyes shining in a torch beam → Only sends light on; A glow-worm → Makes light; A bicycle reflector → Only sends light on; A star → Makes light. *Why:* Lightning, glow-worms and stars make their own light. A cat's eyes and a bicycle reflector shine only when light falls on them.
 6. (mcq) If the Sun suddenly stopped shining, what would happen to the Moon about eight minutes later?  
    Options: It would go dark / It would keep shining / It would shine brighter  
    **Answer:** It would go dark. *Why:* Sunlight takes about eight minutes to reach the Moon. After that, no more light would arrive, so the Moon would have nothing to send on.
-7. (draw) Draw a picture that shows darkness. Then write: how did you show it, when darkness is no light?  
+7. (draw) Draw a picture that shows darkness. Darkness is no light, so how did you show it? Write one sentence.  
    **Answer:** Any honest drawing, for example a black shut cupboard, with a sentence like: I drew no light reaching inside.. *Why:* A strong answer sees that we draw darkness by leaving out light, or by showing that light is blocked.
-8. (label) This is the Paper Moon test from above. Label the light source, the bouncer and the thing being lit.  
-   **Answer:** ['light source', 'bouncer', 'thing being lit']. *Why:* The torch makes the light. The white paper sends it on. The picture card is lit by the bounced light, the way the Earth is lit by the Moon.
+8. (label) This picture shows the Paper Moon test. Label the thing that makes the light, the thing that sends the light on, and the thing that is lit.  
+   **Answer:** ['makes the light', 'sends the light on', 'is lit']. *Why:* The torch makes the light. The white paper sends it on. The picture card is lit by the bounced light, the way the Earth is lit by the Moon.
 9. (fill) Moonlight is sunlight that has ____ off the Moon.  
    **Answer:** bounced. *Why:* The Moon makes no light. Sunlight bounces off its grey rock and comes down to us.
 10. (truefalse) Astronauts on the Moon saw that its ground is bright white, like snow.  
@@ -472,7 +474,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 5. (mcq) Which side of the Moon is bright?  
    Options: The side facing the Sun / The side facing the stars / The top side  
    **Answer:** The side facing the Sun. *Why:* Sunlight falls on the side facing the Sun, so that side is bright. The other side is dark.
-6. (mcq) Priya, a girl in Indore, shines a torch on white paper in the dark. The paper lights up her drawing. What is the paper like?  
+6. (mcq) You shine a torch on white paper in the dark. The paper lights up your drawing. What is the paper like?  
    Options: The Moon / The Sun / A star  
    **Answer:** The Moon. *Why:* The paper sends on the torch's light, the way the Moon sends on the Sun's light.
 7. (mcq) Which sheet sends back the least torch light?  
@@ -481,7 +483,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 8. (mcq) What is darkness?  
    Options: Where no light is arriving / A black gas that fills rooms / A kind of shadow-light  
    **Answer:** Where no light is arriving. *Why:* Darkness is the absence of light. Where no light arrives, we see dark.
-9. (mcq) In the Paper Moon test, why did we keep the torch and the card in the same places?  
+9. (mcq) In a test of different sheets under one torch, why do we keep the torch and the card in the same places?  
    Options: So only the sheet changed, to make the test fair / Because the torch was heavy / So the pictures would not move  
    **Answer:** So only the sheet changed, to make the test fair. *Why:* In a fair test, we change only one thing. Then we know the sheet made the difference.
 10. (mcq) Why must you never look straight at the Sun?  
@@ -525,10 +527,10 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - How does the Moon cut its hair? *Eclipse it!*
 
 ## Connected maths
-- In the Paper Moon test, Gayathri, a girl in Coimbatore, saw 6 pictures with white paper and 2 with newspaper. How many more did the white paper show? **4 more.**. Count on from 2 to 6: 3, 4, 5, 6. That is 4. So the white paper showed 4 more pictures than the newspaper. (queues `math.addition-subtraction.meaning.L2`)
-- Mona, a girl in Nagpur, wrote down these made-up results: white paper 6, foil 4, newspaper 3, black cloth 1. Put the sheets in order from most pictures to fewest. **White paper, foil, newspaper, black cloth.**. 6 is the biggest, then 4, then 3, then 1. So the order is white paper, foil, newspaper, black cloth. (queues `math.number-sense.comparing-ordering.L2`)
-- Sneha, a girl in Jaipur, did the Paper Moon test, but her black cloth showed 5 pictures, nearly as many as white paper. Her friend says a little light was coming under the door. What would you change, and why? **Put a towel along the gap under the door, then test again.**. Light from under the door was lighting the pictures too, so the count was not only from the bounced light. Blocking it makes the test fair. (queues `math.logic.problem-solving.L2`)
-- Revathi, a girl in Kochi, sees the full Moon rise at 6 o'clock in the evening. She watches it until 8 o'clock. For how many hours did she watch? **2 hours.**. From 6 to 7 is 1 hour. From 7 to 8 is 1 more hour. So she watched for 2 hours. (queues `math.time.telling-time.L2`)
+- In the Paper Moon test, the white paper showed 6 pictures and the newspaper showed 2. How many more pictures did the white paper show? **4 more.**. Count on from 2 to 6: 3, 4, 5, 6. That is 4. So the white paper showed 4 more pictures than the newspaper. (queues `math.addition-subtraction.meaning.L2`)
+- Here are some made-up results from the Paper Moon test: white paper 6, foil 4, newspaper 3, black cloth 1. Put the sheets in order from most pictures to fewest. **White paper, foil, newspaper, black cloth.**. 6 is the biggest, then 4, then 3, then 1. So the order is white paper, foil, newspaper, black cloth. (queues `math.number-sense.comparing-ordering.L2`)
+- In a Paper Moon test, the black cloth showed 5 pictures, nearly as many as the white paper. A little light was coming under the door. What would you change, and why? **Put a towel along the gap under the door, then test again.**. Light from under the door was lighting the pictures too, so the count was not only from the bounced light. Blocking it makes the test fair. (queues `math.logic.problem-solving.L2`)
+- The full Moon rises at 6 o'clock in the evening. You watch it until 8 o'clock. For how many hours did you watch? **2 hours.**. From 6 to 7 is 1 hour. From 7 to 8 is 1 more hour. So you watched for 2 hours. (queues `math.time.telling-time.L2`)
 
 ## Song
 Borrowed Light (sci.light.L2): Topic-level song for Light, seeing and shadows L2

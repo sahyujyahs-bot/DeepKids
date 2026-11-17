@@ -3,7 +3,7 @@
 
 **Summary.** Why does green moss grow on an old brick wall, but not on the shiny granite steps beside it? A habitat is the place where a plant or an animal lives and finds what they need: water, food, air, shelter and the right warmth. A pond, a forest, a desert and the seashore are habitats, and each one suits different living beings. Rocks are part of every habitat. They give shelter, some of them hold water, and over a very long time they crumble into soil. Your child stands a clay diya and a smooth stone in water, puts mustard seeds on top of both, and finds out which one can be a home for a seed.
 
-**Intro.** *Imagine a fish in the hot sand of the Thar desert, and a camel standing in the sea. Why would neither of them be all right for long?* The fish needs water all around, to breathe through gills. The camel needs dry land to walk on and fresh water to drink, and the sea is salty. Each living being has a place that suits their body. That place is called their habitat. In this unit we look at habitats near and far: a pond, a forest, a desert, the seashore, and even a rock. Then we test whether a stone can be a home for a seed.
+**Intro.** *Put a fish on the hot sand of the Thar desert, or a camel in the sea, and neither would be all right for long. Why?* The fish needs water all around, to breathe through gills. The camel needs dry land to walk on and fresh water to drink, and the sea is salty. Each living being has a place that suits their body. That place is called their habitat. In this unit we look at habitats near and far: a pond, a forest, a desert, the seashore, and even a rock. Then we test whether a stone can be a home for a seed.
 
 ## Learning outcomes
 0. By the end I can say what a habitat is, and name what a habitat gives: water, food, air, shelter and the right warmth.
@@ -40,7 +40,7 @@ A pond is wet all the time, so fish, frogs and lotus live there. A forest is sha
 ### Plants in different habitats · *defined*
 **Definition:** Plants grow in almost every habitat on land and in water, and each kind of plant grows best in the habitat that suits them.
 
-A lotus grows in a pond. Their roots hold the mud at the bottom, and their wide leaves float on top. A cactus grows in dry, sandy places and stores water in the thick stem. Moss grows on damp walls and stones, and drinks water through their leaves. Plants do not walk, so they live where their seed landed and found what they needed.
+A lotus grows in a pond. The roots hold on to the mud at the bottom, and the wide leaves float on top. A cactus grows in dry, sandy places and stores water in the thick stem. Moss grows on damp walls and stones, and drinks water through the leaves. Plants do not walk, so they live where their seed landed and found what they needed.
 - e.g. A money plant can grow in a bottle of water on a windowsill.
 - e.g. Aloe vera grows well in a sunny pot that dries out between waterings.
 - e.g. Ferns and moss grow on the shady, wet walls of old wells.
@@ -72,7 +72,7 @@ A dry mustard seed can stay the same in a jar for months. Give the seed water an
 - Seeds need water to start growing. *How we know:* Dry seeds stay unchanged in a jar for months. Given water and warmth, many kinds sprout in a day or two. In the diya and stone test, the seeds on the wet clay sprouted, and the seeds on the dry stone did not.
 
 ## How we found out
-**Marjory Stoneman Douglas, an American writer, with the water scientist Garald Parker, The 1940s; her book came out in 1947.** More than 100 years ago, many people in Florida, in the United States, called the Everglades a useless swamp. It was a huge, flat, wet land of tall sawgrass, full of alligators, fish and wading birds. Engineers dug long canals to drain the water away, so that the land could be dried out for farms and towns. A writer called Marjory Stoneman Douglas set out to study the Everglades. She spent about five years reading, travelling and asking scientists questions. One of them, a water scientist called Garald Parker, was finding out where the water moved, and how it filled the ground water that the towns drank. Douglas understood that the Everglades was not still, useless water. It was a very wide, very shallow river, moving slowly south through the grass. In 1947 she published a book called The Everglades: River of Grass. That same year, part of the Everglades became a national park. Douglas spent the rest of her long life, until she was 108, working to protect it.  
+**Marjory Stoneman Douglas, an American writer, with the water scientist Garald Parker, The 1940s; her book came out in 1947.** More than 100 years ago, many people in Florida, in the United States, called the Everglades a useless swamp. The Everglades was a huge, flat, wet land of tall sawgrass, full of alligators, fish and wading birds. Engineers dug long canals to drain the water away, so that the land could be dried out for farms and towns. A writer called Marjory Stoneman Douglas set out to study the Everglades. She spent about five years reading, travelling and asking scientists questions. One of them, a water scientist called Garald Parker, was finding out where the water moved, and how it filled up the water under the ground that the towns drank. Douglas understood that the Everglades was not still, useless water. It was a very wide, very shallow river, moving slowly south through the grass. In 1947 she published a book called The Everglades: River of Grass. That same year, part of the Everglades became a national park. Douglas spent the rest of her long life, until she was 108, working to protect it.  
 *What people believed before:* That the Everglades was a useless swamp of still water, best drained away. Douglas, using what water scientists had found, showed that it was a slow, wide river of grass, a habitat for many living beings, and a source of water for people.
 
 ## Challenging perspectives
@@ -90,14 +90,14 @@ A dry mustard seed can stay the same in a jar for months. Give the seed water an
 We have looked at habitats near and far, and tested whether a seed can live on a stone. Now we ask what that tells us about rocks, seeds and the places we call home.
 
 **Deep truth.** Our clay diya and smooth stone stood in the same plate of water. Water climbed up through the clay, but not through the stone. Mustard seeds sprouted on the wet clay and dried up on the stone. So a rock is a better home for a plant when the rock can hold water.  
-*Habit it breaks:* We split the world into living beings and the bare, non-living places they live on, and we think all rocks are the same hard background. But rocks differ in how much water they hold. Rocks with tiny holes stay damp and suit moss and seeds. Smooth rocks dry fast, and few plants grow on them.  
+*Habit it breaks:* We usually think of rocks as the hard, lifeless background that living beings live on, and we think all rocks are the same. But rocks differ in how much water they hold. Rocks with tiny holes stay damp and suit moss and seeds. Smooth rocks dry fast, and few plants grow on them.  
 *Evidence:* In the diya and stone test, the water, the seeds, the place and the time were the same for both. Only what the seeds sat on was different, and only the clay's top stayed wet.
 
 - *who am i:* You are an animal who needs water, food and shelter every day, just like a snail or a frog. Your home is your habitat.
 - *what is life:* A seed can wait in a dry jar for months. Life starts again when the seed finds a place that gives water.
 - *what is this world:* The world is made of many habitats side by side. Even the rocks are not all the same: some become homes, and some stay bare.
 
-The same rain falls on a brick wall and on a granite step. On the brick, the water stays, and moss grows. On the granite, the water runs off, and the step stays bare. Over hundreds of years, rain and roots break rock into soil, the soil feeds plants, and the plants feed animals, including us. So one rock can, in time, become a pond's mud, a forest floor or the field our rice grows in. Everything is conscious in its own way, the waiting seed and the rock where the seed lands too.
+The same rain falls on a brick wall and on a granite step. On the brick, the water stays, and moss grows. On the granite, the water runs off, and the step stays bare. Over hundreds of years, rain and roots break rock into soil, the soil feeds plants, and the plants feed animals, including us. So one rock can, in time, become a pond's mud, a forest floor or the field our rice grows in. Everything is conscious in its own way: the waiting seed, and also the rock where the seed lands.
 
 - **Chandogya Upanishad 6.12:** A teacher called Uddalaka asks his son Shvetaketu to break open a banyan fruit, and then one of the tiny seeds inside. Shvetaketu looks inside the seed and sees nothing. Uddalaka says that from this tiny thing that cannot be seen, a great banyan tree grows. (Our mustard seeds looked like dry dots. Given a wet place, each one sent out a root and leaves. A whole plant was waiting inside, for the right habitat.)
 - **Tao Te Ching, chapter 78:** Nothing in the world is softer than water. Yet nothing is better at wearing away what is hard and strong. (Rain is soft, but over hundreds of years it cracks and wears down rock. That is how rock slowly becomes soil, the home of roots and earthworms.)
@@ -107,10 +107,10 @@ The same rain falls on a brick wall and on a granite step. On the brick, the wat
 - Practice, Hold a Stone (3 min): Pick up a small stone and close your hand round it. Shut your eyes. Breathe slowly three times. Feel the stone get warm from your hand. Now open your hand. Touch the stone with one finger. Is it rough or smooth? Would rain stay on it, or run off? Who might live on a stone like this?
 - Ask: The stone got warm in your hand. Where did the warmth come from?
 - Ask: Soil is made from rock that broke very slowly. Is the rock in a flowerpot's soil very old or very new?
-- Ask: A seed waits in a jar for months. Is the seed doing anything while they wait?
+- Ask: A seed waits in a jar for months. Is the seed doing anything during all that waiting?
 
 ## Deep and big questions
-- *deep:* Why does moss grow on an old brick wall, but not on shiny granite steps? (hint: Think about the diya and the stone. Which one held water?)
+- *deep:* Why does moss grow on an old brick wall, but not on shiny granite steps? (hint: Think about the diya and stone test. Which one soaked up water: the clay diya or the smooth stone?)
 - *deep:* How does a rock turn into soil? (hint: Think about rain, hot sun, cold nights and roots pushing into cracks, for a very long time.)
 - *big:* Is our city a habitat? Who else lives in it with us? (hint: Think about crows, pigeons, ants, geckos and the trees on the road.)
 - *big:* If a forest is cut down to build houses, where do the animals who lived there go? (hint: Can every animal move? Can every animal find a new home that suits them?)
@@ -128,7 +128,7 @@ Farhan was seven. His cousin Lakshmi was ten, and she was staying with them for 
 
 He ran upstairs and came back with an empty steel tiffin box. He put the snail inside. He put in a crumb of biscuit too, in case she was hungry. Then he closed the lid and took the box home.
 
-Lakshmi said nothing. She only said, "Let's look at her tomorrow."
+Lakshmi did not argue. She only said, "Let's look at her tomorrow."
 
 Farhan put the box on the sunny windowsill, so that the snail would be warm.
 
@@ -182,7 +182,7 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   *Parent says:* Each of these mats is a habitat. Each card shows someone in the wrong home. Your job is to rescue them.  
   *Child mode:* These are four habitats. Each card shows someone in the wrong home. Rescue them!
 - **s2 (7 min)**  
-  *Parent does:* Take turns. After each move, ask why before reading the back.  
+  *Parent does:* Take turns. After each card is put on a mat, ask your child why before reading the back.  
   *Parent says:* A fish on desert sand! What is wrong here? Where should the fish go, and why?  
   *Child mode:* Read the card. What is wrong? Where should they go? Say why.
   - Ask: Why can a fish not live in the desert? (good: There is no water.; A fish breathes with gills, in water.; The fish would dry out.)
@@ -194,12 +194,12 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   *Child mode:* Count your rescues. Who lives in the desert now?
   - Check: Which mat has hot sand by day, cold nights and very little rain? → **Desert**
 ### g2 · Guess My Habitat: a yes-or-no game (10 min)
-- **rules:** One player picks a card and keeps it hidden. Look at the back of the card, so that you answer truthfully.; The others ask yes-or-no questions about where the animal lives. For example: Is it wet? Is it hot? Are there trees?; You may ask one question about the animal's body, such as: Does the animal have fur? Does the animal have a shell?; The player with the card answers only yes or no.; When you think you know, say the animal's name. You may guess once.; If you guess right, you pick the next card. If not, the player with the card shows the card.; Play until everyone has picked a card once. Try to guess in 6 questions or fewer.
+- **rules:** One player picks a card and keeps it hidden. This player looks at the back of the card, so that they can answer truthfully.; The others ask yes-or-no questions about where the animal lives. For example: Is it wet? Is it hot? Are there trees?; You may ask one question about the animal's body, such as: Does the animal have fur? Does the animal have a shell?; The player with the card answers only yes or no.; When you think you know, say the animal's name. You may guess once.; If you guess right, you pick the next card. If not, the player with the card shows the card.; Play until everyone has picked a card once. Try to guess in 6 questions or fewer.
 - **Printable cards: 8 animal cards to cut out:** Camel (back: Habitat: the desert. Hot and dry, with sand and thorny plants.) [picture]; Frog (back: Habitat: a pond. Wet, with mud, water plants and insects to eat.) [picture]; Hornbill (back: Habitat: a forest. Tall trees with fruit, and holes in trunks for nests.) [picture]; Ghost crab (back: Habitat: the seashore. Wet sand, salty water and waves.) [picture]; Rock agama lizard (back: Habitat: rocky hills. Warm rocks to lie on and cracks to hide in.) [picture]; Fish (back: Habitat: a pond, a river or the sea. Always in water.) [picture]; Snail (back: Habitat: damp places, like wet walls, shady plants and old leaves.) [picture]; Squirrel (back: Habitat: trees, in towns and forests. High branches for a safe nest.) [picture]
 - **s1 (2 min)**  
   *Parent does:* Cut out the 8 cards. Read each one aloud once. Then the grown-up picks a card first, looks at the back and answers the questions, to show how to play.  
-  *Parent says:* I have picked an animal. Ask me about where it lives. Is it wet? Is it hot? Are there trees? Then guess.  
-  *Child mode:* A grown-up has picked an animal. Ask where it lives. Then guess.
+  *Parent says:* I have picked an animal. Ask me about the place where the animal lives. Is it wet? Is it hot? Are there trees? Then guess.  
+  *Child mode:* A grown-up has picked an animal. Ask about the place where the animal lives. Then guess.
 - **s2 (6 min)**  
   *Parent does:* Take turns picking and guessing. Count the questions on your fingers.  
   *Parent says:* Good question. Yes, it is wet. What else do you need to know?  
@@ -220,7 +220,7 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - **fair test:** Both stand in the same plate, in the same water, in the same place, for the same time. Both get 10 seeds from the same jar. Only one thing is different: what the seeds sit on.
 - **record:** Draw the diya and the stone in the plate. Draw the seeds on each top as they looked on day 3. Write the number that sprouted under each.
 - **results table:** What the seeds sat on | Top wet or dry after 15 minutes? | Seeds sprouted on day 2 (out of 10) | Seeds sprouted on day 3 (out of 10)
-- **schedule:** day 1: Drop water on both, stand them in the plate, wait 15 minutes, feel the tops, and put 10 seeds on each. (15 min); day 2: Top up the water. Count the sprouted seeds on each top. (5 min); day 3: Count again. Say what you found, and why. (5 min)
+- **schedule:** day 1: Drop water on the diya and the stone, stand them in the plate of water, wait 15 minutes, feel the tops, and put 10 seeds on each. (15 min); day 2: Top up the water. Count the sprouted seeds on each top. (5 min); day 3: Count again. Say what you found, and why. (5 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Turn the diya upside down. 2. Let your child drop one spoon of water on the diya and one on the stone. 3. Watch both for a minute.  
   *Parent says:* Drop a spoon of water on each. Watch closely. Where does the water go on the diya? And on the stone?  
@@ -229,8 +229,8 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   - Note: Unpainted clay soaks up water at once and turns dark. On a smooth stone the drop sits in a bead or runs down the side. If your diya is painted or shiny, use a piece of broken clay pot or brick instead.
 - **s2 (3 min)**  
   *Parent does:* 1. Stand the diya, upside down, and the stone side by side in the plate. 2. Pour water into the plate until it is one finger deep. 3. Put 20 seeds in the small bowl with a spoon of water, to soak while you wait.  
-  *Parent says:* Seeds will sit on top of each one. On which top will they sprout? Why do you think so?  
-  *Child mode:* Seeds will sit on top. Where will they sprout? Why do you think so?
+  *Parent says:* Soon we will put mustard seeds on top of the diya and on top of the stone. On which top will they sprout? Why do you think so?  
+  *Child mode:* Mustard seeds will sit on the diya and on the stone. Where will they sprout? Why?
   - Ask: Where do you think the seeds will sprout? Why? (good: On the diya, because the clay drinks water.; On both, because both are in water.; On neither, because there is no soil.)
   - Note: Write down your child's guess and their reason. Any guess is fine. The test will answer it.
   - Wait: Leave them for 15 minutes.
@@ -242,13 +242,13 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   - Note: The water climbs through tiny holes in the clay, the way water climbs up a cloth dipped in a bucket. The stone's top stays dry. Put the plate in a bright place, but not in hot afternoon sun.
   - Wait: Leave the plate for two days. Each morning, top up the water so the plate stays one finger deep.
 - **s4 (5 min)**  
-  *Parent does:* On day 2 and day 3, count the seeds with a tiny white root or green leaves. Count each top. Write the numbers down.  
+  *Parent does:* On day 2 and day 3, count the seeds with a tiny white root or green leaves. Count the seeds on the diya and the seeds on the stone separately. Write the numbers down.  
   *Parent says:* Let's count. How many seeds on the clay have sprouted? How many on the stone?  
   *Child mode:* Count the sprouted seeds on each top. Write the numbers.
   - Ask: What do the seeds on the stone look like? (good: Dry and hard.; The same as before.; They did not grow.)
-  - Note: Usually most seeds on the clay sprout in one or two days, and the seeds on the stone dry out and do not sprout. In very damp monsoon weather, a few stone seeds may sprout. Then compare how many and how fast. If no seeds sprout anywhere in three days, the seeds may be old: try methi seeds or a new packet. If the diya's top looks dry by day 2, the room is very hot or windy, so move the plate to a shadier spot.
+  - Note: Usually most seeds on the clay sprout in one or two days, and the seeds on the stone dry out and do not sprout. In very damp monsoon weather, a few seeds on the stone may sprout. If that happens, compare how many sprouted on each top, and how fast. If no seeds sprout anywhere in three days, the seeds may be old: try methi seeds or a new packet. If the diya's top looks dry by day 2, the room is very hot or windy, so move the plate to a shadier spot.
 - **s5 (5 min)**  
-  *Parent does:* Ask your child to say three things: what they think, what they saw, and why. Then look back at their guess together.  
+  *Parent does:* Ask your child to say three things: what they found, what they saw, and why it happened. Then look back at their guess together.  
   *Parent says:* Tell me what you found. What did you see? Why do you think the seeds grew on one and not the other? Was your guess right?  
   *Child mode:* Say what you found. What did you see? Why did it happen?
   - Check: Why did the seeds sprout on the clay diya, and not on the smooth stone? → **The clay soaked up water and kept the seeds wet**
@@ -272,17 +272,18 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   *Parent does:* Walk through the flat and touch things made of rock. Count them together.  
   *Parent says:* Rock is all around us. Let's find things made of rock. The kitchen counter? The floor? The grinding stone?  
   *Child mode:* Find things made of rock in your home. Count them.
-  - Note: Things made of rock: a granite counter, a marble, Kota stone or granite floor, a grinding stone (ammikal, sil-batta or ammi), pebbles in a plant pot, and the sand in cement walls. Bricks and clay pots are made from clay, which is rock broken very small.
+  - Note: Things made of rock: a granite counter, a floor of marble, Kota stone or granite, a grinding stone (ammikal, sil-batta or ammi), pebbles in a plant pot, and the sand in cement walls. Bricks and clay pots are made from clay, which is rock broken very small.
 - **s2 (5 min)**  
   *Parent does:* Hold the two stones over the dark paper. Rub them hard together for one minute. Look at what falls.  
   *Parent says:* Rub the stones hard for one minute. What falls on the paper? Now look at a pinch of soil next to it.  
   *Child mode:* Rub two stones hard for one minute. What falls on the paper?
   - Ask: How is the rock dust like the soil? How is it different? (good: Both are tiny bits.; The soil is darker.; The soil has bits of old leaves in it.)
-  - Note: Bricks give the most dust, and hard stones give only a pinch. Tell your child not to blow the dust and to wash their hands after. A little fine grey or brown dust falls. Soil is made of rock grains like this, mixed with bits of dead plants. In nature, rain, sun and roots do this rubbing and breaking for hundreds of years.
+  - Note: A little fine grey or brown dust falls. Bricks give the most dust, and hard stones give only a pinch. Tell your child not to blow the dust, and to wash their hands afterwards. Soil is made of rock grains like this, mixed with bits of dead plants. In nature, rain, sun and roots do this rubbing and breaking for hundreds of years.
 - **s3 (3 min)**  
-  *Parent does:* Look again at the dust and the soil. Ask your child how long it would take to make a whole pot of soil this way.  
-  *Parent says:* Rain and sun break rocks much more slowly than your hands. How long might a whole field of soil take to make?  
-  *Child mode:* How long would a whole pot of soil take to make?
+  *Parent does:* Look again at the dust and the soil. Ask your child whether rubbing stones could fill a whole pot with soil in one day.  
+  *Parent says:* Your hands made only a pinch of dust in one minute. Could you fill a whole pot with soil in one day by rubbing stones? Why or why not?  
+  *Child mode:* A minute of rubbing made only a pinch. Could you fill a pot with soil in one day this way?
+  - Note: The answer is no. A minute of rubbing gave only a pinch, so a whole pot would take far too long by hand. In nature, rain, sun and roots break rock much more slowly than your hands, but they keep going for hundreds of years. That is how real soil is made.
   - Check: What fell on the paper when you rubbed the two stones? → **Tiny bits of rock, like dust**
 ### a3 · Who Shares Our Flat? (15 min)
 - **s1 (8 min)**  
@@ -350,9 +351,9 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
    **Answer:** Camel → Desert; Lotus → Pond; Hornbill → Forest; Ghost crab → Seashore. *Why:* A camel suits the dry desert, a lotus grows from pond mud, a hornbill eats forest fruit and nests in tall trees, and a ghost crab digs in wet sand by the sea.
 2. (sort) Sort these into two groups: places that stay damp, and places that dry fast.  
    **Answer:** an old brick wall in the rain → Stays damp; a shiny granite step → Dries fast; moss under a dripping tap → Stays damp; a hot sandy road → Dries fast; soil under a flowerpot → Stays damp; a steel plate in the sun → Dries fast. *Why:* Brick, moss and soil hold water in tiny gaps, so they stay damp. Granite, sand in the sun and steel let water run off or dry quickly.
-3. (draw) Draw your diya and your stone in the plate of water. Draw the seeds on each top as they looked on day 3.  
+3. (draw) Draw the clay diya and the smooth stone from the diya and stone test, standing in the plate of water. Draw the seeds on each top as they looked on day 3.  
    **Answer:** The diya has sprouted seeds with little roots or green leaves. The stone has dry seeds that did not grow.. *Why:* A strong drawing shows the difference the child saw, and the water in the plate under both.
-4. (mcq) Remember the diya and stone test? After 15 minutes in the plate of water, which top was wet?  
+4. (mcq) In the diya and stone test, the clay diya and the smooth stone stood in a plate of water. After 15 minutes, which top was wet?  
    Options: The top of the clay diya / The top of the smooth stone / Both tops were dry  
    **Answer:** The top of the clay diya. *Why:* Water climbed up through the tiny holes in the clay, so the diya's top turned dark and damp. The smooth stone let no water climb up. If your stone's top was wet, check that no water was splashed on it.
 5. (truefalse) Nothing can live on a rock.  
@@ -361,20 +362,20 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
    **Answer:** 6. *Why:* 3 fish, 2 frogs and 1 lotus make 6 living beings. The stone and the bottle are not alive. The lotus is a plant, and plants are living beings.
 7. (label) Write or draw one plant and one animal who live in each habitat.  
    **Answer:** ['pond: lotus, frog or fish', 'desert: cactus, khejri, camel or desert fox', 'forest: tall trees, ferns, monkey or hornbill']. *Why:* Any plant or animal who really lives there is right. A strong answer says what the habitat gives them.
-8. (write) Say it to a grown-up, who writes it down: why does a camel do well in the desert but not in the sea?  
+8. (write) Why does a camel do well in the desert but not in the sea? Tell a grown-up your answer, and ask them to write it down.  
    **Answer:** A camel lives on dry land. Wide, padded feet help a camel walk on sand, and the sea is deep and salty. A camel cannot drink salty water.. *Why:* A strong answer links what the camel needs (dry land, fresh water) to what the sea lacks.
 9. (perspective) Two friends in Madurai find a snail on a wet wall.  
-   **Answer:** A strong answer picks a side with a reason, for example: 'Revathi, because the wet wall gives the snail water and food.' Then it is fair to the other side: Divya wants to care for the snail, and looking closely teaches us a lot.. *Why:* Both friends care. A snail can be watched for a short time in a damp box with leaves, and then put back. A dry box away from her wall would harm her.
+   **Answer:** A strong answer picks a side with a reason, for example: 'The second child, because the wet wall gives the snail water and food.' Then it is fair to the other side: The first child wants to care for the snail, and looking closely teaches us a lot.. *Why:* Both friends care. A snail can be watched for a short time in a damp box with leaves, and then put back. A dry box away from her wall would harm her.
 10. (odd) Which is the odd one out? Think about where each one lives.  
    Options: Fish / Frog / Lotus / Camel  
    **Answer:** 3. *Why:* Fish, frogs and lotus all live in or by a pond. A camel lives in the dry desert.
 ### Habitats (stretch) (stretch, 10 questions)
 1. (fill) A habitat gives a living being water, food, air, ______ and the right warmth.  
    **Answer:** shelter. *Why:* Shelter keeps a living being safe from the sun, the rain and danger. A nest, a burrow and a rock crack are all shelters.
-2. (mcq) Meena, a girl in Class 2, puts a cactus in a pot of water that is always full. What will most likely happen?  
+2. (mcq) A cactus is put in a pot of water that is always full. What will most likely happen?  
    Options: The cactus roots will rot / The cactus will grow faster than ever / The cactus will turn into a lotus  
-   **Answer:** The cactus roots will rot. *Why:* A cactus lives in dry places and stores water in their stem. Roots that sit in water all the time can rot. A plant does best in a habitat like their own.
-3. (write) Look at your diya and stone test. Why did the seeds on the stone not sprout? Use what you saw.  
+   **Answer:** The cactus roots will rot. *Why:* A cactus lives in dry places and stores water in the stem. Roots that sit in water all the time can rot. A plant does best in a habitat like their own.
+3. (write) In the diya and stone test, the seeds on the smooth stone did not sprout. Why not? Use what you saw.  
    **Answer:** The stone's top stayed dry, because water could not climb up through the stone. Seeds need water to start growing.. *Why:* A strong answer uses evidence from the test (the dry top, the dry seeds) and gives the reason (seeds need water).
 4. (draw) Draw a rock with three living beings on it, under it or in its cracks.  
    **Answer:** For example: moss on top, a lizard in a crack and ants underneath.. *Why:* A strong drawing puts each living being in a place on the rock that suits them: moss where it is damp, a lizard on the warm top or in a crack, ants underneath.
@@ -419,7 +420,7 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 7. (mcq) What is soil made from?  
    Options: Tiny bits of rock and bits of dead plants / Only sand / Only water  
    **Answer:** Tiny bits of rock and bits of dead plants. *Why:* Over a long time, rocks crumble into tiny grains. These mix with bits of dead plants and animals to make soil.
-8. (mcq) Nila, a girl in Class 2, says before the test: "The seeds will sprout on both the diya and the stone." What is Nila doing?  
+8. (mcq) Before the diya and stone test, you say: "The seeds will sprout on both the diya and the stone." What are you doing?  
    Options: Making a guess to test / Counting the seeds / Cleaning the plate  
    **Answer:** Making a guess to test. *Why:* A guess you make before a test is called a prediction. The test then shows whether the guess was right.
 9. (mcq) In the diya and stone test, both stood in the same water. Why is that important?  
@@ -465,9 +466,9 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - Why are frogs always so happy? *Because they eat whatever bugs them!*
 
 ## Connected maths
-- In the diya and stone test, Selvi put 10 seeds on the diya. On day 3, 8 had sprouted. How many did not sprout? **2 seeds did not sprout.**. 10 seeds take away the 8 that sprouted leaves 2. 10 - 8 = 2. (queues `math.addition-subtraction.meaning.L2`)
-- Nila counted the sprouted seeds on day 2 and day 3. On the diya: 6 on day 2, 9 on day 3. On the stone: 0 on day 2, 0 on day 3. What pattern do you see? What would you guess for day 4? **The diya's count went up, from 6 to 9. The stone stayed at 0. On day 4, the diya might have 9 or 10, and the stone still 0.**. More seeds sprouted on the wet clay each day. On the dry stone, nothing changed, so we expect it to stay at 0. The diya cannot go above 10, because there were only 10 seeds. (queues `math.patterns.number-patterns.L2`)
-- Farida made a tally of animals in her flat in one day: ants, a lot; 1 gecko; 3 pigeons on the ledge; 2 spiders. Leave out the ants. How many animals did she count? Which one did she see most? **6 animals: 1 + 3 + 2 = 6. She saw pigeons the most, 3.**. Add the gecko, the pigeons and the spiders: 1 + 3 + 2 = 6. The biggest number is 3, so pigeons were seen most. Ants are left out because there were too many to count. (queues `math.data.sorting-and-tallies.L2`)
+- In the diya and stone test, 10 seeds were put on the diya. On day 3, 8 had sprouted. How many did not sprout? **2 seeds did not sprout.**. 10 seeds take away the 8 that sprouted leaves 2. 10 - 8 = 2. (queues `math.addition-subtraction.meaning.L2`)
+- In the diya and stone test, the sprouted seeds were counted on day 2 and day 3. On the diya: 6 on day 2, 9 on day 3. On the stone: 0 on day 2, 0 on day 3. What pattern do you see? What would you guess for day 4? **The diya's count went up, from 6 to 9. The stone stayed at 0. On day 4, the diya might have 9 or 10, and the stone still 0.**. More seeds sprouted on the wet clay each day. On the dry stone, nothing changed, so we expect it to stay at 0. The diya cannot go above 10, because there were only 10 seeds. (queues `math.patterns.number-patterns.L2`)
+- Here is a tally of the animals seen in a flat in one day: ants, a lot; 1 gecko; 3 pigeons on the ledge; 2 spiders. Leave out the ants. How many animals were counted? Which animal was seen most? **6 animals: 1 + 3 + 2 = 6. Pigeons were seen the most, 3.**. Add the gecko, the pigeons and the spiders: 1 + 3 + 2 = 6. The biggest number is 3, so pigeons were seen most. Ants are left out because there were too many to count. (queues `math.data.sorting-and-tallies.L2`)
 
 ## Song
 Every Home Is Somebody's (sci.habitats.L2): Topic-level song for Habitats L2

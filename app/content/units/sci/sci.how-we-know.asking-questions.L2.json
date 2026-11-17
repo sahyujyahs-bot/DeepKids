@@ -79,7 +79,7 @@
    "status": "defined",
    "context": "This card is about what a prediction is, and why we say the reason too.",
    "definition": "A prediction says what you think will happen in a test, and why you think so, before the test starts.",
-   "description": "'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. After the test, anyone can say 'I knew it!'",
+   "description": "'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. If you wait until after the test, anyone can say 'I knew it!', even when they did not. A prediction said before the test cannot be faked.",
    "examples": [
     "'The ice will float, because I have seen ice floating in a glass of water.'",
     "'The crumpled paper will land first, because it is smaller, so the air pushes it less.'",
@@ -188,7 +188,7 @@
    "for": "If no test could ever show that an idea is wrong, the idea fits whatever happens. So it tells us nothing about what will happen.",
    "against": "Some scientists say ideas about the very start of the universe are still science, though nobody can test them yet. They hope tests will come later, as they did for the stars.",
    "status": "debated",
-   "context": "This card is about a big argument: does science need ideas that can be tested?"
+   "context": "This card is about a big argument: does science need ideas that can be tested? Karl Popper said that a scientific idea must be one that some test could show to be wrong. For example, 'a packed bottle of rice can be lifted by a pencil' could be shown wrong by one test. But an idea that fits whatever happens, such as 'the die does whatever it wants', can never be shown wrong. So it tells us nothing."
   }
  ],
  "big_questions": [
@@ -449,7 +449,7 @@
       },
       {
        "f": "Hold a strip of paper just under your bottom lip, so it hangs down. Blow hard straight ahead. Will the strip go down, stay still or lift up?",
-       "b": "It lifts up into the moving air. Scientists explain this in more than one way."
+       "b": "It lifts up, even though you blow straight ahead. Scientists explain this in more than one way. One idea is that the fast air above the strip pushes down less than the still air below pushes up."
       },
       {
        "f": "Put one drop of water on newspaper and one on a steel plate. Which one stays on top as a drop?",
@@ -539,9 +539,10 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Add up the points. Ask which test surprised everyone most.",
-     "say": "Which test surprised you most? What did you think before, and what do you think now?",
-     "kid": "Which test surprised you? What do you think now?"
+     "do": "Add up the points. Then ask about a test where a prediction was wrong, and what idea it changed.",
+     "say": "Think of a test where a prediction was wrong. What idea did you have before? What do you think now?",
+     "kid": "Which prediction was wrong? What do you think now?",
+     "parent": "Good answers name an old idea and a new one. For example: 'I thought the lemon would sink because it is heavy. Now I think the peel has air in it, so it floats.' If every prediction was right, choose the test where you were least sure. The point is that a wrong prediction shows which idea to change."
     }
    ]
   }
@@ -1172,6 +1173,7 @@
      "do": "Day 5: your child picks their own prediction. Then look back at all five pages together.",
      "say": "Pick your own prediction today. Then let's look at the week. Which ones were right? Which were hardest to predict? Why?",
      "kid": "Make your own prediction. Then look at your week. Which were hardest?",
+     "parent": "Predictions about the weather, the birds and the time of dusk are harder, because they change from day to day. The wet hanky is easier to predict, because the moving air from the fan clearly dries it faster. Look for this pattern in your child's pages. A wrong prediction is still useful, because it shows which idea to change.",
      "wait": "Do this on day 5."
     }
    ]
@@ -1320,7 +1322,7 @@
     "Only if you are sure"
    ],
    "a": 0,
-   "why": "A prediction comes before the test, so the test can show if it was right. After a test, anyone can say 'I knew it.'",
+   "why": "A prediction comes before the test, so the test can show if it was right. After a test, anyone can say 'I knew it', even when they did not.",
    "outcome": 1
   },
   {
@@ -1862,7 +1864,7 @@
   },
   {
    "q": "Why do we say a prediction before the test, not after?",
-   "a": "So the test can really show if we were right. After a test, anyone can say 'I knew it.'"
+   "a": "So the test can really show if we were right. After a test, anyone can say 'I knew it', even when they did not."
   }
  ],
  "plan": {
@@ -1977,7 +1979,7 @@
   "practice": {
    "title": "Predict your breath",
    "mins": 3,
-   "say": "Sit still and close your eyes. Before you breathe, predict: will this breath feel warm or cool on your top lip? Now breathe out through your nose and feel. Were you right? Now predict for a breath in: warm or cool? Breathe in slowly and feel what really happened. Do it three times.",
+   "say": "Sit still and close your eyes. Before you breathe, predict: will this breath feel warm or cool on your top lip? Now breathe out through your nose and feel. Were you right? Now predict for a breath in: warm or cool? Breathe in slowly and feel what really happened. Do it three times. The air you breathe out is warm, because it comes from inside your body. The air you breathe in is as cool as the room. Did your predictions match?",
    "kid": "Close your eyes. Guess: will your breath feel warm or cool on your top lip? Breathe out and feel. Then guess again and breathe in."
   },
   "ask": [

@@ -141,11 +141,11 @@
    "perspectives": [
     {
      "who": "An older idea",
-     "explanation": "Insects find their way at night by keeping the Moon on the same side of them as they fly. A lamp is much closer than the Moon, so keeping the lamp on the same side makes them fly round and round the lamp."
+     "explanation": "At night, insects may steer by keeping the Moon on one side of them as they fly. The Moon is so far away that it stays in the same direction, so this keeps them flying in a straight line. A lamp is very close. As an insect flies past, the lamp's direction keeps changing. If the insect keeps the lamp on one side, the path bends into a circle, so they fly round and round the lamp."
     },
     {
      "who": "Scientists who filmed insects at night in 2024",
-     "explanation": "Scientists who filmed insects in 2024 found that insects keep their backs towards the brightest light, because in nature the bright sky is above them. Near a lamp this tilts them, so they circle the lamp and cannot fly away."
+     "explanation": "Scientists who filmed insects in 2024 found that insects tilt so that their backs face the brightest light. In nature the bright sky is above them, so this keeps them the right way up. Near a lamp, the brightest light is at their side. This tilts them over, so they cannot fly straight. They circle the lamp and cannot fly away."
     }
    ],
    "context": "This card is about the city at night: the lights, the insects and the animals who hunt them.",
@@ -254,7 +254,7 @@
   "ask": [
    "Why could Kavya and Arjun hear so many birds at half past five, but not at nine o'clock?",
    "What did the neem tree give the crow, the dog and the bees?",
-   "Arjun drew the koel's notes going up above the buses. Why do you think a bird might sing higher near a busy road?"
+   "Arjun drew the koel's notes going up above the buses. Traffic noise is a low, deep rumble. Why might a bird sing higher notes near a busy road?"
   ],
   "art": [
    "A dark-blue early morning on a fifth-floor balcony in Chennai, with a grandmother, a girl and a sleepy boy looking at an empty road and a neem tree.",
@@ -1132,8 +1132,9 @@
      "id": "s3",
      "mins": 10,
      "do": "On day 5, watch for 5 minutes and draw one insect. Then your child reads the whole diary to someone at home.",
-     "say": "Read your diary to someone at home. Which being surprised you most?",
-     "kid": "Read your diary to someone. Who surprised you most?",
+     "say": "Read your diary to someone at home. Then look at your five drawings together. Which beings used a tree? Which beings used a building or a wall?",
+     "kid": "Read your diary to someone. Which beings used a tree? Which used a building or a wall?",
+     "parent": "Expect answers like these. A crow, a squirrel, a koel or a bee used the tree. A pigeon, a gecko or a myna used a building or a wall. The point is that one street gives many beings a place to nest, rest or find food.",
      "check": {
       "t": "mcq",
       "q": "Suppose you see a gecko by the light at dusk and a squirrel on the tree at noon. What does this show?",
@@ -1221,6 +1222,7 @@
      "do": "Check the list together. Then ask: who might still find your street hard to live in? Add one more thing for them.",
      "say": "Let's check. Has every being got what they need? Who might still find it hard?",
      "kid": "Check your list. Who still needs something?",
+     "parent": "A good answer names a real need. For example, sparrows need holes in walls for nests, hornbills need big old trees with holes, and bees need flowers. Ask your child to add one of these to the street.",
      "check": {
       "t": "mcq",
       "q": "Why would a quiet zone near the trees help the birds?",
@@ -1983,5 +1985,5 @@
   "wrong_idea": "Many people thought city noise bothered only humans, and that birds kept singing in the same way whatever the noise."
  },
  "playtest": "Played the calling game in my head with 2 and with 4 players: it now works with a parent and child, the traffic cards say how long to make noise, the quiet-gap trick has a clear meaning, and the game ends after 8 calls with a team score. The memory game now ends when no pair is left. In the noise test I added a spare word list so a changed distance stays fair, and made the ice test and the 5-day diary add up in minutes. I removed repeated shade, pigeon and noise questions, a non-joke, and family members assumed in the steps.",
- "warm": {"words": ["CROWS", "TREES", "BIRDS", "NESTS", "SHADE"], "quiz": [["A city street is a habitat for many living beings, not only for people.", true, "Crows, squirrels, bees, ants and trees all find water, food and shelter in a city."], ["Real nature lives only in forests, and not in towns or cities.", false, "Crows, pigeons, squirrels, bees, ants, and trees and plants in cracks all live on city streets."], ["House sparrows became fewer because mobile phone towers drove them away.", false, "No good study shows this. Other things changed too, such as the places where sparrows can nest."], ["Many city birds sing louder or higher so that traffic noise does not cover their songs.", true, "Loud noise covers soft sounds, so birds near busy roads change how they sing."], ["Animals who eat many kinds of food and nest in many places usually do well in cities.", true, "A city has many kinds of food and places, so such animals can always find what they need."], ["Feeding street animals is always kind.", false, "Bread and fried snacks can make birds ill, and too much food in one place brings huge flocks."], ["Birds are easier to hear on a quiet holiday morning because they were there all week.", true, "Birds are there on busy days too, but traffic noise covers their songs."], ["Insects gather round bright lights at night, and no animals hunt them there.", false, "Some nocturnal animals hunt the insects that fly round lights."], ["Cutting down a street tree changes nothing for the birds who nested in it.", false, "A street tree gives other living beings shade, food, and places to nest and rest."], ["Trees make a street cooler, so shade under them helps people and animals.", true, "Shade and the water from leaves cool the air under a tree."]], "odd": [[["Shade", "Place to nest", "Fruit and seeds", "Loud traffic"], "Loud traffic", "Shade, nest places and fruit are things a street tree gives other beings. Traffic does not come from a tree."], [["Owl", "Fruit bat", "Moth", "Crow"], "Crow", "Owls, fruit bats and moths are active at night; a crow is awake and active in the daytime."], [["Soft whisper", "Bird song", "Quiet talking", "Loud horn"], "Loud horn", "Traffic noise covers soft sounds so we cannot hear them well; a loud horn is not covered."], [["Crow's nest", "Squirrel's nest", "Bees' hive", "Bus shelter"], "Bus shelter", "The first three are homes that animals build for their young; a bus shelter is built by people."], [["Neem tree", "Koel", "Squirrel", "Lamp post"], "Lamp post", "Neem tree, koel and squirrel are living beings who share our streets; a lamp post is not alive."]]}
+ "warm": {"words": ["CROWS", "TREES", "BIRDS", "NESTS", "SHADE"], "quiz": [["A city street is a habitat for many living beings, not only for people.", true, "Crows, squirrels, bees, ants and trees all find water, food and shelter in a city."], ["Real nature lives only in forests, and not in towns or cities.", false, "Crows, pigeons, squirrels, bees, ants, and trees and plants in cracks all live on city streets."], ["House sparrows became fewer because mobile phone towers drove them away.", false, "No good study shows this. Other things changed too, such as the places where sparrows can nest."], ["Many city birds sing louder or higher so that traffic noise does not cover their songs.", true, "Loud noise covers soft sounds, so birds near busy roads change how they sing."], ["Animals who eat many kinds of food and nest in many places usually do well in cities.", true, "A city has many kinds of food and places, so such animals can always find what they need."], ["Feeding street animals is always kind.", false, "Bread and fried snacks can make birds ill, and too much food in one place brings huge flocks."], ["Birds are easier to hear on a quiet holiday morning because they were there all week.", true, "Birds are there on busy days too, but traffic noise covers their songs."], ["Insects gather round bright lights at night, and no animals hunt them there.", false, "Some nocturnal animals hunt the insects that fly round lights."], ["Cutting down a street tree changes nothing for the birds who nested in it.", false, "A street tree gives other living beings shade, food, and places to nest and rest."], ["Trees make a street cooler, so shade under them helps people and animals.", true, "The leaves of a tree block the sunlight, so the ground and the air under the tree stay cooler."]], "odd": [[["Shade", "Place to nest", "Fruit and seeds", "Loud traffic"], "Loud traffic", "Shade, nest places and fruit are things a street tree gives other beings. Traffic does not come from a tree."], [["Owl", "Fruit bat", "Moth", "Crow"], "Crow", "Owls, fruit bats and moths are active at night. A crow is awake and active in the daytime."], [["Soft whisper", "Bird song", "Quiet talking", "Loud horn"], "Loud horn", "Traffic noise covers soft sounds so we cannot hear them well. A loud horn is not covered."], [["Crow's nest", "Squirrel's nest", "Bees' hive", "Bus shelter"], "Bus shelter", "The first three are homes that animals build for their young. A bus shelter is built by people."], [["Neem tree", "Koel", "Squirrel", "Lamp post"], "Lamp post", "A neem tree, a koel and a squirrel are living beings who share our streets. A lamp post is not alive."]]}
 }
