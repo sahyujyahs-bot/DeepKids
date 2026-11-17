@@ -29,7 +29,7 @@
 ### A sound is real evidence that something happened · *defined*
 **Definition:** A sound is made when something vibrates. The vibration passes through the air to your ears. So a sound always means that something, somewhere, is vibrating.
 
-When a spoon taps a tumbler, the tumbler vibrates. It shakes the air next to it, and that air shakes the air next to it, all the way to your ear. A phone speaker makes a sound by vibrating too. Your ears get the vibration, not the tumbler. So your ears tell you truly that a sound happened. What made the sound is a guess your mind makes from clues. Opening the door is how you check the guess.
+When a spoon taps a tumbler, the tumbler vibrates. It shakes the air next to it, and that air shakes the air next to it, all the way to your ear. A phone speaker makes a sound by vibrating too. What reaches your ears is the vibration, not the tumbler itself. So your ears tell you truly that a sound happened. What made the sound is a guess your mind makes from clues. Opening the door is how you check the guess.
 - e.g. You hear a pressure cooker whistle through the wall. A cooker in the next flat is vibrating the air.
 - e.g. You hear thunder before you see any rain. A lightning flash heated the air so fast that the air shook.
 - e.g. A phone plays a recording of a crow. The phone's speaker is vibrating, and no crow is there.
@@ -48,7 +48,7 @@ An 'empty' bottle is full of air. Push the bottle, open end down, into a bucket 
 - e.g. A kite rises on Makar Sankranti because moving air pushes up on the paper.
 - e.g. Bubbles come out of a dry sponge when you squeeze it under water.
 ### A dream feels real while we are in it · *idea*
-Most people dream every night, even on nights they remember nothing. Most vivid dreams happen in REM sleep, when the eyes move quickly under the lids. In REM sleep, most of the body's muscles go loose, so you do not act out your dream. Brain scans show that a front part of the brain, which helps us check and plan, is quieter while we dream. Many scientists think that is one reason we rarely notice a dream is a dream. Scientists only have ideas about this so far.
+Most people dream every night, even on nights they remember nothing. Most vivid dreams happen in REM sleep, when the eyes move quickly under the lids. In REM sleep, most of the body's muscles go loose, so you do not act out your dream. Brain scans show that a front part of the brain, which helps us check and plan, is quieter while we dream. Many scientists think that is one reason we rarely notice a dream is a dream. This is still an idea, not something scientists are sure of.
 - e.g. You dream your school is inside your home, and it seems normal until you wake.
 - e.g. In a dream you run from a dog, and wake up with your heart beating fast.
 - e.g. A pet cat or dog twitches their paws and whiskers while fast asleep.
@@ -72,14 +72,14 @@ Nobody knows for sure why we dream. Scientists have three main ideas. Each idea 
 
 ## Challenging perspectives
 - **If you cannot see it, it is not there.** (A common first guess; *rejected*)  
-  For: Eyes are the sense we trust most. Most things we know about, we have seen.  
+  For: Sight is the sense we trust most. We have seen most of the things we know about.  
   Against: Air, sounds and smells are real, and we cannot see any of them. We know they are there from what they do: a bubble, a whistle, the smell of jeera frying.
 - **If I heard it, I know what made it.** (A common first guess; *rejected*)  
   For: Our ears are good at telling sounds apart. Most of the time, our guess about what made a sound is right.  
   Against: A phone recording can sound like a real tumbler. The sound is real, but the thing we picture may not be there. We only know when we check another way.
 - **A dream is real in its own way, because you truly saw and felt it.** (The Mandukya Upanishad, and many philosophers since; *debated*)  
   For: The fear or joy in a dream was really felt. The Mandukya Upanishad counts dreaming as one of the states that awareness passes through, alongside waking.  
-  Against: The dream tiger left no footprints, and nobody else saw it. When you wake, nothing in the room agrees with the dream.
+  Against: A tiger in a dream leaves no footprints, and nobody else sees it. When you wake, nothing in the room agrees with the dream.
 - **Other animals dream too.** (Many sleep scientists; *debated*)  
   For: Dogs, cats, rats and many birds have REM sleep. Rats that learned a maze showed the same brain patterns again in their sleep. Sleeping dogs twitch and make small running movements.  
   Against: Other animals cannot tell us in words what they experience while asleep, so we cannot ask about their dreams directly.
@@ -97,21 +97,21 @@ We have guessed at sounds behind a closed door, found air in an 'empty' bottle, 
 
 One air fills the bottle, the room and your lungs. The same air carries the cooker's whistle, the smell of jeera and the bee's buzz to every listener nearby. Everything is conscious, and every being meets this one world through their own senses. A bat, a flower and a child each take in the same air and come away knowing different things about it.
 
-- **Nyaya Sutra 1.1.3, by Gautama (also called Akshapada):** There are four ways to know something truly: perception, inference, comparison, and the word of someone we can trust. The Nyaya teachers' favourite example: see smoke on a far hill, and you know there is fire, though you cannot see the flames. (In the door test, you heard a sound and inferred what made it. Opening the door was perception. The Nyaya teachers would say you used two of their four ways, one to check the other.)
-- **Zhuangzi, chapter 2 (the butterfly dream):** Zhuangzi, a Chinese thinker, dreamed he was a butterfly, flying happily, not knowing he was Zhuangzi. When he woke, he wondered: was he a man who had dreamed of being a butterfly, or a butterfly now dreaming of being a man? (Like Anju with her anklet, Zhuangzi felt the dream was real while he was in it. His question is the one the dream notebook asks: how do we tell a dream from waking?)
+- **Nyaya Sutra 1.1.3, by Gautama (also called Akshapada):** There are four ways to know something truly: perception, inference (working something out from clues), comparison, and the word of someone we can trust. The Nyaya teachers' favourite example is smoke on a far hill: when you see it, you know there is fire, though you cannot see the flames. (In the door test, you heard a sound and inferred what made it. Opening the door was perception. The Nyaya teachers would say you used two of their four ways, one to check the other.)
+- **Zhuangzi, chapter 2 (the butterfly dream):** Zhuangzi, a Chinese thinker, dreamed he was a butterfly, flying happily, not knowing he was Zhuangzi. When he woke, he wondered: was he a man who had dreamed of being a butterfly, or a butterfly now dreaming of being a man? (Like Anju in the story The Anklet in the Dream, Zhuangzi felt the dream was real while he was in it. His question is the one the dream notebook asks: how do we tell a dream from waking?)
 - **Mandukya Upanishad, verses 3 to 7:** The Upanishad describes states that awareness passes through: waking, dreaming, and deep sleep with no dreams. It speaks of a fourth, called turiya, which is aware of all three. (Your dream notebook caught the dreaming state, and you woke into the waking one. The Upanishad treats them as two states that the same awareness passes through.)
 - Science (settled): Sound is a vibration that travels through air to the ear. A phone speaker and a tumbler both make real sounds this way.
 - Science (open): Why we dream, and how the brain decides that something feels real, are still open questions.
 - Other view, The Charvaka school of ancient India: They said only what we perceive directly can be trusted. A clue can mislead: what looks like smoke may be mist or dust. So, they said, inference does not give certain knowledge.
 - Practice, Listen for what you cannot see (3 min): Sit comfortably and close your eyes. Listen. Count the sounds you can hear but cannot see. Now notice the air moving in and out of your nose. Feel it, cool going in and warm coming out. Breathe slowly three times. Open your eyes. How many unseen things did you notice?
-- Ask: If a sound can be real when the thing you pictured is not there, what else might you be picturing?
+- Ask: A sound can be real even when the thing you pictured making it is not there. What else might you be picturing that is not really there?
 - Ask: In a dream, you were there and you felt things. In what way was the dream real?
-- Ask: A bat and you hear the same room. Which of you hears the real room?
+- Ask: You and a bat listen in the same room. Which of you hears the real room?
 
 ## Deep and big questions
 - *deep:* When you dream of a mango, where is that mango? (hint: Think about what was really in the room, and what was in your mind.)
 - *big:* How do you know you are not dreaming right now? (hint: Think about the checks you could do: look twice, ask someone, test it another way.)
-- *deep:* Behind the door, the phone sounded like a tumbler. Was the sound real, even though no tumbler was there? (hint: Think about what reached your ears both times.)
+- *deep:* In the door test, a phone recording sounded like a real tumbler. Was the sound real, even though no tumbler was clinking? (hint: Think about what reached your ears, from the real tumbler and from the phone.)
 - *big:* A bat hears sounds too high for us, and a bee sees colours we cannot. Is the world each of us senses the whole world? (hint: Think about the things that are real but that your own senses miss.)
 - *big:* If something is real for you but nobody else can check it, like a dream, how should we talk about it? (hint: Think about the difference between 'I really felt it' and 'it was really there'.)
 
@@ -162,7 +162,7 @@ Rahul was thinking about something else. "Ammachi," he said, "is air real? I can
 
 Anju had an idea. She took a steel tumbler to the bathroom and pushed it, open end down, into a bucket of water. Then she tipped it. A big bubble burst up out of the water. Blub.
 
-"That was the air inside," said Anju. "It was there all the time. It just does not show itself to eyes."
+"That was the air inside," said Anju. "It was there all the time. Our eyes just cannot see it."
 
 That night, Anju dreamed she was at school. The clock on the wall said seven o'clock. She looked away and looked back. Now it said three o'clock. Anju stood very still. "Clocks don't jump like that," she said. "I am dreaming!" In the dream, she smiled, and the classroom turned into a coconut grove.
 
@@ -201,7 +201,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Parent does:* 1. Take turns reading cards. 2. Each player gives an answer and a reason. 3. Turn the card over to check.  
   *Parent says:* Could that happen when you are awake? Why do you think so?  
   *Child mode:* Read the card. Dream sign, awake or check again? Say why.
-  - Note: The mirage card is tricky. The puddle looks real, but the light really is bent by hot air. It happens awake, and other people see it too.
+  - Note: The mirage card is tricky. There is no puddle, but the light really is bent by hot air. It happens when you are awake, and other people see it too.
 - **s3 (2 min)**  
   *Parent does:* 1. Count the cards. 2. Ask the question below.  
   *Parent says:* Which card was hardest? What would you check if you were not sure?  
@@ -253,7 +253,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - **fair test:** Every morning is done the same way. You tell the dream before you get out of bed, and before anyone talks about anything else, because dreams fade fast. The grown-up writes down exactly what you say. Then you sort each thing in the dream with the same two questions every day.
 - **record:** For each morning, write whether you remembered a dream. Draw the dream. Under it, make two lists: things from my own days, and new things. Tick yes or no for 'Did I know it was a dream while I was in it?'
 - **results table:** Morning | Did I remember a dream? | Things from my own days | New things | Did I know it was a dream while I was in it?
-- **schedule:** day 1: In the evening, make the dream notebook. Draw a table for five mornings. Put it beside the bed. (6 min); day 2: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 3: Tell, write and sort again. (4 min); day 4: Tell, write and sort again. (4 min); day 5: Tell, write and sort again. (4 min); day 6: Tell, write and sort for the last time. Then count everything up and say what you found. (8 min)
+- **schedule:** day 1: In the evening, make the dream notebook. Draw a table for five mornings. Put it beside the bed. (6 min); day 2: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 3: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 4: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 5: Before getting up, tell any dream. The grown-up writes it. Sort the things in it. (4 min); day 6: Tell any dream, write it and sort the things in it for the last time. Then count everything up and say what you found. (8 min)
 - **s1 (6 min)**  
   *Parent does:* 1. In the evening, write 'My Dream Notebook' on the cover. 2. Draw a table with five rows, one for each morning. 3. Put the notebook and pencil beside the bed. 4. Ask for a guess and a reason.  
   *Parent says:* For five mornings we will catch your dreams before they fade. Will most things in your dreams come from your own days, or be new? Why do you think so?  
@@ -301,7 +301,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
   *Child mode:* Put each thing in a circle: real, pretend or puzzling. Say why.
   - Note: There are no wrong places. The reasons matter more than the circles.
 - **s2 (5 min)**  
-  *Parent does:* 1. Ask about the balloon, the photo and the cartoon. 2. Ask the last question about every thing.  
+  *Parent does:* 1. Ask about the balloon, the photo and the cartoon. 2. For every thing, ask: 'How could you check?'  
   *Parent says:* What is inside the balloon? Are the people in the photo really inside it? Is the cartoon tiger real? How could you check each one?  
   *Child mode:* What is in the balloon? Are the people in the photo? How could you check?
   - Ask: What is inside the balloon? (good: Air. I can't see it, but the balloon is fat.; Nothing.; My breath.)
@@ -309,7 +309,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 ### a3 · Heard, Not Seen: what made that sound? (10 min)
 - **record:** Make three columns: the sound, what I think made it, and how sure I am (very sure, a bit sure, not sure). Tick any guess you were able to check.
 - **s1 (5 min)**  
-  *Parent does:* 1. Sit by the window or door together. 2. Listen quietly for five minutes. 3. For each sound whose maker you cannot see, your child says what made it and how sure they are. 4. Write it down.  
+  *Parent does:* 1. Sit by the window or door together. 2. Listen quietly for five minutes. 3. For each sound made by something you cannot see, your child says what made it and how sure they are. 4. Write it down.  
   *Parent says:* Close your eyes and listen. What can you hear that you cannot see? What do you think made it? How sure are you?  
   *Child mode:* Listen. What can you hear but not see? What made it?
   - Note: City sounds work well: a pressure cooker, a vegetable seller calling, a lift, a koel or a crow, a horn. Keep the list to about five.
@@ -324,12 +324,12 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - **s1 (2 min)**  
   *Parent does:* 1. Your child reads the word on the card and the time on the clock. 2. They turn away for five seconds. 3. They look back and read both again.  
   *Parent says:* Read the word and the time. Now turn away and count to five. Look back. Are they the same?  
-  *Child mode:* Read the word and the time. Turn away. Look back. Same?
+  *Child mode:* Read the word and the time. Turn away. Look back. Are they the same?
   - Ask: Did the word change? (good: No, it still says MANGO.; The clock moved on by a minute at most.)
 - **s2 (3 min)**  
   *Parent does:* 1. Explain the dream check. 2. Ask the question below.  
   *Parent says:* People who have noticed they were dreaming often say that, in the dream, words and clocks changed when they looked again. Awake, the word stays the same. What would you check tonight, if you thought you were dreaming?  
-  *Child mode:* In dreams, words and clocks may change. Awake, they stay. What would you check?
+  *Child mode:* In dreams, words and clocks may change. When you are awake, they stay the same. What would you check?
   - Note: This is what people report about their own dreams, not a proven rule. Some people learn to notice their dreams this way. Scientists call that a lucid dream.
 
 ## Projects
@@ -378,47 +378,47 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 
 ## Worksheets
 ### Real Sounds, Real Air, Real Dreams? (core) (core, 10 questions)
-1. (mcq) Riya, a girl in Class 2, hears a clink-clink from behind a closed door. What does the sound tell her for sure?  
-   Options: Something behind the door vibrated / A steel tumbler is behind the door / Nothing, because she cannot see it  
-   **Answer:** Something behind the door vibrated. *Why:* Every sound comes from something vibrating, so she knows something made it. It might be a tumbler, or a phone recording of one. Only opening the door can tell her which.
+1. (mcq) You hear a clink-clink from behind a closed door. What does the sound tell you for sure?  
+   Options: Something behind the door vibrated / A steel tumbler is behind the door / Nothing, because you cannot see it  
+   **Answer:** Something behind the door vibrated. *Why:* Every sound comes from something vibrating, so you know something made it. It might be a tumbler, or a phone recording of one. Only opening the door can tell you which.
 2. (truefalse) A phone recording of a tumbler is a real sound.  
    **Answer:** True. *Why:* True. The phone's speaker vibrates and shakes the air, so a real sound reaches your ears. The tumbler in the recording is not there, but the sound is.
 3. (match) Draw a line from each thing we cannot see to the clue that tells us it is there.  
    **Answer:** Air in a balloon → the balloon is round and fat; Wind → clothes flap on the line; A koel in a tree → 'koo-oo' from the leaves; Jeera frying → a smell from the kitchen. *Why:* Each clue reaches one of our senses: sight, hearing or smell. The thing itself stays out of sight.
 4. (draw) Draw yourself outside the closed door, listening. Draw what was really making one of the sounds on the other side.  
-   **Answer:** A child by a closed door, and on the other side either a tumbler and spoon, or a phone playing a recording.. *Why:* A strong drawing shows that what was behind the door could only be found out by opening it.
-5. (write) In the door test, which sound was hardest to tell, real or phone? Why do you think it was hard?  
+   **Answer:** A child by a closed door, and on the other side either a tumbler and spoon, or a phone playing a recording.. *Why:* A strong drawing shows that you could only find out what was behind the door by opening it.
+5. (write) In the door test, for which sound was it hardest to tell real from phone? Why do you think it was hard?  
    **Answer:** A strong answer names one sound, such as the newspaper, and gives a reason, such as 'the phone made it sound just the same'.. *Why:* Some sounds come out of a phone speaker very like the real thing. Others change more. Your own result is the evidence.
 6. (sort) Sort these: really there in your home now, or only in a dream or a story?  
    **Answer:** the air in your room → Really there; a dragon from a storybook → Only in a dream or story; a cooker whistle from the next flat → Really there; a monster you dreamed was under the bed → Only in a dream or story; the smell of jasmine from the next room → Really there; a talking cat from last night's dream → Only in a dream or story. *Why:* The things that are really there can be checked another way: smelled again, heard again, or found by someone else. The dream and story things cannot.
 7. (mcq) While you are in a dream, how does the dream usually feel?  
    Options: Real / Like a film you know is pretend / Like nothing at all  
-   **Answer:** Real. *Why:* Most of the time, a dream feels real until you wake. Picking 'a film you know is pretend' is how it feels only in a lucid dream, which is rare.
+   **Answer:** Real. *Why:* Most of the time, a dream feels real until you wake. A dream feels like 'a film you know is pretend' only in a lucid dream, when you know you are dreaming. That is rare.
 8. (fill) Something that is ____ can be checked in more than one way, and other people can check it too.  
    **Answer:** ['real']. *Why:* A real thing can be seen again, touched, heard or found by others. A dream cannot be checked by anyone else.
-9. (perspective) Lakshmi, a girl in Class 2, and her friend Farhan, a boy in Class 2, talk about a scary dream.  
+9. (perspective) Two children talk about a scary dream.  
    **Answer:** A strong answer picks a side with a reason, such as 'nobody else saw the tiger', and admits the other side's truth, such as 'the fear was really felt'.. *Why:* Both are partly right. The feeling in a dream really happens. The tiger was not really in the room.
 10. (write) How could you check if you are awake right now? Write or draw two ways.  
    **Answer:** Two checks, such as 'read a word, look away and read it again', 'ask someone else if they see it too', or 'press the switch and see if the light comes on'.. *Why:* Awake, things stay the same when you look again, and other people can check them. In dreams, words and clocks often change.
 ### Clues, Air and Dreams (stretch) (stretch, 10 questions)
-1. (mcq) Tsering, a girl in Class 2 in Leh, hears a dog bark behind a wall. How does the sound reach her ears?  
-   Options: The bark shakes the air, and the shaking passes to her ears / The dog throws the sound to her like a ball / Sound can only come through an open window  
-   **Answer:** The bark shakes the air, and the shaking passes to her ears. *Why:* The dog's throat vibrates and shakes the air. Each bit of air shakes the next, all the way to her ears. Picking the window answer misses that sounds come through walls too, only softer.
+1. (mcq) You hear a dog bark behind a wall. How does the sound reach your ears?  
+   Options: The bark shakes the air, and the shaking passes to your ears / The dog throws the sound to you like a ball / Sound can only come through an open window  
+   **Answer:** The bark shakes the air, and the shaking passes to your ears. *Why:* The dog's throat vibrates and shakes the air. Each bit of air shakes the next, all the way to your ears. The window answer is wrong because sounds come through walls too, only softer.
 2. (truefalse) If you cannot see something, it cannot be there.  
    **Answer:** False. *Why:* False. Air, sounds and smells are real, and nobody can see them. We know them by what they do.
 3. (order) Put the steps of the door test in order.  
    **Answer:** [0, 1, 2, 3]. *Why:* The recordings must be made first, then the order is set by the slips, then you guess, and only then do you check.
 4. (write) In the door test, you could not tell what made a sound until you opened the door. What did opening the door give you that your ears could not?  
    **Answer:** A strong answer says that opening the door let you check another way, with your eyes, what was really there.. *Why:* Your ears told you that a sound happened. Your eyes, after the door opened, told you what made it. One sense checked the other.
-5. (count) Kavya, a girl in Class 2 in Madurai, sat at her window and heard 9 sounds. She could see what made 4 of them. How many came from things she could not see?  
-   **Answer:** 5. *Why:* 9 sounds take away the 4 she could see leaves 5 that she heard but did not see.
+5. (count) You sit at your window and hear 9 sounds. You can see what made 4 of them. How many came from things you could not see?  
+   **Answer:** 5. *Why:* 9 take away 4 is 5. So 5 sounds came from things you could not see.
 6. (draw) Draw what you think is inside a blown-up balloon, as if your eyes could see tiny things.  
    **Answer:** A balloon full of tiny dots or balls with space between them, moving about.. *Why:* Air is made of tiny particles, far too small to see, spread out and moving. A drawing like this is a model: a picture that explains.
 7. (odd) Which one is the odd one out?  
    Options: A steel spoon / The air in the room / The sound of a temple bell / The smell of rasam  
    **Answer:** 0. *Why:* You can see the spoon. Air, sound and smell are real too, but nobody can see them.
-8. (perspective) Priya, a girl in Class 2, and Gurpreet, a girl in Class 3, talk about the door test.  
-   **Answer:** A strong answer sides with a reason from the test, such as 'the phone really made a sound', and grants the other view something, such as 'it is true my ears could not tell the difference'.. *Why:* Ears catch sounds well. Working out what made a sound is a guess, and a guess needs checking.
+8. (perspective) Two children talk about the door test.  
+   **Answer:** A strong answer picks a side and gives a reason from the test, such as 'the phone really made a sound'. It also says something true about the other view, such as 'it is true my ears could not tell the difference'.. *Why:* Ears catch sounds well. Working out what made a sound is a guess, and a guess needs checking.
 9. (label) Label the picture of the door test: the closed door, the phone, the real tumbler, and the listener.  
    **Answer:** ['the door in the middle: closed door', 'the small screen on the floor behind the door: phone', 'the steel cup with a spoon: real tumbler', 'the child with a notebook outside: listener']. *Why:* The listener could hear both the phone and the tumbler, but could see neither, because the door was closed.
 10. (mcq) In the dream notebook, most things in a child's dreams came from their own days. What does that show?  
@@ -427,16 +427,16 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 ### How Do We Know What Is Real? (challenge) (challenge, 10 questions)
 1. (write) A flower called evening primrose makes sweeter nectar within minutes of hearing a bee's buzz. How can a flower know a bee is near, without seeing the bee?  
    **Answer:** A strong answer says the buzz is a vibration that reaches the flower, so the flower senses the bee by sound, the way we sense things behind a door.. *Why:* The bee's wings vibrate the air, and the flower senses the vibration. Like us, the flower knows something is there by a clue.
-2. (perspective) Nandini, a girl in Class 3, and her aunt Revathi talk about knowing.  
-   **Answer:** A strong answer picks a side with a reason and grants the other side something: for example, 'clues help, but smoke could also be steam, so it is good to check'.. *Why:* Long ago in India, two schools argued about this. The Charvaka school trusted only what we perceive. The Nyaya school said clues, like smoke, also give real knowledge.
+2. (perspective) Two people talk about how we know things.  
+   **Answer:** A strong answer picks a side with a reason and says what the other side got right: for example, 'clues help, but smoke could also be steam, so it is good to check'.. *Why:* Long ago in India, two schools argued about this. The Charvaka school trusted only what we perceive. The Nyaya school said clues, like smoke, also give real knowledge.
 3. (truefalse) Most people dream every night, even on nights they remember no dream.  
    **Answer:** True. *Why:* True. Sleep scientists find REM sleep in nearly everyone, several times a night. Most dreams are forgotten soon after waking.
 4. (write) In a dream, there is nobody else to ask, and nothing to check against. Why does that make it hard to notice that you are dreaming?  
    **Answer:** A strong answer says that awake we notice something is wrong when a check fails, but in a dream everything comes from our own mind, so nothing disagrees.. *Why:* Checking with another sense or another person is how we catch mistakes. A dream gives no outside check.
 5. (sort) Sort these: do we see it directly, or know it from a clue?  
    **Answer:** the Moon in the sky → See it directly; air in an 'empty' bottle → Know it from a clue; your own hand → See it directly; wind outside → Know it from a clue; a koel hidden in a mango tree → Know it from a clue; a fire you cannot see, behind a building with smoke above it → Know it from a clue. *Why:* The Moon and your hand reach your eyes. The others are known by what they do: a bubble, flapping clothes, a call, smoke.
-6. (mcq) Meenakshi, a girl in Class 2, says, 'The phone sounded exactly like the tumbler.' What is the best way to find out which it was?  
-   Options: Open the door and look / Listen to it once more and decide / Ask which one she would like it to be  
+6. (mcq) In the door test, the phone sounded exactly like the tumbler. What is the best way to find out which it was?  
+   Options: Open the door and look / Listen to it once more and decide / Pick the one you would like it to be  
    **Answer:** Open the door and look. *Why:* When one sense cannot tell, another sense can check. Listening again uses the same sense that was already fooled.
 7. (draw) Draw a dream sign: something that could only happen in a dream. Then draw how you would check it.  
    **Answer:** A drawing of something impossible, such as a fridge full of stars, and a check, such as looking again or asking someone.. *Why:* A dream sign is a clue that you are dreaming. Checking is what turns a doubt into knowing.
@@ -444,12 +444,12 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
    **Answer:** A bat → very high squeaks; An elephant → very low rumbles; A bee → ultraviolet patterns on flowers; A pit viper, a kind of snake → the warmth of a mouse in the dark. *Why:* Each animal senses things that are really there but that our senses miss. So the world we sense is only part of what is real.
 9. (fill) The dreaming part of sleep, when the eyes move fast under the lids, is called ____ sleep.  
    **Answer:** ['REM']. *Why:* REM stands for rapid eye movement. Most vivid dreams happen in REM sleep.
-10. (mcq) Farhan's dream notebook had no dream on three of the five mornings. What should he do?  
-   Options: Keep the notebook going for more mornings, and write 'no dream' when there is none / Make up dreams so the table is full / Stop, because he does not dream  
-   **Answer:** Keep the notebook going for more mornings, and write 'no dream' when there is none. *Why:* A morning with no dream is still a result. Making dreams up would spoil the evidence. He almost surely dreamed, but forgot.
+10. (mcq) Your dream notebook has no dream on three of the five mornings. What should you do?  
+   Options: Keep the notebook going for more mornings, and write 'no dream' when there is none / Make up dreams so the table is full / Stop, because you do not dream  
+   **Answer:** Keep the notebook going for more mornings, and write 'no dream' when there is none. *Why:* A morning with no dream is still a result. Making dreams up would spoil the evidence. You almost surely dreamed, but forgot.
 
 ## Videos
-- **Why do we dream? (SciShow Kids)** (SciShow Kids, 5 min) id `jYu966AONZI`: Explains in plain words that we dream while we sleep, the sleep in which the eyes move that Aserinsky and Kleitman noticed in 1953. It is an explainer, not sleep-lab footage of darting eyes. *Check:* Found by search: "Why Do We Dream?" by SciShow Kids, 5 min. A parent may preview it.
+- **Why do we dream? (SciShow Kids)** (SciShow Kids, 5 min) id `jYu966AONZI`: Explains in plain words that we dream during the part of sleep when the eyes move. Aserinsky and Kleitman noticed this eye movement in 1953. It is an explainer, not sleep-lab footage of moving eyes. *Check:* Found by search: "Why Do We Dream?" by SciShow Kids, 5 min. A parent may preview it.
 - **What is sound? (SciShow Kids)** (SciShow Kids, 4 min) id `3-xKZKxXuu0`: Shows that a sound is a vibration that travels through the air to our ears, which is what reached the listener in the door test. *Check:* Found by search: "What is Sound? | Physics for Kids | SciShow Kids" by SciShow Kids, 4 min. A parent may preview it.
 - **Tel Aviv University: flowers can hear bees** (ILTV Israel News, 1 min) id `2TCW-UbXRWg`: News clip on the Tel Aviv University study showing that flowers sense the sound of a bee they cannot see, and make sweeter nectar. *Check:* Found by search: "TAU researchers say flowers can “hear” bees!" by ILTV Israel News, 1 min. A parent may preview it.
 
@@ -462,11 +462,11 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
    **Answer:** When we wake up. *Why:* Inside a dream, it nearly always feels real. Only after waking do we see it was a dream.
 3. (mcq) A sound comes from behind a closed door. What do you know for sure?  
    Options: Something there vibrated / A person is there / A tumbler is there  
-   **Answer:** Something there vibrated. *Why:* Every sound starts with something vibrating. What it was is a guess until you check. Picking 'a tumbler' means the guess has run ahead of the evidence.
+   **Answer:** Something there vibrated. *Why:* Every sound starts with something vibrating. What it was is a guess until you check. 'A tumbler' is only a guess, and the sound alone cannot prove it.
 4. (mcq) In the door test, the phone played a recording of crumpling newspaper. Was it a real sound?  
    Options: Yes, the phone speaker vibrated the air / No, because no newspaper was crumpling / Only if you guessed right  
    **Answer:** Yes, the phone speaker vibrated the air. *Why:* The sound was real, made by the phone. The newspaper was not there. Picking 'no' mixes up the sound with the thing it seemed to come from.
-5. (mcq) In the door test, why did the grown-up use shuffled slips to choose real or phone?  
+5. (mcq) In the door test, a grown-up made each sound behind a closed door, either for real or from a phone. Why were shuffled slips used to choose real or phone?  
    Options: So you could not guess from a pattern / To make the test take longer / Because the phone needed the slips  
    **Answer:** So you could not guess from a pattern. *Why:* If the order went real, phone, real, phone, you could guess from the pattern instead of your ears. Shuffling keeps the test fair.
 6. (mcq) Why can water hardly get into an 'empty' bottle pushed mouth down into a bucket?  
@@ -475,13 +475,13 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 7. (mcq) Which of these shows that wind is real?  
    Options: Clothes flapping on a balcony line / A clear blue sky / A quiet room  
    **Answer:** Clothes flapping on a balcony line. *Why:* We cannot see the wind, but we see what it does to the clothes.
-8. (mcq) Moumita, a girl in Class 2 in Kolkata, is not sure if she is dreaming. Which is the best check?  
-   Options: Read a word, look away, and read it again / Close her eyes tightly / Decide she is awake  
+8. (mcq) You are not sure if you are dreaming. Which is the best check?  
+   Options: Read a word, look away, and read it again / Close your eyes tightly / Decide you are awake  
    **Answer:** Read a word, look away, and read it again. *Why:* In dreams, words and clocks often change when you look again. Awake, they stay the same.
-9. (mcq) Pooja, a girl in Class 2, hears a jingle in the washing and thinks it is her lost anklet. What is the best way to check it is her anklet?  
+9. (mcq) You hear a jingle in the washing and think it is your lost anklet. What is the best way to check that it is your anklet?  
    Options: Shake the cloth again, ask someone else to listen, and feel for it / Decide it must be the anklet / Go to sleep and dream about it  
    **Answer:** Shake the cloth again, ask someone else to listen, and feel for it. *Why:* Testing it again, with another sense and another person, is how we check what is real.
-10. (mcq) Before the door test, Fatima, a girl in Class 2, guessed she would get all 8 right. She got 5. What should she write?  
+10. (mcq) Before the door test, you guessed you would get all 8 sounds right. You got 5. What should you write?  
    Options: I guessed 8. I got 5. Some phone sounds fooled me. / I got 8, because I guessed 8. / Nothing, because my guess was wrong.  
    **Answer:** I guessed 8. I got 5. Some phone sounds fooled me.. *Why:* A good scientist writes the guess and the real result, even when they differ. A wrong guess is how we learn something new.
 
@@ -525,10 +525,10 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 - What did the phone say after fooling everyone in the door test? *Don't look at me, I'm just repeating myself!*
 
 ## Connected maths
-- In the door test, Sneha got 6 of the 8 sounds right. How many did she get wrong? Did she get more right or more wrong? **2 wrong. She got more right: 6 is more than 2.**. 8 take away 6 is 2. She got 6 right and only 2 wrong. (queues `math.addition-subtraction.meaning.L2`)
-- Two children did the door test. Leela got 7 right. Her brother Kiran got 4 right. How many more did Leela get right? If they just guessed with their eyes shut, about how many would each get right out of 8? **Leela got 3 more. Just guessing would give about 4 right, because each sound is real or phone, half and half.**. 7 take away 4 is 3. Half of 8 is 4, so 4 right is about what plain guessing gives. Leela did better than guessing. Kiran did about as well as guessing. (queues `math.fractions.halves-and-quarters.L2`)
-- Ananya kept a dream notebook for 5 mornings. She remembered a dream on Monday, Wednesday and Thursday. Make a tally of 'dream' and 'no dream'. On how many mornings did she remember no dream? **Dream: |||. No dream: ||. She remembered no dream on 2 mornings.**. 3 mornings had a dream: Monday, Wednesday and Thursday. 5 take away 3 is 2: Tuesday and Friday. (queues `math.data.sorting-and-tallies.L2`)
-- In her dreams, Ananya listed 9 things from her own days and 3 new things. Which list is longer? How many things were there in all? **The 'from my days' list is longer. There were 12 things in all.**. 9 is more than 3. 9 and 3 make 12. So most things in her dreams came from her own days. (queues `math.number-sense.comparing-ordering.L2`)
+- In the door test, you got 6 of the 8 sounds right. How many did you get wrong? Did you get more right or more wrong? **2 wrong. You got more right: 6 is more than 2.**. 8 take away 6 is 2. You got 6 right and only 2 wrong. (queues `math.addition-subtraction.meaning.L2`)
+- Two children did the door test. The first child got 7 right. The second child got 4 right. How many more did the first child get right? If they just guessed with their eyes shut, about how many would each get right out of 8? **The first child got 3 more. Just guessing would give about 4 right, because each sound is real or phone, half and half.**. 7 take away 4 is 3. Half of 8 is 4, so 4 right is about what plain guessing gives. The first child did better than guessing. The second child did about as well as guessing. (queues `math.fractions.halves-and-quarters.L2`)
+- You kept a dream notebook for 5 mornings, Monday to Friday. You remembered a dream on Monday, Wednesday and Thursday. Make a tally of 'dream' and 'no dream'. On how many mornings did you remember no dream? **Dream: |||. No dream: ||. You remembered no dream on 2 mornings.**. 3 mornings had a dream: Monday, Wednesday and Thursday. 5 take away 3 is 2: Tuesday and Friday. (queues `math.data.sorting-and-tallies.L2`)
+- In your dream notebook, you listed 9 things from your own days and 3 new things. Which list is longer? How many things were there in all? **The 'from my days' list is longer. There were 12 things in all.**. 9 is more than 3. 9 and 3 make 12. So most things in the dreams came from your own days. (queues `math.number-sense.comparing-ordering.L2`)
 
 ## Song
 What Is Real? (sci.what-is-real.L2): Topic-level song for What is real? L2

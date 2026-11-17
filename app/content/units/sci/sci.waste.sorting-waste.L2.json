@@ -537,7 +537,7 @@
      "what": "Touch the eight pieces and guess which will leave a wet mark. Press them under a book for 10 minutes. Look for wet marks. Sort the pieces into bins."
     }
    ],
-   "record": "Fill in the table. Draw the two napkins that surprised you most. Circle the things that went in the wet bin but left no wet mark.",
+   "record": "Fill in the table. Draw one napkin that has a wet mark and one that does not. Circle the things that go in the wet bin but left no wet mark. Those are the ones that show a wet mark does not decide the bin.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -811,9 +811,9 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Take the bags down. 2. Empty each bag on a tray, one at a time. 3. Count the things in each and make tally marks. 4. Put the waste back in its bag.",
-     "say": "Let's count. Make a tally mark for each thing. Which bag has more things?",
+     "say": "Let's count. Make a tally mark for each thing. Which bag has more things? Is it the same bag that was heavier?",
      "kid": "Count the things in each bag. Make a tally mark for each one.",
-     "parent": "Count a heap of rice or tea leaves as one thing. Wash hands after this step."
+     "parent": "Count a heap of rice or tea leaves as one thing. Wash hands after this step. The bag with more things is not always the heavier bag, so this count shows that the number of things does not tell us the weight."
     },
     {
      "id": "s4",

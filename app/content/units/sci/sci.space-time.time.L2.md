@@ -35,20 +35,20 @@ Everyone uses time, but nobody agrees exactly what it is. We know time has passe
 ### Before and after · *defined*
 **Definition:** Before means earlier in time, and after means later. Putting events in order of before and after is called putting them in sequence.
 
-Many things always happen in the same order. A seed sprouts before the plant grows. Milk comes before curd. The order tells us a story about what happened. Often the first thing makes the next thing happen. You cannot get curd without milk first.
+Many things always happen in the same order. A seed sprouts before the plant grows. Milk comes before curd. Knowing the order helps us understand what happened. Often the first thing makes the next thing happen. You cannot get curd without milk first.
 - e.g. Rice and urad dal are soaked, then ground into batter, then left overnight, then cooked into idli.
 - e.g. A mango tree flowers before the mangoes grow.
 - e.g. A caterpillar becomes a butterfly, never the other way round.
 ### What makes a clock · *defined*
 **Definition:** A clock is anything that changes at a steady speed, with a way to count the change.
 
-In the salt timer, salt runs out at a steady speed. So one spoonful always takes about the same time, and two take about twice as long. Every clock works the same way: something changes steadily, and we count it. Most wristwatches count the shaking of a tiny quartz crystal, 32,768 times every second. The best clocks, atomic clocks, count very fast, steady ticks inside atoms.
+In the salt timer, salt runs out at a steady speed. So one spoonful always takes about the same time, and two take about twice as long. Every clock works the same way: something changes steadily, and we count it. Most wristwatches have a tiny crystal of quartz inside. The crystal shakes 32,768 times every second, and the watch counts the shakes. The best clocks are atomic clocks. They count the ticks inside atoms, which are very fast and very steady.
 - e.g. A salt or sand timer counts the salt or sand running out.
 - e.g. Long ago in India, a ghati was a small bowl with a hole that floated in water and sank in a set time.
 - e.g. A pendulum clock counts the swings of a weight on a rod.
 - e.g. The Earth spinning once gives us one day.
 ### Seconds, minutes, hours, days, months and years · *defined*
-**Definition:** A day is one spin of the Earth. A year is one trip of the Earth round the Sun. A month is about one round of the Moon's shapes. Seconds, minutes, hours and weeks are pieces people chose.
+**Definition:** A day is one spin of the Earth. A year is one trip of the Earth round the Sun. A month is about one round of the Moon's shapes. Seconds, minutes, hours and weeks are pieces of time that people chose.
 
 Some units of time come from the sky. The Earth spins once in a day. The Moon goes from full moon to the next full moon in about 29 and a half days, which is about a month. The Earth goes round the Sun in about 365 and a quarter days, which is a year. People chose the 7-day week, the 24 hours in a day and the 60 minutes in an hour. Long ago in India, a day had 60 nazhigai, and one nazhigai was 24 minutes.
 - e.g. 60 seconds make 1 minute, and 60 minutes make 1 hour.
@@ -57,7 +57,7 @@ Some units of time come from the sky. The Earth spins once in a day. The Moon go
 ### Many calendars, one day · *defined*
 **Definition:** A calendar is a way of counting days into weeks, months and years. Different calendars count from different starting days.
 
-Many Indian wall calendars show more than one date for each day. One is the date used across the world, like 2 November. Another may be the Tamil, Malayalam or Bengali date. Many also show the Moon's phase and the Islamic date. The Islamic calendar follows the Moon, so its year is about 11 days shorter. That is why Ramzan comes about 11 days earlier each year.
+Many Indian wall calendars show more than one date for each day. One is the date used across the world, like 2 November. Another may be the Tamil, Malayalam or Bengali date. Many also show the Moon's phase and the Islamic date. The Islamic calendar follows the Moon, so its year is about 11 days shorter than the Sun's year. That is why Ramzan comes about 11 days earlier each year.
 - e.g. Onam falls in the Malayalam month of Chingam.
 - e.g. Pohela Boishakh, the Bengali new year, and Puthandu, the Tamil new year, both come in the middle of April.
 - e.g. The names of the weekdays come from the Sun, the Moon and five planets: Ravivar or Nyayiru is the Sun's day, Somavar or Thingal is the Moon's day.
@@ -70,15 +70,15 @@ People picture time in different ways. Some see a line, going one way, from the 
 - **People who picture time as a wheel:** Time turns round and round. Morning, the rains and Pongal all come back. The world goes through the same ages again and again.
 - **Many scientists today:** Small things repeat, like days and years. But the whole universe has a history that goes one way. It began about 13.8 billion years ago and has been changing ever since.
 ### Who else keeps time? · *idea*
-You are not the only one who keeps time. Bean plants lift their leaves before the morning comes. Crows fly home to their trees at dusk. Even tiny bacteria keep a daily clock. Living beings sense the day, remember its rhythm and get ready for what comes next. Some scientists call these body clocks and describe how they work as chemistry.
+You are not the only one who keeps time. Bean plants lift their leaves before the morning comes. Crows fly home to their trees at dusk. Even tiny bacteria keep a daily clock. Living beings sense the day, remember its rhythm and get ready for what comes next. Some scientists call this a body clock, and explain how it works with chemistry.
 - e.g. You feel sleepy at about the same time each night.
 - e.g. A rooster starts crowing just before dawn.
 - e.g. Jasmine buds open in the evening.
 
 ## Mostly agreed
 - A day is the time the Earth takes to spin once. A year is the time the Earth takes to go once round the Sun, about 365 and a quarter days. *How we know:* Astronomers have measured the Earth's spin and its path round the Sun for thousands of years, from India, China, Babylon, Greece and the Maya lands, and the numbers agree.
-- Every clock works by counting something that changes steadily. *How we know:* Sand timers, water clocks, pendulum clocks, quartz watches and atomic clocks all do this. A clock is only as good as its steady change.
-- Atomic clocks are the most exact clocks people have made. Since 1967, one second has been measured with them. *How we know:* Scientists everywhere agreed to define one second as 9,192,631,770 ticks inside a caesium atom. Good atomic clocks lose less than one second in millions of years.
+- Every clock works by counting something that changes steadily. *How we know:* Sand timers, water clocks, pendulum clocks, quartz watches and atomic clocks all do this. The steadier the change, the better the clock.
+- Atomic clocks are the most exact clocks people have made. Since 1967, the length of one second has been set by an atomic clock. *How we know:* Scientists everywhere agreed to define one second as 9,192,631,770 ticks inside a caesium atom. Good atomic clocks lose less than one second in millions of years.
 - Indian Standard Time is kept by atomic clocks at the CSIR-National Physical Laboratory in New Delhi. *How we know:* The laboratory keeps India's official time and shares it so that phones, trains and offices agree. Indian Standard Time is 5 and a half hours ahead of the world's standard time.
 
 ## How we found out
@@ -99,7 +99,7 @@ You are not the only one who keeps time. Bean plants lift their leaves before th
 ## Roots
 We have made a clock from salt, put events in order, and read calendars that count the same day in different ways. Now we ask what time tells us about ourselves and the world.
 
-**Deep truth.** Two spoons of salt took about twice as long to run out as one. The salt ran at a steady speed, so its amount showed how long had passed. Every clock works this way, by counting a steady change. Nobody has ever measured time without watching something change.  
+**Deep truth.** In the Salt Timer experiment, two spoons of salt took about twice as long to run out of the paper cone as one. The salt ran at a steady speed, so the amount of salt that had run out showed how much time had passed. Every clock works this way, by counting a steady change. Nobody has ever measured time without watching something change.  
 *Habit it breaks:* We talk about time as if it were a thing flowing by on its own, and a clock as a box that holds it. But every clock we can find counts a change: salt running, a quartz crystal shaking, the Earth spinning.  
 *Evidence:* In the salt-timer test, each spoonful took about the same time, and two spoonfuls took about twice as long. The cone showed time only while the salt was running. When it stopped, the timer showed nothing more.
 
@@ -107,25 +107,25 @@ We have made a clock from salt, put events in order, and read calendars that cou
 - *what is life:* Living beings keep time too. You get hungry at lunchtime, crows fly home at dusk, and bean plants lift their leaves before the morning.
 - *what is this world:* The world is always changing, and some of its changes are very steady: the Earth spins, the Moon goes round, the seasons return. People count these steady changes and call it time.
 
-Time shows up only through change. Salt falls, the Earth turns, a child grows. The same steady change can be counted by a cone of salt, a clock, a calendar or a living body. Bean plants and crows sense the day's rhythm, remember that rhythm and get ready for what comes next, just as you feel sleepy at bedtime. Some scientists call these automatic body clocks. Every one of these clocks, of salt or of living cells, is a different way of keeping count of the same changing world.
+Time shows up only through change. Salt falls, the Earth turns, a child grows. A cone of salt, a clock, a calendar and a living body each keep count of a steady change. Bean plants and crows sense the day's rhythm, remember it and get ready for what comes next, just as you feel sleepy at bedtime. Some scientists call this an automatic body clock. Every one of these clocks, of salt or of living cells, is a different way of keeping count of the same changing world.
 
 - **Augustine of Hippo, Confessions, Book 11, chapter 14:** Augustine, a thinker in North Africa about 1,600 years ago, wrote: 'What then is time? If nobody asks me, I know. If I try to explain it to someone who asks, I do not know.' (Everyone in your family uses time every day, but it is very hard to say what it is. Your salt timer gives one plain thing we can say: we know time by counting a steady change.)
 - **Nagarjuna, Mulamadhyamakakarika, chapter 19 (the examination of time):** Nagarjuna, a Buddhist teacher in India about 1,800 years ago, often linked with what is now Andhra Pradesh, taught that time does not exist on its own. It depends on things. If there were no things, there could be no time. (Your salt timer showed time only while the salt was running. When the salt stopped, it showed nothing more. Nagarjuna said something like this about all of time.)
 - **Aristotle, Physics, Book 4, chapter 11:** Aristotle, a Greek thinker, said that time is the counting of change, of what comes before and what comes after. (In the salt timer, you counted the salt that had run out, from before to after. That is just what Aristotle said time is.)
 - Science (settled): The most exact clocks, atomic clocks, count very fast, very steady ticks inside caesium atoms. Since 1967, one second has been 9,192,631,770 of these ticks.
 - Science (open): Whether time could pass in a world where nothing at all changed is still argued about by physicists and philosophers.
-- Other view, Isaac Newton, the English scientist: In 1687 Newton wrote that true time flows evenly by itself, whether anything changes or not. On his view, clocks do not make time by changing. They only try to keep up with a time that would go on even in an empty, still world. Many people today still picture time this way.
-- Practice, Listen to time passing (3 min): Sit still and close your eyes. Listen to every sound you can hear. Notice when a sound starts and when it stops. Maybe a fan, a bird, a horn or a cooker. I will say 'stop' after a while. Then guess how long it was, and tell me how you knew time was passing.
+- Other view, Isaac Newton, the English scientist: In 1687 Newton wrote that true time flows evenly by itself, whether anything changes or not. In his view, clocks do not make time by changing. They only try to keep up with a time that would go on even in an empty, still world. Many people today still picture time this way.
+- Practice, Listen to time passing (3 min): Sit still and close your eyes. Listen to every sound you can hear. It may be a fan, a bird, a horn or a cooker. Notice when each sound starts and when it stops. I will say 'stop' after a while. Then guess how long it was, and tell me how you knew time was passing.
 - Ask: Is there anything at home that changes so steadily that you could count it as a clock?
-- Ask: Is the time in the clock, in the salt, or in you?
+- Ask: The salt timer showed time only while the salt was running. Is time something out in the world, or only something we count?
 - Ask: A crow and a bean plant keep time without a clock. How do you think they know?
 
 ## Deep and big questions
-- *deep:* If everything in the world stopped changing, even your heartbeat, would time still pass? (hint: Think about how you knew that time passed in the salt timer. What would you have to watch if nothing changed?)
+- *deep:* If everything in the world stopped changing, even your heartbeat, would time still pass? (hint: In the salt timer, you knew time had passed because the salt ran out. What could you watch if nothing changed?)
 - *deep:* Your salt timer and the Earth both count time. Is one of them the real time? (hint: Each one counts a steady change. Which change is steadier, and who decides which one to trust?)
-- *big:* Why do we remember yesterday but not tomorrow? (hint: Think about which way changes go. Do you ever see batter turn back into rice?)
-- *big:* Did time have a beginning? (hint: Scientists say the universe began about 13.8 billion years ago. Ask what came before, and whether 'before' makes sense then.)
-- *deep:* A minute of waiting feels long, and a minute of play feels short. Which one is the true minute? (hint: The clock counts one steady change. Your feeling counts something else. What does it count?)
+- *big:* Why do we remember yesterday but not tomorrow? (hint: Think about which way changes go. Batter becomes dosa, but a dosa never turns back into batter. In the same way, yesterday has left traces, such as memories, and tomorrow has not.)
+- *big:* Did time have a beginning? (hint: Scientists say the universe began about 13.8 billion years ago. Ask what came before that. Does the word 'before' even make sense there?)
+- *deep:* A minute of waiting feels long, and a minute of play feels short. Which one is the true minute? (hint: The clock counts a steady change, such as hands going round. Your feeling depends on how interested you are and how much you notice. Which one would you call the true minute, and why?)
 
 ## Story: The Salt Clock in the Power Cut
 *Kavya, Arjun, Amma and Paati are made up. Paati means grandmother in Tamil, and Amma means mother. The facts in the story are true: Aippasi is a Tamil month in October and November, when the northeast monsoon brings heavy rain to Tamil Nadu. Salt runs from a cone at a steady speed, and many Tamil wall calendars show the Tamil date under the date used across the world.*
@@ -170,7 +170,7 @@ Before bed, Kavya looked at the wall calendar. Under the big number for the day 
 
 The next evening, Kavya showed Arjun how to make the cone himself. 'Always one full spoon,' she told him. 'Then it is fair.' Arjun filled it carefully, right to the brim of the spoon.
 
-**For the parent:** Kavya sees that the salt cone is a clock only because the salt runs out at a steady speed. A clock does not hold time inside it. People find time by counting a steady change, whether it is salt, wheels or days.
+**For the parent:** Kavya sees that the salt cone is a clock only because the salt runs out at a steady speed. A clock does not hold time inside it. People find time by counting a steady change, such as salt running, clock hands going round, or days passing.
 
 - Ask: Why did Kavya and Arjun quarrel over the torch?
 - Ask: How did Paati make a clock from things in the kitchen?
@@ -179,7 +179,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 
 ## Games
 ### g1 · Before or After? a two-sided card game (15 min)
-- **rules:** Cut out the 12 cards. Fold or stick each one so the question is on the front and the answer is on the back.; Put the cards in a pile, question side up.; Take turns. Read the top card aloud and say which comes first, and why.; Turn the card over. If your answer matches the back, keep the card.; If it does not match, put the card to one side. Read the back aloud together so everyone learns it.; The moon card is special. Saying 'both', or saying one of them and giving the reason 'they take turns', wins the card.; When the pile is gone, the player with the most cards wins. With two players, each count your cards. If you have the same number, you both win.
+- **rules:** Cut out the 12 cards. Fold or stick each one so the question is on the front and the answer is on the back.; Put the cards in a pile, question side up.; Take turns. Read the top card aloud and say which comes first, and why.; Turn the card over. If your answer matches the back, keep the card.; If it does not match, put the card to one side. Read the back aloud together so everyone learns it.; The moon card is special. Saying 'both', or saying one of them and giving the reason 'they take turns', wins the card.; When the pile is gone, everyone counts their cards. The player with the most cards wins. If two players have the same number, they both win.
 - **Printable cards: 12 before-or-after cards to cut out:** Milk or curd: which comes first? (back: Milk. Curd is made by leaving warm milk with a spoon of old curd.); Dosa or batter: which comes first? (back: Batter. It is poured on a hot tawa to make the dosa.); Seed or plant: which comes first? (back: Seed. A seed sprouts and grows into a plant.); Egg or chick: which comes first, for this one chick? (back: Egg. The chick grows inside the egg, then hatches.); Caterpillar or butterfly: which comes first? (back: Caterpillar. The caterpillar makes a hard case around herself and comes out as a butterfly.); Mango flower or mango: which comes first? (back: Flower. Bees and other insects visit the flower, then the mango grows.); Rain or puddle: which comes first? (back: Rain. The rain falls and the water collects in a puddle.); An ice cube melts on a plate. Ice or water: which comes first? (back: Ice. The ice melted into water.); Thunder or lightning: which do you notice first? (back: Lightning. The light reaches you before the sound.); Baby teeth or grown-up teeth: which come first? (back: Baby teeth. They fall out and grown-up teeth grow in.); Cotton or shirt: which comes first? (back: Cotton. Cotton is spun into thread and woven into cloth.); Full moon or new moon: which comes first? (back: Both. Each one comes after the other, again and again, about every two weeks.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Read two cards aloud with your child. 3. Pile the rest question side up.  
@@ -195,12 +195,13 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   *Parent does:* Talk about the moon card.  
   *Parent says:* The moon card said both. Why is that?  
   *Child mode:* Why can the full moon and the new moon both come first?
-  - Ask: Why both? (good: They take turns.; They come round again and again, like a wheel.)
-  - Note: This card shows things that come round in a cycle. In a cycle, nothing is first for good. This links to the 'line or wheel' idea.
+  - Ask: Why can both the full moon and the new moon come first? (good: They take turns.; They come round again and again, like a wheel.)
+  - Note: This card shows things that come round in a cycle. In a cycle, nothing is first for good. This links to the explanation 'A line or a wheel?'
 - **s4 (2 min)**  
   *Parent does:* Count the cards and find the winner.  
-  *Parent says:* Which card was the hardest? Why?  
-  *Child mode:* Which card was the hardest for you?
+  *Parent says:* Pick one card that was hard. Did the first thing make the second thing, or did they take turns? How can you tell?  
+  *Child mode:* Pick a hard card. Did the first thing make the second, or did they take turns?
+  - Note: For milk and curd, the milk turns into the curd, so the milk comes first. For the full moon and the new moon, they take turns, so neither one is first for good.
   - Think: Can you think of two things where the order can go either way?
 ### g2 · Seconds, Minutes, Days or Years? a sorting race (15 min)
 - **rules:** Lay the four mats in a row, from Seconds to Months or years.; Mix the 12 cards and share them out.; Take turns. Put one card on the mat you think is right, and say why.; When all the cards are down, turn them over one by one to check.; Move any card that is on the wrong mat. Each card that was right scores one point.
@@ -217,7 +218,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   - Ask: Why that mat? (good: You wait for the egg, but not all day.; A baby takes many months to grow.)
 - **s3 (3 min)**  
   *Parent does:* Turn the cards over and check them together. Move any that are wrong.  
-  *Parent says:* Let's check the backs. Did any surprise you?  
+  *Parent says:* Let's check the backs together. Which cards were on the wrong mat? What clue on the back shows the right mat?  
   *Child mode:* Turn the cards over. Were any in the wrong place?
   - Check: Which takes the longest? → **The Earth going round the Sun**
 - **s4 (2 min)**  
@@ -227,6 +228,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 
 ## Experiments
 ### e1 · The Salt Timer: does each spoonful take the same time? (20 min)
+- **problem:** A clock is anything that changes at a steady speed, with a way to count the change. You will make a timer from a paper cone and salt, and the salt running out is the change you count. You will test whether one spoon of salt takes the same time every try, and whether two spoons take twice as long. If they do, your cone is a steady clock.
 - **question:** Does one spoon of salt take the same time to run out of a paper cone every time? Do two spoons take twice as long?
 - **predict:** Will one spoon of salt take the same time every try? Will two spoons take twice as long, or less, or more? Why do you think so?
 - **fair test:** We use the same cone, the same salt and the same spoon every time. Each spoon is filled level, not heaped. We start and stop the stopwatch the same way every time. Only one thing changes: one spoon or two. We try each one more than once, because one try can be a lucky or unlucky one.
@@ -240,7 +242,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason before the first try. Write the guesses in the table.  
   *Parent says:* How many seconds will one spoon of salt take to run out? Will it be the same every time? Why do you think so?  
-  *Child mode:* Guess: how many seconds for one spoon? Same every time? Why?
+  *Child mode:* Guess how many seconds one spoon of salt will take to run out. Will it be the same every time? Why?
   - Ask: Why do you think so? (good: Yes, because it is the same salt and the same hole.; No, because the salt might get stuck.; It will slow down at the end, like water does.)
   - Note: Any guess with a reason is good. Many children think the salt will slow down at the end. Let the test answer it.
 - **s3 (4 min)**  
@@ -249,7 +251,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   *Child mode:* Watch the salt. Shout 'stop' when the last salt falls.
   - Note: Your child watches the stream and you work the stopwatch, or the other way round. Write the seconds in the table. Pour the salt from the tumbler back into the bowl.
 - **s4 (3 min)**  
-  *Parent does:* Do the same with one spoon two more times. Write each time.  
+  *Parent does:* Do the same with one spoon two more times. Write down the time for each try.  
   *Parent says:* Let's try one spoon again. Was it the same as last time?  
   *Child mode:* Do it two more times. Are the times close?
   - Note: The times usually come within a second or two of each other. If one try is very different, ask what went wrong. Perhaps the spoon was heaped, or salt stuck to the side.
@@ -271,6 +273,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   - Note: Sand and salt grains run out at nearly the same speed, however much is left above them. Water is different: it runs out more slowly as the bottle empties. That is why sand timers were so useful.
   - Think: What other steady changes could you use as a clock?
 ### e2 · Which Way Does Time Go? The banana card test with your family (20 min)
+- **problem:** Everyone can put pictures in order, from first to last, but not everyone lays them down the same way. Some people start on the left and some start on the right. You will ask people in your family to put four banana pictures in order. Then you will see whether the way a person reads, such as Tamil or Urdu, changes the way they lay out time.
 - **question:** When people lay out pictures in order of time, which way do they go?
 - **predict:** Will everyone in the family lay the cards from left to right? Will anyone go another way? Why do you think so?
 - **fair test:** Everyone gets the same four cards, mixed up the same way. We say the same words to everyone: 'Put these in order, from first to last.' We never say left or right. Each person does it alone, without watching the others.
@@ -283,12 +286,12 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason. Write the guesses in the table.  
   *Parent says:* Will everyone put the cards from left to right? Will anyone go another way? Why do you think so?  
-  *Child mode:* Guess: which way will each person go? Why?
+  *Child mode:* Guess which way each person will lay the cards. Why?
   - Ask: Why do you think so? (good: Left to right, because that is how we read.; Someone who reads Urdu may go another way.; A young child who cannot read yet may put them in a pile.)
 - **s3 (8 min)**  
   *Parent does:* 1. Give each person the mixed cards. 2. Say only: 'Put these in order, from first to last.' 3. Watch where they put the first card and the last card. 4. Ask which languages they read.  
   *Parent says:* Please put these in order, from first to last.  
-  *Child mode:* Say: put these in order, from first to last. Watch which way they go.
+  *Child mode:* Ask each person to put the cards in order, from first to last. Watch which way they lay them.
   - Note: Never say left or right. On a video call, ask the person to hold their row up to the camera. Note that the picture on a phone camera may be flipped, so ask them to point to the first card.
 - **s4 (3 min)**  
   *Parent does:* Look at the table together.  
@@ -298,8 +301,9 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   - Note: In many Indian homes everyone goes left to right, because Tamil, Hindi, English and most Indian scripts are written left to right. That is a real result. People who read Urdu or Arabic, written right to left, more often lay out time from right to left.
 - **s5 (2 min)**  
   *Parent does:* Tell your child what scientists have found.  
-  *Parent says:* Scientists have found that people often lay out time the way they read. In one Aboriginal community in Australia, people lay out time from east to west.  
-  *Child mode:* People often lay out time the way they read.
+  *Parent says:* Scientists have found that people often lay out time the way they read. People who read from left to right usually lay it out from left to right. In one Aboriginal community in Australia, people lay out time from east to west, whichever way they are facing.  
+  *Child mode:* People often lay out time the way they read. In one place in Australia, they use east to west.
+  - Note: A person who lays out time the way they read turns the cards with their body. A person who lays out time from east to west keeps the cards pointing the same way on the compass, even after turning to face another way.
   - Think: If you faced the other way, would your cards still go the same way?
 
 ## Activities
@@ -315,7 +319,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   - Ask: What clues did you find? (good: The clothes on the line are dry now.; The milk in the vessel has set into curd.; The light at the window has moved.; My plate is empty and I am hungry again.)
   - Note: Any change counts: drying clothes, risen dosa batter, a wilting flower, a new newspaper, the light. Point out that every clue is a change.
 - **s3 (2 min)**  
-  *Parent does:* Look at the ice cube again. Then look at the baby photo together.  
+  *Parent does:* Look at the ice cube again. Then look at a photo of your child as a baby together.  
   *Parent says:* What happened to the ice cube? And look at you as a baby. What has changed?  
   *Child mode:* Look at the ice cube now. Look at your baby photo. What changed?
   - Note: A small ice cube on a steel plate in a warm flat is mostly melted in about 8 to 10 minutes. If it is still a big lump, say it has changed a little, and look again later.
@@ -327,7 +331,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   - Note: There is no single right answer. Many grown-ups find this hard too. Tell your child that people have argued about it for thousands of years.
 ### a2 · First, Next, Then, Last: draw your morning in four boxes (15 min)
 - **s1 (7 min)**  
-  *Parent does:* Your child draws four things from this morning, one in each box.  
+  *Parent does:* Your child draws four boxes on a sheet of paper, then draws one thing from this morning in each box.  
   *Parent says:* Draw four things you did this morning, in the order you did them.  
   *Child mode:* Draw four things you did this morning, in order.
 - **s2 (4 min)**  
@@ -335,7 +339,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   *Parent says:* Put them back in order. Say first, next, then and last.  
   *Child mode:* Put them back in order. Say first, next, then, last.
 - **s3 (4 min)**  
-  *Parent does:* Ask which pairs can swap and which cannot.  
+  *Parent does:* Ask which two pictures can swap places and which two cannot.  
   *Parent says:* Could you swap any two pictures and still have a true morning? Which two can never swap?  
   *Child mode:* Which two pictures can swap? Which two never can?
   - Ask: Which can never swap? (good: Waking up must come before everything else.; Eating must come before washing my plate.; Brushing and bathing could swap.)
@@ -388,7 +392,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   *Parent does:* Ask which clock to trust.  
   *Parent says:* If the clocks disagree, which one would you trust? Why?  
   *Child mode:* Which clock would you trust? Why?
-  - Ask: Which one? (good: The phone, because it sets itself.; I would check them against each other.)
+  - Ask: If the clocks disagree, which one would you trust, and why? (good: The phone, because it sets itself.; I would check them against each other.)
   - Note: India's official time is kept by atomic clocks at the National Physical Laboratory in New Delhi. Phones get their time from that kind of clock, through the network.
 
 ## Projects
@@ -416,8 +420,9 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
   - Note: Each day lasts the same 24 hours by the clock. How long it feels depends on what we are doing and feeling. Scientists still study why.
 - **s5 (5 min)**  
   *Parent does:* Ask what the chain measured.  
-  *Parent says:* What did the chain count? Was it time, or was it mornings?  
+  *Parent says:* What did the chain count? Think about what you tore off each morning.  
   *Child mode:* What did your chain count?
+  - Note: The chain counted days. Each loop stood for one day, which is one spin of the Earth. So the chain counted time in days, in the same way that the salt timer counted time in spoons of salt.
   - Think: Could you make a chain for a whole year? How many loops would it need?
 
 ## Challenges
@@ -453,7 +458,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
    **Answer:** ['rice and urad dal are soaked', 'the soaked rice and dal are ground', 'the batter is left overnight', 'the idlis are steamed']. *Why:* Each step needs the one before it. You cannot grind dal that has not been soaked, or steam batter that has not been made.
 2. (draw) Draw your salt timer. Draw the cone, the hole, the salt stream and the tumbler.  
    **Answer:** A cone with a small hole at the bottom, a thin line of salt falling, and a tumbler below.. *Why:* A strong drawing shows the small hole, because the hole decides how fast the salt runs.
-3. (write) Say it out loud, and a grown-up writes it: did one spoon of salt take the same time every try? Which numbers show it?  
+3. (write) In the Salt Timer experiment, did one spoon of salt take the same time every try? Which numbers show it? Say your answer aloud, and a grown-up writes it down.  
    **Answer:** For example: 'Almost. It took 18, 19 and 18 seconds. The times were very close.'. *Why:* A strong answer gives the real numbers from the table as evidence.
 4. (match) Draw a line from each thing to about how long it takes.  
    **Answer:** A blink → Less than a second; Brushing your teeth → About 2 minutes; A night's sleep → About 10 hours; A baby growing inside the mother → About 9 months. *Why:* These go from the shortest to the longest. A blink is over in a flash, and a baby takes most of a year to grow.
@@ -461,19 +466,19 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
    **Answer:** False. *Why:* False. A clock holds something that changes steadily, like salt running or a crystal shaking. We count the change and call it time.
 6. (fill) The salt ran out at a ________ speed, so each spoonful took about the same time.  
    **Answer:** steady. *Why:* Steady means the same speed all the way through. That is what makes the salt cone a clock.
-7. (perspective) Meera, a girl of 7 in Kochi, and her friend Farhana, a girl of 8 in Hyderabad, are talking about clocks.  
-   **Answer:** A strong answer picks a side with a reason, for example: 'Farhana, because my salt took 18 seconds every time.' Then it is fair to Meera: a wall clock is easier to read, and it can count a whole day.. *Why:* Both girls see something true. A clock needs a steady change, which the salt has. Numbers and hands make a clock easier to read, but they are not what makes it a clock.
+7. (perspective) Two people, the first person and the second person, are talking about clocks.  
+   **Answer:** A strong answer picks a side with a reason, for example: 'The second person, because my salt took 18 seconds every time.' Then it says what the first person has right: a wall clock is easier to read, and it can count a whole day.. *Why:* Both people see something true. A clock needs a steady change, which the salt has. Numbers and hands make a clock easier to read, but they are not what makes it a clock.
 8. (odd) Three of these can help you tell how much time has passed. Which one cannot?  
    Options: A salt timer / The wall calendar / The colour of your shirt / The Sun moving across the sky  
    **Answer:** 2. *Why:* Your shirt stays the same colour all day. The salt, the calendar and the Sun all change steadily, so we can count them.
-9. (sort) Sort each pair: which comes first, and which comes later?  
+9. (sort) There are three pairs: a flower bud and an open flower, flour and a roti, and wet clothes and dry clothes. In each pair, which thing comes first, and which comes later?  
    **Answer:** an open flower → Comes later; flour → Comes first; dry clothes → Comes later; a flower bud → Comes first; a roti → Comes later; wet clothes → Comes first. *Why:* In each pair, the first thing becomes the second. A bud opens into a flower, flour is made into a roti, and wet clothes dry on the line.
 10. (mcq) A salt timer ran out too fast, in only 3 seconds. What should the maker change?  
    Options: Make the hole smaller / Make the hole bigger / Use a bigger tumbler  
    **Answer:** Make the hole smaller. *Why:* A smaller hole lets less salt through each second. So the same salt takes longer to run out.
 ### Clocks, calendars and the week (stretch, 10 questions)
-1. (label) Here is one box from a Tamil wall calendar. Label the date used across the world, the Tamil date, and the Moon sign.  
-   **Answer:** The big number is the date used across the world. The small number with the Tamil month is the Tamil date. The little circle or crescent is the Moon sign.. *Why:* A strong answer finds all three, and knows they all name the same day.
+1. (label) Here is one box from a Tamil wall calendar. Label the date used across the world, the Tamil date, and the picture of the Moon.  
+   **Answer:** The big number is the date used across the world. The small number with the Tamil month is the Tamil date. The little circle or crescent is the picture of the Moon, which shows its shape that day.. *Why:* A strong answer finds all three, and knows they all name the same day.
 2. (mcq) What is one year?  
    Options: The time the Earth takes to go once round the Sun / The time the Moon takes to go from full to new / The time the Earth takes to spin once  
    **Answer:** The time the Earth takes to go once round the Sun. *Why:* A year is one trip of the Earth round the Sun, about 365 and a quarter days. Every birthday comes round once a year because of this.
@@ -483,8 +488,8 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
    **Answer:** 7, 24. *Why:* A week is 7 days. A day, one spin of the Earth, is counted as 24 hours.
 5. (write) Name two things that come round again, like Monday. Name two things that never come back.  
    **Answer:** For example: 'Monday and the rains come round again. Yesterday and my baby days never come back.'. *Why:* A strong answer separates things that repeat, like days and seasons, from changes that cannot be undone.
-6. (perspective) Lakshmi, a girl of 8 in Mysuru, and Ketki, a girl of 8 in Pune, are arguing about time.  
-   **Answer:** A strong answer picks a side with a reason, for example: 'Ketki, because Pongal comes every year.' Then it is fair to Lakshmi: I will never be 5 again.. *Why:* Both views are old and both see something true. Days and seasons come round, but some changes never go back.
+6. (perspective) Two people, the first person and the second person, are arguing about time.  
+   **Answer:** A strong answer picks a side with a reason, for example: 'The second person, because Pongal comes every year.' Then it says what the first person has right: I will never be 5 again.. *Why:* Both views are old and both see something true. Days and seasons come round, but some changes never go back.
 7. (order) Put these in order, from the shortest to the longest.  
    **Answer:** ['a second', 'a minute', 'an hour', 'a day', 'a week', 'a month', 'a year']. *Why:* 60 seconds make a minute, 60 minutes an hour, 24 hours a day, 7 days a week, about 30 days a month, and 12 months a year.
 8. (mcq) Why does Ramzan come about 11 days earlier each year?  
@@ -495,8 +500,8 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 10. (match) Draw a line from each unit of time to where it comes from.  
    **Answer:** A day → The Earth spinning once; A year → The Earth going once round the Sun; A month → The Moon going through all its shapes; An hour → People chose it. *Why:* Days, months and years come from the sky. The hour is a piece that people chose.
 ### How do we know time is passing? (challenge, 10 questions)
-1. (perspective) Rekha, a woman who teaches science in Chennai, and Mou, a girl of 9 in Kolkata, disagree.  
-   **Answer:** A strong answer picks a side with a reason, for example: 'Mou, because my salt timer only showed time while the salt was running.' Then it is fair to Rekha: all clocks keep together, as if they all follow one time.. *Why:* This is a real argument. Isaac Newton thought like Rekha. Aristotle and Nagarjuna thought more like Mou. Nobody has settled it.
+1. (perspective) The first person, a science teacher, and Mou, a girl of 9, disagree about time.  
+   **Answer:** A strong answer picks a side with a reason, for example: 'Mou, because my salt timer only showed time while the salt was running.' Then it says what the first person has right: all clocks keep together, as if they all follow one time.. *Why:* This is a real argument. Isaac Newton thought like the first person. Aristotle and Nagarjuna thought more like Mou. Nobody has settled it.
 2. (mcq) In the banana card test, one person who reads Urdu laid the cards from right to left. What is the best reason?  
    Options: Urdu is written from right to left, and people often lay out time the way they read / He made a mistake / He did not understand the cards  
    **Answer:** Urdu is written from right to left, and people often lay out time the way they read. *Why:* Scientists have found that people often lay out time the way they read and write. Urdu and Arabic are written from right to left.
@@ -520,7 +525,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
    **Answer:** True. *Why:* True. Each calendar counts days in its own way, by the Sun or the Moon. The day itself is the same day.
 
 ## Videos
-- **An hourglass: what it is and how the sand runs** (Kids Station, 1 min) id `S6FrzrWksWA`: Shows sand running through an hourglass, so a child sees a steady fall of sand count out time. *Check:* Found by search: "Exploring the Hourglass: A Children's Guide with Braino | شرح الساعة الرملية" by Kids Station, 1 min. A parent may preview it.
+- **An hourglass: what it is and how the sand runs** (Kids Station, 1 min) id `S6FrzrWksWA`: Shows sand running through an hourglass, so a child sees how a steady fall of sand counts time. *Check:* Found by search: "Exploring the Hourglass: A Children's Guide with Braino | شرح الساعة الرملية" by Kids Station, 1 min. A parent may preview it.
 - **The history of keeping time** (TED-Ed, 4 min) id `74I0M0RKNIE`: Shows that clocks count a steady change, from sundials and water clocks onward. *Check:* Found by search: "The history of keeping time - Karen Mensing" by TED-Ed, 4 min. A parent may preview it.
 - **How an 18th century observatory in India was built so precisely** (HISTORY TV18, 4 min) id `DAMdQ-1yVbU`: Shows the stone observatory built in the 18th century in India, where shadows from huge stone instruments tell time. *Check:* Found by search: "How did they build an observatory so precise and accurate in 18th Century? #OMGIndia S01E08 Story 2" by HISTORY TV18, 4 min. A parent may preview it.
 
@@ -557,7 +562,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 
 ## Applications
 - Trains and buses across India run on timetables, which only work because every station's clock shows the same Indian Standard Time.
-- Phones and maps find where you are by comparing signals from satellites, using very exact clocks on board.
+- Phones and maps find where you are by comparing signals from satellites, which carry very exact clocks.
 - Doctors and nurses time medicines, heartbeats and breaths.
 - Cooks time rice, eggs and sweets, with a clock or by counting pressure cooker whistles.
 - Farmers plan sowing and harvest by the calendar and the coming of the monsoon.
@@ -570,7 +575,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 - Crows flying home to their trees at dusk, at about the same time every evening.
 
 ## Open questions
-- **Why does time only go forward?** Many rules of physics work just as well backwards. Yet eggs break and never unbreak. Scientists have ideas about why, but no one is sure.
+- **Why does time only go forward?** Many of the rules physicists use would work just as well if a film of the world were played backwards. Yet in real life, eggs break and never unbreak, and we remember yesterday but not tomorrow. Scientists have ideas about why, but no one is sure.
 
 ## Questions to ask kids
 - What has changed since this morning? How do you know time has passed?
@@ -592,9 +597,9 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 
 ## Connected maths
 - In the salt-timer test, one spoon of salt ran out in 20 seconds. How long will 3 spoons take? **About 60 seconds, which is 1 minute.**. The salt runs at a steady speed, so each spoon adds about 20 seconds. Count on: 20, 40, 60. 60 seconds is 1 minute. (queues `math.time.telling-time.L2`)
-- Kavya, a girl in Class 2, makes a salt timer that takes 30 seconds. Her friend Arjun, a boy in Class 2, makes one that takes 20 seconds, with the same salt. Arjun says his timer is broken. Is he right? **No. Both timers can be steady. Arjun's cone probably has a bigger hole, so his salt runs out 10 seconds sooner.**. 30 take away 20 is 10, so Arjun's is 10 seconds quicker. A timer is not broken if it is quick. It is good if it takes the same time every try. (queues `math.time.telling-time.L2`)
-- Divya, a girl in Class 2, has a birthday on the 20th of the month. Today is the 13th. How many loops does her paper chain need? **7 loops.**. Count on from 13: 14, 15, 16, 17, 18, 19, 20. That is 7 days, so 7 loops. It is exactly one week. (queues `math.time.calendar.L2`)
-- Pongal is 3 weeks away. Meena, a girl in Class 2, wants one loop for each day. How many loops does she need? **21 loops.**. One week is 7 days. 3 weeks is 7 and 7 and 7. 7 and 7 make 14, and 14 and 7 make 21. (queues `math.time.calendar.L2`)
+- One salt timer takes 30 seconds to run out. A second timer, made with the same salt, takes 20 seconds. Is the second timer broken? **No. Both timers can be steady. The second cone probably has a bigger hole, so its salt runs out 10 seconds sooner.**. 30 take away 20 is 10, so the second timer is 10 seconds quicker. A timer is not broken if it is quick. It is good if it takes the same time every try. (queues `math.time.telling-time.L2`)
+- A birthday is on the 20th of the month. Today is the 13th. A paper chain has one loop for each day until the birthday. How many loops does it need? **7 loops.**. Count on from 13: 14, 15, 16, 17, 18, 19, 20. That is 7 days, so 7 loops. It is exactly one week. (queues `math.time.calendar.L2`)
+- Pongal is 3 weeks away. A paper chain has one loop for each day until Pongal. How many loops does it need? **21 loops.**. One week is 7 days. 3 weeks is 7 and 7 and 7. 7 and 7 make 14, and 14 and 7 make 21. (queues `math.time.calendar.L2`)
 
 ## Song
 Tick, Trickle, Turn (sci.space-time.L2): Topic-level song for Space, time and dimensions L2
@@ -615,7 +620,7 @@ Tick, Trickle, Turn (sci.space-time.L2): Topic-level song for Space, time and di
 - What makes one day? → The Earth spinning once.
 - What does every clock need? → Something that changes steadily, and a way to count it.
 - Which is longer, a month or a week? → A month.
-- Why did two spoons of salt take about twice as long as one? → The salt runs out at a steady speed.
+- In the salt timer, why did two spoons of salt take about twice as long to run out as one? → The salt runs out at a steady speed.
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, a4

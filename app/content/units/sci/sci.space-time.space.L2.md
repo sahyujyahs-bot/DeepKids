@@ -34,8 +34,8 @@ In the space hunt, you found space under your bed, between your fingers and insi
 ### Near and far: distance · *defined*
 **Definition:** Distance is how much space there is between two things. Near means a small distance. Far means a big distance.
 
-In Step It Out, the bed was fewer steps away than the door, so the bed was nearer. We use steps for short distances at home. For longer ones, we use metres and kilometres. A kilometre is about 1,300 steps of a grown-up. The Moon is about 384,000 kilometres away. That is so far that walking there, day and night without stopping, would take about 9 years.
-- e.g. 3 steps to the bed, and 7 steps to the door
+In Step It Out, you counted steps to places in your home. The place that took the fewest steps was the nearest. We use steps for short distances at home. For longer ones, we use metres and kilometres. A kilometre is about 1,300 steps of a grown-up. The Moon is about 384,000 kilometres away. That is so far that walking there, day and night without stopping, would take about 9 years.
+- e.g. 3 steps to the window, and 7 steps to the door
 - e.g. A short walk to the corner shop
 - e.g. The very long way to the Moon
 ### Why far things look smaller · *defined*
@@ -48,7 +48,7 @@ In the bottle strip test, the bottle never changed. But from 2 steps away it loo
 ### Is space empty? · *defined*
 **Definition:** The space in your room is full of air, though you cannot see it. Outer space, between the stars, is almost empty.
 
-The space between your bed and the wall looks empty. But it is full of air, made of tiny bits far too small to see. Wave your hand fast, and you feel them. High above the Earth, the air gets thinner and thinner. Out between the stars, a space the size of a sugar cube holds about one tiny bit of gas, or even less. Yet light from the Sun and stars crosses that space all the time.
+The space between your bed and the wall looks empty. But it is full of air. Air is made of tiny bits that are far too small to see. Wave your hand fast, and you feel them push against your skin. High above the Earth, the air gets thinner and thinner. Out between the stars, a space the size of a sugar cube holds only about one tiny bit of gas, or even less. Yet light from the Sun and stars crosses that space all the time.
 - e.g. Air you feel when you wave your hand
 - e.g. Thin air on a high mountain in Ladakh
 - e.g. Almost empty space between the stars
@@ -58,7 +58,7 @@ Nobody knows. We can only see part of space. Light from very far away has not ha
 - e.g. Looking at the night sky and seeing only the nearest stars
 - e.g. Asking 'and what is past that?' again and again
 - **Many scientists today:** Space may go on for ever, with no end at all. Measurements of space so far fit this idea.
-- **Other scientists:** Space may be very, very big but not endless. It could curve round on itself, like the skin of a ball, which has no edge but is not endless.
+- **Other scientists:** Space may be very, very big but not endless. It could curve round on itself, like the skin of a ball. You can walk on a ball's skin for ever and never reach an edge, yet the skin still has a size.
 - **Archytas, a thinker in ancient Greece, about 2,400 years ago:** If space had an edge, you could stand there and push a stick out. Either the stick goes on, so there is more space, or something stops it, so there is something beyond. So space has no edge.
 
 ## Mostly agreed
@@ -68,7 +68,7 @@ Nobody knows. We can only see part of space. Light from very far away has not ha
 - Outer space is almost empty. *How we know:* Spacecraft have measured it. Between the stars, there is only about one tiny bit of gas in a space the size of a sugar cube.
 
 ## How we found out
-**Henrietta Swan Leavitt, an American astronomer at Harvard College Observatory. Edwin Hubble, an American astronomer at Mount Wilson Observatory., Leavitt's rule in 1912. Hubble found the star in Andromeda in 1923 and announced his result in 1925..** A hundred years ago, many astronomers thought our Milky Way was the whole of space. The Milky Way is our home group of stars, called a galaxy. In the sky they could see faint, misty patches. Many thought these were small clouds inside the Milky Way. To find out, they needed to know how far away the patches were. Henrietta Swan Leavitt made that possible. She worked at Harvard College Observatory in the United States, studying photographs of stars, for very little pay. She studied stars that get brighter and dimmer, again and again, over days. In 1912 she showed that the slower such a star changes, the brighter it really is. If you know how bright a star really is, and see how bright it looks, you can work out how far away it is. In 1923, Edwin Hubble found one of these stars in the misty patch called Andromeda. Using Leavitt's rule, he showed that Andromeda is far outside the Milky Way. It is a whole galaxy of its own, and space is far bigger than people had thought.  
+**Henrietta Swan Leavitt, an American astronomer at Harvard College Observatory. Edwin Hubble, an American astronomer at Mount Wilson Observatory., Leavitt's rule in 1912. Hubble found the star in Andromeda in 1923 and announced his result in 1925..** A hundred years ago, many astronomers thought our Milky Way was the whole of space. The Milky Way is our home group of stars, called a galaxy. In the sky they could see faint, misty patches. Many thought these were small clouds inside the Milky Way. To find out, they needed to know how far away the patches were. Henrietta Swan Leavitt made that possible. She worked at Harvard College Observatory in the United States, studying photographs of stars, for very little pay. She studied stars that get brighter and dimmer, again and again, over days. In 1912 she showed that the slower such a star changes, the brighter it really is. If you know how bright a star really is, and see how bright it looks, you can work out how far away it is. A star looks dimmer the farther away it is. In 1923, Edwin Hubble found one of these stars in the misty patch called Andromeda. Using Leavitt's rule, he showed that Andromeda is far outside the Milky Way. It is a whole galaxy of its own, and space is far bigger than people had thought.  
 *What people believed before:* That the Milky Way was the whole of space, and the misty patches were small clouds inside it. Leavitt's way of measuring distance showed that Andromeda is a separate galaxy, very far away.
 
 ## Challenging perspectives
@@ -85,18 +85,18 @@ Nobody knows. We can only see part of space. Light from very far away has not ha
 ## Roots
 We have hunted for spaces, counted steps, measured a bottle from near and far, and looked into a tunnel of mirrors. Now we ask what space tells us about the world, and about ourselves.
 
-**Deep truth.** Your bottle stayed the same size all through the test. Yet from twice as far away, it looked about half as tall. Only the space between you and the bottle had changed. So you cannot tell how big a thing is just by looking, unless you know how far away it is.  
-*Habit it breaks:* We take how big a thing looks to be how big it is. The bottle test shows that the size we see depends on the space between us and the thing. That is how the Sun, about 400 times wider than the Moon, can look the same size.  
+**Deep truth.** In the Bottle Strip Test, the bottle stayed the same size the whole time. Yet from twice as far away, it looked about half as tall. Only the space between you and the bottle had changed. So you cannot tell how big a thing is just by looking, unless you know how far away it is.  
+*Habit it breaks:* We usually think a thing is as big as it looks. The Bottle Strip Test shows that the size we see depends on the space between us and the thing. That is how the Sun, about 400 times wider than the Moon, can look the same size.  
 *Evidence:* In the bottle strip test, the 2-step strip was about half the 1-step strip, and the bottle never moved or changed.
 
 - *who am i:* You take up a little space, and there is space all around you. Wherever you go, you are somewhere, near some things and far from others.
 - *what is life:* Living beings need space: room for a seed's roots to spread, for a bird on a wire, for a child to run. A plant in a crowded pot grows poorly.
 - *what is this world:* The world is things with space between them, from the gap under your bed to the huge distances between the stars. Nobody knows yet whether that space ever ends.
 
-Space is what lets things be apart, so that there can be near and far. The bottle looked small only because of the space between you and it. Everything is conscious, the bottle and the stars too, each meeting the world in their own way. Many scientists disagree, and say only living beings with brains are aware.
+Space is what lets things be apart, so that there can be near and far. In the Bottle Strip Test, the bottle looked small from far away only because of the space between you and the bottle. Everything is conscious, the bottle and the stars too, each meeting the world in their own way. Many scientists disagree, and say only living beings with brains are aware.
 
 - **Tao Te Ching, chapter 11:** Thirty spokes meet at the hub of a wheel, and the empty centre makes the wheel useful. A clay pot is useful because of the empty space inside. Doors and windows are useful because they are openings. (In the space hunt, the empty space inside the bottle and the tiffin box is what makes them useful. Space between things is not nothing. It is what lets us use and move things.)
-- **Jain thought, the Tattvartha Sutra, chapter 5:** Jain thinkers taught that space, called akasha, gives room to everything. They said the part of space where things live has an edge, and that beyond it lies empty space that goes on without end. (Jain thinkers asked the same question as the mirror tunnel: does space go on for ever? Their answer was that the world has an edge, but space itself does not.)
+- **Jain thought, the Tattvartha Sutra, chapter 5:** Jain thinkers taught that space, called akasha, gives room to everything. They said the part of space where things live has an edge, and that beyond it lies empty space that goes on without end. (Jain thinkers asked the question you asked at the Mirror Tunnel: does space go on for ever? Their answer was that the world has an edge, but space itself does not.)
 - **Rig Veda 10.129, the Nasadiya Sukta:** The hymn asks how the world began, and ends by asking whether anyone really knows, perhaps not even the one who watches from the highest heaven. (Scientists today still cannot say whether space goes on for ever. Saying honestly 'nobody knows yet' is part of science.)
 - Science (settled): From twice as far away, a thing looks about half as tall. This is why the Sun, about 400 times wider than the Moon and about 400 times farther away, looks the same size.
 - Science (settled): Outer space between the stars is almost empty, with about one tiny bit of gas in a space the size of a sugar cube.
@@ -109,9 +109,9 @@ Space is what lets things be apart, so that there can be near and far. The bottl
 
 ## Deep and big questions
 - *deep:* If you took every single thing out of a room, even the air, would there still be space in the room? (hint: Think of the space hunt. Was the space the things, or the room around them?)
-- *deep:* Your thumb can hide a building. How can you tell whether a thing is small, or big and far away? (hint: Think of the bottle strip test. What did you need to know besides how big the bottle looked?)
-- *big:* If space has an edge, what is on the other side of it? (hint: Think of Archytas pushing a stick through the edge of space.)
-- *big:* The stars look tiny. If you could fly to one, how big would it look? (hint: The Sun is a star. It is the nearest one to us.)
+- *deep:* Your thumb can hide a building. How can you tell whether a thing is small, or big and far away? (hint: In the Bottle Strip Test, the bottle looked smaller from farther away. What did you need to know besides how big the bottle looked?)
+- *big:* If space has an edge, what is on the other side of it? (hint: Archytas, a thinker in ancient Greece, asked: if you stood at the edge of space and pushed a stick out, where would the stick go?)
+- *big:* The stars look tiny. If you could fly to one, how big would it look? (hint: The Sun is a star, and it is the nearest one to us. It looks big and bright because it is near. Other stars look tiny because they are very far away.)
 - *big:* A crow sitting on a wire keeps a gap between her and the next crow. Why might birds need space around them? (hint: Watch birds on a wire or a ledge. Do they sit touching, or apart?)
 
 ## Story: Nila and the Wall at the End of the Sky
@@ -163,7 +163,7 @@ Adi looked. He gasped. Inside the big mirror was the hand mirror. Inside that wa
 
 "Count them," said Nila.
 
-Adi counted. "One, two, three" all the way to eleven. Then the bindis were too tiny and too dark to see.
+Adi counted. "One, two, three..." He went all the way to eleven. Then the bindis were too tiny and too dark to see.
 
 "Is that the end?" he asked.
 
@@ -191,13 +191,13 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Child mode:* Watch the cards. Nearer means closer. Farther means moving away.
 - **s2 (11 min)**  
   *Parent does:* 1. Play at least four rounds, swapping hider and seeker. 2. Keep count of the cards shown each round.  
-  *Parent says:* Nearer. Nearer. Oh, farther now. Very near!  
+  *Parent says:* Hold up the cards as the seeker walks: 'Nearer', 'Nearer', 'Farther', 'Very near'.  
   *Child mode:* Walk the way the cards tell you. Find the tumbler.
   - Ask: What does 'nearer' tell you about the space between you and the tumbler? (good: It is getting smaller.; There is less space between us.)
 - **s3 (2 min)**  
   *Parent does:* 1. Count the cards for each round. 2. Ask the question below.  
-  *Parent says:* Which round was quickest? What helped you find it?  
-  *Child mode:* Which round was quickest? What helped?
+  *Parent says:* Which round used the fewest cards? What did 'Nearer' and 'Farther' tell you about the space between you and the tumbler?  
+  *Child mode:* Which round used the fewest cards? What did the cards tell you?
   - Check: In the hiding game, the hider holds up 'Farther'. What should the seeker do? → **Turn and go back the other way**
 ### g2 · Near to Far: a line-up card game (15 min)
 - **rules:** Cut out the ten cards. Shuffle them.; Each player in turn takes a card and puts it in the line, where they think it goes: nearest at one end, farthest at the other.; A player may move one card that is already in the line, if they give a reason.; When all ten are in the line, turn them over and read the backs from nearest to farthest.; Count how many cards were in the right place. Shuffle and play again to beat your count.
@@ -210,18 +210,20 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Parent does:* 1. Take turns placing cards. 2. When the line is done, turn the cards over from the nearest end. 3. Read each back out loud.  
   *Parent says:* Where does the Moon go? Is the Moon nearer than the Sun, or farther? Why do you think so?  
   *Child mode:* Where does the Moon go? Is it nearer than the Sun?
-  - Ask: The Sun and the Moon look about the same size. How can you tell which is farther? (good: The Sun is much bigger, so it must be farther to look as small.; The back of the card says so.; The Moon can pass in front of the Sun.)
+  - Ask: The Sun and the Moon look about the same size. How can you tell which is farther? (good: The Sun is much bigger, so it must be farther to look as small.; The back of the card says so.; The card backs: the Sun is about 150 million kilometres away and the Moon about 384,000.)
 - **s3 (4 min)**  
-  *Parent does:* 1. Count the cards in the right place. 2. Ask the question below.  
-  *Parent says:* Which card surprised you most? Why?  
-  *Child mode:* Which card surprised you? Why?
+  *Parent does:* 1. Count the cards in the right place. 2. Ask the question below. 3. Read the backs of the two cards together.  
+  *Parent says:* Which is farther from us: the nearest star after the Sun, or the Andromeda galaxy? How do you know?  
+  *Child mode:* Which is farther: the nearest star or the Andromeda galaxy? How do you know?
+  - Note: The Andromeda galaxy is farther. The card backs say its light takes about 2.5 million years to reach us. Light from the nearest other star takes just over 4 years. A longer time for the light means a longer distance.
   - Check: Which of these is farthest from you? → **The Sun**
 
 ## Experiments
 ### e1 · The Bottle Strip Test: how big does a bottle look from far away? (25 min)
+- **problem:** A bottle looks smaller when you stand farther from it, but you cannot measure that with a ruler. So you use a pencil. Hold the pencil out at arm's length and slide your thumb along it, until the part between the pencil tip and your thumb is as tall as the bottle looks. That length is how tall the bottle looks from where you stand. You do this from three places and compare.
 - **question:** When you stand twice as far from a bottle, how tall does the bottle look?
 - **predict:** When you stand twice as far away, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?
-- **fair test:** We use the same bottle the whole time, and we never move it. The child holds the pencil the same way every time, with the arm straight and one eye closed, because a bent arm changes the size. Only the distance changes. We measure at each place twice, in case one try goes wrong.
+- **fair test:** We use the same bottle the whole time, and we never move it. The child holds the pencil the same way every time, with the arm straight and one eye closed, because a bent arm changes the measurement. Only the distance changes. We measure at each place twice, in case one try goes wrong.
 - **safety:** A grown-up does the cutting with scissors.
 - **record:** Glue or lay the three strips side by side on a page, longest first. Write '1 step', '2 steps' and '4 steps' under them.
 - **results table:** Where you stood | Strip from try 1 | Strip from try 2 | How many 4-step strips fit along it
@@ -232,29 +234,30 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   - Note: Use your own big steps, and keep them all the same length. You need about 3 metres in a straight line. A hall, a corridor or the space from a bedroom door to the far wall works.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask the questions below. 2. Write your child's guess and reason at the top of the paper. 3. Do not say who is right.  
-  *Parent says:* From 2 steps, how tall will the bottle look? Now think of 4 steps, which is twice as far. Will it look just as tall, a little shorter, or half as tall? Why do you think so?  
+  *Parent says:* Next you will look at the bottle from 1 step, then from 2 steps, then from 4 steps. Each place is twice as far as the one before. Guess first. When you stand twice as far away, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?  
   *Child mode:* From twice as far, how tall will the bottle look? Why?
   - Ask: From twice as far away, how tall will the bottle look? Why? (good: The same, because it is the same bottle.; A bit smaller, because far things look small.; Half, because it is twice as far.)
   - Note: Most children guess 'the same' or 'a bit smaller'. Any guess with a reason is a good start.
 - **s3 (6 min)**  
-  *Parent does:* 1. Your child stands with toes at the 1-step chappal. 2. Arm straight out, elbow locked, one eye closed. 3. Hold the pencil upright. Line up the tip with the top of the bottle. 4. Slide the thumbnail down to the bottom of the bottle. 5. Keep the thumb still, and lay the pencil on the paper strip. 6. You mark the paper at the tip and at the thumb.  
+  *Parent does:* 1. Your child stands with toes at the 1-step chappal. 2. Your child holds one arm straight out, with the elbow locked, and closes one eye. 3. Your child holds the pencil upright in that hand and lines up the tip with the top of the bottle. 4. Your child slides the thumbnail down the pencil until it lines up with the bottom of the bottle. 5. Your child keeps the thumb still and lays the pencil on the paper strip. 6. You mark the paper at the pencil tip and at the thumb.  
   *Parent says:* Hold your arm out straight, like a stick. Close one eye. Put the pencil tip at the top of the bottle. Now slide your thumb down to the bottom. Keep it still, and we'll mark it.  
-  *Child mode:* Arm out straight. Close one eye. Tip at the top. Thumb at the bottom. Keep still.
+  *Child mode:* Hold your arm out straight. Close one eye. Put the pencil tip at the top of the bottle. Slide your thumb down to the bottom of the bottle. Keep your thumb still.
   - Note: The arm must be straight every time, or the measure changes. If your child finds it hard, you hold your own arm out and measure, and your child checks. Do each place twice. The two marks should be close.
 - **s4 (6 min)**  
   *Parent does:* 1. Move to the 2-step chappal and measure the same way. 2. Mark a new piece of the strip. 3. Then measure from the 4-step chappal. 4. Mark a third piece. 5. Write '1', '2' and '4' next to the marks.  
-  *Parent says:* Now we're twice as far. Measure again, with your arm just as straight. Now the last chappal, twice as far again.  
+  *Parent says:* Now we're twice as far. Measure again, with your arm just as straight. Now measure from the last chappal, which is twice as far again.  
   *Child mode:* Measure from 2 steps. Then measure from 4 steps.
   - Ask: As you stepped back, what happened to the gap between your pencil tip and your thumb? (good: It got smaller.; My thumb went up nearer the tip.)
-  - Note: From 4 steps the mark may be only 2 or 3 centimetres long. That is fine. Small is the result.
+  - Note: From 4 steps the mark may be only 2 or 3 centimetres long. That is fine. A small mark is the result you expect.
 - **s5 (6 min) · grown-up needed**  
   *Parent does:* 1. Cut out the three marked pieces. 2. Lay them side by side, longest first. 3. Fold the 1-step strip in half and hold it next to the 2-step strip. 4. Count how many 4-step strips fit along the 1-step strip. 5. Fill in the results table. 6. Then read the cards on near and far.  
   *Parent says:* Let's fold the 1-step strip in half. Is half of it as long as the 2-step strip? How many little 4-step strips fit along the long one? Did the bottle change, or did something else change?  
-  *Child mode:* Fold the long strip in half. Is it like the middle strip? Did the bottle change?
+  *Child mode:* Fold the 1-step strip in half. Is the half as long as the 2-step strip? Did the bottle change?
   - Ask: The bottle never moved. What changed? (good: How far away I stood.; The space between me and the bottle.; Only the distance.)
-  - Note: Usually the 2-step strip is close to half the 1-step strip, and about 3 to 5 of the 4-step strips fit along the 1-step one. Steps that are not quite even, or an arm that bends, make it less exact. A strong answer uses the strips as evidence: same bottle, more space between, shorter strip.
+  - Note: Usually the 2-step strip is close to half the 1-step strip, and about 3 to 5 of the 4-step strips fit along the 1-step one. Steps that are not quite even, or an arm that bends, make it less exact. A strong answer uses the strips as evidence: the bottle was the same, there was more space between your child and the bottle, and the strip was shorter.
   - Check: In the bottle strip test, you stood twice as far from the bottle. How tall did the bottle look? → **About half as tall**
 ### e2 · The Mirror Tunnel: does the row go on for ever? (15 min)
+- **problem:** When two mirrors face each other, each mirror shows the other mirror. You see a row of copies that gets smaller and smaller. You will count how many copies you can see. Then you will ask whether the row really goes on for ever.
 - **question:** In a tunnel of mirrors, how many copies can you count? Does the row go on for ever?
 - **predict:** How many bindis will you be able to count: 2, 10, 100, or never-ending? Why do you think so?
 - **fair test:** Two people count, each three times, holding the mirror in the same place. We count three times because it is easy to lose your place in a long row.
@@ -272,7 +275,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Child mode:* Look over the little mirror. Tilt it slowly. Count the bindis.
   - Note: If no tunnel shows, keep the hand mirror upright and turn it a little left or right. The tunnel often curves gently away. Most people count between 6 and 15 before the copies get too small and dark.
 - **s3 (3 min)**  
-  *Parent does:* 1. Swap, and you count three times too. 2. Write all the counts in the table.  
+  *Parent does:* 1. Swap places. Now you hold the hand mirror and count the bindis three times. 2. Write all the counts in the table.  
   *Parent says:* Now it's my turn. Let's see if I count the same.  
   *Child mode:* Now your grown-up counts. Write the numbers down.
 - **s4 (3 min)**  
@@ -280,8 +283,8 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Parent says:* Could you count to the end? What did the last bindis look like? Was that really the end, or could you just not see more?  
   *Child mode:* Could you see the end? What did the last bindis look like?
   - Ask: Why could you not count any more bindis? (good: They got too small.; They got too dark.; They were too far down the tunnel.)
-  - Note: Each copy looks smaller because the light from it has travelled farther, just like the bottle from far away. A strong answer says the row faded out, and that you could not tell whether it really ended.
-  - Check: In the mirror tunnel, what happened to the bindis as the tunnel went away? → **They got smaller and dimmer**
+  - Note: Each copy looks smaller because it looks farther away, just as the bottle looked smaller from farther away in the Bottle Strip Test. A strong answer says the row faded out, and that you could not tell whether it really ended.
+  - Check: In the mirror tunnel, what happened to the bindis farther down the tunnel? → **They got smaller and dimmer**
 
 ## Activities
 ### a1 · Space Hunt: find what is between things (10 min)
@@ -305,7 +308,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   - Ask: What is in the shut bottle? (good: Air. It pushes back when I squeeze.)
   - Note: The capped bottle pushes back because it is full of air. Space in a room is full of air, even where it looks empty.
 ### a2 · Step It Out: near, nearer, nearest (15 min)
-- **record:** A table with each place, your guess and your count. Circle the nearest and the farthest.
+- **record:** Make a table with each place, your guess and your count. Circle the nearest place and the farthest place.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand your child by the bed. 2. Choose four places: the door, a window, the kitchen and the cupboard. 3. Your child estimates the steps to each one. 4. Write the guesses down.  
   *Parent says:* How many steps from here to the door, do you think? And to the window? Make a careful guess. That is called an estimate.  
@@ -320,7 +323,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Parent says:* Which place is nearest? Which is farthest? Were your guesses too big, too small, or close?  
   *Child mode:* Which is nearest? Which is farthest? Were your guesses close?
   - Ask: How do you know the kitchen is farther than the door? (good: It took more steps.; There is more space between me and the kitchen.)
-  - Check: Farhan took 4 steps to the door and 9 steps to the kitchen. Which is nearer? → **The door**
+  - Check: It is 4 steps to the door and 9 steps to the kitchen. Which is nearer? → **The door**
 ### a3 · Draw Near and Far from the Window (15 min)
 - **record:** Your drawing, with 'near' and 'far' written by the two things.
 - **s1 (4 min)**  
@@ -329,7 +332,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Child mode:* Find two of the same thing, one near, one far.
   - Note: If the window shows only one building, use a long corridor and two people, or two of the same shoes at different distances.
 - **s2 (9 min)**  
-  *Parent does:* 1. Your child draws the near thing and the far thing, each as big as it looks. 2. Then colours the drawing.  
+  *Parent does:* 1. Your child draws the near thing and the far thing, each as big as it looks. 2. Then your child colours the drawing.  
   *Parent says:* Draw them just as big as they look, not as big as they really are.  
   *Child mode:* Draw each one as big as it looks.
 - **s3 (2 min)**  
@@ -344,13 +347,13 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 - **schedule:** day 1: Draw your room from above: the walls, the door, the bed and two more things. (15 min); day 2: Count steps between things. Write the numbers on the map. Colour the empty floor. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Stand at the door with your child. 2. Ask what the room would look like to a bird on the ceiling. 3. Your child draws the walls, the door, the bed and two more things on the squared paper.  
-  *Parent says:* Imagine you are a bird on the ceiling, looking down. What shape is the bed from up there? Draw it.  
+  *Parent says:* Pretend you are a bird on the ceiling, looking down. What shape is the bed from up there? Draw it.  
   *Child mode:* Pretend you are a bird on the ceiling. Draw your room from above.
 - **s2 (15 min)**  
-  *Parent does:* 1. Your child counts heel-to-toe steps between the bed and the door, and between two other things. 2. Writes the numbers on the map with arrows. 3. Colours all the empty floor.  
+  *Parent does:* 1. Your child counts heel-to-toe steps between the bed and the door, and between two other things. 2. Your child writes the numbers on the map with arrows. 3. Your child colours all the empty floor.  
   *Parent says:* How many steps from the bed to the door? Write it on the map. Now colour all the empty floor. That is the space you can move in.  
   *Child mode:* Count steps between things. Write them on the map. Colour the empty floor.
-  - Ask: Is there more space with things in it, or empty floor space? (good: More empty space.; More things. The bed is big.)
+  - Ask: On your map, which is bigger: the floor covered by things, or the empty floor? (good: More empty space.; More things. The bed is big.)
   - Note: Either answer is fine if your child can point to the evidence on the map.
   - Wait: Do this on the next day.
 
@@ -375,7 +378,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   *Parent does:* 1. Ask the question below.  
   *Parent says:* Did the coin get bigger, or the cupboard smaller? What really changed?  
   *Child mode:* Did the coin grow? What changed?
-  - Check: How did the small coin hide the big cupboard? → **The space between changed, so the cupboard looked smaller than the coin**
+  - Check: How did the small coin hide the big cupboard? → **The distances changed, so the cupboard looked smaller than the coin**
 
 ## Worksheets
 ### Near, Far and In Between (core) (core, 10 questions)
@@ -390,12 +393,12 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
    **Answer:** my pillow → Near me; the Moon → Far from me; my toes → Near me; the Sun → Far from me; a plane in the sky → Far from me; my blanket → Near me. *Why:* Near things are a small distance away, like the pillow, toes and blanket. The plane, the Moon and the Sun are far, even though we can see them.
 5. (truefalse) The space between your bed and the wall is completely empty, with nothing at all in it.  
    **Answer:** False. *Why:* False. It is full of air. Air is made of tiny bits too small to see, but you feel them when you wave your hand fast.
-6. (write) Say out loud, and a grown-up writes it down: name two spaces you found in the space hunt.  
+6. (write) Name two spaces you found in the Space Hunt. Say them out loud, and a grown-up writes them down.  
    **Answer:** For example: under the bed, and inside an empty bottle.. *Why:* A strong answer names real spaces from the hunt, such as gaps between things or room inside things.
-7. (count) Ira, a girl in Class 2, counted 6 steps to the door and 3 steps to her bed. How many more steps is the door?  
-   **Answer:** 3. *Why:* 6 take away 3 is 3. The door is 3 steps farther, so there is more space between Ira and the door.
-8. (perspective) Kavya and Meena are looking at the gap between a bed and a wall.  
-   **Answer:** A strong answer agrees with Meena, because a shut bottle pushes back when squeezed, so air fills space that looks empty. It also says Kavya is right that there are no things you can see in the gap.. *Why:* Both have part of it. There are no toys or furniture in the gap, so it looks empty. But it is full of air. The squeezed bottle in the space hunt is the evidence.
+7. (count) You count 6 steps to the door and 3 steps to your bed. How many more steps away is the door?  
+   **Answer:** 3. *Why:* 6 take away 3 is 3. The door is 3 steps farther, so there is more space between you and the door.
+8. (perspective) The first person and the second person are looking at the gap between a bed and a wall.  
+   **Answer:** A strong answer agrees with the second person, because a shut bottle pushes back when squeezed, so air fills space that looks empty. It also says the first person is right that there are no things you can see in the gap.. *Why:* Both have part of it. There are no toys or furniture in the gap, so it looks empty. But it is full of air. The squeezed bottle in the space hunt is the evidence.
 9. (label) Look at the picture of Revathi's room. Write 'near' or 'far' by each thing, for Revathi standing at the door.  
    **Answer:** ['the mat by her feet: near', 'the window on the far wall: far', 'the shoe rack beside the door: near']. *Why:* Things right by the door are a small distance from Revathi, so they are near. The window across the room is far.
 10. (odd) Three of these are spaces. Which one is a thing, not a space?  
@@ -404,34 +407,34 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 ### Why Far Things Look Small (stretch) (stretch, 10 questions)
 1. (mcq) In the mirror tunnel, how did each bindi look compared with the one before it?  
    Options: Smaller and dimmer / Bigger and brighter / Exactly the same  
-   **Answer:** Smaller and dimmer. *Why:* The light from each copy travelled farther than the one before, so it looked smaller. Each mirror also keeps a little light, so it looked dimmer.
+   **Answer:** Smaller and dimmer. *Why:* Each copy comes from light that has travelled farther than the light of the copy before, so it looked smaller. Each mirror also keeps a little light, so it looked dimmer.
 2. (order) Put these in order, from nearest to you to farthest: the Moon, the ceiling fan, the Sun, a plane in the sky.  
    **Answer:** [0, 1, 2, 3]. *Why:* The fan is a few steps away, a plane about 10 kilometres up, the Moon about 384,000 kilometres away and the Sun about 150 million kilometres away.
 3. (write) The Sun is about 400 times wider than the Moon. Why do they look about the same size in the sky?  
    **Answer:** The Sun is also about 400 times farther away, so it looks as small as the Moon.. *Why:* A strong answer uses distance: far things look smaller. Saying 'the Sun is small' misses that the Sun is much bigger than the Moon.
 4. (fill) In the bottle strip test, from twice as far away, the bottle looked about ________ as tall.  
-   **Answer:** half. *Why:* Twice the distance makes a thing look about half as tall. The folded strip showed this.
+   **Answer:** half. *Why:* Twice the distance makes a thing look about half as tall. In the bottle strip test, the 1-step strip folded in half was about as long as the 2-step strip.
 5. (draw) Draw your three strips from the bottle strip test, side by side, and write how many steps away each was.  
    **Answer:** Three strips getting shorter: 1 step longest, 2 steps about half, 4 steps shortest.. *Why:* A strong drawing shows each strip shorter as the distance grows, with the 2-step strip about half the 1-step strip.
 6. (truefalse) In the mirror tunnel, you could count the bindis all the way to the very end.  
    **Answer:** False. *Why:* False. The copies got too small and dim to count. We could not tell whether the row really ended.
-7. (perspective) Gauri and Zoya are talking about space.  
-   **Answer:** Any side, with a reason. A strong answer says that nobody knows yet, and uses something from the unit, such as the mirror tunnel or the stick question of Archytas.. *Why:* This is a real open question. Gauri is right that most things we know have an end. Zoya uses the same idea Archytas used. Scientists still disagree, so a strong answer gives a reason, not only a side.
-8. (count) Bornali's strip from 1 step was 8 centimetres long. About how long was her strip from 2 steps?  
+7. (perspective) The first person and the second person are talking about space.  
+   **Answer:** Any side, with a reason. A strong answer says that nobody knows yet, and uses something from the unit, such as the mirror tunnel or the stick question of Archytas.. *Why:* This is a real open question. The first person is right that most things we know have an end. The second person uses the same idea Archytas used. Scientists still disagree, so a strong answer gives a reason, not only a side.
+8. (count) In the bottle strip test, a strip from 1 step was 8 centimetres long. About how long would the strip from 2 steps be?  
    **Answer:** 4 centimetres. *Why:* Twice as far makes the bottle look about half as tall. Half of 8 is 4.
 9. (label) Two lamp posts on a road are the same height. One looks big and one looks small. Label which is near and which is far.  
    **Answer:** ['the big-looking post: near', 'the small-looking post: far']. *Why:* The posts are the same height, so the one that looks smaller must be farther away.
-10. (mcq) Tsering, a girl in Leh, sees two mountains that look the same height. One is much farther away. What can she say?  
+10. (mcq) Two mountains look the same height. One is much farther away than the other. What can you say about them?  
    Options: They are the same height / The farther one is really taller / The nearer one is really taller  
    **Answer:** The farther one is really taller. *Why:* Far things look smaller. If the far mountain looks as tall as the near one, it must really be taller. This is how the Sun can be much bigger than the Moon but look the same.
 ### Big, Far and For Ever (challenge) (challenge, 10 questions)
 1. (write) Your thumb can hide a whole building. Is your thumb bigger than the building? Explain.  
    **Answer:** No. The building is much bigger, but it is far away, so it looks smaller than my thumb near my eye.. *Why:* A strong answer says the building only looks small because of the distance, and that the thumb is very near the eye.
-2. (mcq) Nila stands 10 steps from a lamp post. She walks back until the post looks half as tall. About how far is she now?  
+2. (mcq) You stand 10 steps from a lamp post. You walk back until the post looks half as tall. About how many steps from the post are you now?  
    Options: 5 steps / 20 steps / 100 steps  
    **Answer:** 20 steps. *Why:* Twice as far makes a thing look half as tall. Twice 10 is 20. Choosing 5 steps would mean walking nearer, which makes things look bigger.
-3. (perspective) Sneha and her brother Arjun are arguing about space.  
-   **Answer:** Any side, with a reason. A strong answer notices that we always measure space using things, like steps between the bed and the door.. *Why:* This is a real argument. Isaac Newton thought like Sneha. Gottfried Leibniz thought like Arjun. Thinkers still argue about it.
+3. (perspective) The first person and her brother the second person are arguing about space.  
+   **Answer:** Any side, with a reason. A strong answer notices that we always measure space using things, like steps between the bed and the door.. *Why:* This is a real argument. Isaac Newton thought like the first person. Gottfried Leibniz thought like the second person. Thinkers still argue about it.
 4. (draw) Draw what you think is at the edge of space, if there is an edge. Then write one question about your drawing.  
    **Answer:** Any drawing, with a question such as 'What is past the wall?'. *Why:* A strong answer shows an idea and asks what is beyond it, the way Archytas did. Nobody knows the answer.
 5. (sort) Sort these into 'scientists know this' and 'nobody knows yet'.  
@@ -460,12 +463,12 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 2. (mcq) Which of these is nearest to you right now?  
    Options: Your nose / The door / The Moon  
    **Answer:** Your nose. *Why:* Your nose is on your face, so there is almost no space between it and you. The door is a few steps away, and the Moon is very far.
-3. (mcq) Lakshmi counted 5 steps to the window and 9 steps to the door. Which is farther from her?  
+3. (mcq) You count 5 steps to the window and 9 steps to the door. Which is farther from you?  
    Options: The window / The door / They are the same  
    **Answer:** The door. *Why:* More steps means more space between, so the door is farther. 9 is more than 5.
-4. (mcq) Meenakshi looks at a bottle from 2 steps, then from 4 steps. How does it look from 4 steps?  
+4. (mcq) You look at a bottle from 2 steps away, then from 4 steps away. How does it look from 4 steps?  
    Options: Smaller / Bigger / Just the same  
-   **Answer:** Smaller. *Why:* From farther away, the bottle takes up less of what she sees, so it looks smaller. The bottle itself does not change.
+   **Answer:** Smaller. *Why:* From farther away, the bottle takes up less of what you see, so it looks smaller. The bottle itself does not change.
 5. (truefalse) A thing that is far away is really smaller than the same thing close up.  
    **Answer:** False. *Why:* False. It only looks smaller. Walk up to it, and you find it is the same size as before.
 6. (mcq) The Sun is about 400 times wider than the Moon. Why does it look about the same size?  
@@ -496,14 +499,14 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 
 ## Spotted around us
 - A tall temple gopuram in Madurai, Thanjavur or Srirangam looks small from far across the city, and huge when you stand at its gate.
-- Railway tracks at a station in Kolkata or Hyderabad seem to come together far away, though they stay the same distance apart.
+- Railway tracks at a station in Kolkata or Hyderabad seem to come together far away, though they stay the same distance apart. That is because far things look smaller, and so does the gap between the rails.
 - Crows or pigeons on a wire in Guwahati or Pune sit with gaps between them, keeping some space for each bird.
 - A plane in the sky over Bengaluru or Delhi looks as small as a bird, though it is very big.
 - At night from a terrace in Kochi or Chennai, the Moon looks about as wide as a small pea held at arm's length, and the stars look like tiny dots.
 
 ## Open questions
 - **Does space go on for ever, or does it have an end?** We can only see part of space, because light from farther away has not reached us yet. Measurements of the shape of space fit space going on for ever, but they also fit space being very big and curving round. Nobody knows yet.
-- **Is space a thing of its own, or only the gaps between things?** Isaac Newton and Gottfried Leibniz argued about this over 300 years ago. Later, scientists found that space can bend and stretch, which you will learn about later. Thinkers still disagree about what space really is.
+- **Is space a thing of its own, or only the gaps between things?** Isaac Newton and Gottfried Leibniz argued about this over 300 years ago. Later, scientists found that space can bend and stretch, so it may be more than an empty box. That idea is too big for this unit, but you will meet it later. Thinkers still disagree about what space really is.
 - **What is past the farthest galaxies we can see?** Telescopes keep finding galaxies farther and farther away. But light from beyond a certain distance has not had time to reach us, so we cannot see what is there.
 
 ## Questions to ask kids
@@ -525,10 +528,10 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 - What did the tumbler say when it was pushed against the other tumbler? *Give me some space!*
 
 ## Connected maths
-- In Step It Out, Lakshmi estimated 10 steps to the kitchen. When she walked and counted, it was 7 steps. Was her estimate too big or too small, and by how many steps? **Too big, by 3 steps.**. 10 is more than 7, so the estimate was too big. 10 take away 7 is 3. (queues `math.number-sense.estimation.L2`)
-- In the bottle strip test, Ananya's strip from 1 step was 12 centimetres long. Her strip from 2 steps was 6 centimetres. She folds the 12 centimetre strip in half. How long is each half? What does that show? **Each half is 6 centimetres. That shows the bottle looked half as tall from twice as far away.**. Half of 12 is 6. The folded half is as long as the 2-step strip, so from 2 steps the bottle looked half as tall. (queues `math.fractions.halves-and-quarters.L2`)
-- Ananya's strips were 12 centimetres from 1 step, 6 centimetres from 2 steps and 3 centimetres from 4 steps. Spot the pattern. About how long would her strip be from 8 steps? **About 1 and a half centimetres.**. Each time the steps double, the strip is half as long: 12, 6, 3. Half of 3 is 1 and a half. (queues `math.patterns.number-patterns.L2`)
-- On Revathi's room map, the bed is 2 squares from the door, and the cupboard is 5 squares from the door. Which is nearer the door, and by how many squares? **The bed, by 3 squares.**. 2 is less than 5, so the bed is nearer. 5 take away 2 is 3. (queues `math.position.directions-and-grids.L2`)
+- In Step It Out, you estimate 10 steps to the kitchen. When you walk and count, it is 7 steps. Was the estimate too big or too small, and by how many steps? **Too big, by 3 steps.**. 10 is more than 7, so the estimate was too big. 10 take away 7 is 3. (queues `math.number-sense.estimation.L2`)
+- In the bottle strip test, the strip from 1 step is 12 centimetres long. The strip from 2 steps is 6 centimetres long. Fold the 12 centimetre strip in half. How long is each half? What does that show? **Each half is 6 centimetres. That shows the bottle looked half as tall from twice as far away.**. Half of 12 is 6. The folded half is as long as the 2-step strip, so from 2 steps the bottle looked half as tall. (queues `math.fractions.halves-and-quarters.L2`)
+- In the bottle strip test, the strips were 12 centimetres from 1 step, 6 centimetres from 2 steps and 3 centimetres from 4 steps. Spot the pattern. About how long would the strip be from 8 steps? **About 1 and a half centimetres.**. Each time the steps double, the strip is half as long: 12, 6, 3. Half of 3 is 1 and a half. (queues `math.patterns.number-patterns.L2`)
+- On a room map, the bed is 2 squares from the door, and the cupboard is 5 squares from the door. Which is nearer the door, and by how many squares? **The bed, by 3 squares.**. 2 is less than 5, so the bed is nearer. 5 take away 2 is 3. (queues `math.position.directions-and-grids.L2`)
 
 ## Song
 Room Between (sci.space-time.L2): Topic-level song for Space, time and dimensions L2

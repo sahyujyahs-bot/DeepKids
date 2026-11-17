@@ -84,7 +84,7 @@
    "status": "defined",
    "context": "This card explains what you saw in the Mist in the Torch Beam activity, when the mist drifted and the drop from the spoon fell fast.",
    "definition": "Every drop falls, but a tiny drop falls very slowly. The air pushes against it as it falls, and for a tiny drop that push matters a lot.",
-   "description": "In the torch beam, the drop from the spoon fell in a blink. The tiny drops of mist drifted, and some floated for many seconds. A cloud drop is even smaller than a mist drop. It falls only about a centimetre each second, and rising air in the sky easily carries it up. A big raindrop falls several metres each second, about as fast as a person cycling. A small puffy cloud holds about 500 tonnes of water, as heavy as 100 elephants, says Peggy LeMone, a cloud scientist in the United States. Yet it floats, because that water is split into tiny, slow drops.",
+   "description": "In the torch beam, the drop from the spoon fell in a blink. The tiny drops of mist drifted, and some floated for many seconds. A cloud drop is even smaller than a mist drop. It falls only about a centimetre each second, and rising air in the sky easily carries it up. A big raindrop falls several metres each second, about as fast as a person cycling. A small puffy cloud holds about 500 tonnes of water, says Peggy LeMone, a cloud scientist in the United States. A tonne is 1000 kilograms, so that is as heavy as about 100 elephants. Yet the cloud floats. This is because its water is split into millions of tiny drops, and each tiny drop falls very slowly.",
    "examples": [
     "The drop from the spoon fell straight to the floor.",
     "The mist drifted slowly in the torch beam.",
@@ -112,7 +112,7 @@
    "status": "defined",
    "context": "This card explains how water from the sea, rivers and wet clothes ends up in a cloud.",
    "definition": "The Sun warms water in seas, rivers, ponds and wet things, and the water evaporates into the air as invisible water vapour. High in the sky the air is cold, and the vapour condenses into tiny drops. That is a cloud.",
-   "description": "Water is always evaporating, from the Bay of Bengal, from the Kaveri, from a puddle and from the wet clothes on your balcony. The water vapour mixes into the air, and you cannot see it. Warm air rises, and the higher it goes, the colder it gets. When the air is cold enough, the vapour condenses into tiny drops, each one round a speck of dust or sea salt too small to see. Millions of these drops together make a cloud.",
+   "description": "Water is always evaporating, from the Bay of Bengal, from the Kaveri, from a puddle and from the wet clothes on your balcony. The water vapour mixes into the air, and you cannot see it. Warm air rises, and the higher it goes, the colder it gets. When the air is cold enough, the vapour condenses into tiny drops, each one forming around a speck of dust or sea salt that is too small to see. Millions of these drops together make a cloud.",
    "examples": [
     "Wet clothes dry because their water evaporates into the air.",
     "Monsoon winds carry damp air from the sea over Kerala and the Western Ghats.",
@@ -126,7 +126,7 @@
    "status": "defined",
    "context": "This card explains why some clouds are white and others are dark grey.",
    "definition": "A thin cloud lets plenty of sunlight through, so it looks white. A very thick cloud stops most of the light before it reaches the bottom, so its underside looks grey or nearly black.",
-   "description": "All clouds are made of the same clear water drops. A thick cloud has many more drops, piled up high. The drops spread the light out, so little of it comes out of the bottom. A thick cloud also has more water, and its drops have more chances to join. That is why dark grey clouds are the ones that usually bring rain. Joanne Simpson, the first woman to earn a doctorate in weather science, spent her life studying tall rain clouds over warm seas.",
+   "description": "All clouds are made of the same clear water drops. A thick cloud has many more drops, piled up high. The drops bounce the sunlight in every direction. In a thick cloud, most of the light is bounced back up or to the sides, so very little of it comes out of the bottom. That is why the bottom looks dark. A thick cloud also has more water, and its drops have more chances to join. That is why dark grey clouds are the ones that usually bring rain. Joanne Simpson, the first woman to earn a doctorate in weather science, spent her life studying tall rain clouds over warm seas.",
    "examples": [
     "Thin white clouds on a sunny morning rarely rain.",
     "Before a monsoon storm, the sky turns dark grey.",
@@ -469,6 +469,7 @@
    "mins": 40,
    "days": 1,
    "context": "In this experiment you catch real raindrops in a plate of flour (atta). Each drop makes a little ball of dough, so you can see how big it was. Do it from a balcony or a window. You need a rainy day, so if it is not raining, keep this for the next rainy day.",
+   "problem": "Rain falls from clouds as drops. In this experiment you catch real raindrops in a plate of flour. Each raindrop that lands in the flour makes one small ball of dough. A bigger raindrop makes a bigger ball. So the size of each dough ball shows you the size of the raindrop that made it.",
    "question": "Are all raindrops the same size, or are some big and some small?",
    "predict": "When we catch raindrops in flour, will all the dough balls be the same size? Why do you think so?",
    "fair_test": "We hold the plate out for just 3 seconds, so the drops don't land on top of each other. We use a smooth, flat layer of flour. We sort the balls by size only after they have dried a little.",
@@ -2057,7 +2058,7 @@
    "what_is_life": "Every plant and animal, including us, lives on water that tiny drops brought down as rain. Plants also give water back to the air from their leaves.",
    "what_is_this_world": "The same water keeps going round: from the sea into the air, into a cloud, down as rain, into a river and back to the sea."
   },
-  "thread": "A cloud has one name, but it is millions of drops, each floating on its own. Rain begins when many of them join into one heavier drop. The raindrop lands, and later its water evaporates and spreads out into the air again. So water keeps moving between being many tiny drops and being one big drop. Everything is conscious, down to the water in a cloud, and each drop meets its neighbours as it joins them. Many scientists describe this joining with forces alone.",
+  "thread": "A cloud has one name, but it is millions of drops, each floating on its own. Rain begins when many of them join into one heavier drop. The raindrop lands, and later its water evaporates and spreads out into the air again. So water keeps moving between being many tiny drops and being one big drop. Everything is conscious, even the water in a cloud. So each drop can be said to meet its neighbours as it joins them. Many scientists explain this joining with forces alone.",
   "teachings": [
    {
     "source": "Tirukkural, chapter 2, 'The Excellence of Rain', couplet 20",
@@ -2092,11 +2093,11 @@
   "practice": {
    "title": "Wait for the drop",
    "mins": 3,
-   "say": "Dip one finger in a cup of water. Hold it up, pointing down, over the cup. Keep very still. Watch the water slide to your fingertip and gather there. Breathe in and out slowly while the drop grows. When it is heavy enough, it lets go and falls. Do it three times, and breathe slowly each time.",
+   "say": "Dip one finger in a cup of water. Hold it up, pointing down, over the cup. Keep very still. Watch the water slide to your fingertip and gather there. Breathe in and out slowly while the drop grows. When it is heavy enough, it lets go and falls. This is how a raindrop grows too: the water gathers until the drop is heavy enough to fall. Do it three times, and breathe slowly each time.",
    "kid": "Dip a finger in water. Point it down over the cup. Keep still. Watch the drop grow at your fingertip. Breathe slowly until it falls."
   },
   "ask": [
-   "In 'Wait for the drop', the drop on your fingertip waited until it was heavy enough to fall. What do you think it is like to be a tiny drop in a cloud, waiting?",
+   "In 'Wait for the drop', the water on your fingertip did not fall until it had gathered into a heavy drop. Why do the tiny drops in a cloud not fall until they have joined together?",
    "Is a cloud one thing or millions of things? Does it matter which we say?",
    "When all of a cloud's water has fallen as rain, is the cloud gone, or is it somewhere else now?"
   ],

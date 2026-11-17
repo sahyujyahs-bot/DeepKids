@@ -222,7 +222,7 @@
   {
    "q": "Could there be living beings so slow that we never notice they are alive?",
    "kind": "big",
-   "hint": "Think of a tree that lives for 500 years. What would a whole day look like to them?"
+   "hint": "Think of a tree that lives for 500 years. It grows so slowly that we cannot see it change in a day."
   }
  ],
  "story": {
@@ -267,7 +267,7 @@
    "She looked through the kitchen door at the onion basket. 'Ajji,' she said, 'is the onion alive too?'",
    "Ajji laughed. 'Put one on a glass of water and see,' she said."
   ],
-  "epiphany": "For the parent: Shalini checks the old potato against the signs of life one by one. The potato used stored food, grew, sensed the light and grew towards it, breathed, let out waste, and, planted in soil, made new potatoes. Something that looked like still food was alive all along.",
+  "epiphany": "Shalini checks the old potato against the signs of life one by one. The potato used stored food, grew, sensed the light and grew towards it, breathed, let out waste, and, planted in soil, made new potatoes. Something that looked like still food was alive all along.",
   "ask": [
    "Why were all the potato shoots bent towards the cupboard door?",
    "Why was the old potato soft and wrinkly?",
@@ -357,7 +357,7 @@
     "On your turn, read the top card aloud. A parent can read it for a child who cannot read it yet.",
     "Say one sign of life the thing seems to show, and one sign that is missing.",
     "Then say: alive, once alive or never alive.",
-    "Another player turns the card over and reads the back aloud. You score one point if the sign you said is missing is one of the missing signs on the back, and one point if your answer matches the back. Keep score with tally marks on a sheet of paper.",
+    "Another player turns the card over and reads the back aloud. You score one point if the missing sign you named is listed on the back. You score one more point if your answer, alive or once alive or never alive, matches the back. Keep score with tally marks on a sheet of paper.",
     "If the thing is alive, no sign is really missing, even if you cannot see it. Say \"nothing missing\" to win that point.",
     "Play until all 12 cards are done. The player with the most points wins. If two players tie, they both win."
    ],
@@ -502,6 +502,7 @@
    "mins": 30,
    "days": 2,
    "context": "In this experiment you shut moong sprouts in one steel dabba and only a wet cloth in another. Each dabba holds a small glass of chuna water. After three hours you look to see which chuna water has gone milky. This tells us if sprouts that lie still are breathing.",
+   "problem": "Chuna water is clear water that turns milky when carbon dioxide reaches it. Carbon dioxide is a gas that living beings breathe out. If sprouts breathe out carbon dioxide inside a shut dabba, the chuna water in the dabba will turn milky. If the water stays clear, the sprouts are not breathing out any.",
    "question": "Moong sprouts lie still and do not seem to do anything. Do they breathe out carbon dioxide, like you do?",
    "predict": "Guess first. Which chuna water will go milky: the one shut in with the sprouts, the one shut in with only a wet cloth, both, or neither? Why do you think so?",
    "fair_test": "Both dabbas are the same size, with the same wet cloth, the same amount of chuna water, the same place and the same time. Only one has sprouts. So if one chuna water goes milky and the other does not, the sprouts made the difference.",
@@ -647,7 +648,7 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "1. Open both dabbas. 2. Lift out the glasses carefully. 3. Hold them side by side in front of the dark cloth. 4. Let your child smell inside each dabba too.",
+     "do": "1. Open both dabbas. 2. Lift out the glasses carefully. 3. Hold them side by side in front of the dark cloth.",
      "say": "Look at the two glasses against the dark cloth. What do you see? Is there any difference?",
      "kid": "Hold the glasses in front of the dark cloth. What is different?",
      "ask": [
@@ -659,10 +660,10 @@
        ]
       },
       {
-       "q": "What do you notice inside the sprout dabba?",
+       "q": "Why did we keep the lids shut for three hours?",
        "good": [
-        "It is damp.",
-        "It smells of sprouts."
+        "So the carbon dioxide stayed in the dabba and reached the chuna water.",
+        "So no room air got in and mixed with it."
        ]
       }
      ],
@@ -744,6 +745,7 @@
    "mins": 25,
    "days": 2,
    "context": "In this experiment you do the chuna water test again, with two dabbas of sprouts. One dabba goes in the fridge and one stays on the shelf. Then you compare how milky the two chuna waters get.",
+   "problem": "Chuna water turns milky when carbon dioxide reaches it. The more carbon dioxide the sprouts breathe out, the more milky the water goes. So how milky each chuna water gets shows how much the sprouts in that dabba breathed.",
    "question": "Do sprouts breathe as much in the cold fridge as on a warm shelf?",
    "predict": "Guess first. Which chuna water will go more milky: the one in the fridge or the one on the shelf? Why do you think so?",
    "fair_test": "Both dabbas get the same amount of sprouts, the same wet cloth and the same amount of chuna water, for the same time. Only the place is different: one is cold and one is warm.",
@@ -2290,7 +2292,7 @@
    "what_is_life": "Life is something a body keeps doing, all the time, even when nothing seems to happen. The sprouts kept breathing and the potato kept growing while they lay still.",
    "what_is_this_world": "The carbon dioxide you breathe out goes into the air of your room. Plants take it in through their leaves and build it into new leaves."
   },
-  "thread": "Your breath and the sprouts' breath both turned chuna water milky. The same gas, carbon dioxide, comes out of every breathing being: you, an ant, a sleeping cat and a sprout. Plants take that gas in through their leaves, and use sunlight to build it into food and new leaves. So the air in your flat passes from one living being to another, all day long. Every one of them senses and acts in their own way.",
+  "thread": "Your breath and the sprouts' breath both turned chuna water milky. The same gas, carbon dioxide, comes out of every breathing being: you, an ant, a sleeping cat and a sprout. Plants take that gas in through their leaves, and use sunlight to build it into food and new leaves. So the air in your flat passes from one living being to another, all day long. Each of these living beings senses the world and acts in their own way.",
   "teachings": [
    {
     "source": "Prashna Upanishad, Question 2",

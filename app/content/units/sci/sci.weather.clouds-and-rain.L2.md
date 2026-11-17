@@ -33,28 +33,28 @@ From far away, a cloud looks soft and solid, like cotton. Up close, it is wet mi
 ### Tiny drops float, big drops fall · *defined*
 **Definition:** Every drop falls, but a tiny drop falls very slowly. The air pushes against it as it falls, and for a tiny drop that push matters a lot.
 
-In the torch beam, the drop from the spoon fell in a blink. The tiny drops of mist drifted, and some floated for many seconds. A cloud drop is even smaller than a mist drop. It falls only about a centimetre each second, and rising air in the sky easily carries it up. A big raindrop falls several metres each second, about as fast as a person cycling. A small puffy cloud holds about 500 tonnes of water, as heavy as 100 elephants, says Peggy LeMone, a cloud scientist in the United States. Yet it floats, because that water is split into tiny, slow drops.
-- e.g. The spoon drop fell straight to the floor.
+In the torch beam, the drop from the spoon fell in a blink. The tiny drops of mist drifted, and some floated for many seconds. A cloud drop is even smaller than a mist drop. It falls only about a centimetre each second, and rising air in the sky easily carries it up. A big raindrop falls several metres each second, about as fast as a person cycling. A small puffy cloud holds about 500 tonnes of water, says Peggy LeMone, a cloud scientist in the United States. A tonne is 1000 kilograms, so that is as heavy as about 100 elephants. Yet the cloud floats. This is because its water is split into millions of tiny drops, and each tiny drop falls very slowly.
+- e.g. The drop from the spoon fell straight to the floor.
 - e.g. The mist drifted slowly in the torch beam.
 - e.g. Dust floats in a sunbeam for the same reason: each speck is tiny and light.
 ### Rain falls when tiny drops join · *defined*
 **Definition:** Inside a cloud, tiny drops bump into each other and join. When a drop has grown big and heavy enough, it falls as rain.
 
-On your steel plate, the first sprays left tiny drops that stayed still. As you sprayed more, the drops grew, touched and joined. Only a big drop ran down. Inside a cloud, the same joining happens again and again. In very tall clouds the top is freezing cold, and tiny bits of ice grow there, join and fall. They melt into raindrops on the way down.
+In the Spray Plate experiment, the first sprays left tiny drops on the steel plate, and they stayed still. As you sprayed more, the drops grew, touched and joined. Only a big drop ran down. Inside a cloud, the same joining happens again and again. In very tall clouds the top is freezing cold, and tiny bits of ice grow there, join and fall. They melt into raindrops on the way down.
 - e.g. On the plate, many tiny drops joined into one drop that ran down.
 - e.g. On a window in the rain, a big drop races down and swallows the small drops in its way.
 - e.g. Tall monsoon clouds have ice at the top, even on a hot day.
 ### Where a cloud's water comes from · *defined*
 **Definition:** The Sun warms water in seas, rivers, ponds and wet things, and the water evaporates into the air as invisible water vapour. High in the sky the air is cold, and the vapour condenses into tiny drops. That is a cloud.
 
-Water is always evaporating, from the Bay of Bengal, from the Kaveri, from a puddle and from the wet clothes on your balcony. The water vapour mixes into the air, and you cannot see it. Warm air rises, and the higher it goes, the colder it gets. When the air is cold enough, the vapour condenses into tiny drops, each one round a speck of dust or sea salt too small to see. Millions of these drops together make a cloud.
+Water is always evaporating, from the Bay of Bengal, from the Kaveri, from a puddle and from the wet clothes on your balcony. The water vapour mixes into the air, and you cannot see it. Warm air rises, and the higher it goes, the colder it gets. When the air is cold enough, the vapour condenses into tiny drops, each one forming around a speck of dust or sea salt that is too small to see. Millions of these drops together make a cloud.
 - e.g. Wet clothes dry because their water evaporates into the air.
 - e.g. Monsoon winds carry damp air from the sea over Kerala and the Western Ghats.
 - e.g. Rain that falls in Chennai may have evaporated from the Bay of Bengal a few days before.
 ### Why rain clouds look grey · *defined*
 **Definition:** A thin cloud lets plenty of sunlight through, so it looks white. A very thick cloud stops most of the light before it reaches the bottom, so its underside looks grey or nearly black.
 
-All clouds are made of the same clear water drops. A thick cloud has many more drops, piled up high, and so many drops spread the light out that little comes out of the bottom. A thick cloud also has more water, and its drops have more chances to join. That is why dark grey clouds are the ones that usually bring rain. Joanne Simpson, the first woman to earn a doctorate in weather science, spent her life studying tall rain clouds over warm seas.
+All clouds are made of the same clear water drops. A thick cloud has many more drops, piled up high. The drops bounce the sunlight in every direction. In a thick cloud, most of the light is bounced back up or to the sides, so very little of it comes out of the bottom. That is why the bottom looks dark. A thick cloud also has more water, and its drops have more chances to join. That is why dark grey clouds are the ones that usually bring rain. Joanne Simpson, the first woman to earn a doctorate in weather science, spent her life studying tall rain clouds over warm seas.
 - e.g. Thin white clouds on a sunny morning rarely rain.
 - e.g. Before a monsoon storm, the sky turns dark grey.
 - e.g. The top of a tall storm cloud, lit by the Sun, can look bright white while its bottom is dark.
@@ -62,7 +62,7 @@ All clouds are made of the same clear water drops. A thick cloud has many more d
 ## Mostly agreed
 - Clouds are made of tiny drops of liquid water, or tiny bits of ice, floating in the air. *How we know:* People in planes and on mountains have caught cloud drops and looked at them under a microscope. Walking through a cloud on a hill leaves tiny drops on your hair.
 - Rain falls when tiny cloud drops grow and join into drops heavy enough to fall. *How we know:* Scientists have flown special planes through clouds to measure the drops. Clouds that are raining hold bigger drops among the tiny ones. Clouds that are not raining hold almost only tiny drops.
-- The water in clouds comes from water that evaporated from seas, rivers, lakes, soil, plants and wet things. *How we know:* The water that evaporates and the water that falls as rain balance out over the whole Earth, year after year.
+- The water in clouds comes from water that evaporated from seas, rivers, lakes, soil, plants and wet things. *How we know:* Over the whole Earth, the amount of water that evaporates each year matches the amount that falls as rain.
 
 ## How we found out
 **Horace-Bénédict de Saussure, a Swiss scientist who believed cloud specks were bubbles, and Augustus Waller, a doctor in London who looked at them with a microscope, The 1700s (the bubble idea) and 1846 (Waller's microscope study, printed in 1847).** If clouds are made of water, why do they float? Water is much heavier than air. In the 1700s, many scientists in Europe had an answer. They said the specks in a cloud are tiny hollow bubbles, like soap bubbles, filled with air. A hollow bubble is very light, so it floats. Horace-Bénédict de Saussure, a Swiss scientist who climbed the Alps to study the air, believed in the bubbles too. Then, in 1846, Augustus Waller, a doctor in London, looked at the mist above hot water through a microscope. He saw solid round drops, not hollow bubbles. He sent his findings to the Royal Society, a famous science society in London, and they were printed in 1847. Other scientists agreed with him in the years after. Today we know a cloud is made of solid water drops. They float because they are so tiny that they fall very slowly, and rising air carries them up.  
@@ -77,7 +77,7 @@ All clouds are made of the same clear water drops. A thick cloud has many more d
   Against: In 1846, Augustus Waller looked at mist through a microscope and saw solid round drops, not bubbles. Today we know cloud drops float because they are tiny, and rising air holds them up.
 - **Raindrops are shaped like tears, with a pointed top.** (What most drawings show; *rejected*)  
   For: A drop hanging from a tap, just before it falls, has a pointed top.  
-  Against: Photos taken with very fast cameras show falling raindrops are round when small. Big ones get squashed flat at the bottom by the air, a little like a burger bun.
+  Against: Photos taken with very fast cameras show that small falling raindrops are round. Big ones are squashed flat at the bottom by the air, a little like a burger bun.
 - **People can make clouds rain by 'seeding' them: spraying tiny specks of salt or other powders into them from planes.** (Scientists who test cloud seeding, in India and other countries; *debated*)  
   For: Tests show the right clouds sometimes give more rain after seeding. Scientists from the Indian Institute of Tropical Meteorology in Pune have tested it over Solapur in Maharashtra.  
   Against: Seeding only works on clouds that already hold plenty of water. It cannot make rain from a clear sky. It is also hard to know how much rain would have fallen anyway.
@@ -85,31 +85,31 @@ All clouds are made of the same clear water drops. A thick cloud has many more d
 ## Roots
 We have sprayed mist on a plate, watched drops race down a window and found out what a cloud is made of. Now we ask what a cloud and its rain tell us about ourselves and the world.
 
-**Deep truth.** On your plate, the tiny drops from the spray clung on and did not fall. Only after many sprays did they join into a big drop that slid off. A cloud holds its water in drops too small to fall. Rain begins when many of them join into heavier drops.  
-*Habit it breaks:* We picture a cloud as a bag or tank of rain that bursts open, and we say 'the sky opened' or 'a cloudburst'. The plate test showed that rain is made, drop by drop, by tiny drops joining.  
+**Deep truth.** In the Spray Plate experiment, the tiny drops from the spray clung to the plate and did not fall. Only after many sprays did they join into a big drop that slid off. A cloud holds its water in drops too small to fall. Rain begins when many of them join into heavier drops.  
+*Habit it breaks:* We picture a cloud as a bag or tank of rain that bursts open, and we say 'the sky opened' or 'a cloudburst'. The Spray Plate experiment showed that rain is made drop by drop, when tiny drops join.  
 *Evidence:* In the spray plate test, one spray left tiny drops that stayed still. A drop ran down only after many sprays, once tiny drops had joined into one big drop.
 
 - *who am i:* Some of the water in your body once fell as rain. It was millions of cloud drops before that.
 - *what is life:* Every plant and animal, including us, lives on water that tiny drops brought down as rain. Plants also give water back to the air from their leaves.
 - *what is this world:* The same water keeps going round: from the sea into the air, into a cloud, down as rain, into a river and back to the sea.
 
-A cloud has one name, but it is millions of drops, each floating on its own. Rain begins when many of them join into one heavier drop. The raindrop lands, and later its water evaporates and spreads out into the air again. So water keeps moving between being many tiny drops and being one big drop. Everything is conscious, down to the water in a cloud, and each drop meets its neighbours as it joins them. Many scientists describe this joining with forces alone.
+A cloud has one name, but it is millions of drops, each floating on its own. Rain begins when many of them join into one heavier drop. The raindrop lands, and later its water evaporates and spreads out into the air again. So water keeps moving between being many tiny drops and being one big drop. Everything is conscious, even the water in a cloud. So each drop can be said to meet its neighbours as it joins them. Many scientists explain this joining with forces alone.
 
-- **Tirukkural, chapter 2, 'The Excellence of Rain', couplet 20:** Thiruvalluvar, a Tamil poet and thinker, wrote that the world cannot go on without water, and that water comes from rain. (Every river and tap is filled, in the end, by rain. And rain only comes when tiny cloud drops join, as they did on your plate.)
-- **Thich Nhat Hanh, No Death, No Fear (2002):** Thich Nhat Hanh, a Vietnamese Buddhist teacher, taught that a cloud never becomes nothing. It changes into rain, snow or ice, and goes on in a new form. (When a cloud rains itself away, its drops have joined and fallen. The water is still all there, in the rain, the rivers and the air.)
-- **Kalidasa, Meghaduta (The Cloud Messenger), about the 5th century:** In this Sanskrit poem, a yaksha far from home asks a monsoon cloud to carry a message of love to his wife. He talks to the cloud as someone who can travel, listen and help. (Kalidasa watched the monsoon clouds travel north across India. He spoke to a cloud as a someone, not a something.)
+- **Tirukkural, chapter 2, 'The Excellence of Rain', couplet 20:** Thiruvalluvar, a Tamil poet and thinker, wrote that the world cannot go on without water, and that water comes from rain. (Every river and tap is filled, in the end, by rain. And rain only comes when tiny cloud drops join, as they did on the plate in the Spray Plate experiment.)
+- **Thich Nhat Hanh, No Death, No Fear (2002):** Thich Nhat Hanh, a Vietnamese Buddhist teacher, taught that a cloud never becomes nothing. It changes into rain, snow or ice, and goes on in a new form. (When a cloud has rained until none of it is left, its drops have joined and fallen. The water is still all there, in the rain, the rivers and the air.)
+- **Kalidasa, Meghaduta (The Cloud Messenger), about the 5th century:** In a Sanskrit poem by Kalidasa, a yaksha, a kind of spirit in old Indian stories, far from home asks a monsoon cloud to carry a message of love to his wife. He talks to the cloud as someone who can travel, listen and help. (Kalidasa watched the monsoon clouds travel north across India. In his poem, a cloud is a someone, not a something.)
 - Science (settled): One raindrop holds about as much water as a million cloud drops. Cloud drops join by bumping into each other, and in tall clouds ice helps too.
 - Science (open): Scientists still study why drops in some warm clouds join into rain so quickly. Swirling air probably helps, but how much is not yet known.
-- Other view, Many physicists: They say a water drop has no awareness at all. They explain how drops join with forces between water particles, and they see no need for a mind to explain it.
-- Practice, Wait for the drop (3 min): Dip one finger in a cup of water. Hold it up, pointing down, over the cup. Keep very still. Watch the water slide to your fingertip and gather there. Breathe in and out slowly while the drop grows. When it is heavy enough, it lets go and falls. Do it three times, and breathe slowly each time.
-- Ask: On your fingertip, the drop waited until it was heavy enough. What do you think it is like to be a tiny drop in a cloud, waiting?
+- Other view, Many physicists: Many scientists say a water drop has no awareness at all. They explain how drops join with forces between water particles, and they see no need for a mind to explain it.
+- Practice, Wait for the drop (3 min): Dip one finger in a cup of water. Hold it up, pointing down, over the cup. Keep very still. Watch the water slide to your fingertip and gather there. Breathe in and out slowly while the drop grows. When it is heavy enough, it lets go and falls. This is how a raindrop grows too: the water gathers until the drop is heavy enough to fall. Do it three times, and breathe slowly each time.
+- Ask: In 'Wait for the drop', the water on your fingertip did not fall until it had gathered into a heavy drop. Why do the tiny drops in a cloud not fall until they have joined together?
 - Ask: Is a cloud one thing or millions of things? Does it matter which we say?
-- Ask: When a cloud has rained itself away, is the cloud gone, or is it somewhere else now?
+- Ask: When all of a cloud's water has fallen as rain, is the cloud gone, or is it somewhere else now?
 
 ## Deep and big questions
-- *deep:* Why do some clouds rain, and others float away without a drop? (hint: On the plate, what had to happen before a drop ran down?)
+- *deep:* Why do some clouds rain, and others float away without a drop? (hint: In the Spray Plate experiment, what had to happen before a drop ran down the plate?)
 - *big:* The water in your glass may once have been in a cloud over the sea. Where else might it have been? (hint: Think of rivers, plants, animals, and people breathing out.)
-- *big:* When a cloud rains itself away, has the cloud gone, or has it just changed? (hint: Where did all its water go?)
+- *big:* When all of a cloud's water has fallen as rain, has the cloud gone, or has it just changed? (hint: Where did all its water go?)
 - *deep:* Is a cloud one thing, or millions of things? (hint: Each drop floats on its own. Yet we give them all one name.)
 
 ## Story: The Bag in the Sky
@@ -198,7 +198,7 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   - Ask: You have 6 drops. How many more do you need to make a raindrop? (good: 4 more, because 6 and 4 make 10.)
   - Note: Help your child count on from the bigger number. Keep the cards visible so they can check.
 - **s3 (2 min)**  
-  *Parent does:* Count the raindrops and ask about the game.  
+  *Parent does:* Count each player's raindrops. Then ask how many tiny drops make a real raindrop.  
   *Parent says:* In the game, ten drops made a raindrop. How many tiny cloud drops make a real raindrop?  
   *Child mode:* Ten drops made a raindrop in the game. How many in a real cloud?
   - Ask: How many cloud drops make a real raindrop? (good: About a million.; Far more than ten.)
@@ -209,7 +209,7 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 - **s1 (2 min)**  
   *Parent does:* 1. Clear a space. 2. Cut out and shuffle the cards. 3. Choose who reads the first card.  
   *Parent says:* You are all tiny cloud drops. Tiny drops are light, so you float slowly. Listen for the cards.  
-  *Child mode:* You are a tiny cloud drop. Float slowly on tiptoe. Listen to the caller.
+  *Child mode:* You are a tiny cloud drop. Float slowly on tiptoe. Listen to the person reading the cards.
 - **s2 (6 min)**  
   *Parent does:* 1. Turn over one card at a time and read it out. 2. Everyone acts it out. 3. Pass the pile to the next person after each card.  
   *Parent says:* Bump! Join hands with the drop nearest you. Now you are a bigger drop. Rain! Who is joined up and can fall?  
@@ -224,13 +224,13 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 ## Experiments
 ### e1 · The Spray Plate: how many sprays until a drop runs down? (20 min)
 - **question:** When tiny drops of mist land on a plate, do they run down straight away? How many sprays does it take before a drop runs down?
-- **predict:** When I spray the plate once, will the water run down straight away? How many sprays do you think it will take before a drop runs down? Why do you think so?
+- **predict:** When the plate is sprayed once, will the water run down straight away? How many sprays do you think it will take before a drop runs down? Why do you think so?
 - **fair test:** We stand the plate the same way each time, and spray from the same distance, one ruler length away. We spray once at a time and count every spray. We wipe the plate dry before each try. We do three tries, because one try can be just by chance.
-- **record:** Write your guess. Make one tally mark for each spray. Circle the spray when the first drop ran down. Draw the plate after 2 sprays, and just before the drop ran.
+- **record:** Write your guess. Make one tally mark for each spray. Circle the mark for the spray when the first drop ran down. Draw the plate after 2 sprays, and again just before the drop ran down.
 - **results table:** Try | My guess: how many sprays? | Sprays until the first drop ran down | What the drops looked like before that
 - **s1 (3 min)**  
   *Parent does:* 1. Do this in the kitchen or bathroom, where a wet wall does not matter. 2. Stand the plate on its edge on the tray, leaning against the wall. 3. Turn the nozzle to its finest mist. 4. Show your child the plate and the bottle.  
-  *Parent says:* I am going to spray a fine mist onto this plate, one spray at a time. Will the water run down straight away? How many sprays will it take? Why do you think so?  
+  *Parent says:* We are going to spray a fine mist onto this plate, one spray at a time. Will the water run down straight away? How many sprays will it take? Why do you think so?  
   *Child mode:* Look at the plate and the spray bottle. Will the water run down at once? Guess how many sprays. Say why.
   - Ask: How many sprays will it take? Why? (good: One, because water always runs down.; Lots, because the mist is tiny.; A few, because the drops have to get bigger.)
   - Note: Don't say if the guess is right. Many children say one spray, because water always runs down. Write the guess down.
@@ -253,13 +253,14 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   - Ask: Were the three numbers the same? (good: Close, but not exactly the same.; It always took many sprays, never just one.)
   - Note: The numbers will be close but not the same. That is normal. What matters is that it always takes many sprays before a drop runs down.
 - **s5 (3 min)**  
-  *Parent does:* 1. Ask your child why the tiny drops stayed still and what made one run down. 2. Then tell them about clouds. 3. Take one big drop on the tip of a spoon, about as big as a pea. Touch it to the dry plate near the top and watch it run.  
+  *Parent does:* 1. Ask your child why the tiny drops stayed still and what made one run down. 2. Then tell them that a cloud is made of drops even tinier than the mist. 3. Take one big drop on the tip of a spoon, about as big as a pea. Touch it to the dry plate near the top and watch it run.  
   *Parent says:* Why did the first sprays not run down? What had to happen first? Now watch one big drop from a spoon. A cloud is made of drops even tinier than the mist.  
-  *Child mode:* Why did the tiny drops stay still? What made one run down? Now watch a big spoon drop.
+  *Child mode:* Why did the tiny drops stay still? What made one run down? Now watch one big drop from a spoon on the plate.
   - Ask: What has to happen in a cloud before rain falls? (good: The tiny drops have to join into a big drop.; The drop has to get heavy enough to fall.)
-  - Note: Wait for your child's reason before you explain. A big drop like this usually runs down at once, because it is already big and heavy. If it clings, add a second drop to it. Tiny drops cling on until many have joined.
+  - Note: Wait for your child's reason before you explain. The big drop from the spoon usually runs down at once, because it is already big and heavy. If it clings, add a second drop to it. Tiny drops cling on until many have joined.
   - Check: Why did the tiny drops from the first spray stay on the plate? → **They were too small and light to run down**
 ### e2 · Raindrops in Atta: are all raindrops the same size? (40 min)
+- **problem:** Rain falls from clouds as drops. In this experiment you catch real raindrops in a plate of flour. Each raindrop that lands in the flour makes one small ball of dough. A bigger raindrop makes a bigger ball. So the size of each dough ball shows you the size of the raindrop that made it.
 - **question:** Are all raindrops the same size, or are some big and some small?
 - **predict:** When we catch raindrops in flour, will all the dough balls be the same size? Why do you think so?
 - **fair test:** We hold the plate out for just 3 seconds, so the drops don't land on top of each other. We use a smooth, flat layer of flour. We sort the balls by size only after they have dried a little.
@@ -289,8 +290,8 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   - Ask: Which size did you find most of? (good: Small ones.; There were many sizes, not just one.)
 - **s5 (3 min)**  
   *Parent does:* Ask your child why the raindrops were different sizes.  
-  *Parent says:* Why were some raindrops big and some small? Think about the spray plate.  
-  *Child mode:* Why were some drops big and some small? Think about the plate.
+  *Parent says:* Why were some raindrops big and some small? Think about the Spray Plate experiment, where tiny drops joined into one big drop.  
+  *Child mode:* Why were some drops big and some small? Think about the Spray Plate experiment, where tiny drops joined into one big drop.
   - Ask: Why are raindrops different sizes? (good: Some drops joined with more drops than others.; A big drop swallowed lots of little ones on the way down.)
   - Note: Raindrops grow by joining, and each drop meets a different number of others, so sizes vary.
   - Check: Why were the raindrops in the flour different sizes? → **Each drop had joined a different number of tiny drops**
@@ -300,14 +301,14 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 - **s1 (3 min)**  
   *Parent does:* 1. Close the curtains and switch off the lights. 2. Put the torch on a table so its beam shines sideways across the room.  
   *Parent says:* I am going to spray a puff of mist into the light. Then I will drop one big drop from a spoon. Which will reach the floor first? Why do you think so?  
-  *Child mode:* Look at the torch beam. Mist or a spoon drop: which falls first? Say why.
+  *Child mode:* Look at the torch beam. Which will reach the floor first: the mist, or a drop from a spoon? Say why.
   - Ask: Which will reach the floor first? (good: The spoon drop, because it is big.; The same, because both are water.)
 - **s2 (4 min)**  
   *Parent does:* 1. Spray one puff of mist into the beam, at head height. 2. Count slowly how long you can see it in the light. 3. Then tip one drop off a spoon at the same height, through the beam.  
-  *Parent says:* Watch the mist sparkle. Count with me: one, two, three. Now watch the spoon drop. Which was faster?  
-  *Child mode:* Watch the mist sparkle. Count how long it floats. Now watch the spoon drop.
+  *Parent says:* Watch the mist sparkle. Count with me: one, two, three. Now watch the drop from the spoon. Which was faster?  
+  *Child mode:* Watch the mist sparkle. Count how long it floats. Now watch the drop from the spoon.
   - Ask: What did the mist do? (good: It sparkled and drifted slowly.; Some of it floated for a long time.)
-  - Note: The spoon drop falls in a blink. The mist drifts, and some of it hangs in the beam for several seconds. Wipe the floor after.
+  - Note: The drop from the spoon falls in a blink. The mist drifts, and some of it hangs in the beam for several seconds. Wipe the floor after.
 - **s3 (3 min)**  
   *Parent does:* Ask your child what this tells us about clouds.  
   *Parent says:* A cloud is made of drops even tinier than this mist. What does that tell you about why clouds float?  
@@ -322,7 +323,7 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   *Child mode:* Look at the sky, away from the Sun. Find white clouds. Find grey ones.
   - Ask: What is different about the grey clouds? (good: They look thick and heavy.; Their bottoms are dark.; They look like rain is coming.)
 - **s2 (4 min)**  
-  *Parent does:* 1. Fold the paper into two boxes: white and grey. 2. Your child draws each cloud they see in the right box.  
+  *Parent does:* 1. Fold the paper to make two boxes. Label one 'white' and the other 'grey'. 2. Your child draws each cloud they see in the right box.  
   *Parent says:* Draw each cloud in its box. Make a mark for each one. Which box has more?  
   *Child mode:* Draw each cloud in the right box. Count them.
   - Note: On a clear day there may be no clouds. Then draw an empty sky, and try again another day.
@@ -340,12 +341,12 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   - Ask: Which drops are moving? (good: Only the big ones.; The small ones stay still.)
 - **s2 (5 min)**  
   *Parent does:* 1. Each of you picks one big drop near the top. 2. Follow it down with a finger held just in front of the glass. 3. Count how many small drops it swallows.  
-  *Parent says:* Pick a racer. Follow it down. Count each small drop it swallows. What happens to its speed?  
+  *Parent says:* Pick one big drop to be your racer. Follow it down. Count each small drop it swallows. Does it get faster or slower?  
   *Child mode:* Pick a big drop. Follow it down. Count the small drops it swallows.
   - Ask: What happened each time the racer swallowed a drop? (good: It got bigger.; It went faster.)
   - Note: A big drop runs down, joins the small ones in its way, grows and often speeds up. Raindrops grow the same way as they fall through a cloud.
 - **s3 (2 min)**  
-  *Parent does:* Write down the counts. Ask what this shows about raindrops.  
+  *Parent does:* Write down how many small drops each big drop swallowed. Ask what this shows about raindrops.  
   *Parent says:* Whose racer swallowed the most? How is this like the drops inside a cloud?  
   *Child mode:* Whose drop swallowed the most? How is this like a cloud?
   - Ask: How is the window like a cloud? (good: In both, small drops join into big drops.; Big drops fall and pick up small ones on the way.)
@@ -366,7 +367,7 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
   *Child mode:* Look at the sky. Draw it in today's box. Mark a raindrop if it rained.
   - Wait: Do this once a day from day 2 to day 27. It takes about 2 minutes each day.
 - **s3 (15 min)**  
-  *Parent does:* 1. Make a table with four rows. 2. Count each kind of day with tally marks. 3. Ask what the numbers show.  
+  *Parent does:* 1. Make a table with four rows: grey days with rain, grey days without, white or clear days with rain, white or clear days without. 2. Count each kind of day with tally marks. 3. Ask what the numbers show.  
   *Parent says:* Let us count. How many grey days had rain? How many white days had rain? What does that tell us?  
   *Child mode:* Count your days. Did grey days or white days bring more rain?
   - Ask: Which days brought more rain? (good: Grey days, because thick clouds hold more water.; Sometimes a grey day stayed dry too.)
@@ -406,9 +407,9 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
    **Answer:** First picture: many tiny dots. Second picture: fewer, bigger drops, with one starting to run.. *Why:* A strong drawing shows the drops getting bigger and fewer as they join.
 3. (truefalse) A cloud is a big bag full of water that bursts when it gets too full.  
    **Answer:** False. *Why:* False. A cloud has no bag or skin. It is millions of tiny drops floating in the air. Rain falls when the drops join into bigger, heavier drops.
-4. (write) Say out loud, and a grown-up writes it down: why did the tiny drops on the plate not run down?  
+4. (write) Why did the tiny drops on the plate not run down? Say your answer out loud, and a grown-up writes it down.  
    **Answer:** They were too small and light. They had to join into a bigger drop first.. *Why:* A strong answer says the drops were too small, and that joining made them heavy enough.
-5. (count) Leela, a girl in Kochi, sprayed her plate. The first drop ran down at 9 sprays. Her brother tried again, and it ran at 12 sprays. How many more sprays did her brother need?  
+5. (count) In the spray plate test, the first drop ran down at 9 sprays on the first try. On the second try, it ran down at 12 sprays. How many more sprays did the second try need?  
    **Answer:** 3. *Why:* 12 take away 9 is 3. Each try gives a slightly different number, which is why we try more than once.
 6. (sort) Sort these into 'falls fast' and 'floats or falls slowly'.  
    **Answer:** a drop from a spoon → Falls fast; mist from a spray bottle → Floats or falls slowly; a cloud drop → Floats or falls slowly; a big raindrop → Falls fast; dust in a sunbeam → Floats or falls slowly; a pebble → Falls fast. *Why:* Tiny, light things fall slowly and are easily held up by moving air. Big drops and stones fall fast.
@@ -417,19 +418,19 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 8. (odd) Three of these are made of water. Which one is not?  
    Options: A cloud / A raindrop / Mist on a window / Smoke from a fire  
    **Answer:** 3. *Why:* Smoke from a fire is made of tiny bits of ash and gas from burning. Clouds, raindrops and mist are all water.
-9. (perspective) Anjali and Tara, two sisters in Mysuru, look at a small white cloud on a sunny day.  
-   **Answer:** A strong answer picks a side with a reason, such as 'white clouds are thinner, so they rain less'. It also says what the other gets right, such as 'every cloud does hold water'.. *Why:* Both have a point. Every cloud is made of water, as Anjali says. But a thin white cloud rarely rains, as Tara says. Thick grey clouds hold more water, and their drops have more chances to join.
+9. (perspective) The first child and the second child, two sisters in Mysuru, look at a small white cloud on a sunny day.  
+   **Answer:** A strong answer picks a side with a reason, such as 'white clouds are thinner, so they rain less'. It also says what the other gets right, such as 'every cloud does hold water'.. *Why:* Both have a point. Every cloud is made of water, as the first child says. But a thin white cloud rarely rains, as the second child says. Thick grey clouds hold more water, and their drops have more chances to join.
 10. (mcq) On a rainy window, a big drop runs down. What happens to the small drops in its way?  
    Options: The big drop joins them and gets bigger / The big drop jumps over them / The small drops push the big drop back up  
    **Answer:** The big drop joins them and gets bigger. *Why:* A big drop that meets small drops joins them and grows. Drops in a cloud grow the same way.
 ### How a Cloud Makes Rain (stretch) (stretch, 10 questions)
 1. (order) Put these in order, to show how rain is made.  
    **Answer:** ['Water evaporates from the sea', 'The vapour rises and cools high up', 'It condenses into tiny cloud drops', 'The tiny drops bump and join', 'Big drops fall as rain']. *Why:* Water goes up as invisible vapour, becomes tiny drops in the cold, and falls only after the drops join.
-2. (write) Ramya, a girl in your class, says, 'Clouds are made of cotton.' What would you tell her, and how could she check? Say it, and a grown-up writes it.  
-   **Answer:** Clouds are made of tiny water drops. She could walk through a cloud on a hill and feel her hair get wet, or look at the mist from a spray bottle.. *Why:* A strong answer gives the right idea and a real way to check it, not just 'because my teacher said so'.
+2. (write) Someone says, 'Clouds are made of cotton.' What would you tell them, and how could they check? Say it, and a grown-up writes it.  
+   **Answer:** Clouds are made of tiny water drops. They could walk through a cloud on a hill and feel their hair get wet, or look at the mist from a spray bottle.. *Why:* A strong answer gives the right idea and a real way to check it, not just 'because my teacher said so'.
 3. (draw) Draw what you think is inside a grey rain cloud, as if you had a magic magnifying glass.  
    **Answer:** Lots of tiny drops, some joining together, and a few bigger drops falling out of the bottom.. *Why:* A strong drawing shows tiny drops, drops joining, and bigger drops falling. Drawing what we can't see helps us think about it.
-4. (count) Priya and her friend Shabnam do the window race. Priya's racer drop swallowed 4 small drops. Shabnam's racer swallowed twice as many. How many did Shabnam's racer swallow?  
+4. (count) In the window race, one racer drop swallowed 4 small drops. A second racer drop swallowed twice as many. How many small drops did the second racer swallow?  
    **Answer:** 8. *Why:* Twice 4 is 8. The more small drops a racer swallows, the bigger it grows.
 5. (truefalse) Thick grey clouds are made of dirty water, which is why they look dark.  
    **Answer:** False. *Why:* False. Grey clouds are made of the same clear water drops as white clouds. They look dark underneath because they are so thick that little sunlight comes out of the bottom.
@@ -437,8 +438,8 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
    **Answer:** Kerala → from June, when the monsoon arrives; Chennai → from October to December; The Thar desert in Rajasthan → very little rain in any month. *Why:* Monsoon winds bring rain to different parts of India at different times. The Thar desert gets very little rain.
 7. (label) Label the two clouds: 'thin, lets light through' and 'thick, likely to rain'.  
    **Answer:** ['The small white cloud: thin, lets light through', 'The tall cloud with the dark bottom: thick, likely to rain']. *Why:* A thin cloud looks white because light passes through it. A thick cloud is dark underneath and holds more water.
-8. (perspective) Kavitha's family in Bengaluru wants to dry clothes on the balcony. The sky is grey in the morning.  
-   **Answer:** A strong answer picks a plan and gives a reason from what we learned about grey clouds. It also names a real point in another plan.. *Why:* Grey clouds make rain more likely, but not certain. Each plan weighs that risk differently. Sameer's plan uses fresh evidence: watching whether the clouds get thicker.
+8. (perspective) The first child's family in Bengaluru wants to dry clothes on the balcony. The sky is grey in the morning.  
+   **Answer:** A strong answer picks a plan and gives a reason from what we learned about grey clouds. It also names a real point in another plan.. *Why:* Grey clouds make rain more likely, but not certain. Each plan weighs that risk differently. Sameer's plan keeps checking: he watches whether the clouds get thicker.
 9. (truefalse) A cloud that is raining holds some bigger drops among its tiny drops.  
    **Answer:** True. *Why:* Scientists flew planes through clouds and measured the drops. Clouds that were raining had bigger drops. Clouds that were not raining had almost only tiny drops.
 10. (fill) A tiny cloud drop falls only about a centimetre each ______, so it floats.  
@@ -446,24 +447,24 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 ### Think Like a Cloud Scientist (challenge) (challenge, 10 questions)
 1. (write) Many people think a cloud falls when it gets heavy, like a stone. A cloud weighs as much as many elephants. Why does it stay up? Say it, and a grown-up writes it.  
    **Answer:** Its water is split into millions of tiny drops. Each tiny drop falls very slowly, and rising air holds the drops up.. *Why:* A strong answer says the weight is spread over tiny drops, and that tiny drops fall slowly. The weight of the whole cloud does not pull it down like a stone.
-2. (mcq) Deepa, a girl in Madurai, sprayed her plate from far away, so less mist landed each time. What do you think happened?  
-   Options: She needed more sprays before a drop ran down / She needed fewer sprays / No drop ever ran down  
-   **Answer:** She needed more sprays before a drop ran down. *Why:* Less water landed with each spray, so the drops took longer to grow and join. A drop still runs down in the end, once enough water has joined.
-3. (write) Imagine a cloud where the tiny drops could never join. What would happen to the rain?  
-   **Answer:** There would be no rain. The drops would stay tiny and float, or evaporate.. *Why:* A strong answer uses the plate test: no joining, no big drops, so nothing heavy enough to fall.
+2. (mcq) Suppose you spray the plate from far away, so less mist lands each time. What do you think happens?  
+   Options: You need more sprays before a drop runs down / You need fewer sprays / No drop ever runs down  
+   **Answer:** You need more sprays before a drop runs down. *Why:* Less water lands with each spray, so the drops take longer to grow and join. A drop still runs down in the end, once enough water has joined.
+3. (write) Suppose the tiny drops in a cloud could never join. What would happen to the rain?  
+   **Answer:** There would be no rain. The drops would stay tiny and float, or evaporate.. *Why:* A strong answer uses the spray plate test: if the drops never join, no drop gets big and heavy enough to fall.
 4. (sort) Where does the water for a cloud come from? Sort these into 'gives water to the air' and 'does not'.  
    **Answer:** the sea → Gives water to the air; wet clothes on a line → Gives water to the air; a dry steel spoon → Does not; a puddle on the road → Gives water to the air; a potted tulsi plant → Gives water to the air; a dry stone → Does not. *Why:* Water evaporates from seas, puddles and wet clothes. Plants give off water from their leaves too. A dry spoon or stone has no water to give.
 5. (draw) Draw a comic strip in 3 boxes: one water drop's journey from the sea, into a cloud, and back down as rain.  
    **Answer:** Box 1: water evaporating from the sea. Box 2: a tiny drop in a cloud, joining others. Box 3: a big raindrop falling.. *Why:* A strong strip shows the water rising as invisible vapour, becoming a tiny drop, joining others, and falling.
 6. (perspective) Three people talk about why it rains.  
    **Answer:** A strong answer sees that all three describe part of the story: the winds bring the damp air, the drops must join, and there must be enough water.. *Why:* Each person sees a different part of how rain happens. The farmer sees the wind and the season. The scientist and the girl see what happens inside the cloud.
-7. (count) Usha, a girl in Pune, caught raindrops in flour. She found 12 small balls, 6 medium balls and 2 big balls. How many raindrops did she catch in all?  
+7. (count) In the raindrops in atta test, the flour held 12 small balls, 6 medium balls and 2 big balls. How many raindrops were caught in all?  
    **Answer:** 20. *Why:* 12 and 6 make 18, and 2 more make 20. Most were small, because only some drops grow big.
 8. (truefalse) Water vapour is the white, puffy stuff you see in a cloud.  
    **Answer:** False. *Why:* Water vapour is invisible. The white you see in a cloud is made of tiny drops of liquid water.
 9. (fill) When water vapour cools high in the sky and turns into tiny drops, we say it ______.  
    **Answer:** condenses. *Why:* Condense means turn from a gas back into liquid drops. That is how every cloud forms.
-10. (write) Your window race showed big drops swallowing small ones. How could you test whether bigger racers run faster? Say it, and a grown-up writes it.  
+10. (write) In the window race, big drops swallowed small ones. How could you test whether bigger racer drops run down faster? Say it, and a grown-up writes it.  
    **Answer:** Pick a small racer and a big racer at the same height. Start them together and see which reaches the bottom first. Try it three times.. *Why:* A strong answer compares two drops fairly, from the same place, and tries more than once.
 
 ## Videos
@@ -474,7 +475,7 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 ## Quiz
 1. (mcq) What is a cloud made of?  
    Options: Smoke / Millions of tiny drops of water / Cotton-like threads  
-   **Answer:** Millions of tiny drops of water. *Why:* A cloud is made of tiny drops of water, or tiny bits of ice. Picking smoke or cotton means going by how a cloud looks from far away.
+   **Answer:** Millions of tiny drops of water. *Why:* A cloud is made of tiny drops of water, or tiny bits of ice. It only looks like smoke or cotton from far away.
 2. (mcq) Why can a cloud float, even though it is made of water?  
    Options: Its drops are so tiny that they fall very slowly, and rising air holds them up / Clouds have no weight / Clouds are hollow bubbles  
    **Answer:** Its drops are so tiny that they fall very slowly, and rising air holds them up. *Why:* Clouds do weigh a lot. But their water is split into tiny drops that fall very slowly. The hollow bubble idea was shown wrong in 1846.
@@ -484,7 +485,7 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 4. (mcq) Where does the water in a cloud come from?  
    Options: From water that evaporated from seas, rivers and wet things / From space / Clouds make new water  
    **Answer:** From water that evaporated from seas, rivers and wet things. *Why:* Water evaporates into the air as invisible vapour, then cools high up into tiny drops. No new water is made.
-5. (mcq) Mala hangs wet clothes on her balcony in Hyderabad. By evening they are dry. Where did the water go?  
+5. (mcq) Wet clothes hang on a balcony. By evening they are dry. Where did the water go?  
    Options: Into the air, as water vapour / Into the clothes pegs / It disappeared for ever  
    **Answer:** Into the air, as water vapour. *Why:* The water evaporated into the air as vapour. Some day, that water may be part of a cloud.
 6. (mcq) Which clouds are most likely to bring rain?  
@@ -496,12 +497,12 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 8. (mcq) In the torch beam, which reached the floor first?  
    Options: The mist / The drop from the spoon / Both at the same time  
    **Answer:** The drop from the spoon. *Why:* The big spoon drop fell in a blink. The tiny mist drops drifted slowly, the way cloud drops do.
-9. (mcq) Nandini, a girl in Pune, did the spray test three times and got 10, 13 and 11 sprays. What should she say?  
+9. (mcq) You do the spray plate test three times and get 10, 13 and 11 sprays. What should you say?  
    Options: The test failed, because the numbers are different / It always took many sprays before a drop ran down / Only the first try counts  
    **Answer:** It always took many sprays before a drop ran down. *Why:* Small differences are normal in any test. What all three tries agree on is the big result: tiny drops must join before they fall.
 10. (mcq) About how many cloud drops does it take to make one raindrop?  
    Options: About 10 / About 100 / About a million  
-   **Answer:** About a million. *Why:* Cloud drops are so tiny that about a million join to make one raindrop. The card game used 10 so we could count.
+   **Answer:** About a million. *Why:* Cloud drops are so tiny that about a million join to make one raindrop. The Make a Raindrop card game used 10 so we could count.
 
 ## Applications
 - Weather forecasters watch clouds from satellites to warn people when heavy rain is coming.
@@ -539,10 +540,10 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 - What goes up when the rain comes down? *An umbrella.*
 
 ## Connected maths
-- Revathi, a girl in Madurai, did the spray plate test three times. The first drop ran down at 8, 11 and 9 sprays. Which try took the most sprays? Which took the fewest? **The second try took the most, 11 sprays. The first try took the fewest, 8 sprays.**. 11 is bigger than 9, and 9 is bigger than 8. The numbers are close, so every try agrees: it takes many sprays, never just one. (queues `math.number-sense.comparing-ordering.L2`)
-- In the card game, Fathima, a girl in Kozhikode, has drop cards of 3 and 4. How many more drops does she need to make a raindrop of 10? **3 more drops.**. 3 and 4 make 7. From 7, count on 8, 9, 10. That is 3 more. (queues `math.addition-subtraction.number-facts.L2`)
-- Lakshmi, a girl in Coimbatore, kept a sky book for 4 weeks. Grey sky: 10 days, and it rained on 7 of them. White or clear sky: 18 days, and it rained on 2 of them. On which kind of day was rain more likely? Draw tallies to show it. **Grey days. Rain came on 7 out of 10 grey days, but only 2 out of 18 white or clear days.**. 7 out of 10 is most of the grey days. 2 out of 18 is very few of the white days. So grey skies make rain much more likely, though not certain: 3 grey days stayed dry. (queues `math.probability.likely-and-unlikely.L2`)
-- In the flour test, the small dough balls were 2 mm across and the big ones were 6 mm across. How many small balls would fit in a row across one big ball? **3 small balls.**. 2 and 2 and 2 make 6. So 3 small balls in a row are as wide as one big ball. But the big ball holds far more water than 3 small ones, because it is bigger every way: wide, tall and deep. (queues `math.multiplication.equal-groups.L2`)
+- The spray plate test was done three times. The first drop ran down at 8, 11 and 9 sprays. Which try took the most sprays? Which took the fewest? **The second try took the most, 11 sprays. The first try took the fewest, 8 sprays.**. 11 is bigger than 9, and 9 is bigger than 8. The numbers are close, so every try agrees: it takes many sprays, never just one. (queues `math.number-sense.comparing-ordering.L2`)
+- In the card game, you have drop cards of 3 and 4. How many more drops do you need to make a raindrop of 10? **3 more drops.**. 3 and 4 make 7. From 7, count on 8, 9, 10. That is 3 more. (queues `math.addition-subtraction.number-facts.L2`)
+- A sky book was kept for 4 weeks. Grey sky: 10 days, and it rained on 7 of them. White or clear sky: 18 days, and it rained on 2 of them. On which kind of day was rain more likely? Draw tallies to show it. **Grey days. Rain came on 7 out of 10 grey days, but only 2 out of 18 white or clear days.**. 7 out of 10 is most of the grey days. 2 out of 18 is very few of the white days. So grey skies make rain much more likely, though not certain: 3 grey days stayed dry. (queues `math.probability.likely-and-unlikely.L2`)
+- In the flour test, the small dough balls were 2 mm across and the big ones were 6 mm across. How many small balls would fit in a row across one big ball? **3 small balls.**. 2 and 2 and 2 make 6. So 3 small balls in a row are as wide as one big ball. But the big ball holds far more water than 3 small ones, because it is not only wider: it is taller and deeper too. (queues `math.multiplication.equal-groups.L2`)
 
 ## Song
 Tiny Drops Join (sci.weather.L2): Topic-level song for Weather and climate L2

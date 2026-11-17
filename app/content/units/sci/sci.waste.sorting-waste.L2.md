@@ -3,7 +3,7 @@
 
 **Summary.** A dry onion skin goes in the wet waste bin. A milk packet with milk still inside goes in the dry waste bin. So the names wet and dry cannot mean how a thing feels. Wet waste is waste that rots, like peels and leftover food. Dry waste does not rot quickly, like plastic, paper, glass and metal. In this unit you press waste between paper napkins to see which leaves a wet mark, weigh one meal's waste on a hanger, and follow your bins to where they go.
 
-**Intro.** *Hold a dry onion skin in one hand and a banana peel in the other. Which one feels wet? Now guess. Which bin does each one go in?* The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. So how can you tell which bin a thing goes in, if feeling it does not tell you? Your napkin test will help you find out.
+**Intro.** *Hold a dry onion skin in one hand and a banana peel in the other. Which one feels wet? Now guess. Which bin does each one go in?* The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. So how can you tell which bin a thing goes in, if feeling it does not tell you? The Napkin Press Test in this unit will help you find out.
 
 ## Learning outcomes
 0. By the end I can say what wet waste and dry waste are, and give three examples of each.
@@ -30,7 +30,7 @@
 ### Wet waste: waste that rots · *defined*
 **Definition:** Wet waste is waste that rots. It comes from plants or animals: food, peels, shells, leaves and flowers.
 
-Most kitchen scraps are wet, so wet waste got its name. But the real rule is that it rots. A peel, an onion skin and a dry leaf all came from plants, and decomposers slowly eat them. So a dry leaf goes in the wet bin, even though it feels dry.
+Wet waste got its name because most kitchen scraps are wet. But the real rule is that it rots. A peel, an onion skin and a dry leaf all came from plants, and decomposers slowly eat them. So a dry leaf goes in the wet bin, even though it feels dry.
 - e.g. Peels of banana, potato, carrot and onion.
 - e.g. Leftover rice, idli, sambar or chapati.
 - e.g. Used tea leaves and filter coffee powder.
@@ -64,41 +64,41 @@ Dry leaves rot, so most city guides say they go with wet waste. Some people burn
 - Sorting at home makes waste much easier to use. *How we know:* Clean, dry paper and plastic can be sold and recycled. Paper soaked with food cannot be made into good paper.
 
 ## How we found out
-**Almitra Patel, scientist and campaigner, near Bengaluru; the Supreme Court of India and its committee, 1996 (court case); 2000 (first national rules); 2016 (newer rules).** For a long time, many towns in India took mixed garbage out of town and tipped it onto open land. Many people thought the problem was gone once it was out of sight. Almitra Patel, a scientist and campaigner near Bengaluru, looked at what those dumps were really like. They smelled and caught fire. Rain washed dirty water out of them, into the ground and into wells. She said cities must collect waste every day, keep wet and dry waste apart, and make compost from wet waste. In 1996 she took the problem to the Supreme Court of India. The court set up a committee to study it. Its work led to India's first national rules for city waste, in 2000. Rules from 2016 say every home must sort its waste. The dump was never the end of the waste. It only moved it somewhere else.  
+**Almitra Patel, scientist and campaigner, near Bengaluru; the Supreme Court of India and its committee, 1996 (court case); 2000 (first national rules); 2016 (newer rules).** For a long time, many towns in India took mixed garbage out of town and tipped it onto open land. Many people thought the problem was gone once it was out of sight. Almitra Patel, a scientist and campaigner near Bengaluru, looked at what those dumps were really like. They smelled and caught fire. Rain washed dirty water out of them, into the ground and into wells. She said cities must collect waste every day, keep wet and dry waste apart, and make compost from wet waste. In 1996 she took the problem to the Supreme Court of India. The court set up a committee to study it. Its work led to India's first national rules for city waste, in 2000. Rules from 2016 say every home must sort its waste. The dump was never the end of the waste. Dumping only moved the waste somewhere else.  
 *What people believed before:* That taking mixed garbage out of town and dumping it solved the problem. Almitra Patel showed that dumps poison air, soil and water, and that sorting at home, collecting every day and composting wet waste work better.
 
 ## Challenging perspectives
 - **Wet waste is anything that feels wet.** (A common first guess; *rejected*)  
   For: Most kitchen waste, like peels and leftover rice, is wet, so the name seems to fit.  
-  Against: A dry onion skin or a dry leaf goes in the wet bin, because it rots. A wet milk packet goes in the dry bin, because plastic does not rot. The napkin test shows this.
+  Against: A dry onion skin or a dry leaf goes in the wet bin, because it rots. A wet milk packet goes in the dry bin, because plastic does not rot. The Napkin Press Test shows this: the dry onion skin leaves no wet mark, and the unrinsed milk packet does.
 - **Once waste is in the dustbin, it is gone.** (Many people; *rejected*)  
   For: We do not see our waste again after the collector takes it, so it seems to have gone away.  
   Against: Waste always goes somewhere: to a compost place, a sorting shed or a dump. A dump near a town can smell, catch fire and spoil the water under it.
 - **Paper comes from trees, so paper is wet waste.** (A clever guess some children make; *debated*)  
   For: Paper is made from wood, and wet paper does rot, slowly.  
-  Against: Clean paper is more useful made into new paper than rotted. So cities ask for paper in the dry bin. Paper soaked with food, like a greasy dosa wrapper, can go with wet waste.
+  Against: Clean paper is more useful when it is made into new paper than when it is left to rot. So cities ask for paper in the dry bin. Paper soaked with food, like a greasy dosa wrapper, can go with wet waste.
 
 ## Roots
-We have tested which waste leaves a wet mark and found that the mark does not decide the bin. Now we ask what that tells us about waste, about the beings who eat it, and about ourselves.
+In the Napkin Press Test, we found that a wet mark does not decide the bin. Now we ask what that tells us about waste, about the living beings who eat it, and about ourselves.
 
-**Deep truth.** In our test, the dry onion skin left no wet mark, but the milky packet did. Still, the onion skin goes in the wet bin and the packet in the dry bin. A bin is chosen by what can happen to a thing next. Wet waste rots into soil, and clean dry waste can often be made into new things.  
-*Habit it breaks:* We name things by how they look or feel now, like wet and dry. The napkin test showed that how a thing feels today does not tell us what will become of it.  
+**Deep truth.** In the Napkin Press Test, the dry onion skin left no wet mark, but the unrinsed milk packet did. Still, the onion skin goes in the wet bin and the packet in the dry bin. We choose a bin by what can happen to the thing next. Wet waste rots into soil, and clean dry waste can often be made into new things.  
+*Habit it breaks:* We name things by how they look or feel now, like wet and dry. The Napkin Press Test showed that how a thing feels today does not tell us what will become of it.  
 *Evidence:* In the Napkin Press Test, the peel, rice and tea leaves wet the napkin, and so did the unrinsed milk packet. The onion skin and the dry leaf left it dry. Yet the onion skin and the leaf rot, so they go in the wet bin. The packet does not rot, so after a rinse it goes in the dry bin.
 
 - *who am i:* You are an animal who eats food and leaves peels. What you throw away becomes food for other living beings.
 - *what is life:* Bacteria, fungi and worms eat what is left of plants and animals. Their eating turns it back into soil, where new plants grow.
-- *what is this world:* Nothing is ever thrown right out of the world. Every peel and every packet goes somewhere.
+- *what is this world:* Nothing we throw away leaves the world. Every peel and every packet goes somewhere.
 
 A peel was part of a living banana plant. In the bin, bacteria and fungi find the peel, choose it as food and eat it. Their bodies grow, and what is left becomes soil. New plants can grow in that soil. Plastic sits outside this circle for now, because almost no decomposer eats it.
 
 - **Tao Te Ching 16:** All things grow and flourish, and then each one goes back to its root. (A peel goes back to the soil it came from, when decomposers eat it. That is what the green bin is for.)
-- **Thich Nhat Hanh, teachings on interbeing:** Look deeply at a flower and you can see the compost it will become. Look deeply at compost and you can see the flowers it will grow. (The onion skin in the wet bin looks like rubbish. Looked at deeply, it is soil, and then a new plant.)
+- **Thich Nhat Hanh, teachings on interbeing:** Look deeply at a flower and you can see the compost it will become. Look deeply at compost and you can see the flowers it will grow. (The onion skin in the wet bin looks like rubbish. But it will become soil, and then part of a new plant.)
 - Science (settled): Bacteria and fungi break down dead plants and animals, and return what was in them to the soil. Without them, dead leaves would pile up for ever.
 - Science (open): In 2016, scientists in Japan described bacteria that can slowly eat one kind of plastic. Whether such living beings could ever deal with most of our plastic is still an open question.
 - Science (debated): Bacteria and fungi sense food and grow towards it. They are conscious beings, and thinking is not only done by brains.
-- Other view, Many biologists: They describe bacteria and fungi breaking down a peel as chemistry: the microbes make juices called enzymes that cut the peel into small pieces. They do not use the words choose or want for this.
+- Other view, Many biologists: Many scientists who study microbes describe bacteria and fungi breaking down a peel as chemistry: the microbes make juices called enzymes that cut the peel into small pieces. They do not use the words choose or want for this.
 - Practice, Where will it go? (3 min): Hold one peel or one dry leaf in your open hand. Look at it slowly. Feel how heavy it is. Now close your eyes. Think of it going into the green bin. Think of it on the cart. Think of tiny living beings eating it. Think of it becoming dark soil, and a small plant growing there. Open your eyes. Put it in the green bin gently.
-- Ask: Is a peel waste for a worm?
+- Ask: A peel is waste to us. Is it waste to a worm?
 - Ask: If a thing will become soil, is it rubbish, or something else?
 - Ask: What do you throw away that might become part of a plant one day?
 
@@ -107,7 +107,7 @@ A peel was part of a living banana plant. In the bin, bacteria and fungi find th
 - *deep:* Which tiny living beings eat our peels, and how do they find them? (hint: Think about the fuzzy mould on old bread.)
 - *big:* Where does your waste go after the collector takes it away? (hint: Ask the collector, or a grown-up who knows.)
 - *big:* Is anything really thrown away, or does it always go somewhere? (hint: Follow one peel and one packet as far as you can.)
-- *big:* Is a peel waste for a worm? (hint: What is it to us, and what is it to the worm?)
+- *big:* A peel is waste to us. Is it waste to a worm? (hint: What is it to us, and what is it to the worm?)
 
 ## Story: Thangam Akka's Two Drums
 *Kavya, her Paati, Arun, Appa, Thangam Akka and Muniyamma are made up. Kodungaiyur is a real waste dump in Chennai. Many Indian cities use a green bin for wet waste and a blue bin for dry waste.*
@@ -116,7 +116,7 @@ Kavya lived on the third floor of a building in Chennai. She was seven. Every mo
 
 Thangam Akka pushed a cart with two big drums on it. One drum was green. One drum was blue. She wore a bright orange sari and thick yellow gloves, and she knew every child in the building by name.
 
-Kavya's family had two bins in the kitchen, a small green one and a small blue one. Kavya's Paati, her grandmother, had stuck a picture on each. A peel on the green bin. A newspaper on the blue bin.
+Kavya's family had two bins in the kitchen, a small green one and a small blue one. Kavya's Paati, her grandmother, had stuck a picture on each. The green bin had a picture of a peel. The blue bin had a picture of a newspaper.
 
 One morning Kavya ran to the door with both bins. Thangam Akka tipped the green bin into the green drum. Then she lifted the blue bin, looked inside, and stopped.
 
@@ -158,7 +158,7 @@ Appa thought for a moment. 'Yes,' he said, and put it in the green bin.
 
 The next morning, the bell rang twice. Thangam Akka looked in both bins and gave Kavya a thumbs up with her yellow glove.
 
-**For the parent:** A bin is chosen by asking what will happen to a thing next. If it will rot, it goes in the wet bin, even when it feels dry. Waste never vanishes. It goes where we send it.
+**For the parent:** To choose a bin, ask what will happen to the thing next. If it will rot, it goes in the wet bin, even when it feels dry. Waste never vanishes. It goes where we send it.
 
 - Ask: Why did the dry leaf belong in the green drum?
 - Ask: What went wrong with the milk packet?
@@ -176,7 +176,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
   *Child mode:* Put your token on Home. Shuffle the cards.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns picking a card. 2. Each player says wet or dry, and why. 3. Turn the card over and move.  
-  *Parent says:* Groundnut shells. They feel dry. Will they rot? Which bin?  
+  *Parent says:* This card says groundnut shells. They feel dry. Will they rot? Which bin do they go in?  
   *Child mode:* Pick a card. Ask: will it rot? Say wet or dry.
   - Ask: Why did you put the groundnut shells in the wet bin? (good: Because they rot, even though they are dry.; Because they come from a plant.)
   - Note: The star cards are the tricky ones. Let your child think aloud. Praise the reason, not only the answer.
@@ -192,19 +192,19 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 - **predict:** Look at the eight things and touch each one. Which ones will leave a wet mark on the napkin? Why do you think so? Then say which bin each one goes in.
 - **fair test:** Every piece is about the size of a one-rupee coin. Every piece sits on the same kind of napkin, under the same heavy book, for the same time, 10 minutes. Only the kind of waste is different.
 - **safety:** Wash hands with soap after touching the waste. Use a peel from today's cooking, not old smelly waste. Leave out glass and sharp tin edges.
-- **record:** Fill in the table. Draw the two napkins that surprised you most. Circle the things that went in the wet bin but left no wet mark.
+- **record:** Fill in the table. Draw one napkin that has a wet mark and one that does not. Circle the things that go in the wet bin but left no wet mark. Those are the ones that show a wet mark does not decide the bin.
 - **results table:** Thing | My guess: wet mark? | Wet mark: yes or no? | Which bin does it go in?
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the eight pieces of waste. 2. Let your child touch each one. 3. Ask the questions below. 4. Write the guesses in the table.  
   *Parent says:* Touch each one. Which ones will leave a wet mark on a napkin? Why do you think so?  
   *Child mode:* Touch each thing. Which will leave a wet mark? Why?
   - Ask: Why do you think the onion skin will or will not leave a mark? (good: No mark, because it feels dry and papery.; Maybe a mark, because it comes from an onion, and onions are juicy.)
-  - Note: Write the guesses down word for word. Don't say if they are right. The test will answer.
+  - Note: Write the guesses down word for word. Don't say if they are right. The test will show the answer.
 - **s2 (4 min)**  
   *Parent does:* 1. Write the numbers 1 to 8 on eight napkins. 2. Lay them on the tray. 3. Put one piece on each napkin and fold the napkin over it. 4. Lay a folded cloth over all eight. 5. Put the heavy book on top.  
-  *Parent says:* Every piece is the same size. Every piece gets the same book on top. Then only the kind of waste is different.  
+  *Parent says:* Every piece is the same size. Every piece gets the same book on top. So only the kind of waste is different.  
   *Child mode:* Put one piece on each napkin. Cover them. Put the book on top.
-  - Note: Put the peel inside face down. The cloth makes thick and thin pieces press the same. If the book is too small, use a steel plate with a full bottle on it.
+  - Note: Put the peel with its inside facing down on the napkin. The folded cloth helps the book press thick and thin pieces equally. If the book is too small, use a steel plate with a full bottle on it.
 - **s3 (10 min)**  
   *Parent does:* 1. Wait 10 minutes. 2. While you wait, ask the question below. 3. Then lift the book and take the pieces off. 4. Hold each napkin up to the light.  
   *Parent says:* While we wait, tell me. Which bin does each one go in? Now let's lift the book. Which napkins have a wet mark?  
@@ -239,11 +239,11 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
   - Note: If the empty hanger tips, slide one string loop until it hangs level. The heavier bag goes down. In most Indian homes the wet bag goes down, because peels and food hold a lot of water.
 - **s3 (6 min)**  
   *Parent does:* 1. Take the bags down. 2. Empty each bag on a tray, one at a time. 3. Count the things in each and make tally marks. 4. Put the waste back in its bag.  
-  *Parent says:* Let's count. Make a tally mark for each thing. Which bag has more things?  
+  *Parent says:* Let's count. Make a tally mark for each thing. Which bag has more things? Is it the same bag that was heavier?  
   *Child mode:* Count the things in each bag. Make a tally mark for each one.
-  - Note: Count a heap of rice or tea leaves as one thing. Wash hands after this step.
+  - Note: Count a heap of rice or tea leaves as one thing. Wash hands after this step. The bag with more things is not always the heavier bag, so this count shows that the number of things does not tell us the weight.
 - **s4 (4 min)**  
-  *Parent does:* 1. Press the dry waste into the tumbler, one tumbler at a time, and count. 2. Do the same with the wet waste, using a spoon. 3. Write both numbers.  
+  *Parent does:* 1. Press dry waste into the tumbler until it is full. Empty it and fill it again, until all the dry waste has been used. Count how many times you filled it. 2. Do the same with the wet waste, using a spoon. 3. Write both numbers.  
   *Parent says:* Now let's see which takes more space. How many tumblers does each bag fill?  
   *Child mode:* Fill the tumbler again and again. Count how many for each bag.
   - Ask: Which bag took more tumblers? (good: The dry bag, because packets are light but big.; The wet bag.)
@@ -259,7 +259,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 ### a1 · Kitchen Sort: two steel bowls (10 min)
 - **record:** Draw the two bowls and what went in each.
 - **s1 (2 min)**  
-  *Parent does:* 1. Put the two bowls near the counter, away from the stove. 2. Put a label by each bowl.  
+  *Parent does:* 1. Put the two bowls near the counter, away from the stove. 2. Put a green label by one bowl and a blue label by the other.  
   *Parent says:* Green is for things that rot. Blue is for things that do not rot quickly.  
   *Child mode:* Green is for things that rot. Blue is for the rest.
 - **s2 (6 min)**  
@@ -270,7 +270,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
   - Note: Keep your child away from the stove and knives. Hand them the scraps.
 - **s3 (2 min)**  
   *Parent does:* Empty each bowl into the matching home bin, and wash the bowls.  
-  *Parent says:* Now the green bowl goes in the green bin, and the blue bowl in the blue bin.  
+  *Parent says:* Now what is in the green bowl goes in the green bin, and what is in the blue bowl goes in the blue bin.  
   *Child mode:* Empty each bowl into its bin. Wash your hands.
 ### a2 · Watch the Waste Leave: who takes it, and where to? (15 min)
 - **record:** A map with your home in the middle, a green road for wet waste and a blue road for dry waste.
@@ -278,14 +278,14 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
   *Parent does:* 1. When the collector comes, go to the door with your child. 2. Look at the cart or truck together. 3. Count how many parts it has.  
   *Parent says:* Look at the cart. Does it keep wet and dry waste apart? How many drums or parts can you count?  
   *Child mode:* Look at the cart. How many parts does it have? Are wet and dry apart?
-  - Note: Many carts have two drums or a truck with two sections. If yours has only one, that is worth noticing too. Greet the collector by name, and thank them.
+  - Note: Many carts have two drums, and many trucks have two sections. If yours has only one, that is worth noticing too. Greet the collector by name, and thank them.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* Help your child ask the collector one short question, if the collector has time.  
   *Parent says:* Let's ask where the green drum goes, and where the blue drum goes.  
   *Child mode:* Ask: where does the wet waste go? Where does the dry waste go?
   - Note: If the collector is busy, ask your building secretary or look on your city's website later. Some cities send wet waste to a compost place and dry waste to a sorting shed.
 - **s3 (7 min)**  
-  *Parent does:* 1. Give your child paper and crayons. 2. Ask them to draw their home in the middle. 3. Then a green road and a blue road, and where each ends.  
+  *Parent does:* 1. Give your child paper and crayons. 2. Ask them to draw their home in the middle. 3. Ask them to draw a green road and a blue road, and the place where each road ends.  
   *Parent says:* Draw our home in the middle. Where does the green road go? Where does the blue road go? What happens to mixed waste?  
   *Child mode:* Draw your home. Draw a green road and a blue road. Where do they end?
   - Ask: What happens at the end of the green road? (good: The peels rot and turn into compost.; The compost helps plants grow.)
@@ -295,11 +295,11 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
   *Parent does:* 1. Cut the packet fully open along one side with scissors. 2. Let your child pour in a little water and swish it. 3. Pour the water into a plant pot or the sink.  
   *Parent says:* Why do we rinse it? What would the milk do to the newspapers in the dry bin?  
   *Child mode:* Pour in a little water. Swish it. Pour it out.
-  - Ask: Why rinse it? (good: So the milk does not make the paper wet and smelly.; So it can be sold and recycled.)
+  - Ask: Why do we rinse the milk packet? (good: So the milk does not make the paper wet and smelly.; So it can be sold and recycled.)
   - Note: The milky rinse water can go into a plant pot. A grown-up does the cutting.
 - **s2 (5 min)**  
   *Parent does:* 1. Hang the packet on a peg or tap to dry. 2. The next day, put it flat in the dry bin.  
-  *Parent says:* When it is dry, it is ready. Clean and dry is what the sorting shed needs.  
+  *Parent says:* When the packet is dry, it is ready for the dry bin. The sorting shed needs dry waste to be clean and dry.  
   *Child mode:* Hang it up. When it is dry, put it in the dry bin.
 
 ## Projects
@@ -317,7 +317,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
   *Child mode:* Who might put things in the wrong bin? What would help them?
 - **s2 (10 min)**  
   *Parent does:* Let your child make the two labels. Help only with cutting and sticking.  
-  *Parent says:* Remember the napkin test. Which tricky things should your label show?  
+  *Parent says:* In the Napkin Press Test, the dry onion skin and the dry leaf left no wet mark, but they still went in the wet bin. Which tricky things like these should your label show?  
   *Child mode:* Make your labels. Show one tricky thing on each.
 - **s3 (6 min)**  
   *Parent does:* 1. Stick the labels on the bins. 2. Give someone at home five things to sort. 3. Watch.  
@@ -330,7 +330,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
    **Answer:** banana peel → Wet bin; glass jar → Dry bin; used tea leaves → Wet bin; newspaper → Dry bin; eggshell → Wet bin; tin can → Dry bin. *Why:* Peels, tea leaves and eggshells rot, so they are wet waste. Glass, paper and metal do not rot quickly, so they are dry waste.
 2. (mcq) In the Napkin Press Test, which piece left no wet mark but still goes in the wet bin?  
    Options: The banana peel / The dry onion skin / The plastic wrapper  
-   **Answer:** The dry onion skin. *Why:* The onion skin is dry, so it left the napkin clean. But it rots, so it goes in the wet bin. Picking the plastic wrapper may mean thinking 'no mark' means 'wet bin'.
+   **Answer:** The dry onion skin. *Why:* The onion skin is dry, so it left the napkin clean. But it rots, so it goes in the wet bin. The plastic wrapper also left no mark, but it does not rot, so it goes in the dry bin.
 3. (draw) Draw two napkins from the Napkin Press Test: one with a wet mark, and one with no mark. Write what was on each.  
    **Answer:** One napkin with a grey patch, labelled peel, rice or tea leaves. One clean napkin, labelled onion skin, dry leaf, wrapper or newspaper.. *Why:* A strong drawing shows the mark clearly and names the waste. The best ones pick a clean napkin from the wet bin group, like the onion skin.
 4. (truefalse) Everything in the wet bin feels wet.  
@@ -340,11 +340,11 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 6. (odd) Three of these go in the wet bin. Which one goes in the dry bin?  
    Options: A mango stone / Curry leaves / A plastic pen / Leftover idli  
    **Answer:** 2. *Why:* A plastic pen does not rot. The other three came from plants and rot.
-7. (write) Say out loud, and a grown-up writes it down: what question can you ask to choose the bin for any waste?  
+7. (write) What question can you ask to choose the bin for any waste? Say it out loud, and ask a grown-up to write it down.  
    **Answer:** Will it rot? If yes, the wet bin. If no, the dry bin.. *Why:* A strong answer asks about what happens to the thing next, not how it feels.
 8. (label) Label each picture: wet bin or dry bin.  
    **Answer:** ['dry leaf: wet bin', 'rinsed milk packet: dry bin', 'marigold garland: wet bin', 'cardboard box: dry bin']. *Why:* The leaf and the flowers rot. The packet is plastic, and the box can be made into new cardboard.
-9. (count) Meenakshi, a girl in Class 2 in Madurai, threw away 4 peels, 2 packets, 1 tin and 3 eggshells. How many things went in the wet bin?  
+9. (count) You throw away 4 peels, 2 packets, 1 tin and 3 eggshells. How many things go in the wet bin?  
    **Answer:** 7. *Why:* The peels and eggshells rot. 4 peels and 3 eggshells make 7. The packets and the tin go in the dry bin.
 10. (mcq) Where does sorted wet waste go in many cities?  
    Options: To a compost place, where it turns into soil / Into the sea / To a shop to be sold  
@@ -354,8 +354,8 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 12. (write) Your milk packet still has milk in it. Say what you will do before it goes in the dry bin, and why.  
    **Answer:** Rinse it and let it dry, so the milk does not make the paper in the dry bin wet and smelly.. *Why:* A strong answer gives both the action and the reason: clean, dry waste can be recycled.
 ### Where Does It Go? (stretch) (stretch, 11 questions)
-1. (perspective) Two girls in Class 2 argue about a dry leaf from the balcony.  
-   **Answer:** A strong answer agrees with Sana: the dry leaf left no wet mark, but it rots, so it goes in the wet bin. It also says Lakshmi is right that the leaf is dry to touch.. *Why:* Both girls notice something true. The test shows the leaf is dry, and the bin depends on whether it rots.
+1. (perspective) Two children argue about a dry leaf from the balcony.  
+   **Answer:** A strong answer agrees with the second child: the dry leaf left no wet mark, but it rots, so it goes in the wet bin. It also says the first child is right that the leaf is dry to touch.. *Why:* Both children notice something true. The test shows the leaf is dry, and the bin depends on whether it rots.
 2. (mcq) On the Hanger Balance, the small wet bag went down and the big dry bag went up. Why?  
    Options: The wet bag was heavier, because peels and food hold water / The big bag was heavier / The hanger was broken  
    **Answer:** The wet bag was heavier, because peels and food hold water. *Why:* A hanger tips towards the heavier side. Packets are big but light. Picking 'the big bag' may mean thinking bigger is always heavier.
@@ -369,9 +369,9 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
    **Answer:** Because clean paper can be made into new paper. If it got wet and rotted, it could not be used again.. *Why:* A strong answer says that the dry bin is for things that can be made into new things, and paper is one of them.
 7. (label) Label the map: write compost place, sorting shed or dump at the end of each road.  
    **Answer:** ['green road: compost place', 'blue road: sorting shed', 'mixed road: dump']. *Why:* Sorted wet waste goes to compost, sorted dry waste to a sorting shed, and mixed waste often to a dump.
-8. (count) Teja, a girl in Class 2, filled 5 tumblers with her dry waste and 2 tumblers with her wet waste. How many more tumblers did the dry waste fill?  
+8. (count) You fill 5 tumblers with your dry waste and 2 tumblers with your wet waste. How many more tumblers did the dry waste fill?  
    **Answer:** 3. *Why:* 5 take away 2 is 3. The dry waste took more space, even though the wet waste may be heavier.
-9. (mcq) Mou, a girl in Class 2 in Kolkata, has finished a dosa that came wrapped in greasy paper. Which bin is best for the greasy paper?  
+9. (mcq) A dosa came wrapped in greasy paper. Which bin is best for the greasy paper?  
    Options: The wet bin, because it is soaked with food and will rot / The dry bin, because all paper is dry waste / Neither, it must be burnt  
    **Answer:** The wet bin, because it is soaked with food and will rot. *Why:* Paper soaked with food cannot be made into new paper, but it rots with the food. Burning makes smoke that is bad for everyone's lungs.
 10. (write) Many people think waste is wet waste if it feels wet. What test would you do to show a friend this is not always true?  
@@ -394,13 +394,13 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 3. (mcq) Which bin does a dry onion skin go in?  
    Options: The wet bin / The dry bin / Neither  
    **Answer:** The wet bin. *Why:* The onion skin feels dry, but it rots. So it goes in the wet bin.
-4. (mcq) Priya, a girl in Class 2, has a milk packet with milk still inside. What should she do?  
+4. (mcq) You have a milk packet with milk still inside. What should you do?  
    Options: Rinse it, dry it, and put it in the dry bin / Put it in the wet bin, because it is wet / Put it in the dry bin with the milk inside  
    **Answer:** Rinse it, dry it, and put it in the dry bin. *Why:* The packet is plastic, so it is dry waste. Rinsing stops the milk from spoiling the paper in the dry bin.
 5. (mcq) In the Napkin Press Test, which piece usually leaves a wet mark?  
    Options: The newspaper / The banana peel / The dry leaf  
    **Answer:** The banana peel. *Why:* A peel is full of water, so it wets the napkin. Paper and dry leaves leave it clean.
-6. (mcq) The onion skin left no wet mark. What does this tell us?  
+6. (mcq) In the Napkin Press Test, the dry onion skin left no wet mark, but it goes in the wet bin. What does this tell us?  
    Options: A wet mark does not decide the bin. Whether it rots does. / The onion skin goes in the dry bin / The test went wrong  
    **Answer:** A wet mark does not decide the bin. Whether it rots does.. *Why:* The onion skin is dry, but it rots. So the napkin mark does not tell us the bin.
 7. (mcq) On the Hanger Balance, which side goes down?  
@@ -415,9 +415,9 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 10. (mcq) Where does mixed waste often end up?  
    Options: At a dump / In the compost place / Back in our home  
    **Answer:** At a dump. *Why:* Mixed waste is hard to compost or recycle, so it often goes to a dump.
-11. (mcq) Nandini, a girl in Class 2, guesses the tea leaves will leave a wet mark. What should she do next?  
-   Options: Test it, and see if she was right / Change her guess to be safe / Ask someone else to guess  
-   **Answer:** Test it, and see if she was right. *Why:* A guess with a reason is a good start. The test tells us what really happens.
+11. (mcq) You guess that the tea leaves will leave a wet mark on the napkin. What should you do next?  
+   Options: Test it, and see if you were right / Change your guess to be safe / Ask someone else to guess  
+   **Answer:** Test it, and see if you were right. *Why:* A guess with a reason is a good start. The test tells us what really happens.
 
 ## Applications
 - Homes and buildings in many Indian cities keep a green bin for wet waste and a blue bin for dry waste.
@@ -458,7 +458,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 ## Connected maths
 - In the Napkin Press Test, 8 pieces were pressed. 4 left a wet mark. How many left no mark? **4 left no mark.**. 8 take away 4 is 4. So half the pieces left a mark and half did not. (queues `math.data.sorting-and-tallies.L2`)
 - 5 things go in the wet bin: a peel, rice, tea leaves, an onion skin and a dry leaf. 3 of them left a wet mark. How many wet bin things left no mark? **2: the onion skin and the dry leaf.**. 5 take away 3 is 2. These two are the surprise: they rot, but they are dry. (queues `math.data.sorting-and-tallies.L2`)
-- Farida, a girl in Class 2 in Pune, made tally marks: wet waste |||| ||, dry waste ||||. Which has more, and by how many? **Wet waste, by 3.**. |||| || is 7 and |||| is 4. 7 take away 4 is 3. So her family threw 3 more wet things than dry things. (queues `math.data.sorting-and-tallies.L2`)
+- A family made tally marks for their waste: wet waste |||| ||, dry waste ||||. Which has more, and by how many? **Wet waste, by 3.**. |||| || is 7 and |||| is 4. 7 take away 4 is 3. So the family threw away 3 more wet things than dry things. (queues `math.data.sorting-and-tallies.L2`)
 - On the Hanger Balance, the wet bag went down. But the dry bag filled 6 tumblers and the wet bag filled 2. Which bag takes more space? Does bigger always mean heavier? **The dry bag takes more space. No, bigger does not always mean heavier.**. 6 is more than 2, so the dry bag is bigger. But the wet bag went down, so it is heavier. Packets are big and full of air. Peels are small and full of water. (queues `math.measurement-basics.comparing-and-non-standard.L2`)
 
 ## Song
@@ -473,7 +473,7 @@ Will It Rot? (sci.waste.L2): Topic-level song for Waste L2
 ## Warm-up
 - What is wet waste? → Waste that rots, like peels and food.
 - Which bin does a dry leaf go in? → The wet bin, because it rots.
-- What should you do to a milk packet before the dry bin? → Rinse it and let it dry.
+- What should you do to a milk packet before it goes in the dry bin? → Rinse it and let it dry.
 - Name one decomposer. → Bacteria, fungi or an earthworm.
 - Where does mixed waste often go? → To a dump.
 - What is compost? → Dark soil made when wet waste rots.

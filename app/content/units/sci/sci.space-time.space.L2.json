@@ -118,7 +118,7 @@
    "status": "defined",
    "context": "This card explains what is in space, in your room and far above the Earth.",
    "definition": "The space in your room is full of air, though you cannot see it. Outer space, between the stars, is almost empty.",
-   "description": "The space between your bed and the wall looks empty. But it is full of air, made of tiny bits far too small to see. Wave your hand fast, and you feel them. High above the Earth, the air gets thinner and thinner. Out between the stars, a space the size of a sugar cube holds about one tiny bit of gas, or even less. Yet light from the Sun and stars crosses that space all the time.",
+   "description": "The space between your bed and the wall looks empty. But it is full of air. Air is made of tiny bits that are far too small to see. Wave your hand fast, and you feel them push against your skin. High above the Earth, the air gets thinner and thinner. Out between the stars, a space the size of a sugar cube holds only about one tiny bit of gas, or even less. Yet light from the Sun and stars crosses that space all the time.",
    "examples": [
     "Air you feel when you wave your hand",
     "Thin air on a high mountain in Ladakh",
@@ -145,7 +145,7 @@
     },
     {
      "who": "Other scientists",
-     "explanation": "Space may be very, very big but not endless. It could curve round on itself, like the skin of a ball, which has no edge but is not endless."
+     "explanation": "Space may be very, very big but not endless. It could curve round on itself, like the skin of a ball. You can walk on a ball's skin for ever and never reach an edge, yet the skin still has a size."
     },
     {
      "who": "Archytas, a thinker in ancient Greece, about 2,400 years ago",
@@ -218,7 +218,7 @@
   {
    "q": "The stars look tiny. If you could fly to one, how big would it look?",
    "kind": "big",
-   "hint": "The Sun is a star. It is the nearest one to us."
+   "hint": "The Sun is a star, and it is the nearest one to us. It looks big and bright because it is near. Other stars look tiny because they are very far away."
   },
   {
    "q": "A crow sitting on a wire keeps a gap between her and the next crow. Why might birds need space around them?",
@@ -227,7 +227,7 @@
   }
  ],
  "how_we_found_out": {
-  "story": "A hundred years ago, many astronomers thought our Milky Way was the whole of space. The Milky Way is our home group of stars, called a galaxy. In the sky they could see faint, misty patches. Many thought these were small clouds inside the Milky Way. To find out, they needed to know how far away the patches were. Henrietta Swan Leavitt made that possible. She worked at Harvard College Observatory in the United States, studying photographs of stars, for very little pay. She studied stars that get brighter and dimmer, again and again, over days. In 1912 she showed that the slower such a star changes, the brighter it really is. If you know how bright a star really is, and see how bright it looks, you can work out how far away it is. In 1923, Edwin Hubble found one of these stars in the misty patch called Andromeda. Using Leavitt's rule, he showed that Andromeda is far outside the Milky Way. It is a whole galaxy of its own, and space is far bigger than people had thought.",
+  "story": "A hundred years ago, many astronomers thought our Milky Way was the whole of space. The Milky Way is our home group of stars, called a galaxy. In the sky they could see faint, misty patches. Many thought these were small clouds inside the Milky Way. To find out, they needed to know how far away the patches were. Henrietta Swan Leavitt made that possible. She worked at Harvard College Observatory in the United States, studying photographs of stars, for very little pay. She studied stars that get brighter and dimmer, again and again, over days. In 1912 she showed that the slower such a star changes, the brighter it really is. If you know how bright a star really is, and see how bright it looks, you can work out how far away it is. A star looks dimmer the farther away it is. In 1923, Edwin Hubble found one of these stars in the misty patch called Andromeda. Using Leavitt's rule, he showed that Andromeda is far outside the Milky Way. It is a whole galaxy of its own, and space is far bigger than people had thought.",
   "who": "Henrietta Swan Leavitt, an American astronomer at Harvard College Observatory. Edwin Hubble, an American astronomer at Mount Wilson Observatory.",
   "when": "Leavitt's rule in 1912. Hubble found the star in Andromeda in 1923 and announced his result in 1925.",
   "wrong_idea": "That the Milky Way was the whole of space, and the misty patches were small clouds inside it. Leavitt's way of measuring distance showed that Andromeda is a separate galaxy, very far away.",
@@ -291,6 +291,7 @@
    "mins": 25,
    "days": 1,
    "context": "In this experiment you measure how tall a bottle looks from 1 step, 2 steps and 4 steps away. You use a pencil held out at arm's length, the way artists measure. Then you compare the paper strips.",
+   "problem": "A bottle looks smaller when you stand farther from it, but you cannot measure that with a ruler. So you use a pencil. Hold the pencil out at arm's length and slide your thumb along it, until the part between the pencil tip and your thumb is as tall as the bottle looks. That length is how tall the bottle looks from where you stand. You do this from three places and compare.",
    "question": "When you stand twice as far from a bottle, how tall does the bottle look?",
    "predict": "When you stand twice as far away, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?",
    "fair_test": "We use the same bottle the whole time, and we never move it. The child holds the pencil the same way every time, with the arm straight and one eye closed, because a bent arm changes the measurement. Only the distance changes. We measure at each place twice, in case one try goes wrong.",
@@ -393,7 +394,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Ask the questions below. 2. Write your child's guess and reason at the top of the paper. 3. Do not say who is right.",
-     "say": "First you will look at the bottle from 2 steps away. Then you will look from 4 steps, which is twice as far. From 4 steps, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?",
+     "say": "Next you will look at the bottle from 1 step, then from 2 steps, then from 4 steps. Each place is twice as far as the one before. Guess first. When you stand twice as far away, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?",
      "kid": "From twice as far, how tall will the bottle look? Why?",
      "ask": [
       {
@@ -474,6 +475,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this experiment you hold a small mirror facing a big mirror. You see a tunnel of mirrors going away, each with a bindi on top. You count the bindis to find out whether the row goes on for ever.",
+   "problem": "When two mirrors face each other, each mirror shows the other mirror. You see a row of copies that gets smaller and smaller. You will count how many copies you can see. Then you will ask whether the row really goes on for ever.",
    "question": "In a tunnel of mirrors, how many copies can you count? Does the row go on for ever?",
    "predict": "How many bindis will you be able to count: 2, 10, 100, or never-ending? Why do you think so?",
    "fair_test": "Two people count, each three times, holding the mirror in the same place. We count three times because it is easy to lose your place in a long row.",
@@ -583,9 +585,9 @@
        "They all stayed the same"
       ],
       "a": 1,
-      "why": "The light from each copy bounces between the mirrors more times than the one before, so it has travelled farther. Far things look smaller. Each mirror also keeps a little of the light, so every copy is dimmer than the one before."
+      "why": "Each copy comes from light that bounced between the mirrors one more time than the copy before. So that light has travelled a longer way, and the copy looks farther away and smaller. A mirror also keeps a little light each time. So every copy is dimmer than the one before."
      },
-     "parent": "Each copy looks smaller because the light from it has travelled farther, just as the bottle looked smaller from farther away in the Bottle Strip Test. A strong answer says the row faded out, and that you could not tell whether it really ended.",
+     "parent": "Each copy looks smaller because it looks farther away, just as the bottle looked smaller from farther away in the Bottle Strip Test. A strong answer says the row faded out, and that you could not tell whether it really ended.",
      "context": "This is the last step of the mirror tunnel. You talk about what you found."
     }
    ]
@@ -899,8 +901,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Count the cards for each round. 2. Ask the question below.",
-     "say": "Which round was quickest? What helped you find the tumbler?",
-     "kid": "Which round was quickest? What helped?",
+     "say": "Which round used the fewest cards? What did 'Nearer' and 'Farther' tell you about the space between you and the tumbler?",
+     "kid": "Which round used the fewest cards? What did the cards tell you?",
      "check": {
       "t": "mcq",
       "q": "In the hiding game, the hider holds up 'Farther'. What should the seeker do?",
@@ -1023,7 +1025,7 @@
        "good": [
         "The Sun is much bigger, so it must be farther to look as small.",
         "The back of the card says so.",
-        "The Moon can pass in front of the Sun."
+        "The card backs: the Sun is about 150 million kilometres away and the Moon about 384,000."
        ]
       }
      ]
@@ -1031,9 +1033,10 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Count the cards in the right place. 2. Ask the question below.",
-     "say": "Which card surprised you most? Why?",
-     "kid": "Which card surprised you? Why?",
+     "do": "1. Count the cards in the right place. 2. Ask the question below. 3. Read the backs of the two cards together.",
+     "say": "Which is farther from us: the nearest star after the Sun, or the Andromeda galaxy? How do you know?",
+     "parent": "The Andromeda galaxy is farther. The card backs say its light takes about 2.5 million years to reach us. Light from the nearest other star takes just over 4 years. A longer time for the light means a longer distance.",
+     "kid": "Which is farther: the nearest star or the Andromeda galaxy? How do you know?",
      "check": {
       "t": "mcq",
       "q": "Which of these is farthest from you?",
@@ -1323,7 +1326,7 @@
        "says": "The gap is not empty. It is full of air."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
      "a": "A strong answer agrees with the second person, because a shut bottle pushes back when squeezed, so air fills space that looks empty. It also says the first person is right that there are no things you can see in the gap.",
      "why": "Both have part of it. There are no toys or furniture in the gap, so it looks empty. But it is full of air. The squeezed bottle in the space hunt is the evidence."
@@ -1373,7 +1376,7 @@
       "Exactly the same"
      ],
      "a": 0,
-     "why": "The light from each copy travelled farther than the one before, so it looked smaller. Each mirror also keeps a little light, so it looked dimmer.",
+     "why": "Each copy comes from light that has travelled farther than the light of the copy before, so it looked smaller. Each mirror also keeps a little light, so it looked dimmer.",
      "context": "This question is about the mirror tunnel. You held a small mirror facing a big mirror and counted the copies of a bindi.",
      "how": "e2"
     },
@@ -1439,7 +1442,7 @@
        "says": "Space can't end. If there were a wall at the end, there would be more space on the other side."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
      "a": "Any side, with a reason. A strong answer says that nobody knows yet, and uses something from the unit, such as the mirror tunnel or the stick question of Archytas.",
      "why": "This is a real open question. The first person is right that most things we know have an end. The second person uses the same idea Archytas used. Scientists still disagree, so a strong answer gives a reason, not only a side."
@@ -1788,7 +1791,7 @@
    "art": "A gopuram seen small over far roofs, and the same gopuram towering over a child at its gate."
   },
   {
-   "text": "Railway tracks at a station in Kolkata or Hyderabad seem to come together far away, though they stay the same distance apart.",
+   "text": "Railway tracks at a station in Kolkata or Hyderabad seem to come together far away, though they stay the same distance apart. That is because far things look smaller, and so does the gap between the rails.",
    "art": "Two railway tracks going straight into the distance, seeming to meet at one point."
   },
   {
@@ -1811,7 +1814,7 @@
   },
   {
    "q": "Is space a thing of its own, or only the gaps between things?",
-   "why_open": "Isaac Newton and Gottfried Leibniz argued about this over 300 years ago. Later, scientists found that space can bend and stretch, which you will learn about later. Thinkers still disagree about what space really is."
+   "why_open": "Isaac Newton and Gottfried Leibniz argued about this over 300 years ago. Later, scientists found that space can bend and stretch, so it may be more than an empty box. That idea is too big for this unit, but you will meet it later. Thinkers still disagree about what space really is."
   },
   {
    "q": "What is past the farthest galaxies we can see?",

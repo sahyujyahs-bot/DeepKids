@@ -107,7 +107,7 @@
    "status": "defined",
    "definition": "Before means earlier in time, and after means later. Putting events in order of before and after is called putting them in sequence.",
    "context": "This card is about putting things in order.",
-   "description": "Many things always happen in the same order. A seed sprouts before the plant grows. Milk comes before curd. The order tells us a story about what happened. Often the first thing makes the next thing happen. You cannot get curd without milk first.",
+   "description": "Many things always happen in the same order. A seed sprouts before the plant grows. Milk comes before curd. Knowing the order helps us understand what happened. Often the first thing makes the next thing happen. You cannot get curd without milk first.",
    "examples": [
     "Rice and urad dal are soaked, then ground into batter, then left overnight, then cooked into idli.",
     "A mango tree flowers before the mangoes grow.",
@@ -121,7 +121,7 @@
    "status": "defined",
    "definition": "A clock is anything that changes at a steady speed, with a way to count the change.",
    "context": "This card explains why your salt timer is a real clock.",
-   "description": "In the salt timer, salt runs out at a steady speed. So one spoonful always takes about the same time, and two take about twice as long. Every clock works the same way: something changes steadily, and we count it. Most wristwatches count the shaking of a tiny quartz crystal, 32,768 times every second. The best clocks, atomic clocks, count very fast, steady ticks inside atoms.",
+   "description": "In the salt timer, salt runs out at a steady speed. So one spoonful always takes about the same time, and two take about twice as long. Every clock works the same way: something changes steadily, and we count it. Most wristwatches have a tiny crystal of quartz inside. The crystal shakes 32,768 times every second, and the watch counts the shakes. The best clocks are atomic clocks. They count the ticks inside atoms, which are very fast and very steady.",
    "examples": [
     "A salt or sand timer counts the salt or sand running out.",
     "Long ago in India, a ghati was a small bowl with a hole that floated in water and sank in a set time.",
@@ -150,7 +150,7 @@
    "status": "defined",
    "definition": "A calendar is a way of counting days into weeks, months and years. Different calendars count from different starting days.",
    "context": "This card is about the calendars used in India.",
-   "description": "Many Indian wall calendars show more than one date for each day. One is the date used across the world, like 2 November. Another may be the Tamil, Malayalam or Bengali date. Many also show the Moon's phase and the Islamic date. The Islamic calendar follows the Moon, so its year is about 11 days shorter. That is why Ramzan comes about 11 days earlier each year.",
+   "description": "Many Indian wall calendars show more than one date for each day. One is the date used across the world, like 2 November. Another may be the Tamil, Malayalam or Bengali date. Many also show the Moon's phase and the Islamic date. The Islamic calendar follows the Moon, so its year is about 11 days shorter than the Sun's year. That is why Ramzan comes about 11 days earlier each year.",
    "examples": [
     "Onam falls in the Malayalam month of Chingam.",
     "Pohela Boishakh, the Bengali new year, and Puthandu, the Tamil new year, both come in the middle of April.",
@@ -209,7 +209,7 @@
    "evidence": "Sand timers, water clocks, pendulum clocks, quartz watches and atomic clocks all do this. The steadier the change, the better the clock."
   },
   {
-   "text": "Atomic clocks are the most exact clocks people have made. Since 1967, one second has been measured with them.",
+   "text": "Atomic clocks are the most exact clocks people have made. Since 1967, the length of one second has been set by an atomic clock.",
    "evidence": "Scientists everywhere agreed to define one second as 9,192,631,770 ticks inside a caesium atom. Good atomic clocks lose less than one second in millions of years."
   },
   {
@@ -232,7 +232,7 @@
    "for": "Days, months, seasons and festivals really do come round again and again.",
    "against": "Some changes never come back. A broken egg stays broken, and a person grows older, never younger.",
    "status": "debated",
-   "context": "This card is about time as a wheel."
+   "context": "Some teachings picture time as a wheel that turns and comes round again, like the days and the seasons. This card asks whether everything really comes round again."
   },
   {
    "claim": "Time is only in our minds.",
@@ -257,7 +257,7 @@
   {
    "q": "Why do we remember yesterday but not tomorrow?",
    "kind": "big",
-   "hint": "Think about which way changes go. Do you ever see batter turn back into rice?"
+   "hint": "Think about which way changes go. Batter becomes dosa, but a dosa never turns back into batter. In the same way, yesterday has left traces, such as memories, and tomorrow has not."
   },
   {
    "q": "Did time have a beginning?",
@@ -267,7 +267,7 @@
   {
    "q": "A minute of waiting feels long, and a minute of play feels short. Which one is the true minute?",
    "kind": "deep",
-   "hint": "The clock counts one steady change. Your feeling counts something else. What does it count?"
+   "hint": "The clock counts a steady change, such as hands going round. Your feeling depends on how interested you are and how much you notice. Which one would you call the true minute, and why?"
   }
  ],
  "story": {
@@ -426,7 +426,7 @@
      "kid": "Why can the full moon and the new moon both come first?",
      "ask": [
       {
-       "q": "Why both?",
+       "q": "Why can both the full moon and the new moon come first?",
        "good": [
         "They take turns.",
         "They come round again and again, like a wheel."
@@ -439,8 +439,9 @@
      "id": "s4",
      "mins": 2,
      "do": "Count the cards and find the winner.",
-     "say": "Which card was the hardest? Why?",
-     "kid": "Which card was the hardest for you?",
+     "say": "Pick one card that was hard. Did the first thing make the second thing, or did they take turns? How can you tell?",
+     "kid": "Pick a hard card. Did the first thing make the second, or did they take turns?",
+     "parent": "For milk and curd, the milk turns into the curd, so the milk comes first. For the full moon and the new moon, they take turns, so neither one is first for good.",
      "think": "Can you think of two things where the order can go either way?"
     }
    ]
@@ -570,7 +571,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Turn the cards over and check them together. Move any that are wrong.",
-     "say": "Let's check the backs. Did any surprise you?",
+     "say": "Let's check the backs together. Which cards were on the wrong mat? What clue on the back shows the right mat?",
      "kid": "Turn the cards over. Were any in the wrong place?",
      "check": {
       "t": "mcq",
@@ -601,6 +602,7 @@
    "mins": 20,
    "days": 1,
    "context": "In this experiment your child makes a timer from a paper cone and salt. They time one spoonful three times, then two spoonfuls twice. They find out whether the timer is steady enough to be a clock.",
+   "problem": "A clock is anything that changes at a steady speed, with a way to count the change. You will make a timer from a paper cone and salt, and the salt running out is the change you count. You will test whether one spoon of salt takes the same time every try, and whether two spoons take twice as long. If they do, your cone is a steady clock.",
    "question": "Does one spoon of salt take the same time to run out of a paper cone every time? Do two spoons take twice as long?",
    "predict": "Will one spoon of salt take the same time every try? Will two spoons take twice as long, or less, or more? Why do you think so?",
    "fair_test": "We use the same cone, the same salt and the same spoon every time. Each spoon is filled level, not heaped. We start and stop the stopwatch the same way every time. Only one thing changes: one spoon or two. We try each one more than once, because one try can be a lucky or unlucky one.",
@@ -801,6 +803,7 @@
    "mins": 20,
    "days": 1,
    "context": "In this experiment your child asks family members to lay four picture cards in order, from first to last. They record which way each person lays out time: left to right, right to left, or another way.",
+   "problem": "Everyone can put pictures in order, from first to last, but not everyone lays them down the same way. Some people start on the left and some start on the right. You will ask people in your family to put four banana pictures in order. Then you will see whether the way a person reads, such as Tamil or Urdu, changes the way they lay out time.",
    "question": "When people lay out pictures in order of time, which way do they go?",
    "predict": "Will everyone in the family lay the cards from left to right? Will anyone go another way? Why do you think so?",
    "fair_test": "Everyone gets the same four cards, mixed up the same way. We say the same words to everyone: 'Put these in order, from first to last.' We never say left or right. Each person does it alone, without watching the others.",
@@ -904,7 +907,7 @@
      "mins": 8,
      "do": "1. Give each person the mixed cards. 2. Say only: 'Put these in order, from first to last.' 3. Watch where they put the first card and the last card. 4. Ask which languages they read.",
      "say": "Please put these in order, from first to last.",
-     "kid": "Say to each person: 'Put these in order, from first to last.' Watch which way they lay the cards.",
+     "kid": "Ask each person to put the cards in order, from first to last. Watch which way they lay them.",
      "parent": "Never say left or right. On a video call, ask the person to hold their row up to the camera. Note that the picture on a phone camera may be flipped, so ask them to point to the first card."
     },
     {
@@ -929,9 +932,10 @@
      "id": "s5",
      "mins": 2,
      "do": "Tell your child what scientists have found.",
-     "say": "Scientists have found that people often lay out time the way they read. In one Aboriginal community in Australia, people lay out time from east to west.",
-     "kid": "People often lay out time the way they read.",
-     "think": "If you faced the other way, would your cards still go the same way?"
+     "say": "Scientists have found that people often lay out time the way they read. People who read from left to right usually lay it out from left to right. In one Aboriginal community in Australia, people lay out time from east to west, whichever way they are facing.",
+     "kid": "People often lay out time the way they read. In one place in Australia, they use east to west.",
+     "think": "If you faced the other way, would your cards still go the same way?",
+     "parent": "A person who lays out time the way they read turns the cards with their body. A person who lays out time from east to west keeps the cards pointing the same way on the compass, even after turning to face another way."
     }
    ]
   }
@@ -1260,7 +1264,7 @@
      "kid": "Which clock would you trust? Why?",
      "ask": [
       {
-       "q": "Which one?",
+       "q": "If the clocks disagree, which one would you trust, and why?",
        "good": [
         "The phone, because it sets itself.",
         "I would check them against each other."
@@ -1390,8 +1394,9 @@
      "id": "s5",
      "mins": 5,
      "do": "Ask what the chain measured.",
-     "say": "What did the chain count? Was it time, or was it mornings?",
+     "say": "What did the chain count? Think about what you tore off each morning.",
      "kid": "What did your chain count?",
+     "parent": "The chain counted days. Each loop stood for one day, which is one spin of the Earth. So the chain counted time in days, in the same way that the salt timer counted time in spoons of salt.",
      "think": "Could you make a chain for a whole year? How many loops would it need?"
     }
    ]
@@ -1712,7 +1717,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two girls, the first person and the second person, are talking about clocks.",
+     "p": "Two people, the first person and the second person, are talking about clocks.",
      "views": [
       {
        "who": "The first person",
@@ -1723,10 +1728,10 @@
        "says": "A salt timer is a real clock, because the salt runs out in the same time every time."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, for example: 'The second person, because my salt took 18 seconds every time.' Then it says what the first person has right: a wall clock is easier to read, and it can count a whole day.",
-     "why": "Both girls see something true. A clock needs a steady change, which the salt has. Numbers and hands make a clock easier to read, but they are not what makes it a clock."
+     "why": "Both people see something true. A clock needs a steady change, which the salt has. Numbers and hands make a clock easier to read, but they are not what makes it a clock."
     },
     {
      "t": "odd",
@@ -1742,7 +1747,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort each pair: which comes first, and which comes later?",
+     "p": "There are three pairs: a flower bud and an open flower, flour and a roti, and wet clothes and dry clothes. In each pair, which thing comes first, and which comes later?",
      "cats": [
       "Comes first",
       "Comes later"
@@ -1798,8 +1803,8 @@
    "items": [
     {
      "t": "label",
-     "p": "Here is one box from a Tamil wall calendar. Label the date used across the world, the Tamil date, and the Moon sign.",
-     "a": "The big number is the date used across the world. The small number with the Tamil month is the Tamil date. The little circle or crescent is the Moon sign.",
+     "p": "Here is one box from a Tamil wall calendar. Label the date used across the world, the Tamil date, and the picture of the Moon.",
+     "a": "The big number is the date used across the world. The small number with the Tamil month is the Tamil date. The little circle or crescent is the picture of the Moon, which shows its shape that day.",
      "why": "A strong answer finds all three, and knows they all name the same day.",
      "how": "a3",
      "art": "One calendar box with a big '2', a small Tamil date with the month Aippasi, and a small half-Moon drawing."
@@ -1836,7 +1841,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two girls, the first person and the second person, are arguing about time.",
+     "p": "Two people, the first person and the second person, are arguing about time.",
      "views": [
       {
        "who": "The first person",
@@ -1847,7 +1852,7 @@
        "says": "Time is a wheel. Monday comes back every week, and the rains come back every year."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, for example: 'The second person, because Pongal comes every year.' Then it says what the first person has right: I will never be 5 again.",
      "why": "Both views are old and both see something true. Days and seasons come round, but some changes never go back."
@@ -2072,7 +2077,7 @@
  "open_questions": [
   {
    "q": "Why does time only go forward?",
-   "why_open": "Many rules of physics work just as well backwards. Yet eggs break and never unbreak. Scientists have ideas about why, but no one is sure."
+   "why_open": "Many of the rules physicists use would work just as well if a film of the world were played backwards. Yet in real life, eggs break and never unbreak, and we remember yesterday but not tomorrow. Scientists have ideas about why, but no one is sure."
   }
  ],
  "ask_kids": [
@@ -2345,7 +2350,7 @@
   },
   "ask": [
    "Is there anything at home that changes so steadily that you could count it as a clock?",
-   "Is the time in the clock, in the salt, or in you?",
+   "The salt timer showed time only while the salt was running. Is time something out in the world, or only something we count?",
    "A crow and a bean plant keep time without a clock. How do you think they know?"
   ],
   "art": "A child sitting cross-legged with eyes closed beside a paper cone dropping salt, while through the window the Earth, Moon and Sun turn in the sky and a crow flies home."
