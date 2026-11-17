@@ -181,7 +181,7 @@
    "concept": "What decomposers do to organic waste, with air and without air",
    "status": "defined",
    "definition": "With plenty of air, decomposers turn organic waste into compost, carbon dioxide, water and heat. Without air, other microbes turn it into methane, carbon dioxide and strong-smelling gases.",
-   "description": "Decomposers who use air work fast, and their heap smells like damp earth. This is composting. About half the mass of the peels leaves as carbon dioxide and water vapour. The rest stays as dark compost. Deep inside a packed dump, the air is soon used up. A different set of microbes takes over there. They work slowly and give off methane. Methane burns, so it can start fires inside a dump. Methane also traps heat in the air. Over a hundred years, methane warms the Earth about 28 times as much as the same mass of carbon dioxide. A biogas plant uses the same microbes on purpose. It keeps wet waste in a closed tank, collects the methane and burns it as fuel. The slurry that is left goes to fields as manure.",
+   "description": "Decomposers who use air work fast, and their heap smells like damp earth. This is composting. A good part of the mass of the peels leaves as carbon dioxide and water vapour. The rest stays as dark compost. Deep inside a packed dump, the air is soon used up. A different set of microbes takes over there. They work slowly and give off methane. Methane burns, so it can start fires inside a dump. Methane also traps heat in the air. Over a hundred years, methane warms the Earth about 28 times as much as the same mass of carbon dioxide. A biogas plant uses the same microbes on purpose. It keeps wet waste in a closed tank, collects the methane and burns it as fuel. The slurry that is left goes to fields as manure.",
    "examples": [
     "A balcony compost pot with dry leaves mixed in has air, and makes compost in about two months.",
     "Food waste buried under tonnes of other waste has no air, and makes methane for many years.",
@@ -197,7 +197,7 @@
    "definition": "An open dump is waste tipped on bare land. A landfill is built to hold waste. It has a liner below, pipes for dirty water and gas, and a cover of soil.",
    "description": "Rain falls on a dump and soaks down through the waste. On the way it picks up rotting matter, salts, and metals from batteries and paints. The dark liquid that drains out is called leachate. Under an open dump, leachate seeps into the soil and can reach the groundwater that wells and borewells draw from. Inside the heap, buried food waste makes methane, and the heap can smoulder for weeks. A heap that grows too tall and steep can also slide. A well-built landfill is designed to stop each of these. A layer of pressed clay and a thick plastic sheet line the bottom. Pipes carry the leachate to a treatment tank. Other pipes collect the methane. Each day's waste is covered with soil. Even so, a landfill only stores the waste. Someone must look after it for many years after it is full.",
    "examples": [
-    "At Ghazipur in Delhi, the dump had grown to about 65 metres high by 2019. In 2017 a part of it slid down and killed two people.",
+    "At Ghazipur in Delhi, the dump grew into a hill some 50 to 65 metres high, and reports differ. In 2017 a part of it slid down and killed two people.",
     "In 2016 the Deonar dump in Mumbai burned for days, and the smoke could be seen in pictures from space.",
     "In A Dump That Does Not Leak, you build a small lined dump and test whether it leaks."
    ],
@@ -238,7 +238,7 @@
    "concept": "Recycling, downcycling and what is never recycled",
    "status": "defined",
    "definition": "Recycling makes new things from the material of old ones. How many times a material can be recycled depends on the material.",
-   "description": "Glass and metals can be melted and remade again and again. The new thing is as good as the old. Making a can from old aluminium takes about one twentieth of the energy of making it from ore. Paper is different. Each time it is pulped, its fibres get shorter, so paper can be recycled about five to seven times. Plastic is usually downcycled. A clear bottle becomes fibre for cloth or filling, and that product is not recycled again. Multi-layer packets are the hardest. Their layers of plastic, metal and paper are stuck together and cannot be pulled apart cheaply. Scientists counted all the plastic made up to 2015. Only about 9 kilograms in every 100 had been recycled. About 12 had been burnt. About 79 were in dumps and landfills, or loose in the environment.",
+   "description": "Glass and metals can be melted and remade again and again. The new thing is as good as the old. Making a can from old aluminium takes about one twentieth of the energy of making it from ore. Paper is different. Each time it is pulped, its fibres get shorter, so paper can be recycled only a few times, often about four to seven. Plastic is usually downcycled. A clear bottle becomes fibre for cloth or filling, and that product is not recycled again. Multi-layer packets are the hardest. Their layers of plastic, metal and paper are stuck together and cannot be pulled apart cheaply. Scientists counted all the plastic made up to 2015. Only about 9 kilograms in every 100 had been recycled. About 12 had been burnt. About 79 were in dumps and landfills, or loose in the environment.",
    "examples": [
     "An aluminium can sold as scrap can be back in a shop as a new can within months.",
     "A newspaper becomes an egg tray or a cardboard box.",
@@ -254,7 +254,7 @@
    "definition": "Waste harms when it reaches a place where it blocks, poisons or is eaten. The harm depends on what the waste is made of and where it ends up.",
    "description": "On land, plastic sheets in the soil stop water soaking in and roots spreading. Cows, dogs and goats who feed at open bins swallow plastic bags with the food inside them. The bags stay in a cow's stomach, and she can starve with a full belly. In water, plastic bags block drains, and streets flood. Organic waste harms water too. When food waste is tipped into a pond, microbes multiply to eat it. They use up the oxygen dissolved in the water, and fish die. Leachate from dumps carries salts and metals into wells. In the air, burning waste adds smoke and poisons, and dumps add methane. In the sea, sunlight and waves crack plastic into microplastics. Fish, birds and turtles swallow them. Microplastics have now been found in salt, in drinking water and in human blood.",
    "examples": [
-    "In July 2005, very heavy rain flooded Mumbai. Drains choked with plastic bags made it worse, and the state then banned thin bags.",
+    "In July 2005, very heavy rain flooded Mumbai. Drains choked with plastic bags made it worse, and the state then banned the thinnest bags.",
     "Vets in India have removed many kilograms of plastic bags from the stomachs of street cows.",
     "People who live beside dumps breathe the smoke and often drink the water from nearby wells."
    ],
@@ -293,7 +293,7 @@
    "concept": "How two Indian cities changed",
    "status": "defined",
    "definition": "A city handles its waste well when three things happen. Homes segregate the waste. Wet waste is composted or made into gas nearby. Dry waste is sorted and sold.",
-   "description": "Indore in Madhya Pradesh once had bins overflowing on its streets. From 2016 the city removed the street bins and sent a truck to every door each day. The truck has separate boxes, so wet and dry waste never mix. Wet waste goes to compost plants and to a large biogas plant. Dry waste goes to sorting centres. Indore was ranked India's cleanest city for seven years in a row from 2017. Alappuzha in Kerala took another path. In 2012 the people of the village beside its dump blocked the trucks, because the dump was spoiling their water. The town then asked each home and each street to compost its own wet waste. People used pipes, pots and shared bins. Both cities began with the same step, which was keeping wet and dry waste apart at home.",
+   "description": "Indore in Madhya Pradesh once had bins overflowing on its streets. From 2016 the city removed the street bins and sent a truck to every door each day. The truck has separate boxes, so wet and dry waste never mix. Wet waste goes to compost plants and to a large biogas plant. Dry waste goes to sorting centres. Indore was ranked India's cleanest city in the national survey every year from 2017, for at least seven years in a row. Alappuzha in Kerala took another path. In 2012 the people of the village beside its dump blocked the trucks, because the dump was spoiling their water. The town then asked each home and each street to compost its own wet waste. People used pipes, pots and shared bins. Both cities began with the same step, which was keeping wet and dry waste apart at home.",
    "examples": [
     "Indore: one truck to every door, with separate boxes for each kind of waste.",
     "Alappuzha: compost bins in homes and at street corners, and a small biogas plant where there is room.",
@@ -306,7 +306,7 @@
    "concept": "The people who sort our waste",
    "status": "defined",
    "definition": "Waste pickers and sorters collect what others throw out, sort it by material and sell it to recyclers. Most of India's recycling begins with their hands.",
-   "description": "Between about one and a half and four million people in India earn their living from waste. Many of them are women. They walk the streets and the dumps and pick out paper, metal, glass and plastic. Skilled sorters can tell one plastic from another by its sound when squeezed, its feel and the way it bends. This work saves cities a great deal of money and landfill space. But the work is risky. Mixed waste hides broken glass, blades, needles and rotting food. In Pune, waste pickers own a cooperative called SWaCH, which has worked with the city since 2008. Its members collect segregated waste from homes for a fee, with gloves, carts and identity cards. When a home keeps its waste clean and separate, the person who sorts it is safer and earns more.",
+   "description": "Estimates say that somewhere between one and a half and four million people in India earn their living from waste. Many of them are women. They walk the streets and the dumps and pick out paper, metal, glass and plastic. Skilled sorters can tell one plastic from another by its sound when squeezed, its feel and the way it bends. This work saves cities a great deal of money and landfill space. But the work is risky. Mixed waste hides broken glass, blades, needles and rotting food. In Pune, waste pickers own a cooperative called SWaCH, which has worked with the city since 2008. Its members collect segregated waste from homes for a fee, with gloves, carts and identity cards. When a home keeps its waste clean and separate, the person who sorts it is safer and earns more.",
    "examples": [
     "A milk packet that is rinsed and dried can be sold. A packet full of sour milk is thrown on the dump.",
     "Broken glass wrapped in newspaper and marked 'glass' does not cut anyone's hand.",
@@ -348,7 +348,7 @@
    "description": "The Earth has had almost the same atoms for more than four billion years. Living beings pass them round. A leaf falls, decomposers eat it, and its atoms go into soil, air and new plants. In a forest there is no waste heap, because every leftover is food for someone. Human waste breaks this pattern in two ways. First, we gather huge amounts in one place, faster than decomposers can work. Second, we make materials such as plastic that decomposers have never met. So the question about any waste is where its atoms will go next, and how long that will take. This is true beyond the Earth too. Tens of thousands of pieces of old rockets and dead satellites now circle the Earth. Nobody planned where they would go.",
    "examples": [
     "The carbon in a banana peel can be in the air next month, and in a spinach leaf next year.",
-    "A glass bottle thrown in a lake is still glass a thousand years later.",
+    "A glass bottle thrown in a lake is still glass for a very, very long time.",
     "A plastic bag does not rot. It cracks into smaller and smaller pieces of the same plastic."
    ],
    "perspectives": [],
@@ -366,11 +366,11 @@
   },
   {
    "text": "Plastic does not rot away in any time people have measured. It cracks into smaller pieces.",
-   "evidence": "Pieces of plastic from the 1960s and 1970s are still pulled out of the sea with their printing readable. Microplastics are found from mountain snow to the deep sea."
+   "evidence": "Plastic things many decades old are still pulled out of the sea with their printing readable. Microplastics are found from mountain snow to the deep sea."
   },
   {
    "text": "Burning waste in the open sends smoke and poisonous gases into the air.",
-   "evidence": "Air near open fires and burning dumps has been measured. It holds far more fine specks and dioxins than other air in the same city."
+   "evidence": "Smoke from open fires and burning dumps holds fine specks and gases such as dioxins, which people nearby breathe in."
   },
   {
    "text": "Waste that is kept apart at home is much easier to compost and to recycle.",
@@ -1746,10 +1746,10 @@
      ],
      [
       "Glass bottle",
-      "nobody knows, perhaps a million years"
+      "nobody knows, a very long time"
      ]
     ],
-    "note": "These are rough estimates used by sea scientists. They change with the place. Nobody has watched a plastic bottle for 450 years, so that number is worked out from short tests."
+    "note": "The times for tin, aluminium and the plastic bottle come from a sea-debris chart by the US National Park Service, Mote Marine Laboratory and NOAA. That chart gives no time for glass. The peel, newspaper and cloth times are rough guesses. All of them change with the place. Nobody has watched a plastic bottle for 450 years, so that number is worked out from short tests."
    },
    "setup": [
     {
@@ -2122,7 +2122,7 @@
        ]
       }
      ],
-     "parent": "In most Indian homes wet waste is about half the mass or more. Studies of Indian cities find roughly 300 to 600 grams of waste for each person in a day. Your number may be lower or higher.",
+     "parent": "In many Indian homes wet waste is about half the mass or more. Studies of Indian cities find a few hundred grams of waste for each person in a day. Your number may be lower or higher.",
      "context": "This step of The Seven-Day Waste Count works out the results. You total each kind of waste, find the amount for each person in a day and draw a bar chart."
     },
     {
@@ -3220,22 +3220,20 @@
    "check": "This address is the one already used in the Level 3 compost unit. Not yet watched by a person for this unit: watch it first. It is made for adults, so choose the parts on liners and leachate."
   },
   {
-   "title": "How a plastic recycling plant sorts bottle flakes from cap flakes in a tank of water",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Sink Float Separation Tank: Separating Caps And Labels From PET Bottle Flakes",
+   "channel": "Shuliy Global Recycling & Eco-Machinery",
+   "youtube": "iIojZRpFl80",
    "mins": 5,
    "why": "To see a factory do the Float Tank Test. Bottle flakes sink, and cap flakes are skimmed off the top.",
-   "check": "No address yet. Find a short film of a PET bottle recycling plant from a recycler, a science channel or a news channel. Check that it shows the float and sink tank clearly, and watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Lois Gibbs and the story of Love Canal",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The Legacy of Love Canal: an Intimate Conversation with Lois Gibbs",
+   "channel": "#UBuffalo | Arts and Sciences",
+   "youtube": "Dviklp2L-1k",
    "mins": 8,
    "why": "To hear the person who mapped her neighbours' illnesses tell how buried chemical waste came back up.",
-   "check": "No address yet. Find a short documentary or an interview with Lois Gibbs from a museum, a public broadcaster or a university. Check that the dates match this unit's card, and watch it first, because some films show upsetting scenes."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3778,15 +3776,15 @@
    "Solid Waste Management Rules 2016 and Plastic Waste Management Rules 2016 with later amendments, Government of India, and the ban on listed single-use plastic items from 1 July 2022",
    "Central Pollution Control Board, annual reports on solid waste management, for the make-up of Indian city waste",
    "Lois Gibbs, 'Love Canal: My Story', 1982, and the United States Environmental Protection Agency's history of Love Canal",
-   "Mote Marine Laboratory, 'Marine debris biodegradation time line', the source of the rough lasting times in Use Time, Lasting Time",
+   "US National Park Service, Mote Marine Laboratory and NOAA Marine Debris Program, sea-debris decomposition chart, the source of the lasting times for tin, aluminium and plastic bottle in Use Time, Lasting Time (the other times are rough guesses)",
    "Swachh Survekshan results, Ministry of Housing and Urban Affairs, for Indore's ranking from 2017"
   ]
  },
  "how_we_found_out": {
   "context": "How did people learn that buried waste does not stay where it is put? This card tells the true story, and the idea that turned out wrong.",
-  "story": "In the 1940s, a chemical company in Niagara Falls, in the United States, needed somewhere to put its waste. It tipped about 20,000 tonnes of chemicals into an old, unfinished canal called Love Canal. In 1953 it covered the canal with clay and soil. People believed that waste buried under clay would stay where it was put. The land was sold for one dollar, and a school and houses were built on it. In the 1970s, after years of heavy rain and snow, the buried chemicals rose. Dark, oily liquid seeped into basements and gardens. Lois Gibbs lived there, and her young son kept falling ill. In 1978 she went from door to door and asked each family about their health. Beverly Paigen, a scientist, helped her mark the answers on a map. The illnesses lay along old stream beds that ran out from the canal, where water had carried the chemicals. Officials first dismissed the survey. Later the government moved more than 800 families away. In 1980 the United States passed a law that makes companies pay to clean up old dumps.",
+  "story": "In the 1940s, a chemical company in Niagara Falls, in the United States, needed somewhere to put its waste. It tipped more than 20,000 tons of chemicals into an old, unfinished canal called Love Canal. In 1953 it covered the canal with clay and soil. People believed that waste buried under clay would stay where it was put. The land was sold for one dollar, and a school and houses were built on it. In the 1970s, after years of heavy rain and snow, the buried chemicals rose. Dark, oily liquid seeped into basements and gardens. Lois Gibbs lived there, and her young son kept falling ill. In 1978 she went from door to door and asked each family about their health. Beverly Paigen, a scientist, helped her mark the answers on a map. The illnesses lay along old stream beds that ran out from the canal, where water had carried the chemicals. Officials first dismissed the survey. Later the government moved more than 900 families away. In 1980 the United States passed a law that makes companies pay to clean up old dumps.",
   "who": "Lois Gibbs, a mother with no training in science, and Beverly Paigen, a cancer scientist who helped her",
-  "when": "The waste was buried between 1942 and 1953. The door-to-door survey was made in 1978, and the clean-up law was passed in 1980.",
+  "when": "The waste was buried from 1942 to the early 1950s. The door-to-door survey was made in 1978, and the clean-up law was passed in 1980.",
   "wrong_idea": "That waste buried under a cover of clay stays where it is put. Rain and groundwater moved the chemicals out along old stream beds. A map of who fell ill showed where they had gone.",
   "art": "A woman with a clipboard at the front door of a small wooden house, talking to a neighbour, with a fenced-off field and a boarded-up school behind them."
  },
@@ -3805,7 +3803,7 @@
   "thread": "The Earth has one stock of atoms, and everything is made from it. The same carbon atoms have been air, leaf, peel, soil and child, many times over. Plastic is made of that carbon too, taken from sea beings who died millions of years ago. So a banana peel and a milk packet are the same stock of atoms in two arrangements. Decomposers know how to undo one arrangement, and nobody alive has yet learned to undo the other.",
   "teachings": [
    {
-    "source": "Thich Nhat Hanh, 'The Heart of Understanding' (1988), the chapter 'Roses and Garbage'",
+    "source": "Thich Nhat Hanh, in his teaching on roses and garbage, found in several of his books",
     "teaching": "Look deeply at a rose and you see the garbage that the rose will become in a few days. Look deeply at garbage and you see a rose that it can become. A good gardener is not afraid of garbage, because she knows how to turn it into compost.",
     "link": "This is what a compost pot does. In about two months, decomposers turn peels into food for a plant. The teaching fits organic waste well. It does not fit a chips packet, which no gardener can turn into a rose."
    },
@@ -3851,5 +3849,5 @@
   ],
   "art": "A child holding an empty milk packet in both hands above a blue bag, eyes closed, with faint lines leading from the packet to a factory, a sorting table and a far-off dump."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments, activities and games were reasoned through but have not been tried at home. The Float Tank Test (core) depends on two known facts: drink-bottle plastic is denser than water, and cap, milk-packet and takeaway-box plastics are less dense. Small flat pieces can rest on the surface or be held up by a bubble. So the steps add two drops of dish-washing liquid and push every piece under. The salt-water step shows something new only if a home has a solid thing marked 6. The step says so. Scrunch and Peel (core) needs an empty shelf carton. Its wall peels more easily after a soak. The silver layer may spring open a little, because plastic is stuck to it. The faint glow through a chips packet shows best in a dim room, on a part with little printing. The Crush Test needs four or five days of saved, rinsed dry waste. No step handles rotting waste. The Seven-Day Waste Count weighs closed bags and bins, with gloves and hand washing. Hazardous and sanitary waste is counted and never touched. A Dump That Does Not Leak uses fresh tea leaves as the 'waste'. The Last Landfill was played 4,000 times on a computer. With a good buying order the city wins nearly every game, with about 20 boxes ticked. With a poor order it wins fewer than half. Facts to treat with care: the lasting times in Use Time, Lasting Time are rough estimates for things in the sea. The scrap prices are examples only. The range of 300 to 600 grams of waste for each person in a day comes from differing studies. The count of one and a half to four million waste pickers is an estimate. The video on landfills was not watched again for this unit, and two videos still need to be found."
+ "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments, activities and games were reasoned through but have not been tried at home. The Float Tank Test (core) depends on two known facts: drink-bottle plastic is denser than water, and cap, milk-packet and takeaway-box plastics are less dense. Small flat pieces can rest on the surface or be held up by a bubble. So the steps add two drops of dish-washing liquid and push every piece under. The salt-water step shows something new only if a home has a solid thing marked 6. The step says so. Scrunch and Peel (core) needs an empty shelf carton. Its wall peels more easily after a soak. The silver layer may spring open a little, because plastic is stuck to it. The faint glow through a chips packet shows best in a dim room, on a part with little printing. The Crush Test needs four or five days of saved, rinsed dry waste. No step handles rotting waste. The Seven-Day Waste Count weighs closed bags and bins, with gloves and hand washing. Hazardous and sanitary waste is counted and never touched. A Dump That Does Not Leak uses fresh tea leaves as the 'waste'. The Last Landfill was played 4,000 times on a computer. With a good buying order the city wins nearly every game, with about 20 boxes ticked. With a poor order it wins fewer than half. Facts checked on 17 Nov 2026 against sources: the plastic figures (Geyer and others 2017), methane at 28 times (IPCC 2013), the British bag study, Love Canal dates, tonnage, families and law, the Deonar fire, the Ghazipur slide, Indore's cleanest-city ranking and bio-gas plant, Alappuzha in 2012, SWaCH since 2008, and the tin, aluminium and bottle lasting times. Softened: the Ghazipur height, the paper recycling count, the share of peel mass lost in composting, waste per person, the waste picker count, the glass lasting time, and the lasting times of peel, newspaper and cloth, which are rough guesses. The Last Landfill was simulated 4,000 times with a good and a poor buying order on 17 Nov 2026 and agrees with the notes. Scrap prices are examples only. The CPCB rules link did not load on 17 Nov 2026 (server error) and should be checked again. The video on landfills was not watched again for this unit, and two videos still need to be found."
 }
