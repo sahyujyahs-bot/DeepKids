@@ -1,9 +1,9 @@
 # Skeletons and muscles: what bones do, and how muscles move them
 `sci.body.skeleton.L4`
 
-**Summary.** The muscle that bends your elbow is joined to your forearm only about 4 centimetres from the elbow. A string tied that close to a hinge has to be pulled very hard. So when you lift a 1 kilogram bag of rice, that muscle pulls with about 8 kilograms of force. Your child tests this with a ruler, a rubber band and five coins. They also name the main bones and find out what bone is made of. Then they compare our inside skeleton with the outside skeleton of a crab or an ant.
+**Summary.** The muscle that bends your elbow is joined to your forearm only about 4 centimetres from the elbow. When a string is tied that close to a hinge, it has to be pulled very hard to hold up a weight far away. So when you lift a 1 kilogram bag of rice, that muscle pulls with about 8 kilograms of force. Your child tests this with a ruler, a rubber band and five coins. They also name the main bones and find out what bone is made of. Then they compare our inside skeleton with the outside skeleton of a crab or an ant.
 
-**Intro.** *Bend your elbow and hold a 1 kilogram bag of rice in your hand. How hard is the muscle in your upper arm pulling: with 1 kilogram of force, with less, or with more?* Most people guess 1 kilogram. The real answer is about 8 kilograms. The reason is the place where the muscle is joined to the bone. In this unit you build a ruler arm and measure what changes when the muscle is tied in different places. You name twelve bones on a real body. You freeze two slabs of ice to find out why a bone does not shatter like chalk. You also meet animals who wear their skeleton on the outside, and animals who have no hard skeleton at all.
+**Intro.** *Bend your elbow and hold a 1 kilogram bag of rice in your hand. How hard is the muscle in your upper arm pulling: with 1 kilogram of force, with less, or with more?* Most people guess 1 kilogram. The real answer is about 8 kilograms. The reason is the place where the muscle is joined to the bone. In this unit you build a ruler arm and measure what changes when the muscle is tied in different places. You name twelve bones on a real body. You freeze one slab of plain ice and one slab of ice with torn paper inside, and drop them, to find out why a bone does not shatter like chalk. You also meet animals who wear their skeleton on the outside, and animals who have no hard skeleton at all.
 
 ## Learning outcomes
 0. I can find and name twelve main bones on a body, from the skull to the shin bone.
@@ -28,7 +28,7 @@
 - **Contract and relax**: A muscle contracts when it gets shorter and pulls. It relaxes when it stops pulling and can be stretched long again. *e.g.* When you bend your elbow, your biceps contracts and the muscle at the back of your arm relaxes.
 - **Tendon**: A strong cord that joins a muscle to a bone. *e.g.* Bend your elbow and press into the bend. The tight cord you feel is the tendon of your biceps.
 - **Joint**: A place where two bones meet. At most joints the bones can move. *e.g.* Your elbow is a joint between the upper arm bone and the two forearm bones.
-- **Lever**: A stiff bar that turns about one fixed point. A push or pull at one place on the bar moves a load at another place. *e.g.* Your forearm is a lever. It turns at the elbow, the muscle pulls near the elbow, and the load is in your hand.
+- **Lever**: A stiff bar that turns about one fixed point. A push or pull at one place on the bar moves a load at another place. *e.g.* Your forearm is a lever. It turns at the elbow. The muscle pulls close to the elbow, and the load is in your hand.
 - **Endoskeleton**: A skeleton inside the body, with the muscles and skin around it. *e.g.* Humans, crows, frogs, fish and lizards have an endoskeleton.
 - **Exoskeleton**: A hard skeleton on the outside of the body, with the muscles inside it. *e.g.* A cockroach, a crab and a spider each have an exoskeleton.
 - **Moult**: To shed an old exoskeleton and grow a bigger one. An animal with an exoskeleton must moult to grow. *e.g.* A young cockroach moults several times before she is fully grown.
@@ -79,8 +79,8 @@ A muscle fibre is thinner than a hair and can be several centimetres long. Under
 ### Bones are levers, and muscles pull close to the joint · *defined*
 **Definition:** A lever is a stiff bar that turns about one fixed point. A forearm is a lever that turns at the elbow. The muscle pulls close to the elbow, and the load is far away in the hand.
 
-A door is a lever that turns at its hinges. Push a door near the handle and it opens easily. Push it near the hinges and you must push much harder, though your hand moves only a little way. Your biceps is like the push near the hinges. Its tendon joins the forearm about 4 centimetres from the elbow in a grown-up. The middle of the hand is about 32 centimetres from the elbow. That is 8 times as far. So to hold a load in the hand, the muscle must pull about 8 times as hard as the load. This looks like a bad bargain, but the body gains two things. When the muscle shortens by 1 centimetre, the hand moves about 8 centimetres. The hand also moves 8 times as fast as the muscle shortens. Muscles are strong but can shorten only a little. The skeleton turns a short, strong pull into a long, quick movement. That is how you can throw a ball or swat a mosquito.
-- e.g. In the Ruler Arm experiment, the rubber band tied nearest the pressed end stretches most and is lifted the least.
+A door is a lever that turns at its hinges. Push a door near the handle and it opens easily. Push it near the hinges and you must push much harder, though your hand moves only a little way. Your biceps pulls on your forearm in the same way as a push near the hinges of a door. Its tendon joins the forearm about 4 centimetres from the elbow in a grown-up. The middle of the hand is about 32 centimetres from the elbow. That is 8 times as far. So to hold a load in the hand, the muscle must pull about 8 times as hard as the load. This looks like a bad bargain, but the body gains two things. When the muscle shortens by 1 centimetre, the hand moves about 8 centimetres. The hand also moves 8 times as fast as the muscle shortens. Muscles are strong but can shorten only a little. The skeleton turns a short, strong pull into a long, quick movement. That is how you can throw a ball or swat a mosquito.
+- e.g. In the Ruler Arm experiment, the rubber band tied nearest the pressed end stretches most. The loop it pulls on rises the least.
 - e.g. Your calf muscle pulls on the heel bone, close to the ankle, and lifts your whole body onto your toes.
 - e.g. A jaw closes hardest at the back teeth, which are nearest the jaw joint. That is why you crack a nut at the back of your mouth.
 ### Three kinds of skeleton: inside, outside and none that is hard · *defined*
@@ -117,9 +117,9 @@ Your arm has one bone above the elbow and two below it. Then come the small wris
 Fossils show that bone began on the outside of early fish, as armour plates. No animal had a bony backbone until much later. Scientists have offered several reasons, and each fits some of the evidence.
 - e.g. The oldest fossil fish with bone have a bony head shield and no bony backbone.
 - e.g. The flat bones on top of your skull form in a sheet of soft tissue, with no cartilage stage. The first armour formed that way too.
-- **The armour idea, put forward by the American fossil scientist Alfred Romer in 1933:** Large sea scorpions hunted in the same waters. Bony plates protected the early fish from them. Bone began as a shield.
-- **The mineral store idea:** Animals need calcium and phosphate every minute for their nerves and muscles. Plates of bone in the skin were a store. The body could draw on it when the water had too little. Bone began as a larder.
-- **The sense organ idea:** The first bony plates lay around organs that sense tiny electric signals in the water. Hard mineral may have shielded those organs and helped them work. Bone began as part of a sense.
+- **The armour idea, put forward by the American fossil scientist Alfred Romer in 1933:** Large sea scorpions hunted in the same waters. Bony plates protected the early fish from them. So on this idea, bone began as a shield.
+- **The mineral store idea:** Animals need calcium and phosphate every minute for their nerves and muscles. Plates of bone in the skin may have been a store of these minerals. The body could draw on the store when the water had too little. So on this idea, bone began as a place to keep minerals, a bit like a kitchen cupboard for food.
+- **The sense organ idea:** The first bony plates lay around organs that sense tiny electric signals in the water. Hard mineral may have shielded those organs and helped them work. So on this idea, bone began as a part of an animal's sense of the world around her.
 
 ## Mostly agreed
 - Bone is a living tissue that is taken apart and rebuilt all through life. *How we know:* Under a microscope, bone is full of living cells and blood vessels. Broken bones heal, and X-rays show bone getting thicker or thinner over months.
@@ -130,7 +130,7 @@ Fossils show that bone began on the outside of early fish, as armour plates. No 
 - The limbs of all four-limbed vertebrates are built from the same bones. *How we know:* The bones can be matched one by one in skeletons of humans, bats, whales, birds and frogs. They can also be matched in fossils of their ancestors.
 
 ## How we found out
-**Giovanni Alfonso Borelli, a teacher of mathematics in Italy, with Queen Christina of Sweden, who paid for his book, Borelli worked on the book for many years and died in 1679. It was printed in Rome in 1680 and 1681..** In the 1600s many scholars thought that the bones of the body worked like a crowbar. With a crowbar, a small push lifts a heavy stone. So they supposed that muscles lift heavy loads with small forces. Giovanni Alfonso Borelli, an Italian teacher of mathematics, doubted this. He looked at where muscles join the bones in humans and other animals. He found that almost every muscle joins its bone very close to a joint. That is the short side of the lever. Then he did the sums that are used for levers. They showed that the muscles which bend the elbow must pull many times harder than the weight in the hand. He did the same sums for the legs and the back. In his old age Borelli was poor and taught mathematics in a school in Rome. Queen Christina of Sweden, who lived in Rome, agreed to pay for printing his book. He died on the last day of 1679. The book, On the Movement of Animals, came out in 1680 and 1681. Some of his numbers were too large, but later measurements showed that his main idea was right.  
+**Giovanni Alfonso Borelli, a teacher of mathematics in Italy, with Queen Christina of Sweden, who paid for his book, Borelli worked on the book for many years and died in 1679. It was printed in Rome in 1680 and 1681..** In the 1600s many scholars thought that the bones of the body worked like a crowbar. With a crowbar, a small push lifts a heavy stone. So they supposed that muscles lift heavy loads with small forces. Giovanni Alfonso Borelli, an Italian teacher of mathematics, doubted this. He looked at where muscles join the bones in humans and other animals. He found that almost every muscle joins its bone very close to a joint. That means the muscle works on the short side of the lever, the side close to the turning point, while the weight is on the long side. Then he did the sums that are used for levers. They showed that the muscles which bend the elbow must pull many times harder than the weight in the hand. He did the same sums for the legs and the back. In his old age Borelli was poor and taught mathematics in a school in Rome. Queen Christina of Sweden, who lived in Rome, agreed to pay for printing his book. He died on the last day of 1679. The book, On the Movement of Animals, came out in 1680 and 1681. Some of his numbers were too large, but later measurements showed that his main idea was right.  
 *What people believed before:* That the body's levers help the muscles, so that a small muscle force lifts a big load. Borelli showed with the mathematics of levers that it is the other way round. Muscles join the bones close to the joints, so they must pull much harder than the load weighs.
 
 ## Challenging perspectives
@@ -157,20 +157,20 @@ Fossils show that bone began on the outside of early fish, as armour plates. No 
 In this unit you lifted a ruler arm with a rubber band. You also found your own tendon in the bend of your elbow. Here we ask what goes on inside you that you never feel, and where your bones come from.
 
 **Deep truth.** In the Ruler Arm experiment, the band tied nearest the pressed end stretched most, though the coins never changed. Your biceps joins your forearm close to the elbow, like that band. So to lift a 1 kilogram bag of rice, the muscle pulls with about 8 kilograms of force. The forces inside your body are much bigger than the weights you lift.  
-*Habit it breaks:* We feel a weight in the hand and suppose that our muscles pull just that hard. We judge the work of the body by what reaches the outside. The lever sums show that muscles, tendons and joints carry loads many times bigger than anything we hold.  
+*Habit it breaks:* We feel a weight in the hand and suppose that our muscles pull just that hard. We judge how hard the body works by what we can see and feel from outside. The lever sums show that muscles, tendons and joints carry loads many times bigger than anything we hold.  
 *Evidence:* In the Ruler Arm experiment the band was longest when tied 5 centimetres from the pressed end. That end also pushed up hard against the finger. Borelli worked out the same thing for real arms in 1680. Sensors inside artificial hip joints measure more than twice the body's weight at every step.
 
 - *who am i:* You are stronger inside than you feel. Each time you lift a tumbler, your muscles, tendons and bones carry several times its weight. You notice none of it.
 - *what is life:* Your bone cells sense each load and build bone where it is needed. A living body keeps rebuilding even its hardest parts to fit the way it lives.
 - *what is this world:* The calcium in your bones came from your food, and before that from soil and rock. Much limestone rock was made from the shells and skeletons of sea animals. Hard parts of living beings become rock, and rock becomes hard parts again.
 
-Your arm has the same bones as a bat's wing and a whale's flipper. All three came from one ancestor. The calcium in those bones came from rock, and all calcium was first made inside stars. So one body plan and one material appear in many different beings. Many sages taught that the many come from one source. The science of skeletons shows two plain cases of this: shared ancestors and shared atoms.
+Your arm has the same bones as a bat's wing and a whale's flipper. All three came from one ancestor. The calcium in those bones came from rock, and all calcium was first made inside stars. Many sages taught that all the different beings in the world come from one source. Skeletons show two plain examples of this. The first is shared ancestors, because arms, wings and flippers are built from the same bones. The second is shared atoms, because the same kind of calcium atoms are found in all of them.
 
 - **Chandogya Upanishad 6.5.3:** Uddalaka tells his son Shvetaketu that the body divides what we eat into three parts. He speaks of rich foods such as oil and ghee. Their coarsest part becomes bone, he says. The middle part becomes marrow, and the finest part becomes speech. (Uddalaka's list is not what science found. The mineral in bone comes from calcium in food, not from oil. But his main point is the same as this unit's: bone is not given once and for all. It is made from what we eat, day after day.)
-- **Milindapanha (The Questions of King Milinda), Book 2, the chariot:** The monk Nagasena asks King Milinda whether the axle is the chariot, or the wheels, or the pole. The king says no to each. 'Chariot' is a name for all the parts working together. ('Arm' is a name of the same kind. No bone, muscle or tendon lifts a tumbler alone. In the Ruler Arm experiment the ruler, the band and the pressing finger each had a part. The lifting needed all three.)
+- **Milindapanha (The Questions of King Milinda), Book 2, the chariot:** The monk Nagasena asks King Milinda whether the axle is the chariot, or the wheels, or the pole. The king says no to each. 'Chariot' is a name for all the parts working together. ('Arm' is a name of the same kind as 'chariot'. It is a name for several parts working together. No bone, muscle or tendon lifts a tumbler alone. In the Ruler Arm experiment the ruler, the band and the pressing finger each had a part. The lifting needed all three.)
 - Science (settled): Every calcium atom in your bones was made inside a star long ago, before the Earth formed. The atoms reached you through rock, soil, plants and food.
 - Science (open): Bone cells sense the tiny bending of a loaded bone and signal other cells to build or remove bone. Exactly how they sense it is still being worked out.
-- Other view, Giovanni Borelli, René Descartes and many scientists since: They describe a body as a machine of levers, ropes and hinges. On this view a bone cell that adds bone under load is following chemical rules. A pressure cooker's weight lifts in the same way when the steam is strong enough. Nothing more needs to be said about sensing or deciding.
+- Other view, Giovanni Borelli, René Descartes and many scientists since: They describe a body as a machine of levers, ropes and hinges. A pressure cooker's weight lifts when the steam gets strong enough, and nobody says the cooker decided to do it. In the same way, they say a bone cell that adds bone under load is only following chemical rules. On this view nothing more needs to be said about sensing or deciding.
 - Practice, Feel the hidden pull (3 min): Sit and rest one forearm on your lap, palm up. Press two fingers of the other hand into the bend of that elbow. Now lift the forearm slowly, as if your hand held a full tumbler. Feel the cord under your fingers go tight. Hold it there for three slow breaths. Lower the arm and feel the cord go soft. That pull is there every time you lift anything. What is it like to notice it?
 - Ask: In the Ruler Arm experiment the band pulled hardest where it moved least. Your muscles pull like that all day. Why do you think you never feel how hard they pull?
 - Ask: Your bone cells add bone where you load it. So who shapes your skeleton: you, your cells, or the way you live?
@@ -178,9 +178,9 @@ Your arm has the same bones as a bat's wing and a whale's flipper. All three cam
 
 ## Deep and big questions
 - *deep:* Your muscles pull much harder than the weights you lift, and you never feel it. What else does your body do without telling you? (hint: In the Ruler Arm experiment the band near the pressed end stretched most. Think about your heart, your gut and your bone cells.)
-- *deep:* About one tenth of a grown-up's bone is replaced each year. After many years, is it still the same skeleton? (hint: The shape stays, and the material changes. Which one is the skeleton?)
-- *deep:* A crab's skeleton protects her from outside. Your skeleton leaves your skin open to the world. Which body feels more of the world? (hint: Think about what your skin can feel, and about the hours when a crab is soft after a moult.)
-- *big:* A bat's wing and your arm have the same bones. What does that say about how you and the bat are related? (hint: Two families who own the same old cooking pot may share a great-grandmother.)
+- *deep:* About one tenth of a grown-up's bone is replaced each year. After many years, is it still the same skeleton? (hint: The shape of the skeleton stays the same, but the material it is made of changes. Which of these two is the skeleton?)
+- *deep:* A crab's hard coat protects her from outside. Your skeleton leaves your skin open to the world. Which of you feels more of what is around you, and why? (hint: Think about what your skin can feel, and about the hours when a crab is soft after a moult.)
+- *big:* A bat's wing and your arm have the same bones. What does that say about how you and the bat are related? (hint: Imagine two families who each own an old cooking pot of the same make. They probably got it from the same great-grandmother. In the same way, the same bones in two animals suggest the same ancestor.)
 - *big:* Astronauts lose bone when their bodies carry no weight. Does a body need the Earth's pull to stay whole? (hint: Bone cells build where bone is loaded. On Earth, your own weight loads your legs all day.)
 - *big:* A skeleton can last thousands of years after an animal dies. What can bones tell us about a life, and what can they not tell? (hint: Bones can show height, age, old injuries and hard work. Think about what leaves no mark on bone.)
 
@@ -209,7 +209,7 @@ Chithi was tightening the drum. Each time she struck it, her hand flew up from t
 
 Thangam bent her own arm slowly and watched it. Nothing was tied to her wrist. So what lifted it? She pressed two fingers into the bend of her elbow and bent the arm again. Something rose under her fingertips. It was a cord, hard and tight, as thick as a pencil. It came down from the muscle of her upper arm and went into her forearm two finger-widths below the bend. It did not go to her wrist at all.
 
-Paati had said the others. She had not said the other puppets.
+Paati had said that Mohini was not the first dancer with an arm. She had never said that the other dancers had to be puppets.
 
 Thangam took Mohini down. She untied the string from the wooden wrist and knotted it round the forearm instead, two finger-widths below the elbow pin. She slipped the loop on her finger and pulled, only a little, the length of her thumb.
 
@@ -248,7 +248,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first ten cards. After each card, read the back aloud. Ask the question below after card five.  
-  *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?  
+  *Parent says:* The reader reads the front of a card aloud. Everyone chooses a token and puts it face down. Then we turn the tokens over together. The reader reads the back. Who scored a point?  
   *Child mode:* Listen to the card. Pick a token. Turn it over. Check the back.
   - Ask: How did you decide where the animal's hard parts are? (good: I thought about what I would feel if I touched the animal.; A hard coat on the outside means an exoskeleton.; Soft skin with hard parts under it means the skeleton is inside.)
   - Note: A useful question for a stuck child is: if you pressed this animal gently, would you feel something hard at once, or soft skin first? One child can play alone or with you.
@@ -271,7 +271,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   *Child mode:* Cut out the cards. Shuffle them. Make space to move.
 - **s2 (6 min)**  
   *Parent does:* Play the first six cards by the rules. Move slowly each time, and hold the end of the movement for a count of three.  
-  *Parent says:* Point first. Now move slowly and hold. Put your other hand where you pointed. Did that place go hard, or was it somewhere else?  
+  *Parent says:* Point first to where you think the muscle is. Now do the movement slowly and hold it. Put your other hand where you pointed. Did that place go hard, or was it somewhere else?  
   *Child mode:* Point first. Move slowly. Feel which place goes hard.
   - Note: A muscle that is pulling feels hard and thick. A relaxed muscle feels soft. If your child cannot feel a change, push gently against the movement so the muscle has to work harder.
 - **s3 (5 min)**  
@@ -325,7 +325,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: What did you gain by tying the band close to the elbow end? (good: A short lift of the band moved the coins a long way.; The loop rose only about 2 centimetres, and the coins rose 12.)
   - Ask: What did it cost? (good: The band had to pull much harder.; The band stretched the most there.; The elbow end pushed up hard against my finger.)
-  - Note: In most homes the band is longest when tied at 5 centimetres and shortest at 25. The loop height is about 10, 6 and 2 centimetres. Write down what you really found. The reason: the ruler is a lever that turns at the pressed end. A pull close to that end has to be much bigger to hold up the same load. At 5 centimetres the pull is about five times as big as at 25. In return, the band moves only one fifth as far for the same rise of the coins.
+  - Note: In most homes the band is longest when tied at 5 centimetres and shortest at 25. The loop height is about 10, 6 and 2 centimetres. Write down what you really found. The reason is that the ruler is a lever that turns at the pressed end. A pull close to that end has to be much bigger to hold up the same load. At 5 centimetres the pull is about five times as big as at 25. In return, the band moves only one fifth as far for the same rise of the coins.
 - **s7 (4 min)**  
   *Parent does:* Your child bends one elbow and presses two fingers of the other hand into the bend. They bend and straighten the arm slowly and feel the cord there. Ask which tying place on the ruler is most like their own arm.  
   *Parent says:* Press two fingers into the bend of your elbow. Bend your arm slowly. Can you feel a tight cord? That is the tendon of your biceps. How far is it from the bend?  
@@ -367,7 +367,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: What do you see at a crack in the paper ice? (good: Paper fibres going across the crack.; The two sides are still held together.; It looks hairy, not smooth.)
   - Ask: Which part of a bone is like the ice, and which is like the paper? (good: The hard mineral is like the ice.; The collagen fibres are like the paper.)
-  - Note: In most homes the plain slab cracks or breaks from 20 to 40 centimetres. The paper slab usually stays in one piece from every height, though it may crack. Write down what you really found. The reason: ice is hard, but once a crack starts it runs straight through. In the paper ice, thousands of fibres lie across the path of any crack and hold the two sides together. Bone is built in a similar way. The mineral in bone is hard and would crack like ice. The collagen fibres stop cracks from running through.
+  - Note: In most homes the plain slab cracks or breaks from 20 to 40 centimetres. The paper slab usually stays in one piece from every height, though it may crack. Write down what you really found. The reason is that ice is hard, but once a crack starts it runs straight through. In the paper ice, thousands of fibres lie across the path of any crack and hold the two sides together. Bone is built in a similar way. The mineral in bone is hard and would crack like ice. The collagen fibres stop cracks from running through.
   - Think: Wet paper alone is floppy, and ice alone shatters. What does that tell you about a bone with too little mineral, or too little collagen?
 
 ## Activities
@@ -671,7 +671,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 - Doctors use the way bone mends itself. A plaster cast or a metal plate only holds the broken ends still, and the bone cells do the joining.
 - Surgeons replace worn hip and knee joints with metal and plastic ones. Sensors inside some of these joints showed how large the forces in the body are.
 - A digger arm on a building site is a lever like your forearm. The piston that moves it pushes close to the joint, so a short push swings the bucket a long way.
-- Bicycle frames, bamboo scaffolding and tent poles are hollow tubes, like long bones. A tube is stiff and light.
+- Bicycle frames, bamboo scaffolding and tent poles are hollow tubes, like long bones. A tube is nearly as stiff as a solid rod, but it is much lighter.
 - Builders put steel rods in concrete and glass fibres in plastic. The fibres or rods stop cracks from running through, as collagen does in bone.
 - Scientists who study old graves and crime scenes work out a person's height and age from the bones. Mildred Trotter's rules for height from the thigh bone are still used.
 - Engineers build suits with a powered frame on the outside for people who cannot walk. They call such a suit an exoskeleton, after the outside skeleton of an insect.

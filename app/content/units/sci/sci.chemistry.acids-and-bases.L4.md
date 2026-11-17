@@ -3,7 +3,7 @@
 
 **Summary.** After a heavy feast, some grown-ups feel a burning in the chest. They chew a chalky tablet, and the burning fades in minutes. The tablet is a base, and it is fighting an acid that the stomach makes on purpose. Your child races different powders against a glass of acid, counts how many scoops each one needs, and learns what the numbers on the pH scale really mean. They find out why every step on the scale is ten times bigger than the last, and why the stomach does not burn itself. They also meet the two doctors who proved that a bacterium can live in stomach acid.
 
-**Intro.** *After a big wedding feast, a grown-up chews a white tablet, and the burning in their chest goes away within minutes. The tablet never touched the burn. So what did it do?* A burning in the chest after a meal is called heartburn. It has nothing to do with the heart. Acid from the stomach has splashed up into the food pipe, and the food pipe has no shield against it. A tablet that stops the burning must change that acid. In this unit you make a glass of 'stomach acid' with vinegar and cabbage water. Then you race different powders to see which one beats it. You also learn to read the pH scale with real numbers, and you find out why the stomach does not burn itself.
+**Intro.** *After a big wedding feast, a grown-up chews a white tablet, and the burning in their chest goes away within minutes. The burning is in the chest, but the tablet goes down into the stomach. So how did it stop the burn?* A burning in the chest after a meal is called heartburn. It has nothing to do with the heart. Acid from the stomach has splashed up into the food pipe, and the food pipe has no shield against it. A tablet that stops the burning must change that acid. In this unit you make a glass of 'stomach acid' with vinegar and cabbage water. Then you race different powders to see which one beats it. You also learn to read the pH scale with real numbers, and you find out why the stomach does not burn itself.
 
 ## Learning outcomes
 0. I can read the pH scale from 0 to 14 and say whether a number means an acid, neutral or a base.
@@ -128,7 +128,7 @@ Tea plants grow best in acidic soil, at about pH 4.5 to 5.5, and the hills of th
 - Blood is held in a very narrow range, between pH 7.35 and 7.45, whatever a person eats. *How we know:* Blood tests from large numbers of healthy people show this range. Breathing, the kidneys and chemical buffers keep it steady.
 
 ## How we found out
-**Barry Marshall and Robin Warren, doctors in Perth, Australia, 1979 to 1984, and the Nobel Prize in 2005.** For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist (a doctor who studies samples from the body) in Perth, Australia, noticed curved bacteria in stomach samples. In about 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within days he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.  
+**Barry Marshall and Robin Warren, doctors in Perth, Australia, 1979 to 1984, and the Nobel Prize in 2005.** For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist (a doctor who studies samples from the body) in Perth, Australia, noticed curved bacteria in stomach samples. In about 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend. The bacteria grow slowly, and the extra days gave them just enough time to show up. Many doctors still did not believe them. So in 1984, Marshall drank a liquid that held the bacteria. Within days he felt ill, and a thin camera on a tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.  
 *What people believed before:* Doctors believed that stomach acid kills all bacteria, so ulcers had to come from stress, spicy food and too much acid. Marshall and Warren showed that a bacterium lives in the stomach and causes most ulcers, and that antibiotics cure them.
 
 ## Challenging perspectives
@@ -157,11 +157,11 @@ We have measured acids and bases with numbers and raced antacids against a glass
 
 - *who am i:* Your body is not the same all the way through. Your stomach is acidic and your blood is nearly neutral, and your body keeps both that way every moment.
 - *what is life:* Every living cell uses a difference in hydrogen ions like a battery. Life depends on keeping differences like this going, and not on everything being the same.
-- *what is this world:* Even pure water is a balance of two kinds of particles in equal numbers. Everything sour or soapy is that balance tipped one way or the other.
+- *what is this world:* Even pure water is a balance of two kinds of particles in equal numbers. Every sour or soapy liquid is that balance tipped one way or the other.
 
-Pure water is perfectly balanced. A very few water particles split into a hydrogen ion and a hydroxide ion, always in equal numbers, so the two cancel exactly. A liquid is an acid or a base when that balance tips. The stomach tips it one way, the blood holds it level, and the dye vat tips it the other way, all in the same water. So acid and base are not two separate things. They are two sides of one balance, and each place holds the balance where its job needs it.
+Pure water is perfectly balanced. A very few water particles split into a hydrogen ion and a hydroxide ion, always in equal numbers, so the two cancel exactly. A liquid is an acid or a base when that balance tips one way or the other. The stomach tips the balance towards acid. The blood keeps the balance almost level. The dye vat tips it towards base. So acid and base are not two separate things. They are two sides of one balance, and each place holds the balance where its job needs it.
 
-- **Chandogya Upanishad 6.5.1:** Uddalaka tells his son Shvetaketu that food we eat divides into three. The coarsest part leaves the body, the middle part becomes flesh, and the finest part becomes the mind. (Digestion begins in the acid of the stomach. The acid and the enzymes cut food into pieces small enough to build a body. Dal and rice become you.)
+- **Chandogya Upanishad 6.5.1:** Uddalaka tells his son Shvetaketu that food we eat divides into three. The coarsest part leaves the body, the middle part becomes flesh, and the finest part becomes the mind. (Digestion begins in the acid of the stomach. The acid and the enzymes cut food into pieces small enough to build a body. The dal and rice you eat are broken down and become part of you.)
 - **Aristotle, Nicomachean Ethics, Book II, chapter 6:** Aristotle taught that the right amount is a middle between too much and too little, and that the middle is different for different people. A trained wrestler needs more food than a beginner. (The right pH is also a middle that depends on the place. Pepsin needs pH 2, and blood needs pH 7.4. The same number would be wrong in the other place.)
 - **Tao Te Ching 42:** All things carry the dark and embrace the light, and by blending their breath they reach harmony. (Acid and base are opposites, and pure water holds them in equal balance. The body uses both to stay in harmony.)
 - Science (settled): Blood is held between pH 7.35 and 7.45 by the lungs, the kidneys and chemical buffers, even though the stomach beside it sits at pH 1 to 2.
@@ -204,7 +204,7 @@ Paati nodded and ladled out a cup of the dark water. Vimala dipped a strip for o
 
 Then she ran next door, where Selvi Akka's vat worked beautifully, and asked for a cup of her water. The strip matched 10.
 
-'Two steps apart,' said Vimala. 'Every step on the chart is ten times. So Selvi Akka's vat has a hundred times more of the base particles than yours.'
+'Two steps apart,' said Vimala. 'Every step on the chart means ten times as much. So Selvi Akka's vat has a hundred times more of the base particles than yours.'
 
 'A hundred times!' said Murali. 'Then I was right. Tip in the sack!'
 
@@ -268,10 +268,10 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
   *Child mode:* Play the last cards. Add up your points.
 - **s5 (2 min)**  
   *Parent does:* Ask your child to find the cards for the stomach and for the blood on the ladder. Ask how far apart they are.  
-  *Parent says:* Look at the stomach card and the blood card. How many rungs apart are they? Each rung is ten times.  
+  *Parent says:* Look at the stomach card and the blood card. How many rungs apart are they? Each rung means ten times as many hydrogen ions as the rung next to it.  
   *Child mode:* Find the stomach card and the blood card. How many rungs apart?
   - Note: The stomach, at 1 to 2, and the blood, at 7 to 8, are five or six rungs apart. That is 100,000 to 1,000,000 times as many hydrogen ions.
-  - Think: If each rung is ten times, how many times more hydrogen ions are in the stomach than in the blood?
+  - Think: If each rung means ten times as many hydrogen ions, how many times more hydrogen ions are in the stomach than in the blood?
 
 ## Experiments
 ### e1 · Antacid Showdown: which powder beats the acid with the fewest scoops? (42 min)
@@ -302,7 +302,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
   *Parent says:* Add one scoop, stir for 30 seconds, and look. Is it still pink? Add another. Keep counting until it matches the target. Write down the number of scoops.  
   *Child mode:* Add one scoop. Stir. Look at the colour. Add another. Count the scoops. Stop at purple.
   - Ask: What do you see on the top of glass A after the first scoop? (good: Bubbles.; Fizz.; The colour starts to change.)
-  - Note: Eggshell powder reacts slowly and may need all 8 scoops; stir every glass for the same 30 seconds, because giving one glass longer would not be fair. Antacid powder may stay cloudy, so judge the colour of the liquid. If a glass has not matched after 8 scoops, write 'more than 8'. Salt should do nothing at all. The colour changes gradually, not in a jump, because vinegar resists change. Match the target as closely as you can, and ask a second person to judge. Typical numbers: cooking soda 2 to 3 scoops, antacid 2 to 5, eggshell 4 to more than 8. Your numbers will differ, and that is a result, not a mistake.
+  - Note: Eggshell powder reacts slowly and may need all 8 scoops. Stir every glass for the same 30 seconds, because giving one glass longer would not be fair. Antacid powder may stay cloudy, so judge the colour of the liquid. If a glass has not matched after 8 scoops, write 'more than 8'. Salt should do nothing at all. The colour changes slowly, step by step, and not in one jump. Vinegar is a weak acid, so its pH moves only a little at a time as the base uses it up. Match the target as closely as you can, and ask a second person to judge. Typical numbers are 2 to 3 scoops for cooking soda, 2 to 5 for antacid, and 4 to more than 8 for eggshell. Your numbers will differ, and that is a result, not a mistake.
   - Check: Salt is added to glass D and the colour stays pink. What does this show? → **The colour change in the other glasses comes from the powder being a base, and not just from stirring in a powder**
 - **s5 (4 min)**  
   *Parent does:* Take the first glass that matched the target. Add two more scoops of the same powder. Look at the colour and write it in the last column.  
@@ -406,7 +406,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
   *Parent says:* Stomach acid is about pH 2. Blood is about pH 7.4. Where would they go in our table? How many steps apart are they?  
   *Child mode:* Where would stomach acid go in your table? And blood?
   - Note: Stomach acid is more acidic than lemon juice, and blood is just above plain water. They are about five steps apart, which is more than 100,000 times.
-  - Think: If each step is ten times, how many times more acidic is the stomach than the blood?
+  - Think: If each step means ten times as many hydrogen ions, how many times more acidic is the stomach than the blood?
 ### a3 · The Label Hunt: find the base (15 min)
 - **safety:** Only read the labels. Do not open cleaners or medicines. Never mix household cleaners. A grown-up handles cleaning products, because some mixtures make poisonous gas.
 - **record:** Before you read any label, guess which two products hold a base. Then write each ingredient you find in the column where it belongs, and circle the clue word that told you.
@@ -535,7 +535,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 13. (write) In a test of antacids, one glass gets salt, which is not a base. Explain why a test like this needs that glass.  
    **Answer:** The salt glass is the control. Salt is not a base, so it should do nothing. If the salt glass stayed pink, then the colour change in the other glasses came from the powders being bases and not from just stirring something in.. *Why:* A strong answer says that the control shows what happens when nothing special is added, so we can tell that the other powders did something.
 14. (write) A friend says a pH of 2 is only a little more acidic than a pH of 3. What would you tell your friend?  
-   **Answer:** Each step on the pH scale is ten times. A pH of 2 has ten times as many hydrogen ions as a pH of 3. It only looks like a small step because the scale hides the multiplying.. *Why:* A strong answer says that each step is ten times and gives the number. The Ten-Times Ladder shows how quickly ten times, again and again, becomes a huge number.
+   **Answer:** Each step on the pH scale means ten times as many hydrogen ions. A pH of 2 has ten times as many hydrogen ions as a pH of 3. It only looks like a small step because the scale hides the multiplying.. *Why:* A strong answer says that each step is ten times and gives the number. The Ten-Times Ladder shows how quickly ten times, again and again, becomes a huge number.
 15. (draw) Draw a slice of the stomach wall with its three defences: the acid in the middle, a coat of mucus and the wall with new cells.  
    **Answer:** A drawing with acid at the top, a thick layer of mucus in the middle with bubbles of bicarbonate, and a wall of cells at the bottom, some of them marked new.. *Why:* A strong drawing shows the mucus between the acid and the wall, and says that the mucus holds bicarbonate, a base.
 16. (order) Put these steps in the right order for how heartburn happens and fades.  
@@ -685,7 +685,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - At dinner, ask: which food on your plate do you think is the most acidic, and how could we test it?
 - When someone burps after a fizzy drink, ask: what do you think the gas is, and where did it come from?
 - When you brush your teeth, ask: why do you think toothpaste is not an acid?
-- Show a lemon and ask: lemon juice is about pH 2 and water is pH 7. If one pH step is ten times, how many times as many hydrogen ions does the lemon juice have?
+- Show a lemon and ask: lemon juice is about pH 2 and water is pH 7. Each pH step means ten times as many hydrogen ions. How many times as many does the lemon juice have?
 - Ask: why does your stomach not burn itself?
 - When someone says they have heartburn, ask: what is happening in their body, and how could a tablet help?
 - Ask: if a drink looks clear, can you tell if it is an acid or a base? How would you find out?

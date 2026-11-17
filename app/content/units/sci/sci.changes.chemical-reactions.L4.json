@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "A new iron tawa is grey and hard. Leave it wet for a week, and brown flakes cover it. Nobody painted it. So where did the brown flakes come from?",
-  "text": "The iron joined with oxygen, a gas in the air, and with water. Together they made a new substance called rust. Rust is brown and crumbly, and iron is neither. A change that makes a new substance is called a chemical reaction. In this unit you make vinegar and baking soda fizz. Then you test whether the baking soda is still there after the fizz. You also find out how much of the air a piece of rusting steel uses up.",
+  "text": "The iron joined with oxygen, a gas in the air, and with water. Together they made a new substance called rust. Rust is brown and crumbly, but iron is grey and hard. A change that makes a new substance is called a chemical reaction. In this unit you make vinegar and baking soda fizz. Then you test whether the baking soda is still there after the fizz. You also find out how much of the air a piece of rusting steel uses up.",
   "art": "A grey iron tawa on a kitchen counter with a patch of orange-brown rust where a few drops of water were left on it."
  },
  "outcomes": [
@@ -182,7 +182,7 @@
    "concept": "A reaction rearranges atoms. It does not make or destroy them",
    "status": "defined",
    "definition": "In a chemical reaction, the atoms of the reactants come apart and join up in new groups. Every atom that goes in comes out.",
-   "description": "Everything is made of atoms, and there are about 90 kinds in nature. Each kind is called an element. Iron, oxygen, hydrogen and gold are elements. In a reaction the atoms change partners. Two hydrogen molecules and one oxygen molecule have six atoms. They rearrange into two water molecules, which also have six atoms. You do this with coins and seeds in the Atom Swap activity. Because no atom is lost, the products weigh exactly as much as the reactants. A fizzing bowl gets lighter only because its gas floats away. If the gas is caught, nothing is lost. A reaction also cannot change one kind of atom into another. No reaction can turn iron atoms or lead atoms into gold atoms.",
+   "description": "Everything is made of atoms, and there are about 90 kinds in nature. Each kind is called an element. Iron, oxygen, hydrogen and gold are elements. In a reaction the atoms change partners. Take two hydrogen molecules, which have two atoms each, and one oxygen molecule, which has two atoms. Together that is six atoms. They rearrange into two water molecules, which also have six atoms between them. You do this with coins and seeds in the Atom Swap activity. Because no atom is lost, the products weigh exactly as much as the reactants. A fizzing bowl gets lighter only because its gas floats away. If the gas is caught, nothing is lost. A reaction also cannot change one kind of atom into another. No reaction can turn iron atoms or lead atoms into gold atoms.",
    "examples": [
     "Hydrogen + oxygen → water. Six atoms go in and the same six come out.",
     "A bowl of vinegar and baking soda weighs a little less after the fizz, because carbon dioxide has left.",
@@ -313,7 +313,7 @@
   {
    "q": "Baking soda fizzes away in vinegar. Every one of its atoms is still in the pan or the air. Is the baking soda still there?",
    "kind": "deep",
-   "hint": "Think about a word and its letters. If you rearrange the letters, is the word still there?"
+   "hint": "Think about the letters of a word. If you rearrange the same letters to spell a different word, is the first word still there?"
   },
   {
    "q": "Bubbles, colour and warmth can all mislead. How can anyone be sure that a new substance has formed?",
@@ -328,7 +328,7 @@
   {
    "q": "Iron is made from a rusty-looking rock called iron ore. When iron rusts, is something being spoiled or being returned?",
    "kind": "big",
-   "hint": "A person who owns the gate and the ground the ore came from might answer differently."
+   "hint": "The owner of the gate would say the gate is being spoiled. Someone thinking about the ground the ore came from might say the iron is going back to what it was."
   },
   {
    "q": "Chemists can make substances that never existed before, such as plastics. Who should decide which new substances are made?",
@@ -338,7 +338,7 @@
   {
    "q": "Your body is made from food, water and air that have reacted. Is there anything in you that was not in them?",
    "kind": "big",
-   "hint": "Rust is brown, and neither iron nor oxygen is brown."
+   "hint": "Think about rust. It is brown, but iron is grey and oxygen has no colour. So where did the brown come from? Is there something like that in you?"
   }
  ],
  "story": {
@@ -358,7 +358,7 @@
    "\"Wind,\" said Sheeba chechi.",
    "\"There is no wind in a well,\" said Ammamma. She pulled the bucket up, lit the lamp and lowered it again. At the same depth, the flame went out again.",
    "Sheeba chechi took her leg back over the wall. Nobody spoke.",
-   "Devika stared into the well. Nothing had touched the flame. Nothing was there. Then she remembered the evening before.",
+   "Devika stared into the well. Nothing had touched the flame, and she could see nothing in the air around it. Then she remembered the evening before.",
    "The power had gone off at dusk. Ammamma had been stirring a pinch of cooking soda into lime juice, because her stomach felt heavy after the journey. The tumbler frothed and hissed beside the lamp on the table. Devika had picked the tumbler up to look, and tipped it a little towards the flame. Not one drop spilled. But the flame bent, shrank and went out.",
    "\"What did I do?\" she had asked.",
    "\"You poured something on it,\" Ammamma had said, lighting the lamp again. \"When soda meets something sour, the two of them make a new gas. You cannot see it. It is heavier than air, so it sits in the tumbler the way water does. And a flame goes out in it.\"",
@@ -737,7 +737,7 @@
        ]
       }
      ],
-     "parent": "The reason: in water, baking soda only dissolves, so the same substance is left when the water goes. In vinegar, baking soda reacts with the acid. The products are carbon dioxide gas, water and a salt called sodium acetate. The gas left as bubbles, and the sodium acetate is the crust. The dried water crust may be partly changed by the heat into washing soda, which also fizzes.",
+     "parent": "The reason is that in water, baking soda only dissolves, so the same substance is left when the water goes. In vinegar, baking soda reacts with the acid. The products are carbon dioxide gas, water and a salt called sodium acetate. The gas left as bubbles, and the sodium acetate is the crust. The dried water crust may be partly changed by the heat into washing soda, which also fizzes.",
      "think": "The bubbles floated away. How could you find out what gas they were made of?",
      "context": "This is the last step of After the Fizz. You say what the drop test showed about the two white crusts."
     }
@@ -957,7 +957,7 @@
        ]
       }
      ],
-     "parent": "The reason: rusting is a reaction between iron, oxygen and water. The steel wool took oxygen out of the air in the glass, and the oxygen became part of the rust. Water moved up to fill the space. About one fifth of the air is oxygen. When the oxygen had gone, the rusting stopped, although iron was left. The rest of the air is mostly nitrogen, which does not react with iron.",
+     "parent": "The reason is that rusting is a reaction between iron, oxygen and water. The steel wool took oxygen out of the air in the glass, and the oxygen became part of the rust. Water moved up to fill the space. About one fifth of the air is oxygen. When the oxygen had gone, the rusting stopped, although iron was left. The rest of the air is mostly nitrogen, which does not react with iron.",
      "think": "What would happen if you lifted the glass for a moment, let fresh air in and set it down again?",
      "context": "This is the last step of Rust Uses Up Air. You say why the water climbed into the glass with steel wool and then stopped."
     }
@@ -1985,7 +1985,7 @@
       "The liquids have vanished"
      ],
      "a": 1,
-     "why": "Some reactions show no sign that eyes can see. To find out, you would test what the mixture does. Signs are clues, and their absence is not proof either.",
+     "why": "Some reactions show no sign that eyes can see. To find out, you would test what the mixture does. A sign is only a clue, and not seeing a sign does not prove that nothing happened either.",
      "outcome": 2
     },
     {
@@ -2830,7 +2830,7 @@
    "what_is_life": "A living body is thousands of reactions kept going at once. In your cells, oxygen reacts with food, much as oxygen reacts with iron. Your body does it in small, careful steps.",
    "what_is_this_world": "Nature has only about 90 kinds of atoms. The sea, a mango, a steel bridge and you are these same atoms, joined in different ways."
   },
-  "thread": "A few kinds of atoms make millions of different substances, because joining gives properties that were not seen before. Hydrogen and oxygen are both gases, and joined together they are water. Many sages taught that one source appears as the many things of the world. Chemistry shows a small part of that picture which anyone can test. Everything is conscious, down to the atoms. How the awareness of atoms joins into the awareness of a whole body is a question nobody has answered.",
+  "thread": "A few kinds of atoms make millions of different substances, because joining gives properties that were not seen before. Hydrogen and oxygen are both gases, and joined together they are water. Many sages taught that all the different things in the world come from one source. Chemistry shows one small part of this that anyone can test. The same few kinds of atoms make all the substances around us. Everything is conscious, down to the atoms. How the awareness of atoms joins into the awareness of a whole body is a question nobody has answered.",
   "teachings": [
    {
     "source": "Milindapanha (The Questions of King Milinda), Book 2, chapter 1: the chariot",

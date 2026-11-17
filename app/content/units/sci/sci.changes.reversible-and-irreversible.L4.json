@@ -262,7 +262,7 @@
     },
     {
      "who": "Many physicists",
-     "explanation": "A change can be undone in one place only by spending energy and making more disorder somewhere else. The whole world, taken together, never goes back to how it was. This is the second law of thermodynamics."
+     "explanation": "You can undo a change in one place, but only by spending energy. Spending that energy makes more disorder somewhere else. So the world as a whole never goes back to how it was. This is called the second law of thermodynamics."
     },
     {
      "who": "Cooks, potters and builders",
@@ -294,7 +294,7 @@
    "evidence": "When chemists carry out a change in a sealed container, the weight before and after is the same. Antoine Lavoisier showed this in the 1770s and 1780s."
   },
   {
-   "text": "Mixing does not undo itself, because mixed arrangements vastly outnumber sorted ones.",
+   "text": "Mixed things do not sort themselves out again, because there are far more mixed-up ways to arrange the pieces than sorted ways.",
    "evidence": "Ludwig Boltzmann worked this out in the 1870s by counting arrangements. Anyone can check a small case with slips of paper, as in the Slip Shuffle."
   }
  ],
@@ -356,7 +356,7 @@
   {
    "q": "In the Slip Shuffle, six slips sometimes came out sorted by chance. Could a drop of ink in water ever gather itself again?",
    "kind": "deep",
-   "hint": "The chance fell from 1 in 3 to 1 in 10 with only two more slips."
+   "hint": "Remember how fast the chance of a sorted row fell as slips were added. It went from 1 in 3 to 1 in 10 with only two more slips. A drop of ink has far more particles than that."
   },
   {
    "q": "Glass can be melted and made again without end. Is a glass bottle ever really used up?",
@@ -578,7 +578,7 @@
      "id": "s2",
      "mins": 7,
      "do": "Play the first twelve cards. After each card, read the back aloud. Ask the question below after card six.",
-     "say": "The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?",
+     "say": "The reader reads the front of a card aloud. Everyone chooses a token and puts it face down. Then we turn the tokens over together. The reader reads the back. Who scored a point?",
      "kid": "Listen to the card. Pick a pile token. Turn it over. Check the back.",
      "ask": [
       {
@@ -1020,7 +1020,7 @@
        ]
       }
      ],
-     "parent": "Plate A usually holds a white powder. In water it clouds and settles, as fresh flour does. Plate B holds a hard, clear or whitish flake. In water the flake stays a flake and slowly goes soft. The reason: flour is mostly starch, packed in tiny hard grains. In cold water the grains stay closed, and they sink. In hot water they take in water, swell and burst. Long starch molecules spill out and tangle, and the water turns thick. A burst grain cannot close again. So the cold stir was reversible, and the hot stir was not.",
+     "parent": "Plate A usually holds a white powder. In water it clouds and settles, as fresh flour does. Plate B holds a hard, clear or whitish flake. In water the flake stays a flake and slowly goes soft. The reason is that flour is mostly starch, packed in tiny hard grains. In cold water the grains stay closed, and they sink. In hot water they take in water, swell and burst. Long starch molecules spill out and tangle, and the water turns thick. A burst grain cannot close again. So the cold stir was reversible, and the hot stir was not.",
      "think": "Cotton saris are stiffened with cooked starch. Why would raw flour in cold water not work?",
      "context": "This is the last step of Cold Stir, Hot Stir. You test the two dried plates and say what your results show."
     }
@@ -1233,7 +1233,7 @@
        ]
       }
      ],
-     "parent": "In most homes the pale squares are soft again, and the brown ones are bendy. Every colour score is the same as yesterday. The reason: two changes happened on the tawa. Water left the bread, and damp air gave it back. That change is reversible. On the hot, dry surface, sugars and proteins also reacted and made new brown substances. That is the Maillard reaction, and it has no way back. Throw the squares away afterwards.",
+     "parent": "In most homes the pale squares are soft again, and the brown ones are bendy. Every colour score is the same as yesterday. The reason is that two changes happened on the tawa. Water left the bread, and damp air gave it back. That change is reversible. On the hot, dry surface, sugars and proteins also reacted and made new brown substances. That is the Maillard reaction, and it has no way back. Throw the squares away afterwards.",
      "think": "Boiled rice never turns brown, however long it boils. Why not?",
      "context": "This is the last step of The Toast Ladder. You score the squares after a night in damp air and say what your results show."
     }
@@ -1490,7 +1490,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Compare the two tallies. Tell your child the number for 5 dotted and 5 blank slips: 1 sorted row in 126 tries. Talk about the questions below.",
-     "say": "With four slips, about 1 row in 3 was sorted. With six slips, about 1 in 10. With ten slips it is 1 in 126. What happens as the pieces get more?",
+     "say": "With four slips, about 1 row in 3 was sorted. With six slips, about 1 in 10. With ten slips it is 1 in 126. What happens to the chance of a sorted row as there are more pieces?",
      "kid": "Compare your two tallies. What happens when there are more slips?",
      "ask": [
       {
@@ -2999,16 +2999,16 @@
    "evidence": "In The Toast Ladder, the pale 1-minute square went back on the tawa. It caught up with the brown 4-minute square. The 6-minute square stayed dark after cooling and after a night in damp air. In Cold Stir, Hot Stir, the heated flour could not be made thin again either."
   },
   "three": {
-   "who_am_i": "You are built by changes that do not go back. Every meal you have digested and every centimetre you have grown is one. You are kept alive by changes that go back every minute. Your blood picks up oxygen and lets it go again.",
+   "who_am_i": "Many of the changes that made you do not go back. Every meal you have digested is one of them, and so is every centimetre you have grown. At the same time, changes that do go back keep you alive every minute. Your blood picks up oxygen and lets it go again.",
    "what_is_life": "A living being uses both kinds of change. A dry seed can soak, dry and wait again. Once they grow a root, they have chosen a change with no way back.",
-   "what_is_this_world": "The world uses the same water again and again through changes that go back. It has a before and an after because other changes never do."
+   "what_is_this_world": "The world uses the same water again and again through changes that go back. But the world also has a past and a future, because some changes never go back."
   },
-  "thread": "Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles, so each of these changes is something that happens to someone. Many sages taught that there is one source and that it never stops becoming new things. The science of this unit adds one plain point: the becoming goes forward, and it can be slowed or steered, but it cannot be taken back.",
+  "thread": "Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles. So each of these changes is something that happens to someone, and not only to a thing. Many sages taught that all things come from one source, which keeps making new things. The science of this unit adds one plain point. New things keep coming into being, and the change can be slowed down or steered, but it cannot be taken back.",
   "teachings": [
    {
     "source": "Tirukkural 481",
     "teaching": "Tiruvalluvar wrote that a crow can defeat an owl by day. In the same way, he said, a ruler who wants to win must choose the right time.",
-    "link": "The Kural is about a ruler and an enemy, and it is not about toast. The match is this: the same act succeeds at one time and fails at another. In The Toast Ladder, taking the bread off the tawa worked only before it turned too dark."
+    "link": "The Kural is about a ruler and an enemy, and it is not about toast. But the lesson fits in the same way. The same act can succeed at one time and fail at another. In The Toast Ladder, taking the bread off the tawa worked only before it turned too dark."
    },
    {
     "source": "Dhammapada, verse 277",
@@ -3038,12 +3038,12 @@
   "practice": {
    "title": "The pause before the tear",
    "mins": 3,
-   "say": "Hold a small piece of scrap paper in both hands, ready to tear it. Stop there. Breathe in and out slowly three times. At this moment the paper can still be whole or torn. Now tear it slowly and listen. Hold the two pieces. Notice that only one of those two papers exists now.",
+   "say": "Hold a small piece of scrap paper in both hands, ready to tear it. Stop there. Breathe in and out slowly three times. Right now the paper is still whole, and you could still choose to keep it whole. Now tear it slowly and listen. Hold the two pieces. The whole paper is gone, and only the torn paper is left.",
    "kid": "Hold a paper, ready to tear. Stop. Breathe slowly three times. Now tear it slowly. Listen. Look at the two pieces."
   },
   "ask": [
    "A cooked egg holds almost every atom the raw egg held. What exactly cannot be got back?",
-   "Before you tore the paper, a whole paper and a torn paper were both possible. Where did the whole paper go?",
+   "Before you tore the paper, you could still choose to keep it whole. After you tore it, the whole paper was gone. Where did the whole paper go?",
    "The Sun turns hydrogen into helium and cannot turn it back. Is the Sun running down, or is it making something?"
   ],
   "art": "A child's two hands holding a small piece of paper with a tiny tear just started at its top edge, and a row of bread squares from white to brown on the table behind."

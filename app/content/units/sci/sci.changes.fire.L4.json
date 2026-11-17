@@ -151,7 +151,7 @@
    "concept": "Nothing is lost: burning swaps partners",
    "status": "defined",
    "definition": "In every chemical reaction the total mass stays the same. The atoms that were there at the start are all still there at the end. They have only changed partners.",
-   "description": "When a log burns, it seems to shrink to a little ash. But the log was also joining with oxygen from the air, and most of what it became was gas that floated away. If a log and all the oxygen it used could be weighed, and then all the gas and ash it made, the two weights would match. Steel wool shows this clearly. When iron burns, it joins with oxygen and becomes iron oxide, which is a solid and not a gas. So nothing floats away. The burnt steel wool is heavier, because it holds the oxygen it took from the air. The French chemist Antoine Lavoisier showed in the 1770s and 1780s that weighing everything, including the gases, gives the same total. Physicists later found that heat leaving a fire carries away a tiny amount of mass, about a fifth of a millionth of a gram for every kilogram of wood. So 'nothing is lost' is true to better than one part in a billion.",
+   "description": "When a log burns, it seems to shrink to a little ash. But the log was also joining with oxygen from the air, and most of what it became was gas that floated away. If a log and all the oxygen it used could be weighed, and then all the gas and ash it made, the two weights would match. Steel wool shows this clearly. When iron burns, it joins with oxygen and becomes iron oxide, which is a solid and not a gas. So nothing floats away. The burnt steel wool is heavier, because it holds the oxygen it took from the air. The French chemist Antoine Lavoisier showed in the 1770s and 1780s that weighing everything, including the gases, gives the same total. Physicists later found that heat leaving a fire carries away a tiny amount of mass, about a fifth of a millionth of a gram for every kilogram of wood. So the idea that nothing is lost is true to a very fine degree. The mass that the heat carries away is less than one part in a billion of the wood's mass.",
    "examples": [
     "Burning steel wool gets heavier, because it takes oxygen from the air.",
     "A log leaves little ash, because most of it became gas that floats away.",
@@ -229,7 +229,7 @@
    "concept": "The Sun is not burning",
    "status": "defined",
    "definition": "The Sun does not burn. Burning needs oxygen, and the Sun has almost none. The Sun shines by fusion, in which hydrogen joins together to make helium deep in its centre.",
-   "description": "If the Sun were a giant ball of coal burning in oxygen, it would have run out of fuel in about five thousand years. But the Sun has been shining for about 4.6 billion years. Fusion gives far more energy from each gram than burning does. In the Sun's centre it is so hot and squeezed that the centres of hydrogen atoms are pushed together and join to make helium. Each time, a tiny bit of mass turns into a huge amount of energy. This is the E equals m c squared idea. So the Sun is not a fire, but it is the source of nearly all the energy in the fires on Earth. Plants stored its light in wood, oil and coal.",
+   "description": "If the Sun were a giant ball of coal burning in oxygen, it would have run out of fuel in about five thousand years. But the Sun has been shining for about 4.6 billion years. Fusion gives far more energy from each gram than burning does. In the Sun's centre it is so hot and squeezed that the centres of hydrogen atoms are pushed together and join to make helium. Each time, a tiny bit of mass turns into a huge amount of energy. This is what the famous equation E equals m c squared says: a little mass can turn into a lot of energy. So the Sun is not a fire, but it is the source of nearly all the energy in the fires on Earth. Plants stored its light in wood, oil and coal.",
    "examples": [
     "The Sun has no oxygen to burn in.",
     "A coal Sun would have run out in about five thousand years.",
@@ -255,7 +255,7 @@
    "concept": "What is a flame made of?",
    "status": "debated",
    "definition": "",
-   "description": "A flame is not a solid, a liquid or a plain gas. It is a glowing place where fuel gas and oxygen are joining. Scientists agree on that, but they disagree on what to call the stuff inside it. Some of the atoms in a flame lose electrons, and this makes a very small share of the flame electrically charged. You can bend a flame with a charged rod.",
+   "description": "A flame is not a solid, a liquid or a plain gas. It is a glowing place where fuel gas and oxygen are joining. Scientists agree on that, but they disagree on what to call the stuff inside it. Some of the atoms in a flame lose electrons, which are tiny charged particles, and this makes a very small share of the flame electrically charged. You can bend a flame with a charged rod. Some scientists call a flame a plasma. A plasma is a gas in which many of the particles carry an electric charge.",
    "examples": [
     "A flame glows because of hot soot and gas molecules that have taken in energy.",
     "A flame can be bent a little by a charged object.",
@@ -374,7 +374,7 @@
    "hint": "Think about who gets the benefit, who gets the harm, and what might make a fire cleaner."
   },
   {
-   "q": "Wood holds sunlight that a tree stored as it grew. When we burn wood, we use up that stored energy. What does it mean that it took so long to store and is used so fast?",
+   "q": "Wood holds sunlight that a tree stored as they grew. A tree takes many years to store this energy, but a fire gives it back in an hour. What should we think about that?",
    "kind": "big",
    "hint": "Think about how long the tree took to store the energy, and how fast we use it."
   }
@@ -583,7 +583,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Play the first eight cards. After each card, read the back aloud. After card four, ask the question below.",
-     "say": "The reader reads the front. Everyone picks a token. Turn them over together. The reader reads the back. Who scored a point? Who can say why?",
+     "say": "The reader reads the front of a card aloud. Everyone picks a token and puts it face down. Then we turn the tokens over together. The reader reads the back. Who scored a point? Who can say why?",
      "kid": "The reader reads a card. Pick a token. Turn it over. Check the back.",
      "ask": [
       {
@@ -2757,7 +2757,7 @@
    {
     "source": "Chandogya Upanishad 6.4.1",
     "teaching": "As paraphrased, Uddalaka taught that the red colour of a flaming fire is the colour of fire itself, the white is the colour of water, and the black is the colour of food, which is earth.",
-    "link": "A candle flame shows a bright part, and a cold plate held over it catches white drops of water and black soot. Uddalaka, the old teacher, also looked at a fire and saw three colours, and thought about what each one was made of."
+    "link": "A candle flame shows more than one colour. A cold plate held over it catches white drops of water and black soot. Uddalaka, the old teacher, looked at the colours of a fire in the same way, and asked what each colour was made of. His answers are not the answers of science, but the habit of looking closely at a fire is the same."
    },
    {
     "source": "Bhagavad Gita 2.16",
@@ -2776,13 +2776,13 @@
     "status": "settled"
    },
    {
-    "text": "A fire gives out a tiny amount of mass as heat and light, about a fifth of a millionth of a gram for each kilogram of wood. This follows from E equals m c squared.",
+    "text": "A fire gives out a tiny amount of mass as heat and light, about a fifth of a millionth of a gram for each kilogram of wood. This follows from the famous equation E equals m c squared, which says that mass and energy can turn into each other.",
     "status": "settled"
    }
   ],
   "other_view": {
    "who": "Some philosophers",
-   "view": "The atoms are kept, but the candle is not. A candle, a letter or a forest is a pattern, and patterns really do end. Saying that nothing is lost can hide the fact that something people cared about has gone."
+   "view": "They say that the atoms are kept, but the candle itself is not. A candle, a letter or a forest is a particular arrangement of atoms. When the arrangement ends, that thing has really ended, even if the atoms are still around. Saying that nothing is lost can hide the fact that something people cared about has gone."
   },
   "practice": {
    "title": "Two fogs",
@@ -2799,7 +2799,7 @@
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Catch What a Flame Makes: on a humid day a cold steel bowl fogs on its own, so the steps use a second bowl beside the flame. The bowl over the flame should be clearly wetter, and the spoon in the yellow tip should be sooty within two seconds. Same Paper, Three Shapes: times are only estimates, as newspaper varies. A flat sheet burns in roughly 5 to 15 seconds, and a tight roll may go out part-way, which the steps count as a result. Steel wool: it must be the fine iron kind, because stainless scrubbers do not burn, and a loose fluffy tuft burns best. If the balance does not tilt, little burned, so try again with a looser tuft. Pour Out a Fire: wait for the fizz to calm, and keep the candle low in a deep bowl so the gas pools. Jar lid challenge: the holes may need to be larger than expected. Facts checked on 17 Nov 2026: the 1906 LPG line (national number, still worth checking on your own cylinder), Janssen at Guntur on 18 August 1868 and Lockyer's part, cool flames reported in 2014, du Châtelet's essay (written 1737, prize 1738, printed 1744), the Sun's age (about 4.6 billion years), the coal-Sun and E equals m c squared figures (worked out by hand), and the museum link. Softened: sodium light is now said to be mostly yellow. The oxygen figure at which a candle goes out was removed earlier. Chandogya 6.4.1, Gita 2.16 and Anaxagoras 17 are kept as paraphrase.",
  "how_we_found_out": {
-  "story": "For about a hundred years, many chemists believed that something escapes from every burning thing. Around 1700, Georg Stahl called it phlogiston. Wood burns, they said, because it gives out phlogiston, and what is left is ash. But there was a puzzle. When metals such as tin or iron burned, the crust that was left weighed more, not less. In the 1770s, the French chemist Antoine Lavoisier began weighing everything, even the air. He heated tin inside a sealed glass flask and weighed the whole flask before and after. The weight did not change, and air rushed in when he opened it. The tin had taken something out of the air. Lavoisier named it oxygen. His wife, Marie-Anne Paulze Lavoisier, drew his apparatus, kept the laboratory notebooks, and translated English chemistry papers for him. Burning, they showed, is joining with oxygen, not letting something escape. In 1737 Émilie du Châtelet, a French scientist, wrote an essay on the nature of fire for a prize of the French Academy of Sciences. It did not win, but the Academy had it printed.",
+  "story": "For about a hundred years, many chemists believed that something escapes from every burning thing. Around 1700, Georg Stahl called it phlogiston. Wood burns, they said, because it gives out phlogiston, and what is left is ash. But there was a puzzle. When metals such as tin or iron burned, the crust that was left weighed more, not less. In the 1770s, the French chemist Antoine Lavoisier began weighing everything, even the air. He heated tin inside a sealed glass flask and weighed the whole flask before and after. The weight of the flask did not change, so nothing had got in or out. But air rushed in when he opened it, which showed that part of the air inside had been used up. The tin had taken something out of the air. Lavoisier named it oxygen. His wife, Marie-Anne Paulze Lavoisier, drew his apparatus, kept the laboratory notebooks, and translated English chemistry papers for him. Burning, they showed, is joining with oxygen, not letting something escape. In 1737 Émilie du Châtelet, a French scientist, wrote an essay on the nature of fire for a prize of the French Academy of Sciences. It did not win, but the Academy had it printed.",
   "who": "Antoine Lavoisier and Marie-Anne Paulze Lavoisier in Paris, building on Georg Stahl's phlogiston and on the oxygen made by Joseph Priestley and Carl Scheele. Émilie du Châtelet wrote on the nature of fire in 1737",
   "when": "About 1700 (phlogiston), 1774 (the sealed flask), 1777 onwards (the name oxygen), 1789 (Lavoisier's book)",
   "wrong_idea": "Chemists believed that burning lets an invisible substance called phlogiston escape. But metals gain weight when they burn, and that did not fit. Lavoisier showed that the metal was joining with oxygen from the air, by weighing everything in a sealed flask."

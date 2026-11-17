@@ -111,7 +111,7 @@ In the kitchen, 'no way back' is a safe rule. In laboratories the line is less s
 - e.g. A battery's chemical change is pushed backwards by charging.
 - e.g. Nobody has turned a dosa back into batter.
 - **Many chemists:** No atom is lost in any change. So with enough energy and the right tools, any substance could in principle be made again. 'Irreversible' describes what we can do today.
-- **Many physicists:** A change can be undone in one place only by spending energy and making more disorder somewhere else. The whole world, taken together, never goes back to how it was. This is the second law of thermodynamics.
+- **Many physicists:** You can undo a change in one place, but only by spending energy. Spending that energy makes more disorder somewhere else. So the world as a whole never goes back to how it was. This is called the second law of thermodynamics.
 - **Cooks, potters and builders:** For anyone who makes things, the difference is real and sharp. You can melt the ghee again, but you cannot take back the toast. Good work means knowing which step is which before you take it.
 
 ## Mostly agreed
@@ -120,7 +120,7 @@ In the kitchen, 'no way back' is a safe rule. In laboratories the line is less s
 - A denatured protein has lost its shape, and its chain is still whole. *How we know:* The Chinese biochemist Hsien Wu proposed this in 1931. Around 1960 Christian Anfinsen unfolded a protein with chemicals and watched it fold back and work again.
 - Browning needs dry heat well above the temperature of boiling water. *How we know:* Food boiled or steamed at 100 degrees Celsius stays pale. The same food browns on a tawa or in hot oil, where its surface gets much hotter.
 - No atoms are made or destroyed in any change, reversible or irreversible. *How we know:* When chemists carry out a change in a sealed container, the weight before and after is the same. Antoine Lavoisier showed this in the 1770s and 1780s.
-- Mixing does not undo itself, because mixed arrangements vastly outnumber sorted ones. *How we know:* Ludwig Boltzmann worked this out in the 1870s by counting arrangements. Anyone can check a small case with slips of paper, as in the Slip Shuffle.
+- Mixed things do not sort themselves out again, because there are far more mixed-up ways to arrange the pieces than sorted ways. *How we know:* Ludwig Boltzmann worked this out in the 1870s by counting arrangements. Anyone can check a small case with slips of paper, as in the Slip Shuffle.
 
 ## How we found out
 **Hsien Wu and Daisy Yen Wu in Beijing, and Christian Anfinsen in the United States, Wu published his theory in 1931. Anfinsen did his folding tests in the late 1950s and early 1960s, and won the Nobel Prize in 1972..** A hundred years ago, many chemists thought that heat destroyed a protein. A boiled egg white could not be made runny again. So they supposed that its proteins had been broken up or turned into something else. In Beijing, the biochemist Hsien Wu tested proteins for years. He did this work with the biochemist Daisy Yen Wu, who became his wife in the 1920s and wrote many of the papers with him. In 1931 he proposed a different idea. A protein is a long chain folded into an exact shape, he said. Heat does not break the chain. It only makes the chain lose its folds, and the loose chains then stick to each other. Few scientists noticed his paper. Around 1960 the American scientist Christian Anfinsen found a way to test the idea. He took a protein from a cow's pancreas and unfolded the protein with chemicals. The protein stopped working. Then he took the chemicals away. The chains folded back by themselves and worked again. A broken chain could never have done that. Anfinsen won the Nobel Prize in Chemistry in 1972.  
@@ -153,27 +153,27 @@ In this unit you stirred flour into cold and hot water, and you toasted a ladder
 *Habit it breaks:* We treat 'a bit too much' and 'a bit too little' as mistakes of the same size. With a change that has no way back, they are different kinds of mistake. After too little, the right amount can still be reached. After too much, it cannot.  
 *Evidence:* In The Toast Ladder, the pale 1-minute square went back on the tawa. It caught up with the brown 4-minute square. The 6-minute square stayed dark after cooling and after a night in damp air. In Cold Stir, Hot Stir, the heated flour could not be made thin again either.
 
-- *who am i:* You are built by changes that do not go back. Every meal you have digested and every centimetre you have grown is one. You are kept alive by changes that go back every minute. Your blood picks up oxygen and lets it go again.
+- *who am i:* Many of the changes that made you do not go back. Every meal you have digested is one of them, and so is every centimetre you have grown. At the same time, changes that do go back keep you alive every minute. Your blood picks up oxygen and lets it go again.
 - *what is life:* A living being uses both kinds of change. A dry seed can soak, dry and wait again. Once they grow a root, they have chosen a change with no way back.
-- *what is this world:* The world uses the same water again and again through changes that go back. It has a before and an after because other changes never do.
+- *what is this world:* The world uses the same water again and again through changes that go back. But the world also has a past and a future, because some changes never go back.
 
-Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles, so each of these changes is something that happens to someone. Many sages taught that there is one source and that it never stops becoming new things. The science of this unit adds one plain point: the becoming goes forward, and it can be slowed or steered, but it cannot be taken back.
+Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles. So each of these changes is something that happens to someone, and not only to a thing. Many sages taught that all things come from one source, which keeps making new things. The science of this unit adds one plain point. New things keep coming into being, and the change can be slowed down or steered, but it cannot be taken back.
 
-- **Tirukkural 481:** Tiruvalluvar wrote that a crow can defeat an owl by day. In the same way, he said, a ruler who wants to win must choose the right time. (The Kural is about a ruler and an enemy, and it is not about toast. The match is this: the same act succeeds at one time and fails at another. In The Toast Ladder, taking the bread off the tawa worked only before it turned too dark.)
+- **Tirukkural 481:** Tiruvalluvar wrote that a crow can defeat an owl by day. In the same way, he said, a ruler who wants to win must choose the right time. (The Kural is about a ruler and an enemy, and it is not about toast. But the lesson fits in the same way. The same act can succeed at one time and fail at another. In The Toast Ladder, taking the bread off the tawa worked only before it turned too dark.)
 - **Dhammapada, verse 277:** The Buddha taught that all things that are put together are impermanent. A person who sees this clearly, he said, turns away from suffering. (The verse says that nothing made stays as it is. This unit agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.)
 - **Heraclitus, as quoted by Plato in the Cratylus, 402a:** The Greek thinker Heraclitus said that you cannot step twice into the same river. New water is always flowing in. (A river looks the same from day to day, yet its water is always new. Even changes that 'go back' do not return the world to exactly what it was. The ghee that sets again has lost a little heat to the room.)
 - Science (settled): A protein that has lost its shape still has a whole chain. Some proteins fold back by themselves when the cause is taken away. Christian Anfinsen showed this around 1960.
 - Science (open): Nobody knows why the universe began in a state so orderly that changes have run one way ever since.
 - Other view, Many chemists and physicists: They point out that no atom is lost in any change. So in principle, with enough energy and skill, toast could be taken apart and built into bread again. On this view nothing is truly irreversible. 'No way back' only describes the tools we have today. Many of them also say that bread and wax are not aware of anything.
-- Practice, The pause before the tear (3 min): Hold a small piece of scrap paper in both hands, ready to tear it. Stop there. Breathe in and out slowly three times. At this moment the paper can still be whole or torn. Now tear it slowly and listen. Hold the two pieces. Notice that only one of those two papers exists now.
+- Practice, The pause before the tear (3 min): Hold a small piece of scrap paper in both hands, ready to tear it. Stop there. Breathe in and out slowly three times. Right now the paper is still whole, and you could still choose to keep it whole. Now tear it slowly and listen. Hold the two pieces. The whole paper is gone, and only the torn paper is left.
 - Ask: A cooked egg holds almost every atom the raw egg held. What exactly cannot be got back?
-- Ask: Before you tore the paper, a whole paper and a torn paper were both possible. Where did the whole paper go?
+- Ask: Before you tore the paper, you could still choose to keep it whole. After you tore it, the whole paper was gone. Where did the whole paper go?
 - Ask: The Sun turns hydrogen into helium and cannot turn it back. Is the Sun running down, or is it making something?
 
 ## Deep and big questions
 - *deep:* A boiled egg holds almost every atom the raw egg held. So what exactly has been lost? (hint: Think about Tangled Threads. The six threads were all still there after the shaking.)
 - *deep:* Tearing paper makes no new substance, yet it does not go back. What really makes a change irreversible? (hint: Compare tearing with melting. In which one could the particles find their old places?)
-- *deep:* In the Slip Shuffle, six slips sometimes came out sorted by chance. Could a drop of ink in water ever gather itself again? (hint: The chance fell from 1 in 3 to 1 in 10 with only two more slips.)
+- *deep:* In the Slip Shuffle, six slips sometimes came out sorted by chance. Could a drop of ink in water ever gather itself again? (hint: Remember how fast the chance of a sorted row fell as slips were added. It went from 1 in 3 to 1 in 10 with only two more slips. A drop of ink has far more particles than that.)
 - *big:* Glass can be melted and made again without end. Is a glass bottle ever really used up? (hint: Ask where the bottle goes when it is thrown away, and what would be needed to melt it.)
 - *big:* People have cooked for hundreds of thousands of years. Did cooking change only the food, or the cooks as well? (hint: Cooked food needs less chewing and gives more energy.)
 - *big:* Coal and oil took millions of years to form, and burning them is a change with no way back. Who should decide how fast they are burnt? (hint: Think about people who are not born yet, and about the other animals and plants who share the air.)
@@ -246,7 +246,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first twelve cards. After each card, read the back aloud. Ask the question below after card six.  
-  *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?  
+  *Parent says:* The reader reads the front of a card aloud. Everyone chooses a token and puts it face down. Then we turn the tokens over together. The reader reads the back. Who scored a point?  
   *Child mode:* Listen to the card. Pick a pile token. Turn it over. Check the back.
   - Ask: How did you decide which pile the change belongs in? (good: I asked if it is still the same substance.; I tried to name what I would do to get back.; If something new was made, I chose no way back.)
   - Note: A useful question for a stuck child is: what exactly would you do to get back to the start? One child can play alone or with you. With three or four players, take turns as the reader.
@@ -330,7 +330,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
   *Child mode:* Rub each plate. Say what you thought would happen. Say what you saw. Say why.
   - Ask: Which glass gave the flour back, and how do you know it is flour? (good: Glass A. It is a white powder again.; In water it turns cloudy and settles, like the flour at the start.)
   - Ask: Glass B was cool again by the time you tested it. Why did it not turn back? (good: The heat changed the flour into something new.; It was cooked.; Cooling does not undo what the heat did.)
-  - Note: Plate A usually holds a white powder. In water it clouds and settles, as fresh flour does. Plate B holds a hard, clear or whitish flake. In water the flake stays a flake and slowly goes soft. The reason: flour is mostly starch, packed in tiny hard grains. In cold water the grains stay closed, and they sink. In hot water they take in water, swell and burst. Long starch molecules spill out and tangle, and the water turns thick. A burst grain cannot close again. So the cold stir was reversible, and the hot stir was not.
+  - Note: Plate A usually holds a white powder. In water it clouds and settles, as fresh flour does. Plate B holds a hard, clear or whitish flake. In water the flake stays a flake and slowly goes soft. The reason is that flour is mostly starch, packed in tiny hard grains. In cold water the grains stay closed, and they sink. In hot water they take in water, swell and burst. Long starch molecules spill out and tangle, and the water turns thick. A burst grain cannot close again. So the cold stir was reversible, and the hot stir was not.
   - Think: Cotton saris are stiffened with cooked starch. Why would raw flour in cold water not work?
   - Wait: Leave both plates until they are fully dry, by the next morning
 ### e2 · The Toast Ladder: can toast go back to bread? (25 min, 2 days)
@@ -372,7 +372,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
   *Child mode:* Score and press each square again. Say what you thought, what you saw, and why.
   - Ask: What went back, and what did not? (good: The softness came back in the pale squares.; No colour went back.; The brown squares still smell of toast.)
   - Ask: Yesterday, could every square still be made darker? Could any be made paler? (good: Yes, the pale one caught up with the brown one.; No square got paler, whatever we did.)
-  - Note: In most homes the pale squares are soft again, and the brown ones are bendy. Every colour score is the same as yesterday. The reason: two changes happened on the tawa. Water left the bread, and damp air gave it back. That change is reversible. On the hot, dry surface, sugars and proteins also reacted and made new brown substances. That is the Maillard reaction, and it has no way back. Throw the squares away afterwards.
+  - Note: In most homes the pale squares are soft again, and the brown ones are bendy. Every colour score is the same as yesterday. The reason is that two changes happened on the tawa. Water left the bread, and damp air gave it back. That change is reversible. On the hot, dry surface, sugars and proteins also reacted and made new brown substances. That is the Maillard reaction, and it has no way back. Throw the squares away afterwards.
   - Think: Boiled rice never turns brown, however long it boils. Why not?
   - Wait: Leave the box closed overnight
 
@@ -429,7 +429,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
   - Note: Six slips can lie in 20 orders, and still only 2 are sorted. So about 2 tries in 20 come out sorted. A count of 0 is quite common.
 - **s4 (3 min)**  
   *Parent does:* Compare the two tallies. Tell your child the number for 5 dotted and 5 blank slips: 1 sorted row in 126 tries. Talk about the questions below.  
-  *Parent says:* With four slips, about 1 row in 3 was sorted. With six slips, about 1 in 10. With ten slips it is 1 in 126. What happens as the pieces get more?  
+  *Parent says:* With four slips, about 1 row in 3 was sorted. With six slips, about 1 in 10. With ten slips it is 1 in 126. What happens to the chance of a sorted row as there are more pieces?  
   *Child mode:* Compare your two tallies. What happens when there are more slips?
   - Ask: A drop of ink in water has more particles than anyone could count. Will shaking ever sort them into a drop again? (good: No, there are far too many mixed orders.; It could happen, but the chance is too small to ever see.; Sorted orders are a tiny share of all the orders.)
   - Note: Mixing makes no new substance. It does not undo itself because the mixed orders vastly outnumber the sorted ones. To un-mix, someone must do work, such as picking, sieving or evaporating.

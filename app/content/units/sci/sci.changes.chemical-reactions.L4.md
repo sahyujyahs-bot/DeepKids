@@ -3,7 +3,7 @@
 
 **Summary.** Stir baking soda into water and dry the water away, and the baking soda comes back. Stir baking soda into vinegar, and it fizzes. When that liquid is dried, the white powder left behind is no longer baking soda. A chemical reaction has made new substances. Your child tests this leftover powder and learns five signs of a reaction. They also watch steel wool rust inside an upturned glass, and measure how much of the air the rusting uses.
 
-**Intro.** *A new iron tawa is grey and hard. Leave it wet for a week, and brown flakes cover it. Nobody painted it. So where did the brown flakes come from?* The iron joined with oxygen, a gas in the air, and with water. Together they made a new substance called rust. Rust is brown and crumbly, and iron is neither. A change that makes a new substance is called a chemical reaction. In this unit you make vinegar and baking soda fizz. Then you test whether the baking soda is still there after the fizz. You also find out how much of the air a piece of rusting steel uses up.
+**Intro.** *A new iron tawa is grey and hard. Leave it wet for a week, and brown flakes cover it. Nobody painted it. So where did the brown flakes come from?* The iron joined with oxygen, a gas in the air, and with water. Together they made a new substance called rust. Rust is brown and crumbly, but iron is grey and hard. A change that makes a new substance is called a chemical reaction. In this unit you make vinegar and baking soda fizz. Then you test whether the baking soda is still there after the fizz. You also find out how much of the air a piece of rusting steel uses up.
 
 ## Learning outcomes
 0. I can say what a chemical reaction is, and how it differs from melting, mixing and dissolving.
@@ -74,7 +74,7 @@ Iron needs both oxygen and water to rust. Dry iron in dry air stays grey for yea
 ### A reaction rearranges atoms. It does not make or destroy them · *defined*
 **Definition:** In a chemical reaction, the atoms of the reactants come apart and join up in new groups. Every atom that goes in comes out.
 
-Everything is made of atoms, and there are about 90 kinds in nature. Each kind is called an element. Iron, oxygen, hydrogen and gold are elements. In a reaction the atoms change partners. Two hydrogen molecules and one oxygen molecule have six atoms. They rearrange into two water molecules, which also have six atoms. You do this with coins and seeds in the Atom Swap activity. Because no atom is lost, the products weigh exactly as much as the reactants. A fizzing bowl gets lighter only because its gas floats away. If the gas is caught, nothing is lost. A reaction also cannot change one kind of atom into another. No reaction can turn iron atoms or lead atoms into gold atoms.
+Everything is made of atoms, and there are about 90 kinds in nature. Each kind is called an element. Iron, oxygen, hydrogen and gold are elements. In a reaction the atoms change partners. Take two hydrogen molecules, which have two atoms each, and one oxygen molecule, which has two atoms. Together that is six atoms. They rearrange into two water molecules, which also have six atoms between them. You do this with coins and seeds in the Atom Swap activity. Because no atom is lost, the products weigh exactly as much as the reactants. A fizzing bowl gets lighter only because its gas floats away. If the gas is caught, nothing is lost. A reaction also cannot change one kind of atom into another. No reaction can turn iron atoms or lead atoms into gold atoms.
 - e.g. Hydrogen + oxygen → water. Six atoms go in and the same six come out.
 - e.g. A bowl of vinegar and baking soda weighs a little less after the fizz, because carbon dioxide has left.
 - e.g. Rust weighs more than the iron did, because oxygen atoms from the air have joined it.
@@ -149,7 +149,7 @@ In this unit you tested the powder left after a fizz, and watched steel wool rus
 - *what is life:* A living body is thousands of reactions kept going at once. In your cells, oxygen reacts with food, much as oxygen reacts with iron. Your body does it in small, careful steps.
 - *what is this world:* Nature has only about 90 kinds of atoms. The sea, a mango, a steel bridge and you are these same atoms, joined in different ways.
 
-A few kinds of atoms make millions of different substances, because joining gives properties that were not seen before. Hydrogen and oxygen are both gases, and joined together they are water. Many sages taught that one source appears as the many things of the world. Chemistry shows a small part of that picture which anyone can test. Everything is conscious, down to the atoms. How the awareness of atoms joins into the awareness of a whole body is a question nobody has answered.
+A few kinds of atoms make millions of different substances, because joining gives properties that were not seen before. Hydrogen and oxygen are both gases, and joined together they are water. Many sages taught that all the different things in the world come from one source. Chemistry shows one small part of this that anyone can test. The same few kinds of atoms make all the substances around us. Everything is conscious, down to the atoms. How the awareness of atoms joins into the awareness of a whole body is a question nobody has answered.
 
 - **Milindapanha (The Questions of King Milinda), Book 2, chapter 1: the chariot:** The monk Nagasena asks King Milinda where his chariot is. Is it the wheels, the axle, the pole or the seat? It is none of these. 'Chariot' is the name for all the parts when they are put together. (Nagasena was speaking about the self, and not about chemistry. Yet rust is like his chariot. Rust is not found in iron, in oxygen or in water. It exists only when they are joined.)
 - **John Stuart Mill, A System of Logic (1843), Book 3, chapter 6:** Mill pointed out that water has none of the properties of hydrogen or of oxygen. He said that what chemical joining produces cannot be found by adding up what each part does alone. (This is what the After the Fizz experiment showed. The new crust did not do what baking soda does. It had to be tested as a substance in its own right.)
@@ -163,12 +163,12 @@ A few kinds of atoms make millions of different substances, because joining give
 - Ask: You are made of atoms that were once food, water and air. Is there anything in you that was not in them?
 
 ## Deep and big questions
-- *deep:* Baking soda fizzes away in vinegar. Every one of its atoms is still in the pan or the air. Is the baking soda still there? (hint: Think about a word and its letters. If you rearrange the letters, is the word still there?)
+- *deep:* Baking soda fizzes away in vinegar. Every one of its atoms is still in the pan or the air. Is the baking soda still there? (hint: Think about the letters of a word. If you rearrange the same letters to spell a different word, is the first word still there?)
 - *deep:* Bubbles, colour and warmth can all mislead. How can anyone be sure that a new substance has formed? (hint: In the After the Fizz experiment, you dropped vinegar on a white crust to see whether it fizzed.)
 - *deep:* Hydrogen is not wet and oxygen is not wet. Where does the wetness of water come from? (hint: Is wetness inside the atoms, or does it belong to the way they are joined?)
-- *big:* Iron is made from a rusty-looking rock called iron ore. When iron rusts, is something being spoiled or being returned? (hint: A person who owns the gate and the ground the ore came from might answer differently.)
+- *big:* Iron is made from a rusty-looking rock called iron ore. When iron rusts, is something being spoiled or being returned? (hint: The owner of the gate would say the gate is being spoiled. Someone thinking about the ground the ore came from might say the iron is going back to what it was.)
 - *big:* Chemists can make substances that never existed before, such as plastics. Who should decide which new substances are made? (hint: A new substance can be useful for fifty years and stay in the sea for five hundred.)
-- *big:* Your body is made from food, water and air that have reacted. Is there anything in you that was not in them? (hint: Rust is brown, and neither iron nor oxygen is brown.)
+- *big:* Your body is made from food, water and air that have reacted. Is there anything in you that was not in them? (hint: Think about rust. It is brown, but iron is grey and oxygen has no colour. So where did the brown come from? Is there something like that in you?)
 
 ## Story: The Lamp Went Down First
 *Devika, Ammamma, Sheeba chechi and their well are made up. These things are real. Carbon dioxide is about one and a half times as heavy as air. It collects in old wells, pits and tanks where leaves and other things rot. People have long lowered a flame to test for it. Stirring the air with leafy branches is an old method. Lifting the gas out with a bucket is Devika's idea in the story, and it works only slowly. The lamp test is not a safety rule. A well can hold other dangerous gases, or too little oxygen, even where a flame still burns. Trained workers today use gas meters and blowers. Children should never lean over a well or go into a well, pit or tank.*
@@ -195,7 +195,7 @@ She had brought a small clay lamp from the kitchen, with oil and a cotton wick. 
 
 Sheeba chechi took her leg back over the wall. Nobody spoke.
 
-Devika stared into the well. Nothing had touched the flame. Nothing was there. Then she remembered the evening before.
+Devika stared into the well. Nothing had touched the flame, and she could see nothing in the air around it. Then she remembered the evening before.
 
 The power had gone off at dusk. Ammamma had been stirring a pinch of cooking soda into lime juice, because her stomach felt heavy after the journey. The tumbler frothed and hissed beside the lamp on the table. Devika had picked the tumbler up to look, and tipped it a little towards the flame. Not one drop spilled. But the flame bent, shrank and went out.
 
@@ -302,7 +302,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Baking soda came back from the water. Why did it not come back from the vinegar? (good: It reacted with the vinegar and became something new.; The fizz used it up.; It turned into the gas and the new crust.)
   - Ask: Both crusts are white. How did you tell them apart? (good: By what they did with vinegar.; One fizzed and one did not.)
-  - Note: The reason: in water, baking soda only dissolves, so the same substance is left when the water goes. In vinegar, baking soda reacts with the acid. The products are carbon dioxide gas, water and a salt called sodium acetate. The gas left as bubbles, and the sodium acetate is the crust. The dried water crust may be partly changed by the heat into washing soda, which also fizzes.
+  - Note: The reason is that in water, baking soda only dissolves, so the same substance is left when the water goes. In vinegar, baking soda reacts with the acid. The products are carbon dioxide gas, water and a salt called sodium acetate. The gas left as bubbles, and the sodium acetate is the crust. The dried water crust may be partly changed by the heat into washing soda, which also fizzes.
   - Think: The bubbles floated away. How could you find out what gas they were made of?
 ### e2 · Rust Uses Up Air: how far will the water climb? (30 min, 3 days)
 - **question:** Wet steel wool is left to rust inside an upturned glass that stands in water. Does the water climb into the glass? If it does, how far does it climb before it stops?
@@ -346,7 +346,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: What took up the space that the water moved into? (good: Air that got used up.; The part of the air that joined the iron.; Oxygen.)
   - Ask: Why did the water in the tissue glass stay where it was? (good: There was no iron to rust.; Nothing used up the air in that glass.)
-  - Note: The reason: rusting is a reaction between iron, oxygen and water. The steel wool took oxygen out of the air in the glass, and the oxygen became part of the rust. Water moved up to fill the space. About one fifth of the air is oxygen. When the oxygen had gone, the rusting stopped, although iron was left. The rest of the air is mostly nitrogen, which does not react with iron.
+  - Note: The reason is that rusting is a reaction between iron, oxygen and water. The steel wool took oxygen out of the air in the glass, and the oxygen became part of the rust. Water moved up to fill the space. About one fifth of the air is oxygen. When the oxygen had gone, the rusting stopped, although iron was left. The rest of the air is mostly nitrogen, which does not react with iron.
   - Think: What would happen if you lifted the glass for a moment, let fresh air in and set it down again?
 
 ## Activities
@@ -558,7 +558,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
    **Answer:** False. *Why:* False. Water is a new substance with its own properties. It puts fires out, although hydrogen burns and oxygen helps things to burn.
 5. (mcq) Two clear liquids are mixed, and nothing can be seen to change. What can you say?  
    Options: No reaction happened / A reaction may or may not have happened / A reaction certainly happened / The liquids have vanished  
-   **Answer:** A reaction may or may not have happened. *Why:* Some reactions show no sign that eyes can see. To find out, you would test what the mixture does. Signs are clues, and their absence is not proof either.
+   **Answer:** A reaction may or may not have happened. *Why:* Some reactions show no sign that eyes can see. To find out, you would test what the mixture does. A sign is only a clue, and not seeing a sign does not prove that nothing happened either.
 6. (write) A white powder has no label. Without tasting, how could you test whether the powder is baking soda?  
    **Answer:** Put a little of the powder on a plate and drop vinegar or lime juice on it. Baking soda fizzes at once. To be sure, do the same with powder that is known to be baking soda and compare.. *Why:* A strong answer tests what the powder does, and compares it with known baking soda. Salt, sugar and flour do not fizz.
 7. (fill) A reaction that takes in heat makes the things around it ____.  
