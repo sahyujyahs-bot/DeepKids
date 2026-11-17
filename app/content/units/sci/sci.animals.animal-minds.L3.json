@@ -409,7 +409,7 @@
    "for": "Chimpanzees, an Asian elephant called Happy, and magpies touched a mark they could only see in a mirror.",
    "against": "Dogs mostly fail the mirror test, but they know their own smell. In 2017, Alexandra Horowitz showed dogs sniff a changed smell of their own longer. Animals that do not use eyes much may need a different test. A small fish, the cleaner wrasse, seemed to pass in 2019, and scientists are still arguing about what that means.",
    "status": "debated",
-   "context": "This card is about a famous test of whether animals know themselves, and whether it is fair."
+   "context": "In the mirror test, a mark is put on an animal's body, where they can only see it in a mirror. If the animal touches the mark on their own body, scientists say the animal knows the animal in the mirror is themself. This card asks whether that test really shows which animals know themselves, and whether it is fair to every animal."
   },
   {
    "claim": "Fish and insects cannot feel pain.",
@@ -788,8 +788,9 @@
      "do": "When you draw a TEST IT card, stop and do the test together.",
      "say": "A test card! Let's all try it now. Then let's talk about what happened.",
      "kid": "Test card! Do the test together. What happened? Was it a surprise?",
-     "think": "Which card surprised you most? Why did you believe the tall tales at first?",
-     "context": "This step of True or Tall Tale? is about the TEST IT cards, where players try a small test about minds."
+     "think": "Pick one of the tall tales. What did the test or the careful watching show instead?",
+     "context": "This step of True or Tall Tale? is about the TEST IT cards, where players try a small test about minds.",
+     "parent": "A good answer names a card and what was really found. For example, goldfish remember for weeks. Hans read faces instead of doing sums. A bigger brain does not always mean a cleverer animal. Dogs look most guilty when they are scolded, even when they did nothing wrong."
     },
     {
      "id": "s5",
@@ -1097,7 +1098,8 @@
      "say": "In 2009, Christopher Bird and Nathan Emery gave rooks a tube like this. The rooks dropped in stones to reach a floating worm. They chose the big stones first. Later, New Caledonian crows passed similar tests. They chose sinking things over floating ones, just as you found out.",
      "kid": "Real rooks did this test! They chose big stones first. Crows picked things that sink, not things that float. Did you?",
      "think": "The rooks could not measure or talk it over. How do you think they worked out which stones to use?",
-     "context": "This step of the thirsty crow test compares your results with what real rooks and crows did."
+     "context": "This step of the thirsty crow test compares your results with what real rooks and crows did.",
+     "parent": "Nobody knows the full answer. A good guess is that the rooks watched the water rise after each stone. Then they kept using the stones that worked. Scientists are still testing whether the rooks understand why."
     },
     {
      "id": "s6",
@@ -1108,7 +1110,8 @@
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: big stones raise the water with the fewest pieces. What I saw: it took 6 big stones but 32 small stones, and the thermocol never got there. Why: big sinking stones take up more room under the water, so the water has to go up.",
      "context": "This is the last step of the thirsty crow test. The child says what they think, what they saw, and why."
     }
-   ]
+   ],
+   "problem": "In an old story, a thirsty crow drops pebbles into a pot until the water rises high enough to drink. Real rooks have done this to reach a floating worm. In this test you are the crow. A small piece of thermocol floats on the water as the worm. You drop things in, and count how many it takes to bring the worm up to a line."
   },
   {
    "id": "e2",
@@ -1261,7 +1264,8 @@
      "parent": "A good answer sounds like this. What I think: faces give away clues. What I saw: I got 8 right when you knew, and only 3 when you didn't. Why: your face changed a tiny bit at the right cup. Scientists use blind tests so an animal cannot get the answer from them by mistake. If both scores were about the same, that is a real result too. It means your helper kept a very still face.",
      "context": "This is the last step of the Clever Hans test. The child says what they think, what they saw, and why."
     }
-   ]
+   ],
+   "problem": "A horse called Clever Hans seemed to do sums. But he was really reading tiny changes in the faces of the people who asked him. In this test you try to find a hidden coin by watching a helper's face. Then you try again when the helper does not know where the coin is. A test where the person giving it does not know the answer is called a blind test."
   },
   {
    "id": "e3",
@@ -1575,8 +1579,9 @@
      "do": "Talk about how your child remembered.",
      "say": "Which ones did you find first? How did you remember? Did you use the furniture as clues?",
      "kid": "How did you remember? Did you use landmarks, like the sofa or the door?",
-     "think": "Nicola Clayton found that scrub jays remember what they hid, where, and when. Could you remember when you hid each one?",
-     "context": "This is the last step of Be a Jay. The child explains how they remembered."
+     "think": "Scrub jays remember what they hid, where they hid it, and when. In this game you only had to remember where. How could you change the game so that you must remember what you hid as well?",
+     "context": "This is the last step of Be a Jay. The child explains how they remembered.",
+     "parent": "A good answer is to hide different things, such as a groundnut, a sweet and a raisin. Then ask your child to find the sweet first. That way they must remember what is where, not only where something is."
     }
    ]
   },
@@ -1655,7 +1660,8 @@
      "parent": "A good answer sounds like this. What I think: animals learn in small steps with rewards. What I saw: I got there after 12 claps. Why: each clap told me I was closer.",
      "context": "This is the last step of the Training Game. The child says how it felt and links it to animal learning."
     }
-   ]
+   ],
+   "problem": "Animal trainers teach with rewards. They reward every small step towards what they want. In this game a clap is the reward. The learner must find a secret action, using only claps as clues."
   },
   {
    "id": "a4",
@@ -1821,7 +1827,8 @@
      "parent": "A good answer: 'What I think: bigger isn't always cleverer. What I saw: the crow's brain is a walnut, but crows make hooks. Why: crows pack in lots of neurons.'",
      "context": "This is the last step of Brain Line-up. The child says what they now think about brain size."
     }
-   ]
+   ],
+   "problem": "A bigger brain is not always a cleverer one. What matters more is how many neurons are packed into it. Neurons are the tiny cells that pass messages in a brain. Here you line up kitchen things that are the size of four animals' brains. Then you find out which small brain holds a surprising amount."
   },
   {
    "id": "a6",
@@ -1899,7 +1906,8 @@
      "think": "Is there a 'you' inside, looking out? Where is it?",
      "context": "This is the last step of Mirror, Mirror. It ends with a big question about knowing yourself."
     }
-   ]
+   ],
+   "problem": "Scientists want to know if an animal understands that the animal in a mirror is themself. So they put a mark on the animal's body, where they can only see it in the mirror. If the animal touches the mark on their own body, they know the face in the mirror is theirs. Here you try the same test on yourself."
   }
  ],
  "projects": [
@@ -2638,7 +2646,7 @@
     },
     {
      "t": "write",
-     "p": "Find the mistake. In the Thirsty Crow Test, someone filled the glass higher for the small stones than for the big stones. Why can't they compare the two counts?",
+     "p": "In the Thirsty Crow Test, the glass was filled higher for the small stones than for the big stones. Why can't we compare the two counts?",
      "lines": 3,
      "a": "Because they changed two things at once: the size of the stones and the starting water level. The small stones had less space to fill, so the count is not fair. Both must start at the same line.",
      "why": "In a fair test, you change only one thing. Everything else, like the starting level and the glass, stays the same.",
@@ -3173,7 +3181,7 @@
   "Has a dog you know learned anything new this week?",
   "How do you think the street dog knows which shop gives them food?",
   "What did you remember today that you learned a long time ago?",
-  "If a cat could talk, what would they say about us?",
+  "A dog cannot tell us what they feel. What does a dog do that tells us?",
   "Is that animal playing or fighting? How can you tell?",
   "What is one thing an animal can do that you cannot?",
   "When you feel happy, what does your face do? Could an animal tell?",
@@ -3559,9 +3567,9 @@
   "three": {
    "who_am_i": "You are one of many minds on Earth. A crow, a dog and you all learn, remember and decide.",
    "what_is_life": "Living things notice, learn, remember and choose. Crows, dogs, octopuses and you all do this, with very different bodies.",
-   "what_is_this_world": "A crow, a dog and a bee notice different things in the same street. Each of them lives in their own version of the world."
+   "what_is_this_world": "A crow, a dog and a bee notice different things in the same street. A dog smells far more than we do, and a bird sees more colours than we do. So each of them experiences the street in a different way."
   },
-  "thread": "A crow, a dog and you look very different from outside. Inside, your thinking and theirs runs on neurons passing signals with the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. So minds are not found only in humans. They are found in many kinds of animals, from crows and dogs to eight-armed octopuses.",
+  "thread": "A crow, a dog and you look very different from outside. Inside, your thinking and theirs both run on neurons. Neurons pass signals using the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. So minds are not found only in humans. They are found in many kinds of animals, from crows and dogs to eight-armed octopuses.",
   "teachings": [
    {
     "source": "Bhagavad Gita 5.18",
@@ -3614,5 +3622,5 @@
   "wrong_idea": "Birds have almost no thinking part in their brains, so they act mostly on instinct. A closer look showed that most of a bird's forebrain does the job of our cortex, and in 2016 neuron counts showed that crows pack in as many as some monkeys."
  },
  "playtest": "Played the unit as a family would. Games: counted the 22 True or Tall Tale cards (18 claims and 4 TEST IT cards, all with a back), two mats and tokens; played with 2 and with 4, and the cups and coin are now needed only for the first TEST IT card. In Read My Face I removed the score sheet (it printed as three empty boxes), and wrote one clear game: every player makes a face in every round, with a winner after three rounds. Experiments: worked the thirsty crow test through with a 6 to 7 cm glass (about 66 ml for 2 cm, so about 6 walnut-sized stones, about 32 marble-sized, thermocol hardly any) and kept it; the Clever Hans test needed three people, so the blind round is now optional with a luck comparison for a family of two; the dog pointing test stays optional and outside the core path. Fixed: the Hook It Like Betty bucket had a limp thread handle that no hook can catch, so it now has a stiff card handle; the Training Game now says to count claps; Crow Friends day 1 said the rice goes in the cap; removed an outdoor warning from Play Spotters and extra warnings from Be a Jay; removed duplicate worksheet items (7 repeated questions, plus the second dog-moods drawing and wolf question); changed jay pronouns to they; cut two weak jokes (8 left); removed two books from the buy list that no step needs; removed an internal song note; swapped in Kerala, Karnataka and Assam for a few places. Left as they are: the Descartes view and the claim 'fish and insects cannot feel pain' appear only as old or disputed views with evidence against, so the validator's mind-denial warning is expected for them. The three videos were checked against their YouTube titles.",
- "warm": {"words": ["BRAIN", "TOOLS", "LEARN", "CROWS", "SMELL"], "quiz": [["A bigger brain does not always mean a cleverer animal.", true, "Crows have small brains with tightly packed neurons, yet they make and use tools."], ["A dog that looks guilty knows they did something wrong.", false, "Dogs looked most guilty when scolded, even when they had done nothing wrong."], ["Only humans make and use tools.", false, "Chimpanzees make tools from grass stems, and crows bend wire into hooks."], ["An animal that avoids a place where they got hurt has learned something.", true, "Learning is changing what you do because of what happened before."], ["Animals only do things that get them food or shelter right away.", false, "Puppies, rats and bees play just for fun, which gets them no food."], ["An animal can seem cleverer than they are if the tester gives tiny clues by mistake.", true, "Animals pick up tiny clues nobody meant to give, so the tester should not know the answer."], ["Fish cannot feel pain, because they do not cry out.", false, "Fish rub a sore lip and avoid places where they were hurt."], ["A dog that fails the mirror test has no sense of self at all.", false, "Dogs know their own smell and notice when it is changed."], ["We can only learn about an animal's mind by watching what they do.", true, "Nobody can see a mind directly, so we use fair tests of what animals do."], ["A test is fair when only one thing is changed and everything else stays the same.", true, "Then any difference in the result must come from the one thing that changed."]], "odd": [[["Crow's wire hook", "Chimp's grass stem", "Stone dropped in water", "Own teeth"], "Own teeth", "The other three are objects used for a job, but teeth are part of the body."], [["Dog learns a trick", "Crow remembers a face", "Rat learns a maze", "Newborn sucking milk"], "Newborn sucking milk", "The others are learned from what happened before, but a newborn sucks without being taught."], [["Puppies chasing tails", "Bee rolling a small ball", "Rats chasing each other", "Bird pecking grain when hungry"], "Bird pecking grain when hungry", "The others are done just for fun, but pecking grain gets food right away."], [["Counted results of a test", "Careful notes of what happened", "A video of the animal", "A guess about what they think"], "A guess about what they think", "The others are things seen or measured, so they count as evidence; a guess is not."], [["Shaking all over", "Tail tucked under", "Hiding under the bed", "Play bow with bottom up"], "Play bow with bottom up", "The other three show fear in body language, but a play bow says 'let us play'."]]}
+ "warm": {"words": ["BRAIN", "TOOLS", "LEARN", "CROWS", "SMELL"], "quiz": [["A bigger brain does not always mean a cleverer animal.", true, "Crows have small brains with tightly packed neurons, yet they make and use tools."], ["A dog that looks guilty knows they did something wrong.", false, "Dogs looked most guilty when scolded, even when they had done nothing wrong."], ["Only humans make and use tools.", false, "Chimpanzees make tools from grass stems, and crows bend wire into hooks."], ["An animal that avoids a place where they got hurt has learned something.", true, "Learning is changing what you do because of what happened before."], ["Animals only do things that get them food or shelter right away.", false, "Puppies, rats and bees play just for fun, which gets them no food."], ["An animal can seem cleverer than they are if the tester gives tiny clues by mistake.", true, "Animals pick up tiny clues nobody meant to give, so the tester should not know the answer."], ["Fish cannot feel pain, because they do not cry out.", false, "Fish rub a sore lip and avoid places where they were hurt."], ["A dog that fails the mirror test has no sense of self at all.", false, "Dogs know their own smell and notice when it is changed."], ["We can only learn about an animal's mind by watching what they do.", true, "Nobody can see a mind directly, so we use fair tests of what animals do."], ["A test is fair when only one thing is changed and everything else stays the same.", true, "Then any difference in the result must come from the one thing that changed."]], "odd": [[["Crow's wire hook", "Chimp's grass stem", "Stone dropped in water", "Own teeth"], "Own teeth", "The other three are objects used for a job, but teeth are part of the body."], [["Dog learns a trick", "Crow remembers a face", "Rat learns a maze", "Newborn sucking milk"], "Newborn sucking milk", "The others are learned from what happened before, but a newborn sucks without being taught."], [["Puppies chasing tails", "Bee rolling a small ball", "Rats chasing each other", "Bird pecking grain when hungry"], "Bird pecking grain when hungry", "The others are done just for fun, but pecking grain gets food right away."], [["Counted results of a test", "Careful notes of what happened", "A video of the animal", "A guess about what they think"], "A guess about what they think", "The others are things seen or measured, so they count as evidence. A guess is not evidence."], [["Shaking all over", "Tail tucked under", "Hiding under the bed", "Play bow with bottom up"], "Play bow with bottom up", "The other three show fear in body language, but a play bow says 'let us play'."]]}
 }

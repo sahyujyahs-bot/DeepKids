@@ -159,9 +159,9 @@ We have been learning that animals play, learn, remember and read faces. Now we 
 
 - *who am i:* You are one of many minds on Earth. A crow, a dog and you all learn, remember and decide.
 - *what is life:* Living things notice, learn, remember and choose. Crows, dogs, octopuses and you all do this, with very different bodies.
-- *what is this world:* A crow, a dog and a bee notice different things in the same street. Each of them lives in their own version of the world.
+- *what is this world:* A crow, a dog and a bee notice different things in the same street. A dog smells far more than we do, and a bird sees more colours than we do. So each of them experiences the street in a different way.
 
-A crow, a dog and you look very different from outside. Inside, your thinking and theirs runs on neurons passing signals with the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. So minds are not found only in humans. They are found in many kinds of animals, from crows and dogs to eight-armed octopuses.
+A crow, a dog and you look very different from outside. Inside, your thinking and theirs both run on neurons. Neurons pass signals using the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. So minds are not found only in humans. They are found in many kinds of animals, from crows and dogs to eight-armed octopuses.
 
 - **Bhagavad Gita 5.18:** The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on. (This unit found minds at work in elephants and dogs: elephants remember the calls of their friends, and dogs read our pointing fingers. The Gita says a wise person looks at all of them with the same eye.)
 - **Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river:** Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?' (Huizi could not see inside Zhuangzi's mind either, yet he argued with him as someone who thinks. We know every other mind, a friend's or a fish's, from what they do.)
@@ -274,7 +274,8 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Parent does:* When you draw a TEST IT card, stop and do the test together.  
   *Parent says:* A test card! Let's all try it now. Then let's talk about what happened.  
   *Child mode:* Test card! Do the test together. What happened? Was it a surprise?
-  - Think: Which card surprised you most? Why did you believe the tall tales at first?
+  - Note: A good answer names a card and what was really found. For example, goldfish remember for weeks. Hans read faces instead of doing sums. A bigger brain does not always mean a cleverer animal. Dogs look most guilty when they are scolded, even when they did nothing wrong.
+  - Think: Pick one of the tall tales. What did the test or the careful watching show instead?
 - **s5 (2 min)**  
   *Parent does:* Count the tokens. Then ask your child for one claim, one piece of evidence and one reason.  
   *Parent says:* Pick one true card. What does it show? What is the evidence? Why does that evidence make it true?  
@@ -305,6 +306,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 
 ## Experiments
 ### e1 · The Thirsty Crow Test: what raises the water best? (25 min)
+- **problem:** In an old story, a thirsty crow drops pebbles into a pot until the water rises high enough to drink. Real rooks have done this to reach a floating worm. In this test you are the crow. A small piece of thermocol floats on the water as the worm. You drop things in, and count how many it takes to bring the worm up to a line.
 - **question:** Which raises the water to the line with the fewest pieces: big stones, small stones or pieces of thermocol?
 - **predict:** Before you start, guess. Which will need the fewest pieces to raise the water to the line? Which will need the most? Why do you think so?
 - **fair test:** To make it fair, change only what you drop in. Use the same glass, fill it to the same starting line, and use the same top line each time. Drop things in one at a time.
@@ -335,6 +337,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Parent does:* Tell your child what real rooks and crows did in this test.  
   *Parent says:* In 2009, Christopher Bird and Nathan Emery gave rooks a tube like this. The rooks dropped in stones to reach a floating worm. They chose the big stones first. Later, New Caledonian crows passed similar tests. They chose sinking things over floating ones, just as you found out.  
   *Child mode:* Real rooks did this test! They chose big stones first. Crows picked things that sink, not things that float. Did you?
+  - Note: Nobody knows the full answer. A good guess is that the rooks watched the water rise after each stone. Then they kept using the stones that worked. Scientists are still testing whether the rooks understand why.
   - Think: The rooks could not measure or talk it over. How do you think they worked out which stones to use?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why.  
@@ -342,6 +345,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Child mode:* Say or write three things: what you think, what you saw, and why it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: big stones raise the water with the fewest pieces. What I saw: it took 6 big stones but 32 small stones, and the thermocol never got there. Why: big sinking stones take up more room under the water, so the water has to go up.
 ### e2 · The Clever Hans Test: can you read a face? (20 min)
+- **problem:** A horse called Clever Hans seemed to do sums. But he was really reading tiny changes in the faces of the people who asked him. In this test you try to find a hidden coin by watching a helper's face. Then you try again when the helper does not know where the coin is. A test where the person giving it does not know the answer is called a blind test.
 - **question:** Can you find a hidden coin by watching the face of someone who knows where it is?
 - **predict:** Guess how many times out of 10 you will find the coin when your helper knows where it is. Then guess how many when your helper does not know. Why do you think so?
 - **fair test:** Keep everything the same except one thing: whether your helper knows where the coin is. Use the same 3 cups, the same coin and 10 tries each round. Your helper must not speak or point.
@@ -437,8 +441,10 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Parent does:* Talk about how your child remembered.  
   *Parent says:* Which ones did you find first? How did you remember? Did you use the furniture as clues?  
   *Child mode:* How did you remember? Did you use landmarks, like the sofa or the door?
-  - Think: Nicola Clayton found that scrub jays remember what they hid, where, and when. Could you remember when you hid each one?
+  - Note: A good answer is to hide different things, such as a groundnut, a sweet and a raisin. Then ask your child to find the sweet first. That way they must remember what is where, not only where something is.
+  - Think: Scrub jays remember what they hid, where they hid it, and when. In this game you only had to remember where. How could you change the game so that you must remember what you hid as well?
 ### a3 · The Training Game: learning with claps (15 min)
+- **problem:** Animal trainers teach with rewards. They reward every small step towards what they want. In this game a clap is the reward. The learner must find a secret action, using only claps as clues.
 - **record:** Write how many claps it took each round.
 - **s1 (2 min)**  
   *Parent does:* Explain the game. The learner leaves the room while the trainer picks a secret action, like 'put the spoon on the chair'.  
@@ -472,6 +478,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Child mode:* Practise being a tree. Stand still. Arms down. Look at your feet. Breathe slowly.
   - Note: In India, children are often around street dogs. This safety habit matters. Any dog bite or scratch needs washing with soap and water for 15 minutes and a doctor the same day, because of rabies.
 ### a5 · Brain Line-up: is bigger cleverer? (10 min)
+- **problem:** A bigger brain is not always a cleverer one. What matters more is how many neurons are packed into it. Neurons are the tiny cells that pass messages in a brain. Here you line up kitchen things that are the size of four animals' brains. Then you find out which small brain holds a surprising amount.
 - **safety:** Keep the sesame seed away from children under 5.
 - **record:** Draw the line-up. Write the animal next to each object.
 - **s1 (4 min)**  
@@ -490,6 +497,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
   *Child mode:* Is bigger always cleverer? What do you think now? Why?
   - Note: A good answer: 'What I think: bigger isn't always cleverer. What I saw: the crow's brain is a walnut, but crows make hooks. Why: crows pack in lots of neurons.'
 ### a6 · Mirror, Mirror: who is that? (10 min)
+- **problem:** Scientists want to know if an animal understands that the animal in a mirror is themself. So they put a mark on the animal's body, where they can only see it in the mirror. If the animal touches the mark on their own body, they know the face in the mirror is theirs. Here you try the same test on yourself.
 - **safety:** Keep paint away from the eyes.
 - **record:** Draw yourself in the mirror with the sticker. Write which animals passed the test.
 - **s1 (3 min)**  
@@ -633,7 +641,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 9. (mcq) Brian Hare's team found that pet dogs follow pointing better than chimpanzees. Why might that be?  
    Options: Dogs have lived with people for thousands of years / Dogs have bigger brains than chimpanzees / Chimpanzees cannot see fingers  
    **Answer:** Dogs have lived with people for thousands of years. *Why:* Dogs have lived alongside people for a very long time, and grow up watching us. Dogs do not have bigger brains than chimpanzees. Chimpanzees can see fingers fine, but are less tuned to follow them.
-10. (write) Find the mistake. In the Thirsty Crow Test, someone filled the glass higher for the small stones than for the big stones. Why can't they compare the two counts?  
+10. (write) In the Thirsty Crow Test, the glass was filled higher for the small stones than for the big stones. Why can't we compare the two counts?  
    **Answer:** Because they changed two things at once: the size of the stones and the starting water level. The small stones had less space to fill, so the count is not fair. Both must start at the same line.. *Why:* In a fair test, you change only one thing. Everything else, like the starting level and the glass, stays the same.
 11. (perspective) Dogs are very good at following a pointing finger. Scientists explain why in different ways.  
    **Answer:** A strong answer picks a side and uses the evidence given, for example that untrained street dogs follow pointing, or that wolves raised by people can learn it. It notices that street dogs also live around people, so they might learn it too. Many answers end up saying both are partly true.. *Why:* Many scientists today think both are true: dogs are born ready to watch people, and living with people makes them better at it.
@@ -765,7 +773,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - Has a dog you know learned anything new this week?
 - How do you think the street dog knows which shop gives them food?
 - What did you remember today that you learned a long time ago?
-- If a cat could talk, what would they say about us?
+- A dog cannot tell us what they feel. What does a dog do that tells us?
 - Is that animal playing or fighting? How can you tell?
 - What is one thing an animal can do that you cannot?
 - When you feel happy, what does your face do? Could an animal tell?

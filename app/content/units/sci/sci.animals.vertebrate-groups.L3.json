@@ -257,7 +257,7 @@
    "concept": "Why making your own heat costs lots of food",
    "status": "defined",
    "definition": "Animals that make their own heat need many times more food than animals of the same size that take heat from outside.",
-   "description": "A stove needs fuel all the time. So does a warm body. A mouse needs to eat every day. A snake of the same weight can go for weeks without eating. Scientists have measured this. An animal that makes their own heat uses roughly five to ten times as much energy at rest. In return, they can stay active at night, in winter and in cold places. Animals that take their heat from outside save food. But they are slow when it is cold, and they must wait for the sun.",
+   "description": "A stove needs fuel all the time to stay hot. A body that makes its own heat needs food all the time, in the same way. A mouse needs to eat every day. A snake of the same weight can go for weeks without eating. Scientists have measured this. An animal that makes their own heat uses roughly five to ten times as much energy at rest. In return, they can stay active at night, in winter and in cold places. Animals that take their heat from outside save food. But they are slow when it is cold, and they must wait for the sun.",
    "examples": [
     "A tiny sunbird visits flowers all day long, because they burn food so fast.",
     "A python can eat one big meal and then rest for weeks.",
@@ -396,7 +396,7 @@
    "for": "Bird lungs with their air sacs are very special, and air flows through them in one direction.",
    "against": "In 2010, Colleen Farmer and Kent Sanders showed that air also flows one way through the lungs of alligators. This may be a very old trick, shared by birds and crocodiles.",
    "status": "rejected",
-   "context": "This card is about a surprise discovery in crocodile lungs."
+   "context": "In one-way breathing, air flows through the lungs in one direction only. It does not go in and out the same way. Birds are known for this, because of their air sacs. This card asks whether birds are the only animals that breathe this way."
   }
  ],
  "big_questions": [
@@ -465,7 +465,7 @@
    "\"Dadi,\" she whispered across the dark room. \"Where does the sparrow's fire come from?\"",
    "\"From the grain she eats,\" said Dadi sleepily.",
    "\"And where does the grain get it?\"",
-   "Dadi was quiet for so long that Noor thought she was asleep. Then she said, \"The bajra grows in the fields all summer, Noor. What do they drink all day, besides water?\"",
+   "Dadi was quiet for so long that Noor thought she was asleep. Then she said, \"The bajra grows in the fields all summer, Noor. All day they stand in the open, in the blazing sun. Besides water, what do they take in from it?\"",
    "Noor thought of the long summer days, the bajra plants standing in the blazing light, and she smiled into the dark.",
    "In the morning, the girgit was on their stone, grey and still, waiting. Noor did not call anyone this time. She sat down next to them with her hands under her shawl, and they waited for the sun together."
   ],
@@ -475,7 +475,7 @@
    "Why did the sun help the lizard but not the chick?",
    "Noor's quilt makes no heat. So how does it keep her warm?",
    "What did the mother sparrow do when the chick came back? Why?",
-   "Dadi asked what the bajra drinks all day. What do you think she meant?"
+   "Dadi asked what the bajra takes in from the sun, besides water. What do you think the answer is?"
   ],
   "art": [
    "A desert courtyard on a frosty morning, a grey still lizard on a flat stone by a neem tree, a girl in a shawl crouching beside them.",
@@ -826,7 +826,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "8 role cards (4 LIZARD, 4 SPARROW; use as many as you have players)",
+     "title": "8 role cards: 4 LIZARD and 4 SPARROW. Use as many as you have players.",
      "items": [
       "LIZARD",
       "LIZARD",
@@ -1075,7 +1075,7 @@
      "kid": "Three bottles are three animals. One has no coat. One has a dry coat. One has a wet coat.",
      "context": "This is step 2 of the fur coat test. Here you fill the bottles and dress two of them in socks.",
      "adult": true,
-     "parent": "Use water at about 45 °C: hot-bath warm, so you can keep a finger in it. In the next step you measure each bottle at the start. They should all be within one degree; if not, pour a little warm water out of the hottest one. No water thermometer? A digital fever thermometer works if the water starts at about 42 °C, because most read only between 32 and 42 °C. Dip only the tip, and wash it well afterwards. Do not use a steel flask with two walls: it keeps heat in so well that you will see almost no change."
+     "parent": "Use water at about 45 °C: hot-bath warm, so you can keep a finger in it. In the next step you measure each bottle at the start. They should all be within one degree. If not, pour a little warm water out of the hottest one. No water thermometer? A digital fever thermometer works if the water starts at about 42 °C, because most read only between 32 and 42 °C. Dip only the tip, and wash it well afterwards. Do not use a steel flask with two walls: it keeps heat in so well that you will see almost no change."
     },
     {
      "id": "s3",
@@ -1692,7 +1692,8 @@
       }
      ]
     }
-   ]
+   ],
+   "problem": "On a hot day, an animal must lose heat. When water dries off skin or a tongue, it carries heat away. People sweat and dogs pant. Elephants flap their big ears to cool their blood. In this activity you try each of these ways on yourself."
   },
   {
    "id": "a4",
@@ -1777,7 +1778,8 @@
      },
      "how": "a4"
     }
-   ]
+   ],
+   "problem": "Heat leaves a body through the skin. In this activity, a big bottle of warm water stands for an elephant. A small bottle stands for a mouse. You find out which one loses its heat faster. Then you work out what that means for how much each animal must eat."
   },
   {
    "id": "a5",
@@ -2364,14 +2366,14 @@
     },
     {
      "t": "perspective",
-     "p": "In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends, the first person and the second person, argue about which kind of animal has the better life there.",
+     "p": "In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends, Kavya and Farhan, argue about which kind of animal has the better life there.",
      "views": [
       {
-       "who": "The first person",
+       "who": "Kavya",
        "says": "The garden lizard has the better life. They take their heat from the sun, so they need only a few insects a week."
       },
       {
-       "who": "The second person",
+       "who": "Farhan",
        "says": "The desert gerbil, a kind of mouse, has the better life. They make their own heat, so they can hunt at night, when it is cool and a lizard is too cold to move."
       },
       {
@@ -3371,7 +3373,7 @@
    {
     "source": "Thich Nhat Hanh, The Sun My Heart (1988)",
     "teaching": "Thich Nhat Hanh wrote that the sun is a second heart beating outside our bodies. Without it, our own heart could not beat.",
-    "link": "In the story, Dadi asks what the bajra drinks all day besides water. The sparrow's warmth was made from grain that grew in sunlight."
+    "link": "In the story, Dadi reminds Noor that the bajra stands in the sun all day. The sparrow's warmth was made from grain that grew in sunlight."
    }
   ],
   "science": [
@@ -3408,5 +3410,5 @@
   "wrong_idea": "That no animal can live in air hotter than their own body, because a body heats up like any other object."
  },
  "playtest": "Played Five Families with 2 and with 4 players: all 25 cards and 5 question cards are listed, the score sheet now matches the scoring (points and bonus), and the bonus is for the fifth card on a mat. Played Sun, Shade and Snow with 2 and with 4: the 2-player rule was contradictory, so now the player is a lizard for 10 cards, then roles swap for 10 more; an empty food pile and sitting out are explained; tokens are ragi and the corners use a cloth. Did every experiment in a flat: the sock can be a woollen shawl, step 2 notes now point to the right step, the sunny tumbler note gives an honest expected difference (2 to 5 degrees, small on a cloudy day), the sabja eggs sit in moving air and the eggshell is only peeked at after 3 hours, the ice cube challenge has a bare comparison cube and an honest melting time, the frog sponge rules are clearer, the nest project needs 2 bottles, and the elephant-ear activity uses newspaper. Removed the pointless water-near-sockets safety line, the unused animal cards from the babies chart, one joke, internal video notes, and repeats (the frog egg question, the cold-blooded question and claim, the sweater and small-bottle questions), replacing one with a wet-dog question. Fixed the confusing mother/ladder line in the story. I could not watch the three videos, only confirm that the titles exist, so a parent is told to preview them. Science facts were read and not changed.",
- "warm": {"words": ["LUNGS", "GILLS", "SHADE", "BIRDS", "YOUNG"], "quiz": [["Birds and mammals make their own body heat from food.", true, "Their bodies use up food to stay warm, even when the air is cold."], ["A lizard is called cold-blooded because her blood is always cold.", false, "A lizard in the sun can have warm blood. She simply takes her heat from outside."], ["An animal that makes her own heat needs many times more food.", true, "Making heat uses up lots of food. A lizard of the same size needs far less."], ["Animals that make their own heat are more advanced than the others.", false, "Fish, amphibians and reptiles suit their lives well and need less food. The groups are branches of one tree, not steps on a ladder."], ["Fur, feathers and fat help keep an animal warm.", true, "They slow down heat leaking out of the body. This is called insulation."], ["Water drying off an animal's skin makes her hotter.", false, "Drying water carries heat away, so a wet animal in the wind cools down."], ["Reptiles and birds can lay eggs on dry land because their eggs have shells.", true, "A shell stops the egg drying out. Frog eggs are soft and must stay in water."], ["Animals that lay many eggs usually look after every egg.", false, "Animals with many eggs usually leave them. Animals with few young usually care for them."], ["Gills take oxygen out of water, while lungs take it out of air.", true, "Fish use gills in water; reptiles, birds and mammals use lungs to breathe air."], ["Most mammals lay soft eggs in water.", false, "Most mammals give birth to live babies and feed them milk."]], "odd": [[["Crow", "Cow", "Bat", "Lizard"], "Lizard", "Crows, cows and bats make their own heat from food; a lizard takes heat from outside."], [["Snake", "Crow", "Cow", "Rohu"], "Rohu", "Snakes, crows and cows breathe air with lungs; a rohu breathes with gills."], [["Crow", "Turtle", "Lizard", "Frog"], "Frog", "Crows, turtles and lizards lay shelled eggs on land; a frog lays soft eggs in water."], [["Panting", "Sitting in shade", "Wallowing in mud", "Huddling together"], "Huddling together", "Panting, shade and mud help an animal cool down; huddling helps keep warmth in."], [["Rohu", "Frog", "Catla", "Mugger crocodile"], "Mugger crocodile", "Rohu, frogs and catla usually leave their eggs; a mugger mother carries her babies."]]}
+ "warm": {"words": ["LUNGS", "GILLS", "SHADE", "BIRDS", "YOUNG"], "quiz": [["Birds and mammals make their own body heat from food.", true, "Their bodies use up food to stay warm, even when the air is cold."], ["A lizard is called cold-blooded because their blood is always cold.", false, "A lizard in the sun can have warm blood. They simply take their heat from outside."], ["An animal that makes their own heat needs many times more food.", true, "Making heat uses up lots of food. A lizard of the same size needs far less."], ["Animals that make their own heat are more advanced than the others.", false, "Fish, amphibians and reptiles suit their lives well and need less food. The groups are branches of one tree, not steps on a ladder."], ["Fur, feathers and fat help keep an animal warm.", true, "They slow down heat leaking out of the body. This is called insulation."], ["Water drying off an animal's skin makes them hotter.", false, "Drying water carries heat away, so a wet animal in the wind cools down."], ["Reptiles and birds can lay eggs on dry land because their eggs have shells.", true, "A shell stops the egg drying out. Frog eggs are soft and must stay in water."], ["Animals that lay many eggs usually look after every egg.", false, "Animals with many eggs usually leave them. Animals with few young usually care for them."], ["Gills take oxygen out of water, while lungs take it out of air.", true, "Fish use gills in water. Reptiles, birds and mammals use lungs to breathe air."], ["Most mammals lay soft eggs in water.", false, "Most mammals give birth to live babies and feed them milk."]], "odd": [[["Crow", "Cow", "Bat", "Lizard"], "Lizard", "Crows, cows and bats make their own heat from food. A lizard takes heat from outside."], [["Snake", "Crow", "Cow", "Rohu"], "Rohu", "Snakes, crows and cows breathe air with lungs. A rohu breathes with gills."], [["Crow", "Turtle", "Lizard", "Frog"], "Frog", "Crows, turtles and lizards lay shelled eggs on land. A frog lays soft eggs in water."], [["Panting", "Sitting in shade", "Wallowing in mud", "Huddling together"], "Huddling together", "Panting, shade and mud help an animal cool down. Huddling helps keep warmth in."], [["Rohu", "Frog", "Catla", "Mugger crocodile"], "Mugger crocodile", "Rohu, frogs and catla usually leave their eggs. A mugger mother carries her babies."]]}
 }

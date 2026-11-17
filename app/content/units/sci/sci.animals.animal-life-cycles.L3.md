@@ -18,7 +18,7 @@
 ## Terms
 - **Life cycle**: All the stages of an animal's life, in order. The last stage makes eggs or babies, so the cycle starts again. *e.g.* Egg, then chick, then hen. Then the hen lays an egg.
 - **Stage**: One part of a life cycle. The animal looks or lives differently in each stage. *e.g.* A tadpole is one stage of a frog's life.
-- **Egg**: The first stage for many animals. It holds a tiny beginning and the food it needs to grow. *e.g.* Hens, frogs, butterflies, snakes and fish all start as eggs.
+- **Egg**: The first stage for many animals. An egg holds the tiny start of a new animal and the food they need to grow. *e.g.* Hens, frogs, butterflies, snakes and fish all start as eggs.
 - **Hatch**: To break out of an egg. *e.g.* A chick hatches by pecking a crack in their shell.
 - **Young**: The baby stage of an animal, before they are grown up. *e.g.* A chick is the young of a hen. A tadpole is the young of a frog.
 - **Adult**: The grown-up stage. Adults can make eggs or babies of their own. *e.g.* A hen is an adult chicken. A butterfly is an adult insect.
@@ -53,13 +53,13 @@ Every animal started small. A hen started as an egg. You started as a single cel
 **Definition:** A hen's life cycle has three stages: egg, chick and adult. The chick looks like a small, fluffy hen. They grow bigger without changing their shape.
 
 A hen lays an egg. If a rooster has mated with her, the egg can grow a chick. The hen sits on her eggs to keep them warm, about as warm as your body. She turns them with her beak many times a day, so every side of the egg gets warm and the growing chick does not stick to the shell. Inside, the chick grows for 21 days. They use the yolk as food and the egg white for water and more food. On day 21 the chick pecks a crack with a tiny hard tip on their beak, called the egg tooth. They push their way out, wet and tired. In a few hours they are dry and fluffy, and they can walk and peck. At about five or six months old, a young hen lays her first egg.
-- e.g. Most shop eggs come from farms with no roosters. These eggs are not fertilised, so they can never hatch.
+- e.g. Most shop eggs come from farms with no roosters. No rooster has mated with these hens, so the eggs are not fertilised and can never hatch.
 - e.g. A chick follows the first moving thing they see, usually their mother. They learn to peck by copying her.
 - e.g. Wild chickens still live in Indian forests. They are called red junglefowl. Farm chickens come mainly from them.
 ### Inside an egg · *defined*
 **Definition:** An egg is a complete home and food store for a growing chick. Each part has a job.
 
-A chick growing in an egg has three problems. They need food for three weeks, they need air, and they must not be squashed. Each part of the egg solves one of these. The yellow ball is the yolk. It is the chick's food. On top of the yolk is a tiny white spot. In a fertilised egg, this is where the chick begins. The clear egg white holds water and cushions the yolk. Two twisted white cords, called chalazae, hold the yolk in the middle. Under the shell are two thin skins, called membranes. At the round end they come apart and leave a pocket of air. The shell looks solid, but it has thousands of tiny holes, so air can pass in and out.
+A chick growing in an egg has three problems. They need food for three weeks, they need air, and they must not be squashed. Each part of the egg solves one of these. The yellow ball is the yolk. It is the chick's food. On top of the yolk is a tiny white spot. In a fertilised egg, from a hen who has mated with a rooster, this is where the chick begins. The clear egg white holds water and cushions the yolk. Two twisted white cords, called chalazae, hold the yolk in the middle. Under the shell are two thin skins, called membranes. At the round end they come apart and leave a pocket of air. The shell looks solid, but it has thousands of tiny holes, so air can pass in and out.
 - e.g. The air pocket is at the fat, round end of the egg. The chick's beak pokes into this pocket just before hatching.
 - e.g. Put a raw egg in very hot water, and tiny bubbles come out of the shell. The warmed air inside is escaping through the holes.
 - e.g. Brown and white eggs are the same inside. The shell colour depends on the kind of hen.
@@ -101,7 +101,7 @@ Why would an animal rebuild their whole body? Scientists have three main ideas. 
 **Definition:** A hormone is a chemical message carried in the blood. Hormones tell a young animal's body when to start changing.
 
 How does a tadpole know when to become a frog? A small part of their neck, called the thyroid, makes a hormone. When there is enough of this hormone in the blood, the change starts. Legs grow, the gills go and the tail shrinks. In 1912, a scientist named Friedrich Gudernatsch fed tadpoles a little dried thyroid from a horse. They turned into tiny frogs much too early. Insects use different hormones, but they work the same way. A caterpillar and the butterfly they become have exactly the same genes. Genes are the instructions inside every cell. Hormones switch on different instructions at different times, so one set of genes builds two very different bodies.
-- e.g. Your thyroid makes the same hormone as a tadpole's. It helps you grow. It needs iodine, which is why salt in India has iodine added.
+- e.g. Your thyroid makes the same hormone as a tadpole's. It helps you grow. Your thyroid needs iodine to make this hormone. That is why salt in India has iodine added, so that people get enough.
 - e.g. Tadpoles in warm water usually change sooner than tadpoles in cold water.
 - e.g. If you test the genes of a caterpillar and of the butterfly they became, they match exactly.
 ### Are they still the same animal? · *debated*
@@ -118,8 +118,8 @@ A caterpillar is broken down and rebuilt into a butterfly. So is the butterfly t
 Maria Sibylla Merian was born in Germany in 1647. At 13, she began raising caterpillars at home. She painted each one with their eggs, their chrysalis and the plant they ate. In 1679 she published a book on how caterpillars change into butterflies and moths. At 52, she sailed to Suriname in South America with her daughter to study insects there. For a long time people called her an artist, not a scientist. Today she is honoured as one of the first people to study life cycles properly.
 - e.g. Merian painted the plant each caterpillar ate, because she saw that the mother butterfly chooses that plant.
 - e.g. A Dutch scientist, Jan Swammerdam, cut open caterpillars in the 1660s. He found folded wings already growing inside.
-### Going further out: the material goes round · *idea*
-A life cycle is a circle of animals. The material in them goes round in a bigger circle. A caterpillar eats leaves, and the leaves were built from air, water and sunlight. When a butterfly dies, small animals and microbes break their body down. Their atoms go back into the soil and air, and plants take them up again. So the atoms in a butterfly's wing may once have been in a frog, a hen or a person. Almost all the atoms in an egg, apart from hydrogen, were made inside stars long ago.
+### Where the material in a body comes from, and where it goes · *idea*
+A life cycle is a circle of stages for one kind of animal. The material inside the animals also goes round, in a much bigger circle. A caterpillar eats leaves, and the leaves were built from air, water and sunlight. When a butterfly dies, small animals and microbes break their body down. Their atoms, the tiny bits that all material is made of, go back into the soil and air, and plants take them up again. So the atoms in a butterfly's wing may once have been in a frog, a hen or a person. Almost all the atoms in an egg, apart from hydrogen, were made inside stars long ago.
 - e.g. Leaves that fall become soil. The soil feeds new plants.
 - e.g. The calcium in an eggshell came from the hen's food, and before that from rocks.
 - e.g. Scientists agree that the carbon and oxygen in your body were made in stars.
@@ -147,15 +147,15 @@ Scientists are not sure how complete metamorphosis first began, more than 300 mi
   Against: Francesco Redi covered meat jars with thin cloth in 1668. No maggots grew in them. Maria Sibylla Merian and others watched insects lay eggs and raised the young. Every animal comes from an egg or a parent.
 - **Inside the chrysalis, the caterpillar turns completely into soup.** (Many books, websites and teachers say this.; *rejected*)  
   For: If you open a chrysalis a few days in, much of the inside is runny. Most of the caterpillar's body really is broken down.  
-  Against: Not everything becomes soup. The small groups of waiting cells stay whole and grow into wings, legs and eyes. Parts of the nerves and breathing tubes are kept and rebuilt.
+  Against: Not everything becomes soup. Small groups of cells that have been waiting inside the caterpillar stay whole and grow into wings, legs and eyes. Parts of the nerves and breathing tubes are kept and rebuilt.
 - **A butterfly comes out of a cocoon.** (A very common mistake, even in some famous picture books.; *rejected*)  
   For: Moths do come out of cocoons. Both are cases that hold a pupa, so people mix them up.  
   Against: A cocoon is a silk case that a moth caterpillar spins around themself. Most butterfly caterpillars spin no silk case. Their own hard skin is the chrysalis.
 - **Caterpillars began when an ancient insect mated with a worm-like animal, and their two life cycles joined.** (Donald Williamson, a British scientist, from the 1990s to the 2000s.; *rejected*)  
   For: It would explain why a larva and an adult look like two different animals.  
-  Against: Gene studies show that a caterpillar's genes come from their insect parents, like all their other genes. No sign of another animal's genes has been found. Most scientists reject the idea.
+  Against: Gene studies show that the genes for the caterpillar's body come from the insect's own parents, like all their other genes. No sign of another animal's genes has been found. Most scientists reject the idea.
 - **A caterpillar is like a baby that hatched very early, before they had finished growing in the egg.** (James Truman and Lynn Riddiford, two scientists in the USA, in 1999.; *debated*)  
-  For: The waiting cells in a caterpillar are like the parts of an embryo that have not grown yet. The same hormones are involved in both.  
+  For: A caterpillar carries small groups of cells that wait, then grow into wings, legs and eyes. These waiting cells are like the parts of an embryo that have not grown yet. The same hormones are involved in both.  
   Against: It is hard to test something that began more than 300 million years ago. Other scientists have different ideas about how the pupa stage began.
 - **If you touch a tadpole or a caterpillar, they will die.** (Something many children are told.; *rejected*)  
   For: It is true that soft young animals are easily hurt. Tadpoles need wet skin, and squeezing a caterpillar can harm them.  
@@ -164,7 +164,7 @@ Scientists are not sure how complete metamorphosis first began, more than 300 mi
 ## Roots
 We have been learning how a chick grows inside an egg and how a tadpole becomes a frog. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** The egg you opened held a yolk, a white and a tiny white spot, but no chick. If the egg is fertilised and kept warm, a chick takes shape in that spot. Their heart beats on day 2, their eyes form next, and their feathers grow from about day 9. A chick is built part by part over 21 days, from an egg that held none of those parts.  
+**Deep truth.** In Open an Egg like a Scientist, the egg held a yolk, a white and a spot, but no chick. If the egg is fertilised and kept warm, a chick takes shape in that spot. Their heart beats on day 2, their eyes form next, and their feathers grow from about day 9. A chick is built part by part over 21 days, from an egg that held none of those parts.  
 *Habit it breaks:* We picture a tiny chick curled up in every egg, only waiting to grow bigger and hatch. Many scientists believed this too, in the 1600s and 1700s. In fact the egg holds the chick's food and a tiny spot, and the chick's parts are made one after another.  
 *Evidence:* In Open an Egg like a Scientist, you found a yolk, a white, two twisted cords and a tiny white spot, but no chick. Scientists who open eggs on each day of warming see the heart, the eyes and the feathers form one after another. The chick video in this unit shows the same.
 
@@ -174,9 +174,9 @@ We have been learning how a chick grows inside an egg and how a tadpole becomes 
 
 A chick, a frog and a butterfly each build a new body out of material that is already there. The chick uses the yolk and white. The tadpole uses their own tail. The butterfly is built from the broken-down caterpillar. All of that material came from food, which came from plants, which were built from air, water and sunlight. So the same material passes from body to body, and takes a new shape each time.
 
-- **Zhuangzi, chapter 2 (Discussion on Making All Things Equal), the butterfly dream:** Zhuangzi, a Chinese thinker, dreamed he was a butterfly, happily fluttering. He woke up and was Zhuangzi again. Then he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man? He said this is called 'the changing of things'. (A caterpillar becomes a butterfly and is still one living thing. Zhuangzi asks whether 'me' is as fixed as it feels.)
-- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.' (Shvetaketu could see nothing inside the seed, yet a whole tree grows from them. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from that spot.)
-- **Heraclitus, quoted by Plato in Cratylus 402a:** Heraclitus, a Greek thinker, said that everything flows. You cannot step into the same river twice, because new water is always flowing in. (A body is like a river. Its material keeps changing, but the animal goes on. A tadpole's tail becomes part of the frog, and the frog goes on.)
+- **Zhuangzi, chapter 2 (Discussion on Making All Things Equal), the butterfly dream:** Zhuangzi, a Chinese thinker, dreamed he was a butterfly, happily fluttering. He woke up and was Zhuangzi again. Then he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man? He said this is called 'the changing of things'. (A caterpillar becomes a butterfly and is still one living thing. Zhuangzi asks whether who you are is as fixed as it feels.)
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.' (Shvetaketu could see nothing inside the seed, yet a whole tree grows from this seed. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from that spot.)
+- **Heraclitus, quoted by Plato in Cratylus 402a:** Heraclitus, a Greek thinker, said that everything flows. You cannot step into the same river twice, because new water is always flowing in. (Water keeps flowing through a river, yet it is still the same river. In the same way, the material in a body keeps changing, yet the animal goes on. A tadpole's tail becomes part of the frog, and the frog goes on.)
 - Science (settled): A living body is built from what it takes in: food, water and air.
 - Science (settled): Your own body rebuilds itself all the time. Your red blood cells last about four months and are then replaced.
 - Other view, Many biologists, and the Charvaka thinkers of ancient India: Many biologists say a growing chick or a changing tadpole is chemistry following genes, step by step. They say nothing more is needed to explain it. The Charvaka thinkers said only matter is real. Many careful people hold this view.
@@ -187,9 +187,9 @@ A chick, a frog and a butterfly each build a new body out of material that is al
 - Ask: Where were the atoms of your hand before they were in you?
 
 ## Deep and big questions
-- *deep:* Where does a tadpole's tail go? (hint: It does not fall off. Look again at the card on metamorphosis. What does the body use the tail for?)
+- *deep:* Where does a tadpole's tail go? (hint: It does not fall off. The tail gets shorter a little each day, and the tadpole stops eating while the tail shrinks. What could the body be using the tail for?)
 - *deep:* Is the butterfly the same animal as the caterpillar they were? (hint: Think about their genes, their body and their memories. Which ones change, and which stay?)
-- *deep:* How does a waiting cell inside a caterpillar know to become a wing and not a leg? (hint: Every cell has the same instructions inside. Maybe each one is told which part of the instructions to use.)
+- *deep:* Small groups of cells wait inside a caterpillar and later grow into the butterfly's parts. How does one group know to become a wing and not a leg? (hint: Every cell has the same instructions inside. Maybe each one is told which part of the instructions to use.)
 - *deep:* Which came first, the chicken or the egg? (hint: Fish and reptiles were laying eggs hundreds of millions of years before there were any chickens.)
 - *deep:* Why does a chick need 21 days in an egg, but a lime butterfly egg hatches in a few days? (hint: Compare how big the egg is, how much food it holds, and how much has to be built inside.)
 - *big:* You were once a single cell, smaller than a full stop. Are you the same person you were as a baby? (hint: Your body and your face have changed. What has stayed the same?)
@@ -314,7 +314,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Child mode:* Who laid down the most animals? They win! Which animal's life would you like to live? Why?
   - Think: If you were a caterpillar, would you want to become a butterfly? Would you still be you?
 ### g2 · Grow Up! Three race tracks (20 min)
-- **rules:** Each player picks an animal and puts a counter on square 1 of that animal's track. Two players may pick the same animal.; Take turns to roll the dice and move that many squares.; Read your square out loud and do what it says. If it says move on or go back, move and stop. Do not read the new square. Never go back past square 1. 'Miss a turn' means you do not roll the next time it is your turn.; If a square has no move on, go back or miss a turn, say what is changing in your body or what is happening to you.; The first player to reach square 15 wins. You do not need an exact roll. Then everyone says one thing their animal could do as an adult that they could not do as a baby.
+- **rules:** Each player picks an animal and puts a counter on square 1 of that animal's track. Two players may pick the same animal.; Take turns to roll the dice and move that many squares.; Read your square out loud and do what it says. If it says move on or go back, move and stop. Do not read the new square. Never go back past square 1. 'Miss a turn' means you do not roll the next time it is your turn.; If your square does not tell you to move on, go back or miss a turn, say what is changing in your body or what is happening to you.; The first player to reach square 15 wins. You do not need an exact roll. Then everyone says one thing their animal could do as an adult that they could not do as a baby.
 - **Printable board: Three tracks of 15 squares each: 45 squares:** FROG 1: Frogspawn in a puddle. Start here.; FROG 2: You hatch and wriggle free.; FROG 3: A fish swims by. Hide in the weeds: miss a turn.; FROG 4: Eat slime: move on 1.; FROG 5: The puddle is drying: go back 2.; FROG 6: Rain! Move on 2.; FROG 7: Your back legs grow.; FROG 8: A heron looks down: miss a turn.; FROG 9: Your front legs pop out.; FROG 10: Stop eating: you live on your tail. Move on 1.; FROG 11: Your lungs grow: you breathe air now.; FROG 12: Your tail shrinks: move on 1.; FROG 13: You climb onto a stone.; FROG 14: You catch your first insect.; FROG 15: FROG! You win.; BUTTERFLY 1: Egg on a curry leaf. Start here.; BUTTERFLY 2: You hatch and eat your eggshell.; BUTTERFLY 3: You look like a bird dropping, so a bird flies past: move on 1.; BUTTERFLY 4: Eat, eat, eat: move on 2.; BUTTERFLY 5: Your skin is too tight, so you moult: miss a turn.; BUTTERFLY 6: A wasp hunts you: go back 2.; BUTTERFLY 7: You turn green, the colour of the leaves: move on 1.; BUTTERFLY 8: You moult again.; BUTTERFLY 9: You pick a safe stem.; BUTTERFLY 10: You tie yourself on with a silk belt.; BUTTERFLY 11: Chrysalis: miss a turn while your body is rebuilt.; BUTTERFLY 12: Waiting cells grow into wings.; BUTTERFLY 13: You split the case and climb out.; BUTTERFLY 14: You pump up your wings and wait for them to dry.; BUTTERFLY 15: BUTTERFLY! You win.; HEN 1: Egg in a warm nest. Start here.; HEN 2: Your mother turns your egg: move on 1.; HEN 3: Day 2: your heart starts beating.; HEN 4: The nest gets cold: go back 1.; HEN 5: You use up yolk to grow: move on 2.; HEN 6: Your feathers start growing.; HEN 7: A mongoose comes near, and your mother scares the mongoose away: move on 1.; HEN 8: Day 19: you poke your beak into the air pocket.; HEN 9: You breathe with your lungs.; HEN 10: You peck the shell with your egg tooth.; HEN 11: Hatch! Rest and dry: miss a turn.; HEN 12: You follow your mother.; HEN 13: You learn to scratch for food.; HEN 14: You grow real feathers.; HEN 15: HEN! You win.
 - **Printable tokens: Counters and a dice:** Cut 4 small squares of card and colour each one differently. These are the counters.; One dice from any board game, or write 1 to 6 on six small papers, fold them and pick one without looking.
 - **s1 (2 min)**  
@@ -335,6 +335,7 @@ She thought that she should write to Farida about it. She thought that when she 
 
 ## Experiments
 ### e1 · Can an egg breathe? Bubbles from a shell (20 min)
+- **problem:** Warm air spreads out and takes up more room. So when an egg is warmed, the air inside pushes outwards. If the shell has tiny holes, we should see that air come out as bubbles. That is why we use very hot water. It warms the egg quickly, so we can see the air escaping.
 - **question:** Can air get in and out through an eggshell?
 - **predict:** Before you start, guess. We will put one egg in very hot water and one in cold water. Will anything come out of the shells? Will it come from the round end, the pointed end, or all over? Why do you think so?
 - **fair test:** To make it fair, use two eggs from the same box, two glasses the same size and the same amount of water. Only the warmth of the water changes. Watch each egg for the same time, one minute, and count both halves in that same minute.
@@ -357,15 +358,15 @@ She thought that she should write to Farida about it. She thought that when she 
   *Child mode:* Watch the shells. Don't touch the glasses. What do you see?
   - Note: In very hot water, thin trails of tiny bubbles rise from the shell within a few seconds. There are usually more at the fat, round end, where the air pocket is. In cold water there are usually none. If you see only a few bubbles, the water was not hot enough. Try again with hotter water. If a shell cracks and white leaks out, use another egg. In the cold glass you may see a few tiny bubbles stuck to the shell. These do not rise in trails. Bubbles on the wall of the glass come from the water, not from the egg, so do not count them.
 - **s4 (5 min)**  
-  *Parent does:* 1. Watch the hot egg for one minute. Two people count at once: one counts the trails of bubbles from the round half, the other from the pointed half. 2. On your own, film the egg for a minute on a phone and count afterwards. 3. Look at the cold egg. 4. Write the numbers in the table.  
+  *Parent does:* 1. Watch the hot egg for one minute. Two people count at once: one counts the trails of bubbles from the round half, the other from the pointed half. 2. If there is only one of you, film the egg for a minute on a phone and count afterwards. 3. Look at the cold egg. 4. Write the numbers in the table.  
   *Parent says:* Let's count the thin lines of bubbles. Each line is coming out of one tiny hole, or a few. Make a tally mark for each line.  
   *Child mode:* Count the lines of bubbles at the round end. Your helper counts at the pointed end, at the same time. Make tally marks. Then look at the cold egg.
-  - Check: In the eggshell test, bubbles came out of the egg in very hot water. What does this show? → **The shell has tiny holes that let air through**
+  - Check: In the eggshell bubbles experiment, bubbles came out of the egg in very hot water. What does this show? → **The shell has tiny holes that let air through**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this (the numbers are made up). What I think: an eggshell has tiny holes that let air through. What I saw: in hot water, about 17 lines of bubbles came from the round half and 6 from the pointed half. In cold water there were none. Why: the heat made the air inside swell and push out through the holes. There is an air pocket at the round end, so more came out there. A chick breathes through the same holes.
+  *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this (the numbers are made up). What I think: an eggshell has tiny holes that let air through. What I saw: in hot water, about 17 lines of bubbles came from the round half and 6 from the pointed half. In cold water there were none. Why: the heat made the air inside swell and push out through the holes. There is an air pocket at the round end, so more came out there. A chick breathes through the same holes. For the last question, a good answer is about the two thin skins under the shell. They help keep germs and water out. Air can still pass through.
   - Think: A hen's eggshell has thousands of tiny holes. Why don't germs and water get in more easily? Hint: there is a thin skin under the shell.
 ### e2 · The Naked Egg: what is under the shell? (35 min, 3 days)
 - **question:** What holds an egg together if the shell is taken away?
@@ -399,9 +400,9 @@ She thought that she should write to Farida about it. She thought that when she 
 - **s5 (7 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then throw the egg away and wash hands.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? And why did it happen?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: an egg has a skin under its shell that holds it together. What I saw: after two days in vinegar the shell was gone, but the egg stayed whole and bounced a little. It also grew from 14 to 15 centimetres around (made-up numbers). Why: the vinegar broke down the shell, but not the skins. Water soaked in through the skins, so the egg got bigger.
-  - Think: The shell keeps the chick safe, and the skins keep germs out. What else in nature has a hard outside and a soft skin inside?
+  *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
+  - Note: A good answer sounds like this. What I think: an egg has a skin under its shell that holds it together. What I saw: after two days in vinegar the shell was gone, but the egg stayed whole and bounced a little. It also grew from 14 to 15 centimetres around (made-up numbers). Why: the vinegar broke down the shell, but not the skins. Water soaked in through the skins, so the egg got bigger. For the last question, a good answer has two parts. The hard shell protects the egg from knocks and squashing. The soft skins hold the egg together and keep germs out. Each one does a job the other cannot do.
+  - Think: The shell keeps the chick safe, and the skins keep germs out. Why does an egg need both a hard shell and soft skins, and not just one of them?
 ### e3 · Tadpole Watch: where does the tail go? (if you live near a pond in the monsoon) (60 min, 42 days)
 - **question:** As a tadpole becomes a frog, which legs come first, and does their tail fall off or shrink a little each day?
 - **predict:** Before you start, guess. Will the back legs or the front legs come first? Will the tail drop off in one go, or get shorter slowly? Why do you think so?
@@ -435,14 +436,14 @@ She thought that she should write to Farida about it. She thought that when she 
   - Wait: Around day 25 to 35
 - **s5 (15 min) · grown-up needed**  
   *Parent does:* 1. When each froglet has only a tiny tail stub, carry the tub to the pond. 2. Tip the froglets gently onto the mud at the edge. 3. At home, draw a line chart of one tadpole's tail length.  
-  *Parent says:* They're ready. Let's take them home. Then we'll make a picture of what happened to the tail.  
+  *Parent says:* They're ready. Let's take them back to their pond. Then we'll draw a line chart of what happened to the tail.  
   *Child mode:* Take your froglets back to their pond. Let them hop away. Then draw a line chart of tail length.
   - Note: Tadpoles change at their own speed, and some take up to three months. Keep going until each has only a stub of tail.
   - Wait: Around day 40 to 45
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think happens to a tadpole's tail? What did you see? Why?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: the tail doesn't fall off, it goes into the body. What I saw: the tail grew to 18 millimetres, then shrank a little every day, to 8 and then 2. We never found a tail in the tub, and the tadpoles stopped eating. Why: the body breaks the tail down and uses it to build the frog.
 
 ## Activities
@@ -463,7 +464,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent says:* The yellow ball is the yolk. It is the chick's food. The clear part is the white. It holds water and cushions the yolk. These two white twisted cords are like ropes holding the yolk in the middle. Can you find a tiny white spot on top of the yolk?  
   *Child mode:* Find the yellow yolk. It's food for a chick. Find the clear white. It holds water. Find the two twisted cords. Look for a tiny white spot on the yolk.
   - Note: The white spot is called the germinal disc. A chick would begin there if the egg were fertilised. Most shop eggs are not fertilised, so it stays a spot. The twisted cords are called chalazae. Some people think they are the start of a chick, but they only hold the yolk in place.
-  - Check: In the egg on the plate, which part is food for a growing chick? → **The yolk**
+  - Check: In Open an Egg like a Scientist, which part of the egg is food for a growing chick? → **The yolk**
 - **s4 (4 min)**  
   *Parent does:* 1. Look inside the round end of the empty shell. 2. Peel back the thin skin with a fingernail. 3. Find the small hollow where the air pocket was.  
   *Parent says:* Under the shell there are two thin skins. At the round end, they come apart and leave a pocket of air. Just before hatching, the chick pokes their beak into this pocket and takes their first breath.  
@@ -472,6 +473,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent does:* Ask your child to draw the egg and label six parts: shell, skin, air pocket, white, cords and yolk with its spot.  
   *Parent says:* Draw what you found, like a scientist. Label every part, and write one job next to each.  
   *Child mode:* Draw your egg. Label the parts. Write one job for each part.
+  - Note: A good answer to the last question has two parts. Air comes in through the tiny holes in the shell. Warmth comes from the hen sitting on the egg.
   - Think: Everything a chick needs for three weeks is inside this egg, except two things. What comes in from outside? Hint: think about air and warmth.
 ### a2 · Three Life Cycle Wheels (25 min)
 - **safety:** Split pins and thumb pins are sharp. A grown-up pushes them through the plates.
@@ -491,7 +493,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Child mode:* Spin the arrow. Where did it stop? Say what the animal does now, and what comes next.
   - Ask: Why does the hen wheel have fewer parts? (good: The chick already looks like a hen.; They don't change shape, they just grow.; There is no tadpole or caterpillar stage.)
 ### a3 · Be a Caterpillar, Be a Butterfly (12 min)
-- **safety:** Keep the sheet loose around the body, never over the face.
+- **safety:** Keep the sari loose around the body, never over the face.
 - **record:** Draw yourself in your favourite stage.
 - **s1 (2 min)**  
   *Parent does:* Your child curls up small on the floor.  
@@ -506,13 +508,14 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent does:* Wrap the sari loosely round your child up to the shoulders. They stand very still for one minute.  
   *Parent says:* Now stop eating. Hang still. You are a chrysalis. From the outside, nothing is happening. Inside, your body is being rebuilt. Waiting cells are growing wings. Stay still and feel your wings growing.  
   *Child mode:* Stop eating. Stand very still. You are a chrysalis. Inside, your body is being rebuilt. Feel your wings growing.
-  - Note: Count slowly to 60 together. Children find stillness hard, which makes the point. The chrysalis is the busiest stage, even though it looks like nothing is happening.
+  - Note: Count slowly to 60 together. Staying still is hard for children. Tell them that a chrysalis looks as if nothing is happening, but it is the busiest stage.
 - **s4 (2 min)**  
   *Parent does:* Your child wriggles out of the sari, stands, and slowly spreads their arms.  
   *Parent says:* Split your case! Climb out. Your wings are crumpled and wet. Pump them slowly. Wait for them to dry. Now fly, find a flower, and drink.  
   *Child mode:* Break out! Your wings are wet and crumpled. Open them slowly. Now fly to a flower.
   - Think: Were you the same you all the way through, egg to butterfly?
 ### a4 · Rebuild the Body: from caterpillar to butterfly (15 min)
+- **problem:** Inside a caterpillar are small groups of cells that wait. In the chrysalis they grow into wings, legs and eyes. They use the caterpillar's own broken-down body as building material. In this activity the dough is the caterpillar's body. Four tiny folded papers stand for the waiting cells. You squash the dough, then build a butterfly from the same dough. This shows that no new material is added.
 - **record:** Draw the caterpillar, the ball and the butterfly. Write: 'The butterfly was built from the caterpillar.'
 - **s1 (4 min)**  
   *Parent does:* 1. Your child rolls the dough into a long caterpillar. 2. Fold four small papers very tiny. 3. Press them inside the caterpillar, two on each side.  
@@ -526,13 +529,14 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent does:* 1. Find the four papers. 2. Unfold them into wings. 3. Shape the dough into a butterfly body, with a head, six legs and two feelers. 4. Stick the wings on.  
   *Parent says:* The waiting cells grow fast. They use the broken-down caterpillar as building material. Use all the dough. Nothing is thrown away.  
   *Child mode:* Find the papers. Unfold them into wings. Make a butterfly body from all the dough. Use it all.
-  - Check: In the dough model, where did the butterfly's body come from? → **From the caterpillar's own material**
+  - Check: In Rebuild the Body, where did the butterfly's body come from? → **From the caterpillar's own material**
 - **s4 (3 min)**  
   *Parent does:* Talk about what the model gets right and what it gets wrong.  
   *Parent says:* Our model is a bit like the real thing. But in a real chrysalis, some parts of the caterpillar, like bits of the nerves, are kept and changed, not broken down. What else might our model get wrong?  
   *Child mode:* Is our model just like a real chrysalis? What is different? Say one thing.
   - Ask: What does the dough model get wrong? (good: Real waiting cells grow, they don't just unfold.; A real chrysalis keeps some parts.; Real wings are made of cells, not paper.; It takes about two weeks, not one minute.)
 ### a5 · Curry Leaf Hunt: find a lime butterfly family (20 min)
+- **problem:** A butterfly called the lime butterfly lays her eggs on curry leaf, lemon and orange plants. Her caterpillars eat only these leaves. Young caterpillars look like bird droppings, so birds leave them alone. Can you find eggs, caterpillars or a chrysalis on a plant near you?
 - **safety:** Look, don't touch. If a caterpillar shows two orange horns, they are warning you off with a smell. Leave them in peace.
 - **record:** Draw each thing you find. Write where on the plant you found each one: top of a leaf, under a leaf, or on a stem.
 - **s1 (3 min) · grown-up needed**  
@@ -556,6 +560,7 @@ She thought that she should write to Farida about it. She thought that when she 
   - Ask: Why does the butterfly lay eggs only on certain plants? (good: Her caterpillars can only eat those leaves.; So the babies have food as soon as they hatch.; She can't feed them herself.)
   - Think: A butterfly mother never meets her babies. How does she still look after them?
 ### a6 · Wriggler Check: find and stop mosquito babies (15 min)
+- **problem:** Mosquito babies live in still water. They are called wrigglers. If we find still water and tip it out, the wrigglers cannot grow into flying mosquitoes. Where could mosquito babies be hiding around your home?
 - **safety:** Wash hands after touching standing water. Never drink it.
 - **record:** Make a list of every place you checked. Write yes or no for wrigglers. Write what you did.
 - **s1 (5 min) · grown-up needed**  
@@ -593,7 +598,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent does:* When you find a crumpled empty skin, look at it with the magnifying glass.  
   *Parent says:* Look, an old skin. The caterpillar grew a new, bigger skin underneath and wriggled out of this one. That is called moulting.  
   *Child mode:* Find the empty skin. Look at it closely. Your caterpillar got too big for that skin!
-  - Check: In the butterfly diary, the caterpillar went from brown and white to green after a moult. Are they still a caterpillar? → **Yes, they moulted but they are still a caterpillar**
+  - Check: In Raise a Lime Butterfly, the caterpillar went from brown and white to green after a moult. Are they still a caterpillar? → **Yes, they moulted but they are still a caterpillar**
   - Wait: Around day 6 to 10
 - **s4 (10 min)**  
   *Parent does:* When the caterpillar stops eating and wanders around the cage, watch closely. They will choose a stem and spin a silk belt.  
@@ -610,12 +615,12 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent does:* 1. When the chrysalis turns dark and you see wing colours, check often. 2. Watch the butterfly come out. 3. Wait 2 to 3 hours for their wings to dry. 4. Take the cage to the plant and open the cage.  
   *Parent says:* Here they come. Their wings are soft and crumpled. They are pumping blood into them. Don't help them. They need to do this themself to make their wings strong.  
   *Child mode:* The butterfly is coming out! Watch them pump up their wings. Don't help. Wait for them to dry. Then let them go.
-  - Ask: What surprised you most in your butterfly's life? (good: How fast the caterpillar grew.; They looked like a bird dropping.; The chrysalis didn't move at all.; The wings were crumpled at first.)
+  - Ask: Which stage of your butterfly's life did all the growing, and which stage did none? (good: The caterpillar did all the growing, from about 4 to 40 millimetres.; The chrysalis did not eat or grow. Their body was being rebuilt.; The butterfly does not grow any more after they come out.; Your diary numbers show the caterpillar's length going up fast, then stopping.)
   - Wait: Around day 26 to 30
 - **s7 (15 min)**  
   *Parent does:* Make a line chart of the caterpillar's length from the diary. Then finish with three sentences: what I think, what I saw and why.  
-  *Parent says:* Let's turn your diary into a picture. Then tell me what you think, what you saw and why.  
-  *Child mode:* Draw a line chart from your diary. Then say: what I think, what I saw, why.
+  *Parent says:* Let's turn your diary into a line chart. Then tell me what you think, what you saw and why.  
+  *Child mode:* Draw a line chart from your diary. Then say three things: what you think, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: a caterpillar grows fast and then rebuilds into a butterfly. What I saw (made-up numbers): they grew from 4 to 40 millimetres in about two weeks, moulted, then hung still for 10 days, and a butterfly came out. Why: the caterpillar stores up material by eating, and the chrysalis uses it to build the butterfly.
 
 ## Challenges
@@ -687,13 +692,13 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** False. *Why:* False. A hen lays eggs without a rooster. But an egg from a hen who was not with a rooster can never hatch into a chick. That is why shop eggs do not have chicks in them.
 11. (draw) Draw the life cycle of a hen as a circle, with arrows between the stages. Then write one way it is different from a frog's life cycle.  
    **Answer:** Egg, chick, adult hen, with an arrow back to the egg. A strong answer says the chick already looks like a small hen, while a tadpole looks nothing like a frog.. *Why:* A life cycle is drawn as a circle, because the adult hen lays eggs and the cycle starts again. A hen has no metamorphosis.
-12. (write) Your friend Nila says, 'A caterpillar and a butterfly are two different animals.' What would you tell her?  
+12. (write) A friend says, 'A caterpillar and a butterfly are two different animals.' What would you tell your friend?  
    **Answer:** They are the same animal at two different stages of their life. The caterpillar makes a chrysalis, and their body is rebuilt into the butterfly. They even have the same genes.. *Why:* Metamorphosis changes the body, but it is one animal all the way through. Scientists check this with genes, which match exactly.
 13. (write) In the Wriggler Check, you looked for mosquito babies in still water at home. Why does tipping out the water in a flowerpot tray stop mosquitoes?  
    **Answer:** Mosquito eggs, wrigglers and tumblers all live in water. If the water is tipped out, the young cannot grow into flying adults. Doing it every week breaks the life cycle.. *Why:* Three of the four stages of a mosquito live in water. Take away the water, and the cycle stops before the adult stage.
 14. (match) Match each part of an egg to its job.  
    **Answer:** yolk → food for the chick; white → water and a cushion; twisted cords → hold the yolk in the middle; shell → protects, and lets air in through tiny holes. *Why:* Every part of an egg does a job for the growing chick. Together they make a complete home and food store.
-15. (perspective) Two sisters argue about which way of growing up works better.  
+15. (perspective) Here are two views on which way of growing up works better.  
    **Answer:** A strong answer picks a side and gives a reason, such as young and adults using different food, or a chick being ready to move at once. It also names a real cost of its own side, such as a chrysalis that cannot run away, or a hen who must find food for her chicks.. *Why:* Both ways work, which is why both are common. Each has a cost and a benefit. Scientists still argue about why metamorphosis first began.
 ### Inside the Change (stretch) (stretch, 15 questions)
 1. (mcq) Which part of a hen's egg gives the chick their first breath of air before hatching?  
@@ -719,12 +724,12 @@ She thought that she should write to Farida about it. She thought that when she 
 10. (write) Why does a lime butterfly lay her eggs on a curry leaf or lemon plant, and not on any plant?  
    **Answer:** Her caterpillars can only eat leaves from that plant family. She never meets her babies, so she lays them right on their food.. *Why:* Choosing the plant is the only care a butterfly mother gives. Maria Sibylla Merian noticed this in the 1600s and painted each caterpillar with their plant.
 11. (match) Match each young animal to the adult they become.  
-   **Answer:** tadpole → frog; wriggler → mosquito; nymph → dragonfly; caterpillar → lime butterfly. *Why:* A tadpole, a wriggler, a nymph and a caterpillar are all young animals that look different from their adults. Each one grows up into the adult next to it.
-12. (write) In the dough model, you squashed a caterpillar into a ball and built a butterfly from the same dough. What does the model show? What does it get wrong?  
-   **Answer:** It shows that the butterfly is built from the caterpillar's own material, using waiting cells. It gets wrong that real waiting cells grow from tiny to big, and that some parts are kept, not broken down.. *Why:* Every model is useful but not perfect. Saying what it gets wrong is part of thinking like a scientist.
+   **Answer:** tadpole → frog; wriggler → mosquito; nymph → dragonfly; caterpillar → lime butterfly. *Why:* A tadpole, a wriggler, a nymph and a caterpillar are all young animals that look different from their adults. Each one grows up into the adult next to them.
+12. (write) In Rebuild the Body, you squashed a dough caterpillar into a ball and built a butterfly from the same dough. What does this model show? What does it get wrong?  
+   **Answer:** It shows that the butterfly is built from the caterpillar's own material, using waiting cells. What it gets wrong: real waiting cells grow from tiny to big, and in a real chrysalis some parts are kept, not broken down.. *Why:* Every model is useful but not perfect. Saying what it gets wrong is part of thinking like a scientist.
 13. (write) A tadpole's thyroid makes the hormone that starts the change into a frog. Predict: what would happen to a tadpole whose body could not make this hormone? Why?  
    **Answer:** The tadpole would never become a frog. With no hormone, there is no message to start the change. Scientists have found that such tadpoles keep growing and stay tadpoles, sometimes becoming very big.. *Why:* A hormone is the signal that starts metamorphosis. Without the signal, the body carries on as it is.
-14. (perspective) Lakshmi, a girl in Class 3, found a lime butterfly caterpillar on the curry leaf plant on her balcony. Her family has different ideas.  
+14. (perspective) A child finds a lime butterfly caterpillar on the curry leaf plant on the family's balcony. The family has different ideas about what to do.  
    **Answer:** A strong answer picks a side with a reason, for example that a cage protects the caterpillar from wasps, or that they are safest on their own plant with no handling. It then answers back fairly from another side, for example that wild caterpillars face wasps and birds, or that a cage needs fresh leaves every day.. *Why:* This is a real trade-off. Raising a caterpillar teaches a lot and keeps them safe from predators, but it needs care every day. Watching them on the plant needs no cage but you may miss stages.
 15. (draw) Draw the life cycle of a grasshopper and of a butterfly side by side. Circle the stage that the grasshopper does not have.  
    **Answer:** Grasshopper: egg, nymph, adult. Butterfly: egg, caterpillar, chrysalis, butterfly. The chrysalis, or pupa, is circled.. *Why:* A grasshopper nymph grows a little more like an adult at each moult, so they need no pupa. A caterpillar looks nothing like a butterfly, so the body is rebuilt inside a chrysalis.
@@ -740,15 +745,15 @@ She thought that she should write to Farida about it. She thought that when she 
 4. (truefalse) For most of their life, a cicada is a winged adult singing in the trees.  
    **Answer:** False. *Why:* False. A cicada spends years under the ground as a young nymph, sucking juice from roots. Some cicadas stay down there for 13 or even 17 years. Then they climb up, moult, and live as singing adults for only a few weeks. The adult is the short last stage, not the whole life.
 5. (truefalse) Your thyroid makes a hormone of the same kind as a tadpole's.  
-   **Answer:** True. *Why:* True. Your thyroid makes the same kind of hormone. It helps you grow and use energy. It needs iodine, which is why salt in India has iodine added.
+   **Answer:** True. *Why:* True. Your thyroid makes the same kind of hormone. It helps you grow and use energy. Your thyroid needs iodine to make this hormone. That is why salt in India has iodine added, so that people get enough.
 6. (write) Some towns put small fish that eat wrigglers into ponds and water tanks. Explain how this stops mosquitoes. What would happen to the mosquitoes if the fish were taken away?  
    **Answer:** The fish eat the wrigglers, so fewer wrigglers become tumblers and flying adults. This breaks the mosquito life cycle. Without the fish, more wrigglers would survive and there would be more mosquitoes.. *Why:* Taking away one stage of a life cycle stops the next stage from happening.
-7. (truefalse) A dragonfly nymph lives in water and breathes underwater before it grows wings.  
+7. (truefalse) A dragonfly nymph lives in water and breathes underwater before they grow wings.  
    **Answer:** True. *Why:* True. Dragonfly nymphs live in ponds and have gills. When they are fully grown they climb out, moult, and fly away as adults with wings.
 8. (fill) The small groups of cells inside a caterpillar that wait, then grow into wings, legs and eyes, are called ____ discs.  
    **Answer:** ['imaginal']. *Why:* Imaginal discs. 'Imago' is the old scientific word for an adult insect.
 9. (order) Put these events inside a fertilised hen's egg in order, over 21 days.  
-   **Answer:** order shown. *Why:* The heart beats after about two days. Feathers start after about ten. Just before hatching, the chick pokes into the air pocket and takes a first breath of air, then cracks the shell on about day 21.
+   **Answer:** order shown. *Why:* The heart beats after about two days. Feathers start after about nine. Just before hatching, the chick pokes into the air pocket and takes a first breath of air, then cracks the shell on about day 21.
 10. (mcq) In the 1600s, many people thought caterpillars grew out of rotting leaves or mud. Maria Sibylla Merian watched caterpillars for years and painted each one with the plant they ate. What did her careful watching show?  
    Options: Each caterpillar hatches from an egg laid by a butterfly or moth on their own food plant / Butterflies grow out of flowers / Caterpillars never eat  
    **Answer:** Each caterpillar hatches from an egg laid by a butterfly or moth on their own food plant. *Why:* Merian raised caterpillars and recorded every stage, from egg to adult, with their food plant. This helped show that small animals come from eggs, not from mud. Picking 'flowers' mixes up where butterflies feed with where they come from.
@@ -760,13 +765,13 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** Yes. An axolotl still goes from egg to young to adult who lays eggs, and round again. They skip the big change because their body does not start metamorphosis, like a tadpole with too little thyroid hormone. Scientists have found that giving an axolotl that hormone can make them change into a land form.. *Why:* A life cycle means the adult makes new young, not that the body must change shape. A strong answer links the missing change to the hormone signal.
 14. (write) Your body is slowly rebuilt from the food you eat. Is the rice you ate today going to be part of you? Explain.  
    **Answer:** Yes. My body breaks down food and uses some of it to build new cells, like skin, blood and muscle. So some of today's rice will become part of me.. *Why:* Like a tadpole using their tail, or a chick using their yolk, your body takes food apart and builds with the pieces. Every living thing does this.
-15. (draw) Draw a waiting group of cells inside a caterpillar. Then draw what they become inside the chrysalis.  
+15. (draw) Draw one of the small groups of waiting cells inside a caterpillar. Then draw what it becomes inside the chrysalis.  
    **Answer:** A tiny flat patch of cells inside the caterpillar, then a big wing inside the chrysalis.. *Why:* The wing was there all along as a tiny flat pocket of cells, waiting. In the chrysalis, these cells grow fast, using the caterpillar's material.
 
 ## Videos
-- **Caterpillar to butterfly: a time-lapse of metamorphosis** (FrontYardVideo, 4 min) id `ocWgSgMGxOc`: A time-lapse of a monarch butterfly, a different butterfly from the lime butterfly but with the same stages. It shows a caterpillar hanging, making a chrysalis, and the butterfly coming out, which takes weeks in real life. *Check:* Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it.
-- **Tadpole to frog: a time-lapse** (The Dodo, 4 min) id `gmlaclb3K2o`: Shows a tadpole growing legs and the tail getting shorter, as in Tadpole Watch. *Check:* Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it.
-- **Chick development inside the egg, day by day** (Poultry Hub Australia, 5 min) id `PedajVADLGw`: Shows how a chick grows inside an egg over three weeks. *Check:* Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it.
+- **Caterpillar to butterfly: a time-lapse of metamorphosis** (FrontYardVideo, 4 min) id `ocWgSgMGxOc`: A time-lapse of a monarch butterfly, a different butterfly from the lime butterfly but with the same stages. It shows a caterpillar hanging, making a chrysalis, and the butterfly coming out, which takes weeks in real life. *Check:* We checked that this video's title and channel are on YouTube, but we did not watch the video. A parent may want to watch it first.
+- **Tadpole to frog: a time-lapse** (The Dodo, 4 min) id `gmlaclb3K2o`: Shows a tadpole growing legs and the tail getting shorter, as in Tadpole Watch. *Check:* We checked that this video's title and channel are on YouTube, but we did not watch the video. A parent may want to watch it first.
+- **Chick development inside the egg, day by day** (Poultry Hub Australia, 5 min) id `PedajVADLGw`: Shows how a chick grows inside an egg over three weeks. *Check:* We checked that this video's title and channel are on YouTube, but we did not watch the video. A parent may want to watch it first.
 
 ## Quiz
 1. (mcq) What is a life cycle?  
@@ -789,26 +794,26 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** Food for the growing chick. *Why:* The yolk is the chick's food store. Air comes in through tiny holes in the shell, and there is an air pocket at the round end. Picking 'air' mixes up the yolk with the air pocket.
 7. (mcq) How can a chick breathe inside their egg?  
    Options: Air comes through thousands of tiny holes in the shell / They hold their breath for 21 days / They don't need air until they hatch  
-   **Answer:** Air comes through thousands of tiny holes in the shell. *Why:* The shell has thousands of tiny holes. You saw bubbles come out of them in hot water. Picking 'doesn't need air' is a common guess, but a growing chick needs oxygen all the time.
+   **Answer:** Air comes through thousands of tiny holes in the shell. *Why:* The shell has thousands of tiny holes. In the eggshell bubbles experiment, bubbles came out of them in very hot water. Picking 'doesn't need air' is a common guess, but a growing chick needs oxygen all the time.
 8. (mcq) Where does a tadpole's tail go?  
    Options: It is broken down and used to build the frog / It falls off and sinks / Another tadpole bites the tail off  
    **Answer:** It is broken down and used to build the frog. *Why:* The tail cells break down on purpose. The blood carries the material to build legs, lungs and a new mouth. Picking 'falls off' is the most common guess. But nobody finds tails at the bottom of the pond.
 9. (mcq) What happens inside a chrysalis?  
    Options: The caterpillar's body is broken down and rebuilt into a butterfly / The caterpillar sleeps and then wakes up with wings stuck on / Nothing at all  
    **Answer:** The caterpillar's body is broken down and rebuilt into a butterfly. *Why:* Most of the caterpillar's body is broken down. Waiting cells grow into wings, legs and eyes, using that material. Picking 'nothing at all' is what it looks like from outside. Inside, it is the busiest stage.
-10. (mcq) Arjun, a boy in Class 3, writes down his caterpillar's length every day. Why is this useful?  
-   Options: It shows a pattern he might not remember, like fast growth and then a stop / It makes the caterpillar grow faster / It keeps the caterpillar healthy  
-   **Answer:** It shows a pattern he might not remember, like fast growth and then a stop. *Why:* Writing measurements down lets you see patterns, like fast growth and then a stop before the chrysalis. Picking 'grow faster' or 'healthy' mixes up watching with changing. Measuring does not change the caterpillar.
+10. (mcq) You write down your caterpillar's length every day. Why is this useful?  
+   Options: It shows a pattern you might not remember, like fast growth and then a stop / It makes the caterpillar grow faster / It keeps the caterpillar healthy  
+   **Answer:** It shows a pattern you might not remember, like fast growth and then a stop. *Why:* Writing measurements down lets you see patterns, like fast growth and then a stop before the chrysalis. Picking 'grow faster' or 'healthy' mixes up watching with changing. Measuring does not change the caterpillar.
 11. (mcq) What switches on a tadpole's change into a frog?  
    Options: A hormone, a chemical message in their blood / Their tail getting too long / Eating flies  
    **Answer:** A hormone, a chemical message in their blood. *Why:* The thyroid makes a hormone. When there is enough of it in the blood, the change starts. Picking 'eating flies' gets the order backwards. A tadpole eats insects only after they have become a frog.
 12. (mcq) Which of these do scientists still NOT know for sure?  
    Options: How much a butterfly remembers of being a caterpillar / That frogs start as eggs / That a chick hatches from an egg  
    **Answer:** How much a butterfly remembers of being a caterpillar. *Why:* Experiments with moths suggest some memory may survive, but scientists are still testing it. The other two have been watched and checked thousands of times.
-13. (mcq) A caterpillar ate leaves. The leaves were made from air, water and soil. Where did the butterfly's body come from?  
+13. (mcq) A caterpillar ate leaves. The leaves were made from air, water and sunlight. Where did the butterfly's body come from?  
    Options: From the world around them, through the leaves / From nothing / Only from their egg  
    **Answer:** From the world around them, through the leaves. *Why:* Every living body is built from material taken in from outside. It goes back to soil and air when the animal dies. Picking 'only from their egg' forgets that a caterpillar grows many times heavier by eating.
-14. (mcq) Meera, a girl in Class 3, cracks a shop egg onto a plate. She sees a yolk, the white and a tiny white spot. Where is the chick?  
+14. (mcq) You crack a shop egg onto a plate. You see a yolk, the white and a tiny white spot. Where is the chick?  
    Options: There is no chick yet. In a fertilised egg kept warm, the spot would grow into one / Folded up small inside the yolk / Hidden inside the twisted white cords  
    **Answer:** There is no chick yet. In a fertilised egg kept warm, the spot would grow into one. *Why:* A new egg holds no chick, only food, water and one tiny spot. In a fertilised egg kept warm, the spot grows into a chick, built from the yolk and white over 21 days. Picking 'folded up inside the yolk' is an old idea that scientists once held, until they watched eggs day by day.
 
@@ -840,7 +845,7 @@ She thought that she should write to Farida about it. She thought that when she 
 - **How does each waiting cell inside a caterpillar know whether to become a wing, a leg or an eye?** Scientists know many of the genes involved. But how all the signals work together, at the right time and place, is still being studied.
 - **Why do some frogs skip the tadpole stage altogether?** Some frogs in the Western Ghats hatch as froglets on land. Scientists have ideas, like avoiding fish in streams, but they can't yet say for certain which reasons mattered most.
 - **Why are frogs disappearing from so many places in the world?** A skin disease caused by a fungus, loss of ponds, poisons and changing weather all play a part. How much each one matters is different in each place, and still argued about.
-- **What, if anything, does a pupa feel?** We can't ask a pupa. Their nerves are being rebuilt. Nobody knows whether there is anything it is like to be a chrysalis.
+- **What, if anything, does a pupa feel?** We can't ask a pupa. Their nerves are being rebuilt. Nobody knows whether a chrysalis feels anything at all.
 - **Could a body be taught to rebuild itself like a tadpole, to heal injuries in people?** Scientists study tadpoles, which can regrow a lost tail at some stages. Using this in people is a hope, not yet a result.
 
 ## Questions to ask kids
@@ -849,7 +854,7 @@ She thought that she should write to Farida about it. She thought that when she 
 - If we see tadpoles in a puddle, where do you think they will be next month?
 - A shop egg almost never becomes a chick, however long you keep the egg warm. Do you know why?
 - Who looked after you when you were a baby? Who looks after a baby butterfly?
-- If a caterpillar remembers being a caterpillar, what do you think they remember?
+- If a butterfly remembers being a caterpillar, what do you think they remember?
 - Is anything in this room older than you? Is anything made of things that were once alive?
 - If you saw a 'bird dropping' on a lemon leaf, how would you check whether it was a caterpillar?
 
@@ -867,9 +872,9 @@ She thought that she should write to Farida about it. She thought that when she 
 - In Tadpole Watch, a tadpole's tail was 18 millimetres long on day 20. On day 35 it was 8 millimetres long. How much shorter did it get? **10 millimetres shorter.**. The tail started at 18 millimetres and ended at 8 millimetres. To find the difference, take away: 18 minus 8 is 10. So the tail got 10 millimetres shorter. You can check by adding: 8 plus 10 is 18. (queues `math.addition-subtraction.word-problems.L3`)
 - A chick grows inside their egg for 21 days. How many weeks is that? **3 weeks.**. One week has 7 days. 21 divided by 7 is 3. You can check: 7 plus 7 plus 7 is 21. So a chick spends 3 weeks inside their egg. (queues `math.time.calendar.L3`)
 - Look at the caterpillar diary. On day 2 the caterpillar was 4 millimetres long. On day 16 they were 40 millimetres long. How many times longer were they on day 16? **10 times longer.**. On day 2 they were 4 millimetres. On day 16 they were 40 millimetres. 40 divided by 4 is 10. So they were 10 times longer. You can check: 4 times 10 is 40. (queues `math.division.sharing-and-grouping.L3`)
-- In the egg bubbles experiment, a child counted the trails of bubbles from the round half of the egg and made these tally marks: |||| |||| |||| ||. How many trails is that? **17 trails.**. Each group of four lines with one line across makes 5. There are 3 full groups, so that is 3 times 5, which is 15. Then there are 2 more lines. 15 plus 2 is 17. (queues `math.data.sorting-and-tallies.L3`)
+- In the eggshell bubbles experiment, a child counted the trails of bubbles from the round half of the egg and made these tally marks: ||||/ ||||/ ||||/ ||. In a tally, four lines with one line across them make a group of five. Here the line across is shown as a slash. How many trails is that? **17 trails.**. Each group of four lines with one line across makes 5. There are 3 full groups, so that is 3 times 5, which is 15. Then there are 2 more lines. 15 plus 2 is 17. (queues `math.data.sorting-and-tallies.L3`)
 - A lime butterfly spends about 4 days as an egg, 16 days as a caterpillar and 10 days as a chrysalis. How many days is that before the butterfly comes out? **30 days.**. Add the three stages. 4 plus 16 is 20. 20 plus 10 is 30. So it is about 30 days, about one month, from egg to butterfly. (queues `math.addition-subtraction.mental-strategies.L3`)
-- In the egg bubbles experiment, 17 trails of bubbles came from the round half of the egg and 6 from the pointed half. Which end let out more air, and how many more trails did it have? **The round end, with 11 more trails.**. 17 is more than 6, so the round end let out more air. 17 minus 6 is 11. This fits the egg: the air pocket is at the round end. (queues `math.addition-subtraction.word-problems.L3`)
+- In the eggshell bubbles experiment, 17 trails of bubbles came from the round half of the egg and 6 from the pointed half. Which end let out more air, and how many more trails did it have? **The round end, with 11 more trails.**. 17 is more than 6, so the round end let out more air. 17 minus 6 is 11. This fits the egg: the air pocket is at the round end. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Every Creature Counts (sci.animals.L3): Topic-level song

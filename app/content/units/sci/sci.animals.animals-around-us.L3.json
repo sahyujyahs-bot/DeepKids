@@ -459,7 +459,7 @@
    "Why did Murugan think the crows were mad? What did Tara find out instead?",
    "How did writing down the times help Tara? Could she have found the pattern in one day?",
    "What did the crows build their nest with? Why do you think city crows use wire?",
-   "The crows fed a koel chick as their own. What do you think about that?",
+   "The koel mother lays her egg in the crows' nest, and the crows feed the chick as their own. How does this help the koel chick, and what does it cost the crows?",
    "Whose home was the nest? The crows', the koel's, the tree's, or Tara's family's?"
   ],
   "art": [
@@ -1784,7 +1784,8 @@
      "say": "What was the hardest part? Do you think a bird gets better with practice?",
      "kid": "What was hardest? Would you get better with practice?",
      "context": "This is the last step of Build a Nest with a Beak.",
-     "think": "Young weaver birds weave messy nests at first and better ones later. What does that tell you?"
+     "think": "Young weaver birds weave messy nests at first and better ones later. What does that tell you?",
+     "parent": "A good answer is that building a nest is partly learned. Young birds weave messy nests at first. They get better with practice, just as you did."
     }
    ]
   },
@@ -2436,14 +2437,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first person, a girl in Class 3, lives beside a big banyan tree. Hundreds of fruit bats hang in it all day and fly out at dusk.",
+     "p": "A girl in Class 3 lives beside a big banyan tree. Hundreds of fruit bats hang in it all day and fly out at dusk.",
      "views": [
       {
        "who": "A neighbour who parks cars under the tree",
        "says": "The bats are noisy, and their droppings and half-eaten fruit fall on my car. Cut the branches."
       },
       {
-       "who": "The first person",
+       "who": "The girl in Class 3",
        "says": "Fruit bats carry seeds far away when they feed at night, and new trees grow from them. If we cut the tree, they lose their roost."
       },
       {
@@ -2489,11 +2490,11 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the Busy Times test, you count the birds that visit a bowl of water. A girl did the test on just one rainy morning. Only 2 birds came to the bowl. She wrote 'Birds do not drink in the morning.' What is wrong with that?",
+     "p": "In the Busy Times test, only one rainy morning was watched, and only 2 birds came to the bowl. Why can we not write 'Birds do not drink in the morning'?",
      "opts": [
-      "Nothing. She saw it herself.",
-      "One rainy day can be unusual. She should count on more days.",
-      "She should have counted at midnight.",
+      "Nothing is wrong. We saw it ourselves.",
+      "One rainy day can be unusual. We should count on more days.",
+      "We should have counted at midnight.",
       "2 birds is too many to count."
      ],
      "a": 1,
@@ -3172,7 +3173,7 @@
   "What do you do every day at the same time? Is that a habit?",
   "Why do you think a street dog near you sleeps in the same corner every afternoon?",
   "What sounds of animals can you hear right now?",
-  "If animals made a map of our street, what would they put on it?"
+  "If we made a map of our street with only animal homes on it, which homes could we mark?"
  ],
  "jokes": [
   {
@@ -3570,7 +3571,7 @@
    "what_is_life": "Living things make homes from what is near, like twigs and mud, and from what their bodies make, like wax and silk. City crows even use wire and plastic that people throw away.",
    "what_is_this_world": "The world is a home that many living things share. Every wall, tree and drain is some animal's home."
   },
-  "thread": "In the story The Wire Nest, the crows' nest was made of a neem tree, a family's lost wire and two crows' work. An ant trail is made by hundreds of ants, each adding a little scent. Neither belongs to one maker. One awareness runs through the whole world and shows itself in countless separate lives. A nest or a trail is a small, real picture of that: many lives making one thing together.",
+  "thread": "In the story The Wire Nest, the crows' nest was made of a neem tree, a family's lost wire and two crows' work. An ant trail is made by hundreds of ants, each adding a little scent. Neither has just one maker. Many living beings each add a small part, and the nest or the trail is what they make together. Some thinkers say that one awareness runs through the whole world and shows itself in every separate life. On that view, a nest or a trail is a small, real example of many lives making one thing together.",
   "teachings": [
    {
     "source": "Isha Upanishad, verse 1",
@@ -3623,5 +3624,5 @@
   "wrong_idea": "Only humans make and use tools. Goodall saw wild chimpanzees making tools from twigs and grass stems, by watching them for months."
  },
  "playtest": "Walked through the unit as a parent and child in a Chennai-style city flat. Games: wrote out all 36 Who Lives Here cards (16 animals, 16 homes, 4 wanderers) and 24 tokens and played it with 2 and 4 players; the 24 tokens are enough because 16 pairs plus 4 wanderers at 2 each is at most 24. Made the rat, ant and earthworm home cards clearly different (they could be mixed up before) and said what happens if two wanderers are turned together. Day Shift, Night Shift has 24 cards with answers on the back; the mosquito card now matches the dengue and malaria facts elsewhere, and cards with two answers say either scores. Experiments: Busy Times (65 min), Cool Home (30) and Ant Trail (35) add up and are fair; Cool Home in a pot is honest that the difference is smaller than in garden soil, and its sample numbers are said to be made up; it is not in the core path. Fixed the Animal Week step minutes to 90, the bingo grid instructions (two lines each way), and the nest-building check, which had been about crow wire and not the egg test. Cut repeats (crow wire examples, the feeding and ant-sugar tidy-up lines, snake milk, city-as-natural, baya mud, whose-home-is-the-nest, diary fact versus guess), one weak joke (9 remain), buy.plan and the video check notes, and the 'hair clips' story detail used as fact in roots. Swapped some North-only examples for South ones (kites in Hyderabad and Chennai, peacocks in Tamil Nadu). Videos exist and their titles match, but nobody has watched them, so a parent is told to preview. Real people's views in the Mumbai leopard question are paraphrases and should be checked against Vidya Athreya's own words if kept.",
- "warm": {"words": ["HABIT", "NESTS", "ROOST", "NIGHT", "CLOCK"], "quiz": [["Most birds use nests only to lay eggs and raise chicks.", true, "The rest of the year, most birds sleep on branches, not in nests."], ["Animals build their homes by pure instinct, with no learning at all.", false, "Young weaver birds weave messy nests at first and get better with practice."], ["An animal active at dawn and dusk is not a day animal or a night animal.", true, "Such animals are most active in the dim times just before sunrise and after sunset."], ["Wild animals in cities are lost and do not belong there.", false, "Cities give food and shelter, and crows and geckos have lived beside people for ages."], ["Snakes come to our homes to drink milk, so we should leave milk out.", false, "Snakes come to hunt rats and cannot digest milk well."], ["A timer inside the body keeps a rough daily rhythm of waking and sleeping.", true, "This body clock is why many animals keep regular habits."], ["Feeding every animal we see in the city is always kind.", false, "Monkeys learn to grab food from people, and bread or sweets can make birds ill."], ["Watching an animal for a week teaches more than watching for one minute.", true, "Watching again and again at set times shows patterns that a quick look cannot."], ["Mobile phone towers are proven to be the main reason house sparrows are vanishing.", false, "There is no strong evidence; fewer nesting holes and less food may matter more."], ["Towns attract some animals because towns give food, water, shelter and fewer enemies.", true, "Animals settle where life is easier and safer."]], "odd": [[["Crow", "Kite", "Palm squirrel", "Owl"], "Owl", "The others are active in the day, but an owl is active at night."], [["Rat in a burrow", "Ant in a tunnel", "Rabbit in a burrow", "Weaver bird in a nest"], "Weaver bird in a nest", "The others make homes by digging in the ground; the weaver bird weaves a nest."], [["Bar-headed goose", "Amur falcon", "Demoiselle crane", "House crow"], "House crow", "The others travel far each year and come back; the house crow stays near the same place."], [["Crow calling at dawn each day", "Bat leaving at dusk each evening", "Ants following the same trail", "Crow dropping a snack by accident"], "Crow dropping a snack by accident", "The others are habits done again and again; a one-off accident is not a habit."], [["Bee storing honey in a hive", "Squirrel hiding nuts", "Ant storing seeds", "Pigeon sleeping on a ledge"], "Pigeon sleeping on a ledge", "The others use a home to store food for later; the pigeon uses its place to rest."]]}
+ "warm": {"words": ["HABIT", "NESTS", "ROOST", "NIGHT", "CLOCK"], "quiz": [["Most birds use nests only to lay eggs and raise chicks.", true, "The rest of the year, most birds sleep on branches, not in nests."], ["Animals build their homes by pure instinct, with no learning at all.", false, "Young weaver birds weave messy nests at first and get better with practice."], ["An animal active at dawn and dusk is not a day animal or a night animal.", true, "Such animals are most active in the dim times just before sunrise and after sunset."], ["Wild animals in cities are lost and do not belong there.", false, "Cities give food and shelter, and crows and geckos have lived beside people for ages."], ["Snakes come to our homes to drink milk, so we should leave milk out.", false, "Snakes come to hunt rats and cannot digest milk well."], ["A timer inside the body keeps a rough daily rhythm of waking and sleeping.", true, "This body clock is why many animals keep regular habits."], ["Feeding every animal we see in the city is always kind.", false, "Monkeys learn to grab food from people, and bread or sweets can make birds ill."], ["Watching an animal for a week teaches more than watching for one minute.", true, "Watching again and again at set times shows patterns that a quick look cannot."], ["Mobile phone towers are proven to be the main reason house sparrows are vanishing.", false, "There is no strong evidence. Fewer nesting holes and less food may matter more."], ["Towns attract some animals because towns give food, water, shelter and fewer enemies.", true, "Animals settle where life is easier and safer."]], "odd": [[["Crow", "Kite", "Palm squirrel", "Owl"], "Owl", "The others are active in the day, but an owl is active at night."], [["Rat in a burrow", "Ant in a tunnel", "Rabbit in a burrow", "Weaver bird in a nest"], "Weaver bird in a nest", "The others make homes by digging in the ground. The weaver bird weaves a nest."], [["Bar-headed goose", "Amur falcon", "Demoiselle crane", "House crow"], "House crow", "The others travel far each year and come back. The house crow stays near the same place."], [["Crow calling at dawn each day", "Bat leaving at dusk each evening", "Ants following the same trail", "Crow dropping a snack by accident"], "Crow dropping a snack by accident", "The others are habits done again and again. A one-off accident is not a habit."], [["Bee storing honey in a hive", "Squirrel hiding nuts", "Ant storing seeds", "Pigeon sleeping on a ledge"], "Pigeon sleeping on a ledge", "The others use a home to store food for later. The pigeon uses their place to rest."]]}
 }
