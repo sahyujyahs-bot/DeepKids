@@ -321,22 +321,22 @@
    "for": "A protein called cryptochrome in birds' eyes changes with magnetism. Some birds lose their magnetic sense in some colours of light.",
    "against": "No one has yet shown exactly how the bird turns this into a sense of direction. Other senses in the beak or the ear may help too.",
    "status": "debated",
-   "context": "This card is about how birds might sense the Earth's magnetism."
+   "context": "Cryptochrome is a protein inside a bird's eyes that changes with the Earth's magnetism. The Earth works like a giant magnet, and a compass needle lines up with it. This card asks whether birds sense that magnetism with their eyes."
   }
  ],
  "big_questions": [
   {
-   "q": "A young cuckoo flies to Africa alone, the right way, without ever meeting her parents. Where is the map: inside her, or out in the world?",
+   "q": "A young cuckoo flies to Africa alone, the right way, without ever meeting her parents. Does she carry the directions inside her body, or does she need to see the world to find the way?",
    "kind": "deep",
-   "hint": "Think about your test. Your counted steps were inside you. The bowl was out in the room. Which one did you need when you were moved?"
+   "hint": "Think about your test. Your counted steps were carried inside you. The bowl was out in the room. Which one did you need after you were moved?"
   },
   {
-   "q": "When you were moved to a new start, your steps went wrong. Did your steps make a mistake, or did the world around them change?",
+   "q": "When you were moved to a new start, your steps took you to the wrong place. Were your steps wrong, or was the start wrong?",
    "kind": "deep",
    "hint": "Your steps were the same as before. What was different?"
   },
   {
-   "q": "The monarch who leaves Mexico in spring never reaches Canada. Her great-granddaughter does. Whose journey is it?",
+   "q": "The monarch who leaves Mexico in spring never reaches Canada. Her great-granddaughter does. Is it one butterfly's journey, or the whole family's?",
    "kind": "big",
    "hint": "Is a journey something one traveller does, or something a whole family carries on?"
   },
@@ -346,12 +346,12 @@
    "hint": "Think about what you would miss, and what you would gain."
   },
   {
-   "q": "Shepherds, fishers and workers in India travel with the seasons too. Can a journey you make every year be a kind of home?",
+   "q": "Shepherds, fishers and workers in India travel with the seasons too. Can a place you return to every year feel like home? Why?",
    "kind": "big",
    "hint": "Ask someone in your family who goes to the same place every year what it feels like when they arrive."
   },
   {
-   "q": "Bright city lights at night can confuse birds that fly by the stars. Who should the night sky belong to?",
+   "q": "Bright city lights at night confuse birds that fly by the stars. People need light at night too. How could we share the night with the birds?",
    "kind": "big",
    "hint": "Think about people who work at night, birds that fly at night, and the stars themselves."
   }
@@ -1015,7 +1015,8 @@
      "art": "A child with eyes open looking at the bowl from the side start, a small clock showing three seconds.",
      "caption": "4. Peek for three seconds, then try again."
     }
-   ]
+   ],
+   "problem": "A young bird on her first journey flies a direction that she was born knowing. A storm can blow her to a new place. In this experiment you learn to walk to a bowl by counting steps. Then a grown-up secretly moves your start, the way a storm can move a bird. You see what happens to your steps."
   },
   {
    "id": "e2",
@@ -1170,7 +1171,8 @@
      "art": "The same child letting go, with a table fan one metre behind her and wind lines carrying the butterfly forward.",
      "caption": "3. Drop it with the fan behind, and measure from the coin."
     }
-   ]
+   ],
+   "problem": "A butterfly or a dragonfly is tiny and weak compared with the wind. A wind that blows from behind is called a tailwind, and it can carry a small flyer along. In this experiment a fan makes a tailwind for a paper butterfly."
   }
  ],
  "activities": [
@@ -1556,7 +1558,7 @@
     "a measuring tape, or count your steps"
    ],
    "general": [
-    "Scientists use a rule of thumb: a tracker should weigh no more than about 3 parts in every 100 of the bird's weight.",
+    "Scientists use a rule that a tracker should weigh no more than about 3 grams for every 100 grams of the bird's weight. So a bird who weighs 100 grams can carry a tracker of about 3 grams.",
     "Trackers are fixed near the middle of the back, close to where the body balances, so they don't pull the bird off balance.",
     "Solar panels on trackers mean smaller batteries, so the tracker can be lighter."
    ],
@@ -1882,7 +1884,7 @@
     "So other birds can't see it"
    ],
    "a": 0,
-   "why": "A heavy tracker makes the journey harder. A rule of thumb is no more than about 3 parts in every 100 of the bird's weight.",
+   "why": "A heavy tracker makes the journey harder. A common rule is that a tracker should weigh no more than about 3 grams for every 100 grams of the bird's weight.",
    "outcome": 4
   },
   {
@@ -2413,7 +2415,7 @@
     },
     {
      "t": "write",
-     "p": "An autumn monarch flies to forests in Mexico that she has never seen. Her great-great-grandmother left those forests. Some people say, 'The journey is remembered.' Who or what remembers it? Explain your answer.",
+     "p": "An autumn monarch flies to forests in Mexico that she has never seen. Her great-great-grandmother left those forests. How can she know the way? Explain your answer.",
      "lines": 4,
      "a": "The journey is carried in the butterflies' bodies, passed on from parents to children, together with their use of the Sun and their body clock. No single butterfly has done the whole trip, so the knowing must be passed down.",
      "why": "A strong answer says the direction is inborn and passed down through generations, and admits that exactly how they find the same forests is not fully known."
@@ -2427,14 +2429,14 @@
     },
     {
      "t": "mcq",
-     "p": "A tracker should weigh no more than about 3 parts in every 100 of an animal's weight. A bird weighs 100 grams. What is the heaviest tracker she should carry?",
+     "p": "A tracker should weigh no more than about 3 grams for every 100 grams of an animal's weight. A bird weighs 100 grams. What is the heaviest tracker she should carry?",
      "opts": [
       "About 3 grams",
       "About 30 grams",
       "About 100 grams"
      ],
      "a": 0,
-     "why": "3 parts in every 100 of 100 grams is 3 grams. A heavier tracker could tire her or slow her down."
+     "why": "The rule allows 3 grams for every 100 grams. This bird weighs exactly 100 grams, so her tracker can weigh 3 grams. A heavier tracker could tire her or slow her down."
     },
     {
      "t": "truefalse",
@@ -2637,7 +2639,7 @@
   "Why do you think the Arctic tern goes to the bottom of the world and not just halfway?",
   "Does anyone in our family travel to the same place every year? Why?",
   "What would you pack as fuel for a long journey with no shops on the way?",
-  "If a butterfly's journey takes four lives, whose journey is it?"
+  "The monarch journey north takes four generations of butterflies. Do you think of it as one journey, or four? Why?"
  ],
  "jokes": [
   {
@@ -3005,22 +3007,22 @@
   "practice": {
    "title": "Point the Way Home",
    "mins": 3,
-   "say": "Let's stand up and close our eyes. Point to the front door. Now I'll turn you slowly round three times. Point to the door again. Open your eyes. Were you closer the first time or the second?",
-   "kid": "Close your eyes. Point to the front door. Now turn round three times. Point again. Open your eyes. Which time was closer?"
+   "say": "Let's stand up and close our eyes. Point to the front door. Now I'll turn you slowly round three times. Point to the door again. Open your eyes. Were you closer the first time or the second? When you were turned, you lost your sense of where the door was. That is a little like a young bird who is blown off course by a storm.",
+   "kid": "Close your eyes. Point to the front door. Now turn round three times. Point again. Open your eyes. Which time was closer? Turning made you lose the door. A storm can do that to a young bird."
   },
   "ask": [
    "A young cuckoo knows which way to fly before she has ever flown. Where did that knowing come from?",
-   "When you know a place, is the knowing in you, or in the place?",
-   "If a journey takes four lives to finish, who is the traveller?"
+   "You carry your counted steps with you wherever you stand. But knowing a place only helps once you can see it. Which kind of knowing would you rather have if you were lost?",
+   "If a journey takes four butterfly lifetimes to finish, do you think of the journey as one butterfly's, or the whole family's?"
   ],
   "art": "A small grey sandpiper on wet mud at dawn, with a faint arrow inside her pointing north, and far away over the sea a dim outline of the Arctic coast."
  },
  "how_we_found_out": {
   "story": "For a long time, nobody knew where the monarch butterflies of North America went in winter. Every autumn, millions of them flew south from Canada and the United States, and then they seemed to vanish. Many people did not believe that a butterfly, as light as a flower petal, could fly thousands of kilometres. In the 1950s, Norah Urquhart and Fred Urquhart, two scientists in Canada, asked ordinary people for help. Thousands of volunteers stuck tiny paper tags on the wings of monarchs. Each tag had a number and an address. When someone found a tagged butterfly, they posted the tag back and said where they found it. Year by year, the tags pointed further south, towards Mexico. In January 1975, Catalina Aguado, a young woman from Mexico, and Ken Brugger, an American who was helping the Urquharts, climbed into the mountains of central Mexico. There they found fir trees covered in millions of resting monarchs. The local people had known about them for generations. Later, butterflies carrying tags from the United States were found in those forests. A butterfly really could fly that far.",
-  "who": "Norah and Fred Urquhart, Canadian scientists; Catalina Aguado and Ken Brugger, who found the winter forests; thousands of volunteer taggers; and the local people of the Mexican mountains, who knew about the butterflies all along",
+  "who": "Norah and Fred Urquhart, Canadian scientists. Catalina Aguado and Ken Brugger, who found the winter forests. Thousands of volunteer taggers. The local people of the Mexican mountains, who knew about the butterflies all along.",
   "when": "1950s (the tagging began) and January 1975 (the winter forests were found)",
   "wrong_idea": "Many people did not believe that a butterfly could fly thousands of kilometres. Tags posted back from further and further south, and then tagged butterflies found in the Mexican forests, showed that monarchs really do."
  },
  "playtest": "Walked through the bowl test, the paper butterfly test, both games, the activities and the challenges as a parent and child in a flat would. Fixed: the 'secret' start in the bowl test was visible during setup, and the peek trial now spins the child first so it is fair; the butterfly board now says what happens on overshooting, chained squares, missed turns, empty tags and used-up cards; ties in the card game; the sorting activity and worksheet sort repeated the card game, so they now use other animals; an 'it' for a turtle; a weak tracker idea; an unverifiable Kalidasa claim; three weak jokes. Videos still have no verified ids and are left as placeholders.",
- "warm": {"words": ["ROUTE", "WHALE", "STARS", "WINDS", "BIRDS"], "quiz": [["Animals migrate to be where food and safe places for their young are at the right time of year.", true, "The best place to live changes with the seasons, so they move to where they need to be."], ["Migrating costs animals very little energy, so it is always easy.", false, "Migration costs a lot of energy and is dangerous, and many travellers die on the way."], ["Some young birds fly the right way on their first journey without being shown.", true, "They are born with a sense of direction, so they need no guide."], ["Every young bird learns the route by following her parents.", false, "Young cuckoos never meet their parents, yet they still reach the right place."], ["Some insects need children and grandchildren to finish one long journey.", true, "For some insects, a single migration is carried on by several generations."], ["A butterfly is too light and fragile to fly thousands of kilometres.", false, "Tagged monarch butterflies have been found thousands of kilometres from where they were tagged."], ["A tailwind pushes a bird along and saves her energy.", true, "A wind blowing the way she is going does part of the work, so many migrants wait for one."], ["Migrating animals always go north in summer and south in winter.", false, "Some move up mountains in summer and down in winter, and some move between plains and hills."], ["Migrating birds use several clues, such as the Sun, the stars and landmarks.", true, "Birds use many clues together, including the Earth's magnetism, smells, coasts and mountains."], ["People never make yearly journeys with the seasons.", false, "Shepherds, fishers and workers travel with the seasons for food, water and work, like other animals."]], "odd": [[["Arctic tern's yearly flight", "Humpback whale's yearly swim", "Monarch butterfly's journey", "Sparrow living in one village"], "Sparrow living in one village", "The first three make long yearly journeys; the sparrow stays in the same place all year."], [["Position of the Sun", "Star patterns", "Earth's magnetism", "Satellite tracker"], "Satellite tracker", "The first three are clues birds use to find their way; a tracker is a machine scientists fix on birds."], [["Numbered leg ring", "Paper wing tag", "Radar", "Guessing from the weather"], "Guessing from the weather", "The first three show scientists where animals really go; guessing from weather gives no record of the journey."], [["Bright lights at night", "Glass buildings", "Hunting", "A safe stopover with food"], "A safe stopover with food", "The first three kill migrating animals; a safe stopover with food helps them survive."], [["Tailwind", "Resting at a stopover", "Waiting for the right wind", "Headwind"], "Headwind", "The first three save a traveller's energy; a headwind blows against her and makes the journey cost more."]]}
+ "warm": {"words": ["ROUTE", "WHALE", "STARS", "WINDS", "BIRDS"], "quiz": [["Animals migrate to be where food and safe places for their young are at the right time of year.", true, "The best place to live changes with the seasons, so they move to where they need to be."], ["Migrating costs animals very little energy, so it is always easy.", false, "Migration costs a lot of energy and is dangerous, and many travellers die on the way."], ["Some young birds fly the right way on their first journey without being shown.", true, "They are born with a sense of direction, so they need no guide."], ["Every young bird learns the route by following her parents.", false, "Young cuckoos never meet their parents, yet they still reach the right place."], ["Some insects need children and grandchildren to finish one long journey.", true, "For some insects, a single migration is carried on by several generations."], ["A butterfly is too light and fragile to fly thousands of kilometres.", false, "Tagged monarch butterflies have been found thousands of kilometres from where they were tagged."], ["A tailwind pushes a bird along and saves her energy.", true, "A wind blowing the way she is going does part of the work, so many migrants wait for one."], ["Migrating animals always go north in summer and south in winter.", false, "Some move up mountains in summer and down in winter, and some move between plains and hills."], ["Migrating birds use several clues, such as the Sun, the stars and landmarks.", true, "Birds use many clues together, including the Earth's magnetism, smells, coasts and mountains."], ["People never make yearly journeys with the seasons.", false, "Shepherds, fishers and workers travel with the seasons for food, water and work, like other animals."]], "odd": [[["Arctic tern's yearly flight", "Humpback whale's yearly swim", "Monarch butterfly's journey", "Sparrow living in one village"], "Sparrow living in one village", "The first three make long yearly journeys. The sparrow stays in the same place all year."], [["Position of the Sun", "Star patterns", "Earth's magnetism", "Satellite tracker"], "Satellite tracker", "The first three are clues birds use to find their way. A tracker is a machine that scientists fix on birds."], [["Numbered leg ring", "Paper wing tag", "Radar", "Guessing from the weather"], "Guessing from the weather", "The first three show scientists where animals really go. Guessing from the weather gives no record of the journey."], [["Bright lights at night", "Glass buildings", "Hunting", "A safe stopover with food"], "A safe stopover with food", "The first three kill migrating animals. A safe stopover with food helps them survive."], [["Tailwind", "Resting at a stopover", "Waiting for the right wind", "Headwind"], "Headwind", "The first three save a traveller's energy. A headwind blows against her and makes the journey cost more."]]}
 }

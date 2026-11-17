@@ -104,7 +104,7 @@ A ring is a tiny metal or plastic band with a number. If the same bird is caught
 - Lost resting places, bright lights at night, glass buildings and hunting kill many migrating animals. *How we know:* Scientists count birds killed at lit buildings, and see numbers fall where wetlands on the route have dried up or been built over.
 
 ## How we found out
-**Norah and Fred Urquhart, Canadian scientists; Catalina Aguado and Ken Brugger, who found the winter forests; thousands of volunteer taggers; and the local people of the Mexican mountains, who knew about the butterflies all along, 1950s (the tagging began) and January 1975 (the winter forests were found).** For a long time, nobody knew where the monarch butterflies of North America went in winter. Every autumn, millions of them flew south from Canada and the United States, and then they seemed to vanish. Many people did not believe that a butterfly, as light as a flower petal, could fly thousands of kilometres. In the 1950s, Norah Urquhart and Fred Urquhart, two scientists in Canada, asked ordinary people for help. Thousands of volunteers stuck tiny paper tags on the wings of monarchs. Each tag had a number and an address. When someone found a tagged butterfly, they posted the tag back and said where they found it. Year by year, the tags pointed further south, towards Mexico. In January 1975, Catalina Aguado, a young woman from Mexico, and Ken Brugger, an American who was helping the Urquharts, climbed into the mountains of central Mexico. There they found fir trees covered in millions of resting monarchs. The local people had known about them for generations. Later, butterflies carrying tags from the United States were found in those forests. A butterfly really could fly that far.  
+**Norah and Fred Urquhart, Canadian scientists. Catalina Aguado and Ken Brugger, who found the winter forests. Thousands of volunteer taggers. The local people of the Mexican mountains, who knew about the butterflies all along., 1950s (the tagging began) and January 1975 (the winter forests were found).** For a long time, nobody knew where the monarch butterflies of North America went in winter. Every autumn, millions of them flew south from Canada and the United States, and then they seemed to vanish. Many people did not believe that a butterfly, as light as a flower petal, could fly thousands of kilometres. In the 1950s, Norah Urquhart and Fred Urquhart, two scientists in Canada, asked ordinary people for help. Thousands of volunteers stuck tiny paper tags on the wings of monarchs. Each tag had a number and an address. When someone found a tagged butterfly, they posted the tag back and said where they found it. Year by year, the tags pointed further south, towards Mexico. In January 1975, Catalina Aguado, a young woman from Mexico, and Ken Brugger, an American who was helping the Urquharts, climbed into the mountains of central Mexico. There they found fir trees covered in millions of resting monarchs. The local people had known about them for generations. Later, butterflies carrying tags from the United States were found in those forests. A butterfly really could fly that far.  
 *What people believed before:* Many people did not believe that a butterfly could fly thousands of kilometres. Tags posted back from further and further south, and then tagged butterflies found in the Mexican forests, showed that monarchs really do.
 
 ## Challenging perspectives
@@ -127,15 +127,15 @@ A ring is a tiny metal or plastic band with a number. If the same bird is caught
 ## Roots
 We have met animals who cross half the world every year. A young bird on her first journey reaches the right part of the world without being shown the way. Your bowl test showed that there are two different ways to find your way.
 
-**Deep truth.** From the secret start, your usual steps stopped about as far from the bowl as you were moved. Your steps held a direction and a distance, and nothing about where the bowl was. A young bird on her first journey flies a direction and distance she was born with. So a storm that moves her can send her to the wrong country.  
-*Habit it breaks:* We talk about 'knowing the way' as one thing, as if it were a map in the head. Your test split it into two: a direction and distance, which works only from the usual start, and knowing the place, which works from anywhere.  
-*Evidence:* From the usual start, your steps stopped near the bowl. From the secret start, they stopped about as far from the bowl as you had been moved. A three-second peek brought you back. Perdeck's young starlings, moved from the Netherlands to Switzerland, kept their direction and ended up in Spain, while the adults turned towards their usual winter home.
+**Deep truth.** A young bird has no map. On her first journey she flies a direction and a distance that she was born knowing. An older bird also knows the places she has been. So a storm that blows a young bird off course can carry her to the wrong country.  
+*Habit it breaks:* We think 'knowing the way' is one thing, like a map in the head. It is really two things. One is a direction and distance to follow, which only works from the usual starting place. The other is knowing the place itself, which works from anywhere.  
+*Evidence:* In the Moved in the Night experiment, counting your steps took you to the bowl from the usual start. From the secret start, you ended up as far from the bowl as you had been moved. A quick peek at the room put you right. A scientist named Perdeck moved young starlings from the Netherlands to Switzerland. The young birds kept flying the same direction and ended up in Spain. The older birds turned towards their usual winter home.
 
 - *who am i:* You find your way in both ways every day: by counting steps or turns, and by knowing places, their sights, sounds and smells. You are a navigating animal, like the tern and the whale.
 - *what is life:* Some journeys are longer than one life. The monarchs who fly north in spring are not the ones who reach Canada. Their great-grandchildren are. The journey is carried on from parents to children, inside their bodies.
 - *what is this world:* A mudflat in Tamil Nadu and the Arctic tundra in Russia are joined every year by the same small birds. To a sandpiper, they are two ends of one home.
 
-A young bird carries a direction inside her from birth. An older bird also knows the places she has been. Your steps and your peek were these two kinds of knowing. One is carried by the traveller wherever she goes. The other belongs to a place, and is learned by being there.
+A young bird carries a direction inside her from birth. An older bird also knows the places she has been. In the Moved in the Night experiment, your counted steps and your quick peek were these two kinds of knowing. One is carried by the traveller wherever she goes. The other belongs to a place, and is learned by being there.
 
 - **Jeremiah 8:7, in the Hebrew Bible:** The stork in the sky knows her appointed times. The turtledove, the swift and the crane keep the time of their coming. (About 2,600 years ago, people already saw that storks, doves, swifts and cranes leave and return at the same time every year, without being taught. Today we know that young birds are born with a timing and a direction.)
 - **Kalidasa, Meghaduta (The Cloud Messenger), first part, verse 11 (numbering differs a little between editions):** When they hear the cloud's thunder, the royal swans, longing for Lake Manasa, fly with the cloud through the sky as far as Mount Kailasa, carrying pieces of lotus stalk as food for the journey. (Bar-headed geese leave India in spring for lakes on the Tibetan plateau, the same high country as Mount Kailasa. A long journey really does need food stored for the way: real birds carry it as fat.)
@@ -146,18 +146,18 @@ A young bird carries a direction inside her from birth. An older bird also knows
 - Science (debated): How birds sense the Earth's magnetism, and how an inborn direction is carried in the body, are still being worked out.
 - Science (idea): Whether globe skimmer dragonflies cross the ocean from India to Africa and back is very likely, but not yet proved.
 - Other view, Many biologists: A young bird's inborn direction is a program carried in her genes, shaped over millions of years by which birds survived the journey. They call it an instinct, and would rather not use the word 'knowing' for it.
-- Practice, Point the Way Home (3 min): Let's stand up and close our eyes. Point to the front door. Now I'll turn you slowly round three times. Point to the door again. Open your eyes. Were you closer the first time or the second?
+- Practice, Point the Way Home (3 min): Let's stand up and close our eyes. Point to the front door. Now I'll turn you slowly round three times. Point to the door again. Open your eyes. Were you closer the first time or the second? When you were turned, you lost your sense of where the door was. That is a little like a young bird who is blown off course by a storm.
 - Ask: A young cuckoo knows which way to fly before she has ever flown. Where did that knowing come from?
-- Ask: When you know a place, is the knowing in you, or in the place?
-- Ask: If a journey takes four lives to finish, who is the traveller?
+- Ask: You carry your counted steps with you wherever you stand. But knowing a place only helps once you can see it. Which kind of knowing would you rather have if you were lost?
+- Ask: If a journey takes four butterfly lifetimes to finish, do you think of the journey as one butterfly's, or the whole family's?
 
 ## Deep and big questions
-- *deep:* A young cuckoo flies to Africa alone, the right way, without ever meeting her parents. Where is the map: inside her, or out in the world? (hint: Think about your test. Your counted steps were inside you. The bowl was out in the room. Which one did you need when you were moved?)
-- *deep:* When you were moved to a new start, your steps went wrong. Did your steps make a mistake, or did the world around them change? (hint: Your steps were the same as before. What was different?)
-- *big:* The monarch who leaves Mexico in spring never reaches Canada. Her great-granddaughter does. Whose journey is it? (hint: Is a journey something one traveller does, or something a whole family carries on?)
+- *deep:* A young cuckoo flies to Africa alone, the right way, without ever meeting her parents. Does she carry the directions inside her body, or does she need to see the world to find the way? (hint: Think about your test. Your counted steps were carried inside you. The bowl was out in the room. Which one did you need after you were moved?)
+- *deep:* When you were moved to a new start, your steps took you to the wrong place. Were your steps wrong, or was the start wrong? (hint: Your steps were the same as before. What was different?)
+- *big:* The monarch who leaves Mexico in spring never reaches Canada. Her great-granddaughter does. Is it one butterfly's journey, or the whole family's? (hint: Is a journey something one traveller does, or something a whole family carries on?)
 - *big:* An Arctic tern follows the summer around the world and sees two summers every year. What would your year be like if you followed the summer? (hint: Think about what you would miss, and what you would gain.)
-- *big:* Shepherds, fishers and workers in India travel with the seasons too. Can a journey you make every year be a kind of home? (hint: Ask someone in your family who goes to the same place every year what it feels like when they arrive.)
-- *big:* Bright city lights at night can confuse birds that fly by the stars. Who should the night sky belong to? (hint: Think about people who work at night, birds that fly at night, and the stars themselves.)
+- *big:* Shepherds, fishers and workers in India travel with the seasons too. Can a place you return to every year feel like home? Why? (hint: Ask someone in your family who goes to the same place every year what it feels like when they arrive.)
+- *big:* Bright city lights at night confuse birds that fly by the stars. People need light at night too. How could we share the night with the birds? (hint: Think about people who work at night, birds that fly at night, and the stars themselves.)
 
 ## Story: The Ring at Kodiakkarai
 *Curlew sandpipers really do breed in the Arctic tundra of Russia and spend the winter on Indian coasts, including Point Calimere (Kodiakkarai), where bird scientists have ringed waders for many years. In this kind of bird, the adults leave the Arctic first and the young fly south weeks later, on their own. Lost young birds far from their usual range are found more often than lost adults. The starling experiment Chitti mentions was done by A.C. Perdeck in the Netherlands and published in 1958. Harini, Arun and Chitti Selvi are made up.*
@@ -251,6 +251,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 
 ## Experiments
 ### e1 · Moved in the Night: do your steps still find the bowl from a new start? (30 min)
+- **problem:** A young bird on her first journey flies a direction that she was born knowing. A storm can blow her to a new place. In this experiment you learn to walk to a bowl by counting steps. Then a grown-up secretly moves your start, the way a storm can move a bird. You see what happens to your steps.
 - **question:** If you learn to reach a bowl by counting your steps, can you still find the bowl when someone moves your starting spot without telling you?
 - **predict:** Guess first. When your eyes are covered and you start from a new spot, will your usual steps still take you to the bowl? If not, how far away will you stop? And if you peek at the bowl for three seconds first, what will happen? Why do you think so?
 - **fair test:** Every walk uses the same number of steps, the same cloth over your eyes, and your normal walking speed. Only one thing changes: where you start, and whether you peek. Try each way 3 times, because one try can be a fluke.
@@ -298,6 +299,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
   - Note: A strong answer says that the steps carried a direction and a distance, and that the peek gave the place. This is the difference between a young bird and an older one.
   - Think: A young bird on her first journey flies a direction she was born with. What would happen to her if a storm moved her?
 ### e2 · Wind at Your Back: how much further does a tailwind carry a paper butterfly? (25 min)
+- **problem:** A butterfly or a dragonfly is tiny and weak compared with the wind. A wind that blows from behind is called a tailwind, and it can carry a small flyer along. In this experiment a fan makes a tailwind for a paper butterfly.
 - **question:** How much further does a falling paper butterfly travel when a wind blows from behind?
 - **predict:** Guess first. With no wind, where will the butterfly land? With the fan blowing behind it, how far will it go: a little further, twice as far, or more? Why do you think so?
 - **fair test:** Use the same butterfly, dropped from the same height, from the same spot, every time. Keep the fan at the same speed and the same distance. Only the wind changes. Drop it 3 times each way, because one drop can be a fluke.
@@ -422,7 +424,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **problem:** A tracker that is too heavy can tire a bird or make her fall behind. Find out how much extra weight a paper plane can carry before it flies much shorter, and where to put the weight so it flies best.
 - **your turn:** Now design the best place and the lightest tracker for your plane. Draw it, test it 3 times, and write how far it flew compared with no tracker.
 - **constraints:** Use one paper plane for every test.; The 'tracker' is paper clips, taped on.; Throw from the same spot, with the same gentle push, 3 times for each test.
-- **general:** Scientists use a rule of thumb: a tracker should weigh no more than about 3 parts in every 100 of the bird's weight.; Trackers are fixed near the middle of the back, close to where the body balances, so they don't pull the bird off balance.; Solar panels on trackers mean smaller batteries, so the tracker can be lighter.
+- **general:** Scientists use a rule that a tracker should weigh no more than about 3 grams for every 100 grams of the bird's weight. So a bird who weighs 100 grams can carry a tracker of about 3 grams.; Trackers are fixed near the middle of the back, close to where the body balances, so they don't pull the bird off balance.; Solar panels on trackers mean smaller batteries, so the tracker can be lighter.
 - **creative:** Fix the clips on the middle of the plane instead of the nose or tail, and see if it balances better.; Make a lighter 'tracker' from a small scrap of foil instead of a clip, and see if the plane flies further.; Some scientists don't put trackers on birds at all. They use radar, cameras or the songs birds make at night.
 - **s1 (5 min)**  
   *Parent does:* 1. Fold a simple paper plane. 2. Throw it 3 times from the same spot. 3. Measure each flight and write it down.  
@@ -483,8 +485,8 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
    **Answer:** Arctic tern → from the Arctic to Antarctica and back; Humpback whale → between cold seas full of krill and warm seas for calves; Monarch butterfly → from Canada to the mountains of Mexico; Demoiselle crane → from Central Asia over the Himalayas to Rajasthan; Hilsa fish → from the Bay of Bengal up rivers to lay eggs. *Why:* Each of these is a real yearly journey. The Arctic tern's is the longest known.
 6. (truefalse) Most young birds learn the way on their first journey by following their parents.  
    **Answer:** False. *Why:* False for many birds. Young cuckoos never meet their parents, and young curlew sandpipers fly south weeks after the adults. They still reach the right part of the world. Some birds, like cranes and geese, do travel as families.
-7. (write) In the bowl test, you walked your usual steps from a secret new start. Where did you stop, and why?  
-   **Answer:** I stopped about as far to one side of the bowl as my start had been moved. My steps went the same way and the same distance as always, so they ended in a new place.. *Why:* A strong answer uses the child's own numbers and says the steps carry a direction and a distance, not the place of the bowl.
+7. (write) With your eyes shut, you learn to walk from a mark to a bowl in your usual steps. Then someone moves your start 2 steps to the left, without telling you. Where will you stop, and why?  
+   **Answer:** About 2 steps to the left of the bowl. My steps go the same way and the same distance as always, so they end in a new place.. *Why:* A strong answer says the steps carry a direction and a distance, not the place of the bowl.
 8. (mcq) Revathi, a girl in Kochi, does the bowl test. From the secret start, she stops 4 foot-lengths from the bowl. Then she peeks at the bowl for three seconds, and stops 1 foot-length away. What helped her?  
    Options: She walked faster / She took bigger steps / She knew where the bowl was  
    **Answer:** She knew where the bowl was. *Why:* The peek showed her where the bowl was, so she could walk to the place, not just do her steps. This is how older birds who know a place can correct a wrong start.
@@ -521,7 +523,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
    **Answer:** 21. *Why:* 70,000 times 30 is 21,00,000 kilometres, which is 21 lakh. That is like flying to the Moon and back nearly three times.
 6. (sort) Sort these into clues a bird can use to find the way, and things that make finding the way harder.  
    **Answer:** the Sun → Helps find the way; thick cloud → Makes it harder; the stars → Helps find the way; bright city lights → Makes it harder; the Earth's magnetism → Helps find the way; a storm → Makes it harder; a coastline → Helps find the way. *Why:* The Sun, stars, the Earth's magnetism and landmarks guide birds. Clouds hide the Sun and stars, bright lights hide the stars, and storms blow birds off course.
-7. (write) In the paper butterfly test, why did the butterfly go further with the fan behind her, even though she took about the same time to fall?  
+7. (write) A paper butterfly is dropped twice from the same height: once in still air, and once with a fan blowing from behind. Why does she land further away with the fan, even though the fall takes about the same time?  
    **Answer:** All the time she was falling, the moving air pushed her forward. The fall took about the same time, but now she was moving forward the whole way down, so she landed further away.. *Why:* A strong answer separates falling (down) from being pushed (forward), and says the push lasted the whole fall.
 8. (mcq) Most humpback whales migrate. Humpbacks in the Arabian Sea stay all year. What is the best explanation?  
    Options: They have forgotten how to migrate / Their sea gives them enough food and warmth all year / They are a different kind of animal, not a whale  
@@ -549,13 +551,13 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 3. (mcq) In the bowl test, Arun, a boy in the story, is moved 1 metre to the left and walks his steps. He stops 1 metre to the left of the bowl. His sister moves him 2 metres to the left. Where will he probably stop?  
    Options: Right at the bowl / About 2 metres to the left of the bowl / About 1 metre to the left of the bowl  
    **Answer:** About 2 metres to the left of the bowl. *Why:* His steps carry the same direction and distance from any start. So the stopping spot moves by the same amount as the start: about 2 metres to the left.
-4. (write) An autumn monarch flies to forests in Mexico that she has never seen. Her great-great-grandmother left those forests. Some people say, 'The journey is remembered.' Who or what remembers it? Explain your answer.  
+4. (write) An autumn monarch flies to forests in Mexico that she has never seen. Her great-great-grandmother left those forests. How can she know the way? Explain your answer.  
    **Answer:** The journey is carried in the butterflies' bodies, passed on from parents to children, together with their use of the Sun and their body clock. No single butterfly has done the whole trip, so the knowing must be passed down.. *Why:* A strong answer says the direction is inborn and passed down through generations, and admits that exactly how they find the same forests is not fully known.
 5. (count) In the paper butterfly test, Ananya's butterfly landed 20 cm from the coin with no wind, and 160 cm with the fan behind. How many times further did the tailwind carry her?  
    **Answer:** 8. *Why:* 160 divided by 20 is 8. So the tailwind carried her 8 times as far from the same height.
-6. (mcq) A tracker should weigh no more than about 3 parts in every 100 of an animal's weight. A bird weighs 100 grams. What is the heaviest tracker she should carry?  
+6. (mcq) A tracker should weigh no more than about 3 grams for every 100 grams of an animal's weight. A bird weighs 100 grams. What is the heaviest tracker she should carry?  
    Options: About 3 grams / About 30 grams / About 100 grams  
-   **Answer:** About 3 grams. *Why:* 3 parts in every 100 of 100 grams is 3 grams. A heavier tracker could tire her or slow her down.
+   **Answer:** About 3 grams. *Why:* The rule allows 3 grams for every 100 grams. This bird weighs exactly 100 grams, so her tracker can weigh 3 grams. A heavier tracker could tire her or slow her down.
 7. (truefalse) Scientists know exactly how birds sense the Earth's magnetism.  
    **Answer:** False. *Why:* False. Many think a protein called cryptochrome in birds' eyes is involved. Others think nerves in the beak or ears help. It is still argued about.
 8. (write) Your steps worked from the usual start, and a peek worked from anywhere. Which kind of knowing does a young bird use, and which does an older bird have? Why might birds need both?  
@@ -564,8 +566,8 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
    **Answer:** Arctic tern: Arctic to Antarctica → Known from trackers, rings or tags; Globe skimmer: India to East Africa and back → Still being checked; Amur falcon: Nagaland to southern Africa → Known from trackers, rings or tags; Monarch: Canada to Mexico → Known from trackers, rings or tags; Bar-tailed godwit: Alaska to Tasmania without stopping → Known from trackers, rings or tags. *Why:* The tern, godwit, falcon and monarch journeys have been followed with trackers, rings or tags. The globe skimmer's full route across the ocean has not yet been followed.
 10. (draw) Design a city building that is safer for birds that fly at night. Draw it and label two features.  
    **Answer:** A building with lights that are off or shaded at night, glass with patterns birds can see, or no lights pointing up at the sky.. *Why:* A strong design deals with the two real dangers: bright lights that confuse night flyers, and glass that birds cannot see.
-11. (order) Put these events in the story of how the monarch's winter home was found, in order.  
-   **Answer:** ['Volunteers start sticking paper tags on monarchs.', 'Tags are posted back from further and further south.', 'Catalina Aguado and Ken Brugger find the forests full of monarchs.', 'Tagged butterflies from the United States are found in those forests.']. *Why:* The tags came first, pointing south. The forests were found in 1975, and then tagged butterflies were found there, proving the journey.
+11. (order) Scientists want to find where butterflies go in winter. Put these steps in the order that makes sense.  
+   **Answer:** ['Volunteers stick paper tags on butterflies.', 'Tags are posted back from further and further south.', 'People search there and find forests full of butterflies.', 'Tagged butterflies are found in those forests.']. *Why:* The tags come first, pointing the way. Then people search where the tags point. Finding tagged butterflies in the forests proves the journey.
 12. (mcq) Rukmini, a girl in Bengaluru, says, 'If a young bird's direction is inborn, then a bird born to parents who fly south-west will also fly south-west.' What would test her idea?  
    Options: Ask the parents which way they fly / Count how many eggs the parents lay / Raise young birds away from their parents, and see which way they try to fly at migration time  
    **Answer:** Raise young birds away from their parents, and see which way they try to fly at migration time. *Why:* To test whether direction is passed from parents, you raise young birds away from their parents and see which way they try to go at migration time. Scientists have done this with small birds called blackcaps.
@@ -609,12 +611,12 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 9. (mcq) Young starlings moved from the Netherlands to Switzerland ended up in Spain. Adults reached their usual winter home. Why?  
    Options: The young were faster / The young kept their inborn direction, while the adults knew the place / The adults followed the young  
    **Answer:** The young kept their inborn direction, while the adults knew the place. *Why:* Like your counted steps, the young birds' direction worked only from the usual start. The adults knew where their winter home was, like your peek at the bowl.
-10. (mcq) How did scientists find out where monarch butterflies go in winter?  
+10. (mcq) How could scientists find out where monarch butterflies go in winter?  
    Options: Volunteers tagged butterflies, and the tags pointed the way to Mexico / They followed them in an aeroplane / They read it in an old book  
    **Answer:** Volunteers tagged butterflies, and the tags pointed the way to Mexico. *Why:* Thousands of volunteers stuck paper tags on monarchs. In 1975, Catalina Aguado and Ken Brugger found the forests in Mexico. Local people had known about them all along.
 11. (mcq) Why must a tracker on a bird be very light?  
    Options: So it doesn't slow her down or tire her / So it is cheaper / So other birds can't see it  
-   **Answer:** So it doesn't slow her down or tire her. *Why:* A heavy tracker makes the journey harder. A rule of thumb is no more than about 3 parts in every 100 of the bird's weight.
+   **Answer:** So it doesn't slow her down or tire her. *Why:* A heavy tracker makes the journey harder. A common rule is that a tracker should weigh no more than about 3 grams for every 100 grams of the bird's weight.
 12. (mcq) Your paper butterfly landed much further with the fan behind her. Why do many migrants wait for a tailwind?  
    Options: It carries them further for the same effort / It makes them lighter / It keeps them warm  
    **Answer:** It carries them further for the same effort. *Why:* The moving air pushes them along while they fly, like the fan pushed your butterfly while she fell. Radar shows many more birds take off when the wind blows their way.
@@ -660,7 +662,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - Why do you think the Arctic tern goes to the bottom of the world and not just halfway?
 - Does anyone in our family travel to the same place every year? Why?
 - What would you pack as fuel for a long journey with no shops on the way?
-- If a butterfly's journey takes four lives, whose journey is it?
+- The monarch journey north takes four generations of butterflies. Do you think of it as one journey, or four? Why?
 
 ## Jokes
 - Why do birds fly south for the winter? *Because it is too far to walk.*

@@ -70,7 +70,7 @@ The first ant to find food is often alone. She drinks or picks up a piece, and w
 ### How a colony decides without a leader · *defined*
 **Definition:** A colony makes choices as a group. Each ant makes small choices, such as which trail to follow and how much scent to lay. Together, these small choices become one choice for the whole colony.
 
-Think of your sugar test. No ant tasted every drop and then gave orders. The ants that drank the strong sugar laid more scent on the way home. More ants followed that trail, so more ants laid scent there. The trail to the weak drop stayed faint. Soon most ants were at the strong drop. The scientist Deborah Gordon studied harvester ants in the deserts of Arizona for more than 30 years. She found that ants decide whether to go out for food by how often they meet ants coming back with food. Many quick meetings mean food is easy to find. Scientists call a group choice like this collective decision-making. Sometimes the crowd gets stuck. If ants find a weak drop first and build a strong trail, they may keep going there even after a sweeter drop appears.
+In the sugar drop test, you put a weak sugar drop and a strong sugar drop near an ant road. No ant tasted both drops and then told the others which one was better. The ants that drank the strong sugar laid more scent on the way home. More ants followed that trail, so more ants laid scent there. The trail to the weak drop stayed faint. Soon most ants were at the strong drop. The scientist Deborah Gordon studied harvester ants in the deserts of Arizona for more than 30 years. She found that ants decide whether to go out for food by how often they meet ants coming back with food. Many quick meetings mean food is easy to find. Scientists call a group choice like this collective decision-making. Sometimes the crowd gets stuck. If ants find a weak drop first and build a strong trail, they may keep going there even after a sweeter drop appears.
 - e.g. Honeybees choose a new home the same way: scouts dance for the places they found, and the best place gets the most dancers.
 - e.g. A flock of starlings turns together because each bird watches the seven or so birds nearest to them.
 - e.g. People on a busy railway platform make paths through the crowd without anyone in charge.
@@ -91,7 +91,7 @@ The parents lead the pack. They choose where to travel and start the hunt. The y
 - e.g. Street dogs in Indian cities are related to wolves. They often live in small groups too.
 ### Humans live in societies too · *idea*
 Humans are animals who live in societies: families, villages, schools and cities. Like elephants, we learn a lot from older people. The scientist Kristen Hawkes studied the Hadza people in Tanzania. She found that grandmothers there gather food that helps their grandchildren grow. She suggested that grandmothers helped humans survive for thousands of years. This idea is called the grandmother hypothesis. Lauren Brent and her team found something like it in killer whales. Old females who no longer have calves lead their families to salmon, especially in years with little food. Scientists still argue about how much grandmothers explain.
-- e.g. A grandmother who remembers which leaves are safe to eat, and which plants help a fever.
+- e.g. A grandmother may remember which leaves are safe to eat and which plants help with a fever. She teaches this to her grandchildren.
 - e.g. Older killer whale females swim in front when food is hard to find.
 - e.g. In many Indian homes, children learn recipes, songs and festival customs from their grandmothers.
 
@@ -129,7 +129,7 @@ Humans are animals who live in societies: families, villages, schools and cities
 ## Roots
 We have learned how elephant families, ant colonies and wolf packs live and decide together. Now we ask what animal societies tell us about ourselves and the world.
 
-**Deep truth.** Usually the strong sugar drop ends up with far more ants than the weak one. No ant is in charge, and none gives orders. Ants that drink the sweeter sugar lay more scent on their way home. Those many small choices add up to one choice for the whole nest.  
+**Deep truth.** In the sugar drop test, the strong sugar drop ended up with far more ants than the weak one. No ant is in charge, and none gives orders. Ants that drink the sweeter sugar lay more scent on their way home. Those many small choices add up to one choice for the whole nest.  
 *Habit it breaks:* We expect every group to have a boss who decides, like a captain or a head teacher. An ant nest has a queen, but she stays inside laying eggs and gives no orders. The choice is made by many ants together.  
 *Evidence:* In the sugar drop test, the strong drop usually gains ants faster and faster, while the weak drop keeps only a few. The queen is never there. The ants decide out on the floor, one ant at a time.
 
@@ -137,24 +137,24 @@ We have learned how elephant families, ant colonies and wolf packs live and deci
 - *what is life:* Many living beings survive by living together. An elephant calf, a worker ant and a wolf pup could not grow up alone.
 - *what is this world:* Scientists estimate that about 20 million billion ants are alive on Earth. All ants live in colonies, on nearly every piece of land.
 
-One ant alone can find a drop of sugar. Thousands of ants, each sensing and choosing, find the best food and build roads to it. An elephant family carries the memory of their oldest member to every calf. In each society, the members act together, and each member still senses and chooses for herself.
+One ant alone can find a drop of sugar. Thousands of ants, each sensing and choosing, find the best food and build roads to it. In an elephant family, what the oldest member remembers is passed on to every calf. In each society, the members act together, and each member still senses and chooses for herself.
 
 - **Bhagavad Gita 3.21:** Whatever a great person does, others do too. The example they set, the world follows. (An elephant family follows the matriarch because of what she does: where she walks, where she digs, when she stops to listen. She leads by example, not by orders.)
-- **Tao Te Ching 17:** The best leaders are hardly noticed. When the work is done, the people say, 'We did it ourselves.' (In your sugar test no ant was seen leading, yet the colony chose the sweeter drop. The choice came from the ants themselves.)
+- **Tao Te Ching 17:** The best leaders are hardly noticed. When the work is done, the people say, 'We did it ourselves.' (In the sugar drop test, no ant leads, yet most ants usually end up at the sweeter drop. The choice comes from the ants themselves.)
 - **Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa: umuntu ngumuntu ngabantu:** A person is a person through other people. (A worker ant, an elephant calf and a wolf pup each grow up through their family. What each one becomes depends on the others around them.)
 - Science (settled): In lab tests, ant colonies end up mostly at the sweeter of two sugar drops, because ants lay more trail scent for sweeter food.
 - Science (open): Whether a colony has a mind of its own, as well as each ant, is still argued about.
 - Other view, Many biologists: A colony is many ants following simple rules, such as 'lay more scent for sweeter food'. Calling the colony's choice a decision is a handy way of talking. It does not show that the colony is one being with a mind of its own.
-- Practice, Walk without a leader (3 min): Let's all stand up in the middle of the room. Nobody leads, and nobody talks. Each of us watches only the person next to us. If they move, we move a little the same way. Let's walk slowly for one minute. Now stop. Close your eyes and take five slow breaths. Did we move together? Who decided where we went?
-- Ask: Your ants chose the strong drop together. Did the colony choose, or did each ant choose, or both?
+- Practice, Walk without a leader (3 min): Let's all stand up in the middle of the room. Nobody leads, and nobody talks. Each of us watches only the person next to us. If they move, we move a little the same way. Let's walk slowly for one minute. Now stop. Close your eyes and take five slow breaths. Did we move together? Who decided where we went? Nobody did. Each of us only followed the person next to us, the way ants follow each other along a trail.
+- Ask: In the sugar drop test, most ants usually end up at the strong drop. Did the colony choose, or did each ant choose, or both?
 - Ask: An elephant grandmother remembers water from long ago. Who in your family remembers things that no one else does?
 - Ask: If no ant is in charge, why does the colony not fall apart?
 
 ## Deep and big questions
-- *deep:* Your ants chose the sweeter drop together. Who made the choice: each ant, the whole colony, or both? (hint: Think about what one ant did, and what the crowd did. Could one ant alone have done what the crowd did?)
+- *deep:* In the sugar drop test, most ants usually end up at the sweeter drop. Who made the choice: each ant, the whole colony, or both? (hint: Think about what one ant did, and what the crowd did. Could one ant alone have done what the crowd did?)
 - *deep:* An old matriarch remembers a water pool from 35 years ago. Where is a family's knowledge kept, if not in a book? (hint: Think of what an older relative or neighbour knows that nobody wrote down.)
 - *deep:* Why do some animals live alone, like a tiger, and others in groups, like elephants? (hint: Think about food. Is a tiger's food easy to share? Is an elephant's?)
-- *big:* Every worker ant is a female, and elephant families are led by females. Why do people so often picture a male leader? (hint: Think about stories, cartoons and words like 'king of the jungle'. Where do our pictures come from?)
+- *big:* Every worker ant is a female, and elephant families are led by females. Why do people so often picture a male leader? (hint: Think about stories, cartoons and words like 'king of the jungle'. Where do our ideas of a leader come from?)
 - *big:* Is a city like an ant colony? Who decides where people walk on a crowded street? (hint: Watch a busy road or a market from a balcony. Does anyone give orders?)
 - *big:* If you grew up with no one older to learn from, what would you not know? (hint: Think of a young elephant whose matriarch was killed. What would she have to work out alone?)
 
@@ -238,7 +238,7 @@ Doddamma had brought her family to the river again.
 ## Games
 ### g1 · Herd, Colony or Pack? (15 min)
 - **rules:** Cut out the 18 cards. Shuffle them and put them in a pile, clue side up.; On your turn, read the top clue aloud. Say which society it is about: elephant family, ant colony, wolf pack, or all three.; Turn the card over. If you were right, keep the card and put it on the matching space of the mat. If you were wrong, put it at the bottom of the pile.; Before the next player's turn, say one more fact about the society on the card, if you can. A good fact wins you a second turn.; When the pile is empty, the player with the most cards wins. Playing alone, try to win all 18 cards in as few turns as you can.
-- **Printable cards: 18 clue cards to cut out (the answer is on the back):** Led by the oldest female, often a grandmother. (back: Elephant family); The mother lays all the eggs, deep in the nest. (back: Ant colony); Led by a mother and a father, who are the parents of the others. (back: Wolf pack); All the workers are females. (back: Ant colony); Young males leave as teenagers. Daughters stay for life. (back: Elephant family); Members call each other with long howls. (back: Wolf pack); Members follow scent trails to food. (back: Ant colony); Members talk with deep rumbles you feel more than hear. (back: Elephant family); Last year's young bring meat to the new pups. (back: Wolf pack); The members are a family who help each other. (back: All three); The leader can find water under a dry riverbed. (back: Elephant family); There can be thousands of members, sisters, in one home. (back: Ant colony); They hunt deer and blackbuck together. (back: Wolf pack); When danger comes, they gather round the calves. (back: Elephant family); They tap antennae when they meet. (back: Ant colony); People once wrongly said they were ruled by a fighting 'alpha'. (back: Wolf pack); The young learn from older members. (back: All three); In India you can see them in Nagarhole, Periyar and Kaziranga. (back: Elephant family)
+- **Printable cards: 18 clue cards to cut out (the answer is on the back):** Led by the oldest female, often a grandmother. (back: Elephant family); The mother lays all the eggs, deep in the nest. (back: Ant colony); Led by a mother and a father, who are the parents of the others. (back: Wolf pack); All the workers are females. (back: Ant colony); Young males leave as teenagers. Daughters stay for life. (back: Elephant family); Members call each other with long howls. (back: Wolf pack); Members follow scent trails to food. (back: Ant colony); Members talk with deep rumbles you feel more than hear. (back: Elephant family); Last year's young bring meat to the new pups. (back: Wolf pack); The members are a family who help each other. (back: All three); The leader can find water under a dry riverbed. (back: Elephant family); There can be thousands of members in one home, and they are all sisters. (back: Ant colony); They hunt deer and blackbuck together. (back: Wolf pack); When danger comes, they gather round the calves. (back: Elephant family); They tap antennae when they meet. (back: Ant colony); People once wrongly said they were ruled by a fighting 'alpha'. (back: Wolf pack); The young learn from older members. (back: All three); In India you can see them in Nagarhole, Periyar and Kaziranga. (back: Elephant family)
 - **Printable board: A mat with 4 spaces to lay the won cards on:** Elephant family; Ant colony; Wolf pack; All three
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards and lay out the mat. 2. Shuffle the cards into a pile, clue side up.  
@@ -255,7 +255,7 @@ Doddamma had brought her family to the river again.
   *Child mode:* Look at the 'All three' cards. What do all three share?
   - Ask: What do elephant families, ant colonies and wolf packs all have in common? (good: They are all families.; The young learn from older members.; They help each other survive.)
 ### g2 · The Dry Season Walk (20 min)
-- **rules:** You need the board, the cards, one dice and a counter for each player. Each counter is an elephant family. Put every counter on square 0.; On your turn, another player reads you the top question card. Playing alone? Read it yourself, say your answer, then turn the card over to check.; Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square.; If you land on a square with a message, do what it says. Squares you are sent to by a message do nothing more.; On a TELL IT card, any sensible true answer counts as right.; When the cards run out, shuffle them and use them again.; The first family to reach the Kabini river, square 16, wins. You don't need the exact number to finish.
+- **rules:** You need the board, the cards, one dice and a counter for each player. Each counter is an elephant family. Put every counter on square 0.; On your turn, another player reads you the top question card. Playing alone? Read it yourself, say your answer, then turn the card over to check.; Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square.; If you land on a square with a message, do what it says. If the message sends you to another square, ignore any message on that square.; On a TELL IT card, any sensible true answer counts as right.; When the cards run out, shuffle them and use them again.; The first family to reach the Kabini river, square 16, wins. You don't need the exact number to finish.
 - **Printable board: A forest path board with 17 squares, numbered 0 to 16, from the dry forest to the Kabini river:** Square 0: The dry forest. Start here.; Square 1: forest path, nothing happens; Square 2: forest path, nothing happens; Square 3: DRY POOL: the pool is mud. Go back 2 squares, unless you can say how an old matriarch finds water.; Square 4: forest path, nothing happens; Square 5: DANGER NEAR: say what an elephant family does when they sense danger. Then move on 1 square.; Square 6: forest path, nothing happens; Square 7: TEENAGE BULL: your young male wanders off to live with other males. Say why he leaves, then move on 1.; Square 8: forest path, nothing happens; Square 9: DRY POOL: the pool is mud. Go back 2 squares, unless you can say how an old matriarch finds water.; Square 10: forest path, nothing happens; Square 11: RIVER SMELL: the matriarch smells water on the wind. Move on 2 squares.; Square 12: forest path, nothing happens; Square 13: DANGER NEAR: say what an elephant family does when they sense danger. Then move on 1 square.; Square 14: forest path, nothing happens; Square 15: NEW CALF: a calf is born. Wait one turn while the family gathers round.; Square 16: The Kabini river, the finish
 - **Printable cards: 16 question cards to cut out (the answer is on the back):** Who leads an elephant family? (back: The matriarch, usually the oldest female); Why does the family follow the oldest female? (back: She remembers the most: water, paths and dangers); Where do adult male elephants live? (back: Alone, or in loose groups of males); What is a baby elephant called? (back: A calf); Do female Asian elephants have big tusks? (back: No. They have none, or tiny ones); How does an elephant find water in a dry riverbed? (back: She digs in the sand with her foot and trunk); In Africa, which lions are most dangerous to elephant calves: males or females? (back: Males); Name one way elephants talk to each other. (back: Deep rumbles, trumpets or touch); Who stays in the family for life: daughters or sons? (back: Daughters); Where do many elephant families gather in summer, in Karnataka? (back: Along the Kabini river); Who does an elephant calf learn the way from? (back: Their mother, aunts and grandmother); What happens when a family hears danger? (back: They gather round, with the calves in the middle); Who leads the family when the matriarch dies? (back: Usually one of the older females); Is the biggest elephant always the leader? (back: No. The most experienced female leads); TELL IT: say one thing an older person you know remembers that you do not. (back: Any true answer wins the move); TELL IT: in one sentence, say why old age helps a leader. (back: She has lived through more, so she knows more)
 - **s1 (3 min)**  
@@ -292,11 +292,11 @@ Doddamma had brought her family to the river again.
   - Note: Accept any guess with a reason. Don't hint. The strong mix will look thick and may not all dissolve. That is fine.
 - **s3 (30 min)**  
   *Parent does:* 1. Every 5 minutes, count the ants on each square and write both numbers in the table. 2. In between, sit still and watch. 3. Follow one ant from the strong drop with your eyes. Does she walk straight back towards the ant road?  
-  *Parent says:* We count both squares at the same time, every 5 minutes. In between, let's watch what the ants do. Do they meet each other?  
+  *Parent says:* We count both squares at the same time, every 5 minutes. In between, let's watch what the ants do. Do they meet each other? Also watch one ant who has found the sugar. She walks straight home, and she leaves a scent trail as she goes. You cannot smell it, but other ants can.  
   *Child mode:* Every 5 minutes, count the ants on each square. Write the numbers down. In between, watch one ant. Where does she go?
   - Ask: What do two ants do when they meet on the path? (good: They touch each other with their antennae.; They stop for a moment, then walk on.)
   - Note: Ants that keep moving are hard to count. Count the ants touching the square, and count twice if you are unsure. If after 15 minutes no ant has come to either drop, move both squares closer to the ant road, together, and start the count again. Sometimes the ants find the weak drop first and keep crowding it. That is a real result too, and the explanation cards say why it happens.
-  - Think: No ant has tasted both drops and told the others. So how do the ants end up at one more than the other?
+  - Think: No ant has tasted both drops and told the others. So how do more ants end up at one drop than at the other?
 - **s4 (4 min)**  
   *Parent does:* 1. Look at your table together. 2. Ask your child to say what they found, what they saw, and why they think it happened.  
   *Parent says:* Let's look at the numbers. What did you find? What did you see that tells you so? Why do you think it happened?  
@@ -308,6 +308,7 @@ Doddamma had brought her family to the river again.
   *Parent says:* The ants did our experiment with us. Let's clean up gently and let them go home.  
   *Child mode:* Wipe up the sugar with a damp cloth. Let the ants go home.
 ### e2 · Ask the Elders: who remembers the most about our place? (30 min)
+- **problem:** An old elephant matriarch leads her family because she remembers the most, such as where to find water in a dry year. In this experiment you ask people of different ages in your family the same questions. You find out whether older people always know more.
 - **question:** Do older people in our family know more about the place where we live, or does it depend on the question?
 - **predict:** Guess first. Who will answer the most questions: you, a grown-up, or the oldest person you ask? Why do you think so?
 - **fair test:** Ask everyone the same 6 questions, in the same order, with no hints. Nobody hears anyone else's answers. Give 1 point for each full answer.
@@ -327,7 +328,7 @@ Doddamma had brought her family to the river again.
   *Parent does:* 1. Ask each person the 6 questions, one at a time, in the same order. 2. Don't give hints. 3. Write down each answer. 4. Answer the questions yourself first, before anyone else, so you don't hear their answers.  
   *Parent says:* We ask everyone exactly the same way, so the test is fair. No hints, even if they get stuck.  
   *Child mode:* Answer the questions yourself first. Then ask the others. Same questions, same order. No hints!
-  - Note: A grown-up helps to make the phone call. Older people may want to tell long stories. Listen, and write down the answer to the question.
+  - Note: If you ask someone by phone, a grown-up helps to make the call. Older people may want to tell long stories. Listen, and write down the answer to the question.
 - **s4 (7 min)**  
   *Parent does:* 1. Give 1 point for each full answer. 2. Add up the 'long ago' and 'now' points for each person. 3. Draw a bar for each person's total.  
   *Parent says:* Let's score them. Who knew most about long ago? Who knew most about now? What does that tell us?  
@@ -349,9 +350,10 @@ Doddamma had brought her family to the river again.
   - Ask: Did you see a boss ant? (good: No. They all seem to be doing the same thing.; No, but they touch each other when they meet.)
   - Note: Most children expect a leader. Don't correct them now. The sugar drop test lets them find out.
 - **s3 (1 min)**  
-  *Parent does:* Leave your child with a question.  
-  *Parent says:* So if nobody is the boss, how do all these ants know where to go?  
-  *Child mode:* No boss. But they all go the same way. How do they know?
+  *Parent does:* Leave your child with a question. Let them guess first. Then give them the clue in the parent note.  
+  *Parent says:* So if nobody is the boss, how do all these ants know where to go? What do you think?  
+  *Child mode:* There is no boss ant. But the ants all go the same way. How do they know? Guess first. Then your grown-up gives you a clue.
+  - Note: After the guess, give this clue: ants leave a smell on the ground as they walk, and the other ants follow that smell. The sugar drop test shows how this lets a whole colony choose a food without a leader.
   - Think: How could thousands of ants agree on where to go, if nobody gives orders?
 ### a2 · Draw an Elephant Family Tree (15 min)
 - **record:** Your family tree, with the matriarch circled and the young males marked with an arrow pointing away.
@@ -370,12 +372,13 @@ Doddamma had brought her family to the river again.
   *Child mode:* If the grandmother died, who would lead? Why?
   - Ask: Who would lead next? (good: The 35-year-old, because she is the next oldest and knows the most.; One of the older daughters.)
 ### a3 · Jobs by Age: an ant nest and our home (12 min)
+- **problem:** In many kinds of ants, the job of a worker changes as she grows older. Young workers look after the eggs inside the nest. Older workers go out to find food. In this activity you compare ant jobs with the jobs that people of different ages do at home.
 - **record:** Two lists side by side: 'Ant jobs, young to old' and 'Home jobs, young to old'.
 - **s1 (5 min)**  
   *Parent does:* Read this list to your child: young worker ants look after the eggs and young. Middle-aged workers clean and build the nest. The oldest workers guard the entrance and go out to find food.  
   *Parent says:* In many kinds of ants, the youngest workers stay safe deep in the nest. The oldest ones go out, where it is most dangerous. Why might that be?  
-  *Child mode:* Young ants look after the babies. Older ants build. The oldest go out for food. Why the oldest?
-  - Ask: Why might the oldest ants do the most dangerous job? (good: Because they have less life left to lose.; Because the young ones are kept safe to work longer.)
+  *Child mode:* Young ants look after the babies. Older ants build. The oldest go out for food. Why do the oldest go out?
+  - Ask: Why might the oldest ants do the most dangerous job? (good: Because they have less life left to lose. The colony loses less when an old ant is lost than when a young one is.; Because the young ones are kept safe to work longer.)
   - Note: Scientists think this is right: a colony loses less when an old forager dies than a young one. Not every kind of ant works this way.
 - **s2 (6 min)**  
   *Parent does:* Make a list of jobs at home by age. Write what the youngest child, a parent, and an older relative or neighbour (if there is one) each do.  
@@ -384,9 +387,11 @@ Doddamma had brought her family to the river again.
   - Note: There is no right answer. The point is to notice that every society shares out its work somehow.
 - **s3 (1 min)**  
   *Parent does:* Compare the two lists.  
-  *Parent says:* What is the same about the ant nest and our home? What is different?  
+  *Parent says:* What is the same about the ant nest and our home? What is different? Think about who does which jobs, and why.  
   *Child mode:* What is the same? What is different?
+  - Ask: In what way is our home like an ant nest? (good: In both, the work is shared between the members.; In both, the jobs change as a member gets older.)
 ### a4 · Howl and Find: how a pack keeps together (10 min)
+- **problem:** Wolves howl to find each other when they are apart, and their family howls back. In this activity you play this game in your flat. You see how a call and an answer can bring a family together.
 - **record:** Write how many howls it took to find each person.
 - **s1 (2 min)**  
   *Parent does:* Explain the rules. One person is the lost wolf and waits in the hall. The others go into different rooms and stay quiet. The lost wolf howls, and each hiding person howls back once. The lost wolf walks towards the howls with eyes open, and finds everyone.  
@@ -475,7 +480,7 @@ Doddamma had brought her family to the river again.
    **Answer:** the grandmother → Stays; a 12-year-old daughter → Stays; a 14-year-old son → Leaves; a baby daughter → Stays; a 13-year-old son → Leaves; an aunt → Stays. *Why:* Female elephants stay with their mothers and grandmother all their lives. Males leave as teenagers and live alone or with other males. The 13-year-old son will probably leave soon.
 6. (write) Why does an elephant family follow the oldest female, and not the biggest one? Give one reason.  
    **Answer:** Because she has lived the longest, so she remembers the most: where to find water in a dry year, the safe paths and which dangers are real.. *Why:* A strong answer links age to memory and experience, and gives an example such as finding water in a drought.
-7. (mcq) Meenakshi, a girl in Class 3 in Coimbatore, wipes a short piece of an ant road with a wet cloth. What do the ants arriving at the wiped part probably do?  
+7. (mcq) You wipe a short piece of an ant road with a wet cloth. What do the ants arriving at the wiped part probably do?  
    Options: Walk straight across, as before / Stop and wander about, then find the trail again / Turn round and go home for ever / Start fighting each other  
    **Answer:** Stop and wander about, then find the trail again. *Why:* Wiping removes the pheromone scent. The ants lose the trail, wander, and soon find the scent again on the other side, or lay new scent. This shows that ants follow the smell, not each other's eyes.
 8. (draw) Draw an ant nest cut open. Show the queen, eggs, young workers caring for the eggs, and older workers going out.  
@@ -490,10 +495,10 @@ Doddamma had brought her family to the river again.
    **Answer:** ['colony']. *Why:* A colony is a large group of insects of one kind living together in one nest. Ants, termites and honeybees live in colonies.
 13. (label) Label the ant: head, antennae, legs, and the part at the back called the abdomen, where she makes the trail scent.  
    **Answer:** Head with two antennae at the front, six legs on the middle part, and the abdomen at the back.. *Why:* Ants smell with their antennae and make trail pheromone in glands, most often in the abdomen. A strong answer labels all six legs on the middle part, the thorax.
-14. (write) In your sugar drop test, how did you know when ants were following a trail, and not just wandering?  
+14. (write) In the sugar drop test, you counted the ants at a weak and a strong sugar drop. How did you know when ants were following a trail, and not just wandering?  
    **Answer:** The ants walked one behind another along the same path between the drop and the ant road, and the line got busier.. *Why:* A strong answer uses evidence from the test: ants walking in a line, on the same path, in both directions, and more ants over time.
 15. (perspective) Two friends in Kochi watch a long line of ants carrying rice grains.  
-   **Answer:** A strong answer agrees with Farhan, using evidence: no ant was in charge, and ants followed the scent trail. It also gives Anjali some credit: one ant did find the food first, so the first ant did show the way, by leaving scent.. *Why:* The first ant does lead in a way, by laying the first trail, but she gives no orders and the line keeps going without her. A strong answer sees both.
+   **Answer:** A strong answer agrees with the second child, using evidence: no ant was in charge, and ants followed the scent trail. It also gives the first child some credit: one ant did find the food first, so the first ant did show the way, by leaving scent.. *Why:* The first ant does lead in a way, by laying the first trail, but she gives no orders and the line keeps going without her. A strong answer sees both.
 ### How Groups Decide (stretch) (stretch, 15 questions)
 1. (mcq) In Amboseli, scientists played lion roars to elephant families. Which families reacted most strongly to the roars of male lions?  
    Options: Families with a very old matriarch / Families with a young matriarch / Families with the most calves / All families reacted the same  
@@ -539,9 +544,9 @@ Doddamma had brought her family to the river again.
    **Answer:** Put out the weak drop first and let a trail form. Then add the strong drop at the same distance. If the ants move to the strong drop, sweetness wins. If they stay, finding it first wins. Repeat with the order swapped.. *Why:* A strong answer changes only the order the drops are found, keeps everything else the same, and repeats the test.
 4. (perspective) A family in Madurai argues about the old 'alpha wolf' idea.  
    **Answer:** A strong answer explains that science corrects itself when better evidence comes, as when David Mech watched wild wolves and changed his mind. It also takes the worry seriously: the wrong idea spread for decades, so asking how something was tested is wise.. *Why:* This is a real question about trust in science. A strong answer weighs all three views.
-5. (mcq) In Ropalidia marginata, a paper wasp found across India, what happens when the calm queen is taken away?  
-   Options: The nest falls apart / One worker becomes very aggressive for a while, then becomes the next calm queen / The biggest wasp kills the others / The wasps fly off to find the old queen  
-   **Answer:** One worker becomes very aggressive for a while, then becomes the next calm queen. *Why:* Raghavendra Gadagkar's team found that one worker becomes very aggressive for a short time, then calms down and starts laying eggs as the new queen. So a queen can keep her place without bullying.
+5. (mcq) In some paper wasp nests, the queen is calm and does not bully the workers, yet only she lays eggs. When she is taken away, one worker becomes aggressive for a short time, then calms down and starts laying eggs. What does this suggest?  
+   Options: The nest falls apart without a queen / A queen does not need to bully to keep her place / The biggest wasp is always the queen / Workers can never change their job  
+   **Answer:** A queen does not need to bully to keep her place. *Why:* The old queen kept her place calmly, and a worker could become the new queen. So in this wasp, being queen is not about bullying.
 6. (draw) Draw a cartoon strip in four boxes showing how an elephant calf learns the way to the river from her grandmother, and later shows her own calf.  
    **Answer:** Box 1: calf walks behind grandmother in a dry year. Box 2: they reach the river. Box 3: years later, the calf is grown and leading. Box 4: she leads her own calf to the river.. *Why:* A strong strip shows knowledge passing down the female line over many years.
 7. (sort) Sort these into what helps a group and what is a cost of living in a group.  
@@ -552,11 +557,11 @@ Doddamma had brought her family to the river again.
    **Answer:** ['decision']. *Why:* Collective decision-making is how ant colonies, honeybee swarms and flocks of birds choose together without a boss.
 10. (mcq) Honeybees choosing a new home send out scouts, who dance for the places they found. How does the swarm choose?  
    Options: The queen tastes each place / The best place gets more and more dancers, until most scouts agree / The oldest bee decides / They pick the first place found, always  
-   **Answer:** The best place gets more and more dancers, until most scouts agree. *Why:* Scouts dance longer for better places. More bees go to look, and dance too. The best place gains dancers fastest, like your strong sugar drop gaining ants.
+   **Answer:** The best place gets more and more dancers, until most scouts agree. *Why:* Scouts dance longer for better places. More bees go to look, and dance too. The best place gains dancers fastest, like the strong drop gaining ants in the sugar drop test.
 11. (label) On a sketch of your kitchen, label where you think the ant nest is, where the food is, and draw the trail between them.  
    **Answer:** A nest entrance at a crack or wall, a food spot such as the dustbin or sugar tin, and a line joining them.. *Why:* A strong answer uses what the child saw, such as where ants disappeared into the wall.
 12. (truefalse) A tiger who lives alone has a smaller mind than an elephant who lives in a family.  
-   **Answer:** False. *Why:* False. Living alone is a way of life, not a smaller mind. Tigers sense, remember and decide for themselves all the time. Their food, large prey hunted by stealth, is easier to catch alone.
+   **Answer:** False. *Why:* False. Living alone is a way of life, not a smaller mind. Tigers sense, remember and decide for themselves all the time. They hunt large prey by sneaking up on it, and that is easier to do alone.
 13. (match) Match each message to the way the animal sends the message.  
    **Answer:** An ant: 'Food this way' → a scent trail on the floor; A wolf: 'Where are you?' → a long howl; An elephant: 'Let's go' → a deep rumble; A honeybee: 'Good flowers there' → a dance in the hive. *Why:* Each society uses the signals that suit their bodies and their world: smell for ants, sound for wolves and elephants, movement for bees.
 14. (odd) Which of these is not led by its oldest female?  
@@ -586,7 +591,7 @@ Doddamma had brought her family to the river again.
 5. (mcq) How does an ant tell her sisters where food is?  
    Options: By drawing a map / By leaving a scent trail, made of pheromone, on the way home / By shouting / By carrying every sister to the food  
    **Answer:** By leaving a scent trail, made of pheromone, on the way home. *Why:* She dabs pheromone on the floor as she walks home. Other ants follow the smell.
-6. (mcq) Priya, a girl in Class 3 in Hyderabad, put a weak and a strong sugar drop near an ant road. After 30 minutes the strong drop had 20 ants and the weak drop had 3. What is the best explanation?  
+6. (mcq) A weak sugar drop and a strong sugar drop were put near an ant road. After 30 minutes the strong drop had 20 ants and the weak drop had 3. What is the best explanation?  
    Options: The ants at the strong drop were bigger / Ants that drank the strong sugar laid more scent, so more ants followed their trail / The weak drop was poisonous / The queen chose the strong drop  
    **Answer:** Ants that drank the strong sugar laid more scent, so more ants followed their trail. *Why:* A sweeter food makes ants lay more trail scent, so the trail grows stronger and pulls in more ants. No ant gave orders.
 7. (mcq) In a sugar drop test, why should both drops be the same distance from the ant road?  
@@ -595,9 +600,9 @@ Doddamma had brought her family to the river again.
 8. (mcq) Who leads a wild wolf pack, usually?  
    Options: The toughest fighter / The parents: a mother and a father / The youngest pup / Nobody  
    **Answer:** The parents: a mother and a father. *Why:* A wild pack is a family, so the parents lead and the young follow, as children follow parents.
-9. (mcq) Where did the idea of a fighting 'alpha wolf' come from?  
-   Options: From watching wild wolf families for many years / From watching strangers put together in a zoo / From old songs / From dogs  
-   **Answer:** From watching strangers put together in a zoo. *Why:* Rudolph Schenkel watched unrelated wolves in a zoo in Basel in the 1940s. They fought for rank. David Mech later watched wild wolves and showed that packs are families.
+9. (mcq) Scientists watched wolves who were strangers put together in a zoo, and saw them fight for rank. Why might this give the wrong idea about wild wolf packs?  
+   Options: Wild packs are families, and strangers in a zoo do not behave like a family / Zoo wolves are a different animal / Wolves never fight / Dogs are not wolves  
+   **Answer:** Wild packs are families, and strangers in a zoo do not behave like a family. *Why:* How animals act depends on who they live with. Wild packs are mostly parents and their young, who do not fight for rank. Watching wild wolves showed this.
 10. (mcq) Why do wolves howl?  
    Options: Only at the full moon / To find each other when apart, and to tell other packs to keep away / Because they are sad / To scare the pups  
    **Answer:** To find each other when apart, and to tell other packs to keep away. *Why:* A howl carries far. Pack members use it to find each other, and other packs hear that the area is taken. The full moon has nothing to do with it.
@@ -654,10 +659,10 @@ Doddamma had brought her family to the river again.
 
 ## Connected maths
 - In a sugar drop test, after 30 minutes there were 22 ants on the strong drop and 4 ants on the weak drop. How many more ants were on the strong drop? **18 more ants.**. 22 ants on the strong drop take away 4 on the weak drop is 18. Check: 4 + 18 = 22. (queues `math.addition-subtraction.word-problems.L3`)
-- At a new sugar drop, Kavya, a girl in Class 3, counted 1 ant at 2 minutes, 2 ants at 4 minutes, 4 ants at 6 minutes and 8 ants at 8 minutes. If the pattern carries on, how many ants will there be at 10 minutes? Why might the pattern stop later? **16 ants. Later the pattern stops because the drop gets crowded and runs out, and there are only so many ants in the colony.**. Each count is double the one before: 1, 2, 4, 8. Double 8 is 16. Every ant that drank laid scent and brought more ants, so the number grew faster and faster. But no drop can feed endless ants, so the growth slows down. (queues `math.patterns.number-patterns.L3`)
+- At a new sugar drop, there was 1 ant at 2 minutes, 2 ants at 4 minutes, 4 ants at 6 minutes and 8 ants at 8 minutes. If the pattern carries on, how many ants will there be at 10 minutes? Why might the pattern stop later? **16 ants. Later the pattern stops because the drop gets crowded and runs out, and there are only so many ants in the colony.**. Each count is double the one before: 1, 2, 4, 8. Double 8 is 16. Every ant that drank laid scent and brought more ants, so the number grew faster and faster. But no drop can feed endless ants, so the growth slows down. (queues `math.patterns.number-patterns.L3`)
 - An elephant mother carries her calf inside her for about 22 months before the calf is born. A human mother carries her baby for about 9 months. How many months longer is the elephant's wait? **About 13 months longer.**. 22 take away 9 is 13. So an elephant mother waits about 13 months more, more than a whole extra year. (queues `math.addition-subtraction.word-problems.L3`)
 - A wolf pack has 8 wolves: a mother, a father, 2 young wolves from last year and 4 new pups. What fraction of the pack are new pups? **Half the pack.**. There are 4 pups out of 8 wolves. 4 is half of 8. So half the pack are pups who need feeding. (queues `math.fractions.halves-and-quarters.L3`)
-- In the Ask the Elders test, Nila's grandmother scored 5 out of 6, her mother scored 4, and Nila scored 3. Nila scored 3 out of 3 on the 'now' questions, and her grandmother scored 2 out of 3 on them. Who knew most about long ago, and who knew most about now? **The grandmother knew most about long ago: 3 out of 3. Nila knew most about now: 3 out of 3.**. The grandmother's total was 5, and 2 of those were 'now' questions, so 5 - 2 = 3 were 'long ago'. Nila's total was 3, all 'now'. So each person knew most about the years they had lived through. (queues `math.data.bar-charts.L3`)
+- In the Ask the Elders test, a grandmother scored 5 out of 6, a mother scored 4, and a child scored 3. The child scored 3 out of 3 on the 'now' questions, and the grandmother scored 2 out of 3 on them. Who knew most about long ago, and who knew most about now? **The grandmother knew most about long ago: 3 out of 3. The child knew most about now: 3 out of 3.**. The grandmother's total was 5, and 2 of those were 'now' questions, so 5 - 2 = 3 were 'long ago'. The child's total was 3, all 'now'. So each person knew most about the years they had lived through. (queues `math.data.bar-charts.L3`)
 
 ## Song
 Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal behaviour L3

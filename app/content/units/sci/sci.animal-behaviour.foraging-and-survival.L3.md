@@ -3,7 +3,7 @@
 
 **Summary.** Every animal, including us, has two jobs each day: find food, and not become someone else's food. Searching for food and getting it is called foraging. Plant eaters such as cows and elephants graze or browse for most of the day, because grass and leaves give little energy in each mouthful. Hunters chase their prey, wait in ambush, or build traps, and most of their hunts fail. Prey animals stay alive by watching, keeping still, running, living in groups and hiding. Hiding by matching the place where you rest is called camouflage, and it works only while the body and the place match.
 
-**Intro.** *Cut 20 small strips from a newspaper and 20 from plain paper. Scatter them all over an open newspaper on the floor. Now pick up as many as you can in 20 seconds, one at a time. Which ones did you miss?* A bird hunting insects on a tree faces this test every day. So do the insects, who stay alive only if the bird misses them. In this unit you find out how animals find their food: by grazing, browsing, chasing, waiting and trapping. You also find out how prey animals stay alive, and why a body that is hidden in one place can be easy to see in another.
+**Intro.** *Cut 20 small strips from a newspaper and 20 from plain paper. Scatter them all over an open newspaper on the floor. Now pick up as many as you can in 20 seconds, one at a time. Which ones did you miss?* Picking small strips off a newspaper is like what a bird does every day when she hunts insects on a tree. The insects stay alive only if the bird misses them. In this unit you find out how animals find their food: by grazing, browsing, chasing, waiting and trapping. You also find out how prey animals stay alive, and why a body that is hidden in one place can be easy to see in another.
 
 ## Learning outcomes
 0. I can explain what foraging means, and name ways animals get food: grazing, browsing, hunting, scavenging and filtering.
@@ -21,11 +21,11 @@
 - **Carnivore**: A carnivore is an animal who eats mainly other animals. *e.g.* Tigers, spiders, frogs and kingfishers are carnivores.
 - **Omnivore**: An omnivore is an animal who eats both plants and animals. *e.g.* Crows eat grain, fruit, insects and leftovers. Most humans are omnivores too.
 - **Scavenger**: A scavenger eats animals that are already dead, or food that others have left behind. *e.g.* Vultures and crows are scavengers. They clear away dead animals.
-- **Graze**: To graze is to eat grass or other low plants, bite after bite, while moving slowly along. *e.g.* Buffaloes grazing on the bank of a canal near Thanjavur.
+- **Graze**: To graze is to eat grass or other low plants, bite after bite, while moving slowly along. *e.g.* Buffaloes eating grass on the bank of a canal near Thanjavur are grazing.
 - **Browse**: To browse is to eat leaves, shoots and twigs from bushes and trees. *e.g.* A goat standing on her back legs to reach the leaves of a bush is browsing.
 - **Ambush**: An ambush is a hunt in which the predator waits, still and hidden, and attacks when the prey comes close. *e.g.* A mugger crocodile lying still in a river, with only her eyes above the water, is waiting in ambush.
 - **Camouflage**: Camouflage is colour, pattern or shape that makes a body hard to see against the place where they are. *e.g.* An oakleaf butterfly with her wings closed looks just like a dry brown leaf.
-- **Countershading**: Countershading means being darker on the back and paler on the belly. Light from above makes the back bright and leaves the belly in shadow, so the two even out and the body looks flat. *e.g.* A mackerel, called bangda in many Indian markets, is dark blue on top and silvery white underneath.
+- **Countershading**: Countershading means being darker on the back and paler on the belly. Light from above brightens the back and leaves the belly in shadow. The dark back and pale belly even this out, so the body looks flat and is harder to see. *e.g.* A mackerel, called bangda in many Indian markets, is dark blue on top and silvery white underneath.
 - **Alarm call**: An alarm call is a sound an animal makes when they spot danger. Others who hear it look up, run or hide. *e.g.* When crows spot a cat, they caw loudly again and again, and more crows fly in.
 - **Herd**: A herd is a big group of animals, such as deer or cattle, who feed and move together. A group of birds is a flock, and a group of fish is a school. *e.g.* Spotted deer, called chital, graze in herds in Bandipur and Kanha.
 - **Chewing the cud**: Cows, buffaloes, goats and deer swallow their food quickly, then later bring it back up into the mouth and chew it again. This is called chewing the cud. *e.g.* A cow lying on the road, chewing slowly with no food in front of her, is chewing the cud.
@@ -62,7 +62,7 @@ Not every meat eater hunts. Vultures can spot a dead animal from high in the sky
 ### Camouflage: a match between a body and a place · *defined*
 **Definition:** Camouflage is colour, pattern or shape that makes a body hard to see in the place where they are.
 
-Camouflage works only against the right background. A green leaf insect is hidden among green leaves, but easy to see on a white wall. That is what your paper strips showed. Many camouflaged animals also choose where to rest. Some moths land on bark, then walk and turn until their pattern lines up with the cracks in the bark. A team of scientists in South Korea filmed this in 2012. Stripes and spots break up the outline of a body, so a hunter's eye cannot easily find the edge. Countershading, a dark back and a pale belly, evens out the shadow under the body.
+Camouflage works only against the right background. A green leaf insect is hidden among green leaves, but easy to see on a white wall. The Paper Caterpillars experiment shows the same thing: newspaper strips are hard to find on a newspaper, but easy to find on a plain sheet. Many camouflaged animals also choose where to rest. Some moths land on bark, then walk and turn until their pattern lines up with the cracks in the bark. A team of scientists in South Korea filmed this in 2012. Stripes and spots break up the outline of a body, so a hunter's eye cannot easily find the edge. Countershading, a dark back and a pale belly, evens out the shadow under the body.
 - e.g. Oakleaf butterflies in India's forests look like a dry leaf when their wings are closed, with a line like the middle vein of a leaf.
 - e.g. Ghost crabs on the beaches of Chennai and Puri are the colour of sand, and dash into their burrows when something comes near.
 - e.g. A jungle nightjar lays her eggs on bare ground and sits on them all day, her streaky brown feathers matching the dead leaves around her.
@@ -73,14 +73,14 @@ To us, a tiger is bright orange. But deer have eyes that see fewer colours than 
 ### Staying alive: watch, keep still, run and stay together · *defined*
 **Definition:** Prey animals stay alive by noticing danger early, keeping still, running away, living in groups, and carrying protection such as shells or spines.
 
-Many hunters notice movement first. So a prey animal who keeps still is harder to spot, as you found when the moving strip was seen first. Living in a group helps too. A herd or flock has many eyes, so someone spots the predator sooner, and each animal can spend more time eating. An alarm call warns everyone. Chital deer and langur monkeys listen to each other's alarm calls. Langurs sitting high in trees can see a tiger or leopard from far away, and chital have a sharp sense of smell. Some animals carry protection. A tortoise pulls into her shell, an Indian pangolin rolls into a ball of hard scales, and a porcupine raises and rattles sharp quills.
+Many hunters notice movement first. So a prey animal who keeps still is harder to spot. The Still or Moving experiment shows this: a wriggling paper strip is spotted much sooner than a still one. Living in a group helps too. A herd or flock has many eyes, so someone spots the predator sooner, and each animal can spend more time eating. An alarm call warns everyone. Chital deer and langur monkeys listen to each other's alarm calls. Langurs sitting high in trees can see a tiger or leopard from far away, and chital have a sharp sense of smell. Some animals carry protection. A tortoise pulls into her shell, an Indian pangolin rolls into a ball of hard scales, and a porcupine raises and rattles sharp quills.
 - e.g. In a study in England, a trained hawk caught fewer pigeons from big flocks than from small ones, because big flocks noticed the hawk and flew off sooner.
 - e.g. A chital who senses danger stamps a front foot, gives a sharp alarm call and raises her tail to show its white underside.
 - e.g. A frog in a pond freezes and stays very still when a heron's shadow passes.
 ### Hunters and prey shape each other · *defined*
 **Definition:** Over a very long time, predators and prey change together. When prey get better at hiding or escaping, the predators who survive are the ones better at finding and catching them. Scientists sometimes call this an arms race.
 
-This happens over many, many generations, not in one animal's life. Prey who were easy to see were eaten more often, so fewer of them had young. Over thousands of generations, the colours that stay hidden became common. Hunters who could not find enough prey also had fewer young. A deer's sharp ears and fast legs, and a tiger's stripes and quiet paws, make sense only together. Hunting is very old. The family of jellyfish, corals and sea anemones is the oldest group of animals known to hunt with venom. Their tentacles carry stinging cells that fire like tiny harpoons.
+This happens over many, many generations, not in one animal's life. Prey who were easy to see were eaten more often, so fewer of them had young. Over thousands of generations, the colours that stay hidden became common. Hunters who could not find enough prey also had fewer young. A deer's sharp ears and fast legs, and a tiger's stripes and quiet paws, make sense only together. Hunting is very old. Jellyfish, corals and sea anemones belong to one of the oldest groups of animals known to hunt with venom. Their tentacles carry stinging cells that fire like tiny harpoons.
 - e.g. Bats hunt moths by listening for echoes. Some moths can hear a bat's calls and drop to the ground or fly in loops to escape.
 - e.g. A tiger's soft paw pads let her walk almost silently, and a deer's large ears can turn to catch tiny sounds.
 ### Do animals think and feel while they hunt and hide? · *debated*
@@ -92,7 +92,7 @@ Hunters and prey make decisions all the time: where to look, when to strike, whe
 
 ## Mostly agreed
 - Every animal must find food, and most must also avoid being eaten. Different animals do this in very different ways. *How we know:* Scientists have watched how thousands of kinds of animals feed, in the wild and in zoos.
-- Camouflage helps prey survive. *How we know:* In experiments, wild birds were given paper or pastry 'insects' of different colours. They ate fewer of the ones that matched the background, just as in your paper caterpillar test.
+- Camouflage helps prey survive. *How we know:* In experiments, wild birds were given paper or pastry 'insects' of different colours. They ate fewer of the ones that matched the background. The Paper Caterpillars experiment shows the same thing with paper strips on a newspaper.
 - Grass and leaves give less energy in each mouthful than meat does, so plant eaters spend more of their day eating. *How we know:* Scientists have timed how long animals feed, and measured the energy in their food.
 - Living in a group helps prey notice predators sooner. *How we know:* In a study in England, a trained hawk caught fewer pigeons from big flocks than from small ones. Studies of many birds and deer found that animals in bigger groups each look up less, yet the group notices danger sooner.
 - Most hunts by tigers and lions end without a kill. *How we know:* People who have watched tigers and lions for years have counted many more failed hunts than successful ones.
@@ -121,7 +121,7 @@ Hunters and prey make decisions all the time: where to look, when to strike, whe
 ## Roots
 We have learned how animals find food, and how prey stay alive by watching, keeping still and hiding. Now we ask what hunting and hiding tell us about ourselves and the world.
 
-**Deep truth.** Your newspaper strips were hard to find on newspaper, but easy to find on the plain sheet. The strips stayed exactly the same, and only the place under them changed. So hiding is a match between a body and a place. A moth hidden on bark is seen at once on a white wall.  
+**Deep truth.** In the Paper Caterpillars test, newspaper strips were hard to find on newspaper but easy to find on plain paper. The strips stayed exactly the same, and only the place under them changed. So hiding is a match between a body and a place. A moth hidden on bark is seen at once on a white wall.  
 *Habit it breaks:* We say an animal 'is camouflaged', as if hiding were a part of their body, like their legs. But the same body is hidden in one place and seen in another. Hiding belongs to the body and the place together, and to the eyes that look.  
 *Evidence:* In the Paper Caterpillars test, the hunter missed most newspaper strips on the newspaper, then caught most of them on the plain sheet. Nothing about the strips changed. Only the background did.
 
@@ -129,32 +129,32 @@ We have learned how animals find food, and how prey stay alive by watching, keep
 - *what is life:* Every living being needs food, and most animals must also avoid becoming food. Hunter and hunted each stay alive by noticing the other.
 - *what is this world:* In this world, how a thing looks depends on where it is and who is looking. A tiger we call orange may look green to a deer.
 
-Sunlight feeds the grass, the grass feeds the chital, and the chital feed the tiger. Over millions of years, the tiger's stripes and quiet paws were shaped by the deer's sharp eyes and ears. The deer's watchfulness was shaped by the tiger. Neither can be understood alone. One flow of sunlight and life runs through many bodies, and each body is shaped by meeting the others.
+Sunlight feeds the grass, the grass feeds the chital, and the chital feed the tiger. Over millions of years, the tiger's stripes and quiet paws were shaped by the deer's sharp eyes and ears. The deer's watchfulness was shaped by the tiger. So you cannot explain a tiger without the deer, or a deer without the tiger. The same energy from sunlight passes from the grass to the deer to the tiger, and each animal's body was shaped by the others.
 
 - **Taittiriya Upanishad 3.10.6:** The one who understands sings: I am food, I am food, I am food. I am the eater of food, I am the eater of food, I am the eater of food. (Every forager in this unit is both. The chital eat grass and are food for the tiger. When the tiger dies, her body feeds vultures, beetles and the soil, and the soil feeds the grass.)
 - **Thirukkural 490, in the chapter on knowing the right time:** When the time is not right, wait, as still as the heron. When the time is right, strike, as surely as the heron strikes. (This is hunting by ambush. The pond heron in the paddy field, the gecko by the tube light and the tiger in the grass all wait, still, and strike only when the prey comes close.)
-- **Nagarjuna, Mulamadhyamakakarika 24.18:** Whatever comes into being by depending on other things has no being of its own, apart from them. (Being hidden comes into being only from a body, a place and the eyes looking, all together. Take away any one of them, and the hiding is gone.)
+- **Nagarjuna, Mulamadhyamakakarika 24.18:** Whatever comes into being by depending on other things has no being of its own, apart from them. (Being hidden depends on other things in the same way. It needs a body, a place and eyes that look, all together. Take away any one of them, and the hiding is gone.)
 - Science (settled): In experiments with wild birds and paper or pastry prey, prey who matched the background were eaten less often.
 - Science (open): What another animal sees and feels when they look at the world can be studied only from outside, by testing their eyes and watching what they do.
-- Other view, Many biologists: A moth's colour came about over many generations, because moths who were easier to see were eaten more often. That explains camouflage fully. It is a fact about bodies, backgrounds and hungry birds, and it carries no message about oneness.
-- Practice, Still as a heron (3 min): Let's stand still like a pond heron in a paddy field. Keep your arms by your sides and your feet together. Move nothing except your eyes. For one minute, notice everything in this room that moves. It might be a curtain, a fan, a fly or a shadow. When the minute is up, tell me what you noticed first. Was it something still, or something moving?
+- Other view, Many biologists: A moth's colour came about over many generations, because moths who were easier to see were eaten more often. That explains camouflage fully. It is a fact about bodies, backgrounds and hungry birds. It does not tell us anything deeper about how everything is connected.
+- Practice, Still as a heron (3 min): Let's stand still like a pond heron in a paddy field. Keep your arms by your sides and your feet together. Move nothing except your eyes. For one minute, notice everything in this room that moves. It might be a curtain, a fan, a fly or a shadow. When the minute is up, tell me what you noticed first. Was it something still, or something moving? Most people notice the moving thing first. Eyes notice movement before anything else, and that is why prey animals freeze.
 - Ask: When a moth rests on the wrong wall, is she still camouflaged?
 - Ask: A deer may see a tiger's orange as green. Whose colour is the true one?
 - Ask: The chital eat, and are eaten. Is anyone in the forest only an eater, and never food?
-- Ask: When you freeze in a game of statues, what are you hiding from: the eyes, or the movement?
+- Ask: When you freeze in a game of statues, can people still see you? What does freezing stop them from noticing?
 
 ## Deep and big questions
-- *deep:* Your newspaper strips were hidden on newspaper, but easy to see on the plain sheet. Is being hidden something the strip has, or something that happens between the strip and the place? (hint: Did anything about the strip change between the two tests?)
+- *deep:* In the Paper Caterpillars experiment, the same newspaper strip was hard to find on newspaper but easy to find on plain paper. Does a strip hide because of the strip itself, or because of the place it is in? (hint: Did anything about the strip change when it moved from the newspaper to the plain sheet?)
 - *deep:* A deer may see a tiger's orange coat as green. Which is the real colour of the tiger: the one we see, or the one the deer sees? (hint: Is colour in the tiger's fur, in the light, or in the eyes? Could it be in all three together?)
-- *deep:* Why does keeping still make an animal so much harder to see? (hint: Remember the Still or Moving test. What did your eyes notice first?)
-- *big:* Every eater is also food for someone. When a tiger dies, her body feeds vultures, beetles and the soil. Is anyone only an eater and never food? (hint: Follow the food of the soil, the grass and the deer. Where does it go next?)
+- *deep:* Why does keeping still make an animal so much harder to see? (hint: Think of the Still or Moving experiment, where one paper strip kept still and one wriggled. Which did your eyes notice first?)
+- *big:* Every eater is also food for someone. When a tiger dies, her body feeds vultures, beetles and the soil. Is anyone only an eater and never food? (hint: The soil feeds the grass, and the grass feeds the deer. Who does the deer feed? And who feeds the soil?)
 - *big:* Is it wrong for a tiger to hunt a deer? Is it wrong to feel sad for the deer? (hint: Think about what happens to the tiger's cubs if she never catches anything.)
-- *big:* Humans are animals. How do people forage in a city? Is a market a kind of forest? (hint: Think of how your family finds food, chooses it, and stays safe while doing it.)
+- *big:* Humans are animals. How do people forage in a city? In what ways is a market like a forest for a hungry animal? (hint: Think of how your family finds food, chooses it, and stays safe while doing it.)
 
 ## Story: The Bird on the Jeep Track
 *Bandipur Tiger Reserve in Karnataka, chital, grey langurs, jungle nightjars, house geckos and the way chital and langurs listen to each other's alarm calls are all real. Meenakshi, Arun, Lakshmi and this morning are made up.*
 
-Meenakshi had waited all year for this. Her aunt, Lakshmi Chikkamma, was a forest watcher in Bandipur, in Karnataka. This summer, Meenakshi and her cousin Arun were allowed to ride with her on the morning round.
+Meenakshi had waited all year for this summer. Her aunt, Lakshmi Chikkamma, was a forest watcher in Bandipur, in Karnataka. This summer, Meenakshi and her cousin Arun were allowed to ride with her on the morning round.
 
 Arun was eleven. He had watched a hundred wildlife films on his tablet in Bengaluru, and he told everyone so. 'I know everything about tigers,' he said, as the jeep bumped along the red mud track. 'They are the best hunters in the world. They catch whatever they want.'
 
@@ -202,7 +202,7 @@ On the way back they passed the nightjar again, still as a leaf. This time Arun 
 
 That night, at the forest quarters, a house gecko sat very still on the wall beside the tube light. A moth fluttered close. The gecko waited, and waited, and then darted. Meenakshi laughed. 'Look, Arun,' she said. 'A tiny tiger. She hunts by waiting too.'
 
-**For the parent:** For the parent: the nightjar and the tiger were both hidden by camouflage, because their colours and patterns matched the dry leaves and grass where they lay. Meenakshi found them by looking for what did not match: a shiny eye, a stripe curving the wrong way, an ear that moved. The chital graze for most of the day because grass gives little energy, so they eat in a herd, where many eyes keep watch, and they feed near langurs, who see far from the treetops. Once the alarm calls showed the tiger that she had been seen, her ambush could no longer work, so she gave up rather than waste energy on a chase. Most hunts fail, and the hunter and the hunted both depend on the other to stay as they are.
+**For the parent:** For the parent: the nightjar and the tiger were both hidden by camouflage, because their colours and patterns matched the dry leaves and grass where they lay. Meenakshi found them by looking for what did not match: a shiny eye, a stripe curving the wrong way, an ear that moved. The chital graze for most of the day because grass gives little energy, so they eat in a herd, where many eyes keep watch, and they feed near langurs, who see far from the treetops. Once the alarm calls showed the tiger that she had been seen, her ambush could no longer work, so she gave up rather than waste energy on a chase. Most hunts fail. Tigers need deer to eat, but if tigers caught every deer, there would soon be no deer, and then no tigers either.
 
 - Ask: How did the nightjar stay safe without a nest?
 - Ask: What trick did Meenakshi use to find the nightjar and the tiger?
@@ -212,7 +212,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 
 ## Games
 ### g1 · Hunt, Graze or Hide? (15 min)
-- **rules:** Cut out the 20 animal cards and the 4 pile labels. Lay the 4 labels in a row on the floor.; Shuffle the animal cards and put them face down in a pile.; On your turn, take the top card and read it out loud. Put it on the pile you think is right, and say why.; Turn the card over to check. If you were right, keep the card as a point. If not, put the card at the bottom of the pile to come back later.; Playing alone? Read each card, choose a pile, then turn it over to check.; The game ends when every card has been won. The player with the most cards wins.
+- **rules:** Cut out the 20 animal cards and the 4 pile labels. Lay the 4 labels in a row on the floor.; Shuffle the animal cards and put them face down in a pile.; On your turn, take the top card and read it out loud. Put it on the pile you think is right, and say why.; Turn the card over to check. If you were right, keep the card as a point. If not, put the card at the bottom of the face-down pile, so that it comes up again later.; Playing alone? Read each card, choose a pile, then turn it over to check.; The game ends when every card has been won. The player with the most cards wins.
 - **Printable cards: 20 animal cards to cut out (the answer is on the back):** A pond heron stands still in a paddy field, then stabs a fish. (back: Hunts by ambush: waits, then strikes) [picture]; A pack of dholes runs after a sambar deer for a long way. (back: Hunts by chasing, together) [picture]; A signature spider spins a sticky web between two plants. (back: Hunts with a trap) [picture]; An antlion digs a cone-shaped pit in dry dust and waits at the bottom. (back: Hunts with a trap) [picture]; A buffalo bites grass, step by step, along a canal bank. (back: Grazes) [picture]; A goat stands on her back legs to eat the leaves of a bush. (back: Browses) [picture]; Three vultures eat a cow who has died in a field. (back: Scavenges) [picture]; A flamingo sweeps her upside-down beak through shallow water. (back: Filters tiny food from water) [picture]; A house gecko waits beside the tube light for moths. (back: Hunts by ambush) [picture]; A kingfisher watches from a wire, then dives into a pond for a fish. (back: Hunts by ambush: watches, then dives) [picture]; An oakleaf butterfly closes her wings and looks like a dry leaf. (back: Stays safe: camouflage) [picture]; A jungle nightjar sits still on the ground, the colour of dead leaves. (back: Stays safe: camouflage and keeping still) [picture]; An Indian pangolin rolls into a tight ball of hard scales. (back: Stays safe: armour); A star tortoise pulls her head and legs into her shell. (back: Stays safe: armour) [picture]; A herd of chital lift their heads when langurs give an alarm call. (back: Stays safe: a group with many eyes and ears) [picture]; A ghost crab on a Chennai beach, the colour of sand, dashes into a burrow. (back: Stays safe: camouflage, then running to a burrow) [picture]; A crow eats leftover rice, a ripe fig and a beetle. (back: Omnivore: eats almost anything) [picture]; A banded archerfish spits a jet of water to knock an insect off a leaf. (back: Hunts by shooting water) [picture]; A porcupine raises and rattles her sharp quills. (back: Stays safe: spines and a warning) [picture]; A frog freezes when the shadow of a heron passes over the pond. (back: Stays safe: keeping still) [picture]
 - **Printable cards: 4 pile labels:** HUNTS (chases, waits in ambush or sets a trap); GRAZES OR BROWSES (eats plants); SCAVENGES, FILTERS OR EATS ANYTHING; STAYS SAFE (hides, keeps still, armour, a group)
 - **s1 (3 min)**  
@@ -242,7 +242,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   *Parent says:* Deer must eat, but every step in the open is a risk. Grab grass while the tiger isn't looking. Freeze when she turns!  
   *Child mode:* You are a deer. Pick up grass and move to the waterhole. When the tiger turns, freeze!
 - **s2 (9 min)**  
-  *Parent does:* Play three rounds. After each round, write each deer's grass and whether they were caught.  
+  *Parent does:* Play three rounds. After each round, write how many strips of grass each deer collected, and whether they were caught.  
   *Parent says:* Tiger, face the wall. Deer, go! Remember to freeze.  
   *Child mode:* Go! Pick up grass. Freeze when the tiger turns. Don't wobble!
   - Note: As the tiger, turn round at uneven times. Sometimes quickly, sometimes after a long wait. That is what makes freezing hard.
@@ -281,13 +281,13 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   - Check: On the newspaper, which caterpillars were left behind most? → **The newspaper strips, because they matched the background**
 - **s5 (5 min)**  
   *Parent does:* 1. Take away the newspaper and spread the plain sheet on the floor. 2. Ask for a new guess and a reason. 3. Scatter all 40 strips on it while the hunter's eyes are closed. 4. Hunt for 20 seconds, 3 rounds, as before. 5. Write the numbers each time.  
-  *Parent says:* The caterpillars have landed somewhere new. Which kind will you catch more of now? Why?  
+  *Parent says:* Now the caterpillars are on a plain sheet, not a newspaper. Which kind will you catch more of now? Why?  
   *Child mode:* Now hunt on the plain sheet. Guess first. Which kind will you catch more now? Why? Hunt 3 times. Write the numbers.
   - Ask: What changed between the two hunts? (good: Only the background changed.; The strips were the same, but the place under them was different.)
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
   - Note: Any honest answer with all three parts is good. A strong answer sounds like this. What I think: prey that match the background are harder for a hunter to find. What I saw: on the newspaper I caught about 15 plain strips and only 3 newspaper strips. On the plain sheet it was the other way round. Why: the newspaper strips matched the newspaper, so my eyes missed them. On the plain sheet they did not match, so they stood out.
 ### e2 · Still or Moving: which caterpillar do eyes find first? (20 min)
 - **question:** Does a hunter spot hidden prey sooner when the prey moves than when the prey keeps still?
@@ -317,11 +317,12 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 - **s5 (4 min)**  
   *Parent does:* Ask your child for three short sentences: what I think, what I saw, and why.  
   *Parent says:* Tell me three things. What do you think now? What did you see? Why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think now, what you saw, and why you think it happened.
   - Note: A strong answer sounds like this. What I think: moving gives hidden prey away. What I saw: the still strip took me 12, 9 and 15 seconds to find, but the wriggling one took only 2, 1 and 3 seconds. Why: my eyes noticed the movement straight away, even though the colour matched.
 
 ## Activities
 ### a1 · Graze or Hunt? A one-minute food race (10 min)
+- **problem:** A cow eats grass for most of the day, but a tiger does not eat all day. In this activity you pick rice grains like a grazer, and search for hidden beans like a hunter. You find out why the two eat so differently.
 - **record:** Write how many rice grains you picked and how many beans you found.
 - **s1 (3 min)**  
   *Parent does:* 1. Spread the rice on the plate. 2. Say 'Go!' and start a 30-second timer. 3. Your child picks up grains one at a time and drops them in a cup. 4. Say 'Stop!' and count the grains together.  
@@ -339,6 +340,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   - Ask: Why does a cow eat for most of the day, but a tiger does not? (good: Grass is everywhere but each bite gives little food, so the cow must keep eating.; Meat is hard to find, but each catch is a big meal.)
   - Check: Grass is easy to find. So why do cows spend most of the day eating? → **Each mouthful gives little energy, so they need a lot**
 ### a2 · Shadow Belly: why so many animals have a pale belly (15 min)
+- **problem:** Many fish, deer and birds are darker on top and paler underneath. In this activity you use two paper tubes and a light to find out why. Light comes from above, like sunlight, so you will look at how each tube is lit.
 - **record:** Draw both tubes as they looked from the side, with the light above.
 - **s1 (4 min)**  
   *Parent does:* 1. Leave one tube plain white. 2. Shade the top half of the other tube evenly with pencil or crayon. 3. Leave its bottom half white.  
@@ -358,7 +360,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   *Parent does:* Ask your child to say what they saw and why, in two or three sentences.  
   *Parent says:* Tell me what you saw. Why do you think so many fish and deer have pale bellies?  
   *Child mode:* Say what you saw. Why do fish and deer have pale bellies?
-  - Note: The difference is real but gentle. It is clearest with one light directly above and the room otherwise dim. A good answer: the white tube had a dark shadow underneath, so it looked round. The shaded tube looked flatter, because its dark top and pale bottom evened out the light.
+  - Note: The difference is real but small. It is clearest with one light directly above and the room otherwise dim. A good answer: the white tube had a dark shadow underneath, so it looked round. The shaded tube looked flatter, because its dark top and pale bottom evened out the light.
 ### a3 · Hide a Paper Animal in Your Home (25 min)
 - **record:** Write how long the family took to find your animal in the right spot and in the wrong spot.
 - **s1 (5 min)**  
@@ -379,24 +381,26 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   *Child mode:* Now put your animal somewhere that does not match. Time the search again. What changed?
   - Ask: Why was your animal found faster in the wrong spot? (good: The colours did not match the background any more.; Camouflage only works in the right place.)
 ### a4 · The Antlion's Trap: a pit of rava (15 min)
+- **problem:** An antlion is the young of a winged insect. She digs a cone-shaped pit in dry sand and waits at the bottom. In this activity you dig a pit in rava and use a grain of rice as the ant, to see how a pit like this catches food without any chase.
 - **record:** Draw the pit from the side and show where the antlion waits.
 - **s1 (5 min)**  
   *Parent does:* 1. Fill the bowl with dry rava, about 4 cm deep. 2. With the spoon, scoop rava out of the middle and flick it over the side. 3. Keep scooping until you have a cone-shaped pit with steep, loose sides.  
   *Parent says:* An antlion is the young of a winged insect. They dig a pit in dry sand by flicking it out, just like this.  
   *Child mode:* Fill the bowl with rava. Scoop rava out of the middle. Flick it away. Make a pit like a cone.
-  - Note: The sides settle at their steepest, which makes them slide easily. Rava gives a neat pit. Sand works too, but it must be completely dry.
+  - Note: Loose rava settles into sides that are as steep as they can be, so the smallest push makes them slide. Rava gives a neat pit. Sand works too, but it must be completely dry.
 - **s2 (5 min)**  
   *Parent does:* 1. Put a rice grain 'ant' near the top edge of the pit. 2. Nudge it gently towards the middle with a fingertip. 3. Watch the rava slide and carry the grain down.  
-  *Parent says:* Here comes an ant, walking along. Let's see what happens at the edge.  
+  *Parent says:* This rice grain is an ant, walking along. Let's see what happens at the edge of the pit.  
   *Child mode:* Put a rice grain at the edge. Push it gently to the middle. Where does the grain end up?
   - Ask: Why can't the ant climb back out? (good: The loose sides slide down under the ant's feet.; Every step makes more rava fall into the pit.)
 - **s3 (5 min)**  
   *Parent does:* Tell your child what a real antlion does, then ask the question below.  
   *Parent says:* A real antlion waits buried at the bottom, with only her jaws showing. If an ant starts to climb out, she flicks sand at the ant. Is a trap a good way to hunt?  
   *Child mode:* A real antlion waits at the bottom. If the ant climbs, she flicks sand. Is a trap a good way to hunt? Why?
-  - Note: Antlion pits are common in India in dry dust under shelter, for example under the eaves of old buildings or temple walls. If you have a park or a courtyard nearby, look for little cone-shaped pits about as wide as a coin. Rava can be sieved and used for cooking afterwards.
+  - Note: A good answer is that a trap saves energy. The antlion does not chase anything, because the pit does the work and the ant comes to her. A trap works only when prey happens to walk by. Antlion pits are common in India in dry dust under shelter, for example under the eaves of old buildings or temple walls. If you have a park or a courtyard nearby, look for little cone-shaped pits about as wide as a coin. Rava can be sieved and used for cooking afterwards.
 ### a5 · How Often Do They Look Up? Watch a feeding flock (15 min)
-- **record:** Write the number of head-ups in one minute, and how many birds were in the group.
+- **problem:** When animals eat, they cannot watch for danger at the same time. Animals that feed in a group can share the watching. In this activity you count how often birds look up while they feed, in a big group and alone.
+- **record:** Write how many times the bird looked up in one minute, and how many birds were in the group.
 - **s1 (5 min)**  
   *Parent does:* 1. Find a spot where birds feed, such as pigeons on a road or a terrace, or birds at a feeder. 2. Watch quietly from a window, so the birds are not disturbed.  
   *Parent says:* Let's watch how birds eat. Every so often they stop eating and lift their head to look around.  
@@ -407,7 +411,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   *Parent says:* Choose one bird in the big group. Count each time they lift their head. Go!  
   *Child mode:* Pick one bird in a big group. Count each time they look up. Stop after one minute.
 - **s3 (5 min)**  
-  *Parent does:* 1. Now pick a bird who is feeding alone or with only one or two others. 2. Count their head-ups for one minute. 3. Compare the two numbers.  
+  *Parent does:* 1. Now pick a bird who is feeding alone or with only one or two others. 2. Count how many times they lift their head in one minute. 3. Compare the two numbers.  
   *Parent says:* Now a bird with fewer friends. Who looks up more?  
   *Child mode:* Now pick a bird who is alone, or nearly alone. Count again. Who looked up more?
   - Ask: Why might a bird in a big group look up less? (good: Other birds are watching too.; Many eyes keep watch, so each bird can eat more.)
@@ -465,13 +469,13 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 1. (mcq) A buffalo grazes beside a canal for most of the day. Why does she eat for so long?  
    Options: Grass gives little energy in each mouthful, so she needs a lot / She is greedy / Grass is hard to find / She has nothing else to do  
    **Answer:** Grass gives little energy in each mouthful, so she needs a lot. *Why:* Grass is easy to find, but each mouthful gives little energy and is slow to digest. So a grazer must eat a great deal. A strong answer does not blame the buffalo: every grazer needs that much.
-2. (mcq) Leela, a girl in Class 3 in Kochi, sees a pond heron stand still at the edge of a pond for a long time. Then the heron stabs the water. How is the heron hunting?  
+2. (mcq) A pond heron stands still at the edge of a pond for a long time. Then the heron stabs the water. How is the heron hunting?  
    Options: By chasing / By ambush: waiting still, then striking / With a trap / By scavenging  
    **Answer:** By ambush: waiting still, then striking. *Why:* The heron waits, still and hidden, until a fish comes close, then strikes. That is an ambush. A chaser would run or fly after the fish, and a trapper would build something.
 3. (fill) An animal who hunts and eats other animals is called a ____.  
    **Answer:** ['predator']. *Why:* A predator hunts other animals. The animals a predator hunts are called prey.
 4. (fill) Colour or pattern that makes a body hard to see against the place where they are is called ____.  
-   **Answer:** ['camouflage']. *Why:* Camouflage is a match between a body and the place. The newspaper strips were camouflaged on the newspaper.
+   **Answer:** ['camouflage']. *Why:* Camouflage is a match between a body and the place. In the Paper Caterpillars test, the newspaper strips were camouflaged on the newspaper.
 5. (match) Match each word to what it means.  
    **Answer:** Herbivore → eats only plants; Carnivore → eats mainly other animals; Omnivore → eats plants and animals; Scavenger → eats animals that are already dead; Prey → an animal who is hunted. *Why:* These words describe what an animal eats. A strong answer could give an example of each: a cow, a tiger, a crow, a vulture and a deer.
 6. (sort) Sort these animals: does each one hunt other animals, or eat plants?  
@@ -521,7 +525,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
    **Answer:** a nightjar on dry leaves → Camouflage; a ghost crab on sand → Camouflage; an oakleaf butterfly with closed wings → Camouflage; a moth on bark → Camouflage; a tortoise in her shell → Another way; a porcupine raising quills → Another way; a chital listening for alarm calls → Another way; a pangolin rolled into a ball → Another way. *Why:* The first four match their background. The others use armour, spines or a group with many eyes and ears.
 10. (fill) Cows, goats and deer swallow food quickly, then later bring it back up to chew again. This is called chewing the ____.  
    **Answer:** ['cud']. *Why:* Chewing the cud grinds the tough grass finer, so the microbes in the stomach can break it down.
-11. (mcq) In the Graze or Hunt race, one rajma bean weighed about as much as 20 rice grains. Priya picked 30 rice grains and found 2 beans. Which gave her more food?  
+11. (mcq) In the Graze or Hunt race, one rajma bean weighs about as much as 20 rice grains. You pick 30 rice grains and find 2 beans. Which gives you more food?  
    Options: The 2 beans, which weigh about as much as 40 rice grains / The 30 rice grains / Both the same / There is no way to tell  
    **Answer:** The 2 beans, which weigh about as much as 40 rice grains. *Why:* 2 beans weigh about 2 × 20 = 40 grains' worth. 40 is more than 30. Hunters find less often, but each catch is a big meal.
 12. (draw) Draw an antlion's pit from the side. Show where the antlion waits, and how an ant slides in.  
@@ -542,16 +546,16 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
    **Answer:** The deer would soon be eaten up. Then the tigers would have nothing to eat, and they would starve too. Tigers need deer to escape most of the time.. *Why:* A strong answer follows the chain two steps: fewer deer, then fewer tigers.
 3. (perspective) Two sisters in Mysuru argue about a grey moth they found resting on the bark of a tree.  
    **Answer:** A strong answer sees that both can be right. The moth's colour came from her parents and their parents, over many generations. But scientists in South Korea filmed some moths walking and turning on bark until they were better hidden, so where she rests is her choice.. *Why:* Colour is passed down. Where and how to rest is decided by the moth. A strong answer separates the two.
-4. (mcq) Hannah Rowland and her team put small pastry caterpillars on branches for wild birds to find. Which caterpillars were eaten least?  
+4. (mcq) Sunlight comes from above, so the top of a caterpillar is lit and the belly is in shadow. Pastry caterpillars are put on branches for wild birds to find. Which will the birds eat least?  
    Options: Ones darker on top and paler below / Ones paler on top and darker below / Plain bright ones / All were eaten the same  
-   **Answer:** Ones darker on top and paler below. *Why:* The countershaded caterpillars, darker on top and paler below, looked flatter and were harder to find. This was a real test, like your paper caterpillars, but with wild birds as the hunters.
+   **Answer:** Ones darker on top and paler below. *Why:* Darker on top and paler below cancels out the light and shadow, so the caterpillar looks flat and is harder to spot. This is called countershading. When scientists tried this with wild birds, these caterpillars were eaten least.
 5. (mcq) A trained hawk attacks two flocks of pigeons, one big and one small. Which flock is more likely to escape?  
    Options: The big flock, because someone in it notices the hawk sooner / The small flock, because it is quieter / Both the same / Neither, because hawks always win  
    **Answer:** The big flock, because someone in it notices the hawk sooner. *Why:* A real study in England found exactly this. More eyes meant the hawk was noticed sooner, so the big flock took off before she got close.
 6. (truefalse) A deer who keeps her head down to eat for a long time is easier for a tiger to ambush.  
    **Answer:** True. *Why:* True. With her head down, a deer cannot see or hear the tiger creeping closer. That is one reason grazers feed in herds, where others keep watch.
-7. (write) Find the mistake. Arjun says, 'Camouflage is a colour. If you paint a strip green, it is camouflaged.' What is wrong with his idea? Use your test results.  
-   **Answer:** Camouflage is a match between a body and a place, not a colour. In my test, the newspaper strips were hidden on the newspaper but easy to see on the plain sheet. A green strip would be hidden on green leaves but not on a white floor.. *Why:* A strong answer uses the evidence that the same strip was hidden in one place and seen in another.
+7. (write) True or false: 'Camouflage is a colour, so if you paint a strip green, it is camouflaged.' Use your results from the Paper Caterpillars test to explain your answer.  
+   **Answer:** False. Camouflage is a match between a body and a place, not a colour. In my test, the newspaper strips were hidden on the newspaper but easy to see on the plain sheet. A green strip would be hidden on green leaves but not on a white floor.. *Why:* A strong answer uses the evidence that the same strip was hidden in one place and seen in another.
 8. (draw) Invent an animal who lives on your bedroom floor or bedsheet. Draw them with camouflage for that place, and write how they find their food.  
    **Answer:** A drawing of an invented animal coloured to match the chosen floor or sheet, with a sentence on how they get food, such as waiting in ambush for crumbs or ants.. *Why:* A strong answer matches the colours and pattern of the real place, and gives a way of foraging that fits the animal's body.
 9. (sort) Sort these hunters: does each one mostly wait for prey, or move after prey?  
@@ -567,14 +571,14 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
    **Answer:** ['Sunlight', 'Grass', 'Chital', 'Tiger']. *Why:* Grass uses sunlight to make food. Chital eat the grass, and the tiger eats the chital. When the tiger dies, her body feeds vultures, beetles and the soil.
 14. (truefalse) If you moved your newspaper strips from the newspaper onto the plain white sheet, they would still be camouflaged.  
    **Answer:** False. *Why:* False. Camouflage needs a match between body and place. On the plain sheet, the grey print made the strips stand out.
-15. (mcq) In the Still or Moving test, Revathi spotted the still strip after 14, 10 and 12 seconds, and the wriggling strip after 2, 1 and 3 seconds. What is the best conclusion?  
-   Options: Moving gave the strip away / The wriggling strip was a different colour / Revathi got tired / There is no pattern  
+15. (mcq) In the Still or Moving test, a hunter spotted the still strip after 14, 10 and 12 seconds, and the wriggling strip after 2, 1 and 3 seconds. What is the best conclusion?  
+   Options: Moving gave the strip away / The wriggling strip was a different colour / The hunter got tired / There is no pattern  
    **Answer:** Moving gave the strip away. *Why:* The strip was the same and the newspaper was the same. Only the movement changed, and every wriggling try was much faster. So movement gave the strip away.
 
 ## Videos
-- **Amazing Insect Camouflage in Nature | Bugs, Insects & Spiders | Love Nature** (Love Nature, 4 min) id `hUrFgiDiLF0`: Seeing real camouflaged animals, and then seeing them move, shows how well hiding works and how movement gives it away. *Check:* Not yet watched by a person: watch it first.
-- **How The Archerfish Guns Down Spiders With Spit** (Love Nature, 3 min) id `jEojXgR_kP0`: A surprising way to hunt: a fish who knocks insects off leaves with a jet of water. *Check:* Not yet watched by a person: watch it first.
-- **Tiger Enters the Scene | Spotted Deer Alert Call Caught on Camera | Raw Jungle Moment** (S TUJLIMAN, 5 min) id `1pIJzXvBhaQ`: Shows an ambush in real life: how close a tiger must creep, how chital and langurs give alarm calls, and how often a hunt fails. *Check:* Not yet watched by a person: watch it first.
+- **Amazing Insect Camouflage in Nature | Bugs, Insects & Spiders | Love Nature** (Love Nature, 4 min) id `hUrFgiDiLF0`: Seeing real camouflaged animals, and then seeing them move, shows how well hiding works and how movement gives it away. *Check:* No person has checked this video yet. Watch it yourself first, before your child does.
+- **How The Archerfish Guns Down Spiders With Spit** (Love Nature, 3 min) id `jEojXgR_kP0`: A surprising way to hunt: a fish who knocks insects off leaves with a jet of water. *Check:* No person has checked this video yet. Watch it yourself first, before your child does.
+- **Tiger Enters the Scene | Spotted Deer Alert Call Caught on Camera | Raw Jungle Moment** (S TUJLIMAN, 5 min) id `1pIJzXvBhaQ`: Shows an ambush in real life: how close a tiger must creep, how chital and langurs give alarm calls, and how often a hunt fails. *Check:* No person has checked this video yet. Watch it yourself first, before your child does.
 
 ## Quiz
 1. (mcq) Which word means searching for food and getting it?  
@@ -589,10 +593,10 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 4. (mcq) Why does an elephant feed for most of the day and part of the night?  
    Options: Leaves and grass give little energy in each mouthful / There is very little food in a forest / Elephants eat only at night / Elephants waste most of their food  
    **Answer:** Leaves and grass give little energy in each mouthful. *Why:* Plants give little energy in each mouthful, and a big body needs a lot. So elephants spend most of their time eating.
-5. (mcq) On a newspaper, which paper caterpillars did the hunter miss most often?  
+5. (mcq) Newspaper strips and plain white strips are scattered on a sheet of newspaper. A hunter picks them up as fast as she can. Which strips will she most likely miss?  
    Options: The newspaper strips / The plain strips / Both the same / The hunter missed none  
-   **Answer:** The newspaper strips. *Why:* The newspaper strips matched the background, so the hunter's eyes passed over them. If you picked 'the plain strips', look at your table again.
-6. (mcq) The same newspaper strips were moved onto a plain white sheet. What happened?  
+   **Answer:** The newspaper strips. *Why:* The newspaper strips match the background, so the hunter's eyes pass over them. That is camouflage. The plain strips stand out, so they are found first.
+6. (mcq) Newspaper strips were hard to find on a newspaper. Then the same strips were moved onto a plain white sheet. What happened?  
    Options: They became easy to find / They stayed just as hidden / They changed colour / They were even harder to find  
    **Answer:** They became easy to find. *Why:* On the white sheet the grey print no longer matched, so the strips stood out. Camouflage depends on the place.
 7. (mcq) Why do chital listen for langur alarm calls?  
@@ -622,7 +626,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 - Bird feeders with small holes let sparrows and sunbirds eat without bigger birds taking everything.
 - Fishing nets work like a spider's web: a trap that catches food without chasing it.
 - Studying how cows and goats graze helps farmers decide how many animals a field can feed.
-- Scientists copy countershading and disruptive patterns when they design things that should be hard to see.
+- Scientists copy countershading, and patterns that break up an outline, when they design things that should be hard to see.
 
 ## Spotted around us
 - A house gecko waiting beside a tube light at night, where moths and flies gather.
@@ -664,10 +668,10 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 - Why did the tiger give up on the deer? *Because the deer saw right through her plan.*
 
 ## Connected maths
-- In the Paper Caterpillars test on the newspaper, Nandini caught 15 plain strips and only 3 newspaper strips. How many times as many plain strips did she catch? **5 times as many.**. She caught 15 plain strips and 3 newspaper strips. 15 divided by 3 is 5. So she caught 5 times as many plain strips. Check: 3 + 3 + 3 + 3 + 3 = 15. (queues `math.division.sharing-and-grouping.L3`)
-- In the Still or Moving test, Revathi took 12, 9 and 15 seconds to spot the still strip, and 2, 1 and 3 seconds to spot the wriggling strip. How much longer did the still strip take in all? **30 seconds longer.**. Still: 12 + 9 + 15 = 36 seconds. Wriggling: 2 + 1 + 3 = 6 seconds. 36 − 6 = 30. So the still strip took 30 seconds longer to find in all. (queues `math.addition-subtraction.word-problems.L3`)
+- In the Paper Caterpillars test on the newspaper, a hunter caught 15 plain strips and only 3 newspaper strips. How many times as many plain strips did the hunter catch? **5 times as many.**. The hunter caught 15 plain strips and 3 newspaper strips. 15 divided by 3 is 5. So the hunter caught 5 times as many plain strips. Check: 3 + 3 + 3 + 3 + 3 = 15. (queues `math.division.sharing-and-grouping.L3`)
+- In the Still or Moving test, a hunter took 12, 9 and 15 seconds to spot the still strip, and 2, 1 and 3 seconds to spot the wriggling strip. How much longer did the still strip take in all? **30 seconds longer.**. Still: 12 + 9 + 15 = 36 seconds. Wriggling: 2 + 1 + 3 = 6 seconds. 36 − 6 = 30. So the still strip took 30 seconds longer to find in all. (queues `math.addition-subtraction.word-problems.L3`)
 - A herd of 22 chital grazes under a tree with 6 langurs. Each animal has 2 eyes. How many eyes are watching for a tiger? If one chital is alone, how many eyes watch for her? **56 eyes in the herd and tree. Only 2 for a chital alone.**. 22 chital × 2 eyes = 44 eyes. 6 langurs × 2 eyes = 12 eyes. 44 + 12 = 56 eyes. A chital alone has only her own 2 eyes, so the herd has 28 times as many eyes watching. (queues `math.multiplication.equal-groups.L3`)
-- In the Graze or Hunt race, Asha picked 40 rice grains. Ravi found 3 rajma beans. One rajma bean weighs about as much as 20 rice grains. Who collected more food? **Ravi, with about 60 grains' worth.**. 3 beans × 20 = about 60 rice grains' worth. Asha had 40 grains. 60 is more than 40, so Ravi collected more food, even though he picked up far fewer things. (queues `math.multiplication.equal-groups.L3`)
+- In the Graze or Hunt race, one player picked 40 rice grains. Another player found 3 rajma beans. One rajma bean weighs about as much as 20 rice grains. Who collected more food? **The player with the 3 beans, with about 60 grains' worth.**. 3 beans × 20 = about 60 rice grains' worth. The other player had 40 grains. 60 is more than 40, so the player with the beans collected more food, even though they picked up far fewer things. (queues `math.multiplication.equal-groups.L3`)
 - These are made-up numbers. In one month, a tiger tries 20 hunts and makes 2 kills. How many hunts fail? What fraction of her hunts work? **18 hunts fail. 2 out of 20 work, which is 1 out of every 10.**. 20 − 2 = 18 failed hunts. 2 out of 20 is the same as 1 out of 10, because 20 ÷ 2 = 10. So only 1 hunt in every 10 worked. (queues `math.fractions.fractions-of-a-whole.L3`)
 
 ## Song

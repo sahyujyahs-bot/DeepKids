@@ -195,7 +195,7 @@
    "concept": "How a colony decides without a leader",
    "status": "defined",
    "definition": "A colony makes choices as a group. Each ant makes small choices, such as which trail to follow and how much scent to lay. Together, these small choices become one choice for the whole colony.",
-   "description": "In the sugar drop test, you put a weak sugar drop and a strong sugar drop near an ant road. No ant tasted both drops and then gave orders. The ants that drank the strong sugar laid more scent on the way home. More ants followed that trail, so more ants laid scent there. The trail to the weak drop stayed faint. Soon most ants were at the strong drop. The scientist Deborah Gordon studied harvester ants in the deserts of Arizona for more than 30 years. She found that ants decide whether to go out for food by how often they meet ants coming back with food. Many quick meetings mean food is easy to find. Scientists call a group choice like this collective decision-making. Sometimes the crowd gets stuck. If ants find a weak drop first and build a strong trail, they may keep going there even after a sweeter drop appears.",
+   "description": "In the sugar drop test, you put a weak sugar drop and a strong sugar drop near an ant road. No ant tasted both drops and then told the others which one was better. The ants that drank the strong sugar laid more scent on the way home. More ants followed that trail, so more ants laid scent there. The trail to the weak drop stayed faint. Soon most ants were at the strong drop. The scientist Deborah Gordon studied harvester ants in the deserts of Arizona for more than 30 years. She found that ants decide whether to go out for food by how often they meet ants coming back with food. Many quick meetings mean food is easy to find. Scientists call a group choice like this collective decision-making. Sometimes the crowd gets stuck. If ants find a weak drop first and build a strong trail, they may keep going there even after a sweeter drop appears.",
    "examples": [
     "Honeybees choose a new home the same way: scouts dance for the places they found, and the best place gets the most dancers.",
     "A flock of starlings turns together because each bird watches the seven or so birds nearest to them.",
@@ -249,7 +249,7 @@
    "definition": "",
    "description": "Humans are animals who live in societies: families, villages, schools and cities. Like elephants, we learn a lot from older people. The scientist Kristen Hawkes studied the Hadza people in Tanzania. She found that grandmothers there gather food that helps their grandchildren grow. She suggested that grandmothers helped humans survive for thousands of years. This idea is called the grandmother hypothesis. Lauren Brent and her team found something like it in killer whales. Old females who no longer have calves lead their families to salmon, especially in years with little food. Scientists still argue about how much grandmothers explain.",
    "examples": [
-    "A grandmother who remembers which leaves are safe to eat, and which plants help a fever.",
+    "A grandmother may remember which leaves are safe to eat and which plants help with a fever. She teaches this to her grandchildren.",
     "Older killer whale females swim in front when food is hard to find.",
     "In many Indian homes, children learn recipes, songs and festival customs from their grandmothers."
    ],
@@ -286,7 +286,7 @@
    "for": "Wolves put together as strangers in zoos did fight for rank.",
    "against": "Wild packs are families, and the 'alpha' pair are simply the parents. The scientist who spread the word, David Mech, later showed it was wrong for wild wolves.",
    "status": "rejected",
-   "context": "This card is about one of the most famous mistakes about animal societies."
+   "context": "An 'alpha' wolf is the supposed boss of a wolf pack, the one who fought his way to the top and rules the others. Older books said that every wolf pack works this way. This card asks whether that is true."
   },
   {
    "claim": "The queen ant rules the colony and tells the workers what to do.",
@@ -318,7 +318,7 @@
    "for": "The colony makes good group choices that no single ant makes, such as picking the sweeter food or the best new nest.",
    "against": "Others say the choosing is done by many ants, each following simple rules, and 'one mind' is only a picture.",
    "status": "debated",
-   "context": "Is a colony one being, or many? This card looks at both sides."
+   "context": "A superorganism is a group, such as an ant colony, that works like one body, with each ant like a cell in that body. This card asks whether a colony is one being or many ants. Scientists look at both sides."
   },
   {
    "claim": "Grandmothers helped humans survive, the way matriarchs help elephants.",
@@ -326,7 +326,7 @@
    "for": "Hadza grandmothers in Tanzania gather food that helps their grandchildren grow. Killer whale grandmothers lead their families to food.",
    "against": "Other scientists think fathers, older children and the whole group mattered as much. It is hard to test what happened long ago.",
    "status": "debated",
-   "context": "Do grandmothers matter for humans as they do for elephants? This card looks at an idea that is still argued about."
+   "context": "The grandmother hypothesis says that grandmothers who no longer have babies of their own help feed and guide their grandchildren, so their families do better. Do grandmothers matter for humans as they do for elephants? Scientists still argue about this idea."
   }
  ],
  "big_questions": [
@@ -887,7 +887,7 @@
      "id": "s3",
      "mins": 30,
      "do": "1. Every 5 minutes, count the ants on each square and write both numbers in the table. 2. In between, sit still and watch. 3. Follow one ant from the strong drop with your eyes. Does she walk straight back towards the ant road?",
-     "say": "We count both squares at the same time, every 5 minutes. In between, let's watch what the ants do. Do they meet each other?",
+     "say": "We count both squares at the same time, every 5 minutes. In between, let's watch what the ants do. Do they meet each other? Also watch one ant who has found the sugar. She walks straight home, and she leaves a scent trail as she goes. You cannot smell it, but other ants can.",
      "kid": "Every 5 minutes, count the ants on each square. Write the numbers down. In between, watch one ant. Where does she go?",
      "ask": [
       {
@@ -1029,7 +1029,8 @@
       "why": "People know most about what they have lived through. A grandmother remembers years nobody else in the family saw. A child knows the newest shops. That is why an old matriarch is so useful in a drought: she lived through droughts long ago. Picking 'older people always know more' misses the 'now' questions, where the child did best."
      }
     }
-   ]
+   ],
+   "problem": "An old elephant matriarch leads her family because she remembers the most, such as where to find water in a dry year. In this experiment you ask people of different ages in your family the same questions. You find out whether older people always know more."
   }
  ],
  "activities": [
@@ -1097,10 +1098,11 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Leave your child with a question.",
-     "say": "So if nobody is the boss, how do all these ants know where to go?",
-     "kid": "There is no boss ant. But the ants all go the same way. How do they know?",
-     "think": "How could thousands of ants agree on where to go, if nobody gives orders?"
+     "do": "Leave your child with a question. Let them guess first. Then give them the clue in the parent note.",
+     "say": "So if nobody is the boss, how do all these ants know where to go? What do you think?",
+     "kid": "There is no boss ant. But the ants all go the same way. How do they know? Guess first. Then your grown-up gives you a clue.",
+     "think": "How could thousands of ants agree on where to go, if nobody gives orders?",
+     "parent": "After the guess, give this clue: ants leave a smell on the ground as they walk, and the other ants follow that smell. The sugar drop test shows how this lets a whole colony choose a food without a leader."
     }
    ]
   },
@@ -1220,7 +1222,7 @@
       {
        "q": "Why might the oldest ants do the most dangerous job?",
        "good": [
-        "Because they have less life left to lose.",
+        "Because they have less life left to lose. The colony loses less when an old ant is lost than when a young one is.",
         "Because the young ones are kept safe to work longer."
        ]
       }
@@ -1239,10 +1241,20 @@
      "id": "s3",
      "mins": 1,
      "do": "Compare the two lists.",
-     "say": "What is the same about the ant nest and our home? What is different?",
-     "kid": "What is the same? What is different?"
+     "say": "What is the same about the ant nest and our home? What is different? Think about who does which jobs, and why.",
+     "kid": "What is the same? What is different?",
+     "ask": [
+      {
+       "q": "In what way is our home like an ant nest?",
+       "good": [
+        "In both, the work is shared between the members.",
+        "In both, the jobs change as a member gets older."
+       ]
+      }
+     ]
     }
-   ]
+   ],
+   "problem": "In many kinds of ants, the job of a worker changes as she grows older. Young workers look after the eggs inside the nest. Older workers go out to find food. In this activity you compare ant jobs with the jobs that people of different ages do at home."
   },
   {
    "id": "a4",
@@ -1307,7 +1319,8 @@
      ],
      "parent": "Wolf howls also tell other packs that this area is taken. Keep the howling short if neighbours are close."
     }
-   ]
+   ],
+   "problem": "Wolves howl to find each other when they are apart, and their family howls back. In this activity you play this game in your flat. You see how a call and an answer can bring a family together."
   },
   {
    "id": "a5",
@@ -2258,7 +2271,7 @@
      "t": "truefalse",
      "p": "A tiger who lives alone has a smaller mind than an elephant who lives in a family.",
      "a": false,
-     "why": "False. Living alone is a way of life, not a smaller mind. Tigers sense, remember and decide for themselves all the time. Their food, large prey hunted by stealth, is easier to catch alone."
+     "why": "False. Living alone is a way of life, not a smaller mind. Tigers sense, remember and decide for themselves all the time. They hunt large prey by sneaking up on it, and that is easier to do alone."
     },
     {
      "t": "match",
@@ -2730,8 +2743,8 @@
   "practice": {
    "title": "Walk without a leader",
    "mins": 3,
-   "say": "Let's all stand up in the middle of the room. Nobody leads, and nobody talks. Each of us watches only the person next to us. If they move, we move a little the same way. Let's walk slowly for one minute. Now stop. Close your eyes and take five slow breaths. Did we move together? Who decided where we went?",
-   "kid": "Stand with your family. Nobody talks. Watch the person next to you. Move when they move. Now stop. Breathe slowly five times. Who decided where you went?"
+   "say": "Let's all stand up in the middle of the room. Nobody leads, and nobody talks. Each of us watches only the person next to us. If they move, we move a little the same way. Let's walk slowly for one minute. Now stop. Close your eyes and take five slow breaths. Did we move together? Who decided where we went? Nobody did. Each of us only followed the person next to us, the way ants follow each other along a trail.",
+   "kid": "Stand with your family. Nobody talks. Watch the person next to you. Move when they move. Now stop. Breathe slowly five times. Who decided where you went? Nobody did. Each of you only followed your neighbour."
   },
   "ask": [
    "In the sugar drop test, most ants usually end up at the strong drop. Did the colony choose, or did each ant choose, or both?",
@@ -2747,5 +2760,5 @@
   "when": "1947 (Schenkel's zoo study), 1970 (Mech's book The Wolf), 1999 (Mech's paper on wild wolves)",
   "wrong_idea": "People thought a wolf pack was ruled by an 'alpha' wolf who fought his way to the top. Watching wild wolves for many years showed that a pack is a family, and the so-called alphas are the parents."
  },
- "warm": {"words": ["QUEEN", "SCENT", "TRAIL", "GROUP", "HERDS"], "quiz": [["An elephant family follows the oldest female because she remembers where water and danger are.", true, "An old matriarch has lived through many dry years, so her memory helps the whole family survive."], ["The biggest male elephant leads the family.", false, "Adult males live apart; families are led by an old female, the matriarch, who knows the most."], ["A queen ant lays eggs but does not tell the workers what to do.", true, "Each worker decides what to do from what she senses around her."], ["The more ants walk a trail, the weaker its smell becomes.", false, "Ants add their own scent as they return, so a trail used by many ants gets stronger."], ["An ant who finds food leaves a smell trail that other ants follow.", true, "She lays a pheromone trail on the way home, and other ants follow it to the food."], ["An ant colony cannot make a choice unless one ant is in charge.", false, "Many ants make small choices, and together these become one choice for the whole colony."], ["In a wild wolf pack, the alpha wolf fought his way to the top.", false, "A wild pack is a family, and the so-called alpha pair are simply the mother and father."], ["Elephants, ants and wolves all live in groups where members help each other for a long time.", true, "A society is a group of one kind of animal that live together and help each other."], ["Worker ants are males, and the queen is the only female.", false, "Worker ants are all females, the daughters of the queen."], ["Humans are animals who live in societies, and we learn a lot from older people.", true, "Families, villages and schools are societies; like elephants, we learn from those who have lived longer."]], "odd": [[["Elephant herd", "Ant colony", "Wolf pack", "Tiger"], "Tiger", "Elephants, ants and wolves live in groups that help each other, but a tiger mostly lives alone."], [["Pheromone", "Scent trail", "Warning smell", "Trumpet call"], "Trumpet call", "The first three are smell messages that ants use; a trumpet call is a sound, not a smell."], [["Cleaning the nest", "Guarding the nest", "Finding food", "Laying eggs"], "Laying eggs", "Workers do cleaning, guarding and finding food; laying eggs is the queen's job."], [["Grandmother elephant", "Aunt elephant", "Young calf", "Adult bull"], "Adult bull", "The first three live together in the family; adult bull elephants live apart from it."], [["Wolf pack", "Elephant herd", "Ant nest", "Crowded bus"], "Crowded bus", "The first three are animals who know each other and live together for a long time; bus riders do not."]]}
+ "warm": {"words": ["QUEEN", "SCENT", "TRAIL", "GROUP", "HERDS"], "quiz": [["An elephant family follows the oldest female because she remembers where water and danger are.", true, "An old matriarch has lived through many dry years, so her memory helps the whole family survive."], ["The biggest male elephant leads the family.", false, "Adult males live apart. Families are led by an old female, the matriarch, who knows the most."], ["A queen ant lays eggs but does not tell the workers what to do.", true, "Each worker decides what to do from what she senses around her."], ["The more ants walk a trail, the weaker its smell becomes.", false, "Ants add their own scent as they return, so a trail used by many ants gets stronger."], ["An ant who finds food leaves a smell trail that other ants follow.", true, "She lays a pheromone trail on the way home, and other ants follow it to the food."], ["An ant colony cannot make a choice unless one ant is in charge.", false, "Many ants make small choices, and together these become one choice for the whole colony."], ["In a wild wolf pack, the alpha wolf fought his way to the top.", false, "A wild pack is a family, and the so-called alpha pair are simply the mother and father."], ["Elephants, ants and wolves all live in groups where members help each other for a long time.", true, "A society is a group of one kind of animal that live together and help each other."], ["Worker ants are males, and the queen is the only female.", false, "Worker ants are all females, the daughters of the queen."], ["Humans are animals who live in societies, and we learn a lot from older people.", true, "Families, villages and schools are societies. Like elephants, we learn from those who have lived longer."]], "odd": [[["Elephant herd", "Ant colony", "Wolf pack", "Tiger"], "Tiger", "Elephants, ants and wolves live in groups that help each other, but a tiger mostly lives alone."], [["Pheromone", "Scent trail", "Warning smell", "Trumpet call"], "Trumpet call", "The first three are smell messages that ants use. A trumpet call is a sound, not a smell."], [["Cleaning the nest", "Guarding the nest", "Finding food", "Laying eggs"], "Laying eggs", "Workers do cleaning, guarding and finding food. Laying eggs is the queen's job."], [["Grandmother elephant", "Aunt elephant", "Young calf", "Adult bull"], "Adult bull", "The first three live together in the family. Adult bull elephants live apart from it."], [["Wolf pack", "Elephant herd", "Ant nest", "Crowded bus"], "Crowded bus", "The first three are animals who know each other and live together for a long time. Bus riders do not."]]}
 }

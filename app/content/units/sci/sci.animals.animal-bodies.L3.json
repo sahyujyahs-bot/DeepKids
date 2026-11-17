@@ -187,7 +187,7 @@
    "examples": [
     "People, cows, crows, snakes, tortoises and dolphins all breathe with lungs.",
     "A dolphin's lungs fill through a blowhole on top of their head.",
-    "Room air is about 21 parts in 100 oxygen. Breathed-out air is about 16 parts in 100. Room air has only a tiny bit of carbon dioxide. Breathed-out air has about 100 times as much."
+    "Out of every 100 parts of room air, about 21 are oxygen. Out of every 100 parts of breathed-out air, about 16 are oxygen. Room air has only a tiny bit of carbon dioxide. Breathed-out air has about 100 times as much."
    ],
    "perspectives": [],
    "art": "A child's body outline with the windpipe branching into two lungs like an upside-down tree, and a dome-shaped diaphragm below, with arrows showing it pull down.",
@@ -385,7 +385,7 @@
    "claim": "We breathe in oxygen and breathe out only carbon dioxide.",
    "who": "A common way of saying it, even in some books",
    "for": "It is a simple way to remember breathing.",
-   "against": "Breathed-out air still has plenty of oxygen, about 16 parts in 100, compared with 21 parts in room air. That is why rescue breathing, when a person breathes into someone who has stopped breathing, can work. Breathed-out air is mostly nitrogen, just like room air. It has a little less oxygen, about 100 times more carbon dioxide, and more water.",
+   "against": "Breathed-out air still has plenty of oxygen. About 16 out of every 100 parts of it are oxygen, compared with 21 out of every 100 parts of room air. That is why rescue breathing, when a person breathes into someone who has stopped breathing, can work. Breathed-out air is mostly nitrogen, just like room air. It has a little less oxygen, about 100 times more carbon dioxide, and more water.",
    "status": "rejected",
    "context": "This card is about a common way of describing breathing, and why it is not quite right."
   },
@@ -419,7 +419,7 @@
    "for": "These tiny parts, called mitochondria, use oxygen just as some bacteria do. They even have their own little bit of DNA, like bacteria.",
    "against": "At first, most biologists thought the idea was strange and unlikely. But DNA tests later showed that mitochondria really did come from bacteria that moved into bigger cells long ago.",
    "status": "accepted",
-   "context": "This card is about an idea that most biologists first thought was strange: the parts of our cells that use oxygen were once bacteria."
+   "context": "Mitochondria are the tiny parts inside your cells that use oxygen to get energy from food. This card is about an idea that most biologists first thought was strange: that mitochondria were once free-living bacteria."
   }
  ],
  "big_questions": [
@@ -893,10 +893,19 @@
      "id": "s4",
      "mins": 2,
      "do": "Count the tokens. Then each player names one animal from the game that surprised them.",
-     "say": "Let's count tokens. Which animal surprised you most?",
-     "kid": "Count your tokens. Which animal surprised you most? Why?",
-     "think": "Can you think of an animal that breathes in a way none of our mats show?",
-     "context": "This is the end of Lungs, Gills or Skin? You count the tokens and talk about surprises."
+     "say": "Let's count tokens. Now look at the animals that breathe through their skin, or partly through it. What do their homes have in common?",
+     "kid": "Count your tokens. Look at the animals that breathe through their skin. What do their homes have in common?",
+     "think": "A snake has dry, scaly skin. Could a snake breathe through their skin? Why not?",
+     "context": "This is the end of Lungs, Gills or Skin? You count the tokens and talk about surprises.",
+     "ask": [
+      {
+       "q": "What do the homes of skin-breathing animals have in common?",
+       "good": [
+        "They are all wet or damp.",
+        "Skin can take in oxygen only when it is thin and damp."
+       ]
+      }
+     ]
     }
    ]
   },
@@ -987,7 +996,8 @@
      "say": "How did it feel to be the bat? Did it get easier with practice? Ganges river dolphins hunt fish in muddy water the same way, with clicks.",
      "kid": "Was it hard to be the bat? Did it get easier? River dolphins hunt like this in muddy water.",
      "think": "Moths have ears too. What might a clever moth do when they hear a bat coming?",
-     "context": "This is the end of Bat and Moth. You talk about finding food by sound."
+     "context": "This is the end of Bat and Moth. You talk about finding food by sound.",
+     "parent": "Let your child guess first. Many moths can hear a bat's high sounds. Some drop to the ground or fly in loops to escape, so the bat loses them."
     }
    ]
   }
@@ -1529,7 +1539,7 @@
       "We breathe out only water"
      ],
      "a": 0,
-     "why": "Room air has about 21 parts in 100 oxygen, and breathed-out air still has about 16. Your body takes only a small part of the oxygen in each breath. Breath also carries about 100 times more carbon dioxide than room air.",
+     "why": "Out of every 100 parts of room air, about 21 are oxygen. Out of every 100 parts of breathed-out air, about 16 are still oxygen. Your body takes only a small part of the oxygen in each breath. Breath also carries about 100 times more carbon dioxide than room air.",
      "how": "e2",
      "context": "In the Limewater Test, you bubbled your breath into one glass of limewater and pushed room air from a squeezed bottle into another glass."
     },
@@ -1751,8 +1761,9 @@
        ]
       }
      ],
-     "think": "Put a hand on your chest after jumping and feel your heart. It beats faster too. Why might the heart and the lungs speed up together?",
-     "context": "This is the last step of the Breath Count experiment. You explain what you found, using claim, evidence and reasoning."
+     "think": "Put a hand on your chest after jumping and feel your heart. It beats faster too. Remember that blood carries oxygen from the lungs to the muscles. Why might the heart and the lungs speed up together?",
+     "context": "This is the last step of the Breath Count experiment. You explain what you found, using claim, evidence and reasoning.",
+     "parent": "A good answer is that working muscles need more oxygen. The lungs bring in more oxygen, and the heart pumps faster to carry that oxygen to the muscles in the blood. So both speed up together."
     }
    ]
   },
@@ -1895,7 +1906,8 @@
      "context": "This is the last step of the Limewater Test. You compare the two glasses and explain what happened.",
      "parent": "Let your child guess first. Then explain: the milky colour is tiny bits of calcium carbonate, the same material as chalk and eggshell. It forms when carbon dioxide meets limewater. Your cells use oxygen to get energy from food. The carbon in the food comes out as carbon dioxide, and the blood carries it to the lungs. So part of every meal leaves the body in the breath."
     }
-   ]
+   ],
+   "problem": "Limewater is clear water with a little lime in it. It turns milky when carbon dioxide gas bubbles through it. Our bodies make carbon dioxide and breathe it out. So limewater can show whether a gas has carbon dioxide in it. In this experiment you bubble your breath through one glass of limewater, and room air through another."
   },
   {
    "id": "e3",
@@ -2132,7 +2144,7 @@
       "a": 0,
       "why": "Your breath is warm and full of water vapour. When it touches cooler steel, the vapour turns into tiny drops, just like the drops on a cold glass of water. Picking 'smoke' means thinking breathing is like burning. That is partly a good idea, because cells do use oxygen to get energy from food, but there is no smoke. Oxygen has no colour, so you can never see it."
      },
-     "think": "You breathed out water. Where did that water come from? A fish lives in water. How does a fish breathe?"
+     "think": "A fish lives in water. Do you think a fish needs to breathe? How might a fish get oxygen from water?"
     },
     {
      "id": "s2",
@@ -2259,10 +2271,11 @@
       }
      ],
      "parent": "Children love finding what's wrong with a model. It's real science thinking: a model shows one idea, not everything.",
-     "think": "A fish has no diaphragm. How do they move water over their gills?",
+     "think": "A fish has no diaphragm. Think about how water goes in at the mouth and out under the gill covers. How do they move water over their gills?",
      "context": "This is the step where you compare the bottle lung with your own breathing, and find what the model gets wrong."
     }
-   ]
+   ],
+   "problem": "Your lungs cannot move by themselves. A sheet of muscle under them, called the diaphragm, pulls down and makes space, and air rushes in. In this activity you build a model lung from a bottle and two balloons, and watch this happen."
   },
   {
    "id": "a3",
@@ -2460,7 +2473,8 @@
      "think": "Out of water, a fish's gill threads stick together, like the crumpled towel. What happens to their surface then?",
      "context": "This is the last step of the gill shape test. You work out why gills and lungs are frilly."
     }
-   ]
+   ],
+   "problem": "Gills are folded into thin threads, and lungs are made of millions of tiny bubbles. In this activity you test why. You wet two paper towels, and crumple one into a ball and cut the other into frilly strips. Then you see which dries first. Water leaves a towel through the surface that touches the air. In the same way, oxygen enters a gill through its surface."
   },
   {
    "id": "a5",
@@ -2513,10 +2527,10 @@
      "kid": "Put on the blindfold. Sniff each bowl, one by one. Which one has the snack? Point to it.",
      "ask": [
       {
-       "q": "Was it easy or hard?",
+       "q": "What told you which bowl held the snack?",
        "good": [
-        "Hard, my nose is not very strong.",
-        "Easy for the lemon, hard for the banana."
+        "The smell was stronger at that bowl.",
+        "I sniffed each bowl until one smelled of the snack."
        ]
       }
      ],
@@ -2710,7 +2724,7 @@
      "mins": 6,
      "do": "Match each tool to an animal with a mouth like that tool.",
      "say": "Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The tweezers are like a heron's long beak, picking up food. The peg is like a parrot's strong beak, gripping a nut.",
-     "kid": "Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Which was your favourite?",
+     "kid": "Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Each tool was best at a different food, just like each beak.",
      "check": {
       "t": "mcq",
       "q": "A flamingo eats tiny shrimps floating in lake water. In the Mouth Tools Buffet, which tool worked like a flamingo's beak?",
@@ -2724,7 +2738,8 @@
      },
      "context": "This is the step where you match each tool to an animal whose mouth works the same way."
     }
-   ]
+   ],
+   "problem": "An animal's mouth fits the way they get food. In this activity, kitchen tools stand in for animal mouths: a straw, a tea strainer, tweezers and a clothes peg. You find which tool is best at which food."
   }
  ],
  "projects": [
@@ -2932,7 +2947,7 @@
      "do": "Your child explains the design to someone in the family.",
      "say": "Tell someone at home or a friend about your animal. How do they breathe? How do they find food? What would happen to them if the river got dirtier?",
      "kid": "Show your drawing to someone. Explain how they breathe and find food.",
-     "think": "Real Ganges river dolphins are in danger. The water is dirtier, and dams block their way. How could people help them?",
+     "think": "Real Ganges river dolphins are in danger. The river water is getting dirtier, and dams block the places where they swim and hunt. Thinking about what they need, how could people help them?",
      "context": "This is the last step of Design a River-Bottom Hunter. You explain your design to someone."
     }
    ]
@@ -3137,7 +3152,7 @@
     "Limewater is broken"
    ],
    "a": 0,
-   "why": "Carbon dioxide turns limewater milky. Breathed-out air carries carbon dioxide from your cells. Picking 'no oxygen' is a common mistake. Breathed-out air still has about 16 parts in 100 oxygen.",
+   "why": "Carbon dioxide turns limewater milky. Breathed-out air carries carbon dioxide from your cells. Picking 'no oxygen' is a common mistake. About 16 out of every 100 parts of breathed-out air are still oxygen.",
    "outcome": 3,
    "how": "e2",
    "context": "In the Limewater Test, you bubbled breath into one glass of limewater and pushed room air from a squeezed bottle into the other."
@@ -3765,12 +3780,12 @@
   "practice": {
    "title": "Breath and the meal",
    "mins": 3,
-   "say": "Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, dal, idli or roti, some fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will that breath go next?",
-   "kid": "Sit tall. Close your eyes. Hold your hand in front of your mouth. Breathe out slowly. Feel the warm air. Think of what you ate today. Part of it is in that breath. Breathe in for four. Breathe out for six. Do five breaths."
+   "say": "Let's sit tall and close our eyes. Hold your hand in front of your mouth. Breathe out slowly, and feel the warm air on your palm. Now think of what you ate today. Rice, dal, idli or roti, some fruit. Your cells are using it right now. Part of it is in the breath on your hand. Breathe in for four counts. Breathe out for six. Let's do five breaths together. Now open your eyes. Where will the carbon dioxide in that breath go next? A plant may take in the carbon dioxide you breathed out, and use it to make food.",
+   "kid": "Sit tall. Close your eyes. Hold your hand in front of your mouth. Breathe out slowly. Feel the warm air. Think of what you ate today. Part of it is in that breath. Breathe in for four. Breathe out for six. Do five breaths. A plant may use the carbon dioxide you breathed out."
   },
   "ask": [
-   "If part of your lunch leaves in your breath, when did the food stop being food and start being you?",
-   "An earthworm has no lungs, but their cells use oxygen just like yours. What does it really mean to breathe?"
+   "Part of your lunch becomes your body, and part leaves in your breath. At what point would you say the food becomes you?",
+   "An earthworm has no lungs, but their cells use oxygen just like yours. So is breathing about the lungs, or about what happens in the cells?"
   ],
   "art": "A child breathing out onto a palm, with a soft stream of dots leaving the mouth towards a window and a potted tulsi plant, and a plate of rice and sambar beside the child."
  },
@@ -3781,5 +3796,5 @@
   "wrong_idea": "Aristotle and Galen taught that breathing is mainly for cooling the heart. Black showed that breath carries carbon dioxide, and Lavoisier showed that an animal uses oxygen and makes carbon dioxide and heat, like a slow fire."
  },
  "playtest": "Walked through both games (all 24 animal cards, 8 bonus cards, 4 mats and 20 tokens are written out and play with 2 or 4 players; the bat-and-moth game now says who holds the stopwatch, so 2 players can play), then all three experiments, seven activities, the project and both challenges as a family would in a flat. Fixed: the Flat or Frilly towel test needs about 30 minutes of drying, so its minutes and schedule now say 45 and the result is stated honestly for humid days; Follow Your Nose now hides the smelly snack itself (the snack was missing from the materials); the Breath Count and Ant Detectives model answers no longer treat made-up numbers as real results; the room-air limewater glass may go slightly hazy and now says so; the bottle lung has a leak tip. Removed warnings that were not needed (asthma and jumping, asthma and breath-holding) and kept the real ones (chuna, cutting the bottle, ants that bite, water). Removed repeats: the chart check in Breath Count and the limewater check (both asked again in the quiz), the bats-are-blind true or false (the Challenging Ideas card covers it), the gills-dry-out question (a big question and the gill card cover it), the river-animal design question and the dark-river sense check (the river-bottom challenge covers them), and one story question and one roots question. Three new worksheet questions keep each sheet at 15 (ants follow a smell trail, owl or eagle senses, why people once thought breathing cools the heart). The ordering question no longer lists the answer in order, the label item became a draw-and-label item because there is no printed picture, the made-up Karthik and Divya are no longer assumed to be siblings, the river-bottom animal now says 'your animal' and 'they', and the Taraporewala Aquarium link was dropped because it may still be closed. The video titles and ids were opened and match. Choices for the next editor: example foods now include dal, roti and idli, and the unit is already mostly South and East Indian in its places and animals. Facts were not re-checked against the sources beyond what the unit already cites.",
- "warm": {"words": ["LUNGS", "GILLS", "BLOOD", "SMELL", "CELLS"], "quiz": [["Fish breathe all the time, using gills to take oxygen from the water.", true, "Water flows over the gills, which take out oxygen, and then leaves under the gill covers."], ["Air that you breathe out has no oxygen left in it.", false, "Breathed-out air still has about 16 parts oxygen in 100, compared with 21 in room air."], ["A running dog breathes faster because the dog's muscles need more oxygen.", true, "Active muscles use more oxygen, so the body breathes faster to bring more in."], ["Whales and dolphins are fish, because they live in water.", false, "They breathe air with lungs through a blowhole and would drown if they could not reach the surface."], ["An earthworm takes in oxygen through damp skin.", true, "Skin can let oxygen in only if it is thin and kept damp."], ["Dry, thick skin can take in oxygen as well as thin, damp skin.", false, "Oxygen can pass only through a thin, damp wall, so thick or dry skin cannot do it."], ["Insects breathe through tiny holes in their sides that lead to air pipes.", true, "These holes, called spiracles, let air into thin pipes that reach every part of the body."], ["Bats cannot see, so they find food only with echoes.", false, "Bats can see, and many fruit bats see very well; some insect-eating bats also use echoes."], ["Animal cells use oxygen to make food for the body.", false, "Cells use oxygen to release the energy stored in the food the animal has eaten."], ["Lungs and gills both work by having thin, damp walls with blood flowing close beneath.", true, "Oxygen can pass through a thin wall into the blood, and a large surface lets more pass."]], "odd": [[["Lungs", "Gills", "Spiracles", "Stomach"], "Stomach", "Lungs, gills and spiracles bring oxygen into the body; the stomach deals with food."], [["Dolphin", "Whale", "Crocodile", "Rohu"], "Rohu", "Dolphins, whales and crocodiles breathe air with lungs; a rohu takes oxygen from water with gills."], [["Bat", "Dolphin", "Cave swiftlet", "Cow"], "Cow", "Bats, dolphins and cave swiftlets find their way with echoes of their own sounds; a cow does not."], [["Grazing", "Hunting", "Sieving water", "Holding breath"], "Holding breath", "Grazing, hunting and sieving are ways of getting food; holding breath is about oxygen, not food."], [["Fish gill", "Lung air sac", "Earthworm skin", "Thick dry scale"], "Thick dry scale", "The first three are thin and damp with blood close by, so oxygen passes in; a thick dry scale blocks it."]]}
+ "warm": {"words": ["LUNGS", "GILLS", "BLOOD", "SMELL", "CELLS"], "quiz": [["Fish breathe all the time, using gills to take oxygen from the water.", true, "Water flows over the gills, which take out oxygen, and then leaves under the gill covers."], ["Air that you breathe out has no oxygen left in it.", false, "Breathed-out air still has about 16 parts of oxygen in every 100. Room air has 21 in every 100."], ["A running dog breathes faster because the dog's muscles need more oxygen.", true, "Active muscles use more oxygen, so the body breathes faster to bring more in."], ["Whales and dolphins are fish, because they live in water.", false, "They breathe air with lungs through a blowhole and would drown if they could not reach the surface."], ["An earthworm takes in oxygen through damp skin.", true, "Skin can let oxygen in only if it is thin and kept damp."], ["Dry, thick skin can take in oxygen as well as thin, damp skin.", false, "Oxygen can pass only through a thin, damp wall, so thick or dry skin cannot do it."], ["Insects breathe through tiny holes in their sides that lead to air pipes.", true, "These holes, called spiracles, let air into thin pipes that reach every part of the body."], ["Bats cannot see, so they find food only with echoes.", false, "Bats can see, and many fruit bats see very well. Some insect-eating bats also use echoes."], ["Animal cells use oxygen to make food for the body.", false, "Cells use oxygen to release the energy stored in the food the animal has eaten."], ["Lungs and gills both work by having thin, damp walls with blood flowing close beneath.", true, "Oxygen can pass through a thin wall into the blood, and a large surface lets more pass."]], "odd": [[["Lungs", "Gills", "Spiracles", "Stomach"], "Stomach", "Lungs, gills and spiracles bring oxygen into the body. The stomach deals with food."], [["Dolphin", "Whale", "Crocodile", "Rohu"], "Rohu", "Dolphins, whales and crocodiles breathe air with lungs. A rohu takes oxygen from water with gills."], [["Bat", "Dolphin", "Cave swiftlet", "Cow"], "Cow", "Bats, dolphins and cave swiftlets find their way with echoes of their own sounds. A cow does not."], [["Grazing", "Hunting", "Sieving water", "Holding breath"], "Holding breath", "Grazing, hunting and sieving are ways of getting food. Holding breath is about oxygen, not food."], [["Fish gill", "Lung air sac", "Earthworm skin", "Thick dry scale"], "Thick dry scale", "The first three are thin and damp with blood close by, so oxygen passes in. A thick dry scale blocks it."]]}
 }

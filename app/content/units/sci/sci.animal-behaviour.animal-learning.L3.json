@@ -142,7 +142,7 @@
   {
    "concept": "Copying every step, or copying what works?",
    "status": "debated",
-   "description": "Chimpanzees shown a clear puzzle box skipped a step that did nothing. Children copied it. This is called overimitation. Grown-ups do it even more than children. Scientists agree that it happens, in children from Scotland to the Kalahari Desert in Africa. They argue about why people do it.",
+   "description": "Scientists showed chimpanzees and children a puzzle box with a clear front. One step, such as poking a stick into a hole on top, did nothing to open the box. The chimpanzees skipped that step. The children copied it. This is called overimitation. Grown-ups do it even more than children. Scientists agree that it happens, in children from Scotland to the Kalahari Desert in Africa. They still argue about why people do it.",
    "examples": [
     "Most children aged 3 and 4 copied a useless poke into a puzzle box, even when the box was clear.",
     "In a 2011 study in Scotland, grown-ups copied useless steps even more than children did.",
@@ -213,7 +213,7 @@
    "for": "Apes do copy a lot, and they learn to use tools by watching.",
    "against": "Chimpanzees shown a clear puzzle box skipped the useless step and went straight for the reward. People were the ones who copied everything.",
    "status": "rejected",
-   "context": "This card is about an old saying that turned out to be wrong."
+   "context": "'Monkey see, monkey do' is an old saying. It means that an ape copies every action she sees, without thinking about whether it is needed. Scientists tested this saying with chimpanzees and a clear puzzle box."
   },
   {
    "claim": "Animals act only by instinct. Only people really learn.",
@@ -221,7 +221,7 @@
    "for": "Many animals do things they were never taught, such as a spider spinning a web.",
    "against": "Dogs, crows, bees, fish and chimpanzees all change what they do after experience. Chaser learned over 1,000 names.",
    "status": "rejected",
-   "context": "This card is about an old idea that animals cannot learn."
+   "context": "An instinct is something an animal can do without learning, such as a spider spinning a web. This old idea says that instinct is all animals have, and that learning belongs only to people."
   },
   {
    "claim": "Copying is the lazy way to learn. Working things out yourself is always better.",
@@ -237,7 +237,7 @@
    "for": "People build on each other's ideas over thousands of years, from the wheel to the phone. No animal does that as far as we know.",
    "against": "Chimpanzees, macaques, great tits, whales and dolphins keep group habits learned from each other for years.",
    "status": "debated",
-   "context": "This card is about whether animals have culture."
+   "context": "Culture here means ways of doing things that are learned from others and last for a long time in a group. Some scientists say that only people have this. Others say that some animals have it too."
   }
  ],
  "big_questions": [
@@ -264,7 +264,7 @@
   {
    "q": "Crows in a city can learn from other crows that a person is dangerous, without ever being harmed by that person. So who knows it: each crow, or the whole group?",
    "kind": "big",
-   "hint": "Who knows a tradition: each animal, or the group?"
+   "hint": "Each crow has the knowledge in her own head. But the knowledge spread only because the crows watched each other. So think about whether a tradition lives in one animal or in the whole group."
   }
  ],
  "story": {
@@ -513,7 +513,7 @@
     "Shuffle the 20 cards. Put them in a pile with the fronts up. Lay the sorting mat in the middle.",
     "On your turn, read the top card aloud. Say which box you think it goes in, and why.",
     "Turn the card over. If you were right, keep the card. If not, put it in the right box on the mat.",
-    "Any player can say 'Challenge!' if they think the card could fit two boxes and can give a good reason. If the others agree, that player takes one card from the mat (a card someone guessed wrong).",
+    "Any player can say 'Challenge!' if they think the card could fit two boxes and can give a good reason. If the others agree, that player takes one card from the mat. These are the cards that someone guessed wrong.",
     "When the pile is finished, the player with the most cards wins. Playing alone, try to keep 15 or more."
    ],
    "flow": [
@@ -551,9 +551,9 @@
      "kid": "Read the card. Pick a box. Say why. Then turn it over.",
      "ask": [
       {
-       "q": "The weaver bird card says 'from what happened before'. But weaving is also an instinct. Can it be both?",
+       "q": "A weaver bird is born able to weave, but his nests get better with practice. Is that instinct or learning?",
        "good": [
-        "Yes. He is born able to weave, but he gets better with practice.",
+        "It is both. He is born able to weave, but he gets better with practice.",
         "Most things animals do mix instinct and learning."
        ]
       }
@@ -563,8 +563,9 @@
      "id": "s4",
      "mins": 2,
      "do": "Count the cards. Look at the box with the most cards on the mat.",
-     "say": "Which box was hardest to guess? Why do you think so?",
-     "kid": "Count your cards. Which box was hardest to guess?"
+     "say": "Most things animals do mix being born able with learning. Pick one card that could have fitted two boxes, and tell me why.",
+     "kid": "Count your cards. Pick one card that could fit two boxes. Say why.",
+     "parent": "Good answers: the weaver bird, who is born able to weave and gets better with practice. Or the dog who sits for a treat, because dogs are born able to learn from rewards. The point is that instinct and learning often work together."
     }
    ],
    "setup": [
@@ -612,7 +613,7 @@
     "The first player does the four actions for the second player, without words. The others look away.",
     "The second player does what they remember for the third player, and so on to the end of the line.",
     "The last player does the actions for everyone. Then the first player reads the card aloud.",
-    "Everyone scores a point if all four actions arrived. With only 2 players: the first player shows the card's actions to the second player, the second player does what they remember back to the first player, and the first player checks it against the card."
+    "Everyone scores a point if all four actions arrived. With only 2 players, the first player shows the card's actions to the second player. Then the second player does what they remember back to the first player. Then the first player checks it against the card."
    ],
    "flow": [
     {
@@ -815,7 +816,8 @@
      "art": "The adult opening the box while the child writes in a notebook.",
      "caption": "3. Put the prize back. Watch what the other person does. Write it down."
     }
-   ]
+   ],
+   "problem": "When people watch someone open a box, they often copy every step, even a step they can see does nothing. Chimpanzees skipped such a step. In this experiment you show people how to open a clear box, with one step that does nothing, and see who copies it."
   },
   {
    "id": "e2",
@@ -931,7 +933,8 @@
      "art": "The parent opening the side flap while another adult watches, and the girl writing in a notebook.",
      "caption": "3. Each person shows the next. Write which door each one uses."
     }
-   ]
+   ],
+   "problem": "Scientists once taught one chimpanzee one way to open a box that could be opened two ways. Then that chimpanzee showed the next, and so on down a chain of six. The same way travelled all along the chain. In this experiment you do the same with people."
   }
  ],
  "activities": [
@@ -972,10 +975,10 @@
      "kid": "Put each thing in a column. Who taught you? Did you watch, try, or just know?",
      "ask": [
       {
-       "q": "Which column has the most things?",
+       "q": "Pick one thing that fits in two columns. Why does it fit both?",
        "good": [
-        "By watching others.",
-        "From trying."
+        "Riding a cycle. Someone showed me, and I also tried again and again until I could balance.",
+        "Drawing a kolam. I watched my family, and I also practised until the lines came out straight."
        ]
       }
      ]
@@ -1077,7 +1080,8 @@
      "art": "A child picking up the strange kitchen tool while a parent asks for 'the dax'.",
      "caption": "2. Ask for 'the dax'. Which one does your child pick?"
     }
-   ]
+   ],
+   "problem": "Chaser was a dog in America who learned the names of 1,022 toys. When she heard a name she had never heard before, she picked the toy she did not know. In this activity you find out if you do the same."
   },
   {
    "id": "a3",
@@ -1179,7 +1183,8 @@
      "art": "The child pulling the stick out slowly, puffed rice stuck to the tip.",
      "caption": "3. Copy them and count the grains."
     }
-   ]
+   ],
+   "problem": "Young chimpanzees learn to fish for termites by poking a thin grass stem into a termite mound and pulling it out covered in termites. They learn this by watching their mothers for years. In this activity the puffed rice are the termites, the bottle is the mound and a thin stick is the grass stem. You fish first on your own, then after watching a grown-up."
   },
   {
    "id": "a4",
@@ -1210,7 +1215,7 @@
      "id": "s1",
      "mins": 10,
      "do": "Sit at the window for 10 minutes. Write down every animal you see and what they do.",
-     "say": "Look for animals doing something they must have learned. A crow waiting near the bins. Pigeons gathering where someone throws grain. A dog at the tea stall.",
+     "say": "Look for animals doing something they must have learned. A crow may wait near the bins, because food has been there before. Pigeons may gather where someone throws grain. A dog may sit near the tea stall when the stall gets busy.",
      "kid": "Watch for 10 minutes. Which animals do you see? What are they doing?",
      "parent": "Early morning or evening is best. Even ants on the sill count. If you see nothing, try again at a different time.",
      "context": "This is the first step of What Have They Learned?, a window watch about city animals."
@@ -2082,7 +2087,7 @@
     },
     {
      "t": "write",
-     "p": "A girl tested only her mother in the Useless Step Test. Her mother tapped the lid. The girl says, 'Everybody copies useless steps.' What is wrong with her claim, and what should she do?",
+     "p": "You tested only your mother in the Useless Step Test, and she tapped the lid. Can you say that everybody copies useless steps? Why, or why not?",
      "lines": 4,
      "a": "One person is not enough to say 'everybody'. She should test more people, one at a time, and say 'most of the people I tested' only if most of them copied.",
      "why": "A strong answer explains that you can only say as much as your evidence shows."
@@ -2547,8 +2552,8 @@
   "practice": {
    "title": "Copy the breath",
    "mins": 3,
-   "say": "Sit facing each other. I will breathe in a slow way. Watch my shoulders and my belly, and breathe the same way as me. Now close your eyes and breathe your own way. Did your breath change after copying mine? Whose breath is it now?",
-   "kid": "Sit facing your grown-up. Watch how they breathe. Breathe the same way. Now close your eyes. Breathe your own way. Did your breath change?"
+   "say": "Sit facing each other. I will breathe in a slow way. Watch my shoulders and my belly, and breathe the same way as me. Now close your eyes and breathe your own way. Did your breath change after copying mine? Copying changed something in you, even though you did not decide to change it.",
+   "kid": "Sit facing your grown-up. Watch how they breathe. Breathe the same way. Now close your eyes. Breathe your own way. Did your breath change? Copying changed you, without you deciding to."
   },
   "ask": [
    "If you copy a step and never find out why it is done, have you really learned it?",
