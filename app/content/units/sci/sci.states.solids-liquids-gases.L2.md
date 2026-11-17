@@ -1,9 +1,9 @@
 # Solids, liquids and gases: why water takes the shape of its glass
 `sci.states.solids-liquids-gases.L2`
 
-**Summary.** Pour water from a tumbler into a tall, thin bottle, and it looks like more. Pour it into a wide bowl, and it looks like less. Your child tests this, then pours the water back to see. A solid, like a steel spoon or an ice cube, keeps its own shape wherever you put it. A liquid, like water or milk, flows and takes the shape of whatever holds it. A gas, like air or steam, spreads out to fill every corner. Ice, water and steam are the same water in three different states.
+**Summary.** Pour water from a tumbler into a tall, thin bottle, and it looks like more. Pour it into a wide bowl, and it looks like less. Your child tests this, then pours the water back to check whether the amount changed. A solid, like a steel spoon or an ice cube, keeps its own shape wherever you put it. A liquid, like water or milk, flows and takes the shape of whatever holds it. A gas, like air or steam, spreads out to fill every corner. Ice, water and steam are the same water in three different states.
 
-**Intro.** *Fill a glass tumbler halfway with water. Now imagine pouring it into a tall, thin bottle. Will there be more water, less water, or the same?* Many children say the thin bottle will have more, because the water will stand taller. Some say less. You are going to pour it and find out. Water can change its shape in a moment. An ice cube cannot. Why is that? This unit answers that question, and you will test the answer yourself.
+**Intro.** *Fill a glass tumbler halfway with water. If you pour that water into a tall, thin bottle, will there be more water, less water, or the same?* Many children say the thin bottle will have more, because the water will stand taller. Some say less. You are going to pour it and find out. Water can change its shape in a moment. An ice cube cannot. Why is that? This unit answers that question, and you will test the answer yourself.
 
 ## Learning outcomes
 0. By the end I can sort things into solids, liquids and gases, and say why.
@@ -28,21 +28,21 @@
 ### Solids keep their own shape · *defined*
 **Definition:** A solid is something that keeps its own shape. It stays the same shape when you move it into a new container.
 
-Put a steel spoon in a tumbler, then in a bowl, then on a plate. It is the same spoon shape every time. An ice cube is a solid too. In our test, the ice cube was too big to go into the thin bottle, because it could not change its shape to fit. You can change a solid's shape by pushing, cutting or breaking it. But on its own, a solid stays the way it is.
+Put a steel spoon in a tumbler, then in a bowl, then on a plate. It is the same spoon shape every time. An ice cube is a solid too. In the experiment One Tumbler, Three Shapes, the ice cube was too big to go into the thin bottle, because it could not change its shape to fit. You can change a solid's shape by pushing, cutting or breaking it. But on its own, a solid stays the way it is.
 - e.g. A stone keeps its shape in your hand or in a bucket.
 - e.g. An ice cube would not go into the thin bottle.
 - e.g. A wooden block stays a block wherever you put it.
 ### Liquids flow and take the shape of their container · *defined*
 **Definition:** A liquid flows. It has no shape of its own, so it takes the shape of whatever holds it. Its amount stays the same.
 
-In the thin bottle, the water stood tall. In the wide bowl, it spread out low and flat. It looked like more, then less. But when we poured it back, it came up to the same bindi line on the tumbler. The shape changed. The amount did not. A liquid also always settles at the bottom of its container, with a flat top.
+In the thin bottle, the water stood tall. In the wide bowl, it spread out low and flat. It looked like more, then less. But when we poured it back into the tumbler, it came up to the same line, which we had marked with a bindi. The shape changed. The amount did not. A liquid also always settles at the bottom of its container, with a flat top.
 - e.g. Water from the thin bottle filled the tumbler back to the bindi line.
 - e.g. Rasam poured from a pot takes the shape of each bowl.
 - e.g. Coconut water takes the shape of the inside of the coconut.
 ### Gases spread out to fill every corner · *defined*
 **Definition:** A gas spreads out to fill all the space it can get to. It has no shape of its own, and it does not settle at the bottom.
 
-In the three bags, the water lay at the bottom of its bag. The air filled the whole bag, right up to the top corners. When you squeezed one end, the air pushed into the other end. Most gases cannot be seen, so we notice them by what they do. Cooking gas in a cylinder is squeezed so hard that most of it is a liquid. It turns into a gas as it comes out.
+In the Three Bags activity, the water lay at the bottom of its bag. The air filled the whole bag, right up to the top corners. When you squeezed one end, the air pushed into the other end. Most gases cannot be seen, so we notice them by what they do. Cooking gas is kept in a metal cylinder. It is squeezed so hard there that most of it is a liquid. When it comes out of the pipe, it turns back into a gas.
 - e.g. Air fills a balloon to its round shape.
 - e.g. Air filled the tied bag up to every corner.
 - e.g. Bubbles in a glass of soda are a gas.
@@ -62,29 +62,29 @@ In a solid, the particles hold on tight and stay in their places. That is why a 
 - e.g. Steam: the same particles flying apart.
 
 ## Mostly agreed
-- A solid keeps its own shape, a liquid takes the shape of its container, and a gas spreads out to fill its container. *How we know:* In the three bags, the stone stayed a stone shape, the water lay at the bottom, and the air filled the whole bag.
-- Pouring a liquid into a new shape does not change how much of it there is. *How we know:* In our test, the water from the thin bottle and the wide bowl filled the tumbler back to the same bindi line.
+- A solid keeps its own shape, a liquid takes the shape of its container, and a gas spreads out to fill its container. *How we know:* In the Three Bags activity, the stone stayed a stone shape, the water lay at the bottom of its bag, and the air filled the whole bag.
+- Pouring a liquid into a new shape does not change how much of it there is. *How we know:* In the experiment One Tumbler, Three Shapes, the water from the thin bottle and the wide bowl filled the tumbler back to the same bindi line.
 - Ice, liquid water and steam are the same substance in three states. *How we know:* An ice cube on a plate melts into water. Water boiled in a pan disappears as steam, and that steam turns back into drops of water on a cold lid.
 
 ## How we found out
-**Galileo Galilei, an Italian scientist, and the followers of Aristotle who argued with him, 1611 (the argument) and 1612 (his book).** In 1611, in Florence, Italy, some learned men had an argument with the scientist Galileo Galilei. They asked a simple question: why does ice float? The men followed the old teachings of Aristotle, a thinker from ancient Greece. They said ice is water that the cold has squeezed and made thicker and heavier. It floats only because it is flat and wide, they said, like a thin chip of wood. Galileo did not agree. He said ice floats whatever its shape. If you push a lump of ice to the bottom of a bowl and let go, it rises back up. So ice must be lighter than the same amount of water. In 1612, he wrote a book about things that float in water. Today we know Galileo was right. When water freezes, it spreads out and takes up about one-tenth more space. That is why a full bottle of water can split in the freezer. You can check Galileo's test with an ice cube and a tumbler.  
+**Galileo Galilei, an Italian scientist, and the followers of Aristotle who argued with him, 1611 (the argument) and 1612 (his book).** In 1611, in Florence, Italy, some learned men had an argument with the scientist Galileo Galilei. They asked a simple question: why does ice float? The men followed the old teachings of Aristotle, a thinker from ancient Greece. They said ice is water that the cold has squeezed and made thicker and heavier. It floats only because it is flat and wide, they said, like a thin chip of wood. Galileo did not agree. He said ice floats whatever its shape. If you push a lump of ice to the bottom of a bowl and let go, it rises back up. So ice must weigh less than the water that would fill the same space. In 1612, he wrote a book about things that float in water. Today we know Galileo was right. When water freezes, it spreads out and takes up about one-tenth more space. That is why a full bottle of water can split in the freezer. You can check Galileo's test with an ice cube and a tumbler.  
 *What people believed before:* That ice is water made thicker and heavier by cold, and floats only because of its flat shape. Galileo showed that ice floats in any shape, and rises when pushed down, so it is lighter than water.
 
 ## Challenging perspectives
 - **Water in a tall, thin glass is more than the same water in a wide bowl, because it stands higher.** (A common guess by young children. Alina Szeminska and Jean Piaget studied it in Switzerland and wrote about it in 1941.; *rejected*)  
   For: The water really does stand higher in the thin glass, and we often judge amounts by height.  
-  Against: The thin glass is narrow, so the same water must stand higher in it. Pour it back into the first tumbler, and it reaches the same line.
+  Against: The thin glass is narrow, so the same water must stand higher in it. Pour the water back into the tumbler it came from, and it reaches the same line as before.
 - **The white cloud above a kettle or a cooker is steam.** (What most people say; *rejected*)  
   For: The cloud comes from the boiling water, and everyone calls it steam.  
   Against: Real steam is a gas, and it is invisible. Look closely, and there is a clear gap just above the spout. The white cloud is tiny drops of liquid water, made as the steam cools in the air.
 - **Ice is heavier than water, because it is hard.** (A common idea; *rejected*)  
   For: Ice feels hard and solid, and many hard things, like stones, sink.  
-  Against: Ice floats in a tumbler of water. When water freezes, it spreads out and takes up a little more space, about one-tenth more. So a cube of ice is lighter than the same size of water.
+  Against: Ice floats in a tumbler of water. When water freezes, it takes up a little more space, about one-tenth more. So an ice cube weighs a little less than the water that would fill the same space.
 
 ## Roots
 We have poured water into new shapes, squeezed bags of a stone, water and air, and looked for steam. Now we ask what that tells us about water, and about ourselves.
 
-**Deep truth.** In your test, the water looked like more in the thin bottle and less in the wide bowl. Poured back, it reached the same bindi line each time. Water has no shape of its own, so it takes the shape of whatever holds it. How much water there is stays the same.  
+**Deep truth.** In the pouring test, the water looked like more in the thin bottle and less in the wide bowl. Poured back into the tumbler, it reached the same bindi line each time. Water has no shape of its own, so it takes the shape of whatever holds it. How much water there is stays the same.  
 *Habit it breaks:* We judge how much there is by how big or tall it looks. The pouring test showed that the height of the water came from the container, while the amount never changed.  
 *Evidence:* In the pouring test, the water stood tall in the thin bottle and low in the wide bowl. Each time, poured back into the tumbler, it came to the bindi line.
 
@@ -94,18 +94,18 @@ We have poured water into new shapes, squeezed bags of a stone, water and air, a
 
 Ice, liquid water and steam look completely different. Yet they are the same water, and nothing is added or taken away when one turns into another. Water particles only hold on to each other more tightly or more loosely. Everything is conscious, down to these tiny water particles.
 
-- **Chandogya Upanishad 6.1.4:** Uddalaka tells his son Shvetaketu: when you know one lump of clay, you know everything made of clay. The things made from it have different names and shapes. What they really are is clay. (In our test, the water in the thin bottle and in the wide bowl had different shapes. What it really was, and how much of it there was, stayed the same.)
+- **Chandogya Upanishad 6.1.4:** Uddalaka tells his son Shvetaketu: when you know one lump of clay, you know everything made of clay. The things made from it have different names and shapes. What they really are is clay. (In the pouring test, the water in the thin bottle and in the wide bowl had different shapes. What it really was, and how much of it there was, stayed the same.)
 - **Tao Te Ching 8:** The highest good is like water. Water helps all things and does not fight them. It flows to the low places. (In the three bags, the water always ran to the lowest part of its bag and fitted that shape. The Tao Te Ching, from China, praises water for fitting itself to whatever is around it.)
 - Science (settled): On Earth, water is found naturally as a solid, a liquid and a gas: as ice and snow, as rivers and seas, and as invisible water vapour in the air.
 - Science (open): Scientists still argue about exactly how the particles of liquid water are arranged, because they join and let go of each other very fast.
-- Other view, Many physicists: They say a drop of water has no awareness at all. They explain everything water does with particles and forces, and they find no need for a mind to explain it.
+- Other view, Many physicists: Many scientists who study matter say a drop of water has no awareness at all. They explain everything water does with particles and forces, and they find no need for a mind to explain it.
 - Practice, Water in your hands (3 min): Stand at the sink or over a bucket. Cup your two hands together, and I will pour in a little water. Feel the water fill your hands. It takes the shape of your hands. Now open your fingers a little. Feel the water slip out between them. Take three slow breaths while it drains away. Notice how your hands feel now.
 - Ask: When the water was in your hands, was its shape the water's or your hands'?
 - Ask: Ice, water and steam look so different. What makes them the same water?
-- Ask: Your body is more than half water. Does that water take your shape, or do you take its shape?
+- Ask: Your body is more than half water. What keeps that water inside you, so that you do not spread out like a puddle?
 
 ## Deep and big questions
-- *deep:* The water looked like more in the thin bottle. Why do our eyes get fooled? (hint: What do your eyes look at first: how high the water is, or how wide the container is?)
+- *deep:* In the pouring test, the water looked like more in the thin bottle. Why do our eyes get fooled? (hint: What do your eyes look at first: how high the water is, or how wide the container is?)
 - *deep:* When ice melts, where does its shape go? (hint: Was the shape part of the water, or part of the ice tray it froze in?)
 - *deep:* Is set curd a solid or a liquid? (hint: You can cut it with a spoon. But stir it hard, and it flows.)
 - *big:* Your body is more than half water. Why are you not a puddle? (hint: What holds the water in your body, the way a bottle holds water?)
@@ -164,7 +164,7 @@ After about twenty minutes, there was no cube at all. There was only cold water 
 
 Arjun picked up the davara and poured the water into his thin bottle. It went in easily, every drop.
 
-"The same ice went in!" he said. "Once it was water."
+"The same ice went in," he said, "once it had turned into water!"
 
 "When ice melts, it becomes a liquid," said Kavya. "Then it can take any shape."
 
@@ -184,7 +184,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 
 - Ask: Why did Arjun think Kavya had more neer mor?
 - Ask: How did Kavya show that they both had the same amount?
-- Ask: Why would the ice cube not go into the bottle, when the water from it did?
+- Ask: Why would the ice cube not go into the bottle, when the water from the melted cube did?
 
 ## Games
 ### g1 · Solid, Liquid or Gas? A sorting card game (15 min)
@@ -197,7 +197,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   *Child mode:* Draw the three columns. Read the labels. Cut out the cards.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns turning over a card. 2. The player puts it in a column and says why. 3. Read the back and score.  
-  *Parent says:* Honey. It flows very slowly. Is it a solid or a liquid? Why?  
+  *Parent says:* Honey flows very slowly. Is it a solid or a liquid? Why?  
   *Child mode:* Turn over a card. Does it keep its shape? Does it flow? Does it spread out? Pick a column.
   - Ask: Why did you put honey with the liquids? (good: It flows, even if slowly.; It takes the shape of the jar.)
   - Note: Honey and the kettle gap surprise most children. Honey is a liquid, because it flows and takes the shape of its jar. The clear gap above a kettle is real steam.
@@ -222,7 +222,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   *Parent does:* 1. At the end, ask the question below.  
   *Parent says:* When you were ice, could you fit into a thin line? When you were water, could you?  
   *Child mode:* As ice, could you squeeze into a line? As water?
-  - Ask: Why could water fit into the thin bottle line, but ice could not? (good: Water slides and changes shape.; Ice holds tight and keeps its shape.)
+  - Ask: Why could you squeeze into a thin line when you were water, but not when you were ice? (good: Water slides and changes shape.; Ice holds tight and keeps its shape.)
 
 ## Experiments
 ### e1 · One Tumbler, Three Shapes: does the amount of water change? (25 min)
@@ -239,12 +239,12 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   - Note: Don't say if a guess is right. Many children of this age say the thin bottle will have more, because the water will stand taller. Any guess with a reason is good. Write the guesses down.
 - **s2 (5 min)**  
   *Parent does:* 1. Put the funnel in the mouth of the thin bottle. 2. Your child pours all the water from the tumbler into it, slowly. 3. Hold the bottle next to the empty tumbler. 4. Ask the questions below.  
-  *Parent says:* Pour slowly, so we don't lose any. Now look. How high is the water in the bottle? Does it look like more, or less, than before?  
+  *Parent says:* Pour slowly, so we don't lose any water. Now look. How high is the water in the bottle? Does it look like more, or less, than before?  
   *Child mode:* Pour the water into the bottle, slowly. Look at it. Does it look like more?
   - Ask: How does the water look in the thin bottle? (good: It goes up much higher.; It looks like more water.)
   - Note: In a thin bottle the water stands much higher than it did in the tumbler. Let your child say what they see. Don't explain yet.
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child pours the water from the bottle back into the tumbler. 2. They put their eye level with the bindi. 3. Write the result in the table.  
+  *Parent does:* 1. Your child pours the water from the bottle back into the tumbler. 2. They bend down so their eye is level with the bindi. 3. Write the result in the table.  
   *Parent says:* Now pour it back into the tumbler. Bend down so your eye is level with the bindi. Is the water above the bindi, below it, or right at it?  
   *Child mode:* Pour it back into the tumbler. Bend down. Look at the bindi. Is the water at the bindi?
   - Ask: Where is the water now? (good: Right at the bindi.; A tiny bit below, because some drops stayed in the bottle.)
@@ -252,21 +252,21 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   - Check: The water went into the thin bottle and came back to the bindi. What does that show? → **It was the same amount of water all along**
 - **s4 (5 min)**  
   *Parent does:* 1. Your child pours the water from the tumbler into the wide bowl. 2. Ask how it looks. 3. Then they pour it back into the tumbler, over the tray. 4. Check the bindi again and write it down.  
-  *Parent says:* Now the wide bowl. Pour it in. Does it look like more or less? Now pour it back. Where is the water now?  
-  *Child mode:* Pour the water into the bowl. More or less? Now pour it back. Is it at the bindi?
-  - Ask: What happened this time? (good: In the bowl it looked like only a little.; Back in the tumbler, it came to the bindi again.)
+  *Parent says:* Now pour the water into the wide bowl. Does it look like more or less? Now pour it back into the tumbler. Where is the water now?  
+  *Child mode:* Pour the water into the bowl. Does it look like more or less? Now pour it back. Is it at the bindi?
+  - Ask: What happened with the wide bowl? (good: In the bowl it looked like only a little.; Back in the tumbler, it came to the bindi again.)
   - Note: Pouring from a wide bowl can spill. Tip it slowly over the tray, or use the funnel. If a little spills, count it as a drip, not as water that vanished.
 - **s5 (6 min)**  
-  *Parent does:* 1. Give your child an ice cube and a steel spoon. 2. They put each one in the tumbler, then the bowl, then try the bottle mouth. 3. Ask the questions below. 4. Listen to their answer before you explain.  
+  *Parent does:* 1. Give your child an ice cube and a steel spoon. 2. They put each one in the tumbler, then in the bowl, then try to push it into the mouth of the bottle. 3. Ask the questions below. 4. Listen to their answer before you explain.  
   *Parent says:* The water changed its shape for every container. Now try an ice cube and a spoon. Do they change shape? Why could the water get into the bottle when the ice cube cannot?  
-  *Child mode:* Put the ice cube in each one. Try the spoon too. Do they change shape? Why can water get in, but not the ice?
+  *Child mode:* Put the ice cube in the tumbler, then in the bowl. Try to push it into the bottle. Try the spoon too. Do they change shape? Why can water get into the bottle, but not the ice?
   - Ask: Why did the water fit in the thin bottle but the ice cube did not? (good: Water changes its shape to fit.; The ice cube keeps its own shape, and it is too big.)
   - Note: After your child answers, say it plainly. Water is a liquid. It has no shape of its own, so it takes the shape of whatever holds it, and the amount stays the same. The ice cube and the spoon are solids. They keep their own shape. If your ice cube is small enough to slip into the bottle, look closely: it is still a cube inside.
   - Think: If the ice cube melts, will its water fit in the bottle?
 ### e2 · The Ice Glove: what shape will frozen water be? (25 min, 2 days)
 - **question:** If we freeze water in a glove, what shape will the ice be? And what happens to that shape as the ice melts?
 - **predict:** What shape will the ice be when we peel off the glove? When it melts on the plate, what shape will the water be? Why do you think so?
-- **fair test:** We use one glove and one ordinary ice cube from a tray, side by side on the same plate in the same room. We look at both every 10 minutes, so we compare them the same way.
+- **fair test:** We put the ice from the glove and one ordinary ice cube from a tray side by side on the same plate, in the same room. We look at both every 10 minutes, so we compare them the same way.
 - **safety:** A grown-up cuts the glove off the ice with scissors. Hold frozen ice with a cloth, because very cold ice can stick to wet fingers.
 - **record:** Draw the ice hand when you first take it out, after 10 minutes and after 20 minutes. Draw the water on the plate at the end.
 - **results table:** Time | What the ice hand looks like | What the ice cube looks like | What the water on the plate looks like
@@ -276,7 +276,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   *Parent says:* The water is a liquid, so it fills the shape of the glove. What shape will it be after a night in the freezer? Why do you think so?  
   *Child mode:* Fill the glove with water. Close it tight. Put it in the freezer. Guess what shape it will be.
   - Ask: What shape will the ice be? (good: A hand, because the water filled the glove.; A lump, because ice is a cube.)
-  - Note: Lay it flat with the fingers spread, so they freeze apart. A home freezer freezes it overnight. A small single-door fridge freezer may need a whole day.
+  - Note: Lay the glove flat with the fingers spread, so they freeze apart. A home freezer freezes it overnight. A small single-door fridge freezer may need a whole day.
   - Wait: Leave it in the freezer overnight.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Take the glove out of the freezer. 2. Cut the glove open with scissors and peel it off. 3. Put the ice hand on the big plate. 4. Put an ordinary ice cube next to it.  
@@ -304,13 +304,13 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - **s1 (3 min)**  
   *Parent does:* 1. Put the stone in the first bag and close it. 2. Pour the water into the second bag over the tray, and close it tightly. 3. Your child blows air into the third bag and you tie it quickly.  
   *Parent says:* One bag has a stone, one has water, and one has air. Now guess. When we turn them upside down, what will each one do? Why do you think so?  
-  *Child mode:* Put a stone in one bag. Water in one bag. Blow air into one bag. Guess what each will do.
+  *Child mode:* Put a stone in one bag. Pour water into another bag. Blow air into the third bag. Guess what each will do.
   - Note: Use thick bags if you have them. Hold the water bag closed at the top and tie it well. Do it over a tray in case it leaks.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child turns each bag upside down, slowly. 2. Then they squeeze one end of each bag gently. 3. Ask the questions below.  
   *Parent says:* Turn each bag upside down. Where did the stone go? The water? The air? Now squeeze one end gently. What happens?  
-  *Child mode:* Turn each bag over. Where did each one go? Squeeze one end gently. What happens?
-  - Ask: What did each one do? (good: The stone stayed a stone and fell to the bottom.; The water ran to the new bottom of the bag.; The air stayed everywhere in the bag.)
+  *Child mode:* Turn each bag over. Where did the stone, the water and the air go? Squeeze one end gently. What happens?
+  - Ask: What did the stone, the water and the air do? (good: The stone stayed a stone and fell to the bottom.; The water ran to the new bottom of the bag.; The air stayed everywhere in the bag.)
   - Note: The stone keeps its shape and drops to the lowest point. The water flows to the lowest part and takes the shape of that end of the bag, with a flat top. The air fills the whole bag all the time. Squeeze one end, and the air pushes into the other end.
 - **s3 (3 min)**  
   *Parent does:* 1. Lay the three bags side by side. 2. Ask the question below. 3. Then say the three words: solid, liquid, gas.  
@@ -320,6 +320,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   - Note: A solid keeps its own shape. A liquid takes the shape of the bottom of its container. A gas spreads out to fill all of it.
   - Check: Which bag stayed puffed full, even upside down? → **The air bag**
 ### a2 · Where Is the Steam? Look closely at a boiling kettle (8 min)
+- **problem:** When water boils, it turns into steam, which is water as a gas. Most people say steam is white. In this activity you look closely at a boiling kettle to find out where the steam really is.
 - **safety:** Steam burns badly, even though you cannot see it. A grown-up works the stove. The child stands at least one big step away and never puts a hand, a spoon or a face near the spout.
 - **record:** Draw the kettle. Colour the white cloud. Leave the clear gap just above the spout empty, and label it 'steam'.
 - **s1 (3 min) · grown-up needed**  
@@ -331,7 +332,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   *Parent does:* 1. When the kettle is steaming, point to the spout. 2. Ask your child to look at the tiny space just above it, before the white cloud starts.  
   *Parent says:* Look just above the spout, before the white cloud begins. What do you see there?  
   *Child mode:* Look just above the spout. Is there a clear gap before the cloud?
-  - Ask: What is in the gap? (good: Nothing I can see.; It is clear, like air.)
+  - Ask: What do you see in the clear gap just above the spout? (good: Nothing I can see.; It is clear, like air.)
   - Note: There is a small clear gap, usually about one or two finger-widths, between the spout and the white cloud. Real steam is in that gap. It is a gas, and it is invisible.
 - **s3 (2 min)**  
   *Parent does:* 1. Turn off the stove. 2. Ask the question below. 3. Listen, then explain.  
@@ -362,7 +363,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - **problem:** Put 5 spoons of water in a katori in the kitchen. Get as much of it as you can into an empty katori on the other side of the room. You cannot carry it in a cup, a bowl, a bottle or a spoon.
 - **your turn:** Think of your own way. Test it. Then count how many spoons of water reached the far katori. Can you make your way better?
 - **constraints:** Use only things from home.; No cups, bowls, bottles, spoons or other containers to carry the water.; You may take one hour if you need to.
-- **general:** Soak the water up in a sponge or a cloth, carry it, and squeeze it out.; Try two different cloths, wet each with the same amount of water, and see which one carries more.
+- **general:** Soak the water up in a sponge or a cloth, carry it, and squeeze it out.; Try two different cloths. Wet each one with the same amount of water, and see which one carries more.
 - **creative:** Freeze the water in an ice tray, carry the ice cubes in your hand, and let them melt in the far katori. A solid can be carried without a container.; Roll a polythene sheet into a long slope, so the water flows down it into the far katori.
 - **s1 (4 min)**  
   *Parent does:* 1. Measure 5 spoons of water into the first katori. 2. Read the rules together. 3. Ask the questions below.  
@@ -386,7 +387,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    **Answer:** Solid → keeps its own shape; Liquid → flows and takes the shape of its container; Gas → spreads out to fill all the space; Steam → water as a gas. *Why:* These are the main words in this unit. Each state does something different with its shape.
 2. (mcq) In the pouring test, the water went into the thin bottle and then back into the tumbler. Where did it come to?  
    Options: Far above the bindi / Right at the bindi, or a hair below / Far below the bindi  
-   **Answer:** Right at the bindi, or a hair below. *Why:* It was the same water all along, so it came back to the same line. A few drops may stay in the bottle. Picking 'far above' may mean thinking the bottle made more water.
+   **Answer:** Right at the bindi, or a hair below. *Why:* It was the same water all along, so it came back to the same line. A few drops may stay in the bottle. If you picked 'far above', you may be thinking that the bottle made more water.
 3. (sort) Sort these into solid, liquid and gas.  
    **Answer:** a steel spoon → Solid; milk → Liquid; the air in a football → Gas; an ice cube → Solid; rasam → Liquid; the bubbles in soda → Gas. *Why:* The spoon and ice keep their own shape. Milk and rasam flow and take the shape of their bowl. Air and soda bubbles are gases.
 4. (draw) Draw the same water in the tumbler, in the thin bottle and in the wide bowl. Show how high it stood in each one.  
@@ -395,18 +396,18 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    **Answer:** False. *Why:* False. The bottle is thin, so the same water has to stand taller. Poured back, it reaches the same line.
 6. (write) Say out loud, and a grown-up writes it down: why would the ice cube not go into the thin bottle, when the water did?  
    **Answer:** The ice cube is a solid and keeps its own shape, so it was too big. Water is a liquid. It changes its shape to fit.. *Why:* A strong answer says the ice keeps its shape and the water changes its shape.
-7. (count) Asha fills a tumbler to the bindi line 3 times and pours all of it into a big bucket. Then she pours the bucket back into the tumbler. How many times can she fill the tumbler to the line?  
+7. (count) You fill a tumbler to the bindi line 3 times and pour all of it into a big bucket. Then you pour the water from the bucket back into the tumbler. How many times can you fill the tumbler to the line?  
    **Answer:** 3. *Why:* Pouring water into a new container does not change how much there is. 3 tumblers went in, so 3 tumblers come out.
 8. (label) Label each picture: solid, liquid or gas.  
    **Answer:** ['ice cubes: solid', 'water: liquid', 'the clear gap: gas (steam)']. *Why:* These are the same water in three states. The clear gap is real steam, a gas you cannot see.
-9. (perspective) Meena and Divya are taking water on a long, hot train ride from Chennai to Madurai.  
+9. (perspective) The first child and the second child are taking water on a long, hot train ride from Chennai to Madurai.  
    **Answer:** A strong answer picks one with a reason, such as 'ice stays cold for longer'. It also says what the other plan gets right, such as 'you can drink liquid water at once'.. *Why:* Both plans have a good point. Frozen water stays cold for longer but must melt before you drink it. Liquid water is ready at once but warms up. Leave space at the top if you freeze a bottle, because water takes up a little more space as ice.
 10. (odd) Three of these keep their own shape. Which one does not?  
    Options: An ice cube / A steel tumbler / Buttermilk / A wooden spoon  
    **Answer:** 2. *Why:* Buttermilk is a liquid. It takes the shape of whatever holds it. The other three are solids.
-11. (mcq) Gauri, a girl in Patna, blows up a balloon. Where does the air go?  
+11. (mcq) When you blow up a balloon, where does the air go?  
    Options: Only to the bottom of the balloon / It fills the whole balloon / It stays near the mouth  
-   **Answer:** It fills the whole balloon. *Why:* Air is a gas, and a gas spreads out to fill all the space it has. Picking 'only to the bottom' mixes up a gas with a liquid.
+   **Answer:** It fills the whole balloon. *Why:* Air is a gas, and a gas spreads out to fill all the space it has. If you picked 'only to the bottom', you mixed up a gas with a liquid.
 12. (write) Say out loud, and a grown-up writes it down: name one solid, one liquid and one gas in your kitchen.  
    **Answer:** For example: a steel plate (solid), coconut oil on a warm day (liquid) and the steam from the idli pot (gas).. *Why:* A strong answer gives one of each and can say why: it keeps its shape, it flows, or it spreads out.
 ### Ice, Water and Steam (stretch) (stretch, 12 questions)
@@ -415,10 +416,10 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    **Answer:** A hand, with fingers. *Why:* The water froze in the shape of the glove. Ice is a solid, so it kept that shape after the glove was gone.
 2. (write) Say out loud, and a grown-up writes it down: the white cloud above a kettle is not real steam. What is it? Where is the real steam?  
    **Answer:** The white cloud is tiny drops of liquid water. The real steam is in the clear gap just above the spout, and it is invisible.. *Why:* A strong answer says real steam is a gas you cannot see, and that it cools into tiny water drops a little higher up.
-3. (perspective) Fathima and Nandini are eating set curd from a katori.  
+3. (perspective) The first child and the second child are eating set curd from a katori.  
    **Answer:** A strong answer picks a side with a reason, and sees that both are partly right. Set curd holds a cut shape, but once it is stirred it flows.. *Why:* Set curd is in between. Scientists call it a gel: a soft solid with a lot of liquid held inside. Stirring breaks it up, and then it flows like a thick liquid.
 4. (order) Put these in order, from coldest to hottest.  
-   **Answer:** ['ice from the freezer', 'cold water from the fridge', 'warm bath water', 'boiling water', 'steam']. *Why:* Ice is the coldest. As water warms up it melts, then gets warmer, then boils and turns into steam.
+   **Answer:** ['ice from the freezer', 'cold water from the fridge', 'warm bath water', 'boiling water', 'steam']. *Why:* Ice is the coldest. As ice warms up it melts into water. The water then gets warmer, and when it is very hot it boils and turns into steam.
 5. (fill) When ice gets warm and turns into water, we say it ____.  
    **Answer:** ['melts']. *Why:* Melting is a solid changing into a liquid.
 6. (fill) When water gets very cold and turns into ice, we say it ____.  
@@ -431,11 +432,11 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    **Answer:** a glacier in the Himalayas → solid water (ice); the Kaveri river → liquid water; a pressure cooker whistle → water as a gas (steam); fog over the hills of Shillong → tiny drops of liquid water. *Why:* Water is in all three states around India. Fog, like the kettle cloud, is tiny drops of liquid water floating in the air.
 10. (label) Label the picture of a boiling kettle.  
    **Answer:** ['water inside: liquid', 'clear gap: steam, a gas you cannot see', 'white cloud: tiny drops of liquid water']. *Why:* Real steam is invisible. It cools into tiny drops, and those drops make the white cloud.
-11. (mcq) Sumitra wants to make kulfi in the shape of a fish. What should she do?  
+11. (mcq) You want to make kulfi in the shape of a fish. What should you do?  
    Options: Pour the kulfi milk into a fish-shaped mould, then put the mould in the freezer / Freeze the milk in a bowl, then pour it into a fish mould / Pour frozen kulfi into a fish mould  
    **Answer:** Pour the kulfi milk into a fish-shaped mould, then put the mould in the freezer. *Why:* Liquid milk takes the shape of the mould. When it freezes into a solid, it keeps that fish shape. Frozen kulfi is a solid, so it cannot be poured.
-12. (count) Kalpana's ice tray has 2 rows, with 6 little boxes in each row. How many ice cubes does she get?  
-   **Answer:** 12. *Why:* 2 rows of 6 make 12. Each cube takes the shape of its little box, because the water was a liquid when she poured it in.
+12. (count) An ice tray has 2 rows, with 6 little boxes in each row. How many ice cubes does it make?  
+   **Answer:** 12. *Why:* 2 rows of 6 make 12. Each cube takes the shape of its little box, because the water was a liquid when it was poured in.
 
 ## Videos
 - **3 States of Matter for Kids: solid, liquid, gas** (Free School, 5 min) id `wclY8F-UoTE`: Shows solids keeping their shape, liquids pouring into new shapes and gases spreading out. *Check:* Found by search: "3 States of Matter for Kids (Solid, Liquid, Gas): Science for Children - FreeSchool" by Free School, 4 min 35 s. A parent may preview it.
@@ -445,17 +446,17 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 ## Quiz
 1. (mcq) What does a solid do?  
    Options: It keeps its own shape / It flows and takes the shape of its cup / It spreads out to fill the room  
-   **Answer:** It keeps its own shape. *Why:* A solid, like a stone or an ice cube, keeps its own shape. Picking 'flows' mixes it up with a liquid.
+   **Answer:** It keeps its own shape. *Why:* A solid, like a stone or an ice cube, keeps its own shape. If you picked 'flows', you mixed up a solid with a liquid.
 2. (mcq) Which of these is a liquid?  
    Options: A steel plate / Coconut oil on a hot day / The air in a tyre  
    **Answer:** Coconut oil on a hot day. *Why:* On a hot day coconut oil flows and takes the shape of its bottle, so it is a liquid. A steel plate is a solid. Air is a gas.
-3. (mcq) Leela, a girl in Kochi, pours a tumbler of water into a wide plate with a rim. It looks very low. How much water is on the plate?  
+3. (mcq) You pour a tumbler of water into a wide plate with a rim. The water looks very low. How much water is on the plate?  
    Options: Less than was in the tumbler / The same as was in the tumbler / More than was in the tumbler  
-   **Answer:** The same as was in the tumbler. *Why:* Water takes the shape of the plate, so it spreads out low. The amount stays the same. Picking 'less' means judging the amount by the height.
-4. (mcq) Why did the water stand taller in the thin bottle?  
+   **Answer:** The same as was in the tumbler. *Why:* Water takes the shape of the plate, so it spreads out low. The amount stays the same. If you picked 'less', you judged the amount by its height.
+4. (mcq) In the pouring test, why did the water stand taller in the thin bottle?  
    Options: The bottle made more water / The bottle is narrow, so the same water has to stand higher / The water got heavier  
    **Answer:** The bottle is narrow, so the same water has to stand higher. *Why:* A narrow container has less room across, so the same amount of water stands taller.
-5. (mcq) In the three bags, which one filled the whole bag, even upside down?  
+5. (mcq) In the Three Bags activity, one bag held a stone, one held water and one held air. Which one filled its whole bag, even upside down?  
    Options: The stone / The water / The air  
    **Answer:** The air. *Why:* Air is a gas, so it spreads out to fill all the space. The stone and the water went to the bottom.
 6. (mcq) What is ice?  
@@ -463,11 +464,11 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    **Answer:** Water as a solid. *Why:* Ice is frozen water. Let it melt and it becomes liquid water again. Nothing is added or taken away.
 7. (mcq) What is real steam like?  
    Options: White and cloudy / Invisible, like air / Hard, like ice  
-   **Answer:** Invisible, like air. *Why:* Real steam is water as a gas, and it is invisible. The white cloud is tiny drops of liquid water. Picking 'white' is what most people think.
-8. (mcq) Mohan, a boy in Pune, leaves an ice cube on a plate in a warm room. What happens to it?  
+   **Answer:** Invisible, like air. *Why:* Real steam is water as a gas, and it is invisible. The white cloud is tiny drops of liquid water. Most people pick 'white', because they think the cloud is the steam.
+8. (mcq) You leave an ice cube on a plate in a warm room. What happens to it?  
    Options: It melts into a flat pool of water / It stays a cube for ever / It turns into steam straight away  
    **Answer:** It melts into a flat pool of water. *Why:* Warmth melts ice into water. The water has no shape of its own, so it spreads flat on the plate.
-9. (mcq) Why could the ice hand keep its shape after the glove was cut off?  
+9. (mcq) In the Ice Glove experiment, water was frozen inside a glove. Why did the ice keep its hand shape after the glove was cut off?  
    Options: Ice is a solid, so it keeps its own shape / The glove was still inside it / The water was still a liquid  
    **Answer:** Ice is a solid, so it keeps its own shape. *Why:* The water froze in the glove's shape. As a solid, it keeps that shape until it melts.
 10. (mcq) Before the pouring test, what should you do first?  
@@ -479,7 +480,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - Pipes, taps and drains carry water, because a liquid flows.
 - Balloons, footballs and cycle tyres are filled with air, because a gas spreads out to fill them.
 - Idli pots and pressure cookers cook food with steam, which is water as a gas.
-- Cooking gas is squeezed into a cylinder as a liquid, so a lot fits in, and it comes out as a gas.
+- Cooking gas is squeezed into a cylinder until it turns into a liquid, so a lot fits in. When it comes out of the pipe, it turns back into a gas.
 
 ## Spotted around us
 - Kulfi set in cone-shaped moulds at a kulfi cart in Mumbai or Lucknow. The milk took the shape of the mould, then froze.
@@ -489,7 +490,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - Morning fog over the hills of Shillong in Meghalaya. It is tiny drops of liquid water floating in the air.
 
 ## Open questions
-- **How many states of matter are there?** Solid, liquid and gas are the three we see most. Lightning and the Sun are made of plasma, a fourth state. Very cold states were predicted from the work of Satyendra Nath Bose of Kolkata, and first made in 1995. Scientists keep finding new ones, so nobody can say how many there are.
+- **How many states of matter are there?** Solid, liquid and gas are the three we see most. Lightning and the Sun are made of plasma, a fourth state. Some very cold states were predicted from the work of Satyendra Nath Bose of Kolkata, and scientists first made one in 1995. Scientists keep finding new ones, so nobody can say how many there are.
 - **What does liquid water look like on the inside?** In ice, the water particles are lined up neatly. In liquid water, they keep joining and letting go very fast. Scientists still argue about exactly how they are arranged.
 
 ## Questions to ask kids
@@ -510,10 +511,10 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - What did the milk say when it was poured into a tall glass? *I'm not more, I'm just taller!*
 
 ## Connected maths
-- In the pouring test, Revathi filled her tumbler to the bindi with 8 spoons of water. She poured it into a thin bottle, then back. Then into a wide bowl, then back. How many spoons of water were in the tumbler at the end? What if 1 spoon stayed stuck to the walls each time? **8 spoons if none were lost. If 1 spoon stayed behind each time, 6 spoons were left.**. Pouring does not change the amount, so it stays 8. If 1 spoon is left on the walls twice, 8 take away 2 is 6. That is why we pour slowly and count the drips. (queues `math.addition-subtraction.meaning.L2`)
-- Draw three columns: solid, liquid and gas. In the Home Hunt, Zoya found 5 solids, 4 liquids and 2 gases. Draw a block for each one. Which column is tallest? Which is shortest, and why do you think gases were the hardest to find? **Solids are tallest with 5 blocks. Gases are shortest with 2 blocks. Gases are hard to find because most of them are invisible.**. 5 is more than 4, and 4 is more than 2. The short gas column tells us something about gases: we cannot see most of them, so we miss them. (queues `math.data.sorting-and-tallies.L2`)
-- One ice tray has 2 rows of 7 little boxes. Ammu fills 2 trays. How many ice cubes does she get? If each cube is 2 spoons of water, how many spoons of water did she pour? **28 ice cubes, and 56 spoons of water.**. 2 rows of 7 make 14 cubes in one tray, and 2 trays make 28. Each cube is 2 spoons, so 28 cubes are 28 + 28 = 56 spoons. When they melt, they make 56 spoons of water again. (queues `math.multiplication.equal-groups.L2`)
-- Megha has a tall, thin glass and a short, wide tumbler. She fills the thin glass with water and pours it into the wide tumbler. The wide tumbler is not full. Which holds more: the thin glass or the wide tumbler? How do you know? **The wide tumbler holds more.**. All the water from the full thin glass fitted into the wide tumbler, with room left over. So the wide tumbler can hold more, even though it is shorter. (queues `math.weight-capacity.capacity.L1`)
+- In the pouring test, you fill the tumbler to the bindi with 8 spoons of water. You pour it into a thin bottle, then back into the tumbler. Then you pour it into a wide bowl, then back. How many spoons of water are in the tumbler at the end? What if 1 spoon of water stayed stuck to the walls of the bottle, and 1 more to the walls of the bowl? **8 spoons if none were lost. If 1 spoon stayed behind each time, 6 spoons were left.**. Pouring does not change the amount, so it stays 8. If 1 spoon is left on the walls of the bottle and 1 on the walls of the bowl, 8 take away 2 is 6. That is why we pour slowly and count the drips. (queues `math.addition-subtraction.meaning.L2`)
+- In the Home Hunt, suppose you found 5 solids, 4 liquids and 2 gases. Draw three columns: solid, liquid and gas. Draw one block for each thing you found. Which column is tallest? Which is shortest? Why do you think gases were the hardest to find? **Solids are tallest with 5 blocks. Gases are shortest with 2 blocks. Gases are hard to find because most of them are invisible.**. 5 is more than 4, and 4 is more than 2. The short gas column tells us something about gases: we cannot see most of them, so we miss them. (queues `math.data.sorting-and-tallies.L2`)
+- One ice tray has 2 rows of 7 little boxes. You fill 2 trays. How many ice cubes do you get? If each cube is 2 spoons of water, how many spoons of water did you pour? **28 ice cubes, and 56 spoons of water.**. 2 rows of 7 make 14 cubes in one tray, and 2 trays make 28. Each cube is 2 spoons, so 28 cubes are 28 + 28 = 56 spoons. When they melt, they make 56 spoons of water again. (queues `math.multiplication.equal-groups.L2`)
+- You have a tall, thin glass and a short, wide tumbler. You fill the thin glass with water and pour it all into the wide tumbler. The wide tumbler is not full. Which holds more: the thin glass or the wide tumbler? How do you know? **The wide tumbler holds more.**. All the water from the full thin glass fitted into the wide tumbler, with room left over. So the wide tumbler can hold more, even though it is shorter. (queues `math.weight-capacity.capacity.L1`)
 
 ## Song
 Same Water, New Shape (sci.states.L2): Topic-level song for Solids, liquids, gases and particles L2
@@ -531,7 +532,7 @@ Same Water, New Shape (sci.states.L2): Topic-level song for Solids, liquids, gas
 - Is air a solid, a liquid or a gas? → A gas.
 - What is ice made of? → Water, frozen into a solid.
 - Can you see real steam? → No. It is invisible. The white cloud is tiny water drops.
-- Did the thin bottle make more water? → No. Poured back, it came to the same line.
+- In the pouring test, did the thin bottle make more water? → No. Poured back into the tumbler, the water came to the same line.
 
 ## Plan
 - Start options: intro, e1, story, a1, g2, cards

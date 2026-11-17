@@ -110,7 +110,7 @@
    "status": "defined",
    "context": "This card explains what a gas does, using the three bags we squeezed.",
    "definition": "A gas spreads out to fill all the space it can get to. It has no shape of its own, and it does not settle at the bottom.",
-   "description": "In the Three Bags activity, the water lay at the bottom of its bag. The air filled the whole bag, right up to the top corners. When you squeezed one end, the air pushed into the other end. Most gases cannot be seen, so we notice them by what they do. Cooking gas in a cylinder is squeezed so hard that most of it is a liquid. It turns into a gas as it comes out.",
+   "description": "In the Three Bags activity, the water lay at the bottom of its bag. The air filled the whole bag, right up to the top corners. When you squeezed one end, the air pushed into the other end. Most gases cannot be seen, so we notice them by what they do. Cooking gas is kept in a metal cylinder. It is squeezed so hard there that most of it is a liquid. When it comes out of the pipe, it turns back into a gas.",
    "examples": [
     "Air fills a balloon to its round shape.",
     "Air filled the tied bag up to every corner.",
@@ -183,7 +183,7 @@
    "claim": "Ice is heavier than water, because it is hard.",
    "who": "A common idea",
    "for": "Ice feels hard and solid, and many hard things, like stones, sink.",
-   "against": "Ice floats in a tumbler of water. When water freezes, it spreads out and takes up a little more space, about one-tenth more. So a cube of ice is lighter than the same size of water.",
+   "against": "Ice floats in a tumbler of water. When water freezes, it takes up a little more space, about one-tenth more. So an ice cube weighs a little less than the water that would fill the same space.",
    "status": "rejected",
    "context": "This card is about whether ice is heavier or lighter than water."
   }
@@ -216,7 +216,7 @@
   }
  ],
  "how_we_found_out": {
-  "story": "In 1611, in Florence, Italy, some learned men had an argument with the scientist Galileo Galilei. They asked a simple question: why does ice float? The men followed the old teachings of Aristotle, a thinker from ancient Greece. They said ice is water that the cold has squeezed and made thicker and heavier. It floats only because it is flat and wide, they said, like a thin chip of wood. Galileo did not agree. He said ice floats whatever its shape. If you push a lump of ice to the bottom of a bowl and let go, it rises back up. So ice must be lighter than the same amount of water. In 1612, he wrote a book about things that float in water. Today we know Galileo was right. When water freezes, it spreads out and takes up about one-tenth more space. That is why a full bottle of water can split in the freezer. You can check Galileo's test with an ice cube and a tumbler.",
+  "story": "In 1611, in Florence, Italy, some learned men had an argument with the scientist Galileo Galilei. They asked a simple question: why does ice float? The men followed the old teachings of Aristotle, a thinker from ancient Greece. They said ice is water that the cold has squeezed and made thicker and heavier. It floats only because it is flat and wide, they said, like a thin chip of wood. Galileo did not agree. He said ice floats whatever its shape. If you push a lump of ice to the bottom of a bowl and let go, it rises back up. So ice must weigh less than the water that would fill the same space. In 1612, he wrote a book about things that float in water. Today we know Galileo was right. When water freezes, it spreads out and takes up about one-tenth more space. That is why a full bottle of water can split in the freezer. You can check Galileo's test with an ice cube and a tumbler.",
   "who": "Galileo Galilei, an Italian scientist, and the followers of Aristotle who argued with him",
   "when": "1611 (the argument) and 1612 (his book)",
   "wrong_idea": "That ice is water made thicker and heavier by cold, and floats only because of its flat shape. Galileo showed that ice floats in any shape, and rises when pushed down, so it is lighter than water.",
@@ -766,6 +766,7 @@
    "mins": 8,
    "days": 1,
    "context": "In this activity a grown-up boils water in a kettle or a pan with a spout. You stand back and look for a clear gap just above the spout.",
+   "problem": "When water boils, it turns into steam, which is water as a gas. Most people say steam is white. In this activity you look closely at a boiling kettle to find out where the steam really is.",
    "materials": [
     {
      "item": "a steel kettle, or a covered pan or pressure cooker that lets out steam (a grown-up uses it)",
@@ -1418,7 +1419,7 @@
        "says": "Take liquid water. We can drink it straight away, the moment we get thirsty."
       }
      ],
-     "ask": "Whose plan would you choose? Give one reason. Then say one thing the other girl has right.",
+     "ask": "Whose plan would you choose? Give one reason. Then say one thing the other child has right.",
      "lines": 3,
      "a": "A strong answer picks one with a reason, such as 'ice stays cold for longer'. It also says what the other plan gets right, such as 'you can drink liquid water at once'.",
      "why": "Both plans have a good point. Frozen water stays cold for longer but must melt before you drink it. Liquid water is ready at once but warms up. Leave space at the top if you freeze a bottle, because water takes up a little more space as ice."
@@ -1496,7 +1497,7 @@
        "says": "Curd is a liquid. When Amma stirs it hard, it flows and takes the shape of the cup."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Give one reason. Then say one thing the other child has right.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, and sees that both are partly right. Set curd holds a cut shape, but once it is stirred it flows.",
      "why": "Set curd is in between. Scientists call it a gel: a soft solid with a lot of liquid held inside. Stirring breaks it up, and then it flows like a thick liquid."
@@ -1771,7 +1772,7 @@
   "Pipes, taps and drains carry water, because a liquid flows.",
   "Balloons, footballs and cycle tyres are filled with air, because a gas spreads out to fill them.",
   "Idli pots and pressure cookers cook food with steam, which is water as a gas.",
-  "Cooking gas is squeezed into a cylinder as a liquid, so a lot fits in, and it comes out as a gas."
+  "Cooking gas is squeezed into a cylinder until it turns into a liquid, so a lot fits in. When it comes out of the pipe, it turns back into a gas."
  ],
  "spotted": [
   {
@@ -1798,7 +1799,7 @@
  "open_questions": [
   {
    "q": "How many states of matter are there?",
-   "why_open": "Solid, liquid and gas are the three we see most. Lightning and the Sun are made of plasma, a fourth state. Very cold states were predicted from the work of Satyendra Nath Bose of Kolkata, and first made in 1995. Scientists keep finding new ones, so nobody can say how many there are."
+   "why_open": "Solid, liquid and gas are the three we see most. Lightning and the Sun are made of plasma, a fourth state. Some very cold states were predicted from the work of Satyendra Nath Bose of Kolkata, and scientists first made one in 1995. Scientists keep finding new ones, so nobody can say how many there are."
   },
   {
    "q": "What does liquid water look like on the inside?",
@@ -2035,7 +2036,7 @@
   "ask": [
    "When the water was in your hands, was its shape the water's or your hands'?",
    "Ice, water and steam look so different. What makes them the same water?",
-   "Your body is more than half water. Does that water take your shape, or do you take its shape?"
+   "Your body is more than half water. What keeps that water inside you, so that you do not spread out like a puddle?"
   ],
   "art": "A child with cupped hands full of water at a steel sink, with a little water slipping out between their fingers, and a window behind showing a monsoon sky."
  },

@@ -234,7 +234,7 @@
   {
    "q": "Rocks melt deep inside the Earth and come out of volcanoes as lava. Is there anything that never melts?",
    "kind": "big",
-   "hint": "Think of how hot the inside of the Sun is."
+   "hint": "Rock melts when it gets very hot, and even iron melts at about 1,500 degrees. Is there a heat so great that nothing could stay solid? Think of how hot the inside of the Sun is."
   },
   {
    "q": "If the ice on the Himalayas melts, where does the water go?",
@@ -300,6 +300,7 @@
    "mins": 33,
    "days": 1,
    "context": "In this experiment you race five solids: an ice cube, a square of chocolate, a little butter, a little coconut oil and a piece of candle wax. First they sit on a plate in the room. Next they float in a bowl of warm water. Then a grown-up lights a candle, to see if wax melts near the flame. At the end, you cool the melted ones in the fridge.",
+   "problem": "Warmth makes a solid melt into a liquid. You will give five solids warmth in three steps: first the warmth of the room, then bath-warm water, then a candle flame. You will see which ones melt at each step. Then you will cool them in the fridge to see if they turn solid again.",
    "question": "Do all solids melt at the same warmth? Which one melts first, and which one needs the most warmth?",
    "predict": "Look at the five solids. Which one will melt first on the plate? Which will melt last? Will any of them not melt at all? Why do you think so?",
    "fair_test": "Each solid is about the same small size, about as big as the tip of your thumb. They all sit on the same plate, in the same room, for the same time. In the warm water, they all float in the same bowl.",
@@ -594,6 +595,7 @@
    "mins": 25,
    "days": 1,
    "context": "In this experiment you put the same amount of water in a steel tumbler and in a plastic tumbler, and put both in the freezer. You look every 30 minutes to see where the ice starts, and which one freezes first.",
+   "problem": "Water turns to ice when enough warmth has gone out of it. The freezer takes warmth out of the water, but only from the parts of the water that touch something cold. You will watch to see which part of the water freezes first. You will also see whether a steel tumbler and a plastic tumbler freeze the water at the same speed.",
    "question": "When water freezes, where does the ice start: at the top, the bottom, the sides or the middle? Does a steel tumbler freeze faster than a plastic one?",
    "predict": "Where do you think the first ice will appear? Which tumbler will freeze first, the steel one or the plastic one? Why do you think so?",
    "fair_test": "Both tumblers are about the same size, with the same amount of water from the same jug. They go into the freezer at the same time, side by side, and we look at both at the same times.",
@@ -698,7 +700,7 @@
      "mins": 8,
      "context": "This is the last step of the freezer watch. You tap the ice and say what you found.",
      "do": "1. When one tumbler is mostly frozen, take both out. 2. Your child taps the top gently with the spoon. 3. Ask the questions below.",
-     "say": "Which one froze first? Where did the ice start? Why do you think the middle froze last?",
+     "say": "Which one froze first? Where did the ice start? Why do you think the middle froze last? Here is a clue about the tumblers. Warmth passes through steel quickly, and through plastic slowly.",
      "kid": "Tap the ice gently. Which froze first? Where did the ice start?",
      "ask": [
       {
@@ -985,6 +987,7 @@
    "mins": 10,
    "days": 1,
    "context": "In this activity you lay a piece of thread across an ice cube, sprinkle a little salt on it, and wait. Then you try to lift the ice cube with the thread.",
+   "problem": "Ice and salt together do something surprising. You will try to lift an ice cube with only a wet thread, first without salt and then with salt. Afterwards you will find out what salt does to ice, and why kulfi sellers use it.",
    "materials": [
     {
      "item": "an ice cube in a small katori of water",
@@ -1053,13 +1056,13 @@
        ]
       }
      ],
-     "parent": "Salt makes the ice melt a little round the thread, even though the ice is still cold. Then the water freezes again over the thread and holds it. If the ice cube does not lift, wait another minute and add one more small pinch of salt."
+     "parent": "Salt makes a little ice melt round the thread, even though the ice is still cold. Then the water freezes again over the thread and holds it. If the ice cube does not lift, wait another minute and add one more small pinch of salt."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "1. Look closely at the thread in the ice. 2. Ask the question below.",
-     "say": "Look where the thread is. The salt melted the ice a little, then the water froze again. Can you see the thread inside the ice?",
+     "say": "Look where the thread is. Salt lets ice melt even when the ice is cold. A little ice melted round the thread. Then the water froze again over the thread and held it. Can you see the thread inside the ice?",
      "kid": "Look at the thread. Is it inside the ice now?",
      "ask": [
       {
@@ -1070,7 +1073,7 @@
        ]
       }
      ],
-     "parent": "Ice mixed with salt gets colder than plain ice. Kulfi makers have long used ice and salt round their moulds to freeze kulfi."
+     "parent": "Melting ice takes warmth from everything around it. With salt, more ice melts, so the mix of ice and salt gets colder than plain ice. That is how kulfi makers get their ice cold enough to freeze kulfi."
     }
    ]
   }
@@ -1352,14 +1355,15 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Look at the board together. 2. Ask the question below.",
-     "say": "Look at the four columns. Which solids from our melting race can you find? Did they melt where the board says?",
+     "say": "Look at the four columns. Which solids from our melting race can you find? Did they melt where the board says? Now look at all the cards. Is there a card that would never melt, however hot it got?",
      "kid": "Find the solids from your melting race. Are they in the right place?",
+     "parent": "Every card on the board is a solid that melts at some temperature. Rock and iron melt too, but they need a furnace, or the great heat deep inside the Earth.",
      "ask": [
       {
-       "q": "Is there anything that would never melt, however hot it got?",
+       "q": "Look at every card on the board. Which one would never melt, if it got hot enough?",
        "good": [
-        "I am not sure.",
-        "Even rock melts in a volcano."
+        "None of them. Even the stone and the iron nail melt in a furnace.",
+        "Every solid melts at its own melting point."
        ]
       }
      ]
@@ -1468,7 +1472,7 @@
        ]
       }
      ],
-     "parent": "The juice lolly is usually a little softer, because the sugar in the juice makes water harder to freeze. The outside melts first, because it touches the warm air and your warm mouth."
+     "parent": "The juice lolly is usually a little softer. The sugar in the juice means it must get colder than plain water to freeze hard. The outside melts first, because it touches the warm air and your warm mouth."
     }
    ]
   }
@@ -1546,7 +1550,7 @@
        "q": "Why did the wrapped ice cube last longer?",
        "good": [
         "The wrap slowed down the warmth getting in.",
-        "The air could not touch it."
+        "The layers kept the warm room air away from the ice."
        ]
       }
      ],
@@ -1738,7 +1742,7 @@
     },
     {
      "t": "write",
-     "p": "Say your answer out loud, and a grown-up writes it down. Why does your hand feel cold when you hold an ice cube?",
+     "p": "Why does your hand feel cold when you hold an ice cube? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "Warmth from my hand goes into the ice to melt it, so my hand loses warmth and feels cold.",
      "why": "A strong answer says the warmth moves from the hand into the ice. Saying 'cold goes into my hand' is a common idea, but scientists describe warmth moving the other way."
@@ -1816,7 +1820,7 @@
     },
     {
      "t": "write",
-     "p": "Say your answer out loud, and a grown-up writes it down. In the melting race, the melted chocolate went hard in the fridge but the water did not. Why?",
+     "p": "In the melting race, the melted chocolate went hard in the fridge but the water did not. Why? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "The fridge is cold enough to make chocolate solidify, but water needs the freezer, which is much colder.",
      "why": "A strong answer says each liquid solidifies at its own warmth, and water needs more cold than chocolate.",
@@ -1873,7 +1877,7 @@
        "says": "Put the glass in the fridge. Then the drink won't get watery."
       }
      ],
-     "ask": "Whose plan would you choose? Give one reason. Then say one thing the other girl has right.",
+     "ask": "Whose plan would you choose? Give one reason. Then say one thing the other child has right.",
      "lines": 3,
      "a": "A strong answer picks one with a reason, such as 'melting ice takes in a lot of warmth, so it cools fast'. It also says what the other plan gets right, such as 'the drink stays strong and not watery'.",
      "why": "Both plans have a real point. Melting ice takes warmth from the drink fast, but adds water. The fridge is slower but keeps the taste."
@@ -2126,7 +2130,7 @@
  "applications": [
   "Goldsmiths melt gold and pour it into moulds to make ornaments, and it solidifies in the new shape.",
   "Candle makers melt old wax and pour it into moulds with a wick, where it sets into new candles.",
-  "Kulfi makers pour sweet milk into metal cones and pack them in ice mixed with salt, which is colder than plain ice, so the kulfi freezes.",
+  "Kulfi makers pour sweet milk into metal cones and pack them in ice mixed with salt. Ice with salt gets colder than plain ice, which is cold enough to freeze the kulfi.",
   "Steel and iron are melted in huge furnaces and poured into moulds. When they solidify, they are rolled and cut into rails, beams and sheets.",
   "Ice keeps fish fresh on boats and at fish markets, from Kochi to Kolkata, because melting ice takes in warmth.",
   "In Ladakh, the engineer Chewang Norphel built artificial glaciers: shallow pools where water freezes in winter and melts slowly in spring, to water the fields."
