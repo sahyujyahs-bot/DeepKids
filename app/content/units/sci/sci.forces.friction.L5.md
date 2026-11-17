@@ -112,15 +112,15 @@ A rolling marble does not slide over the towel, so the usual cause of friction i
 - **Many engineers:** They call it rolling resistance and keep it apart from friction. It comes mostly from squashing and springing back, not from surfaces sliding.
 
 ## Mostly agreed
-- Friction acts only where two surfaces touch, and it acts against sliding between them. *How we know:* Thousands of pull and slope tests show this, from Leonardo da Vinci's notebooks 500 years ago to laboratories today.
+- Friction acts only where two surfaces touch, and it acts against sliding between them. *How we know:* Thousands of pull and slope tests show this, from Leonardo da Vinci's notebooks more than 500 years ago to laboratories today.
 - Friction acts on both surfaces at once, with equal forces in opposite directions. *How we know:* This is Newton's third law, published in 1687. You can see it when loose paper slides backward under walking fingers.
 - Walkers and wheels move forward because of friction from the ground. *How we know:* On ice, wet mud or oily rails, feet slip and wheels spin. Railway engines carry sand to put grip back on wet rails.
 - Friction turns kinetic energy into heat, and no energy is lost on the way. *How we know:* In the 1840s James Joule stirred water with paddles turned by falling weights. The same amount of work always gave the same amount of heat.
-- A vehicle at twice the speed needs about four times the distance to brake. *How we know:* Kinetic energy grows with the speed multiplied by itself. Road tests of braking cars agree with this.
+- A vehicle at twice the speed needs about four times the distance once the brakes are on. *How we know:* Kinetic energy grows with the speed multiplied by itself. Road tests of braking cars agree with this.
 - Drag from air and water grows quickly with speed and depends on shape. *How we know:* Engineers measure drag on models of cars, planes and ships in wind tunnels and water tanks.
 
 ## How we found out
-**John Blenkinsop and Matthew Murray, who built the toothed railway. William Hedley, Timothy Hackworth and Jonathan Forster, who built Puffing Billy at Wylam., 1811 (Blenkinsop's toothed rail), 1812 (Hedley's test carriage) and 1813 (Puffing Billy).** Two hundred years ago, many engineers believed that a smooth iron wheel could never grip a smooth iron rail. They thought an engine pulling heavy wagons would only spin its wheels. So in 1811 John Blenkinsop patented a rail with teeth along one side. He worked at a coal mine near Leeds in England. His engines, built by Matthew Murray, pulled themselves along with a toothed wheel. In 1812 William Hedley, the manager of Wylam coal mine, decided to test the belief. He built a test carriage that men drove by turning handles. He loaded it with weights and hooked coal wagons behind it. With little weight on it, the wheels spun. With more weight pressing the wheels onto the rails, the smooth wheels gripped and pulled the wagons. The friction had grown with the weight. In 1813 Hedley, with Timothy Hackworth and Jonathan Forster, built Puffing Billy, a steam engine with smooth wheels. Puffing Billy now stands in the Science Museum in London. Almost every train in the world runs on smooth wheels.  
+**John Blenkinsop and Matthew Murray, who built the toothed railway. William Hedley, Timothy Hackworth and Jonathan Forster, who built Puffing Billy at Wylam., 1811 (Blenkinsop's toothed rail), about 1812 (Hedley's test carriage) and 1813 (Puffing Billy).** Two hundred years ago, many engineers believed that a smooth iron wheel could never grip a smooth iron rail. They thought an engine pulling heavy wagons would only spin its wheels. So in 1811 John Blenkinsop patented a rail with teeth along one side. He worked at a coal mine near Leeds in England. His engines, built by Matthew Murray, pulled themselves along with a toothed wheel. Around 1812 William Hedley, a manager at Wylam coal mine, decided to test the belief. He built a test carriage that men drove by hand. He loaded it with weights and hooked coal wagons behind it. With little weight on it, the wheels spun. With more weight pressing the wheels onto the rails, the smooth wheels gripped and pulled the wagons. The friction had grown with the weight. In 1813 Hedley, with Timothy Hackworth and Jonathan Forster, built Puffing Billy, a steam engine with smooth wheels. Puffing Billy now stands in the Science Museum in London. Almost every train in the world runs on smooth wheels.  
 *What people believed before:* That smooth iron wheels cannot grip smooth iron rails well enough to pull a heavy load. Hedley's loaded test carriage showed that they can, if enough weight presses the wheels down.
 
 ## Challenging perspectives
@@ -131,13 +131,13 @@ A rolling marble does not slide over the towel, so the usual cause of friction i
   For: A cyclist who brakes cannot get her speed back from the warm brake pads. For her, that energy is gone.  
   Against: The energy still exists as heat. James Joule showed in the 1840s that work always turns into a fixed amount of heat. The heat only spreads out, so it is hard to use again.
 - **A vehicle can be stopped without turning all its movement into heat.** (Engineers of electric trains and cars; *accepted*)  
-  For: In regenerative braking the turning wheels drive the motors backward, and the motors make electricity. Delhi Metro trains have fed braking energy back into the overhead wires since the 2000s.  
+  For: In regenerative braking the turning wheels drive the motors backward, and the motors make electricity. Delhi Metro trains feed braking energy back into the overhead wires.  
   Against: Some energy still becomes heat. Every train and car also keeps ordinary friction brakes for the last few metres and for emergencies.
 - **A heavier vehicle always needs a longer distance to brake.** (Most drivers; *debated*)  
   For: A heavier vehicle has more kinetic energy at the same speed. Loaded lorries really do take longer to stop, because their brakes and tyres reach their limits.  
   Against: More weight also presses the tyres harder on the road, so the friction grows by about the same share. In simple tests, a heavy and a light sliding block stop in about the same distance.
 - **A world with no friction would be a better world for machines.** (A popular belief; *rejected*)  
-  For: About one fifth of all the energy the world uses is spent on overcoming friction. Worn parts cost a great deal to replace.  
+  For: One study in 2017 estimated that about one fifth of the energy the world uses is spent on overcoming friction. Worn parts cost a great deal to replace.  
   Against: With no friction, no wheel could push on a road and no brake could work. No screw, nut or knot would stay tight. Engineers aim for the right friction in each place, not for none.
 
 ## Roots
@@ -153,8 +153,8 @@ We have learned that friction is a contact force that acts against sliding, and 
 
 Friction is one force, and we meet it in many forms. It is the grip of a shoe, the squeal of a brake and the warmth of rubbed hands. It is also the thin heel of an old chappal. Underneath, each of these is the same thing. The atoms of two touching surfaces hold on to each other with electric forces. One kind of holding between atoms shows up as grip, heat and wear, depending on what the surfaces are doing.
 
-- **Tao Te Ching, chapter 2:** Difficult and easy complete each other. Long and short shape each other. Before and after follow each other. (We call friction useful on a brake and unwanted in an axle, yet the force is the same. 'Useful' and 'unwanted' describe what we want at that moment. Each word has meaning only beside the other.)
-- **Nagarjuna, Mulamadhyamakakarika 24.18:** Whatever arises by depending on other things has no existence of its own, apart from them. (A chappal has no friction by itself, and neither has a floor. Friction arises only when the two meet, and it changes when either one changes.)
+- **Tao Te Ching, chapter 2 (paraphrased):** Difficult and easy complete each other. Long and short shape each other. Before and after follow each other. (We call friction useful on a brake and unwanted in an axle, yet the force is the same. 'Useful' and 'unwanted' describe what we want at that moment. Each word has meaning only beside the other.)
+- **Nagarjuna, Mulamadhyamakakarika 24.18 (paraphrased):** Whatever arises by depending on other things has no existence of its own, apart from them. (A chappal has no friction by itself, and neither has a floor. Friction arises only when the two meet, and it changes when either one changes.)
 - Science (settled): Every force comes as a pair. When one surface pushes on another, the second pushes back just as hard (Newton's third law, 1687).
 - Science (settled): Energy is never destroyed. Work done against friction turns into the same amount of heat (James Joule, 1840s).
 - Science (open): How sliding atoms pass their movement on as heat is still being worked out in detail.
@@ -173,13 +173,13 @@ Friction is one force, and we meet it in many forms. It is the grip of a shoe, t
 - *big:* Tyres and brakes wear into dust that ends up in rivers and the sea. Is the friction we use on roads free? (hint: Somebody, somewhere, breathes or drinks what is rubbed off.)
 
 ## Story: A Handful of Sand
-*A made-up story. The science and the railway are real. The Braganza Ghat runs between Kulem in Goa and Castle Rock in Karnataka. It is one of the steepest railway climbs in India. Extra engines push trains up it, and the Dudhsagar waterfall falls beside the track. Indian engines carry sand to drop on slippery rails. Yazhini, Shanta Chithi, the passengers and this journey are imagined, and the number of engines on a train varies.*
+*A made-up story. The science and the railway are real. The Braganza Ghat runs between Kulem in Goa and Castle Rock in Karnataka. It is a very steep railway climb. Extra engines push trains up it, and the Dudhsagar waterfall falls beside the track. Indian engines carry sand to drop on slippery rails. Yazhini, Shanta Chithi, the passengers and this journey are imagined, and the five engines are imagined. Real trains here usually have about three engines, two in front and one pushing.*
 
 The train left Kulem station in the rain. It was July, and Yazhini was ten. She sat with her nose against the window bars, because somewhere up this hill was the Dudhsagar waterfall.
 
 Her aunt, Shanta Chithi, sat across from her with a steel tiffin box on her knees. Chithi drove goods trains for the railway. Today she was only a passenger, going home to Hubballi on leave.
 
-The hill ahead was called the Braganza Ghat. For twenty-six kilometres the track climbed through wet forest. It was one of the steepest railway climbs in India. At Kulem the railway had joined extra engines to the back of the train, to push.
+The hill ahead was called the Braganza Ghat. For twenty-six kilometres the track climbed through wet forest. It was a very steep railway climb. At Kulem the railway had joined extra engines to the back of the train, to push.
 
 "How many engines do we have?" Yazhini asked.
 
@@ -680,9 +680,9 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
    **Answer:** Going downhill, a lorry would keep gaining kinetic energy. Brakes turn that energy into heat by friction. On a long slope the brakes get so hot that they stop gripping well. In a low gear the engine holds the lorry back, so the brakes do less and stay cooler.. *Why:* A strong answer says where the heat comes from, and why too much heat in the brakes is dangerous.
 
 ## Videos
-- **A railway engine using sand to grip wet rails** (, 3 min) id `to find`: To see wheels slip on a wet rail, and sand blown under them to bring back the grip. *Check:* No address yet. Find a clip from a railway, a rail museum or an engineering channel. Check that it shows the sand pipe in front of the wheel and says that sand makes the friction bigger.
-- **Joule's paddle wheel experiment: stirring water to warm it** (, 5 min) id `to find`: To see how James Joule showed that a fixed amount of work always makes the same amount of heat. *Check:* No address yet. Find a demonstration from a science museum or a university. Check that falling weights turn the paddles and that a thermometer shows the water warming.
-- **Brakes and rubbing hands seen with a heat camera** (, 3 min) id `to find`: To see heat appear where surfaces rub, which the eye cannot see directly. *Check:* No address yet. Find a thermal camera clip of a cycle or car brake, or of hands being rubbed. Check that the brake glows brighter only while it is braking.
+- **Sanding the Railroad Tracks** (Science Channel, 3 min) id `NKcltkFuNEA`: To see wheels slip on a wet rail, and sand blown under them to bring back the grip. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Greatest Experiments: The James Joule Paddle Wheel Experiment** (Experimentor_4u, 5 min) id `vgJjVCjSJtU`: To see how James Joule showed that a fixed amount of work always makes the same amount of heat. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Work done by friction demonstrated with an infrared camera** (Physics with Simon Poliakoff, 3 min) id `Mx-5aGC8eLo`: To see heat appear where surfaces rub, which the eye cannot see directly. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which of these is a contact force?  
@@ -818,5 +818,5 @@ Name the Force, Draw the Arrow (sci.forces.L5): Topic-level song for Forces L5
 - Kole, P. J. and others, 'Wear and tear of tyres: a stealthy source of microplastics in the environment', International Journal of Environmental Research and Public Health 14, 2017
 - Di Toro, G. and others, 'Fault lubrication during earthquakes', Nature 471, 2011
 - Kisiel, M. and others, 'Suppression of electronic friction on Nb films in the superconducting state', Nature Materials 10, 2011 (friction from electrons and from shaking atoms)
-- Tao Te Ching, chapter 2
-- Nagarjuna, Mulamadhyamakakarika 24.18
+- Tao Te Ching, chapter 2 (paraphrased)
+- Nagarjuna, Mulamadhyamakakarika 24.18 (paraphrased)

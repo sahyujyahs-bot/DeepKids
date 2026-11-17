@@ -273,7 +273,7 @@
  "agreed": [
   {
    "text": "Friction acts only where two surfaces touch, and it acts against sliding between them.",
-   "evidence": "Thousands of pull and slope tests show this, from Leonardo da Vinci's notebooks 500 years ago to laboratories today."
+   "evidence": "Thousands of pull and slope tests show this, from Leonardo da Vinci's notebooks more than 500 years ago to laboratories today."
   },
   {
    "text": "Friction acts on both surfaces at once, with equal forces in opposite directions.",
@@ -288,7 +288,7 @@
    "evidence": "In the 1840s James Joule stirred water with paddles turned by falling weights. The same amount of work always gave the same amount of heat."
   },
   {
-   "text": "A vehicle at twice the speed needs about four times the distance to brake.",
+   "text": "A vehicle at twice the speed needs about four times the distance once the brakes are on.",
    "evidence": "Kinetic energy grows with the speed multiplied by itself. Road tests of braking cars agree with this."
   },
   {
@@ -316,7 +316,7 @@
   {
    "claim": "A vehicle can be stopped without turning all its movement into heat.",
    "who": "Engineers of electric trains and cars",
-   "for": "In regenerative braking the turning wheels drive the motors backward, and the motors make electricity. Delhi Metro trains have fed braking energy back into the overhead wires since the 2000s.",
+   "for": "In regenerative braking the turning wheels drive the motors backward, and the motors make electricity. Delhi Metro trains feed braking energy back into the overhead wires.",
    "against": "Some energy still becomes heat. Every train and car also keeps ordinary friction brakes for the last few metres and for emergencies.",
    "status": "accepted",
    "context": "This card is about braking that saves energy and does not waste all of it as heat."
@@ -332,7 +332,7 @@
   {
    "claim": "A world with no friction would be a better world for machines.",
    "who": "A popular belief",
-   "for": "About one fifth of all the energy the world uses is spent on overcoming friction. Worn parts cost a great deal to replace.",
+   "for": "One study in 2017 estimated that about one fifth of the energy the world uses is spent on overcoming friction. Worn parts cost a great deal to replace.",
    "against": "With no friction, no wheel could push on a road and no brake could work. No screw, nut or knot would stay tight. Engineers aim for the right friction in each place, not for none.",
    "status": "rejected",
    "context": "This card is about whether machines would be better with no friction at all."
@@ -374,11 +374,11 @@
   "title": "A Handful of Sand",
   "mins": 12,
   "read_aloud": true,
-  "note": "A made-up story. The science and the railway are real. The Braganza Ghat runs between Kulem in Goa and Castle Rock in Karnataka. It is one of the steepest railway climbs in India. Extra engines push trains up it, and the Dudhsagar waterfall falls beside the track. Indian engines carry sand to drop on slippery rails. Yazhini, Shanta Chithi, the passengers and this journey are imagined, and the number of engines on a train varies.",
+  "note": "A made-up story. The science and the railway are real. The Braganza Ghat runs between Kulem in Goa and Castle Rock in Karnataka. It is a very steep railway climb. Extra engines push trains up it, and the Dudhsagar waterfall falls beside the track. Indian engines carry sand to drop on slippery rails. Yazhini, Shanta Chithi, the passengers and this journey are imagined, and the five engines are imagined. Real trains here usually have about three engines, two in front and one pushing.",
   "text": [
    "The train left Kulem station in the rain. It was July, and Yazhini was ten. She sat with her nose against the window bars, because somewhere up this hill was the Dudhsagar waterfall.",
    "Her aunt, Shanta Chithi, sat across from her with a steel tiffin box on her knees. Chithi drove goods trains for the railway. Today she was only a passenger, going home to Hubballi on leave.",
-   "The hill ahead was called the Braganza Ghat. For twenty-six kilometres the track climbed through wet forest. It was one of the steepest railway climbs in India. At Kulem the railway had joined extra engines to the back of the train, to push.",
+   "The hill ahead was called the Braganza Ghat. For twenty-six kilometres the track climbed through wet forest. It was a very steep railway climb. At Kulem the railway had joined extra engines to the back of the train, to push.",
    "\"How many engines do we have?\" Yazhini asked.",
    "\"Two in front and three pushing from behind,\" said Chithi. \"Each one is as strong as about four thousand horses.\"",
    "Yazhini tried to picture twenty thousand horses. She could not. The train climbed slowly, through one tunnel and then another. Rain ran down the bars. Wet leaves lay stuck to the sleepers, and on the shining tops of the rails.",
@@ -2784,31 +2784,28 @@
  ],
  "videos": [
   {
-   "title": "A railway engine using sand to grip wet rails",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Sanding the Railroad Tracks",
+   "channel": "Science Channel",
+   "youtube": "NKcltkFuNEA",
    "mins": 3,
    "why": "To see wheels slip on a wet rail, and sand blown under them to bring back the grip.",
-   "check": "No address yet. Find a clip from a railway, a rail museum or an engineering channel. Check that it shows the sand pipe in front of the wheel and says that sand makes the friction bigger."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Joule's paddle wheel experiment: stirring water to warm it",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Greatest Experiments: The James Joule Paddle Wheel Experiment",
+   "channel": "Experimentor_4u",
+   "youtube": "vgJjVCjSJtU",
    "mins": 5,
    "why": "To see how James Joule showed that a fixed amount of work always makes the same amount of heat.",
-   "check": "No address yet. Find a demonstration from a science museum or a university. Check that falling weights turn the paddles and that a thermometer shows the water warming."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Brakes and rubbing hands seen with a heat camera",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Work done by friction demonstrated with an infrared camera",
+   "channel": "Physics with Simon Poliakoff",
+   "youtube": "Mx-5aGC8eLo",
    "mins": 3,
    "why": "To see heat appear where surfaces rub, which the eye cannot see directly.",
-   "check": "No address yet. Find a thermal camera clip of a cycle or car brake, or of hands being rubbed. Check that the brake glows brighter only while it is braking."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3304,15 +3301,15 @@
    "Kole, P. J. and others, 'Wear and tear of tyres: a stealthy source of microplastics in the environment', International Journal of Environmental Research and Public Health 14, 2017",
    "Di Toro, G. and others, 'Fault lubrication during earthquakes', Nature 471, 2011",
    "Kisiel, M. and others, 'Suppression of electronic friction on Nb films in the superconducting state', Nature Materials 10, 2011 (friction from electrons and from shaking atoms)",
-   "Tao Te Ching, chapter 2",
-   "Nagarjuna, Mulamadhyamakakarika 24.18"
+   "Tao Te Ching, chapter 2 (paraphrased)",
+   "Nagarjuna, Mulamadhyamakakarika 24.18 (paraphrased)"
   ]
  },
  "how_we_found_out": {
   "context": "How did people find out that friction can move a train? This card tells the true story, and the idea that turned out wrong.",
-  "story": "Two hundred years ago, many engineers believed that a smooth iron wheel could never grip a smooth iron rail. They thought an engine pulling heavy wagons would only spin its wheels. So in 1811 John Blenkinsop patented a rail with teeth along one side. He worked at a coal mine near Leeds in England. His engines, built by Matthew Murray, pulled themselves along with a toothed wheel. In 1812 William Hedley, the manager of Wylam coal mine, decided to test the belief. He built a test carriage that men drove by turning handles. He loaded it with weights and hooked coal wagons behind it. With little weight on it, the wheels spun. With more weight pressing the wheels onto the rails, the smooth wheels gripped and pulled the wagons. The friction had grown with the weight. In 1813 Hedley, with Timothy Hackworth and Jonathan Forster, built Puffing Billy, a steam engine with smooth wheels. Puffing Billy now stands in the Science Museum in London. Almost every train in the world runs on smooth wheels.",
+  "story": "Two hundred years ago, many engineers believed that a smooth iron wheel could never grip a smooth iron rail. They thought an engine pulling heavy wagons would only spin its wheels. So in 1811 John Blenkinsop patented a rail with teeth along one side. He worked at a coal mine near Leeds in England. His engines, built by Matthew Murray, pulled themselves along with a toothed wheel. Around 1812 William Hedley, a manager at Wylam coal mine, decided to test the belief. He built a test carriage that men drove by hand. He loaded it with weights and hooked coal wagons behind it. With little weight on it, the wheels spun. With more weight pressing the wheels onto the rails, the smooth wheels gripped and pulled the wagons. The friction had grown with the weight. In 1813 Hedley, with Timothy Hackworth and Jonathan Forster, built Puffing Billy, a steam engine with smooth wheels. Puffing Billy now stands in the Science Museum in London. Almost every train in the world runs on smooth wheels.",
   "who": "John Blenkinsop and Matthew Murray, who built the toothed railway. William Hedley, Timothy Hackworth and Jonathan Forster, who built Puffing Billy at Wylam.",
-  "when": "1811 (Blenkinsop's toothed rail), 1812 (Hedley's test carriage) and 1813 (Puffing Billy)",
+  "when": "1811 (Blenkinsop's toothed rail), about 1812 (Hedley's test carriage) and 1813 (Puffing Billy)",
   "wrong_idea": "That smooth iron wheels cannot grip smooth iron rails well enough to pull a heavy load. Hedley's loaded test carriage showed that they can, if enough weight presses the wheels down.",
   "art": "A small early steam engine with smooth wheels pulling coal wagons on plain rails, beside a rail with teeth and a toothed wheel crossed out."
  },
@@ -3331,12 +3328,12 @@
   "thread": "Friction is one force, and we meet it in many forms. It is the grip of a shoe, the squeal of a brake and the warmth of rubbed hands. It is also the thin heel of an old chappal. Underneath, each of these is the same thing. The atoms of two touching surfaces hold on to each other with electric forces. One kind of holding between atoms shows up as grip, heat and wear, depending on what the surfaces are doing.",
   "teachings": [
    {
-    "source": "Tao Te Ching, chapter 2",
+    "source": "Tao Te Ching, chapter 2 (paraphrased)",
     "teaching": "Difficult and easy complete each other. Long and short shape each other. Before and after follow each other.",
     "link": "We call friction useful on a brake and unwanted in an axle, yet the force is the same. 'Useful' and 'unwanted' describe what we want at that moment. Each word has meaning only beside the other."
    },
    {
-    "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
+    "source": "Nagarjuna, Mulamadhyamakakarika 24.18 (paraphrased)",
     "teaching": "Whatever arises by depending on other things has no existence of its own, apart from them.",
     "link": "A chappal has no friction by itself, and neither has a floor. Friction arises only when the two meet, and it changes when either one changes."
    }
@@ -3372,5 +3369,5 @@
   ],
   "art": "A child standing barefoot with eyes closed, leaning slightly forward, with a small arrow under the toes pointing backward and a matching arrow from the floor pointing forward."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home. Please treat the amounts as a starting point. The Stopping Distance Test (core) needs a marble, a cardboard strip, books, a bath towel and a bedsheet. How far the marble rolls depends on the cloth. So the trial run tells you to add or take away a book before you measure. Expect about double the distance from double the start mark, not exactly double. On a bare floor the marble may reach the wall. The Warm Coin Test (core) needs two people, three coins of one kind and thick cardboard. In a cold room 20 strokes may feel like nothing. The step says to rub faster, press harder or double every number. A coin after 80 firm strokes can sting, so touch it for one second only. Finger Walk needs a smooth table or a steel tray. On a rough wooden table the paper may not slide. The Riding Katori needs an empty katori, because a tall tumbler can tip over on the fast pull. Hand in the Bucket wets the floor, so do it in the bathroom. Only a grown-up strikes the match in Pencil, Eraser, Match. In the Escape Lane, the tray of rice must be large, so that the marble stops before the far rim. Shove Coin leaves powder on the table, and a powdered floor is slippery, so wipe it up. Green and Red is written for a bicycle, with a door and chappals as the other choice. The Home Friction Service needs a grown-up for the oil. No part needs a garden. Facts to treat with care: the number of engines on a train over the Braganza Ghat varies. Four thousand horsepower is a round figure for one engine. 'About one fifth of the world's energy' is an estimate from one study. 'Four times the braking distance at twice the speed' leaves out the distance covered while the driver reacts. The Tao Te Ching and Nagarjuna lines are given as paraphrases. The three videos have no address yet."
+ "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home. Please treat the amounts as a starting point. The Stopping Distance Test (core) needs a marble, a cardboard strip, books, a bath towel and a bedsheet. How far the marble rolls depends on the cloth. So the trial run tells you to add or take away a book before you measure. Expect about double the distance from double the start mark, not exactly double. On a bare floor the marble may reach the wall. The Warm Coin Test (core) needs two people, three coins of one kind and thick cardboard. In a cold room 20 strokes may feel like nothing. The step says to rub faster, press harder or double every number. A coin after 80 firm strokes can sting, so touch it for one second only. Finger Walk needs a smooth table or a steel tray. On a rough wooden table the paper may not slide. The Riding Katori needs an empty katori, because a tall tumbler can tip over on the fast pull. Hand in the Bucket wets the floor, so do it in the bathroom. Only a grown-up strikes the match in Pencil, Eraser, Match. In the Escape Lane, the tray of rice must be large, so that the marble stops before the far rim. Shove Coin leaves powder on the table, and a powdered floor is slippery, so wipe it up. Green and Red is written for a bicycle, with a door and chappals as the other choice. The Home Friction Service needs a grown-up for the oil. No part needs a garden. Facts checked on 17 Nov 2026: the Braganza Ghat length and stations, Blenkinsop's 1811 patent, Puffing Billy, the 'one fifth of world energy' study and the journal papers were confirmed. Hedley's test is now dated 'about 1812', the Delhi Metro date and the 'steepest' claim were removed, and the engine count in the story is marked as imagined. Four thousand horsepower is a round figure. Four times the braking distance at twice the speed leaves out the driver's reaction distance. The Tao Te Ching and Nagarjuna lines are paraphrases. The three videos have no address yet."
 }
