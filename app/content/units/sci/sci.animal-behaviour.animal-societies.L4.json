@@ -3,7 +3,7 @@
   "title": "Hives, mounds and nests: how bees, wasps and termites share the work",
   "level": 4,
   "summary": {
-    "text": "A worker honeybee spends her first days cleaning empty cells. A few weeks later she flies kilometres to find flowers. Nobody tells her when to change jobs. Honeybees, paper wasps, termites and even one kind of mole-rat live in societies where only a few animals have young and everyone else shares the work. Your child tests whether splitting a job really makes it faster, and what a society risks by doing it. They learn how the scouts of a swarm pick its new home with no ruler, and why the middle guess of a crowd is often closer than most of the single guesses.",
+    "text": "A worker honeybee spends her first days cleaning empty cells. A few weeks later she flies kilometres to find flowers. Nobody tells her when to change jobs. Honeybees, paper wasps, termites and even one kind of mole-rat live in societies where only a few animals have young and everyone else shares the work. Your child tests whether splitting a job really makes it faster, and what a society risks by doing it. They learn how the scouts of a swarm pick its new home with no ruler, and why, when a crowd each guesses a number, the middle guess is often closer to the truth than most of the single guesses.",
     "art": "A cut-open honeycomb in a wooden bee box, with tiny labelled bees: one cleaning a cell, one feeding a grub, one guarding the door, one leaving for the flowers."
   },
   "intro": {
@@ -91,13 +91,13 @@
     },
     {
       "term": "Quorum",
-      "meaning": "The smallest number of voters needed before a group's choice counts. Honeybee scouts use a quorum at the new home before the swarm takes off.",
+      "meaning": "The smallest number of members who must agree before a group goes ahead with its choice. Honeybee scouts use a quorum at the new home before the swarm takes off.",
       "example": "When about fifteen scouts are at one nest hole, the swarm decides to go there.",
       "art": "Fifteen small bees gathered at the entrance to a tree hollow."
     },
     {
       "term": "Reserve worker",
-      "meaning": "A worker who is standing still at this moment, ready to take a job if the colony needs one.",
+      "meaning": "A worker who is standing still right now, but who is ready to start a job if the colony needs her.",
       "example": "At any moment a large share of the ants in a nest may be standing still.",
       "art": "An ant nest cut open, with some ants carrying eggs and others standing still in a chamber."
     },
@@ -158,7 +158,7 @@
       "concept": "Castes with different bodies: termite soldiers and big-headed carpenter ants",
       "status": "defined",
       "definition": "In some insects the castes have different bodies, and a soldier cannot change into a worker.",
-      "description": "A honeybee worker can do every worker's job in her life. A termite is different. Termite workers and soldiers have different bodies, because each one is built that way as she or he grows up. A soldier has a big, hard head and large jaws and cannot feed herself or himself, so workers feed soldiers. Termite colonies have workers and soldiers of both sexes. A king and a queen live together for many years. Many termites also farm: workers in some kinds carry chewed plant material to grow a fungus, and the whole colony eats the fungus. Some wild mushrooms that come up in the rains out of old mounds are the fruiting parts of such a fungus, and in parts of India people collect and eat them. Termites are related to cockroaches.",
+      "description": "A honeybee worker can do every worker's job in her life. A termite is different. Termite workers and soldiers have different bodies. Each one grows into the body for her or his job, and it cannot change later. A soldier has a big, hard head and large jaws and cannot feed herself or himself, so workers feed soldiers. Termite colonies have workers and soldiers of both sexes. A king and a queen live together for many years. Many termites also farm: workers in some kinds carry chewed plant material to grow a fungus, and the whole colony eats the fungus. Some wild mushrooms that come up in the rains out of old mounds are the fruiting parts of such a fungus, and in parts of India people collect and eat them. Termites are related to cockroaches.",
       "examples": [
         "A termite soldier blocking a tunnel with her large head.",
         "Big-headed workers of some carpenter ants, who cut hard food.",
@@ -194,7 +194,7 @@
       "art": "A swarm ball on a branch with scouts dancing on its surface, and three arrows to three different hollow trees, one arrow drawn much thicker than the others."
     },
     {
-      "concept": "Are the resting ants lazy? Reserve workers",
+      "concept": "Are the resting ants lazy, or are they reserve workers?",
       "status": "debated",
       "definition": "",
       "description": "When scientists watched every ant in some colonies, they often found that at any moment a large share of the workers, in some nests half or more, were standing still. Anna Dornhaus, an ant scientist at the University of Arizona, has studied this in acorn ants, which are small ants that nest inside acorns and rock cracks. Why does a nest keep so many ants doing nothing? Scientists have three main answers, and nobody has shown which is true for most kinds of ants.",
@@ -236,7 +236,7 @@
       "concept": "Why do workers help instead of having their own young?",
       "status": "debated",
       "definition": "",
-      "description": "A worker honeybee almost never lays eggs. She spends her life feeding her mother's young. That seems strange, because the animals that leave the most young are the ones whose kind spreads. In 1964 the British biologist William Hamilton suggested an answer. A worker shares many of her genes with her sisters, so helping her mother raise more sisters can pass on her family's genes. Other scientists, including Edward O. Wilson in 2010, argued that the answer lies in having a safe nest that is worth defending. Many biologists replied that Hamilton's idea explains more. This is a long-running argument, and it is one of the big open puzzles in biology. You will meet Hamilton's idea in more detail in a later unit. In Bengaluru, Raghavendra Gadagkar studied the Indian paper wasp Ropalidia marginata for decades at the Indian Institute of Science. In these wasps' nests a worker can become the queen when the old queen is gone, and the change is usually calm.",
+      "description": "A worker honeybee almost never lays eggs. She spends her life feeding her mother's young. That seems strange. Normally, the animals that have the most young are the ones whose kind becomes more common over time. A worker who has no young of her own seems to be losing out. In 1964 the British biologist William Hamilton suggested an answer. A worker shares many of her genes with her sisters, so helping her mother raise more sisters can pass on her family's genes. Other scientists, including Edward O. Wilson in 2010, argued that the answer is a safe nest that is worth defending. Animals that live in a good nest stay together, and the helpers come from that group. Many biologists replied that Hamilton's idea explains more. This is a long-running argument, and it is one of the big open puzzles in biology. You will meet Hamilton's idea in more detail in a later unit. In Bengaluru, Raghavendra Gadagkar studied the Indian paper wasp Ropalidia marginata for decades at the Indian Institute of Science. In these wasps' nests a worker can become the queen when the old queen is gone, and the change is usually calm.",
       "examples": [
         "A worker bee who feeds her sisters but never has her own young.",
         "A paper wasp who stays at her mother's nest to help.",
@@ -249,7 +249,7 @@
         },
         {
           "who": "Edward O. Wilson and colleagues, 2010",
-          "explanation": "Being related is not enough to explain it. The key step is a nest that is defended and has a lasting food supply. The helpers come from the group living there."
+          "explanation": "Being related is not enough to explain it. The key step is a nest that can be defended and that has a lasting food supply. Animals that live in such a nest stay together, and the helpers come from the group living there."
         }
       ],
       "art": "A family tree of a honeybee colony showing the queen, her worker daughters, and the lines of shared family."
@@ -401,7 +401,7 @@
       "\"Nobody,\" said Revathi. \"And everybody. The ones who found the best place danced for the longest. In the end so many were dancing for the tree that the rest just agreed.\" She said it slowly, as if the words were new on her tongue, and then she knew they were true.",
       "That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the hollow, a thin line of bees was walking in and out of a door no bigger than a coin. Somewhere inside, the old queen was already settling into the dark. She would never know which scout had first found this tree. Perhaps the scout herself would never know."
     ],
-    "epiphany": "No bee was in charge. The scouts argued with their dances, and the best home won.",
+    "epiphany": "No bee was in charge. Each scout showed what she had found by dancing, and the dances for the best home grew until everyone agreed.",
     "ask": [
       "In the story, what let Revathi guess where the swarm would go, before the bees left?",
       "The queen did not choose the new home. The scouts did. What would happen if all the scouts had found the same poor hollow?",
@@ -893,7 +893,7 @@
           "id": "s3",
           "mins": 4,
           "do": "Round 1. Method one: one square at a time. Start the timer. Finish each square before you take the next. Stop the timer after 12 squares. Write the time and count the neat squares.",
-          "say": "Round 1. One square at a time. Star, colour, letter. Then the next square. Ready? Start the timer, and go.",
+          "say": "Round 1. We do one square at a time. For each square, first draw the star, then colour it red, then write the letter. When that square is finished, take the next one. Ready? Start the timer, and go.",
           "kid": "Round 1. Finish one square at a time. Start the timer.",
           "context": "In this step you do round 1, finishing one square before the next."
         },
@@ -901,7 +901,7 @@
           "id": "s4",
           "mins": 4,
           "do": "Round 2. Method two: one step at a time. Start the timer. Draw the stars on all 12 squares, then colour all 12, then write all 12 letters. Stop the timer and write the result.",
-          "say": "Round 2. One step at a time. All the stars first. Then all the colour. Then all the letters. Start the timer, and go.",
+          "say": "Round 2. We do one step at a time. First draw the stars on all the squares. Then colour all of them red. Then write the letters on all of them. Start the timer, and go.",
           "kid": "Round 2. All stars, then all colour, then all letters. Start the timer.",
           "context": "In this step you do round 2, doing one step on all the squares at a time."
         },
@@ -909,7 +909,7 @@
           "id": "s5",
           "mins": 4,
           "do": "Round 3. Method two again: one step at a time. Use 12 new squares. Time it and write the result.",
-          "say": "Round 3. One step at a time again, with fresh squares. Start the timer, and go.",
+          "say": "Round 3. We do one step at a time again, with fresh squares. First all the stars, then all the colour, then all the letters. Start the timer, and go.",
           "kid": "Round 3. All stars, then all colour, then all letters again, on new squares. Start the timer.",
           "context": "In this step you repeat method two, so your result does not rest on one try."
         },
@@ -917,7 +917,7 @@
           "id": "s6",
           "mins": 4,
           "do": "Round 4. Method one again: one square at a time. Use 12 new squares. Time it and write the result.",
-          "say": "Round 4. One square at a time again, with fresh squares. Start the timer, and go.",
+          "say": "Round 4. We do one square at a time again, with fresh squares. Finish each square before you take the next. Start the timer, and go.",
           "kid": "Round 4. Finish one square at a time again, on new squares. Start the timer.",
           "context": "In this step you repeat method one, so that both methods have been done twice."
         },
@@ -1289,8 +1289,8 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Colour five jobs along the line. Cleaner for days 1 to 3. Nurse for days 4 to 10. Builder or storer for days 11 to 18. Guard for days 19 to 21. Forager for day 22 until the end. Add a small picture to each.",
-          "say": "Colour the jobs. Cleaner, days one to three. Nurse, days four to ten. Builder or storer, days eleven to eighteen. Guard, days nineteen to twenty-one. Forager, after day twenty-one.",
+          "do": "Colour five jobs along the line. Colour days 1 to 3 as the cleaner job. Colour days 4 to 10 as the nurse job. Colour days 11 to 18 as the builder or storer job. Colour days 19 to 21 as the guard job. Colour day 22 until the end as the forager job. Add a small picture to each.",
+          "say": "Now colour the jobs along the line. Days one to three are the cleaner job. Days four to ten are the nurse job. Days eleven to eighteen are the builder or storer job. Days nineteen to twenty-one are the guard job. After day twenty-one, she is a forager.",
           "kid": "Colour five jobs along the line. Add a picture for each.",
           "ask": [
             {
@@ -1406,7 +1406,7 @@
           "id": "s3",
           "mins": 6,
           "do": "The forager is the dancer. At the paper, the dancer draws a straight line from the middle. The line leans left or right of the up arrow, the same way the sweet leans from the window direction. Then the dancer taps along the line, one tap for each step.",
-          "say": "Dancer, draw the line. Lean it the same way as the sweet is from the window. Then tap along the line. One tap for one step.",
+          "say": "Dancer, draw a straight line from the middle of the paper. Lean it left or right of the up arrow, the same way the sweet lies left or right of the window. Then tap along the line, one tap for each step you walked.",
           "kid": "Draw the line leaning towards the sweet. Tap once for each step.",
           "ask": [
             {
@@ -1706,7 +1706,7 @@
           "id": "s1",
           "mins": 10,
           "do": "Draw a table with four columns: the job, who does it, how long it takes, and how often. Walk around the home and write down at least ten jobs.",
-          "say": "Every home has jobs. Cooking, sweeping, washing, shopping, watering, helping with homework. Let's write them all down. Who does each one?",
+          "say": "Every home has jobs, such as cooking, sweeping, washing, shopping, watering plants and helping with homework. Let's write them all down, and then say who does each one.",
           "kid": "Draw your table. Walk round your home. List ten jobs.",
           "context": "This is the first step of Our Home as a Colony. You list the jobs in your home."
         },
@@ -1812,7 +1812,7 @@
       "creative": [
         "Cut two holes, one low and one high, and fit straw chimneys, so warm air can leave at the top and cooler air can come in below.",
         "Make a double wall of cardboard with an air gap between, like a termite mound's thick wall.",
-        "Put the box on an upturned tray and a wet cloth. As the water dries, it takes heat away."
+        "Put the box on an upturned tray, with a wet cloth around it. When the water in the cloth dries into the air, that takes heat away from the box."
       ],
       "your_turn": "Test two of your own ideas, each in its own box against the plain box, in the same window for 20 minutes. Then pour the meltwater from each katori into a small glass, and count the teaspoons. The box with the least meltwater kept its ice best. Pick the best, and say why it works.",
       "context": "This is a design challenge about how a nest stays cool. You build a shoebox nest using tricks like the ones termites and bees use, and test it by seeing how much of an ice cube melts.",
@@ -2104,7 +2104,7 @@
           "t": "draw",
           "p": "Draw the door of a beehive and three bees at it. Show a guard, a bee that is fanning her wings, and a forager coming home with pollen. Write one label for each.",
           "a": "A hive door with three bees. The guard stands at the door facing a bee that has just arrived. The fanning bee has her wings blurred, and she stands at the entrance. The forager has yellow lumps on her back legs.",
-          "why": "A strong drawing shows each bee doing something different at the same door. That is division of labour at a single spot.",
+          "why": "A strong drawing shows each bee doing something different at the same door. That is division of labour at a single spot, because each bee has her own job.",
           "art": "A blank box with a sketch of a wooden beehive door at the bottom.",
           "outcome": 6
         },
@@ -2275,7 +2275,7 @@
             "All of them"
           ],
           "a": 1,
-          "why": "The middle guess is 280, which is 20 from 300. Only the guess of 310 is closer, at 10. The other three are further away, so the middle guess beat four of the five people but not all.",
+          "why": "The middle guess is 280, which is 20 from 300. Only the guess of 310 is closer, at 10. The other three are further away, so the middle guess was closer than three of the other four people, but not closer than all of them.",
           "outcome": 5
         },
         {
@@ -2367,7 +2367,7 @@
           ],
           "a": [
             "Hive: where the dance happens",
-            "Direction of the Sun: the line that straight up on the comb stands for",
+            "Direction of the Sun: the line that stands for straight up on the comb",
             "Flower field: the place the dance describes, to the right of the Sun's direction"
           ],
           "why": "A dancer turns the position of a field into an angle on the comb. The hive is the starting point, and the Sun's direction is the line that the angle is measured from.",

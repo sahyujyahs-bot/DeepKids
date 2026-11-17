@@ -1,16 +1,16 @@
 # Hives, mounds and nests: how bees, wasps and termites share the work
 `sci.animal-behaviour.animal-societies.L4`
 
-**Summary.** A worker honeybee spends her first days cleaning empty cells. A few weeks later she flies kilometres to find flowers. Nobody tells her when to change jobs. Honeybees, paper wasps, termites and even one kind of mole-rat live in societies where only a few animals have young and everyone else shares the work. Your child tests whether splitting a job really makes it faster, and what a society risks by doing it. They learn how scouts pick a swarm's new home with no ruler, and why a crowd's middle guess can beat most of its members.
+**Summary.** A worker honeybee spends her first days cleaning empty cells. A few weeks later she flies kilometres to find flowers. Nobody tells her when to change jobs. Honeybees, paper wasps, termites and even one kind of mole-rat live in societies where only a few animals have young and everyone else shares the work. Your child tests whether splitting a job really makes it faster, and what a society risks by doing it. They learn how the scouts of a swarm pick its new home with no ruler, and why, when a crowd each guesses a number, the middle guess is often closer to the truth than most of the single guesses.
 
-**Intro.** *A worker honeybee lives only about six weeks in summer. In that time she does five or six different jobs. Who decides when she changes?* In her first days she cleans empty cells in the comb. Then she feeds the young. Then she builds wax and guards the door. Last, she flies out for nectar. No bee gives her orders. In this unit you split a job among yourselves, to see what a hive gains and what it risks. You also watch ants at work, act out a bee's dance, and play a game where scouts choose a new home.
+**Intro.** *A worker honeybee lives only about six weeks in summer. In that time she does five or six different jobs. Who decides when she changes?* In her first days a worker honeybee cleans empty cells in the comb. Then she feeds the young. Then she builds wax and guards the door. Last, she flies out for nectar. No bee gives her orders. In this unit you split a job among yourselves, to see what a hive gains and what it risks. You also watch ants at work, act out a bee's dance, and play a game where scouts choose a new home.
 
 ## Learning outcomes
 0. I can explain what makes a society eusocial, with a queen and workers, and name three kinds of animals that live this way.
 1. I can explain what division of labour gains and what it costs, and test it fairly.
 2. I can describe how a honeybee's job changes as she grows older, and what happens when a hive loses its foragers.
 3. I can read a waggle dance: the angle shows the direction, and the length of the waggle shows how far.
-4. I can explain how scouts and a quorum choose a swarm's new home with no ruler.
+4. I can explain how scouts choose a swarm's new home with no ruler, and what a quorum is.
 5. I can say why a crowd's middle guess can beat most people, and when a crowd gets it wrong.
 6. I can explain what holds an insect society together: scent, shared food and shared warmth.
 7. I can compare insect, mole-rat and human societies, and say what we cannot conclude from the comparison.
@@ -27,8 +27,8 @@
 - **Scout**: A bee that goes out to look for something new, such as food or a home, and comes back to tell the others. *e.g.* Scouts look for a new nest hole when a swarm leaves its hive.
 - **Waggle dance**: A dance a honeybee does on the comb to tell others where food or a new home is. The angle of her run shows the direction. The length of her waggle shows the distance. *e.g.* A dancer who waggles for three seconds is describing a place much farther away than one who waggles for half a second.
 - **Swarm**: A large group of bees that has left its old hive with the old queen, to find and start a new nest. *e.g.* A swarm often rests for a day or two on a branch or a balcony grill before moving on.
-- **Quorum**: The smallest number of voters needed before a group's choice counts. Honeybee scouts use a quorum at the new home before the swarm takes off. *e.g.* When about fifteen scouts are at one nest hole, the swarm decides to go there.
-- **Reserve worker**: A worker who is standing still at this moment, ready to take a job if the colony needs one. *e.g.* At any moment a large share of the ants in a nest may be standing still.
+- **Quorum**: The smallest number of members who must agree before a group goes ahead with its choice. Honeybee scouts use a quorum at the new home before the swarm takes off. *e.g.* When about fifteen scouts are at one nest hole, the swarm decides to go there.
+- **Reserve worker**: A worker who is standing still right now, but who is ready to start a job if the colony needs her. *e.g.* At any moment a large share of the ants in a nest may be standing still.
 - **Soldier**: A termite or ant with a bigger head and jaws, whose job is to defend the colony. Soldiers keep this job for life. *e.g.* Termite soldiers block a hole in the mound with their heads.
 - **Sharing food**: Passing food from one insect's mouth to another's. Scientists call it trophallaxis. Honeybees and ants do it all the time, and it spreads food and smell round the whole colony. *e.g.* An ant that has found sugar feeds other ants mouth to mouth.
 
@@ -36,14 +36,14 @@
 ### Eusocial: a society where only a few have young · *defined*
 **Definition:** A eusocial society is one where a few animals lay all the eggs, many others look after the young, and the animals of different generations live together.
 
-In a wolf pack or an elephant herd, most grown-up females can have young. In a honeybee hive, almost all the work is done by workers who never lay eggs. One queen lays them all. Ants, termites and many bees and wasps live this way. So do a few kinds of snapping shrimp that live inside sponges, and two kinds of African mole-rat. Scientists count more than a dozen separate times that eusociality has appeared on Earth, and the count depends on how it is done. It is rare among animals. Yet ants and termites together are so many that they make up a large share of the animal weight in many warm forests. A worker who never has young is giving her life's work to her mother's young, who are her sisters. Why that can happen is still argued, and you will meet that argument in this unit.
+In a wolf pack or an elephant herd, most grown-up females can have young. In a honeybee hive, almost all the work is done by workers who never lay eggs. One queen lays them all. Ants, termites and many bees and wasps live this way. So do a few kinds of snapping shrimp that live inside sponges, and two kinds of African mole-rat. Scientists count more than a dozen separate times that eusociality has appeared on Earth. The exact number depends on how they count. It is rare among animals. Yet ants and termites together are so many that they make up a large share of the animal weight in many warm forests. A worker who never has young is giving her life's work to her mother's young, who are her sisters. Why that can happen is still argued, and you will meet that argument in this unit.
 - e.g. A honeybee hive with one queen, thousands of daughters who work, and a few hundred drones.
 - e.g. A termite mound with a king and queen, workers and soldiers.
 - e.g. A naked mole-rat colony in underground tunnels, with one breeding female and a few breeding males.
 ### Division of labour: what sharing the jobs gains, and what it costs · *defined*
 **Definition:** Division of labour means that different members of a group do different jobs, so each job is done by someone who does it often.
 
-Doing one job again and again saves time. You do not put one tool down and pick up another, and you get better with practice. In 1776 the Scottish thinker Adam Smith described a small pin factory. Ten workers shared the eighteen steps, some doing two or three of them, and together they made about 48,000 pins in a day. He thought one worker alone could not make twenty. A hive works the same way: some bees feed grubs while others fly for nectar. But sharing jobs has a cost. If everyone has only one job and the last forager is lost, nobody brings food. A good society shares the work and also lets members change jobs when the need changes. Honeybees do this, and you test the first half of this idea yourself.
+Doing one job again and again saves time. You do not put one tool down and pick up another, and you get better with practice. In 1776 the Scottish thinker Adam Smith described a small pin factory. Ten workers shared the eighteen steps, some doing two or three of them, and together they made about 48,000 pins in a day. He thought one worker alone could not make twenty. A hive works the same way: some bees feed grubs while others fly for nectar. But sharing jobs has a cost. If everyone has only one job and the last forager is lost, nobody brings food. A good society shares the work and also lets members change jobs when the need changes. Honeybees do this. In the Switch or Stay experiment you test for yourself whether sharing out the steps of a job saves time.
 - e.g. Adam Smith's pin factory, where each worker did one step.
 - e.g. Ants where some carry food and others stay in the nest to care for the eggs.
 - e.g. A kitchen at a wedding, with one person cutting vegetables, one frying and one serving.
@@ -54,12 +54,12 @@ A young worker first cleans empty cells, for a few days. Then she works as a nur
 - e.g. A one-day-old worker cleaning a cell, and a three-week-old worker leaving the door to find nectar.
 - e.g. A hive that lost many foragers in a storm, where young bees start foraging early.
 - e.g. A nurse bee feeding a grub with a creamy food that she makes in her head.
-### Castes with different bodies: termite soldiers and army ant majors · *defined*
+### Castes with different bodies: termite soldiers and big-headed carpenter ants · *defined*
 **Definition:** In some insects the castes have different bodies, and a soldier cannot change into a worker.
 
-A honeybee worker can do every worker's job in her life. A termite is different. Termite workers and soldiers have different bodies, because each one is built that way as she or he grows up. A soldier has a big, hard head and large jaws and cannot feed herself or himself, so workers feed soldiers. Termite colonies have workers and soldiers of both sexes. A king and a queen live together for many years. Many termites also farm: workers in some kinds carry chewed plant material to grow a fungus, and the whole colony eats the fungus. Termites are related to cockroaches. Some wild mushrooms that come up in the rains out of old mounds are the fruiting parts of such a fungus, and in parts of India people collect and eat them.
+A honeybee worker can do every worker's job in her life. A termite is different. Termite workers and soldiers have different bodies. Each one grows into the body for her or his job, and it cannot change later. A soldier has a big, hard head and large jaws and cannot feed herself or himself, so workers feed soldiers. Termite colonies have workers and soldiers of both sexes. A king and a queen live together for many years. Many termites also farm: workers in some kinds carry chewed plant material to grow a fungus, and the whole colony eats the fungus. Some wild mushrooms that come up in the rains out of old mounds are the fruiting parts of such a fungus, and in parts of India people collect and eat them. Termites are related to cockroaches.
 - e.g. A termite soldier blocking a tunnel with her large head.
-- e.g. Big-headed major workers of some carpenter ants, who cut hard food.
+- e.g. Big-headed workers of some carpenter ants, who cut hard food.
 - e.g. A termite queen several times longer than a worker, who lays eggs all day.
 ### The waggle dance: how a bee tells the others where to go · *defined*
 **Definition:** The waggle dance is a honeybee's dance on the comb that tells other bees the direction and distance of food or a new home.
@@ -71,18 +71,18 @@ Inside the dark hive, a returning forager runs in a straight line over the comb 
 ### How a swarm picks a new home with no ruler · *defined*
 **Definition:** A swarm chooses its new home through the scouts' dances. When enough scouts are at one place, the whole swarm goes there.
 
-When a hive grows too full, the old queen leaves with about half the workers and rests as a ball on a branch or a grill. A few hundred scouts fly out to look for a hollow that is dry, the right size, and has a small door. Each scout who finds a good one comes back and dances for it. The better the hollow, the longer she dances, so more scouts go to see it. A scout who has visited a different place can bump into a dancer and give a short beep that tells her to stop. Over hours, one place wins. When about fifteen scouts are at the hollow at the same time, they signal back, and the swarm warms its muscles and takes off. Thomas Seeley and his team studied this on a small island off the coast of Maine in the United States. The queen takes no part in the choosing.
+When a hive grows too full, the old queen leaves with about half the workers and rests as a ball on a branch or a grill. A few hundred scouts fly out to look for a hollow that is dry, is the right size and has a small door. Each scout who finds a good one comes back and dances for it. The better the hollow, the longer she dances, so more scouts go to see it. A scout who has visited a different place can bump into a dancer and give a short beep that tells her to stop. Over hours, one place wins. When about fifteen scouts are at the hollow at the same time, they signal back, and the swarm warms its muscles and takes off. Thomas Seeley and his team studied this on a small island off the coast of Maine in the United States. The queen takes no part in the choosing.
 - e.g. A swarm on a balcony grill that leaves the next morning for a tree hollow.
 - e.g. Scouts dancing for three different hollows, and the dances for two of them dying away.
 - e.g. A human committee that waits until enough members agree before it acts.
-### Are the resting ants lazy? Reserve workers · *debated*
+### Are the resting ants lazy, or are they reserve workers? · *debated*
 When scientists watched every ant in some colonies, they often found that at any moment a large share of the workers, in some nests half or more, were standing still. Anna Dornhaus, an ant scientist at the University of Arizona, has studied this in acorn ants, which are small ants that nest inside acorns and rock cracks. Why does a nest keep so many ants doing nothing? Scientists have three main answers, and nobody has shown which is true for most kinds of ants.
 - e.g. Ants standing still in a nest chamber while others carry eggs.
 - e.g. A hive where some foragers sit on the landing board for a while before leaving.
 - e.g. A fire station where most firefighters wait for a call.
 - **Reserve force idea:** The still ants are ready. When a big piece of food or an attack arrives, a colony with reserves can answer at once, without waiting to find workers.
 - **Tired workers idea:** Some computer models suggest that when workers get tired, a colony does better if different workers rest in turn. Then the colony never runs out of workers all at once.
-- **Not really idle idea:** Some scientists think that many still ants are checking the nest, sharing smell, or are simply too young or too old to be useful for now. They say that 'idle' is our word for what we cannot see them doing.
+- **Not really idle idea:** Some scientists think that many still ants are checking the nest or sharing smell, or are simply too young or too old to be useful for now. They say that 'idle' is our word for what we cannot see them doing.
 ### What holds a society together: scent, shared food and shared warmth · *defined*
 **Definition:** An insect colony is held together by its own smell, by food passed mouth to mouth, and by warmth the whole colony makes.
 
@@ -91,12 +91,12 @@ Every colony has its own smell, made from the oily coating on the bodies of its 
 - e.g. An ant passing a drop of sugar to another ant mouth to mouth.
 - e.g. Bees fanning their wings at the hive door on a hot afternoon.
 ### Why do workers help instead of having their own young? · *debated*
-A worker honeybee almost never lays eggs. She spends her life feeding her mother's young. That seems strange, because the animals that leave the most young are the ones whose kind spreads. In 1964 the British biologist William Hamilton suggested an answer. A worker shares many of her genes with her sisters, so helping her mother raise more sisters can pass on her family's genes. Other scientists, including Edward O. Wilson in 2010, argued that the answer lies in having a safe nest that is worth defending. Many biologists replied that Hamilton's idea explains more. This is a long-running argument, and it is one of the big open puzzles in biology. You will meet Hamilton's idea in more detail in a later unit. In Bengaluru, Raghavendra Gadagkar studied the Indian paper wasp Ropalidia marginata for decades at the Indian Institute of Science. In her nests a worker can become the queen when the old queen is gone, and the change is usually calm.
+A worker honeybee almost never lays eggs. She spends her life feeding her mother's young. That seems strange. Normally, the animals that have the most young are the ones whose kind becomes more common over time. A worker who has no young of her own seems to be losing out. In 1964 the British biologist William Hamilton suggested an answer. A worker shares many of her genes with her sisters, so helping her mother raise more sisters can pass on her family's genes. Other scientists, including Edward O. Wilson in 2010, argued that the answer is a safe nest that is worth defending. Animals that live in a good nest stay together, and the helpers come from that group. Many biologists replied that Hamilton's idea explains more. This is a long-running argument, and it is one of the big open puzzles in biology. You will meet Hamilton's idea in more detail in a later unit. In Bengaluru, Raghavendra Gadagkar studied the Indian paper wasp Ropalidia marginata for decades at the Indian Institute of Science. In these wasps' nests a worker can become the queen when the old queen is gone, and the change is usually calm.
 - e.g. A worker bee who feeds her sisters but never has her own young.
 - e.g. A paper wasp who stays at her mother's nest to help.
 - e.g. A nest hole worth defending, because it is hard to find a new one.
 - **William Hamilton, 1964:** Workers share many genes with their sisters. Helping the queen raise more sisters can pass on the workers' own family's genes, so helping can pay off.
-- **Edward O. Wilson and colleagues, 2010:** Relatedness alone is not the cause. The key step is a defended nest with a lasting food supply, and the helpers come from the group living there.
+- **Edward O. Wilson and colleagues, 2010:** Being related is not enough to explain it. The key step is a nest that can be defended and that has a lasting food supply. Animals that live in such a nest stay together, and the helpers come from the group living there.
 ### A mammal with a queen: the naked mole-rat · *defined*
 **Definition:** Naked mole-rats are small African mammals that live in underground colonies with one breeding female, the queen.
 
@@ -107,20 +107,20 @@ Naked mole-rats are mammals the size of a small hand, with almost no fur. They l
 
 ## Mostly agreed
 - A honeybee worker does different jobs at different ages, and the hive can change the pattern when it needs to. *How we know:* Thomas Seeley followed numbered bees through their lives in the 1980s, and Huang and Robinson in 1992 showed young bees forage early when foragers are removed.
-- The waggle dance tells other bees the direction and distance of a place. *How we know:* In 1975 James Gould made dancers point the wrong way, and the new bees flew to the place the dance described. In 2005 radar tags on recruits showed them flying to the spot.
+- The waggle dance tells other bees the direction and distance of a place. *How we know:* In 1975 James Gould made dancers point the wrong way, and the new bees flew to the place the dance described. In 2005 tiny radar tags on bees who had followed a dance showed them flying to the spot.
 - A honeybee swarm chooses a new home through the scouts' dances, with no ruler. *How we know:* Thomas Seeley's team watched individually marked scouts for years, and in most tests the swarm chose the best of the boxes they set out.
 - Naked mole-rats live in colonies with one breeding female. *How we know:* Jennifer Jarvis published this in 1981 from a captive colony, and later work on wild and captive colonies has confirmed it.
-- A honeybee colony keeps the middle of its nest at about 34 to 35 degrees Celsius. *How we know:* Thermometers placed in the brood area stay in this narrow range, even when the outside air is much colder or hotter.
+- A honeybee colony keeps the middle of its nest at about 34 to 35 degrees Celsius. *How we know:* Thermometers placed in the part of the nest where the grubs grow stay in this narrow range, even when the outside air is much colder or hotter.
 - Eusocial animals are rare, but ants and termites are very common. *How we know:* Counts of insects in forests show ants and termites make up a large share of the animal weight in many warm places.
 
 ## How we found out
-**Karl von Frisch, an Austrian scientist (1886 to 1982), The 1940s, with tests in 1975 and 2005.** For thousands of years, people watched bees return to the hive and saw only a busy crowd. In the 1940s, the Austrian scientist Karl von Frisch painted dots on bees and watched them through glass in a hive. He saw that a bee who had found food ran in a straight line while shaking her body, then circled back and ran again. By measuring her runs, he worked out that the angle shows the direction of the food, and the length of the run shows how far. Not everyone believed him. In the 1960s some scientists said the other bees were only following the flower smell on the dancer's body, and that the dance meant nothing. In 1975 James Gould tricked dancers into pointing the wrong way, and the new bees flew to the place the dance described, not to the food. In 2005 scientists tracked recruits with tiny radar tags and saw them fly to the place the dancer described.  
+**Karl von Frisch, an Austrian scientist (1886 to 1982), The 1940s, with tests in 1975 and 2005.** For thousands of years, people watched bees return to the hive and saw only a busy crowd. In the 1940s, the Austrian scientist Karl von Frisch painted dots on bees and watched them through glass in a hive. He saw that a bee who had found food ran in a straight line while shaking her body, then circled back and ran again. By measuring her runs, he worked out that the angle shows the direction of the food, and the length of the run shows how far. Not everyone believed him. In the 1960s some scientists said the other bees were only following the flower smell on the dancer's body, and that the dance meant nothing. In 1975 James Gould tricked dancers into pointing the wrong way, and the new bees flew to the place the dance described, not to the food. In 2005 scientists put tiny radar tags on bees who had followed a dance, and saw them fly to the place the dancer described.  
 *What people believed before:* Many people thought the dance meant nothing and that bees find food by smell alone. When dancers were made to point the wrong way, the new bees followed the dance, which showed that the dance carries the message.
 
 ## Challenging perspectives
 - **The queen bee is a ruler who gives orders to the hive.** (Many old books and stories, including Aristotle and Shakespeare, called her a king or a ruler.; *rejected*)  
   For: She is the biggest bee, the workers crowd round her, and the hive does badly without her.  
-  Against: In 1609 Charles Butler wrote that the 'king' was a mother, and later Jan Swammerdam showed by dissection that she has ovaries. She lays eggs, but the workers and the scouts settle the jobs, the food and the new home.
+  Against: In 1609 Charles Butler wrote that the 'king' was a mother. Later Jan Swammerdam cut open a queen and showed that she has ovaries, the parts that make eggs. She lays eggs, but the workers and the scouts settle the jobs, the food and the new home.
 - **Every worker is born with one job for life.** (A common idea in books about insects.; *rejected*)  
   For: Some insects, such as termite soldiers, really do have bodies built for one job.  
   Against: A honeybee worker does five or six jobs as she ages, and she can change early when the hive needs it.
@@ -138,23 +138,23 @@ Naked mole-rats are mammals the size of a small hand, with almost no fur. They l
   Against: What is natural does not tell us what is fair. Elephants are led by older females, wolf packs are families, and most animals live alone. Nature shows many ways to live, so it cannot pick one for us.
 
 ## Roots
-We have seen a hive share its jobs, a dance carry a map and a swarm choose a home. Now we ask what a hive shows about being one thing and being many.
+In this unit a hive shares out its jobs, a dance tells other bees where to fly, and a swarm chooses a home. Here we ask whether a hive is one thing or many separate bees.
 
 **Deep truth.** In a hive, one bee does many jobs in turn, from cleaning to finding food. When a hive loses many foragers, young bees start foraging early. So a job is not what a bee is. It is what the hive needs from her today.  
-*Habit it breaks:* We say worker, nurse, guard and soldier as if each were a kind of animal, the way we say 'teacher' as if that word were a person's whole self. In honeybees the word names a stage, not a kind. In some termites and ants, soldiers do have a different body and keep one job.  
-*Evidence:* Marked bees were followed from the day they hatched, and each did one job after another as she aged. When older bees were taken away, some young bees started foraging days or weeks early. In Switch or Stay you also found that changing jobs costs time, which is one reason a hive keeps each job for days at a time.
+*Habit it breaks:* We say worker, nurse, guard and soldier as if each were a kind of animal, the way we say 'teacher' as if that word were a person's whole self. In honeybees the word names a stage in a bee's life, not a kind of bee. In some termites and ants, soldiers do have a different body and keep one job.  
+*Evidence:* Marked bees were followed from the day they hatched, and each did one job after another as she aged. When older bees were taken away, some young bees started foraging days or weeks early. In the Switch or Stay experiment you timed a job done two ways. Swapping from one step to another usually costs time, which is one reason a hive keeps each job for days at a time.
 
 - *who am i:* Your body is a society of about 37 trillion cells, and each kind has a job. None of them could live alone for long, just like a worker bee.
 - *what is life:* Living is not one fixed job. A bee, a wasp or a cell changes what they do as the body or the colony needs.
 - *what is this world:* Many things we call one thing, such as a hive, a forest or a body, are many beings who depend on each other. Where one ends and the next begins depends on where we draw the line.
 
-No honeybee sees the whole hive. Each one knows only the cell in front of her, the smell at the door or the dance she is following. Yet the hive keeps its warmth, feeds its young and picks a home. The whole does things that none of its parts is doing. Some sages taught that the world is like this too, with many beings who each see a little, inside one whole that nobody stands outside of.
+No honeybee sees the whole hive. Each one knows only the cell in front of her, the smell at the door or the dance she is following. Yet the hive keeps its warmth, feeds its young and picks a home. The whole does things that none of its parts is doing. Some sages taught that the world is like this too. Each being sees only a little, and all of them are inside one whole. Nobody stands outside it.
 
-- **Rig Veda 10.191.2:** As paraphrased, the last hymn of the Rig Veda says, come together, speak together, let your minds know alike. It is a hymn for people gathered to decide something together. (Scouts in a swarm come together, speak with their dances, and in the end the swarm's many minds point one way.)
+- **Rig Veda 10.191.2:** The last hymn of the Rig Veda says, in a paraphrase: come together, speak together, let your minds know alike. It is a hymn for people gathered to decide something together. (Scouts in a swarm come together, speak with their dances, and in the end the swarm's many minds point one way.)
 - **Tattvartha Sutra 5.21, a Jain text:** Parasparopagraho jivanam. Living beings help one another. The Jain tradition teaches that all life holds together because every being supports others. (A honeybee is fed by nurses, warmed by the cluster and kept safe by guards. She lives because other bees do their jobs.)
 - Science (settled): Honeybees keep the middle of the nest at about 34 to 35 degrees Celsius. The whole colony does this together, and no single bee holds the temperature.
 - Science (idea): Many scientists think the first animal bodies began as colonies of single cells that stayed together and started to share jobs. Fossils cannot show it, so it remains an idea.
-- Other view, Many biologists: A hive is a lot of separate bees, each following her own rules. 'The hive decides' is only a short way to say what the bees do together. They say that a hive does not want anything, and only the bees do.
+- Other view, Many biologists: A hive is a lot of separate bees, each following her own rules. 'The hive decides' is only a short way to say what the bees do together. On this view a hive does not want anything. Only the bees do.
 - Practice, Bee breath, together (3 min): Sit in a circle with your family. Breathe in through your nose. Close your lips and hum softly as you breathe out, like a bee. Do this five times. On the last round, listen to the hum of all of you together. Is it one sound or many?
 - Ask: When the swarm flew to the new home, who made that choice: each scout, the swarm, or both?
 - Ask: If a bee's job is what the hive needs from her, what is a person's job?
@@ -166,14 +166,14 @@ No honeybee sees the whole hive. Each one knows only the cell in front of her, t
 - *big:* A worker bee never has her own young and cannot live alone for long. Is she a whole animal, or a part of something bigger? (hint: Think about your own cells. None of them lives alone, and each does one job.)
 - *big:* You have never made your own rice, pencil or phone. Who made the things you used this morning? (hint: Pick one thing and trace it back as far as you can.)
 - *big:* Some ants stand still while others work. How should we decide whether someone who is resting is useful? (hint: Think about a reserve, a fire station and a goalkeeper.)
-- *deep:* In your jar of dal test, hearing other people's guesses first can make the crowd worse. Why would copying hurt? (hint: If everyone copies the first guess, how many different ideas does the group really have?)
+- *deep:* In the Jar of Dal experiment, hearing other people's guesses first can make the crowd's middle guess worse. Why would copying hurt? (hint: If everyone copies the first guess, how many different ideas does the group really have?)
 
 ## Story: The Ball on the Balcony Grill
 *A made-up story. The science in it is real. It comes from Thomas Seeley's studies of honeybee swarms in the United States. Indian honeybees also swarm and dance, but the times and places in this story are imagined.*
 
 On the last Sunday of April, a brown ball hung from the balcony grill of Revathi's flat in Thrissur. It was the size of a football. It hummed. Up close, the ball was made of bees, thousands of them, climbing over each other's backs.
 
-Revathi's mother stood in the kitchen doorway with a dishcloth pressed to her mouth. Her little cousin Appu had his nose against the glass. Down in the yard, Shaji, the building's watchman, was already coming up the stairs with the garden hose and a long bamboo pole. "Smoke or water, they will go," he said. "I have done it before."
+Revathi's mother stood in the kitchen doorway with a dishcloth pressed to her mouth. Revathi's little cousin Appu had his nose against the glass. Down in the yard, Shaji, the building's watchman, was already coming up the stairs with the garden hose and a long bamboo pole. "Smoke or water, they will go," he said. "I have done it before."
 
 Revathi was nine, and she did not want the bees to go. She could not have said why. "Please wait," she said. "Just until I ask Rukmini Chechi."
 
@@ -219,10 +219,10 @@ Shaji lowered the bamboo pole he had been holding all morning without noticing. 
 
 That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the hollow, a thin line of bees was walking in and out of a door no bigger than a coin. Somewhere inside, the old queen was already settling into the dark. She would never know which scout had first found this tree. Perhaps the scout herself would never know.
 
-**For the parent:** No bee was in charge. The scouts argued with their dances, and the best home won.
+**For the parent:** No bee was in charge. Each scout showed what she had found by dancing, and the dances for the best home grew until everyone agreed.
 
 - Ask: In the story, what let Revathi guess where the swarm would go, before the bees left?
-- Ask: If the queen did not choose the new home, what would happen if all the scouts had found the same poor hollow?
+- Ask: The queen did not choose the new home. The scouts did. What would happen if all the scouts had found the same poor hollow?
 - Ask: What would you have done about the ball on the grill, and what would you want to know first?
 
 ## Games
@@ -232,7 +232,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 - **Printable tokens: 5 job tokens: Cleaner, Nurse, Builder or storer, Guard, Forager. Print one set for each player:** Cleaner; Nurse; Builder or storer; Guard; Forager
 - **s1 (3 min)**  
   *Parent does:* Cut out the 18 cards and the five tokens. Shuffle the cards and put them in a pile. Give each player one set of tokens.  
-  *Parent says:* These cards describe worker honeybees of different ages. Each player has five tokens. Cleaner, Nurse, Builder or storer, Guard and Forager. We will guess each bee's job.  
+  *Parent says:* These cards describe worker honeybees of different ages. Each player has five tokens: Cleaner, Nurse, Builder or storer, Guard and Forager. We will guess each bee's job.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take one set of tokens.
 - **s2 (6 min)**  
   *Parent does:* Play the first six cards. After each card, read the back aloud. Ask the question below after card three.  
@@ -241,7 +241,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Ask: What did you look at to decide the bee's job? (good: Her age.; What she was doing.; What the hive needed.)
   - Note: The ages on the cards are a rough guide. Real bees change at slightly different ages in different hives. One child: play alone or with a parent as in the rules. Two to four players: take turns being the reader and give every player their own set of five tokens. Nothing here needs more than paper, scissors and a pen.
 - **s3 (5 min)**  
-  *Parent does:* Play the next six cards. Then ask why some bees on the cards changed jobs early or went back.  
+  *Parent does:* Play the next six cards. Then ask why some bees on the cards changed jobs early or went back to an earlier job.  
   *Parent says:* Play six more cards. Then think about this. Two of the cards have a bee doing a job that does not match her age. Why did that happen?  
   *Child mode:* Play six more cards. Some bees do a job that is not for their age. Why?
   - Ask: Why would a young bee start foraging early? (good: The hive lost many foragers.; The hive needed food and there was nobody to bring it.; The hive changed her job.)
@@ -268,15 +268,15 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Note: Write each player's guess on the score sheet before the first draw. Do not say which one wins most often. The game will show it.
 - **s2 (6 min)**  
   *Parent does:* Play game 1. Draw a pulse, put it back, and add the extra pulses. Stop when one kind reaches 20. Write the winner and the number of turns.  
-  *Parent says:* Shake the cup, draw one, say the site, put it back, then add the extras. Keep going until one kind has twenty.  
-  *Child mode:* Shake the cup. Draw one. Put it back. Add the extras. Stop at twenty.
+  *Parent says:* Shake the cup and draw one pulse. Say which site it stands for, and put it back. Then add the extra pulses that the site card shows. Keep going until one kind has twenty.  
+  *Child mode:* Shake the cup. Draw one pulse and put it back. Add the extra pulses the site card shows. Stop when one kind reaches 20.
   - Note: Each game takes about 13 draws on average, which is about three to four minutes. Do not keep tipping out the cup. Instead keep a running tally on the score sheet or in the notebook of how many of each kind are in the cup now, and add to it after each turn. Roles for two to four children: one shakes and draws, one adds the pulses, one keeps the tally; swap after each game. One child with a parent: the parent keeps the tally.
 - **s3 (6 min)**  
   *Parent does:* Play games 2 and 3. Write the winner and the turns each time. After game 3, ask the question below.  
   *Parent says:* Play two more games. Write down who wins each time. Then look at your sheet. Did the same site win every time?  
   *Child mode:* Play games 2 and 3. Write the winners. Is it always the same?
   - Ask: Did the best home win every time? What did you see? (good: It won most times but not always.; Sometimes the poor one got ahead early.; The one that got ahead early kept winning.)
-  - Note: With these numbers, a computer run of many games gave about: the best site wins six games in ten, the middle site three in ten, and the poor site about one in thirty. These are typical figures, not promises. So in five games, your result may differ from this. That is the point.
+  - Note: When a computer played this game many times, the best site won about six games in ten, the middle site about three in ten, and the poor site about one in thirty. These are typical figures, not promises, so your five games may turn out differently. That is the point.
 - **s4 (6 min)**  
   *Parent does:* Play games 4 and 5. Then count how many times each site won in all five games.  
   *Parent says:* Play the last two games. Then count the winners on the sheet. How many times did each site win?  
@@ -293,13 +293,13 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 ### e1 · Switch or Stay: does splitting a job make it faster? (39 min)
 - **question:** Is a job of three steps done faster if you finish each paper square before starting the next, or if you do one step on all the squares, and then the next step on all of them?
 - **predict:** Before you start, guess. Which way will be faster: one square at a time, or one step at a time on all the squares? Or will it be the same? Why do you think so?
-- **fair test:** Use the same pencil, crayon and pen, the same size of squares and the same table every time. Each round is 12 squares. You do the rounds in the order one square at a time, one step at a time, one step at a time, one square at a time. That order cancels the effect of getting better with practice. Time every round the same way, and check that your stars are neat in both ways. Only the method changes.
+- **fair test:** Use the same pencil, crayon and pen, the same size of squares and the same table every time. Each round is 12 squares. Do the rounds in this order: one square at a time, then one step at a time, then one step at a time again, then one square at a time again. This order stops practice from helping one method more than the other. Time every round the same way, and check that your stars are neat with both methods. Only the method changes.
 - **record:** Write the time and the number of neat squares for each of the four rounds. Add the two one-square-at-a-time times together, and the two one-step-at-a-time times together. Then draw two bars to compare the totals.
 - **results table:** Round | Method | Time in seconds | Neat squares out of 12
 - **s1 (4 min)**  
   *Parent does:* Show your child the squares and the three tools. Explain the two methods. Write down the guess and the reason.  
-  *Parent says:* Each square gets three steps. Draw a small star with the pencil. Colour it red with the crayon. Write your first letter under it with the pen. Which way will be faster? Why do you think so?  
-  *Child mode:* Each square gets a star, red colour and a letter. Which way is faster? Why?
+  *Parent says:* Each square gets three steps. Draw a small star with the pencil. Colour it red with the crayon. Write your first letter under it with the pen. You can finish one square at a time, or do one step on all the squares before the next step. Which way will be faster? Why do you think so?  
+  *Child mode:* Each square gets a star, red colour and a letter. Is it faster to finish one square at a time, or to do one step on all the squares? Why?
   - Ask: Why do you think that way will be faster? (good: You do not put down and pick up tools so often.; You get into a rhythm.; Doing one square at a time feels quicker.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the page. One child: the child does all four rounds and the parent times and counts the neat squares. Two to four children: each child does all four rounds with their own set of squares and tools while a sibling times, then swap, and compare the children's totals as well. Use the same child for all four rounds when you compare methods.
 - **s2 (8 min)**  
@@ -309,43 +309,43 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Note: If you need the squares cut, a grown-up can fold a page twice each way and cut along the folds. Spend only a few minutes on this. Practice stops your first timed round from being much slower than the rest.
   - Check: Why do you practise before the timed rounds? → **So that getting better with practice does not spoil the test**
 - **s3 (4 min)**  
-  *Parent does:* Round 1. Method one. Start the timer. Finish each square before you take the next. Stop the timer after 12 squares. Write the time and count the neat squares.  
-  *Parent says:* Round 1. One square at a time. Star, colour, letter. Then the next square. Ready? Start the timer, and go.  
+  *Parent does:* Round 1. Method one: one square at a time. Start the timer. Finish each square before you take the next. Stop the timer after 12 squares. Write the time and count the neat squares.  
+  *Parent says:* Round 1. We do one square at a time. For each square, first draw the star, then colour it red, then write the letter. When that square is finished, take the next one. Ready? Start the timer, and go.  
   *Child mode:* Round 1. Finish one square at a time. Start the timer.
 - **s4 (4 min)**  
-  *Parent does:* Round 2. Method two. Start the timer. Draw the stars on all 12 squares, then colour all 12, then write all 12 letters. Stop the timer and write the result.  
-  *Parent says:* Round 2. One step at a time. All the stars first. Then all the colour. Then all the letters. Start the timer, and go.  
+  *Parent does:* Round 2. Method two: one step at a time. Start the timer. Draw the stars on all 12 squares, then colour all 12, then write all 12 letters. Stop the timer and write the result.  
+  *Parent says:* Round 2. We do one step at a time. First draw the stars on all the squares. Then colour all of them red. Then write the letters on all of them. Start the timer, and go.  
   *Child mode:* Round 2. All stars, then all colour, then all letters. Start the timer.
 - **s5 (4 min)**  
-  *Parent does:* Round 3. Method two again. Use 12 new squares. Time it and write the result.  
-  *Parent says:* Round 3. One step at a time again, with fresh squares. Start the timer, and go.  
-  *Child mode:* Round 3. Same as round 2, with new squares. Start the timer.
+  *Parent does:* Round 3. Method two again: one step at a time. Use 12 new squares. Time it and write the result.  
+  *Parent says:* Round 3. We do one step at a time again, with fresh squares. First all the stars, then all the colour, then all the letters. Start the timer, and go.  
+  *Child mode:* Round 3. All stars, then all colour, then all letters again, on new squares. Start the timer.
 - **s6 (4 min)**  
-  *Parent does:* Round 4. Method one again. Use 12 new squares. Time it and write the result.  
-  *Parent says:* Round 4. One square at a time again, with fresh squares. Start the timer, and go.  
-  *Child mode:* Round 4. Same as round 1, with new squares. Start the timer.
+  *Parent does:* Round 4. Method one again: one square at a time. Use 12 new squares. Time it and write the result.  
+  *Parent says:* Round 4. We do one square at a time again, with fresh squares. Finish each square before you take the next. Start the timer, and go.  
+  *Child mode:* Round 4. Finish one square at a time again, on new squares. Start the timer.
 - **s7 (6 min)**  
-  *Parent does:* Add the two times for method one. Add the two times for method two. Compare the totals. Draw two bars.  
+  *Parent does:* Add the two times for method one (one square at a time). Add the two times for method two (one step at a time). Compare the totals. Draw two bars.  
   *Parent says:* Add the two one-square-at-a-time times. Then add the two one-step-at-a-time times. Which total is smaller? By how many seconds?  
   *Child mode:* Add the times for each method. Which total is smaller? By how much?
-  - Check: Method one took 287 seconds in total. Method two took 257 seconds. What does that show? → **Method two was faster by 30 seconds**
+  - Check: Method one (one square at a time) took 287 seconds in total. Method two (one step at a time) took 257 seconds. What does that show? → **Method two was faster by 30 seconds**
 - **s8 (5 min)**  
-  *Parent does:* Ask your child for a claim, the evidence and the reason. Write all three. Then talk about the question below.  
-  *Parent says:* What do you think the test shows? What numbers show it? Why do you think it happened? Did the neat squares change?  
+  *Parent does:* Ask your child what they found (the claim), which numbers show it (the evidence) and why they think it happened (the reason). Write all three. Then talk about the question below.  
+  *Parent says:* What do you think the test shows? What numbers show it? Why do you think it happened? Was the number of neat squares different for the two ways?  
   *Child mode:* Say what you found. Say the numbers. Say why you think it happened.
   - Ask: What do you think made one way faster, or slower? (good: Putting down and picking up tools takes time.; Doing the same thing again gets quicker.; It was about the same, so it did not matter.)
   - Note: Let your child say what they think before you give a reason. A common finding is that doing one step at a time on all the squares is a little faster, because you swap tools only twice. In your test it may be close, or it may be the other way round. If the two totals are within about 10 seconds, call it a tie. Either way, record exactly what you saw. Then say that a hive's jobs are split for the same kind of reason, and that splitting has a cost: if nobody can change jobs, a missing worker leaves a job undone.
   - Think: What would go wrong if only one person in a team knew how to do the second step?
-### e2 · The Jar of Dal: is a crowd's middle guess better than one person's guess? (36 min)
+### e2 · The Glass of Chana: is a crowd's middle guess better than one person's guess? (36 min)
 - **question:** If six or more people each guess how many chana are in a glass, is the middle guess closer to the true number than most people's own guesses? And does hearing other people's guesses first make the crowd better or worse?
-- **predict:** Before you start, guess. Will the middle guess of the group beat most of the people? Will guesses spoken out loud be better than guesses written in secret? Why do you think so?
-- **fair test:** Every person looks at the glass for the same ten seconds from the same distance. For glass A, everyone writes a guess in secret and nobody talks. For glass B, everyone says a guess out loud, one after the other, hearing the guesses before. The glass count is different, so you compare how far each middle guess is from its true number, and how spread out the guesses are, loosely.
+- **predict:** Before you start, guess. Will the middle guess of the group be closer to the true number than most people's own guesses? Will guesses spoken out loud be better than guesses written in secret? Why do you think so?
+- **fair test:** Every person looks at the glass for the same ten seconds from the same distance. For glass A, everyone writes a guess in secret and nobody talks. For glass B, everyone says a guess out loud, one after the other, so each person hears the guesses made before theirs. The two glasses hold different numbers of chana. So you compare how far each middle guess is from its own true number, and roughly how spread out the guesses are.
 - **record:** Write every guess in the table. For each glass, put the guesses in order from smallest to biggest, find the middle one, and write how far it is from the true number. Then write how far each person was from the true number.
 - **results table:** Person | Secret guess for glass A | Spoken guess for glass B
 - **s1 (4 min)**  
-  *Parent does:* Tell your child they will fill two glasses and ask people to guess. Write down the guess about the middle guess and its reason.  
-  *Parent says:* We will ask a group to guess how many chana are in a glass. Will the middle guess of the group beat most of the people? Why do you think so?  
-  *Child mode:* A group will guess chana in a glass. Will the middle guess beat most people? Why?
+  *Parent does:* Tell your child they will fill two glasses with chana and ask people to guess how many are in each. Ask whether the group's middle guess will be closer than most people's own guesses. Write down your child's answer and the reason.  
+  *Parent says:* We will ask a group to guess how many chana are in a glass. Will the middle guess of the group be closer than most people's own guesses? Why do you think so?  
+  *Child mode:* A group will guess how many chana are in a glass. Will the middle guess be closer than most people's guesses? Why?
   - Ask: Why do you think the group's middle guess will be good, or bad? (good: Some guess too low and some too high, so the middle is close.; Everyone is bad at guessing so the middle is bad too.; Not sure.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Roles: with one child, the child is the organiser who shows the glass, collects the slips and works out the middle guess, and the parent counts the chana. With two to four children, one child organises each glass in turn while the others guess along with the adults. Keep the dry chana away from toddlers, who can choke on them.
 - **s2 (10 min) · grown-up needed**  
@@ -365,12 +365,12 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Child mode:* Look at glass B. Say your guess out loud, one by one.
   - Note: Let the first speaker be whoever volunteers. Do not choose a confident person on purpose.
 - **s5 (6 min)**  
-  *Parent does:* Open the paper slips and the counts. Put each list in order from smallest to biggest. Circle the middle guess. Work out how far it is from the true number, and how far each person's guess is.  
+  *Parent does:* Open the guess slips and the folded papers with the true counts. Put each glass's guesses in order from smallest to biggest. Circle the middle guess. Work out how far it is from the true number, and how far each person's guess is.  
   *Parent says:* Open the slips. Put the guesses in order. Circle the middle one. How far is it from the true number? How far is each person's guess?  
-  *Child mode:* Put the guesses in order. Circle the middle one. Check each against the true number.
+  *Child mode:* Put the guesses in order. Circle the middle one. Check each guess against the true number.
   - Check: Seven guesses in order are 150, 180, 200, 210, 240, 260 and 330. Which is the middle guess? → **210**
 - **s6 (5 min)**  
-  *Parent does:* Ask your child for a claim, the evidence and the reason. Write all three.  
+  *Parent does:* Ask your child what they found (the claim), which numbers show it (the evidence) and why they think it happened (the reason). Write all three.  
   *Parent says:* What do you think the test shows? Which numbers show it? Were the spoken guesses closer together than the secret ones? Why do you think so?  
   *Child mode:* Say what you found. Say the numbers. Say why.
   - Ask: Did hearing other people's guesses make the group better, worse or the same? (good: The guesses were closer together, but not closer to the right number.; The group copied the first guesses.; It was about the same.)
@@ -382,7 +382,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 - **safety:** Look and count only. Do not touch or poke the ants, and do not put your hand on the trail. Some ants, such as red ants, bite. Keep sugar crumbs on a saucer, away from food, and wash your hands afterwards.
 - **record:** A tally table with five one-minute rows and four columns: ants passing, carrying something, standing still, touching another ant. At the end, add each column and say which was the biggest total.
 - **s1 (3 min)**  
-  *Parent does:* Find a line of ants in the kitchen, on a wall or on a window sill. Draw a table with five rows and four columns. Set a clock for five one-minute watches.  
+  *Parent does:* Find a line of ants in the kitchen, on a wall or on a window sill. Draw a table with five rows and four columns. Keep a clock or timer ready. You will watch for one minute, five times.  
   *Parent says:* Ants are almost always somewhere in the house. Find a line of them. Sit beside a patch as long as your hand. Today we only look and count. What do you notice?  
   *Child mode:* Find ants walking. Draw your table. Sit by a patch the size of your hand.
   - Note: If no ants are out, put a crumb of sugar on a saucer by the wall an hour before. Do not use sprays or powders near the ants. Before you watch, guess how many of ten ants will carry something. Watching four things at once is hard for one person. One child: tally two columns in the first minutes and the other two in the next, or let the parent tally two columns while the child tallies two. Two to four children: share the four columns between you, then put the tallies together. If you cannot find ants at all, watch a video of ants and tally from that, and say so in the notebook.
@@ -407,8 +407,8 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Child mode:* Draw a long line. Mark days 1, 10, 20, 30 and 40.
   - Note: The forty days is a round number. Real worker lifespans vary from three weeks to six weeks or more in summer.
 - **s2 (8 min)**  
-  *Parent does:* Colour five jobs along the line. Cleaner for days 1 to 3. Nurse for days 4 to 10. Builder or storer for days 11 to 18. Guard for days 19 to 21. Forager for day 22 until the end. Add a small picture to each.  
-  *Parent says:* Colour the jobs. Cleaner, days one to three. Nurse, days four to ten. Builder or storer, days eleven to eighteen. Guard, days nineteen to twenty-one. Forager, after day twenty-one.  
+  *Parent does:* Colour five jobs along the line. Colour days 1 to 3 as the cleaner job. Colour days 4 to 10 as the nurse job. Colour days 11 to 18 as the builder or storer job. Colour days 19 to 21 as the guard job. Colour day 22 until the end as the forager job. Add a small picture to each.  
+  *Parent says:* Now colour the jobs along the line. Days one to three are the cleaner job. Days four to ten are the nurse job. Days eleven to eighteen are the builder or storer job. Days nineteen to twenty-one are the guard job. After day twenty-one, she is a forager.  
   *Child mode:* Colour five jobs along the line. Add a picture for each.
   - Ask: Which job lasts longest on your line? (good: Forager.; The one at the end.)
   - Note: The days are a rough guide from studies of honeybees. Real bees vary, and the order is more reliable than the exact days.
@@ -417,13 +417,13 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Parent does:* Draw an arrow from the nurse part to the forager part. Write: a storm killed many foragers. Then write what you think happens next.  
   *Parent says:* A storm kills most of the hive's foragers. Draw an arrow showing a young nurse bee who starts foraging early. What do you think the hive does next?  
   *Child mode:* A storm kills the foragers. Draw an arrow for a young bee who forages early.
-  - Ask: What does your arrow show about a job and an age? (good: A job is not fixed to an age.; The hive changes the bee's job.; A young bee can do an older bee's job.)
-  - Note: Young bees that forage early tend to live shorter lives. After they have said what they think, you can tell them that. It is one reason a hive avoids changing jobs unless it has to.
+  - Ask: What does your arrow show about a bee's job and her age? (good: A job is not fixed to an age.; The hive changes the bee's job.; A young bee can do an older bee's job.)
+  - Note: Young bees that forage early tend to live shorter lives. After your child has said what they think, you can tell them that. It is one reason a hive avoids changing jobs unless it has to.
   - Think: What might go wrong if a young bee starts foraging much too early?
 ### a3 · Dance the Map: act out the waggle dance (25 min)
 - **record:** A drawing of your paper comb with the dance line and the number of taps, and a sketch map of the room with the real route to the sweet. For each round, write how many steps the follower stopped from the sweet, and compare round 1 with round 2.
 - **s1 (5 min)**  
-  *Parent does:* Tape a big paper to a wall. Draw an arrow pointing straight up, and write the Sun next to it. Put a chair in the middle of the room, facing the window. The chair is the hive.  
+  *Parent does:* Tape a big paper to a wall. Draw an arrow pointing straight up, and write 'Sun' next to it. Put a chair in the middle of the room, facing the window. The chair is the hive.  
   *Parent says:* This paper is the comb inside a dark hive. Straight up on the paper means towards the Sun. We will use the window for the Sun. The chair is the hive.  
   *Child mode:* Tape the paper to the wall. Draw an arrow up for the Sun. The chair is the hive.
   - Note: Choose a window that is easy to face from the chair. A real bee uses the angle from straight up to the direction of the Sun. You are doing the same with the window.
@@ -434,12 +434,12 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Note: Choose a hiding place that is clearly to the left or the right of the window direction. Count the steps together when you walk it.
 - **s3 (6 min)**  
   *Parent does:* The forager is the dancer. At the paper, the dancer draws a straight line from the middle. The line leans left or right of the up arrow, the same way the sweet leans from the window direction. Then the dancer taps along the line, one tap for each step.  
-  *Parent says:* Dancer, draw the line. Lean it the same way as the sweet is from the window. Then tap along the line. One tap for one step.  
+  *Parent says:* Dancer, draw a straight line from the middle of the paper. Lean it left or right of the up arrow, the same way the sweet lies left or right of the window. Then tap along the line, one tap for each step you walked.  
   *Child mode:* Draw the line leaning towards the sweet. Tap once for each step.
   - Ask: Why does the line on the paper lean to the left or the right? (good: Because the sweet is to the left or right of the window.; It shows the direction.; It shows the angle from the Sun.)
-  - Note: The dancer must not say or point. Only the line and the taps may be used. This is how the real dance works.
+  - Note: The dancer must not speak or point. Only the line and the taps may be used. This is how the real dance works.
 - **s4 (5 min)**  
-  *Parent does:* The other player looks only at the line and the taps. Stand on the chair side facing the window, and walk the angle and the number of steps. Then see how close you are to the sweet.  
+  *Parent does:* The other player looks only at the line and the taps. Stand at the chair, facing the window. Turn the way the line leans, and walk one step for each tap. Then see how close you are to the sweet.  
   *Parent says:* Follower, read the dance. Face the window. Turn the same way the line leans. Walk as many steps as the taps. Where did you stop?  
   *Child mode:* Face the window. Turn the way the line leans. Walk the number of taps.
   - Note: One child: the child and a parent swap the dancer and follower roles. Two to four children: take turns as hider, dancer, follower and step counter, and make a new round for each child. Write down how many steps away the follower stopped. Do not expect a perfect landing. If the follower stops a step or two from the sweet, that is a good result for a first try. Real bees are also only roughly right, and they get within a few metres.
@@ -482,18 +482,18 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Note: The water should be the same in every bottle, so fill them one after another from the same tap. The bundle should be as tight as you can tie it.
   - Check: Why do all six bottles get the same warm water? → **So only the arrangement can make a difference**
 - **s3 (3 min)**  
-  *Parent does:* Open the lid and put the thermometer tip into the middle bottle of the bundle, then into one lone bottle. Wait for the beep, write the value, and close the lid. Do both within one minute, always the bundle first. If you have no thermometer, do the hand test described in the note.  
+  *Parent does:* Open the lid and put the thermometer tip into the middle bottle of the bundle, then into one lone bottle. Wait for the beep, write the value, and close the lid. Do both within one minute, always the bundle first. If you have no thermometer, do the blind hand test described in the parent note.  
   *Parent says:* Check the middle bottle of the bundle, and one lone bottle. Write what you find. Use a thermometer, or the back of your hand.  
   *Child mode:* Check the middle bottle and a lone bottle. Write what you find.
-  - Note: Use the same thermometer for both and do them in the same order at the end. The middle bottle is the one with a bottle on each side of it. Without a thermometer, use a blind hand test: one person closes their eyes, another puts the same palm on the bundle bottle and a lone bottle for five seconds each, in a random order, and the first person says which is warmer. One child: the parent mixes up the bottles. Two to four children: one child reads the thermometer, one writes, and others do the blind test, then swap.
+  - Note: Use the same thermometer for both and do them in the same order at the end. The middle bottle is the one with a bottle on each side of it. Without a thermometer, use a blind hand test. One person closes their eyes. Another person guides that person's palm onto the bundle bottle and a lone bottle, for five seconds each, in a random order. The person with closed eyes says which is warmer. One child: the parent mixes up the bottles. Two to four children: one child reads the thermometer, one writes, and others do the blind test, then swap.
 - **s4 (14 min)**  
   *Parent does:* Leave the bottles for 20 minutes in total. While you wait, draw the two arrangements, and mark where you think the heat is going.  
   *Parent says:* Wait twenty minutes. While you wait, draw both arrangements. Mark with arrows where you think the heat is going.  
   *Child mode:* Wait. Draw both. Add arrows for where the heat goes.
-  - Note: Keep the bottles away from the fan, the window and the sun. Twenty minutes in total is the aim, so a few minutes from step 3 count towards this.
+  - Note: Keep the bottles away from the fan, the window and the sun. Twenty minutes in total is the aim, so the minutes you spent taking the first temperatures count towards this.
 - **s5 (3 min)**  
   *Parent does:* Check the middle bottle of the bundle and a lone bottle again. Write the values. Ask your child what they found and why.  
-  *Parent says:* Check the middle bottle and a lone bottle again. Which is warmer? How much? Why do you think so?  
+  *Parent says:* Check the middle bottle and a lone bottle again. Which is warmer? By how much? Why do you think so?  
   *Child mode:* Check the two bottles again. Which is warmer? Why?
   - Note: A bundle usually stays warmer, because the middle bottle has fewer open sides to lose heat from. A typical difference is about one degree after 20 minutes, and it can be even smaller in a hot room, where the water is already close to the air temperature. If the two read within 0.3 degree, you can say there was no clear difference, and try again in a cooler room or early morning. In hot weather you can also turn the test round: start with fridge-cold water and see which bottle warms up more slowly. Write exactly what you found.
   - Think: Honeybees in a cold place shiver their muscles to make heat. Why does it help them to be in a tight ball?
@@ -505,7 +505,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 - **schedule:** day 1: List every job done in your home in one day, and who does each. Draw the table. (25 min); day 2: Pick a person who is usually at home and could be away for a day (not someone whose absence makes the family sad). Plan who takes over their jobs, and what each swap will need. (15 min); day 3: Do one job swap for an hour. Talk about what was easy, what took time, and what you learned. (20 min)
 - **s1 (10 min)**  
   *Parent does:* Draw a table with four columns: the job, who does it, how long it takes, and how often. Walk around the home and write down at least ten jobs.  
-  *Parent says:* Every home has jobs. Cooking, sweeping, washing, shopping, watering, helping with homework. Let's write them all down. Who does each one?  
+  *Parent says:* Every home has jobs, such as cooking, sweeping, washing, shopping, watering plants and helping with homework. Let's write them all down, and then say who does each one.  
   *Child mode:* Draw your table. Walk round your home. List ten jobs.
 - **s2 (15 min)**  
   *Parent does:* Ask each person at home which jobs they do and how long each takes. Fill in the table. Colour the jobs of each person in a different colour.  
@@ -538,7 +538,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 - **your turn:** Test two of your own ideas, each in its own box against the plain box, in the same window for 20 minutes. Then pour the meltwater from each katori into a small glass, and count the teaspoons. The box with the least meltwater kept its ice best. Pick the best, and say why it works.
 - **constraints:** Use only things you have at home.; Use shoeboxes or similar cardboard boxes of the same size. One stays plain, as the comparison, and each design gets its own box.; Use an ice cube of the same size in a steel katori in each box. Take the cubes out of the freezer only when everything else is ready.; The lid must stay on, but you may cut up to four small holes, each as wide as a finger.; Never use a flame or a hot stove.
 - **general:** Cover the whole box with foil, shiny side out, to reflect the sunlight.; Line the inside of the box with crumpled newspaper, so heat has a harder time getting in.; Paint or cover the outside with white paper, because white reflects more light.
-- **creative:** Cut two holes, one low and one high, and fit straw chimneys, so warm air can leave at the top and cooler air can come in below.; Make a double wall of cardboard with an air gap between, like a termite mound's thick wall.; Put the box on an upturned tray and a wet cloth, so water evaporating takes heat away.
+- **creative:** Cut two holes, one low and one high, and fit straw chimneys, so warm air can leave at the top and cooler air can come in below.; Make a double wall of cardboard with an air gap between, like a termite mound's thick wall.; Put the box on an upturned tray, with a wet cloth around it. When the water in the cloth dries into the air, that takes heat away from the box.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Ask how termites and bees keep a nest cool. List the ideas on paper.  
   *Parent says:* A termite mound and a beehive both have to stay cool in the Indian summer. How could a nest lose heat or stop heat from getting in? List some ideas.  
@@ -546,7 +546,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Ask: What helps you stay cool on a hot day? (good: A fan.; White clothes.; Shade.; Water.)
   - Note: Termites build mounds with tunnels that let air move through, and bees fan their wings at the door. In a flat you can copy the idea with vents and covers.
 - **s2 (10 min)**  
-  *Parent does:* Build your design in one box. Leave one box plain. If you have a third box, build a second, different idea in it. Cut up to four small holes in a designed box. A grown-up cuts the holes. Do not touch the plain box.  
+  *Parent does:* Build your design in one box. If you have a third box, build a second, different idea in it. A grown-up may cut up to four small holes in each design box. Leave one box plain and do not change it.  
   *Parent says:* Choose your ideas. Build them into one box. Leave the other plain. You may cut up to four small holes.  
   *Child mode:* Build your design in one box. Leave one plain.
   - Note: Help only with scissors. Let your child decide on the design. A design that does not work is still a result.
@@ -591,7 +591,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
    Options: Honeybee / Termite / Naked mole-rat / Indian elephant  
    **Answer:** 3. *Why:* Honeybees, termites and naked mole-rats have one breeding female and many helpers. An Indian elephant herd is led by an older female, but most grown females can have calves.
 12. (draw) Draw the door of a beehive and three bees at it. Show a guard, a bee that is fanning her wings, and a forager coming home with pollen. Write one label for each.  
-   **Answer:** A hive door with three bees. The guard stands at the door facing a bee that has just arrived. The fanning bee has her wings blurred, and she stands at the entrance. The forager has yellow lumps on her back legs.. *Why:* A strong drawing shows each bee doing something different at the same door. That is division of labour at a single spot.
+   **Answer:** A hive door with three bees. The guard stands at the door facing a bee that has just arrived. The fanning bee has her wings blurred, and she stands at the entrance. The forager has yellow lumps on her back legs.. *Why:* A strong drawing shows each bee doing something different at the same door. That is division of labour at a single spot, because each bee has her own job.
 13. (count) A hive has 30,000 bees. About 1 in 3 are foragers right now. How many foragers is that?  
    **Answer:** 10000. *Why:* One third of 30,000 is 30,000 divided by 3, which is 10,000. The other 20,000 are doing jobs inside the hive.
 14. (perspective) A swarm of bees has settled on the grill of a balcony in a block of flats. The residents are deciding what to do.  
@@ -616,7 +616,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
    **Answer:** ['quorum']. *Why:* Honeybee swarms use a quorum of about fifteen scouts at one site before they take off. Many human groups, such as a school committee, use quorums too.
 7. (mcq) Five people guessed how many chana were in a glass. The guesses, in order, were 120, 250, 280, 310 and 650. The true number was 300. How many of the five guesses were closer to 300 than the middle guess?  
    Options: None / One / Three / All of them  
-   **Answer:** One. *Why:* The middle guess is 280, which is 20 from 300. Only the guess of 310 is closer, at 10. The other three are further away, so the middle guess beat four of the five people but not all.
+   **Answer:** One. *Why:* The middle guess is 280, which is 20 from 300. Only the guess of 310 is closer, at 10. The other three are further away, so the middle guess was closer than three of the other four people, but not closer than all of them.
 8. (sort) Sort each situation. Will a crowd's middle guess probably be close to the true number, or probably be wrong?  
    **Answer:** Everyone guesses alone, and some guess too high while others guess too low → Probably close; Everyone copies the first person's guess → Probably wrong; A trick makes every jar look half as full as it is → Probably wrong; Fifty people with different ideas each guess in secret → Probably close. *Why:* A crowd cancels out mistakes that go in different directions. It cannot cancel out a mistake that everyone shares, such as copying or a trick that fools everyone the same way.
 9. (odd) Three of these help to hold an ant or bee colony together. Which one is the odd one out?  
@@ -627,7 +627,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 11. (match) Match each society to something that belongs to its way of life.  
    **Answer:** Naked mole-rat → a chain of diggers passing soil backwards; Termite → a fungus garden that feeds the whole colony; Honeybee → a dance that tells others the direction of food; Ant → a pouch for sharing food mouth to mouth; Paper wasp → a nest of paper made from chewed wood. *Why:* Eusocial animals work together in different ways. They share the idea of a few breeders and many helpers, but their jobs and tools are different.
 12. (label) Here is a picture of a field map. The hive is at the bottom, the Sun's direction is a line going up, and a field of flowers is to the right. Label the three things.  
-   **Answer:** ['Hive: where the dance happens', 'Direction of the Sun: the line that straight up on the comb stands for', "Flower field: the place the dance describes, to the right of the Sun's direction"]. *Why:* A dancer turns the position of a field into an angle on the comb. The hive is the starting point, and the Sun's direction is the line that the angle is measured from.
+   **Answer:** ['Hive: where the dance happens', 'Direction of the Sun: the line that stands for straight up on the comb', "Flower field: the place the dance describes, to the right of the Sun's direction"]. *Why:* A dancer turns the position of a field into an angle on the comb. The hive is the starting point, and the Sun's direction is the line that the angle is measured from.
 13. (draw) Draw two bee dances on the comb. One is for flowers close to the hive, and one is for flowers very far away. Show what is different.  
    **Answer:** Two combs. On the first, a short waggle run. On the second, a much longer waggle run. Both runs lean at some angle from straight up.. *Why:* The length of the waggle run tells the distance. A short run means near. A long run means far.
 14. (perspective) Is a honeybee hive one animal or thousands of animals?  
@@ -653,8 +653,8 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 7. (write) Why does a swarm wait for a quorum of scouts before it flies, instead of going as soon as one scout says she has found a home?  
    **Answer:** One scout may have found a poor home or made a mistake. If about fifteen scouts have all checked the same place themselves, the choice is much more likely to be good. A quorum protects the swarm from one scout's mistake.. *Why:* A strong answer says that one scout can be wrong and that many independent checks make the choice safer.
 8. (mcq) A scout dances very long for a poor hollow. In real swarms, why does this usually not drag the swarm into a poor home?  
-   Options: Scouts dance fewer circuits each time they return, so only homes that keep winning new scouts stay alive / The queen stops her / The poor hollow shrinks / Other scouts cannot see her  
-   **Answer:** Scouts dance fewer circuits each time they return, so only homes that keep winning new scouts stay alive. *Why:* A scout's dancing fades with each trip. A good hollow keeps bringing in new scouts, who dance for it as well. A poor hollow does not, so its dances fade away.
+   Options: Each scout dances less every time she returns, so only homes that keep winning new scouts stay in the running / The queen stops her / The poor hollow shrinks / Other scouts cannot see her  
+   **Answer:** Each scout dances less every time she returns, so only homes that keep winning new scouts stay in the running. *Why:* A scout's dancing fades with each trip. A good hollow keeps bringing in new scouts, who dance for it as well. A poor hollow does not, so its dances fade away.
 9. (truefalse) Scientists have shown that resting ants are useless, so colonies would do better with fewer of them.  
    **Answer:** False. *Why:* False. Scientists have not shown this. The resting ants may be a reserve, they may be taking turns to rest, or they may be doing something we cannot see.
 10. (perspective) Scientists argue about why the resting ants in a colony are resting.  
@@ -716,7 +716,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 ## Applications
 - Beekeepers catch swarms in boxes in the first days after they leave a hive, when the bees are gentle. This gives a new hive for free.
 - Weather services run a computer forecast many times with slightly different starting numbers, and average the answers. Like a crowd's middle guess, the average is usually better than any single run.
-- Scientists decode the waggle dances inside hives to find out which fields and flowers bees use, and farmers and conservationists use the results to plan where to plant flowers.
+- Scientists read the waggle dances inside hives to find out which fields and flowers bees use, and farmers and conservationists use the results to plan where to plant flowers.
 - The architect of a large office building in Harare, Zimbabwe, took ideas for cooling from termite mounds. His design lets air move through the building with very little machinery. The design was inspired by termite mounds, not copied from them.
 - Hospitals, factories and kitchens train staff to do more than one job, so that the work does not stop when one person is away. This is the same lesson as a hive in which bees can change jobs.
 - Eva Crane (1912 to 2007) was a British scientist who began in physics and became the world's expert on beekeeping. She visited more than sixty countries and wrote a world history of beekeeping and honey hunting, which includes the old methods of India.
@@ -758,7 +758,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 - Where do sick bees go to get better? *To the waspital.*
 
 ## Connected maths
-- A girl in Class 4 did the job of 12 paper squares one at a time in 144 seconds. She did the same job one step at a time in 120 seconds. How much time per square did the second way save? How much would it save over 300 squares? **2 seconds per square, and 600 seconds over 300 squares. That is 10 minutes.**. 144 minus 120 is 24 seconds saved over 12 squares. 24 divided by 12 is 2 seconds each. For 300 squares, 300 times 2 is 600 seconds, and 600 divided by 60 is 10 minutes. (queues `math.time.duration.L4`)
+- A job of 12 paper squares took 144 seconds when it was done one square at a time. The same job took 120 seconds when it was done one step at a time. How much time per square did the second way save? How much would it save over 300 squares? **2 seconds per square, and 600 seconds over 300 squares. That is 10 minutes.**. 144 minus 120 is 24 seconds saved over 12 squares. 24 divided by 12 is 2 seconds each. For 300 squares, 300 times 2 is 600 seconds, and 600 divided by 60 is 10 minutes. (queues `math.time.duration.L4`)
 - A honeybee dancer waggles for 3 seconds. Take one second of waggle to mean about 1 kilometre. A bee flies about 6 metres in one second. About how long will the flight to the flowers take? **About 500 seconds, which is 8 minutes and 20 seconds.**. 3 seconds of waggle means about 3 kilometres, which is 3,000 metres. 3,000 divided by 6 is 500 seconds. 500 seconds is 8 minutes and 20 seconds, because 8 times 60 is 480. (queues `math.length.kilometres-and-conversions.L4`)
 - On the comb, a dancer's waggle run leans 90 degrees to the right of straight up. Straight up stands for the Sun's direction. In the morning the Sun is in the east. If you face the Sun, in which direction is the food? **South.**. Facing east, your right hand points south. A turn of 90 degrees to the right from east is south. If the run leaned 90 degrees to the left, the food would be north. (queues `math.lines-angles.angles.L4`)
 - In The Swarm Chooses game, the cup holds 3 moong dal, 5 chana and 12 rajma beans. A scout draws one pulse without looking. What fraction of the pulses in the cup are rajma, in simplest form? Which site is most likely to be visited next? **3 out of 5, written 3/5. Site C, the rajma site, is the most likely.**. The cup holds 3 plus 5 plus 12, which is 20 pulses. Rajma is 12 of them. 12 over 20 simplifies to 3 over 5, by dividing both numbers by 4. Rajma has the biggest share, so it is the most likely draw. (queues `math.probability.likely-and-unlikely.L4`)

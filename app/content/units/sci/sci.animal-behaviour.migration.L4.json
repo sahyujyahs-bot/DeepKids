@@ -8,7 +8,7 @@
   },
   "intro": {
     "hook": "In winter, ducks, waders and swallows appear on our lakes, canals and wires. In summer, they are gone. Where were they, and what did they do to get here?",
-    "text": "Many of the birds you see in India from October to March spent the summer thousands of kilometres away, in Siberia, Mongolia or the Himalaya. A small bird cannot carry a packed lunch. So how does her body pay for a trip like that?",
+    "text": "Many of the birds you see in India from October to March spent the summer thousands of kilometres away, in Siberia, Mongolia or the Himalaya. A small bird cannot carry a bag of food with her. So how does her body get enough energy for a trip that long?",
     "art": "A flock of birds on a lake in winter with a large map behind them showing dotted lines going north to Siberia."
   },
   "outcomes": [
@@ -72,7 +72,7 @@
     },
     {
       "term": "Fuel",
-      "meaning": "Something that stores energy a body can use. A body burns food or fat as fuel.",
+      "meaning": "Something that a body burns to get energy. Food and fat are both fuels for a body.",
       "example": "Fat is the fuel a bird burns as she flies over the sea.",
       "art": "A bird in flight with a small fire symbol in her chest and a stripe of yellow fat under the skin."
     },
@@ -151,7 +151,7 @@
       "concept": "Stopovers: a flyway is a chain",
       "status": "defined",
       "definition": "A flyway is a chain of places. A bird needs every link in the chain: where she breeds, where she winters, and the stopovers where she refuels in between.",
-      "description": "Many migrants do not fly the whole way in one go. They fly for a few days, land at a good place, and feed for a week or two to build their fat again. This is a stopover. A stopover can be small, such as a lake or a stretch of mud, but thousands or millions of birds may depend on it. If a stopover is drained or built over, the birds that used it arrive hungry at the next place, or fall into the sea on the way. The flyway is only as strong as its weakest link, and the birds can do nothing about the loss. A country that guards its own wetlands is looking after birds that belong to other countries too, and other countries are looking after theirs.",
+      "description": "Many migrants do not fly the whole way in one go. They fly for a few days, land at a good place, and feed for a week or two to build their fat again. This is a stopover. A stopover can be small, such as a lake or a stretch of mud, but thousands or millions of birds may depend on it. If a stopover is drained or built over, the birds that used it arrive hungry at the next place, or fall into the sea on the way. A flyway is only as strong as its weakest link, and the birds themselves can do nothing about a lost stopover. So a country that protects its wetlands is also looking after birds that breed in other countries. In the same way, other countries protect wetlands that these birds use too.",
       "examples": [
         "Chilika Lake in Odisha is a wintering ground and a stopover for many thousands of water birds.",
         "The tidal mudflats of the Yellow Sea are a key stopover for waders on the way between Australia and the Arctic.",
@@ -212,7 +212,7 @@
       "concept": "How we know: rings, tags and radar",
       "status": "defined",
       "definition": "We follow migrants by marking them (rings), by tags that record or send their position (geolocators and satellite tags), by radar that sees flocks in the sky, and by counts that many people share.",
-      "description": "A ring is the cheapest and oldest way. A bird is caught, ringed and let go. If she is found or caught again, the number tells us where she has been. Rings tell us about two points on a journey but not what happened in between. A satellite tag sends her position for months. Tags are light, and a rule of thumb is that a tag should weigh no more than a few parts in a hundred of a bird's weight, so a heavy tag only suits a big bird. A geolocator is lighter, but the bird must be caught again to get the data. Weather radar can show the flocks of birds that fly at night. Millions of people also add their sightings to databases such as eBird, which show the arrival of birds week by week.",
+      "description": "A ring is the cheapest and oldest way. A bird is caught, ringed and let go. If she is found or caught again, the number tells us where she has been. Rings tell us about two points on a journey but not what happened in between. A satellite tag sends her position for months. Tags are light. As a rough rule, a tag should weigh no more than a few percent of the bird's weight, so a heavy tag only suits a big bird. A geolocator is lighter, but the bird must be caught again to get the data. Weather radar can show the flocks of birds that fly at night. Millions of people also add their sightings to databases such as eBird, which show the arrival of birds week by week.",
       "examples": [
         "Salim Ali and the Bombay Natural History Society ringed birds in India for many years.",
         "A satellite tag showed a young godwit flying non-stop for 11 days.",
@@ -950,7 +950,7 @@
           "mins": 9,
           "context": "In this step, you fly 12 birds along the chain with all four wetlands. This is round 1.",
           "do": "Fly one bird at a time from the Start to Kerala. For each leg, take away 1 bean, roll the die, and take away one more bean if the die shows 1 or 2. If she does not have enough beans, she falls. At each wetland, roll to feed. Tally the birds that arrive and the birds that fall. Do this for all 12 birds.",
-          "say": "Fly the first bird. Spend a bean for the leg. Roll for a headwind. Then roll to feed at the wetland. Keep a tally of birds that arrive and birds that fall. Twelve birds, one by one.",
+          "say": "Fly the first bird. For each leg, spend one bean. Then roll the die to see if there is a headwind, which costs one more bean. When she lands at a wetland, roll the die to feed. Keep a tally of birds that arrive and birds that fall. Twelve birds, one by one.",
           "kid": "Fly one bird at a time. Spend beans. Roll the die. Tally the birds that arrive and fall.",
           "parent": "Each bird takes about 40 seconds, so this round takes about 8 minutes. The grown-up and child can take turns rolling. With 2 to 4 children, each flies 3 to 6 of the 12 birds at the same time on their own paper flyway (the same rules), and one child keeps the tally. Typical result: about 9 or 10 arrive, and 2 or 3 fall. This is a typical result and not a promise.",
           "check": {
@@ -1060,7 +1060,7 @@
           "mins": 4,
           "context": "This is the first step of the sorting activity. You learn the four labels.",
           "do": "Read the four labels. A resident stays all year. A winter visitor comes for the northern winter. A summer visitor comes to breed in the warm months. A passage migrant stops only for days or weeks on the way to somewhere else.",
-          "say": "Birders use four labels. A resident stays all year. A winter visitor comes for our winter. A summer visitor comes to nest. A passage migrant only stops by. Which birds do you think you have seen here?",
+          "say": "Birders use four labels. A resident stays all year. A winter visitor comes for our winter. A summer visitor comes to nest. A passage migrant only stops here for a few days or weeks, on her way somewhere else. Which birds do you think you have seen here?",
           "kid": "There are four labels. A resident stays all year. A winter visitor comes in winter. A summer visitor comes to nest. A passage migrant only passes through.",
           "ask": [
             {
@@ -1077,7 +1077,7 @@
           "id": "s2",
           "mins": 6,
           "context": "In this step, you sort eight birds by their clues.",
-          "do": "Read each clue and put the bird under one of the four labels. House crow: seen in every month, and nests here. Rock pigeon: seen in every month. Rosy starling: arrives in autumn and leaves in spring. Barn swallow: arrives in autumn and leaves in spring. Northern pintail: on lakes from autumn to spring. Pied cuckoo: arrives with the monsoon, nests, and leaves. Amur falcon: here for three weeks in October and November. Cattle egret: seen in every month.",
+          "do": "Read each clue and put the bird under one of the four labels. The house crow is seen in every month, and nests here. The rock pigeon is seen in every month. The rosy starling arrives in autumn and leaves in spring. The barn swallow arrives in autumn and leaves in spring. The northern pintail is on lakes from autumn to spring. The pied cuckoo arrives with the monsoon, nests, and leaves. The Amur falcon is here for three weeks in October and November. The cattle egret is seen in every month.",
           "say": "Read each clue. Which label fits each bird? Think about when she is here and when she is not. There are three residents, three winter visitors, one summer visitor and one passage migrant.",
           "kid": "Read each clue. Put each bird under a label. Think about when you see her.",
           "ask": [
@@ -1162,8 +1162,8 @@
             {
               "q": "What do you think the line will look like when the goose is flying, and when she is resting?",
               "good": [
-                "Flying: the line goes down quickly.",
-                "Resting: the line stays flat."
+                "When she is flying, the line goes down quickly.",
+                "When she is resting, the line stays flat."
               ]
             }
           ],
@@ -1674,7 +1674,7 @@
         "A light tag gives better pictures"
       ],
       "a": 0,
-      "why": "A tag is extra weight that the bird carries on every wingbeat. A common rule is that it should be only a few parts in a hundred of her weight.",
+      "why": "A tag is extra weight that the bird carries on every wingbeat. A common rule is that it should weigh only a few percent of her weight.",
       "outcome": 5
     },
     {
@@ -1860,7 +1860,7 @@
           "t": "truefalse",
           "p": "A tag on a bird can weigh as much as the scientists like.",
           "a": false,
-          "why": "False. A tag adds weight that the bird must carry on every wingbeat. Scientists keep it to a few parts in a hundred of her weight.",
+          "why": "False. A tag adds weight that the bird must carry on every wingbeat. Scientists keep it to a few percent of her weight.",
           "outcome": 5
         },
         {
@@ -2678,21 +2678,21 @@
       "evidence": "In the Midnight Sun Spin, the dot near the top of the orange stayed in the light for the whole turn when the top leaned towards the torch. The far north is lit like that in summer. Under that light, insects hatch, mudflat worms and shellfish thrive, and waders feed. A godwit then flies 11 days on fat alone, and the gut that held the food has shrunk."
     },
     "three": {
-      "who_am_i": "Part of what you were made from last year came from a field, a sea or a river somewhere else. A godwit shows it more clearly: her fat comes from a marsh in one country and burns in the sky over another.",
-      "what_is_life": "A bird in flight is burning something that grew in the sunlight of another place a few weeks ago. Life moves energy from place to place, and migrants carry it farthest.",
+      "who_am_i": "The food you ate last year grew in a field, a sea or a river somewhere else, and it became part of your body. A godwit shows it more clearly: her fat comes from a marsh in one country and burns in the sky over another.",
+      "what_is_life": "A bird in flight is burning something that grew in the sunlight of another place a few weeks ago. Living things move energy from place to place. Migrating animals carry it the farthest.",
       "what_is_this_world": "The tilt of the Earth decides how long the days are. Long days bring the insects, the insects become the bird's fat, and the fat makes the journey possible. So one tilt shapes the whole yearly movement of birds."
     },
-    "thread": "Everything a godwit burns began as sunlight. Plants and algae caught it, small animals ate them, and the bird ate the small animals. The same energy then lifts her across the sea. The bird made nothing in this chain. The energy only passes through her, on its way from the Sun to the sky. Zero becomes One becomes the many. Here the many are the marsh, the midge, the godwit and the wind, and one flow of energy runs through them all. When you look closely, the line between the bird and her places is hard to find.",
+    "thread": "Everything a godwit burns began as sunlight. Plants and algae caught it, small animals ate them, and the bird ate the small animals. The same energy then lifts her across the sea. The bird did not make any of this energy. It passes through her on its way from the Sun to the sky. The marsh, the midge, the godwit and the wind are all parts of one flow of energy. So it is hard to say exactly where the bird ends and the places she depends on begin.",
     "teachings": [
       {
         "source": "Taittiriya Upanishad 3.2",
         "teaching": "The Upanishad says, in our own words, that food is the source of all beings. From food they are born, by food they live, and into food they go back.",
-        "link": "A godwit is made of the insects she ate, and she is later eaten or returns to the soil. Her body is food that holds the shape of a bird for a while."
+        "link": "A godwit is made of the insects she ate, and she is later eaten or returns to the soil. Her body is made of food, and for a while that food has the shape of a bird."
       },
       {
         "source": "Zhuangzi (Chuang Tzu), chapter 1, Free and Easy Wandering",
         "teaching": "The Chinese teacher Zhuangzi tells of a huge bird, the Peng, who rises 90,000 li on a great wind, on her way to the southern sea. A small dove and a cicada laugh at her: why go so far when a short flight to the next bush is enough?",
-        "link": "A wader, a sparrow and a crow all see the same sky. The journey that looks pointless to one is the whole life of another."
+        "link": "A godwit, a sparrow and a crow all live under the same sky, but each has a very different way of living. A long journey that looks pointless to a sparrow is the whole way of life of a godwit."
       }
     ],
     "science": [
@@ -2729,5 +2729,117 @@
     "wrong_idea": "Many people believed that swallows slept at the bottom of ponds in winter, and that small birds were too weak to cross seas. Spear-carrying storks and thousands of ring recoveries showed they fly to other continents."
   },
   "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Checked: the orange-and-torch model needs a dark room and a torch about 40 centimetres away, and the lean must be held steady while the orange turns, so a grown-up helps. The counts may be off by one or two. The dice flyway gives about 10 of 12 arriving with all four wetlands and about 6 of 12 with one drained, from a simulation of the rules, and real rolls vary, so the step says to repeat. Eat or Fly takes about 20 turns on average in a simulation. The Mudflat Buffet is fiddly with rice and lentils, so try each bill twice. The tracker graph uses imagined numbers, and the unit says so. Facts checked against sources: the 2022 godwit flight (13,560 kilometres in about 11 days), bar-headed geese above 6,000 metres, the Naga, Pangti and Wokha falcons of 2013, Bano Haralu's part in the Nagaland campaign, Morton's 1703 Moon claim and the 1822 Klutz stork. The Yellow Sea figure is softened to an estimate of up to about two thirds. All three videos are still to be found.",
- "warm": {"words": ["MARSH", "FLOCK", "NORTH", "WINGS", "GEESE"], "quiz": [["Birds store fat before a long flight because fat holds more energy than anything else for its weight.", true, "Fat is the lightest way to carry a lot of fuel, which matters when you must fly with it."], ["Birds migrate because it gets too cold for them.", false, "Crows and sparrows stay through hard winters, and some tropical birds migrate; food and space matter more."], ["Animals migrate when what they gain from moving is bigger than the cost of the journey.", true, "The gain is usually food, space or safety for young, and it must be worth the journey."], ["Swallows spend the winter asleep in the mud at the bottom of ponds.", false, "Ringed swallows were found in southern Africa in winter, and nobody has found one breathing under water."], ["Losing one stopover can harm birds that use a flyway, even if their other places stay safe.", true, "A flyway is a chain of places, and a bird needs every link to finish her journey."], ["Wind and thin air make no difference to how much energy a flight costs.", false, "A tailwind saves energy, while a headwind and thin air make a bird work harder."], ["Far northern places have very long days in summer because the Earth's axis is tilted.", true, "In summer the far north leans towards the Sun, giving long days with lots of food for chicks."], ["Light tags usually harm the birds badly.", false, "Most studies find little harm, and tracking has found stopovers that now get protection."], ["A bird kept in constant light can still get restless at the usual time of year.", true, "A yearly clock inside her body helps set the time, along with day length."], ["Only birds migrate.", false, "Fish, turtles, insects, whales and mammals migrate too, and moving up and down a mountain counts."]], "odd": [[["Crow", "House sparrow", "Rock pigeon", "Bar-headed goose"], "Bar-headed goose", "The first three live in one place all year; the bar-headed goose migrates over the Himalayas."], [["Bigger flight muscles", "Extra stored fat", "Smaller gut", "Larger gut"], "Larger gut", "A bird rebuilds her body for the journey with more muscle and fat and a smaller gut; a larger gut would add weight."], [["Numbered leg ring", "Light geolocator", "Satellite tag", "Old story of swallows sleeping in mud"], "Old story of swallows sleeping in mud", "The first three give real evidence of where birds go; the mud story was never found to be true."], [["Breeding place", "Wintering place", "Stopover", "Day length"], "Day length", "The first three are places in a bird's flyway chain; day length is a measure of time, not a place."], [["Far north in June", "Alaska in June", "Siberia in June", "Kerala in June"], "Kerala in June", "The first three lean towards the Sun in summer and have very long days; Kerala is near the equator."]]}
+  "warm": {
+    "words": [
+      "MARSH",
+      "FLOCK",
+      "NORTH",
+      "WINGS",
+      "GEESE"
+    ],
+    "quiz": [
+      [
+        "Birds store fat before a long flight because fat holds more energy than anything else for its weight.",
+        true,
+        "Fat is the lightest way to carry a lot of fuel, which matters when you must fly with it."
+      ],
+      [
+        "Birds migrate because it gets too cold for them.",
+        false,
+        "Crows and sparrows stay through hard winters, and some tropical birds migrate; food and space matter more."
+      ],
+      [
+        "Animals migrate when what they gain from moving is bigger than the cost of the journey.",
+        true,
+        "The gain is usually food, space or safety for young, and it must be worth the journey."
+      ],
+      [
+        "Swallows spend the winter asleep in the mud at the bottom of ponds.",
+        false,
+        "Ringed swallows were found in southern Africa in winter, and nobody has found one breathing under water."
+      ],
+      [
+        "Losing one stopover can harm birds that use a flyway, even if their other places stay safe.",
+        true,
+        "A flyway is a chain of places, and a bird needs every link to finish her journey."
+      ],
+      [
+        "Wind and thin air make no difference to how much energy a flight costs.",
+        false,
+        "A tailwind saves energy, while a headwind and thin air make a bird work harder."
+      ],
+      [
+        "Far northern places have very long days in summer because the Earth's axis is tilted.",
+        true,
+        "In summer the far north leans towards the Sun, giving long days with lots of food for chicks."
+      ],
+      [
+        "Light tags usually harm the birds badly.",
+        false,
+        "Most studies find little harm, and tracking has found stopovers that now get protection."
+      ],
+      [
+        "A bird kept in constant light can still get restless at the usual time of year.",
+        true,
+        "A yearly clock inside her body helps set the time, along with day length."
+      ],
+      [
+        "Only birds migrate.",
+        false,
+        "Fish, turtles, insects, whales and mammals migrate too, and moving up and down a mountain counts."
+      ]
+    ],
+    "odd": [
+      [
+        [
+          "Crow",
+          "House sparrow",
+          "Rock pigeon",
+          "Bar-headed goose"
+        ],
+        "Bar-headed goose",
+        "The first three live in one place all year; the bar-headed goose migrates over the Himalayas."
+      ],
+      [
+        [
+          "Bigger flight muscles",
+          "Extra stored fat",
+          "Smaller gut",
+          "Larger gut"
+        ],
+        "Larger gut",
+        "A bird rebuilds her body for the journey with more muscle and fat and a smaller gut; a larger gut would add weight."
+      ],
+      [
+        [
+          "Numbered leg ring",
+          "Light geolocator",
+          "Satellite tag",
+          "Old story of swallows sleeping in mud"
+        ],
+        "Old story of swallows sleeping in mud",
+        "The first three give real evidence of where birds go; the mud story was never found to be true."
+      ],
+      [
+        [
+          "Breeding place",
+          "Wintering place",
+          "Stopover",
+          "Day length"
+        ],
+        "Day length",
+        "The first three are places in a bird's flyway chain; day length is a measure of time, not a place."
+      ],
+      [
+        [
+          "Far north in June",
+          "Alaska in June",
+          "Siberia in June",
+          "Kerala in June"
+        ],
+        "Kerala in June",
+        "The first three lean towards the Sun in summer and have very long days; Kerala is near the equator."
+      ]
+    ]
+  }
 }

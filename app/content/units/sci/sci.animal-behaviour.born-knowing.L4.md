@@ -35,10 +35,10 @@
 **Definition:** A reflex is a fast, automatic response of the body to one particular stimulus. Nobody has to learn it.
 
 Something rushes at your eye, and your eyelid shuts. You did not plan to shut it. The thing that sets a reflex off is called the stimulus, or the trigger. What the body then does is called the response. Each reflex has a trigger of its own. A drop of lemon juice makes your mouth water, but a loud clap does not. A reflex works in four steps. Sensors in the skin, the eye or the tongue pick up the trigger. A message runs along a nerve to the spinal cord or to the lowest part of the brain. A second message runs straight back to a muscle. The muscle pulls. The message does not wait for the parts of the brain that plan. That is why a reflex is so fast. When you touch a hot tumbler, your hand is already moving away before you feel the pain. After a tap below the kneecap, the thigh muscle starts to pull in less than a twentieth of a second. A nerve message is a tiny wave of electricity. It is made by charged particles moving in and out of the nerve cell. The fastest nerves carry a message about 100 metres in one second.
-- e.g. Blink: something rushes at the eye, and the eyelid shuts.
-- e.g. Mouth-watering: sour juice touches the tongue, and saliva flows.
-- e.g. Pulling away: skin touches something hot, and the arm muscles pull the hand back.
-- e.g. Knee kick: a tap below the kneecap, and the lower leg swings forward.
+- e.g. The blink. When something rushes at the eye, the eyelid shuts.
+- e.g. Mouth-watering. When sour juice touches the tongue, saliva flows.
+- e.g. Pulling away. When skin touches something hot, the arm muscles pull the hand back.
+- e.g. The knee kick. After a tap below the kneecap, the lower leg swings forward.
 ### The diving reflex: a reflex you share with seals · *defined*
 **Definition:** In the diving reflex, the heart slows when the face is in cold water and the breath is held.
 
@@ -66,14 +66,14 @@ A common cuckoo chick hatches in the nest of another kind of bird. On the first 
 **Definition:** A sign stimulus is the one feature of a thing that sets off an inborn behaviour. Scientists find it by showing animals simple models called dummies.
 
 A herring gull has a red spot on the lower part of her yellow beak. Her chick pecks at the spot, and the pecking makes her bring up food. Niko Tinbergen and his student Ab Perdeck showed gull chicks cardboard heads. A head with no spot got few pecks. A head with a red spot got many. The chick was responding mostly to one feature, a red patch on a long thin shape. A male stickleback fish guards his nest in spring, when other males have red undersides. Tinbergen reported that males attacked rough wax lumps with red undersides. They left lifelike models with no red alone. A mother hen runs to a chick she can hear cheeping, even behind a screen. In one old test, a hen could see a chick struggling under a glass cover but could not hear them. She did not go to the chick. A simple trigger is quick to pick up, and in nature it is nearly always right. In a gull colony, a red spot above a chick really is a parent. But a simple trigger can be fooled. In Australia, male jewel beetles were found clinging to brown beer bottles beside the road. The shiny brown glass with its small bumps had the features of a female beetle's back.
-- e.g. Red spot on a beak: a gull chick pecks.
-- e.g. Red underside: a male stickleback attacks.
-- e.g. Cheeping sound: a mother hen comes running.
-- e.g. Any round thing near her nest: a goose rolls the round thing in.
+- e.g. A gull chick pecks at the red spot on a parent's beak.
+- e.g. A male stickleback attacks anything with a red underside.
+- e.g. A mother hen comes running when she hears a chick cheeping.
+- e.g. A goose rolls in any round thing that lies near her nest.
 ### Supernormal stimuli: stronger than the real thing · *defined*
 **Definition:** A supernormal stimulus is a made-up trigger that works better than the real one. Its key feature has been made bigger or stronger.
 
-Tinbergen offered an oystercatcher, who is a shore bird, a choice of eggs to sit on. One was her own. One was a giant egg, far too big for her to cover. She tried to sit on the giant egg. Herring gull chicks were shown a lifelike model of a parent's head and a thin red stick with white bands. They pecked more at the stick. The stick had more of what the chicks respond to: redness, thinness and contrast. In nature this causes no trouble, because no real egg is ever that big. So there was never a need for a rule that says 'too much'. Only someone with paint and plaster can go past the limit. Cuckoo chicks do something similar to their foster parents. The inside of a cuckoo chick's open mouth is bright orange-red. One cuckoo chick's begging call sounds like a whole nest of chicks. A small reed warbler goes on feeding a cuckoo chick who is several times her own size. People make supernormal stimuli for each other all the time. A sweet is sweeter than any fruit. A cartoon animal has eyes bigger than any real baby's eyes.
+Tinbergen offered an oystercatcher, who is a shore bird, a choice of eggs to sit on. One was her own. One was a giant egg, far too big for her to cover. She tried to sit on the giant egg. Herring gull chicks were shown a lifelike model of a parent's head and a thin red stick with white bands. They pecked more at the stick. The stick had more of what the chicks respond to: redness, thinness and contrast. In nature this causes no trouble, because no real egg is ever that big. So a bird never needed an inborn rule that says an egg can be too big. Only a person with paint and plaster can make an egg bigger than any real one. Cuckoo chicks do something similar to their foster parents. The inside of a cuckoo chick's open mouth is bright orange-red. One cuckoo chick's begging call sounds like a whole nest of chicks. A small reed warbler goes on feeding a cuckoo chick who is several times her own size. People make supernormal stimuli for each other all the time. A sweet tastes sweeter than any fruit does. A cartoon animal has eyes bigger than any real baby's eyes.
 - e.g. An oystercatcher choosing a giant egg.
 - e.g. Gull chicks pecking more at a striped red stick than at a model beak.
 - e.g. A reed warbler feeding a cuckoo chick much bigger than herself.
@@ -99,7 +99,7 @@ A greylag gosling can walk within a day of hatching. She is born with the urge t
 **Definition:** Scientists think that inborn behaviour comes from the way nerve cells are linked before birth. Genes guide this linking. The details are known for very few behaviours.
 
 A gene is a stretch of DNA. DNA is the long molecule in every cell that is copied from parents to their young. Genes do not carry drawings of nests or burrows. They carry instructions for building a body, cell by cell, including the nerve cells and the links between them. A reflex is the simplest case. A sensor, a nerve going in, a nerve going out and a muscle are all linked before birth. Bigger behaviours are harder to trace. Hopi Hoekstra and her team studied two kinds of American mice. Oldfield mice dig a long burrow with an escape tunnel. Deer mice dig a short burrow with no escape tunnel. Mice raised in cages had never seen a burrow. They still dug the burrow of their own kind. In 2013 the team found three regions of DNA linked to the length of the tunnel. One more region was linked to the escape tunnel. This shows that a behaviour can be inherited in parts. Nobody can yet read a stretch of DNA and say which behaviour it will build. Imprinting leaves a trace as well. Gabriel Horn, Patrick Bateson and Steven Rose studied chicks. They found a small region of the brain that changes when a chick imprints.
-- e.g. A reflex: a sensor, two nerves and a muscle, linked before birth.
+- e.g. A reflex, in which a sensor, two nerves and a muscle are linked together before birth.
 - e.g. Oldfield mice raised in cages still dig a long burrow with an escape tunnel.
 - e.g. A small region of a chick's brain changes during imprinting.
 ### Is any behaviour purely inborn? · *debated*
@@ -149,11 +149,11 @@ In the Cold Face Test, cold water on your face slowed your heart. You also met d
 *Habit it breaks:* We think of what we know as what we learned in our own lifetime. A reflex is know-how that was ready before our first lesson, and it reached us from ancestors.  
 *Evidence:* In the Cold Face Test the pulse count usually falls by 2 to 5 beats with a cold, wet face. Nobody practised that. The same slowing was measured in ducks by Paul Bert in 1870 and in seals by Per Scholander in 1940.
 
-- *who am i:* You are someone who learns. You are also made of much older know-how. Your blink, your swallow and your slowing heart were ready before your first lesson.
-- *what is life:* Every living being starts with know-how that was handed down, and then adds their own. A duckling is given the urge to follow, and finds out for herself whom to follow.
-- *what is this world:* The world completes what a body begins. A reflex waits for cold water, and a duckling's urge waits for something that moves.
+- *who am i:* You are someone who learns new things. But you also carry abilities that are much older than you. Your blink, your swallow and your slowing heart were ready before your first lesson.
+- *what is life:* Every living being begins with abilities that were handed down from their parents, and then adds what they learn themselves. A duckling is given the urge to follow, and finds out for herself whom to follow.
+- *what is this world:* A body is not finished without the world around it. A reflex needs something to set it off, such as cold water on the face. A duckling's urge to follow needs something to follow, such as a moving mother.
 
-The diving reflex is in the seal, the duck, the dolphin and you. These are separate bodies, and they carry the same piece of know-how, because they grew from the same ancestors. A gosling is handed the urge to follow, and the world around her supplies the rest. The Upanishads teach that one life looks out through many bodies. Biology says something close to this in plain words of its own. All animals are one family, and much of what each one can do was inherited from that family.
+The diving reflex is in the seal, the duck, the dolphin and you. These are separate bodies, and they carry the same piece of know-how, because they grew from the same ancestors. A gosling is handed the urge to follow, and the world around her supplies the rest. The Upanishads teach that one life looks out through many bodies. Biology does not say that, but it says something close. All animals are one family, and much of what each one can do was inherited from that family.
 
 - **Yoga Sutras of Patanjali 2.9, with the old commentary of Vyasa:** The sutra says that the will to go on living flows by itself, even in the wise. Vyasa adds that even a newborn worm shrinks from danger, though nothing in this life has taught them to. (These thinkers noticed what this unit tests: a newborn animal acts rightly with no lesson. They explained it by earlier lives of the same being. Biology explains it by the lives of ancestors, passed on through DNA. The two answers differ, but the question is the same.)
 - **Mencius 2A:6:** Mencius says that anyone who sees a small child about to fall into a well feels alarm at once. They feel alarm and pity before any thought of praise or reward. (Mencius was arguing that goodness starts from something inborn, and he was not doing biology. Yet he describes a response in every person that one particular sight sets off. Lorenz's idea about baby faces is a later version of the same thought.)
@@ -167,9 +167,9 @@ The diving reflex is in the seal, the duck, the dolphin and you. These are separ
 - Ask: If part of your know-how is older than humankind, where does 'you' begin?
 
 ## Deep and big questions
-- *deep:* You never learned to slow your heart in cold water. Is that know-how yours? (hint: Think about other things you have that you did not make: your eyes, your name, your first language.)
+- *deep:* You never learned to slow your heart in cold water, yet your body knows how. Is that knowledge really yours, even though you did not learn it? (hint: Think about other things you have that you did not make: your eyes, your name, your first language.)
 - *deep:* A goose goes on with the rolling movement after the egg is gone. What might she be noticing while she does it? (hint: Nobody can ask her. What could a scientist watch for, to find out?)
-- *deep:* A gosling who follows a man is keeping her rule exactly. So where did the mistake come from? (hint: Her rule is 'follow the first big moving thing'. In nature that thing is always her mother.)
+- *deep:* A gosling who follows a man is following her inborn rule exactly. The rule is to follow the first big moving thing she sees. So where did the mistake come from? (hint: Her rule is 'follow the first big moving thing'. In nature that thing is always her mother.)
 - *big:* A cartoon can look cuter than a real baby. Can made-up things pull at us harder than real things? (hint: Think about sweets and fruit, or a video game and a real game of catch.)
 - *big:* Which is the better start in life: to be born knowing a lot, or to be born able to learn a lot? (hint: A wasp never meets her mother. An elephant calf stays beside hers for years.)
 - *big:* How much of what you did today did you plan, and how much did your body do without asking you? (hint: Count the blinks, swallows, breaths and yawns that nobody planned.)
@@ -229,7 +229,7 @@ It stung a little, and she did not say so.
 
 Unni carried the chappals in his hands, high up. Minnu stood still and cried. He put them on the ground and pulled them along with a string. Minnu followed the string.
 
-"Blue chappals, moving, on the ground," Ammu said. "That is her mother."
+"On her first day, the first things she saw were blue chappals moving along the ground," Ammu said. "So to her, that is what a mother looks like."
 
 That afternoon Ammachi put on the blue chappals. They pinched, and she grumbled. She walked into the duckling pen and stood among the eleven and the hen. Minnu settled beside her heels. The eleven pressed in around Minnu, because ducklings like a warm heap. That night Minnu slept in the heap.
 
@@ -268,7 +268,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
   - Note: Most children guess that the animal picks the lifelike model. Let the cards surprise them. Do not explain the pattern yet.
 - **s3 (5 min)**  
   *Parent does:* Play the last eight cards the same way. Keep the score.  
-  *Parent says:* Eight more cards. Before each guess, ask yourself which one feature the animal might be responding to.  
+  *Parent says:* We will play eight more cards. Before each guess, ask yourself which one feature the animal might be responding to.  
   *Child mode:* Play eight more cards. Look for the one feature that matters.
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then spread out all 16 cards with the backs up. Ask your child to find three cards where a dummy beat the real thing.  
@@ -288,7 +288,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
   *Parent says:* Show me one dummy at a time. I will say 'respond' or 'ignore'. Name my trigger when you are sure.  
   *Child mode:* Show one dummy. Hear 'respond' or 'ignore'. Then name the trigger.
   - Ask: Which dummy will you show next, and why that one? (good: One that changes only the colour.; I change one feature and keep the rest the same.; I need to know if the sound matters.)
-  - Note: If your child is stuck, suggest this. Find one dummy that gets a response. Then show a dummy that differs from it in one feature only. A trigger with one feature can be found with five dummies.
+  - Note: If your child is stuck, suggest this. Find one dummy that gets a response. Then show a dummy that differs from it in one feature only. If the trigger is a single feature, five dummies are enough to find it. Show one dummy, then change one feature at a time.
 - **s3 (3 min)**  
   *Parent does:* Look at the scores. Talk about the questions below.  
   *Parent says:* Which rounds took the fewest dummies? What did you do differently in those rounds?  
@@ -547,7 +547,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 11. (write) A toy maker wants a soft toy that people want to hug. Which features should she change, and why?  
    **Answer:** She should give the toy a big head, a high forehead, big eyes set low and round cheeks. These are baby features, and people find them cute and want to care for them.. *Why:* A strong answer names at least two baby features. It links them to the caring response, or to the votes in the Big Eyes Test.
 12. (write) An oystercatcher chooses a giant egg that she cannot cover. Explain why her rule works in nature but fails here.  
-   **Answer:** Her rule is to sit on the biggest egg. In nature no egg is too big, so the rule never goes wrong. A scientist's giant egg goes past anything in nature, and the rule has no upper limit.. *Why:* A strong answer states the bird's rule, and says that nature never offers an egg that big.
+   **Answer:** Her rule is to sit on the biggest egg. In nature no egg is too big, so the rule never goes wrong. A giant egg made by a scientist is bigger than any real egg. Her rule has no upper limit, so she keeps choosing the bigger egg.. *Why:* A strong answer states the bird's rule, and says that nature never offers an egg that big.
 13. (write) A swallow cannot be stopped halfway. Why might that be useful?  
    **Answer:** Food or water that stopped halfway could slip into the windpipe and choke the animal. A swallow that always finishes moves it safely past.. *Why:* A strong answer names a danger of stopping in the middle. Any sensible danger is accepted.
 14. (perspective) A wetland centre plans to raise crane chicks by hand and release them. People disagree about how.  
