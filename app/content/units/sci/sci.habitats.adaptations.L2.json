@@ -3,7 +3,7 @@
  "title": "Adaptation: why a fish has fins and a camel has a hump",
  "level": 2,
  "summary": {
-  "text": "A fish has fins, gills and a small bag of air inside her. A camel has a hump of fat, wide feet and long eyelashes. Each of these body parts helps with a problem of their own place: water all around, or hot, dry sand. A body part like this is called an adaptation. Your child makes a bottle fish with coins inside, and finds that a few spoons of air are enough to stop it sinking. You also look at plants suited to dry places and wet places, and at humans, who are animals suited to places too.",
+  "text": "A fish has fins, gills and a small bag of air inside her. A camel has a hump of fat, wide feet and long eyelashes. Each of these body parts helps with a problem of their own place: water all around, or hot, dry sand. A body part like this is called an adaptation. Your child makes a bottle fish with coins inside, and finds that a few spoons of air are enough to stop it sinking. Your child also looks at plants suited to dry places and wet places, and at humans, who are animals suited to places too.",
   "art": "A split picture: on the left a silver fish swimming in blue water with her fins spread, on the right a camel walking on orange sand dunes, and a girl in the middle holding a plastic bottle with coins inside."
  },
  "intro": {
@@ -274,7 +274,7 @@
    "hint": "Squeeze an empty bottle with the cap off. The air rushes out easily. What does that tell you about air?"
   },
   {
-   "q": "A fish lives in water all her life. Does she notice that she is wet?",
+   "q": "A fish is surrounded by water all her life. Do you think she can feel the water? Why or why not?",
    "kind": "big",
    "hint": "Air is all around you all day. When do you notice it?"
   },
@@ -441,9 +441,10 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Add up the points. Then pick one card and talk about it.",
-     "say": "Which living being surprised you most? Which part of them is suited to their place?",
-     "kid": "Count your points. Which card surprised you?",
+     "do": "Add up the points. Then pick one card and ask which part of that living being's body suits their place.",
+     "say": "Pick one card. Which part of that living being's body is suited to their place? What does that part do?",
+     "kid": "Count your points. Pick one card. Which body part helps that living being in their place?",
+     "parent": "Any card works. For example, a cactus has spines instead of leaves, so she loses little water. A mudskipper breathes through her skin, so she can live on wet mud. A good answer names the body part and the problem of the place that it helps with.",
      "check": {
       "t": "mcq",
       "q": "A shark has no swim bladder. What happens if she stops swimming?",
@@ -939,8 +940,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Look at the dry brush closely with your child.",
-     "say": "Look at all these thin hairs. A fish's gills are made of many thin flaps, a bit like these.",
-     "kid": "Look at the brush hairs. Gills have thin flaps like these."
+     "say": "Look at all these thin hairs. A fish's gills are made of many thin flaps. The flaps look a little like these hairs.",
+     "kid": "Look at the brush hairs. A fish's gills have thin flaps that look like these hairs."
     },
     {
      "id": "s2",
@@ -1051,8 +1052,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Your child tries to close their nostrils without using their fingers (most people cannot, but a camel can). 2. Then they draw the camel and label the six parts. Your child can say the labels and a grown-up writes them.",
-     "say": "Can you close your nose without your fingers, like a camel? It is hard! Try it, then draw the camel.",
-     "kid": "Try to close your nose, no fingers. Then draw the camel.",
+     "say": "Can you close your nose without your fingers, like a camel? Most people cannot. A camel can, and it keeps sand out of her nose in a sandstorm. Now draw the camel.",
+     "kid": "Try to close your nose without your fingers. Then draw the camel.",
      "check": {
       "t": "mcq",
       "q": "What does a camel do with her nostrils in a sandstorm?",
@@ -1739,7 +1740,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and the second child live in Chennai. They are arguing about a fish and a camel.",
+     "p": "Two children in Chennai are arguing about a fish and a camel.",
      "views": [
       {
        "who": "The first child, aged 7",
@@ -2370,12 +2371,12 @@
   "practice": {
    "title": "Breathe Like a Fish Floats",
    "mins": 3,
-   "say": "Sit down and close your eyes. Breathe in slowly, and feel your chest fill with air. Hold it for a moment. Now breathe out slowly, and feel your chest go down. Do this three times. Then sit still, and feel where your body meets the floor.",
-   "kid": "Sit and close your eyes. Breathe in slowly. Feel your chest fill with air. Breathe out slowly. Do it three times."
+   "say": "Sit down and close your eyes. Breathe in slowly, and feel your chest fill with air. Your chest now holds a little air, as a fish's swim bladder holds a little gas. Hold it for a moment. Now breathe out slowly, and feel your chest go down. Do this three times. Where in your body did you feel the air go?",
+   "kid": "Sit and close your eyes. Breathe in slowly. Feel your chest fill with air. A fish's swim bladder holds a little gas, too. Breathe out slowly. Do it three times. Where did you feel the air go?"
   },
   "ask": [
    "If a camel's family lived in the sea for millions of years, how might their bodies change?",
-   "Is a fin a good thing, or only a good thing in water?",
+   "A fin helps a fish a lot in water. Would a fin help a camel in the desert? Why or why not?",
    "Which place on Earth is your body most suited to? How do you know?"
   ],
   "art": "A child sitting cross-legged with eyes closed, breathing in, with a faint drawing of a fish hanging still in water above her head."

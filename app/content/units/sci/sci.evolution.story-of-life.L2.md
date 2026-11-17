@@ -17,9 +17,9 @@
 - **React**: When two or more chemicals meet and change into new chemicals, we say they react. *e.g.* Baking soda and citric acid react in water and make bubbles of gas.
 - **Dissolve**: To spread out into a liquid in pieces too small to see, the way sugar seems to vanish in tea. *e.g.* Water dissolves citric acid, so the citric acid can spread and meet the baking soda.
 - **Cell**: The smallest living unit of any living being. Some living beings are one cell. You are made of a huge number of cells. *e.g.* The first living beings on Earth were each one single cell, living in water.
-- **Fossil**: The remains or the mark of a living being from long ago, kept in rock. *e.g.* A shell pressed into stone, or the layers a mat of tiny cells left behind, are fossils.
+- **Fossil**: The remains or the mark of a living being from long ago, kept in rock. *e.g.* A shell pressed into stone is a fossil. So are the layers that a mat of tiny cells left behind.
 - **Stromatolite**: A rock built up in thin layers by a mat of tiny cells living in shallow water. Sand sticks to the mat, and the cells grow up through it again and again. *e.g.* The oldest stromatolites we know are about 3.5 billion years old. Some still grow today, at Shark Bay in Australia.
-- **Ancestor**: Anyone you come from: a parent, a grandparent, a great-grandparent, and on and on, back and back. *e.g.* Your great-grandmother is your ancestor. So, very far back, were tiny cells in the sea.
+- **Ancestor**: Anyone you come from: a parent, a grandparent, a great-grandparent, and everyone before them. *e.g.* Your great-grandmother is your ancestor. Very far back, tiny cells in the sea were your ancestors too.
 - **Timeline**: A line that shows things in the order they happened, the oldest at one end and the newest at the other. *e.g.* The Year of Life calendar is a timeline of the story of life squeezed into one year.
 - **Billion**: A thousand million. Written out, it is 1 followed by nine zeros: 1,000,000,000. *e.g.* The Earth is about four and a half billion years old.
 - **RNA**: A long, thin chain of chemicals inside every cell. RNA carries instructions, and some kinds of RNA can help make copies of other chains. *e.g.* Many scientists think the very first life may have used RNA to store its instructions.
@@ -35,7 +35,7 @@ A grain of dry powder is a solid. Its tiny pieces stay stuck in place, so the tw
 ### Life began in water · *defined*
 **Definition:** The chemicals of life move about, meet and react in water. So life began in water, more than 3.5 billion years ago, and every living being still needs water inside them.
 
-Inside every living cell, the chemicals of life are dissolved in water, like the powders in your bowl. There they meet and react all day long. That is how a cell grows, uses food and makes copies of itself. So scientists think life could only begin where there was liquid water. The oldest clear signs of life come from rocks that formed in shallow sea water about 3.5 billion years ago, in Australia. In 2006, the Australian scientist Abigail Allwood and her team showed that some of these rocks are stromatolites, built by mats of tiny cells. Your own cells are mostly water too. More than half of your body is water.
+Inside every living cell, the chemicals of life are dissolved in water, like the powders in the water bowl of the dry mix test. There they meet and react all day long. That is how a cell grows, uses food and makes copies of itself. So scientists think life could only begin where there was liquid water. The oldest clear signs of life come from rocks that formed in shallow sea water about 3.5 billion years ago, in Australia. In 2006, the Australian scientist Abigail Allwood and her team showed that some of these rocks are stromatolites, built by mats of tiny cells. Your own cells are mostly water too. More than half of your body is water.
 - e.g. The oldest stromatolites formed in shallow sea water about 3.5 billion years ago.
 - e.g. A moong seed stays dry and still for months, and begins to grow only when water reaches the seed.
 - e.g. When people look for life on Mars, they look first for signs of water.
@@ -62,47 +62,47 @@ Every cell today keeps instructions in long chains called DNA and RNA. RNA can c
 - **Many scientists:** RNA came first. It can carry instructions and help make copies, so it could have done both jobs before DNA and the other parts of cells existed.
 - **Other scientists:** Cycles of chemical reactions came first, using energy from hot springs. Chains like RNA came later, once those reactions were running.
 ### One became many, very slowly · *defined*
-**Definition:** Every living being comes from parents, and they came from theirs, back to the first cells. Over a very long time, small changes added up, and a few kinds became many kinds.
+**Definition:** Every living being comes from parents. Those parents came from their own parents, all the way back to the first cells. Over a very long time, small changes added up, and a few kinds became many kinds.
 
 Children are a little different from their parents. Over thousands and thousands of generations, these small differences add up. That is how new kinds of living beings come about. It is very slow. For most of life's story, all life was tiny cells in water. The first animals big enough to see appeared in the sea only about 575 million years ago. Plants grew onto land about 470 million years ago. Animals with four legs walked out of the water about 375 million years ago. Humans like us appeared only about 300,000 years ago, in Africa. The crow at your window, the coconut tree, the ant on the floor and you all come from those first cells. You are all very distant cousins.
 - e.g. The first animals big enough to see were soft, flat and lived in the sea.
-- e.g. Birds come from dinosaurs, so the crow at your window is a living dinosaur.
+- e.g. Scientists have found that birds come from a group of dinosaurs. So the crow at your window is a kind of living dinosaur.
 - e.g. Humans and monkeys are cousins: they come from the same ancestors, millions of years back.
 
 ## Mostly agreed
 - Life began in water. *How we know:* The oldest signs of life are in rocks that formed in water. Every living being needs water inside their cells, where the chemicals of life meet and react.
 - The first life was tiny single cells, and for most of life's story almost all life was tiny cells. *How we know:* The oldest fossils are stromatolites and tiny cells, about 3.5 billion years old. Fossils of animals big enough to see appear only about 575 million years ago.
-- The Earth is about 4.5 billion years old. *How we know:* Radioactive rocks act like clocks. In 1956, Clair Patterson measured lead in meteorites and found the Earth is about 4.5 billion years old.
-- Every living being today comes from those first cells. *How we know:* All living cells use the same kind of instructions, DNA and RNA, and build themselves from the same kinds of chemicals. Fossils in older and newer rocks show kinds changing over time.
+- The Earth is about 4.5 billion years old. *How we know:* Some rocks hold radioactive atoms that change into other atoms at a steady speed. So these rocks work like clocks. In 1956, Clair Patterson measured lead in meteorites and found that the Earth is about 4.5 billion years old.
+- Every living being today comes from the first cells. *How we know:* All living cells use the same kind of instructions, DNA and RNA, and build themselves from the same kinds of chemicals. Fossils in older and newer rocks show kinds changing over time.
 
 ## How we found out
 **Lord Kelvin, Henri Becquerel, Marie Curie, Arthur Holmes and Clair Patterson, 1862 to 1956.** For a long time, many people thought the Earth was only a few thousand years old. In 1862, the famous scientist Lord Kelvin worked out how long a hot young Earth would take to cool down. He said it was between 20 and 400 million years old. Later he said only about 20 to 40 million. Charles Darwin was worried. He thought the many kinds of life needed far longer than that to come about. Then, in 1896, Henri Becquerel found that uranium gives off rays. Marie Curie named this radioactivity. Radioactive rock slowly turns into other materials, at a steady speed, like a clock. It also makes heat inside the Earth, which Kelvin did not know about. So his cooling sum was wrong. In 1911, a young British geologist, Arthur Holmes, used this rock clock and found rocks about 1.6 billion years old. In 1956, the American scientist Clair Patterson measured lead in meteorites, rocks that fell from space. He found that the Earth is about 4.5 billion years old. Scientists still use that age today.  
-*What people believed before:* That the Earth was young: first a few thousand years, then Kelvin's 20 to 40 million years. Kelvin did not know that radioactive rock heats the Earth. Rock clocks then showed rocks billions of years old, and Patterson's meteorites gave 4.5 billion years.
+*What people believed before:* People thought the Earth was young: first a few thousand years old, then Kelvin's 20 to 40 million years. Kelvin did not know that radioactive rock heats the Earth. Later, rock clocks showed rocks billions of years old, and Patterson's meteorites showed that the Earth is about 4.5 billion years old.
 
 ## Challenging perspectives
 - **Life began in the deep sea.** (Many scientists who study the sea; *debated*)  
   For: Hot springs on the deep sea floor pour out warm water full of the chemicals life needs, and their rocks have tiny holes where chemicals can gather.  
   Against: Other scientists point out that long chains like RNA fall apart easily in lots of water. They think pools on land that dry and fill again suit life better.
-- **Life came to Earth from space.** (A few scientists, starting with the idea called panspermia; *minority*)  
+- **Life came to Earth from space.** (A few scientists. Their idea is called panspermia.; *minority*)  
   For: Some meteorites carry chemicals that living things use. A meteorite that fell in Murchison, Australia, in 1969 held amino acids, which are building blocks of life.  
-  Against: No living being has ever been found in a meteorite. And the idea only moves the question: how did life begin wherever it came from?
+  Against: No living being has ever been found in a meteorite. And the idea does not answer the question. We would still have to ask how life began in the place it came from.
 - **Humans came from monkeys.** (A common mix-up; *rejected*)  
   For: Humans and monkeys have many things in common, such as hands that grip, eyes at the front and a similar skeleton.  
-  Against: Monkeys did not turn into humans. Humans and monkeys are cousins. They both come from the same ancestors, who lived millions of years ago and were neither of them.
+  Against: Monkeys did not turn into humans. Humans and monkeys are cousins. They both come from the same ancestors, who lived millions of years ago and were neither monkeys nor humans.
 - **The Earth and its life are only a few thousand years old.** (An old idea, held by many people in the past; *rejected*)  
   For: Long ago, people worked out the age of the world from family lists and old stories.  
-  Against: Rock clocks made by radioactivity show rocks billions of years old. Layers of rock and fossils took a very long time to build up.
+  Against: Some rocks hold radioactive atoms that change into other atoms at a steady speed. So these rocks work like clocks, and they show that some rocks are billions of years old. Layers of rock and fossils also took a very long time to build up.
 
 ## Roots
 We found that dry powders change only when water lets them meet, and we squeezed the story of life into one year. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Dry soda and citric acid sat together and did nothing. A few drops of water made them fizz at once. Inside every cell, chemicals are dissolved in water, so they can meet and react. That is why scientists say life began in water, and why your cells are still mostly water.  
+**Deep truth.** In the dry mix test, dry baking soda and citric acid sat together and did nothing. A few drops of water made them fizz at once. Inside every cell, chemicals are dissolved in water, so they can meet and react. That is why scientists say life began in water, and why your cells are still mostly water.  
 *Habit it breaks:* We think of water as something we drink, and of the sea as a faraway place. But water is where the chemistry of every living being happens. When plants and animals moved onto land, they took water with them, inside every cell.  
 *Evidence:* In the dry mix test, the dry bowl and the oil bowl did not fizz. The water and sea water bowls fizzed at once, and the oil bowl fizzed as soon as water reached the powder. The oldest signs of life, stromatolites about 3.5 billion years old, formed in shallow sea water.
 
 - *who am i:* You are mostly water. Each of your cells keeps water inside, where your body's chemicals meet and react.
 - *what is life:* Life began as tiny cells in water. Everything alive today, from a crow to a coconut tree to you, comes from those first cells.
-- *what is this world:* The Earth was here a very long time before anything big enough to see lived on it. For most of the story, its life was tiny cells.
+- *what is this world:* The Earth was here a very long time before anything big enough to see lived on it. For most of that time, almost all the life on Earth was tiny cells.
 
 Before life, the young Earth had rock, water and chemicals, and no living being anywhere. In the water, chemicals met and changed, again and again. Then came the first living cells, and from those few came every kind of being, first in the sea and later on land. Everything is conscious, the smallest cells too: tiny cells today sense food and swim towards it, and the first cells sensed their world as well. One beginning in water became all the life there is now.
 
@@ -113,15 +113,15 @@ Before life, the young Earth had rock, water and chemicals, and no living being 
 - Science (open): Exactly where in the water life began, and how the first cell formed, is still unknown.
 - Other view, Many scientists: They say life began from chemistry and chance alone. In their view, the first cells and the chemicals before them had no awareness. Awareness came much later, with brains.
 - Practice, One slow sip (3 min): Pour a little water into a tumbler. Look at the water for a moment. Now take one slow sip. Feel it cool in your mouth, then going down. Close your eyes and breathe slowly, three times. Soon this water will be inside your cells. Life began in water like this, long ago. Now open your eyes.
-- Ask: The powder waited for months in the packet. A seed waits too. What is the difference between them?
-- Ask: The water you just drank was once rain, and before that, sea. When does it become you?
-- Ask: Tiny cells had the Earth almost to themselves for most of the year. Whose world is the Earth?
+- Ask: Fruit salt powder can sit in a packet for months. A dry seed can sit for months too. What is the difference between them?
+- Ask: In One slow sip, you drank a little water. That water was once in the sea, then in a cloud, then in rain. How does water from the sea end up inside your cells?
+- Ask: On the Year of Life calendar, tiny cells had the Earth almost to themselves for most of the year, and they are still everywhere. Does the Earth belong more to tiny cells or to big animals? Why?
 
 ## Deep and big questions
 - *deep:* The fruit salt in the packet waited for months without changing. Living seeds also wait for months, then grow. How is a waiting seed different from waiting powder? (hint: Think about what happens to the powder and to the seed when water reaches them.)
-- *deep:* If there had been no water on Earth, could life have begun at all? (hint: Think about the dry bowl and the oil bowl in your test.)
-- *big:* Far enough back, your great-great-great-grandmother was a tiny cell in water. Is a part of her still in you? (hint: Every one of your cells came from another cell. Think about where that chain goes back to.)
-- *big:* Humans arrived in the last half hour of the Year of Life. Does arriving last make us less important, more important, or neither? (hint: Think about who lived on Earth before us, and who still lives here with us.)
+- *deep:* If there had been no water on Earth, could life have begun at all? (hint: Think about the dry bowl and the oil bowl in the dry mix test.)
+- *big:* Every cell of yours came from another cell, and that goes back to the first cells in water. In what way are those first cells still part of you? (hint: Every one of your cells came from another cell. Think about where that chain goes back to.)
+- *big:* On the Year of Life calendar, the whole story of the Earth is squeezed into one year. Humans arrive only in the last half hour. Does arriving last make us less important, more important, or neither? (hint: Think about who lived on Earth before us, and who still lives here with us.)
 - *deep:* Could new life begin today, from chemicals, in a pond or in the sea? (hint: Charles Darwin wondered about this in 1871. Think about what the tiny cells living there now might do to any new chemicals.)
 
 ## Story: The Packet That Waited
@@ -197,7 +197,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 
 ## Games
 ### g1 · Older Wins: a card game about the story of life (15 min)
-- **rules:** Mix the cards. Deal 6 cards to each player, face down in a pile.; Both players turn over their top card at the same time and read it aloud.; Each player says which event they think happened first, and why.; Turn both cards over to check the dates on the back. The event that happened first, the older one, wins. Its player keeps both cards.; Play until the piles run out. The player with the most cards wins. If you both have 6 cards, you both win.
+- **rules:** Mix the cards. Deal 6 cards to each player, face down in a pile.; Both players turn over their top card at the same time and read it aloud.; Each player says which event they think happened first, and why.; Turn both cards over to check the dates on the back. The event that happened first, the older one, wins. The player who turned over that card keeps both cards.; Play until the piles run out. The player with the most cards wins. If you both have 6 cards, you both win.
 - **Printable cards: 12 event cards, with the Year of Life date on the back:** The Earth forms, hot and rocky. (back: 1 January on the Year of Life. About 4.5 billion years ago.); The first oceans. (back: About 9 January. About 4.4 billion years ago.); The first signs of tiny cells, in stromatolites. (back: End of March. About 3.5 billion years ago.) [picture]; Tiny cells put the first oxygen into the air. (back: Late June. About 2.4 billion years ago.); The first animals big enough to see, soft and flat, in the sea. (back: Mid-November. About 575 million years ago.); Sea animals with shells, eyes and legs. (back: About 18 November. About 540 million years ago.); The first small plants on land. (back: About 24 November. About 470 million years ago.); The first animals with four legs walk onto land. (back: About 1 December. About 375 million years ago.); The first dinosaurs. (back: About 13 December. About 230 million years ago.); The first flowers. (back: About 21 December. About 130 million years ago.); A huge rock from space hits the Earth. Most dinosaurs die out, but birds live on. (back: 26 December. About 66 million years ago.); The first humans like us, in Africa. (back: 31 December, half an hour before midnight. About 300,000 years ago.)
 - **s1 (4 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Mix them and deal 6 cards each, face down.  
@@ -218,7 +218,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 - **Printable score sheet: Score sheet: print one for each player:** Turn 1: I rolled ___. Food or no food? ___. My cells now: ___; Turn 2: I rolled ___. Food or no food? ___. My cells now: ___; Turn 3: I rolled ___. Food or no food? ___. My cells now: ___; Turn 4: I rolled ___. Food or no food? ___. My cells now: ___; Turn 5: I rolled ___. Food or no food? ___. My cells now: ___; Turn 6: I rolled ___. Food or no food? ___. My cells now: ___; Turn 7: I rolled ___. Food or no food? ___. My cells now: ___; Turn 8: I rolled ___. Food or no food? ___. My cells now: ___; Turn 9: I rolled ___. Food or no food? ___. My cells now: ___; Turn 10: I rolled ___. Food or no food? ___. My cells now: ___; Turn 11: I rolled ___. Food or no food? ___. My cells now: ___; Turn 12: I rolled ___. Food or no food? ___. My cells now: ___; Turn 13: I rolled ___. Food or no food? ___. My cells now: ___; Turn 14: I rolled ___. Food or no food? ___. My cells now: ___; Turn 15: I rolled ___. Food or no food? ___. My cells now: ___
 - **s1 (3 min)**  
   *Parent does:* 1. Give each player a katori with 1 chana. 2. Put a bowl of chana in the middle. 3. Read the rules together.  
-  *Parent says:* This chana is a tiny cell in the old sea. When a cell gets food, they grow and split into two cells. Let's see how fast one becomes many.  
+  *Parent says:* This chana is a tiny cell in the old sea. When a cell gets food, the cell grows and splits into two cells. Let's see how fast one becomes many.  
   *Child mode:* Your chana is one tiny cell. Food makes a cell split in two. Read the rules.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns rolling. 2. Double the chana on an even number. 3. Count aloud and fill in the score sheet.  
@@ -248,7 +248,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
   *Parent does:* 1. Your child puts half a spoon of baking soda and half a spoon of citric acid in each katori. 2. Wipe the spoon dry each time. 3. Stir each heap dry. 4. Look and listen.  
   *Parent says:* These two powders are now touching each other. Look closely. Put your ear near the bowl. Is anything happening?  
   *Child mode:* Put half a spoon of each powder in every bowl. Stir them dry. Look closely. Listen. Is anything happening?
-  - Ask: What do you notice? What do you wonder? (good: Nothing is happening.; The two powders look different. The crystals are bigger.; Why don't they do anything?)
+  - Ask: What do you notice? What do you wonder? (good: Nothing is happening.; The two powders look different. One has bigger crystals.; Why don't they do anything?)
   - Note: Nothing happens to the dry mix. This is the point of the test, so let your child notice it.
 - **s3 (3 min)**  
   *Parent does:* Ask for a guess and a reason for each bowl. Write the guesses in the table. Don't say what will happen.  
@@ -263,7 +263,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
   - Note: The water and sea water bowls fizz at once and loudly. The oil bowl stays still, or shows only one or two bubbles. The dry bowl does nothing. If the oil bowl fizzes a lot, the powder or bowl was damp, so try again with a dry bowl.
 - **s5 (3 min)**  
   *Parent does:* 1. Drip 2 spoons of plain water slowly into the oil bowl. 2. Watch where the drops go. 3. Then let one drop of water fall on the dry bowl.  
-  *Parent says:* Was the powder in the oil bowl spoiled? Let's drip water into it and see. Then we put one single drop on the dry bowl.  
+  *Parent says:* Was the powder in the oil bowl spoiled? Let's drip water into it and see. Then let's put one drop of water on the dry bowl.  
   *Child mode:* Drip water into the oil bowl. Watch the drops sink. Then put one drop on the dry bowl. What happens?
   - Note: Water is heavier than oil, so the drops sink to the powder. Bubbles then rise up through the oil. On the dry bowl, the fizz happens only where the drop lands.
 - **s6 (3 min)**  
@@ -276,14 +276,14 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 ### e2 · Sea Water Sprouts: can moong sprout in water as salty as the sea? (20 min, 3 days)
 - **question:** Life began in the sea. Can moong seeds, from a plant that lives on land, sprout in water as salty as the sea?
 - **predict:** We will soak moong in plain water, in a little salty water, and in water as salty as the sea. In which cups do you think the moong will sprout? Why do you think so?
-- **fair test:** Each cup gets 10 whole moong, the same amount of water and the same place in the room. The only thing we change is how much salt is in the water. We count every seed, because one seed on their own could be a fluke.
+- **fair test:** Each cup gets 10 whole moong, the same amount of water and the same place in the room. The only thing we change is how much salt is in the water. We count every seed, because one seed alone could sprout or fail just by chance.
 - **record:** Fill in the table on day 2 and day 3. Draw one seed from each cup on day 3.
 - **results table:** Cup | Water | My guess | Sprouted on day 2 | Sprouted on day 3
 - **schedule:** day 1: Make three waters: plain, a little salty, and sea-salty. Put 10 moong in each cup. Cover the cups. (8 min); day 2: Count the moong that have a white root tip in each cup. (6 min); day 3: Count again. Compare the three cups and talk about what you found. (6 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Label three cups: plain, a little, sea. 2. Stir 1 level spoon of salt into half a tumbler of water. This is sea-salty water. 3. Pour 4 spoons of sea-salty water into the sea cup. 4. In the fourth cup, mix 1 spoon of sea-salty water with 9 spoons of plain water. Pour 4 spoons of this into the cup labelled a little. 5. Pour 4 spoons of plain water into the plain cup. 6. Put 10 moong in each of the three cups and cover them.  
+  *Parent does:* 1. Label three cups: plain, a little, sea. 2. Stir 1 level spoon of salt into half a tumbler of water. This is sea-salty water. 3. Pour 4 spoons of sea-salty water into the sea cup. 4. In a spare cup, mix 1 spoon of sea-salty water with 9 spoons of plain water. Pour 4 spoons of this into the cup labelled a little. 5. Pour 4 spoons of plain water into the plain cup. 6. Put 10 moong in each of the three labelled cups and cover them.  
   *Parent says:* All life began in salty sea water, long ago. Moong plants live on land. Can their seeds sprout in sea water? What do you think? Why?  
-  *Child mode:* Label three cups: plain, a little, sea. Put sea-salty water in the sea cup. Put weak salty water in the a little cup. Put plain water in the plain cup. Put 10 moong in each cup. Cover them. Which will sprout? Say why.
+  *Child mode:* Label three cups: plain, a little, sea. Put sea-salty water in the sea cup. Put weak salty water in the cup labelled a little. Put plain water in the plain cup. Put 10 moong in each cup. Cover them. Which will sprout? Say why.
   - Note: Use fresh moong, because very old seeds may not sprout even in plain water. The weak salty water is about one tenth as salty as the sea. The seeds should sit in the water, not deep under it, so they get air too. Add a spoon of the same water if a cup dries out. Keep the cups on a warm shelf: in a cold room, sprouting is slow in every cup, so wait one more day before you count.
   - Wait: Leave the cups for one day
 - **s2 (6 min)**  
@@ -314,7 +314,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
   *Child mode:* Listen to each event. Put the slip in the right month. Watch which months fill up.
   - Note: On this calendar, one day stands for about 12 million years. The dates are rounded. Scientists still argue a little about some of them, for example when the very first cells began.
 - **s3 (5 min)**  
-  *Parent does:* 1. Colour the months from April to October in one colour: tiny cells only. 2. Count them together. 3. Ask what your child notices.  
+  *Parent does:* 1. Colour the months from April to October in one colour. These months had only tiny cells. 2. Count them together. 3. Ask what your child notices.  
   *Parent says:* Let's colour every month that had only tiny cells, too small to see. How many months is that? What do you notice about December?  
   *Child mode:* Colour April to October. Count the months. Then look at December. What do you notice?
   - Ask: What do you notice about the calendar now? (good: Most of the year is only tiny cells.; Everything big comes in November and December.; Humans come right at the very end.)
@@ -341,7 +341,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
   - Note: Families who don't eat fish can do this with pictures in a book, or skip it. Ask before touching anything at a stall.
 - **s2 (8 min)**  
   *Parent does:* 1. Pick a crab or a prawn, and one other animal. 2. Count the crab's legs and find the eyes of both. 3. Your child draws them.  
-  *Parent says:* Count this crab's legs. Can you find the eyes? Now look at the other animal. Long ago, the sea had animals called trilobites, with shells and many legs, a bit like a crab.  
+  *Parent says:* Count this crab's legs. Can you find the eyes? Now look at the other animal. The first sea animals with shells, eyes and legs lived about 540 million years ago. Crabs and prawns still have shells, eyes and legs today.  
   *Child mode:* Count the crab's legs. Find the eyes of both animals. Draw them.
   - Note: A crab has 8 legs for walking and 2 claws. Crabs and prawns are arthropods, animals with jointed legs and a hard outer shell. Trilobites were arthropods too. They lived in the sea for about 270 million years and then died out.
 
@@ -360,19 +360,20 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
   - Note: Real animals to make: Dickinsonia, flat and oval with ridges across, with no head and no legs. Charnia, shaped like a fern leaf, fixed to the sea floor. A trilobite, with a hard shell, many legs and eyes. Opabinia, with five eyes and a long nose with a claw at the end. Hallucigenia, with spikes on the back and soft legs underneath. They did not all live at the same time, but all of them lived more than 500 million years ago.
 - **s3 (5 min)**  
   *Parent does:* 1. Label each animal. 2. Ask your child to show the box to someone and tell them about it.  
-  *Parent says:* Tell someone at home about your sea. Which animal is your favourite? How is that animal different from animals today?  
-  *Child mode:* Write a label for each animal. Show your sea to someone. Tell them about your favourite animal.
+  *Parent says:* Tell someone at home about your sea. Which of your animals looks a little like an animal alive today? Which one looks like nothing alive today?  
+  *Child mode:* Write a label for each animal. Show your sea to someone. Which animal looks like one alive today? Which one does not?
+  - Note: Use the animals your child made. For example, the trilobite has a hard shell and many legs, a little like a crab. Dickinsonia has no head, no legs and no eyes, so it looks like nothing alive today.
 
 ## Challenges
 ### c1 · Fizz Later: make the powder wait in water (20 min)
-- **problem:** Make a small packet of the dry mix that you drop into a tumbler of water. It should wait as long as you can before it starts to fizz, and then it must still fizz. Aim for at least 5 seconds.
+- **problem:** Make a small packet of the dry mix, which is baking soda and citric acid. Drop the packet into a tumbler of water. It should wait as long as possible before it starts to fizz, and then it must still fizz. In the dry mix test, the powders fizzed only when water reached them. So if the water takes longer to reach the powder, the fizz should start later. Aim for at least 5 seconds.
 - **your turn:** Design your own packet. Drop it in and count the seconds. Then change one thing and try again. Which packet waited longest and still fizzed?
 - **constraints:** Use only half a spoon of baking soda and half a spoon of citric acid.; Use only home things: tissue, paper, thread, a little cooking oil, sticky tape.; Drop the packet into a tumbler of water, and count the seconds until the first bubbles.; The packet must fizz in the end.
 - **general:** Wrap the mix in one layer of tissue and twist the top. The water takes a second or two to soak through.; Wrap it in two or three layers, so the water takes even longer to reach the powder.
 - **creative:** Mix the powders with a few drops of oil, then wrap the mix. The oil may slow the water down. It may also make the fizz small, and that is a result too.; Use thicker paper, like newspaper, folded into a tiny envelope.
 - **s1 (4 min)**  
-  *Parent does:* 1. Read the problem together. 2. Ask why the powders fizzed so fast in the test. 3. Ask for ideas before showing any.  
-  *Parent says:* The powders fizzed the moment water reached them. How could we slow the water down, so the packet waits before it fizzes?  
+  *Parent does:* 1. Read the problem together. 2. Ask why the powders fizzed so fast in the dry mix test. 3. Ask for ideas before showing any.  
+  *Parent says:* In the dry mix test, the powders fizzed the moment water reached them. How could we slow the water down, so the packet waits before it fizzes?  
   *Child mode:* The powders fizz when water reaches them. How can you slow the water down? Think of ideas.
 - **s2 (6 min)**  
   *Parent does:* Your child makes a first packet from their own idea.  
@@ -408,9 +409,9 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 7. (odd) Three of these need water inside them to stay alive. Which one does not?  
    Options: A fish / A coconut tree / A crow / A steel spoon  
    **Answer:** 3. *Why:* A steel spoon is not alive. Every living being, in water or on land, has cells that are mostly water inside.
-8. (perspective) Lakshmi, a girl in Kochi, and her friend Farhan, a boy in Class 2, look at the oil bowl before any water was added.  
-   **Answer:** A strong answer agrees with Lakshmi, because the powder fizzed under the oil once water reached it. It also says Farhan was right that nothing happened while there was only oil.. *Why:* The test answers this: water dripped into the oil bowl made it fizz. Farhan's observation was true, but his reason was not.
-9. (write) Say out loud, and a grown-up writes it down: a moong seed can stay dry for months. What do you think a moong seed needs, to begin to grow?  
+8. (perspective) Two friends look at the oil bowl in the dry mix test, before any water is added.  
+   **Answer:** A strong answer agrees with the second person, because the powder fizzed under the oil once water reached it. It also says the first person was right that nothing happened while there was only oil.. *Why:* The dry mix test answers this: when water was dripped into the oil bowl, the powder fizzed. The first person's observation was true, but his reason was not.
+9. (write) A moong seed can stay dry for months. What do you think a moong seed needs to begin to grow? Say your answer out loud, and a grown-up writes it down.  
    **Answer:** Water. The seed is alive but waiting, and starts to grow when water reaches the seed.. *Why:* A strong answer says the seed needs water to start growing, like the first cells needed water.
 10. (label) Label the four bowls from the dry mix test: dry, oil, water, sea water. Then draw bubbles in the bowls that fizzed.  
    **Answer:** ['no bubbles: dry', 'no bubbles: oil', 'bubbles: water', 'bubbles: sea water']. *Why:* Only the bowls with water in them fizzed.
@@ -427,10 +428,10 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 5. (draw) Draw a stromatolite cut in half, with its layers. Draw the mat of tiny cells on top, in the shallow sea.  
    **Answer:** A dome of wavy layers, with a thin living layer on top and water above it.. *Why:* A strong drawing shows many thin layers, one on top of another, with the living mat only on the very top.
 6. (truefalse) Humans and the big dinosaurs lived at the same time.  
-   **Answer:** False. *Why:* False. Most dinosaurs died out about 66 million years ago, on 26 December on the Year of Life. Humans came about 300,000 years ago, on the last night. Birds are the dinosaurs who lived on.
+   **Answer:** False. *Why:* False. Most dinosaurs died out about 66 million years ago, on 26 December on the Year of Life. Humans came about 300,000 years ago, on the last night, 31 December. Birds are the dinosaurs who lived on.
 7. (count) On the Year of Life calendar, the first flowers came on about 21 December. Humans came on 31 December. How many days are there from 21 December to 31 December?  
    **Answer:** 10. *Why:* 31 take away 21 is 10. So flowers had been around for 10 days of the calendar before humans came.
-8. (perspective) Sneha, a girl in Pune, and her grandmother are talking about life on Earth.  
+8. (perspective) A girl and her grandmother are talking about life on Earth.  
    **Answer:** A strong answer picks a side with evidence, for example that tiny cells had almost all of the year to themselves. It also gives the other side's best point: by weight, trees and other plants make up most of the living things on Earth today.. *Why:* Both have a point. By time, and by numbers, life is mostly tiny cells. By weight, most living matter today is plants. Scientists measured this in 2018.
 9. (fill) The Earth is about four and a half ____ years old.  
    **Answer:** ['billion']. *Why:* Clair Patterson measured lead in meteorites in 1956 and found the Earth is about 4.5 billion years old.
@@ -439,18 +440,18 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 ### Think Like a Scientist of Life (challenge) (challenge, 10 questions)
 1. (write) Many people think the first living beings were fish. What evidence shows they were not?  
    **Answer:** The oldest fossils are stromatolites and tiny cells, about 3.5 billion years old. Fish fossils appear only about 500 million years ago.. *Why:* A strong answer uses the order of fossils in the rocks: tiny cells come far earlier than any fish.
-2. (mcq) In 1862, Lord Kelvin said the Earth was much younger than it is. What did he not know about?  
-   Options: Radioactive rock, which heats the Earth from inside / That the Earth is round / That the Sun gives light  
-   **Answer:** Radioactive rock, which heats the Earth from inside. *Why:* Radioactivity was found only in 1896. It heats the Earth, so the Earth cooled much more slowly than Kelvin worked out. People already knew the Earth was round.
-3. (perspective) Divya, a girl in Madurai, and Rukhsana, a girl in Srinagar, are arguing about where life began.  
+2. (mcq) A scientist works out the Earth's age from how fast it has cooled. Later, people find that rocks inside the Earth make their own heat. What does this mean for his answer?  
+   Options: The Earth cooled more slowly, so it is older than he worked out / The Earth must be younger / Nothing changes  
+   **Answer:** The Earth cooled more slowly, so it is older than he worked out. *Why:* Extra heat from inside means the Earth took much longer to cool. So it is older. This happened to Lord Kelvin, who did not know about radioactive rock.
+3. (perspective) Two people are arguing about where life began.  
    **Answer:** A strong answer picks a side with a reason, such as 'drying pushes chemicals close together', and gives the other side's reason too. It may say that nobody knows yet, and that scientists test both ideas in labs.. *Why:* This is a real argument among scientists. Both ideas have some evidence, and the question is still open.
 4. (draw) Draw what you think the very first living cell looked like, floating in water. Label its thin skin and its watery inside.  
    **Answer:** A tiny round cell with a thin skin and a watery inside, floating in water.. *Why:* A strong drawing shows a skin around a watery inside, floating in water.
 5. (truefalse) When living beings moved from the water onto land, they left all their water behind.  
    **Answer:** False. *Why:* False. Every land plant and animal still has cells that are mostly water inside. More than half of your body is water.
 6. (truefalse) Monkeys slowly turned into humans.  
-   **Answer:** False. *Why:* False. Monkeys and humans are cousins. They both come from the same ancestors, who lived millions of years ago and were neither.
-7. (sort) Predict: if you added each of these liquids to the dry mix, would it fizz or not? Sort them.  
+   **Answer:** False. *Why:* False. Monkeys and humans are cousins. They both come from the same ancestors, who lived millions of years ago and were neither monkeys nor humans.
+7. (sort) If you added each of these liquids to the dry mix of baking soda and citric acid, would it fizz or not? Sort them.  
    **Answer:** milk → Would fizz; coconut oil → Would not fizz; lemon juice → Would fizz; melted ghee → Would not fizz; tender coconut water → Would fizz. *Why:* Milk, lemon juice and tender coconut water are mostly water, so they dissolve the powders. Coconut oil and ghee are fats, like cooking oil, so they do not.
 8. (write) A friend says a packet of fruit salt is broken, because it has sat on the shelf for a year and never fizzed. What would you tell them? How could you test it?  
    **Answer:** It is not broken. It is dry, so the powders cannot meet. Put a pinch in water and it will fizz.. *Why:* A strong answer explains that the powders need water to react, and suggests a fair test: a pinch in water.
@@ -461,7 +462,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
    **Answer:** The sea and the air had very little oxygen for a long time. *Why:* Many scientists think big animals needed more oxygen, and oxygen built up slowly. They still argue about the other reasons. The Sun and the oceans were there from the start.
 
 ## Videos
-- **The Evolution of Life on Earth, in a short animation** (AsapSCIENCE, 2 min) id `H2_6cqa2cP4`: Shows the long history of life in a few minutes with pictures, so the child sees how late big animals come, humans among them. It does not use the year calendar, so match it to the Year of Life list yourself. *Check:* Found by search: "The Evolution of Life on Earth" by AsapSCIENCE, 2 minutes, 20 seconds. A parent may preview it.
+- **The Evolution of Life on Earth, in a short animation** (AsapSCIENCE, 2 min) id `H2_6cqa2cP4`: Shows the long history of life in a few minutes with pictures, so the child sees how late big animals and humans come. It does not use the year calendar, so match it to the Year of Life list yourself. *Check:* Found by search: "The Evolution of Life on Earth" by AsapSCIENCE, 2 minutes, 20 seconds. A parent may preview it.
 - **Hamelin Pool at Shark Bay, home of living stromatolites** (Parks and Wildlife Service Western Australia, 3 min) id `xRy1DM6d9ys`: Shows the real stromatolites of Hamelin Pool in Shark Bay, growing in shallow salty water today, like the oldest signs of life. *Check:* Found by search: "New facilities to provide insight to earliest life on Earth at Hamelin Pool in Shark Bay" by Parks and Wildlife Service Western Australia, 2 minutes, 59 seconds. A parent may preview it.
 - **Citric acid and baking soda science experiment for kids** (Science Starz, 6 min) id `Q7bot9QRs1c`: Shows the fizz of citric acid and baking soda in water, after the child has done the dry mix test. It is not slowed down. *Check:* Found by search: "Citric Acid & Baking Soda Science Experiment for Kids (Chemistry!)" by Science Starz, 5 minutes, 30 seconds. A parent may preview it.
 
@@ -492,7 +493,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
    **Answer:** About half an hour before midnight on 31 December. *Why:* On the Year of Life, one day is about 12 million years. 300,000 years is only about half an hour.
 9. (mcq) Where do all the living beings alive today come from?  
    Options: From the first cells, through a very long line of parents / Each kind appeared suddenly, all at once / From rocks  
-   **Answer:** From the first cells, through a very long line of parents. *Why:* Every living being comes from parents, and they from theirs, all the way back to the first cells.
+   **Answer:** From the first cells, through a very long line of parents. *Why:* Every living being comes from parents. Those parents had parents too, all the way back to the first cells.
 10. (mcq) How did a few kinds of tiny cells become so many kinds of living beings?  
    Options: Small changes added up over a very, very long time / They all changed in one day / People made the new kinds  
    **Answer:** Small changes added up over a very, very long time. *Why:* Children are a little different from their parents. Over thousands and thousands of generations, these small differences add up into new kinds.
@@ -535,10 +536,10 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 - What is a stromatolite's favourite food? *A layer cake!*
 
 ## Connected maths
-- On the Year of Life calendar, the first signs of tiny cells come at the end of March. The first animals big enough to see come in the middle of November. Name the months in between, from April to October. How many months is that? **April, May, June, July, August, September and October: 7 months. So for more than 7 months of the year, almost all life was tiny cells.**. Count the months on your fingers, starting with April: 1, 2, 3, 4, 5, 6, 7. The ends of March and the start of November add a little more. (queues `math.time.calendar.L2`)
-- In the splitting game, Lakshmi, a girl in Kochi, starts with 1 cell. Every time she rolls an even number, every cell splits in two. How many cells does she have after 1 split, 2 splits, 3 splits, 4 splits and 5 splits? What pattern do you see? **2, 4, 8, 16 and 32. Each time, the number doubles.**. 1 and 1 more is 2. 2 and 2 is 4. 4 and 4 is 8. 8 and 8 is 16. 16 and 16 is 32. Each number is the last one added to itself. (queues `math.patterns.number-patterns.L2`)
-- Nandini, a girl in Bengaluru, did the dry mix test in 3 bowls with water and 3 bowls with oil. Her tally of bowls that fizzed: water |||, oil none. Then she dripped water into the 3 oil bowls, and all of them fizzed. How many bowls fizzed in the end? What does that tell her? **6 bowls fizzed in the end: 3 and 3. It tells her the powder under the oil was ready all along. It only needed water.**. 3 water bowls fizzed first. Then 3 more fizzed when water reached them. 3 + 3 = 6. (queues `math.data.sorting-and-tallies.L2`)
-- In the sea water sprouts test, Bidisha, a girl in Kolkata, put 10 moong in plain water and 10 in sea-salty water. 9 sprouted in plain water and 1 sprouted in sea-salty water. How many more sprouted in plain water? **8 more sprouted in plain water.**. 9 take away 1 is 8. The difference is big, so the salt clearly made a difference, not chance. (queues `math.addition-subtraction.meaning.L2`)
+- On the Year of Life calendar, the first signs of tiny cells come at the end of March. The first animals big enough to see come in the middle of November. Name the months in between, from April to October. How many months is that? **April, May, June, July, August, September and October: 7 months. So for more than 7 months of the year, almost all life was tiny cells.**. Count the months on your fingers, starting with April: 1, 2, 3, 4, 5, 6, 7. The last days of March and the first half of November add a little more. (queues `math.time.calendar.L2`)
+- In the splitting game, you start with 1 cell. Every time you roll an even number, every cell splits in two. How many cells do you have after 1 split, 2 splits, 3 splits, 4 splits and 5 splits? What pattern do you see? **2, 4, 8, 16 and 32. Each time, the number doubles.**. 1 and 1 more is 2. 2 and 2 is 4. 4 and 4 is 8. 8 and 8 is 16. 16 and 16 is 32. Each number is the last one added to itself. (queues `math.patterns.number-patterns.L2`)
+- Suppose you do the dry mix test in 3 bowls with water and 3 bowls with oil. Your tally of bowls that fizzed: water |||, oil none. Then you drip water into the 3 oil bowls, and all of them fizz. How many bowls fizzed in the end? What does that tell you? **6 bowls fizzed in the end: 3 and 3. It tells you the powder under the oil was ready all along. It only needed water.**. 3 water bowls fizzed first. Then 3 more fizzed when water reached them. 3 + 3 = 6. (queues `math.data.sorting-and-tallies.L2`)
+- In the sea water sprouts test, 10 moong were put in plain water and 10 in sea-salty water. 9 sprouted in plain water and 1 sprouted in sea-salty water. How many more sprouted in plain water? **8 more sprouted in plain water.**. 9 take away 1 is 8. The difference is big, so it was the salt that made the difference, not chance. (queues `math.addition-subtraction.meaning.L2`)
 
 ## Song
 One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evolution L2

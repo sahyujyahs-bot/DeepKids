@@ -3,7 +3,7 @@
  "title": "Healthy food: foods that help us grow, give us energy and protect us",
  "level": 2,
  "summary": {
-  "text": "Stir a little spit into thick rice-flour paste, and in ten minutes the paste turns runny. Stir in water instead, and it stays thick. Spit starts cutting starch into sugar, and that is how rice, ragi and chapati give us energy. Your child sorts foods by the three jobs they do: help us grow, give us energy, and protect us. They also find out why sweets and fried snacks are treats, good in small amounts.",
+  "text": "Stir a little spit into thick rice-flour paste, and in ten minutes the paste turns runny. Stir in water instead, and it stays thick. Spit starts to cut starch into sugar. Rice, ragi and chapati are full of starch, and your body uses the sugar from it for energy. Your child sorts foods by the three jobs they do: help us grow, give us energy, and protect us. They also find out why sweets and fried snacks are treats, good in small amounts.",
   "art": "Two steel katoris of white paste side by side: in one a spoon stands in thick paste, in the other the paste has gone thin and watery and runs off the spoon."
  },
  "intro": {
@@ -177,7 +177,7 @@
    "hint": "Think about the mouth, the tummy, the blood, and the new skin on a healed cut."
   },
   {
-   "q": "A chapati does not taste sweet, but your body turns it into sugar. What else might be different from how it tastes or looks?",
+   "q": "A chapati does not taste sweet, but your body turns it into sugar. Can a food be different on the inside from how it tastes or looks?",
    "kind": "deep",
    "hint": "Think of milk. It looks like one plain white drink, but it helps you grow, gives you energy and protects you."
   },
@@ -597,9 +597,10 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at the winning thali together. Ask what a real meal with these foods would be like.",
-     "say": "Would you like to eat this thali for real? What would you change?",
-     "kid": "Would you eat this thali? What would you change?"
+     "do": "Look at the winning thali together. Ask which food does which job, and why a full thali needs all three.",
+     "say": "Look at the winning thali. Which food is the grow food, which is the go food, and which is the protect food? Why does a full thali need one of each?",
+     "kid": "Look at the winning thali. Which food is grow, which is go, and which is protect? Why do we need all three?",
+     "parent": "Each food in the winning thali does a different job. The grow food builds and mends the body, the go food gives energy, and the protect food helps the body stay well. A good answer says that a meal with only one kind leaves out the other two jobs."
     }
    ]
   }
@@ -1496,7 +1497,7 @@
     },
     {
      "t": "perspective",
-     "p": "The second person and her brother the first person are looking at a packet of chips.",
+     "p": "A girl and her brother are looking at a packet of chips. They disagree about it.",
      "views": [
       {
        "who": "The first person",
@@ -1514,7 +1515,7 @@
     },
     {
      "t": "label",
-     "p": "Here is a plate of idli, sambar and a banana. Write G, E or P next to each food.",
+     "p": "Idli, sambar and a banana are on a plate. Write G for grow, E for energy or P for protect.",
      "a": "E next to the idli, G next to the sambar, P next to the banana. The banana could also get an E.",
      "why": "Idli is mostly rice starch. Sambar is made with dal, a grow food, and vegetables. A banana is a protect food, and it also gives sugar for energy.",
      "art": "A steel plate with two idlis, a bowl of sambar and a banana, with an empty box beside each."
@@ -1564,7 +1565,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and her grandmother are talking about milk.",
+     "p": "A girl and her grandmother are talking about milk.",
      "views": [
       {
        "who": "The first person",
@@ -1952,7 +1953,7 @@
   },
   "ask": [
    "When you chew a chapati, when does it stop being chapati and start being you?",
-   "If rice tastes plain but becomes sugar inside you, what else might be different from how it seems?",
+   "Rice tastes plain, but it becomes sugar inside you. Can other things be different on the inside from how they look or taste?",
    "Your cells decide whether to use sugar or store it. Is that a kind of thinking?"
   ],
   "art": "A child with eyes closed, chewing slowly, with a faint picture of a rice field and the Sun behind, and a thread of light from the Sun to the child."

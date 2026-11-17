@@ -59,7 +59,7 @@
   },
   {
    "term": "Balance",
-   "meaning": "A balance compares two weights. Its two pans hang level when both sides pull down the same.",
+   "meaning": "A balance is a tool with two pans, and it compares two weights. If both pans hold the same weight, they hang level. If one side is heavier, that side goes down.",
    "example": "A vegetable seller puts weights on one pan and tomatoes on the other until the pans are level.",
    "art": "A two-pan market balance with brass weights on one pan and red tomatoes on the other, hanging level."
   }
@@ -187,7 +187,7 @@
    "hint": "In the Secret Packet test, your hand missed the packet in the heavy bag, but a balance noticed it. Could something notice even smaller forces than a balance?"
   },
   {
-   "q": "Is heaviness in the bag, or in your hand?",
+   "q": "When you say a bag is heavy, are you describing the bag or describing how your hand feels?",
    "kind": "big",
    "hint": "In the Secret Packet test, the packet was the same in the empty bag and in the heavy bag. What changed was what your hand already held."
   },
@@ -777,8 +777,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Count the pushes and pulls you named. Drink the panakam. Ask the check question.",
-     "say": "How many forces did we use to make one drink? Which was the biggest force?",
-     "kid": "Count your forces. Which was biggest?",
+     "say": "How many pushes and pulls did we name while making one drink? Which were pushes, and which were pulls?",
+     "kid": "Count your forces. Which were pushes? Which were pulls?",
      "check": {
       "t": "mcq",
       "q": "Your fingers squeeze a lemon to get the juice out. Is that a push or a pull?",
@@ -1257,7 +1257,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about what worked. Ask the check question.",
-     "say": "Did your packet-catcher work with empty bags? With heavy bags? How is it like the vegetable seller's balance in the story, The Lemon in the Bag?",
+     "say": "Did your packet-catcher work with empty bags? With heavy bags? In the story, The Lemon in the Bag, the seller's balance went down on the side where the lemon was added. Did your hanger do the same thing?",
      "kid": "Did it catch the packet? With heavy bags too?",
      "check": {
       "t": "mcq",
@@ -1398,7 +1398,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her brother the second child did the Secret Packet test.",
+     "p": "Two children did the Secret Packet test. One is a girl aged 7, and the other is her brother, aged 6.",
      "views": [
       {
        "who": "The first child, aged 7",
@@ -1554,7 +1554,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmamma sells tomatoes in a market. Her son the first child helps her. They talk about holding bags of vegetables.",
+     "p": "Lakshmamma sells tomatoes in a market. Her son, who is 9, helps her. They talk about holding bags of vegetables.",
      "views": [
       {
        "who": "Lakshmamma",
@@ -2064,7 +2064,7 @@
   },
   "ask": [
    "In the Secret Packet test, your hand missed the packet in the heavy bag. Was the packet's pull still there?",
-   "Is the heaviness of a bag in the bag, or in your hand?",
+   "When you say a bag is heavy, are you describing the bag or describing how your hand feels?",
    "Which forces on you right now have you stopped noticing?"
   ],
   "art": "A girl sitting cross-legged with eyes shut and one palm open, with soft arrows showing the floor pushing up and the Earth pulling her hand down."

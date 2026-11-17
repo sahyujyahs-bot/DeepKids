@@ -175,7 +175,7 @@
    "description": "Children are a little different from their parents. Over thousands and thousands of generations, these small differences add up. That is how new kinds of living beings come about. It is very slow. For most of life's story, all life was tiny cells in water. The first animals big enough to see appeared in the sea only about 575 million years ago. Plants grew onto land about 470 million years ago. Animals with four legs walked out of the water about 375 million years ago. Humans like us appeared only about 300,000 years ago, in Africa. The crow at your window, the coconut tree, the ant on the floor and you all come from those first cells. You are all very distant cousins.",
    "examples": [
     "The first animals big enough to see were soft, flat and lived in the sea.",
-    "Birds come from dinosaurs, so the crow at your window is a living dinosaur.",
+    "Scientists have found that birds come from a group of dinosaurs. So the crow at your window is a kind of living dinosaur.",
     "Humans and monkeys are cousins: they come from the same ancestors, millions of years back."
    ],
    "perspectives": [],
@@ -193,7 +193,7 @@
   },
   {
    "text": "The Earth is about 4.5 billion years old.",
-   "evidence": "Radioactive rocks act like clocks. In 1956, Clair Patterson measured lead in meteorites and found the Earth is about 4.5 billion years old."
+   "evidence": "Some rocks hold radioactive atoms that change into other atoms at a steady speed. So these rocks work like clocks. In 1956, Clair Patterson measured lead in meteorites and found that the Earth is about 4.5 billion years old."
   },
   {
    "text": "Every living being today comes from the first cells.",
@@ -215,7 +215,7 @@
    "for": "Some meteorites carry chemicals that living things use. A meteorite that fell in Murchison, Australia, in 1969 held amino acids, which are building blocks of life.",
    "against": "No living being has ever been found in a meteorite. And the idea does not answer the question. We would still have to ask how life began in the place it came from.",
    "status": "minority",
-   "context": "This card is about an unusual idea of where Earth's life came from."
+   "context": "Panspermia is the word for this idea. It says that life started somewhere else in space, and then came to Earth on a rock or a bit of dust. This card is about whether that could be true."
   },
   {
    "claim": "Humans came from monkeys.",
@@ -229,7 +229,7 @@
    "claim": "The Earth and its life are only a few thousand years old.",
    "who": "An old idea, held by many people in the past",
    "for": "Long ago, people worked out the age of the world from family lists and old stories.",
-   "against": "Radioactive rocks act like clocks, and they show that some rocks are billions of years old. Layers of rock and fossils took a very long time to build up.",
+   "against": "Some rocks hold radioactive atoms that change into other atoms at a steady speed. So these rocks work like clocks, and they show that some rocks are billions of years old. Layers of rock and fossils also took a very long time to build up.",
    "status": "rejected",
    "context": "This card is about how old people once thought the Earth was."
   }
@@ -246,7 +246,7 @@
    "hint": "Think about the dry bowl and the oil bowl in the dry mix test."
   },
   {
-   "q": "Very far back, your ancestors were tiny cells in water. Is a part of them still in you?",
+   "q": "Every cell of yours came from another cell, and that goes back to the first cells in water. In what way are those first cells still part of you?",
    "kind": "big",
    "hint": "Every one of your cells came from another cell. Think about where that chain goes back to."
   },
@@ -891,7 +891,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Pick a crab or a prawn, and one other animal. 2. Count the crab's legs and find the eyes of both. 3. Your child draws them.",
-     "say": "Count this crab's legs. Can you find the eyes? Now look at the other animal. Long ago, the sea had animals called trilobites, with shells and many legs, a bit like a crab.",
+     "say": "Count this crab's legs. Can you find the eyes? Now look at the other animal. The first sea animals with shells, eyes and legs lived about 540 million years ago. Crabs and prawns still have shells, eyes and legs today.",
      "kid": "Count the crab's legs. Find the eyes of both animals. Draw them.",
      "parent": "A crab has 8 legs for walking and 2 claws. Crabs and prawns are arthropods, animals with jointed legs and a hard outer shell. Trilobites were arthropods too. They lived in the sea for about 270 million years and then died out."
     }
@@ -1179,8 +1179,9 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Label each animal. 2. Ask your child to show the box to someone and tell them about it.",
-     "say": "Tell someone at home about your sea. Which animal is your favourite? How is that animal different from animals today?",
-     "kid": "Write a label for each animal. Show your sea to someone. Tell them about your favourite animal."
+     "say": "Tell someone at home about your sea. Which of your animals looks a little like an animal alive today? Which one looks like nothing alive today?",
+     "kid": "Write a label for each animal. Show your sea to someone. Which animal looks like one alive today? Which one does not?",
+     "parent": "Use the animals your child made. For example, the trilobite has a hard shell and many legs, a little like a crab. Dickinsonia has no head, no legs and no eyes, so it looks like nothing alive today."
     }
    ]
   }
@@ -1191,7 +1192,7 @@
    "title": "Fizz Later: make the powder wait in water",
    "mins": 20,
    "context": "In the dry mix test, the powders fizzed as soon as water reached them. This challenge asks you to make a little packet that waits in water before it fizzes.",
-   "problem": "Make a small packet of the dry mix, which is baking soda and citric acid. Drop the packet into a tumbler of water. It should wait as long as possible before it starts to fizz, and then it must still fizz. Aim for at least 5 seconds.",
+   "problem": "Make a small packet of the dry mix, which is baking soda and citric acid. Drop the packet into a tumbler of water. It should wait as long as possible before it starts to fizz, and then it must still fizz. In the dry mix test, the powders fizzed only when water reached them. So if the water takes longer to reach the powder, the fizz should start later. Aim for at least 5 seconds.",
    "constraints": [
     "Use only half a spoon of baking soda and half a spoon of citric acid.",
     "Use only home things: tissue, paper, thread, a little cooking oil, sticky tape.",
@@ -1365,7 +1366,7 @@
     },
     {
      "t": "perspective",
-     "p": "The second person and the first person look at the oil bowl in the dry mix test, before any water is added.",
+     "p": "Two friends look at the oil bowl in the dry mix test, before any water is added.",
      "views": [
       {
        "who": "The first person",
@@ -1512,7 +1513,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and her grandmother are talking about life on Earth.",
+     "p": "A girl and her grandmother are talking about life on Earth.",
      "views": [
       {
        "who": "The first person",
@@ -1586,7 +1587,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and the second person are arguing about where life began.",
+     "p": "Two people are arguing about where life began.",
      "views": [
       {
        "who": "The first person",
@@ -2134,8 +2135,8 @@
   },
   "ask": [
    "Fruit salt powder can sit in a packet for months. A dry seed can sit for months too. What is the difference between them?",
-   "In One slow sip, you drank a little water. That water was once rain, and before that it was in the sea. When does the water become part of you?",
-   "On the Year of Life calendar, tiny cells had the Earth almost to themselves for most of the year. Whose world is the Earth?"
+   "In One slow sip, you drank a little water. That water was once in the sea, then in a cloud, then in rain. How does water from the sea end up inside your cells?",
+   "On the Year of Life calendar, tiny cells had the Earth almost to themselves for most of the year, and they are still everywhere. Does the Earth belong more to tiny cells or to big animals? Why?"
   ],
   "art": "A girl sipping water from a steel tumbler by a window, with a faint picture behind her of an old blue sea with domes of stromatolites."
  },

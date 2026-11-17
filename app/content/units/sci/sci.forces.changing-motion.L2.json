@@ -217,7 +217,7 @@
    "for": "Einstein's idea explains things Newton's pull cannot, like light from far stars bending as it passes the Sun. This was measured during an eclipse in 1919.",
    "against": "For the Moon, a ball on a ramp and a satellite, thinking of gravity as a pull works perfectly well. Nobody yet knows how to join Einstein's idea with the physics of tiny particles.",
    "status": "accepted",
-   "context": "This card is about two ways of describing gravity, the force that bends the Moon's path."
+   "context": "Newton described gravity as a pull between two things. In 1915, Einstein described it another way: big things such as the Earth bend space and time, and the Moon follows the bend. For the Moon, a ball on a ramp and a satellite, both ways give the same answer."
   }
  ],
  "big_questions": [
@@ -242,7 +242,7 @@
    "hint": "The turn is very gentle, and everything around you turns with you. You feel a turn in a bus because the bus turns sharply."
   },
   {
-   "q": "Your body changes shape a little every time you sit, jump or smile. Are you the same shape as you were yesterday?",
+   "q": "Your cheeks change shape when you smile, and your feet change shape when you stand on them. What gives the push or the pull each time?",
    "kind": "big",
    "hint": "Think of your cheeks when you smile, and your feet when you stand on them."
   }
@@ -928,7 +928,7 @@
       },
       {
        "f": "A bus pulls away from the stop and goes faster and faster.",
-       "b": "Speed. The engine turns the wheels, and the wheels push on the road."
+       "b": "Speed. The engine turns the wheels. The wheels push back on the road, and the road pushes the bus forward."
       },
       {
        "f": "A cricket ball hits the bat and flies back towards the bowler.",
@@ -1043,9 +1043,10 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the points. Ask one last question.",
-     "say": "Which card was the hardest? Can you think of a new card of your own?",
-     "kid": "Which card was hardest? Make up a new card.",
+     "do": "Count the points. Then ask your child to think of one thing they saw today that changed shape, speed or direction.",
+     "say": "Think of something you saw today that changed shape, speed or direction. Which of the three was it? What pushed or pulled it?",
+     "kid": "Think of one thing you saw today that changed. Was it shape, speed or direction? What pushed or pulled it?",
+     "parent": "Any real example works. A good answer names the change and the push or pull, for example: a bus slowing down is a change of speed, and the brakes rub the wheels.",
      "check": {
       "t": "mcq",
       "q": "A scooter turns right at a corner. What did the force change?",
@@ -1260,7 +1261,7 @@
    "title": "Round the Bend: get the ball into the tumbler",
    "mins": 20,
    "context": "This is a design challenge. A steel tumbler lies on its side behind a book, so a ball cannot roll straight in. Your job is to build walls that turn the ball into the tumbler.",
-   "problem": "Can you build walls from card and books that turn a rolling ball round the book and into the tumbler?",
+   "problem": "A rolling ball goes straight unless something pushes it sideways. A wall can do that pushing, as the card wall did in the Bend Wall test. After the last wall, the ball goes straight on. Can you build walls from card and books that turn a rolling ball round the book and into the tumbler?",
    "constraints": [
     "You give the ball one push at the start, and then you may not touch it.",
     "Use only card strips, books, tumblers and tape.",
@@ -2148,7 +2149,7 @@
   },
   "ask": [
    "The marble went straight when the wall ended. Does a moving thing always go straight when nothing pushes or pulls it?",
-   "When you lean on a wall, you push the wall and the wall pushes you. Which one is doing the pushing?",
+   "When you lean on a wall, you push the wall and the wall pushes you back. Can a wall push, even though it is not alive?",
    "The Moon has gone round the Earth for billions of years. What would happen to the Moon if the Earth's pull stopped?"
   ],
   "art": "A girl walking slowly across a room and turning before the wall, with soft arrows at her feet pushing sideways on the floor, and through the window the Moon with a curved path round the Earth."
