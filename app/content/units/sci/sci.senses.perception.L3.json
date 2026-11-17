@@ -219,7 +219,7 @@
    "description": "Cross your middle finger over your first finger. Now roll a pea between the two fingertips, with your eyes shut. Many people feel two peas. Normally, the outer sides of these two fingers never touch the same small thing at once. So when they both feel a pea, the brain decides there must be two. This was described by the Greek thinker Aristotle, more than 2,300 years ago, and it is called Aristotle's illusion.",
    "examples": [
     "One pea between crossed fingers feels like two.",
-    "A cold, dry steel plate can feel wet when you touch it."
+    "Touch a cold, dry steel plate. Many people say it feels a little wet. Your skin feels cold and wetness in a similar way, so the brain sometimes mixes them up."
    ],
    "perspectives": [],
    "art": "A child's hand with the middle finger crossed over the first finger, a green pea between the fingertips, and a thought bubble showing two peas.",
@@ -513,8 +513,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the tokens. Ask which cards fooled people most.",
-     "say": "Which card fooled you most? Did you get better at betting?",
-     "kid": "Count your tokens. Which card fooled you most?",
+     "say": "Which card fooled you most? What did the ruler show about that card?",
+     "kid": "Count your tokens. Which card fooled you most? What did the ruler show?",
      "check": {
       "t": "mcq",
       "q": "In the game Trust Your Eyes or the Ruler?, a player bets 3 tokens that two equal lines are different, and loses. What is the best lesson for that player?",
@@ -578,7 +578,7 @@
        "b": "Clue: Light from above"
       },
       {
-       "f": "A cartoon on TV.",
+       "f": "A cartoon on TV is made of still pictures, but the characters seem to move.",
        "b": "Clue: Pictures in a row"
       },
       {
@@ -662,8 +662,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the points. Ask which clue came up most.",
-     "say": "Which clue fools us most often, do you think?",
-     "kid": "Count your points. Which clue came up most?",
+     "say": "Pick one illusion card. Which clue fooled the brain? What did the brain wrongly guess?",
+     "kid": "Count your points. Pick one card. Which clue fooled the brain?",
      "check": {
       "t": "mcq",
       "q": "A cartoon on TV looks like moving characters. Which clue is the brain using?",
@@ -674,7 +674,8 @@
       ],
       "a": 2,
       "why": "A cartoon is many still pictures shown quickly, one after another. The brain joins them into movement. Far away and light from above are about size and shape, not movement."
-     }
+     },
+     "parent": "For the railway strips, the clue is far away. The brain wrongly guessed that the top strip was bigger. For the shaded circle, the clue is light from above. The brain wrongly guessed which way the surface faced."
     }
    ]
   }
@@ -1224,7 +1225,8 @@
      "kid": "Two pictures, but you see one. Why do you think that happens?",
      "parent": "The pictures swap many times each second. The brain cannot keep them apart that fast, so it joins them into one. The toy, called a thaumatrope, was sold in London from 1825. People said it worked by 'persistence of vision'. Scientists today say a fading image on the eye is not enough to explain it: the brain joins the pictures."
     }
-   ]
+   ],
+   "problem": "A thaumatrope is a card with one picture on each side. You will draw a bird on one side and a cage on the other. Then you will spin the card on rubber bands. What will you see when it spins fast?"
   },
   {
    "id": "a4",
@@ -1284,7 +1286,8 @@
       "why": "One eye sees the far room through the tube. The other eye sees your hand. Your brain puts both pictures together into one view, so the room seems to show through your hand."
      }
     }
-   ]
+   ],
+   "problem": "Each of your eyes sees a slightly different picture. Your brain joins them into one view. In this activity, one eye looks through a tube and the other eye looks at your hand. What will your brain make of these two pictures?"
   },
   {
    "id": "a5",
@@ -1515,7 +1518,8 @@
      "kid": "The dots never move. So who made the movement?",
      "parent": "The brain joins the two still dots into one dot that moves. This is called apparent motion, and it is how films and cartoons work. Wertheimer used two lines of light flashed one after the other, and his helpers saw one line move across."
     }
-   ]
+   ],
+   "problem": "In 1912 a scientist called Max Wertheimer flashed two lines of light, one after the other. People saw one line moving. You will try something like it with two dots on two pages. Will you see one dot moving?"
   }
  ],
  "projects": [

@@ -230,7 +230,7 @@
    "concept": "Why people checked their clocks and calendars against the sky",
    "status": "defined",
    "definition": "A water clock or a calculated table drifts a little from the truth over time. The sky's repeats are much steadier, so people corrected their clocks and calendars by watching the sky.",
-   "description": "A ghati bowl sinks a little faster or slower if the water is warmer, if the hole wears or if it is put down roughly. So astronomers checked it against the Sun and stars. Calculated tables of the sky drift too. Small errors in the numbers add up over hundreds of years. Parameshvara, in Kerala, saw that eclipses were not happening at the times the old tables said. He watched eclipses for decades and wrote a new, corrected system in 1431. Even the second was measured from the Earth's movement until 1967. Since then, it has been measured with atomic clocks, which are steadier still.",
+   "description": "A ghati bowl sinks a little faster or slower if the water is warmer, if the hole wears or if it is put down roughly. So astronomers checked it against the Sun and stars. Calculated tables of the sky drift too. Small errors in the numbers add up over hundreds of years. Parameshvara, in Kerala, saw that eclipses were not happening at the times the old tables said. He watched eclipses for decades and wrote a new, corrected system in 1431. Until 1967, even the length of the second came from the Earth's movement. Since then, it has been measured with atomic clocks, which are steadier still.",
    "examples": [
     "The sinking cup in this unit sinks in a slightly different time each round.",
     "Old tables made in 683 had drifted from the sky by the 1400s, and Parameshvara corrected them.",
@@ -462,7 +462,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a memory game. Each pair has one card for a people who watched the sky and one card for something they found out. Find a pair and say the fact in your own words to keep it.",
+   "context": "This is a memory game. Each pair has one card for a group of people who watched the sky, and one card for something they found out. Find a pair and say the fact in your own words to keep it.",
    "printables": [
     {
      "kind": "cards",
@@ -519,7 +519,7 @@
     }
    ],
    "rules": [
-    "Shuffle all 20 cards and lay them face down in rows. Each pair is one card for a people (the place in capital letters) and one card for what they found out.",
+    "Shuffle all 20 cards and lay them face down in rows. Each pair is one card for a group of sky-watchers, with their place in capital letters, and one card for what they found out.",
     "On your turn, turn over two cards.",
     "If they are the two halves of one pair, read both aloud. Then say the fact in your own words to keep the pair. If you cannot say it, turn both cards back face down. Now everyone has seen where they are.",
     "If they do not match, turn them back face down. The next player has a turn.",
@@ -531,7 +531,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 20 cards. 2. Read all the pairs together once, face up. 3. Shuffle and lay them face down.",
-     "say": "Each pair is a people who watched the sky and something they found out. Let's read them all first. Then we hide them.",
+     "say": "Each pair is a group of sky-watchers and something they found out. Let's read them all first. Then we hide them.",
      "kid": "Read all the cards first. Then turn them face down and mix them.",
      "context": "This is the first step of Sky-Watchers of the World, a memory game about who found out what about the sky."
     },
@@ -557,9 +557,10 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the pairs. Then ask your child which sky-watcher they would most like to meet.",
-     "say": "Which sky-watcher would you most like to meet? What would you ask them?",
-     "kid": "Count your pairs. Who would you like to meet? What would you ask?"
+     "do": "Count the pairs. Then ask your child how one of the sky-watchers found out their fact.",
+     "say": "Pick one pair. How did those sky-watchers find out their fact? What did they watch or measure?",
+     "kid": "Count your pairs. Pick one. How did they find out their fact?",
+     "parent": "For example, Eratosthenes measured a noon shadow in Alexandria. Parameshvara watched real eclipses for decades. The Babylonians wrote down the sky every night."
     }
    ],
    "setup": [
@@ -1375,7 +1376,8 @@
      "art": "The child's left hand holding up three fingers, and the right thumb counting again.",
      "caption": "2. Each finger on the other hand is one lot of 12."
     }
-   ]
+   ],
+   "problem": "The Babylonians counted in sixties, and nobody is sure why. One idea is that they counted on their fingers. You will try that idea and see whether it gets you to 60."
   },
   {
    "id": "a4",
@@ -1452,7 +1454,8 @@
      "art": "A map of India with two cities marked, one far north of the other, and a longer shadow drawn at the northern city.",
      "caption": "2. Compare with someone far north or south."
     }
-   ]
+   ],
+   "problem": "At noon, a stick makes a shadow. Is the shadow the same length in two cities that are far apart from north to south? Eratosthenes found it was not, and he used that to measure the Earth. You will check with someone in another city."
   },
   {
    "id": "a5",
@@ -1473,7 +1476,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Look at the evening sky. Record it on a dough tablet with wedge marks. Leave it to dry on a window sill; it hardens in about two days."
+     "what": "Look at the evening sky. Record it on a dough tablet with wedge marks. Leave it to dry on a window sill. It hardens in about two days."
     }
    ],
    "record": "Keep the dried tablet, and write what each mark means on a paper beside it.",
@@ -2603,8 +2606,8 @@
   "How many nazhigai until dinner?",
   "Where did the Sun set today, compared with last week?",
   "What shape is the Moon tonight? When will it be full?",
-  "Why do you think every people in the world made a calendar?",
-  "Which sky-watcher from this unit would you like to be, and why?",
+  "Why do you think people in every part of the world made a calendar?",
+  "Babylonian sky-watchers kept records for hundreds of years. What could a long record show that a few weeks of watching could not?",
   "Can you count to 60 on your hands the Babylonian way?",
   "What else at home repeats steadily, like a clock?",
   "If you wrote down the sky every night for a year, what patterns might you find?"
@@ -2871,7 +2874,7 @@
   "context": "We have built a water clock, tested how steady it is, and met the people who learned to count time from the sky. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "In the Sinking Cup Clock, the cup sank in nearly the same time each round, but never exactly the same. Clocks made of water, sand or springs drift a little like this. The Sun, Moon and stars repeat far more steadily. So for thousands of years, people set their clocks and calendars by the sky.",
-   "habit": "We think time comes from the clock on the wall or the phone, and the sky just goes along with it. It is the other way round. The day, the month and the year were all counted from the sky, and the second itself was measured from the Earth's movement until 1967.",
+   "habit": "We think time comes from the clock on the wall or the phone, and the sky just goes along with it. It is the other way round. The day, the month and the year were all counted from the sky. Until 1967, even the length of the second came from the Earth's movement.",
    "evidence": "In the Sinking Cup Clock, three rounds with the same cup gave close but different times. Parameshvara found that even very good tables of the sky drifted over 700 years, and he corrected them by watching real eclipses."
   },
   "three": {
@@ -2918,7 +2921,7 @@
   },
   "ask": [
    "Your heartbeat, your cup clock and the turning Earth all repeat. Which one would you trust to count a whole year, and why?",
-   "If people on Mars made a calendar, would it be the same as ours? What would be different?",
+   "A calendar counts the sky's repeats. Suppose a planet turned once every 10 of our days. How long would a day be on that planet?",
    "Is time something real in the world, or only our way of counting the sky's repeats?"
   ],
   "art": "A child sitting on a balcony at dusk with eyes closed, two fingers on her neck, a cup clock floating in a steel vessel beside her and a thin crescent Moon in the sky."

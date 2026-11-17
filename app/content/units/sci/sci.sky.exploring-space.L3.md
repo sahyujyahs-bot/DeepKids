@@ -7,7 +7,7 @@
 
 ## Learning outcomes
 0. I can say what space is, and that the air we breathe is a thin layer close to the Earth.
-1. I can explain, from my own candle test, why a flame needs air, and why a rocket must carry its own oxygen.
+1. I can explain, from my own test with a candle under a jar, why a flame needs air, and why a rocket must carry its own oxygen.
 2. I can say how a rocket moves upward, and why it drops its empty parts on the way.
 3. I can explain that a telescope's main job is to collect light, and why bigger telescopes see fainter things.
 4. I can say what an astronaut needs to stay alive in space, and where each thing comes from.
@@ -34,14 +34,14 @@
 ### Where space begins · *defined*
 **Definition:** Space is what lies beyond the Earth's atmosphere. Many scientists use a line 100 kilometres up as the edge of space.
 
-The air is thickest at the ground. Every step higher, there is less of it. On top of Mount Everest, nearly 9 kilometres up, each breath holds only about a third as much air as at the beach. Planes fly about 10 to 12 kilometres up. At 100 kilometres there is so little air that a plane's wings cannot hold it up. Above that is space. It is not that the air stops at a wall. It just thins out until there is almost none. 100 kilometres is a little less than the distance from Bengaluru to Mysuru. Space is that close above your head.
+The air is thickest at the ground. Every step higher, there is less of it. On top of Mount Everest, nearly 9 kilometres up, each breath holds only about a third as much air as at the beach. Planes fly about 10 to 12 kilometres up. At 100 kilometres there is so little air that wings cannot hold a plane up. Above that is space. The air does not stop at a wall. It just thins out until there is almost none. 100 kilometres is a little less than the distance from Bengaluru to Mysuru. Space is that close above your head.
 - e.g. On a lime-sized Earth, the edge of space is less than half a millimetre above the skin.
 - e.g. The International Space Station flies about 400 kilometres up.
 - e.g. Climbers on Mount Everest often carry oxygen tanks because the air is so thin.
 ### Why a flame needs air · *defined*
 **Definition:** Burning is fuel joining with oxygen. It gives out heat and light. When the oxygen around a flame runs low, the flame goes out.
 
-A candle flame burns wax gas, and it uses oxygen from the air around it. In the jar test, the flame could use only the air inside the jar. A small glass held only a little air, so the flame soon ran short and went out. A big jar held more air, so the flame lasted longer. The flame does not use up every bit of oxygen. It stops once there is too little left near the wick. Fresh air rushing in is why blowing gently on coals makes them glow brighter.
+A candle flame burns wax that has turned to gas, and it uses oxygen from the air around it. In The Jar and the Flame, a lit candle was covered with a jar, so the flame could use only the air inside the jar. A small glass held only a little air, so the flame soon ran short and went out. A big jar held more air, so the flame lasted longer. The flame does not use up every bit of oxygen. It stops once there is too little left near the wick. Blowing gently on coals makes them glow brighter for the same reason: it brings them fresh air.
 - e.g. A diya covered by a steel tumbler goes out in a few seconds.
 - e.g. Fanning a coal stove makes it burn hotter, because it brings more oxygen.
 - e.g. A fire blanket puts out a pan fire by keeping the air away.
@@ -55,14 +55,14 @@ A car or a plane engine takes oxygen from the air around it. A rocket cannot do 
 ### How a rocket moves up · *defined*
 **Definition:** A rocket pushes hot gas out of its engine downwards, very fast. The gas pushes back on the rocket and drives it upwards.
 
-Burning makes a huge amount of hot gas inside the engine. The gas rushes out of the bottom of the rocket. As the rocket pushes the gas down, the gas pushes the rocket up, just as hard. This works in space too, because the rocket is pushing on its own gas, not on the air. Most of a rocket's weight at launch is fuel and oxygen. As they burn away, the rocket gets lighter and goes faster. Rockets are built in parts called stages. When a stage's tanks are empty, it drops off, so the rocket does not carry dead weight. PSLV has four stages.
+Burning makes a huge amount of hot gas inside the engine. The gas rushes out of the bottom of the rocket. As the rocket pushes the gas down, the gas pushes the rocket up, just as hard. This works in space too, because the rocket is pushing on its own gas, not on the air. Most of a rocket's weight at launch is fuel and oxygen. As they burn away, the rocket gets lighter and goes faster. Rockets are built in parts called stages. When a stage's tanks are empty, it drops off, so the rocket does not have to carry empty tanks. PSLV has four stages.
 - e.g. When you let go of a blown-up balloon, the air rushes out one way and the balloon flies the other way.
 - e.g. A rocket's first stage falls into the sea after a few minutes.
 - e.g. Diwali rockets work the same way, pushing hot gas down out of their tail.
 ### What a telescope is really for · *defined*
 **Definition:** A telescope collects light from faraway things with a large lens or a curved mirror, and brings it together to make a picture.
 
-The black circle in the middle of your eye, the pupil, is at most about 7 millimetres across in the dark. Only the light that falls into that small hole reaches you. A telescope's lens or mirror is far bigger, so it catches far more light. The light from many faint stars is too weak for our eyes. A big telescope gathers enough of it to see them. That is why the biggest telescopes are built with mirrors many metres across. In your half-lens test, covering half the lens did not cut off half the picture. The whole window stayed, only dimmer. Every part of a lens collects light from every part of the view, so a bigger lens gives a brighter picture.
+The black circle in the middle of your eye, the pupil, is at most about 7 millimetres across in the dark. Only the light that falls into that small hole reaches you. A telescope's lens or mirror is far bigger, so it catches far more light. The light from many faint stars is too weak for our eyes. A big telescope gathers enough of it to show them. That is why the biggest telescopes are built with mirrors many metres across. In Half a Lens, you made a picture of a window with a magnifying glass and then covered half the lens. Half the picture did not vanish. The whole window stayed in the picture, only dimmer. Every part of a lens collects light from every part of the view, so a bigger lens gives a brighter picture.
 - e.g. Galileo's small telescope in 1610 showed him many more stars than anyone had ever seen.
 - e.g. The Devasthal telescope near Nainital has a mirror 3.6 metres wide.
 - e.g. The Vainu Bappu Observatory at Kavalur in Tamil Nadu has a telescope with a mirror 2.3 metres wide.
@@ -76,7 +76,7 @@ When you look at stars from the ground, they twinkle. Twinkling is the moving ai
 ### Staying alive as an astronaut · *defined*
 **Definition:** Astronauts need air to breathe, water, food, a safe temperature, and protection from the Sun's harsh light. All of these must be brought from Earth or made from things brought from Earth.
 
-A spacecraft is a sealed bubble of air. Fans keep the air moving, because in orbit warm air does not rise, so breathed-out air could stay around an astronaut's face. On the International Space Station, machines make oxygen by splitting water with electricity. That water came up from Earth on rockets. Most of the station's water is cleaned and used again, even the water from sweat and urine. Food comes up from Earth in packets. Outside, an astronaut wears a spacesuit, which is like a small spacecraft shaped like a person. The astronauts on the station float because they and the station are falling round the Earth together, not because there is no gravity there.
+A spacecraft is a sealed bubble of air. Fans keep the air moving. In orbit warm air does not rise, so without fans the air an astronaut breathes out could stay around their face. On the International Space Station, machines make oxygen by splitting water with electricity. That water came up from Earth on rockets. Most of the station's water is cleaned and used again, even the water from sweat and urine. Food comes up from Earth in packets. Outside, an astronaut wears a spacesuit, which is like a small spacecraft shaped like a person. The astronauts on the station float because they and the station are falling round the Earth together, not because there is no gravity there.
 - e.g. One person breathes in a little less than 1 kilogram of oxygen in a day.
 - e.g. On the space station, the water from yesterday's sweat can be today's drinking water, after it is cleaned.
 - e.g. Astronauts strap themselves into sleeping bags so they do not float about while they sleep.
@@ -110,7 +110,7 @@ Robots and telescopes have done most of our exploring. A robot needs no air, foo
 - There is water on the Moon, mostly as ice in dark craters near the poles and as traces in the dust. *How we know:* Chandrayaan-1, two other spacecraft and new tests on old Apollo rocks all found signs of it.
 
 ## How we found out
-**ISRO's Chandrayaan-1 team, and Carle Pieters, an American scientist who led NASA's Moon Mineralogy Mapper on board, 1969 to 1972 (Moon rocks brought back), 2008 (Chandrayaan-1 launched), 2009 (water traces reported) and 2018 (polar ice found in its data).** Between 1969 and 1972, astronauts brought back about 380 kilograms of rock and dust from the Moon. Scientists tested it for water and found almost none. The few traces they did find, they blamed on damp air from Earth getting into the boxes. So for nearly 40 years, most scientists believed the Moon was bone dry. On 22 October 2008, India launched its first Moon mission, Chandrayaan-1, from Sriharikota. It carried an instrument from NASA called the Moon Mineralogy Mapper, led by the American scientist Carle Pieters. It measured the sunlight bouncing off the Moon. Water soaks up some kinds of light, which our eyes cannot see, and leaves a gap in the reflected light. The Mapper found that gap over large parts of the Moon, strongest near the poles. In September 2009, Pieters and her team reported thin traces of water in the Moon's dust. Two other spacecraft had seen the same. In 2008, scientists also found tiny amounts of water inside glass beads in the old Apollo rocks. In 2018, a study of Chandrayaan-1's data found ice in dark craters at both poles. The dry Moon idea was wrong.  
+**ISRO's Chandrayaan-1 team, and Carle Pieters, an American scientist who led NASA's Moon Mineralogy Mapper on board, 1969 to 1972 (Moon rocks brought back), 2008 (Chandrayaan-1 launched), 2009 (water traces reported) and 2018 (polar ice found in its data).** Between 1969 and 1972, astronauts brought back about 380 kilograms of rock and dust from the Moon. Scientists tested it for water and found almost none. They did find a few traces, but they thought these came from damp air from Earth getting into the boxes. So for nearly 40 years, most scientists believed the Moon was completely dry. On 22 October 2008, India launched its first Moon mission, Chandrayaan-1, from Sriharikota. It carried an instrument from NASA called the Moon Mineralogy Mapper, led by the American scientist Carle Pieters. It measured the sunlight bouncing off the Moon. Water soaks up some kinds of light that our eyes cannot see, and this leaves a gap in the reflected light. The Mapper found that gap over large parts of the Moon, strongest near the poles. In September 2009, Pieters and her team reported thin traces of water in the Moon's dust. Two other spacecraft had seen the same. In 2008, scientists also found tiny amounts of water inside glass beads in the old Apollo rocks. In 2018, a study of Chandrayaan-1's data found ice in dark craters at both poles. The dry Moon idea was wrong.  
 *What people believed before:* Most scientists thought the Moon was completely dry, because the Apollo rocks seemed to have no water. Chandrayaan-1 measured the light reflected by the Moon and found the gap that water leaves, over much of the surface. Later its data showed ice in the dark polar craters.
 
 ## Challenging perspectives
@@ -133,13 +133,13 @@ Robots and telescopes have done most of our exploring. A robot needs no air, foo
 ## Roots
 We have timed a candle under jars, found how thin the air is, and followed rockets and astronauts beyond it. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Under the bigger jar, your candle burned longer, because it had more air to use. A flame goes out when the oxygen around it runs low. Space has no air, so rockets carry their own oxygen and astronauts carry their own air. Leaving the Earth means taking some of the Earth's air along.  
-*Habit it breaks:* We picture space as more sky, the same air going up and up. But the air is a thin layer close to the ground, with almost nothing above it. We also think of going into space as leaving the Earth behind. No one has gone without bringing the Earth's air, or water to make it.  
+**Deep truth.** In The Jar and the Flame, the candle burned longer under the bigger jar, because it had more air to use. A flame goes out when the oxygen around it runs low. Space has no air, so rockets carry their own oxygen and astronauts carry their own air. Leaving the Earth means taking some of the Earth's air along.  
+*Habit it breaks:* We picture space as more sky, the same air going up and up. But the air is a thin layer close to the ground, with almost nothing above it. We also think of going into space as leaving the Earth behind. But no one has gone without bringing air from the Earth, or water from the Earth to make oxygen.  
 *Evidence:* In The Jar and the Flame, the tealight went out in a few seconds under a small glass, and lasted several times longer under a big jar. In How Far Is Space?, the edge of space was less than half a millimetre above a lime-sized Earth.
 
-- *who am i:* You are a body that needs fresh air every few seconds, like the candle needed it under the jar.
+- *who am i:* You are a body that needs fresh air every few seconds, just as the candle under the jar needed it.
 - *what is life:* Plants and algae put oxygen into the air, and you and the candle use it up. Every breath you take was made by living things.
-- *what is this world:* The Earth is wrapped in a thin skin of air, thinner on a lime than four sheets of paper, and beyond it space is almost empty.
+- *what is this world:* The Earth is wrapped in a thin skin of air. On a lime-sized Earth, that skin would be about as thick as four sheets of paper. Beyond it, space is almost empty.
 
 All the oxygen in the Earth's air was put there by living things, mostly tiny sea microbes, algae and plants, over a very long time. You breathe it, a candle burns it, and a rocket carries it into space as liquid oxygen. An astronaut's breath on the space station comes from water that was carried up from Earth. So one thin layer of air, made by countless living beings, is shared by every flame and every breath, even the ones beyond the sky.
 
@@ -154,9 +154,9 @@ All the oxygen in the Earth's air was put there by living things, mostly tiny se
 - Ask: One day people may make air from Moon rock. Would that air be any different from the air here?
 
 ## Deep and big questions
-- *big:* Every astronaut so far has breathed air or water brought from Earth. Can anyone really leave the Earth? (hint: Think about what an astronaut carries, and what they cannot do without for even a few minutes.)
+- *big:* Every astronaut so far has breathed air brought from Earth, or air made from water brought from Earth. Can anyone really leave the Earth? (hint: Think about what an astronaut carries, and what they cannot do without for even a few minutes.)
 - *deep:* Why does the air stay close to the Earth, instead of floating off into space? (hint: Think about what pulls everything, even air, towards the ground.)
-- *deep:* Covering half a lens did not cut the picture in half. So where in the lens is the picture? (hint: Think about light from one corner of the window. Which parts of the lens did it pass through?)
+- *deep:* In Half a Lens, covering half of the magnifying glass did not cut the picture of the window in half. So which part of the lens makes the picture? (hint: Think about light from one corner of the window. Which parts of the lens did it pass through?)
 - *big:* When we look at a faraway star, we see light that left it long ago. Are we seeing the star, or the star's past? (hint: Light takes time to travel. Think about a letter that took years to arrive.)
 - *big:* Would a robot on the Moon feel anything about where it is? (hint: Think about what it senses, what it does with what it senses, and whether that is a kind of feeling.)
 - *big:* If you could send one thing into space to learn something new, what would you send, and why? (hint: Think about a question you have about space, and what tool could answer it.)
@@ -222,17 +222,17 @@ Kavya found a small model of Chandrayaan-3's lander. A card beside it said that 
 
 That evening, back on the sand, Kavya watched the sky turn orange and then grey. She thought about the air around her, the air she could not see. It felt thick and soft here by the sea. But it went up only a little way, and then it thinned to nothing. Beyond it, the stars were coming out.
 
-**For the parent:** For the parent: a plane needs the air twice, once for its wings to push on and once for the oxygen its engines burn. High up there is too little of both. A rocket works where there is no air because it carries its own oxygen and pushes on its own hot gas. Astronauts must carry their air for the same reason. The orange cloud is true history: sodium glows in sunlight, and at dusk the cloud high above was still in sunshine while the beach was dark.
+**For the parent:** For the parent: a plane needs the air for two things: for its wings to push on, and for the oxygen its engines burn. High up there is too little air for either. A rocket works where there is no air because it carries its own oxygen and pushes on its own hot gas. Astronauts must carry their air for the same reason. The orange cloud is true history: sodium glows in sunlight, and at dusk the cloud high above was still in sunshine while the beach was dark.
 
 - Ask: Why can a plane not fly to the Moon? Give both of Ammamma's reasons.
 - Ask: How did Ammamma's rocket fuel burn where there is no air?
 - Ask: Why was the orange cloud still shining when the beach was almost dark?
 - Ask: Why did the scientists want to see a cloud move?
-- Ask: Kavya said a rocket carrying oxygen is like carrying your own lunch. Can you think of another way to say it?
+- Ask: Kavya said a rocket carrying oxygen is like carrying your own lunch. Why is that a good comparison?
 
 ## Games
 ### g1 · Countdown: a board game from Sriharikota to the Moon (20 min)
-- **rules:** Put all rockets on Sriharikota. Shuffle the question cards and put them face down.; On your turn, roll a die and move that many squares.; If you land on a question square, another player reads you a card (the question side). Right? Move on 1 more. Wrong? Stay where you are and hear the answer. When the cards run out, shuffle them and use them again.; Follow the instructions on a special square only when your own roll lands you on it. If a square moves you on or back, do not follow the square you arrive on.; The first rocket to land on the Moon's south pole wins. You do not need an exact roll.; Playing alone, read the cards yourself, cover the answer, and try to land in 12 turns or fewer.
+- **rules:** Put all rockets on Sriharikota. Shuffle the question cards and put them face down.; On your turn, roll a die and move that many squares.; If you land on a question square, another player reads you the question side of a card. If you are right, move on 1 more square. If you are wrong, stay where you are and listen to the answer. When the cards run out, shuffle them and use them again.; Follow the instructions on a special square only when your own roll lands you on it. If a square moves you on or back, do not follow the instructions on the square you arrive on.; The first rocket to land on the Moon's south pole wins. You do not need an exact roll.; If you play alone, read each question yourself, keep the answer covered until you have answered, and try to land on the Moon in 12 turns or fewer.
 - **Printable board: A path of 30 squares:** Square 1: Sriharikota launch pad (start); Square 2: Question square. Take a question card.; Square 3: Question square. Take a question card.; Square 4: Question square. Take a question card.; Square 5: First stage empty. Drop it and move on 2.; Square 6: Question square. Take a question card.; Square 7: Question square. Take a question card.; Square 8: Question square. Take a question card.; Square 9: Thick air slows you. Miss a turn.; Square 10: Question square. Take a question card.; Square 11: Question square. Take a question card.; Square 12: You pass 100 km. Welcome to space! Move on 1.; Square 13: Question square. Take a question card.; Square 14: Question square. Take a question card.; Square 15: Question square. Take a question card.; Square 16: Second stage empty. Drop it and move on 2.; Square 17: Question square. Take a question card.; Square 18: Question square. Take a question card.; Square 19: Question square. Take a question card.; Square 20: Oxygen tank leak. Go back 3.; Square 21: Question square. Take a question card.; Square 22: Question square. Take a question card.; Square 23: Question square. Take a question card.; Square 24: Mission control fixes your path. Move on 2.; Square 25: Question square. Take a question card.; Square 26: Question square. Take a question card.; Square 27: Dust cloud on landing. Miss a turn.; Square 28: Question square. Take a question card.; Square 29: Question square. Take a question card.; Square 30: The Moon's south pole (finish)
 - **Printable cards: 16 question cards:** Where does space begin? (back: About 100 km up); Why does a rocket carry its own oxygen? (back: There is no air in space, and fuel needs oxygen to burn); What does a telescope mainly do? (back: Collects light); Name India's first satellite. (back: Aryabhata); Who was the first Indian in space? (back: Rakesh Sharma); What was the name of Chandrayaan-3's rover? (back: Pragyan); Which planet did Mangalyaan go to? (back: Mars); Why does a rocket drop its stages? (back: So it does not carry empty tanks); Why do astronauts float on the space station? (back: They are falling round the Earth together with the station); Where does India launch most of its rockets from? (back: Sriharikota); What did Chandrayaan-1 help find on the Moon? (back: Water); Why do stars twinkle? (back: Moving air bends their light); What does Aditya-L1 study? (back: The Sun); A candle under a big jar burns longer than under a small one. Why? (back: The big jar holds more air); How is oxygen made on the space station? (back: By splitting water); Who was the first Indian to visit the International Space Station? (back: Shubhanshu Shukla)
 - **Printable tokens: Rocket tokens:** Cut out 4 small paper rockets in different colours, one for each player (or use 4 buttons).
@@ -247,8 +247,9 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Note: When a child gets a card wrong, read the answer and ask them to say it back in their own words. That counts as learning, not losing.
 - **s3 (2 min)**  
   *Parent does:* Talk about the game.  
-  *Parent says:* Which square slowed you down most? Which question was hardest?  
-  *Child mode:* Which question was hardest? Why?
+  *Parent says:* Which squares in the game come from real rockets? What does each one stand for?  
+  *Child mode:* Which squares come from real rockets? What does each one stand for?
+  - Note: The stage squares stand for dropping empty stages. The thick air square stands for the dense air near the ground. The 100 km square is the edge of space. The oxygen leak square is a rocket losing the oxygen it needs to burn fuel.
   - Check: On the board, the oxygen tank leak sends you back. Why would a leak be so bad for a real rocket? → **Without enough oxygen, the fuel cannot burn and the engine stops**
 ### g2 · Real or Space Myth? a quick card game (10 min)
 - **rules:** Each player has a REAL card and a MYTH card. Shuffle the statement cards.; A grown-up reads a statement card aloud (the statement side). Everyone holds up REAL or MYTH at the same time.; Each player who is right scores 1 point. Give a reason, and score 1 more point.; Playing alone, read each card, decide, then turn it over to check the answer.; After 16 cards, the most points wins.
@@ -262,11 +263,12 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Parent does:* Read the cards one at a time. Ask for a reason after each.  
   *Parent says:* How do you know? Which test or story in this unit tells you?  
   *Child mode:* Say why you chose it.
-  - Note: Reasons that point to the candle test or the half-lens test are the best ones.
+  - Note: The best reasons point to an experiment in this unit: The Jar and the Flame, or Half a Lens.
 - **s3 (2 min)**  
   *Parent does:* Count the points and talk about the trickiest card.  
-  *Parent says:* Which myth did you nearly believe? Why do you think so many people believe it?  
-  *Child mode:* Which myth nearly fooled you?
+  *Parent says:* Pick one myth card. What is the true idea? Which test or fact in this unit shows it?  
+  *Child mode:* Count your points. Pick one myth card. What is the true idea?
+  - Note: For example, 'a telescope makes things look bigger' is a myth. A telescope mainly collects light, as Half a Lens showed.
   - Check: Why can't you hear a rocket roaring in space? → **Sound needs air to travel, and space has almost none**
 
 ## Experiments
@@ -275,7 +277,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **predict:** We will cover a lit candle with a small glass, a big glass and a big jar. Under which one will the flame last longest? Why do you think so? Do you think the biggest jar will keep it burning for ever?
 - **fair test:** Use the same candle, the same plate and the same person on the timer every time. Only the size of the glass or jar changes. Start the timer the moment the rim touches the plate. Lift the jar and wave it in the air for half a minute between tries, so it is full of fresh air. Do three tries with each one, because one try can be a fluke.
 - **safety:** A grown-up lights the candle and stays at the table all the time. Tie back long hair and keep sleeves and paper away from the flame. Put the plate on a steady table, away from curtains and fans. The glass may get warm at the top, so the grown-up lifts it by its lower part. Blow the candle out when you finish.
-- **record:** Fill in the table. Then draw three bars, one for each container, as tall as its middle time. Write one sentence under the bars that says what the pattern is.
+- **record:** Fill in the table. Then draw three bars, one for each container. Make each bar as tall as the middle one of that container's three times. Write one sentence under the bars that says what the pattern is.
 - **results table:** Glass or jar | How many small tumblers of water it holds | My guess | Try 1 (seconds) | Try 2 (seconds) | Try 3 (seconds) | Middle number
 - **s1 (5 min)**  
   *Parent does:* 1. Fill each container with water, using the small steel tumbler, and count the tumblers. 2. Write the numbers in the table. 3. Pour the water out and dry each container well.  
@@ -292,12 +294,12 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Parent does:* 1. Put the plate on a steady table. 2. Put the candle in the middle. 3. Light it, and wait until the flame is its normal size.  
   *Parent says:* I will light the candle. We wait until the flame stands tall and steady before we start.  
   *Child mode:* Fetch a grown-up to light the candle. Wait for a tall, steady flame.
-  - Note: Keep the matches with you. Make sure the flame is well inside the smallest container's rim, with space above it.
+  - Note: Keep the matches with you. Check that the smallest glass can cover the candle with room to spare: the flame must be well inside the rim, with space above it.
 - **s4 (12 min) · grown-up needed**  
   *Parent does:* 1. Hold the small glass upside down just above the flame. 2. Say 'go' and lower it flat on the plate. 3. Your child times until the flame disappears. 4. Lift the glass, wave it for half a minute, and relight the candle if needed. 5. Do three tries for each container.  
   *Parent says:* Ready? Go! Watch the flame closely. Say 'stop' the moment it disappears.  
   *Child mode:* Say go when the glass touches the plate. Watch the flame. Say stop when it vanishes.
-  - Note: You will see the flame shrink and turn dim before it goes out, and a thin line of smoke from the wick. With a tealight, a small glass often gives about 5 to 10 seconds, and a 1 litre jar about 25 to 45 seconds. Your times will be different. What matters is the order. If one try is very different from the other two, do a fourth. If the candle will not relight, the wick may be damp: wait a minute.
+  - Note: You will see the flame shrink and turn dim before it goes out, and a thin line of smoke from the wick. With a tealight, a small glass often gives about 5 to 10 seconds, and a 1 litre jar about 25 to 45 seconds. Your times will be different. What matters is the order: which container keeps the flame longest and which shortest. If one try is very different from the other two, do a fourth. If the candle will not relight, the wick may be damp: wait a minute.
   - Think: Why did the flame go out, when there was still wax left?
 - **s5 (3 min)**  
   *Parent does:* 1. Find the middle number of the three tries for each container. 2. Put the times next to the tumbler counts.  
@@ -305,10 +307,10 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Child mode:* Look at your numbers. Which jar kept the flame longest? How much air did it hold?
   - Check: The flame went out under every jar, even though wax was left. Why? → **The flame used up the oxygen in the jar, and too little was left to keep it burning**
 - **s6 (4 min)**  
-  *Parent does:* 1. Ask your child to say or write three things: what I think, what I saw, and why. 2. Then ask the rocket question.  
+  *Parent does:* 1. Ask your child to say or write three things: what they think, what they saw, and why. 2. Then ask the rocket question.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Now, a rocket's engine is a fire. In space there is no air at all. What must a rocket take with it?  
-  *Child mode:* Say three things. What I think. What I saw. Why. A rocket's engine is a fire. What must it carry into space?
-  - Note: This is claim, evidence and reasoning. A good answer: what I think: a flame needs air, and more air keeps it burning longer. What I saw: under the small glass the flame lasted about 8 seconds, and under the big jar about 35 seconds. Why: the flame uses up the oxygen in the air, and a big jar holds more. So a rocket in space must carry its own oxygen, because there is no air there.
+  *Child mode:* Say three things: what you think, what you saw, and why. Then answer this: a rocket's engine is a fire. What must it carry into space?
+  - Note: The three things are a claim, the evidence for it, and the reason. A good answer: I think a flame needs air, and more air keeps it burning longer. I saw that under the small glass the flame lasted about 8 seconds, and under the big jar about 35 seconds. This is because the flame uses up the oxygen in the air, and a big jar holds more. So a rocket in space must carry its own oxygen, because there is no air there.
   - Check: In space there is no air. What does a rocket carry so that its fuel can burn? → **Its own oxygen, or a chemical full of oxygen**
 ### e2 · Half a Lens: does covering half a magnifying glass cut the picture in half? (25 min)
 - **question:** A magnifying glass can make a picture of a window on paper. If you cover half of the lens, what happens to the picture?
@@ -319,13 +321,13 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **results table:** How much of the lens is open | My guess | Is the whole window still in the picture? | Bright, dimmer or very dim?
 - **s1 (7 min)**  
   *Parent does:* 1. Darken the room, but leave one window open to daylight. 2. Tape the paper to the wall opposite the window, at least 3 metres away. 3. Hold the lens near the paper and slowly move it towards the window until a sharp picture appears.  
-  *Parent says:* Let's catch the window on paper. Move the lens slowly, closer to the paper and further away, until the picture is sharp.  
+  *Parent says:* Let's make a picture of the window on the paper. Move the lens slowly, closer to the paper and further away, until the picture is sharp.  
   *Child mode:* Hold the lens near the paper. Move it slowly. Stop when the window looks sharp.
   - Note: A common magnifying glass makes a sharp picture about 10 to 20 cm from the paper. The picture is small and upside down, with the sky at the bottom. Resting your elbow on a chair or a pile of books keeps the lens steady.
 - **s2 (4 min)**  
   *Parent does:* 1. Show your child the plain card. 2. Ask what will happen to the picture when the card covers the left half of the lens, and why.  
   *Parent says:* I am going to cover the left half of the lens with this card. What will happen to the picture? Why do you think so?  
-  *Child mode:* The card will cover half the lens. What will the picture do? Why?
+  *Child mode:* The card will cover half the lens. What will happen to the picture? Why?
   - Ask: What do you think will happen to the picture? (good: Half of it will disappear.; It will get darker.; It will stay the same.)
   - Note: Most children, and many grown-ups, think half the picture will vanish. Do not say what happens. Any guess with a reason is a good guess.
 - **s3 (5 min)**  
@@ -336,14 +338,14 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **s4 (4 min)**  
   *Parent does:* 1. Now hold the card with the small hole flat against the middle of the lens. 2. Look at the picture.  
   *Parent says:* Now only a tiny part of the lens is open. Is the whole window still there?  
-  *Child mode:* Now only a small hole of the lens is open. What does the picture look like?
+  *Child mode:* Now only a small part of the lens is open, through the hole in the card. What does the picture look like?
   - Note: The whole window is still there, but it is very dim. Every part of a lens collects light from every part of the window. So a smaller opening gives the same picture with less light.
   - Check: When you covered half of the lens, what happened to the picture of the window? → **The whole window stayed, but it was dimmer**
 - **s5 (5 min)**  
-  *Parent does:* 1. Ask for what I think, what I saw and why. 2. Then talk about telescopes.  
+  *Parent does:* 1. Ask your child to say what they think, what they saw, and why. 2. Then talk about telescopes.  
   *Parent says:* Tell me what you think, what you saw, and why. Now think about a telescope. Why do you think the biggest telescopes in the world have mirrors many metres wide?  
   *Child mode:* Say what you think, what you saw, and why. Why are big telescopes so big?
-  - Note: A good answer: what I think: a bigger lens collects more light. What I saw: with half the lens covered, the whole window was still there, only dimmer. With a small hole it was very dim. Why: each part of the lens catches light from the whole window. So a giant telescope makes bright pictures of faint stars, because it catches so much of their light.
+  - Note: A good answer: I think a bigger lens collects more light. I saw that with half the lens covered, the whole window was still there, only dimmer. With a small hole it was very dim. This is because each part of the lens catches light from the whole window. So a giant telescope makes bright pictures of faint stars, because it catches so much of their light.
   - Check: Why are the biggest telescopes built with huge mirrors? → **To collect more light, so faint stars and galaxies show up**
 ### e3 · Ice in the Crater: why the Moon's ice lasts in the shadows (25 min)
 - **question:** Chandrayaan-1's data showed ice in dark craters near the Moon's poles. Does ice last longer in shadow than in sunlight, when the air around is the same?
@@ -353,8 +355,8 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **results table:** Time (minutes) | Cube in sunlight | Cube in shadow
 - **s1 (5 min)**  
   *Parent does:* 1. Find a patch of sunlight. 2. Stand the book up at the edge of the patch so it casts a shadow beside it. 3. Put one plate in the sun and one in the book's shadow, close together. 4. Ask for a guess.  
-  *Parent says:* The Moon's poles have craters so deep that sunlight never reaches their floors. Our book is a crater wall. Which cube do you think will melt first? Why?  
-  *Child mode:* One cube in sun. One in the book's shadow. Which melts first? Why?
+  *Parent says:* The Moon's poles have craters so deep that sunlight never reaches their floors. Our book stands for a crater wall. Which cube do you think will melt first? Why?  
+  *Child mode:* One ice cube goes in the sun and one in the book's shadow. Which will melt first? Why?
   - Note: Both plates must be in the same air, close together. Only the sunlight is different. This test needs direct sunlight for about half an hour. If it is cloudy, try another day.
 - **s2 (15 min)**  
   *Parent does:* 1. Put an ice cube on each plate at the same moment. 2. Every 5 minutes, look at both and draw them. 3. Move the book if the shadow moves off the plate.  
@@ -365,12 +367,13 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **s3 (5 min)**  
   *Parent does:* 1. Talk about what you saw. 2. Then talk about the Moon.  
   *Parent says:* Which cube lasted longer, and why? The Moon has almost no air to warm things. So what happens to ice on a crater floor where the sunlight never reaches?  
-  *Child mode:* Which lasted longer? On the Moon, where could ice stay for ages?
+  *Child mode:* Which cube lasted longer? On the Moon, where could ice stay for a very long time?
   - Note: A good answer: the cube in shadow lasted longer, because sunlight carries energy that warms and melts ice. On the Moon there is almost no air to carry warmth into a dark crater, so its floor stays colder than minus 160 degrees Celsius, and ice can stay there for a very long time. That is why Chandrayaan-3 was sent to land near the south pole.
   - Check: Why can ice last for a very long time on the floor of a dark crater near the Moon's pole? → **Sunlight never reaches the crater floor, and there is almost no air to bring warmth in**
 
 ## Activities
 ### a1 · How Far Is Space? A lime-sized Earth (15 min)
+- **problem:** The Earth is too big to hold in your hand. So you will shrink it to the size of a lime. Then you will find out how thin the air is, how high the space station flies, and how far away the Moon is.
 - **record:** Draw the lime and the grape with the distance between them. Mark the thin layer of air and the space station.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold up the lime and say it is the Earth. 2. Ask your child to show with their fingers how far above the lime they think space begins.  
@@ -379,17 +382,17 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Note: Most children hold their fingers several centimetres away. Let them guess, and do not correct yet.
 - **s2 (4 min)**  
   *Parent does:* 1. Stack the 4 sheets of paper. 2. Show your child how thin the stack is. 3. Hold it against the lime's skin.  
-  *Parent says:* On a lime this size, space begins this far above the skin. Just four sheets of paper thick. All the air you have ever breathed is in a layer thinner than this.  
+  *Parent says:* On a lime this size, space begins only four sheets of paper above the skin. All the air you have ever breathed is in a layer thinner than this.  
   *Child mode:* Space begins just four sheets of paper above the lime. That is how thin the air is.
   - Note: The Earth is about 12,700 km across, and the lime is 5 cm. So 100 km, where space begins, is about 0.4 mm on the lime. A sheet of notebook paper is about 0.1 mm thick. Most of the air is in the lowest part of that thin layer.
 - **s3 (2 min)**  
   *Parent does:* Hold the coin flat against the lime.  
-  *Parent says:* The space station, where astronauts live, goes round the Earth about as high as this coin is thick. That is all.  
+  *Parent says:* The space station is where astronauts live. On this lime, it flies only as high above the skin as this coin is thick.  
   *Child mode:* The space station flies about a coin's thickness above the lime.
   - Note: The space station is about 400 km up. On a 5 cm lime that is about 1.6 mm, close to the thickness of a coin.
 - **s4 (5 min)**  
   *Parent does:* 1. Give your child the grape. 2. Ask where the Moon should go. 3. Measure 150 cm from the lime and put the grape there.  
-  *Parent says:* This grape is the Moon. Where should it go? The Moon is about 30 Earths away. Let's measure it.  
+  *Parent says:* This grape is the Moon. Where should it go? The Moon is about 30 times the Earth's width away. Let's measure it.  
   *Child mode:* The grape is the Moon. Guess where it goes. Then measure 150 cm.
   - Note: The Moon is about 384,000 km away, which is about 30 times the Earth's width. 30 times 5 cm is 150 cm. The Moon is about a quarter as wide as the Earth, so a 1.5 cm grape is about right.
   - Check: On the lime-sized Earth, where does space begin? → **Less than half a millimetre above the lime's skin, about four sheets of paper**
@@ -404,7 +407,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Note: The station can be seen only a little after sunset or before sunrise, when the sky is dark but the station, high up, is still in sunlight. A good pass does not come every day. If none is high enough this week, look again next week. Choose a pass with a high number for its height, 40 degrees or more, for the best view.
 - **s2 (10 min)**  
   *Parent does:* 1. Be at the window five minutes early. 2. Face the direction it will come from. 3. When you see a bright dot moving steadily across the sky, follow it until it fades.  
-  *Parent says:* Look for a bright star that moves. It does not blink. People are inside it right now, looking down at the Earth.  
+  *Parent says:* Look for a bright dot, like a star, that moves. It does not blink. People are inside it right now, looking down at the Earth.  
   *Child mode:* Look for a bright dot that moves and does not blink.
   - Note: The station looks like a very bright star gliding across the sky in about 4 to 6 minutes. A plane blinks red and green lights. The station does not blink. It may fade suddenly as it moves into the Earth's shadow. City lights do not hide it, because it is so bright. Clouds do.
   - Check: How can you tell the space station from a plane in the night sky? → **The station is a steady bright dot that does not blink**
@@ -416,9 +419,9 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Child mode:* List everything you used today. Write each one on a slip.
   - Note: Help them notice the things we do not stop to notice: the air they breathed, the water for brushing teeth, the warmth of the room, the toilet.
 - **s2 (6 min)**  
-  *Parent does:* Sort the slips into the two boxes, talking about each one.  
-  *Parent says:* Now imagine you live on the space station. Which things must come up from Earth on a rocket? Which can be cleaned and used again?  
-  *Child mode:* Sort the slips. Must come from Earth? Or can be used again?
+  *Parent does:* Sort the slips into the two boxes: things that must come up from Earth, and things that can be cleaned and used again. Talk about each one.  
+  *Parent says:* Suppose you lived on the space station. Which things must come up from Earth on a rocket? Which can be cleaned and used again?  
+  *Child mode:* Sort the slips into two groups: things that must come from Earth, and things that can be cleaned and used again.
   - Note: Food must come from Earth. On the station, oxygen is made by splitting water with electricity, and most water is cleaned and used again, even sweat and urine. Electricity comes from big solar panels. Clothes cannot be washed, so astronauts wear them for days and then throw them away. Everything in the end started on Earth.
 - **s3 (4 min)**  
   *Parent does:* Talk about the most important thing.  
@@ -440,17 +443,19 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   - Note: 1963 to 2025 is 62 years. With 20 cm for each 6 years, the string from 1963 to 2025 is a little over 2 metres. Exact places do not matter. The pattern does: the long quiet gap in the middle and the crowd of events after 2008.
 - **s3 (4 min)**  
   *Parent does:* Look at the whole string.  
-  *Parent says:* How many years were there between the bicycle rocket at Thumba and the landing on the Moon? What would you add to the end of this string one day?  
-  *Child mode:* How many years from Thumba to the Moon? What comes next?
+  *Parent says:* How many years were there between the bicycle rocket at Thumba and the landing on the Moon?  
+  *Child mode:* How many years from the first Thumba rocket to the Moon landing?
+  - Note: The first rocket went up in 1963 and Chandrayaan-3 landed in 2023. 2023 take away 1963 is 60 years.
   - Check: Which came first? → **India's first satellite, Aryabhata**
 ### a5 · Drop the Empty Tanks: a rocket in stages (act it out) (10 min)
+- **problem:** A rocket carries a very heavy load of fuel and oxygen. Once a tank is empty, it is only extra weight. In this act-out you will launch a rocket made of three boxes. Then you will find out what the rocket does with each empty box.
 - **record:** Draw the rocket at launch, after the first stage drops, and when the satellite is let go.
 - **s1 (5 min)**  
   *Parent does:* 1. Stack the three boxes and put the satellite on top. 2. Your child carries the rocket slowly up, counting down from 10.  
   *Parent says:* This is a rocket with three stages. Most of its weight is fuel and oxygen. Let's launch it. Ten, nine, eight...  
   *Child mode:* Stack the boxes. Put the satellite on top. Count down and lift!
 - **s2 (5 min)**  
-  *Parent does:* 1. After a few steps, your child drops the bottom box: the first stage. 2. A few steps later, the second. 3. Then lets the satellite go from the last stage.  
+  *Parent does:* 1. After a few steps, your child drops the bottom box. This is the first stage. 2. A few steps later, your child drops the next box, the second stage. 3. Last, your child lets the satellite go from the top box, the last stage.  
   *Parent says:* The first stage is empty. Drop it! Now the rocket is lighter. Why does that help it go faster?  
   *Child mode:* Drop the empty bottom box. Then the next. Let the satellite go.
   - Note: A rocket that kept its empty tanks would waste fuel carrying them. Dropping each stage means the next engine pushes a much lighter rocket. India's PSLV has four stages. The first stage falls into the Bay of Bengal.
@@ -479,7 +484,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - **your turn:** Now design your own way to drive a rover with a delay. Try it, then swap jobs.
 - **constraints:** The rover moves only on orders, and only after the person giving orders has counted aloud to 10.; Orders are simple: forward a number of steps, turn left, turn right, stop.; The rover must not bump into anything.
 - **general:** Give short orders, one at a time, and wait to see each one's result.; Plan the whole path first, and send a list of orders at once.
-- **creative:** Let the rover feel with their hands and stop by themselves when they touch something, as real rovers have their own hazard cameras.; Send the rover to look first, then plan, the way mission teams do.
+- **creative:** Let the rover feel with their hands and stop by themselves when they touch something. Real rovers do this with their own hazard cameras.; Send the rover to look first, then plan, the way mission teams do.
 - **s1 (5 min)**  
   *Parent does:* 1. Set up the target and obstacles. 2. Blindfold the rover. 3. Explain the rules.  
   *Parent says:* Radio messages travel at the speed of light. Even so, a message to Mars takes between about 3 and 22 minutes, depending on where the planets are. So nobody can steer a Mars rover like a toy car.  
@@ -493,6 +498,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Parent does:* Read the usual and creative ideas, and talk about them.  
   *Parent says:* Here is how real teams do it. Which idea would you use?  
   *Child mode:* Which way worked best? Why?
+  - Note: Most families find that sending a planned list of orders works better than one order at a time, because the waiting happens only once. Real teams also let the rover stop itself when it senses danger.
   - Check: Why can nobody steer a Mars rover in real time, like a toy car? → **Radio messages take minutes to travel between Earth and Mars**
 ### c2 · Design a Moon Home that keeps its air in (30 min)
 - **problem:** Design a home on the Moon for two astronauts. It must hold air in, keep people at a safe temperature, and let them get in and out without losing their air.
@@ -508,30 +514,31 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Parent does:* 1. Build a model of your best idea. 2. Put a blown-up balloon inside to stand for the air. 3. Show the airlock with two doors.  
   *Parent says:* Show me how an astronaut gets in. Which door opens first? Does the air escape?  
   *Child mode:* Build your Moon home. Show how the doors work.
-  - Note: An airlock has an inner door and an outer door. The astronaut steps in, closes the inner door, then opens the outer door. Only the little bit of air in the airlock is lost, or pumped back first.
+  - Note: An airlock has an inner door and an outer door. The astronaut steps in, closes the inner door, then opens the outer door. Only the little bit of air in the airlock is lost, unless it is pumped back into the home first.
 - **s3 (5 min)**  
   *Parent does:* Read the usual and creative ideas, and compare them with your own.  
   *Parent says:* Here are some ideas engineers have had. Which one would you add to your home?  
   *Child mode:* Which idea would you add? Why?
+  - Note: Any idea is good if the child links it to a need. The needs are air, water, warmth and protection from harmful radiation.
   - Check: Why does a Moon home need an airlock with two doors? → **So the air inside does not rush out when someone goes in or out**
 
 ## Worksheets
 ### Beyond the Air (core) (core, 15 questions)
-1. (mcq) Revathi, a girl in Class 3, covers a tealight with a small glass. The flame goes out after 8 seconds. She tries again with a big jar. What will most likely happen?  
+1. (mcq) You cover a tealight with a small glass. The flame goes out after 8 seconds. You try again with a big jar. What will most likely happen?  
    Options: The flame goes out at once / The flame lasts longer than 8 seconds / The flame lasts exactly 8 seconds again  
    **Answer:** The flame lasts longer than 8 seconds. *Why:* A big jar holds more air, so the flame has more oxygen to use before it runs low. A strong answer says why: more air, more oxygen.
-2. (write) In the jar test, the flame went out even though there was still wax left in the candle. Explain why.  
+2. (write) In The Jar and the Flame, a lit candle was covered with a jar. The flame went out even though there was still wax left in the candle. Explain why.  
    **Answer:** The flame needs oxygen as well as wax. Under the jar, no fresh air could get in. The flame used up the oxygen near the wick, and when too little was left, it went out. The wax was still there, but it could not burn without oxygen.. *Why:* A strong answer names both things a flame needs, fuel and oxygen, and says which one ran out.
 3. (match) Match each Indian mission to what it did.  
    **Answer:** Aryabhata → India's first satellite, 1975; Chandrayaan-1 → went round the Moon and helped find water there; Mangalyaan → reached Mars on India's first try; Chandrayaan-3 → landed near the Moon's south pole; Aditya-L1 → watches the Sun from far out in space. *Why:* These five missions show India's path from a first satellite to the Moon, Mars and the Sun.
 4. (sort) Sort these. Does each one need air from around it to work, or can it work in space?  
-   **Answer:** a plane → Needs air around it; a rocket → Can work in space; a candle with no jar → Needs air around it; a kite → Needs air around it; a telescope → Can work in space; a satellite → Can work in space; a ceiling fan's breeze → Needs air around it; an astronaut in a spacesuit → Can work in space. *Why:* Planes, kites and fans push on the air, and a candle burns its oxygen. A rocket carries its own oxygen, and a spacesuit carries its own air. A strong sorter asks: does it take something from the air around it?
-5. (write) Gayathri, a girl in Class 3, covers half of a magnifying glass while it makes a picture of a window. She thinks half the window will vanish from the picture. What really happens, and why?  
+   **Answer:** a plane → Needs air around it; a rocket → Can work in space; a candle with no jar → Needs air around it; a kite → Needs air around it; a telescope → Can work in space; a satellite → Can work in space; a ceiling fan's breeze → Needs air around it; an astronaut in a spacesuit → Can work in space. *Why:* Planes, kites and fans push on the air, and a candle burns its oxygen. A rocket carries its own oxygen, and a spacesuit carries its own air. To sort well, ask of each one: does it take something from the air around it?
+5. (write) A magnifying glass is making a picture of a window. You cover half of the lens. Many people think half the window will vanish from the picture. What really happens, and why?  
    **Answer:** The whole window stays in the picture, but it gets dimmer. Light from every part of the window goes through every part of the lens. So the half that is still open can make the whole picture, with less light.. *Why:* A strong answer says the picture stays whole and only dims, and gives the reason: every part of the lens gets light from the whole window.
 6. (draw) Draw a rocket going up. Draw an arrow to show which way the hot gas goes, and another arrow to show which way the rocket goes.  
    **Answer:** A rocket with a big arrow pointing down out of its engine for the gas, and a big arrow pointing up on the rocket.. *Why:* A strong drawing shows the two arrows pointing opposite ways. The rocket pushes the gas down, and the gas pushes the rocket up.
-7. (fill) Chandrayaan-3's lander was called Vikram, and its rover was called ____.  
-   **Answer:** ['Pragyan']. *Why:* Pragyan drove about 100 metres on the Moon in 2023 and tested the soil.
+7. (fill) There is almost no air on the Moon, so footprints and rover tracks there are never blown away by the ____.  
+   **Answer:** ['wind']. *Why:* Wind is moving air. With no air, nothing moves the dust, so tracks on the Moon can last for millions of years.
 8. (truefalse) A plane could fly to the Moon if it carried enough fuel.  
    **Answer:** False. *Why:* False. A plane's wings need air to push on, and its engines take oxygen from the air. Above about 100 km there is almost no air, so neither would work.
 9. (mcq) Which of these must astronauts on the space station bring up from Earth?  
@@ -545,13 +552,13 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
    **Answer:** Near the south pole there are deep craters that never get sunlight. Ice can last there, so it is a good place to look for water. Water could one day give astronauts drinking water and oxygen.. *Why:* A strong answer links the dark craters, the cold, and the ice, and says why water matters.
 13. (fill) The layer of air around the Earth is called the ____.  
    **Answer:** ['atmosphere']. *Why:* The atmosphere gets thinner the higher you go, until there is almost no air left.
-14. (fill) Indian rockets are launched from ____, an island on the coast of Andhra Pradesh.  
-   **Answer:** ['Sriharikota']. *Why:* ISRO's launch pad is at Sriharikota. Thumba, near Thiruvananthapuram, is where India's first rocket went up in 1963.
+14. (fill) A rocket must carry its own ____, because there is no air in space for its fuel to burn with.  
+   **Answer:** ['oxygen']. *Why:* Burning needs oxygen. Near the ground, air gives a flame its oxygen, but space has almost none, so rockets carry it in tanks.
 15. (truefalse) The air on top of a very high mountain is thinner than the air at the beach.  
    **Answer:** True. *Why:* True. The air gets thinner with height. On top of Mount Everest each breath holds only about a third as much air as at the beach, which is why climbers carry oxygen tanks.
 ### Mission Thinkers (stretch) (stretch, 15 questions)
-1. (write) Hamsa, a boy in Class 3, did the jar test only once with each jar. His big jar gave a shorter time than his small glass. What might have gone wrong, and what should he do?  
-   **Answer:** He might not have let fresh air back into the big jar, or he started the timer late, or the flame was still small when he covered it. He should do three tries with each jar, wave each jar in the air between tries, and start timing the moment the rim touches the plate.. *Why:* A strong answer names a likely mistake and says that repeating tries and keeping things the same makes the test fair.
+1. (write) A child did the jar test only once with each jar: a lit candle was covered, and the flame was timed. The big jar gave a shorter time than the small glass. What might have gone wrong, and what should the child do?  
+   **Answer:** Fresh air might not have been let back into the big jar, or the timer was started late, or the flame was still small when it was covered. The child should do three tries with each jar, wave each jar in the air between tries, and start timing the moment the rim touches the plate.. *Why:* A strong answer names a likely mistake and says that repeating tries and keeping things the same makes the test fair.
 2. (perspective) India is deciding how to explore the Moon next.  
    **Answer:** A strong answer picks a side and backs it with a fact, such as: Pragyan worked on the Moon with no air, or a person can react at once, while a message to a Mars rover takes minutes. It then admits a fair point from another side, such as the cost.. *Why:* This is a real argument with real trade-offs: safety and cost against the skill of people, and space spending against other needs.
 3. (mcq) Why do stars twinkle when we look at them from the ground?  
@@ -561,19 +568,19 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
    **Answer:** True. *Why:* True. A rocket pushes its own hot gas out of the back, and the gas pushes the rocket forward. It does not need air for this.
 5. (order) Put these in order, from closest to the ground to furthest away.  
    **Answer:** ['a plane', 'the edge of space', 'the space station', 'the Moon']. *Why:* Planes fly about 11 km up. Space begins about 100 km up. The space station is about 400 km up. The Moon is about 384,000 km away.
-6. (write) Karthik, a boy in Class 3, says, "A rocket needs a huge jar of air from the launch pad, so that its fuel can burn." What would you tell him?  
+6. (write) Someone says, "A rocket needs a huge jar of air from the launch pad, so that its fuel can burn." What would you tell them?  
    **Answer:** Ordinary air is only about one fifth oxygen, and a gas takes up a lot of room. A rocket carries pure oxygen instead, often as a very cold liquid, so a lot of oxygen fits in a small tank. Some rockets use a solid fuel with an oxygen-giving chemical mixed in.. *Why:* A strong answer agrees that the rocket needs oxygen, but explains why carrying plain air would be far too bulky.
-7. (draw) Draw what you saw in the half-lens test, two times: with the whole lens open, and with half of it covered. Shade them to show the brightness.  
+7. (draw) In Half a Lens, a magnifying glass made a picture of a window. Draw the picture you saw two times: with the whole lens open, and with half of it covered. Shade them to show the brightness.  
    **Answer:** Two pictures of the whole window, upside down. The second is shaded darker but is complete.. *Why:* A strong drawing shows the whole window both times, with only the brightness changed.
 8. (fill) A path that goes round and round a planet, like the space station's path round the Earth, is called an ____.  
    **Answer:** ['orbit']. *Why:* The space station's orbit takes it round the Earth about every 90 minutes.
-9. (mcq) In the ice test, Pooja put one ice cube in sunlight and one in the shadow of a book. Which one is most like ice in a dark crater on the Moon?  
+9. (mcq) In Ice in the Crater, one ice cube sat in sunlight and one in the shadow of a book. Which one is most like ice in a dark crater on the Moon?  
    Options: The cube in sunlight / The cube in the shadow / Neither  
    **Answer:** The cube in the shadow. *Why:* The shaded cube gets no direct sunlight, like the floor of a deep polar crater. It melted more slowly. On the Moon, with almost no air to carry warmth in, the crater ice can last for a very long time.
-10. (truefalse) Kalpana Chawla, an astronaut who flew on American space shuttles, was born in India.  
-   **Answer:** True. *Why:* True. She was born in Karnal, in Haryana, and later became an American citizen. She flew in 1997 and in 2003.
-11. (sort) Sort these into what came before Chandrayaan-1 in 2008, and what came after.  
-   **Answer:** Aryabhata → Before 2008; Mangalyaan reaching Mars → After 2008; Rakesh Sharma in space → Before 2008; 104 satellites on one rocket → After 2008; the first rocket from Thumba → Before 2008; Chandrayaan-3 landing → After 2008. *Why:* Aryabhata was 1975, Rakesh Sharma 1984 and Thumba 1963. Mangalyaan was 2014, the 104 satellites 2017 and Chandrayaan-3 2023.
+10. (truefalse) An astronaut on the space station can open a window to let in fresh air.  
+   **Answer:** False. *Why:* False. Outside the station there is almost no air. Opening a window would let the station's own air rush out. All the air must be carried up or made on board.
+11. (sort) A crew is going on a long trip to Mars. Sort these into what they must carry or make on board, and what they get free in space.  
+   **Answer:** oxygen to breathe → Must carry or make; sunlight for solar panels → Free in space; drinking water → Must carry or make; food → Must carry or make; a dark sky for seeing stars → Free in space; air inside the ship → Must carry or make. *Why:* Space has plenty of light and darkness, but almost no air, water or food. Everything a body needs to stay alive must be carried or made on board.
 12. (mcq) Why do people send some telescopes up on rockets?  
    Options: To make the stars look bigger / They sit above the air, so stars look steady and they catch kinds of light the air blocks / To be nearer to the Moon  
    **Answer:** They sit above the air, so stars look steady and they catch kinds of light the air blocks. *Why:* The air makes stars twinkle and blocks some kinds of light, such as X-rays. A telescope above the air gets sharp, steady pictures.
@@ -581,20 +588,20 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
    **Answer:** ['rover']. *Why:* Chandrayaan-3's lander Vikram carried the rover Pragyan down to the Moon.
 14. (truefalse) A night on the Moon lasts about as long as a night on Earth.  
    **Answer:** False. *Why:* False. A Moon day and a Moon night each last about 14 Earth days, which is why a solar-powered rover like Pragyan could work only in the Moon's daytime.
-15. (write) Before the jar test, you measure each jar with water and then dry it well. Why does the drying matter for a fair test?  
+15. (write) In The Jar and the Flame, you first measure each jar by filling it with water, and then dry it well. Why does the drying matter for a fair test?  
    **Answer:** Drops of water left inside can put the flame out. Then the time would depend on the water, not on how much air the jar holds, so the test would not be fair.. *Why:* A strong answer says that only the amount of air should change between jars, and that a wet jar changes something else.
 ### Space Detective (challenge) (challenge, 15 questions)
-1. (write) In the jar test, the flame went out long before all the air in the jar was gone. Air is mostly not oxygen anyway. So why does a bigger jar still help?  
+1. (write) In The Jar and the Flame, the candle went out long before all the air in the jar was gone. Also, most of the air is not oxygen. So why does a bigger jar still help?  
    **Answer:** A flame stops when the oxygen near it gets too low, not when it is all gone. A bigger jar has more oxygen to start with, so it takes longer for the oxygen to drop that low. The other gases in the air, mostly nitrogen, do not help the flame.. *Why:* A strong answer understands that the flame needs enough oxygen near it, and that a bigger jar holds more of it.
-2. (mcq) Sruthi does the jar test with two tealights side by side under the same big jar. What do you predict?  
+2. (mcq) Suppose you do the jar test with two tealights side by side under the same big jar. What do you predict?  
    Options: They burn twice as long / They go out sooner than one tealight would / Nothing changes  
    **Answer:** They go out sooner than one tealight would. *Why:* Two flames use oxygen twice as fast. The same jar has the same amount of oxygen, so it runs low sooner. A strong answer links the speed of using oxygen with the amount there is.
 3. (perspective) A family is talking about why astronauts float on the space station.  
-   **Answer:** Kavya is right. Gravity at the station's height is about nine tenths of what it is on the ground. The station moves sideways so fast that as it falls, the Earth curves away below it, so it keeps falling round and round. Appa's idea is easy to believe because astronauts look as if nothing is pulling them.. *Why:* This is a very common idea that turns out to be wrong. A strong answer gives the evidence and is fair to why people believe the other view.
-4. (mcq) Aditi points two telescopes at the same faint galaxy. One has a mirror 1 metre across, the other 2 metres across. What will the 2 metre telescope show?  
+   **Answer:** The daughter is right. Gravity at the station's height is about nine tenths of what it is on the ground. The station moves sideways so fast that as it falls, the Earth curves away below it, so it keeps falling round and round. The father's idea is easy to believe because astronauts look as if nothing is pulling them.. *Why:* This is a very common idea that turns out to be wrong. A strong answer gives the evidence and is fair to why people believe the other view.
+4. (mcq) Two telescopes point at the same faint galaxy. One has a mirror 1 metre across, the other 2 metres across. What will the 2 metre telescope show?  
    Options: The same, because both are telescopes / A brighter picture, because the bigger mirror collects more light / A smaller picture  
    **Answer:** A brighter picture, because the bigger mirror collects more light. *Why:* A mirror twice as wide has about four times the area, so it collects about four times as much light. Faint things look brighter and clearer.
-5. (write) Covering half of a lens made the picture dimmer but did not cut it in half. Use this to explain why it does not matter much if a big telescope mirror is made of several pieces fitted together.  
+5. (write) In Half a Lens, covering half of the lens made the picture dimmer but did not cut it in half. Use this to explain why it does not matter much if a big telescope mirror is made of several pieces fitted together.  
    **Answer:** Every part of a lens or mirror gathers light from the whole view. So each piece of a mirror helps make the whole picture. Fitting pieces together makes one big collecting surface. The James Webb Space Telescope's mirror is made of 18 pieces.. *Why:* A strong answer uses the half-lens result: each part makes the whole picture, so pieces add up their light.
 6. (order) Put these steps of a rocket launch in order.  
    **Answer:** ['the countdown reaches zero', 'the engines light and the rocket lifts off', 'the first stage burns out and drops away', 'the satellite separates and goes into orbit']. *Why:* A launch goes from countdown, to lift-off, to dropping empty stages, to letting the satellite go once it is high and fast enough.
@@ -610,25 +617,25 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 11. (fill) India's spacecraft that watches the Sun from about 1.5 million km away is called ____.  
    **Answer:** ['Aditya-L1']. *Why:* Aditya means the Sun. It was launched in 2023 and watches the Sun all the time, with no night and no clouds in the way.
 12. (write) An astronaut breathes in a little less than 1 kg of oxygen a day. Why would a crew of 4 on a 6-month trip to Mars have a much harder job than a crew on the space station?  
-   **Answer:** On the space station, new supplies can come up from Earth every few months. On a long trip to Mars, nothing new can be sent, so all the oxygen, water and food must be carried or made and recycled on board for the whole journey. For 4 people that is close to 4 kg of oxygen a day, which over 6 months is more than 700 kg.. *Why:* A strong answer notices that a far trip cannot be refilled, and uses the numbers to show how much would be needed.
+   **Answer:** On the space station, new supplies can come up from Earth every few months. On a long trip to Mars, nothing new can be sent, so all the oxygen, water and food must be carried or made and recycled on board for the whole journey. For 4 people that is close to 4 kg of oxygen a day, which over 6 months is more than 700 kg.. *Why:* A strong answer notices that a crew far from Earth cannot be sent new supplies, and uses the numbers to show how much would be needed.
 13. (label) Label the picture of a spacesuit: helmet, oxygen pack, gloves, visor.  
    **Answer:** The helmet is round the head, with the visor at the front. The oxygen pack is on the back. The gloves are on the hands.. *Why:* A strong labeller puts the oxygen pack on the back, because the suit carries its own air.
-14. (mcq) Why was Thumba chosen for India's first rocket launches in 1963?  
-   Options: It is the highest place in India / The Earth's magnetic equator passes close by, which suits studying the high air / It is the coldest place in India  
-   **Answer:** The Earth's magnetic equator passes close by, which suits studying the high air. *Why:* The Earth's magnetic equator passes close to Thumba, which made it a special place to study the air high above.
-15. (write) No spacecraft had landed near the Moon's south pole before 2023. What earlier evidence from Chandrayaan-1 made scientists think it was a good place to look for water?  
-   **Answer:** Chandrayaan-1's instrument found the gap in reflected light that water leaves, strongest near the poles. Later, its data showed ice in dark craters at both poles. So the poles were the best place to look for water.. *Why:* A strong answer uses the evidence in order: the gap in the light, strongest near the poles, then the ice found in the craters.
+14. (mcq) Why are many rocket launch sites built next to the sea?  
+   Options: Rockets need sea water to fly / If something goes wrong, falling rocket parts land in the water, away from towns / The sea is the highest place  
+   **Answer:** If something goes wrong, falling rocket parts land in the water, away from towns. *Why:* Rockets drop used parts as they climb, and a launch can fail. Launching out over the sea keeps people on the ground safe. India's launch site at Sriharikota is on the coast for this reason.
+15. (write) No spacecraft had landed near the Moon's south pole before 2023. Landing is hard and costly. What evidence would you want first, from a spacecraft circling the Moon, before choosing that spot to look for water?  
+   **Answer:** I would want measurements of reflected light showing signs of water, strongest near the poles, and signs of ice in the dark craters. Then I would know the poles are the best place to look, before spending money on a landing.. *Why:* A strong answer names evidence that can be collected from above, and says why checking first is wise before a costly landing.
 
 ## Videos
-- **How Do Rockets Fly? | Let's Explore Mars! | SciShow Kids** (SciShow Kids, 4 min) id `Lti6a_YYQl0`: A short, friendly video on how a rocket pushes itself up by pushing gas down. Watch it after the jar test and the stages act-out. *Check:* Id, title and channel confirmed with YouTube's oEmbed lookup. Not watched from here, so the length is a guess. A parent should preview it.
-- **Telescopes in Space! | How We Study Space | SciShow Kids** (SciShow Kids, 4 min) id `XB0Er2eZn54`: Why some telescopes are sent above the air. Watch it after the half-lens test. *Check:* Id, title and channel confirmed with YouTube's oEmbed lookup. Not watched from here, so the length is a guess. A parent should preview it.
-- **Launch of LVM3-M4/CHANDRAYAAN-3 Mission from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota** (ISRO Official, 10 min) id `q2ueCg9bvvQ`: ISRO's own broadcast of the Chandrayaan-3 launch on 14 July 2023. Skip ahead to the countdown and watch the lift-off and the first stages dropping away. *Check:* Id, title and channel confirmed with YouTube's oEmbed lookup. It is a long live broadcast. A parent should find the countdown first, and watch about 10 minutes from there.
+- **How Do Rockets Fly? | Let's Explore Mars! | SciShow Kids** (SciShow Kids, 4 min) id `Lti6a_YYQl0`: A short, friendly video on how a rocket pushes itself up by pushing gas down. Watch it after The Jar and the Flame and Drop the Empty Tanks. *Check:* The video's title and channel were checked on YouTube. We have not watched it, so the length is a guess. A parent should preview it.
+- **Telescopes in Space! | How We Study Space | SciShow Kids** (SciShow Kids, 4 min) id `XB0Er2eZn54`: Why some telescopes are sent above the air. Watch it after Half a Lens. *Check:* The video's title and channel were checked on YouTube. We have not watched it, so the length is a guess. A parent should preview it.
+- **Launch of LVM3-M4/CHANDRAYAAN-3 Mission from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota** (ISRO Official, 10 min) id `q2ueCg9bvvQ`: ISRO's own broadcast of the Chandrayaan-3 launch on 14 July 2023. Skip ahead to the countdown and watch the lift-off and the first stages dropping away. *Check:* The video's title and channel were checked on YouTube. It is a long live broadcast. A parent should find the countdown first, and watch about 10 minutes from there.
 
 ## Quiz
 1. (mcq) What is space?  
    Options: The air above the clouds / Everything beyond the Earth's air, where there is almost nothing to breathe / The inside of a rocket  
    **Answer:** Everything beyond the Earth's air, where there is almost nothing to breathe. *Why:* Space is what lies beyond the atmosphere. It is almost empty, with no air to breathe. Picking 'the air above the clouds' is a common mix-up, but the air goes on far above the clouds before it thins out.
-2. (mcq) Shreya covers a candle with a jar and it goes out. Why?  
+2. (mcq) You cover a lit candle with a jar and the flame goes out. Why?  
    Options: The jar is too heavy / The flame runs short of oxygen / The jar is made of glass  
    **Answer:** The flame runs short of oxygen. *Why:* A flame needs oxygen. Under the jar, no fresh air gets in, so the flame goes out when the oxygen near it runs low.
 3. (mcq) A rocket lifts off. What pushes it up?  
@@ -649,15 +656,15 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 8. (mcq) Why does a spacesuit have a pack on its back?  
    Options: To carry snacks / To hold the astronaut's own air and keep them at a safe temperature / To make the astronaut heavier  
    **Answer:** To hold the astronaut's own air and keep them at a safe temperature. *Why:* Outside the spacecraft there is no air. The pack gives the astronaut oxygen and keeps the suit at a safe temperature.
-9. (mcq) What did Chandrayaan-3 do in 2023?  
-   Options: It went to Mars / It landed near the Moon's south pole and drove a rover there / It carried astronauts  
-   **Answer:** It landed near the Moon's south pole and drove a rover there. *Why:* Chandrayaan-3's lander Vikram landed near the south pole on 23 August 2023, and its rover Pragyan drove about 100 metres. Mangalyaan was the Mars mission.
-10. (mcq) Who was the first Indian to travel into space?  
-   Options: Kalpana Chawla / Rakesh Sharma / Vikram Sarabhai  
-   **Answer:** Rakesh Sharma. *Why:* Rakesh Sharma flew in 1984. Kalpana Chawla flew later, in 1997, as an American astronaut. Vikram Sarabhai started India's space programme but did not go to space.
-11. (mcq) Before 2009, most scientists thought the Moon had no water at all. What did India's Chandrayaan-1 help show?  
-   Options: The Moon has lakes / There are thin traces of water in the Moon's dust, and later its data showed ice in dark polar craters / The Moon is made of ice  
-   **Answer:** There are thin traces of water in the Moon's dust, and later its data showed ice in dark polar craters. *Why:* An instrument on Chandrayaan-1 found the gap in reflected light that water leaves. The traces are thin, and the ice is in craters that never see sunlight.
+9. (mcq) A spacecraft is going to land on the Moon to look for ice. Where is the best place to land?  
+   Options: In a sunny spot near the Moon's middle / Near a pole, beside deep craters that never get sunlight / Anywhere, because the Moon has lakes  
+   **Answer:** Near a pole, beside deep craters that never get sunlight. *Why:* Ice cannot last in sunlight on the Moon. Deep craters near the poles never see the Sun, so ice can stay frozen there. That is why India landed Chandrayaan-3 near the south pole in 2023.
+10. (mcq) An astronaut goes outside the space station to fix something. Why must she wear a sealed suit with its own air?  
+   Options: Space is too bright / There is almost no air in space to breathe / To look smart in photos  
+   **Answer:** There is almost no air in space to breathe. *Why:* Space has almost no air, so there is no oxygen to breathe. Astronauts and rockets must carry their own.
+11. (mcq) A spacecraft circling the Moon cannot touch the ground. How could it find signs of water there?  
+   Options: By listening for waves / By measuring the sunlight reflected from the ground, because water takes in some kinds of light and leaves a gap / By catching rain  
+   **Answer:** By measuring the sunlight reflected from the ground, because water takes in some kinds of light and leaves a gap. *Why:* Water takes in certain kinds of light, so light reflected from damp dust has a gap in it. India's Chandrayaan-1 found thin traces of water in the Moon's dust this way, and later ice in dark polar craters.
 
 ## Applications
 - Weather satellites track cyclones over the Bay of Bengal and the Arabian Sea, so people on the coasts of Odisha, Andhra Pradesh or Gujarat can be moved to safety.
@@ -686,11 +693,11 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - Where does the air around us stop?
 - What would you pack first for a day in space? Why?
 - Why does a diya go out when you cover it?
-- If you were an astronaut, what would you miss most about Earth?
+- Which thing you used today would be hardest to get in space?
 - Which do you think is better to send to Mars, a robot or a person?
-- How does the TV get its pictures from a satellite?
-- What do you think Pragyan felt about the Moon? What did it sense?
-- If you had a telescope, what would you point it at first?
+- Weather satellites take pictures of clouds over the sea. How does that help people who live near the coast?
+- Pragyan drove on the Moon, where there is almost no air. Why could Pragyan not hear its own wheels?
+- A telescope collects light. Why would a bigger telescope show more faint stars?
 
 ## Jokes
 - Why did the candle go out under the jar? *It ran out of breath.*
@@ -705,9 +712,9 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 - Why did the rocket do so well at school? *It always aimed high.*
 
 ## Connected maths
-- In the jar test, Deepa's small glass held 1 tumbler of water and kept the flame alight for 7 seconds. Her pickle jar held 4 tumblers. If the time grows in step with the air, how long should the flame last under the pickle jar? **About 28 seconds.**. The pickle jar holds 4 times as much air. So the flame should last about 4 times as long. 4 times 7 is 28. Real results will be close to this, not exactly on it. (queues `math.multiplication.equal-groups.L3`)
-- Deepa's results were: small glass 7 seconds, big glass 13 seconds, pickle jar 30 seconds. Her friend says the big glass should have given about 14 seconds, because it held 2 tumblers. Was Deepa's result close enough? Explain. **Yes. 13 is only 1 second away from 14.**. 2 times 7 is 14. Deepa got 13. A difference of 1 second is small, and could come from starting the timer a moment late. So the pattern holds: twice the air, about twice the time. (queues `math.measurement-basics.estimation-and-precision.L3`)
-- The Moon is about 30 Earths away. On your lime-sized Earth, 5 cm wide, how far away should the grape Moon go? **150 cm.**. 30 lots of 5 cm. 30 times 5 is 150. So the grape goes 150 cm, about one and a half metres, from the lime. (queues `math.multiplication.multiplication-facts.L3`)
+- In the jar test, a small glass held 1 tumbler of water and kept the flame alight for 7 seconds. A pickle jar held 4 tumblers. If the time grows in step with the air, how long should the flame last under the pickle jar? **About 28 seconds.**. The pickle jar holds 4 times as much air. So the flame should last about 4 times as long. 4 times 7 is 28. Real results will be close to this, not exactly on it. (queues `math.multiplication.equal-groups.L3`)
+- In a jar test, the small glass held 1 tumbler of water and the big glass held 2. The results were: small glass 7 seconds, big glass 13 seconds, pickle jar 30 seconds. Twice the air should give about twice the time, so the big glass should have given about 14 seconds. Was the result close enough? Explain. **Yes. 13 is only 1 second away from 14.**. 2 times 7 is 14. The test gave 13. A difference of 1 second is small, and could come from starting the timer a moment late. So the pattern holds: twice the air, about twice the time. (queues `math.measurement-basics.estimation-and-precision.L3`)
+- The Moon is about 30 times the Earth's width away. Your lime-sized Earth is 5 cm wide. How far from the lime should the grape Moon go? **150 cm.**. 30 lots of 5 cm. 30 times 5 is 150. So the grape goes 150 cm, about one and a half metres, from the lime. (queues `math.multiplication.multiplication-facts.L3`)
 - A message from Earth takes 12 minutes to reach a rover on Mars. The team sends 'Stop!' Then they wait to see a picture from the rover showing that it stopped. How long after sending do they see that picture? **24 minutes.**. The order takes 12 minutes to get there. The picture takes another 12 minutes to come back. 12 plus 12 is 24 minutes. (queues `math.time.duration.L3`)
 - India's first satellite, Aryabhata, was launched in 1975. Chandrayaan-3 landed on the Moon in 2023. How many years apart were they? The first rocket from Thumba was in 1963. How many years before Aryabhata was that? **48 years, and 12 years.**. 2023 take away 1975: from 1975 to 2000 is 25 years, and from 2000 to 2023 is 23 more. 25 plus 23 is 48. Then 1975 take away 1963 is 12. (queues `math.addition-subtraction.mental-strategies.L3`)
 

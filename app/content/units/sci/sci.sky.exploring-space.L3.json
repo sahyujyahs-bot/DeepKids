@@ -398,7 +398,7 @@
    "How did Ammamma's rocket fuel burn where there is no air?",
    "Why was the orange cloud still shining when the beach was almost dark?",
    "Why did the scientists want to see a cloud move?",
-   "Kavya said a rocket carrying oxygen is like carrying your own lunch. Can you think of another way to say it?"
+   "Kavya said a rocket carrying oxygen is like carrying your own lunch. Why is that a good comparison?"
   ],
   "art": [
    "A grandmother, a girl and a small boy sitting on the sand at Thumba beach at sunset, a plane's white trail high in the sky.",
@@ -563,8 +563,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about the game.",
-     "say": "Which square slowed you down most? Which question was hardest?",
-     "kid": "Which question was hardest? Why?",
+     "say": "Which squares in the game come from real rockets? What does each one stand for?",
+     "kid": "Which squares come from real rockets? What does each one stand for?",
      "check": {
       "t": "mcq",
       "q": "On the board, the oxygen tank leak sends you back. Why would a leak be so bad for a real rocket?",
@@ -575,7 +575,8 @@
       ],
       "a": 1,
       "why": "A rocket's engine needs both fuel and oxygen. If the oxygen leaks away, the fuel cannot burn, so the engine loses its push."
-     }
+     },
+     "parent": "The stage squares stand for dropping empty stages. The thick air square stands for the dense air near the ground. The 100 km square is the edge of space. The oxygen leak square is a rocket losing the oxygen it needs to burn fuel."
     }
    ],
    "setup": [
@@ -713,8 +714,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the points and talk about the trickiest card.",
-     "say": "Which myth did you nearly believe? Why do you think so many people believe it?",
-     "kid": "Which myth nearly fooled you?",
+     "say": "Pick one myth card. What is the true idea? Which test or fact in this unit shows it?",
+     "kid": "Count your points. Pick one myth card. What is the true idea?",
      "check": {
       "t": "mcq",
       "q": "Why can't you hear a rocket roaring in space?",
@@ -725,7 +726,8 @@
       ],
       "a": 1,
       "why": "Sound travels as a shaking of the air. In space there is almost no air to shake, so the roar cannot reach anyone outside the rocket."
-     }
+     },
+     "parent": "For example, 'a telescope makes things look bigger' is a myth. A telescope mainly collects light, as Half a Lens showed."
     }
    ],
    "setup": [
@@ -1248,7 +1250,8 @@
      "art": "A lime on a table and a grape 150 cm away along a measuring tape.",
      "caption": "2. Put the grape Moon 150 cm away."
     }
-   ]
+   ],
+   "problem": "The Earth is too big to hold in your hand. So you will shrink it to the size of a lime. Then you will find out how thin the air is, how high the space station flies, and how far away the Moon is."
   },
   {
    "id": "a2",
@@ -1447,8 +1450,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at the whole string.",
-     "say": "How many years were there between the bicycle rocket at Thumba and the landing on the Moon? What would you add to the end of this string one day?",
-     "kid": "How many years passed between the first rocket from Thumba and the landing on the Moon? What do you think comes next?",
+     "say": "How many years were there between the bicycle rocket at Thumba and the landing on the Moon?",
+     "kid": "How many years from the first Thumba rocket to the Moon landing?",
      "check": {
       "t": "mcq",
       "q": "Which came first?",
@@ -1459,7 +1462,8 @@
       ],
       "a": 1,
       "why": "Aryabhata was launched in 1975. Mangalyaan reached Mars in 2014, and Chandrayaan-3 landed on the Moon in 2023."
-     }
+     },
+     "parent": "The first rocket went up in 1963 and Chandrayaan-3 landed in 2023. 2023 take away 1963 is 60 years."
     }
    ],
    "context": "This activity turns India's space history into a timeline you can walk along.",
@@ -1536,7 +1540,8 @@
      "art": "A child holding two boxes up high while the bottom box falls to the floor.",
      "caption": "2. Drop each empty stage."
     }
-   ]
+   ],
+   "problem": "A rocket carries a very heavy load of fuel and oxygen. Once a tank is empty, it is only extra weight. In this act-out you will launch a rocket made of three boxes. Then you will find out what the rocket does with each empty box."
   }
  ],
  "projects": [
@@ -1691,7 +1696,8 @@
       ],
       "a": 1,
       "why": "Even at the speed of light, a message takes between about 3 and 22 minutes to reach Mars. By the time an order arrives, the rover may already have rolled into trouble."
-     }
+     },
+     "parent": "Most families find that sending a planned list of orders works better than one order at a time, because the waiting happens only once. Real teams also let the rover stop itself when it senses danger."
     }
    ],
    "setup": [
@@ -1765,7 +1771,8 @@
       ],
       "a": 1,
       "why": "The Moon has almost no air outside. If a single door opened, the home's air would rush out. With two doors and a small room between them, only one opens at a time."
-     }
+     },
+     "parent": "Any idea is good if the child links it to a need. The needs are air, water, warmth and protection from harmful radiation."
     }
    ],
    "setup": [
@@ -2521,11 +2528,11 @@
   "Where does the air around us stop?",
   "What would you pack first for a day in space? Why?",
   "Why does a diya go out when you cover it?",
-  "If you were an astronaut, what would you miss most about Earth?",
+  "Which thing you used today would be hardest to get in space?",
   "Which do you think is better to send to Mars, a robot or a person?",
-  "How does the TV get its pictures from a satellite?",
-  "What do you think Pragyan felt about the Moon? What did it sense?",
-  "If you had a telescope, what would you point it at first?"
+  "Weather satellites take pictures of clouds over the sea. How does that help people who live near the coast?",
+  "Pragyan drove on the Moon, where there is almost no air. Why could Pragyan not hear its own wheels?",
+  "A telescope collects light. Why would a bigger telescope show more faint stars?"
  ],
  "jokes": [
   {
