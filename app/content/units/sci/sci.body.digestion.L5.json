@@ -3,7 +3,7 @@
   "title": "The digestive system: what teeth, enzymes and gut microbes each do to your food",
   "level": 5,
   "summary": {
-    "text": "A quarter of a teaspoon of saliva turns a spoonful of thick starch paste runny in ten minutes. The same saliva does nothing to a thick gel made from isabgol. Saliva holds an enzyme, and an enzyme cuts one kind of food molecule and no other. Each part of the digestive system adds its own enzymes, and each enzyme works only at the right warmth and acidity. Human enzymes cannot cut fibre. Bacteria in the large intestine cut it. Your child races four pastes down a tilted plate to find what stops saliva working. They also time how fast the mouth makes saliva, dissolve sugar whole and crushed, and listen to a gut before and after lunch.",
+    "text": "A quarter of a teaspoon of saliva turns a spoonful of thick starch paste runny in ten minutes. The same saliva does nothing to a thick gel made from isabgol. Saliva holds an enzyme, and an enzyme cuts one kind of food molecule and no other. Each part of the digestive system adds its own enzymes, and each enzyme works only at the right warmth and acidity. Human enzymes cannot cut fibre. Bacteria in the large intestine cut fibre. Your child races four pastes down a tilted plate to find what stops saliva working. They also time how fast the mouth makes saliva, dissolve sugar whole and crushed, and listen to a gut before and after lunch.",
     "art": "A girl kneeling beside a big steel plate propped on two books, watching four blobs of white paste, one of which has run far down the plate, while her mother holds a ruler."
   },
   "intro": {
@@ -396,7 +396,7 @@
       "context": "This card is about whether the part of food we cannot digest matters."
     },
     {
-      "claim": "Every mouthful should be chewed until it is liquid, whatever the food.",
+      "claim": "One chewing rule is right for every food: chew each mouthful a very long time.",
       "who": "Horace Fletcher, an American writer on food, around 1900",
       "for": "Chewing well does break food small and mix it with saliva, and eating slowly helps people notice when they are full.",
       "against": "No test has shown that one rule suits every food. A banana is ready after a few chews, and a piece of coconut needs many more.",
@@ -591,11 +591,11 @@
             },
             {
               "f": "Fibre in wheat bran",
-              "b": "Large intestine. No human enzyme cuts it. Bacteria ferment part of it, and the rest holds water."
+              "b": "Large intestine. No human enzyme cuts it. Bacteria ferment part of the bran, and the rest holds water."
             },
             {
               "f": "Fibre in cabbage leaves",
-              "b": "Large intestine. No human enzyme cuts it. Gut bacteria ferment it."
+              "b": "Large intestine. No human enzyme cuts it. Gut bacteria ferment the fibre."
             },
             {
               "f": "Fibre in guava",
@@ -666,7 +666,7 @@
               "q": "Why does the fibre in rajma skins go on the large intestine space?",
               "good": [
                 "No human enzyme can cut fibre.",
-                "The bacteria in the large intestine ferment it."
+                "The bacteria in the large intestine ferment fibre."
               ]
             }
           ],
@@ -836,7 +836,7 @@
               "Plant-eaters are always bigger animals"
             ],
             "a": 0,
-            "why": "No animal with a backbone makes an enzyme that cuts cellulose. Plant-eaters house microbes who do it, and fermenting takes space and time. If you chose 'bigger animals', remember the rabbit and the termite."
+            "why": "No animal with a backbone makes an enzyme that cuts cellulose. Plant-eaters house microbes who cut fibre, and fermenting takes space and time. If you chose 'bigger animals', remember the rabbit and the termite."
           },
           "context": "This is the last step of Whose Teeth, Whose Gut? You sort the animals by food and find what the plant-eaters share."
         }
@@ -3224,7 +3224,7 @@
       [
         "Humans make an enzyme that cuts fibre.",
         false,
-        "No human enzyme fits the joins in fibre. Gut bacteria cut it."
+        "No human enzyme fits the joins in fibre. Gut bacteria cut the fibre."
       ],
       [
         "A grown-up has 32 teeth if all the wisdom teeth have come in.",
@@ -3378,7 +3378,8 @@
       "Wrangham R. (2009). Catching Fire: How Cooking Made Us Human. New York: Basic Books.",
       "Bollinger R. R., Barbas A. S., Bush E. L., Lin S. S., Parker W. (2007). Biofilms in the large bowel suggest an apparent function of the human vermiform appendix. Journal of Theoretical Biology 249: 826-831.",
       "Smith H. F. and others (2013). Multiple independent appearances of the cecal appendix in mammalian evolution and an investigation of related ecological and anatomical factors. Comptes Rendus Palevol 12: 339-354.",
-      "Sagan L. (1967). On the origin of mitosing cells. Journal of Theoretical Biology 14: 225-274."
+      "Sagan L. (1967). On the origin of mitosing cells. Journal of Theoretical Biology 14: 225-274.",
+      "University of Liverpool, Year 1 MBChB, Lecture 12: Gut Secretion. The daily fluid budget of the gut: about 9 litres in (about 2 drunk and about 7 secreted), about 8.9 absorbed, about 0.1 litre lost in the stool. Other sources give 0.1 to 0.2 litre. https://pcwww.liv.ac.uk/~bjcampbl/"
     ]
   },
   "how_we_found_out": {
