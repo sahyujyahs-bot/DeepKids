@@ -81,7 +81,7 @@ An atom cannot join with half of another atom. Atoms join one to one, one to two
 ### Everyday names, chemical names and formulas · *defined*
 **Definition:** An everyday name is what people call a substance at home. A chemical name says which elements are in it. A formula also says how many atoms of each.
 
-One substance can have hundreds of everyday names, one in each language. Salt is uppu, namak, nun, meeth and salt. An everyday name tells you nothing about what the substance is made of. A chemical name does. Sodium chloride holds sodium and chlorine. When a metal joins a non-metal, the metal is named first and the other name ends in ide. Small words inside a name count atoms. Mono means one, di means two and tri means three. So carbon dioxide has two oxygen atoms and carbon monoxide has one. In 1787 four French chemists, among them Antoine Lavoisier, proposed naming substances by what they are made of. Since 1919 a world body of chemists called IUPAC has agreed the rules.
+One substance can have hundreds of everyday names, one in each language. Salt is uppu, namak, nun and salt. An everyday name tells you nothing about what the substance is made of. A chemical name does. Sodium chloride holds sodium and chlorine. When a metal joins a non-metal, the metal is named first and the other name ends in ide. Small words inside a name count atoms. Mono means one, di means two and tri means three. So carbon dioxide has two oxygen atoms and carbon monoxide has one. In 1787 four French chemists, among them Antoine Lavoisier, proposed naming substances by what they are made of. Since 1919 a world body of chemists called IUPAC has agreed the rules.
 - e.g. Everyday name: baking soda. Chemical name: sodium hydrogen carbonate. Formula: NaHCO₃.
 - e.g. Everyday name: dry ice. Chemical name: solid carbon dioxide. Formula: CO₂.
 - e.g. Everyday name: chalk. Chemical name: calcium carbonate. Formula: CaCO₃.
@@ -95,7 +95,7 @@ Salt and baking soda are both dry white powders. Salt is NaCl. Baking soda is Na
 ### What a formula leaves out · *defined*
 **Definition:** A formula says which atoms and how many. It does not say how the atoms are arranged.
 
-Glucose is the sugar in your blood. Fructose is a sugar in fruit and honey. Both have the formula C₆H₁₂O₆. Each molecule has 6 carbon, 12 hydrogen and 6 oxygen atoms. But the atoms are joined in a different arrangement, so the two sugars are different substances. Fructose tastes sweeter. Substances like these are called isomers. To know a substance fully, chemists must also find its arrangement. The British chemist Dorothy Hodgkin did this with X-rays. She worked out the arrangement of the atoms in penicillin in 1945 and in vitamin B12 in 1956. Vitamin B12 has 181 atoms in each molecule.
+Glucose is the sugar in your blood. Fructose is a sugar in fruit and honey. Both have the formula C₆H₁₂O₆. Each molecule has 6 carbon, 12 hydrogen and 6 oxygen atoms. But the atoms are joined in a different arrangement, so the two sugars are different substances. Fructose tastes sweeter. Substances like these are called isomers. To know a substance fully, chemists must also find its arrangement. The British chemist Dorothy Hodgkin did this with X-rays. She worked out the arrangement of the atoms in penicillin in 1945 and in vitamin B12 in the 1950s. Vitamin B12 has 181 atoms in each molecule.
 - e.g. Glucose and fructose are both C₆H₁₂O₆, and they are different sugars.
 - e.g. Diamond and pencil lead are both written C, and they are arranged differently.
 - e.g. The formula of vitamin B12 is C₆₃H₈₈CoN₁₄O₁₄P. It took years of work to find how those atoms are joined.
@@ -113,19 +113,19 @@ A formula has two parts. The letters were chosen by people, and they could have 
 - e.g. H was chosen for hydrogen. In a different history it might have been a picture or another letter.
 - e.g. The 2 in H₂O was measured. Chemists who wrote HO had to give it up.
 - **Most working chemists:** A formula is a fact about nature, written in agreed symbols. Water really has two hydrogen atoms for each oxygen atom. Any careful person who measures will find the same.
-- **Ernst Mach and Wilhelm Ostwald, two scientists of about 1900:** A formula is a tool for keeping track of measurements. It should not be taken as a picture of hidden things. Ostwald changed his mind in 1909, after experiments made the case for atoms much stronger.
+- **Ernst Mach and Wilhelm Ostwald, two scientists of about 1900:** A formula is a tool for keeping track of measurements. It should not be taken as a picture of hidden things. Ostwald changed his mind a few years later, after experiments made the case for atoms much stronger.
 - **A third view:** Both are partly right. A formula is a human way of writing, and what it writes down is real. It also leaves out a great deal, such as the arrangement of the atoms.
 
 ## Mostly agreed
 - Every substance is made of atoms, and a formula lists which kinds and how many. *How we know:* Chemists can take a compound apart, weigh each element in it, and build the same compound again from those elements.
-- Water has two hydrogen atoms for each oxygen atom. *How we know:* When electricity splits water, the hydrogen gas takes up twice as much space as the oxygen gas. Gay-Lussac and Humboldt measured this in 1805.
+- Water has two hydrogen atoms for each oxygen atom. *How we know:* In 1805 Gay-Lussac and Humboldt measured the gases that join to make water. Hydrogen took up twice as much space as oxygen.
 - A pure compound has the same proportions wherever it comes from. *How we know:* In 1799 Joseph Proust compared a copper compound from a mine with the same compound made in his laboratory. The proportions were the same.
 - Salt is a crystal of sodium and chlorine atoms in equal numbers. It has no separate molecules. *How we know:* In 1913 William Lawrence Bragg used X-rays to find where the atoms sit in a salt crystal. Each sodium atom has six chlorine atoms around it.
 - Two different substances can have the same formula. *How we know:* In the 1820s Friedrich Wöhler and Justus von Liebig each analysed a silver compound. One was harmless and one exploded, yet both had the same atoms in the same numbers.
 - Chemists in every country use the same symbols and the same rules for names. *How we know:* Since 1919 a world body of chemists, called IUPAC, has agreed the symbols and names. It also approves the name of each new element.
 
 ## How we found out
-**John Dalton in England, Gay-Lussac and Humboldt in France, Avogadro and Cannizzaro in Italy, and Jöns Jacob Berzelius in Sweden, Gay-Lussac and Humboldt measured the gases in 1805. Dalton's circles were printed in 1808. Avogadro wrote in 1811, and Berzelius proposed letters in 1813. The meeting in Karlsruhe was in 1860..** Two hundred years ago, chemists had no shared way to write a substance. Alchemists had drawn secret pictures, and each country used its own names. In 1808 John Dalton, a teacher in Manchester, drew each kind of atom as a circle with a mark inside. He also guessed how atoms join. He thought nature would choose the simplest way. So he wrote water as one hydrogen atom joined to one oxygen atom. Measurements did not agree. In 1805 Joseph Louis Gay-Lussac and Alexander von Humboldt had measured the gases that form water. Two measures of hydrogen joined with one of oxygen. In 1811 Amedeo Avogadro explained what this meant. Water must hold two hydrogen atoms for each oxygen atom. Few chemists listened to him. In 1813 the Swedish chemist Jöns Jacob Berzelius proposed letters in place of circles. A number showed how many atoms there were. Dalton disliked the letters all his life. For fifty years some chemists wrote water as HO and others as H₂O. In 1860, at a meeting in Karlsruhe, Stanislao Cannizzaro showed that Avogadro had been right. After that, chemists agreed on H₂O.  
+**John Dalton in England, Gay-Lussac and Humboldt in France, Avogadro and Cannizzaro in Italy, and Jöns Jacob Berzelius in Sweden, Gay-Lussac and Humboldt measured the gases in 1805. Dalton's circles were printed in 1808. Avogadro wrote in 1811, and Berzelius proposed letters in 1813. The meeting in Karlsruhe was in 1860..** Two hundred years ago, chemists had no shared way to write a substance. Alchemists had drawn secret pictures, and each country used its own names. In 1808 John Dalton, a teacher in Manchester, drew each kind of atom as a circle with a mark inside. He also guessed how atoms join. He thought nature would choose the simplest way. So he wrote water as one hydrogen atom joined to one oxygen atom. Measurements did not agree. In 1805 Joseph Louis Gay-Lussac and Alexander von Humboldt had measured the gases that form water. Two measures of hydrogen joined with one of oxygen. In 1811 Amedeo Avogadro explained what this meant. Water must hold two hydrogen atoms for each oxygen atom. Few chemists listened to him. In 1813 the Swedish chemist Jöns Jacob Berzelius proposed letters in place of circles. A number showed how many atoms there were. Dalton disliked the letters all his life. For fifty years some chemists wrote water as HO and others as H₂O. In 1860, at a meeting in Karlsruhe, Stanislao Cannizzaro argued that Avogadro had been right. In the years after, chemists came to agree on H₂O.  
 *What people believed before:* That water is HO, one hydrogen atom joined to one oxygen atom. Dalton chose this because it was the simplest. The measured gases, two measures of hydrogen to one of oxygen, showed that water is H₂O.
 
 ## Challenging perspectives
@@ -407,7 +407,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
   *Parent does:* Put the water, salt, sugar and baking soda on the table. Draw the table with four rows. Ask everyone at home for names in every language they know.  
   *Parent says:* What do we call this at home? What does your grandmother call it? What is it called in the other languages we know? Write every name.  
   *Child mode:* Write every name you know for water, salt, sugar and baking soda.
-  - Note: Some examples for salt are uppu, namak, nun and meeth. For water there are thanneer, neeru, vellam, paani and jol. Baking soda is also called cooking soda, soda uppu, meetha soda and khabar soda.
+  - Note: Some examples for salt are uppu, namak and nun. For water there are thanneer, neeru, vellam, paani and jol. Baking soda is also called cooking soda, soda uppu, meetha soda and khabar soda.
 - **s2 (3 min)**  
   *Parent does:* Read the packets together. Then write these in the last two columns. Water: water, H₂O. Salt: sodium chloride, NaCl. Sugar: sucrose, C₁₂H₂₂O₁₁. Baking soda: sodium hydrogen carbonate, NaHCO₃.  
   *Parent says:* Look at the small print on the baking soda. Can you find a name there that we never use at home? Now copy the chemical names and the formulas.  
@@ -646,9 +646,9 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
    **Answer:** A 3 by 3 grid of circles coloured like a chessboard. There are 5 circles of one colour and 4 of the other.. *Why:* A strong drawing alternates the colours along every row and every column. In a real grain the two kinds are equal in number, because the pattern goes on for millions of rows.
 
 ## Videos
-- **How to read a chemical formula: symbols and small numbers, with H₂O, CO₂ and NaCl** (, 4 min) id `to find`: To see the atoms of each formula drawn and counted, as in Dough Atoms. *Check:* No address yet. Find a short animation from a university, a science museum or a well-known chemistry channel. Check that it reads the small number as belonging to the symbol before it. Check that it does not show salt as separate NaCl molecules.
-- **Sodium metal and chlorine gas joining to make table salt, shown in a laboratory** (, 3 min) id `to find`: To see a soft metal and a poisonous gas become the salt in your kitchen. One formula, NaCl, names what they make. *Check:* No address yet. Find a demonstration filmed by a university or a chemistry society. Watch it first. Tell your child that this is never done at home.
-- **From Dalton's circles to the letters of Berzelius: how chemists came to write H₂O** (, 5 min) id `to find`: To see Dalton's own page of circle symbols and hear why letters replaced them. *Check:* No address yet. Find a history clip from a museum or a chemistry society. Check that it gives 1808 for Dalton's symbols and 1813 for the letters of Berzelius. Check that it says Dalton wrote water as one hydrogen and one oxygen.
+- **What do the small numbers mean? 🧪** (SALT SHACK - EDUCATION, 4 min) id `yGv0nlWWWyY`: To see the atoms of each formula drawn and counted, as in Dough Atoms. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Chemistry experiment 27 - Reaction between sodium metal and chlorine gas** (koen2all, 3 min) id `tbPxwDiX1NU`: To see a soft metal and a poisonous gas become the salt in your kitchen. One formula, NaCl, names what they make. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Dalton's symbol of elements | Dalton's Atomic Theory | Atoms, Ions and Molecules | AP Chemistry |** (Science Seekho!, 5 min) id `AY2ZwEBiOOM`: To see Dalton's own page of circle symbols and hear why letters replaced them. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) What does the formula H₂O say?  
@@ -704,7 +704,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 
 ## Open questions
 - **How many elements can exist?** 118 are known, and the heaviest last for less than a second. Laboratories are trying to make element 119. Nobody knows where the list ends.
-- **Which molecules are floating between the stars?** Astronomers have identified about 300 kinds of molecule in space. Starlight also shows hundreds of dark lines that no known formula explains yet.
+- **Which molecules are floating between the stars?** Astronomers have identified more than 300 kinds of molecule in space. Starlight also shows hundreds of dark lines that no known formula explains yet.
 - **Can you tell what a substance will do from its formula and arrangement alone?** For small molecules chemists can often work it out. For large ones, such as new medicines, they still have to make the substance and test it.
 - **How many different substances are possible?** Chemists have recorded well over a hundred million. The number that could be made from the known elements is far larger, and nobody can say how large.
 - **Did the first molecules of life form on the Earth, or did some arrive from space?** Some meteorites carry molecules that living things use. Whether they mattered for the start of life is still argued.
@@ -774,11 +774,11 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Founder's notebook, the page on atoms and molecules. These ideas are used here: molecules built from playdough, a card game that matches formulas to names (Read It Out), and a game of assembling molecules for points (Atom Market).
 - Curriculum entry sci.chemistry.names-and-formulas.L4: H₂O, CO₂, NaCl, and formulas say which atoms and how many. Valency, balancing equations and ions in detail are left for the Level 5 unit.
 - Other units were checked so that nothing repeats. Splitting water with a battery and chana models are in sci.chemistry.bonds.L3. The potato and peroxide test is in sci.chemistry.reaction-speed.L3. Atom Swap with coins and seeds is in sci.changes.chemical-reactions.L4. Catching water from a candle flame is in sci.changes.fire.L4. The experiments, games and story here are new.
-- Dalton J. (1808). A New System of Chemical Philosophy, Part I. Manchester: R. Bickerstaff.
+- Dalton J. (1808). A New System of Chemical Philosophy, Part I.
 - Gay-Lussac J. L. (1809). Mémoire sur la combinaison des substances gazeuses, les unes avec les autres. Mémoires de la Société d'Arcueil 2: 207-234.
 - Avogadro A. (1811). Essai d'une manière de déterminer les masses relatives des molécules élémentaires des corps. Journal de Physique 73: 58-76.
 - Berzelius J. J. (1813-1814). Essay on the cause of chemical proportions, and on some circumstances relating to them: together with a short and easy method of expressing them. Annals of Philosophy 2: 443-454 and 3: 51-62, 93-106, 244-257, 353-364.
-- Cannizzaro S. (1858). Sunto di un corso di filosofia chimica. Il Nuovo Cimento 7: 321-366.
+- Cannizzaro S. (1858). Sunto di un corso di filosofia chimica. Il Nuovo Cimento 7: 321-368.
 - Proust J. L. (1799). Recherches sur le cuivre. Annales de Chimie 32: 26-54.
 - Guyton de Morveau L. B., Lavoisier A. L., Berthollet C. L., Fourcroy A. F. (1787). Méthode de nomenclature chimique. Paris: Cuchet.
 - Bragg W. L. (1913). The structure of some crystals as indicated by their diffraction of X-rays. Proceedings of the Royal Society A 89: 248-277.

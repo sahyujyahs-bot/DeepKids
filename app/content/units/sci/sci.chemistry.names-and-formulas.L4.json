@@ -215,7 +215,7 @@
    "concept": "Everyday names, chemical names and formulas",
    "status": "defined",
    "definition": "An everyday name is what people call a substance at home. A chemical name says which elements are in it. A formula also says how many atoms of each.",
-   "description": "One substance can have hundreds of everyday names, one in each language. Salt is uppu, namak, nun, meeth and salt. An everyday name tells you nothing about what the substance is made of. A chemical name does. Sodium chloride holds sodium and chlorine. When a metal joins a non-metal, the metal is named first and the other name ends in ide. Small words inside a name count atoms. Mono means one, di means two and tri means three. So carbon dioxide has two oxygen atoms and carbon monoxide has one. In 1787 four French chemists, among them Antoine Lavoisier, proposed naming substances by what they are made of. Since 1919 a world body of chemists called IUPAC has agreed the rules.",
+   "description": "One substance can have hundreds of everyday names, one in each language. Salt is uppu, namak, nun and salt. An everyday name tells you nothing about what the substance is made of. A chemical name does. Sodium chloride holds sodium and chlorine. When a metal joins a non-metal, the metal is named first and the other name ends in ide. Small words inside a name count atoms. Mono means one, di means two and tri means three. So carbon dioxide has two oxygen atoms and carbon monoxide has one. In 1787 four French chemists, among them Antoine Lavoisier, proposed naming substances by what they are made of. Since 1919 a world body of chemists called IUPAC has agreed the rules.",
    "examples": [
     "Everyday name: baking soda. Chemical name: sodium hydrogen carbonate. Formula: NaHCO₃.",
     "Everyday name: dry ice. Chemical name: solid carbon dioxide. Formula: CO₂.",
@@ -241,7 +241,7 @@
    "concept": "What a formula leaves out",
    "status": "defined",
    "definition": "A formula says which atoms and how many. It does not say how the atoms are arranged.",
-   "description": "Glucose is the sugar in your blood. Fructose is a sugar in fruit and honey. Both have the formula C₆H₁₂O₆. Each molecule has 6 carbon, 12 hydrogen and 6 oxygen atoms. But the atoms are joined in a different arrangement, so the two sugars are different substances. Fructose tastes sweeter. Substances like these are called isomers. To know a substance fully, chemists must also find its arrangement. The British chemist Dorothy Hodgkin did this with X-rays. She worked out the arrangement of the atoms in penicillin in 1945 and in vitamin B12 in 1956. Vitamin B12 has 181 atoms in each molecule.",
+   "description": "Glucose is the sugar in your blood. Fructose is a sugar in fruit and honey. Both have the formula C₆H₁₂O₆. Each molecule has 6 carbon, 12 hydrogen and 6 oxygen atoms. But the atoms are joined in a different arrangement, so the two sugars are different substances. Fructose tastes sweeter. Substances like these are called isomers. To know a substance fully, chemists must also find its arrangement. The British chemist Dorothy Hodgkin did this with X-rays. She worked out the arrangement of the atoms in penicillin in 1945 and in vitamin B12 in the 1950s. Vitamin B12 has 181 atoms in each molecule.",
    "examples": [
     "Glucose and fructose are both C₆H₁₂O₆, and they are different sugars.",
     "Diamond and pencil lead are both written C, and they are arranged differently.",
@@ -279,7 +279,7 @@
     },
     {
      "who": "Ernst Mach and Wilhelm Ostwald, two scientists of about 1900",
-     "explanation": "A formula is a tool for keeping track of measurements. It should not be taken as a picture of hidden things. Ostwald changed his mind in 1909, after experiments made the case for atoms much stronger."
+     "explanation": "A formula is a tool for keeping track of measurements. It should not be taken as a picture of hidden things. Ostwald changed his mind a few years later, after experiments made the case for atoms much stronger."
     },
     {
      "who": "A third view",
@@ -296,7 +296,7 @@
   },
   {
    "text": "Water has two hydrogen atoms for each oxygen atom.",
-   "evidence": "When electricity splits water, the hydrogen gas takes up twice as much space as the oxygen gas. Gay-Lussac and Humboldt measured this in 1805."
+   "evidence": "In 1805 Gay-Lussac and Humboldt measured the gases that join to make water. Hydrogen took up twice as much space as oxygen."
   },
   {
    "text": "A pure compound has the same proportions wherever it comes from.",
@@ -1267,7 +1267,7 @@
      "do": "Put the water, salt, sugar and baking soda on the table. Draw the table with four rows. Ask everyone at home for names in every language they know.",
      "say": "What do we call this at home? What does your grandmother call it? What is it called in the other languages we know? Write every name.",
      "kid": "Write every name you know for water, salt, sugar and baking soda.",
-     "parent": "Some examples for salt are uppu, namak, nun and meeth. For water there are thanneer, neeru, vellam, paani and jol. Baking soda is also called cooking soda, soda uppu, meetha soda and khabar soda.",
+     "parent": "Some examples for salt are uppu, namak and nun. For water there are thanneer, neeru, vellam, paani and jol. Baking soda is also called cooking soda, soda uppu, meetha soda and khabar soda.",
      "context": "This is the first step of the Name Collector. You write every everyday name your family knows for four kitchen substances."
     },
     {
@@ -2575,31 +2575,28 @@
  ],
  "videos": [
   {
-   "title": "How to read a chemical formula: symbols and small numbers, with H₂O, CO₂ and NaCl",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What do the small numbers mean? 🧪",
+   "channel": "SALT SHACK - EDUCATION",
+   "youtube": "yGv0nlWWWyY",
    "mins": 4,
    "why": "To see the atoms of each formula drawn and counted, as in Dough Atoms.",
-   "check": "No address yet. Find a short animation from a university, a science museum or a well-known chemistry channel. Check that it reads the small number as belonging to the symbol before it. Check that it does not show salt as separate NaCl molecules."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Sodium metal and chlorine gas joining to make table salt, shown in a laboratory",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Chemistry experiment 27 - Reaction between sodium metal and chlorine gas",
+   "channel": "koen2all",
+   "youtube": "tbPxwDiX1NU",
    "mins": 3,
    "why": "To see a soft metal and a poisonous gas become the salt in your kitchen. One formula, NaCl, names what they make.",
-   "check": "No address yet. Find a demonstration filmed by a university or a chemistry society. Watch it first. Tell your child that this is never done at home."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "From Dalton's circles to the letters of Berzelius: how chemists came to write H₂O",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Dalton's symbol of elements | Dalton's Atomic Theory | Atoms, Ions and Molecules | AP Chemistry |",
+   "channel": "Science Seekho!",
+   "youtube": "AY2ZwEBiOOM",
    "mins": 5,
    "why": "To see Dalton's own page of circle symbols and hear why letters replaced them.",
-   "check": "No address yet. Find a history clip from a museum or a chemistry society. Check that it gives 1808 for Dalton's symbols and 1813 for the letters of Berzelius. Check that it says Dalton wrote water as one hydrogen and one oxygen."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2643,7 +2640,7 @@
   },
   {
    "q": "Which molecules are floating between the stars?",
-   "why_open": "Astronomers have identified about 300 kinds of molecule in space. Starlight also shows hundreds of dark lines that no known formula explains yet."
+   "why_open": "Astronomers have identified more than 300 kinds of molecule in space. Starlight also shows hundreds of dark lines that no known formula explains yet."
   },
   {
    "q": "Can you tell what a substance will do from its formula and arrangement alone?",
@@ -3042,11 +3039,11 @@
    "Other units were checked so that nothing repeats. Splitting water with a battery and chana models are in sci.chemistry.bonds.L3. The potato and peroxide test is in sci.chemistry.reaction-speed.L3. Atom Swap with coins and seeds is in sci.changes.chemical-reactions.L4. Catching water from a candle flame is in sci.changes.fire.L4. The experiments, games and story here are new."
   ],
   "science": [
-   "Dalton J. (1808). A New System of Chemical Philosophy, Part I. Manchester: R. Bickerstaff.",
+   "Dalton J. (1808). A New System of Chemical Philosophy, Part I.",
    "Gay-Lussac J. L. (1809). Mémoire sur la combinaison des substances gazeuses, les unes avec les autres. Mémoires de la Société d'Arcueil 2: 207-234.",
    "Avogadro A. (1811). Essai d'une manière de déterminer les masses relatives des molécules élémentaires des corps. Journal de Physique 73: 58-76.",
    "Berzelius J. J. (1813-1814). Essay on the cause of chemical proportions, and on some circumstances relating to them: together with a short and easy method of expressing them. Annals of Philosophy 2: 443-454 and 3: 51-62, 93-106, 244-257, 353-364.",
-   "Cannizzaro S. (1858). Sunto di un corso di filosofia chimica. Il Nuovo Cimento 7: 321-366.",
+   "Cannizzaro S. (1858). Sunto di un corso di filosofia chimica. Il Nuovo Cimento 7: 321-368.",
    "Proust J. L. (1799). Recherches sur le cuivre. Annales de Chimie 32: 26-54.",
    "Guyton de Morveau L. B., Lavoisier A. L., Berthollet C. L., Fourcroy A. F. (1787). Méthode de nomenclature chimique. Paris: Cuchet.",
    "Bragg W. L. (1913). The structure of some crystals as indicated by their diffraction of X-rays. Proceedings of the Royal Society A 89: 248-277.",
@@ -3057,7 +3054,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "Two hundred years ago, chemists had no shared way to write a substance. Alchemists had drawn secret pictures, and each country used its own names. In 1808 John Dalton, a teacher in Manchester, drew each kind of atom as a circle with a mark inside. He also guessed how atoms join. He thought nature would choose the simplest way. So he wrote water as one hydrogen atom joined to one oxygen atom. Measurements did not agree. In 1805 Joseph Louis Gay-Lussac and Alexander von Humboldt had measured the gases that form water. Two measures of hydrogen joined with one of oxygen. In 1811 Amedeo Avogadro explained what this meant. Water must hold two hydrogen atoms for each oxygen atom. Few chemists listened to him. In 1813 the Swedish chemist Jöns Jacob Berzelius proposed letters in place of circles. A number showed how many atoms there were. Dalton disliked the letters all his life. For fifty years some chemists wrote water as HO and others as H₂O. In 1860, at a meeting in Karlsruhe, Stanislao Cannizzaro showed that Avogadro had been right. After that, chemists agreed on H₂O.",
+  "story": "Two hundred years ago, chemists had no shared way to write a substance. Alchemists had drawn secret pictures, and each country used its own names. In 1808 John Dalton, a teacher in Manchester, drew each kind of atom as a circle with a mark inside. He also guessed how atoms join. He thought nature would choose the simplest way. So he wrote water as one hydrogen atom joined to one oxygen atom. Measurements did not agree. In 1805 Joseph Louis Gay-Lussac and Alexander von Humboldt had measured the gases that form water. Two measures of hydrogen joined with one of oxygen. In 1811 Amedeo Avogadro explained what this meant. Water must hold two hydrogen atoms for each oxygen atom. Few chemists listened to him. In 1813 the Swedish chemist Jöns Jacob Berzelius proposed letters in place of circles. A number showed how many atoms there were. Dalton disliked the letters all his life. For fifty years some chemists wrote water as HO and others as H₂O. In 1860, at a meeting in Karlsruhe, Stanislao Cannizzaro argued that Avogadro had been right. In the years after, chemists came to agree on H₂O.",
   "who": "John Dalton in England, Gay-Lussac and Humboldt in France, Avogadro and Cannizzaro in Italy, and Jöns Jacob Berzelius in Sweden",
   "when": "Gay-Lussac and Humboldt measured the gases in 1805. Dalton's circles were printed in 1808. Avogadro wrote in 1811, and Berzelius proposed letters in 1813. The meeting in Karlsruhe was in 1860.",
   "wrong_idea": "That water is HO, one hydrogen atom joined to one oxygen atom. Dalton chose this because it was the simplest. The measured gases, two measures of hydrogen to one of oxygen, showed that water is H₂O.",
@@ -3120,5 +3117,5 @@
   ],
   "art": "A child holding a steel tumbler of water, with many names for water in different scripts floating faintly around her, and the formula H₂O written small on the tumbler."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through and not yet tried at home. Count the Drops (core) needs 3 or 4 lemons, povidone-iodine solution, flour and clear glasses. The number of drops depends on the lemons and on the strength of the bottle. One teaspoon of juice may clear anything from 4 to 15 drops. The steps say what to do if the count is very low or very high. The end point is hard to judge to within 1 or 2 drops. Expect 2 teaspoons to clear about twice as many drops as 1 teaspoon. Expect 3 teaspoons to clear about three times as many. Iodine stains cloth, and lemon juice takes the stain out. Water from a Dry Powder is outside the core path, because a grown-up must heat a pan on the stove. A gas flame makes water of its own. So the plate must sit on the pan like a lid, and only its middle is read. Damp salt can mist the plate faintly at the first check. Baking soda must be used, and baking powder will not do. The powder left behind is washing soda, which must not be tasted. Dough Atoms (core) needs chapati dough, turmeric and coffee powder. The Name Collector (core) needs only the kitchen jars and the family. Read It Out (core) and Atom Market are played with the printed cards, and both work with two players or one. Clues Inside a Name depends on the packets at home, and ingredient lists differ from brand to brand. No part needs a garden or an animal. Facts to treat with care: the count of about 300 molecules found in space grows every year. The figure of 99 in every 100 atoms of the body is the usual rounded one. The year 1813 is when Berzelius first proposed letter symbols, and he wrote the numbers above the line. Writing them below the line came later. The Tamil and Bengali words in the story are everyday words that vary from region to region. The Upanishad, the Tao Te Ching and the Analects are given as paraphrases. The three videos have no address yet."
+ "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through and not yet tried at home. Count the Drops (core) needs 3 or 4 lemons, povidone-iodine solution, flour and clear glasses. The number of drops depends on the lemons and on the strength of the bottle. One teaspoon of juice may clear anything from 4 to 15 drops. The steps say what to do if the count is very low or very high. The end point is hard to judge to within 1 or 2 drops. Expect 2 teaspoons to clear about twice as many drops as 1 teaspoon. Expect 3 teaspoons to clear about three times as many. Iodine stains cloth, and lemon juice takes the stain out. Water from a Dry Powder is outside the core path, because a grown-up must heat a pan on the stove. A gas flame makes water of its own. So the plate must sit on the pan like a lid, and only its middle is read. Damp salt can mist the plate faintly at the first check. Baking soda must be used, and baking powder will not do. The powder left behind is washing soda, which must not be tasted. Dough Atoms (core) needs chapati dough, turmeric and coffee powder. The Name Collector (core) needs only the kitchen jars and the family. Read It Out (core) and Atom Market are played with the printed cards, and both work with two players or one. Clues Inside a Name depends on the packets at home, and ingredient lists differ from brand to brand. No part needs a garden or an animal. Facts checked on 17 Nov 2026 against scholarly and reference sources: the dates and paper citations, and the figures for the gases, air, Mars and the Moon. Softened: the number of molecules found in space is now said as more than 300, the year of Hodgkin's vitamin B12 work as the 1950s, the year Ostwald changed his mind as a few years later, and Karlsruhe is now told as the place where Cannizzaro argued the case, not where it was settled. Removed: the word meeth, and the publisher of Dalton's book. The 99 in 100 figure is the usual rounded one, and the Tamil and Bengali words and the three paraphrased teachings vary or are paraphrases. The three videos have no address yet."
 }
