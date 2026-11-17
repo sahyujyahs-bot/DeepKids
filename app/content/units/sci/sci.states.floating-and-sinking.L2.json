@@ -59,7 +59,7 @@
   },
   {
    "term": "Air space",
-   "meaning": "An air space is a tiny gap filled with air inside a thing. Many air spaces make a thing lighter for its size.",
+   "meaning": "An air space is a tiny gap filled with air inside a thing. A thing with many air spaces weighs less than a solid thing of the same size.",
    "example": "An apple has lots of air spaces inside, so it floats.",
    "art": "An apple cut in half, with a zoom circle showing tiny air gaps between the cells."
   }
@@ -98,7 +98,7 @@
    "status": "defined",
    "context": "This card explains why, in the bucket test, a tiny piece of potato sank like the whole potato, and a tiny matchstick floated like the big rolling pin.",
    "definition": "For a solid lump of one material, what the material is decides if it floats. A big piece and a small piece of the same material do the same thing.",
-   "description": "The whole potato sank, and so did a piece as small as your fingernail. The big rolling pin floated, and so did a tiny matchstick. Wood is lighter than the same amount of water, so wood floats. Steel and potato are heavier than the same amount of water, so they sink.",
+   "description": "The whole potato sank, and so did a piece as small as your fingernail. The big rolling pin floated, and so did a tiny matchstick. Here is why. Imagine a piece of wood, and a bowl of water that takes up the same space. The wood weighs less than the water, so wood floats. A piece of steel or potato weighs more than the water that would fill the same space. So steel and potato sink.",
    "examples": [
     "A whole potato and a tiny piece of potato both sink.",
     "A big rolling pin and a small matchstick, both wood, both float.",
@@ -125,7 +125,7 @@
    "concept": "Air inside helps things float",
    "status": "defined",
    "context": "This card explains the orange test, and why apples float.",
-   "definition": "Air is very light. A thing with lots of air inside it is light for its size, so it is more likely to float.",
+   "definition": "Air is very light. A thing with lots of air inside weighs less than a solid thing of the same size, so it is more likely to float.",
    "description": "An orange peel is full of tiny pockets of air. With its peel on, the whole orange floats. Peeled, the orange usually sinks. An apple floats because it has many air spaces between its cells. Thermocol is mostly air, so it floats very high. A life jacket is full of foam with air in it, so it helps a person float.",
    "examples": [
     "A whole orange floats, and a peeled orange usually sinks.",
@@ -160,12 +160,12 @@
    "evidence": "You can feel it when you push a ball down into water, and see it when you let go and the ball jumps up."
   },
   {
-   "text": "Air inside a thing makes it lighter for its size, and helps it float.",
+   "text": "Air inside a thing makes the whole thing weigh less than a solid thing of the same size, and helps it float.",
    "evidence": "A whole orange floats, and the same orange usually sinks once its air-filled peel is taken off."
   }
  ],
  "how_we_found_out": {
-  "story": "About 2,250 years ago, Archimedes lived in Syracuse, a Greek city on the island of Sicily. Many people thought heavy things sink and light things float. But a big, heavy log floats, while a small pebble sinks. Archimedes worked out a better rule and wrote it in a book called On Floating Bodies. He said a floating thing sinks into the water until it has pushed aside water as heavy as itself. His book was nearly lost. In the year 1229, someone scraped the writing off its pages and wrote prayers over them. In 1906, the scholar Johan Ludvig Heiberg found the faint old words under the prayers. Later, a team at the Walters Art Museum in the United States read even more. Abigail Quandt, a book expert there, spent years taking the crumbling pages apart safely.",
+  "story": "About 2,250 years ago, Archimedes lived in Syracuse, a Greek city on the island of Sicily. Many people thought heavy things sink and light things float. But a big, heavy log floats, while a small pebble sinks. Archimedes worked out a better rule and wrote it in a book called On Floating Bodies. He said a floating thing sinks into the water until the water it has pushed aside weighs as much as the whole thing. His book was nearly lost. In the year 1229, someone scraped the writing off its pages and wrote prayers over them. In 1906, the scholar Johan Ludvig Heiberg found the faint old words under the prayers. Later, a team at the Walters Art Museum in the United States read even more. Abigail Quandt, a book expert there, spent years taking the crumbling pages apart safely.",
   "who": "Archimedes of Syracuse, and the people who saved his book: Johan Ludvig Heiberg, and Abigail Quandt and her team at the Walters Art Museum",
   "when": "About 250 BCE (the book), 1229 (written over), 1906 (found again), from 1999 (read again)",
   "wrong_idea": "That heavy things sink and light things float. Archimedes showed that what matters is how heavy a thing is compared with the water it pushes aside, so a heavy log can float and a small pebble can sink.",
@@ -201,7 +201,7 @@
   {
    "q": "The rolling pin felt heavy in your hand, yet it floated. Why do our hands guess wrong about floating?",
    "kind": "deep",
-   "hint": "Your hand feels how heavy the whole thing is. Does it feel how heavy it is for its size?"
+   "hint": "Your hand feels how heavy the whole thing is. But floating depends on what the thing is made of and on the air inside it, and your hand cannot feel that."
   },
   {
    "q": "A peeled orange sinks and a whole orange floats. What does the orange lose when its peel comes off?",
@@ -493,7 +493,7 @@
        ]
       }
      ],
-     "parent": "Pushing each thing down and letting go makes sure a tiny thing is not just resting on the top of the water. Expect: rolling pin, lemon, bottle cap, apple, ice and candle float. Coin, potato, spoon and key sink. If a bottle cap fills with water, empty it and lay it flat side down. A few lemons and apples are heavier for their size than most, and they sink. If yours does, write what it did. That is a real result.",
+     "parent": "Pushing each thing down and letting go makes sure a tiny thing is not just resting on the top of the water. Expect: rolling pin, lemon, bottle cap, apple, ice and candle float. Coin, potato, spoon and key sink. If a bottle cap fills with water, empty it and lay it flat side down. A few lemons and apples hold less air than most, and they sink. If yours does, write what it did. That is a real result.",
      "check": {
       "t": "mcq",
       "q": "The heavy rolling pin floated, and the light coin sank. What does that show?",
@@ -528,7 +528,7 @@
        ]
       }
      ],
-     "parent": "Many children think a small piece will float. It sinks, because potato is a little heavier than the same amount of water. Push it down if it rests on the top.",
+     "parent": "Many children think a small piece will float. It sinks. If you compared a spoonful of potato with a spoonful of water, the potato would weigh a little more. Push it down if it rests on the top.",
      "context": "In this step of the bucket test, you check if a tiny piece does the same as a big piece."
     },
     {
@@ -547,8 +547,8 @@
        ]
       }
      ],
-     "parent": "After your child answers, say it plainly. Weight and size do not decide. For a solid lump, what it is made of decides. Wood is lighter than the same amount of water, so it floats. Steel and potato are heavier, so they sink.",
-     "think": "A steel spoon sinks. Do you think a steel bowl would sink too? Try it gently, and keep the water out.",
+     "parent": "After your child answers, say it plainly. Weight and size do not decide. For a solid lump, what it is made of decides. Imagine equal-sized pieces of wood, water and steel. The wood weighs less than the water, so it floats. The steel weighs more than the water, and so does the potato, so they sink. A steel bowl floats when it sits on the water with its open side up, because the hollow inside is full of air. The bowl and its air together weigh less than the water that would fill the whole space the bowl takes up. A ship floats for the same reason. Push the bowl down so that water pours in, and it sinks.",
+     "think": "A steel spoon sinks. What do you think a steel bowl will do? Try it, setting it gently on the water with the open side up.",
      "context": "This is the last step of the bucket test. You count your right guesses and say what you found."
     }
    ]
@@ -676,14 +676,14 @@
        "The water changed"
       ],
       "a": 0,
-      "why": "Peeling made the orange lighter, yet it sank. The peel holds lots of air, and air is very light. With its peel on, the orange is light for its size."
+      "why": "Peeling made the orange lighter, yet it sank. The peel holds lots of air, and air is very light. With its peel on, the orange weighed less than a solid orange of that size would, so it floated."
      }
     },
     {
      "id": "s4",
      "mins": 5,
      "do": "1. Ask the question below. 2. Wash your hands. Then share a fresh orange and eat it together. Do not eat the orange from the bucket.",
-     "say": "The peel made the orange lighter for its size. Why do you think a life jacket helps a person float?",
+     "say": "The air in the peel helped the orange float. A life jacket is full of foam with air in it. Why do you think a life jacket helps a person float?",
      "kid": "Why does a life jacket help a person float? Now eat a fresh orange. Not the one from the bucket.",
      "ask": [
       {
@@ -694,7 +694,8 @@
        ]
       }
      ],
-     "think": "An apple floats with or without its skin. Where do you think an apple keeps its air?"
+     "think": "An apple floats with or without its skin. Where do you think an apple keeps its air?",
+     "parent": "An apple has many tiny air spaces between its cells. That is why it floats even without its skin."
     }
    ]
   }
@@ -854,7 +855,7 @@
        "The water pushed the grains down"
       ],
       "a": 0,
-      "why": "A full grain is heavier than the same amount of water, so it sinks. A thin husk or an empty grain holds air and floats."
+      "why": "A full grain is heavier than the water that would fill the same space, so it sinks. A thin husk or an empty grain holds air and floats."
      }
     }
    ]
@@ -865,6 +866,7 @@
    "mins": 8,
    "days": 1,
    "context": "In this activity you push a ball down into a bucket of water. You feel the water push back up, and watch the ball jump up when you let go.",
+   "problem": "Water pushes up on things put into it. You will push a lemon and a ball down into water, and feel how strong the push is. The push has a name: upthrust.",
    "materials": [
     {
      "item": "a bucket about three-quarters full of water",
@@ -933,7 +935,7 @@
        ]
       }
      ],
-     "parent": "The push of water upwards is called upthrust. A big ball pushes a lot of water aside, so the water pushes back hard. Water pushes up on a coin too, but only a little, so the coin sinks.",
+     "parent": "The push of water upwards is called upthrust. When you push a ball under, it takes the place of some water, and the water pushes back. A big ball takes the place of a lot of water, so the push is big. Water pushes up on a coin too, but only a little, so the coin sinks.",
      "check": {
       "t": "mcq",
       "q": "Why did the ball jump up when you let go?",
@@ -971,11 +973,11 @@
      "items": [
       {
        "f": "A wooden rolling pin",
-       "b": "Floats. Wood is lighter than the same amount of water."
+       "b": "Floats. Wood is lighter than the water that would fill the same space."
       },
       {
        "f": "A one-rupee coin",
-       "b": "Sinks. Steel is heavier than the same amount of water."
+       "b": "Sinks. Steel is heavier than the water that would fill the same space."
       },
       {
        "f": "A lemon",
@@ -999,15 +1001,15 @@
       },
       {
        "f": "A steel spoon",
-       "b": "Sinks. Steel is heavier than the same amount of water."
+       "b": "Sinks. Steel is heavier than the water that would fill the same space."
       },
       {
        "f": "A metal key",
-       "b": "Sinks. Metal is heavier than the same amount of water."
+       "b": "Sinks. Metal is heavier than the water that would fill the same space."
       },
       {
        "f": "A glass marble",
-       "b": "Sinks. Glass is heavier than the same amount of water."
+       "b": "Sinks. Glass is heavier than the water that would fill the same space."
       },
       {
        "f": "An apple",
@@ -1031,7 +1033,7 @@
       },
       {
        "f": "A short piece of candle",
-       "b": "Floats. Candle wax is lighter than the same amount of water."
+       "b": "Floats. Candle wax is lighter than the water that would fill the same space."
       },
       {
        "f": "A plastic bottle cap",
@@ -1249,7 +1251,7 @@
    ],
    "creative": [
     "Tape the coin to a lemon. Does the lemon still float? Test it and see.",
-    "Put the coin in a small steel katori and float the katori. Why does a steel bowl float? Think about it, and look up the answer in a later unit."
+    "Put the coin in a small steel katori and float the katori. A katori floats because the hollow inside is full of air. The katori and its air together weigh less than the water that would fill all the space the katori takes up."
    ],
    "your_turn": "Think of your own way. Test it. Then try to rescue two coins, then three. How many coins can your floater hold?",
    "setup": [
@@ -1302,7 +1304,8 @@
        ]
       }
      ],
-     "think": "A big ship is made of steel, and steel sinks. What do you think holds a ship up?"
+     "think": "A big ship is made of steel, and steel sinks. What do you think holds a ship up?",
+     "parent": "A ship is hollow and full of air, like the katori. The whole ship with its air weighs less than the water that would fill all the space the ship takes up. That is why a steel ship floats."
     }
    ]
   }
@@ -1385,7 +1388,7 @@
       ]
      ],
      "a": "see items",
-     "why": "The lemon, ice and candle float. The key, potato and spoon sink. Metal and potato are heavier than the same amount of water."
+     "why": "The lemon, ice and candle float. The key, potato and spoon sink. Metal and potato are heavier than the water that would fill the same space."
     },
     {
      "t": "draw",
@@ -1406,7 +1409,7 @@
      "t": "write",
      "p": "In the bucket test, the rolling pin felt heavy, yet it floated. Why? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
-     "a": "Because it is made of wood. Wood is lighter than the same amount of water, so it floats, even when it is a big heavy piece.",
+     "a": "Because it is made of wood. Wood is lighter than the water that would fill the same space, so it floats, even when it is a big heavy piece.",
      "why": "A strong answer says that weight does not decide, and names the material, wood.",
      "context": "This question is about the bucket test. You guess, then put ten things from the kitchen into a bucket of water, one at a time, to see which float and which sink.",
      "how": "e1"
@@ -1446,10 +1449,10 @@
        "says": "The log floats because it is made of wood. A small piece of the same wood would float too."
       }
      ],
-     "ask": "Who do you agree with? Use something from the bucket test as evidence. Then say one thing the other girl noticed that is worth checking.",
+     "ask": "Who do you agree with? Use something from the bucket test as evidence. Then say one thing the other child noticed that is worth checking.",
      "lines": 3,
      "a": "A strong answer agrees with the second child and gives evidence: the tiny matchstick floated like the big rolling pin, and the tiny potato piece sank like the whole potato. It also says the first child is right that shape can matter for some things, like a steel bowl, which is worth testing.",
-     "why": "Both girls give a reason. The bucket test showed that for a solid lump, the material decides, not the size. Shape and air inside can matter for hollow things, which the Class 4 unit tests."
+     "why": "Both children give a reason. The bucket test showed that for a solid lump, the material decides, not the size. Shape and air inside can matter for hollow things, such as a steel bowl or a ship."
     },
     {
      "t": "odd",
@@ -1461,7 +1464,7 @@
       "A plastic bottle cap"
      ],
      "a": 2,
-     "why": "A glass marble sinks, because glass is heavier than the same amount of water. The other three float."
+     "why": "A glass marble sinks, because glass is heavier than the water that would fill the same space. The other three float."
     },
     {
      "t": "mcq",
@@ -1499,7 +1502,7 @@
       "It broke into pieces"
      ],
      "a": 1,
-     "why": "The peel is full of tiny air pockets. Without it, the orange is heavier than the same amount of water, so it usually sinks. Picking 'floated higher' means thinking lighter always floats.",
+     "why": "The peel is full of tiny air pockets. Without it, the orange is heavier than the water that would fill the same space, so it usually sinks. Picking 'floated higher' means thinking lighter always floats.",
      "context": "This question is about the orange test. You float a whole orange, then peel it and try again.",
      "how": "e2"
     },
@@ -1507,7 +1510,7 @@
      "t": "write",
      "p": "Why does a life jacket help a person float? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
-     "a": "A life jacket is full of foam with air in it. Air is very light, so the person and the jacket together are light for their size, and they float.",
+     "a": "A life jacket is full of foam with air in it. Air is very light. The jacket and the person together weigh less than the water that would fill the same space, so they float.",
      "why": "A strong answer links the jacket to the orange peel or to thermocol: things full of air float."
     },
     {
@@ -1574,7 +1577,7 @@
       "the tiny air spaces inside the apple"
      ],
      "a": [
-      "the tiny air spaces: they make the apple light for its size"
+      "the tiny air spaces: they make the apple weigh less"
      ],
      "why": "An apple has many tiny air spaces between its cells. Air is very light, so the apple floats.",
      "art": "An apple cut in half, with a zoom circle on the white part showing tiny gaps, and one empty label line."
@@ -1588,7 +1591,7 @@
       "Both sink"
      ],
      "a": 0,
-     "why": "Both are made of wood, and wood is lighter than the same amount of water. Big or small, they both float. Picking 'the block sinks' means thinking big things sink."
+     "why": "Both are made of wood, and wood is lighter than the water that would fill the same space. Big or small, they both float. Picking 'the block sinks' means thinking big things sink."
     },
     {
      "t": "count",
@@ -1656,7 +1659,7 @@
     "A plastic bottle cap"
    ],
    "a": 1,
-   "why": "Steel is heavier than the same amount of water, so a steel spoon sinks. Wood and most bottle caps float.",
+   "why": "Steel is heavier than the water that would fill the same space, so a steel spoon sinks. Wood and most bottle caps float.",
    "outcome": 0
   },
   {
@@ -1664,7 +1667,7 @@
    "p": "You are about to test a cucumber. What is a good prediction?",
    "opts": [
     "'It will float.'",
-    "'It will float, because it feels light for its size.'",
+    "'It will float, because it feels light.'",
     "'Let's see.'"
    ],
    "a": 1,
@@ -1705,7 +1708,7 @@
     "It floats halfway"
    ],
    "a": 1,
-   "why": "Potato is a little heavier than the same amount of water, so every piece sinks. Picking 'floats' means thinking small things float.",
+   "why": "Potato is a little heavier than the water that would fill the same space, so every piece sinks. Picking 'floats' means thinking small things float.",
    "outcome": 3,
    "how": "e1"
   },
@@ -1743,7 +1746,7 @@
     "The juice floats"
    ],
    "a": 0,
-   "why": "Air is very light. The peel's air pockets make the whole orange light for its size. If the peel were heavy, the peeled orange would float better, and it does not.",
+   "why": "Air is very light. The peel's air pockets mean the whole orange weighs less than a solid ball of that size would. If the peel were heavy, the peeled orange would float better, and it does not.",
    "outcome": 4,
    "how": "e2"
   },
@@ -1768,7 +1771,7 @@
     "Small stones"
    ],
    "a": 0,
-   "why": "Husks and empty grains are light for their size, or hold air, so they float. Full grains and stones sink.",
+   "why": "Husks and empty grains are thin and light, or hold air, so they float. Full grains and stones sink.",
    "outcome": 5,
    "how": "a2"
   }
@@ -1794,7 +1797,7 @@
    "art": "Round green floating islands of grass on a wide lake, with a fisher's hut on one of them."
   },
   {
-   "text": "Clay Ganesha and Durga idols sinking in water after festivals in Mumbai and Kolkata. Clay is heavier than the same amount of water.",
+   "text": "Clay Ganesha and Durga idols sinking in water after festivals in Mumbai and Kolkata. Clay is heavier than the water that would fill the same space.",
    "art": "A clay idol being lowered gently into a tank of water by a family."
   },
   {
@@ -2007,7 +2010,7 @@
    "evidence": "In the bucket test, the heaviest thing, the rolling pin, floated, and one of the lightest, the coin, sank. A fingernail-sized piece of potato sank, and a matchstick floated like the rolling pin."
   },
   "three": {
-   "who_am_i": "Your body is about as heavy as the same amount of water. Breathe in deeply, and the air in your lungs helps you float.",
+   "who_am_i": "Your body weighs about the same as the water that would fill the space your body takes up. Breathe in deeply, and the air in your lungs helps you float.",
    "what_is_life": "A coconut floats across the sea and grows into a palm on a new island. Floating is one way life travels.",
    "what_is_this_world": "The same water holds up a bamboo coracle on the Kaveri and a floating island on Loktak Lake, and lets a clay idol sink in Mumbai."
   },
@@ -2026,7 +2029,7 @@
   ],
   "science": [
    {
-    "text": "Archimedes' rule: a floating thing sinks into the water until it has pushed aside water as heavy as itself.",
+    "text": "Archimedes' rule: a floating thing sinks into the water until the water it pushes aside weighs as much as the whole thing.",
     "status": "settled"
    },
    {
@@ -2041,11 +2044,11 @@
   "practice": {
    "title": "Float on your breath",
    "mins": 3,
-   "say": "Lie down on your back on the floor. Put one hand on your chest. Breathe in slowly and deeply. Feel your chest rise. Now breathe out slowly. Feel it fall. Do this three times. In water, a big breath in helps a person float. The air inside you makes you lighter for your size.",
+   "say": "Lie down on your back on the floor. Put one hand on your chest. Breathe in slowly and deeply. Feel your chest rise. Now breathe out slowly. Feel it fall. Do this three times. In water, a big breath in helps a person float. The air inside you makes your body weigh less than the water that would fill the same space.",
    "kid": "Lie on your back. Put a hand on your chest. Breathe in slowly. Feel it rise. Breathe out. Do it three times."
   },
   "ask": [
-   "The rolling pin felt heavy, but it floated. What else might feel one way and be another way?",
+   "The rolling pin felt heavy, but it floated. Can you think of something else where your hand or eyes would guess wrong?",
    "What else could you test to find out if size matters, using wood or potato?",
    "Your hand and the bucket told you different things. When two tests disagree, which one do you trust?"
   ],

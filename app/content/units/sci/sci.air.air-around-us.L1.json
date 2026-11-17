@@ -52,7 +52,7 @@
    "status": "defined",
    "context": "This card says what air is and where it is. It follows Catch the Air, where you caught air in a bag.",
    "definition": "Air is a real thing that fills the space around us, indoors and outdoors, all over the Earth.",
-   "description": "A room that looks empty is full of air. So is the space under your bed, inside a cupboard and inside an empty bottle. Air is made of tiny bits, far too small to see, and it wraps the whole Earth like a blanket.",
+   "description": "A room that looks empty is full of air. So is the space under your bed, inside a cupboard and inside an empty bottle. Air is made of tiny bits, far too small to see. A thick layer of air surrounds the whole Earth.",
    "examples": [
     "A plastic bag swept under the bed comes out puffed up with air.",
     "An empty bottle with no cap is full of air.",
@@ -66,7 +66,7 @@
    "status": "defined",
    "context": "This card explains why air is invisible.",
    "definition": "Something is invisible when light goes straight through it, so nothing comes back to our eyes.",
-   "description": "We see a thing when light bounces off it into our eyes. Light goes straight through a little clean air, so we see what is behind it. But a huge amount of air sends back some blue light. That is why the sky looks blue, and when you look up, you are seeing air.",
+   "description": "We see a thing when light bounces off it into our eyes. A little clean air does not send any light back to our eyes. The light goes straight through, so we see what is behind the air. But the sky is a huge amount of air. Sunlight is made of many colours mixed together. The tiny bits of air bounce blue light in every direction more than the other colours. Some of that blue light reaches our eyes from every part of the sky. That is why the sky looks blue, and when you look up, you are seeing air.",
    "examples": [
     "You can see the tree through a clean window, but you hardly see the glass.",
     "Hills far away look a little blue, because there is a lot of air between you and them.",
@@ -1779,7 +1779,7 @@
    "what_is_life": "Every living being you know uses air: you, the cat, the crow and the tulsi plant.",
    "what_is_this_world": "A layer of air wraps the whole Earth. There is so much of it that, when we look up, we see it as the blue sky."
   },
-  "thread": "One layer of air wraps the whole Earth, with no walls in it. The same air is a sea breeze in Chennai, the breath of a cow in Punjab and the wind over a tea garden in Assam. It goes into you as a breath and comes out again, into the room and the city. Everything is conscious, the moving air too, in its own way. Each breath joins you to all of it.",
+  "thread": "There is one layer of air around the whole Earth, and it has no walls in it. The same air is a sea breeze in Chennai, the breath of a cow in Punjab and the wind over a tea garden in Assam. It goes into you as a breath and comes out again, into the room and the city. Everything is conscious, the moving air too, in its own way. Each breath joins you to all of it.",
   "teachings": [
    {
     "source": "Vaisheshika Sutra of Kanada, 2.1.9 to 2.1.10",
@@ -1821,7 +1821,7 @@
  },
  "how_we_found_out": {
   "context": "If air is invisible, why is the sky blue? This card tells the true story of how people found out.",
-  "story": "Clean air is clear, so people long wondered why the sky is blue. Many thought the blue came from dust or tiny drops of water high up. Lord Rayleigh, a scientist in Britain, worked out that very tiny things send blue light off sideways much more than red light. In 1899 he showed that the tiny bits of air themselves are enough to make the sky blue, with no dust at all. In 1921 the Indian scientist C. V. Raman was on a ship to England. He looked at the blue sea and asked if it was blue only because it copied the sky. Back in Kolkata, he and his students shone light through clear water and found that water sends blue light sideways too. So the sea is blue partly by itself. And when you look up at the blue sky, you are seeing air.",
+  "story": "Clean air is clear, so people long wondered why the sky is blue. Many thought the blue came from dust or tiny drops of water high up. Sunlight is made of many colours mixed together. Lord Rayleigh, a scientist in Britain, worked out that very tiny things bounce blue light off in every direction much more than they bounce red light. In 1899 he showed that the tiny bits of air themselves are enough to make the sky blue, with no dust at all. In 1921 the Indian scientist C. V. Raman was on a ship to England. He looked at the blue sea and asked if it was blue only because it copied the sky. Back in Kolkata, he and his students shone light through clear water and found that water sends blue light sideways too. So the sea is blue partly by itself. And when you look up at the blue sky, you are seeing air.",
   "who": "Lord Rayleigh in Britain and C. V. Raman in India",
   "when": "1871 and 1899 (Rayleigh), 1921 (Raman)",
   "wrong_idea": "That clean air has no colour at all, and the sky's blue comes from dust or water drops. Rayleigh showed that the bits of air themselves send blue light our way.",
