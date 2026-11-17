@@ -137,7 +137,7 @@
    "for": "Balls, lemons and bottles on their side all roll away.",
    "against": "In the Roll or Slide Test, the round dabba standing flat did not roll. It slid. A round thing rolls only when its round side touches the floor.",
    "status": "rejected",
-   "context": "This card is about the idea that round things always roll."
+   "context": "Balls, lemons and bottles on their side all roll. Do all round things always roll?"
   },
   {
    "claim": "Each thing has only one way of moving.",
@@ -145,7 +145,7 @@
    "for": "We usually see a ball rolling and a fan spinning.",
    "against": "A ball can roll, spin, swing in a string bag and bounce. A steel plate can slide, spin and roll. How a thing moves depends on how it is pushed and how it touches the floor.",
    "status": "rejected",
-   "context": "This card is about the idea that each thing moves in only one way."
+   "context": "We say 'a ball rolls' and 'a fan spins'. Does each thing move in only one way?"
   },
   {
    "claim": "Only balls bounce.",
@@ -153,7 +153,7 @@
    "for": "Balls are the best-known bouncers.",
    "against": "An empty plastic bottle, a crumpled paper ball and your own body on a mattress all bounce. Anything that squashes and springs back can bounce.",
    "status": "rejected",
-   "context": "This card is about the idea that only balls can bounce."
+   "context": "Balls are the best-known bouncers. Can only balls bounce?"
   }
  ],
  "big_questions": [
@@ -170,7 +170,7 @@
   {
    "q": "The Earth is spinning right now. Why can't you feel it?",
    "kind": "big",
-   "hint": "Do you feel a smooth train moving when your eyes are shut?"
+   "hint": "Shut your eyes on a smooth train. You hardly feel it move, because you and everything around you move together. The Earth carries all of us together in the same way."
   },
   {
    "q": "When you sit very still, is any part of you still moving?",
@@ -637,9 +637,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "1. Your child bounces on the spot on their toes 5 times. 2. Ask which of the five ways they liked best.",
-     "say": "Now bounce on your toes, five times. Feel your knees bend and spring. Which of the five ways did you like best?",
-     "kid": "Bounce on your toes five times. Which way did you like best?",
+     "do": "1. Your child bounces on the spot on their toes 5 times. 2. Say that the knees bend and spring back up, and that is what bouncing is.",
+     "say": "Now bounce on your toes, five times. Feel your knees bend and spring back up. That is bouncing.",
+     "kid": "Bounce on your toes five times. Feel your knees bend, then spring back.",
      "check": {
       "t": "mcq",
       "q": "You turned round and round in one place. Which way of moving was that?",
@@ -816,7 +816,8 @@
       "why": "A swinging thing hangs from one point that stays still. The bag hung from the handle and moved back and forth below it."
      }
     }
-   ]
+   ],
+   "problem": "A swinging thing hangs from one point that stays still. The rest of it goes back and forth below that point. In this activity you hang a bag from a door handle, push it once, and find which part stays still and which part swings."
   },
   {
    "id": "a4",
@@ -906,9 +907,19 @@
       "a": 0,
       "why": "A spinning thing turns round its middle. The middle stays put, and the ends travel round in the biggest circle."
      },
-     "parent": "Rubbing on the floor slows each one down. A plate or a top on its point often spins longest."
+     "parent": "Rubbing on the floor slows each one down. A plate or a top on its point often spins longest.",
+     "ask": [
+      {
+       "q": "Why did they all stop in the end?",
+       "good": [
+        "The floor rubbed them.",
+        "Rubbing slows things down."
+       ]
+      }
+     ]
     }
-   ]
+   ],
+   "problem": "A spinning thing turns round its middle. The middle stays in one place, and the rest of the thing goes round it. In this activity you spin four things and find the middle of each one."
   }
  ],
  "games": [
@@ -1130,8 +1141,8 @@
      "id": "s3",
      "mins": 1,
      "do": "Count the ticks.",
-     "say": "Which one was hardest to find? Why do you think so?",
-     "kid": "Which was hardest to find? Why?",
+     "say": "Count the ticks together. Then I have one question about bouncing.",
+     "kid": "Count your ticks. Then answer the question about bouncing.",
      "check": {
       "t": "mcq",
       "q": "Which of these bounces?",
@@ -1235,7 +1246,8 @@
         "It goes up, then comes back down."
        ]
       }
-     ]
+     ],
+     "parent": "The still point is the stick. The stick stays still, and the toy goes back and forth below it."
     },
     {
      "id": "s4",
@@ -1483,7 +1495,7 @@
      "t": "count",
      "p": "In the Roll or Slide Test, the dabba slid 1 tile, then 2 tiles. How many tiles in all?",
      "a": 3,
-     "why": "1 and 2 make 3.",
+     "why": "1 tile and 2 more tiles make 3 tiles.",
      "how": "e1"
     },
     {
@@ -1502,20 +1514,20 @@
    "items": [
     {
      "t": "perspective",
-     "p": "The second child and her brother the first child look at a round steel plate.",
+     "p": "Anjali, aged 7, and her brother Rohan, aged 6, look at a round steel plate.",
      "views": [
       {
-       "who": "The first child, aged 6",
+       "who": "Rohan, aged 6",
        "says": "A plate can only slide. That is how plates move."
       },
       {
-       "who": "The second child, aged 7",
+       "who": "Anjali, aged 7",
        "says": "A plate can slide, spin or roll. It depends how you push it."
       }
      ],
      "ask": "Who do you agree with? Try it with a plate, then say why. Then say one thing the other person might say back.",
-     "a": "The second child. A plate slides when pushed flat, spins when twisted, and rolls when stood on its edge.",
-     "why": "A strong answer uses a test with a real plate. It also says why the first child thought so: we usually only see plates slide on a table."
+     "a": "Anjali. A plate slides when pushed flat, spins when twisted, and rolls when stood on its edge.",
+     "why": "A strong answer uses a test with a real plate. It also says why Rohan thought so: we usually only see plates slide on a table."
     },
     {
      "t": "draw",
@@ -1612,23 +1624,23 @@
    "items": [
     {
      "t": "perspective",
-     "p": "The first child, the second child and their friend the third child watch an auto go by.",
+     "p": "Meera, aged 8, Zoya, aged 7, and their friend Ishita, aged 7, watch an auto go by.",
      "views": [
       {
-       "who": "The first child, aged 8",
+       "who": "Meera, aged 8",
        "says": "The wheels roll along the road."
       },
       {
-       "who": "The second child, aged 7",
+       "who": "Zoya, aged 7",
        "says": "No, each wheel spins round its middle."
       },
       {
-       "who": "The third child, aged 7",
+       "who": "Ishita, aged 7",
        "says": "The whole auto slides along the road."
       }
      ],
      "ask": "Who is right? Can two of them be right at once? Say why.",
-     "a": "The first child and the second child are both right. Each wheel spins round its middle while it rolls along the road. The auto does not slide, unless it skids.",
+     "a": "Meera and Zoya are both right. Each wheel spins round its middle while it rolls along the road. The auto does not slide, unless it skids.",
      "why": "A strong answer sees that one wheel can roll and spin at the same time, and that rolling is not sliding."
     },
     {
@@ -2001,7 +2013,7 @@
   },
   {
    "problem": "In a Kitchen Motion Hunt, 4 things were put on ROLL, 2 on SLIDE, 3 on SPIN, 1 on SWING and 1 on BOUNCE. Which slip had the most things? Which slips had the fewest?",
-   "answer": "ROLL had the most, 4 things. SWING and BOUNCE had the fewest, with 1 each. Those were the hardest to find.",
+   "answer": "ROLL had the most, 4 things. SWING and BOUNCE had the fewest, with 1 each.",
    "explain": "4 is the biggest number, so ROLL had the most. 1 is the smallest, and two slips had 1. Many kitchen things are round, which may be why so many rolled.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "a2",
@@ -2089,7 +2101,7 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at the hub, the middle of a wheel. It is the empty space at the centre that makes the wheel useful.",
-    "link": "A wheel turns round its hub, and the hub stays in place. In Spin It, every spinning thing turned round a middle that stayed put."
+    "link": "A wheel turns round its hub, and the hub stays in place. The hole in the hub is where the axle fits, and that is what lets the wheel turn. In Spin It, every spinning thing turned round a middle that stayed put."
    },
    {
     "source": "Plato, Cratylus 402a, reporting Heraclitus",
@@ -2109,7 +2121,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Some people say a rolling dabba is fully explained by the forces on it and the way it touches the floor. For them, nothing more is going on in the dabba, and feeling belongs only to living beings with nerves."
+   "view": "Many physicists say a rolling dabba is fully explained by how it is pushed and how it touches the floor. For them, nothing more is going on inside the dabba, and only living beings with nerves can feel."
   },
   "practice": {
    "title": "Still on a spinning Earth",
