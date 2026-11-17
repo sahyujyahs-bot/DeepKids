@@ -151,7 +151,7 @@
   },
   {
    "term": "Molecule",
-   "meaning": "The tiniest bit of something that is still that thing. A water molecule is two hydrogen atoms joined to one oxygen atom. Scientists write it H2O.",
+   "meaning": "The tiniest bit of something that is still that thing. Molecules are built from atoms, which are even smaller pieces. A water molecule is two hydrogen atoms joined to one oxygen atom. Scientists write it H2O.",
    "example": "One drop of water has more molecules than there are grains of sand on all of Earth's beaches.",
    "art": "A big ball (oxygen) with two smaller balls (hydrogen) stuck on its top, like two ears on a head."
   },
@@ -2008,7 +2008,8 @@
      "art": "A syringe on top of the straw pulling water up through the straw, and two marker lines on the jar showing the level has dropped.",
      "caption": "3. Pump water up the straw. Mark how far the level falls."
     }
-   ]
+   ],
+   "problem": "This jar is a model of the ground under a village. The gravel is rock with gaps, the sand and soil are the ground above it, and the straw is a well. You pour in 'rain', pump water out, and watch the water level."
   },
   {
    "id": "e3",
@@ -2133,7 +2134,7 @@
      "do": "Talk about the weather today.",
      "say": "Was today dry or sticky? A matka cools best in dry, breezy air. Why might that be?",
      "kid": "Is today dry or sticky? Matkas work best on dry, windy days. Why do you think that is?",
-     "think": "Your body has its own matka trick. What is it? (Hint: you do it when you run in the sun.)"
+     "think": "Your body also cools itself by evaporation. How does it do that when you run in the sun?"
     },
     {
      "id": "s5",
@@ -2725,7 +2726,7 @@
      "do": "Choose, together, one change the family will really make this week.",
      "say": "Which job could we easily use less water for? What will we change?",
      "kid": "Which job could use less water? Choose one change for your family. Write it on the chart.",
-     "think": "We used this many litres. A family in a desert village may manage on far less. How?"
+     "think": "A family in a desert village may use far less water than we do. Which jobs on your count could they use much less for?"
     }
    ],
    "setup": [
@@ -2804,7 +2805,7 @@
       "a": 1,
       "why": "One hour is 6 lots of 10 minutes. So it is 6 lots of 40 millilitres. 6 × 40 = 240 millilitres. Picking 46 means adding 6 instead of multiplying. Picking 400 means multiplying by 10, but an hour has only 6 lots of 10 minutes."
      },
-     "think": "That's in one hour. How much in a whole day of 24 hours? Who should fix a dripping tap at school, if nobody owns it?"
+     "think": "That is one hour. How much would it drip in a whole day of 24 hours?"
     }
    ],
    "setup": [
@@ -3213,7 +3214,7 @@
       "a": 0,
       "why": "Wind and dry air make water evaporate fast. Evaporation takes heat away, so the wet cloth cools the bottle. Shade stops the sun heating it. Picking the blanket in the sun is a common idea, because blankets keep us warm in winter. A blanket slows heat moving in or out, but sunshine will still warm it, and it has no evaporation to cool it."
      },
-     "think": "People in hot, dry places have cooled water and homes this way for a very long time. What else could we learn from them?"
+     "think": "Wet khus screens and the pot-in-pot cooler both use evaporation. What kind of air makes evaporation work best?"
     }
    ],
    "setup": [
@@ -3296,7 +3297,7 @@
      "id": "s4",
      "mins": 8,
      "do": "Compare your design with the usual solutions and the creative ideas.",
-     "say": "Desert families have built tankas for hundreds of years. What did they know that we had to work out?",
+     "say": "Desert families have built tankas for hundreds of years. Why is a tanka covered, and why is its courtyard kept clean?",
      "kid": "Desert families have done this for hundreds of years. How is your idea like a tanka? How is it different?",
      "think": "If the courtyard is dirty when the rain comes, what happens to the drinking water for the whole year?"
     }
@@ -4134,7 +4135,7 @@
   "ask": [
    "Is water with minerals in it still 'just water'?",
    "If your glass of water carries traces of where it has been, what could it tell a scientist about your city?",
-   "Rivers carried salt from the rocks into the sea. Is part of the sea made of mountains?"
+   "Rivers carried salt from rocks on land into the sea. Does that mean some of the salt in the sea once belonged to mountains?"
   ],
   "art": "A glass of tap water drying on a dark plate into a faint white ring, with a dotted trail behind it going back through a pipe, a borewell, layers of rock and soil, and up to a rain cloud."
  },

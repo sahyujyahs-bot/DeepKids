@@ -232,7 +232,7 @@
   {
    "concept": "How cloud drops become raindrops",
    "status": "debated",
-   "description": "A raindrop is about 100 times wider than a cloud drop. So it takes about a million cloud drops to make one raindrop. Scientists know two ways this happens. But in warm clouds over India, rain often forms faster than these ideas can fully explain. How exactly it happens so fast is still being studied.",
+   "description": "A raindrop is about 100 times wider than a cloud drop. A drop 100 times wider is also 100 times taller and 100 times deeper. So it holds about a million times as much water. So it takes about a million cloud drops to make one raindrop. Scientists know two ways this happens. But in warm clouds over India, rain often forms faster than these ideas can fully explain. How exactly it happens so fast is still being studied.",
    "examples": [
     "Rain can pour out of a big monsoon cloud within half an hour of it forming.",
     "In cold clouds, high up, rain often starts as snow and melts on the way down.",
@@ -481,14 +481,16 @@
    "who": "Some news reports, and some companies that sell it",
    "for": "In 1946, Vincent Schaefer made snow in a cold box with dry ice. Since then, seeding clouds with tiny specks has made some clouds rain or snow more.",
    "against": "Seeding only works on the right kind of cloud, which must already be close to raining. Scientists at the Indian Institute of Tropical Meteorology in Pune tested it over Solapur in Maharashtra. They found it can add some rain, but only from suitable clouds. It cannot make rain from a clear sky.",
-   "status": "debated"
+   "status": "debated",
+   "context": "Cloud seeding means adding tiny specks, such as dry ice or silver iodide, to a cloud. Cloud drops form on specks, so the idea is that extra specks help more of the cloud's water turn into rain or snow. This card asks whether it can make rain whenever we want."
   },
   {
    "claim": "Forests draw wet air in from the sea, like a pump.",
    "who": "Anastassia Makarieva and Victor Gorshkov, two Russian scientists, in 2007. They call it the 'biotic pump'.",
    "for": "Forests give off huge amounts of water vapour. When it condenses, the air pressure drops, and that could draw wet air in from the sea. Inland forests like the Amazon really do recycle rain many times.",
    "against": "Many weather scientists agree that forests recycle rain. But they doubt that forests pull in sea air as strongly as the biotic pump says. The argument is still going on.",
-   "status": "minority"
+   "status": "minority",
+   "context": "Forests give off water vapour through their leaves. The biotic pump idea says that when this vapour condenses, it also pulls wet air in from the sea. This card asks whether that is true."
   },
   {
    "claim": "Raindrops are shaped like teardrops.",
@@ -584,7 +586,7 @@
    "For three days they boiled the sea. The sailors took turns at the fire. Nobody went mad. Nobody jumped in. The last barrel lasted, with the cups added, a little longer than Zainab had said.",
    "On the third evening, Amina was holding the cup when Halima touched her shoulder and pointed. Far away, low over the flat sea, the sky had changed. Clouds were building up out of nothing. They rose and rose into towers, gold at the top from the setting sun, dark grey at the bottom.",
    "Amina looked at the clouds, and then at the brass plate dripping into her cup.",
-   "'It's the same,' she whispered. 'The sun is heating the whole sea. And up there is the cold lid.'",
+   "'It's the same,' she whispered. 'The Sun is heating the whole sea, like our fire. And the cold air high up is like our cold plate.'",
    "That night the wind came back, and with it came the rain. Real rain, fat and cold, drumming on the deck and filling every bowl, every bucket and every empty barrel. The sailors danced in it with their mouths open. Amina stood at the rail and let it run down her face. It was not salty. It tasted of nothing at all. It tasted of water.",
    "She thought of the salt pans at home, and the white heaps of salt, and the water that had risen out of them every day of her life. She had always thought it was simply gone. Now she knew where it went. It went up, and became this.",
    "Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining there too, on her mother's roof, with water that had been this very sea a few days ago."
@@ -2134,7 +2136,7 @@
      "mins": 8,
      "do": "1. Put exactly 2 teaspoons of water on each plate and into the glass. 2. Put plate 1 in the sun. Put plate 2 in the shade. Put plate 3 in the shade, in front of a fan. 3. Put the glass in the shade next to plate 2. 4. Write down the start time.",
      "say": "This is a race. The winner is the puddle that disappears first. Which one will win?",
-     "kid": "Put 2 spoons of water on each plate, and in the glass. Put one plate in the sun, one in the shade and one by a fan. Put the glass in the shade too. Go!",
+     "kid": "Put 2 spoons of water on each plate, and in the glass. Put one plate in the sun. Put one in the shade. Put one by a fan. Put the glass in the shade too. Go!",
      "context": "This is the first step of the Evaporation Race. You put the same amount of water in four places to see which dries first."
     },
     {
@@ -2672,7 +2674,8 @@
      "art": "A map of the Western Ghats with dark blue rain on the Mumbai side and light yellow on the Pune side.",
      "caption": "3. Colour the wet sea side and the dry rain shadow."
     }
-   ]
+   ],
+   "problem": "The monsoon is wet wind that blows from the sea onto the land. When it meets mountains, it is pushed up and cooled, and it rains. In this activity, a kettle is the warm sea, its steam is the wet wind, and a cold plate is the mountain. Then you follow the monsoon across a map of India."
   },
   {
    "id": "a6",
@@ -2866,7 +2869,7 @@
      "do": "On day 14, compare the jar with your day 1 drawing. Then your child explains the jar's water cycle to someone else in the family.",
      "say": "Two weeks, and we never watered it. In England, a man called David Latimer planted a bottle garden in 1960. He watered it only once more, in 1972. It was still growing more than 50 years later. Tell someone how our jar keeps its plants alive.",
      "kid": "Two weeks with no watering! Tell someone how the water in your jar goes round. Use the words evaporate and condense.",
-     "think": "The Earth is a bit like a closed jar in space. What would happen if someone took the lid off?"
+     "think": "The jar needs no watering, because its water goes round and round. What would happen to the plants if you took the lid off for a week?"
     }
    ],
    "setup": [
@@ -3045,7 +3048,7 @@
      "do": "Compare your design with the fog nets in Chile and Morocco, and with the beetles in the Namib desert.",
      "say": "Beetles in the Namib desert solved this long ago. Which idea would you copy for a real village?",
      "kid": "Desert beetles drink fog that gathers on their backs! Which idea would you use for a real village?",
-     "think": "Nature had millions of years to find water in dry places. What else could we learn from desert plants and animals?"
+     "think": "A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this unit did tiny drops join into bigger ones?"
     }
    ],
    "setup": [
@@ -3873,7 +3876,7 @@
   ],
   "science": [
    {
-    "text": "On average, a water molecule stays in the air for only about 9 days before it falls again. The water in a cloud is always new.",
+    "text": "On average, a water molecule stays in the air for only about 9 days before it falls again. So the water in any cloud has usually been in the air for just a few days.",
     "status": "settled"
    },
    {
