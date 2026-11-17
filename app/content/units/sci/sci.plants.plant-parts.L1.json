@@ -193,7 +193,7 @@
  ],
  "big_questions": [
   {
-   "q": "In the Sprouts Hold On experiment, the moong sprouts held on to the cloth. Did the roots hold the cloth, or did the cloth hold the roots?",
+   "q": "In the Sprouts Hold On test, the sprouts stayed on the cloth. What did the roots do to the cloth to hold on?",
    "kind": "deep",
    "hint": "Think about what happened when you turned the cloth over, and when you tried to pull one sprout off."
   },
@@ -382,7 +382,7 @@
       },
       {
        "f": "Lotus: fruit",
-       "b": "Fruit. A seed head like the top of a shower, with a seed in each hole."
+       "b": "Fruit. The lotus fruit is a flat seed head with many holes. Each hole holds one seed."
       },
       {
        "f": "Lotus: seeds",
@@ -1090,8 +1090,8 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Dip the cut end of a bhindi round in paint. 2. Press it on the paper. 3. Your child makes a pattern of stars. 4. Try the long piece too.",
-     "say": "Dip the bhindi in the paint and press it on the paper. What shape do you see?",
-     "kid": "Dip the bhindi in paint. Press it on the paper. Make stars."
+     "say": "Dip the bhindi in the paint and press it on the paper. What shape do you see? That star is the shape of the inside of a bhindi, with the seeds in its five corners.",
+     "kid": "Dip the bhindi in paint. Press it on the paper. The star is the inside of a bhindi."
     }
    ],
    "setup": [
@@ -1239,7 +1239,7 @@
    "title": "A Plant That Stays Put: roots that hold",
    "mins": 20,
    "context": "This is a making challenge. You make a paper plant and give the plant roots. Then you pull the plant to test which roots hold best in a bowl of dry rice.",
-   "problem": "Make a paper plant that is hard to pull out of a bowl of dry rice. What kind of roots work best?",
+   "problem": "Make a paper plant that is hard to pull out of a bowl of dry rice. Real roots grow into the soil and hold on to many bits of it. Paper roots can hold on to many grains of rice in the same way. What kind of roots work best?",
    "constraints": [
     "Use only paper, thin card from a cereal box, a straw or a rolled newspaper, tape, string and things from home.",
     "Every plant stands in the same bowl of dry rice, rava or sand, buried the same depth, about 4 cm.",
@@ -1886,7 +1886,7 @@
  ],
  "ask_kids": [
   "Which part of a plant is on your plate today?",
-  "If you were a plant, which part would you like to be? Why?",
+  "If someone cut off every leaf, what would the roots miss? Why?",
   "On the way out, can you find a plant growing in a crack? How is the plant holding on?",
   "What would happen to a tree with no roots in a storm?",
   "Where do you think the roots of a tall tree go?",
@@ -2100,7 +2100,7 @@
    {
     "source": "Chandogya Upanishad 5.1",
     "teaching": "Speech, sight, hearing, mind and breath once argued about which of them was the most important. Each one left the body for a year, and the body lived on without them. But when breath began to leave, all the others were pulled away too. So they agreed that breath mattered most, because the others depend on breath.",
-    "link": "The story asks which part matters most. In a plant the answer is harder. The roots depend on the leaves for food, and the leaves depend on the roots for water."
+    "link": "The story asks which part matters most. A plant has no single most important part. The roots need food from the leaves, and the leaves need water from the roots."
    },
    {
     "source": "Tao Te Ching 16",
@@ -2129,7 +2129,7 @@
    "kid": "Take off your chappals. Stand with your feet apart. Close your eyes. Press your toes into the floor, like roots. Sway slowly, like a tree. Breathe in and out, three times. Open your eyes."
   },
   "ask": [
-   "If roots could tell us what they feel under the ground, what do you think they would say?",
+   "A root grows down, whichever way the seed lies. How do you think the root knows which way is down?",
    "In the Sprouts Hold On experiment, the sprouts held on to the cloth. What else do you think roots might hold on to?",
    "Is there one part of a plant that matters most, or do they all matter?"
   ],

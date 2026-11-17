@@ -51,7 +51,7 @@
    "concept": "Your ears catch sounds",
    "status": "defined",
    "definition": "Your ears are your sense organs for hearing. The ear flap catches sound and sends it down the ear hole to the eardrum inside.",
-   "description": "The part of your ear you can see is the ear flap. Its curly folds catch sound and guide it into the ear hole. The ear hole is a short tunnel into your head. At its end is the eardrum, a thin skin stretched tight. When sound reaches it, the eardrum shakes very slightly. Deeper inside, your ear turns that shaking into messages for your brain. Then you hear. You have two ears, one on each side of your head. So you hear sounds from in front, from the sides, and from behind you.",
+   "description": "The part of your ear you can see is the ear flap. Its curly folds catch sound and guide it into the ear hole. The ear hole is a short tunnel into your head. At its end is the eardrum, a thin skin stretched tight. When sound reaches it, the eardrum shakes very slightly. Deeper inside, your ear turns that shaking into messages for your brain. When your brain reads those messages, you hear the sound. You have two ears, one on each side of your head. So you hear sounds from in front, from the sides, and from behind you.",
    "examples": [
     "Cover your ears with your hands, and sounds go quieter. Less sound can get in.",
     "Cup your hand behind your ear flap, and a soft sound gets a little louder. Your hand catches more sound, like a bigger ear flap.",
@@ -79,7 +79,7 @@
    "concept": "How you tell if a sound is near or far",
    "status": "defined",
    "definition": "Your ears hear how loud a sound is. Your brain uses that, and what it already knows, to guess how far away the sound is.",
-   "description": "A loud sound usually means near, and a soft sound usually means far. Most of the time that guess is right. But it can be tricked. A soft tap close by can sound far away. A hard tap across the room can sound near. Your brain also uses what it knows. You know how loud a friend's voice usually is, so a very quiet friend sounds far. Echoes help too. A far sound reaches you with more echo from the walls.",
+   "description": "A loud sound usually means near, and a soft sound usually means far. Most of the time that guess is right. But it can be tricked. A soft tap close by can sound far away. A hard tap across the room can sound near. Your brain also uses what it knows. You know how loud a friend's voice usually is, so a very quiet friend sounds far. Echoes help too. In a room, a sound from far away bounces off the walls on its way to you, so it has more echo than a sound close by.",
    "examples": [
     "In the Near or Far test, the trick taps often fooled your ears.",
     "Thunder is very loud, yet it is made high up in the clouds, far away.",
@@ -171,7 +171,7 @@
   {
    "q": "If you could hear any sound in the world, from as far away as you like, which would you choose?",
    "kind": "big",
-   "hint": "A friend in another city, the sea, a whale, the inside of a seed, your own heart?"
+   "hint": "You could choose a friend in another city, the sea, a whale, the inside of a seed or your own heart."
   }
  ],
  "story": {
@@ -663,7 +663,7 @@
       "a": 0,
       "why": "Your ears tell you how loud a sound is. You guess near or far from that. Far sounds are usually soft, so a soft tap close by can trick you."
      },
-     "think": "If a loud sound can be far and a soft sound can be near, how else could you tell where a sound is?"
+     "think": "A loud sound can be far, and a soft sound can be near. So what else could help you tell where a sound is? Think about the echo in the room, and how loud you already know that sound usually is."
     }
    ]
   }
@@ -965,7 +965,7 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Your child sits like a frog. 2. Show where a frog's eardrum is, on the side of the head behind the eye.",
-     "say": "A frog's eardrum is a round circle on the outside, just behind the eye. Where is your eardrum?",
+     "say": "A frog's eardrum is a round circle on the outside, just behind the eye. Your eardrum is hidden deep inside, at the end of your ear hole. Can you point to where each one is?",
      "kid": "Be a frog. Where is a frog's eardrum? Where is yours?"
     }
    ]
@@ -1072,7 +1072,7 @@
     "paper and crayons"
    ],
    "general": [
-    "Walk to each room and say it in a normal voice. Going closer makes a soft sound loud enough.",
+    "Walk to each room and say it in a normal voice. When you stand close, even a soft voice is loud enough to hear.",
     "Ring a small bell once. Everyone knows it means dinner, and a small bell does not wake the baby the way a shout would.",
     "Agree on a signal, like three knocks on the door, that means dinner."
    ],
@@ -1287,7 +1287,7 @@
       },
       {
        "who": "The second child, aged 7",
-       "says": "Thunder is always very loud. So even loud thunder can be far away."
+       "says": "Thunder is always very loud, even when the storm is far away. So a very loud sound does not always mean it is near."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
@@ -1884,7 +1884,7 @@
   "practice": {
    "title": "Listen until it is gone",
    "mins": 3,
-   "say": "Sit still and close your eyes. I will hit this steel tumbler once, gently. Listen to the sound as long as you can. Raise your hand when you cannot hear it any more. Now take three slow breaths. Where did the sound go?",
+   "say": "Sit still and close your eyes. I will hit this steel tumbler once, gently. Listen to the sound as long as you can. Raise your hand when you cannot hear it any more. Did the sound stop suddenly, or did it get softer and softer? Now take three slow breaths.",
    "kid": "Close your eyes. Listen to the tumbler ring. Raise your hand when it is gone. Breathe slowly three times."
   },
   "ask": [

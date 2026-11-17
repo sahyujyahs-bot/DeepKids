@@ -153,7 +153,7 @@
    "hint": "Nothing touched the ice except sunlight. The heat came with the light."
   },
   {
-   "q": "Every star at night is a sun. Could a child far away, near another star, be looking at our Sun as a tiny dot tonight?",
+   "q": "Every star you see at night is a sun like ours, only much farther away. Could a child living near one of those stars be looking at our Sun tonight, as a tiny dot?",
    "kind": "big",
    "hint": "Our Sun is a star too. From very far away, it would look like a small dot."
   }
@@ -304,7 +304,7 @@
      "say": "We are making a pretend star. The torch light can only come out of this tiny hole, through thin paper. That makes one small dim dot of light, like a star.",
      "kid": "Watch the grown-up make the star. Light comes out of one tiny hole.",
      "adult": true,
-     "parent": "Push the pencil gently, with the torch lying on a table, away from fingers. The paper makes the dot dim, as real stars are. If the cardboard glows all over, use thicker cardboard or two layers."
+     "parent": "Push the pencil gently, with the torch lying on a table, away from fingers. Real stars look small and dim to us because they are so far away. The paper makes the torch dot small and dim in the same way. If the cardboard glows all over, use thicker cardboard or two layers."
     },
     {
      "id": "s3",
@@ -340,7 +340,7 @@
        ]
       }
      ],
-     "parent": "Stand so the Sun is off to one side, not in your child's view. By a bright window, the dim star should look very faint or vanish. If your child still sees it clearly, tape on another square of paper and look again. Use that same star in the dark room. Let your child walk one step closer and back again."
+     "parent": "Stand so the Sun is off to one side, not in your child's view. By a bright window, the dim star should look very faint or vanish. If your child still sees it clearly, tape on another square of paper and look again. Use that same star in the dark room."
     },
     {
      "id": "s5",
@@ -358,7 +358,7 @@
        ]
       }
      ],
-     "parent": "In the dark, the same dim dot looks bright and sharp. This is the surprise. If you cannot see it in the dark either, take off one square of paper, then look again by the window with the same star. A little light under the door is fine."
+     "parent": "In the dark, the same dim dot looks bright and sharp. This is the surprise. If you cannot see it in the dark either, take off one square of paper. Then look again by the window and in the dark room with this brighter star. A little light under the door is fine."
     },
     {
      "id": "s6",
@@ -375,7 +375,7 @@
        ]
       }
      ],
-     "parent": "The room light is like the Sun coming up. The star does not stop shining. The light around it makes it hard to see."
+     "parent": "Switching on the room light is like the Sun coming up in the morning. The torch star does not stop shining. The light around it makes the star hard to see."
     },
     {
      "id": "s7",
@@ -630,7 +630,7 @@
        ]
       }
      ],
-     "parent": "Don't give answers. The torch star test will help your child find out about the stars."
+     "parent": "Do not give answers. Write the guesses down, and check them at the window tonight. The torch star test will help your child find out where the stars are in the day."
     }
    ]
   },
@@ -828,7 +828,7 @@
       },
       {
        "f": "Many twinkling stars",
-       "b": "NIGHT, to see them. The stars are there all day too, but the bright sky hides them."
+       "b": "NIGHT is when we can see them. The stars are there all day too, but the bright sky hides them."
       },
       {
        "f": "A full Moon",
@@ -1220,7 +1220,7 @@
      "do": "Your child sets up their idea on one ice cube, and leaves the other with nothing. Check both after 5 and 10 minutes.",
      "say": "Put your idea on one ice cube. Leave the other one with nothing. Let's check them after five minutes.",
      "kid": "Try your idea on one ice cube. Check both after five minutes.",
-     "parent": "Anything that makes shade will help, because it stops the sunshine from reaching the ice. A steel lid in full sun can get warm itself, which is a good thing to notice."
+     "parent": "Anything that makes shade will help, because it stops the sunshine from reaching the ice. A steel lid in full sun gets warm itself, so it may not protect the ice well. Let your child touch the lid and notice this."
     },
     {
      "id": "s3",
@@ -1717,7 +1717,7 @@
    "why_open": "Scientists have found thousands of planets going round other stars. Nobody knows yet if any of them has life."
   },
   {
-   "q": "Why does the Sun's outer glow get hotter than the Sun's surface?",
+   "q": "Why is the Sun's outer glow hotter than the Sun's surface?",
    "why_open": "The Sun's faint outer glow, the corona, is much hotter than the bright surface below it. Scientists have ideas about why, and spacecraft like Aditya-L1 are studying it, but they do not know for sure yet."
   }
  ],
@@ -1786,7 +1786,7 @@
    "answer": "A star.",
    "explain": "The pattern is Sun, Moon, star, again and again. After Sun and Moon comes a star.",
    "math_unit": "math.patterns.repeating-patterns.L1",
-   "context": "This is about a sky pattern for a Day Sky and Night Sky Book.",
+   "context": "This is about the Sun, the Moon and the stars that you drew in your Day Sky and Night Sky Book.",
    "why_maths": "Spotting the pattern lets us say what comes next without looking."
   },
   {
@@ -1874,7 +1874,7 @@
    "evidence": "In the torch star test, the same star was faint by the bright window and bright in the dark room. In a total eclipse of the Sun, stars appear at midday."
   },
   "three": {
-   "who_am_i": "You are someone who lives in sunshine. The warmth on your skin and the light in your eyes come from the Sun.",
+   "who_am_i": "You live in sunshine every day. The warmth on your skin and the light in your eyes come from the Sun.",
    "what_is_life": "Almost all life on Earth runs on the Sun. Plants turn their leaves to the sunshine and make their food from it, and humans and other animals eat the plants.",
    "what_is_this_world": "The world is under a sky full of stars, all day and all night. Our Sun is one of them, the one close enough to warm us."
   },
