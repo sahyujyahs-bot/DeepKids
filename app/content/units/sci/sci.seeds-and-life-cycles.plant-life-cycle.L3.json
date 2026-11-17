@@ -26,7 +26,7 @@
   {
    "term": "Life cycle",
    "meaning": "All the stages a living thing goes through, from the start of their life until they make young ones of their own. Then the stages start again.",
-   "example": "Moong: seed, seedling, grown plant, flower, pod, new seeds.",
+   "example": "A moong plant goes from seed to seedling to grown plant. Then they flower and make pods, and the pods hold new seeds.",
    "art": "A circle of arrows joining a seed, a seedling, a plant, a flower, a pod and seeds."
   },
   {
@@ -169,9 +169,9 @@
    "definition": "A life cycle is all the stages a living thing goes through, from the start of their life until they make young ones. For a flowering plant the stages are: seed, seedling, grown plant, flower, fruit, and new seeds.",
    "description": "It is called a cycle because it goes round in a circle. The last stage, new seeds, is also the first stage of the next plant. So the circle never really ends. A moong seed grows into a moong plant. The plant makes flowers. The flowers turn into pods. The pods hold new moong seeds, and each one can start again. You can start drawing the circle at any stage. A seed is not more of a 'beginning' than a flower is.",
    "examples": [
-    "Moong: seed, seedling, grown plant, yellow flower, green pod, black pod full of new seeds.",
-    "Mango: mango stone, seedling, young tree, mango flowers, mangoes, new mango stones.",
-    "Marigold: seed, seedling, plant, orange flower, dry flower head full of thin black seeds."
+    "A moong seed grows into a seedling, then a grown plant with yellow flowers. The flowers become green pods, and the pods turn black and are full of new seeds.",
+    "A mango stone grows into a seedling, then a young tree. The tree grows mango flowers, the flowers become mangoes, and each mango holds a new stone.",
+    "A marigold seed grows into a seedling, then a plant with orange flowers. Each flower dries into a flower head full of thin black seeds."
    ],
    "perspectives": [],
    "art": "A circle of six pictures joined by arrows: a moong seed, a seedling, a bushy plant, a yellow flower, a green pod, and a black pod with seeds.",
@@ -256,7 +256,7 @@
    "concept": "When a plant is ready to flower",
    "status": "defined",
    "definition": "A plant flowers when they are big enough, and when the season is right. Many plants find out the season by measuring how long the nights are.",
-   "description": "A young plant first grows leaves and roots. When they have grown enough, the tips of some stems stop making leaves and make flower buds instead. Many plants wait for the right season too. In 1920, two American scientists, Wightman Garner and Harry Allard, found that some tobacco and soybean plants flower only when the days get short. In 1938, Karl Hamner and James Bonner showed that what the plant really measures is the length of the night. Flash a light in the middle of a long night, and those plants do not flower. The leaves do the measuring. Then they send a message up the stem to the buds. A Russian scientist, Mikhail Chailakhyan, guessed in 1936 that such a message must exist. It took until 2007 for scientists to find it. It is a protein that travels from the leaves to the bud.",
+   "description": "A young plant first grows leaves and roots. When they have grown enough, the tips of some stems stop making leaves and make flower buds instead. Many plants wait for the right season too. In 1920, two American scientists, Wightman Garner and Harry Allard, found that some tobacco and soybean plants flower only when the days get short. In 1938, Karl Hamner and James Bonner showed that what the plant really measures is the length of the night. Flash a light in the middle of a long night, and those plants do not flower. The leaves do the measuring. Then the leaves send a message up the stem to the buds. A Russian scientist, Mikhail Chailakhyan, guessed in 1936 that such a message must exist. It took until 2007 for scientists to find it. It is a protein that travels from the leaves to the bud.",
    "examples": [
     "Rice in many parts of India flowers when the nights get longer after the monsoon.",
     "Some plants, like wheat in cold countries, wait until they have felt a cold winter.",
@@ -313,9 +313,9 @@
    "definition": "Some plants finish their whole life cycle in a few weeks or months, then die. They are called annuals. Others live for many years and flower again and again. They are called perennials.",
    "description": "Moong goes from seed to seed in two to three months. Rice takes about four months. A mango tree grown from a stone usually takes five to eight years before their first mangoes, and then they fruit every year for a long time. Some plants wait for years, flower just once, and then die. The neelakurinji shrub, which grows in the hills of Kerala and Tamil Nadu, flowers all together only once every 12 years. Their last big bloom near Munnar was in 2018. One kind of bamboo in Mizoram waits about 48 years. Then all the plants of that kind flower together, make their seeds, and die. The talipot palm can wait more than 30 years. Then they make one of the biggest bunches of flowers of any plant, and die.",
    "examples": [
-    "Short: moong, methi, marigold and mustard, from seed to seed in a few months.",
-    "Long: mango, neem and coconut, which flower for years and years.",
-    "Once in a long life: neelakurinji every 12 years, and bamboo after about 48 years."
+    "Moong, methi, marigold and mustard go from seed to seed in a few months.",
+    "Mango, neem and coconut trees flower year after year for a very long time.",
+    "Neelakurinji flowers together only once every 12 years, and one kind of bamboo flowers only once, after about 48 years."
    ],
    "perspectives": [],
    "art": "A row of plants under a long timeline: a moong plant at 2 to 3 months, rice at 4 months, a mango tree at 6 years, neelakurinji hills turning blue at 12 years, a bamboo grove flowering at 48 years.",
@@ -1114,8 +1114,8 @@
      "id": "s3",
      "mins": 3,
      "do": "At the end, lay all 12 pairs in a row, each flower above its fruit.",
-     "say": "Look at each flower and its fruit together. Which flower changed the most to become its fruit?",
-     "kid": "Put each flower above its fruit. Which changed the most?",
+     "say": "Look at each flower and its fruit together. Which part of the flower can you still see on the fruit?",
+     "kid": "Put each flower above its fruit. Which flower part is still on the fruit?",
      "check": {
       "t": "mcq",
       "q": "The green cap on top of a brinjal is…",
@@ -1126,7 +1126,8 @@
       ],
       "a": 0,
       "why": "The green cap is made of the sepals, the small green leaves that wrapped the flower bud. They stay on while the flower's base swells into the brinjal. Picking 'a leaf that grew later' is a fair guess, because the cap is green like a leaf. But it was there before the fruit, around the flower."
-     }
+     },
+     "parent": "Good answers name the green sepals on a tomato or brinjal, the crown of a pomegranate, or the dark tip of a banana. These are the flower's leftovers."
     }
    ]
   }
@@ -2165,7 +2166,8 @@
      "do": "Compare the guesses with the counts.",
      "say": "Which fruit had the most seeds? The fewest? Each seed came from one tiny seed-start in the flower.",
      "kid": "Which fruit had the most seeds? Were your guesses close? Each seed was once a tiny seed-start in the flower.",
-     "think": "A papaya has hundreds of seeds. A mango has just one. Why might a plant make so many, or so few?"
+     "think": "A papaya has hundreds of seeds. A mango has just one. Why might a plant make so many, or so few?",
+     "parent": "A plant that makes hundreds of small seeds, like a papaya, counts on a few of them landing in a good place. A plant that makes one big seed, like a mango, packs a big store of food into it, so the seedling gets a good start."
     },
     {
      "id": "s5",
@@ -3400,7 +3402,8 @@
      "do": "Read the usual and the creative ideas together. Then fix any empty months in the plan.",
      "say": "Which month was hardest to fill? What could fill it?",
      "kid": "Which month was empty? What could you grow to fill it? Fix your plan.",
-     "think": "Farmers plan by life cycles too. Why do you think many farmers sow rice at the start of the monsoon?"
+     "think": "Farmers plan by life cycles too. Why do you think many farmers sow rice at the start of the monsoon?",
+     "parent": "Rice grows best in warm, wet fields, and the monsoon brings the water. So farmers sow at the start of the rains, when the weather suits the plant."
     }
    ]
   }

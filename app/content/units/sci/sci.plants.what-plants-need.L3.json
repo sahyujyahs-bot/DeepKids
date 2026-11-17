@@ -188,9 +188,9 @@
    "definition": "A fair test changes only one thing, called the variable, and keeps everything else the same. Then any difference in the results was caused by that one thing.",
    "description": "Say you put one cup of seedlings in a sunny window and another in a dark cupboard. But you also forget to water the cupboard cup. A week later the cupboard seedlings are dead. Was it the dark, or the thirst? You cannot tell, because two things changed. In a fair test you choose one thing to change. You keep everything else the same: the same kind of seeds, the same soil, the same cups and the same water. You measure the same way each time, and test more than one plant, because one plant can be a fluke.",
    "examples": [
-    "Light test: same seeds, same soil, same water. Only the light is different.",
-    "Water test: same seeds, same soil, same window. Only the amount of water is different.",
-    "Warmth test: same sprouts, same wet cotton, same dark boxes. Only the temperature is different."
+    "In the light test, you use the same seeds, soil and water. Only the light is different.",
+    "In the water test, you use the same seeds, soil and window. Only the amount of water is different.",
+    "In the warmth test, you use the same sprouts, wet cotton and dark boxes. Only the temperature is different."
    ],
    "perspectives": [],
    "art": "Two identical paper cups of seedlings side by side with matching labels, the same spoon, the same soil bag, and one cardboard box over just one of them.",
@@ -3527,7 +3527,7 @@
      "do": "At about Day 12, when the bean is around 15 cm tall, push the stick in beside them. Do not hurt the roots.",
      "say": "Many beans are climbers. Watch what the tip does with the stick in the next few days.",
      "kid": "Push a stick into the soil next to your bean. Watch the tip. Will they find the stick?",
-     "think": "The bean has no eyes. How do they find the stick to climb? The tip of a climbing bean slowly swings round in circles, so it touches things nearby. When it touches the stick, it wraps around it."
+     "think": "The bean has no eyes. How do they find the stick to climb? A climbing bean slowly swings their tip round in circles, so the tip touches things nearby. When the tip touches the stick, the tip wraps around the stick."
     },
     {
      "id": "s5",

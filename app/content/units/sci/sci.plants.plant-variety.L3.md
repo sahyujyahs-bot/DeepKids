@@ -123,9 +123,9 @@ A banyan tree drops roots from their branches. These prop roots grow thick and b
 **Definition:** People depend on plants for food, medicine, shade, wood, cloth, rope, paper, oil, colours and much more.
 
 Look at your breakfast. Rice, wheat, dal, vegetables, fruit, sugar, tea and spices all come from plants. Milk comes from cows that eat grass. So almost all our food comes from plants in the end. Just three grasses, rice, wheat and maize, give the world nearly half of all its food energy. Cotton clothes are made from the fluffy fibres of the cotton plant. Chairs, doors and pencils are wood. Natural rubber comes from the milky sap of the rubber tree. Turmeric and mehendi give us colours. Coconut and mustard give us oil. Trees give us shade and cool our streets.
-- e.g. Food: rice, wheat, dal, mango, banana, tea and sugar.
-- e.g. Things: cotton cloth, jute bags, coir doormats, wooden furniture, paper and rubber.
-- e.g. Colours: turmeric gives yellow, mehendi gives orange-red and indigo gives blue.
+- e.g. Rice, wheat, dal, mango, banana, tea and sugar all come from plants as food.
+- e.g. Cotton cloth, jute bags, coir doormats, wooden furniture, paper and rubber are all made from plants.
+- e.g. Turmeric gives a yellow colour, mehendi gives orange-red and indigo gives blue.
 ### Medicines from plants · *defined*
 **Definition:** Many medicines were first found in plants. Plants make strong chemicals to protect themselves, and some of these chemicals can help us heal.
 

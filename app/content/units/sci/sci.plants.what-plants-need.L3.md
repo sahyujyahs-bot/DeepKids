@@ -52,9 +52,9 @@ Think of everything you need to live: food, water, air and a place that is not t
 **Definition:** A fair test changes only one thing, called the variable, and keeps everything else the same. Then any difference in the results was caused by that one thing.
 
 Say you put one cup of seedlings in a sunny window and another in a dark cupboard. But you also forget to water the cupboard cup. A week later the cupboard seedlings are dead. Was it the dark, or the thirst? You cannot tell, because two things changed. In a fair test you choose one thing to change. You keep everything else the same: the same kind of seeds, the same soil, the same cups and the same water. You measure the same way each time, and test more than one plant, because one plant can be a fluke.
-- e.g. Light test: same seeds, same soil, same water. Only the light is different.
-- e.g. Water test: same seeds, same soil, same window. Only the amount of water is different.
-- e.g. Warmth test: same sprouts, same wet cotton, same dark boxes. Only the temperature is different.
+- e.g. In the light test, you use the same seeds, soil and water. Only the light is different.
+- e.g. In the water test, you use the same seeds, soil and window. Only the amount of water is different.
+- e.g. In the warmth test, you use the same sprouts, wet cotton and dark boxes. Only the temperature is different.
 ### Light: why the dark seedling grows tall and yellow · *defined*
 **Definition:** Without light, a seedling cannot make food or the green colour called chlorophyll. They use their stored food to grow tall and thin, searching for light. Scientists call this etiolation.
 
@@ -649,7 +649,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* At about Day 12, when the bean is around 15 cm tall, push the stick in beside them. Do not hurt the roots.  
   *Parent says:* Many beans are climbers. Watch what the tip does with the stick in the next few days.  
   *Child mode:* Push a stick into the soil next to your bean. Watch the tip. Will they find the stick?
-  - Think: The bean has no eyes. How do they find the stick to climb? The tip of a climbing bean slowly swings round in circles, so it touches things nearby. When it touches the stick, it wraps around it.
+  - Think: The bean has no eyes. How do they find the stick to climb? A climbing bean slowly swings their tip round in circles, so the tip touches things nearby. When the tip touches the stick, the tip wraps around the stick.
 - **s5 (30 min)**  
   *Parent does:* On Day 21: 1. Measure one last time. 2. Make a bar chart with one bar for each measuring day. 3. Write two sentences: what helped your plant grow and what slowed them down. 4. Show the diary to the family.  
   *Parent says:* Look at your chart. When did your bean grow fastest? Was the weather different then? What would you change next time?  

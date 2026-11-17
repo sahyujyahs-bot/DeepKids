@@ -875,7 +875,7 @@
      "do": "1. Count the pairs, or the turns if playing alone. 2. Talk about which super-sense each player would most like to have.",
      "say": "If you could have one of these super-senses for a day, which would you choose? What would you notice in our house that you can't notice now?",
      "kid": "Count your pairs or your turns. Which super-sense would you choose for one day? What would you notice at home?",
-     "think": "These animals are sensing things that are really there, all around us. What might be all around you right now that you cannot sense?"
+     "think": "A bee senses ultraviolet light that is really there, even though we cannot. What else might be all around you right now that you cannot sense? Think about how your phone gets a signal through the air."
     }
    ],
    "context": "This is a memory card game about animal senses. You match 12 animals to the things they can sense that we cannot, and say which human sense each one is like.",
@@ -2138,7 +2138,8 @@
      "do": "Compare your two lists, and talk about the questions.",
      "say": "Did you notice anything you never usually notice? Was the fan there before we started, or did we just not hear it?",
      "kid": "Compare lists. Did you notice something new? Was it there before, or did you just not notice it?",
-     "think": "What do you wonder about your senses? Write one question. You'll find many answers in this unit."
+     "think": "Pick the sense that gave you the fewest things. Close your eyes for one more minute and use only that sense. What new thing do you notice?",
+     "parent": "Yes, the fan was there all along. Your brain only brings a few of the signals from your senses to your attention at a time, so a quiet sound can be there for a long time before you notice it."
     }
    ],
    "context": "This is a one-minute noticing activity. You sit still with your eyes shut and notice everything your senses tell you.",
@@ -2153,7 +2154,7 @@
     },
     {
      "art": "The child pointing to a long ear column on her list, looking surprised.",
-     "caption": "3. Which column is longest? What surprised you?"
+     "caption": "3. Which column is longest? Was each thing there all along?"
     }
    ]
   },
@@ -2330,7 +2331,8 @@
      "do": "Talk about the star-nosed mole and Braille.",
      "say": "A star-nosed mole finds food in dark tunnels with the 22 fleshy fingers on the end of the nose. Blind people read Braille with their fingertips. Why fingertips, and not elbows?",
      "kid": "A star-nosed mole touches with the end of the nose. Blind people read with their fingertips. Why not elbows?",
-     "think": "Cold steel feels colder than a cotton ball, even in the same room. Are they really different temperatures?"
+     "think": "Cold steel feels colder than a cotton ball, even in the same room. Steel carries heat away from your skin quickly, and cotton does not. Your skin senses how fast it is losing heat, not the temperature itself. So are the steel and the cotton really different temperatures?",
+     "parent": "Fingertips have touch receptors packed very close together, so they can feel tiny dots as separate. An elbow has its receptors far apart. This is what the Two-Point Test showed."
     }
    ],
    "context": "This is the Mystery Bag. You name hidden things using touch alone, first with bare fingers and then with socks on your hands.",
@@ -2412,7 +2414,8 @@
       ],
       "a": 1,
       "why": "Many touch receptors send lots of signals when something starts or moves, and then go quiet if nothing changes. So a still coin fades. A tiny nudge is a change, and they send signals again. Picking 'skin went to sleep' is close, but your skin felt the nudge straight away, so it was still working."
-     }
+     },
+     "parent": "Good answers: it stops you wasting attention on things that are always there, like your clothes. It means a new thing, like a mosquito landing on you, stands out at once."
     }
    ],
    "context": "This is the Fading Coin. You find out that your senses stop noticing things that stay the same, using a coin on your skin and a smell in a jar.",
@@ -2501,7 +2504,8 @@
      "do": "Talk about where the yellow mango was.",
      "say": "The paper was blank. So where was the yellow mango? On the paper, in your eye, or in your brain?",
      "kid": "The paper was blank. So where was the yellow mango?",
-     "think": "If your eyes and brain can make a colour that is not there, how do you know the colours you usually see are there?"
+     "think": "When you look at a real yellow mango, what travels along the nerve from your eye to your brain: yellow light, or electric signals?",
+     "parent": "The yellow mango was made in your eye and brain. The paper sent no yellow light, because it was blank."
     }
    ],
    "context": "This is the Blue Mango. You stare at a mango drawn in the wrong colours, then see it in the right colours on a blank page. It shows how your eye's colour cells get tired.",
@@ -2563,7 +2567,8 @@
      "do": "Show the 'jumping thumb'. It lets your child see that each eye gets its own picture.",
      "say": "Hold your thumb up in front of you. Close one eye, then the other, again and again. Your thumb jumps! Each eye sees a slightly different picture. Your brain joins them and works out how far away things are.",
      "kid": "Hold up your thumb. Close one eye, then the other. Your thumb jumps! Each eye sees it from a different place.",
-     "think": "An owl has both eyes on the front of their face. A pigeon has eyes on the sides. Which one sees further around? Which one judges distance better?"
+     "think": "An owl has both eyes on the front of their face, so both eyes see the same view from two places. A pigeon has eyes on the sides, so each eye sees a different view. Which one judges distance better? Which one sees further around?",
+     "parent": "The owl judges distance better, because the brain compares two views of the same thing. The pigeon sees much further around, because the two eyes cover different directions."
     }
    ],
    "context": "This is Two Eyes, One Picture. You try to touch two pencil tips together, first with both eyes open and then with one shut.",
@@ -2674,7 +2679,7 @@
      "say": "Close your eyes for a moment. Are you hungry? Thirsty? Do you need the toilet? Which sense told you? It was not your eyes, ears, nose, tongue or skin.",
      "kid": "Close your eyes. Are you hungry or thirsty? Which part of you told you?",
      "parent": "This is interoception, sensing the inside of the body. Stretch sensors notice a full stomach or bladder. Cells in the brain notice when the blood is too salty, and that makes you thirsty.",
-     "think": "Aristotle counted five senses. How many have you used today?"
+     "think": "Aristotle counted five senses. Name three senses you used today that are not on his list."
     }
    ],
    "context": "This is Senses You Forgot You Had. You test three senses that are not on the usual list of five: balance, knowing where your body is, and feeling warm and cold.",
@@ -2909,7 +2914,8 @@
      "do": "Read the usual solutions and the creative ideas together. Then invent a new one.",
      "say": "Here is what people usually do, and some creative ideas. Can you invent something better?",
      "kid": "Look at the usual ideas and the creative ideas. Now invent your own. Can you beat them?",
-     "think": "Before electric hearing aids, people used big ear trumpets. Why do you think hearing aids became so small?"
+     "think": "Old ear trumpets worked by collecting more sound, so they had to be big. A modern hearing aid has a tiny microphone and makes the sound stronger with electricity. So why can it be so small?",
+     "parent": "The aid does not need a big collector, because electricity makes the sound louder. A tiny microphone is enough."
     }
    ],
    "context": "This is an engineering challenge. You build a hearing helper from paper and things at home, and measure how much further away you can hear a whisper.",
@@ -2999,7 +3005,8 @@
       "a": 1,
       "why": "Rubber bands can be counted with your fingertips. Small blue letters, pictures and shiny stickers all feel flat and smooth, so they need eyes. Picking the picture usually means forgetting that the person cannot see it."
      },
-     "think": "Louis Braille invented his raised-dot writing at about 15 years old. What could you invent that would help someone?"
+     "think": "Which jar was hardest to tell apart by touch? What would you change so it feels more different from the others?",
+     "parent": "The answer is usually two labels that feel too alike, such as two rubber bands and three rubber bands. A good change is to use a different kind of feel for each jar, such as bands on one, sandpaper on another and a button on a third."
     }
    ],
    "context": "This is a design challenge. You make labels for six kitchen jars that a blind person can read by touch, then test them with a blindfolded family member.",
@@ -3329,7 +3336,7 @@
  "ask_kids": [
   "Close your eyes for ten seconds. What can you hear right now that you didn't notice before?",
   "What does this food taste like if you hold your nose?",
-  "Which of your senses woke up first this morning?",
+  "Which of your senses still works while you sleep? How do you know?",
   "Can you smell our house? Why can visitors smell it better than we can?",
   "If you could borrow one animal's sense for a day, which one would you choose?",
   "Where is the sound of that horn coming from? How do you know without looking?",
@@ -3756,7 +3763,7 @@
    {
     "source": "Katha Upanishad 1.3.3 to 1.3.4",
     "teaching": "The body is like a chariot. The senses are the horses, and the things they sense are the roads. The mind is the reins, and understanding is the driver. The Self, the one who experiences, rides in the chariot.",
-    "link": "Senses carry signals in from the world, like horses running along roads. The Upanishad asks who is riding. Science can follow the signals into the brain, but it cannot yet explain who or what experiences them."
+    "link": "In the Upanishad, the senses are horses that carry the rider along roads. In the same way, your senses carry signals in from the world to your brain. Then the Upanishad asks who is riding. Science can follow the signals into the brain, but it cannot yet explain who or what experiences them."
    },
    {
     "source": "Tao Te Ching 12",

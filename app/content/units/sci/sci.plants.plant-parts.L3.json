@@ -415,7 +415,7 @@
   {
    "concept": "Why are leaves green and not black?",
    "status": "idea",
-   "description": "This sounds like a silly question, but it is a real puzzle. A black leaf would soak up every colour of light. A green leaf still soaks up most of the green light, but it lets more green bounce off than red or blue. Green is one of the strongest parts of sunlight. So why are almost all leaves green? Nobody is completely sure. In 2020, Nathaniel Gabor and his team in California suggested an idea. Sunlight flickers up and down as clouds and leaves move. A leaf may be tuned to catch light steadily, without being flooded when the Sun bursts out. Letting some green go may keep the leaf's light-catcher running smoothly, like a car that avoids sudden speeding up and braking. Other scientists think plants are green simply because of the history of life. Their ancestors in the sea used this kind of chlorophyll, and plants never switched.",
+   "description": "This sounds like a silly question, but it is a real puzzle. A black leaf would soak up every colour of light. A green leaf still soaks up most of the green light, but it lets more green bounce off than red or blue. Green is one of the strongest parts of sunlight. So why are almost all leaves green? Nobody is completely sure. In 2020, Nathaniel Gabor and his team in California suggested an idea. Sunlight flickers up and down as clouds and leaves move. A leaf may be tuned to catch light steadily, without being flooded when the Sun bursts out. Letting some green go may keep the leaf's light-catching parts working at a steady rate, so they are not overloaded when the light suddenly jumps. Other scientists think plants are green simply because of the history of life. Their ancestors in the sea used this kind of chlorophyll, and plants never switched.",
    "examples": [
     "Some leaves look red or purple, like red amaranth, lal saag. They still have chlorophyll, hidden by red colours.",
     "Sunlight is strongest in the blue-green and green part of the rainbow."
@@ -1030,7 +1030,7 @@
      "do": "1. Talk about whose plants survived and why. Look for a real plant that matches each design. 2. Now invent a plant for a place that is not on any card. Try a city roof or a crack in a road. Draw it and label each part.",
      "say": "Did any of your inventions already exist? Which real plants look like them? Now invent a plant for a place that is not on any card.",
      "kid": "Does a real plant look like yours? Now invent a plant for a city roof or a crack in a road. Label each part.",
-     "think": "Real plants shaped their parts over many, many generations. How did they end up with parts that fit their place so well?"
+     "think": "Plants with parts that suit their place survive better and leave more seeds, and their seedlings grow parts like theirs. After many generations, what will most of the plants in that place look like?"
     }
    ],
    "context": "This is a design game. Players build an imaginary plant for a hard place, like a desert or a muddy pond, by choosing their root, stem and leaf. Then each plant has to survive a trouble card.",
@@ -1369,7 +1369,7 @@
     },
     {
      "t": "mcq",
-     "p": "A jasmine (malli) flower is white and smells strongest in the evening. Which visitors is the flower most likely to attract?",
+     "p": "Pollen must be carried from flower to flower. A jasmine (malli) flower is white, which shows up in dim light, and it smells strongest in the evening. Which visitors is it most likely to attract?",
      "opts": [
       "Moths that fly at dusk and at night",
       "Bees that fly at noon",
@@ -1577,7 +1577,7 @@
     },
     {
      "t": "mcq",
-     "p": "A plant has net veins in their leaves. What roots do they probably have?",
+     "p": "Mango, bean and mustard plants have net veins in their leaves and a tap root. Grass and maize have parallel veins and fibrous roots. A plant has net veins in their leaves. What kind of roots do they probably have?",
      "opts": [
       "A tap root",
       "Fibrous roots",
@@ -2752,7 +2752,7 @@
      "id": "s3",
      "mins": 7,
      "do": "1. On a pineapple or a pine cone, mark one spiral going to the right with one colour. 2. Count how many spirals go that way. 3. Mark and count the spirals going the other way with the second colour.",
-     "say": "Count the spirals one way, then the other. Write both numbers down. Scientists find the same few numbers again and again.",
+     "say": "Count the spirals one way, then the other. Write both numbers down. On most pineapples the two numbers are different, often 8 one way and 13 the other. Scientists find the same few numbers again and again, such as 5, 8, 13 and 21.",
      "kid": "Find the spirals on a pineapple. Count the ones going right. Now count the ones going left. Write both numbers."
     },
     {
@@ -2761,7 +2761,7 @@
      "do": "Talk about why plants might grow in spirals.",
      "say": "Things that grow in spirals like this pack tightly, with almost no gaps. Leaves in a spiral shade each other least. The great mathematician Alan Turing was studying these spirals in the last years of his life.",
      "kid": "Spirals pack things tightly with few gaps. Leaves in a spiral shade each other less. A great mathematician, Alan Turing, studied these spirals.",
-     "think": "The spirals on many sunflowers follow a number pattern called the Fibonacci pattern, but not on all sunflowers. Why might a plant break the pattern?"
+     "think": "Leaves in a spiral shade each other very little. Why is it good for a plant that their leaves shade each other as little as possible?"
     }
    ],
    "context": "In this activity you look down on plants from above and find the jigsaw and spiral patterns that help leaves catch light.",
@@ -2928,7 +2928,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Look for shoots. 2. Measure the tallest one from the soil to the tip. 3. Write it in the diary.",
-     "say": "The shoot came up bent, like a hook. That hook protects its tip as it pushes through the soil.",
+     "say": "The shoot came up bent, like a hook. That hook protects the tip as it pushes through the soil.",
      "kid": "Are the shoots up? Measure the tallest one. Write it in your diary. Water if the soil feels dry.",
      "wait": "Check after about 7 days."
     },
@@ -3408,7 +3408,7 @@
   "Which leaves on a tree get the most sun? Are they smaller or bigger than the leaves in the shade?",
   "If a carrot had stayed in the ground for another year, what would the plant have done with its stored sugar?",
   "Pick a plant. What is its stem shaped like? Why?",
-  "Can you find a root that is not underground today?",
+  "Some roots grow in the air, like a banyan's hanging roots or a money plant's little roots. Can you find one today?",
   "Look down on a plant. Do the leaves hide each other?",
   "Which part of the plant are we eating for dinner tonight?",
   "Why do you think banyan trees spread so wide?",
@@ -3554,7 +3554,7 @@
    "why_maths": "A bar chart lets you see which piece is tallest, and taking away tells you by how much."
   },
   {
-   "problem": "On a pineapple you counted 8 spirals one way and 13 the other. These are in the Fibonacci pattern: 1, 1, 2, 3, 5, 8, 13. What are the next two numbers?",
+   "problem": "A pineapple often has 8 spirals one way and 13 the other. These two numbers belong to a pattern called the Fibonacci pattern: 1, 1, 2, 3, 5, 8, 13. Each number is the two before it added together. What are the next two numbers?",
    "answer": "21 and 34.",
    "explain": "Each number in the pattern is the two before it added together. 1 + 1 = 2. 1 + 2 = 3. 2 + 3 = 5. 3 + 5 = 8. 5 + 8 = 13. So the next is 8 + 13 = 21. The one after is 13 + 21 = 34. Big sunflower heads often have 34 spirals one way and 55 the other.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -3961,7 +3961,7 @@
   "three": {
    "who_am_i": "Your arm and a bat's wing have the same bones inside, shaped for different jobs. So the same kind of part can take very different shapes.",
    "what_is_life": "A plant grows each part to suit its job and its place. A shade leaf grows bigger than a sun leaf on the same plant.",
-   "what_is_this_world": "In the world, things that do the same job often end up looking alike, even when they started out different."
+   "what_is_this_world": "Cactuses in America and spiny euphorbias in Africa are not related, but they look alike. They live in the same kind of place and have the same job to do."
   },
   "thread": "Every plant begins as one single cell. That cell divides again and again, first into the tiny plant inside a seed, then into the whole plant. Their cells become roots, stems, leaves, tendrils, spines and petals, each shaped for its job. So one living thing grows many different parts from the same beginning. You also grew from one cell, into hands, eyes and ears.",
   "teachings": [
