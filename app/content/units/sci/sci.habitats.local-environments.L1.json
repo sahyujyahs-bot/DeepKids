@@ -3,7 +3,7 @@
  "title": "Homes near our home: a tree, a pond, a park and under a stone",
  "level": 1,
  "summary": {
-  "text": "Lift a stone and the ground under it is dark, damp and cool. Earthworms, ants and pill bugs live there. A tree, a pond and a park are homes too. Your child covers half of some wet soil with a plate. A few hours later, the soil under the plate is still a damp home, right next to dry soil.",
+  "text": "Lift a stone and the ground under it is dark, damp and cool. Earthworms, ants and pill bugs live there. A tree, a pond and a park are homes too. Your child covers half of some wet soil with a plate. A few hours later, the soil under the plate is still damp and dark, like a small home. Right next to it, the open soil is dry.",
   "art": "A park scene cut in half: on the left a lifted stone with earthworms, ants and a pill bug in the dark soil below; on the right a tree with a crow's nest, a pond with tadpoles and a lotus, and grass with a grasshopper."
  },
  "intro": {
@@ -858,7 +858,7 @@
        ]
       }
      ],
-     "think": "A crack has only a little soil. What does the plant need that the crack gives?"
+     "think": "A crack has only a little soil. What does the plant need that the crack gives? A good answer is a little soil to hold their roots, and rainwater that runs into the crack."
     }
    ]
   },
@@ -1542,7 +1542,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the story The Old Pot on Paati's Balcony, Paati tipped the pot. The ants carried their white young ones away. Why?",
+   "p": "You lift a flowerpot and see ants carrying their white young ones away. Why do they do that?",
    "opts": [
     "The young ones need a dark place, and the pot's roof was gone",
     "The young ones wanted to see the sun",

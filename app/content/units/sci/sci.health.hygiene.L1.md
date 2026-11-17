@@ -24,7 +24,7 @@
 ### Why we wash our hands · *defined*
 **Definition:** Washing hands with soap and water takes away dirt and germs, so they cannot get from our hands into our mouths.
 
-Your hands touch door handles, toys, the floor and your nose. Germs from those things stay on your hands. If you eat with your fingers, the germs go into your mouth. Some can give you a tummy upset or a cold. Water alone washes off loose dirt. But skin is a little oily, and oil holds on to germs. Soap lifts the oil, and the water carries it away. Rub all six parts: palms, backs of the hands, between the fingers, backs of the fingers, thumbs, and fingertips in the palm. Rub for 20 seconds. That is Happy Birthday sung twice.
+Your hands touch door handles, toys, the floor and your nose. Germs from those things stay on your hands. If you eat with your fingers, the germs go into your mouth. Some can give you a tummy upset or a cold. Water alone washes off loose dirt. But skin is a little oily, and oil holds on to germs. Soap lifts the oil, and the water carries it away. Rub all six parts: palms, backs of the hands, between the fingers, backs of the fingers, thumbs, and and fingertips. To clean your fingertips, scratch them against your palm. Rub for 20 seconds. That is Happy Birthday sung twice.
 - e.g. Before you eat, and after you use the toilet, wash with soap.
 - e.g. After playing outside, or touching a pet, wash with soap.
 - e.g. After you blow your nose or sneeze into your hands, wash with soap.
@@ -32,7 +32,7 @@ Your hands touch door handles, toys, the floor and your nose. Germs from those t
 ### What lives in your mouth, and why we brush · *defined*
 **Definition:** Many kinds of tiny living beings live in every mouth. They eat leftover food on our teeth and make an acid. Brushing takes away the leftovers and the sticky plaque.
 
-Your mouth is a home for tiny living beings called bacteria. They are too small to see. Most of them do you no harm. They eat what you eat, especially sugar. As they eat, they make an acid. An acid is something sour, like lemon juice. Over many days, acid can wear a hole in a tooth. The bacteria also make a sticky layer called plaque. Brushing takes off the food and the plaque. Food hides most in the grooves of the back teeth. So we brush every tooth, twice a day, for about two minutes.
+Your mouth is a home for tiny living beings called bacteria. They are too small to see. Most of them do you no harm. They eat what you eat, especially sugar. As they eat, they make an acid. An acid is something sour, like lemon juice. Over many days, acid can wear a hole in a tooth. The bacteria also make a sticky layer called plaque. Brushing takes off the food and the plaque. Food hides most in the grooves of the back teeth. So we brush every tooth, twice a day, for about two minutes. We only need a pea-sized bit of toothpaste. We spit it out, and we do not swallow it.
 - e.g. In the biscuit test, a swish of water cleaned the front teeth, but crumbs stayed in the grooves of the back teeth.
 - e.g. Holes in children's teeth are found most often on the tops of the back teeth, where the grooves are.
 - e.g. Around the age of six, new big back teeth come in behind the milk teeth. They are grown-up teeth, and they must last a whole life.
@@ -80,24 +80,24 @@ Humans are not the only animals who keep clean. A cat licks her fur with a rough
   Against: A hole in a milk tooth can hurt and make eating hard. Milk teeth hold the space for the grown-up teeth growing underneath. And the big back teeth that come in at about age six are grown-up teeth already.
 
 ## Roots
-We have looked into our own mouths, and found where food stays after we eat. Now we ask what that tells us about ourselves, and about who we share our bodies with.
+In the Biscuit Test, we looked into our own mouths and found where food stays after we eat. Now we look at what that shows us about ourselves, and about the tiny living beings who share our bodies.
 
 **Deep truth.** In the biscuit test, crumbs stayed in the grooves of your back teeth after a rinse. Tiny living beings in your mouth eat those leftovers. So every time you eat, you feed them too. Brushing takes their leftovers away, so they make less of the acid that wears teeth.  
 *Habit it breaks:* We think of a meal as ours alone, and of our mouth as only ours. But many kinds of living beings share every meal we eat, right there on our teeth.  
-*Evidence:* After a water rinse, crumbs stayed in the grooves of the back teeth, and only the brush took them out. Every morning the fuzzy plaque was back, built overnight by the bacteria who live in the mouth.
+*Evidence:* In the Biscuit Test, crumbs stayed in the grooves of the back teeth after a water rinse, and only the brush took them out. In the Morning Tongue Test, the fuzzy plaque was back every morning, built overnight by the bacteria who live in the mouth.
 
 - *who am i:* You are a home. Many kinds of tiny living beings live in your mouth and on your skin.
 - *what is life:* Every living being eats and keeps their body in order: a bacterium, a cat licking her fur, and you with your toothbrush.
 - *what is this world:* The water that washes you came from rain and rivers. It goes back to them, carrying what it washed off you.
 
-One meal feeds many lives at once. The rice on your plate feeds you, and the crumbs left on your teeth feed the bacteria in your mouth. Your body is one home where many kinds of life live together. Keeping clean does not empty that home. It keeps the many lives in it in balance with you.
+One meal feeds many lives at once. The rice on your plate feeds you, and the crumbs left on your teeth feed the bacteria in your mouth. Your body is a home where many kinds of tiny living beings live. Keeping clean does not remove all of them. It keeps their numbers small, and keeps the harmful kinds out of your mouth.
 
 - **Thirukkural 298, by Thiruvalluvar:** Water makes the outside of the body clean. Truthfulness makes the inside clean. (Thiruvalluvar knew that water cleans the outside of the body. In the white cloth test, the bath water carried away dust we could not even see.)
-- **Thich Nhat Hanh, Present Moment Wonderful Moment (1990), the verse for turning on the water:** Water flows from high in the mountains, and runs deep in the Earth. It comes to us, and keeps all life going. (The water in your tap came a long way, from rain and rivers, before it washed your hands. Every hand wash is a meeting with that water.)
+- **Thich Nhat Hanh, Present Moment Wonderful Moment (1990), the verse for turning on the water:** Water flows from high in the mountains, and runs deep in the Earth. It comes to us, and keeps all life going. (The water in your tap came a long way, from rain and rivers, before it washed your hands. Every time you wash your hands, you use that water.)
 - Science (settled): Scientists have found more than 700 kinds of bacteria in human mouths. One person carries many dozens of kinds at a time.
 - Science (open): Bacteria send each other chemical signals, and build a sticky layer like plaque when there are many of them. How they do this together in a real mouth is still being worked out.
 - Other view, Many microbiologists: Many microbiologists describe bacterial signals as chemistry that runs by itself, the way a match lights when it is struck. They say bacteria react to chemicals, but do not make choices.
-- Practice, A tongue tour of your teeth (3 min): Close your eyes. Close your mouth. Now, slowly, let your tongue walk along your teeth. Start at the front. Feel how thin and smooth the front teeth are. Now walk to the back. Feel the wide back teeth, and the little grooves on top. Many tiny beings live here, in this home that is you. Take one slow breath in through your nose, and out. Open your eyes.
+- Practice, A tongue tour of your teeth (3 min): Close your eyes. Close your mouth. Now, slowly, move your tongue along your teeth. Start at the front. Feel how thin and smooth the front teeth are. Now move to the back. Feel the wide back teeth, and the little grooves on top. Many tiny beings live here, in your mouth. Take one slow breath in through your nose, and out. Open your eyes.
 - Ask: If tiny beings eat every meal with you, is your mouth only yours?
 - Ask: When you brush, are you looking after yourself, or the beings who live with you, or both?
 - Ask: Where does the water that washed your hands go next?
@@ -218,7 +218,7 @@ And every morning, before they brushed, they both ran their tongues over their t
 - **question:** After we eat, does a swish of water clean all our teeth? Or does some food stay behind, and where?
 - **predict:** After you eat a biscuit, will a swish of water wash all the crumbs away? Where do you think crumbs might stay? Why do you think so?
 - **fair test:** We look at the same teeth each time, with the same torch and mirror. We look three times: after eating, after rinsing, and after brushing. Only one thing changes each time: what we clean with.
-- **record:** A tooth map: a big U shape for the teeth. Colour where crumbs were after rinsing in one colour, and after brushing in the other.
+- **record:** A tooth map: draw a big U shape for the teeth. Use one colour to mark where crumbs were after rinsing. Use a second colour to mark where crumbs were after brushing.
 - **results table:** Where I looked | After eating: crumbs? | After a water rinse: crumbs? | After brushing: crumbs?
 - **s1 (3 min)**  
   *Parent does:* 1. Shine the torch into your child's mouth while they hold the mirror. 2. Find the front teeth and the back teeth together. 3. Draw a big U on the paper. Mark F at the front and B at each back end.  
@@ -260,8 +260,8 @@ And every morning, before they brushed, they both ran their tongues over their t
 ### e2 · The White Cloth Test: what does a bath wash off? (15 min)
 - **question:** Does our skin carry dirt we cannot see? Does a bath take it away?
 - **predict:** Your skin looks clean. If we wipe it with a white cloth before your bath, will the cloth get dirty? What about after the bath? Why do you think so?
-- **fair test:** We wipe the same three places each time: the back of the neck, the inside of the elbow and the sole of one foot. We use the same kind of cloth, made just damp, and wipe each place three times. Each place gets a new square.
-- **record:** Lay the six squares on paper in two rows: before and after. Draw them, or keep them dry in an envelope.
+- **fair test:** We wipe the same three places each time: the back of the neck, the inside of the elbow and the sole of one foot. We use the same kind of cloth, made just damp, and wipe each place three times. Each place gets a new square of cloth.
+- **record:** Lay the six cloth squares on paper in two rows: before the bath and after the bath. Draw them, or keep them dry in an envelope.
 - **results table:** Place on my body | Before the bath: mark on the cloth? | After the bath: mark on the cloth?
 - **s1 (3 min)**  
   *Parent does:* Before the bath, ask your child to guess. Wait for a guess and a reason.  
@@ -278,7 +278,7 @@ And every morning, before they brushed, they both ran their tongues over their t
   *Parent does:* 1. Your child has their bath as usual, with soap. 2. After drying, wipe the same three places with three new damp squares. 3. Put them in a second row under the first.  
   *Parent says:* Now you have had your bath. Let's wipe the same places again, with new cloths. Neck, elbow, foot.  
   *Child mode:* After your bath, wipe the same three places. Use new cloths. Put them in a second row.
-  - Note: The bath itself does not count in the minutes. Do this right after drying, before the feet walk on the floor again.
+  - Note: The bath itself is not part of the test. Wipe straight after drying, before the feet walk on the floor again, so the cloth shows only what is on the skin.
 - **s4 (4 min)**  
   *Parent does:* Look at the two rows together. Ask your child what they think, what they see, and why.  
   *Parent says:* Look at the two rows. Which cloths are dirtier? What do you think the bath took away? Why?  
@@ -288,7 +288,7 @@ And every morning, before they brushed, they both ran their tongues over their t
 ### e3 · The Morning Tongue Test: does the fuzz come back? (10 min, 2 days)
 - **question:** Our teeth feel fuzzy in the morning. After we brush, does the fuzz stay away, or does it come back?
 - **predict:** After you brush tonight, will your teeth feel fuzzy again tomorrow morning? Why do you think so?
-- **fair test:** We feel the same teeth, the back teeth, with the tongue each time. We feel them at the same time: right after waking up, and right after brushing.
+- **fair test:** Each time, we feel the same teeth, the back teeth, with the tongue. We feel them at the same two times each morning: right after waking up, and right after brushing.
 - **record:** Two rows of two boxes. Draw a wavy line in a box for fuzzy, and a smooth line for smooth.
 - **results table:** When | Before brushing: smooth or fuzzy? | After brushing: smooth or fuzzy?
 - **schedule:** day 1: The night before, guess. In the morning, feel the back teeth before brushing. Brush. Feel again. Colour the boxes. (6 min); day 2: Do the same again. Has the fuzz come back? (4 min)
@@ -315,8 +315,8 @@ And every morning, before they brushed, they both ran their tongues over their t
 ### a1 · The Six-Part Hand Wash, with a song (10 min)
 - **record:** Draw your two hands. Colour the part that is easiest to forget.
 - **s1 (4 min)**  
-  *Parent does:* 1. Wet your hands and your child's hands. 2. Rub soap until it foams. 3. Show the six parts slowly: palms, backs, between the fingers, backs of the fingers, thumbs, fingertips in the palm.  
-  *Parent says:* Watch my hands. Palms together. Backs of the hands. Fingers in between each other. Backs of the fingers. Each thumb. Now the fingertips, scratching in the palm.  
+  *Parent does:* 1. Wet your hands and your child's hands. 2. Rub soap until it foams. 3. Show the six parts slowly: palms, backs, between the fingers, backs of the fingers, thumbs, and fingertips scratched against the palm.  
+  *Parent says:* Watch my hands. Palms together. Backs of the hands. Fingers in between each other. Backs of the fingers. Each thumb. Now the fingertips. Scratch them against the palm.  
   *Child mode:* Wet your hands. Rub on soap. Palms. Backs. Between the fingers. Backs of the fingers. Thumbs. Fingertips.
   - Note: The thumbs, the fingertips and the backs of the hands are the parts most people forget.
 - **s2 (4 min)**  
@@ -357,10 +357,10 @@ And every morning, before they brushed, they both ran their tongues over their t
   - Ask: Why do you think animals keep clean? (good: So their fur and feathers work well.; To get rid of dirt and tiny bugs.; So they don't get ill.)
   - Note: Other animals clean in the way that suits their bodies. Humans use water and soap, and brush with a toothbrush.
 - **s2 (4 min)**  
-  *Parent does:* 1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird preening their feathers with their beak, or an ant cleaning her feelers. 3. Draw what you saw, or draw your favourite animal from the game.  
+  *Parent does:* 1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird combing their feathers with their beak (this is called preening), or an ant cleaning her feelers. 3. Draw what you saw, or draw an animal you acted out.  
   *Parent says:* Let's watch the window for a little while. Can you see a bird combing their feathers with their beak?  
   *Child mode:* Look out of the window. Is a bird combing their feathers with their beak? Draw what you see.
-  - Note: Crows and pigeons often preen on ledges. If no bird comes, that is fine: draw an animal from the acting game. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days.
+  - Note: Crows and pigeons often preen on ledges. If no bird comes, that is fine: draw an animal you acted out. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days.
 ### a4 · Mine, Not Shared: my own clean-up kit (8 min)
 - **record:** Draw your own toothbrush and towel, with your name on them.
 - **s1 (4 min)**  
@@ -377,10 +377,11 @@ And every morning, before they brushed, they both ran their tongues over their t
 
 ## Projects
 ### p1 · My Clean Week chart (28 min, 7 days)
+- **problem:** It is easy to forget a clean-up job. A chart shows which jobs you remember and which ones you forget. For one week, you colour a box each time you brush, have a bath, or wash your hands before a meal. At the end you count the boxes in each row.
 - **record:** The coloured chart, with one sentence said to a grown-up about the hardest row.
 - **schedule:** day 1: Draw the chart. Draw a picture at the start of each row. Colour today's boxes. (6 min); day 2: Colour today's boxes. (3 min); day 3: Colour today's boxes. (3 min); day 4: Colour today's boxes. Which row is hardest to remember? (4 min); day 5: Colour today's boxes. (3 min); day 6: Colour today's boxes. (3 min); day 7: Colour the last boxes. Count the coloured boxes in each row. (6 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Draw the grid with your child. 2. They draw a small picture at the start of each row. 3. Colour today's boxes at bedtime.  
+  *Parent does:* 1. Draw a grid with your child: seven boxes across, one for each day, and four rows. 2. The four rows are brush in the morning, brush at night, have a bath, and wash hands before a meal. They draw a small picture at the start of each row. 3. Colour today's boxes at bedtime.  
   *Parent says:* This chart shows a whole week of keeping clean. Each night we colour what you did today.  
   *Child mode:* Draw a picture for each row. Tonight, colour what you did today.
 - **s2 (16 min)**  
@@ -420,13 +421,13 @@ And every morning, before they brushed, they both ran their tongues over their t
 
 ## Worksheets
 ### Clean hands, clean teeth (core, 10 questions)
-1. (draw) Remember the biscuit test? Draw a back tooth. Draw where the crumbs stayed after you swished water.  
+1. (draw) In the Biscuit Test, you ate a biscuit and swished water round your mouth. Draw a back tooth. Draw where the crumbs stayed after the swish.  
    **Answer:** A wide tooth with grooves on top, and crumbs drawn inside the grooves.. *Why:* A strong drawing shows the grooves on top of the back tooth and puts the crumbs inside them, because that is where water did not reach.
 2. (sort) Colour the times to wash your hands green. Colour the other times yellow.  
    **Answer:** before eating → Wash your hands; after the toilet → Wash your hands; after blowing your nose → Wash your hands; listening to a song → No wash needed; after playing outside → Wash your hands; looking at the sky → No wash needed. *Why:* We wash before eating, after the toilet, after blowing our nose and after playing, because those are the times germs get on our hands or into our mouths. Listening and looking do not make hands dirty.
-3. (mcq) Revathi in the story had a new big tooth at the back. Where was the puttu hiding?  
-   Options: In the grooves on top of the tooth / On the tip of her tongue / Behind her ear  
-   **Answer:** In the grooves on top of the tooth. *Why:* The new tooth had little hills and valleys on top. Food hides in those valleys, which are called grooves.
+3. (mcq) You have a new big tooth at the back, with little hills and valleys on top. After you eat puttu, where is the food most likely to hide?  
+   Options: In the grooves on top of the tooth / On the tip of your tongue / Behind your ear  
+   **Answer:** In the grooves on top of the tooth. *Why:* A back tooth has little hills and valleys on top. Food hides in those valleys, which are called grooves.
 4. (order) Put the hand wash in order.  
    **Answer:** ['Wet your hands', 'Rub soap on every part', 'Rinse off the soap', 'Dry on a clean towel']. *Why:* First wet the hands so the soap can foam. Then rub every part. Then rinse the soap away with the dirt in it. Last, dry.
 5. (match) Draw a line from each thing to what it cleans.  
@@ -437,14 +438,14 @@ And every morning, before they brushed, they both ran their tongues over their t
    **Answer:** Ticks on both thumbs, the fingertips and the backs of both hands.. *Why:* Most people rub their palms well, but miss the thumbs, the fingertips and the backs. A strong answer ticks all three.
 8. (write) Say it out loud, and a grown-up writes it: why do we wash our hands before we eat?  
    **Answer:** Because germs on our hands can go into our mouth with the food.. *Why:* A strong answer says that our hands carry germs, and that eating with our hands takes them to our mouth.
-9. (mcq) Nila, a girl of 6 in Madurai, only brushes her front teeth. What is she missing?  
-   Options: The back teeth, where food hides / Nothing, the front is enough / Her tongue only  
-   **Answer:** The back teeth, where food hides. *Why:* Food hides most in the grooves of the back teeth. Holes in children's teeth are found most often there. If you picked 'the front is enough', remember the biscuit test.
+9. (mcq) If you only brush your front teeth, what are you missing?  
+   Options: The back teeth, where food hides / Nothing, the front is enough / Only the tongue  
+   **Answer:** The back teeth, where food hides. *Why:* Food hides most in the grooves of the back teeth. Holes in children's teeth are found most often there. If you picked 'the front is enough', remember the Biscuit Test: after a swish of water, crumbs stayed in the grooves of the back teeth.
 10. (draw) Draw yourself having a bath. Draw what the water is washing off you.  
    **Answer:** A child pouring water or under a shower, with dust, sweat drops or tiny flakes washing off.. *Why:* A strong drawing shows the water carrying something away: sweat, dust, or tiny flakes of old skin.
 ### Tiny beings, fuzz and baths (stretch, 10 questions)
-1. (perspective) Farida, a girl of 7 in Hyderabad, and her uncle Imran are talking about brushing.  
-   **Answer:** A strong answer picks a side and uses the biscuit test. For example: 'Farida, because water left crumbs in my back teeth, and the brush took them out.' Then it is fair to Uncle Imran: rinsing does wash the front teeth and helps a little.. *Why:* Both are partly right. Rinsing helps, especially after sweets. But in the biscuit test, only the brush cleaned the grooves of the back teeth.
+1. (perspective) The first person, a girl of 7 in Hyderabad, and her uncle Imran are talking about brushing.  
+   **Answer:** A strong answer picks a side and uses the biscuit test. For example: 'The first person, because water left crumbs in my back teeth, and the brush took them out.' Then it is fair to Uncle Imran: rinsing does wash the front teeth and helps a little.. *Why:* Both are partly right. Rinsing helps, especially after sweets. But in the biscuit test, only the brush cleaned the grooves of the back teeth.
 2. (write) Say it out loud, and a grown-up writes it: in the morning your teeth feel fuzzy. What is the fuzz, and why does it come back every night?  
    **Answer:** The fuzz is plaque. Tiny living beings in my mouth build it while I sleep, so it grows back every night.. *Why:* A strong answer names plaque, says it is made by the tiny beings who live in the mouth, and says they build it again each night, so we brush every day.
 3. (mcq) Why do we use soap, and not only water, to wash our hands?  
@@ -461,7 +462,7 @@ And every morning, before they brushed, they both ran their tongues over their t
    **Answer:** A mouth with teeth, and tiny beings drawn on and between the teeth, with crumbs of food near them.. *Why:* A strong drawing shows that tiny living beings live in the mouth and feed on leftover food. Extra marks for drawing food in the grooves of the back teeth.
 8. (write) Say it out loud, and a grown-up writes it: milk teeth fall out. Why should we still brush them?  
    **Answer:** A hole in a milk tooth can hurt. Milk teeth keep space for the grown-up teeth. And the big back teeth that come at about age six are grown-up teeth already.. *Why:* A strong answer gives at least one real reason: holes hurt, milk teeth hold the space, or the six-year back teeth are grown-up teeth that stay for life.
-9. (mcq) Lakshmi, a girl of 6 in Kochi, smells her socks after a hot day. Where does the smell come from?  
+9. (mcq) Socks can smell after a hot day. Where does the smell come from?  
    Options: Tiny beings on the skin, who feed on sweat / The sweat itself, which always smells strong / The colour of the socks  
    **Answer:** Tiny beings on the skin, who feed on sweat. *Why:* Fresh sweat has almost no smell. The smell is made by tiny living beings on the skin who feed on the sweat. A bath and clean socks wash most of them and the sweat away.
 10. (label) Here is a drawing of a mouth, seen from above. Write F on the front teeth and B on the back teeth. Put a star where food hides most.  
@@ -497,14 +498,14 @@ And every morning, before they brushed, they both ran their tongues over their t
 9. (mcq) In the white cloth test, the sole of a foot was wiped before a bath and after it. What did the cloths most often show?  
    Options: The cloth from before the bath was greyer / Both cloths stayed white / The cloth from after the bath was greyer  
    **Answer:** The cloth from before the bath was greyer. *Why:* Before the bath, dust and sweat were on the skin, even when we could not see them. The bath washed them off.
-10. (mcq) Before testing, Bindu, a girl of 6, said 'I think the water will wash all the crumbs away.' What was that?  
+10. (mcq) Before the Biscuit Test, you might say: 'I think the water will wash all the crumbs away.' What is that?  
    Options: A guess, to check with a test / The answer / A mistake  
    **Answer:** A guess, to check with a test. *Why:* A guess made before a test is how scientists start. Then the test shows what really happens. A guess that turns out wrong is still a good guess.
 
 ## Applications
 - Doctors and nurses wash their hands between every patient, so they do not carry germs from one person to the next.
 - Cooks in restaurants and in school kitchens wash their hands before touching food.
-- Dentists check children's back teeth, and can paint a thin coat into the grooves to keep food out.
+- Dentists check children's back teeth, and can paint a thin coat of clear plastic, called a sealant, into the grooves to keep food out.
 - Global Handwashing Day, on 15 October each year, reminds people across the world to wash with soap.
 
 ## Spotted around us
@@ -538,10 +539,10 @@ And every morning, before they brushed, they both ran their tongues over their t
 - Knock knock. Who's there? Soap. Soap who? *Soap-er clean hands, coming through!*
 
 ## Connected maths
-- In the biscuit test, you looked at 4 back teeth. After a water rinse, 3 of them still had crumbs in the grooves. How many were clean? **1 back tooth was clean.**. 4 teeth take away the 3 with crumbs leaves 1. So most of the back teeth kept crumbs after the rinse. (queues `math.addition-subtraction.word-problems.L1`)
-- Malini brushes her teeth 2 times every day. How many times does she brush in 3 days? **6 times.**. 2 and 2 and 2 make 6. Count in twos: 2, 4, 6. (queues `math.addition-subtraction.meaning.L1`)
+- In the biscuit test, you looked at 4 back teeth. After a water rinse, 3 of them still had crumbs in the grooves. How many were clean? **1 back tooth was clean.**. Take the 3 teeth with crumbs away from the 4 teeth, and 1 is left. So most of the back teeth kept crumbs after the rinse. (queues `math.addition-subtraction.word-problems.L1`)
+- You brush your teeth 2 times every day. How many times do you brush in 3 days? **6 times.**. 2 and 2 and 2 make 6. Count in twos: 2, 4, 6. (queues `math.addition-subtraction.meaning.L1`)
 - On the Clean Week chart, the morning brush row has 7 coloured boxes, and the night brush row has 5. Which row is harder to remember? How do you know? **The night brush row. It has fewer coloured boxes: 5 is less than 7.**. 7 is more than 5, so the morning brush was done more often. The row with fewer boxes is the one that was forgotten more. (queues `math.number-sense.comparing-ordering.L1`)
-- Your mouth has 4 parts: top left, top right, bottom left and bottom right. You brush each part for 30 counts. Which pattern shows the right order to go round the mouth, so no part is missed? **Any order that visits each of the 4 parts once, for example top left, top right, bottom right, bottom left.**. There are many right answers. A good one goes round in a circle, so you always know which part comes next and none is missed. (queues `math.position.position-words.L1`)
+- Your mouth has 4 parts: top left, top right, bottom left and bottom right. You brush each part for 30 counts. In what order can you go round the mouth, so that no part is missed? **Any order that visits each of the 4 parts once, for example top left, top right, bottom right, bottom left.**. There are many right answers. A good one goes round in a circle, so you always know which part comes next and none is missed. (queues `math.position.position-words.L1`)
 
 ## Song
 Scrub, Rinse, Smile (sci.health.L1): Topic-level song for Health L1

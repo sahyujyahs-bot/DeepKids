@@ -133,7 +133,7 @@
    "for": "Your eyes tell you a lot, and a guess from clues can be wrong.",
    "against": "Nobody has seen the middle of the Earth, or the air itself, but clues tell us a lot about both. Doctors find out about your heart by listening. When clues are checked by many people, we can trust them.",
    "status": "rejected",
-   "context": "This card is about the idea that seeing is the only way to know."
+   "context": "This card is about the idea that we can only know about things that we can see ourselves. An old school of thought in India, called Charvaka, said that only what we sense directly can be trusted. Read what the card says, then decide."
   },
   {
    "claim": "Insects are like tiny machines. They cannot see colours or learn.",
@@ -141,7 +141,7 @@
    "for": "Insects are small, and much of what they do looks the same every time.",
    "against": "Charles Henry Turner, an African American scientist who did his research while teaching school, showed around 1910 that honeybees learn colours and patterns. Karl von Frisch, an Austrian scientist, showed it again in 1914. Bees came back to the colour where they had found sugar water.",
    "status": "rejected",
-   "context": "This card is about an old idea that insects cannot learn."
+   "context": "This card is about an old idea. Around 1900, some scientists said that insects act like tiny machines. They said that insects cannot see colours and cannot learn. Read what the card says, then decide."
   },
   {
    "claim": "A good scientist is right the first time.",
@@ -149,7 +149,7 @@
    "for": "Famous scientists are remembered for being right.",
    "against": "Scientists make many wrong guesses. A wrong guess that is checked still teaches something, because it shows which clue fooled you.",
    "status": "rejected",
-   "context": "This card is about whether scientists are always right."
+   "context": "This card is about the idea that a good scientist never makes a mistake. Read what the card says, then decide."
   }
  ],
  "big_questions": [
@@ -670,7 +670,7 @@
        ]
       }
      ],
-     "parent": "If your child guessed 'empty' for the cotton ball, praise the reasoning: no sound and very light is exactly what an empty dabba would do. Ask, 'How could we tell empty from cotton next time?'",
+     "parent": "If your child guessed 'empty' for the cotton ball, praise the reasoning: no sound and very light is exactly what an empty dabba would do. Ask, 'How could we tell empty from cotton next time?' A good answer is to lift it and compare the weight with a dabba that is really empty.",
      "check": {
       "t": "mcq",
       "q": "A shut dabba goes shhh when you shake it. What is most likely inside?",
@@ -682,7 +682,7 @@
       "a": 1,
       "why": "Many small grains hit the steel one after another, very fast, so they make a shhh sound, like rain. One lemon makes one knock and a roll. A cotton ball makes almost no sound."
      },
-     "think": "What else could you find out about without looking at it?"
+     "think": "What else could you find out about without looking at it? A good answer is a wrapped present, which you can shake and lift, or a shut school bag."
     },
     {
      "id": "s8",
@@ -865,7 +865,7 @@
       }
      ],
      "parent": "Keep the 'nobody knows' slips for the Wonder Jar project.",
-     "think": "Is a question nobody can answer a bad question, or a good one?"
+     "think": "Is a question nobody can answer a bad question, or a good one? A good answer is that it is a good one, because every discovery began with a question that nobody could answer yet."
     }
    ]
   },
@@ -949,6 +949,7 @@
    "mins": 25,
    "days": 5,
    "context": "In this project you keep a jar of your questions. Each day you take one out, and try to find the answer by looking, asking someone or trying something.",
+   "problem": "There are three ways to find out an answer. You can look closely, you can ask someone who knows, or you can try something and see what happens. In this project you keep a jar of your own questions. Each day you take one out and find the answer in a different way.",
    "materials": [
     {
      "item": "an empty jar, tumbler or small box",
@@ -1034,10 +1035,10 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Your child draws the best answer of the week and how they found it.",
-     "say": "Which answer surprised you most? Draw it. Draw an eye, an ear or a hand to show how you found out.",
-     "kid": "Draw your favourite answer. Show how you found it.",
-     "parent": "Some questions will not be answered. Keep them in the jar. Say, 'Nobody here knows yet. That makes it a very good question.'"
+     "do": "Your child picks one question they found an answer to, and draws the answer. They also draw an eye, an ear or a hand to show how they found it. Ask which way worked best for that question.",
+     "say": "Pick one question that you found the answer to this week. Draw the answer. Then draw an eye if you looked, an ear if you asked someone, or a hand if you tried something.",
+     "kid": "Pick one answer you found. Draw it. Draw an eye, an ear or a hand to show how you found it.",
+     "parent": "Looking works for things you can see. Asking works for things that a person knows. Trying works when you can test an idea. Some questions will not be answered. Keep them in the jar. Say, 'Nobody here knows yet. That makes it a very good question.'"
     }
    ]
   }
@@ -1787,7 +1788,7 @@
   ]
  },
  "roots": {
-  "context": "We have asked questions, looked closely at an elaichi pod, and found out what was inside closed dabbas. Now we ask what the Mystery Dabbas experiment tells us about knowing.",
+  "context": "We have asked questions, looked closely at an elaichi pod, and found out what was inside closed dabbas. Now we look at what the dabbas show us about how we can know things that we cannot see.",
   "deep_truth": {
    "truth": "In the Mystery Dabbas experiment, you did not see inside the closed dabbas until the end. Still, shaking, tilting and lifting told you what each one held. When you opened the lids, you could check your clues. People found out what is in the middle of the Earth the same way, without ever seeing it.",
    "habit": "We think we know a thing only when we see it. The Mystery Dabbas experiment shows that sounds, weight and movement carry true clues about hidden things, and that we can check those clues afterwards.",
@@ -1803,12 +1804,12 @@
    {
     "source": "The blind men and the elephant, told in Jain teaching and in the Buddhist Udana 6.4",
     "teaching": "Some men cannot see. Each of them touches one part of an elephant. One feels the trunk and says an elephant is like a snake. One feels a leg and says an elephant is like a pillar. Each one is partly right, and none of them knows the whole elephant.",
-    "link": "In the Mystery Dabbas experiment, your ears gave one clue, your hands another, and your nose maybe none. Putting the clues together came closest to the whole answer."
+    "link": "In the Mystery Dabbas experiment, your ears gave one clue, your hands another, and your nose may have given none. Putting the clues together came closest to the whole answer."
    },
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "The Upanishad asks: what is it that is the ear of the ear and the eye of the eye? Something in you hears through your ears and sees through your eyes.",
-    "link": "Your ears heard the shhh, but something in you put the clues together and said 'rice'. The Upanishad asks you to wonder about that knower too."
+    "link": "Your ears heard the shhh, but something in you put the clues together and said 'rice'. The Upanishad asks you to wonder about that part of you that knows."
    }
   ],
   "science": [
@@ -1839,7 +1840,7 @@
   "art": "A girl sitting very still with her eyes closed and three fingers held up, while around her faint drawings show a pressure cooker, a crow and a scooter far away."
  },
  "how_we_found_out": {
-  "story": "Nobody has ever dug to the middle of the Earth. The deepest hole people have ever made goes only a tiny way down. So how do we know what is in the middle? When there is a big earthquake, the shaking travels right through the Earth. Machines in many countries draw the shaking as wiggly lines. In the 1920s, scientists thought the middle of the Earth was one big ball of hot, liquid metal. Inge Lehmann, a scientist in Denmark, looked very closely at the wiggly lines from a big earthquake in New Zealand in 1929. She saw small wiggles in places where there should have been none. Something deep inside had bent the shaking and sent it there. In 1936 she wrote that the Earth must have an inner core: a ball inside the liquid ball. Other scientists checked her clues, and she was right. Later they found that this inner ball is solid metal. Inge Lehmann lived to be 104.",
+  "story": "Nobody has ever dug to the middle of the Earth. The deepest hole people have ever made goes only a tiny way down. So how do we know what is in the middle? When there is a big earthquake, the shaking travels right through the Earth. Machines in many countries draw the shaking as wiggly lines. The shaking moves differently through solid rock, through liquid and through metal. So the lines carry clues about what the shaking passed through. In the 1920s, scientists thought the middle of the Earth was one big ball of hot, liquid metal. Inge Lehmann, a scientist in Denmark, looked very closely at the wiggly lines from a big earthquake in New Zealand in 1929. She saw small wiggles in places where there should have been none. Something deep inside the Earth must have bounced some of the shaking back, so that it reached those places. In 1936 she wrote that the Earth must have an inner core: a ball inside the liquid ball. Other scientists checked her clues, and she was right. Later they found that this inner ball is solid metal. Inge Lehmann lived to be 104.",
   "who": "Inge Lehmann, a Danish earthquake scientist",
   "when": "1929 to 1936",
   "wrong_idea": "The middle of the Earth is one big ball of liquid metal, with nothing different inside it."

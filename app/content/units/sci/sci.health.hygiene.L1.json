@@ -63,7 +63,7 @@
    "concept": "Why we wash our hands",
    "status": "defined",
    "definition": "Washing hands with soap and water takes away dirt and germs, so they cannot get from our hands into our mouths.",
-   "description": "Your hands touch door handles, toys, the floor and your nose. Germs from those things stay on your hands. If you eat with your fingers, the germs go into your mouth. Some can give you a tummy upset or a cold. Water alone washes off loose dirt. But skin is a little oily, and oil holds on to germs. Soap lifts the oil, and the water carries it away. Rub all six parts: palms, backs of the hands, between the fingers, backs of the fingers, thumbs, and fingertips (scratch them in your palm). Rub for 20 seconds. That is Happy Birthday sung twice.",
+   "description": "Your hands touch door handles, toys, the floor and your nose. Germs from those things stay on your hands. If you eat with your fingers, the germs go into your mouth. Some can give you a tummy upset or a cold. Water alone washes off loose dirt. But skin is a little oily, and oil holds on to germs. Soap lifts the oil, and the water carries it away. Rub all six parts: palms, backs of the hands, between the fingers, backs of the fingers, thumbs, and and fingertips. To clean your fingertips, scratch them against your palm. Rub for 20 seconds. That is Happy Birthday sung twice.",
    "examples": [
     "Before you eat, and after you use the toilet, wash with soap.",
     "After playing outside, or touching a pet, wash with soap.",
@@ -78,7 +78,7 @@
    "concept": "What lives in your mouth, and why we brush",
    "status": "defined",
    "definition": "Many kinds of tiny living beings live in every mouth. They eat leftover food on our teeth and make an acid. Brushing takes away the leftovers and the sticky plaque.",
-   "description": "Your mouth is a home for tiny living beings called bacteria. They are too small to see. Most of them do you no harm. They eat what you eat, especially sugar. As they eat, they make an acid. An acid is something sour, like lemon juice. Over many days, acid can wear a hole in a tooth. The bacteria also make a sticky layer called plaque. Brushing takes off the food and the plaque. Food hides most in the grooves of the back teeth. So we brush every tooth, twice a day, for about two minutes.",
+   "description": "Your mouth is a home for tiny living beings called bacteria. They are too small to see. Most of them do you no harm. They eat what you eat, especially sugar. As they eat, they make an acid. An acid is something sour, like lemon juice. Over many days, acid can wear a hole in a tooth. The bacteria also make a sticky layer called plaque. Brushing takes off the food and the plaque. Food hides most in the grooves of the back teeth. So we brush every tooth, twice a day, for about two minutes. We only need a pea-sized bit of toothpaste. We spit it out, and we do not swallow it.",
    "examples": [
     "In the biscuit test, a swish of water cleaned the front teeth, but crumbs stayed in the grooves of the back teeth.",
     "Holes in children's teeth are found most often on the tops of the back teeth, where the grooves are.",
@@ -164,7 +164,7 @@
    "for": "Scrubbing hard cleans a dirty floor or a pot faster.",
    "against": "Teeth and gums are not a floor. Plaque is soft and comes off with gentle brushing. Brushing very hard can hurt the gums and wear the teeth. Dentists say: a soft brush, small gentle circles, and every part of every tooth.",
    "status": "rejected",
-   "context": "This card is about how hard to brush your teeth."
+   "context": "This card is about how hard to brush your teeth. Some people think that the harder you scrub, the cleaner your teeth get. Read what the card says, then decide."
   },
   {
    "claim": "Children are healthier if they play in some dirt, so too much cleaning is bad.",
@@ -172,7 +172,7 @@
    "for": "Children who grow up on farms, with animals and soil, get some allergies less often. Our bodies may need to meet many harmless microbes when we are young.",
    "against": "This does not mean dirty hands are good. Washing hands before eating and after the toilet still stops many illnesses. Scientists are still working out which kinds of contact with nature help, and how.",
    "status": "debated",
-   "context": "This card is about whether a little dirt can be good for children."
+   "context": "This card is about dirt and children. Some people say that children who play in some dirt grow up healthier, so too much cleaning is bad. Read what the card says, then decide."
   },
   {
    "claim": "Milk teeth fall out anyway, so they do not need brushing.",
@@ -180,7 +180,7 @@
    "for": "Milk teeth do fall out, between about age 6 and age 12.",
    "against": "A hole in a milk tooth can hurt and make eating hard. Milk teeth hold the space for the grown-up teeth growing underneath. And the big back teeth that come in at about age six are grown-up teeth already.",
    "status": "rejected",
-   "context": "This card is about whether milk teeth need care."
+   "context": "This card is about milk teeth, the first set of teeth that children have. Some people say they fall out anyway, so brushing them is not needed. Read what the card says, then decide."
   }
  ],
  "big_questions": [
@@ -1042,7 +1042,7 @@
      "do": "1. Your child has their bath as usual, with soap. 2. After drying, wipe the same three places with three new damp squares. 3. Put them in a second row under the first.",
      "say": "Now you have had your bath. Let's wipe the same places again, with new cloths. Neck, elbow, foot.",
      "kid": "After your bath, wipe the same three places. Use new cloths. Put them in a second row.",
-     "parent": "The time for the bath is not counted in the time for this experiment. Do this step right after drying, before the feet walk on the floor again."
+     "parent": "The bath itself is not part of the test. Wipe straight after drying, before the feet walk on the floor again, so the cloth shows only what is on the skin."
     },
     {
      "id": "s4",
@@ -1230,8 +1230,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Wet your hands and your child's hands. 2. Rub soap until it foams. 3. Show the six parts slowly: palms, backs, between the fingers, backs of the fingers, thumbs, fingertips in the palm.",
-     "say": "Watch my hands. Palms together. Backs of the hands. Fingers in between each other. Backs of the fingers. Each thumb. Now the fingertips, scratching in the palm.",
+     "do": "1. Wet your hands and your child's hands. 2. Rub soap until it foams. 3. Show the six parts slowly: palms, backs, between the fingers, backs of the fingers, thumbs, and fingertips scratched against the palm.",
+     "say": "Watch my hands. Palms together. Backs of the hands. Fingers in between each other. Backs of the fingers. Each thumb. Now the fingertips. Scratch them against the palm.",
      "kid": "Wet your hands. Rub on soap. Palms. Backs. Between the fingers. Backs of the fingers. Thumbs. Fingertips.",
      "parent": "The thumbs, the fingertips and the backs of the hands are the parts most people forget."
     },
@@ -1420,10 +1420,10 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird combing their feathers with their beak (this is called preening), or an ant cleaning her feelers. 3. Draw what you saw, or draw your favourite animal from the game.",
+     "do": "1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird combing their feathers with their beak (this is called preening), or an ant cleaning her feelers. 3. Draw what you saw, or draw an animal you acted out.",
      "say": "Let's watch the window for a little while. Can you see a bird combing their feathers with their beak?",
      "kid": "Look out of the window. Is a bird combing their feathers with their beak? Draw what you see.",
-     "parent": "Crows and pigeons often preen on ledges. If no bird comes, that is fine: draw an animal from the acting game. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days."
+     "parent": "Crows and pigeons often preen on ledges. If no bird comes, that is fine: draw an animal you acted out. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days."
     }
    ]
   },
@@ -1502,6 +1502,7 @@
    "mins": 28,
    "days": 7,
    "context": "In this project you colour a chart every day for a week. It shows when you brushed, bathed and washed your hands before meals.",
+   "problem": "It is easy to forget a clean-up job. A chart shows which jobs you remember and which ones you forget. For one week, you colour a box each time you brush, have a bath, or wash your hands before a meal. At the end you count the boxes in each row.",
    "materials": [
     {
      "item": "a sheet of paper with a grid: 7 columns for the days, and 4 rows for morning brush, night brush, bath, and hands before meals",
@@ -1564,7 +1565,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Draw the grid with your child. 2. They draw a small picture at the start of each row. 3. Colour today's boxes at bedtime.",
+     "do": "1. Draw a grid with your child: seven boxes across, one for each day, and four rows. 2. The four rows are brush in the morning, brush at night, have a bath, and wash hands before a meal. They draw a small picture at the start of each row. 3. Colour today's boxes at bedtime.",
      "say": "This chart shows a whole week of keeping clean. Each night we colour what you did today.",
      "kid": "Draw a picture for each row. Tonight, colour what you did today."
     },
@@ -2051,7 +2052,7 @@
   ]
  },
  "roots": {
-  "context": "In the Biscuit Test, we looked into our own mouths and found where food stays after we eat. Now we ask what that tells us about ourselves, and about the tiny living beings who share our bodies.",
+  "context": "In the Biscuit Test, we looked into our own mouths and found where food stays after we eat. Now we look at what that shows us about ourselves, and about the tiny living beings who share our bodies.",
   "deep_truth": {
    "truth": "In the biscuit test, crumbs stayed in the grooves of your back teeth after a rinse. Tiny living beings in your mouth eat those leftovers. So every time you eat, you feed them too. Brushing takes their leftovers away, so they make less of the acid that wears teeth.",
    "habit": "We think of a meal as ours alone, and of our mouth as only ours. But many kinds of living beings share every meal we eat, right there on our teeth.",

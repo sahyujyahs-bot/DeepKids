@@ -182,7 +182,7 @@
    "for": "Some people think crying shows that a boy is not strong.",
    "against": "Boys and girls have the same feelings, and both need comfort. Crying is one way the body shows sadness and asks for help. Hiding feelings does not make them go away.",
    "status": "rejected",
-   "context": "This card is about an old saying about boys and crying."
+   "context": "This card is about an old saying that boys should not cry. Some people think that crying shows that a boy is not strong. Read what the card says, then decide."
   },
   {
    "claim": "When you are angry, hit a pillow to let the anger out.",
@@ -190,7 +190,7 @@
    "for": "Hitting a pillow hurts no one, and some people say they feel better for a moment.",
    "against": "Scientists tested this many times. People who hit things while angry stayed angrier than people who sat quietly. Slow breathing and calming down worked better.",
    "status": "rejected",
-   "context": "This card is about a popular idea for anger."
+   "context": "This card is about a popular idea. It says that when you are angry, hitting a pillow lets the anger out, so you feel calmer. Read what the card says, then decide."
   },
   {
    "claim": "Good children are always happy.",
@@ -198,7 +198,7 @@
    "for": "Grown-ups enjoy seeing children happy, and children want to please them.",
    "against": "Every child feels sad, angry and scared sometimes. These feelings are normal and do useful jobs. A child who can say 'I feel sad' is doing well, not badly.",
    "status": "rejected",
-   "context": "This card is about the idea that children should always be happy."
+   "context": "This card is about the idea that a good child is always happy, and never sad, angry or scared. Read what the card says, then decide."
   }
  ],
  "big_questions": [
@@ -496,7 +496,7 @@
        ]
       }
      ],
-     "think": "If feelings change all day, what can you do the next time a big angry feeling comes?"
+     "think": "If feelings change all day, what can you do the next time a big angry feeling comes? A good answer is to take slow breaths and wait, because the feeling will change."
     }
    ]
   }
@@ -521,7 +521,7 @@
      "what": "Name the feeling for six short stories, and show how big each one is."
     }
    ],
-   "record": "Draw your three biggest feelings from the game.",
+   "record": "Draw your three biggest feelings from the stories. Next to each one, draw a small, middle or big circle to show how big it was.",
    "setup": [
     {
      "art": "A grown-up sitting on the floor facing a child, telling a story with open hands.",
@@ -586,6 +586,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this activity you make a bottle of water with rava in it. When you shake the bottle, the rava swirls and then settles. When a feeling is big, you shake the bottle and watch the rava settle while you breathe slowly.",
+   "problem": "When you feel very cross or upset, it can seem as if everything inside you is swirling. A settling bottle is a bottle of water with rava in it. The rava swirls when you shake the bottle, and it sinks when you hold the bottle still. In this activity you watch the rava settle and breathe slowly. This gives your feeling time to settle too.",
    "materials": [
     {
      "item": "a clean plastic bottle with a tight cap, about half a litre",
@@ -679,6 +680,7 @@
    "mins": 10,
    "days": 1,
    "context": "In this activity you stomp like an angry tiger, then rest like a sleepy cat. You feel your heart and your breath each time. A big feeling changes your body in the same kind of way.",
+   "problem": "When you feel angry or scared, your heart beats fast and your breath comes quickly. In this activity you make your heart beat fast by stomping like a tiger. Then you slow it down with slow breaths, like a sleepy cat. You find out that slow breathing helps your body calm down.",
    "materials": [
     {
      "item": "a little space to stomp in, and a mat or bed to lie on",
@@ -1944,7 +1946,7 @@
   ]
  },
  "roots": {
-  "context": "We have named our feelings and drawn them six times in one day. Now we ask what that tells us about ourselves, and about the world.",
+  "context": "We have named our feelings and drawn them six times in one day. Now we look at what that shows us about ourselves, and about other living beings.",
   "deep_truth": {
    "truth": "In My Feelings Chart, you drew a face for your feeling six times in one day. Most children draw several different faces. A cross or sad face did not stay. Each time, the same child stopped and noticed the feeling. So a feeling comes and goes, and the child who has it stays.",
    "habit": "We say 'I am angry' or 'she is a sad child', as if a feeling were a fixed part of a person. My Feelings Chart shows that a feeling is something that happens to you for a while, and then changes.",
