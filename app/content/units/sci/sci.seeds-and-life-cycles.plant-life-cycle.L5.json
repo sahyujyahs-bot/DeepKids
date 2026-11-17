@@ -188,7 +188,7 @@
    "concept": "First flowering age, and flowering once or many times",
    "status": "defined",
    "definition": "The first flowering age is how old a plant is at the first flowering. Some plants flower once and die. Others flower again and again.",
-   "description": "Every plant grows for a while before flowering. A mustard plant lives about 120 days and first flowers at about day 40. So one third of the life passes before the first flower. A coconut palm lives about 80 years and first flowers at about 8 years, which is one tenth of the life. A mango tree grown from a seed first flowers at about 5 years. That tree can live 100 years, so one twentieth of the life passes first. All annuals and biennials flower in one season and then die. Most perennials flower many times. A few perennials grow for many years, flower only once and then die. Neelakurinji, a shrub of the Palani and Munnar hills, grows for 12 years. Then all the shrubs on a hillside flower together, make seeds and die. The talipot palm of Kerala and Sri Lanka grows for 30 to 80 years and flowers once. A plant that flowers once can put all the stored food into one very large seed crop.",
+   "description": "Every plant grows for a while before flowering. A mustard plant lives about 120 days and first flowers at about day 40. So one third of the life passes before the first flower. A coconut palm lives about 80 years and first flowers at about 8 years, which is one tenth of the life. A mango tree grown from a seed first flowers at about 5 years. That tree can live 100 years, so one twentieth of the life passes first. All annuals and biennials flower in one season and then die. Most perennials flower many times. A few perennials grow for many years, flower only once and then die. Neelakurinji, a shrub of the Palani and Munnar hills, grows for 12 years. Then all the shrubs on a hillside flower together, make seeds and die. The talipot palm of Kerala and Sri Lanka grows for many decades, often put at 30 to 80 years, and flowers once. A plant that flowers once can put all the stored food into one very large seed crop.",
    "examples": [
     "Mustard: first flower at about 40 days, in a life of about 120 days.",
     "Coconut palm: first flower at about 8 years, then flowers every month for about 70 years.",
@@ -227,11 +227,11 @@
    "concept": "How long plants live: from two months to nearly five thousand years",
    "status": "defined",
    "definition": "Lifespan is the time from the start of a life to death. Plant lifespans range from about two months to several thousand years.",
-   "description": "Thale cress, a small weed that scientists grow in laboratories, goes from seed to seed in about two months. Moong lives about three months, mustard about four and paddy about five. A banana stem lives about one year, but new stems keep coming from the base of the clump. A coconut palm lives about 80 years. Many trees outlive every person who planted them. The Great Banyan in the botanic garden at Howrah is more than 250 years old. A peepal tree at Anuradhapura in Sri Lanka was planted in 288 BCE, more than 2,300 years ago. A giant sequoia in California lived for more than 3,000 years. The oldest single tree with a counted age is a bristlecone pine in California, at about 4,800 years. One bristlecone lifespan is as long as 14,400 mustard lifespans, one after another. The oldest trees are often small and slow-growing, and live in cold, dry places. Slow growth makes dense wood that insects and rot cannot easily enter.",
+   "description": "Thale cress, a small weed that scientists grow in laboratories, goes from seed to seed in about two months. Moong lives about three months, mustard about four and paddy about five. A banana stem lives about one year, but new stems keep coming from the base of the clump. A coconut palm lives about 80 years. Many trees outlive every person who planted them. The Great Banyan in the botanic garden at Howrah is said to be at least 250 years old. A peepal tree at Anuradhapura in Sri Lanka was planted more than 2,200 years ago. A giant sequoia in California lived for more than 3,000 years. The oldest living single tree with a counted age is a bristlecone pine in California, at about 4,800 years. One bristlecone lifespan is as long as 14,400 mustard lifespans, one after another. The oldest trees are often small and slow-growing, and live in cold, dry places. Slow growth makes dense wood that insects and rot cannot easily enter.",
    "examples": [
     "Thimmamma Marrimanu, a banyan in Andhra Pradesh, is said to be more than 550 years old.",
-    "Some baobab trees in Africa have been dated to about 2,000 years.",
-    "A talipot palm lives about 60 years and then dies after one flowering."
+    "Some baobab trees in Africa have been dated to more than 2,000 years.",
+    "A talipot palm lives for many decades and then dies after one flowering."
    ],
    "perspectives": [],
    "art": "A long time line marked from 0 to 5,000 years, with tiny bars for moong and mustard at the start and long bars for a banyan, a peepal, a sequoia and a bristlecone pine."
@@ -242,7 +242,7 @@
    "definition": "A plant's age can be known from a written record, counted from growth rings in the wood, measured by carbon dating, or estimated from how fast the plant grows.",
    "description": "The surest way is a record of the planting. The peepal at Anuradhapura has a planting date in old chronicles. The second way is to count rings. In places with seasons, a tree adds one ring of wood each year. Scientists drill out a core of wood as thin as a pencil, so the tree is not cut down. Tropical trees with no clear seasons often have no clear rings. The third way is carbon dating, which measures how old a piece of wood is. Baobabs were dated this way, because old baobabs are hollow. The fourth way is to estimate from the rate of growth. A coconut palm makes about 12 to 14 leaves a year, and each fallen leaf leaves a ring-shaped scar on the trunk. So the number of scars divided by 13 gives a rough age. An estimate from a growth rate is only as good as the rate. Plants grow faster in a wet year and slower in a dry year. So an honest estimate is given as a range, such as 'between 20 and 30 years'.",
    "examples": [
-    "A core from a bristlecone pine showed more than 4,600 rings in 1957.",
+    "In 1957, cores from a bristlecone pine showed it was more than 4,600 years old.",
     "A coconut trunk with 390 leaf scars is about 30 years old, because 390 divided by 13 is 30.",
     "In the Leaf Clock in this unit, you estimate the age of a potted plant from the leaves made in three weeks."
    ],
@@ -266,7 +266,7 @@
    "concept": "Our food comes mostly from annuals",
    "status": "defined",
    "definition": "Most of the food energy that people eat comes from annual plants, above all rice, wheat and maize. Farmers chose annuals because an annual puts a large share of the plant into seeds.",
-   "description": "Look at a ripe paddy plant. About half of the dry weight of the plant above the ground is grain. No wild perennial puts that much into seeds, because a perennial keeps food back for next year. About ten thousand years ago, people began to save and sow the seeds of wild annual grasses and pulses. Each year they kept seed from the plants with the most and biggest grains. An annual also suits a ploughed field, because ploughing is a disturbance and annuals do well after one. Rice, wheat and maize together now give people nearly half of their food energy. Perennials feed us too. Coconut, banana, mango, jackfruit, tea, coffee, pepper and sugarcane are perennials. A perennial crop is not sown each year, and the roots hold the soil all year. But a farmer must wait some years for the first harvest. Many farmers in Kerala and Karnataka grow both together. Under coconut palms they grow banana, pepper, ginger and vegetables.",
+   "description": "Look at a ripe paddy plant. About half of the dry weight of the plant above the ground is grain. No wild perennial puts that much into seeds, because a perennial keeps food back for next year. About ten thousand years ago, people began to save and sow the seeds of wild annual grasses and pulses. Each year they kept seed from the plants with the most and biggest grains. An annual also suits a ploughed field, because ploughing is a disturbance and annuals do well after one. Rice, wheat and maize together now give people about half of their food energy. Perennials feed us too. Coconut, banana, mango, jackfruit, tea, coffee, pepper and sugarcane are perennials. A perennial crop is not sown each year, and the roots hold the soil all year. But a farmer must wait some years for the first harvest. Many farmers in Kerala and Karnataka grow both together. Under coconut palms they grow banana, pepper, ginger and vegetables.",
    "examples": [
     "A thali with rice, sambar, a vegetable and curd: the rice and the dal both come from annuals.",
     "Coconut oil, pepper and tamarind in the same thali come from perennials.",
@@ -305,7 +305,7 @@
    "concept": "Does a tree grow old?",
    "status": "debated",
    "definition": "Humans and other animals grow weaker with age, and this is called ageing. Scientists disagree about whether long-lived trees age in this way.",
-   "description": "A tree makes new leaves, new buds and a new layer of wood every year. So the working parts of a very old tree are always young. In 2001, scientists compared bristlecone pines from 23 years old to more than 4,700 years old. The old trees made pollen and seeds as healthy as those of the young trees. In 2020, scientists in China studied ginkgo trees up to 600 years old. The growing layer under the bark showed no sign of ageing. Very old trees usually die from outside causes, such as storms, fire, drought, fungi or the axe. But old trees also carry more wounds and rot, and they must lift water higher.",
+   "description": "A tree makes new leaves, new buds and a new layer of wood every year. So the working parts of a very old tree are always young. In 2001, scientists compared bristlecone pines from 23 years old to more than 4,700 years old. The old trees made pollen and seeds as healthy as those of the young trees. In 2020, scientists in China studied ginkgo trees up to 667 years old. The growing layer under the bark showed no sign of ageing. Very old trees usually die from outside causes, such as storms, fire, drought, fungi or the axe. But old trees also carry more wounds and rot, and they must lift water higher.",
    "examples": [
     "A bristlecone pine about 4,700 years old still made seeds that germinated well.",
     "Old ginkgo trees kept making new wood and defence chemicals at the same rate as young ones.",
@@ -356,7 +356,7 @@
   },
   {
    "text": "Some trees live for thousands of years.",
-   "evidence": "Ring counts on cores of wood from bristlecone pines give ages of more than 4,600 years. Carbon dating of baobab wood gives about 2,000 years."
+   "evidence": "Ring counts on cores of wood from bristlecone pines give ages of more than 4,600 years. Carbon dating of baobab wood gives more than 2,000 years for the oldest."
   },
   {
    "text": "A signal made in the leaves, called florigen, tells the buds to make flowers.",
@@ -439,10 +439,10 @@
  ],
  "how_we_found_out": {
   "context": "How did people find out which trees are the oldest? This card tells the true story of Edmund Schulman and the bristlecone pines.",
-  "story": "Until the 1950s, most people believed that the biggest trees were the oldest. The giant sequoias of California are as tall as a 25-storey building, and stumps of cut sequoias showed about 3,000 rings. Edmund Schulman was a scientist at the University of Arizona who studied tree rings. He wanted very old trees, because their rings record the wet and dry years of the past. He noticed that the oldest trees he found were not in rich forests. They grew slowly in dry, rocky places. In 1953 he heard of old pines high in the White Mountains of California. The trees there were short and twisted, with more bare wood than bark. Schulman drilled out thin cores of wood, which does not kill a tree, and counted the rings under a microscope. Many trees were more than 4,000 years old. In 1957 he counted more than 4,600 rings in one tree, now known as Methuselah. He wrote that these trees live so long because of their hard life. Slow growth makes dense wood full of resin, which insects, rot and fire cannot easily destroy.",
+  "story": "Until the 1950s, most people believed that the biggest trees were the oldest. The giant sequoias of California can be as tall as a 20-storey building or more, and stumps of cut sequoias showed more than 3,000 rings. Edmund Schulman was a scientist at the University of Arizona who studied tree rings. He wanted very old trees, because their rings record the wet and dry years of the past. He noticed that the oldest trees he found were not in rich forests. They grew slowly in dry, rocky places. In 1953 he heard of old pines high in the White Mountains of California. The trees there were short and twisted, with more bare wood than bark. Schulman drilled out thin cores of wood, which does not kill a tree, and counted the rings under a microscope. Many trees were more than 4,000 years old. In 1957 he worked out that one tree was more than 4,600 years old. That tree is now known as Methuselah. He wrote that these trees live so long because of their hard life. Slow growth makes dense wood full of resin, which insects, rot and fire cannot easily destroy.",
   "who": "Edmund Schulman, an American scientist who studied tree rings",
-  "when": "Schulman first cored the bristlecone pines in 1953. He counted the rings of Methuselah in 1957, and his account was published in 1958.",
-  "wrong_idea": "That the biggest trees, growing in the best places, are the oldest. Ring counts showed that small, slow-growing pines on dry mountains were more than 1,000 years older than the giant sequoias.",
+  "when": "Schulman first cored the bristlecone pines in 1953. He sampled Methuselah in 1957, and his account was published in 1958.",
+  "wrong_idea": "That the biggest trees, growing in the best places, are the oldest. Ring counts showed that small, slow-growing pines on dry mountains were many centuries older than the giant sequoias.",
   "art": "A man in 1950s field clothes turning a thin drill into the trunk of a short, twisted pine on a bare, rocky mountainside."
  },
  "roots": {
@@ -510,7 +510,7 @@
   "title": "Six Times Blue",
   "mins": 12,
   "read_aloud": true,
-  "note": "Valli, Paatti, the clerk and the tahsildar are made up, and so is the scene in the office. These things are real. Neelakurinji is a shrub of the Palani hills, the Nilgiris and the Munnar hills. The shrubs grow for 12 years, flower together, make seeds and die. Flowerings have been recorded every 12 years since 1838, and the last ones were in 1994, 2006 and 2018. Elders of the Paliyan people of the Palani hills are said to have counted their ages in kurinji flowerings. Bees make a dark honey from the flowers. The rules for an old-age pension are more complicated than in this story.",
+  "note": "Valli, Paatti, the clerk and the tahsildar are made up, and so is the scene in the office. These things are real. Neelakurinji is a shrub of the Palani hills, the Nilgiris and the Munnar hills. The shrubs grow for 12 years, flower together, make seeds and die. Flowerings have been recorded every 12 years since 1838, and the last ones were in 1994, 2006 and 2018. Elders of the Paliyan people of the Palani hills are said to have counted their ages in kurinji flowerings. Bees make honey from the flowers. The rules for an old-age pension are more complicated than in this story.",
   "text": [
    "In August the hill behind Valli's village turned blue.",
    "It did not happen in a day. First there were a few flowers on the bushes by the path, small and pale, like scraps of sky. Then there were more. By the end of the month the whole slope was blue from the stream to the ridge, and the bees were so loud that Valli could hear them from the doorway.",
@@ -813,7 +813,7 @@
       },
       {
        "f": "A talipot palm of Kerala",
-       "b": "About 60 years. A perennial that flowers once and dies."
+       "b": "Many decades, often put at 30 to 80 years. A perennial that flowers once and dies."
       },
       {
        "f": "A coconut palm",
@@ -825,7 +825,7 @@
       },
       {
        "f": "The Great Banyan in the botanic garden at Howrah",
-       "b": "More than 250 years so far. A perennial."
+       "b": "At least 250 years so far, by estimate. A perennial."
       },
       {
        "f": "Thimmamma Marrimanu, a banyan in Andhra Pradesh",
@@ -833,11 +833,11 @@
       },
       {
        "f": "An old baobab tree in Africa",
-       "b": "About 2,000 years, measured by carbon dating. A perennial."
+       "b": "More than 2,000 years, measured by carbon dating. A perennial."
       },
       {
        "f": "The sacred peepal at Anuradhapura in Sri Lanka",
-       "b": "More than 2,300 years so far. The planting in 288 BCE was written down."
+       "b": "More than 2,200 years so far. The old chronicles of Sri Lanka record the planting."
       },
       {
        "f": "A giant sequoia in California",
@@ -2596,7 +2596,7 @@
     },
     {
      "t": "truefalse",
-     "p": "True or false: rice, wheat and maize together give people nearly half of their food energy.",
+     "p": "True or false: rice, wheat and maize together give people about half of their food energy.",
      "a": true,
      "why": "True. All three are annuals, and each puts a large share of the plant into grain."
     },
@@ -3010,13 +3010,12 @@
    "check": "This address is the one already used and confirmed in the Class 4 unit on the plant life cycle. A parent should preview it first."
   },
   {
-   "title": "Neelakurinji in bloom on the hills near Munnar",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Neelakurinji - a Flower which blooms once in 12 years at Munnar, Kerala 2018",
+   "channel": "TripsCart",
+   "youtube": "i3DfPi40Ha4",
    "mins": 4,
    "why": "To see a hillside of neelakurinji in flower, which happens once in 12 years.",
-   "check": "No address yet. Look for a recent film of the 2018 flowering near Munnar or in the Palani hills. Check that it shows the shrubs and says the cycle is 12 years."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3222,14 +3221,14 @@
    "url": "https://bsi.gov.in",
    "kind": "place",
    "where": "Howrah, near Kolkata",
-   "why": "The garden holds the Great Banyan, a tree of more than 250 years. The Botanical Survey of India site lists its gardens."
+   "why": "The garden holds the Great Banyan, a tree said to be at least 250 years old. The Botanical Survey of India site lists its gardens."
   },
   {
-   "title": "Eravikulam National Park and the Munnar hills",
-   "url": "https://www.keralaforest.gov.in",
+   "title": "Eravikulam National Park and the Munnar hills (Down To Earth story of the neelakurinji)",
+   "url": "https://www.downtoearth.org.in/blog/neelakurinji-blue-bloom-in-a-blue-moon-61295",
    "kind": "place",
    "where": "Munnar, Kerala",
-   "why": "The hills near Munnar are a place to see neelakurinji in the years when the shrubs flower. The next flowering is expected in about 2030."
+   "why": "Read about neelakurinji and where it grows, including the Munnar hills. The next flowering is expected in about 2030, but the exact season can shift."
   }
  ],
  "buy": [
@@ -3465,17 +3464,17 @@
    "Earlier units were checked so that nothing repeats. Flower to fruit, the inside of a fruit, and floating leaves are in the Class 3 unit of this subtopic. Ripening, yellow leaves, new roots at nodes, the Lifespan Tape and the tree-ring diary are in the Class 4 unit. Germination, the Freezer Test and seed banks are in the units on seeds and germination. The Bad Year Test, the Leaf Clock, the Methi project, both games and the story are new."
   ],
   "science": [
-   "Schulman E. (1958). Bristlecone pine, oldest known living thing. National Geographic Magazine 113. The source of the 1957 ring count of Methuselah and the idea that very old trees grow slowly in harsh places.",
-   "Lanner R. M., Connor K. F. (2001). Does bristlecone pine senesce? Experimental Gerontology 36: 675-685. Old bristlecones made healthy seeds and pollen.",
-   "A 2020 study of ginkgo trees up to 600 years old in China, which found no sign of ageing in the growing layer under the bark (reference to be checked before the unit is published).",
+   "Schulman E. (1958). Bristlecone pine, oldest known living thing. National Geographic Magazine 113 (March): 355. Checked against the article: the 17 trees more than 4,000 years old, the tree of more than 4,600 years found in 1957, and the idea that very old trees live in hard places.",
+   "Lanner R. M., Connor K. F. (2001). Does bristlecone pine senesce? Experimental Gerontology 36: 675-685. Trees from 23 to 4,713 years old made healthy pollen and seeds.",
+   "Wang L. et al. (2020). Multifeature analyses of vascular cambial cells reveal longevity mechanisms in old trees. Proceedings of the National Academy of Sciences 117: 2201-2210. Ginkgo trees from 15 to 667 years old showed no sign of ageing in the whole plant.",
    "Knott J. E. (1934). Effect of a localized photoperiod on spinach. Proceedings of the American Society for Horticultural Science 31. The leaves sense day length.",
-   "Chailakhyan M. K. (1936). New facts in support of the hormonal theory of plant development. Doklady Akademii Nauk SSSR 13. The origin of the word florigen.",
+   "Chailakhyan M. K. (1936). New facts in support of the hormonal theory of plant development. Doklady Akademii Nauk SSSR. The origin of the word florigen.",
    "Corbesier L. et al. (2007). FT protein movement contributes to long-distance signaling in floral induction of Arabidopsis. Science 316: 1030-1033. Tamaki S. et al. (2007). Hd3a protein is a mobile flowering signal in rice. Science 316: 1033-1036.",
-   "Reports from Yunnan University, China, on the perennial rice PR23, which gave yields close to annual rice over four years of harvests (reference to be checked before the unit is published).",
-   "Land Institute, Salina, Kansas: work on Kernza, intermediate wheatgrass, with roots to about three metres.",
+   "Zhang S. et al. (2023). Sustained productivity and agronomic potential of perennial rice. Nature Sustainability 6: 28-38. Rice crossed with a perennial African rice gave eight harvests in four years from one sowing, averaging 6.8 tonnes per hectare against 6.7 for replanted annual rice. Yunnan University and partners.",
+   "Land Institute, Salina, Kansas: work on Kernza, grain from intermediate wheatgrass, with roots about three metres (10 feet) deep (landinstitute.org).",
    "Janzen D. H. (1976). Why bamboos wait so long to flower. Annual Review of Ecology and Systematics 7: 347-391. Muli bamboo (Melocanna baccifera) flowers in cycles of about 48 years, with the last flowerings in Mizoram around 2006 to 2008.",
    "Strobilanthes kunthiana (neelakurinji) flowers about every 12 years on the Western Ghats hills, with flowerings recorded in 1994, 2006 and 2018. Records go back to the 1800s."
   ]
  },
- "playtest": "Read through step by step as a parent and child in a city flat would use it. The experiments were reasoned through carefully but have not been tried at home. Please treat the expected results as likely and not certain. The Bad Year Test needs a die and a rajma, and can be played anywhere in about 40 minutes. The rules were checked by playing 20,000 simulated runs: in the old grove the perennial leaves more seeds in about 3 runs out of 4, and on the riverbank the annual wins about 9 runs out of 10. A single run can go the other way, which is why the test is repeated three times. The Leaf Clock needs a potted plant with clear stems, such as a money plant, tulsi or curry leaf, and three weeks. If the plant stays dry or the room is cold, no new leaves may open, and the step says what to write then. Same Seed, Different Start Day needs two pots and about 12 weeks. Methi germinates in 3 to 5 days, and flowers about 6 to 9 weeks after sowing in the cool season. Sow between October and February. In the rains the seeds may rot, and in May and June the plants may bolt in the heat. Whatever happens, the child writes down what really happened. Nothing in the unit needs a garden. The games need paper, a pencil and a rajma. Where Did the Cycle Stop works best with a parent or friend, and Longer or Shorter can be played alone. Facts to treat with care: the ages of the Great Banyan (more than 250 years), Thimmamma Marrimanu (said to be more than 550 years), the Anuradhapura peepal (planted in 288 BCE) and the oldest bristlecone pine (about 4,800 years) are rounded. The lifespans and first flowering ages of the plants in Stage Lengths are typical values and vary by variety and weather. The yields and the number of harvests of perennial rice are reported figures that a parent may wish to check. The next flowering of neelakurinji is expected about 2030, and the muli bamboo about 2055."
+ "playtest": "Read through step by step as a parent and child in a city flat would use it. The experiments were reasoned through carefully but have not been tried at home. Please treat the expected results as likely and not certain. The Bad Year Test needs a die and a rajma, and can be played anywhere in about 40 minutes. The rules were checked by playing 20,000 simulated runs: in the old grove the perennial leaves more seeds in about 3 runs out of 4, and on the riverbank the annual wins about 9 runs out of 10. A single run can go the other way, which is why the test is repeated three times. The Leaf Clock needs a potted plant with clear stems, such as a money plant, tulsi or curry leaf, and three weeks. If the plant stays dry or the room is cold, no new leaves may open, and the step says what to write then. Same Seed, Different Start Day needs two pots and about 12 weeks. Methi germinates in 3 to 5 days, and flowers about 6 to 9 weeks after sowing in the cool season. Sow between October and February. In the rains the seeds may rot, and in May and June the plants may bolt in the heat. Whatever happens, the child writes down what really happened. Nothing in the unit needs a garden. The games need paper, a pencil and a rajma. Where Did the Cycle Stop works best with a parent or friend, and Longer or Shorter can be played alone. Facts were checked against published sources on 17 Nov 2026. Confirmed: the neelakurinji and muli bamboo cycles, the bristlecone, ginkgo and perennial rice studies, the Kernza roots and the sequoia age. Corrected: the ginkgo study (trees up to 667 years old) and the dark honey (removed). Softened: the Great Banyan (said to be at least 250 years old), Thimmamma Marrimanu (said to be more than 550 years old), the Anuradhapura peepal (more than 2,200 years, because sources give 288 or 236 BCE), the baobab and talipot ages, and Schulman's 4,600 (a first estimate). The lifespans and first flowering ages in Stage Lengths are typical values and vary by variety and weather. The next flowerings of neelakurinji (about 2030) and muli bamboo (about 2055) are predictions."
 }
