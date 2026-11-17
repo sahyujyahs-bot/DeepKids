@@ -3,12 +3,12 @@
  "title": "Air resistance, water resistance and upthrust: what slows a thing down, and what holds it up",
  "level": 5,
  "summary": {
-  "text": "A loaded lunch box on a table stays still until several spoons of rice pull on it. Float the same box in a bucket, and one paper clip pulls it across. Four contact forces explain this: friction, air resistance, water resistance and upthrust. Friction can hold a thing still, and it grows with the weight. Air resistance and water resistance act only on a thing that is moving, and they grow with speed. Upthrust is the upward push of water or air, and it acts on a still thing too. Your child finds the smallest pull that moves a floating load. They race three shapes of dough through water, and test a hole in a parachute. They draw every force as an arrow, and say whether the forces are balanced.",
+  "text": "A loaded lunch box sits on a table with a thread tied to it. The thread goes over the table edge to a hanging bag, and you add spoonfuls of rice to the bag one at a time. It takes several spoonfuls before the box starts to slide. Now float the same box in a bucket of water. This time one paper clip hanging from the thread is enough to pull it across. Four contact forces explain this: friction, air resistance, water resistance and upthrust. Friction can hold a thing still, and it grows with the weight. Air resistance and water resistance act only on a thing that is moving, and they grow with speed. Upthrust is the upward push of water or air, and it acts on a still thing too. Your child finds the smallest pull that moves a floating load. They race three shapes of dough through water, and test a hole in a parachute. They draw every force as an arrow, and say whether the forces are balanced.",
   "art": "A plastic lunch box full of rice floating in a bucket, pulled by a thread that runs over the rim to one hanging paper clip, beside the same box on a table pulled by a hanging cup of rice."
  },
  "intro": {
   "hook": "A lunch box holds two katoris of raw rice. It floats in a bucket of water. Could one hanging paper clip pull it across the water? Say yes or no, and say why.",
-  "text": "Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You count what it takes to start it each time. In this unit you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.",
+  "text": "Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You pull the same loaded box on a table and then on water. Each time you count how many spoonfuls of rice, or how many paper clips, it takes to start the box moving. In this unit you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.",
   "art": "A child looking at a rice-filled lunch box floating in a bucket, holding up one paper clip on a thread, with a question mark above the bucket."
  },
  "outcomes": [
@@ -390,12 +390,12 @@
  ],
  "big_questions": [
   {
-   "q": "A still boat feels no water resistance, and a moving boat does. So is the resistance in the water, or in the moving?",
+   "q": "A boat that is standing still feels no water resistance, but a moving boat does. So does the resistance come from the water, or from the movement?",
    "kind": "deep",
    "hint": "Think about a boat drifting along with a river. Is she moving or still, for the water around her?"
   },
   {
-   "q": "A bag of water weighs nothing in a bucket of water. Does the water in the middle of a lake weigh anything?",
+   "q": "A bag of water hung in a bucket of water feels weightless, because the upthrust holds it up. So does the water in the middle of a lake have any weight?",
    "kind": "deep",
    "hint": "Ask what is holding that water up, and what it is holding up in turn."
   },
@@ -488,83 +488,83 @@
      "items": [
       {
        "f": "A loaded rice boat floats still beside a jetty. Which forces act on the boat?",
-       "b": "Gravity and upthrust. Balanced. The boat is still, so there is no water resistance."
+       "b": "Two forces act on the boat: gravity and upthrust. They are balanced. The boat is still, so there is no water resistance."
       },
       {
        "f": "A stone lies still on the bottom of a pond. Which forces act on the stone?",
-       "b": "Gravity, upthrust and the normal force from the pond floor. Balanced. Upthrust acts on sunk things too."
+       "b": "Three forces act on the stone: gravity, upthrust and the normal force from the pond floor. They are balanced. Upthrust acts on sunk things too."
       },
       {
        "f": "A skydiver falls at a steady speed under her open parachute. Which forces act on her?",
-       "b": "Gravity and air resistance. Balanced. At a steady speed, air resistance equals her weight."
+       "b": "Two forces act on her: gravity and air resistance. They are balanced. At a steady speed, air resistance equals her weight."
       },
       {
        "f": "A mango has just left the branch and is starting to fall. Which forces act on the mango?",
-       "b": "Gravity. Unbalanced. The mango is still slow, so air resistance is almost nothing yet."
+       "b": "Only gravity acts on the mango. The forces are unbalanced. The mango is still slow, so air resistance is almost nothing yet."
       },
       {
        "f": "A girl cycles along a flat road at a steady speed. Which forces act on her and her cycle?",
-       "b": "Gravity, the normal force, friction and air resistance. Balanced. Friction at the back tyre pushes her forward, and air resistance pushes back."
+       "b": "Four forces act: gravity, the normal force, friction and air resistance. They are balanced. Friction at the back tyre pushes her forward, and air resistance pushes back."
       },
       {
        "f": "A book lies still on a flat table. Which forces act on the book?",
-       "b": "Gravity and the normal force. Balanced. Nothing is trying to slide the book, so there is no friction."
+       "b": "Two forces act on the book: gravity and the normal force. They are balanced. Nothing is trying to slide the book, so there is no friction."
       },
       {
        "f": "A swimmer glides forward under water after pushing off the wall. Which forces act on her?",
-       "b": "Gravity, upthrust and water resistance. Unbalanced. Nothing pushes her forward now, so water resistance slows her."
+       "b": "Three forces act on her: gravity, upthrust and water resistance. They are unbalanced. Nothing pushes her forward now, so water resistance slows her."
       },
       {
        "f": "A rohu fish hangs still in the middle of a pond. Which forces act on her?",
-       "b": "Gravity and upthrust. Balanced. She has set her swim bladder so that upthrust equals her weight."
+       "b": "Two forces act on her: gravity and upthrust. They are balanced. She has set her swim bladder so that upthrust equals her weight."
       },
       {
        "f": "A coin sinks through deep water at a steady speed. Which forces act on the coin?",
-       "b": "Gravity, upthrust and water resistance. Balanced. The two upward forces together equal gravity."
+       "b": "Three forces act on the coin: gravity, upthrust and water resistance. They are balanced. The two upward forces together equal gravity."
       },
       {
        "f": "A carrom coin slides across the board and slows down. Which forces act on the coin?",
-       "b": "Gravity, the normal force and friction. Unbalanced. Friction acts against the slide, and nothing pushes the coin on."
+       "b": "Three forces act on the coin: gravity, the normal force and friction. They are unbalanced. Friction acts against the slide, and nothing pushes the coin on."
       },
       {
        "f": "A balloon filled with helium has just been let go and is speeding up. Which forces act on it?",
-       "b": "Gravity and upthrust from the air. Unbalanced. The upthrust is bigger than the balloon's weight."
+       "b": "Two forces act on the balloon: gravity and upthrust from the air. They are unbalanced. The upthrust is bigger than the balloon's weight."
       },
       {
        "f": "A tugboat pushes a ship sideways at a slow, steady speed. Which forces act on the ship?",
-       "b": "Gravity, upthrust, a push and water resistance. Balanced. The push equals the water resistance."
+       "b": "Four forces act on the ship: gravity, upthrust, the tugboat's push and water resistance. They are balanced. The push equals the water resistance."
       },
       {
        "f": "A child slides down a playground slide at a steady speed. Which forces act on the child?",
-       "b": "Gravity, the normal force and friction. Balanced. The three forces cancel, so the speed stays the same."
+       "b": "Three forces act on the child: gravity, the normal force and friction. They are balanced. The three forces cancel, so the speed stays the same."
       },
       {
        "f": "A hand holds a ball still under water. Which forces act on the ball?",
-       "b": "Gravity, upthrust and a push from the hand. Balanced. The hand pushes down, because the upthrust is bigger than the ball's weight."
+       "b": "Three forces act on the ball: gravity, upthrust and a push from the hand. They are balanced. The hand pushes down, because the upthrust is bigger than the ball's weight."
       },
       {
        "f": "A hand has just let go of a ball under water. Which forces act on the ball?",
-       "b": "Gravity and upthrust. Unbalanced. The upthrust is bigger, so the ball speeds upward."
+       "b": "Two forces act on the ball: gravity and upthrust. They are unbalanced. The upthrust is bigger, so the ball speeds upward."
       },
       {
        "f": "A box is pushed across a floor at a steady speed. Which forces act on the box?",
-       "b": "Gravity, the normal force, a push and friction. Balanced. The push equals the friction."
+       "b": "Four forces act on the box: gravity, the normal force, a push and friction. They are balanced. The push equals the friction."
       },
       {
        "f": "A space capsule is falling very fast when its parachute opens. Which forces act on the capsule?",
-       "b": "Gravity and air resistance. Unbalanced. For a few seconds air resistance is bigger than gravity, so the capsule slows down."
+       "b": "Two forces act on the capsule: gravity and air resistance. They are unbalanced. For a few seconds air resistance is bigger than gravity, so the capsule slows down."
       },
       {
        "f": "An astronaut drops a hammer on the Moon. Which forces act on the falling hammer?",
-       "b": "Gravity. Unbalanced. The Moon has no air, so nothing acts against the fall."
+       "b": "Only gravity acts on the hammer. The forces are unbalanced. The Moon has no air, so nothing acts against the fall."
       },
       {
        "f": "A loaded box floats still in a tub. A thread has just begun to pull it. Which forces act on the box?",
-       "b": "Gravity, upthrust and a pull. Unbalanced. The box is still at rest, so there is no water resistance yet."
+       "b": "Three forces act on the box: gravity, upthrust and the pull. They are unbalanced. The box is still at rest, so there is no water resistance yet."
       },
       {
        "f": "A lorry is parked on a sloping road. Which forces act on the lorry?",
-       "b": "Gravity, the normal force and friction. Balanced. Friction up the slope stops the lorry sliding down."
+       "b": "Three forces act on the lorry: gravity, the normal force and friction. They are balanced. Friction up the slope stops the lorry sliding down."
       }
      ]
     },
@@ -951,7 +951,7 @@
        ]
       }
      ],
-     "parent": "One clip should still start the box. It takes longer to reach the rim, because a bigger mass speeds up more slowly. The box sits about twice as deep as before, less the part that the empty box needed.",
+     "parent": "One clip should still start the box. It takes longer to reach the rim, because a bigger mass speeds up more slowly. The box sits deeper with two katoris. The part of the depth that comes from the rice is about twice as much as with one katori. The empty box already sat a little way into the water before any rice went in.",
      "context": "This step of Table or Tub doubles the load on the floating box. You test the pull again and measure how deep the box sits."
     },
     {
@@ -2997,7 +2997,7 @@
   },
   {
    "t": "mcq",
-   "p": "Mean landing distances are 30, 31 and 29 centimetres. Single drops varied by 20. What can you say?",
+   "p": "Three parachute designs land, on average, 30, 31 and 29 centimetres from the target. Single drops of one design vary by 20 centimetres. What can you say?",
    "opts": [
     "The second design is worst",
     "The third design is best",
@@ -3075,7 +3075,7 @@
   }
  ],
  "applications": [
-  "Parachutes for people, for supplies dropped from aeroplanes and for space capsules. The canopy is sized to the load, and it has a vent.",
+  "Parachutes are used for people, for supplies dropped from aeroplanes and for space capsules. The canopy is sized to suit the load, and it has a vent.",
   "Ship designers pull model hulls along long tanks of water to measure their water resistance before a ship is built.",
   "Racing cyclists bend low and wear smooth clothes and long-tailed helmets. Fast trains such as the Vande Bharat have a sloping nose.",
   "Cargo ships often sail more slowly than they could. A small cut in speed gives a large cut in water resistance and in fuel.",
@@ -3147,7 +3147,7 @@
   "If you stopped pedalling on a flat road, which forces would stop your cycle?",
   "Why does a shuttlecock always fly with its cork end first?",
   "Would a parachute work on the Moon? Why not?",
-  "Where does the push go when you stop stirring a tumbler of buttermilk?"
+  "You stir a tumbler of buttermilk and then stop. Where does the movement of the buttermilk go?"
  ],
  "jokes": [
   {
@@ -3220,7 +3220,7 @@
   {
    "problem": "On the table, a loaded box needed a pull of 72 grams to start. Afloat, it needed one paper clip of half a gram. How many times as big was the pull on the table?",
    "answer": "144 times as big.",
-   "explain": "Divide the bigger pull by the smaller one. 72 ÷ 0.5 is the same as 72 × 2, which is 144. So friction on the table held the box 144 times as hard as anything held it on the water.",
+   "explain": "Divide the bigger pull by the smaller one. 72 ÷ 0.5 is the same as 72 × 2, which is 144. So the pull needed on the table was 144 times as big as the pull needed on the water.",
    "math_unit": "math.fractions.ratio-and-proportion.L5",
    "context": "This is about Table or Tub. The same loaded lunch box is pulled on a table and then while it floats in a bucket.",
    "how": "e1",

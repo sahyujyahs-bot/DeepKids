@@ -44,33 +44,33 @@
 **Definition:** Stored food is lost in five ways. Microbes eat it, or the food's own life goes on, or pests get in. Air and light change it, or water moves in or out.
 
 Microbes are the first way. They eat moist food and leave it sour, slimy, smelly or mouldy. The second way is the food's own life. A potato or an onion is alive, so they sprout. A banana goes on ripening until it is soft and black. The third way is pests. Weevils, moths, ants and rats eat stored grain and leave droppings. The fourth way needs no living being. Air, light and warmth slowly change oil and fat until they smell rancid. The fifth way is water on the move. A biscuit takes in damp from the air and turns soft. A chapati loses water and turns hard. Each way needs its own answer, so a good storer first asks which way threatens this food.
-- e.g. Sour dal: microbes ate the dal.
-- e.g. A sprouting onion: the onion's own life went on.
-- e.g. Small beetles in the atta: storage pests got in.
-- e.g. Old groundnuts with a sharp smell: air and warmth turned the oil rancid.
-- e.g. A soft biscuit in the monsoon: water moved in from the air.
+- e.g. Sour dal is food that microbes have eaten.
+- e.g. A sprouting onion is food whose own life has gone on.
+- e.g. Small beetles in the atta are storage pests that have got in.
+- e.g. Old groundnuts with a sharp smell have had their oil turned rancid by air and warmth.
+- e.g. A soft biscuit in the monsoon has taken in water from the air.
 ### How microbes spoil food: they digest it from outside · *defined*
 **Definition:** Microbes pour enzymes on to food. The enzymes cut the food into small pieces, and the microbes soak the pieces up. What they leave behind is the spoilage we see and smell.
 
 A microbe has no mouth. To eat, they release enzymes into the food around them. The enzymes cut starch into sugars, proteins into smaller pieces and fats into acids. The microbe takes in what they need. The rest stays in the food, with the wastes the microbe makes. Acids make the food sour. Gases make froth and puff up a packet. Pieces of cut protein give the smell of bad fish or bad eggs. Enzymes that cut the glue between plant cells turn a firm vegetable to mush. Many bacteria also make a sticky coat around themselves, and this is the slime on old food. So each sign of spoilage is the trace of one kind of feeding.
-- e.g. Sour milk: bacteria turned milk sugar into acid.
-- e.g. A swollen juice packet: yeasts turned sugar into gas.
-- e.g. The smell of bad fish: bacteria cut the proteins into smelly pieces.
-- e.g. A soft, wet patch on a tomato: microbes cut the glue between the cells.
+- e.g. Milk turns sour because bacteria turn the milk sugar into acid.
+- e.g. A juice packet swells because yeasts turn sugar into gas.
+- e.g. Fish smells bad because bacteria cut the proteins into smelly pieces.
+- e.g. A soft, wet patch on a tomato appears because microbes cut the glue between the cells.
 ### Bacteria, yeasts and moulds: which spoils which food · *defined*
 **Definition:** Bacteria win on wet food that is not sour. Yeasts win on sweet or slightly sour liquid. Moulds win on food that is drier, sourer or saltier.
 
 All three kinds of microbe are nearly everywhere, so the food decides who grows first. Bacteria multiply fastest, but they need plenty of free water and little acid. Cooked rice, dal, milk, fish and meat suit them. Yeasts stand more sugar and more acid than most bacteria, so they spoil fruit juice and old fruit. Moulds grow slowly, but they stand dryness, salt and acid better than the others. They also need air. So moulds take the food that bacteria cannot use: bread, chapati, lemons, jam and the top of a pickle. This is why wet rice turns slimy in a day, while bread grows fuzz after several days. Knowing who will come tells you how to store the food.
-- e.g. Wet cooked rice in a bag: slimy and watery within two days, from bacteria.
-- e.g. Bread in a bag: fuzzy white, green or black spots after three to six days, from moulds.
-- e.g. A lemon: a blue-green mould patch after a week or more, and almost never slime.
+- e.g. Wet cooked rice in a bag turns slimy and watery within two days. Bacteria cause this.
+- e.g. Bread in a bag grows fuzzy white, green or black spots after three to six days. Moulds cause this.
+- e.g. A lemon grows a blue-green mould patch after a week or more. It almost never turns slimy.
 ### One microbe after another: how milk spoils in turns · *defined*
 **Definition:** Spoiling is often a line of different microbes. Each kind changes the food, and the change suits the next kind.
 
 Leave raw milk in a warm place and watch what scientists have seen many times. First, bacteria that eat milk sugar multiply and make acid. The milk turns sour and sets. The acid then stops those same bacteria. Next come yeasts and moulds, who can live in acid. They slowly use the acid up. When the sourness falls, a third group arrives: bacteria who digest protein. Now the milk smells rotten. Ecologists call such a line of changes a succession. The same word is used when bare ground turns to grass, then bushes, then forest. A bowl of milk passes through its own succession in a week or two.
-- e.g. Day 1: milk sugar bacteria multiply, and the milk turns sour.
-- e.g. Days 3 to 7: yeasts and moulds grow on the sour curd.
-- e.g. After that: protein-eating bacteria take over, and the smell turns rotten.
+- e.g. On day 1, bacteria that eat milk sugar multiply, and the milk turns sour.
+- e.g. On days 3 to 7, yeasts and moulds grow on the sour curd.
+- e.g. After that, bacteria that eat protein take over, and the smell turns rotten.
 ### Spoiled food and unsafe food are not the same · *defined*
 **Definition:** Spoilage microbes change how food looks and smells. Many microbes and toxins that make people ill change nothing you can see or smell.
 
@@ -103,10 +103,10 @@ Five habits follow from the science. First, cook only a little more than the fam
 **Definition:** Each food keeps longest in the place that blocks the way it is most likely to be lost.
 
 Dry foods such as rice, dal, atta, rava, sugar and salt are lost to damp and pests. Keep them dry and airtight, away from the stove and the sink. Potatoes, onions and garlic are alive. Keep them cool, dark and airy, in a basket and never in a closed plastic bag. Light turns a potato green, and the green part holds a bitter poison called solanine. A very cold fridge turns some of a potato's starch to sugar. Bananas turn black in the fridge. Most other fruit and vegetables keep longer in the fridge, loosely wrapped so they do not dry. Milk, curd, eggs, cooked food, cut fruit, fish and meat are perishable and belong in the fridge. Oils and ghee keep best closed, cool and dark, because air and light turn them rancid. Bread grows mould more slowly in the fridge, though it turns stale faster there.
-- e.g. Atta: an airtight steel dabba, because damp atta grows mould and draws beetles.
-- e.g. Potatoes: a dark, airy basket, because light turns them green.
-- e.g. Cooked dal: a shallow covered vessel in the fridge, because bacteria multiply in warm dal.
-- e.g. Cooking oil: a closed bottle away from the stove, because warmth and light turn oil rancid.
+- e.g. Keep atta in an airtight steel dabba, because damp atta grows mould and draws beetles.
+- e.g. Keep potatoes in a dark, airy basket, because light turns them green.
+- e.g. Keep cooked dal in a shallow covered vessel in the fridge, because bacteria multiply in warm dal.
+- e.g. Keep cooking oil in a closed bottle away from the stove, because warmth and light turn oil rancid.
 ### Keeping grain and dal for a year · *defined*
 **Definition:** Grain keeps for a year or more if it is dry enough, sealed from damp air and protected from insects.
 
@@ -181,7 +181,7 @@ In this unit you timed how long the middle of a heap of hot rice stayed hot. Her
 - *what is life:* A bacterium is so small that every part of them is close to their surface. Food gets in quickly and waste gets out quickly. That is one reason the smallest living beings multiply the fastest.
 - *what is this world:* The same rule works for a planet. The Earth is so big that its middle is still hot after four and a half billion years. A small asteroid cooled long ago.
 
-The rice on the plate and the rice in the bowl were the same rice, with the same few spores. Nothing about the rice made one safer than the other. The difference lay in how far each grain was from the air. So what happens to a thing depends on what it is made of. It also depends on how the thing meets the world around it. Many sages taught that nothing exists by itself, apart from everything else. The science here shows one exact case. The middle of a heap is what it is because of all the rice around it.
+The rice on the plate and the rice in the bowl were the same rice, with the same few spores. Nothing about the rice made one safer than the other. The difference lay in how far each grain was from the air. So what happens to a thing depends on what it is made of. It also depends on how the thing meets the world around it. Many sages taught that nothing exists by itself, apart from everything else. This unit shows one exact case of that idea. The middle of a heap is what it is because of all the rice around it.
 
 - **Bhagavad Gita 17.10:** The verse lists the foods that a dull and heavy mind prefers. One well-known commentary reads the first food on the list as food cooked more than one watch ago. A watch is about three hours. (On that reading, the verse sets a time limit on cooked food. The limit is near the two-hour rule of food safety. The Gita is speaking about the mind and its qualities. It does not speak about microbes, which nobody had seen.)
 - **J. B. S. Haldane, the essay 'On Being the Right Size' (1926):** A change in size changes what a body can do. An elephant has far less skin for each kilogram of body than a mouse has. So the elephant loses heat slowly, and the mouse must eat all day to stay warm. (Haldane wrote about mice and elephants. The same rule makes a wedding pot cool more slowly than a katori. Haldane later lived and worked in Kolkata and Bhubaneswar.)
@@ -199,7 +199,7 @@ The rice on the plate and the rice in the bowl were the same rice, with the same
 - *deep:* A covered pot of dal looks the same at night and the next morning. What can change in food without leaving any sign? (hint: Think of the doubling table. Which of your senses could count bacteria?)
 - *big:* When a safety rule works, nobody falls ill and nothing happens. How can anyone know that the rule worked? (hint: Compare many kitchens that follow the rule with many that do not.)
 - *big:* A cook throws away 30 kilograms of dal that might have been safe. Is that waste, or is it care? (hint: Who pays if she is wrong one way? Who pays if she is wrong the other way?)
-- *deep:* Milk spoils in turns, as each microbe changes it for the next. Is spoiling an ending, or a line of many lives? (hint: A forest also arrives in turns: grass, then bushes, then trees.)
+- *deep:* Milk spoils in turns, as each microbe changes it for the next. Is spoiling only the end of the food, or is it also a line of many microbes, each living its life in turn? (hint: A forest also arrives in turns: grass, then bushes, then trees.)
 - *big:* The two-hour rule is the same for a baby and for a wrestler. Should a rule be written for the strongest person, or for the weakest? (hint: Who sits at a wedding lunch? Who is harmed if the rule is too loose?)
 - *deep:* A potato in the basket is alive, and a cooked potato is not. When exactly did the potato stop being alive? (hint: Was it the peeling, the cutting or the heat? Could any piece still have grown?)
 
@@ -429,7 +429,7 @@ Mallika did not look up from the fire.
   *Parent does:* Search together for up to six foods that are past their best. Look for a sprouting onion or potato, limp leaves, a soft biscuit or old nuts. Look for a hard chapati, or insects in atta or rice. For each, your child writes what they see.  
   *Parent says:* Find foods that are no longer at their best. Look closely at each one. What do you see? What do you think happened to it?  
   *Child mode:* Find foods that are past their best. Look closely. What happened to each one?
-  - Note: A tidy kitchen may have only two or three. Then ask what your family threw away last week. Old groundnuts or old oil may be smelled from a distance for the sharp, rancid smell. Nothing is tasted.
+  - Note: A tidy kitchen may have only two or three. Then ask what your family threw away last week. A tidy kitchen may have only two or three. Then ask what your family threw away last week. You can smell old groundnuts or old oil from a little way off, because of the sharp, rancid smell. Nothing is tasted.
 - **s3 (3 min)**  
   *Parent does:* Read the list together. Sort the foods into groups by what happened to them. Then read out the five ways in the note below, and match each group to one.  
   *Parent says:* Sort your foods into groups. Which ones were lost in the same way? How many ways have you found?  
@@ -442,7 +442,7 @@ Mallika did not look up from the fire.
   *Parent does:* Draw the table. Explain the three rules in the note below. Then ask for a guess before any sums are done.  
   *Parent says:* Ten bacteria land in a bowl of dal. In a warm kitchen they double every 20 minutes. How many do you think there will be after six hours? Why do you think so?  
   *Child mode:* Ten bacteria double every 20 minutes. Guess how many there are after six hours.
-  - Note: The three rules. Warm kitchen, about 35 degrees Celsius: the number doubles every 20 minutes. Cool room, about 18 degrees: it doubles every 2 hours. Fridge, 4 degrees: it stays at 10. These are rounded figures for a common food bacterium, measured in laboratories. Most guesses are far too low.
+  - Note: Here are the three rules. In a warm kitchen, at about 35 degrees Celsius, the number doubles every 20 minutes. In a cool room, at about 18 degrees, it doubles every 2 hours. In a fridge, at 4 degrees, it stays at 10. These are rounded figures for a common food bacterium, measured in laboratories. Most children guess far too low.
 - **s2 (10 min)**  
   *Parent does:* Your child fills in the table. In the warm kitchen, three doublings an hour is times 8. In the cool room the number doubles at hours 2, 4 and 6. The fridge column stays at 10.  
   *Parent says:* Fill in the warm kitchen first. Three doublings in an hour is the same as times eight. Then fill in the cool room and the fridge.  
@@ -480,7 +480,7 @@ Mallika did not look up from the fire.
   *Parent does:* Put the two packs side by side. Your child finds on each: the words pasteurised or UHT, the storage instruction and the use-by or best-before date. Ask the question below first.  
   *Parent says:* Both of these are milk. One must stay in the fridge and lasts two days. The other sits on a shelf for months. What could make them so different? Why do you think so?  
   *Child mode:* One milk needs the fridge. One sits on a shelf for months. What makes them different?
-  - Note: No carton at home? A UHT carton says: store in a cool, dry place. Best before 120 or 180 days. Once opened, keep in the fridge and use within 2 days. Many children guess that a chemical is added. None is.
+  - Note: No carton at home? A UHT carton usually says to store it in a cool, dry place, with a best-before date of 120 or 180 days. It also says that once opened, it must be kept in the fridge and used within 2 days. Many children guess that a chemical is added. None is.
 - **s2 (5 min)**  
   *Parent does:* Fill in the table together, using the note below. Then ask what happens to each milk once it is opened.  
   *Parent says:* The pouch milk was heated to 72 degrees for 15 seconds. The carton milk was heated to about 140 degrees for a few seconds. Which heating would kill tough spores? What changes when the carton is opened?  
@@ -505,7 +505,7 @@ Mallika did not look up from the fire.
   *Parent does:* Your child fills in the table, one dish at a time. For each cross or change, they say the reason. Use the note below to check.  
   *Parent says:* Go through the dishes one by one. Who can eat it as it is? Who needs it changed, and how? Who should not have it at all? Tell me the reason each time.  
   *Child mode:* Fill in the table. Tick, cross or write a change. Say the reason each time.
-  - Note: Hot idli with sambar: fine for all. Mash it for the baby, without chilli. Honey: never for a baby under one year. Raw sprouts: steam them for the aunt, the grandmother and the cousin, and give none to the baby. Yesterday's rice: reheat until steaming for the others, and cook fresh food for the baby. Street-cut fruit: cut whole fruit at home for everyone. Unboiled milk: boil it for everyone. Soft-boiled egg: cook it firm for the baby, the aunt, the grandmother and the cousin. Curd rice: fine for all.
+  - Note: Hot idli with sambar is fine for everyone. Mash it for the baby, without chilli. Honey is never for a baby under one year. Raw sprouts should be steamed for the aunt, the grandmother and the cousin, and not given to the baby at all. Yesterday's rice should be reheated until it steams for the others, and the baby should have fresh food. Fruit cut at a street stall is best replaced by whole fruit cut at home, for everyone. Unboiled milk should be boiled for everyone. A soft-boiled egg should be cooked firm for the baby, the aunt, the grandmother and the cousin. Curd rice is fine for everyone.
 - **s3 (5 min)**  
   *Parent does:* Look at the finished table. Ask which dishes were safe for everyone, and what those dishes have in common.  
   *Parent says:* Which dishes got a tick for all five people? What do those dishes have in common? What does that tell a cook who has a baby or a grandmother at the table?  

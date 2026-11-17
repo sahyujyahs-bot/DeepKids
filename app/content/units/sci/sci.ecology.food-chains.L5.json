@@ -157,10 +157,10 @@
    "definition": "Herbivores eat plants. Carnivores eat other animals. Omnivores eat both. Scavengers eat animals that are already dead. Decomposers, mostly fungi and bacteria, break down whatever is left and return it to the soil.",
    "description": "These five words describe what a being eats, and many beings fit more than one. A jackal hunts and also scavenges. A bear eats fruit, honey, termites and fish. A crow does almost everything. So the groups are useful, but real animals do not always fit one group. Decomposers finish every chain. They break dead leaves, droppings and bodies into simple matter. Plants take that matter up through their roots and build new leaves with it. So matter goes round the web again and again, while each meal's energy is used and leaves as heat.",
    "examples": [
-    "Herbivores: horse, buffalo, elephant, chital. Carnivores: tiger, leopard, frog, cat.",
-    "Omnivores: human, crow, bear, peafowl. A dog eats many foods too.",
-    "Scavengers: vulture, hyena. A kite and a jackal scavenge and also hunt.",
-    "Decomposers: the mould on old bread, mushrooms, and soil bacteria too small to see."
+    "Herbivores include the horse, the buffalo, the elephant and the chital. Carnivores include the tiger, the leopard, the frog and the cat.",
+    "Omnivores include humans, crows, bears and peafowl. A dog eats many foods too.",
+    "Scavengers include vultures and hyenas. A kite and a jackal scavenge and also hunt.",
+    "Decomposers include the mould on old bread, mushrooms, and soil bacteria too small to see."
    ],
    "perspectives": [],
    "art": "Five panels: a buffalo grazing, a frog with a fly, a crow with fruit and a beetle, a vulture at a carcass, and mushrooms on a dead log."
@@ -383,7 +383,7 @@
    "hint": "Think of the Leaky Bottle. The level was steady, but the water in the bottle was never the same water."
   },
   {
-   "q": "A rat is a pest in a granary and food for an owl. Is 'pest' a fact about the rat, or about where we stand?",
+   "q": "A rat is a pest in a granary and food for an owl. Is being a pest a fact about the rat, or does it depend on who is looking?",
    "kind": "deep",
    "hint": "Try describing the same rat as the owl would, then as the farmer would."
   },
@@ -422,7 +422,7 @@
    "Zuali looked at her drawing. The owl had three chicks in one year. One rat mother might have twenty young before the rains ended, and those twenty would have young of their own. She looked at Sanga's string of forty tails. Then she looked out at the hills, where more fruit lay on the ground than all the rats in Mizoram could eat.",
    "\"Sanga,\" she said, \"you cannot win. The fruit is making rats faster than you can trap them. Faster than the owl and the snake can eat them, too.\"",
    "\"Then I will trap harder,\" said Sanga.",
-   "Zuali did not answer. She was looking at the arrow from the fruit to the rat. Something about that arrow worried her. The fruit would not lie there for ever. Already some of the fruits on the path had split, and a white root was pushing out of each one into the soil.",
+   "Zuali did not answer. She was looking at the arrow from the fruit to the rat. Zuali did not answer. She was looking at the arrow from the fruit to the rat, and it worried her. The fruit would not lie there for ever. Already some of the fruits on the path had split, and a white root was pushing out of each one into the soil. Already some of the fruits on the path had split, and a white root was pushing out of each one into the soil.",
    "\"Pi,\" she said slowly, \"when the fruit has all sprouted, what will the rats eat?\"",
    "Her grandmother put down her work.",
    "Zuali drew a rice plant on the floor. She drew an arrow from the rice to the rat. \"They are not here for our rice,\" she said. \"They came for the fruit. But the fruit will be finished just when the rice is ripe. Then all of them will come to the fields at once.\"",
@@ -470,67 +470,67 @@
      "items": [
       {
        "f": "Paddy → rat → rat snake. People kill the rat snakes. What happens to the rats? What happens to the paddy?",
-       "b": "Rats: more. Paddy: less. With fewer snakes, more rats live, and they eat more paddy."
+       "b": "The rats become more, and the paddy becomes less. With fewer snakes, more rats live, and they eat more paddy."
       },
       {
        "f": "Kelp → sea urchin → sea otter. Hunters kill almost all the sea otters. What happens to the urchins? What happens to the kelp?",
-       "b": "Urchins: more. Kelp: less. This really happened around islands in the North Pacific."
+       "b": "The urchins become more, and the kelp becomes less. This really happened around islands in the North Pacific."
       },
       {
        "f": "Starfish eat mussels. Mussels crowd other animals off the rock. A scientist removes the starfish. What happens to the mussels? What happens to the other animals?",
-       "b": "Mussels: more. Other animals: fewer. On Robert Paine's shore, the kinds of animals fell from 15 to 8."
+       "b": "The mussels become more, and the other animals become fewer. On Robert Paine's shore, the kinds of animals fell from 15 to 8."
       },
       {
        "f": "Vultures and stray dogs both eat dead cattle. A cattle medicine kills most of the vultures. What happens to the dead cattle left lying? What happens to the dogs?",
-       "b": "Dead cattle left lying: more. Dogs: probably more. This happened in India from the 1990s."
+       "b": "More dead cattle are left lying, and the dogs probably become more. This happened in India from the 1990s."
       },
       {
        "f": "Bamboo fruit → rat. Rice → rat. All the bamboo fruits at once. What happens to the rats? When the fruit is finished, what happens to the rice?",
-       "b": "Rats: more. Rice: less. People in Mizoram call this mautam."
+       "b": "The rats become more, and later the rice becomes less. People in Mizoram call this mautam."
       },
       {
        "f": "Paddy → brown planthopper → spider. Insect poison kills the spiders. Some planthoppers live through it. What happens to the planthoppers later? What happens to the paddy?",
-       "b": "Planthoppers: more. Paddy: less. This has happened in paddy fields across Asia."
+       "b": "The planthoppers become more, and the paddy becomes less. This has happened in paddy fields across Asia."
       },
       {
        "f": "Crop insects → frog. People catch most of the frogs to sell. What happens to the insects? What happens to the crops?",
-       "b": "Insects: more. Crops: less. India stopped the export of frogs' legs in 1987."
+       "b": "The insects become more, and the crops become less. India stopped the export of frogs' legs in 1987."
       },
       {
        "f": "Grass → chital → leopard. A disease kills most of the chital. What happens to the leopards? What happens to the grass?",
-       "b": "Leopards: fewer, unless they find other prey. Grass: more."
+       "b": "The leopards become fewer, unless they find other prey. The grass becomes more."
       },
       {
        "f": "Grass → hare. Lantana, a new shrub, shades out the grass. Hares do not eat lantana. What happens to the grass? What happens to the hares?",
-       "b": "Grass: less. Hares: fewer. A change at the bottom of a web passes upwards."
+       "b": "The grass becomes less, and the hares become fewer. A change at the bottom of a web passes upwards."
       },
       {
        "f": "Small lake fish → Nile perch. The Nile perch, a big hunting fish, is put into a lake for the first time. What happens to the small fish?",
-       "b": "Small fish: far fewer. In Lake Victoria, about 200 kinds of small fish died out."
+       "b": "The small fish become far fewer. In Lake Victoria, about 200 kinds of small fish died out."
       },
       {
        "f": "Hare → lynx. The hares become many this year. What happens to the lynx? Does it happen this year or later?",
-       "b": "Lynx: more, but a year or two later. Raising young takes time."
+       "b": "The lynx become more, but a year or two later. Raising young takes time."
       },
       {
        "f": "Paddy → rat → barn owl. A farmer puts up perches, and more owls come to hunt. What happens to the rats? What happens to the paddy?",
-       "b": "Rats: fewer. Paddy: more. Helping a predator can protect a crop."
+       "b": "The rats become fewer, and the paddy becomes more. Helping a predator can protect a crop."
       },
       {
        "f": "Fig tree → barbet. Fig tree → langur. The fig trees in a forest are cut. What happens to the barbets? What happens to the langurs?",
-       "b": "Barbets: fewer. Langurs: fewer, though langurs can also eat leaves. A fig tree feeds many beings."
+       "b": "The barbets become fewer. The langurs also become fewer, though langurs can eat leaves too. A fig tree feeds many beings."
       },
       {
        "f": "Paddy → rat → snake. Paddy → grasshopper → frog → snake. The snakes are killed. What happens to the paddy? Think about both paths.",
-       "b": "Hard to say. More rats eat more paddy. But more frogs eat more grasshoppers, which helps the paddy. Only counting in a real field can tell."
+       "b": "It is hard to say. More rats eat more paddy. But more frogs eat more grasshoppers, which helps the paddy. Only counting in a real field can tell."
       },
       {
        "f": "Grass → grasshopper → frog. A drought dries up the grass. What happens to the grasshoppers? What happens to the frogs?",
-       "b": "Grasshoppers: fewer. Frogs: fewer. Less food at the bottom means fewer eaters all the way up."
+       "b": "The grasshoppers become fewer, and so do the frogs. Less food at the bottom means fewer eaters all the way up."
       },
       {
        "f": "Fish → people. Fish → river dolphin. People catch far more fish than before. What happens to the fish? What happens to the dolphins?",
-       "b": "Fish: fewer. Dolphins: fewer. Two eaters who share one food affect each other."
+       "b": "The fish become fewer, and so do the dolphins. Two eaters who share one food affect each other."
       }
      ]
     }
@@ -1964,7 +1964,7 @@
      "do": "1. Write 'The forest is cut' on a slip and put it in the middle. 2. Ask what is lost at once when the trees go. 3. Write each answer on its own slip and place the slips around the first one.",
      "say": "A forest has been cut down. What is gone straight away? Think of food, of homes, and of the ground.",
      "kid": "Write 'The forest is cut' on a slip. What is lost at once? Write each answer on a new slip. Put the slips around the first one.",
-     "parent": "First-ring answers: no leaves, fruit or seeds to eat. No shade, nests or hiding places. Bare soil with no roots or fallen leaves. Fewer leaves giving out water vapour and taking in carbon dioxide.",
+     "parent": "The first answers are these. There are no leaves, fruit or seeds to eat. There is no shade, no nest and no hiding place. The soil is bare, with no roots or fallen leaves. And fewer leaves are left to give out water vapour and take in carbon dioxide.",
      "context": "This is the first step of If the Forest Is Cut. Here you write down what is lost at once when a forest is cut."
     },
     {
@@ -1973,7 +1973,7 @@
      "do": "1. Point to each slip in turn and ask, 'And then what?' 2. Write each new result on a slip and place it further out. 3. Draw an arrow from each cause to its result. 4. Go on until you have at least 12 slips.",
      "say": "The herbivores have no leaves to eat. And then what? The soil is bare. What happens when heavy rain falls on it?",
      "kid": "Point to each slip. Ask 'and then what?' Write the new result. Place it further out. Make at least 12 slips.",
-     "parent": "Second-ring answers: herbivores starve or leave. Then carnivores have no prey. Animals come into fields and villages for food. Rain runs off bare soil, so floods are worse and the soil washes away. Less water soaks in, so wells and streams dry sooner. More carbon dioxide stays in the air.",
+     "parent": "The next answers are these. Herbivores starve or leave. Then carnivores have no prey. Animals come into fields and villages for food. Rain runs off bare soil, so floods are worse and the soil washes away. Less water soaks in, so wells and streams dry sooner. More carbon dioxide stays in the air.",
      "context": "This is the main step of If the Forest Is Cut. For each result you ask what follows next, and the map grows outward."
     },
     {
@@ -3023,7 +3023,7 @@
   },
   {
    "t": "mcq",
-   "p": "Hares suddenly have much more food. When do the lynx who eat hares become more?",
+   "p": "Hares suddenly have much more food. Hares suddenly get much more food. When will the number of lynx who eat hares rise?",
    "opts": [
     "In the same week",
     "Before the hares do",
@@ -3418,7 +3418,7 @@
    [
     "An arrow in a food web points from the food to the eater.",
     true,
-    "It shows the way the food goes."
+    "It shows which way the food travels, from the one who is eaten to the one who eats."
    ],
    [
     "A frog is a herbivore.",
@@ -3612,7 +3612,7 @@
    "what_is_life": "No animal feeds alone. Each one lives on those they eat, and feeds those who eat them. Even the young who die early feed someone.",
    "what_is_this_world": "The world is a web. A change in one place arrives in another place later, often where nobody expected it."
   },
-  "thread": "All the food in a web begins as sunlight caught by producers. That one supply of food passes into grass, hare, dhole and leopard. Each of them is a different living shape built from the same food. So the many beings of a forest all live on one shared supply. This is why none of them can be counted alone. To know what one of them does, you have to look at the others they are joined to.",
+  "thread": "All the food in a web begins as sunlight caught by producers. That one supply of food passes into grass, hare, dhole and leopard. All the food in a web begins as sunlight caught by producers. That one supply of food passes into grass, hare, dhole and leopard. Each of them is built from the same food, in a different body. So the many beings of a forest all live on one shared supply. This is why none of them can be understood alone. To know what one of them does, you have to look at the others they are joined to.",
   "teachings": [
    {
     "source": "Samyutta Nikaya 12.61, the Buddha's teaching of dependent arising",

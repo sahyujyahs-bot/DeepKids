@@ -3,7 +3,7 @@
   "title": "Organ systems: how the organs inside you share parts and work together",
   "level": 5,
   "summary": {
-    "text": "Sitting still, a child can count aloud for about 20 seconds on one breath. Straight after a minute of step-ups, the same child manages about 6 seconds. The lungs did not shrink. The voice uses the air that the lungs breathe out. After exercise the body needs to change that air sooner. Your organs are grouped into organ systems, such as the digestive, respiratory and circulatory systems. Some organs work in two systems, and the systems hand things to each other all day. Your child times their own voice, shares out 100 beans as blood, and measures their skin with one hand.",
+    "text": "Sitting still, a child can count aloud for about 20 seconds on one breath. Straight after a minute of step-ups, the same child manages about 6 seconds. The lungs did not shrink. The voice uses the air that the lungs breathe out. After exercise your muscles use up oxygen fast, so your body makes you breathe in again much sooner. That cuts your voice short. Your organs are grouped into organ systems, such as the digestive, respiratory and circulatory systems. Some organs work in two systems, and the systems hand things to each other all day. Your child times their own voice, shares out 100 beans as blood, and measures their skin with one hand.",
     "art": "A girl sitting on a step with a hand on her chest, counting aloud, while her mother holds a phone stopwatch. A faint outline inside the girl shows her lungs, windpipe and voice box."
   },
   "intro": {
@@ -79,7 +79,7 @@
     },
     {
       "term": "Artery, vein and capillary",
-      "meaning": "Three kinds of blood vessel. Arteries carry blood away from the heart, and veins carry it back. Capillaries are the finest vessels, which join them.",
+      "meaning": "Three kinds of blood vessel. Arteries carry blood away from the heart, and veins carry it back. Capillaries are the finest vessels, and they join the arteries to the veins.",
       "example": "The pulse in your wrist is an artery. The blue lines on the back of your hand are veins.",
       "art": "A thick red tube branching into a net of hair-thin vessels and joining again into a blue tube."
     },
@@ -163,10 +163,10 @@
       "definition": "An organ system is a group of organs that work together on one big job for the whole body.",
       "description": "Your body is built in levels. The smallest living unit is the cell, and a grown-up has about 30 trillion of them. Cells of one kind form a tissue, such as muscle tissue or nerve tissue. Several tissues together form an organ, such as the heart. Several organs together form an organ system. Books usually list about ten systems. This unit uses nine: skeletal, muscular, digestive, respiratory, circulatory, excretory, nervous, hormone and reproductive. Doctors call the hormone system the endocrine system. The skin, hair and nails are often counted as one more system. No organ system can keep the body alive without the others.",
       "examples": [
-        "Level 1, a cell: one heart muscle cell.",
-        "Level 2, a tissue: heart muscle tissue.",
-        "Level 3, an organ: the heart.",
-        "Level 4, an organ system: the heart, the blood vessels and the blood form the circulatory system."
+        "Level 1 is a cell. One example is a single heart muscle cell.",
+        "Level 2 is a tissue. One example is heart muscle tissue.",
+        "Level 3 is an organ. One example is the heart.",
+        "Level 4 is an organ system. The heart, the blood vessels and the blood together form the circulatory system."
       ],
       "perspectives": [],
       "art": "Four drawings in a row joined by arrows: one muscle cell, a patch of muscle tissue, a heart, and a body outline with the heart and blood vessels."
@@ -177,10 +177,10 @@
       "definition": "The skeletal system is the bones and joints. The muscular system is the muscles that move the bones and the muscles inside organs.",
       "description": "A grown-up has 206 bones. A newborn baby has about 300 separate pieces, and many of them join as the child grows. The skeleton does five jobs. It gives the body its shape. It protects soft organs: the skull guards the brain, and the ribs guard the heart and lungs. It gives the muscles something to pull on. Its marrow makes blood cells. It also stores calcium. Bones meet at joints. The knee and the elbow bend like a door hinge. The shoulder and the hip turn in a circle. The joints of the skull are fixed and do not move. Strong bands called ligaments tie bone to bone, and cords called tendons tie muscle to bone. A muscle can only pull, never push. So muscles work in pairs. The biceps bends the elbow, and the triceps at the back straightens it. Muscles joined to bones are voluntary: you choose when to move them. The muscles in the walls of the stomach, the intestines and the blood vessels are involuntary. Heart muscle is a third kind. Heart muscle is involuntary and never rests.",
       "examples": [
-        "Voluntary: the muscles of your arms, legs, fingers, tongue and face.",
-        "Involuntary: the muscles that squeeze food along the intestines.",
-        "Both: you can blink on purpose, but your eyelids also blink without you choosing.",
-        "A fixed joint: the wavy lines where the bones of the skull meet."
+        "Voluntary muscles include the muscles of your arms, legs, fingers, tongue and face.",
+        "Involuntary muscles include the ones that squeeze food along your intestines.",
+        "Some muscles can work both ways. You can blink on purpose, but your eyelids also blink without you choosing.",
+        "A fixed joint is one that does not move. The wavy lines where the bones of your skull meet are fixed joints."
       ],
       "perspectives": [],
       "art": "A child bending her elbow to lift a bag, with the bones of the arm drawn inside and the front muscle shown short and fat, the back muscle long and thin."
@@ -205,7 +205,7 @@
       "description": "Air enters through the nose, where hairs and sticky mucus catch dust. The air passes through the throat and the voice box, and down the windpipe. The windpipe splits into two tubes called bronchi, one for each lung. The tubes branch again and again and end in tiny air bags called alveoli. Each alveolus is wrapped in capillaries. Oxygen passes from the air in the alveolus into the blood. Carbon dioxide passes from the blood into the air. This swap is called gas exchange. The lungs have no muscle of their own. A sheet of muscle under them, the diaphragm, pulls down, and the rib muscles lift the ribs. The chest gets bigger and air flows in. When these muscles relax, air flows out. The brainstem sets the pace. It measures carbon dioxide in the blood, and when there is more, it makes you breathe faster and deeper.",
       "examples": [
         "The path of air: nose, throat, voice box, windpipe, bronchi, alveoli.",
-        "Breathed-in air is about 21 parts oxygen in 100. Breathed-out air is about 16 parts in 100.",
+        "Out of every 100 parts of the air you breathe in, about 21 are oxygen. In the air you breathe out, about 16 are oxygen.",
         "The urge to breathe after a run comes mainly from extra carbon dioxide in the blood."
       ],
       "perspectives": [],
@@ -243,10 +243,10 @@
       "definition": "The nervous system sends fast signals along nerves. The hormone system sends slower chemical messages through the blood.",
       "description": "The nervous system is the brain, the spinal cord and the nerves. The brain has three main parts. The cerebrum is the large wrinkled part at the top. It thinks, remembers, speaks, makes sense of what the eyes and ears send, and starts movements you choose. The cerebellum sits at the back, under the cerebrum. It keeps your balance and makes practised movements smooth. The brainstem joins the brain to the spinal cord. It runs breathing, heartbeat and swallowing, and you do not have to think about any of them. The spinal cord runs down inside the backbone. Nerves branch from it to every part of the body. The hormone system is a set of glands. A gland makes a hormone and releases it into the blood. The hormone travels everywhere, but only organs with the right receptors answer. A nerve signal arrives in a fraction of a second. A hormone takes seconds, minutes or hours, and its effect lasts longer.",
       "examples": [
-        "Cerebrum: reading this sentence and deciding to turn the page.",
-        "Cerebellum: catching a ball, or walking without watching your feet.",
-        "Brainstem: breathing while you sleep.",
-        "A hormone: adrenaline from the adrenal glands, which makes the heart beat faster when you get a fright."
+        "Your cerebrum is working when you read this sentence and decide to turn the page.",
+        "Your cerebellum is working when you catch a ball, or walk without watching your feet.",
+        "Your brainstem is working when you breathe while you sleep.",
+        "Adrenaline is a hormone made by the adrenal glands. It makes your heart beat faster when you get a fright."
       ],
       "perspectives": [],
       "art": "A side view of a head showing the brain in three colours, top, lower back and stalk, with the spinal cord running down and small glands marked in the neck and above the kidneys."
@@ -268,12 +268,12 @@
       "concept": "One organ, two systems: parts that are shared",
       "status": "defined",
       "definition": "Many organs do work for more than one organ system.",
-      "description": "The lists of systems look tidy in a book, but several organs appear on two lists. The throat carries air for the respiratory system and food for the digestive system. When you swallow, the voice box lifts, the epiglottis folds over the windpipe, and breathing stops for about one second. The voice box makes your voice from breathed-out air, so talking and breathing share one stream of air. The pancreas makes digestive juice, and it also makes the hormones insulin and glucagon. Bones belong to the skeleton, and their marrow makes the cells of the blood. The diaphragm is a muscle, and it does the work of breathing. The liver makes bile for digestion, makes urea for the kidneys to remove, and stores sugar for every organ. The kidneys make urine. They also make a hormone that tells the bone marrow to make more red blood cells. When two systems share one part, they cannot both use it fully at the same moment. In the One Breath Count you measure this. After exercise, your body needs the air for gas exchange, so less of each breath is left for your voice.",
+      "description": "The lists of systems look tidy in a book, but several organs appear on two lists. The throat carries air for the respiratory system and food for the digestive system. When you swallow, the voice box lifts, the epiglottis folds over the windpipe, and breathing stops for about one second. The voice box makes your voice from breathed-out air, so talking and breathing share one stream of air. The pancreas makes digestive juice, and it also makes the hormones insulin and glucagon. Bones belong to the skeleton, and their marrow makes the cells of the blood. The diaphragm is a muscle, and it does the work of breathing. The liver makes bile for digestion, makes urea for the kidneys to remove, and stores sugar for every organ. The kidneys make urine. They also make a hormone that tells the bone marrow to make more red blood cells. When two systems share one part, they cannot both use it fully at the same moment. In the One Breath Count you measure this. After exercise, your body needs fresh air for gas exchange, so less of each breath is left for your voice.",
       "examples": [
-        "Throat: digestive and respiratory.",
-        "Pancreas: digestive and hormone.",
-        "Thigh bone: skeletal and circulatory, because the marrow makes blood cells.",
-        "Ovaries and testes: reproductive and hormone."
+        "The throat works for the digestive system and for the respiratory system.",
+        "The pancreas works for the digestive system and for the hormone system.",
+        "The thigh bone works for the skeletal system and for the circulatory system, because the marrow inside it makes blood cells.",
+        "The ovaries and the testes work for the reproductive system and for the hormone system."
       ],
       "perspectives": [],
       "art": "A body outline with five organs circled, throat, pancreas, thigh bone, diaphragm and kidney, each circle drawn half in one colour and half in another."
@@ -282,11 +282,11 @@
       "concept": "Systems working together: handing things over",
       "status": "defined",
       "definition": "Every job the body does needs several organ systems, each passing something to the next.",
-      "description": "Take climbing three floors of stairs. The cerebrum decides to climb, and nerves carry signals to the leg muscles. The muscles pull on the bones. Working muscle cells need more oxygen and more sugar. The lungs pass oxygen to the blood. The small intestine passed sugar to the blood after breakfast, and the liver adds more from its glycogen. The heart pumps the blood to the muscles. The muscles hand back carbon dioxide and heat. The blood carries the carbon dioxide to the lungs and the heat to the skin. The brainstem senses the extra carbon dioxide and speeds up the breathing and the heart. The blood itself is shared out again. At rest, a grown-up's heart pumps about 5 litres a minute. The gut, the liver and the kidneys take almost half of it. In hard exercise the heart can pump about 20 litres a minute, and roughly four fifths goes to the muscles. The gut and the kidneys get less than half of what they had at rest, so digestion slows. The brain gets about the same amount as before. You model this with beans in the Hundred Beans.",
+      "description": "Take climbing three floors of stairs. The cerebrum decides to climb, and nerves carry signals to the leg muscles. The muscles pull on the bones. Working muscle cells need more oxygen and more sugar. The lungs pass oxygen to the blood. The small intestine passed sugar to the blood after breakfast, and the liver adds more from its glycogen. The heart pumps the blood to the muscles. The muscles hand back carbon dioxide and heat. The blood carries the carbon dioxide to the lungs and the heat to the skin. The brainstem senses the extra carbon dioxide and speeds up the breathing and the heart. The blood is also shared out in a new way, compared with when the body is resting. At rest, a grown-up's heart pumps about 5 litres a minute. The gut, the liver and the kidneys take almost half of it. In hard exercise the heart can pump about 20 litres a minute, and roughly four fifths goes to the muscles. The gut and the kidneys get less than half of what they had at rest, so digestion slows. The brain gets about the same amount as before. You model this with beans in the Hundred Beans.",
       "examples": [
-        "Eating a dosa: muscles chew, the digestive system digests, the blood carries the sugar, the pancreas sends insulin.",
-        "A hot afternoon: the skin sweats, the kidneys save water, the brain makes you thirsty.",
-        "A fright: the adrenal glands send adrenaline, the heart speeds up, the muscles get ready."
+        "When you eat a dosa, your muscles chew it and the digestive system digests it. The blood carries the sugar, and the pancreas sends insulin.",
+        "On a hot afternoon, your skin sweats, your kidneys save water, and your brain makes you feel thirsty.",
+        "When you get a fright, the adrenal glands send adrenaline, your heart speeds up, and your muscles get ready to move."
       ],
       "perspectives": [],
       "art": "A girl climbing stairs with small labelled arrows inside her outline: oxygen from lungs to blood, sugar from liver to blood, blood to leg muscles, carbon dioxide back to lungs, heat to skin."
@@ -297,9 +297,9 @@
       "definition": "",
       "description": "For a long time, people pictured the brain as the one organ that gives orders. We now know that many organs send messages of their own through the blood. In 1981 Adolfo de Bold and his team in Canada found that the heart makes a hormone. When too much blood stretches the heart, this hormone tells the kidneys to let out more salt and water. In 1994 Jeffrey Friedman's team in New York found leptin. Leptin is a hormone made by body fat that tells the brain how much fat is stored. The stomach and the intestines make hormones that tell the brain about hunger and fullness. Working muscles release chemicals too. Scientists are still finding out what those do. In 2007 Gerard Karsenty's team reported that bone makes a hormone that changes how mice handle sugar. Other teams have not found the same effect, so this one is still argued.",
       "examples": [
-        "Settled: the heart, the fat, the gut and the kidneys all make hormones.",
-        "Still argued: whether a hormone from bone changes how the body handles sugar.",
-        "Not yet known: how many such messages there are, and what they all do."
+        "This is settled: the heart, body fat, the gut and the kidneys all make hormones.",
+        "This is still argued: whether a hormone from bone changes how the body handles sugar.",
+        "This is not yet known: how many such messages there are, and what they all do."
       ],
       "perspectives": [
         {
@@ -340,10 +340,10 @@
       "definition": "Every animal must take in food and oxygen, move them around and remove wastes. Different animals use different organs and plans to do it.",
       "description": "Humans are one kind of animal, and our plan is one among many. In whales and dolphins, the windpipe leads to the blowhole on top of the head. Their air and their food take separate paths, so they do not share a throat the way we do. A fish has a heart with two chambers, and the blood makes one loop: heart, gills, body, heart. A frog's heart has three chambers. Birds and mammals have four chambers and two loops. An insect has no lungs. Fine air tubes run from holes along the insect's sides to every part of the body. The insect's blood carries food but almost no oxygen, so breathing and blood are separate there. A bird's lungs are joined to air bags, and air flows through the lungs in one direction. An earthworm breathes through their damp skin, so the skin is their breathing organ.",
       "examples": [
-        "Whale: separate paths for air and food.",
-        "Insect: air tubes deliver oxygen without blood.",
-        "Fish: a two-chambered heart and one loop.",
-        "Earthworm: skin does the work of lungs."
+        "In a whale, air and food take separate paths.",
+        "An insect has air tubes that bring oxygen to the body without using blood.",
+        "A fish has a heart with two chambers, and the blood makes one loop.",
+        "An earthworm breathes through their skin, so the skin does the work of lungs."
       ],
       "perspectives": [],
       "art": "Four small panels: a dolphin with an arrow to the blowhole, a fish with a one-loop blood path, a grasshopper with dots along the side, and an earthworm on damp soil."
@@ -453,7 +453,7 @@
     "title": "Sadugudu on One Breath",
     "mins": 10,
     "read_aloud": true,
-    "note": "The people in this story are made up. The rule is real. Many people in Tamil Nadu call kabaddi sadugudu. A raider must chant the word aloud on one breath for the whole raid. If the chant stops, the raider is out. In today's professional matches a raid is also limited to 30 seconds by a clock. The science is real too: the voice uses breathed-out air, and after hard running the body needs to change its air much sooner.",
+    "note": "The people in this story are made up. The rule is real. Many people in Tamil Nadu call kabaddi sadugudu. A raider must chant the word aloud on one breath for the whole raid. If the chant stops, the raider is out. In today's professional matches a raid is also limited to 30 seconds by a clock. The science is real too: the voice uses breathed-out air, and after hard running after hard running the body needs fresh air much sooner, so the chant is cut short.",
     "text": [
       "In Yazhini's village near Thanjavur, the game was called sadugudu. The school called it kabaddi. Under both names, the rule that mattered was the same.",
       "A raider crosses the middle line alone. She must touch one of the seven girls on the other side and get home again. From the moment she crosses the line until she is back, she must chant the word aloud: sadugudu, sadugudu, sadugudu. She must do it all on a single breath. If the chant stops, or if she takes a second breath, she is out.",
@@ -719,51 +719,51 @@
           "items": [
             {
               "f": "You run for the school bus.",
-              "b": "Nervous: decides and signals. Muscular and skeletal: move you. Respiratory: more oxygen. Circulatory: carries it. Hormone: adrenaline."
+              "b": "Your nervous system decides to run and signals the muscles. Your muscular and skeletal systems move you. Your respiratory system takes in more oxygen, and your circulatory system carries it to the muscles. Your hormone system sends adrenaline."
             },
             {
               "f": "You eat a masala dosa.",
-              "b": "Muscular: chewing and squeezing along. Digestive: breaks the food down. Circulatory: carries the sugar. Hormone: insulin. Nervous: taste and fullness."
+              "b": "Your muscular system chews the food and squeezes it along. Your digestive system breaks the food down. Your circulatory system carries the sugar to the cells. Your hormone system sends insulin. Your nervous system gives you the taste and tells you when you are full."
             },
             {
               "f": "You catch a steel tumbler as it falls.",
-              "b": "Nervous: the eye sees and the brain signals. Muscular and skeletal: the arm moves. Circulatory: feeds the muscles."
+              "b": "Your nervous system sees the tumbler with the eye and signals the arm. Your muscular and skeletal systems move the arm. Your circulatory system brings the muscles their oxygen and food."
             },
             {
               "f": "You sleep through the night.",
-              "b": "Respiratory: breathing goes on. Circulatory: the heart beats. Nervous: the brainstem runs both. Excretory: the kidneys keep filtering. Hormone: growth hormone."
+              "b": "Your respiratory system keeps breathing. Your circulatory system keeps the heart beating. Your nervous system, through the brainstem, runs both. Your excretory system keeps filtering the blood in the kidneys. Your hormone system sends growth hormone."
             },
             {
               "f": "You stand in the hot May sun.",
-              "b": "Nervous: senses the heat. Circulatory: sends blood to the skin. Excretory: sweat, and the kidneys save water. Hormone: a message to the kidneys."
+              "b": "Your nervous system senses the heat. Your circulatory system sends blood to the skin to lose heat. Your excretory system sweats, and the kidneys save water. Your hormone system sends a message to the kidneys to save water."
             },
             {
               "f": "You drink two tumblers of water.",
-              "b": "Digestive: the gut absorbs the water. Circulatory: carries it. Excretory: the kidneys let the spare water out. Hormone: tells the kidneys how much. Muscular: the bladder wall."
+              "b": "Your digestive system takes the water into the blood through the gut wall. Your circulatory system carries it. Your excretory system lets the spare water out through the kidneys. Your hormone system tells the kidneys how much to let out. Your muscular system squeezes the bladder wall when you pass urine."
             },
             {
               "f": "You sing a song.",
-              "b": "Respiratory: breath and voice box. Muscular: diaphragm, tongue and lips. Nervous: remembers the words and the tune. Circulatory: feeds the brain and muscles."
+              "b": "Your respiratory system gives you the breath, and the voice box makes the sound. Your muscular system moves the diaphragm, tongue and lips. Your nervous system remembers the words and the tune. Your circulatory system feeds the brain and muscles."
             },
             {
               "f": "A dog barks suddenly and you jump.",
-              "b": "Nervous: the ear hears and the brain reacts. Hormone: adrenaline. Circulatory: the heart speeds up. Muscular: you jump. Respiratory: you breathe faster."
+              "b": "Your nervous system hears the bark with the ear, and the brain reacts. Your hormone system sends adrenaline. Your circulatory system speeds up the heart. Your muscular system makes you jump. Your respiratory system makes you breathe faster."
             },
             {
               "f": "You climb to the third floor.",
-              "b": "Muscular and skeletal: legs. Respiratory and circulatory: oxygen. Digestive: the sugar came from breakfast. Excretory: carbon dioxide leaves by the lungs. Nervous: balance."
+              "b": "Your muscular and skeletal systems move your legs. Your respiratory and circulatory systems bring in the oxygen and carry it to the muscles. Your digestive system supplied the sugar at breakfast. Your excretory system lets the carbon dioxide leave through the lungs. Your nervous system keeps your balance."
             },
             {
               "f": "A cut on your finger heals.",
-              "b": "Circulatory: blood clots and brings cells. Skeletal: the marrow made those cells. Nervous: pain warns you. Digestive: supplies building material."
+              "b": "Your circulatory system makes the blood clot and brings repair cells. Your skeletal system helps, because the marrow made those cells. Your nervous system warns you with pain. Your digestive system supplies the building material."
             },
             {
               "f": "You shiver on a cold morning in Ooty.",
-              "b": "Nervous: senses the cold. Muscular: shivering makes heat. Circulatory: less blood to the skin. Hormone: tells cells to burn more fuel."
+              "b": "Your nervous system senses the cold. Your muscular system shivers, and shivering makes heat. Your circulatory system sends less blood to the skin to keep heat in. Your hormone system tells cells to burn more fuel."
             },
             {
               "f": "You grow 5 centimetres in a year.",
-              "b": "Hormone: growth hormone. Skeletal: bones lengthen. Digestive: supplies protein and calcium. Circulatory: carries them. Muscular: muscles grow too."
+              "b": "Your hormone system sends growth hormone. Your skeletal system lengthens the bones. Your digestive system supplies protein and calcium. Your circulatory system carries them to the bones. Your muscular system grows too."
             }
           ]
         },
@@ -1747,7 +1747,7 @@
               ]
             }
           ],
-          "parent": "A full map has at least these arrows. Brain to muscles: signals. Lungs to blood: oxygen. Small intestine to blood: sugar from breakfast. Liver to blood: stored sugar. Blood to muscles: oxygen and sugar. Muscles to blood: carbon dioxide and heat. Blood to lungs: carbon dioxide. Blood to skin: heat. Blood to kidneys: urea and spare water. Blood to brain: news of the carbon dioxide level. Brain to heart and lungs: signals to work faster.",
+          "parent": "A full map has at least these arrows. The brain sends signals to the muscles. The lungs pass oxygen to the blood. The small intestine passes sugar from breakfast to the blood. The liver passes stored sugar to the blood. The blood carries oxygen and sugar to the muscles. The muscles hand carbon dioxide and heat back to the blood. The blood carries carbon dioxide to the lungs and heat to the skin. The blood carries urea and spare water to the kidneys. The blood tells the brain how much carbon dioxide there is. The brain then sends signals to the heart and lungs to work faster.",
           "context": "In this step of the Handover Map, you draw an arrow for each thing that one organ hands to another."
         },
         {
@@ -2180,7 +2180,7 @@
           "t": "write",
           "p": "Straight after step-ups, you can count for far less time on one breath. Explain why.",
           "lines": 4,
-          "a": "The voice uses air that is leaving the lungs. After step-ups the muscles have used oxygen and made carbon dioxide. The body must change its air sooner, so the breath out is cut short.",
+          "a": "The voice uses air that is leaving the lungs. After step-ups the muscles have used oxygen and made carbon dioxide. The body must breathe in fresh air sooner, so the breath out is cut short.",
           "why": "A strong answer says that the voice and the breathing share the same air. It also says that exercise makes the body need fresh air sooner.",
           "outcome": 5,
           "how": "e1"
@@ -2427,9 +2427,9 @@
             "Brainstem"
           ],
           "a": [
-            "Cerebrum: the large top part. Thinking, memory, speech and chosen movement",
-            "Cerebellum: the small part at the lower back. Balance and smooth movement",
-            "Brainstem: the stalk at the base. Breathing, heartbeat and swallowing"
+            "The cerebrum is the large top part. It does thinking, memory, speech and chosen movement.",
+            "The cerebellum is the small part at the lower back. It keeps your balance and makes movement smooth.",
+            "The brainstem is the stalk at the base. It runs breathing, heartbeat and swallowing."
           ],
           "why": "The cerebrum is by far the largest part. The cerebellum sits under it at the back, and the brainstem leads down to the spinal cord.",
           "art": "A side view of a brain with three blank label lines.",
@@ -2716,7 +2716,7 @@
       "t": "mcq",
       "p": "Why is a one-breath count shorter straight after exercise?",
       "opts": [
-        "The body must change its air sooner",
+        "The body must breathe in fresh air sooner",
         "The lungs have become smaller",
         "The voice box is tired",
         "The room has less air"
@@ -3094,7 +3094,7 @@
     },
     {
       "q": "Why can you not talk for long straight after a run?",
-      "a": "Your voice uses breathed-out air, and your body needs to change its air sooner."
+      "a": "Your voice uses breathed-out air. After a run your body needs fresh air sooner, so you have to breathe in again before you can keep talking."
     },
     {
       "q": "Which organ makes urea, and which removes it?",
@@ -3303,10 +3303,10 @@
     },
     "three": {
       "who_am_i": "You speak with your breath, and you breathe through the passage you eat with. Talking, eating and breathing are done by one body, using the same few parts in turn.",
-      "what_is_life": "A living body does many jobs with few parts. So the parts must share and take turns every second, and most of this happens without your deciding.",
+      "what_is_life": "A living body does many jobs with only a few parts. So the parts must share and take turns every second. Most of this happens without you deciding anything.",
       "what_is_this_world": "A whale, a grasshopper and a child all need food and oxygen, and each body is arranged differently. The names of the systems come from the people who study bodies."
     },
-    "thread": "You began as one cell. That cell divided, and its daughter cells became bone, muscle, nerve, blood and gut. So all your organs are the descendants of one cell, doing different work. They never became fully separate. They share one supply of blood, one throat and one stream of air. When we name nine systems, we are describing one body from nine sides.",
+    "thread": "You began as one cell. That cell divided, and its daughter cells became bone, muscle, nerve, blood and gut. So all your organs are the descendants of one cell, doing different work. They never became fully separate. They share one supply of blood, one throat and one stream of air. When we name nine systems, we are describing one body, and each system is a different way of looking at it.",
     "teachings": [
       {
         "source": "Taittiriya Upanishad 2.1 to 2.5",
