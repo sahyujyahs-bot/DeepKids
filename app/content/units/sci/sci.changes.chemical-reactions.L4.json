@@ -2282,31 +2282,28 @@
  ],
  "videos": [
   {
-   "title": "Steel wool rusting in an upturned tube standing in water, speeded up",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "A Time-lapse of the Rusting of Steel Wool",
+   "channel": "Science Skool",
+   "youtube": "18xaiw8Ni0M",
    "mins": 3,
    "why": "To watch in a minute what the Rust Uses Up Air experiment shows over three days.",
-   "check": "No address yet. Find a time-lapse from a school or university chemistry channel. Check that the water stops at about one fifth of the air space. The clip should say that oxygen is used up."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Sodium metal reacting with chlorine gas to make table salt",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Burning lithium, sodium and potassium in chlorine gas",
+   "channel": "Nigel Baldwin",
+   "youtube": "q4LV_E5Pyt4",
    "mins": 3,
    "why": "To see a burning metal and a poisonous gas turn into the salt we eat. This reaction cannot be done at home.",
-   "check": "No address yet. Find a laboratory demonstration from a university or a science museum. Check that it names both reactants and the product, and that it warns viewers not to try it."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "What happens to the atoms in a chemical reaction, shown as an animation",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What happens during Chemical Reactions?",
+   "channel": "ScienceGonnaGetYou",
+   "youtube": "fOG0bf-MM1M",
    "mins": 4,
    "why": "To see atoms let go of their partners and join new ones, with the same atoms before and after.",
-   "check": "No address yet. Find a short animation for school pupils. Check that each side has the same number of atoms of each kind. Atoms must not be shown appearing or vanishing."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2566,7 +2563,7 @@
    "id": "b-vinegar",
    "item": "A bottle of white vinegar, about 500 millilitres",
    "kind": "material",
-   "why": "For After the Fizz, Rust Uses Up Air, Cold Fizz and The Self-Filling Bag. Any grocery shop sells it for about Rs 30 to 50. Strained lime juice works for the small amounts, so buy it mainly for Cold Fizz.",
+   "why": "For After the Fizz, Rust Uses Up Air, Cold Fizz and The Self-Filling Bag. Any grocery shop sells it, and it is cheap. Strained lime juice works for the small amounts, so buy it mainly for Cold Fizz.",
    "url": "https://www.amazon.in/s?k=white+vinegar",
    "used_in": [
     "e1",
@@ -2579,7 +2576,7 @@
    "id": "b-steelwool",
    "item": "Fine steel wool, the iron kind, grade 0 or finer",
    "kind": "material",
-   "why": "For Rust Uses Up Air. Ask for steel wool at a hardware or paint shop. It costs about Rs 50 to 150. A shiny stainless steel kitchen scrubber will not rust, so it cannot be used.",
+   "why": "For Rust Uses Up Air. Ask for steel wool at a hardware or paint shop. It is cheap. A shiny stainless steel kitchen scrubber will not rust, so it cannot be used.",
    "url": "https://www.amazon.in/s?k=fine+steel+wool+grade+0000",
    "used_in": [
     "e2"
@@ -2811,11 +2808,11 @@
    "Anderson P.W. (1972). More is different. Science 177: 393-396.",
    "Rhys Davids T.W., translator (1890). The Questions of King Milinda, Part 1. Sacred Books of the East, volume 35. Oxford. (The chariot, Book 2, chapter 1.)",
    "Rangacharya M., translator (1909). The Sarva-siddhanta-sangraha of Sankaracharya. Madras. (The Lokayata chapter, with the red colour of betel, areca nut and lime.)",
-   "Seager W. (1995). Consciousness, information and panpsychism. Journal of Consciousness Studies 2: 272-288. (The 'combination problem'.)"
+   "Seager W. (1995). Consciousness, information and panpsychism. Journal of Consciousness Studies. (The 'combination problem'.)"
   ]
  },
  "how_we_found_out": {
-  "story": "For about two thousand years, many people believed that the right reaction could turn lead into gold. They were called alchemists, and they worked in Egypt, China, India, the Arab world and Europe. One of the earliest we know of was a woman called Mary the Jewess. She worked in Egypt more than 1,700 years ago. She is credited with inventing the gentle water bath that cooks still use. Alchemists found real things, such as strong acids and better ways to purify substances. But nobody ever made gold. In 1661 Robert Boyle wrote that an element is a substance that cannot be broken into simpler ones. In 1789 Antoine Lavoisier in France listed 33 substances that he thought were simple. Gold and lead were both on his list. The drawings in his book were made by his wife, the chemist Marie-Anne Paulze Lavoisier. In 1808 John Dalton, a teacher in Manchester, explained why gold could not be made. Each element has its own kind of atom. A reaction only moves atoms into new groups. So lead atoms stay lead atoms, whatever they are mixed with.",
+  "story": "For about two thousand years, many people believed that the right reaction could turn lead into gold. They were called alchemists, and they worked in Egypt, China, India, the Arab world and Europe. One of the earliest we know of was a woman called Mary the Jewess. She worked in Egypt, perhaps 1,700 to 2,000 years ago. Her dates are not certain. She is said to have invented the gentle water bath that cooks still use. Alchemists found real things, such as strong acids and better ways to purify substances. But nobody ever made gold. In 1661 Robert Boyle suggested that an element is a substance that cannot be broken into simpler ones. In 1789 Antoine Lavoisier in France listed 33 substances that he thought were simple. Gold and lead were both on his list. The drawings in his book were made by his wife, the chemist Marie-Anne Paulze Lavoisier. In 1808 John Dalton, a teacher in Manchester, explained why gold could not be made. Each element has its own kind of atom. A reaction only moves atoms into new groups. So lead atoms stay lead atoms, whatever they are mixed with.",
   "who": "The alchemists, including Mary the Jewess. Then Robert Boyle, Antoine Lavoisier and Marie-Anne Paulze Lavoisier, and John Dalton.",
   "when": "Alchemy lasted from about 2,000 years ago until the 1700s. Boyle wrote in 1661, Lavoisier in 1789 and Dalton in 1808.",
   "wrong_idea": "That a chemical reaction can turn one metal into another, such as lead into gold. Two thousand years of failed attempts counted against it. Dalton then showed why. A reaction rearranges atoms, and it cannot change one kind of atom into another.",
@@ -2877,5 +2874,5 @@
   ],
   "art": "A child's open hand holding a rusty nail and a pinch of white powder, with a faint drawing of small joined balls rising from each."
  },
- "playtest": "This unit was read through step by step, as a parent and child in a city flat would use it. It has not yet been done at home. Six Mixes, Five Signs (core) uses lime juice, baking soda, salt, black tea and warm milk. Mix 1 fizzes, the tea with lime juice turns clearly paler, and warm milk makes lumps within a minute. Cold milk is slow, so the step asks for warm milk. After the Fizz (core) needs a grown-up at the stove for about 8 minutes. Open a window, because hot vinegar smells sharp. The pans must be cool before the drop test, or any liquid will sizzle. The expected result is that the water crust fizzes and the vinegar crust does not. If the vinegar crust fizzes a little, too little vinegar was used, and step 3 guards against this. Heating can turn part of the dried baking soda into washing soda. Washing soda also fizzes, so the result is the same. Drying under a fan avoids the stove, and takes a day or two. Atom Swap and Reaction Families need only coins, seeds, paper and scissors. Rust Uses Up Air needs the iron kind of steel wool, from a hardware or paint shop. Stainless steel kitchen scrubbers do not rust. With steel wool cleaned in vinegar, the water usually starts to climb within a day. It stops at about one fifth of the air space by the second or third day. The plates must be topped up so that the rims stay under water. Cold Fizz uses a whole cup of vinegar. The fizz tumbler is usually 3 to 5 degrees cooler, which most hands can tell. Some children will not notice, and the step says to record that honestly. The Self-Filling Bag is messy when a zip pops, so it is done over a tray or in the sink. The amounts given suit a pouch of about 15 by 20 centimetres and ordinary vinegar. Stronger or weaker vinegar shifts them a little. No part needs a garden, and no flame is used except the stove in After the Fizz. Nobody tastes anything. Facts to treat with care: Mary the Jewess is known only from later writers, and her dates are uncertain. Lavoisier's list of 33 simple substances included a few that are not elements. The gold made from bismuth around 1980 was far too little to see. The Charvaka view is known only from writers who disagreed with it. The story's lamp test is real, but it is not a safety rule, and the story note says so. The three videos have no address yet."
+ "playtest": "This unit was read through step by step, as a parent and child in a city flat would use it. It has not yet been done at home. Six Mixes, Five Signs (core) uses lime juice, baking soda, salt, black tea and warm milk. Mix 1 fizzes, the tea with lime juice turns clearly paler, and warm milk makes lumps within a minute. Cold milk is slow, so the step asks for warm milk. After the Fizz (core) needs a grown-up at the stove for about 8 minutes. Open a window, because hot vinegar smells sharp. The pans must be cool before the drop test, or any liquid will sizzle. The expected result is that the water crust fizzes and the vinegar crust does not. If the vinegar crust fizzes a little, too little vinegar was used, and step 3 guards against this. Heating can turn part of the dried baking soda into washing soda. Washing soda also fizzes, so the result is the same. Drying under a fan avoids the stove, and takes a day or two. Atom Swap and Reaction Families need only coins, seeds, paper and scissors. Rust Uses Up Air needs the iron kind of steel wool, from a hardware or paint shop. Stainless steel kitchen scrubbers do not rust. With steel wool cleaned in vinegar, the water usually starts to climb within a day. It stops at about one fifth of the air space by the second or third day. The plates must be topped up so that the rims stay under water. Cold Fizz uses a whole cup of vinegar. The fizz tumbler is usually 3 to 5 degrees cooler, which most hands can tell. Some children will not notice, and the step says to record that honestly. The Self-Filling Bag is messy when a zip pops, so it is done over a tray or in the sink. The amounts given suit a pouch of about 15 by 20 centimetres and ordinary vinegar. Stronger or weaker vinegar shifts them a little. No part needs a garden, and no flame is used except the stove in After the Fizz. Nobody tastes anything. Facts checked on 17 Nov 2026: Lavoisier's 33 substances (gold and lead included), the 1999 Nobel Prize for Zewail, the museum pages, the PhET links, and the journal citations. Softened: Mary the Jewess's dates, the word 'credited' for the water bath, Boyle's wording, and the shop prices (removed). The Charvaka view is known only from writers who disagreed with it. The story's lamp test is real, but it is not a safety rule, and the story note says so. The three videos have no address yet."
 }

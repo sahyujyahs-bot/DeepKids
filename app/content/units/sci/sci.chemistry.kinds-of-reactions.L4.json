@@ -280,7 +280,7 @@
   },
   {
    "text": "Substances react in fixed amounts, so a reaction stops when one reactant is used up.",
-   "evidence": "The French chemist Joseph Proust analysed many compounds from 1794 onwards. Each compound always held the same elements in the same proportions by weight, however it was made."
+   "evidence": "The French chemist Joseph Proust analysed many compounds in the 1790s. Each compound always held the same elements in the same proportions by weight, however it was made."
   },
   {
    "text": "Breaking bonds takes energy in, and making bonds gives energy out.",
@@ -2538,31 +2538,28 @@
  ],
  "videos": [
   {
-   "title": "The four kinds of reaction shown with moving models of atoms",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Types of Chemical Reactions (synthesis, decomposition, single & double replacement, combustion)",
+   "channel": "Imagine Jenkins",
+   "youtube": "OYW4pJvs3AU",
    "mins": 5,
    "why": "To see atoms join, split and change partners, which cannot be seen in a kitchen.",
-   "check": "No address yet. Find a short animation for school pupils on combination, decomposition, displacement and combustion. Check that each side of every reaction has the same atoms, and that burning is shown with oxygen as a reactant."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Lecture-style: covers the four types plus combustion, but atom-level models were not confirmed."
   },
   {
-   "title": "Quicklime and water: lumps of lime hiss, swell and boil the water",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Calcium Carbonate - Disintegrating quicklime (short version)",
+   "channel": "The Royal Institution",
+   "youtube": "um3gIqFq8Zw",
    "mins": 3,
    "why": "To see a joining reaction that gives out a great deal of heat. It is too dangerous to do at home, and it is the reaction in the story.",
-   "check": "No address yet. Find a demonstration from a university, a museum or a building-lime maker. Check that it names quicklime, water and slaked lime, and that the people wear eye protection."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Precipitation reactions in a laboratory: two clear liquids make a coloured solid",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Golden rain - ionic bonding demo",
+   "channel": "Royal Society of Chemistry",
+   "youtube": "zJkv0HiqApo",
    "mins": 4,
    "why": "To see precipitates far brighter than curds, such as the yellow solid called golden rain.",
-   "check": "No address yet. Find a demonstration from a university or a school chemistry channel. Check that it says the solid is a new substance that does not dissolve, and that it warns viewers that the chemicals are not for home use."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2828,7 +2825,7 @@
    "id": "b-pop",
    "item": "Plaster of Paris, 500 grams",
    "kind": "material",
-   "why": "For Powder and Water and The Sharpest Coin Print. Hardware, paint and stationery shops sell it for about Rs 30 to 60. No home powder sets in the same way.",
+   "why": "For Powder and Water and The Sharpest Coin Print. Hardware, paint and stationery shops sell it, and a small pack costs little. No home powder sets in the same way.",
    "url": "https://www.amazon.in/s?k=plaster+of+paris+powder",
    "used_in": [
     "e2",
@@ -2839,7 +2836,7 @@
    "id": "b-vinegar",
    "item": "A bottle of white vinegar, about 500 millilitres",
    "kind": "material",
-   "why": "For Soap and Sour. Any grocery shop sells it for about Rs 30 to 50. Strained lemon juice works in its place.",
+   "why": "For Soap and Sour. Any grocery shop sells it, and a bottle costs little. Strained lemon juice works in its place.",
    "url": "https://www.amazon.in/s?k=white+vinegar",
    "used_in": [
     "e3"
@@ -3055,7 +3052,8 @@
    "Dalgleish D. G., Corredig M. (2012). The structure of the casein micelle of milk and its changes during processing. Annual Review of Food Science and Technology 3: 449-467.",
    "Holt C., Carver J. A., Ecroyd H., Thorn D. C. (2013). Invited review: Caseins and the casein micelle: their biological functions, structures, and behavior in foods. Journal of Dairy Science 96: 6127-6146.",
    "McGuire B. A. (2018). 2018 census of interstellar, circumstellar, extragalactic, protoplanetary disk, and exoplanetary molecules. The Astrophysical Journal Supplement Series 239: 17.",
-   "Zewail A. H. (2000). Femtochemistry: atomic-scale dynamics of the chemical bond. Journal of Physical Chemistry A 104: 5660-5694. (Nobel lecture, 1999.)"
+   "Zewail A. H. (2000). Femtochemistry: atomic-scale dynamics of the chemical bond. Journal of Physical Chemistry A 104: 5660-5694. (Nobel lecture, 1999.)",
+   "Checked on 17 Nov 2026: Linda Hall Library, 'Berthollet and the Soda Lakes' (Natron Lakes visit, January 1799); NobelPrize.org, Chemistry 1999 (Ahmed Zewail, femtosecond spectroscopy); Crossref records for the Dalgleish, Holt, McGuire and Zewail papers."
   ]
  },
  "how_we_found_out": {
@@ -3126,5 +3124,5 @@
   ],
   "art": "A child's open palm held in front of her mouth, with a seashell, a white plastered wall and a candle faintly drawn behind her."
  },
- "playtest": "Every experiment, activity, game and challenge was reasoned through step by step for a city flat. The reasoning used the chemistry and the usual kitchen amounts. None of them has been tried at home yet, so treat the times and amounts as a first guide. Second Squeeze (core) needs 300 millilitres of milk and about 3 lemons. 200 millilitres of milk usually curdles with 2 to 4 teaspoons of lemon juice. Milks and lemons differ, so the steps say to count and record. The whey test works only while the whey is still warm. Tumbler B is expected to stop making curds after 2 to 6 tablespoons of milk. This number is the least certain in the unit. If the whey is heated almost to boiling, a few very fine flecks may appear in tumbler A. They are another milk protein, and the whey should not be reheated. The Pan and the Lid (core) needs cooking soda, a dry pan and three cold steel lids. A grown-up does the heating. The empty-pan step matters, because it shows that the drops come from the powder. The heated powder is washing soda and must not be tasted. Powder and Water needs plaster of Paris, which costs about Rs 30 to 60 at a hardware or stationery shop. With 6 tablespoons the warmth is gentle, so the child compares the two cups with the same hand. Soap and Sour needs a true soap bar. Some bathing bars are not soap, and they will not turn milky. Hard tap water also makes soap cloudy, so the step says to use filtered or boiled water. Will It Burn uses a candle and must be done by a grown-up near an open window. Salt colours the flame yellow, and the candle leaves soot on the spoon. Neither is burning. If all four plates are kept, Four Plates needs 3 rajma, 11 white chana, 10 moong, a groundnut and a peppercorn. The card game has 24 cards and plays well alone. The Sharpest Coin Print needs three coins of the same kind. No part needs a garden or an animal. Facts to treat with care: the account of milk is simplified. The exact build of casein clusters is still debated. The acid and base on plate 3 are hydrochloric acid and sodium hydroxide. Soap is treated as one substance, though a bar holds several fatty parts. The figure of more than 200 molecules found in space is from a 2018 count. The number has grown since. The verses from the Chandogya Upanishad and the Dhammapada, and the fragment of Empedocles, are given as paraphrases. The three videos have no address yet."
+ "playtest": "Every experiment, activity, game and challenge was reasoned through step by step for a city flat. The reasoning used the chemistry and the usual kitchen amounts. None of them has been tried at home yet, so treat the times and amounts as a first guide. Second Squeeze (core) needs 300 millilitres of milk and about 3 lemons. 200 millilitres of milk usually curdles with 2 to 4 teaspoons of lemon juice. Milks and lemons differ, so the steps say to count and record. The whey test works only while the whey is still warm. Tumbler B is expected to stop making curds after 2 to 6 tablespoons of milk. This number is the least certain in the unit. If the whey is heated almost to boiling, a few very fine flecks may appear in tumbler A. They are another milk protein, and the whey should not be reheated. The Pan and the Lid (core) needs cooking soda, a dry pan and three cold steel lids. A grown-up does the heating. The empty-pan step matters, because it shows that the drops come from the powder. The heated powder is washing soda and must not be tasted. Powder and Water needs plaster of Paris, which a hardware or stationery shop sells cheaply. With 6 tablespoons the warmth is gentle, so the child compares the two cups with the same hand. Soap and Sour needs a true soap bar. Some bathing bars are not soap, and they will not turn milky. Hard tap water also makes soap cloudy, so the step says to use filtered or boiled water. Will It Burn uses a candle and must be done by a grown-up near an open window. Salt colours the flame yellow, and the candle leaves soot on the spoon. Neither is burning. If all four plates are kept, Four Plates needs 3 rajma, 11 white chana, 10 moong, a groundnut and a peppercorn. The card game has 24 cards and plays well alone. The Sharpest Coin Print needs three coins of the same kind. No part needs a garden or an animal. Facts checked on 17 Nov 2026: the chemists' dates and book titles, the casein pH, the 2018 count of more than 200 molecules in space, the Nobel Prize of 1999 and the place links. Softened: Proust's work is now dated to the 1790s, and the shop prices are removed. Still simplified: the account of milk (how casein clusters are built is still debated), and soap is treated as one substance. The verses and the fragment of Empedocles are paraphrases. The three videos have no address yet."
 }

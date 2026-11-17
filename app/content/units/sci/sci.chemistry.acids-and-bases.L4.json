@@ -102,7 +102,7 @@
   },
   {
    "term": "Helicobacter pylori",
-   "meaning": "A spiral-shaped bacterium that lives in the stomachs of nearly half of all people. Most of the time it does no harm. Sometimes it causes sore patches, called ulcers.",
+   "meaning": "A spiral-shaped bacterium that lives in the stomachs of more than half of all people. Most of the time it does no harm. Sometimes it causes sore patches, called ulcers.",
    "example": "Barry Marshall and Robin Warren showed in the 1980s that this bacterium causes most stomach ulcers.",
    "art": "A spiral-shaped bacterium drawn big, burrowing into the mucus of a stomach wall."
   },
@@ -231,7 +231,7 @@
    "status": "defined",
    "context": "Doctors once thought no living being could survive stomach acid. This card is about a bacterium that does.",
    "definition": "Helicobacter pylori is a spiral-shaped bacterium that lives in the mucus of the stomach and makes a base to protect herself from the acid.",
-   "description": "Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. Nearly half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.",
+   "description": "Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. More than half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.",
    "examples": [
     "The urea breath test looks for Helicobacter pylori by checking a person's breath for the gas that her urease makes.",
     "Lactic acid bacteria in curd grow at pH 4, and their own acid slows them down.",
@@ -2459,7 +2459,7 @@
  "open_questions": [
   {
    "q": "Why do most people who carry Helicobacter pylori never get an ulcer?",
-   "why_open": "Nearly half of all people carry the bacterium, but only a small share, often said to be about one in ten, gets an ulcer. Scientists are comparing the bacterium's strains, people's genes and diets, and have no full answer."
+   "why_open": "More than half of all people carry the bacterium, but only a small share, often said to be about one in ten, gets an ulcer. Scientists are comparing the bacterium's strains, people's genes and diets, and have no full answer."
   },
   {
    "q": "Why are human stomachs as acidic as a vulture's?",
@@ -2617,7 +2617,7 @@
    "url": "https://nehrusciencecentre.gov.in/",
    "kind": "place",
    "where": "Mumbai",
-   "why": "A large science centre in India with chemistry and human body galleries. Check opening times before you go."
+   "why": "A large science centre in India with many science galleries. Check opening times before you go."
   }
  ],
  "buy": [
@@ -2753,18 +2753,130 @@
    "Schleper, C. and others, 'Picrophilus gen. nov., fam. nov.: a novel aerobic, heterotrophic, thermoacidophilic genus and family comprising archaea capable of growth around pH 0', Journal of Bacteriology 177, 1995",
    "Balfour-Paul, J., Indigo, British Museum Press, 1998 (indigo vats and their care)",
    "Chandogya Upanishad 6.5.1; Aristotle, Nicomachean Ethics, Book II, chapter 6; Tao Te Ching 42",
-   "Warren and Marshall dates (1979, 1981, Easter 1982, 1984): Nobel Prize 2005 ceremony speech, Lasker Foundation and Britannica; sources differ on whether Marshall joined in 1979 or 1981, so treat the year as approximate",
-   "Hooi, J. K. Y. and others, 'Global prevalence of Helicobacter pylori infection', Gastroenterology 153, 2017 (about 44 in 100 people)",
+   "Warren and Marshall dates (1979, about 1981, Easter 1982, 1984): Nobel Prize 2005 ceremony speech, Lasker Foundation and Britannica; Wikipedia says Marshall met Warren in 1981; Easter 1982 culture checked against Nature 437, 801 (2005) and a Medical Journal of Australia piece, 2005; Marshall's 1984 drink checked against the 1985 Medical Journal of Australia paper; sources differ on the exact start year of their work together, so it is given as approximate",
+   "Hooi, J. K. Y. and others, 'Global prevalence of Helicobacter pylori infection', Gastroenterology 153, 2017 (more than half of the world's people, with big differences between regions)",
    "Nobel Prize in Chemistry 1978 press release (Peter Mitchell)",
-"Mitchell, P. and Moyle, J., Chemiosmotic hypothesis of oxidative phosphorylation, Nature 213, 137-139, 1967 (Jennifer Moyle was his long-term experimental partner)"
+   "Mitchell, P. and Moyle, J., Chemiosmotic hypothesis of oxidative phosphorylation, Nature 213, 137-139, 1967 (Jennifer Moyle was his long-term experimental partner)"
   ]
  },
  "how_we_found_out": {
-  "story": "For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist (a doctor who studies samples from the body) in Perth, Australia, noticed curved bacteria in stomach samples. In 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within about a week he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.",
+  "story": "For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist (a doctor who studies samples from the body) in Perth, Australia, noticed curved bacteria in stomach samples. In about 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within days he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.",
   "who": "Barry Marshall and Robin Warren, doctors in Perth, Australia",
   "when": "1979 to 1984, and the Nobel Prize in 2005",
   "wrong_idea": "Doctors believed that stomach acid kills all bacteria, so ulcers had to come from stress, spicy food and too much acid. Marshall and Warren showed that a bacterium lives in the stomach and causes most ulcers, and that antibiotics cure them."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tested at home. Antacid Showdown: the quarter-teaspoon scoop counts (about 2 to 4 for cooking soda, 3 to 5 for crushed tablets, 2 to 4 for eggshell) come from working out the amounts, and have not been tried at the kitchen table. The quantities may need changing. Eggshell powder reacts slowly, so the step says to stir longer. Salt is the control and should do nothing. The Eno Mystery result is the least certain. The liquid left after the fizz should be a little basic, but the colour may come out blue or blue-violet, or stay purple, so the step says to write what you see. Shield the Shell: the petroleum jelly coat should keep vinegar off for ten minutes. Whether a thin gel with soda holds out is not known, which is why it is a challenge. The story's vat details are simplified. Dyers differ in what they add and how they judge a vat. The Water Diary may show no change in the open cups, because strips read whole numbers, and the step says so. Rain is optional. Facts to check before going live: that Marshall's bacteria were left over a long Easter weekend in 1982, that the Nehru Science Centre web address is right, that the pH ranges on the pH Ladder cards agree with a pH meter, and that the stomach lining cells are replaced about every few days. The videos have no address yet.",
- "warm": {"words": ["ACIDS", "MUCUS", "BASES", "ULCER", "GERMS"], "quiz": [["A liquid with pH 3 is ten times more acidic than a liquid with pH 4.", true, "Each step down the pH scale means ten times as many hydrogen ions."], ["pH 2 and pH 5 are close together, so they are almost equally acidic.", false, "Three steps is ten times ten times ten. pH 2 holds a thousand times more hydrogen ions."], ["A coat of mucus helps keep the stomach from burning itself.", true, "The mucus holds a base that uses up the acid, and stomach cells are replaced every few days."], ["Most stomach ulcers are caused by stress and spicy food.", false, "Most are caused by Helicobacter bacteria or by some painkillers."], ["An antacid eases heartburn by using up some of the stomach acid.", true, "An antacid is a base. It reacts with acid and uses some of it up, so the pH rises."], ["After an antacid, the stomach stops making acid.", false, "An antacid only uses up acid already there. The stomach goes on making more, so the relief does not last."], ["Red cabbage water can show only roughly how acidic a liquid is.", true, "Its colours change with the cabbage, the water and the light, so it cannot give an exact number."], ["No living being can survive in a strong acid.", false, "Bacteria called Helicobacter pylori live in the stomach by making a base around themselves."], ["Stomach acid is useful in the stomach but causes heartburn in the food pipe.", true, "The food pipe has no mucus shield against acid, so acid that splashes up burns."], ["A higher pH number means more hydrogen ions in the liquid.", false, "More hydrogen ions means a lower pH. Each step up in pH means ten times fewer."]], "odd": [[["Chalky antacid tablet", "Cooking soda in water", "Milk of magnesia", "Vinegar"], "Vinegar", "The first three are bases that use up acid. Vinegar is an acid."], [["Mucus coat", "Bicarbonate", "Cells replaced every few days", "Extra acid"], "Extra acid", "The first three protect the stomach wall from its acid. Extra acid would add to the harm."], [["pH paper", "pH meter", "Universal indicator", "Antacid tablet"], "Antacid tablet", "The first three measure how acidic a liquid is. An antacid tablet uses up acid."], [["Lemon juice", "Vinegar", "Stomach acid", "Blood"], "Blood", "The first three are acids with a pH well below 7. Blood is kept close to pH 7.4."], [["Helicobacter pylori", "Curd bacteria", "Hot-spring microbes", "Cooking soda"], "Cooking soda", "The first three are living things that can grow in acid. Cooking soda is a base and is not alive."]]}
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tested at home. Antacid Showdown: the quarter-teaspoon scoop counts (about 2 to 4 for cooking soda, 3 to 5 for crushed tablets, 2 to 4 for eggshell) come from working out the amounts, and have not been tried at the kitchen table. The quantities may need changing. Eggshell powder reacts slowly, so the step says to stir longer. Salt is the control and should do nothing. The Eno Mystery result is the least certain. The liquid left after the fizz should be a little basic, but the colour may come out blue or blue-violet, or stay purple, so the step says to write what you see. Shield the Shell: the petroleum jelly coat should keep vinegar off for ten minutes. Whether a thin gel with soda holds out is not known, which is why it is a challenge. The story's vat details are simplified. Dyers differ in what they add and how they judge a vat. The Water Diary may show no change in the open cups, because strips read whole numbers, and the step says so. Rain is optional. Facts checked on 17 Nov 2026: Easter 1982 culture, 1984 drink, 2005 Nobel Prize, 1909 Sorensen, 1978 Mitchell, paper citations and the 1 in 550 million water figure were confirmed. Softened: Marshall's start with Warren is now 'about 1981', his illness 'within days' (it began about day 3), the share of people carrying the bacterium is now 'more than half' (Hooi 2017), the Nehru Science Centre description no longer names galleries, and the stomach-lining replacement time stays 'every few days' (about 3 days for surface cells). Not yet checked: the pH Ladder card ranges against a pH meter. The videos have no address yet.",
+ "warm": {
+  "words": [
+   "ACIDS",
+   "MUCUS",
+   "BASES",
+   "ULCER",
+   "GERMS"
+  ],
+  "quiz": [
+   [
+    "A liquid with pH 3 is ten times more acidic than a liquid with pH 4.",
+    true,
+    "Each step down the pH scale means ten times as many hydrogen ions."
+   ],
+   [
+    "pH 2 and pH 5 are close together, so they are almost equally acidic.",
+    false,
+    "Three steps is ten times ten times ten. pH 2 holds a thousand times more hydrogen ions."
+   ],
+   [
+    "A coat of mucus helps keep the stomach from burning itself.",
+    true,
+    "The mucus holds a base that uses up the acid, and stomach cells are replaced every few days."
+   ],
+   [
+    "Most stomach ulcers are caused by stress and spicy food.",
+    false,
+    "Most are caused by Helicobacter bacteria or by some painkillers."
+   ],
+   [
+    "An antacid eases heartburn by using up some of the stomach acid.",
+    true,
+    "An antacid is a base. It reacts with acid and uses some of it up, so the pH rises."
+   ],
+   [
+    "After an antacid, the stomach stops making acid.",
+    false,
+    "An antacid only uses up acid already there. The stomach goes on making more, so the relief does not last."
+   ],
+   [
+    "Red cabbage water can show only roughly how acidic a liquid is.",
+    true,
+    "Its colours change with the cabbage, the water and the light, so it cannot give an exact number."
+   ],
+   [
+    "No living being can survive in a strong acid.",
+    false,
+    "Bacteria called Helicobacter pylori live in the stomach by making a base around themselves."
+   ],
+   [
+    "Stomach acid is useful in the stomach but causes heartburn in the food pipe.",
+    true,
+    "The food pipe has no mucus shield against acid, so acid that splashes up burns."
+   ],
+   [
+    "A higher pH number means more hydrogen ions in the liquid.",
+    false,
+    "More hydrogen ions means a lower pH. Each step up in pH means ten times fewer."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Chalky antacid tablet",
+     "Cooking soda in water",
+     "Milk of magnesia",
+     "Vinegar"
+    ],
+    "Vinegar",
+    "The first three are bases that use up acid. Vinegar is an acid."
+   ],
+   [
+    [
+     "Mucus coat",
+     "Bicarbonate",
+     "Cells replaced every few days",
+     "Extra acid"
+    ],
+    "Extra acid",
+    "The first three protect the stomach wall from its acid. Extra acid would add to the harm."
+   ],
+   [
+    [
+     "pH paper",
+     "pH meter",
+     "Universal indicator",
+     "Antacid tablet"
+    ],
+    "Antacid tablet",
+    "The first three measure how acidic a liquid is. An antacid tablet uses up acid."
+   ],
+   [
+    [
+     "Lemon juice",
+     "Vinegar",
+     "Stomach acid",
+     "Blood"
+    ],
+    "Blood",
+    "The first three are acids with a pH well below 7. Blood is kept close to pH 7.4."
+   ],
+   [
+    [
+     "Helicobacter pylori",
+     "Curd bacteria",
+     "Hot-spring microbes",
+     "Cooking soda"
+    ],
+    "Cooking soda",
+    "The first three are living things that can grow in acid. Cooking soda is a base and is not alive."
+   ]
+  ]
+ }
 }

@@ -28,7 +28,7 @@
 - **Antacid**: A medicine or powder that is a base. It reacts with stomach acid and uses some of it up. *e.g.* Milk of magnesia, cooking soda and many chewable tablets work as antacids.
 - **Neutralise**: To use up acid by adding a base, or use up a base by adding acid, until the mixture moves towards neutral. *e.g.* Cooking soda neutralises vinegar and makes fizzing carbon dioxide gas.
 - **Bicarbonate**: A gentle base. Cooking soda is sodium bicarbonate. Your own body also makes bicarbonate to protect the stomach wall and to neutralise acid after the stomach. *e.g.* Fruit salt such as Eno holds bicarbonate and a dry acid. It fizzes in water, because the two meet and react.
-- **Helicobacter pylori**: A spiral-shaped bacterium that lives in the stomachs of nearly half of all people. Most of the time it does no harm. Sometimes it causes sore patches, called ulcers. *e.g.* Barry Marshall and Robin Warren showed in the 1980s that this bacterium causes most stomach ulcers.
+- **Helicobacter pylori**: A spiral-shaped bacterium that lives in the stomachs of more than half of all people. Most of the time it does no harm. Sometimes it causes sore patches, called ulcers. *e.g.* Barry Marshall and Robin Warren showed in the 1980s that this bacterium causes most stomach ulcers.
 - **Ulcer**: A sore patch in the stomach wall or the first part of the small intestine, where the protective layer has worn away. *e.g.* Most ulcers are caused by the bacterium Helicobacter pylori or by some painkillers.
 
 ## Explanations
@@ -91,7 +91,7 @@ Saliva in your mouth is close to neutral. The stomach is a pool of acid, at pH 1
 ### A bacterium with an antacid of her own · *defined*
 **Definition:** Helicobacter pylori is a spiral-shaped bacterium that lives in the mucus of the stomach and makes a base to protect herself from the acid.
 
-Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. Nearly half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.
+Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. More than half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.
 - e.g. The urea breath test looks for Helicobacter pylori by checking a person's breath for the gas that her urease makes.
 - e.g. Lactic acid bacteria in curd grow at pH 4, and their own acid slows them down.
 - e.g. Picrophilus, a microbe from hot volcanic soil in Japan, grows best at a pH of about 0.7.
@@ -128,7 +128,7 @@ Tea plants grow best in acidic soil, at about pH 4.5 to 5.5, and the hills of th
 - Blood is held in a very narrow range, between pH 7.35 and 7.45, whatever a person eats. *How we know:* Blood tests from large numbers of healthy people show this range. Breathing, the kidneys and chemical buffers keep it steady.
 
 ## How we found out
-**Barry Marshall and Robin Warren, doctors in Perth, Australia, 1979 to 1984, and the Nobel Prize in 2005.** For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist (a doctor who studies samples from the body) in Perth, Australia, noticed curved bacteria in stomach samples. In 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within about a week he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.  
+**Barry Marshall and Robin Warren, doctors in Perth, Australia, 1979 to 1984, and the Nobel Prize in 2005.** For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist (a doctor who studies samples from the body) in Perth, Australia, noticed curved bacteria in stomach samples. In about 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within days he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.  
 *What people believed before:* Doctors believed that stomach acid kills all bacteria, so ulcers had to come from stress, spicy food and too much acid. Marshall and Warren showed that a bacterium lives in the stomach and causes most ulcers, and that antibiotics cure them.
 
 ## Challenging perspectives
@@ -675,7 +675,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - A bottle of 'alkaline water' on a shop shelf, with a claim about pH on the label.
 
 ## Open questions
-- **Why do most people who carry Helicobacter pylori never get an ulcer?** Nearly half of all people carry the bacterium, but only a small share, often said to be about one in ten, gets an ulcer. Scientists are comparing the bacterium's strains, people's genes and diets, and have no full answer.
+- **Why do most people who carry Helicobacter pylori never get an ulcer?** More than half of all people carry the bacterium, but only a small share, often said to be about one in ten, gets an ulcer. Scientists are comparing the bacterium's strains, people's genes and diets, and have no full answer.
 - **Why are human stomachs as acidic as a vulture's?** One idea says our ancestors ate old meat. Others say the acid helps digestion or guards against the many microbes on all food. No one has found a way to test the ideas on ancestors who lived long ago.
 - **How safe is it to take strong acid-reducing medicines for many years?** These medicines help many people. Some studies link long use to other problems, such as weaker bones, but it is hard to tell whether the medicine or the illness caused the problem.
 - **Did the first living cells begin where a difference in pH already existed, such as at warm vents on the sea floor?** Some scientists think a pH difference across thin rock walls could have powered the first cells. Others think life began in other places. The vents have been studied, but no one has made life from them.
@@ -718,7 +718,7 @@ Mix, Fizz, Change (sci.chemistry.L4): Topic-level song
 - [pH (Wikipedia)](https://en.wikipedia.org/wiki/PH) · interactive: For the parent: a clear article on the pH scale, its history and how it is measured.
 - [The Nobel Prize in Physiology or Medicine 2005](https://www.nobelprize.org/prizes/medicine/2005/summary/) · interactive: For the parent: the prize for Barry Marshall and Robin Warren, with a summary of their work.
 - [Helicobacter pylori (Wikipedia)](https://en.wikipedia.org/wiki/Helicobacter_pylori) · interactive: For the parent: how the bacterium lives in the stomach, how she causes ulcers and how the infection is treated.
-- [Nehru Science Centre](https://nehrusciencecentre.gov.in/) · place · Mumbai: A large science centre in India with chemistry and human body galleries. Check opening times before you go.
+- [Nehru Science Centre](https://nehrusciencecentre.gov.in/) · place · Mumbai: A large science centre in India with many science galleries. Check opening times before you go.
 
 ## Things to buy
 - [pH test paper that reads from 1 to 14, with a colour chart](https://www.amazon.in/s?k=ph+test+paper+1-14) (tool): For the pH Strip Survey and the Water Diary. One booklet gives many readings, and is cheap. About Rs 50 to 150 for a booklet. Used in a2, p1. 
@@ -757,7 +757,7 @@ Mix, Fizz, Change (sci.chemistry.L4): Topic-level song
 - Schleper, C. and others, 'Picrophilus gen. nov., fam. nov.: a novel aerobic, heterotrophic, thermoacidophilic genus and family comprising archaea capable of growth around pH 0', Journal of Bacteriology 177, 1995
 - Balfour-Paul, J., Indigo, British Museum Press, 1998 (indigo vats and their care)
 - Chandogya Upanishad 6.5.1; Aristotle, Nicomachean Ethics, Book II, chapter 6; Tao Te Ching 42
-- Warren and Marshall dates (1979, 1981, Easter 1982, 1984): Nobel Prize 2005 ceremony speech, Lasker Foundation and Britannica; sources differ on whether Marshall joined in 1979 or 1981, so treat the year as approximate
-- Hooi, J. K. Y. and others, 'Global prevalence of Helicobacter pylori infection', Gastroenterology 153, 2017 (about 44 in 100 people)
+- Warren and Marshall dates (1979, about 1981, Easter 1982, 1984): Nobel Prize 2005 ceremony speech, Lasker Foundation and Britannica; Wikipedia says Marshall met Warren in 1981; Easter 1982 culture checked against Nature 437, 801 (2005) and a Medical Journal of Australia piece, 2005; Marshall's 1984 drink checked against the 1985 Medical Journal of Australia paper; sources differ on the exact start year of their work together, so it is given as approximate
+- Hooi, J. K. Y. and others, 'Global prevalence of Helicobacter pylori infection', Gastroenterology 153, 2017 (more than half of the world's people, with big differences between regions)
 - Nobel Prize in Chemistry 1978 press release (Peter Mitchell)
 - Mitchell, P. and Moyle, J., Chemiosmotic hypothesis of oxidative phosphorylation, Nature 213, 137-139, 1967 (Jennifer Moyle was his long-term experimental partner)

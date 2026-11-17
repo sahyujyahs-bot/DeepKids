@@ -110,7 +110,7 @@ Rain joins with carbon dioxide from the air and becomes a very weak acid. Over t
 - In every chemical reaction the atoms are kept. None is made and none is lost. *How we know:* Antoine Lavoisier weighed reactions in sealed glass vessels in the 1770s and 1780s. The total weight was the same before and after. Marie-Anne Paulze Lavoisier recorded and drew the experiments.
 - Burning is a reaction with oxygen. A burning thing takes something in from the air. *How we know:* Metals such as tin and mercury become heavier when they are heated in air. Lavoisier showed that the extra weight equals the weight of the air that was used up.
 - Acid curdles milk by cancelling the charge on the casein clusters, so that they stick together. *How we know:* Dairy scientists measure the charge on casein clusters as acid is added. The charge falls to zero at about pH 4.6, and the casein then comes out of the milk.
-- Substances react in fixed amounts, so a reaction stops when one reactant is used up. *How we know:* The French chemist Joseph Proust analysed many compounds from 1794 onwards. Each compound always held the same elements in the same proportions by weight, however it was made.
+- Substances react in fixed amounts, so a reaction stops when one reactant is used up. *How we know:* The French chemist Joseph Proust analysed many compounds in the 1790s. Each compound always held the same elements in the same proportions by weight, however it was made.
 - Breaking bonds takes energy in, and making bonds gives energy out. *How we know:* Chemists measure the heat of reactions in an insulated cup with a thermometer. Setting plaster warms the cup. Baking soda splits only while heat is supplied.
 - Many reactions can run in both directions. The amounts and the conditions decide which way they go. *How we know:* Claude-Louis Berthollet saw a well-known swapping reaction running backwards at the salt lakes of Egypt in 1799. In 1864 Cato Guldberg and Peter Waage in Norway turned this into an exact rule.
 
@@ -634,9 +634,9 @@ Behind her, Aaya lit the kiln.
    **Answer:** Before: many small round clusters spread evenly, each with the same charge sign. After: the clusters stuck together in a few big lumps, with clear liquid between them.. *Why:* A strong drawing shows the same clusters before and after. They are spread out at first and clumped afterwards.
 
 ## Videos
-- **The four kinds of reaction shown with moving models of atoms** (, 5 min) id `to find`: To see atoms join, split and change partners, which cannot be seen in a kitchen. *Check:* No address yet. Find a short animation for school pupils on combination, decomposition, displacement and combustion. Check that each side of every reaction has the same atoms, and that burning is shown with oxygen as a reactant.
-- **Quicklime and water: lumps of lime hiss, swell and boil the water** (, 3 min) id `to find`: To see a joining reaction that gives out a great deal of heat. It is too dangerous to do at home, and it is the reaction in the story. *Check:* No address yet. Find a demonstration from a university, a museum or a building-lime maker. Check that it names quicklime, water and slaked lime, and that the people wear eye protection.
-- **Precipitation reactions in a laboratory: two clear liquids make a coloured solid** (, 4 min) id `to find`: To see precipitates far brighter than curds, such as the yellow solid called golden rain. *Check:* No address yet. Find a demonstration from a university or a school chemistry channel. Check that it says the solid is a new substance that does not dissolve, and that it warns viewers that the chemicals are not for home use.
+- **Types of Chemical Reactions (synthesis, decomposition, single & double replacement, combustion)** (Imagine Jenkins, 5 min) id `OYW4pJvs3AU`: To see atoms join, split and change partners, which cannot be seen in a kitchen. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Lecture-style: covers the four types plus combustion, but atom-level models were not confirmed.
+- **Calcium Carbonate - Disintegrating quicklime (short version)** (The Royal Institution, 3 min) id `um3gIqFq8Zw`: To see a joining reaction that gives out a great deal of heat. It is too dangerous to do at home, and it is the reaction in the story. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Golden rain - ionic bonding demo** (Royal Society of Chemistry, 4 min) id `zJkv0HiqApo`: To see precipitates far brighter than curds, such as the yellow solid called golden rain. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which pattern shows a joining reaction?  
@@ -741,8 +741,8 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Borra Caves](https://en.wikipedia.org/wiki/Borra_Caves) · place · Near Visakhapatnam, Andhra Pradesh: Limestone caves where you can see stalactites, which are precipitates that grew over thousands of years.
 
 ## Things to buy
-- [Plaster of Paris, 500 grams](https://www.amazon.in/s?k=plaster+of+paris+powder) (material): For Powder and Water and The Sharpest Coin Print. Hardware, paint and stationery shops sell it for about Rs 30 to 60. No home powder sets in the same way. Used in e2, c1. 
-- [A bottle of white vinegar, about 500 millilitres](https://www.amazon.in/s?k=white+vinegar) (material): For Soap and Sour. Any grocery shop sells it for about Rs 30 to 50. Strained lemon juice works in its place. Used in e3. 
+- [Plaster of Paris, 500 grams](https://www.amazon.in/s?k=plaster+of+paris+powder) (material): For Powder and Water and The Sharpest Coin Print. Hardware, paint and stationery shops sell it, and a small pack costs little. No home powder sets in the same way. Used in e2, c1. 
+- [A bottle of white vinegar, about 500 millilitres](https://www.amazon.in/s?k=white+vinegar) (material): For Soap and Sour. Any grocery shop sells it, and a bottle costs little. Strained lemon juice works in its place. Used in e3. 
 
 ## Warm-up
 - Two substances become one. What kind of reaction is that? → A joining reaction.
@@ -774,3 +774,4 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Holt C., Carver J. A., Ecroyd H., Thorn D. C. (2013). Invited review: Caseins and the casein micelle: their biological functions, structures, and behavior in foods. Journal of Dairy Science 96: 6127-6146.
 - McGuire B. A. (2018). 2018 census of interstellar, circumstellar, extragalactic, protoplanetary disk, and exoplanetary molecules. The Astrophysical Journal Supplement Series 239: 17.
 - Zewail A. H. (2000). Femtochemistry: atomic-scale dynamics of the chemical bond. Journal of Physical Chemistry A 104: 5660-5694. (Nobel lecture, 1999.)
+- Checked on 17 Nov 2026: Linda Hall Library, 'Berthollet and the Soda Lakes' (Natron Lakes visit, January 1799); NobelPrize.org, Chemistry 1999 (Ahmed Zewail, femtosecond spectroscopy); Crossref records for the Dalgleish, Holt, McGuire and Zewail papers.
