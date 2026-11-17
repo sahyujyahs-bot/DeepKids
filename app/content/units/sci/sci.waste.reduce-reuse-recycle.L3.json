@@ -85,7 +85,7 @@
   },
   {
    "term": "Molecule",
-   "meaning": "A tiny group of atoms joined together. Everything is made of molecules, far too small to see.",
+   "meaning": "A tiny group of atoms joined together. Atoms are the smallest building pieces that materials are made of. Everything is made of atoms and molecules, far too small to see.",
    "example": "Sugar is made of sugar molecules. Each one has 45 atoms joined together.",
    "art": "A sugar cube with a zoom into one molecule shown as a cluster of coloured balls."
   },
@@ -328,7 +328,7 @@
     },
     {
      "who": "Many scientists today",
-     "explanation": "Both parts may matter. Either way, the story shows that new materials can stay around until life finds a way to eat them, or until they are buried."
+     "explanation": "Both ideas may be partly right. Either way, the story shows that new materials can stay around until life finds a way to eat them, or until they are buried."
     }
    ],
    "art": "An ancient swamp forest with giant fern-like trees, fallen trunks lying in dark water, and below them a cut-away of layers turning into black coal.",
@@ -807,8 +807,8 @@
        ]
       }
      ],
-     "parent": "The number tells sorters which kind of plastic it is. A 1 means PET, the plastic of most drinking bottles. It does not promise that the bottle will be recycled.",
-     "think": "Why do you think there are so many kinds of plastic, when there is only one kind of banana peel?"
+     "parent": "The number tells sorters which kind of plastic it is. A 1 means PET, the plastic of most drinking bottles. It does not promise that the bottle will be recycled. A good answer to the question: different kinds of plastic cannot be melted together, so they must be sorted first.",
+     "think": "The number on a bottle tells sorters what kind of plastic it is. Why does a recycler need to know that?"
     },
     {
      "id": "s5",
@@ -1897,7 +1897,8 @@
      "art": "A silicone tray of hardened new crayons, one bright blue and one brownish mix, with test strokes on paper beside them.",
      "caption": "3. Let them harden, then draw with them."
     }
-   ]
+   ],
+   "problem": "Factories recycle metal, glass and plastic by melting them and making new things. In this experiment you do the same, on a small scale, with broken wax crayons. You also find out what happens to the colours when they are melted together."
   },
   {
    "id": "e3",
@@ -2481,7 +2482,7 @@
      "do": "1. Now the parent is the Sun. Tear the plastic chain into pieces of two or three rings. 2. Then draw a dot on just two plastic rings, and let the microbe try again, slowly.",
      "say": "The Sun cracks plastic into smaller pieces. But are they gone? No. They are still plastic chains, only shorter. Those are microplastics. Now, in 2016 scientists found a real microbe with a key for one kind of plastic. Let's add two dots.",
      "kid": "The Sun breaks the plastic chain into small bits. Are they gone? Now two rings get dots. Can the microbe open them?",
-     "parent": "This shows three real ideas. Microbes rot what their enzymes fit. Sunlight only breaks plastic into smaller plastic. And a few microbes, like Ideonella sakaiensis, found in Japan in 2016, have begun to evolve enzymes for one plastic, slowly.",
+     "parent": "This shows three real ideas. Microbes rot what their enzymes fit. Sunlight only breaks plastic into smaller plastic. And a few microbes, like Ideonella sakaiensis, found in Japan in 2016, have begun to evolve enzymes for one plastic, slowly. A good answer to the question: plastic bottles are piled up there, so a microbe that could feed on plastic would have plenty of food and could multiply.",
      "think": "Why do you think the plastic-eating microbe was found near a bottle recycling plant?"
     }
    ],
@@ -2499,7 +2500,8 @@
      "art": "The stapled chain torn into short pieces of two or three rings, labelled with a tiny sun.",
      "caption": "3. The Sun tears the plastic into short pieces. Are they gone?"
     }
-   ]
+   ],
+   "problem": "A peel and a plastic bag are both made of very long chain molecules. A microbe cuts a peel's chain with an enzyme that fits it. But almost no microbe has an enzyme that fits plastic. In this activity, paper chains stand in for the molecules, and you play the microbe."
   },
   {
    "id": "a7",

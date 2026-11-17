@@ -12,7 +12,7 @@
 3. I can explain why clear water is not always safe to drink, and what makes it safe.
 4. I can measure how much water different ways of washing use, and pick the way that wastes least.
 5. I can sort used water by where it can go next: plants, mopping, flushing or the drain.
-6. I can tell how Hamburg and Altona showed in 1892 that filtering water through sand stops cholera.
+6. I can tell how the city of Hamburg and the town of Altona, next door to each other in Germany, showed in 1892 that filtering water through sand stops cholera.
 
 ## Terms
 - **Muddy water**: Water with tiny bits of soil, sand or clay floating in it, which make it cloudy. *e.g.* After heavy rain, the water in a river or a new puddle looks brown and muddy.
@@ -25,7 +25,7 @@
 - **Sand filter**: A deep layer of sand that water trickles down through. Dirt is caught in the tiny gaps between the grains. *e.g.* Many cities pass their water through beds of sand as big as a room before it goes into pipes.
 - **Germs**: Living beings far too small to see, such as bacteria and viruses. Some of them make people ill. *e.g.* Cholera is caused by a germ that lives in dirty water.
 - **Chlorine**: A chemical added in very small amounts to drinking water to kill germs. *e.g.* City water sometimes smells a little like a swimming pool. That is the chlorine.
-- **Purify**: To make water safe to drink by killing or removing the germs and harmful things in it. *e.g.* Boiling water for one minute purifies it of germs.
+- **Purify**: To make water safe to drink by killing or removing the germs and harmful things in it. *e.g.* Boiling water for one minute kills the germs in it. That purifies the water.
 - **Conserve**: To use something carefully so that it lasts, and not waste it. *e.g.* Turning off the tap while you brush your teeth conserves water.
 - **Reuse**: To use something again for another job. *e.g.* Water used to wash rice can water a potted plant.
 - **Waste water**: Water that has been used and is now dirty, such as water from a bath, a sink or a toilet. *e.g.* Waste water from your flat runs down the drain pipe to a sewer.
@@ -35,7 +35,7 @@
 ### Why big bits sink fast and tiny bits stay up · *defined*
 **Definition:** In still water, a bit of dirt that is heavier than water sinks. But the smaller the bit, the more slowly it sinks. The tiniest clay bits sink so slowly that they can stay floating for a day or more.
 
-When something sinks, the water has to move out of its way, and that slows it down. A big sand grain is heavy for its size and pushes through quickly. A clay bit is so tiny that the water slows it almost to a stop. If a sand grain were as small as a clay bit, it would sink just as slowly. So size matters as much as what the bit is made of. That is why muddy water first drops its sand, then its silt, and keeps its clay floating.
+When something sinks, the water has to move out of its way, and that slows it down. A big sand grain is heavy enough to push through quickly. A clay bit is so tiny that the water slows it almost to a stop. If a sand grain were as small as a clay bit, it would sink just as slowly. So size matters as much as what the bit is made of. That is why muddy water first drops its sand, then its silt, which is soil finer than sand but coarser than clay, and keeps its clay floating.
 - e.g. A shaken bottle of soil and water shows layers within a minute: small stones at the bottom, sand above them, then fine silt. The water on top stays cloudy.
 - e.g. Dust in a sunbeam floats in the air for a long time, though dust is heavier than air. It is the same idea: tiny bits fall very slowly.
 - e.g. After the monsoon, a lake can stay brown for weeks, because the fine clay is still floating in it.
@@ -77,18 +77,18 @@ Old Ayurvedic books, such as the Sushruta Samhita, name the kataka seed as a way
 - e.g. A clay pot with a kataka seed rubbed on the inside wall.
 - e.g. Dried drumstick seeds, crushed into a powder and stirred into muddy water.
 ### Is alum in drinking water safe? · *debated*
-Water plants use alum, and a tiny amount of aluminium can stay in tap water. Most health scientists say the small amounts in properly treated water are safe. Some people still worry, and scientists keep checking. Everyone agrees that using too much alum is wrong, and that plants must measure their dose carefully.
+Water treatment plants use alum, and a tiny amount of aluminium can stay in tap water. Most health scientists say the small amounts in properly treated water are safe. Some people still worry, and scientists keep checking. Everyone agrees that using too much alum is wrong, and that the plants must measure their dose carefully.
 - e.g. The World Health Organization gives a guide value for how much aluminium treated water should have, and water plants test for it.
 - e.g. At home, people rub only a little phitkari and let the water settle before using it.
 - **Most health scientists:** The small amount of aluminium in well-treated water is safe. We take in far more aluminium from food than from water.
-- **Some scientists and many worried people:** In the 1980s, a few studies suggested aluminium might be linked to memory illness in old age. Later studies did not show that clearly. They want plants to keep the amount as low as possible.
+- **Some scientists and many worried people:** In the 1980s, a few studies suggested aluminium might be linked to memory illness in old age. Later studies did not show that clearly. People with this view want water treatment plants to keep the amount as low as possible.
 ### Where water is lost at home · *defined*
 **Definition:** Most water wasted at home goes down the drain without doing any job. It runs while nobody is using it, leaks from taps and toilets, or overflows from tanks.
 
-A running tap pours out many litres every minute. If it runs while you scrub a plate or brush your teeth, most of that water does nothing. A small leak in a flush or a tap runs all day and all night. Many building tanks overflow when the motor is left on. The water you wait through for the hot water to come is clean too. Much of this water can be saved by turning taps off, fixing leaks and catching water in a bucket.
+A running tap pours out many litres every minute. If it runs while you scrub a plate or brush your teeth, most of that water does nothing. A small leak in a flush or a tap runs all day and all night. Many building tanks overflow when the motor is left on. The cold water that runs while you wait for hot water is clean too. Much of this water can be saved by turning taps off, fixing leaks and catching water in a bucket.
 - e.g. Scrape leftover food into the bin before washing a plate, so you need less water to rinse it.
 - e.g. Catch the cold water from the shower or the geyser pipe in a bucket while you wait for hot water. Use it for the toilet or the mop.
-- e.g. A plastic bottle filled with water and put in an old large toilet tank makes each flush use less.
+- e.g. A plastic bottle filled with water and put in an old large toilet tank takes up room in the tank. The tank then fills with less water, so each flush uses less.
 ### Using water twice: grey water · *defined*
 **Definition:** Grey water is water that has been lightly used, such as water from washing vegetables, rinsing rice, washing hands or bathing. It can be used again for jobs that don't need clean water.
 
@@ -104,12 +104,12 @@ RO stands for reverse osmosis. Many home RO purifiers send away two or more litr
 ### Why save water if the Earth has so much? · *defined*
 **Definition:** About 97 out of every 100 litres of water on Earth is salty sea water. Most of the fresh water is frozen in ice or deep underground. Only a small part is in rivers, lakes and the ground near the surface, where people can easily use it.
 
-Water is not used up. It goes round and round in the water cycle. But clean fresh water, in the right place at the right time, is limited. Cities spend a lot of energy cleaning and pumping it. In India, most fresh water goes to farming, so the food we eat carries a lot of water too. Saving water at home matters, and so does wasting less food.
+Water is not used up. It goes round and round in the water cycle. But clean fresh water, in the right place at the right time, is limited. Cities spend a lot of energy cleaning and pumping it. In India, most fresh water goes to farming, so a lot of water goes into growing the food we eat. Saving water at home matters, and so does wasting less food.
 - e.g. Chennai ran very short of water in 2019, when its lakes nearly dried up.
 - e.g. Growing rice takes a lot of water, so throwing away a plate of rice also throws away water.
 
 ## Mostly agreed
-- Tiny bits of clay stay floating for a long time because they are so small, and because their same charges keep them apart. *How we know:* Settling speeds have been measured in labs for over a hundred years. Anyone can watch muddy clay water stay cloudy for a day.
+- Tiny bits of clay stay floating for a long time because they are so small, and because they all carry the same kind of charge, which keeps them apart. *How we know:* Settling speeds have been measured in labs for over a hundred years. Anyone can watch muddy clay water stay cloudy for a day.
 - Alum makes tiny bits in water clump and settle. *How we know:* Water engineers test this every day in 'jar tests', where they add different amounts of alum to jars of river water and watch them clear.
 - Filtering through sand removes much of the dirt and many germs from water. *How we know:* Cities with slow sand filters, like Altona in 1892, had far less cholera than cities drinking the same river water unfiltered.
 - Water must be boiled, chlorinated or purified to be safe to drink, even when it looks clear. *How we know:* Germs are too small to see. Tests on clear water often find germs, and boiling or chlorine kills them.
@@ -125,7 +125,7 @@ Water is not used up. It goes round and round in the water cycle. But clean fres
   Against: Germs and dissolved salts or chemicals are invisible. Clear water can carry cholera. Only purifying makes it safe.
 - **Heavy things always sink fast, so if dirt is still floating, it must be lighter than water.** (A common first guess; *rejected*)  
   For: Big stones sink fast and leaves float.  
-  Against: Clay is heavier than water, yet its tiny bits float for a day or more. Size slows sinking. Clumped, the same clay sinks in minutes.
+  Against: Clay is heavier than water, yet its tiny bits float for a day or more. The smaller the bit, the more slowly it sinks. When the same clay is clumped together, it sinks in minutes.
 - **Saving a bucket of water at home makes no difference, because farms use most of the water.** (Some people, when asked to save water; *debated*)  
   For: In India, most fresh water does go to farming.  
   Against: City water is cleaned and pumped at great cost, and it is short in summer. A family saving 50 litres a day saves over 18,000 litres a year. Many families together save a lot.
@@ -134,37 +134,37 @@ Water is not used up. It goes round and round in the water cycle. But clean fres
   Against: Where water is not salty, a purifier that kills germs, or boiling, is enough. RO also throws away a lot of water and some useful minerals.
 - **Cholera spreads through bad air from rotting rubbish.** (The 'miasma' idea, held by many doctors until the late 1800s; *rejected*)  
   For: Cholera was worst in smelly, crowded places.  
-  Against: Smelly places also had the dirtiest water. In 1892, Altona's filtered water kept cholera low next to Hamburg, with the same air.
+  Against: Smelly places also had the dirtiest water. In 1892, Altona and Hamburg stood side by side and had the same air. Altona filtered its water and had far less cholera.
 
 ## Roots
 We have learned why tiny mud bits stay floating, how phitkari makes them sink, and how a home can waste less clean water. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Without phitkari, your muddy water stayed cloudy for hours, though clay is heavier than water. Tiny clay bits sink very slowly, and their electric charges push them apart. Phitkari let them stick into clumps, and the clumps sank within half an hour. So whether dirt sinks depends on the size of its pieces, not only on what it is.  
+**Deep truth.** In the Phitkari Test, glass A had no phitkari and stayed cloudy for hours, though clay is heavier than water. Tiny clay bits sink very slowly, and their electric charges push them apart. In glass B, phitkari let them stick into clumps, and the clumps sank within half an hour. So whether dirt sinks depends on the size of its pieces, not only on what it is.  
 *Habit it breaks:* We sort things into 'heavy things that sink' and 'light things that float', as if only the material decides. But the same clay floated as tiny bits and sank as clumps. How big the pieces are matters just as much.  
 *Evidence:* In the Phitkari Test, glass A stayed cloudy for hours. Glass B, with the same clay and the same stirring, grew fluffy flocs that sank, and the water cleared in about half an hour. Nothing was taken out of glass B. The mud was all still there, on the bottom.
 
-- *who am i:* Your kidneys clean your blood all day, passing it through millions of tiny filters. You are a water cleaner too.
+- *who am i:* Your body cleans water too. Your two kidneys pass your blood through millions of tiny filters every day.
 - *what is life:* Tiny living beings in sand filters and sewage plants eat the germs and dirt in water. Whole cities depend on their work.
 - *what is this world:* The Earth has no new water. The same water goes round and round, and rocks, sand, sun and living beings keep cleaning it.
 
-In muddy water, millions of clay bits each keep apart, because each carries the same charge. While they stay apart, none of them can sink, and the water stays cloudy. Phitkari cancels the charges, and the many bits join into a few big clumps. The clay is the same, and the water is the same. Only the way the bits are held together has changed, and the whole glass looks different.
+In muddy water, millions of clay bits keep apart, because they all carry the same kind of charge. While they stay apart, none of them can sink, and the water stays cloudy. Phitkari cancels the charges, and the many bits join into a few big clumps. The clay is the same, and the water is the same. Only the way the bits are held together has changed, and the whole glass looks different.
 
-- **Tao Te Ching 15:** Who can make muddy water clear? Let it be still, and it slowly becomes clear. (Stillness lets sand and silt settle, as in the shaken bottle. But your glass A showed that stillness alone is very slow for the tiniest clay bits. Phitkari helped them do in half an hour what stillness takes days to do.)
-- **Anguttara Nikaya 1.45–46, in the Pali Canon of the Buddha's teachings:** In a muddy, stirred-up pool, a person on the bank cannot see the shells, the pebbles and the fish. In a clear, still pool, they can see them all. The Buddha said a stirred-up mind is like the muddy pool, and a settled mind like the clear one. (In the word test, you could not read the word through cloudy water, but once the mud settled you could read it clearly. The water was the same. What changed was what was floating in it.)
+- **Tao Te Ching 15:** Who can make muddy water clear? Let it be still, and it slowly becomes clear. (Stillness lets sand and silt settle, as in the bottle in Shake the Mud. But glass A in the Phitkari Test showed that stillness alone is very slow for the tiniest clay bits. Phitkari helped them do in half an hour what stillness takes days to do.)
+- **Anguttara Nikaya 1.45–46, in the Pali Canon of the Buddha's teachings:** In a muddy, stirred-up pool, a person on the bank cannot see the shells, the pebbles and the fish. In a clear, still pool, they can see them all. The Buddha said a stirred-up mind is like the muddy pool, and a settled mind like the clear one. (In the Phitkari Test, you could not read the word through the cloudy water. Once the mud settled, you could read it clearly. The water was the same. What changed was what was floating in it.)
 - **Jain tradition: straining drinking water through a cloth, still done in many Jain homes:** Many Jains strain their water through a clean cloth before using it, so that tiny living beings in it are not swallowed or harmed. The strained-out beings are returned to water like the water they came from. (A sand filter also catches tiny living beings, and some of them live on in the filter's living layer, cleaning the water for us.)
-- Science (settled): Small particles sink far more slowly than large ones. Halve the size, and a particle sinks about four times more slowly.
+- Science (settled): Small particles sink far more slowly than large ones. A particle half as wide sinks about four times more slowly.
 - Science (settled): Clay particles carry electric charges on their surfaces, and alum neutralises these so the particles clump.
 - Science (open): Which of the thousands of microbes in a sand filter's living layer do most of the cleaning is still being studied.
 - Other view, Many scientists: Clay bits clump because of electric charges, and that is all. It is a useful fact for cleaning water, but it carries no lesson about people coming together. Reading lessons into mud says more about us than about the mud.
-- Practice, Watch the water settle (3 min): Let's sit beside the glass from the Phitkari Test. Stir it gently once, then put the spoon down. Now we sit very still and watch, and breathe slowly. Watch the flocs drift down. Notice your breath getting slower too. After about two minutes, look through the water. What can you see now that you couldn't see before?
-- Ask: A clay bit in glass A was falling, but too slowly to see. Was it floating, or falling?
-- Ask: The mud in glass B was all still there, only gathered at the bottom. Was the water cleaned, or was the mud only moved?
+- Practice, Watch the water settle (3 min): Let's sit beside glass B from the Phitkari Test. Stir it gently once, then put the spoon down. Now we sit very still and watch, and breathe slowly. Watch the flocs drift down. Notice your breath getting slower too. After about two minutes, look through the water. What can you see now that you couldn't see before?
+- Ask: In the Phitkari Test, a clay bit in glass A was falling, but too slowly to see. Was it floating, or falling?
+- Ask: In the Phitkari Test, the mud in glass B was all still there, only gathered at the bottom. Was the water cleaned, or was the mud only moved?
 - Ask: Rocks, sand, sun and tiny living beings have cleaned your water many times. Who cleaned it before it reached you?
 
 ## Deep and big questions
 - *deep:* Clay is heavier than water. So is a tiny clay bit floating, or is it falling very, very slowly? (hint: Watch a glass of muddy water for a whole day. Does the cloudy part get lower?)
 - *deep:* Phitkari did not take any mud out of the glass. Yet the water became clearer. Where did the cloudiness go? (hint: Look at the bottom of the glass. Is the same mud still there?)
-- *big:* Sand filters work because tiny living beings eat the germs. Who else is cleaning the water you drink, without you knowing? (hint: Think of the soil, the sand under a river, and the living beings in them.)
+- *big:* In a slow sand filter, tiny living beings eat the germs. Who else cleans the water you drink, without you knowing? (hint: Think of the soil, the sand under a river, and the living beings in them.)
 - *big:* Who should pay for clean water: every family, the city, or nobody? (hint: Think about the work and the energy it takes to clean and pump water to your flat.)
 - *deep:* Is dirty water still water? (hint: What is the water itself, and what is carried in it?)
 - *big:* If you save a bucket of water today, where does that water go instead? (hint: It stays in the tank, the lake or the ground. Who else can use it?)
@@ -194,7 +194,7 @@ She opened the box. Inside was a lump of white crystal, like a piece of frosted 
 
 'Padikaram!' said Meenakshi. 'The barber uses that after a shave.'
 
-'Yes,' said Paati. 'And in my village, near the river, we used it every day. River water came brown after the rains. My mother rubbed padikaram inside the pot, or a thetran kottai seed, and the mud went down.'
+'Yes,' said Paati. 'And in my village, near the river, we used it every day. River water came brown after the rains. My mother rubbed padikaram, or a thetran kottai seed, inside the pot, and the mud went down.'
 
 Appa laughed. 'Amma, that's an old village trick. This is city water.'
 
@@ -236,17 +236,17 @@ Appa watched her. 'Only one small bowl of mud. We nearly threw away the whole ta
 
 Two days later, the water came clear again. But Appa kept a lump of padikaram on the kitchen shelf, just in case.
 
-**For the parent:** For the parent: the mud in the tank was made mostly of tiny clay bits. They were heavier than water, but so small that they sank too slowly to see. Their same electric charges also kept them apart. Padikaram, which is alum, cancels those charges and makes the bits stick together into fluffy clumps called flocs. The flocs are big enough to sink, so the water above clears. No mud was removed: it only gathered at the bottom. Because germs may have got in through the broken pipe, the clear water still had to be boiled before drinking. By clearing the water instead of throwing it away, the family saved a whole tank.
+**For the parent:** For the parent: the mud in the tank was made mostly of tiny clay bits. They were heavier than water, but so small that they sank too slowly to see. They also all carried the same kind of electric charge, which kept them apart. Padikaram, which is alum, cancels those charges and makes the bits stick together into fluffy clumps called flocs. The flocs are big enough to sink, so the water above clears. No mud was removed: it only gathered at the bottom. Because germs may have got in through the broken pipe, the clear water still had to be boiled before drinking. By clearing the water instead of throwing it away, the family saved a whole tank.
 
 - Ask: Why did the sand drop to the bottom of the tumbler straight away, but the brown colour stayed?
-- Ask: Why did the sand drop to the bottom at once, but the clay bits did not sink until the padikaram was used?
+- Ask: Why did the clay bits sink only after Paati swirled the padikaram in the water?
 - Ask: What were the fluffy brown things Meenakshi saw?
 - Ask: Why did Meenakshi stop Appa from drinking the clear water?
-- Ask: Paati knew this from her village, and Appa thought it was only an old trick. How did the family find out who was right?
+- Ask: Paati knew from her village that padikaram clears muddy water. Appa thought it was only an old trick. How did the family find out who was right?
 
 ## Games
 ### g1 · Every Drop Counts: a board game of saving water (20 min)
-- **rules:** Each player starts with 10 drops and a counter on START.; On your turn, roll the dice and move your counter round the board. Do what the square says.; On a square that says 'take a card', take the top card and do what it says. The card is news from the flat, so it can be about any room. If a card is about something your home does not have, such as an RO purifier, play it as if you did.; QUESTION cards: another player reads the question. You answer, then they turn the card over and read the answer. Playing alone, answer out loud, then turn the card over.; Put used cards at the bottom of the pile. When you have been through all of them, shuffle and start again.; When you pass START, your trip round the flat is over. Gain 3 drops from the city supply and stop playing. The game ends when every player has finished.; If you run out of drops, your family must wait for a tanker. Miss one turn, then carry on with 5 drops.; The player with the most drops at the end wins. Playing alone, try to finish with more than 15 drops.
+- **rules:** Each player starts with 10 drops and a counter on START.; On your turn, roll the dice and move your counter round the board. Do what the square says.; On a square that says 'take a card', take the top card and do what it says. The card is news from the flat, so it can be about any room. If a card is about something your home does not have, such as an RO purifier, play it as if your home had one.; QUESTION cards: another player reads the question. You answer, then they turn the card over and read the answer. Playing alone, answer out loud, then turn the card over.; Put used cards at the bottom of the pile. When you have been through all of them, shuffle and start again.; When you pass START, your trip round the flat is over. Gain 3 drops from the city supply and stop playing. The game ends when every player has finished.; If you run out of drops, your family must wait for a tanker. Miss one turn, then carry on with 5 drops.; The player with the most drops at the end wins. Playing alone, try to finish with more than 15 drops.
 - **Printable board: A loop of 24 squares through a flat: kitchen, bathroom, balcony, terrace tank:** 0 START, the front door: everyone starts here. When you pass START again, your trip ends and you gain 3 drops from the city supply.; 1 HALL: You wipe the floor with a damp cloth, not a bucket of fresh water. Gain 1 drop.; 2 UTILITY AREA: You run the washing machine with only three clothes in it. Lose 1 drop.; 3 KITCHEN: take a card.; 4 DINING TABLE: You pour each glass half full and refill it when needed. Gain 1 drop.; 5 BATHROOM: take a card.; 6 STAIRS: You see a wet patch on the stairwell wall and tell the building secretary. Gain 1 drop.; 7 BALCONY PLANTS: take a card.; 8 COMMON TAP: A neighbour has left the common tap running. You close it. Gain 1 drop.; 9 CAR PARK: The car is washed with a hose, not a wet cloth. Lose 2 drops.; 10 KITCHEN: take a card.; 11 MUDDY TAP: Brown water comes from the tap. Say one way to clear it, such as letting it settle or using phitkari, and gain 2 drops.; 12 BATHROOM: take a card.; 13 FESTIVAL WASH: Before the festival, you wash the balcony with a bucket and mug, not a hose. Gain 2 drops.; 14 TANKER DAY: The water tanker comes. You store the water in buckets with lids so it stays clean. Gain 1 drop.; 15 BALCONY PLANTS: take a card.; 16 SCHOOL: You remind your class to close the tap after washing hands. Gain 1 drop.; 17 KITCHEN: take a card.; 18 GEYSER: You let the cold water run down the drain while you wait for hot water. Lose 2 drops.; 19 TERRACE: The tank overflow pipe is pouring water. You tell the watchman to switch off the motor. Gain 2 drops.; 20 BATHROOM: take a card.; 21 LONG SHOWER: Your shower goes on for twenty minutes. Lose 2 drops.; 22 TERRACE TANK: take a card.; 23 HAND WASHING: You soap your hands with the tap closed, then rinse. Gain 1 drop.
 - **Printable cards: 20 home cards to cut out:** You scrape your plate into the bin before washing it. Gain 2 drops.; The tap ran while you brushed your teeth. Lose 3 drops.; You poured rice-washing water into the tulsi pot. Gain 2 drops.; The flush has been running all night. Lose 4 drops, unless you say who to call to fix it.; You caught the cold shower water in a bucket for the mop. Gain 3 drops.; Nobody switched off the motor. The terrace tank overflowed. Lose 5 drops.; You washed vegetables in a bowl, not under a running tap. Gain 2 drops.; The RO purifier's reject water went down the drain. Lose 2 drops. Say one job it could have done.; You used the RO purifier's reject water to mop the floor. Gain 2 drops.; You turned off the tap while soaping your hands. Gain 1 drop.; A tap is dripping in the bathroom. Lose 2 drops, unless you tighten it now.; You covered the plant pots with dry leaves, so they need less watering. Gain 2 drops.; QUESTION: Why does clay stay floating in water? Answer right and gain 2 drops. (back: Its bits are so tiny that they sink very slowly, and their charges keep them apart.); QUESTION: What does phitkari do to muddy water? Answer right and gain 2 drops. (back: It makes the tiny bits clump into flocs, which sink.); QUESTION: Is clear water always safe to drink? Answer right and gain 2 drops. (back: No. It may still have germs. Boil it or purify it.); QUESTION: Name one thing a city adds to kill germs in water. Answer right and gain 2 drops. (back: Chlorine.); QUESTION: Which used water can go to plants: rice-washing water or oily kadai water? Answer right and gain 2 drops. (back: Rice-washing water. Oil coats the soil and the roots.); QUESTION: What is the living layer on top of a sand filter good for? Answer right and gain 2 drops. (back: Its tiny living beings eat germs.); TEST IT: Everyone guesses how full a mug will be if the tap runs into it for 10 seconds. Then run the tap into the mug for 10 seconds. Everyone whose guess was within a finger's height gains 1 drop.; TEST IT: Walk to the nearest tap and check that it is fully closed and not dripping. If it is fine, gain 1 drop. If it drips, tighten it and gain 2 drops.
 - **Printable tokens: Water drops, counters and a dice:** Cut out 30 small paper drops for each player and colour them blue. Two players need 60 drops, four players need 120.; Each player needs one counter, such as a button, a coin or a small stone.; One dice. If you have none, write 1 to 6 on six small papers, fold them and pick one from a bowl instead of rolling.
@@ -264,7 +264,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent says:* Before you read the answer on the back, tell me why you think so.  
   *Child mode:* Roll and move. Read the card out loud. Say your answer before you turn a question card over.
   - Ask: Which cards saved the most drops? (good: Catching the cold shower water; Washing vegetables in a bowl; Right answers on QUESTION cards)
-  - Ask: Which card lost the most? (good: The overflowing tank; The running flush)
+  - Ask: Which card lost the most drops? (good: The overflowing tank; The running flush)
   - Note: If a child is losing many drops, ask: 'What could that family do next time?' The game is about noticing choices, not about luck.
 - **s4 (2 min)**  
   *Parent does:* Count the drops. Then ask your child to choose one card that could really happen in your home this week.  
@@ -285,7 +285,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent says:* Where does this water go? Why can't it go to the plants?  
   *Child mode:* Read your card. Put it under a job. Say why.
   - Note: Soapy water is fine for flushing and mopping. A little mild soap water now and then does not harm most plants, but it is better not to use it every day.
-  - Check: Ammu, a girl in Class 3 in Kochi, has a bowl of oily water from washing the kadai. Where should it go? → **Down the drain**
+  - Check: Where should a bowl of oily water from washing the kadai go? → **Down the drain**
 - **s3 (3 min)**  
   *Parent does:* Check the answer key together. Talk about any card you disagreed on.  
   *Parent says:* Which card was hardest to sort? Why?  
@@ -323,7 +323,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent does:* After 5 minutes, look closely at glass B from the side, near a window.  
   *Parent says:* Look very closely at glass B. Can you see anything new in the water?  
   *Child mode:* Look closely at glass B. What can you see in the water now?
-  - Note: Small fluffy clumps, called flocs, usually appear within a few minutes and start drifting down. Glass A looks the same as at the start. A lump dissolves slowly. If nothing happens in B after 10 minutes, rub the phitkari for another 10 seconds, or stir in a small pinch of powder. If your soil is only a little cloudy, both glasses may clear faster, and the difference will be smaller.
+  - Note: Small fluffy clumps, called flocs, usually appear within a few minutes and start drifting down. Glass A looks the same as at the start. A lump dissolves slowly. If nothing happens in B after 10 minutes, rub the phitkari for another 10 seconds, or stir in a small pinch of powder. If your muddy water is only a little cloudy, both glasses may clear faster, and the difference will be smaller.
 - **s6 (10 min)**  
   *Parent does:* At 15 and at 30 minutes: 1. Do the word test on both glasses. 2. Measure the height of the clear water on top with a ruler. 3. Fill in the table.  
   *Parent says:* Let's read the word again, and measure how much clear water is on top of each glass.  
@@ -336,7 +336,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: phitkari makes muddy water clear. What I saw: in glass B, fluffy clumps formed and sank, and I could read the word after 30 minutes. Glass A was still too cloudy. Why: the phitkari made the tiny mud bits stick together, and big clumps sink. Look at glass A again 2 hours later, or before bed. It is often still cloudy.
   - Think: The mud in glass B is all still there, on the bottom. So what really changed?
 ### e2 · The Plate Test: which way of washing wastes least water? (30 min)
-- **question:** Three ways of washing the same dirty plate: under a running tap, scrub first with the tap off, or scrape first and dip in a bowl. Which uses least water?
+- **question:** There are three ways to wash a dirty plate: scrub it under a running tap, scrub it with the tap off and then rinse, or scrape it first and wash it in a bowl. Which way uses the least water?
 - **predict:** Guess first. Which way will use the least water, and which the most? About how many mugs will each use? Why do you think so?
 - **fair test:** Use three plates of the same kind with the same amount of the same food, dried for the same time. Wash each until it squeaks clean. Catch every drop in a basin and measure it with the same mug.
 - **record:** Fill in the table. Draw a bar for each way of washing, one square for each mug.
@@ -367,21 +367,21 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent says:* Which way used least water? Were all three plates clean? Why did that way use less?  
   *Child mode:* Which way used least? Were all the plates clean? Why?
   - Note: In most homes, way 1 uses several times as much as way 3, but your numbers depend on your tap. Any result is a real result. If two ways come out the same, try them once more, because one try can be a fluke.
-  - Check: Lakshmi, a girl in Mysuru, washed plates in all three ways. Way 1 used 8 mugs, way 2 used 4 and way 3 used 2. Why did way 1 use the most? → **The tap ran the whole time, even while she scrubbed**
+  - Check: In one Plate Test, way 1 used 8 mugs, way 2 used 4 and way 3 used 2. Why did way 1 use the most? → **The tap ran the whole time, even during the scrubbing**
 ### e3 · The Leaf Blanket: does covering the soil save water? (25 min, 3 days)
 - **question:** If we cover the soil in a pot with dry leaves, does it stay wet longer than bare soil?
 - **predict:** Guess first. Two pots of wet soil sit in the sun. One has a blanket of dry leaves on top. Which will dry out first? Why do you think so?
 - **fair test:** Use two pots or steel tumblers of the same size, filled with the same soil and the same amount of water, in the same sunny spot. Only the leaf cover changes.
 - **record:** Fill in the table each day. On day 3, draw what the soil looked like when you tipped each pot out.
 - **results table:** Day | Bare pot: top feels wet or dry? | Bare pot: wet 2 cm down? | Covered pot: top feels wet or dry? | Covered pot: wet 2 cm down?
-- **schedule:** day 1: Fill both pots with the same soil, water them the same, and cover one with dry leaves. Put both in the sun. (10 min); day 2: Feel the top of both, then push a finger 2 cm down. Is it wet or dry? (5 min); day 3: Check again, then tip both out on newspaper and compare. (10 min)
+- **schedule:** day 1: Fill both pots with the same soil, water them the same, and cover one with dry leaves. Put both in the sun. (10 min); day 2: Feel the top of the soil in both pots, then push a finger 2 cm down. Is it wet or dry? (5 min); day 3: Check again, then tip both out on newspaper and compare. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Fill both pots with soil, pressed down the same. 2. Pour half a mug of water into each, slowly. 3. Cover the soil in one pot with a layer of dry leaves about 2 cm thick. 4. Put both in the same sunny spot.  
   *Parent says:* Both pots get the same soil and the same water. Only one gets a leaf blanket. Which do you think will stay wet longer, and why?  
   *Child mode:* Fill both pots. Water both the same. Cover one with dry leaves. Put both in the sun. Which will stay wet? Why?
 - **s2 (5 min)**  
   *Parent does:* The next day, feel the top of the bare soil. Lift the leaves and feel the top of the covered soil. Then push a finger 2 cm into each.  
-  *Parent says:* Feel the top of each. Then push your finger in, about as deep as your fingernail is long, twice. Wet or dry?  
+  *Parent says:* Feel the top of each. Then push your finger in about 2 cm, which is about twice the length of your fingernail. Wet or dry?  
   *Child mode:* Feel the top of each pot. Push a finger in. Wet or dry?
   - Wait: Check the next day.
 - **s3 (10 min)**  
@@ -389,7 +389,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent says:* Let's tip them out. Which soil is darker? Darker soil is wetter. What did the leaves do?  
   *Child mode:* Tip both pots out. Which soil is darker and wetter? Why?
   - Note: In hot sun, the bare soil usually turns pale and hard on top by day 2 or 3, while the soil under the leaves stays dark. In very humid weather the difference is smaller, so give it an extra day.
-  - Check: Farhan, a boy in Hyderabad, covered one pot with dry leaves. After 3 sunny days, that soil was still damp, and the bare soil was dry and pale. Why? → **The leaves shaded the soil and kept the moving air off it, so less water evaporated**
+  - Check: One pot of wet soil was covered with dry leaves and one was left bare. After 3 sunny days, the covered soil was still damp, and the bare soil was dry and pale. Why? → **The leaves shaded the soil and kept the moving air off it, so less water evaporated**
   - Wait: Check on day 3.
 
 ## Activities
@@ -420,18 +420,19 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Child mode:* Put a bowl by the sink. Rice and vegetable water goes in it. Make a tally sheet for 7 days.
   - Note: Only rice, dal and vegetable washing water goes in the bowl. Never put in oily or soapy water.
 - **s2 (1 min)**  
-  *Parent does:* Each day, pour the bowl on the plants one mug at a time. Add a tally mark for each mug.  
+  *Parent does:* Each day, pour the water from the bowl onto the plants, one mug at a time. Add a tally mark for each mug.  
   *Parent says:* How many mugs did the plants get today?  
-  *Child mode:* Pour the bowl on the plants, one mug at a time. Make a tally for each mug.
+  *Child mode:* Pour the water from the bowl onto the plants, one mug at a time. Make a tally for each mug.
   - Note: Use the water on the same day. Water left standing smells, and mosquitoes breed in it.
   - Wait: Do this every day for a week.
 - **s3 (9 min)**  
   *Parent does:* On day 7, count all the tallies. Count how many mugs fill your bucket, and work out how many buckets you saved.  
   *Parent says:* How many mugs did we reuse this week? How many buckets is that?  
   *Child mode:* Count all the mugs. How many mugs fill a bucket? How many buckets did you save?
-  - Ask: Why is rice water good for plants, but kadai water is not? (good: Rice water has only starch and a little dust; Oil coats the soil and the roots)
+  - Ask: Why is rice water good for plants, but oily water from washing the kadai is not? (good: Rice water has only starch and a little dust; Oil coats the soil and the roots)
   - Note: Rice-washing water is safe and slightly milky from starch. Pour it on the soil, not the leaves. Most families reuse 10 to 30 mugs a week, but count your own.
 ### a3 · The RO Bucket (if your home has an RO purifier) (20 min)
+- **problem:** A home RO purifier makes drinking water by pushing tap water through a very fine sheet. The sheet holds back salts and germs. The salts left behind are washed away with some of the water. That wasted water is called reject water. In this activity you catch it and measure how much there is.
 - **safety:** A grown-up finds the reject pipe. Don't open or unplug the purifier.
 - **record:** Write: drinking water made, reject water caught, and how many litres of reject water for each litre of drinking water.
 - **s1 (5 min) · grown-up needed**  
@@ -448,13 +449,14 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent says:* How many litres were sent away for one litre of drinking water? What can this water do instead of going down the drain?  
   *Child mode:* Measure the bucket water with the bottle. How many litres? What job can it do?
   - Note: Many older home RO machines send away 2 to 3 litres for each litre made, and newer ones less. Your result depends on your purifier and your water. If your purifier makes water very slowly, measure for a shorter time and compare.
-  - Check: Divya's family RO sent away 3 litres while making 1 litre of drinking water. What is the best use for those 3 litres? → **Mop the floor or flush the toilet**
+  - Check: An RO purifier sent away 3 litres of reject water while making 1 litre of drinking water. What is the best use for those 3 litres? → **Mop the floor or flush the toilet**
 ### a4 · The Seed That Clears Water (30 min)
+- **problem:** Before water plants, people cleared muddy water with crushed seeds. In this activity you crush a dried seed, stir it into one glass of muddy water, and see whether the mud clumps and settles as it does with phitkari.
 - **safety:** A grown-up crushes the seeds. Nobody eats the seeds or drinks the water.
 - **record:** Draw both glasses after 30 minutes and after 2 hours. Write which seed you used.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. Peel off any husk or wings. 2. A grown-up crushes the seeds into a fine powder. 3. Mix the powder with one spoon of clean water to make a milky paste.  
-  *Parent says:* People in Tamil Nadu used this seed to clear water from rivers and wells. Women in Sudan used drumstick seeds. Let's see if it works on our mud.  
+  *Parent does:* 1. Peel any husk or wings off the kataka seeds or dried drumstick seeds. 2. A grown-up crushes the seeds into a fine powder. 3. Mix the powder with one spoon of clean water to make a milky paste.  
+  *Parent says:* People in Tamil Nadu used the kataka seed to clear water from rivers and wells. Women in Sudan used drumstick seeds. Let's see if a seed works on our mud.  
   *Child mode:* A grown-up crushes the seeds. Mix the powder with a spoon of water.
 - **s2 (2 min)**  
   *Parent does:* Stir the paste into one glass of muddy water for 30 seconds. Stir the other glass the same, with nothing added.  
@@ -462,8 +464,8 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Child mode:* Stir the paste into one glass. Stir the other glass the same. Then wait.
 - **s3 (20 min)**  
   *Parent does:* Leave both still. Compare them at 30 minutes, and again 2 hours later if you can.  
-  *Parent says:* Is the seed glass clearer? Is it as fast as the phitkari was?  
-  *Child mode:* Compare the glasses after 30 minutes. Which is clearer? Was the phitkari faster?
+  *Parent says:* Is the seed glass clearer? Did it clear as fast as glass B did in the Phitkari Test?  
+  *Child mode:* Compare the glasses after 30 minutes. Which is clearer? Did the seed clear the mud as fast as phitkari did?
   - Ask: Why do you think people used seeds before phitkari was easy to buy? (good: Seeds grew nearby; They were free)
   - Note: Seed powders usually work more slowly than phitkari and need the water to be quite muddy. Results vary with the seeds, so if nothing changes, that is a real result. If the difference is small at 30 minutes, look again after 2 hours. Fresh green drumstick seeds do not work well, so use dried ones.
 ### a5 · Water Walk Round the Building (25 min)
@@ -482,7 +484,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent does:* Back home, finish the list. Choose one idea and decide who to tell, such as the building secretary or the school office.  
   *Parent says:* Which idea would save the most water? Who can make it happen?  
   *Child mode:* Which idea saves the most? Who could you tell?
-  - Ask: Which place that you found wastes the most water in a day, and how could you check? (good: The tank that overflows; A dripping tap that runs all night; Measure how long it runs)
+  - Ask: Which place on your walk wastes the most water in a day? How could you check? (good: The tank that overflows; A dripping tap that runs all night; Measure how long it runs)
 ### a6 · Where Does Our Used Water Go? (20 min)
 - **safety:** Look at drains from a distance. Don't open manholes or touch drain water.
 - **record:** A drawn map: sink, drain pipe, building sewer line, city sewer, treatment plant, river or lake.
@@ -506,7 +508,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent says:* You are the water scientist in this house. Which three changes should we try? Which do you think will save the most?  
   *Child mode:* Hold a family meeting. Pick three ways to save water. Which will save the most?
 - **s2 (3 min)**  
-  *Parent does:* Each evening, your child asks each person and ticks the chart. Any water caught in a bucket is counted in mugs.  
+  *Parent does:* Each evening, your child asks each person which changes they made, and ticks the chart. Any water caught in a bucket is counted in mugs.  
   *Parent says:* Did we do all three today? How many mugs did we catch?  
   *Child mode:* Ask everyone. Tick the chart. Count the mugs caught today.
   - Wait: Do this every evening for a week.
@@ -518,17 +520,17 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 
 ## Challenges
 ### c1 · The Two-Step Water Cleaner (35 min)
-- **problem:** Kavya, a girl in Class 3, has one jug of very muddy water. Make it as clear as you can in 35 minutes, using phitkari, settling and a home filter. Nobody drinks it.
-- **your turn:** Design your own two-step cleaner. Draw it, try it, and test the clearness with the word test. Then say what your cleaner cannot take out.
+- **problem:** You have one jug of very muddy water. Make it as clear as you can in 35 minutes, using phitkari, settling and a home filter. Nobody drinks it.
+- **your turn:** Design your own two-step cleaner. Draw it and try it. Test how clear the water is with the word test: can you read a big word on paper through the glass? Then say what your cleaner cannot take out.
 - **constraints:** Use only things from home and a little phitkari.; You have 35 minutes, including waiting time.; Nobody drinks the water, however clear it looks.
-- **general:** Rub phitkari in the jug, wait 20 minutes for the flocs to settle, then gently pour the clear top water into a glass.; Make a bottle filter: turn the top half of a bottle upside down into the bottom half. Tie a cloth over the neck, then fill it with cotton wool, washed sand, then small stones.; Pour the settled water through the filter, so it catches any flocs that floated up.
+- **general:** Rub phitkari in the jug, wait 20 minutes for the flocs to settle, then gently pour the clear top water into a glass.; Make a bottle filter: turn the top half of a bottle upside down into the bottom half. Tie a cloth over the neck. Then fill the top half with a layer of cotton wool, then washed sand, then small stones.; Pour the settled water through the filter, so it catches any flocs that floated up.
 - **creative:** Filter first, then add phitkari, and compare with doing it the other way round.; Pour off the top water with a ladle, slowly, so the mud on the bottom is not stirred up.; Wash the sand well first. Unwashed sand adds its own fine dust to the water.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at the muddy jug. Plan the order of your two steps.  
   *Parent says:* Which do you think works best: phitkari first, then filter, or filter first? Why?  
   *Child mode:* Look at the muddy water. Plan your two steps. Which goes first? Why?
 - **s2 (25 min) · grown-up needed**  
-  *Parent does:* 1. Rub phitkari in the jug and leave it still. The flocs need about 20 minutes to settle. 2. While you wait, build the filter. 3. Pour the clear top water slowly through the filter into a clean glass. 4. Do the word test on the result.  
+  *Parent does:* 1. Rub phitkari in the jug and leave it still. The flocs need about 20 minutes to settle. 2. While you wait, build the filter. 3. Pour the clear top water slowly through the filter into a clean glass. 4. Hold the paper with the big word behind the glass. Can you read it?  
   *Parent says:* Can you read the word through your water? What could make it even clearer?  
   *Child mode:* Rub phitkari in the jug and leave it. While you wait, build your filter. Then pour the clear water through it. Can you read the word?
   - Note: A grown-up cuts the bottle. Phitkari first, then settling, then filtering usually gives the clearest water, because the filter doesn't clog with mud.
@@ -536,16 +538,16 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Parent does:* Compare with a second try, such as filtering the muddy water without phitkari. Then talk about what is still in the water.  
   *Parent says:* Your water is clear. Is it safe to drink? What else would we need to do?  
   *Child mode:* Is your clear water safe to drink? What else is needed?
-  - Check: Kavya's water is now very clear. What must she still do before anyone could drink it? → **Boil it or purify it, to kill germs**
+  - Check: After phitkari, settling and filtering, the water is very clear. What must still be done before anyone could drink it? → **Boil it or purify it, to kill germs**
 ### c2 · The Tank-Full Alarm (35 min)
-- **problem:** Ammu, a girl in Class 3 in Kochi, sees water pouring from her building's tank every morning. Make a model tank from a bottle, and build something that shows a signal when the water is nearly at the top.
+- **problem:** Water pours out of a building's tank every morning when it overflows. A light thing such as a cork floats on water, and it rises as the water rises. Make a model tank from a bottle, and build something that gives a signal when the water is nearly at the top.
 - **your turn:** Now invent your own tank alarm. Draw it, build it, and fill your tank slowly from the jug. Does it warn you before the water spills?
 - **constraints:** Use only things from home.; No electricity from the wall socket.; The signal must be easy to see or hear from a step away.
-- **general:** Tape a stick to a floating cork. As the water rises, the stick pushes up a paper flag above the top of the bottle.; Mark a full line on the outside of the bottle so you can see the level.; Hang a bell from the paper bridge above the float, and tape a stick to the float. When the water is nearly full, the stick touches the bell and it rings.
+- **general:** Tape a stick to a floating cork. As the water rises, the stick pushes up a paper flag above the top of the bottle.; Mark a full line on the outside of the bottle so you can see the level.; Make a paper bridge across the top of the bottle and hang a bell from it. Tape a stick to the float. When the tank is nearly full, the stick touches the bell and it rings.
 - **creative:** Real tanks often use a float switch. A float rises with the water and flips a switch that turns off the motor.; Put the flag where the person filling the tank can see it from far away.; Some buildings fit a pipe that lets the overflow fall into a lower sump instead of the drain.
 - **s1 (5 min)**  
   *Parent does:* Fill the bottle tank slowly until it overflows into a tray. Talk about the problem.  
-  *Parent says:* Imagine this is the tank on our terrace, and nobody can see inside it. How would we know when to stop the motor?  
+  *Parent says:* Think of this as the tank on our terrace. Nobody can see inside it. How would we know when to stop the motor?  
   *Child mode:* Fill the bottle until it spills. How could you know before it spills?
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* Draw two ideas. Build the best one. Test it by filling the tank from the jug, and improve it.  
@@ -560,18 +562,18 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 
 ## Worksheets
 ### Why Mud Sinks and How We Save Water (core) (core, 16 questions)
-1. (order) Meenakshi, a girl in Madurai, shakes soil and water in a bottle and stands it on the table. Put these in the order they settle, first to last.  
+1. (order) Shake soil and water in a bottle and stand it on the table. Put these in the order they settle, first to last.  
    **Answer:** ['Small stones', 'Sand', 'Fine silt', 'Clay, which stays floating longest']. *Why:* Bigger, heavier bits sink faster. Stones drop in a second, sand in a few seconds, silt over a minute or two, and the tiny clay bits can float for a day or more.
-2. (mcq) After the bottle settles, the water on top is still cloudy. What is making it cloudy?  
+2. (mcq) In Shake the Mud, the stones and sand settle in the bottle, but the water on top is still cloudy. What is making it cloudy?  
    Options: Tiny clay bits, still floating / Air bubbles / Salt from the soil / Light from the window  
    **Answer:** Tiny clay bits, still floating. *Why:* The cloudiness is tiny clay bits. They are heavier than water but sink very slowly because they are so small. Salt dissolves and can't be seen, so it does not make water cloudy.
-3. (truefalse) Arjun, a boy in Class 3, says: 'If something is still floating in water, it must be lighter than water.' Is he right?  
+3. (truefalse) If something is still floating in water, it must be lighter than water.  
    **Answer:** False. *Why:* False. Clay is heavier than water, yet tiny clay bits stay floating for hours. Small bits sink so slowly that they look like they are floating. A strong answer gives clay as the example.
 4. (fill) Phitkari makes tiny bits of mud stick together into soft clumps called ____.  
    **Answer:** ['flocs', 'floc']. *Why:* Flocs are fluffy clumps of tiny dirt bits. They are big enough to sink, so the water above clears.
 5. (write) Use your own results table from the Phitkari Test. Write two numbers that show whether phitkari made a difference, and say what each number means.  
    **Answer:** For example: glass B had 8 cm of clear water on top at 30 minutes, and glass A had 1 cm. The bigger number shows that more of the water had cleared. Your own numbers will differ.. *Why:* A strong answer uses real numbers from the table, says which glass each belongs to, and says what the difference tells us.
-6. (mcq) Revathi, a girl in Chennai, rubs phitkari in a glass of muddy water. After 30 minutes the water is clear on top, with brown mud at the bottom. Where did the mud go?  
+6. (mcq) Phitkari is rubbed in a glass of muddy water. After 30 minutes the water is clear on top, with brown mud at the bottom. Where did the mud that made the water cloudy go?  
    Options: The phitkari ate it / It turned into water / It clumped together and sank to the bottom / It went into the air  
    **Answer:** It clumped together and sank to the bottom. *Why:* The mud did not disappear. Phitkari made the tiny bits stick into flocs, and the flocs sank. All the mud is still in the glass, on the bottom.
 7. (draw) Draw two glasses of the same muddy water 30 minutes after the Phitkari Test started: glass A without phitkari, glass B with phitkari. Show the clear water and the mud.  
@@ -584,8 +586,8 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 10. (truefalse) Water that looks clear is always safe to drink.  
    **Answer:** False. *Why:* False. Germs are too small to see, so clear water can still make people ill. Drinking water must be boiled, chlorinated or purified. A strong answer explains why we can't trust our eyes here.
 11. (sort) Sort each kind of used water: can it water plants, or should it go down the drain?  
-   **Answer:** water from rinsing rice → Plants; oily water from washing a kadai → Drain; water from washing vegetables → Plants; toilet water → Drain; cooled water from boiling eggs → Plants; water with floor-cleaning liquid → Drain. *Why:* Rice and vegetable water have only starch and a little dust. Oily, soapy-heavy and toilet water harm soil or carry germs, so they go down the drain.
-12. (mcq) A girl washed three plates in the Plate Test. Which way used the least water?  
+   **Answer:** water from rinsing rice → Plants; oily water from washing a kadai → Drain; water from washing vegetables → Plants; toilet water → Drain; cooled water from boiling eggs → Plants; water with floor-cleaning liquid → Drain. *Why:* Rice and vegetable water have only starch and a little dust. Oily water, water with strong cleaners and toilet water harm the soil or carry germs, so they go down the drain.
+12. (mcq) In the Plate Test, three plates are washed in three ways. Which way uses the least water?  
    Options: Scrubbing under a running tap / Scrubbing with the tap off, then rinsing / Scraping first, washing in a bowl, rinsing with one mug  
    **Answer:** Scraping first, washing in a bowl, rinsing with one mug. *Why:* Scraping first removes most of the food without water. A bowl and one mug use only the water that does a job. A running tap pours water down the drain while you scrub.
 13. (odd) Three of these save water at home. Which one wastes water?  
@@ -598,14 +600,14 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 16. (fill) Using water again for a second job, like pouring rice water on plants, is called ____.  
    **Answer:** ['reuse', 'reusing']. *Why:* Reuse means using something again. Grey water, such as rice-washing water, can be reused for plants or mopping.
 ### Clumps, Sand and Second Uses (stretch) (stretch, 16 questions)
-1. (mcq) Two jars hold the same muddy water. Jar 1 has big sand grains. Jar 2 has fine clay. Both are made of rock. Which clears first?  
+1. (mcq) Two jars hold the same amount of water. Jar 1 has big sand grains stirred in. Jar 2 has fine clay stirred in. Sand and clay are both made of rock. Which jar clears first?  
    Options: Jar 1, because bigger bits sink faster / Jar 2, because clay is heavier / Both at the same time / Neither ever clears  
    **Answer:** Jar 1, because bigger bits sink faster. *Why:* Sand and clay are both heavier than water, but the bigger sand grains push through the water quickly. The tiny clay bits are slowed almost to a stop. Size decides how fast they sink.
 2. (write) Tiny clay bits all carry the same kind of electric charge. Explain how this stops them from clumping together and sinking.  
    **Answer:** Things with the same kind of charge push each other away. So the clay bits keep apart and never join into clumps big enough to sink.. *Why:* A strong answer links 'same charge' to 'push apart', and 'apart' to 'too small to sink'.
 3. (truefalse) Phitkari takes the mud out of the water.  
    **Answer:** False. *Why:* False. Phitkari makes the mud clump and sink, but the mud is still in the vessel, lying on the bottom. You still have to pour the clear water off the top.
-4. (mcq) Nandini, a girl in Class 3, made the Phitkari Test with potting mix that was mostly cocopeat. The water stayed brown, even with phitkari. What is the best next step?  
+4. (mcq) The Phitkari Test was done with potting mix that was mostly cocopeat. The water stayed brown, even with phitkari. What is the best next step?  
    Options: Give up: phitkari doesn't work / Try again with red soil or multani mitti, which have lots of clay / Add five spoons of phitkari / Shake the glass hard  
    **Answer:** Try again with red soil or multani mitti, which have lots of clay. *Why:* Phitkari works best on clay. Cocopeat is made of plant fibre, and part of the brown colour is dissolved in the water, so phitkari clears it less well. Testing again with a clay soil checks the idea fairly.
 5. (label) Label the parts of a slow sand filter, from top to bottom.  
@@ -617,7 +619,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
    **Answer:** ['Add alum so the mud clumps', 'Let the clumps settle in still tanks', 'Trickle the water through sand', 'Add a little chlorine', 'Pump the water to homes']. *Why:* Clumping must come before settling, and settling before sand, so the sand doesn't clog. Chlorine comes last before the pipes, so some stays to keep killing germs.
 8. (write) In the Leaf Blanket test, the soil under dry leaves stayed wet longer. Explain why, and say how this could save water on a balcony garden.  
    **Answer:** The leaves shaded the soil and kept wind off it, so less water evaporated from the top. Covering pots with dry leaves means you water them less often.. *Why:* A strong answer names evaporation and links it to watering less.
-9. (mcq) Shreya, a girl in Class 3, has an RO purifier that made 1 litre of drinking water and sent away 3 litres. How much water did it use in total?  
+9. (mcq) An RO purifier made 1 litre of drinking water and sent away 3 litres. How much water did it use in total?  
    Options: 1 litre / 3 litres / 4 litres / 2 litres  
    **Answer:** 4 litres. *Why:* 1 litre of drinking water plus 3 litres of reject water is 4 litres in total. Only a quarter of the water became drinking water.
 10. (sort) Sort each place where a home loses water: does it waste water while nobody is using it, or while someone is using it?  
@@ -631,31 +633,31 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
    **Answer:** That water is clean and would otherwise go down the drain. *Why:* The cold water that comes before the hot water is perfectly clean. Catching it means it can water plants or flush the toilet instead of being wasted.
 14. (fill) A blanket of dry leaves or husk on soil that keeps water from evaporating is called ____.  
    **Answer:** ['mulch']. *Why:* Farmers and gardeners use mulch so that plants need less watering.
-15. (write) Paati says, 'Clear water is ready for boiling. It is not ready for drinking.' What does she mean?  
+15. (write) In the story The Brown Tap, Paati says, 'Clear water is ready for boiling. It is not ready for drinking.' What does she mean?  
    **Answer:** Phitkari and settling have made the water clear, but germs may still be in it. Boiling kills the germs. Only then is it safe to drink.. *Why:* A strong answer separates clear (no mud) from safe (no germs).
 16. (truefalse) The water used to rinse rice is good for watering potted plants.  
    **Answer:** True. *Why:* True. It has only a little starch and dust, which do not harm the soil. Pour it on the soil, not the leaves.
 ### Water Puzzles and Big Ideas (challenge) (challenge, 16 questions)
 1. (write) A grain of sand drops to the bottom of a glass in a second. A clay bit can take a day. Both are made of rock. Explain why, in your own words.  
    **Answer:** The clay bit is far, far smaller. When something sinks, the water has to move out of its way, and that slows it. For a tiny bit, the water slows it almost to a stop. So size decides how fast it sinks, not only what it is made of.. *Why:* A strong answer says the material is the same, so the difference must be size, and explains how water slows small things most.
-2. (mcq) Pooja, a girl in Pune, says: 'If phitkari makes clumps, then more phitkari will always make bigger clumps and clearer water.' What is the best way to check?  
-   Options: Believe her, it sounds right / Test glasses of the same muddy water with a little, some, and a lot of phitkari, and compare / Add a whole lump to one glass / Ask a friend  
+2. (mcq) Here is a claim: 'If phitkari makes clumps, then more phitkari will always make bigger clumps and clearer water.' What is the best way to check it?  
+   Options: Believe it, because it sounds right / Test glasses of the same muddy water with a little, some, and a lot of phitkari, and compare / Add a whole lump to one glass / Ask a friend  
    **Answer:** Test glasses of the same muddy water with a little, some, and a lot of phitkari, and compare. *Why:* A fair test with different amounts, and everything else the same, shows what really happens. Water engineers do exactly this in a 'jar test' to find the right dose. More is not always better, and too much makes the water sour.
-3. (write) In 1892, Hamburg and Altona breathed the same air and stood on the same ground. Altona filtered its water, and Hamburg did not. Altona had far less cholera. What does this show, and why was it strong evidence?  
+3. (write) In 1892, the city of Hamburg and the town of Altona, in Germany, stood side by side, with the same air and the same ground. Altona filtered its water, and Hamburg did not. Altona had far less cholera. What does this show, and why was it strong evidence?  
    **Answer:** It shows cholera spreads through water, and that filtering stops much of it. It is strong because the air and the ground were the same, so the only big difference was the water.. *Why:* A strong answer sees that Hamburg and Altona were like a natural fair test, with the water as the one difference.
-4. (perspective) In 1892 two scientists argued about cholera.  
+4. (perspective) In 1892 two scientists argued about cholera. That year, Hamburg did not filter its river water and Altona did, and Altona had far less cholera.  
    **Answer:** A strong answer uses the Hamburg and Altona evidence to back Koch, then says fairly what Pettenkofer noticed: cholera was worse in some places and seasons, and not everyone who swallowed the germ fell very ill.. *Why:* Koch was right that the germ in water causes cholera. Pettenkofer was right that not everyone who takes in the germ gets very ill, which depends on the body and on how many germs. But he was wrong that cholera could not spread through water.
-5. (label) Label what each step of Kavya's Two-Step Water Cleaner removes.  
+5. (label) A home water cleaner has two steps: phitkari and settling, then a sand filter. Label what each step removes.  
    **Answer:** ['Phitkari and settling: most of the mud, as flocs', 'Sand filter: flocs that floated up and finer bits', 'Neither step: germs and dissolved salt']. *Why:* Each step removes something different. Neither phitkari nor sand reliably removes germs or salt, which is why boiling or purifying is still needed.
-6. (mcq) The settling tanks at a city water works are out of order for a day. What problem would the sand filters have?  
+6. (mcq) The settling tanks at a city water plant are out of order for a day. What problem would the sand filters have?  
    Options: None at all / They would clog fast with mud and need cleaning very often / The water would get salty / The chlorine would stop working  
    **Answer:** They would clog fast with mud and need cleaning very often. *Why:* Settling takes out most mud before the sand. Without it, the sand gets all the mud and its gaps fill quickly, so water flows slowly and the filters need scraping much more often.
 7. (write) Tiny living beings in a sand filter and in a sewage plant eat dirt and germs. Should we think of them as workers, like the people at the plant? Give a reason.  
-   **Answer:** A strong answer gives a reason, for example: yes, because they do much of the cleaning and the city depends on them, and they choose what to eat, or: they do it for their own life, not for us.. *Why:* There is no single right answer. A strong answer uses what the unit says the microbes do, and is fair to the other view.
-8. (mcq) Muddy river water clears faster in a matka in the hot sun than on a cold night, if everything else is the same. Which is the best fair test to check this?  
+   **Answer:** A strong answer gives a reason. For example: yes, because they do much of the cleaning, they choose what to eat, and the city depends on them. Or: no, because they eat for their own lives, not for us.. *Why:* There is no single right answer. A strong answer uses what the unit says the microbes do, and is fair to the other view.
+8. (mcq) Someone says muddy river water clears faster in a matka in the hot sun than on a cold night. Which is the best fair test to check this?  
    Options: Leave one matka in the sun and one in the cold, with the same water, the same phitkari and the same time / Use one matka and look at it twice / Use different water in each / Ask Paati  
    **Answer:** Leave one matka in the sun and one in the cold, with the same water, the same phitkari and the same time. *Why:* A fair test changes only the one thing you want to check, here the temperature, and keeps the water, the phitkari and the time the same.
-9. (order) Put these in order from the most water saved each day to the least, for a family whose terrace tank overflows for 10 minutes every morning, whose tap drips slowly, and who brush with the tap running for 1 minute.  
+9. (order) A family's terrace tank overflows for 10 minutes every morning. Their tap drips slowly. They brush with the tap running for 1 minute. Put these fixes in order, from the most water saved each day to the least.  
    **Answer:** ['Stopping the overflowing tank', 'Turning the tap off while brushing', 'Fixing the slow drip']. *Why:* An overflow pipe pours out far more water in 10 minutes than a tap does in 1 minute, and a slow drip loses the least each day. A strong answer explains the order by how fast the water flows and for how long.
 10. (write) Why is it a good idea to clear muddy water with phitkari before boiling it, even though boiling kills the germs?  
    **Answer:** Boiling kills germs but leaves the mud in the water. Clearing first takes out the mud, so the water tastes and looks better, and boiling and purifiers work better on clear water.. *Why:* A strong answer says clearing and boiling do different jobs, and both are needed for muddy water.
@@ -671,8 +673,8 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
    **Answer:** Just after it is scraped off, the filter lets more germs through until the layer grows back. *Why:* If water gets less clean right after the layer is removed, and cleaner again as it grows back, that points to the layer doing the work. How a thing looks is not evidence of what it does.
 15. (fill) Making tiny bits in water stick together into clumps, as phitkari does, is called ____.  
    **Answer:** ['coagulation']. *Why:* Coagulation is the first step at most water plants. It turns tiny floating bits into flocs that settle.
-16. (write) Kamala Paati knew from her village that padikaram clears water. Appa thought it was only an old trick. How should we decide whether an old way of doing things works?  
-   **Answer:** Test it fairly: try it and a control side by side, with only one difference, and look at the result. Old ways can be right or wrong, and a test shows which.. *Why:* A strong answer says neither 'old' nor 'new' makes something right, and the test is what decides.
+16. (write) In the story The Brown Tap, Kamala Paati knew from her village that padikaram clears water. Appa thought it was only an old trick. How should we decide whether an old way of doing things works?  
+   **Answer:** Test it fairly: try it side by side with the same thing done without it, so there is only one difference, and look at the result. Old ways can be right or wrong, and a test shows which.. *Why:* A strong answer says neither 'old' nor 'new' makes something right, and the test is what decides.
 
 ## Videos
 - **Water Purification - Why is alum added to water? | #aumsum #kids #science #education #children** (It's AumSum Time, 4 min) id `_Da7_AhqH5o`: Shows flocs forming and settling, the same as the Phitkari Test, for a child who wants to see it again. *Check:* Not yet watched by a person: watch it first.
@@ -680,9 +682,9 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **Slow Sand Filtration** (American Water College, 1.5 min) id `fBKlXDx6txo`: A short, clear look at how a slow sand filter cleans water, including the living layer on top. For the parent and curious older children. *Check:* Found by search: "Slow Sand Filtration" by American Water College, 1 minute 29 seconds. A parent may preview it. It may not mention that the water still needs disinfection to be safe to drink, so say so after watching.
 
 ## Quiz
-1. (mcq) Meera, a girl in Class 3 in Tirunelveli, leaves a glass of muddy water on the table. The sand sinks at once, but the water stays cloudy for hours. Why?  
+1. (mcq) A glass of muddy water is left on the table. The sand sinks at once, but the water stays cloudy for hours. Why?  
    Options: The water is too cold / The tiny clay bits sink very, very slowly / The sand pushes the clay up / Cloudy water is lighter  
-   **Answer:** The tiny clay bits sink very, very slowly. *Why:* Clay is heavier than water, but its bits are so tiny that they sink very slowly. Picking 'sand pushes the clay up' guesses at a push that isn't there.
+   **Answer:** The tiny clay bits sink very, very slowly. *Why:* Clay is heavier than water, but its bits are so tiny that they sink very slowly. The sand does not push the clay up: there is no such push.
 2. (mcq) Why don't tiny clay bits in water stick together by themselves?  
    Options: They are too wet / They carry the same kind of electric charge, so they push each other apart / They are too hot / They are moving too fast to see  
    **Answer:** They carry the same kind of electric charge, so they push each other apart. *Why:* Things with the same kind of charge push each other away, like two balloons rubbed on hair. So the clay bits keep apart.
@@ -701,18 +703,18 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 7. (mcq) A glass of well water is perfectly clear. Is it safe to drink?  
    Options: Yes, because it is clear / Not until it is boiled or purified, because germs are too small to see / Yes, if it is cold / No, clear water is never safe  
    **Answer:** Not until it is boiled or purified, because germs are too small to see. *Why:* Germs are invisible. Clear water still needs boiling, chlorine or a purifier to be safe. Picking 'never safe' goes too far: purified clear water is safe.
-8. (mcq) Anitha, a girl in Class 3, compares three ways of washing plates. She puts a spoon of curd rice on plate 1, two spoons of dal on plate 2 and nothing on plate 3. Why is her test unfair?  
-   Options: The plates have different amounts of food, so the washing water is not a fair comparison / Plate 3 is too clean to be a plate / Curd rice is a bad food / She should use only one plate  
-   **Answer:** The plates have different amounts of food, so the washing water is not a fair comparison. *Why:* In a fair test only the way of washing changes. If the plates have different amounts of food, the water used might depend on the food, not on the way of washing.
-9. (mcq) Kavitha, a girl in Class 3 in Guwahati, has four kinds of used water. Which one should go to her balcony plants?  
+8. (mcq) A test compares three ways of washing plates. Plate 1 has a spoon of curd rice on it, plate 2 has two spoons of dal and plate 3 has nothing. Why is this test unfair?  
+   Options: The plates have different amounts of food, so the water used can't be compared fairly / Plate 3 is too clean to be a plate / Curd rice is a bad food / The test should use only one plate  
+   **Answer:** The plates have different amounts of food, so the water used can't be compared fairly. *Why:* In a fair test only the way of washing changes. If the plates have different amounts of food, the water used might depend on the food, not on the way of washing.
+9. (mcq) Which of these four kinds of used water should go to balcony plants?  
    Options: Oily water from washing a kadai / Water from rinsing rice / Toilet water / Water with floor-cleaning liquid  
    **Answer:** Water from rinsing rice. *Why:* Rice-washing water has only a little starch and dust, which do not harm plants. The others harm the soil or carry germs.
-10. (mcq) Kavitha, a girl in Guwahati, has an RO purifier sends away reject water. What is the best job for it?  
+10. (mcq) An RO purifier sends away reject water. What is the best job for that water?  
    Options: Drinking / Mopping the floor / Watering plants every day / Making tea  
    **Answer:** Mopping the floor. *Why:* Reject water is salty, so it isn't good for drinking or for plants every day. It is fine for mopping or flushing.
-11. (mcq) In 1892, Altona had far less cholera than Hamburg, next door. What was different?  
-   Options: Altona had cleaner air / Altona filtered its river water through sand / Altona had no river / Altona's people were stronger  
-   **Answer:** Altona filtered its river water through sand. *Why:* Both towns had the same air and ground. Altona's water passed through slow sand filters, and Hamburg's did not. This showed cholera travels in water.
+11. (mcq) Two towns stand side by side, with the same air and the same ground. One town filters its river water through sand, and the other does not. The filtering town has far less cholera. What does this show?  
+   Options: Cholera spreads through the air / Cholera travels in water, and filtering stops much of it / The towns had different weather / The people in one town were stronger  
+   **Answer:** Cholera travels in water, and filtering stops much of it. *Why:* The air and the ground were the same, so the big difference was the water. That makes it like a natural fair test.
 12. (mcq) Which of these saves the most water in a building where the terrace tank overflows every morning?  
    Options: Brushing faster / An alarm or float switch so the motor stops when the tank is full / Using a smaller mug / Drinking less water  
    **Answer:** An alarm or float switch so the motor stops when the tank is full. *Why:* An overflowing tank pours away a lot of clean water every day. Stopping the motor in time saves all of it.
@@ -739,7 +741,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - Big round tanks at a city water treatment plant, seen from a train or a bus.
 
 ## Open questions
-- **What is the best low-cost way to make water safe for every family?** Boiling uses fuel, chlorine tastes, and filters need care. Scientists are still testing which ways families keep using for years.
+- **What is the best low-cost way to make water safe for every family?** Boiling uses fuel, chlorine changes the taste, and filters need care. Scientists are still testing which ways families keep using for years.
 - **Exactly which living beings in a slow sand filter do the most cleaning?** The living layer holds thousands of kinds of microbes and tiny animals. Scientists are still finding out who does what, and how they work together.
 - **Do seeds like moringa and kataka clear water as well as alum, and are they safe to use every day?** Tests show they work, but results vary with the seeds and the water. Scientists are still studying the best doses and long-term safety.
 - **How can cities stop losing so much water from leaking pipes?** Many cities lose a large share of their cleaned water through leaks under the ground. Finding leaks without digging up roads is still hard.
@@ -749,7 +751,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - When it rains hard, why do you think the river or canal turns brown?
 - Where in our home do you think the most water goes down the drain without doing a job?
 - Is the water from the tap today clearer or cloudier than usual? Why might that be?
-- What could we do with the water we wait through for the hot shower?
+- What could we do with the cold water that runs while we wait for the shower to get hot?
 - If you were in charge of the building, what would you change to save water?
 - Which plants on our balcony could have a leaf blanket?
 - Why do you think the barber keeps phitkari?
@@ -769,10 +771,10 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 
 ## Connected maths
 - In the Plate Test, washing under a running tap used 8 mugs. Scraping first and using a bowl used 2 mugs. How many times as much water did the running tap use? **4 times as much.**. The running tap used 8 mugs and the bowl way used 2. 8 divided by 2 is 4. Check: 2 + 2 + 2 + 2 = 8. So the running tap used 4 times as much. (queues `math.division.sharing-and-grouping.L3`)
-- Your family washes 12 plates a day. Washing them the bowl way saves 6 mugs for each plate. One mug holds half a litre. How many litres does that save in a day? **36 litres a day.**. 12 plates times 6 mugs is 72 mugs. Each mug is half a litre, so 72 mugs is 36 litres. That is about three and a half 10-litre buckets every day. (queues `math.weight-capacity.capacity.L3`)
-- In the Phitkari Test, the clear water on top of glass B was 0 cm at 5 minutes, 4 cm at 15 minutes and 8 cm at 30 minutes. Glass A stayed at 0 cm, then 1 cm at 30 minutes. Draw a bar chart for 30 minutes. How much more clear water did glass B have? **7 cm more.**. At 30 minutes, glass B had 8 cm of clear water and glass A had 1 cm. 8 minus 1 is 7. So glass B had 7 cm more clear water. (queues `math.data.bar-charts.L3`)
-- In the Phitkari Test, glass B had 4 cm of clear water at 15 minutes and 8 cm at 30 minutes. Arjun, a boy in Class 3, predicts it will have 16 cm at 60 minutes. His glass is only 10 cm tall. What is wrong with his prediction? **The clear water can't be taller than the glass. Once the flocs have all settled, the clear part stops growing, a little below the top of the mud layer.**. Doubling worked from 15 to 30 minutes, but the pattern can't go on for ever. The glass is only 10 cm tall, and some of it is filled with mud at the bottom. So the clear part must stop at less than 10 cm. (queues `math.data.bar-charts.L3`)
-- Divya, a girl in Class 3, has an RO purifier that sends away 3 litres for every 1 litre of drinking water. Her family drinks 8 litres a day. How much reject water is made each day, and how many 10-litre buckets of mopping water is that? **24 litres a day, which is 2 full buckets and 4 litres more.**. 8 litres of drinking water times 3 is 24 litres of reject water. A bucket holds 10 litres. 24 is 10 + 10 + 4. So that is 2 full buckets and 4 litres more. (queues `math.weight-capacity.capacity.L3`)
+- Your family washes 12 plates a day. Scraping first and using a bowl saves 6 mugs for each plate, compared with a running tap. One mug holds half a litre. How many litres does that save in a day? **36 litres a day.**. 12 plates times 6 mugs is 72 mugs. Each mug is half a litre, so 72 mugs is 36 litres. That is about three and a half 10-litre buckets every day. (queues `math.weight-capacity.capacity.L3`)
+- In the Phitkari Test, the clear water on top of glass B was 0 cm at 5 minutes, 4 cm at 15 minutes and 8 cm at 30 minutes. Glass A was at 0 cm at 5 and 15 minutes, and 1 cm at 30 minutes. Draw a bar chart for 30 minutes. How much more clear water did glass B have? **7 cm more.**. At 30 minutes, glass B had 8 cm of clear water and glass A had 1 cm. 8 minus 1 is 7. So glass B had 7 cm more clear water. (queues `math.data.bar-charts.L3`)
+- In the Phitkari Test, glass B had 4 cm of clear water at 15 minutes and 8 cm at 30 minutes. Someone predicts it will have 16 cm at 60 minutes. The glass is only 10 cm tall. What is wrong with this prediction? **The clear water can't be taller than the glass. Once the flocs have all settled, the clear part stops growing, because the mud layer fills the bottom of the glass.**. Doubling worked from 15 to 30 minutes, but the pattern can't go on for ever. The glass is only 10 cm tall, and some of it is filled with mud at the bottom. So the clear part must stop at less than 10 cm. (queues `math.data.bar-charts.L3`)
+- An RO purifier sends away 3 litres for every 1 litre of drinking water. A family drinks 8 litres a day. How much reject water is made each day, and how many 10-litre buckets of mopping water is that? **24 litres a day, which is 2 full buckets and 4 litres more.**. 8 litres of drinking water times 3 is 24 litres of reject water. A bucket holds 10 litres. 24 is 10 + 10 + 4. So that is 2 full buckets and 4 litres more. (queues `math.weight-capacity.capacity.L3`)
 
 ## Song
 Where the Water Goes (sci.water.L3): Topic-level song for Water L3

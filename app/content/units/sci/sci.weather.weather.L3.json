@@ -3,11 +3,11 @@
  "title": "Measuring the weather: thermometers, rain gauges and wind vanes",
  "level": 3,
  "summary": {
-  "text": "Hang a thermometer in the sun and it can read many degrees more than one in the shade, in the same air. A thermometer shows how warm the thermometer itself is, and sunlight heats it. So weather stations keep their thermometers in the shade, inside a white box with slatted sides. A rain gauge measures rain as a depth in millimetres. A wide pot and a narrow jar, both with straight sides, fill to the same depth in the same rain. A wind vane turns to point to where the wind is coming from. Write these readings down every day in a weather diary, and patterns appear: the warmest time of day, the wettest week, the usual wind.",
+  "text": "Hang a thermometer in the sun and it can read many degrees more than one in the shade, in the same air. A thermometer shows how warm the thermometer itself is, and sunlight heats it. So weather stations keep their thermometers in the shade, inside a white box with slatted sides. A rain gauge measures rain as a depth in millimetres. A wide pot and a narrow jar, both with straight sides, fill to the same depth in the same rain. A wind vane turns to point to where the wind is coming from. Write these readings down every day in a weather diary. Then patterns appear, such as the warmest time of day, the wettest week and the usual wind direction.",
   "art": "A city balcony with a thermometer hanging under a small white paper roof, a plastic jar with a ruler on the ledge, and a card-and-straw wind vane on a bottle, with a child writing in a notebook."
  },
  "intro": {
-  "hook": "The radio says it is 36 degrees in Chennai today. The thermometer on Nila's sunny balcony says 45. Both thermometers work. So which one is telling the truth about the air?",
+  "hook": "Nila hangs a thermometer on her sunny balcony in Chennai. It says 45 degrees. The radio says it is 36 degrees in Chennai today. Both thermometers work. So which one tells the truth about the air?",
   "text": "Weather is what the air is doing right now: how warm it is, whether rain is falling, and which way the wind blows. To compare one day with another, or one town with another, people measure it. In this unit you measure temperature with a thermometer, rain with a rain gauge and wind with a wind vane. You find out why a thermometer must be kept in the shade. Then you keep your own weather diary, like the weather scientists of India.",
   "art": "Two thermometers side by side on a balcony grill, one in bright sun showing 45 and one in shade showing 36, with a small radio on the table inside."
  },
@@ -211,8 +211,8 @@
    "definition": "Wind speed is how fast the air is moving. An anemometer measures it. You can also judge it by eye, from what the wind does to things around you.",
    "description": "In a cup anemometer, the wind pushes the open side of each cup harder than the round back, so the cups spin. The faster they spin, the stronger the wind. Long before machines, sailors judged the wind from what they saw. In 1805, Francis Beaufort, an officer in the British navy, wrote down a scale from 0, calm, to 12, a hurricane. At first, each number was described by what the wind did to a ship's sails. Later, signs on land were added, such as smoke rising straight up or branches swaying. Weather offices still use a version of his scale.",
    "examples": [
-    "Calm: smoke rises straight up and leaves do not move.",
-    "A strong breeze: big branches sway and it is hard to hold an umbrella."
+    "When the wind is calm, smoke rises straight up and leaves do not move.",
+    "In a strong breeze, big branches sway and it is hard to hold an umbrella."
    ],
    "perspectives": [],
    "art": "A row of five little pictures from calm to strong wind: still clothes, gently moving leaves, a flapping flag, swaying branches, an umbrella turned inside out.",
@@ -225,7 +225,7 @@
    "description": "The Sun is highest at about noon, but the air keeps warming after that. The ground and buildings keep taking in sunlight and passing warmth to the air. Until mid-afternoon, they take in more heat than they lose. After that, the Sun is lower and they lose more than they take in, so the air starts to cool. All night, heat keeps leaving, so the coolest time is just before the Sun comes back. Clouds change this. On a cloudy or rainy day, the temperature may hardly change at all.",
    "examples": [
     "A shade thermometer in Madurai might read 28 °C at 7 in the morning, 35 °C at noon and 37 °C at 3 in the afternoon.",
-    "A pot of water on the stove keeps getting hotter for a while even after you turn the flame down a little."
+    "Think of a pot of water on the stove. If you turn the flame down a little, the water still gets hotter for a while. The ground and the air do the same after noon. The Sun gets weaker, but it still gives them more heat than they lose."
    ],
    "perspectives": [],
    "art": "A line chart of one day's temperature rising from dawn, peaking in mid-afternoon, and falling through the night, with a small Sun high at noon.",
@@ -534,9 +534,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Add up the points. 2. Ask which mistake card was the trickiest.",
-     "say": "Which mistake would be the easiest to make at home?",
-     "kid": "Add up your points. Which mistake card was hardest?"
+     "do": "1. Add up the points. 2. Ask which mistake card could happen at your home, and how to fix it.",
+     "say": "Which mistake card could happen on our own balcony? How would we fix it?",
+     "kid": "Add up your points. Which mistake could happen at home? How would you fix it?"
     }
    ],
    "setup": [
@@ -2877,7 +2877,7 @@
    "evidence": "In the Sun or Shade test, the reading under the white paper roof, in the same sunny spot, fell back close to the shade reading. The air had not changed. Only the sunlight landing on the thermometer had changed."
   },
   "three": {
-   "who_am_i": "Your skin is a kind of thermometer too. In a sunny patch it feels hot, even when the air is the same as in the shade.",
+   "who_am_i": "Your skin works a little like a thermometer. In a sunny patch it feels hot, because sunlight is warming your skin. The air there may be no warmer than the air in the shade.",
    "what_is_life": "Plants, birds and ants all sense the weather. A crow pants and sits in the shade on a hot afternoon, just as you would.",
    "what_is_this_world": "The same sunlight falls on the air, the ground and the walls. Each one takes in a different amount and warms in its own way."
   },
@@ -2891,7 +2891,7 @@
    {
     "source": "Bhagavad Gita, chapter 13, opening verses",
     "teaching": "The body is called the field. The one who knows the field is called the knower of the field.",
-    "link": "A thermometer is part of the place it measures. Sunlight landing on it changes its reading, so we have to know where it hangs to know what its reading means."
+    "link": "A thermometer hangs in the same place that it measures, so that place warms it. Sunlight landing on it changes its reading. So we have to know where it hangs to know what its reading means."
    }
   ],
   "science": [
@@ -2911,8 +2911,8 @@
   "practice": {
    "title": "Be the thermometer",
    "mins": 3,
-   "say": "Let's stand in a patch of sunlight by the window. Close your eyes. Hold out your arms. Feel the warmth on your skin for ten slow breaths. Now step into the shade. Keep your eyes closed. Feel your arms for ten more breaths. The air did not change. What changed?",
-   "kid": "Stand in a sunny patch. Close your eyes. Feel your arms for ten breaths. Now step into the shade. Feel again. What changed?"
+   "say": "Let's stand in a patch of sunlight by the window. Close your eyes. Hold out your arms. Feel the warmth on your skin for ten slow breaths. Now step into the shade. Keep your eyes closed. Feel your arms for ten more breaths. The air did not change. So what made your arms feel different? Tell me what you think. Then I will tell you. The sunlight was landing on your skin and warming it. Your skin felt how warm your skin was, not how warm the air was. A thermometer in the sun does the same thing.",
+   "kid": "Stand in a sunny patch. Close your eyes. Feel your arms for ten breaths. Step into the shade and feel again. The air did not change. What made your arms feel different?"
   },
   "ask": [
    "In the Sun or Shade test, the thermometer gave three numbers on one balcony. Can more than one of them be true?",

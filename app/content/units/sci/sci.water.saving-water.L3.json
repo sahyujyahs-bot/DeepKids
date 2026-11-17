@@ -118,7 +118,7 @@
    "concept": "Why big bits sink fast and tiny bits stay up",
    "status": "defined",
    "definition": "In still water, a bit of dirt that is heavier than water sinks. But the smaller the bit, the more slowly it sinks. The tiniest clay bits sink so slowly that they can stay floating for a day or more.",
-   "description": "When something sinks, the water has to move out of its way, and that slows it down. A big sand grain is heavy enough to push through quickly. A clay bit is so tiny that the water slows it almost to a stop. If a sand grain were as small as a clay bit, it would sink just as slowly. So size matters as much as what the bit is made of. That is why muddy water first drops its sand, then its silt, and keeps its clay floating.",
+   "description": "When something sinks, the water has to move out of its way, and that slows it down. A big sand grain is heavy enough to push through quickly. A clay bit is so tiny that the water slows it almost to a stop. If a sand grain were as small as a clay bit, it would sink just as slowly. So size matters as much as what the bit is made of. That is why muddy water first drops its sand, then its silt, which is soil finer than sand but coarser than clay, and keeps its clay floating.",
    "examples": [
     "A shaken bottle of soil and water shows layers within a minute: small stones at the bottom, sand above them, then fine silt. The water on top stays cloudy.",
     "Dust in a sunbeam floats in the air for a long time, though dust is heavier than air. It is the same idea: tiny bits fall very slowly.",
@@ -237,7 +237,7 @@
    "examples": [
     "Scrape leftover food into the bin before washing a plate, so you need less water to rinse it.",
     "Catch the cold water from the shower or the geyser pipe in a bucket while you wait for hot water. Use it for the toilet or the mop.",
-    "A plastic bottle filled with water and put in an old large toilet tank makes each flush use less water."
+    "A plastic bottle filled with water and put in an old large toilet tank takes up room in the tank. The tank then fills with less water, so each flush uses less."
    ],
    "perspectives": [],
    "art": "A cartoon home cut open: a running tap with nobody near it, a dripping flush, an overflowing tank on the roof, each with a small blue arrow going down a drain.",
@@ -336,7 +336,7 @@
    "for": "RO removes salts and germs, and some tap water in India is salty or has harmful salts.",
    "against": "Where water is not salty, a purifier that kills germs, or boiling, is enough. RO also throws away a lot of water and some useful minerals.",
    "status": "debated",
-   "context": "This card is about whether every home needs an RO water purifier."
+   "context": "RO stands for reverse osmosis. An RO purifier pushes water through a very fine sheet that holds back salts and germs. Some of the water is sent away as reject water. This card asks whether every home needs one."
   },
   {
    "claim": "Cholera spreads through bad air from rotting rubbish.",
@@ -344,7 +344,7 @@
    "for": "Cholera was worst in smelly, crowded places.",
    "against": "Smelly places also had the dirtiest water. In 1892, Altona and Hamburg stood side by side and had the same air. Altona filtered its water and had far less cholera.",
    "status": "rejected",
-   "context": "This card is about an old wrong idea of how cholera spreads."
+   "context": "Miasma was the old idea that diseases spread through bad air that rises from rotting things. Many doctors believed it before germs were known. This card asks whether cholera really spreads that way."
   }
  ],
  "big_questions": [
@@ -359,7 +359,7 @@
    "hint": "Look at the bottom of the glass. Is the same mud still there?"
   },
   {
-   "q": "Sand filters work because tiny living beings eat the germs. Who else is cleaning the water you drink, without you knowing?",
+   "q": "In a slow sand filter, tiny living beings eat the germs. Who else cleans the water you drink, without you knowing?",
    "kind": "big",
    "hint": "Think of the soil, the sand under a river, and the living beings in them."
   },
@@ -1423,7 +1423,8 @@
      "art": "A child filling a 1-litre bottle from a bucket of reject water and counting on fingers.",
      "caption": "2. Measure the reject water with a 1-litre bottle."
     }
-   ]
+   ],
+   "problem": "A home RO purifier makes drinking water by pushing tap water through a very fine sheet. The sheet holds back salts and germs. The salts left behind are washed away with some of the water. That wasted water is called reject water. In this activity you catch it and measure how much there is."
   },
   {
    "id": "a4",
@@ -1481,7 +1482,7 @@
      "mins": 20,
      "do": "Leave both still. Compare them at 30 minutes, and again 2 hours later if you can.",
      "say": "Is the seed glass clearer? Did it clear as fast as glass B did in the Phitkari Test?",
-     "kid": "Compare the glasses after 30 minutes. Which is clearer? Was the phitkari in the Phitkari Test faster?",
+     "kid": "Compare the glasses after 30 minutes. Which is clearer? Did the seed clear the mud as fast as phitkari did?",
      "parent": "Seed powders usually work more slowly than phitkari and need the water to be quite muddy. Results vary with the seeds, so if nothing changes, that is a real result. If the difference is small at 30 minutes, look again after 2 hours. Fresh green drumstick seeds do not work well, so use dried ones.",
      "ask": [
       {
@@ -1503,7 +1504,8 @@
      "art": "Two glasses of muddy water, one with milky seed paste being stirred in, the other being stirred with an empty spoon.",
      "caption": "2. Stir the paste into one glass, and stir the other the same."
     }
-   ]
+   ],
+   "problem": "Before water plants, people cleared muddy water with crushed seeds. In this activity you crush a dried seed, stir it into one glass of muddy water, and see whether the mud clumps and settles as it does with phitkari."
   },
   {
    "id": "a5",
@@ -1812,7 +1814,7 @@
    "title": "The Tank-Full Alarm",
    "mins": 35,
    "context": "This is an engineering challenge. Many buildings waste water every day because the overhead tank overflows. You design a model alarm that warns you when a tank is nearly full.",
-   "problem": "Water pours out of a building's tank every morning when it overflows. Make a model tank from a bottle, and build something that gives a signal when the water is nearly at the top.",
+   "problem": "Water pours out of a building's tank every morning when it overflows. A light thing such as a cork floats on water, and it rises as the water rises. Make a model tank from a bottle, and build something that gives a signal when the water is nearly at the top.",
    "constraints": [
     "Use only things from home.",
     "No electricity from the wall socket.",
@@ -3075,7 +3077,7 @@
    "evidence": "In the Phitkari Test, glass A stayed cloudy for hours. Glass B, with the same clay and the same stirring, grew fluffy flocs that sank, and the water cleared in about half an hour. Nothing was taken out of glass B. The mud was all still there, on the bottom."
   },
   "three": {
-   "who_am_i": "Your kidneys clean your blood all day, passing it through millions of tiny filters. You are a water cleaner too.",
+   "who_am_i": "Your body cleans water too. Your two kidneys pass your blood through millions of tiny filters every day.",
    "what_is_life": "Tiny living beings in sand filters and sewage plants eat the germs and dirt in water. Whole cities depend on their work.",
    "what_is_this_world": "The Earth has no new water. The same water goes round and round, and rocks, sand, sun and living beings keep cleaning it."
   },
@@ -3099,7 +3101,7 @@
   ],
   "science": [
    {
-    "text": "Small particles sink far more slowly than large ones. Halve the size, and a particle sinks about four times more slowly.",
+    "text": "Small particles sink far more slowly than large ones. A particle half as wide sinks about four times more slowly.",
     "status": "settled"
    },
    {

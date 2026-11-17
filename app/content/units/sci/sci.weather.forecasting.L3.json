@@ -3,7 +3,7 @@
  "title": "Forecasting the weather: using today's sky to tell tomorrow's",
  "level": 3,
  "summary": {
-  "text": "Nobody can see tomorrow, yet weather forecasts are right on most days. A forecast is a careful guess about the weather to come, made from what the air is doing now. Clouds, the wind and damp air are signs of what is coming. Old weather sayings are how people remembered these signs. Some sayings work, some work only in one place, and some do not work at all. Weather moves across the land and sea, so the weather heading your way is already somewhere else today. Weather offices, such as the India Meteorological Department, collect readings from all over the world and use computers to work out how the air will move. Forecasts get less sure the further ahead they look, because small things nobody measured grow bigger.",
+  "text": "Nobody can see tomorrow, yet weather forecasts are right on most days. A forecast is a careful guess about the weather to come, made from what the air is doing now. Clouds, the wind and damp air are signs of what is coming. Old weather sayings are how people remembered these signs. Some sayings work, some work only in one place, and some do not work at all. Weather moves across the land and sea, so the weather heading your way is already somewhere else today. Weather offices, such as the India Meteorological Department, collect readings from all over the world and use computers to work out how the air will move. Forecasts get less sure the further ahead they look. Small mistakes in today's measurements grow bigger as the days go by.",
   "art": "A girl on a city balcony in Chennai looking east at the sea, where tall clouds are building far away. On the railing beside her, a notebook with three columns of ticks, and a phone showing a rain cloud symbol."
  },
  "intro": {
@@ -132,9 +132,9 @@
    "definition": "Different kinds of cloud form in different kinds of air, so the kind of cloud you see tells you something about the weather to come.",
    "description": "Clouds are made of tiny drops of water or tiny bits of ice, floating in the air. Small puffy cumulus clouds that stay small usually mean fine weather. Cumulus clouds that grow taller and taller during a hot afternoon can become a cumulonimbus, a storm cloud with thunder and heavy rain. A grey sheet of low cloud that covers the whole sky often brings long, steady rain. Thin wisps of cirrus, very high up, are made of ice. When cirrus slowly spreads and thickens into a sheet, a big storm system may be coming, a day or more ahead. No cloud is a sure sign. Each one makes some weather more likely.",
    "examples": [
-    "Fluffy clouds that stay small all afternoon: probably no rain today.",
-    "A cloud tower building fast over the hills behind Coimbatore in the afternoon: a thunderstorm may come within an hour or two.",
-    "High streaks of cirrus thickening into a milky sheet: rain may come in a day or two."
+    "You see fluffy clouds that stay small all afternoon. Probably no rain will fall today.",
+    "A cloud tower builds fast over the hills behind Coimbatore in the afternoon. A thunderstorm may come within an hour or two.",
+    "High streaks of cirrus thicken into a milky sheet. Rain may come in a day or two."
    ],
    "perspectives": [],
    "art": "Four clouds in a row, each with a small label: small puffy cumulus, a tall cumulonimbus tower, a flat grey rain sheet, and high wispy cirrus.",
@@ -157,7 +157,7 @@
    "concept": "Weather moves",
    "status": "defined",
    "definition": "Clouds, rain and storms travel across land and sea, carried by winds high in the sky. So the weather coming to you tomorrow is often somewhere else today.",
-   "description": "The rain that falls on Chennai today may have been out over the Bay of Bengal yesterday. A storm is a huge swirl of moving air, and the whole swirl travels. The wind you feel on the ground is the air swirling around the storm. That wind can blow one way while the storm itself moves another way. Benjamin Franklin found this in 1743. Clouds high up are often carried by winds that are different from the wind near the ground. This is why weather offices need readings from far away. To forecast tomorrow in Chennai, they need to know what the weather is doing over the sea today.",
+   "description": "The rain that falls on Chennai today may have been out over the Bay of Bengal yesterday. A storm is a huge swirl of moving air, and the whole swirl travels. The wind you feel on the ground is the air swirling around the storm. That wind can blow one way while the storm itself moves another way. Benjamin Franklin first noticed this in 1743. The wind of one storm blew from the northeast, yet the whole storm travelled towards the northeast. Clouds high up are often carried by winds that are different from the wind near the ground. This is why weather offices need readings from far away. To forecast tomorrow in Chennai, they need to know what the weather is doing over the sea today.",
    "examples": [
     "Before the northeast monsoon rains reach Chennai in October and November, the clouds often build over the Bay of Bengal, to the east.",
     "A thunderstorm seen over the hills to the west of Bengaluru may reach the city an hour later."
@@ -170,7 +170,7 @@
    "concept": "Do weather sayings work?",
    "status": "debated",
    "definition": "",
-   "description": "Every part of the world has weather sayings. Some come from careful watching over many years and work well. Some work only in the place where they began. Some tell you the season, not the weather on one day. And some do not work at all. The only way to know is to test a saying, many times, and count how often it is right. 'Red sky at night, shepherd's delight' comes from England, where most weather arrives from the west. A red sunset means the sky to the west is clear, so fine weather is coming. In places where the weather arrives from the east, the same sign can mean something else. Peacocks call loudly and dance in the monsoon. That is their breeding season, which comes with the rains. So the peacock tells you the season, not tomorrow's rain.",
+   "description": "Every part of the world has weather sayings. Some come from careful watching over many years and work well. Some work only in the place where they began. Some tell you the season, not the weather on one day. And some do not work at all. The only way to know is to test a saying, many times, and count how often it is right. 'Red sky at night, shepherd's delight' comes from England, where most weather arrives from the west. The Sun sets in the west, and a red sunset means the sky there is clear. In England, clear sky in the west means fine weather is on its way. In places where the weather arrives from the east, the same sign can mean something else. Peacocks call loudly and dance in the monsoon. That is their breeding season, which comes with the rains. So the peacock tells you the season, not tomorrow's rain.",
    "examples": [
     "'Red sky at night, shepherd's delight. Red sky in the morning, shepherd's warning.' An old English saying.",
     "In Tamil Nadu people say 'Aippasi adai mazhai': in the month of Aippasi, which falls in October and November, the rain sets in and does not stop. This matches the northeast monsoon.",
@@ -234,7 +234,7 @@
    "definition": "A weather warning tells people that dangerous weather, such as a cyclone, very heavy rain or a heat wave, is coming, so they can get ready or move to safety.",
    "description": "Forecasts matter most when the weather is dangerous. In 1999 a very strong cyclone hit Odisha, and about ten thousand people died. In October 2013, the India Meteorological Department tracked Cyclone Phailin for days and forecast where and when it would cross the coast. Close to a million people in Odisha and Andhra Pradesh moved to shelters before the storm hit. Phailin was also a very powerful cyclone, but far fewer people died. The India Meteorological Department now gives warnings in colours: green means no warning, yellow means be aware, orange means be prepared, and red means take action. Fishers along the coast are told not to go out to sea when a storm is coming.",
    "examples": [
-    "A red warning for very heavy rain in Kerala: schools close and people living near rivers move to higher ground.",
+    "The weather office gives a red warning for very heavy rain in Kerala. Schools close, and people who live near rivers move to higher ground.",
     "Ports in India raise warning signals for ships when a storm is near."
    ],
    "perspectives": [],
@@ -301,7 +301,7 @@
    "for": "The forecast seemed to say rain was unlikely, and then it rained.",
    "against": "30% means rain on about 3 of every 10 days like this one. Rain on one such day is what the forecast allowed. To judge the forecast, you need to check many days.",
    "status": "rejected",
-   "context": "This card is about what a percentage chance of rain really means."
+   "context": "A forecast of 30% chance of rain means that on 10 days like this one, rain falls on about 3 of them. This card asks whether rain on such a day means the forecast was wrong."
   },
   {
    "claim": "'Red sky at night, shepherd's delight' works everywhere.",
@@ -309,7 +309,7 @@
    "for": "In England, where most weather comes from the west, a red sunset often means a clear sky to the west and fine weather coming.",
    "against": "The saying depends on which way the weather usually travels. Where weather often arrives from the east, as in Chennai in the northeast monsoon, the sign may not work. Test it where you live.",
    "status": "debated",
-   "context": "This card is about whether a weather saying from one country works in another."
+   "context": "The saying is 'Red sky at night, shepherd's delight'. It says that a red sky at sunset is a sign of fine weather the next day. This card asks whether the saying works in every country."
   },
   {
    "claim": "Animals can sense rain a day or more before it comes.",
@@ -501,7 +501,7 @@
       },
       {
        "f": "The weather office gives a red warning for very heavy rain.",
-       "b": "Steady rain (and danger: follow the warning)"
+       "b": "Steady rain, and danger. Follow the warning."
       },
       {
        "f": "Today was hot and dry, and the sky is still clear tonight.",
@@ -509,7 +509,7 @@
       },
       {
        "f": "Peacocks calling loudly in July.",
-       "b": "Rain in a day or two (not certain: peacocks call every monsoon, so this tells the season more than tomorrow)",
+       "b": "Rain in a day or two (not certain). Peacocks call every monsoon, so this sign tells you the season more than tomorrow's weather.",
        "img": {
         "src": "media/cards/forecasting-g1-0-14.jpg",
         "credit": "Parth Kansara, CC BY, via iNaturalist"
@@ -1038,7 +1038,8 @@
      "art": "A simple bar chart drawn in a notebook with three bars of different heights, labelled 'Same as today', 'Me' and 'The app'.",
      "caption": "4. After 7 days, add up the points and draw a bar chart."
     }
-   ]
+   ],
+   "problem": "The simplest forecast is 'tomorrow will be like today'. A good forecast has to do better than that. In this contest you find out whether your own eyes or the weather app do better."
   },
   {
    "id": "e2",
@@ -1077,7 +1078,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up runs the hot water. Hot water and hot taps can scald. Don't eat the salt afterwards: throw it away or use it to scrub a vessel.",
+   "safety": "A grown-up runs the hot water, because hot water and hot taps can scald. Do not eat the salt afterwards. Throw it away or use it to scrub a vessel.",
    "schedule": [
     {
      "day": 1,
@@ -1201,7 +1202,8 @@
      "art": "Two plates held tilted side by side: salt sliding off one, salt stuck in damp lumps on the other.",
      "caption": "3. Tilt both plates. Which salt sticks?"
     }
-   ]
+   ],
+   "problem": "The air gets damp before rain. A steamy bathroom quickly makes damp air at home. If damp air changes salt, lumpy salt may be a rain sign."
   },
   {
    "id": "e3",
@@ -1307,7 +1309,7 @@
        "The clouds are standing still"
       ],
       "a": 0,
-      "why": "Clouds are carried by the wind high up, which can blow a different way from the wind near the ground. This is how the storm Benjamin Franklin studied in 1743 could travel against its own ground wind. To forecast, you watch which way the clouds come from, not only which way the ground wind blows."
+      "why": "Clouds are carried by the wind high up, which can blow a different way from the wind near the ground. In the same way, a storm that Benjamin Franklin studied in 1743 travelled one way while its wind blew from another way. To forecast, you watch which way the clouds come from, not only which way the ground wind blows."
      },
      "parent": "In the afternoon in coastal cities like Chennai, a sea breeze often blows in from the sea near the ground, while clouds above move a different way. Any result is fine. The idea is that the air has layers that move differently."
     }
@@ -1477,7 +1479,7 @@
      "what": "Ask an older person for weather sayings and signs. Write them down and sort them."
     }
    ],
-   "record": "Write each saying in the language it was said, then what it means in English. Mark each one: a sign we can test, or a season.",
+   "record": "Write each saying in the language it was said, then what it means in English. Then mark each one as a sign we can test, or as a saying about a season.",
    "flow": [
     {
      "id": "s1",
@@ -1606,7 +1608,8 @@
      "art": "A row of 10 boxes on paper, 7 with rain clouds and 3 with suns, drawn in pencil.",
      "caption": "3. Draw a cloud or a sun for each pick. Count the rain days."
     }
-   ]
+   ],
+   "problem": "A forecast of 60% chance of rain does not say that it will rain. In this activity, each bean stands for one day. A red rajma bean is a rainy day. A white chana bean is a dry day."
   },
   {
    "id": "a4",
@@ -1681,7 +1684,8 @@
      "art": "A child's rough map of India with a cloud drawn over the sea and an arrow towards the coast.",
      "caption": "3. Draw the clouds and an arrow. Make a forecast."
     }
-   ]
+   ],
+   "problem": "Weather travels from place to place. A weather satellite photographs the clouds from space. So you can see where tomorrow's weather is coming from."
   }
  ],
  "projects": [
@@ -1692,7 +1696,7 @@
    "days": 14,
    "materials": [
     {
-     "item": "the sayings collected in activity a2",
+     "item": "the sayings you collected in the activity 'Ask an Elder'",
      "qty": 1
     },
     {
@@ -1722,7 +1726,7 @@
      "what": "Count the tallies. For each saying, decide: keep it, keep it with a warning, or drop it. Write and draw the book."
     }
    ],
-   "record": "On each tally page: the saying, the sign, the weather it promises, and two rows of tally marks: 'sign seen, and the weather came' and 'sign seen, but the weather did not come'.",
+   "record": "On each tally page, write the saying, the sign, and the weather it promises. Then draw two rows of tally marks. One row is for 'sign seen, and the weather came'. The other row is for 'sign seen, but the weather did not come'.",
    "flow": [
     {
      "id": "s1",
@@ -2959,7 +2963,7 @@
   },
   {
    "q": "Does a storm always travel the way its wind blows?",
-   "a": "No. In 1743 Benjamin Franklin found a storm that travelled against its own wind."
+   "a": "No. In 1743 Benjamin Franklin found a storm that moved towards the northeast while its wind blew from the northeast."
   },
   {
    "q": "What does a red weather warning mean?",
@@ -3097,13 +3101,13 @@
   "practice": {
    "title": "Where was this air this morning?",
    "mins": 3,
-   "say": "Let's stand at the window or on the balcony. Close your eyes. Feel the air on your face and arms. Is it moving? Which side of your face feels it most? Now take three slow breaths. This air was somewhere else this morning. Maybe it was over the sea, or over another street. Tomorrow it will be somewhere else again. Open your eyes. Which way do you think it is going?",
-   "kid": "Stand at the window. Close your eyes. Feel the air on your face. Which side feels it most? Breathe slowly three times. This air was somewhere else this morning. Where is it going now?"
+   "say": "Let's stand at the window or on the balcony. Close your eyes. Feel the air on your face and arms. Is it moving? Which side of your face feels it most? That is the side the air is coming from. Now take three slow breaths. This air was somewhere else this morning, maybe over the sea or over another street. Open your eyes. The air is moving away from the side where you felt it. Which way is it going now?",
+   "kid": "Stand at the window. Close your eyes. Feel the air on your face. Which side feels it most? The air is coming from that side. Breathe slowly three times. Now say which way the air is going."
   },
   "ask": [
    "If you could measure every bit of air on Earth tonight, could you know tomorrow's weather for sure?",
    "The air on your balcony now was somewhere else this morning. Where does 'our' weather begin and end?",
-   "Is a forecast that says '60% chance of rain' a way of knowing, or a way of not knowing?"
+   "Would you rather be told '60% chance of rain', or just 'rain' or 'no rain'? Which is more honest, and which is more useful?"
   ],
   "art": "A child standing on a balcony with eyes closed and arms open, with faint arrows of moving air flowing past from the sea to the city, and tomorrow's clouds drawn lightly on the horizon."
  },

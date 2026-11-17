@@ -1,7 +1,7 @@
 # Forecasting the weather: using today's sky to tell tomorrow's
 `sci.weather.forecasting.L3`
 
-**Summary.** Nobody can see tomorrow, yet weather forecasts are right on most days. A forecast is a careful guess about the weather to come, made from what the air is doing now. Clouds, the wind and damp air are signs of what is coming. Old weather sayings are how people remembered these signs. Some sayings work, some work only in one place, and some do not work at all. Weather moves across the land and sea, so the weather heading your way is already somewhere else today. Weather offices, such as the India Meteorological Department, collect readings from all over the world and use computers to work out how the air will move. Forecasts get less sure the further ahead they look, because small things nobody measured grow bigger.
+**Summary.** Nobody can see tomorrow, yet weather forecasts are right on most days. A forecast is a careful guess about the weather to come, made from what the air is doing now. Clouds, the wind and damp air are signs of what is coming. Old weather sayings are how people remembered these signs. Some sayings work, some work only in one place, and some do not work at all. Weather moves across the land and sea, so the weather heading your way is already somewhere else today. Weather offices, such as the India Meteorological Department, collect readings from all over the world and use computers to work out how the air will move. Forecasts get less sure the further ahead they look. Small mistakes in today's measurements grow bigger as the days go by.
 
 **Intro.** *Look out of the window now. Will it rain here in the next three hours? Say yes or no. Now say what you looked at to decide.* You have just made a weather forecast. A forecast is a guess about the weather to come, made from what you can see and measure now. Fishers, farmers and grandmothers have done this for thousands of years by reading the clouds and the wind. Today, weather offices do it with satellites and computers. In this unit you make a forecast every evening for a week, and check it the next day. You race your forecasts against the weather app, and against the simplest guess of all: 'tomorrow will be like today'. You also find out why some weather sayings work and others do not.
 
@@ -41,9 +41,9 @@ A forecast is not magic and it is not a promise. Every forecast starts from the 
 **Definition:** Different kinds of cloud form in different kinds of air, so the kind of cloud you see tells you something about the weather to come.
 
 Clouds are made of tiny drops of water or tiny bits of ice, floating in the air. Small puffy cumulus clouds that stay small usually mean fine weather. Cumulus clouds that grow taller and taller during a hot afternoon can become a cumulonimbus, a storm cloud with thunder and heavy rain. A grey sheet of low cloud that covers the whole sky often brings long, steady rain. Thin wisps of cirrus, very high up, are made of ice. When cirrus slowly spreads and thickens into a sheet, a big storm system may be coming, a day or more ahead. No cloud is a sure sign. Each one makes some weather more likely.
-- e.g. Fluffy clouds that stay small all afternoon: probably no rain today.
-- e.g. A cloud tower building fast over the hills behind Coimbatore in the afternoon: a thunderstorm may come within an hour or two.
-- e.g. High streaks of cirrus thickening into a milky sheet: rain may come in a day or two.
+- e.g. You see fluffy clouds that stay small all afternoon. Probably no rain will fall today.
+- e.g. A cloud tower builds fast over the hills behind Coimbatore in the afternoon. A thunderstorm may come within an hour or two.
+- e.g. High streaks of cirrus thicken into a milky sheet. Rain may come in a day or two.
 ### Damp air as a weather sign · *defined*
 **Definition:** Humidity is how much water vapour is in the air. Before rain, the air usually becomes more humid.
 
@@ -53,11 +53,11 @@ Water vapour is water as an invisible gas. Rain is made from water vapour in the
 ### Weather moves · *defined*
 **Definition:** Clouds, rain and storms travel across land and sea, carried by winds high in the sky. So the weather coming to you tomorrow is often somewhere else today.
 
-The rain that falls on Chennai today may have been out over the Bay of Bengal yesterday. A storm is a huge swirl of moving air, and the whole swirl travels. The wind you feel on the ground is the air swirling around the storm. That wind can blow one way while the storm itself moves another way. Benjamin Franklin found this in 1743. Clouds high up are often carried by winds that are different from the wind near the ground. This is why weather offices need readings from far away. To forecast tomorrow in Chennai, they need to know what the weather is doing over the sea today.
+The rain that falls on Chennai today may have been out over the Bay of Bengal yesterday. A storm is a huge swirl of moving air, and the whole swirl travels. The wind you feel on the ground is the air swirling around the storm. That wind can blow one way while the storm itself moves another way. Benjamin Franklin first noticed this in 1743. The wind of one storm blew from the northeast, yet the whole storm travelled towards the northeast. Clouds high up are often carried by winds that are different from the wind near the ground. This is why weather offices need readings from far away. To forecast tomorrow in Chennai, they need to know what the weather is doing over the sea today.
 - e.g. Before the northeast monsoon rains reach Chennai in October and November, the clouds often build over the Bay of Bengal, to the east.
 - e.g. A thunderstorm seen over the hills to the west of Bengaluru may reach the city an hour later.
 ### Do weather sayings work? · *debated*
-Every part of the world has weather sayings. Some come from careful watching over many years and work well. Some work only in the place where they began. Some tell you the season, not the weather on one day. And some do not work at all. The only way to know is to test a saying, many times, and count how often it is right. 'Red sky at night, shepherd's delight' comes from England, where most weather arrives from the west. A red sunset means the sky to the west is clear, so fine weather is coming. In places where the weather arrives from the east, the same sign can mean something else. Peacocks call loudly and dance in the monsoon. That is their breeding season, which comes with the rains. So the peacock tells you the season, not tomorrow's rain.
+Every part of the world has weather sayings. Some come from careful watching over many years and work well. Some work only in the place where they began. Some tell you the season, not the weather on one day. And some do not work at all. The only way to know is to test a saying, many times, and count how often it is right. 'Red sky at night, shepherd's delight' comes from England, where most weather arrives from the west. The Sun sets in the west, and a red sunset means the sky there is clear. In England, clear sky in the west means fine weather is on its way. In places where the weather arrives from the east, the same sign can mean something else. Peacocks call loudly and dance in the monsoon. That is their breeding season, which comes with the rains. So the peacock tells you the season, not tomorrow's rain.
 - e.g. 'Red sky at night, shepherd's delight. Red sky in the morning, shepherd's warning.' An old English saying.
 - e.g. In Tamil Nadu people say 'Aippasi adai mazhai': in the month of Aippasi, which falls in October and November, the rain sets in and does not stop. This matches the northeast monsoon.
 - e.g. Many people say that when ants carry their eggs to higher ground, rain is coming. Few careful tests of this have been done.
@@ -85,7 +85,7 @@ No one can measure every bit of air on Earth. Between weather stations there are
 **Definition:** A weather warning tells people that dangerous weather, such as a cyclone, very heavy rain or a heat wave, is coming, so they can get ready or move to safety.
 
 Forecasts matter most when the weather is dangerous. In 1999 a very strong cyclone hit Odisha, and about ten thousand people died. In October 2013, the India Meteorological Department tracked Cyclone Phailin for days and forecast where and when it would cross the coast. Close to a million people in Odisha and Andhra Pradesh moved to shelters before the storm hit. Phailin was also a very powerful cyclone, but far fewer people died. The India Meteorological Department now gives warnings in colours: green means no warning, yellow means be aware, orange means be prepared, and red means take action. Fishers along the coast are told not to go out to sea when a storm is coming.
-- e.g. A red warning for very heavy rain in Kerala: schools close and people living near rivers move to higher ground.
+- e.g. The weather office gives a red warning for very heavy rain in Kerala. Schools close, and people who live near rivers move to higher ground.
 - e.g. Ports in India raise warning signals for ships when a storm is near.
 ### Can animals forecast the weather? · *debated*
 Many people say animals know when rain is coming. Animals certainly sense changes in the air. Some insects and birds behave differently when the air becomes humid or the wind changes, and many animals take shelter as a storm comes close. Frogs croak loudly after the first monsoon rains, because that is when they find mates. But whether animals can sense rain a day or more ahead is not known. Few careful tests have been done, and people tend to remember the times the animals 'were right'.
@@ -142,10 +142,10 @@ There is one layer of air wrapped around the whole Earth, always moving. It show
 - Science (settled): Tiny differences in the air grow over time, so detailed weather cannot be forecast more than about two weeks ahead.
 - Science (open): Exactly how far ahead the weather could ever be forecast, even with perfect computers, is still argued about.
 - Other view, Many scientists who study chaos: Tomorrow is not simply sitting in today's air waiting to be read. Tiny changes that no instrument could ever measure grow into big ones, so the weather a month from now is truly open. Today's air shapes the next few days, but it does not fix the far future.
-- Practice, Where was this air this morning? (3 min): Let's stand at the window or on the balcony. Close your eyes. Feel the air on your face and arms. Is it moving? Which side of your face feels it most? Now take three slow breaths. This air was somewhere else this morning. Maybe it was over the sea, or over another street. Tomorrow it will be somewhere else again. Open your eyes. Which way do you think it is going?
+- Practice, Where was this air this morning? (3 min): Let's stand at the window or on the balcony. Close your eyes. Feel the air on your face and arms. Is it moving? Which side of your face feels it most? That is the side the air is coming from. Now take three slow breaths. This air was somewhere else this morning, maybe over the sea or over another street. Open your eyes. The air is moving away from the side where you felt it. Which way is it going now?
 - Ask: If you could measure every bit of air on Earth tonight, could you know tomorrow's weather for sure?
 - Ask: The air on your balcony now was somewhere else this morning. Where does 'our' weather begin and end?
-- Ask: Is a forecast that says '60% chance of rain' a way of knowing, or a way of not knowing?
+- Ask: Would you rather be told '60% chance of rain', or just 'rain' or 'no rain'? Which is more honest, and which is more useful?
 
 ## Deep and big questions
 - *big:* Tomorrow's weather grows out of today's air. So is tomorrow already decided, or still open? (hint: In 1961 Edward Lorenz ran a weather program on his computer twice. The two runs started almost the same and ended completely different.)
@@ -215,7 +215,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 ## Games
 ### g1 · Sky Signs: a forecasting card game (15 min)
 - **rules:** Each player gets a set of 4 forecast cards. Shuffle the 16 sign cards and put them face down, with the answer side hidden.; Turn over the top sign card and read the front aloud. Keep the answer on the back hidden.; Every player chooses one forecast card and puts it face down. Then everyone turns their card over together.; Turn the sign card over and read the answer. Everyone who matched it scores 2 points.; If you chose a different card, you can still score 1 point by giving a good reason why your forecast could also happen.; If the answer says 'not certain', everyone who says why the sign is not a sure thing scores 1 extra point.; After all 16 cards, the player with the most points wins. If two players have the same score, they share the win. Playing alone, choose a forecast card, then check the answer, and try to beat your own score next time.
-- **Printable cards: 16 sign cards to cut out (the sign on the front, the answer on the back):** Small puffy white clouds that stay small all afternoon. (back: Fine weather) [picture]; Puffy clouds growing taller and taller on a hot afternoon. (back: Thunderstorm soon) [picture]; A giant cloud with a dark bottom and a flat top spreading out. (back: Thunderstorm soon) [picture]; Thin white streaks very high up, slowly thickening into a milky sheet. (back: Rain in a day or two) [picture]; A pale ring of light around the Moon. (back: Rain in a day or two (not certain)) [picture]; A low grey sheet of cloud over the whole sky. (back: Steady rain) [picture]; No clouds at all, dry air, no wind, in March. (back: Fine weather); The air feels sticky, and washed clothes stay damp all day. (back: Rain in a day or two (not certain)); Salt in the dabba has gone lumpy. (back: Rain in a day or two (not certain)); A sudden cold, gusty wind and the smell of rain. (back: Thunderstorm soon); Thunder far away, getting louder. (back: Thunderstorm soon); The satellite film shows a big swirl of cloud over the Bay of Bengal, moving towards the coast. (back: Rain in a day or two) [picture]; The weather office gives a red warning for very heavy rain. (back: Steady rain (and danger: follow the warning)); Today was hot and dry, and the sky is still clear tonight. (back: Fine weather); Peacocks calling loudly in July. (back: Rain in a day or two (not certain: peacocks call every monsoon, so this tells the season more than tomorrow)) [picture]; The forecast says 10% chance of rain. (back: Fine weather)
+- **Printable cards: 16 sign cards to cut out (the sign on the front, the answer on the back):** Small puffy white clouds that stay small all afternoon. (back: Fine weather) [picture]; Puffy clouds growing taller and taller on a hot afternoon. (back: Thunderstorm soon) [picture]; A giant cloud with a dark bottom and a flat top spreading out. (back: Thunderstorm soon) [picture]; Thin white streaks very high up, slowly thickening into a milky sheet. (back: Rain in a day or two) [picture]; A pale ring of light around the Moon. (back: Rain in a day or two (not certain)) [picture]; A low grey sheet of cloud over the whole sky. (back: Steady rain) [picture]; No clouds at all, dry air, no wind, in March. (back: Fine weather); The air feels sticky, and washed clothes stay damp all day. (back: Rain in a day or two (not certain)); Salt in the dabba has gone lumpy. (back: Rain in a day or two (not certain)); A sudden cold, gusty wind and the smell of rain. (back: Thunderstorm soon); Thunder far away, getting louder. (back: Thunderstorm soon); The satellite film shows a big swirl of cloud over the Bay of Bengal, moving towards the coast. (back: Rain in a day or two) [picture]; The weather office gives a red warning for very heavy rain. (back: Steady rain, and danger. Follow the warning.); Today was hot and dry, and the sky is still clear tonight. (back: Fine weather); Peacocks calling loudly in July. (back: Rain in a day or two (not certain). Peacocks call every monsoon, so this sign tells you the season more than tomorrow's weather.) [picture]; The forecast says 10% chance of rain. (back: Fine weather)
 - **Printable cards: 16 forecast cards: a set of 4 for each of up to 4 players:** Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain; Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain; Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain; Fine weather; Thunderstorm soon; Rain in a day or two; Steady rain
 - **Printable score sheet: Score sheet:** Player name; Points this round; Total
 - **s1 (3 min)**  
@@ -254,6 +254,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 
 ## Experiments
 ### e1 · Tomorrow Like Today? A week-long forecast contest (82 min, 8 days)
+- **problem:** The simplest forecast is 'tomorrow will be like today'. A good forecast has to do better than that. In this contest you find out whether your own eyes or the weather app do better.
 - **question:** Whose forecast for tomorrow is right most often: 'tomorrow will be like today', your own reading of the sky, or the weather app?
 - **predict:** Guess first. Which of the three forecasters will get the most points in a week? Which will get the fewest? Why do you think so?
 - **fair test:** All three forecasts are written at the same time each evening, before anyone knows what tomorrow brings. Nobody changes a forecast after writing it. All three are judged on the same two questions, by the same rules: will it rain, and will the sky be mostly sunny or mostly cloudy? We run the contest for 7 days, because one day can be a fluke.
@@ -302,10 +303,11 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Ask: How do you think the app knew about a change before it happened? (good: It sees the clouds coming from far away.; Satellites see the whole sky.; The weather was already somewhere else.)
   - Note: The usual pattern: weather changes slowly on most days, so 'same as today' scores well. It fails exactly when the weather changes. A good forecast is useful because it catches those changes. It can only do that by seeing weather that is still somewhere else and on its way. If your child's own forecasts beat 'same as today', ask which signs helped.
 ### e2 · Salt in the Steamy Bathroom: does damp air change salt? (25 min)
+- **problem:** The air gets damp before rain. A steamy bathroom quickly makes damp air at home. If damp air changes salt, lumpy salt may be a rain sign.
 - **question:** Many people say salt goes lumpy before rain. Does damp air really change salt?
 - **predict:** Guess first. One plate of salt goes into a steamy bathroom, and one goes into a dry room. After one hour, will they look and feel different? Why do you think so?
 - **fair test:** Use the same kind of salt, the same amount and the same kind of plate. Only the place changes: the steamy bathroom or a dry room. Leave both for the same time, then test both in the same way.
-- **safety:** A grown-up runs the hot water. Hot water and hot taps can scald. Don't eat the salt afterwards: throw it away or use it to scrub a vessel.
+- **safety:** A grown-up runs the hot water, because hot water and hot taps can scald. Do not eat the salt afterwards. Throw it away or use it to scrub a vessel.
 - **record:** Fill in the table for both plates. Draw both plates after tilting, showing where the salt stayed.
 - **results table:** Plate | Where it was | How the salt looks | Does it slide off when tilted? (yes, some, no) | How it feels when pressed with a finger
 - **s1 (5 min)**  
@@ -389,7 +391,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Note: Don't worry about whether the forecast was right. The habit we want is to look closely, guess with a reason, and check.
   - Wait: Wait three hours, then do this step.
 ### a2 · Ask an Elder: collect weather sayings (15 min)
-- **record:** Write each saying in the language it was said, then what it means in English. Mark each one: a sign we can test, or a season.
+- **record:** Write each saying in the language it was said, then what it means in English. Then mark each one as a sign we can test, or as a saying about a season.
 - **s1 (8 min)**  
   *Parent does:* 1. Help your child phone or visit an older relative or neighbour. 2. Your child asks: 'What signs did people look at to know rain was coming? Were there any sayings about the weather?' 3. Write down every answer.  
   *Parent says:* Older people often know signs and sayings about the weather. Let's ask someone: a grandparent if you have one, or an older neighbour or relative. You ask the question, and I'll help you write.  
@@ -402,6 +404,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Ask: How could we test one of these sayings? (good: Watch for the sign and see if rain comes the next day.; Count how many times it is right.; Write it down every time we see the sign.)
   - Note: Choose two sayings you can test, and use them in the project 'Our Family Book of Weather Sayings, Tested'.
 ### a3 · Six Out of Ten: what 'chance of rain' means (15 min)
+- **problem:** A forecast of 60% chance of rain does not say that it will rain. In this activity, each bean stands for one day. A red rajma bean is a rainy day. A white chana bean is a dry day.
 - **safety:** Children under 4 must not play with beans, because they can choke. Don't eat the raw beans.
 - **record:** Draw 10 boxes for 10 days. In each box draw a rain cloud for a rajma and a sun for a chana.
 - **s1 (3 min)**  
@@ -420,6 +423,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Note: Your child may get 5, 6, 7 or even 8 rain days out of 10. That is normal with chance. Doing it again gives a different count. Over many tries, it comes close to 6 in 10.
   - Check: The forecast said '60% chance of rain', and it did not rain. What does that tell you? → **Dry days happen on about 4 of 10 days like this, so it is not a surprise**
 ### a4 · Watch the Clouds Travel: a satellite film (15 min)
+- **problem:** Weather travels from place to place. A weather satellite photographs the clouds from space. So you can see where tomorrow's weather is coming from.
 - **record:** Draw a rough map of India and the seas. Draw today's big clouds and an arrow for which way they are moving.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Open the satellite images on the India Meteorological Department website or on zoom.earth. 2. Find India, the Arabian Sea, the Bay of Bengal and your own city.  
@@ -439,7 +443,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 ## Projects
 ### p1 · Our Family Book of Weather Sayings, Tested (71 min, 14 days)
 - **safety:** Never look straight at the Sun.
-- **record:** On each tally page: the saying, the sign, the weather it promises, and two rows of tally marks: 'sign seen, and the weather came' and 'sign seen, but the weather did not come'.
+- **record:** On each tally page, write the saying, the sign, and the weather it promises. Then draw two rows of tally marks. One row is for 'sign seen, and the weather came'. The other row is for 'sign seen, but the weather did not come'.
 - **schedule:** day 1: Choose two sayings that give a sign you can watch for. Make a tally page for each. (15 min); day 2: Watch for both signs each evening, from day 2 to day 13. If you see one, mark it. The next day, mark whether the weather it promised came. (3 min); day 14: Count the tallies. For each saying, decide: keep it, keep it with a warning, or drop it. Write and draw the book. (20 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Choose two sayings that give a sign you could see in the next two weeks. 2. On a page for each, write the saying, the sign, and what it promises. 3. Draw two rows for tally marks: 'came true' and 'did not come true'.  
@@ -723,7 +727,7 @@ Shade, Rain and Wind (sci.weather.L3): Topic-level song for Weather L3
 - What is the simplest forecast of all? → Tomorrow will be like today.
 - What does 60% chance of rain mean? → On 10 days like this one, rain would fall on about 6.
 - Why does salt go lumpy in the rainy months? → It takes in water vapour from the damp air.
-- Does a storm always travel the way its wind blows? → No. In 1743 Benjamin Franklin found a storm that travelled against its own wind.
+- Does a storm always travel the way its wind blows? → No. In 1743 Benjamin Franklin found a storm that moved towards the northeast while its wind blew from the northeast.
 - What does a red weather warning mean? → Take action.
 - Is a forecast for tomorrow surer than one for next week? → Yes. Small errors grow over time.
 

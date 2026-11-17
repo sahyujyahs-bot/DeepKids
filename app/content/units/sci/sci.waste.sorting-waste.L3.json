@@ -303,7 +303,7 @@
   {
    "q": "Why does sugar spread through tea by itself, but never gather back into a lump?",
    "kind": "deep",
-   "hint": "There are many more ways for the sugar to be spread out than to be in one lump."
+   "hint": "Sugar bits keep moving about at random. There are countless ways for them to be spread out, and only one way to sit in a lump. So moving at random almost always spreads them out."
   },
   {
    "q": "When you put a bag outside your door, who touches it next? And after them?",
@@ -1699,7 +1699,7 @@
      "mins": 5,
      "do": "1. Put the wet bin, the dry box and the danger tin side by side, close to where you cook. 2. Put the danger tin up high, out of small children's reach.",
      "say": "We keep them together near the stove. Then sorting takes no extra walking. Why should the danger tin go up high?",
-     "kid": "Put the wet bin, the dry box and the danger tin together, close to where you cook. Put the danger tin up high.",
+     "kid": "Put the wet bin, the dry box and the danger tin side by side. Keep them close to where you cook. Put the danger tin up high.",
      "ask": [
       {
        "q": "Why put all three together, close to the stove?",
@@ -2779,7 +2779,7 @@
   },
   "three": {
    "who_am_i": "You are the person holding the waste at the one moment when sorting is easy. That makes you the first part of the city's cleaning.",
-   "what_is_life": "Living things in nature mostly keep their leftovers where others can use them. A fallen leaf feeds worms and fungi right where it falls.",
+   "what_is_life": "In nature, leftovers stay where other living beings can use them. A fallen leaf feeds worms and fungi right where it falls.",
    "what_is_this_world": "In this world, things mix by themselves, and only work can pull them apart. Every clean street is kept clean by someone's work."
   },
   "thread": "In nature, one living thing's leftovers become another's food, because they stay where others can reach them. A leaf falls and is eaten by worms and fungi, and the soil they make feeds the tree. People's waste breaks this circle when it is mixed. A peel stuck in plastic cannot feed the soil, and paper soaked in curry cannot become paper again. Sorting puts each thing back where it can be used.",
@@ -2802,7 +2802,7 @@
   ],
   "science": [
    {
-    "text": "Things that are mixed tend to stay mixed, and separating them takes energy. Physicists measure how mixed-up things are with a quantity called entropy. Left alone, entropy does not go down.",
+    "text": "Things that are mixed tend to stay mixed, and separating them takes energy. Physicists measure how mixed-up things are with a quantity called entropy. Left alone, mixed things do not unmix, so entropy does not go down.",
     "status": "settled"
    },
    {
