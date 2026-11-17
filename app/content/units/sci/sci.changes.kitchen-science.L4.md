@@ -82,9 +82,9 @@ Making gas is only half of rising. The dough must also hold the gas in. Wheat fl
 - e.g. The holes in a slice of bread are the places where gas bubbles were held.
 - e.g. Maida dough is stretchier than atta dough, because bits of bran in atta cut into the net.
 ### What heat does to risen dough · *defined*
-**Definition:** Heat makes the gas bubbles in dough grow. Then it sets the dough around them, so the holes stay when the food cools.
+**Definition:** Heat makes the gas bubbles in dough grow. Then the heat sets the dough around the bubbles, so the holes stay when the food cools.
 
-Raw risen dough is soft, and it falls flat if you press it. Heat changes that in three steps. First the gas in each bubble spreads out as it warms, and some water turns to steam. So the dough swells further in the first minutes of cooking. Next, at about 60 degrees Celsius, the yeast die. Then the starch and the proteins set firm, in the way an egg sets when it is boiled. The walls of the bubbles become solid. Now the gas can leave and the shape stays. Last, the outside dries and browns. The same steps happen when dhokla or idli is steamed. Only the browning is missing, because steam is not hot enough. If a cook opens the lid too early, the walls have not yet set. The cold air makes the gas shrink, and the cake sinks.
+Raw risen dough is soft, and it falls flat if you press it. Heat changes that in several steps. First the gas in each bubble spreads out as it warms, and some water turns to steam. So the dough swells further in the first minutes of cooking. Next, at about 60 degrees Celsius, the yeast die. Then the starch and the proteins set firm, in the way an egg sets when it is boiled. The walls of the bubbles become solid. Now the gas can leave and the shape stays. Last, the outside dries and browns. The same steps happen when dhokla or idli is steamed. Only the browning is missing, because steam is not hot enough. If a cook opens the lid too early, the walls have not yet set. The cold air makes the gas shrink, and the cake sinks.
 - e.g. A pav in the oven grows taller in the first few minutes.
 - e.g. Steamed dhokla keeps its holes after it cools.
 - e.g. A cake sinks in the middle if the oven door is opened too soon.
@@ -165,7 +165,7 @@ A whole onion, a whole apple and a dry mustard seed look finished. Yet each one 
 - *deep:* A whole onion holds no tear gas. So is the sting a part of the onion, or something the onion does? (hint: Think about the Onion Sting activity. The whole onion did nothing to your eyes, and the chopped onion stung.)
 - *deep:* Toast and a cut apple are both brown. What would you test to find out if two browns are the same change? (hint: Heat stops one kind of browning and causes the other.)
 - *deep:* A dosa and an idli come from much the same batter. Is a food decided by what goes in or by what is done to it? (hint: The batter is the same. The temperature at the surface is different.)
-- *big:* The onion makes a stinging gas when cut, and people cut onions every day. Who has won, the onion or the cook? (hint: People plant onions on millions of farms because we like their taste.)
+- *big:* The onion makes a stinging gas when cut, and people cut onions every day. Who has won, the onion or the cook? (hint: Think about it from the onion's side. The sting did not stop people from growing onions on millions of farms, because we like their taste.)
 - *big:* Humans are the only animals who cook. How might browned, cooked food have changed our ancestors? (hint: Cooked food is softer and gives more energy for less chewing.)
 - *big:* People made bread and black tea for thousands of years before anyone knew about enzymes or yeast. Did they understand what they were doing? (hint: A baker knew that dough must be kept warm. Is knowing how the same as knowing why?)
 

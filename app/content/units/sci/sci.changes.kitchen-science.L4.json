@@ -203,8 +203,8 @@
     {
       "concept": "What heat does to risen dough",
       "status": "defined",
-      "definition": "Heat makes the gas bubbles in dough grow. Then it sets the dough around them, so the holes stay when the food cools.",
-      "description": "Raw risen dough is soft, and it falls flat if you press it. Heat changes that in three steps. First the gas in each bubble spreads out as it warms, and some water turns to steam. So the dough swells further in the first minutes of cooking. Next, at about 60 degrees Celsius, the yeast die. Then the starch and the proteins set firm, in the way an egg sets when it is boiled. The walls of the bubbles become solid. Now the gas can leave and the shape stays. Last, the outside dries and browns. The same steps happen when dhokla or idli is steamed. Only the browning is missing, because steam is not hot enough. If a cook opens the lid too early, the walls have not yet set. The cold air makes the gas shrink, and the cake sinks.",
+      "definition": "Heat makes the gas bubbles in dough grow. Then the heat sets the dough around the bubbles, so the holes stay when the food cools.",
+      "description": "Raw risen dough is soft, and it falls flat if you press it. Heat changes that in several steps. First the gas in each bubble spreads out as it warms, and some water turns to steam. So the dough swells further in the first minutes of cooking. Next, at about 60 degrees Celsius, the yeast die. Then the starch and the proteins set firm, in the way an egg sets when it is boiled. The walls of the bubbles become solid. Now the gas can leave and the shape stays. Last, the outside dries and browns. The same steps happen when dhokla or idli is steamed. Only the browning is missing, because steam is not hot enough. If a cook opens the lid too early, the walls have not yet set. The cold air makes the gas shrink, and the cake sinks.",
       "examples": [
         "A pav in the oven grows taller in the first few minutes.",
         "Steamed dhokla keeps its holes after it cools.",
@@ -337,7 +337,7 @@
     {
       "q": "The onion makes a stinging gas when cut, and people cut onions every day. Who has won, the onion or the cook?",
       "kind": "big",
-      "hint": "People plant onions on millions of farms because we like their taste."
+      "hint": "Think about it from the onion's side. The sting did not stop people from growing onions on millions of farms, because we like their taste."
     },
     {
       "q": "Humans are the only animals who cook. How might browned, cooked food have changed our ancestors?",

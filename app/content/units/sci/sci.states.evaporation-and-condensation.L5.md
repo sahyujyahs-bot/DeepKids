@@ -42,14 +42,14 @@
 **Definition:** Evaporation is a liquid turning into a gas at its surface. The particles of a liquid move at many different speeds. A particle at the surface that is moving fast enough breaks away from its neighbours. It flies off into the air.
 
 The particles of liquid water touch each other and hold on to each other. They also move all the time, bumping and sliding. After each bump a particle may be moving faster or slower than before. So at any moment a few particles are very fast, most are in the middle, and a few are slow. Deep inside the water a fast particle only bumps into more water. At the surface a fast particle can break free. It becomes a particle of water vapour, a gas, and mixes with the air. This goes on at every temperature, with no flame and no sunshine. That is why a tumbler of water left on a shelf slowly goes down.
-- e.g. In Shake the Plate, only the chana that reached the rim with enough speed jumped out. Most of the chana stayed in the plate.
+- e.g. In the Shake the Plate activity in this unit, whole chana, which are chickpeas, in a steel plate stand for particles of water. Only the chana that reached the rim with enough speed jumped out. Most of the chana stayed in the plate.
 - e.g. A wet steel plate left on the drying rack is dry by evening, though nobody heated it.
 - e.g. Ink left in an open bottle dries up over the summer holidays.
 ### Water leaves only at the surface, so a bigger surface loses more · *defined*
 **Definition:** Evaporation happens where water meets air. The more surface the water has, the more particles are at the surface at any moment. So more of them leave each second.
 
 Pour the same water into a wide plate and a narrow tumbler. The plate has many more particles at its surface, so many more leave each minute. Double the surface, and about double the water leaves in the same time. The amount of water underneath makes no difference to how fast it leaves. A deep lake and a shallow puddle in the same weather lose about the same depth of water each day. The puddle is gone first only because it had little depth to lose. A tall vessel loses a little less than its surface suggests. Damp air collects above the water inside its walls, and some particles land back.
-- e.g. In Wide or Narrow, the plate's surface was about four times the bowl's. The plate lost about four times as much water.
+- e.g. In the Wide or Narrow experiment in this unit, the plate's surface was about four times the bowl's. The plate lost about four times as much water.
 - e.g. Wet hair left loose dries much sooner than the same hair in a plait.
 - e.g. Farmers in Guntur spread red chillies in a thin layer on the ground, and never dry them in a heap.
 - e.g. Salt makers in Thoothukudi let sea water into wide, shallow pans, not deep tanks.
@@ -58,27 +58,27 @@ Pour the same water into a wide plate and a narrow tumbler. The plate has many m
 
 Heat is energy, and it goes into the movement of the particles. In cool water only a few particles at the surface are fast enough to leave. In warm water many more are. So warm water evaporates much faster than cool water, long before it boils. The Sun warms the top of the sea, a wet road and a wet shirt in this way. Warmth helps in a second way too. Warm air can carry more water vapour before it is saturated. So fewer particles land back on the wet thing.
 - e.g. Clothes on a terrace in Madurai dry in an hour at noon in May. In December they take half a day.
-- e.g. In Fast Ones Leave, adding 1 to every speed for the Sun round let more particles reach the escape speed.
+- e.g. In the Fast Ones Leave game in this unit, adding 1 to every speed for the Sun round let more particles reach the escape speed.
 - e.g. A puddle on a tar road vanishes sooner than a puddle of the same size under a tree.
 ### Why moving air and dry air speed up evaporation · *defined*
 **Definition:** Particles that have escaped can land back on the water. Moving air carries them away, and dry air has few of them to begin with. In both cases fewer particles land back, so the water goes down faster.
 
 Evaporation is a two-way traffic. Particles leave the surface, and particles of vapour from the air land back on it. What we see is the difference between the two. In still air the escaped particles collect just above the surface, and many land back. A fan or a breeze sweeps them away and brings air with less vapour. In humid air, such as Kolkata's in the monsoon, the air already holds a lot of vapour. Nearly as many particles land as leave. Inside a closed bottle the two become equal. The water level stays the same, although particles still leave and land every moment.
-- e.g. In The Tilting Hanger, the cloth under the fan lost more water than the same cloth in still air.
-- e.g. In Wide or Narrow, the closed jar lost no water at all in a whole day.
+- e.g. In the Tilting Hanger experiment in this unit, the cloth under the fan lost more water than the same cloth in still air.
+- e.g. In the Wide or Narrow experiment in this unit, the closed jar lost no water at all in a whole day.
 - e.g. A towel hung in a closed bathroom after a bath stays wet. The same towel on the balcony dries.
 ### Why evaporation cools what is left: temperature is an average · *defined*
 **Definition:** The temperature of water tells how fast its particles move on average. Evaporation takes away the fastest particles. The ones left behind are slower on average, so the water is cooler.
 
 A thermometer gives one number for a whole tumbler of water. But the particles in the tumbler have many different speeds. The number stands for their average. When the fastest particles escape, the average of the rest goes down. A class's average height goes down in the same way if the tallest children leave the room. The water then takes in heat from whatever it touches: your skin, a clay pot, the air. That is why evaporation cools things. Evaporating one teaspoon of sweat takes away enough heat to cool a litre of water by nearly 3 degrees.
-- e.g. In The Oil Lid, the open bowl of hot water cooled faster than the bowl sealed with oil.
-- e.g. In Fast Ones Leave, the average speed in the pot fell whenever the 5s and 6s at the surface escaped.
+- e.g. In the Oil Lid experiment in this unit, the open bowl of hot water cooled faster than the bowl sealed with oil.
+- e.g. In the Fast Ones Leave game in this unit, the average speed in the pot fell whenever the 5s and 6s at the surface escaped.
 - e.g. Hot coffee poured back and forth between a davara and a tumbler cools in a minute.
 - e.g. A dog pants on a hot day. Water evaporates from her tongue and cools her blood.
 ### Condensation with particles: the reverse of evaporation · *defined*
 **Definition:** Condensation is a gas turning into a liquid. Particles of water vapour that touch something cool lose energy and slow down. They stick to each other and to the surface. Many of them together make a drop.
 
-Particles of water vapour fly about at around 600 metres a second, faster than a passenger jet. When one hits a cold tumbler, it gives some of its energy to the steel and slows down. A slow particle cannot break away again, so it stays. More particles join it, and soon there is a drop big enough to see. Condensation is evaporation run backwards, and the heat goes backwards too. Evaporation takes heat in, and condensation gives the same heat out. That is why steam burns the skin more badly than boiling water. In 1958 the weather scientists Joanne Simpson (then Malkus) and Herbert Riehl argued that this heat powers the tall towers of rain cloud in the tropics.
+Particles of water vapour fly about at around 600 metres a second, faster than a passenger jet. When one hits a cold tumbler, it gives some of its energy to the steel and slows down. A slow particle cannot break away again, so it stays. More particles join it, and soon there is a drop big enough to see. Condensation is evaporation in reverse. Evaporation takes heat in, and condensation gives the same amount of heat back out. That is why steam burns the skin more badly than boiling water. In 1958 the weather scientists Joanne Simpson (then Malkus) and Herbert Riehl argued that this heat powers the tall towers of rain cloud in the tropics.
 - e.g. Mist forms on a steel tumbler of cold buttermilk, but only as high as the buttermilk inside.
 - e.g. Your warm breath makes a misty patch on a cold window, and the patch evaporates again in seconds.
 - e.g. The outside of a cold water bottle taken from the fridge is wet within a minute in Chennai in August.
@@ -94,7 +94,7 @@ Ice melts when heat goes in and its particles shake loose from their places. Wat
 **Definition:** Evaporation happens only at the surface, at any temperature. Boiling happens all through the liquid, only at the boiling point, with bubbles of vapour forming inside the liquid.
 
 Heat a pan of water and watch. Tiny bubbles appear on the bottom and walls while the water is only warm. These are air that was dissolved in the water. Much later, at 100 degrees Celsius, big bubbles form at the hot bottom and rise. These are water vapour: water that has turned into a gas inside the liquid. Once water is boiling, more heat does not make it hotter. The heat goes into turning more water into vapour. The white cloud above the pan is the vapour condensing into tiny drops as it meets cooler air. Real water vapour is invisible.
-- e.g. In What Is in the Bubbles?, the first small bubbles came out long before the water boiled.
+- e.g. In the What Is in the Bubbles? activity in this unit, the first small bubbles came out long before the water boiled.
 - e.g. Rasam left simmering with no lid slowly gets less. The missing rasam left as vapour.
 - e.g. A wet floor dries at 30 degrees without ever boiling.
 ### The water cycle explained with particles · *defined*
@@ -109,7 +109,7 @@ Sunlight warms the top of the sea. The fastest water particles escape, and the s
 **Definition:** The dew point is the temperature to which air must be cooled before its vapour starts to condense. Humid air has a high dew point, and dry air has a low one.
 
 Vapour particles in warm air are too fast to stick. Cool the air, or bring it against a cold surface, and at some temperature they begin to stick. That temperature is the dew point. You can find it with a steel tumbler, a thermometer and ice. Cool the water slowly and read the thermometer when the first mist appears. Weather offices report the dew point every day. Clouds form at the height where rising air has cooled to its dew point. That is why the bottoms of many clouds are flat.
-- e.g. In Find the Dew Point, the mist appeared at a higher temperature in a steamy bathroom than in the bedroom.
+- e.g. In the Find the Dew Point activity in this unit, the mist appeared at a higher temperature in a steamy bathroom than in the bedroom.
 - e.g. Dew forms on parked scooters in Bengaluru on clear winter nights, when the metal cools below the dew point.
 - e.g. On a humid summer day in Chennai the dew point can be about 25 degrees. On a cold, dry winter morning in Delhi it can be 5 degrees or lower.
 ### How living beings use evaporation · *defined*
@@ -170,12 +170,12 @@ We have learned that the fastest particles of water escape at its surface. We ha
 
 - *who am i:* Your body cools itself in this way. When sweat evaporates, its fastest particles leave your skin and take heat with them. You have one body temperature, held steady by losing fast particles all day.
 - *what is life:* A neem tree, a panting dog and a hive of bees all lose water to the air to stay cool. Each of them controls how much: the tree by opening leaf holes, the dog by panting, the bees by fanning.
-- *what is this world:* The sea loses its fastest particles every second, more than a metre of depth each year. Those particles become every cloud, every river and all the rain. The fresh water of the land is the part of the sea that got away.
+- *what is this world:* The sea loses its fastest particles every second, more than a metre of depth each year. Those particles become every cloud, every river and all the rain. The fresh water on land is water that left the sea as vapour and came back as rain.
 
-A tumbler of water looks like one still thing with one temperature. It is a vast crowd of particles, each moving at a speed of its own. The one temperature comes from all of them together. The few fastest leave, and from them come vapour, clouds and rain. Rain feeds the rivers, the trees and you. So the many differences inside one tumbler of water are where the whole water cycle begins.
+A tumbler of water looks like one still thing with one temperature. It is a vast crowd of particles, each moving at a speed of its own. The one temperature comes from all of them together. The few fastest leave, and from them come vapour, clouds and rain. Rain feeds the rivers, the trees and you. So the water cycle begins with the differences in speed between the particles inside the water.
 
 - **Lucretius, On the Nature of Things, Book 1 (Rome, about 55 BCE):** Clothes hung by the sea grow damp, and spread in the sun they dry. Nobody sees the water settle on them or leave them. So, Lucretius says, the water must come and go in pieces too small for the eye to see. (This is evaporation explained with particles, two thousand years before anyone could test it. Lucretius reasoned from washing on a line, as this unit does.)
-- **Tirukkural, verse 16, in the chapter on rain, by Thiruvalluvar:** Unless drops fall from the sky, not even a blade of green grass will lift its head. (Every one of those drops was made by condensation, from particles that evaporated somewhere else. The verse says how much rests on that. The science says where the drops come from.)
+- **Tirukkural, verse 16, in the chapter on rain, by Thiruvalluvar:** Unless drops fall from the sky, not even a blade of green grass will lift its head. (Every one of those drops was made by condensation, from particles that evaporated somewhere else. The verse tells us how much all living things depend on rain. The science tells us where the drops come from.)
 - **Milindapanha (The Questions of King Milinda), the chariot passage:** The monk Nagasena asks the king whether the chariot is its wheels, its axle or its pole. It is none of them. 'Chariot' is a name for all the parts working together. (Temperature is like this. No single particle has it. It is a name for what a great many particles are doing together. The science does not prove the Buddhist teaching about the self, which Nagasena goes on to draw.)
 - Science (settled): The particles of a gas or a liquid at one temperature move at a wide spread of speeds. James Clerk Maxwell worked out the spread in 1860.
 - Science (settled): Evaporation removes the most energetic particles, so it cools what is left. Physicists use the same method to cool gases to within a millionth of a degree of the coldest possible temperature.
@@ -184,11 +184,11 @@ A tumbler of water looks like one still thing with one temperature. It is a vast
 - Practice, Sit with a warm tumbler (3 min): Let's hold a tumbler of warm water in both hands and sit still. Feel the warmth in your palms. Now look at the surface of the water. You cannot see anything leaving. But the fastest particles are leaving every moment. Take ten slow breaths. Feel the tumbler grow a little less warm. Where has that warmth gone?
 - Ask: If you could follow every particle in a tumbler of water, would you still need the word 'temperature'?
 - Ask: The fastest particles leave the sea and become rain for the land. Is the rain still part of the sea?
-- Ask: You are warm because of how your particles move on average. Some are much faster and some much slower. Which of them is you?
+- Ask: Your body is warm because of how your particles move on average, and some of them are much faster and some much slower. So what is you: one particular particle, or all of them together?
 
 ## Deep and big questions
-- *deep:* No single particle of water has a temperature. So where is the temperature of a tumbler of water? (hint: Think about the average height of a class. Which child has it?)
-- *deep:* Nobody chooses which particles leave. Yet an open bowl of hot water cools every time. How can chance give the same result each time? (hint: Think about the Fast Ones Leave game. What happens to the average when only high numbers are removed?)
+- *deep:* No single particle of water has a temperature of its own. So what does the temperature of a tumbler of water describe? (hint: Think about the average height of a class. Does any one child have to be exactly that tall?)
+- *deep:* Nobody chooses which particles leave. Yet an open bowl of hot water cools every time. How can chance give the same result each time? (hint: Think about the Fast Ones Leave game in this unit. What happens to the average when only high numbers are removed?)
 - *deep:* Evaporation and condensation are the same change, run in opposite directions. After a round trip, is the water the same water? (hint: Think about what changes in a change of state, and what stays.)
 - *big:* The Sun lifts more than a metre of the sea into the sky each year, for free. A city pays for pumps to lift water to a tank. Who does the work in each case? (hint: Think about where the energy comes from each time.)
 - *big:* A potter slows evaporation to save her pots. A farmer speeds it up to save her grain. Is fast drying good or bad? (hint: Think about what is drying, and what happens inside it.)
@@ -448,8 +448,8 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 ### a2 · Shake the Plate: a model of particles leaving water (15 min)
 - **record:** Make a table with three rows: gentle shake, hard shake, hard shake with a lid. Write how many chana left the plate each time.
 - **s1 (3 min)**  
-  *Parent does:* 1. Spread the bedsheet on the floor. 2. Put the plate in the middle with 40 chana in it. 3. Tell your child what stands for what. Each chana is a particle of water. The rim is the hold that the particles have on each other. Shaking is warmth. 4. Ask for a guess: how many will jump out with a gentle shake, and with a hard shake?  
-  *Parent says:* Each chana is a particle of water. The rim is the hold they have on each other. When I shake gently, how many will get out? And when I shake hard? Why?  
+  *Parent does:* 1. Spread the bedsheet on the floor. 2. Put the plate in the middle with 40 chana in it. 3. Tell your child what stands for what. Each chana is a particle of water. The rim stands for the hold that the particles have on each other. Shaking stands for warmth. 4. Ask for a guess: how many will jump out with a gentle shake, and with a hard shake?  
+  *Parent says:* Each chana is a particle of water. The rim stands for the hold they have on each other. When I shake gently, how many will get out? And when I shake hard? Why?  
   *Child mode:* Put 40 chana in the plate. Each chana is a water particle. Guess how many will jump out. Say why.
   - Ask: Why do you think so? (good: A hard shake makes them move faster, so more will get over the rim.; Only the ones near the edge can get out.)
 - **s2 (6 min)**  
@@ -474,7 +474,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
   *Parent does:* 1. Draw three boxes of the same size at the corners of a triangle. Label them ice, water and water vapour. 2. Ask your child to draw the particles of each, all the same size. 3. Ask them to add a short arrow to each particle, to show how it moves.  
   *Parent says:* Draw the particles of ice, of water and of water vapour. Make every particle the same size. How close are they in each box? How do they move?  
   *Child mode:* Draw three boxes. Label them ice, water and water vapour. Draw the particles in each box. Show how they move.
-  - Note: Ice: rows of touching particles that only shake. Water: touching, jumbled, sliding. Vapour: only one or two in the box, far apart, with long arrows. If the vapour box is crowded, ask how much space steam takes.
+  - Note: In the ice box, the particles sit in rows, touching, and they only shake in place. In the water box, the particles touch, are jumbled and slide past each other. In the vapour box, there are only one or two particles, far apart, with long arrows. If the vapour box is crowded, ask how much space steam takes.
 - **s2 (5 min)**  
   *Parent does:* 1. Draw an arrow from ice to water and one from water to ice. 2. Draw an arrow from water to vapour and one from vapour to water. 3. Ask your child to name each arrow: melting, freezing, evaporation, condensation. 4. Colour an arrow red if heat must go in, and blue if heat must come out.  
   *Parent says:* Name each arrow. For which two changes must heat go in? For which two must heat come out?  
@@ -516,7 +516,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
   *Parent does:* 1. Draw six circles with the tumbler, along the journey. Put one at the sea surface, one in the clear air and one where the cloud forms. Put one under the cloud, one on the hilltop and one in the river. 2. Number them 1 to 6. 3. Ask your child to draw the water particles in each. 4. Add a red arrow where energy goes into the water, and a blue one where it comes out.  
   *Parent says:* In each circle, draw what the water particles are doing. Are they close or far apart? Fast or slow? Where does energy go in, and where does it come out?  
   *Child mode:* Draw six circles along the journey. Draw the water particles in each one. Are they close or far apart?
-  - Note: 1: fast particles leave the sea, and the salt stays. 2: vapour particles far apart among air particles. 3: slowed particles sticking to a speck of dust. 4: a raindrop, many particles together. 5: snow or hail on a cold hilltop, particles in rows. 6: liquid water flowing. Red arrow at 1, blue arrow at 3.
+  - Note: In circle 1, fast particles leave the sea, and the salt stays behind. In circle 2, vapour particles are far apart among the particles of air. In circle 3, slowed particles stick to a speck of dust. In circle 4, a raindrop holds many particles together. In circle 5, snow or hail on a cold hilltop has its particles in rows. In circle 6, liquid water is flowing. Draw a red arrow at circle 1 and a blue arrow at circle 3.
 - **s3 (6 min)**  
   *Parent does:* 1. Ask your child to put a finger on circle 1. 2. They tell the journey of one particle aloud, circle by circle. 3. Ask where the particle changes state. 4. Ask what happened to the salt of the sea.  
   *Parent says:* Be one particle of water. Start in the sea and tell me your whole journey. Where do you change state? What do you leave behind?  
@@ -634,7 +634,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
    Options: The fastest ones / The slowest ones / The largest ones / The ones at the bottom  
    **Answer:** The fastest ones. *Why:* A particle needs enough speed to break away from its neighbours. All water particles are the same size, so 'the largest' cannot be right.
 8. (draw) Draw the particles of liquid water and of water vapour in two boxes of the same size.  
-   **Answer:** Liquid water: many particles, touching and jumbled. Water vapour: only one or two particles, far apart, with arrows to show them flying.. *Why:* A strong drawing keeps the particles the same size in both boxes, and leaves the vapour box almost empty.
+   **Answer:** In the box of liquid water, draw many particles, touching and jumbled. In the box of water vapour, draw only one or two particles, far apart, with arrows to show them flying.. *Why:* A strong drawing keeps the particles the same size in both boxes, and leaves the vapour box almost empty.
 9. (odd) Three of these are precipitation. Which is the odd one out?  
    Options: Rain / Snow / Dew / Hail  
    **Answer:** 2. *Why:* Rain, snow and hail fall from clouds. Dew does not fall. It condenses straight onto cool leaves and metal.
