@@ -138,9 +138,9 @@
    "definition": "A seed is a baby plant inside a protective coat, packed with a store of food. Seeds are made by flowering plants, and by cone-bearing trees like pines.",
    "description": "Every seed has three main parts. The seed coat is the tough skin on the outside. Inside it is the baby plant, which scientists call the embryo. The baby plant already has a tiny root and a tiny shoot. The rest of the seed is the food store. It feeds the baby plant until their first green leaves can make food from sunlight.",
    "examples": [
-    "A soaked rajma bean: peel off the red coat, open the two halves, and find the tiny baby plant at one edge.",
-    "A peanut: the little pointed tip between the two halves is the baby plant.",
-    "A mango stone: the hard shell is part of the fruit, not the seed. The seed, with their own coat, is inside the shell."
+    "Soak a rajma bean. Then peel off the red coat, open the two halves and look at one edge. There you will find the tiny baby plant.",
+    "In a peanut, the little pointed tip between the two halves is the baby plant.",
+    "In a mango stone, the hard shell is part of the fruit, not the seed. The seed, with their own coat, is inside the shell."
    ],
    "perspectives": [],
    "art": "A big labelled drawing of a split bean: the seed coat peeling away, the two fat halves of the food store, and the tiny baby plant with their root and two small folded leaves.",
@@ -551,7 +551,7 @@
    "Noor shut the moong under a heavy lid to keep the rat out. Why did that stop them sprouting?",
    "The bundle on the nail felt warm in the night. Where did the warmth come from?",
    "Why do you think Ammi always tied the cloth loosely, not tightly?",
-   "Noor remembered something Ammi did without explaining it. What have you learnt just by watching someone at home?",
+   "Ammi's answer, 'they are getting ready to travel', was not a real answer. Why did she hang the bundle loosely from a nail?",
    "Faiz said 'Not bad' about the strainer umbrella. How did Noor solve two problems at once?"
   ],
   "art": [
@@ -716,7 +716,7 @@
       }
      ],
      "think": "Rice seeds can start to grow under water. How do you think they get air?",
-     "parent": "Answers for the QUICK CARDS. Moong under water sprouts less than moong on a damp cloth, because under water they get little air. The coat keeps the baby plant safe and dry until the seed is ready. The root comes out first. Any three seeds are fine, for example rice, dal and a pinch of jeera. For the curl-up card, curl small, then swell, then push out one leg as the root."
+     "parent": "Answers for the QUICK CARDS. For the rice question, a rice seed sends up a shoot like a snorkel to reach the air. Moong under water sprouts less than moong on a damp cloth, because under water they get little air. The coat keeps the baby plant safe and dry until the seed is ready. The root comes out first. Any three seeds are fine, for example rice, dal and a pinch of jeera. For the curl-up card, curl small, then swell, then push out one leg as the root."
     },
     {
      "id": "s5",
@@ -921,7 +921,8 @@
      "say": "Let's test the ones we argued about. Science settles arguments by testing.",
      "kid": "Pick the ones you argued about. Put a few on a wet cloth. Check in two days. Who was right?",
      "wait": "Look again in 2 days",
-     "think": "A potato can grow into a new plant, but a potato is not a seed. How else can plants make new plants?"
+     "think": "A potato can grow into a new plant, but a potato is not a seed. How else can plants make new plants?",
+     "parent": "A potato grows new plants from its eyes, and a money plant grows from a stem cutting. Some plants also grow from a bulb, like an onion, or from a piece of root. These new plants grow without a seed."
     }
    ]
   }
@@ -2139,7 +2140,8 @@
      "do": "Ask your child to draw one opened bean, big, and label the seed coat, the baby plant and the food store.",
      "say": "Draw the opened bean as big as you can. Label three parts: the coat, the baby plant and their food store.",
      "kid": "Draw your bean, big. Label the coat, the baby plant and the food store.",
-     "think": "The baby plant was already there before you soaked the seed. Who made them?"
+     "think": "The baby plant was already there before you soaked the seed. Who made them?",
+     "parent": "The parent plant made the seed. The baby plant grew from a tiny seed-start in the parent's flower, after pollen reached it. The parent also packed in the food store."
     }
    ]
   },
@@ -2333,7 +2335,7 @@
      "do": "After 2 more days, look again. Ask your child to say what they think, what they saw and why.",
      "say": "We turned the jar. What did the root tips do?",
      "kid": "What did the root tips do after you turned the jar? Say what you think, what you saw and why.",
-     "parent": "The root tips bend to point down again. Root tips have cells with tiny heavy grains of starch inside. The grains settle to the bottom, so the root can tell which way is down. A good answer sounds like this. What I think: roots always grow down. What I saw: all 4 roots grew down, and when we turned the jar, they bent down again. Why: roots feel gravity.",
+     "parent": "In space, gravity is tiny, so roots wander in many directions. The root tips bend to point down again. Root tips have cells with tiny heavy grains of starch inside. The grains settle to the bottom, so the root can tell which way is down. A good answer sounds like this. What I think: roots always grow down. What I saw: all 4 roots grew down, and when we turned the jar, they bent down again. Why: roots feel gravity.",
      "think": "Astronauts have grown plants in space. Which way do you think their roots grew?"
     }
    ]
@@ -2529,7 +2531,8 @@
      "do": "1. Line them up on the paper strip from smallest to biggest. 2. Next to each, write or draw the plant they grow into.",
      "say": "Does the biggest seed grow into the biggest plant?",
      "kid": "Line them up, smallest to biggest. Draw the plant for each one. Does a big seed make a big plant?",
-     "think": "A banyan tree's seed is no bigger than a rai grain. How does a giant tree come from something so small?"
+     "think": "A banyan tree's seed is no bigger than a rai grain. How does a giant tree come from something so small?",
+     "parent": "The seed's food only feeds the seedling for the first few days. After that, the green leaves make food from air and water, using sunlight. The tree is built from that food over many years."
     }
    ]
   }
@@ -2677,8 +2680,8 @@
      "id": "s4",
      "mins": 12,
      "do": "On day 10, put the root and shoot lengths into a table. Read the diary aloud to someone. Move the plant to a bigger pot.",
-     "say": "Read your diary to someone in the family. What surprised you most?",
-     "kid": "Make a table of your measurements. Read your diary to someone. What surprised you most? Plant your friend in a bigger pot.",
+     "say": "Read your diary to someone in the family. On which day did the root grow the most? How do you know?",
+     "kid": "Make a table of your measurements. Read your diary to someone. On which day did the root grow the most? Plant your friend in a bigger pot.",
      "think": "Your bean has used up the food in their seed halves. Where will they get their food now?"
     }
    ]
@@ -2822,7 +2825,8 @@
      "do": "After 2 days, open the kit. Count the sprouts. Read the usual ideas and the creative ones together.",
      "say": "Did your seeds wake up? What would you change for the real Moon?",
      "kid": "Open your kit. Did the seeds sprout? What would you change for the real Moon?",
-     "think": "Why do you think scientists send seeds to space at all?"
+     "think": "Why do you think scientists send seeds to space at all?",
+     "parent": "Scientists send seeds to space to find out whether seeds can sprout away from Earth. If they can, astronauts could one day grow their own food on long journeys."
     }
    ],
    "context": "This is a design challenge. You plan a kit that carries seeds to the Moon and helps them sprout there."
@@ -3138,11 +3142,11 @@
  "ask_kids": [
   "Is this rice on your plate a baby plant? Could it still sprout?",
   "Which seeds did we eat today? Count them.",
-  "If you were a seed, would you wake up now, or wait?",
+  "It is warm and raining outside. Would a seed lying on the ground wake up now? Which things does the seed have?",
   "Which food on our plate today was a seed, and which was a leaf, a root or a fruit?",
   "Do seeds breathe at night too?",
   "Do you think a seed in the fridge is alive? How could we test it?",
-  "Would you plant a seed today that might only sprout after you are grown up?"
+  "Why can a seed in a dry, cool jar wait for years, when a damp, warm seed cannot?"
  ],
  "jokes": [
   {

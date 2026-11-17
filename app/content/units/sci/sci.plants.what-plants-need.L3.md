@@ -242,7 +242,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - Ask: Which way were all Zoya's plants leaning? What were they looking for?
 - Ask: How did the steel thali help the second cup of moong?
 - Ask: Rukmini Mami said she would need 'a better ruler' next year. What else could she measure, to find the healthiest plant?
-- Ask: Have you ever won, or lost, because of the wrong kind of measuring? For example, the most marks but not the best understanding?
+- Ask: The contest rule was 'the tallest plant wins'. Why did that rule pick the wrong winner?
 
 ## Games
 ### g1 · Grow or Droop (25 min)
