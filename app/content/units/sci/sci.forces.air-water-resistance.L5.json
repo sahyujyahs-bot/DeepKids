@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "A lunch box holds two katoris of raw rice. It floats in a bucket of water. Could one hanging paper clip pull it across the water? Say yes or no, and say why.",
-  "text": "Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water, and count what it takes to start it. In this unit you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.",
+  "text": "Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You count what it takes to start it each time. In this unit you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.",
   "art": "A child looking at a rice-filled lunch box floating in a bucket, holding up one paper clip on a thread, with a question mark above the bucket."
  },
  "outcomes": [
@@ -17,7 +17,7 @@
   "By the end I can say how speed, front area, shape and the fluid change air and water resistance.",
   "By the end I can explain upthrust, and say why a thing floats, sinks or hangs in water.",
   "By the end I can draw a force diagram with several forces, and say if they are balanced.",
-  "By the end I can run a fair test with repeats and a mean, and say when a difference is too small to trust.",
+  "By the end I can run a fair test with repeats, and say when a difference is too small to trust.",
   "By the end I can design, test and improve a parachute, and explain it with forces.",
   "By the end I can say what scientists still cannot work out about moving air and water."
  ],
@@ -116,7 +116,7 @@
   {
    "term": "Wake",
    "meaning": "The wake is the stirred-up air or water that a moving thing leaves behind it. A big wake means the thing has given a lot of its energy to the fluid.",
-   "example": "A flat-backed lorry leaves a wide wake of swirling air. You can feel it shake a parked cycle as the lorry passes.",
+   "example": "A flat-backed lorry leaves a wide wake of swirling air. You feel it as a gust when a lorry passes you on the road.",
    "art": "A flat-backed lorry on a road with large swirls of air drawn behind it."
   },
   {
@@ -153,7 +153,7 @@
    "description": "Pull gently on a loaded box on a table, and the box stays where it is. Friction from the table pulls back exactly as hard as you pull. It can do so up to a limit, and that limit grows with the weight of the box. A heavier box needs a bigger pull to start. Water resistance works in another way. It comes from pushing water out of the way, so a thing at rest has none. Even the smallest pull is unbalanced, and the floating thing starts to move. It starts slowly if it has a lot of mass, because mass makes a thing slow to change its speed. So nothing that floats can be held in place by the water alone. Boats are tied to a jetty or held by an anchor in the sea bed.",
    "examples": [
     "In Table or Tub, a loaded lunch box on the table needed several spoons of rice to start it. Afloat, one paper clip started it.",
-    "A few people pulling a rope can move a floating ferry. The same people could never drag the ferry up a beach.",
+    "Two people with a rope can pull a floating houseboat to the bank at Alappuzha. They could never drag the same boat up the bank.",
     "Long ago, one horse on a canal path pulled a boat carrying tens of tonnes. On a road the same horse pulled a cart of one or two tonnes."
    ],
    "perspectives": [],
@@ -163,10 +163,10 @@
    "concept": "What makes air resistance and water resistance bigger",
    "status": "defined",
    "definition": "Drag grows with speed, with front area and with a blunt shape. It is far bigger in water than in air at the same speed.",
-   "description": "Four things decide the size of drag. The first is speed. At twice the speed, a thing meets about four times the drag. The second is front area. A wide front has to push more air or water out of the way each second. The third is shape. A flat plate has many times the drag of a streamlined shape with the same front area. The fourth is the fluid. One litre of water has about 800 times the mass of one litre of air. So water pushes back far harder than air at the same speed. Weight is not on this list. A heavy thing and a light thing of the same shape and speed meet the same drag.",
+   "description": "Four things decide the size of drag. The first is speed. At twice the speed, a thing meets about four times the drag. The second is front area. A wide front has to push more air or water out of the way each second. The third is shape. A flat plate has many times the drag of a streamlined shape with the same front area. The fourth is the fluid. One litre of water has about 800 times the mass of one litre of air. So water pushes back far harder than air at the same speed. Weight is not on this list. A heavy thing and a light thing of the same size, shape and speed meet the same drag.",
    "examples": [
     "In Newspaper on Your Chest, a full sheet stayed up at a walk. Folded in half, the same sheet needed a faster walk.",
-    "In the Sinking Race, a flat pancake of dough sank far more slowly than a ball made from an equal piece.",
+    "In the Sinking Race, a flat pancake of dough sank far more slowly than a ball of equal dough.",
     "Most of the effort of a fast cyclist goes into pushing air out of the way.",
     "You can run in air. In chest-deep water you can only wade."
    ],
@@ -177,7 +177,7 @@
    "concept": "Streamlined shapes: a rounded front and a long, narrowing back",
    "status": "defined",
    "definition": "A streamlined shape is rounded at the front and narrows slowly towards the back. Air or water flows round it and closes up smoothly behind it.",
-   "description": "Many people think a streamlined shape needs a sharp point at the front. The back matters more. Behind a blunt back, the air or water cannot close up smoothly. It breaks into swirls, and this swirling region is the wake. The moving thing has to keep giving energy to those swirls. A long, narrowing back lets the fluid close up gently, so the wake is small. That is why a fish, a dolphin and the body of an aeroplane are all rounded in front and narrow behind. A falling raindrop is not pointed at the top. A small drop is round, and a big drop is flat underneath, like a bun.",
+   "description": "Many people think a streamlined shape needs a sharp point at the front. The back matters more. Behind a blunt back, the air or water cannot close up smoothly. It breaks into swirls, and this swirling region is the wake. The moving thing has to keep giving energy to those swirls. A long, narrowing back lets the fluid close up gently, so the wake is small. That is why a fish, a dolphin and an aeroplane body are all rounded in front and narrow behind. A falling raindrop is not pointed at the top. A small drop is round, and a big drop is flat underneath, like a bun.",
    "examples": [
     "In the Sinking Race, a carrot shape dropped thick end first sank faster than a ball of the same dough.",
     "A racing cycle helmet is rounded in front and has a long tail behind the head.",
@@ -191,7 +191,7 @@
    "concept": "Upthrust: the push that equals the weight of the water displaced",
    "status": "defined",
    "definition": "The upthrust on a thing equals the weight of the water or air that the thing displaces. This is Archimedes' principle.",
-   "description": "A thing under water takes up space where water used to be. Before the thing came, the water around that space held the missing water up. That surrounding water has not changed. So it pushes up on the new thing just as hard as it pushed on the water that was there before. This means upthrust depends on the size of the part under water. It does not depend on what the thing is made of, or on how heavy it is. A full bottle, an empty bottle and a bottle of coins of the same size get the same upthrust. Upthrust acts on sinking things too. A stone feels lighter under water because the upthrust carries part of its weight.",
+   "description": "A thing under water takes up space where water used to be. Before the thing came, the water around that space held the missing water up. That surrounding water has not changed. So it pushes up on the new thing just as hard as it pushed on that water. This means upthrust depends on the size of the part under water. It does not depend on what the thing is made of, or on how heavy it is. A full bottle, an empty bottle and a bottle of coins of the same size get the same upthrust. Upthrust acts on sinking things too. A stone feels lighter under water because the upthrust carries part of its weight.",
    "examples": [
     "In Three Bottles, all three bottles raised the water in the bucket by the same amount. So all three got the same upthrust.",
     "In the Bag of Water, a bag of water hung from a rubber band. In the bucket the band went slack, because the upthrust equalled the weight of the bag.",
@@ -206,7 +206,7 @@
    "definition": "Water presses on every surface it touches, and it presses harder the deeper you go. The underside of a thing is deeper than its top, so the push up is bigger than the push down.",
    "description": "Water is made of tiny particles that are always moving and bumping into whatever they touch. Deep water has more water resting on it, so its particles are squeezed together harder. They press harder on everything, in every direction. Think of a tumbler held under water. The water under it pushes up. The water over it pushes down. The water under it is deeper, so the upward push wins. The difference between the two pushes is the upthrust. Once the tumbler is fully under, pushing it deeper does not change the upthrust. Both pushes grow by the same amount, so the difference stays the same.",
    "examples": [
-    "In Three Bottles, the empty bottle pushed up on your hand just as hard near the surface as near the bottom of the bucket.",
+    "In Three Bottles, you held the empty bottle near the surface and near the bottom. It pushed up on your hand equally hard in both places.",
     "A diver's ears hurt in the deep end of a pool, because the deeper water presses harder on the eardrums.",
     "Air does the same thing. It presses a little harder at your feet than at your head, so air gives you a very small upthrust."
    ],
@@ -244,12 +244,12 @@
    "concept": "How a parachute works, and why it has a hole",
    "status": "defined",
    "definition": "A parachute gives a falling load a very large front area. The air resistance then balances gravity at a low speed, so the load lands gently.",
-   "description": "Gravity pulls a load down just as hard with a parachute as without one. The canopy changes the speed at which air resistance grows big enough to balance that pull. A big canopy reaches the balance at a low speed. A heavier load under the same canopy must fall faster before the forces balance. So the size of the canopy is chosen to suit the load. Air caught under a canopy has to get out. If it can only spill out at the edges, it spills from one side and then the other, and the parachute swings. A small vent at the top lets some air out through the middle. The parachute swings less, and the fall is hardly any faster. The strings matter too. Short strings pull the canopy into a narrow cup with a smaller front area.",
+   "description": "Gravity pulls a load down just as hard with a parachute as without one. The canopy changes the speed at which air resistance grows big enough to balance that pull. A big canopy reaches the balance at a low speed. A heavier load under the same canopy must fall faster before the forces balance. So the size of the canopy is chosen to suit the load. Air caught under a canopy has to get out. If it can only spill out at the edges, it spills from one side and then the other. That makes the parachute swing. A small vent at the top lets some air out through the middle. The parachute swings less, and the fall is hardly any faster. The strings matter too. Short strings pull the canopy into a narrow cup with a smaller front area.",
    "examples": [
-    "In A Hole in the Parachute, you cut a small vent in a polythene canopy and compared the fall time and the landing place.",
+    "In A Hole in the Parachute, you cut a small vent in a polythene canopy. Then you compared the fall time and the landing place.",
     "A skydiver slows from about 200 kilometres an hour to about 20 when her canopy opens.",
     "The crew capsule of ISRO's Gaganyaan is designed to come down to the sea under large parachutes.",
-    "The fluffy top of a silk cotton seed is a parachute made of fine hairs with gaps between them."
+    "The fluff round a silk cotton seed works as a parachute made of fine hairs with gaps between them."
    ],
    "perspectives": [],
    "art": "A round parachute falling straight with a small vent at the top and air rising through it, beside a parachute with no vent tilting to one side as air spills from under one edge."
@@ -315,11 +315,11 @@
  "agreed": [
   {
    "text": "Friction, air resistance, water resistance and upthrust are contact forces. Each acts only where a thing touches a surface, the air or the water.",
-   "evidence": "A feather and a hammer dropped on the Moon in 1971 landed together, because the Moon has no air to touch them."
+   "evidence": "In 1971 a feather and a hammer were dropped on the Moon. They landed together, because the Moon has no air to touch them."
   },
   {
    "text": "Air resistance and water resistance are zero on a thing at rest, and grow quickly with speed. At twice the speed they are about four times as big.",
-   "evidence": "Engineers measure the force on cars in wind tunnels and on model ships pulled along tanks of water, at many speeds."
+   "evidence": "Engineers measure the force on cars in wind tunnels, at many speeds. They do the same for model ships pulled along tanks of water."
   },
   {
    "text": "The upthrust on a thing equals the weight of the water or air it displaces.",
@@ -330,12 +330,12 @@
    "evidence": "Skydivers stop speeding up at about 200 kilometres an hour, when air resistance has grown to equal their weight."
   },
   {
-   "text": "A streamlined shape can have less than one tenth of the drag of a flat plate with the same front area.",
-   "evidence": "Wind tunnel and water tank tests of plates, balls and fish-like shapes have shown this for more than a hundred years."
+   "text": "A streamlined shape can have under one tenth of the drag of a flat plate with the same front area.",
+   "evidence": "Wind tunnel and water tank tests of plates, balls and fish-like shapes have shown this for over a hundred years."
   },
   {
    "text": "The energy that air and water resistance take from a moving thing ends as heat in the air or water.",
-   "evidence": "The air in front of a returning space capsule glows white hot, and the capsule slows from orbit speed to parachute speed."
+   "evidence": "The air in front of a returning space capsule glows white hot. The capsule slows from orbit speed to parachute speed."
   }
  ],
  "challenging": [
@@ -410,7 +410,7 @@
    "hint": "Think of a ferry, a train and a plane. Who gains the hour, and who pays for the fuel and the smoke?"
   },
   {
-   "q": "You live at the bottom of an ocean of air and never feel its upthrust. What else pushes on you without your noticing?",
+   "q": "You live at the bottom of an ocean of air, and its upthrust goes unnoticed. What else pushes on you without your noticing?",
    "kind": "big",
    "hint": "Think of things that have always been there, so you have nothing to compare them with."
   },
@@ -424,7 +424,7 @@
   "title": "The Garden on a Rope",
   "mins": 12,
   "read_aloud": true,
-  "note": "A made-up story. Zooni, Dadi, Ammi and Bilal are imagined. These things are real. Growers on Dal Lake in Srinagar raise vegetables on floating gardens made of matted lake reeds and mud. The gardens are held in place by poles pushed into the lake bed, and a garden can be untied and towed to a new place. Growers sell vegetables from boat to boat at a floating market at dawn. The size and weight of the garden in the story are guesses.",
+  "note": "A made-up story. Zooni, Dadi, Ammi and Bilal are imagined. These things are real. Growers on Dal Lake in Srinagar raise vegetables on floating gardens made of matted lake reeds and mud. The gardens are held in place by poles pushed into the lake bed. A garden can be untied and towed to a new place. Growers sell vegetables from boat to boat at a floating market at dawn. The size and weight of the garden in the story are guesses.",
   "text": [
    "The wind came down from the mountains in the night. It shook the shutters and rattled the tin roof of the kitchen. In the morning Dal Lake lay flat and grey, as if nothing had happened.",
    "Zooni was ten. She stepped out onto the wet planks of the landing and counted the family's floating gardens, as she did every morning. One, two, three. She counted again. The fourth garden, the one with the tomatoes, was gone.",
@@ -456,7 +456,7 @@
   ],
   "epiphany": "For the parent: on land, friction holds a heavy thing still, and it grows with the weight. That is why six men were needed for a small boat on the bank. Afloat, upthrust carries the weight, and water resistance is zero on a thing that is not moving. So even a small, steady pull moves a very heavy garden. It starts slowly, because a large mass takes a long time to speed up. Water resistance grows with speed, so hurrying costs far more effort for little gain. And because water cannot hold anything in place, a floating garden needs poles in the lake bed.",
   "ask": [
-   "Six men were needed for a small boat on the bank, and one girl moved a huge garden on the water. What was different?",
+   "Six men were needed to drag a small boat up a bank. One girl moved a huge garden on the water. What was different?",
    "Why did hard paddling at the start seem to do nothing, while gentle pulling for a long count worked?",
    "When Zooni paddled fast, the pull on the rope grew much harder. Which force grew, and why?",
    "The garden kept moving after Zooni stopped pulling. Which force slowed it in the end?",
@@ -769,7 +769,7 @@
       "q": "With the parachute closed, the jumper's speed stops growing at 9 beans. Why?",
       "options": [
        "Gravity stops pulling",
-       "The air takes back as many beans as gravity gives",
+       "The air takes back what gravity gives",
        "The jumper has run out of beans"
       ],
       "a": 1,
@@ -786,9 +786,9 @@
    "title": "Table or Tub: how small a pull can start a loaded box?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you pull a lunch box loaded with rice, first on a table and then floating in a bucket. You count how much pull it takes to start the box moving each time.",
-   "question": "How big a pull does it take to start a loaded box on a table, and to start the same box floating on water? What happens to each pull when the load is doubled?",
-   "predict": "Guess first. On the table, how many spoons of rice in the hanging bag will start the box with one katori of rice in it? How many with two katoris? Then guess for the floating box. Will it need more spoons, fewer spoons or about the same? Write each guess and your reason for it.",
+   "context": "In this experiment you pull a lunch box loaded with rice. First it stands on a table, and then it floats in a bucket. You count how much pull it takes to start the box moving each time.",
+   "question": "How big a pull starts a loaded box on a table? How big a pull starts the same box when it floats on water? What happens to each pull when the load is doubled?",
+   "predict": "Guess first. The box has one katori of rice in it. On the table, how many spoons of rice in the hanging bag will start it? How many with two katoris? Then guess for the floating box. Will it need more spoons, fewer spoons or about the same? Write each guess and your reason for it.",
    "fair_test": "Use the same box, the same thread and the same place on the table every time. Add the pull in equal steps: one level tablespoon of rice on the table, and one paper clip on the water. Wait 3 seconds after each step. Change one thing at a time: first the place, then the load. Do each table test 3 times and find the mean, because one run can be a fluke. Switch off the fan for the water tests, because moving air pushes a floating box.",
    "results_table": [
     "Where the box is, and its load",
@@ -939,9 +939,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Hold a ruler against the side of the floating box and read how deep it sits. 2. Put the second katori of rice in the box. 3. Float it and test it with one paper clip again. 4. Count the seconds the box takes to reach the rim, with one katori and with two. 5. Read how deep the box sits now.",
+     "do": "1. With one katori in the box, let the clip pull it again and count the seconds to the rim. 2. Hold a ruler against the side of the box and read how deep it sits. 3. Put the second katori of rice in the box. 4. Test it with one paper clip, and count the seconds again. 5. Read how deep the box sits now.",
      "say": "Now the load is doubled. On the table that meant about twice the spoons. What do you expect on the water? Why?",
-     "kid": "Measure how deep the box sits. Add the second katori of rice. Test with one paper clip. Count the seconds to the rim.",
+     "kid": "Count the seconds to the rim. Measure how deep the box sits. Add the second katori. Do both again.",
      "ask": [
       {
        "q": "The box sits deeper with two katoris. What does that tell you about the upthrust?",
@@ -1181,7 +1181,7 @@
    "days": 1,
    "context": "In this experiment you make one polythene parachute that carries a coin. You drop it with no hole, then with a small hole in the top, then with a large hole. Each time you measure how long it falls and how far from a target it lands.",
    "question": "Does a hole in the top of a parachute make it fall faster? Does it change how far from the target the parachute lands?",
-   "predict": "Guess first. When you cut a small hole in the top of the canopy, will the parachute fall faster, slower or the same? Will it land nearer to the target or further away? What will a large hole do? Write each guess and your reason for it.",
+   "predict": "Guess first. You will cut a small hole in the top of the canopy. Will the parachute then fall faster, slower or the same? Will it land nearer to the target or further away? What will a large hole do? Write each guess and your reason for it.",
    "fair_test": "Use one parachute for the whole test, so the polythene, the threads and the coin never change. Drop it from the same mark, held the same way, by the same person. Switch off the fan and close the window. Change only the hole. Do 5 drops each time and find the mean, because parachute drops vary a lot. A hand on a stopwatch is off by about 0.2 seconds, so only a bigger gap than that counts.",
    "results_table": [
     "Canopy",
@@ -1356,7 +1356,7 @@
       "t": "mcq",
       "q": "A 2 centimetre square hole is cut in a 30 centimetre square canopy. Why does the fall time hardly change?",
       "options": [
-       "The hole removes under one hundredth of the canopy",
+       "The hole removes very little of the canopy",
        "Air cannot pass through a small hole",
        "The hole makes the coin lighter"
       ],
@@ -1948,7 +1948,7 @@
       "t": "mcq",
       "q": "A pigeon fans her tail and spreads her wings just before she lands. What does this do?",
       "options": [
-       "It makes her front area and air resistance bigger",
+       "Her front area and air resistance grow",
        "It makes her lighter",
        "It pushes her forward faster"
       ],
@@ -2163,7 +2163,7 @@
       "q": "Many plankton have long, thin spines. How do the spines help them stay in sunlit water?",
       "options": [
        "The spines make them lighter",
-       "The spines add water resistance, so they sink slowly",
+       "The spines add water resistance and slow sinking",
        "The spines pull them upward"
       ],
       "a": 1,
@@ -2177,7 +2177,7 @@
    "id": "c2",
    "title": "The Quiet Dive: enter the water with the smallest splash",
    "mins": 25,
-   "context": "This is a design challenge about meeting water at speed. You drop pieces of dough from 30 centimetres into a bowl of water, and shape the dough so that it makes the smallest splash.",
+   "context": "This is a design challenge about meeting water at speed. You drop pieces of dough from 30 centimetres into a bowl of water. You shape the dough so that it makes the smallest splash.",
    "problem": "Drop one piece of dough from 30 centimetres above a bowl of water. Shape the dough so that the water splashes the shortest distance out of the bowl.",
    "constraints": [
     "Use one piece of dough each time, cut 3 centimetres long from a rope 2 centimetres thick.",
@@ -2254,7 +2254,7 @@
       "t": "mcq",
       "q": "A long cone dropped point first makes a smaller splash than a flat pancake. Why?",
       "options": [
-       "The cone pushes the water aside little by little",
+       "The cone moves water aside little by little",
        "The cone is lighter",
        "The cone falls more slowly"
       ],
@@ -2382,7 +2382,7 @@
       "36 spoons"
      ],
      "a": 2,
-     "why": "A box that is twice as heavy presses twice as hard on the table, so the friction is about twice as big. 6 × 2 = 12.",
+     "why": "A box that is twice as heavy presses twice as hard on the table. So the friction is about twice as big. 6 × 2 = 12.",
      "how": "e1",
      "outcome": 1
     },
@@ -2503,7 +2503,7 @@
      "t": "write",
      "p": "In the Bag of Water, the rubber band went loose when the bag was under water. Explain why.",
      "a": "The bag displaced its own weight of water. So the upthrust on the bag equalled its weight, and nothing was left for the band to hold.",
-     "why": "A strong answer says that the water around the bag pushes up as hard as the weight of the water displaced. It does not say that the water in the bag became lighter.",
+     "why": "A strong answer says that the water around the bag pushes up on it. That push is as big as the weight of the water displaced. It does not say that the water in the bag became lighter.",
      "lines": 3,
      "how": "a2",
      "outcome": 3
@@ -2548,7 +2548,7 @@
     {
      "t": "perspective",
      "p": "Three people talk about the hole in the top of a parachute.",
-     "a": "A strong answer uses the fall times and landing distances from A Hole in the Parachute. It chooses one view, and gives a fair point from another, such as the child's point that a very large hole does speed up the fall.",
+     "a": "A strong answer uses the fall times and landing distances from A Hole in the Parachute. It chooses one view and gives a fair point from another. For example, the child is right that a very large hole speeds up the fall.",
      "why": "Each view holds part of the truth. A hole does let air out. A small hole costs very little speed. And how much it costs depends on its size, which only a test can show.",
      "views": [
       {
@@ -2663,7 +2663,7 @@
     },
     {
      "t": "write",
-     "p": "A full sheet of newspaper stays on your chest at a walk. Folded in four, it needs a run. Explain why.",
+     "p": "A full newspaper sheet stays on your chest at a walk. Folded in four, it needs a run. Why?",
      "a": "The folded sheet has the same weight and a quarter of the front area. So the air must push much harder on each part of it. That needs a higher speed.",
      "why": "A strong answer says that the weight is unchanged, the front area is smaller, and air resistance grows with speed.",
      "lines": 3,
@@ -2687,7 +2687,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Many people say a heavy thing is hard to move because it is heavy. Use Table or Tub to argue against this.",
+     "p": "One paper clip moved a heavy floating box in Table or Tub. Is a heavy thing always hard to move? Explain.",
      "a": "On the table, the heavier box needed a bigger pull, because friction grew with the weight. Afloat, one paper clip moved the box with either load. So the weight was not what held the box. Friction was.",
      "why": "A strong answer uses both parts of the test, and names friction as the cause on the table. It may add that a big mass still makes the start slow.",
      "lines": 4,
@@ -2715,7 +2715,7 @@
     },
     {
      "t": "mcq",
-     "p": "A boat's engine pushes with 300 newtons, and the boat moves at a steady speed. How big is the water resistance?",
+     "p": "A boat's engine pushes with 300 newtons, and the boat keeps a steady speed. How big is the water resistance?",
      "opts": [
       "0 newtons",
       "Less than 300 newtons",
@@ -2728,7 +2728,7 @@
     },
     {
      "t": "write",
-     "p": "A steel ball and a table tennis ball of the same size fall from a tall tower. Which lands first? Why?",
+     "p": "A steel ball and a table tennis ball of equal size fall from a tower. Which lands first? Why?",
      "a": "The steel ball lands first. At the same speed both meet the same air resistance, because they have the same size and shape. That resistance soon balances the light ball's weight. The steel ball must go much faster before its weight is balanced.",
      "why": "A strong answer says that air resistance depends on size, shape and speed, not on weight. It then compares that resistance with each ball's weight.",
      "lines": 4,
@@ -2881,7 +2881,7 @@
     },
     {
      "t": "write",
-     "p": "Design a test to find out whether longer threads make a parachute fall more slowly. Say what you keep the same.",
+     "p": "Design a test: do longer threads make a parachute fall more slowly? Say what you keep the same.",
      "a": "Make two parachutes that differ only in thread length, such as 15 and 45 centimetres. Keep the canopy, the load, the drop height and the person the same. Drop each 5 times and compare the mean times.",
      "why": "A strong answer changes only the thread length, repeats each drop and compares means. It may add that a gap under 0.2 seconds is too small to trust.",
      "lines": 4,
@@ -2997,7 +2997,7 @@
   },
   {
    "t": "mcq",
-   "p": "Three designs land a mean of 30, 31 and 29 centimetres from the X. Single drops varied by 20. What should you say?",
+   "p": "Mean landing distances are 30, 31 and 29 centimetres. Single drops varied by 20. What can you say?",
    "opts": [
     "The second design is worst",
     "The third design is best",
@@ -3073,7 +3073,7 @@
    "youtube": "",
    "status": "find-id",
    "mins": 4,
-   "why": "To see a small tug move a ship thousands of times heavier, slowly, and to see how long the ship takes to stop.",
+   "why": "To see a small tug slowly move a ship thousands of times heavier. Also to see how long the ship takes to stop.",
    "check": "No address yet. Find a harbour or port clip, speeded up if possible. Check that it shows a tug pushing or pulling the ship sideways, and that it does not claim the water holds the ship in place."
   }
  ],
@@ -3116,8 +3116,8 @@
    "art": "A duck swimming on a pond with a V-shaped pattern of ripples spreading behind her."
   },
   {
-   "text": "A delivery rider bending low over the handlebar on a windy flyover.",
-   "art": "A rider on a scooter leaning forward on a flyover, with a jacket flapping in the wind."
+   "text": "A round coracle carrying people across the Kaveri at Hogenakkal. A round boat meets more water resistance than a long, narrow one, so a coracle is slow.",
+   "art": "A round basket boat with four people in it on a wide river between rocky banks, with a boatman using one paddle."
   }
  ],
  "open_questions": [
@@ -3196,7 +3196,7 @@
    "answer": "The mean is 6 spoons, which is 72 grams.",
    "explain": "Add the three runs: 5 + 7 + 6 = 18. Divide by the number of runs: 18 ÷ 3 = 6 spoons. Each spoon is about 12 grams, so 6 × 12 = 72 grams.",
    "math_unit": "math.data.reading-data.L5",
-   "context": "This is about Table or Tub. A hanging bag of rice pulls a loaded lunch box on a table, and you count the spoons of rice that start it.",
+   "context": "This is about Table or Tub. A hanging bag of rice pulls a loaded lunch box on a table. You count the spoons of rice that start it.",
    "how": "e1",
    "chart": {
     "type": "bar",
@@ -3218,7 +3218,7 @@
      }
     ]
    },
-   "why_maths": "One run can be a fluke. The mean of three runs is a number you can trust more, and grams let you compare it with the paper clip."
+   "why_maths": "One run can be a fluke. The mean of three runs is a number you can trust more. Grams let you compare it with the paper clip."
   },
   {
    "problem": "On the table, a loaded box needed a pull of 72 grams to start. Afloat, it needed one paper clip of half a gram. How many times as big was the pull on the table?",
@@ -3250,9 +3250,9 @@
   {
    "problem": "The graph shows a jumper's speed in Open It in Time. On which turn did the speed stop growing? On which turn did the parachute open? What was the landing speed?",
    "answer": "The speed stopped growing on turn 6, at 9 beans. The parachute opened on turn 8. The landing speed was 4 beans.",
-   "explain": "The line climbs to 9 on turn 6 and stays level on turn 7, so 9 is the terminal speed with the parachute closed. On turn 8 the line drops from 9 to 6, so the parachute opened then. The last point, on turn 10, is at 4 beans.",
+   "explain": "The line climbs to 9 on turn 6 and stays level on turn 7. So 9 is the terminal speed with the parachute closed. On turn 8 the line drops from 9 to 6, so the parachute opened then. The last point, on turn 10, is at 4 beans.",
    "math_unit": "math.data.line-graphs.L5",
-   "context": "This is about the bean game Open It in Time. The beans in your hand are your speed. Gravity gives 3 beans a turn, and the air takes some back.",
+   "context": "This is about the game Open It in Time. The beans in your hand are your speed. Gravity gives 3 beans a turn, and the air takes some back.",
    "how": "g2",
    "chart": {
     "type": "line",
@@ -3302,25 +3302,25 @@
      }
     ]
    },
-   "why_maths": "A line graph shows at a glance where a speed is growing, where it is steady and where it suddenly changes."
+   "why_maths": "A line graph shows at a glance where a speed grows, where it is steady and where it changes suddenly."
   },
   {
    "problem": "A box 20 centimetres long and 10 centimetres wide floats with a load. Box and load together have a mass of 540 grams. One cubic centimetre of water has a mass of 1 gram. How deep does the box sit?",
    "answer": "2.7 centimetres deep.",
    "explain": "A floating box displaces its own mass of water, so it displaces 540 cubic centimetres. The base of the box is 20 × 10 = 200 square centimetres. Depth is volume divided by base area: 540 ÷ 200 = 2.7 centimetres.",
    "math_unit": "math.area-perimeter.volume.L5",
-   "context": "This is about Table or Tub. There you measured how deep a loaded lunch box sat in the water, with one katori of rice and with two.",
+   "context": "This is about Table or Tub. There you measured how deep a loaded lunch box sat in the water. You did it with one katori of rice and with two.",
    "how": "e1",
    "why_maths": "Upthrust equals the weight of the water displaced. With volume and area you can predict how deep a boat will sit before you load it."
   },
   {
-   "problem": "A skydiver falls 3,000 metres at 50 metres each second with her parachute closed. Then she falls 1,000 metres at 5 metres each second with it open. How long does each part take, and how long is the whole jump?",
+   "problem": "A skydiver falls 3,300 metres at 55 metres each second with her parachute closed. Then she falls 1,100 metres at 5.5 metres each second with it open. How long does each part take, and how long is the whole jump?",
    "answer": "60 seconds, then 200 seconds. The whole jump takes 260 seconds, which is 4 minutes and 20 seconds.",
-   "explain": "Time is distance divided by speed. 3,000 ÷ 50 = 60 seconds. 1,000 ÷ 5 = 200 seconds. Together that is 260 seconds. 240 seconds make 4 minutes, and 20 seconds are left over. The short last part takes most of the time.",
+   "explain": "Time is distance divided by speed. 3,300 ÷ 55 = 60 seconds. 1,100 ÷ 5.5 = 200 seconds. Together that is 260 seconds. 240 seconds make 4 minutes, and 20 seconds are left over. The short last part takes most of the time. A speed of 55 metres each second is about 200 kilometres an hour.",
    "math_unit": "math.time.duration.L5",
-   "context": "This is about the bean game Open It in Time. There the jumper fell fast with the parachute closed and slowly with it open. This problem uses round numbers for a real skydiver.",
+   "context": "This is about the game Open It in Time. There the jumper fell fast with the parachute closed and slowly with it open. This problem uses round numbers for a real skydiver.",
    "how": "g2",
-   "why_maths": "Dividing distance by speed shows how much longer a parachute keeps a jumper in the air, and why she must open it in good time."
+   "why_maths": "Dividing distance by speed shows how much longer a parachute keeps a jumper in the air. It also shows why she must open it in good time."
   }
  ],
  "song": {
@@ -3634,7 +3634,7 @@
    "what_is_life": "Every swimmer and every flyer has a body shaped by the water or air they move through. A fish, a dolphin and a penguin have nearly the same outline, because they move through the same water.",
    "what_is_this_world": "The same water holds a boat up and slows the boat down. The holding up comes from the weight of the water. The slowing comes from the boat's own movement."
   },
-  "thread": "Friction, air resistance, water resistance and upthrust have four names. Underneath, they are one kind of event. The particles of one thing come very close to the particles of another, and the two push each other away. Upthrust is the push of water particles that are squeezed by the water above them. Resistance is the push of particles that have to be moved out of the way. Friction is the hold of particles on two solid surfaces. One push between particles shows up as holding up, slowing down or gripping, depending on what the things are doing.",
+  "thread": "Friction, air resistance, water resistance and upthrust have four names. Underneath, they are one kind of event. The particles of one thing come very close to the particles of another, and electric forces act between them. Upthrust is the push of water particles that are squeezed by the water above them. Resistance is the push of particles that have to be moved out of the way. Friction is the grip between the particles of two solid surfaces. One kind of force between particles shows up as holding up, slowing down or gripping. Which of these we see depends on what the things are doing.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 78",
@@ -3678,5 +3678,5 @@
   ],
   "art": "A child sitting beside a bucket with one hand resting loosely in the water, eyes closed, with a small arrow under the hand pointing up."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home. Please treat the amounts as a starting point. Table or Tub (core) needs a light plastic lunch box, raw rice, thread, a bucket and a few paper clips. The number of spoons depends on your table and your box. Expect about 4 to 9 spoons for one katori and about twice as many for two. One paper clip should start the floating box within a few seconds. If it does not, dry the thread and the rim, start the box in the middle of the bucket and switch off the fan. The Sinking Race (core) uses stiff atta dough. Dough with air in it floats, so knead it well. The ball and the carrot sink in under a second, so they are raced side by side and not timed. Only the pancake is slow enough for a stopwatch. A Hole in the Parachute (core) needs a grown-up to cut and to drop. Small polythene parachutes vary a lot from drop to drop. A small vent usually steadies the fall, but with a canopy this small the difference in landing place can be slight. The unit asks the child to report honestly if the means are too close to tell apart. Three Bottles and the Bag of Water wet the floor, so do them in the bathroom. In the Bag of Water, squeeze every bubble of air out of the bag, or it will float. Newspaper on Your Chest needs about 5 metres of clear floor and still air. The Quiet Dive wets several sheets of newspaper. Watch a Bird Land depends on a bird arriving, so it may need a second try at dawn or dusk. No part needs a garden. Facts to treat with care: the size and weight of the floating garden in the story are guesses. 'About four times the drag at twice the speed' is a good rule for everyday things, not an exact law. 'About 800 times' compares the mass of a litre of water with a litre of air. The speeds given for skydivers and raindrops are round figures. The loads for the horse on the canal path are round figures. The Tao Te Ching and Zhuangzi lines are given as paraphrases. The three videos have no address yet."
+ "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home. Please treat the amounts as a starting point. Table or Tub (core) needs a light plastic lunch box, raw rice, thread, a bucket and a few paper clips. The number of spoons depends on your table and your box. Expect about 4 to 9 spoons for one katori and about twice as many for two. One paper clip should start the floating box within a few seconds. If it does not, dry the thread and the rim. Start the box in the middle of the bucket and switch off the fan. The Sinking Race (core) uses stiff atta dough. Dough with air in it floats, so knead it well. The ball and the carrot sink in under a second, so they are raced side by side and not timed. Only the pancake is slow enough for a stopwatch. A Hole in the Parachute (core) needs a grown-up to cut and to drop. Small polythene parachutes vary a lot from drop to drop. A small vent usually steadies the fall. With a canopy this small, the difference in landing place can be slight. The unit asks the child to report honestly if the means are too close to tell apart. Three Bottles and the Bag of Water wet the floor, so do them in the bathroom. In the Bag of Water, squeeze every bubble of air out of the bag, or it will float. Newspaper on Your Chest needs about 5 metres of clear floor and still air. The Quiet Dive wets several sheets of newspaper. Watch a Bird Land depends on a bird arriving, so you may need a second try at dawn or dusk. No part needs a garden. Facts to treat with care: the size and weight of the floating garden in the story are guesses. 'About four times the drag at twice the speed' is a good rule for everyday things, not an exact law. 'About 800 times' compares the mass of a litre of water with a litre of air. The speeds given for skydivers and raindrops are round figures. The loads for the horse on the canal path are round figures. The Tao Te Ching and Zhuangzi lines are given as paraphrases. The three videos have no address yet."
 }

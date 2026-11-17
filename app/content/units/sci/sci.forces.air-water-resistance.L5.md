@@ -1,0 +1,910 @@
+# Air resistance, water resistance and upthrust: what slows a thing down, and what holds it up
+`sci.forces.air-water-resistance.L5`
+
+**Summary.** A loaded lunch box on a table stays still until several spoons of rice pull on it. Float the same box in a bucket, and one paper clip pulls it across. Four contact forces explain this: friction, air resistance, water resistance and upthrust. Friction can hold a thing still, and it grows with the weight. Air resistance and water resistance act only on a thing that is moving, and they grow with speed. Upthrust is the upward push of water or air, and it acts on a still thing too. Your child finds the smallest pull that moves a floating load. They race three shapes of dough through water, and test a hole in a parachute. They draw every force as an arrow, and say whether the forces are balanced.
+
+**Intro.** *A lunch box holds two katoris of raw rice. It floats in a bucket of water. Could one hanging paper clip pull it across the water? Say yes or no, and say why.* Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You count what it takes to start it each time. In this unit you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.
+
+## Learning outcomes
+0. By the end I can name friction, air resistance, water resistance and upthrust, and say which way each one acts.
+1. By the end I can explain why friction can hold a thing still, and air and water resistance cannot.
+2. By the end I can say how speed, front area, shape and the fluid change air and water resistance.
+3. By the end I can explain upthrust, and say why a thing floats, sinks or hangs in water.
+4. By the end I can draw a force diagram with several forces, and say if they are balanced.
+5. By the end I can run a fair test with repeats, and say when a difference is too small to trust.
+6. By the end I can design, test and improve a parachute, and explain it with forces.
+7. By the end I can say what scientists still cannot work out about moving air and water.
+
+## Terms
+- **Fluid**: A fluid is anything that flows. Liquids and gases are fluids. Water and air are the two fluids we meet most. *e.g.* Air flows round a moving cycle, and water flows round a swimming fish.
+- **Air resistance**: Air resistance is the force from air on a thing that moves through it. It acts against the movement. *e.g.* Hold an open umbrella in front of you and run. The push you feel on the umbrella is air resistance.
+- **Water resistance**: Water resistance is the force from water on a thing that moves through it. It acts against the movement. *e.g.* Wade across the shallow end of a pool. Your legs feel water resistance at every step.
+- **Drag**: Drag is one word for air resistance and water resistance. It is the force from any fluid against a thing moving through it. *e.g.* A racing cyclist bends low over the handlebar to make her drag smaller.
+- **Upthrust**: Upthrust is the upward push of a fluid on a thing that is in it. It acts on still things and on moving things. It is also called buoyancy. *e.g.* Push an empty steel tumbler, open end up, down into a bucket of water. The push against your hand is upthrust.
+- **Displace**: To displace water is to push it out of the way and take its place. A thing in water displaces as much water as the part of it that is under the surface. *e.g.* Lower a full bottle into a full bucket. The water that spills over is the water the bottle displaced.
+- **Friction**: Friction is the force between two solid surfaces that touch. It acts against sliding, or against the sliding that would happen without it. *e.g.* A lunch box on a table stays still when you pull it gently. Friction from the table pulls back just as hard.
+- **Gravity**: Gravity is the pull of the Earth on every thing. The size of that pull on a thing is called its weight. *e.g.* Gravity pulls a parachute and its load down all the time, even while they fall slowly.
+- **Normal force**: The normal force is the push of a solid surface on a thing that rests on it. It points straight out of the surface. *e.g.* A table pushes up on a lunch box with a normal force. That push holds the box up.
+- **Force diagram**: A force diagram is a simple drawing of one thing with an arrow for each force on it. A bigger force gets a longer arrow. *e.g.* A floating box gets two arrows of the same length. Gravity points down and upthrust points up.
+- **Balanced forces**: Forces on a thing are balanced when they cancel each other. Then the thing stays still, or keeps moving at the same speed in a straight line. *e.g.* A boat floating at a jetty has balanced forces. Gravity pulls down and upthrust pushes up just as hard.
+- **Unbalanced forces**: Forces on a thing are unbalanced when one side is bigger. Then the thing speeds up, slows down or turns. *e.g.* A mango that has just left the branch speeds up. Gravity is far bigger than the air resistance on it.
+- **Terminal speed**: Terminal speed is the steady speed a falling thing reaches when air or water resistance has grown to balance gravity. After that the thing falls no faster. *e.g.* A raindrop reaches its terminal speed after a few metres. It then falls at about 30 kilometres an hour, all the way down.
+- **Front area**: The front area of a moving thing is the area it pushes through the air or water. It is the size of the shape you see from straight ahead. *e.g.* A flat hand swept through water has a big front area. The same hand held edge-on has a small one.
+- **Streamlined**: A streamlined shape lets air or water flow round it and close up smoothly behind. It is rounded at the front and narrows slowly to the back. *e.g.* A rohu fish is streamlined. Her body is rounded at the head and narrows to the tail.
+- **Wake**: The wake is the stirred-up air or water that a moving thing leaves behind it. A big wake means the thing has given a lot of its energy to the fluid. *e.g.* A flat-backed lorry leaves a wide wake of swirling air. You feel it as a gust when a lorry passes you on the road.
+- **Canopy**: The canopy is the wide sheet of a parachute. It pushes a large front area through the air. *e.g.* A square of polythene 30 centimetres wide makes a canopy for a parachute that carries one coin.
+- **Vent**: A vent is a small hole in the top of a parachute canopy. It lets a little air out through the middle, so less air spills out at the edges. *e.g.* Almost every round parachute has a vent at the top.
+
+## Explanations
+### Four contact forces: friction, air resistance, water resistance and upthrust · *defined*
+**Definition:** Friction acts between two solid surfaces that touch. Air resistance and water resistance act on a thing that moves through air or water. Upthrust is the upward push of water or air on a thing in it.
+
+All four are contact forces. They act only where a thing touches a surface, the air or the water. Gravity is different, because it acts across a gap. Each of the four has its own direction. Friction lies along the surfaces and acts against sliding. Air resistance and water resistance point against the movement through the air or water. Upthrust always points up, whichever way the thing moves. A boat on a lake has three of them at once. Upthrust holds the boat up, and water resistance and air resistance slow the boat down.
+- e.g. A girl cycling on a flat road has friction at her tyres and air resistance on her body.
+- e.g. A swimmer gliding after a push from the wall has upthrust holding her up and water resistance slowing her.
+- e.g. A stone lying on the bottom of a pond has upthrust on it too. The upthrust is smaller than the stone's weight.
+### Friction can hold a thing still. Air and water resistance cannot · *defined*
+**Definition:** Friction between solids can match a pull and hold a thing still. Air resistance and water resistance are zero on a thing that is not moving through the air or water.
+
+Pull gently on a loaded box on a table, and the box stays where it is. Friction from the table pulls back exactly as hard as you pull. It can do so up to a limit, and that limit grows with the weight of the box. A heavier box needs a bigger pull to start. Water resistance works in another way. It comes from pushing water out of the way, so a thing at rest has none. Even the smallest pull is unbalanced, and the floating thing starts to move. It starts slowly if it has a lot of mass, because mass makes a thing slow to change its speed. So nothing that floats can be held in place by the water alone. Boats are tied to a jetty or held by an anchor in the sea bed.
+- e.g. In Table or Tub, a loaded lunch box on the table needed several spoons of rice to start it. Afloat, one paper clip started it.
+- e.g. Two people with a rope can pull a floating houseboat to the bank at Alappuzha. They could never drag the same boat up the bank.
+- e.g. Long ago, one horse on a canal path pulled a boat carrying tens of tonnes. On a road the same horse pulled a cart of one or two tonnes.
+### What makes air resistance and water resistance bigger · *defined*
+**Definition:** Drag grows with speed, with front area and with a blunt shape. It is far bigger in water than in air at the same speed.
+
+Four things decide the size of drag. The first is speed. At twice the speed, a thing meets about four times the drag. The second is front area. A wide front has to push more air or water out of the way each second. The third is shape. A flat plate has many times the drag of a streamlined shape with the same front area. The fourth is the fluid. One litre of water has about 800 times the mass of one litre of air. So water pushes back far harder than air at the same speed. Weight is not on this list. A heavy thing and a light thing of the same size, shape and speed meet the same drag.
+- e.g. In Newspaper on Your Chest, a full sheet stayed up at a walk. Folded in half, the same sheet needed a faster walk.
+- e.g. In the Sinking Race, a flat pancake of dough sank far more slowly than a ball of equal dough.
+- e.g. Most of the effort of a fast cyclist goes into pushing air out of the way.
+- e.g. You can run in air. In chest-deep water you can only wade.
+### Streamlined shapes: a rounded front and a long, narrowing back · *defined*
+**Definition:** A streamlined shape is rounded at the front and narrows slowly towards the back. Air or water flows round it and closes up smoothly behind it.
+
+Many people think a streamlined shape needs a sharp point at the front. The back matters more. Behind a blunt back, the air or water cannot close up smoothly. It breaks into swirls, and this swirling region is the wake. The moving thing has to keep giving energy to those swirls. A long, narrowing back lets the fluid close up gently, so the wake is small. That is why a fish, a dolphin and an aeroplane body are all rounded in front and narrow behind. A falling raindrop is not pointed at the top. A small drop is round, and a big drop is flat underneath, like a bun.
+- e.g. In the Sinking Race, a carrot shape dropped thick end first sank faster than a ball of the same dough.
+- e.g. A racing cycle helmet is rounded in front and has a long tail behind the head.
+- e.g. Lorries with a flat back leave a wide wake. Some carry sloping panels at the back to make the wake smaller.
+- e.g. The Ganges river dolphin and the rohu are far apart on the tree of life. Their bodies have nearly the same outline.
+### Upthrust: the push that equals the weight of the water displaced · *defined*
+**Definition:** The upthrust on a thing equals the weight of the water or air that the thing displaces. This is Archimedes' principle.
+
+A thing under water takes up space where water used to be. Before the thing came, the water around that space held the missing water up. That surrounding water has not changed. So it pushes up on the new thing just as hard as it pushed on that water. This means upthrust depends on the size of the part under water. It does not depend on what the thing is made of, or on how heavy it is. A full bottle, an empty bottle and a bottle of coins of the same size get the same upthrust. Upthrust acts on sinking things too. A stone feels lighter under water because the upthrust carries part of its weight.
+- e.g. In Three Bottles, all three bottles raised the water in the bucket by the same amount. So all three got the same upthrust.
+- e.g. In the Bag of Water, a bag of water hung from a rubber band. In the bucket the band went slack, because the upthrust equalled the weight of the bag.
+- e.g. A floating box with two katoris of rice sits deeper than with one. It must displace more water to get more upthrust.
+### Why water pushes up: deeper water presses harder · *defined*
+**Definition:** Water presses on every surface it touches, and it presses harder the deeper you go. The underside of a thing is deeper than its top, so the push up is bigger than the push down.
+
+Water is made of tiny particles that are always moving and bumping into whatever they touch. Deep water has more water resting on it, so its particles are squeezed together harder. They press harder on everything, in every direction. Think of a tumbler held under water. The water under it pushes up. The water over it pushes down. The water under it is deeper, so the upward push wins. The difference between the two pushes is the upthrust. Once the tumbler is fully under, pushing it deeper does not change the upthrust. Both pushes grow by the same amount, so the difference stays the same.
+- e.g. In Three Bottles, you held the empty bottle near the surface and near the bottom. It pushed up on your hand equally hard in both places.
+- e.g. A diver's ears hurt in the deep end of a pool, because the deeper water presses harder on the eardrums.
+- e.g. Air does the same thing. It presses a little harder at your feet than at your head, so air gives you a very small upthrust.
+### Float, sink or hang: upthrust against gravity · *defined*
+**Definition:** A thing fully under water rises if its upthrust is bigger than its weight. It sinks if its weight is bigger. It hangs in place if the two are equal.
+
+Compare a thing with the water it displaces. If the thing weighs less than that water, the upthrust is bigger than gravity and the thing rises. At the surface part of the thing comes out. Now the thing displaces less water, and the upthrust shrinks until it equals the weight. That is floating. If the thing weighs more than the water it displaces, it sinks. If the two weights are equal, the thing hangs wherever you leave it. A steel ship floats because its hollow hull displaces a huge amount of water. The air inside does not lift the ship. The air only keeps the ship light for its size.
+- e.g. A bottle full of water hangs or sinks very slowly in a bucket. It weighs almost exactly as much as the water it displaces.
+- e.g. A rohu changes the amount of gas in her swim bladder until she hangs in the water without swimming.
+- e.g. A submarine takes water into its tanks to sink, and pushes the water out with air to rise.
+- e.g. Most sharks have no swim bladder. Many of them sink slowly if they stop swimming.
+### Balanced forces and steady speed · *defined*
+**Definition:** When the forces on a thing are balanced, its speed does not change. A still thing stays still, and a moving thing keeps the same speed.
+
+People often think a moving thing must have a force pushing it along. It does not. Forces are needed to change a speed, not to keep one. A coin dropped in water speeds up at first, because gravity is bigger than the upthrust. As the coin gets faster, the water resistance grows. Soon the upthrust and the water resistance together equal gravity. From then on the forces are balanced, and the coin sinks at a steady speed. This steady speed is called the terminal speed. Here is the surprising part. At terminal speed, the resistance equals the weight minus the upthrust, whatever the shape. A wide shape reaches that much resistance at a low speed. A streamlined shape has to go much faster to reach it.
+- e.g. In the Sinking Race, the pancake and the carrot were equal pieces of dough. Once each sank steadily, the water resistance on both was the same. The pancake met it at a low speed.
+- e.g. A skydiver lying flat falls at about 200 kilometres an hour and gets no faster.
+- e.g. A raindrop falls from a cloud two kilometres up. Without air it would land at about 700 kilometres an hour. With air it lands at about 30.
+### How a parachute works, and why it has a hole · *defined*
+**Definition:** A parachute gives a falling load a very large front area. The air resistance then balances gravity at a low speed, so the load lands gently.
+
+Gravity pulls a load down just as hard with a parachute as without one. The canopy changes the speed at which air resistance grows big enough to balance that pull. A big canopy reaches the balance at a low speed. A heavier load under the same canopy must fall faster before the forces balance. So the size of the canopy is chosen to suit the load. Air caught under a canopy has to get out. If it can only spill out at the edges, it spills from one side and then the other. That makes the parachute swing. A small vent at the top lets some air out through the middle. The parachute swings less, and the fall is hardly any faster. The strings matter too. Short strings pull the canopy into a narrow cup with a smaller front area.
+- e.g. In A Hole in the Parachute, you cut a small vent in a polythene canopy. Then you compared the fall time and the landing place.
+- e.g. A skydiver slows from about 200 kilometres an hour to about 20 when her canopy opens.
+- e.g. The crew capsule of ISRO's Gaganyaan is designed to come down to the sea under large parachutes.
+- e.g. The fluff round a silk cotton seed works as a parachute made of fine hairs with gaps between them.
+### Where the movement goes: resistance warms the air and the water · *defined*
+**Definition:** Air resistance and water resistance take kinetic energy from a moving thing. The energy goes into moving the fluid, and it ends as heat.
+
+Energy is never destroyed. A boat that slows down has passed its kinetic energy to the water. First the water moves as waves and swirls in the wake. Then the swirls die away, and the water is left very slightly warmer. The same happens in air. At everyday speeds the warming is far too small to feel. At very high speeds it is enormous. A space capsule meets the air at about 28,000 kilometres an hour. It squashes the air in front of it so hard that the air glows white hot. Most of that heat comes from the squashing of the air, and only a little from rubbing. A thick heat shield protects the crew.
+- e.g. Stir a bucket of water hard and take the spoon out. The swirls slow down and stop, and their energy is now heat in the water.
+- e.g. A meteor glows because the air squashed in front of it becomes white hot.
+- e.g. A parachute falling at a steady speed is warming the air a little all the way down.
+### Is air resistance a kind of friction? · *debated*
+**Definition:** Some books call air resistance and water resistance kinds of friction. Many scientists keep them apart from friction.
+
+The three forces are alike in some ways. All are contact forces, all act against a movement, and all turn kinetic energy into heat. They also differ. Friction between solids can hold a thing still, and it changes little with speed. Drag is zero on a still thing and grows fast with speed. Friction grows with weight, and drag does not. The causes differ too. Solid friction comes from two surfaces gripping each other at many tiny spots. Most drag comes from having to push fluid out of the way. A smaller part comes from fluid rubbing along the sides, and that part is truly like friction. So the name depends on which likeness you think matters most.
+- e.g. In Table or Tub, friction held the box still against a pull. Water resistance could not.
+- e.g. A long, thin racing boat has little water to push aside. Most of its drag is water rubbing along its sides.
+- e.g. A flat plate pulled face-on through water has almost no rubbing along its sides. Nearly all its drag comes from pushing water aside.
+- **Many school science books:** They call air resistance and water resistance kinds of friction. All three act against movement where things touch, and all three make heat.
+- **Many physicists and engineers:** They use the word drag and keep it apart from friction. Drag is zero at rest, grows with speed and comes mostly from pushing fluid aside.
+### Why nobody can work out exactly how water and air swirl · *idea*
+**Definition:** Swirling, tumbling flow is called turbulence. Scientists have equations for moving fluids, but nobody can solve them exactly for turbulent flow.
+
+Slow flow round a smooth shape is orderly. Faster flow breaks into swirls of many sizes, and big swirls break into smaller ones. This is turbulence, and most of the drag on cars, ships and aeroplanes comes with it. The equations for a moving fluid were written down about two hundred years ago. They are named after Claude-Louis Navier and George Stokes. For turbulent flow, nobody has been able to solve them exactly. Engineers get useful answers in two ways. They test models in wind tunnels and in long tanks of water. They also use large computers that work out the flow in millions of small steps. Both ways give good estimates, and both still get surprises.
+- e.g. Smoke from an incense stick rises in a smooth line and then suddenly breaks into swirls. That change is the start of turbulence.
+- e.g. Ship designers still pull model hulls along a tank of water before a ship is built.
+- e.g. A prize of one million dollars has been waiting since the year 2000 for a full mathematical answer.
+- **Engineers:** Models and computer estimates are good enough to design safe ships and aeroplanes. An exact answer is not needed for that.
+- **Mathematicians:** Without an exact answer we cannot be sure the equations always work. So the question is still open.
+
+## Mostly agreed
+- Friction, air resistance, water resistance and upthrust are contact forces. Each acts only where a thing touches a surface, the air or the water. *How we know:* In 1971 a feather and a hammer were dropped on the Moon. They landed together, because the Moon has no air to touch them.
+- Air resistance and water resistance are zero on a thing at rest, and grow quickly with speed. At twice the speed they are about four times as big. *How we know:* Engineers measure the force on cars in wind tunnels, at many speeds. They do the same for model ships pulled along tanks of water.
+- The upthrust on a thing equals the weight of the water or air it displaces. *How we know:* Archimedes wrote this down about 2,250 years ago. Every ship's load line and every submarine dive depends on it.
+- When the forces on a thing are balanced, the thing keeps the speed it has. *How we know:* Skydivers stop speeding up at about 200 kilometres an hour, when air resistance has grown to equal their weight.
+- A streamlined shape can have under one tenth of the drag of a flat plate with the same front area. *How we know:* Wind tunnel and water tank tests of plates, balls and fish-like shapes have shown this for over a hundred years.
+- The energy that air and water resistance take from a moving thing ends as heat in the air or water. *How we know:* The air in front of a returning space capsule glows white hot. The capsule slows from orbit speed to parachute speed.
+
+## How we found out
+**André-Jacques Garnerin, who made the jump. Jérôme Lalande, who suggested the vent. Jeanne-Geneviève Labrosse, the first woman to jump by parachute., 22 October 1797 (Garnerin's jump over Paris) and 12 October 1799 (Labrosse's jump).** On 22 October 1797, André-Jacques Garnerin rose over Paris under a hydrogen balloon. About 900 metres up, he cut the rope that held him to it. He came down in a basket under a silk parachute about 7 metres wide. It was the first parachute jump from a balloon high in the air. The canopy had no hole. It seemed plain that a parachute should hold all the air it caught. The parachute did slow his fall, but it swung wildly from side to side all the way down. Garnerin landed unhurt and badly shaken. The astronomer Jérôme Lalande saw what was wrong. Air trapped under the canopy has to get out. It was spilling out under one edge and then under the other, and tipping the canopy each time. Lalande suggested cutting a hole in the top, so that the air could leave through the middle. Parachutes made with this hole swung far less, and fell hardly any faster. On 12 October 1799, Garnerin's pupil Jeanne-Geneviève Labrosse became the first woman to jump by parachute. Almost every round parachute since then has had a vent at the top.  
+*What people believed before:* That a parachute canopy should have no opening, so that it holds all the air it catches. A canopy with a vent at the top swings far less and falls almost as slowly.
+
+## Challenging perspectives
+- **A streamlined shape needs a sharp point at the front.** (Many people, and many drawings of rockets and fast cars; *rejected*)  
+  For: At speeds faster than sound, a sharp nose does help. Pointed bows also help ships cut through waves.  
+  Against: At everyday speeds the back matters more than the front. A rounded front and a long, narrowing back give the smallest wake. Fish, dolphins and aeroplane bodies are all rounded in front.
+- **A parachute works because it makes the air resistance bigger than the weight.** (Many children and grown-ups; *rejected*)  
+  For: For a few seconds after the canopy opens, air resistance really is bigger than the weight. That is why the fall slows down.  
+  Against: Once the fall is steady, air resistance exactly equals the weight. If it stayed bigger, the parachute would slow to a stop and then rise. The canopy lowers the speed at which the two forces balance.
+- **Air resistance and water resistance are kinds of friction.** (Many school science books; *debated*)  
+  For: All three are contact forces, act against movement and make heat. Part of drag is fluid rubbing along a surface.  
+  Against: Friction can hold a thing still and grows with weight. Drag is zero at rest, grows with speed and does not depend on weight. Most drag comes from pushing fluid aside.
+- **Upthrust acts only on things that float.** (Many children; *rejected*)  
+  For: We notice upthrust most when it wins. A ball pushed under water jumps back up.  
+  Against: A stone feels lighter under water than in air. The water pushes up on the stone too. The push is only smaller than the stone's weight.
+- **A space capsule gets hot because it rubs against the air.** (Many books and news reports; *rejected*)  
+  For: Air does rub along the sides of the capsule, and that makes some heat.  
+  Against: Most of the heat comes from the air in front being squashed very hard and very fast. Squashed air gets hot, as a cycle pump does when you pump quickly.
+- **Heavy things always fall faster than light things.** (Aristotle, and most people before they test it; *debated*)  
+  For: In air it is often true. Two things of the same size and shape meet the same air resistance. The heavier one needs a higher speed before that resistance balances its weight.  
+  Against: Where there is no air, everything falls together. In air, a wide light thing and a narrow heavy thing can fall in either order. Shape and size matter as much as weight.
+
+## Roots
+We have learned how friction, air resistance, water resistance and upthrust differ, and how they act together. Now we ask what this tells us about ourselves and the world.
+
+**Deep truth.** In Table or Tub, the loaded box on the table stayed still until several spoons of rice pulled it. Afloat, the same box moved for one paper clip, even with double the load. Friction can grow to match a pull, but water resistance begins only when a thing moves. So water can slow a floating thing, but water alone can never hold it in place.  
+*Habit it breaks:* We say a heavy thing is hard to move because it is heavy. On land the real cause is friction, which grows with the weight. Take the friction away, and the smallest pull moves the heaviest load, only slowly.  
+*Evidence:* In Table or Tub, two katoris of rice needed about twice as many spoons as one katori on the table. Afloat, one paper clip started both loads. The heavier load only took longer to get going.
+
+- *who am i:* You live at the bottom of an ocean of air. The air pushes up on you a little all the time, and pushes back whenever you run.
+- *what is life:* Every swimmer and every flyer has a body shaped by the water or air they move through. A fish, a dolphin and a penguin have nearly the same outline, because they move through the same water.
+- *what is this world:* The same water holds a boat up and slows the boat down. The holding up comes from the weight of the water. The slowing comes from the boat's own movement.
+
+Friction, air resistance, water resistance and upthrust have four names. Underneath, they are one kind of event. The particles of one thing come very close to the particles of another, and electric forces act between them. Upthrust is the push of water particles that are squeezed by the water above them. Resistance is the push of particles that have to be moved out of the way. Friction is the grip between the particles of two solid surfaces. One kind of force between particles shows up as holding up, slowing down or gripping. Which of these we see depends on what the things are doing.
+
+- **Tao Te Ching, chapter 78:** Nothing in the world is softer or weaker than water. Yet nothing is better at wearing down what is hard and strong. (Water gives way to the smallest slow push. One paper clip moved the loaded box in Table or Tub. Yet the same water pushes back hard on anything that moves fast.)
+- **Zhuangzi, chapter 19, the swimmer at the waterfall:** An old man swims safely in a wild river. He says that he goes under with the swirls and comes out with them. He follows the way of the water and does not force his own way. (Water resists a swimmer only as much as she moves through it. A swimmer carried along with a current meets almost no resistance from that current.)
+- Science (settled): The upthrust on a thing equals the weight of the fluid it displaces (Archimedes, about 250 BCE).
+- Science (settled): A thing keeps the speed it has unless the forces on it are unbalanced (Newton's first law, 1687).
+- Science (open): Nobody can yet work out exactly how swirling water or air will move.
+- Other view, Many physicists: The loaded box did resist the paper clip, with its mass. A heavier floating thing takes longer to speed up and longer to stop. So the old belief is half right. Weight does not hold a floating thing in place, but mass still makes it slow to change.
+- Practice, Let the water carry your arm (3 min): Sit beside a bucket of water. Lower one hand and wrist into the water and let them go loose. Feel the water take some of the weight of your hand. Now move your hand very slowly from side to side. Feel how little the water pushes back. Now move it fast, three times. Feel the water push hard. Hold your hand still again. The push is gone, and the water is still carrying you.
+- Ask: The same water holds the box up and slows the box down. Is that one push or two?
+- Ask: Water resistance is there only while a thing moves. So is the force in the water, or in the moving?
+- Ask: Water cannot hold a floating thing in place. What holds you in place when you stand still?
+
+## Deep and big questions
+- *deep:* A still boat feels no water resistance, and a moving boat does. So is the resistance in the water, or in the moving? (hint: Think about a boat drifting along with a river. Is she moving or still, for the water around her?)
+- *deep:* A bag of water weighs nothing in a bucket of water. Does the water in the middle of a lake weigh anything? (hint: Ask what is holding that water up, and what it is holding up in turn.)
+- *big:* Fish, dolphins and penguins are not close relatives, yet they have nearly the same shape. Who chose that shape? (hint: Think about which animals caught more food and escaped more hunters, over millions of years in the same water.)
+- *big:* Going twice as fast means about four times the drag. Is it worth the fuel to save an hour? (hint: Think of a ferry, a train and a plane. Who gains the hour, and who pays for the fuel and the smoke?)
+- *big:* You live at the bottom of an ocean of air, and its upthrust goes unnoticed. What else pushes on you without your noticing? (hint: Think of things that have always been there, so you have nothing to compare them with.)
+- *deep:* If nothing ever resisted movement, would a moving thing ever stop? (hint: Think of a spacecraft far from any planet, with its engine switched off.)
+
+## Story: The Garden on a Rope
+*A made-up story. Zooni, Dadi, Ammi and Bilal are imagined. These things are real. Growers on Dal Lake in Srinagar raise vegetables on floating gardens made of matted lake reeds and mud. The gardens are held in place by poles pushed into the lake bed. A garden can be untied and towed to a new place. Growers sell vegetables from boat to boat at a floating market at dawn. The size and weight of the garden in the story are guesses.*
+
+The wind came down from the mountains in the night. It shook the shutters and rattled the tin roof of the kitchen. In the morning Dal Lake lay flat and grey, as if nothing had happened.
+
+Zooni was ten. She stepped out onto the wet planks of the landing and counted the family's floating gardens, as she did every morning. One, two, three. She counted again. The fourth garden, the one with the tomatoes, was gone.
+
+'Dadi!' she shouted. Her grandmother came out slowly, one hand on her knee. Dadi looked across the water and pointed with her chin. Far down the channel, against the lotus beds, lay a long green strip with red dots on it.
+
+A floating garden is not a small thing. This one was as long as three boats laid end to end, and as wide as a bed. It was made of lake reeds, piled and pressed and rotted together for years, with black mud on top. Tomatoes grew on it as if it were land. Two willow poles, pushed down through it into the lake bed, had held it in its place. In the night both poles had snapped.
+
+'Ammi has the big boat,' said Zooni. Her mother had left before dawn for the vegetable market, where the growers sell from boat to boat. 'She will not be back till noon. By then the wind may take the garden right out into the lake.'
+
+'Then you will bring it home,' said Dadi.
+
+Zooni stared at her. 'Me? Dadi, it is heavier than a lorry. Last winter it took six men to drag our small boat up the bank. Six men, for a boat that I can lift at one end! How many men would that garden need?'
+
+'On the bank, a great many,' said Dadi. 'Take the small boat and the long rope. Go.'
+
+Zooni paddled down the channel with the rope coiled at her feet. Her cousin Bilal was mending a net on the next landing. 'You will never move that,' he called. 'You need a motor!' She did not answer. She thought he was right.
+
+She tied the rope round the stump of a broken pole at the corner of the garden. Then she turned the boat towards home and paddled as hard as she could. The rope sprang up out of the water, dripping, and went tight. The boat stopped as if it had hit a wall. Zooni dug the paddle in again and again. Water foamed behind her. Her arms burned. The tomato plants did not even shake.
+
+'It is stuck!' she shouted across the water. 'I told you!'
+
+Dadi's voice came back thin and clear. 'Stop splashing. Keep the rope tight. Pull gently, and count to a hundred.'
+
+Zooni was too tired to argue. She paddled with small, slow strokes, only enough to keep the rope out of the water. One, two, three. Nothing. Twenty. Nothing. At thirty she looked at the lotus leaves beside the garden, to rest her eyes. A leaf that had been touching the reeds was now a hand's width away from them.
+
+She kept counting. At fifty the gap was as wide as her boat. At eighty the whole long garden was sliding after her down the channel, tomatoes and all, without a sound.
+
+Bilal had put down his net. 'How are you doing that?' he called.
+
+'I don't know!' said Zooni. She was so pleased that she began to paddle fast, to bring the garden home sooner. At once the paddle grew heavy, and the rope pulled hard at the boat. She paddled faster still. Her arms burned again, and the garden came along hardly any quicker than before.
+
+She let her strokes go slow. The pull went soft again. The garden kept coming.
+
+So that was how it was. The water had not pushed back because the garden was heavy. It pushed back when she hurried.
+
+The home poles were still six boat-lengths away when Dadi called again. 'Now stop pulling.' Zooni lifted her paddle, and the rope went slack. The garden did not stop. It came on, slow and wide, and nothing in the water could hold it. It slid on and on, a little slower with every boat-length. At last it touched the cucumber garden with a small bump and lay still.
+
+Dadi was waiting with two new willow poles. Together they pushed them down through the reeds, through the water, and into the mud of the lake bed. Zooni leaned on her pole until it would go no deeper.
+
+'Dadi,' she said. 'Six men for the small boat on the bank. One girl for the garden on the water. Why?'
+
+'On the bank, the ground holds on to a thing,' said Dadi. 'The heavier the thing, the harder the ground holds. On the lake, the water carries the weight, and it holds on to nothing. A sparrow could move this garden, if she pulled for long enough.'
+
+'Then why do we need the poles?'
+
+'Because the water holds on to nothing,' said Dadi. 'And the wind pulls for a long time.'
+
+At noon Ammi's boat came round the bend with its empty baskets. She looked at the four gardens, and at the two pale new poles. 'They told me at the market that our tomatoes had gone to the lotus beds,' she said. 'Who brought them back?'
+
+'I did,' said Zooni. 'Slowly.'
+
+That evening she lay on the planks and put one finger against the edge of the tomato garden. She pushed gently, and kept pushing. Very slowly the whole long garden leaned away from her, until the new poles creaked and held.
+
+**For the parent:** For the parent: on land, friction holds a heavy thing still, and it grows with the weight. That is why six men were needed for a small boat on the bank. Afloat, upthrust carries the weight, and water resistance is zero on a thing that is not moving. So even a small, steady pull moves a very heavy garden. It starts slowly, because a large mass takes a long time to speed up. Water resistance grows with speed, so hurrying costs far more effort for little gain. And because water cannot hold anything in place, a floating garden needs poles in the lake bed.
+
+- Ask: Six men were needed to drag a small boat up a bank. One girl moved a huge garden on the water. What was different?
+- Ask: Why did hard paddling at the start seem to do nothing, while gentle pulling for a long count worked?
+- Ask: When Zooni paddled fast, the pull on the rope grew much harder. Which force grew, and why?
+- Ask: The garden kept moving after Zooni stopped pulling. Which force slowed it in the end?
+- Ask: Why can poles in the lake bed hold the garden in place when the water cannot?
+
+## Games
+### g1 · Which Forces? A card game of balanced and unbalanced forces (20 min)
+- **rules:** Shuffle the cards and put them in a pile, question side up. Each player lays out their seven force tokens.; One player reads the top card aloud.; Each player pushes forward a token for every force on the thing. Count only the main forces, and leave out any that are too small to matter.; Each player then says 'balanced' or 'unbalanced'.; Turn the card over. A player with exactly the right tokens scores 1 point. A right call of balanced or unbalanced scores 1 more.; After 20 cards, the player with the most points wins.; Playing alone: score in the same way. Try to reach 30 points out of 40, then play again.
+- **Printable cards: 20 situation cards to cut out (the answer is on the back):** A loaded rice boat floats still beside a jetty. Which forces act on the boat? (back: Gravity and upthrust. Balanced. The boat is still, so there is no water resistance.); A stone lies still on the bottom of a pond. Which forces act on the stone? (back: Gravity, upthrust and the normal force from the pond floor. Balanced. Upthrust acts on sunk things too.); A skydiver falls at a steady speed under her open parachute. Which forces act on her? (back: Gravity and air resistance. Balanced. At a steady speed, air resistance equals her weight.); A mango has just left the branch and is starting to fall. Which forces act on the mango? (back: Gravity. Unbalanced. The mango is still slow, so air resistance is almost nothing yet.); A girl cycles along a flat road at a steady speed. Which forces act on her and her cycle? (back: Gravity, the normal force, friction and air resistance. Balanced. Friction at the back tyre pushes her forward, and air resistance pushes back.); A book lies still on a flat table. Which forces act on the book? (back: Gravity and the normal force. Balanced. Nothing is trying to slide the book, so there is no friction.); A swimmer glides forward under water after pushing off the wall. Which forces act on her? (back: Gravity, upthrust and water resistance. Unbalanced. Nothing pushes her forward now, so water resistance slows her.); A rohu fish hangs still in the middle of a pond. Which forces act on her? (back: Gravity and upthrust. Balanced. She has set her swim bladder so that upthrust equals her weight.); A coin sinks through deep water at a steady speed. Which forces act on the coin? (back: Gravity, upthrust and water resistance. Balanced. The two upward forces together equal gravity.); A carrom coin slides across the board and slows down. Which forces act on the coin? (back: Gravity, the normal force and friction. Unbalanced. Friction acts against the slide, and nothing pushes the coin on.); A balloon filled with helium has just been let go and is speeding up. Which forces act on it? (back: Gravity and upthrust from the air. Unbalanced. The upthrust is bigger than the balloon's weight.); A tugboat pushes a ship sideways at a slow, steady speed. Which forces act on the ship? (back: Gravity, upthrust, a push and water resistance. Balanced. The push equals the water resistance.); A child slides down a playground slide at a steady speed. Which forces act on the child? (back: Gravity, the normal force and friction. Balanced. The three forces cancel, so the speed stays the same.); A hand holds a ball still under water. Which forces act on the ball? (back: Gravity, upthrust and a push from the hand. Balanced. The hand pushes down, because the upthrust is bigger than the ball's weight.); A hand has just let go of a ball under water. Which forces act on the ball? (back: Gravity and upthrust. Unbalanced. The upthrust is bigger, so the ball speeds upward.); A box is pushed across a floor at a steady speed. Which forces act on the box? (back: Gravity, the normal force, a push and friction. Balanced. The push equals the friction.); A space capsule is falling very fast when its parachute opens. Which forces act on the capsule? (back: Gravity and air resistance. Unbalanced. For a few seconds air resistance is bigger than gravity, so the capsule slows down.); An astronaut drops a hammer on the Moon. Which forces act on the falling hammer? (back: Gravity. Unbalanced. The Moon has no air, so nothing acts against the fall.); A loaded box floats still in a tub. A thread has just begun to pull it. Which forces act on the box? (back: Gravity, upthrust and a pull. Unbalanced. The box is still at rest, so there is no water resistance yet.); A lorry is parked on a sloping road. Which forces act on the lorry? (back: Gravity, the normal force and friction. Balanced. Friction up the slope stops the lorry sliding down.)
+- **Printable tokens: 7 force tokens for each player to copy and cut out:** Gravity; Upthrust; Normal force; Friction; Air resistance; Water resistance; A push or a pull
+- **s1 (3 min)**  
+  *Parent does:* 1. Cut out the 20 cards. 2. Each player copies the seven force names onto slips of paper. 3. Shuffle the cards and put them in a pile, question side up.  
+  *Parent says:* Each card describes one thing. We will find every force on that thing, and then say whether the forces are balanced.  
+  *Child mode:* Cut out the cards. Write the seven force names on slips of paper. Shuffle the cards.
+- **s2 (12 min)**  
+  *Parent does:* 1. Read the top card aloud. 2. Everyone pushes forward their tokens. 3. Everyone says 'balanced' or 'unbalanced'. 4. Turn the card over and read the reason.  
+  *Parent says:* Ask two questions for every card. What is this thing touching? Is its speed changing? The first gives the forces, and the second tells you about balance.  
+  *Child mode:* Read the card. What does the thing touch? Is its speed changing? Push your tokens forward.
+  - Ask: A stone lies on the bottom of a pond. Why does it get an upthrust token? (good: The stone displaces water, so the water pushes up on it.; Upthrust acts on everything in water, and here it is smaller than the weight.)
+  - Note: The speed gives the balance. A thing that is still or moving steadily has balanced forces. A thing that is speeding up or slowing down has unbalanced forces.
+- **s3 (5 min)**  
+  *Parent does:* 1. Count the points. 2. Lay out the cards that anyone got wrong. 3. Sort all 20 cards into two heaps: balanced and unbalanced. 4. Ask what every card in the balanced heap has in common.  
+  *Parent says:* Look at the balanced heap. Some of those things are still, and some are moving. What is the same about all of them?  
+  *Child mode:* Count your points. Sort the cards into balanced and unbalanced. What is the same in the balanced heap?
+  - Check: A coin sinks through deep water at a steady speed. Which forces act on the coin? → **Gravity, upthrust and water resistance**
+### g2 · Open It in Time: a bean game about falling (20 min)
+- **rules:** Each player needs about 15 beans, seeds or small coins. Put your jumper on square 60 and start with no beans. The beans in your hand are your speed.; Every turn has three parts. First, gravity: take 3 beans.; Second, air resistance. With your parachute closed, give back 1 bean for every 4 you hold. With it open, give back 1 bean for every 2 you hold. Leftover beans stay with you.; Third, fall: move your jumper down one square for each bean you still hold.; At the start of any turn you may say 'Open!'. Your parachute then stays open for the rest of the jump.; You land safely if you hold 4 beans or fewer when you reach the ground. With more than 4 you have crashed.; Among the players who land safely, the one who took the fewest turns wins.; Playing alone: find the latest turn on which you can open your parachute and still land safely.; Harder game: a heavy jumper takes 4 beans from gravity every turn, and may land with 5 beans or fewer.
+- **Printable board: The height track, drawn on two sheets of paper:** Draw 60 squares in a long winding line.; Number the squares from 60 at the top down to 1.; Write START beside square 60.; Write GROUND below square 1.
+- **Printable tokens: 4 jumpers, one for each player (buttons or coins also work):** Jumper 1; Jumper 2; Jumper 3; Jumper 4
+- **Printable score sheet: Score sheet for one jump:** Turn number | Beans after gravity | Beans given back to the air | Beans left, which is my speed | My square; I opened my parachute at the start of turn: __; Turns I took to reach the ground: __; Beans in my hand when I landed: __; Safe landing, with 4 beans or fewer? __
+- **s1 (4 min)**  
+  *Parent does:* 1. Draw the track of 60 squares. 2. Give each player a jumper, about 15 beans and a score sheet. 3. Read the rules aloud together.  
+  *Parent says:* The beans in your hand are your speed. Gravity gives you 3 beans every turn. The air takes beans back, and it takes more when you hold more.  
+  *Child mode:* Draw the track. Take a jumper and 15 beans. The beans in your hand are your speed.
+- **s2 (4 min)**  
+  *Parent does:* 1. Play one jump with the parachute closed all the way down. 2. Write the beans you hold at the end of every turn. 3. Ask what happens to the speed after turn 6.  
+  *Parent says:* First we fall with the parachute closed, to see what the speed does. Write your beans after every turn. Does the speed keep growing?  
+  *Child mode:* Fall with the parachute closed. Write your beans after every turn. Does your speed keep growing?
+  - Ask: What happened to your speed? (good: It went 3, 5, 6, 7, 8, 9 and then stayed at 9.; It stopped growing, because the air took back as many beans as gravity gave.)
+  - Note: The speeds are 3, 5, 6, 7, 8, 9, 9, 9 and 9. The jumper hits the ground on turn 9 with 9 beans. Holding 12 beans, a player gives back 3, which is exactly what gravity gave. That steady speed is the terminal speed.
+- **s3 (8 min)**  
+  *Parent does:* 1. Play the real game. 2. Each player chooses a turn on which to open the parachute. 3. Play to the ground and fill in the score sheet. 4. Play again and try to open later.  
+  *Parent says:* Now you choose when to open. Open early and you are safe but slow. Open late and you may crash. When will you open, and why?  
+  *Child mode:* Choose when to open your parachute. Play to the ground. Did you land safely? Try again and open later.
+  - Note: Opening at the start of turn 8 is the latest safe choice. The speeds then go 6, 5 and 4, and the jumper lands on turn 10. Opening on turn 9 is too late. Let your child find this by playing.
+- **s4 (4 min)**  
+  *Parent does:* 1. Ask why the speed dropped after the parachute opened, though gravity still gave 3 beans. 2. Ask what the steady speed is with the parachute open. 3. Try the heavy jumper if there is time.  
+  *Parent says:* Gravity gave 3 beans every turn, open or closed. So why did your speed fall after you opened? What did the parachute change?  
+  *Child mode:* Gravity always gave 3 beans. So why did your speed drop after you opened?
+  - Note: The open parachute lets the air take back more beans at the same speed. The speed falls until the air again takes back 3 beans a turn. That happens at 3 or 4 beans. The heavy jumper must open by turn 6.
+  - Check: With the parachute closed, the jumper's speed stops growing at 9 beans. Why? → **The air takes back what gravity gives**
+
+## Experiments
+### e1 · Table or Tub: how small a pull can start a loaded box? (40 min)
+- **question:** How big a pull starts a loaded box on a table? How big a pull starts the same box when it floats on water? What happens to each pull when the load is doubled?
+- **predict:** Guess first. The box has one katori of rice in it. On the table, how many spoons of rice in the hanging bag will start it? How many with two katoris? Then guess for the floating box. Will it need more spoons, fewer spoons or about the same? Write each guess and your reason for it.
+- **fair test:** Use the same box, the same thread and the same place on the table every time. Add the pull in equal steps: one level tablespoon of rice on the table, and one paper clip on the water. Wait 3 seconds after each step. Change one thing at a time: first the place, then the load. Do each table test 3 times and find the mean, because one run can be a fluke. Switch off the fan for the water tests, because moving air pushes a floating box.
+- **safety:** Wipe up spilt water at once, because a wet floor is slippery. Keep paper clips and safety pins away from children under three.
+- **record:** Fill in the table: spoons of rice for the two table tests, and paper clips for the two water tests. Draw the box on the table and the box on the water, with an arrow for each force. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **results table:** Where the box is, and its load | Run 1 | Run 2 | Run 3 | Mean
+- **s1 (5 min)**  
+  *Parent does:* 1. Put one full katori of rice in the lunch box. 2. Tape one end of the thread to the top edge of one short side of the box. 3. Put the box on the table, 30 centimetres from the edge. 4. Lead the thread over the edge and tie it to both handles of the carry bag. 5. Spread the towel on the floor under the bag.  
+  *Parent says:* We are going to find the smallest pull that starts this box. The bag will pull the box, and we will add rice to the bag.  
+  *Child mode:* Put one katori of rice in the box. Tape the thread to the box. Hang the bag over the table edge.
+  - Note: The bag must hang free and not touch the table leg. Mark the place of the box with a pencil, so that it starts from the same spot every time.
+- **s2 (3 min)**  
+  *Parent does:* 1. Show your child the box, the tablespoon and the bucket. 2. Ask for a guess for the table with one katori, and with two. 3. Ask for a guess for the floating box. 4. Write the guesses and the reasons down.  
+  *Parent says:* How many spoons will start the box on the table? What if the load is doubled? And will the floating box need more, fewer or the same? Why do you think so?  
+  *Child mode:* Guess the spoons for one katori on the table. Guess for two katoris. Guess for the floating box. Say why.
+  - Ask: Why do you think so? (good: A heavier box presses harder on the table, so there is more friction.; Water is slippery, so the box may need less pull.; The box is just as heavy on the water, so it may need the same pull.)
+  - Note: Do not correct the guesses. Many children expect the floating box to need about half the pull.
+- **s3 (10 min)**  
+  *Parent does:* 1. Add one level tablespoon of rice to the bag and wait 3 seconds. 2. Go on until the box slides and keeps sliding. 3. Write the number of spoons. 4. Tip the rice back and do two more runs. 5. Put the second katori of rice in the box and do 3 runs again.  
+  *Parent says:* Add one spoon and wait. We want the smallest pull that starts the box. Catch the box when it slides, and put it back on its mark.  
+  *Child mode:* Add one spoon of rice to the bag. Wait 3 seconds. Stop when the box slides. Write the number. Do it 3 times for each load.
+  - Note: Expect about 4 to 9 spoons for one katori, and about twice as many for two. The numbers depend on your table and your box. If the box slides with the very first spoon, use a teaspoon instead.
+- **s4 (8 min)**  
+  *Parent does:* 1. Switch off the fan. 2. Untie the bag and tie one paper clip to the end of the thread. 3. Float the box, with one katori of rice, in the middle of the bucket. 4. Lead the thread over the rim so that the clip hangs outside. 5. Hold the box still with one finger until the water is calm. 6. Lift your finger and watch for 10 seconds.  
+  *Parent says:* Now the pull is one paper clip. That is about half a gram. Watch the gap between the box and the rim. Does it change?  
+  *Child mode:* Float the box in the bucket. Hang one paper clip on the thread. Hold the box still. Let go and watch for 10 seconds.
+  - Ask: What did the box do? (good: It moved slowly towards the rim.; It started very slowly and then went a little faster.)
+  - Note: The box should drift towards the clip within a few seconds. If it does not, check that the thread is dry and is not stuck to a wet rim. Then add a second clip. A box that touches the side of the bucket can stick there, so start it in the middle.
+- **s5 (5 min)**  
+  *Parent does:* 1. With one katori in the box, let the clip pull it again and count the seconds to the rim. 2. Hold a ruler against the side of the box and read how deep it sits. 3. Put the second katori of rice in the box. 4. Test it with one paper clip, and count the seconds again. 5. Read how deep the box sits now.  
+  *Parent says:* Now the load is doubled. On the table that meant about twice the spoons. What do you expect on the water? Why?  
+  *Child mode:* Count the seconds to the rim. Measure how deep the box sits. Add the second katori. Do both again.
+  - Ask: The box sits deeper with two katoris. What does that tell you about the upthrust? (good: The box displaces more water, so the upthrust is bigger.; The upthrust grew to match the bigger weight.)
+  - Note: One clip should still start the box. It takes longer to reach the rim, because a bigger mass speeds up more slowly. The box sits about twice as deep as before, less the part that the empty box needed.
+- **s6 (4 min)**  
+  *Parent does:* 1. For each table test, add the three runs and divide by 3. 2. Multiply each mean by 12 to get grams of rice. 3. Count half a gram for each paper clip. 4. Draw one bar for each of the four tests.  
+  *Parent says:* A level tablespoon of rice is about 12 grams. A paper clip is about half a gram. Let's turn every result into grams and draw four bars.  
+  *Child mode:* Find the mean of the 3 runs. Multiply by 12 to get grams. Count half a gram for a clip. Draw four bars.
+  - Note: The two water bars will be too short to see beside the table bars. That is the result. Ask your child how to show it, and accept any honest way.
+- **s7 (5 min)**  
+  *Parent does:* 1. Ask your child for the three sentences. 2. Ask them to draw the box on the table and on the water, with every force as an arrow. 3. Only then read the explanation together.  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then draw the box twice. Which forces act on it on the table? Which on the water?  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Draw the box twice with force arrows.
+  - Ask: The box is just as heavy on the water. Why did one paper clip move it there? (good: Upthrust holds the box up, so no surface grips it.; Water resistance is zero until the box moves, so nothing balances the pull.)
+  - Ask: Why did the table pull double when the load doubled? (good: A heavier box presses harder on the table, so the friction is bigger.)
+  - Note: On the table the forces are gravity, the normal force, the pull and friction. On the water they are gravity, upthrust and the pull. Water resistance appears only once the box is moving.
+  - Check: A loaded box floats in a bucket. Why can one paper clip start it moving? → **Water resistance is zero on a still box**
+### e2 · The Sinking Race: which shape of dough sinks fastest? (30 min)
+- **question:** Three equal pieces of dough are made into a ball, a flat pancake and a carrot. Which shape sinks fastest through water, and which sinks slowest?
+- **predict:** Guess first. Put the ball, the pancake and the carrot in order, from the fastest sinker to the slowest. Write your order and your reason. Then say which of the three is heaviest, and why you think so.
+- **fair test:** Cut the three pieces from one rope of dough, all the same length, so they have the same weight. Let each shape go from just under the surface, without a push. In each race, let both shapes go at the same moment. Run each race 3 times and swap hands each time, because one hand may let go late. Change only the shape.
+- **safety:** Do this in the bathroom or on a balcony, and wipe up spilt water. Throw the used dough away afterwards, and do not eat it.
+- **record:** Fill in the table of winners. Write the three shapes in order from fastest to slowest. Draw the sinking pancake with three force arrows. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **results table:** Race | Winner, try 1 | Winner, try 2 | Winner, try 3 | Which shape won most
+- **s1 (6 min)**  
+  *Parent does:* 1. Knead the atta, water and oil into a stiff dough. 2. Roll a rope of dough about 2 centimetres thick. 3. Cut three pieces, each 3 centimetres long. 4. Roll one piece into a ball. 5. Press one into a flat pancake about 6 centimetres wide. 6. Roll one into a carrot about 6 centimetres long, with one thick round end.  
+  *Parent says:* All three pieces come from one rope and are the same length. So they are the same amount of dough. Now we give each one a different shape.  
+  *Child mode:* Roll a rope of dough. Cut three pieces of 3 cm. Make a ball, a flat pancake and a carrot.
+  - Note: The dough must be stiff, or the pancake will droop. Press out any air pockets. If you use modelling clay, everything sinks faster, so watch closely.
+- **s2 (3 min)**  
+  *Parent does:* 1. Lay the three shapes in a row. 2. Ask your child to put them in order from fastest sinker to slowest. 3. Ask which of the three is heaviest. 4. Write the answers and the reasons down.  
+  *Parent says:* Which shape will sink fastest, and which slowest? Why do you think so? And which of the three is heaviest?  
+  *Child mode:* Put the shapes in order, fastest to slowest. Say why. Which one is heaviest?
+  - Ask: Which of the three is heaviest? (good: None. They are equal pieces of dough, so they weigh the same.)
+  - Note: Many children say that the ball is heaviest, because it looks solid. Do not correct this yet. The question comes back at the end.
+- **s3 (4 min)**  
+  *Parent does:* 1. Hold the ball just under the surface of the water. 2. Let go without pushing. 3. Watch the ball from above until it touches the bottom. 4. Lift it out and do the same with the pancake, held flat.  
+  *Parent says:* This is a trial drop. Hold the shape just under the water, so that it makes no splash. Let go without a push.  
+  *Child mode:* Hold the ball just under the water. Let go. Watch it land. Try the pancake too.
+  - Note: If a shape floats, it has air in it. Knead it again and press it flat before you shape it. The pancake may rock from side to side as it sinks. That is part of the result.
+- **s4 (8 min)**  
+  *Parent does:* 1. Race the ball against the pancake. Hold one in each hand, just under the surface, a hand's width apart. 2. Let go of both at the same moment. 3. A watcher says which one touches the bottom first. 4. Do the race 3 times and swap hands each time. 5. Race the ball against the carrot, thick end down, 3 times. 6. Race the carrot against the pancake 3 times.  
+  *Parent says:* Let go of both at the same moment, without a push. The carrot goes thick end first. Who touched the bottom first?  
+  *Child mode:* Hold two shapes just under the water. Let go together. See which lands first. Race each pair 3 times.
+  - Note: Reshape the dough gently if it bends. If the water turns cloudy, you can still see the shapes land from above. A carrot that turns sideways is a spoilt race, so run that one again.
+- **s5 (4 min)**  
+  *Parent does:* 1. Time the pancake alone, from letting go to touching the bottom. 2. Do it 3 times and write each time. 3. Add the three times and divide by 3. 4. Then try to time the ball once.  
+  *Parent says:* The pancake is slow enough to time. Let's get three times and a mean. Then try the ball. Can a stopwatch catch it?  
+  *Child mode:* Time the pancake 3 times. Find the mean. Then try to time the ball.
+  - Note: Expect about 2 to 3 seconds for the pancake and under 1 second for the ball. A hand on a stopwatch is off by about 0.2 seconds. So the ball's time cannot be trusted, and the races are the better test for it.
+- **s6 (5 min)**  
+  *Parent does:* 1. Ask your child for the three sentences. 2. Ask again which shape is heaviest. 3. Ask them to draw the sinking pancake with gravity, upthrust and water resistance. 4. Only then read the explanation together.  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then draw the pancake. Which forces point up, and which point down?  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Draw the pancake with three arrows.
+  - Ask: The three shapes weigh the same. Which other force is the same on all three? (good: Upthrust, because each one displaces the same amount of water.)
+  - Ask: So which force made the difference? (good: Water resistance. The pancake pushes a wide front through the water.; The carrot lets the water close up behind it.)
+  - Note: Gravity points down. Upthrust and water resistance point up. Once the pancake sinks at a steady speed, the two up arrows together are as long as the down arrow.
+  - Check: A ball and a pancake are made from equal pieces of dough. Why does the pancake sink more slowly? → **The pancake pushes a wider front through water**
+### e3 · A Hole in the Parachute: does a vent change the fall? (40 min)
+- **question:** Does a hole in the top of a parachute make it fall faster? Does it change how far from the target the parachute lands?
+- **predict:** Guess first. You will cut a small hole in the top of the canopy. Will the parachute then fall faster, slower or the same? Will it land nearer to the target or further away? What will a large hole do? Write each guess and your reason for it.
+- **fair test:** Use one parachute for the whole test, so the polythene, the threads and the coin never change. Drop it from the same mark, held the same way, by the same person. Switch off the fan and close the window. Change only the hole. Do 5 drops each time and find the mean, because parachute drops vary a lot. A hand on a stopwatch is off by about 0.2 seconds, so only a bigger gap than that counts.
+- **safety:** A grown-up does the cutting and the dropping. Nobody stands on a chair or leans over a balcony. Pick up the coin after every drop.
+- **record:** Fill in the table with every time and every distance. Find the two means for each canopy. Draw a bar chart of the mean distances. Then write three sentences: what you thought would happen, what you saw, and why it happened.
+- **results table:** Canopy | Fall times of 5 drops (s) | Mean fall time (s) | Distances from the X of 5 drops (cm) | Mean distance (cm) | Swing: a lot, a little or none
+- **s1 (8 min) · grown-up needed**  
+  *Parent does:* 1. A grown-up cuts a square of polythene 30 centimetres wide. 2. Tape one thread to each corner. 3. Hold the four loose ends together and check that the threads are equally long. 4. Tape the four ends to the coin. 5. Mark an X on the floor, and a line 2 metres up the wall above it.  
+  *Parent says:* This square is the canopy. Its area is 30 times 30, which is 900 square centimetres. The coin is the load.  
+  *Child mode:* Tape a thread to each corner of the square. Tape the four ends to the coin. Mark an X on the floor.
+  - Note: A thin bag from a vegetable shop works better than a thick shopping bag. Smooth out the creases with your hand.
+- **s2 (3 min)**  
+  *Parent does:* 1. Show your child where the hole will be cut. 2. Ask for a guess about the fall time, and a reason. 3. Ask for a guess about the landing place, and a reason. 4. Write the guesses down.  
+  *Parent says:* We will cut a small hole in the top, and later a large one. What will each hole do to the fall time and to the landing place? Why do you think so?  
+  *Child mode:* Guess what a small hole will do. Guess what a large hole will do. Say why.
+  - Ask: Why do you think so? (good: Air will escape through the hole, so it may fall faster.; The hole is tiny beside the canopy, so it may change little.)
+  - Note: Most children expect a hole to make the parachute fall much faster. Do not correct the guess.
+- **s3 (6 min) · grown-up needed**  
+  *Parent does:* 1. The grown-up pinches the middle of the canopy and holds it at the 2 metre line, above the X. 2. The child starts the stopwatch on 'Go' and stops it when the coin lands. 3. Measure from the X to the coin. 4. Notice whether the parachute swung. 5. Do 5 drops and write every time and distance.  
+  *Parent says:* These five drops are with no hole. Watch the canopy as it falls. Does it come straight down, or does it swing and slide to one side?  
+  *Child mode:* Start the stopwatch on 'Go'. Stop it when the coin lands. Measure from the X to the coin. Do 5 drops.
+  - Note: If the threads tangle or the canopy does not open, do that drop again. Expect a fall of about 1.5 to 2.5 seconds.
+- **s4 (6 min) · grown-up needed**  
+  *Parent does:* 1. Fold the canopy in half and in half again, so its middle is at one corner. 2. Cut a square 1 centimetre by 1 centimetre off that corner. 3. Unfold it. The hole is 2 centimetres by 2 centimetres. 4. Do 5 drops, as before. Pinch the canopy just beside the hole.  
+  *Parent says:* Now the canopy has a small vent. Its area is 2 times 2, which is 4 square centimetres. Watch the fall again. What is different?  
+  *Child mode:* Fold the canopy in four. A grown-up cuts a small square off the corner. Unfold it. Do 5 drops.
+  - Note: Move the threads out of the way before you fold. The hole must be in the very middle of the canopy.
+- **s5 (6 min) · grown-up needed**  
+  *Parent does:* 1. Fold the canopy in four again. 2. Cut the corner again, this time 5 centimetres by 5 centimetres. 3. Unfold it. The hole is now 10 centimetres by 10 centimetres. 4. Do 5 drops, as before.  
+  *Parent says:* Now the hole is 10 by 10. That is 100 square centimetres out of 900. What do you expect this time? Why?  
+  *Child mode:* Fold the canopy in four. A grown-up cuts a bigger square off the corner. Unfold it. Do 5 drops.
+- **s6 (5 min)**  
+  *Parent does:* 1. For each canopy, add the 5 fall times and divide by 5. 2. Do the same for the 5 distances. 3. Draw a bar chart of the three mean distances. 4. Circle any two mean times that are less than 0.2 seconds apart.  
+  *Parent says:* Let's find two means for each canopy. Times that are less than 0.2 seconds apart count as the same, because our stopwatch hand is not exact.  
+  *Child mode:* Find the mean time for each canopy. Find the mean distance. Draw three bars. Circle times that are nearly the same.
+- **s7 (6 min)**  
+  *Parent does:* 1. Ask your child for the three sentences. 2. Ask what the small hole cost and what it gave. 3. Ask them to draw the parachute falling steadily, with its force arrows. 4. Only then read the explanation together.  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then tell me what the small hole cost us, and what it gave us.  
+  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened. Draw the falling parachute with two arrows.
+  - Ask: Why did the small hole change the fall time so little? (good: The hole is 4 square centimetres out of 900, so the canopy is almost as big as before.)
+  - Ask: Where did the air go before there was a hole? (good: It spilled out under the edges, first one side and then another.)
+  - Note: A small vent usually makes the fall straighter and hardly faster. With a parachute this small the difference in landing place can be slight. If your three mean distances are within 10 centimetres, say so plainly. That is your result. A large hole should shorten the fall a little.
+  - Check: A 2 centimetre square hole is cut in a 30 centimetre square canopy. Why does the fall time hardly change? → **The hole removes very little of the canopy**
+
+## Activities
+### a1 · Three Bottles: which one gets the biggest upthrust? (12 min)
+- **safety:** Do this in the bathroom or on a balcony, and wipe up spilt water.
+- **record:** Draw the three bottles under water. On each one draw an upthrust arrow and a gravity arrow. Write which arrows are the same on all three, and which are different.
+- **s1 (3 min)**  
+  *Parent does:* 1. Close the first bottle with only air in it. 2. Fill the second bottle to the very top with water and close it. 3. Put the coins in the third bottle, fill it with water and close it. 4. Stick the tape upright inside the bucket, and mark the water level on it.  
+  *Parent says:* These three bottles are the same size. One holds air, one holds water, and one holds coins and water. Feel how different their weights are.  
+  *Child mode:* Make three bottles: empty, full of water, and coins with water. Close them. Mark the water level in the bucket.
+  - Note: Leave no air bubble in the second and third bottles.
+- **s2 (2 min)**  
+  *Parent does:* 1. Hold up the three bottles. 2. Ask which one the water will push up hardest when all three are fully under. 3. Ask for the reason. 4. Write the guess down.  
+  *Parent says:* Each bottle will go fully under the water. Which one will the water push up hardest? Why do you think so?  
+  *Child mode:* Guess which bottle gets the biggest push up from the water. Say why.
+  - Note: Most children choose the empty bottle, because it will jump up. Do not correct the guess.
+- **s3 (4 min)**  
+  *Parent does:* 1. Push the empty bottle fully under and mark the new water level. 2. Hold it just under the surface, then near the bottom, and compare the push on your hand. 3. Let go and watch. 4. Do the same with the bottle of water, and then with the bottle of coins.  
+  *Parent says:* Push it right under. How far did the water rise? Is the push on your hand bigger near the bottom? Now let go. What does the bottle do?  
+  *Child mode:* Push each bottle fully under. Mark how high the water rises. Feel the push. Let go and watch.
+  - Ask: How far did the water rise for each bottle? (good: The same for all three, about 1 centimetre.; Each bottle displaces the same amount of water.)
+  - Ask: What did each bottle do when you let go? (good: The empty one shot up.; The one full of water stayed almost where it was.; The one with coins sank.)
+  - Note: The three marks should be at the same height. The push of the empty bottle on the hand is the same near the surface and near the bottom. The bottle of water may sink very slowly, because the plastic is a little heavier than water.
+- **s4 (3 min)**  
+  *Parent does:* 1. Ask your child what the three equal marks mean. 2. Ask them to draw each bottle with an upthrust arrow and a gravity arrow. 3. Read the explanation together.  
+  *Parent says:* All three bottles displaced the same water. So what can we say about the upthrust on each? Then why did they behave so differently?  
+  *Child mode:* Draw the three bottles. Give each an upthrust arrow and a gravity arrow. Which arrows are the same?
+  - Note: The upthrust arrows are equal, because upthrust depends only on the water displaced. The gravity arrows differ. The empty bottle rises because its weight is far smaller than the upthrust.
+  - Check: Three bottles of the same size are held fully under water. Which gets the biggest upthrust? → **All three get the same**
+### a2 · The Bag of Water: what does water weigh in water? (20 min)
+- **safety:** Do this in the bathroom or on a balcony. Hold the bag over the bucket, in case it leaks.
+- **record:** Make a table with four rows: bag of water in air, bag of water in water, ten coins in air, and water with ten coins in water. Write the length of the rubber band for each.
+- **s1 (5 min)**  
+  *Parent does:* 1. Lay the rubber band on the table and measure its length. 2. Pour the tumbler of water into one bag. 3. Twist the neck to squeeze out all the air, and tie it tightly with thread. 4. Tie the rubber band to the neck. 5. Lift the bag by the band and measure the band again.  
+  *Parent says:* First measure the band lying loose. Then hang the bag of water from it. How long is the band now? The stretch shows how hard the bag pulls.  
+  *Child mode:* Measure the loose band. Fill a bag with water and tie it. Hang it from the band. Measure the band.
+  - Note: If the band stretches to more than three times its length, loop two bands together. Leave no air in the bag, because an air bubble will lift it.
+- **s2 (2 min)**  
+  *Parent does:* 1. Hold the bag above the bucket. 2. Ask how long the band will be when the bag is fully under water. 3. Ask for the reason. 4. Write the guess down.  
+  *Parent says:* We will lower the bag into the bucket until it is fully under. How long will the band be then? Why do you think so?  
+  *Child mode:* Guess how long the band will be with the bag under water. Say why.
+  - Note: Many children expect the band to be a little shorter. Few expect it to go fully loose.
+- **s3 (4 min)**  
+  *Parent does:* 1. Lower the bag slowly into the bucket, holding the band. 2. Stop when the bag is fully under and the band is above the water. 3. Measure the band. 4. Lift the bag out and watch the band stretch again.  
+  *Parent says:* Lower it slowly and watch the band. What is happening? Now measure it. Compare this with the loose band on the table.  
+  *Child mode:* Lower the bag into the bucket. Watch the band. Measure it. Lift the bag out again.
+  - Ask: What happened to the band? (good: It went back to its loose length.; The bag pulled on it less and less, and then not at all.)
+  - Note: The band should return to its loose length once the bag is fully under. The bag then hangs wherever you leave it.
+- **s4 (5 min)**  
+  *Parent does:* 1. Put the 10 coins in the second bag, hang it from the band in air and measure. 2. Untie the bag of water and drop the 10 coins in. 3. Squeeze out the air and tie it again. 4. Hang it from the band in air and measure. 5. Lower it fully into the bucket and measure.  
+  *Parent says:* Now the bag holds water and ten coins. In air the band feels both. What will the band feel when the bag is under water? Why?  
+  *Child mode:* Hang ten coins from the band and measure. Put the coins in the water bag. Measure in air. Measure in water.
+  - Note: Under water, the band should be about as long as it was with the ten coins alone in air. It may be very slightly shorter, because the water pushes up a little on the coins too.
+- **s5 (4 min)**  
+  *Parent does:* 1. Look at the four lengths in the table. 2. Ask where the weight of the water went. 3. Read the explanation together. 4. Your child draws the bag under water with two arrows.  
+  *Parent says:* The water in the bag did not get lighter. So what is holding it up? Think about the water that was in that place before the bag came.  
+  *Child mode:* Look at your four lengths. What holds the bag up in the bucket? Draw the bag with two arrows.
+  - Note: Before the bag came, the water around that place held up the water that was there. It now pushes up on the bag just as hard. So the upthrust equals the weight of the water displaced.
+  - Check: A bag holding 200 grams of water hangs fully under water. How hard does it pull on the rubber band? → **Not at all**
+### a3 · Newspaper on Your Chest: how fast must you walk? (12 min)
+- **safety:** Clear the path first. Go in bare feet or shoes, not in socks. Keep away from stairs and from the edge of a terrace.
+- **record:** Make a table with three rows: full sheet, folded in half, and folded in four. For each one write the slowest speed that kept the paper up: slow walk, fast walk, jog or run.
+- **s1 (3 min)**  
+  *Parent does:* 1. Your child holds the open sheet flat against the chest. 2. They stand still and take both hands away. 3. Ask why it fell. 4. Ask whether walking could keep it up, and why.  
+  *Parent says:* Hold the paper on your chest and let go. It falls. Could the air hold it there if you walked? What do you think, and why?  
+  *Child mode:* Hold the paper on your chest. Stand still and let go. Could walking keep it up? Say why.
+- **s2 (4 min)**  
+  *Parent does:* 1. Your child holds the sheet on the chest and starts to walk slowly. 2. They take both hands away while walking. 3. They try again a little faster each time. 4. They find the slowest speed that keeps the sheet up for 5 metres.  
+  *Parent says:* Start slowly and let go. Did it stay? Go a little faster each time. Find the slowest speed that keeps the paper on your chest.  
+  *Child mode:* Walk and let go of the paper. Go a little faster each time. Find the slowest speed that holds it.
+  - Note: A full sheet usually stays up at an easy walk. A cotton shirt grips the paper better than a silky one. Do this indoors, because wind spoils the test.
+- **s3 (3 min)**  
+  *Parent does:* 1. Fold the sheet in half. Ask what speed it will need now, and why. 2. Your child finds the slowest speed again. 3. Fold it in four and try once more.  
+  *Parent says:* The folded sheet weighs the same, but it is half as wide. Will it need the same speed, a slower one or a faster one? Why?  
+  *Child mode:* Fold the paper in half. Guess the speed it needs. Test it. Fold again and test.
+  - Note: Each fold halves the front area and leaves the weight the same. So each fold needs a clearly faster speed. Folded in four, the sheet may need a run.
+- **s4 (2 min)**  
+  *Parent does:* 1. Ask your child which forces act on the sheet while it stays up. 2. Ask why the folded sheet needs more speed. 3. Read the explanation together.  
+  *Parent says:* The air pushes the paper against your chest. But what stops the paper sliding down? Name every force on the paper.  
+  *Child mode:* Name the forces on the paper. Why does the folded paper need more speed?
+  - Note: Four forces act on the sheet. Gravity pulls it down. Air resistance presses it against the chest. The chest pushes back with a normal force. Friction from the shirt holds it up. A harder press from the air gives more friction.
+  - Check: A sheet of newspaper folded in half needs a faster walk to stay on your chest. Why? → **Half the front area catches less air**
+### a4 · Balanced or Not? Draw the forces on six things (20 min)
+- **record:** Draw six force diagrams, one for each thing. Label every arrow. Under each diagram write 'balanced' or 'unbalanced', and what the speed of the thing is doing.
+- **s1 (3 min)**  
+  *Parent does:* 1. Read the three rules aloud. 2. Draw the thing as a simple box. 3. Start each arrow on the box and point it the way the force acts. 4. Make a bigger force a longer arrow, and label every arrow.  
+  *Parent says:* A force diagram has three rules. Draw the thing as a box. Draw one arrow for each force, pointing the way it acts. Make a bigger force a longer arrow.  
+  *Child mode:* Draw the thing as a box. Draw one arrow for each force. Make a bigger force a longer arrow.
+- **s2 (5 min)**  
+  *Parent does:* 1. Draw a loaded box on a table, pulled gently by a thread and not moving. 2. Draw the same box floating still in a bucket. 3. Ask which forces hold each box up, and which act sideways.  
+  *Parent says:* First the box on the table, with a gentle pull that does not move it. Then the box floating still. Which forces act on each?  
+  *Child mode:* Draw the box on the table with a gentle pull. Then draw the box floating still. Label every arrow.
+  - Ask: Which forces act on the box on the table? (good: Gravity down, the normal force up, the pull one way and friction the other way.)
+  - Ask: Which forces act on the floating box? (good: Only gravity down and upthrust up. Nothing acts sideways.)
+  - Note: On the table there are four arrows in two equal pairs. On the water there are only two equal arrows.
+- **s3 (5 min)**  
+  *Parent does:* 1. Draw the floating box at the moment a paper clip starts to pull it. 2. Draw the floating box a little later, pulled along at a steady speed. 3. Ask what is different between the two drawings.  
+  *Parent says:* Now the paper clip pulls the floating box. Draw the first moment, when the box is still at rest. Then draw it moving steadily.  
+  *Child mode:* Draw the floating box when the clip first pulls. Then draw it moving at a steady speed.
+  - Note: At the first moment there is a pull and no water resistance, so the forces are unbalanced. At a steady speed, the water resistance is as long as the pull.
+- **s4 (4 min)**  
+  *Parent does:* 1. Draw a dough pancake sinking at a steady speed. 2. Draw a parachute and its coin falling at a steady speed. 3. Ask which arrows point up in each drawing.  
+  *Parent says:* The pancake sinks steadily and the parachute falls steadily. Which forces point up on each one? How long must the up arrows be?  
+  *Child mode:* Draw the pancake sinking steadily. Draw the parachute falling steadily. Which arrows point up?
+  - Note: On the pancake, upthrust and water resistance point up. Together they are as long as the gravity arrow. On the parachute, air resistance alone is as long as the gravity arrow.
+- **s5 (3 min)**  
+  *Parent does:* 1. Lay out the six drawings. 2. Your child writes 'balanced' or 'unbalanced' under each. 3. Ask what the speed is doing in each one. 4. Your child writes one rule that joins balance and speed.  
+  *Parent says:* Look at all six. Which are balanced? In those, is the thing still, or moving at a steady speed? What rule fits them all?  
+  *Child mode:* Write balanced or unbalanced under each drawing. What is the speed doing? Write one rule.
+  - Note: Five are balanced. Only the box at the first moment of the pull is unbalanced. A good rule: when forces are balanced the speed does not change, and when they are unbalanced it changes.
+  - Check: A dough pancake sinks at a steady speed. Which is true of the forces on it? → **Upthrust plus water resistance equals gravity**
+### a5 · Parachute or Rocket? Plan a landing on four worlds (15 min)
+- **record:** Make a table with four rows: Earth, the Moon, Mars and Titan. For each world write your landing plan and your reason. Then write what real spacecraft did there.
+- **s1 (4 min)**  
+  *Parent does:* 1. Read the table together. 2. Ask what a parachute needs in order to work. 3. Ask which world will be hardest for a parachute.  
+  *Parent says:* A parachute works by pushing on air. Look at the air on each world. Where will a parachute work well? Where will it not work at all?  
+  *Child mode:* Read the table. What does a parachute need? Which world is hardest for a parachute?
+- **s2 (6 min)**  
+  *Parent does:* 1. For each world, your child chooses parachutes, rocket engines or both. 2. They write a reason that uses the air and the gravity. 3. Ask which world needs the biggest parachute for the same load.  
+  *Parent says:* Choose a plan for each world, and give a reason from the table. Where would you need the biggest parachute? Where would the smallest one do?  
+  *Child mode:* Choose a parachute, a rocket or both for each world. Write your reason.
+  - Ask: Why can no parachute work on the Moon? (good: The Moon has no air, so there is no air resistance.)
+  - Ask: Why is Titan the easiest world for a parachute? (good: The air is thick and the gravity is weak, so a small canopy balances the weight at a low speed.)
+- **s3 (5 min)**  
+  *Parent does:* 1. Read what real spacecraft did. 2. Your child compares each one with their plan. 3. Ask why the Mars rover needed both a parachute and rockets.  
+  *Parent says:* On the Moon, Chandrayaan-3 landed in 2023 with rocket engines alone. On Mars, a rover landed in 2021 with a parachute and then rockets. On Titan, a probe landed in 2005 under parachutes alone.  
+  *Child mode:* Read what the real spacecraft did. Was your plan the same? Why did Mars need both?
+  - Note: Chandrayaan-3 landed on the Moon on 23 August 2023. The rover Perseverance landed on Mars on 18 February 2021, with a parachute 21.5 metres wide and then rockets. The probe Huygens landed on Titan on 14 January 2005, after about two and a half hours under parachutes. Capsules that bring people back to Earth use parachutes for almost all of the slowing.
+  - Check: Why did the Mars rover need rockets as well as a very large parachute? → **Mars has very thin air**
+### a6 · Watch a Bird Land: how does a pigeon use air resistance? (10 min)
+- **record:** Make a tally table with four rows: wings spread wide, tail fanned out, body tilted up, legs stretched forward. Add a tally mark each time you see a landing bird do that thing.
+- **s1 (2 min)**  
+  *Parent does:* 1. Ask your child how a flying bird slows down to land. 2. Ask what she might do with her wings and tail. 3. Draw the tally table.  
+  *Parent says:* A pigeon has no brakes on a wheel. How does she slow down before she lands? What do you expect her to do with her wings and tail?  
+  *Child mode:* How does a flying bird slow down to land? Guess what her wings and tail do.
+- **s2 (6 min)**  
+  *Parent does:* 1. Watch for birds coming in to land. 2. For each landing, look at the wings, the tail, the body and the legs. 3. Add tally marks. 4. Try to see at least 3 landings.  
+  *Parent says:* Watch the last second before she touches down. Are her wings narrow or wide? Is her tail closed or fanned? Which way is her body tilted?  
+  *Child mode:* Watch 3 landings. Look at the wings, tail, body and legs. Add tally marks.
+  - Note: If no bird lands in six minutes, try again in the early morning or evening. Pigeons and crows land most often near food and on ledges.
+- **s3 (2 min)**  
+  *Parent does:* 1. Ask your child what the bird did to her front area. 2. Ask what that did to the air resistance. 3. Compare her landing with a parachute.  
+  *Parent says:* She spread her wings and tail and tilted up. What did that do to the area she pushed through the air? So what happened to the air resistance?  
+  *Child mode:* What did she do to her front area? What did that do to the air resistance?
+  - Note: A landing bird makes her front area as big as she can. The air resistance grows and slows her in a short distance. In fast flight she does the opposite, and keeps her body narrow and smooth.
+  - Check: A pigeon fans her tail and spreads her wings just before she lands. What does this do? → **Her front area and air resistance grow**
+
+## Projects
+### p1 · The Parachute Trial: design, test and improve a parachute in three days (70 min, 3 days)
+- **safety:** A grown-up does the cutting and the dropping. Nobody stands on a chair or leans over a balcony.
+- **record:** Write a one-page report. It has a labelled drawing of your final parachute and a table of the two means for every design. It has a force diagram of the steady fall. It ends with one sentence on what you would change next.
+- **schedule:** day 1: Build the standard parachute and drop it 5 times. Find its mean fall time and its mean distance from the X. Choose two things to change. (25 min); day 2: Test your two changes, one at a time, with 5 drops each. (25 min); day 3: Build your final design, test it with 5 drops and write a one-page report. (20 min)
+- **s1 (25 min) · grown-up needed**  
+  *Parent does:* 1. Build the standard parachute: a polythene square 30 centimetres wide, four threads of 30 centimetres, and two coins taped together. 2. A grown-up drops it 5 times from the 2 metre line above the X. 3. Write each fall time and each distance from the X, and find the two means. 4. Your child chooses two things to change, and says what each should do.  
+  *Parent says:* The task is to carry two coins down slowly and land near the X. First we need numbers for the standard design. Then choose two things to change, and tell me why.  
+  *Child mode:* Build the standard parachute. Drop it 5 times. Find the mean time and the mean distance. Choose two things to change.
+  - Note: Things to change: the size of the canopy, its shape, a vent, the length of the threads, the number of threads or the material. To make eight sides, cut the four corners off the square and use eight threads.
+- **s2 (25 min) · grown-up needed**  
+  *Parent does:* 1. Build a parachute with the first change only. 2. Drop it 5 times and find the two means. 3. Build another with the second change only, and do the same. 4. Compare each with the standard design.  
+  *Parent says:* Change only one thing in each parachute. Then we know what caused any difference. Which change helped the fall time? Which helped the landing?  
+  *Child mode:* Make one change. Drop it 5 times. Then test the second change by itself. Compare with the standard design.
+  - Ask: Why do we change only one thing at a time? (good: If two things change together, we cannot tell which one made the difference.)
+  - Note: A mean time less than 0.2 seconds from the standard counts as no change. Newspaper is heavier and stiffer than polythene, and usually falls faster.
+  - Wait: Do this on day 2
+- **s3 (20 min) · grown-up needed**  
+  *Parent does:* 1. Your child decides the final design from the results. 2. Build it and drop it 5 times. 3. Count how many drops land within 30 centimetres of the X. 4. Your child writes the one-page report.  
+  *Parent says:* Use your results to choose the final design. Does it fall slowly? Do at least 4 drops out of 5 land within 30 centimetres of the X?  
+  *Child mode:* Choose your final design. Drop it 5 times. Count the drops that land near the X. Write your report.
+  - Check: A new parachute has a bigger canopy and longer threads, and it falls more slowly. What can you say? → **You cannot tell which change caused it**
+  - Wait: Do this on day 3
+
+## Challenges
+### c1 · The Slow Sinker: make a piece of dough sink as slowly as you can (30 min)
+- **problem:** Take one piece of stiff atta dough, cut 3 centimetres long from a rope 2 centimetres thick. Shape it so that it takes as long as possible to sink 25 centimetres in a bucket of water.
+- **your turn:** Now invent your own slow sinker. Draw it, make it and time it 3 times. What was the mean? Which helped more: a bigger front area, or a shape that stirs up more water?
+- **constraints:** Use only the one piece of dough, and add nothing to it.; The shape must sink by itself. A shape that floats or holds an air bubble does not count.; Let the shape go from just under the surface, without a push.; Time each shape 3 times and use the mean.
+- **general:** Press the dough into a pancake that is as wide and thin as it can be without tearing.; Roll the dough into a long, thin noodle and let it go lying level.; Make a wide, flat ring.
+- **creative:** Give a small pancake long, thin arms, like a star. Many tiny living beings of the sea, called plankton, have long spines that slow their sinking.; Make a thin ribbon and give it one twist, so that it turns as it sinks.; Make a shallow saucer and let it go open side up, with no air under it.
+- **s1 (6 min)**  
+  *Parent does:* 1. Press the piece of dough into a pancake 6 centimetres wide, as in the Sinking Race. 2. Let it go flat, from just under the surface. 3. Time it 3 times and find the mean. 4. Write this as the time to beat.  
+  *Parent says:* First we need the time to beat. In the Sinking Race, the pancake was the slowest shape. How long does it take to sink?  
+  *Child mode:* Make a pancake 6 cm wide. Time it 3 times. Find the mean. This is the time to beat.
+- **s2 (10 min)**  
+  *Parent does:* 1. Read the usual ideas: a wider pancake, a long noodle, a ring. 2. Your child chooses one and says why it should be slower. 3. Make it, time it 3 times and find the mean.  
+  *Parent says:* Which idea do you think will sink most slowly? Why? Let's test your choice 3 times.  
+  *Child mode:* Pick one idea. Say why it should be slower. Make it. Time it 3 times.
+  - Ask: Why should a wider, thinner pancake sink more slowly? (good: It has a bigger front area, so it meets enough water resistance at a lower speed.)
+  - Note: Very thin dough folds up as it sinks, and then it falls faster. Finding the limit is part of the challenge.
+- **s3 (14 min)**  
+  *Parent does:* 1. Your child designs a shape of their own and draws it. 2. They make it and time it 3 times. 3. They compare the mean with the time to beat. 4. They change one thing and test again.  
+  *Parent says:* Now design your own slow sinker. What will you change, and why? Did it beat the pancake?  
+  *Child mode:* Design your own shape. Draw it. Make it. Time it 3 times. Change one thing and test again.
+  - Note: Once a shape sinks steadily, the water resistance on it equals its weight minus its upthrust. That is the same for every shape made from this piece. A slower shape meets that resistance at a lower speed.
+  - Check: Many plankton have long, thin spines. How do the spines help them stay in sunlit water? → **The spines add water resistance and slow sinking**
+### c2 · The Quiet Dive: enter the water with the smallest splash (25 min)
+- **problem:** Drop one piece of dough from 30 centimetres above a bowl of water. Shape the dough so that the water splashes the shortest distance out of the bowl.
+- **your turn:** Now design your own quiet diver. Draw it, make it and drop it 3 times. What was the mean splash distance? What does your shape have in common with a kingfisher's beak?
+- **constraints:** Use one piece of dough each time, cut 3 centimetres long from a rope 2 centimetres thick.; Hold the dough 30 centimetres above the water and let go. Do not throw it.; After each drop, measure from the rim of the bowl to the farthest wet spot on the newspaper.; Drop each shape 3 times and use the mean.
+- **general:** Make the dough narrow, so that it meets less water at once.; Roll a short rod and drop it end first.; Smooth the surface of the dough with a wet finger.
+- **creative:** Shape a long cone and drop it point first. A kingfisher's beak is a long, narrow wedge, and she dives into water with hardly a splash.; Make a long shape with a point at both ends, so that the water can close up gently behind it.; Eiji Nakatsu, an engineer in Japan who watched birds, shaped the nose of a fast train like a kingfisher's beak. The train then entered tunnels more quietly.
+- **s1 (6 min)**  
+  *Parent does:* 1. Stand the bowl on dry newspaper. 2. Drop a flat pancake of dough, held level, from 30 centimetres. 3. Circle the wet spots with a pencil and measure to the farthest one. 4. Do the same with a ball of dough. 5. Change the newspaper when it gets too wet.  
+  *Parent says:* First we need a splash to beat. Drop the pancake flat, and then the ball. Which one throws water further? Why do you think so?  
+  *Child mode:* Drop a flat pancake into the bowl. Measure to the farthest wet spot. Then drop a ball.
+  - Note: The pancake usually makes the widest splash, because it meets a lot of water at the same moment.
+- **s2 (8 min)**  
+  *Parent does:* 1. Read the usual ideas: a narrow shape, a rod dropped end first, a smooth surface. 2. Your child chooses one and says why it should splash less. 3. Make it, drop it 3 times and find the mean distance.  
+  *Parent says:* Which idea should make the smallest splash? Why? Let's test your choice 3 times.  
+  *Child mode:* Pick one idea. Say why it should splash less. Make it. Drop it 3 times.
+  - Ask: Why should a narrow shape splash less? (good: It has a small front area, so it pushes less water aside at once.)
+- **s3 (11 min)**  
+  *Parent does:* 1. Your child designs a shape of their own and draws it. 2. They make it and drop it 3 times. 3. They compare the mean with the pancake and the ball. 4. They change one thing and test again.  
+  *Parent says:* Now design your own quiet diver. What will you change, and why? Did the splash get smaller?  
+  *Child mode:* Design your own shape. Draw it. Drop it 3 times. Change one thing and test again.
+  - Note: A long cone dropped point first usually makes the smallest splash. If it tips over in the air, hold it upright by the thick end and let go cleanly.
+  - Check: A long cone dropped point first makes a smaller splash than a flat pancake. Why? → **The cone moves water aside little by little**
+
+## Worksheets
+### Four forces and how they act (core) (core, 15 questions)
+1. (mcq) Which force from water acts on a boat that is not moving?  
+   Options: Upthrust / Water resistance / Friction / Air resistance  
+   **Answer:** Upthrust. *Why:* Upthrust pushes up on anything in water, still or moving. Water resistance acts only on a thing that moves through the water.
+2. (truefalse) True or false: water resistance acts on a floating box that is perfectly still.  
+   **Answer:** False. *Why:* False. Water resistance comes from pushing water out of the way, so a still box has none. A strong answer adds that upthrust does act on the still box.
+3. (fill) Air resistance and water resistance together are called ____.  
+   **Answer:** ['drag']. *Why:* Drag is the force from any fluid against a thing moving through it. Air resistance is drag in air, and water resistance is drag in water.
+4. (sort) Sort these forces: can each one act on a still thing, or only on a moving thing?  
+   **Answer:** friction → Can act on a still thing; air resistance → Acts only on a moving thing; upthrust → Can act on a still thing; water resistance → Acts only on a moving thing; gravity → Can act on a still thing. *Why:* Friction can hold a still thing in place. Upthrust and gravity act all the time. Air resistance and water resistance act only on a thing that moves through the air or water.
+5. (match) Match each word to what it means.  
+   **Answer:** Upthrust → the upward push of water or air on a thing in it; Streamlined → rounded in front and narrowing slowly behind; Terminal speed → the steady speed a falling thing reaches; Displace → to push water aside and take its place; Vent → a small hole in the top of a parachute. *Why:* These words are used all through the unit. A strong answer could give an example of each.
+6. (draw) Draw a box floating still in a bucket. Add an arrow for each force on it, and label the arrows.  
+   **Answer:** A box on a water line with two arrows of the same length: gravity pointing down and upthrust pointing up.. *Why:* A strong drawing has only two arrows, and they are equal, because the box is still. An arrow pointing sideways shows a mix-up, because nothing pushes a still floating box sideways.
+7. (mcq) On a table, a loaded box needs 6 spoons of pull to start. With double the load, about how many?  
+   Options: 3 spoons / 6 spoons / 12 spoons / 36 spoons  
+   **Answer:** 12 spoons. *Why:* A box that is twice as heavy presses twice as hard on the table. So the friction is about twice as big. 6 × 2 = 12.
+8. (order) Put the steps of a fair parachute test in order.  
+   **Answer:** ['Build one parachute and mark the drop line', 'Guess what the hole will do, and say why', 'Drop it 5 times before and after cutting the hole', 'Find the means and compare them']. *Why:* First set up, then predict, then test with repeats, then work out the results.
+9. (truefalse) True or false: a stone lying on the bed of a pond gets no upthrust.  
+   **Answer:** False. *Why:* False. The stone displaces water, so the water pushes up on it. The upthrust is smaller than the stone's weight, so the stone stays down.
+10. (write) In Three Bottles, an empty bottle and a bottle of coins got the same upthrust. Explain why.  
+   **Answer:** The two bottles are the same size, so they displace the same amount of water. Upthrust equals the weight of the water displaced. So it is the same for both.. *Why:* A strong answer says that upthrust depends on the water displaced, not on the weight of the thing. It may add that the empty bottle rises because its weight is so small.
+11. (fill) When the forces on a thing are balanced, its speed does not ____.  
+   **Answer:** ['change']. *Why:* Balanced forces cancel. A still thing stays still, and a moving thing keeps the same speed.
+12. (odd) Three of these make drag bigger. Which one makes it smaller?  
+   Options: Going faster / A wider front / A streamlined shape / Moving from air into water  
+   **Answer:** 2. *Why:* More speed, a wider front and a thicker fluid all make drag bigger. A streamlined shape lets the fluid close up smoothly behind, so the drag is smaller.
+13. (label) On a drawing of a parachute, label the canopy, the vent, the threads and the load.  
+   **Answer:** ['Canopy: the wide sheet', 'Vent: the small hole in the top', 'Threads: the lines from the canopy to the load', 'Load: what the parachute carries']. *Why:* A strong answer can also say what each part does. The canopy gives a large front area, and the vent lets a little air out through the middle.
+14. (mcq) A ball and a pancake of equal dough sink in water. Which one sinks more slowly?  
+   Options: The ball / The pancake / They sink together / The heavier one  
+   **Answer:** The pancake. *Why:* The pancake has a much bigger front area, so it meets more water resistance at the same speed. The two weigh the same, so 'the heavier one' cannot be right.
+15. (write) A swimmer wears a tight cap and keeps her body straight. Say how each one lowers water resistance.  
+   **Answer:** The cap makes her head smooth, so water flows past it easily. A straight body has a small front area and lets the water close up behind her.. *Why:* A strong answer names front area or shape for the straight body, and smoothness for the cap.
+### Balanced forces, upthrust and fair tests (stretch) (stretch, 15 questions)
+1. (mcq) A skydiver falls at a steady 200 kilometres an hour. How big is the air resistance on her?  
+   Options: Bigger than her weight / Equal to her weight / Smaller than her weight / Zero  
+   **Answer:** Equal to her weight. *Why:* A steady speed means balanced forces. Air resistance points up and gravity points down, so the two are equal. Choosing 'smaller' usually means thinking that a falling thing must have a bigger force downward.
+2. (write) In the Bag of Water, the rubber band went loose when the bag was under water. Explain why.  
+   **Answer:** The bag displaced its own weight of water. So the upthrust on the bag equalled its weight, and nothing was left for the band to hold.. *Why:* A strong answer says that the water around the bag pushes up on it. That push is as big as the weight of the water displaced. It does not say that the water in the bag became lighter.
+3. (truefalse) True or false: at twice the speed, drag is about twice as big.  
+   **Answer:** False. *Why:* False. At twice the speed, drag is about four times as big. That is why going fast costs so much energy.
+4. (count) Five parachute drops land 20, 35, 10, 25 and 30 centimetres from the X. What is the mean, in centimetres?  
+   **Answer:** 24. *Why:* 20 + 35 + 10 + 25 + 30 = 120. Then 120 ÷ 5 = 24. The mean distance is 24 centimetres.
+5. (mcq) One paper clip pulls a loaded floating box. The box starts very slowly. What makes the start slow?  
+   Options: Water resistance on the still box / The mass of the loaded box / Friction from the water / Upthrust pushing backward  
+   **Answer:** The mass of the loaded box. *Why:* A still box has no water resistance, and water has no friction to hold it. The box starts slowly because a big mass takes time to speed up under a small pull.
+6. (draw) Draw a dough ball sinking at a steady speed. Show three forces with arrows of the right lengths.  
+   **Answer:** A ball with gravity pointing down, and upthrust and water resistance pointing up. The two up arrows together are as long as the down arrow.. *Why:* A strong drawing makes the upward arrows add up to the downward one, because the speed is steady. A gravity arrow that is longer than both together would mean the ball is still speeding up.
+7. (perspective) Three people talk about the hole in the top of a parachute.  
+   **Answer:** A strong answer uses the fall times and landing distances from A Hole in the Parachute. It chooses one view and gives a fair point from another. For example, the child is right that a very large hole speeds up the fall.. *Why:* Each view holds part of the truth. A hole does let air out. A small hole costs very little speed. And how much it costs depends on its size, which only a test can show.
+8. (order) Put these shapes in order of drag, from least to most. They have the same front area and speed.  
+   **Answer:** ['A fish shape', 'A ball', 'A flat plate']. *Why:* The fish shape lets the fluid close up smoothly behind it. The ball leaves a wake, and the flat plate leaves the widest wake of all.
+9. (fill) The upthrust on a thing equals the weight of the water it ____.  
+   **Answer:** ['displaces', 'displaced', 'pushes aside']. *Why:* This is Archimedes' principle. The water around a thing pushes up as hard as it pushed on the water that was there before.
+10. (match) Match each place to the way a spacecraft can slow down to land there.  
+   **Answer:** The Moon, with no air → rocket engines only; Mars, with very thin air → a parachute and then rockets; Titan, with thick air → parachutes alone; Deep space, far from any world → nothing slows it, so it keeps its speed. *Why:* A parachute needs air to push against. No air means rockets only. Very thin air means a parachute and rockets. Thick air means parachutes can do the work.
+11. (mcq) Two mean fall times, timed by hand, are 1.9 and 2.0 seconds. What can you say?  
+   Options: The second parachute is slower / The first parachute is slower / The gap is too small to trust / The stopwatch is broken  
+   **Answer:** The gap is too small to trust. *Why:* A hand on a stopwatch is off by about 0.2 seconds. A gap of 0.1 seconds is smaller than that, so the two parachutes may be the same.
+12. (odd) Three of these get an upthrust. Which one does not?  
+   Options: A boat on a lake / A stone on a pond bed / A helium balloon in air / A hammer falling on the Moon  
+   **Answer:** 3. *Why:* A boat and a stone are in water, and a balloon is in air, so each displaces a fluid. The Moon has no air or water, so nothing pushes up on the hammer.
+13. (label) On a drawing of a fish, label the rounded front, the widest part and the narrowing tail.  
+   **Answer:** ['Rounded front: the head', 'Widest part: about one third of the way back', 'Narrowing tail: the long back half of the body']. *Why:* A strong answer adds that the long, narrowing tail lets the water close up smoothly, so the wake is small.
+14. (write) A full newspaper sheet stays on your chest at a walk. Folded in four, it needs a run. Why?  
+   **Answer:** The folded sheet has the same weight and a quarter of the front area. So the air must push much harder on each part of it. That needs a higher speed.. *Why:* A strong answer says that the weight is unchanged, the front area is smaller, and air resistance grows with speed.
+15. (truefalse) True or false: a parachute falling at a steady speed has more air resistance than weight.  
+   **Answer:** False. *Why:* False. At a steady speed the two are equal. If air resistance stayed bigger than the weight, the parachute would slow to a stop and then rise.
+### Reasoning with forces (challenge) (challenge, 15 questions)
+1. (write) One paper clip moved a heavy floating box in Table or Tub. Is a heavy thing always hard to move? Explain.  
+   **Answer:** On the table, the heavier box needed a bigger pull, because friction grew with the weight. Afloat, one paper clip moved the box with either load. So the weight was not what held the box. Friction was.. *Why:* A strong answer uses both parts of the test, and names friction as the cause on the table. It may add that a big mass still makes the start slow.
+2. (perspective) Two people argue about whether air resistance is a kind of friction.  
+   **Answer:** A strong answer picks a side and gives two pieces of evidence. For the book: both act against movement and make heat. For the engineer: drag is zero at rest, grows with speed and does not grow with weight. It also grants the other side a point.. *Why:* This is a real disagreement about a name. The facts are agreed. What differs is which likeness each person thinks matters most.
+3. (mcq) A boat's engine pushes with 300 newtons, and the boat keeps a steady speed. How big is the water resistance?  
+   Options: 0 newtons / Less than 300 newtons / 300 newtons / More than 300 newtons  
+   **Answer:** 300 newtons. *Why:* A steady speed means balanced forces, so the resistance equals the push. Choosing 'less than 300' usually means thinking that a moving thing needs a bigger force forward.
+4. (write) A steel ball and a table tennis ball of equal size fall from a tower. Which lands first? Why?  
+   **Answer:** The steel ball lands first. At the same speed both meet the same air resistance, because they have the same size and shape. That resistance soon balances the light ball's weight. The steel ball must go much faster before its weight is balanced.. *Why:* A strong answer says that air resistance depends on size, shape and speed, not on weight. It then compares that resistance with each ball's weight.
+5. (truefalse) True or false: pushing a closed bottle deeper under water makes the upthrust on it bigger.  
+   **Answer:** False. *Why:* False. Once the bottle is fully under, it displaces the same water at any depth. The water presses harder on its top and on its underside by the same amount.
+6. (count) A canopy is 30 centimetres by 30 centimetres. A hole is 10 by 10. How many square centimetres are left?  
+   **Answer:** 800. *Why:* 30 × 30 = 900 and 10 × 10 = 100. Then 900 − 100 = 800 square centimetres.
+7. (mcq) A cyclist doubles her speed. About how many times as big is the air resistance now?  
+   Options: 2 times / 3 times / 4 times / 8 times  
+   **Answer:** 4 times. *Why:* At twice the speed, drag is about four times as big. She meets twice as much air each second, and she hits it twice as fast.
+8. (fill) A space capsule gets hot mainly because it ____ the air in front of it.  
+   **Answer:** ['squashes', 'compresses', 'squeezes']. *Why:* The capsule squashes the air in front of it very hard and very fast, and squashed air gets hot. Rubbing along the sides adds only a little heat.
+9. (sort) Sort each change: does it make a parachute's steady fall slower, or faster?  
+   **Answer:** a bigger canopy → Slower fall; a heavier load → Faster fall; a very large hole → Faster fall; thinner air → Faster fall; a lighter load → Slower fall. *Why:* A bigger canopy or a lighter load balances at a lower speed. A heavier load, a very large hole or thinner air needs a higher speed before air resistance equals the weight.
+10. (draw) Draw a parachute in the first second after it opens, while it is still slowing. Show both forces.  
+   **Answer:** A parachute with gravity pointing down and air resistance pointing up. The air resistance arrow is the longer one.. *Why:* A strong drawing makes the upward arrow longer, because the parachute is slowing down. Equal arrows would mean a steady speed.
+11. (order) A coin is dropped into deep water. Put what happens in order.  
+   **Answer:** ['Gravity is bigger than upthrust, so the coin speeds up', 'Water resistance grows as the coin gets faster', 'The upward forces become equal to gravity', 'The coin sinks at a steady speed']. *Why:* Resistance grows with speed until the forces balance. After that the speed stays the same.
+12. (write) A fish and a dolphin are not close relatives, yet they have nearly the same shape. Suggest why.  
+   **Answer:** Both move fast through water, and water resistance is the same for any body. Over many generations, the animals with shapes of lower drag caught more food and escaped more often. So both ended up with a streamlined shape.. *Why:* A strong answer joins the shape to water resistance, and says that the same water acts on both animals.
+13. (match) Match each thing to the reason it stays where it is.  
+   **Answer:** A boat tied to a jetty → the rope pulls against wind and current; A book on a tilted desk → friction matches the pull down the slope; A fish hanging in a pond → upthrust equals her weight; A coin on a pond bed → the normal force and upthrust equal its weight. *Why:* Only a solid grip or a rope can hold a thing against a sideways push. In water, upthrust can hold a thing up, but it cannot stop the thing drifting.
+14. (odd) Three of these are still uncertain. Which one is settled?  
+   Options: Exactly how turbulent water swirls / How much a dolphin's skin lowers drag / That upthrust equals the weight displaced / How much shark skin lowers drag  
+   **Answer:** 2. *Why:* Archimedes' principle has been tested for more than two thousand years. Turbulence and the skins of dolphins and sharks are still being studied.
+15. (write) Design a test: do longer threads make a parachute fall more slowly? Say what you keep the same.  
+   **Answer:** Make two parachutes that differ only in thread length, such as 15 and 45 centimetres. Keep the canopy, the load, the drop height and the person the same. Drop each 5 times and compare the mean times.. *Why:* A strong answer changes only the thread length, repeats each drop and compares means. It may add that a gap under 0.2 seconds is too small to trust.
+
+## Videos
+- **A feather and a heavy ball dropped together in a room with the air pumped out** (, 5 min) id `to find`: To see that air resistance alone makes a feather fall slowly. With the air removed, the feather and the ball land together. *Check:* No address yet. Find a clip from a space agency or a science broadcaster that shows the drop first in air and then with the air pumped out. Check that it says the air was removed, not gravity.
+- **The parachutes of a crew capsule opening one after another** (, 4 min) id `to find`: To see small parachutes open first and large ones after them, and the vent in the top of each canopy. *Check:* No address yet. Find a parachute drop test of a crew capsule from ISRO or another space agency. Check that the clip shows the small parachutes pulling out the main ones, and that the capsule slows to a steady fall.
+- **Tugboats turning and stopping a large ship in a harbour** (, 4 min) id `to find`: To see a small tug slowly move a ship thousands of times heavier. Also to see how long the ship takes to stop. *Check:* No address yet. Find a harbour or port clip, speeded up if possible. Check that it shows a tug pushing or pulling the ship sideways, and that it does not claim the water holds the ship in place.
+
+## Quiz
+1. (mcq) Which of these forces always points up?  
+   Options: Friction / Air resistance / Upthrust / Water resistance  
+   **Answer:** Upthrust. *Why:* Upthrust is the upward push of water or air. The other three point against a movement or a slide, whichever way that is.
+2. (mcq) A loaded box floats still in a tub. How much water resistance acts on it?  
+   Options: None / A little / As much as its weight / Twice its weight  
+   **Answer:** None. *Why:* Water resistance acts only on a thing that moves through the water. Upthrust is the force that equals the weight of the box.
+3. (mcq) On a table, what happens to the pull needed to start a box when its load is doubled?  
+   Options: It stays the same / It about doubles / It halves / It becomes zero  
+   **Answer:** It about doubles. *Why:* Friction grows with the weight pressing the surfaces together. Twice the load gives about twice the friction to overcome.
+4. (mcq) Which change makes the air resistance on a cyclist smaller?  
+   Options: Riding faster / Sitting upright / Bending low over the handlebar / Wearing a loose jacket  
+   **Answer:** Bending low over the handlebar. *Why:* Bending low makes the front area smaller. Riding faster, sitting upright and loose clothes all make air resistance bigger.
+5. (mcq) Which shape has the least drag in water at the same speed and front area?  
+   Options: A flat plate, face on / A ball / A cube / A fish shape  
+   **Answer:** A fish shape. *Why:* The fish shape is rounded in front and narrows behind, so water closes up smoothly and the wake is small.
+6. (mcq) What does the upthrust on a thing under water depend on?  
+   Options: How heavy the thing is / How much water the thing displaces / What the thing is made of / How deep the thing is  
+   **Answer:** How much water the thing displaces. *Why:* Upthrust equals the weight of the water displaced. Choosing 'how heavy' usually comes from seeing light things rise. They rise because their weight is smaller than the upthrust.
+7. (mcq) A bottle weighs less than the water it displaces. What does it do when let go under water?  
+   Options: Rises / Sinks / Hangs still / Spins  
+   **Answer:** Rises. *Why:* The upthrust equals the weight of the water displaced, which is more than the bottle's weight. The forces are unbalanced upward, so the bottle rises.
+8. (mcq) A coin sinks at a steady speed. What is true of the forces on it?  
+   Options: They are balanced / Gravity is winning / Upthrust is winning / There are none  
+   **Answer:** They are balanced. *Why:* A steady speed means balanced forces. Upthrust and water resistance together equal gravity.
+9. (mcq) Mean landing distances are 30, 31 and 29 centimetres. Single drops varied by 20. What can you say?  
+   Options: The second design is worst / The third design is best / The designs are too close to tell apart / The test was unfair  
+   **Answer:** The designs are too close to tell apart. *Why:* The means differ by only 2 centimetres, and single drops vary by ten times that. So the test cannot tell these designs apart.
+10. (mcq) What does a small vent in the top of a parachute mainly do?  
+   Options: Makes the fall much faster / Lets air out, so the canopy swings less / Makes the load lighter / Stops the canopy opening  
+   **Answer:** Lets air out, so the canopy swings less. *Why:* Air caught under the canopy leaves through the vent and not under the edges. The canopy swings less, and the fall is hardly faster.
+11. (mcq) The same parachute carries a heavier load. What happens to its steady falling speed?  
+   Options: It gets faster / It gets slower / It stays the same / It becomes zero  
+   **Answer:** It gets faster. *Why:* A heavier load needs more air resistance to balance it. The same canopy gives more air resistance only at a higher speed.
+12. (mcq) Which of these can nobody yet work out exactly?  
+   Options: How turbulent water will swirl / Whether drag grows with speed / Whether upthrust points up / Whether the Moon has air  
+   **Answer:** How turbulent water will swirl. *Why:* The equations for turbulent flow have never been solved exactly. The other three are settled.
+
+## Applications
+- Parachutes for people, for supplies dropped from aeroplanes and for space capsules. The canopy is sized to the load, and it has a vent.
+- Ship designers pull model hulls along long tanks of water to measure their water resistance before a ship is built.
+- Racing cyclists bend low and wear smooth clothes and long-tailed helmets. Fast trains such as the Vande Bharat have a sloping nose.
+- Cargo ships often sail more slowly than they could. A small cut in speed gives a large cut in water resistance and in fuel.
+- Ships and boats are held by ropes and anchors, and moved in harbour by tugs. Water alone cannot hold a ship in place.
+- Submarines take in water to sink and push it out to rise. A life jacket adds a lot of size and little weight, so it adds upthrust.
+- Heat shields protect space capsules from the white-hot air squashed in front of them.
+
+## Spotted around us
+- A pigeon fanning her tail and spreading her wings in the last second before she lands on a ledge.
+- A shuttlecock that leaves the racket very fast, slows quickly and drops almost straight down.
+- A ferry tied to the jetty with thick ropes at Fort Kochi or at Mumbai's ferry wharf.
+- Silk cotton fluff drifting slowly down a street in summer, each tuft carrying one seed.
+- A plastic or brass kudam floating on the water of a well until it tips, fills and sinks.
+- The long sloping nose of a Vande Bharat train at a station platform.
+- The V-shaped wake behind a duck on a pond, or behind a fishing boat leaving a harbour.
+- A round coracle carrying people across the Kaveri at Hogenakkal. A round boat meets more water resistance than a long, narrow one, so a coracle is slow.
+
+## Open questions
+- **Can the equations for moving air and water always be solved?** They were written about two hundred years ago. For swirling, turbulent flow nobody has found exact answers, or proved that exact answers always exist.
+- **Exactly when and why does smooth flow break into swirls?** Osborne Reynolds studied this in pipes in 1883. Scientists can now predict it for a simple pipe, but not for most real shapes.
+- **How much do the skins of dolphins and sharks lower water resistance?** Some tests of surfaces copied from shark skin show small savings, and others show none. Living skin is hard to test at swimming speed.
+- **Do fish in a school save energy by swimming in each other's wakes?** Some measurements find a saving and some do not. It depends on where each fish swims, and that is hard to follow in a large school.
+- **Can a heavy crewed spacecraft be landed on Mars?** The air on Mars is too thin for parachutes alone and thick enough to cause great heating. Engineers are still testing ways to slow a heavy craft there.
+
+## Questions to ask kids
+- When you run, where on your body do you feel the air push?
+- Why do you think boats are always tied up, even on a calm day?
+- Which is harder: walking through waist-deep water, or running on the beach? Why?
+- What shape is a raindrop as it falls? How could we find out?
+- If you stopped pedalling on a flat road, which forces would stop your cycle?
+- Why does a shuttlecock always fly with its cork end first?
+- Would a parachute work on the Moon? Why not?
+- Where does the push go when you stop stirring a tumbler of buttermilk?
+
+## Jokes
+- Why did the parachute have a hole in its head? *To let off a little air and stop swinging about.*
+- What did the water say to the speedboat? *Slow down and I will stop pushing.*
+- Why did the dough pancake come last in the sinking race? *It took the wide view of things.*
+- What did the paper clip say to the floating box? *Come along. No pressure.*
+- Why don't fish need brakes? *The water does the braking for them.*
+- What did the skydiver say at terminal speed? *I am not speeding. I am balanced.*
+- Why was the bag of water so relaxed in the bucket? *It had nothing weighing on it.*
+- Why did the pigeon spread her tail before landing? *She wanted to brake, not break.*
+- Why is a floating boat easy to win over? *One small push and it comes round.*
+
+## Connected maths
+- In Table or Tub, three runs on the table took 5, 7 and 6 spoons of rice. What is the mean? How many grams is that, at 12 grams a spoon? **The mean is 6 spoons, which is 72 grams.**. Add the three runs: 5 + 7 + 6 = 18. Divide by the number of runs: 18 ÷ 3 = 6 spoons. Each spoon is about 12 grams, so 6 × 12 = 72 grams. (queues `math.data.reading-data.L5`)
+- On the table, a loaded box needed a pull of 72 grams to start. Afloat, it needed one paper clip of half a gram. How many times as big was the pull on the table? **144 times as big.**. Divide the bigger pull by the smaller one. 72 ÷ 0.5 is the same as 72 × 2, which is 144. So friction on the table held the box 144 times as hard as anything held it on the water. (queues `math.fractions.ratio-and-proportion.L5`)
+- A parachute canopy is a square 30 centimetres wide. A small vent is a square 2 centimetres wide, and a large one is 10 centimetres wide. What fraction of the canopy does each hole remove? **The small hole removes 1 part in 225. The large hole removes 1 part in 9.**. The canopy is 30 × 30 = 900 square centimetres. The small hole is 2 × 2 = 4, and 4 out of 900 is 1 out of 225. The large hole is 10 × 10 = 100, and 100 out of 900 is 1 out of 9. So the small hole changes the front area very little. (queues `math.area-perimeter.area.L5`)
+- Air resistance is about 4 times as big when the speed doubles. A cyclist meets 10 newtons at 15 kilometres an hour. About how much does she meet at 30, and at 60? **About 40 newtons at 30 kilometres an hour, and about 160 newtons at 60.**. From 15 to 30 the speed doubles, so the resistance is 10 × 4 = 40 newtons. From 30 to 60 it doubles again, so 40 × 4 = 160 newtons. Four times the speed gives sixteen times the resistance. (queues `math.patterns.number-patterns.L5`)
+- The graph shows a jumper's speed in Open It in Time. On which turn did the speed stop growing? On which turn did the parachute open? What was the landing speed? **The speed stopped growing on turn 6, at 9 beans. The parachute opened on turn 8. The landing speed was 4 beans.**. The line climbs to 9 on turn 6 and stays level on turn 7. So 9 is the terminal speed with the parachute closed. On turn 8 the line drops from 9 to 6, so the parachute opened then. The last point, on turn 10, is at 4 beans. (queues `math.data.line-graphs.L5`)
+- A box 20 centimetres long and 10 centimetres wide floats with a load. Box and load together have a mass of 540 grams. One cubic centimetre of water has a mass of 1 gram. How deep does the box sit? **2.7 centimetres deep.**. A floating box displaces its own mass of water, so it displaces 540 cubic centimetres. The base of the box is 20 × 10 = 200 square centimetres. Depth is volume divided by base area: 540 ÷ 200 = 2.7 centimetres. (queues `math.area-perimeter.volume.L5`)
+- A skydiver falls 3,300 metres at 55 metres each second with her parachute closed. Then she falls 1,100 metres at 5.5 metres each second with it open. How long does each part take, and how long is the whole jump? **60 seconds, then 200 seconds. The whole jump takes 260 seconds, which is 4 minutes and 20 seconds.**. Time is distance divided by speed. 3,300 ÷ 55 = 60 seconds. 1,100 ÷ 5.5 = 200 seconds. Together that is 260 seconds. 240 seconds make 4 minutes, and 20 seconds are left over. The short last part takes most of the time. A speed of 55 metres each second is about 200 kilometres an hour. (queues `math.time.duration.L5`)
+
+## Song
+Name the Force, Draw the Arrow (sci.forces.L5): Topic-level song for Forces L5
+
+## Links
+- [PhET Buoyancy](https://phet.colorado.edu/en/simulations/buoyancy) · simulation: A free online model. Lower blocks into water, change their mass and size, and watch the upthrust and gravity arrows.
+- [PhET Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online model. Push a crate with and without friction, and see that balanced forces mean a steady speed.
+- [PhET Under Pressure](https://phet.colorado.edu/en/simulations/under-pressure) · simulation: A free online model. Lower a pressure gauge into a tank and see that deeper water presses harder.
+- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with engines, aircraft and hands-on exhibits about forces and fluids.
+- [INS Kursura Submarine Museum]() · place · Visakhapatnam: A real submarine on the beach that you can walk through. Look for the tanks that took in water to dive.
+- [Science City](https://sciencecitykolkata.org.in) · place · Kolkata: A large science centre with exhibits on motion, water and air.
+
+## Things to buy
+- [A small box of steel paper clips](https://www.amazon.in/s?k=steel+paper+clips) (material): One to five clips are the tiny weights in Table or Tub. Small safety pins from the house work just as well. Used in e1. 
+- [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): Clay keeps its shape in water better than dough. Stiff atta dough from the kitchen also works, so this is only if you want it. Used in e2, c1, c2. 
+
+## Warm-up
+- Which force from water acts on a boat that is standing still? → Upthrust. Water resistance acts only when the boat moves.
+- What one word means both air resistance and water resistance? → Drag.
+- A thing moves at a steady speed. Are the forces on it balanced or unbalanced? → Balanced.
+- What happens to air resistance when you go twice as fast? → It becomes about four times as big.
+- What does the upthrust on a thing equal? → The weight of the water or air that the thing displaces.
+- Why does a parachute have a small hole in the top? → To let air out through the middle, so the canopy swings less.
+- Which shape has less drag: a flat plate or a fish shape? → A fish shape. It is rounded in front and narrows behind.
+- Can water hold a floating boat in one place? → No. Even a small push moves it, so boats are tied up or anchored.
+
+## Plan
+- Start options: intro, a1, e1, story, g1, big_questions, cards
+- Default order: intro → a1 → summary → terms → e1 → story → e2 → explanations → a2 → g1 → a4 → ws-core → e3 → videos → a3 → how_we_found_out → agreed → challenging → g2 → a5 → a6 → ws-stretch → c1 → p1 → big_questions → c2 → ws-challenge → open_questions → roots → quiz
+- Core: a1, e1, e2, a4, e3, ws-core
+
+## Sources
+- Founder's notes in ideas/by_topic/forces-and-movement.md, 'Concept activities: Buoyant Force' and 'Drag & Lift': float objects to test buoyancy, run with an umbrella to feel drag, make a simple parachute, and the thought 'resistance and support come from the same medium; motion shapes the forces we feel'. Used in Three Bottles, Newspaper on Your Chest, A Hole in the Parachute, the Parachute Trial and the roots.
+- Founder's notebook items phy:179 (buoyant force) and phy:180 (drag, lift), and the Air Resistance activities 'drop crumpled and normal paper' and 'make a paper parachute'.
+- Cambridge Primary Science Learner's Book 5, Unit 5.3 'Friction, air resistance, water resistance and upthrust', for coverage only: the four forces, force diagrams, the race of clay shapes through water, and the fair test of two parachutes with repeats and a mean.
+- The finished units sci.forces.friction.L5, sci.gravity.weight-and-mass.L5, sci.forces.flight.L3 and L4, sci.gravity.falling.L3 and L4 and sci.states.floating-and-sinking.L2 and L4. Their experiments and stories are not repeated. This unit's parachute test changes the vent, which none of them tests.
+- Archimedes, On Floating Bodies, about 250 BCE (the upthrust on a body equals the weight of the fluid it displaces)
+- Stevin, S., De Beghinselen des Waterwichts, 1586 (the argument that water at rest holds up any part of itself)
+- Newton, I., Philosophiae Naturalis Principia Mathematica, 1687 (the first law of motion, and Book II on resistance in fluids)
+- Reynolds, O., 'An experimental investigation of the circumstances which determine whether the motion of water shall be direct or sinuous', Philosophical Transactions of the Royal Society 174, 1883
+- Accounts of André-Jacques Garnerin's parachute descent over Paris on 22 October 1797, of Jérôme Lalande's suggestion of a vent, and of Jeanne-Geneviève Labrosse's descent on 12 October 1799
+- Clay Mathematics Institute, Millennium Prize Problems, 2000: the Navier-Stokes existence and smoothness problem
+- Cummins, C. and others, 'A separated vortex ring underlies the flight of the dandelion', Nature 562, 2018 (a seed parachute made mostly of gaps)
+- Fish, F. E. and others, 'Measurement of hydrodynamic force generation by swimming dolphins using bubble DPIV', Journal of Experimental Biology 217, 2014
+- Dean, B. and Bhushan, B., 'Shark-skin surfaces for fluid-drag reduction in turbulent flow: a review', Philosophical Transactions of the Royal Society A 368, 2010
+- ISRO, Chandrayaan-3 mission pages (soft landing on the Moon on 23 August 2023 with rocket engines) and Gaganyaan parachute tests
+- NASA, Mars 2020 Perseverance landing press kit, 2021 (a parachute 21.5 metres wide, then rockets), and ESA, Huygens probe descent to Titan, 14 January 2005
+- Tao Te Ching, chapter 78
+- Zhuangzi, chapter 19 (Mastering Life), the swimmer at Lüliang
