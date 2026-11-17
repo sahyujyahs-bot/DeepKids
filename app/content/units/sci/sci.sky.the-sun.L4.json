@@ -208,7 +208,7 @@
       "concept": "The sunspot cycle: busy years and quiet years",
       "status": "defined",
       "definition": "The number of sunspots rises and falls in a cycle of about 11 years.",
-      "description": "In 1843 Heinrich Schwabe, a German pharmacist who loved astronomy, announced that he had seen the number of sunspots rise and fall in a rhythm of about ten years. He had drawn the Sun on every clear day for about 17 years. Today we call it the solar cycle. The average is about 11 years, but a cycle can be shorter or longer. The Sun's magnetic field twists up and tangles over the years. At the busiest time, the solar maximum, there are many spots, flares and eruptions. At the quietest, the solar minimum, there may be days with no spot. Later the Sun's whole magnetic field flips, so that north and south swap, and a full magnetic cycle takes about 22 years. Scientists still cannot predict exactly how strong the next cycle will be.",
+      "description": "In 1843 Heinrich Schwabe, a German pharmacist who loved astronomy, announced that he had seen the number of sunspots rise and fall in a rhythm of about ten years. He had drawn the Sun on every clear day for about 17 years. In 1904 Annie Maunder and her husband Walter Maunder drew the spots by latitude through the cycle, in what is called the butterfly diagram. Today we call it the solar cycle. The average is about 11 years, but a cycle can be shorter or longer. The Sun's magnetic field twists up and tangles over the years. At the busiest time, the solar maximum, there are many spots, flares and eruptions. At the quietest, the solar minimum, there may be days with no spot. Later the Sun's whole magnetic field flips, so that north and south swap, and a full magnetic cycle takes about 22 years. Scientists still cannot predict exactly how strong the next cycle will be.",
       "examples": [
         "Kodaikanal Solar Observatory in Tamil Nadu has kept pictures and drawings of the Sun for more than a hundred years, which lets scientists study many cycles.",
         "More flares and eruptions mean more chance of space weather around the solar maximum."
@@ -3369,7 +3369,7 @@
     ],
     "science": [
       "Galileo Galilei, Istoria e dimostrazioni intorno alle macchie solari (Letters on Sunspots), 1613; Christoph Scheiner, Tres epistolae de maculis solaribus, 1612",
-      "Heinrich Schwabe, Astronomische Nachrichten, 1843 (the sunspot cycle)",
+      "Heinrich Schwabe, Astronomische Nachrichten, 1843 (the sunspot cycle); Annie Maunder and Walter Maunder, the butterfly diagram of sunspot latitudes, 1904 (Wikipedia, Annie Maunder; Annie was not named on the paper, which her husband published)",
       "Joseph von Fraunhofer, dark lines in the Sun's spectrum, 1814; Kirchhoff and Bunsen, 1859 to 1860 (sodium lines in the Sun)",
       "Richard Carrington, Monthly Notices of the Royal Astronomical Society, 1859 (the white-light flare)",
       "Ludwig Biermann, Zeitschrift fur Astrophysik, 1951 (comet tails and corpuscular radiation)",

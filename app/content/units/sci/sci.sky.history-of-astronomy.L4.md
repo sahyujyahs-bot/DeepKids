@@ -1,9 +1,9 @@
 # History of astronomy: how people changed their minds about who moves, the Earth or the sky
 `sci.sky.history-of-astronomy.L4`
 
-**Summary.** Every sky-watcher in history saw the same thing: the Sun rises, crosses the sky and sets, while the ground stays still. Yet in the year 499, Aryabhata wrote that the ground is what turns. How could anyone tell? Your child sits in a spinning chair with eyes shut and finds out how little a steady turn can be felt. She lights a ball with a lamp to repeat what Galileo saw when he pointed a telescope at Venus. She tests how finely she can measure an angle, as Tycho Brahe did, and meets the small gap of 8 arcminutes that made Kepler give up perfect circles. Along the way come the giant stone dials of Jaipur, the first Indian ideas about a Sun at the centre, and why a sundial and a phone never quite agree.
+**Summary.** Every sky-watcher in history saw the same thing: the Sun rises, crosses the sky and sets, while the ground stays still. Yet in the year 499, Aryabhata wrote that the ground is what turns. How could anyone tell? Your child sits in a spinning chair with eyes shut and finds out how little a steady turn can be felt. She lights a ball with a lamp to repeat what Galileo saw when he pointed a telescope at Venus. She tests how finely she can measure an angle, as Tycho Brahe did, and meets the gap of 8 arcminutes, a very small angle, that made Kepler give up perfect circles. Along the way come the giant stone dials of Jaipur, the first Indian ideas about a Sun at the centre, and why a sundial and a phone never quite agree.
 
-**Intro.** *Close your eyes in a smooth, steadily turning chair. Can you tell that you are turning? Open your eyes, and the room seems to spin round you. So who is really turning, you or the room? And what does that have to do with the Sun and the Earth?* For thousands of years, people looked up and saw the Sun and the stars move round them. A few said the Earth must be the one that turns. Nobody could feel it. In this unit you sit in a spinning chair and try to feel a steady turn. You make a lamp and a ball show the phases of Venus. You build a quadrant and find how exactly you can measure an angle. You draw an ellipse with string and pins. And you learn how an 8-arcminute gap in a table of numbers changed astronomy.
+**Intro.** *Close your eyes in a smooth, steadily turning chair. Can you tell that you are turning? Open your eyes, and the room seems to spin round you. So who is really turning, you or the room? And what does that have to do with the Sun and the Earth?* For thousands of years, people looked up and saw the Sun and the stars move round them. A few said the Earth must be the one that turns. Nobody could feel it. In this unit you sit in a spinning chair and try to feel a steady turn. You make a lamp and a ball show the phases of Venus. You build a quadrant and find how exactly you can measure an angle. You draw an ellipse with string and pins. And you learn how a gap of 8 arcminutes, a very small angle, in a table of numbers changed astronomy.
 
 ## Learning outcomes
 0. I can explain why a steady turn or a steady movement cannot be felt, and why the Sun seems to go round us even though the Earth is what turns.
@@ -59,24 +59,24 @@ In a smooth aeroplane, flying at 800 kilometres an hour, you can pour a cup of t
 ### A Sun at the centre: Nilakantha and Copernicus · *defined*
 **Definition:** A heliocentric model puts the Sun at the centre of the planets' paths. In Kerala about 1500, and in Poland in 1543, astronomers made models in which the planets go round the Sun.
 
-Nilakantha Somayaji, an astronomer of Kerala, wrote a book called the Tantrasangraha about 1500. In his model, Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, and the Sun goes round the Earth. This explained the odd behaviour of the planets in a neat way. In 1543, the Polish astronomer Nicolaus Copernicus went further. In his book he put the Sun at the centre and made the Earth a planet that spins and goes round it. Copernicus still used circles, and still needed small extra circles to match the sky. At first his model was no more accurate than Ptolemy's. It won people over slowly, because it explained why planets loop. The loop is Earth overtaking a slower, outer planet, as a car overtakes a lorry. And the Sun-centred model made the planets' sizes and orders follow in a simple way.
-- e.g. Tycho Brahe later made a middle model, in which the planets go round the Sun and the Sun goes round the Earth. Nilakantha's is similar.
+Nilakantha Somayaji, an astronomer of Kerala, wrote a book called the Tantrasangraha about 1500. In his model, Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, and the Sun goes round the Earth. This explained the odd behaviour of the planets in a neat way. In 1543, the Polish astronomer Nicolaus Copernicus went further. In his book he put the Sun at the centre and made the Earth a planet that spins and goes round it. Copernicus still used circles, and still needed small extra circles to match the sky. At first his model was no more accurate than Ptolemy's. It won people over slowly, because it explained why planets loop. The loop is the Earth overtaking a slower, outer planet, as a car overtakes a lorry. The Sun-centred model also gave the order of the planets, and the sizes of their paths, in a simple way.
+- e.g. Tycho Brahe later made a middle model, in which the planets go round the Sun and the Sun goes round the Earth. Nilakantha's model is similar.
 - e.g. The loops of Mars seen from the faster Earth are like a lorry that seems to slide backwards while you overtake it.
 - e.g. Copernicus kept his idea to himself for years, and his book appeared in print only in 1543, the year he died.
 ### Tycho, Kepler and the end of perfect circles · *defined*
 **Definition:** Kepler used Tycho Brahe's careful readings of Mars to show that planets move on ellipses, not on circles.
 
-Tycho Brahe, a Danish nobleman, built the finest instruments of his day and used them for 20 years. His readings of planets were accurate to about one arcminute, and no telescope had yet been invented. After he died in 1601, his assistant Johannes Kepler worked on the readings for Mars. Kepler tried many circles. At last he found one that matched Tycho's readings to within 8 arcminutes. But Tycho's readings were never wrong by that much. Kepler wrote that he could not ignore 8 arcminutes. He threw out the circle. In 1609 he published his discovery: Mars goes round the Sun on an ellipse, with the Sun at one focus. Later he found that a planet moves faster when it is closer to the Sun, and that planets farther out take longer for a lap.
+Tycho Brahe, a Danish nobleman, built the finest instruments of his day and used them for 20 years. His sister Sophie Brahe helped him at his observatory, though how much she did is not known. His readings of planets were accurate to about one arcminute, even though no telescope had yet been invented. After he died in 1601, his assistant Johannes Kepler worked on the readings for Mars. Kepler tried many circles. At last he found one that matched Tycho's readings to within 8 arcminutes. But Tycho's readings were never wrong by that much. Kepler wrote that he could not ignore 8 arcminutes. He threw out the circle. In 1609 he published his discovery: Mars goes round the Sun on an ellipse, with the Sun at one focus. Later he found that a planet moves faster when it is closer to the Sun, and that planets farther out take longer to go round once. In 1650 Maria Cunitz, a Silesian astronomer, published tables that made Kepler's tables much easier to use.
 - e.g. Eight arcminutes is about one quarter of the width of the full Moon.
 - e.g. Mars's ellipse is so close to a circle that you can hardly see the difference. Only the Sun's off-centre place shows it.
 - e.g. The Earth's own path is even closer to a circle, and it is a little nearer the Sun in early January than in July.
 ### Galileo's telescope · *defined*
 **Definition:** In 1609 and 1610, Galileo used a telescope to show things in the sky that an Earth-centred sky could not easily explain: moons going round Jupiter, and the phases of Venus.
 
-Galileo heard of the Dutch telescope in 1609, and made much better ones. In January 1610, he saw four small lights near Jupiter that changed places from night to night and went with the planet. They were moons going round Jupiter. So not everything went round the Earth. In late 1610 he watched Venus change from a small round disc to a big thin crescent over months. If Venus always stayed between the Earth and the Sun, it could only show crescents. Showing a nearly full disc meant it could also go behind the Sun. So Venus goes round the Sun. This did not prove that the Earth moves, because Tycho's middle model also fitted. But it killed Ptolemy's Venus. He also saw mountains and craters on the Moon, and far more stars in the Milky Way than anyone had known.
+Galileo heard of the Dutch telescope in 1609, and made much better ones. In January 1610, he saw four small lights near Jupiter that changed places from night to night and stayed with the planet. They were moons going round Jupiter. So not everything went round the Earth. In late 1610 he watched Venus change from a small round disc to a big thin crescent over months. If Venus always stayed between the Earth and the Sun, it could only show crescents. A nearly full disc meant that Venus could also go behind the Sun. So Venus goes round the Sun. This did not prove that the Earth moves, because Tycho's middle model also fitted. But it showed that Ptolemy's model of Venus was wrong. Galileo also saw mountains and craters on the Moon, and far more stars in the Milky Way than anyone had known.
 - e.g. Venus looks about six times wider when it is nearest to us than when it is farthest.
 - e.g. The four large moons of Jupiter are still called the Galilean moons.
-- e.g. Galileo's drawings of the Moon in 1610 show craters with shadows, the same way you see in your own eyes with a small telescope.
+- e.g. Galileo's drawings of the Moon in 1610 show craters with shadows, just as you can see them yourself through a small telescope.
 ### Proofs that the Earth moves · *defined*
 **Definition:** It took until the 1700s and 1800s to find direct evidence that the Earth goes round the Sun and spins.
 
@@ -89,7 +89,7 @@ In 1729, James Bradley found that every star seems to make a tiny yearly circle 
 
 A quadrant that is a hand wide has a scale you can read to about one degree. A quadrant two metres wide has a scale where one arcminute is a few millimetres long. That is why Tycho built enormous brass instruments. From 1724 to about 1737, Raja Sawai Jai Singh II built five observatories in India, called the Jantar Mantar, at Delhi, Jaipur, Ujjain, Varanasi and Mathura. The Samrat Yantra at Jaipur is a stairway about 27 metres high that works as a sundial, and its shadow edge creeps along the scale at about six centimetres a minute. Jai Singh built in stone because brass instruments bent and wore. Ulugh Beg built a huge observatory at Samarkand in the 1420s, with an arc made in a trench in the ground.
 - e.g. A stone instrument cannot warp like a thin brass one, so it keeps its shape.
-- e.g. The Jaipur Samrat Yantra is still used to tell the local time, and it is within a minute or two.
+- e.g. The Jaipur Samrat Yantra is still used to tell the local time, and it is right to within a minute or two.
 - e.g. Even a huge sundial has a blurry shadow edge, because the Sun is a disc and not a point.
 ### Astrolabes and observatories across the Islamic world and India · *defined*
 **Definition:** From about 800 to 1500, astronomers in Baghdad, Cairo, Samarkand and India built observatories, improved the astrolabe and kept long records of the sky.
@@ -101,7 +101,7 @@ Astronomers wrote in Arabic, Persian and Sanskrit, and often learned from each o
 ### What the stars are made of · *defined*
 **Definition:** In 1925, Cecilia Payne showed that stars are made mostly of hydrogen and helium. This overturned the old belief that stars are made of the same stuff as the Earth.
 
-Starlight can be split into a rainbow with dark lines. Each kind of atom leaves its own pattern of lines. In 1920, the Indian physicist Meghnad Saha worked out how the heat of a star changes the lines that atoms make. Using his equation, Cecilia Payne, a young astronomer at Harvard, studied the lines in the light of many stars in 1925. She found that stars are mostly hydrogen, with some helium, and only a small share of the heavier elements. The senior astronomers did not believe her at first. The senior astronomer Henry Norris Russell told her it was impossible, and she added a line saying so. Four years later, another astronomer confirmed her result, and she was proved right. She later became a professor at Harvard, the first woman to lead a department there.
+Starlight can be split into a rainbow with dark lines. Each kind of atom leaves its own pattern of lines. In 1920, the Indian physicist Meghnad Saha worked out how the heat of a star changes the lines that atoms make. Using his equation, Cecilia Payne, a young astronomer at Harvard, studied the lines in the light of many stars in 1925. She found that stars are mostly hydrogen, with some helium, and only a small share of the heavier elements. Senior astronomers did not believe her at first. One of them, Henry Norris Russell, told her the result was impossible, and she added a line to her own work saying so. Four years later, another astronomer confirmed her result, and she was proved right. She later became a professor at Harvard, the first woman to lead a department there.
 - e.g. The Sun is about three quarters hydrogen by mass and one quarter helium.
 - e.g. The same method of splitting light shows what is in galaxies we cannot visit.
 - e.g. Meghnad Saha was born in what is now Bangladesh, and he later became a professor in Kolkata.
@@ -113,7 +113,7 @@ In many places, from India to Britain to Egypt, people raised stones and mounds 
 - **Other archaeologists:** With so many stones, some are bound to line up with something. Without writing, we cannot be sure the builders cared about the Sun.
 - **Many historians:** The sites probably did several jobs. They were places for meeting, burying and watching the sky.
 ### Did ideas from the Islamic world reach Copernicus? · *idea*
-Some of the small circles that Copernicus used to match the planets look the same as ones invented by astronomers at Maragha and Damascus 200 years earlier, such as Nasir al-Din al-Tusi and Ibn al-Shatir, long before his time. Historians think it is likely that Copernicus or someone close to him learned of them, but nobody has found the book or the person that carried them. Many see this as one clear case of ideas travelling across lands.
+Some of the small circles that Copernicus used to match the planets look the same as ones invented about 200 years earlier by astronomers at Maragha and Damascus, such as Nasir al-Din al-Tusi and Ibn al-Shatir. Historians think it is likely that Copernicus or someone close to him learned of them, but nobody has found the book or the person that carried them. Many see this as one clear case of ideas travelling across lands.
 - e.g. The 'Tusi couple' is a way of making straight-line motion from two circles, and it appears again in Copernicus.
 - e.g. Greek books on astronomy were translated into Arabic in Baghdad, and later back into Latin in Spain.
 - **Many historians of science:** The likeness is too close to be an accident. Some copy of the ideas must have travelled from the East to Europe.
@@ -155,15 +155,15 @@ Some of the small circles that Copernicus used to match the planets look the sam
 ## Roots
 We sat in a spinning chair, lit a ball like Venus, measured angles and drew planet paths. Now we ask what the long argument about the Sun and the Earth teaches about seeing and knowing.
 
-**Deep truth.** With your eyes shut, a steady turn of the chair was hard to feel. With your eyes open, the room seemed to turn instead. A steady movement is seen only against something else. The Earth turns steadily, so the Sun seems to circle us while we sit still.  
+**Deep truth.** In The Spinning Chair, with your eyes shut, a steady turn of the chair was hard to feel. With your eyes open, the room seemed to turn instead. A steady movement can be seen only against something else. The Earth turns steadily, so we seem to sit still while the Sun seems to circle us.  
 *Habit it breaks:* We take what we see for what is happening. The Sun rises, so we say it moves. But a sight tells us how things move compared with us, and it cannot tell us which of the two is moving.  
 *Evidence:* In The Spinning Chair, the turns that were steady were the hardest to feel, and starting and stopping were the easiest. In Galileo's Venus, the same lamp and ball gave very different views from different places. If your own results differ, write them down as they are.
 
 - *who am i:* You are standing on a ball that spins at about 1,600 kilometres an hour and circles the Sun at about 30 kilometres a second. You feel none of it.
 - *what is life:* Living bodies feel changes: a start, a stop, a bump. A body can get used to a steady movement so completely that it is no longer noticed.
-- *what is this world:* Motion is always motion compared with something else. The Sun is still in the Earth's story and moving in the Milky Way's story.
+- *what is this world:* Motion is always motion compared with something else. When we describe the Earth's path, we treat the Sun as still. When we describe the Milky Way, the Sun is moving.
 
-The Sun going round us and the Earth turning under the Sun are the same sight from the ground. Aryabhata saw this in 499, with the picture of a boat. To tell the two stories apart, people needed more than looking. They needed a pendulum, a star's tiny shift and a telescope looking at Venus. Even then, the answer was only found by comparing: one view against another. What we know about the sky comes from looking from many places and seeing what stays the same.
+The Sun going round us and the Earth turning under the Sun look exactly the same from the ground. Aryabhata saw this in 499, with the picture of a boat. To tell the two apart, people needed more than looking. They needed a pendulum, a star's tiny shift and a telescope looking at Venus. Even then, the answer was found only by comparing one view with another. What we know about the sky comes from looking from many places and seeing what stays the same.
 
 - **Aryabhatiya, Golapada 9, by Aryabhata, 499:** Aryabhata wrote that a person in a boat moving forward sees still things on the bank moving backwards. In the same way, he wrote, people on the Earth see the still stars moving westwards. (The picture of the boat is the same as the spinning chair. A steady movement makes the world outside seem to move the other way.)
 - **Isha Upanishad, verse 5:** The verse speaks of the One as moving and not moving, as far and as near, as inside everything and outside everything. (Whether the Sun moves or the Earth moves depends on where you stand. A thing can be said to move and not to move at the same time, depending on what you compare it with.)
@@ -173,17 +173,17 @@ The Sun going round us and the Earth turning under the Sun are the same sight fr
 - Practice, Watch the Earth turn (3 min): Find a patch of sunlight on the floor and mark its edge with a piece of tape. Sit still and breathe in slowly. Breathe out slowly. Watch the edge of the light for three minutes. It creeps along the floor. The Sun is not rushing. You are turning slowly under it, on the Earth. Take one more slow breath, and look at the tape again.
 - Ask: If you could not feel the Earth turn and could not see the Sun, how would you know it was turning?
 - Ask: Aryabhata's boat, Galileo's ship and your chair all say the same thing. Why might different people find the same idea in different places?
-- Ask: When someone says they are sure, what could you do to check whether it is the world that moves or only their point of view?
+- Ask: When someone is sure that a thing is moving, how could you check whether the thing is moving or they are?
 
 ## Deep and big questions
-- *deep:* In the chair test, you could not tell by feel whether you or the room was turning. So how do we know it is the Earth that turns? (hint: Think about the pendulum, the stars and what a spacecraft sees.)
+- *deep:* In The Spinning Chair, you could not tell by feel whether you or the room was turning. So how do we know it is the Earth that turns? (hint: Think about the pendulum, the stars and what a spacecraft sees.)
 - *deep:* Tycho's readings were only 8 arcminutes away from a circle, and Kepler threw the circle away. When is a small difference worth believing? (hint: Think about how sure Kepler was of Tycho's readings, and why that mattered.)
 - *deep:* Ptolemy's circles gave good tables for over 1,400 years, and the model was wrong. Does a model have to be true to be useful? (hint: Think about what the tables were used for, and what they could not explain.)
 - *big:* Every place has its own noon, but a clock gives one time for the whole country. Which is the real time? (hint: Think about what each one is for, and who needs which.)
 - *big:* Aryabhata wrote that the Earth spins in 499, but most people went on thinking the sky turns. Why do good ideas sometimes take hundreds of years to spread? (hint: Think about what a person would have needed to see to be sure, and who could check.)
 - *big:* If you lived on Venus, what would you say moves, and what would you say stands still? (hint: Think about what you could see from there, and what you could not feel.)
 - *big:* Cecilia Payne found that stars are mostly hydrogen, and was told she was wrong. Why might the same evidence be believed from one person and doubted from another? (hint: Think about who gets listened to, and what a careful scientist should do instead.)
-- *deep:* A huge stone sundial and a hand-sized one both tell the time. What does the huge one give that the small one cannot? (hint: Think about the quadrant test, and what a bigger scale does to your readings.)
+- *deep:* A huge stone sundial and a hand-sized one both tell the time. What does the huge one give that the small one cannot? (hint: Think about Tycho's Quadrant, and what a bigger scale does to your readings.)
 
 ## Story: The Blurred Edge of the Shadow
 *Ishani, her grandmother, Dev, the guide and the visit are made up. The Jantar Mantar in Jaipur is real, and so is the great stone sundial, called the Samrat Yantra. India's clock time is set by the Sun at 82.5 degrees east. In mid-April the Sun reaches its highest point at Jaipur about 27 minutes after 12 o'clock Indian Standard Time.*
@@ -224,7 +224,7 @@ At that moment, the middle of the shadow touched the line marked noon.
 
 "Which?" asked Sarika Madam, with a twinkle.
 
-Ishani looked from one to the other. The phone was a famous machine. The stone had been here for nearly 300 years, and was as big as a house. She did not know which to trust.
+Ishani looked from one to the other. The phone was a machine that everybody trusted. The stone had been here for nearly 300 years, and was as big as a house. She did not know which to trust.
 
 "The phone shows Indian Standard Time," the guide said. "The whole country keeps one time, set by the Sun at a place far to the east, near Mirzapur. But the Sun does not reach every place at once. The Earth turns, and the Sun gets to the east first and the west later. In Jaipur, the Sun is at its highest about 27 minutes after it was highest at Mirzapur. This dial shows Jaipur's own noon. It is not wrong. It is telling you the time of this place."
 
@@ -244,13 +244,13 @@ That night, in the guest room, Ishani wrote in her notebook: The dial stays stil
 
 She stopped. She added one more line. And the edge of a shadow is blurry, because the Sun is big.
 
-**For the parent:** For the parent: the Earth turns steadily towards the east, so the Sun reaches the east of a country before the west. Each place has its own local noon. Indian Standard Time is one agreed clock for the whole country, set by the Sun at 82.5 degrees east. A dial tilted at the latitude of its city and aligned north shows local Sun time. In Jaipur, in mid-April, that is about 27 minutes after the phone's 12 o'clock. The shadow edge is blurred because the Sun is a disc, not a point.
+**For the parent:** For the parent: the Earth turns steadily towards the east, so the Sun reaches the east of a country before the west. Each place has its own local noon. Indian Standard Time is one agreed clock for the whole country, set by the Sun at 82.5 degrees east. A dial tilted at the latitude of its city and aligned north shows local Sun time. In Jaipur, in mid-April, local noon comes about 27 minutes after 12 o'clock on the phone. The shadow edge is blurred because the Sun is a disc, not a point.
 
 - Ask: Why is the Samrat Yantra tilted at the angle of Jaipur's latitude?
 - Ask: Why was the edge of the shadow blurred, and where do you read the time on a blurred edge?
 - Ask: Why did the dial say noon when the phone said twenty-seven minutes past twelve?
 - Ask: Why was it already past noon in Kolkata when it was noon in Jaipur?
-- Ask: Ishani said that the stone had never moved. What did she mean the Sun and the Earth were doing?
+- Ask: Ishani said that the stone had never moved. What did she think the Sun and the Earth were really doing?
 
 ## Games
 ### g1 · Claim and Proof: a pairs game of what people said and how they showed it (20 min)
@@ -265,7 +265,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 - **s2 (13 min)**  
   *Parent does:* Take turns turning over two cards. Keep a pair only if the player can say why the proof backs up the claim.  
   *Parent says:* You found a pair. Now tell me in your own words, how does this proof show this claim?  
-  *Child mode:* Turn over two cards. A match? Say why the proof fits.
+  *Child mode:* Turn over two cards. If they match, say why the proof fits the claim.
   - Note: Help with the harder ones. A good reason for the Tycho pair: his readings were so careful that a gap of 8 arcminutes had to be real.
   - Check: Why does a long pendulum change its swing direction over the floor? → **The floor is turning under it, because the Earth spins**
 - **s3 (4 min)**  
@@ -273,7 +273,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Parent says:* Which proof was the hardest to believe? What would you want to check yourself?  
   *Child mode:* Which proof surprised you most? Why?
 ### g2 · Courtroom of the Sky: argue like an astronomer of the past (20 min)
-- **rules:** One player is the judge. Everyone else takes a role card. With only two or three players, one player may take two roles.; The judge reads one question card aloud, without showing the back.; Each astronomer gets 20 seconds to answer in character, using only what their card says they knew in their own time.; The judge decides whose answer used the best evidence, and gives that player a point.; The judge reads the back of the question card. Everyone talks about what the best answer left out.; After three questions, the judge swaps with another player. After ten questions, the player with the most points wins.; Playing with just a parent, take turns being the judge and a witness, and swap roles after each question. With just one child and a parent, the child draws two role cards and answers each question twice, once as each person, and the parent as judge picks the better answer.
+- **rules:** One player is the judge. Everyone else takes a role card. With only two or three players, one player may take two roles.; The judge reads one question card aloud, without showing the back.; Each astronomer gets 20 seconds to answer in character, using only what their card says they knew in their own time.; The judge decides whose answer used the best evidence, and gives that player a point.; The judge reads the back of the question card. Everyone talks about what the best answer left out.; After three questions, the judge swaps with another player. After ten questions, the player with the most points wins.; With just one child and a parent, take turns being the judge and the astronomer, and swap after each question. Or the child draws two role cards and answers each question twice, once as each person, and the parent, as judge, picks the better answer.
 - **Printable cards: 8 role cards: a person on the front, what they could say on the back:** PTOLEMY, Alexandria, about 150 CE (back: The Earth is still at the centre. Planets loop because they ride small circles on big circles. My tables work.); ARYABHATA, India, 499 (back: The Earth spins, and the stars only seem to move west, as the bank seems to move backwards from a boat. Eclipses are shadows.); BRAHMAGUPTA, India, 628 (back: I doubt the Earth moves. Birds that fly up from a tree would not find their tree again. Things would be left behind.); NILAKANTHA, Kerala, about 1500 (back: The planets go round the Sun, and the Sun goes round the Earth. This explains their looping paths neatly.); COPERNICUS, Poland, 1543 (back: The Sun is at the centre. The Earth is a planet that spins and goes round the Sun. I still use circles and small circles.); TYCHO BRAHE, Denmark, 1588 (back: I have measured planets to one arcminute for years. The planets go round the Sun and the Sun goes round the Earth. I cannot feel the Earth move.); KEPLER, Germany, 1609 (back: Mars moves on an ellipse. Tycho's readings are never wrong by 8 arcminutes, so I gave up the circle. A planet moves faster when it is closer to the Sun.); GALILEO, Italy, 1610 (back: My telescope shows moons round Jupiter, the phases of Venus, mountains on the Moon and countless stars. Ptolemy's Venus is wrong.)
 - **Printable cards: 10 question cards: a question on the front, a good answer on the back:** Why does Mars sometimes seem to go backwards? (back: A good answer says either that Mars rides a small circle, or that the faster Earth overtakes it, as a car passes a lorry.); Does the Earth move? (back: A good answer gives the evidence of that person's time and says what would still be missing.); What shape is the path of a planet? (back: Circles for the earlier people. An ellipse for Kepler, because Tycho's readings would not fit a circle.); Does Venus ever look nearly full? (back: Not in Ptolemy's model. It does in a telescope, which means that Venus goes round the Sun.); Why can nobody feel the Earth turning? (back: A steady movement cannot be felt, only changes. Galileo's ship and Aryabhata's boat both show this.); Should you trust a careful measurement that does not fit a beautiful idea? (back: Kepler did. A good answer explains why very careful readings are worth more than a pleasing shape.); What can a telescope show that eyes cannot? (back: Moons of Jupiter, the phases of Venus, craters on the Moon and many fainter stars.); Why would anyone build a stone observatory as big as a house? (back: A bigger instrument has a bigger scale and can be read more finely. Stone does not bend like thin brass.); How could you find out how far away a star is? (back: By looking at it from two places far apart, such as two sides of the Earth's orbit, and measuring its tiny shift.); If the Earth moves, why do birds find their nests? (back: The air and the birds move along with the Earth, as a fly in a smooth moving train moves with the train.)
 - **Printable tokens: A handful of pebbles, buttons or paper counters for the judge to hand out:** Cut out 12 small paper circles to use as points.
@@ -297,25 +297,25 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 ### e1 · The Spinning Chair: can you feel a steady turn? (35 min)
 - **question:** You sit in a swivel chair that a grown-up turns slowly and smoothly. With your eyes shut, can you tell whether the chair is turning or still? And with your eyes open, who seems to be turning, you or the room?
 - **predict:** Before you start, guess. With your eyes shut, will you be able to feel a slow, steady turn? Will you feel it start or stop? With your eyes open, who will seem to turn, you or the room? Why do you think so?
-- **fair test:** Use the same chair and the same turning speed every time, about one full turn in ten seconds. The grown-up decides in secret, by drawing slips, which rounds are turning and which are still. The child wears a scarf over the eyes and hums a tune, so that sounds give nothing away. Play six rounds. Only the secret order changes.
+- **fair test:** Use the same chair and the same turning speed every time, about one full turn in ten seconds. The grown-up decides in secret, by drawing slips, which rounds are turning and which are still. The child wears a scarf over the eyes and hums a tune, so that sounds give nothing away. Play six rounds. The only thing that changes from round to round is whether the chair turns.
 - **safety:** Turn the chair slowly, never faster than one turn in ten seconds. Stop at once if the child feels dizzy or sick, and let her rest for five minutes. Keep the floor around the chair clear of furniture and sharp corners. A grown-up holds the chair steady when the child gets on and off. Children who get dizzy easily, or have ear problems, should skip this test.
 - **record:** Fill in the table and count the right answers. Under it, write one sentence about what you could feel and what you could not.
 - **results table:** Round | What the grown-up really did (secret) | My answer: turning or still? | Right or wrong?
 - **s1 (4 min)**  
   *Parent does:* Show your child the chair, the scarf and the slips. Ask for a guess about the eyes-shut test and the eyes-open test, and a reason. Write the guess.  
   *Parent says:* You will sit in this chair. With your eyes shut, can you tell if it turns slowly and steadily? With your eyes open, who seems to be turning? Why do you think so?  
-  *Child mode:* Eyes shut, can you feel a slow turn? Eyes open, who seems to turn?
+  *Child mode:* With your eyes shut, can you feel a slow turn? With your eyes open, who seems to turn?
   - Ask: Why do you think you will, or will not, feel it? (good: You can feel your body being pulled round.; The turn is too slow and smooth to feel.; It is hard to tell without seeing.)
   - Note: Do not correct the guess. Many children are sure that they will feel the turn. Write down the guess.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* With the eyes open, turn the chair very slowly. Ask the child which sheet of paper is straight ahead as it passes. Then ask: is the room turning, or is the chair? Stop the chair gently.  
+  *Parent does:* With the eyes open, turn the chair very slowly. Ask the child to call out the letter on the sheet of paper that is straight ahead as it passes. Then ask: is the room turning, or is the chair? Stop the chair gently.  
   *Parent says:* I will turn the chair very slowly. Call out the letter on the wall that is straight in front of you. Is the room turning round you, or are you turning round the room?  
-  *Child mode:* Eyes open. Call out the letter in front of you. Who is turning?
+  *Child mode:* Keep your eyes open. Call out the letter in front of you. Who is turning, you or the room?
   - Note: The child can tell by looking that the room seems to turn the other way. This is the picture in Aryabhata's boat: when you move, the world seems to move backwards. Keep the turning slow and smooth.
 - **s3 (14 min) · grown-up needed**  
-  *Parent does:* Cover the eyes with the scarf. Draw a slip in secret. On a TURN slip, start the chair very gently and build up to one turn in ten seconds. On a STILL slip, touch the chair lightly and do nothing. After 20 seconds, ask: turning or still? Write down the answer. Do six rounds.  
-  *Parent says:* Eyes shut and hum a tune. In a moment I will either turn you slowly or keep you still. After a little while, tell me: turning or still?  
-  *Child mode:* Eyes shut. Hum a tune. After a while say: turning or still?
+  *Parent does:* Cover the eyes with the scarf. Draw a slip in secret. On a TURN slip, start the chair very gently and build up to one turn in ten seconds. On a STILL slip, touch the chair lightly but do not turn it. After 20 seconds, ask: turning or still? Write down the answer. Do six rounds.  
+  *Parent says:* Shut your eyes and hum a tune. In a moment I will either turn you slowly or keep you still. After a little while, tell me: turning or still?  
+  *Child mode:* Shut your eyes and hum a tune. After a while, say whether you are turning or still.
   - Note: Start each TURN round very gently, so that the push is hard to feel, and keep the turn steady. In a STILL round, make the same small touch and noises. If the child is right six times, ask which clue she used, such as a breeze, a creak or a touch. Chance alone gives about three right out of six. Your own results decide what you write. One child with a parent: the parent turns the chair and draws the slips, and the child plays all six rounds. With 2 to 4 children: one is the turner, one is the scorer, and each child in the chair plays four rounds, so the whole group takes about 15 minutes. Add up all the right answers and compare with half of all rounds, which is what guessing gives. Many children score near chance and a few do better, because a gentle start can sometimes be felt. Both results are honest. Write down what you got.
   - Check: Why does the grown-up draw the slips in secret and make a small touch on every round? → **So that the child cannot guess from any clue except the turning itself**
 - **s4 (5 min) · grown-up needed**  
@@ -325,9 +325,9 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Note: Most children feel the sudden stop clearly, as a lean or a wobble inside the body. The turn itself is much harder to feel once it is steady. Stop the chair gently, with your hand on its back, so nobody tips.
   - Check: When the chair stopped suddenly with your eyes shut, what did you feel? → **A lean or a push, because stopping is a change of movement**
 - **s5 (6 min)**  
-  *Parent does:* Ask for what I think, what I saw and why. Then ask about the Earth.  
+  *Parent does:* Ask your child what they think now, what they saw that shows it, and why. Then ask about the Earth.  
   *Parent says:* Tell me three things. What do you think now? What did you notice that shows it? And why? The Earth turns steadily once a day. Would you feel it?  
-  *Child mode:* Say what I think, what I saw and why. Would you feel the Earth turn?
+  *Child mode:* Say what you think, what you saw and why. Would you feel the Earth turn?
   - Note: This is claim, evidence and reasoning. A good answer: what I think: a slow steady turn is hard or impossible to feel. What I saw: for example, I got three or four of six right, which is about what chance gives, but I felt the sudden stop. If you got five or six right, say which clue you used. Why: our bodies sense changes in movement, and a steady movement has no change to sense. The Earth turns steadily, and never starts or stops, so we feel nothing. With eyes open, the room seemed to turn the other way, as the bank does from a boat. That is why the Sun seems to move across the sky when it is we who are turning.
   - Check: The Earth turns once every 24 hours without stopping. Why can we not feel it? → **It turns steadily, and we feel only changes in movement**
 ### e2 · Galileo's Venus: can Venus look full if it stays between us and the Sun? (35 min)
@@ -340,16 +340,16 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 - **s1 (5 min)**  
   *Parent does:* Show your child the lamp, the ball and the strings. Say that the lamp is the Sun and the ball is Venus. Ask for a guess and a reason.  
   *Parent says:* The lamp is the Sun and the ball is Venus. In one model, Venus stays between us and the Sun. In the other, it goes right round the Sun. Which one can make Venus look full? Why do you think so?  
-  *Child mode:* Lamp is the Sun. Ball is Venus. Which model can make it look full? Why?
+  *Child mode:* The lamp is the Sun. The ball is Venus. Which model can make Venus look full? Why?
   - Ask: Why do you think that model will, or will not, make a full Venus? (good: If it stays in front of the lamp, we only see its dark side.; If it goes behind the lamp, we see the lit side.; I am not sure. Let's try.)
-  - Note: Do not correct the guess. A lit ball always has half lit, facing the lamp. What we see depends on where we stand.
+  - Note: Do not correct the guess. The lamp always lights the half of the ball that faces it. What we see depends on where we stand.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* Put the lamp at one end of the room and the viewer's chair 2 metres away. Turn off all other lights. Tape a small cross on the floor halfway between the chair and the lamp. Tie the 40 centimetre string to a pencil and hold it at the cross. Tie the 70 centimetre string to the lamp's stand.  
   *Parent says:* The chair is the Earth. The lamp is the Sun. The cross halfway is the middle of Ptolemy's small circle. The long string will be the big circle round the Sun.  
-  *Child mode:* Chair is Earth. Lamp is Sun. Mark a cross halfway between them.
+  *Child mode:* The chair is the Earth. The lamp is the Sun. Mark a cross halfway between them.
   - Note: The ball must be at the same height as the lamp, so hold it at the level of the bulb. Sit in the chair with your eyes at the ball's height if you can. Keep your head still while you look. Roles for one child with a parent: the parent walks the ball and the child looks and records. For 2 to 4 children: one sits in the chair and looks, one walks the ball, one keeps the lamp steady and calls the stop, and one records. Swap jobs after each model so that everyone looks at least once. If the ball looks evenly lit at every stop, light is leaking in. Shut the curtains and wait for full dark, or turn off every other light.
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* Earth-centred model: hold the ball at the end of the 40 centimetre string, keeping the string tight round the cross. Stop at four places: nearest the chair, to the left, farthest from the chair, and to the right. At each stop, look and record what you see.  
+  *Parent does:* Earth-centred model: hold the pencil on the cross and move the ball round it at the end of the 40 centimetre string, keeping the string tight. Stop at four places: nearest the chair, to the left, farthest from the chair, and to the right. At each stop, look and record what you see.  
   *Parent says:* In this model Venus stays on a small circle between you and the Sun. Stop at the four places. At each one, how much of the ball is lit? Does it ever look full?  
   *Child mode:* Move the ball round the small circle. Stop four times. How much is lit?
   - Note: Expected: the ball looks like a thin crescent at the left and right stops, and almost dark at the near and far stops, where its lit side faces away from you. It never looks more than a thin crescent. This is the best Ptolemy's Venus could do.
@@ -361,16 +361,16 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Note: Expected: nearest the chair, the ball is mostly dark and looks big. At the sides, you see half. Behind the lamp, off to one side so the lamp does not block your view, you see nearly all of the ball lit, and it looks smaller because it is about twice as far (about 2.7 metres, against 1.3 metres nearest the chair). The crescents and the half are easy to see. The nearly full ball is the faint one, so look from a little to the side of the lamp so that the bulb does not dazzle you. This is what Galileo saw.
   - Check: When did the ball look nearly full in the Sun-centred model? → **When it was on the far side of the lamp from you**
 - **s5 (7 min)**  
-  *Parent does:* Ask for what I think, what I saw and why. Then tell the story of Galileo and Venus.  
+  *Parent does:* Ask your child what they think now, what they saw that shows it, and why. Then tell the story of Galileo and Venus.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Galileo saw Venus nearly full and small in late 1610, and later as a big thin crescent. Which model fits?  
-  *Child mode:* Say what I think, what I saw and why. Which model fits Galileo?
-  - Note: This is claim, evidence and reasoning. A good answer: what I think: Venus must go round the Sun, and not just stay in front of it. What I saw: in the Earth-centred circle the ball never looked more than a thin crescent. In the Sun-centred circle it looked nearly full when it was far side, and small. Why: a ball can look full only if it can go behind the lamp. Be fair to Tycho: his middle model, where the Sun goes round the Earth and Venus goes round the Sun, also fits. So Galileo showed that Ptolemy's Venus was wrong. He did not yet prove that the Earth moves.
+  *Child mode:* Say what you think, what you saw and why. Which model fits what Galileo saw?
+  - Note: This is claim, evidence and reasoning. A good answer: what I think: Venus must go round the Sun, and not just stay in front of it. What I saw: in the Earth-centred circle the ball never looked more than a thin crescent. In the Sun-centred circle it looked nearly full, and small, when it was on the far side of the lamp. Why: a ball can look full only if it can go behind the lamp. Be fair to Tycho: his middle model, where the Sun goes round the Earth and Venus goes round the Sun, also fits. So Galileo showed that Ptolemy's Venus was wrong. He did not yet prove that the Earth moves.
   - Check: Galileo saw Venus look nearly full through his telescope. What did that show? → **Venus can go behind the Sun, so it goes round the Sun**
 ### e3 · Tycho's Quadrant: how precisely can you measure an angle? (40 min)
-- **question:** A sticker is stuck high up on a wall. If you measure its angle above the horizontal ten times, how much do your readings differ? Do a steadier instrument and a longer sighting tube make the readings agree more closely?
+- **question:** A sticker is stuck high up on a wall. If you measure its angle above level ten times, how much do your readings differ? Do a steadier quadrant and a longer straw make the readings agree more closely?
 - **predict:** Before you start, guess. Will your ten readings all be the same, nearly the same, or very different? Will resting the quadrant on a table help? Will a longer straw help? Why do you think so?
 - **fair test:** Use the same sticker, the same standing place and the same quadrant. Take ten readings for each setup. Only the setup changes: first the quadrant held in your hands with a short straw, then the quadrant resting on a table with the short straw, then resting on the table with a long straw. Look away between readings so that you do not remember the last number.
-- **safety:** A grown-up cuts the straws if the child is younger than eight. Use a steady table and do not stand on a chair to reach the sticker. Scissors and the cut ends of straws are sharp, so a grown-up does the cutting. Keep the washer or nut away from children under five.
+- **safety:** Scissors and the cut ends of straws are sharp, so a grown-up cuts the straws. Use a steady table and do not stand on a chair to reach the sticker. Keep the washer or nut away from children under five.
 - **record:** Fill in the table. For each setup, circle the smallest and the biggest reading. Change the spread from degrees to arcminutes by multiplying by 60.
 - **results table:** Setup | My ten readings (degrees) | Smallest | Biggest | Spread (biggest take away smallest)
 - **s1 (4 min)**  
@@ -387,30 +387,30 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Check: When the straw points level, the thread crosses the 90 mark. The thread crosses 63 when you sight the sticker. What is the sticker's angle above level? → **27 degrees**
 - **s3 (8 min)**  
   *Parent does:* Stand 2 metres from the wall. Hold the quadrant in your hands with the short straw. Sight the sticker, pinch the thread and read the number. Write it down. Look away, then do it nine more times.  
-  *Parent says:* Hold the quadrant in your hands. Look through the straw at the sticker. Pinch the thread and read. Write it down, look away, and try again. Ten times.  
-  *Child mode:* Hold the quadrant. Sight the sticker. Pinch the thread. Read. Ten times.
+  *Parent says:* Hold the quadrant in your hands. Look through the straw at the sticker. Pinch the thread and read the number. Write it down, look away, and try again. Do this ten times.  
+  *Child mode:* Hold the quadrant and look through the straw at the sticker. Pinch the thread and read the number. Do this ten times.
   - Note: Stand in the same place every time. Mark the spot with tape. Expect the readings to differ by a few degrees when the quadrant is held in the hands. One child with a parent: the child sights and pinches the thread, and the parent reads and writes the number, or the child does both. For 2 to 4 children: one sights and pinches, one reads, one writes, and each child takes a turn at each job. Compare the spreads of different children too. Everyone should use the same quadrant and the same standing mark.
 - **s4 (8 min)**  
   *Parent does:* Rest the quadrant on the edge of a table at the same standing place. Use the same short straw. Take ten more readings. Then swap to the long straw and take ten more.  
   *Parent says:* Now rest the quadrant on the table edge. Take ten more readings. Then swap to the long straw and take ten more. Are the numbers closer together?  
-  *Child mode:* Rest the quadrant on a table. Ten readings. Then the long straw. Ten more.
+  *Child mode:* Rest the quadrant on a table and take ten readings. Then swap to the long straw and take ten more.
   - Note: The table takes away the shaking of the hand, and the long straw makes it easier to aim at a small sticker. Expect the spread to fall, but your own results decide. For the long straw, tape it along the flat edge so that it sticks out past the card, in place of the short one. If the table does not help your readings, write that down as it is. A common cause is a thread that still swings, so pinch it slowly and read it twice.
   - Check: Which setup do you expect to have the smallest spread? → **Resting on a table with the long straw**
 - **s5 (10 min)**  
-  *Parent does:* Work out the spread for each setup. Change each spread into arcminutes by multiplying by 60. Ask for what I think, what I saw and why. Then ask about Tycho.  
+  *Parent does:* Work out the spread for each setup. Change each spread into arcminutes by multiplying by 60. Ask your child what they think now, what they saw that shows it, and why. Then ask about Tycho.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Tycho's best readings were good to one arcminute. How does that compare with yours?  
-  *Child mode:* Find each spread. Times 60 for arcminutes. How does Tycho compare?
+  *Child mode:* Find each spread. Multiply by 60 to get arcminutes. How do your readings compare with Tycho's?
   - Note: This is claim, evidence and reasoning. A good answer: what I think: a steadier, longer instrument gives readings that agree more closely. What I saw: the spread went from, for example, 5 degrees in my hands to 2 degrees on the table and 1 degree with the long straw. Why: shaking and hard aiming cause the readings to scatter, and a table and a long sight reduce both. Then Tycho: 1 degree is 60 arcminutes. If your best spread is 1 degree, Tycho's one arcminute was 60 times more precise. This is why he built huge brass instruments, fixed in place, with finely marked scales. And it is why Kepler could trust a gap of 8 arcminutes. With your quadrant, a gap of 8 arcminutes would have been invisible.
   - Check: Your best spread is 1 degree. How many arcminutes is that, and could you have noticed Kepler's gap of 8 arcminutes? → **60 arcminutes, and no, the gap is hidden inside the spread**
 
 ## Activities
 ### a1 · Kepler's Ellipse: draw a planet's path with string and two pins (30 min)
 - **safety:** Drawing pins are sharp. A grown-up pushes them in and takes them out, and counts them back into the box when the activity is over.
-- **record:** Keep all five drawings on one page, and fill in a table with the pin distance, the width and the height of each shape.
+- **record:** Keep all four drawings on one page, and fill in a table with the pin distance, the width and the height of each shape.
 - **s1 (5 min)**  
   *Parent does:* Show your child the pins, the loop and the pencil. Ask what shape will appear when the pins are in the same place. Then ask what will happen if you move the pins apart. Write down the guesses.  
   *Parent says:* Kepler found that a planet's path is an ellipse. We can draw one with a loop of thread and two pins. What shape will we get if both pins are in the same spot? What if we move them apart?  
-  *Child mode:* A loop of thread and two pins. What shape comes if the pins are together? Apart?
+  *Child mode:* You have a loop of thread and two pins. What shape do you get if the pins are together? What if they are apart?
   - Note: Do not correct the guess. A circle is an ellipse with both foci in the same place.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* A grown-up pushes both pins into the card at the same spot, in the middle of the paper. Put the loop round the pins. Put the pencil inside the loop and pull it tight. Slide the pencil all the way round, keeping the thread tight. You draw a circle.  
@@ -445,45 +445,45 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Note: The Sun is north of the equator from about March to September. Then the shadow falls on the upper face. From about September to March, it is south of the equator and the shadow falls on the lower face. A card with hours on both faces works all year. The hours run this way when you look at the front with the 12 at the bottom, because morning shadows fall to the west. Tracing through a window makes the back match the front, so that the same hour sits on the same line.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* Push the pencil through the middle dot, straight, so that it sticks out equally on both sides. Prop the card on books and clay so that the card is tilted from flat by your tilt number. Check with the protractor. Turn the dial so that the 12 line points down the slope to the north. The top of the pencil also points north.  
-  *Parent says:* The pencil is the gnomon. The pencil should point at the Pole Star, which is at the north. The card is tilted so that the pencil points up at the angle of your latitude. Check with the protractor.  
+  *Parent says:* The pencil is the gnomon. The pencil should point at the Pole Star, which is in the north. The card is tilted so that the pencil points up at the angle of your latitude. Check with the protractor.  
   *Child mode:* Push the stick through the middle. Tilt the card. Point the stick north.
-  - Note: Use a phone compass to find north. In India, magnetic north differs from true north by only a degree or two, which is fine. The pencil must make an angle with the flat ground equal to your latitude. For Chennai, that is 13 degrees. Day 1 stops here. No phone compass? Use the north-south line from the stick-shadow challenge. One child with a parent: the parent holds the compass while the child tilts and checks the angle. For 2 to 4 children: one traces and writes the hours, one tilts the card with the protractor, one points it north, and each child reads the dial at one of the four times.
+  - Note: Use a phone compass to find north. In India, magnetic north differs from true north by only a degree or two, which is fine. The pencil must make an angle with the flat ground equal to your latitude. For Chennai, that is 13 degrees. Day 1 stops here. If you have no phone compass, use the north-south line from the challenge Find North and Noon with Just a Stick and the Sun. One child with a parent: the parent holds the compass while the child tilts and checks the angle. For 2 to 4 children: one traces and writes the hours, one tilts the card with the protractor, one points it north, and each child reads the dial at one of the four times.
   - Check: A city has a latitude of 27 degrees. How far should the dial card be tilted from flat? → **63 degrees**
 - **s4 (12 min) · grown-up needed**  
-  *Parent does:* On a sunny day, set up the dial in sunlight. Do this four times in the day, such as at 10, 11, 12 and 1 o'clock. Note the phone time. Read the time where the pencil's shadow falls. Write both in the table. Work out the difference each time.  
+  *Parent does:* On a sunny day, set up the dial in sunlight. Read it four times in the day, such as at 10, 11, 12 and 1 o'clock. Each time, note the phone time and read the time where the pencil's shadow falls. Write both in the table and work out the difference.  
   *Parent says:* Read the hour line where the middle of the pencil's shadow falls. The edge is a little blurred, so read the middle. What does your phone say? What is the difference?  
   *Child mode:* Read the dial at four times. Write the phone time too. What is the difference?
-  - Note: Expect the dial to differ from the phone by a few minutes up to about 40 minutes in most of India, and the difference changes a little through the year. For the longitude alone, typical gaps are about 10 minutes at Chennai, 20 at Delhi and 40 at Mumbai, with the dial behind the phone. This needs direct sun, so pick another day if it is cloudy, as it often is in the monsoon. There are two reasons. First, India uses one clock time for everyone, set by the Sun at 82.5 degrees east. The Sun is 4 minutes later for each degree you are west of that. Second, the Earth's path is a little oval and its axis tilts, so the Sun runs up to about 16 minutes fast or slow through the year. Kolkata is east and its Sun is earlier. Mumbai and Jaipur are west, and their Sun is later.
+  - Note: Expect the dial to differ from the phone by a few minutes up to about 40 minutes in most of India, and the difference changes a little through the year. There are two reasons. First, India uses one clock time for everyone, set by the Sun at 82.5 degrees east. The Sun is 4 minutes later for each degree you are west of that. Kolkata is east and its Sun is earlier. Mumbai and Jaipur are west, and their Sun is later. From the longitude alone, typical gaps are about 10 minutes at Chennai, 20 at Delhi and 40 at Mumbai, with the dial behind the phone. Second, the Earth's path is a little oval and its axis tilts, so the Sun runs up to about 16 minutes fast or slow through the year. The dial needs direct sun, so pick another day if it is cloudy, as it often is in the monsoon.
 - **s5 (8 min)**  
-  *Parent does:* Look at the table of differences. Ask for what I think, what I saw and why. Then talk about the great dial at Jaipur.  
+  *Parent does:* Look at the table of differences. Ask your child what they think now, what they saw that shows it, and why. Then talk about the great dial at Jaipur.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? The dial at Jaipur is the same design, but 27 metres tall. What do you think its extra size gives?  
-  *Child mode:* Say what I think, what I saw and why. What does a big dial give?
+  *Child mode:* Say what you think, what you saw and why. What does a big dial give?
   - Note: A good answer: what I think: a dial tilted at the city's latitude shows the Sun's time, which is a bit different from the phone's. What I saw: the dial and the phone differed by about the same amount at each of the four times. Why: the Earth turns evenly, so the shadow moves evenly, and every place has its own noon. The big dial in Jaipur works the same way. A big dial spreads each minute over a longer distance, so the time can be read more exactly.
   - Check: Why does your sundial not agree exactly with your phone's clock? → **The dial shows the Sun's time at your place, and the phone shows one time for the whole country**
 ### a3 · Wanderer Watch: catch a planet moving among the stars (40 min, 7 days)
 - **safety:** Go on to a balcony or terrace only with a grown-up, and never lean over a railing.
 - **record:** Draw the same patch of sky on three nights, with the planet and the nearest three stars each time. Write the date under each drawing.
-- **schedule:** day 1: Use the app to find which bright planet is in the sky tonight. Find it in the sky and draw it with the stars next to it. (15 min); day 4: Draw the same patch of sky again, and check whether the planet has moved. (10 min); day 7: Draw it a third time. Then use the app to speed up time and watch a planet's loop. (15 min)
+- **schedule:** day 1: Use a sky-map app to find which bright planet is in the sky tonight. Find it in the sky and draw it with the stars next to it. (15 min); day 4: Draw the same patch of sky again, and check whether the planet has moved. (10 min); day 7: Draw it a third time. Then use the app to speed up time and watch a planet's loop. (15 min)
 - **s1 (10 min) · grown-up needed**  
-  *Parent does:* Open the sky-map app and set it to tonight. Find a bright planet that is above the horizon in the evening or morning. Go outside and find it. Draw it and the three nearest stars. Measure the gaps in fists.  
+  *Parent does:* Open the sky-map app and set it to tonight. Find a bright planet that is above the horizon in the evening or morning. Go outside and find it. Draw it and the three nearest stars. Measure the gaps between them in fists held at arm's length.  
   *Parent says:* A planet is a wandering star. Let's find one. In the app, find the brightest planet tonight. Then find it in the real sky. What stars are near it? Draw them.  
   *Child mode:* Find a bright planet with the app. Find it in the sky. Draw it with its three nearest stars.
   - Note: Venus, Jupiter, Saturn and Mars are the planets you can find without a telescope. Which of them is up changes through the year. The app tells you which. Planets shine with a steady light. Stars twinkle. If it is cloudy, try the next night. Check in the app how far the planet is expected to move in a week. If the sky is cloudy for days, or the app shows no bright planet up this week, draw the Moon next to a bright star on three nights instead. The Moon moves a fist or more each night, so the shift is easy to see. Each child draws their own page. One child with a parent: the parent keeps the app open and the child draws. For 2 to 4 children: one finds the planet in the app, one finds it in the sky, one measures gaps, and one draws, and then swap.
 - **s2 (10 min)**  
   *Parent does:* Three days later, at the same time, go out and draw the same patch of sky. Compare it with the first drawing. Has the planet moved against the stars? Which way?  
-  *Parent says:* Three nights later, same time, same place. Where is the planet now? Where are the stars? Which have moved, and which have not?  
+  *Parent says:* It is three nights later, at the same time and in the same place. Where is the planet now? Where are the stars? Which have moved, and which have not?  
   *Child mode:* Draw the same patch again. Has the planet moved against the stars?
   - Note: Venus moves about a finger-width or two in three days, and Mars about one. Jupiter and Saturn move much less than one finger-width in a week, so they may look unmoved. Measure the gap between the planet and a nearby star in finger-widths at arm's length each night. If you chose a slow planet and see no change, do not worry. Draw it again after three weeks, or trust the app, which shows the small shift. If you cannot see a shift, look at the three nights together. The stars stay put in the drawing and the planet slides.
   - Check: Why were planets called 'wanderers' by the Greeks? → **They change place among the fixed stars from night to night**
 - **s3 (10 min)**  
-  *Parent does:* On the seventh night, draw it a third time. Then use the app to speed up time by a month a second. Watch Mars, Jupiter or Saturn for a year. Look for the backward loop.  
+  *Parent does:* On the seventh night, draw it a third time. Then use the app to speed up time, with the time step set to one day. Watch Mars, Jupiter or Saturn for a year. Look for the backward loop.  
   *Parent says:* Now the app can show us a whole year in a few seconds. Watch the planet against the stars. Does it ever stop and slide backwards? When?  
   *Child mode:* Speed up time in the app. Watch the planet. Does it slide backwards?
   - Note: In the app, choose a planet that is far from the Sun, such as Mars or Jupiter. Set the time step to one day. When the planet seems to stop, slide back and go forward again, you have seen retrograde motion. Earth overtakes it, as a car overtakes a lorry.
 - **s4 (10 min)**  
-  *Parent does:* Look at your three drawings and the loop in the app. Ask for what I think, what I saw and why.  
+  *Parent does:* Look at your three drawings and the loop in the app. Ask your child what they think now, what they saw that shows it, and why.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Why did people long ago think the planets were wandering stars?  
-  *Child mode:* Say what I think, what I saw and why. Why 'wanderers'?
+  *Child mode:* Say what you think, what you saw and why. Why were planets called wanderers?
   - Note: A good answer: what I think: planets move among the stars, and sometimes loop backwards. What I saw: the planet shifted against the stars over a week, and the app showed a backward loop. Why: the planets go round the Sun at different speeds, and from our own moving Earth they seem to wander and loop.
   - Check: In the app, Mars seems to slide backwards for a time. What is happening in a Sun-centred picture? → **The faster Earth is overtaking the slower Mars**
 ### a4 · Fix the Calendar: why 1900 was not a leap year but 2000 was (25 min)
@@ -501,9 +501,9 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Check: A calendar year is 11 minutes too long. After about how many years is the calendar one day out? → **About 128 years**
 - **s3 (6 min)**  
   *Parent does:* Tell the story: by 1582, the calendar had drifted 10 days from the Sun. Pope Gregory XIII had 10 days removed that year, so 4 October was followed by 15 October. His astronomers added a new rule: a year ending in 00 is a leap year only if it divides by 400. Test the rule on 1900, 2000 and 2100.  
-  *Parent says:* By 1582 the calendar was ten days out. They skipped ten days. And they added a rule. A century year is a leap year only if it divides by 400. Is 1900 a leap year? 2000? 2100?  
+  *Parent says:* By 1582 the calendar was ten days out. So ten days were skipped that year, and a rule was added. A century year is a leap year only if it divides by 400. Is 1900 a leap year? 2000? 2100?  
   *Child mode:* Test the rule. Is 1900 a leap year? 2000? 2100?
-  - Note: 1900 does not divide by 400, so it is not a leap year. 2000 divides by 400, so it is. 2100 does not, so it is not. In 400 years, there are 100 leap years under the old rule, and 3 centuries are skipped, so 97.
+  - Note: 1900 does not divide by 400, so it is not a leap year. 2000 divides by 400, so it is. 2100 does not, so it is not. In 400 years, there are 100 leap years under the old rule. Three century years are skipped, which leaves 97.
 - **s4 (6 min)**  
   *Parent does:* Make the table of years with a tick for each leap year. Work out the average length of a year: 400 years have 365 days each plus 97 extra days. Divide by 400. Then test your own birth year and a grandparent's.  
   *Parent says:* In 400 years there are 97 extra days. That is 400 times 365, plus 97, all divided by 400. What is the average year? How close is that to the real one?  
@@ -517,7 +517,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 - **record:** Draw the turntable seen from above at four stops of a quarter turn, with the tape line on the turntable and the swing direction of the pendulum.
 - **s1 (6 min)**  
   *Parent does:* Show your child the turntable, the books and the pendulum. Explain that the books and ruler turn with the turntable, and the pendulum hangs from the ruler. Ask for a guess: when the turntable turns, will the pendulum turn with it? Write the guess and the reason.  
-  *Parent says:* The pendulum hangs from a frame that sits on the turntable. When I turn the turntable, will the pendulum swing turn round with it, or keep swinging the same way? Why do you think so?  
+  *Parent says:* The pendulum hangs from a frame that sits on the turntable. When I turn the turntable, will the pendulum's swing turn round with it, or keep going the same way? Why do you think so?  
   *Child mode:* A pendulum on a turntable. When the table turns, will the swing turn too? Why?
   - Ask: Why do you think the swing will, or will not, turn with the table? (good: The frame is holding it, so it will turn.; The pendulum will keep swinging the same way.; I am not sure. Let's test.)
   - Note: Do not correct the guess. Most people expect the swing to turn with the frame.
@@ -533,9 +533,9 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Child mode:* Start the pendulum swinging. Turn the table slowly. Does the swing turn?
   - Note: Expected: the frame and the table line turn through a quarter turn, but the pendulum keeps swinging along the room line. If the swing turns into an oval or wobbles, release the weight again without pushing it, or use a longer, finer thread. The result may not be perfect, since there is some friction. What matters is that the swing does not turn with the table. If the swing turns along with the table, the pivot is gripping the thread. Use the swivel, a longer and finer thread, or try the hand-held version: hang the thread from a pencil held in your fingers, start a gentle swing along a tape line on the floor, then slowly turn yourself on the spot. The swing keeps its direction while your hand turns. One child with a parent: the parent turns the table and the child watches. For 2 to 4 children: one turns the table, one starts the pendulum, one watches the floor line, and one records, then swap.
 - **s4 (10 min)**  
-  *Parent does:* Draw the four stops of a quarter turn from above. At each stop, draw the table line and the swing direction. Ask for what I think, what I saw and why. Then ask about the Earth.  
-  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Now imagine the turntable is the Earth, and the pendulum is Foucault's pendulum in Paris. What would a person standing on the Earth see?  
-  *Child mode:* Draw four stops. Say what I think, what I saw and why. What if the table is the Earth?
+  *Parent does:* Draw the four stops of a quarter turn from above. At each stop, draw the table line and the swing direction. Ask your child what they think now, what they saw that shows it, and why. Then ask about the Earth.  
+  *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why? Now suppose the turntable is the Earth, and the pendulum is Foucault's pendulum in Paris. What would a person standing on the Earth see?  
+  *Child mode:* Draw the four stops. Say what you think, what you saw and why. What if the table is the Earth?
   - Note: This is claim, evidence and reasoning. A good answer: what I think: the pendulum keeps swinging in the same direction while the table turns. What I saw: the table line turned a quarter turn, but the swing stayed along the room line. Why: nothing pushed the swing sideways, so it kept its direction. If the table is the Earth, then to a person standing on it the swing seems to turn slowly in the opposite direction. In 1851, Foucault hung a heavy pendulum in Paris and the swing turned round the floor at about 11 degrees an hour, which showed that the floor was turning under it.
   - Check: In Foucault's pendulum, the swing seemed to turn slowly round the floor. What did that show? → **The floor, and the Earth, was turning under the pendulum**
 
@@ -546,9 +546,9 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 - **your turn:** Set up your stick and mark the shadow tip five times. Find the north-south line and the time of your local noon. Then check it against your phone clock and your sundial.
 - **constraints:** Use only a straight stick pushed upright into clay, a sheet of paper, tape or pebbles, and a ruler.; Do not use a phone compass or a phone map to find the answer. A phone clock may be used only to check afterwards.; Mark the tip of the shadow at least five times, 15 minutes apart, around the middle of the day.; Never look at the Sun.
 - **general:** Mark the tip of the shadow every 15 minutes for an hour or more around the middle of the day, and join the marks with a smooth curve.; The shortest shadow shows the Sun at its highest point. The line from the stick's base to the end of the shortest shadow lies north and south.; Local noon is the time when the shadow is shortest.
-- **creative:** Draw a circle round the stick's base that passes through a shadow tip in the morning. Find where the afternoon shadow tip crosses the circle. The line that cuts the two marks in half also points north-south.; Make a tiny hole in a card so that a bright spot of Sun, and not a shadow, marks the time.; Repeat the activity a month later and see how the shortest shadow changes.
+- **creative:** Draw a circle round the stick's base that passes through a shadow tip in the morning. Mark where the afternoon shadow tip crosses the circle. Join the two marks with a line and find its middle. The line from the stick's base to that middle also points north-south.; Make a tiny hole in a card so that a bright spot of Sun, and not a shadow, marks the time.; Repeat the activity a month later and see how the shortest shadow changes.
 - **s1 (8 min)**  
-  *Parent does:* Stand the stick upright in clay on a sheet of paper in a sunny place, taped down so it cannot move. Mark the stick's base. Mark the tip of its shadow with a cross and write the time.  
+  *Parent does:* Tape a sheet of paper down in a sunny place so that it cannot move. Stand the stick upright in clay on the paper. Mark the stick's base. Mark the tip of its shadow with a cross and write the time.  
   *Parent says:* The shadow of a stick moves as the Earth turns. We will mark where the tip of the shadow falls every 15 minutes. Begin about an hour before you think the Sun is highest.  
   *Child mode:* Stand a stick on paper in the Sun. Mark the tip of the shadow. Write the time.
   - Note: Local noon is between about 11:15 and 13:00 on a phone clock, depending on where you live in India and the time of year. Start by 11:00 so you catch the shortest shadow, and keep marking until the shadow starts to grow longer. Do not move the paper. Near noon from April to August, the shadow of a short stick is only a few centimetres long in much of India, and the tip is hard to mark. Use a taller stick then, or try in October to February. Pick a clear day, because a cloudy monsoon sky hides the shadow. One child with a parent: the parent keeps time and the child marks. For 2 to 4 children: each child takes charge of one or two of the marks, and one reads the clock.
@@ -562,18 +562,18 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Parent does:* Find the cross that is nearest to the stick's base. Draw a straight line from the base through it. This is the north-south line. The time written next to that cross is your local noon.  
   *Parent says:* Find the shortest shadow. Draw a line from the stick's base through the tip. That line points north and south. The time of that cross is your local noon. Compare it with 12 o'clock on your phone.  
   *Child mode:* Find the shortest shadow. Draw a line from the base through it. Compare the time to your phone.
-  - Note: If the shortest shadow falls between two crosses, draw the curve and read the nearest point to the base. Your local noon will differ from 12:00 by up to about an hour, from your place and the time of year. Because the shadow length changes slowly near noon, your local noon may be wrong by 10 or 15 minutes, and the north line by a few degrees. That is normal. A mark every 10 minutes helps.
+  - Note: If the shortest shadow falls between two crosses, draw the curve and read the nearest point to the base. Your local noon will differ from 12:00 by up to about an hour, depending on your place and the time of year. Because the shadow length changes slowly near noon, your local noon may be wrong by 10 or 15 minutes, and the north line by a few degrees. That is normal. A mark every 10 minutes helps.
   - Check: When is the shadow of a stick shortest in the day? → **At local noon, when the Sun is highest**
 - **s4 (7 min)**  
   *Parent does:* Compare your answer with a phone compass and with the sundial if you have made one. Ask: how close were you? What might have made your line a little wrong?  
-  *Parent says:* How close was your line to the phone compass? What might have made it a little wrong? The stick, the paper, the way you marked the tip?  
+  *Parent says:* How close was your line to the phone compass? What might have made it a little wrong? Was it the stick, the paper, or the way you marked the tip?  
   *Child mode:* Check against a compass. How close were you?
-  - Note: A well-done stick shadow finds north to within a few degrees. Mistakes come from a wobbly stick, a blurred shadow tip, and paper that moved. The blurred shadow edge is because the Sun is a disc.
+  - Note: A well-done stick shadow finds north to within a few degrees. Mistakes come from a wobbly stick, a blurred shadow tip, and paper that moved. The shadow's tip is blurred because the Sun is a disc and not a point.
 ### c2 · Make Your Case: Earth-centred or Sun-centred? Choose your year (30 min)
 - **problem:** It is the year 1600. You are a court astronomer. You must advise the king which model of the sky to use: Ptolemy's Earth-centred model, Tycho's middle model, or Copernicus's Sun-centred model. Then you are asked again in 1620, in 1700 and in 1840, and you must see whether your advice changes.
 - **your turn:** Write your advice for each of the four years in one or two sentences. Say which piece of evidence made you change your mind, if any.
 - **constraints:** Use only evidence that was known by the year you are advising in.; Write down what each piece of evidence fits and what it does not.; Give a reason for your choice that a king could understand.; Be fair to the other models.
-- **general:** 1600: planets loop (all three models explain it), no star shifts are seen (a problem for a moving Earth), Tycho's careful readings exist.; 1620: Galileo has seen moons of Jupiter and phases of Venus, so Ptolemy's Venus is wrong. Kepler's ellipses fit the planets' paths well.; 1700: Newton's law of gravity explains Kepler's ellipses, and says that a heavy Sun should be at the centre.; 1840: Bessel has measured a star's shift, and the Earth's motion is proved. Foucault's pendulum follows in 1851.
+- **general:** 1600: Planets loop, and all three models explain it. No star shifts are seen, which is a problem for a moving Earth. Tycho's careful readings exist.; 1620: Galileo has seen moons of Jupiter and phases of Venus, so Ptolemy's Venus is wrong. Kepler's ellipses fit the planets' paths well.; 1700: Newton's law of gravity explains Kepler's ellipses, and says that a heavy Sun should be at the centre.; 1840: Bessel has measured a star's shift, and the Earth's motion is proved. Foucault's pendulum follows in 1851.
 - **creative:** Argue as a person who dislikes new ideas, and explain what you would need to see to be persuaded.; Write a letter from a young astronomer to an older one, explaining why the 8 arcminutes matter.; Make a timeline poster showing each piece of evidence at its year and which models it helps.
 - **s1 (8 min)**  
   *Parent does:* Read the problem and the three models. Read out the evidence list for 1600. Ask which model your child would advise, and why. Write the answer.  
@@ -584,7 +584,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 - **s2 (14 min)**  
   *Parent does:* Read the evidence for 1620, 1700 and 1840 one at a time. After each, ask whether the advice changes, and why. Write each answer.  
   *Parent says:* Now it is 1620. Galileo has seen the phases of Venus and the moons of Jupiter. Does your advice change? Why? And in 1700, with Newton? And in 1840, with Bessel?  
-  *Child mode:* New evidence for 1620. Does your advice change? Why?
+  *Child mode:* Here is new evidence for 1620. Does your advice change? Why?
   - Note: Expected: in 1620 Ptolemy's model is out, but Tycho's still fits. In 1700 the Sun-centred model fits Newton best. In 1840, the Earth's motion is proved. A good answer says why the evidence changes things, and does not merely say that the Sun-centred model was right all along. One child with a parent: the parent plays the king and asks why each time. For 2 to 4 children: in 1600, each child argues for one model (Ptolemy, Tycho or Copernicus), and at each new year each says whether to keep it, with the parent reading the evidence and acting as king. Bessel measured his star shift in 1838, so it was known by 1840.
 - **s3 (8 min)**  
   *Parent does:* Look at your four answers. Talk about what made the most difference, and what a person in 1600 could not have known.  
@@ -597,7 +597,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 1. (mcq) A passenger in a smooth train shuts her eyes. Why can she not tell whether the train is moving?  
    Options: A steady movement cannot be felt, only changes in movement / Trains make no noise / Her body is too heavy to feel it  
    **Answer:** A steady movement cannot be felt, only changes in movement. *Why:* Our bodies feel starts, stops and turns, not steady movement. This is why nobody could feel the Earth turn.
-2. (write) With your eyes shut in the spinning chair, a slow steady turn was hard to feel, but a sudden stop was easy. Explain why.  
+2. (write) In The Spinning Chair, with your eyes shut, a slow steady turn was hard to feel, but a sudden stop was easy. Explain why.  
    **Answer:** The body senses changes in movement. A steady turn has no change to feel. A sudden stop is a big change, so it can be felt.. *Why:* A strong answer says that the body feels changes in movement and not steady movement, and uses both halves of the test.
 3. (fill) Aryabhata wrote that the stars only seem to move west because the ____ turns to the east.  
    **Answer:** ['Earth']. *Why:* Aryabhata's picture was a boat: a person in a boat moving forward sees the bank moving backwards.
@@ -608,10 +608,10 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
    **Answer:** The faster Earth is overtaking the slower Mars. *Why:* The Earth goes round the Sun faster than Mars does. As the Earth passes Mars, Mars seems to slide back against the stars, as a slower lorry seems to slide back when a car passes it.
 6. (match) Match each word to its meaning.  
    **Answer:** Geocentric → Having the Earth at the centre; Heliocentric → Having the Sun at the centre; Ellipse → A stretched circle with two special points inside; Arcminute → One sixtieth of a degree. *Why:* These four words are used all through the story of how astronomers changed their minds.
-7. (write) In the lamp-and-ball test, a ball that stayed between you and the lamp never looked more than a thin crescent. What does that tell you about Ptolemy's Venus?  
+7. (write) In Galileo's Venus, a ball that stayed between you and the lamp never looked more than a thin crescent. What does that tell you about Ptolemy's Venus?  
    **Answer:** In Ptolemy's model Venus stays between the Earth and the Sun. Then it could only show crescents. Galileo saw Venus nearly full, so Ptolemy's model could not be right.. *Why:* A strong answer links what the ball did to what Galileo saw, and says the model could not make a full Venus.
 8. (order) Put these steps of Kepler's discovery in order, from first to last.  
-   **Answer:** ['Tycho measures Mars very carefully for many years', 'Kepler tries circle after circle for Mars', 'Kepler finds that a circle misses by 8 arcminutes', 'Kepler throws out the circle and finds the ellipse']. *Why:* The careful readings came first. The trial of circles showed a small gap, and a careful scientist trusted the gap more than the circle.
+   **Answer:** ['Tycho measures Mars very carefully for many years', 'Kepler tries circle after circle for Mars', 'Kepler finds that a circle misses by 8 arcminutes', 'Kepler throws out the circle and finds the ellipse']. *Why:* The careful readings came first. Trying circles showed a small gap, and Kepler trusted the gap more than the circle.
 9. (mcq) What is an ellipse?  
    Options: A stretched circle, like an oval, with two special points inside / A circle with a bump / A straight line  
    **Answer:** A stretched circle, like an oval, with two special points inside. *Why:* A circle is a special ellipse with both special points in the same place. Planets move on ellipses with the Sun at one of the two points.
@@ -629,7 +629,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 15. (write) Why is the edge of the shadow on a sundial blurred?  
    **Answer:** The Sun is a round disc and not a point. Each point on the disc makes its own shadow, and they overlap in the middle and slide apart at the edge. So the edge fades.. *Why:* A strong answer says that the Sun is a disc, and that each point of it casts its own shadow.
 16. (label) Label the picture of a quadrant: straw sight, scale, thread, weight.  
-   **Answer:** The straw is along the flat edge. The scale is the curved edge with numbers. The thread hangs from the centre mark. The weight is at the end of the thread.. *Why:* A strong labeller puts the thread at the centre of the scale and the weight at its bottom end, because the weight keeps the thread straight down.
+   **Answer:** The straw is along the flat edge. The scale is the curved edge with numbers. The thread hangs from the centre mark. The weight is at the end of the thread.. *Why:* A strong answer puts the thread at the centre of the scale and the weight at its bottom end, because the weight keeps the thread straight down.
 17. (truefalse) The Earth is farther from the Sun in January than in July.  
    **Answer:** False. *Why:* False. The Earth is a little closer to the Sun in early January. The seasons come from the tilt of the Earth's axis, and not from the distance.
 18. (mcq) Which set of readings of an angle has the higher precision?  
@@ -646,7 +646,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 4. (truefalse) Venus looks the same size all the time through a telescope.  
    **Answer:** False. *Why:* False. Venus looks about six times wider when it is nearest to us than when it is farthest. When nearest, it is a big thin crescent.
 5. (fill) Kepler found that a planet moves ____ when it is closer to the Sun.  
-   **Answer:** ['faster']. *Why:* The Sun's pull is stronger when the planet is nearer, so the planet speeds up, and slows down when it is far.
+   **Answer:** ['faster']. *Why:* The Sun's pull is stronger when the planet is nearer, so the planet speeds up. When the planet is far, it slows down.
 6. (mcq) Your best spread of readings with the quadrant is 1 degree. How many arcminutes is that?  
    Options: 60 arcminutes / 1 arcminute / 100 arcminutes  
    **Answer:** 60 arcminutes. *Why:* One degree has 60 arcminutes. Tycho's readings were good to about 1 arcminute, 60 times more precise.
@@ -682,7 +682,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 ### Sky Detective (challenge) (challenge, 16 questions)
 1. (write) Give three reasons why a thoughtful person in 1600 could still doubt that the Earth moves.  
    **Answer:** Nobody could feel the Earth move. No star seemed to shift, which a moving Earth should cause. The Sun-centred model was no more accurate than the old one. Also, Tycho's middle model explained the sky as well.. *Why:* A strong answer gives reasons that fitted the evidence of the time, and does not treat people of 1600 as foolish.
-2. (perspective) The careful readings of a planet's place differ by a tiny amount from the shape of a perfect circle. Three people are discussing what to do.  
+2. (perspective) Careful readings of where a planet is differ by a tiny amount from a perfect circle. Three people are discussing what to do.  
    **Answer:** A strong answer uses Kepler and the 8 arcminutes: the readings had been tested and were more reliable than the circle. It then admits that a difference can sometimes be a mistake, so the readings should be checked first.. *Why:* This is how Kepler decided. It balances trust in careful measurement against love of a beautiful idea.
 3. (mcq) A pendulum is set swinging at the North Pole. About how long does its swing take to turn once all the way round the floor?  
    Options: About one day / About one hour / It never turns  
@@ -719,7 +719,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
    **Answer:** One example: planets move on perfect circles. Kepler used Tycho's careful readings of Mars and found that the best circle was wrong by 8 arcminutes. He trusted the readings, gave up the circle and found an ellipse. Another example: Ptolemy's Venus, which Galileo's telescope showed was wrong.. *Why:* A strong answer names the idea, the evidence that showed it wrong, and how the evidence was gathered.
 
 ## Videos
-- **Backwards-Moving Mars: What Does 'Retrograde' Mean?** (Live Science, 3 min) id `IEMm1VBtr8k`: To see the Earth overtaking Mars in a short animation, after the Wanderer Watch and the lamp-and-ball test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Backwards-Moving Mars: What Does 'Retrograde' Mean?** (Live Science, 3 min) id `IEMm1VBtr8k`: To see the Earth overtaking Mars in a short animation, after Wanderer Watch. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **The Giant Sundial of Jantar Mantar | It Happens Only in India | National Geographic** (National Geographic India, 5 min) id `noGiGORI620`: To see the Samrat Yantra and its shadow crawling over the scale, after the sundial activity. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Kepler, Tycho and the ellipse: how Mars changed astronomy** (to be found, 6 min) id `to find`: To see how careful readings of Mars led to the ellipse, after drawing an ellipse with pins. *Check:* Not yet found. Find a short, accurate video on Kepler and Tycho, watch it, and check it before adding it.
 
@@ -736,12 +736,12 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 4. (mcq) In a Sun-centred picture, what happens when Mars seems to slide backwards?  
    Options: The Earth is passing Mars on the inside track / Mars is slowing to a stop / Mars is turning round the Earth  
    **Answer:** The Earth is passing Mars on the inside track. *Why:* The Earth is on the faster, inner track and overtakes Mars. From the passing Earth, Mars seems to slide back against the stars.
-5. (mcq) In the lamp-and-ball test, a ball that stays between you and the lamp can look only like what?  
+5. (mcq) In Galileo's Venus, a ball that stays between you and the lamp can look only like what?  
    Options: A thin crescent or dark / A nearly full ball / A half ball  
    **Answer:** A thin crescent or dark. *Why:* The lamp lights the half of the ball that faces the lamp. If the ball stays in front of the lamp, you mostly see the dark half.
 6. (mcq) Galileo saw Venus look nearly full and small, and later look like a big thin crescent. What did this show?  
    Options: Venus goes round the Sun and not only in front of it / Venus is a star / Venus is a Moon  
-   **Answer:** Venus goes round the Sun and not only in front of it. *Why:* A nearly full Venus must be seen from the far side of its path, and that is beyond the Sun. Ptolemy's model could not do this.
+   **Answer:** Venus goes round the Sun and not only in front of it. *Why:* Venus looks nearly full only when it is on the far side of its path, beyond the Sun. Ptolemy's model could not do this.
 7. (mcq) Resting the quadrant on a table made the readings agree more closely than holding it in the hands. What is the reason?  
    Options: The table took away the shaking of the hands / The table made the sticker bigger / The table made the numbers smaller  
    **Answer:** The table took away the shaking of the hands. *Why:* A shaking hand scatters the readings. A steady rest makes each reading nearly the same as the last, which is higher precision.
@@ -765,7 +765,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
    **Answer:** Hydrogen and helium. *Why:* She used the dark lines in starlight and an equation by the Indian physicist Meghnad Saha. She showed that stars are mostly hydrogen and helium, though she was told at first that this was impossible.
 
 ## Applications
-- Phone maps use the same idea of two viewpoints as parallax and the same geometry as Kepler's ellipses, to place satellites and find your position.
+- Phone maps find your position from satellites. They use two viewpoints, as parallax does, and the satellites follow Kepler's ellipses.
 - Spacecraft are aimed using Kepler's ellipses and Newton's gravity, as Mangalyaan was aimed at Mars.
 - Standard time zones are set so that every place on Earth has a clock that is roughly in step with the Sun.
 - Surveyors use the same angle-measuring idea as the quadrant, in an instrument called a theodolite, to map land and plan roads.
@@ -777,10 +777,10 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 - Spectrum lines, first read in starlight, are used today to find the metals in an old pot, a gemstone or a river sample.
 
 ## Spotted around us
-- A shadow on the floor from a window creeping across the tiles over an hour, which is the Earth turning.
+- A window's shadow creeping across the floor tiles over an hour, because the Earth is turning.
 - A sundial in a garden, a school or a temple courtyard, with a tilted blade casting a shadow on a plate.
 - A bright planet in the evening sky, steady and not twinkling, while the stars around it flicker.
-- A moving train next to yours that seems to slide backwards when you pull out of the station.
+- A train standing next to yours that seems to slide backwards when your train pulls out of the station.
 - A clock on a wall in a railway station showing the same time as every other station in India.
 - The shadow of a flagpole or a lamp post, shortest around the middle of the day.
 - A calendar on the wall with 29 February in a leap year.
@@ -822,14 +822,14 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 ## Connected maths
 - Your best spread of quadrant readings is 2 degrees. Tycho's readings were good to 1 arcminute. There are 60 arcminutes in a degree. How many times more precise was Tycho than your quadrant? **120 times.**. 2 degrees is 2 times 60, which is 120 arcminutes. 120 arcminutes compared with 1 arcminute is 120 times. (queues `math.multiplication.multi-digit.L4`)
 - India's Standard Time is set by the Sun at 82.5 degrees east. Chennai is at about 80.3 degrees east. The Sun is 4 minutes later for every degree you go west. How many minutes later is the Sun's noon in Chennai than at the standard place? **About 9 minutes.**. 82.5 take away 80.3 is 2.2 degrees. 2.2 times 4 is 8.8 minutes, which is about 9 minutes. (queues `math.decimals.multiply-decimals.L4`)
-- Jaipur is at about 75.8 degrees east. Standard time is set at 82.5 degrees east. The Sun is 4 minutes later for every degree you go west. By about how many minutes does the Sun reach its highest point at Jaipur after it did at the standard place? **About 27 minutes.**. 82.5 take away 75.8 is 6.7 degrees. 6.7 times 4 is 26.8, which is about 27 minutes. (queues `math.decimals.multiply-decimals.L4`)
+- Jaipur is at about 75.8 degrees east. Standard time is set at 82.5 degrees east. The Sun is 4 minutes later for every degree you go west. About how many minutes later does the Sun reach its highest point at Jaipur than at the standard place? **About 27 minutes.**. 82.5 take away 75.8 is 6.7 degrees. 6.7 times 4 is 26.8, which is about 27 minutes. (queues `math.decimals.multiply-decimals.L4`)
 - The Earth's circumference at the equator is about 40,000 kilometres, and it turns once in 24 hours. About how fast does the ground move at the equator? A very fast Indian train runs at about 160 kilometres an hour. How many times faster is the ground? **About 1,670 kilometres an hour, which is about 10 times as fast as the train.**. 40,000 divided by 24 is about 1,667. 1,667 divided by 160 is about 10.4. So the ground moves about 10 times faster than the train, and we do not feel it. (queues `math.division.multi-digit.L4`)
 - With a loop of thread 24 centimetres round, the width of an ellipse is 24 take away the distance between the pins. How wide is the shape with the pins 6 centimetres apart? How wide with 12 centimetres apart? What is the pin distance for a width of 20 centimetres? **18 centimetres, 12 centimetres, and 4 centimetres.**. 24 take away 6 is 18. 24 take away 12 is 12. For a width of 20, the pins must be 24 take away 20, which is 4 centimetres apart. (queues `math.addition-subtraction.multi-digit.L4`)
 - A calendar year with a leap year every fourth year is 11 minutes too long. How many minutes too long is it after 128 years? How many hours is that, and how close is it to one day? **1,408 minutes, about 23 and a half hours, which is almost one day.**. 11 times 128 is 1,408. 1,408 divided by 60 is about 23.5 hours. One day is 24 hours, so it is nearly a whole day. (queues `math.multiplication.multi-digit.L4`)
 - Under the Gregorian rule, 400 years have 97 leap days. How many days are in 400 years? What is the average length of a year? **146,097 days, and an average year of 365.2425 days.**. 400 times 365 is 146,000. Add 97 to get 146,097. 146,097 divided by 400 is 365.2425. (queues `math.division.multi-digit.L4`)
-- In the spinning chair test, a child answered six rounds and got four right. If she had just guessed each round, she would expect to get three right. By how much did she beat chance? Is that enough to be sure she could feel the turn? **She beat chance by one round. That is not enough to be sure.**. 4 take away 3 is 1. With only six rounds, getting one more than chance can easily happen by luck. To be sure, you would need many more rounds. (queues `math.data.reading-data.L4`)
+- In The Spinning Chair, a child answered six rounds and got four right. If she had just guessed each round, she would expect to get three right. By how much did she beat chance? Is that enough to be sure she could feel the turn? **She beat chance by one round. That is not enough to be sure.**. 4 take away 3 is 1. With only six rounds, getting one more than chance can easily happen by luck. To be sure, you would need many more rounds. (queues `math.data.reading-data.L4`)
 - Venus is about 40 million kilometres from the Earth when it is nearest, and about 260 million kilometres when it is farthest. About how many times farther away is it when farthest? What does that suggest about how its size changes? **About 6 times farther, so it looks about 6 times wider when nearest.**. 260 divided by 40 is 6.5. A thing that is 6.5 times farther looks about 6.5 times smaller across. So Venus looks about 6 times wider when it is nearest. (queues `math.division.multi-digit.L4`)
-- The Earth overtakes Mars about every 780 days. A month is about 30 days. About how many months is that? If Mars was last overtaken in March, in which season of the year will the next overtaking be? **About 26 months, so it will be about two years and two months later, in May.**. 780 divided by 30 is 26 months. 26 months is 2 years and 2 months. Two months after March is May. (queues `math.division.multi-digit.L4`)
+- The Earth overtakes Mars about every 780 days. A month is about 30 days. About how many months is that? If the Earth last overtook Mars in March, in which month will it next overtake Mars? **About 26 months, so it will be about two years and two months later, in May.**. 780 divided by 30 is 26 months. 26 months is 2 years and 2 months. Two months after March is May. (queues `math.division.multi-digit.L4`)
 - The Samrat Yantra at Jaipur is about 27 metres tall. You make a model of it that is 100 times smaller. How tall is the model in centimetres? **27 centimetres.**. 27 metres is 2,700 centimetres. 2,700 divided by 100 is 27 centimetres. (queues `math.measurement-basics.scale.L4`)
 - At Paris, Foucault's pendulum turned its swing by about 11 degrees every hour. About how many hours would it take to turn all the way round, through 360 degrees? **About 33 hours.**. 360 divided by 11 is about 32.7. So it would take about 33 hours to turn all the way round. (queues `math.division.multi-digit.L4`)
 
@@ -854,7 +854,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 
 ## Warm-up
 - Why can you not feel the Earth turn? → A steady movement cannot be felt, only changes.
-- Why do planets sometimes seem to go backwards? → A faster Earth overtakes a slower planet.
+- Why do planets sometimes seem to go backwards? → The faster Earth overtakes a slower planet.
 - What did Aryabhata say about the Earth? → That it spins once a day.
 - What shape is a planet's path? → An ellipse, with the Sun at one focus.
 - What does precision mean? → How closely repeated readings agree.
@@ -876,7 +876,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - Aryabhata, Aryabhatiya, 499, Golapada verses 9 and 10 (the Earth's spin and the boat), in the translation of W. E. Clark, 1930
 - Brahmagupta, Brahmasphutasiddhanta, 628, chapter 11 (arguments against a moving Earth), as discussed in Plofker, Mathematics in India, Princeton University Press, 2009
 - Nilakantha Somayaji, Tantrasangraha, 1501, and Sarma, K. V., A History of the Kerala School of Hindu Astronomy, 1972
-- Copernicus, De revolutionibus orbium coelestium, 1543; Kepler, Astronomia Nova, 1609; Galileo, Sidereus Nuncius, 1610, and the Dialogue Concerning the Two Chief World Systems, 1632
+- Copernicus, De revolutionibus orbium coelestium, 1543; Kepler, Astronomia Nova, 1609; Galileo, Sidereus Nuncius, 1610, and the Dialogue Concerning the Two Chief World Systems, 1632; Maria Cunitz, Urania propitia, 1650 (a simpler way to use Kepler's tables); Sophie Brahe as Tycho's assistant at Uraniborg (Wikipedia, Sophie Brahe; the size of her part is not known)
 - Bradley on the aberration of starlight, 1729; Bessel on the parallax of 61 Cygni, 1838; Foucault's pendulum experiment, 1851
 - Payne, C. H., Stellar Atmospheres, Harvard doctoral thesis, 1925, and Saha, M. N., 'Ionization in the solar chromosphere', Philosophical Magazine, 1920
 - Saliba, G., Islamic Science and the Making of the European Renaissance, MIT Press, 2007 (Maragha, Ibn al-Shatir and the question of Copernicus)
