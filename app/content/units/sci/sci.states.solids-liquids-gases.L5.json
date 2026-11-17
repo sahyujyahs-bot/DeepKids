@@ -323,8 +323,8 @@
   {
    "claim": "Carbon dioxide in the air traps the Sun's heat, so more of it would warm the Earth.",
    "who": "Eunice Newton Foote, an American scientist, in 1856",
-   "for": "She filled glass cylinders with different gases and stood them in sunshine. The cylinder of carbon dioxide grew hottest and stayed warm longest.",
-   "against": "Her paper was read out by a man at a science meeting and then forgotten for about 150 years. Later measurements by many scientists showed she was right.",
+   "for": "She filled glass cylinders with different gases and stood them in sunshine. The cylinder of carbon dioxide grew hottest.",
+   "against": "Her paper was read out by a man at a science meeting and then forgotten for a very long time. Later measurements by many scientists showed she was right.",
    "status": "accepted",
    "context": "This card is about an early finding on carbon dioxide and heat, made by a woman whose work was forgotten."
   },
@@ -340,7 +340,7 @@
    "claim": "Space begins 100 kilometres above the ground.",
    "who": "The world body that keeps flight records",
    "for": "Above about 100 kilometres the air is too thin for an aeroplane's wings to hold it up. A line is useful for records and for law.",
-   "against": "The air has no top edge. It thins out slowly for hundreds of kilometres. Some scientists and the United States use 80 kilometres instead.",
+   "against": "The air has no top edge. It thins out slowly for hundreds of kilometres. Some scientists argue for 80 kilometres instead.",
    "status": "debated",
    "context": "This card is about where the atmosphere ends and space begins."
   }
@@ -3080,31 +3080,28 @@
  ],
  "videos": [
   {
-   "title": "A brown gas, bromine, spreading slowly through a jar of air and instantly through an empty jar",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "1. Diffusion in gases - bromine in a jar",
+   "channel": "CLSG",
+   "youtube": "jdkOGT0oSBI",
    "mins": 4,
    "why": "To see a coloured gas fill its container. It also shows how much the air particles in the way slow it down.",
-   "check": "No address yet. Find a school chemistry demonstration from a university, a science museum or a chemistry society. Check that it shows both jars, one with air and one pumped empty. Check that nobody is told to try it at home."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Soap bubbles floating on an invisible layer of carbon dioxide in a glass tank",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Flash Science: Floating on CO2",
+   "channel": "CNS Little Shop of Physics",
+   "youtube": "xrpxxeltIjg",
    "mins": 3,
    "why": "To see that a gas heavier than air can lie in a tank like a liquid. The carbon dioxide balloon in Two Balloons on a Hanger sank for the same reason.",
-   "check": "No address yet. Find a clip from a science centre or a well-known science channel. Check that it says the bubbles are full of air and float because carbon dioxide is denser than air."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Weather scientists filling and launching a weather balloon",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Filling and Launching the First Weather Balloon with Hydrogen Produced at PEA",
+   "channel": "International Polar Foundation",
+   "youtube": "tgzWC53-G6Q",
    "mins": 4,
    "why": "To see a light gas lift instruments high into the atmosphere, where the air gets thinner and the balloon swells.",
-   "check": "No address yet. Find a clip from a weather department or a space agency, if possible from India. Check that it names the gas used and shows the balloon growing as it rises."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3326,14 +3323,14 @@
    "url": "",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "A science museum with hands-on exhibits about air, pressure and engines."
+   "why": "A science museum with interactive exhibits and galleries."
   },
   {
    "title": "Birla Industrial and Technological Museum",
-   "url": "",
+   "url": "https://bitm.gov.in/",
    "kind": "place",
    "where": "Kolkata",
-   "why": "A science museum with hands-on exhibits and live science shows."
+   "why": "A science museum with interactive galleries and live science shows."
   }
  ],
  "buy": [
@@ -3588,11 +3585,11 @@
  },
  "how_we_found_out": {
   "context": "How did people find out that air is a mixture of gases, each with its own mass? This card tells the true story, and the idea that turned out wrong.",
-  "story": "For about two thousand years, most scholars in Europe and West Asia held that air was one simple thing. They called it one of the four elements, with earth, water and fire. In 1638 Galileo Galilei pumped extra air into a glass flask and weighed it. The flask was heavier, so air has weight. Around the same time, Jan Baptist van Helmont, a doctor in Brussels, burned 62 pounds of charcoal. Only 1 pound of ash was left. He said the rest had left as something like air, and he gave it a new name, gas. In the 1750s Joseph Black in Scotland heated a white powder. It lost more than half its mass as a gas. Flames went out in this gas, so it was not ordinary air. In 1766 Henry Cavendish weighed another gas and found it many times lighter than air. In 1894 Lord Rayleigh weighed nitrogen taken from air and nitrogen made from chemicals. The nitrogen from air was heavier, by 1 part in 200. He and William Ramsay hunted for the reason. They found a gas nobody had noticed, argon.",
+  "story": "For about two thousand years, most scholars in Europe and West Asia held that air was one simple thing. They called it one of the four elements, with earth, water and fire. In 1638 Galileo Galilei forced extra air into a glass flask and weighed it. The flask was heavier, so air has weight. Around the same time, Jan Baptist van Helmont, a doctor near Brussels, wrote that he burned 62 pounds of charcoal. Only 1 pound of ash was left. He said the rest had left as something like air, and he gave it a new name, gas. In the 1750s Joseph Black in Scotland heated a white powder. It lost more than half its mass as a gas. Flames went out in this gas, so it was not ordinary air. In 1766 Henry Cavendish weighed another gas and found it about eleven times lighter than air. In 1894 Lord Rayleigh weighed nitrogen taken from air and nitrogen made from chemicals. The nitrogen from air was heavier, by about 1 part in 200. He and William Ramsay hunted for the reason. They found a gas nobody had noticed, argon.",
   "who": "Galileo Galilei in Italy, Jan Baptist van Helmont in Brussels, Joseph Black in Scotland, Henry Cavendish, Lord Rayleigh and William Ramsay in England",
   "when": "Galileo's weighing was printed in 1638 and van Helmont's book in 1648. Black worked in the 1750s and Cavendish in 1766. Argon was found in 1894.",
   "wrong_idea": "That air is one simple element, and that every kind of 'air' is the same thing. Black showed that the gas from his powder put out flames. Cavendish and Rayleigh showed, by weighing, that different gases have different masses.",
   "art": "A man in old-fashioned clothes at a wooden bench, carefully weighing a round glass flask on a brass balance, with a notebook open beside him."
  },
- "playtest": "Reasoned through step by step, as a parent and child in a city flat would do it. Not yet tried at home. Two Balloons on a Hanger (core) needs balloons, vinegar, baking soda, a one-litre bottle and a coat hanger. The carbon dioxide balloon should be 1 to 2 grams heavier than an air balloon of the same size. That tips a light hanger by 1 to 3 centimetres. A fan or an open window hides this, so the room must be still. Foam in the balloon spoils the result, so the soda goes in slowly. The air balloon against a flat balloon should hardly move the hanger, and it may dip a few millimetres. Weigh the Fizz needs a kitchen scale that shows single grams, and expects a loss of 2 to 4 grams. Use only a fizzy-drink bottle for its closed test. Still Air or Fan gives very different times in different rooms, so the steps say to write what really happens. Pour Air Upwards takes two or three tries. Smoke in Two Jars needs a grown-up and an open window. How Much Gas Is One Breath? works best with a flexible tube, and a strong child may empty the two-litre bottle. Bean Gas usually takes 8 to 26 rounds, about ten minutes. Five Sticky Squares shows only specks big enough to see, so the AQI is recorded beside it. Catch the Gas and Measure It needs a grown-up to make a hole in a bottle cap. Its seal may leak the first time. No part needs a garden. Facts to treat with care: the mass of a litre of each gas is rounded, and changes a little with temperature. The 7,000 litres for a cylinder of cooking gas is an estimate, because the gas is a blend. Twelve particle-widths for steam and ten for air are rounded figures. The painted mass on home cylinders varies from about 15 to 17 kilograms. The Upanishad passages are given as paraphrases. The three videos have no address yet."
+ "playtest": "Reasoned through step by step, as a parent and child in a city flat would do it. Not yet tried at home. Two Balloons on a Hanger (core) needs balloons, vinegar, baking soda, a one-litre bottle and a coat hanger. The carbon dioxide balloon should be 1 to 2 grams heavier than an air balloon of the same size. That tips a light hanger by 1 to 3 centimetres. A fan or an open window hides this, so the room must be still. Foam in the balloon spoils the result, so the soda goes in slowly. The air balloon against a flat balloon should hardly move the hanger, and it may dip a few millimetres. Weigh the Fizz needs a kitchen scale that shows single grams, and expects a loss of 2 to 4 grams. Use only a fizzy-drink bottle for its closed test. Still Air or Fan gives very different times in different rooms, so the steps say to write what really happens. Pour Air Upwards takes two or three tries. Smoke in Two Jars needs a grown-up and an open window. How Much Gas Is One Breath? works best with a flexible tube, and a strong child may empty the two-litre bottle. Bean Gas usually takes 8 to 26 rounds, about ten minutes. Five Sticky Squares shows only specks big enough to see, so the AQI is recorded beside it. Catch the Gas and Measure It needs a grown-up to make a hole in a bottle cap. Its seal may leak the first time. No part needs a garden. Facts checked on 17 Nov 2026: the history in the story card (Galileo 1638, van Helmont 1648, Black, Cavendish 1766, Rayleigh and Ramsay 1894-95), the paper citations, the 100-kilometre space line, the WHO 2021 guideline, the 14.2 kg cylinder and its odorant, and the Kolkata museum link. Softened: van Helmont's charcoal figures (his own report), the US 80-kilometre claim, Foote's years of neglect, the Bengaluru museum's exhibits, the rounded gas figures and the 7,000 litres. Not re-opened online: the Upanishad passages (given as paraphrases) and the CPCB link."
 }

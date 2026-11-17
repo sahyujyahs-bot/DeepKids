@@ -113,7 +113,7 @@ School books name three states, and three are enough for most things at home. Bu
 - The amount of carbon dioxide in the air is rising. *How we know:* It has been measured without a break since 1958 at Mauna Loa in Hawaii. It has risen from about 315 to more than 420 particles in every million.
 
 ## How we found out
-**Galileo Galilei in Italy, Jan Baptist van Helmont in Brussels, Joseph Black in Scotland, Henry Cavendish, Lord Rayleigh and William Ramsay in England, Galileo's weighing was printed in 1638 and van Helmont's book in 1648. Black worked in the 1750s and Cavendish in 1766. Argon was found in 1894..** For about two thousand years, most scholars in Europe and West Asia held that air was one simple thing. They called it one of the four elements, with earth, water and fire. In 1638 Galileo Galilei pumped extra air into a glass flask and weighed it. The flask was heavier, so air has weight. Around the same time, Jan Baptist van Helmont, a doctor in Brussels, burned 62 pounds of charcoal. Only 1 pound of ash was left. He said the rest had left as something like air, and he gave it a new name, gas. In the 1750s Joseph Black in Scotland heated a white powder. It lost more than half its mass as a gas. Flames went out in this gas, so it was not ordinary air. In 1766 Henry Cavendish weighed another gas and found it many times lighter than air. In 1894 Lord Rayleigh weighed nitrogen taken from air and nitrogen made from chemicals. The nitrogen from air was heavier, by 1 part in 200. He and William Ramsay hunted for the reason. They found a gas nobody had noticed, argon.  
+**Galileo Galilei in Italy, Jan Baptist van Helmont in Brussels, Joseph Black in Scotland, Henry Cavendish, Lord Rayleigh and William Ramsay in England, Galileo's weighing was printed in 1638 and van Helmont's book in 1648. Black worked in the 1750s and Cavendish in 1766. Argon was found in 1894..** For about two thousand years, most scholars in Europe and West Asia held that air was one simple thing. They called it one of the four elements, with earth, water and fire. In 1638 Galileo Galilei forced extra air into a glass flask and weighed it. The flask was heavier, so air has weight. Around the same time, Jan Baptist van Helmont, a doctor near Brussels, wrote that he burned 62 pounds of charcoal. Only 1 pound of ash was left. He said the rest had left as something like air, and he gave it a new name, gas. In the 1750s Joseph Black in Scotland heated a white powder. It lost more than half its mass as a gas. Flames went out in this gas, so it was not ordinary air. In 1766 Henry Cavendish weighed another gas and found it about eleven times lighter than air. In 1894 Lord Rayleigh weighed nitrogen taken from air and nitrogen made from chemicals. The nitrogen from air was heavier, by about 1 part in 200. He and William Ramsay hunted for the reason. They found a gas nobody had noticed, argon.  
 *What people believed before:* That air is one simple element, and that every kind of 'air' is the same thing. Black showed that the gas from his powder put out flames. Cavendish and Rayleigh showed, by weighing, that different gases have different masses.
 
 ## Challenging perspectives
@@ -124,14 +124,14 @@ School books name three states, and three are enough for most things at home. Bu
   For: Steam, smoke from a fire and helium balloons all go up. So it seems that going up is what gases do.  
   Against: Smoke rises because it is hot, and helium because its particles are light. Cold carbon dioxide and leaked LPG are heavier than air and sink to the floor.
 - **Carbon dioxide in the air traps the Sun's heat, so more of it would warm the Earth.** (Eunice Newton Foote, an American scientist, in 1856; *accepted*)  
-  For: She filled glass cylinders with different gases and stood them in sunshine. The cylinder of carbon dioxide grew hottest and stayed warm longest.  
-  Against: Her paper was read out by a man at a science meeting and then forgotten for about 150 years. Later measurements by many scientists showed she was right.
+  For: She filled glass cylinders with different gases and stood them in sunshine. The cylinder of carbon dioxide grew hottest.  
+  Against: Her paper was read out by a man at a science meeting and then forgotten for a very long time. Later measurements by many scientists showed she was right.
 - **Glass is a very slow liquid, which is why old window panes are thicker at the bottom.** (A popular belief, repeated in many books; *rejected*)  
   For: The particles of glass are jumbled like those of a liquid. Some very old window panes really are thicker at the bottom.  
   Against: In 1998 the physicist Edgar Zanotto did the sums. Window glass would need far longer than the age of the universe to flow that much. Old panes were uneven when they were made.
 - **Space begins 100 kilometres above the ground.** (The world body that keeps flight records; *debated*)  
   For: Above about 100 kilometres the air is too thin for an aeroplane's wings to hold it up. A line is useful for records and for law.  
-  Against: The air has no top edge. It thins out slowly for hundreds of kilometres. Some scientists and the United States use 80 kilometres instead.
+  Against: The air has no top edge. It thins out slowly for hundreds of kilometres. Some scientists argue for 80 kilometres instead.
 
 ## Roots
 We have learned that a gas is a substance with mass, and that it fills its container. We have also learned that air is a mixture of gases. Now we ask what this tells us about ourselves and the world.
@@ -714,9 +714,9 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
    **Answer:** For example: glass is a solid, because it keeps its own shape and volume and does not flow. But it is an unusual solid, because its particles are not in neat rows. This shows that the three states are useful boxes, and some things sit near the edge of a box.. *Why:* A strong answer uses the properties of states to decide, and admits that the fit is not perfect.
 
 ## Videos
-- **A brown gas, bromine, spreading slowly through a jar of air and instantly through an empty jar** (, 4 min) id `to find`: To see a coloured gas fill its container. It also shows how much the air particles in the way slow it down. *Check:* No address yet. Find a school chemistry demonstration from a university, a science museum or a chemistry society. Check that it shows both jars, one with air and one pumped empty. Check that nobody is told to try it at home.
-- **Soap bubbles floating on an invisible layer of carbon dioxide in a glass tank** (, 3 min) id `to find`: To see that a gas heavier than air can lie in a tank like a liquid. The carbon dioxide balloon in Two Balloons on a Hanger sank for the same reason. *Check:* No address yet. Find a clip from a science centre or a well-known science channel. Check that it says the bubbles are full of air and float because carbon dioxide is denser than air.
-- **Weather scientists filling and launching a weather balloon** (, 4 min) id `to find`: To see a light gas lift instruments high into the atmosphere, where the air gets thinner and the balloon swells. *Check:* No address yet. Find a clip from a weather department or a space agency, if possible from India. Check that it names the gas used and shows the balloon growing as it rises.
+- **1. Diffusion in gases - bromine in a jar** (CLSG, 4 min) id `jdkOGT0oSBI`: To see a coloured gas fill its container. It also shows how much the air particles in the way slow it down. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Flash Science: Floating on CO2** (CNS Little Shop of Physics, 3 min) id `xrpxxeltIjg`: To see that a gas heavier than air can lie in a tank like a liquid. The carbon dioxide balloon in Two Balloons on a Hanger sank for the same reason. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Filling and Launching the First Weather Balloon with Hydrogen Produced at PEA** (International Polar Foundation, 4 min) id `tgzWC53-G6Q`: To see a light gas lift instruments high into the atmosphere, where the air gets thinner and the balloon swells. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) A tumbler is pushed mouth-down into water, and the inside stays mostly dry. Why?  
@@ -819,8 +819,8 @@ Particles on the Move (sci.states.L5): Topic-level song
 - [States of Matter: Basics (PhET, University of Colorado)](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: Heat and cool a box of particles and watch them change between solid, liquid and gas.
 - [Gas Properties (PhET, University of Colorado)](https://phet.colorado.edu/en/simulations/gas-properties) · simulation: Pump heavy and light particles into a box, squash the box and watch the particles fill it.
 - [National Air Quality Index (Central Pollution Control Board)](https://airquality.cpcb.gov.in/) · interactive: For the parent: today's AQI for cities across India, and which pollutant is highest.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on exhibits about air, pressure and engines.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on exhibits and live science shows.
+- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with interactive exhibits and galleries.
+- [Birla Industrial and Technological Museum](https://bitm.gov.in/) · place · Kolkata: A science museum with interactive galleries and live science shows.
 
 ## Things to buy
 - [A packet of round balloons](https://www.amazon.in/s?k=round+balloons+pack) (material): For Two Balloons on a Hanger. Any stationery shop sells them. Balloons from one packet are nearly the same mass. Used in e1. 
