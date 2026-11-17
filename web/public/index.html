@@ -7205,7 +7205,7 @@ select.inp {
 }
 .lvrow {
   display: grid;
-  grid-template-columns: 76px 1fr auto;
+  grid-template-columns: 30px 78px 1fr;
   align-items: center;
   gap: 8px;
   padding: 8px 0;
@@ -7219,6 +7219,41 @@ select.inp {
   min-width: 34px;
   padding-inline: 0;
   justify-content: center;
+}
+/* sign-up: subjects and classes stand out as the one thing to check */
+.obcard {
+  display: grid;
+  gap: 8px;
+  padding: 14px;
+  border: 2.5px solid var(--tang);
+  border-radius: var(--r-lg);
+  background: color-mix(in srgb, var(--sun) 16%, #fff);
+}
+.obct {
+  font-size: var(--fs-6);
+}
+.subjtick {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 2px solid var(--ink);
+  border-radius: 8px;
+  background: #fff;
+  color: #fff;
+  font: 700 var(--fs-3) var(--body);
+}
+.subjtick[aria-pressed="true"] {
+  background: var(--forest);
+  border-color: var(--forest);
+}
+.lvrow.off b {
+  color: var(--muted);
+}
+.lvname {
+  display: grid;
+  justify-items: start;
 }
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
@@ -7238,9 +7273,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="eb9e098474b9298fd1";window.DK_APPV="eb9e098474";window.DK_DATAV="b929742644"</script>
-<script src="/config.js?v=eb9e098474b9298fd1"></script>
+<script>window.DK_BUILD="4116603ed5b929cbef";window.DK_APPV="4116603ed5";window.DK_DATAV="b929742644"</script>
+<script src="/config.js?v=4116603ed5b929cbef"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=eb9e098474b9298fd1"></script>
+<script src="/platform.js?v=4116603ed5b929cbef"></script>
 </body>
 </html>

@@ -155,17 +155,6 @@ function settingsView() {
     <div class="field"><label for="sName">Child's name</label><input class="inp" id="sName" maxlength="40" value="${esc(S.child)}"></div><div class="field"><label for="sStart">Plan starts on</label><input class="inp" id="sStart" type="date" value="${S.start}"></div><button class="btn sm self-start" data-act="saveset">Save</button>`,
   )}
   ${grp(
-    "learn",
-    "Syllabus and how you learn",
-    `${S.board === "none" ? "DeepKids Plus" : S.board === "combined" ? "NCERT, Cambridge and NIOS" : BOARDS[S.board]} · ${esc(MODES[modeOf()][0])}`,
-    `<span class="eyebrow">How you learn</span><select class="inp" id="sMode">${Object.entries(MODES)
-      .map(([k, [n]]) => `<option value="${k}" ${modeOf() === k ? "selected" : ""}>${n}</option>`)
-      .join(
-        "",
-      )}</select><p class="xs muted">${esc(MODES[modeOf()][1])}</p><button class="btn sm self-start" data-act="saveset">Save</button>
-    <span class="eyebrow mt8">Syllabus</span><p class="sm">${S.board === "none" ? "DeepKids Plus only" : S.board === "combined" ? "NCERT, Cambridge and NIOS" : BOARDS[S.board]}${S.plus && S.board !== "none" ? " + DeepKids Plus" : ""} · ${S.subjects.map((s) => SUBJ[s]).join(", ")}</p><button class="btn line sm self-start" data-act="redo">Change syllabus or subjects</button>`,
-  )}
-  ${grp(
     "guide",
     "Walkthrough",
     S.guide?.on === false ? "Off" : "On: each screen shows its tips the first time",

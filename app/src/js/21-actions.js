@@ -47,10 +47,6 @@ function onAct(e) {
     obKeepName();
     sfx("tap");
     if (t.dataset.ob === "next") return obNext();
-    if (t.dataset.ob === "more") {
-      ob.more = !ob.more;
-      return render();
-    }
     if (t.dataset.age) d.age = +t.dataset.age;
     if (t.dataset.cls) d.cls = +t.dataset.cls;
     if (t.dataset.b) {

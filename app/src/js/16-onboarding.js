@@ -116,30 +116,21 @@ const obTrack = (d) => {
         : ""
     }`;
 };
-const obSubjects = (d) =>
-  `<p class="sm muted">Subjects: tap one to leave it out or bring it back.</p><div class="row chips">${visSubj(d.board)
-    .map(
-      (k) =>
-        `<button type="button" class="chip" aria-pressed="${d.subjects.includes(k)}" data-s="${k}">${d.subjects.includes(k) ? "✓ " : ""}${SUBJ[k]}</button>`,
-    )
-    .join("")}</div>`;
-const obLevels = (d) =>
-  `<p class="sm muted">Tap the class ${esc(d.child || "your child")} is at in each subject. Not sure? Take the quiz.</p>
-   <div class="lvlist">${d.subjects
-     .map(
-       (x) =>
-         `<div class="lvrow ${subjClass(x)}"><b>${SUBJ[x]}</b><div class="row chips">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}" aria-label="Class ${l}">${l}</button>`).join("")}</div>${fxHasPQ(x) ? `<button type="button" class="link xs" data-obquiz="${x}">Quiz</button>` : "<span></span>"}</div>`,
-     )
-     .join("")}</div>`;
-// what will be set up, with a way to change the subjects and levels
-const obMore = (d) =>
-  `<div class="field"><p class="sm muted">${ob.more ? "" : d.subjects.map((s) => `${SUBJ[s]} (Class ${d.picked[s] ? d.levels[s] : obCls(d)})`).join(", ") + ". "}<button type="button" class="link sm" data-ob="more">${ob.more ? "Hide subjects and classes" : "Change subjects and classes"}</button></p>${ob.more ? obLevels(d) + obSubjects(d) : ""}</div>`;
+// subjects and classes in one list: tick a subject in or out, and tap the class beside it
+const obSubjClass = (d) =>
+  `<section class="obcard"><h2 class="obct">Subjects and classes</h2><p class="sm">We chose these for age ${d.age || 8}. Change anything that does not fit ${esc(d.child || "your child")}: tap a class, or untick a subject. Not sure of a class? Take the quiz.</p>
+   <div class="lvlist">${visSubj(d.board)
+     .map((x) => {
+       const on = d.subjects.includes(x);
+       return `<div class="lvrow ${subjClass(x)}${on ? "" : " off"}"><button type="button" class="subjtick" aria-pressed="${on}" aria-label="${SUBJ[x]}" data-s="${x}">${on ? "✓" : ""}</button><span class="lvname"><b>${SUBJ[x]}</b>${on && fxHasPQ(x) ? `<button type="button" class="link xs" data-obquiz="${x}">Quiz</button>` : ""}</span>${on ? `<div class="row chips">${[1, 2, 3, 4, 5].map((l) => `<button type="button" class="chip" aria-pressed="${(d.picked[x] ? d.levels[x] : obCls(d)) === l}" data-oblvl="${x}:${l}" aria-label="Class ${l}">${l}</button>`).join("")}</div>` : `<span class="xs muted">Left out</span>`}</div>`;
+     })
+     .join("")}</div></section>`;
 function viewOnboarding() {
   const d = ob.d;
   d.boards = d.boards || (["ncert", "cambridge", "nios"].includes(d.board) ? [d.board] : []);
   d.picked = d.picked || {};
   if (ob.quiz) return fxObQuiz();
-  return `<div class="ob"><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div></div>${obTrack(d)}${obMore(d)}${fxObNav(`Build my plan${icon("next")}`)}</div>`;
+  return `<div class="ob"><h1>Let's plan a year of learning at home</h1>${acctLine()}<div class="field"><label for="obName">Who is learning?</label><input class="inp" id="obName" maxlength="40" value="${esc(d.child || "")}" placeholder="Child's name, like Aarav"></div><div class="field"><span>Age</span><div class="ages">${[5, 6, 7, 8, 9, 10, 11].map((a) => `<button type="button" aria-pressed="${d.age === a}" data-age="${a}">${a}</button>`).join("")}</div></div>${obTrack(d)}${obSubjClass(d)}${fxObNav(`Build my plan${icon("next")}`)}</div>`;
 }
 // Checks the form, then builds the plan
 function obNext() {

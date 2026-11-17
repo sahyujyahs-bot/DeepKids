@@ -7187,7 +7187,7 @@ select.inp {
 }
 .lvrow {
   display: grid;
-  grid-template-columns: 76px 1fr auto;
+  grid-template-columns: 30px 78px 1fr;
   align-items: center;
   gap: 8px;
   padding: 8px 0;
@@ -7201,4 +7201,39 @@ select.inp {
   min-width: 34px;
   padding-inline: 0;
   justify-content: center;
+}
+/* sign-up: subjects and classes stand out as the one thing to check */
+.obcard {
+  display: grid;
+  gap: 8px;
+  padding: 14px;
+  border: 2.5px solid var(--tang);
+  border-radius: var(--r-lg);
+  background: color-mix(in srgb, var(--sun) 16%, #fff);
+}
+.obct {
+  font-size: var(--fs-6);
+}
+.subjtick {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 2px solid var(--ink);
+  border-radius: 8px;
+  background: #fff;
+  color: #fff;
+  font: 700 var(--fs-3) var(--body);
+}
+.subjtick[aria-pressed="true"] {
+  background: var(--forest);
+  border-color: var(--forest);
+}
+.lvrow.off b {
+  color: var(--muted);
+}
+.lvname {
+  display: grid;
+  justify-items: start;
 }
