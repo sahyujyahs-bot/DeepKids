@@ -78,9 +78,9 @@
    "definition": "A flat (2D) shape has two dimensions: length and width. A solid (3D) shape has three dimensions: length, width and height.",
    "description": "In the Flat or Solid Hunt, you found things that look flat, like paper or a chapati, and things that are clearly solid, like a ball. A circle drawn on paper goes along the paper and across it, but not up. A steel tumbler goes up too, so it is a solid. You can hold a solid in your hand, but you can only draw a flat shape.",
    "examples": [
-    "A square drawn on a slate is a flat shape",
-    "A dice is a solid shape",
-    "A kolam on the floor is made of flat shapes"
+    "A square drawn on a slate is a flat shape.",
+    "A dice is a solid shape.",
+    "A kolam on the floor is made of flat shapes."
    ],
    "perspectives": [],
    "art": "A square drawn on a slate next to a dice, with arrows showing two directions on the square and three on the dice."
@@ -92,9 +92,9 @@
    "definition": "A face is a flat side of a solid. An edge is where two faces meet.",
    "description": "Many solids have flat faces. A dice has 6 square faces, and a matchbox has 6 rectangle faces. A steel tumbler has one flat round face at the bottom, and a curved side. A ball has no flat face and no edge, so it rolls every way.",
    "examples": [
-    "A dice: 6 square faces",
-    "A matchbox: 6 rectangle faces",
-    "A ball: no flat faces at all"
+    "A dice has 6 square faces.",
+    "A matchbox has 6 rectangle faces.",
+    "A ball has no flat faces at all."
    ],
    "perspectives": [],
    "art": "A dice, a matchbox, a tumbler and a ball, with their flat faces shaded."
@@ -106,9 +106,9 @@
    "definition": "When you cut straight through a solid, the cut side is a flat shape. Which flat shape you get depends on the solid, and on where and how you cut.",
    "description": "In the slice and trace test, the cucumber gave circles of nearly the same size. The carrot gave circles that got smaller towards the tip. The round potato gave small circles near the ends and the biggest in the middle. A corner cut off the potato cube gave a triangle. Stacked back up, the potato slices made the potato again.",
    "examples": [
-    "A cucumber slice: a circle",
-    "The middle slice of a round potato: the biggest circle",
-    "A corner cut off a cube: a triangle"
+    "A slice cut across a cucumber is a circle.",
+    "The middle slice of a round potato is the biggest circle.",
+    "A corner cut off a cube is a triangle."
    ],
    "perspectives": [],
    "art": "A round potato cut into five slices, spread out in a row from small to big to small, with their traced circles below."
@@ -132,9 +132,9 @@
    "context": "This card is about a question people still argue about: can a real thing be truly flat?",
    "description": "A sheet of paper looks flat, but it has a tiny height. Stack 100 sheets and the pile is about 1 centimetre tall. A chapati and a dosa are thin solids too. Graphene is a sheet of carbon one atom thick, one of the thinnest materials made. Even one atom has some height, so people argue about whether anything real is truly 2D.",
    "examples": [
-    "A sheet of paper: a very thin solid",
-    "A pile of 100 sheets: about 1 centimetre tall",
-    "Graphene: a sheet one atom thick"
+    "A sheet of paper is a very thin solid.",
+    "A pile of 100 sheets is about 1 centimetre tall.",
+    "Graphene is a sheet that is one atom thick."
    ],
    "perspectives": [
     {
@@ -190,7 +190,7 @@
    "for": "Their sums about the tiniest parts of the world work better if there are extra directions.",
    "against": "Nobody has ever found an extra direction in any experiment. Many physicists think there are just three.",
    "status": "debated",
-   "context": "This card is about a big question scientists still argue about."
+   "context": "We live with three directions: length, width and height. Some physicists wonder if there are more directions, too small or too hidden for us to notice. Scientists still argue about it."
   }
  ],
  "big_questions": [
@@ -258,10 +258,10 @@
   "epiphany": "Pulli lives in a flat world with only two directions, so she can never go up, and she meets a solid lemon one flat slice at a time. We live with three directions: length, width and height. Whether there is a fourth, nobody knows yet.",
   "ask": [
    "Why could Pulli not step over the pencil line round her house?",
-   "Sidhu looked at the coin with his eye level with the paper. What did he see, and why?",
+   "If your eye is level with a table, what does a round coin on it look like?",
    "How could Pulli tell a round coin from a square card?",
    "What would Pulli see if a lemon passed down through her flat world?",
-   "Sidhu asked if there is a direction we have never seen. What do you think? Why?"
+   "Do you think there could be a direction we have never seen? Why?"
   ],
   "art": [
    "A woman drawing a white dotted kolam on the floor outside a flat door in Chennai, with a girl and a small boy watching from the step.",
@@ -351,9 +351,18 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Count the pairs. 2. Ask the question below.",
-     "say": "Which match was hardest to explain? Why?",
-     "kid": "Which match was hardest? Why?",
+     "do": "1. Count the pairs. 2. Ask which solids could match more than one flat shape.",
+     "say": "Some solids could match more than one flat shape. Which one, and how?",
+     "kid": "Which solid could match more than one flat shape? How?",
+     "ask": [
+      {
+       "q": "Which solid matched more than one flat shape?",
+       "good": [
+        "The birthday cap. Its round end is a circle, and from the side it looks like a triangle.",
+        "Any match you can explain counts."
+       ]
+      }
+     ],
      "check": {
       "t": "mcq",
       "q": "In the matching card game, how can a ladoo make a circle?",
@@ -434,9 +443,18 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Add up the points. 2. Ask the question below.",
-     "say": "Which solid was easiest to feel? Which was hardest?",
-     "kid": "Which solid was easiest to guess? Why?",
+     "do": "1. Add up the points. 2. Ask how a hand can tell a cube from a cylinder.",
+     "say": "How can you tell a cube from a cylinder, just by feeling?",
+     "kid": "How can you tell a cube from a cylinder by touch?",
+     "ask": [
+      {
+       "q": "How can you tell a cube from a cylinder by touch?",
+       "good": [
+        "A cube has flat square faces and sharp edges.",
+        "A cylinder has a curved side."
+       ]
+      }
+     ],
      "check": {
       "t": "mcq",
       "q": "In the feely bag game, you feel a thing with no flat faces and no edges at all. What solid is it?",
@@ -686,7 +704,7 @@
    "mins": 15,
    "days": 1,
    "context": "A flat creature living on a table top would see every shape on the table from its edge. In this experiment you put your eye level with a table and look at a card circle and a card square, the way she would.",
-   "question": "With your eye level with the table, can you tell a circle from a square?",
+   "question": "A flat creature like Pulli, who lives on a table top, sees every shape only from its edge. With your eye level with the table, can you tell a circle from a square?",
    "predict": "When your eye is level with the table, what will a card circle and a card square look like? Can you tell them apart? Why do you think so?",
    "fair_test": "The circle and the square are the same width, and cut from the same card. The child keeps their chin on the table edge every time, so the eye stays level. We turn each shape slowly all the way round, and watch the width of the line.",
    "results_table": [
@@ -1164,7 +1182,7 @@
    "title": "Hold It Up with One Flat Sheet",
    "mins": 15,
    "context": "This is a building challenge. A flat sheet of paper flops over. Can you fold or roll it into a solid that holds a steel plate up off the table?",
-   "problem": "Use one sheet of paper to hold a steel plate at least 5 centimetres above the table.",
+   "problem": "A flat sheet of paper flops over, but a sheet rolled into a tube can stand up. Use one sheet of paper to hold a steel plate at least 5 centimetres above the table.",
    "constraints": [
     "Use only one sheet of paper, about the size of a notebook page.",
     "You may use 2 short pieces of sticky tape.",
@@ -1516,7 +1534,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and the second person are looking at a dosa on a plate.",
+     "p": "Two girls are looking at a dosa on a plate.",
      "views": [
       {
        "who": "The first person",
@@ -1621,7 +1639,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and the second person are talking about the potato cube from the slice and trace test.",
+     "p": "Two people are talking about the potato cube from the slice and trace test.",
      "views": [
       {
        "who": "The first person",
@@ -1734,20 +1752,20 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and her grandfather are talking about the ground under their feet.",
+     "p": "A girl and her grandfather are talking about the ground under their feet.",
      "views": [
       {
-       "who": "The first person's grandfather",
+       "who": "The grandfather",
        "says": "The ground looks flat, so the Earth must be flat."
       },
       {
-       "who": "The first person",
+       "who": "The girl",
        "says": "The Earth is a huge ball. A small piece of a huge ball looks flat."
       }
      ],
      "ask": "Who do you agree with? Give one piece of evidence. Then say why the other idea makes sense at first.",
      "lines": 3,
-     "a": "A strong answer agrees with the first person, and gives evidence such as the round shadow of the Earth on the Moon, or photos from space. It also says the grandfather's idea makes sense, because the ground near us really does look flat.",
+     "a": "A strong answer agrees with the girl, and gives evidence such as the round shadow of the Earth on the Moon, or photos from space. It also says the grandfather's idea makes sense, because the ground near us really does look flat.",
      "why": "The Earth is a solid ball, but it is so big that the piece we stand on looks almost flat. Aristotle saw that the Earth's shadow on the Moon is always round, and only a ball does that."
     },
     {
@@ -2106,7 +2124,7 @@
  "roots": {
   "context": "We have hunted for flat and solid things, sliced vegetables, looked along a table like a flat creature, and opened a box out flat. Now we ask what flat and solid tell us about the world, and about ourselves.",
   "deep_truth": {
-   "truth": "In the slice and trace test, every cut through the round potato showed a flat circle, small at the top and biggest in the middle. Stacked back up, the slices made the potato again. So a solid is flat slices piled up in a third direction, height. A flat creature could meet the potato only one slice at a time.",
+   "truth": "In the slice and trace test, every cut through the round potato showed a flat circle. The circles were small at the top and biggest in the middle. Stacked back up, the slices made the potato again. So a solid is flat slices stacked in a third direction, which is height. A flat creature could meet the potato only one slice at a time.",
    "habit": "We think of a solid as one lump, and of flat shapes as a different kind of thing. The slices show that a solid can be cut into flat shapes and built back from them. The difference is one extra direction.",
    "evidence": "In the slice and trace test, the round potato gave circles that grew and then shrank, and the stacked slices made the whole potato again."
   },
@@ -2115,7 +2133,7 @@
    "what_is_life": "Living beings use all three directions. A plant spreads their leaves flat and wide to catch light, and sends roots down into the soil. A crow flies up, down and across.",
    "what_is_this_world": "The world we know has three directions. A flat creature would meet our solid world one slice at a time. Nobody knows yet whether there is a fourth direction. If there is, we might meet it only in slices too."
   },
-  "thread": "A flat creature meets a solid one slice at a time, and we meet the world through our own three directions. Everything is conscious, and every being meets the world through their own body: an ant walking on the floor, a plant spreading leaves, and you. Many scientists disagree, and say only beings with brains are aware.",
+  "thread": "A flat creature meets a solid one slice at a time, and we meet the world through our own three directions. Everything is conscious, and every being meets the world through their own body. An ant walking on the floor does, a plant spreading leaves does, and so do you. Many scientists disagree, and say only beings with brains are aware.",
   "teachings": [
    {
     "source": "Plato, the Republic, Book 7: the story of the cave",

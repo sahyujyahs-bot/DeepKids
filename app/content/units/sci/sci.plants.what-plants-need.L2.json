@@ -71,7 +71,7 @@
    "concept": "Plants need water",
    "status": "defined",
    "definition": "Every plant needs water to live and grow. Roots take in water from the soil.",
-   "description": "Water keeps stems and leaves firm, and carries minerals up from the roots. The leaves use water, with light and air, to make food. A plant short of water wilts: the leaves go soft and droop. Different plants need different amounts. A cactus needs very little, and rice grows in fields full of water.",
+   "description": "Water keeps stems and leaves firm, and carries minerals up from the roots. The leaves use water, with light and air, to make food. A plant short of water wilts. The leaves go soft and droop. Different plants need different amounts. A cactus needs very little, and rice grows in fields full of water.",
    "examples": [
     "A tulsi plant droops on a hot afternoon and stands up again after a drink.",
     "Rice fields in Thanjavur and in Assam are kept flooded while the rice grows.",
@@ -99,7 +99,7 @@
    "concept": "Plants need warmth",
    "status": "defined",
    "definition": "Plants grow only when it is warm enough for them. Different kinds of plants grow best in different amounts of warmth.",
-   "description": "In cold weather, seeds germinate slowly and plants grow slowly. Frost, a thin layer of ice on very cold nights, can kill the leaves of many plants. Too much heat can dry a plant out. Different plants like different warmth: rice and bananas like hot, wet weather, mustard and wheat are sown in the cool winter in the north, and apples grow in cold hills like Himachal Pradesh and Kashmir.",
+   "description": "In cold weather, seeds germinate slowly and plants grow slowly. Frost, a thin layer of ice on very cold nights, can kill the leaves of many plants. Too much heat can dry a plant out. Different plants like different warmth. Rice and bananas like hot, wet weather. Mustard and wheat are sown in the cool winter in the north. Apples grow in cold hills like Himachal Pradesh and Kashmir.",
    "examples": [
     "Rai seeds sprout in a day or two in a warm Chennai kitchen. In a cold Delhi winter they can take several days longer.",
     "Mustard fields in Punjab and Rajasthan turn yellow with flowers in winter.",
@@ -113,7 +113,7 @@
    "concept": "Plants need soil, or what is in it",
    "status": "defined",
    "definition": "Soil holds a plant up, holds water and air for the roots, and gives the plant minerals.",
-   "description": "A seed carries a small store of food inside, so seeds can germinate on wet tissue with no soil at all. But the store runs out after some days. To keep growing, a plant needs minerals, which come from the soil. Plants do not eat soil; they make their food in their leaves. Farmers can grow plants with their roots in water if they add minerals to the water. This is called hydroponics.",
+   "description": "A seed carries a small store of food inside, so seeds can germinate on wet tissue with no soil at all. But the store runs out after some days. To keep growing, a plant needs minerals, which come from the soil. Plants do not eat soil. They make their food in their leaves. Farmers can grow plants with their roots in water if they add minerals to the water. This is called hydroponics.",
    "examples": [
     "Rai seeds sprout on wet tissue as well as in soil.",
     "A money plant can live for months in a bottle of water, with no soil.",
@@ -245,7 +245,7 @@
    "Appa came with his coffee. He looked at the bindi, which still faced the room. He looked at the bent shoots. 'Nobody touched them?' he asked.",
    "'Nobody,' said Meenakshi. 'They did it themselves, in one night. A plant cannot walk to the window. So they grow towards it.'",
    "'But how?' said Appa. 'They have no legs, and no eyes.'",
-   "'I think the side away from the window grew a bit more,' said Meenakshi. 'If one side of you grows longer, you bend. Look, the bend is right at the top, where the shoot is growing.'",
+   "'I think the side away from the window grew a bit more,' said Meenakshi. 'If one side of a stem grows longer than the other side, the stem bends. Look, the bend is right at the top, where the shoot is growing.'",
    "Appa put his cup down. 'So the plant was moving the whole time,' he said. 'Just too slowly for me to see.'",
    "'Can I turn it now?' asked Anu.",
    "'Yes,' said Meenakshi. 'Turn it all the way round. And tomorrow, we'll see if the mustard turns too.'",
@@ -253,9 +253,9 @@
   ],
   "epiphany": "Meenakshi works out that the shoots were not blown over. When the light came from the other side, they bent back to it, by growing. A plant moves by growing.",
   "ask": [
-   "Appa thought the fan blew the plants over. How did Meenakshi's test show this was not right?",
-   "Why did Meenakshi put a bindi on the tumbler?",
-   "Why did nothing seem to happen by bedtime?",
+   "A fan could blow plants over, or plants could bend by themselves. How could you tell which one it is?",
+   "Why is it useful to mark one side of the pot?",
+   "Why can't we see a plant move if we watch for only a few minutes?",
    "What do you think the mustard shoots felt when the light came from behind them?"
   ],
   "art": [
@@ -884,7 +884,7 @@
      "do": "Around the plant, draw the five needs: light, water, air, warmth and soil. Draw where each one comes from in your home.",
      "say": "Where does our plant get light from? And water? Who gives the water? Where does the air come from?",
      "kid": "Draw the five needs around your plant. Where does each one come from?",
-     "parent": "Good answers name real places: the window for light, the tap and you for water, the open window for air, the sunny days for warmth, and the pot for soil. Some children add a sixth need: someone who cares for the plant. That is a good thought.",
+     "parent": "Good answers name real places: the window for light, the tap and you for water, the open window for air, the sunny days for warmth, and the pot for soil. Some children add a sixth need: someone who cares for the plant. That is a good thought. For the question at the end, light, air and warmth often come without anyone's help. Water and soil usually need a person.",
      "think": "Which need does your plant get without anyone's help?"
     }
    ]
@@ -1300,7 +1300,7 @@
    "title": "The Maze Box: can a shoot find the way out?",
    "mins": 25,
    "context": "This is a making challenge. You build a dark box with one hole and a wall inside it. Then you see if a sprouting potato can grow round the wall to reach the light. It may take one to three weeks, and it does not always work. If the shoot has not reached the hole after three weeks, that is a result too.",
-   "problem": "Make a box that is dark inside except for one hole. Put a sprouting potato at the far end, behind a wall. Can the shoot find a way round the wall to the hole?",
+   "problem": "A shoot grows towards light, even a faint light. Make a box that is dark inside except for one hole. Put a sprouting potato at the far end, behind a wall. Can the shoot find a way round the wall to the hole?",
    "constraints": [
     "Use a shoebox or any cardboard box with a lid.",
     "Only one hole may let light in.",
@@ -1678,14 +1678,14 @@
       }
      ],
      "ask": "Which scientist do you agree with? Give one reason. Then say one fair thing about the other view.",
-     "a": "Either side can be argued. The first scientist: the sprout sensed the light and acted on what they sensed, which is what minds do. The second scientist: we can see the chemical steps, and the sprout always does the same thing.",
+     "a": "Either side can be argued. The first scientist says the sprout sensed the light and acted on what they sensed, which is what minds do. The second scientist says we can see the chemical steps, and the sprout always does the same thing.",
      "why": "This is a real disagreement. A strong answer picks a side with a reason, and says something fair about the other side. For example, the second scientist's chemical steps are true, and the first scientist is right that the sprout sensed the light."
     },
     {
      "t": "draw",
      "p": "A cup of rai is turned round, and a day later turned round again. Each time, the tops bend to the light. Draw one stem from the side. How many new bends does it have?",
      "a": "Two new bends, so the stem looks wiggly, like the letter S.",
-     "why": "Each turn starts a new bend near the growing tip, and the older bends stay in the stem. So the stem keeps a record of where the light came from."
+     "why": "Each turn starts a new bend near the growing tip, and the older bends stay in the stem. So the bends in the stem show where the light came from each time."
     },
     {
      "t": "mcq",
@@ -2130,12 +2130,12 @@
  "roots": {
   "context": "In the Turning Cup experiment, the rai sprouts turned back towards the window after we turned their cup. Now we ask what that tells us about plants, and about ourselves.",
   "deep_truth": {
-   "truth": "In the Turning Cup experiment, we turned cup A round, and the rai sprouts bent back to the window by the next day. Plants cannot walk to the light, so they move by growing. Every bend stays in the stem. So a plant's shape shows where their light has come from.",
+   "truth": "In the Turning Cup experiment, we turned cup A round, and the rai sprouts bent back to the window by the next day. Plants cannot walk to the light, so they move by growing. Every bend stays in the stem. So the shape of the stem shows which way the light has come from.",
    "habit": "We split living things into those who move, like humans and other animals, and those who stay still, like plants. But plants move all the time, by growing, too slowly for us to see.",
    "evidence": "In the Turning Cup experiment, cup A's sprouts curved back towards the window overnight, while cup B's sprouts stayed as they were. In the Straight or Bent project, the tray turned every second day grew mostly upright, and the tray never turned leaned to the window."
   },
   "three": {
-   "who_am_i": "Your body grows too, and your shape also shows how you have lived: the hand you write with, the way you stand.",
+   "who_am_i": "Your body grows too. Your shape also shows how you have lived. The hand you write with and the way you stand are signs of it.",
    "what_is_life": "Being alive means sensing what is around you and acting on it. The rai sprouts felt where the light was and grew towards it.",
    "what_is_this_world": "The world gives every plant light, water, air, warmth and soil. Each plant grows into a shape that fits the place where they are growing."
   },

@@ -3,7 +3,7 @@
 
 **Summary.** Cut a round potato straight across, and the cut side is a flat circle. A solid shape, like a potato or a box, has three directions: length, width and height. A flat shape, like a circle drawn on paper, has only two: length and width. A creature who lived in a flat world could move forward, back, left and right, but never up. She would meet a solid potato one flat slice at a time.
 
-**Intro.** *Look at a round potato. If a grown-up cuts it straight across, what shape will the cut side be? Will every slice be the same size?* A potato is solid. You can hold it, turn it and look at it from all sides. But the cut side of a slice is flat, like a drawing. In this unit you hunt for flat and solid things at home. You slice vegetables and trace the flat shapes hidden inside them. You look along a table with your eye flat to it, the way a flat creature would see. You open a box out flat, and fold it back into a solid.
+**Intro.** *Look at a round potato. If a grown-up cuts it straight across, what shape will the cut side be? Will every slice be the same size?* A potato is solid. You can hold it, turn it and look at it from all sides. But the cut side of a slice is flat, like a drawing. In this unit you hunt for flat and solid things at home. You slice vegetables and trace the flat shapes hidden inside them. You look along a table with your eye level with it, the way a flat creature would see. You open a box out flat, and fold it back into a solid.
 
 ## Learning outcomes
 0. By the end I can tell a flat (2D) shape from a solid (3D) shape, and say that a solid has length, width and height.
@@ -27,39 +27,39 @@
 ### Flat shapes and solid shapes · *defined*
 **Definition:** A flat (2D) shape has two dimensions: length and width. A solid (3D) shape has three dimensions: length, width and height.
 
-In the hunt, you found things that look flat, like paper or a chapati, and things that are clearly solid, like a ball. A circle drawn on paper goes along the paper and across it, but not up. A steel tumbler goes up too, so it is a solid. You can hold a solid in your hand, but you can only draw a flat shape.
-- e.g. A square drawn on a slate is a flat shape
-- e.g. A dice is a solid shape
-- e.g. A kolam on the floor is made of flat shapes
+In the Flat or Solid Hunt, you found things that look flat, like paper or a chapati, and things that are clearly solid, like a ball. A circle drawn on paper goes along the paper and across it, but not up. A steel tumbler goes up too, so it is a solid. You can hold a solid in your hand, but you can only draw a flat shape.
+- e.g. A square drawn on a slate is a flat shape.
+- e.g. A dice is a solid shape.
+- e.g. A kolam on the floor is made of flat shapes.
 ### Faces and edges of solids · *defined*
 **Definition:** A face is a flat side of a solid. An edge is where two faces meet.
 
 Many solids have flat faces. A dice has 6 square faces, and a matchbox has 6 rectangle faces. A steel tumbler has one flat round face at the bottom, and a curved side. A ball has no flat face and no edge, so it rolls every way.
-- e.g. A dice: 6 square faces
-- e.g. A matchbox: 6 rectangle faces
-- e.g. A ball: no flat faces at all
+- e.g. A dice has 6 square faces.
+- e.g. A matchbox has 6 rectangle faces.
+- e.g. A ball has no flat faces at all.
 ### Inside every solid are flat slices · *defined*
 **Definition:** When you cut straight through a solid, the cut side is a flat shape. Which flat shape you get depends on the solid, and on where and how you cut.
 
 In the slice and trace test, the cucumber gave circles of nearly the same size. The carrot gave circles that got smaller towards the tip. The round potato gave small circles near the ends and the biggest in the middle. A corner cut off the potato cube gave a triangle. Stacked back up, the potato slices made the potato again.
-- e.g. A cucumber slice: a circle
-- e.g. The middle slice of a round potato: the biggest circle
-- e.g. A corner cut off a cube: a triangle
+- e.g. A slice cut across a cucumber is a circle.
+- e.g. The middle slice of a round potato is the biggest circle.
+- e.g. A corner cut off a cube is a triangle.
 ### A flat creature's world · *idea*
-Imagine Pulli, a flat girl who lives on a sheet of paper. She can move forward, back, left and right, but there is no up for her. A pencil circle round her is a wall, because stepping over means going up. A ball passing down through her world would look like a dot, then a growing circle, then a shrinking one. Nobody has met a real flat creature. Scientists and writers use her to think with.
+Pulli is a made-up flat girl who lives on a sheet of paper. She can move forward, back, left and right, but there is no up for her. A pencil circle drawn round her is a wall, because stepping over it would mean going up. A ball passing down through her world would look like a dot, then a growing circle, then a shrinking one. Nobody has met a real flat creature. Scientists and writers use a made-up one like Pulli to help them think.
 - e.g. A circle round Pulli locks her in
 - e.g. A coin on her paper looks like a line
 - e.g. A ball passing through looks like a circle that grows and shrinks
 ### Is anything really flat? · *debated*
 A sheet of paper looks flat, but it has a tiny height. Stack 100 sheets and the pile is about 1 centimetre tall. A chapati and a dosa are thin solids too. Graphene is a sheet of carbon one atom thick, one of the thinnest materials made. Even one atom has some height, so people argue about whether anything real is truly 2D.
-- e.g. A sheet of paper: a very thin solid
-- e.g. A pile of 100 sheets: about 1 centimetre tall
-- e.g. Graphene: a sheet one atom thick
+- e.g. A sheet of paper is a very thin solid.
+- e.g. A pile of 100 sheets is about 1 centimetre tall.
+- e.g. Graphene is a sheet that is one atom thick.
 - **Many mathematicians:** A truly flat shape, with no height at all, is an idea in our minds. We can draw it and think about it, but every real thing has some height.
 - **Many scientists who study materials:** Graphene is so thin that it behaves like a flat world. Tiny particles in it can move only along it and across it, not up. So they call it a 2D material.
 
 ## Mostly agreed
-- A flat shape has length and width. A solid shape has length, width and height. *How we know:* In the hunt, every solid you held could be measured three ways with a ruler: long, wide and tall.
+- A flat shape has length and width. A solid shape has length, width and height. *How we know:* In the Flat or Solid Hunt, every solid you held could be measured three ways with a ruler: long, wide and tall.
 - Cutting straight through a solid gives a flat shape, and the shape depends on where you cut. *How we know:* In the slice and trace test, the round potato gave circles of different sizes, and a corner of the potato cube gave a triangle.
 - Many solids can be opened out into a flat net and folded back up. *How we know:* In Open a Box, the box opened out flat, and folded back into the same box.
 - Every real thing has some height, even a sheet of paper. *How we know:* 100 sheets of paper stacked up make a pile about 1 centimetre tall.
@@ -82,15 +82,15 @@ A sheet of paper looks flat, but it has a tiny height. Stack 100 sheets and the 
 ## Roots
 We have hunted for flat and solid things, sliced vegetables, looked along a table like a flat creature, and opened a box out flat. Now we ask what flat and solid tell us about the world, and about ourselves.
 
-**Deep truth.** Every cut through your round potato showed a flat circle, small at the top and biggest in the middle. Stacked back up, the slices made the potato again. So a solid is flat slices piled up in a third direction, height. A flat creature could meet the potato only one slice at a time.  
+**Deep truth.** In the slice and trace test, every cut through the round potato showed a flat circle. The circles were small at the top and biggest in the middle. Stacked back up, the slices made the potato again. So a solid is flat slices stacked in a third direction, which is height. A flat creature could meet the potato only one slice at a time.  
 *Habit it breaks:* We think of a solid as one lump, and of flat shapes as a different kind of thing. The slices show that a solid can be cut into flat shapes and built back from them. The difference is one extra direction.  
 *Evidence:* In the slice and trace test, the round potato gave circles that grew and then shrank, and the stacked slices made the whole potato again.
 
 - *who am i:* You are a solid. You have length, width and height, and you can move in all three directions: forward and back, left and right, up and down.
 - *what is life:* Living beings use all three directions. A plant spreads their leaves flat and wide to catch light, and sends roots down into the soil. A crow flies up, down and across.
-- *what is this world:* The world we know has three directions. A flat creature would meet our solid world one slice at a time. Nobody knows yet whether there is a fourth direction that we meet only in slices too.
+- *what is this world:* The world we know has three directions. A flat creature would meet our solid world one slice at a time. Nobody knows yet whether there is a fourth direction. If there is, we might meet it only in slices too.
 
-A flat creature meets a solid one slice at a time, and we meet the world through our own three directions. Everything is conscious, and every being meets the world through their own body: an ant walking on the floor, a plant spreading leaves, and you. Many scientists disagree, and say only beings with brains are aware.
+A flat creature meets a solid one slice at a time, and we meet the world through our own three directions. Everything is conscious, and every being meets the world through their own body. An ant walking on the floor does, a plant spreading leaves does, and so do you. Many scientists disagree, and say only beings with brains are aware.
 
 - **Plato, the Republic, Book 7: the story of the cave:** Plato told of prisoners chained in a cave, facing a wall. All their lives they see only flat shadows of things moving behind them. They think the shadows are the real things. (Pulli sees only lines and slices of our solid world, and takes them for everything there is. Plato asked whether we too might see only part of what is real.)
 - **Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant (also told in the Buddhist Udana, 6.4):** Each blind man touches one part of an elephant: a leg, an ear, the trunk. Each says the elephant is like a pillar, a fan or a snake. Each is partly right, and none knows the whole. (In the slice and trace test, each slice showed one true flat shape of the potato, but no single slice showed the whole potato. To know the solid, you need all the slices together.)
@@ -100,12 +100,12 @@ A flat creature meets a solid one slice at a time, and we meet the world through
 - Other view, Many scientists and thinkers today: Many say there are just three directions of space, and that asking about a fourth is only a game for the mind. Many also say that potatoes, paper and made-up flat creatures have no awareness at all, and that only animals with brains are aware.
 - Practice, Feel your three directions (3 min): Stand up and breathe in slowly. Stretch both arms forward and back. Now stretch them out to the left and the right. Now reach up high, and then down to your toes. Those are your three directions. Now press your palms flat together, and imagine being as flat as Pulli. Breathe out slowly.
 - Ask: Pulli can't imagine up. Could there be a direction that we can't imagine?
-- Ask: Each potato slice was true, but none showed the whole potato. Do we ever see the whole of anything?
+- Ask: Each potato slice showed one true shape of the potato, but none showed the whole potato. Do we ever see the whole of anything?
 - Ask: Would you like to live in a flat world for one day? What would you miss most?
 
 ## Deep and big questions
 - *deep:* Pulli the flat girl can never go up. Could she even imagine what up is? (hint: Think how hard it is for you to imagine a direction that is not forward, sideways or up.)
-- *deep:* Your potato slices stacked back into a potato. Is a solid just flat slices piled up? (hint: Think of the stacked potato slices. Could you ever cut a slice so thin that it had no height?)
+- *deep:* In Slice and Trace, the potato slices stacked back into a potato. Is a solid just flat slices piled up? (hint: Think of the stacked potato slices. Could you ever cut a slice so thin that it had no height?)
 - *big:* If there were a fourth direction, how might we find out? (hint: How could Pulli find out about up? What would she see if a ball passed through her world?)
 - *big:* An ant walks on the floor and up the wall. Does an ant live in a flat world or a solid one? (hint: Watch an ant. Does she ever go up off the surface she walks on?)
 - *big:* A leaf is thin and wide. Why might a plant spread their leaves so flat? (hint: Think of what a leaf catches from the sky.)
@@ -172,10 +172,10 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 **For the parent:** Pulli lives in a flat world with only two directions, so she can never go up, and she meets a solid lemon one flat slice at a time. We live with three directions: length, width and height. Whether there is a fourth, nobody knows yet.
 
 - Ask: Why could Pulli not step over the pencil line round her house?
-- Ask: Sidhu looked at the coin with his eye level with the paper. What did he see, and why?
+- Ask: If your eye is level with a table, what does a round coin on it look like?
 - Ask: How could Pulli tell a round coin from a square card?
 - Ask: What would Pulli see if a lemon passed down through her flat world?
-- Ask: Sidhu asked if there is a direction we have never seen. What do you think? Why?
+- Ask: Do you think there could be a direction we have never seen? Why?
 
 ## Games
 ### g1 · Solid and Shape: a matching card game (15 min)
@@ -192,9 +192,10 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   - Ask: Where is the circle in a ladoo? (good: If you cut it across, the slice is a circle.; It has no flat face, but its slices are circles.)
   - Note: A ladoo has no flat face, but every slice of it is a circle. A samosa has triangle faces. A steel tumbler has a circle at the bottom.
 - **s3 (2 min)**  
-  *Parent does:* 1. Count the pairs. 2. Ask the question below.  
-  *Parent says:* Which match was hardest to explain? Why?  
-  *Child mode:* Which match was hardest? Why?
+  *Parent does:* 1. Count the pairs. 2. Ask which solids could match more than one flat shape.  
+  *Parent says:* Some solids could match more than one flat shape. Which one, and how?  
+  *Child mode:* Which solid could match more than one flat shape? How?
+  - Ask: Which solid matched more than one flat shape? (good: The birthday cap. Its round end is a circle, and from the side it looks like a triangle.; Any match you can explain counts.)
   - Check: In the matching card game, how can a ladoo make a circle? → **A slice cut across it is a circle**
 ### g2 · Feely Bag: name the solid by touch (15 min)
 - **rules:** A grown-up puts 5 solid things into a cloth bag or a pillow cover: for example, a small ball, a dice, a matchbox, a closed round tin and an orange.; On your turn, put one hand in the bag. Don't look.; Feel one thing. Say its solid shape name: sphere, cube, cuboid, cylinder or cone.; Say how many flat faces it has. Then pull it out to check.; You get 1 point for the right shape name, and 1 point for the right number of flat faces.; Write your points on the score sheet. The most points after 3 rounds wins.
@@ -208,11 +209,12 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   *Parent says:* How did you know? Was it the flat faces, the edges or the curved side?  
   *Child mode:* How did you know? Faces, edges or a curved side?
   - Ask: How did you know it was a cube? (good: It had flat square faces.; It had sharp edges and corners.)
-  - Note: Touch is a good way to feel faces and edges, because hands work in all three directions at once.
+  - Note: Touch is a good way to find faces and edges, because a hand can feel a thing's length, width and height all at once.
 - **s3 (2 min)**  
-  *Parent does:* 1. Add up the points. 2. Ask the question below.  
-  *Parent says:* Which solid was easiest to feel? Which was hardest?  
-  *Child mode:* Which solid was easiest to guess? Why?
+  *Parent does:* 1. Add up the points. 2. Ask how a hand can tell a cube from a cylinder.  
+  *Parent says:* How can you tell a cube from a cylinder, just by feeling?  
+  *Child mode:* How can you tell a cube from a cylinder by touch?
+  - Ask: How can you tell a cube from a cylinder by touch? (good: A cube has flat square faces and sharp edges.; A cylinder has a curved side.)
   - Check: In the feely bag game, you feel a thing with no flat faces and no edges at all. What solid is it? → **A sphere**
 
 ## Experiments
@@ -230,7 +232,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   - Ask: What shape will the cut side be, and will all the slices be the same size? Why? (good: A circle, because they are round.; The same size, because it's the same vegetable.; Smaller at the ends, because the ends are thin.)
   - Note: Most children guess a circle for all three. Many guess that every slice will be the same size. Any guess with a reason is a good start.
 - **s2 (4 min) · grown-up needed**  
-  *Parent does:* 1. Cut the cucumber straight across in three places. 2. Cut one hand-width from each end, and one in the middle. 3. Your child presses each cut side on the paper and draws round it. 4. Write 'cucumber' under the three shapes.  
+  *Parent does:* 1. Cut the cucumber straight across in three places: one hand-width from each end, and once in the middle. 2. Your child presses each cut side on the paper and draws round it. 3. Write 'cucumber' under the three shapes.  
   *Parent says:* Press the cut side down on the paper and draw round it. Now the next one. Are they the same shape? Are they the same size?  
   *Child mode:* Press the slice on the paper. Draw round it. Is the next one the same size?
   - Ask: Are the three cucumber circles the same size? (good: Almost the same.; Yes, nearly.)
@@ -250,32 +252,32 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - **s5 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut the second potato into a rough cube by cutting off a slice from each of its 6 sides. 2. Ask your child to guess the shape if you cut off one corner. 3. Cut one corner off, about 1 centimetre in from the tip. 4. Your child traces the cut side.  
   *Parent says:* This potato is now a cube, with square faces. If I cut off one corner, what shape will the cut side be? Why?  
-  *Child mode:* This potato is now a cube. Cut off a corner. What shape will it be?
+  *Child mode:* This potato is now a cube. A grown-up will cut off one corner. What shape will the cut side be?
   - Ask: What shape did the corner make? (good: A triangle.; A shape with three sides.)
   - Note: Most children guess a square, because the cube has square faces. The corner cut makes a triangle, because the knife cuts across three faces that meet at the corner. Cut off only the tip of the corner, or the shape gets more sides.
 - **s6 (2 min)**  
-  *Parent does:* 1. Look at all the rows of traced shapes together. 2. Ask the questions below. 3. Then read the cards on slices.  
+  *Parent does:* 1. Look at all the rows of traced shapes together. 2. Ask the questions below. 3. Then read the card 'Inside every solid are flat slices'.  
   *Parent says:* Look at all the shapes you traced. Were they flat or solid? Did the same vegetable always give the same size?  
   *Child mode:* Look at your shapes. Are they flat? Did the size change?
   - Ask: What changed the shape and size of the cut side? (good: Where we cut.; Which vegetable it was.; Cutting the corner made a triangle.)
   - Note: A strong answer uses the traced shapes as evidence: every cut side was flat, and its size depended on where the cut was.
   - Check: In the slice and trace test, where did the round potato give its biggest slice? → **In the middle**
 ### e2 · Flat Eyes: can a flat creature tell a circle from a square? (15 min)
-- **question:** With your eye level with the table, can you tell a circle from a square?
+- **question:** A flat creature like Pulli, who lives on a table top, sees every shape only from its edge. With your eye level with the table, can you tell a circle from a square?
 - **predict:** When your eye is level with the table, what will a card circle and a card square look like? Can you tell them apart? Why do you think so?
 - **fair test:** The circle and the square are the same width, and cut from the same card. The child keeps their chin on the table edge every time, so the eye stays level. We turn each shape slowly all the way round, and watch the width of the line.
 - **safety:** A grown-up does the cutting with scissors.
 - **record:** Draw what each shape looked like from the edge. Write 'stays the same' or 'gets wider and narrower' under each.
 - **results table:** Shape | What it looked like from the edge | Did the line get wider or narrower as it turned?
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Draw round the bowl on the card to make a circle. 2. Draw a square with sides the same as the circle is wide. 3. Cut out both shapes.  
+  *Parent does:* 1. Draw round the bowl on the card to make a circle. 2. Draw a square whose sides are as long as the circle is wide. 3. Cut out both shapes.  
   *Parent says:* Here is a circle and a square, the same width. Pulli the flat girl lives on the table. She sees them only from the edge.  
   *Child mode:* Here is a card circle and a card square. They are the same width.
   - Note: An 8 centimetre circle and an 8 centimetre square work well.
 - **s2 (2 min)**  
   *Parent does:* 1. Ask the question below. 2. Write down your child's guess.  
-  *Parent says:* With your eye flat to the table, what will they look like? Will you be able to tell them apart? Why?  
-  *Child mode:* With your eye flat to the table, what will you see? Why?
+  *Parent says:* When your eye is level with the table, what will the circle and the square look like? Will you be able to tell them apart? Why?  
+  *Child mode:* When your eye is level with the table, what will you see? Why?
   - Ask: Will you be able to tell the circle from the square from the edge? Why? (good: No, they will both look like lines.; Yes, because the square has corners.)
 - **s3 (5 min)**  
   *Parent does:* 1. Lay both shapes flat in the middle of the table, a hand apart. 2. Your child rests their chin on the table edge and closes one eye. 3. Ask what they see.  
@@ -305,7 +307,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   *Parent says:* Is this sheet of paper truly flat, with no height at all? Let's look at a pile of 100 sheets. How tall is the pile?  
   *Child mode:* Is one sheet of paper truly flat? Look at a pile of 100 sheets.
   - Ask: What does the pile tell you about one sheet? (good: Each sheet has a tiny height.; Paper is a very thin solid.)
-  - Note: Most notebooks of 100 sheets are about 1 centimetre thick, without the cover. A pile of 200 pages printed on both sides is the same as 100 sheets.
+  - Note: Most notebooks of 100 sheets are about 1 centimetre thick, without the cover. A notebook with 200 pages has 100 sheets, because each sheet has a page on both sides.
   - Check: A pile of 100 sheets of paper is about 1 centimetre tall. What does that tell you? → **Each sheet has a tiny height, so paper is a very thin solid**
 ### a2 · Open a Box: from solid to flat and back (15 min)
 - **record:** Trace round the opened-out box on paper. Number its faces. Write how many faces it has.
@@ -329,7 +331,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 ### a3 · Stack It Up: from flat to solid (10 min)
 - **record:** Draw your two towers. Write how many pieces were in each, and how tall each tower was.
 - **s1 (5 min)**  
-  *Parent does:* 1. Your child stacks 20 coins into a tower. 2. Then stacks 20 cards into a second pile. 3. Ask what shape each tower is.  
+  *Parent does:* 1. Your child stacks 20 coins into a tower. 2. Then your child stacks 20 cards into a second pile. 3. Ask what shape each tower is.  
   *Parent says:* Each coin is a short, flat-looking circle. Stack twenty. What shape have you made? Now stack the cards. What shape is that?  
   *Child mode:* Stack twenty coins. What shape is the tower? Now stack the cards.
   - Ask: What solid shapes did the towers make? (good: The coins made a cylinder.; The cards made a cuboid, like a box.)
@@ -343,7 +345,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 ## Projects
 ### p1 · A Town for Pulli: design a flat world (30 min, 2 days)
 - **record:** The finished town map, with notes on how Pulli gets in and out of her house and how she passes a friend.
-- **schedule:** day 1: Draw Pulli's town from above: houses with doors, a road, a school and a shop. (15 min); day 2: Slide the coin Pulli round the town. Solve the problems: doors, passing a friend, and crossing a road. (15 min)
+- **schedule:** day 1: Draw Pulli's town from above: houses with doors, a road, a school and a shop. (15 min); day 2: Slide a coin round the town as Pulli. Solve the problems: doors, passing a friend, and crossing a road. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Remind your child that Pulli cannot go over any line. 2. Your child draws a town from above, with at least 3 houses, a road, a school and a shop. 3. Every building needs a door.  
   *Parent says:* Pulli can't step over a line. So every house needs a gap for a door. Draw her a town she can move round.  
@@ -355,12 +357,12 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
   *Child mode:* Pulli meets a friend on the road. How can they pass?
   - Ask: How can Pulli pass her friend on a narrow road? (good: Make the road wider.; Add a side road for one to wait in.)
   - Ask: What happens to Pulli's house when her door is open? (good: Anyone can come in.; The wall has a gap, so it isn't closed.)
-  - Note: Children often find new problems: a door that opens swings into the room and blocks it, and a drawn road splits the town in two for Pulli. Praise every problem they find. Each one shows what the up direction does for us.
+  - Note: Children often find new problems. A door that swings open blocks the room. A drawn road splits the town in two, because Pulli cannot cross its lines. Praise every problem they find. Each one shows what the up direction does for us.
   - Check: In A Town for Pulli, why can't Pulli step over a wall? → **She has no up direction, so she can't go over a line**
 
 ## Challenges
 ### c1 · Hold It Up with One Flat Sheet (15 min)
-- **problem:** Use one sheet of paper to hold a steel plate at least 5 centimetres above the table.
+- **problem:** A flat sheet of paper flops over, but a sheet rolled into a tube can stand up. Use one sheet of paper to hold a steel plate at least 5 centimetres above the table.
 - **your turn:** Find your own way to make the flat sheet hold up the plate. Then try to hold up a book.
 - **constraints:** Use only one sheet of paper, about the size of a notebook page.; You may use 2 short pieces of sticky tape.; The plate must stay up for 10 seconds.
 - **general:** Roll the paper into a wide, short tube, with the long side going round, and stand it on its end.; Fold the paper into a triangle tube and stand it up.
@@ -394,12 +396,12 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
    **Answer:** Three circles that get smaller and smaller.. *Why:* A strong drawing shows the circle from the thick end biggest, and the one near the tip smallest, because a carrot gets thinner towards the tip.
 5. (truefalse) A sheet of paper has no height at all.  
    **Answer:** False. *Why:* False. A pile of 100 sheets is about 1 centimetre tall, so each sheet has a tiny height. Paper is a very thin solid.
-6. (count) Meenakshi opened a sweet box out flat. She counted the faces of the net. How many faces does a box have?  
+6. (count) A sweet box is opened out flat, and the faces of its net are counted. How many faces does a box have?  
    **Answer:** 6. *Why:* A box has a top, a bottom, a front, a back and two sides. That is 6 faces. Opening it out flat does not take any faces away.
-7. (write) Say out loud, and a grown-up writes it down: what can you do that Pulli the flat girl can never do?  
+7. (write) What can you do that Pulli the flat girl can never do? Say it out loud, and a grown-up will write it down.  
    **Answer:** For example: I can jump up, or step over a line.. *Why:* A strong answer names something that needs the up direction, such as jumping, climbing or stepping over a wall.
-8. (perspective) Farhana and Divya are looking at a dosa on a plate.  
-   **Answer:** A strong answer agrees with Divya, because you can lift a dosa and it has a top and a bottom, so it has a little height. It also says Farhana is right that a dosa is round and very thin, so it looks almost flat.. *Why:* Both have part of it. The outline of a dosa is a circle, and the dosa is thin. But a dosa has a top and a bottom, so it has height and is a solid. The paper pile test is the evidence that even very thin things have height.
+8. (perspective) Two girls are looking at a dosa on a plate.  
+   **Answer:** A strong answer agrees with the second person, because you can lift a dosa and it has a top and a bottom, so it has a little height. It also says the first person is right that a dosa is round and very thin, so it looks almost flat.. *Why:* Both have part of it. The outline of a dosa is a circle, and the dosa is thin. But a dosa has a top and a bottom, so it has height and is a solid. A pile of 100 sheets of paper is about 1 centimetre tall, and that shows that even very thin things have height.
 9. (label) Look at the drawing of a matchbox. Write 'length', 'width' and 'height' on the three arrows.  
    **Answer:** ['the long arrow along the bottom: length', 'the short arrow across the bottom: width', 'the arrow going up: height']. *Why:* Length is the long way, width is from side to side, and height is up. A solid like a matchbox has all three.
 10. (odd) Three of these are solid shapes. Which one is a flat shape?  
@@ -412,16 +414,16 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 2. (order) Put the slices of a round potato in order, from the top of the potato to the bottom.  
    **Answer:** ['a tiny circle', 'a middle-sized circle', 'the biggest circle', 'a small circle']. *Why:* A round potato is narrow at the top, widest in the middle, and narrow again at the bottom. So the slices grow, then shrink.
 3. (draw) Draw what Pulli the flat girl would see as a ball passed slowly down through her flat world. Draw 4 boxes, one after another.  
-   **Answer:** A dot, a small circle, a big circle, a small circle (or a dot).. *Why:* Pulli meets the ball one flat slice at a time. The slices start small, grow to the biggest in the middle of the ball, and shrink again, like the potato slices.
+   **Answer:** A dot, a small circle, a big circle, a small circle (or a dot).. *Why:* Pulli meets the ball one flat slice at a time. The slices start small, grow to the biggest in the middle of the ball, and shrink again, like the slices of a round potato.
 4. (fill) A flat creature can move forward and back, and left and right. She can never move ________.  
    **Answer:** up (or down). *Why:* A flat world has only two directions. Up and down is the third direction, which solids have and flat shapes do not.
 5. (write) In the flat eyes test, a card circle and a card square both looked like lines from the edge. How could you tell them apart?  
    **Answer:** Turn them, or walk round them. The square's line got wider at the corners, but the circle's line stayed the same.. *Why:* A strong answer uses what was seen when the shapes turned: a square is wider from corner to corner, but a circle is the same width every way.
-6. (perspective) Lakshmi and Arjun are talking about the potato cube from the slice and trace test.  
-   **Answer:** A strong answer agrees with Arjun, because the corner cut gave a triangle. It also says Lakshmi's idea makes sense, because a cube's faces are squares, and a cut straight across the middle, side to side, does give a square.. *Why:* The shape of a slice depends on where you cut. A cut parallel to a face gives a square. A cut across a corner gives a triangle. The traced triangle is the evidence.
+6. (perspective) Two people are talking about the potato cube from the slice and trace test.  
+   **Answer:** A strong answer agrees with the second person, because the corner cut gave a triangle. It also says the first person's idea makes sense, because a cube's faces are squares, and a cut straight across the middle, side to side, does give a square.. *Why:* The shape of a slice depends on where you cut. A cut straight across, in line with a face, gives a square. A cut across a corner gives a triangle. The traced triangle is the evidence.
 7. (label) Look at the drawing of a steel tumbler. Write 'flat face', 'curved side' and 'edge' in the right places.  
    **Answer:** ['the round bottom: flat face', 'the round side: curved side', 'the line where the bottom meets the side: edge']. *Why:* A tumbler has a flat round face at the bottom and a curved side. An edge is where two parts of a solid meet.
-8. (count) Revathi stacked 10 playing cards, then 10 more, then 10 more. How many cards are in her pile?  
+8. (count) You stack 10 playing cards, then 10 more, then 10 more. How many cards are in the pile?  
    **Answer:** 30. *Why:* 10 and 10 and 10 make 30. Each card adds a tiny height, so 30 cards make a taller solid pile than 10.
 9. (truefalse) A ball has no flat faces at all.  
    **Answer:** True. *Why:* True. A ball is a sphere, curved all over. Its slices are flat circles, but its outside has no flat face.
@@ -430,19 +432,19 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 ### Thinking in Flat and Solid (challenge) (challenge, 10 questions)
 1. (write) Pulli lives in a flat world. Why is a circle drawn round her a wall she can never get past?  
    **Answer:** Getting past a line means stepping over it, and stepping over needs the up direction. Pulli's world has no up.. *Why:* A strong answer says that going over something needs a third direction, height, which a flat world does not have.
-2. (mcq) Tanvi cut a carrot straight across, but she slanted the knife. What shape did the cut side make?  
+2. (mcq) A carrot is cut across with the knife slanted, not upright. What shape is the cut side?  
    Options: A perfect circle / A stretched circle, called an oval / A square  
    **Answer:** A stretched circle, called an oval. *Why:* A slanting cut goes across the carrot at an angle, so the circle is stretched into an oval. The shape of a slice depends on how you cut, not only on the solid.
 3. (draw) Draw a net that would fold up into a dice. Use 6 squares joined at their sides.  
    **Answer:** Six squares joined edge to edge, for example in a cross shape.. *Why:* A strong drawing has 6 squares, all joined along whole sides, arranged so they can fold up without two squares landing on the same face. A cross shape works. Six squares in one long row does not.
-4. (perspective) Nithya and her grandfather are talking about the ground under their feet.  
-   **Answer:** A strong answer agrees with Nithya, and gives evidence such as the round shadow of the Earth on the Moon, or photos from space. It also says the grandfather's idea makes sense, because the ground near us really does look flat.. *Why:* The Earth is a solid ball, but it is so big that the piece we stand on looks almost flat. Aristotle saw that the Earth's shadow on the Moon is always round, and only a ball does that.
-5. (write) Your potato slices stacked back into a potato. Use this to explain how a solid is different from a flat shape.  
+4. (perspective) A girl and her grandfather are talking about the ground under their feet.  
+   **Answer:** A strong answer agrees with the girl, and gives evidence such as the round shadow of the Earth on the Moon, or photos from space. It also says the grandfather's idea makes sense, because the ground near us really does look flat.. *Why:* The Earth is a solid ball, but it is so big that the piece we stand on looks almost flat. Aristotle saw that the Earth's shadow on the Moon is always round, and only a ball does that.
+5. (write) In the slice and trace test, the potato slices stacked back into a potato. Use this to explain how a solid is different from a flat shape.  
    **Answer:** A solid is like flat slices piled up. The pile gives it height, which a flat shape does not have.. *Why:* A strong answer uses the stacked slices as evidence: each slice is a flat shape, and piling them up in the up direction makes a solid.
 6. (odd) Three of these have flat faces. Which one has no flat face at all?  
    Options: A dice / A matchbox / A lemon / A samosa  
    **Answer:** 2. *Why:* A lemon is curved all over, like a sphere. The dice, the matchbox and the samosa all have flat faces.
-7. (count) Mou traced 3 cucumber slices, 3 carrot slices and 5 potato slices. How many shapes did she trace?  
+7. (count) You trace 3 cucumber slices, 3 carrot slices and 5 potato slices. How many shapes do you trace?  
    **Answer:** 11. *Why:* 3 and 3 make 6, and 6 and 5 make 11. Every one of the 11 shapes is flat, though they came from solids.
 8. (label) Look at the drawing of a potato cube with its corner cut off. Label the square face and the triangle.  
    **Answer:** ['the big face on the front: square', 'the small new face where the corner was: triangle']. *Why:* The cube's own faces are squares. Cutting off a corner makes a new flat face, and it is a triangle, because the cut crosses three faces.
@@ -473,18 +475,18 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 5. (mcq) In the slice and trace test, what happened to the carrot slices from the thick end to the tip?  
    Options: They stayed the same size / They got smaller / They got bigger  
    **Answer:** They got smaller. *Why:* A carrot gets thinner towards the tip, like a long cone, so its circles get smaller.
-6. (mcq) What shape did a grown-up get by cutting a corner off a potato cube?  
+6. (mcq) In the slice and trace test, a grown-up cut a corner off a potato cube. What shape was the cut side?  
    Options: A square / A circle / A triangle  
    **Answer:** A triangle. *Why:* The cut crosses the three faces that meet at the corner, so the new face has three sides: a triangle. Choosing the square means thinking a cube can only give squares.
 7. (mcq) What is a net?  
    Options: A flat shape that folds up into a solid / A slice of a solid / The edge of a box  
-   **Answer:** A flat shape that folds up into a solid. *Why:* When you opened out a box, you got its net: a flat shape that folds back into the box.
+   **Answer:** A flat shape that folds up into a solid. *Why:* In Open a Box, you opened a box out flat and got its net: a flat shape that folds back into the box.
 8. (mcq) Pulli is a flat girl who lives on paper. Which of these can she never do?  
    Options: Move forward / Move left / Jump up  
    **Answer:** Jump up. *Why:* Pulli's world has forward, back, left and right, but no up. So she can never jump up or step over a line.
 9. (mcq) A ball passes slowly down through Pulli's flat world. What does she see?  
    Options: A whole ball / A circle that grows and then shrinks / Nothing at all  
-   **Answer:** A circle that grows and then shrinks. *Why:* Pulli meets the ball one flat slice at a time. The slices grow to the biggest in the middle, then shrink, like the round potato slices.
+   **Answer:** A circle that grows and then shrinks. *Why:* Pulli meets the ball one flat slice at a time. The slices grow to the biggest in the middle, then shrink, like the slices of the round potato in the slice and trace test.
 10. (mcq) Is a sheet of paper truly flat, with no height at all?  
    Options: Yes, it has no height / No, it is a very thin solid / Only when it is folded  
    **Answer:** No, it is a very thin solid. *Why:* A pile of 100 sheets is about 1 centimetre tall, so each sheet has a tiny height.
@@ -531,11 +533,11 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - Why did the cone go to the party? *It wanted to be the point of it!*
 
 ## Connected maths
-- In the slice and trace test, Sahana traced 5 potato slices. Their widths, from top to bottom, were 2, 5, 6, 5 and 2 centimetres. Which slice was widest? What pattern do you see? **The middle slice, at 6 centimetres. The widths grow, then shrink in the same way, so the potato is about the same at the top and the bottom.**. 6 is the biggest number, and it is in the middle. 2 and 5 come before it, and 5 and 2 after it, like a mirror. (queues `math.patterns.number-patterns.L2`)
-- Ishita opened out a cube-shaped box. Each face is a square. How many squares are in its net? **6 squares.**. A cube has 6 faces, and every face of a cube is a square. Opening it out keeps all 6. (queues `math.shapes-3d.solid-shapes.L2`)
-- Gowri stacked coins into a tower. 10 coins made a tower 2 centimetres tall. How tall would 20 coins be, if every coin is the same? **4 centimetres.**. 20 coins is two lots of 10. Each lot of 10 is 2 centimetres. 2 and 2 make 4. (queues `math.measurement-basics.standard-units.L2`)
-- In the feely bag game, Thenmozhi felt 5 things. 2 had no flat faces, and the rest had flat faces. How many had flat faces? **3.**. 5 take away 2 is 3. (queues `math.data.sorting-and-tallies.L2`)
-- Mou drew shapes for Pulli's town: 4 squares for houses, 1 rectangle for a school and 3 triangles for roofs. How many flat shapes did she draw? Which kind did she draw most of? **8 shapes. She drew most squares.**. 4 and 1 and 3 make 8. 4 is the biggest of 4, 1 and 3, so squares are the most. (queues `math.shapes-2d.recognising-shapes.L2`)
+- In the slice and trace test, 5 potato slices are traced. Their widths, from top to bottom, are 2, 5, 6, 5 and 2 centimetres. Which slice is widest? What pattern do you see? **The middle slice, at 6 centimetres. The widths grow, then shrink in the same way, so the potato is about the same at the top and the bottom.**. 6 is the biggest number, and it is in the middle. 2 and 5 come before it, and 5 and 2 after it, like a mirror. (queues `math.patterns.number-patterns.L2`)
+- A cube-shaped box is opened out flat. Each face is a square. How many squares are in its net? **6 squares.**. A cube has 6 faces, and every face of a cube is a square. Opening it out keeps all 6. (queues `math.shapes-3d.solid-shapes.L2`)
+- 10 coins make a tower 2 centimetres tall. How tall would a tower of 20 coins be, if every coin is the same? **4 centimetres.**. 20 coins is two lots of 10. Each lot of 10 is 2 centimetres. 2 and 2 make 4. (queues `math.measurement-basics.standard-units.L2`)
+- In the feely bag game, there are 5 things in the bag. 2 have no flat faces, and the rest have flat faces. How many have flat faces? **3.**. 5 take away 2 is 3. (queues `math.data.sorting-and-tallies.L2`)
+- A drawing of Pulli's town has 4 squares for houses, 1 rectangle for a school and 3 triangles for roofs. How many flat shapes is that? Which kind is there most of? **8 shapes. There are more squares than any other kind.**. 4 and 1 and 3 make 8. 4 is the biggest of 4, 1 and 3, so squares are the most. (queues `math.shapes-2d.recognising-shapes.L2`)
 
 ## Song
 Room Between (sci.space-time.L2): Topic-level song for Space, time and dimensions L2

@@ -90,10 +90,10 @@
    "definition": "A musical instrument makes sound when one part of it vibrates, moving to and fro very fast.",
    "description": "Every sound starts with something making very fast, very small movements. Pluck a rubber band, and the band vibrates. Tap a box, and its sides vibrate in and out. Blow across a bottle, and the air inside it vibrates.",
    "examples": [
-    "A rubber band stretched over a tissue box: the band vibrates.",
-    "A box drum: the side of the box you tap vibrates.",
-    "A bottle hooter: the air inside the bottle vibrates.",
-    "Your voice: two small folds inside your throat vibrate. Put your fingers on your throat and hum to feel them."
+    "A rubber band is stretched over a tissue box. The band vibrates.",
+    "A box drum is tapped. The side of the box you tap vibrates.",
+    "You blow across a bottle hooter. The air inside the bottle vibrates.",
+    "Your voice comes from two small folds inside your throat, and they vibrate. Put your fingers on your throat and hum to feel them."
    ],
    "perspectives": [],
    "art": "Three small pictures: a blurry rubber band, a box side bulging in and out, and wavy lines of air inside a bottle."
@@ -175,8 +175,8 @@
    "definition": "Tempo is how fast the beat goes: how many beats there are in a fixed time.",
    "description": "In the Sleepy Song, Dancing Song test, you pat along to a lullaby and a dance song, and count the pats in 15 seconds for each. The lullaby usually gives far fewer pats than the dance song. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.",
    "examples": [
-    "A lullaby: slow tempo.",
-    "A fast film dance song: fast tempo.",
+    "A lullaby has a slow tempo.",
+    "A fast film dance song has a fast tempo.",
     "Rowers in a Kerala snake boat race pull their oars in time with the boat song."
    ],
    "perspectives": [],
@@ -272,7 +272,7 @@
    "for": "The story was copied in books for more than 1,000 years, and it does have some truth: bigger things often sound lower.",
    "against": "Around 1589, Vincenzo Galilei tested the numbers in the story with weights on strings, and they did not work. A hammer's sound depends on its size and shape, not on its weight alone.",
    "status": "rejected",
-   "context": "This card is about a famous old story about music and numbers that turned out to be wrong when someone tested it."
+   "context": "An old story says Pythagoras heard blacksmiths' hammers ringing, weighed the hammers, and found the numbers behind musical notes. Many people believed it for more than 1,000 years. This card asks if the story is true."
   }
  ],
  "big_questions": [
@@ -334,9 +334,9 @@
   "epiphany": "Big boxes sound low and small boxes sound high, because big sides vibrate more slowly. But different sounds only become music together when everyone follows one steady beat.",
   "ask": [
    "Why did the big carton sound deeper than the toothpaste box?",
-   "What went wrong the first time everyone played at once?",
-   "How did Paati's clapping help the family band?",
-   "Which instrument would you play in Kavya's band, and why?"
+   "Why do players need one steady beat to make music together?",
+   "What does a steady beat do for a group of people playing together?",
+   "A rubber band, a bottle and a carton all make sounds. What vibrates in each one?"
   ],
   "art": [
    "A Chennai flat on Pongal morning, with a grandmother in a cotton saree pointing at a pile of empty boxes by the door, and a girl and a small boy looking at them.",
@@ -465,9 +465,18 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Add up the points. Ask which card was the hardest to copy.",
-     "say": "Which card was hardest? Why?",
-     "kid": "Which card was hardest? Why?",
+     "do": "Add up the points. Ask which cards had a rest, and how the players knew when to stay quiet.",
+     "say": "Some cards had a rest in them. How did you know when to stay quiet?",
+     "kid": "Some cards had a rest. How did you know when to stay quiet?",
+     "ask": [
+      {
+       "q": "How did you know when to stay quiet on a rest?",
+       "good": [
+        "I kept counting the beat in my head.",
+        "I nodded my head on the rest."
+       ]
+      }
+     ],
      "check": {
       "t": "mcq",
       "q": "You play 'clap, rest, clap, rest'. How many sounds do you make?",
@@ -565,9 +574,18 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the points. Ask which train was the most fun to play.",
-     "say": "Which train sounded best? Why?",
-     "kid": "Which train sounded best? Why?",
+     "do": "Count the points. Ask which pattern repeated the most times in 8 cards.",
+     "say": "Look at the trains you built. Which pattern repeated the most times in 8 cards?",
+     "kid": "Look at the trains. Which pattern repeated the most times?",
+     "ask": [
+      {
+       "q": "Which pattern repeated the most times in 8 cards?",
+       "good": [
+        "A pattern with two parts, like clap, pat. It repeats four times.",
+        "A pattern with four parts repeats only twice."
+       ]
+      }
+     ],
      "check": {
       "t": "mcq",
       "q": "A train goes: clap, stamp, clap, stamp, clap, stamp, clap. What should the 8th card be?",
@@ -958,7 +976,7 @@
      "do": "1. Say your child's name in parts, clapping on each part. 2. Do the same with three family names. For example, Ka-vya is 2 claps and Mee-nak-shi is 3.",
      "say": "Now clap your name. One clap for each part. Ka-vya: clap, clap. How many claps is your name?",
      "kid": "Clap your name. One clap for each part. How many claps?",
-     "parent": "Clapping the parts of words is called clapping the rhythm. Different names make different rhythms."
+     "parent": "Clapping the parts of a name gives a pattern of claps. That pattern of claps is called a rhythm. Different names make different rhythms."
     },
     {
      "id": "s3",
@@ -1316,7 +1334,7 @@
    "title": "A Band of Three: high, middle and low",
    "mins": 20,
    "context": "This is a design challenge. You make three instruments from things at home: one that sounds high, one middle and one low. Then you play them together on one beat.",
-   "problem": "Can you make three instruments from boxes, bottles and rubber bands, so that one sounds high, one sounds in the middle and one sounds low?",
+   "problem": "Can you make three instruments from boxes, bottles and rubber bands, so that one sounds high, one sounds in the middle and one sounds low? Two hints from the tests: a bigger box sounds lower than a small box, and more water in a bottle makes the hoot higher.",
    "constraints": [
     "Use only things already at home: boxes, bottles, rubber bands, tape, water, steel bowls and spoons.",
     "Everyone listening must agree which instrument is high, middle and low.",
@@ -2334,7 +2352,7 @@
    "what_is_life": "Many living beings keep time with each other. Frogs call in turns at night, and a cockatoo called Snowball danced to the beat of songs.",
    "what_is_this_world": "The world is full of beats that come round again and again: day and night, your breath and your heartbeat."
   },
-  "thread": "A tap is one quick push. A box answers it with a note of its own, set by its size and shape. The same tap gave a big carton, a small box and a steel bowl three different notes. Everything is conscious, the box and the bowl too, and each answers in its own way. When many players follow one beat, all those different notes join into one song.",
+  "thread": "A tap is one quick push. When you tap a box, it makes a note that depends on its size and shape. The same tap gave a big carton, a small box and a steel bowl three different notes. Everything is conscious, even a box and a bowl, and each responds in its own way. When many players follow one beat, all those different notes join into one song.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 2 ('The Adjustment of Controversies', also called 'All Things Are Equal')",
@@ -2344,7 +2362,7 @@
    {
     "source": "Natya Shastra, chapter 28 in most editions",
     "teaching": "The Natya Shastra, an old Indian book on drama, music and dance, sorts instruments into four kinds: stringed ones (tata), drums covered with skin (avanaddha), solid ones that are struck (ghana), and hollow ones that are blown (sushira).",
-    "link": "The tissue-box ektara is a tata instrument, and the bottle hooter is a sushira. The box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates: a string, a skin, a solid body or the air."
+    "link": "The tissue-box ektara is a tata instrument, and the bottle hooter is a sushira. The box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates. It is a string, a skin, a solid body or the air."
    }
   ],
   "science": [
@@ -2368,7 +2386,7 @@
    "kid": "Sit still. Close your eyes. Listen for a steady beat. Pat it on your knee. Now put your hand on your chest. Can you feel your heartbeat?"
   },
   "ask": [
-   "Before you tapped it, did the big carton already have its low note? Where was the note while the box was silent?",
+   "Before you tapped the big carton, was its low note already there? Or did the note begin only when the box vibrated?",
    "When a whole room claps together, who decides the beat?",
    "Is a beat in the drum, or in the people who hear it?"
   ],

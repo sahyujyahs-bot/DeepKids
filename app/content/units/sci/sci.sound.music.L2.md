@@ -30,10 +30,10 @@
 **Definition:** A musical instrument makes sound when one part of it vibrates, moving to and fro very fast.
 
 Every sound starts with something making very fast, very small movements. Pluck a rubber band, and the band vibrates. Tap a box, and its sides vibrate in and out. Blow across a bottle, and the air inside it vibrates.
-- e.g. A rubber band stretched over a tissue box: the band vibrates.
-- e.g. A box drum: the side of the box you tap vibrates.
-- e.g. A bottle hooter: the air inside the bottle vibrates.
-- e.g. Your voice: two small folds inside your throat vibrate. Put your fingers on your throat and hum to feel them.
+- e.g. A rubber band is stretched over a tissue box. The band vibrates.
+- e.g. A box drum is tapped. The side of the box you tap vibrates.
+- e.g. You blow across a bottle hooter. The air inside the bottle vibrates.
+- e.g. Your voice comes from two small folds inside your throat, and they vibrate. Put your fingers on your throat and hum to feel them.
 ### High and low sounds · *defined*
 **Definition:** Pitch is how high or low a sound is. Fast vibrations make high sounds. Slow vibrations make low sounds.
 
@@ -73,8 +73,8 @@ The beat is like the ticking of a clock. It never speeds up or slows down in the
 **Definition:** Tempo is how fast the beat goes: how many beats there are in a fixed time.
 
 In the Sleepy Song, Dancing Song test, you pat along to a lullaby and a dance song, and count the pats in 15 seconds for each. The lullaby usually gives far fewer pats than the dance song. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.
-- e.g. A lullaby: slow tempo.
-- e.g. A fast film dance song: fast tempo.
+- e.g. A lullaby has a slow tempo.
+- e.g. A fast film dance song has a fast tempo.
 - e.g. Rowers in a Kerala snake boat race pull their oars in time with the boat song.
 ### Tala: counting beats in a cycle · *defined*
 **Definition:** In Indian classical music, a tala is a cycle of beats that repeats again and again.
@@ -127,15 +127,15 @@ We have tapped big and small boxes, hooted bottles and kept a beat together. Now
 - *what is life:* Many living beings keep time with each other. Frogs call in turns at night, and a cockatoo called Snowball danced to the beat of songs.
 - *what is this world:* The world is full of beats that come round again and again: day and night, your breath and your heartbeat.
 
-A tap is one quick push. A box answers it with a note of its own, set by its size and shape. The same tap gave a big carton, a small box and a steel bowl three different notes. Everything is conscious, the box and the bowl too, and each answers in its own way. When many players follow one beat, all those different notes join into one song.
+A tap is one quick push. When you tap a box, it makes a note that depends on its size and shape. The same tap gave a big carton, a small box and a steel bowl three different notes. Everything is conscious, even a box and a bowl, and each responds in its own way. When many players follow one beat, all those different notes join into one song.
 
 - **Zhuangzi, chapter 2 ('The Adjustment of Controversies', also called 'All Things Are Equal'):** The Chinese thinker Zhuangzi describes the wind blowing through a great forest. The hollows in the trees are of every size and shape. When the wind blows, each hollow makes its own sound: some roar, some whistle, some hum. (In the Bottle Hooter, the bottle hooted when you blew across it, and hooted higher when there was less air inside. A breath makes a different note in each different hollow.)
-- **Natya Shastra, chapter 28 in most editions:** The Natya Shastra, an old Indian book on drama, music and dance, sorts instruments into four kinds: stringed ones (tata), drums covered with skin (avanaddha), solid ones that are struck (ghana), and hollow ones that are blown (sushira). (The tissue-box ektara is a tata instrument, and the bottle hooter is a sushira. The box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates: a string, a skin, a solid body or the air.)
+- **Natya Shastra, chapter 28 in most editions:** The Natya Shastra, an old Indian book on drama, music and dance, sorts instruments into four kinds: stringed ones (tata), drums covered with skin (avanaddha), solid ones that are struck (ghana), and hollow ones that are blown (sushira). (The tissue-box ektara is a tata instrument, and the bottle hooter is a sushira. The box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates. It is a string, a skin, a solid body or the air.)
 - Science (settled): Every sound comes from something vibrating. For things of the same material and shape, bigger ones vibrate more slowly and make lower notes.
 - Science (debated): Some other animals, such as Snowball the cockatoo and Ronan the sea lion, can move in time to a beat. Scientists still argue about which animals can do it, and why.
 - Other view, Many physicists: Many physicists would say a box does not answer a tap at all. They say it simply vibrates in the way its size and shape allow, as a ball rolls down a slope, with no sensing involved.
 - Practice, Find the Beat in the Quiet (3 min): Sit very still and close your eyes. Listen for one whole minute. Is anything making a steady beat? It could be a clock, a dripping tap, footsteps, or a fan. When you find a beat, pat it gently on your knee. Then put your hand flat on your chest. Can you feel your heart's own beat?
-- Ask: Before you tapped it, did the big carton already have its low note? Where was the note while the box was silent?
+- Ask: Before you tapped the big carton, was its low note already there? Or did the note begin only when the box vibrated?
 - Ask: When a whole room claps together, who decides the beat?
 - Ask: Is a beat in the drum, or in the people who hear it?
 
@@ -196,9 +196,9 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 **For the parent:** Big boxes sound low and small boxes sound high, because big sides vibrate more slowly. But different sounds only become music together when everyone follows one steady beat.
 
 - Ask: Why did the big carton sound deeper than the toothpaste box?
-- Ask: What went wrong the first time everyone played at once?
-- Ask: How did Paati's clapping help the family band?
-- Ask: Which instrument would you play in Kavya's band, and why?
+- Ask: Why do players need one steady beat to make music together?
+- Ask: What does a steady beat do for a group of people playing together?
+- Ask: A rubber band, a bottle and a carton all make sounds. What vibrates in each one?
 
 ## Games
 ### g1 · Echo Beat Cards (15 min)
@@ -217,9 +217,10 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
   - Ask: How did you know which card it was? (good: I counted the claps.; I heard where the rest was.)
   - Note: If a child loses the beat, stop and pat the beat together for a few seconds before trying again.
 - **s3 (2 min)**  
-  *Parent does:* Add up the points. Ask which card was the hardest to copy.  
-  *Parent says:* Which card was hardest? Why?  
-  *Child mode:* Which card was hardest? Why?
+  *Parent does:* Add up the points. Ask which cards had a rest, and how the players knew when to stay quiet.  
+  *Parent says:* Some cards had a rest in them. How did you know when to stay quiet?  
+  *Child mode:* Some cards had a rest. How did you know when to stay quiet?
+  - Ask: How did you know when to stay quiet on a rest? (good: I kept counting the beat in my head.; I nodded my head on the rest.)
   - Check: You play 'clap, rest, clap, rest'. How many sounds do you make? → **2**
 ### g2 · Pattern Train: build a rhythm that repeats (15 min)
 - **rules:** Cut out the 20 sound cards and spread them face up.; The first player builds a train of 8 cards in a line. The train must be a pattern that repeats, such as clap, pat, clap, pat, clap, pat, clap, pat.; Everyone checks that the pattern really repeats. If it does not, the builder fixes it.; A grown-up pats a steady beat. Everyone plays the train together, one card on each beat, from the first card to the last.; If everyone plays the whole train without stopping, the builder gets 1 point.; The next player changes the train into a new repeating pattern, by swapping as few cards as they can. Play it again.; After four trains each, the player with the most points wins.
@@ -236,9 +237,10 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
   - Ask: How do you know your train repeats? (good: The first half is the same as the second half.; Clap, clap, stamp comes again and again.)
   - Note: A train of 8 can hold a 2-part pattern four times, or a 4-part pattern twice. A 3-part pattern does not fit exactly into 8 cards. If your child spots this, praise it.
 - **s3 (2 min)**  
-  *Parent does:* Count the points. Ask which train was the most fun to play.  
-  *Parent says:* Which train sounded best? Why?  
-  *Child mode:* Which train sounded best? Why?
+  *Parent does:* Count the points. Ask which pattern repeated the most times in 8 cards.  
+  *Parent says:* Look at the trains you built. Which pattern repeated the most times in 8 cards?  
+  *Child mode:* Look at the trains. Which pattern repeated the most times?
+  - Ask: Which pattern repeated the most times in 8 cards? (good: A pattern with two parts, like clap, pat. It repeats four times.; A pattern with four parts repeats only twice.)
   - Check: A train goes: clap, stamp, clap, stamp, clap, stamp, clap. What should the 8th card be? → **Stamp**
 
 ## Experiments
@@ -337,7 +339,7 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
   *Parent does:* 1. Say your child's name in parts, clapping on each part. 2. Do the same with three family names. For example, Ka-vya is 2 claps and Mee-nak-shi is 3.  
   *Parent says:* Now clap your name. One clap for each part. Ka-vya: clap, clap. How many claps is your name?  
   *Child mode:* Clap your name. One clap for each part. How many claps?
-  - Note: Clapping the parts of words is called clapping the rhythm. Different names make different rhythms.
+  - Note: Clapping the parts of a name gives a pattern of claps. That pattern of claps is called a rhythm. Different names make different rhythms.
 - **s3 (2 min)**  
   *Parent does:* 1. March and say 'tick, tick' again. 2. While the beat goes on, your child claps and says one name after another.  
   *Parent says:* Keep marching on the beat. Now clap names on top of it. Does your marching change?  
@@ -424,7 +426,7 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 
 ## Challenges
 ### c1 · A Band of Three: high, middle and low (20 min)
-- **problem:** Can you make three instruments from boxes, bottles and rubber bands, so that one sounds high, one sounds in the middle and one sounds low?
+- **problem:** Can you make three instruments from boxes, bottles and rubber bands, so that one sounds high, one sounds in the middle and one sounds low? Two hints from the tests: a bigger box sounds lower than a small box, and more water in a bottle makes the hoot higher.
 - **your turn:** Make your own band of three. Ask someone to listen with their eyes shut and say which is high, middle and low. If two sound alike, change one: use a bigger box, or add or pour out water.
 - **constraints:** Use only things already at home: boxes, bottles, rubber bands, tape, water, steel bowls and spoons.; Everyone listening must agree which instrument is high, middle and low.; You must be able to play all three on the same steady beat.
 - **general:** Use three boxes of very different sizes: the biggest is the low drum and the smallest is the high one.; Use three bottles with different amounts of water: the emptiest hoots lowest.; Use three steel bowls from one set, tapped with a spoon: the biggest rings lowest.
