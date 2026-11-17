@@ -79,7 +79,7 @@
    "concept": "A baby is shaped differently from a grown-up",
    "status": "defined",
    "definition": "A newborn human baby is about 4 heads long. A grown-up is about 7 or 8 heads tall. After birth, the legs grow much more than the head.",
-   "description": "A human baby has a big head, big eyes, a short body and short legs. As the child grows, the legs grow fastest. The head grows too, but much less than the legs. So a child of 6 is about 6 heads tall, and a grown-up about 7 or 8. Many other young animals have big heads and big eyes too, like kittens and puppies. But a calf is born with long legs. A calf can stand within about an hour, so they can follow their mother.",
+   "description": "We can say how tall someone is in heads. Imagine stacking your own head on top of itself, again and again, from your feet upwards. The number of heads that fit is how many heads tall you are. A human baby has a big head, big eyes, a short body and short legs. As the child grows, the legs grow fastest. The head grows too, but much less than the legs. So a child of 6 is about 6 heads tall, and a grown-up about 7 or 8. Many other young animals have big heads and big eyes too, like kittens and puppies. But a calf is born with long legs. A calf can stand within about an hour, so they can follow their mother.",
    "examples": [
     "When you measure in the Heads Tall experiment, a grown-up is about 7 heads tall, a child about 6, and a baby photo about 4.",
     "A kitten's head is big for their body. A grown-up cat's head looks small.",
@@ -92,7 +92,7 @@
   {
    "concept": "How animal parents care for their young",
    "status": "debated",
-   "description": "Many animal parents feed their young, keep them warm and keep them safe. Pigeon mothers and fathers both feed their chicks with a milk they make in their throat. An elephant calf is looked after by the mother, the aunts and the oldest female, who leads the herd. Some fathers do most of the work. A seahorse father carries the eggs in a pouch on his belly. Some parents leave. An olive ridley turtle lays her eggs on a beach in Odisha and goes back to the sea. The babies hatch and find the sea alone. Many animal parents know their own young. A penguin parent finds their own chick among thousands, just by the chick's call. Scientists agree on what parents do. They argue about what parents feel.",
+   "description": "Many animal parents feed their young, keep them warm and keep them safe. Pigeon mothers and fathers both feed their chicks with a milk they make in their throat. An elephant calf is looked after by the mother and by the aunts, who are other female elephants in the herd. The oldest female leads the herd. Some fathers do most of the work. A seahorse father carries the eggs in a pouch on his belly. Some parents do not stay with their young. An olive ridley turtle lays her eggs on a beach in Odisha and goes back to the sea. The babies hatch and find the sea alone. Many animal parents know their own young. A penguin parent finds their own chick among thousands, just by the chick's call. Scientists agree on what parents do. They argue about what parents feel.",
    "examples": [
     "Both pigeon parents sit on the eggs, and both feed the chicks.",
     "A mother cat carries her kitten gently by the loose skin on the back of the neck.",
@@ -363,14 +363,14 @@
      "kid": "Look at the babies who are very different. What happens when they grow up?",
      "check": {
       "t": "mcq",
-      "q": "Which baby looks most like the parent?",
+      "q": "These babies look very different from their parents. What happens as they grow up?",
       "options": [
-       "Tadpole",
-       "Kitten",
-       "Caterpillar"
+       "They change their whole body",
+       "They stay the same shape",
+       "They get smaller and smaller"
       ],
-      "a": 1,
-      "why": "A kitten looks like a small cat. A tadpole grows up into a frog, and a caterpillar into a butterfly or a moth. They change their whole body."
+      "a": 0,
+      "why": "A tadpole grows legs and loses the tail. A caterpillar grows wings. A maggot grows legs and wings. Each one changes their whole body until they look like a grown-up."
      }
     }
    ]
@@ -473,9 +473,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Read the turtle card again and talk about the turtle. 2. Ask who carries the eggs in a seahorse family.",
-     "say": "The turtle mother left her eggs. How do the babies manage alone?",
-     "kid": "The turtle babies are alone. How do they find the sea?",
+     "do": "1. Read the turtle card again. Tell your child how the babies find the sea. 2. Ask who carries the eggs in a seahorse family.",
+     "say": "The turtle babies hatch in the sand, with no parent to help. They crawl towards the brightest part of the sky, because that is usually over the sea. That is how they find it. Now think of the seahorse. Who carries the eggs in a seahorse family?",
+     "kid": "Turtle babies crawl towards the bright sky to find the sea. Who carries the eggs in a seahorse family?",
      "check": {
       "t": "mcq",
       "q": "Who carries the eggs in a seahorse family?",
@@ -586,7 +586,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Ask your child to guess how many heads tall a grown-up is, a child is, and a baby is. 2. Write the three guesses down for your child.",
-     "say": "If we stacked your head on top of itself, again and again, until we reached your feet, how many heads would that be? How many heads tall are you? And me? And a baby? Why do you think so?",
+     "say": "Imagine stacking your head on top of itself, again and again, up from your feet. How many heads would that be? How many heads tall are you? And me? And a baby? Why do you think so?",
      "kid": "Guess. How many heads tall is a grown-up? And you? And a baby? Why?",
      "ask": [
       {
@@ -725,17 +725,19 @@
      "id": "s2",
      "mins": 4,
      "do": "Say what each baby really grows up into. Your child draws an arrow from the baby to the grown-up, and draws the baby if they like.",
-     "say": "The wriggling swimmer with a tail is a tadpole. A tadpole grows into a frog. Were you right? Which baby surprised you most?",
-     "kid": "Hear the answers. Which one surprised you?",
+     "say": "The wriggling swimmer with a tail is a tadpole, and a tadpole grows into a frog. The leaf eater is a caterpillar, and a caterpillar grows into a butterfly or a moth. The fluffy yellow baby is a duckling, and a duckling grows into a duck. The white wriggler in old fruit is a maggot, and a maggot grows into a fly. Were your drawings right? Which baby changes the most when they grow up, and why?",
+     "kid": "Hear what each baby grows into. Which baby changes the most?",
      "ask": [
       {
-       "q": "Which baby changes the most when they grow up?",
+       "q": "Which baby changes the most when they grow up? Why?",
        "good": [
         "The maggot, because a fly has wings.",
-        "The caterpillar, because a butterfly has wings."
+        "The caterpillar, because a butterfly has wings.",
+        "The duckling changes the least, because a duckling already looks like a duck."
        ]
       }
-     ]
+     ],
+     "parent": "The duckling changes the least. The tadpole, the caterpillar and the maggot change their whole body, so any of those with a reason is a good answer."
     }
    ]
   },
@@ -796,7 +798,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "For two minutes, your child picks up one puffed rice with the peg, walks to the nest and drops the puffed rice in a cup. Then they go back for the next piece. Count the trips aloud.",
+     "do": "For two minutes, your child picks up one puffed rice with the peg. They walk to the nest and drop it in a cup. Then they go back for the next piece. Count the trips aloud.",
      "say": "Go! One piece at a time, with your beak. Give every chick a turn. I'll count your trips.",
      "kid": "Pick up one piece with the peg. Walk to the nest. Drop it in a cup. Go back.",
      "parent": "Most children make 10 to 20 trips in two minutes. Real chicks call out for food and open their mouths wide."
@@ -805,8 +807,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Count the trips. Then talk about real bird parents.",
-     "say": "You made all those trips in just two minutes. Some small bird parents bring food hundreds of times in one day. How would you feel after a whole day?",
-     "kid": "How many trips did you make? Real bird parents make hundreds every day. Are you tired?",
+     "say": "You made all those trips in just two minutes. Some small bird parents bring food hundreds of times in one day. Why do you think they need to make so many trips?",
+     "kid": "How many trips did you make? Real bird parents make hundreds every day. Why so many?",
      "ask": [
       {
        "q": "Why do bird parents need to make so many trips?",
@@ -1832,17 +1834,17 @@
    "what_is_life": "Every living being comes from parents, and keeps growing and changing all through life.",
    "what_is_this_world": "Kittens, pigeon chicks, tadpoles and human babies all start small and change as they grow. All around us, young animals are becoming grown-ups."
   },
-  "thread": "Every animal begins as one tiny cell, too small to see. That cell grows into a baby, and the baby into a grown-up. A tadpole becomes a frog, a yellow chick becomes a grey pigeon, and a baby becomes a child. One life takes many shapes, and each shape grows out of the one before.",
+  "thread": "Every animal begins as one tiny cell, too small to see. That cell grows into a baby, and the baby into a grown-up. A tadpole becomes a frog, a yellow chick becomes a grey pigeon, and a baby becomes a child. The same animal has a different shape at each age, and each shape grows out of the one before.",
   "teachings": [
    {
     "source": "Tao Te Ching 51",
     "teaching": "The Tao gives birth to all things and raises them, but does not hold on to them as its own.",
-    "link": "Pigeon parents feed their chicks for about four weeks. Then the young pigeons fly off and live their own lives."
+    "link": "The Tao is the name ancient Chinese thinkers gave to the way nature works. In the same way, pigeon parents feed their chicks for about four weeks. Then the young pigeons fly off and live their own lives."
    },
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "A mother cat has four kittens and is still a whole cat. Each kitten is a whole new cat of their own."
+    "link": "In the same way, a mother cat who has four kittens is still a whole cat. Each kitten is a whole new cat of their own."
    }
   ],
   "science": [

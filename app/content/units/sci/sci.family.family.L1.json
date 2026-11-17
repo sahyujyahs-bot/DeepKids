@@ -80,7 +80,7 @@
    "definition": "Families can be big or small, and can be made in different ways. Each kind is a real family.",
    "description": "Some families are small, with one parent and one child. Some are big joint families, with grandparents, uncles, aunts and cousins in one house. Some children are raised by a grandmother or an aunt. Other animals have families too. In an elephant family, mothers, daughters, aunts and young ones stay together, and an older female often leads. Grown-up males leave. In an ant nest, a queen lays the eggs, and the ants you see are her daughters.",
    "examples": [
-    "Meenakshi's joint family in Madurai: Paati, Thatha, Amma, Appa, Periyamma, Periyappa, Meenakshi and two cousins, all in one house.",
+    "Meenakshi lives in a joint family in Madurai. Nine people share one house: Paati, Thatha, Amma, Appa, Periyamma, Periyappa, Meenakshi and two cousins.",
     "Joyita in Kolkata lives with her Baba. It is just the two of them, and her Dida visits on Sundays.",
     "The ants on your kitchen floor are all girls. They are daughters of a queen who lives in the nest."
    ],
@@ -103,7 +103,7 @@
   {
    "concept": "The tiny living beings we share",
    "status": "idea",
-   "definition": "",
+   "definition": "Microbes on our skin pass from person to person when they live together.",
    "description": "Your skin is home to millions of microbes, tiny living beings too small to see. They feed on your sweat, and as they feed they make much of your smell. People who live together hug, hold hands and touch the same things, so they pass microbes to each other. In 2013, scientists in the United States found that people in one home share more skin microbes than people in different homes. Scientists do not yet know if shared microbes stay for long, or come and go after each touch.",
    "examples": [
     "Nila's grandmother, Ammachi, hugs Nila's little brother Arjun every morning. Each hug passes a few microbes between them.",
@@ -209,10 +209,10 @@
    "'How did that happen?' asked Arjun.",
    "'Your skin is home to tiny living beings called microbes,' said Ammachi. 'They are far too small to see. They make much of our smell. When you hold something close, some of them move onto it. When people hug, some move across too. People who live together pass them to each other all the time.'",
    "'What about baby Kayal?' asked Arjun. 'She was not born in Revathi Kunjamma's family.'",
-   "Ammachi showed them a photo. Revathi Kunjamma held Kayal close, cheek to cheek. 'Revathi holds her all day, and they sleep side by side. They are sharing their tiny beings, just like we do. Kayal is her daughter.'",
+   "Ammachi showed them a photo. Revathi Kunjamma held Kayal close, cheek to cheek. 'Revathi holds her all day, and they sleep side by side. They are sharing microbes, just like we do. Kayal is her daughter.'",
    "Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 'Now it will smell of both of us,' said Nila."
   ],
-  "epiphany": "A family's smell is made by living close together. Kayal shares it too, though she was adopted.",
+  "epiphany": "Living close together gives a family a smell they share. Kayal shares it too, even though she was adopted.",
   "ask": [
    "Why did the shawl smell of Ammachi at first, and of Nila later?",
    "Baby Kayal was adopted. How does she come to share her family's smell?",
@@ -366,7 +366,7 @@
      "id": "s5",
      "mins": 2,
      "do": "1. Lay the record sheet on the floor. 2. Look at all the lines together.",
-     "say": "Look at all our lines. Is the same person always at the front? What does that tell us about our family?",
+     "say": "Look at all our lines. Is the same person always at the front? Or is each person first at something?",
      "kid": "Look at all the lines. Is anyone always first?",
      "ask": [
       {
@@ -606,6 +606,7 @@
    "mins": 12,
    "days": 1,
    "context": "In this experiment, one person rubs a crushed clove of garlic on their palm. Then everyone shakes hands down a line. Who still smells of garlic at the end? A smell is made of tiny bits, too small to see. Microbes are too small to see as well. This experiment shows how such tiny things can pass from person to person.",
+   "problem": "You cannot see microbes, so we use a smell to show how tiny things pass from hand to hand. Garlic is not a microbe. But a garlic smell is also made of tiny bits that you cannot see. We will see how far the smell travels along a line of hands. Microbes also pass from person to person by touch.",
    "question": "If one person has garlic on their hand, and we shake hands down a line, how far does the smell go?",
    "predict": "Guess first. Will the last person in the line smell of garlic? Why do you think so?",
    "fair_test": "Everyone washes and dries their hands first, so they start the same. Everyone shakes hands the same way, for the count of three. Everyone smells their own palm the same way.",
@@ -700,14 +701,14 @@
        "q": "Why did the smell get weaker down the line?",
        "good": [
         "Each hand got a little less than the hand before.",
-        "Some stayed on each hand."
+        "Each handshake passed on only some of the garlic."
        ]
       }
      ],
      "parent": "Usually the first two in the line smell clearly of garlic and the end of the line smells faintly or not at all.",
      "check": {
       "t": "mcq",
-      "q": "Who smelled most of garlic?",
+      "q": "Who smelled most strongly of garlic?",
       "options": [
        "The first person",
        "The last person",
@@ -721,7 +722,7 @@
      "id": "s5",
      "mins": 2,
      "do": "1. Everyone washes hands with soap. 2. Talk about microbes.",
-     "say": "The garlic smell passed from hand to hand. Microbes on our skin are too small to see, and they pass from hand to hand too. People who live together pass them to each other every day.",
+     "say": "The garlic smell passed from hand to hand. Garlic is not a microbe. Still, its smell shows how tiny things you cannot see can pass along a line of hands. Microbes on our skin pass from hand to hand in the same way. People who live together pass them to each other every day.",
      "kid": "Tiny microbes pass from hand to hand too. Now wash with soap!"
     }
    ]
@@ -1032,7 +1033,7 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Show the bowl of curd. 2. Explain that curd is full of living microbes.",
-     "say": "This curd is full of living microbes, too small to see. They turned the milk into curd. And millions of microbes live on our skin too. So how many living beings live in our home?",
+     "say": "This curd is full of living microbes, too small to see. They turned the milk into curd. And millions of microbes live on our skin too. So is our home only for people?",
      "kid": "Curd is full of tiny living microbes. So are we! How many living beings live here?",
      "ask": [
       {
@@ -1149,7 +1150,7 @@
    "title": "Make My Family Picture Stand Up",
    "mins": 15,
    "context": "This is a building challenge. Take the family drawing you made in the My Home Picture activity, or draw one now. Can you make it stand up on a shelf by itself?",
-   "problem": "Make your family drawing stand up on a table by itself, without leaning on a wall, for as long as you count to 20.",
+   "problem": "Make your family drawing stand up on a table by itself, without leaning on a wall, for as long as you count to 20. A picture that stands on a shelf lets you see your family every day, even the ones who live far away.",
    "constraints": [
     "Use only paper, old cardboard, a small box, a lump of atta dough, tape or glue.",
     "The picture must face the front so everyone can see it.",
@@ -1335,14 +1336,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and the second child, two sisters in Kochi, are talking about families.",
+     "p": "Two sisters in Kochi are talking about families.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "The older sister, aged 7",
        "says": "Your family is the people you are related to, like cousins far away."
       },
       {
-       "who": "The second child, aged 6",
+       "who": "The younger sister, aged 6",
        "says": "Your family is the people who live with you and look after you."
       }
      ],
@@ -1352,7 +1353,7 @@
     },
     {
      "t": "sort",
-     "p": "Nila knows her grandmother, Ammachi, by clues. Colour the clues you see in blue. Colour the clues you smell in green.",
+     "p": "A girl knows her grandmother by clues. Colour the clues you see in blue. Colour the clues you smell in green.",
      "cats": [
       "I see it",
       "I smell it"
@@ -1531,15 +1532,15 @@
      "p": "Three people in Bengaluru talk about where body smell comes from.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "A girl in Bengaluru, aged 7",
        "says": "Your smell comes from the food you eat, like garlic and onion."
       },
       {
-       "who": "Imran, aged 7, the first child's classmate",
+       "who": "Imran, aged 7, her classmate",
        "says": "Your smell comes from tiny microbes on your skin."
       },
       {
-       "who": "The first child's grandmother, Ajji",
+       "who": "Her grandmother, Ajji",
        "says": "You are born with your smell. It comes from your parents."
       }
      ],
@@ -1991,17 +1992,17 @@
    "what_is_life": "Living beings share with each other. Microbes pass from person to person with every hug, every handshake and every shared tumbler.",
    "what_is_this_world": "The world is full of families of many kinds: elephant families, ant sisters, joint families and families of two."
   },
-  "thread": "A family begins with one person caring for another. Then more join, by birth, by marriage or by adoption. Each person brings their own smell and their own tiny beings. Living close, they share them, until the home has a smell of its own.",
+  "thread": "A family begins with one person caring for another. Then more people join, by birth, by marriage or by adoption. Each person brings their own smell and their own microbes. When they live close together, they share them. After a while the home has a smell of its own.",
   "teachings": [
    {
     "source": "Maha Upanishad, chapter 6, verses 71 to 73",
     "teaching": "Only a small mind asks, 'Is this person mine, or a stranger?' For a big-hearted person, the whole world is one family: vasudhaiva kutumbakam.",
-    "link": "Families come in many kinds, and people join them in many ways. Even the tiny beings on our skin move from person to person. Where a family ends is not as fixed as it looks."
+    "link": "Families come in many kinds, and people join them in many ways. Even the microbes on our skin move from person to person. So it is hard to say exactly where a family ends."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in the paper. Nothing exists all by itself.",
-    "link": "Look deeply at your own skin, and you find tiny beings that came from the people you live with. Part of each of us came from the others."
+    "link": "Look closely at your own skin and you find microbes that came from the people you live with. So part of each of us came from the others."
    }
   ],
   "science": [
