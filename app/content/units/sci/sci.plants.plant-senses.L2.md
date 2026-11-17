@@ -35,7 +35,7 @@ When light comes from one side, a growth chemical moves to the shady side of the
 ### Roots grow down, and shoots grow up · *defined*
 **Definition:** Roots grow down, in the direction gravity pulls. Shoots grow up, away from it. This happens whichever way a seed is lying.
 
-Inside a root tip are tiny heavy grains made of starch. They sink to the lowest side of each cell, like sand in a bottle, and that tells the root which way is down. The root then grows more on the upper side, so the tip curves down. Your ears have tiny crystals that do a similar job.
+Inside a root tip are tiny heavy grains made of starch. They sink to the lowest side of each cell, like sand in a bottle, and that tells the root which way is down. The root then grows more on the upper side, so the tip curves down. Your ears have tiny crystals too. They also help you know which way is down.
 - e.g. A sprout laid with the root pointing up curves the root round to grow down.
 - e.g. A seed planted upside down still sends the root down and the shoot up.
 - e.g. A potted plant knocked onto their side slowly turns the shoot tips upwards again.
@@ -64,11 +64,11 @@ Some scientists say plants feel, remember and decide. They point out that a root
 ## Mostly agreed
 - A shoot grows towards light that comes from one side. *How we know:* Moong shoots by a window lean towards the glass within a day. Turn the cup round, and they bend back. Darwin's seedlings with covered tips did not bend, so the tip senses the light.
 - Roots grow down and shoots grow up, whichever way a seed is lying. *How we know:* In the root box, sprouts laid pointing up, down, left and right all curved their roots to point down by the next day.
-- A touch-me-not folds their leaflets within seconds of a touch, and opens them again later. *How we know:* Touch one leaf and watch: the leaflets fold pair after pair. Look again after about a quarter of an hour, and they are open.
+- A touch-me-not folds their leaflets within seconds of a touch, and opens them again later. *How we know:* Touch one leaf and watch. The leaflets fold, pair after pair. Look again after about a quarter of an hour, and they are open.
 - Most plants move by growing, which is slow. A touch-me-not folds fast because water moves quickly out of cells. *How we know:* A shoot takes hours to bend, so you only see it if you look again later. Time-lapse films, made by taking a photo every few minutes, show plants bending and turning all the time.
 
 ## How we found out
-**Monica Gagliano and her team, in Australia, 2014.** Many people thought a touch-me-not folds their leaves every time they are touched, the way a bell rings every time you press it. In 2014, a scientist named Monica Gagliano tested this in Australia. She grew touch-me-not plants in pots. Then she dropped each pot gently, about 15 centimetres, onto soft foam, again and again. At first, the plants folded their leaves every time. After a few drops, many of them stopped folding. Were they just tired out? She tested that too. She shook the same plants from side to side, which was new to them. They folded at once. So they still had the energy to fold. They had stopped folding for the drop, because the drop did them no harm. Four weeks later, many of the plants still did not fold when dropped. They had remembered. Some scientists still argue about whether to call this learning and memory.  
+**Monica Gagliano and her team, in Australia, 2014.** Many people thought a touch-me-not folds their leaves every time they are touched, the way a bell rings every time you press it. In 2014, a scientist named Monica Gagliano tested this in Australia. She grew touch-me-not plants in pots. Then she dropped each pot gently, about 15 centimetres, onto soft foam, again and again. At first, the plants folded their leaves every time. After a few drops, many of them stopped folding. Were they just tired out? She tested that too. She shook the same plants from side to side, which was new to them. They folded at once. So they still had the energy to fold. They had stopped folding for the drop, because the drop did them no harm. Four weeks later, many of the plants still did not fold when dropped. Gagliano said this showed the plants had learned that the drop was harmless, and remembered it. Some scientists still argue about whether to call this learning and memory.  
 *What people believed before:* That a touch-me-not folds every single time, like a bell that rings whenever it is pressed. Gagliano's plants stopped folding for a harmless drop, still folded when shaken, and many kept this up for four weeks.
 
 ## Challenging perspectives
@@ -88,7 +88,7 @@ Some scientists say plants feel, remember and decide. They point out that a root
 ## Roots
 We have watched moong shoots turn to the light, roots turn down, and a touch-me-not fold. Now we ask what these tell us about plants, and about ourselves.
 
-**Deep truth.** Our straight moong shoots leaned to the window within a day. When we turned the cup, they bent back towards the light. Nobody moved them: each shoot bent by growing more on the shady side. So a plant's shape is a record of where their light came from.  
+**Deep truth.** Our straight moong shoots leaned to the window within a day. When we turned the cup, they bent back towards the light. Nobody moved them. Each shoot bent by growing more on the shady side. So the bends in a plant's stem show where their light came from.  
 *Habit it breaks:* We think of a plant's shape as fixed, like the shape of a chair. But a plant builds their shape day by day from what they sense. A bend in a stem shows where the light was, and a curve in a root shows where down was.  
 *Evidence:* In the window test, straight shoots leaned to the window within a day. After the cup was turned, their tips turned back, and many stems were left shaped like the letter S. In the root box, a root that pointed up made a hook as it turned down.
 
@@ -96,7 +96,7 @@ We have watched moong shoots turn to the light, roots turn down, and a touch-me-
 - *what is life:* Living beings sense what is around them and respond. A shoot responds to light by bending, and a touch-me-not responds to a touch by folding.
 - *what is this world:* The world reaches a plant as light, the pull of the Earth, touch and water. Each plant grows their own shape from what reaches them.
 
-Every moong seed in a packet is much the same. Planted in different places, each one grows a different shape, bent by their own light, their own 'down' and their own touches. Everything is conscious, plants too: a shoot senses the light and decides which way to grow. One kind of seed, one Sun and one Earth give countless different plants.
+Every moong seed in a packet is much the same. But seeds planted in different places grow into different shapes. Each plant is bent by the light, the 'down' and the touches that reach them. Everything is conscious, and so is a plant. A shoot senses the light and decides which way to grow. The same kind of seed, the same Sun and the same Earth give countless different plants.
 
 - **Mahabharata, Shanti Parva, the talk between the sages Bhrigu and Bharadvaja:** Bhrigu says that trees have senses. They wither in heat, so they feel touch. A creeper winds round a tree and finds the way, so plants can sense where to go. They drink water through their roots. (Our moong shoots found the window, and a climber finds a stick. The old Indian epic asked whether plants sense the world, and gave the same kind of evidence we used: watch what the plant does.)
 - **Tattvartha Sutra, chapter 2 (Umasvati, a Jain teacher):** Plants are living beings with one sense, the sense of touch. So Jains take great care not to harm them without need. (A touch-me-not shows the sense of touch clearly. Science has since found that plants also sense light, gravity and water. Both say a plant is a living someone who senses.)
@@ -105,7 +105,7 @@ Every moong seed in a packet is much the same. Planted in different places, each
 - Science (debated): Whether a plant's sensing comes with feeling, the way ours does, is still argued about.
 - Other view, Many plant scientists: They explain bending, root turning and folding fully by chemicals, water and growth. They call these automatic responses, and do not say the plant decides or remembers.
 - Practice, Turn to the light (3 min): Sit near a window and close your eyes. Keep them closed. Can you feel which side the light and warmth come from? Slowly turn your face towards it, like a shoot. Stay still and breathe slowly three times. Now open your eyes. Were you facing the window?
-- Ask: The bends in a moong shoot show where the light was. If your shape grew from everything you sensed, what would it show?
+- Ask: A bent shoot shows where the light came from. In what ways do the things around you change you as you grow?
 - Ask: A touch-me-not senses touch, and you do too. Is a plant's touch like yours?
 - Ask: Who decides which way the moong shoot grows: the shoot, the light, or both?
 
@@ -160,7 +160,7 @@ Ammamma came in with her coffee. "No eyes," she agreed. "The tip of each shoot s
 
 Siddharth bent down and looked at one wiggly shoot. "So this low bend is from yesterday," he said slowly. "And the top bend is from today."
 
-"Yes," said Nila. "The shoot keeps a record of where the light was."
+"Yes," said Nila. "The bends in the stem show where the light came from, first yesterday and then today."
 
 "Can any plant move fast?" asked Siddharth.
 
@@ -186,7 +186,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 
 **For the parent:** Nila sees that nobody moved the moong shoots. They sensed where the light was and turned themselves by growing, so the bends in their stems show where the light came from.
 
-- Ask: Why did Nila turn the katori round?
+- Ask: How could you test whether something pushed the shoots over, or whether the shoots moved on their own?
 - Ask: If the fan had knocked the shoots over, what would Nila have seen the next morning?
 - Ask: The touch-me-not folds fast and the moong turns slowly. How are they the same?
 
@@ -207,13 +207,13 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   *Parent does:* Lay all the pairs out. Sort them into three groups: light, down, and touch. Put any pair that fits none in a fourth group.  
   *Parent says:* Which pairs are about light? Which are about which way is down? Which are about touch?  
   *Child mode:* Sort the pairs into light, down and touch. Which pairs are left over?
-  - Note: The night pair and the wet soil pair fit none of the three groups; put them in the fourth group. The knocked-over pot goes with 'down'.
+  - Note: The night pair and the wet soil pair fit none of the three groups, so put them in the fourth group. The knocked-over pot goes with 'down'. Two pairs use facts to tell your child. Roots grow towards wet soil, because they sense water. A climber's tendril coils round a stick, because it senses the touch.
 ### g2 · Plant Says: a moving game (10 min)
-- **rules:** Players stand up. Hands held together above your head are your shoot. Your feet are your roots. Open arms are touch-me-not leaves.; The caller reads the front of a card aloud. Players move.; The caller then reads the back. Anyone who moved the wrong way, or too fast, sits down for the next card, then joins in again.; Light and gravity moves must be slow, counting to five, because most plants move by growing. Only the touch-me-not fold is fast.; Take turns being the caller.; The game ends when all 8 cards have been read. Everyone who moved the right way every time wins. Then swap, and play again.
+- **rules:** Players stand up. Hands held together above your head are your shoot. Your feet are your roots. Open arms are touch-me-not leaves.; The caller reads the front of a card aloud. Players move.; The caller then reads the back. Anyone who moved the wrong way, or too fast, sits down for the next card, then joins in again.; Moves for light and gravity must be slow, counting to five. Most plants move by growing, and growing is slow. Only the touch-me-not fold is fast.; Take turns being the caller.; The game ends when all 8 cards have been read. Everyone who moved the right way every time wins. Then swap, and play again.
 - **Printable cards: 8 caller cards:** The window is on your left. (back: Lean slowly to the left, counting to five.); The window is on your right. (back: Lean slowly to the right, counting to five.); Someone turned your pot round. (back: Slowly turn back to face the window.); You are lying on your side. (back: Your feet are your roots. Slowly curve them round to point at the floor.); A finger touches your leaf. (back: Touch-me-not: fold your arms in fast!); Night time. (back: Touch-me-not: fold your arms and keep still.); It is morning, and nobody has touched you for a while. (back: Open your arms slowly.); The Sun rises in the east. (back: Young sunflower: turn your face to the east wall.)
 - **s1 (2 min)**  
   *Parent does:* Read the rules aloud. Show the shoot, the roots and the touch-me-not arms.  
-  *Parent says:* You are all plants. Your hands are your shoot and your feet are your roots. Most plant moves are slow.  
+  *Parent says:* You are all plants. Your hands are your shoot and your feet are your roots. Most plants move slowly, by growing.  
   *Child mode:* You are a plant. Hands up for your shoot. Feet are your roots.
 - **s2 (7 min)**  
   *Parent does:* 1. Read the cards one at a time, in any order. 2. After each one, ask a player why a plant moves that way.  
@@ -298,7 +298,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   *Parent says:* Look at the tip of each root. Which way is it pointing now? How many point down?  
   *Child mode:* Look at each root tip. Which way does it point now? Count how many point down.
   - Ask: What did the root that pointed up do? (good: It curved round and grew down.; It made a hook shape.)
-  - Note: Usually all four tips point down by the next day. The root that pointed up makes a hook. The one that already pointed down grows straight on. Then read the card 'Roots grow down, and shoots grow up'. For more, turn the box a quarter of the way round and look again the next day.
+  - Note: Usually all four tips point down by the next day. The root that pointed up makes a hook. The one that already pointed down grows straight on. Then read the card 'Roots grow down, and shoots grow up'. For more, turn the box a quarter of the way round and look again the next day. The roots will bend to point down again.
   - Check: A sprout lay with the root pointing up. The next day, which way did the root tip point? → **Down**
 
 ## Activities
@@ -393,13 +393,13 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   - Wait: Look again on day 8
 - **s3 (6 min)**  
   *Parent does:* 1. Count and draw one last time. 2. Put the drawings in a row. 3. Ask what changed, and what made it change.  
-  *Parent says:* Look at your drawings in order. What did the plant do? Nobody turned the leaves. So who did?  
-  *Child mode:* Put your drawings in a row. What did the leaves do? Who turned them?
+  *Parent says:* Look at your drawings in order. What did the plant do? Nobody turned the leaves by hand. What do you think made them turn?  
+  *Child mode:* Put your drawings in a row. What did the leaves do? What made them turn?
   - Check: You turned a money plant pot round. A week or more later, most leaves faced the window again. Why? → **The plant sensed the light and turned the leaves towards it**
 
 ## Challenges
 ### c1 · Straight Shoots by a Window (20 min)
-- **problem:** Your cup of moong shoots must stay by the window, and you must not turn the cup. Help the shoots grow straight up instead of leaning.
+- **problem:** Moong shoots by a window lean towards the glass. The shady side of the stem grows longer, so the shoot bends. Your cup of shoots must stay by the window, and you must not turn it. Find a way to make the shoots grow straight up instead of leaning.
 - **your turn:** Design your own way. Leave it for a day, then count how many shoots stand straight. Was your idea better than no help at all?
 - **constraints:** The cup stays in the same place by the window.; You may not turn the cup.; The shoots must still get light.; Use only things from home: paper, card, foil, a steel plate, a box, tape.
 - **general:** Stand a white card or a sheet of foil behind the cup, on the room side, so light bounces back onto the shady side of the shoots.; Cover the cup with a box that has a hole only in the top, so the light comes from above.
@@ -439,7 +439,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 7. (odd) Three of these plant movements are slow and take hours. Which one is fast?  
    Options: A shoot bending to a window / A root turning down / A touch-me-not folding / A money plant turning their leaves  
    **Answer:** 2. *Why:* A touch-me-not folds in a second or two, because water moves quickly out of cells. The others happen by growing, which takes hours.
-8. (perspective) The first person and his sister the second person look at the leaning moong shoots in the window test.  
+8. (perspective) A brother and a sister look at the leaning moong shoots in the window test.  
    **Answer:** A strong answer picks a side with a reason from the test, such as 'when we turned the cup, they turned back by themselves', and says the first person was right that the shoots end up pointing at the window.. *Why:* Light does not pull. But the first person noticed something real: the shoots do end up pointing at the window. The second person's view explains why.
 9. (label) Label the moong seedling: shoot tip, stem, root, root tip.  
    **Answer:** ['the top with two small leaves: shoot tip', 'the thin part above the soil: stem', 'the white part in the soil: root', 'the very end of the root: root tip']. *Why:* The shoot tip senses light. The root tip senses which way is down.
@@ -461,7 +461,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
    **Answer:** False. *Why:* False. A shoot bends by growing more on one side. A touch-me-not folds by moving water out of cells. Neither uses muscles.
 7. (count) You touch one touch-me-not leaf, and 12 pairs of leaflets fold. On another leaf, 9 pairs fold. How many pairs folded in all?  
    **Answer:** 21. *Why:* 12 + 9 = 21. Count on 9 from 12: 13, 14 and so on up to 21.
-8. (perspective) The first person and her cousin the second person are talking about a touch-me-not.  
+8. (perspective) Two cousins are talking about a touch-me-not.  
    **Answer:** A strong answer picks a side with a reason, for example that touch-me-not plants stopped folding for a harmless drop in one experiment, which a door never does. Then it gives the other side's best point.. *Why:* Scientists still argue about this. Some say plants feel and remember. Many call it an automatic reaction. Both sides use real evidence.
 9. (fill) Tiny heavy grains in a root tip sink to the ____ side of each cell, so the root knows which way is down.  
    **Answer:** ['lowest', 'bottom']. *Why:* Whichever way the root lies, the grains sink to the lowest side, like sand in a bottle.
@@ -473,10 +473,10 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 2. (mcq) Darwin covered the tips of grass seedlings with tiny caps. Then the seedlings did not bend to the light. What does this show?  
    Options: The tip senses the light / The caps were too heavy / Grass grows only in the dark  
    **Answer:** The tip senses the light. *Why:* Only the tip was covered, and the bending stopped. So the tip is where the light is sensed.
-3. (perspective) The first person and her aunt the second person, a plant scientist, look at the root box.  
-   **Answer:** A strong answer picks a side with a reason, and thinks about whether knowing how something works also tells us whether the root decided.. *Why:* The second person describes how the root senses gravity. The first person describes what the root does with it. Some scientists say the root decides where to grow; others use only words like the second person's.
+3. (perspective) A girl and her aunt, who is a plant scientist, look at the root box. The girl speaks first.  
+   **Answer:** A strong answer picks a side with a reason, and thinks about whether knowing how something works also tells us whether the root decided.. *Why:* The second person describes how the root senses gravity. The first person describes what the root does with it. Some scientists say the root decides where to grow. Others use only words like the second person's.
 4. (draw) You turn the root box a quarter of the way round every day for three days. Draw the shape you think one root will make.  
-   **Answer:** A zigzag or a curl: each day the tip bends to point down again.. *Why:* Each time the box turns, the root tip senses the new 'down' and curves towards it, so the bends add up.
+   **Answer:** A zigzag or a curl. Each day the tip bends to point down again.. *Why:* Each time the box turns, the root tip senses the new 'down' and curves towards it, so the bends add up.
 5. (truefalse) If you turn a potted plant round on a windowsill, the leaves slowly turn back to face the window.  
    **Answer:** True. *Why:* True. The plant senses which side the light comes from and turns the leaves to face it, over days or weeks.
 6. (mcq) A cup of moong shoots stands by a window. You turn the cup a little every hour, all day long. Which way will the shoots lean in the evening?  
@@ -489,7 +489,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 9. (fill) A root bends down because the ____ side of the root grows more.  
    **Answer:** ['upper', 'top']. *Why:* When the top side grows longer than the bottom side, the root curves downwards.
 10. (write) A friend says, 'Plants just sit there. They never move.' What would you tell your friend? Use something you have seen.  
-   **Answer:** Plants move by growing: a shoot bends to a window, a root turns down, a touch-me-not folds in a second. We miss most of it because it is slow.. *Why:* A strong answer gives one example the child saw, such as shoots leaning in the window test, and says that most plants move slowly, by growing.
+   **Answer:** Plants move by growing. A shoot bends to a window, a root turns down, and a touch-me-not folds in a second. We miss most of it because it is slow.. *Why:* A strong answer gives one example the child saw, such as shoots leaning in the window test, and says that most plants move slowly, by growing.
 
 ## Videos
 - **Seedlings growing and bending towards light** (GPhase, 1 min) id `DhITXtENPrU`: Shows young shoots curving towards a light from one side, in a few seconds instead of a day by the window. *Check:* Found by search: "Positive Phototropism | Demonstration" by GPhase, 39 seconds. A parent may preview it.
