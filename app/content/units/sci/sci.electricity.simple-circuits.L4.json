@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Try this with a grown-up. Light one torch bulb with two AA cells. Now put a second bulb into the same loop, one after the other. Both bulbs still glow, but each one is much dimmer than the single bulb was. The cells did not change. Where did the brightness go?",
-  "text": "The wires decide how the push of the cells is shared. In this unit you build circuits with bulbs in a row and bulbs side by side, and you score how bright each bulb is. You unscrew one bulb to see which circuit keeps working. You find out why a bulb's thin filament glows and why a fuse is meant to melt. You also test an LED, which works only one way round. And you learn about a guess made in 1747, which is why the arrow in every circuit diagram points the opposite way to the electrons.",
+  "text": "The way the wires are laid out decides how the push of the cells is shared between the bulbs. In this unit you build circuits with bulbs in a row and bulbs side by side, and you score how bright each bulb is. You unscrew one bulb to see which circuit keeps working. You find out why a bulb's thin filament glows and why a fuse is meant to melt. You also test an LED, which works only one way round. And you learn about a guess made in 1747. That guess is why the arrow in every circuit diagram points the opposite way to the electrons.",
   "art": "A hand unscrewing one of two bulbs: in the circuit on the left both bulbs go dark, and in the circuit on the right the other bulb keeps glowing."
  },
  "outcomes": [
@@ -131,7 +131,7 @@
    "concept": "Parallel circuit: more paths, a full push for each",
    "status": "defined",
    "definition": "In a parallel circuit the parts are joined side by side. Each part has its own path to the cell and gets the cell's full push.",
-   "description": "Each bulb side by side has its own two wires to the cell, so each bulb gets the whole 3 volts and glows as brightly as a bulb alone. The current from the cell splits at one end and joins again at the other. The cell gives out the sum of the currents in all the branches. So two bulbs side by side draw twice the current from the cells, and three bulbs draw three times, and the cells run down faster. If one bulb is taken out, the other branches still make complete loops, so they keep glowing.",
+   "description": "Each bulb side by side has its own two wires to the cell, so each bulb gets the whole 3 volts and glows as brightly as a bulb alone. The current from the cell splits at one end and joins again at the other. The current that the cell gives out is the total of the currents in all the branches. So two bulbs side by side draw twice the current from the cells, and three bulbs draw three times as much. That is why the cells run down faster. If one bulb is taken out, the other branches still make complete loops, so they keep glowing.",
    "examples": [
     "Two bulbs side by side are both as bright as one bulb alone.",
     "All the lights and fans in a home are in parallel, so each gets the full 230 volts and each can be switched off alone.",
@@ -149,7 +149,7 @@
    "concept": "Why a thin filament glows and a thick wire stays cool",
    "status": "defined",
    "definition": "Resistance is how much a part holds back the flow of electricity. Where resistance is high, the flowing charges give up more energy as heat.",
-   "description": "The wires in your circuit are thick copper, which holds back the flow very little, so almost no energy is given up in them. The filament is very thin and made of tungsten. It holds the flow back a lot, so the charges give up much of their energy there as heat. The filament of a bulb on the mains reaches about 2,500 degrees Celsius, which is hotter than lava. Anything that is hot enough glows, as a heated iron rod glows red. A torch bulb's filament is not so hot, but it works the same way. The same current goes through the wire and the filament, but the filament is where the energy goes.",
+   "description": "The wires in your circuit are thick copper, which holds back the flow very little, so almost no energy is given up in them. The filament is very thin and made of tungsten. It holds the flow back a lot, so the charges give up much of their energy there as heat. The filament of a bulb on the mains reaches about 2,500 degrees Celsius, which is hotter than lava. Anything that is hot enough glows, as a heated iron rod glows red. A torch bulb's filament is not so hot, but it works the same way. The same current goes through the wire and the filament. But the energy is given up in the filament, because that is the part that holds the flow back.",
    "examples": [
     "The wires to a bulb stay cool while the filament glows.",
     "A long thin pencil lead in a loop makes the bulb dimmer, because the lead holds the flow back.",
@@ -176,7 +176,7 @@
    "perspectives": [
     {
      "who": "A physicist",
-     "explanation": "Water in a pipe is only a picture. It helps with the idea of flow, but a real wire works through the pushes between charged particles, and the picture breaks down in other cases."
+     "explanation": "Water in a pipe is only a picture. It helps with the idea of flow. A real wire works through the pushes between charged particles, and in some circuits the water picture gives the wrong answer."
     }
    ],
    "art": "A bulb in a loop with a long pencil lead, and a clip sliding along the lead with the bulb glowing dim when the clip is far and bright when it is near."
@@ -216,7 +216,7 @@
    "concept": "Electrons crawl, but the bulb lights at once",
    "status": "defined",
    "definition": "The electrons in a wire drift very slowly, less than a millimetre each second. The push that sets them moving travels along the wire at a large fraction of the speed of light.",
-   "description": "When you close a switch, the bulb lights at once. This is not because an electron raced from the cell to the bulb. The wire is already full of electrons. When the cell pushes the electrons at its end, the push passes along the wire from one to the next almost instantly, like a row of marbles in a tube. Every electron in the loop starts to drift together, including the ones in the filament. Their drifting is slow, but the bulb does not need to wait for a particular electron to arrive.",
+   "description": "When you close a switch, the bulb lights at once. This is not because an electron raced from the cell to the bulb. The wire is already full of electrons. Think of a long tube packed with marbles. When you push one marble in at one end, a marble at the far end moves out at once. In the same way, when the cell pushes the electrons at its end, the push passes along the wire from one electron to the next almost instantly. Every electron in the loop starts to drift together, including the ones in the filament. Their drifting is slow, but the bulb does not need to wait for a particular electron to arrive.",
    "examples": [
     "A long extension wire does not delay a bulb at its end.",
     "A row of marbles in a tube moves at once at both ends when you push one end.",
@@ -343,9 +343,9 @@
    "hint": "Think about what changed, and what stayed the same. Is brightness a fact about the bulb, or about the whole loop?"
   },
   {
-   "q": "In a row, the first bulb does not use up the electricity before it reaches the second. So what does each bulb take from the cell?",
+   "q": "In a row, the same current goes through both bulbs, so the first bulb does not use up any electricity. Then what does each bulb take from the cell?",
    "kind": "deep",
-   "hint": "The current is the same all round the loop. Think about what the cell gave to the charges at the start, and what they have less of after each bulb."
+   "hint": "The current is the same all round the loop. Think about the energy that the cell gives to the charges at the start. Each bulb takes some of that energy and turns it into heat and light."
   },
   {
    "q": "The electrons in a wire move less than a millimetre in a second, yet a bulb lights the moment you close the switch. What is it that travels fast?",
@@ -355,7 +355,7 @@
   {
    "q": "The same current goes through the thick wire and the thin filament. Why does only the filament glow?",
    "kind": "deep",
-   "hint": "Where does the push of the cell get used up? Think of a crowd squeezing through a narrow gate."
+   "hint": "The charges leave the cell with energy, and they give it up where the flow is held back. Think of a crowd of people squeezing through one narrow gate. That is where they slow down and push hard."
   },
   {
    "q": "In 2012 a failure in India's power grid left about 600 million people without power. In 2013 the grid was joined into one national grid. Is one big joined grid safer or riskier than many small ones?",
@@ -375,7 +375,7 @@
   {
    "q": "An electric eel stacks thousands of tiny cells in a row, and their small pushes add up to a very large one. What else in nature adds small pushes together?",
    "kind": "big",
-   "hint": "Think of a crowd clapping, an ant colony, ripples on a pond, or a million raindrops filling a river."
+   "hint": "Think of many small things adding up to one big effect, such as a crowd clapping together, or a million raindrops filling a river."
   }
  ],
  "story": {
@@ -393,12 +393,12 @@
    "\"Of course,\" said Murugan mama. \"One wire runs through all of them. That is how strings are made.\"",
    "\"Then it is like our school circuit. If one bulb is broken inside, the path is broken for every bulb. They all go out together.\" She looked at the string. \"Mama, the string is not dead. Only one bulb is.\"",
    "Murugan mama opened his mouth, and shut it again. Then he laughed. \"But which one? There are forty-six!\"",
-   "\"First pull out the plug,\" said Paati, in the voice she used for important things. \"Nobody touches a bulb on a string that is plugged in. This is the wall current. It is not a small cell.\" Murugan mama pulled the plug out by its plastic body, and set it on the step.",
+   "\"First pull out the plug,\" said Paati, in the voice she used for important things. \"Nobody touches a bulb on a string that is plugged in. This is the electricity from the wall. It is much stronger than a small cell, and it can hurt you.\" Murugan mama pulled the plug out by its plastic body, and set it on the step.",
    "Meenakshi took her mother's phone and switched on the torch. \"A good bulb has a tiny coil of thread inside, joined at both ends,\" she said. \"A broken one has a gap in the thread.\" She and her friend Farhan took half of the string each. They held each bulb up to the torch light and looked in, one after another, down the lane. Murugan mama held the wire steady.",
    "At the thirty-first bulb, Farhan stopped. \"Here! The thread is broken. There is a gap in the middle.\"",
    "Murugan mama had a spare bulb in his shirt pocket from last year. He twisted out the dead bulb and put in the new one. Paati checked that his hands were dry. Then he pushed in the plug.",
    "All forty-six bulbs came on at once. The lane cheered so loudly that the crows flew out of the neem tree.",
-   "\"Each bulb takes only a small share of the push, you know,\" said Murugan mama, when the noise had settled. \"The wall pushes with two hundred and thirty volts, and that is divided between forty-six bulbs. That is why such tiny bulbs can live on it.\"",
+   "\"Each bulb takes only a small share of the push, you know,\" said Murugan mama, when the noise had settled. \"The wall pushes with two hundred and thirty volts, and that push is divided between forty-six bulbs. That is why such tiny bulbs do not burn out on it.\"",
    "\"Next year,\" said Meenakshi, \"we could give every bulb its own pair of wires to the main wire. Then if one broke, only that one would go dark.\"",
    "\"More wire, more work,\" said Murugan mama.",
    "\"But the big lamp would start on time,\" said Paati. And she handed Meenakshi the first match."
@@ -415,7 +415,7 @@
    "A girl and a boy holding bulbs up to a phone torch on the lane, looking inside each one, with the plug lying on a step.",
    "The lane with all forty-six bulbs glowing, a grandmother handing a girl a match, and crows flying out of the neem tree."
   ],
-  "note": "A made-up story. The science in it is real. Old festival strings wired in one path do go dark when one bulb breaks. Many newer strings have a tiny extra wire in each bulb that closes the gap, so a string may not fail this way. Forty-six bulbs of about 5 volts each would use up the 230 volts of the mains. Only grown-ups ever touch a mains string, and the plug is pulled out first."
+  "note": "A made-up story. The science in it is real. Old festival strings wired in one path do go dark when one bulb breaks. Many newer strings have a tiny extra wire in each bulb that closes the gap, so a string may not fail this way. Forty-six bulbs of about 5 volts each add up to the 230 volts of the mains. Only grown-ups ever touch a mains string, and the plug is pulled out first."
  },
  "games": [
   {
@@ -537,7 +537,7 @@
       },
       {
        "f": "An electric eel's body has thousands of tiny cells stacked in a row. Why does a row make a large push?",
-       "b": "In a row, the small pushes add up, as the cells in a torch do."
+       "b": "In a row, the small pushes add up to one large push. The cells in a torch work in the same way."
       },
       {
        "f": "When you close a switch, the bulb lights at once. Does an electron race from the cell to the bulb?",
@@ -1795,7 +1795,7 @@
       ]
      ],
      "a": "as given",
-     "why": "Where one break must stop everything, or where pushes add up, things are in a row. Where each part must work alone, they are side by side.",
+     "why": "When one break must stop everything, or when the pushes must add up, the parts are in a row. When each part must work on its own, the parts are side by side.",
      "outcome": 1
     },
     {
@@ -2676,7 +2676,7 @@
    "what_is_life": "A Venus flytrap shuts their trap only if a hair inside is touched twice within about 20 seconds. That is like two switches in a row, where both must be pressed.",
    "what_is_this_world": "In a whole city, and across India's national grid, the bulbs and machines are joined side by side. Each gets a full push, and each can be switched off alone."
   },
-  "thread": "A cell gives one push. The loop turns that one push into many different jobs: a glow in a filament, a hum in a fan, a ring in a bell. How the push is shared out depends on how the parts are joined. In a row, the parts share one push, like one plate shared by a line of people. Side by side, every part draws from the same source at once. The world is joined in both ways. Some things depend on a single chain, and others on many paths at once.",
+  "thread": "A cell gives one push. The loop turns that one push into many different jobs: a glow in a filament, a hum in a fan, a ring in a bell. How the push is shared out depends on how the parts are joined. In a row, the parts must share one push between them, a bit like one plate of food shared by a line of people. Side by side, every part gets the full push at the same time. The world is joined in both ways. Some things depend on a single chain, and others on many paths at once.",
   "teachings": [
    {
     "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
@@ -2701,7 +2701,7 @@
   ],
   "other_view": {
    "who": "Many physicists and engineers",
-   "view": "A bulb does have a property of its own, its resistance. Everything else follows from that and from the cell, with one equation. Saying that brightness belongs to the whole loop only means you must know all the parts, and it is not a deeper truth."
+   "view": "A bulb does have a property of its own, which is its resistance. Everything else follows from the bulb's resistance and the cell's push, using one rule that physicists call Ohm's law. Saying that brightness belongs to the whole loop only means you must know all the parts. It is not a deeper truth."
   },
   "practice": {
    "title": "Follow the wire",

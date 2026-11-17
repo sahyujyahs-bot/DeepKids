@@ -3,12 +3,12 @@
  "title": "The charge ladder: which materials give electrons, which take them, and where the charge goes",
  "level": 4,
  "summary": {
-  "text": "A plain hand pulls a charged balloon, but a charged ruler pushes it. So how can you tell which one is really charged? Only a push proves it. In this unit you rub five things on wool and on polythene, and use the pushes to build a ladder of who gives electrons and who takes them. A material in the middle gives to the rungs below it and takes from the rungs above it. So plus and minus describe how two things meet, not what one thing is. You also follow the charge as it runs through metal and a body into the Earth, and find out why that matters in a printing press, a petrol tanker and a storm.",
+  "text": "A charged balloon is pulled towards a plain hand, but it is pushed away from a charged ruler. So how can you tell whether a thing is really charged? Only a push proves it. In this unit you rub five things on wool and on polythene, and use the pushes to build a ladder of who gives electrons and who takes them. A material in the middle gives electrons to the rungs below it and takes electrons from the rungs above it. So plus and minus describe how two things meet, not what one thing is. You also follow the charge as it runs through metal and a body into the Earth. And you find out why that matters in a printing press, a petrol tanker and a storm.",
   "art": "A balloon hanging on a thread between a child's open hand on one side and a rubbed ruler on the other, the balloon leaning towards the hand and swinging away from the ruler."
  },
  "intro": {
   "hook": "Rub a balloon on your hair and hang it from a thread. Hold your open hand near it. The balloon swings towards your hand. Now hold a ruler you rubbed on wool near it. The balloon swings away. One thing pulled and one thing pushed. Which of them proves that something is charged?",
-  "text": "Your hand has no extra charge, yet it pulled the balloon. The ruler pushed, and a push needs charge on both sides. In this unit you use pushes to find out which materials give away electrons and which take them. You hang a foil ball that first jumps to a charged balloon and then swings away from it. You peel two strips of tape apart and find that they carry opposite charges. You build a ladder from your own results. Then you follow the charge as it runs away through a steel spoon or a hand, and find out why a printing press in Sivakasi and a petrol tanker both need that to happen.",
+  "text": "Your hand has no extra charge, yet it pulled the balloon. The ruler pushed, and a push needs charge on both sides. In this unit you use pushes to find out which materials give away electrons and which take them. You hang a foil ball that first jumps to a charged balloon and then swings away from it. You peel two strips of tape apart and find that they carry opposite charges. You build a ladder from your own results. Then you follow the charge as it runs away through a steel spoon or a hand. You find out why a printing press in Sivakasi and a petrol tanker both need the charge to run away safely.",
   "art": "A balloon on a thread between a plain hand and a rubbed plastic ruler, with a small arrow towards the hand and a small arrow away from the ruler."
  },
  "outcomes": [
@@ -138,7 +138,7 @@
    "concept": "Only a push proves a thing is charged",
    "status": "defined",
    "definition": "Two things with the same kind of charge repel. A pull can happen when only one of the two things is charged, so only repelling shows that both are charged the same way.",
-   "description": "A charged balloon pulls on a plain, neutral hand or wall. That surprises people. The balloon's charge shifts the neutral thing's own plus and minus charges a little, so the near side gets the opposite charge and the pull wins slightly. This is called polarisation. So a pull cannot tell you if the other thing is charged. A push can. The only way to push a minus balloon away is with another minus charge. That is why a scientist who wants to test a charge looks for repelling, and why the tests in this unit all watch for a push.",
+   "description": "A charged balloon pulls on a plain, neutral hand or wall. That surprises people. The balloon's charge shifts the neutral thing's own plus and minus charges a little, so the side nearest the balloon gets the opposite charge. That near side is pulled a little harder than the far side is pushed away, so the overall result is a small pull. This is called polarisation. So a pull cannot tell you if the other thing is charged. A push can. The only way to push a minus balloon away is with another minus charge. That is why a scientist who wants to test a charge looks for repelling, and why the tests in this unit all watch for a push.",
    "examples": [
     "A rubbed balloon swings towards a plain hand, so the pull does not prove the hand is charged.",
     "A rubbed balloon swings away from a ruler rubbed on wool, so both have the same kind of charge.",
@@ -190,7 +190,7 @@
    "concept": "Why does rubbing move charge? Scientists still argue",
    "status": "debated",
    "definition": "",
-   "description": "Everyone agrees that touching two materials and pulling them apart can move charge. Nobody agrees yet on exactly what moves, or why one material wins over another. Even the same material can charge itself: in 2011 a team led by Bartosz Grzybowski found that one piece of plastic can have patches of plus and minus on its own surface, like a mosaic. And in 2014 researchers found that small and large grains of the very same material charged each other, with the larger grains usually ending up plus. A simple ladder cannot explain that.",
+   "description": "Everyone agrees that touching two materials and pulling them apart can move charge. Nobody agrees yet on exactly what moves, or why one material wins over another. Even one material rubbed against itself can end up charged. In 2011 a team led by Bartosz Grzybowski found that one piece of plastic can have patches of plus and minus on its own surface, like a mosaic. And in 2014 researchers found that small and large grains of the very same material charged each other, with the larger grains usually ending up plus. A simple ladder cannot explain that.",
    "examples": [
     "Clear tape peeled from the same roll has plus and minus patches.",
     "Small and large grains of one material can charge each other.",
@@ -242,7 +242,7 @@
    "concept": "The push gets weaker quickly with distance",
    "status": "defined",
    "definition": "The push or pull between two charges gets bigger with more charge and much smaller with more distance. Twice as far apart means only a quarter of the force.",
-   "description": "Charles-Augustin de Coulomb measured this in France in 1785, with a very sensitive hanging balance. Two charges twice as far apart push a quarter as hard. Three times as far apart, a ninth as hard. Scientists call this an inverse square law. Light also follows it: twice as far from a torch means the same light spread over four times the area. Gravity follows it too. The reason is geometry: whatever spreads out from a point in all directions thins out over the surface of a bigger and bigger sphere. This is why two balloons push hard when close and hardly at all when far apart. A bit of paper is pulled even more weakly from far away, because the balloon must first shift the paper's own charges. It is also why the charge on a single balloon can lift your hair but not move the table.",
+   "description": "Charles-Augustin de Coulomb measured this in France in 1785, with a very sensitive hanging balance. Two charges twice as far apart push a quarter as hard. Three times as far apart, a ninth as hard. Scientists call this an inverse square law. Light also follows it: twice as far from a torch means the same light spread over four times the area. Gravity follows it too. The reason is geometry: whatever spreads out from a point in all directions thins out over the surface of a bigger and bigger sphere. This is why two balloons push hard when close and hardly at all when far apart. A bit of paper is pulled even more weakly from far away, because the balloon must first shift the paper's own charges. It is also why a single balloon can lift your hair but cannot move a table. The force that one balloon's charge makes is very small.",
    "examples": [
     "Two charged balloons that push with some force at 1 centimetre push with a quarter of that force at 2 centimetres.",
     "Two balloons with twice the charge each push four times as hard at the same distance.",
@@ -268,7 +268,7 @@
    "concept": "Sparks and lightning",
    "status": "defined",
    "definition": "A spark happens when the push on the air between two charged things is so strong that the air suddenly lets charge through. Lightning is the same, on a giant scale.",
-   "description": "Air is an insulator, until the push on it is strong enough. That takes about three million volts across each metre of air, or about 3,000 volts for each millimetre. A spark you can just feel from a door handle is across about one millimetre, so it takes about 3,000 volts. It hardly hurts, because the amount of charge is very small and it passes in a flash. Lightning has hundreds of millions of volts and a huge amount of charge, so it is deadly. A bolt starts as a faint feeler that steps down from the cloud. When it is close to the ground, a bright return stroke travels up the same path from the ground to the cloud. The flash we see is the return stroke. The heated air bursts outward, which we hear as thunder.",
+   "description": "Air is an insulator, until the push on it is strong enough. That takes about three million volts across each metre of air, or about 3,000 volts for each millimetre. A spark you can just feel from a door handle is across about one millimetre, so it takes about 3,000 volts. It hardly hurts, because the amount of charge is very small and it passes in a flash. Lightning has hundreds of millions of volts and a huge amount of charge, so it is deadly. A bolt starts as a faint, branching path of charge that steps down from the cloud towards the ground. When the path is close to the ground, a bright return stroke travels up the same path from the ground to the cloud. The flash we see is the return stroke. The heated air bursts outward, which we hear as thunder.",
    "examples": [
     "A static shock from a car door is a small spark.",
     "A lightning flash is a spark many kilometres long.",
@@ -294,7 +294,7 @@
    "concept": "Living things and electric fields",
    "status": "idea",
    "definition": "",
-   "description": "The air near the ground has a faint electric field, about 100 volts for every metre of height. In 2013 Dominic Clarke and colleagues showed that bumblebees can sense the weak electric field around a flower, and learn to tell flowers apart by it. A flying bee collects a small plus charge from the air, and a flower is usually minus, so pollen may jump to her without her touching it. In 2018 Erica Morley and Daniel Robert showed that spiders lift off on silk threads in an electric field, so charge helps them fly. Some fish, sharks and the platypus sense the fields made by other animals. Humans have no sense for it. Scientists do not yet know how common this is, or how many animals use it.",
+   "description": "The air near the ground has a faint electric field, about 100 volts for every metre of height. In 2013 Dominic Clarke and colleagues showed that bumblebees can sense the weak electric field around a flower, and learn to tell flowers apart by it. A flying bee collects a small plus charge from the air, and a flower is usually minus, so pollen may jump to her without her touching it. In 2018 Erica Morley and Daniel Robert showed that spiders lift off on silk threads in an electric field, so charge helps them fly. Some fish, sharks and the platypus sense the fields made by other animals. Humans cannot sense electric fields. Scientists do not yet know how common this is, or how many animals use it.",
    "examples": [
     "A bumblebee senses the electric field of a flower before landing.",
     "A spider lifts on a silk thread in an electric field.",
@@ -385,7 +385,7 @@
   {
    "q": "A balloon rubbed on wool has extra minus charge. Charge cannot be made or destroyed. Where was that minus charge before the rubbing?",
    "kind": "deep",
-   "hint": "Think about the wool or hair, and about what a neutral thing really holds."
+   "hint": "Think about the wool or hair that the balloon was rubbed on. A neutral thing still holds a great many electrons, together with an equal amount of plus charge."
   },
   {
    "q": "A charged balloon pulls a plain wall that has no extra charge. How does the wall feel the balloon without touching it? And when the balloon moves, how quickly does the pull on the wall change?",
@@ -506,8 +506,8 @@
   "practice": {
    "title": "Giver and taker",
    "mins": 3,
-   "say": "Sit comfortably and close your eyes. Breathe in slowly and think that this air was made by plants. Breathe out slowly and think that this air goes to plants. Do this five times. Are you a giver or a taker?",
-   "kid": "Sit still. Breathe in slowly. This air came from plants. Breathe out. This air goes to plants. Do it five times. Are you a giver or a taker?"
+   "say": "Sit comfortably and close your eyes. Breathe in slowly and think that this air was made by plants. Breathe out slowly and think that this air goes to plants. Do this five times. Then ask yourself: in this breathing, do I only give, only take, or do both?",
+   "kid": "Sit still. Breathe in slowly. This air came from plants. Breathe out. This air goes to plants. Do it five times. Do you give, take, or both?"
   },
   "ask": [
    "The same cotton is plus with one partner and minus with another. Is anything plus or minus all on its own?",
@@ -1200,7 +1200,7 @@
        ]
       }
      ],
-     "parent": "The ball should jump to the balloon again. Your finger and body let the extra charge run away into the floor. Then say that the ball can do this over and over.",
+     "parent": "The ball should jump to the balloon again. Your finger and body let the extra charge run away into the floor. After your child has said this, tell them that the ball can do this again and again, because each touch of a finger lets its charge run away.",
      "context": "In this step, you touch the ball with a finger and watch it jump to the balloon again."
     }
    ],
@@ -1268,7 +1268,7 @@
       {
        "q": "Which one are you most sure about, and why?",
        "good": [
-        "The steel spoon, because metal carries things.",
+        "The steel spoon, because metal lets charge move through it.",
         "The plastic spoon, because plastic stops it.",
         "My finger, because I am wet."
        ]
@@ -2033,11 +2033,11 @@
      "p": "Put these in order for a lightning flash.",
      "a": [
       "Charge separates inside the storm cloud",
-      "A faint feeler steps down from the cloud towards the ground",
+      "A faint, branching path of charge steps down from the cloud towards the ground",
       "A bright return stroke travels up the same path",
       "The heated air bursts outward and we hear thunder"
      ],
-     "why": "Charge builds up first. A feeler finds a path to the ground. The bright stroke that we see goes up that path. The air it heats bursts outward with a bang.",
+     "why": "Charge builds up first. A faint path of charge then finds its way to the ground. The bright stroke that we see goes up that path. The air it heats bursts outward with a bang.",
      "outcome": 6
     },
     {
@@ -2282,7 +2282,7 @@
      "t": "truefalse",
      "p": "The bright flash of a lightning bolt travels from the cloud down to the ground.",
      "a": false,
-     "why": "False. A faint feeler steps down from the cloud first. When it is near the ground, the bright return stroke travels up the same path, and that is the flash we see.",
+     "why": "False. A faint path of charge steps down from the cloud first. When it is near the ground, the bright return stroke travels up the same path, and that is the flash we see.",
      "outcome": 6
     },
     {
