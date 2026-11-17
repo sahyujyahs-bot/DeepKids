@@ -90,8 +90,8 @@
   {
    "concept": "Colours around us, and colours on living beings",
    "status": "defined",
-   "definition": "Many colours come from colour stuff in paint, flowers and feathers. Some colours come from tiny shapes instead, like the shine on a pigeon's neck.",
-   "description": "Flowers use bright colours to call bees and butterflies to their nectar. A pigeon's neck shines green and purple as they turn their head. Tiny layers in the feathers make those colours. A green parrot's feathers have yellow colour stuff in them, and tiny shapes that send back blue light. Yellow and blue together look green, just as they do with paint.",
+   "definition": "Most colours in paint, flowers and feathers come from pigment. A pigment is a coloured material that soaks up some light and sends the rest back to our eyes. A few colours come from very tiny shapes instead. Tiny shapes can bounce light so that we see a colour, like the shine on a pigeon's neck.",
+   "description": "Flowers use bright colours to call bees and butterflies to their nectar. A pigeon's neck shines green and purple as they turn their head. Tiny layers in the feathers make those colours. A green parrot's feathers have yellow pigment in them. They also have tiny shapes that send back blue light. Yellow and blue together look green, just as they do with paint.",
    "examples": [
     "A marigold's orange calls bees and butterflies.",
     "A pigeon's neck changes from green to purple as they turn.",
@@ -131,7 +131,7 @@
    "for": "In a child's paint box, you cannot mix red, yellow or blue from the other paints.",
    "against": "Printers use yellow, magenta (a pinkish red) and cyan (a greenish blue), and from these they can mix red and blue. For light, the primary colours are red, green and blue. Which three you start with depends on what you are mixing.",
    "status": "debated",
-   "context": "This card asks whether there is only one set of primary colours."
+   "context": "Primary colours are the few colours you start with, and then mix all the others from them. In a child's paint box, they are red, yellow and blue. This card asks whether every kind of mixing uses the same three."
   },
   {
    "claim": "You can always unmix a colour if you try hard enough.",
@@ -399,7 +399,7 @@
      "do": "1. Your child takes some green from the plate and adds more and more yellow. 2. Look at the colour after each brushful.",
      "say": "Can we get the yellow back out of the green? Add more yellow. Is it yellow again?",
      "kid": "Add more yellow to the green. Is it yellow again?",
-     "parent": "The green turns yellowish green, but never plain yellow. Now ask: what did you find, and what did you see that shows it?",
+     "parent": "The green turns yellowish green, but never plain yellow. Now ask your child: can a mixed colour be unmixed? What did you see that shows it?",
      "check": {
       "t": "mcq",
       "q": "You mix yellow and blue paint. Then you add lots more yellow. What do you get?",
@@ -588,7 +588,7 @@
      "what": "Find one thing of each colour and put it by its slip."
     }
    ],
-   "record": "Draw the thing you found for the colour that was hardest to find.",
+   "record": "Draw your green thing. Beside it, colour the two paints that could mix to make that green.",
    "setup": [
     {
      "art": "Eight crayon-coloured paper slips laid in a row on a white bedsheet: red, orange, yellow, green, blue, purple, brown and black.",
@@ -622,14 +622,14 @@
        ]
       }
      ],
-     "parent": "Good finds: a tomato, a carrot or marigold, a lemon or turmeric, a curry leaf, a bucket, a brinjal or jamun, a wooden spoon, a pot or hair band. Purple is often hardest."
+     "parent": "Good finds: a tomato, a carrot or marigold, a lemon or turmeric, a curry leaf, a bucket, a brinjal or jamun, a wooden spoon, a pot or hair band. Purple is often hardest. The point of this hunt is to notice how many colours there are around us, far more than the three pots in a paint box. In the next step, we ask how some of them could be mixed."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at the heaps together, and ask the check question.",
-     "say": "Look at your green thing. Do you think we could make that green with paint?",
-     "kid": "Look at your green thing. Could we make that green with paint?",
+     "do": "Look at the heaps together. Some of these colours can be mixed from paints, and some are the paints you start with. Then ask the check question.",
+     "say": "Look at your green thing. Which two paints could we mix to make that green?",
+     "kid": "Look at your green thing. Which two paints could we mix to make that green?",
      "check": {
       "t": "mcq",
       "q": "Which two paints could we mix to make the green of a curry leaf?",
@@ -788,7 +788,7 @@
        ]
       }
      ],
-     "parent": "Flowers use bright colours to call bees and butterflies to their nectar. Bees see a kind of light called ultraviolet, which we cannot see, so a flower may look different to a bee."
+     "parent": "Leaves have many greens, from pale yellow-green new leaves to dark green old ones. A painter gets all of those greens by changing how much yellow and how much blue to mix. Flowers use bright colours to call bees and butterflies to their nectar. Bees see a kind of light called ultraviolet, which we cannot see, so a flower may look different to a bee."
     },
     {
      "id": "s2",
@@ -796,7 +796,7 @@
      "do": "Watch the window for a pigeon or a crow. If none comes, try again later in the day. Any bird is fine.",
      "say": "Look at the pigeon's neck. What colour is it? Now watch as they turn their head. Does the colour change?",
      "kid": "Look at the pigeon's neck. Watch the neck as the pigeon turns.",
-     "parent": "A pigeon's neck shines green and purple, and the colours change as they move. Tiny layers in the feathers make these colours, not pigment, which is the colour stuff in paint. Pigeons come to most city windows."
+     "parent": "A pigeon's neck shines green and purple, and the colours change as they move. Tiny layers in the feathers make these colours, not pigment. Pigment is the coloured material in paint. Pigeons come to most city windows."
     },
     {
      "id": "s3",
@@ -921,8 +921,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Which card was hardest? Why?",
-     "kid": "Which card was hardest?",
+     "say": "Look at the card with lots of yellow and a little blue. Will the green be light or dark? Why?",
+     "kid": "Mix lots of yellow with a little blue. Is the green light or dark?",
      "check": {
       "t": "mcq",
       "q": "A card says \"Lots of yellow + a little blue\". What does it make?",
@@ -1090,8 +1090,8 @@
      "id": "s3",
      "mins": 8,
      "do": "Your child mixes red and blue for the purple page, and draws two purple things. Then read the whole book together.",
-     "say": "Today's colour is purple. Mix it and paint the sum. Which page was easiest to fill? Why?",
-     "kid": "Mix purple. Paint the sum. Which page was easiest?",
+     "say": "Today's colour is purple. Mix it and paint the sum. Which two paints did you mix for purple?",
+     "kid": "Mix purple. Paint the sum. Which two paints made purple?",
      "check": {
       "t": "mcq",
       "q": "Which two paints did you mix for the purple page?",
@@ -1305,7 +1305,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her friend the second child are mixing paints in Chennai.",
+     "p": "Two friends are mixing paints in Chennai. They have different guesses about mixing every colour.",
      "views": [
       {
        "who": "The first child, aged 6",
@@ -1316,10 +1316,10 @@
        "says": "If I mix every colour, I will get a dark, muddy colour. Each paint makes the mix darker."
       }
      ],
-     "ask": "Who do you agree with? Why? Say it out loud, and a grown-up writes it down. Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Why? Say it out loud, and a grown-up writes it down. Then say one thing the other child has right.",
      "lines": 3,
      "a": "A strong answer picks the second child and uses the Colour Mixing Test: all three paints made dark brown. It also says the first child has something right: each paint alone is bright, and brown is a useful colour, for a tree trunk or soil.",
-     "why": "The second child is right about paint. The first child's guess is a common one. Mixing light works differently, which a later unit shows. Both girls are thinking about what mixing does.",
+     "why": "The second child is right about paint. The first child's guess is a common one. Mixing light works differently, which a later unit shows. Both children are thinking about what mixing does.",
      "how": "e1"
     },
     {
@@ -1420,7 +1420,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a torch shining on yellow paint and on brown paint. Draw more arrows of light coming back from the one that sends back more light.",
+     "p": "Draw a torch shining on yellow paint and on brown paint. Draw arrows of light coming back from each paint. Give more arrows to the paint that sends back more light.",
      "a": "More arrows coming back from the yellow paint, and very few from the brown.",
      "why": "Brown is a mix of all three paints, so it absorbs the most light. Yellow absorbs only a little, so lots of light comes back.",
      "art": "A torch on the left and two paint patches on the right, one yellow and one brown, with space to draw arrows."
@@ -1650,7 +1650,7 @@
   },
   {
    "q": "Why are blue flowers and blue animals so rare?",
-   "why_open": "Many blue animals make their blue with tiny shapes, not with pigment, which is colour stuff like the colour in paint. Scientists think blue pigment may be hard for living beings to make, but nobody is sure."
+   "why_open": "Many blue animals make their blue with tiny shapes, not with pigment. Pigment is a coloured material, like the colour in paint. Scientists think blue pigment may be hard for living beings to make, but nobody is sure."
   }
  ],
  "ask_kids": [
@@ -1812,7 +1812,7 @@
    "evidence": "In the Colour Mixing Test, every mix was darker than yellow, and red, yellow and blue together made dark brown. In Drop by Drop, each drop of blue made the green darker, and water only made it paler."
   },
   "three": {
-   "who_am_i": "You see colours because light comes into your eyes. The green you saw was the light the paints left for you.",
+   "who_am_i": "You see colours because light comes into your eyes. The green you saw was the light that the yellow and blue paints did not soak up.",
    "what_is_life": "Living beings make their own colours. A flower's colours call bees, and a parrot's green is yellow and blue together.",
    "what_is_this_world": "The world is full of colours, and almost all of them begin with light from the Sun or a lamp. Each thing sends back its own part of that light."
   },
@@ -1929,5 +1929,5 @@
   ]
  },
  "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and a six-year-old in a city flat, and checked the minutes, the checks and the printables against the steps. Replaced the Colour Hunt check, which asked a pointless question, with one that matches its step. Made the colour-card game print six cards so two players have a set each, gave it a clear end, and listed the players. Cut the ultraviolet and sea-colour sentences and the printers box from the explanations, since they were too much for age 6 and repeated elsewhere. Replaced repeated unmixing, flower and dark-room questions, a weak joke and a marigold question that said \"their\" for one flower. Made the second-day Kalamkari idea optional, since blue paint needs time to dry. Left the three video slots unfilled, since no clip has been opened and checked.",
- "warm": {"words": ["PAINT", "LIGHT", "GREEN", "BROWN", "MIXED"], "quiz": [["Yellow paint and blue paint mixed together make green.", true, "Two paints together make a new colour that was in neither pot."], ["Mixing all your paints together makes white.", false, "Paint soaks up light, so mixing many paints makes a dark brown, not white."], ["Red, yellow and blue paints are the ones you start with to mix many colours.", true, "These three are the primary colours of a paint box, and many other colours can be mixed from them."], ["You can mix red paint from yellow paint and blue paint.", false, "Red is a primary colour of the paint box, so it cannot be mixed from the other paints."], ["The more paints you mix, the darker the colour gets.", true, "Each paint soaks up some light, so more paints soak up more light and less comes back."], ["We can see the colour of a tomato even when there is no light at all.", false, "We need light to see colours. With no light, our eyes see nothing."], ["Paint soaks up some of the light that falls on it and sends the rest to our eyes.", true, "The light that comes back to our eyes is the colour we see."], ["You can unmix green paint back into yellow and blue if you try hard enough.", false, "Mixed paints stay mixed. Adding more yellow makes yellowish green, and water only makes it paler."], ["Red paint and yellow paint make orange.", true, "Mixing two paints makes a new colour that is in neither pot."], ["All the colours on feathers come from colour stuff, like paint.", false, "Some colours, like the shine on a pigeon's neck, come from tiny shapes instead."]], "odd": [[["Red paint", "Yellow paint", "Blue paint", "Green paint"], "Green paint", "Red, yellow and blue are the paint box's starting colours, but green can be mixed from yellow and blue."], [["Yellow and blue", "Red and yellow", "Red and blue", "Red and red"], "Red and red", "The first three mixes each make a new colour, but red mixed with red stays red."], [["Mixing two paints", "Mixing all the pots", "Adding more paints", "Adding water"], "Adding water", "Mixing paints makes a colour darker because more light is soaked up, but water makes it paler."], [["Red paint", "Orange marigold", "Green leaf", "Pigeon's neck shine"], "Pigeon's neck shine", "The first three get their colour from colour stuff, but the shine on a pigeon's neck comes from tiny shapes."], [["Colour in sunlight", "Colour in lamp light", "Colour in a lit room", "Colour in a dark cupboard"], "Colour in a dark cupboard", "We can see colours only where light falls, and a dark cupboard has none."]]}
+ "warm": {"words": ["PAINT", "LIGHT", "GREEN", "BROWN", "MIXED"], "quiz": [["Yellow paint and blue paint mixed together make green.", true, "Two paints together make a new colour that was in neither pot."], ["Mixing all your paints together makes white.", false, "Paint soaks up light, so mixing many paints makes a dark brown, not white."], ["Red, yellow and blue paints are the ones you start with to mix many colours.", true, "These three are the primary colours of a paint box, and many other colours can be mixed from them."], ["You can mix red paint from yellow paint and blue paint.", false, "Red is a primary colour of the paint box, so it cannot be mixed from the other paints."], ["The more paints you mix, the darker the colour gets.", true, "Each paint soaks up some light, so more paints soak up more light and less comes back."], ["We can see the colour of a tomato even when there is no light at all.", false, "We need light to see colours. With no light, our eyes see nothing."], ["Paint soaks up some of the light that falls on it and sends the rest to our eyes.", true, "The light that comes back to our eyes is the colour we see."], ["You can unmix green paint back into yellow and blue if you try hard enough.", false, "Mixed paints stay mixed. Adding more yellow makes yellowish green, and water only makes it paler."], ["Red paint and yellow paint make orange.", true, "Mixing two paints makes a new colour that is in neither pot."], ["All the colours on feathers come from pigment, a coloured material like paint.", false, "Some colours, like the shine on a pigeon's neck, come from tiny shapes instead."]], "odd": [[["Red paint", "Yellow paint", "Blue paint", "Green paint"], "Green paint", "Red, yellow and blue are the paint box's starting colours, but green can be mixed from yellow and blue."], [["Yellow and blue", "Red and yellow", "Red and blue", "Red and red"], "Red and red", "The first three mixes each make a new colour, but red mixed with red stays red."], [["Mixing two paints", "Mixing all the pots", "Adding more paints", "Adding water"], "Adding water", "Mixing paints makes a colour darker because more light is soaked up, but water makes it paler."], [["Red paint", "Orange marigold", "Green leaf", "Pigeon's neck shine"], "Pigeon's neck shine", "The first three get their colour from pigment, but the shine on a pigeon's neck comes from tiny shapes."], [["Colour in sunlight", "Colour in lamp light", "Colour in a lit room", "Colour in a dark cupboard"], "Colour in a dark cupboard", "We can see colours only where light falls, and a dark cupboard has none."]]}
 }

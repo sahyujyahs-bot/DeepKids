@@ -65,7 +65,7 @@
    "concept": "Under a stone: dark, damp and cool",
    "status": "defined",
    "definition": "The ground under a stone is dark, damp and cool, because the stone keeps off the sun and holds the water in.",
-   "description": "The sun warms and dries open ground. A stone keeps the sun off, so the ground below stays dark and cool, and the water stays in the soil. Earthworms breathe through their skin, so it must stay damp. Pill bugs dry out fast in the sun, and ants keep their young in the dark soil.",
+   "description": "The sun warms and dries open ground. A stone keeps the sun off, so the ground below stays dark and cool, and the water stays in the soil. Earthworms breathe through their skin, so it must stay damp. Pill bugs dry out fast in the sun, and ants keep their young in the dark soil. So the dark, damp ground under a stone is a good home for all three.",
    "examples": [
     "Lift a flowerpot that has stood for a week, and the floor underneath is dark and wet.",
     "Ants often build their nest under a flat stone.",
@@ -120,7 +120,7 @@
   {
    "concept": "Do small animals choose their home?",
    "status": "debated",
-   "description": "Pill bugs gather under stones and pots, where it is damp and dark. Some scientists say a pill bug senses dry air and light, and chooses to look for a damp, dark place. Others say pill bugs walk fast in dry places and slow down in damp ones, so they end up together in the damp, like people slowing down at a shady bus stop.",
+   "description": "Pill bugs gather under stones and pots, where it is damp and dark. Some scientists say a pill bug senses dry air and light, and chooses to look for a damp, dark place. Others say pill bugs walk fast in dry places and slow down in damp ones, so they end up together in the damp places, without ever having chosen them.",
    "examples": [
     "Pill bugs move quickly across a dry floor and stop under a pot.",
     "Pill bugs rest in a damp place and walk on when the floor dries.",
@@ -161,7 +161,7 @@
    "for": "A centipede or a scorpion can bite or sting.",
    "against": "Most animals under a stone, like earthworms, pill bugs and ants, do not hurt people. But a centipede or a scorpion can bite or sting. So look with your eyes and do not touch with bare hands.",
    "status": "rejected",
-   "context": "This card is about a common fear: that the animals under a stone are all harmful."
+   "context": "This card is about the animals you find under a stone, such as earthworms, pill bugs and ants. Some people are afraid that all of them are dirty or dangerous. Read what the card says, then decide."
   },
   {
    "claim": "A pond with green water is a dead, dirty pond.",
@@ -169,7 +169,7 @@
    "for": "Green water looks dirty, and very green ponds can smell bad.",
    "against": "The green colour comes from millions of tiny living beings called algae, which many pond animals eat. But if dirty water flows in, the algae can grow too much and the fish get too little air.",
    "status": "debated",
-   "context": "This card is about green ponds: are they full of life, or a sign of trouble?"
+   "context": "This card is about a pond whose water looks green. Some people say that a green pond is dead and dirty. The green colour comes from tiny living beings called algae. Read what the card says, then decide."
   },
   {
    "claim": "Wild habitats are only in forests, far away from cities.",
@@ -177,7 +177,7 @@
    "for": "Big wild animals like tigers and elephants live in forests, not in towns.",
    "against": "A city tree, a lake, a crack in a wall and the soil under a pot are all wild habitats. Crows, squirrels, frogs, ants and many plants live in them without anyone looking after them.",
    "status": "rejected",
-   "context": "This card is about a common idea: that wild homes are only far away."
+   "context": "This card is about where wild animals and plants live. Some people think they live only in forests, far from towns. A habitat is any place that gives a living being food, water and shelter. Read what the card says, then decide."
   }
  ],
  "big_questions": [
@@ -502,6 +502,7 @@
    "mins": 20,
    "days": 1,
    "context": "You wet the soil in a pot and cover half of it with a plate. The plate is like a stone. You leave the pot in the sun for about three hours. Then you look at both halves and touch them.",
+   "problem": "A stone keeps the sun off the ground and keeps the water in. In this experiment, a plate does the job of a stone. You cover half of some wet soil with the plate and leave the pot in the sun. Then you see how the two halves are different.",
    "question": "After a few hours in the sun, is the soil under a plate different from the soil in the open?",
    "predict": "Guess first. After three hours, will the soil under the plate be wet or dry? And the soil in the sun? Why do you think so?",
    "fair_test": "Both halves are in the same pot, with the same soil and the same water, in the same sun, for the same time. Only one thing is different: one half has a plate on top.",
@@ -637,7 +638,7 @@
        ]
       }
      ],
-     "parent": "Usually the soil under the plate is darker, wetter and cooler, and leaves a damp mark on the tissue. The soil in the sun goes pale and dry on top. Small drops may form under the plate. If the day was cloudy, the difference is smaller: leave it longer."
+     "parent": "Usually the soil under the plate is darker, wetter and cooler, and leaves a damp mark on the tissue. The soil in the sun goes pale and dry on top. Small drops may form under the plate. They are water that came out of the soil and was trapped by the plate, which shows that the plate holds the water in. If the day was cloudy, the difference is smaller: leave it longer."
     },
     {
      "id": "s4",
@@ -929,6 +930,7 @@
    "mins": 20,
    "days": 3,
    "context": "In this three-day project you lay a tile on damp soil. This makes a small damp, dark place, like the ground under a stone. Each morning you lift the tile slowly to see if anyone has moved in. Then you put the tile back gently.",
+   "problem": "A stone makes a dark, damp, cool place on the ground. In this project, a tile does the job of a stone. You lay it on wet soil, then lift it each morning to see which small animals have moved in.",
    "materials": [
     {
      "item": "a plant pot, a tray or a bowl of soil",
@@ -1077,7 +1079,7 @@
      "do": "Watch from inside for a few minutes at different times. Note which birds come.",
      "say": "Who came to our water place? Did they drink, or did they bathe?",
      "kid": "Watch from inside. Who came? Did they drink or bathe?",
-     "think": "We made a small new habitat. What else could we add to it?"
+     "think": "We made a small new habitat. What else could we add to it? A good answer is a plant pot for shade, or a flat stone to stand on."
     }
    ]
   }
@@ -1799,7 +1801,7 @@
   ]
  },
  "roots": {
-  "context": "We have looked at homes near our home, and made a damp, dark place with a plate. Now we ask what that tells us about places and the beings who live in them.",
+  "context": "We have looked at homes near our home, and made a damp, dark place with a plate. Now we look at what that shows us about places, and about the living beings who find a home in them.",
   "deep_truth": {
    "truth": "We covered half of some wet soil with a plate and left it in the sun for three hours. Under the plate, the soil stayed dark, damp and cool. In the open, the same soil turned pale and dry. So a flat cover makes a new place, where animals that need damp can live.",
    "habit": "We think of a home as a big place, like a forest or a pond. But a home can be as small as the ground under one stone.",

@@ -86,7 +86,7 @@
    "concept": "Some things fall slowly, but they still fall",
    "status": "defined",
    "definition": "Feathers, paper, cotton and blown-up balloons fall slowly, because the air gets in their way. They still fall to the ground.",
-   "description": "Air is all around us. You cannot see it, but it is there. A light, wide thing like a feather has to push through the air as it falls, so the air slows it down. A balloon from a fair is filled with helium gas, which is lighter than air. The air around pushes that balloon up. When the helium leaks out, it comes down.",
+   "description": "Air is all around us. You cannot see it, but it is there. A light, wide thing like a feather has to push through the air as it falls, so the air slows it down. A balloon from a fair is filled with helium gas, which is lighter than air. The heavier air around it sinks underneath it and pushes it up. When the helium leaks out, it comes down.",
    "examples": [
     "In the Let-Go Test, the feather rocked slowly down and landed.",
     "A blown-up balloon floats down and bumps gently on the floor.",
@@ -122,7 +122,7 @@
  "agreed": [
   {
    "text": "Everything near the Earth is pulled towards it. This pull is called gravity.",
-   "evidence": "Anyone can test it. Spoons, rice, water, feathers and balloons all fall when let go. Falling needs no air: astronauts on the Moon, where there is no air, dropped things, and the Moon's pull brought them down."
+   "evidence": "Anyone can test it. Spoons, rice, water, feathers and balloons all fall when let go. Falling does not need air. There is no air on the Moon. When astronauts dropped things there, the things still fell, pulled down by the Moon."
   },
   {
    "text": "A thing that is not falling is held up by a support.",
@@ -140,7 +140,7 @@
    "for": "A feather drifts in the air for a long time. A balloon seems to hang there.",
    "against": "Watch to the end. In the Let-Go Test the feather and the balloon both landed on the floor. They fall slowly because the air gets in their way, but they do fall.",
    "status": "rejected",
-   "context": "This card is about feathers and balloons, which seem to float."
+   "context": "This card is about what a feather or a balloon does when you let go of it. Some children say it floats and does not fall. In the Let-Go Test, you saw what really happens."
   },
   {
    "claim": "Things fall because the air pushes them down.",
@@ -148,7 +148,7 @@
    "for": "Air is all around us, and we cannot see what is pulling the spoon.",
    "against": "The air does the opposite: it slows falling things down. On the Moon there is no air, and dropped things still fall. It is the pull of the ground below, gravity, that makes things fall.",
    "status": "rejected",
-   "context": "This card is about what makes a spoon fall."
+   "context": "This card is about what makes a spoon fall. Some children say the air pushes it down. Other people say the Earth pulls it down. In this unit you find out which one is true."
   },
   {
    "claim": "Smoke, air and fire go up by nature. The Earth does not pull them down.",
@@ -156,7 +156,7 @@
    "for": "Smoke from an agarbatti rises up to the ceiling. A flame always points up.",
    "against": "In 1638, Galileo wrote that air has weight, so the Earth pulls air too. Hot, smoky air rises only because the cooler, heavier air around it sinks under it and pushes it up.",
    "status": "rejected",
-   "context": "This card is about smoke and flames, which go up instead of down."
+   "context": "This card is about an old idea from a Greek thinker called Aristotle. He said that stones and water fall down by their nature, but smoke, air and fire go up by their nature. Smoke from an agarbatti really does rise, so the idea seemed to fit what people saw."
   }
  ],
  "big_questions": [
@@ -355,7 +355,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "One last question, and it is a hard one.",
+     "say": "One last question. This one is about a ball that you throw up.",
      "kid": "Answer the last one.",
      "check": {
       "t": "mcq",
@@ -1116,6 +1116,7 @@
    "mins": 10,
    "days": 1,
    "context": "In this activity a steel tumbler sits on a book, and a key hangs on a thread. You find out what is holding each one up, and what happens when the holder is taken away. Then you hunt for holders all around your home.",
+   "problem": "A thing that is not falling is being held up by something. In this activity you find out what holds up a tumbler, a key and a ceiling fan. Then you take the holder away, and you watch what the Earth's pull does.",
    "materials": [
     {
      "item": "a steel tumbler or a plastic cup, nothing that can break",
@@ -1351,7 +1352,7 @@
      "what": "Fall like a stone, a leaf, a feather, a raindrop and a balloon, then try to jump and stay up."
     }
    ],
-   "record": "Draw yourself falling like your favourite thing.",
+   "record": "Draw a stone, a leaf and a feather. Next to each one, draw how it fell: straight down and fast, or swinging and slow.",
    "setup": [
     {
      "art": "A child crouching down quickly onto a mat like a stone, next to a picture of a stone.",
@@ -1787,9 +1788,9 @@
  ],
  "applications": [
   "Water tanks sit on the roofs of buildings, so the water falls down the pipes to every tap in every flat.",
-  "Water falling from high dams, such as the Idukki dam in Kerala, turns machines that make electricity.",
+  "Water falling from high dams, such as the Idukki dam in Kerala, spins big wheels called turbines. The turbines make electricity.",
   "Playground slides work because the Earth pulls you down the slope.",
-  "Builders hang a heavy weight on a string, called a plumb line, to find straight down, so their walls stand straight.",
+  "Builders hang a heavy weight on a string, called a plumb line, to show which way is straight down. Then they can build their walls straight up.",
   "Mango pickers use a long pole with a little bag at the top, so the falling mangoes drop into the bag, not onto the ground."
  ],
  "spotted": [
@@ -1821,11 +1822,11 @@
   },
   {
    "q": "Why is the Earth's pull so weak compared with a magnet's?",
-   "why_open": "A small fridge magnet can hold a steel pin up against the pull of the whole Earth. Scientists do not yet know why gravity is so much weaker than the other forces."
+   "why_open": "A small fridge magnet can hold a steel pin up, even though the whole Earth is pulling the pin down. So the magnet's pull is stronger than gravity, even though the magnet is tiny. Scientists do not yet know why gravity is so much weaker than the other forces."
   },
   {
    "q": "Is gravity made of tiny pieces?",
-   "why_open": "Light comes in tiny pieces. Some scientists think gravity does too, but nobody has ever found one."
+   "why_open": "Light comes in tiny pieces called photons. Some scientists think gravity may also come in tiny pieces. Nobody has ever found one."
   }
  ],
  "ask_kids": [
@@ -1953,7 +1954,7 @@
   }
  ],
  "roots": {
-  "context": "We have dropped spoons, rice, feathers and a balloon, and pulled a book from under a tumbler. Now we ask what all that falling tells us about ourselves and the world.",
+  "context": "We have dropped spoons, rice, feathers and a balloon, and pulled a book from under a tumbler. Now we look at what all that falling shows us about the Earth, and about ourselves.",
   "deep_truth": {
    "truth": "Everything you let go of in the Let-Go Test fell, even the feather and the balloon. A thing stays up only while something holds it, like a hand, a shelf or the floor. In Take Away the Holder, the tumbler fell the moment the book was pulled away. So the Earth is pulling the tumbler all the time, even while it sits still.",
    "habit": "We think a thing sitting still has nothing happening to it, and that only falling things are being pulled. In Take Away the Holder, the tumbler fell as soon as the book was pulled away. So the pull was there all along, and the book was holding the tumbler up.",
@@ -1961,7 +1962,7 @@
   },
   "three": {
    "who_am_i": "The Earth is pulling you right now, as you read or listen. The floor or your chair is holding you up.",
-   "what_is_life": "Every living being lives with the Earth's pull. A plant's roots grow down and their stem grows up. A bird's spread wings hold her up on the air.",
+   "what_is_life": "Every living being lives with the Earth's pull. A plant's roots grow down and their stem grows up. They sense which way the Earth pulls, and they grow along that line. A bird's spread wings hold her up on the air.",
    "what_is_this_world": "The Earth pulls everything near it: spoons, rain, air and even the Moon. Nothing near the Earth is left out."
   },
   "thread": "Everything near the Earth is pulled towards it, all the time. We notice the pull only when something falls. A tumbler on a table, a fan on the ceiling and a child on the floor are being pulled too, and held. Holding and pulling go on together, every second, all around us.",

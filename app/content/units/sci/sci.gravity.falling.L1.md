@@ -21,7 +21,7 @@
 ### Everything falls when we let go · *defined*
 **Definition:** When nothing holds a thing up, it falls down. The Earth pulls everything towards it. Scientists call this pull gravity.
 
-In the Let-Go Test you let go of ten things. The spoon fell. The rice fell. The water fell. Even the feather and the balloon fell, only slowly. Nothing stayed up. The Earth pulls everything down, and nobody has to touch the spoon for it to pull.
+In the Let-Go Test you let go of ten things. The spoon fell. The rice fell. The water fell. Even the feather and the balloon fell, only slowly. Nothing stayed up. The Earth pulls everything down. It pulls the spoon without touching it.
 - e.g. In the Let-Go Test, the spoon, the bottle cap and the lemon fell fast.
 - e.g. In the Let-Go Test, the feather and the balloon fell slowly, but they still landed.
 - e.g. Rain falls from the clouds. Mangoes and coconuts fall from trees.
@@ -29,7 +29,7 @@ In the Let-Go Test you let go of ten things. The spoon fell. The rice fell. The 
 **Definition:** A thing that is not falling is being held up. A hand, a shelf, a string, a hook or the floor holds it. Something that holds a thing up is called a support.
 
 In Take Away the Holder, a tumbler sat on a book. It did not fall, because the book held it up. When the book was pulled away, the tumbler fell. The Earth pulls the fan, the clock and you too. Each one stays up because a support holds it.
-- e.g. In Take Away the Holder, the tumbler stayed up on the book, and fell when the book went.
+- e.g. In Take Away the Holder, the tumbler stayed up on the book, and fell when the book was pulled away.
 - e.g. Clothes on a washing line are held up by the pegs and the line.
 - e.g. When you sit on a chair, the chair is your support.
 ### Things fall straight down · *defined*
@@ -42,19 +42,19 @@ In Right on the Dot, you held a lemon above a dot and let go. It landed on the d
 ### Some things fall slowly, but they still fall · *defined*
 **Definition:** Feathers, paper, cotton and blown-up balloons fall slowly, because the air gets in their way. They still fall to the ground.
 
-Air is all around us. You cannot see it, but it is there. A light, wide thing like a feather has to push through the air as it falls, so the air slows it down. A balloon from a fair is filled with helium gas, which is lighter than air. The air around pushes that balloon up. When the helium leaks out, it comes down.
+Air is all around us. You cannot see it, but it is there. A light, wide thing like a feather has to push through the air as it falls, so the air slows it down. A balloon from a fair is filled with helium gas, which is lighter than air. The heavier air around it sinks underneath it and pushes it up. When the helium leaks out, it comes down.
 - e.g. In the Let-Go Test, the feather rocked slowly down and landed.
 - e.g. A blown-up balloon floats down and bumps gently on the floor.
 - e.g. A helium balloon from a fair goes up, because the heavier air pushes it up.
 ### What is gravity, really? · *idea*
-We know what gravity does. It makes things fall, and it keeps the Moon going round the Earth. But how does the Earth pull a spoon without touching it? Scientists have two big ideas, and both give the same answers for spoons and mangoes. No one yet knows what gravity is at the very smallest size.
+We know what gravity does. It makes things fall, and it keeps the Moon going round the Earth. But how does the Earth pull a spoon without touching it? Scientists have two big ideas about this. Both ideas correctly tell us how spoons and mangoes fall. No one yet knows what gravity is at the very smallest size.
 - e.g. Gravity pulls the spoon down, without touching it.
 - e.g. Gravity pulls the Moon too, and keeps the Moon going round the Earth.
 - **Isaac Newton, an English scientist, in 1687:** Everything pulls on everything else. The Earth is very big, so its pull is strong, and things fall towards it.
 - **Albert Einstein, a scientist born in Germany, in 1915:** The Earth bends space and time around it, a little like a heavy ball sitting on a bedsheet. Things near the Earth roll into that bend, and we see them fall.
 
 ## Mostly agreed
-- Everything near the Earth is pulled towards it. This pull is called gravity. *How we know:* Anyone can test it. Spoons, rice, water, feathers and balloons all fall when let go. Falling needs no air: astronauts on the Moon, where there is no air, dropped things, and the Moon's pull brought them down.
+- Everything near the Earth is pulled towards it. This pull is called gravity. *How we know:* Anyone can test it. Spoons, rice, water, feathers and balloons all fall when let go. Falling does not need air. There is no air on the Moon. When astronauts dropped things there, the things still fell, pulled down by the Moon.
 - A thing that is not falling is held up by a support. *How we know:* Take the support away, and the thing falls at once. Builders and engineers plan every building so that its floors, walls and pillars hold up everything above them.
 - Air slows down light, wide things as they fall. *How we know:* A flat sheet of paper drifts down slowly, but the same sheet squashed into a tight ball falls much faster. The paper weighs the same, so the difference comes from the air.
 
@@ -74,20 +74,20 @@ We know what gravity does. It makes things fall, and it keeps the Moon going rou
   Against: In 1638, Galileo wrote that air has weight, so the Earth pulls air too. Hot, smoky air rises only because the cooler, heavier air around it sinks under it and pushes it up.
 
 ## Roots
-We have dropped spoons, rice, feathers and a balloon, and pulled a book from under a tumbler. Now we ask what all that falling tells us about ourselves and the world.
+We have dropped spoons, rice, feathers and a balloon, and pulled a book from under a tumbler. Now we look at what all that falling shows us about the Earth, and about ourselves.
 
-**Deep truth.** Everything you let go of in the Let-Go Test fell, even the feather and the balloon. A thing stays up only while something holds it, like a hand, a shelf or the floor. Pull the book away, and the tumbler falls at once. So the Earth is pulling the tumbler all the time, even while it sits still.  
-*Habit it breaks:* We think a thing sitting still has nothing happening to it, and that only falling things are being pulled. The tumbler on the book shows the pull was there all along. The book was holding it back.  
+**Deep truth.** Everything you let go of in the Let-Go Test fell, even the feather and the balloon. A thing stays up only while something holds it, like a hand, a shelf or the floor. In Take Away the Holder, the tumbler fell the moment the book was pulled away. So the Earth is pulling the tumbler all the time, even while it sits still.  
+*Habit it breaks:* We think a thing sitting still has nothing happening to it, and that only falling things are being pulled. In Take Away the Holder, the tumbler fell as soon as the book was pulled away. So the pull was there all along, and the book was holding the tumbler up.  
 *Evidence:* In the Let-Go Test, all ten things fell when the child opened their hand, some fast and some slowly. In Take Away the Holder, the tumbler and the key stayed up while the book and the thread held them, and fell the moment those were taken away.
 
 - *who am i:* The Earth is pulling you right now, as you read or listen. The floor or your chair is holding you up.
-- *what is life:* Every living being lives with the Earth's pull. A plant's roots grow down and their stem grows up. A bird's spread wings hold her up on the air.
+- *what is life:* Every living being lives with the Earth's pull. A plant's roots grow down and their stem grows up. They sense which way the Earth pulls, and they grow along that line. A bird's spread wings hold her up on the air.
 - *what is this world:* The Earth pulls everything near it: spoons, rain, air and even the Moon. Nothing near the Earth is left out.
 
 Everything near the Earth is pulled towards it, all the time. We notice the pull only when something falls. A tumbler on a table, a fan on the ceiling and a child on the floor are being pulled too, and held. Holding and pulling go on together, every second, all around us.
 
-- **Atharva Veda 12.1, the hymn to the Earth (verse 6):** The hymn calls the Earth the bearer of all, the holder of treasures, and the firm ground on which every moving thing rests. (In Take Away the Holder, every falling thing ended up on the floor, and the floor rests on the ground. The hymn praises the Earth for holding everything up. Science adds that the Earth also pulls everything down onto itself.)
-- **Tao Te Ching 8:** The highest good is like water. Water helps all things and does not fight. It flows to the low places that people look down on. (At the tap, the water always went down, to the lowest place it could reach. The Earth's pull is why water always finds the low places. The Tao Te Ching praises water for going there.)
+- **Atharva Veda 12.1, the hymn to the Earth (verse 6):** The Prithvi Sukta, an old Sanskrit hymn to the Earth from the Atharva Veda, calls the Earth the bearer of all, the holder of treasures, and the firm ground on which every moving thing rests. (In Take Away the Holder, every falling thing ended up on the floor, and the floor rests on the ground. The Prithvi Sukta praises the Earth for holding everything up. Science adds that the Earth also pulls everything down onto itself.)
+- **Tao Te Ching 8:** The highest good is like water. Water helps all things and does not fight. It flows to the low places that people look down on. (In Falling Watch, the water from the tap always went down, to the lowest place it could reach. The Earth's pull is why water always finds the low places. The Tao Te Ching praises water for going there.)
 - Science (settled): The Earth pulls everything near it towards its middle. This pull is called gravity.
 - Science (settled): Everything pulls on everything else, a tiny bit. You pull on the Earth too, but the Earth is far bigger, so you are the one who falls.
 - Science (open): Nobody yet knows what gravity is at the very tiniest scale.
@@ -98,7 +98,7 @@ Everything near the Earth is pulled towards it, all the time. We notice the pull
 - Ask: Could anything stay up with nothing at all holding it?
 
 ## Deep and big questions
-- *deep:* A tumbler sits still on the table. Is the Earth pulling on it right now? How could you find out? (hint: Think about Take Away the Holder. What happened the moment the book went?)
+- *deep:* A tumbler sits still on the table. Is the Earth pulling on it right now? How could you find out? (hint: Think about Take Away the Holder. What happened the moment the book was pulled away?)
 - *deep:* Why does a feather fall slowly, when a spoon falls fast? (hint: Think about the air the feather has to push through. Squash a sheet of paper into a ball and drop it. Does it fall faster now?)
 - *big:* If you dug a hole right through the Earth and dropped a ball in, which way would it fall? (hint: Down always means towards the Earth. What is 'down' for a child on the other side of the world?)
 - *big:* Is there anywhere you could go where nothing would fall? (hint: Think about the Moon, where astronauts dropped things. Think about deep space, very far from every star and planet.)
@@ -146,7 +146,7 @@ Paati smiled. 'Scientists have a name for the Earth's pull,' she said. 'They cal
 
 That night, Nila lay in bed. The bed held her up. The floor held the bed. The building held the floor, and the ground held the building. And under them all, the Earth was pulling, all the time.
 
-**For the parent:** For the parent: Nila finds that everything she lets go of falls, even a feather and a balloon. Things that stay up are always held by something: a hand, a table, a nail, the floor, or the air under a bird's wings. The pull is there all the time, and we only see it when the holder goes.
+**For the parent:** For the parent: Nila finds that everything she lets go of falls, even a feather and a balloon. Things that stay up are always held by something: a hand, a table, a nail, the floor, or the air under a bird's wings. The pull is there all the time, and we only see it when the holder is taken away.
 
 - Ask: What did Arul keep doing with his spoon? Why did Paati say he was doing a test?
 - Ask: Which things did Nila drop? Did any of them stay up?
@@ -155,13 +155,13 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 
 ## Games
 ### g1 · Fast, Slow or Up? The let-go card game (12 min)
-- **rules:** Cut out the 12 cards. Mix them and put them in a pile, question side up.; Cut out the tokens. Each player takes one set of three: FAST, SLOW and UP.; Take turns to be the reader. The reader reads the top card out loud. A grown-up reads for a child who cannot read yet.; Every player, the reader too, holds up one token at the same time. The reader keeps the back of the card hidden.; The reader turns the card over and reads the back. Everyone with the right token gets a point. Say why for a bonus point.; If you are not sure, try it with a real spoon, paper or ball afterwards.; Pass the pile to the next reader after each card. Play until all 12 cards are read. The player with the most points wins. If points are equal, everyone wins.
-- **Printable cards: 12 let-go cards:** Let go of a steel spoon (back: FAST. It falls straight down, clang.); Let go of a feather (back: SLOW. It rocks from side to side, then lands.); A ripe mango comes off the tree (back: FAST. It falls straight down to the ground.); Let go of a ball of cotton wool (back: SLOW. The air slows it, but it lands.); A raindrop leaves the cloud (back: FAST. Rain falls all the way down to the ground.); Let go of a balloon you blew up (back: SLOW. It drifts down and bumps on the floor.); Let go of a flat sheet of paper (back: SLOW. It swings about, then lands.); Let go of a lemon (back: FAST. It falls straight down.); Let go of a soap bubble (back: SLOW. It sinks slowly, or pops on the way.); Smoke rises from an agarbatti (back: UP. The hot smoky air is lighter than the air around it, and the heavier air pushes it up.); Let go of a helium balloon from a fair (back: UP. The heavier air around it pushes it up. When the helium leaks out, it comes down.); A kite bird folds her wings (back: FAST. Without her wings spread on the air, she swoops down.) [picture]
+- **rules:** Cut out the 12 cards. Mix them and put them in a pile, question side up.; Cut out the tokens. Each player takes one set of three: FAST, SLOW and UP.; Take turns to be the reader. The reader reads the top card out loud. A grown-up reads for a child who cannot read yet.; Every player, the reader too, holds up one token at the same time. The reader keeps the back of the card hidden.; The reader turns the card over and reads the back. Everyone with the right token gets a point. A player who can also say why gets a bonus point.; If you are not sure, try it with a real spoon, paper or ball afterwards.; Pass the pile to the next reader after each card. Play until all 12 cards are read. The player with the most points wins. If points are equal, everyone wins.
+- **Printable cards: 12 let-go cards:** Let go of a steel spoon (back: FAST. It falls straight down, clang.); Let go of a feather (back: SLOW. It rocks from side to side, then lands.); A ripe mango comes off the tree (back: FAST. It falls straight down to the ground.); Let go of a ball of cotton wool (back: SLOW. The air slows it, but it lands.); A raindrop leaves the cloud (back: FAST. Rain falls all the way down to the ground.); Let go of a balloon you blew up (back: SLOW. It drifts down and bumps on the floor.); Let go of a flat sheet of paper (back: SLOW. It swings about, then lands.); Let go of a lemon (back: FAST. It falls straight down.); Let go of a soap bubble (back: SLOW. It sinks slowly, or pops on the way.); Smoke rises from an agarbatti (back: UP. The hot smoky air is lighter than the air around it, and the heavier air pushes it up.); Let go of a helium balloon from a fair (back: UP. The heavier air around it pushes it up. When the helium leaks out, it comes down.); A kite bird folds her wings (back: FAST. When her wings are not spread out on the air, she swoops down.) [picture]
 - **Printable tokens: 12 answer tokens: 3 for each of up to 4 players:** FAST (an arrow pointing straight down); SLOW (a wavy arrow pointing down); UP (an arrow pointing up); FAST (an arrow pointing straight down); SLOW (a wavy arrow pointing down); UP (an arrow pointing up); FAST (an arrow pointing straight down); SLOW (a wavy arrow pointing down); UP (an arrow pointing up); FAST (an arrow pointing straight down); SLOW (a wavy arrow pointing down); UP (an arrow pointing up)
 - **s1 (2 min)**  
   *Parent does:* Read the rules. Show the three tokens.  
   *Parent says:* Here are three tokens. FAST means it falls quickly. SLOW means it falls slowly. UP means it goes up. Ready?  
-  *Child mode:* FAST, SLOW or UP. Hold up the one you think.
+  *Child mode:* FAST, SLOW or UP. Hold up the one you think is right.
 - **s2 (8 min)**  
   *Parent does:* Play all 12 cards. After each card, ask one player why. Swap the reader each time.  
   *Parent says:* Let go of a balloon you blew up. Fast, slow or up? Show me. Why do you think so?  
@@ -170,16 +170,16 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   - Note: The helium balloon and the agarbatti smoke are the tricky cards. Both go up only because the heavier air around them pushes them up. Nothing is pulling them up.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* One last question, and it is a hard one.  
+  *Parent says:* One last question. This one is about a ball that you throw up.  
   *Child mode:* Answer the last one.
-  - Check: A girl called Meenakshi throws a ball up into the air. What happens to it? → **It goes up, then falls back down**
+  - Check: You throw a ball up into the air. What happens to it? → **It goes up, then falls back down**
 ### g2 · Catch It Before It Lands (10 min)
 - **rules:** The dropper stands on the floor and holds one thing up as high as they can reach.; The catcher stands one big step away, with their hands down by their sides.; The dropper says 'Ready, go!' and opens their hand.; The catcher tries to catch the thing before it touches the floor. A catch scores one tick.; Each thing gets three tries. Then swap to the next thing.; At the end, count the ticks. Which thing was easiest to catch? Which was hardest?
 - **Printable score sheet: Catch score sheet:** Thing dropped | Try 1 | Try 2 | Try 3 | How many caught?; A hanky or a dupatta | | | |; A balloon you blew up | | | |; A sock rolled into a ball | | | |; A small soft toy | | | |
 - **s1 (1 min)**  
   *Parent does:* Read the rules. Stand one big step apart.  
   *Parent says:* I will hold things up high and let go. You catch them before they touch the floor. Hands down by your sides to start.  
-  *Child mode:* Hands down. When I let go, catch it before it lands!
+  *Child mode:* Hands down. When the grown-up lets go, catch it before it lands!
 - **s2 (7 min)**  
   *Parent does:* Drop each thing three times: the hanky, the balloon, the sock ball, the soft toy. Tick each catch on the score sheet.  
   *Parent says:* Ready, go! Did you catch it? Which one is easier, the hanky or the sock ball? Why do you think so?  
@@ -187,10 +187,10 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   - Ask: Why was the hanky easier to catch? (good: It falls slowly.; The air slows it down, so I have more time.)
   - Note: Drop, never throw, so it is fair. Slow fallers like the hanky and the balloon are easy to catch. The sock ball falls fast, so it is hard.
 - **s3 (2 min)**  
-  *Parent does:* Count the ticks together. Then the check question.  
+  *Parent does:* Count the ticks together. Then ask the check question.  
   *Parent says:* Which thing did you catch most? Did any of them stay up in the air and wait for you?  
   *Child mode:* Count your ticks. Did anything stay up and wait?
-  - Check: A girl called Jyoti is catching a hanky and a sock ball. Which one gives her more time to catch it? → **The hanky**
+  - Check: You are catching a hanky and a sock ball. Which one gives you more time to catch it? → **The hanky**
 
 ## Experiments
 ### e1 · The Let-Go Test: does everything fall? (20 min)
@@ -203,7 +203,7 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   *Parent does:* 1. Put the ten things on a mat. 2. Draw a big down arrow and write FALLS on one sheet. Draw a flat line and write STAYS UP on the other. Lay both sheets next to the things. 3. Name each thing together.  
   *Parent says:* Here are ten things from our home. When we let go of them, what will they do? Let's guess first.  
   *Child mode:* Look at the ten things. Say the name of each one.
-  - Note: Blow up the balloon yourself and tie it. Leave a gap around you, away from the fan.
+  - Note: Blow up the balloon yourself and tie it. Do the test in a clear space, away from the fan.
 - **s2 (4 min)**  
   *Parent does:* Your child puts each thing on one of the two sheets, as a guess. Ask why for two or three of them.  
   *Parent says:* Put each thing on FALLS or STAYS UP. Which will fall? Will any stay up? Why do you think so?  
@@ -227,14 +227,14 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   *Parent says:* Let's move everything to where it really went. How many things are left on STAYS UP?  
   *Child mode:* Move each thing to the right sheet. Is anything left on STAYS UP?
   - Ask: How many things stayed up? (good: None.; Zero. Everything fell.)
-  - Note: The STAYS UP sheet ends up empty. That surprise is the heart of the test.
+  - Note: The STAYS UP sheet ends up empty. That surprise is the main point of the test.
 - **s6 (1 min)**  
-  *Parent does:* Ask what your child found, and why they think it happened. Then the check question.  
+  *Parent does:* Ask what your child found, and why they think it happened. Then ask the check question.  
   *Parent says:* What did you find out? Why do you think everything fell, even the balloon?  
   *Child mode:* What did you find out? Why did everything fall?
   - Ask: What did you find out? (good: Everything fell.; Some things fell fast and some fell slowly.; Nothing stayed up.)
   - Note: Wait for your child's own words first. Then say it plainly: everything falls when we let go. The Earth pulls everything down. Scientists call this pull gravity.
-  - Check: A girl called Kavya lets go of a feather. What will the feather do? → **Fall slowly and land**
+  - Check: You let go of a feather. What will the feather do? → **Fall slowly and land**
 ### e2 · Right on the Dot: where does it land? (15 min)
 - **question:** When you let go of something, where does it land? Right under your hand, or somewhere else?
 - **predict:** If you hold a lemon right above the dot and let go, will it land on the dot? Will a sheet of paper land on the dot too? Why do you think so?
@@ -249,9 +249,9 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   *Parent does:* Ask your child to guess before any drops.  
   *Parent says:* If you hold the lemon right above the dot and let go, where will it land? And the paper? Why do you think so?  
   *Child mode:* Where will the lemon land? And the paper? Why?
-  - Ask: Why do you think so? (good: It goes straight down.; It might roll away.; The paper will fly around.)
+  - Ask: Why do you think the lemon and the paper will land there? (good: It goes straight down.; It might roll away.; The paper will fly around.)
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child holds the lemon at chest height, right above the dot. 2. They look down to line it up. 3. They open their hand. 4. Put a coin where it first touched. Do it three times, then three times with the cap.  
+  *Parent does:* 1. Your child holds the lemon at chest height, right above the dot. 2. They look down to line it up. 3. They open their hand. 4. Put a coin on the spot where the lemon first touched the newspaper. Do this three times with the lemon, then three times with the cap.  
   *Parent says:* Look down. Is the lemon right above the dot? Now open your hand. Where did it land? Let's do it again.  
   *Child mode:* Hold the lemon over the dot. Look down. Let go. Where did it land?
   - Ask: Where did the lemon land? (good: On the dot.; Right under my hand.; Very close to the dot.)
@@ -263,21 +263,22 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   - Ask: What did the paper do? (good: It rocked from side to side.; It slid away and landed off the dot.; It fell slowly.)
   - Note: A flat sheet usually swings and slides sideways, so it often lands away from the dot. The air pushes it about. It still always comes down.
 - **s5 (2 min)**  
-  *Parent does:* Ask what your child found. Then the check question.  
+  *Parent does:* Ask what your child found. Then ask the check question.  
   *Parent says:* Where did the lemon land each time? Where did the paper land? Why do you think they were different?  
   *Child mode:* Where did the lemon land? Where did the paper land? Why?
   - Note: Say it plainly after your child has spoken: a lemon falls straight down, to the spot right under your hand. A flat paper is pushed about by the air, but it still falls.
-  - Check: A girl called Diya holds a ball right above a steel bowl and lets go. Where will the ball land? → **In the bowl, right under her hand**
+  - Check: You hold a ball right above a steel bowl and let go. Where will the ball land? → **In the bowl, right under your hand**
 
 ## Activities
 ### a1 · Take Away the Holder (10 min)
+- **problem:** A thing that is not falling is being held up by something. In this activity you find out what holds up a tumbler, a key and a ceiling fan. Then you take the holder away, and you watch what the Earth's pull does.
 - **record:** Draw one thing in your home and the holder that holds it up. Draw an arrow down to show the Earth's pull.
 - **s1 (3 min)**  
-  *Parent does:* 1. Hold the book flat above the cushion, at your child's chest height. 2. Stand the tumbler on the book. 3. Ask the question. 4. Slide the book away sideways, quickly.  
+  *Parent does:* 1. Hold the book flat above the cushion, at your child's chest height. 2. Stand the tumbler on the book. 3. Ask what is holding the tumbler up. 4. Slide the book away sideways, quickly.  
   *Parent says:* The tumbler is not falling. What is holding it up? What will happen if I take the book away? Watch.  
-  *Child mode:* The tumbler is not falling. What holds it up? Watch the book go.
+  *Child mode:* The tumbler is not falling. What holds it up? Watch what happens when the book is pulled away.
   - Ask: What held the tumbler up? (good: The book.; Your hands, holding the book.)
-  - Ask: What happened when the book went? (good: The tumbler fell.; It fell straight down onto the cushion.)
+  - Ask: What happened when the book was pulled away? (good: The tumbler fell.; It fell straight down onto the cushion.)
 - **s2 (2 min)**  
   *Parent does:* Your child holds the end of the thread so the key hangs down. Then they let go of the thread, over the cushion.  
   *Parent says:* What is holding the key up now? What will happen if you let go of the thread? Try it.  
@@ -293,7 +294,7 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   *Parent does:* Ask the check question.  
   *Parent says:* One question about holders.  
   *Child mode:* Answer one question.
-  - Check: A girl called Lakshmi hangs a towel on a hook. What happens if the hook breaks? → **The towel falls down**
+  - Check: A towel hangs on a hook. What happens if the hook breaks? → **The towel falls down**
 ### a2 · Falling Watch: the tap and the window (10 min)
 - **record:** Draw the tap with water falling. Then draw the falling things you saw from the window, with a tally mark for each.
 - **s1 (3 min)**  
@@ -309,12 +310,12 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   - Ask: What did you see falling? (good: A leaf.; Raindrops.; Water dripping from the air conditioner pipe.)
   - Note: On a dry day, there may be only a few things. Look for leaves, drips from a pipe or an air cooler, and a peg or a petal that has come off. If there is nothing at all, drop a leaf from a potted plant yourself.
 - **s3 (1 min)**  
-  *Parent does:* Count the marks together. Then the check question.  
+  *Parent does:* Count the marks together. Then ask the check question.  
   *Parent says:* How many falling things did you see? Did anything fall up?  
   *Child mode:* Count your marks. Did anything fall up?
-  - Check: A girl called Bornali has a potted plant. A dry leaf comes off. Where does the leaf go? → **Down to the floor**
+  - Check: A dry leaf comes off a potted plant. Where does the leaf go? → **Down to the floor**
 ### a3 · Fall Like a Leaf, Fall Like a Stone (8 min)
-- **record:** Draw yourself falling like your favourite thing.
+- **record:** Draw a stone, a leaf and a feather. Next to each one, draw how it fell: straight down and fast, or swinging and slow.
 - **s1 (5 min)**  
   *Parent does:* Name one thing at a time: a stone, a leaf, a feather, a raindrop, a balloon, a ball. Your child falls gently down onto the mat the way it falls.  
   *Parent says:* You are a stone. Let go! Now you are a leaf. How does a leaf fall? Now a feather. Now a ball. What does a ball do when it lands?  
@@ -329,7 +330,7 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   *Parent does:* Ask the check question.  
   *Parent says:* One question about jumping.  
   *Child mode:* Answer one question.
-  - Check: A girl called Zoya jumps as high as she can. What happens next? → **She comes back down**
+  - Check: You jump as high as you can. What happens next? → **You come back down**
 
 ## Projects
 ### p1 · The Wall Marble Run (30 min, 2 days)
@@ -362,11 +363,11 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   *Parent does:* Ask the check question.  
   *Parent says:* One question about the marble run.  
   *Child mode:* Answer one question.
-  - Check: A girl called Revathi makes a marble run and puts a marble at the top. Which way does it always go in the end? → **Down to the bowl at the bottom**
+  - Check: You make a marble run and put a marble at the top. Which way does the marble always go in the end? → **Down to the bowl at the bottom**
 
 ## Challenges
 ### c1 · Hold Up a Toy Without Your Hands (15 min)
-- **problem:** Malini wants her small teddy to stay up in the air for one minute, so she can draw a picture of it. She cannot hold it, and it cannot sit on the floor, a table, a bed or a shelf. How can she keep it up?
+- **problem:** You want a small soft toy to stay up in the air for one minute, so you can draw a picture of it. You cannot hold it, and it cannot sit on the floor, a table, a bed or a shelf. How can you keep it up?
 - **your turn:** Find two different ways to keep the toy up. What is the toy's support each time? What happens if you take that support away?
 - **constraints:** The toy must be up in the air, not sitting on a floor, table, bed or shelf.; Nobody may hold the toy.; Use only things from home.; The toy must stay up for one whole minute.
 - **general:** A cradle hangs from a hook or a beam, and holds a baby up.; Clothes pegs hold wet clothes up on a washing line.; Cable cars, like the ones in Gangtok and other hill towns, hang from strong cables.
@@ -382,15 +383,15 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
   *Child mode:* Try your idea. Is the toy still up? What is holding the toy?
   - Note: If the toy keeps slipping, ask where the toy is slipping from, and what could hold that part.
 - **s3 (3 min)**  
-  *Parent does:* Ask what worked, and what the support was. Then the check question.  
+  *Parent does:* Ask what worked, and what the support was. Then ask the check question.  
   *Parent says:* Which way worked best? What was the toy's support? What would happen if we cut the string?  
   *Child mode:* What held the toy up? What if we cut the string?
-  - Check: Malini's teddy hangs from a string. She cuts the string. What happens? → **The teddy falls down**
+  - Check: A teddy hangs from a string. You cut the string. What happens? → **The teddy falls down**
 
 ## Worksheets
 ### Everything Falls (core) (core, 10 questions)
 1. (sort) A grown-up reads each one. Does it fall fast or slowly when you let go? Colour the fast ones red and the slow ones blue.  
-   **Answer:** A steel spoon → Fast; A feather → Slow; A lemon → Fast; Cotton wool → Slow; A coin → Fast; A balloon you blew up → Slow. *Why:* Small, solid things fall fast. Light, wide things are slowed by the air, so they fall slowly. A strong answer knows that all six fall.
+   **Answer:** A steel spoon → Fast; A feather → Slow; A lemon → Fast; Cotton wool → Slow; A coin → Fast; A balloon you blew up → Slow. *Why:* Small, solid things fall fast. Light, wide things are slowed by the air, so they fall slowly. A strong answer also says that all six fall.
 2. (draw) Draw one thing you let go of in the Let-Go Test. Draw an arrow to show which way it went.  
    **Answer:** Any thing from the test, with an arrow pointing down.. *Why:* A strong drawing shows the thing and an arrow pointing down, towards the floor.
 3. (truefalse) A feather never falls. It floats in the air for ever.  
@@ -399,41 +400,41 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
    **Answer:** False. *Why:* False. The Earth pulls you all the time. You go up because your legs push, and the Earth's pull brings you back down.
 5. (match) Draw a line from each thing to the support that holds it up.  
    **Answer:** A ceiling fan → A hook in the ceiling; A clock → A nail in the wall; Wet clothes on the line → Clothes pegs; You, sitting down → A chair. *Why:* Each thing stays up only because its support holds it. A strong answer can say what would happen if the support were taken away.
-6. (write) Say out loud, and a grown-up writes it down: why did the tumbler fall when the book was pulled away?  
-   **Answer:** The book was holding it up. When the book went, nothing held it, so the Earth pulled it down.. *Why:* A strong answer says the book held the tumbler up, and that the Earth's pull made it fall once nothing held it.
-7. (mcq) A girl called Mohini lets go of a mango and a feather from the same height at the same time. Which one reaches the floor first?  
+6. (write) In Take Away the Holder, why did the tumbler fall when the book was pulled away? Say your answer out loud, and a grown-up writes it down.  
+   **Answer:** The book was holding it up. When the book was pulled away, nothing held it, so the Earth pulled it down.. *Why:* A strong answer says the book held the tumbler up, and that the Earth's pull made it fall once nothing held it.
+7. (mcq) You let go of a mango and a feather from the same height at the same time. Which one reaches the floor first?  
    Options: The mango / The feather / They land together  
    **Answer:** The mango. *Why:* The mango lands first. The air slows the feather, so it takes longer. Both fall.
-8. (perspective) Gurpreet and Lakshmi watched the balloon in the Let-Go Test. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.  
-   **Answer:** A strong answer picks a side with a reason from the test. Lakshmi is right that it landed. Gurpreet is right that it moved very slowly, as if floating, and that it is light.. *Why:* The balloon did fall, all the way to the floor. But Gurpreet saw something true: it moved so slowly that it seemed to float, because the air slowed it.
+8. (perspective) The first child and the second child watched the balloon in the Let-Go Test. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.  
+   **Answer:** A strong answer picks a side with a reason from the test. The second child is right that it landed. The first child is right that it moved very slowly, as if floating, and that it is light.. *Why:* The balloon did fall, all the way to the floor. But the first child saw something true: it moved so slowly that it seemed to float, because the air slowed it.
 9. (odd) Three of these fall when you let go. One goes up. Which one goes up?  
    Options: A steel spoon / A mango / A helium balloon from a fair / A raindrop  
    **Answer:** 2. *Why:* A helium balloon goes up, because the heavier air around it pushes it up. The others fall down.
 10. (draw) Draw yourself jumping. Then draw yourself landing. Draw an arrow to show the Earth's pull.  
    **Answer:** Two pictures: the child in the air, then on the ground, with an arrow pointing down.. *Why:* A strong drawing shows that the child comes back down, and the arrow points down towards the ground.
 ### Down and Held Up (stretch) (stretch, 10 questions)
-1. (mcq) A girl called Kiran squashes a sheet of paper into a tight ball. She drops it next to a flat sheet of the same paper. Which one lands first?  
+1. (mcq) You squash a sheet of paper into a tight ball. You drop it next to a flat sheet of the same paper. Which one lands first?  
    Options: The tight ball / The flat sheet / They land together  
    **Answer:** The tight ball. *Why:* The ball lands first. It is the same paper, but the flat sheet is wide, so the air slows it down more.
-2. (draw) Draw the dot on the newspaper. Draw the lemon falling onto it. Then draw the path a sheet of paper took as it fell.  
+2. (draw) In Right on the Dot, you dropped a lemon and a sheet of paper onto a dot on a newspaper. Draw the dot. Draw the lemon falling onto it. Then draw the path the sheet of paper took as it fell.  
    **Answer:** A straight line down onto the dot for the lemon, and a wobbly, swinging line for the paper, landing away from the dot.. *Why:* A strong drawing shows the lemon going straight down and the paper swinging from side to side, because the air pushes the paper about.
 3. (order) Put these in order. A grown-up reads them.  
-   **Answer:** ['Anjali holds the ball up high.', 'Anjali opens her hand.', 'The ball falls down.', 'The ball hits the floor.']. *Why:* The ball falls only after Anjali's hand stops holding it.
+   **Answer:** ['You hold the ball up high.', 'You open your hand.', 'The ball falls down.', 'The ball hits the floor.']. *Why:* The ball falls only after your hand stops holding it.
 4. (truefalse) A cup standing still on a table is not being pulled by the Earth.  
-   **Answer:** False. *Why:* False. The Earth pulls the cup all the time. The table holds it up. In Take Away the Holder, the tumbler fell the moment the book went, so the pull was there all along.
-5. (perspective) Ishita and her brother Farhan are watching a kite bird circling high over Kolkata. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.  
-   **Answer:** A strong answer picks a side with a reason. For Ishita: when the bird folds her wings, she swoops down, so the wings are holding her up. For Farhan: birds are light for their size, and that helps.. *Why:* Both see something true. Birds have light bodies for their size, which helps them fly. But a light bird still falls when she folds her wings. Her spread wings push the air down, and the air pushes her up.
+   **Answer:** False. *Why:* False. The Earth pulls the cup all the time. The table holds it up. In Take Away the Holder, the tumbler fell the moment the book was pulled away, so the pull was there all along.
+5. (perspective) The second child and her brother the first child are watching a kite bird circling high over Kolkata. A grown-up reads what each one said. Say your answer out loud, and the grown-up writes it.  
+   **Answer:** A strong answer picks a side with a reason. For the second child: when the bird folds her wings, she swoops down, so the wings are holding her up. For the first child: birds are light for their size, and that helps.. *Why:* Both see something true. Birds have light bodies for their size, which helps them fly. But a light bird still falls when she folds her wings. Her spread wings push the air down, and the air pushes her up.
 6. (match) Draw a line from each thing to the way it falls.  
    **Answer:** A stone → Straight down, fast; A leaf → Swinging from side to side, slowly; A rubber ball → Down, bounces up a little, then down again; Water from a tap → In a stream, straight down. *Why:* Everything falls, but in different ways. The air swings a leaf about, and a ball bounces before it stops.
 7. (label) Look at the picture of a kitchen. A grown-up points to each thing. Say what is holding it up, and the grown-up writes it.  
    **Answer:** ['the stove', 'the shelf', 'a nail in the wall', 'a hook on the wall']. *Why:* Every thing that is not falling has a support. A strong answer names a real support for each one.
-8. (mcq) In the Wall Marble Run, a girl called Kavya puts the marble at the top. Which way does the marble always end up going?  
-   Options: Down to the bottom / Up to the top of the door / It stays where she put it  
+8. (mcq) In the Wall Marble Run, you put the marble at the top. Which way does the marble always end up going?  
+   Options: Down to the bottom / Up to the top of the door / It stays where you put it  
    **Answer:** Down to the bottom. *Why:* The Earth pulls the marble down. The tubes only change the path it takes.
-9. (write) Say out loud, and a grown-up writes it: a friend says rain falls because the clouds throw it down. What really makes raindrops come down?  
+9. (write) A friend says rain falls because the clouds throw it down. What really makes raindrops come down? Say your answer out loud, and a grown-up writes it.  
    **Answer:** The Earth's pull, gravity, brings the raindrops down.. *Why:* A strong answer says the Earth pulls the raindrops down, the same way it pulls a spoon.
 10. (truefalse) If someone took the floor away, you would stay up in the air.  
-   **Answer:** False. *Why:* False. The floor is what holds you up. Without it, the Earth's pull would make you fall, like the tumbler when the book went.
+   **Answer:** False. *Why:* False. The floor is what holds you up. Without it, the Earth's pull would make you fall, like the tumbler in Take Away the Holder when the book was pulled away.
 
 ## Videos
 - **A water drop falling in slow motion** (NatureFootage, 1 min) id `egOXgqjpNUM`: Shows a single drop falling straight down and landing, slowly enough to watch. *Check:* Found by search: "Slow Motion Water Drop Falling" by NatureFootage, 19 seconds. A parent may preview it.
@@ -453,19 +454,19 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 4. (mcq) What pulls a ripe mango down from the tree?  
    Options: The Earth's pull, gravity / The wind, every time / The air pushing it down  
    **Answer:** The Earth's pull, gravity. *Why:* Gravity, the pull of the Earth, brings the mango down. Wind can shake a mango loose, but gravity makes it fall.
-5. (mcq) A girl called Sana has a photo frame on a nail. What is holding the frame up?  
+5. (mcq) A photo frame hangs on a nail. What is holding the frame up?  
    Options: The nail / The air / Nothing  
    **Answer:** The nail. *Why:* The nail is the frame's support. Without it, the frame would fall.
 6. (mcq) What is holding you up when you stand in your room?  
    Options: The floor / The ceiling / The fan  
    **Answer:** The floor. *Why:* The floor is your support. The Earth pulls you down, and the floor holds you up.
-7. (mcq) A girl called Malini puts a mug right under a dripping tap. Where do the drops land?  
+7. (mcq) A mug sits right under a dripping tap. Where do the drops land?  
    Options: In the mug, straight below the tap / On the wall behind the mug / They go up into the tap  
    **Answer:** In the mug, straight below the tap. *Why:* A drop falls straight down, to the spot right under where it left the tap.
 8. (mcq) Which way is 'down', anywhere on the Earth?  
    Options: Towards the ground / Towards the sky / Towards the Sun  
    **Answer:** Towards the ground. *Why:* Down always means towards the ground, because the Earth pulls everything towards it.
-9. (mcq) A girl called Jyoti is looking out of the window in Kochi during the monsoon. Which of these does she see falling?  
+9. (mcq) You look out of a window during the monsoon. Which of these do you see falling?  
    Options: Raindrops / The clouds coming down to the street / The buildings  
    **Answer:** Raindrops. *Why:* Raindrops fall from the clouds to the ground, pulled by the Earth.
 10. (mcq) Why does a feather fall more slowly than a steel spoon?  
@@ -474,9 +475,9 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 
 ## Applications
 - Water tanks sit on the roofs of buildings, so the water falls down the pipes to every tap in every flat.
-- Water falling from high dams, such as the Idukki dam in Kerala, turns machines that make electricity.
+- Water falling from high dams, such as the Idukki dam in Kerala, spins big wheels called turbines. The turbines make electricity.
 - Playground slides work because the Earth pulls you down the slope.
-- Builders hang a heavy weight on a string, called a plumb line, to find straight down, so their walls stand straight.
+- Builders hang a heavy weight on a string, called a plumb line, to show which way is straight down. Then they can build their walls straight up.
 - Mango pickers use a long pole with a little bag at the top, so the falling mangoes drop into the bag, not onto the ground.
 
 ## Spotted around us
@@ -488,8 +489,8 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 
 ## Open questions
 - **How does the Earth pull a spoon without touching it?** Scientists can measure the pull very well, and have two good ideas about it. But nobody yet knows what gravity is at the very tiniest scale.
-- **Why is the Earth's pull so weak compared with a magnet's?** A small fridge magnet can hold a steel pin up against the pull of the whole Earth. Scientists do not yet know why gravity is so much weaker than the other forces.
-- **Is gravity made of tiny pieces?** Light comes in tiny pieces. Some scientists think gravity does too, but nobody has ever found one.
+- **Why is the Earth's pull so weak compared with a magnet's?** A small fridge magnet can hold a steel pin up, even though the whole Earth is pulling the pin down. So the magnet's pull is stronger than gravity, even though the magnet is tiny. Scientists do not yet know why gravity is so much weaker than the other forces.
+- **Is gravity made of tiny pieces?** Light comes in tiny pieces called photons. Some scientists think gravity may also come in tiny pieces. Nobody has ever found one.
 
 ## Questions to ask kids
 - What is holding up the fan right now?
@@ -510,8 +511,8 @@ That night, Nila lay in bed. The bed held her up. The floor held the bed. The bu
 - Why did the clothes peg love the washing line? *Because they always hang out together!*
 
 ## Connected maths
-- A girl called Kavya did the Let-Go Test with a different ten things from yours. She counted 6 things that fell fast and 4 things that fell slowly. Did more things fall fast or slowly? How many things fell in all? **More fell fast. 10 things fell in all.**. 6 is more than 4, so more fell fast. 6 and 4 make 10. That was every thing she tried, so nothing stayed up. (queues `math.data.sorting-and-tallies.L1`)
-- In Catch It Before It Lands, a girl called Lakshmi caught the hanky 3 times out of 3. She caught the sock ball only 1 time out of 3. Which one was easier to catch? Why do you think so? **The hanky was easier. It falls slowly, so she had more time.**. 3 catches is more than 1 catch, so the hanky was easier. The hanky falls slowly because the air slows it down. The sock ball falls fast, so there is less time to catch it. (queues `math.number-sense.comparing-ordering.L1`)
+- In a Let-Go Test with ten things, 6 things fell fast and 4 things fell slowly. Did more things fall fast or slowly? How many things fell in all? **More fell fast. 10 things fell in all.**. 6 is more than 4, so more fell fast. 6 and 4 make 10. That was all ten things, so nothing stayed up. (queues `math.data.sorting-and-tallies.L1`)
+- In Catch It Before It Lands, a child caught the hanky 3 times out of 3. The child caught the sock ball only 1 time out of 3. Which one was easier to catch? Why do you think so? **The hanky was easier. It falls slowly, so there was more time to catch it.**. 3 catches is more than 1 catch, so the hanky was easier. The hanky falls slowly because the air slows it down. The sock ball falls fast, so there is less time to catch it. (queues `math.number-sense.comparing-ordering.L1`)
 - You hold a steel spoon over a plate and let go. Is it certain, possible or impossible that the spoon falls? Is it certain, possible or impossible that it floats up to the ceiling? **It is certain that it falls. It is impossible that it floats up.**. In the Let-Go Test, everything we let go of fell. Nothing holds the spoon, and the Earth always pulls it. So falling is certain, and floating up is impossible. (queues `math.probability.likely-and-unlikely.L1`)
 
 ## Song
