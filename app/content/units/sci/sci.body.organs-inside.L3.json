@@ -177,7 +177,7 @@
    "concept": "The heart: a pump that never rests",
    "status": "defined",
    "definition": "The heart is a hollow muscle about the size of your fist. It squeezes again and again to pump blood all around the body.",
-   "description": "Your heart is a bag of strong muscle with four rooms inside. Each squeeze pushes blood out into tubes that reach every part of you. Blood carries oxygen and food to every cell, and carries waste away. Then the heart relaxes, fills with blood again and squeezes again. In a grown-up, this happens about 70 times every minute. That is about one hundred thousand beats every day. A child's heart beats a little faster. The heart is in the middle of your chest, tipped a little to the left. That is why you feel the beat most on the left. The heart even has its own tiny timekeeper inside it, which starts each beat. It can keep beating for a while even after it is taken out of a body.",
+   "description": "Your heart is a bag of strong muscle with four rooms inside. Each squeeze pushes blood out into tubes that reach every part of you. Blood carries oxygen and food to every cell, and carries waste away. Then the heart relaxes, fills with blood again and squeezes again. In a grown-up, this happens about 70 times every minute. That is about one hundred thousand beats every day. A child's heart beats a little faster. The heart is in the middle of your chest, tipped a little to the left. That is why you feel the beat most on the left. The heart has a small group of special cells that work like a timekeeper. These cells start each beat by themselves. That is why a heart can keep beating for a while even after it is taken out of a body.",
    "examples": [
     "A heart going to a person who needs a new one is kept cold in a box. Once it is joined up and warmed, it can start beating again in the new body.",
     "When you are scared, your heart beats faster. Your brain sends a message to speed it up.",
@@ -223,7 +223,7 @@
    "examples": [
     "When a cricket ball flies towards you, your eyes tell your brain and your brain tells your hands to catch it.",
     "When you sleep, your brain keeps you breathing and sorts out what you learned that day.",
-    "Messages cross over. The left side of your brain moves the right side of your body."
+    "Messages cross over in the brain. The left side of your brain moves the right side of your body, and the right side moves the left side."
    ],
    "perspectives": [],
    "art": "A brain inside a head outline, with glowing threads running down the spinal cord to the hands and feet, and little message sparks moving both ways.",
@@ -776,7 +776,8 @@
      "do": "Count the cards. Then ask each player to point to all four big organs on their own body.",
      "say": "Count your cards! Now, without the outline, point to your own brain, heart, lungs and stomach.",
      "kid": "Count your cards. Now point to your own brain, heart, lungs and stomach.",
-     "think": "Which organ was hardest to place? Why do you think so?"
+     "think": "Many people place the stomach behind the belly button. Where does it really sit? What fills the belly below it?",
+     "parent": "Expect this answer. The stomach sits under the left ribs, and the intestines fill the belly below it. Many people put the stomach behind the belly button, and the clue cards were meant to catch that mistake."
     }
    ]
   },
@@ -961,7 +962,8 @@
        ]
       }
      ],
-     "think": "Which event card made the most organs busy at once?"
+     "think": "Which event card made the most organs busy at once?",
+     "parent": "Many cards make three organs busy at once, such as running for the bus, swimming or playing kabaddi. The point is that in a real day almost nothing uses just one organ."
     }
    ]
   }
@@ -1238,21 +1240,21 @@
      "p": "Three girls in a Class 3 group are arguing about which organ is the boss of the body.",
      "views": [
       {
-       "who": "The first person",
+       "who": "Kavya",
        "says": "The brain is the boss. It sends messages that tell the heart and lungs how fast to work."
       },
       {
-       "who": "The second person",
+       "who": "Lakshmi",
        "says": "The heart is the boss. Without its blood, the brain stops working in a few minutes."
       },
       {
-       "who": "The third person",
+       "who": "Zoya",
        "says": "There is no boss. The organs are a team, and each one needs the others."
       }
      ],
      "ask": "Pick one girl. Give one piece of evidence from this unit for her side. Then say what one of the other girls would answer back.",
      "lines": 5,
-     "a": "A strong answer picks a side and backs it with a real fact. For the first person: the brain speeds up the heart when you run or are scared. For the second person: the brain dies within minutes without blood, and the heart starts its own beat. For the third person: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.",
+     "a": "A strong answer picks a side and backs it with a real fact. For Kavya: the brain speeds up the heart when you run or are scared. For Lakshmi: the brain dies within minutes without blood, and the heart starts its own beat. For Zoya: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.",
      "why": "Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence."
     },
     {
@@ -1497,6 +1499,7 @@
    "mins": 25,
    "days": 1,
    "question": "Does liquid around a brain help protect it when you move?",
+   "problem": "Your brain is soft, a bit like a raw egg. It sits inside your skull, which is a hard bony case, and it floats in a clear liquid. In this experiment a raw egg stands for your brain, and a jar stands for your skull. You find out whether water around the egg protects it better than an empty jar does.",
    "predict": "Before you test, guess. Will a raw egg crack first in an empty jar, or in a jar filled to the top with water? Why do you think so?",
    "fair_test": "To make it fair, use two eggs of the same size and two jars of the same size. Shake both the same way, the same number of times. Only the water changes.",
    "results_table": [
@@ -1635,6 +1638,7 @@
    "mins": 25,
    "days": 1,
    "question": "Does churning food, like the stomach does, break it down faster?",
+   "problem": "Your stomach is a stretchy bag with muscle walls. After you eat, the walls squeeze and churn the food for hours. In this experiment a plastic bag stands for your stomach, and a biscuit stands for your food. You find out whether squeezing the bag breaks the biscuit down faster than leaving it still.",
    "predict": "Before you test, guess. After five minutes, will the biscuit in the squished bag or the still bag be more broken up? Why do you think so?",
    "fair_test": "To make it fair, put the same biscuit and the same amount of water in each bag, and leave them for the same time. Only the squishing changes.",
    "results_table": [
@@ -1742,7 +1746,8 @@
        ]
       }
      ],
-     "think": "Why do you think grown-ups say to chew your food well?"
+     "think": "Why do you think grown-ups say to chew your food well?",
+     "parent": "Chewing breaks food into small bits before it reaches the stomach. Small bits break down faster, as the squished biscuit did, and as the crushed mishri did in the lump or bits test."
     },
     {
      "id": "s6",
@@ -1760,6 +1765,7 @@
    "mins": 25,
    "days": 1,
    "question": "Does a lump of mishri disappear into water faster whole, or crushed into small bits?",
+   "problem": "Your lungs have hundreds of millions of tiny air bags instead of one big bag. Oxygen passes into your blood through the surface of these bags. In this experiment you find out how the size of the pieces changes the speed at which sugar disappears into water. Then you can work out why many tiny bags work better than one big bag.",
    "predict": "Before you test, guess. Will the whole lump or the crushed lump disappear into the water first? Why do you think so?",
    "fair_test": "To make it fair, use two lumps of mishri the same size, two glasses the same size with the same amount of water from the same jug, and stir both the same way. Only the crushing changes. Do the test twice.",
    "results_table": [
@@ -2006,7 +2012,8 @@
      "do": "Ask your child to knock gently on the top of their head, then draw dots on a quick outline.",
      "say": "Knock gently on your head. That hard part is your skull. What do you think is inside? Now draw yourself and put a dot for each thing you felt.",
      "kid": "Knock gently on your head. That is your skull. What is inside? Draw yourself. Put a dot for each thing you felt.",
-     "think": "You felt your heart, your breath, your swallow and your skull. What do you think you could not feel at all?"
+     "think": "You knocked on your skull and felt your ribs move. Which soft organs do you think each of these bones guards?",
+     "parent": "The skull guards the brain. The ribs guard the heart and the lungs. Both are hard bone around soft organs."
     }
    ]
   },
@@ -2312,6 +2319,7 @@
   {
    "id": "a5",
    "title": "Same Plan, Different Animals",
+   "problem": "A fish, a cow, an octopus and you are all animals. In this activity you look at where each animal keeps a heart, a stomach and a brain, and how each one breathes. You will see that some animals have almost the same plan inside as you, and some are very different.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -2403,7 +2411,8 @@
      "do": "Draw yourself and one animal side by side, using the same colour for the same organ in each.",
      "say": "Draw yourself and one animal. Use red for both hearts and pink for both brains. What is the same? What is different?",
      "kid": "Draw yourself and one animal. Same colour for the same organ. What is the same?",
-     "think": "Why do you think a fish and you have the same plan inside?"
+     "think": "Why do you think a fish and you have the same plan inside?",
+     "parent": "A fish and a person are both animals with a backbone. All animals with a backbone came from one very distant ancestor, so their insides follow a similar plan. There is a brain in a skull, a heart near the front and a gut below. That is also why a fish's air bag and our lungs began as the same thing."
     }
    ]
   },
@@ -2688,7 +2697,8 @@
      "do": "Improve the design and test once more.",
      "say": "What would make it better? Change one thing and test again.",
      "kid": "Change one thing to make it better. Test again.",
-     "think": "Why do people wear helmets on scooters, even though they already have a skull?"
+     "think": "Why do people wear helmets on scooters, even though they already have a skull?",
+     "parent": "A skull is hard, but a big knock can still hurt the brain, even with the liquid cushion around it. A helmet adds another hard shell and soft foam, so much less of the knock reaches the skull."
     }
    ]
   },
@@ -2774,7 +2784,8 @@
      "do": "Show the model to someone and explain it.",
      "say": "Tell someone what each part is, and why the left lung has a dent.",
      "kid": "Show your model. Explain each part.",
-     "think": "What would happen if the ribs were one solid sheet of bone?"
+     "think": "What would happen if the ribs were one solid sheet of bone?",
+     "parent": "The ribs could not swing up and out, so the chest could not get bigger when the lungs fill with air. Breathing in would be very hard. That is why real ribs have gaps and muscles between them."
     }
    ]
   }

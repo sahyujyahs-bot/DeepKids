@@ -435,7 +435,7 @@
    "for": "The body leaves food, friendly microbes and a growing baby alone, though they are all 'not self'.",
    "against": "The body really does learn its own self, and some foreign things are attacked even when they do little harm. Most scientists now think both self and danger matter.",
    "status": "debated",
-   "context": "This card is about a challenging idea of how the immune system decides what to attack."
+   "context": "This card is about an idea called the danger model. Danger signals are chemicals that hurt or stressed cells send out. The idea says white blood cells attack when they sense these signals, and not just because something is new. That would explain why the body leaves food, friendly microbes and a growing baby alone."
   },
   {
    "claim": "Germs inside the body are killed only by chemicals in the blood, not by cells that eat them.",
@@ -443,7 +443,7 @@
    "for": "Each side had strong experiments. Metchnikoff watched cells eat. Ehrlich and others showed blood without cells could still kill some germs.",
    "against": "Both were right. In 1908 they shared the Nobel Prize. The immune system uses both eating cells and germ-grabbing chemicals.",
    "status": "rejected",
-   "context": "This card is about a famous argument between two scientists about how the body fights germs, and how it ended."
+   "context": "This card is about a famous argument between two scientists. Élie Metchnikoff said that cells which eat germs do the work. Paul Ehrlich said that chemicals in the blood do the work. Think about which side you would have backed, and then see how the argument ended."
   },
   {
    "claim": "You catch a cold just from being cold or getting your hair wet.",
@@ -721,6 +721,7 @@
      "say": "Let's count. Who has the most points? Which defence did we use most? Which defences stopped germs that were already inside?",
      "kid": "Count your points. Which defence did you use most?",
      "think": "Your real body plays this game every second, and it usually wins. What do you think happens on the days it doesn't?",
+     "parent": "Expect something like this. Sometimes a germ gets past the walls, and the white blood cells cannot beat it quickly, so a person falls ill. Most of the time the body wins, which is why we usually stay well.",
      "context": "This is the last step of Get Past the Walls! This is a card game about the body's defences. One side plays germs trying to get in. The other side plays the walls and white blood cells that stop them."
     }
    ]
@@ -824,6 +825,7 @@
      "say": "Which round was hardest for the germ? Why?",
      "kid": "Which round was hardest for the germ? Say why.",
      "think": "In round three the white blood cell started next to the germ. In your body, what tells white blood cells where the germs are?",
+     "parent": "Expect this answer. The hurt place sends out chemical signals, and white blood cells follow those signals to the germs.",
      "context": "This is the last step of Germ Tag. This is a running game. Some players are germs trying to reach a cushion, the body. Others are skin and a fast white blood cell who tags germs out."
     }
    ]
@@ -1385,7 +1387,7 @@
      "p": "About half the living cells on and in your body are microbes, mostly in your gut. Two cousins argue about them.",
      "views": [
       {
-       "who": "The first child, aged 10",
+       "who": "Meenakshi, aged 10",
        "says": "My microbes are part of me. They help me digest food and keep germs away. I could not live well without them."
       },
       {
@@ -2187,6 +2189,7 @@
       "why": "Tears are a defence. When something stings or lands in the eye, the eye makes extra tears to wash it out. You weren't sad. Picking 'sad' shows we often think tears are only for feelings. In fact your eyes make tears all day, and every blink spreads them."
      },
      "think": "Your eyes washed themselves without asking you. What else does your body do to protect you without asking?",
+     "parent": "Expect answers such as blinking, sneezing, a scab forming over a cut, or the skin going red and warm around a scrape. All of these happen without you deciding to do them.",
      "context": "This is the last step of Onion Tears. This is a short noticing activity. A grown-up cuts an onion, and you notice what your eyes do. It shows that tears are a defence, not just for crying."
     }
    ]
@@ -2194,6 +2197,7 @@
   {
    "id": "a2",
    "title": "Look at Your Skin Wall",
+   "problem": "The top layer of your skin is made of flat dead cells. New skin cells grow underneath and push up, and the old cells flake off. Germs that landed on your skin flake off with them. In this activity you lift some of these old flakes off your arm with sticky tape, and you look at them closely.",
    "mins": 15,
    "days": 1,
    "context": "In this activity you look closely at your own skin with a magnifying glass. You use sticky tape to pick up old skin flakes, which shows how skin keeps renewing its outer wall.",
@@ -2303,6 +2307,7 @@
   {
    "id": "a3",
    "title": "Be a Phagocyte",
+   "problem": "A phagocyte is a white blood cell that eats germs. White blood cells have no eyes, so they find germs by touch and by chemical signals. In this activity your sock hand is the white blood cell. The balls of scrunched paper are the germs, and the bottle caps are the body's own cells. Your job is to find the paper germs by touch and leave the bottle caps alone.",
    "mins": 15,
    "days": 1,
    "context": "In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Balls of scrunched paper are the germs. Bottle caps are the body's own cells.",
@@ -2392,6 +2397,7 @@
       }
      ],
      "think": "Sometimes real white blood cells attack the body's own cells by mistake. Scientists call this an autoimmune illness. Why might it be hard to tell germs from your own cells?",
+     "parent": "Expect something like this. Germs and your own cells are both covered in tiny molecules, and a few of them look alike. A white blood cell has only touch to go by, so it can sometimes make a mistake.",
      "context": "This is the last step of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
     }
    ]
@@ -2399,6 +2405,7 @@
   {
    "id": "a4",
    "title": "Count Your Blinks",
+   "problem": "Every blink spreads a thin layer of tears across your eye. Tears wash away dust and germs. So the more often you blink, the more often your eyes are washed. In this activity you count how many times a person blinks in one minute.",
    "mins": 10,
    "days": 1,
    "context": "In this activity you count how many times a person blinks in one minute. Every blink spreads a fresh layer of tears that washes the eye.",
@@ -2478,6 +2485,7 @@
       "why": "Each blink spreads tears that wash and wet the eye. Fewer blinks means fewer washes, so the eyes can feel dry and tired. That is why doctors say to look away from a screen and blink every so often. Picking 'cleaner' misses that the blink is what does the cleaning."
      },
      "think": "People blink about 15 to 20 times a minute when talking. How many times might you blink in a whole day?",
+     "parent": "Work it out together. If you blink 15 times a minute, that is 900 times an hour. Over 16 hours awake, that is about 14,000 blinks. The exact number does not matter. The point is that tears wash your eyes all day, and you never notice.",
      "context": "This is the last step of Count Your Blinks. In this activity you count how many times a person blinks in one minute. Every blink spreads a fresh layer of tears that washes the eye."
     }
    ]
@@ -2485,6 +2493,7 @@
   {
    "id": "a5",
    "title": "The Lizard's Fever",
+   "problem": "Lizards make very little heat of their own. To warm up, they lie on a hot rock. Scientists watched sick lizards and found that the sick ones chose a warmer spot than healthy ones did. In this way a sick lizard gives themselves a fever. In this activity you act out what the lizards did, and then think about why it might help them.",
    "mins": 10,
    "days": 1,
    "context": "In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. It shows that fever is a very old defence.",
@@ -3188,7 +3197,7 @@
   "Which friendly microbes did we eat today?",
   "Why might a sick dog curl up and sleep a lot?",
   "That lizard on the wall is lying in the sun. Why might a lizard do that when they are ill?",
-  "If a white blood cell could talk, what would they say after a long day?",
+  "A cut has germs in it. How do white blood cells know where to go?",
   "Why do you think doctors wash their hands so often?",
   "Is anything in your body working right now that you don't notice?"
  ],

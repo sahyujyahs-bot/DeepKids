@@ -74,7 +74,7 @@ A gas stove flame is blue and almost see-through. Add a little salt, and it flas
 
 Electrons are the tiny particles on the outside of every atom. Each kind of atom has its own set of energies that its electrons can have. So each element gives out its own exact set of colours, and no other element gives the same set. That is why a flame colour works like a fingerprint for an element. You do not need to see the atom. You only need to see its light.
 - e.g. Sodium always gives the same yellow-orange, whether it comes from table salt, rasam or seawater.
-- e.g. A prism splits sodium's light into two very thin yellow lines, close together.
+- e.g. A prism is a piece of glass that splits light into its colours. It splits sodium's light into two very thin yellow lines, close together.
 ### Reading what the Sun is made of · *defined*
 **Definition:** Sunlight split into its colours has thin dark lines in it. Each element makes its own set of lines, so the lines show which elements are in the Sun.
 
@@ -123,7 +123,7 @@ We have pulled ink apart with water and seen salt colour a flame. Now we ask wha
 - *what is life:* Plants make many coloured substances of their own: green ones to catch sunlight, and yellow, orange and red ones too. Chromatography was first used to separate them.
 - *what is this world:* The Sun, the stars and the Earth are made of the same elements. We know because their light shows the same colours as the elements in our labs.
 
-Black ink looks like one thing, yet water shows it is several dyes. Each dye is made of atoms of a few elements. Every element is built from the same few kinds of tiny particle. Going inwards, many things turn out to be made of fewer and fewer kinds. Going outwards, the same 118 elements make a pen, a flame, your body and the Sun.
+Black ink looks like one thing, yet water shows it is several dyes. Each dye is made of atoms of a few elements. Every atom is built from the same few kinds of tiny particles. So when we look inwards, many different things turn out to be made of fewer and fewer kinds of thing. Going outwards, the same 118 elements make a pen, a flame, your body and the Sun.
 
 - **Nyaya Sutra 1.1.3 and 1.1.6, by Gautama (also called Akshapada), an Indian book on how we know:** There are four ways of knowing: seeing for yourself, working it out from signs, comparing with something already known, and the word of a trustworthy person. Comparing means knowing a new thing by its likeness to a thing you know well. (In the Which Pen test you used two of these. You worked out from signs, the coloured bands, which pen was used. You compared the secret strip with strips whose pens you already knew.)
 - **Heraclitus, fragment 123 (Diels-Kranz numbering), about 500 BCE:** Nature loves to hide. (The blue and purple in black ink, and the sodium in clear salt water, could not be seen. A test made them show themselves.)
@@ -210,8 +210,9 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   - Note: On a wrong answer, read the back aloud and ask your child to say it in their own words. The TEST IT card needs a strip of kitchen towel and a tumbler of water nearby.
 - **s3 (2 min)**  
   *Parent does:* Ask the question below.  
-  *Parent says:* Which card was hardest? Let's do the real test for that one.  
-  *Child mode:* Which card was hardest? Can you test it for real?
+  *Parent says:* Look at the card about a green pen. Let's do that test for real, and see whether the answer on the back is right.  
+  *Child mode:* Test the green pen card for real. Is the answer on the back right?
+  - Note: Use a green sketch pen on a strip of kitchen towel, in the same way as One Dot, Five Minutes. Many green pens split into a yellow band and a blue band, as the card says. If your pen does not, that is a real result. Try another green pen.
   - Check: A friend says a dot of black sketch pen will stay black on wet paper. What is most likely to happen? → **It spreads into two or more colours**
 ### g2 · Secret Mix: guess the pens from the bands (40 min)
 - **rules:** Pick 4 sketch pen colours that look different, for example yellow, blue, pink and green.; The mixer turns away and puts two dots on top of each other on a strip's pencil line, one from each of two pens. They write the two colours on the score sheet and fold it over.; The guesser runs the strip in water and watches the bands.; The guesser says which two pens were used, and why.; Unfold the sheet. Score 2 points if both pens are right, 1 if one is right.; Swap roles. With 2 players, each is the mixer twice (4 rounds). With 3 or 4 players, each is the mixer once and the next player guesses. The most points wins.
@@ -281,6 +282,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent does:* The grown-up shows which pen they used.  
   *Parent says:* Let's check. Were you right?  
   *Child mode:* Now the grown-up shows the pen. Were you right?
+  - Note: A good answer is to try another test, such as a different paper or a different liquid. Two different inks can behave alike on one kind of paper, so chemists use a second test before they decide.
   - Think: If two of the pens had given exactly the same pattern, how could you tell them apart?
 ### e2 · Does Every Colour Split? (30 min)
 - **question:** Which sketch pen colours are one dye, and which are mixtures of two or more dyes?
@@ -337,6 +339,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent does:* Turn off the stove. Ask the question below.  
   *Parent says:* Salt water and sugar water look exactly the same. So how did the flame tell them apart?  
   *Child mode:* The cups looked the same. How did the flame tell them apart?
+  - Note: Expect this answer. Rasam has salt in it, and salt has sodium in it. Sodium makes a flame yellow-orange.
   - Think: When rasam boils over onto the stove, the flame turns yellow-orange. What is in rasam that does that?
 
 ## Activities
@@ -357,6 +360,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Child mode:* Lift the strip out. Where did the colours come from? Remember that question. The Which Pen test will help answer it.
   - Check: A black dot spread into other colours on a wet strip. Which of these is the best question to ask next? → **Was the colour already in the black ink?**
 ### a2 · Chalk Column, Like Tsvet (20 min)
+- **problem:** In 1903, a scientist called Mikhail Tsvet wanted to separate the coloured substances in green leaves. He poured leaf colour through a glass tube packed with chalk powder, and the colours came apart into bands. In this activity you try a small version of his idea. You draw a ring of sketch pen ink round a stick of white chalk, stand the chalk in water, and watch the dyes climb and separate.
 - **record:** Draw the chalk stick with its colour bands. Compare it with a paper strip of the same pen.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw a thick ring all the way round the chalk, about 1.5 cm from the bottom, with a sketch pen. 2. Go round it twice.  
@@ -494,7 +498,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 11. (match) Match each word to what it means.  
    **Answer:** Mixture → two or more substances mixed but not joined; Dye → a coloured substance that dissolves in a liquid; Dissolve → to break into pieces too small to see and spread through a liquid; Chromatogram → the pattern of bands left on the paper; Evidence → what you saw or measured that shows whether an idea is true. *Why:* These words come up all through the unit. A strong answer could also give an example of each.
 12. (perspective) Two friends in Kochi look at a black sketch pen dot that has split into blue and purple.  
-   **Answer:** A strong answer sees that both have part of it. The ink is a mixture of blue and purple dyes, as the strip shows. The first child is right that the mixture looks black. The second child is right that blue and purple are in it. The black is not a trick: it is how the dyes look together.. *Why:* This question asks the child to use evidence and to see that 'looks black' and 'is made of blue and purple dyes' can both be true.
+   **Answer:** A strong answer sees that both have part of it. The ink is a mixture of blue and purple dyes, as the strip shows. Meera is right that the mixture looks black. Anjali is right that blue and purple are in it. The black is not a trick: it is how the dyes look together.. *Why:* This question asks the child to use evidence and to see that 'looks black' and 'is made of blue and purple dyes' can both be true.
 13. (mcq) Rasam boils over onto the gas flame, and the blue flame turns yellow-orange for a moment. What in the rasam makes that colour?  
    Options: The salt / The water / The tamarind's sour taste  
    **Answer:** The salt. *Why:* Salt has sodium in it, and sodium makes a flame yellow-orange. Water alone does not change the flame much. A taste is not a substance that gives a colour.
@@ -510,7 +514,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 2. (write) In the Which Pen test, why must every dot be the same size and on the same pencil line?  
    **Answer:** So the test is fair. If one dot is bigger or starts higher, its bands could look different because of that, not because of the ink. Then we could not tell which pen matched.. *Why:* A strong answer says that only the pen should change, so any difference comes from the ink.
 3. (perspective) In the story, the secret note's strip matched Arun's pen. Two cousins argue about what this proves.  
-   **Answer:** A strong answer says the strip shows which ink wrote the note: Arun's pen. It does not show who held the pen. The first child is right that the evidence points at Arun's pen. The second child is right that a pen can be used by anyone, so more questions are needed. But the test does tell us something, so it does not prove nothing.. *Why:* Real forensic scientists are careful in the same way: evidence answers one question, not every question.
+   **Answer:** A strong answer says the strip shows which ink wrote the note: Arun's pen. It does not show who held the pen. Divya is right that the evidence points at Arun's pen. Lakshmi is right that a pen can be used by anyone, so more questions are needed. But the test does tell us something, so it does not prove nothing.. *Why:* Real forensic scientists are careful in the same way: evidence answers one question, not every question.
 4. (truefalse) Sodium's yellow-orange colour is so strong that it can hide the colours of other elements in a flame.  
    **Answer:** True. *Why:* True. Even a tiny trace of sodium gives a bright yellow-orange. Chemists who test for other elements have to keep everything very clean, or the sodium colour hides the rest.
 5. (match) Match each element to the colour it gives a flame.  

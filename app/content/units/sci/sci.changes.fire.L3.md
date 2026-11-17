@@ -84,7 +84,7 @@ The brown strip on the side of a matchbox holds red phosphorus and powdered glas
 - e.g. A wet matchbox will not light, because the water takes the heat away.
 - e.g. The burnt strip on an old matchbox is darker and smoother, because its chemicals are used up.
 ### How people learned to use fire · *debated*
-Fire was on Earth long before people. Lightning starts wildfires, and early people would have seen them. The oldest clear sign of people using fire is about one million years old, in Wonderwerk Cave in South Africa. Scientists found burnt bones and ash from plants there. By about 400,000 years ago, hearths are found in many caves. People first probably kept fires going that they had found, carrying embers from place to place. Later they learned to make fire themselves. They spun a stick against wood, or struck certain stones together to make sparks. Fire let them cook, keep warm, scare away animals and see at night. When exactly people learned to make fire, not just keep it, is still argued about.
+Fire was on Earth long before people. Lightning starts wildfires, and early people would have seen them. The oldest clear sign of people using fire is about one million years old, in Wonderwerk Cave in South Africa. Scientists found burnt bones and ash from plants there. From about 400,000 years ago, hearths, the places where people kept a fire, are found in many caves. At first, people probably kept alive the fires they found, carrying embers from place to place. Later they learned to make fire themselves. They spun a stick against wood, or struck certain stones together to make sparks. Fire let them cook, keep warm, scare away animals and see at night. Scientists still argue about when exactly people learned to make fire, and not just keep it.
 - e.g. Even today, some families keep the embers of the kitchen fire covered in ash overnight, so it is easy to light in the morning.
 - e.g. Hunter-gatherer groups such as the Hadza of Tanzania make fire by spinning a stick, which takes skill and practice.
 - e.g. In some Vedic rituals in Kerala and elsewhere, priests still light the fire with a wooden fire drill called an arani.
@@ -147,9 +147,9 @@ At home, fire is used in the kitchen, in lamps and incense, and at festivals wit
 ## Roots
 We have tested what a candle really burns, and found what every fire needs. Now we ask what a flame tells us about ourselves and the world.
 
-**Deep truth.** A match held to a lump of wax only melted it. Yet a flame above a blown-out wick ran down the smoke and relit it. What burns is wax that heat has turned into a gas. A flame keeps going because its own heat makes more gas to burn.  
+**Deep truth.** In The Jumping Flame, a match held to a lump of wax only melted it. But a match held in the smoke above a blown-out candle lit the smoke, and the flame ran down to the wick and relit it. So what burns is wax that heat has turned into a gas. A flame keeps going because its own heat makes more gas to burn.  
 *Habit it breaks:* We think of fire as eating the solid wax or the liquid oil, the way we eat a dosa. But in a candle or a lamp, the flame never burns the solid wax or the oil itself. It keeps making its own fuel, by heating the wax or oil into gas.  
-*Evidence:* In The Jumping Flame, a match held to a lump of wax for ten seconds only melted it. The same match lit the white smoke of a blown-out candle from a few centimetres above, and the flame ran down to the wick.
+*Evidence:* In The Jumping Flame, a match held to a lump of wax for about 5 seconds only melted it. The same match lit the white smoke of a blown-out candle from a few centimetres above, and the flame ran down to the wick.
 
 - *who am i:* You belong to the only kind of animal that makes fire. For hundreds of thousands of years, people have cooked, kept warm and talked around a fire.
 - *what is life:* Some plants in Australia and South Africa grow where bushfires come often. After a fire the ground is open and sunny, so their seeds wait to sprout until they sense the smoke.
@@ -158,7 +158,7 @@ We have tested what a candle really burns, and found what every fire needs. Now 
 Wax, oil, wood and cooking gas look nothing alike. One is a solid, one a liquid, one a gas. Yet in a flame they all do the same thing. Heat turns each into gas, and each gas joins with oxygen and gives out heat and light. So a diya's yellow light, the blue ring on a stove and a forest fire on a hill are the same change.
 
 - **Heraclitus, a Greek thinker of about 500 BCE, fragment 30 (Diels-Kranz numbering):** Heraclitus said the world is like an ever-living fire, kindled in measures and going out in measures. (A candle flame keeps the same shape for hours, yet the wax gas in it is new every moment. Heraclitus chose fire as his picture of something that stays itself only by always changing.)
-- **The Buddha's Fire Sermon, Adittapariyaya Sutta, Samyutta Nikaya 35.28:** The Buddha taught that the senses and the mind are on fire, burning with wanting. The word nirvana means the blowing out, or going out, of a fire. (A fire goes out when its fuel stops coming, as the dry wick did. The Buddha used this picture: when wanting stops feeding the fire, it goes out by itself.)
+- **The Buddha's Fire Sermon, Adittapariyaya Sutta, Samyutta Nikaya 35.28:** The Buddha taught that the senses and the mind are on fire, burning with wanting. The word nirvana means the blowing out, or going out, of a fire. (A fire goes out when its fuel stops coming. In Dry Wick or Oiled Wick?, the dry wick went out as soon as its cotton had burned away. The Buddha used this picture: when wanting stops feeding the fire, it goes out by itself.)
 - Science (settled): Burning is fuel joining with oxygen. It gives out heat and light and makes carbon dioxide and water.
 - Science (settled): Charcoal in rocks shows wildfires on Earth over 400 million years ago, soon after plants spread onto land and raised the oxygen in the air.
 - Science (open): When people first learned to make fire, and not just keep it, is still not known.
@@ -166,13 +166,13 @@ Wax, oil, wood and cooking gas look nothing alike. One is a solid, one a liquid,
 - Practice, Watching one flame (3 min): A grown-up lights one candle on a steel plate. Let's sit an arm's length away. Breathe in slowly, and out slowly. Now just watch the flame for one minute. Notice its shape, its colours, the blue at the bottom. Every moment, new wax gas is flowing into it. Yet it looks the same. Breathe out gently, not at the flame. Now close your eyes. Can you still see it?
 - Ask: The flame you see now is made of different gas from a minute ago. Is it the same flame?
 - Ask: When a candle goes out, where does the flame go?
-- Ask: A flame keeps itself going with its own heat. Do you keep yourself going in any way like that?
+- Ask: A flame keeps going only while fuel and air keep coming in. What has to keep coming into your body to keep you going?
 
 ## Deep and big questions
 - *deep:* A candle flame looks the same for an hour, but the wax gas in it is new every moment. Is it the same flame all hour? (hint: Think about what stays the same: the shape, the place, or the gas inside it.)
-- *deep:* When a candle is blown out, where does the flame go? (hint: Think about whether a flame is a thing, like the wax, or something that happens, like a dance.)
+- *deep:* When a candle is blown out, where does the flame go? (hint: Think about whether a flame is a thing, like the wax, or something that is happening, like a person running.)
 - *deep:* Why can a lump of wax melt without catching fire, while wax gas lights at once? (hint: Think about where the heat goes in a big lump, and how gas mixes with air.)
-- *big:* People are the only animals that make fire. What else did learning fire change about how people live together? (hint: Think about cooking, light at night, warmth, and sitting round a fire telling stories.)
+- *big:* People are the only animals that make fire. What did learning to use fire change about how people live together? (hint: Think about cooking, light at night, warmth, and sitting round a fire telling stories.)
 - *big:* Fire cooks our food, but it can also burn a forest. Can one thing be good and dangerous at the same time? (hint: Think about how fire helps and harms depending on where and how it is used.)
 - *big:* Before plants made oxygen, nothing on Earth could burn. What does fire need from living beings? (hint: Think about where the oxygen in the air and the fuel in wood came from.)
 
@@ -231,7 +231,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - Ask: What was really burning at the tip of the wick?
 - Ask: Why did Paati stop Arjun from throwing water on the burning oil?
 - Ask: Which of the three things a fire needs did the steel plate take away?
-- Ask: What did Paati ask Meenakshi to do before the lamps were lit, and why?
+- Ask: Why should loose cloth, like a davani, be tied back near a lamp?
 
 ## Games
 ### g1 · Fire Triangle: a card game (15 min)
@@ -245,28 +245,30 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   *Parent does:* Play the game. Each time someone puts out a fire, ask which side they took away.  
   *Parent says:* You put a lid on my fire. Which side did that take away?  
   *Child mode:* Which side did your card take away?
-  - Check: Priya and Farhan are playing. Priya has a fire made of the oil FUEL card, a breeze and a match. Farhan wants to put it out. Which card should he NOT use? → **WATER**
+  - Check: A player's fire is made of the oil FUEL card, a breeze and a match. Which card should you NOT use to put it out? → **WATER**
 - **s3 (2 min)**  
   *Parent does:* Talk about the game at the end.  
-  *Parent says:* Which card was the most useful? Why?  
-  *Child mode:* Which card was the most useful? Why?
+  *Parent says:* Which card could never put out an oil fire, and why?  
+  *Child mode:* Which card could never put out an oil fire, and why?
+  - Note: Expect the WATER card. Water sinks under burning oil, turns to steam at once and throws the burning oil out. A LID card or a TAKE THE FUEL AWAY card is the right choice for an oil fire.
 ### g2 · Spark or Safe? a quick fire safety game (10 min)
 - **rules:** One person is the reader and holds the 14 situation cards. Every other player has a green SAFE card and an orange SPARK card.; The reader reads the front of a card. Everyone holds up SAFE or SPARK at the same time.; Then the reader turns the card over and reads the answer. A right answer scores 1 point. Saying why, using fuel, oxygen or heat, scores 1 more point.; The reader does not score. If only one child plays, try to beat your own score next time. The most you can score is 28.; After 14 cards, the player with the most points wins. A tie is a shared win.; Playing alone, read the front, say your answer and why, then turn the card over.
-- **Printable cards: 14 situation cards (read the front, then turn over for the answer):** Revathi keeps her pooja lamp on a steel plate, away from the curtain. (back: SAFE. The steel plate cannot burn, and the curtain is too far from the flame, so the fuel and the heat stay apart.); Anitha plays with a lighter she found on the table. (back: SPARK. A lighter makes heat at the touch of a thumb, and paper or cloth nearby is fuel. Lighters stay with grown-ups.); Sumathi ties back her davani before cooking. (back: SAFE. A tied-back davani cannot swing into the flame, so the cloth, which is fuel, stays away from the heat.); Divya hangs a paper lantern right above a diya. (back: SPARK. Paper is a fuel, the diya's flame is heat, and there is air all around. The lantern can catch fire.); Padma turns off the gas regulator at night. (back: SAFE. With the regulator off, no gas can leak, so there is no fuel.); Chanu lights a cracker while holding it in her hand. (back: SPARK. The burning cracker is heat right against her hand and clothes. A grown-up lights crackers on the ground, from a distance.); Kavya smells gas and switches on the kitchen light to look. (back: SPARK. Gas in the air is fuel, and a switch can make a tiny spark. Touch no switch, open the windows and tell a grown-up.); A grown-up lights crackers in an open courtyard with a bucket of water nearby. (back: SAFE. The open space has no fuel close by, and the bucket of water is ready to take away heat.); Joseph leaves a mosquito coil burning under the bed. (back: SPARK. The glowing tip is hot enough to light sheets and papers, which are fuel, and the air under a bed has plenty of oxygen.); Ishani tells a grown-up that the gas pipe looks cracked. (back: SAFE. Telling a grown-up early stops a leak, which would be fuel, from ever meeting heat.); Sowmya pours water on oil that has caught fire in a kadai. (back: SPARK. Water sinks under the oil, turns to steam and throws the burning oil out. Turn off the stove and cover the kadai with a lid.); Aisha cools a burn under running water for 20 minutes. (back: SAFE. Cool running water takes the heat out of the skin and helps it heal.); Vikram throws a burnt matchstick into the dustbin while it still glows. (back: SPARK. The glowing head is still hot, and the paper in the dustbin is fuel. Drop used matches in water.); Nila uses the stairs, not the lift, in a fire drill. (back: SAFE. In a fire the lift can lose power, and smoke can fill the lift shaft. The stairs are the safe way out.)
+- **Printable cards: 14 situation cards (read the front, then turn over for the answer):** A pooja lamp stands on a steel plate, away from the curtain. (back: SAFE. The steel plate cannot burn, and the curtain is too far from the flame, so the fuel and the heat stay apart.); A child plays with a lighter found on the table. (back: SPARK. A lighter makes heat at the touch of a thumb, and paper or cloth nearby is fuel. Lighters stay with grown-ups.); A girl ties back her davani before cooking. (back: SAFE. A tied-back davani cannot swing into the flame, so the cloth, which is fuel, stays away from the heat.); A paper lantern hangs right above a diya. (back: SPARK. Paper is a fuel, the diya's flame is heat, and there is air all around. The lantern can catch fire.); The gas regulator is turned off at night. (back: SAFE. With the regulator off, no gas can leak, so there is no fuel.); A child lights a cracker while holding it in the hand. (back: SPARK. The burning cracker is heat right against the child's hand and clothes. A grown-up lights crackers on the ground, from a distance.); Someone smells gas and switches on the kitchen light to look. (back: SPARK. Gas in the air is fuel, and a switch can make a tiny spark. Touch no switch, open the windows and tell a grown-up.); A grown-up lights crackers in an open courtyard with a bucket of water nearby. (back: SAFE. The open space has no fuel close by, and the bucket of water is ready to take away heat.); A mosquito coil is left burning under the bed. (back: SPARK. The glowing tip is hot enough to light sheets and papers, which are fuel, and the air under a bed has plenty of oxygen.); A child tells a grown-up that the gas pipe looks cracked. (back: SAFE. Telling a grown-up early stops a leak, which would be fuel, from ever meeting heat.); Someone pours water on oil that has caught fire in a kadai. (back: SPARK. Water sinks under the oil, turns to steam and throws the burning oil out. Turn off the stove and cover the kadai with a lid.); A burn is cooled under running water for 20 minutes. (back: SAFE. Cool running water takes the heat out of the skin and helps it heal.); Someone throws a burnt matchstick into the dustbin while it still glows. (back: SPARK. The glowing head is still hot, and the paper in the dustbin is fuel. Drop used matches in water.); In a fire drill, everyone uses the stairs, not the lift. (back: SAFE. In a fire the lift can lose power, and smoke can fill the lift shaft. The stairs are the safe way out.)
 - **Printable cards: SAFE and SPARK answer cards (cut one set for each player):** SAFE (green); SPARK (orange)
 - **s1 (2 min)**  
   *Parent does:* Hand out the cards and read the first situation.  
-  *Parent says:* Listen, then hold up SAFE or SPARK. Revathi keeps her pooja lamp on a steel plate, away from the curtain.  
+  *Parent says:* Listen, then hold up SAFE or SPARK. A pooja lamp stands on a steel plate, away from the curtain.  
   *Child mode:* Hold up SAFE or SPARK. Ready?
 - **s2 (7 min)**  
   *Parent does:* Read the cards one at a time. After each one, ask for the reason.  
-  *Parent says:* Why is that a spark? Which of the three things are there together?  
+  *Parent says:* Why could a fire start there? Which of the three things a fire needs are together?  
   *Child mode:* SAFE or SPARK? Then say why.
-  - Check: Joseph leaves a mosquito coil burning under the bed. Safe or spark? → **Spark, because the glowing coil is hot enough to light the bedsheet or anything that falls on it**
+  - Check: A mosquito coil is left burning under the bed. Safe or spark? → **Spark, because the glowing coil is hot enough to light the bedsheet or anything that falls on it**
 - **s3 (1 min)**  
   *Parent does:* Finish and count the points.  
-  *Parent says:* Which card surprised you most?  
-  *Child mode:* Which card surprised you most?
+  *Parent says:* Pick one SPARK card. Which two of fuel, oxygen and heat were together on it? What would make it safe?  
+  *Child mode:* Pick one SPARK card. Which two of fuel, oxygen and heat were together on it? What would make it safe?
+  - Note: Use the answer on the back of the card. For example, on the paper lantern card, the paper is the fuel and the diya's flame is the heat, and moving the lantern away would make it safe.
 
 ## Experiments
 ### e1 · The Jumping Flame: what really burns in a candle? (35 min)
@@ -283,7 +285,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   - Note: The bottom of the card should be level with the top of the wick, so the lines show 2, 5 and 8 cm above it. Let the child do the breaking and taping. You do any step with a flame.
 - **s2 (4 min)**  
   *Parent does:* Ask your child to guess, for each of the three things, whether it will catch fire. Write each guess and reason in the table.  
-  *Parent says:* Here are the three things we will try to light. A lump of wax. A candle wick. And the white smoke when a candle is blown out. Which will catch fire? Why do you think so?  
+  *Parent says:* Here are the three things we will try to light: a lump of wax, a candle wick, and the white smoke that rises when a candle is blown out. Which will catch fire? Why do you think so?  
   *Child mode:* Guess for each one. Will it catch fire? Why do you think so?
   - Ask: Why do you think the lump of wax will or will not burn? (good: Candles are made of wax, so wax burns.; It has no wick, so it may not light.)
   - Note: Do not say what will happen. Most children say the wax will burn, because candles are wax, and that the smoke will not, because smoke is what is left after burning. Both are good guesses to test.
@@ -291,25 +293,26 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   *Parent does:* 1. Put the lump of wax on the steel plate. 2. Light a match and hold its flame against the top of the lump for about 5 seconds. 3. Take the match away and drop it in the water. 4. Look at the wax.  
   *Parent says:* Watch the wax closely while I hold the flame on it. Does it catch fire? What happens to it?  
   *Child mode:* Watch the lump of wax. The grown-up holds a match to it. Does it burn?
-  - Note: The wax goes shiny and a little of it melts and drips. It does not catch fire, or if a small flame flickers on the melted wax for a moment, it goes out as soon as the match is taken away. If the match burns down too close to your fingers, drop it in the water and use another one.
+  - Note: The wax goes shiny, and a little of it melts and drips. It does not catch fire. A small flame may flicker on the melted wax for a moment, but it goes out as soon as the match is taken away. If the match burns down too close to your fingers, drop it in the water and use another one.
 - **s4 (3 min) · grown-up needed**  
   *Parent does:* 1. Light a new match. 2. Hold it to the candle's wick. 3. Let the candle burn for 2 minutes, until a small pool of melted wax forms around the wick.  
-  *Parent says:* Now the same wax, but with a wick. Watch how fast it lights. Look at the pool of melted wax forming at the top.  
+  *Parent says:* Now I will light the candle. It is the same wax, but with a wick. Watch how fast it lights. Look at the pool of melted wax forming at the top.  
   *Child mode:* Now the candle with its wick. Does it light? Look at the melted wax.
-  - Note: The wick lights within a couple of seconds. The flame melts a pool of wax around it, which is the fuel climbing up the wick.
+  - Note: The wick lights within a couple of seconds. The flame melts a pool of wax around the wick. This melted wax is the fuel, and it climbs up the wick.
   - Check: The lump of wax only melted. The candle with a wick lit at once. What made the difference? → **The wick lifts a little melted wax right up into the heat of the flame**
 - **s5 (15 min) · grown-up needed**  
   *Parent does:* 1. Switch off the fan. 2. Light a match and hold it ready beside the candle. 3. Blow the candle out gently from the side. 4. At once, move the burning match into the white smoke at the 2 cm line on the card. 5. Watch whether the flame runs down the smoke to the wick. 6. Relight the candle, wait half a minute, and repeat. Do three tries at 2 cm, then three at 5 cm, then three at 8 cm, with a new match each time.  
-  *Parent says:* Now the smoke. I will blow the candle out, and quickly hold a match in the smoke. Watch the smoke, not the match. Read me the line on the card.  
+  *Parent says:* Now the smoke. I will blow the candle out, and quickly hold a match in the smoke. Watch the smoke, not the match. Tell me which line on the card the match is at.  
   *Child mode:* Watch the white smoke. The grown-up holds a match in it. Does the flame jump down?
   - Note: The match must already be burning when you blow, because the smoke lasts only a second or two. Hold the match flame right inside the white smoke. At 2 cm it usually works. At 5 cm it works about half the time. At 8 cm it rarely works. If you see no white smoke, blow more gently and try again. The half minute between tries lets a pool of melted wax form. Whatever happens, write it down: 'did not jump' is a result too.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
+  *Parent does:* Ask your child to say or write three things: what they think burns in a candle, what they saw, and why they think it happened.  
   *Parent says:* Now tell me three things. What do you think burns in a candle? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things: what you think burns in a candle, what you saw, and why you think it happened.
   - Note: This is claim, evidence and reasoning. A strong answer sounds like this. What I think: the wax burns, but only after it turns into a gas. What I saw: the lump of wax only melted, but the flame lit the smoke from 2 cm and 5 cm above the wick and ran down to it. Why: the white smoke has wax gas in it. The flame's heat turns melted wax into gas, and the gas burns.
   - Check: The match lit the white smoke above a blown-out candle, and the flame ran down to the wick. What does this show? → **The smoke has wax gas in it, and that gas can burn**
 ### e2 · The Tea Strainer Test: can a metal mesh stop a flame? (20 min)
+- **problem:** Miners once carried candles into coal mines, where a gas that seeps out of coal can explode if a flame lights it. In 1815, Humphry Davy made a safe lamp using metal mesh. This experiment tests the idea behind that lamp, with a steel tea strainer and a candle.
 - **question:** If we hold a metal mesh over a candle flame, will the flame come through it? Does the size of the holes matter?
 - **predict:** We will hold a fine steel tea strainer over a candle flame, then a steel spoon or ladle with big holes. Will the flame come through the fine mesh? Will it come through the big holes? Why do you think so?
 - **fair test:** Use the same candle and the same height each time: lower the metal until it is halfway down the flame. Hold it there for 3 seconds only, then lift it away. Only the size of the holes changes. Try each one twice, and let the metal cool in between, because a hot mesh works less well.
@@ -328,7 +331,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   - Note: The flame flattens out under the mesh, and smoke rises through it. The flame should not come through. A very coarse strainer may let the flame through. That is a real result: write it down, and try a finer one if you have it. If the flame comes through only the second time, the mesh was probably still hot. The mesh turns black with soot, which is expected.
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* 1. Let the candle burn steadily again. 2. Lower the slotted spoon onto the flame in the same way, until it is halfway down the flame. 3. Hold it for 3 seconds and look from the side. 4. Let it cool, and do it a second time.  
-  *Parent says:* Now the big holes. What do you see this time?  
+  *Parent says:* Now the spoon with big holes. What do you see this time?  
   *Child mode:* Now the spoon with big holes. Where is the flame now?
   - Note: With holes about half a centimetre wide, little tongues of flame usually poke up through the holes. If they do not, write that down. Holes that are a little bigger show it better.
 - **s4 (5 min)**  
@@ -362,7 +365,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why.  
   *Parent says:* What do you think was the fuel in the diya? What did you see? Why did the cotton last so much longer in oil?  
-  *Child mode:* What was the fuel? What did you see? Why?
+  *Child mode:* What was the fuel in the diya? What did you see? Why did the wick in oil last longer?
   - Note: A strong answer: the oil is the fuel. The dry wick burned out in a minute or two, but the oiled wick burned for 10 minutes and hardly got shorter. The oil climbs the wick, turns into gas at the tip and burns. The soaked cotton stays cool enough not to burn itself.
   - Check: The oiled wick burned for 10 minutes and hardly got shorter. What does that show? → **The oil is the fuel, and it burns at the tip of the wick**
 
@@ -380,7 +383,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   *Parent does:* 1. Ask your child to draw the flame with its colours. 2. Ask for one 'I wonder' question and write it at the top of the page.  
   *Parent says:* Draw the flame as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this unit.  
   *Child mode:* Draw the flame and its colours. What do you wonder about it?
-  - Note: Questions children often ask: what is burning, the wax or the string? Why is it blue at the bottom? Why does it point up? Where does the wax go? Keep the question, and come back to it after The Jumping Flame.
+  - Note: Questions children often ask: what is burning, the wax or the string? Why is it blue at the bottom? Why does it point up? Where does the wax go? Keep the question, and come back to it after The Jumping Flame. The answer is that the wax melts, turns into gas and burns. The burning gas becomes carbon dioxide and water vapour, which go into the air, and that is why the candle gets shorter.
   - Think: The candle gets shorter as it burns. Where does the wax go?
 ### a2 · The Home Fire Safety Walk (15 min)
 - **safety:** A grown-up leads the walk. Look at the gas cylinder and regulator, but only a grown-up touches them.
@@ -401,7 +404,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   *Parent says:* If there was ever a fire, how would we get out? Is there a second way? In India, 101 is the fire service, and 112 works for any emergency.  
   *Child mode:* Find two ways out. Write 101 and 112 on the list.
   - Note: In a flat, the second way may be the building's stairs on the other side, or a neighbour's door. Never use a lift in a fire, because the power may fail and smoke can fill the shaft.
-  - Check: Kavya, a girl in Class 3, smells gas in the kitchen. What should she do first? → **Tell a grown-up at once, without touching any switch**
+  - Check: You smell gas in the kitchen. What should you do first? → **Tell a grown-up at once, without touching any switch**
 ### a3 · Stop, Drop and Roll, and Crawl Low (10 min)
 - **record:** Draw yourself doing the three moves: stop, drop and roll.
 - **s1 (5 min)**  
@@ -413,7 +416,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   *Parent does:* 1. Pretend the room is full of smoke near the ceiling. 2. Get down on hands and knees. 3. Crawl to the door. 4. Touch the door with the back of your hand before opening it.  
   *Parent says:* Smoke is hot, so it rises. The cleanest air in a smoky room is near the floor. So we crawl low. If a door feels hot, there may be fire behind it. Then we use the other way out.  
   *Child mode:* Smoke rises. Crawl low to the door. Feel the door with your hand first.
-  - Check: Arjun, a boy of six, has his shirt sleeve catch fire from a lamp. What should he do? → **Stop, drop to the ground, cover his face and roll**
+  - Check: Your shirt sleeve catches fire from a lamp. What should you do? → **Stop, drop to the ground, cover your face and roll**
 ### a4 · Cool It for 20 Minutes: first aid for a small burn (10 min)
 - **safety:** For a big burn, a burn on the face, or a burn on a small child, cool it and go to a doctor or call 112 at once.
 - **record:** Write the rule in your own words, and the three things never to put on a burn.
@@ -421,18 +424,18 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   *Parent does:* 1. Pretend your child has touched a hot vessel. 2. Hold their hand under cool running tap water, or pour water from a mug over it. 3. Set a timer for 2 minutes and keep the hand under the water until it rings. For a real burn, the timer would be set for 20 minutes.  
   *Parent says:* If you touch something hot, the skin keeps cooking even after you pull away. Cool running water takes the heat out. We keep it there for 20 minutes, as long as a whole TV episode.  
   *Child mode:* Burnt your finger? Hold it under cool running water. Keep it there for 20 minutes.
-  - Note: Cool tap water, not ice-cold. Take off rings or bangles near the burn before it swells. After cooling, cover it loosely with a clean cloth or cling film.
+  - Note: Use cool tap water, not ice-cold water. Take off rings or bangles near the burn before it swells. After cooling, cover the burn loosely with a clean cloth or cling film.
 - **s2 (5 min)**  
   *Parent does:* Talk about the home remedies people use, and why they do not help.  
-  *Parent says:* Many people put toothpaste, butter or ice on a burn. These feel cool for a moment, but they don't take the heat out deep down. They can even harm the skin. So, only cool running water.  
+  *Parent says:* Many people put toothpaste, butter or ice on a burn. These feel cool for a moment, but they don't take the heat out deep down. They can even harm the skin. So use only cool running water.  
   *Child mode:* No toothpaste, no butter, no ice. Only cool running water.
-  - Check: Lakshmi, a girl in Class 4, touches a hot tawa. What is the best thing to do? → **Hold it under cool running water for 20 minutes**
+  - Check: You touch a hot tawa and burn your finger. What is the best thing to do? → **Hold it under cool running water for 20 minutes**
 ### a5 · Make Heat by Rubbing (10 min)
 - **record:** Write which rubbing made the most heat, and why you think so.
 - **s1 (5 min)**  
   *Parent does:* 1. Rub your palms together fast for ten seconds, then touch them to your cheeks. 2. Rub the eraser hard on the paper for ten seconds, then touch the eraser to your lip. 3. Rub the ruler fast on the cloth, then feel it.  
   *Parent says:* Rub your palms hard and fast for ten seconds. Now touch your cheeks. What do you feel? Where did that warmth come from?  
-  *Child mode:* Rub your palms fast. Count to ten. Touch your cheeks. Warm?
+  *Child mode:* Rub your palms fast. Count to ten. Touch your cheeks. Do your palms feel warm?
   - Note: Your palms get clearly warm, and the eraser gets a little warm. The ruler on the cloth may hardly warm at all. If so, say that: rubbing hard and fast gives the most heat. This is friction turning movement into heat.
 - **s2 (5 min)**  
   *Parent does:* Talk about how early people made fire by rubbing wood.  
@@ -490,7 +493,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   *Parent does:* Read the usual and creative ideas. Talk about what worked.  
   *Parent says:* Here are some other ideas. Which one would you try next? Can you invent a better one?  
   *Child mode:* Look at the other ideas. Can you invent a better one?
-  - Check: Nila, a girl in Class 3, closes the top of her glass jar with a lid to keep the wind out. The diya goes out. Why? → **The flame used up the oxygen inside, and no fresh air could come in**
+  - Check: A diya stands inside a glass jar. The top of the jar is closed with a lid to keep the wind out, and the diya goes out. Why? → **The flame used up the oxygen inside, and no fresh air could come in**
 ### c2 · Plan a Fire-Safe Deepavali (25 min)
 - **problem:** Your building is planning to celebrate Deepavali with lamps and crackers in the courtyard. Plan a celebration that is fun and fire-safe.
 - **your turn:** Now make your own fire-safe Deepavali plan, as a poster your building could put up.
@@ -520,17 +523,17 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    **Answer:** candle wax → Fuel; cooking gas → Fuel; water → Not a fuel; dry leaves → Fuel; sand → Not a fuel; lamp oil → Fuel; a steel plate → Not a fuel; newspaper → Fuel. *Why:* Fuels can burn and give out heat. Water, sand and steel do not burn in a home fire. A strong sorter thinks about whether the thing can burn, not whether it is hot.
 3. (write) In The Jumping Flame, a match held in the white smoke relit the candle without touching the wick. Explain what was in the smoke.  
    **Answer:** The smoke had wax gas in it, still rising from the hot wick. The match lit the gas, and the flame ran down the gas to the wick.. *Why:* A strong answer says the smoke carried wax gas, and that the flame followed the gas down to the wick.
-4. (mcq) Ranjani, a girl in Class 3, blows out a birthday candle. What does her breath do to the flame?  
+4. (mcq) You blow out a birthday candle. What does your breath do to the flame?  
    Options: Pushes the wax gas away and cools the wick / Adds water to the flame / Uses up all the oxygen  
-   **Answer:** Pushes the wax gas away and cools the wick. *Why:* Her breath pushes the wax gas away from the wick and cools the wick, so the flame has no fuel near enough to keep going. Picking 'adds water' is a guess about breath being damp, but that is not what puts it out.
+   **Answer:** Pushes the wax gas away and cools the wick. *Why:* Your breath pushes the wax gas away from the wick and cools the wick, so the flame has no fuel near enough to keep going. Picking 'adds water' is a guess about breath being damp, but that is not what puts it out.
 5. (truefalse) A lump of wax lights as easily as a candle wick.  
    **Answer:** False. *Why:* False. In The Jumping Flame, a match held to a lump of wax only melted it. The wick lifts a little melted wax into the flame, where it turns into gas and burns.
 6. (draw) Draw a candle burning. Add arrows to show the melted wax climbing the wick and turning into gas at the flame.  
    **Answer:** A candle with a pool of melted wax at the top, an arrow going up the wick, and a label 'wax gas' just under the flame.. *Why:* A strong drawing shows the wax melting first, then climbing the wick, then turning to gas near the flame.
 7. (match) Match each way of putting out a fire to what it takes away.  
    **Answer:** a lid on a burning kadai → oxygen; turning off the gas regulator → fuel; water on burning paper → heat; sand on a small fire → oxygen. *Why:* Each way of putting out a fire takes away one side of the fire triangle.
-8. (write) In the story The Lamps on the Balcony Wall, Paati, Meenakshi's grandmother, says, "Tie back your davani before you light the lamps." Give the reason behind this rule.  
-   **Answer:** A loose davani is cloth, which is a fuel. If it swings into the flame, the flame's heat can light it, and the air around it lets it burn.. *Why:* A strong answer names the fire triangle: the cloth is fuel, the lamp gives heat and the air gives oxygen.
+8. (write) A grandmother says, "Tie back your loose dupatta before you light the lamps." Give the reason behind this rule.  
+   **Answer:** A loose dupatta is cloth, which is a fuel. If it swings into the flame, the flame's heat can light it, and the air around it lets it burn.. *Why:* A strong answer names the fire triangle: the cloth is fuel, the lamp gives heat and the air gives oxygen.
 9. (mcq) Which of these should a child never do?  
    Options: Tell a grown-up if you smell gas / Play with a lighter / Keep a lamp on a steel plate  
    **Answer:** Play with a lighter. *Why:* Matches and lighters stay with grown-ups, because a child may not be able to control the flame or put it out. The others are good habits.
@@ -543,9 +546,9 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 13. (mcq) In India, which number do you call for the fire service?  
    Options: 100 / 101 / 108  
    **Answer:** 101. *Why:* 101 is the fire service. 112 also works for any emergency, including fire.
-14. (write) Arjun, a boy of six, says, "Smoke is just air that has been burnt, so it can't hurt you." Is he right? Explain.  
+14. (write) Someone says, "Smoke is just air that has been burnt, so it can't hurt you." Is that right? Explain.  
    **Answer:** No. Smoke carries tiny bits of soot and poisonous gases. In house fires, more people die from breathing smoke than from the flames.. *Why:* A strong answer says what smoke contains, and why that matters in a fire.
-15. (perspective) Keerthana, aged 9, wants to light the pooja lamp at home. Her family is deciding whether she may.  
+15. (perspective) A girl, aged 9, wants to light the pooja lamp at home. Her family is deciding whether she may.  
    **Answer:** A strong answer picks a side and backs it with a reason from the unit, such as the fire triangle, the steel plate, or the matches staying with grown-ups. It then gives one fair point from another side.. *Why:* There is a real trade-off. Children learn care by doing, but matches and loose clothes need a grown-up's control.
 16. (draw) Draw the fire triangle. Write fuel, oxygen and heat on its sides. Then draw one way to take away each side.  
    **Answer:** A triangle labelled fuel, oxygen and heat, with, for example, a gas regulator turned off by fuel, a lid by oxygen, and water by heat.. *Why:* A strong drawing matches each way of putting out a fire to the right side.
@@ -562,7 +565,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    **Answer:** Thin twigs heat up quickly and give off burning gas. *Why:* Thin twigs heat up quickly all the way through, so they give off gas fast. In a big log, the heat spreads into the wood and only warms it. Picking 'logs have no fuel' is not right, because a log burns well once a twig fire is under it.
 5. (fill) The yellow glow of a candle flame comes from tiny hot bits of ____.  
    **Answer:** ['soot', 'carbon']. *Why:* Tiny bits of soot glow yellow in the heat. A gas stove flame has very little soot, so it is blue.
-6. (perspective) Two friends in Class 3, Kavya and Dhruv, are arguing about blowing on fires.  
+6. (perspective) Two friends in Class 3 are arguing about blowing on fires.  
    **Answer:** A strong answer sees that both are partly right. Blowing on a candle pushes the small amount of wax gas away and cools the wick. Blowing on embers brings more oxygen than it takes heat away, so they burn harder.. *Why:* This is a real puzzle with two true sides. What blowing does depends on how big the fire is and how much fuel and heat it has.
 7. (sort) Sort these into what a candle flame takes in and what it gives out.  
    **Answer:** wax gas → Takes in; oxygen → Takes in; heat → Gives out; light → Gives out; carbon dioxide → Gives out; water vapour → Gives out. *Why:* A flame takes in wax gas and oxygen. It gives out heat, light, carbon dioxide and water vapour, and sometimes soot.
@@ -577,19 +580,19 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    **Answer:** burning oil in a kadai → turn off the stove and cover with a lid; a burning heap of dry leaves → water; a gas stove flame → turn off the knob; a small fire on a cloth → smother it with a wet towel or roll on it. *Why:* The right way depends on the fuel. Water is good for wood, but never for oil.
 12. (truefalse) Burning is a change that can easily be undone, like melting.  
    **Answer:** False. *Why:* False. Burning makes new substances, such as carbon dioxide and water. You cannot turn ash and smoke back into wood. Melting wax can be undone by cooling it.
-13. (mcq) Nila holds a cold steel spoon in a yellow candle flame for a moment. It comes out black. What is the black stuff?  
+13. (mcq) A cold steel spoon is held in a yellow candle flame for a moment. It comes out black. What is the black stuff?  
    Options: Soot / Burnt steel / Ash from the wick  
    **Answer:** Soot. *Why:* It is soot: tiny bits of carbon from wax gas that did not burn fully. A blue gas stove flame leaves much less.
 14. (write) Early people often carried glowing embers with them from camp to camp, instead of making a new fire each time. Why might they have done that?  
    **Answer:** Making fire by spinning a stick or striking stones was slow and hard, and might fail when wood was damp. Carrying an ember was easier. Covered with ash, an ember can keep burning slowly for hours.. *Why:* A strong answer says making fire was hard, and that an ember kept slowly burning, with little air, until it was needed.
 15. (order) Put these steps of a burning candle in order.  
    **Answer:** ['The flame melts the wax', 'Melted wax climbs the wick', 'Heat turns the wax into gas', 'The gas burns and makes more heat']. *Why:* This loop keeps the candle going: the heat from the burning gas melts more wax.
-16. (mcq) The flame on Divya's gas stove has turned yellow, and her pans get black marks. Divya is a girl in Class 4. What should she do?  
+16. (mcq) The flame on a gas stove has turned yellow, and the pans get black marks. What should a child who notices this do?  
    Options: Pour water on the burner / Tell a grown-up that the burner may need cleaning / Cover the stove with a lid  
    **Answer:** Tell a grown-up that the burner may need cleaning. *Why:* A blue flame means the gas is mixed with enough air. A yellow flame that leaves black soot on pans often means the burner is blocked or dirty. A grown-up can check and clean it. Picking the lid is a fair thought for a fire, but this is not a fire to put out.
 ### Fire Thinkers (challenge) (challenge, 15 questions)
 1. (perspective) In 1816, people argued about Humphry Davy's safety lamp for coal miners.  
-   **Answer:** A strong answer picks a side and uses evidence: the mesh does stop a flame, as the tea strainer showed, but a draught or a broken wire could let it out, and the lamp led owners to send men into more dangerous places. It then gives the other side its due.. *Why:* Both were partly right. The lamp worked as a light in firedamp, but the 1835 committee found accidents had gone up.
+   **Answer:** A strong answer picks a side and uses evidence: the mesh does stop a flame, as the Tea Strainer Test showed, but a draught or a broken wire could let it out, and the lamp led owners to send men into more dangerous places. It then gives the other side its due.. *Why:* Both were partly right. The lamp worked as a light in firedamp, but the 1835 committee found accidents had gone up.
 2. (write) In The Jumping Flame, the flame jumped down from 2 cm every time but from 8 cm only sometimes. Explain why height made a difference.  
    **Answer:** Close to the wick, the wax gas is thick enough to burn. Higher up, it has spread out and mixed with more air, and some has cooled into droplets, so there is too little gas in one place to carry the flame down.. *Why:* A strong answer links height to how much wax gas there is in one place.
 3. (mcq) Two diyas of the same size burn with the same oil. One is covered with a small closed glass jar and the other with a big closed glass jar. Which diya goes out first?  
@@ -639,7 +642,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 3. (mcq) In The Jumping Flame, a match held in the white smoke of a blown-out candle relit the wick. What was burning in the smoke?  
    Options: Wax gas / The air / Bits of the match  
    **Answer:** Wax gas. *Why:* Just after the candle went out, wax gas kept rising from the hot wick. The match lit that gas, and the flame ran down it to the wick. Picking 'the air' is a good thought, because oxygen from the air was needed too. But the air alone does not burn.
-4. (mcq) A grown-up held a lit match to a lump of wax with no wick. What happened?  
+4. (mcq) In The Jumping Flame, a grown-up held a lit match to a lump of wax with no wick. What happened?  
    Options: It burst into flame / It melted a little but did not keep burning / It turned into water  
    **Answer:** It melted a little but did not keep burning. *Why:* The heat spread into the big lump and only melted it. Not enough wax turned into gas in one place to keep a flame going. A wick fixes that by lifting a little melted wax into the hottest part of the flame.
 5. (mcq) Oil in a kadai catches fire. What should a grown-up do?  
@@ -648,9 +651,9 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 6. (mcq) Firefighters spray water on a burning wooden house. Which side of the fire triangle does the water mostly take away?  
    Options: Fuel / Oxygen / Heat  
    **Answer:** Heat. *Why:* Water cools the burning wood below the heat it needs to keep burning. Steam from the water also pushes some air away, so oxygen is a fair second answer.
-7. (mcq) Farhan, a boy of nine, has his kurta catch fire from a lamp. What should he do?  
-   Options: Run outside into the wind / Stop, drop to the ground, cover his face and roll / Wave his arms to blow the fire out  
-   **Answer:** Stop, drop to the ground, cover his face and roll. *Why:* Rolling keeps the air from the flames, so they go out. Running and waving bring more oxygen, so the fire burns harder.
+7. (mcq) Your kurta catches fire from a lamp. What should you do?  
+   Options: Run outside into the wind / Stop, drop to the ground, cover your face and roll / Wave your arms to blow the fire out  
+   **Answer:** Stop, drop to the ground, cover your face and roll. *Why:* Rolling keeps the air from the flames, so they go out. Running and waving bring more oxygen, so the fire burns harder.
 8. (mcq) In a fire in a tall building, why should you use the stairs and not the lift?  
    Options: The power may fail, and smoke can fill the lift shaft / The lift is too slow to reach the ground / Lifts cannot go downstairs  
    **Answer:** The power may fail, and smoke can fill the lift shaft. *Why:* In a fire the lift can stop between floors when the power fails, and smoke can fill the lift shaft. The stairs are the safe way out. Picking 'too slow' is a fair thought, but speed is not the main danger.
@@ -665,7 +668,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    **Answer:** Burnt bones and plant ash in a cave in South Africa, about one million years old. *Why:* In Wonderwerk Cave in South Africa, scientists found burnt bones and ash from plants about one million years old. Scientists still argue about when fire became part of everyday life.
 12. (mcq) Humphry Davy put a lamp's flame inside a cylinder of fine iron mesh. Why could the flame not light the gas outside?  
    Options: The mesh kept out all the gas / The metal took heat away, so the gas outside was too cool to burn / The mesh made the flame smaller  
-   **Answer:** The metal took heat away, so the gas outside was too cool to burn. *Why:* Gas could pass through the mesh and burn inside it. But the metal took heat from the flame, so the gas outside stayed too cool to catch fire. You saw this with a tea strainer over a candle.
+   **Answer:** The metal took heat away, so the gas outside was too cool to burn. *Why:* Gas could pass through the mesh and burn inside it. But the metal took heat from the flame, so the gas outside stayed too cool to catch fire. You saw this in the Tea Strainer Test, where a fine steel tea strainer kept a candle flame below it.
 
 ## Applications
 - Cooking on a gas stove, a chulha or a wood fire.
@@ -720,10 +723,10 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - What did the tea strainer say to the flame? *You shall not pass.*
 
 ## Connected maths
-- In The Jumping Flame, A family tried each height 3 times. At 2 cm the flame jumped 3 times. At 5 cm it jumped 2 times. At 8 cm it jumped 1 time. How many jumps were there in all? What fraction of the tries at 5 cm worked? **6 jumps in all. At 5 cm, 2 out of 3 tries worked, which is two thirds.**. 3 + 2 + 1 = 6 jumps. At 5 cm there were 3 tries, and 2 worked, so the fraction is 2 out of 3, or two thirds. The pattern shows the flame jumps less often the higher the match. (queues `math.fractions.fractions-of-a-whole.L3`)
+- In The Jumping Flame, a family tried each height 3 times. At 2 cm the flame jumped 3 times. At 5 cm it jumped 2 times. At 8 cm it jumped 1 time. How many jumps were there in all? What fraction of the tries at 5 cm worked? **6 jumps in all. At 5 cm, 2 out of 3 tries worked, which is two thirds.**. 3 + 2 + 1 = 6 jumps. At 5 cm there were 3 tries, and 2 worked, so the fraction is 2 out of 3, or two thirds. The pattern shows the flame jumps less often the higher the match. (queues `math.fractions.fractions-of-a-whole.L3`)
 - In Dry Wick or Oiled Wick?, the dry wick burned for 40 seconds. The oiled wick was still burning after 10 minutes. How many times as long did the oiled wick burn, at least? **At least 15 times as long.**. 10 minutes is 10 times 60 seconds, which is 600 seconds. 600 divided by 40 is 15. The oiled wick was still burning, so it would have lasted even longer. (queues `math.division.sharing-and-grouping.L3`)
-- A tea light burns for about 4 hours. Debjani's family in Kolkata lights 6 tea lights at 6 in the evening on Deepavali. At what time will they go out? If they light one new tea light every 4 hours, how many do they need to keep one burning for a whole day of 24 hours? **About 10 at night. They need 6 tea lights for 24 hours.**. 6 in the evening plus 4 hours is 10 at night. All 6 burn at the same time, so they all go out at about 10. For one light all day: 24 divided by 4 is 6 tea lights, one after the other. (queues `math.time.duration.L3`)
-- Anand's family practised their fire plan three times. It took them 90 seconds the first time, 70 seconds the second time and 50 seconds the third time. If the pattern goes on, how long might the fourth practice take? Why might it stop getting faster? **About 30 seconds, but it will stop getting faster at some point.**. Each practice was 20 seconds faster: 90, 70, 50, so the next would be 30. But walking down the stairs always takes some time. So the times would level off instead of reaching zero. (queues `math.patterns.number-patterns.L3`)
+- A tea light burns for about 4 hours. A family lights 6 tea lights at 6 in the evening on Deepavali. At what time will they go out? If the family lights one new tea light every 4 hours, how many do they need to keep one burning for a whole day of 24 hours? **About 10 at night. They need 6 tea lights for 24 hours.**. 6 in the evening plus 4 hours is 10 at night. All 6 burn at the same time, so they all go out at about 10. For one light all day: 24 divided by 4 is 6 tea lights, one after the other. (queues `math.time.duration.L3`)
+- A family practised their fire plan three times. It took them 90 seconds the first time, 70 seconds the second time and 50 seconds the third time. If the pattern goes on, how long might the fourth practice take? Why might it stop getting faster? **About 30 seconds, but it will stop getting faster at some point.**. Each practice was 20 seconds faster: 90, 70, 50, so the next would be 30. But walking down the stairs always takes some time. So the times would level off instead of reaching zero. (queues `math.patterns.number-patterns.L3`)
 
 ## Song
 Fuel, Air and Heat (sci.changes.L3): Topic-level song for Changing materials L3
@@ -740,7 +743,7 @@ Fuel, Air and Heat (sci.changes.L3): Topic-level song for Changing materials L3
 - What are the three sides of the fire triangle? → Fuel, oxygen and heat.
 - What burns in a candle flame: solid wax, or wax gas? → Wax gas.
 - Which number do you call for the fire service in India? → 101, or 112 for any emergency.
-- Clothes on fire. What three things do you do? → Stop, drop and roll.
+- Your clothes catch fire. What three things do you do? → Stop, drop and roll.
 - How long do you cool a burn under running water? → 20 minutes.
 - Should you pour water on burning oil? → No. Turn off the stove and cover it with a lid.
 - Why is a gas stove flame blue? → Air is mixed into the gas, so it burns fully with little soot.

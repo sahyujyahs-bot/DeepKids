@@ -361,7 +361,7 @@
    "for": "Fire looks like a thing of its own. It moves, spreads and changes everything it touches.",
    "against": "Chemistry has found that fire is not a substance. It is a change: fuel joining with oxygen and giving out heat and light. The old idea is still a way of thinking about the world, but not a chemical fact.",
    "status": "rejected",
-   "context": "This card is about whether fire is a substance or a change."
+   "context": "This card is about whether fire is one of the basic substances that the world is made of. Old traditions called these basic substances the elements. In India there are five elements, and fire is one of them. The card asks whether fire is a substance at all, or a change that happens to other things."
   },
   {
    "claim": "Learning to cook made us human.",
@@ -369,7 +369,7 @@
    "for": "Cooked food gives more energy and needs less chewing. Human teeth and guts are small for an ape of our size.",
    "against": "The oldest clear signs of fire are younger than the first big changes in our ancestors' bodies. Meat and stone tools may explain those changes.",
    "status": "debated",
-   "context": "This card is about a debate on how fire changed human bodies."
+   "context": "This card is about a debate on how fire changed human bodies. Richard Wrangham's idea is that cooked food is softer and gives more energy. That energy may have let human brains grow bigger, and our teeth and guts get smaller. Other scientists think the order of events does not fit."
   },
   {
    "claim": "Smoke from a fire is just harmless air.",
@@ -389,7 +389,7 @@
   {
    "q": "When a candle is blown out, where does the flame go?",
    "kind": "deep",
-   "hint": "Think about whether a flame is a thing, like the wax, or something that happens, like a dance."
+   "hint": "Think about whether a flame is a thing, like the wax, or something that is happening, like a person running."
   },
   {
    "q": "Why can a lump of wax melt without catching fire, while wax gas lights at once?",
@@ -448,7 +448,7 @@
    "What was really burning at the tip of the wick?",
    "Why did Paati stop Arjun from throwing water on the burning oil?",
    "Which of the three things a fire needs did the steel plate take away?",
-   "What did Paati ask Meenakshi to do before the lamps were lit, and why?"
+   "Why should loose cloth, like a davani, be tied back near a lamp?"
   ],
   "art": [
    "A balcony in Madurai at dusk, a girl in a pavadai with her davani tucked in, a small boy with a bowl of cotton wicks, and a grandmother pouring oil into clay lamps.",
@@ -582,8 +582,9 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about the game at the end.",
-     "say": "Which card was the most useful? Why?",
-     "kid": "Which card was the most useful? Why?"
+     "say": "Which card could never put out an oil fire, and why?",
+     "kid": "Which card could never put out an oil fire, and why?",
+     "parent": "Expect the WATER card. Water sinks under burning oil, turns to steam at once and throws the burning oil out. A LID card or a TAKE THE FUEL AWAY card is the right choice for an oil fire."
     }
    ],
    "setup": [
@@ -717,8 +718,9 @@
      "id": "s3",
      "mins": 1,
      "do": "Finish and count the points.",
-     "say": "Which card surprised you most?",
-     "kid": "Which card surprised you most?"
+     "say": "Pick one SPARK card. Which two of fuel, oxygen and heat were together on it? What would make it safe?",
+     "kid": "Pick one SPARK card. Which two of fuel, oxygen and heat were together on it? What would make it safe?",
+     "parent": "Use the answer on the back of the card. For example, on the paper lantern card, the paper is the fuel and the diya's flame is the heat, and moving the lantern away would make it safe."
     }
    ],
    "setup": [
@@ -942,6 +944,7 @@
    "mins": 20,
    "days": 1,
    "question": "If we hold a metal mesh over a candle flame, will the flame come through it? Does the size of the holes matter?",
+   "problem": "Miners once carried candles into coal mines, where a gas that seeps out of coal can explode if a flame lights it. In 1815, Humphry Davy made a safe lamp using metal mesh. This experiment tests the idea behind that lamp, with a steel tea strainer and a candle.",
    "predict": "We will hold a fine steel tea strainer over a candle flame, then a steel spoon or ladle with big holes. Will the flame come through the fine mesh? Will it come through the big holes? Why do you think so?",
    "fair_test": "Use the same candle and the same height each time: lower the metal until it is halfway down the flame. Hold it there for 3 seconds only, then lift it away. Only the size of the holes changes. Try each one twice, and let the metal cool in between, because a hot mesh works less well.",
    "results_table": [
@@ -1255,7 +1258,7 @@
      "do": "1. Ask your child to draw the flame with its colours. 2. Ask for one 'I wonder' question and write it at the top of the page.",
      "say": "Draw the flame as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this unit.",
      "kid": "Draw the flame and its colours. What do you wonder about it?",
-     "parent": "Questions children often ask: what is burning, the wax or the string? Why is it blue at the bottom? Why does it point up? Where does the wax go? Keep the question, and come back to it after The Jumping Flame.",
+     "parent": "Questions children often ask: what is burning, the wax or the string? Why is it blue at the bottom? Why does it point up? Where does the wax go? Keep the question, and come back to it after The Jumping Flame. The answer is that the wax melts, turns into gas and burns. The burning gas becomes carbon dioxide and water vapour, which go into the air, and that is why the candle gets shorter.",
      "think": "The candle gets shorter as it burns. Where does the wax go?"
     }
    ],
@@ -2203,7 +2206,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, aged 9, wants to light the pooja lamp at home. Her family is deciding whether she may.",
+     "p": "A girl, aged 9, wants to light the pooja lamp at home. Her family is deciding whether she may.",
      "a": "A strong answer picks a side and backs it with a reason from the unit, such as the fire triangle, the steel plate, or the matches staying with grown-ups. It then gives one fair point from another side.",
      "why": "There is a real trade-off. Children learn care by doing, but matches and loose clothes need a grown-up's control.",
      "views": [
@@ -2216,7 +2219,7 @@
        "says": "Not until she is older. Matches are for grown-ups, and one slip can set her clothes on fire."
       },
       {
-       "who": "The first child",
+       "who": "The girl herself",
        "says": "I can put the lamp on the steel plate and fill the oil. A grown-up can do the match."
       }
      ],
@@ -2285,16 +2288,16 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Class 3, the first person and the second person, are arguing about blowing on fires.",
+     "p": "Two friends in Class 3 are arguing about blowing on fires.",
      "a": "A strong answer sees that both are partly right. Blowing on a candle pushes the small amount of wax gas away and cools the wick. Blowing on embers brings more oxygen than it takes heat away, so they burn harder.",
      "why": "This is a real puzzle with two true sides. What blowing does depends on how big the fire is and how much fuel and heat it has.",
      "views": [
       {
-       "who": "The first person",
+       "who": "Kavya",
        "says": "Blowing puts out fires. I blow out my birthday candles every year."
       },
       {
-       "who": "The second person",
+       "who": "Lakshmi",
        "says": "Blowing makes fires bigger. My grandmother blows through a pipe to get the chulha going."
       }
      ],
@@ -2987,7 +2990,7 @@
   "ask": [
    "The flame you see now is made of different gas from a minute ago. Is it the same flame?",
    "When a candle goes out, where does the flame go?",
-   "A flame keeps itself going with its own heat. Do you keep yourself going in any way like that?"
+   "A flame keeps going only while fuel and air keep coming in. What has to keep coming into your body to keep you going?"
   ],
   "art": "A child sitting quietly an arm's length from a single candle on a steel plate, watching the flame, with faint arrows showing new wax gas flowing up into it."
  },

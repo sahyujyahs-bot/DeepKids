@@ -7,7 +7,7 @@
   "art": "A child in the middle of a see-saw: on one side a blazing sun and a sweating face, on the other a snowflake and a shivering child, with a small dial in the middle pointing to 'just right'."
  },
  "intro": {
-  "hook": "Put the back of your hand on your cheek. Now put it on a steel plate or a tile floor. Which feels warmer? The inside of your body stays about the same warmth in hot summer and cold winter. How does it do that?",
+  "hook": "Put the back of your hand on your cheek. Your cheek feels warm, because your body is warm inside. Now put the back of your hand on a steel plate or a tile floor. It usually feels cooler than your cheek. Now think about a hot summer day and a cold winter day. On both days the inside of your body stays at about the same warmth. How does it do that?",
   "text": "Think about the hottest day you remember, maybe in May. Now think about a cold winter morning, when you wanted to stay under the blanket. The air around you changed a lot between those two days. But the inside of your body stayed almost exactly the same warmth, about 37 degrees. A steel plate left in the sun gets hot. Left outside on a winter night, it gets cold. You are not like the plate. Something inside you keeps checking your warmth and fixing it. That checking and fixing has a name: homeostasis.",
   "art": "Split picture: a steel plate glowing hot in the sun and frosty in winter, next to the same smiling child in both scenes with a small '37' badge on the chest."
  },
@@ -436,7 +436,7 @@
    "for": "Humans have millions of sweat glands and little fur. We can run long distances in the heat better than most animals. A few groups of hunters have done this kind of running hunt.",
    "against": "Other scientists say running hunts were rare. Sweating may have helped early humans walk and work in hot open land, without any hunting.",
    "status": "debated",
-   "context": "This card is about why humans sweat so much more than most animals."
+   "context": "This card is about why humans sweat so much more than most animals. The claim is about persistence hunting. That means chasing an animal at a steady run for hours, until the animal overheats and has to stop. Humans can keep going because we cool ourselves by sweating."
   },
   {
    "claim": "You must drink exactly 8 glasses of water every day.",
@@ -452,7 +452,7 @@
    "for": "The Earth has stayed good for life for billions of years, even as the Sun got brighter. Living things do change the air and the weather.",
    "against": "A body has a set point that it defends. The Earth does not seem to have one. Some Earth changes push it further from balance, not back towards it.",
    "status": "debated",
-   "context": "This card is about whether the whole Earth keeps its balance, the way a body does."
+   "context": "This card is about whether the whole Earth keeps its balance, the way a body does. Gaia is the name of this idea. It says that living things and the Earth together work like one system, and that the system keeps conditions good for life."
   },
   {
    "claim": "Health is a balance of three doshas, vata, pitta and kapha.",
@@ -460,7 +460,7 @@
    "for": "Like homeostasis, it says health is balance, and it pays close attention to heat, cold, food, water and sleep.",
    "against": "Scientists have not found doshas as things that can be measured in the body. Science measures temperature, water, salt and sugar instead. Treatments must be tested carefully either way.",
    "status": "minority",
-   "context": "This card is about an old Indian idea of health as balance, and how it compares with homeostasis."
+   "context": "This card is about an old Indian idea of health as balance, and how it compares with homeostasis. Ayurveda says the body has three doshas, called vata, pitta and kapha. Roughly, vata is about movement, pitta is about heat and digestion, and kapha is about structure and moisture. A person is healthy when the three are in balance."
   }
  ],
  "how_we_found_out": {
@@ -538,7 +538,7 @@
    "He almost laughed. She kept fanning. Each time the cloth began to dry, she dipped it again. She found the ORS packet that Ammi kept in the tin by the door. She mixed it into a tumbler of my water, exactly as the picture on the packet showed, and gave it to him in small sips. She did not make him gulp it. A sip, then fanning. A sip, then fanning.",
    "The shadow of the khejri tree crept across the yard. Imran's cheeks went from chilli red to pink. His breathing slowed. Then, at last, small beads of sweat came back onto his forehead, and he fell asleep. Ruksana kept fanning, very gently, until her arm ached.",
    "When their mother came home in the cool of the evening, she found the two of them asleep on the floor beside me. The damp cloth was still over Imran's legs. The palm fan was still in Ruksana's hand. Ammi put the back of her fingers on her son's forehead, then on her daughter's. She went to the neighbour's house to fetch the nurse, just to be safe. Then she sat down beside me, and dipped the tumbler, and drank for a long time.",
-   "People think that keeping cool means holding on to cold. It does not. I have never held on to anything. I stay cool because I let a little go, all the time, into the hot air. Ruksana understood that, that day, with her cheek against my side. I think she understood something else too, though I am only a pot, and I may be wrong. Her brother's body had been doing the same thing all along. It had only needed someone to help."
+   "People think that keeping cool means holding on to cold. It does not. I have never held on to anything. I stay cool because I let a little go, all the time, into the hot air. Ruksana understood that, that day, with her cheek against my side. I think she understood something else too, though I am only a pot, and I may be wrong. Her brother's body had been trying to cool itself in the same way all along, by sweating. But he had lost too much water, and he could not sweat any more. He needed someone to help."
   ],
   "epiphany": "For the parent: the matka is cool not because it is a cold thing, but because water seeps out and evaporates from its surface, carrying heat away. The turning point is when Ruksana realises that sweat works the same way, and that her brother's body had become too hot and dry to cool itself. A damp cloth and fanning do what sweat does, and ORS puts back water and salt. In real life, a hot, dry, floppy child in a heatwave needs a doctor or nurse quickly.",
   "ask": [
@@ -722,6 +722,7 @@
      "say": "Who has the most stars? Which body card did you use most? When did you need to drink water?",
      "kid": "Count your stars. Which body card helped you most?",
      "think": "Your real body plays this game all day and all night. Who is playing it while you sleep?",
+     "parent": "Expect this answer. It is your brain, mostly a small part called the hypothalamus. It keeps checking your warmth and water all night, without waking you.",
      "context": "This is the last step of Keep It Just Right, the body warmth card game."
     }
    ],
@@ -809,6 +810,7 @@
      "say": "Just right! Stand still. Feel how warm your hands are. Your body has stopped sweating and shivering, because it is just right.",
      "kid": "Just right! Stand still. Breathe slowly. Feel your warm hands.",
      "think": "When you are just right, is your body doing nothing? Or is it still checking?",
+     "parent": "Expect this answer. The body is still checking. The brain keeps comparing your warmth with about 37 degrees, ready to correct it the moment it drifts.",
      "context": "This is the last step of Brain Says. It ends with being just right."
     }
    ],
@@ -1533,7 +1535,7 @@
      "do": "Ask your child to say or write three things: what I think, what I saw, and why.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things: what you think, what you saw, and why it happened.",
-     "parent": "This is called claim, evidence and reasoning. A good answer: What I think: being wet helps you cool down. What I saw: the wet cloth tumbler went from 40 to 31 degrees, and the dry one only went from 40 to 37. Why: the water dried in the fan's breeze and carried heat away. That is how sweat cools me.",
+     "parent": "This is called claim, evidence and reasoning. A good answer: What I think: being wet helps you cool down. What I saw: the wet cloth tumbler went from 40 to 31 degrees, and the dry one only went from 40 to 37. Why: the water dried in the fan's breeze and carried heat away. That is how sweat cools me. For the question about a humid day, the answer is that the wet cloth dries slowly, so the wet tumbler cools less, and the two tumblers end up closer in warmth.",
      "think": "What do you think would happen on a sticky, humid monsoon day, when the wet cloth dries slowly?",
      "context": "This is the last step of the sweaty tumbler test. You explain what you found."
     }
@@ -1807,6 +1809,7 @@
       "why": "The matka's tiny holes let a little water reach the outside. It dries into the air and takes heat with it. That is just like sweat drying on your skin. Picking 'clay is cold' is a common idea, but dry clay in the sun gets very hot. Picking 'shade and sun' would be an unfair test, so in our test both pots stood in the same shade."
      },
      "think": "Mohammed Bah Abba, a teacher in Nigeria, put a clay pot inside a bigger clay pot with wet sand between them. Vegetables kept fresh for many days. Why do you think it worked?",
+     "parent": "The wet sand keeps water seeping through the clay. That water dries on the outside of the bigger pot and carries heat away, just as in the matka. So the inner pot stays cool, and the vegetables inside stay fresh for longer.",
      "how": "e3",
      "context": "This is the last step of the matka test. You explain why the matka keeps water cool."
     }
@@ -1911,6 +1914,7 @@
       "why": "Your body sweats and sends blood to your skin by itself, without you choosing. A part of your brain does it to cool you down. Picking 'I decided' is a good guess, because it is your body. But try to sweat right now, on purpose. You can't! That shows a hidden part of you is in charge."
      },
      "think": "If you didn't choose to sweat, who did?",
+     "parent": "Expect answers such as my body, or my brain. A small part of the brain called the hypothalamus noticed the heat, and it told the skin to sweat and the blood vessels to open.",
      "context": "This is the last step of Jump and Notice. You see your body going back to normal."
     }
    ]
@@ -1918,6 +1922,7 @@
   {
    "id": "a2",
    "title": "Cold Hands, Warm Hands",
+   "problem": "When you press a fingertip hard, the blood is pushed out of the spot, so the spot turns white. When you let go, blood flows back in and the spot turns pink again. So the time the pink takes to come back shows how quickly blood is flowing into that skin. In this activity you compare a warm hand with a cold hand, and you see what the cold does to the flow of blood.",
    "mins": 10,
    "days": 1,
    "materials": [
@@ -2005,6 +2010,7 @@
      "say": "Now warm it up for a minute. Press and count again. Is it fast again? The blood vessels have opened wide, so warm blood comes back quickly.",
      "kid": "Put the cold hand in warm water. Press a fingertip again. Count. Is it fast now?",
      "think": "Why do you think your cheeks go red when you run, and your fingers go cold in winter?",
+     "parent": "Expect this answer. When you run, the blood vessels near your skin open wide, so warm blood comes close to the surface and heat escapes. In the cold they squeeze narrow to keep heat in, so your fingers get less blood and turn pale and cold.",
      "context": "This is the last step of Cold Hands, Warm Hands. You watch the blood come back."
     }
    ]
@@ -2012,6 +2018,7 @@
   {
    "id": "a3",
    "title": "Thermostat Hunt",
+   "problem": "A thermostat is a part that notices a change and decides what to do about it. A fridge, an AC and your own body all use this idea. It is called a feedback loop. Something notices a change, something decides, and something acts. Then the loop checks again. In this activity you hunt for machines at home that keep something steady in this way.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -2159,6 +2166,7 @@
   {
    "id": "a5",
    "title": "Goosebump Watch",
+   "problem": "When you are cold, tiny muscles in your skin pull each hair upright. The little bumps this makes are called goosebumps. In this activity you cool a patch of your arm and watch for goosebumps. Then you find out why standing hairs help a furry animal much more than they help you.",
    "mins": 10,
    "days": 1,
    "materials": [
@@ -2236,7 +2244,8 @@
       "a": 0,
       "why": "Standing fur holds still air, and still air keeps heat in, like a blanket. Cats do also puff up to look bigger when frightened, but on a cold morning it is about warmth. Fur does not make heat. It only keeps in the heat the body makes."
      },
-     "think": "When else do you get goosebumps, even when you are not cold?",
+     "think": "A cat's fur stands up and traps warm air. Why doesn't a person's body hair do the same job?",
+     "parent": "Expect this answer. Our body hair is thin, so standing hairs cannot trap a warm layer of air the way a cat's thick fur does.",
      "context": "This is the last step of Goosebump Watch. You find out what goosebumps are for."
     }
    ]
