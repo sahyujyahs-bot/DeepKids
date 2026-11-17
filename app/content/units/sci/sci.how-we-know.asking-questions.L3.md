@@ -14,11 +14,11 @@
 5. I can tell how Tycho Brahe's measurements, night after night, showed that the sky can change.
 
 ## Terms
-- **Question you can find out**: A question that looking, counting or testing can answer. 'Why is the sky?' is hard to answer by looking. 'Does a cut apple go brown faster in air or in water?' can be tested. *e.g.* 'Do more crows come to our window in the morning or in the afternoon?' You can find out by counting at both times for a week.
-- **Observe**: To look at something carefully, and use your other senses too: listen, touch, smell, and sometimes taste, if it is safe. An observation is one thing you noticed. *e.g.* Kavya observes an apple slice: 'The cut side is cream, wet and shiny. It smells sweet.'
+- **Question you can find out**: A question that looking, counting or testing can answer. 'Why is there a sky?' is hard to answer by looking. 'Does a cut apple go brown faster in air or in water?' can be tested. *e.g.* 'Do more crows come to our window in the morning or in the afternoon?' You can find out by counting at both times for a week.
+- **Observe**: To look at something carefully, and use your other senses too: listen, touch, smell, and sometimes taste, if it is safe. An observation is one thing you noticed. *e.g.* An observation of an apple slice: 'The cut side is cream, wet and shiny. It smells sweet.'
 - **Record**: What you write, draw or photograph at the time you observe, so you don't have to remember it later. A record always says when each observation was made. *e.g.* '4:10 pm. Plain slice: light yellow, score 1.' That line is a record.
-- **Prediction**: A guess about what will happen, made before you test, with a reason. 'I think the lemon slice will stay pale, because cooks squeeze lemon on cut fruit' is a prediction with a reason. *e.g.* Before cutting the apple, Arjun predicts that the slice under water will stay pale longest.
-- **Plan**: The steps you decide on before you start finding out: your question, your guess and why, what you will look at, what you will compare, how often and how long you will look, and how you will write it down. *e.g.* Lakshmi's plan: 'Three slices. Look every 10 minutes for an hour. Give each a colour score from 0 to 3.'
+- **Prediction**: A guess about what will happen, made before you test, with a reason. 'I think the lemon slice will stay pale, because cooks squeeze lemon on cut fruit' is a prediction with a reason. *e.g.* A prediction made before cutting the apple: 'The slice under water will stay pale longest.'
+- **Plan**: The steps you decide on before you start finding out: your question, your guess and why, what you will look at, what you will compare, how often and how long you will look, and how you will write it down. *e.g.* A plan: 'Three slices. Look every 10 minutes for an hour. Give each a colour score from 0 to 3.'
 - **Compare**: To look at two or more things side by side to see how they are the same and how they differ. *e.g.* We compare a plain apple slice with a slice that has lemon juice on it.
 - **Fair test**: A test where only one thing is different between the things you compare, and everything else is kept the same. Then any difference you see must come from that one thing. *e.g.* All three slices come from the same apple, are cut at the same time, and sit in the same room. Only plain, lemon or water is different.
 - **Observing over time**: Looking at the same thing again and again, at set times, and recording each look. It shows changes that are too slow to see in one look. *e.g.* Photographing the same banana every morning for five days shows it going from yellow to spotted to brown.
@@ -40,14 +40,14 @@ Children wonder about everything, and every wondering is worth keeping. Some won
 **Definition:** A plan answers these questions before you begin: What is my question? What do I guess, and why? What will I look at? What will I compare, and what will I keep the same? How often will I look, and for how long? How will I write it down? What do I need, and what must be done safely?
 
 A plan saves you from finding out too late that you forgot something. If you don't write the start time, you can't say how long the change took. If you don't keep everything else the same, you can't say what caused a difference. If you only look at the start and the end, you miss when the change happened. Writing your guess first matters too. Once you have seen the result, it is easy to think 'I knew that all along.' A written guess keeps you honest, and a wrong guess is often the most interesting part.
-- e.g. Divya forgot to label her slices, and after an hour she could not tell which one had lemon on it. Now she writes labels before she cuts.
+- e.g. If you forget to label your slices, after an hour you cannot tell which one had lemon on it. So write the labels before you cut.
 - e.g. A plan for a banana: 'Question: how fast do brown spots appear? Look each morning at 8. Same spot on the table, same light. Count spots and take a photo.'
-- e.g. Before the apple test, Farhan writes, 'I think the water slice will brown fastest, because water makes things go soggy.' He turns out to be wrong, and that is useful.
+- e.g. Before the apple test, a child writes, 'I think the water slice will brown fastest, because water makes things go soggy.' The guess turns out to be wrong, and that is useful.
 ### Observing over time · *defined*
 **Definition:** Observing over time means looking at the same thing again and again, at chosen times, in the same way each time, and recording each look.
 
 Many changes are too slow for our eyes. An apple slice browns, a banana ripens, a child grows, and the Moon changes shape. If you stare, you see nothing happen. If you look at set times and record each look, the records lay the change out in a row, like frames of a film. Each look should be done the same way: from the same place, in the same light, judged on the same scale. Otherwise a change in the light might look like a change in the apple. A phone photo from the same spot each time is a very good record.
-- e.g. A height mark on the door frame every birthday shows how much a child grew, though nobody saw them grow.
+- e.g. A height mark on the door frame every birthday shows how much a child grew, though nobody saw the child growing.
 - e.g. Maria Mitchell, an American astronomer, looked at the sky from her roof on clear nights. On 1 October 1847 she found a comet nobody had reported before. She knew it was new because she knew the sky so well.
 - e.g. India's weather scientists have written down the day the monsoon reaches Kerala every year for more than a hundred years. That long record shows how much the date changes from year to year.
 ### How often to look · *defined*
@@ -69,11 +69,11 @@ People often remember things wrongly, even things they saw clearly. Our memory f
 
 An apple is made of millions of tiny cells. Inside them are colourless substances, and in other parts of the cells there is an enzyme, a helper that speeds up one change. In a whole apple, these are kept apart, so the flesh stays cream. A knife breaks the cells, the two mix, and the oxygen in the air joins in. The brown appears first where the air touches the cut face. Under water, much less oxygen reaches the slice, so it browns slowly. Lemon juice is sour, or acidic, and this enzyme works slowly in acid. Lemon juice also has vitamin C, which undoes the first step of the browning. Cold slows the enzyme too, so a slice in the fridge browns more slowly. A brown apple slice is not rotten. It is safe to eat, though it may taste a little different.
 - e.g. A cut potato, a cut brinjal and a peeled banana brown for the same reason.
-- e.g. Many cooks drop cut brinjal (baingan, begun, kathirikai), potato or raw banana into a bowl of water until they are ready to cook it.
+- e.g. Many cooks drop cut brinjal (baingan, begun, kathirikai), potato or raw banana into a bowl of water until it is time to cook them.
 - e.g. A bitten apple browns around the tooth marks first, where the cells were broken.
-### Why does an apple make brown at a cut? · *idea*
+### How might browning help the apple? · *idea*
 An apple tree's fruit faces real problems. Insects bite into it, birds peck it, and germs, such as fungi and bacteria, try to get in through any wound. Many scientists think the browning is part of the fruit's defence. The brown substances, and the ones made just before them, can harm germs and insects and seal the wound a little, rather like a scab. In one experiment, tomato plants made to have less of this enzyme were harmed more by disease. But this is still being studied, and the enzyme may have other jobs in the plant too.
-- e.g. Scientists have made a kind of apple that hardly browns, by switching off the gene for this enzyme.
+- e.g. Scientists have made a kind of apple that hardly browns, by switching off the gene for this enzyme. A gene is the part of a living thing's instructions that tells the cells how to make one thing, here the enzyme.
 - e.g. Black tea is made by crushing tea leaves and letting them turn brown by a similar change. People do this on purpose, for the flavour and colour.
 - **Many plant scientists:** The browning helps defend a damaged fruit or leaf against insects and germs.
 - **Other plant scientists:** Defence is one job, but the enzyme probably has other jobs inside the healthy plant that we don't fully understand yet.
@@ -114,7 +114,7 @@ Hold a pencil at arm's length and look past it at a far wall. Close one eye, the
 ## Roots
 We have planned a test and watched apple slices turn brown over an hour, and heard how Tycho Brahe watched a new star. Now we ask what slow changes tell us about ourselves and the world.
 
-**Deep truth.** Each time you glanced at the plain apple slice, it looked the same as a moment before. Yet your drawings from every ten minutes showed it turning brown. A change can be too slow for the eye, and still be real. So many things that look still are changing, only too slowly to see.  
+**Deep truth.** In the Brown Apple Watch, each time you glanced at the plain apple slice, it looked the same as a moment before. Yet your drawings from every ten minutes showed it turning brown. A change can be too slow for the eye, and still be real. This means that many things that look still are changing, only too slowly to see.  
 *Habit it breaks:* We sort the world into things that change and things that stay still. A record kept over time shows changes our eyes miss, so something that looks still may be changing slowly.  
 *Evidence:* In one minute of staring, nobody saw the plain slice change. Laid side by side, the drawings made every ten minutes went from cream to brown. Tycho's nightly measurements showed the 'unchanging' sky changing too.
 
@@ -122,7 +122,7 @@ We have planned a test and watched apple slices turn brown over an hour, and hea
 - *what is life:* Every living being is always changing: growing, healing, ripening and ageing, mostly too slowly for one look.
 - *what is this world:* Even stars change. Tycho Brahe watched a new star blaze up and fade away over about a year and a half.
 
-Your drawings show the same slice at different moments: cream, yellow, light brown, brown. Laid in a row, they show one change unfolding. A record lets us join separate looks into one story of change.
+Your drawings from the Brown Apple Watch show the same slice at different moments: cream, yellow, light brown, brown. Laid in a row, they show one change happening step by step. A record lets us join separate looks into one story of change.
 
 - **Heraclitus, fragment B91 (Diels-Kranz numbering), about 500 BCE:** You cannot step into the same river twice. (A river looks the same from day to day, but the water in it is always new. The apple slice looked the same from minute to minute, but it was always changing.)
 - **Dhammapada, verse 277:** All made things are impermanent. When one sees this with wisdom, one turns away from suffering. (The Buddha taught that nothing made stays the same. The apple, the banana and the new star of 1572 all show it, each at its own speed.)
@@ -136,9 +136,9 @@ Your drawings show the same slice at different moments: cream, yellow, light bro
 - Ask: You change every day, too slowly to see. What would a record of your whole life show?
 
 ## Deep and big questions
-- *big:* Your apple slice looked still, but it was changing. Is anything in your room really still, or is everything changing too slowly to see? (hint: Think about a wall, a steel tumbler, a plant and yourself. What would you see if you photographed each one every day for a hundred years?)
+- *big:* In the Brown Apple Watch, the apple slice looked still, but it was changing. Is anything in your room really still, or is everything changing too slowly to see? (hint: Think about a wall, a steel tumbler, a plant and yourself. What would you see if you photographed each one every day for a hundred years?)
 - *deep:* If nobody looks at the apple slice, does it still turn brown? (hint: Leave a slice in a closed room and look only after an hour. What does that tell you?)
-- *deep:* Why did nobody see the apple change, even though it changed while they watched? (hint: How big was the change in one minute? Could your eyes notice a change that small?)
+- *deep:* When you stare at a cut apple slice for a minute, you see no change, though the slice is changing. Why? (hint: How big was the change in one minute? Could your eyes notice a change that small?)
 - *big:* You are growing all the time, but you don't notice yourself growing. Are you the same person you were as a baby? (hint: Look at a baby photo of yourself. What has changed? What has stayed the same?)
 - *big:* Tycho Brahe trusted his measurements more than the words of a famous thinker. When should we trust what we see over what we are told? (hint: What made Tycho's measurements strong? Could he have been wrong too?)
 - *deep:* Some changes take longer than a whole human life, like a mountain wearing down. How could people ever find out about them? (hint: Think about records that are passed on, like a notebook kept by a grandmother and then her granddaughter.)
@@ -235,7 +235,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 
 ## Games
 ### g1 · Spot the Change: memory or record? (15 min)
-- **rules:** Lay 7 small things from home on the tray grid, one in each of 7 squares: for example a steel spoon, a one-rupee coin, a pencil, a bangle, a rubber band, a matchbox and a button.; Memory round: the looker studies the tray for 30 seconds, then turns away. The changer picks 2 change cards and makes those changes. The looker turns back and says what changed.; Drawing round: the looker has 30 seconds to look at the tray and draw a quick map of it on a paper with 9 squares, with arrows for which way things point. Then the looker turns away and the changer makes 2 changes. The looker turns back and checks the tray against the drawing.; Score 1 point for each real change found. Saying a change that did not happen scores nothing. The trick card means only the other card's change is made.; After each round, the changer puts the tray back to its 7 things and the cards go to the bottom of the pile. Play 3 memory rounds and 3 drawing rounds, taking turns to be the changer. Then compare the totals.; With a parent: take turns being the changer. With 3 or 4 players: one is the changer, and all the others are lookers who each keep their own score. The changer changes every round. The game ends after the 6 rounds, and the shared question is which way found more changes.
+- **rules:** Lay 7 small things from home on the tray grid, one in each of 7 squares: for example a steel spoon, a one-rupee coin, a pencil, a bangle, a rubber band, a matchbox and a button.; Memory round: the looker studies the tray for 30 seconds, then turns away. The changer picks 2 change cards and makes those changes. The looker turns back and says what changed.; Drawing round: the looker has 30 seconds to look at the tray and draw a quick map of it on a paper with 9 squares, with arrows for which way things point. Then the looker turns away and the changer makes 2 changes. The looker turns back and checks the tray against the drawing.; Score 1 point for each real change found. Saying a change that did not happen scores nothing. The trick card means only the other card's change is made.; After each round, the changer puts the tray back to its 7 things and the cards go to the bottom of the pile. Play 3 memory rounds and 3 drawing rounds, taking turns to be the changer. Then compare the totals.; With a parent: take turns being the changer. With 3 or 4 players: one is the changer, and all the others are lookers who each keep their own score. A different player is the changer in each round. The game ends after the 6 rounds. Then everyone asks: which way found more changes, memory or drawing?
 - **Printable board: A tray grid: a sheet with 9 squares to lay things on:** Square 1; Square 2; Square 3; Square 4; Square 5; Square 6; Square 7; Square 8; Square 9
 - **Printable cards: 12 change cards to cut out, for the changer:** Swap two things; Turn one thing upside down; Take one thing away; Add one new thing; Move one thing to an empty square; Turn the spoon to point the other way; Open or close the box; Put the coin on its other side; Roll the rubber band into a ball, or unroll it; Swap a thing for one that looks almost the same; Move one thing a little, inside its square; Change nothing at all (a trick card)
 - **Printable score sheet: Score sheet:** Memory round 1: changes found ___ of changes made ___; Memory round 2: changes found ___ of changes made ___; Memory round 3: changes found ___ of changes made ___; Drawing round 1: changes found ___ of changes made ___; Drawing round 2: changes found ___ of changes made ___; Drawing round 3: changes found ___ of changes made ___; Memory rounds: total found ___; Drawing rounds: total found ___
@@ -258,10 +258,11 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent does:* Add up the scores for the memory rounds and the drawing rounds. Compare them.  
   *Parent says:* Let's add up. Which way found more changes? Was your first guess right?  
   *Child mode:* Add up your points for each kind of round. Which won? Was your guess right?
+  - Note: A good answer says that memory can miss a change or invent one, but a drawing made at the time stays the same and can be checked. Scientists write things down at the time for this reason.
   - Think: Scientists write things down at the time they see them. After this game, can you say why?
 ### g2 · One Look or Long Watch? A question sorting game (15 min)
 - **rules:** Shuffle the question cards and put them face down. The box and the answer are on the back, so keep the back hidden until the card is sorted.; On your turn, pick up a card and read the question out loud.; Put it in a box on the sorting mat, and say why. For a long watch, say how often you would look. For a test, say what you would compare.; The other players can agree or argue. Then turn the card over and check the back.; Score 1 point for the right box, and 1 more for a good reason. Some questions fit two boxes. If you can argue well for your box, you keep the point.; The game ends when all 20 cards are sorted. With 2 to 4 players, take turns; the most points wins. Playing alone, add up your points and try to beat them next time.
-- **Printable cards: 20 question cards to cut out (question on the front, the box it goes in on the back):** What colour is the inside of a cucumber? (back: One look: Cut it open and look.); How many legs does an ant have? (back: One look: Look closely, with a hand lens if you have one.) [picture]; Does our banana get more brown spots each day? (back: Long watch: Look and count every day.); Does the Moon look the same shape every night? (back: Long watch: Look every evening for a month.) [picture]; How much does a moong sprout grow in a week? (back: Long watch: Measure it every day.); When does the sunny patch reach the far wall of the room? (back: Long watch: Check the patch every 15 minutes.); Does a cut apple brown faster in the fridge or on the table? (back: Test: Compare two slices, one in each place.); Does sugar dissolve faster in hot water or cold water? (back: Test: Compare two glasses, one hot and one cold.); Which of our chappals grips best on a wet floor? (back: Test: Try each chappal on the same wet floor and compare.); Does a paper boat float longer if it is made from newspaper or from a page of a notebook? (back: Test: Make two boats the same size and compare.); What did your grandmother, or an older person you know, eat for breakfast when they were a child? (back: Ask or read: Ask an older person.); How far away is the Sun? (back: Ask or read: Read it in a book. You cannot look or test this at home.) [picture]; How many crows land on our railing between 7 and 8 in the morning? (back: Long watch: Count them for the whole hour, on several days.) [picture]; Does the steel tumbler feel colder than the wooden table? (back: One look: Touch both. One touch is enough.); Does a curry leaf plant grow towards the window? (back: Long watch: Look at it every few days for a few weeks.) [picture]; Does our tap drip faster at night? (back: Long watch: Count the drips for one minute, at several times of the day and night.); Which dries faster on the clothesline, a thick towel or a thin cotton dupatta? (back: Test: Wet both the same amount and hang them side by side.); How many seeds are inside one tomato? (back: One look: Cut it open and count.); What will the weather be like on my birthday next year? (back: Hard to find out by looking: Nobody can look at next year's weather today.); What does a crow dream about? (back: Hard to find out by looking: A crow cannot tell us, and we cannot look inside a dream.) [picture]
+- **Printable cards: 20 question cards to cut out (question on the front, the box it goes in on the back):** What colour is the inside of a cucumber? (back: One look: Cut it open and look.); How many legs does an ant have? (back: One look: Look closely, with a hand lens if you have one.) [picture]; Does our banana get more brown spots each day? (back: Long watch: Look and count every day.); Does the Moon look the same shape every night? (back: Long watch: Look every evening for a month.) [picture]; How much does a moong sprout grow in a week? (back: Long watch: Measure it every day.); When does the sunny patch reach the far wall of the room? (back: Long watch: Check the patch every 15 minutes.); Does a cut apple brown faster in the fridge or on the table? (back: Test: Compare two slices, one in each place.); Does sugar dissolve faster in hot water or cold water? (back: Test: Compare two glasses, one hot and one cold.); Which of our chappals grips best on a wet floor? (back: Test: Try each chappal on the same wet floor and compare.); Does a paper boat float longer if it is made from newspaper or from a page of a notebook? (back: Test: Make two boats the same size and compare.); What did your grandmother, or an older person you know, eat for breakfast when they were a child? (back: Ask or read: Ask an older person.); How far away is the Sun? (back: Ask or read: Read it in a book. You cannot find this out by looking or testing at home.) [picture]; How many crows land on our railing between 7 and 8 in the morning? (back: Long watch: Count them for the whole hour, on several days.) [picture]; Does the steel tumbler feel colder than the wooden table? (back: One look: Touch both. One touch is enough.); Does a curry leaf plant grow towards the window? (back: Long watch: Look at it every few days for a few weeks.) [picture]; Does our tap drip faster at night? (back: Long watch: Count the drips for one minute, at several times of the day and night.); Which dries faster on the clothesline, a thick towel or a thin cotton dupatta? (back: Test: Wet both the same amount and hang them side by side.); How many seeds are inside one tomato? (back: One look: Cut it open and count.); What will the weather be like on my birthday next year? (back: Hard to find out by looking: Nobody can look at next year's weather today.); What does a crow dream about? (back: Hard to find out by looking: A crow cannot tell us, and we cannot look inside a dream.) [picture]
 - **Printable board: A sorting mat with 5 boxes:** One look; Long watch; Test; Ask or read; Hard to find out by looking
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the sorting mat. 2. Shuffle the 20 cards with the backs hidden.  
@@ -274,14 +275,15 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   - Check: Does our banana get more brown spots each day? Which box does this go in? → **Long watch**
 - **s3 (8 min)**  
   *Parent does:* Take turns with the rest of the cards. For each long watch, the player says how often they would look. For each test, they say what they would compare.  
-  *Parent says:* Long watch? How often would you look, and for how long? Test? What would you compare?  
-  *Child mode:* Pick a card. Read it. Put it in a box. Say why. Long watch? Say how often you would look.
+  *Parent says:* If it is a long watch, how often would you look, and for how long? If it is a test, what would you compare?  
+  *Child mode:* Pick a card. Read it. Put it in a box. Say why. If it is a long watch, say how often you would look.
   - Note: The best talk comes from cards that fit two boxes. 'When does the sunny patch reach the far wall?' could be a long watch on one day, or you could ask someone who has noticed. Let your child argue. A good reason is worth more than the right box.
 - **s4 (2 min)**  
   *Parent does:* Look at the two cards in 'Hard to find out by looking'. Talk about them.  
   *Parent says:* These two are in the hard box. Could anyone ever find out the answers? How might they try?  
   *Child mode:* Look at the hard box. Could anyone ever find out these? How might they try?
-  - Think: Weather scientists do try to say what the weather will be. How far ahead do you think they can?
+  - Note: Forecasts for tomorrow or the next few days are fairly good, because scientists can look at the weather now. Nobody can say what the weather will be on one day next year, because it cannot be looked at today.
+  - Think: Weather scientists do try to say what the weather will be. Could anyone say what the weather will be on one particular day next year? What about tomorrow?
 
 ## Experiments
 ### e1 · The Brown Apple Watch (35 min)
@@ -318,10 +320,10 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Child mode:* Every 10 minutes, look again. Score each slice. Draw it. Write the time. Then go and do something else.
   - Note: Each look takes about 2 minutes, so six looks take about 12 minutes, spread over an hour. Look in the same place and light each time. Light from a window changes through the day, so a lamp you switch on for each look gives the fairest light. If after an hour the plain slice still looks pale, your apple is a slow-browning kind. Leave it two more hours and look again, and write that the apple browned slowly.
 - **s6 (5 min)**  
-  *Parent does:* 1. Lay the drawings side by side. 2. Ask your child to say what they think happened, what they saw, and why. 3. Read the explanation card 'Why a cut apple turns brown'.  
+  *Parent does:* 1. Lay the drawings side by side. 2. Ask your child what they guessed, what they saw, and why they think it happened. 3. Read the explanation card 'Why a cut apple turns brown'.  
   *Parent says:* Let's lay the drawings in a row. Which slice browned fastest? What did your record show that staring didn't? Now, why do you think it happened?  
   *Child mode:* Look at your drawings in a row. Which slice went brown fastest? Was your guess right? Why do you think it happened?
-  - Ask: What did you think, what did you see, and why do you think it happened? (good: I thought the water one would brown first. But the plain one did. The air touched it most.; The lemon slice stayed at 0. Lemon must stop the browning.)
+  - Ask: What did you think would happen? What did you see? Why do you think it happened? (good: I thought the water one would brown first. But the plain one did. The air touched it most.; The lemon slice stayed at 0. Lemon must stop the browning.)
   - Note: Expect the plain slice to brown most and the lemon slice least. The water slice is usually in between, browning slowly. Lemon juice is sour, and the enzyme that makes the brown works slowly in sour juice. Water keeps out most of the oxygen.
   - Check: The plain slice browned and the water slice stayed paler. What does this tell us? → **Something in the air helps the apple turn brown**
 - **s7 (2 min)**  
@@ -329,9 +331,9 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent says:* All three are safe to eat. Does the brown one taste different? Does the lemon one?  
   *Child mode:* You can taste each slice. They are all safe. Does the brown one taste different?
 ### e2 · Plan Your Own Apple Test (30 min)
-- **question:** Pick one: does a slice brown more slowly in the fridge? In salty water, compared with plain water? Under an upside-down steel bowl? Your plan answers the one you pick.
+- **question:** Pick one question. Does a slice brown more slowly in the fridge than on the table? Does it brown more slowly in salty water than in plain water? Does it brown more slowly under an upside-down steel bowl than in the open? Your plan answers the one you pick.
 - **predict:** Before you start, write what you think will happen to your two slices, and why you think so.
-- **fair test:** Two slices from the same apple, cut at the same time, the same thickness. One is your 'normal' slice. The other gets your one change. For the fridge test and the bowl test, the normal slice sits on a plate on the table. For the salt test, the normal slice sits in plain water, so that only the salt is different. Everything else stays the same, and you score both at the same times with the same colour card.
+- **fair test:** Cut two slices from the same apple, at the same time, to the same thickness. One is your 'normal' slice. The other gets your one change. For the fridge test and the bowl test, the normal slice sits on a plate on the table. For the salt test, the normal slice sits in plain water, so that only the salt is different. Everything else stays the same, and you score both at the same times with the same colour card.
 - **safety:** A grown-up cuts the apple.
 - **record:** Write your plan on one page and your results table on the next. Draw both slices at every look.
 - **results table:** Time (minutes after cutting) | Normal slice: colour score (0 to 3) | Changed slice: colour score | What I noticed
@@ -340,7 +342,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent says:* This time you're the scientist who makes the plan. Choose one change. Then write each part of your plan. I'll only check that nothing is missing.  
   *Child mode:* Choose one change: fridge, salty water, or a bowl on top. Write your question. Write your guess and why. Write what stays the same.
   - Ask: What will you keep the same for both slices? (good: The same apple.; Cut at the same time.; The same thickness.; The same colour card and the same light.)
-  - Note: Let your child make the choices, even if you think a choice won't work well. If they forget to write how often they will look, ask 'When will you look?' rather than telling them. Every 10 minutes for an hour works. For the fridge test, take the slice out only for the few seconds it takes to score it, because warming it changes the test. A fridge is also darker than the table, so say that the change is 'cold and dark'. For the bowl test, lift the bowl only for the few seconds of scoring.
+  - Note: Let your child make the choices, even if you think a choice won't work well. If they forget to write how often they will look, ask 'When will you look?' rather than telling them. Every 10 minutes for an hour works. For the fridge test, take the slice out only for the few seconds it takes to score it, because warming it changes the test. A fridge is also darker than the table. So the fridge slice differs in two ways, cold and dark. Say this when you talk about the result, so your child does not blame the cold alone. For the bowl test, lift the bowl only for the few seconds of scoring.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* Cut two slices at the same time. Put the normal slice in its place and give the other slice its change. Write the start time.  
   *Parent says:* Two slices, cut at the same moment. Which one gets the change? Write the time.  
@@ -354,14 +356,14 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent does:* Compare the two rows of drawings. Ask what your child found, and whether the plan worked.  
   *Parent says:* What did your test show? Did your plan work? Is there anything you would change if you did it again?  
   *Child mode:* What did your test show? Was your guess right? What would you change next time?
-  - Check: A girl tested a slice under an upside-down steel bowl. It browned almost as fast as her open slice. Why? → **There was still air with oxygen inside the bowl**
+  - Check: A slice under an upside-down steel bowl browned almost as fast as a slice in the open. Why? → **There was still air with oxygen inside the bowl**
 
 ## Activities
 ### a1 · From Wondering to a Question (10 min)
 - **record:** Write the five wonderings, then the two new questions underneath.
 - **s1 (4 min)**  
-  *Parent does:* 1. Walk around the flat for two minutes with your child. 2. Each of you notices things and says 'I wonder…'. 3. Write down five wonderings.  
-  *Parent says:* Let's walk around the house and say 'I wonder' about anything we notice. Any wondering is good. I'll go first. I wonder why the fruit bowl bananas get spots.  
+  *Parent does:* 1. Walk around your home for two minutes with your child. 2. Each of you notices things and says 'I wonder…'. 3. Write down five wonderings.  
+  *Parent says:* Let's walk around the house and say 'I wonder' about anything we notice. Any wondering is good. I'll go first. I wonder why the bananas in the fruit bowl get spots.  
   *Child mode:* Walk around your home. Look at things. Say 'I wonder…' about anything. Write down five.
   - Note: Wonderings can be anything: 'I wonder why the fan wobbles', 'I wonder where the ants go'. Don't judge them. Write them in your child's words.
 - **s2 (5 min)**  
@@ -370,13 +372,13 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Child mode:* Pick two wonderings. What could you look at or count? Write a question you can find out.
   - Check: Which question can you find out at home by looking or testing? → **Do ants come to a grain of sugar faster than a grain of salt?**
 - **s3 (1 min)**  
-  *Parent does:* Keep the page. Some of these questions can become the child's own investigation later.  
+  *Parent does:* Keep the page. Some of these questions can become your child's own investigation later.  
   *Parent says:* Let's keep these. One of them might be your next investigation.  
   *Child mode:* Keep this page. One of these could be your next test.
 ### a2 · Draw It Twice: memory and looking (12 min)
 - **record:** Put both drawings side by side and write three things the looking drawing has that the memory drawing doesn't.
 - **s1 (3 min)**  
-  *Parent does:* Without showing the leaf, ask your child to draw a leaf from memory.  
+  *Parent does:* Keep the real leaf hidden. Ask your child to draw a leaf from memory.  
   *Parent says:* Draw a leaf from memory. You have seen so many of them. Put in everything you remember.  
   *Child mode:* Draw a leaf from memory. Put in everything you remember.
 - **s2 (6 min)**  
@@ -404,15 +406,18 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   - Note: Keep it to exactly one minute each time, using a timer. That makes the counts fair to compare. If you miss a time, write 'missed' rather than guessing.
 - **s3 (2 min)**  
   *Parent does:* In the evening, look at the whole sheet together. What changed through the day?  
-  *Parent says:* Look at the whole day. When were there most people? Most crows? Could one day be a fluke?  
+  *Parent says:* Look at the whole day. When were there most people? When were there most crows? Would tomorrow be the same?  
   *Child mode:* Look at your whole day. When did you see the most? Would tomorrow be the same?
+  - Note: Several days. One day can be unusual, for example if a loud lorry passed at one o'clock. A pattern is only believable when the same counts at the same times come out alike on many days.
   - Think: To be sure about a pattern, how many days would you need to watch?
 ### a4 · The Pencil Jump: Tycho's near-or-far test (6 min)
+- **problem:** When you look at something from two different places, a near thing seems to jump against the things far behind it. A very far thing does not seem to jump at all. In 1572 Tycho Brahe used this to find out whether a new star was near or far. Here you try it with a pencil.
 - **record:** Draw where the pencil seemed to be with the left eye, and with the right eye.
 - **s1 (3 min)**  
   *Parent does:* 1. Hold a pencil at arm's length in front of a window. 2. Close your left eye, then open it and close your right eye. 3. Do it again with the pencil about a hand's width from your nose. Which time does it jump more?  
   *Parent says:* Hold the pencil out. Close one eye. Now swap. Does the pencil seem to jump? Does the building outside jump?  
   *Child mode:* Hold the pencil out far. Close one eye. Swap eyes. Does the pencil jump? Does the far building jump?
+  - Note: The pencil close to your nose jumps more than the pencil at arm's length. The far building hardly jumps at all. The nearer something is, the more it seems to jump.
 - **s2 (3 min)**  
   *Parent does:* Talk about what it means for Tycho's new star.  
   *Parent says:* Your two eyes are in different places. A near thing seems to jump. A far thing doesn't. Tycho looked for a jump like this in his new star.  
@@ -426,7 +431,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent does:* 1. Choose a view: a tree outside the window, a potted plant, or the fruit bowl. 2. Put tape on the floor where your child stands. 3. Take the first photo and note the time.  
   *Parent says:* Every day this week, at this same time, you'll stand on this tape and take one photo. Why do you think we use the same spot and the same time?  
   *Child mode:* Stand on the tape. Take a photo of your view. Do it every day at this time.
-  - Ask: Why the same spot and the same time? (good: So the only change is in the view.; So the light is the same.; So the photos match.)
+  - Ask: Why do we use the same spot and the same time every day? (good: So the only change is in the view.; So the light is the same.; So the photos match.)
 - **s2 (5 min)**  
   *Parent does:* Each day, take the photo from the tape mark at the same time.  
   *Parent says:* Photo time. Stand on the tape.  
@@ -441,9 +446,9 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 ## Projects
 ### p1 · One Banana, Five Days (25 min, 5 days)
 - **record:** A table with the day, the time, the colour score, the number of spots and a drawing or photo, every morning for five days.
-- **schedule:** day 1: Write the plan. Put the banana on a plate. Photograph it, score its colour and count its spots. (8 min); day 2: Same time, same place: photo, score, spot count. (3 min); day 3: Photo, score, spot count. (3 min); day 4: Photo, score, spot count. (3 min); day 5: Last look. Put the five records in a row. Draw a bar chart of the spots. (8 min)
+- **schedule:** day 1: Write the plan. Put the banana on a plate. Photograph it, score its colour and count its spots. (8 min); day 2: At the same time and in the same place, take a photo, score the colour and count the spots. (3 min); day 3: Take a photo, score the colour and count the spots. (3 min); day 4: Take a photo, score the colour and count the spots. (3 min); day 5: Last look. Put the five records in a row. Draw a bar chart of the spots. (8 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Write the plan with your child: question, guess and why, what to look at, how often, how to record. 2. Make a colour score: 1 yellow, 2 yellow with a few brown spots, 3 many spots, 4 mostly brown. 3. Put the banana on a plate on the table, out of direct sun. 4. First photo, colour score and spot count.  
+  *Parent does:* 1. Write the plan with your child: question, guess and why, what to look at, how often, how to record. 2. Make a colour score: 1 yellow, 2 yellow with a few brown spots, 3 many spots, 4 mostly brown. 3. Put the banana on a plate on the table, out of direct sun. 4. Take the first photo, score the colour and count the spots.  
   *Parent says:* Our question: how fast does a banana get brown spots? What's your guess? We'll look every morning at the same time. Count the spots, score the colour, take a photo.  
   *Child mode:* Write your plan. Put the banana on the plate. Count its brown spots. Take a photo. Write the time.
   - Ask: How often should we look at a banana, and why not every ten minutes? (good: Once a day, because bananas change slowly.; Every ten minutes we'd see nothing new.)
@@ -457,7 +462,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent does:* On day 5, put the five photos or drawings in a row. Draw a bar chart of the spot counts.  
   *Parent says:* Let's look at all five days. When did the spots grow fastest? What do you think would happen by day 8?  
   *Child mode:* Put your five days in a row. Draw a bar for each day's spots. When did they grow fastest?
-  - Check: Sundari, a girl in Class 3, counted the brown spots on her banana each morning: 0 on day 1, 2 on day 2, 6 on day 3 and 15 on day 4. What happened to the spots? → **They grew faster each day**
+  - Check: The brown spots on a banana were counted each morning: 0 on day 1, 2 on day 2, 6 on day 3 and 15 on day 4. What happened to the spots? → **They grew faster each day**
 ### p2 · A Tree From My Window: one month (40 min, 30 days)
 - **safety:** Watch from inside the window or behind the balcony railing.
 - **record:** On each look day, the date, a drawing, and answers to the same four questions: new leaves? flowers? fruit? visitors?
@@ -476,6 +481,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent does:* On day 29, make the last look and the last drawing. Then compare all five records.  
   *Parent says:* What changed in a month? Did anything change that you never noticed on a single day?  
   *Child mode:* Look at all five records. What changed?
+  - Note: Many years of records can show whether the leaves, flowers and fruit come earlier or later in some years, and whether this is slowly changing. A single month cannot show that.
   - Think: SeasonWatch has records from many years. What could many years show that one month cannot?
 
 ## Challenges
@@ -498,12 +504,13 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent does:* Carry out the plan for about two hours. Each mark takes about two minutes, so the marking is about 15 minutes of work in all, spread over the two hours.  
   *Parent says:* Time to mark it. Write the time on the mark.  
   *Child mode:* Mark the patch. Write the time. Go and play. Come back for the next mark.
-  - Note: The patch moves because the Earth turns, so the Sun's direction changes through the day. On a cloudy day, try another day. A window facing east is best in the morning, and one facing west in the afternoon.
+  - Note: The patch moves because the Earth turns, so the Sun's direction changes through the day. If the day is cloudy, wait for a sunny day. A window facing east is best in the morning, and one facing west in the afternoon.
 - **s4 (5 min)**  
   *Parent does:* Read the usual and creative solutions together, then improve your own.  
   *Parent says:* Here are some usual ways and some creative ones. Could you make yours better?  
   *Child mode:* Look at the usual ideas and some creative ones. Could you make yours better?
-  - Think: Long ago, people used a stick's moving shadow to tell the time. How is that like your record?
+  - Note: Your marks show where the patch is at each time. So if you see the patch on a mark, you can read the time from the mark. A stick's shadow works in the same way.
+  - Think: Long ago, people told the time by where the shadow of a stick fell. A shadow moves because the Sun seems to move across the sky. Your sunny patch moves for the same reason, so what could your marks tell you about the time?
 ### c2 · The Plan Swap (30 min)
 - **problem:** A scientist's plan must be so clear that another scientist, somewhere else, can repeat the test and check the result. Can you write an apple-slice plan that a grown-up can follow exactly, without asking you a single question?
 - **your turn:** Now write your own plan for a different slow change, like a banana ripening, and swap it with someone. Could they follow it without asking you anything?
@@ -527,10 +534,10 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 
 ## Worksheets
 ### Plan It, Watch It (core) (core, 15 questions)
-1. (mcq) Meenakshi, a girl in Class 3 in Madurai, wonders about the ants in her kitchen. Which of her questions can she find out at home by watching or testing?  
+1. (mcq) You wonder about the ants in your kitchen. Which of these questions can you find out at home by watching or testing?  
    Options: Why are there ants in the world? / Do the ants reach a grain of sugar or a grain of rice first? / Do ants have best friends?  
-   **Answer:** Do the ants reach a grain of sugar or a grain of rice first?. *Why:* Meenakshi can put a grain of sugar and a grain of rice near the ant trail and watch which one the ants reach first. The other two questions are real and interesting, but one test at home can't answer them. A strong answer says what she would actually do.
-2. (truefalse) Lakshmi, a girl in Class 3, says, 'If I stare at a cut apple slice for one minute, I will see it turn brown.' Is she right?  
+   **Answer:** Do the ants reach a grain of sugar or a grain of rice first?. *Why:* You can put a grain of sugar and a grain of rice near the ant trail and watch which one the ants reach first. The other two questions are real and interesting, but one test at home can't answer them. A strong answer says what you would actually do.
+2. (truefalse) If you stare at a cut apple slice for one minute, you will see it turn brown.  
    **Answer:** False. *Why:* False. The slice is changing, but in one minute the change is too small for the eye to notice. Looking every 10 minutes and comparing the drawings shows it clearly.
 3. (fill) Looking at something carefully, and using your other senses too, is called ____.  
    **Answer:** ['observing', 'observation', 'observe']. *Why:* To observe is to notice carefully with your eyes, ears, nose and hands. Each thing you notice is an observation.
@@ -540,7 +547,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
    **Answer:** ['Make the colour card and the table', 'Write your guess and your reason', 'Cut three slices at the same time', 'Score and draw each slice every 10 minutes', 'Compare the drawings in a row']. *Why:* The plan and the guess come first, before anything is cut, so the guess can't be changed after seeing the result. Then the test, then the looks, then the comparing.
 6. (sort) Sort these questions. Can you answer each with one look, or do you need a long watch over time?  
    **Answer:** What colour is a tomato's inside? → One look; Does our tulsi plant grow a new leaf each week? → Long watch; How many windows does our room have? → One look; Does the Moon change shape over a month? → Long watch; Is the steel tumbler shiny? → One look; How fast does a banana get brown spots? → Long watch. *Why:* Anything about how something changes needs a long watch, with looks at set times. A question about how something is right now needs only one look.
-7. (write) Kavya, a girl in Class 3, says she doesn't need to write anything down during the apple test, because she will remember it. Write two reasons why a scientist writes things down at the time.  
+7. (write) Someone says they don't need to write anything down during the apple test, because they will remember it. Write two reasons why a scientist writes things down at the time.  
    **Answer:** Memory changes, and fills gaps with what we expect, so we can remember wrongly without knowing. A record made at the time stays the same, so we can compare looks, and other people can check what we saw.. *Why:* A strong answer gives two different reasons: memory can be wrong, and a record can be checked and compared. A very strong answer gives an example, like the Spot the Change game.
 8. (draw) Draw the three apple slices from the brown apple watch as they looked after one hour: plain, lemon and under water. Colour them and write each one's score.  
    **Answer:** The plain slice brown or light brown (score 2 or 3), the lemon slice still cream (score 0), and the water slice pale or a little yellow (score 0 or 1).. *Why:* Results vary with the kind of apple. A strong drawing shows the plain slice browner than both others, and the lemon slice palest, and matches the child's own record.
@@ -548,11 +555,11 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
    Options: Light / Oxygen / Dust / Warmth  
    **Answer:** Oxygen. *Why:* The browning needs oxygen from the air. Water keeps most of it away. Both slices were in the same light and warmth, so those can't explain the difference. Dust is too little to matter.
 10. (perspective) Two sisters in Kochi are planning the apple test. They disagree about when to look.  
-   **Answer:** A strong answer sees that Aleena's plan is quicker and does show which slice ended up browner. Mini's plan also shows when and how fast each slice changed, which two looks can't show.. *Why:* Both plans answer a question, but not the same question. A strong answer says what each plan can and can't tell you, and chooses the one that fits the question asked.
+   **Answer:** A strong answer sees that the first child's plan is quicker and does show which slice ended up browner. Mini's plan also shows when and how fast each slice changed, which two looks can't show.. *Why:* Both plans answer a question, but not the same question. A strong answer says what each plan can and can't tell you, and chooses the one that fits the question asked.
 11. (odd) Which of these is NOT part of a plan for the apple test?  
    Options: How often to look / What to keep the same / The colour of your T-shirt / How to write it down  
    **Answer:** 2. *Why:* How often, what stays the same and how to record are all parts of a good plan. The colour of your T-shirt makes no difference to the apple.
-12. (write) Divya, a girl in Class 3, wonders, 'Why does our dosa batter get bubbly?' Turn her wondering into a question she could find out by watching or testing.  
+12. (write) Here is a wondering: 'Why does our dosa batter get bubbly?' Turn it into a question you could find out by watching or testing.  
    **Answer:** For example: 'Does the batter rise more in a warm place or in the fridge overnight?' or 'How much higher is the batter after 4 hours, 8 hours and 12 hours?'. *Why:* A strong question says what to look at or measure, and what to compare or how often to look.
 13. (mcq) Which of these is an observation of a cut apple slice?  
    Options: The cut side is cream, wet and shiny, and it smells sweet / Apples are the best fruit / The apple slice is feeling sleepy  
@@ -562,17 +569,17 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 15. (write) Think of something at home that changes too slowly to see in one look. Say how you would find out how fast it changes: what you look at, how often you look, and how you write it down.  
    **Answer:** For example: a wet cloth drying on the line. Look at it every 15 minutes, touch it, score it dry, damp or wet, and write the time and the score each time.. *Why:* A strong answer picks something that really changes, chooses an interval that matches how fast it changes, and says what is written at each look.
 ### Fair Tests and Good Records (stretch) (stretch, 15 questions)
-1. (mcq) Arjun, a boy in Class 3, cut his plain slice from a red apple and his lemon slice from a green apple. The lemon slice stayed paler. What is wrong with his test?  
-   Options: Nothing, it is a fair test / Two things were different, so he can't tell if the lemon or the apple made the difference / He should have used more lemon  
-   **Answer:** Two things were different, so he can't tell if the lemon or the apple made the difference. *Why:* In a fair test only one thing differs. Arjun changed the apple and the lemon at once. Some kinds of apple brown more slowly than others, so the green apple alone might explain it. All slices should come from one apple.
-2. (write) Lakshmi, a girl in Class 3, did the apple test but looked only once, after five hours. All three slices were brown. She says, 'Lemon doesn't work.' What went wrong with her plan, and how should she fix it?  
-   **Answer:** She looked too late, so she missed the time when the lemon slice was still pale and the others were brown. Lemon slows browning, but after many hours even a lemon slice may brown. She should look every 10 minutes for the first hour.. *Why:* A strong answer sees that the interval and the length of the watch were wrong for the question, not the lemon. Slowing a change is not the same as stopping it.
-3. (mcq) Revathi, a girl in Class 3, kept an apple record. Here is part of it. Plain slice: 1 at 20 minutes, 2 at 30 minutes. Water slice: 0 at 20 minutes, 0 at 30 minutes. Which slice changed between 20 and 30 minutes?  
+1. (mcq) In an apple test, the plain slice was cut from a red apple and the lemon slice from a green apple. The lemon slice stayed paler. What is wrong with this test?  
+   Options: Nothing, it is a fair test / Two things were different, so you can't tell whether the lemon or the apple made the difference / More lemon should have been used  
+   **Answer:** Two things were different, so you can't tell whether the lemon or the apple made the difference. *Why:* In a fair test only one thing differs. Here the apple and the lemon were both different. Some kinds of apple brown more slowly than others, so the green apple alone might explain it. All slices should come from one apple.
+2. (write) Someone did the apple test but looked only once, after five hours. All three slices were brown. They said, 'Lemon doesn't work.' What went wrong with the plan, and how should it be fixed?  
+   **Answer:** The look came too late. It missed the time when the lemon slice was still pale and the others were brown. Lemon slows browning, but after many hours even a lemon slice may brown. The plan should be to look every 10 minutes for the first hour.. *Why:* A strong answer sees that the interval and the length of the watch were wrong for the question, not the lemon. Slowing a change is not the same as stopping it.
+3. (mcq) Here is part of an apple record. At 20 minutes the plain slice scored 1 and the water slice scored 0. At 30 minutes the plain slice scored 2 and the water slice scored 0. Which slice changed between 20 and 30 minutes?  
    Options: The plain slice / The water slice / Both / Neither  
    **Answer:** The plain slice. *Why:* The plain slice went from score 1 to score 2. The water slice stayed at 0. Reading a record line by line shows exactly when each change happened.
-4. (sort) Kavya, a girl in Class 3, tests whether a slice browns more slowly in the fridge. Sort these into what she changes and what she keeps the same.  
-   **Answer:** where the slice is: fridge or table → Changes; which apple the slices come from → Keeps the same; how thick the slices are → Keeps the same; when the slices are cut → Keeps the same; the colour card she uses → Keeps the same; how often she looks → Keeps the same. *Why:* Only one thing changes: fridge or table. Everything else stays the same, so any difference must come from the cold.
-5. (order) In the story 'The Pencil Line on the Wall', Farzana checked a crack in the wall. Put her plan in order.  
+4. (sort) A child tests whether a slice browns more slowly in the fridge. Sort these into what the child changes and what the child keeps the same.  
+   **Answer:** where the slice is: fridge or table → Changes; which apple the slices come from → Keeps the same; how thick the slices are → Keeps the same; when the slices are cut → Keeps the same; the colour card the child uses → Keeps the same; how often the child looks → Keeps the same. *Why:* Only one thing changes: fridge or table. Everything else stays the same, so any difference must come from the cold.
+5. (order) You want to find out whether a crack in your wall is growing. Put the plan in order.  
    **Answer:** ['Ask exactly what the question is: longer, wider or both?', 'Draw pencil lines past both ends and write the date', 'Glue a paper strip across the widest part', 'Check every Sunday and after heavy rain', 'Compare six weeks of records']. *Why:* A clear question comes first, because it decides what to mark. Then the marks, then regular looks, then comparing the record.
 6. (perspective) Two friends in Mysuru are keeping records of a banana ripening. They argue about the best record.  
    **Answer:** A strong answer sees that a photo is exact and quick but can miss what you didn't notice, while a drawing makes you look closely but can be inaccurate. Many scientists use both.. *Why:* There is no single right answer. Each kind of record is good at something different. A strong answer uses an example from the child's own records.
@@ -596,22 +603,22 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 14. (mcq) Two people score the same apple slice. One writes 2 and the other writes 3. What would help them agree?  
    Options: Both use the same colour card, with the same four boxes / Both score faster / Each scores a different slice  
    **Answer:** Both use the same colour card, with the same four boxes. *Why:* A score means something only if everyone uses the same scale. A shared colour card makes a score of 2 the same colour for both people.
-15. (mcq) In 1847 Maria Mitchell found a comet nobody had reported. Why could she tell it was new?  
-   Options: She had looked at the same sky on so many nights that she knew what was usually there / Comets always shine brighter than stars / She used the biggest telescope in the world  
-   **Answer:** She had looked at the same sky on so many nights that she knew what was usually there. *Why:* Looking again and again at the same place gave her a record in her head and in her notebook. A new light stood out against what she knew.
+15. (mcq) A girl looks at the same patch of night sky on every clear night for a year. One night she sees a faint light that was never there before. Why can she be sure it is new?  
+   Options: She has looked so often that she knows what is usually there / New lights always shine brighter than stars / She is using the biggest telescope in the world  
+   **Answer:** She has looked so often that she knows what is usually there. *Why:* Looking again and again at the same place gives her a record, in her head and in her notebook. A new light stands out against what she knows.
 ### Thinking Like Tycho (challenge) (challenge, 15 questions)
-1. (write) Ruksana, a girl in Class 3 in Guwahati, wonders, 'Does a banana ripen faster inside a closed paper bag?' Write a full plan for her: the question, a guess and why, what to compare, what to keep the same, how often to look and how to record it.  
+1. (write) Here is a question: 'Does a banana ripen faster inside a closed paper bag?' Write a full plan to answer it: the question, a guess and why, what to compare, what to keep the same, how often to look and how to record it.  
    **Answer:** For example: two bananas from the same bunch, equally yellow. One in a closed paper bag, one beside it on the plate. Same room, same table. Look every morning at 8 for five days. Count the spots and take a photo of each, taking the bagged one out only for a moment.. *Why:* A strong plan has every part: a clear question, a guess with a reason, two things compared, a list of what stays the same, an interval matched to a banana, and a way to record.
 2. (perspective) In 1572, a new star appeared in the sky. Two people disagree about what it is.  
    **Answer:** A strong answer sides with Tycho because of his measurements, but can also argue that the follower of Aristotle trusted a teaching that had seemed to work for a very long time, and might have doubted Tycho's instrument.. *Why:* Tycho had evidence from a planned test. The other view rested on an old teaching. A strong answer explains why measurements can overturn a famous idea, and is fair to the other side.
-3. (mcq) Farhan, a boy in Class 3, did an apple test. He cut the plain slice first, and the lemon slice 20 minutes later. After one hour, the plain slice was browner. What is the problem?  
+3. (mcq) In an apple test, the plain slice was cut first, and the lemon slice 20 minutes later. After one hour, the plain slice was browner. What is the problem?  
    Options: The plain slice had 20 minutes more time to brown / Lemon slices always brown faster / There is no problem  
    **Answer:** The plain slice had 20 minutes more time to brown. *Why:* The plain slice had 60 minutes in the air and the lemon slice only 40. So the time, not just the lemon, could explain the difference. All slices must start at the same time.
-4. (write) In the story 'The Pencil Line on the Wall', Farzana checked the crack for six weeks, and it never changed. Her little brother Imran called it the most boring science in the world. Was the checking a waste of time? Explain.  
-   **Answer:** It was not a waste. 'No change' is a real answer. It showed Abba's memory was wrong, so the family did not need to worry, and the marks will show at once if the crack ever starts to grow.. *Why:* A strong answer sees that finding no change is a result, and that it settled an argument that memory could not settle.
-5. (mcq) Divya, a girl in Class 3, looks at her apple slices only at 0, 30 and 60 minutes. What might she miss?  
+4. (write) A family checks a crack in their wall every week for six weeks, and it never changes. A boy in the family calls it the most boring science in the world. Was the checking a waste of time? Explain.  
+   **Answer:** It was not a waste. 'No change' is a real answer. It shows the crack is not growing, so the family need not worry, and the marks will show at once if it ever starts to grow.. *Why:* A strong answer sees that finding no change is a result, and that it settles a question that memory alone could not.
+5. (mcq) You look at your apple slices only at 0, 30 and 60 minutes. What might you miss?  
    Options: Nothing at all / When each slice started to brown, and how fast it changed in between / Which slice ended up browner  
-   **Answer:** When each slice started to brown, and how fast it changed in between. *Why:* With three looks she can still see which slice was browner at the end. But if the plain slice browned between 0 and 30 minutes, she can't tell whether it took 10 minutes or 25. More looks show the change in smaller steps.
+   **Answer:** When each slice started to brown, and how fast it changed in between. *Why:* With three looks you can still see which slice was browner at the end. But if the plain slice browned between 0 and 30 minutes, you can't tell whether it took 10 minutes or 25. More looks show the change in smaller steps.
 6. (truefalse) If two people remember the same thing differently, one of them must be lying.  
    **Answer:** False. *Why:* False. Honest people often remember the same thing differently, because memory fills gaps without our noticing. That is why a record made at the time is so useful.
 7. (fill) A star that explodes, and shines very brightly for a while before fading, is called a ____.  
@@ -623,11 +630,11 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
    **Answer:** That is where the cells were broken open. *Why:* The browning starts where cells are broken, because that is where the enzyme and the colourless substances mix and meet oxygen. A whole, unbroken apple stays cream inside.
 10. (write) Your steel tumbler looks exactly the same as it did last year. Is it changing at all? Give your reasons.  
    **Answer:** It may be changing very slowly: getting tiny scratches, wearing thin where it is scrubbed, or getting a dent. One look can't show it, but photos over many years might.. *Why:* A strong answer uses the idea from the apple test: a change can be real and still too slow to see, and a record over time can show it.
-11. (order) Put Tycho Brahe's test of the new star in order.  
-   **Answer:** ['He saw a bright new star in Cassiopeia', 'He asked: is it nearer or further than the Moon?', 'He measured its position against nearby stars, night after night', 'He found it never shifted', 'He concluded it was far beyond the Moon']. *Why:* Noticing comes first, then a clear question, then a planned measurement repeated over time, then the result, then what it means.
-12. (mcq) Why did Tycho measure the new star on many nights, instead of just once?  
-   Options: A single measurement could be a mistake, and many matching ones are much stronger evidence / He liked staying up late / The star was only visible every other night  
-   **Answer:** A single measurement could be a mistake, and many matching ones are much stronger evidence. *Why:* One measurement could be thrown off by a shaky hand or a cloud. Many measurements that agree are strong evidence. He also wanted to see whether the star changed over time, and it slowly faded.
+11. (order) A bright new star appears. Put the steps of finding out whether it is nearer or further than the Moon in order.  
+   **Answer:** ['Notice a bright new star', 'Ask: is it nearer or further than the Moon?', 'Measure its place against nearby stars, night after night', 'Find that it never shifts', 'Decide it is far beyond the Moon']. *Why:* Noticing comes first, then a clear question, then a planned measurement repeated over time, then the result, then what it means.
+12. (mcq) Why is it better to measure a new star on many nights, instead of just once?  
+   Options: A single measurement could be a mistake, and many matching ones are much stronger evidence / Because staying up late is fun / Because stars can only be seen every other night  
+   **Answer:** A single measurement could be a mistake, and many matching ones are much stronger evidence. *Why:* One measurement could be thrown off by a shaky hand or a cloud. Many measurements that agree are strong evidence. Measuring over many nights also shows whether the star changes over time.
 13. (odd) Which of these is NOT a record?  
    Options: A photo taken at each look / A tally sheet filled in at the window / A table written during the test / What you remember about it next week  
    **Answer:** 3. *Why:* A record is made at the time and does not change afterwards. A memory recalled next week can change without you knowing.
@@ -642,25 +649,25 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **The Nature Journal Connection, Episode 1: Introduction to Nature Journaling** (John Muir Laws, 10 min) id `0Fb65ZOjBDA`: For the parent: a naturalist shows how to keep a notebook of what you notice, with words, pictures and numbers. Good for the banana diary and the tree project. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'The Nature Journal Connection, Episode 1:  Introduction to Nature Journaling', channel John Muir Laws). Not watched from here, so the length is a guess: preview it.
 
 ## Quiz
-1. (mcq) Anjali, a girl in Class 3, wonders about her money plant. Which question can she find out by watching?  
+1. (mcq) You wonder about a money plant. Which question can you find out by watching?  
    Options: Is the money plant happy? / Does the money plant grow a new leaf every week? / Why do plants exist?  
-   **Answer:** Does the money plant grow a new leaf every week?. *Why:* She can count the leaves every week and compare. The other two questions are real, but watching alone can't answer them.
+   **Answer:** Does the money plant grow a new leaf every week?. *Why:* You can count the leaves every week and compare. The other two questions are real, but watching alone can't answer them.
 2. (mcq) Before cutting the apple, why do we write down our guess?  
    Options: So we can't change it after we see the result / So the apple browns faster / Because the teacher needs it  
    **Answer:** So we can't change it after we see the result. *Why:* Once you have seen the result, it is easy to think you knew it all along. A written guess keeps you honest, and a wrong guess is often the most interesting part.
 3. (mcq) In the apple test, why are all three slices cut from the same apple?  
    Options: To save apples / So the only difference is plain, lemon or water / Because one apple is enough to eat  
    **Answer:** So the only difference is plain, lemon or water. *Why:* Different apples can brown at different speeds. Using one apple keeps that the same, so the only difference between the slices is the one you chose.
-4. (mcq) Vidya, a girl in Class 3, wants to know how fast her tomato plant grows. How often should she measure it?  
+4. (mcq) You want to know how fast a tomato plant grows. How often should you measure the plant?  
    Options: Every minute / Every few days / Once every five years  
    **Answer:** Every few days. *Why:* A tomato plant grows a little each day, so measuring every few days shows clear steps. Every minute shows nothing new. Every five years misses the plant's whole life.
 5. (mcq) What should every line of a record have?  
    Options: The time of the look / A sticker / The name of a famous scientist  
    **Answer:** The time of the look. *Why:* Without the time, you can't say how long a change took or put the looks in order. Each line should also have what you saw, as a score, a drawing or a few words.
-6. (mcq) Kavya, a girl in Class 3, stared at her apple slice for a minute and saw nothing change. But her drawings every 10 minutes showed it going brown. What does this show?  
+6. (mcq) You stare at an apple slice for a minute and see nothing change. But your drawings every 10 minutes show it going brown. What does this show?  
    Options: The drawings were wrong / Some changes are too slow to see, but a record over time catches them / The apple only browns when nobody looks  
    **Answer:** Some changes are too slow to see, but a record over time catches them. *Why:* In one minute the change is too small for the eye. Ten-minute steps are big enough to see when the drawings are side by side. The apple browns whether or not anyone is looking.
-7. (mcq) Farhan, a boy in Class 3, and his mother remember last week's apple test differently. How can they settle it?  
+7. (mcq) Two people remember last week's apple test differently. How can they settle it?  
    Options: The one who is older is right / Look at the record they wrote during the test / Do whatever they both agree on  
    **Answer:** Look at the record they wrote during the test. *Why:* Memory can change without our noticing, for anyone of any age. The record made at the time doesn't change, so it settles the question.
 8. (mcq) Why does a cut apple turn brown?  
@@ -672,12 +679,12 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 10. (mcq) A slice kept in the fridge browns more slowly than one on the table. Why?  
    Options: Cold slows the enzyme / There is no air in a fridge / Fridges are dark  
    **Answer:** Cold slows the enzyme. *Why:* A fridge is full of air, and the apple browns in the dark too. The cold slows the enzyme down, so the browning is slower.
-11. (mcq) In 1572, what did Tycho Brahe find when he measured the new star night after night?  
-   Options: It moved quickly across the sky / It never shifted against the stars near it / It was a cloud of smoke  
-   **Answer:** It never shifted against the stars near it. *Why:* A near thing seems to shift a little against far stars as the Earth turns. The new star never shifted, so it was far beyond the Moon.
-12. (mcq) What old idea did Tycho Brahe's new star show was wrong?  
-   Options: That the Earth is round / That the sky beyond the Moon never changes / That stars are hot  
-   **Answer:** That the sky beyond the Moon never changes. *Why:* Many people in Europe followed Aristotle, who taught that the sky beyond the Moon was perfect and unchanging. A new star far beyond the Moon showed that the sky can change.
+11. (mcq) A bright new light appears in the night sky. Night after night it never shifts against the stars near it, though the Moon does. What does this tell you?  
+   Options: It is very near, closer than the Moon / It is far beyond the Moon / It is a cloud of smoke  
+   **Answer:** It is far beyond the Moon. *Why:* A near thing seems to shift a little against far stars as the Earth turns. The new light never shifted, so it must be very far away, beyond the Moon.
+12. (mcq) People once believed the sky beyond the Moon never changes. What kind of evidence could show this idea is wrong?  
+   Options: One person saying they once saw something odd / A new light far beyond the Moon, measured again and again / A picture in an old book  
+   **Answer:** A new light far beyond the Moon, measured again and again. *Why:* A strong claim needs careful evidence. A new light, measured night after night and shown to be far beyond the Moon, would show that the sky out there can change.
 
 ## Applications
 - Weather scientists record rainfall and temperature every day, and long records show how the climate is changing.
@@ -698,7 +705,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - A doctor's or nurse's chart at a hospital bed, with the time and temperature written in rows.
 - A calendar where someone marks the days the milk, the newspaper or the water tanker came.
 - The phone's photo gallery, where the same view photographed on different days shows changes.
-- A bank of bananas at a fruit shop, from green to yellow to spotted, showing every stage at once.
+- Bananas at a fruit shop, from green to yellow to spotted, showing every stage at once.
 
 ## Open questions
 - **Exactly what jobs does the browning enzyme do inside a healthy apple tree?** Many scientists think it helps defend damaged fruit and leaves against insects and germs. But the enzyme is also found in healthy parts of the plant. Its other jobs there are still being studied.
@@ -731,12 +738,12 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - What did the observer say to the apple? *I've got my eye on you, every ten minutes.*
 
 ## Connected maths
-- In the brown apple watch, Revathi, a girl in Class 3, looks at her slices at 0 minutes, then every 10 minutes until 60 minutes. How many looks is that? **7 looks.**. She looks at 0, 10, 20, 30, 40, 50 and 60 minutes. That is 7 looks. Counting in tens from 10 to 60 gives 6, and the first look at 0 makes 7. It is easy to forget the start. (queues `math.patterns.number-patterns.L3`)
-- Divya, a girl in Class 3, cut her apple at 4:15 in the afternoon. Her plain slice reached score 2 at 4:45. How long did it take? **30 minutes.**. From 4:15 to 4:45, the minute hand moves from 15 to 45. 45 minus 15 is 30. So it took 30 minutes. (queues `math.time.duration.L3`)
+- In the brown apple watch, you look at the slices at 0 minutes, then every 10 minutes until 60 minutes. How many looks is that? **7 looks.**. You look at 0, 10, 20, 30, 40, 50 and 60 minutes. That is 7 looks. Counting in tens from 10 to 60 gives 6, and the first look at 0 makes 7. It is easy to forget the start. (queues `math.patterns.number-patterns.L3`)
+- An apple was cut at 4:15 in the afternoon. The plain slice reached score 2 at 4:45. How long did it take? **30 minutes.**. From 4:15 to 4:45, the minute hand moves from 15 to 45. 45 minus 15 is 30. So it took 30 minutes. (queues `math.time.duration.L3`)
 - Tycho Brahe saw the new star in November 1572. It faded from sight in March 1574. About how many months could it be seen? **About 16 months.**. From November 1572 to November 1573 is 12 months. From November 1573 to March 1574 is 4 more months: December, January, February and March. 12 and 4 make 16. (queues `math.time.calendar.L3`)
-- Sundari, a girl in Class 3, counted the brown spots on her banana each morning: 0, 2, 6, 15. How many new spots appeared each day? Do you think day 5 will have fewer than 25 spots, or 25 or more? **2, then 4, then 9 new spots. Day 5 will probably have 25 or more.**. From 0 to 2 is 2 new spots. From 2 to 6 is 4 new. From 6 to 15 is 9 new. The number of new spots grows each day, so on day 5 probably 10 or more new spots appear. 15 and 10 make 25, so day 5 probably has 25 or more. The spots may soon join up and be too many to count. (queues `math.data.bar-charts.L3`)
-- In the Window Watch, Kavya, a girl in Class 3, counted crows for one minute at three times: 6 crows at 7 in the morning, 1 at 1 in the afternoon, 4 at 5 in the evening. How many more crows came at 7 than at 1? Can she say crows always come less at 1 o'clock? **5 more crows. She can't say 'always' from one day.**. 6 minus 1 is 5. But one day can be a fluke: maybe a loud lorry passed at 1 o'clock. To be sure of a pattern, she needs to count at the same times on many days. (queues `math.data.sorting-and-tallies.L3`)
-- Arjun, a boy in Class 3, wants to check his banana every 10 minutes for one whole day of 12 hours. There are 6 lots of 10 minutes in an hour. How many looks would that be? Is it a good plan? **72 looks. It is not a good plan for a banana.**. 6 looks an hour for 12 hours is 6 times 12, which is 72. A banana changes so slowly that almost every look would show nothing new. One look a day is enough. (queues `math.multiplication.equal-groups.L3`)
+- The brown spots on a banana were counted each morning: 0, 2, 6, 15. How many new spots appeared each day? Do you think day 5 will have fewer than 25 spots, or 25 or more? **2, then 4, then 9 new spots. Day 5 will probably have 25 or more.**. From 0 to 2 is 2 new spots. From 2 to 6 is 4 new. From 6 to 15 is 9 new. The number of new spots grows each day, so on day 5 probably more than 9 new spots appear. Say 10 new spots. 15 plus 10 is 25, so day 5 probably has 25 or more. The spots may soon join up and be too many to count. (queues `math.data.bar-charts.L3`)
+- In the Window Watch, crows were counted for one minute at three times: 6 crows at 7 in the morning, 1 at 1 in the afternoon, 4 at 5 in the evening. How many more crows came at 7 than at 1? Can you say that fewer crows always come at 1 o'clock? **5 more crows. You can't say 'always' from one day.**. 6 minus 1 is 5. But one day can be unusual: maybe a loud lorry passed at 1 o'clock. To be sure of a pattern, you need to count at the same times on many days. (queues `math.data.sorting-and-tallies.L3`)
+- Suppose you check a banana every 10 minutes for one whole day of 12 hours. There are 6 lots of 10 minutes in an hour. How many looks would that be? Is it a good plan? **72 looks. It is not a good plan for a banana.**. 6 looks an hour for 12 hours is 6 times 12, which is 72. A banana changes so slowly that almost every look would show nothing new. One look a day is enough. (queues `math.multiplication.equal-groups.L3`)
 
 ## Song
 Look Again (sci.how-we-know.L3): 

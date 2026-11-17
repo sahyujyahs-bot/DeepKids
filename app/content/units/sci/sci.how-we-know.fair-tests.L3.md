@@ -1,9 +1,9 @@
 # Fair tests: change one thing and keep the rest the same
 `sci.how-we-know.fair-tests.L3`
 
-**Summary.** A slice of apple left on a plate turns brown. Does lemon juice stop it? You can only find out if every slice gets the same apple, the same air and the same wait, and only the lemon is different. That is a fair test: change one thing, keep everything else the same, and watch what happens. You will also learn to write results in a table, and why one try is never enough.
+**Summary.** A slice of apple left on a plate turns brown. Does lemon juice stop it? You can only find out if every slice comes from the same apple, sits in the same air and waits the same time, and only the lemon is different. That is a fair test: change one thing, keep everything else the same, and watch what happens. You will also learn to write results in a table, and why one try is never enough.
 
-**Intro.** *Lakshmi drops her rubber ball from above her head. Her little brother drops his plastic ball from his knee. Her ball bounces much higher. "My ball is bouncier!" she says. Is she right?* We can't tell yet. Two things were different: the ball and the height it fell from. Either one could have made the higher bounce. To find out about the balls, they must fall from the same height onto the same floor. Then the ball is the only thing left that is different.
+**Intro.** *Two children each drop a ball. The girl drops a rubber ball from above her head. Her little brother drops a plastic ball from his knee. The rubber ball bounces much higher. "My ball is bouncier!" she says. Is she right?* We can't tell yet. Two things were different: the ball and the height it fell from. Either one could have made the higher bounce. To find out about the balls, both must fall from the same height onto the same floor. Then the ball is the only thing left that is different.
 
 ## Learning outcomes
 0. I can say what a fair test is: change only one thing, and keep everything else the same.
@@ -42,9 +42,9 @@ Many things can change the result of a test. A ball bounces higher if it falls f
 ### Why changing two things at once spoils a test · *defined*
 **Definition:** When two things change at once, you cannot tell which one caused the result. A test can answer one question at a time.
 
-Meenakshi puts sugar in two tumblers of water. One tumbler has warm water and she stirs it. The other has cold water and she does not stir it. The sugar in the warm, stirred tumbler disappears first. Was it the warm water or the stirring? She cannot know, because she changed both. To find out, she does two fair tests. First, warm and cold water, both stirred. Then stirred and not stirred, both cold.
+Put sugar in two tumblers of water. One tumbler has warm water and you stir it. The other has cold water and you do not stir it. The sugar in the warm, stirred tumbler disappears first. Was it the warm water or the stirring? You cannot know, because you changed both. To find out, do two fair tests. First, warm and cold water, both stirred. Then stirred and not stirred, both cold.
 - e.g. A plant on the balcony grows better than one inside. But it also got more water. Was it the light or the water?
-- e.g. Divya's new chappals feel faster in a race. But she also ran on a smoother road that day.
+- e.g. New chappals feel faster in a race. But the race was also on a smoother road that day. Was it the chappals or the road?
 ### The control: what happens when you change nothing · *defined*
 **Definition:** A control is the part of a test where you add nothing new. It shows what would happen anyway, so you can see what your change really did.
 
@@ -55,14 +55,14 @@ Suppose you put lemon juice on an apple slice and it stays white. Did the lemon 
 ### Writing results in a table · *defined*
 **Definition:** A results table has rows and columns. Each column has a heading that says what it holds, with the unit, such as 'Height (cm)'. Each row is one thing you tested.
 
-When you test, you see many things quickly, and memory forgets. A table keeps every result in its place. Draw it before you start, so you are ready. Put the thing you change in the first column. Put what you measure or see in the next columns. Write the units in the headings, not after every number. Later, you can read across a row to see one thing, or down a column to compare all of them. Florence Nightingale, a nurse in the Crimean War (1854 to 1856), kept careful tables of the soldiers who died in army hospitals. They showed that many more soldiers died of diseases than of their wounds. Her records helped make hospitals cleaner.
+When you test, you see many things quickly, and it is easy to forget them. A table keeps every result in its place. Draw it before you start, so you are ready. Put the thing you change in the first column. Put what you measure or see in the next columns. Write the units in the headings, not after every number. Later, you can read across a row to see one thing, or down a column to compare all of them. Florence Nightingale, a nurse in the Crimean War (1854 to 1856), kept careful tables of the soldiers who died in army hospitals. They showed that many more soldiers died of diseases than of their wounds. Her records helped make hospitals cleaner.
 - e.g. Apple test: one row for each slice, one column for each time you look.
 - e.g. Bounce test: one row for each ball, three columns for three drops.
 - e.g. A school's attendance register is a table: one row for each child, one column for each day.
 ### Why we repeat a test · *defined*
 **Definition:** Doing a test only once can mislead you, because one try can be a fluke. Repeating it in the same way shows whether the result is real.
 
-Throw a paper ball at a bucket once and it may go in by luck. Throw it ten times and you learn how good the throw really is. Small things change from try to try: how your hand moves, a breath of wind, where the ball lands. Repeating a test lets these small changes even out. If one result is very different from the others, look for a reason. Maybe the ball hit the edge of the table. Write it down, try again, and say what happened.
+Throw a paper ball at a bucket once and it may go in by luck. Throw it ten times and you learn how good the throw really is. Small things change from try to try: how your hand moves, a little wind, where the ball lands. Repeating a test lets these small changes even out. If one result is very different from the others, look for a reason. Maybe the ball hit the edge of the table. Write down what happened, and try again.
 - e.g. Drop each ball three times and look at all three heights.
 - e.g. Count how many of 10 throws go in, not just the first one.
 - e.g. Scientists in different countries repeat each other's tests to check the results.
@@ -74,7 +74,7 @@ An apple's skin keeps germs and insects out. A cut opens a way in. Scientists th
 - e.g. Cooks in many Indian kitchens put cut brinjal or potato into a bowl of water until it is time to cook.
 - e.g. Lemon juice is squeezed over cut fruit in a fruit chaat to keep it looking fresh.
 ### Can every question be answered with a fair test? · *debated*
-A fair test needs you to change one thing yourself. Sometimes that is impossible, or unkind. Nobody can change the Sun to see what happens. Nobody should make people ill to test a cure. Scientists have other careful ways to find out. They compare many observations, or they wait for nature to make the change for them. People still argue about how sure these other ways can make us.
+A fair test needs you to change one thing yourself. Sometimes that is impossible, or unkind. Nobody can change the Sun to see what happens. Nobody should make people ill to test a cure. Scientists have other careful ways to find out. They compare many observations. Or they look at cases where nature has already made the change. For example, astronomers cannot change a star, but they can compare many stars of different sizes. People still argue about how sure we can be of answers found in these other ways.
 - e.g. Astronomers cannot change a star, so they compare thousands of stars of different sizes.
 - e.g. To learn whether a medicine works, doctors give it to people who are already ill, and compare them with a similar group who get the usual care.
 - **Many scientists who do experiments:** A fair test is the surest way to know what causes what. If you can change one thing yourself, do it, because only then do you know nothing else changed.
@@ -84,7 +84,7 @@ A fair test needs you to change one thing yourself. Sometimes that is impossible
 - To find out what one thing does, change only that thing and keep everything else the same. *How we know:* When tests are done this way, other people who repeat them in the same way get the same results.
 - A test needs a control to compare with, such as a slice with nothing on it. *How we know:* Without a control, people often believed things worked when the result would have happened anyway.
 - One try can be a fluke, so tests are repeated. *How we know:* Ten throws of a paper ball give a steadier answer than one. Scientists repeat each other's tests for the same reason.
-- Results should be written down at the time, in a clear table. *How we know:* Florence Nightingale's tables of hospital deaths showed what nobody had seen from memory alone.
+- Results should be written down at the time, in a clear table. *How we know:* Florence Nightingale's tables of hospital deaths showed something nobody had noticed from memory alone.
 - Lemon juice slows the browning of a cut apple. *How we know:* Anyone can test it with slices from one apple, and the lemon slice stays paler for much longer.
 
 ## How we found out
@@ -108,21 +108,21 @@ A fair test needs you to change one thing yourself. Sometimes that is impossible
 ## Roots
 We have run fair tests, kept a control and written our results in tables. Now we ask what fair tests tell us about how we know anything.
 
-**Deep truth.** Your lemon slice stayed white, but on its own that proved nothing. It meant something only beside the plain slice, which browned in the same air. A cause can be seen only by comparing. To know what one thing does, you must also watch what happens without it.  
-*Habit it breaks:* We think we can see a cause just by watching it work: lemon goes on, the slice stays white. But the white slice alone could not tell us whether it would have stayed white anyway. Only the comparison with the plain slice showed what the lemon did.  
+**Deep truth.** In the Brown Apple Test, the lemon slice stayed white, but on its own that proved nothing. It meant something only beside the plain slice, which went brown in the same air. You can see what causes something only by comparing. To know what one thing does, you must also watch what happens without it.  
+*Habit it breaks:* We think we can see a cause just by watching it work: lemon goes on, the slice stays white. But in the Brown Apple Test, the white slice alone could not tell us whether it would have stayed white anyway. Only the comparison with the plain slice showed what the lemon did.  
 *Evidence:* In the Brown Apple Test, the plain slice and the lemon slice came from one apple, sat on one plate and waited the same time. Only the lemon was different, and only by putting the two side by side could you see what the lemon did.
 
-- *who am i:* You know you have grown only by comparing: a pencil mark on the wall from last year.
-- *what is life:* A cut apple browns because the plant's cells answer the cut. Living things are always answering what happens to them.
-- *what is this world:* Air, warmth and the cut were acting on every slice at once. In the world, many causes always act together.
+- *who am i:* You can tell you have grown only by comparing, for example with last year's pencil mark on the wall.
+- *what is life:* A cut apple browns because the apple's cells react to the cut. Living things always react to what happens to them.
+- *what is this world:* In the Brown Apple Test, air, warmth and the cut all acted on every slice at the same time. In the world, many causes always act together.
 
-On the plate, air, warmth, the cut and the apple's own substances all act together on each slice. Nature does them all at once, as one happening. In a fair test, we hold all but one of them the same, so that one can be noticed. The many causes we name are parts we pick out of one whole happening. Science studies the parts, and the parts still belong to one whole.
+In the Brown Apple Test, air, warmth, the cut and the apple's own substances all act on each slice at the same time. In nature they happen together, as one event. In a fair test, we keep all but one of them the same, so that we can notice what that one does. The causes we name are parts that we pick out of one whole event. Science studies the parts, but the parts still belong to the whole.
 
 - **Kalama Sutta, Anguttara Nikaya 3.65:** The Buddha told the Kalama people not to accept a teaching only because it is old, often repeated, written in a book, or said by a respected teacher. When you know for yourselves that something is true and good, then accept it. (The navy's doctors trusted acids to cure scurvy because respected people said so. James Lind tested the cures side by side and saw for himself which one worked.)
 - **Nyaya Sutra 1.1.3:** The Nyaya school names four ways of knowing: perception (seeing for yourself), inference (working out from what you saw), comparison, and the word of a trustworthy person. (A fair test uses the first three together. You perceive the white and brown slices, you compare them, and you infer that the lemon made the difference.)
 - Science (settled): Doctors test new medicines in controlled trials: one group gets the medicine, a similar group does not, and chance decides who goes where.
 - Science (settled): Some things, like stars or the Earth's past, cannot be changed on purpose. Scientists compare many careful observations instead.
-- Other view, The Charvaka school of ancient India: The Charvakas said that only what we perceive directly is sure knowledge. Inference can always be wrong, because we can never check every case. You saw a white slice and a brown slice. Saying 'the lemon caused it' is an inference, and a new apple might behave differently.
+- Other view, The Charvaka school of ancient India: The Charvakas said that only what we perceive directly is sure knowledge. Inference can always be wrong, because we can never check every case. In the Brown Apple Test, you saw a white slice and a brown slice. Saying 'the lemon caused it' is an inference, and a new apple might behave differently.
 - Practice, One thing different (3 min): Let's sit still and close our eyes. Listen to all the sounds around us for a few breaths. Now I will change just one thing. I will open the window, or switch off the fan. Keep listening. What is different now? Only one thing changed, so you can hear exactly what it did. Open your eyes slowly.
 - Ask: If you can only see a cause by comparing, can you ever see the cause of something that has happened only once?
 - Ask: Can anything in the world be kept exactly the same, even for a minute?
@@ -131,8 +131,8 @@ On the plate, air, warmth, the cut and the apple's own substances all act togeth
 ## Deep and big questions
 - *deep:* A friend says her tulsi grows faster because she sings to the plant. How could you test that fairly? (hint: Think about two plants. What must be the same: the pot, the soil, the water, the light?)
 - *deep:* Can you ever keep everything else exactly the same? (hint: Even two slices of one apple are not quite the same. How close is close enough?)
-- *deep:* How many times must you repeat a test before you are sure? (hint: Think about the paper ball throws. When did the tally stop surprising you?)
-- *big:* You can't test the Sun, or the dinosaurs. How do we know anything about them? (hint: Think about comparing many things that nature has already changed for us.)
+- *deep:* How many times must you repeat a test before you are sure? (hint: Think about Ten Throws. After how many throws did the tally stop surprising you?)
+- *big:* You can't test the Sun, or the dinosaurs. How do we know anything about them? (hint: Think about comparing many stars of different sizes, instead of changing one star yourself.)
 - *big:* Is it fair to test a medicine on people? What would make it fair to them? (hint: Think about asking them first, and about what the people who don't get the medicine receive.)
 - *big:* When two friends disagree, could a fair test settle it? What kinds of arguments could it never settle? (hint: Think about 'which ball bounces higher' and 'which song is nicer'.)
 
@@ -210,28 +210,29 @@ Then she added one more line: Next test, the sail.
 ## Games
 ### g1 · Fair or Unfair? a card game (15 min)
 - **rules:** Each player takes one FAIR card and one UNFAIR card. Stack the 16 test cards with the test side up, so nobody can see an answer.; One player reads the top test card aloud and leaves it on the table, test side up.; Everyone holds up FAIR or UNFAIR at the same time.; Turn the card over and read the answer. One point for each player who held up the right card.; If the test is unfair, one more point for any player who says what was different and how to make it fair.; Put the card aside. The next player reads the next card. Keep score with tally marks on a page, one row for each player.; The game ends when all 16 cards are read. Most points wins. If points are equal, you share the win.; Playing alone: read each card, decide, then turn it over and check. Score your own points out of 16.
-- **Printable cards: 16 test cards (print front and back: the answer is on the back):** Meenakshi tests which wrapping keeps an idli warm longest. She wraps one idli in a banana leaf and one in foil. The idlis are the same size, from the same batch, and she feels both after 20 minutes. (back: FAIR. Only the wrapping is different. Everything else is the same.); Farhan drops two balls from the same height onto the same tiled floor. (back: FAIR. Only the ball is different, so the ball is the only thing that can explain a higher bounce.) [picture]; Divya tests which soil grows beans better. She puts red soil in a big pot by the window and black soil in a small pot in the shade. (back: UNFAIR. The soil, the pot size and the light are all different. Fix: use two pots of the same size, in the same place, with the same water and the same kind of bean.) [picture]; Gauri tests which wrapping stops a cut banana going dark. She cuts three equal pieces from one banana. She wraps one in cloth and one in foil, and leaves one open. She looks at all three after an hour. (back: FAIR. Only the wrapping is different. The open piece is the control.) [picture]; Revathi puts one apple slice in the fridge and one on the table, and puts lemon only on the fridge slice. (back: UNFAIR. The place and the lemon are both different. Fix: change only one, for example keep both slices on the table and put lemon on one.); Anjali dries one hanky in the sun and one in the bathroom. Both are the same cloth and equally wet. She is testing where it dries faster. (back: FAIR. Only the place is different. The cloth and the wetness are the same.); Hetal tests which cloth soaks up the most water. She uses a big towel and a small hanky. (back: UNFAIR. The size is different as well as the cloth. Fix: cut the same size piece from each cloth.); Kavya times two toy cars down the same ramp. She lets go of both without pushing. (back: FAIR. Only the car is different. Same ramp, same start, no push.); Mitali times her own run on the road and her friend's run on sand. (back: UNFAIR. The ground and the runner are both different. Fix: the same person runs on both, or two friends run on the same ground.); Joseph tests whether warm water dissolves sugar faster. He puts one spoon of sugar in each tumbler and stirs both the same way. (back: FAIR. Only the warmth is different. The sugar and the stirring are the same.); Shalini tests whether warm water dissolves sugar faster. She stirs only the warm one. (back: UNFAIR. The warmth and the stirring are both different. Fix: stir both tumblers the same way, or neither.); Meera throws a paper ball once overarm and once underarm, and decides which is better. (back: UNFAIR. One try each can be a fluke. Fix: throw ten times each from the same line.); Asha throws a paper ball 10 times underarm and 10 times overarm from the same line. (back: FAIR. Same line, same ball, same number of throws. Only the way of throwing is different.); Sowmya tests which shoe grips best. She tests one on the tiled floor and the other on the doormat. (back: UNFAIR. The shoe and the floor are both different. Fix: test both shoes on the same floor.); Arun tests which paper plane flies furthest. He throws one and his sister throws the other. (back: UNFAIR. The plane and the thrower are both different. Fix: the same person throws both planes, several times each.) [picture]; Nandini tests which cloth keeps ice from melting. She wraps ice cubes of the same size from one tray in different cloths and checks them all at the same times. (back: FAIR. Only the cloth is different. The ice cubes and the checking times are the same.) [picture]
+- **Printable cards: 16 test cards (print front and back: the answer is on the back):** A test of which wrapping keeps an idli warm longest. One idli is wrapped in a banana leaf and one in foil. The idlis are the same size and from the same batch. Both are felt after 20 minutes. (back: FAIR. Only the wrapping is different. Everything else is the same.); A test of which ball bounces higher. Two balls are dropped from the same height onto the same tiled floor. (back: FAIR. Only the ball is different, so the ball is the only thing that can explain a higher bounce.) [picture]; A test of which soil grows beans better. Red soil goes in a big pot by the window. Black soil goes in a small pot in the shade. (back: UNFAIR. The soil, the pot size and the light are all different. Fix: use two pots of the same size, in the same place, with the same water and the same kind of bean.) [picture]; A test of which wrapping stops a cut banana going dark. Three equal pieces are cut from one banana. One is wrapped in cloth, one is wrapped in foil, and one is left open. All three are checked after an hour. (back: FAIR. Only the wrapping is different. The open piece is the control.) [picture]; One apple slice goes in the fridge and one stays on the table. Lemon is put only on the fridge slice. (back: UNFAIR. The place and the lemon are both different. Fix: change only one, for example keep both slices on the table and put lemon on one.); A test of where a hanky dries faster. One hanky dries in the sun and one in the bathroom. Both are the same cloth and equally wet. (back: FAIR. Only the place is different. The cloth and the wetness are the same.); A test of which cloth soaks up the most water. The two cloths are a big towel and a small hanky. (back: UNFAIR. The size is different as well as the cloth. Fix: cut the same size piece from each cloth.); Two toy cars are timed down the same ramp. Both are let go without a push. (back: FAIR. Only the car is different. Same ramp, same start, no push.); A girl times her own run on the road and her friend's run on sand. (back: UNFAIR. The ground and the runner are both different. Fix: the same person runs on both, or two friends run on the same ground.); A test of whether warm water dissolves sugar faster. One spoon of sugar goes in each tumbler, and both are stirred the same way. (back: FAIR. Only the warmth is different. The sugar and the stirring are the same.); A test of whether warm water dissolves sugar faster. Only the warm tumbler is stirred. (back: UNFAIR. The warmth and the stirring are both different. Fix: stir both tumblers the same way, or neither.); A paper ball is thrown once overarm and once underarm, to decide which way is better. (back: UNFAIR. One try each can be a fluke. Fix: throw ten times each from the same line.); A paper ball is thrown 10 times underarm and 10 times overarm from the same line. (back: FAIR. Same line, same ball, same number of throws. Only the way of throwing is different.); A test of which shoe grips best. One shoe is tested on the tiled floor and the other on the doormat. (back: UNFAIR. The shoe and the floor are both different. Fix: test both shoes on the same floor.); A test of which paper plane flies furthest. A boy throws one plane and his sister throws the other. (back: UNFAIR. The plane and the thrower are both different. Fix: the same person throws both planes, several times each.) [picture]; A test of which cloth keeps ice from melting. Ice cubes of the same size from one tray are wrapped in different cloths. All are checked at the same times. (back: FAIR. Only the cloth is different. The ice cubes and the checking times are the same.) [picture]
 - **Printable cards: 4 FAIR cards and 4 UNFAIR cards (one of each for every player):** FAIR; FAIR; FAIR; FAIR; UNFAIR; UNFAIR; UNFAIR; UNFAIR
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 16 test cards, and the FAIR and UNFAIR cards. 2. Give each player one FAIR and one UNFAIR card. 3. Stack the test cards with the test side up.  
   *Parent says:* Each card tells you about a test someone did. You decide if it was fair. A fair test changes only one thing.  
   *Child mode:* Each card is a test. Is it fair? A fair test changes only one thing.
 - **s2 (3 min)**  
-  *Parent does:* Read the top card as a practice round: Meenakshi's idlis in two wrappings.  
-  *Parent says:* Meenakshi wraps one idli in a banana leaf and one in foil. The idlis are the same size, from the same batch. She feels both after 20 minutes. Fair or unfair?  
+  *Parent does:* Read the top card as a practice round: the idlis in two wrappings.  
+  *Parent says:* One idli is wrapped in a banana leaf and one in foil. The idlis are the same size, from the same batch. Both are felt after 20 minutes. Fair or unfair?  
   *Child mode:* One idli in a banana leaf, one in foil. Same size, same batch. Fair or unfair?
-  - Check: Meenakshi wraps one idli in a banana leaf and one in foil. The idlis are the same size and from the same batch, and she feels both after 20 minutes. Is her test fair? → **Fair, because only the wrapping is different**
+  - Check: One idli is wrapped in a banana leaf and one in foil. The idlis are the same size and from the same batch, and both are felt after 20 minutes. Is this test fair? → **Fair, because only the wrapping is different**
 - **s3 (8 min)**  
   *Parent does:* Play the rest of the cards. Take turns to read. Give points as in the rules.  
   *Parent says:* When a test is unfair, tell me what was different. Then tell me how you would make it fair.  
   *Child mode:* Read a card. Hold up FAIR or UNFAIR. If unfair, say how to fix it.
-  - Ask: How would you make Hetal's cloth test fair? (good: Use two cloths of the same size.; Cut the same size piece from each cloth.)
+  - Ask: One card tests a big towel against a small hanky. How would you make that cloth test fair? (good: Use two cloths of the same size.; Cut the same size piece from each cloth.)
   - Note: The fix matters more than the card. A good fix names the thing to keep the same, such as 'same size' or 'same floor'.
 - **s4 (2 min)**  
   *Parent does:* Add up the points. Ask which card was hardest.  
   *Parent says:* Which card was the hardest to decide? Why?  
   *Child mode:* Count your points. Which card was hardest? Why?
-  - Think: Can you think of a test you once did that was not fair?
+  - Note: Any real example works, as long as your child can name the two things that were different and say which one to keep the same.
+  - Think: Think of a race or game you once played where two things were different, such as who was playing and where. How could you make it fair?
 ### g2 · Table Detective: find the mistake (10 min)
 - **rules:** Stack the 8 table cards with the table side up. Turn over one card at a time.; Look for a mistake in the way the table is written, or an odd result. One card has no mistake. Say 'no mistake' if you think that is the one.; Say how you would fix it, or what you would check.; Turn the card over and read the answer. One point for finding it, one point for the fix.; With two players, the first to speak scores the first point. The other player can win the fix point.; The game ends after 8 cards. Most points wins. If points are equal, you share the win. Playing alone, score out of 16.
 - **Printable cards: 8 table cards (print front and back: the answer is on the back):** Bounce test. Columns: Ball | Bounce. Rows: Rubber ball | 45. Plastic ball | 30. (back: Mistake: the heading has no unit. 45 what? It should say 'Bounce height (cm)'.); Apple test. Columns: Slice | After 30 minutes. Rows: Nothing | brown. Lemon | white. Water | (empty box). (back: Mistake: a result is missing. The water slice has no entry. Every row needs a result.); Throw test. Columns: Throw | Balls in, out of 10. Rows: Underarm | 7. Overarm | 4. Underarm | 6. (back: Mistake: underarm is written twice and overarm once, so the tries are not the same for each. Each way of throwing needs the same number of tries.); Drying test. Columns: Cloth | Time to dry. Rows: Cotton | 40 minutes. Towel | 2 hours. (back: Mistake: the units are mixed. Write both in minutes: cotton 40, towel 120. Then the numbers can be compared.); Sugar test. Columns: Water | Seconds to dissolve. Rows: Warm and stirred | 30. Cold and not stirred | 200. (back: Mistake: two things changed, the warmth and the stirring. This is not a fair test. Fix: change only one.); Ice test. Columns: Wrap | Minutes until melted. Rows: Cloth | 50. Foil | 35. Nothing | (empty box). (back: Mistake: the result for 'Nothing' is missing. That is the control, and every other result is compared with it.); Plant test. Columns: Pot | Height. Rows: Sunny | 12 cm. Dark | 30 cm. (back: This is an odd result, not a writing mistake. A plant in the dark growing much taller is surprising. Do not rub it out. Check how it was measured, and repeat the test.); Bounce test. Columns: Ball | Try 1 (cm) | Try 2 (cm) | Try 3 (cm). Rows: Rubber | 45 | 44 | 46. Tennis | 38 | 40 | 39. (back: No mistake. The headings have units, every box is filled in, and each ball has the same number of tries.)
@@ -287,7 +288,7 @@ Then she added one more line: Next test, the sail.
   - Check: A slice looks light brown. What score do you give it? → **2**
   - Wait: Wait until 30 minutes after the slices went on the plate.
 - **s6 (10 min)**  
-  *Parent does:* Ask your child to say or write a claim, the evidence and a reason. Then read the card on why apples turn brown together.  
+  *Parent does:* Ask your child to say or write what they found (a claim), what they saw (the evidence) and why they think it happened (a reason). Then read together the card 'Why a cut apple turns brown, and what lemon does'.  
   *Parent says:* What did you find out? What did you see that shows it? Why do you think it happened?  
   *Child mode:* What did you find? What did you see? Why do you think so?
   - Ask: Which slice stayed whitest, and how do you know? (good: The lemon slice. It scored 0 or 1 when the plain slice scored 2 or 3.; The lemon one, because next to the plain one it was much whiter.)
@@ -303,6 +304,7 @@ Then she added one more line: Next test, the sail.
   *Parent does:* 1. Put the bucket against a wall. 2. Take two big steps back and mark a line. 3. Draw the table.  
   *Parent says:* Everyone throws from this line, every time. Why do you think the line matters?  
   *Child mode:* Throw from this line every time. Why does the line matter?
+  - Note: The line keeps the distance the same for every throw. Then the way of throwing is the only thing that changes.
 - **s2 (2 min)**  
   *Parent does:* Ask for a prediction and a reason. Then let your child throw once underarm and once overarm.  
   *Parent says:* Which throw will get more in? Why? Now one throw each. Does that settle it?  
@@ -316,13 +318,13 @@ Then she added one more line: Next test, the sail.
 - **s4 (4 min)**  
   *Parent does:* Count the tallies, write the numbers and compare.  
   *Parent says:* Which throw got more in? Was the first throw a good guide?  
-  *Child mode:* Count the tallies. Which throw won? Did the first throw tell the truth?
+  *Child mode:* Count the tallies. Which throw won? Did the first throw give the right answer?
   - Ask: What would you change to make the test even better? (good: Throw 20 times each.; Get someone else to throw too, and compare.; Use a smaller bucket, so there are fewer lucky throws.)
-  - Note: Results differ from child to child. Many children land more underarm from close up, but not all. Throwing underarm and overarm in turns means practice and tiredness help both ways equally. A child who notices a problem such as a bucket that is too easy has spotted something real.
+  - Note: Results differ from child to child. Many children get more balls in underarm from close up, but not all. Throwing underarm and overarm in turns means practice and tiredness affect both ways equally. A child who notices a problem, such as a bucket that is too easy, has spotted something real.
 ### e3 · The Brinjal Bowl: why do cooks keep cut brinjal in water? (25 min)
 - **question:** Does keeping cut brinjal under water stop it turning brown?
 - **predict:** Which brinjal piece do you think will stay pale longest: the one on a plate, the one under water, or the one under salt water? Why do you think so?
-- **fair test:** The thing we change: where each piece waits: on a plate, under plain water, or under salt water. The things we keep the same: one brinjal, pieces the same size, all cut at the same time, all checked at the same time. A brinjal piece floats, so each piece in water is held under with a steel lid, or the top would be in the air. The piece on the plate is the control.
+- **fair test:** The thing we change: where each piece waits (on a plate, under plain water, or under salt water). The things we keep the same: one brinjal, pieces the same size, all cut at the same time, all checked at the same time. A brinjal piece floats, so each piece in water is held under with a steel lid, or the top would be in the air. The piece on the plate is the control.
 - **safety:** A grown-up cuts the brinjal. Cook the pieces afterwards instead of eating them raw.
 - **record:** Write a word for each colour: pale, a little brown, brown, dark brown. Draw the three pieces at 20 minutes.
 - **results table:** Piece | Where it waited | Colour at 5 minutes | Colour at 20 minutes
@@ -331,7 +333,7 @@ Then she added one more line: Next test, the sail.
   *Parent says:* Many cooks put cut brinjal in water until it is time to cook. Do you think the water really helps? Why? Which piece will stay pale longest?  
   *Child mode:* Cooks put cut brinjal in water. Does it help? Why do you think so?
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* 1. Cut three slices of the same size from the middle of the brinjal. 2. Put one on the plate. 3. Put one in each bowl and press it under with a steel lid.  
+  *Parent does:* 1. Cut three slices of the same size from the middle of the brinjal. 2. Put one on the plate. 3. Put one in the bowl of plain water and one in the bowl of salt water, and press each under with a steel lid.  
   *Parent says:* Look, the brinjal floats. If it floats, its top is in the air. Is that fair? So I hold each one under.  
   *Child mode:* The brinjal floats! The top is in the air. So hold it under with a steel lid.
   - Note: Brinjal is full of tiny air spaces, so it floats. A floating piece would brown on top, and the test would be unfair to the water. Holding it under is the fix.
@@ -346,7 +348,7 @@ Then she added one more line: Next test, the sail.
   *Child mode:* Put all three side by side. Were the cooks right?
   - Ask: What did the water do, and how do you know? (good: The pieces under water stayed paler than the one on the plate.; The plate piece went brown first, so the water slowed the browning.)
   - Note: Cut brinjal browns quickly in air, often within minutes. Pieces kept under water stay much paler. The salt water piece may look a little paler than the plain water one, or about the same. Both are honest results.
-  - Wait: Wait until 20 minutes.
+  - Wait: Wait until 20 minutes have passed.
 
 ## Activities
 ### a1 · The Unfair Bounce (8 min)
@@ -375,7 +377,7 @@ Then she added one more line: Next test, the sail.
   - Check: Where should you write 'seconds' in the table? → **Once, in each column heading**
 - **s3 (8 min)**  
   *Parent does:* Time each person three times. Fill in the table straight away.  
-  *Parent says:* Write each time as soon as we have it. Our memory is not as good as a table.  
+  *Parent says:* Write each time as soon as we have it. If we wait, we may forget a number or mix it up with another.  
   *Child mode:* Time each person three times. Write each time straight away.
   - Ask: Did anyone get one very different time? What could have happened? (good: Yes, one person wobbled because they laughed.; Someone got better with practice.)
   - Note: An odd result is worth talking about, not rubbing out. Write a note next to it saying what happened.
@@ -399,9 +401,10 @@ Then she added one more line: Next test, the sail.
   *Child mode:* What did stirring do? What did warmth do? How do you know?
   - Check: Which test tells you what stirring does? → **Cold and stirred against cold and not stirred**
 ### a4 · Be James Lind: act out the scurvy test (10 min)
+- **problem:** In 1747 many sailors fell ill with scurvy, and nobody knew the cure. The ship's doctor, James Lind, gave six different treatments to twelve sick sailors, two sailors for each. He kept everything else the same. Here you act out his test and see what the results showed.
 - **record:** Draw Lind's table: Treatment, Number of sailors, How they were after 6 days.
 - **s1 (4 min)**  
-  *Parent does:* Read the How We Found Out card about James Lind. Lay out 12 paper sailors in pairs, with one label beside each pair.  
+  *Parent does:* Read the How We Found Out card about James Lind. Lay out 12 paper sailors in pairs, with a label beside each pair naming its treatment.  
   *Parent says:* Lind had twelve sick sailors. He gave each pair a different treatment. What did he keep the same for all of them?  
   *Child mode:* Twelve sick sailors, in pairs. Each pair gets something different. What stayed the same?
   - Ask: What did Lind keep the same? (good: They all ate the same food.; They all slept in the same part of the ship.; They were all ill with scurvy.)
@@ -460,8 +463,8 @@ Then she added one more line: Next test, the sail.
   - Ask: How could the taster guess right without tasting? (good: By seeing which tumbler it is.; By luck, if they only try once.; If one water is colder.)
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Run the test ten times. Record each guess as right or wrong.  
-  *Parent says:* Ten tries. Change the order with a coin toss each time. Write right or wrong.  
-  *Child mode:* Ten tries. Toss a coin for the order. Write right or wrong.
+  *Parent says:* Ten tries. Toss a coin each time to decide the order. Write 'right' or 'wrong' for each guess.  
+  *Child mode:* Ten tries. Toss a coin for the order. Write 'right' or 'wrong' each time.
   - Note: A grown-up boils the water earlier and lets it cool fully, so it is the same temperature as the tap water.
 - **s3 (3 min)**  
   *Parent does:* Count the right answers and talk about them.  
@@ -470,17 +473,17 @@ Then she added one more line: Next test, the sail.
 
 ## Worksheets
 ### Fair Test Detective (core) (core, 15 questions)
-1. (mcq) Revathi wants to know which floats longer, a paper boat folded from newspaper or one folded from a notebook page. Which test is fair?  
+1. (mcq) Which floats longer: a paper boat folded from newspaper, or one folded from a notebook page? Which test is fair?  
    Options: A big newspaper boat in a bucket and a small notebook boat in a pond / Two boats of the same size, put on the water at the same time in the same bucket / A wet boat and a dry boat  
    **Answer:** Two boats of the same size, put on the water at the same time in the same bucket. *Why:* The boats must be the same size, and they must float in the same water at the same time. Only the paper is different.
-2. (truefalse) Meenakshi says, 'If I change two things at once, I can still tell which one made the difference.' Is she right?  
+2. (truefalse) True or false: if you change two things at once, you can still tell which one made the difference.  
    **Answer:** False. *Why:* False. If two things change together, either one could have caused the result. Change one thing at a time.
 3. (fill) The part of a test where you change nothing, so you can compare with it, is called the ____.  
-   **Answer:** ['control']. *Why:* The control shows what happens anyway. The plain apple slice was the control.
-4. (write) Bhavana says her new cricket bat hits the ball further than her old one. She hit with the old bat on a calm morning, and with the new bat on a windy evening. Why can't she be sure the new bat is better?  
+   **Answer:** ['control']. *Why:* The control shows what happens anyway. In the Brown Apple Test, the plain apple slice was the control.
+4. (write) A new cricket bat seems to hit the ball further than the old one. But the old bat was used on a calm morning, and the new bat on a windy evening. Why can't we be sure the new bat is better?  
    **Answer:** Two things were different: the bat and the weather. The wind could have carried the ball further, not the bat.. *Why:* A strong answer names both differences, the bat and the wind, and says either could explain the result.
-5. (sort) Kavya is testing whether lemon keeps apple white. Sort each thing: does she change it, or keep it the same?  
-   **Answer:** what she puts on each slice → Change; the apple → Keep the same; the thickness of the slices → Keep the same; the plate → Keep the same; the time she checks → Keep the same; the place the plate sits → Keep the same. *Why:* She changes only what goes on the slice. Everything else stays the same so it cannot make a difference.
+5. (sort) In a test of whether lemon keeps apple white, sort each thing: is it changed, or kept the same?  
+   **Answer:** what goes on each slice → Change; the apple → Keep the same; the thickness of the slices → Keep the same; the plate → Keep the same; the time the slices are checked → Keep the same; the place the plate sits → Keep the same. *Why:* Only what goes on the slice is changed. Everything else stays the same so it cannot make a difference.
 6. (order) Put the steps of a fair test in order.  
    **Answer:** ['Ask a question', 'Guess what will happen, and why', 'Plan what to change and what to keep the same', 'Do the test and write the results in a table', 'Say what you found']. *Why:* You need the question and the guess first, then the plan, then the test, then the conclusion.
 7. (match) Match each word to what it means.  
@@ -490,7 +493,7 @@ Then she added one more line: Next test, the sail.
    **Answer:** The unit, such as (cm). *Why:* The unit is missing. 'Height (cm)' tells everyone the numbers are centimetres.
 9. (draw) Draw a results table for the Brown Apple Test. Give it headings for what you put on each slice and the colour at 10 and 30 minutes. Fill in your own results.  
    **Answer:** A table with 4 rows (nothing, water, salt water, lemon) and columns with clear headings, filled in with the child's own scores.. *Why:* A strong table has a heading on every column, one row for each slice, and no empty boxes.
-10. (write) In your apple test, which slice stayed whitest? Use your table as evidence.  
+10. (write) In the Brown Apple Test, which slice stayed whitest? Use your table as evidence.  
    **Answer:** For example: the lemon slice. It scored 0 at 30 minutes while the plain slice scored 2.. *Why:* A strong answer names the slice and quotes the scores or colours from the table, comparing it with the control.
 11. (odd) Three of these tests are fair. Which one is the odd one out?  
    Options: One cloth soaked in a cup of water and the other in a spoonful / Two balls dropped from the same height / Four apple slices from one apple / Two cloths of the same size hung side by side  
@@ -504,12 +507,12 @@ Then she added one more line: Next test, the sail.
 15. (write) Name two things you would keep the same in a test of which shoe grips best on a slope.  
    **Answer:** The same slope, lifted the same way, and the same floor or board. Also the same person lifting it.. *Why:* A strong answer names things that could change the result if they were different, such as the board or the slope.
 ### Planning and Recording (stretch) (stretch, 15 questions)
-1. (write) Farhan wants to know if salt makes ice melt faster. Plan a fair test. Write what he changes, what he keeps the same, and what he watches.  
+1. (write) Does salt make ice melt faster? Plan a fair test. Write what you change, what you keep the same, and what you watch.  
    **Answer:** Change: salt or no salt on the ice cube. Keep the same: cubes from the same tray, same size, same plates, same place, same time. Watch: which cube melts first, or how much water there is after 15 minutes.. *Why:* A strong plan has all three parts and a control cube with no salt.
-2. (mcq) Nila tests paper planes. She throws plane A three times: 3 m, 4 m, 3 m. She throws plane B three times: 6 m, 1 m, 3 m. What can she say?  
-   Options: Plane B is better because it went 6 m once / She can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total / Plane A is broken  
-   **Answer:** She can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total. *Why:* A's throws are close together. B had one long throw, 6 m, which may be a fluke. Both planes went 10 m in total, so she can't yet say which is better. She should throw more.
-3. (write) Tanvi wants to know whether newspaper or notebook paper makes a paper plane that flies further. Write what she changes, two things she keeps the same, and what she measures.  
+2. (mcq) Paper plane A is thrown three times: 3 m, 4 m, 3 m. Plane B is thrown three times: 6 m, 1 m, 3 m. What can you say?  
+   Options: Plane B is better because it went 6 m once / You can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total / Plane A is broken  
+   **Answer:** You can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total. *Why:* A's throws are close together. B had one long throw, 6 m, which may be a fluke. Both planes went 10 m in total, so you can't yet say which is better. More throws are needed.
+3. (write) Does newspaper or notebook paper make a paper plane that flies further? Plan a fair test. Write what you change, two things you keep the same, and what you measure.  
    **Answer:** Change: the kind of paper. Keep the same: the plane's fold and size, the thrower, the throwing spot, the number of throws. Measure: how far each plane flies, in metres.. *Why:* A strong plan has all three parts, and the things kept the same are ones that could really change the distance.
 4. (sort) Is each of these an observation (something you notice) or a measurement (a number with a unit)?  
    **Answer:** the slice went light brown → Observation; the ball bounced 45 cm → Measurement; the sugar took 40 seconds to disappear → Measurement; the brinjal floated → Observation; 7 out of 10 throws went in → Measurement; the plain slice smelled sweet → Observation. *Why:* A measurement uses a tool and a unit. An observation is something noticed with the senses.
@@ -518,25 +521,25 @@ Then she added one more line: Next test, the sail.
 6. (mcq) Kavya's family did the Family Balance Table. Look at their table. Who balanced longest in total?  
    Options: Kavya / Her grandmother, Paati / Her father, Appa  
    **Answer:** Her grandmother, Paati. *Why:* Paati's times add to 60 seconds, Kavya's to 45 and Appa's to 30. Paati balanced longest.
-7. (mcq) Table: Rubber ball bounced 45, 44 and 46 cm. Tennis ball bounced 38, 40 and 39 cm. What can you say?  
+7. (mcq) A table shows three bounces for each ball. The rubber ball bounced 45, 44 and 46 centimetres. The tennis ball bounced 38, 40 and 39 centimetres. What can you say?  
    Options: The rubber ball bounced higher on every try, so it is probably bouncier / The tennis ball is bouncier because it is lighter / You can say nothing from three tries  
    **Answer:** The rubber ball bounced higher on every try, so it is probably bouncier. *Why:* Every rubber ball bounce was higher than every tennis ball bounce, and the three tries of each ball were close together. That is good evidence.
 8. (draw) Draw a results table for Ten Throws, with rows for underarm and overarm and columns for the tally and the number in.  
    **Answer:** A table with two rows and three columns: Throw, Tally, Number in out of 10.. *Why:* A strong table has clear headings and room for a tally.
-9. (order) Divya does the sugar puzzle. Put her tests in an order that untangles warmth and stirring.  
-   **Answer:** ['Warm and stirred against cold and not stirred: she cannot tell which helped', 'Cold and stirred against cold and not stirred: this shows what stirring does', 'Warm and stirred against cold and stirred: this shows what warmth does', 'She says what each one did']. *Why:* First the unfair test shows the problem. Then two fair tests change one thing each. Then she concludes.
+9. (order) Put these sugar puzzle tests in an order that untangles warmth and stirring.  
+   **Answer:** ['Warm and stirred against cold and not stirred: you cannot tell which helped', 'Cold and stirred against cold and not stirred: this shows what stirring does', 'Warm and stirred against cold and stirred: this shows what warmth does', 'Say what warmth did and what stirring did']. *Why:* First the unfair test shows the problem. Then two fair tests change one thing each. Then comes the conclusion.
 10. (match) Match each unfair test to the fix.  
    **Answer:** Two balls dropped from different heights → Drop both from the same mark; A big towel tested against a small hanky → Cut the same size of each; One apple slice cut 20 minutes before the others → Cut all the slices at the same time; One cloth dried in the sun and one in a cupboard → Dry both in the same place. *Why:* Each fix makes one more thing the same, so only the thing being tested is different.
 11. (perspective) Lind's twelve sailors were all very ill. He gave only two of them oranges and lemons.  
    **Answer:** A strong answer sees both sides: without the other pairs, Lind could not know what worked, and ships often had little fruit. But the other sailors stayed ill longer. Today, doctors ask people first and make sure everyone gets proper care.. *Why:* Real scientists still argue about how to test cures kindly. Marks go for reasons on both sides.
 12. (write) Why should you draw your results table before you start a test, not after?  
    **Answer:** So you are ready to write each result straight away, and you don't forget any. It also makes you plan what you will measure.. *Why:* A strong answer mentions memory and planning.
-13. (fill) The one thing you choose to change in a test is called a ____. The other things that could change are called variables too.  
+13. (fill) Anything in a test that could change, such as the height of a drop or the kind of floor, is called a ____.  
    **Answer:** ['variable']. *Why:* Anything that could change in a test is a variable. In a fair test you change one of them on purpose.
 14. (odd) Three of these are things to keep the same in Ten Throws. Which is the odd one out?  
    Options: Underarm or overarm / The throwing line / The paper ball / The bucket  
    **Answer:** 0. *Why:* The way of throwing is the thing being changed. The line, the ball and the bucket are kept the same.
-15. (write) Arun says his toy car is faster because it beat his sister's car down the stairs. Write one question you would ask him to check if his test was fair.  
+15. (write) Someone says their toy car is faster because it beat another car down the stairs. Write one question you would ask to check if the test was fair.  
    **Answer:** For example: Did both cars start from the same step? Did you both let go without pushing?. *Why:* A strong question names one thing that might have been different apart from the car.
 ### Thinking Like a Scientist (challenge) (challenge, 15 questions)
 1. (write) Many people think a cricket team wins more when someone wears their 'lucky' shirt. How could you test this idea fairly? What makes it hard?  
@@ -545,8 +548,8 @@ Then she added one more line: Next test, the sail.
    **Answer:** A strong answer sees that the first scientist can't plant and remove a tree easily, and that the second must make sure the streets are alike in other ways, such as width and buildings.. *Why:* This is a real problem in science: some things can't be changed on purpose, so scientists compare carefully chosen cases.
 3. (mcq) In a fair test of salt on ice, the salted cube makes more water in 15 minutes. But the salt itself has also dissolved into the water. What does this mean?  
    Options: The test is useless / The salt adds a little to the water, so a small difference might not mean much / Salt cannot dissolve  
-   **Answer:** The salt adds a little to the water, so a small difference might not mean much. *Why:* The salt adds a little to the liquid, so the comparison is not perfect. Noticing hidden differences like this is what good scientists do. A larger difference than the salt could explain still shows the salt melted more ice.
-4. (write) Your plain apple slice went brown with nothing on it. What was making it brown? How does this help you understand what the lemon did?  
+   **Answer:** The salt adds a little to the water, so a small difference might not mean much. *Why:* The salt adds a little to the liquid, so the comparison is not perfect. Noticing hidden differences like this is what good scientists do. If the difference is bigger than the salt alone could add, it still shows that the salt melted more ice.
+4. (write) In the Brown Apple Test, the plain apple slice went brown with nothing on it. What was making it brown? How does this help you understand what the lemon did?  
    **Answer:** Air, warmth and the cut were browning it, because the apple's broken cells meet oxygen. Every slice had those. So the plain slice shows what happens without lemon, and the difference with the lemon slice is what the lemon did.. *Why:* A strong answer names the causes every slice shared and uses the control to explain the lemon's effect.
 5. (sort) Can each question be answered by a fair test you change yourself, or only by comparing what nature has already done?  
    **Answer:** Does lemon keep apple white? → Fair test; Do bigger stars burn out sooner? → Comparing what nature did; Does stirring dissolve sugar faster? → Fair test; Were dinosaurs warm-blooded? → Comparing what nature did; Which throw gets more balls in a bucket? → Fair test; Do people who eat more vegetables live longer? → Comparing what nature did. *Why:* If you can change the thing yourself, you can do a fair test. If not, you compare many cases.
@@ -562,7 +565,7 @@ Then she added one more line: Next test, the sail.
 10. (fill) In a test of which tumbler keeps ice longest, the kind of tumbler is the thing we ____ on purpose.  
    **Answer:** ['change']. *Why:* The thing you want to find out about is the one thing you change. Everything else stays the same.
 11. (order) Put the parts of a good conclusion in order.  
-   **Answer:** ['What I found (my claim)', 'What I saw or measured (my evidence)', 'Why I think it happened (my reasoning)', 'What I would test next']. *Why:* Claim, evidence, reasoning, and then a new question.
+   **Answer:** ['What I found (my claim)', 'What I saw or measured (my evidence)', 'Why I think it happened (my reasoning)', 'What I would test next']. *Why:* First the claim, then the evidence, then the reasoning, and last a new question to test.
 12. (write) Lind's test used only twelve sailors, two for each treatment. Why might a doctor today want many more people in a test?  
    **Answer:** With only two people, one might get better for some other reason, by chance. With many people in each group, chance evens out, and the result is much more trustworthy.. *Why:* A strong answer links the number of people to flukes, like the number of throws.
 13. (odd) Which of these is the odd one out?  
@@ -582,39 +585,39 @@ Then she added one more line: Next test, the sail.
 1. (mcq) What is a fair test?  
    Options: A test where everyone wins / A test where you change only one thing and keep everything else the same / A test you do only once / A test that agrees with your guess  
    **Answer:** A test where you change only one thing and keep everything else the same. *Why:* A fair test changes only one thing. Then any difference in the result must come from that one thing.
-2. (mcq) Farhan wants to know which of two balls is bouncier. What must he do?  
+2. (mcq) You want to know which of two balls is bouncier. What must you do?  
    Options: Drop them from different heights / Drop them from the same height onto the same floor / Throw one and drop the other / Drop one on the rug and one on the tiles  
    **Answer:** Drop them from the same height onto the same floor. *Why:* Only the ball should be different. Same height, same floor, and just let go.
-3. (mcq) Divya puts one tomato plant on the sunny balcony and waters that plant every day. She puts another inside and forgets to water it. The balcony plant grows better. What is wrong with her test?  
-   Options: Nothing, it is fair / She changed two things: the light and the water / She used plants / She should have used three plants  
-   **Answer:** She changed two things: the light and the water. *Why:* Light and water were both different, so she cannot tell which one helped the balcony plant.
-4. (mcq) Lakshmi tests whether lemon keeps an apple slice white. Why does she also keep one slice with nothing on it?  
+3. (mcq) One tomato plant sits on the sunny balcony and is watered every day. Another sits inside and is not watered. The balcony plant grows better. What is wrong with this test?  
+   Options: Nothing, it is fair / Two things were different: the light and the water / It used plants / It should have used three plants  
+   **Answer:** Two things were different: the light and the water. *Why:* Light and water were both different, so nobody can tell which one helped the balcony plant.
+4. (mcq) In a test of whether lemon keeps an apple slice white, why is one slice kept with nothing on it?  
    Options: To eat it / To compare: it shows what happens with no lemon / Because lemon is expensive / To make the plate look full  
    **Answer:** To compare: it shows what happens with no lemon. *Why:* That slice is the control. If it goes brown while the lemon slice stays white, the lemon made the difference.
 5. (mcq) In the Brown Apple Test, which of these should be the same for every slice?  
    Options: What you put on it / The apple it was cut from / Its colour at the end / Its label  
    **Answer:** The apple it was cut from. *Why:* All slices come from one apple. Different apples can brown at different speeds, so using two apples would be unfair.
-6. (mcq) Meera throws a paper ball once underarm and it goes in. She throws once overarm and misses. What should she do next?  
+6. (mcq) You throw a paper ball once underarm and it goes in. You throw once overarm and miss. What should you do next?  
    Options: Decide underarm is better / Throw many more times each, the same way / Stop playing / Use a different bucket  
    **Answer:** Throw many more times each, the same way. *Why:* One throw can be a fluke. Ten throws each give a much better answer.
 7. (mcq) In a results table, where do you write the unit, such as 'seconds'?  
    Options: After every number / In the column heading / At the very bottom / You don't need units  
    **Answer:** In the column heading. *Why:* The unit goes once in the heading, for example 'Time (seconds)'. It tells everyone what all the numbers in that column mean.
-8. (mcq) Kavya's table for Ten Throws says: underarm 7 out of 10, overarm 4 out of 10. What can she say?  
-   Options: Overarm got more in / Underarm got more in, in her test / They were the same / She can't say anything  
-   **Answer:** Underarm got more in, in her test. *Why:* 7 is more than 4. So in her ten throws each, more went in underarm. She could repeat it to be surer.
-9. (mcq) A cut apple slice turns brown because:  
+8. (mcq) A table for Ten Throws says: underarm 7 out of 10, overarm 4 out of 10. What can you say from it?  
+   Options: Overarm got more in / Underarm got more in, in this test / They were the same / You can't say anything  
+   **Answer:** Underarm got more in, in this test. *Why:* 7 is more than 4. So in this test of ten throws each, more went in underarm. Repeating the test would make you surer.
+9. (mcq) Why does a cut apple slice turn brown?  
    Options: It is dirty / Substances in the broken cells meet oxygen in the air / The knife was steel / Light shines on it  
    **Answer:** Substances in the broken cells meet oxygen in the air. *Why:* Cutting breaks the apple's cells. Their substances meet the oxygen in the air, and an enzyme makes brown substances.
-10. (mcq) In Lind's test, what was different between the six pairs of sailors?  
-   Options: The treatment they were given / The food they ate / The part of the ship they slept in / The illness they had  
-   **Answer:** The treatment they were given. *Why:* Lind gave every pair the same food and the same place to sleep, and all had scurvy. Only the treatment was different, so it was the treatment that helped the oranges and lemons pair.
-11. (mcq) Which pair of sailors in Lind's test got better fastest?  
-   Options: The pair given sea water / The pair given vinegar / The pair given oranges and lemons / The pair given dilute acid  
-   **Answer:** The pair given oranges and lemons. *Why:* Oranges and lemons have vitamin C, which the body needs. One of that pair was fit for work after six days.
-12. (mcq) Shalini's test shows something she didn't expect. What is the best thing to do?  
-   Options: Change the result to match her guess / Keep the result, check the test was fair, and repeat it / Throw the table away / Say the test is broken  
-   **Answer:** Keep the result, check the test was fair, and repeat it. *Why:* An unexpected result is still a result. If the test was fair and gives the same result again, she has learned something new.
+10. (mcq) A ship's doctor wants to find which treatment cures sailors sick with scurvy. He splits them into six pairs. To make it a fair test, what should be different between the pairs?  
+   Options: The treatment they are given / The food they eat / The part of the ship they sleep in / The illness they have  
+   **Answer:** The treatment they are given. *Why:* Every pair should have the same food, the same place to sleep and the same illness. Only the treatment changes, so if one pair gets better, it must be the treatment that helped.
+11. (mcq) Sailors on long trips got scurvy, because their food had no vitamin C. Which treatment would help them get better fastest?  
+   Options: Sea water / Vinegar / Oranges and lemons / Dilute acid  
+   **Answer:** Oranges and lemons. *Why:* Oranges and lemons have vitamin C, which the body needs. The other treatments do not give it.
+12. (mcq) Your test shows something you didn't expect. What is the best thing to do?  
+   Options: Change the result to match your guess / Keep the result, check the test was fair, and repeat it / Throw the table away / Say the test is broken  
+   **Answer:** Keep the result, check the test was fair, and repeat it. *Why:* An unexpected result is still a result. If the test was fair and gives the same result again, you have learned something new.
 
 ## Applications
 - Doctors test new medicines in fair tests called trials, comparing people who get the medicine with people who don't.
@@ -663,11 +666,11 @@ Then she added one more line: Next test, the sail.
 - Why did the paper ball go to school? *To get better at tests: ten of them.*
 
 ## Connected maths
-- In Ten Throws, Kavya got 7 of 10 balls in underarm and 4 of 10 overarm. How many more went in underarm? **3 more went in underarm.**. 7 take away 4 is 3. So underarm got 3 more balls in out of the same 10 throws. (queues `math.data.bar-charts.L3`)
+- In Ten Throws, 7 of 10 balls went in underarm and 4 of 10 went in overarm. How many more went in underarm? **3 more went in underarm.**. 7 take away 4 is 3. So underarm got 3 more balls in out of the same 10 throws. (queues `math.data.bar-charts.L3`)
 - Kavya and Arun timed their boats three times each. Arun's boat took 11, 12 and 13 seconds. Kavya's took 12, 11 and 13 seconds. What was the total for each boat? What does that tell you? **Both boats took 36 seconds in total, so they were about as fast as each other.**. 11 + 12 + 13 = 36. 12 + 11 + 13 = 36. The totals are the same, so neither boat was faster. (queues `math.measurement-basics.estimation-and-precision.L3`)
-- Kavya's family did the Family Balance Table. Her grandmother, Paati, stood on one foot for 20, 22 and 18 seconds. Her father, Appa, stood for 8, 10 and 12 seconds. About how many times longer did Paati balance? **About 2 times as long.**. Paati's total is 20 + 22 + 18 = 60 seconds. Appa's total is 8 + 10 + 12 = 30 seconds. 60 is 2 times 30. (queues `math.data.bar-charts.L3`)
+- In the Family Balance Table, Paati stood on one foot for 20, 22 and 18 seconds. Appa stood for 8, 10 and 12 seconds. About how many times longer did Paati balance? **About 2 times as long.**. Paati's total is 20 + 22 + 18 = 60 seconds. Appa's total is 8 + 10 + 12 = 30 seconds. 60 is 2 times 30. (queues `math.data.bar-charts.L3`)
 - Lind gave 12 sailors six different treatments, the same number of sailors for each. How many sailors got each treatment? If he had 30 sailors and six treatments, how many would each get? **2 sailors each. With 30 sailors, 5 each.**. 12 shared into 6 equal groups is 2. 30 shared into 6 equal groups is 5. More sailors in each group would make a fluke less likely. (queues `math.measurement-basics.estimation-and-precision.L3`)
-- Nila's plane A flew 3, 4 and 3 metres. Plane B flew 6, 1 and 3 metres. Which plane is more reliable, and why might B's 6 be a fluke? **Plane A is more reliable. Its throws are close together. B's throws jump about, and its 6 metres happened only once.**. Both planes add up to 10 metres. But A's three numbers are all close, while B's are very different from each other. A number far from the others might be a fluke, so Nila should throw more times. (queues `math.measurement-basics.estimation-and-precision.L3`)
+- Paper plane A flew 3, 4 and 3 metres. Plane B flew 6, 1 and 3 metres. Which plane is more reliable, meaning it flies about the same distance each time? Why might B's 6 be a fluke? **Plane A is more reliable. Its throws are close together. B's throws jump about, and its 6 metres happened only once.**. Both planes add up to 10 metres. But A's three numbers are all close, while B's are very different from each other. A number far from the others might be a fluke, so more throws are needed. (queues `math.measurement-basics.estimation-and-precision.L3`)
 
 ## Song
 One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3

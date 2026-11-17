@@ -1,9 +1,9 @@
 # Rights and tax money: what India's laws promise every family
 `sci.india.government-and-rights.L3`
 
-**Summary.** Almost every bill from a shop or restaurant has a line called GST. That is tax, money paid to the government with every purchase. So the books, roads and street lights we call 'free' are paid for by all of us together. A right is something the law promises every person. India's laws promise every child aged 6 to 14 a free school place. They promise every citizen the right to ask how public money is spent. They promise rural families paid work when they need it. In this unit you hunt for the tax on your own family's bills, check a pretend work register for cheating, and find out where the things in your home were made.
+**Summary.** Almost every bill from a shop or restaurant has a line called GST. That is tax, money paid to the government with every purchase. So the books, roads and street lights we call 'free' are paid for by all of us together. A right is something the law promises every person. India's laws promise every child aged 6 to 14 a free school place. They promise every citizen the right to ask how public money is spent. They promise village families paid work when they need it. In this unit you hunt for the tax on your own family's bills, check a pretend work register for cheating, and find out where the things in your home were made.
 
-**Intro.** *Pick up a school textbook or a printed bill. A government school gives that book free. A shop bill has a small line called GST. Is the free book really free? Who paid for it?* The book was paid for with public money. Public money is the money the government collects from people, mostly as tax. Some of it came from the GST on bills like yours. In this unit you find out how much tax your family pays when it shops. Then you learn three laws that come from this idea. Every child has a right to go to school. Every citizen has a right to know how public money is spent. Every rural family has a right to ask for paid work.
+**Intro.** *Pick up a school textbook or a printed shop bill. Government schools give their textbooks free. A shop bill has a small line called GST. Is a free book really free? Who paid for it?* The book was paid for with public money. Public money is the money the government collects from people, mostly as tax. Some of it came from the GST on bills like yours. In this unit you find out how much tax your family pays when it shops. Then you learn about three rights that India's laws give. Every child has a right to go to school. Every citizen has a right to know how public money is spent. Every village family has a right to ask for paid work.
 
 ## Learning outcomes
 0. I can find the tax on a bill, and explain that almost everyone pays tax when they buy things.
@@ -25,7 +25,7 @@
 - **Right to Education Act**: This law, passed in 2009, says every child aged 6 to 14 must get a free school place, up to Class 8. Schools may not test small children before giving them a seat. *e.g.* A 6-year-old in Madurai joins Class 1 at a government school without paying any fee.
 - **Right to Information Act**: This law, passed in 2005, lets any citizen ask a government office for information. The office must answer within 30 days. People call it RTI. *e.g.* A family in Kochi asks the town office how much the repair of their road cost.
 - **Public Information Officer**: The Public Information Officer is the person in each government office whose job is to answer RTI questions. *e.g.* A letter about the road repair goes to the Public Information Officer of the town office.
-- **Rural job guarantee**: This is a law that promises paid work to village families who ask for it, on jobs like digging ponds. From 2006 it was called MGNREGA and promised 100 days a year. From 1 July 2026, a new law promises 125 days. *e.g.* In a village near Anantapur, women dig a farm pond and are paid by the day.
+- **Rural job guarantee**: This is a law that promises paid work to village families who ask for it, on jobs like digging ponds. From 2009 it was called MGNREGA and promised 100 days a year. From 1 July 2026, a new law promises 125 days. *e.g.* In a village near Anantapur, women dig a farm pond and are paid by the day.
 - **Job card**: A job card is a small book given free to a village family that wants work under the job guarantee. It records the days each person worked and the wages paid. *e.g.* A job card shows that a woman worked 15 days on the village pond in April, and what she was paid.
 - **Muster roll**: A muster roll is the attendance list at a work site. It shows who worked on which days, so they can be paid. *e.g.* The muster roll for the pond has 6 names and a tick for each day each person came.
 - **Social audit**: A social audit is a meeting where the work records are read aloud in the village. The people who did the work say whether the records are true. *e.g.* At the social audit, a worker stands up and says, 'I worked 10 days, not 6.'
@@ -37,23 +37,23 @@
 ### What a right is · *defined*
 **Definition:** A right is something every person may have or do, which the law protects. A person does not have to earn it or pay for it.
 
-India's Constitution lists Fundamental Rights, such as being equal before the law and speaking freely. Parliament can also make laws that give new rights. A right is different from a gift. A gift can be taken back when the giver changes their mind. A right stays, and if an office refuses it, a person can complain or go to court. Rights also come with work for someone. A child's right to school means the government must build schools and pay teachers.
+India's Constitution lists Fundamental Rights, such as being equal before the law and speaking freely. It was written by an assembly that included 15 women, such as Hansa Mehta and Durgabai Deshmukh. Parliament can also make laws that give new rights. A right is different from a gift. A gift can be taken back when the giver changes their mind. A right stays, and if an office refuses it, a person can complain or go to court. A right also gives someone a job to do. A child's right to school means the government must build schools and pay teachers.
 - e.g. Every child aged 6 to 14 has the right to a free school place.
 - e.g. Every citizen has the right to ask a government office for information.
 - e.g. Every person has the right to be treated equally by the law, whatever their religion, caste or whether they are a girl or a boy.
 ### Tax and public money · *defined*
 **Definition:** Tax is money people must pay to the government. Public money is what the government collects, mostly from tax, to spend on things everyone shares.
 
-Most people never hand money straight to the government. They pay tax inside the price of what they buy. GST began in India on 1 July 2017. Since 22 September 2025, most goods carry GST of 5% or 18%. That means 5 or 18 rupees for every 100 rupees of price. Some things, such as fresh vegetables, carry none. People who earn more also pay income tax. So a family that only buys rice, soap and a bus ticket is still paying tax. This is why the government's money is really the people's money.
+Most people never hand money straight to the government. They pay tax inside the price of what they buy. GST began in India on 1 July 2017. Since 22 September 2025, most goods carry GST of 5% or 18%. That means 5 or 18 rupees for every 100 rupees of price. Some things, such as fresh vegetables, carry none. People who earn more also pay income tax, which is a tax on the money they earn. So a family that only buys rice, soap and a bus ticket is still paying tax. This is why the government's money is really the people's money.
 - e.g. A bill shows CGST 2.5% and SGST 2.5%. That adds up to 5 rupees of tax on every 100 rupees of price.
 - e.g. The road, the drain, the bus stop and the government hospital are paid for with public money.
 - e.g. A small kirana shop's handwritten slip often shows no GST. Very small shops do not have to collect it.
 ### The right to go to school · *defined*
 **Definition:** Under the Right to Education Act, 2009, every child aged 6 to 14 has the right to free school up to Class 8, in a school near home.
 
-For a long time, millions of children in India did not go to school. Many had to work, or had no school nearby. In 2002, the Constitution was changed to make free school a Fundamental Right for children aged 6 to 14. The Right to Education Act came into force on 1 April 2010. It says government schools must not charge fees. A school may not hold a test before giving a small child a seat, or ask for a donation. A child must not be turned away for having no birth certificate. A teacher must not hit or frighten a child. Private schools must keep a quarter of the seats in their first class for children from poor families, and the government pays for those seats.
+For a long time, millions of children in India did not go to school. Many had to work, or had no school nearby. In 2002, the Constitution was changed to make free school a Fundamental Right for children aged 6 to 14. The Right to Education Act came into force on 1 April 2010. It says government schools must not charge fees. A school may not hold a test before giving a small child a seat, or ask for a donation. A child must not be turned away for having no birth certificate. A teacher must not hit or frighten a child. Private schools must keep a quarter of the seats in the first class of the school for children from poor families, and the government pays for those seats.
 - e.g. A school in Guwahati asks a 5-year-old to sit an entry test. The law does not allow this.
-- e.g. A private school in Mysuru keeps 25 of its 100 first-class seats for children from poor families.
+- e.g. A private school in Mysuru keeps 25 of the 100 seats in its first class for children from poor families.
 - e.g. A girl whose family moved from Odisha to Chennai is given a seat though she has no birth certificate.
 ### Lunch at school · *defined*
 **Definition:** Government schools in India give children a free cooked lunch on school days. The scheme is now called PM POSHAN.
@@ -69,7 +69,7 @@ The money a government office spends came from the people, so the people may ask
 - e.g. Villagers in Odisha ask how much money was spent on their school's new toilet, and who built it.
 - e.g. A student asks the university for a copy of their own marked answer sheet.
 ### Paid work for village families · *defined*
-**Definition:** A rural job guarantee is a law that promises paid manual work to any village family whose adults ask for it.
+**Definition:** A rural job guarantee is a law that promises paid work, such as digging ponds, to any village family whose adults ask for it.
 
 In many villages, there is little paid work in the months between harvests. Many people then leave for cities to look for jobs. India's National Rural Employment Guarantee Act was passed in 2005. Its first work began on 2 February 2006, in Bandlapalli village in Anantapur district, Andhra Pradesh. In 2009 it was renamed after Mahatma Gandhi and became MGNREGA. It promised every village household up to 100 days of paid work a year. A family asks the Gram Panchayat, the elected village council. They get a free job card. If no work is given within 15 days, the family must be paid an allowance. Women and men get the same wage, and wages go into a bank or post office account. A work site must have drinking water, shade and first aid. On 1 July 2026, a new law, the VB-G RAM G Act, replaced MGNREGA. It promises up to 125 days of work a year.
 - e.g. Women in a Telangana village dig a farm pond, so rainwater stays for the dry months.
@@ -80,7 +80,7 @@ When records are kept shut in an office, a dishonest person can write a false na
 - e.g. A muster roll shows a man working 12 days, but he was in Hyderabad all month. The villagers know, and say so at the meeting.
 - e.g. A board at a building site lists the cost of the work, so anyone passing can ask questions.
 ### Trade with the whole world · *debated*
-A phone, a toy or a cooking oil may come from far away. Ships, aeroplanes and the internet have made trade between countries fast and cheap. This is a big part of globalisation. In 1991, India made new rules that opened it up much more to world trade. India now exports rice, medicines, cars, clothes and computer services. It imports oil, gold and many electronic parts. Many things are made in steps across many countries. A 'Made in' label names only where the thing was finished. People agree that trade has made many things cheaper. They argue about who gains and who loses.
+A phone, a toy or a bottle of cooking oil may come from far away. Ships, aeroplanes and the internet have made trade between countries fast and cheap. This is a big part of globalisation. In 1991, India made new rules that opened it up much more to world trade. India now exports rice, medicines, cars, clothes and computer services. It imports oil, gold and many electronic parts. Many things are made in steps across many countries. A 'Made in' label names only where the thing was finished. People agree that trade has made many things cheaper. They argue about who gains and who loses.
 - e.g. Tomatoes, potatoes and chillies first came to India from the Americas, about 500 years ago. Now they feel completely Indian.
 - e.g. Many phones sold in India are now put together in factories near Chennai and in Noida, from parts made in many countries.
 - e.g. A handloom weaver in Kanchipuram sells silk saris to buyers in other countries.
@@ -98,7 +98,7 @@ The rural job guarantee was one of the biggest work schemes in the world. People
 - Almost everyone in India pays tax, because GST is added to the price of most things people buy. *How we know:* GST appears on the printed bills of shops, restaurants and online orders. You can check your own family's bills.
 - Since 2010, every child in India aged 6 to 14 has had a legal right to free school up to Class 8. *How we know:* The Right to Education Act, 2009, and Article 21A of the Constitution, added in 2002.
 - Any Indian citizen may ask a government office for information, and does not have to give a reason. *How we know:* The Right to Information Act, 2005. Lakhs of people use it every year.
-- Reading work records aloud to the workers helps catch false entries. *How we know:* The public hearings of the MKSS in Rajasthan in the 1990s, and the regular social audits held in states such as Andhra Pradesh.
+- Reading work records aloud to the workers helps catch false entries. *How we know:* The public hearings held in Rajasthan in the 1990s by a group called the MKSS, and the regular social audits held in states such as Andhra Pradesh.
 
 ## How we found out
 **The MKSS, started by Aruna Roy, Nikhil Dey, Shankar Singh and others, and the workers of central Rajasthan, 1990 (MKSS begins), 1994 and 1995 (the first public hearings), 2000 (Rajasthan's law), 2005 (the Right to Information Act).** In the early 1990s, workers in the villages of central Rajasthan were often paid less than the minimum wage on government work sites. Officials said the records showed everyone had been paid in full. Those records were kept in offices, and villagers were not allowed to see them. Most people believed that official records, signed and stamped, must be true. A group called the Mazdoor Kisan Shakti Sangathan, or MKSS, set out to check. It had been started in 1990 by Aruna Roy, Nikhil Dey, Shankar Singh and others. In 1994 and 1995, they got copies of bills and muster rolls and read them aloud at village public hearings, called jan sunwai. Workers stood up and said, 'I never got this money.' Some names belonged to people who had died or moved away. Some works on paper had never been built. The records were not the truth. Their slogan was 'Hamara paisa, hamara hisaab': our money, our accounts. Their campaign helped bring Rajasthan's right to information law in 2000, and the Right to Information Act for all of India in 2005.  
@@ -124,13 +124,13 @@ The rural job guarantee was one of the biggest work schemes in the world. People
 ## Roots
 We have found the tax on our own bills and learned the rights it pays for. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Nearly every bill you checked had GST on it, even small ones. So almost every family that shops pays tax, yours too. That tax pays for 'free' school books, roads and street lights. So the government spends money that belongs to all of us together.  
+**Deep truth.** In the Bill Detective, nearly every bill you checked had GST on it, even small ones. So almost every family that shops pays tax, yours too. That tax pays for 'free' school books, roads and street lights. So the government spends money that belongs to all of us together.  
 *Habit it breaks:* We say 'government money' and call school books and lunches 'free', as if the money came from nowhere. But it was collected a few rupees at a time from almost every family's shopping, so everyone has already paid.  
 *Evidence:* The Bill Detective: the GST lines on the family's own supermarket, restaurant and medical shop bills. Only loose fresh food or a tiny shop's handwritten slip had none.
 
-- *who am i:* You are a taxpayer already. Every packet of biscuits you buy puts a few rupees into the shared purse.
+- *who am i:* You are a taxpayer already. Every packet of biscuits you buy adds a few rupees to public money, the money we all share.
 - *what is life:* Life in a country is shared. Your road, your school and your lunch were paid for by families you will never meet, and you help pay for theirs.
-- *what is this world:* A world where strangers pool their money to build things for everyone, and then have the right to ask how it was spent.
+- *what is this world:* The world is a place where strangers pool their money to build things for everyone, and then have the right to ask how it was spent.
 
 One family's GST on one bill is a few rupees. Crores of families shopping every day add those rupees into one shared fund. That fund pays for a pond in Anantapur, a lunch in Kolkata and a street light in Kochi. Because the money comes from all of those families, they all have a right to see the accounts.
 
@@ -140,7 +140,7 @@ One family's GST on one bill is a few rupees. Crores of families shopping every 
 - Science (settled): GST has been added to the price of most goods and services in India since 1 July 2017, so almost every family that shops pays some tax.
 - Science (debated): Studies, including one of smart-card wage payments in Andhra Pradesh, have found that open records and checks reduce cheating in public schemes. How much they help still differs from place to place.
 - Other view, Some philosophers and economists, such as Robert Nozick: Tax is taken by law, not given freely, so it is not really 'shared' money at all. Some people go further, and say the government should take and spend much less, leaving families to choose for themselves what to pay for.
-- Practice, The faces behind the road (3 min): Let's sit still and close our eyes. Think of the road outside our building. Now picture the people who paid for it. A fruit seller. A nurse. A grandmother buying soap. Picture the people who built it. Women carrying stones. A driver on a roller. Take three slow breaths. Now open your eyes. Next time you walk on that road, remember all those people are under your feet.
+- Practice, The faces behind the road (3 min): Let's sit still and close our eyes. Think of the road outside our building. Now picture the people who paid for it. A fruit seller. A nurse. A grandmother buying soap. Picture the people who built it. Women carrying stones. A driver on a roller. Take three slow breaths. Now open your eyes. Next time you walk on that road, remember all the people who paid for it and built it.
 - Ask: If the road was paid for by everyone, whose road is it?
 - Ask: You pay a little tax when you buy biscuits. Does that give you a say in how it is spent? How much of a say?
 - Ask: Is a thing still free if everyone has already paid for it?
@@ -192,7 +192,7 @@ Her heart was thumping. Everyone would look at her. But it was true, and she kne
 
 The crowd went quiet. Then an old man said, 'That's right. Ravi left before Ugadi.' A woman said, 'I never saw him at the pond.'
 
-Sujatha looked at the worksite helper, the mate, who kept the muster roll. He looked at his feet. At last he said that he had added some names of people who were away. The wages for those days had gone into an account he could use.
+Sujatha looked at the mate, the worksite helper who kept the muster roll. He looked at his feet. At last he said that he had added some names of people who were away. The wages for those days had gone into an account he could use.
 
 Sujatha wrote it all down. 'This will go to the officers,' she said. 'The money must be paid back.' Then she turned to Lakshmi. 'Thank you. The register looked perfect in the office. It took someone who knew the truth to find the mistake.'
 
@@ -209,13 +209,13 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - Ask: Why did the officers in the office not notice that Ravi's name was wrong?
 - Ask: How did Lakshmi know that Ravi Mama was not at the pond?
 - Ask: Ammamma's voice shook when she stood up. Why do you think it was hard for her to speak?
-- Ask: How did Lakshmi being able to read help her family and her village?
+- Ask: Lakshmi could read. How did that help her family and her village?
 - Ask: Who do you think should check the records of work done near your home?
 
 ## Games
 ### g1 · Rights Helpline: which law helps? (20 min)
-- **rules:** Shuffle the 16 problem cards and put them face down.; One player is the helpline worker. Another player picks the top card and reads it out as a phone call. Playing alone, read it yourself.; The helpline worker says which law or idea helps. That earns 1 point.; Then they say exactly what the caller should do. That earns 1 more point.; The reader turns the card over and checks. If the answer is different, talk about why, and give the points that were earned.; Swap jobs after every call. With 2 players, you swap each time. After 16 calls, the most points wins. Playing alone, try to get 24 points out of 32.
-- **Printable cards: 16 problem cards to cut out (the answer is on the back):** Revathi, aged 6, wants to join Class 1. The school says she must pass a test first. (back: Right to Education. A school may not test a small child before giving a seat.); A school asks Farhan's father for a 50,000-rupee donation for a seat. (back: Right to Education. Schools may not ask for a donation for admission.); Kavya's family moved to Chennai and lost her birth certificate. The school says no. (back: Right to Education. No child may be turned away for having no birth certificate.); Nandini, aged 9, is kept at home to look after her baby brother. (back: Right to Education. Every child aged 6 to 14 has a right to go to school.); The street light outside Meenal's building has been broken for six months. (back: Right to Information. Ask the city office, in writing, when it will be fixed and why it has not been.); Villagers in Odisha want to know how much the new school toilet cost, and who built it. (back: Right to Information. Write to the Public Information Officer of the office that paid for it.); Selvi wrote an RTI letter 40 days ago. She has had no answer. (back: Right to Information. The answer was due in 30 days. She can appeal to a senior officer.); An officer asks Anbu's mother why she wants the information. (back: Right to Information. Nobody has to give a reason for asking.); Kamakshi, in a village, has had no work since the harvest ended. (back: Rural job guarantee. Ask the Gram Panchayat for work, in writing, and keep the receipt.); Ramu asked for work 20 days ago and was given none. (back: Rural job guarantee. If no work comes within 15 days, he must be paid an allowance.); At the pond, the women are paid less than the men for the same work. (back: Rural job guarantee. Women and men must get the same wage.); At the social audit, the register says the pond was dug 3 metres deep. The villagers can see it is only 1 metre deep. (back: Social audit. Say so at the meeting. The record must be corrected.); A name on the muster roll belongs to a man who lives in Hyderabad. (back: Social audit. Say so at the meeting. The money must be paid back.); Nisha's class gets free books and a free lunch. A friend asks: who pays the cook and for the rice? (back: Tax. Both are paid with public money, which comes mostly from tax that families pay.); Aditi's shoes say Made in Vietnam. She asks why. (back: Globalisation. Countries trade, so things made far away are sold here.); A toy maker in Channapatna sells fewer wooden toys since cheap plastic toys arrived. (back: Globalisation. Trade brings cheaper goods, but some local makers lose work.)
+- **rules:** Shuffle the 16 problem cards and put them face down.; One player is the helpline worker. Another player picks the top card and reads it out as a phone call. Playing alone, read it yourself.; The helpline worker says which law or idea helps. That earns 1 point.; Then the helpline worker says exactly what the caller should do. That earns 1 more point.; The reader turns the card over and checks. If the answer is different, talk about why, and give the points that were earned.; Swap jobs after every call. After 16 calls, the player with the most points wins. Playing alone, try to get 24 points out of 32.
+- **Printable cards: 16 problem cards to cut out (the answer is on the back):** Revathi, aged 6, wants to join Class 1. The school says she must pass a test first. (back: Right to Education. A school may not test a small child before giving a seat.); A school asks Farhan's father for a 50,000-rupee donation for a seat. (back: Right to Education. Schools may not ask for a donation for admission.); Kavya's family moved to Chennai and lost her birth certificate. The school says no. (back: Right to Education. No child may be turned away for having no birth certificate.); Nandini, aged 9, is kept at home to look after her baby brother. (back: Right to Education. Every child aged 6 to 14 has a right to go to school.); The street light outside Meenal's building has been broken for six months. (back: Right to Information. Ask the city office, in writing, when it will be fixed and why it has not been.); Villagers in Odisha want to know how much the new school toilet cost, and who built it. (back: Right to Information. Write to the Public Information Officer of the office that paid for it.); Selvi wrote an RTI letter 40 days ago. She has had no answer. (back: Right to Information. The answer was due in 30 days. She can complain to a senior officer. This is called an appeal.); An officer asks Anbu's mother why she wants the information. (back: Right to Information. Nobody has to give a reason for asking.); Kamakshi, in a village, has had no work since the harvest ended. (back: Rural job guarantee. Ask the Gram Panchayat for work, in writing, and keep the receipt.); Ramu asked for work 20 days ago and was given none. (back: Rural job guarantee. If no work comes within 15 days, he must be paid an allowance.); At the pond, the women are paid less than the men for the same work. (back: Rural job guarantee. Women and men must get the same wage.); At the social audit, the register says the pond was dug 3 metres deep. The villagers can see it is only 1 metre deep. (back: Social audit. Say so at the meeting. The record must be corrected.); A name on the muster roll belongs to a man who lives in Hyderabad. (back: Social audit. Say so at the meeting. The money must be paid back.); Nisha's class gets free books and a free lunch. A friend asks: who pays for the rice and for the cook? (back: Tax. The books and the lunch are paid for with public money, which comes mostly from tax that families pay.); Aditi's shoes say Made in Vietnam. She asks why. (back: Globalisation. Countries trade, so things made far away are sold here.); A toy maker in Channapatna sells fewer wooden toys since cheap plastic toys arrived. (back: Globalisation. Trade brings cheaper goods, but some local makers lose work.)
 - **Printable score sheet: Helpline score sheet:** Caller; Problem; Which law or idea?; What to do; Points (1 for the law, 1 for what to do)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Shuffle them. 3. Put them face down in a pile.  
@@ -226,7 +226,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   *Parent says:* Ring ring! Hello, is this the rights helpline? Here is my problem.  
   *Child mode:* Listen to the caller. Which law helps? What should they do? Then check the back.
   - Note: Read the cards in a worried caller's voice. It helps your child picture a real person. If your child names the law but not what to do, ask: 'Who should I write to? What should I say?'
-  - Check: Ramu lives in a village. He asked the Gram Panchayat for work 20 days ago and got none. Which law helps him? → **The rural job guarantee**
+  - Check: A man in a village asked the Gram Panchayat for work 20 days ago and got none. Which law helps him? → **The rural job guarantee**
 - **s3 (5 min)**  
   *Parent does:* Ask your child which call was hardest, and which law they think helps the most people.  
   *Parent says:* Which call was the hardest to answer? Which of these laws do you think helps the most people, and why?  
@@ -244,15 +244,17 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   *Parent does:* 1. Count the coins in the pot. 2. Lay out the spending cards. 3. Agree together what to pay for.  
   *Parent says:* Now the pot belongs to all of us. It can't pay for everything. What should we spend it on, and why?  
   *Child mode:* Count the pot. It can't pay for everything. Choose together. Say why.
-  - Note: The pot will hold 13 coins, so the players must choose. The six spending cards cost 30 coins in all. This is the hard part of real government too. Let the argument run. Any choice with a reason is good.
+  - Note: The pot will hold 13 coins, but the six spending cards cost 30 coins in all, so the players must choose. Real governments have to choose like this too. Let the players argue. Any choice with a reason is good.
 - **s3 (3 min)**  
-  *Parent does:* Ask the last question together.  
+  *Parent does:* Ask who paid into the pot, who may use the road, and whether that is fair.  
   *Parent says:* Did everyone put the same amount in? Does everyone get to use the road? Is that fair?  
   *Child mode:* Did everyone pay the same? Can everyone use the road? Is that fair?
+  - Note: The road, the school lunch and the street lights are for everyone, whatever each person paid in. That is why they are paid for with public money. Good answers give a reason.
   - Think: Some of you paid more into the pot than others. Should that change who may use the road?
 
 ## Experiments
 ### e1 · The Bill Detective: how much of what we pay is tax? (30 min)
+- **problem:** GST is a tax, which is money paid to the government. It is added to the price of most things we buy, and it is printed on the bill, often as two lines called CGST and SGST. Here you find the tax on your own family's bills and work out how many rupees of every 100 go to the government.
 - **question:** Does every bill have tax on it? For every 100 rupees of price, how many rupees go to the government?
 - **predict:** Guess first. Will every bill have tax on it, or only some? For every 100 rupees of price, how many rupees do you think are tax: 1, 5, 20 or 50? Why do you think so?
 - **fair test:** Look at every bill in the same way: find the total, find each tax line, and find the rate printed beside it. Use at least 5 bills from different kinds of shop, because one bill could be unusual.
@@ -266,7 +268,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   - Note: Children often guess there is no tax at all, or that tax is half the price. Both are fine. Do not tell them the answer yet. Before you start, cover any card or phone numbers on the bills with a strip of paper.
 - **s2 (8 min)**  
   *Parent does:* 1. Take one bill. 2. Find the total and write it in the table. 3. Find the lines called CGST and SGST, or IGST, or GST. 4. Highlight them and add them up. 5. Do the same for every bill.  
-  *Parent says:* Tax on a bill usually hides near the bottom. Look for the letters GST. If there are two lines, CGST and SGST, add them together.  
+  *Parent says:* The tax on a bill is usually printed near the bottom. Look for the letters GST. If there are two lines, CGST and SGST, add them together.  
   *Child mode:* Find the total on each bill. Then hunt for GST near the bottom. Add CGST and SGST together. Write the tax.
   - Note: CGST goes to the central government and SGST to the state. They are usually equal. Some supermarket bills show a small tax table at the bottom, sorted by rate. Add up the tax column. A handwritten slip usually has no GST at all. That is a real result, so write 0.
 - **s3 (8 min)**  
@@ -283,11 +285,12 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   - Ask: Which bills had the most tax? (good: Things like plastic goods, electronics or paint often carry 18%.; Food and medicines mostly carry 5%.)
   - Note: Most food and medicine bills show 5% in all. Many other goods show 18%. Loose fresh vegetables, fruit and loose grain carry none. Very small shops do not have to collect GST.
 - **s5 (4 min)**  
-  *Parent does:* 1. Ask your child to say the claim, the evidence and the reason. 2. Then ask where the tax goes.  
+  *Parent does:* 1. Ask your child to say what they found, which bills showed it, and why they think so. 2. Then ask where the tax goes.  
   *Parent says:* So what did you find? Say what you think, what you saw on the bills, and why. Then tell me: where does all this tax money go?  
   *Child mode:* Say what you found. Say which bills showed it. Where does the tax money go?
   - Ask: Who paid tax this week in our family? (good: We all did, when we bought things.; Anyone who went shopping.)
   - Ask: Where does the tax money go? (good: To the government.; It pays for roads, schools, hospitals and street lights.)
+  - Note: Both. The government built the road, but the money came from tax that people pay, and that includes our family's tax.
   - Think: Who paid for the road outside: only the government, or also our family?
 ### e2 · Made Where? A home survey of 20 things (25 min)
 - **question:** Out of 20 things in our home, how many were made in India, and how many in other countries?
@@ -317,10 +320,10 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   - Check: A phone box says 'Made in India', but its parts came from five countries. What does the label tell you? → **Where the phone was put together at the end**
 - **s5 (3 min)**  
   *Parent does:* Ask your child what they found, and what surprised them.  
-  *Parent says:* What did you find? Which kind of thing came from furthest away? Why do you think trade lets a toy from far away cost less than one made nearby?  
+  *Parent says:* What did you find? Which kind of thing came from furthest away? Why do you think a toy from far away can cost less than one made nearby?  
   *Child mode:* What did you find? What came from furthest away? What surprised you?
   - Ask: Which kinds of things were mostly made in India? (good: Food.; Clothes.; Things that are heavy or go bad quickly.)
-  - Note: Most families find food and clothes are Indian, while electronics and toys are a mix. Many phones sold in India are now put together in India. Any result is real.
+  - Note: Most families find food and clothes are Indian, while electronics and toys are a mix. Many phones sold in India are now put together in India. Any result is real. A toy made in a big factory in huge numbers can cost less to make, and ships carry it cheaply, so it can cost less even from far away.
 
 ## Activities
 ### a1 · The Window Walk: what did public money give us today? (8 min)
@@ -338,28 +341,31 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   - Ask: Who paid for the road? (good: The government.; The corporation.; All of us, with tax money.)
   - Note: Most children say 'the government'. That is right, and it's enough for now. The Bill Detective experiment will show where the government's money comes from.
 - **s3 (2 min)**  
-  *Parent does:* Leave your child with a question.  
+  *Parent does:* Ask your child where the government gets its money, and leave the question unanswered for now.  
   *Parent says:* The government paid. But where did the government get the money? Keep that question. We'll find out from our own bills.  
   *Child mode:* The government paid. But where did it get the money? Keep that question!
+  - Note: The government gets most of its money from tax. The Bill Detective experiment will show this on your own family's bills.
   - Think: Where does the government get its money from?
 ### a2 · Is the School Allowed to Do This? (10 min)
+- **problem:** The Right to Education Act says what every school must do, and what it may not do, for children aged 6 to 14. Here you hear eight things a school might do. For each one you decide whether the law allows it.
 - **record:** Write how many you got right, and the one that surprised you most.
 - **s1 (2 min)**  
-  *Parent does:* 1. Put the two papers on the floor, a few steps apart. 2. Explain the game.  
+  *Parent does:* 1. Put the two papers, ALLOWED and NOT ALLOWED, on the floor, a few steps apart. 2. Explain the game.  
   *Parent says:* I will read what a school does. If the law allows it, jump to ALLOWED. If not, jump to NOT ALLOWED.  
-  *Child mode:* Listen to what the school does. Allowed? Jump there. Not allowed? Jump to the other paper.
+  *Child mode:* Listen to what the school does. If the law allows it, jump to ALLOWED. If not, jump to NOT ALLOWED.
 - **s2 (6 min)**  
   *Parent does:* Read each situation. Your child jumps, then you give the rule. 1. A school tests a 6-year-old before giving her a seat. 2. A government school gives free textbooks. 3. A school asks for a donation for a seat. 4. A school turns away a child with no birth certificate. 5. A private school keeps a quarter of its Class 1 seats for children from poor families. 6. A teacher hits a child for being late. 7. A government school serves a free lunch. 8. A child with a disability is given a seat in the nearby school.  
   *Parent says:* Ready? Here is the first one. Allowed, or not allowed?  
   *Child mode:* Listen. Jump to allowed or not allowed. Then hear the rule.
   - Note: Answers: 1 not allowed. 2 allowed. 3 not allowed. 4 not allowed. 5 allowed, and the law requires it. 6 not allowed: the Act bans hitting and frightening children. 7 allowed. 8 allowed: children with disabilities have the same right to a school place.
-  - Check: A private school keeps some of its Class 1 seats for children from poor families. Is that allowed? → **Yes, and the law requires it: a quarter of the first-class seats**
+  - Check: A private school keeps some of its Class 1 seats for children from poor families. Is that allowed? → **Yes, and the law requires it: a quarter of the seats in its first class**
 - **s3 (2 min)**  
   *Parent does:* Ask which rule surprised your child most.  
   *Parent says:* Which rule surprised you most? Why do you think the law needed to say it?  
   *Child mode:* Which rule surprised you? Why do you think the law says it?
   - Ask: Why do you think the law bans tests for small children? (good: So children aren't turned away for not knowing things yet.; School is where they learn, so they shouldn't need to know it first.)
 ### a3 · The Muster Roll Check: be a social auditor (15 min)
+- **problem:** A muster roll is the attendance list at a work site, showing who worked on which days. A social audit checks it by comparing it with the workers' job cards and with what the villagers say. Here you check a pretend muster roll in the same way and find the mistakes.
 - **record:** Write a short audit report: what is wrong, and what should happen next.
 - **s1 (3 min)**  
   *Parent does:* 1. Copy this muster roll onto paper. Pond work, 5 days, Monday to Friday. Pushpa: 5 days. Gowri: 3 days. Kamala: 5 days. Suresh: 5 days. Saroja: 4 days. Muthu: 5 days. 2. Hand it to your child and ask if anything looks wrong.  
@@ -375,13 +381,14 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   *Parent does:* 1. Mark each problem in red. 2. Write a short audit report together.  
   *Parent says:* Mark each mistake in red. Then let's write the audit report. What is wrong, and what should happen now?  
   *Child mode:* Mark each mistake in red. Write what is wrong. Write what should happen.
-  - Check: How did you find that Suresh might be a fake worker? → **He had no job card, and nobody in the village knew him**
+  - Check: In the Muster Roll Check, how did you find that Suresh might be a fake worker? → **He had no job card, and nobody in the village knew him**
 - **s4 (2 min)**  
-  *Parent does:* Ask the last question.  
+  *Parent does:* Ask who gets the money paid for a fake worker, and why reading the register aloud helps.  
   *Parent says:* Who gets the money paid for a worker who doesn't exist? Why does reading the register aloud in the village help?  
   *Child mode:* Who gets the money for a fake worker? Why does reading the list aloud help?
   - Ask: Why does reading the register aloud help? (good: The workers know their own days.; The villagers know who really worked.; It's harder to cheat when everyone can check.)
 ### a4 · Write a Practice RTI Letter (15 min)
+- **problem:** Under the Right to Information Act, any citizen may ask a government office for information, and the office must answer within 30 days. The letter goes to the office's Public Information Officer. Here you write a practice letter that asks a real question about public money near your home.
 - **record:** Keep the letter. If you send it, mark 30 days on a calendar.
 - **s1 (4 min)**  
   *Parent does:* 1. Think of one real question about your area together. 2. Write it down in plain words.  
@@ -401,14 +408,14 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 ### a5 · Ask an Elder: what did school cost you? (15 min)
 - **record:** Write their answers, and one thing that is different for you now.
 - **s1 (3 min)**  
-  *Parent does:* Write five questions together. 1. How far was your school? 2. Did you pay fees? 3. Was there lunch at school? 4. Did all the children you knew go to school? 5. Did girls and boys go the same number of years?  
+  *Parent does:* Write five questions together. 1. How far was your school? 2. Did you pay fees? 3. Was there lunch at school? 4. Did all the children you knew go to school? 5. Did girls and boys go to school for the same number of years?  
   *Parent says:* Let's ask a grandparent, an older relative or a neighbour what school was like when they were your age. Let's write the questions first.  
   *Child mode:* Write five questions for an elder. How far was school? Did you pay? Was there lunch?
 - **s2 (9 min)**  
   *Parent does:* 1. Call or visit the elder. 2. Your child asks the questions. 3. Write short answers.  
   *Parent says:* Ask your questions slowly, and listen carefully. You can ask 'Why?' after any answer.  
   *Child mode:* Ask each question. Listen. Write a few words for each answer. Ask why!
-  - Note: Many grandparents, especially grandmothers, will say they left school early or never went. Let that sink in, without making the elder feel judged. Thank them at the end.
+  - Note: Many grandparents, especially grandmothers, will say they left school early or never went. Give your child time to take that in, and take care that the elder does not feel judged. Thank them at the end.
 - **s3 (3 min)**  
   *Parent does:* Compare their answers with your child's school today.  
   *Parent says:* What is different for you now? Which law do you think made the biggest difference?  
@@ -433,7 +440,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   *Parent does:* 1. On day 7, add up the tax column. 2. Round to the nearest 10 rupees. 3. Talk about how many families live in your building, and how much they might pay together.  
   *Parent says:* Let's add up our week. If every family in our building paid about the same, how much would that be?  
   *Child mode:* Add up the tax for the week. How much did our family pay? Now think about every family in the building.
-  - Ask: If 40 families each paid about the same, how much would that be? (good: 40 times our total.; A lot more than one family's.)
+  - Ask: If 40 families each paid about the same tax as our family, how much would that be in all? (good: 40 times our total.; A lot more than one family's.)
   - Note: Most city families find a few hundred rupees of GST in a week. Multiplying by the families in a building shows how small amounts add up. Use rounded numbers to keep the sum easy.
 
 ## Challenges
@@ -441,12 +448,12 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **problem:** A village is building a new pond. The law says the work's details must be shown in public. But some villagers cannot read, and others read only Odia. Design a notice board that tells everyone what is being built, what it costs, who is working, and how to complain.
 - **your turn:** Now design your own board. Show it to someone in the family who has not seen it, and ask them to tell you what it says without reading any words.
 - **constraints:** It must make sense to someone who cannot read.; It must fit on one sheet of chart paper or the back of a calendar.; It must show at least the cost, the start and end dates, and who to complain to.
-- **general:** Paint the work's details on a wall at the site, which many government works do.; Show the cost in rupee notes drawn in rows, so the size of the number can be seen.; Read the board aloud at a village meeting every week.
-- **creative:** Use pictures for each worker, such as a drawing of their face, with a tick for each day worked.; Draw a phone with the complaint number in large digits, since many people who cannot read can read numbers.; Make a calendar of the work with a picture for each week: digging, lining, filling with water.
+- **general:** Paint the work's details on a wall at the site. Many government work sites do this.; Show the cost in rupee notes drawn in rows, so the size of the number can be seen.; Read the board aloud at a village meeting every week.
+- **creative:** Use a picture for each worker, such as a drawing of their face, with a tick for each day worked.; Draw a phone with the complaint number in large digits, since many people who cannot read can read numbers.; Make a calendar of the work with a picture for each week: digging, lining, filling with water.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together, and ask what a person who cannot read needs.  
-  *Parent says:* Imagine a grandmother in the village who cannot read walks past the pond. How could a board tell her what is going on?  
-  *Child mode:* Imagine someone who can't read. How could a board tell them about the pond?
+  *Parent says:* Think of a grandmother in the village who cannot read. She walks past the pond. How could a board tell her what is going on?  
+  *Child mode:* Think of someone who can't read. How could a board tell them about the pond?
 - **s2 (5 min)**  
   *Parent does:* Draw three quick ideas before choosing one.  
   *Parent says:* Designers try many ideas first. Draw three quick ideas, in a few lines each.  
@@ -468,8 +475,8 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **creative:** Take one group photo of all the workers each day, with the date written on a slate in the photo.; Pay wages straight into each worker's own bank account, so money can't go to a made-up name.; Pin a copy of the register at the tea shop, where everyone sees it.
 - **s1 (5 min)**  
   *Parent does:* Remind your child how the cheating worked in the Muster Roll Check.  
-  *Parent says:* Remember the pretend register with a worker called Suresh, whom nobody knew? How did the cheat get in?  
-  *Child mode:* Remember the fake worker Suresh? How did the cheat get into the register?
+  *Parent says:* In the Muster Roll Check, the pretend register had a worker called Suresh, whom nobody in the village knew. How did that false name get into the register?  
+  *Child mode:* In the Muster Roll Check, nobody knew the worker called Suresh. How did his name get into the register?
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Draw a new kind of register. 2. Try it for a family job, such as who watered the plants today.  
   *Parent says:* Design a register that would catch a fake name. Then let's try it at home.  
@@ -482,32 +489,32 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 
 ## Worksheets
 ### Tax, Rights and Our Street (core) (core, 16 questions)
-1. (mcq) Jaya, a girl in Class 3 in Guwahati, sees 'GST' on her family's supermarket bill. What is GST?  
+1. (mcq) A family's supermarket bill has a line called 'GST'. What is GST?  
    Options: A discount the shop gives / Tax that goes to the government / A tip for the cashier / The shop's profit  
    **Answer:** Tax that goes to the government. *Why:* GST is the Goods and Services Tax, added to the price of most things we buy. The shop passes it on to the government. A strong answer knows it is tax, not a shop charge or a discount.
-2. (truefalse) Arjun, a boy in Class 3 in Vijayawada, says, 'Only rich people pay tax.' Is Arjun right?  
+2. (truefalse) Only rich people pay tax.  
    **Answer:** False. *Why:* False. GST is in the price of most things anyone buys, so a family buying soap and oil pays tax too. Rich people also pay income tax, but almost everyone pays GST.
 3. (fill) A restaurant bill shows CGST 2.5% and SGST 2.5%. So every 100 rupees of price has ____ rupees of tax added.  
    **Answer:** ['5', 'five']. *Why:* Add the two rates: 2.5 and 2.5 make 5. So 5 rupees of tax are added to every 100 rupees of price.
-4. (sort) Ishani, a girl in Kolkata, looks around her street. Sort each thing: paid for with public money, or owned by one family?  
+4. (sort) Sort each thing: paid for with public money, or owned by one family?  
    **Answer:** the road → Paid for with public money; a street light → Paid for with public money; our sofa → Owned by one family; the drain → Paid for with public money; my bicycle → Owned by one family; the government school → Paid for with public money; our fridge → Owned by one family; the bus stop → Paid for with public money. *Why:* The road, street light, drain, bus stop and government school are shared, and paid for with public money. The sofa, the fridge and a bicycle belong to one family. A strong answer asks: 'Can everyone use it?'
 5. (match) Match each law or word to what it means.  
    **Answer:** Right to Education Act → free school for every child aged 6 to 14; Right to Information Act → any citizen may ask a government office for information; Rural job guarantee → paid work for village families who ask for it; GST → tax added to the price of things we buy. *Why:* These four come up all through the unit. A strong answer can give an example of each.
-6. (mcq) Rani, aged 11, is told by her family to stop going to school and work at home instead. Which law says she has a right to go?  
+6. (mcq) A girl aged 11 is told by her family to stop going to school and work at home instead. Which law says she has a right to go to school?  
    Options: The Right to Education Act / The Right to Information Act / The rural job guarantee / GST  
    **Answer:** The Right to Education Act. *Why:* The Right to Education Act gives every child aged 6 to 14 the right to free school. The other laws are about information and work.
-7. (write) A government school gives Nisha her textbooks free. Her mother says, 'Nothing is really free.' What does she mean?  
-   **Answer:** A strong answer: the books were paid for with public money, which comes mostly from tax that families like Nisha's pay when they shop.. *Why:* This is the heart of the unit. The school does not charge, but the money came from everyone, through tax.
+7. (write) A government school gives a child her textbooks free. Her mother says, 'Nothing is really free.' What does her mother mean?  
+   **Answer:** A strong answer: the books were paid for with public money, which comes mostly from tax that families like hers pay when they shop.. *Why:* This is the heart of the unit. The school does not charge, but the money came from everyone, through tax.
 8. (truefalse) To ask a question under the Right to Information Act, you must explain why you want to know.  
    **Answer:** False. *Why:* False. The law says nobody has to give a reason. The information belongs to the public.
-9. (mcq) Selvi, a woman in Madurai, writes an RTI letter to the city office about a broken street light. How long does the office have to reply?  
+9. (mcq) Someone writes an RTI letter to the city office about a broken street light. How long does the office have to reply?  
    Options: 7 days / 1 year / 30 days / As long as it likes  
    **Answer:** 30 days. *Why:* The office must reply within 30 days. If the question is about someone's life or freedom, it must reply within 48 hours.
 10. (draw) Draw three things on or near your street that were paid for with public money. Label each one.  
    **Answer:** Any three shared things, such as a road, a street light and a bus stop, each labelled.. *Why:* A strong drawing shows things everyone can use, not things one family owns.
 11. (fill) A small book that records the days a village worker really worked is called a ____ card.  
    **Answer:** ['job']. *Why:* A job card is the worker's own record. It can be compared with the register at a social audit.
-12. (perspective) Divya and her brother Kiran, in Mysuru, play The Shared Pot game. The pot can pay for only one more thing.  
+12. (perspective) Two children in Mysuru, a girl and her younger brother, play The Shared Pot game. The pot can pay for only one more thing.  
    **Answer:** A strong answer picks one, gives a reason based on who it helps and how many people, and then fairly states the other side's best point.. *Why:* There is no single right answer. Real governments make this choice every year. Good reasoning thinks about who needs it most and how many people it helps.
 13. (fill) Under the Right to Education Act, school is free for every child aged 6 to ____.  
    **Answer:** ['14', 'fourteen']. *Why:* Free and compulsory school is for ages 6 to 14, which is usually Class 1 to Class 8.
@@ -519,7 +526,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
    Options: The road / The street light / The government hospital / Our family's car  
    **Answer:** our family's car. *Why:* The car belongs to one family. The others are shared and paid for with public money.
 ### Records, Rights and Trade (stretch) (stretch, 16 questions)
-1. (mcq) Imran, a boy in Class 4 in Lucknow, reads 'Assembled in India' on his family's new phone box. What does that tell him?  
+1. (mcq) A new phone box says 'Assembled in India'. What does that tell you?  
    Options: Every part was made in India / The phone was designed in India / The parts were joined together in India / The phone will only work in India  
    **Answer:** The parts were joined together in India. *Why:* Assembled means put together. The parts may have been made in other countries, then joined in a factory in India.
 2. (write) Choose two things from your Made Where survey. Where was each one made? Why do you think it came from there?  
@@ -535,8 +542,8 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
    **Answer:** A strong answer: the workers and villagers know the truth about who worked and what was built, so they can catch false entries that look fine on paper.. *Why:* Records can look correct and still be false. Only the people they are about can check them.
 7. (match) Match each person to what they did.  
    **Answer:** Savitribai Phule → opened a school for girls in Pune in 1848; Aruna Roy → helped lead public hearings in Rajasthan where work records were read aloud; K. Kamaraj → spread free school lunches across Madras State in the 1950s; Jean Drèze → helped write the rural job guarantee law. *Why:* Each of these people helped make a right real for ordinary families.
-8. (fill) The rural job guarantee's first work began in 2006 in Bandlapalli village, in ____ district of Andhra Pradesh.  
-   **Answer:** ['Anantapur', 'Anantapuramu']. *Why:* Prime Minister Manmohan Singh launched it there on 2 February 2006.
+8. (fill) In the dry months there is little farm work in a village. The rural job guarantee gives people paid work, like digging ponds, so families still have ____ to buy food.  
+   **Answer:** ['money', 'wages', 'income', 'pay']. *Why:* The job guarantee promises work close to home when farms have none. The wages keep families fed until farm work comes back.
 9. (mcq) A wooden toy is made in Channapatna, near Bengaluru. A plastic toy is made in a giant factory far away. Why might the far-away toy cost less?  
    Options: The factory makes huge numbers, and ships carry them cheaply / Far-away things never have tax / Plastic is free / Wood is a rare material  
    **Answer:** The factory makes huge numbers, and ships carry them cheaply. *Why:* Giant factories make huge numbers of the same thing, so each one costs little to make. Big ships carry them cheaply. A strong answer sees that distance is not the only thing that sets a price.
@@ -544,13 +551,13 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
    **Answer:** True. *Why:* True. The VB-G RAM G Act replaced MGNREGA from that date. MGNREGA had promised up to 100 days.
 11. (perspective) A shop in Kanchipuram sells handloom silk saris and cheap machine-made saris.  
    **Answer:** A strong answer picks a view, uses a fact from the unit, and gives the other side's best point fairly.. *Why:* Both are real views. Trade has made cloth cheaper, and it has also cost many handloom weavers their work.
-12. (draw) In the story The Name on the List, Ratnamma is a grandmother who digs a farm pond. Draw her job card. Show that she worked 15 days in April, and the wages she was paid.  
+12. (draw) A job card is a worker's own record under the rural job guarantee. Draw a job card for a grandmother who dug a farm pond and worked 15 days in April. Show the days she worked and the wages she was paid.  
    **Answer:** A drawing of a small booklet with her name, a table of dates or days, and a wage column.. *Why:* A job card is the worker's own record. A strong drawing shows the days worked, so it can be compared with the register.
 13. (order) Put the steps of a social audit in order.  
    **Answer:** ['The audit team copies the work records', 'The whole village meets', 'The records are read aloud, name by name', 'Workers say whether each entry is true', 'Mistakes are written down and sent to the officers']. *Why:* First the records are collected, then read to the people they are about, then corrected.
-14. (mcq) Tomatoes, potatoes and chillies are now part of many Indian meals. Where did they first come from?  
-   Options: China / The Americas / Australia / Africa  
-   **Answer:** The Americas. *Why:* They came from the Americas about 500 years ago. Trade across oceans has been changing what we eat for a long time.
+14. (mcq) Tomatoes, potatoes and chillies first grew far away, across the ocean. Now they are part of many Indian meals. What brought them here?  
+   Options: People trading across oceans carried seeds and food / The wind blew the seeds here / They grew here by themselves all along / Birds carried them  
+   **Answer:** People trading across oceans carried seeds and food. *Why:* Traders and sailors carried seeds across oceans, about 500 years ago. Farmers here planted them. Trade has been changing what we eat for a long time.
 15. (label) Draw a simple shop bill. Label these parts: the total, CGST, SGST and the tax rate.  
    **Answer:** A drawn bill with the four parts labelled.. *Why:* Knowing where these are lets anyone find the tax on their own bills.
 16. (write) Government schools give a free cooked lunch. Why might a free lunch bring more children to school?  
@@ -559,8 +566,8 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 1. (write) A rich family and a poor family both buy the same soap and pay the same tax on it. Is that fair? Explain your thinking.  
    **Answer:** A strong answer sees both sides: the tax is the same in rupees, but it is a much bigger part of a poor family's money. That is one reason richer people also pay income tax.. *Why:* GST is the same rate for everyone, so poorer families spend a bigger share of their money on it. People argue about this.
 2. (perspective) Two people argue about the Right to Information Act.  
-   **Answer:** A strong answer chooses a side, gives a reason, and answers back from the other view fairly.. *Why:* Both points are real. Answering takes time, and openness also catches waste.
-3. (mcq) Parvathi, a woman who works on a village pond, was paid for 12 days but worked 15. Which record would help her most at the social audit?  
+   **Answer:** A strong answer chooses a side, gives a reason, and says fairly how the other person might answer.. *Why:* Both points are real. Answering takes time, and openness also catches waste.
+3. (mcq) A woman who works on a village pond was paid for 12 days but worked 15. Which record would help her most at the social audit?  
    Options: A photo of the pond / Her job card / The officer's diary / Her bus ticket  
    **Answer:** Her job card. *Why:* Her own job card shows the days she really worked. Comparing it with the register shows the mistake.
 4. (write) A village school has a building but no teacher. Does the right to education still help the children there? What would you do?  
@@ -570,7 +577,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
    **Answer:** 54 rupees. *Why:* 18 rupees for each 100. 300 is three hundreds, so 18 + 18 + 18 = 54 rupees.
 6. (truefalse) A 'Made in' label tells you where every part of the thing was made.  
    **Answer:** False. *Why:* False. It names where the thing was finished. A phone or a shirt can have parts or cloth from many countries.
-7. (write) Arjun, the boy in Class 3 from Vijayawada, says something else. Find the mistake in his thinking: 'The government pays for the road with its own money, not ours.'  
+7. (write) Find the mistake in this thinking: 'The government pays for the road with its own money, not ours.'  
    **Answer:** A strong answer: the government's money comes mostly from tax that people pay, so the road was paid for with our money.. *Why:* The government holds public money for everyone. It does not make its own money from nothing.
 8. (mcq) Which of these would be the best evidence that the job guarantee helped poor families?  
    Options: A minister's speech saying it worked / One happy family on TV / The number of posters printed / A study comparing how many meals families ate in villages with and without the work  
@@ -581,11 +588,11 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
    **Answer:** phones and clothes cost less → Good side; some weavers lose their work → Worry; new factory jobs in India → Good side; ships and planes burn a lot of fuel → Worry; foods from many countries to try → Good side; small local shops close → Worry. *Why:* Real trade has both. A strong answer can explain why each one belongs where it is.
 11. (write) Gandhi asked Indians to buy swadeshi, things made close to home. A wooden Channapatna toy costs 300 rupees and a plastic toy from far away costs 100. What would Gandhi say? What would you choose, and why?  
    **Answer:** A strong answer says Gandhi would choose the local toy to support local makers, and then gives the child's own reasoned choice, with one fact about price, makers or fuel.. *Why:* There is no single right answer. The question is about weighing money against the maker's work and the cost of carrying things far.
-12. (mcq) Muniyamma, a woman in a village in Tamil Nadu, asks the Gram Panchayat for work and gets a dated receipt. Why does the receipt matter?  
+12. (mcq) A woman in a village asks the Gram Panchayat for work and gets a dated receipt. Why does the receipt matter?  
    Options: It proves when she asked, so she can claim the allowance if no work comes / It is her wage / It lets her skip the queue / It is a ticket to the city  
-   **Answer:** It proves when she asked, so she can claim the allowance if no work comes. *Why:* If no work comes within 15 days, the receipt proves when she asked, so Muniyamma can claim the allowance.
+   **Answer:** It proves when she asked, so she can claim the allowance if no work comes. *Why:* If no work comes within 15 days, the receipt proves when she asked, so she can claim the allowance.
 13. (order) Put these in order, from earliest to latest.  
-   **Answer:** ["India's Constitution comes into force", 'Free school lunches spread across Madras State', 'The Right to Information Act comes into force', "The rural job guarantee's first work begins", 'The Right to Education Act comes into force', 'A new rural job law promises 125 days']. *Why:* 1950, the 1950s, 2005, 2006, 2010, 2026.
+   **Answer:** ["India's Constitution comes into force", 'Free school lunches spread across Madras State', 'The Right to Information Act comes into force', "The rural job guarantee's first work begins", 'The Right to Education Act comes into force', 'A new rural job law promises 125 days']. *Why:* The Constitution came into force in 1950. Free school lunches spread across Madras State in the 1950s. The Right to Information Act came into force in 2005, and the first job guarantee work began in 2006. The Right to Education Act came into force in 2010. The new rural job law is from 2026.
 14. (write) Should children be allowed to write RTI letters themselves? Give one reason for and one against.  
    **Answer:** A strong answer gives a reason on each side, for example: for, children use schools and parks and have real questions. Against, they may need help to write clearly.. *Why:* This is an open question. Good answers think about who uses public services and what help a child might need.
 15. (mcq) Which of these could an office refuse to answer under the Right to Information Act?  
@@ -598,9 +605,9 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **Explained: How GST Works? | Goods and Services Tax India** (The Indian Express, 5 min) id `JK8CzkQh1FY`: For the parent and older children: how GST is added at each step from factory to shop. Watch after the Bill Detective. *Check:* Made around 2017, so the rates it gives are out of date: since 22 September 2025 most goods carry 5% or 18%. Watch it first yourself.
 
 ## Quiz
-1. (mcq) Tara, a girl in Hyderabad, buys a packet of biscuits. Does she pay any tax?  
-   Options: No, children never pay tax / Yes, a little GST is in the price / Only if she has a job / Only if the shop is big  
-   **Answer:** Yes, a little GST is in the price. *Why:* Yes. GST is added to the price of packaged food, so she pays a little tax inside the price, even though she never hands money to the government.
+1. (mcq) You buy a packet of biscuits. Do you pay any tax?  
+   Options: No, children never pay tax / Yes, a little GST is in the price / Only if you have a job / Only if the shop is big  
+   **Answer:** Yes, a little GST is in the price. *Why:* Yes. GST is added to the price of packaged food, so you pay a little tax inside the price, even though you never hand money to the government.
 2. (mcq) A family's bill shows CGST 9% and SGST 9%. How many rupees of tax are on every 100 rupees of price?  
    Options: 9 / 9 and a half / 18 / 99  
    **Answer:** 18. *Why:* The two are added: 9 + 9 = 18 rupees in every 100.
@@ -628,9 +635,9 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 10. (mcq) At a social audit, what happens?  
    Options: Workers are paid twice / The pond is filled with water / Officers check the sums in secret / Work records are read aloud, and workers say if they are true  
    **Answer:** Work records are read aloud, and workers say if they are true. *Why:* The work records are read aloud to the village, and the workers say whether they are true.
-11. (mcq) Mira, a girl in Pune, checks 20 things at home. Her phone box says 'Made in India', and her shirt says 'Made in Bangladesh'. What does this show?  
-   Options: Her home has things from more than one country / Bangladesh is in India / Shirts can't be made in India / The labels must be wrong  
-   **Answer:** Her home has things from more than one country. *Why:* Things in one home come from many countries. Countries trade, and this is part of globalisation.
+11. (mcq) You check 20 things at home. A phone box says 'Made in India', and a shirt says 'Made in Bangladesh'. What does this show?  
+   Options: The home has things from more than one country / Bangladesh is in India / Shirts can't be made in India / The labels must be wrong  
+   **Answer:** The home has things from more than one country. *Why:* Things in one home come from many countries. Countries trade, and this is part of globalisation.
 12. (mcq) Which is a real worry about trade with the whole world?  
    Options: Things get more expensive / Some local makers lose their work / Nobody can buy phones / Ships stop running  
    **Answer:** Some local makers lose their work. *Why:* Cheaper goods from far away can put some local makers, such as handloom weavers or toy makers, out of work.
@@ -640,7 +647,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 
 ## Applications
 - Checking the tax on any bill before paying.
-- Getting a free school seat for a child, or a quarter seat in a private school.
+- Getting a free school seat for a child, or one of the seats a private school must keep for children from poor families.
 - Asking the city office when a broken road, drain or street light will be fixed.
 - Village families asking for paid work in the dry months.
 - Social audits that catch false names in work registers.
@@ -659,7 +666,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - Women and men digging a pond or a canal on a village work site, with a shade shelter nearby.
 
 ## Open questions
-- **How much do social audits and open records really reduce cheating?** Many studies find they help, but they are hard to measure, because hidden cheating is hidden. Results differ from state to state.
+- **How much do social audits and open records really reduce cheating?** Many studies find they help. But cheating is hard to measure, because people hide it. Results differ from state to state.
 - **Will the new 2026 rural job law give poor families more work, or less?** It promises 125 days instead of 100, but states must now pay a bigger share and there is a fixed budget. It is too new to know.
 - **Who gains most from trade with the whole world, and who loses?** Economists agree trade made many goods cheaper. They still argue about its effects on small makers, jobs and the environment.
 - **What is the fairest way to collect tax?** GST charges everyone the same rate, so it takes a bigger share of a poor family's money. People disagree about how to balance this with income tax.
@@ -692,7 +699,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - In the Bill Detective, a packet of biscuits and some oil cost 400 rupees before tax. The tax was 5 rupees for every 100 rupees. How much tax was added, and what was the total? **20 rupees of tax. The total was 420 rupees.**. 400 is four hundreds. Each hundred has 5 rupees of tax, so 5 + 5 + 5 + 5 = 20 rupees. The total is 400 + 20 = 420 rupees. (queues `math.money.money-in-life.L3`)
 - Under the new rural job law, a village family can get up to 125 days of work a year. Suppose the wage is 300 rupees a day. How much could the family earn in a year? **37,500 rupees.**. Split 125 into 100 and 25. 100 days at 300 rupees is 30,000 rupees. 25 days at 300 rupees is 7,500 rupees. 30,000 + 7,500 = 37,500 rupees. Real wages are set for each state every year, so 300 is a practice number. (queues `math.multiplication.equal-groups.L3`)
 - In the Made Where survey, one family found 12 things made in India, 5 in China, 1 in Vietnam and 2 with no label. How many more things were made in India than in all other countries together? **6 more.**. Other countries: 5 + 1 = 6. India: 12. 12 - 6 = 6. So 6 more were made in India. The 2 with no label are not counted, because we don't know where they were made. (queues `math.data.bar-charts.L3`)
-- Selvi, a woman in Madurai, posts an RTI letter on 5 March. The office must reply within 30 days. By what date must the answer come? **4 April.**. March has 31 days. From 5 March to 31 March is 26 days. 4 more days reach 4 April. 26 + 4 = 30. (queues `math.time.calendar.L3`)
+- An RTI letter is posted on 5 March. The office must reply within 30 days. By what date must the answer come? **4 April.**. March has 31 days. From 5 March to 31 March is 26 days. 4 more days reach 4 April. 26 + 4 = 30. (queues `math.time.calendar.L3`)
 - In A Week of Bills, one family paid about 300 rupees of GST in a week. Their building has 40 families. If each paid about the same, how much tax would the building pay in a week? **About 12,000 rupees.**. 40 families times 300 rupees. 4 times 3 is 12, so 40 times 300 is 12,000. That is about 12,000 rupees in one week, from one building. (queues `math.multiplication.multiplication-facts.L3`)
 
 ## Song
@@ -730,6 +737,7 @@ One Flag, Many Voices (sci.india.L3): Topic-level song for India: our country L3
 - NIOS Open Basic Education, Environmental Studies Level A, Lesson 12 'Our Social and Economic Environment' pack (nios/sci-L3-12.json): the made-where survey, the tax detective, the practice RTI letter, the muster roll audit, the voices of Gandhi, Savitribai Phule, Aruna Roy and Jean Drèze. Its MGNREGA facts were brought up to date for the July 2026 law.
 - Nearby units read so nothing repeats: sci.community.community-and-helpers.L3 (shared pond rules game, helpers, public services map), sci.community.transport-and-communication.L3 (kitchen journey of food), sci.community.festivals.L3, sci.india.national-identity.L3 (symbols, money emblem hunt), sci.family.family.L3 (unpaid home work)
 - The Constitution of India, Article 21A (86th Amendment, 2002)
+- Constituent Assembly of India, 1946 to 1949, with 15 women members, among them Hansa Mehta (Fundamental Rights Sub-Committee) and Durgabai Deshmukh (one of the panel of chairs)
 - The Right of Children to Free and Compulsory Education Act, 2009 (in force 1 April 2010), sections 12, 13, 14 and 17
 - The Right to Information Act, 2005 (in force 12 October 2005), sections 6 and 7, and the RTI fee rules
 - The National Rural Employment Guarantee Act, 2005 (first work 2 February 2006, Bandlapalli, Anantapur; renamed 2009)
