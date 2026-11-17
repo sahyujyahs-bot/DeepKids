@@ -1,9 +1,9 @@
 # Animals without backbones: how they breathe with no lungs
 `sci.animals.invertebrates.L4`
 
-**Summary.** An ant has no lungs, an earthworm has no nose and a crab keeps her gills under her shell. Yet every one of them takes in oxygen all day long. In a jelly cube, colour creeps in only a few millimetres, and oxygen drifts through a body in that same slow way. So a thick body needs help: skin that stays thin and wet, gills that water is pushed over, air tubes that reach every part, or lungs. This unit follows the air into worms, ants, crabs, snails and spiders, and finds out why one slow drift shapes so many different bodies.
+**Summary.** An ant has no lungs, an earthworm has no nose and a crab keeps her gills under her shell. Yet every one of them takes in oxygen all day long. In the Colour Cubes experiment, food colour creeps only a few millimetres into a jelly cube. Oxygen drifts through a body in that same slow way. So a thick body needs help: skin that stays thin and wet, gills that water is pushed over, air tubes that reach every part, or lungs. This unit follows the air into worms, ants, crabs, snails and spiders, and shows why that slow drift has given them such different bodies.
 
-**Intro.** *Take a deep breath and feel your chest rise. Now think of an ant. An ant has no lungs and no chest. A crab has no nose. An earthworm has neither. All three breathe all day long. How?* Here is a clue. Your body is made of billions of tiny cells, and every cell needs oxygen all the time. In you, blood carries the oxygen round. But an ant's blood does not carry most of her oxygen, and a worm has no lungs at all. In this unit you will watch how slowly colour creeps into jelly. Then you will see why that one slow drift shapes a worm, an ant, a crab and a spider into such different animals.
+**Intro.** *Take a deep breath and feel your chest rise. Now think of an ant. An ant has no lungs and no chest. A crab has no nose. An earthworm has no lungs and no nose. All three breathe all day long. How?* Here is a clue. Your body is made of billions of tiny cells, and every cell needs oxygen all the time. In you, blood carries the oxygen round. But an ant's blood does not carry most of her oxygen, and a worm has no lungs at all. In this unit you will watch how slowly colour creeps into jelly. Oxygen drifts into a body just as slowly. Then you will see why that slow drift has given a worm, an ant, a crab and a spider such different bodies.
 
 ## Learning outcomes
 0. I can explain that colour and oxygen drift slowly, and that going twice as far takes about four times as long.
@@ -12,12 +12,12 @@
 3. I can explain why a thin worm can breathe through skin alone, but a thick animal needs gills, tubes or lungs.
 4. I can say why water holds much less oxygen than air, and why warm, still water can run short of it.
 5. I can say how open blood differs from closed blood, and that an insect's blood does not carry most of the oxygen.
-6. I can run a fair test, fill in a table, and say what I think, what I saw and why.
+6. I can run a fair test, fill in a table, and say what I thought would happen, what I saw, and why it happened.
 7. I can name two questions about these animals that scientists still argue about.
 
 ## Terms
 - **Oxygen**: A gas in air and water that almost every animal needs. Cells use it to get energy from food. *e.g.* Air is about one-fifth oxygen.
-- **Gas exchange**: Taking oxygen into a body and letting carbon dioxide out, across a thin, wet surface. *e.g.* An earthworm does gas exchange all over their skin.
+- **Gas exchange**: Taking oxygen into a body and letting carbon dioxide out, across a thin, wet surface. *e.g.* An earthworm does gas exchange all over her skin.
 - **Diffusion**: The slow spreading of tiny particles from where there are many to where there are few. Nothing pushes them. They simply wander. *e.g.* A drop of food colour in still jelly spreads out by diffusion.
 - **Surface area**: The size of all the outside of something, counting every face and fold. *e.g.* A feathery gill has far more surface area than a smooth lump of the same size.
 - **Dissolved oxygen**: Oxygen that is mixed into water as invisible particles, which gills can take in. *e.g.* A warm, still pond has less dissolved oxygen than a cool, moving stream.
@@ -33,21 +33,21 @@
 ### Oxygen drifts slowly, and the time grows faster than the distance · *defined*
 **Definition:** Diffusion is the spreading of particles by their own random movement. The time it takes to spread across a distance grows with the square of the distance: twice as far takes about four times as long.
 
-Every particle of colour or oxygen jiggles and bumps about at random. Some wander in, some wander out, and slowly the particles spread. Over a tiny distance this is quick. Over a long distance it is very slow, because each step forward can be undone by a step back. In your Colour Cubes, the colour crept in about the same few millimetres whether the cube was small or big. Oxygen moves through water and through flesh in this same way. In water, it drifts about ten thousand times more slowly than in air. So an animal whose middle is a long way from the outside cannot rely on drifting alone.
-- e.g. A drop of food colour in still jelly reaches about 2 millimetres in half an hour, but 2 centimetres is 10 times as far, so it would take about 100 times as long. That is days.
+Every particle of colour or oxygen jiggles and bumps about at random. Some wander in, some wander out, and slowly the particles spread. Over a tiny distance this is quick. Over a long distance it is very slow, because each step forward can be undone by a step back. In the Colour Cubes experiment, the colour crept in about the same few millimetres whether the cube was small or big. Oxygen moves through water and through flesh in this same way. In water, it drifts about ten thousand times more slowly than in air. So an animal whose middle is a long way from the outside cannot rely on drifting alone.
+- e.g. A drop of food colour in still jelly spreads about 2 millimetres in half an hour. 2 centimetres is 10 times as far, so it would take about 100 times as long. That is days.
 - e.g. Oxygen drifting in from an earthworm's skin reaches a cell 1 millimetre inside quickly, but a cell 1 centimetre inside much too slowly.
 - e.g. The smell of a cooking tadka reaches the next room quickly only because moving air carries it. In still air it would take far longer.
 ### Bigger bodies have less outside for the inside they hold · *defined*
 **Definition:** As a body gets bigger, its inside grows faster than its outside. A cube twice as wide has four times the outside and eight times the inside.
 
-Look at a cube 1 centimetre wide. It has 6 square centimetres of outside and 1 cubic centimetre of inside. Now make a cube 2 centimetres wide. The outside grows to 24 square centimetres, which is 4 times more. But the inside grows to 8 cubic centimetres, which is 8 times more. Each bit of inside has only half as much outside to reach. This is why a tiny animal can breathe through their skin, and a big one cannot. As a body grows, it must find new ways to bring the outside nearer: a thin shape, folds, tubes or a pump.
+Look at a cube 1 centimetre wide. It has 6 square centimetres of outside and 1 cubic centimetre of inside. Now make a cube 2 centimetres wide. The outside grows to 24 square centimetres, which is 4 times more. But the inside grows to 8 cubic centimetres, which is 8 times more. So each bit of the inside has only half as much outside to get its oxygen from. This is why a tiny animal can breathe through her skin, and a big one cannot. As a body gets bigger, it needs another way to bring the outside closer to every part. A body can stay thin. It can fold its surface into gills. It can grow air tubes. Or it can use a pump.
 - e.g. A flatworm is thin as a leaf, so every cell is close to the outside.
-- e.g. A crab is thick, so she folds her outside into gills.
+- e.g. A crab is thick, so skin alone could not feed her middle with oxygen. Instead she has gills, which are thin, feathery folds that give her a large surface to take oxygen in.
 - e.g. A baby elephant and a mouse breathe the same air, but only the elephant needs big lungs folded into her chest.
 ### Skin breathing: thin, wet and everywhere · *defined*
 **Definition:** Skin breathing is gas exchange through the whole outer surface. It works only for bodies that are thin or small, and only while the skin stays wet.
 
-Oxygen can only enter a body when it is dissolved in water. So an earthworm keeps a thin film of wet slime on her skin. Air dissolves into the slime, drifts through the thin skin, and meets her blood. Under the skin, tiny blood vessels run close to the surface. The oxygen is picked up by red haemoglobin dissolved in her blood, and carried round by five pairs of muscular tubes that work like hearts. A dry earthworm cannot breathe, which is why worms die on hot, dry pavements. Flatworms, jellyfish and many other thin animals breathe through their skin in the same way.
+Oxygen can only enter a body when it is dissolved in water. So an earthworm keeps a thin film of wet slime on her skin. Air dissolves into the slime, drifts through the thin skin, and meets her blood. Under the skin, tiny blood vessels run close to the surface. The oxygen is picked up by a red substance called haemoglobin, which is dissolved in her blood. Five pairs of muscular tubes that work like hearts carry the blood round. A dry earthworm cannot breathe, which is why worms die on hot, dry pavements. Flatworms, jellyfish and many other thin animals breathe through their skin in the same way.
 - e.g. An earthworm in damp soil breathes through her wet skin.
 - e.g. A flatworm in a pond takes oxygen in through the whole body, and has no separate lungs or gills.
 - e.g. A jellyfish is almost all water, with only thin layers of living cells, so oxygen reaches every cell.
@@ -62,7 +62,7 @@ Water holds about thirty times less oxygen than the same amount of air, and warm
 **Definition:** Insects breathe through spiracles, small holes along their sides, which lead into tracheae, air tubes that branch until they touch almost every cell.
 
 An insect does not breathe in at one place and send the oxygen round in blood. Instead, air goes in through the spiracles and along the tracheae. The tubes branch again and again, down to threads thinner than a hair. The finest ones end right against the cells that need the oxygen. Oxygen drifts about ten thousand times faster through air than through water. So drifting along a tube is fast enough for a small body. Larger insects also pump their bellies to push air along. Most insects can close their spiracles to save water. Because the air goes straight to the cells, an insect's blood does not need to carry most of the oxygen.
-- e.g. An ant has a row of tiny holes down each side of her body.
+- e.g. An ant has a row of tiny holes down each side of her body. These holes are her spiracles, and air goes in through them.
 - e.g. A caterpillar has a row of dark dots along her sides, which are her spiracles.
 - e.g. A diving beetle carries a bubble of air under her wing covers, and her air tubes open into it.
 ### Book lungs and lung sacs · *defined*
@@ -88,29 +88,29 @@ About 300 million years ago, dragonfly-like insects had wings up to about 70 cen
 - **The body idea:** Insects must shed their hard outer skin to grow. A very big insect would be very heavy while soft and weak. Tubes, weight and moulting may all limit size together.
 ### Why earthworms come up when it rains · *debated*
 After heavy rain, earthworms appear on roads and paths. Almost everyone has seen it. Nobody has settled why it happens.
-- e.g. Earthworms on a wet road after the first monsoon showers.
-- e.g. Worms crawling up the wall of a flowerpot after heavy watering.
+- e.g. After the first monsoon showers, earthworms appear on wet roads.
+- e.g. After heavy watering, worms crawl up the wall of a flowerpot.
 - **The air idea:** Water fills the soil and the air in the burrow runs short. The worms come up to breathe. A problem with this idea is that worms can live under well-aired water for days.
-- **The travel idea:** Wet ground is the one time worms can cross open ground without drying out. So rain is their chance to move to new soil.
+- **The travel idea:** Rain is the one time worms can cross open ground without drying out. So it is their chance to move to new soil.
 - **The drum idea:** The patter of rain may feel like a mole digging, and moles eat worms. Some worms are known to leave the soil when it shakes, so rain may feel like danger.
 ### Where the oxygen comes from, and where it goes · *defined*
 **Definition:** Oxygen in air and water is made mostly by plants, algae and tiny bacteria using sunlight. Animals use it inside their cells to release energy from food.
 
-Inside each cell are tiny parts called mitochondria. They use oxygen to release the energy stored in food, a little like a very slow, gentle burning. The waste gas is carbon dioxide. Every breath of every animal is part of this. The oxygen itself was made by plants and by tiny living beings in the sea. About 2.4 billion years ago, tiny bacteria in the sea began to make so much oxygen that the air changed. Animals came much later, and they have been using that gift ever since. Nothing the ant, the crab or the worm breathes was made by an animal.
+Inside each cell are tiny parts called mitochondria. They use oxygen to release the energy stored in food, a little like a very slow, gentle burning. The waste gas is carbon dioxide. This happens in every animal, with every breath. The oxygen itself was made by plants and by tiny living beings in the sea. About 2.4 billion years ago, tiny bacteria in the sea began to make so much oxygen that the air changed. Animals came much later, and they have been using that oxygen ever since. None of the oxygen that the ant, the crab or the worm breathes was made by an animal.
 - e.g. A mud crab uses oxygen in her muscle cells to power her claws.
 - e.g. Green pond weed makes oxygen in daylight, and uses some of it up at night.
 - e.g. The oxygen in a village pond in the morning was made by pond plants and algae the day before.
 
 ## Mostly agreed
 - Animals take in oxygen across a thin, wet surface and let carbon dioxide out the same way. *How we know:* Oxygen sensors in sealed jars show the oxygen falling and carbon dioxide rising when worms, snails, crabs or insects are inside.
-- Earthworms breathe mainly through their skin, and need it to stay damp. *How we know:* Earthworms have no lungs or gills when opened up, and they stop moving when their skin dries.
-- Insects breathe through spiracles and tracheae, and most insects' blood does not carry most of the oxygen. *How we know:* Marcello Malpighi saw the spiracles and air tubes of a silkworm in 1669. In 2003, X-ray pictures of living beetles, crickets and ants showed the big air tubes in the head and chest squeezing and widening again.
+- Earthworms breathe mainly through their skin, and need it to stay damp. *How we know:* When earthworms are opened up, no lungs or gills are found. They also stop moving when their skin dries.
+- Insects breathe through spiracles and tracheae. In most insects, the blood does not carry most of the oxygen. *How we know:* Marcello Malpighi saw the spiracles and air tubes of a silkworm in 1669. In 2003, X-ray pictures of living beetles, crickets and ants showed the big air tubes in the head and chest squeezing and widening again.
 - Water holds far less oxygen than air, and warm water holds less than cold water. *How we know:* Dissolved oxygen meters give about 7 to 9 milligrams in a litre of water at 20 to 30 degrees. A litre of air holds about 280 milligrams of oxygen.
 - Spiders and scorpions have book lungs, and land snails have a lung sac. *How we know:* Opening these animals up shows the stacked plates and the blood-vessel-lined pocket.
 - The time for particles to drift across a distance grows with the square of the distance. *How we know:* Albert Einstein worked it out in 1905. Jean Perrin's careful measurements of tiny particles in water confirmed it a few years later.
 
 ## How we found out
-**Marcello Malpighi, an Italian doctor (1628 to 1694), 1669.** About 330 BCE, the Greek thinker Aristotle taught that animals breathe to cool the heat of the heart. He called animals such as insects 'bloodless'. For nearly two thousand years, people repeated this. Nobody could say how a caterpillar with no lungs got air. In 1669 an Italian doctor, Marcello Malpighi, studied silkworms through an early microscope. He saw a row of tiny holes down each side. Inside, thin pale tubes ran from each hole and branched again and again into finer threads. Malpighi had found the silkworm's air tubes. Air does not travel in blood here. It goes straight to the parts that need it. Later, Antoine Lavoisier showed in the 1770s and 1780s that breathing uses up part of the air, which is oxygen, in a slow burning that warms the body. In 1919 the Danish scientist August Krogh measured how fast gases drift through animal bodies, and showed that drifting works well over short distances.  
+**Marcello Malpighi, an Italian doctor (1628 to 1694), 1669.** About 330 BCE, the Greek thinker Aristotle taught that animals breathe to cool the heat of the heart. He called animals such as insects 'bloodless'. For nearly two thousand years, people repeated this. Nobody could say how a caterpillar with no lungs got air. In 1669 an Italian doctor, Marcello Malpighi, studied silkworms through an early microscope. He saw a row of tiny holes down each side. Inside, thin pale tubes ran from each hole and branched again and again into finer threads. Malpighi had found the silkworm's air tubes. In a silkworm, air does not travel in the blood. It goes straight to the parts that need it. Later, in the 1770s and 1780s, Antoine Lavoisier showed that breathing uses up one part of the air, the part we call oxygen, in a slow burning that warms the body. In 1919 the Danish scientist August Krogh measured how fast gases drift through animal bodies, and showed that drifting works well over short distances.  
 *What people believed before:* Aristotle thought breathing cools the heart, and that insects were 'bloodless' animals. Malpighi's microscope showed that insects have air tubes reaching every part, and later work showed that every cell uses oxygen.
 
 ## Challenging perspectives
@@ -122,7 +122,7 @@ Inside each cell are tiny parts called mitochondria. They use oxygen to release 
   Against: Insects have haemolymph, and their air tubes carry oxygen straight to their cells. An ant uses oxygen at a high rate for her size. Red blood is one way to carry oxygen, not the only one.
 - **Small animals are simple animals.** (A common belief.; *rejected*)  
   For: An ant is tiny and has far fewer cells than a mouse.  
-  Against: An ant has tubes that reach every cell, muscles, eyes, and a nest of thousands. Being small does not make a body or a mind simple.
+  Against: An ant has muscles, eyes, air tubes that reach every cell, and a nest of thousands. Being small does not make a body or a mind simple.
 - **Earthworms come up in the rain because they would otherwise drown.** (A very common idea.; *debated*)  
   For: Flooded soil can run short of oxygen, and worms breathe through their skin.  
   Against: Worms can survive in well-aired water for days. Some also come up in light rain when the soil is not flooded.
@@ -136,30 +136,30 @@ Inside each cell are tiny parts called mitochondria. They use oxygen to release 
 ## Roots
 We have followed oxygen into worms, ants, crabs, snails and spiders. Now we ask what this tells us about all bodies, including our own.
 
-**Deep truth.** In the jelly cubes, the colour crept in only a few millimetres, however big the cube. Oxygen drifts through a body in the same slow way. So every animal is built to keep the outside world close to every part of their body. Gills, air tubes and lungs are all that one job.  
-*Habit it breaks:* We say an animal breathes with their lungs, as if breathing happened in one organ. But every cell needs oxygen, so breathing happens everywhere. A lung or a gill is a way of folding the outside deep into the body.  
-*Evidence:* In Colour Cubes, the thin slice was coloured right through, but the big cube still had a white middle after 40 minutes. Drifting alone cannot reach the middle of a thick body. Worms stay thin, crabs fold gills, and ants branch tubes to every part.
+**Deep truth.** In the Colour Cubes experiment, the colour crept only a few millimetres into the jelly, however big the cube. Oxygen drifts through a body in the same slow way. So every animal needs a way to bring air or water close to every part of their body. Gills, air tubes and lungs all do that same job, in different ways.  
+*Habit it breaks:* We say an animal breathes with their lungs, as if breathing happened in one organ. But every cell needs oxygen, so breathing happens in every part of the body. A lung or a gill is a body part that gives air or water a large, thin, wet surface to touch the blood, deep inside the body.  
+*Evidence:* In Colour Cubes, the thin slice was coloured right through, but the big cube still had a clear middle after 40 minutes. Drifting alone cannot reach the middle of a thick body. Worms stay thin, crabs fold gills, and ants branch tubes to every part.
 
-- *who am i:* Inside you, thin folded lungs bring the air close to your blood. You are built round the same short distance as an ant or a crab.
+- *who am i:* Inside you, thin folded lungs bring the air close to your blood. Like an ant or a crab, your body is built so that oxygen only has to drift a short way.
 - *what is life:* A living body is always taking in air or water and giving some back. A worm, an ant and a crab each do this all day, with skin, tubes and gills.
 - *what is this world:* The oxygen in the air was made by plants and tiny sea microbes. Every animal, from the ant to the crab, lives on air that other living beings made.
 
-Oxygen is the same everywhere. A worm's skin, a crab's gill and an ant's tube all let oxygen drift through a thin, wet wall. The oxygen does not change. What changes is the body, built in a different shape to bring it in. One kind of air, and many kinds of bodies, each shaped around the same short distance. The edge between a body and the air turns out to be folded, stretched and branched, so it reaches almost everywhere inside.
+Oxygen is the same everywhere. A worm's skin, a crab's gill and an ant's tube all let oxygen drift through a thin, wet wall. The oxygen does not change. What changes is the shape of the body that brings it in. Every one of these bodies is built so that oxygen has only a short way to drift. To do that, the surface where the body meets the air is folded, stretched and branched, so it reaches almost everywhere inside.
 
 - **Prashna Upanishad, chapter 2:** The faculties of a body, such as speech, mind, eye and ear, once argued about which of them was most important. Prana, the breath, began to leave the body, and all the others were pulled with it. They agreed that breath is the chief. (Every part of an animal's body depends on oxygen arriving, whether the animal is a crab or a person.)
 - **Chandogya Upanishad 6.11:** Uddalaka told his son that if life leaves one branch of a great tree, that branch dries up. If life leaves the whole tree, the whole tree dries up. Life moves through the whole tree. (Life moves through a whole body, not just one part, and oxygen has to reach every part for that to be true.)
 - **Tattvartha Sutra of Umasvati, chapter 2, verse 23:** The Jain teacher Umasvati listed living beings by the number of senses. He named worms, ants, bees and people as examples of beings with two, three, four and five senses. (Jain teaching has long said that small animals such as worms and ants are living beings who feel, and deserve care.)
 - Science (settled): Oxygen moves into animals by diffusion across thin, wet surfaces, and diffusion time grows with the square of the distance.
 - Science (debated): Giant insects once lived when the air held more oxygen. Whether oxygen allowed their size is argued over.
-- Other view, Many biologists: A gill or a tube is a tool that natural selection shaped step by step, because animals with a better air supply left more young. 'The outside folded in' is a useful way to picture it, they say, but nothing planned it.
-- Practice, Breath at the edge (3 min): Sit still and hold one hand in front of your nose. Breathe out and feel the warm air on your hand. Breathe in and feel the cooler air. Now picture the air reaching your fingertips and your toes, all the way to your smallest parts. An ant does this with no lungs at all. Ask yourself, where does the air stop and I begin?
+- Other view, Many biologists: A gill or a tube is a tool that natural selection shaped step by step, because animals with a better air supply left more young. On this view, it helps to picture a gill or a tube as a way of bringing the outside deep into the body. But nobody planned it that way. It happened because animals with a better air supply left more young.
+- Practice, Breath at the edge (3 min): Sit still and hold one hand in front of your nose. Breathe out and feel the warm air on your hand. Breathe in and feel the cooler air. Now picture the air reaching your fingertips and your toes, all the way to your smallest parts. An ant does this with no lungs at all. Now ask yourself a question. The air you just breathed in is going into your body, so is it part of you yet?
 - Ask: If every cell breathes, where does your breath really go?
 - Ask: A worm breathes through her skin and an ant through tubes. Are they breathing the same air we do?
 - Ask: The oxygen you breathe was made by plants and tiny microbes. Whose breath are you breathing?
 - Ask: Is a crab's gill part of the crab, or part of the sea?
 
 ## Deep and big questions
-- *deep:* The colour crept only a few millimetres into a big jelly cube. What would a worm as thick as a tree trunk have to do to stay alive? (hint: Think about tubes, folds and pumps, and which ones the animals in this unit already use.)
+- *deep:* In Colour Cubes, the colour crept only a few millimetres into a big jelly cube. What would a worm as thick as a tree trunk have to do to stay alive? (hint: Think about tubes, folds and pumps, and which ones the animals in this unit already use.)
 - *deep:* Your blood carries oxygen to your cells. An ant's blood does not. How can an ant be so fast and strong? (hint: Where does an ant's oxygen travel, and how far must the oxygen go?)
 - *big:* Water holds about 30 times less oxygen than air, yet animals began in water. What does that tell you about the first animals? (hint: Think about how thick and how active a body can be when air is scarce.)
 - *deep:* A coconut crab drowns in the sea but is still a crab. Is breathing air or water a feature of the animal, or of where she lives? (hint: Think of a pond snail that has a lung but lives in water.)
@@ -167,7 +167,7 @@ Oxygen is the same everywhere. A worm's skin, a crab's gill and an ant's tube al
 - *deep:* You breathe in through your nose and an ant takes air in through holes in her sides. Are you both doing the same thing, or two different things with one name? (hint: What does each body need to happen, and what is different about how it happens?)
 - *big:* Libbie Hyman wrote a six-volume book on animals without backbones, by herself, over about 27 years. Why might someone give their life to animals most people step over? (hint: Think about who gets noticed in science, and who does not.)
 - *big:* Is a bigger body better? What can a big body do that a small one cannot, and the other way round? (hint: Think about strength, speed, hiding, breathing and eating.)
-- *big:* Each kind of animal has a different way of getting air. Is there one right way to breathe? (hint: Right for a mud crab, a spider and a human might not be the same.)
+- *big:* Each kind of animal has a different way of getting air. Is there one right way to breathe? (hint: What is right for a mud crab, a spider and a human might not be the same.)
 
 ## Story: The Crabs That Rose at Dawn
 *A made-up story. The science in it is real. Mud crabs are fattened in boxes in the backwaters of Kerala, and tidal gates let the tide in. The air dissolved in a pond is lowest just before dawn, because plants and animals use it up through the night. Anjana, Ammamma and Miss Radha are imagined.*
@@ -210,34 +210,34 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 
 ## Games
 ### g1 · Wobbly Walk: an oxygen particle on its way to the middle (29 min)
-- **rules:** Each player has a token and a coin. Put the token on square 0, the outside air.; Flip the coin. If it is heads, move the token one square towards the middle. If it is tails, move it one square back towards the outside. If you are on square 0 and flip tails, stay on 0.; Count every flip. Stop when the token reaches the target square for your body.; A flat worm's target is square 2, an ant's is square 4, and a crab's is square 8.; Play each body three times. Add up the flips. The body with the fewest flips is the easiest to reach.; In the pump round, a crab flips again, but heads now moves the token two squares in. This is a gill bailer or a heart pushing the oxygen along.; To win, be the player whose crab with a pump needs the fewest flips in total. If you play alone, try to beat your own total.
+- **rules:** Each player has a token and a coin. Put the token on square 0, the outside air.; Flip the coin. If it is heads, move the token one square towards the middle. If it is tails, move it one square back towards the outside. If you are on square 0 and flip tails, stay on 0.; Count every flip. Stop when the token reaches the target square for your body.; A flat worm's target is square 2, an ant's is square 4, and a crab's is square 8.; Play each body three times. Add up the flips. The body that needs the fewest flips is the easiest for oxygen to reach.; In the pump round, play the crab again, but heads now moves the token two squares in. The extra square stands for a gill bailer or a heart pushing the oxygen along.; To win, be the player whose crab with a pump needs the fewest flips in total. If you play alone, try to beat your own total.
 - **Printable board: 9 squares: a strip from the outside (0) to the deepest cell (8):** 0 Outside air; 1; 2 Flat worm's hungry cell; 3; 4 Ant's hungry cell; 5; 6; 7; 8 Crab's hungry cell
 - **Printable score sheet: A score sheet with a row for each body and three tries:** Flat worm, target square 2: try 1 ___ try 2 ___ try 3 ___ total ___; Ant, target square 4: try 1 ___ try 2 ___ try 3 ___ total ___; Crab, target square 8: try 1 ___ try 2 ___ try 3 ___ total ___; Crab with a pump, target square 8: try 1 ___ try 2 ___ try 3 ___ total ___
 - **s1 (3 min)**  
   *Parent does:* Draw the strip of nine squares and number them 0 to 8. Give each player a small token and a coin. Ask for a guess.  
-  *Parent says:* A particle of oxygen wanders by chance. Heads, one step in. Tails, one step back. It starts outside. About how many flips will it take to reach square two, square four and square eight?  
+  *Parent says:* A particle of oxygen wanders by chance. On heads it takes one step in. On tails it takes one step back. It starts outside. About how many flips will it take to reach square two, square four and square eight?  
   *Child mode:* Oxygen wanders by chance. How many flips to reach squares 2, 4 and 8?
   - Ask: Square 2 takes a few flips. How many do you think to reach square 4, and square 8? (good: About twice as many for square 4.; Many more than that, because it wanders back.)
   - Note: Do not correct the guess. Write each guess on the score sheet. The long-run averages are about 6 flips for square 2, 20 for square 4, and 72 for square 8. Each player flips their own coin and moves their own token at the same time. Then pool everyone's counts for each body, which gives a steadier average than one child's three tries. One child alone just plays the tries in turn.
 - **s2 (4 min)**  
   *Parent does:* Play the flat worm three times. Flip the coin, move the token, and count the flips until it reaches square 2. Write the three counts on the sheet.  
-  *Parent says:* Start on square zero. Flip the coin. Heads, one step in. Tails, one step back. Count every flip until you reach square two. Do it three times.  
-  *Child mode:* Flat worm. Reach square 2. Count your flips. Do it three times.
+  *Parent says:* Start on square zero. Flip the coin. On heads, move one step in. On tails, move one step back. Count every flip until you reach square two. Do it three times.  
+  *Child mode:* You are the flat worm. Count your flips until you reach square 2. Do it three times.
 - **s3 (6 min)**  
   *Parent does:* Play the ant three times. Count the flips until the token reaches square 4. Write the counts down and add them.  
   *Parent says:* Now the ant. The target is square four. Count your flips each time. Do it three times and add them up.  
-  *Child mode:* Ant. Reach square 4. Count your flips. Do it three times.
+  *Child mode:* You are the ant. Count your flips until you reach square 4. Do it three times.
   - Ask: The ant's square is twice as far as the worm's. Did it take twice as many flips? (good: No. It took about three times as many or more.; It took much more than double.)
   - Check: Square 4 is twice as far as square 2. About how many times as many flips did it take? → **About 3 to 4 times as many**
 - **s4 (8 min)**  
   *Parent does:* Play the crab three times. Count the flips until the token reaches square 8. This takes a long time, so stop at 100 flips and write 'more than 100'. Add up your counts.  
   *Parent says:* Now the crab. The target is square eight. This is a long walk. If you pass a hundred flips, stop and write more than a hundred.  
-  *Child mode:* Crab. Reach square 8. Stop at 100 flips if you must.
-  - Note: The average is about 72 flips, but a typical middle try is nearer 50, about one try in four goes past 100, and one can take over 200. That is why we stop at 100. A very long wander shows chance, and also why the ant and the crab cannot rely on drifting alone.
+  *Child mode:* You are the crab. Count your flips until you reach square 8. Stop at 100 flips if you must.
+  - Note: The average is about 72 flips, but a typical middle try is nearer 50, about one try in four goes past 100, and one can take over 200. That is why we stop at 100. A very long wander shows how much chance matters, and why the ant and the crab cannot rely on drifting alone.
 - **s5 (4 min)**  
   *Parent does:* Play the crab with a pump. Heads now moves two squares in. Tails still moves one back. Play three times and count the flips.  
   *Parent says:* Now give the crab a pump. Heads moves two squares in. Tails still moves one back. How many flips now? Do it three times.  
-  *Child mode:* Crab with a pump. Heads moves two in. Count your flips.
+  *Child mode:* Play the crab with a pump. Heads moves two squares in. Count your flips.
   - Ask: What changed when the crab got a pump? (good: It reached square 8 in far fewer flips.; The wandering had a push in one direction.)
   - Note: With the pump the average falls to about 14 flips. The coin is still random, but the push gives a direction.
   - Think: A crab's gill bailer and an insect's pumping belly both give a push in one direction. What would happen without it?
@@ -264,8 +264,8 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent does:* Play the next ten cards. Keep the scores. After the last card, ask the question below.  
   *Parent says:* Play the next ten cards in the same way. Remember to say why when you can. Add up your scores at the end.  
   *Child mode:* Play the last ten cards. Add up your points.
-  - Ask: Which animals surprised you? (good: The coconut crab breathes air.; The snail has a lung.; A dragonfly young has gills inside her tail.)
-  - Check: A big animal needs more help to get oxygen to the middle of its body than a tiny one does. Which animal on the cards is a big crab that breathes air, even though most crabs breathe water? → **A coconut crab**
+  - Ask: Which animals surprised you? (good: The coconut crab breathes air.; The snail has a lung.; A young dragonfly has gills inside her tail end.)
+  - Check: Most crabs breathe water with gills. Which crab on the cards breathes air? → **A coconut crab**
 - **s4 (2 min)**  
   *Parent does:* Say who won. Ask your child which animal was hardest to guess, and why.  
   *Parent says:* Who got the most points? Which card was the hardest to guess? Why was it hard?  
@@ -277,13 +277,13 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **question:** A thin slice, a small cube and a big cube of clear jelly sit in coloured water for 40 minutes. Which will be coloured right through to the middle?
 - **predict:** Before you start, guess. Which piece will be coloured all the way through, and which will keep a clear middle? Why do you think so?
 - **fair test:** All the pieces are cut from the same jelly. They sit in the same bowl of colour for the same time. Only the size and shape of the piece changes, so any difference in how far the colour reaches comes from the size. Cutting one spare big cube open after 10 minutes also shows how the colour creeps as time passes.
-- **safety:** A grown-up must boil the agar and use the knife. Hot jelly burns like hot water. Food colour stains hands and clothes, so wear an old shirt. Do not eat the coloured jelly. Keep little ones away from the hot pan. Children measure with the ruler; the grown-up does all the cutting.
-- **record:** Fill in the table for each piece. Write the width of the coloured edge and the width of the clear middle in millimetres. Then write what you think, what you saw and why.
+- **safety:** A grown-up must boil the agar and use the knife. Hot jelly burns like hot water. Food colour stains hands and clothes, so wear an old shirt. Do not eat the coloured jelly. Keep little ones away from the hot pan. Children measure with the ruler. The grown-up does all the cutting.
+- **record:** Fill in the table for each piece. Write the width of the coloured edge and the width of the clear middle in millimetres. Then write what you thought would happen, what you saw, and why it happened.
 - **results table:** Piece | Time in the colour (minutes) | Width of coloured edge on the cut face (millimetres) | Width of the clear middle (millimetres) | Coloured right through? (yes or no)
 - **s1 (5 min)**  
   *Parent does:* Show your child the agar, the box and the food colour. Say that clear jelly will be cut into three shapes. Write down their guess and their reason.  
   *Parent says:* We will make clear jelly. Then we will cut a thin slice, a small cube and a big cube. We will soak them in colour. Which piece will be coloured all the way through? Why do you think so?  
-  *Child mode:* Jelly in colour. Which piece will be coloured all through? Why do you think so?
+  *Child mode:* We will soak pieces of jelly in colour. Which piece will be coloured all the way through? Why do you think so?
   - Ask: Why do you think that piece will be coloured all the way through? (good: It is the smallest, so the colour has less far to go.; It is thin, so the colour comes in from both sides.; The colour will go into all of them the same.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. One child: you are the grown-up helper. Two to four children: share one jelly slab. Give each child a job (timer, spoon lifter, measurer, recorder) and swap jobs at each step. With three or four children, cut a set of pieces for each child from the same slab (it is big enough) and use one bowl of colour per child, so everyone measures their own cubes.
 - **s2 (10 min) · grown-up needed**  
@@ -326,9 +326,9 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   - Note: Typically the slice is coloured right through, the small cube is coloured through or has only a thin clear middle, and the big cube keeps a large clear middle. A typical edge is about 2 to 4 millimetres after 40 minutes, but yours may differ. If the big cube is coloured all through, your colour is very strong or the jelly is soft. Write exactly what you see.
   - Check: The colour went about the same distance into the small and the big cube. What does this show? → **Colour creeps in about the same distance, so a big piece keeps a clear middle**
 - **s9 (6 min)**  
-  *Parent does:* Compare the edge at 10 minutes and at 40 minutes on the big cube. Then ask your child to write what they think, what they saw and why.  
-  *Parent says:* Look at the big cube at ten minutes and at forty minutes. The time was four times as long. Was the edge four times as thick? What did you think, what did you see, and why?  
-  *Child mode:* Compare 10 and 40 minutes. Write what you think, saw and why.
+  *Parent does:* Compare the edge at 10 minutes and at 40 minutes on the big cube. Then ask your child to write what they thought would happen, what they saw, and why it happened.  
+  *Parent says:* Look at the big cube at ten minutes and at forty minutes. The time was four times as long. Was the edge four times as thick? What did you think would happen, what did you see, and why did it happen?  
+  *Child mode:* Compare the big cube at 10 and 40 minutes. Write what you thought would happen, what you saw, and why.
   - Ask: Was the edge four times thicker after four times as long? (good: No. It was only about twice as thick.; It slowed down.)
   - Note: This is the key finding. The edge grows more slowly than the time. Four times as long usually gives roughly twice as deep (a ruler is rough to the millimetre, so anything from 1.5 to 3 times is fair). Do not explain it yet. Let the child say what they notice. The explanation card and the Wobbly Walk game follow.
   - Think: If the colour only reaches a few millimetres in 40 minutes, how long might it take to reach 2 centimetres?
@@ -342,11 +342,11 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (3 min)**  
   *Parent does:* Show your child the three kinds of sugar. Ask for a guess and a reason.  
   *Parent says:* We have the same amount of sugar three ways. One lump, a few bits and some powder. Which will vanish first in still water? Why do you think so?  
-  *Child mode:* Same sugar in three shapes. Which vanishes first? Why?
+  *Child mode:* The same sugar comes in three shapes. Which will vanish first? Why?
   - Ask: Why do you think that one will vanish first? (good: It is in the smallest bits.; The water touches more of it.; It is the quickest to melt.)
   - Note: Do not correct the guess. Write it down. One child: you do all three glasses. Two to four children: each child takes one kind of sugar and drops it on a count of three, then times their own glass. The extra child or the parent is the recorder. Swap kinds for the second try.
 - **s2 (7 min)**  
-  *Parent does:* Wrap one cube in a cloth. Tap it gently with the back of a spoon until it breaks into about 8 pieces. Wrap another cube and crush it to powder. Keep the third whole. Fill three glasses with 150 millilitres of cool water each.  
+  *Parent does:* Wrap one sugar cube in a cloth. Tap it gently with the back of a spoon until it breaks into about 8 pieces. Wrap another cube and crush it to powder. Keep the third whole. Fill three glasses with 150 millilitres of cool water each.  
   *Parent says:* Break one cube into bits. Crush one cube to powder. Keep one whole. Fill three glasses with the same amount of water.  
   *Child mode:* Break one cube. Crush one. Keep one whole. Fill three glasses.
   - Note: Use one cube for each. The broken and crushed sugar must weigh the same as the whole one, so do not lose any pieces from the cloth.
@@ -356,32 +356,32 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* Drop all three in together. Do not stir. Start the timer. Watch from the side. Write down when each one has vanished.  
   *Child mode:* Drop all three in. Do not stir. Start the timer. Watch.
   - Ask: Which vanished first, and which last? What do you notice? (good: The powder vanished fastest.; The whole lump took the longest.)
-  - Note: Typically the powder goes first and the whole lump last, but the times vary a lot with the water and the sugar, so write what you see. Sugar cubes are porous and may crumble into grains in the first minute; time until the last grain is gone. Rock sugar is much slower and may need more than ten minutes. If a lump is not gone after 10 minutes, stop and write 'more than 10'. Powder can pile in a heap and dissolve slower than you expect; if your order is a surprise, that is a real result to explain.
+  - Note: Typically the powder goes first and the whole lump last, but the times vary a lot with the water and the sugar, so write what you see. Sugar cubes are full of tiny holes and may crumble into grains in the first minute. Time them until the last grain is gone. Rock sugar is much slower and may need more than ten minutes. If a lump is not gone after 10 minutes, stop and write 'more than 10'. Powder can pile in a heap and dissolve more slowly than you expect. If your order is a surprise, that is a real result to explain.
 - **s4 (10 min)**  
   *Parent does:* Repeat with fresh glasses, fresh water and fresh sugar. Write the second times in the table. Work out the average for each.  
   *Parent says:* Do it all again with new glasses. Why do you think we repeat it? Write the second times down.  
   *Child mode:* Do it again with new glasses. Write the new times.
   - Check: Why do we repeat the test? → **One try can be a fluke, so a second try makes us surer**
 - **s5 (5 min)**  
-  *Parent does:* Ask your child to write what they thought, what they saw and why. Then ask the question below.  
-  *Parent says:* What did you think, what did you see, and why? A crab's gill is shaped like a feather, not like a lump. Why might that help?  
-  *Child mode:* Write what you thought, saw and why. Why is a gill like a feather?
+  *Parent does:* Ask your child to write what they thought would happen, what they saw, and why it happened. Then ask the question below.  
+  *Parent says:* What did you think would happen, what did you see, and why did it happen? A crab's gill is shaped like a feather, not like a lump. Why might that help?  
+  *Child mode:* Write what you thought would happen, what you saw, and why. Why is a gill shaped like a feather?
   - Ask: Why might a crab's gill be shaped like a feather and not like a lump? (good: A feather shape has more outside to touch the water.; More of the gill meets the water, so oxygen gets in faster.)
   - Note: The sugar and the gill are different, but the idea is the same. More surface touching the water means faster change. Do not explain more than this yet.
   - Think: What would a lump-shaped gill be like?
 ### e3 · Drop and Stir: why do crabs move water over their gills? (30 min)
 - **question:** A drop of food colour is put into still cold water, still warm water and stirred cold water. Which glass becomes evenly coloured first?
 - **predict:** Before you start, guess. Which glass will be an even colour first, and which last? Why do you think so?
-- **fair test:** Each glass has the same amount of water and the same amount of food colour, put in the same way. The cold still glass is the control. Each other glass changes only one thing from it: warm instead of cold, or stirred instead of still.
+- **fair test:** Each glass has the same amount of water and the same amount of food colour, put in the same way. The cold still glass is the control, the one you compare the others with. Each other glass changes only one thing from it: warm instead of cold, or stirred instead of still.
 - **safety:** The warm water must be comfortable to touch, not hot. A grown-up should pour any water from a kettle. Wipe spills so nobody slips.
 - **record:** In each box of the table, write in words what you see: colour in a streak, colour at the bottom, colour spread evenly, and so on. Draw each glass after 10 minutes.
 - **results table:** Glass | After 1 minute | After 5 minutes | After 10 minutes | Even colour? (yes or no)
 - **s1 (3 min)**  
   *Parent does:* Show your child the three glasses. Glass A is cold and still. Glass B is warm and still. Glass C is cold and will be stirred. Ask for a guess and a reason.  
   *Parent says:* One drop of colour goes in each glass. One cold and still, one warm and still, one cold and stirred. Which will have an even colour first? Why do you think so?  
-  *Child mode:* Colour in three glasses. Which spreads evenly first? Why?
+  *Child mode:* We put colour in three glasses. Which one will be an even colour first? Why?
   - Ask: Why do you think that glass will be even first? (good: Stirring moves the colour all round.; Warm water spreads things faster.; Still water will take a long time.)
-  - Note: Do not correct the guess. Write it down. One child: do all three glasses. Two to four children: each child owns one glass and drops the colour; the fourth child may add a bonus glass D, warm and stirred. Share the timer and swap who watches.
+  - Note: Do not correct the guess. Write it down. One child: do all three glasses. Two to four children: each child owns one glass and drops the colour. The fourth child may add a bonus glass D, warm and stirred. Share the timer and swap who watches.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* Put the white paper behind the glasses. Pour 200 millilitres of cold water into glasses A and C. Pour 200 millilitres of warm water into glass B. Let all three stand until the water stops moving.  
   *Parent says:* Pour the same amount of water into each. Two cold, one warm. Wait until nothing in the water is moving.  
@@ -399,9 +399,9 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   - Ask: What is different about the stirred glass? (good: The colour spread much faster.; It was almost even after a short time.)
   - Note: Typically glass C is much more even than the others within a minute or two. Glass A will be patchy for a long time, and its colour may sink to the bottom first. Glass B may be a little quicker than A, because warm water rises and moves, but the difference can be small and the warm water cools as it stands. Glass B is still patchier than C. Write what you see. If glass A is not even after 10 minutes, write 'not yet'.
 - **s5 (5 min)**  
-  *Parent does:* Ask your child to write what they thought, what they saw and why. Then ask the question below.  
-  *Parent says:* What did you think, what did you see, and why? A crab beats a flap near her mouth to pull water over her gills. Why would that help her?  
-  *Child mode:* Write what you thought, saw and why. How does stirring help a crab?
+  *Parent does:* Ask your child to write what they thought would happen, what they saw, and why it happened. Then ask the question below.  
+  *Parent says:* What did you think would happen, what did you see, and why did it happen? A crab beats a flap near her mouth to pull water over her gills. Why would that help her?  
+  *Child mode:* Write what you thought would happen, what you saw, and why. How does moving water help a crab?
   - Ask: How could moving water help a crab with her gills? (good: It brings new water with more air to the gills.; It stops the water near the gills running out of air.)
   - Note: Warm water mixes faster, but it holds less oxygen to begin with. That is why a hot, still pond is a double problem. Let the child think about it before you say this.
   - Think: Warm water spreads colour faster. Is warm water better for a crab to breathe in?
@@ -409,26 +409,26 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 ## Activities
 ### a1 · Ring or Core: how much of a body is near the edge? (20 min)
 - **s1 (3 min)**  
-  *Parent does:* Show your child the squared paper. Explain that each square is a flat body made of cells. The red cells at the edge touch the air. The blue cells in the middle do not. Ask for a guess.  
+  *Parent does:* Show your child the squared paper. Explain that each square you draw is a flat body made of cells. You will colour the cells at the edge red, because they touch the air. You will colour the cells in the middle blue, because they do not. Ask for a guess.  
   *Parent says:* Each square is a flat animal made of cells. Cells at the edge touch the air. Cells in the middle do not. As the animal gets wider, which will grow faster, the edge or the middle?  
-  *Child mode:* A flat animal made of cells. Does the edge or the middle grow faster?
-  - Ask: When the animal gets wider, which grows faster, the edge cells or the middle cells? Why? (good: The middle, because it grows in two ways.; The edge, because it is on the outside.)
+  *Child mode:* Each square is a flat animal made of cells. As she gets wider, which grows faster, the edge or the middle?
+  - Ask: When the animal gets wider, which grows faster, the edge cells or the middle cells? Why? (good: The middle, because it grows wider and also taller, while the edge is only one thin ring.; The edge, because it is on the outside.)
   - Note: Do not correct the guess. Write it at the top of the page.
 - **s2 (8 min)**  
   *Parent does:* Draw four squares: 2 cells wide, 4 cells wide, 6 cells wide and 8 cells wide. Colour the outside ring of cells red. Colour all the cells inside the ring blue. The smallest square is all red.  
   *Parent says:* Draw four squares. They are two, four, six and eight cells wide. Colour the outside ring red. Colour the middle blue.  
-  *Child mode:* Draw squares 2, 4, 6 and 8 wide. Red edge, blue middle.
+  *Child mode:* Draw squares 2, 4, 6 and 8 cells wide. Colour the edge red and the middle blue.
   - Note: A 2 by 2 square has no middle at all. That is correct. If counting is slow, let your child count along a row and use the rule: ring = 4 times the width minus 4. One child: draw all four squares. Two to four children: each child draws one or two sizes, then swap pages and check each other's counts before filling the table together.
 - **s3 (5 min)**  
   *Parent does:* Count the red cells and the blue cells in each square. Write them in a table with three columns: width, red cells and blue cells. You should find 4 and 0, then 12 and 4, then 20 and 16, then 28 and 36.  
   *Parent says:* Count the red cells and the blue cells in each square. Write both numbers in the table.  
-  *Child mode:* Count red and blue in each square. Fill in the table.
+  *Child mode:* Count the red cells and the blue cells in each square. Fill in the table.
   - Ask: At which size do the blue cells first outnumber the red cells? (good: The 8 wide square.; Between 6 and 8.)
   - Check: A flat body is 10 cells wide. Which is bigger, its edge ring or its middle? → **Its middle, with 64 cells against 36**
 - **s4 (4 min)**  
-  *Parent does:* Ask your child what the middle cells would need if they were real cells. Read the answer from the table.  
+  *Parent does:* Ask your child what the blue middle cells would need if they were real cells. Use the numbers in the table to help.  
   *Parent says:* Pretend each cell needs air all the time, and air only comes in from the edge. In the biggest square, what do the blue cells need?  
-  *Child mode:* Blue cells are far from the air. What do they need?
+  *Child mode:* The blue cells are far from the air. What do they need?
   - Ask: What could help the blue cells get air? (good: A tube from the edge to the middle.; Thin folds so the edge is closer.; A pump to push air in.)
   - Note: Accept any idea. Tubes, folds and pumps are all real. Do not explain yet. The explanation card comes later.
   - Think: How would you make the blue cells in the 8 wide square closer to the air?
@@ -436,28 +436,28 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (3 min)**  
   *Parent does:* Give your child eight cubes. Ask them to guess which shape will have the most faces touching the air.  
   *Parent says:* Here are eight cubes. We will build them four ways. Which way will have the most faces touching the air? Why do you think so?  
-  *Child mode:* Eight cubes, four shapes. Which has most faces touching the air? Why?
+  *Child mode:* You will build eight cubes into four shapes. Which shape has the most faces touching the air? Why?
   - Ask: Which shape do you think has the most faces touching the air, and why? (good: The one spread apart, because every cube is alone.; The long line.)
   - Note: Do not correct the guess. A face that touches another cube does not count. You may count the table side as a face in all four shapes, or leave it out. Be consistent. The numbers below count every face, even the one on the table, as if the shapes floated in the air.
 - **s2 (10 min)**  
-  *Parent does:* Build the solid block. Count every face that does not touch another cube. Write it down. Then do the same for the flat layer, the long line, and the eight cubes spread apart.  
+  *Parent does:* Build a solid block, 2 cubes by 2 by 2. Count every face that does not touch another cube. Write it down. Then do the same for a flat layer of 2 cubes by 4, a single line of 8, and the eight cubes spread apart.  
   *Parent says:* Build each shape and count the faces that touch the air. Only count faces that are not touching another cube. Write each number down.  
   *Child mode:* Build each shape. Count the faces that touch the air. Write them down.
   - Ask: Which shape had the fewest faces touching the air, and which the most? (good: The solid block had the fewest.; The spread-out cubes had the most.)
   - Note: Solid 2 by 2 by 2 block: 24. Flat 2 by 4 layer: 28. Single line of 8: 34. All eight apart: 48. Same cubes, same amount of stuff, but twice as much outside when spread apart. With two to four children, each child builds and counts one shape, then swaps and checks another child's count.
-  - Check: You should have found 24, 28, 34 and 48 faces. Which shape is the 24? → **The solid block**
+  - Check: The four shapes should show 24, 28, 34 and 48 faces. Which shape showed 24 faces? → **The solid block**
 - **s3 (4 min)**  
   *Parent does:* Ask your child which shape is most like a crab's gill and which most like a solid lump. Ask why a gill is feathery.  
   *Parent says:* The same cubes gave a lot more outside when spread out. A crab's gill is a bit like the spread out cubes. Why might that help a crab?  
-  *Child mode:* Same cubes, more outside when spread. Why do gills spread like that?
+  *Child mode:* The same cubes had more outside when they were spread apart. Why are gills spread out like that?
   - Ask: Why is a gill feathery and not a solid lump? (good: More of it touches the water.; More oxygen can get in at once.)
   - Think: A book lung is a stack of thin plates. Which of your shapes is it more like?
 ### a3 · Dry Finger: carrying a bubble of air under water (12 min)
 - **safety:** A grown-up should sprinkle the powder low over the water, away from faces. Do not blow on it or breathe it in, because cinnamon, pepper and baby powder can irritate eyes, noses and lungs. Wash hands afterwards.
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* Show your child the bowl and the powder. Ask what will happen to a finger pushed under the powder.  
+  *Parent does:* Show your child the bowl and the powder. Ask what will happen to a finger pushed through the powder and into the water.  
   *Parent says:* I will sprinkle a little powder on the water. You will push one finger through it. What do you think your finger will look like under the water? Will it come out wet or dry? Why do you think so?  
-  *Child mode:* A finger through powder, under water. Wet or dry? Why?
+  *Child mode:* You will push a finger through powder and into water. Will it come out wet or dry? Why?
   - Ask: Do you think your finger will come out wet or dry? Why? (good: Wet, because it was in water.; Dry, because the powder will cover it.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (5 min) · grown-up needed**  
@@ -465,11 +465,11 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* Push your finger slowly down through the powder. Look at it from the side. What do you see around it?  
   *Child mode:* Push a finger down slowly. Look from the side. What do you see?
   - Ask: What do you see around your finger under the water? (good: A silvery layer.; A shiny skin, like a mirror.)
-  - Note: The silvery shine is a thin layer of air held against the finger by the powder. Without the powder, the water would soak the finger and no layer would form. If the finger does not come out dry, the dusting was too thin: add more and try again. Sharing: each child takes a turn while the grown-up dusts a fresh bowl.
+  - Note: The silvery shine is a thin layer of air held against the finger by the powder. Without the powder, the water would soak the finger and no layer would form. If the finger does not come out dry, the dusting was too thin: add more and try again. If children are sharing, each child takes a turn, and the grown-up dusts a fresh bowl.
 - **s3 (4 min)**  
   *Parent does:* Lift the finger out slowly. Is it wet or dry? Feel it. Then put another finger in without powder and compare. Press each finger on a dry tissue: which leaves a wet patch?  
   *Parent says:* Lift your finger out. Is it wet or dry? Now try a finger without powder. How are they different?  
-  *Child mode:* Lift it out. Wet or dry? Try a finger without powder.
+  *Child mode:* Lift your finger out. Is it wet or dry? Now try a finger without powder.
   - Ask: How was the powdered finger different from the plain one, and what did the tissue show? (good: The powdered one stayed dry.; It had a layer of air around it.; Only the plain finger left a wet patch on the tissue.)
   - Note: Diving beetles and some water bugs trap air on hairs and under their wings. Some bugs keep a very thin layer of air on tiny hairs that works a little like a gill, because oxygen can drift from the water into the air layer as they use it.
   - Check: A diving beetle carries a bubble of air under her wing covers when she dives. What does the air bubble do? → **It gives her air to breathe under water**
@@ -498,7 +498,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (3 min)**  
   *Parent does:* Show your child the straw and the sponge pieces. Ask which will carry colour to the far end faster, and why.  
   *Parent says:* One way pushes colour through a pipe. One way lets it soak through sponge. Which gets to the far end first? Why do you think so?  
-  *Child mode:* Pipe or sponge? Which carries colour to the far end faster? Why?
+  *Child mode:* Which carries colour to the far end faster, a pipe or a sponge? Why?
   - Ask: Which do you think is faster, and why? (good: The pipe, because it goes straight.; The sponge, because it goes everywhere.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (6 min) · grown-up needed**  
@@ -510,7 +510,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent does:* Lay the damp sponge strip in the tray. Pour a spoon of coloured water on one end. Every minute, measure with the ruler how far the colour has reached along the strip, and write it down. Stop after 5 minutes.  
   *Parent says:* Pour a little colour on one end of the sponge. Every minute, measure how far it has spread. Stop after five minutes.  
   *Child mode:* Pour colour on the sponge end. Measure how far it spreads each minute.
-  - Ask: How is the sponge different from the pipe? (good: It was much slower.; It reaches every sponge, but slowly.)
+  - Ask: How is the sponge different from the pipe? (good: It was much slower.; It reaches every part of the sponge, but slowly.)
   - Note: The colour soaks along the sponge slowly. How far it gets in 5 minutes depends on the sponge, so write what you measure, even if it is small. Compare it with the pipe, where the push crossed the whole straw in a second or two. This is like open blood: it can bathe every organ, but it is slow without a strong pump. Each child can have their own strip.
 - **s4 (4 min)**  
   *Parent does:* Ask your child why an ant can manage with open blood, but a large animal that runs fast cannot.  
@@ -526,7 +526,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (4 min)**  
   *Parent does:* Show your child the roll, the straws and the paper strips. Ask what will happen to the strips when they blow in at one end.  
   *Parent says:* This roll is the main air tube. The straws are branches. The paper strips are the cells that need air. If I blow into the roll, what will happen to the strips? Why do you think so?  
-  *Child mode:* A roll with branches. Blow in. What happens to the paper strips? Why?
+  *Child mode:* This roll has straws as branches. If you blow in, what will happen to the paper strips? Why?
   - Ask: Do you think all four strips will move? Why? (good: Yes, because air goes down all the straws.; Only the nearest one will move.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (15 min) · grown-up needed**  
@@ -539,7 +539,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Parent says:* Blow in gently. Watch all four strips. Do they all move? Try it three times.  
   *Child mode:* Blow into the roll. Do all four strips move?
   - Ask: Did air reach all four strips? What does this tell you about branching tubes? (good: Yes. Branching tubes reach many places at once.; Even the far strip moved.)
-  - Note: Typically all four strips move, the nearest a little more. If the far strip does not move, check for leaks at the clay and blow a bit harder. Sharing: each child blows through their own clean straw held in the open end, and takes turns to watch the strips.
+  - Note: Typically all four strips move, the nearest a little more. If the far strip does not move, check for leaks at the clay and blow a bit harder. If children are sharing, each child blows through their own clean straw held in the open end, and they take turns to watch the strips.
   - Check: In the model, what does the blowing stand for? → **An insect pumping her belly to push air along her tubes**
 - **s4 (8 min)**  
   *Parent does:* Pinch one straw shut and blow again. Then pinch two straws shut. Write what happens to the paper strips on those straws. Ask what could block an insect's holes.  
@@ -547,7 +547,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Child mode:* Pinch a straw shut. Blow. What happens to that strip?
   - Ask: What happens to a part of the body whose tube is blocked? (good: It gets no air.; That strip stops moving.)
   - Note: A film of oil can block an insect's spiracles, which is one way some gardeners control pests. The same thing happens to the model when a straw is pinched. What does a blocked tube mean for the cells beyond it?
-  - Think: Oil on an insect's holes can kill her. Why? What does the model tell you about why a big animal needs tubes?
+  - Think: Oil on an insect's air holes can kill her. Why? What does the model tell you about why a big animal needs tubes?
 
 ## Challenges
 ### c1 · The Fresh Tank: mix a drop of colour across the bowl, fast (35 min)
@@ -562,10 +562,10 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Child mode:* Draw some ways to move the water across the bowl.
   - Ask: What would move the water? (good: A paddle.; Pouring from high.; Blowing.)
 - **s2 (15 min)**  
-  *Parent does:* Test each design. Put a drop of colour at one end and start the timer. Use the design. Stop the clock when the colour looks even from above. Write each time down.  
+  *Parent does:* Test each design. Put a drop of colour at one end and start the timer. Use your design to mix the water. Stop the clock when the colour looks even from above. Write each time down.  
   *Parent says:* Try each idea. Drop the colour. Start the timer. Use your design. Stop when the colour looks even. Write the time.  
   *Child mode:* Test each idea. Time it. Write the times.
-  - Note: Between tests, change the water, or use a second bowl, so the colour from the last test does not confuse the next one. Typical times run from a few seconds to over a minute, and they depend on your bowl and design. A grown-up pokes the hole if a child tries the paper-cup waterfall; use a pencil point and a firm table. Each child can test their own design in their own bowl, or share one bowl and time each other.
+  - Note: Between tests, change the water, or use a second bowl, so the colour from the last test does not confuse the next one. Typical times run from a few seconds to over a minute, and they depend on your bowl and design. A grown-up pokes the hole if a child tries the paper-cup waterfall. Use a pencil point and a firm table. Each child can test their own design in their own bowl, or share one bowl and time each other.
 - **s3 (10 min)**  
   *Parent does:* Choose the fastest design. Change one thing about it, such as speed or place, and test again. Write what changed.  
   *Parent says:* Take your fastest design. Change one thing. Test again. Did it get faster or slower?  
@@ -579,25 +579,25 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 ### c2 · The Giant Insect: how will she breathe? (30 min)
 - **problem:** Design an insect as long as your forearm, about 25 centimetres. Show how air will reach every part of her body. Where are her spiracles, her tubes and her pump?
 - **your turn:** Draw your giant insect and mark where every cell can get air. Then ask what would go wrong if you made her twice as long. Do you need more tubes, a bigger pump, or something else?
-- **constraints:** Her body is 25 centimetres long and about 6 centimetres thick.; Every part of her body must be within 2 centimetres of a tube. This is a rule for the game, because real tubes reach much closer.; Draw her spiracles, her main tubes, her branches and anything else she needs.; Say how the air moves along the tubes.
+- **constraints:** Her body is 25 centimetres long and about 6 centimetres thick.; Every part of her body must be within 2 centimetres of a tube. This rule is only for the challenge. Real tubes reach much closer.; Draw her spiracles, her main tubes, her branches and anything else she needs.; Say how the air moves along the tubes.
 - **general:** Many spiracles along each side, with a thick main tube from each one.; A belly that squeezes and relaxes, like a bellows, to push air along the tubes.; Tubes that branch into finer and finer threads that reach every muscle.
 - **creative:** Add a sac of air near the middle that works as a store.; Give her flat, thin wings that carry air tubes of their own.; Make her live in water, with a long breathing tube like a snorkel.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Ask your child to say what a giant insect would need that a tiny ant does not.  
   *Parent says:* An ant is tiny. This insect is as long as your arm. Tubes that work for an ant might not work for her. What might she need?  
-  *Child mode:* A giant insect needs more than an ant does. What?
+  *Child mode:* A giant insect needs more than an ant does. What does she need?
   - Ask: What might a giant insect need that an ant does not? (good: More tubes.; A pump to push the air.; Wider tubes.)
 - **s2 (15 min)**  
   *Parent does:* Draw the insect. Mark spiracles, main tubes, branches and a pump. Write one sentence under each part saying what it does.  
   *Parent says:* Draw your insect. Draw her spiracles, her tubes and her pump. Write one sentence for each part.  
   *Child mode:* Draw the insect. Add spiracles, tubes and a pump. Write what each does.
-  - Note: Several children each draw their own giant insect, then compare how many spiracles and tubes each needed.
+  - Note: If there are several children, each draws their own giant insect. Then they compare how many spiracles and tubes each one needed.
 - **s3 (10 min)**  
   *Parent does:* Check the design with your child. Find the cell furthest from a tube. Is it within 2 centimetres? If not, add more tubes. Then ask what would go wrong if she were twice as long.  
   *Parent says:* Find the part of her body furthest from a tube. Is it close enough? If not, add more branches. What if she were twice as long?  
-  *Child mode:* Find the furthest part. Is it near a tube? Add more branches.
+  *Child mode:* Find the part of her body furthest from a tube. Is it near enough? If not, add more branches.
   - Ask: What would go wrong if she were twice as long? (good: The middle would be too far from the tubes.; She would need many more tubes.)
-  - Think: Some scientists think tubes limit how big an insect can grow. Is that a good reason?
+  - Think: Some scientists think air tubes limit how big an insect can grow. Do you think that is a good reason?
 
 ## Worksheets
 ### Breathing Detective (core) (core, 16 questions)
@@ -610,7 +610,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
    Options: Through her wet skin / Through a nose / Through gills under a shell  
    **Answer:** Through her wet skin. *Why:* Oxygen dissolves in the wet film on her skin and drifts in. She is thin, so every cell is close to the outside. She has no nose and no shell.
 4. (fill) An insect breathes through tiny holes along her sides called ____.  
-   **Answer:** ['spiracles', 'spiracle']. *Why:* Spiracles are the doorways. The air goes along tubes called tracheae, which branch to reach every cell.
+   **Answer:** ['spiracles', 'spiracle']. *Why:* Spiracles are the holes where the air goes in. The air then goes along tubes called tracheae, which branch to reach every cell.
 5. (match) Match each animal to how she gets air.  
    **Answer:** Earthworm → Through her wet skin; Mud crab → With gills under her shell; Ant → With air tubes; House spider → With book lungs; Garden snail → With a lung. *Why:* Each body suits its place. A thin worm uses her skin. A crab lives in water, so she uses gills. An ant and a spider live in air, so they use tubes and book lungs. A land snail keeps a wet pocket inside her shell.
 6. (sort) Sort each animal by the main way she gets air.  
@@ -626,21 +626,21 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
    **Answer:** Warm water holds less oxygen, and still water is not refreshed. *Why:* Water holds only a little oxygen, and warm water holds even less. If it does not move, the animals use up what is next to them. A pick of 'no oxygen at all' goes too far, because warm water still holds some.
 11. (order) Put these in the right order to show how air reaches an ant's muscle cell.  
    **Answer:** ['Air goes in through a spiracle on her side', 'Air moves along a wide tube', 'The tube branches into finer tubes', 'Oxygen drifts the last tiny distance into a cell']. *Why:* Air enters at the spiracle and travels the long way along the tubes. Drifting is only used for the last tiny distance, where it is quick.
-12. (write) Write what you think, what you saw and why, for Colour Cubes. Use three sentences.  
+12. (write) For Colour Cubes, write what you thought would happen, what you saw, and why it happened. Use three sentences.  
    **Answer:** A strong answer says what they thought would happen, what they measured (a coloured edge of a few millimetres and a clear middle in the big cube), and why (colour drifts only a short way, so the middle of a big piece stays clear).. *Why:* A good answer has a claim, evidence from the test with real numbers, and a reason that links them.
 13. (write) Why can a flat, thin worm breathe through her skin, but a big crab cannot?  
    **Answer:** Oxygen only drifts a short way. A thin worm has every cell close to the skin. A big crab has a middle far from the outside, so she needs gills to bring the water close.. *Why:* A strong answer says that distance is the problem, and names the fix, such as gills.
 14. (draw) Draw an ant. Show where the air goes in and how it reaches her legs.  
    **Answer:** An ant with holes along her sides, thick tubes running inward, and fine branches reaching the head, tummy and legs.. *Why:* A strong drawing shows spiracles on the sides, tubes that branch into finer ones, and branches that reach the legs and head.
 15. (mcq) What does the gill bailer of a crab do?  
-   Options: She pushes water over her gills / She catches food / She helps her to walk  
-   **Answer:** She pushes water over her gills. *Why:* The gill bailer is a flap near her mouth that beats back and forth. It draws water past her gills so fresh water with new oxygen keeps arriving.
+   Options: It pushes water over her gills / It catches food / It helps her to walk  
+   **Answer:** It pushes water over her gills. *Why:* The gill bailer is a flap near her mouth that beats back and forth. It draws water past her gills so fresh water with new oxygen keeps arriving.
 16. (truefalse) A coconut crab breathes air and would drown in deep water.  
    **Answer:** True. *Why:* True. Her gill chamber has become lung-like. She is a crab, but a crab that breathes like a land animal.
 ### Surface and Distance (stretch) (stretch, 17 questions)
 1. (mcq) A cube 1 centimetre wide has 6 square centimetres of outside and 1 cubic centimetre of inside. A cube 2 centimetres wide has 24 square centimetres outside and 8 cubic centimetres inside. How does the outside for each bit of inside change?  
    Options: It is half as much / It is the same / It is twice as much  
-   **Answer:** It is half as much. *Why:* The small cube has 6 outside for 1 inside. The big cube has 24 outside for 8 inside, which is 3 for each. So each bit of inside has half as much outside.
+   **Answer:** It is half as much. *Why:* The small cube has 6 square centimetres of outside for 1 cubic centimetre of inside. The big cube has 24 square centimetres of outside for 8 cubic centimetres of inside, which works out to 3 square centimetres for each one. Three is half of six, so each bit of inside has half as much outside.
 2. (count) A cube is 4 centimetres wide. How many square centimetres of outside does it have?  
    **Answer:** 96. *Why:* Each face is 4 times 4, which is 16 square centimetres. Six faces make 6 times 16, which is 96 square centimetres.
 3. (fill) Going twice as far takes about ____ times as long.  
@@ -669,8 +669,8 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
    **Answer:** More of a feathery gill touches the water, so more oxygen can drift in. A lump has most of its inside far from the water.. *Why:* A strong answer says that a feathery shape has more surface, and says that more surface means faster gas exchange.
 14. (write) In Sugar Lumps, the crushed sugar vanished faster than the whole lump. Write what this shows, and how a gill uses the same idea.  
    **Answer:** More of the crushed sugar touches the water, so it dissolves faster. A gill is spread into thin feathers, so more of it touches the water, and oxygen comes in faster.. *Why:* A good answer links more surface touching the water to faster change in both sugar and gills.
-15. (perspective) Rukmini and Dev are talking about why earthworms come up on the road after rain.  
-   **Answer:** Answers vary. A strong answer picks a side, gives a reason, and suggests a test, such as checking whether worms also surface in light rain when the soil is not flooded.. *Why:* Scientists still argue about this. Both ideas have some evidence. A good test would separate the two ideas.
+15. (perspective) Here are two ideas about why earthworms come up on the road after rain.  
+   **Answer:** Answers vary. A strong answer picks one idea, gives a reason, and suggests a test, such as checking whether worms also surface in light rain when the soil is not flooded.. *Why:* Scientists still argue about this. Both ideas have some evidence. A good test would separate the two ideas.
 16. (draw) Draw a spider from below. Show a book lung as a stack of thin plates, and label the air opening.  
    **Answer:** A spider's belly with a small slit, and a stack of thin plates like pages inside it.. *Why:* A strong drawing shows the plates as thin and stacked, so they have a lot of surface in a small space.
 17. (mcq) In Drop and Stir, the stirred glass was evenly coloured in seconds, but the still glass stayed patchy. What does this suggest about how a crab breathes?  
@@ -678,7 +678,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
    **Answer:** Moving water brings fresh water to the gills much faster than waiting. *Why:* Still water spreads slowly, so the water next to the gills would soon run out of oxygen. A gill bailer keeps fresh water arriving.
 ### Why Size Matters for Breath (challenge) (challenge, 16 questions)
 1. (count) A cube 6 centimetres wide has 216 cubic centimetres inside and 216 square centimetres outside. A cube 12 centimetres wide has 1,728 cubic centimetres inside and 864 square centimetres outside. How many cubic centimetres of inside are there for each square centimetre of outside in the 12 centimetre cube?  
-   **Answer:** 2. *Why:* 1,728 divided by 864 is 2. The 6 centimetre cube has 1 for 1. Doubling the width doubles the inside for each bit of outside, so each bit of outside has twice as much to serve.
+   **Answer:** 2. *Why:* 1,728 divided by 864 is 2. In the 6 centimetre cube, there is 1 cubic centimetre of inside for each square centimetre of outside. When the width doubles, the inside for each bit of outside doubles too. So in the bigger cube, each bit of outside has twice as much inside to supply with oxygen.
 2. (mcq) In a jelly, a colour takes 25 minutes to drift 1 millimetre. About how long would it take to drift 3 millimetres?  
    Options: About 75 minutes / About 225 minutes / About 28 minutes  
    **Answer:** About 225 minutes. *Why:* Three times as far takes about 3 times 3, which is 9, times as long. 9 times 25 is 225 minutes. A pick of 75 treats the drift as a straight run.
@@ -690,7 +690,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
    Options: More gill surface and faster flow of water over it / A thicker skin / Sleeping all day  
    **Answer:** More gill surface and faster flow of water over it. *Why:* More surface lets more oxygen drift in, and faster flow keeps fresh water arriving. Thicker skin would slow the drift down.
 6. (match) Match each animal to her trick for getting air.  
-   **Answer:** Diving beetle → Carries a bubble of air under her wing covers; Mosquito larva → Hangs at the top of the water to reach the air; Young dragonfly → Has gills inside her tail end; Pond snail → Swims up to fill her lung. *Why:* Each animal lives where air is hard to reach, and each has found its own way. This shows that one problem can have many solutions.
+   **Answer:** Diving beetle → Carries a bubble of air under her wing covers; Mosquito larva → Hangs at the top of the water to reach the air; Young dragonfly → Has gills inside her tail end; Pond snail → Swims up to fill her lung. *Why:* Each animal lives where air is hard to reach, and each has found her own way. This shows that one problem can have many solutions.
 7. (order) Put these in order, from the earliest to the latest, in the story of oxygen.  
    **Answer:** ['Tiny bacteria in the sea make oxygen from sunlight', 'Oxygen builds up in the sea and the air', 'Animals appear that use the oxygen', 'A crab takes oxygen from water at her gills']. *Why:* Oxygen was made first by tiny living beings. It built up over a very long time. Animals came later and breathe it, so every breath depends on what others made.
 8. (fill) Four times as long lets a drifting particle go only ____ as far.  
@@ -704,10 +704,10 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
    **Answer:** False. *Why:* False. A land snail has a lung, a wet pocket under her shell, with a small opening called the breathing pore.
 12. (write) A friend says: 'The big jelly cube had a clear middle because the colour was too weak.' How could you test whether she is right?  
    **Answer:** Make the colour much stronger and test the same cube again. If the middle is still clear, the colour was not the reason. You could also cut a thinner piece, which should be coloured right through.. *Why:* A strong answer changes only the strength of the colour and keeps everything else the same.
-13. (write) Explain why a lung is a clever way for a big animal to meet the air.  
+13. (write) Explain why a lung works well for a big animal that needs to take in air.  
    **Answer:** A lung folds a huge thin wet surface into a small space inside the body. Blood flows close to the air there, so oxygen drifts only a very short way, and the blood carries it round.. *Why:* A strong answer says that it makes a lot of surface in a small space and brings blood and air close together.
-14. (perspective) Ananya and Imran are talking about giant insects that lived 300 million years ago.  
-   **Answer:** Answers vary. A strong answer picks a side, gives a reason, and says what would change their mind, for example finding giants that lived when there was little oxygen.. *Why:* Scientists are still arguing. Both ideas may be partly right. A good answer shows how to find evidence that could settle it.
+14. (perspective) Here are two ideas about the giant insects that lived 300 million years ago.  
+   **Answer:** Answers vary. A strong answer picks one idea, gives a reason, and says what would change their mind, for example finding giants that lived when there was little oxygen.. *Why:* Scientists are still arguing. Both ideas may be partly right. A good answer shows how to find evidence that could settle it.
 15. (draw) Draw two bodies, one thin and one thick. Show with arrows how oxygen can reach the middle of each.  
    **Answer:** A thin body with short arrows through the skin, and a thick body with branching tubes, folds or a pump bringing the air inside.. *Why:* A strong drawing shows that a thin body needs only short arrows from the outside, while a thick body needs tubes, folds or a pump to bring the air closer.
 16. (mcq) When is a still, weedy pond lowest in oxygen?  
@@ -720,12 +720,12 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **The Great Diving Beetle - Water Tiger - Pond Life Fact file** (Pond Lab, 4 min) id `sbO1mvCccgw`: To see a diving beetle carry a bubble of air under her wing covers. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
-1. (mcq) A drifting particle needs a certain time to go a certain distance. Which statement is closest to the truth?  
+1. (mcq) How does the time a drifting particle takes change when the distance doubles?  
    Options: Twice as far takes about four times as long / Twice as far takes twice as long / Distance makes no difference to the time  
    **Answer:** Twice as far takes about four times as long. *Why:* Drifting is a random wander, so each step forward can be undone. The time goes up with the square of the distance.
 2. (mcq) Which has more outside for each bit of inside?  
    Options: A small cube / A big cube / They are the same  
-   **Answer:** A small cube. *Why:* Take a 1 centimetre cube and a 2 centimetre cube. The small one has 6 outside for 1 inside. The big one has 24 for 8, which is only 3 for each.
+   **Answer:** A small cube. *Why:* Take a 1 centimetre cube and a 2 centimetre cube. The small one has 6 square centimetres of outside for 1 cubic centimetre of inside. The big one has 24 square centimetres of outside for 8 cubic centimetres of inside, which is only 3 square centimetres of outside for each cubic centimetre.
 3. (mcq) Which animal gets most of her air through her skin?  
    Options: An earthworm / A mud crab / An ant  
    **Answer:** An earthworm. *Why:* The earthworm is thin and has a wet skin. The crab uses gills, and the ant uses air tubes.
@@ -738,7 +738,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 6. (mcq) A fish farmer sees fish gasping at dawn in a still, warm tank. What should she do first?  
    Options: Add air to the water, move it, and cool it / Feed them more / Add salt  
    **Answer:** Add air to the water, move it, and cool it. *Why:* Still, warm water holds little oxygen, and the night has used it up. Moving and aerating the water brings oxygen back.
-7. (mcq) Whose blood carries most of her oxygen to her cells?  
+7. (mcq) Whose blood carries most of the oxygen to the cells?  
    Options: A person / An ant / A caterpillar  
    **Answer:** A person. *Why:* People carry oxygen in red blood. In ants and caterpillars, air tubes take the oxygen directly to the cells.
 8. (mcq) In open circulation, the blood-like liquid does what?  
@@ -774,7 +774,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 
 ## Open questions
 - **Why did the giant insects of 300 million years ago die out?** Fossils show that they lived, and scientists have several ideas, but no one can run the experiment on the whole ancient Earth.
-- **Why do earthworms come up when it rains?** People have watched it for centuries. Careful tests have not yet separated breathing, travelling and danger from the rain.
+- **Why do earthworms come up when it rains?** People have watched it for centuries. Careful tests have not yet shown which idea is right: breathing, travelling, or danger from the rain.
 - **Did the first animals need much oxygen?** Some living sponges can survive in water with very little oxygen. Scientists do not agree on whether oxygen rose before animals appeared, or after.
 - **Why do some insects open their air holes only now and then, and keep them shut in between?** The pattern is clear in some beetles, but scientists still argue about whether it saves water, helps in the low-oxygen air of burrows, or does something else.
 - **When a crab gasps in water that has little air, does she feel something like we do when we are short of breath?** A crab cannot tell us. Scientists look at what she does, and many now think crabs may feel pain, but no one can be sure what it is like.
@@ -786,7 +786,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - Why do people who keep fish at home often use an air pump?
 - Which animal near our home do you think breathes the least like us?
 - What is the thinnest thing you can find in the kitchen? Could air get through it?
-- Why do you think a bigger animal needs bigger lungs, and not just the same lungs stretched?
+- A bigger animal needs more oxygen. Why do you think their lungs need much more thin, folded surface inside, and not just to be a bigger empty bag?
 - If you could breathe like an ant, what would be hard about that?
 
 ## Jokes
@@ -798,16 +798,16 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - Why was the centipede late for the party? *He had to put on all his shoes.*
 - Why do bees have sticky hair? *They use honeycombs.*
 - What do you call a snail on a ship? *A snailor.*
-- Why did the ant go to the party in a hurry? *She had so many legs to get moving.*
+- Why did the ant go to the party in a hurry? *She had six legs to get moving, and she did not want to be the last one to arrive.*
 
 ## Connected maths
 - In Ring or Core, the red ring had 4, 12, 20 and 28 cells in squares 2, 4, 6 and 8 cells wide. What pattern do the ring numbers follow? Use it to find the ring for a square 10 cells wide and 12 cells wide. **Each ring is 8 more than the last. A 10 wide square has 36 ring cells. A 12 wide square has 44.**. 4 plus 8 is 12, 12 plus 8 is 20, and 20 plus 8 is 28. Going on, 28 plus 8 is 36, and 36 plus 8 is 44. You could also use the rule: 4 times the width, take away 4. (queues `math.patterns.number-patterns.L4`)
-- In Colour Cubes, the colour crept 2 millimetres into the jelly in 10 minutes. If it keeps to the same rule, about how long to creep 4 millimetres, and how long to creep 6 millimetres? **About 40 minutes for 4 millimetres, and about 90 minutes for 6 millimetres.**. 4 millimetres is twice as far, so about 2 times 2, which is 4, times as long: 40 minutes. 6 millimetres is three times as far, so about 3 times 3, which is 9, times as long: 90 minutes. (queues `math.multiplication.multiplication-facts.L4`)
+- In Colour Cubes, the colour crept 2 millimetres into the jelly in 10 minutes. If it keeps to the same rule, about how long would it take to creep 4 millimetres? And how long to creep 6 millimetres? **About 40 minutes for 4 millimetres, and about 90 minutes for 6 millimetres.**. 4 millimetres is twice as far, so about 2 times 2, which is 4, times as long: 40 minutes. 6 millimetres is three times as far, so about 3 times 3, which is 9, times as long: 90 minutes. (queues `math.multiplication.multiplication-facts.L4`)
 - A cube 1 centimetre wide has 6 square centimetres of outside, a cube 2 centimetres wide has 24, and a cube 3 centimetres wide has 54. How many times bigger is the outside of the 3 centimetre cube than the 1 centimetre cube? How many times bigger is its inside, if the 1 centimetre cube holds 1 cubic centimetre and the 3 centimetre cube holds 27? **Its outside is 9 times bigger and its inside is 27 times bigger.**. 54 divided by 6 is 9. 27 divided by 1 is 27. The inside grows faster than the outside, so each bit of inside is further from the outside in the bigger cube. (queues `math.area-perimeter.area.L4`)
-- Zoya played Wobbly Walk. For the ant she needed 14, 22 and 19 flips. For the crab she needed 61, 88 and 52. Find the average for each. About how many times as many flips did the crab need? **Ant: 55 divided by 3 is about 18 flips. Crab: 201 divided by 3 is 67 flips. The crab needed about 4 times as many.**. 14 plus 22 plus 19 is 55. 55 divided by 3 is about 18. 61 plus 88 plus 52 is 201. 201 divided by 3 is 67. 67 divided by 18 is about 4. (queues `math.data.reading-data.L4`)
+- In a game of Wobbly Walk, the ant needed 14, 22 and 19 flips. The crab needed 61, 88 and 52 flips. Find the average for each. About how many times as many flips did the crab need? **Ant: 55 divided by 3 is about 18 flips. Crab: 201 divided by 3 is 67 flips. The crab needed about 4 times as many.**. 14 plus 22 plus 19 is 55. 55 divided by 3 is about 18. 61 plus 88 plus 52 is 201. 201 divided by 3 is 67. 67 divided by 18 is about 4. (queues `math.data.reading-data.L4`)
 - In Wobbly Walk, the token goes in on heads and back on tails. If you flip a fair coin 100 times, about how many heads and how many tails will you get? Where will the token be, on average, and why does it take so long to reach the middle? **About 50 heads and 50 tails. The steps in and out cancel, so the token ends up near where it started. It only reaches the middle when chance happens to give a run of heads.**. A fair coin gives heads about half the time. About half of the steps go in and half go back. Nothing pushes the token in one direction, so it wanders, and wandering covers a long distance very slowly. (queues `math.probability.experiments.L4`)
 - Water holds about 30 times less oxygen than air. A crab needs the oxygen in 2 litres of air every hour. About how many litres of water must pass over her gills in an hour? In 10 hours? **About 60 litres in an hour. About 600 litres in 10 hours.**. She needs 30 times as much water, because it holds 30 times less oxygen. 2 times 30 is 60 litres. In 10 hours that is 10 times 60, which is 600 litres. (queues `math.fractions.ratio-and-proportion.L4`)
-- A still pond holds 9 milligrams of oxygen in a litre of water at 20 degrees. At 30 degrees it holds 7.5 milligrams in a litre. How many milligrams less does it hold when warm? Is that more than one-tenth less, or less than one-tenth less? **1.5 milligrams less. One-tenth of 9 is 0.9, so it is more than one-tenth less.**. 9 take away 7.5 is 1.5. One-tenth of 9 is 0.9, and 1.5 is bigger than 0.9. So warm water holds noticeably less, about one-sixth less. (queues `math.fractions.decimals-and-percentages.L4`)
+- A still pond holds 9 milligrams of oxygen in a litre of water at 20 degrees. At 30 degrees it holds 7.5 milligrams in a litre. How many milligrams less does it hold when warm? Is that drop bigger or smaller than one-tenth of 9 milligrams? **1.5 milligrams less. One-tenth of 9 is 0.9, so it is more than one-tenth less.**. 9 take away 7.5 is 1.5. One-tenth of 9 is 0.9, and 1.5 is bigger than 0.9. So warm water holds noticeably less, about one-sixth less. (queues `math.fractions.decimals-and-percentages.L4`)
 
 ## Song
 Fast Lives, Slow Lives (sci.animals.L4): Topic-level song

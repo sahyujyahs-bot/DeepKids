@@ -115,11 +115,11 @@
    "concept": "Bigger bodies have less outside for the inside they hold",
    "status": "defined",
    "definition": "As a body gets bigger, its inside grows faster than its outside. A cube twice as wide has four times the outside and eight times the inside.",
-   "description": "Look at a cube 1 centimetre wide. It has 6 square centimetres of outside and 1 cubic centimetre of inside. Now make a cube 2 centimetres wide. The outside grows to 24 square centimetres, which is 4 times more. But the inside grows to 8 cubic centimetres, which is 8 times more. Each bit of inside has only half as much outside to reach. This is why a tiny animal can breathe through their skin, and a big one cannot. As a body grows, it must find new ways to bring the outside nearer: a thin shape, folds, tubes or a pump.",
+   "description": "Look at a cube 1 centimetre wide. It has 6 square centimetres of outside and 1 cubic centimetre of inside. Now make a cube 2 centimetres wide. The outside grows to 24 square centimetres, which is 4 times more. But the inside grows to 8 cubic centimetres, which is 8 times more. So each bit of the inside has only half as much outside to get its oxygen from. This is why a tiny animal can breathe through her skin, and a big one cannot. As a body gets bigger, it needs another way to bring the outside closer to every part. A body can stay thin. It can fold its surface into gills. It can grow air tubes. Or it can use a pump.",
    "context": "You counted squares in Ring or Core and measured clear middles in Colour Cubes. This card puts the two ideas together.",
    "examples": [
     "A flatworm is thin as a leaf, so every cell is close to the outside.",
-    "A crab is thick, so she folds her outside into gills.",
+    "A crab is thick, so skin alone could not feed her middle with oxygen. Instead she has gills, which are thin, feathery folds that give her a large surface to take oxygen in.",
     "A baby elephant and a mouse breathe the same air, but only the elephant needs big lungs folded into her chest."
    ],
    "art": "A 1 centimetre cube and a 2 centimetre cube side by side, with the number of outside faces and the amount of inside written on each.",
@@ -160,7 +160,7 @@
    "description": "An insect does not breathe in at one place and send the oxygen round in blood. Instead, air goes in through the spiracles and along the tracheae. The tubes branch again and again, down to threads thinner than a hair. The finest ones end right against the cells that need the oxygen. Oxygen drifts about ten thousand times faster through air than through water. So drifting along a tube is fast enough for a small body. Larger insects also pump their bellies to push air along. Most insects can close their spiracles to save water. Because the air goes straight to the cells, an insect's blood does not need to carry most of the oxygen.",
    "context": "An ant has no lungs, yet she runs fast and lifts crumbs bigger than her head. This card shows how.",
    "examples": [
-    "An ant has a row of tiny holes down each side of her body.",
+    "An ant has a row of tiny holes down each side of her body. These holes are her spiracles, and air goes in through them.",
     "A caterpillar has a row of dark dots along her sides, which are her spiracles.",
     "A diving beetle carries a bubble of air under her wing covers, and her air tubes open into it."
    ],
@@ -228,8 +228,8 @@
    "description": "After heavy rain, earthworms appear on roads and paths. Almost everyone has seen it. Nobody has settled why it happens.",
    "context": "Earthworms breathe through their skin, so people often guess that rain makes them come up for air. This card gives the main ideas.",
    "examples": [
-    "Earthworms on a wet road after the first monsoon showers.",
-    "Worms crawling up the wall of a flowerpot after heavy watering."
+    "After the first monsoon showers, earthworms appear on wet roads.",
+    "After heavy watering, worms crawl up the wall of a flowerpot."
    ],
    "art": "A wet road after rain with several earthworms crawling across it and raindrops falling.",
    "perspectives": [
@@ -417,8 +417,8 @@
  "roots": {
   "context": "We have followed oxygen into worms, ants, crabs, snails and spiders. Now we ask what this tells us about all bodies, including our own.",
   "deep_truth": {
-   "truth": "In the Colour Cubes experiment, the colour crept only a few millimetres into the jelly, however big the cube. Oxygen drifts through a body in the same slow way. So every animal is built to keep the outside world close to every part of their body. Gills, air tubes and lungs all do that one job.",
-   "habit": "We say an animal breathes with their lungs, as if breathing happened in one organ. But every cell needs oxygen, so breathing happens everywhere. A lung or a gill is a way of folding the outside deep into the body.",
+   "truth": "In the Colour Cubes experiment, the colour crept only a few millimetres into the jelly, however big the cube. Oxygen drifts through a body in the same slow way. So every animal needs a way to bring air or water close to every part of their body. Gills, air tubes and lungs all do that same job, in different ways.",
+   "habit": "We say an animal breathes with their lungs, as if breathing happened in one organ. But every cell needs oxygen, so breathing happens in every part of the body. A lung or a gill is a body part that gives air or water a large, thin, wet surface to touch the blood, deep inside the body.",
    "evidence": "In Colour Cubes, the thin slice was coloured right through, but the big cube still had a clear middle after 40 minutes. Drifting alone cannot reach the middle of a thick body. Worms stay thin, crabs fold gills, and ants branch tubes to every part."
   },
   "three": {
@@ -456,12 +456,12 @@
   ],
   "other_view": {
    "who": "Many biologists",
-   "view": "A gill or a tube is a tool that natural selection shaped step by step, because animals with a better air supply left more young. On this view, 'the outside folded in' is a useful way to picture it, but nothing planned it."
+   "view": "A gill or a tube is a tool that natural selection shaped step by step, because animals with a better air supply left more young. On this view, it helps to picture a gill or a tube as a way of bringing the outside deep into the body. But nobody planned it that way. It happened because animals with a better air supply left more young."
   },
   "practice": {
    "title": "Breath at the edge",
    "mins": 3,
-   "say": "Sit still and hold one hand in front of your nose. Breathe out and feel the warm air on your hand. Breathe in and feel the cooler air. Now picture the air reaching your fingertips and your toes, all the way to your smallest parts. An ant does this with no lungs at all. Ask yourself, where does the air stop and I begin?",
+   "say": "Sit still and hold one hand in front of your nose. Breathe out and feel the warm air on your hand. Breathe in and feel the cooler air. Now picture the air reaching your fingertips and your toes, all the way to your smallest parts. An ant does this with no lungs at all. Now ask yourself a question. The air you just breathed in is going into your body, so is it part of you yet?",
    "kid": "Sit still and hold one hand near your nose. Breathe out and feel the warm air. Breathe in and feel the cool air. Now think of an ant breathing too."
   },
   "ask": [
@@ -874,7 +874,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up must boil the agar and use the knife. Hot jelly burns like hot water. Food colour stains hands and clothes, so wear an old shirt. Do not eat the coloured jelly. Keep little ones away from the hot pan. Children measure with the ruler; the grown-up does all the cutting.",
+   "safety": "A grown-up must boil the agar and use the knife. Hot jelly burns like hot water. Food colour stains hands and clothes, so wear an old shirt. Do not eat the coloured jelly. Keep little ones away from the hot pan. Children measure with the ruler. The grown-up does all the cutting.",
    "record": "Fill in the table for each piece. Write the width of the coloured edge and the width of the clear middle in millimetres. Then write what you thought would happen, what you saw, and why it happened.",
    "context": "In this test you make clear jelly, cut it into three shapes, and soak them in colour. You find out how far the colour creeps in after 10 minutes and after 40 minutes.",
    "setup": [
@@ -1275,7 +1275,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write it down. One child: do all three glasses. Two to four children: each child owns one glass and drops the colour; the fourth child may add a bonus glass D, warm and stirred. Share the timer and swap who watches.",
+     "parent": "Do not correct the guess. Write it down. One child: do all three glasses. Two to four children: each child owns one glass and drops the colour. The fourth child may add a bonus glass D, warm and stirred. Share the timer and swap who watches.",
      "context": "This is the first step of Drop and Stir. You guess before you test."
     },
     {
@@ -1394,7 +1394,7 @@
       {
        "q": "When the animal gets wider, which grows faster, the edge cells or the middle cells? Why?",
        "good": [
-        "The middle, because it grows in two ways.",
+        "The middle, because it grows wider and also taller, while the edge is only one thin ring.",
         "The edge, because it is on the outside."
        ]
       }
@@ -1527,7 +1527,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "You should have found 24, 28, 34 and 48 faces. Which shape is the 24?",
+      "q": "The four shapes should show 24, 28, 34 and 48 faces. Which shape showed 24 faces?",
       "options": [
        "The solid block",
        "The long line",
@@ -1887,7 +1887,7 @@
    "mins": 35,
    "materials": [
     {
-     "item": "1 cardboard roll from kitchen foil or cling film, about 30 centimetres long. A toilet roll is too short; if you have none, tape two or three toilet rolls end to end",
+     "item": "1 cardboard roll from kitchen foil or cling film, about 30 centimetres long. A toilet roll is too short. If you have none, tape two or three toilet rolls end to end",
      "qty": 1
     },
     {
@@ -2089,7 +2089,7 @@
      "do": "Test each design. Put a drop of colour at one end and start the timer. Use your design to mix the water. Stop the clock when the colour looks even from above. Write each time down.",
      "say": "Try each idea. Drop the colour. Start the timer. Use your design. Stop when the colour looks even. Write the time.",
      "kid": "Test each idea. Time it. Write the times.",
-     "parent": "Between tests, change the water, or use a second bowl, so the colour from the last test does not confuse the next one. Typical times run from a few seconds to over a minute, and they depend on your bowl and design. A grown-up pokes the hole if a child tries the paper-cup waterfall; use a pencil point and a firm table. Each child can test their own design in their own bowl, or share one bowl and time each other.",
+     "parent": "Between tests, change the water, or use a second bowl, so the colour from the last test does not confuse the next one. Typical times run from a few seconds to over a minute, and they depend on your bowl and design. A grown-up pokes the hole if a child tries the paper-cup waterfall. Use a pencil point and a firm table. Each child can test their own design in their own bowl, or share one bowl and time each other.",
      "context": "In this step, you build and test your designs."
     },
     {
@@ -2433,7 +2433,7 @@
       "It is twice as much"
      ],
      "a": 0,
-     "why": "The small cube has 6 outside for 1 inside. The big cube has 24 outside for 8 inside, which is 3 for each. So each bit of inside has half as much outside.",
+     "why": "The small cube has 6 square centimetres of outside for 1 cubic centimetre of inside. The big cube has 24 square centimetres of outside for 8 cubic centimetres of inside, which works out to 3 square centimetres for each one. Three is half of six, so each bit of inside has half as much outside.",
      "outcome": 1
     },
     {
@@ -2654,7 +2654,7 @@
      "t": "count",
      "p": "A cube 6 centimetres wide has 216 cubic centimetres inside and 216 square centimetres outside. A cube 12 centimetres wide has 1,728 cubic centimetres inside and 864 square centimetres outside. How many cubic centimetres of inside are there for each square centimetre of outside in the 12 centimetre cube?",
      "a": "2",
-     "why": "1,728 divided by 864 is 2. The 6 centimetre cube has 1 for 1. Doubling the width doubles the inside for each bit of outside, so each bit of outside has twice as much to serve.",
+     "why": "1,728 divided by 864 is 2. In the 6 centimetre cube, there is 1 cubic centimetre of inside for each square centimetre of outside. When the width doubles, the inside for each bit of outside doubles too. So in the bigger cube, each bit of outside has twice as much inside to supply with oxygen.",
      "outcome": 1
     },
     {
@@ -2810,7 +2810,7 @@
     },
     {
      "t": "write",
-     "p": "Explain why a lung is a clever way for a big animal to meet the air.",
+     "p": "Explain why a lung works well for a big animal that needs to take in air.",
      "lines": 3,
      "a": "A lung folds a huge thin wet surface into a small space inside the body. Blood flows close to the air there, so oxygen drifts only a very short way, and the blood carries it round.",
      "why": "A strong answer says that it makes a lot of surface in a small space and brings blood and air close together.",
@@ -2878,7 +2878,7 @@
     "They are the same"
    ],
    "a": 0,
-   "why": "Take a 1 centimetre cube and a 2 centimetre cube. The small one has 6 outside for 1 inside. The big one has 24 for 8, which is only 3 for each.",
+   "why": "Take a 1 centimetre cube and a 2 centimetre cube. The small one has 6 square centimetres of outside for 1 cubic centimetre of inside. The big one has 24 square centimetres of outside for 8 cubic centimetres of inside, which is only 3 square centimetres of outside for each cubic centimetre.",
    "outcome": 1
   },
   {
@@ -3092,7 +3092,7 @@
   "Why do people who keep fish at home often use an air pump?",
   "Which animal near our home do you think breathes the least like us?",
   "What is the thinnest thing you can find in the kitchen? Could air get through it?",
-  "Why do you think a bigger animal needs bigger lungs, and not just the same lungs stretched?",
+  "A bigger animal needs more oxygen. Why do you think their lungs need much more thin, folded surface inside, and not just to be a bigger empty bag?",
   "If you could breathe like an ant, what would be hard about that?"
  ],
  "jokes": [
@@ -3130,7 +3130,7 @@
   },
   {
    "j": "Why did the ant go to the party in a hurry?",
-   "a": "She had so many legs to get moving."
+   "a": "She had six legs to get moving, and she did not want to be the last one to arrive."
   }
  ],
  "maths": [
@@ -3187,7 +3187,7 @@
    "why_maths": "A ratio shows how much more water than air an animal with gills must move, which is why gills need a bailer or a current."
   },
   {
-   "problem": "A still pond holds 9 milligrams of oxygen in a litre of water at 20 degrees. At 30 degrees it holds 7.5 milligrams in a litre. How many milligrams less does it hold when warm? Is that more than one-tenth less, or less than one-tenth less?",
+   "problem": "A still pond holds 9 milligrams of oxygen in a litre of water at 20 degrees. At 30 degrees it holds 7.5 milligrams in a litre. How many milligrams less does it hold when warm? Is that drop bigger or smaller than one-tenth of 9 milligrams?",
    "answer": "1.5 milligrams less. One-tenth of 9 is 0.9, so it is more than one-tenth less.",
    "explain": "9 take away 7.5 is 1.5. One-tenth of 9 is 0.9, and 1.5 is bigger than 0.9. So warm water holds noticeably less, about one-sixth less.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -3416,5 +3416,117 @@
   "wrong_idea": "Aristotle thought breathing cools the heart, and that insects were 'bloodless' animals. Malpighi's microscope showed that insects have air tubes reaching every part, and later work showed that every cell uses oxygen."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Colour Cubes is the key test, so it was worked out carefully. Agar jelly set with 2 teaspoons of powder in 500 millilitres of water holds a cut cube, and food colour moves in about 2 to 3 millimetres in 40 minutes and about 1 to 2 millimetres in 10 minutes. The exact numbers will vary, and the steps say to write what you see. If the colour is too pale, add more food colour. If a cube is coloured right through, cut the next one earlier. Wobbly Walk was run many times on a computer: with a coin, the average number of flips is about 6 for a 2-square body, 20 for 4 squares and 72 for 8 squares, and about 14 flips for 8 squares with the pump. Sugar cube dissolving times depend on the water temperature, so the steps use the same glass and water for every test. Facts to check before this unit goes live: that air holds about 30 times more oxygen than the same amount of water, that the coconut crab lives on the Andaman and Nicobar Islands, that Meganeura wings were about 65 to 70 centimetres across, that Krogh's 1919 paper made the diffusion point, that the 2003 X-ray study of beetles is correctly described, and that the Marine Biodiversity Museum in Kochi is open to visitors. Colour Cubes takes about 90 minutes from start to finish, because the jelly must set and the colour needs 40 minutes, but only about 50 minutes are hands-on, and the waiting time suits Ring or Core. Cut the jelly with one clean press, not a sawing movement, and wipe the knife between cuts, or the knife drags colour across the clear middle. The videos have no address yet.",
- "warm": {"words": ["GILLS", "LUNGS", "TUBES", "WATER", "CELLS"], "quiz": [["Spiders breathe with book lungs, stacks of thin plates with air between them.", true, "Many thin plates give a big surface where air and blood can meet."], ["Twice the distance takes twice the time for oxygen to drift across.", false, "Drifting time grows with the square of the distance, so twice as far takes about four times as long."], ["An earthworm breathes mainly through her skin, which must stay damp.", true, "Oxygen passes only through a thin, wet surface, so a dry worm cannot breathe."], ["Only animals with lungs really breathe.", false, "Every animal needs oxygen in every cell. Worms, crabs and ants breathe with skin, gills and tubes."], ["Insects carry air through tiny tubes that reach almost every cell.", true, "Spiracles lead into branching air tubes, so oxygen reaches cells without travelling in the blood."], ["An ant's blood carries oxygen to her muscles, as ours does.", false, "Insect haemolymph carries food and messages. Air tubes bring oxygen straight to the cells."], ["A bigger body has less outside for each bit of inside.", true, "A cube twice as wide has four times the outside but eight times the inside."], ["Small animals are simple animals, because they are small.", false, "An ant has muscles, eyes, air tubes to every cell, and a nest of thousands."], ["Water holds much less oxygen than air, and warm water holds even less.", true, "That is why animals in water need gills and must keep water moving over them."], ["A crab drowns if she leaves the water, so no crab breathes air.", false, "The coconut crab of the Andaman and Nicobar Islands breathes air and climbs palms."]], "odd": [[["Gills", "Spiracles", "Book lungs", "Blood-like liquid"], "Blood-like liquid", "Gills, spiracles and book lungs take oxygen in from outside; the liquid only carries things inside the body."], [["Ant", "Beetle", "Dragonfly", "Crab"], "Crab", "Ants, beetles and dragonflies breathe through air tubes; a crab breathes with gills."], [["Feathery gill", "Book lung plates", "Branching air tubes", "Smooth ball"], "Smooth ball", "The first three have lots of surface for gas exchange; a smooth ball has little outside for its inside."], [["Banyan tree", "Pond algae", "Tiny sea bacteria", "Ant"], "Ant", "The first three make oxygen using sunlight; an ant only uses oxygen."], [["Colour in jelly", "Smell in still air", "Ink in still water", "Water pumped in pipe"], "Water pumped in pipe", "The first three spread slowly by drifting alone; a pump pushes the water along."]]}
+ "warm": {
+  "words": [
+   "GILLS",
+   "LUNGS",
+   "TUBES",
+   "WATER",
+   "CELLS"
+  ],
+  "quiz": [
+   [
+    "Spiders breathe with book lungs, stacks of thin plates with air between them.",
+    true,
+    "Many thin plates give a big surface where air and blood can meet."
+   ],
+   [
+    "Twice the distance takes twice the time for oxygen to drift across.",
+    false,
+    "Drifting time grows with the square of the distance, so twice as far takes about four times as long."
+   ],
+   [
+    "An earthworm breathes mainly through her skin, which must stay damp.",
+    true,
+    "Oxygen passes only through a thin, wet surface, so a dry worm cannot breathe."
+   ],
+   [
+    "Only animals with lungs really breathe.",
+    false,
+    "Every animal needs oxygen in every cell. Worms, crabs and ants breathe with skin, gills and tubes."
+   ],
+   [
+    "Insects carry air through tiny tubes that reach almost every cell.",
+    true,
+    "Spiracles lead into branching air tubes, so oxygen reaches cells without travelling in the blood."
+   ],
+   [
+    "An ant's blood carries oxygen to her muscles, as ours does.",
+    false,
+    "Insect haemolymph carries food and messages. Air tubes bring oxygen straight to the cells."
+   ],
+   [
+    "A bigger body has less outside for each bit of inside.",
+    true,
+    "A cube twice as wide has four times the outside but eight times the inside."
+   ],
+   [
+    "Small animals are simple animals, because they are small.",
+    false,
+    "An ant has muscles, eyes, air tubes to every cell, and a nest of thousands."
+   ],
+   [
+    "Water holds much less oxygen than air, and warm water holds even less.",
+    true,
+    "That is why animals in water need gills and must keep water moving over them."
+   ],
+   [
+    "A crab drowns if she leaves the water, so no crab breathes air.",
+    false,
+    "The coconut crab of the Andaman and Nicobar Islands breathes air and climbs palms."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Gills",
+     "Spiracles",
+     "Book lungs",
+     "Blood-like liquid"
+    ],
+    "Blood-like liquid",
+    "Gills, spiracles and book lungs take oxygen in from outside. The liquid only carries things around inside the body."
+   ],
+   [
+    [
+     "Ant",
+     "Beetle",
+     "Dragonfly",
+     "Crab"
+    ],
+    "Crab",
+    "Ants, beetles and dragonflies breathe through air tubes. A crab breathes with gills."
+   ],
+   [
+    [
+     "Feathery gill",
+     "Book lung plates",
+     "Branching air tubes",
+     "Smooth ball"
+    ],
+    "Smooth ball",
+    "The first three have a lot of surface for gas exchange. A smooth ball has very little outside for the inside it holds."
+   ],
+   [
+    [
+     "Banyan tree",
+     "Pond algae",
+     "Tiny sea bacteria",
+     "Ant"
+    ],
+    "Ant",
+    "The first three make oxygen using sunlight. An ant only uses oxygen."
+   ],
+   [
+    [
+     "Colour in jelly",
+     "Smell in still air",
+     "Ink in still water",
+     "Water pumped in pipe"
+    ],
+    "Water pumped in pipe",
+    "The first three spread slowly by drifting alone. A pump pushes the water along."
+   ]
+  ]
+ }
 }

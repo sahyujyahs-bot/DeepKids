@@ -248,7 +248,7 @@
       "concept": "The brain: born with more connections than we keep",
       "status": "defined",
       "definition": "A young child's brain makes many more connections between nerve cells than it keeps. Connections that are used get stronger, and connections that are not used fade.",
-      "description": "A newborn already has most of the roughly 86 billion nerve cells they will ever have. A newborn's brain weighs about a quarter to a third of an adult brain. By age three it is about four-fifths of the adult size, and by age five about nine-tenths. In those years, the number of synapses shoots up. In 1979 the neurologist Peter Huttenlocher counted synapses in brains and found that a young child has far more than an adult. Then the brain prunes, which means it cuts back. Synapses that are used often are made stronger. Synapses that are not used are removed. This is how practice works. When you practise a skill, you make particular connections stronger, and the skill gets faster and easier. London taxi drivers must learn the whole city. A study in 2000, led by Eleanor Maguire, found that the back part of their hippocampus, a part of the brain used for finding the way, was larger than in other adults. A brain is shaped by what it does.",
+      "description": "A newborn already has most of the roughly 86 billion nerve cells they will ever have. A newborn's brain weighs about a quarter to a third of an adult brain. By age three it is about four-fifths of the adult size, and by age five about nine-tenths. In those years, the number of synapses shoots up. In 1979 the neurologist Peter Huttenlocher counted synapses in brains and found that a young child has far more than an adult. Then the brain prunes, which means it cuts back. Synapses that are used often are made stronger. Synapses that are not used are removed. This is how practice works. When you practise a skill, you make particular connections stronger, and the skill gets faster and easier. London taxi drivers must learn the whole city. A study in 2000, led by Eleanor Maguire, found that the back part of their hippocampus, a part of the brain used for finding the way, was larger than in other adults. So what a person does again and again changes how their brain is wired.",
       "examples": [
         "A baby who hears two languages keeps the sounds of both.",
         "A skill such as riding a cycle feels hard at first, and then your connections strengthen and it feels easy.",
@@ -444,7 +444,7 @@
       {
         "source": "Chandogya Upanishad 6.12",
         "teaching": "A father, Uddalaka, asks his son Shvetaketu to break open a fruit of the banyan tree, and then to break open one of its tiny seeds. 'What do you see?' 'Nothing, sir.' The father says that from this unseen essence, a great banyan tree grows.",
-        "link": "A fertilised egg is too small to see, and nothing inside it looks like a body. Yet it holds the instructions for a whole person. Like the banyan seed, something unseen carries everything that will grow."
+        "link": "A fertilised egg is too small to see, and nothing inside it looks like a body. Yet it holds the instructions for a whole person. In the same way, a banyan seed is tiny and shows no sign of a tree, yet it holds everything the tree will grow into."
       },
       {
         "source": "Tao Te Ching 42",
@@ -1174,7 +1174,7 @@
               ]
             }
           ],
-          "parent": "Gains in length: 11 centimetres in the first three months, 6 in the next three, 4 in the next three, 4 in the next three, and 12 in the whole second year. Because the steps are different lengths, compare centimetres per month: about 3.7, 2, 1.3, 1.3 and 1. The gain of 12 looks big only because it covers a whole year. The line is steepest at the start. After they have made their own claim, explain: a baby grows fastest in the womb and just after birth, and then more slowly. Growth speeds up again in the early teens. Never compare your child to another child. Compare them to their own line. One child with a parent: they plot together. Two to four children: each child plots the line, and one child reads out the numbers and another works out centimetres per month, then swap.",
+          "parent": "The baby gained 11 centimetres in the first three months, 6 in the next three, 4 in the next three, 4 in the three after that, and 12 in the whole second year. Because these spans are different lengths, compare centimetres per month. That works out to about 3.7, then 2, then 1.3, then 1.3, and about 1 in the second year. The gain of 12 looks big only because it covers a whole year. The line is steepest at the start. After they have made their own claim, explain: a baby grows fastest in the womb and just after birth, and then more slowly. Growth speeds up again in the early teens. Never compare your child to another child. Compare them to their own line. One child with a parent: they plot together. Two to four children: each child plots the line, and one child reads out the numbers and another works out centimetres per month, then swap.",
           "think": "If a baby kept growing 11 centimetres every three months, how tall would they be at 10 years old?",
           "context": "In this step, you read the graph and say when growth is fastest."
         }
@@ -2552,7 +2552,7 @@
     },
     {
       "q": "Do a skin cell and a nerve cell in the same person hold the same genes?",
-      "a": "Yes. They use different ones."
+      "a": "Yes. They hold the same genes, but each kind of cell uses different ones."
     },
     {
       "q": "What does a signal do as it spreads out from its source?",
@@ -2653,7 +2653,7 @@
       "Burton, G. J. and Jauniaux, E., What is the placenta?, American Journal of Obstetrics and Gynecology 213 (supplement), S6, 2015",
       "WHO Multicentre Growth Reference Study Group, WHO Child Growth Standards, Acta Paediatrica Supplement 450, 2006",
       "Greulich, W. W. and Pyle, S. I., Radiographic Atlas of Skeletal Development of the Hand and Wrist, Stanford University Press, 1950",
-"Cohen, S., Levi-Montalcini, R. and Hamburger, V., A nerve growth-stimulating factor isolated from sarcomas 37 and 180, PNAS 40, 1014-1018, 1954 (nerve growth factor; Nobel Prize in Physiology or Medicine 1986 to Levi-Montalcini and Cohen)",
+      "Cohen, S., Levi-Montalcini, R. and Hamburger, V., A nerve growth-stimulating factor isolated from sarcomas 37 and 180, PNAS 40, 1014-1018, 1954 (nerve growth factor; Nobel Prize in Physiology or Medicine 1986 to Levi-Montalcini and Cohen)",
       "Huttenlocher, P. R., Synaptic density in human frontal cortex: developmental changes and effects of aging, Brain Research 163, 195-205, 1979",
       "Dobbing, J. and Sands, J., Quantitative growth and development of human brain, Archives of Disease in Childhood 48, 757-767, 1973",
       "Azevedo, F. A. C. et al., Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain, Journal of Comparative Neurology 513, 532-541, 2009",
@@ -2670,5 +2670,117 @@
     "wrong_idea": "Roux said cells are fixed on their jobs from the start, because half an embryo grew from one live cell. Driesch showed that cells from an early embryo can each make a whole animal. Mangold showed that a small group of cells tells their neighbours what to become."
   },
   "playtest": "I could not run the experiments here, so this is a desk check, step by step, with a flat's kitchen in mind. Colour Map (e1): paper towel, food colour, two katoris and a tray are all common. The result depends on the dye strength, the paper and the weather. Start with 5 drops, use the dye front as the clock (usually 10 to 30 minutes, slower in damp weather), and the steps say what to do if the strip comes out all dark, all pale or stalls. I have not seen the fade on a real strip, so a parent should try one spare strip first. Wrong-Hand Writing (e2): needs only a pen, paper and a clock. Most people speed up in the first three tries, but it is not certain, and the steps say what to do if a time goes up. Hand activity: raw dough should not be eaten, wheat allergy is covered, and the knife is blunt. My Growth Line: the lengths are rounded from WHO medians and the steps compare centimetres per month. Timeline Detective: all 22 cards are written out, with typical ages and a note that babies differ. Played with 1 to 4 players in my head: alone, count points out of 21. The family interviews are optional for families without elders nearby, and ask only what people want to share. Three Stripes: the three-katori dilution method usually works, and strong colours may need fewer drops. Facts to check before this goes out: the placenta's villous surface of about 12 square metres (varies by source), the 'week' numbers on the timeline cards (counted from when the baby began, not from the mother's last period), Mangold's age and the details of her death, the claim that the duck's webbing comes from fewer cells dying, and the newborn brain weight of about 350 grams. No video was checked, because no ids are filled in.",
- "warm": {"words": ["CELLS", "GENES", "TWINS", "BONES", "BRAIN"], "quiz": [["Nearly every cell in your body holds the same full set of instructions.", true, "Each kind of cell reads only the instructions it needs for its own job."], ["Cells are born knowing which job they will do.", false, "Early cells pulled apart can each make a whole body, so jobs come from neighbours' signals."], ["When cells die inside a growing body, it always means damage or disease.", false, "Cells also die on purpose, on a signal, to shape parts such as the gaps between fingers."], ["A chemical signal that gets weaker with distance helps a cell learn where they are.", true, "Cells close to the source get a lot of signal and cells far away get little, so they take different jobs."], ["The placenta is only a pipe that passes the mother's food to the baby.", false, "It is built by the baby's cells, makes hormones, passes antibodies and takes waste away."], ["A young child's brain keeps the connections that are used and loses the ones that are not.", true, "Used connections get stronger and unused ones fade, so practice shapes the brain."], ["Your genes decide everything about you, so food and care make no difference to height.", false, "Identical twins can differ, and children who are not fed well do not reach their full height."], ["Identical twins can start when a young ball of cells splits and each half makes a baby.", true, "Early cells have not yet settled on their jobs, so each half can build a whole body."], ["A newborn has more bone pieces than an adult, because many pieces join as a child grows.", true, "A newborn has about 300 pieces, partly soft cartilage; an adult has 206 harder bones."], ["We only use ten percent of our brain.", false, "Scans show nearly all parts of the brain are active over a day, and damage almost anywhere has an effect."]], "odd": [[["Passes oxygen", "Takes waste away", "Passes antibodies", "Mixes the two bloods"], "Mixes the two bloods", "The placenta does the other three jobs, but keeps the mother's and baby's blood apart with a thin wall."], [["Age 1 year", "Age 2 years", "Age 13 years", "Age 8 years"], "Age 8 years", "Growth is fast in the first two years and in the early teens, and slower in middle childhood."], [["Heat from a fire", "Light from a lamp", "Signal from an organiser", "Weight of a stone"], "Weight of a stone", "Heat, light and a chemical signal all get weaker as you move away; a stone's weight does not."], [["Lungs fill with air", "Blood flows through lungs", "Heart shortcuts close", "Placenta starts to grow"], "Placenta starts to grow", "The other three switch the body over at birth; the placenta begins to grow much earlier, in the womb."], [["Stem cell", "Skin cell", "Nerve cell", "Bone cell"], "Stem cell", "Skin, nerve and bone cells have settled on one job; a stem cell has not yet settled."]]}
+  "warm": {
+    "words": [
+      "CELLS",
+      "GENES",
+      "TWINS",
+      "BONES",
+      "BRAIN"
+    ],
+    "quiz": [
+      [
+        "Nearly every cell in your body holds the same full set of instructions.",
+        true,
+        "Each kind of cell reads only the instructions it needs for its own job."
+      ],
+      [
+        "Cells are born knowing which job they will do.",
+        false,
+        "Early cells pulled apart can each make a whole body, so jobs come from neighbours' signals."
+      ],
+      [
+        "When cells die inside a growing body, it always means damage or disease.",
+        false,
+        "Cells also die on purpose, on a signal, to shape parts such as the gaps between fingers."
+      ],
+      [
+        "A chemical signal that gets weaker with distance helps a cell learn where they are.",
+        true,
+        "Cells close to the source get a lot of signal and cells far away get little, so they take different jobs."
+      ],
+      [
+        "The placenta is only a pipe that passes the mother's food to the baby.",
+        false,
+        "It is built by the baby's cells, makes hormones, passes antibodies and takes waste away."
+      ],
+      [
+        "A young child's brain keeps the connections that are used and loses the ones that are not.",
+        true,
+        "Used connections get stronger and unused ones fade, so practice shapes the brain."
+      ],
+      [
+        "Your genes decide everything about you, so food and care make no difference to height.",
+        false,
+        "Identical twins can differ, and children who are not fed well do not reach their full height."
+      ],
+      [
+        "Identical twins can start when a young ball of cells splits and each half makes a baby.",
+        true,
+        "Early cells have not yet settled on their jobs, so each half can build a whole body."
+      ],
+      [
+        "A newborn has more bone pieces than an adult, because many pieces join as a child grows.",
+        true,
+        "A newborn has about 300 pieces, partly soft cartilage. An adult has 206 harder bones."
+      ],
+      [
+        "We only use ten percent of our brain.",
+        false,
+        "Scans show nearly all parts of the brain are active over a day, and damage almost anywhere has an effect."
+      ]
+    ],
+    "odd": [
+      [
+        [
+          "Passes oxygen",
+          "Takes waste away",
+          "Passes antibodies",
+          "Mixes the two bloods"
+        ],
+        "Mixes the two bloods",
+        "The placenta does the other three jobs, but it keeps the mother's blood and the baby's blood apart with a thin wall."
+      ],
+      [
+        [
+          "Age 1 year",
+          "Age 2 years",
+          "Age 13 years",
+          "Age 8 years"
+        ],
+        "Age 8 years",
+        "Growth is fast in the first two years and in the early teens, and slower in middle childhood."
+      ],
+      [
+        [
+          "Heat from a fire",
+          "Light from a lamp",
+          "Signal from an organiser",
+          "Weight of a stone"
+        ],
+        "Weight of a stone",
+        "Heat, light and a chemical signal all get weaker as you move away. A stone's weight does not."
+      ],
+      [
+        [
+          "Lungs fill with air",
+          "Blood flows through lungs",
+          "Heart shortcuts close",
+          "Placenta starts to grow"
+        ],
+        "Placenta starts to grow",
+        "The other three switch the body over at birth. The placenta begins to grow much earlier, in the womb."
+      ],
+      [
+        [
+          "Stem cell",
+          "Skin cell",
+          "Nerve cell",
+          "Bone cell"
+        ],
+        "Stem cell",
+        "Skin, nerve and bone cells have settled on one job. A stem cell has not yet settled."
+      ]
+    ]
+  }
 }

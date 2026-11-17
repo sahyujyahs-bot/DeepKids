@@ -137,7 +137,7 @@
    "concept": "Fish: feeling water move with the lateral line",
    "status": "defined",
    "definition": "A lateral line is a row of tiny sensors along a fish's head and sides. Each sensor has a bundle of hairs that bends when water moves past. The bending sends a message to the brain.",
-   "description": "Water is thick, and it carries movement a long way. When another fish swims past, or an insect lands on the surface, the water moves. A fish with a lateral line feels that movement along her whole body, even in muddy or dark water. She can tell the direction and often how far. Many fish also hear through an inner ear that sits inside the head, with no ear opening. Their bodies are mostly water, so sound goes straight through. Fish smell with nostrils that take in water. Catfish such as magur have whiskers called barbels with taste cells, so they can taste the mud as they feel along it. Sharks and rays can even sense the very weak electricity made by the muscles of other animals.",
+   "description": "Water carries movement a long way, much better than air does. When another fish swims past, or an insect lands on the surface, the water moves. A fish with a lateral line feels that movement along her whole body, even in muddy or dark water. She can tell the direction and often how far. Many fish also hear through an inner ear that sits inside the head, with no ear opening. Their bodies are mostly water, so sound goes straight through. Fish smell with nostrils that take in water. Catfish such as magur have whiskers called barbels with taste cells, so they can taste the mud as they feel along it. Sharks and rays can even sense the very weak electricity made by the muscles of other animals.",
    "examples": [
     "A rohu or catla in a pond turns towards a ripple without seeing what made it.",
     "A magur catfish tastes the muddy bottom with her whiskers.",
@@ -219,7 +219,7 @@
    "examples": [
     "A dog sees a red ball on green grass as a dull ball on yellowish grass.",
     "A pigeon tells apart colours that look the same to us.",
-    "A gecko at night has to see in dim light."
+    "A gecko hunts at night, so she needs eyes that work in very dim light."
    ],
    "art": "The same garden scene drawn three ways: as a person sees it, as a dog sees it with blue and yellow only, and as a bird sees it with extra bright patterns.",
    "perspectives": []
@@ -254,7 +254,7 @@
    "concept": "Why no animal senses everything",
    "status": "idea",
    "definition": "",
-   "description": "Eyes, ears and the brain parts that read them use a lot of energy. A body that spends energy on a sense it hardly needs wastes food. Mexican tetras that live in dark caves have lost their eyes, and a study in 2015 worked out that keeping eyes would cost them a noticeable part of their daily energy. They have more sensors on their lateral lines instead. The Ganges river dolphin, called susu, lives in muddy water where eyes are little help. Her eyes have no working lens and tell only light from dark. She finds fish by sending out clicks and listening for the echoes. The Ganges river dolphin is India's national aquatic animal. So no animal has every sense. Each animal has the senses that are worth their cost in the place where she lives. This is an idea that most biologists accept, but the exact costs are still being measured.",
+   "description": "Eyes, ears and the brain parts that read them use a lot of energy. A body that spends energy on a sense it hardly needs wastes food. Mexican tetras that live in dark caves have lost their eyes, and a study in 2015 worked out that keeping eyes would cost them a noticeable part of their daily energy. They have more sensors on their lateral lines instead. The Ganges river dolphin, called susu, lives in muddy water where eyes are little help. Her eyes have no working lens and tell only light from dark. She finds fish by sending out clicks and listening for the echoes. The Ganges river dolphin is India's national aquatic animal. So no animal has every sense. Each animal has the senses that are worth the energy they cost in the place where she lives. This is an idea that most biologists accept, but the exact costs are still being measured.",
    "examples": [
     "A cave fish with no eyes and a strong lateral line.",
     "A susu in the muddy Ganges, finding fish by echoes.",
@@ -421,7 +421,7 @@
    "That night, Ajji blew out the lamp for good. She opened the little window under the roof, so the owl could come and go. She put the steel plate back in the kitchen, where it belonged. A week later, the sacks were whole. A fortnight later, there were no new holes at all, only grey pellets on the floor, which Farhan swept up every morning with great seriousness.",
    "On the last night of the holidays, Kavya sat on the mat and pressed both hands behind her ears, with her fingers pointing forward. The rustle of a leaf in the yard suddenly sounded bigger and closer. She took her hands away, and it shrank again. 'So that is why foxes have big ears,' she whispered. Up on the beam, the owl turned her face and looked at her."
   ],
-  "epiphany": "An owl does not need light to find a rat. She hears the rustle, turns her dish-shaped face towards it, and drops. In the dark, a lamp helps the rats more than it helps the owl.",
+  "epiphany": "An owl does not need light to find a rat. She hears the rustle, turns her dish-shaped face towards it, and drops. A lamp gives the owl nothing she needs. Loud banging makes it harder for her to hear the rats.",
   "ask": [
    "A barn owl in a dark room drops onto a rustling bag that has no rat in it. What does that tell you about how she finds prey?",
    "Why might loud banging near a barn owl make it harder for her to catch a rat, even if it makes the rats run?",
@@ -444,15 +444,15 @@
   "context": "We have seen that a fish, a snake, a bird and a bat each sense a different slice of the same place. Now we ask what that tells us about the world and about ourselves.",
   "deep_truth": {
    "truth": "A fish feels the pond as moving water. A python feels it as warm and cool. A pigeon sees colours we never see. So each of us notices only the part of the world that our own body can sense.",
-   "habit": "We say 'the dark', 'the pond' or 'the colour of the feather' as if they were the same for every animal. But an owl finds her way in the dark by hearing, and a feather has a pattern that birds see and people never do.",
+   "habit": "We talk as if the dark, the pond and the colour of a feather look the same to every animal. They do not. In the dark, an owl finds her way by hearing. A feather has a pattern that birds can see and people never can.",
    "evidence": "In the Wide View, Deep View experiment, most people see a little more than half the way round, while a pigeon sees almost all the way round. In the Ripple Skin experiment, most people feel a ripple only when it starts close to the hand, while a fish feels one along her whole side. An owl catches a rat in a pitch-dark granary by sound alone."
   },
   "three": {
    "who_am_i": "You are one animal among many, and your eyes, ears and skin show you only a slice of what is there.",
    "what_is_life": "Every living being, from a tick to an elephant, picks up signals from the world in her own way, and acts on them.",
-   "what_is_this_world": "It looks like one place that many bodies sense in many ways, and no body senses all of it."
+   "what_is_this_world": "The world seems to be one place. Many different bodies sense it in many different ways, and no body senses all of it."
   },
-  "thread": "All animals with a backbone began as small fish in the sea more than 500 million years ago. Since then, each group has developed some senses much further than others. Yet all senses do one job. They let a signal from the world reach a body, so that the body can act on it. Every sense organ is a place where one part of nature picks up a signal from another part.",
+  "thread": "All animals with a backbone began as small fish in the sea more than 500 million years ago. Since then, each group has developed some senses much further than others. Yet all senses do one job. They let a signal from the world reach a body, so that the body can act on it. Every sense organ is a place where one part of nature, the animal, picks up a signal from another part of nature, such as light, sound or heat.",
   "teachings": [
    {
     "source": "Kena Upanishad 1.2",
@@ -1157,7 +1157,7 @@
      "qty": 2
     },
     {
-     "item": "comfortably hot water, as hot as a bath you can sit in, about 45 to 50 degrees in typical terms, mixed from the tap or kettle with cool water and tested by an adult on the inside of the wrist",
+     "item": "comfortably hot water, as hot as a bath you can sit in, about 45 to 50 degrees Celsius, mixed from the tap or kettle with cool water and tested by an adult on the inside of the wrist",
      "qty": 1
     },
     {
@@ -1479,7 +1479,7 @@
       },
       {
        "f": "I live in muddy river water and find fish by sending out high clicks and listening for the echoes.",
-       "b": "Mammal. The Ganges river dolphin, called susu, has almost no use for her eyes."
+       "b": "Mammal. The Ganges river dolphin, called susu, has almost no use for her eyes. She finds fish with clicks and echoes."
       },
       {
        "f": "I taste the mud with whiskers on my chin.",
@@ -1696,7 +1696,7 @@
        "The mice get tired"
       ],
       "a": 0,
-      "why": "Rustling makes a louder, sharper sound. In the story The Owl in the Granary, and in real life, a barn owl drops onto a rustling sound even when there is no mouse there. Dry leaves help the owl and give the mouse away."
+      "why": "Rustling makes a louder, sharper sound. In the story The Owl in the Granary, and in real life, a barn owl drops onto a rustling sound even when there is no mouse there. Dry leaves make a noise, so they help the owl and give the mouse away."
      },
      "context": "In this step, you play the rounds with cupped hands and newspaper."
     },
@@ -2462,7 +2462,7 @@
      "t": "write",
      "p": "Explain why a lateral line works well in water, but would be little use to a bird flying in air.",
      "lines": 4,
-     "a": "Water is thick and carries a push or ripple a long way, so hairs along the body bend. Air is thin, and a push from a moving animal fades fast, so there would be almost nothing to feel.",
+     "a": "Water carries a push or ripple a long way, so the hairs along a fish's body bend. In air, a push from a moving animal fades quickly, so there would be almost nothing to feel.",
      "why": "A strong answer says that water carries movement much better than air. It is also true that birds rely on sight and hearing instead.",
      "outcome": 2
     },
@@ -2914,7 +2914,7 @@
    "answer": "About 5 and a half times.",
    "explain": "36,000 divided by 6,500 is a little more than 5. Five times 6,500 is 32,500, and 6 times is 39,000. So the answer is between 5 and 6, close to 5 and a half.",
    "math_unit": "math.data.reading-data.L4",
-   "why_maths": "A comparison like this shows which group is biggest, and so which senses are found in most animals with a backbone."
+   "why_maths": "Dividing one count by another tells you how many times bigger one group is than another."
   },
   {
    "problem": "An owl turns her head about 270 degrees. A right angle is 90 degrees. How many right angles is that? What fraction of a full turn?",
@@ -3116,5 +3116,117 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Wide View, Deep View: the clock circle needs a clear floor of about 3 metres, and most people first see the moving card around 3 or 4 on the clock. With the right eye covered the card appears later, because the nose gets in the way. Pen touch scores depend on the child, so the steps say to write what you get. The pen must be capped. Ripple Skin: the basin should be at least 60 centimetres long (or use 5, 10 and 15 centimetres in a smaller one), the water still before every ripple, and the ears covered, or the splash sound gives the answer away. A score near 5 out of 10 at 20 centimetres is a real result and not a failure. Cup Your Ears: needs a quiet room and a soft tick, and the clock volume must be turned down so that it is only just audible at 1 metre. Warm Spot Finder: the adult checks the water first, and it must feel comfortably hot and never scalding, and the pots stay at least 2 centimetres from the skin, so warmth is usually felt only within a few centimetres. Nose Trail: use only safe, mild smells, with the room aired. Window Watch needs a window, balcony or terrace where birds come, so it is outside the core path. Whose World? has 24 cards and the back of each begins with all the groups that fit, so more than one token can score. Facts to check before the unit goes live: the field of view figures for the pigeon (about 340 degrees), person (about 200) and owl (about 110), which vary by source and method; the 2005 Eaton ultraviolet finding; the Newman and Hartline snake experiments; the year and place of Katy Payne's first elephant observations (1984, Portland, Oregon); the Indian rock python lip pits and the absence of pits in cobras; that dogs have many tens of times more smell receptors than people; the 2015 cavefish energy study; and the three videos, which have no address yet.",
- "warm": {"words": ["SENSE", "SMELL", "SOUND", "LIGHT", "TASTE"], "quiz": [["A sense is a way to pick up one kind of signal, such as light or sound.", true, "Tiny receptors react to one signal and send a message to the brain."], ["Bats are blind, so they find their way by sound alone.", false, "All bats can see. Many also use echoes, and fruit bats find fruit with eyes and nose."], ["A fish feels moving water with a line of tiny sensors along her sides.", true, "Hairs in the lateral line bend when water moves past and send a message to the brain."], ["A snake stings with her tongue.", false, "Her tongue is soft and carries scent into her mouth. She bites with her teeth."], ["Eyes at the front of the head help an animal judge how far away something is.", true, "Both eyes see the same space, so the brain can compare the two views."], ["Dogs see only in black and white.", false, "Dogs have two kinds of colour cones, so they tell blue from yellow but not red from green."], ["Most birds can see colours that people cannot, including ultraviolet light.", true, "Most birds have four kinds of colour cones in their eyes; people have three."], ["An owl can turn her head a full circle.", false, "She turns about three-quarters of the way round, helped by extra neck bones."], ["Some snakes can sense a warm rat in the dark with pits on their faces.", true, "The heat pits feel infrared, the heat that warm bodies give off."], ["An animal would be better off if she could sense everything.", false, "Senses use a lot of energy, so a body that keeps senses it hardly needs wastes food."]], "odd": [[["Infrared heat", "Ultraviolet light", "Infrasound", "Red light"], "Red light", "People cannot sense infrared, ultraviolet or infrasound; people can see red light."], [["Bat", "Dolphin", "Cave swiftlet", "Pigeon"], "Pigeon", "Bats, dolphins and cave swiftlets find their way by echolocation; a pigeon mainly uses sharp eyes."], [["Tiger", "Owl", "Eagle", "Deer"], "Deer", "Tigers, owls and eagles are hunters with eyes at the front; a deer has eyes at the sides for a wide view."], [["Frog", "Crow", "Cat", "Rohu"], "Rohu", "Frogs, crows and cats hear with an eardrum; a rohu feels water with her lateral line instead."], [["Python", "Boa", "Pit viper", "Cobra"], "Cobra", "Pythons, boas and pit vipers have heat pits on their faces; a cobra does not."]]}
+ "warm": {
+  "words": [
+   "SENSE",
+   "SMELL",
+   "SOUND",
+   "LIGHT",
+   "TASTE"
+  ],
+  "quiz": [
+   [
+    "A sense is a way to pick up one kind of signal, such as light or sound.",
+    true,
+    "Tiny receptors react to one signal and send a message to the brain."
+   ],
+   [
+    "Bats are blind, so they find their way by sound alone.",
+    false,
+    "All bats can see. Many also use echoes, and fruit bats find fruit with eyes and nose."
+   ],
+   [
+    "A fish feels moving water with a line of tiny sensors along her sides.",
+    true,
+    "Hairs in the lateral line bend when water moves past and send a message to the brain."
+   ],
+   [
+    "A snake stings with her tongue.",
+    false,
+    "Her tongue is soft and carries scent into her mouth. She bites with her teeth."
+   ],
+   [
+    "Eyes at the front of the head help an animal judge how far away something is.",
+    true,
+    "Both eyes see the same space, so the brain can compare the two views."
+   ],
+   [
+    "Dogs see only in black and white.",
+    false,
+    "Dogs have two kinds of colour cones, so they tell blue from yellow but not red from green."
+   ],
+   [
+    "Most birds can see colours that people cannot, including ultraviolet light.",
+    true,
+    "Most birds have four kinds of colour cones in their eyes. People have three."
+   ],
+   [
+    "An owl can turn her head a full circle.",
+    false,
+    "She turns about three-quarters of the way round, helped by extra neck bones."
+   ],
+   [
+    "Some snakes can sense a warm rat in the dark with pits on their faces.",
+    true,
+    "The heat pits feel infrared, the heat that warm bodies give off."
+   ],
+   [
+    "An animal would be better off if she could sense everything.",
+    false,
+    "Senses use a lot of energy, so a body that keeps senses it hardly needs wastes food."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Infrared heat",
+     "Ultraviolet light",
+     "Infrasound",
+     "Red light"
+    ],
+    "Red light",
+    "People cannot sense infrared, ultraviolet or infrasound. People can see red light."
+   ],
+   [
+    [
+     "Bat",
+     "Dolphin",
+     "Cave swiftlet",
+     "Pigeon"
+    ],
+    "Pigeon",
+    "Bats, dolphins and cave swiftlets find their way by echolocation. A pigeon mainly uses sharp eyes."
+   ],
+   [
+    [
+     "Tiger",
+     "Owl",
+     "Eagle",
+     "Deer"
+    ],
+    "Deer",
+    "Tigers, owls and eagles are hunters with eyes at the front. A deer has eyes at the sides for a wide view."
+   ],
+   [
+    [
+     "Frog",
+     "Crow",
+     "Cat",
+     "Rohu"
+    ],
+    "Rohu",
+    "Frogs, crows and cats hear with an eardrum. A rohu feels water with her lateral line instead."
+   ],
+   [
+    [
+     "Python",
+     "Boa",
+     "Pit viper",
+     "Cobra"
+    ],
+    "Cobra",
+    "Pythons, boas and pit vipers have heat pits on their faces. A cobra does not."
+   ]
+  ]
+ }
 }

@@ -151,7 +151,7 @@
    "concept": "Gas exchange: why lungs are so thin and so wide",
    "status": "defined",
    "definition": "Gas exchange is the swap in the lungs. Oxygen goes from the air into the blood, and carbon dioxide goes the other way.",
-   "description": "Air travels down your windpipe and splits into narrower and narrower tubes, like the branches of a tree. At the end of each twig is a tiny air bag called an alveolus. An adult has several hundred million of them. Each alveolus is wrapped in a net of capillaries, and the wall between air and blood is only about half a thousandth of a millimetre thick. Oxygen is more crowded in the air in the alveolus than in the blood that arrives, so oxygen drifts into the blood. Carbon dioxide is more crowded in the blood, so it drifts out into the air. This drifting needs no push. It is called diffusion, and it works well only when the wall is very thin and the surface is very large. If you could spread out all the alveoli flat, the surface would be somewhere between 50 and 100 square metres in an adult. Scientists give a range because it is hard to measure, and a child's lungs are smaller. Air you breathe out still holds about 16 out of every 100 parts oxygen, which is why mouth-to-mouth rescue breathing works.",
+   "description": "Air travels down your windpipe and splits into narrower and narrower tubes, like the branches of a tree. At the end of each twig is a tiny air bag called an alveolus. An adult has several hundred million of them. Each alveolus is wrapped in a net of capillaries, and the wall between air and blood is only about half a thousandth of a millimetre thick. There is more oxygen packed into the air in the alveolus than into the blood that arrives, so oxygen drifts into the blood. There is more carbon dioxide packed into the blood than into the air, so carbon dioxide drifts out into the air. This drifting needs no push. It is called diffusion, and it works well only when the wall is very thin and the surface is very large. If you could spread out all the alveoli flat, the surface would be somewhere between 50 and 100 square metres in an adult. Scientists give a range because it is hard to measure, and a child's lungs are smaller. Air you breathe out still holds about 16 out of every 100 parts oxygen, which is why mouth-to-mouth rescue breathing works.",
    "examples": [
     "Air in is about 21 parts oxygen in 100. Air out is about 16 parts oxygen and 4 parts carbon dioxide.",
     "A bunch of grapes on a stalk is a good picture of alveoli on an airway.",
@@ -164,7 +164,7 @@
    "concept": "Blood: a liquid full of living cells",
    "status": "defined",
    "definition": "Blood is a mix of plasma, red blood cells, white blood cells and platelets. It carries oxygen, food, waste, heat and messages round the body.",
-   "description": "If you let a tube of blood settle, it separates into layers. A little more than half is plasma, a pale yellow liquid that is mostly water. Nearly all the rest is red blood cells. A thin layer in between holds white blood cells, which fight germs, and platelets, which plug cuts. A speck of blood the size of a pinhead holds about 5 million red blood cells. A red blood cell has no centre part, so there is more room inside for haemoglobin. Haemoglobin is a red protein with iron in it, and it is what grabs oxygen in the lungs and lets go of it where it is needed. Blood that is full of oxygen is bright red. Blood that has given up much of its oxygen is dark red, not blue. Red blood cells live for about four months. The red bone marrow inside your bones makes about 2 million new ones every second in an adult.",
+   "description": "If you let a tube of blood settle, it separates into layers. A little more than half is plasma, a pale yellow liquid that is mostly water. Nearly all the rest is red blood cells. A thin layer in between holds white blood cells, which fight germs, and platelets, which plug cuts. A speck of blood the size of a pinhead holds about 5 million red blood cells. A red blood cell has no nucleus, which is the control centre that most cells have. That leaves more room inside for haemoglobin. Haemoglobin is a red protein with iron in it, and it is what grabs oxygen in the lungs and lets go of it where it is needed. Blood that is full of oxygen is bright red. Blood that has given up much of its oxygen is dark red, not blue. Red blood cells live for about four months. The red bone marrow inside your bones makes about 2 million new ones every second in an adult.",
    "examples": [
     "Plasma carries food and carbon dioxide, and the red cells carry most of the oxygen.",
     "Iron-rich food, such as ragi, dal, beetroot and green leaves, gives the body iron to build haemoglobin.",
@@ -218,8 +218,8 @@
    "definition": "The body sends more blood to the places that need it and less to the places that do not. It can narrow some blood vessels and widen others.",
    "description": "Tiny muscles in the walls of small arteries can squeeze them narrow or let them open wide. In the cold, the vessels near the skin narrow. Less blood reaches your fingers, so they turn pale and feel cold, and more blood stays near the heart and the other organs that must stay warm. In the heat, the vessels near the skin widen. More blood reaches the skin, your cheeks turn red, and heat escapes into the air. After a meal, more blood goes to the gut. During a run, more goes to the leg muscles. Gravity matters too. When you stand up, some blood sinks towards the legs, and the heart speeds up for a moment to keep enough blood going to the brain. This is why a pulse is a little higher standing than lying down. You can test how quickly blood returns to a fingertip. Press the nail until it turns white and let go. In a warm hand, the pink colour comes back in about one or two seconds.",
    "examples": [
-    "Pale, cold fingers on a winter morning in Shimla or Leh are the body protecting its middle.",
-    "Red cheeks after a game of kabaddi are widened vessels letting heat out.",
+    "On a winter morning in Shimla or Leh, fingers turn pale and cold. The body keeps its blood near the middle, to protect the heart and the other organs.",
+    "After a game of kabaddi your cheeks turn red, because the blood vessels in your skin have widened to let heat out.",
     "A person who stands up too fast may see spots, because for a moment not enough blood reaches the brain."
    ],
    "art": "Two hands side by side, a warm pink one with wide vessels drawn beneath the skin, and a cold pale one with narrow vessels, and the heart in the middle with arrows.",
@@ -331,7 +331,7 @@
    "hint": "Think about what happens when you try to slow your heart down on purpose, and what changes it when you are scared."
   },
   {
-   "q": "The iron in your blood was made inside a star. Does that make a red blood cell part of the sky?",
+   "q": "The iron in your blood was made inside a star long ago. Does that mean your blood is partly made of star material?",
    "kind": "big",
    "hint": "Think about where iron comes from, and how it got into the food you ate."
   },
@@ -341,7 +341,7 @@
    "hint": "Think about a leaf, the air in your lungs, and where the oxygen was an hour ago."
   },
   {
-   "q": "Your heart started beating a few weeks after you began, long before you could think. Who or what was doing it?",
+   "q": "Your heart started beating a few weeks after you began to grow inside your mother, long before you could think. Who or what was doing it?",
    "kind": "deep",
    "hint": "Think about heart cells that beat on their own in a dish, and about what 'you' means."
   },
@@ -1271,7 +1271,7 @@
        "The low hand was nearer the heart"
       ],
       "a": 0,
-      "why": "Blood weighs something, so gravity pulls it down. In the raised hand it drains towards the heart. In the hanging hand, veins fill. If you picked another answer, think about which hand was further from the heart."
+      "why": "Blood weighs something, so gravity pulls it down. In the raised hand, the blood drains back towards the heart. In the hanging hand, the blood collects and the veins fill up. If you picked another answer, think about which hand was further from the heart."
      }
     }
    ],
@@ -1433,7 +1433,7 @@
        ]
       }
      ],
-     "parent": "The change may be small, only a few beats, and a count over 15 seconds can be wrong by about four. Say so honestly. If the numbers are about the same, that is also a result. Strong feelings such as fear release adrenaline, which can raise the pulse even when the body is still. The three resting counts show the 'noise': if they differ by 2 or 3 beats on their own, a difference of that size between the two stories means nothing. With 2 to 4 children, work in pairs: one listens, one counts, then swap; all can listen to the same story. One child with a parent: the parent reads and then counts, so read the story in advance and count in the last 15 seconds of reading, or use a recorded story. Use the same position and time for both stories.",
+     "parent": "The change may be small, only a few beats, and a count over 15 seconds can be wrong by about four. Say so honestly. If the numbers are about the same, that is also a result. Strong feelings such as fear release adrenaline, which can raise the pulse even when the body is still. The three resting counts show the 'noise': if they differ by 2 or 3 beats on their own, a difference of that size between the two stories means nothing. With 2 to 4 children, work in pairs: one listens, one counts, and then you swap. All can listen to the same story. One child with a parent: the parent reads and then counts, so read the story in advance and count in the last 15 seconds of reading, or use a recorded story. Use the same position and time for both stories.",
      "check": {
       "t": "mcq",
       "q": "The pulse was a little higher in the exciting story. What is a fair thing to say?",
@@ -1611,7 +1611,7 @@
      "say": "These cards show situations in daily life. For each one, you decide whether your pulse and breathing go faster, stay about the same, or go slower. Get your tokens ready.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take one of each token.",
      "context": "This is the first step of the card game. You set up the cards and the tokens.",
-     "parent": "The tokens are Faster, About the same and Slower. Four sets of three are enough for four players. Alone, use one set. The game needs only paper, scissors and a pen; draw the three words on 12 small squares if you cannot print. A younger child can play with a parent as the reader."
+     "parent": "The tokens are Faster, About the same and Slower. Four sets of three are enough for four players. Alone, use one set. The game needs only paper, scissors and a pen. If you cannot print, draw the three words on 12 small squares. A younger child can play with a parent as the reader."
     },
     {
      "id": "s2",
@@ -1684,7 +1684,7 @@
      "qty": 1
     },
     {
-     "item": "at least five family members or neighbours of different ages, who agree to join (a baby, a toddler or a grandparent is a bonus, but any five ages will do; ask on a phone call if needed)",
+     "item": "at least five family members or neighbours of different ages, who agree to join (a baby, a toddler or a grandparent is a bonus, but any five ages will do. You can ask on a phone call if needed)",
      "qty": 5
     }
    ],
@@ -1734,7 +1734,7 @@
      "say": "Ask each person to sit quietly for two minutes. Then count their pulse for 15 seconds and multiply by 4.",
      "kid": "Ask each person to sit still. Count the pulse for 15 seconds. Multiply by 4.",
      "context": "In this step you measure the resting pulse of each person.",
-     "parent": "Usual resting rates are about 100 to 160 for a newborn, 70 to 110 for a school child, and 60 to 100 for an adult. A person who exercises regularly may be below 60. With 2 to 4 children, share the people out, with each child counting their own people while a sibling times; swap for one person to check that two counters agree. A person can count their own pulse while the child times. Use the same time of day for all, and do not count anyone who has just run or eaten a big meal.",
+     "parent": "Usual resting rates are about 100 to 160 for a newborn, 70 to 110 for a school child, and 60 to 100 for an adult. A person who exercises regularly may be below 60. With 2 to 4 children, share the people out, with each child counting their own people while a sibling times. Swap for one person, to check that two counters agree. A person can count their own pulse while the child times. Use the same time of day for all, and do not count anyone who has just run or eaten a big meal.",
      "check": {
       "t": "mcq",
       "q": "You counted 18 beats in 15 seconds for a grandfather. What is his pulse per minute?",
@@ -2821,7 +2821,7 @@
    "why_maths": "A bar chart shows at a glance who breathes fastest. The difference between two bars tells how much faster."
   },
   {
-   "problem": "Estimate how many times a heart beats in a life of 80 years at 70 beats per minute. Round: 70 times 60 is 4,200 an hour, and one day is about 100,000 beats. A year is about 365 days.",
+   "problem": "Estimate how many times a heart beats in a life of 80 years at 70 beats per minute. Round the numbers to make it easier. At 70 beats a minute, the heart beats 70 times 60, which is 4,200 beats an hour. A day has 24 hours, so that is about 100,000 beats a day. A year is about 365 days.",
    "answer": "About 2.9 billion beats, so about 3 billion.",
    "explain": "100,000 beats a day times 365 days is about 36,500,000 beats a year. 36,500,000 times 80 years is about 2,920,000,000, which is about 3 billion.",
    "math_unit": "math.number-sense.estimation.L4",
@@ -3094,10 +3094,10 @@
   },
   "three": {
    "who_am_i": "You are not one thing in charge of the rest. You are trillions of cells, each asking for what it needs, with a heart and lungs that answer.",
-   "what_is_life": "Life is a constant exchange. Oxygen comes in, carbon dioxide goes out, and the flow does not stop for even a minute.",
+   "what_is_life": "A living body is always taking things in and giving things back. Oxygen comes in and carbon dioxide goes out. This does not stop for even a minute.",
    "what_is_this_world": "The oxygen in your blood was made by plants, algae and microbes. The iron in your blood was made inside stars, long before the Sun."
   },
-  "thread": "A few weeks after you began, a tiny tube of heart cells started to beat, long before there was a brain to give orders. A heart cell can even beat alone in a dish, and cells placed together soon beat in time. In your body, trillions of cells ask for oxygen and send out carbon dioxide, and one heartbeat answers all of them. The heart, the lungs and the blood are not three machines. They are parts of one process. Some traditions say the same of the whole world: one reality that appears as many things.",
+  "thread": "A few weeks after you began to grow inside your mother, a tiny tube of heart cells started to beat. This was long before there was a brain to give orders. A heart cell can even beat alone in a dish, and cells placed together soon beat in time. In your body, trillions of cells ask for oxygen and send out carbon dioxide, and one heartbeat answers all of them. The heart, the lungs and the blood are not three machines. They are parts of one process. Some old traditions say that the whole world is like this too. It looks like many separate things, but the parts all depend on one another.",
   "teachings": [
    {
     "source": "Prashna Upanishad, question 2, verses 2 to 4",
@@ -3112,7 +3112,7 @@
    {
     "source": "Kabir, 'Student, tell me, what is God?' (15th century, in Robert Bly's translation)",
     "teaching": "Kabir answers: he is the breath inside the breath.",
-    "link": "Each breath brings in air, but the oxygen is what matters. It crosses a wall half a thousandth of a millimetre thick and rides inside a red blood cell. So the oxygen is like a breath inside the breath."
+    "link": "Each breath brings in air, but the oxygen is what matters. It crosses a wall half a thousandth of a millimetre thick and rides inside a red blood cell. The air you breathe is the outer breath, and the oxygen carried inside it is the part your cells really use. So you can think of the oxygen as the breath inside the breath."
    }
   ],
   "science": [
@@ -3127,7 +3127,7 @@
   ],
   "other_view": {
    "who": "Many physiologists",
-   "view": "The heart has a built-in pacemaker, and nerves and hormones only speed it up or slow it down. On this view, the whole body can be described as chemicals and signals that keep adjusting each other (feedback loops), without saying that cells ask for anything. Whether such a description is complete is a deep question."
+   "view": "The heart has a built-in pacemaker, and nerves and hormones only speed it up or slow it down. On this view, the whole body can be described as chemicals and signals that keep adjusting each other, so that each change brings on another change that corrects it. Nothing in that description says that cells ask for anything. Whether such a description is complete is a deep question."
   },
   "practice": {
    "title": "Listen to your own drum",
@@ -3137,7 +3137,7 @@
   },
   "ask": [
    "When you run, who asks your heart to speed up: you, your cells, your brain, or all of them?",
-   "The oxygen in your blood was made by plants and microbes, and the iron by stars. Which part of you began with you?",
+   "The oxygen in your blood was made by plants and microbes, and the iron was made in stars. Is there any part of you that did not come from somewhere else?",
    "If one heart cell can beat alone in a dish, what makes many cells beat together as one?",
    "Is breathing something you do, something that happens to you, or both?"
   ],
@@ -3228,5 +3228,117 @@
   "wrong_idea": "Aristotle taught that breathing cools the heart, and later thinkers said that air only carried away hot vapours. Lavoisier's ice and oxygen measurements showed that breathing is slow burning of food, which makes heat and carbon dioxide, and that working harder uses more oxygen."
  },
  "playtest": "Read as a parent and a child in a city flat would use it, but not yet done with a real child. The Pulse Detective needs only a step or a stair, a stopwatch and a notebook, and takes about 55 minutes. Counts over 15 seconds are rough, so tell the child the numbers can differ by a few beats. Counting breaths works best when the child does not know. For Cold Fingers, expect the pink to return in about a second in a warm hand and a few seconds in a cold one. If the times look alike, compare the colour of the fingertips. The cold part is one minute only. For Big Surface, the powder is quick, in under a minute, and a whole lump can take 10 minutes or more in warm water, so keep it unstirred. The cereal magnet may find nothing if the magnet is weak. Facts to verify before publishing: the capillary refill times, the sugar dissolving times, the range given for the lung surface area, the NFHS-5 anaemia figures, the Prashna Upanishad and Kabir quotations, the wording of the Lavoisier and Seguin story, and the three videos, which are still to be chosen.",
- "warm": {"words": ["PULSE", "BLOOD", "CELLS", "LUNGS", "HEART"], "quiz": [["Your breathing rate rises mostly because carbon dioxide builds up in your blood.", true, "Working cells make more carbon dioxide, and a high level of it is the main signal to breathe faster."], ["You pant when you run because your body has run out of oxygen.", false, "Carbon dioxide is the main signal, and breathing speeds up before oxygen runs low."], ["The air you breathe out has no oxygen left in it.", false, "Breathed-out air still has about 16 parts oxygen in 100, because your body uses only some."], ["A capillary wall is only one cell thick, so oxygen can pass through to the cells.", true, "A very thin wall lets oxygen and food slip out of the blood to nearby cells."], ["Blood in your veins is blue until it meets air.", false, "Blood is always red. Dark blood has less oxygen, and skin and light make veins look blue."], ["Haemoglobin in red blood cells holds oxygen, and it is the reason blood is red.", true, "Haemoglobin is a red protein with iron in it, and it carries most of the oxygen."], ["High up a mountain each breath has less oxygen, so after weeks the body makes more red blood cells.", true, "More red blood cells means more oxygen can be carried from each breath of thin air."], ["Blood goes through the heart only once on each full trip round the body.", false, "It goes through twice: once on the way to the lungs, and once on the way to the body."], ["Your body sends more blood to busy muscles and less to parts that are resting.", true, "It can narrow some blood vessels and widen others, so blood goes where it is needed."], ["The heart is where we think and feel, and the brain only helps.", false, "Brain damage changes thinking and feeling, but people live well with a transplanted heart."]], "odd": [[["Artery", "Vein", "Capillary", "Alveolus"], "Alveolus", "Artery, vein and capillary are blood vessels; an alveolus is a tiny air bag in the lungs."], [["Pulse rate", "Breathing rate", "Carbon dioxide your cells make", "Oxygen share in the air"], "Oxygen share in the air", "The other three rise when you run; the air around you stays about one fifth oxygen."], [["Carbon dioxide", "Water", "Heat", "Oxygen"], "Oxygen", "Cells make carbon dioxide, water and heat when they use food; oxygen is what they use up."], [["Busy leg muscles", "Stomach after a meal", "Skin on a hot day", "Fingers in cold water"], "Fingers in cold water", "The first three get extra blood; the body narrows the vessels in cold fingers to send less."], [["Red blood cell", "White blood cell", "Platelet", "Plasma"], "Plasma", "Red cells, white cells and platelets are cells or pieces of cells; plasma is the pale liquid they float in."]]}
+ "warm": {
+  "words": [
+   "PULSE",
+   "BLOOD",
+   "CELLS",
+   "LUNGS",
+   "HEART"
+  ],
+  "quiz": [
+   [
+    "Your breathing rate rises mostly because carbon dioxide builds up in your blood.",
+    true,
+    "Working cells make more carbon dioxide, and a high level of it is the main signal to breathe faster."
+   ],
+   [
+    "You pant when you run because your body has run out of oxygen.",
+    false,
+    "Carbon dioxide is the main signal, and breathing speeds up before oxygen runs low."
+   ],
+   [
+    "The air you breathe out has no oxygen left in it.",
+    false,
+    "Breathed-out air still has about 16 parts oxygen in 100, because your body uses only some."
+   ],
+   [
+    "A capillary wall is only one cell thick, so oxygen can pass through to the cells.",
+    true,
+    "A very thin wall lets oxygen and food slip out of the blood to nearby cells."
+   ],
+   [
+    "Blood in your veins is blue until it meets air.",
+    false,
+    "Blood is always red. Dark blood has less oxygen, and skin and light make veins look blue."
+   ],
+   [
+    "Haemoglobin in red blood cells holds oxygen, and it is the reason blood is red.",
+    true,
+    "Haemoglobin is a red protein with iron in it, and it carries most of the oxygen."
+   ],
+   [
+    "High up a mountain each breath has less oxygen, so after weeks the body makes more red blood cells.",
+    true,
+    "More red blood cells means more oxygen can be carried from each breath of thin air."
+   ],
+   [
+    "Blood goes through the heart only once on each full trip round the body.",
+    false,
+    "It goes through twice: once on the way to the lungs, and once on the way to the body."
+   ],
+   [
+    "Your body sends more blood to busy muscles and less to parts that are resting.",
+    true,
+    "It can narrow some blood vessels and widen others, so blood goes where it is needed."
+   ],
+   [
+    "The heart is where we think and feel, and the brain only helps.",
+    false,
+    "Brain damage changes thinking and feeling, but people live well with a transplanted heart."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Artery",
+     "Vein",
+     "Capillary",
+     "Alveolus"
+    ],
+    "Alveolus",
+    "Artery, vein and capillary are blood vessels. An alveolus is a tiny air bag in the lungs."
+   ],
+   [
+    [
+     "Pulse rate",
+     "Breathing rate",
+     "Carbon dioxide your cells make",
+     "Oxygen share in the air"
+    ],
+    "Oxygen share in the air",
+    "The other three rise when you run. The air around you stays about one fifth oxygen."
+   ],
+   [
+    [
+     "Carbon dioxide",
+     "Water",
+     "Heat",
+     "Oxygen"
+    ],
+    "Oxygen",
+    "Cells make carbon dioxide, water and heat when they use food. Oxygen is what they use up."
+   ],
+   [
+    [
+     "Busy leg muscles",
+     "Stomach after a meal",
+     "Skin on a hot day",
+     "Fingers in cold water"
+    ],
+    "Fingers in cold water",
+    "The first three get extra blood. The body narrows the vessels in cold fingers to send less."
+   ],
+   [
+    [
+     "Red blood cell",
+     "White blood cell",
+     "Platelet",
+     "Plasma"
+    ],
+    "Plasma",
+    "Red cells, white cells and platelets are cells or pieces of cells. Plasma is the pale liquid they float in."
+   ]
+  ]
+ }
 }

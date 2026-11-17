@@ -145,7 +145,7 @@
    "concept": "Swallowing and peristalsis",
    "status": "defined",
    "definition": "Peristalsis is a wave of squeezing that travels along the food tube. A ring of muscle tightens just behind the food and pushes it forward.",
-   "description": "When you swallow, the tongue pushes the bolus to the back of the mouth. A small flap called the epiglottis folds over the top of the windpipe. This keeps food out of the lungs. For that moment you stop breathing. The bolus enters the oesophagus, the food pipe. In a grown-up the oesophagus is about 25 centimetres long. Its wall is muscle. A ring of muscle tightens behind the bolus, and the ring in front relaxes. The tightening moves along the tube as a wave. The bolus reaches the stomach in less than 10 seconds. Food is pushed, so the direction does not matter. You can swallow with your head down. Astronauts swallow in space, where nothing falls. A cow drinks with her head far below her shoulders. Peristalsis does not stop at the stomach. It moves food along the whole tube, to the very end.",
+   "description": "When you swallow, the tongue pushes the bolus to the back of the mouth. A small flap called the epiglottis folds over the top of the windpipe. This keeps food out of the lungs. For that moment you stop breathing. The bolus enters the oesophagus, the food pipe. In a grown-up the oesophagus is about 25 centimetres long. Its wall is muscle. A ring of muscle tightens behind the bolus, and the ring in front relaxes. The tightening moves along the tube as a wave. The bolus reaches the stomach in less than 10 seconds. Food is pushed along by muscle. It is not pulled down by gravity, so it does not matter which way your head points. You can swallow with your head down. Astronauts swallow in space, where nothing falls. A cow drinks with her head far below her shoulders. Peristalsis does not stop at the stomach. It moves food along the whole tube, to the very end.",
    "examples": [
     "An astronaut eats a meal while floating.",
     "A cow with her head down at a trough swallows water up along her neck.",
@@ -171,7 +171,7 @@
    "concept": "The small intestine: where most digestion happens",
    "status": "defined",
    "definition": "The small intestine is a narrow tube about 6 metres long in a grown-up. Most chemical digestion happens in it.",
-   "description": "Many people think the stomach does most of the digesting. The small intestine does far more. It is called small because it is narrow, about 2.5 centimetres wide. The chyme from the stomach is sour with acid. In the first part of the small intestine, two juices are added through a small tube. One is bile. The liver makes bile, and a small bag called the gall bladder stores it. Bile is not an enzyme. It works as a detergent works on a greasy plate. It breaks large drops of fat into tiny droplets, so that enzymes can reach the fat. The other juice comes from the pancreas, an organ behind the stomach. Pancreatic juice holds enzymes for starch, protein and fat. It also holds a base, which cancels the stomach's acid. The wall of the small intestine adds enzymes of its own. Food never passes through the liver or the pancreas. They are helper organs, and they send their juices in. Food spends 3 to 5 hours in the small intestine.",
+   "description": "Many people think the stomach does most of the digesting. The small intestine does far more. It is called small because it is narrow, about 2.5 centimetres wide. The chyme from the stomach is sour with acid. In the first part of the small intestine, two juices are added through a small tube. One is bile. The liver makes bile, and a small bag called the gall bladder stores it. Bile is not an enzyme. It works the way dish soap works on a greasy plate. It breaks large drops of fat into tiny droplets, so that enzymes can reach the fat. The other juice comes from the pancreas, an organ behind the stomach. Pancreatic juice holds enzymes for starch, protein and fat. It also holds a base, which cancels the stomach's acid. The wall of the small intestine adds enzymes of its own. Food never passes through the liver or the pancreas. They are helper organs, and they send their juices in. Food spends 3 to 5 hours in the small intestine.",
    "examples": [
     "After a meal with ghee, the gall bladder squeezes bile into the small intestine.",
     "Starch that saliva did not finish is cut into sugar by pancreatic juice.",
@@ -320,7 +320,7 @@
    "claim": "The inside of the food tube is outside the body.",
    "who": "Many biologists who study how bodies are built.",
    "for": "The tube is open at both ends. A swallowed seed can pass through without crossing any wall of the body.",
-   "against": "The gut is plainly an organ inside the belly. The body pours juices into it and controls what happens there. 'Outside' is true of the shape, but it can mislead.",
+   "against": "The gut is plainly an organ inside the belly. The body pours juices into it and controls what happens there. It is true that the tube is open to the outside at both ends. But saying the inside of the gut is outside the body can mislead.",
    "status": "debated"
   }
  ],
@@ -468,7 +468,7 @@
       },
       {
        "f": "Thick walls of muscle squeeze me about three times a minute.",
-       "b": "Stomach. The stomach churns food."
+       "b": "Stomach. The thick muscle walls squeeze and churn the food."
       },
       {
        "f": "An acid about as strong as lemon juice pours over me.",
@@ -476,7 +476,7 @@
       },
       {
        "f": "I have become a thick liquid called chyme. I wait here for 2 to 4 hours.",
-       "b": "Stomach. It lets chyme out a little at a time."
+       "b": "Stomach. The stomach lets chyme out into the small intestine a little at a time."
       },
       {
        "f": "A yellow-green liquid breaks my fat into tiny droplets.",
@@ -1421,7 +1421,7 @@
       "a": 0,
       "why": "The small intestine is about 6 metres of the 8. It is called small because it is narrow. If you chose the large intestine, remember that 'large' describes its width. It is only about 1.5 metres long."
      },
-     "parent": "The whole tube is about 8 metres. A child of nine is about 1.3 metres tall, so it takes about six of them. Your child's own food tube is shorter than this one, because it grows with the body.",
+     "parent": "The whole tube is about 8 metres. A child of nine is about 1.3 metres tall, so about six children of that height, lying head to toe, would match the tube. Your child's own food tube is shorter than this one, because it grows with the body.",
      "context": "In this step of the Food Tube on the Floor you lay out the wool tube beside your own body."
     },
     {
@@ -2549,7 +2549,7 @@
   "For an X-ray of the food tube, the patient drinks a white liquid that blocks X-rays. Doctors then watch the swallow and the waves of squeezing on a screen.",
   "Some tablets have a coat that stomach acid cannot dissolve. The coat dissolves only in the small intestine, so the medicine is released there.",
   "Cooks pound, grind, soak and ferment food. Idli batter is ground and fermented, so part of the work of breaking down is done before the first bite.",
-  "Vets treat cows whose rumen has stopped moving. They listen to the belly, because a healthy rumen squeezes once or twice every minute."
+  "Vets treat cows whose rumen has stopped moving. The rumen is the first and biggest part of a cow's stomach. A vet listens to the belly, because a healthy rumen squeezes once or twice every minute."
  ],
  "spotted": [
   {
@@ -2651,7 +2651,7 @@
   {
    "problem": "In Dry or Wet, a dry half biscuit took 22 chews and then 20 chews. A dipped half biscuit took 9 and then 8. Find the middle value for each kind of bite. About how many times as many chews did the dry bite need?",
    "answer": "Dry: 21 chews. Dipped: 8 and a half chews. The dry bite needed about two and a half times as many.",
-   "explain": "22 and 20 add to 42, and half of 42 is 21. 9 and 8 add to 17, and half of 17 is 8 and a half. Two lots of 8 and a half make 17, and two and a half lots make just over 21.",
+   "explain": "22 and 20 add to 42, and half of 42 is 21. 9 and 8 add to 17, and half of 17 is 8 and a half. Two lots of 8 and a half make 17. Two and a half lots of 8 and a half make about 21, which is the dry count. So the dry bite needed about two and a half times as many chews.",
    "math_unit": "math.data.reading-data.L4",
    "how": "e1",
    "context": "In Dry or Wet you count how many chews a bite needs before it is ready to swallow. These are made-up counts for a dry biscuit and a dipped biscuit.",
@@ -2678,7 +2678,7 @@
   {
    "problem": "A smooth tube the size of the small intestine would have half a square metre of lining. The real lining has 30 square metres. How many times as much is that?",
    "answer": "60 times as much.",
-   "explain": "Two halves make 1 square metre. So 30 square metres hold 30 times 2 halves, which is 60 halves.",
+   "explain": "The smooth tube has half a square metre of lining. Each whole square metre holds two halves. So 30 square metres hold 30 times 2 halves, which is 60 halves. That means the real lining is 60 times as big as the smooth one.",
    "math_unit": "math.division.division-facts.L4",
    "how": "e3",
    "context": "In the Pleated Cloth Test a folded cloth takes up more water than a flat cloth covering the same space. Folds and villi do the same for the small intestine.",
@@ -3012,9 +3012,9 @@
   "three": {
    "who_am_i": "Your body is built from what crossed your gut wall. The sugar in your muscles this evening was part of a banana or a bowl of rice this morning.",
    "what_is_life": "Every animal, including you, takes other living things apart and builds a body from the pieces. A cow, a snake and a child all do this along a tube of muscle.",
-   "what_is_this_world": "Rice, dal and fish are cut into the same few kinds of small molecules. One set of building units is shared by everything that eats and everything that is eaten."
+   "what_is_this_world": "Rice, dal and fish are all cut into the same few kinds of small molecules. Every living thing is built from that same small set of building units, so what eats and what is eaten share the same ones."
   },
-  "thread": "A bite of idli is rice and urad dal, and those were sunlight, water, air and soil. In your small intestine the idli is cut into sugars and amino acids. They cross the wall of a villus, and after that they are your blood, your muscle and your warmth. Many sages taught that the eater and the eaten are one. The science here says something close and plain. Your body and your food are built from the same kinds of molecules. That is why one can become the other.",
+  "thread": "A bite of idli is made of rice and urad dal. The rice and the dal plants grew from sunlight, water, air and soil. In your small intestine the idli is cut into sugars and amino acids. They cross the wall of a villus, and after that they are your blood, your muscle and your warmth. Many sages taught that the eater and the eaten are one. The science here says something close and plain. Your body and your food are built from the same kinds of molecules. That is why one can become the other.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.5.1",
@@ -3029,7 +3029,7 @@
    {
     "source": "Thich Nhat Hanh, 'interbeing', in The Heart of Understanding (1988)",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the forest there. Nothing exists by itself alone.",
-    "link": "Look at your hand in the same way. Your hand was built from what crossed your gut wall. So the idli, the paddy field and the rain are all in your hand."
+    "link": "Look at your hand in the same way. Your hand was built from what crossed your gut wall. So the idli is in your hand, and so are the paddy field and the rain that grew the rice."
    }
   ],
   "science": [
