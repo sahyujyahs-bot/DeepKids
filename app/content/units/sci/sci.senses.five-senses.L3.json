@@ -2139,7 +2139,7 @@
      "say": "Did you notice anything you never usually notice? Was the fan there before we started, or did we just not hear it?",
      "kid": "Compare lists. Did you notice something new? Was it there before, or did you just not notice it?",
      "think": "Pick the sense that gave you the fewest things. Close your eyes for one more minute and use only that sense. What new thing do you notice?",
-     "parent": "Yes, the fan was there all along. Your brain only brings a few of the signals from your senses to your attention at a time, so a quiet sound can be there for a long time before you notice it."
+     "parent": "Yes, the fan was there all along. Your brain only notices a few of its signals at a time. So a quiet sound can be there for a long time before you notice it."
     }
    ],
    "context": "This is a one-minute noticing activity. You sit still with your eyes shut and notice everything your senses tell you.",
@@ -2331,7 +2331,7 @@
      "do": "Talk about the star-nosed mole and Braille.",
      "say": "A star-nosed mole finds food in dark tunnels with the 22 fleshy fingers on the end of the nose. Blind people read Braille with their fingertips. Why fingertips, and not elbows?",
      "kid": "A star-nosed mole touches with the end of the nose. Blind people read with their fingertips. Why not elbows?",
-     "think": "Cold steel feels colder than a cotton ball, even in the same room. Steel carries heat away from your skin quickly, and cotton does not. Your skin senses how fast it is losing heat, not the temperature itself. So are the steel and the cotton really different temperatures?",
+     "think": "Cold steel feels colder than a cotton ball, even in the same room. Steel carries heat away from your skin quickly. Cotton does not. Your skin senses how fast it loses heat. So are the steel and the cotton really different temperatures?",
      "parent": "Fingertips have touch receptors packed very close together, so they can feel tiny dots as separate. An elbow has its receptors far apart. This is what the Two-Point Test showed."
     }
    ],
@@ -2567,7 +2567,7 @@
      "do": "Show the 'jumping thumb'. It lets your child see that each eye gets its own picture.",
      "say": "Hold your thumb up in front of you. Close one eye, then the other, again and again. Your thumb jumps! Each eye sees a slightly different picture. Your brain joins them and works out how far away things are.",
      "kid": "Hold up your thumb. Close one eye, then the other. Your thumb jumps! Each eye sees it from a different place.",
-     "think": "An owl has both eyes on the front of their face, so both eyes see the same view from two places. A pigeon has eyes on the sides, so each eye sees a different view. Which one judges distance better? Which one sees further around?",
+     "think": "An owl has both eyes on the front of their face. Both eyes see the same view from two places. A pigeon has eyes on the sides. Each eye sees a different view. Which one judges distance better? Which one sees further around?",
      "parent": "The owl judges distance better, because the brain compares two views of the same thing. The pigeon sees much further around, because the two eyes cover different directions."
     }
    ],
@@ -2914,7 +2914,7 @@
      "do": "Read the usual solutions and the creative ideas together. Then invent a new one.",
      "say": "Here is what people usually do, and some creative ideas. Can you invent something better?",
      "kid": "Look at the usual ideas and the creative ideas. Now invent your own. Can you beat them?",
-     "think": "Old ear trumpets worked by collecting more sound, so they had to be big. A modern hearing aid has a tiny microphone and makes the sound stronger with electricity. So why can it be so small?",
+     "think": "Old ear trumpets worked by collecting more sound, so they had to be big. A modern hearing aid has a tiny microphone. It makes the sound stronger with electricity. So why can it be so small?",
      "parent": "The aid does not need a big collector, because electricity makes the sound louder. A tiny microphone is enough."
     }
    ],
