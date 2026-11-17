@@ -139,7 +139,7 @@
    "definition": "Density tells you how much mass there is in a certain volume. Something dense is heavy for its size.",
    "description": "A litre of water has a mass of 1 kilogram. So one millilitre of water has a mass of 1 gram. Scientists use water as the measuring stick. A material that is denser than water, such as iron, sinks in it. Iron is almost 8 times denser than water. A material that is less dense than water, such as most woods, floats. Cooking oil is a little less dense than water, and ice is a little less dense than liquid water. Some very hard woods, such as ebony, are denser than water and sink. The word density comes from the idea of how closely stuff is packed together.",
    "examples": [
-    "Aluminium is denser than water, but only about 2.7 times. So thin aluminium foil is easy to shape into a boat that floats.",
+    "Aluminium is denser than water, by about 2.7 times. That is not very much, so a thin sheet of aluminium foil can be folded into a boat that holds enough air to float.",
     "Most woods are between half as dense as water and nearly as dense, so they float.",
     "Cooking oil is about nine tenths as dense as water, so oil floats on water."
    ],
@@ -206,7 +206,7 @@
    "examples": [
     "Honey sinks to the bottom of a glass of water.",
     "Oil floats on top of water.",
-    "A drop of ink in water slowly spreads, but a drop of oil stays together."
+    "Shake oil and water together in a bottle and then leave it still. The oil floats back up and forms a layer on top."
    ],
    "art": "A tall glass with three layers: dark syrup at the bottom, yellow water in the middle, and clear oil at the top.",
    "perspectives": []
@@ -375,7 +375,7 @@
    "Bhaben Da rubbed his chin. 'My father painted it. He said, when the water touches the line, take something off.'",
    "'Then it is a last-coin line,' said Rupjyoti. 'It is where the boat should stop.'",
    "Bhaben Da took off four sacks of rice and left them on the bank. The boat rose in the water until the white line was clear of the river again. 'The rice can go on the second trip,' he said. 'Thank you, Rupjyoti.'",
-   "She smiled. On the way across, she watched the water slide past, a good hand's width below the rim, and she thought about all the water the boat was pushing aside. It pushed aside exactly as much as it weighed. No more, and no less.",
+   "She smiled. On the way across, she watched the water slide past, a good hand's width below the rim. She thought about all the water the boat was pushing aside. The boat pushed aside water that weighed exactly as much as the boat and its load. No more, and no less.",
    "On the second trip, the rice came across, and the line stayed dry the whole way."
   ],
   "epiphany": "A boat floats by pushing aside water that weighs as much as the boat. Add more cargo, and it sits lower, until the water reaches the rim.",
@@ -652,7 +652,8 @@
      "say": "Who got the most points? Which card was hardest? Why was it hard?",
      "kid": "Who won? Which card was hardest? Why?",
      "think": "Which card would change if the liquid were different?",
-     "context": "This is the last step of Harbour Master. You look back at the game."
+     "context": "This is the last step of Harbour Master. You look back at the game.",
+     "parent": "A good answer names a card where the liquid changes the result. The potato sinks in plain water but floats in very salty water. A ship sits higher in the sea than in a river. A person floats more easily in the Dead Sea than in a pool."
     }
    ],
    "safety": "Use blunt-ended scissors to cut out the cards. An adult should do the cutting for children under six."
@@ -1072,7 +1073,7 @@
      "kid": "Say what you thought would happen, what you saw, and why you think it happened.",
      "think": "How would you test the pattern 'wooden things always float'?",
      "context": "This is the last step of Guess and Sort. You explain what you found.",
-     "parent": "Count how many of the ten guesses were right, and write the score on the table. Count the katori twice, once for each way you tested it."
+     "parent": "Count how many of the ten guesses were right, and write the score on the table. Count the katori twice, once for each way you tested it. For the last question, a good test tries many different wooden things. If even one wooden thing sinks, such as a piece of ebony, then the pattern is not always true."
     }
    ],
    "safety": "Coins, bottle caps and steel nuts are small parts: keep them away from children under five. Wipe up spilt water so nobody slips."
@@ -1198,7 +1199,7 @@
       "why": "A liquid that floats on another liquid is less dense than it. Thickness is a different idea. Honey is thick and oil is thin, but it is density, not thickness, that decides which one floats."
      },
      "think": "What would happen if you poured honey into this glass?",
-     "parent": "When you stir, the oil breaks into drops and rises back to the top, because it is less dense than the water. The water and the syrup slowly mix. After your child has said what they saw, explain: each liquid floats on the one that is denser than itself. You cannot know beforehand which layer each small thing will stop in. It stops where the liquid below is denser than the thing and the liquid above is less dense. Write down what you see.",
+     "parent": "When you stir, the oil breaks into drops and rises back to the top, because it is less dense than the water. The water and the syrup slowly mix. After your child has said what they saw, explain: each liquid floats on the one that is denser than itself. You cannot know beforehand which layer each small thing will stop in. It stops where the liquid below is denser than the thing and the liquid above is less dense. Write down what you see. For the honey question: honey is denser than water, so it would sink down through the oil and the water and settle near the bottom, close to the syrup.",
      "context": "This is the last step of the Density Tower. You look at the layers and explain them."
     }
    ],
@@ -1324,7 +1325,8 @@
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? A letter from about 1,600 years ago asks a teacher called Hypatia to build a tube like this.",
      "kid": "Say what you thought would happen, what you saw, and why you think it happened.",
      "think": "How could you use your hydroscope to check whether milk has been mixed with water?",
-     "context": "This is the last step of the Hydroscope. You explain what you found."
+     "context": "This is the last step of the Hydroscope. You explain what you found.",
+     "parent": "For the milk question, milk is a little denser than water. The hydroscope floats a bit higher in pure milk than in milk that has had water added. So you float it in a glass of milk you trust and mark the line. Then you float it in the milk you want to check. If it sits lower than your mark, the milk has probably been mixed with water."
     }
    ],
    "safety": "Pins are sharp and a steel nut is a small part: an adult should handle the pins, and keep both away from children under five."
@@ -1561,7 +1563,8 @@
      "say": "This is the final test. Load your best boat and wait one minute. Did it float? How many coins did it carry? How is it different from your first boat?",
      "kid": "Test your best boat for one minute. Write the number of coins.",
      "think": "What would you change if you had one more sheet of foil?",
-     "context": "This is the last step of the Cargo Ship challenge. You do the final test."
+     "context": "This is the last step of the Cargo Ship challenge. You do the final test.",
+     "parent": "Any idea with a reason is a good answer. For example, a second sheet could make the sides taller, which holds more air. It could also be folded into a second hull, so the boat is wider and steadier."
     }
    ]
   }
@@ -2387,8 +2390,8 @@
   "Packing cargo so a ship stays steady.",
   "Using floats in water tanks to switch a pump off when the tank is full.",
   "Using life jackets and swimming aids that keep a person's body less dense than water.",
-  "Floating metals, ores and minerals in liquids, to separate them from rock.",
-  "Using salt water in pickles and brine tanks, to keep food floating or submerged."
+  "Mining companies use special dense liquids to separate minerals from rock. The heavier mineral sinks and the lighter rock floats.",
+  "Pickle makers keep vegetables under a strong salt solution called brine. Because brine is dense, light pieces tend to float up, so cooks press a weight on top to keep them under."
  ],
  "spotted": [
   {

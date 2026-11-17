@@ -3,7 +3,7 @@
  "title": "Particles: one picture that explains why solids hold, liquids pour and gases squash",
  "level": 4,
  "summary": {
-  "text": "One drop of red food colour turns a cup of water pink. Pour a spoonful of that pink water into a cup of fresh water, then do it again and again. The colour gets fainter each time, but it does not vanish at once. Press the plunger of a syringe full of air, and the air squashes to less than half. Press one full of water, and it will not move. Your child dilutes colour through a row of cups and squeezes air and water. Then they build one picture, the particle model, that explains what a solid, a liquid and a gas are, and why the air in a pressure cooker can make it whistle.",
+  "text": "One drop of red food colour turns a cup of water pink. Pour a spoonful of that pink water into a cup of fresh water, then do it again and again. The colour gets fainter each time, but it does not vanish at once. Press the plunger of a syringe full of air, and the air squashes to less than half. Press one full of water, and it will not move. Your child dilutes colour through a row of cups and squeezes air and water. Then they build one picture, the particle model, that explains what a solid, a liquid and a gas are, and why the steam in a pressure cooker can make it whistle.",
   "art": "A row of six clear cups on a white paper, the water going from deep pink on the left to almost clear on the right, with a syringe of air and a syringe of water beside them."
  },
  "intro": {
@@ -390,7 +390,7 @@
   {
    "q": "A drop of colour made a whole cup pink, and was still there in a cup that looked clear. How would you prove that something is in the water if you cannot see it?",
    "kind": "deep",
-   "hint": "Think of the tests that could find it with something other than your eyes. Taste is one. What other senses could you use?"
+   "hint": "Think of tests that do not use your eyes. For example, could you let the water dry away and look for what is left behind? Never taste food colour that has been used in an experiment."
   },
   {
    "q": "Air squashes and water does not. Both are made of particles. So what must be different about them?",
@@ -446,7 +446,7 @@
    "Then she waited for the third. And she waited.",
    "Nothing came. The cooker was still hissing, but the weight on the top was not moving at all. Lalitha stood up and looked closer. A thin silver thread of steam was slipping out from the side of the lid, with a high thin sound, like a kettle far away.",
    "Her uncle Raghu walked in. He was a big, cheerful man, and he had come from Bengaluru for lunch. He was also very hungry. 'Ah, the cooker,' he said. 'Is lunch ready? Let me open it and look.' He reached for the lid handle with a kitchen cloth.",
-   "'Please don't, Mama,' said Lalitha. 'Turn the lid and see. It will not move.'",
+   "'Please don't, Mama,' said Lalitha. 'The lid is shut tight, and it will not open now.'",
    "He tried. He pulled and twisted. The lid did not move. 'Stuck,' said Raghu. 'These old cookers. Give me a spoon, I will force it. Or I will put the whole thing under the tap.'",
    "Lalitha switched off the gas. Then she did something she was proud of for a long time. She stood very still, and she thought about the cooker the way her teacher had taught her to think about everything. She pictured the steam as a crowd of tiny particles, too small to see, flying about at hundreds of metres a second.",
    "'Mama, listen,' she said. 'Inside there is water, and the flame heated it until a lot of it turned into steam. Steam is a gas. Its particles fly in all directions and hit the walls and the lid. The lid is shut, so they have nowhere to go. They are pushing on the lid right now, much harder than the air outside pushes. That is why it will not open.'",
@@ -700,7 +700,8 @@
        ]
       }
      ],
-     "think": "Can you think of something at home that goes through a change like this every day?"
+     "think": "Can you think of something at home that goes through a change like this every day?",
+     "parent": "Good answers are ice melting in a drink, ghee melting in a hot pan and setting again, wet clothes drying, or steam from a kettle. In each one, the same stuff is in a different state because its particles are moving differently."
     }
    ]
   }
@@ -901,7 +902,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why did it happen?",
      "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: one drop holds so many colour particles that they spread into many cups. What I saw: the pink faded cup by cup, and the last cup looked clear, perhaps a tiny bit different from plain water. Why: each spoonful carries a tenth of the colour, so there is less and less, but never exactly none.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: one drop holds so many colour particles that they spread into many cups. What I saw: the pink faded cup by cup, and the last cup looked clear, perhaps a tiny bit different from plain water. Why: each spoonful carries a tenth of the colour, so there is less and less, but never exactly none. For the last question: let a spoonful of the water from cup 6 dry on a clean saucer, and look for a very faint stain of colour. Do not taste it.",
      "think": "If the colour in cup 6 is still there, how could you prove it without looking?"
     }
    ]
@@ -1085,7 +1086,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then ask them to draw the air particles before and after pushing.",
      "say": "Tell me three things. What do you think? What did you see? Why did it happen? Then draw the air particles before and after.",
      "kid": "Say what you think, what you saw, and why. Then draw the air particles.",
-     "parent": "This is claim, evidence and reasoning. A good answer: What I think: air has empty space between its particles. What I saw: the air squashed to about half and sprang back, and the water did not move. Why: air particles are far apart, so they can be pushed closer. Water particles already touch. In the drawing, the particles should be the same size before and after, just closer together after.",
+     "parent": "This is claim, evidence and reasoning. A good answer: What I think: air has empty space between its particles. What I saw: the air squashed to about half and sprang back, and the water did not move. Why: air particles are far apart, so they can be pushed closer. Water particles already touch. In the drawing, the particles should be the same size before and after, just closer together after. For the last question: at last the particles would touch each other, and there would be no empty space left to squeeze them into. Then the air would be as hard to squeeze as a liquid.",
      "think": "If you kept squeezing the air in the syringe harder and harder, what do you think would stop you at last?"
     }
    ]
@@ -1211,7 +1212,8 @@
       "a": 0,
       "why": "Real gas particles are very far apart for their size, with empty space between them. In the box, the grains are close, and there is air in between. Picking 'too round' is about shape, which is not the main problem. Picking 'not a gas' misses the point of a model: it does not have to be a gas to show how gas acts."
      },
-     "think": "What would you need to change to make the box a better model of a gas?"
+     "think": "What would you need to change to make the box a better model of a gas?",
+     "parent": "To make the box a better model of a gas, use far fewer grains and a much bigger box. Then the grains would be far apart, with empty space between them, and each one would fly until it hits a wall or another grain."
     }
    ]
   },
@@ -1317,8 +1319,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Add up the three amounts. Compare the total with 300 millilitres. Then talk about what this shows.",
-     "say": "Add up the amounts. The jug only holds 500 millilitres. How much did you fit in? What do you think this tells us about empty space?",
-     "kid": "Add up the three amounts. How much did you fit in?",
+     "say": "The chana filled the jug to the 300 line. Add up the chana, the seeds and the water that you fitted in. Is the total more than 300?",
+     "kid": "Add up the three amounts. Is the total more than 300?",
      "ask": [
       {
        "q": "What does this show about empty space between things?",
@@ -1329,7 +1331,8 @@
        ]
       }
      ],
-     "think": "Particles of different sizes fit into each other's gaps in the same way. Where have you seen small things fit between big things?"
+     "think": "Particles of different sizes fit into each other's gaps in the same way. Where have you seen small things fit between big things?",
+     "parent": "The total is more than 300 millilitres, for example 300 plus 85 plus 40 is 425. All of it fitted into the space that looked full of chana. So the chana, which looked full, had empty gaps. Good answers for the last question are sand between pebbles, or a full bus where more people can still squeeze in."
     }
    ]
   },
@@ -1419,7 +1422,7 @@
        "It has no particles"
       ],
       "a": 0,
-      "why": "Table salt is almost all one substance, with a tiny amount of other things added. Scientists would say it is a mixture, but a very pure one. Picking 'half and half' is wrong, because the iodine is only a tiny part. Everything has particles, so the third answer is wrong."
+      "why": "Table salt is almost all one substance, with a tiny amount of other things added. Scientists call it nearly pure. Picking 'half and half' is wrong, because the iodine is only a tiny part. Everything has particles, so the third answer is wrong."
      }
     },
     {
@@ -1428,7 +1431,8 @@
      "do": "Ask the question below.",
      "say": "Why can't we say for sure that any packet is one pure substance?",
      "kid": "Why is it hard to find a perfectly pure substance?",
-     "think": "Why might a scientist need special equipment to make a really pure substance?"
+     "think": "Why might a scientist need special equipment to make a really pure substance?",
+     "parent": "Almost every packet has a tiny amount of something else in it, such as iodine in salt. To make a really pure substance, scientists must take out even those tiny amounts. That needs special equipment."
     }
    ]
   },
@@ -1537,7 +1541,8 @@
      "do": "Ask your child to choose one drawing and fix it. Then ask the question below.",
      "say": "Pick one drawing and fix it. Then tell me, what does a drawing like this leave out?",
      "kid": "Fix one drawing. What does a drawing leave out?",
-     "think": "A drawing is flat and still. What is real about particles that a flat, still picture cannot show well?"
+     "think": "A drawing is flat and still. What is real about particles that a flat, still picture cannot show well?",
+     "parent": "A flat drawing cannot show that real particles are always moving, very fast and in every direction. It also cannot show that they are in three dimensions, in front of and behind each other. Arrows are the best we can do."
     }
    ]
   }
@@ -1646,7 +1651,8 @@
      "do": "1. Pick the one question you could not answer well. 2. Look up the answer, or ask a grown-up. 3. Add a new page with the answer.",
      "say": "Choose the question that was hardest. Find an answer. Add a new page to your book. Write the answer in plain words.",
      "kid": "Pick the hardest question. Find the answer. Add a page.",
-     "think": "Why is explaining something to someone else a good way to find what you do not yet understand?"
+     "think": "Why is explaining something to someone else a good way to find what you do not yet understand?",
+     "parent": "When you explain something, you find out quickly which parts you cannot say clearly. A younger child asks simple questions that your own book did not answer. Those questions show you what you still need to understand."
     }
    ]
   }
@@ -1741,7 +1747,8 @@
       "a": 0,
       "why": "The air in the glass has to be somewhere, so it stays inside and keeps the water out. This shows air is a real thing that takes up space. Picking 'glass is lighter' is about floating, not about air. The third answer is a silly one, but it is a reminder to give a reason from the test."
      },
-     "think": "What is the best evidence for something you cannot see?"
+     "think": "What is the best evidence for something you cannot see?",
+     "parent": "The best evidence for something you cannot see is what it does to things you can see, feel or hear. For air, that is the water kept out of the glass, the balloon that pushes back, or the paper pressed down."
     },
     {
      "id": "s4",
@@ -2352,7 +2359,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and the second person are talking about the particles in a steel spoon.",
+     "p": "Two people are talking about the particles in a steel spoon.",
      "views": [
       {
        "who": "The first person",
@@ -2553,7 +2560,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and the second person are talking about a table.",
+     "p": "Two people are talking about a table.",
      "views": [
       {
        "who": "The first person",
@@ -2991,11 +2998,11 @@
    "evidence": "In the Squeeze Test, the air in the syringe squashed to about half, and the water hardly moved. In the Full Jar activity, the mustard seeds slid into the gaps between the chana and filled the jar. If your numbers differ, write them down as they are."
   },
   "three": {
-   "who_am_i": "More than half of your weight is water. Your lungs fill with a gas, and the empty space between air particles is why you can breathe in and out.",
+   "who_am_i": "Your body has all three states of matter. Your bones and teeth are solid, and most of the rest of you is water, which is a liquid. Your lungs hold air, which is a gas. Air fills your lungs easily because there is a lot of empty space between its particles.",
    "what_is_life": "A bee finds a flower by smell particles that drift through the air from far away. Many living beings find food, friends and danger by catching particles in the air or the water.",
-   "what_is_this_world": "A rock, the sea, the air and the steam from a kettle are made of the same kinds of particles. They differ in how much room the particles have, and how fast they move."
+   "what_is_this_world": "A rock, the sea, the air and the steam from a kettle are all made of tiny particles. In each one, what it does depends on how much room the particles have and how fast they move."
   },
-  "thread": "Solid, liquid and gas are not three different kinds of stuff. They are three ways the same particles can behave, depending on how much room they have and how fast they move. Heating or cooling changes a substance from one state to another. So a solid spoon and the steam from a kettle are more alike than they look.",
+  "thread": "Solid, liquid and gas are not three different kinds of stuff. They are three ways the same particles can behave, depending on how much room they have and how fast they move. Heating or cooling changes a substance from one state to another. So a block of ice and the steam from a kettle are more alike than they look. They are the same water particles, behaving in two different ways.",
   "teachings": [
    {
     "source": "Democritus of Abdera, as reported by Aristotle in the Metaphysics, Book 1",
@@ -3033,7 +3040,7 @@
    "kid": "Be a solid and shake a little. Be a liquid and sway. Be a gas and spread wide. Breathe slowly each time."
   },
   "ask": [
-   "If a solid, a liquid and a gas can be the same particles, what makes a spoon a spoon and steam steam?",
+   "Ice, water and steam can be made of the same particles. So what makes ice ice, and steam steam?",
    "Nobody can see the empty space in air. Is it real? How do you know?",
    "Your hand cannot pass through a table, though both are mostly empty space. What does that tell you about what 'solid' means?"
   ],

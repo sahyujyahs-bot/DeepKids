@@ -3,7 +3,7 @@
 
 **Summary.** A loaded steel ship can weigh tens of thousands of tonnes and still float, while a pebble that fits in your hand sinks at once. A ball of kitchen foil sinks, but the same foil folded into a small boat floats and carries coins. Your child tests why, with foil boats, a potato in salty water and a bottle that dives. They learn what density is, why a hollow shape floats, and why salty water holds things up better than fresh water. They also learn why ice floats, how submarines and fish rise and sink, and how a pattern like 'heavy things sink' is tested before anyone trusts it.
 
-**Intro.** *Drop a ball of kitchen foil into a bucket of water. It sinks. Now squeeze the same piece of foil into a little boat and set it on the water. It floats. It is the same foil, with the same weight. What changed?* Nothing was added and nothing was taken away. Only the shape changed. A boat shape holds a big pocket of air, and the pocket pushes aside a lot of water. In this unit you find out how much water a thing must push aside to float. You test foil boats with coins, you float a potato in salty water, and you make a bottle diver that sinks and rises when you squeeze it.
+**Intro.** *Drop a ball of kitchen foil into a bucket of water. It sinks. Now fold the same piece of foil into a little boat and set it on the water. It floats. It is the same foil, with the same weight. What changed?* Nothing was added and nothing was taken away. Only the shape changed. A boat shape holds a big pocket of air, and the pocket pushes aside a lot of water. In this unit you find out how much water a thing must push aside to float. You test foil boats with coins, you float a potato in salty water, and you make a bottle diver that sinks and rises when you squeeze it.
 
 ## Learning outcomes
 0. I can explain that a thing floats when it is lighter than the same amount of water, which scientists call less dense.
@@ -17,7 +17,7 @@
 ## Terms
 - **Float**: To stay on top of a liquid, or to stay at one level in it, without sinking. *e.g.* A wooden spoon floats on water.
 - **Sink**: To go down to the bottom of a liquid. *e.g.* A steel spoon sinks in water.
-- **Mass**: How much stuff there is in a thing. We measure mass in grams and kilograms. In daily life, people say weight. *e.g.* A one-rupee coin has a mass of about 4 grams.
+- **Mass**: How much stuff there is in a thing. We measure mass in grams and kilograms. In daily life, people call it weight. *e.g.* A one-rupee coin has a mass of about 4 grams.
 - **Volume**: How much space a thing takes up. We measure the volume of liquids in millilitres and litres. *e.g.* A cup of water has a volume of 250 millilitres.
 - **Density**: How much stuff is packed into a certain space. A dense thing is heavy for its size. *e.g.* A steel nail is much denser than a piece of wood of the same size.
 - **Upthrust**: The push upwards that a liquid or a gas gives to anything in it. *e.g.* You feel upthrust when you push an empty bottle under water and it pushes back.
@@ -34,9 +34,9 @@
 
 ## Explanations
 ### What makes a thing float: lighter than the water it pushes aside · *defined*
-**Definition:** A thing floats when it is lighter than the same amount of water it pushes aside. A thing sinks when it is heavier than that water.
+**Definition:** A thing floats when it is lighter than water that takes up the same space. A thing sinks when it is heavier than that water.
 
-When you put something into water, it pushes some water out of the way. Imagine a bucket of water the same size as the part of the thing that is under the surface. If that water weighs more than the whole thing, the water wins, and the thing floats. If the water weighs less, the thing wins, and it sinks. This is why size and weight alone do not settle it. A big ship is heavy, but it is also very big, and it pushes aside a huge amount of water. A pebble is light, but it is small and solid, so it pushes aside only a little water. What matters is how heavy a thing is for its size.
+When you put something into water, it pushes some water out of the way. Think of an amount of water that takes up exactly as much space as the whole thing. If that water weighs more than the thing, the thing floats. If that water weighs less, the thing sinks. This is why size and weight alone do not settle it. A big ship is heavy, but it is also very big, and it pushes aside a huge amount of water. A pebble is light, but it is small and solid, so it pushes aside only a little water. What matters is how heavy a thing is for its size.
 - e.g. A cork floats because a piece of cork is lighter than the same amount of water.
 - e.g. A steel spoon sinks because steel is much heavier than the same amount of water.
 - e.g. A big ship floats because the water it pushes aside weighs as much as the ship.
@@ -44,7 +44,7 @@ When you put something into water, it pushes some water out of the way. Imagine 
 **Definition:** Density tells you how much mass there is in a certain volume. Something dense is heavy for its size.
 
 A litre of water has a mass of 1 kilogram. So one millilitre of water has a mass of 1 gram. Scientists use water as the measuring stick. A material that is denser than water, such as iron, sinks in it. Iron is almost 8 times denser than water. A material that is less dense than water, such as most woods, floats. Cooking oil is a little less dense than water, and ice is a little less dense than liquid water. Some very hard woods, such as ebony, are denser than water and sink. The word density comes from the idea of how closely stuff is packed together.
-- e.g. Aluminium is denser than water, but only about 2.7 times, so a thin aluminium foil is easily shaped into a floating boat.
+- e.g. Aluminium is denser than water, by about 2.7 times. That is not very much, so a thin sheet of aluminium foil can be folded into a boat that holds enough air to float.
 - e.g. Most woods are between half as dense as water and nearly as dense, so they float.
 - e.g. Cooking oil is about nine tenths as dense as water, so oil floats on water.
 ### Upthrust: the water pushes up · *defined*
@@ -57,7 +57,7 @@ Water pushes in every direction on a thing sitting in it, but the push from belo
 ### Why shape matters: a hollow boat holds air · *defined*
 **Definition:** A hollow shape that holds air pushes aside more water than a solid lump of the same material. If it pushes aside enough water, the shape floats.
 
-Foil is denser than water, so a ball of foil sinks. When you fold the same foil into a boat, it holds a big space of air. The air weighs almost nothing. The boat and the air together take up a lot of room, and push aside a lot of water. Overall, the boat is light for its size, so it floats. A steel ship floats for the same reason. Most of a ship's hull is air. The hull of a loaded cargo ship, steel, cargo and air together, is less dense than water. If a ship's hull is cracked open and fills with water, the air is replaced, and the ship sinks.
+Foil is denser than water, so a ball of foil sinks. When you fold the same foil into a boat, it holds a big space of air. The air weighs almost nothing. The boat and the air together take up a lot of room, and push aside a lot of water. Overall, the boat is light for its size, so it floats. A steel ship floats for the same reason. Most of a ship's hull is air. Take a loaded cargo ship as a whole, with its steel, its cargo and the air inside. It is less dense than water. If a ship's hull is cracked open and fills with water, the water takes the place of the air, and the ship sinks.
 - e.g. A foil ball sinks, but a foil boat floats.
 - e.g. A steel katori floats when it is set on the water with its mouth up, but it sinks when it fills with water.
 - e.g. A steel ship floats because most of its hull is air.
@@ -71,9 +71,9 @@ When salt dissolves in water, the salt particles fit in between the water partic
 ### Why ice floats, and why oil floats · *defined*
 **Definition:** Ice floats on water because ice is less dense than liquid water. Oil floats on water because oil is less dense than water.
 
-Almost every other solid is denser than its own liquid, so it sinks in it. Ice is different. When water freezes, the water particles lock into an open pattern with gaps between them. The same amount of water takes up more space as ice, about one tenth more, and so ice is less dense. About nine tenths of a floating iceberg is under the water, and one tenth is above. In winter, ice forms on top of a lake, and the water underneath stays liquid, which lets fish survive. Oil floats because oil is less dense than water, and the two do not mix, so oil forms a layer on top.
+Almost every solid is denser than its own liquid, so it sinks in it. Ice is different. When water freezes, the water particles lock into an open pattern with gaps between them. The same amount of water takes up more space as ice, about one tenth more, and so ice is less dense. About nine tenths of a floating iceberg is under the water, and one tenth is above. In winter, ice forms on top of a lake, and the water underneath stays liquid, which lets fish survive. Oil floats because oil is less dense than water, and the two do not mix, so oil forms a layer on top.
 - e.g. An ice cube floats in a glass of water, with a little of it above the surface.
-- e.g. Cooking oil forms a layer on top of water in a dal that has been too oily.
+- e.g. In a dal that has too much oil, the oil forms a layer on top.
 - e.g. Ponds in cold places freeze from the top, and fish live under the ice.
 ### Liquid layers: the density tower · *defined*
 **Definition:** Liquids that do not mix will sit in layers, with the densest liquid at the bottom and the least dense at the top.
@@ -81,7 +81,7 @@ Almost every other solid is denser than its own liquid, so it sinks in it. Ice i
 If you pour oil, water and thick sugar syrup into a glass, they sit one above the other. The syrup is the densest, so it sinks to the bottom. Oil is the least dense, so it floats at the top. Water sits in the middle. Each liquid floats on the liquid that is denser than itself, and sinks in the liquids that are less dense than itself. The layers stay separate for a long time if they are poured gently. A small solid thing dropped into the glass sinks through the layers that are less dense than it is, and stops on the layer that is denser than it is.
 - e.g. Honey sinks to the bottom of a glass of water.
 - e.g. Oil floats on top of water.
-- e.g. A drop of ink in water slowly spreads, but a drop of oil stays together.
+- e.g. Shake oil and water together in a bottle and then leave it still. The oil floats back up and forms a layer on top.
 ### Fish, submarines and balloons change how dense they are · *defined*
 **Definition:** To rise or sink, a fish, a submarine or a balloon changes how dense it is overall, by changing how much gas or water it holds.
 
@@ -99,14 +99,14 @@ People in India have built boats from whatever floats and is easy to find. At Ho
 ### Measuring density: the hydrometer · *defined*
 **Definition:** A hydrometer is a weighted tube that floats upright in a liquid. The denser the liquid, the higher the tube floats.
 
-A hydrometer floats lower in a liquid that is less dense and higher in a liquid that is denser. A scale on the tube lets you read the density. Dairies use hydrometers to check milk, and car garages use them to check batteries. A letter from about the year 400 CE, written by a man named Synesius, asks Hypatia of Alexandria, a teacher of mathematics and philosophy, to have a hydroscope made for him. This was a tube that floated at different heights in different liquids. Historians are not sure whether she built it. In the activity, you make your own, from a drinking straw.
+A hydrometer floats lower in a liquid that is less dense and higher in a liquid that is denser. A scale on the tube lets you read the density. Dairies use hydrometers to check milk, and car garages use them to check batteries. A letter from about the year 400 CE, written by a man named Synesius, asks Hypatia of Alexandria, a teacher of mathematics and philosophy, to have a hydroscope made for him. This was a tube that floated at different heights in different liquids. Historians are not sure whether she built it. In the activity Make a Hydroscope, you make your own from a drinking straw.
 - e.g. A milk hydrometer floats lower in milk mixed with water, because the mixture is less dense.
 - e.g. A tube with clay in the bottom floats upright in a glass of water.
 - e.g. The same tube floats higher in salty water.
 
 ## Mostly agreed
-- A thing floats in a liquid when it is less dense than the liquid, and sinks when it is denser. *How we know:* The masses and volumes of many materials have been measured, and their float and sink tests match.
-- The upthrust on a thing in a liquid equals the weight of the liquid the thing pushes aside. *How we know:* If you weigh the water spilled from a full container, it equals the loss of weight you feel.
+- A thing floats in a liquid when it is less dense than the liquid, and sinks when it is denser. *How we know:* Scientists have measured the mass and volume of many materials. The ones that are less dense than water float, and the ones that are denser sink.
+- The upthrust on a thing in a liquid equals the weight of the liquid the thing pushes aside. *How we know:* Lower a thing into a container that is full to the brim, and weigh the water that spills out. That weight equals how much lighter the thing feels in the water.
 - A hollow shape that holds air can float even when it is made of a material that sinks. *How we know:* A foil ball sinks and a foil boat floats, and steel ships float.
 - Salty water is denser than fresh water, so things float higher in it. *How we know:* Ships carry load lines marked for sea water and fresh water, because they sit at different depths.
 - Ice is less dense than liquid water, so it floats. *How we know:* Ice cubes float, and icebergs float with about a tenth of their volume above the water.
@@ -114,7 +114,7 @@ A hydrometer floats lower in a liquid that is less dense and higher in a liquid 
 
 ## How we found out
 **Archimedes of Syracuse, a Greek mathematician (about 287 to 212 BCE), About 250 BCE.** More than two thousand years ago, an ancient Greek thinker named Aristotle taught that broad, flat things float because of their shape, and that heavy things naturally go down. Around 250 BCE, in the Greek city of Syracuse, a mathematician named Archimedes tested this carefully. In his book On Floating Bodies, he showed that a liquid pushes up on anything in it, with a force equal to the weight of the liquid the thing pushes aside. Shape matters only because it changes how much liquid is pushed aside. A famous story says he found the idea in his bath and ran through the streets shouting 'Eureka!' Historians think that part is probably a legend, told two hundred years later by a Roman writer named Vitruvius. The book is real.  
-*What people believed before:* Aristotle thought that shape alone decided whether a thing floated, and that heavy things simply belong down. Archimedes showed that a thing floats when the water it pushes aside weighs as much as the thing.
+*What people believed before:* Aristotle thought that shape alone decided whether a thing floated, and that heavy things naturally go down. Archimedes showed that a thing floats when the water it pushes aside weighs as much as the thing.
 
 ## Challenging perspectives
 - **Heavy things sink and light things float.** (Many people, and many young children.; *rejected*)  
@@ -134,25 +134,25 @@ A hydrometer floats lower in a liquid that is less dense and higher in a liquid 
   Against: Ice is lighter than water, not heavier. An iceberg sits mostly under the water because ice is only a little lighter than sea water. If it were much lighter, it would sit higher.
 
 ## Roots
-We have tested boats, potatoes and bottles, and learned what makes things float. Now we ask what floating tells us about things, and about ourselves.
+In this unit you tested foil boats, a potato in salty water and a bottle diver, and learned what makes things float. This part asks what floating shows about things, and about us.
 
-**Deep truth.** In the salt test, the same potato sank in tap water and floated in salty water. The potato had not changed at all. The liquid had. So floating describes the potato and the liquid together.  
-*Habit it breaks:* We say 'this floats' and 'that sinks' as if floating were a trait inside the thing, like its colour. That leaves out the liquid.  
-*Evidence:* In the salt test, the potato piece, the glass and the amount of water stayed the same. Only the salt changed, and the potato rose from the bottom to the top. If your own results differ, write them down as they are and test again.
+**Deep truth.** In the Potato and the Salt test, the same potato sank in tap water and floated in salty water. The potato had not changed at all. The liquid had. So floating describes the potato and the liquid together.  
+*Habit it breaks:* We say 'this floats' and 'that sinks' as if floating belonged to the thing alone, like its colour. That leaves out the liquid.  
+*Evidence:* In the Potato and the Salt test, the potato piece, the glass and the amount of water stayed the same. Only the salt changed, and the potato rose from the bottom to the top. If your own results differ, write them down as they are and test again.
 
 - *who am i:* You float more easily in the sea than in a swimming pool. What you can do depends partly on what is around you.
 - *what is life:* A rohu fish adds or removes gas in her swim bladder, so she can stay at the depth she wants. Many living beings change themselves to suit the water or air around them.
-- *what is this world:* Ships, fish, ice and balloons each find their place where their own density meets the density of what is around them.
+- *what is this world:* Ships, fish, ice and balloons each settle at a level that depends on two things: their own density, and the density of the water or air around them.
 
-Every floating thing is in a balance. Its weight pulls down, and the liquid pushes up, and the two are equal. Nothing holds the thing up from outside. When the liquid changes, the balance moves to a new place. A ship sits higher in the sea than in a river. Each thing finds its level by meeting what is around it.
+Every floating thing is in balance. Its weight pulls it down and the liquid pushes it up, and the two are equal. Nothing else holds it up. When the liquid changes, the thing settles at a new level. That is why a ship sits higher in the sea than in a river. Where a thing settles depends on the thing and on the liquid around it.
 
 - **Tao Te Ching 8:** The best is like water. Water helps all things and does not push to be first. It settles in low places that people avoid. (Water holds up the heaviest ship without any effort. It pushes up exactly as much as the ship weighs, and no more.)
 - **Nagarjuna, Mulamadhyamakakarika, chapter 15:** Nagarjuna, an Indian Buddhist teacher of about the 2nd century CE, taught that things do not have a fixed nature of their own. What a thing is depends on the conditions around it. (A potato is not a floater or a sinker by itself. It depends on the liquid it is in.)
 - Science (settled): Archimedes' principle: the upthrust on a thing in a liquid equals the weight of the liquid it pushes aside.
 - Science (debated): Water has dozens of unusual properties, including the fact that ice floats. Scientists still debate the reasons for some of them.
-- Other view, Many physicists: Density is a property of the material alone, like its colour or its hardness. Whether a thing floats then follows from comparing two numbers, the density of the thing and of the liquid. Nothing more needs to be said about relationships.
+- Other view, Many physicists: Density is a property of the material alone, like its colour or its hardness. To know whether a thing floats, you only compare two numbers: the density of the thing and the density of the liquid. On this view, there is no need to say that floating belongs to the thing and the liquid together.
 - Practice, Feel the water push back (3 min): Fill a big bowl with water and let it go still. Hold an empty, closed bottle in your hands. Push the bottle slowly down into the water, and feel the water pushing back. Breathe in slowly three times. Then let go, and watch the bottle rise to where it rests. Think about how the water and the bottle find their balance.
-- Ask: Is 'floats' something that a potato has, or something that happens between the potato and the water?
+- Ask: Is floating something a potato has by itself, or something that happens between the potato and the water?
 - Ask: A ship sits higher in the sea than in a river. Has the ship changed?
 - Ask: What other words, such as heavy, big or fast, only make sense when you compare one thing with another?
 
@@ -164,7 +164,7 @@ Every floating thing is in a balance. Its weight pulls down, and the liquid push
 - *big:* Floating and sinking also happens in air. Where have you seen it? (hint: Think about balloons, smoke and kites.)
 - *deep:* A boat sits higher in the sea than in a river. Does the boat change? (hint: Think about what is different about the water.)
 - *big:* People built bowl-shaped boats thousands of years ago. How did they know a bowl would float, before anyone wrote down a rule? (hint: Think about how people learn from trying, again and again.)
-- *big:* When you lie on your back in the water, who is holding you up? (hint: Think about the water, the air in your lungs and your own body.)
+- *big:* When you lie on your back in the water, what is holding you up? (hint: Think about the water, the air in your lungs and your own body.)
 
 ## Story: The Line on the Ferry
 *A made-up story. The science in it is real. A loaded boat sits lower in the water. If too much cargo pushes the rim down to the water, water comes in and the boat sinks. A painted load mark shows how low a boat may safely sit.*
@@ -195,7 +195,7 @@ Bhaben Da rubbed his chin. 'My father painted it. He said, when the water touche
 
 Bhaben Da took off four sacks of rice and left them on the bank. The boat rose in the water until the white line was clear of the river again. 'The rice can go on the second trip,' he said. 'Thank you, Rupjyoti.'
 
-She smiled. On the way across, she watched the water slide past, a good hand's width below the rim, and she thought about all the water the boat was pushing aside. It pushed aside exactly as much as it weighed. No more, and no less.
+She smiled. On the way across, she watched the water slide past, a good hand's width below the rim. She thought about all the water the boat was pushing aside. The boat pushed aside water that weighed exactly as much as the boat and its load. No more, and no less.
 
 On the second trip, the rice came across, and the line stayed dry the whole way.
 
@@ -207,13 +207,13 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 
 ## Games
 ### g1 · Harbour Master: will it float? (20 min)
-- **safety:** Use blunt-ended scissors for the cards, and an adult should cut for children under six.
-- **rules:** One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. Then everyone turns the tokens over together.; The reader reads the back. Every player whose token matches the first word of the back scores one point.; A player who also says why, using the words density, air or salt in a correct reason, scores one more point. The reader decides, using the back of the card.; With two players, the parent and the child swap roles after every card. The reader never guesses on their own card.; After each card, the reader's job passes to the player on the left.; The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win.
-- **Printable cards: 24 two-sided cards: something in water or air on the front, and the answer with the reason on the back:** A big iron nail is dropped into a bucket of water. (back: Sinks. Iron is almost 8 times denser than water.); A big steel ship, loaded with cargo, sits in a harbour. (back: Floats. Most of its hull is air, so the ship is lighter than the water it pushes aside.); A block of wood is put in water. (back: Floats. Most woods are less dense than water.); A block of ebony, a very dense wood, is put in water. (back: Sinks. Ebony is denser than water.); A ball of clay is dropped into water. (back: Sinks. Clay is denser than water.); The same clay is shaped into a wide bowl and set on the water. (back: Floats. The bowl holds air and pushes aside enough water.); An ice cube is put in a glass of water. (back: Floats. Ice is a little less dense than water.); A raw potato is put in plain water. (back: Sinks. A potato is a little denser than plain water.); The same potato is put in very salty water. (back: Floats. Salt makes the water denser than the potato.); A person lies on their back in the very salty Dead Sea. (back: Floats. The Dead Sea is about ten times saltier than the ocean, so the water is very dense.); Cooking oil is poured gently onto water. Where does the oil go? (back: Floats. Oil is less dense than water, so it makes a layer on top.); Honey is poured gently into a glass of water. Where does the honey go? (back: Sinks. Honey is much denser than water.); A whole coconut is put into a pond. (back: Floats. A coconut has a lot of air inside its shell and husk.); A brick is dropped into water. (back: Sinks. A brick is denser than water.); A closed, empty plastic bottle is put into water. (back: Floats. The air inside makes the bottle lighter than the water it pushes aside.); The same bottle is filled with sand and closed. (back: Sinks. The sand makes the bottle denser than water.); A helium balloon is let go in a room. (back: Floats. Helium is about seven times lighter than air, so the balloon rises.); The burner of a hot air balloon is switched on. (back: Floats. The heated air inside is less dense than the cooler air outside, so the balloon rises.); A submarine lets sea water into its ballast tanks. (back: Sinks. The water makes the submarine heavier overall.); A submarine pushes the water out of its ballast tanks with compressed air. (back: Floats. The submarine becomes lighter overall, so it rises.); A fish lets gas out of her swim bladder. (back: Sinks. She becomes a little denser, so she goes down.); A steel katori is placed gently on water with its mouth facing up. (back: Floats. The katori holds a big space of air and pushes aside enough water.); A raft of banana stems is set on a river. (back: Floats. Banana stems are full of air spaces, so they are much less dense than water.); A one-rupee coin is dropped into water. (back: Sinks. Steel is almost 8 times denser than water.)
+- **safety:** Use blunt-ended scissors to cut out the cards. An adult should do the cutting for children under six.
+- **rules:** One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. Then everyone turns the tokens over together.; The reader reads the back. Every player whose token matches the first word of the back scores one point.; A player who also gives a correct reason, using the word density, air or salt, scores one more point. The reader decides, using the back of the card.; With two players, the parent and the child swap roles after every card. The reader never guesses on their own card.; After each card, the reader's job passes to the player on the left.; The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win.
+- **Printable cards: 24 two-sided cards: something in water or air on the front, and the answer with the reason on the back:** A big iron nail is dropped into a bucket of water. (back: Sinks. Iron is almost 8 times denser than water.); A big steel ship, loaded with cargo, sits in a harbour. (back: Floats. Most of its hull is air, so the ship is lighter than the water it pushes aside.); A block of wood is put in water. (back: Floats. Most woods are less dense than water.); A block of ebony, a very dense wood, is put in water. (back: Sinks. Ebony is denser than water.); A ball of clay is dropped into water. (back: Sinks. Clay is denser than water.); The same clay is shaped into a wide bowl and set on the water. (back: Floats. The bowl holds air and pushes aside enough water.); An ice cube is put in a glass of water. (back: Floats. Ice is a little less dense than water.); A raw potato is put in plain water. (back: Sinks. A potato is a little denser than plain water.); The same potato is put in very salty water. (back: Floats. Salt makes the water denser than the potato.); A person lies on their back in the very salty Dead Sea. (back: Floats. The Dead Sea is about ten times saltier than the ocean, so the water is very dense.); Cooking oil is poured gently onto water. Where does the oil go? (back: Floats. Oil is less dense than water, so it makes a layer on top.); Honey is poured gently into a glass of water. Where does the honey go? (back: Sinks. Honey is much denser than water.); A whole coconut is put into a pond. (back: Floats. A coconut has a lot of air inside its shell and husk.); A brick is dropped into water. (back: Sinks. A brick is denser than water.); A closed, empty plastic bottle is put into water. (back: Floats. The air inside makes the bottle lighter than the water it pushes aside.); The same bottle is filled with sand and closed. (back: Sinks. The sand makes the bottle denser than water.); A helium balloon is let go in a room. (back: Floats. Helium is about seven times lighter than air, so the balloon rises.); The burner of a hot air balloon is switched on. (back: Floats. The heated air inside is less dense than the cooler air outside, so the balloon rises.); A submarine lets sea water into its ballast tanks. (back: Sinks. The water makes the submarine heavier overall.); A submarine pushes the water out of its ballast tanks with compressed air. (back: Floats. The submarine becomes lighter overall, so it rises.); A fish lets gas out of her swim bladder. (back: Sinks. She becomes a little denser, so she goes down.); A steel katori is placed gently on water with its mouth facing up. (back: Floats. The katori holds a big space of air and pushes aside enough water.); A raft of banana stems is set on a river. (back: Floats. Banana stems are full of air spaces, so they are much less dense than water.); A one-rupee coin is dropped into water. (back: Sinks. The coin is made of steel, which is almost 8 times denser than water.)
 - **Printable tokens: 8 tokens: four that say Floats or rises, and four that say Sinks:** Floats or rises; Sinks; Floats or rises; Sinks; Floats or rises; Sinks; Floats or rises; Sinks
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
-  *Parent says:* These cards show things in water or air. Each player gets two tokens. Floats or rises, and Sinks. We will guess what happens to each thing.  
+  *Parent says:* These cards show things in water or air. Each player gets two tokens: one says Floats or rises, and one says Sinks. We will guess what happens to each thing.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Each player takes two tokens.
   - Note: One child with a parent: play as the two-player rule says, swapping the reader after every card. Two to four children: use all the tokens. If the group is short of time, play 16 cards and stop.
 - **s2 (6 min)**  
@@ -223,17 +223,18 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Ask: What do the things that float have in common? (good: They are lighter than water for their size.; They hold air.; They are less dense than water.)
 - **s3 (6 min)**  
   *Parent does:* Play the next eight cards. Swap the reader's job after every card. Keep a tally of points on paper.  
-  *Parent says:* Keep going. Remember what decides floating. Is it lighter than the same amount of water? Does it hold air? Is the water salty?  
-  *Child mode:* Play on. Is it lighter than the same amount of water? Does it hold air?
-  - Ask: Which card surprised you so far, and why? (good: The steel ship floats.; The potato floats in salt water.; Ice floats.)
+  *Parent says:* Keep going. Remember what decides whether a thing floats. Is the thing lighter than the same amount of water? Does it hold air? Is the water salty?  
+  *Child mode:* Keep playing. For each card, ask: is the thing lighter than the same amount of water? Does it hold air?
+  - Ask: Which card has surprised you so far, and why? (good: The steel ship floats.; The potato floats in salt water.; Ice floats.)
 - **s4 (3 min)**  
   *Parent does:* Play the last ten cards. When the pile is finished, count each player's points.  
-  *Parent says:* Last cards. Think about the density of the thing and the density of what is around it.  
+  *Parent says:* These are the last cards. Think about the density of the thing and the density of what is around it.  
   *Child mode:* Play the last cards. Count your points.
 - **s5 (2 min)**  
   *Parent does:* Say who won. Ask your child which card was the hardest to guess, and why.  
   *Parent says:* Who got the most points? Which card was hardest? Why was it hard?  
   *Child mode:* Who won? Which card was hardest? Why?
+  - Note: A good answer names a card where the liquid changes the result. The potato sinks in plain water but floats in very salty water. A ship sits higher in the sea than in a river. A person floats more easily in the Dead Sea than in a pool.
   - Think: Which card would change if the liquid were different?
 
 ## Experiments
@@ -241,20 +242,20 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 - **question:** A foil ball sinks. Which foil boat shape carries the most coins before it sinks: a wide, shallow one, a medium one, or a narrow, deep one?
 - **predict:** Before you start, guess. Which boat will carry the most coins? Which will carry the fewest? Why do you think so?
 - **fair test:** Every boat is made from a square of foil of the same size. The basin and the depth of the water are the same for every test. You add coins in the same way each time, gently and one at a time. Only the shape of the boat changes, so any difference comes from the shape. The foil ball is the control. It shows what happens to the same foil with no hollow shape.
-- **safety:** Fold the foil edges over, because cut foil can be sharp. Keep coins and nuts away from children under five, who might put them in their mouths. Wipe up spilt water at once so nobody slips.
-- **record:** For each boat, write how many coins it carried before it tipped or water came over the rim. Do each boat twice. Then draw a bar chart with one bar for each boat, using the bigger of the two numbers.
+- **safety:** Fold the foil edges over, because cut foil can be sharp. Keep coins and steel nuts away from children under five, who might put them in their mouths. Wipe up spilt water at once so nobody slips.
+- **record:** For each boat, write how many coins it carried before it tipped or water came over the rim. Test each boat twice. Then draw a bar chart with one bar for each boat, using the bigger of the two numbers.
 - **results table:** Boat | Base and sides | Coins carried: try 1 | Coins carried: try 2
 - **s1 (5 min)**  
-  *Parent does:* Show your child the foil, the basin and the coins. Say that all three boats are made from the same size of foil. Write down their guess and their reason.  
+  *Parent does:* Show your child the foil, the basin and the coins. Say that all three boats are made from the same size of foil. Write down your child's guess and reason.  
   *Parent says:* We will fold three boats from the same size of foil. One is wide and shallow. One is medium. One is narrow and deep. We will also squeeze one square into a ball. Which boat will carry the most coins? Which will carry the fewest? Why do you think so?  
   *Child mode:* Three boats from the same foil. One is wide. One is medium. One is deep. Which carries the most coins? Why?
   - Ask: Why do you think that boat will carry the most? (good: It has the most room.; It is the biggest.; It will push aside the most water.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. One child with a parent: the child folds and loads, the parent counts aloud and writes. Two to four children: each child folds and tests one boat (a different one each), then compares; one child is the counter, one adds coins, one writes. Make one set of boats per pair so every boat is tested twice. Nothing here needs more than one adult.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. One child with a parent: the child folds the boats and adds the coins, and the parent counts aloud and writes. Two to four children: each child folds and tests a different boat, and then they compare results. One child counts, one adds coins and one writes. Make one set of boats for each pair of children, so every boat is tested twice. One adult is enough.
 - **s2 (10 min)**  
   *Parent does:* Measure and cut four squares of foil, each 15 centimetres by 15 centimetres. Fold the first square up 1 centimetre on every side. Fold the second up 3 centimetres on every side. Fold the third up 5 centimetres on every side. Pinch the corners so the sides stand up. Squeeze the fourth into a ball.  
   *Parent says:* Fold each edge up, and press the corners to make the sides stand. The first boat has low sides and a wide base. The second has medium sides. The third has tall sides and a narrow base. The fourth is a ball.  
   *Child mode:* Cut four squares of foil. Fold up the edges of three. Make a ball with the last one.
-  - Note: Make the squares exactly the same size. Fold the sharp edges inwards so nobody scratches a finger. Write A, B and C on a small piece of paper by each boat. Fold the four corners flat against the sides and press them hard, so water cannot leak in through the corner folds.
+  - Note: Make the squares exactly the same size. Fold the sharp edges inwards so nobody scratches a finger. Label the boats with small pieces of paper: A for the boat with 1 centimetre sides, B for 3 centimetre sides and C for 5 centimetre sides. Fold the four corners flat against the sides and press them hard, so water cannot leak in through the corner folds.
   - Check: Why must all four foil squares be the same size? → **So only the shape changes**
 - **s3 (5 min)**  
   *Parent does:* Fill the basin with water about 10 centimetres deep. Put the foil ball in the water, and watch what it does. Then float boat A in the middle of the basin.  
@@ -264,21 +265,21 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Note: Do not explain yet. Let your child say what they think. The ball should sink straight away. Record 0 coins for the ball.
 - **s4 (20 min)**  
   *Parent does:* Float boat A in the middle of the basin. Add coins one at a time, gently, into the centre of the boat. Count each coin out loud. Stop when the boat tips or water comes over the rim. Write the number of coins it carried. Dry the boat and do it again. Then test boat B and boat C in the same way.  
-  *Parent says:* Add the coins one at a time, in the middle, very gently. Count each one. The last coin is the one that makes it fail. Write down the number of coins it carried before that. Then try again, to see if you get the same number.  
+  *Parent says:* Add the coins one at a time, in the middle, very gently. Count each one. The last coin is the one that makes the boat tip or sink. Write down the number of coins the boat carried before that. Then try again, to see if you get the same number.  
   *Child mode:* Add coins one at a time to the boat. Count them. Stop when it tips or sinks. Write the number.
   - Ask: What happens to the boat in the water as you add more coins? (good: It sits lower.; It sinks down.; The water gets close to the edge.)
-  - Note: Coins go in the middle. Stack them in small piles as the boat fills. If the boat tips, note it, and try again. Your numbers may differ between tries. That is normal, and it is why we do each boat twice. If you run out of coins before a boat fails, write 'more than 60' and add heavier items such as two-rupee or five-rupee coins. Foil boats are fussy: the numbers are likely to differ by several coins between tries, and that is normal.
+  - Note: Coins go in the middle. Stack them in small piles as the boat fills. If the boat tips, note it, and try again. Foil boats are fussy, so the numbers are likely to differ by several coins between tries. That is normal, and it is why you test each boat twice. If you run out of coins before a boat tips or sinks, write 'more than 60' and add heavier items such as two-rupee or five-rupee coins.
   - Check: Boat A carries 24 coins on try 1 and 26 coins on try 2. What does this show? → **The result is steady, so we can trust it**
 - **s5 (5 min)**  
-  *Parent does:* Draw a bar chart with one bar for each boat. Use the bigger of the two numbers. Then ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Draw a bar chart with one bar for each boat. Use the bigger of the two numbers. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each boat. Say what you thought, what you saw, and why.
-  - Note: A strong answer says that the boat with the most room for air pushed aside the most water. By the volume of water each boat can hold, the medium boat should carry the most, and the narrow deep boat the fewest. But a tall boat can tip, and a wide shallow boat can fill over its low rim, so the order in your basin may differ. The pattern is not promised. Write what you actually saw, and give a reason for it. After they have said what they saw, explain: each cubic centimetre of water pushed aside weighs one gram. The boat can carry cargo until the water it pushes aside weighs as much as the boat and the cargo together.
+  *Child mode:* Draw a bar for each boat. Say what you thought would happen, what you saw, and why you think it happened.
+  - Note: A strong answer says that the boat with the most room for air pushed aside the most water. If you work out the volume of each boat, the medium boat should carry the most and the narrow, deep boat the fewest. But a tall boat can tip, and a wide shallow boat can fill over its low rim, so the order in your basin may differ. Write what you actually saw, and give a reason for it. After your child has said what they saw, explain: each cubic centimetre of water pushed aside weighs one gram. The boat can carry cargo until the water it pushes aside weighs as much as the boat and the cargo together.
   - Think: Why did the ball of foil sink but every boat float?
 ### e2 · The Potato and the Salt: when does it float? (30 min)
 - **question:** A raw potato sinks in plain water. How much salt do you need to add to a glass of water before the potato floats?
 - **predict:** Before you start, guess. How many tablespoons of salt will it take before the potato floats? Will it ever float? Why do you think so?
-- **fair test:** You use the same piece of potato, the same glass and the same amount of water every time. You add one level tablespoon of salt at a time, and stir until it disappears. Only the amount of salt changes, so any change in the potato comes from the salt. The plain water at the start is the control.
+- **fair test:** You use the same piece of potato, the same glass and the same amount of water every time. You add one level tablespoon of salt at a time, and stir until it disappears. Only the amount of salt changes, so any change in the potato comes from the salt. The plain water at the start is the control: it shows what the potato does with no salt.
 - **safety:** Salty water is not for drinking. Wash hands after handling the raw potato. If you try an egg, wipe up any broken egg at once.
 - **record:** After every tablespoon of salt, write what the potato does and where it sits. Draw the glass at the start and at the end.
 - **results table:** Salt in the glass (level tablespoons) | Does the potato sink, hover or float? | Where is the potato: bottom, middle or top?
@@ -287,7 +288,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   *Parent says:* We have a potato, a glass of water and some salt. The potato will sink in plain water. What will happen as we add salt? When will it change? Why do you think so?  
   *Child mode:* A potato sinks in plain water. What happens when you add salt? Why do you think so?
   - Ask: Why do you think salt might change what the potato does? (good: Salt makes the water heavier.; Salt makes the water stronger.; Salt changes the water.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child adds salt and watches, and the parent counts the spoons and writes. Two to four children: give each child a glass and a piece of potato cut from the same potato; one child can test an egg instead of a potato (a raw egg usually floats after about 2 to 3 tablespoons, but yours may differ). Compare when they float.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child adds salt and watches, and the parent counts the spoons and writes. Two to four children: give each child a glass and a piece cut from the same potato. One child can test an egg instead of a potato. A raw egg usually floats after about 2 to 3 tablespoons, but yours may differ. Compare how much salt each one needed before it floated.
 - **s2 (5 min)**  
   *Parent does:* Pour 250 millilitres of tap water into the glass. Put the potato in gently. Watch it sink. Write 0 spoons in the first row of the table, and write what the potato does.  
   *Parent says:* Put the potato in gently. What does it do? This is our plain water test, with no salt.  
@@ -295,73 +296,73 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Note: The potato should sink to the bottom. Most raw potatoes do. If yours floats in plain water, use a different piece, from the middle of a bigger potato.
 - **s3 (15 min)**  
   *Parent does:* Take the potato out with a spoon. Add one level tablespoon of salt. Stir for about a minute, until the salt disappears. Put the potato back gently. Write what it does. Repeat, adding one tablespoon at a time, up to 5 tablespoons in all or until the potato floats.  
-  *Parent says:* Take the potato out first. Add one level tablespoon of salt, and stir until you can't see it. Put the potato back. Does it sink, hover or float? Do this again with another spoon.  
+  *Parent says:* Take the potato out first. Add one level tablespoon of salt, and stir until you can't see it. Put the potato back. Does it sink, hover or float? Then do the same again with one more tablespoon of salt.  
   *Child mode:* Take out the potato. Add one spoon of salt. Stir. Put the potato back. Write what it does. Repeat.
   - Ask: What do you notice about the potato as you add more salt? (good: It rises.; It floats higher.; It stays in the middle.)
-  - Note: Hovering is when the potato stays in the middle of the glass and neither sinks nor floats. This tells you the salty water is about as dense as the potato. Many potatoes float after about 2 to 4 tablespoons, but this is typical, not promised. A new, watery potato may need more, and an old one less. If salt stays at the bottom after a minute of stirring, the water cannot hold more. If the potato still sinks at 5 tablespoons, try a thinner slice of potato or a different potato: salt only changes the water, and some potatoes are denser than any salt water you can make. Stir warm tap water (not hot) if the salt is slow to dissolve.
+  - Note: Hovering is when the potato stays in the middle of the glass and neither sinks nor floats. This tells you the salty water is about as dense as the potato. Many potatoes float after about 2 to 4 tablespoons, but yours may differ. A new, watery potato may need more, and an old one less. If the salt is slow to dissolve, use warm tap water (not hot). If salt stays at the bottom after a minute of stirring, the water cannot hold any more. If the potato still sinks at 5 tablespoons, try a thinner slice of potato or a different potato. Salt only changes the water, and some potatoes are denser than any salt water you can make.
   - Check: After 3 tablespoons of salt, the potato floats. What has changed? → **The water has become denser**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to say what they thought, what they saw and why. Then look at the table and find the row where the potato first changed. Pour the salty water down the sink and wash the glass.  
+  *Parent does:* Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then look at the table and find the row where the potato first changed. Pour the salty water down the sink and wash the glass.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? When did the potato first change?  
-  *Child mode:* Say what you thought, what you saw, and why. When did the potato first change?
-  - Note: A strong answer says that the potato was the same and that the salty water was denser. After they have said what they saw, explain: salt dissolves in the water and makes it heavier for its size. When the water is denser than the potato, the potato floats. This is also why it is easier to float in the sea than in a swimming pool.
-  - Think: The potato did not change. What did?
+  *Child mode:* Say what you thought would happen, what you saw, and why you think it happened. When did the potato first change?
+  - Note: A strong answer says that the potato was the same and that the salty water was denser. After your child has said what they saw, explain: salt dissolves in the water and makes it heavier for its size. When the water is denser than the potato, the potato floats. This is also why it is easier to float in the sea than in a swimming pool.
+  - Think: In the Potato and the Salt test, the potato did not change. What did change?
 
 ## Activities
 ### a1 · Guess and Sort: ten things from the kitchen (25 min)
-- **safety:** Coins, bottle caps and nuts are small parts: keep them from children under five. Wipe up spilt water so nobody slips.
-- **record:** A table with ten things, your guess for each, what happened, and a final sort into floats and sinks.
+- **safety:** Coins, bottle caps and steel nuts are small parts: keep them away from children under five. Wipe up spilt water so nobody slips.
+- **record:** Make a table of the ten things. For each one, write your guess and what happened. Then sort the things into two columns: floats and sinks.
 - **s1 (5 min)**  
-  *Parent does:* Line up the ten things. They are a steel spoon, a wooden spoon, a coin, a lemon and a potato. Add a candle stub, a bottle cap and a closed empty bottle. The last two are the katori set mouth up, and the katori pushed down until it fills. Write a guess for each: floats or sinks.  
+  *Parent does:* Line up the things: a steel spoon, a wooden spoon, a coin, a lemon, a potato, a candle stub, a bottle cap, a closed empty bottle and a steel katori. The katori counts as two of the ten, because you test it twice: once set on the water mouth up, and once pushed down until it fills with water. Write a guess for each: floats or sinks.  
   *Parent says:* Look at each thing. Hold it. Will it float or sink? Write your guess for each one before we test.  
   *Child mode:* Look at the ten things. Guess for each one. Float or sink? Write it down.
   - Ask: Which do you think is the hardest to guess? (good: The lemon.; The katori.; The potato.)
-  - Note: Do not correct the guesses. Any guess is fine. The last two items are the same steel katori, set on the water mouth up, and then pushed under until it fills. One child with a parent: take turns, the child guesses first and the parent second. Two to four children: each child writes their own guesses on their own table, then tests the items in turn; compare who guessed most right.
+  - Note: Do not correct the guesses. Any guess is fine. The last two items are the same steel katori, set on the water mouth up, and then pushed under until it fills. One child with a parent: take turns, with the child guessing first and the parent second. Two to four children: each child writes their own guesses in their own table, and then they take turns to test the items. Compare who guessed the most right.
 - **s2 (10 min)**  
   *Parent does:* Test the things one at a time. Lower each one gently into the water. Write down what happens. Keep the katori for last. Set it on the water mouth up. Then push it under so it fills with water.  
   *Parent says:* Gently, one at a time. What happens? Does it match your guess? For the katori, first it sits on the water. Then we push it down until it fills. What changes?  
   *Child mode:* Test each thing in the water. Write what happens. Did you guess right?
-  - Note: Expected: the steel spoon, coin and potato sink. The wooden spoon, candle stub, bottle cap and closed bottle float. A lemon with its skin on usually floats (a peeled one may sink). Wood and candle wax can differ a little; write down what yours does, because your own result counts. The katori floats mouth up and sinks when it fills. If something differs, write it down.
+  - Note: What to expect: the steel spoon, coin and potato sink. The wooden spoon, candle stub, bottle cap and closed bottle float. A lemon with its skin on usually floats (a peeled one may sink). The katori floats mouth up and sinks when it fills. Wood and candle wax can differ a little. If something does not match this list, write down what yours does, because your own result counts.
   - Check: The steel katori floats when set on the water mouth up, and sinks when it fills with water. What changed? → **The air inside was replaced by water**
 - **s3 (6 min)**  
   *Parent does:* Sort the ten things into two columns: floats and sinks. Ask your child to look for a pattern. Then ask whether the pattern is always true.  
   *Parent says:* Look at the two columns. Is there a pattern? Is it always the heavy things that sink? What about the steel katori, which is heavy but floats?  
   *Child mode:* Sort the things into floats and sinks. Is there a pattern? Is it always true?
   - Ask: Is it true that heavy things sink and light things float? (good: No. The katori is heavy but floats.; No. The coin is small but sinks.; It depends on the shape and what it is made of.)
-  - Note: A good pattern to test: heavy things sink. The katori breaks it. A better pattern: a thing floats if it is lighter than the water it pushes aside.
+  - Note: A good pattern to test is 'heavy things sink'. The katori does not fit it, because it is heavy but floats. A better pattern is: a thing floats if it is lighter than the water it pushes aside.
 - **s4 (4 min)**  
-  *Parent does:* Ask your child to say what they thought, what they saw and why. Pour the water back, and dry the things.  
+  *Parent does:* Ask your child to say what they thought would happen, what they saw, and why they think it happened. Pour away the water, and dry the things.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did the katori float when it held air, and sink when it held water?  
-  *Child mode:* Say what you thought, what you saw, and why.
-  - Note: Count how many of the ten guesses were right, and write the score on the table. Count the katori twice, once for each way.
+  *Child mode:* Say what you thought would happen, what you saw, and why you think it happened.
+  - Note: Count how many of the ten guesses were right, and write the score on the table. Count the katori twice, once for each way you tested it. For the last question, a good test tries many different wooden things. If even one wooden thing sinks, such as a piece of ebony, then the pattern is not always true.
   - Think: How would you test the pattern 'wooden things always float'?
 ### a2 · Density Tower: three liquids that will not mix (25 min)
 - **safety:** Use warm tap water, not boiling. An adult should heat the water if it needs heating. Food colour stains clothes. Oil makes the floor slippery, so wipe spills at once. Do not drink the layers, and pour the oil into the dustbin, not the sink.
 - **record:** Draw the glass with three layers, and label each layer. Write which liquid is the densest and which is the least dense.
 - **s1 (5 min)**  
-  *Parent does:* Ask your child to guess which liquid will be at the top, which in the middle and which at the bottom. Then stir the sugar into the warm water, until no grains are left. Add a drop of colour. Let it cool for a few minutes.  
+  *Parent does:* Ask your child to guess which liquid will be at the top, which in the middle and which at the bottom. Then stir the sugar into the warm water, until no grains are left. This is the syrup. Add a drop of food colour to it. Let it cool for a few minutes.  
   *Parent says:* We have three liquids: sugar syrup, plain water and cooking oil. Which will end up on the top? Which will end up at the bottom? Why do you think so?  
   *Child mode:* Guess the order of the three liquids. Why do you think so? Stir sugar into warm water.
   - Ask: Why do you think that liquid will be at the bottom? (good: It is thickest.; It is the heaviest.; It is the densest.)
-  - Note: Do not correct the guess. Make the syrup thick, with as much sugar as dissolves. One child with a parent: the child pours, the parent steadies the glass. Two to four children: make one tower per pair, so every child gets to pour, and compare towers. If you have only one colour, colour the syrup; the clear water layer will then show between the coloured syrup and the oil.
+  - Note: Do not correct the guess. Make the syrup thick, with as much sugar as will dissolve. One child with a parent: the child pours, and the parent steadies the glass. Two to four children: make one tower for each pair, so every child gets to pour, and compare the towers. If you have only one food colour, use it in the syrup. The clear water layer will then show between the coloured syrup and the oil.
 - **s2 (4 min)**  
   *Parent does:* Pour the syrup slowly into the bottom of the glass. Try not to let it touch the sides.  
   *Parent says:* Pour the syrup slowly into the glass. It will stay at the bottom.  
   *Child mode:* Pour the syrup into the glass. Do it slowly.
 - **s3 (5 min)**  
-  *Parent does:* Hold a spoon, bowl facing up, just above the syrup. Pour the plain water slowly onto the back of the spoon, so it runs gently on top of the syrup.  
+  *Parent does:* Hold a spoon just above the syrup, with its back facing up. Pour the plain water slowly onto the back of the spoon, so it runs gently on top of the syrup.  
   *Parent says:* Pour the water onto the back of the spoon, so the water runs slowly onto the syrup. A fast pour would mix them.  
   *Child mode:* Pour water slowly over the back of a spoon onto the syrup.
   - Note: Some mixing at the line between the layers is normal. Pour more slowly, or make the syrup thicker, and try again. Use a tall narrow glass, because a wide one is harder to pour into neatly. Over a few hours the syrup and water slowly blend at the edge. That is normal too.
 - **s4 (4 min)**  
   *Parent does:* Pour the cooking oil slowly over the back of the spoon, onto the water. Put the glass on a table and leave it still.  
-  *Parent says:* Now the oil, over the back of the spoon. Then leave the glass still.  
+  *Parent says:* Now pour the oil slowly over the back of the spoon. Then leave the glass still.  
   *Child mode:* Pour oil slowly over the spoon. Leave the glass still.
 - **s5 (7 min)**  
-  *Parent does:* Look at the tower from the side. Draw it and label each layer. Then gently stir the top with the spoon, and watch what the oil does. Drop in a few small things from the kitchen one at a time (a peppercorn, a grain of rice, a raisin). Write which layer each one stops in. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Look at the tower from the side. Draw it and label each layer. Then gently stir the top with the spoon, and watch what the oil does. Drop in a few small things from the kitchen one at a time (a peppercorn, a grain of rice, a raisin). Write which layer each one stops in. Ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Which layer is on top? Which is at the bottom? Why do you think each liquid is where it is? What happens to the oil when we stir it?  
   *Child mode:* Look at the three layers. Draw them. Stir the top gently. What does the oil do?
-  - Note: When you stir, the oil breaks into drops and rises back to the top, because it is less dense than the water. The water and the syrup slowly mix. After they have said what they saw, explain: each liquid floats on the one that is denser than itself. You cannot know beforehand which layer each small thing will stop in, and that is the point: it stops where the liquid below is denser than the thing and the liquid above is less dense. Write down what you see.
+  - Note: When you stir, the oil breaks into drops and rises back to the top, because it is less dense than the water. The water and the syrup slowly mix. After your child has said what they saw, explain: each liquid floats on the one that is denser than itself. You cannot know beforehand which layer each small thing will stop in. It stops where the liquid below is denser than the thing and the liquid above is less dense. Write down what you see. For the honey question: honey is denser than water, so it would sink down through the oil and the water and settle near the bottom, close to the syrup.
   - Check: Oil sits on top of water. What does this show about oil? → **Oil is less dense than water**
   - Think: What would happen if you poured honey into this glass?
 ### a3 · Make a Hydroscope: a floating density meter (30 min)
@@ -377,7 +378,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   *Parent says:* The straw should stand upright with some of it above the water. If it lies down, it needs more weight at the bottom. If it sinks, it has too much. Mark the waterline.  
   *Child mode:* Float the straw in plain water. It must stand up. Mark the waterline.
   - Ask: What do you think will happen in salty water? (good: It will float higher.; It will float lower.; It will stay the same.)
-  - Note: If your straw lies on its side, add a small steel nut or pins at the clay end. If it sinks, take some clay off. A straw of about 15 centimetres with a marble of clay at the bottom is a good start. Nothing exact is promised: a few tries is normal. Do not worry if it takes a few tries.
+  - Note: If your straw lies on its side, add a small steel nut or pins at the clay end. If it sinks, take some clay off. A straw of about 15 centimetres with a lump of clay the size of a marble at the bottom is a good start. Do not worry if it takes a few tries. That is normal.
 - **s3 (7 min)**  
   *Parent does:* Stir 4 level tablespoons of salt into 250 millilitres of water in the second glass, until the salt disappears. Ask your child to guess whether the straw will float higher or lower. Write the guess.  
   *Parent says:* Salty water is denser. Will the straw float higher or lower in it? Why do you think so?  
@@ -387,12 +388,13 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   *Parent does:* Dry the straw. Put it in the salty water, clay end first. Mark the new waterline. Take it out and measure the distance between the two marks.  
   *Parent says:* Where is the waterline now? Is it higher or lower than before? How far has it moved?  
   *Child mode:* Float the straw in salty water. Mark the waterline. Measure the gap between the two marks.
-  - Note: The straw typically floats about one to two centimetres higher in the very salty water. Size depends on your straw. If you see no change, check that the salt really dissolved (all of it must disappear), dry the straw before the second glass, and make sure the clay end is sealed. A thicker straw is easier to read. Salt that stays at the bottom of the glass has not dissolved and does not count.
+  - Note: The straw usually floats about one to two centimetres higher in the very salty water. The exact amount depends on your straw. If you see no change, check three things: that all the salt has dissolved, that you dried the straw before putting it in the second glass, and that the clay end is sealed. Salt that stays at the bottom of the glass has not dissolved and does not count. A thicker straw is easier to read.
   - Check: The straw floats higher in salty water. What does this tell you about salty water? → **It is denser than plain water**
 - **s5 (5 min)**  
-  *Parent does:* Ask your child to say what they thought, what they saw and why. Tell the story of Hypatia and the hydroscope from the card.  
+  *Parent does:* Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then tell them about Hypatia: a letter from about 1,600 years ago asks her, a teacher, to build a tube like this.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? A letter from about 1,600 years ago asks a teacher called Hypatia to build a tube like this.  
-  *Child mode:* Say what you thought, what you saw, and why.
+  *Child mode:* Say what you thought would happen, what you saw, and why you think it happened.
+  - Note: For the milk question, milk is a little denser than water. The hydroscope floats a bit higher in pure milk than in milk that has had water added. So you float it in a glass of milk you trust and mark the line. Then you float it in the milk you want to check. If it sits lower than your mark, the milk has probably been mixed with water.
   - Think: How could you use your hydroscope to check whether milk has been mixed with water?
 
 ## Projects
@@ -402,29 +404,29 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 - **s1 (5 min)**  
   *Parent does:* Show your child the bottle, the pen cap and the clay. Ask for a guess and a reason.  
   *Parent says:* We will make a little diver. When we squeeze the bottle, what do you think the diver will do? Why do you think so?  
-  *Child mode:* A tiny diver in a bottle. What will it do when you squeeze? Why?
+  *Child mode:* You will make a tiny diver in a bottle. What will the diver do when you squeeze the bottle? Why?
   - Ask: Why do you think the diver might sink or rise? (good: The water pushes it.; The air in it gets squashed.; It gets heavier.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child builds the diver, the parent tops up the bottle. Two to four children: each child makes their own diver and bottle, then you race: whose diver sinks first, and can anyone keep it still in the middle?
+  - Note: Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child builds the diver, and the parent tops up the bottle. Two to four children: each child makes their own diver and bottle. Then have a race. Whose diver sinks first? Can anyone keep their diver still in the middle of the bottle?
 - **s2 (10 min)**  
-  *Parent does:* Seal the tiny hole in the top of the pen cap with a speck of clay, if it has one. Wrap a small ring of clay around the outside of the open end of the cap, so that it floats upright. Put the cap in a bowl of water with the open end down. Add or take off clay until it just floats, with only its top above the water.  
+  *Parent does:* If the pen cap has a tiny hole in its top, seal the hole with a speck of clay. Wrap a small ring of clay around the outside of the open end of the cap, so that it floats upright. Put the cap in a bowl of water with the open end down. Add or take off clay until it just floats, with only its top above the water.  
   *Parent says:* The air trapped inside the cap makes it float. The clay makes it a little heavier. We want it to float just barely, with only the very top above the water.  
   *Child mode:* Put clay on the pen cap. Float it open end down. Add clay until it barely floats.
   - Note: If the cap floats too high, add more clay. If it sinks, take a little off. The balance has to be very fine. Do not worry if it takes a few tries. Make sure the open end of the cap faces down, so that air stays trapped inside.
 - **s3 (5 min)**  
-  *Parent does:* Fill the bottle to the very top with water. Slip the diver in, open end down. Top the bottle up to the brim, so that no air bubble is left. Close the cap tight.  
+  *Parent does:* Fill the bottle to the very top with water. Slip the diver in, open end down. Top the bottle up to the brim, so that no air bubble is left. Close the bottle's cap tight.  
   *Parent says:* The bottle must be full to the brim. There should be no air in the bottle, except the air inside the diver.  
-  *Child mode:* Fill the bottle to the top. Put the diver in. Close the cap tight.
+  *Child mode:* Fill the bottle to the top. Put the diver in. Close the bottle tight.
 - **s4 (10 min)**  
   *Parent does:* Squeeze the sides of the bottle. Watch the diver. Look closely at the air inside the diver while you squeeze. Let go. Watch again. Try different amounts of squeezing.  
   *Parent says:* Squeeze slowly. What does the diver do? Look at the bubble of air inside. Is it bigger or smaller when you squeeze? Now let go.  
   *Child mode:* Squeeze the bottle. Watch the diver. Look at the bubble. Let go.
   - Ask: What happens to the air bubble when you squeeze? (good: It gets smaller.; It gets squashed.; Water goes in the cap.)
-  - Note: If the diver does not move, squeeze harder, or take a little clay off. If it sinks and stays down, add a little less clay next time. To make the test measurable, count how many seconds your diver takes to reach the bottom, or try to hold it in the middle of the bottle for ten seconds. A bubble of air left at the top of the bottle makes it hard to squeeze the diver down: top up the bottle to the brim. Some divers never work at first: add or remove a tiny bit of clay and try again.
+  - Note: If the diver does not move, squeeze harder, or take a little clay off. If it sinks and stays down, use a little less clay next time. A bubble of air left at the top of the bottle makes it hard to squeeze the diver down, so top up the bottle to the brim. Some divers do not work at first. Add or remove a tiny bit of clay and try again. To measure how your diver does, count how many seconds it takes to reach the bottom, or try to hold it in the middle of the bottle for ten seconds.
   - Check: When you squeeze the bottle, the diver sinks. Why? → **The air inside it is squashed, so it pushes aside less water**
 - **s5 (10 min)**  
-  *Parent does:* Draw the bottle with the diver, before and after squeezing. Show the air bubble in each. Then ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Draw the bottle with the diver, before and after squeezing. Show the air bubble in each. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where do you see this idea in submarines and fish?  
-  *Child mode:* Draw the bottle before and after. Say what you thought, what you saw, and why.
+  *Child mode:* Draw the bottle before and after squeezing. Say what you thought would happen, what you saw, and why you think it happened.
   - Note: A strong answer says that squeezing made the air smaller, so the diver pushed aside less water and became denser overall, so it sank. A submarine changes its density with ballast tanks, and a fish with her swim bladder.
   - Think: How is the diver like a submarine, and how is it like a fish?
 
@@ -452,8 +454,9 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Ask: Why do you think that change made it better, or worse? (good: More room for air.; It tipped more easily.; The sides were too low.)
 - **s4 (10 min)**  
   *Parent does:* Test your best boat once more, and time one full minute with the load. Write down the final number of coins. Compare with your first try.  
-  *Parent says:* This is the final test. Load your best boat and wait one minute. Did it float? How many coins did it carry? How is it different from your first?  
+  *Parent says:* This is the final test. Load your best boat and wait one minute. Did it float? How many coins did it carry? How is it different from your first boat?  
   *Child mode:* Test your best boat for one minute. Write the number of coins.
+  - Note: Any idea with a reason is a good answer. For example, a second sheet could make the sides taller, which holds more air. It could also be folded into a second hull, so the boat is wider and steadier.
   - Think: What would you change if you had one more sheet of foil?
 
 ## Worksheets
@@ -475,9 +478,9 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 7. (mcq) A ball of foil sinks, but a foil boat made from the same foil floats. Why?  
    Options: The boat holds air and pushes aside more water / The boat is made of lighter foil / Water likes boats better than balls  
    **Answer:** The boat holds air and pushes aside more water. *Why:* The foil is the same, but the boat has a hollow shape with air in it. It pushes aside much more water than the ball does, so the upthrust is bigger.
-8. (count) Neha, a girl in Class 4 in Kochi, fills a measuring jug with 250 millilitres of water. She drops in a stone and the level rises to 310 millilitres. What is the volume of the stone, in millilitres?  
+8. (count) A measuring jug holds 250 millilitres of water. You drop in a stone, and the water level rises to 310 millilitres. What is the volume of the stone, in millilitres?  
    **Answer:** 60. *Why:* 310 take away 250 is 60. The stone pushed aside 60 millilitres of water, so its volume is 60 millilitres.
-9. (write) Zoya says: 'Big things sink and small things float.' Give one example that shows she is wrong.  
+9. (write) Someone says: 'Big things sink and small things float.' Give one example that shows this is wrong.  
    **Answer:** A big ship floats, and a small pebble sinks. So size alone does not settle it.. *Why:* A strong answer gives an example that goes against the claim, such as a big thing that floats or a small thing that sinks, and says what that example shows.
 10. (mcq) Why is it easier to float in the sea than in a river?  
    Options: Salty water is denser than fresh water / The sea is warmer than a river / The sea has more waves  
@@ -493,7 +496,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 15. (mcq) You push a plastic ball under water and then let go. It pops up to the surface. Why?  
    Options: The upthrust is bigger than the weight of the ball / The ball is angry / The water gets hotter  
    **Answer:** The upthrust is bigger than the weight of the ball. *Why:* Under the water, the ball pushes aside a lot of water for its weight. The upthrust is bigger than the weight, and so it rises.
-16. (write) Ranjani, a girl in Class 4 in Chennai, says: 'A ship made of solid steel would float better than a hollow one, because steel is so strong.' Do you agree? Why?  
+16. (write) Someone says: 'A ship made of solid steel would float better than a hollow one, because steel is so strong.' Do you agree? Why?  
    **Answer:** No. A solid steel ship would be much denser than water and would sink. A hollow ship holds air and pushes aside much more water. Steel is strong, but it is the hollow shape that makes the ship float.. *Why:* A strong answer separates strength from density, and says that a solid lump would push aside little water for its weight, while a hollow shape pushes aside a lot.
 ### Why Things Float (stretch) (stretch, 17 questions)
 1. (mcq) A potato sinks in tap water and floats in very salty water. What is the best explanation?  
@@ -520,8 +523,8 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
    **Answer:** River water is less dense than sea water, so the ship must push aside more of it. *Why:* The ship must push aside water that weighs as much as the ship. Fresh water is less dense, so the ship sinks a little deeper to push aside enough.
 10. (match) Match each thing to the reason it floats or rises.  
    **Answer:** Helium balloon → helium is lighter than air; Hot air balloon → the heated air inside is less dense than the air around it; Banana-stem raft → the stems are full of air spaces; Coracle → a wide hollow basket holds air and pushes aside water. *Why:* Each one is lighter for its size than the water or air around it. Air is held in the raft and the basket, and the gas or hot air is less dense in the balloons.
-11. (perspective) Selvi and Imran are both building foil boats. Each wants to carry as many coins as possible.  
-   **Answer:** Answers vary. A strong answer picks a side, gives a reason, and describes a fair test, such as making both boats from the same size of foil and counting the coins each carries.. *Why:* Both have a point. A wide boat is steady and a deep boat holds more air. The test is a fair test with the same foil and the same coins.
+11. (perspective) Two children are both building foil boats. Each wants to carry as many coins as possible.  
+   **Answer:** Answers vary. A strong answer picks a side, gives a reason, and describes a fair test, such as making both boats from the same size of foil and counting the coins each carries.. *Why:* Both have a point. A wide boat is steady and a deep boat holds more air. The way to find out is a fair test, with the same foil and the same coins.
 12. (truefalse) If two things both sink, the one with the bigger volume pushes aside more water.  
    **Answer:** True. *Why:* True. When a thing is fully under the water, the water it pushes aside has the same volume as the thing itself. A bigger volume pushes aside more water.
 13. (draw) Draw a glass with three layers: oil, water and syrup. Label which layer is on top and which is at the bottom, and write why.  
@@ -538,14 +541,14 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 ### Be the Boat Designer (challenge) (challenge, 16 questions)
 1. (write) A potato sinks in tap water and floats in very salty water. You slowly pour plain water on top of the salty water. Describe what you think will happen to the potato and explain why.  
    **Answer:** The plain water floats on top of the salty water, because it is less dense. The potato floats in the salty layer, but it sinks through the plain water on top, and stops where the water is as dense as the potato, at the boundary between the two layers.. *Why:* A strong answer says that the layers do not mix at first, that the plain layer is less dense, and that the potato sits where the liquid is dense enough to hold it up.
-2. (count) Ajay, a boy in Class 4 in Pune, has a boat that pushes aside 300 grams of water when the water reaches its rim. The boat weighs 40 grams. How many grams of cargo can it carry before it sinks?  
+2. (count) A boat pushes aside 300 grams of water when the water reaches its rim. The boat weighs 40 grams. How many grams of cargo can it carry before it sinks?  
    **Answer:** 260. *Why:* The boat and cargo together can weigh as much as the water pushed aside, 300 grams. The boat itself weighs 40 grams, so the cargo can weigh 300 take away 40, which is 260 grams.
 3. (mcq) A block of wood floats with three quarters of itself under the water. What does this tell you about the wood?  
    Options: It is less dense than water, but not by a lot / It is much lighter than water / It is denser than water  
    **Answer:** It is less dense than water, but not by a lot. *Why:* Most of the block is under the water, so the wood is close to the density of water. A much lighter wood, such as balsa, would sit higher.
 4. (perspective) A ferry owner wants to carry more passengers than the load line allows.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and notes that a boat sitting low has less room before water comes in, so a small wave can sink it.. *Why:* The load line is based on how a boat floats. The more a boat carries, the less spare room it has. Safety rules protect people on rough days.
-5. (write) Mala, a girl in Class 4 in Madurai, has two liquids, A and B, and one grape. She wants to find out which liquid is denser, without a scale. How could she do this?  
+5. (write) You have two liquids, A and B, and one grape. You want to find out which liquid is denser, without a scale. How could you do this?  
    **Answer:** Put the grape in each liquid. The liquid in which the grape floats higher is denser. If the grape floats in one and sinks in the other, the one where it floats is denser.. *Why:* A strong answer uses the same thing in both liquids, and compares how high it floats. This is the idea of the hydrometer.
 6. (match) Match each clue to what it tells you.  
    **Answer:** A thing hovers in the middle of a liquid → its density is about the same as the liquid; A thing sinks to the bottom → it is denser than the liquid; A boat sits higher in the water than before → the liquid is denser, or the load is lighter; A thing floats on top → it is less dense than the liquid. *Why:* Where a thing sits in a liquid tells you how its density compares with the liquid. Hovering means about the same. Floating means less. Sinking means more.
@@ -558,10 +561,10 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
    **Answer:** ['1', 'one']. *Why:* Water has a density of 1 gram for each cubic centimetre. Anything with a smaller density floats on it.
 10. (odd) Which one is the odd one out, and why? Ebony wood, iron, glass, cork.  
    **Answer:** Cork, because it floats. The other three are denser than water and sink.. *Why:* Cork has a density of about a quarter of water. Ebony, iron and glass are all denser than water.
-11. (sort) A cup with 10 coins floats in a basin of tap water. What happens to how high it sits when each of these changes happens?  
+11. (sort) A cup with 10 coins floats in a basin of tap water. Sort each change by what it does to how high the cup sits in the water.  
    **Answer:** the cup is moved to very salty water → Sits higher; five more coins are added → Sits lower; the cup is moved from the sea to a river → Sits lower; three coins are taken out → Sits higher; nothing is changed → Stays the same; the cup is moved from a river to the sea → Sits higher. *Why:* More load makes the cup sit lower. Denser water pushes up harder, so the cup sits higher. Less dense water makes it sit lower.
 12. (write) A coracle is round, wide and shallow. Why might that shape be good for crossing a shallow, rocky river?  
-   **Answer:** A wide, shallow boat sits high in the water and does not go deep, so it does not hit rocks below. Its round shape also turns easily.. *Why:* A strong answer says that a boat with a shallow draft needs little depth, and that a wide base is stable.
+   **Answer:** A wide, shallow boat sits high in the water and does not go deep, so it does not hit rocks below. Its round shape also turns easily.. *Why:* A strong answer says that a shallow boat needs only a little depth of water, and that a wide base is steady.
 13. (draw) Draw a bottle diver in a bottle. Draw the air bubble in the diver before you squeeze and after you squeeze, and say what happens to the diver.  
    **Answer:** Two bottles, one with a larger air bubble and the diver near the top, and one with a smaller bubble and the diver sinking, with a note that squeezing squashes the air so the diver pushes aside less water.. *Why:* A strong drawing shows the bubble getting smaller when squeezed and the diver sinking, with a reason about upthrust.
 14. (mcq) A hot air balloon rises. Which sentence is correct?  
@@ -573,9 +576,9 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
    **Answer:** True. *Why:* True. The same potato sinks in tap water and floats in salty water. The thing is the same, but the liquid is different.
 
 ## Videos
-- **Why do ships float?** (to be found, 4 min) id `to find`: To see how a steel ship floats, with a hollow hull full of air. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Why ice floats on water** (to be found, 4 min) id `to find`: To see how water particles are arranged in ice and in liquid water. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Cartesian diver: how it works** (to be found, 4 min) id `to find`: To see how squeezing a bottle makes a diver sink and rise. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **How Do Ships Float on Water? 🚢 What is Archimedes' Principle? | Buoyant Force | Dr. Binocs Show** (Peekaboo Kidz, 5 min) id `0eIXMs_NQVU`: To see how a steel ship floats, with a hollow hull full of air. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Why does ice float? | #aumsum #kids #science #education #children** (It's AumSum Time, 3 min) id `pSh8X-R9mxQ`: To see how water particles are arranged in ice and in liquid water. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How Does a Submarine Sink and Rise?  Soda Bottle Diver | Cartesian Diver Physics Experiment** (NPS Physics, 4 min) id `tEgIh7dt1C4`: To see how squeezing a bottle makes a diver sink and rise. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What must be true for a solid thing to float in water?  
@@ -589,8 +592,8 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
    **Answer:** It pushes aside more water, because it holds a big space of air. *Why:* The foil is the same. The hollow shape holds air, and the shape pushes aside more water, so the upthrust is bigger.
 4. (mcq) A steel katori is set mouth up on water and floats. What inside the katori helps it float?  
    Options: Air / Steel / Sunlight  
-   **Answer:** Air. *Why:* The air inside makes the katori and its air lighter than the water it pushes aside.
-5. (mcq) Maya, a girl in Class 4, wants a fair test of three boat shapes. Which thing must be the same for all three boats?  
+   **Answer:** Air. *Why:* The katori and the air inside it are together lighter than the water they push aside.
+5. (mcq) You want a fair test of three boat shapes. What must be the same for all three boats?  
    Options: The size of the foil, the water, and the way the coins are added / The shape of the boat / The number of coins each one carries  
    **Answer:** The size of the foil, the water, and the way the coins are added. *Why:* In a fair test, only one thing changes. Here the shape changes, so everything else, including the foil size and the loading, must stay the same.
 6. (mcq) One boat carries 12, 14 and 13 coins in three tries. What does this show?  
@@ -624,12 +627,12 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 - Packing cargo so a ship stays steady.
 - Using floats in water tanks to switch a pump off when the tank is full.
 - Using life jackets and swimming aids that keep a person's body less dense than water.
-- Floating metals, ores and minerals in liquids, to separate them from rock.
-- Using salt water in pickles and brine tanks, to keep food floating or submerged.
+- Mining companies use special dense liquids to separate minerals from rock. The heavier mineral sinks and the lighter rock floats.
+- Pickle makers keep vegetables under a strong salt solution called brine. Because brine is dense, light pieces tend to float up, so cooks press a weight on top to keep them under.
 
 ## Spotted around us
 - A ferry or fishing boat in a harbour sitting lower in the water when it is loaded.
-- A ball in the water tank cistern on the roof of a building, a float that rises and falls with the water.
+- The ball float in a water tank on the roof of a building, which rises and falls with the water.
 - Oil floating in a bowl of dal or sambar.
 - Ice cubes floating in a glass of lassi or water.
 - A coconut bobbing in a pond or in the sea.
@@ -670,7 +673,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 
 ## Connected maths
 - A potato piece has a mass of 54 grams and a volume of 50 millilitres. 50 millilitres of water has a mass of 50 grams. Is the potato lighter or heavier than the same amount of water? By how many grams? **Heavier, by 4 grams.**. The potato is 54 grams and the same amount of water is 50 grams. 54 take away 50 is 4. The potato is heavier, so it is denser than water, and it sinks. (queues `math.weight-capacity.weight.L4`)
-- A foil boat has a base 13 centimetres by 13 centimetres, and the sides are 1 centimetre high. Its volume is 13 times 13 times 1 cubic centimetres. One cubic centimetre of water has a mass of 1 gram. A coin has a mass of about 4 grams. About how many coins can the boat carry before the water reaches the rim? Ignore the foil. **About 42 coins.**. 13 times 13 is 169, so the volume is 169 cubic centimetres. The water pushed aside weighs 169 grams. 169 divided by 4 is about 42. In a real test you will carry fewer, because the boat tips. (queues `math.multiplication.multi-digit.L4`)
+- A foil boat has a base 13 centimetres by 13 centimetres, and the sides are 1 centimetre high. Its volume is 13 times 13 times 1 cubic centimetres. One cubic centimetre of water has a mass of 1 gram. A coin has a mass of about 4 grams. About how many coins can the boat carry before the water reaches the rim? Ignore the weight of the foil. **About 42 coins.**. 13 times 13 is 169, so the volume is 169 cubic centimetres. The water pushed aside weighs 169 grams. 169 divided by 4 is about 42. In a real test the boat will carry fewer coins, because it tips. (queues `math.multiplication.multi-digit.L4`)
 - Look at the bar chart of the coins carried by three foil boats. How many more coins did boat B carry than boat C? **24 more coins.**. The bar for boat B is 41 and the bar for boat C is 17. 41 take away 17 is 24. (queues `math.data.bar-charts.L4`)
 - In the Potato and the Salt test, a potato floated after 3 level tablespoons of salt in 250 millilitres of water. How many tablespoons of salt would you need for the same salty water in a 1 litre jug? One litre is 1,000 millilitres. **12 tablespoons.**. 1,000 millilitres is 4 times 250 millilitres. So you need 4 times as much salt. 4 times 3 is 12 tablespoons. (queues `math.fractions.ratio-and-proportion.L4`)
 - A big cargo ship carries 60,000 tonnes. One tonne is 1,000 kilograms. How many kilograms is that? **60,000,000 kilograms.**. 60,000 times 1,000 is 60,000,000. That is sixty million kilograms. (queues `math.number-sense.big-numbers.L4`)

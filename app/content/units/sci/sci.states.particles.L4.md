@@ -1,9 +1,9 @@
 # Particles: one picture that explains why solids hold, liquids pour and gases squash
 `sci.states.particles.L4`
 
-**Summary.** One drop of red food colour turns a cup of water pink. Pour a spoonful of that pink water into fresh water, and then again, and again, and the colour fades but does not stop at once. Press the plunger of a syringe full of air, and it squashes to less than half. Press one full of water, and it will not move. Your child dilutes colour through a row of cups and squeezes air, water and rice. Then they build one picture, the particle model, that explains what a solid, a liquid and a gas are, and why the air in a pressure cooker can make it whistle.
+**Summary.** One drop of red food colour turns a cup of water pink. Pour a spoonful of that pink water into a cup of fresh water, then do it again and again. The colour gets fainter each time, but it does not vanish at once. Press the plunger of a syringe full of air, and the air squashes to less than half. Press one full of water, and it will not move. Your child dilutes colour through a row of cups and squeezes air and water. Then they build one picture, the particle model, that explains what a solid, a liquid and a gas are, and why the steam in a pressure cooker can make it whistle.
 
-**Intro.** *Put one drop of red colour into a cup of water, and the whole cup turns pink. Now take a spoonful of that pink water and mix it into a fresh cup. Do it again, and again. How many cups can one single drop colour before the pink is gone?* The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this unit you test how far one drop goes, and you squeeze air, water and rice in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.
+**Intro.** *Put one drop of red colour into a cup of water, and the whole cup turns pink. Now take a spoonful of that pink water and mix it into a fresh cup. Do it again, and again. How many cups can one single drop colour before the pink is gone?* The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this unit you test how far one drop goes, and you squeeze air and water in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.
 
 ## Learning outcomes
 0. I can say the difference between a material, a substance and a mixture, and give an example of each.
@@ -38,8 +38,8 @@
 ### Materials, substances and mixtures · *defined*
 **Definition:** A material is what an object is made of. A substance is one kind of stuff, made of one kind of particle. A mixture has two or more substances.
 
-Steel is a material. Salt is a substance, because every salt particle is the same. Air is a mixture of gases, mostly nitrogen with about one fifth oxygen and small amounts of other gases. Sambar is a mixture of water, dal, tamarind and spices. In a mixture, the substances keep their own particles, and often you can get them apart again. In a substance, you cannot get it apart by simple means such as sieving or letting it settle.
-- e.g. Sea water is a mixture of water and salt. The salt can be got back by letting the water dry in the sun.
+Steel is a material. Salt is a substance, because every salt particle is the same. Air is a mixture of gases, mostly nitrogen with about one fifth oxygen and small amounts of other gases. Sambar is a mixture of water, dal, tamarind and spices. In a mixture, the substances keep their own particles, and often you can get them apart again. A single substance cannot be taken apart by simple means such as sieving or letting it settle.
+- e.g. Sea water is a mixture of water and salt. You can get the salt back by letting the water dry in the sun.
 - e.g. Brass is a mixture of copper and zinc, melted together.
 - e.g. Distilled water, which is used in car batteries, is very nearly a pure substance.
 ### Solids: particles packed close and held in place · *defined*
@@ -73,7 +73,7 @@ When you squeeze air in a syringe, it squashes to half, because the particles mo
 ### One substance, three states · *defined*
 **Definition:** A solid, a liquid and a gas can be made of exactly the same particles. Ice, water and steam are all water. What changes is how fast the particles move and how strongly they hold each other.
 
-Heat a solid, and its particles shake harder. At some warmth they break out of their places, and the solid melts into a liquid. Heat the liquid more, and the fastest particles escape and fly off as a gas. Nothing new is made. The water particles in steam are the same as in ice. Each is a molecule of two hydrogen atoms and one oxygen atom. Cool the steam on a cold steel plate, and the particles slow down and cling together as drops of water again.
+Heat a solid, and its particles shake harder. When the solid is warm enough, they break out of their places, and the solid melts into a liquid. Heat the liquid more, and the fastest particles escape and fly off as a gas. Nothing new is made. The water particles in steam are the same as in ice. Each is a molecule of two hydrogen atoms and one oxygen atom. Cool the steam on a cold steel plate, and the particles slow down and cling together as drops of water again.
 - e.g. A candle's wax melts and runs, and it is still wax when it sets.
 - e.g. Steam on a cold plate turns back to water drops.
 - e.g. Ghee melts in a pan and sets again as it cools.
@@ -87,7 +87,7 @@ One particle hitting a wall makes a push far too small to feel. But in a footbal
 ### Why smells take minutes, not seconds · *defined*
 **Definition:** Gas particles fly very fast, but they bump into other air particles billions of times every second. So a smell wanders slowly across a room, spreading by diffusion.
 
-A smell particle leaving an agarbatti is moving at hundreds of metres a second. But it travels less than a ten-thousandth of a millimetre before it collides with an air particle and is knocked in a new direction. It zigzags. After billions of knocks, it has gone only a little way from where it began. Moving air from a fan or an open window carries it far faster than diffusion alone. In a liquid, particles are even closer, so diffusion is far slower still, which is why colour in unstirred water takes hours.
+A smell particle leaving an agarbatti is moving at hundreds of metres a second. But it travels less than a ten-thousandth of a millimetre before it collides with an air particle and is knocked in a new direction. It zigzags. After billions of knocks, it has gone only a little way from where it began. Moving air from a fan or an open window carries it far faster than diffusion alone. In a liquid, particles are even closer, so diffusion is far slower still. That is why colour in unstirred water takes hours to spread.
 - e.g. A smell reaches the next room mostly because air currents carry it.
 - e.g. Colour in unstirred water takes hours to spread through a glass.
 - e.g. Warm air spreads smells faster, because its particles move faster.
@@ -97,11 +97,11 @@ A smell particle leaving an agarbatti is moving at hundreds of metres a second. 
 A water particle, one molecule, is about three ten-millionths of a millimetre across. Such sizes are almost impossible to imagine. So scientists use comparisons. If every person alive today counted one particle each second, it would take them more than six thousand years to count the particles in one drop of water. This is why one drop of colour can colour a whole cup and can still be there, in tiny amounts, in a cup that looks clear. A tiny share of a huge number is still a huge number.
 - e.g. Even the faintest pink cup still holds millions of colour particles in each teaspoon.
 - e.g. A teaspoon of sea water holds many millions of millions of salt particles.
-- e.g. A single breath holds more air particles than there are grains of sand in all the beaches on Earth, by some estimates.
+- e.g. By some estimates, a single breath holds more air particles than there are grains of sand in all the beaches on Earth.
 ### Inside a particle: atoms are mostly empty space · *defined*
 **Definition:** Every particle is made of one or more atoms, and an atom is mostly empty space. The middle of the atom, the nucleus, is about a hundred thousand times smaller than the whole atom.
 
-Imagine an atom the size of a big cricket ground. The nucleus in the middle would be about the size of a mustard seed. Around it, tiny particles called electrons zip about. So why does a table feel solid, if its atoms are nearly empty? The electrons of the atoms in your hand push on the electrons of the atoms in the table. This electric push is strong, and it stops them getting closer. What we feel as hardness is this push between atoms.
+If an atom were the size of a big cricket ground, the nucleus in the middle would be about the size of a mustard seed. Around it, tiny particles called electrons zip about. So why does a table feel solid, if its atoms are nearly empty? The electrons of the atoms in your hand push on the electrons of the atoms in the table. This electric push is strong, and it stops the atoms getting closer. What we feel as hardness is this push between atoms.
 - e.g. A water molecule has three atoms: two of hydrogen and one of oxygen.
 - e.g. A sugar molecule has 45 atoms.
 - e.g. A hammer feels hard because the atoms in it push strongly on each other.
@@ -120,8 +120,8 @@ The particle model is a picture that explains a lot: why things have states, why
 
 ## Mostly agreed
 - Everything is made of particles too small to see, and the three states differ in how the particles are arranged and move. *How we know:* The model predicts how gases squash, how they push, how fast smells spread and how solids melt, and the measurements match.
-- In a gas, the particles are far apart with empty space between them. That is why gases can be squashed. *How we know:* Air squashes to a fraction of its size under pressure, and the pressure and volume follow a regular rule that the particle model predicts.
-- Gas pressure is made by particles hitting the walls, and a hotter gas pushes harder. *How we know:* Measurements of gases at different warmths match the numbers worked out from fast-moving particles.
+- In a gas, the particles are far apart with empty space between them. That is why gases can be squashed. *How we know:* Air squashes to a fraction of its size under pressure. Its pressure and the space it takes up follow a regular rule, and the particle model predicts that rule.
+- Gas pressure is made by particles hitting the walls, and a hotter gas pushes harder. *How we know:* Measurements of gases at different temperatures match the numbers worked out from fast-moving particles.
 - Ice, water and steam are the same substance, and only the arrangement and motion of the particles differ. *How we know:* Weighing before and after melting or boiling in closed containers gives the same mass, and cooling steam gives back water.
 - Atoms are mostly empty space, with a tiny nucleus in the middle. *How we know:* In the early 1900s, experiments aimed fast particles at thin gold foil, and nearly all went straight through.
 - Particles in a solid are never still. They jiggle on the spot, more as the solid is warmed. *How we know:* Heat makes solids expand, and X-ray and neutron measurements show the jiggle of the particles.
@@ -139,49 +139,49 @@ The particle model is a picture that explains a lot: why things have states, why
   Against: A balloon blown up with air weighs a little more than an empty one. Air squashes in a syringe, pushes on a tyre and carries sound. It is real stuff, with particles far apart.
 - **Between the particles of air there is more air, or dust, or tiny invisible stuff.** (A common idea among students; *rejected*)  
   For: It is hard to imagine nothing at all.  
-  Against: If something filled the gaps, air could not be squashed, because there would be nothing for the particles to move into. The rule for how the volume of a gas changes with pressure only works if the gaps between the particles are empty.
+  Against: If something filled the gaps, air could not be squashed, because there would be nothing for the particles to move into. The rule that links the pressure of a gas to the space it takes up only works if the gaps between the particles are empty.
 - **When a substance is heated, its particles get bigger.** (A common first guess; *rejected*)  
   For: Things expand when heated, so the particles must grow.  
   Against: The particles stay the same size. They move faster and push each other further apart, so the whole thing takes up more room.
 - **Gas particles sit in fixed places and push each other away, like people in a crowd holding out their arms.** (Many scientists in the 1700s, following Isaac Newton's maths; *rejected*)  
-  For: This picture also gives the right rule for how gas volume changes with pressure.  
+  For: This picture also gives the right rule for how the space a gas takes up changes with pressure.  
   Against: It cannot explain why a hot gas pushes harder, or why gases spread into each other. In 1738, Daniel Bernoulli showed that fast-flying particles explain all of these.
 - **The particles in a solid do not move at all.** (Some students; *rejected*)  
   For: A solid does not seem to move.  
   Against: The particles jiggle on the spot. Warm a solid and they jiggle more, until the solid melts. Solids that look still are full of movement.
 - **A liquid cannot be squeezed at all, not even a tiny bit.** (Many textbooks and many scientists before the 1760s; *rejected*)  
   For: In a syringe, water seems not to move, no matter how hard you press.  
-  Against: Very careful experiments show water can be squeezed a very small amount, less than one part in ten thousand for each extra push of one atmosphere. The particles are touching but not perfectly rigid.
+  Against: Very careful experiments show that water can be squeezed by a very small amount. It is less than one part in ten thousand for each extra push as big as the push of the outside air. The particles are touching but not perfectly rigid.
 
 ## Roots
-We have squeezed air and water, and watched one drop of colour spread through cup after cup. Now we ask what it means that everything has a lot of room inside it, and what that says about us.
+In the Squeeze Test, air squashed and water hardly moved. In How Far Does One Drop Go?, one drop of colour spread through cup after cup. This part looks at what those tests show: there is empty space inside everything, and that includes us.
 
-**Deep truth.** In the syringe, the air squashed to under half its size, and the water hardly moved. Both are made of particles. The difference is the empty space between them. What looks like 'full' or 'nothing' is particles with less room or more room.  
+**Deep truth.** In the Squeeze Test, the air in the syringe squashed to under half its size, and the water hardly moved. Both are made of particles. The difference is the empty space between them. A thing that looks 'full' has particles with little room between them. A thing that looks like 'nothing' has particles with a lot of room.  
 *Habit it breaks:* We think a solid is full of stuff and a gas is nothing. That is wrong for the gas, because air is stuff too. It is also wrong for the solid, because it has gaps inside.  
-*Evidence:* In the squeeze test, the air in the syringe squashed to about half, the water hardly moved, and the rice moved a little as the grains settled. In the jar test, the mustard seeds slid into the gaps between the dal and filled the jar. If your numbers differ, write them down as they are.
+*Evidence:* In the Squeeze Test, the air in the syringe squashed to about half, and the water hardly moved. In the Full Jar activity, the mustard seeds slid into the gaps between the chana and filled the jar. If your numbers differ, write them down as they are.
 
-- *who am i:* More than half of your weight is water. Your lungs fill with a gas, and the empty space between air particles is why you can breathe in and out.
+- *who am i:* Your body has all three states of matter. Your bones and teeth are solid, and most of the rest of you is water, which is a liquid. Your lungs hold air, which is a gas. Air fills your lungs easily because there is a lot of empty space between its particles.
 - *what is life:* A bee finds a flower by smell particles that drift through the air from far away. Many living beings find food, friends and danger by catching particles in the air or the water.
-- *what is this world:* A rock, the sea, the air and the steam from a kettle are made of the same kinds of particles. They differ in how much room the particles have, and how fast they move.
+- *what is this world:* A rock, the sea, the air and the steam from a kettle are all made of tiny particles. In each one, what it does depends on how much room the particles have and how fast they move.
 
-Solid, liquid and gas are not three different kinds of stuff. They are three ways the same particles can behave, depending on how much room they have and how fast they move. Heating or cooling moves a substance from one way to another. A spoon and the steam from a kettle are not as far apart as they look.
+Solid, liquid and gas are not three different kinds of stuff. They are three ways the same particles can behave, depending on how much room they have and how fast they move. Heating or cooling changes a substance from one state to another. So a block of ice and the steam from a kettle are more alike than they look. They are the same water particles, behaving in two different ways.
 
-- **Democritus of Abdera, as reported by Aristotle in the Metaphysics, Book 1:** Democritus, an ancient Greek thinker, taught that everything is made of atoms and empty space. Atoms cannot be cut further. Different things come from different atoms joined in different ways. (Your syringe test showed the empty space. Air squashed because its particles moved into the room between them.)
-- **The Vaisheshika school, traditionally linked to the teacher Kanada:** The Vaisheshika school of India taught that the world is made of tiny indivisible parts called paramanu, and that different things come from them joining in different ways. Scholars do not agree on the date, and some place its first ideas long before the common era. (Steel, water and steam are made of tiny parts joined and moving in different ways. That is the idea you tested with cups and syringes.)
+- **Democritus of Abdera, as reported by Aristotle in the Metaphysics, Book 1:** Democritus, an ancient Greek thinker, taught that everything is made of atoms and empty space. Atoms cannot be cut further. Different things come from different atoms joined in different ways. (In the Squeeze Test, the air in the syringe squashed because its particles moved into the empty space between them. That is the empty space Democritus taught about.)
+- **The Vaisheshika school, traditionally linked to the teacher Kanada:** The Vaisheshika school of India taught that the world is made of tiny indivisible parts called paramanu, and that different things come from them joining in different ways. Scholars do not agree on the date, and some place its first ideas long before the common era. (Steel, water and steam are made of tiny parts joined and moving in different ways. That is the idea you tested in How Far Does One Drop Go? and the Squeeze Test.)
 - Science (settled): Gas pressure is made by particles hitting the walls of the container, and a hotter gas pushes harder.
 - Science (settled): Atoms are mostly empty space around a tiny nucleus, and the push of electrons between atoms is what makes a solid feel hard.
 - Science (open): Physicists describe the smallest things as ripples in fields, not as tiny balls, and they do not agree on what, if anything, lies beneath.
 - Other view, Some philosophers of science: The particle picture is a tool for predicting what happens, and we should not say that particles are real in the way a chair is real. A model is good if it predicts well. Whether the particles are really out there is a separate question that experiments may never settle.
 - Practice, Three crowds in one breath (3 min): Stand with your feet apart. First, be a solid. Hold your body stiff and shake only a little. Breathe in slowly. Now be a liquid. Sway and let your arms flow. Breathe out slowly. Now be a gas. Spread your arms wide and take up all the room you can. Notice how much space each one needed.
-- Ask: If a solid, a liquid and a gas can be the same particles, what makes a spoon a spoon and steam steam?
+- Ask: Ice, water and steam can be made of the same particles. So what makes ice ice, and steam steam?
 - Ask: Nobody can see the empty space in air. Is it real? How do you know?
 - Ask: Your hand cannot pass through a table, though both are mostly empty space. What does that tell you about what 'solid' means?
 
 ## Deep and big questions
-- *deep:* A drop of colour made a whole cup pink, and was still there in a cup that looked clear. How would you prove that something is in the water if you cannot see it? (hint: Think of the tests that could find it with something other than your eyes. Taste is one. What other senses could you use?)
+- *deep:* A drop of colour made a whole cup pink, and was still there in a cup that looked clear. How would you prove that something is in the water if you cannot see it? (hint: Think of tests that do not use your eyes. For example, could you let the water dry away and look for what is left behind? Never taste food colour that has been used in an experiment.)
 - *deep:* Air squashes and water does not. Both are made of particles. So what must be different about them? (hint: Think about what happens when you try to push particles closer together. What stops them?)
 - *deep:* If an atom is mostly empty space, why can't you push your hand through a wall? (hint: Think about what the atoms in your hand and the atoms in the wall do when they come close.)
-- *deep:* A steel spoon, a cup of water and the steam of a kettle can be the same particles. Is the spoon a different thing from the steam? (hint: Think about ice, water and steam. What is the same, and what is different?)
+- *deep:* Ice, a cup of water and the steam from a kettle are made of the same particles. Is the ice a different thing from the steam? (hint: Think about ice, water and steam. What is the same, and what is different?)
 - *big:* Nobody has ever seen a gas particle with their eyes. How can we be sure that they are there? (hint: Think about what you tested in this unit, and what it would mean if there were no particles.)
 - *big:* A model is a picture that is not exactly true but is very useful. Can you think of other models in life, such as a map? (hint: A map shows roads but not every tree. What does it leave out? What would be lost if it showed everything?)
 - *big:* The air in a room is made of particles flying at five hundred metres a second, and we feel nothing. Why not? (hint: Think about how many particles hit you every second, and whether they push from only one side.)
@@ -205,7 +205,7 @@ Nothing came. The cooker was still hissing, but the weight on the top was not mo
 
 Her uncle Raghu walked in. He was a big, cheerful man, and he had come from Bengaluru for lunch. He was also very hungry. 'Ah, the cooker,' he said. 'Is lunch ready? Let me open it and look.' He reached for the lid handle with a kitchen cloth.
 
-'Please don't, Mama,' said Lalitha. 'Turn the lid and see. It will not move.'
+'Please don't, Mama,' said Lalitha. 'The lid is shut tight, and it will not open now.'
 
 He tried. He pulled and twisted. The lid did not move. 'Stuck,' said Raghu. 'These old cookers. Give me a spoon, I will force it. Or I will put the whole thing under the tap.'
 
@@ -241,7 +241,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 
 ## Games
 ### g1 · Which Crowd? A card game about particles (20 min)
-- **rules:** Draw a mat on a sheet of paper with four columns: Solid, Liquid, Gas and Changing. Put the word tokens in a row where everyone can reach them.; Shuffle the 24 cards and make a pile with the fronts up. Take turns to be the player.; On your turn, read the top card aloud. Do not turn it over. Put it in the column you think fits.; Pick the two word tokens that best explain your choice. Say one sentence that uses both words.; Now turn the card over and read the back. Right column: 1 point. Each of the two tokens that matches the back: 1 point more. A card can give up to 3 points.; If you were wrong, put the card in a Learn pile. Say what you would answer now.; Some cards say Changing, because the substance is changing from one state to another. For these, say what is speeding up or slowing down.; When all 24 cards are played, shuffle the Learn pile and play it once more. The player with the most points wins. A tie is a shared win.; Playing alone, try to get at least 48 points on the first round, and then beat your score with the Learn pile.
+- **rules:** Draw a mat on a sheet of paper with four columns: Solid, Liquid, Gas and Changing. Put the word tokens in a row where everyone can reach them.; Shuffle the 24 cards and make a pile with the fronts up. Take turns to be the player.; On your turn, read the top card aloud. Do not turn it over. Put it in the column you think fits.; Pick the two word tokens that best explain your choice. Say one sentence that uses both words.; Now turn the card over and read the back. You get 1 point for the right column, and 1 more point for each of your two tokens that matches the back. A card can give up to 3 points.; If you were wrong, put the card in a Learn pile. Say what you would answer now.; Some cards say Changing, because the substance is changing from one state to another. For these, say what is speeding up or slowing down.; When all 24 cards are played, shuffle the Learn pile and play it once more. The player with the most points wins. A tie is a shared win.; Playing alone, try to get at least 48 points on the first round, and then beat your score with the Learn pile.
 - **Printable cards: 24 two-sided cards: a thing that happens at home on the front, and the answer with the right word tokens on the back:** A steel katori falls on the floor and keeps its shape. (back: Solid. Tokens: Close together, Held in place.); Water from a jug takes the shape of the tumbler. (back: Liquid. Tokens: Close together, Slide past each other.); The smell of tadka reaches the bedroom. (back: Gas. Tokens: Far apart, Fly about. Moving air carries the smell too.); Ghee is runny in a hot pan and firm when it comes out of the fridge. (back: Changing. The same ghee is a solid when cool and a liquid when warm, as its particles jiggle harder. Tokens: Jiggle on the spot, Slide past each other.); You push the plunger of a syringe full of air, and it goes in half way. (back: Gas. Tokens: Far apart, Empty space between.); You push the plunger of a syringe full of water, and it hardly moves. (back: Liquid. Tokens: Close together, Slide past each other.); An ice cube sits on a plate in the sun and slowly turns to water. (back: Changing. The particles jiggle harder until they break out of their places. Tokens: Jiggle on the spot, Held in place.); A kettle's steam is invisible right at the spout. (back: Gas. Water vapour is a gas you cannot see. The white cloud further out is tiny drops of liquid water. Tokens: Far apart, Fly about.); Sand pours from your fist and heaps up on the floor. (back: Solid. It is many solid grains, and each grain has its particles held in place. Tokens: Close together, Held in place.); A balloon left in the sun gets tight. (back: Gas. The hotter air particles fly faster and hit the skin harder. Tokens: Fly about, Hit the walls.); Honey flows slowly from a jar. (back: Liquid. Tokens: Close together, Slide past each other.); A bicycle tyre feels hard. (back: Gas. Many air particles are squeezed in, and they hit the inside wall very often. Tokens: Fly about, Hit the walls.); The handle of a steel spoon gets warm when the bowl is in hot tea. (back: Solid. The jiggling passes from particle to particle along the spoon. Tokens: Jiggle on the spot, Held in place.); A camphor tablet in the open gets smaller, and you can smell it. (back: Changing. Particles leave the solid and fly into the air as a gas. Tokens: Fly about, Far apart.); A pump pushes air into a football. (back: Gas. More particles fit into the same space, so they hit the wall more often. Tokens: Hit the walls, Empty space between.); A drop of red colour spreads through a still glass of water over many hours. (back: Liquid. The particles are close, so they bump into each other a lot, and the spreading is slow. Tokens: Close together, Slide past each other.); A cup of water poured onto a wide plate is still a cup of water. (back: Liquid. The shape changes but the amount stays the same, because the particles are still touching. Tokens: Close together, Slide past each other.); Candle wax drips and then sets hard. (back: Changing. The wax particles slow down as they cool and become held in place. Tokens: Slide past each other, Held in place.); Wet clothes on the line are dry by evening. (back: Changing. Water particles escape from the liquid and fly off into the air. Tokens: Fly about, Far apart.); A steel ladle stays hard in boiling water. (back: Solid. The steel particles are held in place even when they jiggle faster. Tokens: Jiggle on the spot, Held in place.); The steam inside a closed cooker pushes on the lid. (back: Gas. Tokens: Fly about, Hit the walls.); A salt crystal has flat shiny faces. (back: Solid. The particles are stacked in neat rows. Tokens: Close together, Held in place.); Juice from a packet is poured into a glass. (back: Liquid. Tokens: Close together, Slide past each other.); You open a bottle of fizzy soda and hear a hiss. (back: Gas. Gas that was squeezed into the drink escapes into the air. Tokens: Far apart, Fly about.)
 - **Printable tokens: 8 word tokens: one word or short phrase on each:** Close together; Far apart; Held in place; Slide past each other; Fly about; Jiggle on the spot; Hit the walls; Empty space between
 - **s1 (3 min)**  
@@ -252,7 +252,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent does:* Play one practice card together. Read the steel katori card. Do not keep the points.  
   *Parent says:* Read the card. Which column does it go in? Pick two tokens that explain it. Then we check the back together.  
   *Child mode:* Read the steel katori card. Pick a column. Pick two tokens. Check the back.
-  - Note: This practice card scores nothing. It shows the routine: column, two tokens, one sentence.
+  - Note: This practice card scores nothing. It shows the routine: choose a column, pick two tokens, say one sentence.
   - Check: A steel katori falls on the floor and keeps its shape. Which column does it go in? → **Solid**
 - **s3 (8 min)**  
   *Parent does:* Play the first twelve cards, taking turns. After each card, turn it over and give out the points. Put wrong cards in the Learn pile.  
@@ -270,6 +270,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent says:* Look at the Changing cards. What do ice, ghee, wax and camphor have in common?  
   *Child mode:* Look at the Changing cards. What do they have in common?
   - Ask: What do the Changing cards have in common? (good: Particles speed up or slow down.; The same stuff is in a different state.; Heat changes how the particles move.)
+  - Note: Good answers are ice melting in a drink, ghee melting in a hot pan and setting again, wet clothes drying, or steam from a kettle. In each one, the same stuff is in a different state because its particles are moving differently.
   - Think: Can you think of something at home that goes through a change like this every day?
 
 ## Experiments
@@ -283,7 +284,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - **s1 (5 min)**  
   *Parent does:* Show the cups, the colour and the spoon. Ask for a guess about how many cups will show colour, and for a reason. Write the guess down.  
   *Parent says:* We will put one drop of colour in a cup of water. Then we will pass one spoonful to the next cup, again and again. How many cups will have colour? Why do you think so?  
-  *Child mode:* One drop. Six cups. How many will show colour? Why do you think so?
+  *Child mode:* One drop of colour goes into the first of six cups. How many cups will show colour? Why do you think so?
   - Ask: How many cups do you think will show colour, and why? (good: Only two, because the drop is so small.; All six, because colour never goes away.; Three or four, because the colour gets thinner each time.)
   - Note: Do not correct the guess. Most children guess two or three. Write the guess at the top of the table.
 - **s2 (5 min)**  
@@ -302,27 +303,27 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent says:* Take one level spoonful from cup 1 into cup 2. Stir. Rinse the spoon. Now one spoonful from cup 2 into cup 3. Keep going, all the way to cup 6.  
   *Child mode:* Move one spoonful from each cup to the next. Stir. Rinse the spoon.
   - Note: The colour in each cup is one tenth of the colour in the cup before. Cup 3 holds one hundredth of cup 1, cup 4 one thousandth, and so on. A rinsed spoon keeps the test fair.
-  - Wait: Take your time and rinse the spoon each time, or the colours will mix.
+  - Wait: Take your time and rinse the spoon each time, or the spoon will carry extra colour into the next cup.
 - **s5 (6 min)**  
   *Parent does:* 1. Look at the row from above, against the white paper. 2. For each cup, write yes, faint or no in the table. 3. Put a cup of plain water next to cup 6 and compare. 4. Look from the side too.  
   *Parent says:* Look at the row from above, then from the side. Which cups still have colour? Put plain water next to the last cup. Can you tell them apart?  
   *Child mode:* Look at every cup. Write yes, faint or no. Compare the last cup with plain water.
-  - Note: Typically the colour fades out somewhere between cup 3 and cup 5 on white paper, depending on how strong your food colour is, so there is no right number. If the colour has gone by cup 2 or 3, begin again with 3 drops in cup 1 and note it in the table. If cup 6 is still quite bright, add cups 7 and 8. With 2 to 4 children, each runs one row (one colour each) and then you compare the rows; it is a good way to find which colour goes furthest. One child can be the spoon-carrier and one the stirrer, and swap roles for the second row. Hold the cups up to a window or white paper to judge.
+  - Note: On white paper, the colour usually fades out somewhere between cup 3 and cup 5. It depends on how strong your food colour is, so there is no right number. If the colour has gone by cup 2 or 3, begin again with 3 drops in cup 1 and note it in the table. If cup 6 is still quite bright, add cups 7 and 8. With 2 to 4 children, each child runs one row with one colour, and then you compare the rows. It is a good way to find which colour goes furthest. One child can carry the spoon and one can stir, and they swap for the second row. Hold the cups up to a window or white paper to judge.
   - Check: Cup 6 looks clear. Is there still colour in it? → **Yes, a tiny amount, spread so thinly you cannot see it**
 - **s6 (5 min)**  
-  *Parent does:* 1. Pour out the red cups and rinse them. 2. Do the same test with the second colour, from cup 1 to cup 6. 3. Write what you see in a second row of the table.  
+  *Parent does:* 1. Pour out the red cups and rinse them. 2. Do the same test with the blue colour, from cup 1 to cup 6. 3. Write what you see in a second row of the table.  
   *Parent says:* Now do exactly the same with the blue colour. Does it go further than the red, or less far? Write down what you see.  
-  *Child mode:* Repeat with the second colour. Does it go further or less far?
+  *Child mode:* Repeat the test with the blue colour. Does it go further or less far than the red?
   - Note: Different colours are made from different dyes, and some are stronger. So one colour often stays visible for one more cup than the other.
 - **s7 (6 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: one drop holds so many colour particles that they spread into many cups. What I saw: the pink faded cup by cup, and the last cup looked clear, perhaps a tiny bit different from plain water. Why: each spoonful carries a tenth of the colour, so there is less and less, but never exactly none.
+  *Child mode:* Say or write three things: what you think, what you saw, and why you think it happened.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: one drop holds so many colour particles that they spread into many cups. What I saw: the pink faded cup by cup, and the last cup looked clear, perhaps a tiny bit different from plain water. Why: each spoonful carries a tenth of the colour, so there is less and less, but never exactly none. For the last question: let a spoonful of the water from cup 6 dry on a clean saucer, and look for a very faint stain of colour. Do not taste it.
   - Think: If the colour in cup 6 is still there, how could you prove it without looking?
 ### e2 · The Squeeze Test: can air, water and a water-and-bubble mix be squashed? (35 min)
 - **question:** A syringe is full of air, and another is full of water. You seal the end and push the plunger as hard as you can. Which one squashes, and by how much?
-- **predict:** Before you start, guess. How far will the plunger go in when it is full of air, and when it is full of water? What will happen if the water has a small bubble of air in it? Why do you think so?
+- **predict:** Before you start, guess. How far will the plunger go in when the syringe is full of air? How far when it is full of water? What will happen if the water has a small bubble of air in it? Why do you think so?
 - **fair test:** You use the same syringe, the same starting amount of 10 millilitres, the same finger seal and the same push each time. You try each test three times and use the middle number. Only what is inside the syringe changes.
 - **safety:** Use only a syringe with no needle. Never point a syringe at a face or an eye. Keep the small parts away from children under five. Hold the plunger firmly, because it can spring back. Work over a tray or in the kitchen sink, because the seal may leak and squirt water. Do not use a syringe that has been used for medicine unless it is washed well.
 - **record:** Fill in the table with the numbers. Then draw a picture of the air in the syringe before and after you push, showing the particles as dots.
@@ -330,41 +331,41 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - **s1 (4 min)**  
   *Parent does:* Show your child the syringe. Pull the plunger out and in a few times. Ask for a guess and a reason.  
   *Parent says:* This is a syringe with no needle. We will seal the end and push the plunger. What will happen with air inside? With water inside? Why do you think so?  
-  *Child mode:* Seal the syringe. Push. What happens with air? With water? Why?
+  *Child mode:* You will seal the end of the syringe and push the plunger. What will happen with air inside? With water inside? Why?
   - Ask: What do you think will happen when you push the plunger, and why? (good: The air will squash, because it is light.; Neither will squash, because the end is blocked.; The water will squash more, because it is wet.)
   - Note: Do not correct the guess. Any guess with a reason is good. Write the guesses at the top of the table.
 - **s2 (4 min)**  
   *Parent does:* 1. Pull the plunger back to the 10 millilitre mark. 2. Press your fingertip tight over the end. 3. Push the plunger a little and let go. Does it spring back?  
   *Parent says:* Pull the plunger back to ten millilitres. Press your finger tight over the end. Push a little and let go. Does the plunger spring back? If it does, your seal is good.  
-  *Child mode:* Pull to 10. Seal the end with a finger. Push a little. Does it spring back?
+  *Child mode:* Pull the plunger back to 10. Seal the end with a finger. Push a little. Does the plunger spring back?
   - Note: If it does not spring back, air is leaking. Press the finger harder, or use a blob of clay over the tip. If the plunger sticks, rub a drop of cooking oil on the rubber.
 - **s3 (6 min)**  
   *Parent does:* 1. Pull the plunger back to 10 millilitres again. 2. Seal the end. 3. Push the plunger in as far as you can and hold for 3 seconds. 4. Read the mark. 5. Do this three times.  
   *Parent says:* Seal the end and push the plunger in as far as you can. Hold for three seconds. Read the mark. Do it three times. Write each number down.  
-  *Child mode:* Seal. Push as hard as you can. Read the mark. Do it three times.
+  *Child mode:* Seal the end. Push the plunger as hard as you can. Read the mark. Do it three times.
   - Ask: What do you notice about the plunger when you let go? (good: It springs back.; It pushes my thumb out.; It feels like pushing on a spring.)
-  - Note: Air usually squashes to between 3 and 6 millilitres, depending on how hard you push and how well your finger seals; a weak seal gives a smaller squash, so compare your three tries and use the middle number. The plunger springs back when you let go. With 2 to 4 children there is one syringe, so give roles: one pushes, one seals the tip, one reads the mark, one writes. Swap roles after each of the three tries so everyone pushes once, and note that a stronger child will squash it more, which is why the same person should push for all three tests in the table.
+  - Note: Air usually squashes to between 3 and 6 millilitres. It depends on how hard you push and how well your finger seals. A weak seal gives a smaller squash, so compare your three tries and use the middle number. The plunger springs back when you let go. With 2 to 4 children there is one syringe, so give each child a job: one pushes, one seals the tip, one reads the mark, one writes. Swap jobs after each of the three tries so everyone pushes once. A stronger child will squash the air more, so the same person should push for all three tests in the table.
 - **s4 (6 min)**  
   *Parent does:* 1. Fill a cup with water. 2. Dip the syringe tip in and pull the plunger back to 10 millilitres to draw in water. 3. Hold the tip up, tap out the bubbles, and push the plunger up until there is no air. 4. Seal the end. 5. Push as hard as you can.  
   *Parent says:* Draw up ten millilitres of water. Tap out the bubbles. Seal the end with your finger, and push as hard as you can. What do you see? Do it three times.  
-  *Child mode:* Fill with water. Tap out the bubbles. Seal. Push as hard as you can.
+  *Child mode:* Fill the syringe with water. Tap out the bubbles. Seal the end. Push as hard as you can.
   - Note: The plunger may move a tiny amount or not at all, and a finger seal may leak a drop. Write 0 or about 0. If water squirts out the sides, press the tip into a rubber eraser or clay instead of a finger. Tap out every bubble first, or you will be measuring the bubble.
   - Check: The plunger hardly moved when the syringe was full of water. Why? → **The water particles are touching, so there is no empty space to squash them into**
 - **s5 (6 min)**  
   *Parent does:* 1. Draw up 9 millilitres of water. 2. Pull the plunger back to 10 millilitres, to let in a small bubble of air. 3. Seal the end. 4. Push as hard as you can and read the mark. 5. Do it three times.  
   *Parent says:* Now put a small bubble of air in with the water. Seal the end and push. How far does the plunger go this time? What squashed, the water or the bubble?  
-  *Child mode:* Water plus a small bubble. Seal. Push. What squashed?
+  *Child mode:* Put water and a small bubble of air in the syringe. Seal the end and push. What squashed?
   - Note: The mix should squash by less than the size of the bubble, because only the bubble can squash. This shows that the water was not squashing. The bubble was.
 - **s6 (4 min)**  
   *Parent does:* 1. Look at your three results. 2. Fill in the 'How much it squashed' column. 3. Talk about which squashed and which did not.  
-  *Parent says:* Look at the numbers. Which squashed the most? Which squashed the least? What do the particles in each one have to do?  
+  *Parent says:* Look at the numbers. Which squashed the most? Which squashed the least? What do the particles have to do with it?  
   *Child mode:* Look at the table. Which squashed most? Which squashed least?
   - Note: Air squashes a lot, water almost not at all, and water with a bubble squashes by about the bubble's size.
 - **s7 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then ask them to draw the air particles before and after pushing.  
   *Parent says:* Tell me three things. What do you think? What did you see? Why did it happen? Then draw the air particles before and after.  
   *Child mode:* Say what you think, what you saw, and why. Then draw the air particles.
-  - Note: This is claim, evidence and reasoning. A good answer: What I think: air has empty space between its particles. What I saw: the air squashed to about half and sprang back, and the water did not move. Why: air particles are far apart, so they can be pushed closer. Water particles already touch. In the drawing, the particles should be the same size before and after, just closer together after.
+  - Note: This is claim, evidence and reasoning. A good answer: What I think: air has empty space between its particles. What I saw: the air squashed to about half and sprang back, and the water did not move. Why: air particles are far apart, so they can be pushed closer. Water particles already touch. In the drawing, the particles should be the same size before and after, just closer together after. For the last question: at last the particles would touch each other, and there would be no empty space left to squeeze them into. Then the air would be as hard to squeeze as a liquid.
   - Think: If you kept squeezing the air in the syringe harder and harder, what do you think would stop you at last?
 
 ## Activities
@@ -375,12 +376,12 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent says:* Pack the rice close, in a single layer. Shake the plate very gently. What do the grains do? Do they move around the plate?  
   *Child mode:* Pack the rice close. Shake the plate gently. Watch the grains.
   - Ask: What do the grains do when you shake gently? (good: They wobble on the spot.; They stay in the same places.; They jiggle but do not swap places.)
-  - Note: The grains wobble a little but stay in their places. This is a model of a solid. Before shaking, ask your child to predict which of the three will make the most noise. With 2 to 4 children, each child shakes their own plate or box, or one shakes while another draws. Keep the rice on a tray, because grains on a smooth floor are slippery. Do not eat the rice afterwards.
+  - Note: The grains wobble a little but stay in their places. This is a model of a solid. Before shaking, ask your child to guess which of the three ways of shaking will make the most noise. With 2 to 4 children, each child shakes their own plate or box, or one shakes while another draws. Keep the rice on a tray, because grains on a smooth floor are slippery. Do not eat the rice afterwards.
 - **s2 (4 min)**  
   *Parent does:* 1. Tip the rice into a loose heap. 2. Shake the plate harder and tilt it a little. 3. Watch how the grains move.  
   *Parent says:* Tip the rice into a heap. Shake harder and tilt the plate. What do the grains do now? Do they stay in place?  
   *Child mode:* Shake harder and tilt the plate. What do the grains do now?
-  - Ask: How is this crowd different from the first one? (good: The grains slide past each other.; The grains flow downhill.; The grains take the shape of the plate.)
+  - Ask: How is this crowd of grains different from the one you shook gently? (good: The grains slide past each other.; The grains flow downhill.; The grains take the shape of the plate.)
   - Note: The grains slide over each other and flow to the low side. They stay close and keep touching. This is a model of a liquid.
 - **s3 (4 min)**  
   *Parent does:* 1. Put a handful of rice in the tiffin box. 2. Close the lid tight. 3. Shake the box hard. 4. Listen, and feel the grains hit the walls.  
@@ -392,6 +393,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent does:* Ask the question below. Then ask your child to draw the three crowds and write solid, liquid or gas under each.  
   *Parent says:* Rice grains are not particles. They are big, they touch, and they are solid. Where does this model get things wrong for a gas?  
   *Child mode:* Where does the rice model get things wrong?
+  - Note: To make the box a better model of a gas, use far fewer grains and a much bigger box. Then the grains would be far apart, with empty space between them, and each one would fly until it hits a wall or another grain.
   - Check: Where does the rice model get a gas wrong? → **The grains in a gas model should be much further apart, with nothing between them**
   - Think: What would you need to change to make the box a better model of a gas?
 ### a2 · Full Jar, Not Really Full: chana, mustard and water (20 min)
@@ -407,7 +409,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent does:* 1. Measure out 200 millilitres of mustard seeds. 2. Pour them slowly onto the chana. 3. Tap the jug gently. 4. Stop when no more go in without lifting the level above the 300 millilitre line. 5. Measure the seeds that are left over.  
   *Parent says:* Pour the mustard seeds in slowly. Tap the jug so they slide into the gaps. Stop when no more will go in. How many millilitres went in?  
   *Child mode:* Pour in the seeds slowly. Tap the jug. Stop when no more go in.
-  - Note: Typically 60 to 100 millilitres of seeds go in, though it depends on the grains (split chana dal packs closer than whole chana). If the numbers differ from yours, that is fine, and what matters is that some went in. With 2 to 4 children, one pours, one taps, one reads the jug and one writes; each guesses first. Work out the amount that went in by subtracting what is left over from 200.
+  - Note: Usually 60 to 100 millilitres of seeds go in. It depends on the grains: split chana dal packs closer than whole chana. If your numbers are different, that is fine. What matters is that some seeds went in. With 2 to 4 children, each guesses first. Then one pours, one taps, one reads the jug and one writes. Work out the amount that went in by subtracting what is left over from 200.
 - **s3 (6 min)**  
   *Parent does:* 1. Measure 100 millilitres of water. 2. Pour it slowly onto the grains and seeds. 3. Stop when the water reaches the top. 4. Measure the water left over.  
   *Parent says:* Is the jug really full now? Pour water in very slowly. How much goes in? Where do you think it goes?  
@@ -416,18 +418,19 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   - Check: Water still went into a jug that looked full of grains and seeds. Where did it go? → **Into the tiny gaps between the grains and seeds**
 - **s4 (3 min)**  
   *Parent does:* Add up the three amounts. Compare the total with 300 millilitres. Then talk about what this shows.  
-  *Parent says:* Add up the amounts. The jug only holds 500 millilitres. How much did you fit in? What do you think this tells us about empty space?  
-  *Child mode:* Add up the three amounts. How much did you fit in?
+  *Parent says:* The chana filled the jug to the 300 line. Add up the chana, the seeds and the water that you fitted in. Is the total more than 300?  
+  *Child mode:* Add up the three amounts. Is the total more than 300?
   - Ask: What does this show about empty space between things? (good: Big things leave gaps for small things.; Even when it looks full, there is room.; Small things fit between big things.)
+  - Note: The total is more than 300 millilitres, for example 300 plus 85 plus 40 is 425. All of it fitted into the space that looked full of chana. So the chana, which looked full, had empty gaps. Good answers for the last question are sand between pebbles, or a full bus where more people can still squeeze in.
   - Think: Particles of different sizes fit into each other's gaps in the same way. Where have you seen small things fit between big things?
 ### a3 · Substance or Mixture? Read the labels in your kitchen (20 min)
 - **record:** A two-column sheet. In the first column, write the things that seem to be one substance. In the second, write the mixtures. Next to each, write your reason.
 - **s1 (5 min)**  
   *Parent does:* Line up the ten things. Ask your child to guess for each one: is it one substance, or a mixture? Write the guess next to each name.  
   *Parent says:* Here are ten things. Which do you think are made of just one kind of stuff? Which are a mix of different kinds? Why do you think so?  
-  *Child mode:* Look at the ten things. Guess one substance or a mixture. Why?
+  *Child mode:* Look at the ten things. For each one, guess: is it one substance or a mixture? Why?
   - Ask: Which one are you sure is a mixture, and why? (good: The tea, because I can see leaves and bits.; The milk, because it has fat and water.; The air, because it has several gases.)
-  - Note: Do not correct the guess. A label that lists more than one thing is a sign of a mixture. Do not taste anything to test it. With 2 to 4 children, each picks five things, guesses and reads the labels, and then swaps to check one another.
+  - Note: Do not correct the guess. A label that lists more than one thing is a sign of a mixture. Do not taste anything to test it. With 2 to 4 children, each picks five things, guesses and reads the labels. Then they swap and check each other's answers.
 - **s2 (8 min)**  
   *Parent does:* 1. Read the label of each packet. 2. Count the ingredients in each. 3. For things without labels, such as the spoon, ask what it is made of. 4. Write the number of ingredients.  
   *Parent says:* Read the label on each packet. How many ingredients does it list? A label with many ingredients is a mixture. What does the sugar packet say?  
@@ -438,11 +441,12 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent says:* Sort the ten things into two columns. Put one reason next to each. Which ones were hard to decide?  
   *Child mode:* Sort the things into two columns. Write one reason for each.
   - Note: Some answers are in between. That is fine. Scientists use 'nearly pure' for something that is almost all one substance.
-  - Check: Salt lists salt and a tiny bit of iodine. Is it one substance or a mixture? → **Nearly one substance, with a tiny extra bit**
+  - Check: The label on a salt packet lists salt and a tiny bit of iodine. Is the salt in the packet one substance or a mixture? → **Nearly one substance, with a tiny extra bit**
 - **s4 (2 min)**  
   *Parent does:* Ask the question below.  
   *Parent says:* Why can't we say for sure that any packet is one pure substance?  
   *Child mode:* Why is it hard to find a perfectly pure substance?
+  - Note: Almost every packet has a tiny amount of something else in it, such as iodine in salt. To make a really pure substance, scientists must take out even those tiny amounts. That needs special equipment.
   - Think: Why might a scientist need special equipment to make a really pure substance?
 ### a4 · Draw the Particles: six things and one rule book (25 min)
 - **record:** Six particle drawings: a steel spoon, water in a glass, steam, air in a football, set ghee from the fridge and ghee melted in a hot pan. Each one has the name under it.
@@ -451,23 +455,24 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent says:* Here are five rules for drawing particles. Say them back to me in your own words. Which rule would be hardest to draw?  
   *Child mode:* Listen to the five rules. Say them in your own words.
   - Ask: Which rule do you think is the hardest to draw? (good: Showing how fast they move.; Drawing them far apart in a gas.; Making all the particles look the same.)
-  - Note: Write the rules where you can see them. Rules: same look, solid rows, liquid jumble, gas far apart, arrows for movement.
+  - Note: Write the rules where you can see them. In short: particles of one substance look the same, solids are in rows, liquids are jumbled, gases are far apart, and arrows show movement.
 - **s2 (10 min)**  
-  *Parent does:* Draw six boxes on paper. Draw the particles in each box. The six are a steel spoon, water, steam, football air, set ghee from the fridge and hot melted ghee.  
+  *Parent does:* Draw six boxes on paper. Draw the particles in each box. The six are a steel spoon, water in a glass, steam, the air in a football, set ghee from the fridge and ghee melted in a hot pan.  
   *Parent says:* Draw the particles in each box. Use the rules. Think about how close they are and how they move. Add small arrows.  
   *Child mode:* Draw the particles in each box. Use the rules. Add arrows.
-  - Note: Let your child draw first, and do not correct while they draw. For ghee, the picture changes from rows to jumble. Ask which rule they are using for each. In hot weather ghee on the shelf is already soft or runny, so use ghee that has been in the fridge. Each child can draw alone and then swap with one other, so it works with 2 to 4 children or just you and one parent.
+  - Note: Let your child draw first, and do not correct while they draw. For ghee, the picture changes from rows to jumble. Ask which rule they are using for each. In hot weather ghee on the shelf is already soft or runny, so use ghee that has been in the fridge. Each child can draw alone and then swap with one other. So it works with 2 to 4 children, or with one child and a parent.
   - Check: In your drawing, how are the steam particles different from the water particles? → **They are further apart**
 - **s3 (8 min)**  
   *Parent does:* 1. Swap your sheet with a partner. 2. Check each drawing against the five rules. 3. Put a tick when a rule is followed. 4. Put a question mark when it is not.  
   *Parent says:* Swap with your partner. Check each box against the rules. Tick if a rule is followed. Put a question mark if not. Tell your partner why.  
-  *Child mode:* Swap drawings. Check each box. Tick or question mark.
+  *Child mode:* Swap drawings. Check each box against the rules. Put a tick or a question mark.
   - Ask: Which rule was easiest to break by mistake? (good: Showing the particles all the same.; Drawing gas particles too close.; Forgetting the arrows.)
   - Note: Aim for kind feedback: one tick and one idea for each drawing.
 - **s4 (3 min)**  
   *Parent does:* Ask your child to choose one drawing and fix it. Then ask the question below.  
   *Parent says:* Pick one drawing and fix it. Then tell me, what does a drawing like this leave out?  
   *Child mode:* Fix one drawing. What does a drawing leave out?
+  - Note: A flat drawing cannot show that real particles are always moving, very fast and in every direction. It also cannot show that they are in three dimensions, in front of and behind each other. Arrows are the best we can do.
   - Think: A drawing is flat and still. What is real about particles that a flat, still picture cannot show well?
 
 ## Projects
@@ -477,12 +482,12 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - **schedule:** day 1: Plan eight pages. Draw the cover and the solid, liquid and gas pages. (20 min); day 2: Draw the changing page, the squashing page and the smell page. Write the words. (20 min); day 3: Read the book to a younger child. Write down their questions. Improve one page. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Fold the paper into a book. 2. Plan the eight pages: cover, solid, liquid, gas, changing, squashing, smell, and what is in the gaps. 3. Draw the cover and the first three pages.  
-  *Parent says:* Plan your book first. Eight pages. Which three crowds will you draw first? What example from home will you use for each?  
+  *Parent says:* Plan your book first. It has eight pages. Which three crowds will you draw first? What example from home will you use for each?  
   *Child mode:* Plan eight pages. Draw the cover and the solid, liquid and gas pages.
   - Note: Encourage real examples from the tests: the rice tray, the syringe and the cups of colour. With 2 to 4 children, each draws two or three pages of the same book and they read it together. If there is no younger child nearby, read it to a parent or grandparent, and ask them to pretend to be five years old.
 - **s2 (20 min)**  
   *Parent does:* 1. Draw and write the changing page, the squashing page and the smell page. 2. Use the words particle, gap and pressure. 3. Write one sentence on each page.  
-  *Parent says:* Now the other pages. Write one sentence on each. Use the words particle and gap. Explain it so a six year old could follow.  
+  *Parent says:* Now draw the other pages. Write one sentence on each. Use the words particle and gap. Explain it so a six year old could follow.  
   *Child mode:* Draw and write the other pages. One sentence on each page.
   - Ask: How will you explain a gap to a younger child? (good: Empty space between the particles.; Like the room between chairs in a hall.; A place where there is nothing.)
   - Note: Each sentence should be 12 words or fewer. If your child uses a hard word, ask them to explain it in a plain way.
@@ -495,6 +500,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent does:* 1. Pick the one question you could not answer well. 2. Look up the answer, or ask a grown-up. 3. Add a new page with the answer.  
   *Parent says:* Choose the question that was hardest. Find an answer. Add a new page to your book. Write the answer in plain words.  
   *Child mode:* Pick the hardest question. Find the answer. Add a page.
+  - Note: When you explain something, you find out quickly which parts you cannot say clearly. A younger child asks simple questions that your own book did not answer. Those questions show you what you still need to understand.
   - Think: Why is explaining something to someone else a good way to find what you do not yet understand?
 
 ## Challenges
@@ -514,11 +520,12 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Parent does:* 1. Try the first idea. 2. Write down what you see, hear or feel. 3. Try a second idea. 4. Change one thing and try again.  
   *Parent says:* Try your first idea. What do you see, hear or feel? Then try your second. Change one thing and try again. Write down what happens.  
   *Child mode:* Try your first idea. Write what you see. Then try another.
-  - Note: Water in the tumbler test: push the glass straight down, not tilted. The water level inside should stay low.
+  - Note: In the test with the upside-down glass, push the glass straight down, not tilted. The water level inside should stay low.
 - **s3 (5 min)**  
   *Parent does:* 1. Choose the test that was most convincing. 2. Show it to a family member or friend who has not seen it. 3. Ask them what they think it shows.  
   *Parent says:* Pick your best test. Show someone who has not seen it. Ask them what they think it shows. Did they believe you?  
   *Child mode:* Pick your best test. Show someone. Did they believe you?
+  - Note: The best evidence for something you cannot see is what it does to things you can see, feel or hear. For air, that is the water kept out of the glass, the balloon that pushes back, or the paper pressed down.
   - Check: A glass pushed upside down into water keeps the water out. What does this show? → **Air takes up space and cannot be in the same place as water**
   - Think: What is the best evidence for something you cannot see?
 - **s4 (5 min)**  
@@ -531,8 +538,8 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 ### Three Crowds of Particles (core) (core, 16 questions)
 1. (mcq) Which sentence describes the particles in a solid best?  
    Options: They are far apart and fly about / They touch their neighbours and are held in place, jiggling on the spot / They slide past each other  
-   **Answer:** They touch their neighbours and are held in place, jiggling on the spot. *Why:* In a solid the particles are close and held in place by pulls between them. Picking the first describes a gas. Picking the last describes a liquid.
-2. (mcq) Neha seals the end of a syringe full of air and pushes the plunger. It goes in about half way. What does this tell you about air?  
+   **Answer:** They touch their neighbours and are held in place, jiggling on the spot. *Why:* In a solid the particles are close and held in place by pulls between them. The first answer describes a gas. The last answer describes a liquid.
+2. (mcq) The end of a syringe full of air is sealed, and the plunger is pushed. It goes in about half way. What does this tell you about air?  
    Options: Air is made of nothing / There is empty space between the air particles / Air particles are soft  
    **Answer:** There is empty space between the air particles. *Why:* The particles moved closer together into the empty space between them. Air is made of particles, so it is not nothing. The particles do not get squashed, they just get closer.
 3. (mcq) Why does the steam from a kettle spread out until you cannot see it?  
@@ -604,10 +611,10 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
    **Answer:** A balloon filled with air feels springy when you squeeze it. An upside-down glass pushed into water keeps the water out. So air takes up space and pushes.. *Why:* A strong answer names a test, and says what it shows about air being real stuff.
 15. (write) Explain why heating a gas in a sealed container makes the pressure go up.  
    **Answer:** Heat makes the gas particles move faster. They hit the walls harder and more often, so the push on the walls is bigger.. *Why:* A strong answer says the particles are faster and hit the walls harder and more often.
-16. (draw) Draw a closed box of gas. Show the particles and arrows that show what makes pressure on one wall.  
+16. (draw) Draw a closed box of gas. Draw the particles, and add arrows to show what makes pressure on one wall.  
    **Answer:** A box with particles far apart. Arrows show some particles hitting the wall.. *Why:* A strong drawing shows particles hitting the wall, because the hits make the pressure.
-17. (perspective) Meena and Farhan are talking about the particles in a steel spoon.  
-   **Answer:** A strong answer agrees with Farhan, because a hot spoon is evidence the particles move, since heat is movement. It also says Meena is right that the spoon as a whole does not move, and that the particles stay in their places.. *Why:* Both have part of it. The spoon stays where it is, and its particles stay in their places, as Meena says. But they jiggle on the spot all the time, as Farhan says, and heating makes the jiggle bigger.
+17. (perspective) Two people are talking about the particles in a steel spoon.  
+   **Answer:** A strong answer agrees with the second person, because a hot spoon is evidence the particles move, since heat is movement. It also says the first person is right that the spoon as a whole does not move, and that the particles stay in their places.. *Why:* Both have part of it. The spoon stays where it is, and its particles stay in their places, as the first person says. But they jiggle on the spot all the time, as the second person says, and heating makes the jiggle bigger.
 ### Think Like a Particle Scientist (challenge) (challenge, 16 questions)
 1. (mcq) 100 millilitres of mustard seeds are poured into 100 millilitres of big dal. What total is most likely?  
    Options: 200 millilitres / About 170 millilitres, because the seeds fill gaps / 300 millilitres  
@@ -642,10 +649,10 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
    **Answer:** People may already have an idea that seems to work. A new idea may need careful measuring and maths, and it may come from someone people do not listen to.. *Why:* A strong answer gives a reason such as an old idea that seems to work, or a new idea without enough evidence yet.
 14. (draw) Draw two boxes of gas of the same size. Put half as many particles in the second box. Label which has the lower pressure.  
    **Answer:** The first box has twice as many particles, the second has half. The second is labelled lower pressure.. *Why:* A strong drawing has fewer particles in the second box and labels it lower pressure.
-15. (draw) Draw one drop of colour in a cup of water just after it falls in and a minute after it is stirred. Show the colour particles.  
+15. (draw) Draw two pictures of one drop of colour in a cup of water: one just after the drop falls in, and one a minute after it is stirred. Show the colour particles.  
    **Answer:** First picture: the colour particles are clumped together in one place. Second picture: they are spread out through the whole cup.. *Why:* A strong drawing shows the colour particles clumped, and then spread out.
-16. (perspective) Asha and Ravi are talking about a table.  
-   **Answer:** A strong answer agrees with Ravi, because atoms are mostly empty space, and the hardness comes from the push between atoms. It also says Asha is right that a table is a solid, with its particles held in place.. *Why:* Both are partly right. A table is a solid, as Asha says. But it is full of gaps, as Ravi says, because even atoms are mostly empty space.
+16. (perspective) Two people are talking about a table.  
+   **Answer:** A strong answer agrees with the second person, because atoms are mostly empty space, and the hardness comes from the push between atoms. It also says the first person is right that a table is a solid, with its particles held in place.. *Why:* Both are partly right. A table is a solid, as the first person says. But it is full of gaps, as the second person says, because even atoms are mostly empty space.
 
 ## Videos
 - **Part(icles) of Your World: Crash Course Kids #3.2** (Crash Course Kids, 5 min) id `npv74D2MO6Q`: A short, lively explanation for children that everything is made of particles too small to see. *Check:* A parent should preview it first.
@@ -656,7 +663,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 1. (mcq) What is the main difference between a solid, a liquid and a gas of the same substance?  
    Options: The kind of particle / How the particles are arranged and how they move / The colour of the particles  
    **Answer:** How the particles are arranged and how they move. *Why:* The particles are the same. In a solid they are held in place. In a liquid they slide. In a gas they fly about, far apart.
-2. (mcq) Meera pours water from a bottle into a wide bowl. Why does the water take the shape of the bowl, but still make the same amount?  
+2. (mcq) Water is poured from a bottle into a wide bowl. Why does the water take the shape of the bowl, but stay the same amount?  
    Options: The particles slide past each other but stay close / The particles fly apart / The particles are fixed in rows  
    **Answer:** The particles slide past each other but stay close. *Why:* Liquid particles slide, so the liquid can change shape. They stay touching, so the amount stays the same.
 3. (mcq) Why can air be squeezed into a smaller space?  
@@ -748,10 +755,10 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - Pretend cup 1 holds 1,000,000 colour specks. Each spoonful carries one tenth of the specks forward to the next cup. How many specks are in cup 4? In which cup are there only 10 specks? **1,000 specks in cup 4. Cup 6 has 10 specks.**. Cup 2 has 1,000,000 divided by 10, which is 100,000. Cup 3 has 10,000. Cup 4 has 1,000. Cup 5 has 100. Cup 6 has 10. Each cup has one tenth of the one before. A real drop holds far more specks than a million. (queues `math.patterns.number-patterns.L4`)
 - A syringe holds 10 millilitres of air. After a hard push, the plunger is at the 4 millilitre mark. By how many millilitres did the air squash? What fraction of the starting amount is that? **6 millilitres. That is 6 tenths, or 3 fifths, of the start.**. 10 take away 4 is 6. The air squashed by 6 out of 10 millilitres, which is the fraction 6/10. Both 6 and 10 divide by 2, so it is the same as 3/5. (queues `math.fractions.fractions-of-a-whole.L4`)
 - In the syringe test, the air squashed from 10 millilitres to 4 millilitres. What percentage of its starting size was the air squashed down to? Is the pressure now more than or less than double the starting pressure? **40 percent. The pressure is more than double.**. 4 out of 10 is 4/10, which is 40 out of 100, or 40 percent. The same particles are in 4 tenths of the space, so there are 10 divided by 4, or 2 and a half, times as many in each millilitre. That is more than double. (queues `math.fractions.decimals-and-percentages.L4`)
-- A jug held 300 millilitres of chana. Then 85 millilitres of mustard seeds went in, and then 40 millilitres of water. How much stuff is now in the jug? How much is the total more than the 300 millilitres of chana? **425 millilitres. That is 125 more than the chana alone.**. 300 plus 85 is 385. 385 plus 40 is 425. The jug now holds 425 millilitres of stuff. The extra is 425 take away 300, which is 125 millilitres. The extra fitted into the gaps. (queues `math.addition-subtraction.written-methods.L4`)
+- A jug held 300 millilitres of chana. Then 85 millilitres of mustard seeds went in, and then 40 millilitres of water. How much stuff is now in the jug? How much more is that than the 300 millilitres of chana alone? **425 millilitres. That is 125 more than the chana alone.**. 300 plus 85 is 385. 385 plus 40 is 425. The jug now holds 425 millilitres of stuff. The extra is 425 take away 300, which is 125 millilitres. The extra fitted into the gaps. (queues `math.addition-subtraction.written-methods.L4`)
 - Three tries with air in the syringe gave a squash of 4, 6 and 5 millilitres. What is the middle number? Why do scientists use the middle number and not just the first try? **5 millilitres. It protects against one odd try.**. Put the numbers in order: 4, 5, 6. The middle one is 5. A single try could be odd, for example if the seal leaked. The middle number is less affected by one odd result. (queues `math.data.reading-data.L4`)
-- A drop of water holds about a thousand million million million water particles. How many zeros does that number have if you write it out? Write the first part: a thousand is 1,000. **21 zeros.**. A thousand has 3 zeros. A million has 6 zeros. Each 'million' adds 6 zeros, and there are three of them, so 3 plus 6 plus 6 plus 6 is 21 zeros. The number is 1 followed by 21 zeros. (queues `math.number-sense.big-numbers.L4`)
-- A tyre holds 2,000 millilitres and starts full of outside air at normal pressure. Each pump stroke pushes in 500 millilitres more outside air. After 4 strokes, how many times as many air particles are in the tyre as at the start? So about how many times the outside pressure is it? **Twice as many. About twice the outside pressure.**. 4 strokes of 500 is 2,000 millilitres of extra outside air. The tyre had 2,000 millilitres, so it now holds 2,000 plus 2,000 which is 4,000 millilitres of outside air squeezed into 2,000. That is twice as many particles in the same space, so about twice the pressure. (queues `math.fractions.ratio-and-proportion.L4`)
+- A drop of water holds about a thousand million million million water particles. If you write that number out, how many zeros does it have? Start with a thousand, which is 1,000. **21 zeros.**. A thousand has 3 zeros. A million has 6 zeros. Each 'million' adds 6 zeros, and there are three of them, so 3 plus 6 plus 6 plus 6 is 21 zeros. The number is 1 followed by 21 zeros. (queues `math.number-sense.big-numbers.L4`)
+- A tyre holds 2,000 millilitres and starts full of outside air at normal pressure. Each pump stroke pushes in 500 millilitres more outside air. After 4 strokes, how many times as many air particles are in the tyre as at the start? So about how many times the outside pressure is the pressure in the tyre? **Twice as many. About twice the outside pressure.**. 4 strokes of 500 is 2,000 millilitres of extra outside air. The tyre had 2,000 millilitres, so it now holds 2,000 plus 2,000 which is 4,000 millilitres of outside air squeezed into 2,000. That is twice as many particles in the same space, so about twice the pressure. (queues `math.fractions.ratio-and-proportion.L4`)
 - Air particles fly at about 500 metres every second. If one could fly in a straight line, how far would it go in one minute? Give your answer in metres and in kilometres. A smell takes about five minutes to cross a 6 metre room. Why is this so much slower? **30,000 metres, which is 30 kilometres. The smell zigzags.**. 500 times 60 is 30,000 metres. 1,000 metres make a kilometre, so 30,000 metres is 30 kilometres. A smell particle is knocked in a new direction billions of times each second, so it zigzags and makes little progress. (queues `math.length.kilometres-and-conversions.L4`)
 
 ## Song

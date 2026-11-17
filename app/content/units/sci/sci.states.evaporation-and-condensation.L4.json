@@ -139,7 +139,7 @@
    "concept": "Evaporation takes heat from what is left",
    "status": "defined",
    "definition": "When a liquid evaporates, the fastest and most energetic particles are the ones that escape. The liquid left behind has lost energy, so it gets cooler.",
-   "description": "Heat is the movement energy of particles. The particles that escape from a liquid are the fastest ones. When they leave, they take their energy with them, and the average energy of the particles left behind falls. The liquid cools, and so does whatever it touches. This is why sweat cools your skin, why hand sanitiser feels colder than water, and why a wet cloth feels cool in a breeze. The faster a liquid evaporates, the faster it takes heat away. Nothing cold has to arrive. Something warm has to leave.",
+   "description": "Heat is the movement energy of particles. The particles that escape from a liquid are the fastest ones. When they leave, they take their energy with them, and the average energy of the particles left behind falls. The liquid cools, and so does whatever it touches. This is why sweat cools your skin, why hand sanitiser feels colder than water, and why a wet cloth feels cool in a breeze. The faster a liquid evaporates, the faster it takes heat away. So nothing cold has to come in from outside. The liquid cools because its fastest, warmest particles are the ones that leave.",
    "examples": [
     "Sanitiser feels colder on your hand than water because it evaporates faster.",
     "Coming out of a bath, you feel cold until you are dry.",
@@ -183,7 +183,7 @@
    "definition": "At each temperature there is a limit to how much water vapour air can carry, and the limit rises quickly as the air gets warmer. At 20 degrees Celsius it is about 17 grams in every cubic metre, and at 30 degrees it is about 30 grams.",
    "description": "Air does not soak up water like a sponge. Water vapour mixes in among the air particles, and how much can stay as vapour depends on the temperature. At 10 degrees, a cubic metre of air can carry about 9 grams of water vapour. At 20 degrees it is about 17 grams, at 30 degrees about 30 grams, and at 40 degrees about 51 grams. So air at 30 degrees can carry about 3 times as much water vapour as air at 10 degrees. If the air carries all it can, it is saturated. If you cool saturated air a little, some of its vapour has to condense into drops. This is why warm, damp tropical air makes such heavy rain when it rises and cools.",
    "examples": [
-    "A cubic metre of air at 30 degrees can carry about 30 grams of water vapour, which is more than a small spoonful.",
+    "A cubic metre of air at 30 degrees can carry about 30 grams of water vapour. That is about as much as two tablespoons of water.",
     "A room 4 metres by 3 metres by 3 metres can hold more than a litre of water as vapour when saturated at 30 degrees.",
     "Cold winter air can carry little vapour, which is why it feels dry even when it is foggy."
    ],
@@ -195,10 +195,10 @@
    "concept": "Relative humidity and dew point",
    "status": "defined",
    "definition": "Relative humidity tells you how full the air is, as a percentage of the most it can carry. The dew point is the temperature to which the air must be cooled to become completely full.",
-   "description": "A weather report may say 70 per cent humidity at 30 degrees. That means the air holds 70 per cent of the most it could hold at 30 degrees, about 21 grams in each cubic metre. If this air is cooled, the same 21 grams stay in each cubic metre, but the most the air can carry falls. At about 24 degrees, the most it can carry has fallen to 21 grams, and the air is full. That temperature, 24 degrees, is the dew point. Any surface colder than the dew point gets drops. A dew point close to the air temperature means very damp air. The dew point is a better sign than humidity of how muggy it feels, because it does not change when the air warms or cools.",
+   "description": "A weather report may say 70 per cent humidity at 30 degrees. That means the air holds 70 per cent of the most it could hold at 30 degrees, about 21 grams in each cubic metre. If this air is cooled, the same 21 grams stay in each cubic metre, but the most the air can carry falls. At about 24 degrees, the most it can carry has fallen to 21 grams, and the air is full. That temperature, 24 degrees, is the dew point. Any surface colder than the dew point gets drops. A dew point close to the air temperature means very damp air. The dew point is a better sign than humidity of how muggy it feels. The humidity number changes a lot as the air warms up and cools down through the day, but the dew point stays about the same.",
    "examples": [
     "A steel glass at 20 degrees mists in a room where the dew point is 24 degrees.",
-    "In the Chennai monsoon the dew point can be above 25 degrees, so a glass of tap water can mist.",
+    "In the Chennai monsoon the dew point can be above 25 degrees, so a glass of cold water can mist.",
     "Fog forms when the air near the ground cools to its dew point."
    ],
    "perspectives": [],
@@ -466,7 +466,7 @@
    "'The rice drinks a little of the water too,' said Janani, 'so the salt stays loose.'",
    "Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said."
   ],
-  "epiphany": "For the parent: table salt pulls water vapour out of the air once the relative humidity is above about 75 per cent, even though the salt is not cold. It forms a thin film of salty water on the grains, and the salt clumps. In a sealed jar, the air inside stays drier, so the salt stays loose. A damp salt box is therefore a sign that the air is nearly full of water. Air that damp cannot take much more water from wet vadams, so they dry very slowly, and it is also the kind of air that makes clouds and storms when it rises and cools. The phone saw clear sky at that moment, and the salt felt the air. Dry rice in the salt takes up some of the water, which keeps the salt free-flowing.",
+  "epiphany": "For the parent: table salt pulls water vapour out of the air once the relative humidity is above about 75 per cent, even though the salt is not cold. It forms a thin film of salty water on the grains, and the salt clumps. In a sealed jar, the air inside stays drier, so the salt stays loose. A damp salt box is therefore a sign that the air is nearly full of water. Air that damp cannot take much more water from wet vadams, so they dry very slowly. It is also the kind of air that makes clouds and storms when it rises and cools. The phone said the sky was clear at that moment. The damp salt showed how much water was already in the air. Dry rice in the salt takes up some of the water, which keeps the salt free-flowing.",
   "ask": [
    "Why was the salt in the jar dry, when the salt in the steel box was damp?",
    "The salt was not cold. So where did its water come from?",
@@ -486,7 +486,7 @@
   "context": "We have raced liquids across a plate, boiled water with and without a lid, and watched salt pull water from the air. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "In the Drop Race, the drop of sanitiser on your hand vanished fastest and felt the coldest. The drop of water vanished more slowly and felt less cold. Nothing cold touched your skin. The liquid that left took heat from your skin with it.",
-   "habit": "We think cold is something that arrives, like ice or a cold wind. In the Drop Race, the cold on your hand came from something going away. The liquid left and your skin cooled, and these were one event, not two.",
+   "habit": "We think cold is something that arrives, like ice or a cold wind. In the Drop Race, the cold on your hand came from something going away. The liquid left, and that is why your skin cooled. The leaving and the cooling happened together. They were one event, not two.",
    "evidence": "In the Drop Race, a drop of sanitiser dried in seconds and felt colder on the skin than a drop of water on the same hand. William Cullen froze water by letting a liquid boil away, with nothing cold brought near."
   },
   "three": {
@@ -499,7 +499,7 @@
    {
     "source": "Bhagavad Gita 9.19",
     "teaching": "Krishna says to Arjuna: 'I give heat. I hold back the rain and I send it forth.' The verse speaks of heat and rain together, as two parts of one act of giving and holding back.",
-    "link": "In the monsoon, the Sun's heat lifts water from the sea and the same water falls as rain. Heat and rain are two sides of the same journey of water."
+    "link": "In the monsoon, the Sun's heat lifts water from the sea. Later, that same water falls as rain. So the heat and the rain are connected, because both are part of one journey of the water."
    },
    {
     "source": "Tirukkural 20, in the chapter on the excellence of rain",
@@ -775,7 +775,8 @@
       "a": 0,
       "why": "Mist forms on any surface colder than the dew point. At 15 degrees, the glass is colder than 20, so it mists. The glass at 25 degrees is warmer than the dew point, so it stays dry."
      },
-     "context": "In this step you play the last eight cards, add up the points and check what you learned."
+     "context": "In this step you play the last eight cards, add up the points and check what you learned.",
+     "parent": "Hot and damp weather makes it easiest. In hot, damp air the dew point is high, so even a glass at room warmth gets mist. In cool, dry air the dew point is low, so the glass has to be very cold. Count how many hot and damp cards said MIST to show this."
     }
    ],
    "setup": [
@@ -970,7 +971,7 @@
      "do": "Fill in the table for all six liquids. Look at what each streak left behind. Touch the dry ones lightly with a clean finger.",
      "say": "Tell me the order from first to last. What did each liquid leave behind? Did the salt water and sugar syrup leave something?",
      "kid": "Put the liquids in order. What did each one leave behind?",
-     "parent": "Expect: sanitiser first, then vinegar and water close together, then salt water, which leaves a white crust. Sugar syrup stays sticky for a long time. Oil stays. Dissolved things cannot evaporate, so they stay behind. Write exactly what you saw.",
+     "parent": "Expect sanitiser first, then vinegar and water close together, then salt water, which leaves a white crust. Sugar syrup stays sticky for a long time. Oil stays. The salt and the sugar do not evaporate with the water. They stay behind on the plate. Write exactly what you saw.",
      "context": "In this step you write the order and look at what is left behind."
     },
     {
@@ -1545,7 +1546,7 @@
    "title": "Predict the Sweat: will a glass mist today?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you use the dew point from a weather app to predict whether a glass of water will mist, and then you test your prediction.",
+   "context": "In this activity you use the dew point from a weather app to predict whether a glass of water will mist, and then you test your prediction. People often say a cold glass is sweating when drops form on the outside. The drops are not sweat. They are water from the air.",
    "materials": [
     {
      "item": "a phone with a weather app that shows the dew point, or the temperature and humidity (for the chart in the Will It Mist? game)",
@@ -1697,7 +1698,7 @@
      "mins": 8,
      "do": "1. Read the temperature and the dew point on the weather app. 2. Subtract the dew point from the temperature. 3. Multiply by 125. The answer is roughly the height of the cloud bottoms in metres. It is not exact.",
      "say": "Take the dew point away from the temperature. Then multiply by 125. That gives the height of a cloud bottom in metres. For 32 degrees and a dew point of 22, what do you get?",
-     "kid": "Temperature minus dew point. Multiply by 125. That is the cloud height in metres.",
+     "kid": "Take the dew point away from the temperature. Then multiply by 125. That is about the height of the cloud bottoms, in metres.",
      "parent": "For 32 degrees and a dew point of 22, 32 take away 22 is 10, and 10 times 125 is 1250 metres. This is a rule of thumb for clouds made by warm air rising on a sunny day. It gives an estimate, not an exact height.",
      "context": "In this step you work out how high the cloud bottoms are from two numbers."
     },
@@ -2278,7 +2279,7 @@
     },
     {
      "t": "perspective",
-     "p": "The salt in a family's kitchen box goes lumpy every monsoon. Three people in the family suggest how to keep it loose.",
+     "p": "The salt in a girl's kitchen box goes lumpy every monsoon. Three people in her family suggest how to keep it loose.",
      "views": [
       {
        "who": "Her father",

@@ -143,7 +143,7 @@
       "examples": [
         "Sea water has about 35 grams of salt in each litre.",
         "Sherbet syrup is a concentrated solution of sugar, and a tall glass of sherbet is a diluted one.",
-        "A water purifier with a TDS meter shows how many milligrams of dissolved solids are in each litre of water."
+        "A water purifier with a TDS meter shows how many milligrams of dissolved solids, such as salts, are in each litre of water."
       ],
       "perspectives": [],
       "art": "A small cup and a big tumbler each with the same two salt dots, the small cup crowded and the tumbler spread out.",
@@ -153,7 +153,7 @@
       "concept": "Three kinds of mixtures: solution, suspension and colloid",
       "status": "defined",
       "definition": "A solution has particles too small to see and never settles. A suspension has bits you can see that settle. A colloid has tiny bits that never settle but scatter light.",
-      "description": "Salt water is a solution. It is clear, and a torch beam hardly shows in it. Muddy water is a suspension. It is cloudy, a torch beam shows up in it, and the mud settles if you wait. Milk is a colloid. It is cloudy and a torch beam shows up in it, but the tiny fat drops never settle. So the torch and the clock together sort the three kinds. A beam of light shows inside a colloid because the floating bits are big enough to scatter light. The effect is named the Tyndall effect, after John Tyndall, a scientist who studied it in the 1800s. You see it when sunlight comes through the mist in a forest, or through the smoke of an agarbatti.",
+      "description": "Salt water is a solution. It is clear, and a torch beam hardly shows in it. Muddy water is a suspension. It is cloudy, a torch beam shows up in it, and the mud settles if you wait. Milk is a colloid. It is cloudy and a torch beam shows up in it, but the tiny fat drops never settle. So you can sort the three kinds with a torch and a clock. Shine the torch through the mixture, and then wait to see whether anything settles. A beam of light shows inside a colloid because the floating bits are big enough to scatter light. The effect is named the Tyndall effect, after John Tyndall, a scientist who studied it in the 1800s. You see it when sunlight comes through the mist in a forest, or through the smoke of an agarbatti.",
       "examples": [
         "Salt water, sugar syrup and rasam strained clear are solutions.",
         "Muddy puddle water and atta stirred in water are suspensions.",
@@ -465,7 +465,7 @@
     "deep_truth": {
       "truth": "In the Water or Oil test, food colour went into the water and turmeric colour went into the oil. Nothing forced them. Each colour went into the liquid that holds it best. So a thing dissolves in what is most like itself.",
       "habit": "We say 'oil and water do not mix' as if the two simply refuse each other. But every colour in the Water or Oil test dissolved in one of them. Whether a thing mixes into a liquid depends on how well that liquid holds it.",
-      "evidence": "In the Water or Oil test, food colour stayed in the water while turmeric and chilli colour moved into the oil. A drop of soap, which has a water end and an oil end, held on to both."
+      "evidence": "In the Water or Oil test, food colour stayed in the water while turmeric and chilli colour moved into the oil. A drop of soap has one end that likes water and one end that likes oil, so it can hold on to both liquids at once."
     },
     "three": {
       "who_am_i": "Your body takes in vitamins A, D, E and K with fat, and vitamins B and C with water. So your body has watery parts and oily parts at the same time.",
@@ -482,7 +482,7 @@
       {
         "source": "Kabir, a poet-saint of north India in the 1400s, in a couplet sung in many collections",
         "teaching": "Kabir says that everyone knows the drop merges into the ocean, but few know that the ocean also merges into the drop.",
-        "link": "In the Water or Oil test, the colour spreads into the liquid, and the liquid changes how the colour looks. Each one changes the other, as the drop and the ocean do. A drop of soap in water does the same."
+        "link": "In the Water or Oil test, the colour spreads into the liquid, and the colour also changes how the liquid looks. Neither one stays the same. A drop of soap in water does this too. Kabir says the drop and the ocean change each other in the same way."
       }
     ],
     "science": [
@@ -626,7 +626,7 @@
             },
             {
               "f": "Mud",
-              "b": "Neither. It makes water cloudy and oil dirty, then settles."
+              "b": "Neither. Mud does not dissolve. It makes the water cloudy, and then it settles to the bottom."
             }
           ]
         },
@@ -656,7 +656,7 @@
             },
             {
               "f": "Why does ice with salt freeze kulfi, when plain ice does not?",
-              "b": "Dissolved salt makes the ice mixture colder than zero degrees."
+              "b": "Salt dissolves in the thin layer of water on the ice. That makes the mixture colder than zero degrees, which is cold enough to freeze milk. Plain ice stays at zero degrees."
             },
             {
               "f": "Name one thing in your home that dissolves in oil.",
@@ -740,14 +740,15 @@
           "do": "Play the last eight cards. Add up the points on the score sheet.",
           "say": "These are the last eight cards. Which mat have we used the least? Why do you think so?",
           "kid": "Play the last eight cards. Count your points.",
-          "context": "In this step you play the last eight cards and add up the points."
+          "context": "In this step you play the last eight cards and add up the points.",
+          "parent": "Count the cards on each mat. BOTH usually has the fewest. That is because very few things dissolve well in both water and oil. Soap and hand sanitiser are the special ones."
         },
         {
           "id": "s5",
           "mins": 2,
-          "do": "Ask which card was the biggest surprise. Then ask the question below.",
-          "say": "Which card surprised you most? What did you think before you turned it over?",
-          "kid": "Which card surprised you most? Why?",
+          "do": "Ask the child to pick one card they put on the wrong mat. Ask what they thought at first and what the real answer is. Then ask the question below.",
+          "say": "Which card did you put on the wrong mat? What did you think before you turned it over? What is the real answer, and why?",
+          "kid": "Find a card you got wrong. What did you think? What is the real answer?",
           "check": {
             "t": "mcq",
             "q": "Turmeric stains a plastic box that plain water cannot clean. What lifts the stain?",
@@ -759,7 +760,8 @@
             "a": 0,
             "why": "The turmeric colour dissolves in oil and holds on to the oily plastic. Water cannot take it up, but oil or soap can. Cold water is not stronger than warm water at this, and the stain can be lifted."
           },
-          "context": "In this step you talk about the surprises and check what you learned."
+          "context": "In this step you talk about the surprises and check what you learned.",
+          "parent": "A good answer names a card, says the first guess, and then gives the reason from its back. For example: I thought food colour would go in oil, but it dissolves in water. If every card was right, choose the card that was hardest and say why."
         }
       ],
       "setup": [
@@ -1612,7 +1614,7 @@
           "do": "Ask your child to explain what they saw. Then give the explanation.",
           "say": "What did the thread do this time? What do you think the salt did? Where did the cold come from?",
           "kid": "What did the salt do? Why did the ice stick to the thread?",
-          "parent": "A strong answer: the salt melted the ice a little, and that made the water around the thread colder than zero. The salty water was then watered down by the melting ice, and the very cold ice around it froze that water again, with the thread stuck inside.",
+          "parent": "A strong answer goes like this. The salt dissolves in the thin film of water on the ice, and that makes a little ice melt. Melting takes heat, so the water around the thread becomes colder than zero degrees. That small amount of salty water gets mixed with the water from the melting ice, so the salt spreads thinner. The very cold ice nearby then freezes that water again. As it freezes, it traps the thread inside the ice.",
           "check": {
             "t": "mcq",
             "q": "Why did the thread end up frozen into the ice cube?",

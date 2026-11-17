@@ -1,17 +1,17 @@
 # Dissolving: what water takes, what oil takes, and where the fizz hides
 `sci.states.dissolving.L4`
 
-**Summary.** Turmeric stains a plastic box yellow and will not wash out with plain water, yet food colour vanishes into water at once. A grown-up who bites a hot chilli gets no help from a sip of water, but a spoon of curd cools the burn. A bottle of soda gushes and goes flat when it is warm, but stays fizzy when it is cold. In this unit your child tests which colours go into water and which go into oil, finds where the fizz hides in a cold bottle, and sees why salt makes ice colder. Then they follow one rule all the way from kitchen jars to the skin of every living cell: a thing dissolves best in a liquid that is like itself.
+**Summary.** Turmeric stains a plastic box yellow and will not wash out with plain water, yet food colour spreads into water at once. A grown-up who bites a hot chilli gets no help from a sip of water, but a spoon of curd cools the burn. A bottle of soda gushes and goes flat when it is warm, but stays fizzy when it is cold. In this unit your child tests which colours dissolve in water and which dissolve in oil, finds out where the gas in a soda is before the bottle is opened, and sees why salt makes ice colder. Then they follow one rule from kitchen jars to the skin of every living cell: a thing dissolves best in a liquid that is like itself.
 
-**Intro.** *Rub turmeric on a white plastic box and then wash it with plain water. The yellow stays. Now rub a little oil on the stain and wipe. The yellow comes off on the oil. Why does the colour leave in one liquid and not the other?* Water takes some things and not others. Here you ask which liquid takes which thing. You test turmeric, chilli and food colour in water and in oil. You open a cold soda and a warm soda and see where the fizz was hiding. You make kulfi in a bag, using salt on ice. By the end you can say why a grown-up should reach for curd, not water, after a hot chilli.
+**Intro.** *Rub turmeric on a white plastic box and then wash it with plain water. The yellow stays. Now rub a little oil on the stain and wipe. The yellow comes off on the oil. Why does the colour leave in one liquid and not the other?* Water dissolves some things and not others. In this unit you find out which liquid dissolves which thing. You test turmeric, chilli and food colour in water and in oil. You open a cold soda and a warm soda and find out where the gas was before the bottle was opened. You make kulfi in a bag, using salt on ice. By the end you can say why a grown-up should reach for curd, not water, after a hot chilli.
 
 ## Learning outcomes
-0. I can explain that water and oil each take different things, and test where a colour goes, to water, to oil or to both.
+0. I can explain that water and oil each dissolve different things, and test whether a colour goes into water, into oil or into both.
 1. I can say why turmeric stains plastic and why oil or soap lifts it, using the idea that a thing dissolves best in a liquid that is like itself.
 2. I can explain why chilli heat is eased by curd or milk better than by water.
 3. I can show that gases dissolve in liquids, and that a warm drink holds less gas than a cold one.
 4. I can sort mixtures into solution, suspension and colloid using three tests: look, torch and wait.
-5. I can show that salt makes ice melt and the mixture get colder, and say what dissolved particles do to freezing.
+5. I can show that salt makes ice melt and makes the mixture colder, and say how dissolved particles change the freezing of water.
 6. I can explain why almost nothing is completely insoluble, and how rain dissolves limestone into caves.
 7. I can tell how Joseph Priestley first made fizzy water, and what people used to believe about air.
 
@@ -47,11 +47,11 @@ In salt water, water is the solvent and salt is the solute. In golden turmeric o
 Two glasses can both hold salt water and still taste very different. One teaspoon of salt in a big tumbler tastes only a little salty. One teaspoon in a small cup tastes very salty. The amount of salt is the same, but the salt is more crowded in the small cup. Scientists say the small cup has a higher concentration. They often write it as grams in each litre. Sea water holds about 35 grams of salt in every litre. A tumbler that holds a quarter of a litre therefore holds about nine grams of salt. If you add water, you dilute the solution. The amount of dissolved thing stays the same, but it spreads through more liquid, so each sip has less.
 - e.g. Sea water has about 35 grams of salt in each litre.
 - e.g. Sherbet syrup is a concentrated solution of sugar, and a tall glass of sherbet is a diluted one.
-- e.g. A water purifier with a TDS meter shows how many milligrams of dissolved solids are in each litre of water.
+- e.g. A water purifier with a TDS meter shows how many milligrams of dissolved solids, such as salts, are in each litre of water.
 ### Three kinds of mixtures: solution, suspension and colloid · *defined*
 **Definition:** A solution has particles too small to see and never settles. A suspension has bits you can see that settle. A colloid has tiny bits that never settle but scatter light.
 
-Salt water is a solution. It is clear, and a torch beam hardly shows in it. Muddy water is a suspension. It is cloudy, a torch beam shows up in it, and the mud settles if you wait. Milk is a colloid. It is cloudy and a torch beam shows up in it, but the tiny fat drops never settle. So the torch and the clock together sort the three kinds. A beam of light shows inside a colloid because the floating bits are big enough to scatter light. The effect is named the Tyndall effect, after John Tyndall, a scientist who studied it in the 1800s. You see it when sunlight comes through the mist in a forest, or through the smoke of an agarbatti.
+Salt water is a solution. It is clear, and a torch beam hardly shows in it. Muddy water is a suspension. It is cloudy, a torch beam shows up in it, and the mud settles if you wait. Milk is a colloid. It is cloudy and a torch beam shows up in it, but the tiny fat drops never settle. So you can sort the three kinds with a torch and a clock. Shine the torch through the mixture, and then wait to see whether anything settles. A beam of light shows inside a colloid because the floating bits are big enough to scatter light. The effect is named the Tyndall effect, after John Tyndall, a scientist who studied it in the 1800s. You see it when sunlight comes through the mist in a forest, or through the smoke of an agarbatti.
 - e.g. Salt water, sugar syrup and rasam strained clear are solutions.
 - e.g. Muddy puddle water and atta stirred in water are suspensions.
 - e.g. Milk, fog, smoke from an agarbatti and jelly are colloids.
@@ -65,7 +65,7 @@ Water molecules are bent in shape, with the oxygen atom at one end and the two h
 ### Things that dissolve in oil · *defined*
 **Definition:** Fat-soluble things dissolve in oil or fat and hardly in water. Many colours, smells and vitamins are fat-soluble.
 
-The yellow in turmeric, the orange in carrots and the red in chilli powder all dissolve in oil much better than in water. That is why cooks fry spices in oil first, and why carrot halwa turns the ghee orange. It is also why turmeric stains a plastic box. Plastic is oily on the molecule scale, so the turmeric colour sticks to it, and plain water cannot pull it off. Oil can. Vitamins A, D, E and K are fat-soluble too, and vitamins B and C dissolve in water. So a little oil with vegetables helps your body take in the orange pigment carotene, which the body can turn into vitamin A.
+The yellow in turmeric, the orange in carrots and the red in chilli powder all dissolve in oil much better than in water. That is why cooks fry spices in oil first, and why carrot halwa turns the ghee orange. It is also why turmeric stains a plastic box. The molecules in plastic are oily, so the turmeric colour sticks to them, and plain water cannot pull it off. Oil can. Vitamins A, D, E and K are fat-soluble too, and vitamins B and C dissolve in water. So a little oil with vegetables helps your body take in the orange pigment carotene, which the body can turn into vitamin A.
 - e.g. Frying turmeric and chilli in oil at the start of a tadka spreads their colour and heat through the dish.
 - e.g. Carrot halwa turns orange because carotene dissolves in the ghee.
 - e.g. A greasy hairband and a turmeric-stained box both clean better with oil or soap than with water.
@@ -86,21 +86,21 @@ A soap molecule is long, like a tadpole. Its head dissolves in water. Its tail d
 ### Gases dissolve in liquids too · *defined*
 **Definition:** A gas can spread through a liquid as separate molecules. More gas dissolves when the liquid is cold and when the gas is squeezed to a higher pressure.
 
-A sealed bottle of soda has carbon dioxide gas squeezed into the water at a pressure several times that of the air outside. Under that pressure, a lot of gas dissolves and no bubbles show. When you open the cap, the pressure drops and the water can no longer keep so much gas, so bubbles stream out. William Henry measured this in 1803. He found that the mass of gas that dissolves is in proportion to the pressure. Warmth works the other way. Warm water holds less gas, because the fast-moving gas molecules escape more easily. A warm soda gushes and goes flat quickly. A cold one stays fizzy. Fish need oxygen dissolved in water. Warm water holds less oxygen, which is why fish in a hot pond can gasp at the surface.
+A sealed bottle of soda has carbon dioxide gas squeezed into the water at a pressure several times that of the air outside. Under that pressure, a lot of gas dissolves and no bubbles show. When you open the cap, the pressure drops and the water can no longer keep so much gas, so bubbles stream out. William Henry measured this in 1803. He found that the mass of gas that dissolves is in proportion to the pressure. That means doubling the pressure doubles the gas that dissolves. Warmth works the other way. Warm water holds less gas, because the fast-moving gas molecules escape more easily. A warm soda gushes and goes flat quickly. A cold one stays fizzy. Fish need oxygen dissolved in water. Warm water holds less oxygen, which is why fish in a hot pond can gasp at the surface.
 - e.g. A cold bottle of soda keeps its fizz longer than a warm one.
 - e.g. Goli soda has a glass marble held in the neck by the pressure of the gas inside.
 - e.g. Fish gulp at the surface of a hot, still pond because the warm water holds little oxygen.
 ### Salt makes ice melt, and makes the mixture colder · *defined*
 **Definition:** Dissolved particles make it harder for water to freeze. So salt water freezes at a temperature below zero, and a mix of ice and salt gets much colder than plain ice.
 
-Ice at zero degrees is always wetted by a thin film of liquid water. Water molecules are leaving the ice and joining it at the same speed. When you sprinkle salt, it dissolves in that film. The salt particles get in the way, so fewer water molecules can rejoin the ice, but the ice keeps melting. Melting takes heat, and it takes it from the mixture. So the mixture gets colder. Salty ice can reach about minus 20 degrees Celsius. That is cold enough to freeze milk and sugar into kulfi. Sea water freezes at about minus 2 degrees. In cold countries, salt is spread on roads for the same reason, so that ice melts even when the air is a little below zero.
+Ice at zero degrees always has a thin film of liquid water on it. Water molecules leave the ice and join it again at the same speed. When you sprinkle salt, it dissolves in that film. The salt particles get in the way, so fewer water molecules can rejoin the ice, but the ice keeps melting. Melting takes heat, and it takes it from the mixture. So the mixture gets colder. Salty ice can reach about minus 20 degrees Celsius. That is cold enough to freeze milk and sugar into kulfi. Sea water freezes at about minus 2 degrees. In cold countries, salt is spread on roads for the same reason, so that ice melts even when the air is a little below zero.
 - e.g. A kulfi seller packs ice and salt round the pot so that the kulfi freezes.
 - e.g. Sea water stays liquid at zero degrees, when a freshwater lake has already frozen.
-- e.g. Salt on an icy road melts the ice until the road gets colder than the salty water can handle.
+- e.g. Salt on an icy road melts the ice, unless the road is so cold that even the salty water freezes.
 ### Cell skins: oil and water kept apart · *defined*
 **Definition:** Every living cell is wrapped in a thin skin made of fat-like molecules with a water-loving head and an oil-loving tail. The skin forms by itself because the tails hide from water.
 
-Inside you and outside you there is water. A cell needs a skin that keeps their inside different from their outside. The skin is made of molecules like soap, with a head that likes water and a tail that likes oil. In water they line up in a double layer, with the heads facing the water on both sides and the tails hidden in the middle. Nobody has to build it. In 1925, two scientists in Leiden, Evert Gorter and Francois Grendel, took the fats out of red blood cells and spread them out. They found that there was just enough to cover each cell twice. That was the first sign that a cell is wrapped in a double layer. So the same rule that sorts turmeric into oil also builds the walls of every living cell.
+There is water inside you and water outside you. Each cell needs a skin that keeps the inside of the cell different from the outside. The skin is made of molecules like soap, with a head that likes water and a tail that likes oil. In water they line up in a double layer, with the heads facing the water on both sides and the tails hidden in the middle. Nobody has to build this double layer. It forms by itself. In 1925, two scientists in Leiden, Evert Gorter and Francois Grendel, took the fats out of red blood cells and spread them out. They found that there was just enough to cover each cell twice. That was the first sign that a cell is wrapped in a double layer. So the same rule that sends turmeric colour into oil also builds the skin of every living cell.
 - e.g. Soap bubbles and cell skins both form from molecules with a water end and an oil end.
 - e.g. A bacterium in curd, a leaf cell of a tulsi plant and your own cheek cell all have such a skin.
 - e.g. The skin lets some things in and keeps others out.
@@ -111,7 +111,7 @@ Chalk looks insoluble, but a tiny amount does dissolve. Even glass and rock diss
 - e.g. Limestone caves in Meghalaya were carved by rainwater dissolving the rock.
 - e.g. Stalactites form as dripping water leaves a little dissolved limestone behind each time.
 - e.g. The white scale inside a kettle is dissolved minerals left behind by evaporating water.
-### The sea is a giant glass of dissolved gas · *defined*
+### The sea holds dissolved gas, as soda does · *defined*
 **Definition:** The ocean dissolves a large share of the carbon dioxide that people release, which slows the warming of the air but changes the sea.
 
 Carbon dioxide gas from the air dissolves into sea water, as it does in soda. Scientists estimate that the ocean has taken in roughly a quarter of the carbon dioxide that people have put into the air. The gas makes the sea water slightly more acidic. This matters for creatures with shells and for coral, which build their bodies from dissolved minerals. At the same time the sea is warming, and warmer water holds less gas. So scientists are measuring how much more carbon dioxide the sea can keep taking in. Nobody knows exactly how this will change over the next hundred years.
@@ -134,7 +134,7 @@ Carbon dioxide gas from the air dissolves into sea water, as it does in soda. Sc
 ## Challenging perspectives
 - **Oil and water never mix.** (A common saying; *rejected*)  
   For: Shake oil and water in a bottle, and the oil soon floats back up as a layer.  
-  Against: A drop of soap lets oil spread through water as tiny drops, as it does in milk. A very tiny amount of oil does dissolve in water. And oil mixes perfectly with other oil. Oil and water simply hold on to their own kind best.
+  Against: A drop of soap lets oil spread through water as tiny drops, the way fat is spread through milk. A very tiny amount of oil does dissolve in water. And oil mixes perfectly with other oil. Oil and water simply hold on to their own kind best.
 - **Water is the universal solvent. It can dissolve anything.** (A phrase in many school books; *rejected*)  
   For: Water dissolves more things than any other common liquid, including salt, sugar, many acids and many minerals.  
   Against: Water does not dissolve oil, wax, plastic or gold in any amount you could see. Petrol, nail polish remover and oil are better solvents for many things. Water is a very good solvent for charged and sticky things, not for everything.
@@ -154,29 +154,29 @@ Carbon dioxide gas from the air dissolves into sea water, as it does in soda. Sc
 ## Roots
 We have tested which liquid takes which thing, and where gas hides in a soda. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** In your test, food colour went into the water and turmeric colour went into the oil. Nothing forced them. Each colour went where it was held best. So a thing dissolves in what is most like itself.  
-*Habit it breaks:* We say 'oil and water do not mix' as if the two simply refuse each other. But every colour in the test found a home in one of them. Mixing depends on which neighbours a thing is held by best.  
-*Evidence:* In the Water or Oil test, food colour stayed in the water while turmeric and chilli colour moved into the oil. A drop of soap, which has a water end and an oil end, held on to both.
+**Deep truth.** In the Water or Oil test, food colour went into the water and turmeric colour went into the oil. Nothing forced them. Each colour went into the liquid that holds it best. So a thing dissolves in what is most like itself.  
+*Habit it breaks:* We say 'oil and water do not mix' as if the two simply refuse each other. But every colour in the Water or Oil test dissolved in one of them. Whether a thing mixes into a liquid depends on how well that liquid holds it.  
+*Evidence:* In the Water or Oil test, food colour stayed in the water while turmeric and chilli colour moved into the oil. A drop of soap has one end that likes water and one end that likes oil, so it can hold on to both liquids at once.
 
-- *who am i:* Your body takes in vitamins A, D, E and K with fat, and vitamins B and C with water. You carry watery places and oily places at once.
+- *who am i:* Your body takes in vitamins A, D, E and K with fat, and vitamins B and C with water. So your body has watery parts and oily parts at the same time.
 - *what is life:* Every living cell is wrapped in a skin that forms by itself, because oily tails hide from water. Life is built on oil and water staying apart.
 - *what is this world:* The sea dissolves gas from the air, as a soda does. Rain dissolves rock into caves. Our world is full of things dissolved in each other.
 
-Water holds on to charged and sticky things such as salt and sugar. Oil holds on to oily things such as turmeric colour and carotene. Soap has one end for each, so it sits where the two meet. A cell skin, a soap bubble and a drop of milk all form at such a meeting place. Each thing goes to what is most like itself, and new shapes appear where different kinds meet.
+Water holds on to charged and sticky things such as salt and sugar. Oil holds on to oily things such as turmeric colour and carotene. Soap has one end for each, so it sits where oil and water meet. A cell skin, a soap bubble and a drop of milk all form where oil and water meet. Each thing goes to what is most like itself, and new shapes form where the two kinds meet.
 
-- **Chandogya Upanishad 6.13:** Uddalaka asked his son Shvetaketu to put a lump of salt in water and come back in the morning. The salt could not be seen. But when he sipped from the top, the middle and the bottom, each sip was salty. The Upanishad uses this to teach that the finest essence is everywhere, unseen, and says 'tat tvam asi', you are that. (The gas in a sealed soda is like that salt. You cannot see it, but it is spread through every drop, and you find it when the bottle is opened.)
-- **Kabir, a poet-saint of north India in the 1400s, in a couplet sung in many collections:** Kabir says that everyone knows the drop merges into the ocean, but few know that the ocean also merges into the drop. (A drop of soap and the whole bowl of water take part in each other. In the Water or Oil test, the colour and the liquid both change what the other looks like.)
+- **Chandogya Upanishad 6.13:** Uddalaka asked his son Shvetaketu to put a lump of salt in water and come back in the morning. In the morning the salt could not be seen. But when Shvetaketu sipped from the top, the middle and the bottom, each sip was salty. The Upanishad uses this to teach that the finest essence is everywhere, unseen, and says 'tat tvam asi', you are that. (The gas in a sealed soda is like that salt. You cannot see it, but it is spread through every drop, and you find it when the bottle is opened.)
+- **Kabir, a poet-saint of north India in the 1400s, in a couplet sung in many collections:** Kabir says that everyone knows the drop merges into the ocean, but few know that the ocean also merges into the drop. (In the Water or Oil test, the colour spreads into the liquid, and the colour also changes how the liquid looks. Neither one stays the same. A drop of soap in water does this too. Kabir says the drop and the ocean change each other in the same way.)
 - Science (settled): A substance dissolves best in a liquid whose molecules hold it in a similar way. Charged and sticky things dissolve in water, and oily things in oil.
-- Science (settled): The mass of a gas that dissolves in a liquid is in proportion to its pressure, and falls as the liquid warms.
+- Science (settled): The amount of a gas that dissolves in a liquid goes up in step with the pressure of the gas, and goes down as the liquid warms.
 - Science (open): How much more carbon dioxide the sea can keep taking in as it warms is still being measured.
-- Other view, Many chemists: 'Like dissolves like' is only a rule of thumb, and it has many exceptions. The real reason a substance dissolves is that the mixture has less energy and more disorder than the separate parts. Talking about things finding their own kind is a story laid over that.
+- Other view, Many chemists: 'Like dissolves like' is only a rule of thumb, and it has many exceptions. The real reason a substance dissolves is about energy and disorder: the mixture has less energy and more disorder than the two parts kept separate. Saying that things go to their own kind is a simple way to describe this, not the reason itself.
 - Practice, One drop of colour (3 min): Fill a clear glass with water and let it go still. Add one drop of food colour. Breathe in slowly, and watch the colour open and spread. Breathe out slowly. Breathe in again, and watch the colour reach every part of the glass. Breathe out. Do this three times, then sit quietly and look at the even colour.
-- Ask: Turmeric went into the oil and food colour went into the water. What do you think 'like' means when we say a thing dissolves in what is like itself?
+- Ask: In the Water or Oil test, turmeric went into the oil and food colour went into the water. What do you think 'like' means when we say a thing dissolves in what is like itself?
 - Ask: If your skin, your blood and the sea all hold dissolved things, where does 'you' end and the water around you begin?
 - Ask: If almost nothing is totally insoluble, is anything really separate from the water around it?
 
 ## Deep and big questions
-- *deep:* Turmeric colour went into oil and food colour went into water. Did the liquid choose the colour, or did the colour choose the liquid? How could you tell? (hint: Think about what 'choose' could mean for a particle that is held more strongly in one place than another.)
+- *deep:* In the Water or Oil test, turmeric colour went into the oil and food colour went into the water. Was that because of the liquid, because of the colour, or because of both? How could you tell? (hint: A particle cannot choose where to go. Think about a particle that is held more strongly by one liquid than by the other.)
 - *deep:* A sealed bottle of soda shows no bubbles, yet it is full of gas. Where is the gas inside the liquid, and what changes when you open the cap? (hint: Think about pressure squeezing gas into the water, and what happens when the squeeze is let go.)
 - *deep:* Salt makes ice melt, and the mixture gets colder. How can melting make something colder? (hint: Think about where the heat for melting must come from.)
 - *deep:* If almost nothing is completely insoluble, is 'insoluble' a fact about the thing, or about how long we are willing to wait? (hint: Think about chalk in a glass for an hour, and limestone in rain for a hundred thousand years.)
@@ -234,28 +234,28 @@ Karthik laughed. This time Meera did too.
 
 **For the parent:** For the parent: a gas can dissolve in water, spread out as molecules too small to see. A sealed soda holds gas at a high pressure, which squeezes a lot of it in, and cold water holds more gas than warm water. When the bottle is warm, the water holds less gas and more of it escapes as soon as the pressure drops, so the bottle foams over and goes flat. The soda was not weak. It was warm. The marble stays up because the pressure of the dissolved gas pushes it against the neck of the bottle.
 
-- Ask: Why was there no bubble in the bottle before it was opened, though it was full of gas?
+- Ask: Why were there no bubbles in the bottle before it was opened, though it was full of gas?
 - Ask: Why did the warm bottle foam over and then go flat, while the cold bottle stayed fizzy?
 - Ask: Athai thought Murugan had cheated her. What did Meera do to check, instead of just arguing?
 - Ask: Why did Meera use two bottles from the same crate and not two from different shops?
-- Ask: What did Athai do after that, and which part of the science did it use?
+- Ask: What did Athai do after Meera's test, and what science was it based on?
 
 ## Games
 ### g1 · Water, Oil, Both or Neither? A sorting card game (20 min)
-- **rules:** Put the four mats on the floor. Shuffle the thing cards and put them face down in a pile. Put the bonus cards in another pile.; On your turn, take the top thing card and read the front aloud.; Place the card on the mat you think is right: WATER, OIL, BOTH or NEITHER. Do not turn it over yet.; Say why you chose that mat. Then turn the card over and read the answer.; A right mat scores 1 point. If you also gave a good reason, you score 1 more.; After every third thing card, the next player answers one bonus card for 1 point.; If you want to check a card, test it in a small glass of water or oil if you have the thing at home.; After all 24 cards, the player with the most points wins. If points are equal, you share the win. Playing alone, try to beat your own score next time.
-- **Printable cards: 24 thing cards, with the answer on the back:** Salt (back: Water. Salt is made of charged particles that water can grip.); Sugar (back: Water. Sugar has many spots that water can hold on to.); Coconut oil (back: Oil. It mixes with other oils and fats, and floats on water.); Ghee (back: Oil. It is a fat, so it mixes with oil and floats on water.); The yellow colour of turmeric (back: Oil. It dissolves in oil far better than in water.); The heat of red chilli (back: Oil. The hot chemical dissolves in fat, which is why curd helps more than water.); Food colour for cakes (back: Water. In oil it stays in tiny beads.); The red colour of beetroot (back: Water. It dissolves well in water and washes out of cloth.); The orange colour of carrot (back: Oil. This colour is carotene, which dissolves in fat.); Camphor (back: Oil. It dissolves in coconut oil, and hardly dissolves in water.); Candle wax (back: Oil. Warm oil can dissolve it, but water cannot.); Honey (back: Water. It is mostly sugar, and it mixes into water when you stir.); Baking soda (back: Water. It dissolves, though not as much as sugar.); Instant coffee (back: Water. The water turns brown and clear.); Vinegar (back: Water. It mixes into water completely.); Butter (back: Oil. It is a fat, so it dissolves in other fats and not in water.); Sand (back: Neither. It sinks in both.); Chalk (back: Neither. A very tiny amount dissolves in water, but you cannot see it.); An iron nail (back: Neither. It stays whole in water and in oil.); Rice grains (back: Neither. They sink in both.); A plastic bead (back: Neither. It sinks or floats in both and does not dissolve.); Soap (back: Both. Its head dissolves in water and its tail grips oil.); Hand sanitiser (alcohol) (back: Both. It mixes with water and also dissolves many oily things.); Mud (back: Neither. It makes water cloudy and oil dirty, then settles.)
-- **Printable cards: 8 bonus question cards, with the answer on the back:** Why does turmeric stain a plastic box that water cannot clean? (back: The colour dissolves in the plastic's oily surface, and water cannot pull it off. Oil or soap can.); Why does curd help after a hot chilli more than water? (back: The hot chemical dissolves in fat. Curd has fat. Water does not take it up.); What does soap do between oil and water? (back: Its tail grips oil and its head grips water, so it holds tiny oil drops spread through the water.); Why does a warm soda go flat faster than a cold soda? (back: Warm water holds less gas, so the gas escapes sooner.); Which of milk, muddy water and salt water show a torch beam? (back: Milk and muddy water show the beam, because they have bits floating in them. Salt water hardly does.); Why does ice with salt freeze kulfi, when plain ice does not? (back: Dissolved salt makes the ice mixture colder than zero degrees.); Name one thing in your home that dissolves in oil. (back: Turmeric colour, chilli heat, camphor, wax or the orange colour of carrots.); Is anything completely insoluble in water? (back: No. Even rock dissolves a tiny bit, which is how rain carves limestone caves.)
+- **rules:** Put the four mats on the floor. Shuffle the thing cards and put them face down in a pile. Put the bonus cards in another pile.; On your turn, take the top thing card and read the front aloud.; Place the card on the mat you think is right: WATER, OIL, BOTH or NEITHER. Do not turn it over yet.; Say why you chose that mat. Then turn the card over and read the answer.; A right mat scores 1 point. If you also gave a good reason, you score 1 more.; After every third thing card, the next player answers one bonus card for 1 point.; To check a card, put the thing in a small glass of water or oil, if you have it at home.; After all 24 cards, the player with the most points wins. If points are equal, you share the win. If you play alone, try to beat your own score next time.
+- **Printable cards: 24 thing cards, with the answer on the back:** Salt (back: Water. Salt is made of charged particles that water can grip.); Sugar (back: Water. Sugar has many spots that water can hold on to.); Coconut oil (back: Oil. It mixes with other oils and fats, and floats on water.); Ghee (back: Oil. It is a fat, so it mixes with oil and floats on water.); The yellow colour of turmeric (back: Oil. It dissolves in oil far better than in water.); The heat of red chilli (back: Oil. The hot chemical dissolves in fat, which is why curd helps more than water.); Food colour for cakes (back: Water. In oil it stays in tiny beads.); The red colour of beetroot (back: Water. It dissolves well in water and washes out of cloth.); The orange colour of carrot (back: Oil. This colour is carotene, which dissolves in fat.); Camphor (back: Oil. It dissolves in coconut oil, and hardly dissolves in water.); Candle wax (back: Oil. Warm oil can dissolve it, but water cannot.); Honey (back: Water. It is mostly sugar, and it mixes into water when you stir.); Baking soda (back: Water. It dissolves, though not as much as sugar.); Instant coffee (back: Water. The water turns brown and clear.); Vinegar (back: Water. It mixes into water completely.); Butter (back: Oil. It is a fat, so it dissolves in other fats and not in water.); Sand (back: Neither. It sinks in both.); Chalk (back: Neither. A very tiny amount dissolves in water, but you cannot see it.); An iron nail (back: Neither. It stays whole in water and in oil.); Rice grains (back: Neither. They sink in both.); A plastic bead (back: Neither. It sinks or floats in both and does not dissolve.); Soap (back: Both. Its head dissolves in water and its tail grips oil.); Hand sanitiser (alcohol) (back: Both. It mixes with water and also dissolves many oily things.); Mud (back: Neither. Mud does not dissolve. It makes the water cloudy, and then it settles to the bottom.)
+- **Printable cards: 8 bonus question cards, with the answer on the back:** Why does turmeric stain a plastic box that water cannot clean? (back: The colour dissolves in the plastic's oily surface, and water cannot pull it off. Oil or soap can.); Why does curd help after a hot chilli more than water? (back: The hot chemical dissolves in fat. Curd has fat. Water does not take it up.); What does soap do between oil and water? (back: Its tail grips oil and its head grips water, so it holds tiny oil drops spread through the water.); Why does a warm soda go flat faster than a cold soda? (back: Warm water holds less gas, so the gas escapes sooner.); Which of milk, muddy water and salt water show a torch beam? (back: Milk and muddy water show the beam, because they have bits floating in them. Salt water hardly does.); Why does ice with salt freeze kulfi, when plain ice does not? (back: Salt dissolves in the thin layer of water on the ice. That makes the mixture colder than zero degrees, which is cold enough to freeze milk. Plain ice stays at zero degrees.); Name one thing in your home that dissolves in oil. (back: Turmeric colour, chilli heat, camphor, wax or the orange colour of carrots.); Is anything completely insoluble in water? (back: No. Even rock dissolves a tiny bit, which is how rain carves limestone caves.)
 - **Printable board: 4 sorting mats, one for each answer:** Mat 1: WATER. Write the word in big letters on a sheet of paper.; Mat 2: OIL. Write the word in big letters on a sheet of paper.; Mat 3: BOTH. Write the word in big letters on a sheet of paper.; Mat 4: NEITHER. Write the word in big letters on a sheet of paper.
 - **Printable score sheet: Score sheet:** Player name; Cards placed right; Bonus answers right
 - **s1 (3 min)**  
   *Parent does:* Cut out the cards and write the four mat words on paper. Put the mats on the floor and shuffle the cards.  
-  *Parent says:* Today you decide which liquid takes each thing. The mats are WATER, OIL, BOTH and NEITHER. Think about what you saw in the Water or Oil test.  
+  *Parent says:* Today you decide what each thing dissolves in. The mats are WATER, OIL, BOTH and NEITHER. Think about what you saw in the Water or Oil test.  
   *Child mode:* Cut out the cards. Write the four mat words on paper. Shuffle the cards.
 - **s2 (6 min)**  
   *Parent does:* Play the first eight cards. After each card, ask the player to give a reason before turning it over.  
   *Parent says:* Read the card. Put it on a mat. Tell me why. Then turn it over and check.  
   *Child mode:* Read the card. Put it on a mat. Say why. Turn it over.
-  - Ask: Why did you pick that mat? (good: Salt and sugar dissolve in water.; Turmeric went into the oil in our test.; Oily things like oil.)
+  - Ask: Why did you pick that mat? (good: Salt and sugar dissolve in water.; Turmeric went into the oil in the Water or Oil test.; Oily things like oil.)
 - **s3 (5 min)**  
   *Parent does:* Play the next eight cards. After the third card, read a bonus card to the next player.  
   *Parent says:* Now a bonus question for the next player. After the question, we will check the answer on the back.  
@@ -263,12 +263,14 @@ Karthik laughed. This time Meera did too.
   - Note: If a card causes an argument, test it in water and oil if you have the thing at home. Arguments are good here. Soap and hand sanitiser are the hardest.
 - **s4 (4 min)**  
   *Parent does:* Play the last eight cards. Add up the points on the score sheet.  
-  *Parent says:* Last eight cards. Which mat have we used the least? Why do you think so?  
+  *Parent says:* These are the last eight cards. Which mat have we used the least? Why do you think so?  
   *Child mode:* Play the last eight cards. Count your points.
+  - Note: Count the cards on each mat. BOTH usually has the fewest. That is because very few things dissolve well in both water and oil. Soap and hand sanitiser are the special ones.
 - **s5 (2 min)**  
-  *Parent does:* Ask which card was the biggest surprise. Then ask the question below.  
-  *Parent says:* Which card surprised you most? What did you think before you turned it over?  
-  *Child mode:* Which card surprised you most? Why?
+  *Parent does:* Ask the child to pick one card they put on the wrong mat. Ask what they thought at first and what the real answer is. Then ask the question below.  
+  *Parent says:* Which card did you put on the wrong mat? What did you think before you turned it over? What is the real answer, and why?  
+  *Child mode:* Find a card you got wrong. What did you think? What is the real answer?
+  - Note: A good answer names a card, says the first guess, and then gives the reason from its back. For example: I thought food colour would go in oil, but it dissolves in water. If every card was right, choose the card that was hardest and say why.
   - Check: Turmeric stains a plastic box that plain water cannot clean. What lifts the stain? → **Oil or soap, because the colour dissolves in oily things**
 
 ## Experiments
@@ -282,20 +284,20 @@ Karthik laughed. This time Meera did too.
 - **s1 (5 min)**  
   *Parent does:* Show your child the powders, the water and the oil. Ask for a guess and a reason for each colour. Write the guesses.  
   *Parent says:* Here are three colours and two liquids. Where will each colour go, into the water or into the oil? Why do you think so?  
-  *Child mode:* Three colours. Two liquids. Where will each colour go? Why do you think so?
+  *Child mode:* There are three colours and two liquids. Where will each colour go? Why do you think so?
   - Ask: Why do you think turmeric will go into the oil? (good: Turmeric stains my plate and water does not wash it.; Oil is yellow like turmeric.; Cooks put turmeric in hot oil.)
   - Note: Do not correct the guess. Most children guess that all three go into water, because water is the liquid they know best. Any guess with a reason is a good start. Write the guesses at the top of the table.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Label six jars with a letter and a colour: a water jar and an oil jar for each colour. 2. Pour 3 tablespoons of water into each water jar. 3. Pour 3 tablespoons of oil into each oil jar. 4. Add the same colour to one water jar and one oil jar. Use a quarter of a teaspoon of powder, or 2 drops of food colour.  
   *Parent says:* Every jar gets three tablespoons of liquid. Each colour goes in one water jar and one oil jar. Only the liquid changes, so it is a fair test.  
   *Child mode:* Label six jars. Put 3 spoons of water in three jars. Put 3 spoons of oil in the other three. Add one colour to each pair.
-  - Note: Three tablespoons gives a layer deep enough to see colour in. Use a quarter of a teaspoon of powder, no more. Too much powder makes every jar cloudy. Wear old clothes. With 2 to 4 children, each child takes one colour (a water jar and an oil jar) and does their own pair, so the same spoon measures every jar; one child can take the food colour and beetroot. One child alone does all six jars with a parent holding the labels.
+  - Note: Three tablespoons gives a layer deep enough to see colour in. Use a quarter of a teaspoon of powder, no more. Too much powder makes every jar cloudy. Wear old clothes. With 2 to 4 children, each child takes one colour and does their own pair, a water jar and an oil jar. Use the same spoon to measure every jar. One child can take the food colour. A child working alone does all six jars, with a parent holding the labels.
   - Check: Why does each colour go into one water jar and one oil jar, with the same amount of liquid? → **So that only the liquid changes**
 - **s3 (6 min)**  
   *Parent does:* 1. Stir each jar for thirty seconds with its own stick, counting aloud. 2. Look at every jar at once. 3. Write what you see in the first minute.  
   *Parent says:* Stir each jar for thirty seconds. Count out loud. Now look. What do you see in each pair of jars?  
   *Child mode:* Stir each jar for thirty seconds. Count out loud. Look at the colours. Write what you see.
-  - Note: Food colour spreads through water straight away. In oil it stays as red beads and sinks. Turmeric and chilli powder look cloudy in the water and sit in the oil as specks at first. Powders do not dissolve in a few seconds, so the real result comes after the warm wait.
+  - Note: Food colour spreads through water straight away. In oil it stays as red beads and sinks. Turmeric and chilli powder look cloudy in the water and sit in the oil as specks at first. Powders do not dissolve in a few seconds, so the real result comes after the ten-minute wait in warm water.
 - **s4 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up stands all six jars in a bowl of bath-warm water, so water and oil are kept equally warm. 2. Wait ten minutes. 3. Stir each jar once more. 4. Hold each jar against the white paper. Shine the torch from the side.  
   *Parent says:* Warmth helps colour spread faster. We wait ten minutes. Then we hold each jar against the white paper. Is the liquid clear, or can you see bits floating?  
@@ -306,24 +308,24 @@ Karthik laughed. This time Meera did too.
   *Parent does:* Fill in the table for each colour. Write what you see in the water jar, what you see in the oil jar, and which took more colour. Give each jar a colour-strength score from 0 (none) to 5 (very strong), judged against the white paper.  
   *Parent says:* For each colour, tell me what you see in the water and in the oil. Which liquid took more of the colour?  
   *Child mode:* Fill in the table. For each colour, give each jar a strength score from 0 to 5. Which liquid took more?
-  - Note: Expect: turmeric and chilli, mostly oil. Food colour, only water. If one of your colours does something different, write exactly what you saw.
+  - Note: Expect turmeric and chilli colour to go mostly into the oil, and food colour to go only into the water. If one of your colours does something different, write exactly what you saw.
 - **s6 (4 min)**  
-  *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
+  *Parent does:* Ask your child to say or write three things: what they think, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: This is claim, evidence and reasoning. A strong answer: What I think: some colours go into water and some go into oil. What I saw: food colour spread through the water, and turmeric and chilli turned the oil golden and red while the water stayed pale and cloudy. Why: each colour dissolves in the liquid it is most like. Do not explain it yourself before they have answered.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
+  - Note: These three things are a claim, the evidence and the reasoning. A strong answer: What I think: some colours go into water and some go into oil. What I saw: food colour spread through the water, and turmeric and chilli turned the oil golden and red while the water stayed pale and cloudy. Why: each colour dissolves in the liquid it is most like. Do not explain it yourself before they have answered.
   - Check: Turmeric colour is yellow and clear in the oil jar, and pale with floating bits in the water jar. What does this show? → **Turmeric colour dissolves in oil better than in water**
 ### e2 · Fizz and Warmth: does a warm soda hold less gas? (40 min)
 - **question:** Two bottles of the same soda, one cold and one warm: which one gives off more gas into a balloon?
 - **predict:** Before you start, guess. Which balloon will grow bigger, the one on the cold soda or the one on the warm soda? Why do you think so?
 - **fair test:** Use two bottles of the same drink, the same size, opened the same way. Use two balloons of the same kind, stretched the same way, and swirl each bottle the same number of times. Only the warmth of the soda changes, so any difference comes from warmth.
-- **safety:** A grown-up opens the bottles, slowly, over the sink, because a warm soda can spray. Never shake a bottle before opening it, and keep faces away from the neck. The warm water must be only bath-warm, never hot. Do not blow up balloons in the mouth of a child who is under six, and throw away burst balloon pieces, as small parts are a choking risk. Wear old clothes, as foam may spill.
+- **safety:** A grown-up opens the bottles, slowly, over the sink, because a warm soda can spray. Never shake a bottle before opening it, and keep faces away from the neck. The warm water must be only bath-warm, never hot. A child under six should not blow up balloons by mouth. Throw away the pieces of a burst balloon, because a small child can choke on them. Wear old clothes, as foam may spill.
 - **record:** Fill in the table. Draw the two bottles with their balloons. Then write what you think, what you saw, and why.
 - **results table:** Bottle | Cold or warm | Distance around the balloon (cm) | What the drink looks like at the end
 - **s1 (5 min)**  
   *Parent does:* Show your child the two bottles. Ask for a guess and a reason. Write the guess.  
   *Parent says:* Here are two bottles of the same soda. One will be cold and one will be warm. Each will blow up a balloon. Which balloon will be bigger? Why do you think so?  
-  *Child mode:* Two sodas. One cold. One warm. Which balloon grows bigger? Why?
+  *Child mode:* There are two sodas, one cold and one warm. Which balloon will grow bigger? Why?
   - Ask: Why do you think that balloon will be bigger? (good: Warm things go flat faster.; Heat makes the fizz come out.; Cold keeps the gas in.)
   - Note: Do not correct the guess. Many children think the cold soda will make the bigger balloon, because cold drinks feel fizzier. Write their reason.
 - **s2 (18 min) · grown-up needed**  
@@ -333,8 +335,8 @@ Karthik laughed. This time Meera did too.
   - Note: A fifteen-minute wait is enough for the drink to reach the warmth of the water. Do not open the bottles yet. Check that the warm water is only bath-warm. Leave the bottles upright and still.
   - Check: Why do both bottles stay unopened while they warm and cool? → **So no gas escapes before the test starts**
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up holds the cold bottle over the sink and loosens the cap slowly, letting the hiss finish. 2. Pour the same small amount (about one glass) from each bottle, so there is room for foam. 3. Quickly stretch a balloon over the neck of the cold bottle. Do the same for the warm bottle with the other balloon. 4. Swirl each bottle gently ten times, the same.  
-  *Parent says:* Open the cold bottle slowly over the sink. Stretch the balloon over the neck at once. Now the warm bottle, the same way. Swirl each one ten times, the same.  
+  *Parent does:* 1. A grown-up holds the cold bottle over the sink and loosens the cap slowly, letting the hiss finish. 2. Pour the same small amount (about one glass) from each bottle, so there is room for foam. 3. Quickly stretch a balloon over the neck of the cold bottle. Do the same for the warm bottle with the other balloon. 4. Swirl each bottle gently ten times, in the same way.  
+  *Parent says:* Open the cold bottle slowly over the sink. Stretch the balloon over the neck at once. Now do the warm bottle the same way. Swirl each bottle ten times, in the same way.  
   *Child mode:* A grown-up opens each bottle slowly. Stretch a balloon on the neck. Swirl each one ten times.
   - Note: Hold the balloon on the neck with your hand, as the gas pushes it. Open the warm bottle very slowly, as it may foam. Pour out the same amount from each bottle first, so foam does not rush into the balloon. If foam does get in, the balloon still shows the difference. Stand both bottles back in their bowls and leave them for five minutes. If the balloon comes off, put it back quickly, and tie a rubber band round the neck if it keeps slipping. With 2 to 4 children, one holds each balloon, one swirls, one times and one measures. One child alone can do both bottles with a parent. If you have a third bottle left at room temperature, add it as a middle case.
 - **s4 (5 min)**  
@@ -343,22 +345,22 @@ Karthik laughed. This time Meera did too.
   *Child mode:* Wrap the string round each balloon. Measure it on the ruler. Write the numbers.
   - Note: Expect the warm bottle's balloon to be clearly bigger, and the drink inside to look flatter. The cold bottle's balloon is smaller, and the drink still has bubbles. Your numbers will be different from the example, and a balloon can be small or large depending on how stretchy it is, so compare the two balloons only with each other. If the two balloons are the same size, swirl the warm bottle ten more times and measure again. If both are tiny, the soda was flat before you began, so try a fresh bottle.
 - **s5 (4 min)**  
-  *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
+  *Parent does:* Ask your child to say or write three things: what they think, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
   - Note: A strong answer: What I think: a warm soda holds less gas than a cold soda. What I saw: the warm bottle's balloon went much bigger, and its drink went flat. Why: the gas was dissolved in both drinks, and in the warm drink it escaped more. Do not explain it yourself before they have answered.
   - Check: The balloon on the warm soda grew bigger than the balloon on the cold soda. What does this show? → **Warm soda lets out more gas than cold soda**
 ### e3 · Kulfi in a Bag: does salt make ice colder? (40 min)
 - **question:** Plain ice and ice with salt: which one can freeze a bag of sweet milk in ten minutes?
 - **predict:** Before you start, guess. Will the milk freeze in the bag with plain ice? In the bag with ice and salt? Why do you think so?
 - **fair test:** Both bags get the same amount of milk, the same amount of ice, and the same shaking for the same time. Only the salt changes, so any difference comes from salt.
-- **safety:** Salted ice gets far below zero and can hurt bare skin, so hold the bags in a tea towel or gloves, not for long. Do not let salt water into your eyes or mouth. Rinse the small bag under the tap before opening it. Do not use this test with a child who is allergic to milk, and do not eat the milk if the bag leaked.
+- **safety:** Salted ice gets far below zero and can hurt bare skin, so hold the bags in a tea towel or with gloves, and not for long. Do not let salt water into your eyes or mouth. Rinse the small bag under the tap before opening it. Do not do this test with a child who is allergic to milk, and do not eat the milk if the bag leaked.
 - **record:** Fill in the table. Draw what the milk looks like in each bag. Then write what you think, what you saw, and why.
 - **results table:** Bag | Ice only, or ice with salt | The milk after ten minutes | The outside of the big bag
 - **s1 (5 min)**  
   *Parent does:* Show your child the milk, the ice and the salt. Ask for a guess and a reason. Write the guess.  
   *Parent says:* We will try to freeze this sweet milk in two bags. One bag sits in plain ice. The other sits in ice with salt. Which one will freeze? Why do you think so?  
-  *Child mode:* Plain ice or ice with salt. Which freezes the milk? Why do you think so?
+  *Child mode:* Plain ice, or ice with salt: which one will freeze the milk? Why do you think so?
   - Ask: Why do you think that bag will freeze the milk? (good: Ice is cold, so plain ice should do it.; Salt makes the ice colder.; Kulfi sellers use salt, so it must help.)
   - Note: Do not correct the guess. Many children say both bags will freeze, because ice is cold. Write the guess and the reason.
 - **s2 (6 min)**  
@@ -383,9 +385,9 @@ Karthik laughed. This time Meera did too.
   *Child mode:* Take out the small bags. Rinse them. Open them. Look at the milk. Which one froze?
   - Note: Expect the milk from the salty bag to be thick and slushy, like soft kulfi. The milk from the plain ice bag is usually still liquid, just cold. If the salty bag also did not freeze, shake for five more minutes, or add more ice and salt. A bag that leaked salty water into the milk makes salty milk: throw it away. If you want to taste the kulfi, use a clean spoon, and only if the bag was rinsed well and sealed the whole time.
 - **s6 (5 min)**  
-  *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
+  *Parent does:* Ask your child to say or write three things: what they think, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
   - Note: A strong answer: What I think: salt makes ice colder. What I saw: the milk froze in the ice and salt bag and stayed liquid in the plain ice bag, and the salty bag felt colder. Why: the dissolved salt lowers the freezing point of the water, so the melting ice gets colder than zero. Do not explain it yourself before they have answered.
   - Check: The milk froze in the bag with ice and salt, but not in the bag with plain ice. What does this show? → **Ice with salt gets colder than plain ice**
 
@@ -407,15 +409,15 @@ Karthik laughed. This time Meera did too.
   *Parent does:* 1. Pour a second glass of the same soda. 2. Stir one glass hard for thirty seconds with the spoon. 3. Leave the other still. 4. Count the bubble streams rising in each glass for ten seconds, and compare.  
   *Parent says:* Stir this glass hard. Leave the other still. Which glass has more bubbles left after a minute? Why do you think so?  
   *Child mode:* Stir one glass hard. Leave one still. Which has more bubbles left?
-  - Note: Stirring gives gas many places to leave the liquid. The stirred glass goes flat sooner, so it has fewer bubble streams. If you add a pinch of salt to the still glass, it foams up at once, because the grains give the gas somewhere to start. Do it over a plate or the sink and pour the salt in slowly, as it can foam over. With 2 to 4 children, each child can have a glass and test a different thing: stirring, salt, a raisin, or nothing. Do not drink glasses that have had salt or been touched by spoons used on the table.
+  - Note: Stirring gives gas many places to leave the liquid. The stirred glass goes flat sooner, so it has fewer bubble streams. If you add a pinch of salt to the still glass, it foams up at once, because the grains give the gas somewhere to start. Do it over a plate or the sink and pour the salt in slowly, as it can foam over. With 2 to 4 children, each child can have a glass and test a different thing: stirring, salt, a raisin, or nothing. Do not drink from a glass that has had salt added, or that has been stirred with a spoon used on the table.
   - Check: Before the soda bottle is opened there are no bubbles, yet the soda fizzes when it is poured. Where was the gas? → **Dissolved in the liquid, in pieces too small to see**
 ### a2 · Look, Torch and Wait: three kinds of mixtures (30 min)
 - **safety:** Do not shine a torch into anyone's eyes. Soil water is not for drinking, so wash hands after touching it.
 - **record:** Draw a table with four rows and three columns: look, torch, wait. Write what you see in each box. Then write which kind each glass is.
 - **s1 (5 min)**  
-  *Parent does:* 1. Fill four glasses with water. 2. Label them PLAIN, SALT, SOIL and MILK. 3. Stir one teaspoon of salt, soil or milk into the right glass, leaving the plain one. 4. Ask your child to guess how each will look and behave.  
+  *Parent does:* 1. Fill four glasses with water. 2. Label them PLAIN, SALT, SOIL and MILK. 3. Stir one teaspoon of salt into the SALT glass, one teaspoon of soil into the SOIL glass and one teaspoon of milk into the MILK glass. Leave the PLAIN glass as it is. 4. Ask your child to guess how each will look and behave.  
   *Parent says:* Here are four glasses. Which of them do you think will look clear? Which will show a torch beam? Which will settle? Why do you think so?  
-  *Child mode:* Make four glasses. Stir salt, soil and milk into three. Guess what each will do.
+  *Child mode:* Fill four glasses with water. Stir salt into one, soil into one and milk into one. Guess what each glass will do.
   - Ask: Which glass do you think will show the torch beam best? (good: The milk, because it is white.; The soil, because it is dirty.; The salt, because salt is white.)
   - Note: Do not correct the guesses. Write them down. Stir each glass for thirty seconds. With 2 to 4 children, each child makes and stirs one glass. One child alone with a parent makes all four.
 - **s2 (5 min)**  
@@ -427,7 +429,7 @@ Karthik laughed. This time Meera did too.
   *Parent does:* 1. Go to a dim corner. 2. Hold the torch against the side of each glass, pointing across it. 3. Look from the other side. Note whether you can see a beam inside the water.  
   *Parent says:* Shine the torch through the side of each glass. Can you see a beam of light inside the water? Which glass shows it best?  
   *Child mode:* Shine a torch through each glass. Is there a bright beam inside? Write it down.
-  - Note: A dim room makes the beam easier to see: draw curtains or use a bathroom with the light off. A phone torch is bright enough. The plain water and salt water show hardly any beam. The soil and milk glasses show a clear line. This is the Tyndall effect: floating bits scatter light sideways. If the milk glass shows no beam, add another teaspoon of milk. If the soil glass is too dark to see a beam, use a pinch of soil next time.
+  - Note: A dim room makes the beam easier to see: draw curtains or use a bathroom with the light off. A phone torch is bright enough. The plain water and salt water show hardly any beam. The soil and milk glasses show a clear line of light. This is the Tyndall effect: floating bits scatter light sideways. If the milk glass shows no beam, add another teaspoon of milk. If the soil glass is too dark to see a beam, use a pinch of soil next time.
 - **s4 (10 min)**  
   *Parent does:* 1. Leave the four glasses still for twenty minutes. 2. Do not stir or move them. 3. Look again. Check the bottom of each glass.  
   *Parent says:* Now we wait for twenty minutes. Do not touch the glasses. Then look at the bottom of each glass. What has settled? What has stayed the same?  
@@ -441,7 +443,7 @@ Karthik laughed. This time Meera did too.
 ### a3 · Thread on Ice: can salt make ice grab a thread? (12 min)
 - **record:** Draw the glass, the ice cube and the thread. Write how long you waited and what happened when you lifted the thread.
 - **s1 (3 min)**  
-  *Parent does:* 1. Put two ice cubes in the cold water so they float. 2. Lay a thread across the top of each cube. 3. Ask your child if the thread will lift the ice if you pull it.  
+  *Parent does:* 1. Put two ice cubes in a glass of cold water so they float. 2. Lay a thread across the top of each cube. 3. Ask your child whether the thread will lift the ice when you pull it.  
   *Parent says:* If you pull this thread up, will the ice come with it? Now, what if we sprinkle salt on it first? Why do you think so?  
   *Child mode:* Lay the thread on the ice. Will it lift the ice? What if we add salt?
   - Note: Do not say what will happen. Most children think the thread will not lift the ice. Try a gentle lift first to show that the thread slides off.
@@ -454,41 +456,41 @@ Karthik laughed. This time Meera did too.
   *Parent does:* Ask your child to explain what they saw. Then give the explanation.  
   *Parent says:* What did the thread do this time? What do you think the salt did? Where did the cold come from?  
   *Child mode:* What did the salt do? Why did the ice stick to the thread?
-  - Note: A strong answer: the salt melted the ice a little, and that made the water around the thread colder than zero. The salty water was then watered down by the melting ice, and the very cold ice around it froze that water again, with the thread stuck inside.
+  - Note: A strong answer goes like this. The salt dissolves in the thin film of water on the ice, and that makes a little ice melt. Melting takes heat, so the water around the thread becomes colder than zero degrees. That small amount of salty water gets mixed with the water from the melting ice, so the salt spreads thinner. The very cold ice nearby then freezes that water again. As it freezes, it traps the thread inside the ice.
   - Check: Why did the thread end up frozen into the ice cube? → **The salt made a little ice melt and the mixture colder, then the water froze again round the thread**
-### a4 · Curd, Water or Oil: what soothes a chilli? (30 min)
+### a4 · Curd, Water or Nothing: what soothes a chilli? (30 min)
 - **safety:** Only a grown-up eats the chilli, and only a small piece. Do not touch the eyes after cutting or handling chilli. Wash hands afterwards. Do not do this with a grown-up who has stomach trouble, acidity or a milk allergy or lactose problem. Stop and drink milk if it is too hot.
-- **record:** Make a table with the rows: nothing, water, curd. Write the heat score from 0 to 5 at 30 seconds and at 60 seconds in each row. Circle which one dropped the most.
+- **record:** Make a table with the rows: nothing, water, curd. Write the heat score from 0 to 5 at 30 seconds and at 60 seconds in each row. Circle the row where the score dropped the most.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli best and why. 4. Fold the three slips (NOTHING, WATER, CURD) and draw them one by one to set the order.  
+  *Parent does:* 1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli best and why. 4. Write NOTHING, WATER and CURD on three slips of paper. Fold the slips and draw them one by one to set the order.  
   *Parent says:* A grown-up will eat a small piece of chilli. Then we try water and curd, one at a time. Which do you think will soothe it better? Why do you think so?  
   *Child mode:* A grown-up eats a little chilli. Which soothes it better, water or curd? Why?
   - Ask: Why do you think that one will work better? (good: Water washes things away.; Curd is cool and thick.; Milk has fat in it.)
   - Note: Do not say what will happen. Most children guess water. Drawing the order from the slips matters: the first piece may feel hotter than later ones, and a random order keeps one remedy from being unfairly first. NOTHING is the comparison, as the burn fades by itself. If two or more adults are tasting, each can take a different order and you can compare.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* 1. The grown-up eats the first small piece of chilli. 2. After thirty seconds, they score the heat. 3. They do what the first slip says (nothing, one sip of water, or one spoon of curd). 4. They score again at 30 seconds and at 60 seconds. 5. Rest for about eight minutes, until the burn is gone, before the next piece.  
+  *Parent does:* 1. The grown-up eats the first small piece of chilli. 2. After thirty seconds, they score the heat. 3. They do what the first slip says (nothing, one sip of water, or one spoon of curd). 4. They score the heat again 30 seconds later and 60 seconds later. 5. Rest for about eight minutes, until the burn is gone, before the next piece.  
   *Parent says:* Score the heat from 0 to 5. Now do what the slip says. Score it again after thirty seconds and after sixty.  
   *Child mode:* Score the heat. Do what the slip says. Score again at 30 and 60 seconds.
   - Note: Expect the score to change little after water, or even rise as the water spreads the chilli around the mouth. Everyone's mouth is different, so write down what the grown-up says. With 2 to 4 children, one reads the clock, one writes the scores and one asks the score; with one child, you hold the watch and write. If the first piece is too hot, use smaller pieces.
 - **s3 (13 min) · grown-up needed**  
-  *Parent does:* 1. Repeat with the second and third slips, resting between. 2. Compare the three rows: which dropped the most in a minute? 3. Ask whether doing nothing dropped too.  
-  *Parent says:* Same chilli, same size, same waiting. Which one dropped the burn most? How much did it drop with nothing at all?  
-  *Child mode:* Repeat for the other two slips. Which dropped the burn most?
-  - Note: Waiting until the burn is gone before each new piece matters, or you cannot tell the remedies apart. Expect curd to help more than water, and nothing to fade slowly. One tasting by one person is only a hint, not proof, and the effect can be modest. That is a fine result. Say so, and try it with another adult if you can.
+  *Parent does:* 1. Repeat with the second and third slips, resting between. 2. Compare the three rows: in which row did the heat score drop the most in a minute? 3. Ask whether the score also dropped when the grown-up did nothing.  
+  *Parent says:* It was the same chilli, the same size of piece and the same waiting each time. Which one brought the burn down most? How much did the burn drop with nothing at all?  
+  *Child mode:* Repeat for the other two slips. Which one brought the burn down most?
+  - Note: Waiting until the burn is gone before each new piece matters, or you cannot tell the remedies apart. Expect curd to help more than water, and expect the burn to fade slowly when the grown-up does nothing. One tasting by one person is only a hint, not proof, and the effect can be modest. That is a fine result. Say so, and try it with another adult if you can.
   - Check: Why does the test include a piece of chilli where the grown-up does nothing? → **To see how much the burn fades by itself**
 ### a5 · TDS Detective: how much is dissolved in your water? (20 min)
 - **record:** Write the five readings in a table. Draw a bar for each water and mark which has the most dissolved.
 - **s1 (5 min)**  
   *Parent does:* 1. Explain that TDS means total dissolved solids, shown as milligrams of dissolved things in each litre. 2. Ask your child to guess which glass will read highest and which lowest. 3. Write the guesses.  
   *Parent says:* TDS means the dissolved solids in the water. Which glass do you think reads highest? Which lowest? Why do you think so?  
-  *Child mode:* Which glass has the most dissolved? Which the least? Why do you think so?
+  *Child mode:* Which glass has the most dissolved in it? Which has the least? Why do you think so?
   - Ask: Do you think sugar water will read high, like salt water? (good: Yes, because sugar dissolves too.; No, because sugar is different from salt.; I do not know.)
   - Note: Do not correct the guesses. Most children expect sugar water to read as high as salt water.
 - **s2 (10 min)**  
   *Parent does:* 1. Switch on the meter. 2. Dip the probe into each glass. 3. Wait until the number stops changing. 4. Write it down. 5. Rinse and wipe the probe between glasses. No meter? Put one tablespoon of each water on its own clean steel saucer. Leave them in a sunny, dust-free spot. A few hours later, look at the white rings left behind.  
   *Parent says:* Dip the probe into the first glass. Wait for the number to settle. Write it down. Rinse and wipe it before the next glass.  
-  *Child mode:* Dip the probe. Wait for the number. Write it. Wipe the probe. Next glass.
-  - Note: Typical readings: tap water, many hundreds in some cities and far fewer in others. Purifier water, usually far lower than tap water. Bottled water, between the two. Salty water, high. Sugary water, close to the tap water reading. Your numbers will differ, so compare the glasses with each other. A TDS meter does not count the dissolved things directly. It measures how well the water carries electricity, which needs charged particles. Sugar is not charged, so the meter barely notices it. With the saucer test, the tap water leaves a visible white ring, the purifier water a fainter one, and the salty water a thick crust. Sugar leaves a sticky film. With 2 to 4 children, each tests one glass and shares the numbers. Do not drink the test glasses.
+  *Child mode:* Dip the probe. Wait for the number. Write it. Wipe the probe. Then do the next glass.
+  - Note: Typical readings: tap water reads many hundreds in some cities and far less in others. Purifier water usually reads far lower than tap water. Bottled water reads between the two. Salty water reads high. Sugary water reads close to the tap water reading. Your numbers will differ, so compare the glasses with each other. A TDS meter does not count the dissolved things directly. It measures how well the water carries electricity, which needs charged particles. Sugar is not charged, so the meter barely notices it. With the saucer test, the tap water leaves a visible white ring, the purifier water a fainter one, and the salty water a thick crust. Sugar leaves a sticky film. With 2 to 4 children, each tests one glass and shares the numbers. Do not drink the test glasses.
 - **s3 (5 min)**  
   *Parent does:* Ask your child to compare the readings. Ask why the sugar water and the salt water gave such different readings.  
   *Parent says:* Look at the numbers. Which glass is highest? Which is lowest? Sugar and salt both dissolved. Why did they read so differently?  
@@ -503,19 +505,19 @@ Karthik laughed. This time Meera did too.
 - **s1 (5 min)**  
   *Parent does:* Show your child the four materials and the white cloth. Ask which dye they think will stay in the cloth best and which will wash out first.  
   *Parent says:* We will make four dyes. Then we will wash the cloth. Which dye do you think will stay the longest? Which will wash out first? Why do you think so?  
-  *Child mode:* Four dyes. Which will stay in cloth after washing? Which will wash out? Why?
+  *Child mode:* There are four dyes. Which will stay in the cloth after washing? Which will wash out? Why?
   - Ask: Why do you think that colour will stay best? (good: It is the strongest colour.; Onion skin is brown like old cloth.; Turmeric stains everything.)
   - Note: Do not correct the guesses. Turmeric stains fingers and plates, so many children guess it will hold best. Write the guesses.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts each material in its own pan with two cups of water. 2. Bring each to a gentle simmer for ten minutes. 3. Strain the dye into a cup or a bowl. 4. Let it cool until comfortable to touch.  
   *Parent says:* A grown-up will simmer each material in water for ten minutes. The hot water pulls the colour out of the material. Which colours dissolved into the water?  
   *Child mode:* A grown-up simmers each material in water. The colour dissolves into the water. Let it cool.
-  - Note: Hot water dissolves colour faster, just as it did for sugar. Strain out the skins, tea leaves and beetroot, so you are left with coloured water. Label the four bowls. Old pans may stay stained. With 2 to 4 children, each child takes one dye and its cloth; one child alone does two dyes (onion and turmeric) on day 1 if time is short. Keep children away from the stove.
+  - Note: Hot water dissolves colour faster, just as it dissolves sugar faster. Strain out the skins, tea leaves and beetroot, so you are left with coloured water. Label the four bowls. Old pans may stay stained. With 2 to 4 children, each child takes one dye and its cloth. One child alone can do two dyes (onion and turmeric) on day 1 if time is short. Keep children away from the stove.
 - **s3 (20 min)**  
   *Parent does:* 1. Wet each white cloth under the tap and squeeze it. 2. Push one cloth into each cooled dye so it is fully covered. 3. Stir now and then for half an hour. For a stronger colour, leave it soaking for a few hours. 4. Take out each cloth. 5. Rinse it briefly in cold water until the water runs lighter. 6. Hang it up to dry overnight.  
   *Parent says:* Push each cloth into a dye. Move it around so the colour takes evenly. After half an hour, take it out, rinse it lightly and hang it up.  
   *Child mode:* Soak a damp cloth in each dye for half an hour. Rinse lightly. Hang to dry.
-  - Note: The cloths look darker wet than dry. Tea and onion skin usually give tan or orange-brown. Turmeric gives a bright yellow. Beetroot gives a pink that may look weak, and sometimes only beige. Without a fixing agent the colours are gentle, which is fine for the test. Use cotton, as nylon or polyester will not take the dye. Hang them where drips do not matter.
+  - Note: The cloths look darker wet than dry. Tea and onion skin usually give tan or orange-brown. Turmeric gives a bright yellow. Beetroot gives a pink that may look weak, and sometimes only beige. Nothing is added to fix the dye to the cloth, so the colours are gentle, which is fine for the test. Use cotton, as nylon or polyester will not take the dye. Hang the cloths where drips do not matter.
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* 1. Next day, cut each dry cloth in half. 2. Keep one half dry. 3. Wash the other half in warm soapy water, rubbing it 20 times. 4. Rinse and hang to dry.  
   *Parent says:* Cut each cloth in half. Keep one half as it is. Wash the other half with soap and rub it twenty times. Which colours stay? Which fade?  
@@ -538,7 +540,7 @@ Karthik laughed. This time Meera did too.
 - **general:** Use the magnet to pick out the paper clips first, because only the steel is magnetic.; Pour the mix through the strainer. The rice stays in it, and the rava and salt fall through.; Stir the rava and salt into water. The salt dissolves and the rava does not. Pour it through the cloth to keep the rava.; Pour the salty water onto the plate and let the water evaporate in the sun, or heat it gently, until white salt is left.
 - **creative:** Wrap the magnet in a thin plastic bag, so the clips come off the bag easily when you take the magnet away.; Use warm water for the salt step, so the salt dissolves faster.; Put a damp cloth over a bowl and tip the rava and salt on it with water. The salt water drips through and the rava stays on the cloth.; Test your salt pile by dropping a little of it into clean water. It should dissolve and leave no bits. Do not taste it.
 - **s1 (8 min)**  
-  *Parent does:* 1. Read the problem together. 2. Ask your child to write the order of steps and the reason for each. 3. Check that the order uses each property: magnetic, size, dissolving.  
+  *Parent does:* 1. Read the problem together. 2. Ask your child to write the order of steps and the reason for each. 3. Check that the plan uses each difference: which thing is magnetic, which is the biggest, and which dissolves in water.  
   *Parent says:* Four things are mixed. Each has something different about it. Which one is magnetic? Which one is the biggest? Which one dissolves in water? Plan the order of your steps and say why.  
   *Child mode:* Four things are mixed. Plan the order of steps. Say why for each step.
   - Ask: Which step should come first, and why? (good: The magnet, because it only takes the clips and nothing else.; The strainer, because it is dry and quick.; Water should come last, because it makes everything wet.)
@@ -546,7 +548,7 @@ Karthik laughed. This time Meera did too.
 - **s2 (10 min)**  
   *Parent does:* 1. Follow the plan to take out the clips and the rice. 2. Put each in its own pile. 3. Look at what is left in the bowl.  
   *Parent says:* Do the dry steps first. Take out the clips with the magnet. Strain out the rice. What is left in the bowl?  
-  *Child mode:* Magnet for the clips. Strainer for the rice. What is left?
+  *Child mode:* Use the magnet to take out the clips. Use the strainer to take out the rice. What is left?
   - Note: If some rava stays on the rice, tap the strainer. Clips that stick to each other are fine. Check that no clips are left in the mix.
 - **s3 (12 min)**  
   *Parent does:* 1. Put the rava and salt in a glass of water. 2. Stir for two minutes. 3. Lay the cloth over a clean bowl. 4. Pour the mix slowly through the cloth. 5. Rinse the rava on the cloth with a little water.  
@@ -564,7 +566,7 @@ Karthik laughed. This time Meera did too.
   *Parent does:* Line up the four piles. Ask your child which was easiest to separate and which was hardest. Ask what would go wrong with a different order.  
   *Parent says:* Here are your four piles. Which was easiest? Which was hardest to get clean? What would have gone wrong if you had added water first?  
   *Child mode:* Line up the four piles. Which was hardest? What if you added water first?
-  - Note: A strong answer says that each step used a different difference: magnetism, size, dissolving in water, and evaporation. The water step must come last, because it dissolves the salt and makes everything else wet.
+  - Note: A strong answer says that each step used a different difference between the things: magnetism, size, dissolving in water, and evaporation. The water step must come after the dry steps, because it dissolves the salt and makes everything else wet.
 
 ## Worksheets
 ### Water, Oil and Fizz (core) (core, 16 questions)
@@ -593,7 +595,7 @@ Karthik laughed. This time Meera did too.
    Options: Dissolved in the liquid, squeezed in by pressure / In the cap only / There is no gas until you open it  
    **Answer:** Dissolved in the liquid, squeezed in by pressure. *Why:* In the sealed bottle the pressure squeezes the gas into the water, where it spreads out as tiny pieces. When you open the bottle the pressure drops and the gas comes out as bubbles.
 11. (order) Put the steps of the Kulfi in a Bag test in order.  
-   **Answer:** ['Seal sweet milk in two small bags', 'Put ice in both bags and salt in only one', 'Shake both bags for ten minutes', 'Compare the milk in the two small bags']. *Why:* First make the same starting point for both bags. Then change only the salt. Then shake for the same time. Last, compare the results.
+   **Answer:** ['Seal sweet milk in two small bags', 'Put ice in both bags and salt in only one', 'Shake both bags for ten minutes', 'Compare the milk in the two small bags']. *Why:* First set up both bags the same way. Then change only the salt. Then shake for the same time. Last, compare the results.
 12. (odd) Which one is not a solution?  
    Options: Salt water / Sugar syrup / Milk / Lemon juice mixed into water  
    **Answer:** 2. *Why:* Milk is a colloid. It has tiny fat drops floating in it, and a torch beam shows up in it. The other three are solutions.
@@ -603,12 +605,12 @@ Karthik laughed. This time Meera did too.
    **Answer:** The head faces the water. The tail points into the grease. The water is outside the drop. The grease is the drop.. *Why:* A soap molecule has a water-loving head and an oil-loving tail. The tail sticks into the grease and the head stays in the water.
 15. (write) A plastic tiffin box has a yellow turmeric stain that plain water does not remove. What would you try, and why?  
    **Answer:** Rub a little oil on the stain first, then wash with soap. Turmeric colour dissolves in oil, so the oil takes it up, and soap washes the oil away.. *Why:* A strong answer uses the idea that turmeric colour dissolves in oil, and says that soap is needed to rinse the oil away.
-16. (perspective) Gayathri, a girl in Class 4, has a yellow turmeric stain on a white plastic box. Three people suggest ways to clean it.  
+16. (perspective) A girl has a yellow turmeric stain on her white plastic box. Three people in her family suggest ways to clean it.  
    **Answer:** A strong answer picks the grandmother's way, because turmeric colour dissolves in oil, so oil lifts it. A fair point about the mother's way is that soap and hot water do help rinse away the oil and dissolve the colour a little. The brother's way is the least likely to work, because cold water cannot take the colour.. *Why:* Several ways can work, but the best one matches the science: the colour is fat-soluble. A good answer weighs the others fairly.
 ### Salt, Ice and Gas (stretch) (stretch, 17 questions)
 1. (mcq) Why does a mix of ice and salt get colder than plain ice?  
-   Options: The salt dissolves in the thin water on the ice and lowers its freezing point, so the melting ice takes more heat from the mixture / Salt is stored in a cold place / Salt makes the ice thicker  
-   **Answer:** The salt dissolves in the thin water on the ice and lowers its freezing point, so the melting ice takes more heat from the mixture. *Why:* Dissolved salt makes it harder for water to freeze, so the ice keeps melting below zero degrees. Melting takes heat, so the mixture gets colder. Salt itself is not cold.
+   Options: The salt dissolves in the thin film of water on the ice and lowers its freezing point, so the melting ice takes more heat from the mixture / Salt is stored in a cold place / Salt makes the ice thicker  
+   **Answer:** The salt dissolves in the thin film of water on the ice and lowers its freezing point, so the melting ice takes more heat from the mixture. *Why:* Dissolved salt makes it harder for water to freeze, so the ice keeps melting below zero degrees. Melting takes heat, so the mixture gets colder. Salt itself is not cold.
 2. (write) On a hot afternoon, fish in a small still pond swim to the top and open their mouths. Use what you know about gases to explain why.  
    **Answer:** Fish take in oxygen that is dissolved in the water. Warm water holds less dissolved gas than cool water, so there is less oxygen for the fish. They come to the surface where the water meets the air.. *Why:* A strong answer says that oxygen dissolves in water, that warm water holds less, and that the surface gets more oxygen from the air.
 3. (mcq) A TDS meter reads about 20 in a glass of water with a teaspoon of sugar stirred in, and about 20 in plain filtered water. What is the best explanation?  
@@ -622,7 +624,7 @@ Karthik laughed. This time Meera did too.
    Options: Its tail grips the grease and its head grips the water, so the grease is carried off in tiny drops / Soap dissolves grease completely / Soap is hot  
    **Answer:** Its tail grips the grease and its head grips the water, so the grease is carried off in tiny drops. *Why:* A soap molecule has an oil-loving tail and a water-loving head. The grease is broken into tiny drops wrapped in soap, and water carries them away. The grease is not truly dissolved.
 7. (sort) Sort these vitamins. Does each one dissolve in fat or in water?  
-   **Answer:** vitamin A → Dissolves in fat; vitamin B → Dissolves in water; vitamin C → Dissolves in water; vitamin D → Dissolves in fat; vitamin E → Dissolves in fat; vitamin K → Dissolves in fat. *Why:* Vitamins A, D, E and K dissolve in fat. Vitamins B and C dissolve in water. So a little oil in a meal helps the body take in vitamin A and its partners.
+   **Answer:** vitamin A → Dissolves in fat; vitamin B → Dissolves in water; vitamin C → Dissolves in water; vitamin D → Dissolves in fat; vitamin E → Dissolves in fat; vitamin K → Dissolves in fat. *Why:* Vitamins A, D, E and K dissolve in fat. Vitamins B and C dissolve in water. So a little oil in a meal helps the body take in vitamins A, D, E and K.
 8. (order) Put these in order, from the lowest freezing point to the highest.  
    **Answer:** ['Very salty brine', 'Sea water', 'Pure water']. *Why:* The more salt dissolved, the lower the freezing point. Very salty brine freezes at about minus 20 degrees, sea water at about minus 2, and pure water at zero.
 9. (write) A friend says milk is a solution because it looks the same all through. How could you show that milk is not a solution?  
@@ -655,7 +657,7 @@ Karthik laughed. This time Meera did too.
 3. (count) A salt pan dries up 200 litres of sea water that held 35 grams of salt in every litre. How many grams of salt are left behind?  
    **Answer:** 7000. *Why:* Each litre leaves 35 grams. 200 times 35 is 7000 grams, which is 7 kilograms.
 4. (perspective) On a mountain road in the Himalayas, ice forms on the road in winter. Three people say what to do.  
-   **Answer:** A strong answer says that salt lowers the freezing point so ice melts, but it only works down to about minus 10 or minus 20 degrees, and in colder weather it cannot help. It weighs this against the harm to streams. Sand gives grip without chemicals. A fair answer picks one and gives a real reason for the other.. *Why:* Each idea has a cost. Salt melts ice but stops working in deep cold and can harm nature. Sand gives grip but does not remove the ice.
+   **Answer:** A strong answer says that salt lowers the freezing point so ice melts, but it only works down to about minus 10 or minus 20 degrees, and in colder weather it cannot help. It weighs this against the harm to streams. Sand gives grip without chemicals. A fair answer picks one idea, gives a reason, and says one good point about another idea.. *Why:* Each idea has a cost. Salt melts ice but stops working in deep cold and can harm nature. Sand gives grip but does not remove the ice.
 5. (mcq) Why do kulfi sellers pack ice and salt around the kulfi pot?  
    Options: Salty ice is colder than plain ice, so it can freeze the kulfi / Salt makes the kulfi sweet / Salt makes the ice last longer  
    **Answer:** Salty ice is colder than plain ice, so it can freeze the kulfi. *Why:* Plain ice cannot freeze sweet milk, because melting ice stays at zero degrees. Salty ice can fall to about minus 20 degrees, which freezes the kulfi.
@@ -669,7 +671,7 @@ Karthik laughed. This time Meera did too.
    Options: Bubbles rising from a poured soda / Fish gasping in a warm pond / Big steam bubbles rising in a rolling boil / Tiny bubbles forming on the side of a warming pan of water  
    **Answer:** 2. *Why:* The big bubbles at a rolling boil are water vapour, water that has turned into a gas. The other three are about gases that were dissolved in the liquid and come out as it warms or the pressure falls.
 10. (write) The word insoluble really means 'dissolves too little for us to notice'. Explain what this means for a piece of limestone in rain.  
-   **Answer:** Each raindrop dissolves only a tiny bit of the limestone. In one day we cannot see any change. But over hundreds of thousands of years the water can dissolve enough to carve a cave. So insoluble depends on how little dissolves and how long we wait.. *Why:* A strong answer joins a very small amount to a very long time.
+   **Answer:** Each raindrop dissolves only a tiny bit of the limestone. In one day we cannot see any change. But over hundreds of thousands of years the water can dissolve enough to carve a cave. So insoluble depends on how little dissolves and how long we wait.. *Why:* A strong answer says that a very small amount dissolving, over a very long time, adds up to a lot.
 11. (draw) Draw a zoomed-in picture of a soap molecule at the edge of a grease drop in water.  
    **Answer:** A grease drop in the middle, with tadpole-shaped soap molecules around the drop, tails pointing into the grease and heads pointing out into the water.. *Why:* The tail grips the grease and the head grips the water, so the soap wraps the grease in a ring.
 12. (sort) Sort these mixtures into the three kinds.  
@@ -685,9 +687,9 @@ Karthik laughed. This time Meera did too.
    **Answer:** Claim: a warm soda lets out more gas than a cold soda. Evidence: the warm soda's balloon went to 28 centimetres and the cold soda's to 14, twice as far around. Reasoning: gas is dissolved in the drink, and warm liquid holds less of it, so more escapes into the balloon.. *Why:* A strong answer states the claim, uses the two numbers as evidence and explains why warmth makes gas leave.
 
 ## Videos
-- **How soap works: oil, water and the two-ended molecule** (to be found, 5 min) id `to find`: To see a soap molecule grip grease with its tail and water with its head, and lift the grease off a plate. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How fizzy drinks are made: dissolving carbon dioxide under pressure** (to be found, 5 min) id `to find`: To see gas being pushed into cold water under pressure, and escaping as bubbles when the bottle is opened. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Why does salt melt ice, and why does the mixture get colder?** (to be found, 5 min) id `to find`: To see water molecules leaving and joining ice, and how dissolved salt changes the balance. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **How Do Soap and Water Make Us Clean? | Chemistry for Kids** (SciShow Kids, 4 min) id `XntinCBEC9U`: To see a soap molecule grip grease with its tail and water with its head, and lift the grease off a plate. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **What makes soda fizzy? | General KnOWLedge** (Owlkids, 4 min) id `LT0Nv3FyqD0`: To see gas being pushed into cold water under pressure, and escaping as bubbles when the bottle is opened. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How Does Salt Melt Ice?** (Reactions, 4 min) id `JkhWV2uaHaA`: To see water molecules leaving and joining ice, and how dissolved salt changes the balance. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these dissolves in oil but hardly in water?  
@@ -705,7 +707,7 @@ Karthik laughed. This time Meera did too.
 5. (mcq) A sealed bottle of soda has no bubbles. What keeps the gas dissolved?  
    Options: The high pressure inside the bottle / The cold glass / The label  
    **Answer:** The high pressure inside the bottle. *Why:* High pressure squeezes the gas into the water. When the pressure drops at opening, the gas comes out as bubbles.
-6. (mcq) Kavya shines a torch through a glass of water from the side and sees a bright beam inside. After an hour nothing has settled. What kind of mixture is it?  
+6. (mcq) You shine a torch through a glass of liquid from the side and see a bright beam inside. After an hour nothing has settled. What kind of mixture is it?  
    Options: A colloid / A solution / A suspension  
    **Answer:** A colloid. *Why:* A beam shows when floating bits scatter light, so it is not a solution. Nothing settled, so it is not a suspension. It is a colloid.
 7. (mcq) Salt is sprinkled on ice. What happens to the temperature of the mixture?  
@@ -758,7 +760,7 @@ Karthik laughed. This time Meera did too.
 ## Open questions
 - **Why do bubbles begin at some places in a soda and not at others?** Scientists know that bubbles start at tiny scratches and specks. They are still working out exactly how the very first tiny bubble forms inside a clear liquid.
 - **How much more carbon dioxide can the sea keep taking in as it grows warmer?** Warm water holds less gas. The sea has taken in a large share of the carbon dioxide people release, but how long it can keep doing so is still being measured.
-- **How did the first cell skins form on the early Earth?** Fat-like molecules form skins in water by themselves, which makes this seem possible. Nobody knows exactly how the first living cells came to have one.
+- **How did the first cell skins form on the early Earth?** Fat-like molecules form skins in water by themselves, which makes this seem possible. Nobody knows exactly how the first living cells came to have a skin.
 - **Why do chilli plants make a chemical that burns mammals, while birds eat them without a burn?** Scientists have shown that birds eat chillies and spread their seeds, while mammals chew the seeds and destroy them. They think this is why the burn evolved, but they are still testing the idea.
 - **Can we design a drug that dissolves well in both water and fat?** Many medicines must dissolve in the watery blood and also cross the fatty skin of a cell. Finding the balance for each new drug is one of the hard problems of medicine.
 - **Will sea water in the future dissolve rock and shell faster, as it takes in more carbon dioxide?** Scientists see that the sea is slowly becoming a little more acidic, but how this will change shells, corals and reefs in each place is still being studied.
@@ -787,7 +789,7 @@ Karthik laughed. This time Meera did too.
 - Why did the turmeric jump into the oil? *It wanted to be with someone who understood its colour.*
 
 ## Connected maths
-- A bottle holds 500 millilitres of oil. One tablespoon is 15 millilitres. How many whole tablespoons of oil are in the bottle? Each Water or Oil test uses 3 tablespoons of oil. How many tests can you do? **33 tablespoons, and 11 tests.**. 500 divided by 15 is 33 with 5 left over, so there are 33 whole tablespoons. 33 divided by 3 is 11, so you can do 11 tests. (queues `math.division.division-facts.L4`)
+- A bottle holds 500 millilitres of oil. One tablespoon is 15 millilitres. How many whole tablespoons of oil are in the bottle? Each oil jar in the Water or Oil test needs 3 tablespoons of oil. How many oil jars can you fill? **33 tablespoons, and 11 oil jars.**. 500 divided by 15 is 33 with 5 left over, so there are 33 whole tablespoons. 33 divided by 3 is 11, so you can fill 11 oil jars. (queues `math.division.division-facts.L4`)
 - In the Fizz and Warmth test, the cold soda's balloon was 14 centimetres around and the warm soda's balloon was 28 centimetres around. How many centimetres bigger around was the warm balloon? How many times as big around? **14 centimetres bigger, and 2 times as big.**. 28 take away 14 is 14. 14 doubled is 28, so the warm balloon was 2 times as big around. (queues `math.measurement-basics.standard-units.L4`)
 - Plain melting ice is at 0 degrees Celsius. In the Kulfi in a Bag test, the salty ice reads minus 12 degrees. The sweet milk freezes at about minus 2 degrees. How many degrees colder than plain ice is the salty ice? Is the salty ice colder than the freezing point of the milk, and by how much? **12 degrees colder than plain ice, and 10 degrees colder than the milk's freezing point.**. From 0 down to minus 12 is 12 degrees. From minus 2 down to minus 12 is 10 degrees. So the salty ice is below the milk's freezing point, and the milk can freeze. Plain ice at 0 is above it, so the milk stays liquid. (queues `math.number-sense.negative-numbers.L4`)
 - Sea water holds about 35 grams of salt in every litre. A tumbler holds 250 millilitres, which is one quarter of a litre. About how many grams of salt are in a full tumbler of sea water? **About 9 grams.**. A quarter of 35 is 35 divided by 4, which is 8 and three quarters. That is about 9 grams of salt. (queues `math.fractions.fractions-of-a-whole.L4`)
@@ -797,7 +799,7 @@ Karthik laughed. This time Meera did too.
 - A litre of water at 20 degrees Celsius holds about 9 milligrams of dissolved oxygen. At 30 degrees it holds about 7 and a half milligrams. How many milligrams less does it hold at 30 degrees? Is that more or less than one fifth of the amount at 20 degrees? **1 and a half milligrams less. It is less than one fifth.**. 9 take away 7 and a half is 1 and a half. One fifth of 9 is 1 and four fifths, which is about 1.8. Since 1.5 is less than 1.8, the loss is less than one fifth. (queues `math.data.line-graphs.L4`)
 
 ## Song
-Heavy for Its Size (sci.states.L4): Topic-level song
+What Water Takes (sci.states.L4): Topic-level song
 
 ## Links
 - [PhET Sugar and Salt Solutions](https://phet.colorado.edu/en/simulations/sugar-and-salt-solutions) · simulation: A free simulation. Add salt, sugar or other solutes to water, and see how the concentration and the way they split into particles change.
