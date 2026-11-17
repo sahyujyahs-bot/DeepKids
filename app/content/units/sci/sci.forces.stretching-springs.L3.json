@@ -471,7 +471,7 @@
    "for": "Hooke found equal steps in metal springs, long wires and dry wood, and said the rule held for every springy body. Steel springs follow the rule very closely for small stretches.",
    "against": "Rubber bands follow it only roughly. Their steps often grow as the band gets long. And every spring breaks the rule once it is pulled past its elastic limit. Then the steps stop being equal, and the spring stays long. Hooke's rule is very useful, but it is a rule for small stretches.",
    "status": "rejected",
-   "context": "Robert Hooke found a rule for how springs stretch. This card asks whether his rule always works."
+   "context": "Hooke's rule says that, for small stretches, equal extra pulls give equal extra stretches. If you double the pull, you get about double the stretch. In the coin test, each 5 coins made the band longer by about the same step. Robert Hooke wrote this rule down in 1678. This card asks whether his rule works for every springy thing."
   },
   {
    "claim": "Robert Hooke alone discovered the rule for springs, and invented the spring for watches.",
