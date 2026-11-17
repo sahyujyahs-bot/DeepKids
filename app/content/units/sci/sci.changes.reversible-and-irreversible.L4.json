@@ -171,7 +171,7 @@
    "concept": "What heat does to starch",
    "status": "defined",
    "definition": "To gelatinise is what starch does in hot water: the starch grains take in water, swell and burst.",
-   "description": "Rice, wheat, corn and potatoes store their food as starch. Starch is packed into grains so small that a thousand would fit on a full stop. In cold water these grains stay hard and closed, and they sink. That is the white layer in glass A of Cold Stir, Hot Stir. Between about 60 and 75 degrees Celsius, the grains let water in. They swell to many times their size. Long starch molecules spill out of them and tangle with each other, and the water turns thick. That is the paste in glass B. A swollen, burst grain cannot close up again. So when the paste is dried, it becomes a hard, glassy flake and never a powder. Cooking rice, rotis, idlis and potatoes is mostly this one change.",
+   "description": "Rice, wheat, corn and potatoes store their food as starch. Starch is packed into grains so small that hundreds would fit on a full stop. In cold water these grains stay hard and closed, and they sink. That is the white layer in glass A of Cold Stir, Hot Stir. Between about 55 and 80 degrees Celsius, depending on the starch, the grains let water in. They swell to many times their size. Long starch molecules spill out of them and tangle with each other, and the water turns thick. That is the paste in glass B. A swollen, burst grain cannot close up again. So when the paste is dried, it becomes a hard, glassy flake and never a powder. Cooking rice, rotis, idlis and potatoes is mostly this one change.",
    "examples": [
     "Rice kanji is used to stiffen cotton saris, because cooked starch dries into a stiff film.",
     "Vadam and sandige are cooked rice paste dried in the sun into hard chips.",
@@ -197,7 +197,7 @@
    "concept": "Why toast is brown: the Maillard reaction",
    "status": "defined",
    "definition": "The Maillard reaction is a chemical change between sugars and parts of proteins in hot, dry food. It makes brown substances and many new smells and tastes.",
-   "description": "In The Toast Ladder, squares of bread sit on a hot tawa for different times. Two things happen to them. First, water leaves the bread as vapour, and the bread goes firm. This drying is reversible. A pale, dry square left overnight in a box of damp air goes soft again. Second, the dry surface gets hotter than about 140 degrees Celsius. Then the sugars and proteins in the bread react. They make hundreds of new substances. Some are brown, and some have the smell of toast. This is the Maillard reaction, which the French doctor Louis-Camille Maillard described in 1912. It does not go back. A brown square stays brown after cooling and after a night in damp air. Boiling water never gets hotter than 100 degrees Celsius. That is why boiled rice and steamed idlis stay white. Sugar heated alone, above about 160 degrees Celsius, breaks up and browns in a different reaction and becomes caramel.",
+   "description": "In The Toast Ladder, squares of bread sit on a hot tawa for different times. Two things happen to them. First, water leaves the bread as vapour, and the bread goes firm. This drying is reversible. A pale, dry square left overnight in a box of damp air goes soft again. Second, the dry surface gets hotter than about 140 degrees Celsius. Then the sugars and proteins in the bread react. They make hundreds of new substances. Some are brown, and some have the smell of toast. This is the Maillard reaction, which the French doctor Louis-Camille Maillard described in 1912. It does not go back. A brown square stays brown after cooling and after a night in damp air. Boiling water never gets hotter than 100 degrees Celsius. That is why boiled rice and steamed idlis stay white. Sugar heated alone, at about 160 to 170 degrees Celsius, breaks up and browns in a different reaction and becomes caramel.",
    "examples": [
     "A dosa is brown on the tawa side and pale on the top side.",
     "Roasted coffee beans, roasted peanuts and a roti's dark spots are all browned by the Maillard reaction.",
@@ -223,7 +223,7 @@
    "concept": "Why people cook",
    "status": "defined",
    "definition": "Cooking is heating food so that it changes for good. It makes food softer, safer and easier to digest.",
-   "description": "Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and ten minutes of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water.",
+   "description": "Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water.",
    "examples": [
     "Raw rice is too hard to chew, and cooked rice is soft.",
     "Milk is boiled in most Indian homes to kill microbes before it is drunk.",
@@ -2023,7 +2023,7 @@
       "The skins fall off"
      ],
      "a": 0,
-     "why": "Raw rajma holds a protein that upsets the gut. Ten minutes of hard boiling denatures it, and it stays changed after the beans cool.",
+     "why": "Raw rajma holds a protein that upsets the gut. About half an hour of hard boiling denatures it, and it stays changed after the beans cool.",
      "outcome": 7
     },
     {
@@ -2507,31 +2507,28 @@
  ],
  "videos": [
   {
-   "title": "Starch grains swelling and bursting in hot water, seen through a microscope",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Heat Gelatinization of Corn Starch (low iodine)",
+   "channel": "GuelphCerealLab",
+   "youtube": "kYzAWypRoGc",
    "mins": 3,
    "why": "To see what happened inside glass B of Cold Stir, Hot Stir, where the heated flour turned to paste.",
-   "check": "No address yet. Find a clip from a university or a food science channel. Check that it shows the grains swelling as the water heats, and that it uses the word gelatinisation correctly."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "An egg white turning from clear to white in a pan, filmed close up",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why Do Egg Whites Go From Clear to White?",
+   "channel": "History of Simple Things",
+   "youtube": "ThCDicaqOGU",
    "mins": 3,
    "why": "To watch the solid white spread inwards as each part of the egg white gets hot enough.",
-   "check": "No address yet. Find a close-up or slow-motion clip from a science or cooking channel. Check that any explanation says the proteins unfold and join, and does not say they are destroyed."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Not a pan close-up; it is a short explainer of the clear-to-white change, and the channel is small."
   },
   {
-   "title": "Why toast turns brown: the Maillard reaction explained",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What is the Maillard Reaction - Food Science",
+   "channel": "Kiki Sanford",
+   "youtube": "NtwwjRYNw9c",
    "mins": 5,
    "why": "To hear how sugars and parts of proteins react on a hot, dry surface, as in The Toast Ladder.",
-   "check": "No address yet. Find a short explainer from a chemistry society or a well-known science channel. Check that it keeps the Maillard reaction separate from caramel, which is sugar browning alone."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Food science channel; the caramel-versus-Maillard distinction is not confirmed."
   }
  ],
  "applications": [
@@ -2988,8 +2985,8 @@
   ]
  },
  "how_we_found_out": {
-  "story": "A hundred years ago, many chemists thought that heat destroyed a protein. A boiled egg white could not be made runny again. So they supposed that its proteins had been broken up or turned into something else. In Beijing, the biochemist Hsien Wu tested proteins for years. He had begun this work in 1924 with the biochemist Daisy Yen, whom he married that year. In 1931 he proposed a different idea. A protein is a long chain folded into an exact shape, he said. Heat does not break the chain. It only makes the chain lose its folds, and the loose chains then stick to each other. Few scientists noticed his paper. Around 1960 the American scientist Christian Anfinsen found a way to test the idea. He took a protein from a cow's pancreas and unfolded the protein with chemicals. The protein stopped working. Then he took the chemicals away. The chains folded back by themselves and worked again. A broken chain could never have done that. Anfinsen won the Nobel Prize in Chemistry in 1972.",
-  "who": "Hsien Wu and Daisy Yen Wu in Beijing, and Christian Anfinsen in the United States",
+  "story": "A hundred years ago, many chemists thought that heat destroyed a protein. A boiled egg white could not be made runny again. So they supposed that its proteins had been broken up or turned into something else. In Beijing, the biochemist Hsien Wu tested proteins for years. In 1931 he proposed a different idea. A protein is a long chain folded into an exact shape, he said. Heat does not break the chain. It only makes the chain lose its folds, and the loose chains then stick to each other. Few scientists noticed his paper. Around 1960 the American scientist Christian Anfinsen found a way to test the idea. He took a protein from a cow's pancreas and unfolded the protein with chemicals. The protein stopped working. Then he took the chemicals away. The chains folded back by themselves and worked again. A broken chain could never have done that. Anfinsen won the Nobel Prize in Chemistry in 1972.",
+  "who": "Hsien Wu in Beijing, and Christian Anfinsen in the United States",
   "when": "Wu published his theory in 1931. Anfinsen did his folding tests in the late 1950s and early 1960s, and won the Nobel Prize in 1972.",
   "wrong_idea": "That heating a protein breaks it up or destroys it. Wu proposed that the chain only loses its folded shape. Anfinsen showed that an unfolded protein can fold back and work again, which a broken chain could not do.",
   "art": "A laboratory bench from the 1930s with glass flasks and a notebook, and above it a drawing of a long thread folded into a ball, opened out, and folded again."
@@ -3051,5 +3048,5 @@
   ],
   "art": "A child's two hands holding a small piece of paper with a tiny tear just started at its top edge, and a row of bread squares from white to brown on the table behind."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through and have not yet been tried at home. Cold Stir, Hot Stir (core) needs cornflour, rice flour or maida, two clear glasses and a stove for about 4 minutes. With cornflour, the cold glass usually shows a white layer about 5 millimetres thick within 10 to 30 minutes. The heated mix sets into a soft paste with no layer. With rice flour or maida the water above the layer stays a little milky. Atta leaves brown bran. So cornflour is the best choice. The plates must be spread thin. In dry weather they dry in a few hours. In the monsoon they can take a day and a half. If plate B is still sticky, wait longer. The Toast Ladder (core) needs two slices of bread, a tawa and a steel box. Tawas and flames differ. If the 2-minute square is already dark, the step tells the grown-up to lower the flame and start again. After a night in damp air the pale squares are usually soft and the dark ones bendy. No colour changes. In very dry weather, wet the cloth with 3 teaspoons of water. Nobody eats the squares from the damp box. Five Changes, Three Piles uses cold milk, which makes fine lumps with lemon juice in about a minute. Warm milk makes bigger lumps. The Slip Shuffle depends on chance. A family's tally may differ from the expected 4 in 12 and 2 in 20. The parent notes say so. Soak, Dry, Sprout needs four days. Chana usually sprout in one to two days at 25 to 30 degrees Celsius. They are slower in a cool room. The dried seeds come back close to their first size, and not exactly to it. Tangled Threads, the two card games and The Tell-Tale Seal need only wool, paper, glue and coins. No part needs a garden. The stove is used by a grown-up in Cold Stir, Hot Stir and The Toast Ladder. Facts to treat with care: the setting temperature of egg white is given as about 62 degrees Celsius. That is where the first of its proteins starts to unfold, and firm setting needs a few degrees more. Browning 'above about 140 degrees Celsius' is the usual rounded figure. The figures 91 and 51 parts in 100 for cooked and raw egg protein come from one study of 1998. Daisy Yen Wu's part in the early protein work is given as her 1924 paper with Hsien Wu. The 2015 test refolded one kind of protein from boiled egg white and did not make a raw egg. The Tirukkural and Dhammapada verses are paraphrased, and the unit says plainly that the Kural is not about cooking. The three videos have no address yet."
+ "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through and have not yet been tried at home. Cold Stir, Hot Stir (core) needs cornflour, rice flour or maida, two clear glasses and a stove for about 4 minutes. With cornflour, the cold glass usually shows a white layer about 5 millimetres thick within 10 to 30 minutes. The heated mix sets into a soft paste with no layer. With rice flour or maida the water above the layer stays a little milky. Atta leaves brown bran. So cornflour is the best choice. The plates must be spread thin. In dry weather they dry in a few hours. In the monsoon they can take a day and a half. If plate B is still sticky, wait longer. The Toast Ladder (core) needs two slices of bread, a tawa and a steel box. Tawas and flames differ. If the 2-minute square is already dark, the step tells the grown-up to lower the flame and start again. After a night in damp air the pale squares are usually soft and the dark ones bendy. No colour changes. In very dry weather, wet the cloth with 3 teaspoons of water. Nobody eats the squares from the damp box. Five Changes, Three Piles uses cold milk, which makes fine lumps with lemon juice in about a minute. Warm milk makes bigger lumps. The Slip Shuffle depends on chance. A family's tally may differ from the expected 4 in 12 and 2 in 20. The parent notes say so. Soak, Dry, Sprout needs four days. Chana usually sprout in one to two days at 25 to 30 degrees Celsius. They are slower in a cool room. The dried seeds come back close to their first size, and not exactly to it. Tangled Threads, the two card games and The Tell-Tale Seal need only wool, paper, glue and coins. No part needs a garden. The stove is used by a grown-up in Cold Stir, Hot Stir and The Toast Ladder. Facts checked on 17 Nov 2026 against scholarly and official pages: the 1998 egg-protein study, the 2015 egg-white test, the Maillard, Wu, Anfinsen, Berna and Wrangham references, the Kural, Dhammapada and Cratylus lines, and the 62 and 140 degree figures. Softened: the starch-grain size, the starch swelling range, the caramel temperature and the rajma boiling time (now about half an hour). Removed: Daisy Yen Wu's 1924 part and marriage year, which could not be confirmed. The three videos have no address yet."
 }

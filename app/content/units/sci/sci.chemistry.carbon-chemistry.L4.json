@@ -357,7 +357,7 @@
   "title": "The Pot That Came Out Red",
   "mins": 10,
   "read_aloud": true,
-  "note": "Thenmozhi, Kathir and Paati are made up, and so is this firing. These facts are real. Keeladi is a village near Madurai in Tamil Nadu. Archaeologists have dug up a town there that is more than 2,000 years old. Among the finds are bowls that are black inside and red outside, called black-and-red ware. Manamadurai, further down the Vaigai river, is a potters' town. Most archaeologists think such bowls were fired upside down, with plant matter packed inside. Where air could not reach, carbon from the smoke stayed in the clay. The iron in the clay also turned dark there. Where air could reach, the clay turned red.",
+  "note": "Thenmozhi, Kathir and Paati are made up, and so is this firing. These facts are real. Keeladi is a village near Madurai in Tamil Nadu. Archaeologists have dug up a town there that is more than 2,000 years old. Among the finds are bowls that are black inside and red outside, called black-and-red ware. Manamadurai, further down the Vaigai river, is a potters' town. Many archaeologists think such bowls were fired upside down, with plant matter packed inside. Where air could not reach, carbon from the smoke stayed in the clay. The iron in the clay also turned dark there. Where air could reach, the clay turned red.",
   "text": [
    "The bowl in the glass case at Keeladi was broken, and Thenmozhi could not stop looking at it.",
    "It was red on the outside, like any pot in her grandmother's yard. But the inside was black, and so was a band around the rim. The black shone. The card beside it said the bowl was more than two thousand years old.",
@@ -2474,31 +2474,28 @@
  ],
  "videos": [
   {
-   "title": "An animation of carbon atoms bonding into chains, branches and rings",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why can carbon form long chains and rings?",
+   "channel": "Gumball Degree Lightning Organic Chemistry",
+   "youtube": "79YIhqmzRG4",
    "mins": 5,
    "why": "To see in three dimensions how one atom with four bonds builds a chain, a branch and a ring.",
-   "check": "No address yet. Find a short animation from a university, a chemistry society or a well-known science channel. Check that every carbon atom is shown with four bonds, and that hydrogen is shown with one."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How charcoal is made by heating wood with very little air",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Traditional Woodland Crafts in the UK: Charcoal Burning | RIng Kiln",
+   "channel": "TA Outdoors",
+   "youtube": "6tzofI2F8YM",
    "mins": 4,
    "why": "To see Foil Packet Charcoal done on a large scale, in a kiln or a covered pit.",
-   "check": "No address yet. Find a clip of traditional or artists' charcoal making. Check that it says the air is kept out, and that it does not call charcoal 'burnt wood' without explaining the difference from ash."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "From glucose to starch and cellulose: the same ring joined two ways",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Formation of Cellulose through Glycosidic bonding with Beta Glucose. A-level Biology",
+   "channel": "alevelbiologytutor",
+   "youtube": "yDWp1-O8C78",
    "mins": 4,
    "why": "To see why a coiled chain of glucose rings is food and a straight chain is fibre.",
-   "check": "No address yet. Find a short animation from a university or a science channel. Check that it shows water released at each join, and that it shows every second ring turned over in cellulose."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2957,12 +2954,13 @@
    "Boiling points of methane, butane, the three pentanes and octane, and the numbers of alkane isomers (2, 3, 5, 9, 18 and 75 for 4, 5, 6, 7, 8 and 10 carbon atoms), are standard values from chemistry handbooks.",
    "Carbon as about 18 percent of the mass of the human body is the standard figure in physiology textbooks.",
    "Black-and-red ware and the upside-down firing method: the reports of the Tamil Nadu State Department of Archaeology on the Keeladi excavations (2019 onwards), and general archaeology texts on Iron Age pottery in South India.",
-   "Levi P. (1975). Il sistema periodico (The Periodic Table). Einaudi. The last chapter, 'Carbon'."
+   "Levi P. (1975). Il sistema periodico (The Periodic Table). Einaudi. The last chapter, 'Carbon'.",
+   "Checked on 17 Nov 2026: Lonsdale's 1929 paper (Proc. R. Soc. A 123: 494-515), Kekulé's move to Ghent in 1858, the Keeladi Museum (opened 5 March 2023), Manamadurai's pottery and the Tamil Nadu State Department of Archaeology page on Keeladi (tnarch.gov.in/keeladi)."
   ]
  },
  "how_we_found_out": {
-  "story": "Two hundred years ago, chemists sorted substances into two kinds. Mineral substances, like salt, came from rocks. Organic substances, like sugar and urea, came from living bodies. Most chemists thought that only a living body could make an organic substance, with the help of a life force. In 1828 the German chemist Friedrich Wöhler heated a mineral salt called ammonium cyanate. White crystals formed. He tested them and found they were urea, the same substance as in urine. He wrote to his teacher that he had made urea without needing a kidney. One result did not change every mind, but more followed. In 1845 Hermann Kolbe made the acid of vinegar starting from carbon. Then chemists asked why carbon made so many substances. In 1858 August Kekulé in Germany and Archibald Couper from Scotland each gave the same answer. A carbon atom makes four bonds, and carbon atoms bond to each other in chains. In 1865 Kekulé proposed that six carbon atoms could also close into a ring. In 1929 Kathleen Lonsdale, working in Leeds, used X-rays to show that this ring is real, flat and six-sided.",
-  "who": "Friedrich Wöhler and Hermann Kolbe in Germany, August Kekulé, Archibald Couper, and Kathleen Lonsdale in England",
+  "story": "Two hundred years ago, chemists sorted substances into two kinds. Mineral substances, like salt, came from rocks. Organic substances, like sugar and urea, came from living bodies. Most chemists thought that only a living body could make an organic substance, with the help of a life force. In 1828 the German chemist Friedrich Wöhler heated a mineral salt called ammonium cyanate. White crystals formed. He tested them and found they were urea, the same substance as in urine. He wrote to his teacher that he had made urea without needing a kidney. One result did not change every mind, but more followed. In 1845 Hermann Kolbe made the acid of vinegar starting from carbon. Then chemists asked why carbon made so many substances. In 1858 the German chemist August Kekulé and Archibald Couper from Scotland each gave the same answer. A carbon atom makes four bonds, and carbon atoms bond to each other in chains. In 1865 Kekulé proposed that six carbon atoms could also close into a ring. In 1929 Kathleen Lonsdale used X-rays to show that this ring is real, flat and six-sided.",
+  "who": "Friedrich Wöhler, Hermann Kolbe and August Kekulé from Germany, Archibald Couper from Scotland, and Kathleen Lonsdale in England",
   "when": "Wöhler made urea in 1828. Kolbe made the acid of vinegar in 1845. Kekulé and Couper published in 1858, and Kekulé proposed the ring in 1865. Lonsdale's X-ray work was published in 1929.",
   "wrong_idea": "That the substances of living things could be made only inside a living body, by a life force. Wöhler made urea from a mineral salt, and Kolbe made the acid of vinegar from carbon. So these substances follow the same chemistry as salt and rock.",
   "art": "A young chemist of the 1820s in a small laboratory, holding up a glass dish of white needle-shaped crystals to the light from a window."
@@ -2987,7 +2985,7 @@
     "link": "One element, carbon, is shaped into sugar, wood and fuel. The text is speaking of one reality behind all things, and it is not speaking of an element. The likeness is in the way of looking: ask what a thing is made of, beneath its name."
    },
    {
-    "source": "Thich Nhat Hanh, The Heart of Understanding (1988), chapter 1",
+    "source": "Thich Nhat Hanh, The Heart of Understanding, the chapter 'Interbeing'",
     "teaching": "Look deeply at a sheet of paper and you will see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper.",
     "link": "In The Black Inside, paper left carbon. That carbon was taken from the air by a tree, with water that fell as rain. The teaching and the chemistry trace the same path."
    },
@@ -3028,5 +3026,5 @@
   ],
   "art": "A child breathing out beside a potted tulsi plant, with a faint dotted trail of small black dots going from the child's breath to a leaf, and from a bowl of rice to the child."
  },
- "playtest": "Every experiment, activity and game was reasoned through step by step, for a family in a city flat. None has been tried at home yet. The Black Inside (core) needs an old tawa, foil and eight tiny pinches from the kitchen. A grown-up heats them for 8 minutes with the exhaust fan on. Sugar, thread, paper and onion skin should turn black well within that time. Atta is slower and may stop at dark brown, so the steps say to record what really happens. Salt can crackle and jump. The steel coin may pick up a faint yellow or blue tint, which is not charring. One Ring, Three Materials (core) needs glucose powder or sugar, cornflour and cotton wool. With 2 level teaspoons in 100 millilitres, the cornflour thickens clearly just before boiling. If you use table sugar, tell your child that sugar is two rings joined, not one. One Bond or Four (core) needs only paper and a pencil. Chain Line (core) needs the 12 cards cut out. Foil Packet Charcoal and The Drawing Stick need a gas stove, tongs and a grown-up. They make smoke for a few minutes, so open a window. If the sticks are brown inside, they need more heating. Keep the packet closed for the full 10 minutes, or the charcoal may start to glow. These two cannot be done on an induction stove. There, The Black Inside needs a flat steel pan, lined with foil. Five Carbons, Paper Chain Starch, Carbon Trail and The Carbon Hunt need only things already at home. These are coins, matchsticks, paper and a die. No part needs a garden. Facts to treat with care: chain lengths for petrol, kerosene, diesel, wax and tar are typical values, because each is a mixture. The figure of 100 million recorded substances is rounded. The black of ancient black-and-red bowls comes partly from carbon. It also comes from iron in the clay that got no air. The story's note says so. The three videos have no address yet."
+ "playtest": "Every experiment, activity and game was reasoned through step by step, for a family in a city flat. None has been tried at home yet. The Black Inside (core) needs an old tawa, foil and eight tiny pinches from the kitchen. A grown-up heats them for 8 minutes with the exhaust fan on. Sugar, thread, paper and onion skin should turn black well within that time. Atta is slower and may stop at dark brown, so the steps say to record what really happens. Salt can crackle and jump. The steel coin may pick up a faint yellow or blue tint, which is not charring. One Ring, Three Materials (core) needs glucose powder or sugar, cornflour and cotton wool. With 2 level teaspoons in 100 millilitres, the cornflour thickens clearly just before boiling. If you use table sugar, tell your child that sugar is two rings joined, not one. One Bond or Four (core) needs only paper and a pencil. Chain Line (core) needs the 12 cards cut out. Foil Packet Charcoal and The Drawing Stick need a gas stove, tongs and a grown-up. They make smoke for a few minutes, so open a window. If the sticks are brown inside, they need more heating. Keep the packet closed for the full 10 minutes, or the charcoal may start to glow. These two cannot be done on an induction stove. There, The Black Inside needs a flat steel pan, lined with foil. Five Carbons, Paper Chain Starch, Carbon Trail and The Carbon Hunt need only things already at home. These are coins, matchsticks, paper and a die. No part needs a garden. Facts checked on 17 Nov 2026: the paper citations and dates, the isomer counts, the boiling points, the carbon share of the body, Keeladi and Manamadurai. Softened: Lonsdale's place (Leeds removed), Kekulé's country (he was in Belgium in 1858), the black-and-red ware wording (now 'many archaeologists') and the Thich Nhat Hanh citation (year and chapter number removed). Chain lengths for petrol, kerosene, diesel, wax and tar stay typical values, because each is a mixture. The three videos have no address yet."
 }

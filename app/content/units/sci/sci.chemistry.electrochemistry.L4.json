@@ -316,7 +316,7 @@
   {
    "claim": "People made batteries in Iraq about 2,000 years ago.",
    "who": "Wilhelm König, who worked at the national museum in Baghdad, suggested this in 1938.",
-   "for": "A clay jar found near Baghdad held a copper tube with an iron rod inside. Copies filled with vinegar give about half a volt.",
+   "for": "A clay jar found near Baghdad held a copper tube with an iron rod inside. Copies filled with vinegar give a small voltage.",
    "against": "No wires were found with the jar, and no object that the current could have been used on. Similar jars held rolled-up writings. Most archaeologists think this one was for storage.",
    "status": "minority"
   },
@@ -2762,31 +2762,28 @@
  ],
  "videos": [
   {
-   "title": "A lemon battery lighting a small LED, with the zinc and the copper explained",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How to Make a Lemon Battery",
+   "channel": "SciShow",
+   "youtube": "GhbuhT1GDpI",
    "mins": 4,
    "why": "To see several lemon cells in a row light an LED, as in the Lemon Battery test.",
-   "check": "No address yet. Find a clip from a science teacher or a university. Check that it says the zinc gives the electrons. It must not call the lemon the source of the electricity."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Splitting water with electricity: hydrogen and oxygen collecting in two tubes",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Electrolysis of water in a Hoffman apparatus",
+   "channel": "Peter “mac” McEwan",
+   "youtube": "CaJzRfNIiBg",
    "mins": 4,
    "why": "To see that twice as much gas collects at the minus electrode as at the plus electrode.",
-   "check": "No address yet. Find a clip that collects both gases in tubes. Check that the hydrogen tube is at the minus electrode and holds twice as much gas."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How rust forms on iron, and how a zinc coat stops it",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Electrochemistry 3: Why iron rusts and how galvanising and chrome plating work.",
+   "channel": "FranklyChemistry",
+   "youtube": "lpRBnmSNea8",
    "mins": 5,
    "why": "To see a drawing of electrons moving through iron under a drop of water. It should also show a galvanised sheet being made.",
-   "check": "No address yet. Find a clip that shows iron losing electrons and oxygen taking them. Check that it says rust needs both water and oxygen."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2820,7 +2817,7 @@
    "art": "A tall dark iron pillar standing in a stone courtyard among old arches, with visitors looking up at it."
   },
   {
-   "text": "Painters at work on a steel railway bridge over the sea, such as the old Pamban Bridge to Rameswaram.",
+   "text": "Painters at work on a steel railway bridge over the sea, such as a long railway bridge over a sea channel.",
    "art": "A long steel railway bridge low over blue sea water, with two painters on a platform painting one of its girders."
   },
   {
@@ -3043,7 +3040,7 @@
    "url": "https://www.vismuseum.gov.in/",
    "kind": "place",
    "where": "Bengaluru",
-   "why": "Its electricity gallery has working models of cells and generators that children can try."
+   "why": "Its ElectroTechnic Gallery is about electricity, and the museum has a fun science gallery for children."
   },
   {
    "title": "The Iron Pillar in the Qutb complex",
@@ -3316,9 +3313,9 @@
    "Volta A. (1800). On the electricity excited by the mere contact of conducting substances of different kinds. Philosophical Transactions of the Royal Society 90: 403-431.",
    "Nicholson W. (1800). Account of the new electrical or galvanic apparatus of Sig. Alex. Volta, and experiments performed with the same. Journal of Natural Philosophy, Chemistry and the Arts 4.",
    "Davy H. (1807). The Bakerian Lecture: on some chemical agencies of electricity. Philosophical Transactions of the Royal Society 97: 1-56.",
-   "Davy H. (1824). On the corrosion of copper sheeting by sea water, and on methods of preventing this effect. Philosophical Transactions of the Royal Society 114: 151-158.",
+   "Davy H. (1824). On the corrosion of copper sheeting by sea water, and on methods of preventing this effect. Philosophical Transactions of the Royal Society 114.",
    "Faraday M. (1834). Experimental researches in electricity, seventh series. Philosophical Transactions of the Royal Society 124: 77-122.",
-   "Marcet J. (1806). Conversations on Chemistry. London: Longman.",
+   "Marcet J. (1805). Conversations on Chemistry. London: Longman.",
    "Evans U.R. (1960). The Corrosion and Oxidation of Metals. London: Edward Arnold. (The drop experiments of the 1920s.)",
    "Balasubramaniam R. (2000). On the corrosion resistance of the Delhi iron pillar. Corrosion Science 42: 2103-2129.",
    "König W. (1938). Ein galvanisches Element aus der Partherzeit? Forschungen und Fortschritte 14: 8-9.",
@@ -3332,9 +3329,9 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In 1800 Alessandro Volta in Italy built the first battery. It was a pile of zinc and copper discs with wet card between them. Volta believed that the electricity came simply from two different metals touching. He thought the wet card only carried it, and that nothing was used up. News of the pile reached London within weeks. On 2 May 1800, William Nicholson and Anthony Carlisle dipped its two wires into water. Bubbles rose from both wires. One gas was hydrogen and the other was oxygen. So electricity could cause a chemical change. Humphry Davy then argued the reverse: a chemical change inside the pile was making the electricity. He pointed out that the zinc discs were always eaten away. In the 1830s Michael Faraday settled the question by measuring. The amount of electricity a cell gave always matched the amount of zinc it lost. If touching alone made electricity, a battery would run for ever, and no battery does. Faraday had learned his first chemistry from a book by Jane Marcet, which she wrote mainly for girls and women.",
+  "story": "In 1800 Alessandro Volta in Italy built the first battery. It was a pile of zinc and copper discs with wet card between them. Volta believed that the electricity came simply from two different metals touching. He thought the wet card only carried it, and that nothing was used up. News of the pile reached London within weeks. In May 1800, William Nicholson and Anthony Carlisle dipped its two wires into water. Bubbles rose from both wires. One gas was hydrogen and the other was oxygen. So electricity could cause a chemical change. Humphry Davy then argued the reverse: a chemical change inside the pile was making the electricity. He pointed out that the zinc discs were always eaten away. In the 1830s Michael Faraday settled the question by measuring. The amount of electricity a cell gave always matched the amount of zinc it lost. If touching alone made electricity, a battery would run for ever, and no battery does. Faraday had learned his first chemistry from a book by Jane Marcet.",
   "who": "Alessandro Volta, William Nicholson and Anthony Carlisle, Humphry Davy and Michael Faraday. Jane Marcet wrote Conversations on Chemistry, the book that first taught Faraday the subject.",
-  "when": "Volta described his pile in 1800, and Nicholson and Carlisle split water on 2 May 1800. Faraday published his measurements in 1834.",
+  "when": "Volta described his pile in 1800, and Nicholson and Carlisle split water in May 1800. Faraday published his measurements in 1834.",
   "wrong_idea": "That two different metals make electricity just by touching, with nothing used up. Davy pointed out that the zinc is always eaten away. Faraday showed that the electricity a cell gives matches the zinc it loses.",
   "art": "A tall pile of grey and copper-coloured discs in a wooden frame on a table, with two wires from it dipping into a glass of water where bubbles rise from each wire."
  },
@@ -3374,7 +3371,7 @@
     "status": "settled"
    },
    {
-    "text": "Living cells get their energy by passing electrons from food to oxygen in small steps. Peter Mitchell worked out in 1961 how cells use this passing, and it is found in almost all living things.",
+    "text": "Living cells get their energy by passing electrons from food to oxygen in small steps. Peter Mitchell proposed in 1961 how cells use this passing, and it is found in almost all living things.",
     "status": "settled"
    },
    {
@@ -3399,5 +3396,5 @@
   ],
   "art": "A rusty iron gate on the left and a torch with its cells showing on the right, joined by a thin line of small dots that passes through a wire and a glowing bulb."
  },
- "playtest": "Every experiment, activity and game was reasoned through step by step for a city flat. None has yet been tried at home. Please treat the expected results as predictions. The Lemon Battery test (core) needs 2 lemons, 4 galvanised nails and 4 pieces of bare copper wire. It also needs wired earphones with a round plug. A cell of zinc and copper gives about 0.9 volts, which makes a clear crackle. Two pieces of the same metal should give silence, or a very faint tick if one piece is dirtier. If you have only wireless earphones, use a red LED with four cells in a dark room, or a multimeter. Indian coins are steel, so they cannot stand in for copper. With foil in place of zinc nails the crackles are fainter and the LED may not glow. The zinc nail should be dull and dark the next day. Rust in Ten Minutes (core) uses four AA cells, which give 6 volts. That is safe to touch, but the bare wire ends must never touch each other. The plus nail should give a green-grey cloud within one or two minutes, turning brown. The nails must be plain steel. A galvanised nail gives a white cloud. Give It Back is the least certain. The crackle after the cells are removed should be clear but short, so test within five seconds. With only two cells it may be too faint. Electric Writing needs paper that is damp, not dripping. The Bodyguard Nail works best with a real galvanised nail. Foil protects less well. In the Kitchen Pile, foil and copper cells are weak, and the LED may not light. No part uses a wall socket, a charger or a 9-volt battery. Facts to treat with care: the volts given are typical values and will differ from lemon to lemon. The 860 volts of the electric eel is the highest measured, from one study in 2019. The reason the Iron Pillar has not rusted is given as the leading explanation. Dry air is given as a second cause. Whether the Baghdad jar was a battery is marked as a minority view. The Chandogya, Tao Te Ching and Dhammapada lines are paraphrases. The three videos have no address yet."
+ "playtest": "Every experiment, activity and game was reasoned through step by step for a city flat. None has yet been tried at home. Please treat the expected results as predictions. The Lemon Battery test (core) needs 2 lemons, 4 galvanised nails and 4 pieces of bare copper wire. It also needs wired earphones with a round plug. A cell of zinc and copper gives about 0.9 volts, which makes a clear crackle. Two pieces of the same metal should give silence, or a very faint tick if one piece is dirtier. If you have only wireless earphones, use a red LED with four cells in a dark room, or a multimeter. Indian coins are steel, so they cannot stand in for copper. With foil in place of zinc nails the crackles are fainter and the LED may not glow. The zinc nail should be dull and dark the next day. Rust in Ten Minutes (core) uses four AA cells, which give 6 volts. That is safe to touch, but the bare wire ends must never touch each other. The plus nail should give a green-grey cloud within one or two minutes, turning brown. The nails must be plain steel. A galvanised nail gives a white cloud. Give It Back is the least certain. The crackle after the cells are removed should be clear but short, so test within five seconds. With only two cells it may be too faint. Electric Writing needs paper that is damp, not dripping. The Bodyguard Nail works best with a real galvanised nail. Foil protects less well. In the Kitchen Pile, foil and copper cells are weak, and the LED may not light. No part uses a wall socket, a charger or a 9-volt battery. Facts checked on 17 Nov 2026: the 860 volts of the electric eel (2019 study), the Iron Pillar age and rust explanation, the Mars dust study of 2025, the paper and book citations (the page numbers of Davy 1824 were removed, and Marcet's year was corrected to 1805), and Volta's 1800 pile. The exact day of the first water splitting was softened to May 1800, and the museum gallery claim was softened. The volts given for lemon cells are typical values and will differ from lemon to lemon. The Baghdad jar is marked as a minority view. The Chandogya, Tao Te Ching and Dhammapada lines are paraphrases. The three videos have no address yet."
 }

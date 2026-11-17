@@ -127,7 +127,7 @@ On the deep sea floor there are vents where warm water full of minerals seeps ou
 - A metal higher on the metal ladder protects a lower one that it touches. *How we know:* Galvanised steel stays free of rust at a scratch. Zinc blocks on ships are eaten away while the steel hull beside them is not.
 
 ## How we found out
-**Alessandro Volta, William Nicholson and Anthony Carlisle, Humphry Davy and Michael Faraday. Jane Marcet wrote Conversations on Chemistry, the book that first taught Faraday the subject., Volta described his pile in 1800, and Nicholson and Carlisle split water on 2 May 1800. Faraday published his measurements in 1834..** In 1800 Alessandro Volta in Italy built the first battery. It was a pile of zinc and copper discs with wet card between them. Volta believed that the electricity came simply from two different metals touching. He thought the wet card only carried it, and that nothing was used up. News of the pile reached London within weeks. On 2 May 1800, William Nicholson and Anthony Carlisle dipped its two wires into water. Bubbles rose from both wires. One gas was hydrogen and the other was oxygen. So electricity could cause a chemical change. Humphry Davy then argued the reverse: a chemical change inside the pile was making the electricity. He pointed out that the zinc discs were always eaten away. In the 1830s Michael Faraday settled the question by measuring. The amount of electricity a cell gave always matched the amount of zinc it lost. If touching alone made electricity, a battery would run for ever, and no battery does. Faraday had learned his first chemistry from a book by Jane Marcet, which she wrote mainly for girls and women.  
+**Alessandro Volta, William Nicholson and Anthony Carlisle, Humphry Davy and Michael Faraday. Jane Marcet wrote Conversations on Chemistry, the book that first taught Faraday the subject., Volta described his pile in 1800, and Nicholson and Carlisle split water in May 1800. Faraday published his measurements in 1834..** In 1800 Alessandro Volta in Italy built the first battery. It was a pile of zinc and copper discs with wet card between them. Volta believed that the electricity came simply from two different metals touching. He thought the wet card only carried it, and that nothing was used up. News of the pile reached London within weeks. In May 1800, William Nicholson and Anthony Carlisle dipped its two wires into water. Bubbles rose from both wires. One gas was hydrogen and the other was oxygen. So electricity could cause a chemical change. Humphry Davy then argued the reverse: a chemical change inside the pile was making the electricity. He pointed out that the zinc discs were always eaten away. In the 1830s Michael Faraday settled the question by measuring. The amount of electricity a cell gave always matched the amount of zinc it lost. If touching alone made electricity, a battery would run for ever, and no battery does. Faraday had learned his first chemistry from a book by Jane Marcet.  
 *What people believed before:* That two different metals make electricity just by touching, with nothing used up. Davy pointed out that the zinc is always eaten away. Faraday showed that the electricity a cell gives matches the zinc it loses.
 
 ## Challenging perspectives
@@ -135,7 +135,7 @@ On the deep sea floor there are vents where warm water full of minerals seeps ou
   For: Without the lemon nothing happens, and a dry, old lemon works badly.  
   Against: Two wires of the same metal in a lemon give nothing. The metals work just as well in salt water. The zinc is used up, and the lemon is only the path.
 - **People made batteries in Iraq about 2,000 years ago.** (Wilhelm König, who worked at the national museum in Baghdad, suggested this in 1938.; *minority*)  
-  For: A clay jar found near Baghdad held a copper tube with an iron rod inside. Copies filled with vinegar give about half a volt.  
+  For: A clay jar found near Baghdad held a copper tube with an iron rod inside. Copies filled with vinegar give a small voltage.  
   Against: No wires were found with the jar, and no object that the current could have been used on. Similar jars held rolled-up writings. Most archaeologists think this one was for storage.
 - **Stainless steel never rusts.** (The name says so, and most people believe it.; *rejected*)  
   For: A stainless steel tumbler holds water for years and stays bright.  
@@ -164,7 +164,7 @@ A battery, a rusting gate, a breathing child and a bacterium in mud look like fo
 - **Tao Te Ching, chapter 40:** The chapter begins by saying that returning is how the Way moves. (The text is about nature as a whole, and it is not about chemistry. Yet every change in this unit could be turned back. Charging pushes a battery's change backwards. In Give It Back, the gases from split water joined again and made the earphones crackle. Rusting returns iron to what it was in the ground.)
 - **Dhammapada, verse 277:** The Buddha says that all things that are put together are impermanent. (The verse is about how to live, and it is not about metals. Yet iron shows it plainly. Every iron thing is slowly going back to the oxide it was made from. Paint and zinc slow the return, and they do not end it.)
 - Science (settled): Iron ore is iron joined to oxygen. Making steel separates the two, and rusting joins them again.
-- Science (settled): Living cells get their energy by passing electrons from food to oxygen in small steps. Peter Mitchell worked out in 1961 how cells use this passing, and it is found in almost all living things.
+- Science (settled): Living cells get their energy by passing electrons from food to oxygen in small steps. Peter Mitchell proposed in 1961 how cells use this passing, and it is found in almost all living things.
 - Science (idea): Life may have begun at deep-sea vents. Rocks and sea water there made a natural electrical difference, like the two sides of a cell.
 - Other view, Aristotle, in his Physics, Book 2: To understand a thing, you must know what it is for, as well as what it is made of. A battery is made for a purpose, and rust is made for none. On this view, calling a battery and rust the same change leaves out what matters most about each.
 - Practice, One breath, followed inwards (3 min): Sit still and hold a steel spoon in your closed hand. Breathe in slowly. The oxygen you just took in is travelling to every cell of your body. In each cell it takes electrons that came from your food. Breathe out slowly. Now feel the spoon. It has grown warm. That warmth came from electrons passing to oxygen inside you. The spoon is steel, and it would take years of rain to pass its electrons to oxygen. Which of you two is changing faster?
@@ -679,9 +679,9 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
    **Answer:** A drop on a plate, with a pit under the middle of the drop. Arrows run through the metal from the middle to the edge. A ring of rust lies near the edge.. *Why:* A strong drawing puts the eaten spot and the rust in different places, joined by electrons moving through the steel.
 
 ## Videos
-- **A lemon battery lighting a small LED, with the zinc and the copper explained** (, 4 min) id `to find`: To see several lemon cells in a row light an LED, as in the Lemon Battery test. *Check:* No address yet. Find a clip from a science teacher or a university. Check that it says the zinc gives the electrons. It must not call the lemon the source of the electricity.
-- **Splitting water with electricity: hydrogen and oxygen collecting in two tubes** (, 4 min) id `to find`: To see that twice as much gas collects at the minus electrode as at the plus electrode. *Check:* No address yet. Find a clip that collects both gases in tubes. Check that the hydrogen tube is at the minus electrode and holds twice as much gas.
-- **How rust forms on iron, and how a zinc coat stops it** (, 5 min) id `to find`: To see a drawing of electrons moving through iron under a drop of water. It should also show a galvanised sheet being made. *Check:* No address yet. Find a clip that shows iron losing electrons and oxygen taking them. Check that it says rust needs both water and oxygen.
+- **How to Make a Lemon Battery** (SciShow, 4 min) id `GhbuhT1GDpI`: To see several lemon cells in a row light an LED, as in the Lemon Battery test. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Electrolysis of water in a Hoffman apparatus** (Peter “mac” McEwan, 4 min) id `CaJzRfNIiBg`: To see that twice as much gas collects at the minus electrode as at the plus electrode. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Electrochemistry 3: Why iron rusts and how galvanising and chrome plating work.** (FranklyChemistry, 5 min) id `lpRBnmSNea8`: To see a drawing of electrons moving through iron under a drop of water. It should also show a galvanised sheet being made. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which pair, pushed into a lemon, makes electrons flow through a wire?  
@@ -736,7 +736,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - A white or green crust on the ends of old cells inside a TV remote.
 - Green patches on an old brass lamp or a copper pot.
 - The Iron Pillar in the Qutb complex in Delhi. It has stood in the open for about 1,600 years with very little rust.
-- Painters at work on a steel railway bridge over the sea, such as the old Pamban Bridge to Rameswaram.
+- Painters at work on a steel railway bridge over the sea, such as a long railway bridge over a sea channel.
 - E-rickshaws and electric autos plugged in at a charging stand.
 
 ## Open questions
@@ -786,7 +786,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Voltaic pile (Wikipedia)](https://en.wikipedia.org/wiki/Voltaic_pile) · interactive: For the parent: how Volta built the first battery, with pictures of it.
 - [Iron pillar of Delhi (Wikipedia)](https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi) · interactive: For the parent: what the pillar is made of and why it has rusted so little.
 - [Circuit Construction Kit: DC (PhET, University of Colorado)](https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc) · simulation: Join cells in a row on screen and read the volts with a meter, with no real cells needed.
-- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: Its electricity gallery has working models of cells and generators that children can try.
+- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: Its ElectroTechnic Gallery is about electricity, and the museum has a fun science gallery for children.
 - [The Iron Pillar in the Qutb complex]() · place · Delhi: Stand beside an iron pillar that has been in the open for about 1,600 years, and look for rust.
 
 ## Things to buy
@@ -818,9 +818,9 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Volta A. (1800). On the electricity excited by the mere contact of conducting substances of different kinds. Philosophical Transactions of the Royal Society 90: 403-431.
 - Nicholson W. (1800). Account of the new electrical or galvanic apparatus of Sig. Alex. Volta, and experiments performed with the same. Journal of Natural Philosophy, Chemistry and the Arts 4.
 - Davy H. (1807). The Bakerian Lecture: on some chemical agencies of electricity. Philosophical Transactions of the Royal Society 97: 1-56.
-- Davy H. (1824). On the corrosion of copper sheeting by sea water, and on methods of preventing this effect. Philosophical Transactions of the Royal Society 114: 151-158.
+- Davy H. (1824). On the corrosion of copper sheeting by sea water, and on methods of preventing this effect. Philosophical Transactions of the Royal Society 114.
 - Faraday M. (1834). Experimental researches in electricity, seventh series. Philosophical Transactions of the Royal Society 124: 77-122.
-- Marcet J. (1806). Conversations on Chemistry. London: Longman.
+- Marcet J. (1805). Conversations on Chemistry. London: Longman.
 - Evans U.R. (1960). The Corrosion and Oxidation of Metals. London: Edward Arnold. (The drop experiments of the 1920s.)
 - Balasubramaniam R. (2000). On the corrosion resistance of the Delhi iron pillar. Corrosion Science 42: 2103-2129.
 - König W. (1938). Ein galvanisches Element aus der Partherzeit? Forschungen und Fortschritte 14: 8-9.

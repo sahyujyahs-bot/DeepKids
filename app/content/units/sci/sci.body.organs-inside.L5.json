@@ -140,7 +140,7 @@
   {
    "term": "Bone marrow",
    "meaning": "The soft tissue inside many bones. Red bone marrow makes new blood cells.",
-   "example": "The marrow in your hip bones, ribs and backbone makes about 2 million red blood cells every second.",
+   "example": "The marrow in your hip bones, ribs and backbone makes millions of red blood cells every second.",
    "art": "A long bone cut open to show soft red tissue inside, with tiny red discs leaving into a blood vessel."
   },
   {
@@ -189,7 +189,7 @@
    "concept": "The digestive system: from food to blood",
    "status": "defined",
    "definition": "The digestive system breaks food into pieces small enough to pass into the blood, and pushes out what is left.",
-   "description": "Food travels along one tube. The tube runs from the mouth down the food pipe to the stomach. It goes on through the small intestine and the large intestine, and ends at the anus. Teeth break the food, and saliva wets it and starts to digest starch. The stomach churns the food with acid. In the small intestine, which is about 6 metres long in a grown-up, juices finish the digesting. The digested food passes through the wall into the blood. The large intestine takes back water. What is left leaves as faeces. Two organs help without food ever passing through them. The liver makes bile, which breaks fat into tiny droplets. The pancreas makes a juice that digests starch, protein and fat. The liver is the heaviest organ inside the body. A grown-up's liver weighs about one and a half kilograms. It also stores sugar as glycogen, and it changes many poisons into safer substances.",
+   "description": "Food travels along one tube. The tube runs from the mouth down the food pipe to the stomach. It goes on through the small intestine and the large intestine, and ends at the anus. Teeth break the food, and saliva wets it and starts to digest starch. The stomach churns the food with acid. In the small intestine, which is several metres long in a grown-up, juices finish the digesting. The digested food passes through the wall into the blood. The large intestine takes back water. What is left leaves as faeces. Two organs help without food ever passing through them. The liver makes bile, which breaks fat into tiny droplets. The pancreas makes a juice that digests starch, protein and fat. The liver is the heaviest organ inside the body. A grown-up's liver weighs about one and a half kilograms. It also stores sugar as glycogen, and it changes many poisons into safer substances.",
    "examples": [
     "Rice is starch. Digestion cuts starch into sugar, and the sugar enters the blood.",
     "Dal and egg hold protein. Digestion cuts protein into small units called amino acids.",
@@ -282,7 +282,7 @@
    "concept": "Systems working together: handing things over",
    "status": "defined",
    "definition": "Every job the body does needs several organ systems, each passing something to the next.",
-   "description": "Take climbing three floors of stairs. The cerebrum decides to climb, and nerves carry signals to the leg muscles. The muscles pull on the bones. Working muscle cells need more oxygen and more sugar. The lungs pass oxygen to the blood. The small intestine passed sugar to the blood after breakfast, and the liver adds more from its glycogen. The heart pumps the blood to the muscles. The muscles hand back carbon dioxide and heat. The blood carries the carbon dioxide to the lungs and the heat to the skin. The brainstem senses the extra carbon dioxide and speeds up the breathing and the heart. The blood itself is shared out again. At rest, a grown-up's heart pumps about 5 litres a minute. The gut, the liver and the kidneys take almost half of it. In hard exercise the heart pumps about 20 litres a minute, and about four fifths goes to the muscles. The gut and the kidneys get less than half of what they had at rest, so digestion slows. The brain gets about the same amount as before. You model this with beans in the Hundred Beans.",
+   "description": "Take climbing three floors of stairs. The cerebrum decides to climb, and nerves carry signals to the leg muscles. The muscles pull on the bones. Working muscle cells need more oxygen and more sugar. The lungs pass oxygen to the blood. The small intestine passed sugar to the blood after breakfast, and the liver adds more from its glycogen. The heart pumps the blood to the muscles. The muscles hand back carbon dioxide and heat. The blood carries the carbon dioxide to the lungs and the heat to the skin. The brainstem senses the extra carbon dioxide and speeds up the breathing and the heart. The blood itself is shared out again. At rest, a grown-up's heart pumps about 5 litres a minute. The gut, the liver and the kidneys take almost half of it. In hard exercise the heart can pump about 20 litres a minute, and roughly four fifths goes to the muscles. The gut and the kidneys get less than half of what they had at rest, so digestion slows. The brain gets about the same amount as before. You model this with beans in the Hundred Beans.",
    "examples": [
     "Eating a dosa: muscles chew, the digestive system digests, the blood carries the sugar, the pancreas sends insulin.",
     "A hot afternoon: the skin sweats, the kidneys save water, the brain makes you thirsty.",
@@ -562,7 +562,7 @@
        "b": "Digestive. The stomach churns food with acid."
       },
       {
-       "f": "Small intestine: a coiled tube about 6 metres long in a grown-up",
+       "f": "Small intestine: a coiled tube several metres long in a grown-up",
        "b": "Digestive. Most food is digested here and passes into the blood."
       },
       {
@@ -1357,7 +1357,7 @@
        ]
       }
      ],
-     "parent": "The air stops at every swallow, for about one second. In studies of grown-ups, the first breath afterwards is out in about 8 swallows of 10. Children vary more, so write what you really found. The reason: the throat is shared by air and food. During a swallow, the brainstem stops the breathing, the voice box lifts and the epiglottis covers the windpipe. Scientists think breathing out afterwards helps to clear any drops left near the opening.",
+     "parent": "The air stops at every swallow, for about one second. In studies of grown-ups, the first breath afterwards is usually out. Children vary more, so write what you really found. The reason: the throat is shared by air and food. During a swallow, the brainstem stops the breathing, the voice box lifts and the epiglottis covers the windpipe. Scientists think breathing out afterwards helps to clear any drops left near the opening.",
      "context": "This is the last step of the Swallow Pause. You count your tallies and say what they show about breathing and swallowing."
     }
    ]
@@ -2777,37 +2777,18 @@
  ],
  "videos": [
   {
-   "title": "An X-ray film of a person swallowing, showing the voice box lift and the epiglottis fold over the windpipe",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "To see what your fingers felt in Say It While You Swallow, and why breathing stops at each swallow.",
-   "check": "No address yet. Find a short swallow study from a hospital or a university. Check that the windpipe and the food pipe are labelled. Watch it first, because some children find pictures from inside a body unpleasant."
-  },
-  {
-   "title": "An animation of the heart's four chambers and the two loops of blood, to the lungs and to the body",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Cardiovascular System Overview, Animation",
+   "channel": "Alila Medical Media",
+   "youtube": "28CYhgjrBLA",
    "mins": 4,
    "why": "To watch the blood pass through the heart twice on each trip, which is hard to picture from a drawing.",
-   "check": "No address yet. Find an animation from a medical school, a heart charity or a well-known science channel. Check that the right side pumps to the lungs and the left side to the body. Check that the colours for oxygen are explained."
-  },
-  {
-   "title": "A kabaddi raid shown in full, with the raider's chant heard clearly",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 2,
-   "why": "To hear a raider chant on one breath while running and dodging, as in the story Sadugudu on One Breath.",
-   "check": "No address yet. Find a clip from a school, state or national match where the chant can be heard. Many television clips cover the chant with commentary, so listen before you choose."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
   "Surgeons can move a healthy kidney from one person into another. The first lasting kidney transplant was done in Boston in 1954, between identical twin brothers. Surgeons in many Indian cities now transplant kidneys, livers and hearts.",
   "A living person can give away part of their liver. The part that is left and the part that was given both grow. Each reaches nearly full size within a few months.",
-  "A dialysis machine does the work of failed kidneys. The Dutch doctor Willem Kolff built the first working one in 1943. It takes urea, spare water and spare salt out of the blood.",
+  "A dialysis machine does the work of failed kidneys. The Dutch doctor Willem Kolff built the first working one in the 1940s. It takes urea, spare water and spare salt out of the blood.",
   "A small clip on a fingertip, called a pulse oximeter, measures how much oxygen the blood is carrying. Many families first saw one during the covid years.",
   "Athletes use the 'talk test'. If you can still speak in full sentences while you run, the effort is moderate. If you can manage only a word or two, it is hard.",
   "Singers and players of the nadaswaram, the flute and the shehnai train their breathing. They breathe in quickly and let the air out slowly. They are managing the one stream of air that breath and sound share.",
@@ -3146,7 +3127,7 @@
    [
     "Bone marrow makes blood cells.",
     true,
-    "Red marrow inside the hips, ribs and backbone makes about 2 million red blood cells a second."
+    "Red marrow inside the hips, ribs and backbone makes millions of red blood cells every second."
    ],
    [
     "In hard exercise, the gut gets more blood than at rest.",
@@ -3291,8 +3272,8 @@
  },
  "how_we_found_out": {
   "context": "How did people find out that an organ can have more than one job? This card tells the true story of the liver and sugar.",
-  "story": "In the 1840s, most scientists held two ideas. The first was that each organ had one job, and the liver's job was to make bile. The second was that only plants could make sugar, and animals could only use it up. In 1848 the French scientist Claude Bernard fed dogs on meat alone, with no sugar or starch. He still found sugar in the blood leaving their livers. Was the sugar left over from older meals? In 1855 he washed water through the vessels of a liver until no more sugar came out. He left the liver until the next day. By then it was full of sugar again. The liver was making sugar from a store of its own. In 1857 he separated that store as a white powder and named it glycogen. So the liver had at least two jobs, and through the blood it fed every other organ. Bernard tested living dogs, and many people thought this cruel. His wife, Fanny Martin, was one of them.",
-  "who": "Claude Bernard, a French scientist, and his wife Fanny Martin, who opposed his tests on animals",
+  "story": "In the 1840s, most scientists held two ideas. The first was that each organ had one job, and the liver's job was to make bile. The second was that only plants could make sugar, and animals could only use it up. In 1848 the French scientist Claude Bernard fed dogs on meat alone, with no sugar or starch. He still found sugar in the blood leaving their livers. Was the sugar left over from older meals? In 1855 he washed water through the vessels of a liver until no more sugar came out. He left the liver until the next day. By then it was full of sugar again. The liver was making sugar from a store of its own. In 1857 he separated that store in pure form and named it glycogen. So the liver had at least two jobs, and through the blood it fed every other organ. Bernard tested living dogs, and many people thought this cruel. His wife, Fanny Martin, grew critical of his experiments on animals.",
+  "who": "Claude Bernard, a French scientist, and his wife Fanny Martin, who grew critical of his tests on animals",
   "when": "1848 (sugar found in blood leaving the liver), 1855 (the washed liver) and 1857 (glycogen)",
   "wrong_idea": "That each organ has one job, and that animals cannot make sugar. Bernard showed that a liver washed clean of sugar makes sugar again, so the liver does more than make bile.",
   "art": "A nineteenth-century laboratory bench with a glass dish holding a liver, a jug of water and a row of test tubes, and a man in a dark apron writing in a notebook."
@@ -3353,5 +3334,5 @@
   ],
   "art": "A child sitting cross-legged with one hand on her throat and one on her chest, with a faint drawing inside her of one passage that divides into a windpipe and a food pipe."
  },
- "playtest": "Every experiment, activity, game, project and challenge was reasoned through step by step. Each was pictured as a parent and child would do it in a city flat. None of them has been tried at home yet, so treat the expected results as likely, not certain. One Breath Count (core) needs a phone stopwatch, a clock and a low step, or jogging on the spot. A child of ten usually counts for 12 to 25 seconds at rest. Straight after a minute of step-ups the count is usually 4 to 8 seconds. It is nearly back after 3 minutes. Counts depend on how loudly and how fast the child counts, so keep both the same. The whole test takes about 40 minutes, with two runs and a 5-minute rest. The Swallow Pause (core) needs only water and a wet finger. The pause in breathing is easy to feel. Whether the next breath is out or in is harder to judge, and the cold spoon helps. The figure of about 8 swallows in 10 comes from studies of grown-ups, and children vary more. Beans and Threes needs 40 large beans and two bowls. A few children who are very quick at mental sums show little slowing. For them, count backwards in sevens. The Hundred Beans (core) needs 100 beans and seven bowls or paper labels. Its figures are rounded textbook values for a grown-up, not measurements of a child. Your Largest Organ uses the doctors' rule that one hand is about one hundredth of the skin. The rule is rough, and it gives a slightly low answer for grown-ups. Ruling the squares takes about 5 minutes. The Layer Book needs five see-through sheets. Thin white paper held against a window works if there is no tracing paper. The Throat Switch needs cardboard, tape and thread, and a grown-up to cut. The thread design works on the first or second try. The design with no thread is hard, and that difficulty is part of the challenge. Which System? has 24 cards, 10 of them with two systems, so the best score alone is 34. Chain It can be played alone by scoring against the backs of the cards. Nothing needs a garden or an animal. Some figures are rounded estimates. These are the number of cells in the body, the 2 million red blood cells a second and the 180 litres filtered by the kidneys. The share of blood to each organ is rounded too. The Upanishad passage and the line from Marcus Aurelius are given as paraphrases. The three videos have no address yet."
+ "playtest": "Every experiment, activity, game, project and challenge was reasoned through step by step. Each was pictured as a parent and child would do it in a city flat. None of them has been tried at home yet, so treat the expected results as likely, not certain. One Breath Count (core) needs a phone stopwatch, a clock and a low step, or jogging on the spot. A child of ten usually counts for 12 to 25 seconds at rest. Straight after a minute of step-ups the count is usually 4 to 8 seconds. It is nearly back after 3 minutes. Counts depend on how loudly and how fast the child counts, so keep both the same. The whole test takes about 40 minutes, with two runs and a 5-minute rest. The Swallow Pause (core) needs only water and a wet finger. The pause in breathing is easy to feel. Whether the next breath is out or in is harder to judge, and the cold spoon helps. Studies of grown-ups find that the first breath after a swallow is usually out, and children vary more. Beans and Threes needs 40 large beans and two bowls. A few children who are very quick at mental sums show little slowing. For them, count backwards in sevens. The Hundred Beans (core) needs 100 beans and seven bowls or paper labels. Its figures are rounded textbook values for a grown-up, not measurements of a child. Your Largest Organ uses the doctors' rule that one hand is about one hundredth of the skin. The rule is rough, and it gives a slightly low answer for grown-ups. Ruling the squares takes about 5 minutes. The Layer Book needs five see-through sheets. Thin white paper held against a window works if there is no tracing paper. The Throat Switch needs cardboard, tape and thread, and a grown-up to cut. The thread design works on the first or second try. The design with no thread is hard, and that difficulty is part of the challenge. Which System? has 24 cards, 10 of them with two systems, so the best score alone is 34. Chain It can be played alone by scoring against the backs of the cards. Nothing needs a garden or an animal. Facts checked on 17 Nov 2026 against published sources: the cell count (about 30 trillion), the kidney filtering figure, the dates, names and papers in the stories, the transplant and dialysis facts, and the museum links. Softened: the red blood cell rate (now 'millions a second'), the length of the small intestine, the swallow breathing pattern, and the share of blood to the muscles in hard exercise. The Upanishad passage and the line from Marcus Aurelius are given as paraphrases. The three videos have no address yet."
 }

@@ -152,7 +152,7 @@
    "status": "defined",
    "context": "This card explains the experiment Three Solids, Three Tests. In it, salt cracked when pressed and stayed solid over a candle flame.",
    "definition": "An ionic solid is hard and brittle, and it melts only at a very high temperature. This is because every ion is held by strong attractions on all sides.",
-   "description": "In Three Solids, Three Tests, the salt cracked under the spoon. It did not melt over the candle, and it dissolved in water. To melt salt, the ions must break free of all their neighbours. That needs about 800 degrees Celsius. A candle flame warms a spoon to a few hundred degrees at most. Salt is hard for the same reason. It is brittle because of the pattern. Press hard, and one layer of ions slips one place sideways. Now plus ions sit next to plus ions, and minus next to minus. Like charges repel each other. So the two layers push apart, and the crystal splits along a flat face. Water takes salt apart more gently. Water molecules attract the ions and pull them out of the lattice one by one.",
+   "description": "In Three Solids, Three Tests, the salt cracked under the spoon. It did not melt over the candle, and it dissolved in water. To melt salt, the ions must break free of all their neighbours. That needs about 800 degrees Celsius. A spoon held over a candle does not get that hot. Salt is hard for the same reason. It is brittle because of the pattern. Press hard, and one layer of ions slips one place sideways. Now plus ions sit next to plus ions, and minus next to minus. Like charges repel each other. So the two layers push apart, and the crystal splits along a flat face. Water takes salt apart more gently. Water molecules attract the ions and pull them out of the lattice one by one.",
    "examples": [
     "A crystal of rock salt breaks into pieces with flat faces.",
     "Salt stays solid on a hot dosa tawa.",
@@ -244,7 +244,7 @@
    "concept": "Bonds can change under pressure: hydrogen inside Jupiter",
    "status": "idea",
    "definition": "Hydrogen on Earth is a gas of covalent molecules. Scientists think that deep inside Jupiter, it is squeezed into a liquid metal.",
-   "description": "The kind of bond is not fixed for ever by the kind of atom. It also depends on how hard the atoms are pressed together. In 1935 Eugene Wigner and Hillard Huntington worked out that hydrogen should become a metal under great pressure. The atoms would be pushed so close that their electrons would be shared by all. In 1996 a team in California squeezed liquid hydrogen with a shock for a tiny moment. It carried electricity like a metal. Deep inside Jupiter the pressure is millions of times greater than our air pressure. Scientists think most of Jupiter's hydrogen is a liquid metal. Currents in it would explain Jupiter's very strong magnetism. Nobody has been there to check. In 2017 two scientists at Harvard reported solid metallic hydrogen made in a laboratory. Other teams have not been able to repeat it.",
+   "description": "The kind of bond is not fixed for ever by the kind of atom. It also depends on how hard the atoms are pressed together. In 1935 Eugene Wigner and Hillard Huntington worked out that hydrogen should become a metal under great pressure. The atoms would be pushed so close that their electrons would be shared by all. In 1996 a team in California squeezed liquid hydrogen with a shock for a tiny moment. It carried electricity like a metal. Deep inside Jupiter the pressure is millions of times greater than our air pressure. Scientists think most of Jupiter's hydrogen is a liquid metal. Currents in it would explain Jupiter's very strong magnetism. Nobody has been there to check. In 2017 two scientists at Harvard reported solid metallic hydrogen made in a laboratory. Other teams doubt the result, and it has not been confirmed.",
    "examples": [
     "Hydrogen gas in a balloon is made of molecules of two atoms.",
     "Jupiter's magnetism is the strongest of any planet.",
@@ -282,7 +282,7 @@
   },
   {
    "text": "Melted or dissolved salts carry electricity, because their ions move.",
-   "evidence": "In 1807 Humphry Davy passed electricity through melted potash and got potassium metal. In 1834 Michael Faraday named the moving particles ions. In 1884 Svante Arrhenius showed that the ions are already present in salt water before any current flows."
+   "evidence": "In 1807 Humphry Davy passed electricity through melted potash and got potassium metal. In 1834 Michael Faraday began to call the moving particles ions. In the 1880s Svante Arrhenius showed that the ions are already present in salt water before any current flows."
   },
   {
    "text": "The electricity in a metal is carried by electrons that are free to move.",
@@ -311,9 +311,9 @@
   },
   {
    "claim": "Salt water has no ions until an electric current makes them.",
-   "who": "Michael Faraday and most chemists before 1884.",
+   "who": "Michael Faraday and most chemists before the 1880s.",
    "for": "Ions were first noticed only when a current was flowing.",
-   "against": "Svante Arrhenius showed in 1884 that dissolved salt is already split into ions. Salt lowers the freezing point of water about twice as much as the same number of sugar molecules. That fits two particles for every unit of salt.",
+   "against": "Svante Arrhenius showed in the 1880s that dissolved salt is already split into ions. Salt lowers the freezing point of water about twice as much as the same number of sugar molecules. That fits two particles for every unit of salt.",
    "status": "rejected"
   },
   {
@@ -341,7 +341,7 @@
    "claim": "Hydrogen, the lightest gas, becomes a metal if it is squeezed hard enough.",
    "who": "Eugene Wigner and Hillard Huntington in 1935.",
    "for": "Liquid hydrogen squeezed by a shock carried electricity like a metal in 1996. Jupiter's strong magnetism fits a deep layer of metallic hydrogen.",
-   "against": "Solid metallic hydrogen was reported in 2017, but no other team has repeated it. The pressure needed is very hard to reach and to measure.",
+   "against": "Solid metallic hydrogen was reported in 2017, but other teams doubt it and it has not been confirmed. The pressure needed is very hard to reach and to measure.",
    "status": "debated"
   }
  ],
@@ -372,7 +372,7 @@
    "hint": "Think about salt, food, the sea and the rocks that rivers wear down."
   },
   {
-   "q": "Lawrence Bragg was 23, and a famous older chemist called his idea absurd. How should people decide whom to trust?",
+   "q": "Lawrence Bragg was 23, and a famous older chemist argued against his idea. How should people decide whom to trust?",
    "kind": "big",
    "hint": "Think about what each of them could show, and whether other people could repeat it."
   }
@@ -381,7 +381,7 @@
   "title": "The Bell That Sang at Dawn",
   "mins": 10,
   "read_aloud": true,
-  "note": "Poongodi, Aachi, Kathir and Mumtaz are made up. These facts are real. Vedaranyam is a town on the coast of Tamil Nadu where people have made salt from sea water for centuries. Sea wind leaves a thin crust of salt on things near the shore. Sea salt takes in water from damp air. A musical doorbell starts playing when a very small current passes between the two contacts of its button. Such bells often ring by themselves in rain or mist. Electricity companies near the sea wash salt off their power lines for the same reason.",
+  "note": "Poongodi, Aachi, Kathir and Mumtaz are made up. These facts are real. Vedaranyam is a town on the coast of Tamil Nadu where people make salt from sea water. Sea wind leaves a thin crust of salt on things near the shore. Sea salt takes in water from damp air. A musical doorbell starts playing when a very small current passes between the two contacts of its button. Such bells can ring by themselves in rain or mist.",
   "text": [
    "The bell sang at ten to six in the morning, and nobody was at the gate.",
    "Poongodi heard it from her mat. It was the new bell that her aunt had brought from Nagapattinam. It ran on two pencil cells, and it played a tune like a film song. Its button was screwed to the gatepost, facing the sea road.",
@@ -2615,31 +2615,28 @@
  ],
  "videos": [
   {
-   "title": "An animation of sodium and chlorine forming salt, and of the salt lattice",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "A look at the formation of Sodium Chloride salt - considering the formation of ions and crystals",
+   "channel": "FranklyChemistry",
+   "youtube": "DxAxyzCyru8",
    "mins": 4,
    "why": "To see an electron move from sodium to chlorine, and the ions pack into a lattice with no pairs.",
-   "check": "No address yet. Find an animation from a university, a science museum or a well-known science channel. Check that it shows a lattice with six neighbours for each ion. It should not draw separate NaCl molecules."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "A conductivity test: a bulb in dry salt, in pure water and in salt water",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "IGCSE Chemistry - Demonstrating the electrical conductivity of salt solution",
+   "channel": "Nigel Baldwin",
+   "youtube": "WIaWQZYGBzw",
    "mins": 4,
    "why": "To see the same result as Dry Salt, Wet Salt with a lamp in place of bubbles.",
-   "check": "No address yet. Find a school laboratory demonstration. Check that it tests dry salt and pure water separately before salt water. Tell children that a mains lamp tester is never to be copied at home."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Gold or silver being beaten into leaf by hand",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The Art of Gold Beating (1959) | British Pathé",
+   "channel": "British Pathé",
+   "youtube": "2Lak64SAaIY",
    "mins": 4,
    "why": "To see how far a metal can be flattened without breaking. The foil in Three Solids, Three Tests flattened in the same way.",
-   "check": "No address yet. Find a clip of craftspeople beating gold or silver leaf, for example in Hyderabad or Jaipur. Check that it shows the metal getting thinner under the hammer."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2683,7 +2680,7 @@
   },
   {
    "q": "Can solid metallic hydrogen be made and kept?",
-   "why_open": "It was reported in 2017, but nobody has repeated it. The pressure needed is close to the limit of what diamond tools can stand."
+   "why_open": "It was reported in 2017, but other teams doubt it and it has not been confirmed. The pressure needed is close to the limit of what diamond tools can stand."
   },
   {
    "q": "What is the hydrogen deep inside Jupiter and Saturn like?",
@@ -2775,9 +2772,9 @@
    "why_maths": "Comparing each melting point with the spoon's temperature predicts the result before the test."
   },
   {
-   "problem": "One gram of gold can be beaten into leaf that covers about 5,000 square centimetres. A square leaf is 10 centimetres long and 10 centimetres wide. How many such leaves does one gram make?",
-   "answer": "50 leaves.",
-   "explain": "One leaf covers 10 times 10, which is 100 square centimetres. 5,000 divided by 100 is 50.",
+   "problem": "One gram of gold can be beaten into leaf that covers nearly 1 square metre, which is about 10,000 square centimetres. A square leaf is 10 centimetres long and 10 centimetres wide. How many such leaves does one gram make?",
+   "answer": "100 leaves.",
+   "explain": "One leaf covers 10 times 10, which is 100 square centimetres. 10,000 divided by 100 is 100.",
    "math_unit": "math.division.division-facts.L4",
    "how": "e1",
    "context": "In Three Solids, Three Tests a ball of aluminium foil flattened under a spoon and did not break. Gold flattens even further.",
@@ -2842,13 +2839,13 @@
    "title": "Sugar and Salt Solutions (PhET, University of Colorado)",
    "url": "https://phet.colorado.edu/en/simulations/sugar-and-salt-solutions",
    "kind": "simulation",
-   "why": "For the child with a parent: add salt or sugar to water and watch a bulb. It may need a computer, not a phone."
+   "why": "For the child with a parent: add salt or sugar to water and see how it changes the conductivity. It may need a computer, not a phone."
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
-   "url": "https://ncsm.gov.in/",
+   "url": "https://vismuseum.gov.in/",
    "kind": "place",
-   "why": "Its galleries on materials and electricity let children handle metals and circuits.",
+   "why": "It has hands-on science galleries, including one on electricity and a Fun Science gallery.",
    "where": "Bengaluru"
   },
   {
@@ -3105,7 +3102,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "Before 1913, chemists were sure that salt was made of molecules. Each molecule was thought to be one sodium atom joined to one chlorine atom. In 1912 William Bragg and his son Lawrence, in England, began to shine X-rays through crystals. The rays bounced off the layers of atoms and made a pattern of spots on a photographic plate. From the spots, the two men could work out where the atoms sat. In 1913 Lawrence, aged 23, worked out the pattern of salt. There were no pairs at all. Sodium and chlorine sat in turns, like the squares of a chessboard. Each had six of the other kind around it. Many chemists disliked this. In 1927 the well-known chemist Henry Armstrong wrote to the journal Nature. He called the chessboard idea 'repugnant to common sense'. But every later measurement agreed with the Braggs. In 1915 father and son shared the Nobel Prize in Physics. Lawrence was 25, and nobody younger has won that prize.",
+  "story": "Before 1913, chemists were sure that salt was made of molecules. Each molecule was thought to be one sodium atom joined to one chlorine atom. In 1912 William Bragg and his son Lawrence, in England, began to shine X-rays through crystals. The rays bounced off the layers of atoms and made a pattern of spots on a photographic plate. From the spots, the two men could work out where the atoms sat. In 1913 Lawrence, aged 23, worked out the pattern of salt. There were no pairs at all. Sodium and chlorine sat in turns, like the squares of a chessboard. Each had six of the other kind around it. Many chemists disliked this. In 1927 the well-known chemist Henry Armstrong wrote to the journal Nature. He wrote against the chessboard idea. But every later measurement agreed with the Braggs. In 1915 father and son shared the Nobel Prize in Physics. Lawrence was 25, and nobody younger has won that prize.",
   "who": "William Bragg and his son Lawrence Bragg in England, and the chemist Henry Armstrong, who objected",
   "when": "The Braggs began in 1912. Lawrence Bragg published the structure of salt in 1913. They shared the Nobel Prize in 1915. Armstrong's letter appeared in 1927.",
   "wrong_idea": "That salt is made of separate molecules, each with one sodium atom and one chlorine atom. X-ray patterns showed a lattice in which every ion has six equal neighbours and no partner of its own.",
@@ -3168,5 +3165,5 @@
   ],
   "art": "A child holding a single salt crystal up to the light between finger and thumb, with a faint pattern of plus and minus signs drawn inside the crystal."
  },
- "playtest": "Every experiment, activity and game was reasoned through step by step against its materials list. None of them was tried in a kitchen. Bend or Break and Three Solids, Three Tests need crystal salt, a candle, foil and old spoons. Salt cracks best as a big crystal. With fine salt, press a pinch between two spoons. Over a candle, wax melts in about 15 seconds, and salt and foil stay solid. A hot salt grain can crack and jump, so heat only about ten grains and keep faces away. Dry Salt, Wet Salt needs a 9-volt battery with a snap clip, which most families must buy. The tester gives fine bubbles at both pencil tips within seconds when the probes touch. The saucers and cups must not be metal, or the tester bubbles all the time. Tap water and borewell water hold some salts, so plain water and wet sugar may give a few slow bubbles. Count that as 'few'. Salt goes damp in the monsoon and may then give a few bubbles when 'dry'. Warm it in a dry pan first. The wet salt test is kept to a count of 20, in an airy room. Electricity in salt water can make a trace of chlorine. In Powder Detective, lemon juice and vinegar are meant to surprise. Vinegar may give only a few bubbles. In the Tank-Full Alarm, the tank must be glass or plastic, and the bubbles are slow, so use a torch. Slide a Row works with any 16 coins. Give and Take can be finished alone with no card left over. Facts to treat with care: the melting points are rounded. A spoon over a candle is taken to reach a few hundred degrees, which was not measured. The million ions along the edge of a salt grain is for a grain about 0.3 millimetres wide. Liquid metallic hydrogen inside Jupiter comes from models and brief laboratory tests. The Upanishad, Nagarjuna and Jain teachings are given as paraphrases. The three videos have no address yet."
+ "playtest": "Every experiment, activity and game was reasoned through step by step against its materials list. None of them was tried in a kitchen. Bend or Break and Three Solids, Three Tests need crystal salt, a candle, foil and old spoons. Salt cracks best as a big crystal. With fine salt, press a pinch between two spoons. Over a candle, wax melts in about 15 seconds, and salt and foil stay solid. A hot salt grain can crack and jump, so heat only about ten grains and keep faces away. Dry Salt, Wet Salt needs a 9-volt battery with a snap clip, which most families must buy. The tester gives fine bubbles at both pencil tips within seconds when the probes touch. The saucers and cups must not be metal, or the tester bubbles all the time. Tap water and borewell water hold some salts, so plain water and wet sugar may give a few slow bubbles. Count that as 'few'. Salt goes damp in the monsoon and may then give a few bubbles when 'dry'. Warm it in a dry pan first. The wet salt test is kept to a count of 20, in an airy room. Electricity in salt water can make a trace of chlorine. In Powder Detective, lemon juice and vinegar are meant to surprise. Vinegar may give only a few bubbles. In the Tank-Full Alarm, the tank must be glass or plastic, and the bubbles are slow, so use a torch. Slide a Row works with any 16 coins. Give and Take can be finished alone with no card left over. Facts checked on 17 Nov 2026: the melting points, the dates, names and papers of the scientists, the Bragg ages and Nobel Prize, and the Jupiter magnetism. Softened or removed: the gold-leaf area was corrected, the Armstrong quote was removed, the Arrhenius date and the 2017 metallic hydrogen claim were softened, the spoon temperature, the Vedaranyam and doorbell lines and the museum description were softened. The million ions along a 0.3 millimetre grain was worked out from the salt lattice spacing. Liquid metallic hydrogen inside Jupiter comes from models and brief laboratory tests. The Upanishad, Nagarjuna and Jain teachings are given as paraphrases. The three videos have no address yet."
 }

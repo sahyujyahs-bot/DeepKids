@@ -61,7 +61,7 @@
   },
   {
    "term": "Heat browning",
-   "meaning": "The browning of food by strong heat. On a dry surface hotter than about 120 degrees Celsius, sugars and proteins change into brown substances with new flavours.",
+   "meaning": "The browning of food by strong heat. On a dry surface hotter than about 140 degrees Celsius, sugars and proteins change into brown substances with new flavours.",
    "example": "A dosa turns golden brown on a hot tawa.",
    "art": "A golden brown dosa on a black tawa."
   },
@@ -139,7 +139,7 @@
    "concept": "How to stop cut fruit browning, and when people want it",
    "status": "defined",
    "definition": "Cut fruit stays pale if the enzyme is destroyed or slowed, or if oxygen is kept away.",
-   "description": "Heat destroys the enzyme. Two minutes in boiling water are enough for a thin slice. Cooks call this blanching. Sour juice slows the enzyme, so a squeeze of lemon keeps a fruit chaat pale. Lemon juice also holds vitamin C, which turns the changed phenols back before they can link up. A bowl of water keeps most of the oxygen away, so cooks drop cut brinjal and potato into water. Cold slows every enzyme, so a cut apple browns more slowly in the fridge. Sometimes people want this browning. Tea makers roll fresh tea leaves to break the cells. Then they leave the leaves in the air for one to three hours. The leaves turn copper brown and become black tea. For green tea, the makers heat the fresh leaves first, in a hot pan or in steam. The heat destroys the enzyme, so the leaves stay green. Black tea and green tea come from the same plant.",
+   "description": "Heat destroys the enzyme. Two minutes in boiling water are enough for a thin slice. Cooks call this blanching. Sour juice slows the enzyme, so a squeeze of lemon keeps a fruit chaat pale. Lemon juice also holds vitamin C, which turns the changed phenols back before they can link up. A bowl of water keeps most of the oxygen away, so cooks drop cut brinjal and potato into water. Cold slows every enzyme, so a cut apple browns more slowly in the fridge. Sometimes people want this browning. Tea makers roll fresh tea leaves to break the cells. Then they leave the leaves in the air for up to a few hours. The leaves turn copper brown and become black tea. For green tea, the makers heat the fresh leaves first, in a hot pan or in steam. The heat destroys the enzyme, so the leaves stay green. Black tea and green tea come from the same plant.",
    "examples": [
     "Cut potatoes wait in a bowl of water before they are fried for bajji.",
     "Lemon juice is squeezed over sliced banana in a fruit salad.",
@@ -152,7 +152,7 @@
    "concept": "Browning by heat",
    "status": "defined",
    "definition": "Heat browning is the browning of food by strong heat. Sugars and proteins on a hot, dry surface change into brown substances with new smells and tastes.",
-   "description": "This browning has nothing to do with the enzyme in cut fruit. Heat destroys that enzyme. Heat browning is made by the heat. There are two kinds. In the first kind, sugars react with the building units of proteins. This is called the Maillard reaction, after the French chemist Louis-Camille Maillard. He described it in 1912. It makes hundreds of new substances. Some are brown, and many have strong smells. They give toast, dosa, roasted coffee, roasted groundnuts and fried onions their smell. In the second kind, sugar turns brown without any protein. This is called caramelising. Table sugar caramelises at about 160 degrees Celsius. Both kinds need a temperature well above that of boiling water. The Maillard reaction becomes fast above about 120 degrees Celsius. Milk holds both a sugar and proteins, so foods brushed with milk brown quickly. If the heating goes on too long, the food turns black and bitter. Then it has started to burn.",
+   "description": "This browning has nothing to do with the enzyme in cut fruit. Heat destroys that enzyme. Heat browning is made by the heat. There are two kinds. In the first kind, sugars react with the building units of proteins. This is called the Maillard reaction, after the French chemist Louis-Camille Maillard. He described it in 1912. It makes hundreds of new substances. Some are brown, and many have strong smells. They give toast, dosa, roasted coffee, roasted groundnuts and fried onions their smell. In the second kind, sugar turns brown without any protein. This is called caramelising. Table sugar caramelises at about 160 to 170 degrees Celsius. Both kinds need a temperature well above that of boiling water. The Maillard reaction becomes fast above about 140 degrees Celsius. Milk holds both a sugar and proteins, so foods brushed with milk brown quickly. If the heating goes on too long, the food turns black and bitter. Then it has started to burn.",
    "examples": [
     "Milk boiled down for a long time in a wide kadai turns light brown and smells of khoa.",
     "Sugar heated in a pan turns golden and then deep brown.",
@@ -191,7 +191,7 @@
    "concept": "Gluten: the net that holds the gas",
    "status": "defined",
    "definition": "Gluten is a stretchy substance that forms when wheat flour is wetted and kneaded. It is made of wheat proteins joined into a net.",
-   "description": "Making gas is only half of rising. The dough must also hold the gas in. Wheat flour contains two kinds of protein that join together when they are wet. Kneading lines them up and links them into a net. The net stretches like a balloon skin when gas pushes on it. In 1728 the Italian scientist Jacopo Beccari washed a ball of wheat dough in water. The white starch washed away. A grey, stretchy lump stayed in his hand. That lump was gluten. Rice, ragi, jowar, bajra and maize have proteins too, but they do not form gluten. A dough of rice flour cracks when you stretch it. So a jowar bhakri or an akki rotti is patted flat by hand. It does not puff like a loaf. Idli batter holds its gas in another way. Ground urad dal makes the batter thick and slimy, and the slime traps the bubbles. A few people fall ill when they eat gluten. Their illness is called coeliac disease. For most people gluten is an ordinary food protein.",
+   "description": "Making gas is only half of rising. The dough must also hold the gas in. Wheat flour contains two kinds of protein that join together when they are wet. Kneading lines them up and links them into a net. The net stretches like a balloon skin when gas pushes on it. In 1728 the Italian scientist Jacopo Beccari is said to have washed a ball of wheat dough in water. The white starch washed away. A grey, stretchy lump stayed in his hand. That lump was gluten. Rice, ragi, jowar, bajra and maize have proteins too, but they do not form gluten. A dough of rice flour cracks when you stretch it. So a jowar bhakri or an akki rotti is patted flat by hand. It does not puff like a loaf. Idli batter holds its gas in another way. Ground urad dal makes the batter thick and slimy, and the slime traps the bubbles. A few people fall ill when they eat gluten. Their illness is called coeliac disease. For most people gluten is an ordinary food protein.",
    "examples": [
     "Chapati dough stretches when you roll it. Rice flour dough for kozhukattai cracks at the edges.",
     "The holes in a slice of bread are the places where gas bubbles were held.",
@@ -267,7 +267,7 @@
   },
   {
    "text": "Wheat dough holds gas because of gluten.",
-   "evidence": "In 1728 Jacopo Beccari washed wheat dough and was left with a stretchy lump of gluten. Flours that leave no such lump make flat breads."
+   "evidence": "In 1728 Jacopo Beccari is said to have washed wheat dough and been left with a stretchy lump of gluten. Flours that leave no such lump make flat breads."
   },
   {
    "text": "Yeast are alive, and they make the gas in bread dough as they feed.",
@@ -307,7 +307,7 @@
    "claim": "Gluten is bad for everyone.",
    "who": "Some advertisements and diet books.",
    "for": "People with coeliac disease become ill from gluten. They must avoid wheat for life.",
-   "against": "Coeliac disease affects about 1 person in 100. For most people gluten is an ordinary protein, and wheat has been eaten for about ten thousand years.",
+   "against": "Coeliac disease affects about 1 person in 100. For most people gluten is an ordinary protein, and wheat has been eaten for thousands of years.",
    "status": "rejected"
   },
   {
@@ -354,7 +354,7 @@
   "title": "The Handful That Stayed Green",
   "mins": 10,
   "read_aloud": true,
-  "note": "Malar, Chellamma, Kathir, the shed and the letter are made up. These facts are real. Tea grows around Kotagiri in the Nilgiri hills of Tamil Nadu. Black tea and green tea come from the same plant. For black tea the leaf is wilted and then rolled to break the cells. It is left in the air for one to three hours to turn brown, and then dried. For green tea the fresh leaf is heated first, in a hot pan or in steam. Then it stays green when rolled. The browning is done by an enzyme in the leaf, the same kind that browns a cut apple.",
+  "note": "Malar, Chellamma, Kathir, the shed and the letter are made up. These facts are real. Tea grows around Kotagiri in the Nilgiri hills of Tamil Nadu. Black tea and green tea come from the same plant. For black tea the leaf is wilted and then rolled to break the cells. It is left in the air for up to a few hours to turn brown, and then dried. For green tea the fresh leaf is heated first, in a hot pan or in steam. Then it stays green when rolled. The browning is done by an enzyme in the leaf, the same kind that browns a cut apple.",
   "text": [
    "Every evening in the picking season, Malar's hands smelled of cut grass. Her job was to roll the tea.",
    "Her aunt Chellamma made tea by hand in a tin shed above Kotagiri, in the Nilgiri hills. Four families brought their leaf to her. Malar was nine, and she had rolled leaf beside her aunt for two seasons.",
@@ -454,7 +454,7 @@
       },
       {
        "f": "Sugar in a pan melts and turns deep brown.",
-       "b": "Heat browning. Sugar caramelises at about 160 degrees Celsius."
+       "b": "Heat browning. Sugar caramelises at about 160 to 170 degrees Celsius."
       },
       {
        "f": "Pav dough left in a warm place doubles in size in an hour.",
@@ -1293,7 +1293,7 @@
        ]
       }
      ],
-     "parent": "Half a cup of maida leaves a grey, rubbery lump about as big as an amla. The lump is gluten. It forms when two kinds of wheat protein join into a net as the dough is wetted and kneaded. The white that washed away was starch. Rice flour has starch and protein too, but its proteins do not form this net. So nothing is left. Gas pushes into the gluten net and stretches it, and that is how wheat dough rises. An Italian scientist, Jacopo Beccari, first did this washing test in 1728.",
+     "parent": "Half a cup of maida leaves a grey, rubbery lump about as big as an amla. The lump is gluten. It forms when two kinds of wheat protein join into a net as the dough is wetted and kneaded. The white that washed away was starch. Rice flour has starch and protein too, but its proteins do not form this net. So nothing is left. Gas pushes into the gluten net and stretches it, and that is how wheat dough rises. The Italian scientist Jacopo Beccari is credited with first describing gluten, in a talk of 1728.",
      "think": "Idli batter is made of rice and urad dal, with no wheat. What might hold the gas in idli batter?",
      "context": "This is the last step of Wash the Dough. You say what was left of the wheat dough and the rice dough."
     }
@@ -2330,7 +2330,7 @@
       "caramelisation",
       "caramelization"
      ],
-     "why": "Table sugar caramelises at about 160 degrees Celsius. The Maillard reaction is different, because it needs proteins as well as sugars.",
+     "why": "Table sugar caramelises at about 160 to 170 degrees Celsius. The Maillard reaction is different, because it needs proteins as well as sugars.",
      "outcome": 2
     },
     {
@@ -2512,7 +2512,7 @@
     "A lid on the pan"
    ],
    "a": 0,
-   "why": "Sugars and proteins react fast only above about 120 degrees Celsius. A wet surface stays near 100 degrees Celsius, so it must dry first.",
+   "why": "Sugars and proteins react fast only above about 140 degrees Celsius. A wet surface stays near 100 degrees Celsius, so it must dry first.",
    "outcome": 2
   },
   {
@@ -2625,31 +2625,12 @@
  ],
  "videos": [
   {
-   "title": "An animation of what happens inside onion cells when a knife cuts them, and how the gas reaches the eye",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why Do Onions Make You Cry?",
+   "channel": "Reactions",
+   "youtube": "RaZpPwmWZ7Q",
    "mins": 4,
    "why": "To see the two steps that make the tear gas, which cannot be seen in the Onion Sting.",
-   "check": "No address yet. Find an animation from a university, a science museum or a well-known science channel. Check that it shows the gas being made after the cut. It must not say that the gas is stored in the onion."
-  },
-  {
-   "title": "A speeded-up film of bread dough rising and then baking, seen through the side of a glass tin",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 3,
-   "why": "To watch the bubbles grow in the dough and the crust turn brown, in a few minutes.",
-   "check": "No address yet. Find a time-lapse film from a baking school or a science channel. Check that it shows both the rising and the browning of the crust."
-  },
-  {
-   "title": "How green tea and black tea are made from the same leaf, filmed in a tea factory",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
-   "why": "To see rolled leaves turn brown in the air, as in the story The Handful That Stayed Green.",
-   "check": "No address yet. Find a film from a tea board, a tea estate or a science channel. Check that it shows the heating step for green tea and the browning step for black tea. It should say that both come from one plant."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2858,7 +2839,7 @@
    "title": "Tea Museum, Munnar",
    "url": "",
    "kind": "place",
-   "why": "A working model of a tea factory, where visitors can see leaves rolled, browned and dried.",
+   "why": "A museum about tea in the hills of Munnar, where visitors can learn how tea is made.",
    "where": "Munnar, Kerala"
   }
  ],
@@ -2875,7 +2856,7 @@
   },
   {
    "id": "b-book",
-   "item": "Masala Lab: The Science of Indian Cooking, a book by Krish Ashok (2020)",
+   "item": "Masala Lab: The Science of Indian Cooking, a book by Krish Ashok",
    "kind": "book",
    "why": "For the parent or an older child: a clear and funny account of browning, rising and onions in an Indian kitchen.",
    "url": "https://www.amazon.in/s?k=Masala+Lab+Krish+Ashok",
@@ -3103,10 +3084,10 @@
   ]
  },
  "how_we_found_out": {
-  "story": "By the 1970s chemists knew what the onion's tear gas was. They also knew that an onion holds an enzyme called alliinase, which starts work when cells are broken. For about thirty years, books said that this one enzyme did the whole job. The gas was thought to form by itself from what the enzyme made. In Japan, Shinsuke Imai and his team at a food company were studying onions and garlic. They mixed the onion's stored chemical with pure alliinase. Almost no tear gas formed. Then they added another part of the onion's juice, and the gas appeared. So the juice held a second enzyme that nobody had known about. They found it, and they described it in the journal Nature in 2002. Garlic lacks this second enzyme, which is why garlic does not make us cry. In 2008 Colin Eady's team in New Zealand switched off the second enzyme in onion plants. Those onions made almost no tear gas.",
+  "story": "By the 1970s chemists knew what the onion's tear gas was. They also knew that an onion holds an enzyme called alliinase, which starts work when cells are broken. For about thirty years, books said that this one enzyme did the whole job. The gas was thought to form by itself from what the enzyme made. In Japan, Shinsuke Imai and his team at a food company were studying onions and garlic. They mixed the onion's stored chemical with alliinase. Almost no tear gas formed. Then they added another part of the onion's juice, and the gas appeared. So the juice held a second enzyme that nobody had known about. They found it, and they described it in the journal Nature in 2002. Garlic lacks this second enzyme, which is why garlic does not make us cry. In 2008 Colin Eady's team in New Zealand switched off the second enzyme in onion plants. Those onions made almost no tear gas.",
   "who": "Shinsuke Imai and his team at House Foods in Japan, and Colin Eady and his team in New Zealand",
   "when": "The tear gas was identified in the early 1970s. Imai's team reported the second enzyme in 2002. Eady's team reported onions without it in 2008.",
-  "wrong_idea": "That one enzyme, alliinase, makes the onion's tear gas, and that the gas then forms by itself. Imai's team showed that pure alliinase made almost no gas, and that a second enzyme is needed.",
+  "wrong_idea": "That one enzyme, alliinase, makes the onion's tear gas, and that the gas then forms by itself. Imai's team showed that alliinase alone made almost no gas, and that a second enzyme is needed.",
   "art": "A scientist in a white coat in a laboratory holding up two small glass tubes of onion juice, with a halved onion on the bench in front of him."
  },
  "roots": {
@@ -3170,5 +3151,5 @@
   ],
   "art": "A whole onion and a chopped onion side by side on a wooden board, with a magnified circle over each showing whole cells with two closed bags on the left and broken cells with wisps of gas rising on the right."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through carefully, but they have not yet been tried at home. The Onion Sting (core) needs one onion and a grown-up with a knife. A whole onion does not sting, and chopping usually stings within 10 to 40 seconds from a ruler's length away. Mild onions take longer, and a parent can be the watcher if the child prefers. Hot Dip, Cold Dip (core) needs one apple and a small pan of boiling water. A plain slice usually browns clearly within 40 minutes, and a slice boiled for two minutes stays pale. Some kinds of apple brown slowly. The last step says to repeat with a banana or a brinjal if so. The Tawa Toast Test (core) needs one slice of bread, sugar, milk and a tawa. The water square usually stays palest, and the sugar and milk squares end darkest. The order of the dry square and the milk square can vary with the flame. The sugar square can burn quickly, so the flame must stay low. Wash the Dough (core) works best with maida. Atta gives a smaller lump with specks of bran. The washing is messy and takes about 15 minutes. The lump breaks into shreds if it is squeezed hard at the start. Two Katori Dhoklas needs fruit salt or baking soda. The batter must go into the steam within a minute of adding it. Wake the Mustard uses brown or black mustard seeds. The seeds must be roasted under a lid, because they jump. Tear-Free Chopping gives results that vary from onion to onion, so close times should be repeated. Who Turns Brown uses only pieces of food that are being cut for meals. No part needs a garden. Facts to treat with care: the temperatures for browning are rounded, and browning does not start at one sharp temperature. Steam taking up about 1,600 times the room of water is the figure at 100 degrees Celsius. Whether browning protects a plant is still debated. So is the way the onion's gas sets off the nerves of the eye. The verse from the Udana and the passage from the Chandogya Upanishad are given as paraphrases. The three videos have no address yet."
+ "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through carefully, but they have not yet been tried at home. The Onion Sting (core) needs one onion and a grown-up with a knife. A whole onion does not sting, and chopping usually stings within 10 to 40 seconds from a ruler's length away. Mild onions take longer, and a parent can be the watcher if the child prefers. Hot Dip, Cold Dip (core) needs one apple and a small pan of boiling water. A plain slice usually browns clearly within 40 minutes, and a slice boiled for two minutes stays pale. Some kinds of apple brown slowly. The last step says to repeat with a banana or a brinjal if so. The Tawa Toast Test (core) needs one slice of bread, sugar, milk and a tawa. The water square usually stays palest, and the sugar and milk squares end darkest. The order of the dry square and the milk square can vary with the flame. The sugar square can burn quickly, so the flame must stay low. Wash the Dough (core) works best with maida. Atta gives a smaller lump with specks of bran. The washing is messy and takes about 15 minutes. The lump breaks into shreds if it is squeezed hard at the start. Two Katori Dhoklas needs fruit salt or baking soda. The batter must go into the steam within a minute of adding it. Wake the Mustard uses brown or black mustard seeds. The seeds must be roasted under a lid, because they jump. Tear-Free Chopping gives results that vary from onion to onion, so close times should be repeated. Who Turns Brown uses only pieces of food that are being cut for meals. No part needs a garden. Facts checked on 17 Nov 2026 against journal pages, a university physics page, steam tables and the Wikipedia tea page: the paper citations, the House Foods and Eady onion work, the 2015 apple approval, steam at about 1,600 times, and the tea steps. Softened: Beccari's washing of dough in 1728 (now credited as first describing gluten), the Maillard start (about 140 degrees Celsius), sugar caramelising (160 to 170), the time tea browns in air, wheat eating, and the museum line. Removed: the year of Masala Lab and the word pure before alliinase. Still rounded or debated: browning temperatures, yeast dying at about 60 degrees, whether browning protects a plant, how the onion's gas sets off the eye's nerves. The Udana verse and Chandogya passage are paraphrases. The three videos have no address yet."
 }

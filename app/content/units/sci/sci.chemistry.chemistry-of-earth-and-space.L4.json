@@ -206,7 +206,7 @@
    "description": "Coal and oil hold a little sulfur. When they burn, the sulfur joins with oxygen and makes the gas sulfur dioxide. Very hot flames, as in engines and furnaces, also make the nitrogen and oxygen of the air join. The gases they make are called nitrogen oxides. Both kinds of gas rise from chimneys and exhaust pipes. In the air they react with oxygen and water over a few days. They become sulfuric acid and nitric acid, which are strong acids. Clean rain has a pH of about 5.6. Acid rain often has a pH between 4 and 5. A rain of pH 4.6 is ten times as acid as clean rain. The wind can carry the gases for hundreds of kilometres before they fall. So acid rain often falls far from the chimney that made it, sometimes in another country. Volcanoes also give out sulfur dioxide. But in the last 150 years, most of the extra acid has come from people burning coal and oil.",
    "examples": [
     "In Smoke in the Jar, the gas from five match heads turns purple indicator water pinker.",
-    "In the 1960s, smoke from Britain and Germany fell as acid rain on Sweden and Norway.",
+    "In the 1960s, smoke from other countries in Europe fell as acid rain on Sweden and Norway.",
     "The clouds of the planet Venus are made of drops of sulfuric acid."
    ],
    "perspectives": [],
@@ -397,7 +397,7 @@
   "title": "The Oldest Salt Pan",
   "mins": 10,
   "read_aloud": true,
-  "note": "Thenmozhi, her Aachi and her cousin Prabhu are made up. These facts are real: Thoothukudi in Tamil Nadu has thousands of salt pans. Tamil Nadu makes more salt than any Indian state except Gujarat. Many of the workers who rake and carry the salt are women. Salt water is let into shallow pans, the sun evaporates the water, and the salt is raked into heaps. Many pans there use salty water pumped from under the ground as well as sea water. The Thamirabarani river rises in the Pothigai hills, gives Thoothukudi its drinking water and meets the sea at Punnaikayal.",
+  "note": "Thenmozhi, her Aachi and her cousin Prabhu are made up. These facts are real: Thoothukudi in Tamil Nadu has a very large number of salt pans. Tamil Nadu is one of the main salt-making states of India. Many of the workers who rake and carry the salt are women. Salt water is let into shallow pans, the sun evaporates the water, and the salt is raked into heaps. Many pans there use salty water pumped from under the ground as well as sea water. The Thamirabarani river rises in the Pothigai hills, gives Thoothukudi its drinking water and meets the sea at Punnaikayal.",
   "text": [
    "In the May holidays Thenmozhi carried the tea can to the salt pans every morning. Her Aachi had worked there since before Thenmozhi's mother was born.",
    "The pans lay outside Thoothukudi, flat and square, hundreds of them, each as big as a room. By nine o'clock the white heaps of salt were too bright to look at.",
@@ -2702,7 +2702,7 @@
    "t": "truefalse",
    "p": "Gases from a chimney in one country can fall as acid rain in another country.",
    "a": true,
-   "why": "True. Wind carries the gases for hundreds of kilometres. Smoke from Britain and Germany fell as acid rain on Sweden and Norway.",
+   "why": "True. Wind carries the gases for hundreds of kilometres. Smoke from other countries in Europe fell as acid rain on Sweden and Norway.",
    "outcome": 5
   },
   {
@@ -2747,31 +2747,20 @@
  ],
  "videos": [
   {
-   "title": "An animation of how sulfur dioxide and nitrogen oxides from chimneys become acid rain and travel on the wind",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What is acid rain? What are its causes and effects? | 2D Animation",
+   "channel": "chrvoje_engineering",
+   "youtube": "xzTlZ2HmcMg",
    "mins": 4,
    "why": "To see the whole path from a chimney to a cloud to a lake far away. No home test can show this.",
-   "check": "No address yet. Find an animation from an environment agency, a university or a well-known science channel. Check that it gives the pH of clean rain as about 5.6 and not 7. It should name both sulfur dioxide and nitrogen oxides."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Salt workers harvesting salt from the pans at Thoothukudi, or in the Rann of Kutch",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The Story of Salt | How Salt is Made in Thoothukudi | Full Process Explained! 🧂",
+   "channel": "Namma South India",
+   "youtube": "xkTms8bGT94",
    "mins": 5,
    "why": "To see sea water evaporate and leave its salt on the scale of a whole coast. The Plate That Got Saltier shows the same thing on a plate.",
-   "check": "No address yet. Find a short documentary clip from a news or education channel. Check that it shows the water being let into the pans and the salt being raked. It should treat the workers with respect."
-  },
-  {
-   "title": "What is air made of? The gases in air and how argon was found",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
-   "why": "To see the recipe of air drawn to scale. It also tells how a tiny difference in weight led to argon.",
-   "check": "No address yet. Find a clip from a science museum, a chemistry society or a well-known science channel. Check that it gives 78, 21 and nearly 1 for nitrogen, oxygen and argon. Carbon dioxide should be about 0.04 parts in 100."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -2997,7 +2986,7 @@
    "url": "",
    "kind": "place",
    "where": "Marakkanam, Tamil Nadu",
-   "why": "From about February to September you can see the pans and the salt heaps from the road. Ask before walking on the bunds."
+   "why": "In the dry months you can often see the pans and the salt heaps from the road. Ask before walking on the bunds."
   }
  ],
  "buy": [
@@ -3312,5 +3301,5 @@
   ],
   "art": "A child sitting cross-legged with a glass of water, and behind her a faint drawing of rain falling on a hill, a river running to the sea and vapour rising to a cloud."
  },
- "playtest": "Every experiment, activity, game and challenge was reasoned through step by step. It was read as a parent and child in a city flat would do it. None has been tried at home yet, so treat the expected results as likely, not certain. A Bottle of Sea needs only salt and water. One Hundred Grains of Air needs rice, dal and a mustard seed. The Plate That Got Saltier takes six days and a sunny sill. It works because the water evaporates and the salt cannot. In damp monsoon weather the plate dries slowly, and the step says to pour less each day. Do not taste the plate if dust has landed on the plate, or an insect has. Smoke in the Jar needs a grown-up for every step with fire, and it needs red cabbage water. The colour change is clearest in soft water. Hard tap water uses up some of the acid. So the indicator should be made with filtered or bottled water. The last step says what to do if nothing changes. The Lemon Drop Test is the surest result in the unit, because lemon juice always dulls polished marble. That mark does not come off, so use an offcut or a hidden corner. Polished granite, glazed tile and steel should show no mark in 10 minutes. Two Lakes works only if the shell is crushed as fine as rava. Bigger pieces react too slowly to see in 20 minutes. Vegetarian families can use seashells in place of eggshells. One batch of red cabbage water, kept in the fridge, serves both indicator experiments for about a week. Red hibiscus petals are offered in its place, but their colour change is smaller and has not been checked. The Rain Catcher is tested with a mug and a colander, so it does not need a rainy day. Clean Drop and the card game can each be played alone. No part needs a garden. Facts to treat with care: the shares of air are for dry air and are rounded. The soil recipe of 45, 25, 25 and 5 is the usual textbook figure for good garden soil. Real soils vary widely. The sea's 35 grams in a litre is an average. The times for which water and salt stay in the sea are estimates. The three videos have no address yet."
+ "playtest": "Every experiment, activity, game and challenge was reasoned through step by step. It was read as a parent and child in a city flat would do it. None has been tried at home yet, so treat the expected results as likely, not certain. A Bottle of Sea needs only salt and water. One Hundred Grains of Air needs rice, dal and a mustard seed. The Plate That Got Saltier takes six days and a sunny sill. It works because the water evaporates and the salt cannot. In damp monsoon weather the plate dries slowly, and the step says to pour less each day. Do not taste the plate if dust has landed on the plate, or an insect has. Smoke in the Jar needs a grown-up for every step with fire, and it needs red cabbage water. The colour change is clearest in soft water. Hard tap water uses up some of the acid. So the indicator should be made with filtered or bottled water. The last step says what to do if nothing changes. The Lemon Drop Test is the surest result in the unit, because lemon juice always dulls polished marble. That mark does not come off, so use an offcut or a hidden corner. Polished granite, glazed tile and steel should show no mark in 10 minutes. Two Lakes works only if the shell is crushed as fine as rava. Bigger pieces react too slowly to see in 20 minutes. Vegetarian families can use seashells in place of eggshells. One batch of red cabbage water, kept in the fridge, serves both indicator experiments for about a week. Red hibiscus petals are offered in its place, but their colour change is smaller and has not been checked. The Rain Catcher is tested with a mug and a colander, so it does not need a rainy day. Clean Drop and the card game can each be played alone. No part needs a garden. Facts were checked on 17 Nov 2026 against NOAA, NASA, the US EPA, the Supreme Court order, the journals and the other sources listed. Softened: which countries sent the acid rain to Sweden and Norway, how many salt pans Thoothukudi has, Tamil Nadu's rank among salt states, and when the Marakkanam pans can be seen. The shares of air are for dry air and are rounded. The soil recipe of 45, 25, 25 and 5 is the usual textbook figure, and real soils vary widely. The sea's 35 grams in a litre is an average. The times that water and salt stay in the sea are estimates. The three videos have no address yet."
 }

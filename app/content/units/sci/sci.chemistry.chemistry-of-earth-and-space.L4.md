@@ -81,7 +81,7 @@ Many people think clean rain is pure water with a pH of 7. It is not. A raindrop
 
 Coal and oil hold a little sulfur. When they burn, the sulfur joins with oxygen and makes the gas sulfur dioxide. Very hot flames, as in engines and furnaces, also make the nitrogen and oxygen of the air join. The gases they make are called nitrogen oxides. Both kinds of gas rise from chimneys and exhaust pipes. In the air they react with oxygen and water over a few days. They become sulfuric acid and nitric acid, which are strong acids. Clean rain has a pH of about 5.6. Acid rain often has a pH between 4 and 5. A rain of pH 4.6 is ten times as acid as clean rain. The wind can carry the gases for hundreds of kilometres before they fall. So acid rain often falls far from the chimney that made it, sometimes in another country. Volcanoes also give out sulfur dioxide. But in the last 150 years, most of the extra acid has come from people burning coal and oil.
 - e.g. In Smoke in the Jar, the gas from five match heads turns purple indicator water pinker.
-- e.g. In the 1960s, smoke from Britain and Germany fell as acid rain on Sweden and Norway.
+- e.g. In the 1960s, smoke from other countries in Europe fell as acid rain on Sweden and Norway.
 - e.g. The clouds of the planet Venus are made of drops of sulfuric acid.
 ### What acid rain harms, and why some places are protected · *defined*
 **Definition:** Acid rain harms lakes, soils, forests and buildings of limestone or marble. Ground that holds limestone neutralises the acid, and ground of granite does not.
@@ -185,7 +185,7 @@ Air, sea water and soil look like three separate things. But the water of the se
 - *big:* In India, dust in the air neutralises acid in rain. The same dust harms lungs. Can one thing be both a harm and a help? (hint: Think about who is asking: a lake, a marble statue or a child with a cough.)
 
 ## Story: The Oldest Salt Pan
-*Thenmozhi, her Aachi and her cousin Prabhu are made up. These facts are real: Thoothukudi in Tamil Nadu has thousands of salt pans. Tamil Nadu makes more salt than any Indian state except Gujarat. Many of the workers who rake and carry the salt are women. Salt water is let into shallow pans, the sun evaporates the water, and the salt is raked into heaps. Many pans there use salty water pumped from under the ground as well as sea water. The Thamirabarani river rises in the Pothigai hills, gives Thoothukudi its drinking water and meets the sea at Punnaikayal.*
+*Thenmozhi, her Aachi and her cousin Prabhu are made up. These facts are real: Thoothukudi in Tamil Nadu has a very large number of salt pans. Tamil Nadu is one of the main salt-making states of India. Many of the workers who rake and carry the salt are women. Salt water is let into shallow pans, the sun evaporates the water, and the salt is raked into heaps. Many pans there use salty water pumped from under the ground as well as sea water. The Thamirabarani river rises in the Pothigai hills, gives Thoothukudi its drinking water and meets the sea at Punnaikayal.*
 
 In the May holidays Thenmozhi carried the tea can to the salt pans every morning. Her Aachi had worked there since before Thenmozhi's mother was born.
 
@@ -661,9 +661,8 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
    **Answer:** Smoke rises from the chimney. An arrow of wind carries it to a cloud, and rain falls on the lake. The change could be a scrubber on the chimney, cleaner fuel, or power made without burning coal.. *Why:* A strong drawing shows the gas travelling before it falls. It puts the change at the source, not at the lake.
 
 ## Videos
-- **An animation of how sulfur dioxide and nitrogen oxides from chimneys become acid rain and travel on the wind** (, 4 min) id `to find`: To see the whole path from a chimney to a cloud to a lake far away. No home test can show this. *Check:* No address yet. Find an animation from an environment agency, a university or a well-known science channel. Check that it gives the pH of clean rain as about 5.6 and not 7. It should name both sulfur dioxide and nitrogen oxides.
-- **Salt workers harvesting salt from the pans at Thoothukudi, or in the Rann of Kutch** (, 5 min) id `to find`: To see sea water evaporate and leave its salt on the scale of a whole coast. The Plate That Got Saltier shows the same thing on a plate. *Check:* No address yet. Find a short documentary clip from a news or education channel. Check that it shows the water being let into the pans and the salt being raked. It should treat the workers with respect.
-- **What is air made of? The gases in air and how argon was found** (, 4 min) id `to find`: To see the recipe of air drawn to scale. It also tells how a tiny difference in weight led to argon. *Check:* No address yet. Find a clip from a science museum, a chemistry society or a well-known science channel. Check that it gives 78, 21 and nearly 1 for nitrogen, oxygen and argon. Carbon dioxide should be about 0.04 parts in 100.
+- **What is acid rain? What are its causes and effects? | 2D Animation** (chrvoje_engineering, 4 min) id `xzTlZ2HmcMg`: To see the whole path from a chimney to a cloud to a lake far away. No home test can show this. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **The Story of Salt | How Salt is Made in Thoothukudi | Full Process Explained! 🧂** (Namma South India, 5 min) id `xkTms8bGT94`: To see sea water evaporate and leave its salt on the scale of a whole coast. The Plate That Got Saltier shows the same thing on a plate. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which list gives the three main gases of dry air, largest first?  
@@ -691,7 +690,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
    Options: Sulfur dioxide and nitrogen oxides / Oxygen and nitrogen / Argon and water vapour / Carbon dioxide and oxygen  
    **Answer:** Sulfur dioxide and nitrogen oxides. *Why:* Sulfur dioxide and nitrogen oxides turn into strong acids in clouds. Carbon dioxide makes only the weak acid of clean rain.
 9. (truefalse) Gases from a chimney in one country can fall as acid rain in another country.  
-   **Answer:** True. *Why:* True. Wind carries the gases for hundreds of kilometres. Smoke from Britain and Germany fell as acid rain on Sweden and Norway.
+   **Answer:** True. *Why:* True. Wind carries the gases for hundreds of kilometres. Smoke from other countries in Europe fell as acid rain on Sweden and Norway.
 10. (mcq) Two lakes get the same acid rain. Which lake stays healthier?  
    Options: The lake on limestone / The lake on granite / The deeper lake / Both stay the same  
    **Answer:** The lake on limestone. *Why:* Limestone reacts with the acid and neutralises it. Granite does not, so a lake on granite turns acid.
@@ -768,7 +767,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Atmosphere of Earth (Wikipedia)](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) · interactive: For the parent: the full recipe of air in a table.
 - [Argon (Wikipedia)](https://en.wikipedia.org/wiki/Argon) · interactive: For the parent: how Rayleigh and Ramsay found argon, and what it is used for.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A large science museum with hands-on galleries. Check opening times before you go.
-- [The salt pans at Marakkanam, beside the East Coast Road]() · place · Marakkanam, Tamil Nadu: From about February to September you can see the pans and the salt heaps from the road. Ask before walking on the bunds.
+- [The salt pans at Marakkanam, beside the East Coast Road]() · place · Marakkanam, Tamil Nadu: In the dry months you can often see the pans and the salt heaps from the road. Ask before walking on the bunds.
 
 ## Things to buy
 - [Red cabbage: a quarter of a small one is enough for both indicator experiments](https://www.amazon.in/s?k=red+cabbage) (material): For the indicator water in Smoke in the Jar and Two Lakes. Large vegetable shops and supermarkets sell it. Red hibiscus petals work in its place, with a smaller colour change. Used in e1, e3. 

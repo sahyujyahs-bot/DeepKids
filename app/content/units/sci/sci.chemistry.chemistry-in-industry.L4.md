@@ -72,7 +72,7 @@ Burning is a chemical reaction between a fuel and oxygen. The carbon atoms of th
 ### Medicines: substances that change how a body works · *defined*
 **Definition:** A medicine is a substance that prevents an illness, treats it or eases its signs. It works by joining to particular molecules in the body or in a germ.
 
-Many medicines were first found in other living beings. Willow bark eases pain, and chemists made aspirin from the substance in the bark. The bark of the cinchona tree holds quinine, which treats malaria. In 1928 Alexander Fleming saw that bacteria died near a mould called Penicillium. That mould gave us penicillin. In 1972 Tu Youyou and her team in China drew a malaria medicine, artemisinin, out of the sweet wormwood plant. She had read in an old Chinese book that the plant should be soaked in cold water. So she stopped boiling the plant, and the medicine was no longer destroyed. In India, Asima Chatterjee studied the chemistry of medicinal plants for about fifty years. Once chemists know which molecule does the work, a factory can make that molecule. A factory can also change the molecule a little, to make it stronger or safer. Yellapragada Subbarow, born in Andhra Pradesh, led teams that made medicines for cancer and for filaria. A new medicine is tested for years, first in a laboratory and then on thousands of volunteers. Most new medicines fail these tests. India's factories make a large share of the world's low-cost medicines and vaccines.
+Many medicines were first found in other living beings. Willow bark eases pain, and chemists made aspirin from the substance in the bark. The bark of the cinchona tree holds quinine, which treats malaria. In 1928 Alexander Fleming saw that bacteria died near a mould called Penicillium. That mould gave us penicillin. In 1972 Tu Youyou and her team in China drew a malaria medicine, artemisinin, out of the sweet wormwood plant. She had read in an old Chinese book that the plant should be soaked in cold water. So she stopped boiling the plant, and the medicine was no longer destroyed. In India, Asima Chatterjee studied the chemistry of medicinal plants for most of her working life. Once chemists know which molecule does the work, a factory can make that molecule. A factory can also change the molecule a little, to make it stronger or safer. Yellapragada Subbarow, born in Andhra Pradesh, led teams that made medicines for cancer and for filaria. A new medicine is tested for years, first in a laboratory and then on thousands of volunteers. Most new medicines fail these tests. India's factories make a large share of the world's low-cost medicines and vaccines.
 - e.g. Quinine was once grown for India in cinchona plantations in the Nilgiri hills.
 - e.g. A medicine for childhood blood cancer comes from the periwinkle plant, called nithyakalyani in Tamil.
 - e.g. Chalky antacid tablets are made from limestone, a rock.
@@ -107,9 +107,9 @@ No factory makes only what it wants. Atoms cannot vanish, so every atom that goe
 ### Could the world be fed without factory fertiliser? · *debated*
 **Definition:** Scientists agree that factory nitrogen has greatly raised harvests. They disagree about how far farming could do without it.
 
-Before 1913, all the nitrogen in crops came from dung, compost, bean crops, lightning and a little mined salt. The world then held about 1.8 billion people. Today it holds more than 8 billion. Factory fertiliser is one reason that so many can be fed. It also pollutes water, and making it burns a great deal of natural gas.
+Before 1913, all the nitrogen in crops came from dung, compost, bean crops, lightning and a little mined salt. The world then held fewer than 2 billion people. Today it holds more than 8 billion. Factory fertiliser is one reason that so many can be fed. It also pollutes water, and making it burns a great deal of natural gas.
 - e.g. A paddy field that gets nitrogen fertiliser usually gives much more grain than a field that gets none.
-- e.g. Sikkim has farmed without factory fertiliser since 2016.
+- e.g. In 2016 Sikkim was declared India's first fully organic state, farming without factory fertiliser.
 - **Scientists who count nitrogen, such as Vaclav Smil, and Jan Willem Erisman and his team in 2008:** About half of the nitrogen in the world's food now comes from factories. Without it, today's farmland could feed only about half of the people alive. Farming without it would need far more land, and forests would have to be cleared.
 - **Farmers and scientists who work on organic and natural farming:** Much factory nitrogen is wasted, because crops often take up less than half of what is spread. Bean crops, compost and careful use can replace a large part of it. Wasting less food would lower the need further.
 
@@ -122,7 +122,7 @@ Before 1913, all the nitrogen in crops came from dung, compost, bean crops, ligh
 - Lead in paint harms children, and no safe amount of lead has been found. *How we know:* In 1979 Herbert Needleman's team measured lead in children's milk teeth. Children with more lead did less well in class. The World Health Organization says no level of lead is known to be safe.
 
 ## How we found out
-**Friedrich Wöhler in Germany, his teacher Jöns Jacob Berzelius in Sweden, and William Perkin in England, Wöhler made urea in 1828. Perkin made his purple dye in 1856..** Two hundred years ago, most chemists believed in a 'life force'. They thought that substances of living bodies, such as sugar and urea, could be made only inside a living being. A chemist could take such substances apart, but could never build them. In 1828 a young German chemist, Friedrich Wöhler, was heating a salt called ammonium cyanate. Chemists counted this salt as a mineral substance. White crystals formed. He tested them and found that they were urea, the same substance that kidneys make. He wrote to his teacher, Jöns Jacob Berzelius, that he could make urea without needing a kidney. The old belief did not end that day. But chemists went on to build one substance of living bodies after another. In 1856 William Perkin, aged 18, tried to make the medicine quinine from coal tar. He failed, and found a purple dye. Dye factories grew from his discovery, and medicine factories grew from the dye factories. Today factories make urea from air, natural gas and water, by the million tonnes.  
+**Friedrich Wöhler in Germany, his teacher Jöns Jacob Berzelius in Sweden, and William Perkin in England, Wöhler made urea in 1828. Perkin made his purple dye in 1856..** Two hundred years ago, most chemists believed in a 'life force'. They thought that substances of living bodies, such as sugar and urea, could be made only inside a living being. A chemist could take such substances apart, but could never build them. In 1828 a young German chemist, Friedrich Wöhler, was heating a salt called ammonium cyanate. Chemists counted this salt as a mineral substance. White crystals formed. He tested them and found that they were urea, the same substance that kidneys make. He wrote to his teacher, Jöns Jacob Berzelius, that he could make urea without needing a kidney. The old belief did not end that day. But chemists went on to build one substance of living bodies after another. In 1856 William Perkin, aged 18, tried to make the medicine quinine from chemicals in coal tar. He failed, and found a purple dye. Dye factories grew from his discovery, and medicine factories grew from the dye factories. Today factories make urea from air, natural gas and water, by the million tonnes.  
 *What people believed before:* That the substances of living bodies can be made only inside a living being, by a life force. Wöhler made urea from a mineral salt. Later chemists made many more such substances.
 
 ## Challenging perspectives
@@ -141,7 +141,7 @@ Before 1913, all the nitrogen in crops came from dung, compost, bean crops, ligh
 - **Hydrogen is a fuel with no pollution.** (Some engineers and companies.; *debated*)  
   For: Hydrogen burns to give only water, with no carbon dioxide.  
   Against: Most hydrogen today is made from natural gas, and that step gives off carbon dioxide. Hydrogen is clean only if it is made with clean energy.
-- **Felix Hoffmann alone invented aspirin.** (The Bayer company's account, from 1934.; *debated*)  
+- **Felix Hoffmann alone invented aspirin.** (The account Bayer long told, first printed in 1934.; *debated*)  
   For: Hoffmann's laboratory notes of August 1897 record that he made the substance.  
   Against: Arthur Eichengrün, his senior at Bayer, later wrote that the work was done under his direction. Eichengrün was Jewish, and his name was left out during Nazi rule. In 2000 the historian Walter Sneader judged his claim likely to be true.
 
@@ -458,7 +458,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
   *Parent does:* Day 2. Each time the stove is lit, your child writes the time. They write the time again when the flame is put out. In the evening, add up the minutes.  
   *Parent says:* Today you are the timekeeper. Write the time when I light the stove and when I put it out. Tonight we will add up the minutes.  
   *Child mode:* Write the time when the stove is lit. Write when it goes out. Add the minutes.
-  - Note: If two burners are lit together, count the minutes of each. A family of four often totals between 60 and 120 burner minutes a day.
+  - Note: If two burners are lit together, count the minutes of each. A family of four may total an hour or two of burner minutes a day, but yours may differ.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* Day 3. Choose one change together and use it all day. Time the stove as on day 2. Compare the two totals.  
   *Parent says:* Choose one change. We could keep a lid on every pot, or soak the dal first, or use the pressure cooker. Time the stove again. Did the minutes go down? Say what you thought would happen, what you found, and why.  
@@ -603,9 +603,9 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
    **Answer:** Arrows going in: air, natural gas, water and energy. An arrow going out to urea, the product. Another arrow going out to carbon dioxide, a by-product, with a loop taking it back in to make the urea.. *Why:* A strong chart shows raw materials going in and more than one thing coming out. The best ones show the by-product being used again.
 
 ## Videos
-- **Inside an oil refinery: how crude oil is separated into LPG, petrol, diesel and bitumen** (, 5 min) id `to find`: To see the tall tower where short and long carbon chains are collected at different heights. *Check:* No address yet. Find an animation of fractional distillation from a university, a science museum or a well-known science channel. Check that LPG leaves at the top and bitumen at the bottom. Check that it says the parts are separated by boiling point.
-- **How paint is made in a factory: pigment, binder and solvent** (, 5 min) id `to find`: To see pigment powder being ground into a binder in large mixers, which is Three Paints on a factory scale. *Check:* No address yet. Find a factory tour that names the pigment, the binder and the solvent. Avoid videos that are only an advertisement for one brand.
-- **From air to bread: how nitrogen from the air becomes fertiliser** (, 6 min) id `to find`: To see how nitrogen and hydrogen are joined into ammonia, and why this feeds about half the world. *Check:* No address yet. Find an animation of the Haber-Bosch process for a general audience. Check that it says the hydrogen comes mostly from natural gas. Check that it mentions the pollution as well as the food.
+- **Animation showing the process of refining crude oil through fractional distillation** (GraphicsRF, 5 min) id `COm8ute0VJs`: To see the tall tower where short and long carbon chains are collected at different heights. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **How Paint is made inside Factories: The Science Behind Every Color** (Engineering Decoded, 5 min) id `kR4IpNZFA0k`: To see pigment powder being ground into a binder in large mixers, which is Three Paints on a factory scale. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **How Ammonia Is Made: Inside the Haber–Bosch Process** (Engineering Decoded, 6 min) id `FLth_oXqcYE`: To see how nitrogen and hydrogen are joined into ammonia, and why this feeds about half the world. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Fertilisers, medicines, fuels and paints are all made in which way?  
@@ -707,7 +707,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Channapatna toys (Wikipedia)](https://en.wikipedia.org/wiki/Channapatna_toys) · interactive: For the child: pictures of the lac-coated wooden toys in the story.
 - [Bhimbetka rock shelters (Wikipedia)](https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters) · interactive: For the child: very old paintings made with red ochre and white earth.
 - [Visvesvaraya Industrial and Technological Museum](https://en.wikipedia.org/wiki/Visvesvaraya_Industrial_and_Technological_Museum) · place · Bengaluru, Karnataka: A science museum with working models of engines, machines and industry.
-- [Digboi oil town and its oil museum](https://en.wikipedia.org/wiki/Digboi) · place · Digboi, Assam: The oldest working refinery in India, with a museum of the first oil wells.
+- [Digboi oil town and its oil museum](https://en.wikipedia.org/wiki/Digboi) · place · Digboi, Assam: The oldest working refinery in India, with a museum near the first oil well.
 
 ## Things to buy
 - [Liquid food colour, one small bottle with a dropper top](https://www.amazon.in/s?k=liquid+food+colour) (material): For One Dose, Two Bodies. Any grocery shop sells it for a few rupees. Ink works in its place. Used in e2. 
@@ -746,3 +746,4 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Tu Y. (2011). The discovery of artemisinin (qinghaosu) and gifts from Chinese medicine. Nature Medicine 17: 1217-1220.
 - Government of India (2016). Regulation of Lead Contents in Household and Decorative Paints Rules, 2016. Ministry of Environment, Forest and Climate Change.
 - World Health Organization. Lead poisoning (fact sheet): no level of lead exposure is known to be without harmful effects.
+- Department of Fertilizers, Government of India (25 May 2015). Notification making neem-coated urea mandatory for domestic urea producers, as reported in Lok Sabha replies.
