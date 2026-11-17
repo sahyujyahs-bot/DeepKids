@@ -67,7 +67,7 @@
   },
   {
    "term": "Deciding question",
-   "meaning": "A question that two explanations answer differently. When you get the answer, one explanation is in trouble.",
+   "meaning": "A question that two explanations answer differently. When you get the answer, at least one of the explanations is shown to be wrong.",
    "example": "Is the water on the outside the same colour as the water inside? The leaking idea says yes, and the air idea says no.",
    "art": "A fork in a path, each branch labelled with one explanation, and a question mark at the fork."
   },
@@ -156,7 +156,7 @@
    "concept": "Rival explanations: many stories for one thing you saw",
    "status": "defined",
    "definition": "Rival explanations are different explanations for the same observation. Usually at most one of them is right.",
-   "description": "One thing you see can have many stories. A wet patch appears on the wall under the bathroom. Is it a leaking pipe? Is it rain coming through the terrace? Is it damp from the cold water pipe? Each story fits the wet patch. So the wet patch alone cannot choose between them. This is why we write the rival explanations down side by side before we test anything. It stops us falling in love with the first story we thought of. It also reminds us to look for a fourth story, because the right one is sometimes the one nobody has said yet.",
+   "description": "One thing you see can have many stories. A wet patch appears on the wall under the bathroom. Is it a leaking pipe? Is it rain coming through the terrace? Is it damp from the cold water pipe? Each story fits the wet patch. So the wet patch alone cannot choose between them. This is why we write the rival explanations down side by side before we test anything. It stops us from sticking to the first story we thought of just because it came first. It also reminds us to look for a fourth story, because the right one is sometimes the one nobody has said yet.",
    "examples": [
     "Drops on a cold tumbler: the water leaked through, it came out of the air, or it was my own wet hand.",
     "A dosa batter rises overnight: it was the warm kitchen, the time, or the microbes already in the batter.",
@@ -168,7 +168,7 @@
   {
    "concept": "A deciding question tells two ideas apart",
    "status": "defined",
-   "definition": "A deciding question is a question that two explanations answer differently. Whichever answer you get, at least one explanation is in trouble.",
+   "definition": "A deciding question is a question that two explanations answer differently. Whichever answer you get, at least one of the explanations turns out to be wrong.",
    "description": "Watching more of the same thing often cannot choose between two ideas, because both ideas fit. You need a question where the ideas disagree. For the tumbler, ask: what colour will the drops be if the water inside is coloured? If the water leaked through the steel, the drops will be coloured. If the water came from the air, the drops will be clear. The ideas disagree, so the colour decides. To find a deciding question, take each idea in turn and ask: if this idea were true, what else would I see that I would not see if the other idea were true?",
    "examples": [
     "Do pigeons leave a water tank because of the temple bell or because of the dusk? Ask: do the pigeons still leave on an evening when the bell does not ring?",
@@ -195,10 +195,10 @@
    "concept": "An idea you can test must be able to fail",
    "status": "defined",
    "definition": "A testable idea says something that could turn out wrong. If no result could ever show an idea wrong, nobody can use a test to learn about it.",
-   "description": "Suppose someone says: the drops are made by a tiny invisible helper who hides whenever we look. Whatever we see, the helper explains it. If the drops are clear, the helper made them clear. If they are yellow, the helper made them yellow. An idea that fits every possible result tells us nothing about this tumbler. It might even be true, but we cannot test it. A good scientific idea sticks its neck out. It says: if I am right, you will see this. If you do not see it, I am wrong. That is what makes it useful, because it can be checked by anyone.",
+   "description": "Suppose someone says: the drops are made by a tiny invisible helper who hides whenever we look. Whatever we see, the helper explains it. If the drops are clear, the helper made them clear. If they are yellow, the helper made them yellow. An idea that fits every possible result tells us nothing about this tumbler. It might even be true, but we cannot test it. A good scientific idea takes a risk. It says: if I am right, you will see this. If you do not see it, I am wrong. That is what makes it useful, because it can be checked by anyone.",
    "examples": [
-    "'The drops come from the air' sticks its neck out. A coloured-water test could show it wrong.",
-    "'Pigeons leave because of the bell' sticks its neck out. An evening without the bell could show it wrong.",
+    "'The drops come from the air' takes a risk. A coloured-water test could show it wrong.",
+    "'Pigeons leave because of the bell' takes a risk. An evening without the bell could show it wrong.",
     "'Mangoes taste best because that is how mangoes are' cannot be tested, because no result could ever show it wrong."
    ],
    "art": "A boxer's head sticking out of a box labelled testable idea, next to a closed box labelled can never be wrong.",
@@ -260,7 +260,7 @@
    "concept": "When the result is a surprise",
    "status": "defined",
    "definition": "A surprising result is a result that does not match your prediction. Check it, repeat it, write it down as it is, and then ask what it could mean.",
-   "description": "Sometimes a test gives a result that nobody expected. Do not throw it away. First check that you did the test the way you planned, and read the measurement again. Then repeat the test. If the surprise happens again, it is real, and you have learned something new. It may mean the idea was wrong, or that a detail you did not think of matters. If it does not happen again, write down that the first result was probably a slip. Many important discoveries began as a surprising result that someone kept and looked at. Jocelyn Bell noticed a strange mark on a paper chart and would not let it go.",
+   "description": "Sometimes a test gives a result that nobody expected. Do not throw it away. First check that you did the test the way you planned, and read the measurement again. Then repeat the test. If the surprise happens again, it is real, and you have learned something new. It may mean the idea was wrong, or that a detail you did not think of matters. If it does not happen again, write down that the first result was probably a slip. Many important discoveries began as a surprising result that someone kept and looked at. Jocelyn Bell noticed a strange mark on a paper chart and kept looking into it.",
    "examples": [
     "You expect the warm tumbler to stay dry, but it gets a few drops. Perhaps the room is very humid.",
     "One person's arm span is 10 centimetres more than their height. Measure again before you decide it is real.",
@@ -286,7 +286,7 @@
    "concept": "Signal or noise? Jocelyn Bell's star-time test",
    "status": "defined",
    "definition": "A signal is a pattern that carries information. Noise is random wobble. To check whether a strange mark is a signal from far away or noise from nearby, ask when it comes back.",
-   "description": "In 1967 Jocelyn Bell was a research student at Cambridge in England. She was checking long paper charts from a radio telescope, a set of wires that listens for radio waves from space. She noticed a small strange mark, which she called a 'bit of scruff'. It came again. At first the team asked if it was interference from something on Earth, such as a car or a radio. The deciding question was: when does the mark come back? A thing in the sky rises and sets with the stars, and comes back about four minutes earlier by the clock each day. This is called star time. A car or a machine follows the clock on the wall. The mark followed the stars. So it came from space. We now know that it came from a pulsar.",
+   "description": "In 1967 Jocelyn Bell was a research student at Cambridge in England. She was checking long paper charts from a radio telescope, a set of wires that listens for radio waves from space. She noticed a small strange mark, which she called a 'bit of scruff'. It came again. At first the team asked if it was interference from something on Earth, such as a car or a radio. The deciding question was: when does the mark come back? A thing in the sky rises and sets with the stars, and comes back about four minutes earlier by the clock each day. This is called star time. A car or a machine on Earth follows the clock on the wall. It comes back at the same clock time each day. The mark followed the stars. So it came from space. We now know that it came from a pulsar.",
    "examples": [
     "A noisy machine next door follows the clock. A star follows star time, about four minutes earlier each day.",
     "A radio crackle every evening at six may be a neighbour's machine. A crackle that moves earlier each day may not be.",
@@ -1236,7 +1236,7 @@
      "parent": "A difference of 1 or 2 centimetres between measurements is normal, because the head moves and the tape bends. Do not worry about it. Say that this wobble is why we measure several people.",
      "check": {
       "t": "mcq",
-      "q": "You measure the same child twice and get 128 cm and 129 cm. What is the best thing to do?",
+      "q": "You measure the same child twice and get 128 centimetres and 129 centimetres. What is the best thing to do?",
       "options": [
        "Write both numbers, use the middle or the bigger one, and say there is about a centimetre of wobble",
        "Throw one number away and tell nobody",
@@ -2203,7 +2203,7 @@
       "If the bell scares the pigeons, they will fly high"
      ],
      "a": 1,
-     "why": "A good prediction says what you will see if the idea is true, and could be shown wrong. If the pigeons leave without the bell, the idea is in trouble.",
+     "why": "A good prediction says what you will see if the idea is true, and could be shown wrong. If the pigeons leave without the bell, the idea is shown to be wrong.",
      "outcome": 3
     },
     {
@@ -2468,7 +2468,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends measure many people and find that arm span and height are close, but never exactly equal. One says the old drawing by Leonardo, which showed them equal, was wrong. The other says it was a good rule of thumb. Who do you agree with?",
+     "p": "Two friends measure many people and find that arm span and height are close, but never exactly equal. One says the old drawing by Leonardo, which showed them equal, was wrong. The other says it was a useful rough rule. Who do you agree with?",
      "a": "A strong answer says that 'close' and 'exactly' are different claims, and that a good claim says which one it makes. Both friends have a point.",
      "why": "Pick-a-side questions have no single right side. Marks go for using evidence from the measuring and for stating the other view fairly.",
      "views": [
@@ -3338,7 +3338,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In 1967, Jocelyn Bell was a research student at Cambridge in England. Her job was to read long paper charts from a new radio telescope that listened to the sky. One day she saw a small strange mark, which she called a bit of scruff. It came back. The team first asked if it was interference from something on Earth, such as a passing car or a radio. Then Bell noticed something clever. The mark returned about four minutes earlier each day by the clock. Things in the sky do that, because the stars rise earlier each day. Machines on Earth follow the clock on the wall. So the mark came from space. When the team looked closer, the mark was a very regular pulse. The team half-jokingly wondered if it was a message. In fact, it was a new kind of star, now called a pulsar. In 1974 the Nobel Prize for this work went to her supervisor and another senior scientist, and not to her.",
+  "story": "In 1967, Jocelyn Bell was a research student at Cambridge in England. Her job was to read long paper charts from a new radio telescope that listened to the sky. One day she saw a small strange mark, which she called a bit of scruff. It came back. The team first asked if it was interference from something on Earth, such as a passing car or a radio. Then Bell noticed something about the timing. The mark returned about four minutes earlier each day by the clock. Things in the sky do that, because the stars rise earlier each day. Machines on Earth follow the clock on the wall. So the mark came from space. When the team looked closer, the mark was a very regular pulse. The team half-jokingly wondered if it was a message. In fact, it was a new kind of star, now called a pulsar. In 1974 the Nobel Prize for this work went to her supervisor and another senior scientist, and not to her.",
   "who": "Jocelyn Bell (now Jocelyn Bell Burnell), a research student at Cambridge, with her supervisor Antony Hewish and their team",
   "when": "1967, and published in 1968",
   "wrong_idea": "Nobody expected a star to pulse so fast and so evenly, so the first guess was that a regular beat must come from machines on Earth. Bell's team showed that the beat followed star time, so it came from far beyond the Earth."

@@ -78,7 +78,7 @@
     },
     {
       "term": "Surface area",
-      "meaning": "The amount of outside that a thing has. The air can only push on the outside.",
+      "meaning": "Surface area is the size of the outside of a thing, which is all the parts that the air can touch. The air can only push on the outside of a thing, never on the inside.",
       "example": "A wide umbrella has a bigger surface area than a closed one, so the air pushes on it more.",
       "art": "An open umbrella and a closed umbrella side by side, with the outside of the open one shaded."
     },
@@ -140,7 +140,7 @@
       "description": "A falling thing has to push the air out of its way. The faster it goes, the more air particles it hits each second, and the harder it hits them. So the push of the air grows as the speed grows. A rough rule is that twice the speed gives four times the push. At the start the push of the air is tiny, and the pull of gravity wins, so the thing speeds up. At some speed the push of the air grows as big as the pull. The two are now equal, so nothing is left to speed the thing up. It falls at a steady speed. Gravity has not stopped pulling. The air is pushing back just as hard.",
       "examples": [
         "A big raindrop reaches about 30 kilometres an hour within a few metres of falling, and then falls at that steady speed all the way down.",
-        "A skydiver lying flat falls at about 200 kilometres an hour. If she pulls in her arms and legs and dives head first, she meets less air and falls faster, at about 250 to 290.",
+        "A skydiver lying flat falls at about 200 kilometres an hour. If she pulls in her arms and legs and dives head first, she meets less air and falls faster, at about 250 to 290 kilometres an hour.",
         "A peregrine falcon that folds her wings and dives passes 200 kilometres an hour."
       ],
       "perspectives": [],
@@ -256,7 +256,7 @@
       "concept": "Falling on other worlds",
       "status": "defined",
       "definition": "The Moon, Mars and Jupiter pull things down by different amounts, so a falling thing gains speed at a different rate on each.",
-      "description": "On Earth, a falling thing gains about 10 metres a second of speed every second. On the Moon it gains only about 1.6 metres a second every second, six times less, because the Moon is smaller and pulls less. On Mars it gains about 3.7. On Jupiter, at the top of the clouds, it gains about 25. A ball dropped from the height of a table, 1 metre, takes about 0.45 seconds to land on Earth. It takes 1.1 seconds on the Moon, 0.7 seconds on Mars and 0.3 seconds on Jupiter. The rule stays the same on every world. The speed grows by the same amount each second. Only the size of the amount changes.",
+      "description": "On Earth, a falling thing gains about 10 metres a second of speed every second. On the Moon it gains only about 1.6 metres a second every second. That is about one sixth as much as on Earth, because the Moon is smaller and pulls less. On Mars it gains about 3.7 metres a second every second. On Jupiter, at the top of the clouds, it gains about 25 metres a second every second. A ball dropped from the height of a table, 1 metre, takes about 0.45 seconds to land on Earth. It takes 1.1 seconds on the Moon, 0.7 seconds on Mars and 0.3 seconds on Jupiter. The rule stays the same on every world. The speed grows by the same amount each second. Only the size of the amount changes.",
       "examples": [
         "The astronauts who jumped on the Moon seemed to fall in slow motion, because they gained speed six times more slowly.",
         "A ball dropped on Mars takes about 1.6 times as long to land as on Earth."
@@ -447,9 +447,9 @@
     "three": {
       "who_am_i": "You are moving right now. You travel around the Earth's axis at hundreds of metres a second and around the Sun at about 30 kilometres a second, and you feel nothing.",
       "what_is_life": "A falcon folds her wings and dives at more than 200 kilometres an hour. A seed spins down slowly. Each living body meets the same pull and the same air in its own way.",
-      "what_is_this_world": "Dropping, throwing, tossing and walking all follow one rule. Gravity pulls down, and the sideways speed carries on."
+      "what_is_this_world": "Dropping, throwing, tossing and walking all follow one rule. Gravity pulls a thing down. The sideways speed does not change, so the thing keeps moving sideways while it falls."
     },
-    "thread": "Every falling thing near the Earth feels the same pull. A stone, a raindrop, a seed and a mouse all gain speed at the same rate to begin with. Falls look different because of other things: the air, the shape and size of the thing, and its sideways speed. The air itself is made of the same kind of particles as our bodies. So how a raindrop falls depends on the Earth, the air and the drop together, and not on any one of them alone.",
+    "thread": "Every falling thing near the Earth feels the same pull. A stone, a raindrop, a seed and a mouse all gain speed at the same rate to begin with. Falls look different because of other things: the air, the shape and size of the thing, and its sideways speed. The air is made of tiny particles, just as our own bodies are. How a raindrop falls depends on three things together: the pull of the Earth, the air the drop moves through, and the drop itself. No one of them decides it alone.",
     "teachings": [
       {
         "source": "Aryabhatiya, Golapada 9 (Aryabhata, 499 CE)",
@@ -646,8 +646,8 @@
           "id": "s3",
           "mins": 6,
           "do": "Play the next eight cards. Swap the reader's job after every card. Keep the tally going.",
-          "say": "Keep going. Think about the push of the air. Think about sideways speed. Think about weight and size.",
-          "kid": "Play on. Think about air, sideways speed, and weight.",
+          "say": "Keep going. For each card, ask yourself three things. Does the push of the air matter here? Is the thing moving sideways? How heavy and how big is it?",
+          "kid": "Play on. For each card, think about the air, the sideways speed and the weight.",
           "ask": [
             {
               "q": "Which card surprised you so far, and why?",
@@ -810,7 +810,7 @@
               "The stack of four is magic"
             ],
             "a": 0,
-            "why": "A wide, light thing is slowed a lot by the air. The heavier stack has more weight to fight the air, so it falls faster. A bottle is heavy and compact, so the air hardly matters."
+            "why": "A wide, light thing is slowed a lot by the air. The heavier stack has more weight to push against the air, so it falls faster. A heavy, compact thing, such as a full water bottle, is hardly slowed by the air at all."
           },
           "context": "In this step, you race a single liner against a stack of four."
         },
@@ -853,7 +853,7 @@
       "days": 1,
       "question": "If you let go of a ball while you walk, where does it land: behind the spot below your hand, right under it, or ahead of it? Does it matter how fast you walk?",
       "predict": "Before you start, guess. Will the ball land behind the mark, under it, or ahead of it? Will walking faster change where it lands? Why do you think so?",
-      "fair_test": "The ball, the drop height and the mark stay the same every time. You let go as your hand passes the mark and you do not throw. Only your walking speed changes. A helper times each walk along the 3 metre line, so each pace has a real speed: slow is about 6 seconds, easy about 3 seconds, brisk about 2 seconds. You do three drops at each pace, because one drop can be a fluke, and the helper marks the first place the ball touches the floor.",
+      "fair_test": "The ball, the drop height and the mark stay the same every time. You let go as your hand passes the mark and you do not throw. Only your walking speed changes. A helper times each walk along the 3 metre line, so each pace has a real speed. A slow walk takes about 6 seconds, an easy walk about 3 seconds, and a brisk walk about 2 seconds. You do three drops at each pace, because one drop can be a fluke, and the helper marks the first place the ball touches the floor.",
       "results_table": [
         "Pace (seconds to walk 3 m)",
         "Drop 1 (cm ahead of the mark)",
@@ -1337,7 +1337,7 @@
           "say": "Divide each weight by its number of faces. Which animal has the most weight for each bit of outside? What does that tell us about falling?",
           "kid": "Divide the weight by the faces. Which cube has the most weight for each outside face?",
           "think": "Which animal would have to fall fastest before the air pushed back enough?",
-          "parent": "The numbers are about 0.17 for the mouse, 0.33 for the cat and 0.5 for the horse. The air can only push on the outside. A bigger animal has more weight for every bit of outside, so she must fall faster before the push of the air equals her weight. That is why her top speed is higher. For a stretch: each number is the width divided by 6. So a cube 10 wide, standing for an elephant, would have a weight of 1000, 600 outside faces, and 1.67 of weight for each face.",
+          "parent": "The numbers are about 0.17 for the mouse, 0.33 for the cat and 0.5 for the horse. The air can only push on the outside. A bigger animal has more weight for every bit of outside, so she must fall faster before the push of the air equals her weight. That is why her top speed is higher. If you want to go further, notice that each number is the width of the cube divided by 6. So a cube 10 cubes wide, standing for an elephant, would have a weight of 1000 cubes and 600 outside faces. That is about 1.67 cubes of weight for each outside face.",
           "context": "This is the last step of Cube Animals. You compare the three animals."
         }
       ]
@@ -1424,7 +1424,7 @@
               "The string is too long"
             ],
             "a": 0,
-            "why": "The heavier swing swung at the same rate. The Earth pulls the heavier swing harder, but it is also harder to get moving, and the two cancel, as they do in a fall."
+            "why": "The heavier swing swung at the same rate. The Earth pulls a heavier swing harder, but a heavier swing is also harder to get moving. These two effects are exactly equal, so they cancel out, in the same way as they do when things fall."
           },
           "context": "In this step, you count the swings of one washer and of three washers."
         },
@@ -1444,7 +1444,7 @@
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
           "kid": "Say what you thought, what you saw and why.",
           "think": "Why does a playground swing take longer to swing back and forth when the chains are longer?",
-          "parent": "Listen first. Then say: a swinging washer is falling too, but the string keeps turning its fall into a curve. Heavy and light things fall at the same rate, and they swing at the same rate too. The length of the string decides the swing. A story says Galileo, aged 19, watched a lamp swing in the cathedral at Pisa and timed it with his pulse. His student Viviani told the story, and historians doubt some of its details.",
+          "parent": "Listen first. Then say: a swinging washer is falling too. The string stops it falling straight down, so it swings along a curve instead. Heavy and light things fall at the same rate, and they swing at the same rate too. The length of the string decides the swing. A story says Galileo, aged 19, watched a lamp swing in the cathedral at Pisa and timed it with his pulse. His student Viviani told the story, and historians doubt some of its details.",
           "context": "This is the last step of Swings. You explain what you found."
         }
       ]
@@ -1557,8 +1557,8 @@
         {
           "id": "s4",
           "mins": 7,
-          "do": "For each frame, work out the time in seconds by dividing the frame number by 30. Work out the distance fallen by taking the reading away from the top mark. Look for a pattern. Then try this for the last frame: change the distance to metres, double it, and divide by the time times the time.",
-          "say": "Time is the frame number divided by 30. Distance fallen is the top mark take away the reading. What pattern do you see?",
+          "do": "For each frame, work out the time in seconds by dividing the frame number by 30. Work out the distance fallen by taking the reading away from the height of the top mark. Look for a pattern. Then use the last frame to find how much speed the ball gains each second. First change the distance into metres. Then double it. Then divide by the time multiplied by itself.",
+          "say": "The time is the frame number divided by 30. The distance fallen is the height of the top mark minus the reading at that frame. What pattern do you see?",
           "kid": "Work out the time and the distance for each frame. Look for a pattern.",
           "ask": [
             {
@@ -1570,7 +1570,7 @@
               ]
             }
           ],
-          "parent": "Typically you will see about 14 centimetres at frame 5, 54 at frame 10, 122 at frame 15 and 176 at frame 18, give or take 10 centimetres. The last frame gives 2 times 1.76 metres, divided by (0.6 times 0.6), which is close to 9.8. You are doing well if you get a number between 8 and 12.",
+          "parent": "Typically you will see about 14 centimetres at frame 5, 54 at frame 10, 122 at frame 15 and 176 at frame 18, give or take 10 centimetres. For the last frame, double 1.76 metres to get 3.52 metres. Then divide that by 0.6 times 0.6, which is 0.36. The answer is about 9.8, which matches the real number. You are doing well if you get a number between 8 and 12.",
           "context": "In this step, you work out the times and distances, and then find how much speed the ball gains each second."
         },
         {
@@ -1927,7 +1927,7 @@
             "They land together, because gravity is the same everywhere"
           ],
           "a": 0,
-          "why": "The Moon pulls about six times less than the Earth, so a ball gains speed about six times more slowly there. It takes about 1.1 seconds, against 0.45 seconds on Earth.",
+          "why": "The Moon pulls about one sixth as hard as the Earth, so a ball gains speed about six times more slowly there. It takes about 1.1 seconds, against 0.45 seconds on Earth.",
           "outcome": 0
         },
         {
@@ -2014,7 +2014,7 @@
             "He thought that speed grows with the distance fallen",
             "Then falling 8 feet would give twice the speed of falling 4 feet",
             "So falling 8 feet would take the same time as falling 4 feet",
-            "Equal times for different distances would mean no time at all",
+            "A fall cannot take the same time as a smaller part of itself, unless it takes no time at all",
             "So the speed must grow with the time of the fall"
           ],
           "why": "Galileo followed his first idea to the end and found that it gave an impossible result. So the idea had to be wrong.",
@@ -2112,7 +2112,7 @@
           "t": "truefalse",
           "p": "A raindrop at its top speed is no longer pulled by gravity.",
           "a": false,
-          "why": "False. Gravity keeps pulling the drop all the time. At top speed the push of the air is just as big, so the two cancel and the speed stops changing.",
+          "why": "False. Gravity keeps pulling the drop all the time. At top speed the push of the air up is just as big as the pull down. The two are equal, so they cancel out and the speed stops changing.",
           "outcome": 1
         },
         {
@@ -2330,7 +2330,7 @@
         "He measured the speed with a very fast clock"
       ],
       "a": 0,
-      "why": "If speed grew with distance, the two falls would take equal times, which would mean no time at all. So the speed must grow with time.",
+      "why": "If speed grew with distance, a fall of 4 feet and a fall of 8 feet would take the same time. But the 4 feet are only the first part of the 8 feet, so the whole fall cannot take the same time as its own first part. That would mean the fall took no time at all, which is impossible. So the speed must grow with time.",
       "outcome": 6
     },
     {
@@ -2414,11 +2414,11 @@
     "Setting speed limits near schools, because twice the speed means four times the movement energy and about four times the distance to stop.",
     "Catching a ball in cricket: a fielder judges the curved path of the ball, which is a sideways movement and a fall added together.",
     "Heat shields on spacecraft that come back to Earth, which protect against the hot squeezed air in front.",
-    "Choosing the right size of a seed or a drone for the job: a larger area for the weight means a slower fall."
+    "Making a slow-falling drone, and understanding winged seeds: a larger area for the weight means a slower fall, because the air pushes back more."
   ],
   "spotted": [
     {
-      "text": "A stream of water from a tap gets thinner as it falls, because the water speeds up as it falls.",
+      "text": "A stream of water from a tap gets thinner as it falls. The water speeds up as it falls. The same amount of water passes every second, so when the water moves faster it spreads out into a thinner stream.",
       "art": "A tap in a kitchen sink with a stream of water that is wide near the tap and thin near the bottom."
     },
     {
@@ -2689,7 +2689,7 @@
     },
     {
       "q": "What was Galileo's first wrong idea about falling?",
-      "a": "That speed grows with the distance fallen. It grows with time."
+      "a": "He thought that speed grows with the distance fallen. It really grows with the time of the fall."
     }
   ],
   "plan": {
@@ -2771,11 +2771,11 @@
     ]
   },
   "how_we_found_out": {
-    "story": "In 1604, the Italian scientist Galileo Galilei wrote a letter to his friend Paolo Sarpi. He had found a rule for falling things and he was sure of it. He thought that the speed of a falling thing grows in proportion to the distance it has fallen. Later he saw that this could not be true. If it were, a stone would take the same time to fall the first 4 feet as to fall 8 feet, because after 4 feet it would be going twice as fast as after 2. Equal times for different distances would mean the fall happened in no time at all, and that is impossible. So the speed must grow with the time of the fall. In 1638, in his book Two New Sciences, Galileo gave the right rule and tested it with balls rolling down slopes. Historians think the argument against the first rule is Galileo correcting his own early mistake.",
+    "story": "In 1604, the Italian scientist Galileo Galilei wrote a letter to his friend Paolo Sarpi. He had found a rule for falling things and he was sure of it. He thought that the speed of a falling thing grows in proportion to the distance it has fallen. Later he saw that this could not be true. If it were, a stone would take the same time to fall the first 4 feet as to fall 8 feet, because after 4 feet it would be going twice as fast as after 2. But the first 4 feet are only a part of the 8 feet, so the whole fall cannot take the same time as a part of itself. That would mean the fall happened in no time at all, and that is impossible. So the speed must grow with the time of the fall. In 1638, in his book Two New Sciences, Galileo gave the right rule and tested it with balls rolling down slopes. Historians think the argument against the first rule is Galileo correcting his own early mistake.",
     "who": "Galileo Galilei, an Italian scientist (1564 to 1642)",
     "when": "1604 (the letter to Paolo Sarpi) and 1638 (the book Two New Sciences)",
     "wrong_idea": "The speed of a falling thing grows in proportion to the distance it has fallen. Galileo showed it wrong by reasoning: it would make falling 4 feet and 8 feet take the same time, which is impossible. The right rule is that speed grows with time."
   },
   "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Liner Stacks: the expected times (roughly 1.5 to 2 seconds for one liner and about 1 second for four, from 2 metres) come from the physics of a light paper cup, so check at home that the stack of four lands clearly sooner. Tumbling is common, so the steps say to repeat a wobble. The newspaper cones are a no-buy alternative that has not been dropped yet. Walking Drop: the landing distances of 20 to 90 centimetres come from a fall time of about 0.45 seconds at shoulder height, and a dough ball does not bounce. Dents in Dough: expect dents of a few millimetres, deeper from higher up, but dough springs back, so the ratio of 4 may not appear. The maths uses made-up numbers. Swings: about 20, 14 and 10 swings in 20 seconds for strings of 25, 50 and 100 centimetres, and the same count for one washer or three. Falling on Video: needs a phone that can step through a clip one frame at a time, or the free VLC player on a computer, and the expected values are 14, 54, 122 and 176 centimetres at frames 5, 10, 15 and 18 at 30 frames a second. Marble to the Cup: the paper ramp must stay still between tries. The videos have no address yet. Facts to check before the unit goes live: the top speeds of a falcon, a skydiver and a coin, the wording of the objections of Varahamihira and Brahmagupta, the date of Galileo's letter to Sarpi, the verse number in the Aryabhatiya, the cat study figures, and the speed of the Solar System compared with the cosmic microwave background.",
- "warm": {"words": ["SPEED", "DROPS", "FORCE", "MOUSE", "STONE"], "quiz": [["Without air, a falling thing gains the same amount of speed every second.", true, "The Earth's pull is steady, so it gives a steady speeding up of about 10 metres a second each second."], ["A raindrop keeps speeding up all the way from the cloud to the ground.", false, "The push of the air grows with speed until it equals the pull of gravity, and then speeding up stops."], ["At top speed, the push of the air up equals the pull of gravity down.", true, "The two forces balance, so the falling thing stops speeding up even though gravity still pulls."], ["A ball thrown hard sideways stays in the air longer than a ball dropped from the same height.", false, "Gravity changes only the falling part, so both balls land at the same moment."], ["Of two things with the same shape and size, the heavier one has the higher top speed.", true, "It needs a bigger push of air to balance its weight, and air pushes harder only when it goes faster."], ["Twice the speed gives twice the movement energy.", false, "Movement energy grows with speed times speed, so twice the speed gives four times the energy."], ["A ball tossed straight up in a smoothly moving train lands back in your hand.", true, "The ball already shares the train's sideways speed and keeps it while it rises and falls."], ["A coin dropped from a tall building can kill a person below.", false, "A coin tumbles and reaches a top speed of only about 50 to 80 kilometres an hour."], ["A mouse can fall from a height that would badly hurt a horse.", true, "A bigger animal has more weight compared with her body area, so she reaches a higher top speed."], ["The speed of a falling thing grows in proportion to the distance it has fallen.", false, "Speed grows with the time of the fall, the same gain every second, not the same gain every metre."]], "odd": [[["Raindrop", "Skydiver", "Falling coin", "Stone falling in a vacuum"], "Stone falling in a vacuum", "The first three reach a top speed because air pushes back, but with no air a stone keeps speeding up."], [["Mouse", "Cupcake liner", "Dust speck", "Horse"], "Horse", "The first three have a lot of outside area for their weight so air slows them, but a horse does not."], [["Thrown cricket ball", "Ball rolled off a table", "Water jet from a hose", "Stone dropped straight down"], "Stone dropped straight down", "The first three move sideways and fall at once so they follow a curve, but the stone only falls."], [["Brick on a roof", "Apple on a branch", "Pot on a high shelf", "Ball rolling on the ground"], "Ball rolling on the ground", "The first three have stored energy from being held up high, but the rolling ball has movement energy."], [["Meteor", "Space capsule coming home", "Speck of space rock", "The Moon"], "The Moon", "The first three fall into Earth's air so fast that the air glows, but the Moon stays far out."]]}
+ "warm": {"words": ["SPEED", "DROPS", "FORCE", "MOUSE", "STONE"], "quiz": [["Without air, a falling thing gains the same amount of speed every second.", true, "The Earth's pull is steady, so it gives a steady speeding up of about 10 metres a second each second."], ["A raindrop keeps speeding up all the way from the cloud to the ground.", false, "The push of the air grows with speed until it equals the pull of gravity, and then speeding up stops."], ["At top speed, the push of the air up equals the pull of gravity down.", true, "The two forces balance, so the falling thing stops speeding up even though gravity still pulls."], ["A ball thrown hard sideways stays in the air longer than a ball dropped from the same height.", false, "Gravity changes only the falling part, so both balls land at the same moment."], ["Of two things with the same shape and size, the heavier one has the higher top speed.", true, "The heavier thing needs a bigger push from the air to balance its weight. The air pushes harder only when the thing goes faster, so the heavier thing has to go faster."], ["Twice the speed gives twice the movement energy.", false, "Movement energy grows with speed times speed, so twice the speed gives four times the energy."], ["A ball tossed straight up in a smoothly moving train lands back in your hand.", true, "The ball already shares the train's sideways speed and keeps it while it rises and falls."], ["A coin dropped from a tall building can kill a person below.", false, "A coin tumbles and reaches a top speed of only about 50 to 80 kilometres an hour."], ["A mouse can fall from a height that would badly hurt a horse.", true, "A bigger animal has more weight compared with her body area, so she reaches a higher top speed."], ["The speed of a falling thing grows in proportion to the distance it has fallen.", false, "The speed grows with the time of the fall. A falling thing gains the same speed every second. It does not gain the same speed for every metre it falls."]], "odd": [[["Raindrop", "Skydiver", "Falling coin", "Stone falling in a vacuum"], "Stone falling in a vacuum", "The first three reach a top speed because air pushes back, but with no air a stone keeps speeding up."], [["Mouse", "Cupcake liner", "Dust speck", "Horse"], "Horse", "The first three have a lot of outside area for their weight so air slows them, but a horse does not."], [["Thrown cricket ball", "Ball rolled off a table", "Water jet from a hose", "Stone dropped straight down"], "Stone dropped straight down", "The first three move sideways and fall at once so they follow a curve, but the stone only falls."], [["Brick on a roof", "Apple on a branch", "Pot on a high shelf", "Ball rolling on the ground"], "Ball rolling on the ground", "The first three have stored energy from being held up high, but the rolling ball has movement energy."], [["Meteor", "Space capsule coming home", "Speck of space rock", "The Moon"], "The Moon", "The first three fall into Earth's air so fast that the air glows, but the Moon stays far out."]]}
 }

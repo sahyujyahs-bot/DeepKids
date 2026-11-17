@@ -274,8 +274,8 @@
   {
    "concept": "Why a bigger bounce does not take longer",
    "status": "defined",
-   "definition": "A bigger bounce has further to go, but a spring pulls harder when it is stretched further. So the load goes faster, and the two effects cancel. The bounce time stays the same.",
-   "description": "Most people expect a bigger bounce to take longer. Think about it from the spring's side. Pull the bottle down 2 centimetres, and the band pulls back with a small force. Pull it down 6 centimetres, and the band pulls with three times as much. A bigger pull speeds the bottle up more. So the bottle travels three times as far, but it also goes about three times as fast. The two effects cancel, and the time for one bounce stays the same. This works as long as the spring keeps pulling in even steps, that is, as long as double the stretch gives double the pull. This kind of pull is the reason a pendulum clock and a load on a spring keep steady time, however big the swing. Real bounces die away slowly, but the time of each one hardly changes. When the stretch gets very large, the pull no longer grows in even steps, and then the bounce time does change a little. Rubber bands show this a bit more than steel springs do.",
+   "definition": "A bigger bounce has further to go, but a spring also pulls harder when it is stretched further. So the load moves faster. The extra distance and the extra speed make up for each other, so the bounce time stays the same.",
+   "description": "Most people expect a bigger bounce to take longer. Think about it from the spring's side. Pull the bottle down 2 centimetres, and the band pulls back with a small force. Pull it down 6 centimetres, and the band pulls with three times as much. A bigger pull speeds the bottle up more. So the bottle travels three times as far, but it also goes about three times as fast. The extra distance and the extra speed make up for each other, so the time for one bounce stays the same. This works as long as the spring keeps pulling in even steps, that is, as long as double the stretch gives double the pull. This kind of pull is the reason a pendulum clock and a load on a spring keep steady time, however big the swing. Real bounces die away slowly, but the time of each one hardly changes. When the stretch gets very large, the pull no longer grows in even steps, and then the bounce time does change a little. Rubber bands show this a bit more than steel springs do.",
    "examples": [
     "One swing of a pendulum clock takes the same time whether it is large or small, as long as it is not too large.",
     "A bottle pulled down by 2 centimetres and a bottle pulled down by 6 centimetres bounce at about the same beat.",
@@ -381,7 +381,7 @@
    "concept": "Springs that keep time",
    "status": "defined",
    "definition": "Because a spring's bounce time does not change with the size of the bounce, springs make good clocks. Mechanical watches use a balance spring. Quartz watches use a crystal that vibrates. The second itself is now defined by the vibrations of atoms.",
-   "description": "A pendulum clock does not work on a rocking ship, which is why people needed something else. In the 1670s, Christiaan Huygens and Robert Hooke both worked on small coiled springs for watches. Such a spring pulls a tiny wheel back and forth at a steady beat. This balance spring is the reason a watch can go in a pocket and still keep time. Quartz watches use a tiny crystal of quartz, cut like a small tuning fork. It vibrates 32,768 times each second. A chip counts the beats and halves the count fifteen times to get one tick each second. Atomic clocks use something even steadier: the vibrations of caesium atoms. Since 1967, the second has been defined as exactly 9,192,631,770 of these vibrations. In each case, a springy thing with a steady natural beat is counting time for us. The steadier the beat, the better the clock. A good quartz watch is wrong by less than half a minute in a month. Atomic clocks are wrong by less than a second in millions of years.",
+   "description": "A pendulum clock does not work on a rocking ship, which is why people needed something else. In the 1670s, Christiaan Huygens and Robert Hooke both worked on small coiled springs for watches. Such a spring pulls a tiny wheel back and forth at a steady beat. This balance spring is the reason a watch can go in a pocket and still keep time. Quartz watches use a tiny crystal of quartz, cut like a small tuning fork. It vibrates 32,768 times each second. A chip counts the beats. It halves the count fifteen times in a row, because 32,768 halved fifteen times comes to exactly 1. That gives one tick each second. Atomic clocks use something even steadier: the vibrations of caesium atoms. Since 1967, the second has been defined as exactly 9,192,631,770 of these vibrations. In each case, a springy thing with a steady natural beat is counting time for us. The steadier the beat, the better the clock. A good quartz watch is wrong by less than half a minute in a month. Atomic clocks are wrong by less than a second in millions of years.",
    "examples": [
     "A mechanical watch has a balance spring that swings a small wheel back and forth, ticking about five times each second.",
     "A quartz watch counts the 32,768 vibrations each second of a small crystal.",
@@ -535,7 +535,7 @@
   {
    "text": "Pushing a spring in time with its natural beat builds a big movement from small pushes.",
    "evidence": "A swing pushed at the right moment goes higher and higher. A bottle on a band, with a hand moving its top end at the right beat, bounces many times as far as it does with a hand moving at other beats.",
-   "context": "This card is about resonance, the idea that timing matters as much as strength."
+   "context": "This card is about resonance. It shows that when you push matters as much as how hard you push."
   },
   {
    "text": "Bounces die away, because some of the energy turns into heat and sound.",
@@ -553,7 +553,7 @@
    "claim": "A bigger bounce takes longer than a small one.",
    "who": "Most people, who guess that a longer path takes more time.",
    "for": "A bigger bounce has further to go, and it looks slower.",
-   "against": "A bigger stretch makes the spring pull harder, so the load goes faster. The two effects cancel. Ten bounces of 2 centimetres and ten bounces of 6 centimetres take about the same time.",
+   "against": "A bigger stretch makes the spring pull harder, so the load goes faster. The extra distance and the extra speed make up for each other. Ten bounces of 2 centimetres and ten bounces of 6 centimetres take about the same time.",
    "status": "rejected",
    "context": "Many people guess that big bounces take longer. This card looks at that idea."
   },
@@ -719,15 +719,15 @@
      "items": [
       {
        "f": "A bottle bounces on a band. You pull it down twice as far before letting go. How does the bounce time change?",
-       "b": "The same. A bigger bounce goes faster, so the time does not change."
+       "b": "The same. A bigger bounce has further to go, but the band pulls harder, so the bottle goes faster. The time does not change."
       },
       {
        "f": "A bottle bounces on a band. You hang a bottle that is 4 times heavier. How does the bounce time change?",
-       "b": "Twice as long. The square root of 4 is 2."
+       "b": "Twice as long. The bounce time grows with the square root of the load, and the square root of 4 is 2."
       },
       {
        "f": "A load bounces on a band. You hang a load that is 9 times heavier. How does the bounce time change?",
-       "b": "Three times as long. The square root of 9 is 3."
+       "b": "Three times as long. The bounce time grows with the square root of the load, and the square root of 9 is 3."
       },
       {
        "f": "A load bounces on a band. You change to a spring that is 4 times stiffer, with the same load. How does the bounce time change?",
@@ -767,19 +767,19 @@
       },
       {
        "f": "A load hangs on one band. You use four identical bands in a row instead. How does the bounce time change?",
-       "b": "Twice as long. Four in a row is four times as soft."
+       "b": "Twice as long. Four bands in a row are four times as soft, and four times as soft makes the bounce take twice as long."
       },
       {
        "f": "A load hangs on one band. You use four identical bands side by side instead. How does the bounce time change?",
-       "b": "Half as long. Four side by side is four times as stiff."
+       "b": "Half as long. Four bands side by side are four times as stiff, and four times as stiff makes the bounce take half as long."
       },
       {
        "f": "A load of 1 kilogram bounces in 1 second on a band. A load of 0.25 kilograms hangs on it instead. How does the bounce time change?",
-       "b": "Half as long, which is 0.5 seconds. The load is 4 times lighter."
+       "b": "Half as long, which is 0.5 seconds. The load is 4 times lighter, and the square root of 4 is 2."
       },
       {
        "f": "A load of 1 kilogram bounces in 1 second on a band. A load of 4 kilograms hangs on it instead. How does the bounce time change?",
-       "b": "Twice as long, which is 2 seconds."
+       "b": "Twice as long, which is 2 seconds. The load is 4 times heavier, and the square root of 4 is 2."
       },
       {
        "f": "A bottle bounces on a band, and its bounce slowly dies away. Does the time for one bounce change as the bounces get smaller?",
@@ -795,11 +795,11 @@
       },
       {
        "f": "A load bounces on a spring. You hang a load 16 times heavier. How does the bounce time change?",
-       "b": "Four times as long. The square root of 16 is 4."
+       "b": "Four times as long. The bounce time grows with the square root of the load, and the square root of 16 is 4."
       },
       {
        "f": "A load bounces on a band. You hang a load 9 times lighter. How does the bounce time change?",
-       "b": "A third as long. The square root of 9 is 3, and 9 times lighter divides the time by 3."
+       "b": "A third as long. A load 9 times lighter divides the time by the square root of 9, which is 3."
       },
       {
        "f": "A watch's balance spring is changed to a stiffer one, with the same small wheel. How does its beat time change?",
@@ -893,7 +893,7 @@
        "It halves"
       ],
       "a": 0,
-      "why": "A bigger bounce has further to go, but the band pulls harder, so the bottle goes faster. The two effects cancel. A doubled time would only happen if the bottle went at the same speed. A halved time would mean the bottle went twice as fast over the same path."
+      "why": "A bigger bounce has further to go, but the band pulls harder, so the bottle goes faster. The extra distance and the extra speed make up for each other. The time would double only if the bottle kept the same speed over the longer path, and it does not."
      },
      "context": "In this step of Beat Match, you play more cards and see why some changes do not change the beat."
     },
@@ -912,7 +912,7 @@
        "0.5 seconds"
       ],
       "a": 0,
-      "why": "A load 4 times lighter divides the time by the square root of 4, which is 2. So 2 seconds becomes 1 second. The answer 8 seconds multiplies when it should divide. The answer 0.5 seconds divides by 4 instead of 2."
+      "why": "A load 4 times lighter divides the time by the square root of 4, which is 2. So 2 seconds becomes 1 second. An answer of 8 seconds comes from multiplying by 4 when you should divide. An answer of 0.5 seconds comes from dividing by 4 instead of by 2, the square root of 4."
      },
      "context": "In this step of Beat Match, you play the last cards and use square roots to find the new time."
     },
@@ -1042,7 +1042,7 @@
      "mins": 11,
      "do": "With the 500 gram packet in the bag, pull the bag down 2 centimetres and let go. Time ten bounces. Do this three times. Then pull the bag down 6 centimetres and time ten bounces three times. Write all six times.",
      "say": "Pull the bag down exactly 2 centimetres, let go and count ten bounces. Stop the clock on the tenth. Do it three times. Then pull down 6 centimetres and do it three times more.",
-     "kid": "Pull the bag down 2 cm. Let go. Time ten bounces. Do it three times. Then 6 cm.",
+     "kid": "Pull the bag down 2 centimetres. Let go. Time ten bounces. Do this three times. Then pull it down 6 centimetres.",
      "ask": [
       {
        "q": "What do you notice about the two sets of times?",
@@ -1053,10 +1053,10 @@
        ]
       }
      ],
-     "parent": "Expect about 7 to 11 seconds for ten bounces with the 500 gram load. The 2 centimetre and 6 centimetre times should be within a second or so of each other. Rubber bands damp the bounce, so count the first ten and stop. If the bounce dies away before ten, count eight and divide by eight. Start the clock when you let go, and call out the count as the bag passes the lowest point. Pull the bag straight down by the distance on the ruler, and let go without pushing. If it swings sideways, catch it and start again. Rubber bands vary, so your times may differ from these; what matters is the comparison between your own tests.",
+     "parent": "Expect about 7 to 11 seconds for ten bounces with the 500 gram load. The 2 centimetre and 6 centimetre times should be within a second or so of each other. Rubber bands damp the bounce, so count the first ten and stop. If the bounce dies away before ten, count eight and divide by eight. Start the clock when you let go, and call out the count as the bag passes the lowest point. Pull the bag straight down by the distance on the ruler, and let go without pushing. If it swings sideways, catch it and start again. Rubber bands vary, so your times may differ from these. What matters is the comparison between your own tests.",
      "check": {
       "t": "mcq",
-      "q": "Ten bounces from a 2 cm pull took 8.2 seconds, and ten bounces from a 6 cm pull took 8.4 seconds. What does this suggest?",
+      "q": "Ten bounces from a 2 centimetre pull took 8.2 seconds, and ten bounces from a 6 centimetre pull took 8.4 seconds. What does this suggest?",
       "options": [
        "The size of the bounce hardly changes the bounce time",
        "A bigger bounce is much faster",
@@ -1072,7 +1072,7 @@
      "mins": 11,
      "do": "Pull the bag down 4 centimetres every time. Time ten bounces three times with 250 grams, three times with 500 grams and three times with 1000 grams. Write all nine times.",
      "say": "Now we change the load. Use 250 grams, then 500 grams, then 1000 grams. Pull down 4 centimetres each time. Time ten bounces, three times for each load.",
-     "kid": "Pull down 4 cm each time. Use 250 g, 500 g and 1000 g. Time ten bounces, three times each.",
+     "kid": "Pull down 4 centimetres each time. Use 250 grams, then 500 grams, then 1000 grams. Time ten bounces, three times each.",
      "think": "How much longer do you expect 1000 grams to take than 250 grams?",
      "parent": "Typical times for ten bounces, though bands differ: roughly 5 to 8 seconds for 250 grams, 7 to 11 seconds for 500 grams and 10 to 16 seconds for 1000 grams. The 1000 gram time should be about 2 times the 250 gram time, since 1000 grams is four times 250 grams. Rubber bands stiffen when they are stretched a lot, so it is often a little under 2 times, perhaps 1.5 to 2.1. Any clear increase of about this size supports the idea. Keep the bag low over the cushion, and take the 1000 gram load off at once if the bands look thin and pale.",
      "check": {
@@ -1212,7 +1212,7 @@
        ]
       }
      ],
-     "parent": "The bag should bounce more than the hand moves when the beat is close to its own, perhaps 4 to 10 centimetres for a 2 centimetre hand movement, though rubber bands vary. At a much slower beat, the bag just follows the hand. At a much faster beat, it hardly moves at all. Rubber damps the bounce, so the best speed is a range rather than a single value. Read the biggest bounce as the distance between the highest and lowest place of the bottom of the bag. Hang the top loop over a pencil that you hold, so that the band cannot slip off your finger. No metronome? Use the stopwatch: the helper says go and stop, and you must finish ten ups and downs in 20 seconds (30 a minute), 15 seconds (40), 10 seconds (60), 7.5 seconds (75-80), 6 seconds (100) or 4 seconds (150).",
+     "parent": "The bag should bounce more than the hand moves when the beat is close to its own, perhaps 4 to 10 centimetres for a 2 centimetre hand movement, though rubber bands vary. At a much slower beat, the bag just follows the hand. At a much faster beat, it hardly moves at all. Rubber damps the bounce, so the best speed is a range rather than a single value. Read the biggest bounce as the distance between the highest and lowest place of the bottom of the bag. Hang the top loop over a pencil that you hold, so that the band cannot slip off your finger. No metronome? Use the stopwatch instead. The helper says go and stop, and you finish ten ups and downs in a set time. For 30 beats a minute, take 20 seconds. For 40, take 15 seconds. For 60, take 10 seconds. For 80, take 7.5 seconds. For 100, take 6 seconds. For 150, take 4 seconds.",
      "check": {
       "t": "mcq",
       "q": "The bag's own beat is 80 beats a minute. At which hand speed do you expect the biggest bounce?",
@@ -1233,7 +1233,7 @@
      "say": "Now the bag is twice as heavy. Will its favourite beat be faster or slower? Test the same six speeds and find out.",
      "kid": "Make the bag heavier. Will its favourite beat be faster or slower? Test it.",
      "think": "Why would a heavier bag want a slower shake?",
-     "parent": "A heavier load has a slower natural beat, about 0.7 times the beat of the 500 gram load, since the square root of 2 is about 1.4. So the best speed should drop from about 80 beats a minute to about 57. The nearest speeds to test are 60 and 40, and 60 will probably give the biggest bounce, though with soft bands the two may be close. If so, say that the best speed is between them.",
+     "parent": "A heavier load has a slower natural beat. Twice the load makes the beat about 0.7 times as fast, because the square root of 2 is about 1.4, and 1 divided by 1.4 is about 0.7. So the best speed should drop from about 80 beats a minute to about 57. The nearest speeds to test are 60 and 40, and 60 will probably give the biggest bounce, though with soft bands the two may be close. If so, say that the best speed is between them.",
      "context": "In this step, you change the load and look for the new favourite beat."
     },
     {
@@ -1353,10 +1353,10 @@
      "do": "Work out each stiffness. Divide 2.5 newtons by the extension in centimetres. Draw a bar chart with four bars. Then hang a second 250 gram packet too (500 grams in all) on the pen spring and on the wide band. Does the stretch double?",
      "say": "The load is 2.5 newtons. Divide it by the extension in centimetres. A bigger answer means a stiffer thing. Draw a bar for each one.",
      "kid": "Divide 2.5 by each extension. A bigger answer is stiffer. Draw a bar for each.",
-     "parent": "For example, an extension of 5 centimetres gives 2.5 divided by 5, which is 0.5 newtons for each centimetre. Typical values, which will differ with your things: a pen spring 1 to 3, a wide band 0.3 to 1. A thin band is usually softer than a wide band of the same length. With 500 grams, a pen spring stretches about twice as far as with 250 grams, because a spring follows the rule that double the pull gives double the stretch. A rubber band may stretch more or less than double, because it is not so regular. Say what you saw, whatever it is.",
+     "parent": "For example, an extension of 5 centimetres gives 2.5 divided by 5, which is 0.5 newtons for each centimetre. Your numbers will differ with your things. A pen spring is often about 1 to 3 newtons for each centimetre, and a wide band is often about 0.3 to 1. A thin band is usually softer than a wide band of the same length. With 500 grams, a pen spring stretches about twice as far as with 250 grams, because a spring follows the rule that double the pull gives double the stretch. A rubber band may stretch more or less than double, because it is not so regular. Say what you saw, whatever it is.",
      "check": {
       "t": "mcq",
-      "q": "A thing stretches 5 cm under 2.5 N. A second thing stretches 1 cm under 2.5 N. Which is stiffer, and how many times as stiff?",
+      "q": "A thing stretches 5 centimetres under a pull of 2.5 newtons. A second thing stretches 1 centimetre under the same pull. Which is stiffer, and how many times as stiff?",
       "options": [
        "The second, 5 times as stiff",
        "The first, 5 times as stiff",
@@ -1549,7 +1549,7 @@
      "say": "I bend the clip back, and then forward. That is one bend. You count out loud. Touch the bend lightly. Is it warm? Stop when it breaks.",
      "kid": "Count each bend aloud. Touch the bend lightly. Is it warm? Stop when it breaks.",
      "adult": true,
-     "parent": "Typical: a plain steel clip often breaks after about 5 to 20 bends of 90 degrees, but clips differ a lot, so use the middle of your three. The bend feels warm. The break usually starts at the outside of the bend, where the metal is stretched most. Keep the clip low over a tray. Wear glasses if you have them.",
+     "parent": "A plain steel clip often breaks after about 5 to 20 bends of 90 degrees. Clips differ a lot, so use the middle of your three. The bend feels warm. The break usually starts at the outside of the bend, where the metal is stretched most. Keep the clip low over a tray. Wear glasses if you have them.",
      "check": {
       "t": "mcq",
       "q": "A clip bends fine once, but snaps after 12 bends back and forth. What is the best explanation?",
@@ -1670,7 +1670,7 @@
      "kid": "Squeeze the tape flat. Is it still stiff? Try a flat card strip.",
      "adult": true,
      "think": "Why does a curve make a thin strip stiff?",
-     "parent": "The curve makes the tape like a very shallow tube, and a tube resists bending much more than a flat strip of the same material. Engineers use curved and tubular shapes for the same reason, in bicycle frames, bamboo, drinking straws and aeroplane bodies. Typical: a curved tape stands out about half a metre to over a metre, depending on its width; a flat card strip droops at about 10 to 15 centimetres; a tape pinched flat folds at once. No tape measure? Roll a sheet of paper into a tube and tape it: stood on end, it holds a few books, while the same flat sheet folds at once.",
+     "parent": "The curve makes the tape like a very shallow tube, and a tube resists bending much more than a flat strip of the same material. Engineers use curved and tubular shapes for the same reason, in bicycle frames, bamboo, drinking straws and aeroplane bodies. A curved tape typically stands out about half a metre to over a metre, depending on its width. A flat card strip droops at about 10 to 15 centimetres. A tape pinched flat folds at once. No tape measure? Roll a sheet of paper into a tube and tape it: stood on end, it holds a few books, while the same flat sheet folds at once.",
      "context": "In this step, you flatten the tape and see how its curve made it stiff."
     }
    ]
@@ -1740,14 +1740,14 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Work out the load needed. The bounce time must grow from your time to 1 second. Divide 1 by your time, and multiply the answer by itself. Multiply that by 500 grams. Write the load.",
-     "say": "We need a bigger bounce time, so we need a heavier load. Divide one second by your time. Multiply the answer by itself. That is how many times heavier. Multiply by 500 grams.",
-     "kid": "Divide 1 by your time. Multiply the answer by itself. Multiply by 500 g.",
+     "do": "Work out the load you need. The bounce time must grow from your time to 1 second. First divide 1 by your time. Then multiply the answer by itself. Last, multiply that by 500 grams. The result is the load to hang. Write it down.",
+     "say": "We need a bigger bounce time, so we need a heavier load. Divide one second by your time. Multiply the answer by itself. That tells you how many times heavier the load must be. Then multiply by 500 grams.",
+     "kid": "Divide 1 by your time. Multiply the answer by itself. Then multiply by 500 grams.",
      "think": "Why do you multiply the answer by itself?",
      "parent": "Bounce time grows with the square root of the load, so the load grows with the square of the time. For example, suppose your bounce time is 0.75 seconds and you want 1 second. 1 divided by 0.75 is 1.33. 1.33 times 1.33 is 1.78. 1.78 times 500 grams is about 890 grams. Use your own numbers. If the answer is over 1000 grams, stop at 1000 grams, add a third band to the chain (that makes it softer and slower), and start again from the first step. If your time with 500 grams is already over one second, you need a lighter load.",
      "check": {
       "t": "mcq",
-      "q": "A load of 500 g bounces in 0.5 seconds. About what load will bounce in 1 second?",
+      "q": "A load of 500 grams bounces in 0.5 seconds. About what load will bounce in 1 second?",
       "options": [
        "About 2000 g",
        "About 1000 g",
@@ -1881,7 +1881,7 @@
      "do": "Stick the 20 gram lump on the end of the ruler. Flick the end down about 1 centimetre and let go. Time ten wobbles. Do it three times and use the middle time. Do the same with 40 grams and 80 grams.",
      "say": "Stick the lump to the end. Flick the end down a little and let go. Count ten wobbles and stop the clock. Do it three times. Then do the same with the 40 gram and 80 gram lumps.",
      "kid": "Stick the clay on the end. Flick. Time ten wobbles. Do it three times. Then try heavier clay.",
-     "parent": "Typical: about 3 to 8 seconds for ten wobbles with a thin, bendy plastic ruler. The 80 gram time should be about 1.7 to 2 times the 20 gram time, not exactly 2, because the ruler has a little mass of its own. A stiff or thick ruler wobbles faster: if ten wobbles take under 3 seconds, slide more of the ruler out, or time 20 wobbles and halve. If the ruler droops more than about 5 centimetres under the 80 gram lump, slide less out. Use the same flick size each time. If the wobbles die away before ten, count eight and divide.",
+     "parent": "With a thin, bendy plastic ruler, ten wobbles typically take about 3 to 8 seconds. The 80 gram time should be about 1.7 to 2 times the 20 gram time, not exactly 2, because the ruler has a little mass of its own. A stiff or thick ruler wobbles faster: if ten wobbles take under 3 seconds, slide more of the ruler out, or time 20 wobbles and halve. If the ruler droops more than about 5 centimetres under the 80 gram lump, slide less out. Use the same flick size each time. If the wobbles die away before ten, count eight and divide.",
      "check": {
       "t": "mcq",
       "q": "Ten wobbles take 4 seconds with 20 grams. About how long do you expect for 80 grams?",
@@ -1930,7 +1930,7 @@
      "say": "Now we change the ruler, not the clay. A short ruler is stiff and a long ruler is soft. Which will wobble faster? Time ten wobbles at 15, 20 and 25 centimetres with the 40 gram lump.",
      "kid": "Change how much ruler sticks out: 15, 20 and 25 centimetres. Time ten wobbles with 40 g.",
      "think": "The clay is pulled down by gravity, but does the wobble need gravity? What sets the beat?",
-     "parent": "The shorter ruler is stiffer and should wobble faster, and the longer one slower. Typical: 15 centimetres may take about half the time of 25 centimetres, but rulers differ. This is the idea behind the astronaut's mass scale. Weight needs gravity, but a wobble depends only on the mass and the stiffness. Gravity only bends the ruler down a little and then the wobble goes on around that place, so the same scale works in space.",
+     "parent": "The shorter ruler is stiffer and should wobble faster, and the longer one slower. Ten wobbles at 15 centimetres may take about half the time they take at 25 centimetres, but rulers differ. This is the idea behind the astronaut's mass scale. Weight needs gravity, but a wobble depends only on the mass and the stiffness. Gravity only bends the ruler down a little. The wobble then goes on around that new, lower resting place, so the same scale works in space.",
      "check": {
       "t": "mcq",
       "q": "With the same clay, a ruler sticking out 15 centimetres wobbles faster than the same ruler sticking out 25 centimetres. What does this show?",
@@ -2070,14 +2070,14 @@
       "8 N for each cm"
      ],
      "a": 0,
-     "why": "Stiffness is the pull divided by the stretch. 2 divided by 4 is 0.5. The answer 8 multiplies the numbers instead of dividing them.",
+     "why": "Stiffness is the pull divided by the stretch. 2 divided by 4 is 0.5. An answer of 8 comes from multiplying the numbers instead of dividing them.",
      "outcome": 0
     },
     {
      "t": "truefalse",
      "p": "A bottle bounces on a band. If you pull it down twice as far before letting go, ten bounces take twice as long.",
      "a": false,
-     "why": "False. A bigger bounce goes further, but the band pulls harder and the bottle goes faster. The two effects cancel, so the time stays the same.",
+     "why": "False. A bigger bounce goes further, but the band pulls harder and the bottle goes faster. The extra distance and the extra speed make up for each other, so the time stays the same.",
      "outcome": 3
     },
     {
@@ -2123,7 +2123,7 @@
       "About 6 seconds"
      ],
      "a": 0,
-     "why": "Four times the load makes the bounce time twice as long, because the square root of 4 is 2. Twice 6 is 12. The answer 24 seconds multiplies by 4. The answer 6 seconds forgets that the load matters.",
+     "why": "Four times the load makes the bounce time twice as long, because the square root of 4 is 2. Twice 6 is 12. An answer of 24 seconds comes from multiplying by 4. An answer of 6 seconds comes from forgetting that the load matters.",
      "outcome": 4
     },
     {
@@ -2227,7 +2227,7 @@
       "The movement of the Sun"
      ],
      "a": 0,
-     "why": "A quartz watch uses a tiny crystal that vibrates 32,768 times each second. A chip counts the beats. A pendulum clock is a different kind of clock, and the Sun is used by a sundial.",
+     "why": "A quartz watch uses a tiny crystal that vibrates 32,768 times each second. A chip counts the beats. The other answers describe other kinds of clock. A pendulum clock counts the swings of a pendulum, and a sundial uses the shadow of the Sun.",
      "outcome": 7
     },
     {
@@ -2474,7 +2474,7 @@
      "t": "write",
      "p": "Using the idea of the pull of the spring, explain why a big bounce takes the same time as a small bounce.",
      "lines": 3,
-     "a": "A bigger bounce means the spring is stretched further, so it pulls harder. A harder pull speeds the load up more. The load goes further but also faster, and the two effects cancel, so the time stays the same.",
+     "a": "A bigger bounce means the spring is stretched further, so it pulls harder. A harder pull speeds the load up more. The load goes further but also faster. The extra distance and the extra speed make up for each other, so the time stays the same.",
      "why": "A strong answer says that the pull grows with the stretch, that the load is speeded up more, and that the longer path is covered at a higher speed.",
      "outcome": 3
     }
@@ -2962,9 +2962,9 @@
  ],
  "maths": [
   {
-   "problem": "Three made-up springs are each pulled with 2 N. They stretch 6 cm, 2 cm and 1 cm. Which spring is the stiffest? How many times stiffer than the 6 cm spring is the 1 cm spring?",
-   "answer": "The 1 cm spring is the stiffest. It is 6 times as stiff as the 6 cm spring.",
-   "explain": "The stiffnesses are 2 divided by 6, which is about 0.33, 2 divided by 2, which is 1, and 2 divided by 1, which is 2. 2 divided by 0.33 is about 6. You can also see it directly: the same pull stretches the first spring 6 times as far as the third.",
+   "problem": "Three made-up springs are each pulled with 2 newtons. They stretch 6 centimetres, 2 centimetres and 1 centimetre. Which spring is the stiffest? How many times stiffer than the 6 centimetre spring is the 1 centimetre spring?",
+   "answer": "The 1 centimetre spring is the stiffest. It is 6 times as stiff as the 6 centimetre spring.",
+   "explain": "The stiffnesses are 2 divided by 6, which is about 0.33, 2 divided by 2, which is 1, and 2 divided by 1, which is 2. So the third spring is about 6 times as stiff as the first, because 2 divided by 0.33 is about 6. You can also see this directly. The same pull stretches the first spring 6 times as far as the third.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "how": "a1",
    "context": "In the Stiffness League, you hang the same load on stretchy things and compare how far each stretches.",
@@ -2989,9 +2989,9 @@
    "why_maths": "The square-root rule lets you predict a bounce time before you test it. Perfect squares like 4 and 9 make the predictions easy to check."
   },
   {
-   "problem": "A band has a stiffness of 0.5 N for each cm. A 6 N packet hangs on it. How far does it stretch? How far do two such bands stretch in a row, and how far side by side?",
-   "answer": "12 cm for one band, 24 cm for two in a row, and 6 cm for two side by side.",
-   "explain": "6 divided by 0.5 is 12 cm for one band. Two in a row are half as stiff, with 0.25, and 6 divided by 0.25 is 24 cm. Two side by side are twice as stiff, with 1, and 6 divided by 1 is 6 cm.",
+   "problem": "A band has a stiffness of 0.5 newtons for each centimetre. A packet with a weight of 6 newtons hangs on it. How far does it stretch? How far do two such bands stretch in a row, and how far side by side?",
+   "answer": "12 centimetres for one band, 24 centimetres for two in a row, and 6 centimetres for two side by side.",
+   "explain": "6 divided by 0.5 is 12 centimetres for one band. Two in a row are half as stiff, which is 0.25, and 6 divided by 0.25 is 24 centimetres. Two side by side are twice as stiff, which is 1, and 6 divided by 1 is 6 centimetres.",
    "math_unit": "math.division.division-facts.L4",
    "context": "You have learnt that bands in a row are softer, and bands side by side are stiffer.",
    "why_maths": "Working out the stiffness of a group first, and then dividing the pull by it, shows how joining springs changes the stretch."
@@ -3291,7 +3291,7 @@
    "what_is_life": "Many living beings keep a steady beat. A hummingbird's wings, a cricket's chirp and a human heart each repeat at a rhythm that suits the body.",
    "what_is_this_world": "A bond between two atoms, a swing, a bridge and the surface of the Sun all have a natural beat. The world is full of springy things, each with its own favourite rhythm."
   },
-  "thread": "A swing, a band, a watch, a bond between two atoms and the whole Sun all behave as springs with a natural beat. They are very different things, and one rule describes all of them. Atoms hold on to each other with the electric force, and that pull-back is what makes anything springy. Whether there is a still deeper layer, such as tiny vibrating strings, is an idea that nobody has yet been able to test.",
+  "thread": "A swing, a band, a watch, a bond between two atoms and the whole Sun all behave as springs with a natural beat. They are very different things, and one rule describes all of them. Atoms hold on to each other with the electric force. When atoms are pushed closer together or pulled apart, that force pulls them back, and this is what makes anything springy. Whether there is a still deeper layer, such as tiny vibrating strings, is an idea that nobody has yet been able to test.",
   "teachings": [
    {
     "source": "Ecclesiastes 3:1",

@@ -7,7 +7,7 @@
   "art": "A two-pan balance and a rubber band scale side by side on a kitchen table, with cups of water, a lemon, and a small Moon drawn above."
  },
  "intro": {
-  "hook": "In a shop in Madurai, a mango sits in one pan of a two-pan balance. A 300-gram weight sits in the other pan. The pans are level. Now take the same balance, the same mango and the same weight to the Moon, where things weigh about six times less. Will the pans still be level? And what if the shopkeeper uses a spring scale instead? Make a guess, and say why.",
+  "hook": "In a shop in Madurai, a mango sits in one pan of a two-pan balance. A 300-gram weight sits in the other pan. The pans are level. Now take the same balance, the same mango and the same weight to the Moon, where things weigh only about one sixth as much. Will the pans still be level? And what if the shopkeeper uses a spring scale instead? Make a guess, and say why.",
   "text": "A balance and a spring scale both give a number for a mango, but they do it in different ways. In this unit you build both from things at home. You find out how far a rubber band stretches as you add water, and how to turn that into a scale. You find the one point where a cardboard shape balances, which can be a point with no cardboard at all. You weigh a fizzing bottle to see where mass goes. And you find out how, more than 200 years ago, someone weighed the whole Earth.",
   "art": "A mango in one pan and a 300-gram weight in the other pan of a brass balance, with the Moon in the sky behind the shop."
  },
@@ -155,7 +155,7 @@
   {
    "concept": "A spring scale measures a pull, so the place matters",
    "status": "defined",
-   "definition": "A spring scale measures the pull on its spring. On the Moon, the same mango pulls about six times less, so a spring scale shows about six times less.",
+   "definition": "A spring scale measures the pull on its spring. On the Moon, the same mango is pulled only about one sixth as hard, so a spring scale shows only about one sixth of the weight.",
    "description": "A spring scale does not compare the mango with a weight. It lets the mango stretch a spring, and reads the stretch. The stretch depends on how hard the mango is pulled down, which is its weight. On the Earth the pull on a 300-gram mango is about 3 newtons. On the Moon it is about 0.5 newtons. The mango has not lost any matter. The Moon simply pulls less. Many bathroom scales and kitchen scales also measure a push or a pull inside, then show a number in kilograms by assuming the Earth's pull. On the Moon, they would show about one sixth of the right mass.",
    "examples": [
     "A hanging scale in a vegetable shop is a spring scale.",
@@ -195,7 +195,7 @@
    "concept": "Weight equals mass times the pull of the world",
    "status": "defined",
    "definition": "Weight in newtons equals mass in kilograms times the pull of the world in newtons for each kilogram.",
-   "description": "A child of 30 kilograms on Earth has a weight of 30 times 9.8, which is 294 newtons. On the Moon it is 30 times 1.6, which is 48 newtons. On Mars it is 30 times 3.7, which is 111 newtons. Her mass is 30 kilograms in every place, because she brings all her matter with her. To feel what the Moon is like, you could carry a bag with a mass of about 160 grams in place of 1 kilogram. It pulls on your hand with the same force that 1 kilogram would on the Moon. This is why astronauts hop so easily on the Moon.",
+   "description": "A child of 30 kilograms on Earth has a weight of 30 times 9.8, which is 294 newtons. On the Moon it is 30 times 1.6, which is 48 newtons. On Mars it is 30 times 3.7, which is 111 newtons. Her mass is 30 kilograms in every place, because she brings all her matter with her. To feel what the Moon is like, hold a bag with a mass of about 160 grams. On Earth, it pulls on your hand with the same force that a bag of 1 kilogram would on the Moon. This is why astronauts hop so easily on the Moon.",
    "examples": [
     "On Earth, 30 kilograms weighs 294 newtons. On the Moon the same child weighs 48 newtons.",
     "A 2-kilogram bag on Mars would feel like a bag of about 760 grams on Earth.",
@@ -221,7 +221,7 @@
    "concept": "Steady or toppling: low, wide and over the feet",
    "status": "defined",
    "definition": "A thing topples when a vertical line down from its centre of gravity falls outside its base. A low centre of gravity and a wide base make a thing stable.",
-   "description": "Tilt a box slowly. At first, the line down from its centre of gravity still falls inside the base, and the box tips back. When the line passes the edge, the box falls over. A wide base makes the edge far away, and a low centre of gravity means you must tilt it a long way. That is why a steel bucket is steady and a tall vase is not. It is why a bus with luggage on the roof is dangerous, and why a lorry with a tall load can topple on a bend. You stay up by keeping the line down from your centre of gravity over your feet. Walking is falling forwards and catching yourself again.",
+   "description": "Tilt a box slowly. At first, the line down from its centre of gravity still falls inside the base, and the box tips back. When the line passes the edge, the box falls over. A wide base makes the edge far away, and a low centre of gravity means you must tilt it a long way. That is why a steel bucket is steady and a tall vase is not. It is why a bus with luggage on the roof is dangerous, and why a lorry with a tall load can topple on a bend. You stay up by keeping the line down from your centre of gravity over your feet. When you walk, you lean forward until you begin to fall. Then you put a foot out to catch yourself, again and again.",
    "examples": [
     "A bullock cart with sacks piled high is easier to topple than one with the sacks low.",
     "A person carrying a pot on the head keeps the pot's centre of gravity directly over their neck.",
@@ -234,7 +234,7 @@
    "concept": "Heavy things are hard to start and hard to stop",
    "status": "defined",
    "definition": "Mass is also how much a thing resists a change in its movement. A thing with twice the mass needs twice the push to speed up in the same way. This is called inertia.",
-   "description": "A full handcart is harder to get moving than an empty one, and harder to stop. The same push gives it a smaller change in speed. This does not depend on gravity. In space, where nothing weighs anything, a heavy crate is still hard to shove. Astronauts have to push hard to move a heavy crate, even though it floats. So mass does two jobs. It sets how hard gravity pulls on a thing, and it sets how hard the thing is to speed up. Scientists have found that these two jobs always match, and nobody knows why. This is why heavy and light things fall together.",
+   "description": "A full handcart is harder to get moving than an empty one, and harder to stop. The same push gives it a smaller change in speed. This does not depend on gravity. In space, where nothing weighs anything, a heavy crate is still hard to shove. Astronauts have to push hard to move a heavy crate, even though it floats. So mass does two jobs. It sets how hard gravity pulls on a thing, and it sets how hard the thing is to speed up. Scientists have found that these two jobs always match exactly, and nobody knows why. Because they match, a heavier thing is pulled harder but is also harder to speed up. So heavy and light things fall together.",
    "examples": [
     "A cricket ball is harder to catch than a tennis ball moving at the same speed, because stopping a bigger mass needs a bigger push.",
     "A loaded truck takes much longer to stop than an empty one.",
@@ -272,7 +272,7 @@
   {
    "concept": "Weighing the Earth, and looking inside it",
    "status": "defined",
-   "definition": "The Earth has a mass of about 6 followed by 24 zeros, in kilograms. It is about 5.5 times as dense as water, which shows that its inside is much denser than its rocks.",
+   "definition": "The Earth has a mass of about 6 followed by 24 zeros kilograms. It is about 5.5 times as dense as water, which shows that its inside is much denser than its rocks.",
    "description": "In 1798, Henry Cavendish in England hung two small lead balls on a rod from a thin wire. He brought two big lead balls close. The small balls moved a tiny amount, because every mass pulls every other mass. From that tiny twist, he found the Earth's density. It was about 5.4 times that of water. Rock at the surface is only about 2.7 times as dense. So the inside of the Earth must be much heavier than its rocks. Today we know there is a core of iron and nickel. In 1936, a Danish scientist named Inge Lehmann studied earthquake waves and worked out that inside the liquid outer core there is a solid inner core. Nobody has dug deeper than about 12 kilometres. We know the rest from weighing and from waves.",
    "examples": [
     "A cubic centimetre of average Earth has a mass of about 5.5 grams, a cubic centimetre of granite about 2.7 grams, and a cubic centimetre of water 1 gram.",
@@ -395,7 +395,7 @@
    "hint": "Think about what each one needs from the world in order to work."
   },
   {
-   "q": "Your centre of gravity can be in the air, outside your body, when you bend over. Where is 'you' then?",
+   "q": "Your centre of gravity can be in the air, outside your body, when you bend over. So is it really a part of you?",
    "kind": "deep",
    "hint": "Think about whether the centre of gravity is a part of you or a point that we work out."
   },
@@ -452,7 +452,7 @@
    "She took an empty water bottle from under the counter. She stood it on his scale and pressed the little button that made the number go to zero. Then she filled the bottle at the stall's tap, right up to the one-litre line.",
    "'A litre of water,' said Zainaba, 'has a mass of one kilogram. That is how the kilogram began. Everyone knows it, even the people who made your scale.' She set the bottle back on the pan. The numbers flickered, and settled. Nine hundred and sixty-two.",
    "Mr Joseph stared at them. 'It says nine hundred and sixty-two.' 'Yes,' said Zainaba. 'My bottle holds a kilo of water, and your scale says it is nearly forty grams short. Forty grams short is just what it said about the pepper.'",
-   "'Perhaps your water is short too,' said Mr Joseph, but his voice had gone small. 'Then let us ask Ummamma's balance,' said Zainaba. She put the iron kilo weight in the left pan, with an empty bottle exactly like the other one beside it. In the right pan, she put the bottle of water. The two empty bottles cancelled out each other. The pointer swayed, steadied, and stood straight up.",
+   "'Perhaps your water is short too,' said Mr Joseph, but his voice had gone small. 'Then let us ask Ummamma's balance,' said Zainaba. She put the iron kilo weight in the left pan, with an empty bottle exactly like the other one beside it. In the right pan, she put the bottle of water. The two empty bottles weighed the same, so they made no difference. The pointer swayed, steadied, and stood straight up.",
    "'The iron kilo and the water kilo agree with each other,' she said. 'It is only your scale that disagrees. Ummamma's balance does not know how hard the Earth pulls. It only compares one thing with another, so it would give the same answer on the Moon. Your scale has to turn a push into grams, and somebody has to set that right.'",
    "Mr Joseph turned the scale over, as if the answer might be written underneath. 'Perhaps the battery is weak,' he said at last. 'Perhaps it was never set right.' 'Perhaps,' said Zainaba kindly. 'It does not matter why. What matters is this. Before you trust a scale, weigh something you already know.'",
    "Ummamma's eyes were wet. She put a kilo of pepper on the right pan, and the pointer stood straight up, as it had for fifty years.",
@@ -510,7 +510,7 @@
       },
       {
        "f": "A spring scale shows 3 newtons for the same mango.",
-       "b": "Different. The Moon pulls about six times less, so the scale would show about 0.5 newtons."
+       "b": "Different. The Moon pulls only about one sixth as hard, so the scale would show about 0.5 newtons."
       },
       {
        "f": "The mass of a bag of rice, 2 kilograms.",
@@ -530,7 +530,7 @@
       },
       {
        "f": "How hard it is to lift a full bucket of water.",
-       "b": "Different. The bucket pulls on your arm about six times less."
+       "b": "Different. The Moon pulls the bucket only about one sixth as hard, so it feels about six times lighter."
       },
       {
        "f": "How hard it is to stop a fast cricket ball.",
@@ -546,7 +546,7 @@
       },
       {
        "f": "The stretch of a rubber band with a mango hanging from it.",
-       "b": "Different. The mango pulls the band about six times less on the Moon, so it stretches less."
+       "b": "Different. The Moon pulls the mango only about one sixth as hard, so the band stretches less."
       },
       {
        "f": "The amount of matter in your body.",
@@ -841,7 +841,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children say three times the water gives three times the stretch. That is a good guess, and it is called Hooke's law. The test checks whether a rubber band follows it. Roles: one child reads the ruler at eye level, one pours, and one writes the table and draws the graph; swap after each reading. One child with a parent: the parent pours, and the child reads and writes. With 2 to 4 children, each child can hang a different band and compare graphs. The lines will differ, which is why every band must be calibrated.",
+     "parent": "Do not correct the guess. Many children say three times the water gives three times the stretch. That is a good guess, and it is called Hooke's law. The test checks whether a rubber band follows it. Roles: one child reads the ruler at eye level, one pours, and one writes the table and draws the graph. Swap after each reading. One child with a parent: the parent pours, and the child reads and writes. With 2 to 4 children, each child can hang a different band and compare graphs. The lines will differ, which is why every band must be calibrated.",
      "context": "This is the first step of the Rubber Band Scale. You guess before you test."
     },
     {
@@ -1161,7 +1161,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children say the sugar disappears and the mass goes down. A few say the fizz makes it heavier. All are good guesses to test. Roles: one child weighs, one handles the water, ice or bottle, one writes the table. A grown-up does the closed bottle. One child with a parent: swap jobs for each test. With 2 to 4 children, one scale is enough; take turns on one test each.",
+     "parent": "Do not correct the guess. Many children say the sugar disappears and the mass goes down. A few say the fizz makes it heavier. All are good guesses to test. Roles: one child weighs, one handles the water, ice or bottle, one writes the table. A grown-up does the closed bottle. One child with a parent: swap jobs for each test. With 2 to 4 children, one scale is enough. Take turns on one test each.",
      "context": "This is the first step of Where Does the Mass Go. You guess before you test."
     },
     {
@@ -1498,7 +1498,7 @@
      "do": "Talk about what changed and what did not. Ask your child about the mass of the bottle on each world.",
      "say": "On every world, the bottle has the same amount of water in it. What changed? What stayed the same?",
      "kid": "On each world, what changed in the bottle? What stayed the same?",
-     "parent": "A good answer sounds like this. The mass stayed the same because the bottle has the same matter. The weight changed, because each world pulls differently. On the Moon, with a sixth of the weight, bones carry less, and astronauts' bones get weaker.",
+     "parent": "A good answer sounds like this. The mass stayed the same because the bottle has the same matter. The weight changed, because each world pulls differently. On the Moon you would have only a sixth of your Earth weight, so your bones would carry much less. This is one reason why astronauts' bones get weaker.",
      "think": "If you lived on the Moon, would your bones get stronger or weaker than on Earth? Why do you think so?",
      "context": "In this step, you think about what changes from world to world, and what does not."
     }
@@ -1986,7 +1986,7 @@
      "do": "Build the stack from the top down. Use steps of a half, a quarter, a sixth, an eighth and so on, of a box length. Measure the total overhang in box lengths. Compare it with your first stack.",
      "say": "Now use the pattern. Build from the top down. The top box sticks out a half. The next step is a quarter, then a sixth. How far does the whole stack stick out now?",
      "kid": "Build from the top down, with steps of a half, a quarter and a sixth of a box length. Measure the overhang again.",
-     "parent": "With 8 boxes, the total overhang is half of (1 plus one half plus one third plus one quarter plus one fifth plus one sixth plus one seventh plus one eighth). That is about 1.36 box lengths. Real boxes will give a little less, typically 1.1 to 1.3, because it is hard to place them exactly, so leave a gap of a millimetre or two. Matchboxes are light and slide, so move them gently. If they keep sliding, use small books or blocks. Matchboxes are about 5 centimetres long, so the overhang is about 7 centimetres.",
+     "parent": "With 8 boxes, start with 1. Then add one half, one third, one quarter, one fifth, one sixth, one seventh and one eighth. Take half of that total. The answer is about 1.36 box lengths. Real boxes will give a little less, typically 1.1 to 1.3, because it is hard to place them exactly, so leave a gap of a millimetre or two. Matchboxes are light and slide, so move them gently. If they keep sliding, use small books or blocks. Matchboxes are about 5 centimetres long, so the overhang is about 7 centimetres.",
      "check": {
       "t": "mcq",
       "q": "With the half, quarter, sixth pattern, the stack sticks out further than the equal-steps stack. Why?",
@@ -2231,7 +2231,7 @@
      "t": "truefalse",
      "p": "A spring scale gives the same reading for a mango on the Moon as on the Earth.",
      "a": false,
-     "why": "False. A spring scale measures the pull on the mango, and the Moon pulls about six times less. So the scale would show about one sixth of the Earth reading.",
+     "why": "False. A spring scale measures the pull on the mango, and the Moon pulls only about one sixth as hard. So the scale would show about one sixth of the Earth reading.",
      "outcome": 0
     },
     {
@@ -2373,7 +2373,7 @@
      "t": "write",
      "p": "Why does a spring scale show a smaller number for the same mango on the Moon?",
      "lines": 3,
-     "a": "A spring scale measures the pull on the mango, which is its weight. The Moon pulls about six times less than the Earth, so the spring stretches less. The mango has the same mass, but a smaller weight.",
+     "a": "A spring scale measures the pull on the mango, which is its weight. The Moon pulls only about one sixth as hard as the Earth, so the spring stretches less. The mango has the same mass, but a smaller weight.",
      "why": "A strong answer separates mass, which stays the same, from weight, which is the pull and changes with the world.",
      "outcome": 0
     },
@@ -3293,10 +3293,10 @@
   },
   "three": {
    "who_am_i": "Your balance point is somewhere near your belly when you stand. When you bend over, it can move out into the air in front of you, and you keep your balance by moving your feet.",
-   "what_is_life": "Every standing animal, including you, stays up by keeping the balance point above the feet. Walking is falling forwards and catching yourself again.",
+   "what_is_life": "Every standing animal, including you, stays up by keeping the balance point above the feet. When you walk, you lean forward until you begin to fall. Then you put a foot out to catch yourself, again and again.",
    "what_is_this_world": "The Earth and the Moon circle a balance point that is inside the Earth. The Sun and Jupiter circle a balance point that is just outside the Sun, in empty space."
   },
-  "thread": "Gravity pulls on every particle of a thing, one by one. Yet all of those separate pulls add up to something that behaves like a single pull at a single place. The same is true for the Earth, the Moon and the Sun: many pulls from many particles can be treated as one pull from one point. The balance point is not a thing. It is the one place where all the small pulls, added together, seem to act.",
+  "thread": "Gravity pulls on every particle of a thing, one by one. Yet all of those separate pulls add up to something that behaves like a single pull at a single place. The same is true for the Earth, the Moon and the Sun: many pulls from many particles can be treated as one pull from one point. The balance point is not a separate object. It is the one place where all the small pulls, added together, seem to act.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
@@ -3343,5 +3343,5 @@
   "when": "1798",
   "wrong_idea": "The Earth is rock all the way through, so its average density is that of surface rock, about 2.7 times water. Cavendish's number, about 5.4, showed that the inside must be much denser. Later work found an iron core."
  },
- "warm": {"words": ["SCALE", "WEIGH", "POINT", "LEVEL", "WATER"], "quiz": [["A two-pan balance gives the same answer on the Moon as on Earth.", true, "A balance compares two masses, so it does not depend on how hard the world pulls."], ["A spring scale shows the same reading on the Moon as on Earth.", false, "A spring scale measures the pull on its spring, and the Moon pulls about six times less."], ["For a steel spring, twice the pull gives twice the stretch, up to a limit.", true, "The stretch grows evenly with the pull until the elastic limit, where the spring stops springing back."], ["A plant's mass comes mostly from the soil.", false, "Most of a plant's dry mass comes from carbon dioxide in the air and from water."], ["In a closed bottle, the total mass stays the same when it fizzes.", true, "Nothing is lost. Mass only moves into another form, such as gas."], ["The Earth is solid rock all the way through, with no core.", false, "Earth's average density is about double that of surface rock, because it has a heavy core of iron and nickel."], ["A thing topples when a line down from its centre of gravity falls outside its base.", true, "Then the weight no longer acts over the base, so the thing tips over."], ["A thing with a high centre of gravity and a narrow base is very stable.", false, "A low centre of gravity and a wide base make a thing stable."], ["A thing with twice the mass needs twice the push to speed up the same way.", true, "Mass is also how much a thing resists a change in movement, which is called inertia."], ["The centre of gravity is always a spot inside the material of a thing.", false, "For a ring it lies in the empty hole, and for a boomerang it lies in the air beside it."]], "odd": [[["Ring", "Boomerang", "Person bending over", "Solid cricket ball"], "Solid cricket ball", "The first three can have their centre of gravity in empty air, but a solid ball has it inside."], [["Low wide pot", "Brick lying flat", "Pyramid of stone", "Tall narrow vase"], "Tall narrow vase", "The first three have a low centre of gravity and a wide base, but the vase is tall with a narrow base."], [["Loaded truck", "Full water tank", "Heavy iron ball", "Empty paper cup"], "Empty paper cup", "The first three have a lot of mass so they are hard to start and stop, but the cup has little."], [["Iron", "Lead", "Steel", "Cotton"], "Cotton", "The first three pack a lot of mass into a small space, but cotton is not dense."], [["Carbon dioxide from the air", "Rain water", "Water from a well", "Soil"], "Soil", "The first three give most of a plant's mass, but soil gives very little of it."]]}
+ "warm": {"words": ["SCALE", "WEIGH", "POINT", "LEVEL", "WATER"], "quiz": [["A two-pan balance gives the same answer on the Moon as on Earth.", true, "A balance compares two masses, so it does not depend on how hard the world pulls."], ["A spring scale shows the same reading on the Moon as on Earth.", false, "A spring scale measures the pull on its spring, and the Moon pulls only about one sixth as hard."], ["For a steel spring, twice the pull gives twice the stretch, up to a limit.", true, "The stretch grows evenly with the pull until the elastic limit, where the spring stops springing back."], ["A plant's mass comes mostly from the soil.", false, "Most of a plant's dry mass comes from carbon dioxide in the air and from water."], ["In a closed bottle, the total mass stays the same when it fizzes.", true, "Nothing is lost. Mass only moves into another form, such as gas."], ["The Earth is solid rock all the way through, with no core.", false, "Earth's average density is about double that of surface rock, because it has a heavy core of iron and nickel."], ["A thing topples when a line down from its centre of gravity falls outside its base.", true, "Then the weight is no longer held up by the base, so the thing tips over."], ["A thing with a high centre of gravity and a narrow base is very stable.", false, "A low centre of gravity and a wide base make a thing stable."], ["A thing with twice the mass needs twice the push to speed up the same way.", true, "Mass is also how much a thing resists a change in movement, which is called inertia."], ["The centre of gravity is always a spot inside the material of a thing.", false, "For a ring it lies in the empty hole, and for a boomerang it lies in the air beside it."]], "odd": [[["Ring", "Boomerang", "Person bending over", "Solid cricket ball"], "Solid cricket ball", "The first three can have their centre of gravity in empty air, but a solid ball has it inside."], [["Low wide pot", "Brick lying flat", "Pyramid of stone", "Tall narrow vase"], "Tall narrow vase", "The first three have a low centre of gravity and a wide base, but the vase is tall with a narrow base."], [["Loaded truck", "Full water tank", "Heavy iron ball", "Empty paper cup"], "Empty paper cup", "The first three have a lot of mass so they are hard to start and stop, but the cup has little."], [["Iron", "Lead", "Steel", "Cotton"], "Cotton", "The first three pack a lot of mass into a small space, but cotton is not dense."], [["Carbon dioxide from the air", "Rain water", "Water from a well", "Soil"], "Soil", "The first three give most of a plant's mass, but soil gives very little of it."]]}
 }

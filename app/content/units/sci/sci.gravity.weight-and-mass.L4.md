@@ -3,7 +3,7 @@
 
 **Summary.** A shopkeeper's two-pan balance would give the same answer on the Moon, but a spring scale would not. Your child finds out why by building both kinds of scale from a rubber band, a ruler and cups of water, where 100 millilitres of water has a mass of 100 grams. They hang cardboard shapes from a plumb line to find where a thing's weight seems to pull, and they weigh a bottle before and after it fizzes to see where mass goes. They then learn how the Earth itself was weighed, and what its weight showed about its inside.
 
-**Intro.** *In a shop in Madurai, a mango sits in one pan of a two-pan balance. A 300-gram weight sits in the other pan. The pans are level. Now take the same balance, the same mango and the same weight to the Moon, where things weigh about six times less. Will the pans still be level? And what if the shopkeeper uses a spring scale instead? Make a guess, and say why.* A balance and a spring scale both give a number for a mango, but they do it in different ways. In this unit you build both from things at home. You find out how far a rubber band stretches as you add water, and how to turn that into a scale. You find the one point where a cardboard shape balances, which can be a point with no cardboard at all. You weigh a fizzing bottle to see where mass goes. And you find out how, more than 200 years ago, someone weighed the whole Earth.
+**Intro.** *In a shop in Madurai, a mango sits in one pan of a two-pan balance. A 300-gram weight sits in the other pan. The pans are level. Now take the same balance, the same mango and the same weight to the Moon, where things weigh only about one sixth as much. Will the pans still be level? And what if the shopkeeper uses a spring scale instead? Make a guess, and say why.* A balance and a spring scale both give a number for a mango, but they do it in different ways. In this unit you build both from things at home. You find out how far a rubber band stretches as you add water, and how to turn that into a scale. You find the one point where a cardboard shape balances, which can be a point with no cardboard at all. You weigh a fizzing bottle to see where mass goes. And you find out how, more than 200 years ago, someone weighed the whole Earth.
 
 ## Learning outcomes
 0. I can explain that a balance compares masses, so it gives the same answer on the Moon, while a spring scale measures a pull, so it gives a different answer.
@@ -40,12 +40,12 @@
 ### A balance compares, so it works anywhere · *defined*
 **Definition:** A two-pan balance compares two masses. When the pans are level, the two masses are equal. It gives the same answer on the Earth, on the Moon and in a lift.
 
-On each pan, gravity pulls down on whatever is there. The pull on the left pan and the pull on the right pan are both made by the same world, so they change together. If the two masses are equal, the two pulls are equal at any place. If the pulls were six times smaller on the Moon, both would be six times smaller, and the pans would still be level. So a balance does not measure gravity at all. It measures how much stuff, which is mass. The mango and the 300-gram weight would balance on the Moon too. This is the way that shops have weighed things for thousands of years.
+On each pan, gravity pulls down on whatever is there. The pull on the left pan and the pull on the right pan are both made by the same world, so they change together. If the two masses are equal, the two pulls are equal at any place. If the pulls were six times smaller on the Moon, both would be six times smaller, and the pans would still be level. So a balance does not measure gravity at all. It measures how much stuff there is, which is mass. The mango and the 300-gram weight would balance on the Moon too. This is the way that shops have weighed things for thousands of years.
 - e.g. A shopkeeper's tarazu, a two-pan balance with iron weights, gives the same answer in Kochi, on a mountain, or on the Moon.
 - e.g. A kilo of rice balances a kilo of iron on a balance anywhere, even though the rice takes up about ten times more room.
 - e.g. A goldsmith's tiny balance weighs gold the same way, by comparing it with small standard weights.
 ### A spring scale measures a pull, so the place matters · *defined*
-**Definition:** A spring scale measures the pull on its spring. On the Moon, the same mango pulls about six times less, so a spring scale shows about six times less.
+**Definition:** A spring scale measures the pull on its spring. On the Moon, the same mango is pulled only about one sixth as hard, so a spring scale shows only about one sixth of the weight.
 
 A spring scale does not compare the mango with a weight. It lets the mango stretch a spring, and reads the stretch. The stretch depends on how hard the mango is pulled down, which is its weight. On the Earth the pull on a 300-gram mango is about 3 newtons. On the Moon it is about 0.5 newtons. The mango has not lost any matter. The Moon simply pulls less. Many bathroom scales and kitchen scales also measure a push or a pull inside, then show a number in kilograms by assuming the Earth's pull. On the Moon, they would show about one sixth of the right mass.
 - e.g. A hanging scale in a vegetable shop is a spring scale.
@@ -61,14 +61,14 @@ Robert Hooke, an English scientist, studied springs for clocks in the 1600s. He 
 ### How strongly a world pulls: newtons for each kilogram · *defined*
 **Definition:** The pull of a world on each kilogram is its strength of gravity, in newtons for each kilogram. On Earth it is about 9.8.
 
-On Earth, a mass of 1 kilogram has a weight of about 9.8 newtons. On the Moon it is about 1.6. On Mars it is about 3.7. On Venus it is about 8.9. At the cloud tops of Jupiter it is about 25. At the surface of the Sun it is about 274. These numbers depend on the mass of the world and on how far you are from its centre. The same number tells how fast a falling thing speeds up each second. Earth's 9.8 newtons for each kilogram goes with 9.8 metres per second more each second. Strong worlds pull hard and speed things up fast.
+On Earth, a mass of 1 kilogram has a weight of about 9.8 newtons. On the Moon it is about 1.6. On Mars it is about 3.7. On Venus it is about 8.9. At the cloud tops of Jupiter it is about 25. At the surface of the Sun it is about 274. These numbers depend on the mass of the world and on how far you are from its centre. The same number tells how fast a falling thing speeds up each second. On Earth, where the pull is 9.8 newtons for each kilogram, a falling thing gets 9.8 metres per second faster every second. Strong worlds pull hard and speed things up fast.
 - e.g. On the Moon, a bag of 1 kilogram weighs 1.6 newtons. On Earth it would take only about 160 grams to weigh that much.
 - e.g. On Mars, the pull is about 3.7 newtons for each kilogram, a bit more than a third of Earth's.
 - e.g. At the surface of the Sun, a bag of 1 kilogram would weigh about 274 newtons, which is what a 28-kilogram bag weighs on Earth.
 ### Weight equals mass times the pull of the world · *defined*
 **Definition:** Weight in newtons equals mass in kilograms times the pull of the world in newtons for each kilogram.
 
-A child of 30 kilograms on Earth has a weight of 30 times 9.8, which is 294 newtons. On the Moon it is 30 times 1.6, which is 48 newtons. On Mars it is 30 times 3.7, which is 111 newtons. Her mass is 30 kilograms in every place, because she brings all her matter with her. To feel what the Moon is like, you could carry a bag with a mass of about 160 grams in place of 1 kilogram. It pulls on your hand with the same force that 1 kilogram would on the Moon. This is why astronauts hop so easily on the Moon.
+A child of 30 kilograms on Earth has a weight of 30 times 9.8, which is 294 newtons. On the Moon it is 30 times 1.6, which is 48 newtons. On Mars it is 30 times 3.7, which is 111 newtons. Her mass is 30 kilograms in every place, because she brings all her matter with her. To feel what the Moon is like, hold a bag with a mass of about 160 grams. On Earth, it pulls on your hand with the same force that a bag of 1 kilogram would on the Moon. This is why astronauts hop so easily on the Moon.
 - e.g. On Earth, 30 kilograms weighs 294 newtons. On the Moon the same child weighs 48 newtons.
 - e.g. A 2-kilogram bag on Mars would feel like a bag of about 760 grams on Earth.
 - e.g. A 1-kilogram bag on Jupiter would feel like a bag of about 2.5 kilograms on Earth.
@@ -82,14 +82,14 @@ Gravity pulls on every part of a thing, every crumb of cardboard and every grain
 ### Steady or toppling: low, wide and over the feet · *defined*
 **Definition:** A thing topples when a vertical line down from its centre of gravity falls outside its base. A low centre of gravity and a wide base make a thing stable.
 
-Tilt a box slowly. At first, the line down from its centre of gravity still falls inside the base, and the box tips back. When the line passes the edge, the box falls over. A wide base makes the edge far away, and a low centre of gravity means you must tilt it a long way. That is why a steel bucket is steady and a tall vase is not. It is why a bus with luggage on the roof is dangerous, and why a lorry with a tall load can topple on a bend. You stay up by keeping the line down from your centre of gravity over your feet. Walking is falling forwards and catching yourself again.
+Tilt a box slowly. At first, the line down from its centre of gravity still falls inside the base, and the box tips back. When the line passes the edge, the box falls over. A wide base makes the edge far away, and a low centre of gravity means you must tilt it a long way. That is why a steel bucket is steady and a tall vase is not. It is why a bus with luggage on the roof is dangerous, and why a lorry with a tall load can topple on a bend. You stay up by keeping the line down from your centre of gravity over your feet. When you walk, you lean forward until you begin to fall. Then you put a foot out to catch yourself, again and again.
 - e.g. A bullock cart with sacks piled high is easier to topple than one with the sacks low.
 - e.g. A person carrying a pot on the head keeps the pot's centre of gravity directly over their neck.
 - e.g. A cricket bat stood on one end falls over easily, but a bat lying flat cannot fall at all.
 ### Heavy things are hard to start and hard to stop · *defined*
 **Definition:** Mass is also how much a thing resists a change in its movement. A thing with twice the mass needs twice the push to speed up in the same way. This is called inertia.
 
-A full handcart is harder to get moving than an empty one, and harder to stop. The same push gives it a smaller change in speed. This does not depend on gravity. In space, where nothing weighs anything, a heavy crate is still hard to shove. Astronauts have to push hard to move a heavy crate, even though it floats. So mass does two jobs. It sets how hard gravity pulls on a thing, and it sets how hard the thing is to speed up. Scientists have found that these two jobs always match, and nobody knows why. This is why heavy and light things fall together.
+A full handcart is harder to get moving than an empty one, and harder to stop. The same push gives it a smaller change in speed. This does not depend on gravity. In space, where nothing weighs anything, a heavy crate is still hard to shove. Astronauts have to push hard to move a heavy crate, even though it floats. So mass does two jobs. It sets how hard gravity pulls on a thing, and it sets how hard the thing is to speed up. Scientists have found that these two jobs always match exactly, and nobody knows why. Because they match, a heavier thing is pulled harder but is also harder to speed up. So heavy and light things fall together.
 - e.g. A cricket ball is harder to catch than a tennis ball moving at the same speed, because stopping a bigger mass needs a bigger push.
 - e.g. A loaded truck takes much longer to stop than an empty one.
 - e.g. An astronaut in orbit still needs a hard push to move a heavy crate, even though it weighs nothing.
@@ -108,7 +108,7 @@ In the first half of the 1600s, a Flemish doctor named Jan Baptist van Helmont g
 - e.g. A seed in a pot of soil grows into a plant with much more mass than the seed.
 - e.g. The carbon in a chapati was carbon dioxide in the air once, taken in by a wheat plant.
 ### Weighing the Earth, and looking inside it · *defined*
-**Definition:** The Earth has a mass of about 6 followed by 24 zeros, in kilograms. It is about 5.5 times as dense as water, which shows that its inside is much denser than its rocks.
+**Definition:** The Earth has a mass of about 6 followed by 24 zeros kilograms. It is about 5.5 times as dense as water, which shows that its inside is much denser than its rocks.
 
 In 1798, Henry Cavendish in England hung two small lead balls on a rod from a thin wire. He brought two big lead balls close. The small balls moved a tiny amount, because every mass pulls every other mass. From that tiny twist, he found the Earth's density. It was about 5.4 times that of water. Rock at the surface is only about 2.7 times as dense. So the inside of the Earth must be much heavier than its rocks. Today we know there is a core of iron and nickel. In 1936, a Danish scientist named Inge Lehmann studied earthquake waves and worked out that inside the liquid outer core there is a solid inner core. Nobody has dug deeper than about 12 kilometres. We know the rest from weighing and from waves.
 - e.g. A cubic centimetre of average Earth has a mass of about 5.5 grams, a cubic centimetre of granite about 2.7 grams, and a cubic centimetre of water 1 gram.
@@ -122,7 +122,7 @@ A digital bathroom or kitchen scale has strain gauges inside. These are thin met
 - e.g. Many countries had copies of the old kilogram cylinder, and India's national standards of measurement are kept at the National Physical Laboratory in New Delhi.
 - e.g. A litre of water has a mass of about 1 kilogram. The kilogram was first meant to match a litre of water.
 ### Big G: the number scientists cannot agree on · *debated*
-**Definition:** Big G is the number in Newton's rule for gravity that sets how strongly any two masses pull each other. It is the least well known of the main constants.
+**Definition:** Big G is the number in Newton's rule for gravity that sets how strongly any two masses pull each other. Physics has a few main fixed numbers, called constants, and big G is the one known least exactly.
 
 Henry Cavendish's experiment can be redone with better tools. Laboratories around the world have measured big G, and their answers differ slightly, by more than the errors they claim. We know G to about 4 or 5 digits. Many other constants are known to eight or nine digits or more. Nobody knows why G is so hard to pin down. Gravity is extremely weak, so tiny stray pulls from nearby objects, from the weather, even from the people moving in the building, can spoil a measurement.
 - e.g. Some other constants are known to nine digits or more. Big G is known to only about five.
@@ -157,27 +157,27 @@ Henry Cavendish's experiment can be redone with better tools. Laboratories aroun
   For: Roots go into the soil, and plants grow only where there is soil.  
   Against: Van Helmont's willow grew about 75 kilograms in five years while the soil in the pot lost only about 57 grams. Most of a plant's dry mass comes from carbon dioxide in the air, and from water.
 - **The Earth is solid rock all the way through.** (Many people, before the 1700s.; *rejected*)  
-  For: Every rock we can dig up is rock, and the surface looks like rock everywhere.  
+  For: Wherever we dig, we find rock, and the surface looks like rock everywhere.  
   Against: The Earth's average density, found by Cavendish in 1798, is about 5.4 times that of water. Surface rock is only about 2.7 times. So the inside must be much denser. Earthquake waves later showed an iron core, with a solid inner core found by Inge Lehmann in 1936.
 - **Big G is known exactly, so the strength of gravity between any two masses is certain.** (Many people, who see it printed in tables.; *rejected*)  
   For: The number is printed to many digits in tables, and gravity behaves very regularly.  
   Against: Careful laboratories get answers that differ by more than they should. Big G is known to only about five digits. Gravity is so weak that tiny stray pulls spoil the measurements.
 
 ## Roots
-We have hung cardboard shapes from a plumb line and weighed things two ways. Now we ask what the centre of gravity tells us about things, about ourselves and about the world.
+In Where Does It Balance, we hung cardboard shapes from a pin, and the plumb lines we drew on them crossed at the centre of gravity. We also weighed things two ways, with a balance and with a rubber band scale. Now we ask what the centre of gravity tells us about things, about ourselves and about the world.
 
-**Deep truth.** Every crumb of the cardboard ring was pulled down by the Earth. Yet the whole ring acted as if one single pull worked at its centre. At that centre, there is only a hole. So the place where a thing's weight seems to act can be a place with nothing in it.  
+**Deep truth.** The Earth pulls down on every crumb of a cardboard ring. Yet the whole ring acts as if one single pull worked at its centre, and at that centre there is only a hole. So the place where a thing's weight seems to act can be a place with nothing in it.  
 *Habit it breaks:* We say 'the weight is in the thing', or 'the middle of it is the heaviest part', as if weight sat inside the material. But weight is a pull on every part, and the one place where it all seems to act is a point that we work out.  
 *Evidence:* In Where Does It Balance, the plumb lines for the ring crossed in the empty hole, and the lines for the crescent crossed in the air beside it. There was no cardboard at either place.
 
 - *who am i:* Your balance point is somewhere near your belly when you stand. When you bend over, it can move out into the air in front of you, and you keep your balance by moving your feet.
-- *what is life:* Every standing animal, including you, stays up by keeping the balance point above the feet. Walking is falling forwards and catching yourself again.
+- *what is life:* Every standing animal, including you, stays up by keeping the balance point above the feet. When you walk, you lean forward until you begin to fall. Then you put a foot out to catch yourself, again and again.
 - *what is this world:* The Earth and the Moon circle a balance point that is inside the Earth. The Sun and Jupiter circle a balance point that is just outside the Sun, in empty space.
 
-Gravity pulls on every particle of a thing, one by one. Yet all of those separate pulls add up to something that behaves like a single pull at a single place. The same trick works for the Earth, the Moon and the Sun: many pulls from many particles can be treated as one pull from one point. The balance point is not a thing. It is the place where all the small pulls agree.
+Gravity pulls on every particle of a thing, one by one. Yet all of those separate pulls add up to something that behaves like a single pull at a single place. The same is true for the Earth, the Moon and the Sun: many pulls from many particles can be treated as one pull from one point. The balance point is not a separate object. It is the one place where all the small pulls, added together, seem to act.
 
-- **Tao Te Ching 11:** Thirty spokes share one hub, but it is the empty space in the middle that makes the wheel useful. Clay is shaped into a pot, but it is the emptiness inside that holds what you pour in. (The centre of a ring is a hole, yet it is the place where the whole ring's weight seems to act. The empty middle is what the whole shape turns on.)
-- **Avatamsaka Sutra, the image of Indra's net:** Indra's net is a net of jewels in which every jewel reflects every other jewel. Each one holds all the others. (Every particle of the Earth pulls every particle of the cardboard ring, and each of them pulls back. The balance point is where all those separate pulls meet and agree.)
+- **Tao Te Ching 11:** Thirty spokes share one hub, but it is the empty space in the middle that makes the wheel useful. Clay is shaped into a pot, but it is the emptiness inside that holds what you pour in. (The centre of a ring is a hole, yet it is the place where the whole ring's weight seems to act. Like the hub of the wheel, the empty middle matters.)
+- **Avatamsaka Sutra, the image of Indra's net:** Indra's net is a net of jewels in which every jewel reflects every other jewel. Each one holds all the others. (Every particle of the Earth pulls every particle of the cardboard ring, and each of them pulls back. The balance point is the one place where all those separate pulls, added together, seem to act.)
 - Science (settled): The weight of any object acts as if it were one force through its centre of gravity. For a ring, a crescent or a person bending over, that point can lie outside the object.
 - Science (settled): The balance point of the Sun and Jupiter lies just outside the surface of the Sun, in empty space.
 - Other view, Many engineers: The centre of gravity is only a calculation: an average of where the mass is, weighted by how much there is. Calling it the place where the weight acts is a handy shortcut. Nothing special is going on at that point, and it is no more a thing than the average height of a class.
@@ -188,9 +188,9 @@ Gravity pulls on every particle of a thing, one by one. Yet all of those separat
 
 ## Deep and big questions
 - *deep:* A balance works on the Moon, and a spring scale does not. Which one tells you how much of a thing there really is? (hint: Think about what each one needs from the world in order to work.)
-- *deep:* Your centre of gravity can be in the air, outside your body, when you bend over. Where is 'you' then? (hint: Think about whether the centre of gravity is a part of you or a point that we work out.)
+- *deep:* Your centre of gravity can be in the air, outside your body, when you bend over. So is it really a part of you? (hint: Think about whether the centre of gravity is a part of you or a point that we work out.)
 - *big:* The centre of gravity is a point we work out by adding up all the pulls, and may have nothing in it. Is it real? What other useful things are only worked out, such as the average height of a class? (hint: Is the average height of a class a real child?)
-- *deep:* In a sealed bottle, the mass stays the same even when gas appears from nothing you can see. What does that tell you about gas? (hint: Think about what gas is made of, and what happened when you opened the cap.)
+- *deep:* In a sealed bottle, the mass stays the same even when gas appears from nothing you can see. What does that tell you about gas? (hint: Think about what gas is made of, and why the mass of the bottle drops when the cap is opened.)
 - *big:* A tree is built mostly from air and water. Where does a tree end and the air begin? (hint: Think about the carbon in a chapati, and where it was before it was in the wheat.)
 - *deep:* The Earth and the Moon both circle a point inside the Earth. Is the Moon circling the Earth, or are they circling each other? (hint: Think about the Earth wobbling a little as the Moon goes round.)
 - *big:* Everyone who buys and sells by weight must trust the weights. Who decides what a kilogram is, and why should everyone trust them? (hint: Think about the market, inspectors, and a standard that every country agrees on.)
@@ -222,7 +222,7 @@ She took an empty water bottle from under the counter. She stood it on his scale
 
 Mr Joseph stared at them. 'It says nine hundred and sixty-two.' 'Yes,' said Zainaba. 'My bottle holds a kilo of water, and your scale says it is nearly forty grams short. Forty grams short is just what it said about the pepper.'
 
-'Perhaps your water is short too,' said Mr Joseph, but his voice had gone small. 'Then let us ask Ummamma's balance,' said Zainaba. She put the iron kilo weight in the left pan, with an empty bottle exactly like the other one beside it. In the right pan, she put the bottle of water. The two empty bottles cancelled out each other. The pointer swayed, steadied, and stood straight up.
+'Perhaps your water is short too,' said Mr Joseph, but his voice had gone small. 'Then let us ask Ummamma's balance,' said Zainaba. She put the iron kilo weight in the left pan, with an empty bottle exactly like the other one beside it. In the right pan, she put the bottle of water. The two empty bottles weighed the same, so they made no difference. The pointer swayed, steadied, and stood straight up.
 
 'The iron kilo and the water kilo agree with each other,' she said. 'It is only your scale that disagrees. Ummamma's balance does not know how hard the Earth pulls. It only compares one thing with another, so it would give the same answer on the Moon. Your scale has to turn a push into grams, and somebody has to set that right.'
 
@@ -239,14 +239,14 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 **For the parent:** Before you trust a scale, weigh something you already know, such as a litre of water. A balance only compares one mass with another, so it gives the same answer anywhere. A scale that turns a push into grams has to be checked.
 
 - Ask: Why did Zainaba weigh a litre of water on Mr Joseph's scale, instead of the pepper?
-- Ask: Why did she put an empty bottle in the left pan, beside the iron weight?
+- Ask: Why did Zainaba put an empty bottle in the left pan, beside the iron weight?
 - Ask: Why would Ummamma's balance give the same answer on the Moon, but Mr Joseph's scale would not?
 - Ask: How could you check a kitchen scale at home without any weights?
 
 ## Games
 ### g1 · Moon Market: same on the Moon, or different? (20 min)
-- **rules:** Make one pile of the 24 situation cards, with the situation side up. Lay the 8 world cards in a row, with the world side up.; Each player takes one Same token and one Different token. If there are fewer than four players, each player may take two of each.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. Then everyone turns the tokens over together.; A right pick scores 1 point. A player who also says why in one sentence, using mass, weight, pull or push, scores 1 more point.; The reader turns over the card and reads the back to check. Then the next player becomes the reader.; After every third card, the reader picks a world card and says a mass, for example 10 kilograms. Everyone works out the weight on that world, by multiplying the mass by the number on the back of the world card. The right answer scores 2 points.; Play until all 24 cards are used. The most points wins. If you play alone, play both parts and try to beat 40 points.
-- **Printable cards: 24 situation cards to cut out (the situation on the front, the answer and the reason on the back):** A two-pan balance shows a mango level with a 300-gram weight. (back: Same on the Moon. Both pans are pulled equally, so a balance gives the same answer anywhere.); A spring scale shows 3 newtons for the same mango. (back: Different. The Moon pulls about six times less, so the scale would show about 0.5 newtons.); The mass of a bag of rice, 2 kilograms. (back: Same on the Moon. Mass is how much rice there is, and the bag brings all of it.); The weight of that same bag of rice. (back: Different. It is about 20 newtons on Earth and about 3 newtons on the Moon.); The reading of a digital kitchen scale for 500 grams of sugar. (back: Different. It senses the push and assumes Earth's pull, so it would show only about 80 grams.); The number of grains of rice in the bag. (back: Same on the Moon. Counting grains does not depend on gravity.); How hard it is to lift a full bucket of water. (back: Different. The bucket pulls on your arm about six times less.); How hard it is to stop a fast cricket ball. (back: Same on the Moon. Stopping a moving ball depends on its mass and its speed, not on its weight.); The balance point of a cardboard ring. (back: Same on the Moon. It depends on the shape of the ring, not on how hard the world pulls.); The angle at which a tall vase tips over. (back: Same on the Moon. It depends on where the centre of gravity is over the base, though the vase would fall more slowly.); The stretch of a rubber band with a mango hanging from it. (back: Different. The mango pulls the band about six times less on the Moon, so it stretches less.); The amount of matter in your body. (back: Same on the Moon. You carry all of your matter with you.); How high you can jump with the same push from your legs. (back: Different. About six times higher, because gravity pulls you back more slowly.); The mass of a shopkeeper's iron one-kilogram weight. (back: Same on the Moon. It is still 1 kilogram of iron.); What a bathroom scale shows when you stand on it, in kilograms. (back: Different. It would show only about one sixth of your mass.); A seesaw balanced with two children of equal mass. (back: Same on the Moon. The pull on each child falls by the same amount, so they still balance.); How long a pendulum takes to swing once. (back: Different. With less pull, it swings back more slowly, about 2.5 times as long.); The size of the dent a ball makes in dough when it is dropped. (back: Different. On the Moon the ball falls more slowly and hits softly.); The mass of a litre of water. (back: Same on the Moon. It is still about 1 kilogram of water.); The weight of an astronaut wearing a heavy space suit. (back: Different. On the Moon the total is about one sixth of the weight on Earth.); A cardboard shape hanging from a pin with its centre of gravity directly below the pin. (back: Same on the Moon. The shape swings until its centre of gravity is below the pin, there too.); The weight of a child whose mass is 30 kilograms. (back: Different. About 294 newtons on Earth and about 48 newtons on the Moon.); The sugar in a cup of tea. (back: Same on the Moon. Sugar does not change with the world.); How fast a dropped pencil reaches the floor. (back: Different. It falls more slowly on the Moon, so it takes longer to land.)
+- **rules:** Make one pile of the 24 situation cards, with the situation side up. Lay the 8 world cards in a row, with the world side up.; Each player takes one Same token and one Different token. If there are fewer than four players, each player may take two of each.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. Then everyone turns the tokens over together.; A right pick scores 1 point. A player who also says why in one sentence, using mass, weight, pull or push, scores 1 more point.; The reader turns over the card and reads the back to check. Then the next player becomes the reader.; After every third card, the reader picks a world card and says a mass, for example 10 kilograms. Everyone works out the weight on that world, by multiplying the mass by the number on the back of the world card. The right answer scores 2 points.; Play until all 24 cards are used. The most points wins. If you play alone, be both the reader and the player, and try to beat 40 points.
+- **Printable cards: 24 situation cards to cut out (the situation on the front, the answer and the reason on the back):** A two-pan balance shows a mango level with a 300-gram weight. (back: Same on the Moon. Both pans are pulled equally, so a balance gives the same answer anywhere.); A spring scale shows 3 newtons for the same mango. (back: Different. The Moon pulls only about one sixth as hard, so the scale would show about 0.5 newtons.); The mass of a bag of rice, 2 kilograms. (back: Same on the Moon. Mass is how much rice there is, and the bag brings all of it.); The weight of that same bag of rice. (back: Different. It is about 20 newtons on Earth and about 3 newtons on the Moon.); The reading of a digital kitchen scale for 500 grams of sugar. (back: Different. It senses the push and assumes Earth's pull, so it would show only about 80 grams.); The number of grains of rice in the bag. (back: Same on the Moon. Counting grains does not depend on gravity.); How hard it is to lift a full bucket of water. (back: Different. The Moon pulls the bucket only about one sixth as hard, so it feels about six times lighter.); How hard it is to stop a fast cricket ball. (back: Same on the Moon. Stopping a moving ball depends on its mass and its speed, not on its weight.); The balance point of a cardboard ring. (back: Same on the Moon. It depends on the shape of the ring, not on how hard the world pulls.); The angle at which a tall vase tips over. (back: Same on the Moon. It depends on where the centre of gravity is over the base, though the vase would fall more slowly.); The stretch of a rubber band with a mango hanging from it. (back: Different. The Moon pulls the mango only about one sixth as hard, so the band stretches less.); The amount of matter in your body. (back: Same on the Moon. You carry all of your matter with you.); How high you can jump with the same push from your legs. (back: Different. About six times higher, because gravity pulls you back more slowly.); The mass of a shopkeeper's iron one-kilogram weight. (back: Same on the Moon. It is still 1 kilogram of iron.); What a bathroom scale shows when you stand on it, in kilograms. (back: Different. It would show only about one sixth of your mass.); A seesaw balanced with two children of equal mass. (back: Same on the Moon. The pull on each child falls by the same amount, so they still balance.); How long a pendulum takes to swing once. (back: Different. With less pull, it swings back more slowly, about 2.5 times as long.); The size of the dent a ball makes in dough when it is dropped. (back: Different. On the Moon the ball falls more slowly and hits softly.); The mass of a litre of water. (back: Same on the Moon. It is still about 1 kilogram of water.); The weight of an astronaut wearing a heavy space suit. (back: Different. On the Moon the total is about one sixth of the weight on Earth.); A cardboard shape hanging from a pin with its centre of gravity directly below the pin. (back: Same on the Moon. The shape swings until its centre of gravity is below the pin, there too.); The weight of a child whose mass is 30 kilograms. (back: Different. About 294 newtons on Earth and about 48 newtons on the Moon.); The sugar in a cup of tea. (back: Same on the Moon. Sugar does not change with the world.); How fast a dropped pencil reaches the floor. (back: Different. It falls more slowly on the Moon, so it takes longer to land.)
 - **Printable cards: 8 world cards to cut out (the world on the front, the pull of that world on the back):** Earth (back: about 9.8 newtons for each kilogram); The Moon (back: about 1.6 newtons for each kilogram); Mars (back: about 3.7 newtons for each kilogram); Venus (back: about 8.9 newtons for each kilogram); Jupiter, at the cloud tops (back: about 25 newtons for each kilogram); Saturn, at the cloud tops (back: about 10 newtons for each kilogram); Mercury (back: about 3.7 newtons for each kilogram); The surface of the Sun (back: about 274 newtons for each kilogram)
 - **Printable tokens: 8 tokens: four that say Same on the Moon, and four that say Different on the Moon:** Same on the Moon; Same on the Moon; Same on the Moon; Same on the Moon; Different on the Moon; Different on the Moon; Different on the Moon; Different on the Moon
 - **Printable score sheet: Score sheet:** Player name; Right picks; Good reasons; Weight sums right
@@ -258,7 +258,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **s2 (4 min)**  
   *Parent does:* Play a practice turn with the card about the two-pan balance. Place tokens, turn them over together, and read the back.  
   *Parent says:* Practice turn. A balance shows a mango level with a 300-gram weight. On the Moon, will the pans still be level? Why?  
-  *Child mode:* A balance on the Moon. Same, or different? Why?
+  *Child mode:* A balance shows a mango level with a 300-gram weight. On the Moon, would it be the same or different? Why?
   - Check: A balance shows a mango level with a 300-gram weight. On the Moon, what will the pans do? → **Stay level, because both pans are pulled less by the same amount**
 - **s3 (9 min)**  
   *Parent does:* Play the game. After every third card, the reader picks a world card and says a mass for everyone to work out the weight.  
@@ -267,7 +267,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Ask: What is the difference between mass and weight in this card? (good: Mass is how much stuff there is. Weight is how hard the world pulls on it.; Mass stays the same, and weight changes with the world.)
   - Note: Accept any reason that uses the right words. A good reason for a Same card is that it depends on how much stuff, or on shape, and not on the pull. A good reason for a Different card is that it depends on how hard the world pulls or pushes.
 - **s4 (3 min)**  
-  *Parent does:* Look at the world cards together. Pick one and a mass, and work out the weight. Check with the next world card.  
+  *Parent does:* Look at the world cards together. Pick one world card and a mass, and work out the weight. Then do the same with the next world card.  
   *Parent says:* Pick a world and a mass. Multiply the mass by the number on the back of the world card. What do you get?  
   *Child mode:* Pick a world. Pick a mass. Multiply to find the weight.
   - Check: A bag has a mass of 10 kilograms. About what is its weight on Mars, where the pull is 3.7 newtons for each kilogram? → **About 37 newtons**
@@ -288,9 +288,9 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **s1 (4 min)**  
   *Parent does:* Show your child the band, the cup, the ruler and the water. Ask for a guess and a reason. Write both down at the top of the table.  
   *Parent says:* We will hang a cup from a rubber band, and add water to it. 100 grams of water stretches the band a little. What will 300 grams do? And 500 grams? Why do you think so?  
-  *Child mode:* A rubber band and a cup of water. How far will 300 grams stretch it? Why?
+  *Child mode:* You will hang a cup of water from a rubber band. If 100 grams stretches the band by 1 centimetre, how far will 300 grams stretch it? Why?
   - Ask: Why do you think it will stretch that far? (good: Three times the water, so three times the stretch.; It will stretch more each time.; It will stretch less each time.)
-  - Note: Do not correct the guess. Many children say three times the water gives three times the stretch. That is a good guess, and it is called Hooke's law. The test checks whether a rubber band follows it. Roles: one child reads the ruler at eye level, one pours, and one writes the table and draws the graph; swap after each reading. One child with a parent: the parent pours, and the child reads and writes. With 2 to 4 children, each child can hang a different band and compare graphs. The lines will differ, which is why every band must be calibrated.
+  - Note: Do not correct the guess. Many children say three times the water gives three times the stretch. That is a good guess, and it is called Hooke's law. The test checks whether a rubber band follows it. Roles: one child reads the ruler at eye level, one pours, and one writes the table and draws the graph. Swap after each reading. One child with a parent: the parent pours, and the child reads and writes. With 2 to 4 children, each child can hang a different band and compare graphs. The lines will differ, which is why every band must be calibrated.
 - **s2 (5 min)**  
   *Parent does:* Stretch the band gently ten times by hand first, so that it settles. Hang it from a hook, a nail or a shelf edge. Tape the ruler upright behind it with its zero at the top, level with the top of the band. Hang the empty cup from the band. Read where the bottom of the band, or the paper clip, points on the ruler. Write it as the reading for no water.  
   *Parent says:* Here is the band, and here is the empty cup. Where does the pointer sit on the ruler now? That is our zero.  
@@ -300,7 +300,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **s3 (13 min)**  
   *Parent does:* Pour 100 millilitres of water into the cup, slowly so it does not bounce. Wait 10 seconds. Read the pointer. Write it. Repeat with another 100 millilitres, up to 500 millilitres in all. Work out the stretch each time by taking away the first reading.  
   *Parent says:* Add 100 millilitres. Wait for ten seconds. Read the pointer. Do you think the next 100 will stretch it the same amount?  
-  *Child mode:* Add 100 millilitres. Wait. Read. Write the number. Do it five times.
+  *Child mode:* Add 100 millilitres of water. Wait 10 seconds. Read the pointer and write the number. Do this five times.
   - Note: Each 100 millilitres of water has a mass of about 100 grams. A medium band typically stretches somewhere between 0.5 and 2 centimetres for each 100 grams, and bands differ a lot, so your numbers will not match ours. A thin band stretches much more, so stop earlier. If the first 100 grams moves the pointer by less than 3 millimetres, the band is too stiff, so use a thinner one. The band can also creep for a while, which is why we wait. Do not worry if the steps are not exactly equal.
   - Check: Why can we use 100 millilitres of water as a mass of 100 grams? → **Because 1 millilitre of water has a mass of about 1 gram**
 - **s4 (7 min)**  
@@ -308,9 +308,9 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent says:* Let's draw what happened. Grams go along the bottom. Stretch goes up the side. What shape do the dots make? Is it a straight line?  
   *Child mode:* Draw the graph. Mark a dot for each reading. What shape is it?
   - Note: If the dots lie on a straight line through zero, then twice the load gives twice the stretch. That is Hooke's law. A rubber band often bends a little, because rubber is softer at first and stiffer later. Both results are real. A steel spring gives a straighter line.
-  - Check: A straight line through the zero mark means what? → **Twice the load gives twice the stretch**
+  - Check: What does a straight line through the zero mark mean? → **Twice the load gives twice the stretch**
 - **s5 (7 min)**  
-  *Parent does:* Empty the cup. Guess the mass of the first unknown thing and write the guess. Then put it in the cup, and wait 10 seconds. Read the stretch. On the graph, go along from that stretch to the line, then down to the grams. Write the mass. Do the same for the other two, and check them on a kitchen scale or with a printed pack mass. Then say what I think, what I saw, and why.  
+  *Parent does:* Empty the cup. Guess the mass of the first unknown thing and write the guess. Then put it in the cup, and wait 10 seconds. Read the stretch. On the graph, go along from that stretch to the line, then down to the grams. Write the mass. Do the same for the other two, and check them on a kitchen scale or against the mass printed on a pack. Then ask your child to say what they think, what they saw, and why.  
   *Parent says:* Now use your scale. Put a lemon in the cup. How much does the band stretch? Use your graph to find its mass. Then check on a kitchen scale.  
   *Child mode:* Put a lemon in the cup. Read the stretch. Use the graph to find its mass.
   - Note: A good answer sounds like this. What I think: a band can work as a scale if you calibrate it with known masses. What I saw: 100 grams stretched it by 1 centimetre, and the lemon stretched it by 0.8 centimetres, so I read about 80 grams from the graph. Why: the stretch depends on the pull, so the same pull gives the same stretch. Your answers may be 10 to 20 grams out. That is normal for a rubber band.
@@ -325,7 +325,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **s1 (3 min)**  
   *Parent does:* Show your child the three shapes drawn on paper. Ask them to mark with a dot where each will balance on a pencil tip, and why.  
   *Parent says:* Here are three shapes: a blob, a crescent and a ring. Where would each one balance on the tip of a pencil? Put a dot. Why there?  
-  *Child mode:* Three shapes. Where does each one balance? Put a dot. Why there?
+  *Child mode:* Here are three shapes: a blob, a crescent and a ring. Where would each one balance on a pencil tip? Put a dot. Why there?
   - Ask: Why did you put the dot there? (good: In the middle of the shape.; Where there is the most cardboard.; I do not know where.)
   - Note: Do not correct the guess. Many children put the dot in the middle of each shape, even for the ring, where the middle is a hole. Roles: one child hangs the shape, one holds the thread, one marks the line. With 2 to 4 children, each cuts and tests one shape, then shows the others. One child with a parent: the child hangs and marks, and the parent holds the pin steady and the thread.
 - **s2 (5 min) · grown-up needed**  
@@ -336,33 +336,33 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **s3 (8 min)**  
   *Parent does:* Hang the blob from one hole on the pin. Hang the plumb line from the same pin. Wait until both are still. Put a dot on the shape's edge where the thread crosses it. Take the shape off, and draw a line from the hole to the dot. Do this for the other two holes.  
   *Parent says:* Hang the blob from one hole. Hang the thread beside it. When both are still, mark where the thread crosses the edge. Draw a line from the hole to the mark.  
-  *Child mode:* Hang the blob. Hang the thread. Wait. Mark the edge. Draw a line.
+  *Child mode:* Hang the blob and the thread from the pin. Wait until both are still. Mark where the thread crosses the edge, and draw a line from the hole to the mark.
   - Note: The thread must hang in front of the shape, touching it lightly. The lines from the three holes should cross at one place, or make a tiny triangle. The centre of gravity is in the middle of the tiny triangle. Now try to balance the blob on the eraser end of a pencil at that spot.
   - Check: The blob hung from a pin, and the thread hung from the same pin. What does the thread show? → **The straight line down through the shape's centre of gravity**
 - **s4 (8 min)**  
   *Parent does:* Do the same with the crescent, then with the ring. Draw at least two lines on each, using two or three holes. Then lay each shape on paper and trace round it. Use a ruler to extend the lines past the edges.  
   *Parent says:* Now hang the crescent. Where do you think the lines will cross? Now the ring. Where will its lines cross? Draw them and see.  
-  *Child mode:* Hang the crescent and the ring. Draw their lines. Extend them on paper.
+  *Child mode:* Hang the crescent and the ring. Draw their lines. Then trace each shape on paper and extend the lines past the edges.
   - Note: For the ring, the lines cross in the middle of the hole. For the crescent, they cross in the air, in the hollow of the curve. If you draw only two lines, check with a third. Tracing on paper lets you see lines continue past the edge of the cardboard.
   - Check: The lines on the ring cross in the middle of the hole. What does that tell you? → **The ring's centre of gravity is in empty space, with no cardboard there**
 - **s5 (4 min)**  
   *Parent does:* Try balancing each shape on a pencil tip or eraser at its crossing point. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Balance each shape. Then say what I think, what I saw, and why.
-  - Note: The blob balances on the pencil at the crossing point. Balancing on an eraser is fiddly and may take several tries. The crossing lines are the real result, so do not worry if the shape keeps sliding off. The ring and the crescent cannot, since the point is in the air. You can balance the ring across a finger or a pencil laid under its middle, or show that it rests level on a thread stretched across the hole. A good answer sounds like this. What I think: the centre of gravity is where the plumb lines cross, and it may not be on the shape. What I saw: for the ring and the crescent, the lines crossed where there was no cardboard. Why: gravity pulls on every part, and the pulls add up to one pull at a point.
+  *Child mode:* Try to balance each shape at its crossing point. Then say what you think, what you saw, and why.
+  - Note: The blob balances on the pencil at the crossing point. Balancing on an eraser is fiddly and may take several tries. The crossing lines are the real result, so do not worry if the shape keeps sliding off. The ring and the crescent cannot balance on a pencil, because their crossing point is in the air. You can balance the ring across a finger or a pencil laid under its middle, or show that it rests level on a thread stretched across the hole. A good answer sounds like this. What I think: the centre of gravity is where the plumb lines cross, and it may not be on the shape. What I saw: for the ring and the crescent, the lines crossed where there was no cardboard. Why: gravity pulls on every part, and the pulls add up to one pull at a point.
 ### e3 · Where Does the Mass Go? Weighing before and after (35 min)
 - **question:** When sugar dissolves, ice melts and a bottle fizzes, does the total mass change? If it changes, where does the mass go?
 - **predict:** Before you start, guess for each test. Will the mass stay the same, go down or go up? Why do you think so?
 - **fair test:** Use the same kitchen scale on the same flat table for every weighing. Wipe the outside of each container dry before you weigh it, and wait until the number stops changing. In each test, weigh everything before and after, and change nothing else between. For the fizz test, do the closed bottle and the open cup in the same way, so the only difference is whether the gas can escape.
-- **safety:** Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Wear glasses, point the cap away from every face and open it slowly over the sink. The bath water should be warm, not hot. Never use a glass jar or a thin bag for the fizz. Keep the scale dry.
+- **safety:** Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Wear glasses, point the cap away from every face and open it slowly over the sink. The bowl of water for melting the ice should be warm, not hot. Never use a glass jar or a thin bag for the fizz. Keep the scale dry.
 - **record:** Fill in the table with the mass before, the mass after, and the change for each test. Circle any change bigger than 1 gram, because the scale only reads whole grams.
 - **results table:** Test | Mass before (grams) | Mass after (grams) | Change (grams)
 - **s1 (4 min)**  
   *Parent does:* Show your child the scale and all the things. Ask for a guess and a reason for each test. The tests are sugar in water, melting ice and fizzing. Write the guesses down.  
-  *Parent says:* We will weigh things before and after they change. Sugar in water. Ice melting. A bottle fizzing. Will the mass stay the same, go down or go up? Why do you think so?  
-  *Child mode:* Sugar in water. Melting ice. A fizzing bottle. Does the mass change? Why?
+  *Parent says:* We will weigh things before and after they change: sugar dissolving in water, ice melting, and a bottle fizzing. Will the mass stay the same, go down or go up? Why do you think so?  
+  *Child mode:* You will weigh sugar in water, melting ice and a fizzing bottle, before and after they change. Will the mass stay the same, go down or go up? Why?
   - Ask: Why do you think the mass will change, or stay the same? (good: The sugar vanishes, so the mass goes down.; Nothing is lost, so it stays the same.; The fizz makes gas, so it goes up.)
-  - Note: Do not correct the guess. Many children say the sugar disappears and the mass goes down. A few say the fizz makes it heavier. All are good guesses to test. Roles: one child weighs, one handles the water, ice or bottle, one writes the table. A grown-up does the closed bottle. One child with a parent: swap jobs for each test. With 2 to 4 children, one scale is enough; take turns on one test each.
+  - Note: Do not correct the guess. Many children say the sugar disappears and the mass goes down. A few say the fizz makes it heavier. All are good guesses to test. Roles: one child weighs, one handles the water, ice or bottle, one writes the table. A grown-up does the closed bottle. One child with a parent: swap jobs for each test. With 2 to 4 children, one scale is enough. Take turns on one test each.
 - **s2 (6 min)**  
   *Parent does:* Put a cup of 100 millilitres of water, a cup with 2 tablespoons of sugar, and the spoon on the scale together. Write the total. Pour the sugar into the water and stir until it dissolves, scraping the sugar cup clean. Put both cups and the spoon back on the scale. Write the total and compare it with the first.  
   *Parent says:* Weigh the water, the sugar and the spoon together. Now stir the sugar into the water. Weigh them all together again. Has any mass gone?  
@@ -386,11 +386,11 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent says:* Weigh the tumbler with vinegar. Add the baking soda, and watch the number on the scale as it fizzes. What does it do?  
   *Child mode:* Weigh the vinegar. Add the baking soda. Watch the number. Write the lowest one.
   - Note: The mass should typically drop by about 2 to 4 grams as the carbon dioxide gas escapes into the air. It depends on your vinegar, and some gas stays dissolved in the liquid. If it drops by only 1 gram, the vinegar is weak or old, so use fresh vinegar. If you press zero before adding the baking soda, the scale will show the minus change directly. Keep the tumbler on the scale all the time. The foam may rise up the sides, so leave room in the tumbler.
-  - Check: In the open cup, the mass went down by 3 grams. Where did the 3 grams go? → **Into carbon dioxide gas that floated away into the air**
+  - Check: Baking soda fizzed in an open cup of vinegar, and the mass went down by 3 grams. Where did the 3 grams go? → **Into carbon dioxide gas that floated away into the air**
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say what I think, what I saw, and why.
+  *Child mode:* Say what you think, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: mass is not lost when things dissolve, melt or fizz, but it can move into gas that escapes. What I saw: the sugar water, the sealed bag and the closed bottle all kept their mass, but the open cup lost about 3 grams. Why: in the open cup the gas left, and gas has mass.
 
 ## Activities
@@ -400,7 +400,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **a1s1 (4 min)**  
   *Parent does:* Show your child the ruler, the cups, the water and a tomato. Ask how many millilitres of water they think will balance the tomato, and why. Write the guess down.  
   *Parent says:* We are going to build a balance. A tomato goes in one cup and water goes in the other. How much water will balance the tomato? Why do you think so?  
-  *Child mode:* A tomato in one cup. Water in the other. How much water will balance it?
+  *Child mode:* A tomato goes in one cup and water goes in the other. How much water will balance the tomato?
   - Ask: Why do you think it will take that much? (good: The tomato is about as big as a cup of water.; The tomato is heavier than water.; I just know what a tomato feels like.)
   - Note: Do not correct the guess. Roles: one child pours, one watches the ruler and says stop, one writes. One child with a parent: the parent pours and the child calls stop. With 2 to 4 children, each brings a different fruit or vegetable to weigh on the same balance. A medium tomato has a mass of about 100 to 150 grams. Remember that 1 millilitre of water has a mass of about 1 gram.
 - **a1s2 (9 min)**  
@@ -412,11 +412,11 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **a1s3 (10 min)**  
   *Parent does:* Put the tomato in the left cup. Pour water into the right cup, a little at a time, from the measuring cup. Stop when the ruler is level. Add up the water you poured. Check the tomato on the kitchen scale.  
   *Parent says:* Put the tomato in one cup. Pour water into the other, a little at a time, until the ruler is level. How much water balanced the tomato?  
-  *Child mode:* Tomato in one cup. Pour water in the other until it is level. How much?
+  *Child mode:* Put the tomato in one cup. Pour water into the other cup until the ruler is level. How much water did it take?
   - Note: Pour 10 millilitres at a time near the end. The water in millilitres is the tomato's mass in grams. Your answer should be within about 10 grams of the kitchen scale. A tomato is mostly water, so it makes a good test.
   - Check: The tomato balanced against 120 millilitres of water. About what is its mass? → **About 120 grams**
 - **a1s4 (9 min)**  
-  *Parent does:* Now cheat. Slide the middle thread about 2 centimetres towards the left end, so the arms are unequal. Level the empty balance again with a little tape or a coin on the light side. Then balance the tomato in the left cup with water in the right cup. Write the water. Then swap them: the tomato in the right cup and water in the left. Write the water again. Add the two answers and halve.  
+  *Parent does:* Now make the balance cheat. Slide the middle thread about 2 centimetres towards the left end, so the arms are unequal. Level the empty balance again with a little tape or a coin on the light side. Then balance the tomato in the left cup with water in the right cup. Write how much water it took. Then swap them: the tomato in the right cup and water in the left. Write how much water it took this time. Add the two answers and halve the total.  
   *Parent says:* Now we make a cheating balance. The arms are unequal. Weigh the tomato once on each side. Do the two answers agree? Which one is right?  
   *Child mode:* Make the arms unequal. Weigh the tomato on the left. Swap sides. Weigh again.
   - Note: The two answers will be quite different, for example 90 and 150 millilitres. The true answer is between them. The average of the two, here 120, is close to the real mass. A shopkeeper who cheats with unequal arms is caught by swapping the pans. A fair balance gives the same answer both ways.
@@ -436,7 +436,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Note: Do not correct the guess. The Moon pulls about one sixth as hard as the Earth. So the bottle would feel about as heavy as a small bag of 160 millilitres of water feels on Earth.
 - **a2s2 (6 min)**  
   *Parent does:* Pour 160 millilitres of water into the small bottle or bag. This pulls on your hand like 1 kilogram on the Moon. Hold it, then hold the 1-litre bottle again. Repeat with 380 millilitres for Mars and 900 millilitres for Venus. Then one person shuts their eyes, and another hands over the Moon, Mars and Venus bags in a mixed order. Can they sort them from lightest to heaviest by feel?  
-  *Parent says:* A bag of 160 millilitres of water is how a 1-kilogram bottle would feel on the Moon. Hold it. Then Mars, 380 millilitres. Then Venus, 900 millilitres.  
+  *Parent says:* A bag of 160 millilitres of water is how a 1-kilogram bottle would feel on the Moon. Hold it. Then hold 380 millilitres for Mars, and 900 millilitres for Venus.  
   *Child mode:* Make a Moon bag, a Mars bag and a Venus bag. Hold each one.
   - Note: The numbers come from the pull of each world: Moon 1.6, Mars 3.7, Venus 8.9 newtons for each kilogram, and Earth 9.8. Divide each by 9.8 to get the fraction of a kilogram. The bag does not have less matter. It is pulled less. The empty bottle adds about 20 to 30 grams, which is small enough to ignore. With 2 to 4 children, one fills the bags and the others sort them blind, then swap. One child with a parent: the parent hands over the bags.
   - Check: A 1-kilogram bag on Mars pulls on your hand like a bag of about how much on Earth? → **About 380 grams**
@@ -449,7 +449,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent does:* Talk about what changed and what did not. Ask your child about the mass of the bottle on each world.  
   *Parent says:* On every world, the bottle has the same amount of water in it. What changed? What stayed the same?  
   *Child mode:* On each world, what changed in the bottle? What stayed the same?
-  - Note: A good answer sounds like this. The mass stayed the same because the bottle has the same matter. The weight changed, because each world pulls differently. On the Moon, with a sixth of the weight, bones carry less, and astronauts' bones get weaker.
+  - Note: A good answer sounds like this. The mass stayed the same because the bottle has the same matter. The weight changed, because each world pulls differently. On the Moon you would have only a sixth of your Earth weight, so your bones would carry much less. This is one reason why astronauts' bones get weaker.
   - Think: If you lived on the Moon, would your bones get stronger or weaker than on Earth? Why do you think so?
 ### a3 · How Heavy Is the Air in Our Room? (28 min)
 - **safety:** A pump needle is sharp, so a grown-up fits it into the ball's valve. Stop pumping when the ball feels firm.
@@ -468,7 +468,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **a3s3 (6 min)**  
   *Parent does:* Multiply length by width by height to get the volume in cubic metres. Then multiply the volume by 1.2 to get the mass of the air in kilograms. Write the answer.  
   *Parent says:* Length times width times height is the volume of the room. Each cubic metre of air has a mass of about 1.2 kilograms. So how much does the air in this room weigh?  
-  *Child mode:* Length times width times height. Then times 1.2. How many kilograms?
+  *Child mode:* Multiply the length by the width by the height. Then multiply by 1.2. How many kilograms of air is that?
   - Note: For a 3 by 4 by 2.7 room, the volume is 32.4 cubic metres, and the air has a mass of about 39 kilograms. That is as much as a child of ten or eleven. A classroom can hold a few hundred kilograms of air.
   - Check: A room is 3 metres long, 4 metres wide and 2.5 metres high. About what is the mass of the air in it? → **About 36 kilograms**
 - **a3s4 (4 min)**  
@@ -476,25 +476,25 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   *Parent says:* The air in this room has about the mass of a child. And above every square metre of ground, the air has a mass of about ten tonnes. Why are we not squashed flat?  
   *Child mode:* The air has mass. Above every square metre is about 10 tonnes of air. Why are we not squashed?
   - Note: A good answer sounds like this. The air presses on us from all sides, and the fluids inside our bodies push back with the same pressure, so we are not squashed. Atmospheric scientists estimate that a small fair-weather cloud holds about 500 tonnes of water, which is reported to be about the mass of 100 elephants.
-  - Think: Air pushes on you from every side, and also pushes from inside your body. What does that do to the push?
+  - Think: Air pushes on you from every side, and your body pushes back from inside. What happens when the two pushes are equal?
 - **a3s5 (8 min)**  
   *Parent does:* Optional, if you have a football and a pump. Let the ball go flat, put it in a bowl on the scale, and write the mass. Pump it hard until it is firm, about 30 strokes. Put it back in the same bowl and write the new mass. Take away the first number.  
   *Parent says:* Air has mass, and we can catch some of it. Weigh the flat ball. Pump it full of air. Weigh it again. How many grams of air did we pump in?  
   *Child mode:* Weigh a flat ball. Pump it up. Weigh it again. How much more?
-  - Note: A football typically gains about 3 to 6 grams, and a volleyball less. A scale that reads whole grams shows this only roughly, so pump 30 more strokes and see if the number grows. If nothing changes, the ball leaked or the scale rounds too much. Say so honestly, and trust the room sum instead. Roles: one child pumps, one weighs, one writes.
+  - Note: A football typically gains about 3 to 6 grams, and a volleyball less. A scale that reads whole grams shows this only roughly, so pump 30 more strokes and see if the number grows. If nothing changes, the ball leaked or the scale rounds too much. Say so honestly, and trust the answer you worked out for the room instead. Roles: one child pumps, one weighs, one writes.
 ### a4 · Heavy for Its Size: same jar, different mass (25 min)
 - **safety:** Use plastic tubs or bottles, not glass. Do not taste the contents, and keep flour and fine salt away from the face and eyes. Tell a grown-up first if anyone has a wheat allergy.
 - **record:** Draw the four jars. Under each, write what is in it, your guess for its mass, and its real mass in grams. Put the jars in order from the least to the most mass.
 - **a4s1 (5 min)**  
   *Parent does:* Fill each jar to the top with a different thing: cotton wool, flour, rice and salt. Shake gently so they settle and add more. Put on the lids. Ask your child to guess the order from the least to the most mass. Write it down.  
-  *Parent says:* Four jars of the same size. One has cotton, one flour, one rice and one salt. Which has the most mass? Which has the least? Put them in order before you test.  
-  *Child mode:* Four jars. Cotton, flour, rice, salt. Guess the order, least to most mass.
+  *Parent says:* Here are four jars of the same size. One has cotton, one flour, one rice and one salt. Which has the most mass? Which has the least? Put them in order before you test.  
+  *Child mode:* Four jars hold cotton, flour, rice and salt. Guess the order, from the least mass to the most.
   - Ask: Why did you put them in that order? (good: Cotton is soft, so it is lightest.; Salt is tiny grains, so it is packed.; They are all the same, because the jars are.)
-  - Note: Do not correct the guess. Roles: one child fills a jar each, and one lifts with eyes shut. With 2 to 4 children, each fills one jar and the others sort the jars blind. One child with a parent: the parent hands over the jars. The rice, the salt and the flour will be quite different. Typical masses for a 300 millilitre jar are about 10 grams for cotton, 150 grams for flour, 230 grams for rice and 350 grams for salt, but your jars will differ.
+  - Note: Do not correct the guess. Roles: one child fills the jars, and one lifts them with eyes shut. With 2 to 4 children, each fills one jar and the others sort the jars blind. One child with a parent: the parent hands over the jars. The rice, the salt and the flour will be quite different. Typical masses for a 300 millilitre jar are about 10 grams for cotton, 150 grams for flour, 230 grams for rice and 350 grams for salt, but your jars will differ.
 - **a4s2 (7 min)**  
   *Parent does:* Lift two jars at a time, one in each hand, with your eyes shut. Say which feels heavier. Sort the four jars from the lightest to the heaviest by feel.  
   *Parent says:* Close your eyes. Lift two jars, one in each hand. Which feels heavier? Put them in order by feel.  
-  *Child mode:* Eyes shut. Lift two jars. Which is heavier? Put all four in order.
+  *Child mode:* Shut your eyes. Lift two jars, one in each hand. Which is heavier? Put all four in order.
   - Note: Closing the eyes stops colour or size from affecting the guess. Lift each jar by the lid so the hand feels only its pull. Switch hands if it is hard to tell.
 - **a4s3 (8 min)**  
   *Parent does:* Check with the balance. Put two jars in the cups, one in each, and see which side goes down. Do enough pairs to put all four in order. Then weigh each on the kitchen scale and write the masses.  
@@ -504,14 +504,14 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **a4s4 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say what I think, what I saw, and why.
+  *Child mode:* Say what you think, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: the same amount of space can hold very different amounts of mass. What I saw: the cotton jar had 10 grams and the salt jar had 350 grams. Why: salt grains pack a lot of matter into the same space, and cotton is mostly air.
   - Think: A jar of salt has about 35 times the mass of a jar of cotton. How many times as much matter is in the salt jar?
 
 ## Projects
 ### p1 · Van Helmont's Pot: where does a plant's mass come from? (75 min, 18 days)
 - **safety:** Use scissors with care. Wash your hands after touching soil. Do not eat the seedlings from this pot.
-- **record:** A table with these lines: dry soil at the start, dry seeds at the start, fresh seedlings at the end, dried seedlings at the end, dried soil at the end in the seed pot, dried soil at the end in the comparison pot. Then write what changed and what did not.
+- **record:** Make a table with these rows: dry soil at the start, dry seeds at the start, fresh seedlings at the end, dried seedlings at the end, dried soil at the end in the seed pot, dried soil at the end in the comparison pot. Then write what changed and what did not.
 - **schedule:** day 1: Spread the soil on a tray in the sun to dry for a day. (10 min); day 2: Weigh 200 grams of dry soil into each of the two pots. Weigh the dry seeds. Plant them in one pot. Water both pots the same. (25 min); day 4: Water both pots and see which seeds have come up. (3 min); day 9: Water both pots and measure the height of the seedlings. (5 min); day 15: Water both pots and measure the height again. (5 min); day 16: Cut the seedlings at soil level and weigh them fresh. Spread both soils and the seedlings out to dry side by side in the sun. (20 min); day 18: Weigh both dried soils and the dried seedlings. Compare with the start and with each other. (7 min)
 - **p1s1 (5 min)**  
   *Parent does:* Tell your child the story of the willow in a pot. Ask where they think a plant's mass comes from. Write the guess.  
@@ -538,11 +538,11 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Note: Eight seedlings typically weigh about 5 to 15 grams fresh, while the seeds weighed less than 1 gram when dry. Most of that fresh mass is water. That is why you must dry them to compare fairly. The soil should dry for two days.
   - Check: The seedlings weigh much more fresh than the seeds weighed dry. Where did most of the extra mass come from? → **Water, and a little from the air**
 - **p1s5 (7 min)**  
-  *Parent does:* Weigh the dried soil from each pot and write the numbers. Weigh the dried seedlings and write the number. Compare the two soils with each other and with the 200 grams at the start. Then say what I think, what I saw, and why.  
+  *Parent does:* Weigh the dried soil from each pot and write the numbers. Weigh the dried seedlings and write the number. Compare the two soils with each other and with the 200 grams at the start. Then ask your child to say what they think, what they saw, and why.  
   *Parent says:* Weigh the dried soil from both pots. Is it still about 200 grams, and is the seed pot lighter than the other? Weigh the dried seedlings. What do you notice?  
   *Child mode:* Weigh the dried soil and the dried seedlings. Compare with the start.
   - Note: Expect the two dried soils to be within about 3 grams of each other. If both are well above 200 grams, they are still damp, so dry them one more day. The dried seedlings will probably show 0 or 1 gram, about the same as the dry seeds, because a young seedling lives on the food stored inside the seed. A kitchen scale reading in whole grams cannot show the gain in dry mass, which needs weeks of leaves and a finer scale, so do not claim too much. A good answer sounds like this. What I think: the plants did not get their mass from the soil. What I saw: the seed pot soil weighed about the same as the comparison soil, while the seedlings weighed many grams fresh. Why: the fresh mass is mostly water, and the soil did not give up mass to make it.
-  - Think: Van Helmont thought it was all water. Today we know a plant's dry mass is built mostly from carbon dioxide in the air. How could you test that?
+  - Think: Van Helmont thought all of the tree's mass came from water. Today we know a plant's dry mass is built mostly from carbon dioxide in the air. How could you test that?
 
 ## Challenges
 ### c1 · The Overhang Challenge: how far can a stack stick out? (35 min)
@@ -550,12 +550,12 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **safety:** Use empty matchboxes only, never boxes with matches. Work on the floor or a low table, so falling boxes do not hit anyone's toes. Keep small boxes away from small children who put things in their mouths.
 - **your turn:** Sketch your plan. Build it and measure the overhang in box lengths. Change one thing and try again. How far did the best stack stick out? Why do you think it stayed up?
 - **constraints:** Use 8 identical matchboxes, laid flat in the same direction, one box on each layer.; No glue, no tape and no pushing from behind. The stack must stand for 10 seconds on its own.; Measure the overhang from the table edge to the front of the top box.; Build the stack from the bottom up, or from the top down, as you like.
-- **general:** Move each box a little further out than the one below it, by the same step each time. Keep going until the stack is about to fall, and step back one.; Find the furthest step that a single box can move out before it falls, and then build the stack from that idea.; Put one big heavy thing on the back of the stack, on the table, to hold it down.
+- **general:** Move each box a little further out than the one below it, by the same step each time. Keep going until the stack is about to fall, then move back one step.; Find how far a single box can stick out before it falls. Then use that to plan the whole stack.; Put one big heavy thing on the back of the stack, on the table, to hold it down.
 - **creative:** Build from the top down. The top box can stick out half its length over the one below. The two top boxes together can stick out a quarter of a length over the third. Then a sixth, then an eighth. The steps get smaller, and the stack goes much further.; Add a counterweight: a second stack, or a heavy book, on the table side of the stack, to hold the back down.; Try to make the total overhang more than one whole box length with only 4 boxes.
 - **c1s1 (5 min)**  
   *Parent does:* Read the problem together. Ask your child to guess how many box lengths the top box can stick out with 8 boxes. Write the guess.  
   *Parent says:* You have 8 matchboxes and a table edge. How far can the top box stick out without falling? Half a box? A whole box? Why do you think so?  
-  *Child mode:* Eight boxes and a table. How far can the top box stick out? Guess.
+  *Child mode:* You have 8 matchboxes and a table edge. How far can the top box stick out without falling? Guess.
   - Ask: Why do you think so? (good: Half a box, or the box falls.; More than a whole box, if you are clever.; Only a little bit.)
   - Note: Do not correct the guess. Roles: one child builds, one measures the overhang, one writes. With 2 to 4 children, each builds a stack and the group compares scores. One child with a parent: the parent measures and steadies the table. Most children and many adults say less than one box length. The answer for 8 boxes is more than one and a quarter box lengths.
 - **c1s2 (8 min)**  
@@ -566,19 +566,19 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **c1s3 (8 min)**  
   *Parent does:* Look at the top box alone. Ask how far it can stick out over the box below. Test it. Then add the second box, and test how far the top two together can stick out over the third box. Write the answers.  
   *Parent says:* The top box on its own can stick out half its length. The top two boxes together can stick out a quarter more. Test it. What is the pattern?  
-  *Child mode:* Test the top box. Then the top two. How far can each stick out?
+  *Child mode:* Test how far the top box can stick out. Then test the top two boxes together.
   - Note: For the top two boxes together, the centre of gravity of the pair lies halfway along them. They can stick out a quarter of a box length over the third box. Then the top three can stick out a sixth over the fourth, and so on. The steps are a half, a quarter, a sixth, an eighth.
   - Check: The top box can stick out half its length over the box below. Why does it fall if it sticks out more than half? → **Its centre of gravity moves past the edge of the box below**
 - **c1s4 (10 min)**  
   *Parent does:* Build the stack from the top down. Use steps of a half, a quarter, a sixth, an eighth and so on, of a box length. Measure the total overhang in box lengths. Compare it with your first stack.  
   *Parent says:* Now use the pattern. Build from the top down. The top box sticks out a half. The next step is a quarter, then a sixth. How far does the whole stack stick out now?  
-  *Child mode:* Build from the top down. Steps of a half, a quarter, a sixth. Measure again.
-  - Note: With 8 boxes, the total overhang is half of (1 plus one half plus one third plus one quarter plus one fifth plus one sixth plus one seventh plus one eighth). That is about 1.36 box lengths. Real boxes will give a little less, typically 1.1 to 1.3, because it is hard to place them exactly, so leave a gap of a millimetre or two. Matchboxes are light and slide, so move them gently. If they keep sliding, use small books or blocks. Matchboxes are about 5 centimetres long, so the overhang is about 7 centimetres.
+  *Child mode:* Build from the top down, with steps of a half, a quarter and a sixth of a box length. Measure the overhang again.
+  - Note: With 8 boxes, start with 1. Then add one half, one third, one quarter, one fifth, one sixth, one seventh and one eighth. Take half of that total. The answer is about 1.36 box lengths. Real boxes will give a little less, typically 1.1 to 1.3, because it is hard to place them exactly, so leave a gap of a millimetre or two. Matchboxes are light and slide, so move them gently. If they keep sliding, use small books or blocks. Matchboxes are about 5 centimetres long, so the overhang is about 7 centimetres.
   - Check: With the half, quarter, sixth pattern, the stack sticks out further than the equal-steps stack. Why? → **Each box is placed exactly as far as its pile allows, so no box is wasted**
 - **c1s5 (4 min)**  
   *Parent does:* Compare the stacks. Ask where the centre of gravity of the whole stack lies, and why the stack does not fall.  
   *Parent says:* Which stack stuck out the furthest? Where is the centre of gravity of the whole stack? Why does it not fall?  
-  *Child mode:* Which stack won? Where is its centre of gravity? Why does it stay up?
+  *Child mode:* Which stack stuck out the furthest? Where is its centre of gravity? Why does it stay up?
   - Note: The centre of gravity of the whole stack must lie over the table. The overhang looks as if it should fall, but the boxes on the table side hold the balance. A good answer is that the whole stack, taken as one thing, has its centre of gravity above the table.
 
 ## Worksheets
@@ -589,7 +589,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 2. (fill) On Earth, the weight of a bag with a mass of 1 kilogram is about ____ newtons.  
    **Answer:** ['9.8', '10', 'about 10', 'about 9.8']. *Why:* Earth pulls with about 9.8 newtons for each kilogram. For quick sums, 10 is close enough.
 3. (truefalse) A spring scale gives the same reading for a mango on the Moon as on the Earth.  
-   **Answer:** False. *Why:* False. A spring scale measures the pull on the mango, and the Moon pulls about six times less. So the scale would show about one sixth of the Earth reading.
+   **Answer:** False. *Why:* False. A spring scale measures the pull on the mango, and the Moon pulls only about one sixth as hard. So the scale would show about one sixth of the Earth reading.
 4. (mcq) 100 millilitres of water has a mass of about how much?  
    Options: 100 grams / 10 grams / 1 kilogram  
    **Answer:** 100 grams. *Why:* 1 millilitre of water has a mass of about 1 gram, so 100 millilitres has a mass of about 100 grams. This is why water is a handy standard mass in any kitchen.
@@ -609,7 +609,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 11. (write) Explain why a two-pan balance gives the same answer on the Moon as on the Earth.  
    **Answer:** A balance compares two masses. On each pan, the world pulls down. If the masses are equal, the pulls are equal wherever you are, so the pans stay level. The balance never measures how hard the world pulls.. *Why:* A strong answer says that both pans are pulled by the same world in the same way, so only the masses matter.
 12. (write) Why does a spring scale show a smaller number for the same mango on the Moon?  
-   **Answer:** A spring scale measures the pull on the mango, which is its weight. The Moon pulls about six times less than the Earth, so the spring stretches less. The mango has the same mass, but a smaller weight.. *Why:* A strong answer separates mass, which stays the same, from weight, which is the pull and changes with the world.
+   **Answer:** A spring scale measures the pull on the mango, which is its weight. The Moon pulls only about one sixth as hard as the Earth, so the spring stretches less. The mango has the same mass, but a smaller weight.. *Why:* A strong answer separates mass, which stays the same, from weight, which is the pull and changes with the world.
 13. (draw) Draw a cardboard ring hanging from a pin. Draw a plumb line down from the pin, and mark where the centre of gravity is.  
    **Answer:** The ring hangs from the pin at its top. The plumb line is a straight vertical line down from the pin, through the empty hole. The centre of gravity is a dot on that line in the middle of the hole.. *Why:* A strong drawing puts the dot in the hole, not on the cardboard, and the line straight down from the pin.
 14. (label) Label this drawing of a two-pan balance: beam, left pan, right pan, pointer, standard mass.  
@@ -621,7 +621,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    Options: 220 grams / 200 grams / 180 grams  
    **Answer:** 220 grams. *Why:* Dissolving breaks the sugar into tiny pieces, but they are still there. No mass is lost, so the total is 200 plus 20, which is 220 grams.
 ### Stretch, Balance and Topple (stretch) (stretch, 17 questions)
-1. (mcq) Look at the graph of Aarav's rubber band. For each extra 100 grams, the stretch grew by 0.9, then 1.0, then 1.1, then 1.3, then 1.5 centimetres. What does this tell you?  
+1. (mcq) Look at the graph of a rubber band's stretch. For each extra 100 grams, the stretch grew by 0.9, then 1.0, then 1.1, then 1.3, then 1.5 centimetres. What does this tell you?  
    Options: The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before / The band is broken / A rubber band is the same as a steel spring  
    **Answer:** The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before. *Why:* For a perfect spring, every 100 grams would add the same stretch. These steps grow, so the dots curve upwards. Rubber bands often behave like this, which is why you must calibrate them.
 2. (truefalse) If you pull a spring past its elastic limit, it goes back to its old length when you let go.  
@@ -653,14 +653,14 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 13. (write) A cheap digital kitchen scale shows 960 grams for a litre bottle of water. What would you do to check it, and what would you conclude?  
    **Answer:** A litre of water has a mass of about 1,000 grams, so the scale is reading about 40 grams low. I would check it with another known mass or a balance. If they agree with each other and not with the scale, the scale is wrong and needs setting right.. *Why:* A strong answer uses the litre of water as a known mass, and makes a clear conclusion about the scale.
 14. (perspective) Three friends argue about the centre of gravity of a cardboard ring.  
-   **Answer:** A strong answer usually agrees with Farhan, because the plumb lines crossed in the empty hole. It admits that Meera has a point: the centre of gravity is a point that we work out by adding up the pulls, and is not a piece of the cardboard. Asha's idea does not fit what the lines showed.. *Why:* There is a real argument here. Engineers sometimes say it is only a calculation. A strong answer uses the plumb-line evidence and is fair to the idea that it is a worked-out point.
+   **Answer:** A strong answer usually agrees with the second child, because the plumb lines crossed in the empty hole. It admits that the third child has a point: the centre of gravity is a point that we work out by adding up the pulls, and is not a piece of the cardboard. The first child's idea does not fit what the lines showed.. *Why:* There is a real argument here. Engineers sometimes say it is only a calculation. A strong answer uses the plumb-line evidence and is fair to the idea that it is a worked-out point.
 15. (draw) Draw a bucket tilted halfway over on the floor. Draw the line straight down from its centre of gravity, and show whether it will tip back or fall over.  
    **Answer:** The bucket is tilted on one bottom edge. The vertical line from the centre of gravity falls inside that edge, so the bucket tips back. If the line fell outside the edge, it would fall over.. *Why:* A strong drawing shows the line from the centre of gravity and where it falls compared with the edge on the floor.
 16. (truefalse) A kilogram of cotton wool and a kilogram of iron balance each other on a two-pan balance.  
    **Answer:** True. *Why:* True. A balance compares masses, and both have a mass of 1 kilogram. The cotton takes up far more room, but that does not matter to a balance.
 17. (mcq) A lorry piled high with sacks is more likely to topple on a sharp bend than the same lorry with the sacks low. Why?  
-   Options: The high load raises the centre of gravity, so a smaller tilt takes its line outside the wheels / The sacks are heavier when they are high / The wheels grip less when the load is high  
-   **Answer:** The high load raises the centre of gravity, so a smaller tilt takes its line outside the wheels. *Why:* The same load weighs the same wherever it is. But a higher centre of gravity means the line down from it leaves the base after a smaller tilt, so the lorry topples more easily.
+   Options: The high load raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels / The sacks are heavier when they are high / The wheels grip less when the load is high  
+   **Answer:** The high load raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels. *Why:* The same load weighs the same wherever it is. But a higher centre of gravity means the line down from it leaves the base after a smaller tilt, so the lorry topples more easily.
 ### Weighing the World (challenge) (challenge, 16 questions)
 1. (mcq) A steel spring stretches 2 centimetres under a 200-gram load. If it follows Hooke's law, how far will it stretch under 500 grams?  
    Options: 5 centimetres / 4 centimetres / 10 centimetres  
@@ -682,10 +682,10 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 8. (mcq) A sealed bag of ice is weighed, then the ice melts in warm water, and the bag is dried and weighed again. What will the second weighing show?  
    Options: The same mass as the first / Less mass, because ice is heavier than water / More mass, because water is heavier than ice  
    **Answer:** The same mass as the first. *Why:* Melting changes how the particles are arranged, not how many there are. In a sealed bag, nothing can leave, so the mass is the same.
-9. (write) The air in a room is 4 metres long, 5 metres wide and 3 metres high. A cubic metre of air has a mass of about 1.2 kilograms. What is the mass of the air in the room? Show your working.  
+9. (write) A room is 4 metres long, 5 metres wide and 3 metres high. A cubic metre of air has a mass of about 1.2 kilograms. What is the mass of the air in the room? Show your working.  
    **Answer:** The volume is 4 times 5 times 3, which is 60 cubic metres. 60 times 1.2 is 72 kilograms. The air in the room has a mass of about 72 kilograms, about as much as a grown-up.. *Why:* A strong answer works out the volume first, then multiplies by 1.2, and compares the answer with something familiar.
 10. (perspective) Three traders at a market argue about how to weigh pepper.  
-   **Answer:** A strong answer picks a side and gives a reason. For example, it might agree with Selvi: any scale can go wrong, and a known mass checks it, as the litre of water showed in the story. It admits Lakshmi's point that a balance only compares masses and so does not depend on a battery or on the pull of the world, and Ravi's point that a digital scale is quick.. *Why:* There is a real choice here. A strong answer uses the idea of calibration and the difference between comparing and sensing a push or pull, and is fair to the other views.
+   **Answer:** A strong answer picks a side and gives a reason. For example, it might agree with Selvi: any scale can go wrong, and a known mass checks it, as the litre of water showed in the story The Litre of Water in the Spice Market. It admits Lakshmi's point that a balance only compares masses and so does not depend on a battery or on the pull of the world, and Ravi's point that a digital scale is quick.. *Why:* There is a real choice here. A strong answer uses the idea of calibration and the difference between comparing and sensing a push or pull, and is fair to the other views.
 11. (draw) Draw the Earth and the Moon, and mark the point they both circle. Show where that point is.  
    **Answer:** The Earth is a big circle, and the Moon is a small circle far to one side. A dot is marked on the line between them, inside the Earth's circle, nearer the Earth's edge than its centre.. *Why:* A strong drawing puts the dot on the line between the two, and inside the Earth, because the Earth is much heavier than the Moon.
 12. (label) Label this cut-away drawing of the Earth: crust, mantle, liquid outer core, solid inner core.  
@@ -697,7 +697,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    **Answer:** Mostly from water that was added, and from carbon dioxide in the air that the leaves took in. A little may come from minerals in the soil, but the soil's mass barely changed. A fresh plant is mostly water.. *Why:* A strong answer names water and air, and notes that the soil's mass stayed about the same.
 15. (truefalse) Big G, the number that sets the strength of gravity between two masses, has been measured so exactly that all laboratories agree.  
    **Answer:** False. *Why:* False. Different careful laboratories get answers that differ by more than they should. Big G is known to only about five digits.
-16. (mcq) A student weighs a candle before and after burning it for ten minutes in an open room and finds it lighter. Which is the best explanation?  
+16. (mcq) A candle is weighed before and after it burns for ten minutes in an open room. It is lighter afterwards. Which is the best explanation?  
    Options: The wax turned into carbon dioxide and water vapour, which floated away / The candle lost its weight into the flame as heat / Wax has no mass when it is hot  
    **Answer:** The wax turned into carbon dioxide and water vapour, which floated away. *Why:* Burning joins the wax with oxygen from the air to make invisible gases. In an open room, they float away, and the candle looks lighter. If the burning were done in a sealed jar, the total mass would stay the same.
 
@@ -719,7 +719,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 4. (mcq) You hang known masses on a rubber band, and the line on your graph bends. What is the best thing to say?  
    Options: The band is not perfectly even, so use the graph to read masses, and do not assume equal steps / The experiment has failed and must be thrown away / The band follows Hooke's law exactly  
    **Answer:** The band is not perfectly even, so use the graph to read masses, and do not assume equal steps. *Why:* Rubber bands often give a curved line. The graph still works as a scale if you read masses from it, because you calibrated it with known masses.
-5. (mcq) A child has a mass of 20 kilograms. On Mars the pull is 3.7 newtons for each kilogram. What is her weight there?  
+5. (mcq) A child has a mass of 20 kilograms. On Mars the pull is 3.7 newtons for each kilogram. What is the child's weight there?  
    Options: 74 newtons / 20 newtons / 7.4 newtons  
    **Answer:** 74 newtons. *Why:* Weight is mass times the pull: 20 times 3.7 is 74 newtons. Picking 20 forgets the pull. Picking 7.4 loses a zero.
 6. (mcq) Which of these is the same on every world?  
@@ -729,9 +729,9 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    Options: In the hole, where there is no cardboard / On the cardboard nearest the pin / It has no centre of gravity  
    **Answer:** In the hole, where there is no cardboard. *Why:* The pulls on all the crumbs of cardboard act as one pull at the crossing point, and for a ring, that is in the empty middle.
 8. (mcq) A bus with luggage piled on its roof topples more easily on a sharp bend than an empty bus. Why?  
-   Options: The luggage raises the centre of gravity, so a smaller tilt takes its line outside the wheels / The luggage makes the bus weigh less / The luggage pushes the bus off the road  
-   **Answer:** The luggage raises the centre of gravity, so a smaller tilt takes its line outside the wheels. *Why:* The higher the centre of gravity, the sooner the line down from it leaves the base. Low, wide and heavy-at-the-bottom is stable.
-9. (mcq) A bottle of vinegar and baking soda is sealed and weighed before and after it fizzes. Then the same fizz is done in an open cup. What is the result?  
+   Options: The luggage raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels / The luggage makes the bus weigh less / The luggage pushes the bus off the road  
+   **Answer:** The luggage raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels. *Why:* The higher the centre of gravity, the sooner the line down from it leaves the base. A thing that is low, wide and heavy at the bottom is stable.
+9. (mcq) A bottle of vinegar and baking soda is sealed and weighed before and after it fizzes. Then the same mixture fizzes in an open cup, weighed before and after. What is the result?  
    Options: The sealed bottle keeps its mass, and the open cup loses some, as gas floats away / Both keep their mass exactly / Both lose mass  
    **Answer:** The sealed bottle keeps its mass, and the open cup loses some, as gas floats away. *Why:* Gas has mass. In the sealed bottle, it cannot leave. In the open cup, it floats away and the scale shows a drop.
 10. (mcq) Sugar is stirred into a cup of water until it cannot be seen. What happens to the mass of the cup and its contents?  
@@ -744,7 +744,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    Options: 1 kilogram / 100 grams / 10 kilograms  
    **Answer:** 1 kilogram. *Why:* The litre and the kilogram were first meant to match. A litre of water has a mass of about 1 kilogram, so water is a handy standard mass.
 13. (mcq) A homemade scale and a trusted scale give different answers for the same tomato. What should you do first?  
-   Options: Check both against a known mass, such as a litre of water / Trust the homemade scale, because you made it / Trust the shiny one, because it was dearer  
+   Options: Check both against a known mass, such as a litre of water / Trust the homemade scale, because you made it / Trust the shiny one, because it cost more  
    **Answer:** Check both against a known mass, such as a litre of water. *Why:* Before you trust any scale, weigh something you already know. The one that disagrees with the known mass needs fixing.
 
 ## Applications
@@ -754,7 +754,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - ISRO engineers balance a rocket so that its centre of gravity stays on the line of its engines' push, and they weigh every part.
 - Ships carry heavy ballast low in the hull, to keep the centre of gravity low and the ship from rolling over.
 - Gymnasts, tightrope walkers and high jumpers move their bodies to control where their centre of gravity is.
-- Geologists use tiny changes in the pull of gravity to find heavy ore under the ground and light caves.
+- Geologists use tiny changes in the pull of gravity to find heavy ore and hollow caves under the ground.
 - Jewellers and pharmacists use balances that can weigh thousandths of a gram, by comparing with very small standard masses.
 - Bathroom and kitchen scales use strain gauges to sense a push, and show kilograms by assuming the Earth's pull.
 - Weighbridges at toll plazas use strain gauges to weigh whole lorries, so overloaded ones do not damage roads and bridges.
@@ -771,7 +771,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 
 ## Open questions
 - **Why is big G so hard to measure?** Different careful laboratories get answers that differ by more than they should. Nobody knows if the cause is hidden mistakes, or something new about gravity.
-- **How heavy is a neutrino, the lightest known particle with mass?** Experiments show it has a mass, but only a limit on how big it can be. Nobody has measured the exact number.
+- **How heavy is a neutrino, the lightest known particle with mass?** Experiments show it has a mass, but they give only an upper limit on how big that mass can be. Nobody has measured the exact number.
 - **What is the Earth's core made of, besides iron and nickel?** Scientists think it holds a little of some lighter elements, such as sulfur, oxygen, silicon or carbon, but they cannot agree which.
 - **Why is there more matter than antimatter in the universe?** The early universe should have made equal amounts, and they would have wiped each other out. Something left a little matter over. Nobody knows what.
 - **Does the Earth's solid inner core turn at a different rate from the rest of the Earth?** Earthquake waves hint at tiny changes in how the inner core turns, but scientists are still arguing about what they mean.
@@ -780,7 +780,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 ## Questions to ask kids
 - If a shopkeeper's balance would work on the Moon, why would our bathroom scale not?
 - Where do you think the balance point of a spoon is? How could we find out?
-- Why is it easier to carry a heavy bag with one in each hand than with two in one hand?
+- Why is it easier to carry two heavy bags with one in each hand than with both in one hand?
 - How much do you think the air in our kitchen weighs? How could we work it out?
 - Which would you find harder to lift: a kilogram of iron or a kilogram of cotton? Why?
 - When you stand on one foot, which way do you lean, and why?
@@ -801,12 +801,12 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - Why did the bathroom scale feel sad on the Moon? *It had lost so much weight, and nobody noticed.*
 
 ## Connected maths
-- Aarav hung known masses on a rubber band. The pointer read 14.0 centimetres with no water, and then 14.9, 15.9, 17.0, 18.3 and 19.8 centimetres after each extra 100 grams. How much did the band stretch with 500 grams? How much more did the last 100 grams stretch it than the first 100 grams? **With 500 grams it stretched 5.8 centimetres. The last 100 grams stretched it 0.6 centimetres more than the first.**. 19.8 minus 14.0 is 5.8. The first 100 grams stretched it 14.9 minus 14.0, which is 0.9. The last 100 grams stretched it 19.8 minus 18.3, which is 1.5. 1.5 minus 0.9 is 0.6. (queues `math.fractions.decimals-and-percentages.L4`)
-- A child has a mass of 40 kilograms. The pull is 9.8 newtons for each kilogram on Earth, 3.7 on Mars and 1.6 on the Moon. Round the Earth's number to 10. Work out her weight on each world. **About 400 newtons on Earth, 148 newtons on Mars and 64 newtons on the Moon.**. On Earth, 40 times 10 is 400. On Mars, 40 times 3.7: 40 times 3 is 120, and 40 times 0.7 is 28, so 148. On the Moon, 40 times 1.6: 40 times 1 is 40, and 40 times 0.6 is 24, so 64. (queues `math.multiplication.multi-digit.L4`)
+- Known masses were hung on a rubber band. The pointer read 14.0 centimetres with no water, and then 14.9, 15.9, 17.0, 18.3 and 19.8 centimetres after each extra 100 grams. How much did the band stretch with 500 grams? How much more did the last 100 grams stretch it than the first 100 grams? **With 500 grams it stretched 5.8 centimetres. The last 100 grams stretched it 0.6 centimetres more than the first.**. 19.8 minus 14.0 is 5.8. The first 100 grams stretched it 14.9 minus 14.0, which is 0.9. The last 100 grams stretched it 19.8 minus 18.3, which is 1.5. 1.5 minus 0.9 is 0.6. (queues `math.fractions.decimals-and-percentages.L4`)
+- A child has a mass of 40 kilograms. The pull is 9.8 newtons for each kilogram on Earth, 3.7 on Mars and 1.6 on the Moon. Round the Earth's number to 10. Work out the child's weight on each world. **About 400 newtons on Earth, 148 newtons on Mars and 64 newtons on the Moon.**. On Earth, 40 times 10 is 400. On Mars, 40 times 3.7: 40 times 3 is 120, and 40 times 0.7 is 28, so 148. On the Moon, 40 times 1.6: 40 times 1 is 40, and 40 times 0.6 is 24, so 64. (queues `math.multiplication.multi-digit.L4`)
 - A room is 3 metres long, 4 metres wide and 2.5 metres high. Each cubic metre of air has a mass of about 1.2 kilograms. What is the mass of the air in the room? **About 36 kilograms.**. The volume is 3 times 4 times 2.5. 3 times 4 is 12. 12 times 2.5 is 30 cubic metres. 30 times 1.2 is 36 kilograms. (queues `math.multiplication.multiplication-facts.L4`)
 - In the Overhang Challenge, the top box sticks out one half of a box length over the one below. The top two boxes together stick out one quarter more, the top three one sixth more, and the top four one eighth more. Add the four steps. Is the total more than one whole box length? **The total is 25 twenty-fourths of a box length, which is one whole box length and one twenty-fourth more. Yes, it is a little more than one whole box length.**. Use twenty-fourths. One half is 12 twenty-fourths. A quarter is 6. A sixth is 4. An eighth is 3. 12 plus 6 plus 4 plus 3 is 25 twenty-fourths, which is one whole and one twenty-fourth more. (queues `math.fractions.fractions-of-a-whole.L4`)
 - On the home-made balance, a tomato balanced 120 millilitres of water and a lemon balanced 85 millilitres. Water has a mass of 1 gram for each millilitre. What is the total mass of the two? How many grams more is the tomato than the lemon? **Together they have a mass of 205 grams. The tomato has 35 grams more.**. 120 plus 85 is 205 grams. 120 minus 85 is 35 grams. (queues `math.weight-capacity.weight.L4`)
-- With the cheating balance, a tomato weighed 90 grams on one side and 150 grams after swapping the pans. What is the average of the two? Why is the average a good guess for the real mass? **The average is 120 grams. It is a good guess because the cheat makes one answer too small and the other too big, by about the same amount.**. 90 plus 150 is 240. Half of 240 is 120. The unequal arms made the first answer 30 too low and the second 30 too high, so they cancel out. (queues `math.addition-subtraction.mental-strategies.L4`)
+- A balance with unequal arms cheats. On such a balance, a tomato weighed 90 grams on one side and 150 grams after swapping the pans. What is the average of the two? Why is the average a good guess for the real mass? **The average is 120 grams. It is a good guess because the cheat makes one answer too small and the other too big, by about the same amount.**. 90 plus 150 is 240. Half of 240 is 120. The unequal arms made the first answer 30 too low and the second 30 too high, so they cancel out. (queues `math.addition-subtraction.mental-strategies.L4`)
 - A 1-kilogram bag on Mars feels like 380 grams on Earth. How many grams on Earth would a 3-kilogram bag on Mars feel like? How many litres of water is that? **1,140 grams, which is 1.14 litres.**. The bag has 3 times the mass, so it pulls 3 times as hard. 3 times 380 is 1,140 grams. Water has 1 gram for each millilitre, so 1,140 grams is 1,140 millilitres, which is 1.14 litres. (queues `math.fractions.ratio-and-proportion.L4`)
 - A closed bottle weighed 612 grams before and 612 grams after fizzing. An open cup weighed 612 grams before and 608 grams after. A second open cup lost 3 grams. How much gas escaped from the first cup? Which cup lost more, and by how much? **4 grams escaped from the first cup. It lost 1 gram more than the second cup.**. 612 minus 608 is 4 grams. The second cup lost 3 grams. 4 minus 3 is 1, so the first cup lost 1 gram more. The closed bottle lost nothing, because the gas stayed in. (queues `math.number-sense.comparing-ordering.L4`)
 - The average density of the Earth is 5.5 grams for each cubic centimetre. Granite is 2.7 grams and water is 1 gram. About how many times as dense as granite is the Earth? How many times as dense as water? **About 2 times as dense as granite, and 5.5 times as dense as water.**. 5.5 divided by 1 is 5.5. 5.5 divided by 2.7 is a bit more than 2, because 2 times 2.7 is 5.4. So the Earth is about twice as dense as granite. (queues `math.number-sense.estimation.L4`)
