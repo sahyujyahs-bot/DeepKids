@@ -182,7 +182,7 @@
    "for": "A rock looks the same this year as last year. Old temples of stone are still standing after a thousand years.",
    "against": "Old grinding stones get a dip in the middle, old steps get worn smooth, and river stones turn round. The change is just too slow to see in one day.",
    "status": "rejected",
-   "context": "This card is about the idea that rocks never change."
+   "context": "A stone temple looks the same this year as it did last year. Many people think a rock stays the same for ever. This card asks if that is true."
   },
   {
    "claim": "A heavier stone is always harder.",
@@ -190,7 +190,7 @@
    "for": "Big heavy stones feel strong. Heavy things often feel tough.",
    "against": "Hardness depends on the mineral grains, not on the size. A big lump of chalk is heavy but soft. A tiny grain of quartz sand is light but harder than steel.",
    "status": "rejected",
-   "context": "This card is about whether heavy rocks are harder rocks."
+   "context": "Big heavy stones feel strong. Hard means hard to scratch. This card asks if a heavier stone is always a harder stone."
   },
   {
    "claim": "Taking sand from a river does no harm, because the river brings more sand every year.",
@@ -198,7 +198,7 @@
    "for": "Rivers really do carry new sand down from the hills, especially in the monsoon.",
    "against": "Rivers bring new sand slowly. In many Indian rivers, more sand has been taken than the river brings, and the river beds have sunk.",
    "status": "debated",
-   "context": "This card is about whether taking sand from rivers harms them."
+   "context": "Builders take sand from river beds to make cement and concrete. Rivers also carry new sand down each year. This card asks if taking the sand does no harm."
   }
  ],
  "big_questions": [
@@ -503,6 +503,7 @@
    "mins": 20,
    "days": 1,
    "context": "In this experiment you shake sharp pieces of chalk, salt and stone in a closed steel tiffin, 100 shakes each. Then you look at which ones have lost their corners. This is a fast copy of what a river does to rocks.",
+   "problem": "A river rolls stones against sand and other stones. Each knock takes off a few tiny grains, and the corners are knocked most. A river needs a very long time to make a round pebble. So in this test, you shake sharp pieces in a steel tiffin, and see which ones lose their corners.",
    "question": "If we shake sharp pieces of chalk, salt and stone the same way, which ones lose their corners and turn round?",
    "predict": "Guess first. Which pieces will lose their corners after 100 shakes: the chalk, the salt or the stone? Which will not change at all? Why do you think so?",
    "fair_test": "Each kind is shaken in the same tiffin, 5 pieces at a time, for 100 hard shakes. The tiffin is tipped out and wiped between kinds. Only the kind of rock changes.",
@@ -677,7 +678,7 @@
       }
      ],
      "parent": "A good answer has three parts. What I think: hard pebbles were knocked for a very long time. What I saw: chalk went round in 100 shakes, but stone did not. Why: hard rock loses grains very slowly. Some shop pebbles are rounded in a machine drum, which does the same knocking.",
-     "think": "The inside of the tiffin got knocked too. Did the tiffin wear away a little?"
+     "think": "The chalk knocks against the steel tiffin too. Which is harder, the chalk or the steel? So which one wears away more?"
     }
    ]
   },
@@ -687,6 +688,7 @@
    "mins": 20,
    "days": 1,
    "context": "In this experiment you try to scratch four kinds of rock with three tools: your fingernail, a steel coin and a steel key. A rock that is scratched by your fingernail is very soft. A rock that nothing scratches is very hard.",
+   "problem": "A harder thing can scratch a softer thing, but a softer thing cannot scratch a harder one. So if a tool scratches a rock, the rock is softer than the tool. If nothing scratches a rock, it is very hard. In this test, you try three tools on each rock, and then put the rocks in order from softest to hardest.",
    "question": "Which of our rocks can a fingernail scratch, which can a coin scratch, and which can nothing scratch?",
    "predict": "Guess first. Which rock is the hardest, and which is the softest? Will the shiniest rock be the hardest? Why do you think so?",
    "fair_test": "Every rock is tested with the same three tools, pressed with the same firm push and dragged once. Only the rock changes.",
@@ -1122,7 +1124,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Collect the six things together. 2. Put one in each section of the egg tray.",
-     "say": "Let us collect six things for your rock box. The brick is here to compare, because people made it from clay.",
+     "say": "Let us collect six things for your rock box. They are chalk, rock salt, a pebble, a stone chip, a piece of marble or Kota stone, and a brick. The brick is here to compare, because people made it from clay.",
      "kid": "Collect six things. Put one in each hole of the tray."
     },
     {
@@ -1161,7 +1163,7 @@
    "title": "The Fastest Pebble Maker",
    "mins": 20,
    "context": "This is a design challenge. In the Tiffin Test, 100 shakes turned chalk pieces round. Your job is to find a way to make a chalk piece as round as you can in only 50 shakes.",
-   "problem": "Make the roundest chalk pebble you can, from a sharp piece of chalk, in only 50 shakes.",
+   "problem": "Make the roundest chalk pebble you can, from a sharp piece of chalk, in only 50 shakes. In the Tiffin Test, knocking and rubbing made chalk round. A river does this with sand and stones. Here you try to make the knocking and rubbing stronger, so the chalk gets round in fewer shakes.",
    "constraints": [
     "Use only things you have at home.",
     "You may shake only 50 times.",
@@ -2034,8 +2036,8 @@
    "evidence": "In the Tiffin Test, soft chalk lost its corners in 100 shakes, while hard stone chips did not. Yet river pebbles of the same hard stone are completely round."
   },
   "three": {
-   "who_am_i": "You are shaped by what happens to you, a little every day, like the pebble. Your bones also contain a mineral, made from calcium and phosphorus.",
-   "what_is_life": "Life keeps changing slowly, often too slowly to notice in one day. A pebble shows that small changes add up.",
+   "who_am_i": "A pebble is shaped by what happens to it, a little at a time. You are shaped by what happens to you, a little every day too. Even your bones are partly made of a mineral, which comes from calcium and phosphorus.",
+   "what_is_life": "A living being changes a little every day, often too slowly to notice. A seedling grows taller by a tiny bit each day. A pebble shows how small changes add up over a long time.",
    "what_is_this_world": "The ground under your flat is rock that is always changing, breaking, rolling and turning into sand, and later into new rock."
   },
   "thread": "Everything is conscious, and rock is part of that same awareness, in its own way, at its own slow pace. A hill, a pebble, a grain of sand and the sandstone of a fort are one rock at different moments of one long story. Rock breaks into pebbles, pebbles into sand, and sand pressed together becomes rock again. Plants and animals, including us, live on this rock for a while and change it too. Most scientists today say only beings with nerves have minds, and they see rocks as matter that follows the laws of physics.",

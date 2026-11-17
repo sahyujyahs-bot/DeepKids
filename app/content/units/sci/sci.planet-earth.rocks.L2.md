@@ -3,7 +3,7 @@
 
 **Summary.** A pebble from a river is smooth and round, but a freshly broken stone has sharp corners. What made the pebble round? Rocks are made of tiny grains called minerals, and some rocks are much harder than others. People choose each rock for a job: hard granite for steps and grinding stones, soft chalk for writing, marble for floors. Your child shakes chalk, salt and stone pieces in a steel tiffin to see which ones lose their corners, and tests rocks with a fingernail, a coin and a key. Last, we ask what happens to a hill or a river when people dig rock and sand out of it.
 
-**Intro.** *A broken stone has sharp corners. A river pebble is smooth and round. Who made the pebble round?* Hold a pebble from a plant pot, if you have one. Run your finger over it. There are no sharp corners at all. Now look at a stone chip, or a broken piece of tile. Its edges are sharp. Both are rock. In this unit you find out how a sharp rock can turn into a round pebble, and why some rocks wear away much faster than others. You also find out which rocks are in your home, and why people chose them.
+**Intro.** *A broken stone has sharp corners. A river pebble is smooth and round. What made the pebble round?* Hold a pebble from a plant pot, if you have one. Run your finger over it. There are no sharp corners at all. Now look at a stone chip, or a broken piece of tile. Its edges are sharp. Both are rock. In this unit you find out how a sharp rock can turn into a round pebble, and why some rocks wear away much faster than others. You also find out which rocks are in your home, and why people chose them.
 
 ## Learning outcomes
 0. By the end I can say what a rock is, and that most rocks are made of tiny grains called minerals.
@@ -15,10 +15,10 @@
 
 ## Terms
 - **Rock**: Rock is the hard, natural material that the ground is made of, under the soil and the sea. It was not made by people. *e.g.* The big boulders at Hampi in Karnataka are rock. So is the grinding stone in many kitchens.
-- **Mineral**: A mineral is one natural material with the same tiny pattern all through it. Most rocks are made of grains of a few minerals packed together. *e.g.* Salt is a mineral. Quartz, the glassy grains in granite and in most sand, is a mineral too.
+- **Mineral**: A mineral is a natural material that is the same all the way through. Most rocks are made of grains of a few minerals packed together. *e.g.* Salt is a mineral. Quartz, the glassy grains in granite and in most sand, is a mineral too.
 - **Hard and soft**: A hard rock is not scratched or worn away easily. A soft rock can be scratched with a fingernail or a coin, and rubs away quickly. *e.g.* Granite is hard, so it is used for temple steps. Chalk is soft, so it leaves a line on a board.
 - **Pebble**: A pebble is a small, smooth, rounded piece of rock. Water rolled it against sand and other stones until its corners wore off. *e.g.* The round stones on the bed of the Kaveri river, or in the bottom of a plant pot, are pebbles.
-- **Wear away**: To wear away means to lose tiny bits, a little at a time, by rubbing or knocking. Scientists call this erosion when wind, water or ice do it to rock. *e.g.* An old grinding stone gets a smooth dip in the middle, because the grinding wears it away.
+- **Wear away**: To wear away means to lose tiny bits, a little at a time, by rubbing or knocking. When wind, water or ice does this to rock, scientists call it erosion. *e.g.* An old grinding stone gets a smooth dip in the middle, because the grinding wears it away.
 - **Granite**: Granite is a hard, speckled rock. It formed deep underground from melted rock that cooled very slowly. *e.g.* The Brihadeeswarar temple in Thanjavur is built of granite. Many kitchen counters are granite too.
 - **Marble**: Marble is a smooth rock, often white, that can be cut and polished until it shines. It is softer than granite. *e.g.* The Taj Mahal is built of white marble from Makrana in Rajasthan.
 - **Quarry**: A quarry is a big open pit where people dig or cut rock out of the ground. *e.g.* Kota stone, used for floors in many homes, comes from quarries near Kota in Rajasthan.
@@ -39,7 +39,7 @@ To find out how hard a rock is, try to scratch it. Your fingernail scratches cha
 - e.g. A steel coin scratches marble.
 - e.g. Nothing at home scratches a quartz pebble, except another quartz pebble or something harder.
 ### Why we use each rock for its job · *defined*
-**Definition:** People choose a rock for a job by what the rock is like: hard or soft, smooth or rough, holey or tight, pretty or plain.
+**Definition:** People choose a rock for a job by what the rock is like: hard or soft, smooth or rough, full of holes or tightly packed, pretty or plain.
 
 People choose a rock for a job by what the rock is like. Steps and grinding stones need hard granite that does not wear away fast. Chalk is soft, so it rubs off onto a board and leaves a line. Slate splits into thin flat sheets and keeps water out, so it was used for roofs and writing slates. Marble can be polished until it shines, so it is used for floors and statues. Coal is a black rock that burns, so it is used as fuel in power stations.
 - e.g. Granite for the Brihadeeswarar temple in Thanjavur and for grinding stones.
@@ -51,7 +51,7 @@ People choose a rock for a job by what the rock is like. Steps and grinding ston
 ### How a sharp rock becomes a round pebble, and then sand · *defined*
 **Definition:** Rock wears away when it is knocked and rubbed. Corners stick out, so they are knocked most and wear off first.
 
-Rock breaks off a hill as sharp pieces. Rain carries some into a stream. The water rolls them and bangs them against sand and other stones. Each knock takes off a few tiny grains, and the corners get knocked most. Slowly the piece turns round and smooth, like a pebble. Soft rocks get round fast and break into sand. Hard rocks take a very long time. Your Tiffin Test showed this in a few minutes.
+Rock breaks off a hill as sharp pieces. Rain carries some into a stream. The water rolls them and bangs them against sand and other stones. Each knock takes off a few tiny grains, and the corners get knocked most. Slowly the piece turns round and smooth. Now it is a pebble. Soft rocks get round fast and break into sand. Hard rocks take a very long time. In the Tiffin Test, you shake chalk pieces in a steel tiffin and see them lose their corners in a few minutes.
 - e.g. Round stones on the bed of the Kaveri, the Narmada or the Brahmaputra.
 - e.g. Smooth pebbles on the beach at Kanyakumari.
 - e.g. The sand at the edge of a river, which is rock in tiny grains.
@@ -71,15 +71,15 @@ People dig rock out of quarries and scoop sand from river beds to build homes, r
 
 ## How we found out
 **Al-Biruni, a Persian scholar from Khwarazm in Central Asia, who lived and studied in India, Al-Biruni finished his book on India around 1030 CE..** Long ago, many people thought the ground had always been the way it is now, made all at once. About a thousand years ago, a scholar named Al-Biruni travelled into India from Ghazni, in what is now Afghanistan. He learned Sanskrit and wrote a big book about India, finished around the year 1030. In it, he wrote about the stones in the ground. Near the mountains, the rounded stones were big. Further from the mountains, they were smaller. Near the sea, where the rivers flow slowly, there was only sand. He also noticed that people found rounded stones however deep they dug. Al-Biruni said these stones had been carried and rubbed by rivers. So the flat land of India, he wrote, had once been a sea, slowly filled up by what the rivers brought down. Today geologists agree with a big part of this. The great plain of North India is made of thick layers of sand, mud and pebbles, carried down from the Himalayas by rivers over a very long time.  
-*What people believed before:* That the ground had always been as it is now. Al-Biruni saw that rounded river stones, big near the mountains and small near the sea, showed the land had been built up slowly by rivers.
+*What people believed before:* People thought the ground had always been as it is now. Al-Biruni saw that rounded river stones, big near the mountains and small near the sea, showed the land had been built up slowly by rivers.
 
 ## Challenging perspectives
 - **Rocks never change. A rock stays the same for ever.** (Many people, in many places; *rejected*)  
   For: A rock looks the same this year as last year. Old temples of stone are still standing after a thousand years.  
-  Against: Old grinding stones wear a dip, old steps wear smooth, and river stones turn round. The change is just too slow to see in one day.
+  Against: Old grinding stones get a dip in the middle, old steps get worn smooth, and river stones turn round. The change is just too slow to see in one day.
 - **A heavier stone is always harder.** (Many children, and many grown-ups; *rejected*)  
   For: Big heavy stones feel strong. Heavy things often feel tough.  
-  Against: Hardness depends on the mineral grains, not on the size. A big lump of chalk is heavy but soft. A tiny quartz grain of sand is light but harder than steel.
+  Against: Hardness depends on the mineral grains, not on the size. A big lump of chalk is heavy but soft. A tiny grain of quartz sand is light but harder than steel.
 - **Taking sand from a river does no harm, because the river brings more sand every year.** (Some people who sell sand; *debated*)  
   For: Rivers really do carry new sand down from the hills, especially in the monsoon.  
   Against: Rivers bring new sand slowly. In many Indian rivers, more sand has been taken than the river brings, and the river beds have sunk.
@@ -87,12 +87,12 @@ People dig rock out of quarries and scoop sand from river beds to build homes, r
 ## Roots
 We have shaken chalk and stone in a tiffin, scratched rocks and found rocks doing jobs. Now we ask what a pebble tells us about time, change and ourselves.
 
-**Deep truth.** In the tiffin, your chalk pieces turned round and dusty after 100 shakes. The hard stone chip kept its sharp corners. A hard river pebble is round too, so it was knocked far more times than that. So a smooth pebble tells us a river or the sea has rolled it for a very long time.  
-*Habit it breaks:* We think of a rock as something that stays the same for ever. The Tiffin Test shows that even hard rock loses grains with every knock, so a pebble's shape is made by a long, slow history.  
+**Deep truth.** In the Tiffin Test, the chalk pieces turned round and dusty after 100 shakes. The hard stone chips kept their sharp corners. A hard river pebble is round too, so it was knocked far more than 100 times. So a smooth pebble tells us a river or the sea has rolled it for a very long time.  
+*Habit it breaks:* We think of a rock as something that stays the same for ever. The Tiffin Test shows that even hard rock loses grains with every knock. So a pebble got its shape slowly, over a very long time.  
 *Evidence:* In the Tiffin Test, soft chalk lost its corners in 100 shakes, while hard stone chips did not. Yet river pebbles of the same hard stone are completely round.
 
-- *who am i:* You are shaped by what happens to you, a little every day, like the pebble. Your bones also contain a mineral, made from calcium and phosphorus.
-- *what is life:* Life keeps changing slowly, often too slowly to notice in one day. A pebble shows that small changes add up.
+- *who am i:* A pebble is shaped by what happens to it, a little at a time. You are shaped by what happens to you, a little every day too. Even your bones are partly made of a mineral, which comes from calcium and phosphorus.
+- *what is life:* A living being changes a little every day, often too slowly to notice. A seedling grows taller by a tiny bit each day. A pebble shows how small changes add up over a long time.
 - *what is this world:* The ground under your flat is rock that is always changing, breaking, rolling and turning into sand, and later into new rock.
 
 Everything is conscious, and rock is part of that same awareness, in its own way, at its own slow pace. A hill, a pebble, a grain of sand and the sandstone of a fort are one rock at different moments of one long story. Rock breaks into pebbles, pebbles into sand, and sand pressed together becomes rock again. Plants and animals, including us, live on this rock for a while and change it too. Most scientists today say only beings with nerves have minds, and they see rocks as matter that follows the laws of physics.
@@ -102,16 +102,16 @@ Everything is conscious, and rock is part of that same awareness, in its own way
 - Science (settled): Sand on most beaches and river banks is rock broken into tiny grains, often quartz. Sand buried and pressed for a very long time becomes sandstone.
 - Science (open): Some philosophers, called panpsychists, think even tiny bits of matter have some kind of experience. Nobody knows for sure.
 - Other view, Many scientists, and the Charvaka thinkers of ancient India: They say a rock is only matter, with no awareness of any kind. A pebble changes because it is knocked, and that is all there is to it.
-- Practice, Hold a Pebble, Feel the River (3 min): Hold a pebble in your hand and close your eyes. Feel how smooth it is. Run your thumb all the way round. Breathe in slowly while I count to four. Breathe out slowly while I count to four. Now imagine the river that rolled this pebble, year after year. Do three slow breaths, and keep feeling the smooth stone.
+- Practice, Hold a Pebble, Feel the River (3 min): Hold a pebble in your hand and close your eyes. Feel how smooth it is. Run your thumb all the way round. Breathe in slowly while I count to four. Breathe out slowly while I count to four. Now think of the river that rolled this pebble, year after year. Take three slow breaths, and keep feeling the smooth stone.
 - Ask: If a river slowly wears a pebble away, is the pebble the same pebble from year to year?
 - Ask: What in you is changing a little every day, too slowly to notice?
 - Ask: When a hill becomes sand and the sand becomes sandstone, is it the same rock?
 
 ## Deep and big questions
-- *deep:* If a river can turn a sharp rock round, what is the river doing to its own bed and banks all the time? (hint: Think about the Tiffin Test. Was it only the chalk that wore? What about the inside of the tiffin?)
+- *deep:* If a river can turn a sharp rock round, what is the river doing to its own bed and banks all the time? (hint: In the Tiffin Test, you shook chalk pieces in a steel tiffin. Was it only the chalk that wore away? What about the inside of the tiffin?)
 - *deep:* Is a grain of sand a rock, or only a piece of one? When does a piece stop being a rock? (hint: Think of chalk breaking into smaller and smaller bits. Is the dust still chalk?)
 - *big:* A hill took millions of years to form. A quarry can dig it away in a few years. Who should decide whether to dig it? (hint: Think about the builder, the farmer, the birds on the hill, and the children who need a school.)
-- *big:* A grinding stone and a temple step wear away a little each day. Is anything in the world truly lasting? (hint: Think about how slow is too slow to notice. Is slow change still change?)
+- *big:* A grinding stone and a temple step wear away a little each day. Is anything in the world truly lasting? (hint: Some changes are too slow to notice. Is slow change still change?)
 
 ## Story: The Dip in Paati's Grinding Stone
 *Meenu, Paati and Selvi akka are made up. It is true that grinding stones are usually granite, that they wear smooth with use, and that people in many towns still go from house to house roughening them with a chisel. Pebbles in rivers like the Kaveri are rounded by being rolled against sand and other stones.*
@@ -126,7 +126,7 @@ Meenu ran her finger across it. The stone felt hard, much harder than a brick. "
 
 "Ask Selvi akka," said Paati. "She is coming today."
 
-Selvi akka came up the stairs after lunch. Akka means older sister, and it is a polite way to call a woman. She had a small cloth bag of tools, and she went from house to house making old grinding stones rough again. She sat down by the ammikal and took out a little chisel and a hammer. Tap, tap, tap. She made rows of tiny pits all over the smooth dip.
+Selvi akka came up the stairs after lunch. Akka means older sister, and it is a polite way to speak to a woman. She had a small cloth bag of tools, and she went from house to house making old grinding stones rough again. She sat down by the ammikal and took out a little chisel and a hammer. Tap, tap, tap. She made rows of tiny pits all over the smooth dip.
 
 "Why are you making it rough, akka?" asked Meenu.
 
@@ -195,7 +195,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 ### g2 · The Hill Meeting: should we dig this hill? (15 min)
 - **rules:** Each player takes a role card. With fewer than 5 players, share out all five role cards so that every role is spoken for.; Turn your role card over and read what you care about. A grown-up can read it to you.; Take turns. Say who you are and what you want for the hill, in one or two sentences.; Then lay out the three plan cards. Read the front of each one aloud, then turn it over to read what it would mean. Everyone talks about which plan is fairest.; Each player votes for one plan by putting a finger on it. Count the votes. If two plans tie, talk for one more minute and vote again.; Last, each player says one thing another player said that they agree with.
 - **Printable cards: 5 role cards to cut out:** The builder (back: You need granite to build 200 new flats and a school. Without stone, families have nowhere to live.); The woman who grazes goats on the hill (back: Your goats eat the grass on the hill every day. Where will they eat if the hill becomes a pit?); A peahen who nests on the hill (back: You lay your eggs in the bushes on the hill. The noise and the digging will scare you away.); A girl who goes to the village school (back: Your school is old and the roof leaks. A new school would need stone. But you love climbing the hill.); A scientist who studies the land (back: You know the rain soaks into the hill and fills the village wells. A deep pit could change where the water goes.)
-- **Printable cards: 3 plan cards to cut out:** Plan 1: Dig the whole hill. (back: Most stone, fastest. The hill is gone.); Plan 2: Do not dig at all. (back: The hill stays. The builder must bring stone from far away, which costs more.); Plan 3: Dig one side only, and plant trees there after. (back: Some stone. Part of the hill stays. Takes longer.)
+- **Printable cards: 3 plan cards to cut out:** Plan 1: Dig the whole hill. (back: This gives the most stone, the fastest. The hill is gone.); Plan 2: Do not dig at all. (back: The hill stays. The builder must bring stone from far away, which costs more.); Plan 3: Dig one side only, and plant trees there afterwards. (back: This gives some stone. Part of the hill stays. It takes longer.)
 - **s1 (3 min)**  
   *Parent does:* 1. Hand out the role cards. 2. Help each player read theirs.  
   *Parent says:* A company wants to dig this hill for stone. Each of you speaks for someone who cares about the hill.  
@@ -205,7 +205,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   *Parent says:* Tell us who you are, and what you want for the hill. Which plan is fairest to everyone?  
   *Child mode:* Say who you are. Say what you want for the hill.
   - Ask: Who would lose the most if the whole hill was dug? (good: The peahen and the goats, because the hill is their home and food.; The village, if the wells dry up.)
-  - Note: There is no single right plan. Praise reasons that think of someone else, not only their own role.
+  - Note: There is no single right plan. Praise a player who thinks of someone else, not only of their own role.
 - **s3 (5 min)**  
   *Parent does:* 1. Everyone votes. 2. Count the votes. 3. Each player names one thing they agreed with.  
   *Parent says:* Put your finger on the plan you choose. Now say one thing someone else said that you agree with.  
@@ -214,6 +214,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 
 ## Experiments
 ### e1 · The Tiffin Test: which rock pieces lose their corners? (20 min)
+- **problem:** A river rolls stones against sand and other stones. Each knock takes off a few tiny grains, and the corners are knocked most. A river needs a very long time to make a round pebble. So in this test, you shake sharp pieces in a steel tiffin, and see which ones lose their corners.
 - **question:** If we shake sharp pieces of chalk, salt and stone the same way, which ones lose their corners and turn round?
 - **predict:** Guess first. Which pieces will lose their corners after 100 shakes: the chalk, the salt or the stone? Which will not change at all? Why do you think so?
 - **fair test:** Each kind is shaken in the same tiffin, 5 pieces at a time, for 100 hard shakes. The tiffin is tipped out and wiped between kinds. Only the kind of rock changes.
@@ -242,17 +243,18 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   - Note: Chalk usually loses its corners and makes white dust. Salt crystals may round a little or just crumble into grains, and either is fine. Stone chips stay sharp. Write down what you really see, even if it is not what you guessed.
   - Check: Which pieces changed the least after 100 shakes? → **The stone chips**
 - **s5 (3 min)**  
-  *Parent does:* 1. Put a round pebble next to a sharp stone chip. 2. Ask the question and wait for an answer. 3. Ask for claim, evidence and reason.  
+  *Parent does:* 1. Put a round pebble next to a sharp stone chip. 2. Ask the question and wait for an answer. 3. Ask what your child thinks, what they saw, and why.  
   *Parent says:* This pebble is hard stone too, and it is round. The chips did not change in 100 shakes. So how long must a river have rolled this pebble?  
   *Child mode:* Look at the pebble and the chip. How did the pebble get round?
   - Ask: How did the pebble get round? (good: A river rolled it and knocked it for a very long time.; It was knocked many, many more times than our 100 shakes.)
   - Note: A good answer has three parts. What I think: hard pebbles were knocked for a very long time. What I saw: chalk went round in 100 shakes, but stone did not. Why: hard rock loses grains very slowly. Some shop pebbles are rounded in a machine drum, which does the same knocking.
-  - Think: The inside of the tiffin got knocked too. Did the tiffin wear away a little?
+  - Think: The chalk knocks against the steel tiffin too. Which is harder, the chalk or the steel? So which one wears away more?
 ### e2 · The Scratch Ladder: which rock is hardest? (20 min)
+- **problem:** A harder thing can scratch a softer thing, but a softer thing cannot scratch a harder one. So if a tool scratches a rock, the rock is softer than the tool. If nothing scratches a rock, it is very hard. In this test, you try three tools on each rock, and then put the rocks in order from softest to hardest.
 - **question:** Which of our rocks can a fingernail scratch, which can a coin scratch, and which can nothing scratch?
 - **predict:** Guess first. Which rock is the hardest, and which is the softest? Will the shiniest rock be the hardest? Why do you think so?
 - **fair test:** Every rock is tested with the same three tools, pressed with the same firm push and dragged once. Only the rock changes.
-- **record:** Fill in the table. Then line the rocks up from softest to hardest and draw the line.
+- **record:** Fill in the table. Then line the rocks up from softest to hardest and draw them in that order.
 - **results table:** Rock | Fingernail scratches it? yes or no | Coin scratches it? yes or no | Key scratches it? yes or no
 - **s1 (3 min)**  
   *Parent does:* 1. Show the four rocks. 2. Ask which is hardest and which is softest, and why. 3. Write the guesses down.  
@@ -262,10 +264,10 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   - Note: Many children pick the shiniest rock. Write the guess and wait for the test.
 - **s2 (10 min)**  
   *Parent does:* 1. Your child scratches each rock with a fingernail, pressing firmly. 2. Then with the edge of the coin. 3. Then with the tip of the key. 4. After each scratch, wipe the rock with the cloth and look.  
-  *Parent says:* Press hard and drag it once. Now wipe it. Is there a groove, or powder? Rub your finger over it.  
+  *Parent says:* Press hard and drag the tool across the rock once. Now wipe the rock. Is there a groove, or powder? Rub your finger over it.  
   *Child mode:* Scratch with your nail. Then the coin. Then the key. Wipe and look each time.
   - Note: Do not test on the kitchen counter, the floor or the grinding stone. On a hard pebble, the key may leave a grey line. That is metal from the key, and it wipes off. The rock is not scratched. Pebbles are not all the same: if your pebble is scratched, it is a softer rock, and that is a good result to write down.
-  - Check: The key left a grey line on the pebble, but the line wiped off. What does that tell you? → **The key rubbed off on the pebble, so the pebble is harder than the key**
+  - Check: The key left a grey line on the pebble, but the line wiped off. What does that tell you? → **A little metal rubbed off the key onto the pebble, so the pebble is harder than the key**
 - **s3 (7 min)**  
   *Parent does:* 1. Fill in the table. 2. Line the rocks up from softest to hardest. 3. Compare with the guess.  
   *Parent says:* Which one did even your fingernail scratch? Which one did nothing scratch? Put them in a line, softest first.  
@@ -293,7 +295,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   *Parent says:* How many colours of grains can you see? Now I will wet it. Can you see the colours better?  
   *Child mode:* Look closely. How many colours of grains? Look again when it is wet.
   - Ask: How many kinds of grain did you see? (good: Three or four: black, white, pink or grey, and some glassy ones.)
-  - Note: Granite is mostly feldspar (white, cream or pink), quartz (grey and glassy) and dark minerals such as mica (black and shiny). Water makes the colours brighter. Some polished counters sold as granite are other speckled rocks, and that is fine for this look.
+  - Note: Granite is mostly feldspar (white, cream or pink), quartz (grey and glassy) and dark minerals such as mica (black and shiny). Water makes the colours brighter. Some polished counters sold as granite are other speckled rocks, and that is fine for this activity.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child draws a small square of the granite. 2. They colour each kind of grain.  
   *Parent says:* Draw a small square of what you see. Colour each kind of grain. Different colours usually mean different minerals.  
@@ -316,10 +318,10 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 ## Projects
 ### p1 · My Rock Box: collect, test and label (30 min, 3 days)
 - **record:** A rock box with six labels. Each label says the name, hard or soft, soaks water or not, and one use or one question.
-- **schedule:** day 1: Collect the six things. Put one in each section of the tray. (8 min); day 2: Test each one: scratch with a coin, and put three drops of water on it. Does the water soak in or sit on top? (12 min); day 3: Write a label for each: its name, hard or soft, soaks water or not, and one use or one question. A grown-up can write the words your child says. Show someone round the box. (10 min)
+- **schedule:** day 1: Collect the six things. Put one in each section of the tray. (8 min); day 2: Test each one: scratch with a coin, and put three drops of water on it. Does the water soak in or sit on top? (12 min); day 3: Write a label for each: its name, hard or soft, soaks water or not, and one use or one question. A grown-up can write the words your child says. Show the box to someone at home. (10 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Collect the six things together. 2. Put one in each section of the egg tray.  
-  *Parent says:* Let us collect six things for your rock box. The brick is here to compare, because people made it from clay.  
+  *Parent says:* Let us collect six things for your rock box. They are chalk, rock salt, a pebble, a stone chip, a piece of marble or Kota stone, and a brick. The brick is here to compare, because people made it from clay.  
   *Child mode:* Collect six things. Put one in each hole of the tray.
 - **s2 (12 min)**  
   *Parent does:* 1. Scratch each one with the coin. 2. Put three drops of water on each and watch for one minute. 3. Write down what happens.  
@@ -329,14 +331,14 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   - Note: Brick and chalk have tiny gaps between their grains, so water soaks in. Salt dissolves in water. Marble and most pebbles have their grains packed tight, so the drop sits on top.
   - Wait: Do this on day 2.
 - **s3 (10 min)**  
-  *Parent does:* 1. Write a label for each thing, with your child saying the words. 2. Your child shows someone at home round the box.  
+  *Parent does:* 1. Write a label for each thing, with your child saying the words. 2. Your child shows the box to someone at home.  
   *Parent says:* Write the name, hard or soft, soaks water or not, and one use. If you do not know a use, write a question instead. Then show someone your rock box and tell them one thing about each rock.  
   *Child mode:* Write a label for each one. Show your rock box to someone.
   - Wait: Do this on day 3.
 
 ## Challenges
 ### c1 · The Fastest Pebble Maker (20 min)
-- **problem:** Make the roundest chalk pebble you can, from a sharp piece of chalk, in only 50 shakes.
+- **problem:** Make the roundest chalk pebble you can, from a sharp piece of chalk, in only 50 shakes. In the Tiffin Test, knocking and rubbing made chalk round. A river does this with sand and stones. Here you try to make the knocking and rubbing stronger, so the chalk gets round in fewer shakes.
 - **your turn:** Now design your own way. Test it against one of the ideas above, with a fresh piece each time. Which gave the roundest pebble in 50 shakes?
 - **constraints:** Use only things you have at home.; You may shake only 50 times.; Start each try with a sharp chalk piece of about the same size.
 - **general:** Shake harder, so each knock is stronger.; Put in more pieces, so they knock each other more.; Use a steel box instead of a plastic one, because steel is harder.
@@ -347,7 +349,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   *Child mode:* You have only 50 shakes. How can you make the chalk roundest?
 - **s2 (10 min)**  
   *Parent does:* 1. Try each way with a fresh chalk piece. 2. Shake exactly 50 times each. 3. Lay the pieces in a row on dark paper.  
-  *Parent says:* Same size piece, same 50 shakes. Only the way changes. Then we line them up.  
+  *Parent says:* Use the same size of piece and the same 50 shakes each time. Only the way changes. Then we line the pieces up.  
   *Child mode:* Try each way. Shake 50 times. Line up the pieces.
   - Note: Sand is made of hard quartz grains, so it should rub chalk round fastest, like sand in a river. Rice and salt are softer and may help less. Try each and see.
 - **s3 (5 min)**  
@@ -361,7 +363,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 1. (mcq) Which of these is a natural rock?  
    Options: A piece of granite / A red brick / A plastic bead  
    **Answer:** A piece of granite. *Why:* Granite formed in the ground. People made the brick by baking clay, and the bead from plastic.
-2. (draw) Draw one chalk piece from your Tiffin Test before shaking and after shaking. Show the corners clearly.  
+2. (draw) A piece of chalk is shaken many times in a closed tiffin with stone chips. Draw it before shaking and after shaking. Show the corners clearly.  
    **Answer:** A sharp-cornered piece, then a rounded piece with no sharp corners.. *Why:* A strong drawing shows the corners going round, because the corners stick out and get knocked off first.
 3. (match) Draw a line from each word to what it means.  
    **Answer:** Pebble → A small, smooth, round piece of rock; Mineral → A material that the grains in a rock are made of; Quarry → A big pit where people dig out rock; Wear away → To lose tiny bits by rubbing or knocking. *Why:* A pebble is rounded by water. Rocks are made of grains of minerals. A quarry is a pit dug for rock. Wearing away is losing tiny bits, a few at a time.
@@ -371,13 +373,13 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
    **Answer:** False. *Why:* False. Hardness depends on what the rock is made of, not its size. A big lump of chalk is still soft.
 6. (sort) Sort these into Hard rock and Soft rock.  
    **Answer:** granite → Hard rock; chalk → Soft rock; a quartz pebble → Hard rock; rock salt → Soft rock. *Why:* A coin scratches chalk and rock salt, so they are soft. Nothing at home scratches granite or a quartz pebble.
-7. (perspective) Revathi, a girl in Class 2, and her friend Anu are looking at a round pebble.  
-   **Answer:** Anu is right for river pebbles. But Revathi has a point: some shop pebbles are rounded in a machine drum by people.. *Why:* A strong answer uses the Tiffin Test: knocking made chalk round, so knocking in a river can make stone round. It also sees that people can do the same knocking in a machine.
+7. (perspective) Two children are looking at a round pebble.  
+   **Answer:** The second child is right for river pebbles. But the first child has a point: some shop pebbles are rounded in a machine drum by people.. *Why:* A strong answer uses knocking: soft chalk shaken in a tiffin goes round, so knocking in a river can make stone round. It also sees that people can do the same knocking in a machine.
 8. (fill) Most rocks are made of tiny grains called ________.  
    **Answer:** minerals. *Why:* Rocks are made of grains of minerals packed together, like the specks in granite.
 9. (label) Here is a river from the hills to the sea, with three stones in it. Write 1 on the sharpest stone, 2 on the middle one and 3 on the roundest.  
    **Answer:** 1 on the stone high in the hills, 2 on the one in the middle, 3 on the one near the sea.. *Why:* The further a stone travels, the more it is knocked, so it gets rounder on the way down.
-10. (count) Diya, a girl in Class 2, shook chalk pieces in a tiffin. She counted 20 shakes, then 20 more, then 20 more. How many shakes was that?  
+10. (count) You shake chalk pieces in a tiffin. You count 20 shakes, then 20 more, then 20 more. How many shakes is that?  
    **Answer:** 60 shakes. *Why:* 20 and 20 is 40. 40 and 20 more is 60.
 ### Hard, soft and where rocks come from (stretch) (stretch, 10 questions)
 1. (mcq) In the Scratch Ladder, a coin scratched the marble but not the pebble. Which is harder?  
@@ -400,15 +402,15 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
    **Answer:** Slate splits into thin flat sheets, and it keeps water out.. *Why:* A strong answer names both things: flat thin sheets, and keeping rain out.
 9. (match) Draw a line from each rock to where it comes from in India.  
    **Answer:** Marble → Makrana, Rajasthan; Laterite → Kerala and Goa; Coal → Jharkhand; Slate → Markapur, Andhra Pradesh. *Why:* These are well-known places for each rock. Builders long ago mostly used rock from nearby.
-10. (mcq) Kavin, a boy in Class 2, says a quarry does no harm because it is only rock. What did he forget?  
+10. (mcq) Someone says a quarry does no harm because it is only rock. What did they forget?  
    Options: Plants and animals lived on the hill, and lose their home / Rock is soft / Quarries make hills taller  
    **Answer:** Plants and animals lived on the hill, and lose their home. *Why:* A hill is a home for plants, birds, insects and other animals. Digging a quarry takes that home away.
 ### Rocks that change (challenge) (challenge, 10 questions)
 1. (write) In the Tiffin Test, chalk turned round in 100 shakes but stone chips did not. A river pebble made of stone is round. What does that tell you about the pebble?  
    **Answer:** The pebble was knocked many, many more times than 100. A river must have rolled it for a very long time.. *Why:* A strong answer uses the evidence: hard stone needs far more knocks than chalk, so a round stone pebble has been knocked for a very long time.
-2. (perspective) Shalini, a girl in Class 2 in Mysuru, and her grandmother are talking about rocks.  
-   **Answer:** Shalini is right that rocks change, but her grandmother is right that hard rock changes very slowly, too slowly to see in a lifetime.. *Why:* A strong answer uses evidence of wearing (the dip, the pebbles, the Tiffin Test) and also agrees that granite changes so slowly a temple can last a thousand years.
-3. (mcq) Farhana, a girl in Hyderabad, wants a step that will last 500 years. Which rock should she choose?  
+2. (perspective) A child and her grandmother are talking about rocks.  
+   **Answer:** The child is right that rocks change, but her grandmother is right that hard rock changes very slowly, too slowly to see in a lifetime.. *Why:* A strong answer uses evidence of wearing (the dip, the pebbles, the Tiffin Test) and also agrees that granite changes so slowly a temple can last a thousand years.
+3. (mcq) You want a step that will last 500 years. Which rock should you choose?  
    Options: Granite / Chalk / Rock salt  
    **Answer:** Granite. *Why:* Granite is very hard, so feet wear it away very slowly. Chalk and rock salt are soft, and salt dissolves in rain.
 4. (write) A soft rock is bad for steps. Name a job where being soft is just what we want, and say why.  
@@ -419,7 +421,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
    **Answer:** False. *Why:* False. The grey line is metal rubbed off the key, and it wipes away. The pebble is harder than the key.
 7. (label) Here is a granite step outside an old temple. Label the part that has worn most, and say why.  
    **Answer:** The middle of the step is worn into a smooth dip, because most feet tread there.. *Why:* A strong answer finds the dip and links it to the place where most feet rub.
-8. (mcq) Anjali, a girl in Pune, finds an old quarry full of rain water. Birds now come to drink. What is true?  
+8. (mcq) An old quarry has filled with rain water. Birds now come to drink. What is true?  
    Options: Digging changed the place. It lost one home and later became a different one / Quarries never change a place / The birds made the pit  
    **Answer:** Digging changed the place. It lost one home and later became a different one. *Why:* The hill and its life were lost when it was dug. Later, rain filled the pit and some new life came. Both changes are real.
 9. (sort) Sort these into Wears away fast and Wears away very slowly.  
@@ -428,7 +430,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
    **Answer:** For example: the dip in a grinding stone, or a worn step. The middle is smooth and low where it was rubbed most.. *Why:* A strong answer names a real place and what it looks like when rock has been rubbed for years.
 
 ## Videos
-- **Why rocks are smoother near rivers** (TheGeoScholar, 3 min) id `ZC6EaVYdiVo`: Shows stones rolling in a fast river and getting rounder downstream, which a child cannot watch for years at home. *Check:* Found by search: "Geology - Why Rocks Are Smoother Near Rivers." by TheGeoScholar, 2 minutes 54 seconds. A parent may preview it.
+- **Why rocks are smoother near rivers** (TheGeoScholar, 3 min) id `ZC6EaVYdiVo`: Shows stones rolling in a fast river and getting rounder downstream. This takes years, so a child cannot watch it happen at home. *Check:* Found by search: "Geology - Why Rocks Are Smoother Near Rivers." by TheGeoScholar, 2 minutes 54 seconds. A parent may preview it.
 - **How granite is mined in a quarry** (Stone Galleria LLP, 2 min) id `Bx6LHoICuSM`: Shows how big blocks of rock are cut from the ground, and what a quarry does to the land. *Check:* Found by search: "How Is Granite Mined? | Inside the Granite Quarry" by Stone Galleria LLP, 2 minutes 20 seconds. A parent may preview it.
 - **What minerals are in granite?** (ehow, 3 min) id `SIV4N9pB8F8`: Names the minerals that make up granite, so a child can match them to the grains seen in a real piece. *Check:* Found by search: "Rocks & Minerals : What Is the Mineral Content of Granite?" by ehow, 2 minutes 59 seconds. A parent may preview it.
 
@@ -439,22 +441,22 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 2. (mcq) Your fingernail scratches a rock. What does that tell you?  
    Options: The rock is very soft / The rock is very hard / The rock is heavy  
    **Answer:** The rock is very soft. *Why:* A fingernail is quite soft. If it can scratch a rock, the rock is even softer, like chalk.
-3. (mcq) In the Tiffin Test, which pieces lost their corners first?  
+3. (mcq) Soft chalk pieces and hard stone chips are shaken together in a closed tiffin box. Which lose their corners first?  
    Options: The soft chalk pieces / The hard stone chips / All pieces at the same speed  
-   **Answer:** The soft chalk pieces. *Why:* Chalk is soft, so each knock takes off grains. Hard stone loses grains very slowly, so it hardly changed.
+   **Answer:** The soft chalk pieces. *Why:* Chalk is soft, so each knock takes off grains. Hard stone loses grains very slowly, so it hardly changes.
 4. (mcq) Why are the corners of a rock the first part to wear away?  
-   Options: They stick out, so they get knocked most / They are made of softer rock / It is always a different rock  
+   Options: They stick out, so they get knocked most / They are made of softer rock / The corners are always a different kind of rock  
    **Answer:** They stick out, so they get knocked most. *Why:* Corners stick out, so most knocks land on them. That is why pieces turn round, not just smaller.
 5. (mcq) Which rock is used for writing on a board?  
    Options: Chalk / Granite / Coal  
    **Answer:** Chalk. *Why:* Chalk is soft, so it rubs off onto the board and leaves a line. Granite is too hard, and coal is used for burning.
-6. (mcq) The Taj Mahal is built mostly of which rock?  
+6. (mcq) A builder wants a stone that can be polished till it shines white, for a great monument. Which rock fits best?  
    Options: White marble / Red laterite / Black coal  
-   **Answer:** White marble. *Why:* The Taj Mahal is white marble from Makrana in Rajasthan. Marble can be polished till it shines.
+   **Answer:** White marble. *Why:* Marble can be polished till it shines. The Taj Mahal is built of white marble. Laterite is red and rough, and coal is black and crumbles.
 7. (mcq) Why is a grinding stone made of granite?  
    Options: Granite is hard, so it wears away slowly and does not crumble into food / Granite is soft and easy to grind / Granite soaks up the chutney  
    **Answer:** Granite is hard, so it wears away slowly and does not crumble into food. *Why:* A grinding stone is rubbed every day. Hard granite wears away very slowly, so it lasts for many years.
-8. (mcq) Lakshmi, a girl in Class 2, finds a perfectly round stone pebble by a river. How did it get round?  
+8. (mcq) A perfectly round stone pebble lies by a river. How did it get round?  
    Options: The river rolled it against sand and stones for a long time / It was born round / The sun melted its corners  
    **Answer:** The river rolled it against sand and stones for a long time. *Why:* Moving water knocks and rubs stones. Over a long time the corners wear off and the stone turns round.
 9. (mcq) A hill is dug into a quarry. Who loses something?  

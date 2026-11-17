@@ -233,7 +233,7 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 - **s2 (3 min)**  
   *Parent does:* 1. Switch off the fan and close the windows. 2. Lay two sheets of newspaper side by side on the floor. 3. Put a steel plate in the middle and draw around it. 4. Ask the question below.  
   *Parent says:* We will drop the ball and the flat leaf ten times each, from up high, over the middle of the circle. Which one will land inside the circle more often? Why do you think so?  
-  *Child mode:* You will drop the ball and the flat leaf ten times each over the circle. Which one will land inside more often? Why?
+  *Child mode:* Drop the ball and the leaf ten times each over the circle. Which one will land inside more often? Why?
   - Ask: Which one will land inside the circle more often, the ball or the flat leaf? Why? (good: The ball, because it is round and falls straight.; The leaf, because it is flat and floats down slowly.; The same, because they weigh the same.)
   - Note: Write down your child's guess and reason. Do not say who is right. Many children think that the same weight means the same fall.
 - **s3 (5 min)**  

@@ -390,7 +390,7 @@
      "context": "In this step of the paper leaf test, you set up the target and guess.",
      "do": "1. Switch off the fan and close the windows. 2. Lay two sheets of newspaper side by side on the floor. 3. Put a steel plate in the middle and draw around it. 4. Ask the question below.",
      "say": "We will drop the ball and the flat leaf ten times each, from up high, over the middle of the circle. Which one will land inside the circle more often? Why do you think so?",
-     "kid": "You will drop the ball and the flat leaf ten times each over the circle. Which one will land inside more often? Why?",
+     "kid": "Drop the ball and the leaf ten times each over the circle. Which one will land inside more often? Why?",
      "ask": [
       {
        "q": "Which one will land inside the circle more often, the ball or the flat leaf? Why?",
