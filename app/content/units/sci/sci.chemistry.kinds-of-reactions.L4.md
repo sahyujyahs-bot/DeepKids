@@ -84,7 +84,7 @@ Reactants are used in fixed amounts. A cup of milk holds a fixed amount of casei
 - e.g. A candle under a glass goes out with wax still left.
 - e.g. Baking soda that has been fully heated gives no more water when it is heated again.
 ### One reaction can fit two kinds · *debated*
-The four kinds are a way of sorting, and some reactions fit two kinds. A burning candle is an example. The wax splits apart, and its atoms join with oxygen. So burning is splitting and joining together. When hydrogen burns, two substances become one, so it is burning and joining at once. Vinegar and baking soda first swap parts. One product, carbonic acid, then splits into water and carbon dioxide, which makes the fizz. People who study chemistry do not all sort reactions in the same way.
+The four kinds are a way of sorting, and some reactions fit two kinds. A burning candle is an example. The wax comes apart, and its atoms join with oxygen. So this one burning reaction is a splitting and a joining at the same time. When hydrogen burns, two substances become one, so it is a burning and a joining at once. Vinegar and baking soda first swap parts. One product, carbonic acid, then splits into water and carbon dioxide, which makes the fizz. People who study chemistry do not all sort reactions in the same way.
 - e.g. Hydrogen + oxygen → water is both burning and joining.
 - e.g. Vinegar and baking soda swap parts, and then one product splits.
 - e.g. Heating gypsum splits off water. Adding water joins the two again.
@@ -115,7 +115,7 @@ Rain joins with carbon dioxide from the air and becomes a very weak acid. Over t
 - Many reactions can run in both directions. The amounts and the conditions decide which way they go. *How we know:* Claude-Louis Berthollet saw a well-known swapping reaction running backwards at the salt lakes of Egypt in 1799. In 1864 Cato Guldberg and Peter Waage in Norway turned this into an exact rule.
 
 ## How we found out
-**Torbern Bergman in Sweden, Claude-Louis Berthollet and Joseph Proust from France, and Cato Guldberg and Peter Waage in Norway, Bergman's tables came out in 1775. Berthollet was in Egypt from 1798 to 1799, and published in 1801 and 1803. Guldberg and Waage published in 1864..** For a long time, chemists thought that each substance had fixed likes. In 1775 the Swedish chemist Torbern Bergman printed large tables of them. The tables showed which substance would push another away from its partner. By this idea, a swap could go only one way. In 1798 the French chemist Claude-Louis Berthollet went to Egypt. At the Natron Lakes he saw crusts of soda at the edges of the salt water. The ground there was limestone. In his laboratory, soda and a dissolved lime salt always swapped parts, and made limestone and common salt. At the lakes, salt and limestone were slowly making soda. The swap was running backwards. Berthollet reasoned that the huge amount of salt was driving it. Amounts matter, as well as likes. He published the idea in 1801 and 1803. He also claimed that substances join in any proportions. Joseph Proust showed that this part was wrong. In 1864 Cato Guldberg and Peter Waage in Norway turned Berthollet's idea into an exact rule.  
+**Torbern Bergman in Sweden, Claude-Louis Berthollet and Joseph Proust from France, and Cato Guldberg and Peter Waage in Norway, Bergman's tables came out in 1775. Berthollet was in Egypt from 1798 to 1799, and published in 1801 and 1803. Guldberg and Waage published in 1864..** For a long time, chemists thought that each substance has a fixed liking for every other substance. A substance that likes a partner more would pull it away from a substance that likes it less. In 1775 the Swedish chemist Torbern Bergman printed large tables of these likings. By this idea, a swap could go only one way. In 1798 the French chemist Claude-Louis Berthollet went to Egypt. At the Natron Lakes he saw crusts of soda at the edges of the salt water. The ground there was limestone. In his laboratory, soda and a dissolved lime salt always swapped parts, and made limestone and common salt. At the lakes, salt and limestone were slowly making soda. The swap was running backwards. Berthollet reasoned that the huge amount of salt was driving it. Amounts matter, as well as likes. He published the idea in 1801 and 1803. He also claimed that substances join in any proportions. Joseph Proust showed that this part was wrong. In 1864 Cato Guldberg and Peter Waage in Norway turned Berthollet's idea into an exact rule.  
 *What people believed before:* That each substance has fixed likes, so a swapping reaction can go only one way. Berthollet saw the same swap running backwards at the Natron Lakes, where one substance was present in a huge amount.
 
 ## Challenging perspectives
@@ -143,7 +143,7 @@ In this unit you sorted reactions into four kinds: joining, splitting, swapping 
 
 **Deep truth.** In The Pan and the Lid, heat broke bonds in baking soda, and one powder became three substances. In Powder and Water, plaster and water made new bonds and became one hard solid. In Soap and Sour, old bonds broke and new bonds formed in the same bottle. So every reaction, whatever its kind, is made of the same two steps: bonds break and bonds form.  
 *Habit it breaks:* We sort reactions into kinds, and then we treat the kinds as separate things. The kinds are patterns that people noticed. Under every pattern, the same two steps are happening.  
-*Evidence:* In Four Plates, every reaction was built by pulling some seeds apart and pushing some together. The burning plate needed both steps. In the card game Join, Split, Swap or Burn, three cards fit two kinds at once.
+*Evidence:* In Four Plates, every reaction was built by pulling some seeds apart and pushing some together. The burning plate needed both steps. In the card game Join, Split, Swap or Burn, three cards fit two kinds at once. That happens because every kind is made of the same two steps.
 
 - *who am i:* The calcium in your bones was once in milk, in grass, in soil and in rock. It has changed partners many times, and for now it is part of you.
 - *what is life:* A living being keeps thousands of joining, splitting and swapping reactions going at once. A clam building a shell and a child digesting lunch are both doing chemistry.
@@ -164,10 +164,10 @@ A seashell, a lump of lime, a plastered wall and a stalactite all hold calcium a
 - Ask: The atoms in your body change partners every second. What stays the same in you?
 
 ## Deep and big questions
-- *deep:* Milk turns into curds and whey. Is the milk gone, or is it still there in another form? (hint: Every atom of the milk is still in the bowl. What, then, is missing?)
+- *deep:* Milk turns into curds and whey. Is the milk gone, or is it still there in another form? (hint: Every atom of the milk is still in the bowl, just joined in a new way. So what is it that has changed?)
 - *deep:* Burning fits two kinds at once. So are the four kinds found in nature, or made by people? (hint: Think of sorting clothes by colour or by owner. Is one way the true way?)
-- *deep:* Gypsum can be split into plaster and joined into gypsum again and again. Can every reaction be undone? (hint: Could you turn curds and whey back into milk? Could you turn smoke back into wood? A tree does something close to that.)
-- *big:* Your body splits food and joins the pieces into you. Are you a thing, or reactions that keep going? (hint: A flame keeps its shape while the wax and air passing through it change every second.)
+- *deep:* Gypsum can be split into plaster and joined into gypsum again and again. Can every reaction be undone? (hint: Could you turn curds and whey back into milk? Could you turn smoke back into wood? A tree actually does something close to that, because it builds wood from the carbon dioxide in the air.)
+- *big:* Your body splits food and joins the pieces into you. Are you a thing, or reactions that keep going? (hint: A candle flame keeps the same shape, yet the wax and the air going through it change every second. Are you a little like that flame?)
 - *big:* People burned seashells into lime for thousands of years before anyone knew about atoms. Did they understand the reaction? (hint: They knew exactly what to do and what would happen. Is that the same as knowing why?)
 - *big:* Burning fuel cooks food and moves buses. It also changes everyone's air. Who should decide how much is burned? (hint: The people who burn the most fuel are not always the people harmed most by the change in the air.)
 
@@ -258,14 +258,14 @@ Behind her, Aaya lit the kiln.
   *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?  
   *Child mode:* Listen to the card. Pick a kind token. Turn it over. Check the back.
   - Ask: How did you decide which kind the reaction is? (good: I counted the substances before and after.; Two became one, so it is a joining.; It had a fuel and oxygen, so it is burning.)
-  - Note: For a stuck child, ask how many substances there are before the reaction and how many after. One child can play alone or with you.
+  - Note: For a stuck child, ask how many substances there are before the reaction and how many after. A child playing alone can do the same: say the kind aloud, and then check the back of the card.
 - **s3 (7 min)**  
   *Parent does:* Play the last twelve cards the same way. Keep the score on a piece of paper.  
   *Parent says:* Twelve more cards. Some reactions fit two kinds. If you think a card has two kinds, say both before I read the back.  
   *Child mode:* Play twelve more cards. Some fit two kinds. Say both if you can.
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then sort all 24 cards into four heaps by kind. Put the three two-kind cards between their heaps.  
-  *Parent says:* Let us sort the cards into four heaps. Where should the rocket engine card go? What do all the cards in the splitting heap need?  
+  *Parent says:* Let us sort the cards into four heaps. Where should the rocket engine card go? Now look at the splitting heap. What do most of those reactions need to be given: heat, electricity or light?  
   *Child mode:* Sort the cards into four heaps. Which cards sit between two heaps?
   - Check: One substance goes in, and two substances come out. Which kind of reaction is it? → **Splitting**
 
@@ -352,7 +352,7 @@ Behind her, Aaya lit the kiln.
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Where is the water that we put into the plaster cup?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: What three things show that the plaster and the water made a new substance? (good: The cup got warm.; It went hard while it was still wet.; The lump stayed hard in water the next day.)
-  - Ask: Where did the water in cup B go? (good: It dried into the air.; The sand is the same sand as before.)
+  - Ask: Where did the water in cup B go? (good: It dried into the air.; The sand is the same sand as before, so the water just dried away.)
   - Note: The reason: plaster of Paris joins with water. The two become one new solid called gypsum, and the water is locked inside it. Making the new bonds gives out heat, so the cup felt warm. This is a joining reaction. Sand does not react with water. The water only dried away, and the same sand was left. Stick chalk is often made of gypsum, so it is plaster that has already joined with water.
   - Think: A doctor wraps a wet plaster bandage round a broken arm. Why does the cast feel warm for a few minutes?
 ### e3 · Soap and Sour: what does vinegar do to soap? (25 min)
@@ -365,7 +365,7 @@ Behind her, Aaya lit the kiln.
 - **s1 (3 min)**  
   *Parent does:* Set out the three bottles, the soap and the vinegar. Ask for the guess and the reason, and write both down.  
   *Parent says:* Bottle A will hold soap water and plain water. Bottle B will hold soap water and vinegar. Bottle C will hold dish wash liquid and vinegar. Which will foam most when we shake it? Why do you think so?  
-  *Child mode:* Three bottles: soap and water, soap and vinegar, dish wash and vinegar. Which foams most? Why?
+  *Child mode:* Look at the three bottles. Each holds soap or dish wash, with water or vinegar. Which will foam most? Why?
   - Ask: Why do you think vinegar will or will not change the foam? (good: Vinegar is sour and soap is soapy, so they may react.; Vinegar is mostly water, so nothing will change.; Lemon takes the soapy feel off my hands.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min) · grown-up needed**  
@@ -462,7 +462,7 @@ Behind her, Aaya lit the kiln.
   - Note: Carbonic acid is 1 carbon, 3 oxygens and 2 hydrogens. It splits again when soda goes flat.
 - **s3 (5 min)**  
   *Parent does:* Plate 3, swapping. Build an acid: 1 moong touching the peppercorn. Build a base: the groundnut touching 1 chana, which touches 1 moong. Now let the moong of the acid and the groundnut change places.  
-  *Parent says:* This acid is hydrogen joined to chlorine. This base is sodium joined to oxygen and hydrogen. Swap the acid's hydrogen with the sodium. What two things have you made?  
+  *Parent says:* This acid is hydrogen joined to chlorine. A base is the opposite of an acid, and it can cancel an acid. This base is sodium joined to oxygen and hydrogen. Swap the acid's hydrogen with the sodium. What two things have you made?  
   *Child mode:* Plate 3: build the acid and the base. Swap the moong and the groundnut. What did you make?
   - Ask: What are the two products on plate 3? (good: Groundnut with peppercorn, which is sodium with chlorine. That is salt.; A chana with two moong. That is water.)
   - Note: The products are table salt and water. This is the reaction between stomach acid and one kind of antacid.
@@ -470,7 +470,7 @@ Behind her, Aaya lit the kiln.
   *Parent does:* Plate 4, burning. Build methane, the gas in piped cooking gas: 1 rajma touching 4 moong. Build 2 oxygen molecules: 2 chana touching, twice. Rearrange them into 1 carbon dioxide and 2 waters. Count the atoms before and after.  
   *Parent says:* Methane is the fuel. It burns with two oxygen molecules. Take everything apart and build carbon dioxide and water. Did the methane split? Did anything join with oxygen?  
   *Child mode:* Plate 4: build methane and two oxygens. Rebuild them as carbon dioxide and two waters.
-  - Note: Before: 1 carbon, 4 hydrogens and 4 oxygens. After: the same 9 atoms. The methane split, and its atoms joined with oxygen. So burning is a splitting and a joining together.
+  - Note: Before: 1 carbon, 4 hydrogens and 4 oxygens. After: the same 9 atoms. The methane came apart, and its atoms joined with oxygen. So this one burning reaction is a splitting and a joining at the same time.
   - Check: On the burning plate of Four Plates, 9 seeds are used before the reaction. How many after? → **9**
   - Think: On every plate you broke some bonds and made new ones. Was there any plate where you only did one of these?
 
@@ -680,13 +680,13 @@ Behind her, Aaya lit the kiln.
 - Doctors set broken bones in casts of plaster of Paris. The wet bandage joins with water and turns hard within minutes.
 - Bakers use baking soda because heat splits it and gives off carbon dioxide. The gas makes cakes, dhoklas and biscuits rise.
 - Water works add alum to muddy water. The alum forms a fluffy precipitate, which traps the fine mud and sinks. The clear water is drawn off the top.
-- Shampoos and dish wash liquids were invented because soap swaps parts with hard water and makes scum. These cleaners stay dissolved.
+- Shampoos and dish wash liquids were invented because soap swaps parts with hard water and makes scum. These cleaners do not make scum, because they stay dissolved in hard water.
 - Engines and stoves are built to mix fuel with enough oxygen. With too little oxygen, burning makes soot and a poisonous gas called carbon monoxide.
 
 ## Spotted around us
 - A sweet shop in Kolkata, where cooks split hot milk with sour whey to make chhena for rasgulla and sandesh.
 - A grey or white ring round the inside of a bathroom bucket. It is soap that has swapped parts with the calcium in hard water.
-- White crust inside a kettle or a water heater. Heating splits a substance dissolved in hard water, and limestone precipitates.
+- White crust inside a kettle or a water heater. Heating breaks down a substance that was dissolved in hard water. That makes limestone, which does not dissolve, so it forms a solid crust.
 - A doctor's plaster cast on an arm, or a plaster Ganesha drying before Ganesh Chaturthi in Mumbai or Hyderabad.
 - The blue flame of a gas stove in any kitchen. The yellow flames of oil lamps at Karthigai Deepam in Tamil Nadu.
 - Stalactites in the Borra Caves in Andhra Pradesh and the Mawsmai Cave in Meghalaya. Each one is a precipitate that grew drop by drop.
@@ -724,7 +724,7 @@ Behind her, Aaya lit the kiln.
 - In Second Squeeze, a tumbler with 5 tablespoons of whey made curds from 4 tablespoons of milk. The 5th tablespoon stayed white. What would happen with 10 tablespoons of the same whey? **About 8 tablespoons of milk would make curds, and the 9th would stay white.**. 10 tablespoons of whey hold twice as much leftover acid as 5. Each tablespoon of milk uses up the same amount of acid. So twice as much milk can be curdled: 2 times 4 is 8. (queues `math.logic.problem-solving.L4`)
 - A chemist heats 84 grams of baking soda until it has all split. 53 grams of washing soda are left in the pan. How many grams left the pan as water and carbon dioxide? **31 grams.**. No atom is lost in a reaction. So the products together weigh 84 grams. 84 − 53 = 31 grams left as steam and gas. (queues `math.addition-subtraction.written-methods.L4`)
 - In The Sharpest Coin Print, the best mix was 2 tablespoons of plaster to 1 tablespoon of water. A sculptor uses 9 tablespoons of water. How much plaster does she need? **18 tablespoons of plaster.**. The plaster is always 2 times the water. 2 times 9 is 18. (queues `math.fractions.ratio-and-proportion.L4`)
-- In Soap and Sour, the foam in bottle A was 4 cm and then 4 cm. In bottle C it was 3 cm and then 3.5 cm. In bottle B it was 0.5 cm both times. Can you be sure that A foams more than C? Can you be sure that A foams more than B? **A and B: yes. A and C: not from these tries alone.**. A's foam is 8 times as tall as B's, and both tries agree. A and C differ by 0.5 to 1 cm. C's own two tries differ by 0.5 cm. So the gap between A and C is not much bigger than chance. (queues `math.data.reading-data.L4`)
+- In Soap and Sour, the foam in bottle A was 4 cm and then 4 cm. In bottle C it was 3 cm and then 3.5 cm. In bottle B it was 0.5 cm both times. Can you be sure that A foams more than C? Can you be sure that A foams more than B? **Yes, you can be sure that A foams more than B. No, you cannot be sure that A foams more than C from these tries alone.**. A's foam is 8 times as tall as B's, and both tries agree. A and C differ by only 0.5 to 1 cm. C's own two tries differ from each other by 0.5 cm. So the gap between A and C is not much bigger than the gap between two tries of the same bottle. That gap could be chance. (queues `math.data.reading-data.L4`)
 - The table shows the four reactions from Four Plates. Which number is the same before and after on every plate? Which number can change? **The number of atoms never changes. The number of molecules can change.**. Atoms: 6 and 6, 6 and 6, 5 and 5, 9 and 9. Molecules: 2 become 1 in the joining, and 1 becomes 2 in the splitting. In the swapping and the burning the count of molecules happens to stay the same. (queues `math.patterns.number-patterns.L4`)
 
 ## Song

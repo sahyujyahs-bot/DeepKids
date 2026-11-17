@@ -35,7 +35,7 @@
 ### A reaction is a meeting of particles · *defined*
 **Definition:** A chemical reaction happens when particles of different substances meet and rearrange into new substances.
 
-Dry fruit salt can sit in a sachet for months. Its two powders, baking soda and citric acid, are side by side but locked in dry grains. Add water, and the powders dissolve. Their particles are now free to move and meet. When a baking soda particle meets a citric acid particle in the right way, they rearrange into new particles. One of the new substances is carbon dioxide gas, and that is the fizz. So a reaction is something that happens between substances, not inside one of them. If the particles never meet, nothing happens. This is why 'how fast' always means 'how often and how well do the particles meet?'
+Dry fruit salt can sit in a sachet for months. Its two powders, baking soda and citric acid, are side by side but locked in dry grains. Add water, and the powders dissolve. Their particles are now free to move and meet. When a baking soda particle meets a citric acid particle in the right way, they rearrange into new particles. One of the new substances is carbon dioxide gas, and that is the fizz. So a reaction is something that happens between substances, not inside one of them. If the particles never meet, nothing happens. So when we ask how fast a reaction goes, we are really asking how often the particles meet, and how well they meet.
 - e.g. Dry fruit salt in a sachet does nothing. In water, it fizzes within seconds.
 - e.g. A steel grill in a dry cupboard rusts very slowly. On a wet balcony it rusts faster, because water and oxygen reach the iron.
 - e.g. Dry baking soda and dry lime powder can sit together in a jar. Add a few drops of water and they fizz.
@@ -43,9 +43,9 @@ Dry fruit salt can sit in a sachet for months. Its two powders, baking soda and 
 **Definition:** The rate of a reaction is how much new substance it makes, or how much old substance it uses up, in a given time.
 
 Chemists measure rate with a clock. They might time how long bubbles last, how much gas fills a balloon in a minute, or how quickly a colour fades. A reaction that makes a lot of product in a short time has a high rate. A reaction that takes a year to make a little rust has a low rate. Rates cover an enormous range. A spark in a cracker finishes in a thousandth of a second. A diamond turning into graphite is so slow that nobody has ever seen it happen. The same ideas work all the way along this range.
-- e.g. Fruit salt in warm water: a high rate, over in about 15 seconds.
-- e.g. An iron gate rusting: a low rate, visible only after months.
-- e.g. A banana skin spotting: a middle rate, over a few days.
+- e.g. Fruit salt in warm water has a high rate. The fizz is over in about 15 seconds.
+- e.g. An iron gate rusting has a low rate. You can see the change only after months.
+- e.g. A banana skin spotting has a middle rate. It takes a few days.
 ### A reaction starts fast and then slows down · *defined*
 **Definition:** In most reactions, the rate is highest at the start and falls steadily as the reactants get used up.
 
@@ -70,7 +70,7 @@ In a still glass, the particles at the bottom of a lump of fruit salt meet only 
 ### Smaller pieces mean more surface and faster reactions · *defined*
 **Definition:** A solid can only react where it touches the other substance. Cutting it into small pieces gives it more surface area, so it reacts faster.
 
-A cube with sides of 2 centimetres has six faces, each 4 square centimetres, so its surface area is 24 square centimetres. Cut it into eight small cubes with sides of 1 centimetre, and each has a surface area of 6 square centimetres. Altogether they have 48 square centimetres, double the surface, from the same amount of stuff. More of the solid can now touch the air or the liquid. That is why grated apple browns faster than a chunk, why powdered medicine dissolves faster than a pill, and why a heap of fine flour dust in a mill can explode when a lump of flour cannot. Flour dust has so much surface area that the whole cloud of it burns at once.
+A cube with sides of 2 centimetres has six faces, each 4 square centimetres, so its surface area is 24 square centimetres. Cut it into eight small cubes with sides of 1 centimetre, and each has a surface area of 6 square centimetres. Altogether they have 48 square centimetres, double the surface, from the same amount of material. More of the solid can now touch the air or the liquid. That is why grated apple browns faster than a chunk, why powdered medicine dissolves faster than a pill, and why a heap of fine flour dust in a mill can explode when a lump of flour cannot. Flour dust has so much surface area that the whole cloud of it burns at once.
 - e.g. Grated apple browns in minutes. A whole apple takes hours.
 - e.g. A lump of jaggery dissolves slowly in water. Powdered jaggery dissolves fast.
 - e.g. Flour mills and grain stores have a risk of dust explosions, because fine dust burns almost instantly in the air.
@@ -105,7 +105,7 @@ People have been slowing reactions for thousands of years, long before they knew
 ### Some changes are so slow that we never see them · *defined*
 **Definition:** Every reaction has a rate, but some rates are so low that nothing visible happens in a human lifetime.
 
-Diamond is made only of carbon. Graphite, the black stuff in a pencil, is also only carbon. At normal air pressure, graphite is the steadier form. So diamond is always very slowly turning into graphite. But the rate is so low that a diamond ring will not change in a million lifetimes. Slow does not mean stopped. It means rare meetings and a very hard job for each one. The Delhi Iron Pillar shows another way to slow things down. Iron really does keep trying to rust. But a thin skin on the pillar keeps most of the water and air away from the iron below, so the rate is very low.
+Diamond is made only of carbon. Graphite, the black material in a pencil, is also only carbon. At normal air pressure, graphite is the steadier form. So diamond is always very slowly turning into graphite. But the rate is so low that a diamond ring will not change in a million lifetimes. Slow does not mean stopped. It means rare meetings and a very hard job for each one. The Delhi Iron Pillar shows another way to slow things down. Iron really does keep trying to rust. But a thin skin on the pillar keeps most of the water and air away from the iron below, so the rate is very low.
 - e.g. Diamond turning into graphite is too slow to see.
 - e.g. The Delhi Iron Pillar has rusted only a little in about 1,600 years.
 - e.g. Old paper turns yellow over decades.
@@ -157,7 +157,7 @@ You timed fizzing cups, raced apples and met helpers called catalysts. Now we as
 - *what is life:* A living being is a place where particles meet at just the right speed. Enzymes make the useful meetings happen fast, and warmth, food and water keep them going.
 - *what is this world:* From a lit match to a rusting pillar to a slowly shining star, everything changes through meetings. We call a change fast or slow depending on how long we are able to watch it.
 
-Fruit salt, a pickle jar, an apple and an iron pillar seem to have nothing in common. In each, particles meet and change into something new, and the speed depends on how often and how hard they meet. A flame and a rusting gate are the same kind of change, at very different speeds. Nothing is ever fully still. Things we call stable are only changing very slowly. The world is a vast number of meetings, some quick and some slow, all part of one whole.
+Fruit salt, a pickle jar, an apple and an iron pillar seem to have nothing in common. In each, particles meet and change into something new, and the speed depends on how often and how hard they meet. A flame and a rusting gate are the same kind of change, at very different speeds. Nothing is ever fully still. Things we call stable are only changing very slowly. Seen this way, the world is full of particles meeting and changing, some quickly and some slowly.
 
 - **Heraclitus, as reported by Plato in Cratylus 402a:** Heraclitus, a Greek thinker, is said to have taught that everything flows, and that you cannot step into the same river twice. The water keeps moving, so the river is never the same. (A rusting nail, a ripening banana and a fizzing glass are all flowing in a way. They look still, but their particles are always meeting and changing.)
 - **Dhammapada 277:** The Buddha is recorded as teaching that all made things are impermanent. Nothing made of parts stays the same. (The Delhi Iron Pillar looks as if it will last forever. But a very slow reaction is working on it all the time. Slow is not the same as still.)
@@ -259,7 +259,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   *Parent does:* Play the next twelve cards, or as many as you have time for. Keep score. Talk about any card where players chose different tokens.  
   *Parent says:* Keep going with the rest of the cards. If players chose different tokens for a card, talk about why before you read the back.  
   *Child mode:* Play the rest of the cards. Talk about cards where you disagreed.
-  - Note: Some cards could fit more than one token. A pressure cooker is warmth, but also trapped steam. If a player can give a good reason for a different token, say so, and give a bonus point.
+  - Note: Some cards could fit more than one token. A pressure cooker works mainly through warmth, but trapped steam is part of the reason too. If a player can give a good reason for a different token, say so, and give a bonus point.
 - **s4 (2 min)**  
   *Parent does:* Say who won. Ask your child which card surprised them most, and why.  
   *Parent says:* Who got the most points? Which card surprised you most? Why did it surprise you?  
@@ -510,7 +510,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 ### Fast, Slow and the Four Speed-Ups (core) (core, 15 questions)
 1. (mcq) What happens in a chemical reaction?  
    Options: Particles of different substances meet and rearrange into new substances / A substance only changes its shape / A solid always turns into a liquid  
-   **Answer:** Particles of different substances meet and rearrange into new substances. *Why:* A reaction makes new substances, because particles meet and rearrange. Changing shape or state, like ice melting, makes no new substance. A wrong pick often means a change of state is being mixed up with a reaction.
+   **Answer:** Particles of different substances meet and rearrange into new substances. *Why:* A reaction makes new substances, because particles meet and rearrange. Changing shape or state, like ice melting, makes no new substance. If you chose another answer, remember that a change of state is not a reaction, because the substance stays the same.
 2. (truefalse) A sachet of dry fruit salt fizzes by itself while it sits closed on a shelf.  
    **Answer:** False. *Why:* False. The powders are dry, so their particles cannot move and meet. Water lets them dissolve and mix, and then they react.
 3. (mcq) Fruit salt fizzes in water. What are the bubbles?  
@@ -524,18 +524,18 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
    **Answer:** ['faster']. *Why:* Temperature measures how fast particles move. In warm water they move faster, so they meet more often and harder.
 7. (mcq) In the chart, which glass finished fizzing first?  
    Options: The warm glass / The cold glass / The room glass  
-   **Answer:** The warm glass. *Why:* The warm glass has the shortest bar, 15 seconds. A shorter time means a faster reaction. A wrong pick often means a tall bar was read as faster.
+   **Answer:** The warm glass. *Why:* The warm glass has the shortest bar, 15 seconds. A shorter time means a faster reaction. If you chose another glass, remember that a taller bar means more seconds, and that means slower.
 8. (count) Fruit salt is timed in two glasses. The cold glass takes 90 seconds. The warm glass takes 30 seconds. How many times faster is the warm glass?  
    **Answer:** 3. *Why:* 90 divided by 30 is 3. The warm glass finished 3 times faster. Subtracting would only tell you how many seconds apart they were.
 9. (truefalse) Stirring makes the particles in a liquid move faster.  
    **Answer:** False. *Why:* False. Stirring does not speed up particles. It brings fresh partners to a meeting and carries used-up liquid away.
-10. (write) A heap of fine powder reacts faster than one big lump of the same stuff. Explain why, using the word surface.  
-   **Answer:** A lump only reacts where its surface touches the other substance. Powder has many tiny pieces, so its total surface is much larger. More of the stuff can meet the other substance at once, so the reaction is faster.. *Why:* A strong answer names the surface, says more of it touches the other substance, and links that to faster reactions. It may also mention the grated apple.
+10. (write) A heap of fine powder reacts faster than one big lump of the same material. Explain why, using the word surface.  
+   **Answer:** A lump only reacts where its surface touches the other substance. Powder has many tiny pieces, so its total surface is much larger. More of the material can meet the other substance at once, so the reaction is faster.. *Why:* A strong answer names the surface, says more of it touches the other substance, and links that to faster reactions. It may also mention the grated apple.
 11. (draw) Draw two glasses of water side by side, one cold and one warm. Draw dots for particles and arrows to show how fast they move.  
    **Answer:** Two glasses with dots in each. Short arrows on the dots in the cold glass and long arrows on the dots in the warm glass.. *Why:* A strong drawing shows longer arrows in the warm glass, because its particles move faster. Some also mark more bumps in the warm glass.
 12. (mcq) What is special about a catalyst?  
    Options: It speeds up a reaction and is not used up / It is the ingredient that makes the most product / It slows a reaction down  
-   **Answer:** It speeds up a reaction and is not used up. *Why:* A catalyst comes out the same as it went in, so it can work again. It is not an ingredient. A pick of slows down means it was mixed up with the idea of a slow-down, such as a fridge.
+   **Answer:** It speeds up a reaction and is not used up. *Why:* A catalyst comes out the same as it went in, so it can work again. It is not an ingredient. If you chose 'slows a reaction down', you may be thinking of a fridge, which slows changes. A catalyst does the opposite.
 13. (odd) Three of these slow a change down. Which one is the odd one out?  
    Options: A fridge / A coat of paint / Stirring / Lime juice on cut apple  
    **Answer:** 2. *Why:* A fridge cools, paint blocks the meeting, and lime juice slows the browning enzyme. Stirring brings fresh partners together, so it speeds a reaction up.
@@ -559,14 +559,14 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
    **Answer:** False. *Why:* False. A catalyst only changes how fast the product forms. The final amount depends on how much reactant you started with.
 7. (mcq) Why can a washing powder with enzymes lift food stains even in cool water?  
    Options: Enzymes are catalysts that work without needing high heat / Enzymes heat the water / Enzymes are scrubbed away with the stain  
-   **Answer:** Enzymes are catalysts that work without needing high heat. *Why:* Enzymes are catalysts. They lower the effort the reaction needs, so the stain breaks down quickly without hot water. A pick of heating the water confuses a catalyst with a heater.
+   **Answer:** Enzymes are catalysts that work without needing high heat. *Why:* Enzymes are catalysts. They lower the effort the reaction needs, so the stain breaks down quickly without hot water. If you chose 'heat the water', remember that a catalyst is a helper and not a heater.
 8. (sort) Sort each of these by what it does to a reaction.  
    **Answer:** stirring → Speeds up; a fridge → Slows down; lime juice on cut apple → Slows down; powdering a solid → Speeds up; a pressure cooker → Speeds up; paint on a gate → Slows down. *Why:* Stirring, powder and the hotter cooker make meetings more frequent or stronger. A fridge, acid and paint make them rarer or weaker.
 9. (match) Match each way of slowing a change to an example.  
    **Answer:** Cooling → Milk kept in the fridge; A barrier → A painted iron gate; Acid → Lime juice on cut apple; Breaking the enzyme → A hot dip for an apple chunk. *Why:* Each one slows the change by a different route. Cold slows the particles, paint keeps the iron from water and air, acid makes the enzyme work poorly, and the hot dip destroys the enzyme.
 10. (mcq) A hot dip of just-boiled water keeps a cut apple pale. Why?  
    Options: The heat breaks the browning enzyme, so it cannot help any more / The heat makes the apple wet / The heat cools the apple  
-   **Answer:** The heat breaks the browning enzyme, so it cannot help any more. *Why:* Enzymes are folded chains that fall apart in strong heat. Without the enzyme, the browning reaction is far slower. A wrong pick often means heat is thought to always speed things up.
+   **Answer:** The heat breaks the browning enzyme, so it cannot help any more. *Why:* Enzymes are folded chains that fall apart in strong heat. Without the enzyme, the browning reaction is far slower. If you chose another answer, remember that heat does not always speed things up. Too much heat can break an enzyme.
 11. (write) Salty water makes a nail rust faster than plain water. Explain why salt might help, and say how you could test it with three glasses.  
    **Answer:** Salt dissolved in the water helps electric charge move, which speeds up rusting. To test it, put the same kind of nail in plain water, in salty water and in dry air, then score the rust each day.. *Why:* A strong answer says salt speeds rusting, gives a reason or says it helps charge move, and describes a fair test with one change and a control.
 12. (draw) Draw a mountain with a high path over the top and a low tunnel through it. Label the high path 'no catalyst' and the tunnel 'with catalyst', and draw walkers coming out the other end.  
@@ -575,7 +575,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
    **Answer:** False. *Why:* False. Calculations show glass at room temperature would take far longer than the age of the universe to flow that much. Old panes were uneven when they were made.
 14. (mcq) A lump of flour does not explode, but a cloud of fine flour dust can. What is the best reason?  
    Options: Dust has far more surface touching the air, so it burns almost all at once / Dust is hotter than a lump / Dust is a different substance  
-   **Answer:** Dust has far more surface touching the air, so it burns almost all at once. *Why:* A lump burns only on its outside. Fine dust spreads out in the air, so almost every bit meets oxygen at the same time. A pick of a different substance means surface is not yet linked to rate.
+   **Answer:** Dust has far more surface touching the air, so it burns almost all at once. *Why:* A lump burns only on its outside. Fine dust spreads out in the air, so almost every bit meets oxygen at the same time. If you chose 'a different substance', remember that dust and a lump are the same substance. The difference is how much surface touches the air.
 15. (perspective) Two visitors are talking about the Delhi Iron Pillar, which has rusted very little in about 1,600 years.  
    **Answer:** A strong answer picks a view and gives a reason. For example, a nail whose skin stays on rusts slowly, but when rust flakes off, the bare iron below rusts again. It might suggest comparing a nail with a stuck-on coat and a nail without.. *Why:* Scientists found a thin protective skin on the pillar, which supports the idea of a skin. The iron also has a lot of phosphorus, so both ideas have a part of the truth.
 ### Think Like a Reaction Detective (challenge) (challenge, 15 questions)
@@ -583,12 +583,12 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
    **Answer:** Use a pressure cooker, which uses warmth because it makes the water hotter than 100 degrees. Soak the dal first so water is already inside. Use split dal or mash it, which gives smaller pieces and more surface. Stirring can also help.. *Why:* A strong answer names three ideas and links each to meetings: warmth for faster particles, small pieces for more surface, soaking for water already inside, stirring for fresh partners.
 2. (mcq) Three glasses each get 2 teaspoons of lime juice, mixed with 0, 4 or 12 teaspoons of water, and then all are poured onto plenty of baking soda. At the end, how does the total gas compare?  
    Options: It is about the same, because the amount of acid is the same / The glass with the most water makes the most gas / The glass with no water makes the most gas  
-   **Answer:** It is about the same, because the amount of acid is the same. *Why:* Total gas depends on how much acid there was, not how crowded it was. Crowding changes how fast the gas is made. A wrong pick means speed and amount are being mixed up.
+   **Answer:** It is about the same, because the amount of acid is the same. *Why:* Total gas depends on how much acid there was, not how crowded it was. Crowding changes how fast the gas is made. If you chose another answer, check that you are not mixing up how fast the gas is made with how much gas is made.
 3. (count) In a glass, 2 teaspoons of lime juice are mixed with 4 teaspoons of water. What fraction of the liquid is lime juice?  
    **Answer:** 1/3. *Why:* The total is 2 plus 4, which is 6 teaspoons. Two out of six is one third. The more water you add, the smaller this fraction, and the less crowded the acid.
 4. (mcq) A catalyst is added to a reaction that would finally make 10 grams of product. How much product does it finally make?  
    Options: 10 grams, but it makes it faster / 20 grams, because a catalyst doubles the product / 5 grams, because the catalyst uses some  
-   **Answer:** 10 grams, but it makes it faster. *Why:* A catalyst is not an ingredient. It only speeds up the change, and the amount of product depends on the reactants. A pick of 20 means a catalyst is thought to make more stuff.
+   **Answer:** 10 grams, but it makes it faster. *Why:* A catalyst is not an ingredient. It only speeds up the change, and the amount of product depends on the reactants. If you chose 20 grams, remember that a catalyst does not make more product.
 5. (truefalse) Dipping a cut apple chunk in just-boiled water makes it brown faster, because heat speeds up everything.  
    **Answer:** False. *Why:* False. Heat speeds up many reactions, but it also breaks the browning enzyme. Without the enzyme, the chunk stays pale.
 6. (write) A fridge slows down the spoiling of milk but does not stop it. Explain this using particles and meetings.  
@@ -609,7 +609,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
    **Answer:** Two curves that rise and flatten at the same final height, the warm one rising steeply and flattening sooner, the cold one rising gently and flattening later.. *Why:* Both glasses make the same final amount of gas, because the powder is the same. The warm curve is steeper and flattens sooner, because its rate is higher.
 13. (mcq) Diamond is always very slowly turning into graphite, but a diamond ring seems to stay the same forever. Why?  
    Options: The rate is so low that no change is visible in a lifetime / The change has stopped completely / Diamonds are alive and repair themselves  
-   **Answer:** The rate is so low that no change is visible in a lifetime. *Why:* Slow does not mean stopped. The meetings that would change diamond are extremely rare. A wrong pick means slow and still are being mixed up.
+   **Answer:** The rate is so low that no change is visible in a lifetime. *Why:* Slow does not mean stopped. The meetings that would change diamond are extremely rare. If you chose another answer, check that you are not mixing up slow with still.
 14. (perspective) A grown mayfly may live for only one day. A person lives for decades. A mountain lasts for millions of years. They are watching an iron gate rust.  
    **Answer:** A strong answer picks a side and backs it. For example, slow is measured against a clock, and we can measure a rate in amount per time without a watcher. But whether it looks slow depends on how long the watcher lives. It could mention measuring rate with a clock.. *Why:* Both parts have something right. A rate can be measured as an amount per time, so it is about the change. Whether we call it fast or slow depends on the one watching.
 15. (write) Choose one thing at home that rusts, spoils or browns. Say which speed-up or slow-down you would use on it, and explain how it works using meetings of particles.  
@@ -623,7 +623,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 ## Quiz
 1. (mcq) What has to happen before two substances can react?  
    Options: Their particles must meet / They must be the same colour / One must be a liquid  
-   **Answer:** Their particles must meet. *Why:* A reaction is a meeting. Dry fruit salt does nothing until water lets its particles move and meet. A wrong pick often means a property of the substance is mistaken for the cause.
+   **Answer:** Their particles must meet. *Why:* A reaction is a meeting. Dry fruit salt does nothing until water lets its particles move and meet. If you chose another answer, remember that a colour or a state is not what makes a reaction happen. The meeting is.
 2. (mcq) Why does the same fruit salt finish fizzing sooner in warm water?  
    Options: Warm water has faster particles that meet more often and harder / Warm water has more fruit salt in it / Warm water makes the powder lighter  
    **Answer:** Warm water has faster particles that meet more often and harder. *Why:* Temperature measures how fast particles move. Faster particles meet more often and more forcefully. The amount of powder is the same in every glass.
@@ -646,7 +646,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
    **Answer:** ['enzyme']. *Why:* Enzymes are folded chains that fall apart in strong heat. With the enzyme broken, browning is far slower.
 9. (mcq) The Delhi Iron Pillar has rusted very little in about 1,600 years. What best explains this?  
    Options: A thin, tightly stuck skin keeps water and air from the iron below / Iron never rusts in Delhi / The pillar is made of a metal that cannot react  
-   **Answer:** A thin, tightly stuck skin keeps water and air from the iron below. *Why:* Scientists found a thin protective skin on the pillar. The iron itself can react, but it rarely meets water and air. A wrong pick treats the iron as magic instead of looking at the meeting.
+   **Answer:** A thin, tightly stuck skin keeps water and air from the iron below. *Why:* Scientists found a thin protective skin on the pillar. The iron itself can react, but it rarely meets water and air. If you chose another answer, remember that the iron is ordinary iron. What matters is whether it meets water and air.
 10. (truefalse) Putting food in a fridge stops every change in it.  
    **Answer:** False. *Why:* False. Cold only slows the particles, so meetings are rarer and weaker. The changes continue, but slowly.
 11. (count) A fizz takes 48 seconds in cold water and 12 seconds in warm water. How many times faster is the warm fizz?  

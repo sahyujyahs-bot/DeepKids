@@ -142,7 +142,7 @@
       "description": "People speak thousands of languages, but all scientists use the same symbols. Many symbols are the first letters of the English name. H is hydrogen, C is carbon, and Ca is calcium. Some come from the old Latin name. Sodium is Na, from natrium. Potassium is K, from kalium. Iron is Fe, from ferrum. Gold is Au, from aurum, and silver is Ag, from argentum. The symbols let a chemist in Chennai read the work of a chemist in Japan. You can find symbols on labels at home. A packet of fertiliser marked NPK holds nitrogen, phosphorus and potassium.",
       "examples": [
         "O is oxygen and N is nitrogen.",
-        "Fe is iron, so iron tablets may be labelled 'ferrous'.",
+        "Fe is iron. The word 'ferrous' on iron tablets comes from ferrum, the Latin name for iron.",
         "Hg is mercury, from a Latin name that means liquid silver."
       ],
       "perspectives": [],
@@ -215,9 +215,9 @@
       "definition": "If you count the atoms in a body one by one, hydrogen comes first. About 62 of every 100 atoms in you are hydrogen.",
       "description": "Atoms of different elements have different weights. An oxygen atom weighs about 16 times as much as a hydrogen atom. A carbon atom weighs about 12 times as much. Water is two hydrogen atoms joined to one oxygen atom. So two of every three atoms in water are hydrogen. But the one oxygen atom holds eight ninths of the weight. Your body is the same. Count the atoms, and about 62 in every 100 are hydrogen, 24 are oxygen and 12 are carbon. Weigh them, and oxygen is 65 parts in every 100. Both counts are correct. They answer two different questions: which atoms are most common, and which atoms carry most weight.",
       "examples": [
-        "In water, hydrogen is 2 of every 3 atoms but only 1 ninth of the weight.",
-        "In your body, hydrogen is 62 of every 100 atoms but only 10 parts in 100 of the weight.",
-        "A lorry and three cycles: the cycles are more in number, and the lorry is most of the weight."
+        "In water, hydrogen makes up 2 of every 3 atoms. Yet hydrogen is only 1 ninth of the weight of the water.",
+        "In your body, 62 of every 100 atoms are hydrogen. Yet hydrogen is only 10 parts in every 100 of your weight.",
+        "Think of a lorry and three cycles on a road. There are more cycles than lorries, so the cycles win if you count. The lorry weighs far more than the three cycles together, so the lorry wins if you weigh."
       ],
       "perspectives": [],
       "art": "A balance with one large ball marked O on one pan and sixteen small balls marked H on the other pan, level."
@@ -323,17 +323,17 @@
     {
       "q": "By weight you are mostly oxygen. By number of atoms you are mostly hydrogen. Is one of these the real answer?",
       "kind": "deep",
-      "hint": "Think of a lorry and three cycles. Are there more cycles, or more lorry?"
+      "hint": "Imagine one lorry and three cycles on a road. If you count them, the cycles are more. If you weigh them, the lorry is more. Does one way of asking give the real answer?"
     },
     {
       "q": "Diamond and pencil lead are both pure carbon. So what makes a thing what it is: its atoms or their arrangement?",
       "kind": "deep",
-      "hint": "The same bricks can build a wall or a well."
+      "hint": "The same bricks can be built into a wall or into a well. Would you say the bricks make the difference, or the way they are put together?"
     },
     {
       "q": "Every hydrogen atom in your body is about 13.8 billion years old. So how old are you?",
       "kind": "big",
-      "hint": "Is a new house old if its bricks are old?"
+      "hint": "A new house can be built from very old bricks. Would you call the house old or new?"
     },
     {
       "q": "Most elements are metals. Why might living bodies be built almost entirely from a few non-metals?",
@@ -601,7 +601,7 @@
             },
             {
               "f": "Zn",
-              "b": "Zinc. A metal. It coats iron buckets to stop rust."
+              "b": "Zinc. A metal. A thin coat of zinc on an iron bucket stops the iron from rusting."
             },
             {
               "f": "Na",
@@ -1029,7 +1029,7 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Lay the things on newspaper. Name the element in each: iron in steel, aluminium, copper, and carbon in the last two. Ask for the guess and the reason.",
+          "do": "Lay the things on newspaper. Say which element each one is made of. The steel is mostly iron. The foil is aluminium. The wire is copper. The pencil lead and the burnt matchstick are carbon. Then ask for the guess and the reason.",
           "say": "Pencil lead and this burnt matchstick are both carbon, a non-metal. We will give everything three metal tests. How many will the pencil lead pass? Why do you think so?",
           "kid": "Pencil lead is carbon. How many metal tests will it pass? Why?",
           "ask": [
@@ -1402,7 +1402,7 @@
               "q": "Most squares are yellow, but five of your six dots are on red. What does that tell you?",
               "good": [
                 "Most elements are metals, but my body is mostly non-metals.",
-                "Living things use the rare kind of element."
+                "Living things are built mostly from non-metals, even though most elements are metals."
               ]
             }
           ],
@@ -2302,7 +2302,7 @@
           "t": "write",
           "p": "Element 118 lasts about a thousandth of a second. Should it count as an element? Give a reason.",
           "lines": 3,
-          "a": "Yes is the answer chemists give: its atoms have 118 protons, and that is what makes an element. A thoughtful no might say that nothing can be built from it or tested with it.",
+          "a": "Chemists answer yes. Its atoms have 118 protons, and that is what makes it an element. A thoughtful no might say that nothing can be built from it or tested with it, because it lasts such a short time.",
           "why": "A strong answer uses what an element is: one kind of atom, fixed by its number of protons.",
           "outcome": 0
         },
@@ -2968,12 +2968,12 @@
     "context": "In this unit you found the elements of your own body and counted them in two ways. Here we ask what those two counts say about you and about the world.",
     "deep_truth": {
       "truth": "In the Body Hundred Square, you coloured 65 squares for oxygen when you counted by weight. When you counted atoms instead, 62 squares in 100 were hydrogen. Both counts are correct, because one oxygen atom weighs as much as 16 hydrogen atoms. So the question 'what are you mostly made of?' has two true answers, one for each way of counting.",
-      "habit": "We expect a question such as 'what is this mostly made of?' to have one answer. The answer changes with whether you weigh the parts or count them. So the way of asking is part of the answer.",
-      "evidence": "In the Body Hundred Square, the first box is mostly oxygen and the second is mostly hydrogen. Multiply each count of atoms by the weight of one atom, and the second box turns into the first."
+      "habit": "We expect a question such as 'what is this mostly made of?' to have only one answer. But the answer depends on whether you weigh the parts or count them. So how you ask the question changes the answer.",
+      "evidence": "In the Body Hundred Square, the first box is mostly oxygen and the second box is mostly hydrogen. Now take the count of each kind of atom and multiply it by the weight of one atom of that kind. The second box then turns into the first box. So the two boxes describe the same body."
     },
     "three": {
       "who_am_i": "By weight you are mostly oxygen. By number of atoms you are mostly hydrogen, the simplest and oldest element.",
-      "what_is_life": "Every living thing in the Black Test left carbon behind. A rice plant, a cotton plant and you are built around the same element.",
+      "what_is_life": "In the Black Test, everything that came from a living plant left black carbon behind. A rice plant, a cotton plant and you are all built around the same element.",
       "what_is_this_world": "Stars, rocks, air and bodies are made from one list of 118 elements. Most of the list is metal, and most of you is non-metal."
     },
     "thread": "Hydrogen is the simplest atom, with one proton. Stars pressed hydrogen together and built the heavier elements from it, step by step. Those elements joined into water, rock, rice and you. Many sages taught that the many things of the world come from one beginning. The science here says something close and plain. Every element in your body was built from the same simplest atom.",

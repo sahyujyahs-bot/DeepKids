@@ -51,7 +51,7 @@ The centre of an atom holds particles called protons. Hydrogen has 1 proton, so 
 
 People speak thousands of languages, but all scientists use the same symbols. Many symbols are the first letters of the English name. H is hydrogen, C is carbon, and Ca is calcium. Some come from the old Latin name. Sodium is Na, from natrium. Potassium is K, from kalium. Iron is Fe, from ferrum. Gold is Au, from aurum, and silver is Ag, from argentum. The symbols let a chemist in Chennai read the work of a chemist in Japan. You can find symbols on labels at home. A packet of fertiliser marked NPK holds nitrogen, phosphorus and potassium.
 - e.g. O is oxygen and N is nitrogen.
-- e.g. Fe is iron, so iron tablets may be labelled 'ferrous'.
+- e.g. Fe is iron. The word 'ferrous' on iron tablets comes from ferrum, the Latin name for iron.
 - e.g. Hg is mercury, from a Latin name that means liquid silver.
 ### What most metals share · *defined*
 **Definition:** Most metals shine when clean, bend or flatten without breaking, ring when struck, and carry heat and electricity well.
@@ -85,9 +85,9 @@ Six elements make up 99 parts in every 100 of your weight. They are oxygen, carb
 **Definition:** If you count the atoms in a body one by one, hydrogen comes first. About 62 of every 100 atoms in you are hydrogen.
 
 Atoms of different elements have different weights. An oxygen atom weighs about 16 times as much as a hydrogen atom. A carbon atom weighs about 12 times as much. Water is two hydrogen atoms joined to one oxygen atom. So two of every three atoms in water are hydrogen. But the one oxygen atom holds eight ninths of the weight. Your body is the same. Count the atoms, and about 62 in every 100 are hydrogen, 24 are oxygen and 12 are carbon. Weigh them, and oxygen is 65 parts in every 100. Both counts are correct. They answer two different questions: which atoms are most common, and which atoms carry most weight.
-- e.g. In water, hydrogen is 2 of every 3 atoms but only 1 ninth of the weight.
-- e.g. In your body, hydrogen is 62 of every 100 atoms but only 10 parts in 100 of the weight.
-- e.g. A lorry and three cycles: the cycles are more in number, and the lorry is most of the weight.
+- e.g. In water, hydrogen makes up 2 of every 3 atoms. Yet hydrogen is only 1 ninth of the weight of the water.
+- e.g. In your body, 62 of every 100 atoms are hydrogen. Yet hydrogen is only 10 parts in every 100 of your weight.
+- e.g. Think of a lorry and three cycles on a road. There are more cycles than lorries, so the cycles win if you count. The lorry weighs far more than the three cycles together, so the lorry wins if you weigh.
 ### Carbon, the element living things are built around · *defined*
 **Definition:** Every living thing is made of compounds built around chains and rings of carbon atoms.
 
@@ -139,11 +139,11 @@ The universe began about 13.8 billion years ago. In its first few minutes it mad
 In this unit you found the elements of your own body and counted them in two ways. Here we ask what those two counts say about you and about the world.
 
 **Deep truth.** In the Body Hundred Square, you coloured 65 squares for oxygen when you counted by weight. When you counted atoms instead, 62 squares in 100 were hydrogen. Both counts are correct, because one oxygen atom weighs as much as 16 hydrogen atoms. So the question 'what are you mostly made of?' has two true answers, one for each way of counting.  
-*Habit it breaks:* We expect a question such as 'what is this mostly made of?' to have one answer. The answer changes with whether you weigh the parts or count them. So the way of asking is part of the answer.  
-*Evidence:* In the Body Hundred Square, the first box is mostly oxygen and the second is mostly hydrogen. Multiply each count of atoms by the weight of one atom, and the second box turns into the first.
+*Habit it breaks:* We expect a question such as 'what is this mostly made of?' to have only one answer. But the answer depends on whether you weigh the parts or count them. So how you ask the question changes the answer.  
+*Evidence:* In the Body Hundred Square, the first box is mostly oxygen and the second box is mostly hydrogen. Now take the count of each kind of atom and multiply it by the weight of one atom of that kind. The second box then turns into the first box. So the two boxes describe the same body.
 
 - *who am i:* By weight you are mostly oxygen. By number of atoms you are mostly hydrogen, the simplest and oldest element.
-- *what is life:* Every living thing in the Black Test left carbon behind. A rice plant, a cotton plant and you are built around the same element.
+- *what is life:* In the Black Test, everything that came from a living plant left black carbon behind. A rice plant, a cotton plant and you are all built around the same element.
 - *what is this world:* Stars, rocks, air and bodies are made from one list of 118 elements. Most of the list is metal, and most of you is non-metal.
 
 Hydrogen is the simplest atom, with one proton. Stars pressed hydrogen together and built the heavier elements from it, step by step. Those elements joined into water, rock, rice and you. Many sages taught that the many things of the world come from one beginning. The science here says something close and plain. Every element in your body was built from the same simplest atom.
@@ -161,9 +161,9 @@ Hydrogen is the simplest atom, with one proton. Stars pressed hydrogen together 
 - Ask: In the Black Test, rice left the same black carbon as bread and cotton. What makes you different from a grain of rice?
 
 ## Deep and big questions
-- *deep:* By weight you are mostly oxygen. By number of atoms you are mostly hydrogen. Is one of these the real answer? (hint: Think of a lorry and three cycles. Are there more cycles, or more lorry?)
-- *deep:* Diamond and pencil lead are both pure carbon. So what makes a thing what it is: its atoms or their arrangement? (hint: The same bricks can build a wall or a well.)
-- *big:* Every hydrogen atom in your body is about 13.8 billion years old. So how old are you? (hint: Is a new house old if its bricks are old?)
+- *deep:* By weight you are mostly oxygen. By number of atoms you are mostly hydrogen. Is one of these the real answer? (hint: Imagine one lorry and three cycles on a road. If you count them, the cycles are more. If you weigh them, the lorry is more. Does one way of asking give the real answer?)
+- *deep:* Diamond and pencil lead are both pure carbon. So what makes a thing what it is: its atoms or their arrangement? (hint: The same bricks can be built into a wall or into a well. Would you say the bricks make the difference, or the way they are put together?)
+- *big:* Every hydrogen atom in your body is about 13.8 billion years old. So how old are you? (hint: A new house can be built from very old bricks. Would you call the house old or new?)
 - *big:* Most elements are metals. Why might living bodies be built almost entirely from a few non-metals? (hint: Think about what carbon can do that iron cannot: join into long chains.)
 - *big:* People once said the elements were earth, water, air and fire. Their list was wrong. Was their idea wrong? (hint: They thought a few basic kinds make everything. Is that still what we think?)
 - *deep:* Scientists made element 118 for about a thousandth of a second. Did that element exist before they made it? (hint: Did the number 118 have a place in the list before anyone filled it?)
@@ -288,7 +288,7 @@ The baby slept through everything, growing.
   - Check: Which three elements are all non-metals that are in your body? → **Oxygen, carbon and nitrogen**
 ### g2 · Symbol Race: why is sodium Na? (15 min)
 - **rules:** One player is the reader. The reader holds up the top card so that the others see only the symbol.; The first player to say the element's name wins the card.; That player wins 1 more point by saying if it is a metal or a non-metal. The reader checks the back.; If nobody knows, the reader reads the back aloud. The card goes to the bottom of the pile.; Swap the reader after every four cards. The game ends when all 16 cards are won.; The player with the most points wins.; Playing alone? Look at each symbol, say the name, then turn the card over. Make a 'know it' pile and a 'try again' pile. Go through the 'try again' pile until it is empty.
-- **Printable cards: 16 symbol cards: the symbol on the front, the element and one fact on the back:** H (back: Hydrogen. A non-metal gas. Number 1, the lightest element.); He (back: Helium. A non-metal gas. It lifts balloons.); C (back: Carbon. A non-metal solid. Charcoal and pencil lead are carbon.); N (back: Nitrogen. A non-metal gas. It is 78 parts in 100 of the air.); O (back: Oxygen. A non-metal gas. It is 65 parts in 100 of your weight.); Cl (back: Chlorine. A non-metal gas. Joined with sodium, it makes salt.); Ca (back: Calcium. A metal. It makes bones and teeth hard.); Zn (back: Zinc. A metal. It coats iron buckets to stop rust.); Na (back: Sodium. A metal. The symbol comes from natrium, its Latin name.); K (back: Potassium. A metal. The symbol comes from kalium, its Latin name.); Fe (back: Iron. A metal. The symbol comes from ferrum, its Latin name.); Cu (back: Copper. A metal. The symbol comes from cuprum, its Latin name.); Ag (back: Silver. A metal. The symbol comes from argentum, its Latin name.); Au (back: Gold. A metal. The symbol comes from aurum, its Latin name.); Hg (back: Mercury. A liquid metal. The symbol comes from hydrargyrum, 'liquid silver'.); Pb (back: Lead. A metal. The symbol comes from plumbum, its Latin name.)
+- **Printable cards: 16 symbol cards: the symbol on the front, the element and one fact on the back:** H (back: Hydrogen. A non-metal gas. Number 1, the lightest element.); He (back: Helium. A non-metal gas. It lifts balloons.); C (back: Carbon. A non-metal solid. Charcoal and pencil lead are carbon.); N (back: Nitrogen. A non-metal gas. It is 78 parts in 100 of the air.); O (back: Oxygen. A non-metal gas. It is 65 parts in 100 of your weight.); Cl (back: Chlorine. A non-metal gas. Joined with sodium, it makes salt.); Ca (back: Calcium. A metal. It makes bones and teeth hard.); Zn (back: Zinc. A metal. A thin coat of zinc on an iron bucket stops the iron from rusting.); Na (back: Sodium. A metal. The symbol comes from natrium, its Latin name.); K (back: Potassium. A metal. The symbol comes from kalium, its Latin name.); Fe (back: Iron. A metal. The symbol comes from ferrum, its Latin name.); Cu (back: Copper. A metal. The symbol comes from cuprum, its Latin name.); Ag (back: Silver. A metal. The symbol comes from argentum, its Latin name.); Au (back: Gold. A metal. The symbol comes from aurum, its Latin name.); Hg (back: Mercury. A liquid metal. The symbol comes from hydrargyrum, 'liquid silver'.); Pb (back: Lead. A metal. The symbol comes from plumbum, its Latin name.)
 - **s1 (3 min)**  
   *Parent does:* Make the 16 cards. Lay out the eight cards whose symbols come from Latin names: Na, K, Fe, Cu, Ag, Au, Hg and Pb.  
   *Parent says:* Eight of these symbols do not match the English name. They come from Latin, an old language that scientists once shared.  
@@ -351,7 +351,7 @@ The baby slept through everything, growing.
 - **record:** Draw a table with a row for each thing and a column for each test. Write yes or no for shine and ring. Write 'bends' or 'snaps' for the bend test.
 - **results table:** The thing | Shines when rubbed? | Bends or snaps? | Rings when dropped?
 - **s1 (4 min)**  
-  *Parent does:* Lay the things on newspaper. Name the element in each: iron in steel, aluminium, copper, and carbon in the last two. Ask for the guess and the reason.  
+  *Parent does:* Lay the things on newspaper. Say which element each one is made of. The steel is mostly iron. The foil is aluminium. The wire is copper. The pencil lead and the burnt matchstick are carbon. Then ask for the guess and the reason.  
   *Parent says:* Pencil lead and this burnt matchstick are both carbon, a non-metal. We will give everything three metal tests. How many will the pencil lead pass? Why do you think so?  
   *Child mode:* Pencil lead is carbon. How many metal tests will it pass? Why?
   - Ask: Why do you think the pencil lead will pass that many tests? (good: It is a non-metal, so it should pass none.; It looks a bit shiny, so it may pass one.; It is hard like metal, so it may ring.)
@@ -447,7 +447,7 @@ The baby slept through everything, growing.
   *Parent does:* Your child puts a dot on squares 1, 6, 7, 8, 15 and 20. Ask them to say what they guessed, what they found, and what surprises them.  
   *Parent says:* Dot the six main elements of your body: 1, 6, 7, 8, 15 and 20. Say what you guessed and what you found. What colour are most of your dots?  
   *Child mode:* Dot 1, 6, 7, 8, 15 and 20. What colour are most of your dots?
-  - Ask: Most squares are yellow, but five of your six dots are on red. What does that tell you? (good: Most elements are metals, but my body is mostly non-metals.; Living things use the rare kind of element.)
+  - Ask: Most squares are yellow, but five of your six dots are on red. What does that tell you? (good: Most elements are metals, but my body is mostly non-metals.; Living things are built mostly from non-metals, even though most elements are metals.)
   - Note: Calcium, number 20, is the only metal among the six. Chemists differ by one or two on the metalloid count, so some books give other totals.
   - Think: Where on your grid are the elements with the smallest numbers? Which colour are most of them?
 
@@ -606,7 +606,7 @@ The baby slept through everything, growing.
    Options: Rice / Cotton / Paper / Salt  
    **Answer:** 3. *Why:* Rice, cotton and paper came from plants and hold carbon. Salt holds no carbon and stays white.
 14. (write) Element 118 lasts about a thousandth of a second. Should it count as an element? Give a reason.  
-   **Answer:** Yes is the answer chemists give: its atoms have 118 protons, and that is what makes an element. A thoughtful no might say that nothing can be built from it or tested with it.. *Why:* A strong answer uses what an element is: one kind of atom, fixed by its number of protons.
+   **Answer:** Chemists answer yes. Its atoms have 118 protons, and that is what makes it an element. A thoughtful no might say that nothing can be built from it or tested with it, because it lasts such a short time.. *Why:* A strong answer uses what an element is: one kind of atom, fixed by its number of protons.
 15. (label) These five squares are numbered 1, 6, 8, 20 and 26. Write each element's symbol in its square.  
    **Answer:** ['1: H, hydrogen', '6: C, carbon', '8: O, oxygen', '20: Ca, calcium', '26: Fe, iron']. *Why:* All five are in your body. Fe is the only one of these whose symbol comes from a Latin name.
 

@@ -47,7 +47,7 @@ Rice and cotton are both made of glucose chains. The difference is in the join b
 ### Lined-up chains make a material strong in one direction · *defined*
 **Definition:** A material made of chains or fibres is strongest along the direction they line up in, and weakest across it.
 
-Pulling along a chain pulls on strong bonds. Pulling across chains only pulls on the weak holds between neighbours. Newspaper has a grain because most of its fibres lie one way, so it tears straight along the grain. In a factory, plastics are often stretched on purpose, so that the chains line up. A stretched nylon thread is much stronger than the same nylon before it is stretched. Stephanie Kwolek found that her stiff polymer chains lined up by themselves in a liquid, and the fibre she spun was stronger than steel for the same weight. Bone and wood are the same. They are hard to snap across the grain and easy to split along it.
+Pulling along a chain pulls on strong bonds. Pulling across chains only pulls on the weak holds between neighbours. Newspaper has a grain because most of its fibres lie one way, so it tears straight along the grain. In a factory, plastics are often stretched on purpose, so that the chains line up. A stretched nylon thread is much stronger than the same nylon before it is stretched. Stephanie Kwolek found that her stiff polymer chains lined up by themselves in a liquid, and the fibre she spun was stronger than steel for the same weight. Wood works in the same way. It is hard to snap across the grain, and easy to split along it. Bone is also built of lined-up fibres, so it too is stronger in some directions than in others.
 - e.g. Newspaper tears straight along its grain.
 - e.g. Wood splits easily along the grain and is hard to snap across.
 - e.g. Nylon thread is stretched in the factory so the chains line up.
@@ -55,9 +55,9 @@ Pulling along a chain pulls on strong bonds. Pulling across chains only pulls on
 **Definition:** A yarn is made of short fibres twisted together. Twisting presses the fibres against each other, and the grip between them holds the yarn together.
 
 A cotton fibre is usually only about two to three centimetres long. A cotton thread on a spool can be hundreds of metres long. No fibre runs from one end of the thread to the other. Each fibre overlaps the ones next to it. When you pull the yarn, the fibres try to slide past each other. The twist squeezes them together, so they grip, and the harder you pull, the harder they grip. With too little twist, the fibres slide out. With too much twist, the yarn curls into loops and kinks. Silk is different. A silkworm spins one fibre hundreds of metres long, so silk needs far less twist. A rope breaks where its twist has been worn loose, because the fibres slide out.
-- e.g. Cotton yarn: short fibres, twisted.
-- e.g. Coir rope: coconut fibres a hand long, twisted into a rope that holds a boat.
-- e.g. Silk: one very long fibre from a cocoon.
+- e.g. Cotton yarn is made of short fibres that are twisted together.
+- e.g. A coir rope is made of coconut fibres about a hand long, twisted together, and it is strong enough to hold a boat.
+- e.g. Silk is different. A silkworm's cocoon gives one very long fibre.
 ### Water, heat and plasticisers loosen the holds between chains · *defined*
 **Definition:** Chains in a material are held to each other by weak ties. Water, heat or a plasticiser such as glycerine loosen the ties, so the chains slide and the material bends.
 
@@ -74,8 +74,8 @@ A thermoplastic is like a bowl of cooked noodles. Warm it and the noodles slide.
 - e.g. Tyre rubber is tied by cross-links made with sulfur.
 ### Is a pressure cooker handle one giant molecule? · *debated*
 In a thermoset, the strong ties run through the whole piece. Every atom is joined to the others by strong bonds. If you trace a path along the bonds, you can reach almost any atom from any other. So some chemists say that a thermoset handle is one single giant molecule. Others say that a molecule is a particular group of atoms with a particular size, and a net of unknown size is not one. Nobody has to settle this to use the handle, but it shows how a word like molecule gets stretched when we look closely.
-- e.g. A cooker handle made of a thermoset.
-- e.g. A vulcanised rubber band, where chains are tied together in a loose net.
+- e.g. A pressure cooker handle is made of a thermoset.
+- e.g. A rubber band that has been treated with sulfur has its chains tied together in a loose net.
 - **Some chemists:** Yes. All the atoms are joined by strong bonds into one connected piece, so it is one giant molecule.
 - **Other chemists:** No. A molecule means a group of atoms with a set size and shape. A net that could be any size is a network, not a molecule.
 
@@ -116,7 +116,7 @@ We have torn, twisted, cooked and heated polymers. Now we ask what a thread made
 
 - *who am i:* Your hair, nails and skin are made of protein chains that your body joined from the food you ate. You are made of short pieces that hold on to each other, just as a thread is.
 - *what is life:* Every cell joins amino acids into protein chains, one piece at a time, in the order written in the genes. Making long chains out of short pieces is part of what living things do.
-- *what is this world:* Rope, cloth, paper, wood and bone are all long, strong things made of short pieces holding on to each other. At every size, from chains to fibres to yarn to rope, the holding is done by pieces that are short.
+- *what is this world:* Rope, cloth, paper, wood and bone are all long, strong things made of short pieces holding on to each other. At every size, from chains to fibres to yarn to rope, the strength comes from many short pieces holding on to their neighbours.
 
 A cotton plant grows short fibres. A spinner twists many of them into a thread much longer than any one fibre, and a weaver crosses threads into cloth. At each step, nothing new is added. The same small pieces are held together in a new way. What they can do together is more than any one of them could do alone.
 

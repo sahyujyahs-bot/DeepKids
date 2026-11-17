@@ -216,7 +216,7 @@
    "concept": "One reaction can fit two kinds",
    "status": "debated",
    "definition": "",
-   "description": "The four kinds are a way of sorting, and some reactions fit two kinds. A burning candle is an example. The wax splits apart, and its atoms join with oxygen. So burning is splitting and joining together. When hydrogen burns, two substances become one, so it is burning and joining at once. Vinegar and baking soda first swap parts. One product, carbonic acid, then splits into water and carbon dioxide, which makes the fizz. People who study chemistry do not all sort reactions in the same way.",
+   "description": "The four kinds are a way of sorting, and some reactions fit two kinds. A burning candle is an example. The wax comes apart, and its atoms join with oxygen. So this one burning reaction is a splitting and a joining at the same time. When hydrogen burns, two substances become one, so it is a burning and a joining at once. Vinegar and baking soda first swap parts. One product, carbonic acid, then splits into water and carbon dioxide, which makes the fizz. People who study chemistry do not all sort reactions in the same way.",
    "examples": [
     "Hydrogen + oxygen → water is both burning and joining.",
     "Vinegar and baking soda swap parts, and then one product splits.",
@@ -339,7 +339,7 @@
   {
    "q": "Milk turns into curds and whey. Is the milk gone, or is it still there in another form?",
    "kind": "deep",
-   "hint": "Every atom of the milk is still in the bowl. What, then, is missing?"
+   "hint": "Every atom of the milk is still in the bowl, just joined in a new way. So what is it that has changed?"
   },
   {
    "q": "Burning fits two kinds at once. So are the four kinds found in nature, or made by people?",
@@ -349,12 +349,12 @@
   {
    "q": "Gypsum can be split into plaster and joined into gypsum again and again. Can every reaction be undone?",
    "kind": "deep",
-   "hint": "Could you turn curds and whey back into milk? Could you turn smoke back into wood? A tree does something close to that."
+   "hint": "Could you turn curds and whey back into milk? Could you turn smoke back into wood? A tree actually does something close to that, because it builds wood from the carbon dioxide in the air."
   },
   {
    "q": "Your body splits food and joins the pieces into you. Are you a thing, or reactions that keep going?",
    "kind": "big",
-   "hint": "A flame keeps its shape while the wax and air passing through it change every second."
+   "hint": "A candle flame keeps the same shape, yet the wax and the air going through it change every second. Are you a little like that flame?"
   },
   {
    "q": "People burned seashells into lime for thousands of years before anyone knew about atoms. Did they understand the reaction?",
@@ -592,7 +592,7 @@
        ]
       }
      ],
-     "parent": "For a stuck child, ask how many substances there are before the reaction and how many after. One child can play alone or with you.",
+     "parent": "For a stuck child, ask how many substances there are before the reaction and how many after. A child playing alone can do the same: say the kind aloud, and then check the back of the card.",
      "context": "In this step of Join, Split, Swap or Burn you play the first twelve reaction cards."
     },
     {
@@ -607,7 +607,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Count the points. Then sort all 24 cards into four heaps by kind. Put the three two-kind cards between their heaps.",
-     "say": "Let us sort the cards into four heaps. Where should the rocket engine card go? What do all the cards in the splitting heap need?",
+     "say": "Let us sort the cards into four heaps. Where should the rocket engine card go? Now look at the splitting heap. What do most of those reactions need to be given: heat, electricity or light?",
      "kid": "Sort the cards into four heaps. Which cards sit between two heaps?",
      "check": {
       "t": "mcq",
@@ -1012,7 +1012,7 @@
        "q": "Where did the water in cup B go?",
        "good": [
         "It dried into the air.",
-        "The sand is the same sand as before."
+        "The sand is the same sand as before, so the water just dried away."
        ]
       }
      ],
@@ -1119,7 +1119,7 @@
      "mins": 3,
      "do": "Set out the three bottles, the soap and the vinegar. Ask for the guess and the reason, and write both down.",
      "say": "Bottle A will hold soap water and plain water. Bottle B will hold soap water and vinegar. Bottle C will hold dish wash liquid and vinegar. Which will foam most when we shake it? Why do you think so?",
-     "kid": "Three bottles: soap and water, soap and vinegar, dish wash and vinegar. Which foams most? Why?",
+     "kid": "Look at the three bottles. Each holds soap or dish wash, with water or vinegar. Which will foam most? Why?",
      "ask": [
       {
        "q": "Why do you think vinegar will or will not change the foam?",
@@ -1524,7 +1524,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Plate 3, swapping. Build an acid: 1 moong touching the peppercorn. Build a base: the groundnut touching 1 chana, which touches 1 moong. Now let the moong of the acid and the groundnut change places.",
-     "say": "This acid is hydrogen joined to chlorine. This base is sodium joined to oxygen and hydrogen. Swap the acid's hydrogen with the sodium. What two things have you made?",
+     "say": "This acid is hydrogen joined to chlorine. A base is the opposite of an acid, and it can cancel an acid. This base is sodium joined to oxygen and hydrogen. Swap the acid's hydrogen with the sodium. What two things have you made?",
      "kid": "Plate 3: build the acid and the base. Swap the moong and the groundnut. What did you make?",
      "ask": [
       {
@@ -1555,7 +1555,7 @@
       "a": 0,
       "why": "A reaction keeps every atom, so 9 seeds before means 9 seeds after. If you chose 3, you counted molecules. If you chose 12, check that no seed was added."
      },
-     "parent": "Before: 1 carbon, 4 hydrogens and 4 oxygens. After: the same 9 atoms. The methane split, and its atoms joined with oxygen. So burning is a splitting and a joining together.",
+     "parent": "Before: 1 carbon, 4 hydrogens and 4 oxygens. After: the same 9 atoms. The methane came apart, and its atoms joined with oxygen. So this one burning reaction is a splitting and a joining at the same time.",
      "think": "On every plate you broke some bonds and made new ones. Was there any plate where you only did one of these?",
      "context": "This is the last step of Four Plates. You build the burning of methane on plate 4 and count the atoms."
     }
@@ -2567,7 +2567,7 @@
   "Doctors set broken bones in casts of plaster of Paris. The wet bandage joins with water and turns hard within minutes.",
   "Bakers use baking soda because heat splits it and gives off carbon dioxide. The gas makes cakes, dhoklas and biscuits rise.",
   "Water works add alum to muddy water. The alum forms a fluffy precipitate, which traps the fine mud and sinks. The clear water is drawn off the top.",
-  "Shampoos and dish wash liquids were invented because soap swaps parts with hard water and makes scum. These cleaners stay dissolved.",
+  "Shampoos and dish wash liquids were invented because soap swaps parts with hard water and makes scum. These cleaners do not make scum, because they stay dissolved in hard water.",
   "Engines and stoves are built to mix fuel with enough oxygen. With too little oxygen, burning makes soot and a poisonous gas called carbon monoxide."
  ],
  "spotted": [
@@ -2580,7 +2580,7 @@
    "art": "A blue plastic bucket with a pale grey ring along the old water line."
   },
   {
-   "text": "White crust inside a kettle or a water heater. Heating splits a substance dissolved in hard water, and limestone precipitates.",
+   "text": "White crust inside a kettle or a water heater. Heating breaks down a substance that was dissolved in hard water. That makes limestone, which does not dissolve, so it forms a solid crust.",
    "art": "The inside of a steel kettle with a rough white crust on the bottom."
   },
   {
@@ -2705,8 +2705,8 @@
   },
   {
    "problem": "In Soap and Sour, the foam in bottle A was 4 cm and then 4 cm. In bottle C it was 3 cm and then 3.5 cm. In bottle B it was 0.5 cm both times. Can you be sure that A foams more than C? Can you be sure that A foams more than B?",
-   "answer": "A and B: yes. A and C: not from these tries alone.",
-   "explain": "A's foam is 8 times as tall as B's, and both tries agree. A and C differ by 0.5 to 1 cm. C's own two tries differ by 0.5 cm. So the gap between A and C is not much bigger than chance.",
+   "answer": "Yes, you can be sure that A foams more than B. No, you cannot be sure that A foams more than C from these tries alone.",
+   "explain": "A's foam is 8 times as tall as B's, and both tries agree. A and C differ by only 0.5 to 1 cm. C's own two tries differ from each other by 0.5 cm. So the gap between A and C is not much bigger than the gap between two tries of the same bottle. That gap could be chance.",
    "math_unit": "math.data.reading-data.L4",
    "how": "e3",
    "context": "In Soap and Sour you shake soap water with plain water in bottle A and with vinegar in bottle B. Bottle C holds dish wash liquid with vinegar. These are made-up foam heights.",
@@ -3057,7 +3057,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For a long time, chemists thought that each substance had fixed likes. In 1775 the Swedish chemist Torbern Bergman printed large tables of them. The tables showed which substance would push another away from its partner. By this idea, a swap could go only one way. In 1798 the French chemist Claude-Louis Berthollet went to Egypt. At the Natron Lakes he saw crusts of soda at the edges of the salt water. The ground there was limestone. In his laboratory, soda and a dissolved lime salt always swapped parts, and made limestone and common salt. At the lakes, salt and limestone were slowly making soda. The swap was running backwards. Berthollet reasoned that the huge amount of salt was driving it. Amounts matter, as well as likes. He published the idea in 1801 and 1803. He also claimed that substances join in any proportions. Joseph Proust showed that this part was wrong. In 1864 Cato Guldberg and Peter Waage in Norway turned Berthollet's idea into an exact rule.",
+  "story": "For a long time, chemists thought that each substance has a fixed liking for every other substance. A substance that likes a partner more would pull it away from a substance that likes it less. In 1775 the Swedish chemist Torbern Bergman printed large tables of these likings. By this idea, a swap could go only one way. In 1798 the French chemist Claude-Louis Berthollet went to Egypt. At the Natron Lakes he saw crusts of soda at the edges of the salt water. The ground there was limestone. In his laboratory, soda and a dissolved lime salt always swapped parts, and made limestone and common salt. At the lakes, salt and limestone were slowly making soda. The swap was running backwards. Berthollet reasoned that the huge amount of salt was driving it. Amounts matter, as well as likes. He published the idea in 1801 and 1803. He also claimed that substances join in any proportions. Joseph Proust showed that this part was wrong. In 1864 Cato Guldberg and Peter Waage in Norway turned Berthollet's idea into an exact rule.",
   "who": "Torbern Bergman in Sweden, Claude-Louis Berthollet and Joseph Proust from France, and Cato Guldberg and Peter Waage in Norway",
   "when": "Bergman's tables came out in 1775. Berthollet was in Egypt from 1798 to 1799, and published in 1801 and 1803. Guldberg and Waage published in 1864.",
   "wrong_idea": "That each substance has fixed likes, so a swapping reaction can go only one way. Berthollet saw the same swap running backwards at the Natron Lakes, where one substance was present in a huge amount.",
@@ -3068,7 +3068,7 @@
   "deep_truth": {
    "truth": "In The Pan and the Lid, heat broke bonds in baking soda, and one powder became three substances. In Powder and Water, plaster and water made new bonds and became one hard solid. In Soap and Sour, old bonds broke and new bonds formed in the same bottle. So every reaction, whatever its kind, is made of the same two steps: bonds break and bonds form.",
    "habit": "We sort reactions into kinds, and then we treat the kinds as separate things. The kinds are patterns that people noticed. Under every pattern, the same two steps are happening.",
-   "evidence": "In Four Plates, every reaction was built by pulling some seeds apart and pushing some together. The burning plate needed both steps. In the card game Join, Split, Swap or Burn, three cards fit two kinds at once."
+   "evidence": "In Four Plates, every reaction was built by pulling some seeds apart and pushing some together. The burning plate needed both steps. In the card game Join, Split, Swap or Burn, three cards fit two kinds at once. That happens because every kind is made of the same two steps."
   },
   "three": {
    "who_am_i": "The calcium in your bones was once in milk, in grass, in soil and in rock. It has changed partners many times, and for now it is part of you.",

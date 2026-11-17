@@ -23,8 +23,8 @@
 - **Subscript**: The small number written low after a symbol in a formula. It says how many atoms of that element there are. No number means one atom. *e.g.* In CO₂ the small 2 belongs to the O. There are two oxygen atoms and one carbon atom.
 - **Molecule**: A group of atoms joined together. A molecule is the smallest piece of many substances. *e.g.* One molecule of water is two hydrogen atoms joined to one oxygen atom.
 - **Compound**: A substance made of two or more elements joined in fixed numbers. *e.g.* Water is a compound of hydrogen and oxygen. Salt is a compound of sodium and chlorine.
-- **Hydrogen (H)**: The lightest element. As a gas its atoms go about in pairs, written H₂. *e.g.* Every water molecule holds two hydrogen atoms.
-- **Oxygen (O)**: The element in air that humans and other animals need to breathe. In air its atoms go about in pairs, written O₂. *e.g.* About one fifth of the air in your room is oxygen gas.
+- **Hydrogen (H)**: The lightest element. As a gas, its atoms come joined in pairs, written H₂. *e.g.* Every water molecule holds two hydrogen atoms.
+- **Oxygen (O)**: The element in air that humans and other animals need to breathe. In air, its atoms come joined in pairs, written O₂. *e.g.* About one fifth of the air in your room is oxygen gas.
 - **Carbon (C)**: The element in charcoal, pencil lead and diamond. Carbon atoms are in every living body. *e.g.* The black tip of a burnt matchstick is mostly carbon.
 - **Sodium (Na)**: A soft, silvery metal that reacts fiercely with water. Its symbol comes from its old Latin name, natrium. *e.g.* Sodium is never found alone in a kitchen. It is joined to chlorine in salt.
 - **Chlorine (Cl)**: A yellow-green, poisonous gas when it is alone. Joined to sodium, it makes table salt. *e.g.* A tiny amount of chlorine is added to city tap water to kill microbes.
@@ -51,9 +51,9 @@ Read a formula from left to right, one symbol at a time. A small number, called 
 - e.g. CO₂ is carbon dioxide: 1 carbon atom and 2 oxygen atoms.
 - e.g. CH₄ is methane, the main gas in CNG: 1 carbon atom and 4 hydrogen atoms.
 ### Elements have formulas too · *defined*
-**Definition:** An element's formula shows how its atoms go about. Some go about singly, and some go about in pairs or larger groups.
+**Definition:** An element's formula shows how its atoms come. Some come as single atoms, and some come joined in pairs or in larger groups.
 
-Oxygen gas is written O₂, because its atoms go about in pairs. The nitrogen in air is N₂, and hydrogen gas is H₂. Their molecules hold two atoms of the same kind. So a molecule does not have to be a compound. A metal such as gold has no molecules. Its atoms are packed together in one big crystal, so its formula is just Au. The air in your room is mostly two formulas. About four fifths of it is N₂, and about one fifth is O₂. Carbon dioxide is only about 4 molecules in every 10,000.
+Oxygen gas is written O₂, because its atoms come joined in pairs. The nitrogen in air is N₂, and hydrogen gas is H₂. Their molecules hold two atoms of the same kind. So a molecule does not have to be a compound. A metal such as gold has no molecules. Its atoms are packed together in one big crystal, so its formula is just Au. The air in your room is mostly two formulas. About four fifths of it is N₂, and about one fifth is O₂. Carbon dioxide is only about 4 molecules in every 10,000.
 - e.g. O₂ is the oxygen you breathe: 2 oxygen atoms.
 - e.g. N₂ is nitrogen gas: 2 nitrogen atoms.
 - e.g. Fe is iron and Au is gold. A metal is written with its symbol alone.
@@ -74,10 +74,10 @@ A grain of salt is a crystal. Its sodium and chlorine atoms are packed in rows t
 ### Why the numbers in a formula are fixed · *defined*
 **Definition:** Atoms join and react in fixed whole numbers. So a pure compound always has the same proportions, wherever it comes from.
 
-An atom cannot join with half of another atom. Atoms join one to one, one to two, two to three, and so on. In the experiment Count the Drops, you see what follows from this. Lemon juice holds vitamin C. One molecule of vitamin C changes exactly one molecule of iodine and takes away its colour. So twice as much lemon juice uses up about twice as many drops of iodine. In 1799 the French chemist Joseph Proust showed the same thing by weighing. A copper compound from a mine and the same compound made in his laboratory had the same proportions. Fixed proportions were the first strong clue that substances are made of atoms.
+An atom cannot join with half of another atom. Atoms join one to one, one to two, two to three, and so on. In the experiment Count the Drops, you can see this at work. Lemon juice holds vitamin C. One molecule of vitamin C changes exactly one molecule of iodine and takes away its colour. So twice as much lemon juice uses up about twice as many drops of iodine. In 1799 the French chemist Joseph Proust showed the same thing by weighing. A copper compound from a mine and the same compound made in his laboratory had the same proportions. Fixed proportions were the first strong clue that substances are made of atoms.
 - e.g. Water always has 2 hydrogen atoms for each oxygen atom.
 - e.g. Twice the lemon juice uses up about twice the iodine.
-- e.g. A cook can change a recipe. A compound has one recipe only.
+- e.g. A cook can change the amounts in a recipe and still make a dish. A pure compound has only one set of amounts, and it can never change.
 ### Everyday names, chemical names and formulas · *defined*
 **Definition:** An everyday name is what people call a substance at home. A chemical name says which elements are in it. A formula also says how many atoms of each.
 
@@ -102,7 +102,7 @@ Glucose is the sugar in your blood. Fructose is a sugar in fruit and honey. Both
 ### Formulas in living bodies, on the Earth and in space · *defined*
 **Definition:** The same symbols can write every substance yet found, in a living body, in a rock or between the stars.
 
-About 99 of every 100 atoms in your body are of just four kinds: hydrogen, oxygen, carbon and nitrogen. A plant takes in CO₂ and H₂O and builds glucose, C₆H₁₂O₆. You eat the glucose and breathe out CO₂ and H₂O again. Astronomers read formulas from far away, because each substance takes in its own colours of light. The air of Venus and of Mars is mostly CO₂. In 2009 an instrument on India's Chandrayaan-1 spacecraft found signs of water on the Moon. In 1969 radio telescopes found water molecules in clouds between the stars. In 2022 the James Webb Space Telescope found CO₂ in the air of a planet that orbits another star.
+About 99 of every 100 atoms in your body are of just four kinds: hydrogen, oxygen, carbon and nitrogen. A plant takes in CO₂ and H₂O and builds glucose, C₆H₁₂O₆. You eat the glucose and breathe out CO₂ and H₂O again. Astronomers can tell which substances are far away, because each substance takes in its own colours of light. The air of Venus and of Mars is mostly CO₂. In 2009 an instrument on India's Chandrayaan-1 spacecraft found signs of water on the Moon. In 1969 radio telescopes found water molecules in clouds between the stars. In 2022 the James Webb Space Telescope found CO₂ in the air of a planet that orbits another star.
 - e.g. Photosynthesis in words: carbon dioxide and water become glucose and oxygen.
 - e.g. The air of Mars is about 95 parts CO₂ in every 100.
 - e.g. Water in a comet has the same formula as water in a coconut: H₂O.
@@ -111,7 +111,7 @@ About 99 of every 100 atoms in your body are of just four kinds: hydrogen, oxyge
 
 A formula has two parts. The letters were chosen by people, and they could have been different. The numbers were found by measuring, and nobody could choose them. So is the whole formula a fact, or a tool?
 - e.g. H was chosen for hydrogen. In a different history it might have been a picture or another letter.
-- e.g. The 2 in H₂O was measured. Chemists who wrote HO had to give it up.
+- e.g. Some early chemists wrote water as HO. Measurements showed that the 2 was needed, so they had to give up HO and write H₂O.
 - **Most working chemists:** A formula is a fact about nature, written in agreed symbols. Water really has two hydrogen atoms for each oxygen atom. Any careful person who measures will find the same.
 - **Ernst Mach and Wilhelm Ostwald, two scientists of about 1900:** A formula is a tool for keeping track of measurements. It should not be taken as a picture of hidden things. Ostwald changed his mind a few years later, after experiments made the case for atoms much stronger.
 - **A third view:** Both are partly right. A formula is a human way of writing, and what it writes down is real. It also leaves out a great deal, such as the arrangement of the atoms.
@@ -178,11 +178,11 @@ People have given salt hundreds of names, and each name belongs to one language.
 ## Deep and big questions
 - *deep:* People chose the letter H for hydrogen. Could they also have chosen the number in H₂O? (hint: Think about Count the Drops. Could you have chosen how many drops the lemon juice used up?)
 - *deep:* Water has thousands of names and one formula. Is any of them its real name? (hint: Was water any different before people had a word for it?)
-- *deep:* One molecule of H₂O is not wet and cannot be poured. How many molecules does it take to make water? (hint: Is one grain of sand a heap? Are two?)
+- *deep:* One molecule of H₂O is not wet and cannot be poured. How many molecules does it take to make water? (hint: Think of a heap of sand. One grain is not a heap, and neither are two. Somewhere between a few grains and a lot, it becomes a heap. Is water like that?)
 - *deep:* Glucose and fructose have the same formula and are different sugars. What else might a formula be leaving out? (hint: A list of the people in a family does not say who is whose mother.)
 - *big:* Of 118 elements, only two are named after women: curium and meitnerium. Who gets to name things, and is that fair? (hint: Curium honours Marie and Pierre Curie. Meitnerium honours Lise Meitner. Who decided on the other names?)
 - *big:* The same symbols write a rock, a river, a mango and you. Does that make you more like a rock than you thought? (hint: About 99 of every 100 atoms in your body are hydrogen, oxygen, carbon or nitrogen.)
-- *big:* Children in every country learn the same chemical symbols. What else would be easier if the whole world wrote it the same way? (hint: Think about numbers, music notes and road signs. What would be lost?)
+- *big:* Children in every country learn the same chemical symbols. What else would be easier if the whole world wrote it the same way? (hint: Think about numbers, music notes and road signs. Which of them are written the same way in every country?)
 
 ## Story: The Sack with the H
 *Yazhini, Kokila Periamma, Nila Akka, Bablu and the shop are made up. These facts are real. Burrabazar is a large wholesale market in Kolkata. Bengali letters hang from a line along the top. Many Tamil speakers call baking soda soda uppu, and many Bengali speakers call it khabar soda. Nun is a Bengali word for salt. Baking soda is NaHCO₃. Washing soda, also sold as soda ash, is Na₂CO₃. Factory sacks usually print the chemical name. Only some of them print the formula as well.*
@@ -289,7 +289,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
   *Parent says:* Look at the formula. Read it one symbol at a time. Say which atoms it has and how many. Then try to name the substance.  
   *Child mode:* Read the formula one symbol at a time. Say the atoms. Then name it.
   - Ask: This symbol has no small number after it. How many atoms of that kind are there? (good: One.; No number means one atom.)
-  - Note: The most common slip is reading Cl as carbon and something else, or reading CO as cobalt. Point to the capital letters. Every capital letter starts a new symbol.
+  - Note: A common slip is to read Cl as the two symbols C and l. Another is to read CO as the metal cobalt, Co. Point to the capital letters. Every capital letter starts a new symbol.
 - **s3 (7 min)**  
   *Parent does:* Play the last ten cards the same way. Keep the score on a piece of paper.  
   *Parent says:* Ten more cards. Some formulas are long. Take them one symbol at a time, as before.  
@@ -361,7 +361,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
   *Child mode:* Say what you thought would happen. Say what you found. Say why it happened.
   - Ask: Glass 2 held twice as much lemon juice as glass 1. What happened to the number of drops? (good: It was about twice as many.; It nearly doubled.; Three teaspoons took about three times as many.)
   - Ask: Why do you think the numbers go up in equal steps? (good: Each bit of lemon juice can clear only so much iodine.; More juice has more of whatever clears the iodine.; They react in a fixed amount.)
-  - Note: Usually 2 teaspoons clear about twice as many drops as 1 teaspoon. 3 teaspoons clear about three times as many. A count may be 1 or 2 drops out, because the end is hard to judge. Write down what you really found. The reason: lemon juice holds vitamin C. Its formula is C₆H₈O₆. Iodine goes about as molecules of two atoms, I₂. One vitamin C molecule changes exactly one iodine molecule into something with no colour. It can do this only once. So twice as many vitamin C molecules clear twice as many iodine molecules. Substances always react in fixed counts like this. That is why a formula can carry fixed numbers.
+  - Note: Usually 2 teaspoons clear about twice as many drops as 1 teaspoon. 3 teaspoons clear about three times as many. A count may be 1 or 2 drops out, because the end is hard to judge. Write down what you really found. The reason: lemon juice holds vitamin C. Its formula is C₆H₈O₆. Iodine comes as molecules of two atoms, I₂. One vitamin C molecule changes exactly one iodine molecule into something with no colour. It can do this only once. So twice as many vitamin C molecules clear twice as many iodine molecules. Substances always react in fixed counts like this. That is why a formula can carry fixed numbers.
   - Think: A lemon from another tree may clear more drops, or fewer. Would 2 teaspoons of its juice still clear twice as many drops as 1 teaspoon?
 ### e2 · Water from a Dry Powder: which white powder can give off water? (25 min)
 - **question:** Salt and baking soda are both dry white powders. The formula of salt is NaCl. The formula of baking soda is NaHCO₃. If each is heated, will either of them give off water?
@@ -712,7 +712,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 ## Questions to ask kids
 - How many names do we know for water? Which one would a child in Brazil understand?
 - This packet says sodium chloride. What do we call that at home?
-- You just breathed out. Which two formulas left your mouth?
+- You just breathed out. Name two substances that left your mouth, and say what the formula of each one is.
 - If you had to label the kitchen jars for a visitor from Japan, what would you write?
 - The bubbles in this soda are CO₂. How many atoms are in each molecule?
 - Which is the longest chemical name on this toothpaste tube? Which elements can you hear in it?

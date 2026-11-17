@@ -118,7 +118,7 @@
    "concept": "A reaction is a meeting of particles",
    "status": "defined",
    "definition": "A chemical reaction happens when particles of different substances meet and rearrange into new substances.",
-   "description": "Dry fruit salt can sit in a sachet for months. Its two powders, baking soda and citric acid, are side by side but locked in dry grains. Add water, and the powders dissolve. Their particles are now free to move and meet. When a baking soda particle meets a citric acid particle in the right way, they rearrange into new particles. One of the new substances is carbon dioxide gas, and that is the fizz. So a reaction is something that happens between substances, not inside one of them. If the particles never meet, nothing happens. This is why 'how fast' always means 'how often and how well do the particles meet?'",
+   "description": "Dry fruit salt can sit in a sachet for months. Its two powders, baking soda and citric acid, are side by side but locked in dry grains. Add water, and the powders dissolve. Their particles are now free to move and meet. When a baking soda particle meets a citric acid particle in the right way, they rearrange into new particles. One of the new substances is carbon dioxide gas, and that is the fizz. So a reaction is something that happens between substances, not inside one of them. If the particles never meet, nothing happens. So when we ask how fast a reaction goes, we are really asking how often the particles meet, and how well they meet.",
    "examples": [
     "Dry fruit salt in a sachet does nothing. In water, it fizzes within seconds.",
     "A steel grill in a dry cupboard rusts very slowly. On a wet balcony it rusts faster, because water and oxygen reach the iron.",
@@ -133,9 +133,9 @@
    "definition": "The rate of a reaction is how much new substance it makes, or how much old substance it uses up, in a given time.",
    "description": "Chemists measure rate with a clock. They might time how long bubbles last, how much gas fills a balloon in a minute, or how quickly a colour fades. A reaction that makes a lot of product in a short time has a high rate. A reaction that takes a year to make a little rust has a low rate. Rates cover an enormous range. A spark in a cracker finishes in a thousandth of a second. A diamond turning into graphite is so slow that nobody has ever seen it happen. The same ideas work all the way along this range.",
    "examples": [
-    "Fruit salt in warm water: a high rate, over in about 15 seconds.",
-    "An iron gate rusting: a low rate, visible only after months.",
-    "A banana skin spotting: a middle rate, over a few days."
+    "Fruit salt in warm water has a high rate. The fizz is over in about 15 seconds.",
+    "An iron gate rusting has a low rate. You can see the change only after months.",
+    "A banana skin spotting has a middle rate. It takes a few days."
    ],
    "art": "A long line from 'a cracker bang' on the left to 'diamond becoming graphite' on the right, with a kitchen fizz and a rusting gate placed along it.",
    "perspectives": []
@@ -183,7 +183,7 @@
    "concept": "Smaller pieces mean more surface and faster reactions",
    "status": "defined",
    "definition": "A solid can only react where it touches the other substance. Cutting it into small pieces gives it more surface area, so it reacts faster.",
-   "description": "A cube with sides of 2 centimetres has six faces, each 4 square centimetres, so its surface area is 24 square centimetres. Cut it into eight small cubes with sides of 1 centimetre, and each has a surface area of 6 square centimetres. Altogether they have 48 square centimetres, double the surface, from the same amount of stuff. More of the solid can now touch the air or the liquid. That is why grated apple browns faster than a chunk, why powdered medicine dissolves faster than a pill, and why a heap of fine flour dust in a mill can explode when a lump of flour cannot. Flour dust has so much surface area that the whole cloud of it burns at once.",
+   "description": "A cube with sides of 2 centimetres has six faces, each 4 square centimetres, so its surface area is 24 square centimetres. Cut it into eight small cubes with sides of 1 centimetre, and each has a surface area of 6 square centimetres. Altogether they have 48 square centimetres, double the surface, from the same amount of material. More of the solid can now touch the air or the liquid. That is why grated apple browns faster than a chunk, why powdered medicine dissolves faster than a pill, and why a heap of fine flour dust in a mill can explode when a lump of flour cannot. Flour dust has so much surface area that the whole cloud of it burns at once.",
    "examples": [
     "Grated apple browns in minutes. A whole apple takes hours.",
     "A lump of jaggery dissolves slowly in water. Powdered jaggery dissolves fast.",
@@ -248,7 +248,7 @@
    "concept": "Some changes are so slow that we never see them",
    "status": "defined",
    "definition": "Every reaction has a rate, but some rates are so low that nothing visible happens in a human lifetime.",
-   "description": "Diamond is made only of carbon. Graphite, the black stuff in a pencil, is also only carbon. At normal air pressure, graphite is the steadier form. So diamond is always very slowly turning into graphite. But the rate is so low that a diamond ring will not change in a million lifetimes. Slow does not mean stopped. It means rare meetings and a very hard job for each one. The Delhi Iron Pillar shows another way to slow things down. Iron really does keep trying to rust. But a thin skin on the pillar keeps most of the water and air away from the iron below, so the rate is very low.",
+   "description": "Diamond is made only of carbon. Graphite, the black material in a pencil, is also only carbon. At normal air pressure, graphite is the steadier form. So diamond is always very slowly turning into graphite. But the rate is so low that a diamond ring will not change in a million lifetimes. Slow does not mean stopped. It means rare meetings and a very hard job for each one. The Delhi Iron Pillar shows another way to slow things down. Iron really does keep trying to rust. But a thin skin on the pillar keeps most of the water and air away from the iron below, so the rate is very low.",
    "examples": [
     "Diamond turning into graphite is too slow to see.",
     "The Delhi Iron Pillar has rusted only a little in about 1,600 years.",
@@ -434,7 +434,7 @@
    "what_is_life": "A living being is a place where particles meet at just the right speed. Enzymes make the useful meetings happen fast, and warmth, food and water keep them going.",
    "what_is_this_world": "From a lit match to a rusting pillar to a slowly shining star, everything changes through meetings. We call a change fast or slow depending on how long we are able to watch it."
   },
-  "thread": "Fruit salt, a pickle jar, an apple and an iron pillar seem to have nothing in common. In each, particles meet and change into something new, and the speed depends on how often and how hard they meet. A flame and a rusting gate are the same kind of change, at very different speeds. Nothing is ever fully still. Things we call stable are only changing very slowly. The world is a vast number of meetings, some quick and some slow, all part of one whole.",
+  "thread": "Fruit salt, a pickle jar, an apple and an iron pillar seem to have nothing in common. In each, particles meet and change into something new, and the speed depends on how often and how hard they meet. A flame and a rusting gate are the same kind of change, at very different speeds. Nothing is ever fully still. Things we call stable are only changing very slowly. Seen this way, the world is full of particles meeting and changing, some quickly and some slowly.",
   "teachings": [
    {
     "source": "Heraclitus, as reported by Plato in Cratylus 402a",
@@ -654,7 +654,7 @@
      "say": "Keep going with the rest of the cards. If players chose different tokens for a card, talk about why before you read the back.",
      "kid": "Play the rest of the cards. Talk about cards where you disagreed.",
      "context": "In this step you play the rest of the cards and talk about any disagreements.",
-     "parent": "Some cards could fit more than one token. A pressure cooker is warmth, but also trapped steam. If a player can give a good reason for a different token, say so, and give a bonus point."
+     "parent": "Some cards could fit more than one token. A pressure cooker works mainly through warmth, but trapped steam is part of the reason too. If a player can give a good reason for a different token, say so, and give a bonus point."
     },
     {
      "id": "s4",
@@ -905,7 +905,7 @@
        "So the glasses look the same"
       ],
       "a": 0,
-      "why": "If one glass had more water, the powder would spread out more and take a different time. Keeping the water the same means any difference in time comes from the temperature. A wrong pick usually means the fair test idea is still new, so read the fair test box again."
+      "why": "If one glass had more water, the powder would spread out more and take a different time. Keeping the water the same means any difference in time comes from the temperature. If you chose another answer, read the fair test box again."
      }
     },
     {
@@ -943,7 +943,7 @@
        "42 times"
       ],
       "a": 0,
-      "why": "56 divided by 14 is 4, so the warm glass was 4 times faster. A pick of 42 means subtracting, which gives how many seconds apart they were, not how many times faster."
+      "why": "56 divided by 14 is 4, so the warm glass was 4 times faster. If you chose 42, you subtracted. That tells you how many seconds apart they were, not how many times faster."
      }
     },
     {
@@ -1066,7 +1066,7 @@
        "To eat at the end"
       ],
       "a": 0,
-      "why": "Plate A shows what the apple does on its own. The other plates are each changed in one way, so any difference from A comes from that change. A wrong pick usually means the idea of a control is still new."
+      "why": "Plate A shows what the apple does on its own. The other plates are each changed in one way, so any difference from A comes from that change. If you chose another answer, think again about what a control is for."
      }
     },
     {
@@ -1104,7 +1104,7 @@
        "Grated apple is warmer"
       ],
       "a": 0,
-      "why": "Browning needs the cut surface to meet oxygen from the air. Grating makes many tiny pieces, so far more surface meets the air. A pick of sweeter or warmer is a guess that does not match the test, because the grated apple came from the same apple at the same temperature."
+      "why": "Browning needs the cut surface to meet oxygen from the air. Grating makes many tiny pieces, so far more surface meets the air. If you chose sweeter or warmer, remember that the grated apple came from the same apple and was at the same temperature."
      }
     },
     {
@@ -1217,7 +1217,7 @@
        "What it is made of"
       ],
       "a": 0,
-      "why": "The same amount of acid is spread through 2, 6 or 14 teaspoons of liquid. So the amount stays the same, but the crowding changes. A pick of 'how much' means the amount and the crowding are still being mixed up."
+      "why": "The same amount of acid is spread through 2, 6 or 14 teaspoons of liquid. So the amount stays the same, but the crowding changes. If you chose 'how much of it there is', remember that the amount of acid is the same in all three cups. Only the crowding changes."
      }
     },
     {
@@ -1406,7 +1406,7 @@
        "It turns into the safer gas"
       ],
       "a": 0,
-      "why": "A catalyst is not used up. The metal in the converter helps again and again, and lasts for years. A pick of used up means a catalyst is still being mixed up with an ordinary ingredient."
+      "why": "A catalyst is not used up. The metal in the converter helps again and again, and lasts for years. If you chose 'used up', you may be thinking of a catalyst as an ordinary ingredient. An ingredient is used up, but a catalyst is not."
      }
     },
     {
@@ -1712,7 +1712,7 @@
       "A solid always turns into a liquid"
      ],
      "a": 0,
-     "why": "A reaction makes new substances, because particles meet and rearrange. Changing shape or state, like ice melting, makes no new substance. A wrong pick often means a change of state is being mixed up with a reaction.",
+     "why": "A reaction makes new substances, because particles meet and rearrange. Changing shape or state, like ice melting, makes no new substance. If you chose another answer, remember that a change of state is not a reaction, because the substance stays the same.",
      "outcome": 0
     },
     {
@@ -1814,7 +1814,7 @@
       "The room glass"
      ],
      "a": 0,
-     "why": "The warm glass has the shortest bar, 15 seconds. A shorter time means a faster reaction. A wrong pick often means a tall bar was read as faster.",
+     "why": "The warm glass has the shortest bar, 15 seconds. A shorter time means a faster reaction. If you chose another glass, remember that a taller bar means more seconds, and that means slower.",
      "outcome": 2,
      "how": "e1",
      "chart": {
@@ -1857,9 +1857,9 @@
     },
     {
      "t": "write",
-     "p": "A heap of fine powder reacts faster than one big lump of the same stuff. Explain why, using the word surface.",
+     "p": "A heap of fine powder reacts faster than one big lump of the same material. Explain why, using the word surface.",
      "lines": 4,
-     "a": "A lump only reacts where its surface touches the other substance. Powder has many tiny pieces, so its total surface is much larger. More of the stuff can meet the other substance at once, so the reaction is faster.",
+     "a": "A lump only reacts where its surface touches the other substance. Powder has many tiny pieces, so its total surface is much larger. More of the material can meet the other substance at once, so the reaction is faster.",
      "why": "A strong answer names the surface, says more of it touches the other substance, and links that to faster reactions. It may also mention the grated apple.",
      "outcome": 1
     },
@@ -1879,7 +1879,7 @@
       "It slows a reaction down"
      ],
      "a": 0,
-     "why": "A catalyst comes out the same as it went in, so it can work again. It is not an ingredient. A pick of slows down means it was mixed up with the idea of a slow-down, such as a fridge.",
+     "why": "A catalyst comes out the same as it went in, so it can work again. It is not an ingredient. If you chose 'slows a reaction down', you may be thinking of a fridge, which slows changes. A catalyst does the opposite.",
      "outcome": 3
     },
     {
@@ -2013,7 +2013,7 @@
       "Enzymes are scrubbed away with the stain"
      ],
      "a": 0,
-     "why": "Enzymes are catalysts. They lower the effort the reaction needs, so the stain breaks down quickly without hot water. A pick of heating the water confuses a catalyst with a heater.",
+     "why": "Enzymes are catalysts. They lower the effort the reaction needs, so the stain breaks down quickly without hot water. If you chose 'heat the water', remember that a catalyst is a helper and not a heater.",
      "outcome": 3
     },
     {
@@ -2087,7 +2087,7 @@
       "The heat cools the apple"
      ],
      "a": 0,
-     "why": "Enzymes are folded chains that fall apart in strong heat. Without the enzyme, the browning reaction is far slower. A wrong pick often means heat is thought to always speed things up.",
+     "why": "Enzymes are folded chains that fall apart in strong heat. Without the enzyme, the browning reaction is far slower. If you chose another answer, remember that heat does not always speed things up. Too much heat can break an enzyme.",
      "outcome": 4
     },
     {
@@ -2121,7 +2121,7 @@
       "Dust is a different substance"
      ],
      "a": 0,
-     "why": "A lump burns only on its outside. Fine dust spreads out in the air, so almost every bit meets oxygen at the same time. A pick of a different substance means surface is not yet linked to rate.",
+     "why": "A lump burns only on its outside. Fine dust spreads out in the air, so almost every bit meets oxygen at the same time. If you chose 'a different substance', remember that dust and a lump are the same substance. The difference is how much surface touches the air.",
      "outcome": 1
     },
     {
@@ -2168,7 +2168,7 @@
       "The glass with no water makes the most gas"
      ],
      "a": 0,
-     "why": "Total gas depends on how much acid there was, not how crowded it was. Crowding changes how fast the gas is made. A wrong pick means speed and amount are being mixed up.",
+     "why": "Total gas depends on how much acid there was, not how crowded it was. Crowding changes how fast the gas is made. If you chose another answer, check that you are not mixing up how fast the gas is made with how much gas is made.",
      "outcome": 1
     },
     {
@@ -2187,7 +2187,7 @@
       "5 grams, because the catalyst uses some"
      ],
      "a": 0,
-     "why": "A catalyst is not an ingredient. It only speeds up the change, and the amount of product depends on the reactants. A pick of 20 means a catalyst is thought to make more stuff.",
+     "why": "A catalyst is not an ingredient. It only speeds up the change, and the amount of product depends on the reactants. If you chose 20 grams, remember that a catalyst does not make more product.",
      "outcome": 3
     },
     {
@@ -2290,7 +2290,7 @@
       "Diamonds are alive and repair themselves"
      ],
      "a": 0,
-     "why": "Slow does not mean stopped. The meetings that would change diamond are extremely rare. A wrong pick means slow and still are being mixed up.",
+     "why": "Slow does not mean stopped. The meetings that would change diamond are extremely rare. If you chose another answer, check that you are not mixing up slow with still.",
      "outcome": 4
     },
     {
@@ -2337,7 +2337,7 @@
     "One must be a liquid"
    ],
    "a": 0,
-   "why": "A reaction is a meeting. Dry fruit salt does nothing until water lets its particles move and meet. A wrong pick often means a property of the substance is mistaken for the cause.",
+   "why": "A reaction is a meeting. Dry fruit salt does nothing until water lets its particles move and meet. If you chose another answer, remember that a colour or a state is not what makes a reaction happen. The meeting is.",
    "outcome": 0
   },
   {
@@ -2430,7 +2430,7 @@
     "The pillar is made of a metal that cannot react"
    ],
    "a": 0,
-   "why": "Scientists found a thin protective skin on the pillar. The iron itself can react, but it rarely meets water and air. A wrong pick treats the iron as magic instead of looking at the meeting.",
+   "why": "Scientists found a thin protective skin on the pillar. The iron itself can react, but it rarely meets water and air. If you chose another answer, remember that the iron is ordinary iron. What matters is whether it meets water and air.",
    "outcome": 6
   },
   {

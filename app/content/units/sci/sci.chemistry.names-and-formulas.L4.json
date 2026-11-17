@@ -67,13 +67,13 @@
   },
   {
    "term": "Hydrogen (H)",
-   "meaning": "The lightest element. As a gas its atoms go about in pairs, written H₂.",
+   "meaning": "The lightest element. As a gas, its atoms come joined in pairs, written H₂.",
    "example": "Every water molecule holds two hydrogen atoms.",
    "art": "Two small white balls joined as a pair, labelled H₂."
   },
   {
    "term": "Oxygen (O)",
-   "meaning": "The element in air that humans and other animals need to breathe. In air its atoms go about in pairs, written O₂.",
+   "meaning": "The element in air that humans and other animals need to breathe. In air, its atoms come joined in pairs, written O₂.",
    "example": "About one fifth of the air in your room is oxygen gas.",
    "art": "Two red balls joined as a pair, labelled O₂, drawn inside an outline of a pair of lungs."
   },
@@ -162,8 +162,8 @@
   {
    "concept": "Elements have formulas too",
    "status": "defined",
-   "definition": "An element's formula shows how its atoms go about. Some go about singly, and some go about in pairs or larger groups.",
-   "description": "Oxygen gas is written O₂, because its atoms go about in pairs. The nitrogen in air is N₂, and hydrogen gas is H₂. Their molecules hold two atoms of the same kind. So a molecule does not have to be a compound. A metal such as gold has no molecules. Its atoms are packed together in one big crystal, so its formula is just Au. The air in your room is mostly two formulas. About four fifths of it is N₂, and about one fifth is O₂. Carbon dioxide is only about 4 molecules in every 10,000.",
+   "definition": "An element's formula shows how its atoms come. Some come as single atoms, and some come joined in pairs or in larger groups.",
+   "description": "Oxygen gas is written O₂, because its atoms come joined in pairs. The nitrogen in air is N₂, and hydrogen gas is H₂. Their molecules hold two atoms of the same kind. So a molecule does not have to be a compound. A metal such as gold has no molecules. Its atoms are packed together in one big crystal, so its formula is just Au. The air in your room is mostly two formulas. About four fifths of it is N₂, and about one fifth is O₂. Carbon dioxide is only about 4 molecules in every 10,000.",
    "examples": [
     "O₂ is the oxygen you breathe: 2 oxygen atoms.",
     "N₂ is nitrogen gas: 2 nitrogen atoms.",
@@ -202,11 +202,11 @@
    "concept": "Why the numbers in a formula are fixed",
    "status": "defined",
    "definition": "Atoms join and react in fixed whole numbers. So a pure compound always has the same proportions, wherever it comes from.",
-   "description": "An atom cannot join with half of another atom. Atoms join one to one, one to two, two to three, and so on. In the experiment Count the Drops, you see what follows from this. Lemon juice holds vitamin C. One molecule of vitamin C changes exactly one molecule of iodine and takes away its colour. So twice as much lemon juice uses up about twice as many drops of iodine. In 1799 the French chemist Joseph Proust showed the same thing by weighing. A copper compound from a mine and the same compound made in his laboratory had the same proportions. Fixed proportions were the first strong clue that substances are made of atoms.",
+   "description": "An atom cannot join with half of another atom. Atoms join one to one, one to two, two to three, and so on. In the experiment Count the Drops, you can see this at work. Lemon juice holds vitamin C. One molecule of vitamin C changes exactly one molecule of iodine and takes away its colour. So twice as much lemon juice uses up about twice as many drops of iodine. In 1799 the French chemist Joseph Proust showed the same thing by weighing. A copper compound from a mine and the same compound made in his laboratory had the same proportions. Fixed proportions were the first strong clue that substances are made of atoms.",
    "examples": [
     "Water always has 2 hydrogen atoms for each oxygen atom.",
     "Twice the lemon juice uses up about twice the iodine.",
-    "A cook can change a recipe. A compound has one recipe only."
+    "A cook can change the amounts in a recipe and still make a dish. A pure compound has only one set of amounts, and it can never change."
    ],
    "perspectives": [],
    "art": "Two glasses of pale liquid, the second holding twice as much lemon juice, with eight drops falling into the first and sixteen into the second."
@@ -254,7 +254,7 @@
    "concept": "Formulas in living bodies, on the Earth and in space",
    "status": "defined",
    "definition": "The same symbols can write every substance yet found, in a living body, in a rock or between the stars.",
-   "description": "About 99 of every 100 atoms in your body are of just four kinds: hydrogen, oxygen, carbon and nitrogen. A plant takes in CO₂ and H₂O and builds glucose, C₆H₁₂O₆. You eat the glucose and breathe out CO₂ and H₂O again. Astronomers read formulas from far away, because each substance takes in its own colours of light. The air of Venus and of Mars is mostly CO₂. In 2009 an instrument on India's Chandrayaan-1 spacecraft found signs of water on the Moon. In 1969 radio telescopes found water molecules in clouds between the stars. In 2022 the James Webb Space Telescope found CO₂ in the air of a planet that orbits another star.",
+   "description": "About 99 of every 100 atoms in your body are of just four kinds: hydrogen, oxygen, carbon and nitrogen. A plant takes in CO₂ and H₂O and builds glucose, C₆H₁₂O₆. You eat the glucose and breathe out CO₂ and H₂O again. Astronomers can tell which substances are far away, because each substance takes in its own colours of light. The air of Venus and of Mars is mostly CO₂. In 2009 an instrument on India's Chandrayaan-1 spacecraft found signs of water on the Moon. In 1969 radio telescopes found water molecules in clouds between the stars. In 2022 the James Webb Space Telescope found CO₂ in the air of a planet that orbits another star.",
    "examples": [
     "Photosynthesis in words: carbon dioxide and water become glucose and oxygen.",
     "The air of Mars is about 95 parts CO₂ in every 100.",
@@ -270,7 +270,7 @@
    "description": "A formula has two parts. The letters were chosen by people, and they could have been different. The numbers were found by measuring, and nobody could choose them. So is the whole formula a fact, or a tool?",
    "examples": [
     "H was chosen for hydrogen. In a different history it might have been a picture or another letter.",
-    "The 2 in H₂O was measured. Chemists who wrote HO had to give it up."
+    "Some early chemists wrote water as HO. Measurements showed that the 2 was needed, so they had to give up HO and write H₂O."
    ],
    "perspectives": [
     {
@@ -380,7 +380,7 @@
   {
    "q": "One molecule of H₂O is not wet and cannot be poured. How many molecules does it take to make water?",
    "kind": "deep",
-   "hint": "Is one grain of sand a heap? Are two?"
+   "hint": "Think of a heap of sand. One grain is not a heap, and neither are two. Somewhere between a few grains and a lot, it becomes a heap. Is water like that?"
   },
   {
    "q": "Glucose and fructose have the same formula and are different sugars. What else might a formula be leaving out?",
@@ -400,7 +400,7 @@
   {
    "q": "Children in every country learn the same chemical symbols. What else would be easier if the whole world wrote it the same way?",
    "kind": "big",
-   "hint": "Think about numbers, music notes and road signs. What would be lost?"
+   "hint": "Think about numbers, music notes and road signs. Which of them are written the same way in every country?"
   }
  ],
  "story": {
@@ -659,7 +659,7 @@
        ]
       }
      ],
-     "parent": "The most common slip is reading Cl as carbon and something else, or reading CO as cobalt. Point to the capital letters. Every capital letter starts a new symbol.",
+     "parent": "A common slip is to read Cl as the two symbols C and l. Another is to read CO as the metal cobalt, Co. Point to the capital letters. Every capital letter starts a new symbol.",
      "context": "In this step of Read It Out you play the first ten formula cards."
     },
     {
@@ -1040,7 +1040,7 @@
        ]
       }
      ],
-     "parent": "Usually 2 teaspoons clear about twice as many drops as 1 teaspoon. 3 teaspoons clear about three times as many. A count may be 1 or 2 drops out, because the end is hard to judge. Write down what you really found. The reason: lemon juice holds vitamin C. Its formula is C₆H₈O₆. Iodine goes about as molecules of two atoms, I₂. One vitamin C molecule changes exactly one iodine molecule into something with no colour. It can do this only once. So twice as many vitamin C molecules clear twice as many iodine molecules. Substances always react in fixed counts like this. That is why a formula can carry fixed numbers.",
+     "parent": "Usually 2 teaspoons clear about twice as many drops as 1 teaspoon. 3 teaspoons clear about three times as many. A count may be 1 or 2 drops out, because the end is hard to judge. Write down what you really found. The reason: lemon juice holds vitamin C. Its formula is C₆H₈O₆. Iodine comes as molecules of two atoms, I₂. One vitamin C molecule changes exactly one iodine molecule into something with no colour. It can do this only once. So twice as many vitamin C molecules clear twice as many iodine molecules. Substances always react in fixed counts like this. That is why a formula can carry fixed numbers.",
      "think": "A lemon from another tree may clear more drops, or fewer. Would 2 teaspoons of its juice still clear twice as many drops as 1 teaspoon?",
      "context": "This is the last step of Count the Drops. You say what your drop counts show about 1, 2 and 3 teaspoons of lemon juice."
     }
@@ -2658,7 +2658,7 @@
  "ask_kids": [
   "How many names do we know for water? Which one would a child in Brazil understand?",
   "This packet says sodium chloride. What do we call that at home?",
-  "You just breathed out. Which two formulas left your mouth?",
+  "You just breathed out. Name two substances that left your mouth, and say what the formula of each one is.",
   "If you had to label the kitchen jars for a visitor from Japan, what would you write?",
   "The bubbles in this soda are CO₂. How many atoms are in each molecule?",
   "Which is the longest chemical name on this toothpaste tube? Which elements can you hear in it?",
@@ -2910,7 +2910,7 @@
    [
     "Oxygen gas is written O₂.",
     true,
-    "Its atoms go about in pairs."
+    "Its atoms come joined in pairs."
    ],
    [
     "Co and CO mean the same thing.",
