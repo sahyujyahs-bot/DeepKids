@@ -1,7 +1,7 @@
 # How plants are grouped: by the way they make new plants
 `sci.plants.plant-variety.L5`
 
-**Summary.** Ferns and mosses never make a flower or a seed, yet new ferns and mosses keep appearing on wet walls. They grow from spores, single cells far too small to see one by one. Scientists group plants by how they make new plants: mosses and ferns make spores, conifers make seeds on cones, and flowering plants make seeds inside fruits. Your child tests how far spores and seeds travel in moving air, builds a key and a family tree of plant groups, and meets what botanists still argue about, such as where flowers came from.
+**Summary.** Ferns and mosses never make a flower or a seed, yet new ferns and mosses keep appearing on wet walls. They grow from spores, single cells far too small to see one by one. Scientists group plants by how they make new plants: mosses and ferns make spores, conifers make seeds on cones, and flowering plants make seeds inside fruits. Your child tests how far spores and seeds travel in moving air, builds a key and a family tree of plant groups, and learns what botanists still argue about, such as where flowers came from.
 
 **Intro.** *Look under the leaf of a fern, if you can find one in a pot or on an old wall. You may see rows of brown dots. A fern never makes a flower, a fruit or a seed. So how does a new fern grow?* The brown dots are packets of spores. A spore is a single cell, much smaller than a grain of sugar. When the packets dry, they burst and throw the spores into the air. If one lands somewhere damp, a new fern can grow. Mosses do the same. Pine trees and deodars make seeds, but on cones, not in fruits. Most plants you know, from rice to the neem tree, make seeds inside fruits. In this unit you find out why these differences matter so much that scientists use them to group all plants.
 
@@ -36,7 +36,7 @@
 ### The four big groups of land plants · *defined*
 **Definition:** Land plants fall into four big groups by how they make new plants and whether they have veins. Mosses (and their relatives the liverworts and hornworts) have no stiff veins and make spores. Ferns have veins and make spores. Conifers and cycads have veins and make naked seeds on cones. Flowering plants have veins and make seeds inside fruits.
 
-A key with three questions sorts almost any plant. Does the plant have flowers? Then the plant is a flowering plant. If not, does it make cones? Then the plant is probably a conifer or a cycad. If not, does it have veins? Then the plant is a fern. Small, soft and without veins? Then the plant is a moss or one of their relatives. The groups are not equal in size. About 9 in every 10 kinds of plant alive today are flowering plants. There are about 12,000 kinds of moss, about 10,500 kinds of fern and only about 600 kinds of conifer.
+A key with three questions sorts almost any plant. Does the plant have flowers? Then the plant is a flowering plant. If not, does the plant make cones? Then the plant is probably a conifer or a cycad. If not, does the plant have veins? Then the plant is a fern. If the plant is small and soft and has no veins, the plant is a moss or one of the mosses' relatives. The groups are not equal in size. About 9 in every 10 kinds of plant alive today are flowering plants. There are about 12,000 kinds of moss, about 10,500 kinds of fern and only about 600 kinds of conifer.
 - e.g. Flowering: tulsi, rice, lotus, the banyan tree (their tiny flowers are hidden inside the figs)
 - e.g. Conifers and cycads: deodar, chir pine, the Khasi pine, the 'Christmas tree' (Araucaria) in many building gardens, and the cycad palm-like plant in hotel gardens
 - e.g. Ferns: maidenhair fern on wet walls, Azolla floating on rice fields, the dhekia fern eaten as a vegetable in Assam
@@ -55,7 +55,7 @@ In a tree, water climbs inside narrow tubes with stiff walls. A moss has no such
 - e.g. In the Mumbai monsoon, walls turn green with moss. In April, the same moss looks brown and dry, and turns green again with the first rain.
 - e.g. Ferns grow tall in the wet forests of the Western Ghats, where tree ferns can be several metres high.
 - e.g. A deodar can grow 50 metres tall on a dry Himalayan slope, because its veins carry water up and its pollen travels by wind.
-- **Many plant scientists:** A moss reviving after rain is a set of chemical responses in their cells. They prefer not to call it sensing or deciding.
+- **Many plant scientists:** When a moss revives after rain, that is a set of chemical responses in the moss's cells. These scientists prefer not to call it sensing or deciding.
 - **Scientists who study plant behaviour:** A moss senses drying, prepares for dry days and recovers when water returns. That is sensing and responding, which is what a mind does in every living being.
 ### How scientists group plants · *defined*
 **Definition:** Botanists group plants so that each group is a family of relatives, all coming from one shared ancestor. They use body features, such as veins, seeds and flowers, and, since the 1990s, the plant's DNA.
@@ -88,7 +88,7 @@ Older textbooks called mosses and ferns 'lower plants' and flowering plants 'hig
 - About 9 in every 10 kinds of plant alive today are flowering plants. *How we know:* Botanists have named about 295,000 flowering plants, compared with about 12,000 mosses, about 10,500 ferns and about 1,000 conifers, cycads and their relatives together.
 
 ## How we found out
-**Carl Linnaeus, a Swedish botanist; Wilhelm Hofmeister, a German botanist who taught himself, 1753 (Linnaeus), the 1840s (fern spores watched as they grew) and 1851 (Hofmeister).** In 1753 the Swedish botanist Carl Linnaeus sorted plants by counting the parts of their flowers. Ferns, mosses, algae and fungi had no flowers to count, so he put them all into one group. He called it Cryptogamia, 'hidden marriage', because nobody knew how they made new plants. In Europe, many people still believed ferns had invisible seeds. In the 1840s, botanists watched fern spores grow into tiny heart-shaped plants. Then a young man in Leipzig, Wilhelm Hofmeister, studied mosses, ferns and conifers under his microscope. He had never been to university. He worked in his father's music shop and studied plants in his spare time. In 1851 he published a book showing that mosses, ferns and conifers all follow one pattern. Each life has a spore-making stage and an egg-and-sperm stage. In conifers the second stage is hidden inside the cone and the pollen. So the 'hidden' plants were not a separate world. They were relatives of the seed plants, with the same plan of life. The University of Rostock gave him an honorary doctorate, and in 1863 he became a professor.  
+**Carl Linnaeus, a Swedish botanist; Jane Colden, who used his method in New York; Wilhelm Hofmeister, a German botanist who taught himself, 1753 (Linnaeus), the 1840s (fern spores watched as they grew) and 1851 (Hofmeister).** In 1753 the Swedish botanist Carl Linnaeus sorted plants by counting the parts of their flowers. In the 1750s, Jane Colden, often called America's first woman botanist, used his method on over 300 plants in New York. Ferns, mosses, algae and fungi had no flowers to count, so he put them all into one group. He called it Cryptogamia, 'hidden marriage', because nobody knew how they made new plants. In Europe, many people still believed ferns had invisible seeds. In the 1840s, botanists watched fern spores grow into tiny heart-shaped plants. Then a young man in Leipzig, Wilhelm Hofmeister, studied mosses, ferns and conifers under his microscope. He had never been to university. He worked in his father's music shop and studied plants in his spare time. In 1851 he published a book showing that mosses, ferns and conifers all follow one pattern. The life of each of these plants has two stages: one that makes spores, and one that makes eggs and sperm. In conifers the second stage is hidden inside the cone and the pollen. So the 'hidden' plants were not a separate world. They were relatives of the seed plants, with the same plan of life.  
 *What people believed before:* That ferns and mosses were a separate, mysterious kind of plant with hidden or invisible seeds. Hofmeister showed that they follow the same pattern of life as conifers, only without seeds.
 
 ## Challenging perspectives
@@ -97,7 +97,7 @@ Older textbooks called mosses and ferns 'lower plants' and flowering plants 'hig
   Against: In the 1800s, botanists watched spores fall from the sori, grow into tiny heart-shaped plants, and then into new ferns. There is no seed at all.
 - **Mosses, liverworts and hornworts form one natural family of relatives.** (Many botanists, using DNA studies since about 2018; *debated*)  
   For: Large DNA studies now mostly place these three groups together on one branch, next to the branch with all the plants that have veins.  
-  Against: For decades, other DNA studies placed them as separate steps, one after another, below the plants with veins. Some scientists still think the question is not fully settled.
+  Against: For decades, other DNA studies placed the three groups on separate branches, one after another, below the plants with veins. Some scientists still think the question is not fully settled.
 - **Glossopteris fossils show that India, Africa, South America, Antarctica and Australia were once joined.** (Alfred Wegener (1915), and many geologists later; *accepted*)  
   For: Glossopteris was a seed plant with tongue-shaped leaves. Their fossils are found in India, Africa, South America, Antarctica and Australia. Their seeds were too heavy to cross oceans.  
   Against: For about 40 years, most geologists rejected the idea, because nobody knew how continents could move. In the 1960s, sea-floor studies showed how. Today this is accepted.
@@ -112,11 +112,11 @@ Older textbooks called mosses and ferns 'lower plants' and flowering plants 'hig
 We have learned how mosses, ferns, conifers and flowering plants make new plants, and how scientists group them. Now we ask what this tells us about ourselves and the world.
 
 **Deep truth.** In the fan test, the haldi dust drifted far, but the mustard seeds dropped close to the fan. A fern's spore is one tiny cell, so the wind carries spores far. A seed holds a young plant and a food store, so seeds are heavier and land nearer. In moving air, the lighter a plant's young are, the farther they travel, and the less food they carry.  
-*Habit it breaks:* We call mosses and ferns 'lower plants', as if a spore were a failed seed. But spores and seeds are two different bargains. Spores travel far and cost the parent little each. Seeds travel less far but start their life fed. Neither is the better way everywhere.  
+*Habit it breaks:* We call mosses and ferns 'lower plants', as if a spore were a failed seed. But spores and seeds are two different ways, and each has a cost. A spore travels far and costs the parent plant very little to make, but carries almost no food. A seed travels less far, but starts life with food. Neither way is better everywhere.  
 *Evidence:* In the fan test, haldi as fine as spores spread across the paper track, while mustard fell within a short distance and rajma almost straight down. Orchid seeds, as fine as dust and with almost no food, also travel far, and they need a fungus to feed them before they can sprout.
 
 - *who am i:* You started as one cell too, like a spore. But you were fed by your mother for nine months, more like a seed.
-- *what is life:* Many living beings send their young out into the world. Plants do it in different ways: many light travellers, or a few well-fed ones.
+- *what is life:* Many living beings send their young out into the world. Plants do it in different ways: some send out many light spores, and others send out fewer seeds that carry food.
 - *what is this world:* The air around you carries spores from ferns, mosses and fungi, too small to see. Some of them came from far away.
 
 All land plants came from one kind of green alga, living in fresh water more than 470 million years ago. From that one ancestor came mosses, then plants with veins, then seed plants, then flowering plants. Each new branch kept going alongside the old ones. So the one green ancestor became the many plants around you, from the moss on a wall to the rice on your plate. They are all one family, living in different ways.
@@ -127,14 +127,14 @@ All land plants came from one kind of green alga, living in fresh water more tha
 - Science (debated): DNA studies now mostly place mosses, liverworts and hornworts together on one branch.
 - Science (open): Why flowering plants spread so fast, about 130 million years ago, is still not fully understood.
 - Other view, Some philosophers of biology: The family tree of plants is real, because plants really do have ancestors. But where we cut that tree into named groups is our choice. Nature does not label her branches 'fern' or 'moss'. People do.
-- Practice, Watch the spores in a sunbeam (3 min): Let's make the room a little dark and let one beam of sunlight in. Look at the tiny specks floating in the beam. Most are dust and fibres. The air also carries spores, but each one is too small for us to see. Let's breathe slowly six times and watch the specks. Each spore is a single cell, waiting for somewhere damp.
+- Practice, Watch the specks in a sunbeam (3 min): Let's make the room a little dark and let one beam of sunlight in. Look at the tiny specks floating in the beam. Most are dust and fibres. The air also carries spores, but each one is too small for us to see. Let's breathe slowly six times and watch the specks. Each spore is a single cell that can grow if it lands somewhere damp.
 - Ask: A spore travels far but has no food. A seed has food but stays near. If you were a plant, which would you choose, and why?
 - Ask: If spores are floating in your room right now, why don't ferns grow on your table?
 - Ask: Are the plant groups real, or are they names people made? Can they be both?
 
 ## Deep and big questions
 - *deep:* A spore is one cell, and a fern is millions of cells. How can one tiny cell know how to build a whole fern? (hint: Think about what every cell carries inside, which the parent plant passed on.)
-- *big:* If we sort plants by colour, by use or by family, we get different groups. Which groups are real, and which are made by us? (hint: Try sorting the same six plants three ways. Which way would a plant agree with?)
+- *big:* If we sort plants by colour, by use or by family, we get different groups. Which groups are real, and which are made by us? (hint: Try sorting the same six plants three ways. Which way puts relatives together?)
 - *deep:* Mosses lived on land long before any flower. Why are they still here, if flowering plants are so successful? (hint: Think of a place where a flowering plant could not live, but a moss could.)
 - *big:* The coal burned in India's power stations was once a forest of seed plants without flowers. When we burn coal, what are we really burning? (hint: Where did those plants get the energy they stored in their wood?)
 - *big:* A fern throws their spores into the wind, and almost all of them land where they cannot grow. Is that waste, or is it a good way to live? (hint: Think about how many tries a fern needs to find one damp wall.)
@@ -190,18 +190,18 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 
 - Ask: Why did Arjun think the fern was sick? How did Nila work out that the fern was not?
 - Ask: What was the brown dust on the white paper?
-- Ask: Paati said a seed is like a full tiffin box with a passenger, and a spore is a passenger with none. What did she mean?
+- Ask: Paati said a seed is like a full tiffin box with a small passenger inside, and a spore is a passenger with no tiffin. What did she mean?
 - Ask: Why did the pine cones open in the sun and stay shut in the morning mist?
 - Ask: Why did it take so long for Arjun's fern to grow, and why did a heart shape grow first?
 
 ## Games
 ### g1 · Spore, Cone or Flower? (20 min)
-- **rules:** Shuffle the cards and put them in a pile, plant side up.; On your turn, read the top card aloud. Say which group the plant belongs to, and give one reason.; Turn the card over. If you named the right group and gave a reason, keep the card. If not, put the card on the right space of the mat.; When the pile is finished, the player with the most cards wins.; Playing alone: try to keep all 24, then play again to beat your score.
-- **Printable cards: 24 plant cards to cut out (the group is on the back):** Tulsi: small purple flower spikes at the tips of the stems (back: Flower group. Tulsi makes seeds inside tiny fruits.) [picture]; Coconut palm: grows along the coasts of Kerala and Goa (back: Flower group. The coconut is a fruit with one huge seed inside.) [picture]; Rice: grows in wet fields from Thanjavur to Assam (back: Flower group. Each grain of rice is a fruit with one seed.); Lotus: pink flowers on a village pond (back: Flower group. Lotus seeds form in a flat seed head.) [picture]; Neem: a big shady tree along many Indian roads (back: Flower group. Neem has small white flowers and makes yellow fruits.) [picture]; Banyan: a huge tree with roots hanging from the branches (back: Flower group. Their tiny flowers are hidden inside the figs.) [picture]; Lawn grass: the grass in a building garden (back: Flower group. Leave grass uncut, and the grass grows small flower heads.); Jasmine (malli): white flowers worn in the hair (back: Flower group. Jasmine is known by her flowers; the cultivated kinds seldom set seed.) [picture]; Deodar: a tall tree on the hills around Shimla (back: Cone group. Deodar seeds sit on the scales of upright cones.) [picture]; Chir pine: a pine with long needles in Uttarakhand (back: Cone group. Their winged seeds fly out of open cones.) [picture]; Chilgoza pine: grows in Kinnaur, in Himachal Pradesh (back: Cone group. The pine nuts sold in dry fruit shops are their naked seeds.) [picture]; Khasi pine: the pine trees around Shillong (back: Cone group. A conifer with needles in bunches of three.) [picture]; Christmas tree (Araucaria): a tall tree with flat layers of branches in a building garden (back: Cone group. A conifer, though the tree comes from islands far away.); Morpankhi: a garden shrub with flat, fan-like sprays of scale leaves (back: Cone group. A conifer with small cones.) [picture]; Cycas: looks like a short palm, in hotel gardens and in the Western Ghats (back: Cone group. Not a palm and not a conifer, but a cycad, with big cones.) [picture]; Maidenhair fern: dainty fan-shaped leaflets on a damp wall (back: Spore group. A fern. The spores form under the folded edges of the leaflets.) [picture]; Ladder fern: grows in cracks of old buildings and near drains in cities (back: Spore group. A fern with brown spore lines along the edges of the leaflets.); Boston fern: a bushy fern in a hanging pot (back: Spore group. A fern. Look for brown dots under older fronds.) [picture]; Azolla: tiny floating plants that cover rice fields and ponds, green or red (back: Spore group. A water fern. Farmers in many states grow Azolla to feed the rice and the cattle.) [picture]; Dhekia: curled young fronds cooked as a vegetable in Assam (back: Spore group. A fern. The curled tops are young fronds, not flowers.) [picture]; Tree fern: a fern as tall as a room, in the forests of the Western Ghats (back: Spore group. A fern with a woody trunk and no seeds.) [picture]; Wall moss: green velvet on a wall in the Mumbai monsoon (back: Spore group. A moss. Their spores form in capsules on thin stalks.) [picture]; Sphagnum: a spongy pale-green moss of wet hill bogs (back: Spore group. A moss that soaks up about 20 times their dry weight of water.) [picture]; Marchantia: a flat, shiny green plant on wet soil in nursery pots (back: Spore group. A liverwort, a close relative of the mosses.) [picture]
+- **rules:** Shuffle the cards and put them in a pile, plant side up.; On your turn, read the top card aloud. Say which group the plant belongs to, and give one reason.; Turn the card over. If you named the right group and gave a reason, keep the card. If not, put the card on its correct space on the mat.; When the pile is finished, the player with the most cards wins.; Playing alone: try to keep all 24, then play again to beat your score.
+- **Printable cards: 24 plant cards to cut out (the group is on the back):** Tulsi: small purple flower spikes at the tips of the stems (back: Flower group. Tulsi makes seeds inside tiny fruits.) [picture]; Coconut palm: grows along the coasts of Kerala and Goa (back: Flower group. The coconut is a fruit with one huge seed inside.) [picture]; Rice: grows in wet fields from Thanjavur to Assam (back: Flower group. Each grain of rice is a fruit with one seed.); Lotus: pink flowers on a village pond (back: Flower group. Lotus seeds form in a flat seed head.) [picture]; Neem: a big shady tree along many Indian roads (back: Flower group. Neem has small white flowers and makes yellow fruits.) [picture]; Banyan: a huge tree with roots hanging from the branches (back: Flower group. Their tiny flowers are hidden inside the figs.) [picture]; Lawn grass: the grass in a building garden (back: Flower group. Leave grass uncut, and the grass grows small flower heads.); Jasmine (malli): white flowers worn in the hair (back: Flower group. You can tell jasmine by her flowers. The kinds grown in gardens seldom make seeds.) [picture]; Deodar: a tall tree on the hills around Shimla (back: Cone group. Deodar seeds sit on the scales of upright cones.) [picture]; Chir pine: a pine with long needles in Uttarakhand (back: Cone group. Their winged seeds fly out of open cones.) [picture]; Chilgoza pine: grows in Kinnaur, in Himachal Pradesh (back: Cone group. The pine nuts sold in dry fruit shops are their naked seeds.) [picture]; Khasi pine: the pine trees around Shillong (back: Cone group. A conifer with needles in bunches of three.) [picture]; Christmas tree (Araucaria): a tall tree with flat layers of branches in a building garden (back: Cone group. A conifer, though the tree comes from islands far away.); Morpankhi: a garden shrub with flat, fan-like sprays of scale leaves (back: Cone group. A conifer with small cones.) [picture]; Cycas: looks like a short palm, in hotel gardens and in the Western Ghats (back: Cone group. Not a palm and not a conifer, but a cycad, with big cones.) [picture]; Maidenhair fern: dainty fan-shaped leaflets on a damp wall (back: Spore group. A fern. The spores form under the folded edges of the leaflets.) [picture]; Ladder fern: grows in cracks of old buildings and near drains in cities (back: Spore group. A fern with brown spore lines along the edges of the leaflets.); Boston fern: a bushy fern in a hanging pot (back: Spore group. A fern. Look for brown dots under older fronds.) [picture]; Azolla: tiny floating plants that cover rice fields and ponds, green or red (back: Spore group. A water fern. Farmers in many states grow Azolla to feed the rice and the cattle.) [picture]; Dhekia: curled young fronds cooked as a vegetable in Assam (back: Spore group. A fern. The curled tops are young fronds, not flowers.) [picture]; Tree fern: a fern as tall as a room, in the forests of the Western Ghats (back: Spore group. A fern with a woody trunk and no seeds.) [picture]; Wall moss: green velvet on a wall in the Mumbai monsoon (back: Spore group. A moss. Their spores form in capsules on thin stalks.) [picture]; Sphagnum: a spongy pale-green moss of wet hill bogs (back: Spore group. A moss that soaks up about 20 times their dry weight of water.) [picture]; Marchantia: a flat, shiny green plant on wet soil in nursery pots (back: Spore group. A liverwort, a close relative of the mosses.) [picture]
 - **Printable board: A mat with three spaces:** Space 1: SPORES (mosses and ferns); Space 2: CONES (conifers and cycads); Space 3: FLOWERS (flowering plants)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 24 cards and the mat. 2. Shuffle the cards. 3. Put them in a pile, plant side up.  
-  *Parent says:* Every plant makes new plants in one of three ways. Spores, seeds on cones, or seeds in fruits. Let's see if we can tell which.  
+  *Parent says:* Every plant makes new plants in one of three ways: spores, seeds on cones, or seeds in fruits. Let's see if we can tell which.  
   *Child mode:* Cut out the cards and the mat. Mix the cards. Put them in a pile.
 - **s2 (12 min)**  
   *Parent does:* 1. Take turns to read the top card. 2. Say the group and one reason. 3. Turn the card over to check.  
@@ -231,7 +231,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Parent does:* 1. Count the questions in your best round. 2. Halve 16 again and again until you reach 1, and count the halvings.  
   *Parent says:* Each good question cuts the cards in half. How many halvings does it take to get from 16 cards to one?  
   *Child mode:* Count the questions in your best round. Halve 16 until you reach 1. How many halvings was that?
-  - Check: Every question cuts the cards exactly in half. What is the fewest yes-or-no questions that always finds one card out of 16? → **4**
+  - Check: Suppose every question cuts the cards exactly in half. How many yes-or-no questions do you need to get from 16 cards to one? → **4**
 
 ## Experiments
 ### e1 · The Fan Test: do spores or seeds travel farther? (35 min)
@@ -239,7 +239,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - **predict:** Guess first. You will drop haldi powder, mustard seeds and a rajma bean in front of a fan. Which will land farthest from where you dropped them? Which will land closest? Why do you think so? Write your guess and your reason.
 - **fair test:** Drop everything from the same height, level with the middle of the fan, at the same spot just in front of it. Keep the fan at the same speed and in the same place. Only the thing you drop changes. Drop each one 3 times, because one try can be a fluke.
 - **safety:** Use only a pinch of haldi, and the fan's lowest speed. Keep faces out of the powder cloud, and never blow powder at anyone. Haldi stains clothes and floors, so keep it on the paper.
-- **record:** Fill in the table, then draw a bar chart with one bar for each thing you dropped. Write one sentence for your claim, one for your evidence and one for your reasoning.
+- **record:** Fill in the table, then draw a bar chart with one bar for each thing you dropped. Write one sentence saying what you found (your claim), one giving the numbers that show it (your evidence) and one saying why you think it happened (your reasoning).
 - **results table:** What we dropped | Try 1: farthest it landed (cm) | Try 2 (cm) | Try 3 (cm) | Average (cm)
 - **s1 (6 min)**  
   *Parent does:* 1. Put the fan on a table or stool at one end of a clear floor, blowing straight across the room. 2. Lay the sheets of paper end to end on the floor in a straight line, about 2.5 metres long. Start under the spot 30 cm in front of the fan. 3. With the pencil, mark the edge of the paper every 25 cm from the start. 4. Set the fan to its lowest speed.  
@@ -250,15 +250,15 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Parent does:* 1. Show your child the haldi, the mustard and the rajma. 2. Ask for a guess and a reason for each. 3. Write the guesses down.  
   *Parent says:* Which of these will travel farthest in the wind from the fan? Which will land closest? Why do you think so?  
   *Child mode:* Look at the haldi, the mustard and the rajma. Which will go farthest? Why? Write your guess.
-  - Ask: Why do you think so? (good: The haldi is lighter, so the wind can push it more easily.; The rajma is heavy, so the bean falls fast before the wind can push them.)
+  - Ask: Why do you think so? (good: The haldi is lighter, so the wind can push it more easily.; The rajma is heavy and falls fast, before the wind can push the bean far.)
 - **s3 (4 min)**  
-  *Parent does:* 1. Hold one rajma bean level with the middle of the fan, at the drop spot. 2. Let go without throwing. 3. Measure where the bean first landed, before rolling, if you can see. 4. Do this 3 times and write each distance in the table.  
+  *Parent does:* 1. Hold one rajma bean level with the middle of the fan, at the drop spot. 2. Let go without throwing. 3. Measure to the spot where the bean first hit the paper, not where the bean rolled to. 4. Do this 3 times and write each distance in the table.  
   *Parent says:* Hold your hand at the drop spot, level with the middle of the fan. Just open your fingers. Don't throw.  
   *Child mode:* Hold one rajma at the drop spot, level with the fan's middle. Let go. Where did it land? Do it 3 times.
   - Note: If a bean rolls, measure where the bean first hit the paper. Watching carefully is part of the test.
 - **s4 (5 min)**  
   *Parent does:* 1. Hold 3 or 4 mustard seeds at the same height. 2. Let them fall. 3. Measure to the seed that landed farthest. 4. Do this 3 times and write each distance in the table.  
-  *Parent says:* Now the mustard seeds. Same height, same spot. Watch where they land.  
+  *Parent says:* Now drop the mustard seeds from the same height and the same spot. Watch where they land.  
   *Child mode:* Drop a few mustard seeds from the same height. Find the one that went farthest. Measure. Do it 3 times.
 - **s5 (6 min) · grown-up needed**  
   *Parent does:* 1. Take a small pinch of haldi between your finger and thumb. 2. Hold it at the same height and rub your fingers gently, so it falls as a cloud. 3. Wait until the cloud settles, about one minute. 4. Look along the paper for the farthest yellow you can see, and measure. 5. Do this 3 times.  
@@ -267,12 +267,12 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   - Ask: What did the haldi do that the seeds did not? (good: It floated in the air for a while.; It spread out along the paper instead of landing in one spot.; Some of it went past the end of the track.)
   - Note: Some haldi may float past the end of the track. If so, write 'more than 250 cm'. The faint yellow is easier to see if you look along the paper from low down, near the floor.
 - **s6 (5 min)**  
-  *Parent does:* 1. Ask your child to choose one more thing to test, such as til, jeera, sooji or a wisp of cotton. 2. Ask them to predict where it fits among the three results. 3. Test it 3 times in the same way.  
+  *Parent does:* 1. Ask your child to choose one more thing to test, such as til, jeera, sooji or a wisp of cotton. 2. Ask them to guess whether it will land nearer or farther than the haldi, the mustard and the rajma. 3. Test it 3 times in the same way.  
   *Parent says:* Now you design part of the test. Choose one more thing. Where do you think it will land, compared with the others? Why?  
   *Child mode:* Choose one more thing to test. Guess where it will land. Say why. Test it 3 times.
   - Note: This is your child's own investigation. Ask them which things must stay the same for it to be fair: the height, the spot and the fan speed.
 - **s7 (6 min)**  
-  *Parent does:* 1. Work out the average for each thing: add the three distances and divide by 3. 2. Draw a bar chart. 3. Say a claim, the evidence and the reasoning.  
+  *Parent does:* 1. Work out the average for each thing: add the three distances and divide by 3. 2. Draw a bar chart. 3. Say what you found (your claim), which numbers show it (your evidence) and why you think it happened (your reasoning).  
   *Parent says:* What did we find? Tell me your claim, the evidence from our numbers, and why you think it happened.  
   *Child mode:* Add your three numbers. Divide by 3. Draw a bar for each thing. Say what you found and why.
   - Ask: A fern spore is about as fine as haldi. What does our test tell us about how ferns spread? (good: The wind can carry fern spores far away.; That is how ferns can appear on a wall far from any other fern.)
@@ -339,7 +339,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Parent says:* A rajma seed grew inside a pod, which is the fruit. A chilgoza grew on a pine cone with no fruit at all.  
   *Child mode:* Split the soft rajma. Find the tiny plant inside. A chilgoza grew on a cone, with no fruit.
 - **s3 (3 min)**  
-  *Parent does:* 1. Line up a rajma, a mustard seed and a dhania seed, biggest to smallest. 2. Say that a fern spore is far smaller than all three. Ask what it can have inside. 3. Write your child's guess to compare with the Fan Test.  
+  *Parent does:* 1. Line up a rajma, a mustard seed and a dhania seed, biggest to smallest. 2. Say that a fern spore is far smaller than all three. Ask what could fit inside a spore. 3. Write down your child's guess, so you can compare it with the results of the Fan Test.  
   *Parent says:* A fern spore is much smaller than the smallest of these. What could fit inside something so small, and what could not?  
   *Child mode:* A fern spore is smaller than all of these. What could fit inside it? What could not? Write your guess.
   - Ask: What could a spore not have room for? (good: A young plant and a store of food.; A tough coat made of many cells.)
@@ -356,7 +356,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   - Ask: Which plant was hardest to sort, and why? (good: The banyan, because the flowers are hidden in the figs.; Cycas, because they look like a palm.)
 - **s3 (8 min)**  
   *Parent does:* 1. Ask your child to make a new key for the same plants. It should start with a different question, such as 'Does the plant make seeds?'. 2. Test it on every card. 3. Check that each plant still ends up in their group.  
-  *Parent says:* Can you make a key that starts with a different question? Does the plant still sort every plant correctly?  
+  *Parent says:* Can you make a key that starts with a different question? Does your key still sort every plant correctly?  
   *Child mode:* Make your own key. Start with a new question. Test it on every card.
   - Note: A strong key asks about features that every plant either has or lacks, such as seeds or veins. Questions like 'Is the plant big?' fail, because 'big' means different things to different people.
   - Check: Which question is best for a key? → **Does the plant make seeds?**
@@ -373,7 +373,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   - Ask: Which two are the closest relatives in your tree? (good: The pine and the mango, because both make seeds.; They share the most features.)
 - **s3 (5 min)**  
   *Parent does:* 1. Ask whether the moss is the 'ancestor' of the fern. 2. Point out that the moss on your wall today is a cousin, not a grandparent.  
-  *Parent says:* Is the moss alive today the great-grandmother of the fern? Or are they cousins?  
+  *Parent says:* Is the moss that is alive today the great-grandmother of the fern? Or are the moss and the fern cousins?  
   *Child mode:* Is today's moss the fern's grandmother? Or their cousin? Why?
   - Note: Living mosses and living ferns share an ancestor that lived long ago, but neither came from the other. Both have kept changing since. This is why a family tree has living plants only at the tips.
   - Check: On the family tree, why are the pine and the mango on one branch? → **They both make seeds**
@@ -397,7 +397,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   *Parent says:* Which will hold more water, the moss or the soil? Why do you think so?  
   *Child mode:* Guess which holds more water. Say why. Put the moss in a strainer and push it into one tumbler. Do the same with the soil. Wait. Lift each out and let it drip.
 - **s2 (5 min)**  
-  *Parent does:* 1. Pour what is left in each tumbler into the measuring cup. 2. Take it away from 200 ml to find what each one held.  
+  *Parent does:* 1. Pour the water that is left in each tumbler into the measuring cup. 2. Take that amount away from 200 ml. The answer is how much water the moss or the soil held.  
   *Parent says:* If 140 ml is left, then the moss held 60 ml. Let's find out.  
   *Child mode:* Measure what is left. Take it away from 200. That is what each one held.
 - **s3 (5 min)**  
@@ -434,7 +434,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 ## Projects
 ### p1 · The Green Jar: do spores come from the air? (40 min, 28 days)
 - **safety:** A grown-up pours the boiling water into the steel bowl, not into a glass jar, because hot water can crack glass. Wait until the soil is cool. Once something grows, do not open the jars or sniff them. Mould can bother people with asthma or allergies, so look through the glass.
-- **record:** Draw both jars every week. Write a claim, the evidence and your reasoning at the end.
+- **record:** Draw both jars every week. At the end, write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).
 - **schedule:** day 1: A grown-up pours boiling water over the soil in a steel bowl, covers it and lets it cool. Spoon the damp soil into both jars. Close jar B at once. Leave jar A open by the window all day, then close it. (15 min); day 7: Look at both jars through the glass, with a lens or phone zoom. Note any green or white patches. (5 min); day 14: Look again and draw what you see. (5 min); day 21: Look again. Measure any green patch. (5 min); day 28: Compare the two jars and write a conclusion. (10 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts the soil in a steel bowl and pours boiling water over it, then covers the bowl with a plate. 2. When the soil is cool, spoon it into both jars, damp but not dripping. 3. Close jar B at once. 4. Leave jar A open by the window all day, then close it.  
@@ -448,16 +448,16 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
   - Note: Over 2 to 4 weeks, a green film of algae or young moss, or white fluffy mould, often appears. Mould is a fungus, which also grows from spores. If nothing grows in either jar, that is a real result too: say so.
   - Wait: Look again in 7 days
 - **s3 (10 min)**  
-  *Parent does:* 1. Compare the jars on day 28. 2. Write a claim, the evidence and your reasoning.  
-  *Parent says:* What did the open jar catch that the covered jar did not? What does that tell us about the air?  
+  *Parent does:* 1. Compare the jars on day 28. 2. Write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).  
+  *Parent says:* What did jar A, the open jar, catch that jar B, the closed jar, did not? What does that tell us about the air?  
   *Child mode:* Compare the jars. What grew in each? What does that tell you about the air?
   - Ask: Where did the green come from? (good: From spores that floated in from the air.; Moss or algae spores landed on the open soil.)
 
 ## Challenges
 ### c1 · A Seed That Flies and Still Carries Food (30 min)
-- **problem:** Use a kabuli chana as your seed, with the food store inside. Add a design that makes the chana land as far as possible from the drop spot in front of the fan.
+- **problem:** Use a kabuli chana as your heavy seed, with a food store inside. Add something to the chana that makes the chana land as far as possible from the drop spot in front of the fan.
 - **your turn:** Now design your own flying seed. Draw it, build it and test it 3 times. Did it beat the bare chana? By how many centimetres?
-- **constraints:** The chana must stay attached and must not be cut.; Use only paper, thread, tape and cotton from home.; Drop the chana from the same height and spot as in the Fan Test (level with the middle of the fan), with the fan on its lowest speed.
+- **constraints:** The chana must stay attached to your design, and you must not cut the chana.; Use only paper, thread, tape and cotton from home.; Drop the chana from the same height and spot as in the Fan Test (level with the middle of the fan), with the fan on its lowest speed.
 - **general:** Add one paper wing, like a pine seed, so the seed spins while falling.; Add a cotton tuft on top, like the silky hairs on aak (madar) seeds.; Tape the chana under a small paper parachute.
 - **creative:** Make a flat, wide paper disc that glides like a frisbee.; Try two small wings instead of one large one, and compare.; Wrap the chana in a light paper cone, like a shuttlecock.
 - **s1 (5 min)**  
@@ -494,7 +494,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 1. (mcq) Which of these plants makes spores, not seeds?  
    Options: A mango tree / A maidenhair fern / A deodar tree / A rice plant  
    **Answer:** A maidenhair fern. *Why:* Ferns make spores. The mango and rice make seeds in fruits, and the deodar makes seeds on cones. Choosing the deodar means thinking 'no flowers means no seeds', but conifers make seeds without flowers.
-2. (truefalse) Pooja, a girl in Class 5 in Pune, says, 'Every plant makes flowers at some time in their life.' Is she right?  
+2. (truefalse) True or false: every plant makes flowers at some time in their life.  
    **Answer:** False. *Why:* False. Mosses, ferns and conifers never make flowers. A strong answer names one, such as a fern or a pine.
 3. (fill) Ferns and mosses make tiny single cells called ____ instead of seeds.  
    **Answer:** ['spores']. *Why:* A spore is one cell that can grow into a new plant. Spores carry almost no food, so they are very light.
@@ -504,7 +504,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
    **Answer:** Spore → one cell that can grow into a new fern or moss; Cone → a part with scales that holds naked seeds or makes pollen; Frond → the leaf of a fern; Rhizoids → thin threads that hold a moss to a wall; Pollen → powder that carries the male cells of a seed plant. *Why:* These words come up all through the unit. A strong answer could give an Indian example of each.
 6. (write) Remember the Fan Test, where you dropped haldi, mustard and rajma in front of a fan. Explain why the haldi landed farthest. Use the word 'light' or 'heavy' in your answer.  
    **Answer:** Each grain of haldi is very small and light, so it falls very slowly. The moving air from the fan has time to carry it a long way before it lands. The rajma is heavy and falls fast, so the air hardly moves the bean.. *Why:* A strong answer links how slowly something falls to how far the air can carry it, and uses evidence from the test.
-7. (mcq) Lakshmi, a girl in Class 5 in Kochi, sees green moss on her wall in the monsoon. In April the same moss looks brown and dry. Why?  
+7. (mcq) Green moss grows on a wall in the monsoon. In April the same moss looks brown and dry. Why?  
    Options: Mosses grow and stay green only when they are wet / Moss turns brown because they are old and dead / Moss is green only in the dark / Someone painted the wall  
    **Answer:** Mosses grow and stay green only when they are wet. *Why:* Mosses have no veins to bring up water, so they need rain and damp air. In dry weather they shut down and turn brown, and they turn green again with the first rain. Choosing 'dead' means not knowing that many mosses can survive drying.
 8. (draw) Draw the underside of a fern frond. Show the brown dots and label 'frond' and 'sorus (spore dots)'.  
@@ -514,12 +514,12 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
    **Answer:** 2. *Why:* The deodar, the chir pine and the chilgoza pine are conifers. The coconut palm is a flowering plant, and the coconut is a fruit.
 10. (truefalse) Grass on a lawn is a flowering plant.  
    **Answer:** True. *Why:* True. Grasses make small flowers without bright petals, because wind carries their pollen. Rice and wheat are grasses too, and each grain is a fruit.
-11. (order) Put the steps of the Fan Test in order.  
+11. (order) These are the steps of a fair test of how far things travel in front of a fan. Put them in order.  
    **Answer:** ['Lay a paper track in front of the fan and mark it every 25 cm', 'Guess which will travel farthest and say why', 'Drop each thing 3 times from the same height', 'Find the averages and draw a bar chart']. *Why:* First set up, then predict, then test fairly, then work out the results.
 12. (label) Label a drawing of a moss plant: leaves, rhizoids, stalk and spore capsule.  
    **Answer:** ['Spore capsule at the top of the stalk', 'Stalk', 'Leaves', 'Rhizoids at the bottom']. *Why:* A moss's spore capsule sits on a thin stalk above the leafy part. The rhizoids hold the moss to the wall.
-13. (perspective) Two friends in Hyderabad argue about spores and seeds.  
-   **Answer:** A strong answer uses the Fan Test: spores travelled far, seeds stayed near. It sees that each way has a cost: spores have no food, seeds travel less far. It agrees with one friend and gives one fair point from the other.. *Why:* There is no single winner. Each way of making new plants suits a different kind of life.
+13. (perspective) Two friends argue about spores and seeds.  
+   **Answer:** A strong answer uses how far things blow: tiny spores travel far, heavy seeds stay near. It sees that each way has a cost: spores have no food, seeds travel less far. It agrees with one friend and gives one fair point from the other.. *Why:* There is no single winner. Each way of making new plants suits a different kind of life.
 14. (mcq) A dhania 'seed' splits into two halves when pressed. What does this show?  
    Options: A dhania 'seed' is really a tiny fruit with two seeds inside / Dhania seeds are broken / Dhania is a fern / Dhania makes spores  
    **Answer:** A dhania 'seed' is really a tiny fruit with two seeds inside. *Why:* Dhania is a flowering plant. What we call a seed is a small dry fruit, and each half holds one true seed. Seeds of flowering plants always form inside a fruit.
@@ -529,7 +529,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 1. (mcq) Why can a deodar grow 50 metres tall, while most mosses stay a few centimetres tall?  
    Options: A deodar has veins with stiff walls that carry water up and hold the tree up / A deodar drinks more water / Mosses grow only in the dark / Mosses are always young  
    **Answer:** A deodar has veins with stiff walls that carry water up and hold the tree up. *Why:* Veins with lignin carry water high and hold a tall body up. Mosses have no such veins, so water moves only over their surface, which works for a few centimetres.
-2. (write) Kavya, a girl in Class 5 in Madurai, finds a small fern growing on a wall across the street from any other fern. Explain how the fern could have got there.  
+2. (write) A small fern is growing on a wall, across the street from any other fern. Explain how the fern could have got there.  
    **Answer:** A fern somewhere nearby released spores into the air. The wind carried one spore to the damp wall. The spore grew into a tiny heart-shaped plant, and then into a new fern.. *Why:* A strong answer uses the idea that spores are light enough for the wind to carry far, as the haldi was in the Fan Test.
 3. (truefalse) A chilgoza pine nut grows inside a fruit, like a cashew.  
    **Answer:** False. *Why:* False. A chilgoza is a naked seed. The chilgoza grows on the scale of a pine cone, with no fruit around it.
@@ -537,7 +537,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
    **Answer:** ['cone']. *Why:* Conifers make naked seeds on cone scales. Flowering plants make seeds inside fruits.
 5. (sort) Sort these plants: which need a film of water for their male cells to swim to an egg, and which use pollen?  
    **Answer:** wall moss → Male cells swim through water; maidenhair fern → Male cells swim through water; chir pine → Pollen carries the male cells; mango tree → Pollen carries the male cells; sphagnum moss → Male cells swim through water; rice → Pollen carries the male cells. *Why:* Mosses and ferns need water, because their male cells swim. Pines, cycads, mangoes and rice use pollen, carried by wind or animals.
-6. (mcq) Shalini, a girl in Class 5, measured where her mustard seeds landed in the Fan Test: they landed 15 cm, 20 cm and 25 cm away. What is the average?  
+6. (mcq) In the Fan Test, the mustard seeds landed 15 cm, 20 cm and 25 cm away in three tries. What is the average distance?  
    Options: 20 cm / 60 cm / 25 cm / 15 cm  
    **Answer:** 20 cm. *Why:* Add the three: 15 + 20 + 25 = 60. Divide by 3: 60 ÷ 3 = 20 cm. Choosing 60 means adding but forgetting to divide.
 7. (draw) Use this table of features to draw a family tree of a moss, a fern, a pine and a mango. Moss: no veins, no seeds. Fern: veins, no seeds. Pine: veins, seeds, no flowers. Mango: veins, seeds, flowers.  
@@ -568,17 +568,17 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 3. (mcq) Orchid seeds are as fine as dust and carry almost no food. What do they need before they can sprout?  
    Options: A fungus that gives them food / Very hot sand / A bird to eat them first / Nothing at all  
    **Answer:** A fungus that gives them food. *Why:* Orchid seeds are like spores: light enough to travel far, but with no food store. In nature, they sprout only with help from a fungus that feeds them.
-4. (write) Before seed plants, only mosses, ferns and their relatives lived on land. Explain why seed plants could spread into dry lands where they could not.  
+4. (write) Before seed plants, only mosses, ferns and their relatives lived on land. Explain why seed plants could spread into dry lands where mosses and ferns could not live.  
    **Answer:** Seed plants use pollen, which travels by wind or animals, so their male cells don't need water to swim. Their seeds carry food and a tough coat, so they can wait in dry ground until rain comes.. *Why:* A strong answer gives both reasons: pollen means the male cells need no water to travel, and seeds can survive dry times.
 5. (truefalse) Cycads and the ginkgo tree still make male cells that swim, inside the pollen.  
-   **Answer:** True. *Why:* True. In 1896 two Japanese scientists, Sakugoro Hirase and Seiichiro Ikeno, found swimming male cells in the ginkgo and in cycads, one in each. Even so, they swim only a very short way, within the seed plant.
+   **Answer:** True. *Why:* True. In 1896 two Japanese scientists, Sakugoro Hirase and Seiichiro Ikeno, found swimming male cells. One scientist found them in the ginkgo and the other in cycads. These male cells swim only a very short way, inside the plant.
 6. (mcq) Glossopteris fossils are found in India, Africa, South America, Antarctica and Australia. Their seeds were too heavy to cross oceans. What does this show?  
    Options: These lands were once joined / The seeds were carried by ships / Glossopteris grew in the sea / Each land had its own Glossopteris by chance  
    **Answer:** These lands were once joined. *Why:* A plant with heavy seeds could only spread across one connected land. This was one of the clues that the continents have moved.
-7. (write) Linnaeus put ferns, mosses, algae and fungi into one group because none of them has flowers. Using what Hofmeister found, explain why 'has no flowers' is a poor way to make a group.  
-   **Answer:** No flowers only says what the plants lack. Hofmeister showed that mosses and ferns follow the same pattern of life as conifers. Conifers, ferns and mosses are relatives, but fungi and algae are far away on the tree. A good group needs a shared ancestor, not a shared missing part.. *Why:* A strong answer says that a group made from something missing can mix unrelated living beings, and that a shared ancestor is what makes a real group.
-8. (fill) Much of the coal in Jharkhand and Odisha formed from ancient forests that included a seed plant without flowers called ____.  
-   **Answer:** ['Glossopteris']. *Why:* Glossopteris had tongue-shaped leaves and lived about 250 to 300 million years ago. Their forests helped form much of India's coal.
+7. (write) Long ago, ferns, mosses, algae and fungi were put into one group because none of them has flowers. Why is 'has no flowers' a poor way to make a group?  
+   **Answer:** 'Has no flowers' only says what the plants lack. Mosses and ferns turned out to be relatives of conifers, but fungi and algae are far away on the tree of life. A good group needs a shared ancestor, not a shared missing part.. *Why:* A strong answer says that a group made from something missing can mix unrelated living beings, and that a shared ancestor is what makes a real group.
+8. (fill) Much of India's coal formed from ancient ____ that were buried and squashed for millions of years.  
+   **Answer:** ['forests', 'plants', 'trees']. *Why:* Coal is the remains of plants that lived long ago, such as forests of Glossopteris, a seed plant without flowers. Buried deep and squashed for millions of years, they slowly turned into coal.
 9. (sort) Sort each statement: is it true of spores, of seeds, or of both?  
    **Answer:** is a single cell → Spores; has a store of food → Seeds; has a tough coat made of many cells → Seeds; can grow into a new plant → Both; is light enough for gentle wind to carry far → Spores; can be carried away from the parent → Both. *Why:* A spore is one cell with almost no food. A seed is many cells with a young plant, a food store and a coat. Both can grow into a new plant and both can be carried away from the parent.
 10. (mcq) Botanists have named about 295,000 flowering plants, 12,000 mosses, 10,500 ferns and 1,000 conifers and their relatives. About what fraction of these plants are flowering plants?  
@@ -587,7 +587,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 11. (order) Put these events in order, from the oldest to the most recent.  
    **Answer:** ['The first land plants, making spores (about 470 million years ago)', 'The first plants with veins (about 430 million years ago)', 'The first seeds (about 365 million years ago)', 'The first flowers (about 130 million years ago)', 'The first humans (about 300,000 years ago)']. *Why:* Each new feature appeared inside an older group: land plants, then veins, then seeds, then flowers. Humans came very late.
 12. (write) When a fern's spore cases dry out, they snap open and fling the spores out, fast. Some people say the fern senses dry air and chooses that moment. Others say it is only a mechanism, like a spring. Write both views, then say what you think.  
-   **Answer:** Ferns sense the weather and release their spores when the air is dry, which is when spores fly best. Many scientists describe this as a mechanism: the walls of the spore case dry and bend until they snap. My view, with a reason.. *Why:* A strong answer states both views fairly, and gives a reason for its own view. Both views agree on what happens. They differ on how to describe it.
+   **Answer:** One view: ferns sense the weather and release their spores when the air is dry, which is when spores fly best. The other view, held by many scientists: this is a mechanism. The walls of the spore case dry and bend until they snap. Then the child gives their own view, with a reason.. *Why:* A strong answer states both views fairly, and gives a reason for its own view. Both views agree on what happens. They differ on how to describe it.
 13. (match) Match each scientist to what they found.  
    **Answer:** Wilhelm Hofmeister → showed that mosses, ferns and conifers follow one pattern of life; Sakugoro Hirase → found swimming male cells in the ginkgo tree; Birbal Sahni → studied fossil seed plants from the Rajmahal Hills in Jharkhand; Elizabeth Britton → studied mosses and helped start the New York Botanical Garden; Katherine Esau → explained how the veins inside plants are built. *Why:* These are real scientists. Wilhelm Hofmeister never went to university, yet he changed how plants are understood.
 14. (odd) Which of these is not a seed?  
@@ -598,7 +598,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 
 ## Videos
 - **Watch Ferns Get Freaky | Deep Look** (Deep Look, 5 min) id `waMtqP1U6-8`: To see the tiny heart-shaped plant that grows from a spore, which is hard to find at home. *Check:* Not yet watched by a person: watch it first.
-- **Fern Spores under a microscope** (MartinMicroscope, 3 min) id `-xF83pHEx6Q`: Fern spore cases fling out spores faster than the eye can see. Slow motion shows the catapult. *Check:* Not yet watched by a person: watch it first.
+- **Fern Spores under a microscope** (MartinMicroscope, 3 min) id `-xF83pHEx6Q`: Fern spore cases fling out spores faster than the eye can see. Slow motion shows how the spore case flings them. *Check:* Not yet watched by a person: watch it first.
 - **🌿 How Does Moss Absorb Water Without Roots? 💧 | Amazing Plant Facts #Short** (Nature and plants, 5 min) id `6QDhLw9ucq0`: A close look at moss leaves, rhizoids and spore capsules. *Check:* Not yet watched by a person: watch it first.
 
 ## Quiz
@@ -608,10 +608,10 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 2. (mcq) What is inside a seed that is not inside a spore?  
    Options: A tiny young plant and a store of food / Water only / Pollen / Nothing: they are the same  
    **Answer:** A tiny young plant and a store of food. *Why:* A seed is many cells: a young plant, food and a coat. A spore is one cell with almost no food. That is why seeds are heavier.
-3. (mcq) In the Fan Test, haldi travelled far and rajma dropped close. What does this tell us about fern spores?  
+3. (mcq) Fine haldi powder blown by a fan travels far. Heavy rajma drops close. Fern spores are as tiny and light as haldi grains. What does this tell us about fern spores?  
    Options: Being tiny and light, spores can be carried far by gentle wind / Spores are heavier than seeds / Spores travel only on water / Spores never leave the parent fern  
    **Answer:** Being tiny and light, spores can be carried far by gentle wind. *Why:* Haldi is about as fine as fern spores. Like the haldi, spores fall slowly, so even gentle wind carries them far.
-4. (mcq) You are using a key. The first question is 'Does the plant have flowers?' The answer is no. The next is 'Does the plant make cones?' The answer is no. The plant has fronds with veins. What is it?  
+4. (mcq) You are using a key. The first question is 'Does the plant have flowers?' The answer is no. The next is 'Does the plant make cones?' The answer is no. The plant has fronds with veins. What is the plant?  
    Options: A fern / A conifer / A flowering plant / A moss  
    **Answer:** A fern. *Why:* No flowers, no cones, but veins and fronds: that is a fern. A moss would have no veins.
 5. (mcq) Why do most mosses grow only a few centimetres tall?  
@@ -628,8 +628,8 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
    **Answer:** DNA. *Why:* DNA carries the instructions passed from parent to young, so comparing DNA shows who is related to whom. It mostly agrees with groups made from features like seeds and veins.
 9. (mcq) Why do most botanists today avoid calling mosses 'lower plants'?  
    Options: Today's mosses have been changing for as long as flowering plants, and are very good at their own way of life / Mosses are taller than trees / Mosses came after flowering plants / Mosses have flowers  
-   **Answer:** Today's mosses have been changing for as long as flowering plants, and are very good at their own way of life. *Why:* Mosses' ancestors came earlier, but living mosses are not unfinished plants. 'Lower' suggests a ladder, and a family tree is a bush.
-10. (mcq) Rekha, a girl in Class 5, wants to know if til travels farther than mustard in the Fan Test. Which test is fair?  
+   **Answer:** Today's mosses have been changing for as long as flowering plants, and are very good at their own way of life. *Why:* Mosses' ancestors came earlier, but living mosses are not unfinished plants. 'Lower' suggests a ladder, but a family tree branches like a bush.
+10. (mcq) You want to know if til travels farther than mustard in the Fan Test. Which test is fair?  
    Options: Drop both from the same height, at the same spot, with the same fan speed, 3 times each / Drop til from higher up because it is lighter / Use a fast fan for til and a slow one for mustard / Drop each only once  
    **Answer:** Drop both from the same height, at the same spot, with the same fan speed, 3 times each. *Why:* In a fair test, only one thing changes: what is dropped. Repeating 3 times guards against a fluke.
 
@@ -685,7 +685,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - In the Fan Test, the haldi travelled 210 cm on average and the mustard 20 cm. About how many times as far did the haldi travel? **About 10 times as far.**. 210 ÷ 20 = 10.5. So the haldi travelled about 10 times as far as the mustard. (queues `math.fractions.ratio-and-proportion.L5`)
 - Botanists have named about 295,000 flowering plants, 12,000 mosses, 10,500 ferns and 1,000 conifers and their relatives. What percentage of these are flowering plants? **About 93%.**. Total: 295,000 + 12,000 + 10,500 + 1,000 = 318,500. Flowering plants: 295,000 ÷ 318,500 is about 0.93. So about 93 out of every 100 are flowering plants. (queues `math.fractions.decimals-and-percentages.L5`)
 - You make a timeline strip of plants on land, 47 cm long, from 470 million years ago to today. How far from the 'today' end do you mark the first seeds, 365 million years ago, and the first flowers, 130 million years ago? **Seeds at 36.5 cm, flowers at 13 cm from the 'today' end.**. 47 cm stands for 470 million years, so 1 cm stands for 10 million years. 365 ÷ 10 = 36.5 cm. 130 ÷ 10 = 13 cm. (queues `math.measurement-basics.scale-models.L5`)
-- On a pine cone, Bornali, a girl in Class 5, counted 8 spirals going one way and 13 going the other. In the pattern 1, 1, 2, 3, 5, 8, 13, each number is the sum of the two before it. What are the next two numbers? **21 and 34.**. 8 + 13 = 21. 13 + 21 = 34. Sunflower heads often have 21 and 34, or 34 and 55, spirals. (queues `math.patterns.number-patterns.L5`)
+- A pine cone has 8 spirals going one way and 13 going the other. In the pattern 1, 1, 2, 3, 5, 8, 13, each number is the sum of the two before it. What are the next two numbers? **21 and 34.**. 8 + 13 = 21. 13 + 21 = 34. Sunflower heads often have 21 and 34, or 34 and 55, spirals. (queues `math.patterns.number-patterns.L5`)
 - In the Moss Sponge test, 200 ml of water went in with the moss. 110 ml was left after the moss was lifted out. With the soil, 180 ml was left. How much more water did the moss hold than the soil? **70 ml more.**. The moss held 200 − 110 = 90 ml. The soil held 200 − 180 = 20 ml. 90 − 20 = 70 ml more. (queues `math.number-sense.comparing-ordering.L5`)
 
 ## Song
@@ -730,3 +730,4 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - Ma and others, Nature 2001, 'A fern that hyperaccumulates arsenic'
 - UNEP Global Peatlands Assessment 2022 (peatlands hold a very large store of carbon)
 - Darwin's letter to J. D. Hooker, 22 July 1879 ('an abominable mystery')
+- Jane Colden (1724 to 1766), Flora of New York, a manuscript written about 1753 to 1758 that described more than 300 plants with Linnaeus's method: https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/colden-jane-1724-1766
