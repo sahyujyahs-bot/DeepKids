@@ -1,17 +1,17 @@
 # Inside a cell: the skin, the jelly and the instruction room
 `sci.what-is-life.cells.L4`
 
-**Summary.** A potato strip dropped in plain water stays stiff. The same strip in strong salt water goes floppy, though nobody squeezed it. Every potato cell has a thin skin, and water moves through that skin in both directions. Your child tests this with a fair test, then finds the three main parts of a cell, the membrane, the cytoplasm and the nucleus. They see how plant cells and animal cells differ, why cells are so small, and how one cell on her own can eat, move and sense. They learn how scientists proved the skin was there long before anyone could see it, and what nobody yet knows about the very first cell.
+**Summary.** A strip of potato left in plain water stays stiff. A strip from the same potato left in strong salt water goes floppy, though nobody squeezed it. Every potato cell has a thin skin, and water moves through that skin in both directions. Your child tests this with a fair test, then finds the three main parts of a cell: the membrane, the cytoplasm and the nucleus. They see how plant cells and animal cells differ, why cells are so small, and how one cell on her own can eat, move and sense. They learn how scientists proved the skin was there long before anyone could see it, and what nobody yet knows about the very first cell.
 
 **Intro.** *Look at a bunch of coriander that has gone limp on the kitchen counter. Put the stems in a glass of water for an hour. The leaves stand up again. The water went in through the cut ends and the roots, but the leaves are far away. How did the water get to every leaf, and why did the leaves go floppy in the first place?* Every leaf is made of tiny cells, and each cell has a thin skin. When a cell holds plenty of water, she is firm, and the leaf stands up. When she loses water, she goes soft, and the leaf droops. In this unit you find out what a cell is made of, what the skin does, and where the water goes. You also meet cells that live alone in a drop of pond water and do everything a body does.
 
 ## Learning outcomes
 0. I can name the three main parts of a cell, the membrane, the cytoplasm and the nucleus, and say what each one does.
-1. I can say how plant cells and animal cells are alike and how they differ: cell wall, chloroplasts and a big vacuole.
+1. I can say how plant cells and animal cells are alike, and name the three things only plant cells have: a cell wall, chloroplasts and a big vacuole.
 2. I can explain that a cell's skin lets some things through and keeps others out, and that water moves through it in both directions.
 3. I can run a fair test with potato strips in plain and salty water, and explain the result.
 4. I can give examples of single-celled living things and say how one cell eats, moves, senses and gets rid of waste.
-5. I can explain why cells stay small, using the idea of surface.
+5. I can explain why cells stay small: food and oxygen come in through the surface, and a big cell has too little surface for her size.
 6. I can tell how scientists found the cell's skin before they could see it.
 7. I can say that mitochondria and chloroplasts began as bacteria, and name what nobody knows yet about the first cells.
 
@@ -37,21 +37,21 @@
 ### The three main parts of a cell: skin, jelly and instruction room · *defined*
 **Definition:** Almost every cell has a cell membrane around the outside, cytoplasm filling the inside, and DNA that holds the instructions. In many cells the DNA is kept inside a nucleus.
 
-Think of a cell as a very small kitchen. The membrane is the wall and door of the kitchen. It decides what comes in and what goes out. The cytoplasm is everything inside the kitchen, the air and the counters. It is a jelly that is mostly water, and most of the cell's work happens in it. The nucleus is a locked cupboard that holds the recipe book. The recipe book is DNA. It tells the cell which things to build and when. Plant, animal and fungus cells have a nucleus. Bacteria do not. Their DNA floats loose in the cytoplasm. The kitchen picture is only a help. A real cell is not a still room. Everything in her is moving all the time.
+Think of a cell as a very small kitchen. The membrane is the wall and door of the kitchen. It decides what comes in and what goes out. The cytoplasm is the space inside the kitchen where the cooking happens. It is a jelly that is mostly water, and most of the cell's work happens in it. The nucleus is a locked cupboard that holds the recipe book. The recipe book is DNA. It tells the cell which things to build and when. Plant, animal and fungus cells have a nucleus. Bacteria do not. Their DNA floats loose in the cytoplasm. The kitchen is only a picture to help you. A real cell is not a still room. Everything in her is moving all the time.
 - e.g. A cheek cell has a membrane, cytoplasm and a nucleus.
 - e.g. A bacterium has a membrane and cytoplasm, and a loop of DNA floating loose in the cytoplasm with no nucleus.
 - e.g. A mature human red blood cell has lost her nucleus. She carries oxygen for about four months with no nucleus at all.
 ### The cell membrane: a skin that chooses what passes · *defined*
 **Definition:** The cell membrane is a thin layer of fatty molecules with proteins set into it. It lets some substances pass freely, helps some through special channels and pumps, and blocks the rest.
 
-The membrane is about ten thousand times thinner than a hair. It is made of fat molecules that lie side by side in two layers. Each molecule has a head that likes water and a tail that hates water. In water, they turn the tails inward and the heads outward on their own, and make a thin sheet. Tiny molecules such as oxygen and carbon dioxide slip straight between the fat molecules. Sugar and many other things are too big or too charged, so special proteins in the membrane carry them across. Some proteins are pumps. A pump pushes things across against the way they would naturally go, and it uses energy to do so. A large part of the energy a cell spends goes into pumps. Water passes through the membrane slowly on its own, and much faster through water channels. The membrane is not a still wall. The fat molecules slide around each other like a very thin oil, and the proteins float in it.
+The membrane is about ten thousand times thinner than a hair. It is made of fat molecules that lie side by side in two layers. Each molecule has a head that likes water and a tail that hates water. In water, they turn the tails inward and the heads outward on their own, and make a thin sheet. Tiny molecules such as oxygen and carbon dioxide slip straight between the fat molecules. Sugar and many other things cannot slip between the fat molecules, so special proteins in the membrane carry them across. Some proteins are pumps. A pump pushes things across against the way they would naturally go, and it uses energy to do so. A large part of the energy a cell spends goes into pumps. Water passes through the membrane slowly on its own, and much faster through water channels. The membrane is not a still wall. The fat molecules slide around each other like a very thin oil, and the proteins float in it.
 - e.g. Oxygen passes through the membranes of your lung cells and into your blood.
 - e.g. Sugar from your food gets into your cells only with the help of carrier proteins.
 - e.g. A starch grain is far too big to pass through, so your body first cuts starch into sugar.
 ### Osmosis: water moves towards the saltier side · *defined*
 **Definition:** Osmosis is the movement of water through a membrane from the side with less dissolved stuff to the side with more dissolved stuff.
 
-Water molecules are always moving, and they pass back and forth through the cell membrane both ways. When there is more dissolved stuff on one side, such as salt or sugar, more water ends up on that side. In plain water, a potato cell has more dissolved stuff inside than outside. So water moves in, and the cell grows firm. In strong salt water, there is more dissolved stuff outside, so water moves out. The cell loses water and goes limp. This is why salt draws water out of mango pieces in pickle, and why a raisin swells in water. The salt does not suck on the water. Water simply moves through the membrane both ways, and more of it ends up on the side with more dissolved stuff. Osmosis happens at every skin. A cell can change how much dissolved stuff she keeps inside.
+Water molecules are always moving, and they pass through the cell membrane in both directions. When there is more dissolved stuff on one side, such as salt or sugar, more water ends up on that side. In plain water, a potato cell has more dissolved stuff inside than outside. So water moves in, and the cell grows firm. In strong salt water, there is more dissolved stuff outside, so water moves out. The cell loses water and goes limp. This is why salt draws water out of mango pieces in pickle, and why a raisin swells in water. The salt does not suck on the water. Water simply moves through the membrane both ways, and more of it ends up on the side with more dissolved stuff. Osmosis happens at the skin of every cell. A cell can change how much dissolved stuff she keeps inside.
 - e.g. Salt sprinkled on cut brinjal slices draws water out and leaves a wet plate.
 - e.g. Raisins left in water overnight swell, because their sugary insides draw water in.
 - e.g. A paramecium living in pond water has water flowing into her all the time, and she pumps it out again.
@@ -59,7 +59,7 @@ Water molecules are always moving, and they pass back and forth through the cell
 **Definition:** Cytoplasm is everything inside the cell membrane apart from the nucleus. It is a jelly made mostly of water, with the organelles floating in it.
 
 Most of the chemistry of life goes on in the cytoplasm. Food is broken down, parts are built and waste is made. Tiny molecules zip around it, and larger parts are carried along on thin threads. In some cells, such as the cells of a pond plant called Hydrilla, the whole cytoplasm flows round the cell in a slow stream. This is called cytoplasmic streaming. It moves food and organelles around the cell. The cytoplasm is crowded. Proteins and other big molecules fill the space, so the jelly is thicker than the water you drink. Organelles float in it. The mitochondria release energy from food. In plant cells, the chloroplasts make sugar from sunlight.
-- e.g. Look at a Hydrilla leaf under a good microscope and the green chloroplasts are carried around the cell by the streaming cytoplasm.
+- e.g. Under a good microscope, you can see the green chloroplasts in a Hydrilla leaf being carried around the cell by the streaming cytoplasm.
 - e.g. A raw egg yolk is one huge cell, packed with food for a chick.
 - e.g. When a red blood cell squeezes through a very narrow tube, her cytoplasm lets her bend and fold.
 ### The nucleus: the room that keeps the instructions · *defined*
@@ -72,7 +72,7 @@ Robert Brown, a Scottish botanist, named the nucleus in 1831 while looking at or
 ### Plant cells and animal cells: alike in most ways, different in three · *defined*
 **Definition:** Plant cells and animal cells both have a membrane, cytoplasm, a nucleus and mitochondria. Plant cells also have a cell wall, chloroplasts and a large vacuole.
 
-A plant cell has three extra things. The cell wall is a stiff layer outside the membrane. It is made of a tough material called cellulose, and it gives the cell her box-like shape. The chloroplasts catch sunlight and make sugar, which is why leaves are green. The large vacuole is a bag of watery liquid that takes up most of the cell and presses against the wall. Animal cells have no wall, so they can be many shapes: round, flat, long or spidery. Nerve cells are long and branched. Red blood cells are discs. The animal cell has small vacuoles instead of one big one. But the list is not as neat as it sounds. Fungi have cell walls but no chloroplasts. Bacteria have cell walls too. Plants and animals both have mitochondria, so a plant also releases energy from food, all day and all night.
+A plant cell has three extra things. The cell wall is a stiff layer outside the membrane. It is made of a tough material called cellulose, and it gives the cell her box-like shape. The chloroplasts catch sunlight and make sugar, which is why leaves are green. The large vacuole is a bag of watery liquid that takes up most of the cell and presses against the wall. Animal cells have no wall, so they can be many shapes: round, flat, long or spidery. Nerve cells are long and branched. Red blood cells are discs. The animal cell has small vacuoles instead of one big one. The list is not perfectly neat, though. Fungi have cell walls but no chloroplasts, and bacteria have cell walls too. Plants and animals both have mitochondria, so a plant also releases energy from food, all day and all night.
 - e.g. A cell from a leaf is box-shaped and has a wall, many chloroplasts and a large vacuole.
 - e.g. A cheek cell is a flat, irregular shape with no wall and no chloroplasts.
 - e.g. A mushroom cell has a wall, but no chloroplasts, because mushrooms do not make food from sunlight.
@@ -86,21 +86,21 @@ A balloon inside a shoebox is a good picture. The balloon is the vacuole. The bo
 ### Why cells are small: surface and inside · *defined*
 **Definition:** A cell takes in food and oxygen and lets out waste through her surface. As a cell grows bigger, her inside grows faster than her surface, so a large cell would have too little surface for her size.
 
-Take a cube that is 1 centimetre on each side. Its surface is 6 square centimetres and its inside is 1 cubic centimetre. Double the cube to 2 centimetres on each side. The surface becomes 24 square centimetres, which is 4 times more. But the inside becomes 8 cubic centimetres, which is 8 times more. The inside grows faster than the surface. A cell needs food and oxygen to get to every part of her inside, and they all arrive through the surface. So a cell that grows too big starves in the middle. Most cells are between 10 and 100 micrometres wide. A few get very large by finding other ways. A hen's egg yolk is one huge cell, but it is mostly stored food and is not busy inside. Some nerve cells are very long, but they are thin like threads.
+Take a cube that is 1 centimetre on each side. Its surface is 6 square centimetres and its inside is 1 cubic centimetre. Double the cube to 2 centimetres on each side. The surface becomes 24 square centimetres, which is 4 times more. But the inside becomes 8 cubic centimetres, which is 8 times more. The inside grows faster than the surface. A cell needs food and oxygen to get to every part of her inside, and they all arrive through the surface. So a cell that grows too big starves in the middle. Most cells are between 10 and 100 micrometres wide. A few cells do grow very large, but each of them has a way around the problem. A hen's egg yolk is one huge cell, but it is mostly stored food and is not busy inside. Some nerve cells are very long, but they are as thin as a thread, so no part of them is far from the surface.
 - e.g. A crushed piece of ice melts much faster than a whole cube, because it has far more surface.
 - e.g. A flat leaf cell is thin, so no part is far from the surface.
 - e.g. A nerve cell in your leg can be more than a metre long, but it is thinner than a hair.
 ### Single cells that do everything · *defined*
 **Definition:** A single-celled living thing is a whole being made of one cell. That one cell takes in food, makes energy, senses her surroundings, moves, gets rid of waste and divides to make more.
 
-Your body has different cells for different jobs. A single cell has to do every job herself. An amoeba pushes out a part of herself and flows forward. When she meets food, she wraps herself round it, and the food ends up in a bubble inside her where it is broken down. A paramecium swims by beating thousands of tiny hairs. She can back away from an obstacle and try another way. Pond water keeps flowing into her by osmosis, so she has a small pump called a contractile vacuole that pushes the extra water out again and again. A euglena has chloroplasts and makes sugar in the light, and she can also swim towards the light with a whip-like tail and sense it with a red spot. A bacterium senses food and swims towards the smell. A single cell is not a half-made body. She is a complete life.
+Your body has different cells for different jobs. A single cell has to do every job herself. An amoeba pushes out a part of herself and flows forward. When she meets food, she wraps herself round it, and the food ends up in a bubble inside her where it is broken down. A paramecium swims by beating thousands of tiny hairs. She can back away from an obstacle and try another way. Pond water keeps flowing into her by osmosis, so she has a small pump called a contractile vacuole that pushes the extra water out again and again. A euglena has chloroplasts and makes sugar in the light. She senses the light with a red spot and swims towards it with a whip-like tail. A bacterium senses food and swims towards the smell. A single cell is not a half-made body. She is a complete life.
 - e.g. An amoeba wraps round a smaller cell and takes it in.
 - e.g. A paramecium swims backwards when she bumps into something.
 - e.g. A yeast cell in dough takes in sugar and makes carbon dioxide gas.
-### Mitochondria and chloroplasts: visitors who stayed · *defined*
+### Mitochondria and chloroplasts began as bacteria living inside larger cells · *defined*
 **Definition:** Scientists agree that mitochondria and chloroplasts began as free-living bacteria that were taken inside larger cells more than a billion years ago and stayed as partners. This is called endosymbiosis.
 
-Mitochondria and chloroplasts have their own small loops of DNA, their own double membranes, and they divide on their own inside the cell, like bacteria do. Their DNA is more like the DNA of bacteria than that of the cell they live in. Lynn Margulis, an American biologist, argued for this in 1967, and her paper was turned down by many journals before one published it. At first, many biologists thought the idea was wild. Since then, DNA studies have shown that she was right. A mitochondrion cannot live outside her cell now, and the cell cannot live without her mitochondria. So your cells are built out of partnerships. Scientists still argue about exactly how the first partnership began.
+Mitochondria and chloroplasts have their own small loops of DNA and their own double membranes. They divide on their own inside the cell, as bacteria do. Their DNA is more like the DNA of bacteria than the DNA of the cell they live in. Lynn Margulis, an American biologist, argued in 1967 that they began as free-living bacteria. Her paper was turned down by many journals before one published it. At first, many biologists thought the idea was very unlikely. Since then, DNA studies have shown that she was right. A mitochondrion cannot live outside her cell now, and the cell cannot live without her mitochondria. So your cells are built out of partnerships. Scientists still argue about exactly how the first partnership began.
 - e.g. The mitochondria in your cells have their own DNA, which you inherit only from your mother.
 - e.g. The chloroplasts of a leaf are descended from bacteria that could already catch sunlight.
 - e.g. Some sea slugs take chloroplasts from the algae they eat and keep them working inside their own cells for weeks.
@@ -112,20 +112,20 @@ A cell needs three things at once: a skin to hold her together, instructions tha
 - e.g. Some RNA molecules can copy parts of themselves.
 - e.g. Hot vents on the sea floor, such as the Lost City field in the Atlantic Ocean, release chemicals that can power simple reactions.
 - **Skin first:** A bubble of fat in water could hold chemicals together long enough for them to react. Once there was a bubble, chemicals inside could slowly become more complex.
-- **Instructions first (the RNA world):** RNA can store a message and also act as a tool. A first molecule that could copy herself could start evolution, and a skin could come later.
+- **Instructions first (the RNA world):** RNA can store a message and also act as a tool. A first molecule that could copy itself could start evolution, and a skin could come later.
 - **Chemistry first:** Reactions on rock near hot vents could have made the building blocks and the energy first. Skins and instructions might have grown out of that.
 
 ## Mostly agreed
 - Every cell has a cell membrane, cytoplasm and DNA. *How we know:* Every kind of cell that has been studied, from bacteria to human nerve cells, has been found to have all three.
-- The cell membrane is made of two layers of fatty molecules with proteins set into it. *How we know:* In 1925 Evelyn Gorter and François Grendel measured the fat from red blood cells and found twice as much as one layer needs. Electron microscopes later showed the two layers directly.
+- The cell membrane is made of two layers of fatty molecules with proteins set into it. *How we know:* In 1925 Evert Gorter and François Grendel measured the fat from red blood cells and found twice as much as one layer needs. Electron microscopes later showed the two layers directly.
 - Water passes through a membrane towards the side with more dissolved stuff, and this is called osmosis. *How we know:* Wilhelm Pfeffer measured it in 1877 using a man-made membrane. Every test since, such as potato strips in salt water, has agreed.
 - Plant cells have a cell wall, chloroplasts and a large vacuole. Animal cells do not. *How we know:* Microscopes show these parts clearly in plant cells such as onion, Hydrilla and leaf cells, and they are absent from animal cells such as cheek cells.
 - Mitochondria and chloroplasts began as free-living bacteria. *How we know:* They have their own loops of DNA that look like bacterial DNA, and they divide on their own inside the cell.
 - Single-celled living things are fully alive and can sense, move, eat and divide. *How we know:* Antonie van Leeuwenhoek saw them swimming in pond water in the 1670s. Later biologists watched them feed and divide.
 
 ## How we found out
-**Wilhelm Pfeffer, Ernest Overton, and Evelyn Gorter with François Grendel, 1877 to the 1950s.** By the 1800s, scientists could see the stiff walls around plant cells. But the thin skin around the living jelly inside was far too thin for any microscope. Some scientists said it was not there at all, and that the jelly simply stopped. In 1877, Wilhelm Pfeffer, a German plant scientist, measured how strongly water is pulled through a man-made skin. Plant scientists such as Hugo de Vries saw plant cells shrink away from their walls in strong solutions. A living skin that lets water through must be there, they said, though nobody could see it. In the 1890s, Ernest Overton found that substances that dissolve in fat get into cells fastest, so the skin must be fatty. In 1925, a Dutch children's doctor named Evelyn Gorter and her colleague François Grendel spread out the fat from red blood cells on water. It covered about twice the surface of the cells, so the skin had two layers. Their measurements were rough. Electron microscopes in the 1950s finally showed the skin, with two layers.  
-*What people believed before:* Some scientists thought a cell had no skin and that the jelly simply stopped. Water and dissolved stuff moved in a way only a skin could explain, and the skin was finally seen with an electron microscope.
+**Wilhelm Pfeffer, Ernest Overton, and Evert Gorter with François Grendel, 1877 to the 1950s.** By the 1800s, scientists could see the stiff walls around plant cells. But the thin skin around the living jelly inside was far too thin for any microscope. Some scientists said it was not there at all, and that the jelly simply stopped. In 1877, Wilhelm Pfeffer, a German plant scientist, measured how strongly water is pulled through a man-made skin. Plant scientists such as Hugo de Vries saw plant cells shrink away from their walls in strong solutions. A living skin that lets water through must be there, they said, though nobody could see it. In the 1890s, Ernest Overton found that substances that dissolve in fat get into cells fastest, so the skin must be fatty. In 1925, a Dutch children's doctor named Evert Gorter and his colleague François Grendel spread out the fat from red blood cells on water. It covered about twice the surface of the cells, so the skin had two layers. Their measurements were rough. Electron microscopes in the 1950s finally showed the skin, with two layers.  
+*What people believed before:* Some scientists thought a cell had no skin and that the jelly simply stopped. But water and dissolved stuff moved in a way only a skin could explain, and the skin was finally seen with an electron microscope.
 
 ## Challenging perspectives
 - **The nucleus is the brain or the boss of the cell.** (Many textbook pictures and popular comparisons.; *rejected*)  
@@ -139,41 +139,41 @@ A cell needs three things at once: a skin to hold her together, instructions tha
   Against: A single cell does every job a body does, with no organs to help her. A paramecium backs away from obstacles and a bacterium senses food and steers towards the smell. A single cell holds thousands of different molecules, all working together.
 - **A body is a team of separate cells working together.** (Some biologists who describe a body as a community of cells.; *debated*)  
   For: Cells can be grown on their own in a lab. Many cells in a body have their own life cycle and die or divide.  
-  Against: Cells in a body signal each other all the time and cannot live alone for long without the right surroundings. Others say it makes more sense to call the body one living being whose cells are its parts.
+  Against: Cells in a body signal each other all the time and cannot live alone for long without the right surroundings. Others say it makes more sense to call the body one living being, with the cells as her parts.
 - **The cell membrane is a fixed, solid wall.** (Early drawings of cells and some old textbooks.; *rejected*)  
   For: The membrane keeps the cell together and keeps things in and out.  
   Against: S. Jonathan Singer and Garth Nicolson proposed in 1972 that the membrane is fluid, with fat molecules and proteins that slide around, like icebergs in a sea. Later experiments confirmed it.
 
 ## Roots
-We have tested what salt does to the water in a cell, and looked inside a cell at her skin, jelly and instruction room. Now we ask what the cell's edge tells us about being one thing among many.
+We have tested what salt does to the water in a cell, and looked inside a cell at her skin, jelly and instruction room. Now we ask what the cell's skin tells us: no cell lives shut off from what is around her.
 
-**Deep truth.** Potato strips stayed stiff in plain water and went limp in strong salt water. A cell's skin lets water through in both directions. So the water inside a cell depends on the world outside as well as on the cell. A cell is not a sealed bag that decides alone.  
-*Habit it breaks:* We picture a cell, and a body, as a sealed bag with its own fixed contents, and a skin as a wall that shuts the world out. A skin is where a cell and her surroundings trade all the time.  
-*Evidence:* In the potato strips test, the same strips were stiff or floppy depending only on how much salt was in the water outside. The water that left the strips went into the cup. If your results differ, write them down as they are and test again.
+**Deep truth.** In the Potato Strips test, strips stayed stiff in plain water and went limp in strong salt water. A cell's skin lets water through in both directions. So the water inside a cell depends on the world outside as well as on the cell. A cell is not a sealed bag. What is outside her changes what is inside her.  
+*Habit it breaks:* We usually picture a cell, and a body, as a sealed bag with its own fixed contents, and a skin as a wall that shuts the world out. But a skin is the place where a cell and her surroundings trade all the time.  
+*Evidence:* In the Potato Strips test, strips from the same potato were stiff or floppy depending only on how much salt was in the water outside. The water that left the strips went into the cup. If your results differ, write them down as they are and test again.
 
 - *who am i:* You are about thirty trillion cells, and each one trades water and food with the cells and the blood around her. Your body is a place where water keeps coming and going.
-- *what is life:* Every living thing we know is at least one cell. A cell is a pocket with an edge that keeps choosing what comes in and what goes out, for as long as she lives.
-- *what is this world:* The water in a potato strip, a pickle bowl and a pond all follows the same rule. Water ends up on the side with more dissolved stuff. The same rule works inside a plant and outside it.
+- *what is life:* Every living thing we know is at least one cell. A cell is a small space with a skin around it. The skin keeps choosing what comes in and what goes out, for as long as the cell lives.
+- *what is this world:* Water in a potato strip, in a pickle bowl and in a pond follows the same rule: it ends up on the side with more dissolved stuff. The same rule works inside a plant and outside her.
 
-A cell has an inside only because she has an edge, and she stays alive only by trading across that edge. Water, air and food pass through her skin every second. The cell you were at the very start came from a cell, in a line of cells going back billions of years. In some of those cells, a bacterium moved into a bigger cell and stayed, and both lived on together. So even one cell is a meeting of many living beings. The cell's edge is the place where many become one and one meets many.
+A cell has an inside only because she has a skin, and she stays alive only by trading across that skin. Water, air and food pass through it every second. The cell you were at the very start came from a cell, in a line of cells going back billions of years. In some of those cells, a bacterium moved into a bigger cell and stayed, and both lived on together. So even one cell is made of living beings that joined together. A cell's skin does not cut her off from the world. It is where she meets it.
 
-- **Tao Te Ching 11:** Thirty spokes meet in the hub of a wheel, but the empty space in the middle makes the wheel useful. Clay is shaped into a pot, but the empty space inside makes the pot useful. (A cell is also a shape that makes an inside. Her skin makes a space where chemistry can happen, and the space is what makes her a cell.)
+- **Tao Te Ching 11:** Thirty spokes meet in the hub of a wheel, but the empty space in the middle makes the wheel useful. Clay is shaped into a pot, but the empty space inside makes the pot useful. (A cell is like the pot. Her skin makes a space inside where chemistry can happen, and that space is what makes her a cell.)
 - **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** 'That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains.' (A single cell, such as an amoeba, splits into two. Each new cell is a whole cell, and nothing has been taken away from the first.)
-- **Lynn Margulis, Symbiotic Planet (1998):** Margulis argued that life has grown as much by living things joining together as by competing. She showed that mitochondria began as free-living bacteria that moved into other cells. (Each of your cells holds the descendants of bacteria that became partners. A cell is a community.)
+- **Lynn Margulis, Symbiotic Planet (1998):** Lynn Margulis, an American biologist, argued that life has grown as much by living things joining together as by competing. She showed that mitochondria began as free-living bacteria that moved into other cells. (Each of your cells holds the descendants of bacteria that became partners. A cell is a community.)
 - Science (settled): Fat molecules put into water form hollow bubbles on their own, and these bubbles have been shown in laboratories to hold chemicals inside. This is one reason scientists think the skin could have appeared early.
 - Science (open): Whether the first cell began with a skin, with instructions or with chemistry is still not known.
 - Other view, Many cell biologists: A cell's skin is a piece of chemistry. Fat molecules, proteins and pumps follow physical rules, and nothing decides. Saying a cell chooses what comes in is a short way of describing the pumps and channels working.
-- Practice, Feel your own edge (3 min): Sit still and rest one hand on your other arm. Feel your skin. Breathe in slowly and feel the air move in. Breathe out. Air is crossing a very thin skin in your lungs right now. Your edge is busy all the time. Breathe three times and notice the busy edge.
+- Practice, Feel your own edge (3 min): Sit still and rest one hand on your other arm. Feel your skin. Breathe in slowly and feel the air move in. Breathe out. Air is crossing a very thin skin in your lungs right now. Your skin is your edge, and it is busy all the time. Breathe three times and notice it.
 - Ask: If water keeps passing through a cell's skin both ways, where does the cell stop and the world start?
 - Ask: A bacterium moved into another cell and became a mitochondrion. Is your cell one living being or two?
-- Ask: What might a cell be like, if she had no edge to choose with?
+- Ask: What would happen to a cell if she had no skin to choose what comes in and what goes out?
 
 ## Deep and big questions
-- *deep:* A potato strip went floppy in salt water, and it never touched anything except her skin. If water goes through a cell's skin in both directions, what decides which way it goes? (hint: Think about what you found in the cups. What was different on the two sides of the skin?)
+- *deep:* A potato strip went floppy in strong salt water, though nobody squeezed it. The salt water only touched the skins of the potato cells. If water goes through a cell's skin in both directions, what decides which way more of it goes? (hint: In the Potato Strips test, cup A had plain water and cup C had a lot of salt. What was different on the two sides of the cell skin?)
 - *deep:* A cell's skin must let food in and keep her own chemicals from leaking out. How can one skin do both jobs? (hint: Think about the Gatekeeper game, where the gatekeeper treats different visitors differently.)
 - *deep:* Bacteria have no nucleus, and they still pass on instructions to their children. Where could the instructions be kept? (hint: Think about what a cell has inside her skin.)
-- *deep:* Why are there no cells as big as a mango? (hint: Think about the ice race and the cubes. What happens to the surface when something gets bigger?)
-- *big:* Is a cell a thing, or is she something that keeps happening? What if the skin stopped choosing for one minute? (hint: A stone stays a stone while nothing happens to it. Does a cell stay a cell?)
+- *deep:* Why are there no cells as big as a mango? (hint: In the Ice Race, crushed ice melted faster than a whole cube because it had more surface. What happens to the surface, compared with the inside, when something gets bigger?)
+- *big:* A cell's skin keeps choosing what comes in and what goes out, for as long as she lives. What do you think would happen to the cell if the skin stopped choosing for one minute? (hint: A stone stays a stone even when nothing is happening to it. Would a cell stay a cell if nothing went in or out?)
 - *big:* You are about 30 trillion cells, and each one is alive. Are you one living being, or a crowd of living beings that live together? (hint: Think about the cells in your gut, skin and blood. Which of them could live on their own, and for how long?)
 - *big:* An amoeba has no brain, yet she finds food and moves away from danger. What would you have to see an amoeba do to say that she thinks? (hint: Think about how you decide that your friend, or a crow, is thinking.)
 - *big:* If life began on another planet, would the first cells there also need a skin? Why or why not? (hint: Think about what a skin does for the chemistry inside it.)
@@ -203,7 +203,7 @@ Anjana did not know. She sat on the kitchen step, with her chin in her hands, an
 
 Behind her, Ammamma was making mango pickle. She had cut green mangoes into small pieces and mixed in a big handful of salt. 'Leave it overnight,' she said, and she covered the bowl with a plate.
 
-Next morning, Anjana lifted the plate. At the bottom of the bowl was a pool of water. The mango pieces were smaller and softer. Nobody had squeezed them. Nobody had added water. And the water was not in a tumbler. It came out of the mango.
+Next morning, Anjana lifted the plate. At the bottom of the bowl was a pool of water. The mango pieces were smaller and softer. Nobody had squeezed them. Nobody had added water. The water had come out of the mango.
 
 Anjana stood very still.
 
@@ -250,7 +250,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 ## Games
 ### g1 · Cell Detectives: who am I? (20 min)
 - **rules:** Cut out the 24 cards. Shuffle them and make a pile with the clue side up.; The reader takes the top card and reads the clue aloud. The reader does not turn it over.; Everyone else has ten seconds to say the answer out loud. For a card with a question, say the answer and the reason.; The reader turns the card over and reads the back. A player who was right keeps the card. If nobody was right, the card goes to the bottom of the pile.; Take turns being the reader. The first player to keep 6 cards wins.; Playing alone: go through the pile once and keep the cards you got right. Then play again and try to keep more.
-- **Printable cards: 24 two-sided clue cards: a clue on the front and the answer with the reason on the back:** I am the thin skin around every cell. I decide what comes in and what goes out. Who am I? (back: The cell membrane. I am made of two layers of fat molecules with proteins set into me.); I am the jelly that fills a cell. Most of the cell's work happens in me. Who am I? (back: The cytoplasm. I am mostly water, and the parts of the cell float in me.); I keep the instructions for building and running the cell, written in DNA. In many cells I am a round room. Who am I? (back: The nucleus. I keep the DNA safe, like a library.); I am a stiff box outside the membrane. Plant cells have me and animal cells do not. Who am I? (back: The cell wall. I give a plant cell her box shape and help her stand up.); I am green. I catch sunlight and use it to make sugar. Who am I? (back: The chloroplast. My green colour is what makes a leaf green.); I am a bag of water. In a plant cell I am huge and push against the wall to keep the cell firm. Who am I? (back: The vacuole. When I am full, the cell is firm. When I lose water, the plant wilts.); I release energy from food. A hard-working muscle cell has thousands of me. Who am I? (back: The mitochondrion. Plant cells have me too, and I have my own little loop of DNA.); A cell has a wall, many chloroplasts and one big vacuole. Is she a plant cell or an animal cell? (back: A plant cell. The wall, the chloroplasts and the big vacuole are the three things plant cells have and animal cells do not.); A cell has no wall and no chloroplasts, and she can be round, flat or long. Plant cell or animal cell? (back: An animal cell. With no stiff wall, animal cells can be many shapes.); A bacterium has no nucleus. Where is her DNA? (back: In the cytoplasm, in a loop. Bacteria have DNA, but the DNA floats loose instead of sitting in a nucleus.); A potato cell is put in strong salt water. Does water move into the cell or out of the cell? (back: Out of the cell. Water moves through the membrane towards the side with more dissolved stuff, so the cell goes soft.); A limp coriander leaf stands up again after an hour in water. Which part of each cell is pushing on the wall? (back: The big vacuole. It fills with water and pushes on the cell wall, and the cell goes firm again.); A mature human red blood cell lives for about four months. What does she not have? (back: A nucleus. She loses it as she grows up, and carries oxygen around the body without one.); Which single-celled living being flows into any shape and wraps herself round her food? (back: The amoeba. She pushes out a part of herself and closes it round the food.); Which single-celled living being swims with thousands of tiny hairs and pumps extra water out of herself? (back: The paramecium. She uses a small pump called a contractile vacuole to push out the water that keeps flowing in.); Which single-celled living being has green chloroplasts and a whip-like tail? (back: The euglena. She makes sugar in the light, and can also swim towards the light.); What were mitochondria and chloroplasts before they lived inside cells? (back: Free-living bacteria. They moved into larger cells long ago and stayed as partners.); A mushroom cell has a wall but no chloroplasts. Is a mushroom a plant or an animal? (back: Neither. Fungi are a group of their own, with cell walls like plants but no chloroplasts.); Why can a cell not grow as big as a mango? (back: Her inside grows faster than her surface. Food and oxygen come in through the surface, so they would not reach the middle.); Name four things that both plant cells and animal cells have. (back: A membrane, cytoplasm, a nucleus and mitochondria.); Oxygen is tiny. How does it cross the cell membrane? (back: It slips straight between the fat molecules of the membrane, with no help.); Sugar is too big to slip through the membrane. How does it get into a cell? (back: Through carrier proteins in the membrane, which pass it across.); A grain of starch is far too big to enter a cell. What does the body do first? (back: It cuts the starch into sugar in digestion. Sugar can then be carried in.); A cell uses energy to push salt out through her membrane. What part of the membrane does this? (back: A pump. Pumps are proteins in the membrane, and they use energy to push things across against the way they would go.)
+- **Printable cards: 24 two-sided clue cards: a clue on the front and the answer with the reason on the back:** I am the thin skin around every cell. I decide what comes in and what goes out. Who am I? (back: The cell membrane. I am made of two layers of fat molecules with proteins set into me.); I am the jelly that fills a cell. Most of the cell's work happens in me. Who am I? (back: The cytoplasm. I am mostly water, and the parts of the cell float in me.); I keep the instructions for building and running the cell, written in DNA. In many cells I am a round room. Who am I? (back: The nucleus. I keep the DNA safe, like a library.); I am a stiff box outside the membrane. Plant cells have me and animal cells do not. Who am I? (back: The cell wall. I give a plant cell her box shape and help her stand up.); I am green. I catch sunlight and use it to make sugar. Who am I? (back: The chloroplast. My green colour is what makes a leaf green.); I am a bag of water. In a plant cell I am huge and push against the wall to keep the cell firm. Who am I? (back: The vacuole. When I am full, the cell is firm. When I lose water, the plant wilts.); I release energy from food. A hard-working muscle cell has thousands of me. Who am I? (back: The mitochondrion. Plant cells have me too, and I have my own little loop of DNA.); A cell has a wall, many chloroplasts and one big vacuole. Is she a plant cell or an animal cell? (back: A plant cell. The wall, the chloroplasts and the big vacuole are the three things plant cells have and animal cells do not.); A cell has no wall and no chloroplasts, and she can be round, flat or long. Plant cell or animal cell? (back: An animal cell. With no stiff wall, animal cells can be many shapes.); A bacterium has no nucleus. Where is her DNA? (back: In the cytoplasm, in a loop. Bacteria have DNA, but the DNA floats loose instead of sitting in a nucleus.); A potato cell is put in strong salt water. Does water move into the cell or out of the cell? (back: Out of the cell. Water moves through the membrane towards the side with more dissolved stuff, so the cell goes soft.); A limp coriander leaf stands up again after an hour in water. Which part of each cell is pushing on the wall? (back: The big vacuole. It fills with water and pushes on the cell wall, and the cell goes firm again.); A mature human red blood cell lives for about four months. What does she not have? (back: A nucleus. She loses it as she grows up, and carries oxygen around the body without one.); Which single-celled living being flows into any shape and wraps herself round her food? (back: The amoeba. She pushes out a part of herself and closes it round the food.); Which single-celled living being swims with thousands of tiny hairs and pumps extra water out of herself? (back: The paramecium. She uses a small pump called a contractile vacuole to push out the water that keeps flowing in.); Which single-celled living being has green chloroplasts and a whip-like tail? (back: The euglena. She makes sugar in the light, and can also swim towards the light.); What were mitochondria and chloroplasts before they lived inside cells? (back: Free-living bacteria. They moved into larger cells long ago and stayed as partners.); A mushroom cell has a wall but no chloroplasts. Is a mushroom a plant or an animal? (back: Neither. Fungi are a group of their own, with cell walls like plants but no chloroplasts.); Why can a cell not grow as big as a mango? (back: Her inside grows faster than her surface. Food and oxygen come in through the surface, so they would not reach the middle.); Name four things that both plant cells and animal cells have. (back: A membrane, cytoplasm, a nucleus and mitochondria.); Oxygen is tiny. How does it cross the cell membrane? (back: It slips straight between the fat molecules of the membrane, with no help.); Sugar is too big to slip through the membrane. How does it get into a cell? (back: Through carrier proteins in the membrane, which pass it across.); A grain of starch is far too big to enter a cell. What does the body do first? (back: It cuts the starch into sugar in digestion. Sugar can then be carried in.); A cell uses energy to push salt out through her membrane. What part of the membrane does this? (back: A pump. Pumps are proteins in the membrane, and they use energy to push things across against the way they would naturally go.)
 - **s1 (4 min)**  
   *Parent does:* Cut out the 24 cards. Shuffle them. Make a pile in the middle with the clue side up. Decide who reads first.  
   *Parent says:* Cut out the cards and shuffle them. Put them in a pile with the clue side up. Who will be the first reader?  
@@ -260,7 +260,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
   *Parent does:* Play the first rounds. The reader reads the clue aloud and does not turn the card. Everyone answers. The reader turns the card and reads the back aloud. Whoever was right keeps the card.  
   *Parent says:* Read the clue aloud. Wait for the answers. Then turn the card and read the back. Whoever was right keeps the card.  
   *Child mode:* Read a clue. Answer. Turn the card. Did you get it right?
-  - Ask: Which part of a cell would you most like to be, and why? (good: The nucleus, because it holds the instructions.; The membrane, because it decides what passes.; Any answer with a reason is good.)
+  - Ask: Which part of a cell decides what comes in and goes out, and which part keeps the instructions? (good: The membrane decides what passes.; The nucleus keeps the instructions.; The membrane is the skin, and the nucleus is the room that keeps the DNA.)
   - Note: Read the reason on the back each time, even when the answer was right. The reasons are the learning. If nobody gets a card, put it at the bottom.
 - **s3 (6 min)**  
   *Parent does:* Keep playing until a player has 6 cards, or until the pile has been through once. Count the cards each player kept.  
@@ -268,29 +268,31 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
   *Child mode:* Keep playing. Count your cards at the end.
   - Check: A cell has a wall, chloroplasts and a big vacuole. Which kind of cell is she? → **A plant cell**
 - **s4 (2 min)**  
-  *Parent does:* Pick the card you found hardest. Ask your child to explain it again in their own words.  
+  *Parent does:* Ask your child which card was hardest. Ask them to explain it again in their own words.  
   *Parent says:* Which card was hardest? Explain it to me again in your own words.  
   *Child mode:* Which card was hardest? Explain it again in your own words.
-  - Think: If you could add one more card to the game, what clue would you write?
+  - Note: The three things are the membrane, the cytoplasm and the DNA. The membrane is the skin that decides what passes in and out. The cytoplasm is the jelly where most of the cell's work happens. The DNA holds the instructions, and in most cells it is kept in the nucleus.
+  - Think: Which three things does almost every cell have, and what does each one do?
 ### g2 · Gatekeeper: who gets through the skin? (20 min)
 - **rules:** Cut out the 13 visitor cards and the 4 gate signs: PASS, HELPER, PUMP and BLOCK. Cut out the 5 energy tokens. Put the tokens in the middle.; PASS means the visitor slips through the skin with no help. HELPER means a carrier protein passes the visitor across. PUMP means the cell uses 1 energy to push the visitor across. BLOCK means the visitor cannot get through.; One player is the gatekeeper. The reader reads the front of a visitor card. The gatekeeper puts one gate sign face down. With 3 or 4 players, the others may whisper advice to the gatekeeper, but only the gatekeeper places the sign.; The reader turns the card over. If the sign matches the back, the cell scores a point. If the sign was wrong, the cell loses 1 energy token. A correct PUMP also costs 1 energy token.; If the energy tokens run out, the cell has stopped working and the game ends. If all 13 cards are played with energy left, the cell wins.; Take turns being the gatekeeper after every four cards. Playing alone: you are the gatekeeper for every card.
-- **Printable cards: 13 two-sided visitor cards: the visitor on the front and what the skin does on the back:** Oxygen, a tiny molecule with no charge, outside a muscle cell. (back: PASS. Oxygen slips between the fat molecules of the membrane with no help.); Carbon dioxide, a tiny molecule with no charge, leaving a cell. (back: PASS. Like oxygen, it slips straight through the fat layer.); Water, around a potato cell sitting in plain water. (back: PASS. Water crosses the membrane in both directions, a little by itself and faster through water channels. It ends up on the side with more dissolved stuff.); A vitamin that dissolves in fat, such as vitamin A. (back: PASS. It dissolves in the fat of the membrane, so it slides through. Ernest Overton noticed this in the 1890s.); Alcohol, made by a yeast cell. (back: PASS. The molecules are small, so the alcohol leaves the yeast cell through the membrane.); Glucose, a sugar, outside a muscle cell. (back: HELPER. Glucose is too big and too watery to slip through, so a carrier protein in the membrane passes it across.); Amino acids, the building blocks for proteins, outside a cell. (back: HELPER. Special carrier proteins in the membrane take amino acids across.); Sodium from salt has leaked into a nerve cell. The cell needs it out again. (back: PUMP. A pump protein uses energy to push sodium out, against the way it would naturally go.); Potassium that the cell needs to gather inside, where there is already plenty. (back: PUMP. The same pump that pushes sodium out brings potassium in. It uses energy.); Calcium, which the cell keeps very low inside. (back: PUMP. Pumps push calcium out of the cell, and each push costs energy.); A grain of starch from a roti. (back: BLOCK. Starch is far too big. Digestion first cuts it into sugar, and sugar can then be carried in.); A big protein from food, such as one from dal. (back: BLOCK. Whole proteins are too big. Digestion cuts them into amino acids first.); A germ, which is a whole bacterium, next to a skin cell. (back: BLOCK. A whole bacterium is far too big to cross a cell's membrane. Your body has other defences too.)
+- **Printable cards: 13 two-sided visitor cards: the visitor on the front and what the skin does on the back:** Oxygen, a very tiny molecule, outside a muscle cell. (back: PASS. Oxygen slips between the fat molecules of the membrane with no help.); Carbon dioxide, a very tiny molecule, leaving a cell. (back: PASS. Like oxygen, it slips straight through the fat layer.); Water, around a potato cell sitting in plain water. (back: PASS. Water crosses the membrane in both directions, a little by itself and faster through water channels. It ends up on the side with more dissolved stuff.); A vitamin that dissolves in fat, such as vitamin A. (back: PASS. It dissolves in the fat of the membrane, so it slides through. Ernest Overton noticed this in the 1890s.); Alcohol, made by a yeast cell. (back: PASS. The molecules are small, so the alcohol leaves the yeast cell through the membrane.); Glucose, a sugar, outside a muscle cell. (back: HELPER. Glucose cannot slip between the fat molecules of the membrane. So a carrier protein in the membrane passes it across.); Amino acids, the building blocks for proteins, outside a cell. (back: HELPER. Special carrier proteins in the membrane take amino acids across.); Sodium from salt has leaked into a nerve cell. The cell needs it out again. (back: PUMP. A pump protein uses energy to push sodium out, against the way it would naturally go.); Potassium, outside a cell. The cell needs to gather it inside, where there is already plenty. (back: PUMP. The same pump that pushes sodium out brings potassium in. It uses energy.); Calcium, which the cell keeps very low inside. (back: PUMP. Pumps push calcium out of the cell, and each push costs energy.); A grain of starch from a roti. (back: BLOCK. Starch is far too big. Digestion first cuts it into sugar, and sugar can then be carried in.); A big protein from food, such as one from dal. (back: BLOCK. Whole proteins are too big. Digestion cuts them into amino acids first.); A germ, which is a whole bacterium, next to a skin cell. (back: BLOCK. A whole bacterium is far too big to cross a cell's membrane. Your body has other defences too.)
 - **Printable tokens: 4 gate signs and 5 energy tokens:** PASS; HELPER; PUMP; BLOCK; ENERGY; ENERGY; ENERGY; ENERGY; ENERGY
 - **s1 (4 min)**  
   *Parent does:* Cut out the cards, the signs and the tokens. Put the energy tokens in the middle. Read the four signs aloud and say what each one means.  
-  *Parent says:* Cut out everything. PASS means no help. HELPER means a carrier protein. PUMP costs energy. BLOCK means it cannot get through.  
+  *Parent says:* Cut out everything. PASS means the visitor slips through with no help. HELPER means a carrier protein passes the visitor across. PUMP means the cell uses energy to push the visitor across. BLOCK means the visitor cannot get through.  
   *Child mode:* Cut out the cards. Learn the four signs: PASS, HELPER, PUMP, BLOCK.
   - Note: If you are playing alone, put the visitor cards in a pile and play the gatekeeper for every card.
 - **s2 (12 min)**  
   *Parent does:* The reader reads a visitor card. The gatekeeper puts a sign face down. The reader turns the card over and reads the back. Score a point for a match. Take away 1 energy for a wrong sign or a correct PUMP.  
   *Parent says:* Read the visitor. The gatekeeper picks a sign and puts it face down. Turn the card over and read the back aloud.  
   *Child mode:* Read the visitor. Pick a sign. Turn the card. Were you right?
-  - Ask: Which visitors were the easiest to sort, and why? (good: The ones that are tiny, like oxygen.; The ones that are very big, like starch.; Any answer with a reason.)
+  - Ask: What do the visitors that get a PASS sign have in common? (good: They are very small, like oxygen.; They slip between the fat molecules of the skin.; They need no helper and no energy.)
   - Note: Read the reason on the back each time. If the cell runs out of energy, talk about why: real cells run out of energy too, and pumps stop when they do. Then play again.
 - **s3 (4 min)**  
   *Parent does:* Count the points and the energy tokens left. Ask your child what the skin does that a wall does not.  
   *Parent says:* Count the points. Count the energy tokens left. What can the skin do that a plain wall cannot do?  
   *Child mode:* Count your points. What can the skin do that a wall cannot?
+  - Note: For the think question, a good answer is that oxygen slips through the fat layer by itself, going the way it would naturally go, and so needs no energy. A pump pushes something the other way, against the way it would naturally go, and that takes energy. For the question about the wall, a good answer is that a skin can choose. It lets some things slip through, helps some across, pumps some across and blocks the rest, and a plain wall only blocks everything.
   - Check: Which visitor needs the cell to spend energy to get across? → **Sodium that must be pushed out**
   - Think: Why does the skin need energy to pump, when it needs none to let oxygen through?
 
@@ -303,13 +305,13 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 - **record:** Write the sag in millimetres for each strip at the start, at 20 minutes and at 40 minutes, and what each strip feels like. Then draw a line graph with one line for each cup.
 - **results table:** Cup | What is in it | Start (mm) | 20 min (mm) | 40 min (mm) | How it feels
 - **s1 (5 min)**  
-  *Parent does:* Show the three cups. Say what goes in each. Ask your child to guess which strip will be stiffest and which will be floppiest, and to say why. Write down both.  
+  *Parent does:* Show the three cups. Say what goes in each. Ask your child to guess which strip will be stiffest and which will be floppiest, and to say why. Write down the guess and the reason.  
   *Parent says:* We will put potato strips in three cups. Cup A has plain water. Cup B has a little salt. Cup C has a lot of salt. After 40 minutes, which strip will be stiffest? Which will be floppiest? Why do you think so?  
-  *Child mode:* Three cups. A is plain. B has a little salt. C has a lot. Which strip ends up floppiest? Why?
+  *Child mode:* There are three cups of water. A is plain. B has a little salt. C has a lot of salt. Which potato strip will end up floppiest? Why?
   - Ask: Why do you think that strip will be the floppiest? (good: Salt takes something out of the potato.; Salt makes things dry.; I think the salt will change the water inside.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the results table.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* A grown-up cuts six strips from one potato, each 1 centimetre wide and 6 centimetres long. Cut them thin, about 5 millimetres. Put 200 millilitres of water in each cup. Stir 1 teaspoon of salt into B and 4 teaspoons into C. Stir C for a full minute. Label the cups.  
+  *Parent does:* A grown-up cuts six strips from one potato, each 1 centimetre wide, 6 centimetres long and about 5 millimetres thick. Put 200 millilitres of water in each cup. Stir 1 teaspoon of salt into B and 4 teaspoons into C. Stir C for a full minute. Label the cups.  
   *Parent says:* Pour 200 millilitres of water into each cup. Stir one level teaspoon of salt into B. Stir four teaspoons into C. Stir C until you cannot see any salt. Write A, B and C on the labels.  
   *Child mode:* Pour water into three cups. Stir 1 spoon of salt into B. Stir 4 spoons into C.
   - Note: Cut the strips about the same size, because thick strips stay stiff longer. Any cups that hold 200 millilitres will do, not only steel ones. With 2-4 children, give each child one cup to look after and measure, with one child as timer and one as recorder. One child alone does all three cups. Four teaspoons dissolve in 200 millilitres if you stir for a minute. Leave cup A with no salt, because it is the control.
@@ -321,32 +323,33 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
   - Note: A fresh potato strip hardly droops at all, so the numbers at the start are typically 0 to 3 millimetres. Measure the same way every time, with the same length of strip sticking out.
   - Check: Why do we measure the strips before they go in the cups? → **So we know how stiff each strip was at the start**
 - **s4 (20 min)**  
-  *Parent does:* At 20 minutes, take one strip from each cup. Pat it dry. Measure the droop the same way. Write the number and what the strip feels like. Put it back. Repeat at 40 minutes. While you wait, read the cell membrane card.  
+  *Parent does:* At 20 minutes, take one strip from each cup. Pat it dry. Measure the droop the same way. Write the number and what the strip feels like. Put it back. Repeat at 40 minutes. While you wait, read the card called 'The cell membrane: a skin that chooses what passes'.  
   *Parent says:* At 20 minutes, take one strip from each cup and pat it dry. Measure how far the tip droops, and feel it. Write both down. Do it again at 40 minutes.  
   *Child mode:* Take a strip out. Pat it dry. Measure the droop. Feel it. Write it down.
   - Ask: What do you notice about the strips in cup C? (good: It bends more.; It feels soft and rubbery.; It looks wrinkly.; It has gone limp.)
   - Note: Typically the strip in A stays stiff, B droops a little, and C droops a lot and feels rubbery by 40 minutes. If all three are still stiff, check that the salt in C really dissolved, and leave the strips for an hour more. A strip in plain water may feel even firmer than at the start. That is also a result.
   - Check: After 40 minutes the strip in cup C droops much more than the strip in cup A. What does this show? → **Water left the potato cells and went into the salty water**
 - **s5 (10 min)**  
-  *Parent does:* Draw a line graph with minutes along the bottom and droop up the side. Draw one line for each cup. Then ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Draw a line graph with minutes along the bottom and droop up the side. Draw one line for each cup. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a line for each cup. Say what you thought, what you saw, and why.
-  - Note: A strong answer says that the strip in strong salt water went floppy because the salt was outside, and that water left the cells. After they have said what they saw, explain: water passes through the thin skin of every cell in both directions, and ends up on the side with more dissolved stuff. This is osmosis. Plain water gives a firm strip, because the cells have more dissolved stuff inside than outside, so water moves in.
+  *Child mode:* Draw a line for each cup. Say what you thought would happen. Say what you saw. Say why you think it happened.
+  - Note: A strong answer says that the strip in strong salt water went floppy because the salt was outside, and that water left the cells. After they have said what they saw, explain: water passes through the thin skin of every cell in both directions, and ends up on the side with more dissolved stuff. This is osmosis. Plain water gives a firm strip, because the cells have more dissolved stuff inside than outside, so water moves in. For the think question, a good answer is that water keeps moving into the cells all night, because they hold more dissolved stuff than plain water, so the cells swell and the strip gets firmer.
   - Think: A potato strip in plain water for a whole night might even grow a little longer and firmer. Why might that happen?
 ### e2 · Naked Egg: a skin you can see and measure (50 min, 5 days)
+- **problem:** A raw egg has a hard shell, and under the shell is a thin skin. Vinegar dissolves the shell and leaves the thin skin behind. That skin lets water through, in a way that is a lot like the skin around a cell. So the egg lets you see, at a size you can measure with a string, what water does at the skin of a cell.
 - **question:** What happens to an egg with no shell when it sits in plain water, and then in thick syrup?
 - **predict:** Before you start, guess. What will the egg look and feel like with no shell? Will it get bigger or smaller in plain water? Why do you think so?
 - **fair test:** One egg is measured around its middle at every stage with the same piece of string. Between measurements it stays in the same kind of jar at room temperature. Only the liquid changes, first plain water and then thick syrup, so any change in size comes from the liquid.
-- **safety:** Handle the raw egg gently over a bowl, because it breaks easily. Do not eat the egg or taste the liquids. Wash your hands after touching the egg. If your family does not handle raw egg, skip this and do the Potato Strips and Raisin Swell tests instead. Raw egg can carry germs, so wash hands and the bowl with soap after touching it.
+- **safety:** Handle the raw egg gently over a bowl, because it breaks easily. Do not eat the egg or taste the liquids. Raw egg can carry germs, so wash your hands and the bowl with soap after touching the egg. If your family does not handle raw egg, skip this and do the Potato Strips and Raisin Swell tests instead.
 - **record:** Write the distance around the egg on days 3, 4 and 5, and what it looks and feels like. Draw the egg at each stage.
 - **results table:** Day | What the egg is in | Distance around (cm) | What it looks and feels like
-- **schedule:** day 1: Guess. Put the egg in a jar and cover it with vinegar. Watch the bubbles. (10 min); day 2: Gently pour off the vinegar and add fresh vinegar. (5 min); day 3: Rinse the egg. Measure around it. Put it in plain water. (15 min); day 4: Measure again. Move the egg into honey or syrup. (10 min); day 5: Measure a last time. Say what happened and why. (10 min)
+- **schedule:** day 1: Guess what will happen to the shell. Put the egg in a jar and cover it with vinegar. Watch the bubbles. (10 min); day 2: Gently pour off the vinegar and add fresh vinegar. (5 min); day 3: Rinse the egg. Measure around it. Put it in plain water. (15 min); day 4: Measure again. Move the egg into honey or syrup. (10 min); day 5: Measure a last time. Say what happened and why. (10 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* Show your child the egg. Ask what will happen to the shell in vinegar, and what the egg will be like with no shell. Then put the egg in the jar. Cover it with vinegar. Watch the bubbles.  
   *Parent says:* We will put an egg in vinegar for two days. What do you think will happen to the shell? What will the egg be like without a shell? Why do you think so?  
   *Child mode:* An egg goes into vinegar for two days. What happens to the shell? Why?
   - Ask: What can you see on the shell in the vinegar? (good: Bubbles.; Tiny bubbles everywhere.; It is fizzing.)
-  - Note: Do not correct the guess. The vinegar is an acid, and the shell is made of calcium carbonate. They react and make carbon dioxide, which is the gas in the bubbles. Cover the jar loosely and keep it out of the sun. If your kitchen is very hot, keep the jar in the fridge, and then the shell may take 3 days. With 2-4 children, give each pair its own egg and jar, so everyone can measure, or share one egg with children taking turns to measure.
+  - Note: Do not correct the guess. The vinegar is an acid, and the shell is made of calcium carbonate. They react and make carbon dioxide, which is the gas in the bubbles. Cover the jar loosely and keep it out of the sun. If your kitchen is very hot, keep the jar in the fridge, and then the shell may take 3 days. With 2-4 children, give each pair their own egg and jar, so everyone can measure, or share one egg with children taking turns to measure.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* On day 2, gently pour off the old vinegar into a bowl without tipping the egg. Add fresh vinegar. Look at the egg. The shell should be mostly gone.  
   *Parent says:* Pour off the old vinegar slowly, and keep the egg in the jar. Add fresh vinegar. What has happened to the shell?  
@@ -362,23 +365,24 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* On day 4, lift the egg out and measure around the middle. Write the number. Put the egg in a jar and pour honey or thick syrup over it until it is covered. The egg will float, so turn it over every few hours, or press a small plate on top.  
   *Parent says:* Measure around the egg again. What is different? Then move the egg into the honey or syrup jar.  
-  *Child mode:* Measure the egg again. Is it bigger? Put it in honey.
+  *Child mode:* Measure the egg again. Is it bigger? Put it in the honey or syrup.
   - Ask: Did the egg get bigger, smaller or stay the same? Why do you think so? (good: Bigger.; Water went into it.; It sucked up the water.)
   - Note: After a day in water, the egg is typically about 0.5 to 1.5 centimetres bigger around, so use a soft string and read it to the nearest half centimetre. It may look pale and clear. If you see no change, the egg may have a tiny crack. Try a new egg.
 - **s5 (10 min)**  
-  *Parent does:* On day 5, lift the egg out gently and measure around the middle. Look at the skin. Write the number. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* On day 5, lift the egg out gently and measure around the middle. Look at the skin. Write the number. Ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Measure the egg for the last time. Tell me three things. What did you think would happen? What did you see? Why did it happen?  
-  *Child mode:* Measure the egg. Say what you thought, what you saw, and why.
-  - Note: After one day the egg in honey is typically smaller and wrinkled, and honey works better than thin syrup, because water left the egg and went into the thick sugar syrup. After they have said what they saw, explain: water crosses the thin skin in both directions and ends up on the side with more dissolved stuff. In plain water the egg swelled. In syrup it shrank. Wash hands, then throw the egg and the liquids away.
-  - Think: A hen's egg is one huge cell. What else in the kitchen is a single cell?
+  *Child mode:* Measure the egg. Say what you thought would happen. Say what you saw. Say why you think it happened.
+  - Note: After one day in honey, the egg is typically smaller and wrinkled, because water left the egg and went into the thick sugar syrup. Honey works better than thin syrup. After they have said what they saw, explain: water crosses the thin skin in both directions and ends up on the side with more dissolved stuff. In plain water the egg swelled. In syrup it shrank. For the think question, a good answer is that water moved into the egg in plain water, and out of the egg in syrup. Wash hands, then throw the egg and the liquids away.
+  - Think: In plain water the egg got bigger, and in syrup it got smaller. Which way did the water move through the egg's skin each time?
 
 ## Activities
 ### a1 · Limp to Crisp: bring a wilted herb back to life (30 min, 2 days)
+- **problem:** A plant stands up because its cells are full of water. When the cells lose water, they go soft and the plant droops. In this activity you let a bunch of herbs go limp. Then you stand half of it in plain water and half in salt water, and you see which half can fill its cells again.
 - **safety:** A grown-up cuts the stems.
 - **record:** Draw the two bunches at the start and after 30 minutes. Measure with a ruler how high the tallest sprig stands above the cup rim at the start, at 30 minutes and at 60 minutes. Write which bunch stood up.
 - **schedule:** day 1: Leave the bunch out on the counter, away from the fridge and the sun, until the next day. (5 min); day 2: Cut the stem ends, stand half the bunch in plain water and half in salt water, and check after 15 and 30 minutes. (25 min)
 - **s1 (5 min)**  
-  *Parent does:* Leave the bunch on the counter overnight, out of the fridge and out of the sun. Ask your child to guess how it will look tomorrow, and what will bring it back.  
+  *Parent does:* Leave the bunch of herbs on the counter overnight, out of the fridge and out of the sun. Ask your child to guess how it will look tomorrow, and what will make it stand up again.  
   *Parent says:* Leave this bunch out overnight. How do you think it will look tomorrow? What might make it stand up again? Why?  
   *Child mode:* Leave the bunch out. Guess how it will look tomorrow. Why?
   - Note: In a warm kitchen, coriander goes limp in a few hours. If your bunch is still firm, leave it for longer.
@@ -387,14 +391,15 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
   *Parent says:* Cut the stem ends. Put half the bunch in plain water and half in salt water. Look after 15 minutes and again after 30.  
   *Child mode:* Cut the stems. Put half in plain water, half in salt water. Look after 30 minutes.
   - Ask: What is different between the two bunches? (good: One is standing up.; One is still floppy.; The plain-water one is fresher.)
-  - Note: Typically the plain-water bunch stands up within 30 to 90 minutes and the salt-water bunch stays limp or gets floppier. Cold water works faster, and so does letting the leaves sit in the water too. With 2-4 children, make four small bunches and let each child watch one, or split into plain and salt teams. Water climbs up the cut stem and moves into the leaf cells. In salt water the cells cannot fill. If neither bunch changes, leave both for two hours. After they have said what they saw, explain: leaf cells are firm when their big vacuoles are full of water. Salty water outside pulls water out of the cells, and plain water lets them fill.
+  - Note: Typically the plain-water bunch stands up within 30 to 90 minutes and the salt-water bunch stays limp or gets floppier. Cold water works faster, and so does letting the leaves sit in the water too. With 2-4 children, make four small bunches and let each child watch one, or split into plain and salt teams. Water climbs up the cut stem and moves into the leaf cells. In salt water the cells cannot fill. If neither bunch changes, leave both for two hours. After they have said what they saw, explain: leaf cells are firm when their big vacuoles are full of water. Salty water outside pulls water out of the cells, and plain water lets them fill. For the think question, a good answer is that plain water helps the vegetable cells fill and stay firm, but salt water would pull water out of them and make the vegetables limp.
   - Check: A limp herb stands up again in plain water. What has changed inside the leaf? → **The cells have filled with water and gone firm**
   - Think: Why do shopkeepers sprinkle water on vegetables, but not salt water?
 ### a2 · Ice Race: why more surface means faster change (25 min)
+- **problem:** A cell takes in food and oxygen through her surface, which is her outside skin. If a cell were very big, the surface would be too small to feed all of her inside. In this activity you race a whole ice cube against the same amount of crushed ice. You will see how much difference extra surface makes.
 - **safety:** A grown-up crushes the ice. Keep the ice away from the face.
 - **record:** Write how many minutes the whole ice cube and the crushed ice take to melt completely.
 - **s1 (5 min)**  
-  *Parent does:* Show the two cubes. Ask your child which will melt first: a whole cube or the same amount crushed. Ask for a reason. Write down both.  
+  *Parent does:* Show the two cubes. Ask your child which will melt first: a whole cube or the same amount crushed. Ask for a reason. Write down the guess and the reason.  
   *Parent says:* Here are two cubes of ice. One will stay whole. One will be crushed into tiny pieces. Which will melt first? Why do you think so?  
   *Child mode:* One ice cube stays whole. One is crushed. Which melts first? Why?
   - Ask: Why do you think that one will melt first? (good: More of the ice touches the air.; The little pieces are thin.; There is more outside to get warm.)
@@ -404,17 +409,18 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
   *Child mode:* Crush one cube in a cloth. Put each in a katori. Start the timer.
   - Note: Use cubes from the same tray, so they weigh the same. Keep both katoris in the same spot, away from the fan.
 - **s3 (15 min)**  
-  *Parent does:* Check both katoris every 5 minutes. Write how much ice is left in each. Note the time when each one is fully melted. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Check both katoris every 5 minutes. Write how much ice is left in each. Note the time when each one is fully melted. Ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Look every five minutes. When did the crushed ice finish melting? When did the whole cube finish? Why do you think that happened?  
   *Child mode:* Look every five minutes. Which melts first? Why?
-  - Note: The times depend on how warm your kitchen is. Typically the crushed ice melts about two to four times faster than the whole cube. A whole cube may take 15 to 40 minutes, and the crushed ice 5 to 15. With 2-4 children, give one child each job: timer, whole-cube watcher, crushed-ice watcher and recorder. One child alone can do all four. After they have said what they saw, explain: heat only reaches the ice through its surface. The crushed pieces have much more surface in all, so heat reaches all of the ice faster. A cell takes in food and oxygen through her surface in the same way, which is why cells stay small.
-  - Check: Why does crushed ice melt faster than a whole cube of the same amount? → **It has more surface for the warmth to reach**
+  - Note: The times depend on how warm your kitchen is. Typically the crushed ice melts about two to four times faster than the whole cube. A whole cube may take 15 to 40 minutes, and the crushed ice 5 to 15. With 2-4 children, give one child each job: timer, whole-cube watcher, crushed-ice watcher and recorder. One child alone can do all four. After they have said what they saw, explain: heat only reaches the ice through its surface. The crushed pieces have much more surface in all, so heat reaches all of the ice faster. A cell takes in food and oxygen through her surface in the same way, which is why cells stay small. For the think question, a good answer is that food enters through the surface, so it would not reach the middle of a huge cell, and the middle would starve.
+  - Check: Why does crushed ice melt faster than a whole cube that has the same amount of ice? → **It has more surface for the warmth to reach**
   - Think: If a cell grew as big as a mango, how would food reach the middle?
 ### a3 · Build a Plant Cell and an Animal Cell from the kitchen (40 min)
+- **problem:** Plant cells and animal cells share some parts, and plant cells have three extra ones. In this activity you build both kinds of cell from kitchen things, so that you can see which parts are shared and which three parts only the plant cell has.
 - **safety:** Check for allergies to milk, wheat, chickpea and beans before you start. Do not eat any of it, because raw rajma beans make people ill. Keep beans and toothpicks away from small children, who may put them in their mouths.
 - **record:** Draw both cells and label the parts. Write the three parts that only the plant cell has.
 - **s1 (10 min)**  
-  *Parent does:* Lay out all the things. Ask your child which thing could stand for each cell part. Name the skin, the jelly, the instruction room, the green parts, the water bag and the stiff box. Let them choose first.  
+  *Parent does:* Lay out all the things. Say the cell parts aloud: the skin (membrane), the jelly (cytoplasm), the instruction room (nucleus), the green parts (chloroplasts), the water bag (vacuole) and the stiff box (cell wall). Ask your child which kitchen thing could stand for each part. Let them choose first.  
   *Parent says:* Here are the kitchen things. Which one could be the jelly? Which could be the nucleus? Which could be the stiff wall? Choose first.  
   *Child mode:* Look at the things. Which could be the jelly? The nucleus? The wall?
   - Ask: Which part of the cell is the stiff box? (good: The cell wall.; The wall that only plants have.)
@@ -426,38 +432,41 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
   - Note: Wash hands before and after, and throw the food away afterwards. With 2-4 children, each child or pair builds one cell and then compares. One child alone builds both. Use a katori with cling film if you have no zip bag. The water bag is the big vacuole of the plant cell. In the animal cell you could add a very small water bag for a small vacuole.
   - Check: Which parts does the plant cell model have that the animal cell model does not? → **The box, the green peas and the big water bag**
 - **s3 (10 min)**  
-  *Parent does:* Add a paper flag to each part. Look at both models. Ask your child what is the same, what is different, and what the plant cell can do that the animal cell cannot. Then close your eyes while a grown-up hides one part, and name the missing part.  
+  *Parent does:* Add a paper flag to each part. Look at both models. Ask your child what is the same, what is different, and what the plant cell can do that the animal cell cannot. Then your child closes their eyes while you hide one part, and names the missing part.  
   *Parent says:* Label every part. What is the same in both cells? What is different? What can the plant cell do that the animal cell cannot?  
   *Child mode:* Label every part. What is the same? What is different?
   - Ask: What can the plant cell do that the animal cell cannot? (good: Make sugar from sunlight.; Stay stiff and stand upright.; Hold a lot of water.)
+  - Note: For the think question, a good answer is to keep the box for the wall and take out the green peas, because a mushroom cell has a wall but no chloroplasts.
   - Think: A mushroom cell has a wall but no chloroplasts. How would you change the plant cell model to make a mushroom cell?
 ### a4 · Raisin Swell: plain water or salt water? (20 min, 2 days)
+- **problem:** A raisin is a dried grape, so its cells have lost most of their water. In this activity you leave raisins in plain water and in salt water overnight. Then you see what each kind of water does to the cells.
 - **safety:** Do not eat the soaked raisins. Wash your hands afterwards.
 - **record:** Draw a raisin from each cup, and write how big each one looks and feels the next morning.
 - **schedule:** day 1: Put 6 raisins in each cup. Guess what each cup will do. Leave overnight. (8 min); day 2: Look at, measure and feel the raisins. Say why they changed. (12 min)
 - **s1 (8 min)**  
   *Parent does:* Measure the longest side of 3 raisins from the packet and write the average. Put 6 raisins in each cup. Pour plain water in one and strong salt water in the other. Ask your child to guess what each cup of raisins will look like tomorrow, and why.  
   *Parent says:* Put six raisins in each cup. One cup has plain water. One has strong salt water. What will each look like tomorrow? Why?  
-  *Child mode:* Six raisins in each cup. Plain water in one. Salt water in the other. Guess why.
+  *Child mode:* Put six raisins in each cup. Pour plain water in one and salt water in the other. Guess what each cup of raisins will look like tomorrow, and why.
   - Ask: Which raisins do you think will change the most? Why? (good: The ones in plain water, because they are dry.; They will soak up water.)
   - Note: Use the same raisins and the same amount of water in each cup. Soak for 8 to 12 hours. With 2-4 children, each child can have their own two cups.
 - **s2 (12 min)**  
   *Parent does:* Next morning, take out 3 raisins from each cup. Look at them, measure the longest side of each, write the average and squeeze them gently. Draw both. Ask your child what they saw and why.  
-  *Parent says:* Take one raisin out of each cup. Look, measure and squeeze. Tell me what you thought, what you saw, and why.  
+  *Parent says:* Take one raisin out of each cup. Look, measure and squeeze. Tell me what you thought would happen, what you saw, and why you think it happened.  
   *Child mode:* Take a raisin out of each cup. Look. Squeeze. What changed?
-  - Note: Raisins in plain water are typically plump and smooth, often clearly bigger than at the start. Raisins in salt water stay smaller and more wrinkly, although they may swell a little. After they have said what they saw, explain: a raisin is a dried grape, packed with sugar. Plain water has less dissolved stuff than the raisin's cells, so water moves in. Strong salt water has nearly as much, so less water moves in.
+  - Note: Raisins in plain water are typically plump and smooth, often clearly bigger than at the start. Raisins in salt water stay smaller and more wrinkly, although they may swell a little. After they have said what they saw, explain: a raisin is a dried grape, packed with sugar. Plain water has less dissolved stuff than the raisin's cells, so water moves in. Strong salt water has nearly as much, so less water moves in. For the think question, a good answer is that the dry raisins soak up the warm liquid and swell, so they become soft and plump.
   - Check: Why did the raisins in plain water swell? → **Water moved into their sugary cells**
   - Think: Why do we put raisins in warm milk or water before making payasam?
 
 ## Projects
 ### p1 · Hay Pond: a week of looking for single-celled swimmers (60 min, 7 days)
+- **problem:** A drop of pond water can hold hundreds of living beings that are each just one cell. They are too small to see clearly without a microscope. In this project you grow a small pond in a jar for a week, and you look for signs that single-celled living beings are growing in it.
 - **safety:** A grown-up boils the water. Do not drink or taste the pond water. Wash your hands after touching the jar. Keep the jar covered so mosquitoes cannot lay eggs in it, and throw the water down a drain at the end.
 - **record:** Draw the jar on days 1, 3, 5 and 7. Write how cloudy the water is, what it smells like, and what you see in the torch beam.
-- **schedule:** day 1: Pour the cooled water in the jar, add the grass and a teaspoon of pond or vase water. Cover loosely. Put it near a window, out of direct sun. (15 min); day 3: Look at the water in a torch beam. Is it cloudy? Does it smell? Draw the jar. (10 min); day 5: Shine the torch through the side. Look for tiny specks that move. Use a magnifier or a phone camera. (15 min); day 7: Look one last time. Draw what you see. Say who lives in your pond, and what they might be eating. (20 min)
+- **schedule:** day 1: Pour the cooled water into the jar. Add the grass and a teaspoon of pond or vase water. Cover loosely. Put the jar near a window, out of direct sun. (15 min); day 3: Look at the water in a torch beam. Is it cloudy? Does it smell? Draw the jar. (10 min); day 5: Shine the torch through the side. Look for tiny specks that move. Use a magnifier or a phone camera. (15 min); day 7: Look one last time. Draw what you see. Say who lives in your pond, and what they might be eating. (20 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* A grown-up boils the water and lets it cool. Pour 300 millilitres into the jar. Add the pinch of grass and 1 teaspoon of pond or vase water. Cover the jar loosely and put it near a window. Ask your child what might grow in the jar.  
   *Parent says:* Pour the cooled water into the jar. Add the grass and a teaspoon of pond or vase water. Cover it loosely. Put it by a window.  
-  *Child mode:* Make the pond. Water, grass, a teaspoon of pond water. Cover it loosely.
+  *Child mode:* Make the pond. Put the cooled water in the jar. Add the grass. Add a teaspoon of pond or vase water. Cover it loosely.
   - Ask: What do you think might grow in the jar? Why? (good: Tiny living things from the pond water.; Mould.; Nothing, because the water was boiled.)
   - Note: If you have no pond or puddle, use a teaspoon of water from a flower vase or the saucer of a pot plant. Single-celled living things often arrive on the grass itself as resting cells. Do not use a tight lid, because the microbes need air. A few grains of uncooked rice also work in place of grass. For a fair comparison, set up a second jar with grass but no pond or vase water, and see which one turns cloudy. With 2-4 children, each child can start a jar with water from a different place (vase, puddle, plant saucer) and compare; one child alone can use one jar.
 - **s2 (10 min)**  
@@ -475,8 +484,9 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
   *Parent does:* On day 7, look one last time. Compare your four drawings. Ask your child who lives in the pond, and what they might be eating. Then throw the water away and wash the jar.  
   *Parent says:* Compare your four drawings. Who lives in your pond? What might they be eating? What do they need?  
   *Child mode:* Compare your drawings. Who lives in your pond? What do they eat?
+  - Note: A good answer is that the living beings came from the teaspoon of pond or vase water, and from the grass, where single-celled living things often wait as tiny resting cells. Boiling killed the living things in the first water, so any that grew must have arrived later with the pond water or the grass.
   - Check: The boiled water in the jar was clear on day 1 and cloudy on day 3. What does the cloudiness show? → **Living things from the pond water and the grass have been growing**
-  - Think: Nobody put these living beings in the jar on purpose. Where did they come from?
+  - Think: Nobody put these living beings in the jar on purpose, and the water was boiled. Where could they have come from?
 
 ## Challenges
 ### c1 · Be the Membrane: build a filter that picks by size (40 min)
@@ -488,7 +498,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Ask your child what the filter must stop and what it must let through. Ask what in a real cell does a similar job.  
   *Parent says:* Your filter must stop rice, sago and sand. It must let water and salt through. What does a similar job in a real cell?  
-  *Child mode:* The filter stops rice, sago and sand. It lets water through. Where is a skin like this?
+  *Child mode:* The filter stops rice, sago and sand. It lets water through. What part of a cell does a job like this?
   - Ask: What in a cell stops some things and lets others in? (good: The cell membrane.; The skin around the cell.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* A grown-up cuts a clean plastic bottle in half. Turn the top half upside-down in the jug to make a funnel. Put the first layer into the funnel.  
@@ -505,7 +515,8 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 - **s4 (10 min)**  
   *Parent does:* Ask your child to explain their best filter. Then ask how a cell's skin is cleverer than the filter.  
   *Parent says:* Explain your best filter. Then tell me one thing that a cell skin can do and your filter cannot.  
-  *Child mode:* Explain your best filter. What can a cell skin do that it cannot?
+  *Child mode:* Explain your best filter. What can a cell skin do that your filter cannot?
+  - Note: For the think question, a good answer is that a real cell skin has carrier proteins and pumps that pass some things and not others. Its fat layer also lets some things slip through and blocks the rest.
   - Think: Your filter picks only by size. A cell skin also picks by what the visitor is made of. How could it do that?
 
 ## Worksheets
@@ -529,7 +540,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
    **Answer:** a cell wall → Plant cells only; chloroplasts → Plant cells only; a membrane → Both; a nucleus → Both; a very large central vacuole → Plant cells only; mitochondria → Both. *Why:* Plant cells have three extra parts: a wall, chloroplasts and a large vacuole. Everything else on this list is found in both kinds of cell.
 8. (truefalse) Salt can pull water out of mango pieces even though the pieces are not sitting in any water.  
    **Answer:** True. *Why:* True. The salt sits on the outside of the cells, and water moves out through the cell skins towards it. That is why a pool of water collects at the bottom of a bowl of salted mango.
-9. (count) Meenakshi, a girl in Class 4 in Madurai, finds that her strip in cup A droops 2 mm after 40 minutes, and her strip in cup C droops 26 mm. How many times more does the strip in C droop than the strip in A?  
+9. (count) In the Potato Strips test, the strip in cup A droops 2 mm after 40 minutes, and the strip in cup C droops 26 mm. How many times as much does the strip in C droop as the strip in A?  
    **Answer:** 13. *Why:* 26 divided by 2 is 13. The strip in strong salt water drooped 13 times as much, because the salt was the only thing that was different.
 10. (write) A friend says: 'A plant cannot be thirsty when she is standing in water.' What would you tell your friend?  
    **Answer:** A plant can be thirsty in salty water. Salt outside the root cells pulls water out of them, so the cells lose water and the plant wilts, even though water is all around. In plain water, the cells stay full.. *Why:* A strong answer says that salty water pulls water out of the cells, and mentions osmosis or the cell skin. It may use the potato strip or the pickle as evidence.
@@ -548,9 +559,9 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
    **Answer:** The nucleus is like a library. It keeps the DNA safe, and the cell copies out the pages she needs. A bacterium has no nucleus and still works well, and a red blood cell lives for months without one.. *Why:* A strong answer says the nucleus keeps the instructions, and does not order everything around. Bacteria and red blood cells show that a cell can work without a nucleus.
 ### Skins, pumps and single cells (stretch, 16 questions)
 1. (mcq) Oxygen crosses the cell membrane with no help, but sugar needs a carrier protein. What is the best reason?  
-   Options: Oxygen is tiny and slips between the fat molecules, but sugar is too big and watery / Oxygen is heavier than sugar / Sugar is alive and oxygen is not  
-   **Answer:** Oxygen is tiny and slips between the fat molecules, but sugar is too big and watery. *Why:* The membrane is made of fat. Tiny molecules with no charge, like oxygen, slip between the fat molecules. Sugar is bigger and mixes with water, so it needs a helper protein.
-2. (mcq) Which part of the membrane uses energy to push salt out against the way it would go?  
+   Options: Oxygen is tiny and slips between the fat molecules, but sugar is bigger and mixes with water / Oxygen is heavier than sugar / Sugar is alive and oxygen is not  
+   **Answer:** Oxygen is tiny and slips between the fat molecules, but sugar is bigger and mixes with water. *Why:* The membrane is made of fat. Tiny molecules like oxygen slip between the fat molecules. Sugar is bigger and mixes with water, so it needs a helper protein.
+2. (mcq) Which part of the membrane uses energy to push salt out, against the way it would naturally go?  
    Options: A pump protein / A water channel / A layer of fat  
    **Answer:** A pump protein. *Why:* A pump is a protein in the membrane that spends energy to push things across. Water channels and fat layers need no energy.
 3. (truefalse) Water can only move into a cell through the membrane. It can never move out.  
@@ -574,12 +585,12 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
    **Answer:** A strong answer picks a view and uses evidence, for example: the modern biologist, because the euglena does what both plants and animals do, so the two boxes are too small. It may say that the plant scientist is right about the chloroplasts.. *Why:* There is no single right answer to pick. A strong answer gives a reason from what the euglena does, and says what another view gets right.
 12. (draw) Draw an amoeba eating a smaller cell. Show the food and how the amoeba takes it in.  
    **Answer:** A blob-shaped cell with two arms pushed out, curling round a small cell, and a bubble forming round the food inside her.. *Why:* A strong drawing shows the amoeba wrapping around the food and the food ending up in a bubble inside her cytoplasm.
-13. (mcq) Evelyn Gorter and François Grendel spread the fat from red blood cells on water. It covered about twice the surface of the cells. What did they conclude?  
+13. (mcq) Evert Gorter and François Grendel spread the fat from red blood cells on water. It covered about twice the surface of the cells. What did they conclude?  
    Options: The skin of a cell is two layers of fat thick / The cells were twice as big as they looked / The cells had no skin  
    **Answer:** The skin of a cell is two layers of fat thick. *Why:* If the fat could cover twice the surface of the cells, then the skin must have been two layers thick. Their numbers were rough, but electron microscopes later showed two layers.
 14. (mcq) Why did scientists in the 1870s say that a living cell skin must exist, even though nobody could see it?  
    Options: Water and dissolved stuff moved in and out as though through a skin / They had photographed it / A book said so  
-   **Answer:** Water and dissolved stuff moved in and out as though through a skin. *Why:* Wilhelm Pfeffer and others saw that water moved in a way only a thin skin could explain. When a tool cannot see something, scientists can still tell it is there from what it does.
+   **Answer:** Water and dissolved stuff moved in and out as though through a skin. *Why:* Wilhelm Pfeffer and others saw that water moved in a way only a thin skin could explain. Even when no tool can show a thing, scientists can still tell it is there from what it does.
 15. (write) A paramecium lives in pond water, which has far less dissolved stuff than her insides. Using osmosis, explain why water keeps flowing into her, and what her pump does.  
    **Answer:** Her cytoplasm has more dissolved stuff than the pond water, so water moves into her through her membrane all the time. Her pump, the contractile vacuole, collects the extra water and pushes it out, so she does not swell and burst.. *Why:* A strong answer says water moves towards the side with more dissolved stuff, which is inside her, and that the pump pushes the extra out.
 16. (truefalse) A mature human red blood cell has no nucleus.  
@@ -590,8 +601,8 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 2. (count) A raisin is 12 mm long. After a night in plain water, it is one and a half times as long. How long is it now?  
    **Answer:** 18. *Why:* One and a half times 12 is 12 plus 6, which is 18. The raisin is 18 mm long, because its cells took in water.
 3. (mcq) A hospital drip is made with a little salt, about 9 grams in a litre of water, and not with plain water. Why?  
-   Options: Plain water would make blood cells swell and burst, and the salt keeps the balance / Salt makes the drip taste nicer / Salt kills germs in the drip  
-   **Answer:** Plain water would make blood cells swell and burst, and the salt keeps the balance. *Why:* Blood cells sit in a liquid with some dissolved stuff in it. In plain water, water would move into them and swell them. A drip with about the same amount of salt as blood keeps them the right size.
+   Options: Plain water would make blood cells swell and burst, and the salt keeps them the right size / Salt makes the drip taste nicer / Salt kills germs in the drip  
+   **Answer:** Plain water would make blood cells swell and burst, and the salt keeps them the right size. *Why:* Blood cells sit in a liquid with some dissolved stuff in it. In plain water, water would move into them and swell them. A drip with about the same amount of salt as blood keeps them the right size.
 4. (truefalse) A red blood cell put in plain water would swell, and one put in strong salt water would shrink.  
    **Answer:** True. *Why:* True. In plain water, water moves into the cell. In strong salt water, water moves out. Red blood cells have no wall, so they cannot hold their shape against the swelling.
 5. (write) Oral rehydration solution is water with a little salt and sugar. It helps a person who has lost water from diarrhoea. Using what you know about carriers and osmosis, suggest why it helps.  
@@ -599,11 +610,11 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 6. (perspective) You have about 30 trillion cells, and each cell is alive. Three people disagree about what you are.  
    **Answer:** A strong answer picks a view and uses evidence, for example: the doctor, because red blood cells and nerve cells cannot live alone. It may say that the cell biologist is right that each cell is alive.. *Why:* There is no single right answer. A strong answer gives a reason from what cells do, and says what another view gets right.
 7. (match) Match each scientist to what they found about cell skins.  
-   **Answer:** Wilhelm Pfeffer → measured how water moves through a man-made skin, in 1877; Ernest Overton → noticed that substances that dissolve in fat get into cells fastest; Evelyn Gorter and François Grendel → showed that the cell skin is two layers thick, in 1925; Singer and Nicolson → said that the skin is a fluid with proteins floating in it, in 1972. *Why:* Each step added a clue. First came the idea that a skin exists, then that it is fatty, then that it has two layers, and then that it flows.
+   **Answer:** Wilhelm Pfeffer → measured how water moves through a man-made skin, in 1877; Ernest Overton → noticed that substances that dissolve in fat get into cells fastest; Evert Gorter and François Grendel → showed that the cell skin is two layers thick, in 1925; Singer and Nicolson → said that the skin is a fluid with proteins floating in it, in 1972. *Why:* Each step added a clue. First came the idea that a skin exists, then that it is fatty, then that it has two layers, and then that it flows.
 8. (mcq) Fat molecules have a head that likes water and a tail that avoids water. In water, why do they form a double layer with the tails inside?  
    Options: The tails hide from the water between the two layers of heads / The heads push the tails together / Fat molecules always stack in twos  
    **Answer:** The tails hide from the water between the two layers of heads. *Why:* The heads face the water on both sides and the tails tuck away from it in the middle. This happens on its own, which is one reason scientists think skins formed early.
-9. (order) Put these steps in the order that scientists found them out.  
+9. (order) Put these discoveries about the cell skin in the order scientists made them.  
    **Answer:** ['Pfeffer showed that water moves as though through a skin (1877)', 'Overton showed that fat-soluble substances get in fastest (1890s)', 'Gorter and Grendel showed the skin is two layers thick (1925)', 'Singer and Nicolson said the skin flows like a fluid (1972)']. *Why:* Each result built on the one before. First the skin was needed to explain how water moved, then it was found to be fatty, then to be two layers, and then to flow.
 10. (odd) Which is the odd one out, and why? Yeast, a bacterium, a euglena, a red blood cell in your body.  
    **Answer:** The red blood cell in your body. The others each live as a whole being on their own.. *Why:* Yeast, a bacterium and a euglena are whole living beings, each made of one cell. A red blood cell in your body depends on the rest of your body to stay alive.
@@ -611,7 +622,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
    **Answer:** A full, round cell in plain water with arrows pointing in, and a shrunken cell in salt water with arrows pointing out.. *Why:* A strong drawing shows the cell in plain water swollen with arrows into it, and the cell in salt water shrunken with arrows out of it.
 12. (write) Plan a fair test to find out if sugar water pulls water out of potato strips as well as salt water does. Say what you change and what you keep the same.  
    **Answer:** I change the dissolved stuff: one cup of sugar water and one of salt water. I keep the same: strips cut from one potato, the same amount of water, the same amount of sugar and salt, and the same time. I also use a cup of plain water as a control.. *Why:* A strong answer changes only one thing, keeps the rest the same, and includes a plain water cup to compare with.
-13. (mcq) Which of these about the first cell is still debated?  
+13. (mcq) Which of these questions about the first cell are scientists still debating?  
    Options: Whether the skin, the instructions or the chemistry came first / Whether the first cells lived more than three billion years ago / Whether fat molecules can form hollow bubbles in water  
    **Answer:** Whether the skin, the instructions or the chemistry came first. *Why:* Scientists agree that the first cells appeared more than 3.5 billion years ago, and that fat bubbles form easily. What came first is still open.
 14. (fill) A plant stands up because the water in the big vacuole pushes against the cell ____.  
@@ -671,7 +682,7 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 - Pickling mango, lime and vegetables with salt, which pulls water out of the microbes' cells so they cannot grow.
 - Making jam and keeping honey, where a lot of sugar stops microbes growing in the same way.
 - Hospital drips made with a little salt, so that blood cells do not swell or shrink.
-- Oral rehydration solution for diarrhoea, first used widely in 1971 in refugee camps by Dilip Mahalanabis and his team, where carriers take sugar and salt in and water follows.
+- Oral rehydration solution for diarrhoea. Carriers in the gut cells take in sugar and salt, and water follows. Dilip Mahalanabis and his team first used it widely in refugee camps in 1971.
 - Growing salt-tolerant rice such as Pokkali in the salty backwater fields of Kerala.
 - Medicines such as penicillin, which stop bacteria from building their cell walls. Human cells have no wall, so they are not harmed.
 - Watering plants and keeping vegetables fresh by sprinkling them with water.
@@ -697,14 +708,14 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
 - **Could life on another planet be made of cells?** All life we know is cells, so we have nothing to compare with. Scientists think any life would need some kind of boundary, but nobody has found any.
 
 ## Questions to ask kids
-- What do you think is happening to the water in your tumbler when you put salt in?
+- What do you think happens to the water in a tumbler when you stir salt into it?
 - If you were a cell, what would you let through your skin, and what would you keep out?
 - Where in the kitchen do you see water moving out of food when salt is added?
-- Why is a cucumber crisp but a day-old one is soft?
-- Which of your body's cells do you think is the biggest? Which is the longest?
-- If a single cell can eat, move and sense, what do you think she does when she is scared?
+- Why is a fresh cucumber crisp, while a day-old one is soft?
+- A nerve cell in your leg can be more than a metre long. How can a cell be that long and still get food to every part of her?
+- An amoeba finds food and moves away from danger, and she has no brain. What does that tell you about what one cell can do?
 - Why do you think plants are green but mushrooms are not?
-- What would a cell look like in a world with no water?
+- If you looked at a cell under a microscope, how could you tell whether she is a plant cell or an animal cell?
 
 ## Jokes
 - What did the animal cell say to the plant cell? *'You are so stiff!' The plant cell said, 'It is called a cell wall, thank you.'*
@@ -744,7 +755,7 @@ What Makes a Thing Alive? (sci.what-is-life.L4): Topic-level song
 - What is the thin skin around a cell called? → The cell membrane.
 - Which part of a plant cell catches sunlight? → The chloroplast.
 - Which way does water move through a cell's skin? → In both directions. More ends up on the side with more dissolved stuff.
-- Which part of a cell holds the DNA in most cells? → The nucleus.
+- In most cells, which part holds the DNA? → The nucleus.
 - Name a living being that is just one cell. → An amoeba, a paramecium, a euglena, a yeast or a bacterium.
 - What happens to a potato strip left in strong salt water? → It goes limp, because water leaves its cells.
 - Why are cells so small? → A cell's inside grows faster than her surface, and food comes in through the surface.

@@ -1,7 +1,7 @@
 # One cell, then two: how you grew and how your body stays new
 `sci.what-is-life.cells-divide.L4`
 
-**Summary.** You started as one cell, smaller than the dot of a pencil. Today you are made of about 30 to 40 trillion. No one added them from outside. Each cell copied the instructions inside her, and then split in two. The same copying goes on today. The lining of your gut is replaced in days, and your skin in weeks. In this unit you cut the tip off a young root to find where plants really grow, and you work out how a body can be rebuilt all the time and still be yours.
+**Summary.** You started as one cell, smaller than the dot of a pencil. Today you are made of about 30 to 40 trillion cells. No one added them from outside. Each cell copied the instructions inside her, and then split in two. The same copying goes on today. The lining of your gut is replaced in days, and your skin in weeks. In this unit you cut the tip off a young root to find where plants really grow, and you work out how a body can be rebuilt all the time and still be yours.
 
 **Intro.** *Look at a young root of a moong sprout, about one finger-joint long. Tomorrow it will be much longer. Where does the new length come from? Does the whole root stretch like a rubber band, or does the root grow in one small place?* Think about your own skin as well. Every day, some of it rubs off on your clothes and in the bath. Yet your skin never wears thin. Something is making new skin as fast as the old skin leaves. In this unit you find out where new cells come from, how one cell becomes two, and how that made you.
 
@@ -20,10 +20,10 @@
 - **DNA**: The long instruction book inside a cell. It is written in four letters, A, T, C and G. It is copied each time the cell divides. *e.g.* A human cell holds about 6 billion DNA letters. Written out, they would fill thousands of thick books.
 - **Chromosome**: One long piece of DNA wound up tightly, like a thread on a reel. Chromosomes become easy to see when a cell is about to divide. *e.g.* A human cell has 46 chromosomes, which is 23 pairs.
 - **Gene**: One short stretch of DNA with the instructions for making one useful thing, such as a part of the body's machinery. *e.g.* One gene carries the instructions for the red substance that carries oxygen in blood.
-- **Mitosis**: The careful way a cell with a nucleus shares one full set of chromosomes into each daughter cell. The name comes from a Greek word for thread. *e.g.* Mitosis happens when a skin cell, a root-tip cell or a gut-lining cell divides.
+- **Mitosis**: The way a cell that has a nucleus gives each daughter cell one full set of chromosomes. The name comes from a Greek word for thread. *e.g.* Mitosis happens when a skin cell, a root-tip cell or a gut-lining cell divides.
 - **Cell cycle**: The repeating life of a dividing cell: grow, copy the instructions, check the copies, divide, and start again. *e.g.* A cell in a root tip may go once round the cycle in about a day.
-- **Fertilised egg**: The first cell of a new person or other animal. It forms when a sperm cell joins an egg cell. It is the cell that divides to make the whole body. *e.g.* Every person began as a fertilised egg about the size of a full stop.
-- **Embryo**: A very young body made of only a few cells, or a few thousand, that has just started to divide. *e.g.* After three rounds of division, an embryo has 8 cells.
+- **Fertilised egg**: The first cell of a new person or other animal. She forms when a sperm cell joins an egg cell, and she divides to make the whole body. *e.g.* Every person began as a fertilised egg about the size of a full stop.
+- **Embryo**: A very young body that has just started to divide. It is made of only a few cells, or a few thousand. *e.g.* After three rounds of division, an embryo has 8 cells.
 - **Specialised cell**: A cell that has taken on one job, such as carrying oxygen or making a muscle pull. She uses only the pages of the instruction book that job needs. *e.g.* A muscle cell and a skin cell hold the same instructions but use different pages.
 - **Stem cell**: A cell that can keep dividing, and can make daughter cells that become specialised for different jobs. *e.g.* Stem cells in your bone marrow make new blood cells every second.
 - **Meristem**: The growing region of a plant, such as the tip of a root or a shoot, where cells divide again and again. *e.g.* The pale tip of a moong root is a meristem.
@@ -58,7 +58,7 @@ DNA is so long that it would not fit in the cell if it were loose. So it is woun
 **Definition:** Mitosis is how a cell with a nucleus shares her copied chromosomes so that each daughter cell gets exactly one full set.
 
 After the copying, the cell goes through four steps. First, the chromosomes wind up tight and the nucleus wall breaks down. Second, the chromosomes line up across the middle of the cell. Third, thin threads called spindle fibres pull each pair apart, so one copy goes to each end. Fourth, the cell pinches in the middle, and two new nuclei form. The pulling is the important part. If one daughter got two copies and the other got none, the daughters would not work properly.
-- e.g. Imagine tugging a rope from both ends until the middle parts.
+- e.g. It is like tugging a rope from both ends until it comes apart in the middle.
 - e.g. A dividing cell in an onion root tip shows the chromosomes lined up like a row of beads.
 - e.g. Mistakes in sharing are the cause of some illnesses that a person is born with.
 ### How plant cells and animal cells finish dividing · *defined*
@@ -71,7 +71,7 @@ An animal cell has a soft skin and no wall, so she can squeeze in around the mid
 ### Why a root grows only at the tip · *defined*
 **Definition:** A root grows longer at its tip. Cells divide in a small zone at the very end, and the new cells stretch a little just behind it.
 
-The part of a root a few millimetres behind the tip has stopped dividing. Its cells are finished, and they only soak up water. So if you mark dots along a growing root, only the dots close to the tip move apart. The tip also has a thin cap that rubs through the soil and wears away, and it is replaced all the time. If you cut off the tip, the root usually stops lengthening. A root pushes down through soil as a kind of explorer. Only the very end is exploring.
+A few millimetres behind the tip, the cells of a root have stopped dividing. They are finished, and they only soak up water. So if you mark dots along a growing root, only the dots close to the tip move apart. The tip also has a thin cap that rubs through the soil and wears away, and it is replaced all the time. If you cut off the tip, the root usually stops lengthening. A root pushes down through the soil, but only the very end is doing the growing.
 - e.g. A moong sprout's root grows about a centimetre in a day, almost all of it at the tip.
 - e.g. The stems of tulsi and chilli grow at shoot tips. Pinch the tip and the plant grows side branches instead.
 - e.g. A banyan's hanging roots grow downward until their tips reach the soil.
@@ -81,18 +81,18 @@ The part of a root a few millimetres behind the tip has stopped dividing. Its ce
 The fertilised egg divides for the first time after about a day. Then 2 become 4, 4 become 8, and 8 become 16. After a few days the group is a hollow ball of cells. Over the weeks that follow the cells move, fold and take on different jobs. A baby is born after about nine months. A grown person has about 30 to 40 trillion cells. To reach that number from one cell takes at least 45 rounds of doubling, since 2 multiplied by itself 45 times is about 35 trillion. In real bodies it takes many more divisions than that, because cells also die and are replaced along the way.
 - e.g. Identical twins form when the early group of cells splits into two groups, and each group makes a baby.
 - e.g. Doubling 10 times gives 1,024 cells. Doubling 20 times gives over a million.
-- e.g. A baby has fewer cells than a grown person, and most of the difference is more cells, not bigger cells.
+- e.g. A grown person is bigger than a baby mostly because they have more cells, not bigger cells.
 ### Same instructions, different jobs: specialised cells · *defined*
 **Definition:** Specialised cells use different parts of the same instructions. Nearly every cell in your body holds the full set.
 
-A skin cell and a muscle cell are very different shapes. Yet each holds the same 46 chromosomes. They look different because they use different pages of the instruction book. A muscle cell uses pages that build the stretchy threads for pulling. A skin cell uses pages that build a tough, waterproof layer. Which pages to use is decided by signals from the cells around her. In 1962 John Gurdon put the nucleus of a frog's gut cell into an egg whose own nucleus had been removed. The egg grew into a tadpole. So the gut cell had kept the whole book.
+A skin cell and a muscle cell are very different shapes. Yet each holds the same 46 chromosomes. They look different because they use different pages of the instruction book. A muscle cell uses pages that build the stretchy threads for pulling. A skin cell uses pages that build a tough, waterproof layer. Signals from the cells around her decide which pages a cell uses. In 1962 John Gurdon took the nucleus of a frog's gut cell. The nucleus is the part of a cell that holds the DNA. He put it into an egg whose own nucleus had been removed. The egg grew into a tadpole. So the gut cell had kept the whole book.
 - e.g. A red blood cell loses her nucleus when she is made, and so can never divide.
 - e.g. A neuron is long and thin and sends signals, though she has the same instructions as a bone cell.
 - e.g. A cut piece of a tulsi stem can grow roots and become a whole new plant, since the cells still hold the whole book.
 ### Replacement: cells wear out and are rebuilt · *defined*
 **Definition:** Most cells wear out. New cells from dividing stem cells take the place of the old ones.
 
-Cells have different lifetimes. The lining of your gut is replaced in about 3 to 5 days, because food scrapes it all the time. The outer layer of skin is replaced in about a month. Red blood cells last about 4 months. A strand of hair stays for years. A few kinds are almost never replaced in a grown person. Most nerve cells in the thinking part of the brain and the cells in the lens of the eye are as old as you are, and heart muscle cells are replaced very slowly. The parts of the body that meet the world, like skin and the gut lining, are often replaced fastest. Scientists can tell how old cells are, because carbon-14 from the bomb tests of the 1950s and 1960s reached the air, then food, and then the DNA built when each cell was made.
+Cells have different lifetimes. The lining of your gut is replaced in about 3 to 5 days, because food scrapes it all the time. The outer layer of skin is replaced in about a month. Red blood cells last about 4 months. A strand of hair stays for years. A few kinds are almost never replaced in a grown person. Most nerve cells in the thinking part of the brain and the cells in the lens of the eye are as old as you are, and heart muscle cells are replaced very slowly. The parts of the body that meet the world, like skin and the gut lining, are often replaced fastest. Scientists can tell how old a cell is. The bomb tests of the 1950s and 1960s put a kind of carbon called carbon-14 into the air. It went from the air into food, and from food into the DNA that was built when each cell was made. So the amount of carbon-14 in a cell's DNA tells scientists which year that cell was made. A cell made after the tests holds more carbon-14 than a cell made long before them.
 - e.g. Dust and flakes in a sunbeam include tiny pieces of dead skin.
 - e.g. Your red blood cells are made at a rate of about two million every second, in the soft middle of your bones, called marrow.
 - e.g. A scar remains after a deep cut because the repair is done with tough fibres, not new skin.
@@ -119,7 +119,7 @@ In 1961 Leonard Hayflick found that human cells in a dish do not divide for ever
 - Before a cell divides, she copies all her DNA, and each daughter cell gets one full copy. *How we know:* In 1958 Matthew Meselson and Franklin Stahl used heavy nitrogen to label DNA. After one round of copying, each new DNA held one old side and one new side.
 - Humans have 46 chromosomes in most body cells. *How we know:* In 1956 Joe Hin Tjio and Albert Levan counted 46 in cells from the lungs of a human embryo. Counts of cells from many other people have given 46 since.
 - Nearly every cell in a body holds the same DNA, and specialised cells use different parts of it. *How we know:* In 1962 John Gurdon grew tadpoles from eggs given the nucleus of a gut cell. In 1996 a sheep, Dolly, was cloned from a cell taken from an adult sheep's udder.
-- Many kinds of cell in the body are replaced throughout life, but some are not. *How we know:* From 2005 on, teams led by Jonas Frisén, including Kirsten Spalding, Olaf Bergmann and Ratan Bhardwaj, used the carbon-14 left in the air by bomb tests to date human cells. Fat cells renewed about a tenth each year, heart muscle cells very slowly, and nerve cells in the thinking part of the brain were as old as the person.
+- Many kinds of cell in the body are replaced throughout life, but some are not. *How we know:* From 2005 on, teams led by Jonas Frisén, including Kirsten Spalding, Olaf Bergmann and Ratan Bhardwaj, used the carbon-14 left in the air by bomb tests to date human cells. About a tenth of fat cells were renewed each year. Heart muscle cells were renewed very slowly. Nerve cells in the thinking part of the brain were as old as the person.
 - Cell division in bacteria, yeast, plants and animals follows the same basic pattern: copy the instructions, share the copies, and split. *How we know:* The same kinds of molecules do the copying in all of them. Genes for the copying machinery are so alike that a human gene can sometimes work in a yeast cell.
 
 ## How we found out
@@ -133,7 +133,7 @@ In 1961 Leonard Hayflick found that human cells in a dish do not divide for ever
 - **Once you are grown, your body stops making new cells.** (Many people, and some old textbooks.; *rejected*)  
   For: A grown person does not get taller, so it seems that growing has stopped.  
   Against: A grown body makes millions of new cells every second, in the marrow, skin and gut. What stops is growing bigger, and not the making of cells.
-- **Adult humans can grow new brain cells in the memory area of the brain.** (Some neuroscientists, and others who disagree.; *debated*)  
+- **Adult humans can grow new brain cells in the memory area of the brain.** (Some neuroscientists say this, and others disagree.; *debated*)  
   For: In 2018 Maura Boldrini and colleagues found signs of young neurons in the memory area (the hippocampus) of people up to the age of 79.  
   Against: Also in 2018, Shawn Sorrells and colleagues found almost none in people past childhood. The two groups used different ways of preserving and testing brains.
 - **Cells in a body are all copies, so there are no differences between them.** (A common misunderstanding.; *rejected*)  
@@ -144,34 +144,34 @@ In 1961 Leonard Hayflick found that human cells in a dish do not divide for ever
   Against: Dots marked along a growing root show that only the part within a few millimetres of the tip lengthens. The rest stays the same length.
 
 ## Roots
-We have watched cells divide, and cut a root to see where growing happens. Now we ask what it means that a body is rebuilt all the time, and what stays when the cells change.
+In Cut the Tip, the roots with their tips cut off hardly grew, because a root grows at the tip, where cells divide. Now we ask what it means that a body is rebuilt all the time, and what stays the same when the cells change.
 
-**Deep truth.** Often, the parts of you that meet the world are rebuilt fastest. Your gut lining is replaced in days, your skin in weeks, but safe cells deep inside can last for years. A living body is not a finished thing that gets mended now and then. It is made new, all the time, wherever it touches the world.  
+**Deep truth.** Often, the parts of you that meet the world are rebuilt fastest. Your gut lining is replaced in days and your skin in weeks, but cells that are protected deep inside can last for years. A living body is not a finished thing that gets mended now and then. It is made new, all the time, wherever it touches the world.  
 *Habit it breaks:* We picture a body as a finished object that stays the same, and that is only mended when it is hurt. Cells show that rebuilding is the normal state, and that the busiest rebuilding happens at the edges.  
-*Evidence:* In the root test, the tip stopped growing when it was cut off, while the finished part behind it did not lengthen. Skin flakes, gut lining and the root cap are all replaced often, while the cells in the eye lens stay for life.
+*Evidence:* In Cut the Tip, the roots whose tips were cut off hardly grew. In Dots on a Root, the finished part behind the tip did not lengthen. Skin flakes, gut lining and the root cap are all replaced often, while the cells in the eye lens stay for life.
 
-- *who am i:* You are not a thing that stays still. Parts of you are new every day, and parts of you are older than any of your birthdays.
-- *what is life:* A living being keeps copying her cells so that she can keep going. Life is a process of making and remaking, and not a block of stuff.
-- *what is this world:* The atoms in a new skin cell came from food, water and air, and a few weeks later they go back to the world as flakes. The world flows through every body.
+- *who am i:* You are not a thing that stays the same. Some parts of you are replaced every few days. Other parts, such as the middle of the lens in your eye, were made before you were born and are still with you.
+- *what is life:* A living being keeps making new cells so that she can keep going. Being alive means making and remaking the body all the time. A living body is not a fixed lump of material.
+- *what is this world:* The atoms in a new skin cell came from food, water and air. A few weeks later, those atoms leave your body as flakes of skin. So atoms are always moving between the world and every living body.
 
-A fertilised egg has no skin, no gut, no blood and no bones. All of them come from one cell that copied her instructions and divided. The atoms in each new cell come from the food you ate, and the food came from plants, soil, rain and sunlight. When old cells wear out, their atoms go back to the world, and may be in the next plant, the next bird, the next child. A body is a place where the world is for a while, shaped by instructions that are copied from cell to cell. That is the one becoming the many, again and again.
+A fertilised egg has no skin, no gut, no blood and no bones. All of them come from one cell that copied her instructions and divided. The atoms in each new cell come from the food you ate, and the food came from plants, soil, rain and sunlight. When old cells wear out, their atoms go back to the world, and may be in the next plant, the next bird, the next child. So your body is made of material from the world around you. That material stays for a while and then leaves. The instructions that arrange it are copied from one cell to the next, and one cell becomes many cells, again and again.
 
-- **Chandogya Upanishad 6.11:** Uddalaka teaches his son Shvetaketu about a great tree. If the life leaves one branch, that branch dries up. If it leaves the whole tree, the whole tree dries up. The same life is in all of it. (A root grows only at the tip, but the tip is fed by the whole tree. The living part and the finished part are one tree.)
-- **Plutarch, Life of Theseus 23:** Plutarch tells how the Athenians kept the ship of Theseus for hundreds of years. As planks rotted, they replaced them with new wood. Thinkers argued about whether it was still the same ship. (Your skin and gut lining are replaced like planks. The old puzzle becomes a question about your own body.)
+- **Chandogya Upanishad 6.11:** Uddalaka teaches his son Shvetaketu about a great tree. If the life leaves one branch, that branch dries up. If it leaves the whole tree, the whole tree dries up. The same life is in all of it. (A root grows only at the tip, but the tip is fed by the whole tree. The growing tip and the older, finished part behind it belong to one living tree.)
+- **Plutarch, Life of Theseus 23:** Plutarch tells how the Athenians kept the ship of Theseus for hundreds of years. As planks rotted, they replaced them with new wood. Thinkers argued about whether it was still the same ship. (Your skin and gut lining are replaced like planks. So we can ask the same old question about ourselves. If the parts of your body keep being replaced, are you still the same person?)
 - **Tao Te Ching 76:** A person is born soft and flexible, and at death is hard and stiff. Green plants are soft and full of sap, and when dead they are dry and brittle. The soft and yielding belongs to life. (The root tip is the softest, palest, wettest part of the plant. That is also the part that grows.)
 - Science (settled): Rudolf Schoenheimer used heavy forms of hydrogen and nitrogen in the 1930s to follow molecules in the body. He showed that fats and proteins in a body are broken down and rebuilt all the time, even in a body that stays the same weight.
 - Science (debated): Whether adult humans make new nerve cells in the memory area of the brain is still argued about. Two groups looked in 2018 and found different answers.
-- Other view, Daniel Dennett, a philosopher (Consciousness Explained, 1991): He argued that the sense of being one fixed self is a story the brain tells, and not a thing hidden inside. On this view, there is nothing deeper to ask about than the changing pattern of the body and its story.
+- Other view, Daniel Dennett, a philosopher (Consciousness Explained, 1991): He argued that the sense of being one fixed self is a story the brain tells, and not a thing hidden inside. If he is right, there is no hidden self to look for. There is only the changing pattern of the body and the story the brain tells.
 - Practice, Looking at your own hand (3 min): Hold one hand in front of you and look at it slowly. Breathe in and out three times. Remember that the top skin you see is made of cells that have finished their work. Underneath, new cells are pushing up. In about a month, this skin will be new. Ask yourself quietly, which part of me is this hand?
 - Ask: If every plank of a ship is replaced one at a time, is it the same ship? Is your body the same body?
 - Ask: What would you want to stay the same about you, if every cell in your skin and gut were replaced?
-- Ask: Is the pattern of a body, or the instructions copied into the cells, what makes you you?
+- Ask: What makes you you: the pattern of your body, or the instructions copied into your cells?
 
 ## Deep and big questions
 - *deep:* A cell that divides turns into two cells. Did the first cell die, or did she become two? (hint: Think about what is left behind after a bacterium divides, compared with a person who dies.)
 - *deep:* Your skin cells are replaced every few weeks. In what way is it still your skin? (hint: Think about a school uniform that gets patched, or a river whose water changes.)
 - *deep:* Two cells with exactly the same instructions can grow into a muscle and a skin cell. What decides which one each becomes? (hint: Think about a book where each reader only turns to some pages.)
-- *big:* Your body is a community of about 30 to 40 trillion cells that mostly obey the stop signals. Who is in charge? (hint: Think about a city, and about whether any single person runs it.)
+- *big:* Your body is a community of about 30 to 40 trillion cells. Most of them obey the signals that tell them when to stop dividing. Who is in charge? (hint: Think about a city, and about whether any single person runs it.)
 - *big:* Cancer cells in a dish can divide for ever, but normal cells stop. Is a cell that never stops dividing a winner or a problem? (hint: Think about what the rest of the body needs from each cell.)
 - *big:* Some cells in a body are as old as you are, and some are a few days old. Which are the real you? (hint: Think about whether the answer could be the pattern, and not the pieces.)
 - *big:* Henrietta Lacks's cells were taken in 1951 without anyone asking her. They have helped medicine for 70 years. Who should decide what happens to cells from a body? (hint: Think about what she would have chosen, and what her family would say now.)
@@ -194,7 +194,7 @@ One morning a man came from the town, with a clipboard and a coil of strong rope
 
 'We can speed it up,' said Mr Rynjah. 'Tie a rope to the root's end and pull it across. A little each day. Roots stretch, don't they? The whole root will lengthen, and the gap will close.'
 
-Daiaphi's father looked at the root, and he looked at the rope, and he looked uncertain. Maybe Mr Rynjah was right. He studied in the town. Daiaphi's grandmother only shook her head slowly and said nothing.
+Daiaphi's father looked at the root, and he looked at the rope, and he looked uncertain. Maybe Mr Rynjah was right. He had studied in the town. Daiaphi's grandmother only shook her head slowly and said nothing.
 
 Daiaphi had a school notebook with her. In Class 4, her teacher, Madam Lyngdoh, had shown the class how to put tiny dots of ink on a sprout's root, and how to measure them again after a day. Daiaphi had done it with a bean. She still remembered what the dots had shown. She took a deep breath.
 
@@ -238,8 +238,8 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 
 ## Games
 ### g1 · Days, Weeks or Years? The Replacement Race (25 min)
-- **rules:** Hours means the cell divides again in less than a day. Days means a cell is replaced within up to two weeks. Weeks to months means up to about six months. A year or more means the cell lasts that long, or for life.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one time token face down. Then everyone turns the tokens over together.; The reader turns the card over and reads the back. Every player whose token matches the first words of the back scores one point.; The reader's job passes to the player on the left after every card. With two players, the parent and the child swap after every card. The reader never guesses on their own card.; Playing alone: put a token face down for each card, turn the card over, and score a point for each correct token. Try to beat your own score next time.; The game ends when all 20 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win.
-- **Printable cards: 20 two-sided cards: a kind of cell on the front, and how long it lasts or how often it divides on the back:** Curd bacteria in warm milk. How long between one division and the next? (back: HOURS. In warm milk a curd bacterium can divide in under an hour. That is why one spoon of curd can set a whole pot overnight.); A yeast cell in warm dough with sugar. How long before she grows a bud? (back: HOURS. A yeast cell can grow and release a bud in about an hour and a half when it is warm and has sugar.); A gut bacterium called E. coli in a warm place with food. How long between divisions? (back: HOURS. Under the best conditions, one E. coli divides about every 20 minutes. Most of the E. coli in a body are harmless.); The cells lining your small gut, which food scrapes all day. (back: DAYS. The lining of the gut is replaced about every 3 to 5 days. Stem cells deep in tiny pits keep making new ones.); The lining of your stomach, which sits in strong acid. (back: DAYS. The stomach lining is replaced in a few days, so the acid does not wear a hole through it.); Taste cells on your tongue. (back: DAYS. A taste cell lasts about 10 days, and then a new one takes her place.); The cells on the inside of your cheek. (back: DAYS. Cheek-lining cells are replaced in about one to two weeks.); A neutrophil, a white blood cell that fights germs. (back: DAYS. Marrow makes huge numbers of neutrophils, and each one lasts only from several hours to a few days.); The clear front window of the eye, called the cornea. How long before the surface cells are new? (back: DAYS. The surface of the cornea is replaced in about a week, which is why small scratches often heal quickly.); The top layer of your skin. (back: WEEKS TO MONTHS. Skin cells take about a month to rise from the bottom of the top layer to the surface, where they flake off.); A red blood cell. (back: WEEKS TO MONTHS. A red blood cell lasts about 4 months. Marrow makes about two million new ones every second.); A fingernail, from the bottom edge to the free tip. (back: WEEKS TO MONTHS. A fingernail takes about 4 to 6 months to grow out from the base to the tip.); A scalp hair, from when it starts growing until it falls out. (back: A YEAR OR MORE. A scalp hair grows for about 2 to 6 years, then rests and falls out. A new hair starts in the same place.); A fat cell. (back: A YEAR OR MORE. Fat cells live about 10 years on average. A body can make them swell or shrink without changing their number much.); The bones of a grown-up's skeleton. (back: A YEAR OR MORE. Bone is taken apart and rebuilt in small patches, so a grown-up's skeleton is renewed about every 10 years.); Liver cells. (back: A YEAR OR MORE. A liver cell lasts about a year. A damaged liver can also regrow much of itself.); Muscle cells of the heart. (back: A YEAR OR MORE. Most heart muscle cells last a whole life. About 1 in 100 are replaced each year in a young adult, and fewer later.); Nerve cells in the thinking part of the brain, called the cortex. (back: A YEAR OR MORE. Almost all of them are as old as you are. They stop dividing around the time of birth.); Cells in the middle of the lens of the eye. (back: A YEAR OR MORE. The cells in the middle of the lens were made before you were born and are never replaced.); Sound-sensing hair cells in the inner ear. (back: A YEAR OR MORE. In people they are not replaced if they are lost, which is why loud noise can harm hearing for life. Birds regrow theirs, and scientists study how.)
+- **rules:** Hours means the cell divides again in less than a day. Days means the cell is replaced in two weeks or less. Weeks to months means up to about six months. A year or more means the cell lasts that long, or for life.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one time token face down. Then everyone turns the tokens over together.; The reader turns the card over and reads the back. Every player whose token matches the first words of the back scores one point.; The reader's job passes to the player on the left after every card. With two players, the parent and the child swap after every card. The reader never guesses on their own card.; Playing alone: put a token face down for each card, turn the card over, and score a point for each correct token. Try to beat your own score next time.; The game ends when all 20 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win.
+- **Printable cards: 20 two-sided cards: a kind of cell on the front, and how long it lasts or how often it divides on the back:** Curd bacteria in warm milk. How long between one division and the next? (back: HOURS. In warm milk a curd bacterium can divide in under an hour. That is why one spoon of curd can set a whole pot overnight.); A yeast cell in warm dough with sugar. How long before she grows a bud? (back: HOURS. A yeast cell can grow and release a bud in about an hour and a half when she is warm and has sugar.); A gut bacterium called E. coli in a warm place with food. How long between divisions? (back: HOURS. Under the best conditions, one E. coli divides about every 20 minutes. Most of the E. coli in a body are harmless.); The cells lining your small gut, which food scrapes all day. (back: DAYS. The lining of the gut is replaced about every 3 to 5 days. Stem cells deep in tiny pits keep making new ones.); The lining of your stomach, which sits in strong acid. (back: DAYS. The stomach lining is replaced in a few days, so the acid does not wear a hole through it.); Taste cells on your tongue. (back: DAYS. A taste cell lasts about 10 days, and then a new one takes her place.); The cells on the inside of your cheek. (back: DAYS. Cheek-lining cells are replaced in about one to two weeks.); A neutrophil, a white blood cell that fights germs. (back: DAYS. Marrow makes huge numbers of neutrophils, and each one lasts only from several hours to a few days.); The clear front window of the eye, called the cornea. How long before the surface cells are new? (back: DAYS. The surface of the cornea is replaced in about a week, which is why small scratches often heal quickly.); The top layer of your skin. (back: WEEKS TO MONTHS. Skin cells take about a month to rise from the bottom of the top layer to the surface, where they flake off.); A red blood cell. (back: WEEKS TO MONTHS. A red blood cell lasts about 4 months. Marrow makes about two million new ones every second.); A fingernail, from the bottom edge to the free tip. (back: WEEKS TO MONTHS. A fingernail takes about 4 to 6 months to grow out from the base to the tip.); A scalp hair, from when it starts growing until it falls out. (back: A YEAR OR MORE. A scalp hair grows for about 2 to 6 years, then rests and falls out. A new hair starts in the same place.); A fat cell. (back: A YEAR OR MORE. Fat cells live about 10 years on average. A body can make them swell or shrink without changing their number much.); The bones of a grown-up's skeleton. (back: A YEAR OR MORE. Bone is taken apart and rebuilt in small patches, so a grown-up's skeleton is renewed about every 10 years.); Liver cells. (back: A YEAR OR MORE. A liver cell lasts about a year. A damaged liver can also regrow much of itself.); Muscle cells of the heart. (back: A YEAR OR MORE. Most heart muscle cells last a whole life. About 1 in 100 are replaced each year in a young adult, and fewer later.); Nerve cells in the thinking part of the brain, called the cortex. (back: A YEAR OR MORE. Almost all of them are as old as you are. They stop dividing around the time of birth.); Cells in the middle of the lens of the eye. (back: A YEAR OR MORE. The cells in the middle of the lens were made before you were born and are never replaced.); Sound-sensing hair cells in the inner ear. (back: A YEAR OR MORE. In people they are not replaced if they are lost, which is why loud noise can harm hearing for life. Birds regrow theirs, and scientists study how.)
 - **Printable tokens: 16 time tokens: four sets of four:** Hours; Days; Weeks to months; A year or more; Hours; Days; Weeks to months; A year or more; Hours; Days; Weeks to months; A year or more; Hours; Days; Weeks to months; A year or more
 - **s1 (3 min)**  
   *Parent does:* Cut out the 20 cards and the 16 tokens. Shuffle the cards and make a pile. Give each player one token of each kind.  
@@ -252,12 +252,12 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   - Ask: What do the cells that are replaced fastest have in common? (good: They touch the outside world.; Food or the air rubs them.; They are on the edges of the body.)
 - **s3 (8 min)**  
   *Parent does:* Play the next eight cards. Swap the reader's job after every card. Keep a tally of points on paper.  
-  *Parent says:* Keep going. Think about this. Cells that wear out quickly are the ones that meet the world.  
-  *Child mode:* Play on. Cells that meet the world wear out fastest.
+  *Parent says:* Keep going. As you play, notice which cells are replaced fastest and which last longest.  
+  *Child mode:* Play on. Notice which cells wear out fastest and which last longest.
   - Think: Which cells on the cards were replaced fastest, and which slowest?
 - **s4 (6 min)**  
   *Parent does:* Play the last six cards. Count the points. The player with the most points wins.  
-  *Parent says:* Last six cards. Then we add up the points and talk about what we learned.  
+  *Parent says:* Here are the last six cards. After that, we add up the points.  
   *Child mode:* Play the last six cards. Add up your points.
 - **s5 (5 min)**  
   *Parent does:* Lay the 20 cards in four rows by time: Hours, Days, Weeks to months, A year or more. Look at which cells are in the first rows. Then ask your child the questions below. Let them answer in their own words.  
@@ -269,8 +269,8 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 
 ## Experiments
 ### e1 · Cut the Tip: where does a root grow? (50 min, 4 days)
-- **question:** If you snip the tip off a young moong root, will the root still grow longer than a root with its tip left on?
-- **predict:** Before you cut anything, guess. Will the roots with the tip cut off grow longer, the same, or less than the roots left alone? Why do you think so?
+- **question:** If you snip the tip off a young moong root, will the root still grow as much as a root with its tip left on?
+- **predict:** Before you cut anything, guess. Will the roots with the tip cut off grow more, the same, or less than the roots left alone? Why do you think so?
 - **fair test:** Every root is from the same moong seeds, on the same kind of plate and tissue, in the same warm place. All roots are touched by the scissors in the same way. On plate A the scissors only touch the tip and cut nothing. On plate B the scissors cut off 3 millimetres of the tip. So the only difference is the missing tip, and any difference in growth comes from that. Plate A is the control.
 - **safety:** A grown-up does the cutting, because the scissors are sharp and the root is tiny. Wash hands after handling the sprouts. Do not eat sprouts that smell bad or have fuzzy patches.
 - **record:** Write the length of every root at the start, after one day and after two days. Work out how much each root grew. Find the average for plate A and for plate B. Draw a bar for each plate.
@@ -278,12 +278,12 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 - **schedule:** day 1: In the evening, soak the moong seeds for about 8 hours or overnight, then drain them and wrap them in a damp cloth. (5 min); day 2: Guess, set up two plates, measure every root and cut the tips on plate B. (25 min); day 3: Measure every root after one day. (10 min); day 4: Measure every root after two days, find the averages and explain what you saw. (10 min)
 - **s1 (5 min)**  
   *Parent does:* Soak a small handful (about 15) of moong seeds in water for about 8 hours or overnight. Drain them. Wrap them in a damp cloth in a bowl. Keep them somewhere warm.  
-  *Parent says:* We will grow some moong sprouts first. Soak the seeds overnight. Tomorrow we wrap them in a damp cloth.  
+  *Parent says:* We will grow some moong sprouts first. Put the seeds in water now to soak. When they have soaked, we drain them and wrap them in a damp cloth.  
   *Child mode:* Soak the moong in water overnight. Drain them. Wrap them in a damp cloth.
   - Note: You need roots between 5 and 15 millimetres. In a warm kitchen this usually takes about a day after soaking; in cool weather it can take two, so start earlier. Sprinkle the cloth with water twice a day. It should be damp, not dripping. Do not worry if a few seeds do not sprout: that is why you soak extra.
 - **s2 (5 min)**  
   *Parent does:* Look at the sprouts with your child. Find the root of each one. Ask for a guess and a reason, and write both down.  
-  *Parent says:* Look at these roots. Tomorrow I will cut the tip off some of them. Do you think they will still grow longer? Why do you think so?  
+  *Parent says:* Look at these roots. Soon I will cut the tip off some of them. Do you think they will still grow longer? Why do you think so?  
   *Child mode:* Look at the roots. We will cut the tips off some. Will they still grow? Why?
   - Ask: Which part of the root do you think grows longer? (good: All of it, like a rubber band.; Only the end.; The part nearest the seed.)
   - Ask: What do you think will happen to a root with no tip? (good: It will keep growing.; It will stop.; It will grow slowly.)
@@ -306,20 +306,20 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* It is one day later. Measure every root. Which plate has longer roots? What do you notice about the cut roots?  
   *Child mode:* Measure every root. Write the lengths. Look at the cut roots closely.
   - Ask: What do you notice about the cut roots on plate B? (good: They look shorter.; They have not grown much.; A few have little bumps on the side.)
-  - Note: Typical numbers, not promises: in warm weather uncut roots on plate A often grow about 10 to 25 millimetres in a day, and cut roots on plate B often grow only a few millimetres (about 0 to 8). The part just behind the cut can still stretch a little on the first day. If all roots on both plates grew the same, check that you cut across the tip and not just the seed side. In cool weather every root grows less, so compare plate with plate, not with these numbers. If you see white fuzz, rinse the tissue and use fresh tissue.
+  - Note: Typical numbers, not promises: in warm weather uncut roots on plate A often grow about 10 to 25 millimetres in a day, and cut roots on plate B often grow only a few millimetres (about 0 to 8). The part just behind the cut can still stretch a little on the first day. If all roots on both plates grew the same, check that you cut the tip end of the root and not the end near the seed. In cool weather every root grows less, so compare plate with plate, not with these numbers. If you see white fuzz, rinse the tissue and use fresh tissue.
   - Check: After one day, the roots on plate A grew a lot and the roots on plate B grew very little. What does this suggest? → **The tip is where the root gets longer**
   - Wait: Wait one day after cutting.
 - **s6 (10 min)**  
   *Parent does:* After two days, measure every root again. Work out how much each root grew. Add the growth of the four roots on each plate and divide by four. Draw one bar for each plate. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Measure again. Find the average for each plate. Draw two bars. Say what you thought, what you saw and why.
-  - Note: A strong answer says that roots with the tip cut off grew much less, that the tip is where new cells are made by dividing, that just behind the tip those cells stretch and make the root longer, and that further back the root has finished growing. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.
-  - Think: A farmer's goat nibbles the very tips of a row of young roots. What would you expect to happen to the roots?
+  - Note: A strong answer says that roots with the tip cut off grew much less, that the tip is where new cells are made by dividing, that just behind the tip those cells stretch and make the root longer, and that further back the root has finished growing. For the last question, a good answer is that the root will hardly grow longer, because the dividing cells at the tip are gone. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.
+  - Think: A gardener pulls up a young plant by accident and breaks off the very tip of the root. What would you expect to happen to that root, and why?
   - Wait: Wait one more day.
 ### e2 · Dots on a Root: how far does the growing zone reach? (35 min, 2 days)
 - **question:** If you mark dots along a growing root, which gaps between the dots grow wider after a day?
 - **predict:** Before you mark the roots, guess. Will all the gaps grow wider, or only some? Which ones? Why do you think so?
-- **fair test:** Each root gets the same row of dots, 2 millimetres apart, starting at the tip. All roots stay on the same plate in the same place. The gaps along one root are compared with each other, so the root is its own control. You also leave one root without dots, to check that the dots do not stop it growing.
+- **fair test:** Each root gets the same row of dots, 2 millimetres apart, starting at the tip. All roots stay on the same plate in the same place. We compare the gaps along one root with each other. So each root is its own comparison, because every gap is on the same root and is kept in the same conditions. You also leave one root without dots, to check that the dots do not stop it growing.
 - **safety:** Use a fine pen with waterproof ink, and keep it away from your mouth. Wash hands after handling the sprouts. Do not eat sprouts that have been marked.
 - **record:** Write the length of each gap at the start and after one day. Work out the change. Draw a bar for each gap, from the tip backward.
 - **results table:** Gap | Where it is on the root | Start (mm) | After 1 day (mm) | Change (mm)
@@ -349,6 +349,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 
 ## Activities
 ### a1 · Fold and Count: how fast does doubling grow? (25 min)
+- **problem:** When a cell divides, one cell becomes two. Then each of those two can divide again, so there are four, then eight. Folding a sheet of paper in half again and again makes the same doubling. You will count the boxes after each fold, and then use the pattern to see how many doublings it takes to make a whole body.
 - **safety:** Handle paper carefully. Fold slowly so that you do not get paper cuts.
 - **record:** Write the number of boxes after each fold. Then write the table for 10, 20, 30 and 45 doublings. Draw a line to show how it climbs.
 - **s1 (5 min)**  
@@ -361,15 +362,16 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* Fold in half. Open it. Count the boxes. Write the number. Fold again and count again.  
   *Child mode:* Fold. Open. Count the boxes. Write the number. Do it up to six folds.
   - Ask: What pattern do you see in the numbers? (good: Each number is double the one before.; 1, 2, 4, 8, 16, 32, 64.; It grows faster each time.)
-  - Note: After 6 folds there are 64 boxes. A seventh fold is nearly impossible by hand. That is a good moment to talk about how a real cell does not need to fold anything: she divides again and again with no limit from paper. With 2 to 4 children, each child folds a sheet and a different child writes down the table, then compare: does everyone get the same numbers?
+  - Note: After 6 folds there are 64 boxes. A seventh fold is nearly impossible by hand. That is a good moment to say that a real cell does not have to fold anything, so nothing like the thickness of paper limits her. She can divide again and again. With 2 to 4 children, each child folds a sheet and a different child writes down the table. Then compare: does everyone get the same numbers?
 - **s3 (10 min)**  
-  *Parent does:* Use the pattern to fill in a second table. 10 doublings give 1,024. 20 doublings give 1,048,576. 30 doublings give about 1,073 million. 45 doublings give about 35 trillion. Say that a body has about 30 to 40 trillion cells. Ask for a reason that the number grows so fast.  
+  *Parent does:* Use the pattern to fill in a second table. 10 doublings give 1,024. 20 doublings give 1,048,576. 30 doublings give about 1,073 million. 45 doublings give about 35 trillion. Say that a body has about 30 to 40 trillion cells. Ask your child why the number grows so fast.  
   *Parent says:* Ten doublings give 1,024. Twenty give about one million. Thirty give about one billion. Forty-five give about thirty-five trillion. That is close to the number of cells in a body.  
   *Child mode:* Ten doublings make 1,024. Forty-five doublings make about 35 trillion. That is a whole body!
-  - Note: Compare with real cells. A bacterium that divided every 20 minutes without stopping would have about a billion descendants after 10 hours (30 doublings). In real life food and space run out long before that.
+  - Note: Compare with real cells. A bacterium that divided every 20 minutes without stopping would have about a billion descendants after 10 hours (30 doublings). In real life food and space run out long before that. For the think question, a good answer is that cells in a real body also wear out and die, so many extra divisions are needed just to replace them.
   - Check: About how many doublings of one cell would it take to reach 35 trillion cells? → **About 45**
   - Think: A body takes at least 45 doublings from one cell. Why do you think it takes many more divisions in real life?
 ### a2 · Copy Machine: can you copy a long code without a mistake? (25 min)
+- **problem:** Before a cell divides, she copies her DNA. DNA is a very long code written with four letters, A, T, C and G. Copying a long code without any mistakes is hard. You will copy a code by hand and count your mistakes. Then you will see how a cell checks her copy and how each side of DNA can rebuild the other.
 - **record:** Write the number of mistakes in your first copy and in your checked copy. Draw the matching strand for your code.
 - **s1 (5 min)**  
   *Parent does:* Write this code on a strip of paper for your child: ATTCGGATCCAGTTAGCTAGGCTAATCGGATCATGCTAAG. Explain the four letters. Ask for a guess about how many mistakes a copy will have.  
@@ -391,9 +393,10 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent does:* Write the partner letter under each letter of the code: A with T, and C with G. Then cover the top line and copy the code using only the partner line. Compare it with the original.  
   *Parent says:* A cell has a matching partner for each letter. A goes with T. C goes with G. Write the partners. Now cover the top line. Can you rebuild it from the partners?  
   *Child mode:* A goes with T. C goes with G. Write the partners. Cover the top. Rebuild it.
-  - Note: This is the idea Watson and Crick suggested in 1953. They used the X-ray pictures taken by Rosalind Franklin and her student Raymond Gosling, and some of Franklin's data was shown to Watson without her knowing. A cell copies about 6 billion letters each time she divides, and makes only a handful of mistakes.
-  - Think: If each side of the ladder can rebuild the other, why does the cell unzip the ladder before copying?
+  - Note: A good answer to the think question is that each half has the letters needed to build the matching half. When the cell unzips the ladder, she can build two complete ladders. The idea that each side of DNA can rebuild the other was suggested by Watson and Crick in 1953. They used the X-ray pictures taken by Rosalind Franklin and her student Raymond Gosling, and some of Franklin's data was shown to Watson without her knowing. A cell copies about 6 billion letters each time she divides, and makes only a handful of mistakes.
+  - Think: DNA is like a ladder, and each side of the ladder can rebuild the other. Why does the cell unzip the ladder before copying?
 ### a3 · Skin Flakes: catch some of your own cells (15 min)
+- **problem:** The top layer of your skin is made of cells that have finished their work. They are rubbing off your body all the time. New cells are made underneath to take their place. You will lift some of these flakes with sticky tape and look at them on dark paper.
 - **safety:** Use clean, unbroken skin only. Do not tape over sore, red, rashy or cut skin, or over thick hair. Peel the tape off slowly. Stop if the skin hurts.
 - **record:** Draw what you see under the tape. Write which place on your body gave the most flakes.
 - **s1 (5 min)**  
@@ -407,10 +410,11 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Child mode:* Press tape on your skin. Peel it off slowly. Stick it on black paper.
   - Ask: What do you think those flakes are? (good: Dead skin.; Pieces of the top of my skin.; Dust.)
   - Ask: Do you think those cells were alive? (good: No, they were already finished.; The top layer is dead cells.)
-  - Note: You will not see single cells. You will see a cloudy or whitish patch and small flakes, mixed with a few hairs and specks of dust. Each flake is a sheet of many flat cells, so a pinhead of skin holds thousands. Dry places such as the heel, elbow or shin show the most. If you see almost nothing on soft or oily skin, that is normal: try a drier place and rub for 10 seconds. The second strip on the same spot usually shows less, because the first strip already took the loosest flakes. The top layer of skin is made of dead cells, and new cells keep pushing up from below. Scientists estimate that a person loses roughly 30,000 to 40,000 dead skin cells every minute. With 2 to 4 children, each child tapes their own arm and compares scores.
+  - Note: You will not see single cells. You will see a cloudy or whitish patch and small flakes, mixed with a few hairs and specks of dust. Each flake is a sheet of many flat cells, so a pinhead of skin holds thousands. Dry places such as the heel, elbow or shin show the most. If you see almost nothing on soft or oily skin, that is normal: try a drier place and rub for 10 seconds. The second strip on the same spot usually shows less, because the first strip already took the loosest flakes. The top layer of skin is made of dead cells, and new cells keep pushing up from below. For the think question, a good answer is that cells divide in the lower layer of the skin and then rise to the top. Scientists estimate that a person loses roughly 30,000 to 40,000 dead skin cells every minute. With 2 to 4 children, each child tapes their own arm and compares scores.
   - Check: The flakes on the tape are mostly... → **Dead cells from the top of the skin**
   - Think: If your top skin is replaced about every month, where do the new cells come from?
 ### a4 · Paper Chromosomes: act out how one cell becomes two (25 min)
+- **problem:** Before a cell divides, she copies her chromosomes. Then she shares the copies so that each daughter cell gets one full set. You will use paper strips as chromosomes and act out this sharing with two bowls. You will also see what goes wrong when the sharing is not even.
 - **safety:** Use blunt child scissors, or let a grown-up cut the strips. Keep tape and rubber bands away from the mouth.
 - **record:** Draw the four steps of mitosis in order. Write a sentence under each one.
 - **s1 (5 min)**  
@@ -419,7 +423,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Child mode:* The strips are chromosomes. The circle is a cell. This cell will divide.
   - Note: A real human cell has 46 chromosomes, which is 23 pairs. Six is just enough to show the idea.
 - **s2 (5 min)**  
-  *Parent does:* Make a copy of each strip, using the strips you cut. Tape each strip to its copy in the middle, so it looks like an X. You now have six X shapes.  
+  *Parent does:* Cut a matching copy of each strip, in the same colour. Tape each strip to its copy in the middle, so it looks like an X. You now have six X shapes.  
   *Parent says:* Before a cell divides, she copies every chromosome. Tape each strip to its copy in the middle. Now there are six X shapes.  
   *Child mode:* Copy every strip. Tape each pair in the middle to make an X.
   - Check: Why does the cell copy her chromosomes before she splits? → **So each daughter cell can get a full set**
@@ -428,15 +432,16 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Parent says:* Line the X shapes up along the string, in the middle of the cell. This is the line-up step.  
   *Child mode:* Line the six X shapes up along the string.
 - **s4 (10 min)**  
-  *Parent does:* Pull each X apart at the tape. Put one half of each X in one bowl and the other half in the other bowl. Count the strips in each bowl. Then play it again, but this time drop both halves of the green X in one bowl. Count again.  
-  *Parent says:* Now pull each X apart. One half goes in each bowl. Count the strips. Then try a mistake. Put both green halves in the same bowl. What goes wrong?  
+  *Parent does:* Pull each X apart at the tape. Put one half of each X in one bowl and the other half in the other bowl. Count the strips in each bowl. Then play it again, but this time drop both halves of one green X in the same bowl. Count again.  
+  *Parent says:* Now pull each X apart. One half goes in each bowl. Count the strips. Then try a mistake. Put both halves of one green X in the same bowl. What goes wrong?  
   *Child mode:* Pull each X apart. One half goes to each bowl. Count the strips in each bowl.
-  - Ask: What goes wrong if both green halves go to one bowl? (good: One cell has too many, and one has none.; One cell is missing a green chromosome.; The cells would not be the same.)
-  - Note: A correct split puts 6 strips in each bowl, with one of each colour pair. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare. With 2 to 4 children, give each child one colour pair to pull apart, and let one child hold each bowl.
-  - Think: Which would be worse for a cell: one chromosome too many, or one chromosome too few?
+  - Ask: What goes wrong if both halves of one green X go into the same bowl? (good: One cell has too many, and one has none.; One cell is missing a green chromosome.; The cells would not be the same.)
+  - Note: A correct split puts 6 strips in each bowl, two of each colour. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare. For the think question, a good answer is that each daughter cell needs exactly one full set of instructions to work properly, and a cell with an extra or a missing chromosome can become ill or stop working. With 2 to 4 children, give each child one colour pair to pull apart, and let one child hold each bowl.
+  - Think: Why must the spindle threads pull the copies apart so carefully, so that each daughter gets exactly one of each?
 
 ## Projects
 ### p1 · Pinch the Tulsi: what happens when you pinch a growing tip? (50 min, 14 days)
+- **problem:** The tip of a growing stem is where cells divide and the stem gets longer. You will pinch the tip off one stem of a tulsi plant and leave another stem alone. Then you will see how the plant grows after the tip of one stem has been pinched off.
 - **safety:** Wash hands after handling the plant. Do not eat leaves from a plant that has been sprayed with anything. Tulsi is sacred in many homes, so ask the elders before you pinch it, or use mint or basil instead.
 - **record:** Write the height of each stem and the number of side shoots on days 1, 4, 7 and 14. Draw the two stems side by side on each day.
 - **schedule:** day 1: Choose two similar stems. Tie a red thread on stem A and a blue thread on stem B. Measure and draw both. Pinch off the top two leaves of stem A. Leave stem B alone. (15 min); day 4: Measure both stems. Look at the places where leaves join the stem. Draw what you see. (8 min); day 7: Measure both stems. Count the small side shoots on each. Draw both stems. (10 min); day 14: Measure both stems. Count the side shoots on each. Draw both stems. Say what happened and why. (17 min)
@@ -473,8 +478,8 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 - **creative:** Stand a strip of tissue in a tumbler with a little water at the bottom. Lay the seeds on the tissue so that the roots can grow downward along it.; Place the sprouts on a sponge in a tray with a little water, so the sponge keeps the roots damp but not drowned.; Tilt a plate on a book so extra water drains away. Roots need air as well as water.
 - **s1 (10 min)**  
   *Parent does:* Look at the materials. Ask your child to say what a root needs to grow. Write the list.  
-  *Parent says:* What does a growing root need? Think of water, warmth, air and darkness. We will design two homes and test them.  
-  *Child mode:* What does a root need? Water, warmth, air. Make a list.
+  *Parent says:* What does a growing root need? Tell me everything you can think of. Then we will design two homes and test them.  
+  *Child mode:* What does a root need to grow? Make a list of everything you can think of.
   - Ask: What does a root need in order to grow? (good: Water.; Warmth.; Air.; Darkness.)
   - Note: A root drowned in water gets too little air and grows poorly. A root dried out stops growing. The best home is damp, not wet.
 - **s2 (20 min)**  
@@ -509,7 +514,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 7. (truefalse) A root grows longer evenly along its whole length, like a rubber band stretching.  
    **Answer:** False. *Why:* False. Dots marked along a growing root show that only the part within a few millimetres of the tip lengthens. The rest stays the same length.
 8. (match) Match each kind of cell to how she finishes dividing.  
-   **Answer:** Bacterium → pinches in two, without mitosis; Yeast cell → grows a bud that breaks off; Plant cell → builds a new wall across the middle; Animal cell → pinches in the middle. *Why:* Different cells share the copying and the splitting, but finish in different ways. A plant cell has a stiff wall, so she builds a new wall. An animal cell has none, so she pinches.
+   **Answer:** Bacterium → pinches in two, without mitosis; Yeast cell → grows a bud that breaks off; Plant cell → builds a new wall across the middle; Animal cell → pinches in the middle. *Why:* All these cells copy their instructions and split, but they finish in different ways. A plant cell has a stiff wall, so she builds a new wall. An animal cell has no wall, so she pinches.
 9. (mcq) What is a fertilised egg?  
    Options: The first cell of a new animal, which divides to make the whole body / A cell that cannot divide / The last cell to form in a body  
    **Answer:** The first cell of a new animal, which divides to make the whole body. *Why:* A fertilised egg is made when a sperm cell joins an egg cell. She divides again and again, and her daughters take on different jobs.
@@ -541,7 +546,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
    **Answer:** ['telomeres', 'telomere']. *Why:* Telomeres protect the ends of chromosomes. When they get very short, a normal cell stops dividing.
 5. (match) Match each part of the body to how quickly its cells are replaced.  
    **Answer:** Lining of the gut → in a few days; Top layer of skin → in about a month; A red blood cell → in about four months; Centre of the eye lens → not replaced in a lifetime. *Why:* Cells that are scraped and worn by the outside world are replaced fastest. Protected cells last much longer. The cells in the middle of the lens were made before you were born.
-6. (count) Mehr, a girl in Class 4 in Hyderabad, studies a cell that divides once a day. Each daughter also divides once a day. She starts with 1 cell. How many cells are there after 8 days?  
+6. (count) A cell divides once a day. Each daughter also divides once a day. Start with 1 cell. How many cells are there after 8 days?  
    **Answer:** 256. *Why:* The number doubles every day: 2, 4, 8, 16, 32, 64, 128, 256. So there are 256 cells after 8 days.
 7. (count) The lining of the gut is replaced about every 4 days. About how many times is it replaced in one year of 365 days?  
    **Answer:** About 90 times. *Why:* 365 divided by 4 is about 91. So the gut lining is renewed about 90 times a year. This is a rough answer, because the time varies.
@@ -571,22 +576,22 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
    **Answer:** 1,024. *Why:* The number doubles every day. 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, and then 1,024 on day 10. So there are 1,024 cells.
 3. (count) Your marrow makes about 2 million red blood cells every second. About how many is that in one minute?  
    **Answer:** 120 million. *Why:* There are 60 seconds in a minute. 2 million times 60 is 120 million. So marrow makes about 120 million red blood cells every minute.
-4. (mcq) Scientists can tell how old a cell is, because the air carried extra carbon-14 after the bomb tests of the 1950s and 1960s. Why does carbon-14 in a cell's DNA tell them her age?  
-   Options: The DNA was built from carbon that had the level of carbon-14 in the air in the year she was made / Carbon-14 is made by the cell herself / Carbon-14 makes cells divide  
-   **Answer:** The DNA was built from carbon that had the level of carbon-14 in the air in the year she was made. *Why:* The carbon in the food came from plants that took it from the air. A cell's DNA is built when she is made, so it holds the carbon-14 level of that year. Older and younger cells carry different levels.
+4. (mcq) After the bomb tests of the 1950s and 1960s, the air carried extra carbon-14. Scientists use the carbon-14 in a cell's DNA to tell how old she is. Why does this work?  
+   Options: Her DNA was built in the year she was made, from carbon with that year's level of carbon-14 / Carbon-14 is made by the cell herself / Carbon-14 makes cells divide  
+   **Answer:** Her DNA was built in the year she was made, from carbon with that year's level of carbon-14. *Why:* The carbon in food comes from plants, which take it from the air. A cell's DNA is built when she is made, so it holds the carbon-14 level of that year. Older and younger cells carry different levels.
 5. (truefalse) A cell that ends up with an extra copy of a chromosome after dividing always works better.  
    **Answer:** False. *Why:* False. A cell needs exactly one full set. An extra chromosome or a missing one upsets the balance of her instructions, and may cause illness.
 6. (odd) Which is the odd one out, and why? Gut lining, skin, red blood cells, cells in the middle of the eye lens.  
    **Answer:** The cells in the middle of the eye lens, because they are not replaced in a lifetime. The other three are replaced in days to months.. *Why:* Gut lining, skin and red blood cells are replaced regularly. The cells in the middle of the lens are made before birth and stay for life.
-7. (fill) A specialised cell, such as a gut cell, still holds a full ____ of instructions, which was shown when a tadpole grew from her nucleus.  
+7. (fill) John Gurdon grew a tadpole from the nucleus of a frog's gut cell. This showed that a specialised cell, such as a gut cell, still holds a full ____ of instructions.  
    **Answer:** ['set', 'copy', 'book']. *Why:* The tadpole grew because the gut cell's nucleus held every instruction needed for a whole frog.
 8. (match) Match each finding to what it suggests.  
    **Answer:** Roots with the tip cut off stop lengthening → Cells at the tip make the new length; Flakes lifted from skin by tape → The top layer is made of finished cells; Muscle and skin share the same DNA → Cells use different pages of one book; Cancer cells ignore stop signals → Control of division can fail. *Why:* Each finding points to an idea. Cutting a tip shows where lengthening starts. Skin flakes show cells wearing off. Sharing DNA shows that cells choose pages. Ignored stop signals show that division is normally controlled.
-9. (mcq) Another student kept the roots with cut tips in the fridge and the roots with their tips on the shelf. The cut roots grew less. Why does this not show that the tip matters?  
+9. (mcq) In a Cut the Tip test, the roots with cut tips were kept in the fridge and the roots with their tips on were kept on a shelf. The cut roots grew less. Why does this not show that the tip matters?  
    Options: Cold could have slowed the cut roots, so two things were different at once / Scissors are not allowed in tests / Roots should never be cut  
    **Answer:** Cold could have slowed the cut roots, so two things were different at once. *Why:* A fair test changes only one thing. Here the tip and the temperature were both different. So you cannot tell which one caused the slower growth.
 10. (order) Put these steps of a new person's beginning in order, earliest first.  
-   **Answer:** ['A sperm cell joins an egg cell', 'The fertilised egg divides into 2, 4, 8 cells', 'The cells take on different jobs', 'A baby is born']. *Why:* The egg must be fertilised before it divides. Division comes before the cells take on different jobs. The baby is born many weeks later.
+   **Answer:** ['A sperm cell joins an egg cell', 'The fertilised egg divides into 2, 4, 8 cells', 'The cells take on different jobs', 'A baby is born']. *Why:* The egg must be fertilised before she divides. Division comes before the cells take on different jobs. The baby is born many weeks later.
 11. (write) Cancer begins when a cell ignores the stop signals. Explain why a cell that never stops dividing is a problem for the cells around her.  
    **Answer:** Her daughters keep dividing too and make a growing cluster. The cluster crowds the cells next to it and takes their space and food. A healthy body needs cells to divide only when it needs them.. *Why:* A strong answer says that the cell makes more cells that crowd the others, and that a healthy body divides cells only when they are needed.
 12. (perspective) Cells from Henrietta Lacks were taken in 1951 without her knowing. They have helped to make medicines for 70 years. What should happen when something useful is taken from someone without asking?  
@@ -600,7 +605,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
    **Answer:** 92 in all, and 46 for each daughter. *Why:* 46 chromosomes plus 46 copies make 92. They are shared equally between two cells. 92 divided by 2 is 46.
 
 ## Videos
-- **Mitosis: The Amazing Cell Process that Uses Division to Multiply! (Older Video 2016 )** (Amoeba Sisters, 7 min) id `f-ldPgEfAHI`: To see the chromosomes line up, pull apart and the cell pinch in two, in a clear animation. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Mitosis: The Amazing Cell Process that Uses Division to Multiply! (Older Video 2016 )** (Amoeba Sisters, 7 min) id `f-ldPgEfAHI`: To see the chromosomes line up and pull apart, and the cell pinch in two, in a clear animation. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Onion Root Tip Mitosis Observations** (Glen Burger, 4 min) id `LxbP82mi02Y`: To see real cells at different stages of division in an onion or garlic root tip. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Embryology: from Fertilization to Gastrulation, Animation** (Alila Medical Media, 5 min) id `g7FExgKr-x4`: To see a fertilised egg divide into 2, 4 and 8 cells, and grow into a ball of cells. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
@@ -621,7 +626,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
    **Answer:** She divides again and again, and her daughters take on different jobs. *Why:* A fertilised egg divides into 2, 4, 8 and more cells. The cells then take on different jobs.
 6. (mcq) A muscle cell and a skin cell in the same person differ because...  
    Options: They use different pages of the same instructions / They have different DNA / One of them is not alive  
-   **Answer:** They use different pages of the same instructions. *Why:* Nearly every cell holds the same full set. What differs is which pages the cell uses, decided by signals around her.
+   **Answer:** They use different pages of the same instructions. *Why:* Nearly every cell holds the same full set of instructions. Signals from the cells around her decide which pages a cell uses.
 7. (mcq) Which part of a grown person has cells that are replaced after only a few days?  
    Options: The lining of the gut / Heart muscle / The centre of the eye lens  
    **Answer:** The lining of the gut. *Why:* The gut lining is replaced in a few days. Heart muscle and lens cells last far longer.
@@ -643,7 +648,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 - Healing a cut or scrape. Cells at the edges divide and move in until the gap is closed.
 - Bone marrow transplants for some blood illnesses. Healthy stem cells settle in the marrow and make new blood cells.
 - Pinching the tip of a tulsi, mint or chilli so that side branches grow and the plant becomes bushy.
-- Growing banana plants from tiny pieces of plant in a laboratory, called tissue culture. Many banana farms in Tamil Nadu and Maharashtra plant them.
+- Growing banana plants from tiny pieces of plant in a laboratory. This is called tissue culture, and many banana farms in Tamil Nadu and Maharashtra plant bananas grown this way.
 - Growing a new plant from a cutting of a money plant or a rose, because stem cells can make roots.
 - Treating cancer with medicines and radiation that harm cells that divide very fast, together with care to protect healthy cells.
 - Counting chromosomes under a microscope to find out whether a baby has extra or missing ones.
@@ -682,24 +687,24 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 - Which animals or plants can you think of that can regrow a part of themselves?
 
 ## Jokes
-- What did the cell say to its twin after dividing? *Wow, we have so much in common!*
+- What did the cell say to her twin after dividing? *Wow, we have so much in common!*
 - What is a cell's favourite exercise? *Splits.*
 - What did the mother cell say to her two daughters? *I am not going anywhere. I am right here, twice!*
-- Why did the tulsi plant love being pinched? *It got to branch out.*
+- Why did the tulsi plant love being pinched? *She got to branch out.*
 - Why was the root tip so confident? *It was always ahead of the rest.*
-- What did the skin cell say as it flaked off? *Goodbye! There are plenty more of us underneath.*
+- What did the skin cell say as she flaked off? *Goodbye! There are plenty more of us underneath.*
 - Why did the chromosome copy itself before the party? *It wanted to bring a plus one.*
 - Why did the gut lining never get tired? *It was replaced every few days, so it always felt brand new.*
 - What is the best way for a cell to keep a secret? *Keep it in the nucleus, and make a copy for the daughters.*
 
 ## Connected maths
-- Aarav folds a sheet of paper in half again and again, and counts the boxes after each fold. He gets 2, 4, 8, 16, 32 and 64. How many boxes will he have after 8 folds, if he could fold that far? **256 boxes.**. The number doubles with every fold. After 6 folds there are 64. After 7 folds there are 128, and after 8 folds there are 256. (queues `math.patterns.number-patterns.L4`)
-- A fertilised egg divides, and each daughter divides, again and again. After 12 doublings, how many cells are there? Then say how many there would be if the egg had started with 3 cells. **4,096 cells, and 12,288 if you start with 3.**. 2 doubled 12 times is 4,096. With 3 cells at the start, the number is 3 times as big. 3 times 4,096 is 12,288. (queues `math.multiplication.multi-digit.L4`)
+- You fold a sheet of paper in half again and again, and count the boxes after each fold. You get 2, 4, 8, 16, 32 and 64. How many boxes would there be after 8 folds, if you could fold that far? **256 boxes.**. The number doubles with every fold. After 6 folds there are 64. After 7 folds there are 128, and after 8 folds there are 256. (queues `math.patterns.number-patterns.L4`)
+- A fertilised egg divides, and each daughter divides, again and again. After 12 doublings, how many cells are there? Then say how many there would be if the egg had started with 3 cells. **4,096 cells, and 12,288 if you start with 3.**. 1 cell doubled 12 times gives 4,096 cells. With 3 cells at the start, the number is 3 times as big. 3 times 4,096 is 12,288. (queues `math.multiplication.multi-digit.L4`)
 - In the Cut the Tip test, the four roots on plate A grew 12, 18, 15 and 15 millimetres in two days. The four roots on plate B grew 2, 4, 3 and 3 millimetres. Find the average growth on each plate, and say how many times bigger the average on plate A is. **Plate A averaged 15 millimetres and plate B averaged 3 millimetres. A is 5 times as much.**. A: 12 + 18 + 15 + 15 = 60, and 60 divided by 4 is 15. B: 2 + 4 + 3 + 3 = 12, and 12 divided by 4 is 3. 15 divided by 3 is 5. So plate A grew 5 times as much. (queues `math.data.reading-data.L4`)
 - In Dots on a Root, five gaps start at 2 millimetres each. After a day, the gaps are 5, 3, 2, 2 and 2 millimetres, counting from the tip. What fraction of the total growth came from the gap nearest the tip? **3 out of 4, which is three quarters.**. The gaps grew by 3, 1, 0, 0 and 0 millimetres, which is 4 millimetres in all. The first gap grew 3 of those 4 millimetres. So three quarters of the growth was at the first gap. (queues `math.fractions.fractions-of-a-whole.L4`)
 - Marrow makes about 2 million red blood cells every second. About how many is that in one minute, and in one hour? **120 million in a minute, and 7,200 million (7.2 billion) in an hour.**. 2 million times 60 seconds is 120 million. 120 million times 60 minutes is 7,200 million, which is 7.2 billion. (queues `math.number-sense.big-numbers.L4`)
 - The lining of the gut is replaced about every 4 days. About how many times does it get replaced in a year, and about how many times in your life so far if you are 9? **About 90 times a year, and about 800 times by age 9.**. 365 divided by 4 is about 91, so about 90 times in a year. 9 times 90 is 810, so about 800 times. These are rough, because the time varies. (queues `math.number-sense.estimation.L4`)
-- In Pinch the Tulsi, stem A (pinched) grew from 12 centimetres to 14 centimetres and has 4 side shoots. Stem B (not pinched) grew from 12 centimetres to 20 centimetres and has none. How much taller did stem B grow than stem A, and how many side shoots more does stem A have? **Stem B grew 6 centimetres more, and stem A has 4 more side shoots.**. Stem A grew 14 minus 12, which is 2 centimetres. Stem B grew 20 minus 12, which is 8 centimetres. 8 minus 2 is 6. Stem A has 4 side shoots and stem B has none, so stem A has 4 more. (queues `math.length.standard-units-length.L4`)
+- In Pinch the Tulsi, stem A (pinched) grew from 12 centimetres to 14 centimetres and grew 4 side shoots. Stem B (not pinched) grew from 12 centimetres to 20 centimetres and grew no side shoots. How much more did stem B grow than stem A, and how many more side shoots does stem A have? **Stem B grew 6 centimetres more, and stem A has 4 more side shoots.**. Stem A grew 14 minus 12, which is 2 centimetres. Stem B grew 20 minus 12, which is 8 centimetres. 8 minus 2 is 6. Stem A has 4 side shoots and stem B has none, so stem A has 4 more. (queues `math.length.standard-units-length.L4`)
 - A dog has 78 chromosomes, a human has 46, a rice plant has 24 and a fruit fly has 8. Put them in order from fewest to most. How many more chromosomes does the dog have than the rice plant? Does a bigger number mean a cleverer animal? **Fruit fly 8, rice 24, human 46, dog 78. The dog has 54 more than rice. No, the number does not show how clever or how big a living being is.**. Ordering the numbers: 8, 24, 46, 78. 78 minus 24 is 54. The number of chromosomes is just a count of how the DNA is packaged, and it does not say anything about how clever or big a living being is. (queues `math.number-sense.comparing-ordering.L4`)
 
 ## Song
@@ -727,7 +732,7 @@ What Makes a Thing Alive? (sci.what-is-life.L4): Topic-level song
 - How does a plant cell finish dividing? → She builds a new wall across the middle.
 - What was the first cell of every person called? → A fertilised egg.
 - Is the lining of your gut replaced in days or in years? → In days.
-- One cell divides in two every hour. How many cells after 3 hours? → 8.
+- One cell divides in two every hour. Start with 1 cell. How many cells are there after 3 hours? → 8.
 - Do a muscle cell and a skin cell in one person have the same DNA? → Yes, nearly always.
 
 ## Plan

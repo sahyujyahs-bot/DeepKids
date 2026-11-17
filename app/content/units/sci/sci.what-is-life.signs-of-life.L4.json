@@ -132,7 +132,7 @@
    "definition": "A working definition is a rule scientists use for now, because it is useful, even though they know it may change.",
    "description": "A definition is a rule we write so that people mean the same thing by a word. The word 'alive' was in use for thousands of years before anyone knew what cells were. So the word came first, and the science came later. Scientists now write working definitions of life. A working definition does not claim to be the truth about nature. It only has to be useful, for example for deciding what a space probe should look for. When a hard case breaks the rule, scientists do not throw the case away. They learn something from it, and they mend the rule.",
    "examples": [
-    "The seven signs of life are a working definition. They work well for crows, trees and people.",
+    "The seven signs of life are a working definition. A living thing feeds, breathes, grows, moves, senses, gets rid of waste and makes young. These signs work well for crows, trees and people.",
     "A flame breaks the seven signs, so the seven signs are not enough.",
     "NASA's definition is another working definition, written for the search for life on other worlds."
    ],
@@ -156,7 +156,7 @@
    "concept": "Crystals grow by adding more of the same. Living things grow by turning other things into themselves",
    "status": "defined",
    "definition": "Metabolism is all the chemical changes in a living body that turn food into energy and into new body parts.",
-   "description": "Put a grain of salt in strong salt water and it grows. Break the crystal and each piece grows too. A crystal can even copy its pattern. Each new layer is laid down just like the one below it. But look at what the crystal is doing. It only adds more salt that was already in the water. Nothing is changed into salt. A bean sprout is different. A bean sprout is made of sugar, water, air and a little soil. None of these is a bean sprout. The sprout takes them in and changes them into new roots and leaves. This turning of other stuff into your own body is called metabolism. A crystal stacks. A living thing builds.",
+   "description": "Put a grain of salt in strong salt water and it grows. Break the crystal and each piece grows too. A crystal can even copy its pattern. Each new layer is laid down just like the one below it. But look at what the crystal is doing. It only adds more salt that was already in the water. Nothing is changed into salt. A bean sprout is different. A bean sprout is made of sugar, water, air and a little soil. None of these is a bean sprout. The sprout takes them in and changes them into new roots and leaves. This turning of other stuff into your own body is called metabolism. A crystal only stacks up more of the same thing. A living thing builds its body out of other things.",
    "examples": [
     "Salt in a pan grows by stacking more salt from the sea water.",
     "A coconut sprout turns rain, air and the nut's food into roots and leaves.",
@@ -220,7 +220,7 @@
   {
    "concept": "Scientists' working definitions of life",
    "status": "debated",
-   "description": "There is no agreed definition of life. Scientists have tried many. A group at NASA, in the 1990s, wrote: life is a self-sustaining chemical system capable of Darwinian evolution. In plain words, life is a set of chemicals that keeps itself going, and its kind can change over many generations. This is useful for planning how to look for life on other worlds. In 2002, the American biochemist Daniel Koshland listed seven pillars of life: a program of instructions, improvisation when conditions change, compartments, energy, regeneration, adaptability and seclusion, which means keeping each chemical reaction apart from the others. Each of these definitions has a hard case that does not fit. Take NASA's definition: one mule cannot evolve alone, so the definition has to be about the whole kind. Take the pillars: a dormant seed uses almost no energy. Scientists use these definitions as tools, not as the final answer.",
+   "description": "There is no agreed definition of life. Scientists have tried many. A group at NASA, in the 1990s, wrote: life is a self-sustaining chemical system capable of Darwinian evolution. In plain words, life is a set of chemicals that keeps itself going, and its kind can change over many generations. This is useful for planning how to look for life on other worlds. In 2002, the American biochemist Daniel Koshland listed seven pillars of life: a program of instructions, improvisation when conditions change, compartments, energy, regeneration, adaptability and seclusion, which means keeping each chemical reaction apart from the others. Each of these definitions has a hard case that does not fit. Look at NASA's definition first. One mule cannot evolve alone, so the definition has to be about the whole kind of living thing, and not about one body. Now look at the pillars. A dormant seed uses almost no energy, yet the seed is alive. Scientists use these definitions as tools, not as the final answer.",
    "examples": [
     "NASA's definition has three parts: chemical, self-sustaining, and able to evolve by Darwin's rules.",
     "Koshland's seven pillars come from his work as a biochemist.",
@@ -466,11 +466,11 @@
    "evidence": "In the Staying Warm test, the warm water cooled towards the temperature of the room, but a child's own temperature stayed almost the same. In the Beetroot Bleed test, cubes in cold water kept their colour, and cubes in very hot water turned the water red. If your results differ, write them down as they are and test again."
   },
   "three": {
-   "who_am_i": "You are not only a body. You are also the work that your body does. Every second, your body burns food to stay warm, to rebuild itself and to keep the inside of each cell apart from the outside.",
+   "who_am_i": "Your body is not only a thing. It is also a lot of work that never stops. Every second, your body burns food to stay warm, to rebuild itself and to keep the inside of each cell apart from the outside.",
    "what_is_life": "Life is the work of keeping an inside that is different from the outside, and of building that inside out of whatever the outside provides.",
    "what_is_this_world": "Sunlight goes into plants, plants become food, food becomes warmth, and the warmth leaves into space. Life is one of the places where this energy is held for a while and used to build something."
   },
-  "thread": "From the One come particles, stars, and then, on at least one world, living bodies. Everything is conscious, down to the smallest particle, and in a living body this shows up as sensing, choosing and mending. A bacterium senses food and swims towards food, and a root chooses where to grow. The edge of a living body is not a wall that cuts her off from the world. It is a boundary that she keeps rebuilding, from the world's own rice, water and air.",
+  "thread": "Everything in the universe came from the same source. First came particles and stars, and then, on at least one world, living bodies. Everything is conscious, down to the smallest particle, and in a living body this shows up as sensing, choosing and mending. A bacterium senses food and swims towards food, and a root chooses where to grow. The edge of a living body is not a wall that cuts her off from the world. It is a boundary that she keeps rebuilding, from the world's own rice, water and air.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2",
@@ -717,7 +717,7 @@
      "do": "Count how many cards were fooled and how many were fair. Ask your child what they notice about the fooled cards. Then add up the scores.",
      "say": "Count the F marks. How many tests were fooled? Which things fooled the tests most often? What do you notice?",
      "kid": "Count the F marks. Which things fooled the tests most? What do you notice?",
-     "parent": "Flames, crystals, seeds, mules and robots fool the tests most. After your child has said what they notice, explain: that is why scientists use a bundle of tests together, and why they still argue about the hard cases.",
+     "parent": "Flames, crystals, seeds, mules and robots fool the tests most. After your child has said what they notice, explain: a single test is not enough. That is why scientists use a bundle of tests together, and why they still argue about the hard cases.",
      "think": "If most simple tests are fooled by something, what could you do to find out if something is alive?",
      "context": "In this step, you look for the pattern in the fooled tests."
     }
@@ -986,7 +986,7 @@
      "mins": 4,
      "do": "Show your child the tumbler, the wrapped bottle and the thermometer. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "We will watch warm water and you for half an hour in the same room. Who will cool the most? Who will cool the least? Why do you think so?",
-     "kid": "There is warm water in a tumbler, warm water in a wrapped bottle, and you. Which one will cool the most? Why?",
+     "kid": "There is warm water in a tumbler. There is warm water in a wrapped bottle. And there is you. Which one will cool the most? Why?",
      "ask": [
       {
        "q": "Do you think your temperature will go down, up, or stay about the same? Why?",
@@ -1074,7 +1074,7 @@
      "mins": 6,
      "do": "Draw one line each for the tumbler, the bottle and your child, on the same graph. Ask your child to say what they thought, what they saw and why. Then ask the question about the gecko.",
      "say": "Draw three lines on one graph: one for the tumbler, one for the bottle and one for you. Then tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a line for the tumbler, a line for the bottle and a line for you. Say what you thought, what you saw, and why.",
+     "kid": "Draw a line for the tumbler. Draw a line for the bottle. Draw a line for you. Say what you thought, what you saw, and why.",
      "parent": "A strong answer says the water drifted towards the room's warmth, the sock slowed the drift but did not stop it, and the child stayed steady. After they have said what they saw, explain: a living body burns food to make heat, and uses sweat, shivering and blood flow to keep steady. A gecko, a frog, a fish and a plant mostly match their surroundings, and they are alive. So 'stays warmer than the room' is a test that works for birds and mammals, and gives the wrong answer for many living things. Cold-blooded animals still use energy every second to keep other things steady inside their cells.",
      "think": "A gecko on a cold morning is as cold as the wall. If you measured her, what would the thermometer say? Would you call her not alive?",
      "context": "In this step, you look at the lines and say what they show."
@@ -1256,6 +1256,7 @@
   {
    "id": "a1",
    "title": "Break Your Own Rule: write a test for life and fool it",
+   "problem": "Every simple rule for what is alive has an exception. In this activity you write your own rule for life and test it on eight hard cases, such as a flame, a seed and a mule. Then you mend the rule and test it again, as scientists do.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1314,7 +1315,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Read the eight cases one at a time. They are a candle flame, a salt crystal growing in strong salt water, a mule, a dry seed in a jar, a worker bee, a robot vacuum cleaner, a virus and a person asleep. For each, ask what the rule says. Then say what is really true.",
+     "do": "Read the eight cases one at a time. The first four are a candle flame, a salt crystal in strong salt water, a mule and a dry seed. The last four are a worker bee, a robot vacuum cleaner, a virus and a person asleep. For each, ask what the rule says. Then say what is really true.",
      "say": "Here are eight cases. For each one, use your rule to say alive or not alive. Then I will tell you what scientists say. Do they match?",
      "kid": "Use your rule on each case. Alive or not alive? Then check if you were right.",
      "ask": [
@@ -1365,6 +1366,7 @@
   {
    "id": "a2",
    "title": "Three Tests, Eight Cases: what scientists' definitions say",
+   "problem": "Scientists have written several definitions of life, and each one gives a different answer for some cases. In this activity you try three of these definitions on eight cases, and you find where they disagree.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1400,7 +1402,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Draw a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed, a mule, a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.",
+     "do": "Draw a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed and a mule. The rows also include a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.",
      "say": "We will use three real tests on eight cases. Test one is the seven signs, which you know. Test two is NASA's. Test three is Koshland's seven pillars.",
      "kid": "Draw a table. Three tests go across the top. Eight cases go down the side.",
      "parent": "The three tests in plain words. The seven signs: it feeds, breathes, grows, moves, senses, gets rid of waste and makes young. NASA's test: it is a chemical system that keeps itself going, and its kind can change by Darwin's rules over many generations. Koshland's pillars: it has instructions, it improvises when conditions change, it has a skin that makes compartments, it uses energy, it regenerates, it adapts and it keeps its chemical reactions apart.",
@@ -1412,7 +1414,7 @@
      "do": "Go down the table one case at a time. For each of the three tests, ask 'does it pass?' and write yes, no or maybe. Use the notes below to help.",
      "say": "For each case, ask: does this pass the seven signs? Does it pass NASA's test? Does it pass Koshland's pillars? Write yes, no or maybe.",
      "kid": "For each case, ask if it passes each test. Write yes, no or maybe.",
-     "parent": "Here is a guide to the boxes. The three answers for each case are in this order: the seven signs, NASA's test, Koshland's pillars. Flame: no, no, no. Salt crystal: no, no, no. Dry seed: maybe, yes, maybe, because a resting seed does not show all seven signs. Mule: yes, except for making young. Yes, as part of the horse and donkey lines. Yes. Virus: no, maybe, no. Curd bacterium: yes, yes, yes. Robot: no, no, no. Forest fire: no, no, no. Accept good reasons for different answers. With two or more children, each child fills in one column for all eight cases, and then you compare columns. With one child, the parent fills in the columns the child does not know yet.",
+     "parent": "Here is a guide to the boxes. The three answers for each case are in this order: the seven signs, NASA's test, Koshland's pillars. Flame: no, no, no. Salt crystal: no, no, no. Dry seed: maybe, yes, maybe, because a resting seed does not show all seven signs. Mule: the seven signs give yes, except for making young. NASA's test gives yes, because it is about the horse and donkey lines, which do evolve. Koshland's pillars give yes. Virus: no, maybe, no. Curd bacterium: yes, yes, yes. Robot: no, no, no. Forest fire: no, no, no. Accept good reasons for different answers. With two or more children, each child fills in one column for all eight cases, and then you compare columns. With one child, the parent fills in the columns the child does not know yet.",
      "check": {
       "t": "mcq",
       "q": "A mule almost never has young. Why does she still pass NASA's test?",
@@ -1432,8 +1434,8 @@
      "do": "Look for the rows where the three tests do not agree. Circle them. Ask which tests are fooled and why. Compare with the guess made at the start.",
      "say": "Look at each row. Do the three tests agree? Circle the rows where they disagree. Why do you think they disagree?",
      "kid": "Circle the rows where the tests disagree. Why do they disagree?",
-     "parent": "The rows that usually disagree are the dry seed and the virus. The seed passes NASA's test but is not doing all seven signs while resting. The virus evolves, but she needs a host cell. After the child has said their view, explain: scientists do not pick one test. They use all three as tools and look at where they disagree, because that is where they learn something.",
-     "think": "Which of the three tests do you trust most? Why?",
+     "parent": "The rows that usually disagree are the dry seed and the virus. The seed passes NASA's test but is not doing all seven signs while resting. The virus evolves, but she needs a host cell. After the child has said their view, explain: scientists do not pick one test. They use all three as tools and look at where they disagree, because that is where they learn something. For the think question, a good answer names the dry seed and the virus. The seed is resting and shows few signs, and the virus needs a host cell to copy herself.",
+     "think": "Which two cases did the tests disagree about, and what makes each of those cases hard?",
      "context": "In this step, you find the cases that scientists argue about."
     }
    ]
@@ -1441,6 +1443,7 @@
   {
    "id": "a3",
    "title": "Spot the Thermostats: machines that keep something steady",
+   "problem": "A fridge keeps its inside cold, and your body keeps itself warm. Both keep something steady even when the room changes. In this activity you find machines at home that do this, and then you compare them with your own body. You will see what a living body does that a machine does not.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -1533,6 +1536,7 @@
   {
    "id": "p1",
    "title": "Cut It Up: which pieces start again?",
+   "problem": "A broken piece of a salt crystal keeps growing. In this project you cut up living things, and find out which pieces can start again and which cannot. Then you work out what a piece of a living thing needs in order to start again.",
    "days": 10,
    "mins": 40,
    "materials": [
@@ -2673,7 +2677,7 @@
  "ask_kids": [
   "Can you think of something that does many things that a living thing does, but is not alive?",
   "Can you think of something alive that does almost nothing?",
-  "What is the warmest thing in the room that is not alive, and why is it warm?",
+  "A cup of hot tea cools down until it matches the room. What does that tell you about things that are not alive?",
   "When you boil a beetroot, why does the water turn red?",
   "Why do you stay warm on a cold day when a cup of tea does not?",
   "What would you need to see, to be sure that a robot was alive?",

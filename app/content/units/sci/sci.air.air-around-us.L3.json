@@ -144,7 +144,7 @@
    "examples": [
     "A football gets a few grams heavier when you pump more air into it.",
     "A bottle of soda water gets a few grams lighter after it goes flat, because the gas has escaped.",
-    "The air above every square centimetre of the ground weighs about 1 kilogram, all the way to the top of the sky."
+    "The column of air above every square centimetre of the ground, from the ground up to the top of the sky, weighs about 1 kilogram."
    ],
    "perspectives": [],
    "art": "A small bedroom drawn as a box, with a weighing scale beside it showing that the air inside weighs about the same as a child standing on another scale.",
@@ -619,10 +619,11 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Finish and talk about the trickiest card.",
-     "say": "Which card surprised you most? Why?",
-     "kid": "Which card surprised you most?",
-     "think": "Can you find a thing in our home with no air in it at all?"
+     "do": "Finish the game. Then look at the cards that had no air inside.",
+     "say": "Look at the cards with no air inside. What do those things have in common?",
+     "kid": "Look at the cards with no air inside. What do they have in common?",
+     "think": "Can you find a thing in our home with no air in it at all?",
+     "parent": "A good answer to the first question is that they are solid all the way through, so they have no holes or gaps where air could hide. For the think question, a solid thing such as a steel spoon or a glass marble has no air inside. Air is only around it."
     }
    ],
    "setup": [
@@ -768,7 +769,7 @@
        ]
       }
      ],
-     "parent": "A strong answer says: I think the 'full' glass was partly air. I saw bubbles, and a lot of water went in. That is because water can push air out of a space, but it cannot go where a grain is. Soak the chana overnight to make sundal, and sprout the moong.",
+     "parent": "A strong answer says: I think the 'full' glass was partly air. I saw bubbles, and a lot of water went in. That is because water can push air out of a space, but it cannot go where a grain is. For the think question, a good answer is a solid thing such as a steel spoon or a glass marble, which has no gaps for air to hide in. Soak the chana overnight to make sundal, and sprout the moong.",
      "think": "Is there anything around you that is really full, with no air at all inside?"
     }
    ],
@@ -905,6 +906,7 @@
   {
    "id": "a1",
    "title": "The Balloon That Won't Blow Up: a bottle full of nothing?",
+   "problem": "A bottle that looks empty has a balloon pushed inside it. In this activity you try to blow up the balloon, and then you find out what is stopping it.",
    "mins": 10,
    "days": 1,
    "context": "This is the opening activity of the unit. You try to blow up a balloon inside an empty bottle, and find out that the bottle is not empty.",
@@ -997,6 +999,7 @@
   {
    "id": "a2",
    "title": "The Straw Water Thief: catch water with air",
+   "problem": "About 2,500 years ago, thinkers in ancient Greece used a jar called a water thief to show something about air. A drinking straw works in the same way. You will trap water in a straw, and then push a covered straw into water, and you will see what the air inside the straw does.",
    "mins": 8,
    "days": 1,
    "context": "This activity copies a water thief, a jar used in ancient Greece to show that air takes up space. You use a drinking straw.",
@@ -1041,6 +1044,7 @@
      "do": "Talk about what happened.",
      "say": "In ancient Greece, people did this with a metal jar called a water thief. What did it show them about the air inside an 'empty' jar?",
      "kid": "People in ancient Greece did this with a metal jar. What did it show about air?",
+     "parent": "A good answer is that a jar that looked empty was full of air. The air kept the water out until it had a way to get out.",
      "check": {
       "t": "mcq",
       "q": "You cover the top of a straw and push it into water. Why does hardly any water go in?",
@@ -1068,6 +1072,7 @@
   {
    "id": "a3",
    "title": "The String Round Your Chest: how much bigger does a breath make you?",
+   "problem": "Your chest gets bigger when you breathe in. In this activity you measure how much bigger it gets with a piece of string, and you find out why it grows.",
    "mins": 10,
    "days": 1,
    "context": "This activity is about breathing. You measure how much your chest grows when your lungs fill with air.",
@@ -1139,6 +1144,7 @@
   {
    "id": "a4",
    "title": "The Flat Soda Test: does a gas have weight?",
+   "problem": "Soda water fizzes because it has a gas dissolved in it. In this activity you weigh a bottle of soda water before and after the gas escapes, to find out whether a gas has weight.",
    "mins": 15,
    "days": 2,
    "context": "This activity shows that a gas has weight. You weigh a bottle of soda water, let its gas escape, and weigh it again. You need a kitchen scale that shows grams.",
@@ -1219,6 +1225,7 @@
   {
    "id": "a5",
    "title": "Air Canals in a Lotus Stem (if you can buy lotus stem)",
+   "problem": "A lotus grows with her roots in mud, where there is almost no air, but her roots still need oxygen. In this activity you look inside a lotus stem and find out how air gets down to the mud.",
    "mins": 10,
    "days": 1,
    "context": "This activity is about plants whose roots live in mud. You look inside a lotus stem and find the tubes that carry air down to the mud.",
@@ -1296,6 +1303,7 @@
   {
    "id": "a6",
    "title": "Air Hunt at Home: where is the air hiding?",
+   "problem": "Air can hide inside things that look solid. In this activity you push things under water and squeeze them, and you look for bubbles to find where air is hiding.",
    "mins": 12,
    "days": 1,
    "context": "This activity is a hunt for hidden air. You squeeze things under water and look for bubbles.",
@@ -1337,8 +1345,9 @@
      "id": "s3",
      "mins": 2,
      "do": "Look at the lists together.",
-     "say": "Were you surprised by any of them? Why might a plant's roots need the air in soil?",
-     "kid": "Were you surprised? Why might roots need air in the soil?",
+     "say": "Which things gave bubbles, and which gave none? What do the things with bubbles have that the others do not?",
+     "kid": "Which things gave bubbles? What do they have that the others do not?",
+     "parent": "A good answer is that the things with bubbles have tiny holes or gaps where air hides, such as the sponge, the bread, the soil and the brick. The spoon and the stone are solid, so they have no gaps for air.",
      "check": {
       "t": "mcq",
       "q": "A lump of dry soil gives off bubbles under water. Why?",
@@ -1368,6 +1377,7 @@
   {
    "id": "p1",
    "title": "How Heavy Is the Air in Our Room?",
+   "problem": "A litre of air weighs very little, but a room holds a lot of air. In this project you measure a room and work out how heavy its air is, without using a weighing scale.",
    "mins": 40,
    "days": 2,
    "context": "In this 2-day project you measure a room in your home and work out how much its air weighs.",
@@ -2364,10 +2374,10 @@
   "Is this cup empty? What is in it?",
   "When we pour water into the rice, where does the air go?",
   "Why do you think the tyres on the auto are hard?",
-  "How many breaths do you think you take in a day?",
+  "Does your chest get bigger or smaller when you breathe in? Why?",
   "Where does the air in this room come from? Where does it go?",
   "Is there any air inside a stone? How could we find out?",
-  "Why do you think the money plant leans towards the window?",
+  "A money plant sits on a sunny window. What does she take in from the air, and what does she give out?",
   "If a pot had no holes and we watered it every day, what would happen to the plant?",
   "Which do you think weighs more, the air in our flat or you?",
   "Do fish breathe air? How?"
@@ -2686,7 +2696,7 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Clay is shaped into a pot. But it is the empty space inside that makes the pot useful.",
-    "link": "Lao Tzu called the inside of a pot empty. Our tests show that this space is filled with air. When we pour water in, the air must make way. In the Full Glass test, we saw that air come out as bubbles."
+    "link": "Lao Tzu called the inside of a pot empty. Our tests show that this space is filled with air. When we pour water in, the air must make way. In the Full Glass test, we saw the air come out as bubbles."
    },
    {
     "source": "Chandogya Upanishad 4.3, the teaching of Raikva",
@@ -2725,7 +2735,7 @@
   },
   "ask": [
    "Was the air you just breathed out ever part of someone or something else?",
-   "If a space is full of air, is it empty or full? Who decides?",
+   "If a bottle holds only air, would you call it empty or full? Why?",
    "Plants give us oxygen, and we give them carbon dioxide. Are we separate from plants, or part of one living system?"
   ],
   "art": "A child breathing out on a balcony in a city, with faint swirls of air drifting to a money plant, a crow on the railing and a neighbour on the next balcony."

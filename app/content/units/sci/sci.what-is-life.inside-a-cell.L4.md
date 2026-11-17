@@ -3,7 +3,7 @@
 
 **Summary.** A cube of beetroot stays pale in cold water. Dropped in hot water, it spills red in minutes. The red was locked inside the cells all the time. In this unit your child finds the small rooms inside a cell and what each one does. They test what keeps the red in, pull stringy DNA out of a banana, and see how a recipe is copied and built into a protein. They learn why a cell with the same recipe book as every other cell still becomes muscle or skin, and why two of the rooms were once free-living bacteria.
 
-**Intro.** *Run on the spot for one minute, then put a hand on your chest. Your heart is thumping and you are breathing hard. You also feel warm.* Nothing in your body is a fire. Yet you got warm, and you needed more air. The answer is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this unit you open the cell and look at the rooms, one by one.
+**Intro.** *Run on the spot for one minute, then put a hand on your chest. Your heart is thumping and you are breathing hard. You also feel warm.* Nothing in your body is on fire. Yet you got warm, and you needed more air. The reason is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this unit you open the cell and look at the rooms, one by one.
 
 ## Learning outcomes
 0. I can name the main rooms of a cell (organelles) and say what each one does.
@@ -31,27 +31,27 @@
 - **Lysosome**: A small bag of strong digestive juice. It breaks down old parts and swallowed germs. *e.g.* A white blood cell that swallows a germ breaks the germ down in lysosomes.
 - **Vacuole**: A bag in a cell that stores water and other things. In a plant cell, one big vacuole fills most of the cell. *e.g.* The red colour in a beetroot is stored in the big vacuoles of its cells.
 - **Chromosome**: One long piece of DNA wound up with proteins. Humans have 46 in most cells. *e.g.* You got 23 chromosomes from your mother's egg and 23 from your father's sperm.
-- **Endosymbiosis**: Living inside another being, and both of them gaining. Mitochondria and chloroplasts began this way. *e.g.* The bacteria that moved into a larger cell about two billion years ago became mitochondria.
+- **Endosymbiosis**: When one living being lives inside another and both of them gain. Mitochondria and chloroplasts began this way. *e.g.* The bacteria that moved into a larger cell about two billion years ago became mitochondria.
 
 ## Explanations
 ### A cell is a crowded city of small rooms · *defined*
 **Definition:** Most cells of plants, animals and fungi hold organelles: small rooms, each wrapped in its own skin, each with its own job.
 
-In Class 4 you met the three main parts of a cell, the membrane, the cytoplasm and the nucleus. Now we go inside the cytoplasm. It is not empty jelly. It is full of organelles, packed close together, like shops and workshops along a busy street. Having separate rooms lets a cell do many jobs at once without mixing them up. The digestive juice sits in a bag of its own, so it does not eat the rest of the cell. Bacteria are smaller and have no rooms wrapped in skins. Their DNA floats in the cytoplasm, and they still have ribosomes. A city is a good picture for the rooms. It is a poor picture in one way. A real cell is not a still map. Everything in her moves, bumps and changes all the time.
+A cell has three main parts: the membrane, the cytoplasm and the nucleus. Now we go inside the cytoplasm. It is not empty jelly. It is full of organelles, packed close together, like shops and workshops along a busy street. Having separate rooms lets a cell do many jobs at once without mixing them up. The digestive juice sits in a bag of its own, so it does not eat the rest of the cell. Bacteria are smaller and have no rooms wrapped in skins. Their DNA floats in the cytoplasm, and they still have ribosomes. A city is a good picture for the rooms, but it is a poor picture in one way. A real cell is not a still map. Everything in her moves, bumps and changes all the time.
 - e.g. A liver cell has a nucleus, a thousand or more mitochondria, ribosomes, and rooms for sorting and recycling.
 - e.g. A bacterium has a membrane, cytoplasm, a loop of DNA and ribosomes, but no rooms wrapped in skins.
 - e.g. A red blood cell has lost her nucleus and most of her rooms so she can carry more oxygen.
 ### The nucleus: a library, not a boss · *defined*
 **Definition:** The nucleus is a room with a double skin that holds the cell's DNA, wound into chromosomes. It makes working copies of genes and sends them out.
 
-Your DNA is about two metres long in each cell. It is folded to fit in a nucleus about six micrometres wide. That is like packing a thread 20 kilometres long into a tennis ball. The nucleus has tiny doors called pores. Copies of single genes go out through the pores, and the DNA itself stays in. Many books call the nucleus the control centre. That picture is useful, but it can mislead. The nucleus does not give orders on her own. Signals from the rest of the cell and from outside her tell the nucleus which genes to copy. In the 1930s and 1940s, a German scientist named Joachim Hammerling cut up Acetabularia, a giant single-celled alga that grows several centimetres tall. A stalk with no nucleus could grow one new cap, using messages already sent out, but not a second one. When he joined a stalk of one species to a foot of another, the new cap came to match the species of the nucleus. So the nucleus matters a great deal. But the messages, the stalk and the whole cell matter too.
+Your DNA is about two metres long in each cell. It is folded to fit in a nucleus about six micrometres wide. That is like packing a thread 20 kilometres long into a tennis ball. The nucleus has tiny doors called pores. Copies of single genes go out through the pores, and the DNA itself stays in. Many books call the nucleus the control centre. That picture is useful, but it can mislead. The nucleus does not give orders on her own. Signals from the rest of the cell and from outside the cell tell the nucleus which genes to copy. In the 1930s and 1940s, a German scientist named Joachim Hammerling studied Acetabularia, a giant single-celled alga that grows several centimetres tall. Her nucleus sits in her foot, at the bottom of a long stalk, and a cap grows at the top. When he cut off the foot with the nucleus, the stalk could still grow one new cap, using messages already sent out, but not a second one. When he joined a stalk of one species to a foot of another species, the new cap came to match the species of the foot with the nucleus. So the nucleus matters a great deal. But the messages already sent out, the stalk and the whole cell matter too.
 - e.g. A human cell has 46 chromosomes in the nucleus, which hold about 20,000 genes that make proteins.
 - e.g. A mature red blood cell has no nucleus and still lives about four months.
 - e.g. In Acetabularia, a stalk with no nucleus can still grow one cap, from messages already sent out.
 ### From recipe to protein: copy, carry, build · *defined*
 **Definition:** A cell builds a protein in three steps. She copies a gene into messenger RNA, the copy travels to a ribosome, and the ribosome builds the protein from it.
 
-DNA is written with four letters. A ribosome reads the copy three letters at a time, and each three-letter word means one building block. It adds the blocks in order. The chain folds up into a protein with its own shape. The shape decides the job. Change one letter in a gene, and one block can change, and the shape can change. Sometimes nothing changes, because several different words mean the same block. Sometimes one changed block makes a protein that does its job badly. Ribosomes are so small that their shape was found only in the year 2000. Ada Yonath, Venkatraman Ramakrishnan and Thomas Steitz each solved it, and they shared the 2009 Nobel Prize in Chemistry. Ramakrishnan grew up in Tamil Nadu. Yonath started working on ribosomes in the 1970s, when many scientists said the work was impossible.
+DNA is written with four letters. A ribosome reads the copy three letters at a time, and each three-letter word means one building block. The ribosome adds the blocks in order. The chain folds up into a protein with its own shape. The shape decides the job. If one letter in a gene changes, one block can change, and then the shape can change. Sometimes nothing changes, because several different words mean the same block. Sometimes one changed block makes a protein that does its job badly. Ribosomes are so small that their shape was found only in the year 2000. Ada Yonath, Venkatraman Ramakrishnan and Thomas Steitz each solved it, and they shared the 2009 Nobel Prize in Chemistry. Ramakrishnan grew up in Tamil Nadu. Yonath started working on ribosomes in the 1970s, when many scientists said the work was impossible.
 - e.g. The gene for the oxygen-carrying protein in red blood is copied again and again in young red blood cells.
 - e.g. A sickle-shaped red blood cell comes from one changed letter that changes one block in the protein.
 - e.g. Some antibiotics work by blocking bacterial ribosomes and leaving ours alone.
@@ -65,14 +65,14 @@ Some ribosomes float free in the cytoplasm. Others sit on a maze of flat folded 
 ### Mitochondria: where food and oxygen become usable energy · *defined*
 **Definition:** A mitochondrion has two skins. The inner skin is folded many times. On those folds, the cell uses oxygen to release energy from food and store it in ATP.
 
-Cells need energy to move, build and pump. Food holds energy, but a cell cannot spend food directly. In the cytoplasm, a sugar is first split into two halves, without oxygen. This releases only a little energy. The halves then go into a mitochondrion. There, with oxygen, the cell releases about fifteen times more. The energy is packed into small carriers called ATP. The folds make a large surface, so there is room for many tiny machines to work. The cell breathes out carbon dioxide and makes water. ATP is spent almost as fast as it is made. A resting adult makes and uses about their own body weight in ATP in a day, but holds less than a hundred grams at any moment. So a cell must keep making it, and stops within minutes without oxygen. Some of the energy leaves as heat, and that is why you warm up when you run.
+Cells need energy to move, build and pump. Food holds energy, but a cell cannot spend food directly. In the cytoplasm, a sugar is first split into two halves, without oxygen. This releases only a little energy. The halves then go into a mitochondrion. There, with oxygen, the cell releases about fifteen times more energy. The energy is packed into small carriers called ATP. The folds make a large surface, so there is room for many tiny machines to work. The cell gives off carbon dioxide and makes water. ATP is spent almost as fast as it is made. A resting adult makes and uses about their own body weight in ATP in a day, but holds less than a hundred grams at any moment. So a cell must keep making ATP. Without oxygen, she stops within minutes. Some of the energy leaves as heat, and that is why you warm up when you run.
 - e.g. A heart muscle cell has thousands of mitochondria, because she works every second of your life.
 - e.g. A mature red blood cell has none. She carries oxygen for others and does not use it herself.
 - e.g. The poison cyanide stops a mitochondrion from using oxygen, and the cell runs out of energy quickly.
-### Chloroplasts: the sun-catching rooms that plants also need · *defined*
+### Chloroplasts: the sun-catching rooms, and why plants need mitochondria too · *defined*
 **Definition:** A chloroplast is a green room in plant and algae cells. It uses the energy of sunlight to turn carbon dioxide and water into sugar and oxygen.
 
-Inside a chloroplast are stacks of flat discs, and the green chlorophyll sits on the discs. A leaf cell holds many chloroplasts, often 20 to 100. In the photosynthesis unit, leaf discs float because chloroplasts fill them with oxygen. Many children think plants have chloroplasts instead of mitochondria. That is wrong. Plants have both. The chloroplasts make sugar in the light. The mitochondria then release energy from that sugar, day and night, as they do in your cells. A plant is breathing all the time, and in the day she makes more oxygen than she uses.
+Inside a chloroplast are stacks of flat discs, and the green chlorophyll sits on the discs. A leaf cell holds many chloroplasts, often 20 to 100. You can see this in a leaf disc put in water, which floats up once its chloroplasts have filled it with oxygen. Many children think plants have chloroplasts instead of mitochondria. That is wrong. Plants have both. The chloroplasts make sugar in the light. The mitochondria then release energy from that sugar, day and night, as they do in your cells. A plant releases energy from her sugar all the time, and in the day she makes more oxygen than she uses.
 - e.g. A spinach leaf cell has chloroplasts and mitochondria.
 - e.g. A root cell has mitochondria but no chloroplasts, because roots sit in the dark.
 - e.g. Some single-celled algae have one huge chloroplast shaped like a spiral ribbon.
@@ -81,19 +81,19 @@ Inside a chloroplast are stacks of flat discs, and the green chlorophyll sits on
 
 A cell makes things and she also takes things apart. Lysosomes are small bags of strong juice that break down worn-out parts, so the building blocks can be used again. In 1955 a Belgian scientist named Christian de Duve found them. In 2016 a Japanese scientist named Yoshinori Ohsumi won the Nobel Prize for showing how a hungry cell eats her own old parts to survive. A plant cell keeps one big vacuole, which holds water, pigments and waste, and pushes the cell firm. Inside the cytoplasm there are also thin tracks made of protein. Tiny walking proteins carry bubbles along the tracks, a little like a person pulling a cart along a rope. In some water plants the whole cytoplasm streams round the cell, fast enough to see under a school microscope.
 - e.g. Cells of your gut lining are replaced every few days, and their old parts are recycled.
-- e.g. A beetroot cell keeps its red pigment in its big vacuole.
+- e.g. A beetroot cell keeps her red pigment in her big vacuole.
 - e.g. A nerve cell can send bubbles along a track a metre long.
 ### Two of the rooms were once bacteria · *defined*
 **Definition:** Mitochondria and chloroplasts began as free-living bacteria that moved into larger cells long ago. Scientists call this endosymbiosis.
 
 Both rooms have two skins, and both have their own small ring of DNA, like a bacterium. They make their own ribosomes, which are like bacterial ribosomes. They split in two to make more of themselves, and a cell cannot make one from nothing. Genetic tests of the ring of DNA show that mitochondria are closest to a family of bacteria and chloroplasts are closest to the blue-green bacteria. Over about two billion years, most of their genes moved to the nucleus, and today they cannot live alone. In most animals, the mitochondria in a baby come from the mother's egg. The father's sperm adds almost none. So you carry a line of mitochondria passed from your mother, her mother, and back through all the mothers of your family.
 - e.g. Your mitochondria have their own ring of DNA, 16,569 letters long, with 37 genes.
-- e.g. Chloroplasts in a leaf cell have their own DNA ring, and some have been moved to the nucleus.
+- e.g. Chloroplasts in a leaf cell have their own DNA ring, and some of their genes have moved to the nucleus.
 - e.g. Antibiotics that hurt bacteria can also harm mitochondria in rare cases, as the two are alike.
 ### How did the first complex cell begin? · *debated*
-**Definition:** The first cell with a nucleus and mitochondria, called the first eukaryote, appeared about two billion years ago. How is still argued.
+**Definition:** The first cell with a nucleus and mitochondria, called the first eukaryote, appeared about two billion years ago. Scientists still argue about how it happened.
 
-Everyone agrees mitochondria began as bacteria. The argument is about what came first. Some scientists think the host cell already had a nucleus and a way to swallow things, and she then swallowed a bacterium. Others think the host was an archaeon, a different kind of tiny cell, and the nucleus came later. Nick Lane, a British scientist, argues that the energy from the bacterium came first and made a large cell possible. In 2015 scientists found genes in deep-sea mud from a group called Asgard archaea that look like the genes of a cell with a nucleus, and many think they are the host's close cousins. Nobody has found a living cell in the middle of this change, so every route is still an idea.
+Everyone agrees mitochondria began as bacteria. The argument is about what came first. Some scientists think the host cell already had a nucleus and a way to swallow things, and she then swallowed a bacterium. Others think the host was an archaeon, a different kind of tiny cell, and the nucleus came later. Nick Lane, a British scientist, argues that the energy from the bacterium came first and made a large cell possible. In 2015 scientists found a group called Asgard archaea in deep-sea mud. Some of their genes look like the genes of a cell with a nucleus, and many scientists think these archaea are close cousins of the host. Nobody has found a living cell in the middle of this change, so every route is still an idea.
 - e.g. Asgard archaea found in deep-sea mud carry genes that eukaryotes also have.
 - e.g. A few single-celled parasites and gut dwellers have lost their mitochondria and kept only small remnants.
 - e.g. No living cell half-way between a bacterium and a eukaryote has been found.
@@ -114,10 +114,10 @@ In 1962 a British scientist named John Gurdon took the nucleus from a tadpole's 
 - Mitochondria release most of a cell's usable energy, using oxygen. *How we know:* Mitochondria taken out of cells and given food and oxygen make ATP. The poison cyanide stops them using oxygen, and the cell runs out of energy.
 - Mitochondria and chloroplasts began as free-living bacteria. *How we know:* They have their own ring-shaped DNA, bacteria-like ribosomes and two skins, and they divide on their own. Gene sequences from the 1970s and 1980s match them to bacteria.
 - Every cell in a body holds nearly the same DNA, yet cells of different jobs use different genes. *How we know:* John Gurdon's 1962 frog experiment grew a whole tadpole from a gut cell's nucleus.
-- A fatty skin that is whole is needed for a cell to hold her contents in. *How we know:* Beetroot cubes spill pigment when heat or soap breaks the skins of their cells.
+- A cell can hold her contents in only if her fatty skin is whole. *How we know:* Beetroot cubes spill pigment when heat or soap breaks the skins of their cells.
 
 ## How we found out
-**Konstantin Mereschkowski, Margit Nass, Lynn Margulis and later gene sequencers such as Carl Woese, 1905 to the 1980s.** In 1905 a Russian botanist named Konstantin Mereschkowski suggested that the green chloroplasts in plant cells were once free-living blue-green bacteria. Most scientists laughed. They thought the cell made all its rooms herself. In 1962 and 1963, other researchers found small amounts of DNA inside chloroplasts and mitochondria. Margit Nass found it in mitochondria. That was strange, because all the DNA was supposed to be in the nucleus. In 1967 a young American biologist named Lynn Margulis, then called Lynn Sagan, wrote a long paper arguing that both rooms had begun as bacteria. Her paper was turned down by about fifteen journals before one printed it. Then gene sequencing in the 1970s and 1980s showed that the rooms' DNA matched bacteria and not the nucleus. The idea that sounded foolish is now in every school book.  
+**Konstantin Mereschkowski, Margit Nass, Lynn Margulis and later gene sequencers such as Carl Woese, 1905 to the 1980s.** In 1905 a Russian botanist named Konstantin Mereschkowski suggested that the green chloroplasts in plant cells were once free-living blue-green bacteria. Most scientists laughed. They thought the cell made all her rooms herself. In 1962 and 1963, other researchers found small amounts of DNA inside chloroplasts and mitochondria. Margit Nass found it in mitochondria. That was strange, because all the DNA was supposed to be in the nucleus. In 1967 a young American biologist named Lynn Margulis, then called Lynn Sagan, wrote a long paper arguing that both rooms had begun as bacteria. Her paper was turned down by about fifteen journals before one printed it. Then gene sequencing in the 1970s and 1980s showed that the rooms' DNA matched bacteria and not the nucleus. The idea that sounded foolish is now in every school book.  
 *What people believed before:* Most scientists thought a cell built all her own rooms from the inside, and that all of the cell's DNA was in the nucleus. The small DNA rings found in mitochondria and chloroplasts, and later the gene sequences, showed that these two rooms had come from outside.
 
 ## Challenging perspectives
@@ -143,20 +143,20 @@ We have looked inside the cell and found rooms, recipes and power stations. Now 
 
 - *who am i:* You are about thirty trillion cells, and each one reads a different part of the same book. You are also a home for mitochondria, which began as bacteria and are passed down through your mother.
 - *what is life:* A living cell is a crowd of rooms, moving parts and signals that keep each other going. No single room is the whole of the cell.
-- *what is this world:* The oxygen in your breath is carried to your mitochondria, and the carbon dioxide you breathe out is taken up by plants. Cells in leaves and cells in you are parts of one long exchange.
+- *what is this world:* The oxygen in your breath is carried to your mitochondria. The carbon dioxide you breathe out is taken up by plants, and plants make oxygen for you to breathe in. So the cells in a leaf and the cells in your body keep passing air to each other.
 
-In a cell, no single part holds all the knowledge, and none gives all the orders. The recipe is in the nucleus, the energy is made in the mitochondria, and the building is done by ribosomes. These rooms depend on each other every second. Two of them began as separate beings and joined, so the cell herself is a meeting of many origins. The same is true of your whole body, and of the living world: parts that look separate keep each other alive. Where the working of a whole comes from is a question we leave open for you.
+In a cell, no single part holds all the knowledge, and none gives all the orders. The recipe is in the nucleus, the energy is made in the mitochondria, and the building is done by ribosomes. These rooms depend on each other every second. Two of them began as separate beings and joined, so the cell herself is made of beings that were once separate. The same is true of your whole body, and of the living world: parts that look separate keep each other alive. Scientists do not yet fully know what makes all these parts work together as one whole.
 
 - **Chandogya Upanishad 6.11:** Uddalaka tells his son Shvetaketu that if you strike the root, the middle or the top of a great tree, the tree bleeds but still lives, because life pervades the whole tree. When life leaves one branch, only that branch dries up. (The cell's life is also in every part, not in one control room. A red blood cell without a nucleus is still alive and working.)
 - **Tao Te Ching 17:** The best leader is one whom people hardly notice. When the work is done, the people say, 'We did it ourselves.' (A nucleus is a library and a source of copies, but the work is done everywhere in the cell, with no single boss.)
-- **Avatamsaka Sutra, Indra's net:** Every jewel in a great net reflects every other jewel, so each one contains all the others. (Each part of a cell holds a piece of the same story. Mitochondria carry their own DNA, and the nucleus carries the rest.)
+- **Avatamsaka Sutra, Indra's net:** Every jewel in a great net reflects every other jewel, so each one contains all the others. (In a cell, the nucleus carries most of the DNA, and the mitochondria carry a small piece of their own. So pieces of the same set of instructions are kept in more than one place.)
 - Science (settled): Mitochondria and chloroplasts began as free-living bacteria that moved into larger cells about two billion years ago or more, and the cell has been a partnership ever since.
 - Science (debated): A cell may work as a whole system in which signals, rooms and DNA all shape each other, and DNA alone does not settle what a cell does.
 - Other view, Richard Dawkins and many gene-centred biologists: Genes are the main actors. A cell, and a body, is the machine that genes build to copy themselves. In this view, the nucleus really is the place where the most important information sits.
-- Practice, Two minutes with your furnaces (3 min): Sit still and put a hand on your chest. Breathe slowly for one minute and feel the air come in. Now run on the spot for twenty seconds. Sit down and notice your breath, your heartbeat and your warmth. Say quietly where the air is going.
+- Practice, Two minutes with your mitochondria (3 min): Sit still and put a hand on your chest. Breathe slowly for one minute and feel the air come in. Now run on the spot for twenty seconds. Sit down and notice your breath, your heartbeat and your warmth. Say quietly where the air is going.
 - Ask: If a cell has no single boss, how does she act as one?
 - Ask: Are the mitochondria in your cells you, or are they guests who have stayed?
-- Ask: If the same recipe book gives muscle and skin, what is the thing that makes the difference?
+- Ask: Muscle cells and skin cells hold the same recipe book. What makes them different?
 
 ## Deep and big questions
 - *deep:* A muscle cell and a skin cell hold the same recipe book, and use different pages. What do you think decides which pages are read? (hint: Think about what a muscle cell feels all day that a skin cell does not.)
@@ -231,7 +231,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 ## Games
 ### g1 · Cell City Emergency: which room is it? (20 min)
 - **rules:** Each player has a set of eight room tokens.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player pushes one token face down. Then everyone turns the tokens over together.; The reader turns the card over and reads the room and the reason. A player with the right room scores two points.; A player with a wrong room scores one point if they can say in one sentence what that room really does.; The reader changes after each card. The player with the most points when the pile ends wins.; You can also play alone. Turn over a card, say your answer aloud, check the back, and count your right answers out of twelve.; No printer? Write each question and answer on a slip by hand, and write the eight room names on eight scraps for each player. Two players can also share one set of tokens and take turns. A grown-up helps younger children with the scissors.
-- **Printable cards: 12 two-sided cards: an emergency in the cell on the front, and the room that matters with the reason on the back:** The food has arrived, but the cell has no way to turn it into usable energy. Which room is in trouble? (back: Mitochondria. They release energy from food with oxygen, and make ATP.); A heart muscle cell must work every second of your life. Which room will she have the most of? (back: Mitochondria. A heart muscle cell has thousands, to make the ATP that powers every beat.); A poison called cyanide stops the cell from using oxygen. Which room does it stop? (back: Mitochondria. They cannot finish releasing energy without oxygen, and the cell runs out of power quickly.); The master recipe book has been damaged by too much sunlight. Which room holds it? (back: The nucleus. It holds the DNA, so damage there can mean wrong recipes are copied.); A copy of a recipe has arrived at a workshop, but nobody is building the protein. Which room is missing? (back: Ribosomes. They read the messenger copy and build the protein.); A cell is making a lot of digestive juice, and the proteins are piling up unlabelled. Which room is slow? (back: The Golgi body. It labels and posts the proteins to where they are needed.); A poison has slipped into the cell through the gate. Which part should have kept it out? (back: The cell membrane. It lets some things through and keeps others out.); Sugar is waiting outside the cell and cannot get in by itself. Which part helps it in? (back: The cell membrane. Special proteins in it carry sugar across.); A white blood cell has swallowed a germ. Which room breaks the germ down? (back: The lysosome. It holds strong juices that digest the germ.); A leaf cell has been kept in a dark cupboard for a week. Which room cannot do its job? (back: The chloroplast. It needs light to make sugar.); A plant cell is wilting because her water store is empty. Which room is it? (back: The vacuole. In a plant cell, the big vacuole holds water and pushes the cell firm.); A copy of a gene is ready to leave the library, but the library stays closed. Which part holds the DNA and has tiny doors? (back: The nucleus. Its pores let copies out and keep the DNA inside.)
+- **Printable cards: 12 two-sided cards: an emergency in the cell on the front, and the room that matters with the reason on the back:** The food has arrived, but the cell has no way to turn it into usable energy. Which room is in trouble? (back: Mitochondria. They release energy from food with oxygen, and make ATP.); A heart muscle cell must work every second of your life. Which room will she have the most of? (back: Mitochondria. A heart muscle cell has thousands, to make the ATP that powers every beat.); A poison called cyanide stops the cell from using oxygen. Which room does it stop? (back: Mitochondria. They cannot finish releasing energy without oxygen, and the cell runs out of power quickly.); The master recipe book has been damaged by too much sunlight. Which room holds it? (back: The nucleus. It holds the DNA, so damage there can mean wrong recipes are copied.); A copy of a recipe has arrived at a workshop, but nobody is building the protein. Which room is missing? (back: Ribosomes. They read the messenger copy and build the protein.); A cell is making a lot of digestive juice, and the proteins are piling up unlabelled. Which room is slow? (back: The Golgi body. It labels and posts the proteins to where they are needed.); A poison has slipped into the cell through the gate. Which part should have kept it out? (back: The cell membrane. It lets some things through and keeps others out.); Sugar is waiting outside the cell and cannot get in by itself. Which part helps it in? (back: The cell membrane. Special proteins in it carry sugar across.); A white blood cell has swallowed a germ. Which room breaks the germ down? (back: The lysosome. It holds strong juices that digest the germ.); A leaf cell has been kept in a dark cupboard for a week. Which room cannot do its job? (back: The chloroplast. It needs light to make sugar.); A plant cell is wilting because her water store is empty. Which room is it? (back: The vacuole. In a plant cell, the big vacuole holds water and pushes the cell firm.); A copy of a gene is ready to leave, but the tiny doors stay closed. Which room holds the DNA and has tiny doors? (back: The nucleus. Its pores let copies out and keep the DNA inside.)
 - **Printable tokens: 8 room tokens: one set for each player (copy the sheet for every player):** Cell membrane; Nucleus; Ribosomes; Mitochondria; Golgi body; Lysosome; Chloroplast; Vacuole
 - **s1 (4 min)**  
   *Parent does:* Cut out the twelve cards and the eight room tokens. Shuffle the cards and put them in a pile. Give each player a set of tokens.  
@@ -247,16 +247,17 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent says:* Next four. After the answer, say what the room does in your own words.  
   *Child mode:* Play four more cards. After each, say what the room does.
 - **s4 (4 min)**  
-  *Parent does:* Play the last four cards. Count the points. Ask which card was the hardest and why.  
-  *Parent says:* Last four. Count your points. Which card was the trickiest?  
-  *Child mode:* Play the last cards. Count your points. Which card was trickiest?
+  *Parent does:* Play the last four cards. Count the points. Then ask which room was the answer on the most cards, and why that room matters so much.  
+  *Parent says:* Last four. Count your points. Which room was the answer on the most cards, and why?  
+  *Child mode:* Play the last cards. Count your points. Which room came up the most, and why?
+  - Note: The answer is mitochondria. They appear on the most cards because almost every job in a cell needs energy, and mitochondria release that energy from food, using oxygen.
 
 ## Experiments
 ### e1 · The Beetroot Test: what keeps the red inside the cells? (45 min)
 - **question:** Does the red of a beetroot stay inside its cells in cold water, in warm water, in hot water, and in soapy water?
 - **predict:** Before you start, guess. Which glass will turn the reddest, and which will stay clear? Why do you think so?
 - **fair test:** Every glass gets the same amount of water, two cubes of the same size, and the same 20 minutes. Only one thing changes between glasses: cold, warm, hot, or cold with soap. All the cubes are rinsed first, so the red you see comes from inside the cells.
-- **safety:** A grown-up cuts the beetroot and pours the hot water. The hot glass stays on the tray, away from the edge. Beetroot juice stains hands and clothes, so wear an old shirt. Do not drink the water from any glass. Nobody touches glass C until it has cooled.
+- **safety:** A grown-up cuts the beetroot and pours the hot water. The hot glass (glass C) stays on the tray, away from the edge. Nobody touches it until it has cooled. Beetroot juice stains hands and clothes, so wear an old shirt. Do not drink the water from any glass.
 - **record:** Write a colour score for each glass at 5, 10 and 20 minutes: 0 for clear, 1 for the faintest pink, 3 for clearly pink, 5 for deep red. Write the colour of the cube at the end. Then draw the four glasses with the colours you saw.
 - **results table:** Glass | What is in it | Colour score at 5 min | Colour score at 10 min | Colour score at 20 min | Colour of the cube at the end
 - **s1 (6 min)**  
@@ -286,15 +287,16 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* Lift the cubes out of each glass with a spoon. Look at the colour of each cube. Write what you see in the last column of the table.  
   *Parent says:* Now lift out the cubes. What colour is a cube from the hot glass? What colour is a cube from the cold glass? What does that tell you?  
   *Child mode:* Lift out one cube from each glass. Look at its colour. Is it as red as before?
-  - Note: The cube from the hot glass should be pale. The red has left it and gone into the water. The cube from the cold glass should still be deep red. So the red is moved, not made.
+  - Note: The cube from the hot glass should be pale. The red has left it and gone into the water. The cube from the cold glass should still be deep red. So the hot water did not make new red. The red moved out of the cube.
   - Check: Why is the water in glass C red, and the cube from glass C pale? → **The heat broke the cell skins and the red colour spilled out of the cells.**
 - **s6 (10 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then explain the membrane. Draw the four glasses with the colours you saw.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Say what you thought, what you saw, and why. Draw the four glasses.
   - Note: After they have said what they saw, explain. Each beetroot cell holds a store of red pigment in a bag called a vacuole. A fatty skin, the membrane, wraps both the bag and the cell. A whole skin lets the red stay in. Heat melts the fat of the skin and bends the proteins that sit in it. Soap dissolves fat, so it opens the skin too. Cold leaves the skin whole. A membrane only holds if it is whole and alive. If the child is curious, try a frozen and thawed cube. Ice crystals tear the skins, so it spills red too.
-  - Think: You also freeze a cube for an hour and then let it thaw in cold water. Do you think it will spill red? Why?
+  - Think: Suppose you freeze a cube for an hour and then let it thaw in cold water. Do you think it will spill red? Why?
 ### e2 · Banana DNA: can you pull the recipe book out of a cell? (38 min)
+- **problem:** DNA is far too thin to see inside a cell. But a banana has millions of cells, so together they hold a lot of DNA. In this experiment you break open the cells and then use cold alcohol to bring the DNA out of the liquid, so that you can see it as white strands.
 - **question:** Can you see DNA with your own eyes if you break open the cells of a banana?
 - **predict:** Before you start, guess. Will you see anything, and what will it look like? Why do you think so?
 - **fair test:** The test glass holds the banana liquid. The check glass holds plain warm water with soap and salt but no banana, filled to the same depth. Both get the same amount of cold alcohol. If strands appear only where the banana is, the strands came from the banana.
@@ -306,7 +308,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent says:* Every cell in a banana has a nucleus with DNA. Will we see any of it with our eyes? What do you think it will look like? Why?  
   *Child mode:* Is there DNA in a banana? Can you see it? What would it look like?
   - Ask: What do you think DNA looks like when it is out of the cell? (good: Tiny thin threads.; Like a white cloud.; We cannot see it.)
-  - Note: Any guess with a reason is good. Many children expect a tiny ladder. Real DNA from many cells together looks like white stringy cloud.
+  - Note: Any guess with a reason is good. Many children expect a tiny ladder. Real DNA from many cells together looks like a white, stringy cloud.
 - **s2 (7 min)**  
   *Parent does:* Mash half a ripe banana with a fork in a bowl until it is smooth like paste. Add half a cup of warm water and a quarter teaspoon of salt. Stir.  
   *Parent says:* Mashing breaks the banana into small pieces, so the soap can reach the cells. The salt will help the DNA clump together later.  
@@ -314,21 +316,21 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   - Note: Warm water from the tap is fine, not hot. The smoother the paste, the more cells are opened. A ripe banana works best. With two to four children, each child can mash a quarter banana in their own cup and make their own glass, and the grown-up pours the alcohol for each. Alone, make one banana glass and one check glass.
 - **s3 (6 min)**  
   *Parent does:* Add one teaspoon of dish soap. Stir slowly for three minutes. Try not to make foam. Leave it for five minutes.  
-  *Parent says:* The soap breaks the fatty skins around the cells and around the nuclei. Remember the beetroot test. Stir gently, because foam traps the DNA.  
+  *Parent says:* The soap breaks the fatty skins around the cells and around the nuclei. It did the same to the beetroot cells in the Beetroot Test. Stir gently, because foam traps the DNA.  
   *Child mode:* Add the soap. Stir slowly for three minutes. Do not make foam.
-  - Ask: What did soap do to the beetroot cells? (good: It opened the skin and the red came out.)
+  - Ask: In the Beetroot Test, what did soap do to the beetroot cells? (good: It opened the skin and the red came out.)
   - Note: This connects to the beetroot test. Soap dissolves the fatty membranes of the cells and the nuclei, so the DNA is set free. It helps to stand the cup in a bowl of hot tap water for ten minutes while it sits, but not water that is too hot to touch.
 - **s4 (6 min)**  
-  *Parent does:* Pour the mixture through a coffee filter or a clean thin cloth into a tall glass. Fill the glass about one third full. Pour a second small glass with water, soap and salt but no banana, as a check.  
+  *Parent does:* Pour the mixture through a coffee filter or a clean thin cloth into a tall glass. Fill the glass about one third full. Fill a second small glass to the same depth with warm water, soap and salt but no banana. This is the check glass.  
   *Parent says:* The filter catches the lumps. The clear liquid has the DNA in it, but it is too thin to see. We make a check glass with no banana too.  
   *Child mode:* Strain the mixture into a tall glass. Make a check glass with no banana.
   - Note: Squeeze the filter gently, but do not tear it. Make the check glass the same depth as the banana glass.
 - **s5 (8 min) · grown-up needed**  
-  *Parent does:* A grown-up tilts the glass. Slowly pour cold alcohol down the side, until it makes a layer as deep as the banana liquid. Do not stir. Leave it for five minutes. Watch the line between the layers.  
+  *Parent does:* A grown-up tilts each glass and slowly pours cold rubbing alcohol down the side. Pour until the alcohol makes a layer as deep as the liquid below. Do not stir. Leave the glasses for five minutes. Watch the line between the layers.  
   *Parent says:* Slowly now. The alcohol floats on top. DNA does not dissolve in alcohol. Watch the line between the two layers. What do you see?  
   *Child mode:* A grown-up pours cold alcohol down the side. Watch the line between the layers.
   - Ask: What do you see at the line between the layers? (good: White cloudy strands.; Stringy stuff rising up.)
-  - Note: If nothing shows after five minutes, wait five more. If it is still nothing, the alcohol may have been too warm or too weak (70 percent works poorly), or the mixture was stirred too hard. Pour more cold alcohol and try again with a new glass. A clear line with a white cloud on it is success. Banana gives a modest cloud, not a thick rope, so a few small white threads count. Strawberries give more.
+  - Note: If nothing shows after five minutes, wait five more. If there is still nothing, the alcohol may have been too warm or too weak (70 percent works poorly), or the mixture was stirred too hard. Pour more cold alcohol and try again with a new glass. A clear line with a white cloud on it is success. Banana gives a modest cloud, not a thick rope, so a few small white threads count. Strawberries give more.
   - Wait: Leave the glass still for five minutes.
 - **s6 (6 min)**  
   *Parent does:* Twirl a toothpick in the white strands and lift them out. Look at what you have. Ask your child to say what they thought, what they saw and why.  
@@ -362,9 +364,9 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Child mode:* Fill both flasks. Put in thermometers. Write the starting temperatures. Wrap them in towels.
   - Note: Keep the lids loose, because the sprouts make carbon dioxide. A full flask has little air to carry the heat away. If the thermometer cannot stay in with the lid on, read the start temperature, close the flask, and read it again at the end by opening the lid and pushing the thermometer in at once. With two to four children, each child owns one job: filler, thermometer reader, writer and timekeeper, and swaps for the next reading. Everyone makes a guess first. If you only have one thermometer, read one flask and then the other, with no delay. The start temperatures should be within half a degree of each other.
 - **s4 (8 min)**  
-  *Parent does:* The next morning, open each flask and read the temperature at once. Write the numbers. Work out the difference. Smell each flask.  
+  *Parent does:* The next morning, open each flask and read the temperature straight away. Write the numbers. Work out the difference. Smell each flask.  
   *Parent says:* Open the flasks and read the temperatures quickly. Which is warmer? By how much? What do the seeds smell like?  
-  *Child mode:* Read both temperatures at once. Which flask is warmer? Smell each one.
+  *Child mode:* Open each flask and read the temperature straight away. Which flask is warmer? Smell each one.
   - Ask: Which flask is warmer, and by how much? (good: The sprouting one is warmer by about a degree.)
   - Note: In a good vacuum flask, the sprouts are typically warmer by about half a degree to two degrees. Seeds make only a little heat, so in a plain dabba the difference may be too small to see, or nothing. If both flasks warmed, the boiled seeds may carry microbes that also make heat. That is a real effect, so say so. If the difference is nothing, say so and try again with more seeds in a better flask.
   - Wait: Leave the flasks overnight.
@@ -372,16 +374,17 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then explain. Pour the seeds into the compost or bin.  
   *Parent says:* Tell me three things. What did you think? What did you see? Why do you think it happened?  
   *Child mode:* Say what you thought, what you saw, and why.
-  - Note: Waking seeds release the energy stored in their sugar and starch, using oxygen, in their mitochondria. Some energy goes into building the new sprout, and some leaves as heat. Boiled seeds cannot do this, though germs in them can make a little heat too, so the difference is small. It is the same reason you warm up when you run.
+  - Note: Waking seeds release the energy stored in their sugar and starch, using oxygen, in their mitochondria. Some energy goes into building the new sprout, and some leaves as heat. Boiled seeds cannot do this, though germs in them can make a little heat too, so the difference is small. It is the same reason you warm up when you run. For the think question, a good answer is that the living seeds released energy from the sugar and starch stored in them, in their mitochondria, and some of that energy left as heat.
   - Check: Why was the boiled flask a check on the test? → **It showed what the flask does when the seeds are not alive.**
   - Think: Where did the heat come from, if nobody lit a fire?
 
 ## Activities
 ### a1 · The Copy Walk: from recipe book to bead necklace (25 min)
+- **problem:** A cell keeps her recipes in the nucleus and never takes the DNA out. So how can she build a protein from a recipe? She copies one recipe, sends the copy to a ribosome, and the ribosome builds the protein. In this activity you act out these steps with coloured dots and four kinds of grain. Then you change one dot and see what happens to the protein.
 - **safety:** Dry grains are small. Keep them away from toddlers, and nobody puts them in the mouth, nose or ears. If a child is allergic to any pulse, use coloured paper bits or beads instead.
 - **record:** Draw the recipe dots, the messenger copy, and the necklace you built each time. Write what changed when the dots changed.
 - **s1 (6 min)**  
-  *Parent does:* Draw eight dots on the paper strip in this order: red, red, blue, yellow, yellow, red, blue, blue. Put the strip on the steel plate. Then write the code on another paper. RR, RB and YY mean chana. RY and YR mean rice. BR and BB mean moong. BY and YB mean rajma.  
+  *Parent does:* Draw eight dots on the paper strip in this order: red, red, blue, yellow, yellow, red, blue, blue. Put the strip on the steel plate. Then write the code on another paper. In the code, R is red, B is blue and Y is yellow. RR, RB and YY mean chana. RY and YR mean rice. BR and BB mean moong. BY and YB mean rajma.  
   *Parent says:* This strip is the recipe book in the nucleus. It must never leave the plate. Here is the code. Two dots in a row make one word, and each word means one grain.  
   *Child mode:* Draw the eight dots. Put the strip on the plate. Write the code on a paper.
   - Note: Real cells read three letters at a time, with four letters, so there are 64 words. We use two dots and three colours, so there are 9 words. Note that three different words mean chana. The real code also has several words for the same block.
@@ -403,9 +406,10 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   - Note: Red-blue (RB) still means chana, so the first change makes no difference. Yellow-red (YR) means rice, so the second change swaps one grain. In real cells, a single changed letter can make no difference, or can change one building block, and sometimes that change causes a disease such as sickle cell anaemia.
   - Check: When one letter in a recipe changes, what can happen? → **Nothing, or one building block changes, depending on the change.**
 ### a2 · Power Cards: which cells need the most mitochondria? (15 min)
+- **problem:** Different cells do different amounts of work, and mitochondria release the energy for that work. So some cells should have many more mitochondria than others. In this activity you guess the order for five kinds of cell, then check it against the true numbers and think about why.
 - **record:** Write your first order, and then the true order. Mark each place where you were surprised.
 - **s1 (5 min)**  
-  *Parent does:* Write these five cell names on five slips: red blood cell, sperm cell, liver cell, heart muscle cell, egg cell. Say that every cell is different in how much work she does.  
+  *Parent does:* Write these five cell names on five slips: red blood cell, sperm cell, liver cell, heart muscle cell, egg cell. Say that different cells do different amounts of work.  
   *Parent says:* Mitochondria are the power stations. Which of these cells needs the most power? Which the least? Lay them in a row and tell me why.  
   *Child mode:* Write five cell names on slips. Lay them from fewest mitochondria to most.
   - Ask: Which cell do you think has the fewest, and why? (good: The red blood cell, because she only carries things.)
@@ -413,16 +417,17 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   - Note: Do not correct. Any order with a reason is a good start. With more than one child, each lays out their own row first. Compare the rows before you show the true order.
 - **s2 (6 min)**  
   *Parent does:* Show the true order. A red blood cell has none. A sperm cell has about 50 to 75, packed in a spiral behind the head. A liver cell has about 1,000 to 2,000. A heart muscle cell has thousands. An egg cell has about 100,000 or more. Move the slips into this order.  
-  *Parent says:* Here is the true order. Which one surprised you? The egg cell is the biggest cell in the human body, and she has the most.  
-  *Child mode:* Move the slips into the true order. Which one surprised you?
-  - Note: Numbers vary from cell to cell and from person to person, so say 'about'. The egg is surprising. After fertilisation she divides many times using her own mitochondria, so she carries most of what the first cells of a baby will need. The sperm cell's mitochondria sit in a tight spiral behind the head and power her swimming.
+  *Parent says:* Here is the true order. The egg cell is the biggest cell in the human body, and she has the most mitochondria. Why might an egg cell need so many?  
+  *Child mode:* Move the slips into the true order. Which cell has the most? Why might that be?
+  - Note: Numbers vary from cell to cell and from person to person, so say 'about'. The egg is surprising. After fertilisation she divides many times using her own mitochondria, so she carries most of what the first cells of a baby will need. The sperm cell's mitochondria sit in a tight spiral behind the head and power the sperm's swimming.
 - **s3 (4 min)**  
-  *Parent does:* Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each. Then work out roughly how many liver cells an egg cell equals in mitochondria, using about 100,000 and about 1,000.  
+  *Parent does:* Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each. Then work out how many times as many mitochondria an egg cell has as a liver cell. Use about 100,000 for the egg cell and about 1,000 for the liver cell.  
   *Parent says:* A red blood cell carries oxygen and keeps none for herself. Why would that help? And why does the heart cell have thousands?  
   *Child mode:* Why does a red blood cell have none? Why does a heart cell have many?
-  - Note: A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells. The sum is 100,000 divided by 1,000, so about 100 liver cells. Say about, because the counts vary.
+  - Note: A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells. For the think question, a good answer is yes, because a cell that works harder needs more power, and so the body builds more mitochondria in her. The sum is 100,000 divided by 1,000, so an egg cell has about 100 times as many mitochondria as a liver cell. Say about, because the counts vary.
   - Think: If you trained for a race, would your muscle cells grow more mitochondria? Why?
 ### a3 · The Mother-Line Map: whose mitochondria do you carry? (20 min)
+- **problem:** Almost all of your mitochondria came from your mother's egg, and hers came from her mother's egg. In this activity you draw the line of women behind you, and you count how many years that line goes back.
 - **record:** Draw your mother-line map. Write each woman's name and where she lived, as far back as you can.
 - **s1 (8 min)**  
   *Parent does:* Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. Write each name and place. Draw a small bean-shaped mitochondrion beside each person. If you can, ask an elder where each woman was born, and mark the places on a rough sketch map of India.  
@@ -435,14 +440,15 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Child mode:* Count the women. Multiply by 25. How many years is that?
   - Note: For example, 8 women times 25 years is 200 years. This is a rough estimate. If you have no names, pick a number, such as 10, and calculate.
 - **s3 (6 min)**  
-  *Parent does:* Tell your child how far back the line of mothers goes in total. Ask what they notice. Then ask who in the line gets to pass on mitochondria. Boys receive them but, in most animals, do not pass them on.  
-  *Parent says:* Every person alive has a line of mothers going back to the first cells. What do you think about that? Who passes the mitochondria on?  
-  *Child mode:* The line goes back to the first cells. What do you think about that?
-  - Ask: What do you think about a line of mothers going all the way back? (good: It is very long.; It goes back to before people.)
-  - Note: Mitochondrial DNA is used by scientists to trace maternal lines. All living humans share a maternal ancestor, often called mitochondrial Eve, who lived roughly 150,000 to 200,000 years ago in Africa. She was not the only woman alive then, and other women's lines simply did not continue to the present through daughters only.
+  *Parent does:* Tell your child that the line of mothers goes all the way back to the first cells. Then ask who passes mitochondria on to the next generation. Boys receive them but, in most animals, do not pass them on.  
+  *Parent says:* Every person alive has a line of mothers going back to the first cells. Who passes mitochondria on to the next generation: the mother, the father or both?  
+  *Child mode:* The line goes back to the first cells. Who passes mitochondria on: the mother or the father?
+  - Ask: In most animals, who passes mitochondria on to the next generation? (good: The mother, through her egg.; Mostly the mother. The sperm adds almost none.)
+  - Note: Scientists use mitochondrial DNA to trace lines of mothers. All living humans share one ancestor on the mother's side, often called mitochondrial Eve, who lived roughly 150,000 to 200,000 years ago in Africa. She was not the only woman alive then. The other women's lines did not reach the present through an unbroken chain of daughters.
 
 ## Projects
 ### p1 · Cell City on a Tray: build the rooms and walk a protein through (60 min, 2 days)
+- **problem:** A cell is full of rooms, and each room has a job. In this project you build the rooms from dough on a tray. Then you follow one protein through them, from the nucleus to the edge of the cell. You also write down what your model gets wrong, because a model is never the same as the real cell.
 - **safety:** Dough is safe to touch. Do not eat the dough with the lentils mixed in. Wheat and sesame are common allergens, so use clay and lentils instead if anyone is allergic. Dry lentils and toothpicks are for older children only, and keep them away from toddlers.
 - **record:** Take a photo or draw the finished city with every room labelled. Write the path of a protein from the nucleus to the outside. Write three things the model gets wrong.
 - **schedule:** day 1: Build the rooms and label them with job cards. (30 min); day 2: Walk a protein through the city and write three things the model gets wrong. (30 min)
@@ -450,9 +456,9 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* Press a rope of dough around the rim of the tray for the membrane. Make a round nucleus and poke holes in it. Make five bean-shaped mitochondria. Make two small green ovals for chloroplasts if you build a plant cell.  
   *Parent says:* We are building a cell on a tray. The rope is the membrane. The ball with holes is the nucleus. The beans are mitochondria. What else will she need?  
   *Child mode:* Make a dough rope for the membrane. Make a nucleus with holes. Make bean mitochondria.
-  - Note: Leave space for the rooms to be crowded. The picture is meant to be packed. Keep atta dough rooms in a closed box or under a damp cloth overnight, or they dry and crack. With two to four children, share one tray: each child makes some of the rooms, and on day two each takes a turn walking a protein through and saying what happens. Alone, expect the whole job to take the full hour.
+  - Note: Place the rooms close together. A real cell is packed, and the model should look packed too. Keep atta dough rooms in a closed box or under a damp cloth overnight, or they dry and crack. With two to four children, share one tray: each child makes some of the rooms, and on day two each takes a turn walking a protein through and saying what happens. Alone, expect the whole job to take the full hour.
 - **s2 (15 min)**  
-  *Parent does:* Make the rough ER from folded strips of dough with lentils on them. Make a Golgi from a stack of curved strips. Make a lysosome from a small ball. Press a bowl in for the vacuole in a plant cell. Write a flag for each room, saying its job, and stick it in.  
+  *Parent does:* Make the rough ER from folded strips of dough with lentils on them. Make a Golgi from a stack of curved strips. Make a lysosome from a small ball. For a plant cell, press a bowl shape into the dough for the vacuole. Write a flag for each room, saying its job, and stick it in.  
   *Parent says:* Add the workshops. Lentils on the folded strips are ribosomes. The stack is the Golgi. Write a job on each flag.  
   *Child mode:* Make the ER, Golgi and lysosome. Add lentils. Write a flag for each room.
   - Ask: Where do the proteins go after the ribosome? (good: To the ER, then the Golgi, then out.)
@@ -466,7 +472,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* Ask your child to write three things the model gets wrong. For example, it stays still, it has a flat floor, and it shows only a few rooms. Look at the tray and compare.  
   *Parent says:* Our model sits still. A real cell never does. What else is different? Write three things the model gets wrong.  
   *Child mode:* Write three things the model gets wrong. Is there a boss in the city?
-  - Note: Good answers: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. A real cell is usually only 10 to 30 micrometres wide.
+  - Note: The last question has a clear answer: no, there is no boss in the city. The nucleus keeps the recipes, but signals from the whole cell decide which recipes are used. Good answers to the first question: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. A real cell is usually only 10 to 30 micrometres wide.
 
 ## Challenges
 ### c1 · A Cell for the Job: share out twenty rooms (40 min)
@@ -491,10 +497,10 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Child mode:* Design a second cell for another job. Compare it with the first.
   - Ask: What did you change between the two cells, and why? (good: More chloroplasts for the leaf.; More ribosomes and Golgi for the gland cell.)
 - **s4 (12 min)**  
-  *Parent does:* Now do the 'your turn' job from your own day. Ask someone to guess the job from your dots alone. Write what they guessed and why.  
+  *Parent does:* Now pick a job from your own day: a cell in your eye, your tongue, your hair root or your bone. Share out twenty dots and explain each choice. Ask someone to guess the job from your dots alone. Write what they guessed and why.  
   *Parent says:* Pick a cell from your own body. Share out twenty dots. Let someone guess the job from the dots.  
-  *Child mode:* Pick a cell from your body. Stick twenty dots. Let someone guess its job.
-  - Note: Real cells have many more rooms than twenty, and they are not set by sticker. The point is that the number of each room follows the job.
+  *Child mode:* Pick a cell from your body. Stick twenty dots. Let someone guess her job.
+  - Note: Real cells have many more than twenty rooms, and nobody shares them out with stickers. The point is that the number of each room follows the job. For the think question, a good answer is no, because every cell would then have the same rooms, and real cells differ since each job needs different rooms.
   - Think: If the same twenty dots were used in every cell, would cells be different from each other?
 
 ## Worksheets
@@ -512,7 +518,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 5. (match) Match each room to its job.  
    **Answer:** Nucleus → keeps the DNA; Mitochondrion → releases energy from food; Ribosome → builds proteins; Lysosome → digests old parts and germs; Golgi body → labels and posts proteins. *Why:* Each room has one main job, and the jobs fit together. Ribosomes build, the Golgi posts, mitochondria power, lysosomes recycle, and the nucleus keeps the recipes.
 6. (sort) Sort each part by whether it is found only in plant cells or in both plant and animal cells.  
-   **Answer:** chloroplast → Plant cells only; mitochondrion → Plant and animal cells; nucleus → Plant and animal cells; ribosome → Plant and animal cells; Golgi body → Plant and animal cells; large central vacuole → Plant cells only. *Why:* Chloroplasts and the big central vacuole belong to plant cells. Mitochondria, nucleus, ribosomes and the Golgi body are found in both. Plants breathe with mitochondria, as animals do.
+   **Answer:** chloroplast → Plant cells only; mitochondrion → Plant and animal cells; nucleus → Plant and animal cells; ribosome → Plant and animal cells; Golgi body → Plant and animal cells; large central vacuole → Plant cells only. *Why:* Chloroplasts and the big central vacuole belong to plant cells. Mitochondria, nucleus, ribosomes and the Golgi body are found in both. Plants release energy from food in their mitochondria, as animals do.
 7. (order) Put these steps in order for how a cell makes a protein.  
    **Answer:** ['A gene is copied into a messenger copy', 'The copy leaves the nucleus through a pore', 'A ribosome reads the copy', 'Building blocks are joined in order', 'The chain folds into a protein']. *Why:* A cell copies the recipe first and keeps the book. The copy travels to a ribosome, which reads it and builds the chain. The chain folds into its shape last.
 8. (mcq) Beetroot cubes turn the water red in hot water but not in cold water. What is the best explanation?  
@@ -537,22 +543,22 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 1. (mcq) Why is the inner wall of a mitochondrion folded many times?  
    Options: The folds give more surface for the energy machines to sit on / The folds make the mitochondrion green / The folds let the mitochondrion hold more water  
    **Answer:** The folds give more surface for the energy machines to sit on. *Why:* The machines that release energy sit in the inner wall. Folding gives a much larger wall in the same small room, so more machines can work. It is like folding a long towel into a small bucket.
-2. (mcq) Scientists put the nucleus of a frog's gut cell into an egg cell that had no nucleus of its own, and a tadpole grew. What does this show?  
+2. (mcq) Scientists put the nucleus of a frog's gut cell into an egg cell that had no nucleus of her own, and a tadpole grew. What does this show?  
    Options: Gut cells are really egg cells / The gut cell's nucleus still held the whole recipe / Eggs do not need a nucleus  
    **Answer:** The gut cell's nucleus still held the whole recipe. *Why:* A tadpole needs all the recipes, so the gut cell's nucleus must have held them all. The gut cell used only a few pages. The rest were still there.
 3. (mcq) Mitochondria divide in two inside a cell, much as bacteria do. Why is this a clue about their past?  
    Options: The cell cannot make a new mitochondrion from nothing, so each comes from an older one / They are bigger than bacteria / They are the same colour as bacteria  
-   **Answer:** The cell cannot make a new mitochondrion from nothing, so each comes from an older one. *Why:* Only existing mitochondria make new ones, as only existing bacteria make new bacteria. This fits their having begun as bacteria. Size and colour are not clues.
+   **Answer:** The cell cannot make a new mitochondrion from nothing, so each comes from an older one. *Why:* Only existing mitochondria make new ones, as only existing bacteria make new bacteria. This fits the idea that they began as bacteria. Size and colour are not clues.
 4. (truefalse) A mature red blood cell has no nucleus and still lives for months.  
    **Answer:** True. *Why:* True. A red blood cell carries oxygen for about four months with no nucleus. She uses proteins that were built before she lost her nucleus.
 5. (fill) A ribosome reads a messenger copy ____ letters at a time.  
    **Answer:** ['three']. *Why:* Each three-letter word on the copy means one building block. The ribosome reads one word after another and adds the blocks in order.
 6. (match) Match each part to what it looks like.  
    **Answer:** Golgi body → a stack of flat curved bags; Rough ER → folded bags with ribosomes on them; Vacuole in a plant cell → a big water store; Chloroplast → green stacks of flat discs; Lysosome → a small round bag of strong juice. *Why:* Each room's shape suits its job. A stack of flat bags is good for sorting, and the folds of the ER make room for many ribosomes.
-7. (odd) Which beetroot test is the odd one out, and why? Cold water, hot water, soapy water, frozen then thawed.  
+7. (odd) In the Beetroot Test, cubes were put in cold water, hot water and soapy water, and one cube was frozen and then thawed. Which is the odd one out, and why?  
    **Answer:** Cold water, because the others all break the cell skins and the red spills. In cold water the skins stay whole.. *Why:* Heat, soap and ice crystals break the skins. Cold water leaves them whole, so the red stays inside.
-8. (count) A person makes about their own body weight in ATP in a day. A girl weighs 30 kilograms. About how much ATP does she make in 10 days?  
-   **Answer:** About 300 kilograms. *Why:* 30 kilograms a day times 10 days is 300 kilograms. She never holds that much at once. She uses ATP almost as fast as she makes it.
+8. (count) A person makes about their own body weight in ATP in a day. About how much ATP does a child who weighs 30 kilograms make in 10 days?  
+   **Answer:** About 300 kilograms. *Why:* 30 kilograms a day times 10 days is 300 kilograms. The child never holds that much at once. ATP is used almost as fast as it is made.
 9. (count) A gene has 900 letters. A ribosome reads it three letters at a time. How many building blocks will the protein have?  
    **Answer:** 300. *Why:* 900 divided by 3 is 300. Each three-letter word means one building block.
 10. (write) How could scientists tell whether a room of a cell began as a bacterium? Name two things they would look for.  
@@ -606,7 +612,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
    **Answer:** How the first cell with a nucleus and mitochondria began. *Why:* Scientists agree that cells have skins and that mitochondria use oxygen. How the first complex cell began is still argued.
 12. (mcq) Muscle cells and skin cells hold the same DNA. Why are they different?  
    Options: They switch on different genes / Their DNA is different / Muscle cells have no nucleus  
-   **Answer:** They switch on different genes. *Why:* Each cell uses the recipes it needs. Gurdon's frog experiment showed that a grown-up cell still holds the whole book.
+   **Answer:** They switch on different genes. *Why:* Each cell uses the recipes she needs. Gurdon's frog experiment showed that a grown-up cell still holds the whole book.
 
 ## Applications
 - Doctors test for diseases of the mitochondria in babies who tire very easily.
@@ -639,11 +645,11 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - When you run, where does the air go after it leaves your nose?
 - Why do you feel warm after running?
 - Which of your cells do you think have the most mitochondria, and why?
-- If the nucleus is a library, who goes to the library?
-- Why do we say 'breathe' when we want to calm someone down?
+- The nucleus is like a library that never lends out its books. How does the rest of the cell use the recipes?
+- When you run, you breathe harder. What is your body trying to give to your cells?
 - What would a cell need to do to build a protein, step by step?
-- Could a city work with no mayor? How?
-- What colour would you give the mitochondria in a picture, and why?
+- A cell has no single boss. What tells the nucleus which recipes to copy?
+- A heart muscle cell never rests. Which room would you draw the most of in her, and why?
 - If your mitochondria came from your mother, whose mitochondria did she get?
 - Why do plants need air even at night?
 
@@ -660,11 +666,11 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 
 ## Connected maths
 - A nucleus is 6 micrometres across. Its DNA, stretched out, is 2 metres long. How many times as long as the nucleus is the DNA? One metre is 1,000,000 micrometres. **About 333,000 times.**. Two metres is 2,000,000 micrometres. Dividing 2,000,000 by 6 gives about 333,000. So the DNA is about 333,000 times as long as the room it is kept in. (queues `math.number-sense.big-numbers.L4`)
-- A liver cell has about 1,000 mitochondria. A human egg cell has at least 100,000. At least how many times as many mitochondria does the egg have? Why might an egg need so many? **At least 100 times as many, because the egg must power the first days of a new baby, before any other cells exist.**. 100,000 divided by 1,000 is 100. The egg is large and, once it is fertilised, it divides with only the mitochondria it already holds. (queues `math.division.division-facts.L4`)
-- In the beetroot test, a pupil scored the colour of the water on a scale of 0 to 5 after 20 minutes: cold water 0, warm water 1, hot water 5, soap water 4. How many points more is hot water than cold water, and which one is closest to the soap water? **5 points more. Hot water (5) is closest to the soap water (4).**. 5 minus 0 is 5. The soap score of 4 is one away from the hot score of 5, and four away from the cold score of 0. (queues `math.data.bar-charts.L4`)
+- A liver cell has about 1,000 mitochondria. A human egg cell has at least 100,000. At least how many times as many mitochondria does the egg have? Why might an egg need so many? **At least 100 times as many, because the egg must power the first days of a new baby, before any other cells exist.**. 100,000 divided by 1,000 is 100. The egg is large and, once she is fertilised, she divides with only the mitochondria she already holds. (queues `math.division.division-facts.L4`)
+- In the Beetroot Test, the water in four glasses was scored for colour from 0 to 5 after 20 minutes: cold water 0, warm water 1, hot water 5, soap water 4. How many points more did hot water score than cold water? Which glass scored closest to the soap water? **5 points more. Hot water (5) is closest to the soap water (4).**. 5 minus 0 is 5. The soap score of 4 is one away from the hot score of 5, and four away from the cold score of 0. (queues `math.data.bar-charts.L4`)
 - A ribosome in a bacterium adds about 20 building blocks every second. A small protein has 300 building blocks. About how long does it take one ribosome to build it? **About 15 seconds.**. 300 divided by 20 is 15. A cell has millions of ribosomes working together, so she can make millions of proteins in a few minutes. (queues `math.division.division-facts.L4`)
-- A red blood cell lives about 120 days. About how many red blood cells does your body replace in a year if it loses about the same number each day? A body makes about 2 million new red blood cells every second. **About 63 trillion.**. There are about 86,400 seconds in a day. 2 million times 86,400 is about 173 billion a day. Times 365 days is about 63 trillion a year. (queues `math.multiplication.multi-digit.L4`)
-- In an imagined sprout heat test, the living sprouts reached 31 degrees after 12 hours and 33 degrees after 24 hours. The boiled seeds stayed at 28. How many degrees warmer were the living sprouts at the 12th hour and at the 24th hour? **3 degrees warmer at 12 hours and 5 degrees warmer at 24 hours.**. 31 minus 28 is 3. 33 minus 28 is 5. The difference grows, so the living seeds kept making heat. (queues `math.measurement-basics.reading-scales.L4`)
+- A red blood cell lives about 120 days, so your body keeps replacing them. It makes about 2 million new red blood cells every second. About how many does it make in a year? **About 63 trillion.**. There are about 86,400 seconds in a day. 2 million times 86,400 is about 173 billion a day. Times 365 days is about 63 trillion a year. (queues `math.multiplication.multi-digit.L4`)
+- In a made-up Warm Sprouts test, the living sprouts reached 31 degrees after 12 hours and 33 degrees after 24 hours. The boiled seeds stayed at 28 degrees. How many degrees warmer were the living sprouts after 12 hours, and after 24 hours? **3 degrees warmer at 12 hours and 5 degrees warmer at 24 hours.**. 31 minus 28 is 3. 33 minus 28 is 5. The difference grows, so the living seeds kept making heat. (queues `math.measurement-basics.reading-scales.L4`)
 
 ## Song
 Tiny Rooms, Big Life (sci.what-is-life.L4): Topic-level song

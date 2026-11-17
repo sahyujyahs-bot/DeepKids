@@ -125,7 +125,7 @@
    "concept": "A cell is a crowded city of small rooms",
    "status": "defined",
    "definition": "Most cells of plants, animals and fungi hold organelles: small rooms, each wrapped in its own skin, each with its own job.",
-   "description": "A cell has three main parts: the membrane, the cytoplasm and the nucleus. Now we go inside the cytoplasm. It is not empty jelly. It is full of organelles, packed close together, like shops and workshops along a busy street. Having separate rooms lets a cell do many jobs at once without mixing them up. The digestive juice sits in a bag of its own, so it does not eat the rest of the cell. Bacteria are smaller and have no rooms wrapped in skins. Their DNA floats in the cytoplasm, and they still have ribosomes. A city is a good picture for the rooms. It is a poor picture in one way. A real cell is not a still map. Everything in her moves, bumps and changes all the time.",
+   "description": "A cell has three main parts: the membrane, the cytoplasm and the nucleus. Now we go inside the cytoplasm. It is not empty jelly. It is full of organelles, packed close together, like shops and workshops along a busy street. Having separate rooms lets a cell do many jobs at once without mixing them up. The digestive juice sits in a bag of its own, so it does not eat the rest of the cell. Bacteria are smaller and have no rooms wrapped in skins. Their DNA floats in the cytoplasm, and they still have ribosomes. A city is a good picture for the rooms, but it is a poor picture in one way. A real cell is not a still map. Everything in her moves, bumps and changes all the time.",
    "examples": [
     "A liver cell has a nucleus, a thousand or more mitochondria, ribosomes, and rooms for sorting and recycling.",
     "A bacterium has a membrane, cytoplasm, a loop of DNA and ribosomes, but no rooms wrapped in skins.",
@@ -138,7 +138,7 @@
    "concept": "The nucleus: a library, not a boss",
    "status": "defined",
    "definition": "The nucleus is a room with a double skin that holds the cell's DNA, wound into chromosomes. It makes working copies of genes and sends them out.",
-   "description": "Your DNA is about two metres long in each cell. It is folded to fit in a nucleus about six micrometres wide. That is like packing a thread 20 kilometres long into a tennis ball. The nucleus has tiny doors called pores. Copies of single genes go out through the pores, and the DNA itself stays in. Many books call the nucleus the control centre. That picture is useful, but it can mislead. The nucleus does not give orders on her own. Signals from the rest of the cell and from outside the cell tell the nucleus which genes to copy. In the 1930s and 1940s, a German scientist named Joachim Hammerling cut up Acetabularia, a giant single-celled alga that grows several centimetres tall. A stalk with no nucleus could grow one new cap, using messages already sent out, but not a second one. When he joined a stalk of one species to a foot of another species, with its nucleus, the new cap came to match the species of the nucleus. So the nucleus matters a great deal. But the messages, the stalk and the whole cell matter too.",
+   "description": "Your DNA is about two metres long in each cell. It is folded to fit in a nucleus about six micrometres wide. That is like packing a thread 20 kilometres long into a tennis ball. The nucleus has tiny doors called pores. Copies of single genes go out through the pores, and the DNA itself stays in. Many books call the nucleus the control centre. That picture is useful, but it can mislead. The nucleus does not give orders on her own. Signals from the rest of the cell and from outside the cell tell the nucleus which genes to copy. In the 1930s and 1940s, a German scientist named Joachim Hammerling studied Acetabularia, a giant single-celled alga that grows several centimetres tall. Her nucleus sits in her foot, at the bottom of a long stalk, and a cap grows at the top. When he cut off the foot with the nucleus, the stalk could still grow one new cap, using messages already sent out, but not a second one. When he joined a stalk of one species to a foot of another species, the new cap came to match the species of the foot with the nucleus. So the nucleus matters a great deal. But the messages already sent out, the stalk and the whole cell matter too.",
    "examples": [
     "A human cell has 46 chromosomes in the nucleus, which hold about 20,000 genes that make proteins.",
     "A mature red blood cell has no nucleus and still lives about four months.",
@@ -190,7 +190,7 @@
    "concept": "Chloroplasts: the sun-catching rooms, and why plants need mitochondria too",
    "status": "defined",
    "definition": "A chloroplast is a green room in plant and algae cells. It uses the energy of sunlight to turn carbon dioxide and water into sugar and oxygen.",
-   "description": "Inside a chloroplast are stacks of flat discs, and the green chlorophyll sits on the discs. A leaf cell holds many chloroplasts, often 20 to 100. In the photosynthesis unit, leaf discs float because chloroplasts fill them with oxygen. Many children think plants have chloroplasts instead of mitochondria. That is wrong. Plants have both. The chloroplasts make sugar in the light. The mitochondria then release energy from that sugar, day and night, as they do in your cells. A plant is breathing all the time, and in the day she makes more oxygen than she uses.",
+   "description": "Inside a chloroplast are stacks of flat discs, and the green chlorophyll sits on the discs. A leaf cell holds many chloroplasts, often 20 to 100. You can see this in a leaf disc put in water, which floats up once its chloroplasts have filled it with oxygen. Many children think plants have chloroplasts instead of mitochondria. That is wrong. Plants have both. The chloroplasts make sugar in the light. The mitochondria then release energy from that sugar, day and night, as they do in your cells. A plant releases energy from her sugar all the time, and in the day she makes more oxygen than she uses.",
    "examples": [
     "A spinach leaf cell has chloroplasts and mitochondria.",
     "A root cell has mitochondria but no chloroplasts, because roots sit in the dark.",
@@ -419,9 +419,9 @@
   "three": {
    "who_am_i": "You are about thirty trillion cells, and each one reads a different part of the same book. You are also a home for mitochondria, which began as bacteria and are passed down through your mother.",
    "what_is_life": "A living cell is a crowd of rooms, moving parts and signals that keep each other going. No single room is the whole of the cell.",
-   "what_is_this_world": "The oxygen in your breath is carried to your mitochondria, and the carbon dioxide you breathe out is taken up by plants. Cells in leaves and cells in you are parts of one long exchange."
+   "what_is_this_world": "The oxygen in your breath is carried to your mitochondria. The carbon dioxide you breathe out is taken up by plants, and plants make oxygen for you to breathe in. So the cells in a leaf and the cells in your body keep passing air to each other."
   },
-  "thread": "In a cell, no single part holds all the knowledge, and none gives all the orders. The recipe is in the nucleus, the energy is made in the mitochondria, and the building is done by ribosomes. These rooms depend on each other every second. Two of them began as separate beings and joined, so the cell herself is made of beings that were once separate. The same is true of your whole body, and of the living world: parts that look separate keep each other alive. What makes all the parts work as one whole? That question is left open for you.",
+  "thread": "In a cell, no single part holds all the knowledge, and none gives all the orders. The recipe is in the nucleus, the energy is made in the mitochondria, and the building is done by ribosomes. These rooms depend on each other every second. Two of them began as separate beings and joined, so the cell herself is made of beings that were once separate. The same is true of your whole body, and of the living world: parts that look separate keep each other alive. Scientists do not yet fully know what makes all these parts work together as one whole.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.11",
@@ -436,7 +436,7 @@
    {
     "source": "Avatamsaka Sutra, Indra's net",
     "teaching": "Every jewel in a great net reflects every other jewel, so each one contains all the others.",
-    "link": "Each part of a cell holds a piece of the same story. Mitochondria carry their own DNA, and the nucleus carries the rest."
+    "link": "In a cell, the nucleus carries most of the DNA, and the mitochondria carry a small piece of their own. So pieces of the same set of instructions are kept in more than one place."
    }
   ],
   "science": [
@@ -607,10 +607,11 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Play the last four cards. Count the points. Ask which card was the hardest and why.",
-     "say": "Last four. Count your points. Which card was the trickiest?",
-     "kid": "Play the last cards. Count your points. Which card was trickiest?",
-     "context": "This is the last step of Cell City Emergency. You finish the pile and count the points."
+     "do": "Play the last four cards. Count the points. Then ask which room was the answer on the most cards, and why that room matters so much.",
+     "say": "Last four. Count your points. Which room was the answer on the most cards, and why?",
+     "kid": "Play the last cards. Count your points. Which room came up the most, and why?",
+     "context": "This is the last step of Cell City Emergency. You finish the pile and count the points.",
+     "parent": "The answer is mitochondria. They appear on the most cards because almost every job in a cell needs energy, and mitochondria release that energy from food, using oxygen."
     }
    ]
   }
@@ -795,6 +796,7 @@
   {
    "id": "e2",
    "title": "Banana DNA: can you pull the recipe book out of a cell?",
+   "problem": "DNA is far too thin to see inside a cell. But a banana has millions of cells, so together they hold a lot of DNA. In this experiment you break open the cells and then use cold alcohol to bring the DNA out of the liquid, so that you can see it as white strands.",
    "mins": 38,
    "days": 1,
    "question": "Can you see DNA with your own eyes if you break open the cells of a banana?",
@@ -887,7 +889,7 @@
        ]
       }
      ],
-     "parent": "Any guess with a reason is good. Many children expect a tiny ladder. Real DNA from many cells together looks like white stringy cloud.",
+     "parent": "Any guess with a reason is good. Many children expect a tiny ladder. Real DNA from many cells together looks like a white, stringy cloud.",
      "context": "This is the first step of Banana DNA. You guess before you test."
     },
     {
@@ -903,7 +905,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Add one teaspoon of dish soap. Stir slowly for three minutes. Try not to make foam. Leave it for five minutes.",
-     "say": "The soap breaks the fatty skins around the cells and around the nuclei, as it did to the beetroot cells in the Beetroot Test. Stir gently, because foam traps the DNA.",
+     "say": "The soap breaks the fatty skins around the cells and around the nuclei. It did the same to the beetroot cells in the Beetroot Test. Stir gently, because foam traps the DNA.",
      "kid": "Add the soap. Stir slowly for three minutes. Do not make foam.",
      "ask": [
       {
@@ -928,7 +930,7 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "A grown-up tilts each glass and slowly pours cold rubbing alcohol down the side, until it makes a layer as deep as the liquid below. Do not stir. Leave the glasses for five minutes. Watch the line between the layers.",
+     "do": "A grown-up tilts each glass and slowly pours cold rubbing alcohol down the side. Pour until the alcohol makes a layer as deep as the liquid below. Do not stir. Leave the glasses for five minutes. Watch the line between the layers.",
      "say": "Slowly now. The alcohol floats on top. DNA does not dissolve in alcohol. Watch the line between the two layers. What do you see?",
      "kid": "A grown-up pours cold alcohol down the side. Watch the line between the layers.",
      "adult": true,
@@ -1110,7 +1112,7 @@
      "do": "Ask your child to say what they thought, what they saw and why. Then explain. Pour the seeds into the compost or bin.",
      "say": "Tell me three things. What did you think? What did you see? Why do you think it happened?",
      "kid": "Say what you thought, what you saw, and why.",
-     "parent": "Waking seeds release the energy stored in their sugar and starch, using oxygen, in their mitochondria. Some energy goes into building the new sprout, and some leaves as heat. Boiled seeds cannot do this, though germs in them can make a little heat too, so the difference is small. It is the same reason you warm up when you run.",
+     "parent": "Waking seeds release the energy stored in their sugar and starch, using oxygen, in their mitochondria. Some energy goes into building the new sprout, and some leaves as heat. Boiled seeds cannot do this, though germs in them can make a little heat too, so the difference is small. It is the same reason you warm up when you run. For the think question, a good answer is that the living seeds released energy from the sugar and starch stored in them, in their mitochondria, and some of that energy left as heat.",
      "think": "Where did the heat come from, if nobody lit a fire?",
      "check": {
       "t": "mcq",
@@ -1132,6 +1134,7 @@
   {
    "id": "a1",
    "title": "The Copy Walk: from recipe book to bead necklace",
+   "problem": "A cell keeps her recipes in the nucleus and never takes the DNA out. So how can she build a protein from a recipe? She copies one recipe, sends the copy to a ribosome, and the ribosome builds the protein. In this activity you act out these steps with coloured dots and four kinds of grain. Then you change one dot and see what happens to the protein.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1240,6 +1243,7 @@
   {
    "id": "a2",
    "title": "Power Cards: which cells need the most mitochondria?",
+   "problem": "Different cells do different amounts of work, and mitochondria release the energy for that work. So some cells should have many more mitochondria than others. In this activity you guess the order for five kinds of cell, then check it against the true numbers and think about why.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -1296,8 +1300,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Show the true order. A red blood cell has none. A sperm cell has about 50 to 75, packed in a spiral behind the head. A liver cell has about 1,000 to 2,000. A heart muscle cell has thousands. An egg cell has about 100,000 or more. Move the slips into this order.",
-     "say": "Here is the true order. Which one surprised you? The egg cell is the biggest cell in the human body, and she has the most.",
-     "kid": "Move the slips into the true order. Which one surprised you?",
+     "say": "Here is the true order. The egg cell is the biggest cell in the human body, and she has the most mitochondria. Why might an egg cell need so many?",
+     "kid": "Move the slips into the true order. Which cell has the most? Why might that be?",
      "parent": "Numbers vary from cell to cell and from person to person, so say 'about'. The egg is surprising. After fertilisation she divides many times using her own mitochondria, so she carries most of what the first cells of a baby will need. The sperm cell's mitochondria sit in a tight spiral behind the head and power the sperm's swimming.",
      "context": "In this step, you check your order against the true order."
     },
@@ -1307,7 +1311,7 @@
      "do": "Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each. Then work out how many times as many mitochondria an egg cell has as a liver cell. Use about 100,000 for the egg cell and about 1,000 for the liver cell.",
      "say": "A red blood cell carries oxygen and keeps none for herself. Why would that help? And why does the heart cell have thousands?",
      "kid": "Why does a red blood cell have none? Why does a heart cell have many?",
-     "parent": "A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells. The sum is 100,000 divided by 1,000, so an egg cell has about 100 times as many mitochondria as a liver cell. Say about, because the counts vary.",
+     "parent": "A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells. For the think question, a good answer is yes, because a cell that works harder needs more power, and so the body builds more mitochondria in her. The sum is 100,000 divided by 1,000, so an egg cell has about 100 times as many mitochondria as a liver cell. Say about, because the counts vary.",
      "think": "If you trained for a race, would your muscle cells grow more mitochondria? Why?",
      "context": "This step asks why the numbers differ."
     }
@@ -1316,6 +1320,7 @@
   {
    "id": "a3",
    "title": "The Mother-Line Map: whose mitochondria do you carry?",
+   "problem": "Almost all of your mitochondria came from your mother's egg, and hers came from her mother's egg. In this activity you draw the line of women behind you, and you count how many years that line goes back.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -1366,15 +1371,15 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Tell your child that the line of mothers goes all the way back to the first cells. Ask what they notice. Then ask who in the line gets to pass on mitochondria. Boys receive them but, in most animals, do not pass them on.",
-     "say": "Every person alive has a line of mothers going back to the first cells. What do you think about that? Who passes the mitochondria on?",
-     "kid": "The line goes back to the first cells. What do you think about that?",
+     "do": "Tell your child that the line of mothers goes all the way back to the first cells. Then ask who passes mitochondria on to the next generation. Boys receive them but, in most animals, do not pass them on.",
+     "say": "Every person alive has a line of mothers going back to the first cells. Who passes mitochondria on to the next generation: the mother, the father or both?",
+     "kid": "The line goes back to the first cells. Who passes mitochondria on: the mother or the father?",
      "ask": [
       {
-       "q": "What do you think about a line of mothers going all the way back?",
+       "q": "In most animals, who passes mitochondria on to the next generation?",
        "good": [
-        "It is very long.",
-        "It goes back to before people."
+        "The mother, through her egg.",
+        "Mostly the mother. The sperm adds almost none."
        ]
       }
      ],
@@ -1388,6 +1393,7 @@
   {
    "id": "p1",
    "title": "Cell City on a Tray: build the rooms and walk a protein through",
+   "problem": "A cell is full of rooms, and each room has a job. In this project you build the rooms from dough on a tray. Then you follow one protein through them, from the nucleus to the edge of the cell. You also write down what your model gets wrong, because a model is never the same as the real cell.",
    "days": 2,
    "mins": 60,
    "materials": [
@@ -1496,7 +1502,7 @@
      "do": "Ask your child to write three things the model gets wrong. For example, it stays still, it has a flat floor, and it shows only a few rooms. Look at the tray and compare.",
      "say": "Our model sits still. A real cell never does. What else is different? Write three things the model gets wrong.",
      "kid": "Write three things the model gets wrong. Is there a boss in the city?",
-     "parent": "Good answers: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. A real cell is usually only 10 to 30 micrometres wide.",
+     "parent": "The last question has a clear answer: no, there is no boss in the city. The nucleus keeps the recipes, but signals from the whole cell decide which recipes are used. Good answers to the first question: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. A real cell is usually only 10 to 30 micrometres wide.",
      "context": "This is the last step of Cell City. You say where the model fails."
     }
    ]
@@ -1596,7 +1602,7 @@
      "do": "Now pick a job from your own day: a cell in your eye, your tongue, your hair root or your bone. Share out twenty dots and explain each choice. Ask someone to guess the job from your dots alone. Write what they guessed and why.",
      "say": "Pick a cell from your own body. Share out twenty dots. Let someone guess the job from the dots.",
      "kid": "Pick a cell from your body. Stick twenty dots. Let someone guess her job.",
-     "parent": "Real cells have many more than twenty rooms, and nobody shares them out with stickers. The point is that the number of each room follows the job.",
+     "parent": "Real cells have many more than twenty rooms, and nobody shares them out with stickers. The point is that the number of each room follows the job. For the think question, a good answer is no, because every cell would then have the same rooms, and real cells differ since each job needs different rooms.",
      "think": "If the same twenty dots were used in every cell, would cells be different from each other?",
      "context": "This is the last step of A Cell for the Job. You design a cell and test it on someone."
     }
@@ -1713,7 +1719,7 @@
       ]
      ],
      "a": "as given",
-     "why": "Chloroplasts and the big central vacuole belong to plant cells. Mitochondria, nucleus, ribosomes and the Golgi body are found in both. Plants breathe with mitochondria, as animals do.",
+     "why": "Chloroplasts and the big central vacuole belong to plant cells. Mitochondria, nucleus, ribosomes and the Golgi body are found in both. Plants release energy from food in their mitochondria, as animals do.",
      "outcome": 0
     },
     {
@@ -2249,11 +2255,11 @@
   "When you run, where does the air go after it leaves your nose?",
   "Why do you feel warm after running?",
   "Which of your cells do you think have the most mitochondria, and why?",
-  "If the nucleus is a library, who goes to the library?",
-  "Why do we say 'breathe' when we want to calm someone down?",
+  "The nucleus is like a library that never lends out its books. How does the rest of the cell use the recipes?",
+  "When you run, you breathe harder. What is your body trying to give to your cells?",
   "What would a cell need to do to build a protein, step by step?",
-  "Could a city work with no mayor? How?",
-  "What colour would you give the mitochondria in a picture, and why?",
+  "A cell has no single boss. What tells the nucleus which recipes to copy?",
+  "A heart muscle cell never rests. Which room would you draw the most of in her, and why?",
   "If your mitochondria came from your mother, whose mitochondria did she get?",
   "Why do plants need air even at night?"
  ],

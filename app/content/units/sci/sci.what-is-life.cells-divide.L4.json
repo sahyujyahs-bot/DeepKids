@@ -214,7 +214,7 @@
   {
    "concept": "Same instructions, different jobs: specialised cells",
    "status": "defined",
-   "description": "A skin cell and a muscle cell are very different shapes. Yet each holds the same 46 chromosomes. They look different because they use different pages of the instruction book. A muscle cell uses pages that build the stretchy threads for pulling. A skin cell uses pages that build a tough, waterproof layer. Signals from the cells around her decide which pages a cell uses. In 1962 John Gurdon put the nucleus of a frog's gut cell into an egg whose own nucleus had been removed. The egg grew into a tadpole. So the gut cell had kept the whole book.",
+   "description": "A skin cell and a muscle cell are very different shapes. Yet each holds the same 46 chromosomes. They look different because they use different pages of the instruction book. A muscle cell uses pages that build the stretchy threads for pulling. A skin cell uses pages that build a tough, waterproof layer. Signals from the cells around her decide which pages a cell uses. In 1962 John Gurdon took the nucleus of a frog's gut cell. The nucleus is the part of a cell that holds the DNA. He put it into an egg whose own nucleus had been removed. The egg grew into a tadpole. So the gut cell had kept the whole book.",
    "examples": [
     "A red blood cell loses her nucleus when she is made, and so can never divide.",
     "A neuron is long and thin and sends signals, though she has the same instructions as a bone cell.",
@@ -227,7 +227,7 @@
   {
    "concept": "Replacement: cells wear out and are rebuilt",
    "status": "defined",
-   "description": "Cells have different lifetimes. The lining of your gut is replaced in about 3 to 5 days, because food scrapes it all the time. The outer layer of skin is replaced in about a month. Red blood cells last about 4 months. A strand of hair stays for years. A few kinds are almost never replaced in a grown person. Most nerve cells in the thinking part of the brain and the cells in the lens of the eye are as old as you are, and heart muscle cells are replaced very slowly. The parts of the body that meet the world, like skin and the gut lining, are often replaced fastest. Scientists can tell how old a cell is. The bomb tests of the 1950s and 1960s put a kind of carbon called carbon-14 into the air. It went from the air into food, and from food into the DNA that was built when each cell was made.",
+   "description": "Cells have different lifetimes. The lining of your gut is replaced in about 3 to 5 days, because food scrapes it all the time. The outer layer of skin is replaced in about a month. Red blood cells last about 4 months. A strand of hair stays for years. A few kinds are almost never replaced in a grown person. Most nerve cells in the thinking part of the brain and the cells in the lens of the eye are as old as you are, and heart muscle cells are replaced very slowly. The parts of the body that meet the world, like skin and the gut lining, are often replaced fastest. Scientists can tell how old a cell is. The bomb tests of the 1950s and 1960s put a kind of carbon called carbon-14 into the air. It went from the air into food, and from food into the DNA that was built when each cell was made. So the amount of carbon-14 in a cell's DNA tells scientists which year that cell was made. A cell made after the tests holds more carbon-14 than a cell made long before them.",
    "examples": [
     "Dust and flakes in a sunbeam include tiny pieces of dead skin.",
     "Your red blood cells are made at a rate of about two million every second, in the soft middle of your bones, called marrow.",
@@ -435,21 +435,21 @@
    "evidence": "In Cut the Tip, the roots whose tips were cut off hardly grew. In Dots on a Root, the finished part behind the tip did not lengthen. Skin flakes, gut lining and the root cap are all replaced often, while the cells in the eye lens stay for life."
   },
   "three": {
-   "who_am_i": "You are not a thing that stays still. Parts of you are new every day, and parts of you are older than any of your birthdays.",
-   "what_is_life": "A living being keeps copying her cells so that she can keep going. Life is a process of making and remaking, and not a block of stuff.",
-   "what_is_this_world": "The atoms in a new skin cell came from food, water and air, and a few weeks later they go back to the world as flakes. The world flows through every body."
+   "who_am_i": "You are not a thing that stays the same. Some parts of you are replaced every few days. Other parts, such as the middle of the lens in your eye, were made before you were born and are still with you.",
+   "what_is_life": "A living being keeps making new cells so that she can keep going. Being alive means making and remaking the body all the time. A living body is not a fixed lump of material.",
+   "what_is_this_world": "The atoms in a new skin cell came from food, water and air. A few weeks later, those atoms leave your body as flakes of skin. So atoms are always moving between the world and every living body."
   },
-  "thread": "A fertilised egg has no skin, no gut, no blood and no bones. All of them come from one cell that copied her instructions and divided. The atoms in each new cell come from the food you ate, and the food came from plants, soil, rain and sunlight. When old cells wear out, their atoms go back to the world, and may be in the next plant, the next bird, the next child. So a body is made of stuff from the world that stays for a while, arranged by instructions that are copied from cell to cell. One cell becomes many cells, again and again.",
+  "thread": "A fertilised egg has no skin, no gut, no blood and no bones. All of them come from one cell that copied her instructions and divided. The atoms in each new cell come from the food you ate, and the food came from plants, soil, rain and sunlight. When old cells wear out, their atoms go back to the world, and may be in the next plant, the next bird, the next child. So your body is made of material from the world around you. That material stays for a while and then leaves. The instructions that arrange it are copied from one cell to the next, and one cell becomes many cells, again and again.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.11",
     "teaching": "Uddalaka teaches his son Shvetaketu about a great tree. If the life leaves one branch, that branch dries up. If it leaves the whole tree, the whole tree dries up. The same life is in all of it.",
-    "link": "A root grows only at the tip, but the tip is fed by the whole tree. The living part and the finished part are one tree."
+    "link": "A root grows only at the tip, but the tip is fed by the whole tree. The growing tip and the older, finished part behind it belong to one living tree."
    },
    {
     "source": "Plutarch, Life of Theseus 23",
     "teaching": "Plutarch tells how the Athenians kept the ship of Theseus for hundreds of years. As planks rotted, they replaced them with new wood. Thinkers argued about whether it was still the same ship.",
-    "link": "Your skin and gut lining are replaced like planks. The old puzzle becomes a question about your own body."
+    "link": "Your skin and gut lining are replaced like planks. So we can ask the same old question about ourselves. If the parts of your body keep being replaced, are you still the same person?"
    },
    {
     "source": "Tao Te Ching 76",
@@ -659,8 +659,8 @@
      "id": "s3",
      "mins": 8,
      "do": "Play the next eight cards. Swap the reader's job after every card. Keep a tally of points on paper.",
-     "say": "Keep going. Think about this. Cells that wear out quickly are the ones that meet the world.",
-     "kid": "Play on. Cells that meet the world wear out fastest.",
+     "say": "Keep going. As you play, notice which cells are replaced fastest and which last longest.",
+     "kid": "Play on. Notice which cells wear out fastest and which last longest.",
      "think": "Which cells on the cards were replaced fastest, and which slowest?",
      "context": "In this step, you play eight more cards and start to see a pattern."
     },
@@ -668,7 +668,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Play the last six cards. Count the points. The player with the most points wins.",
-     "say": "Last six cards. Then we add up the points and talk about what we learned.",
+     "say": "Here are the last six cards. After that, we add up the points.",
      "kid": "Play the last six cards. Add up your points.",
      "context": "In this step, you play the last cards and add up the score."
     },
@@ -811,7 +811,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Soak a small handful (about 15) of moong seeds in water for about 8 hours or overnight. Drain them. Wrap them in a damp cloth in a bowl. Keep them somewhere warm.",
-     "say": "We will grow some moong sprouts first. Soak the seeds overnight. Tomorrow we wrap them in a damp cloth.",
+     "say": "We will grow some moong sprouts first. Put the seeds in water now to soak. When they have soaked, we drain them and wrap them in a damp cloth.",
      "kid": "Soak the moong in water overnight. Drain them. Wrap them in a damp cloth.",
      "parent": "You need roots between 5 and 15 millimetres. In a warm kitchen this usually takes about a day after soaking; in cool weather it can take two, so start earlier. Sprinkle the cloth with water twice a day. It should be damp, not dripping. Do not worry if a few seeds do not sprout: that is why you soak extra.",
      "context": "This is the first step of Cut the Tip. You start the sprouts one day before the test."
@@ -820,7 +820,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Look at the sprouts with your child. Find the root of each one. Ask for a guess and a reason, and write both down.",
-     "say": "Look at these roots. Tomorrow I will cut the tip off some of them. Do you think they will still grow longer? Why do you think so?",
+     "say": "Look at these roots. Soon I will cut the tip off some of them. Do you think they will still grow longer? Why do you think so?",
      "kid": "Look at the roots. We will cut the tips off some. Will they still grow? Why?",
      "ask": [
       {
@@ -920,8 +920,8 @@
      "do": "After two days, measure every root again. Work out how much each root grew. Add the growth of the four roots on each plate and divide by four. Draw one bar for each plate. Ask your child to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Measure again. Find the average for each plate. Draw two bars. Say what you thought, what you saw and why.",
-     "parent": "A strong answer says that roots with the tip cut off grew much less, that the tip is where new cells are made by dividing, that just behind the tip those cells stretch and make the root longer, and that further back the root has finished growing. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.",
-     "think": "A farmer's goat nibbles the very tips of a row of young roots. What would you expect to happen to the roots?",
+     "parent": "A strong answer says that roots with the tip cut off grew much less, that the tip is where new cells are made by dividing, that just behind the tip those cells stretch and make the root longer, and that further back the root has finished growing. For the last question, a good answer is that the root will hardly grow longer, because the dividing cells at the tip are gone. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.",
+     "think": "A gardener pulls up a young plant by accident and breaks off the very tip of the root. What would you expect to happen to that root, and why?",
      "wait": "Wait one more day.",
      "context": "In this step, you measure for the last time, find the average growth for each plate, and explain what it shows."
     }
@@ -934,7 +934,7 @@
    "days": 2,
    "question": "If you mark dots along a growing root, which gaps between the dots grow wider after a day?",
    "predict": "Before you mark the roots, guess. Will all the gaps grow wider, or only some? Which ones? Why do you think so?",
-   "fair_test": "Each root gets the same row of dots, 2 millimetres apart, starting at the tip. All roots stay on the same plate in the same place. The gaps along one root are compared with each other, so the root is its own control. You also leave one root without dots, to check that the dots do not stop it growing.",
+   "fair_test": "Each root gets the same row of dots, 2 millimetres apart, starting at the tip. All roots stay on the same plate in the same place. We compare the gaps along one root with each other. So each root is its own comparison, because every gap is on the same root and is kept in the same conditions. You also leave one root without dots, to check that the dots do not stop it growing.",
    "results_table": [
     "Gap",
     "Where it is on the root",
@@ -1073,6 +1073,7 @@
   {
    "id": "a1",
    "title": "Fold and Count: how fast does doubling grow?",
+   "problem": "When a cell divides, one cell becomes two. Then each of those two can divide again, so there are four, then eight. Folding a sheet of paper in half again and again makes the same doubling. You will count the boxes after each fold, and then use the pattern to see how many doublings it takes to make a whole body.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1138,10 +1139,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Use the pattern to fill in a second table. 10 doublings give 1,024. 20 doublings give 1,048,576. 30 doublings give about 1,073 million. 45 doublings give about 35 trillion. Say that a body has about 30 to 40 trillion cells. Ask for a reason that the number grows so fast.",
+     "do": "Use the pattern to fill in a second table. 10 doublings give 1,024. 20 doublings give 1,048,576. 30 doublings give about 1,073 million. 45 doublings give about 35 trillion. Say that a body has about 30 to 40 trillion cells. Ask your child why the number grows so fast.",
      "say": "Ten doublings give 1,024. Twenty give about one million. Thirty give about one billion. Forty-five give about thirty-five trillion. That is close to the number of cells in a body.",
      "kid": "Ten doublings make 1,024. Forty-five doublings make about 35 trillion. That is a whole body!",
-     "parent": "Compare with real cells. A bacterium that divided every 20 minutes without stopping would have about a billion descendants after 10 hours (30 doublings). In real life food and space run out long before that.",
+     "parent": "Compare with real cells. A bacterium that divided every 20 minutes without stopping would have about a billion descendants after 10 hours (30 doublings). In real life food and space run out long before that. For the think question, a good answer is that cells in a real body also wear out and die, so many extra divisions are needed just to replace them.",
      "think": "A body takes at least 45 doublings from one cell. Why do you think it takes many more divisions in real life?",
      "check": {
       "t": "mcq",
@@ -1161,6 +1162,7 @@
   {
    "id": "a2",
    "title": "Copy Machine: can you copy a long code without a mistake?",
+   "problem": "Before a cell divides, she copies her DNA. DNA is a very long code written with four letters, A, T, C and G. Copying a long code without any mistakes is hard. You will copy a code by hand and count your mistakes. Then you will see how a cell checks her copy and how each side of DNA can rebuild the other.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1241,7 +1243,7 @@
      "do": "Write the partner letter under each letter of the code: A with T, and C with G. Then cover the top line and copy the code using only the partner line. Compare it with the original.",
      "say": "A cell has a matching partner for each letter. A goes with T. C goes with G. Write the partners. Now cover the top line. Can you rebuild it from the partners?",
      "kid": "A goes with T. C goes with G. Write the partners. Cover the top. Rebuild it.",
-     "parent": "The idea that each side of DNA can rebuild the other was suggested by Watson and Crick in 1953. They used the X-ray pictures taken by Rosalind Franklin and her student Raymond Gosling, and some of Franklin's data was shown to Watson without her knowing. A cell copies about 6 billion letters each time she divides, and makes only a handful of mistakes.",
+     "parent": "A good answer to the think question is that each half has the letters needed to build the matching half. When the cell unzips the ladder, she can build two complete ladders. The idea that each side of DNA can rebuild the other was suggested by Watson and Crick in 1953. They used the X-ray pictures taken by Rosalind Franklin and her student Raymond Gosling, and some of Franklin's data was shown to Watson without her knowing. A cell copies about 6 billion letters each time she divides, and makes only a handful of mistakes.",
      "think": "DNA is like a ladder, and each side of the ladder can rebuild the other. Why does the cell unzip the ladder before copying?",
      "context": "In this step, you write the partner strand and use it to rebuild the code, which is how DNA is copied."
     }
@@ -1250,6 +1252,7 @@
   {
    "id": "a3",
    "title": "Skin Flakes: catch some of your own cells",
+   "problem": "The top layer of your skin is made of cells that have finished their work. They are rubbing off your body all the time. New cells are made underneath to take their place. You will lift some of these flakes with sticky tape and look at them on dark paper.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -1321,7 +1324,7 @@
        ]
       }
      ],
-     "parent": "You will not see single cells. You will see a cloudy or whitish patch and small flakes, mixed with a few hairs and specks of dust. Each flake is a sheet of many flat cells, so a pinhead of skin holds thousands. Dry places such as the heel, elbow or shin show the most. If you see almost nothing on soft or oily skin, that is normal: try a drier place and rub for 10 seconds. The second strip on the same spot usually shows less, because the first strip already took the loosest flakes. The top layer of skin is made of dead cells, and new cells keep pushing up from below. Scientists estimate that a person loses roughly 30,000 to 40,000 dead skin cells every minute. With 2 to 4 children, each child tapes their own arm and compares scores.",
+     "parent": "You will not see single cells. You will see a cloudy or whitish patch and small flakes, mixed with a few hairs and specks of dust. Each flake is a sheet of many flat cells, so a pinhead of skin holds thousands. Dry places such as the heel, elbow or shin show the most. If you see almost nothing on soft or oily skin, that is normal: try a drier place and rub for 10 seconds. The second strip on the same spot usually shows less, because the first strip already took the loosest flakes. The top layer of skin is made of dead cells, and new cells keep pushing up from below. For the think question, a good answer is that cells divide in the lower layer of the skin and then rise to the top. Scientists estimate that a person loses roughly 30,000 to 40,000 dead skin cells every minute. With 2 to 4 children, each child tapes their own arm and compares scores.",
      "think": "If your top skin is replaced about every month, where do the new cells come from?",
      "check": {
       "t": "mcq",
@@ -1341,6 +1344,7 @@
   {
    "id": "a4",
    "title": "Paper Chromosomes: act out how one cell becomes two",
+   "problem": "Before a cell divides, she copies her chromosomes. Then she shares the copies so that each daughter cell gets one full set. You will use paper strips as chromosomes and act out this sharing with two bowls. You will also see what goes wrong when the sharing is not even.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1442,8 +1446,8 @@
        ]
       }
      ],
-     "parent": "A correct split puts 6 strips in each bowl, two of each colour. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare. With 2 to 4 children, give each child one colour pair to pull apart, and let one child hold each bowl.",
-     "think": "Which would be worse for a cell: one chromosome too many, or one chromosome too few?",
+     "parent": "A correct split puts 6 strips in each bowl, two of each colour. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare. For the think question, a good answer is that each daughter cell needs exactly one full set of instructions to work properly, and a cell with an extra or a missing chromosome can become ill or stop working. With 2 to 4 children, give each child one colour pair to pull apart, and let one child hold each bowl.",
+     "think": "Why must the spindle threads pull the copies apart so carefully, so that each daughter gets exactly one of each?",
      "context": "In this step, you pull the copies apart into two bowls, and see what happens if the sharing goes wrong."
     }
    ],
@@ -1454,6 +1458,7 @@
   {
    "id": "p1",
    "title": "Pinch the Tulsi: what happens when you pinch a growing tip?",
+   "problem": "The tip of a growing stem is where cells divide and the stem gets longer. You will pinch the tip off one stem of a tulsi plant and leave another stem alone. Then you will see how the plant grows after the tip of one stem has been pinched off.",
    "days": 14,
    "mins": 50,
    "materials": [
@@ -1618,8 +1623,8 @@
      "id": "s1",
      "mins": 10,
      "do": "Look at the materials. Ask your child to say what a root needs to grow. Write the list.",
-     "say": "What does a growing root need? Think of water, warmth, air and darkness. We will design two homes and test them.",
-     "kid": "What does a root need? Water, warmth, air. Make a list.",
+     "say": "What does a growing root need? Tell me everything you can think of. Then we will design two homes and test them.",
+     "kid": "What does a root need to grow? Make a list of everything you can think of.",
      "ask": [
       {
        "q": "What does a root need in order to grow?",
