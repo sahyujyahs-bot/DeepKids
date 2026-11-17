@@ -106,9 +106,9 @@
    "definition": "Transparent materials let light through so you see a clear picture. Translucent materials let some light through, but no clear picture. Opaque materials let no light through.",
    "description": "Look through clear polythene and you see the window clearly. It is transparent. A cotton hanky glows, but the trees are gone. It is translucent. Kitchen foil looks dark. It is opaque. Even clear water is not perfectly transparent. In deep sea water, the light that comes back to your eye is blue. In 1921 the Indian scientist C. V. Raman sailed home from England and studied this blue. He showed that the water itself changes the light, and that the blue is not just the sky reflected.",
    "examples": [
-    "Transparent: a glass tumbler, spectacles, clear polythene.",
-    "Translucent: a thin hanky, a paper kite held up to the sky, your closed eyelids.",
-    "Opaque: foil, a steel plate, a wooden door."
+    "A glass tumbler, spectacles and clear polythene are transparent.",
+    "A thin hanky, a paper kite held up to the sky and your closed eyelids are translucent.",
+    "Foil, a steel plate and a wooden door are opaque."
    ],
    "perspectives": [],
    "art": "Three panels: a window seen clearly through polythene, a glowing blur through a hanky, and darkness behind foil."
@@ -528,7 +528,7 @@
      "do": "1. For each thing, your child looks through it, pulls it gently, and squeezes or tugs it. 2. For waterproof, they think about whether water would go through. 3. Mark a tick, a cross or a dot for 'a bit'.",
      "say": "Look through the tumbler. Can you see through it? Now pull the rubber band. Does it stretch? Try to tear the hanky gently. Is it hard to break?",
      "kid": "Look through it. Pull it gently. Try to tear it gently. Mark the grid.",
-     "parent": "Rough answers are fine. Tumbler: not see-through, waterproof, not stretchy, strong. Polythene: see-through, waterproof, a bit stretchy, a bit strong. Rubber band: not see-through, waterproof, stretchy, a bit strong. Hanky: only a glow, not waterproof, a bit stretchy, strong."
+     "parent": "Rough answers are fine. The steel tumbler is not see-through, it is waterproof, it is not stretchy and it is strong. The polythene bag is see-through, waterproof, a bit stretchy and a bit strong. The rubber band is not see-through, it is waterproof, stretchy and a bit strong. The hanky only glows, it is not waterproof, it is a bit stretchy and it is strong."
     },
     {
      "id": "s3",
@@ -1035,12 +1035,12 @@
     "a teaspoon, a cup of water and a tray"
    ],
    "general": [
-    "Clear polythene taped over the hole, pulled tight.",
-    "A piece of a clear plastic food box, cut by a grown-up and taped over the hole."
+    "Tape clear polythene over the hole, and pull it tight.",
+    "A grown-up cuts a piece from a clear plastic food box. Tape it over the hole."
    ],
    "creative": [
-    "A clear polythene roof that slopes, so the water runs off the edge.",
-    "A mosquito net piece under the polythene, so the window keeps out both insects and rain."
+    "Make a clear polythene roof that slopes, so the water runs off the edge.",
+    "Put a piece of mosquito net under the polythene. Then the window keeps out both insects and rain."
    ],
    "your_turn": "Design your own skylight. Test it with 3 teaspoons of water, then peep inside. If the sketch pen dots on the paper are wet and have spread, find where the water got in, and make it better.",
    "setup": [
@@ -1244,14 +1244,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her brother the second child are choosing a cover for a small window in their flat.",
+     "p": "Revathi and her brother Arjun are choosing a cover for a small window in their flat.",
      "views": [
       {
-       "who": "The first child, aged 8",
+       "who": "Revathi, aged 8",
        "says": "Use clear polythene. It lets the light in and keeps the rain out."
       },
       {
-       "who": "The second child, aged 6",
+       "who": "Arjun, aged 6",
        "says": "Use a mosquito net. It lets fresh air in and keeps the mosquitoes out."
       }
      ],
@@ -1310,14 +1310,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and the second child are arguing about whether a rubber band is strong.",
+     "p": "Revathi and her friend Divya are arguing about whether a rubber band is strong.",
      "views": [
       {
-       "who": "The first child, aged 8",
+       "who": "Revathi, aged 8",
        "says": "A rubber band is strong. It held our bundle of pencils tight."
       },
       {
-       "who": "The second child, aged 7",
+       "who": "Divya, aged 7",
        "says": "A rubber band is not strong. It snaps when you pull it too far."
       }
      ],
@@ -1803,7 +1803,7 @@
    "evidence": "In the light and water test, you saw the window clearly through the polythene. A teaspoon of water sat on it for a full minute, and the tumbler stayed dry. The tea strainer let both through, because it has holes."
   },
   "three": {
-   "who_am_i": "Your eyelids are translucent: shut them in a bright room and you see a glow. Your skin keeps most water out when you bathe.",
+   "who_am_i": "Your eyelids are translucent. If you shut them in a bright room, you see a glow. Your skin also keeps most water out when you bathe.",
    "what_is_life": "A chembu leaf grows a waxy skin that rain rolls off. Living beings grow the materials they need.",
    "what_is_this_world": "Sunlight passes through the air and a window to reach you, while the roof stops the rain. Each material lets some things in and keeps others out."
   },
@@ -1855,11 +1855,11 @@
    "Cambridge Primary Science Stage 2, Unit 3 'Getting materials right': the property words (waterproof, flexible, strong, transparent) and one material having many properties. The tests here are new, so as not to repeat the testing materials unit at the same level."
   ],
   "science": [
-   "Water passes through porous materials (paper, cotton) through the gaps between fibres; polyethylene film and aluminium foil are non-porous.",
+   "Water passes through porous materials (paper, cotton) through the gaps between fibres. Polyethylene film and aluminium foil are non-porous.",
    "Transparency of glass and clear polymers: visible light is not absorbed by their electrons and is little scattered, because the material is uniform with no internal boundaries (any optics or materials textbook).",
    "C. V. Raman, 'On the molecular scattering of light in water and the colour of the sea', Proceedings of the Royal Society A 101 (1922), 64-80, written after his 1921 sea voyage. Lord Rayleigh had said the deep blue of the sea is the sky seen by reflection.",
-   "Stephanie Kwolek at DuPont, 1965: a cloudy, low-viscosity solution of a para-aramid polymer, spun after persuading Charles Smullen, gave the fibre later sold as Kevlar (Science History Institute; Kwolek's own accounts).",
-   "Kevlar's strength-to-weight is about five times that of steel (DuPont); breaking elongation only a few percent.",
+   "Stephanie Kwolek at DuPont, 1965: a cloudy, low-viscosity solution of a para-aramid polymer, spun after persuading Charles Smullen, gave the fibre later sold as Kevlar (Science History Institute. Kwolek's own accounts).",
+   "Kevlar's strength-to-weight is about five times that of steel (DuPont). Breaking elongation only a few percent.",
    "Spider dragline silk combines high strength with high extensibility (Gosline and others, Journal of Experimental Biology, 1999).",
    "E. D. Zanotto, 'Do cathedral glasses flow?', American Journal of Physics 66 (1998), 392-395: room-temperature flow of glass would take far longer than the age of the Universe.",
    "Neutrinos from the Sun pass through the Earth almost without interacting (any particle physics textbook).",

@@ -3,7 +3,7 @@
 
 **Summary.** You can see clearly through a clear polythene bag. So does water go through it too? Your child tests five materials from home. They look at a window through each one, and pour a spoon of water on each one. Light passes through the polythene, but the water stays on top. Your child also learns words for what materials are like: waterproof, stretchy, strong, transparent, translucent and opaque.
 
-**Intro.** *Hold a clear polythene bag up to the window. You can see the trees and the sky through it. Now guess: if you pour water on it, will the water go through too?* Most children guess yes. If light can get through, water should get through too. You are going to test it. A property is what a material is like, such as waterproof or see-through. Every material has many properties. Some of them surprise us, so we test them.
+**Intro.** *Hold a clear polythene bag up to the window. You can see the trees and the sky through it. Now guess: if you pour water on it, will the water go through too?* Most children guess yes. They think that if light can get through, water should get through too. You are going to test it. A property is what a material is like, such as waterproof or see-through. Every material has many properties. Some of them surprise us, so we test them.
 
 ## Learning outcomes
 0. By the end I can describe a material with the words waterproof, stretchy, strong, transparent, translucent and opaque.
@@ -35,16 +35,16 @@ A steel tumbler is hard, shiny, waterproof and opaque. A polythene bag is soft, 
 **Definition:** Water gets through a material only where there is a gap or a hole. A waterproof material has no gaps that water can pass through.
 
 Cloth and paper are made of fibres, with tiny gaps between them. Water creeps into the gaps and comes out the other side. A tea strainer has holes you can see, so water runs straight through. Polythene, foil and steel have no gaps, so water stays on top. A banana leaf and a chembu leaf keep water out with a smooth, waxy skin.
-- e.g. Water dripped through the cotton hanky in our test.
-- e.g. Water sat on the polythene for a whole minute.
+- e.g. In the light and water test, water dripped through the cotton hanky.
+- e.g. In the light and water test, water sat on the polythene for a whole minute.
 - e.g. Rasam stays on a banana leaf at a meal.
 ### Transparent, translucent and opaque · *defined*
 **Definition:** Transparent materials let light through so you see a clear picture. Translucent materials let some light through, but no clear picture. Opaque materials let no light through.
 
 Look through clear polythene and you see the window clearly. It is transparent. A cotton hanky glows, but the trees are gone. It is translucent. Kitchen foil looks dark. It is opaque. Even clear water is not perfectly transparent. In deep sea water, the light that comes back to your eye is blue. In 1921 the Indian scientist C. V. Raman sailed home from England and studied this blue. He showed that the water itself changes the light, and that the blue is not just the sky reflected.
-- e.g. Transparent: a glass tumbler, spectacles, clear polythene.
-- e.g. Translucent: a thin hanky, a paper kite held up to the sky, your closed eyelids.
-- e.g. Opaque: foil, a steel plate, a wooden door.
+- e.g. A glass tumbler, spectacles and clear polythene are transparent.
+- e.g. A thin hanky, a paper kite held up to the sky and your closed eyelids are translucent.
+- e.g. Foil, a steel plate and a wooden door are opaque.
 ### How light gets through solid plastic · *defined*
 **Definition:** Light is not a material, and it does not need a hole. It can travel through some solid materials, such as glass, clear plastic and water.
 
@@ -61,9 +61,9 @@ A rubber band is stretchy, and it snaps if you pull too hard. A cotton thread ha
 - e.g. Kite string is strong but hardly stretches.
 
 ## Mostly agreed
-- Every material has many properties at the same time. *How we know:* In our yes-or-no grid, the steel tumbler, polythene bag, rubber band and hanky each had a different set of answers.
+- Every material has many properties at the same time. *How we know:* In the yes-or-no grid activity, the steel tumbler, polythene bag, rubber band and hanky each had a different set of answers.
 - Water gets through a material only through gaps or holes. *How we know:* Under a magnifying glass, cloth and paper show tiny gaps between their fibres. Water goes through them, but not through polythene or foil, which have no gaps.
-- Light can pass through some solid materials that have no holes, such as glass and clear plastic. *How we know:* A glass window lets in daylight but keeps out rain. In our test, water sat on the polythene, yet we could see the window through it.
+- Light can pass through some solid materials that have no holes, such as glass and clear plastic. *How we know:* A glass window lets in daylight but keeps out rain. In the light and water test, water sat on the polythene, yet we could see the window through it.
 
 ## How we found out
 **Stephanie Kwolek, an American chemist at DuPont, and Charles Smullen, who ran the spinning machine, 1965.** In the 1960s, Stephanie Kwolek was a chemist at DuPont, a company in the USA. Her team wanted a new fibre that was light and very strong, for car tyres. To make a fibre, chemists first make a liquid that is usually thick and clear, a bit like honey. A machine pushes the liquid through tiny holes, and it sets into threads. In 1965, Kwolek made a liquid that was thin and cloudy. Most chemists then thought a liquid like that was no good for making threads, and threw it away. Charles Smullen, who ran the spinning machine, did not want to try it. He worried it would block the tiny holes. Kwolek kept asking, and at last he agreed. The thread was amazingly strong and stiff. Weight for weight, the fibre that came from her work is about five times stronger than steel. It was named Kevlar. Today it is used in ropes, gloves and helmets that protect people. The cloudy liquid looked useless. Only a test showed how strong its threads could be.  
@@ -83,11 +83,11 @@ A rubber band is stretchy, and it snaps if you pull too hard. A cotton thread ha
 ## Roots
 We have tested what gets through polythene, foil, cloth, newspaper and a tea strainer. Now we ask what that tells us about materials, and about ourselves.
 
-**Deep truth.** Water sat on the clear polythene and never dripped into the tumbler, so it has no holes. Yet you saw the window clearly through it. Light passed through the solid plastic, where water could not. What gets through a material depends on what is trying to get through.  
-*Habit it breaks:* We think of things as either open or closed, like a door. We expect anything that lets something through to have holes. The test showed one sheet of plastic open to light and closed to water.  
+**Deep truth.** In the light and water test, water sat on the clear polythene and never dripped into the tumbler. So the polythene has no holes. Yet you saw the window clearly through it. Light passed through the solid plastic, where water could not. What gets through a material depends on what is trying to get through.  
+*Habit it breaks:* We think of things as either open or closed, like a door. We expect anything that lets something through to have holes. The light and water test showed one sheet of plastic open to light and closed to water.  
 *Evidence:* In the light and water test, you saw the window clearly through the polythene. A teaspoon of water sat on it for a full minute, and the tumbler stayed dry. The tea strainer let both through, because it has holes.
 
-- *who am i:* Your eyelids are translucent: shut them in a bright room and you see a glow. Your skin keeps most water out when you bathe.
+- *who am i:* Your eyelids are translucent. If you shut them in a bright room, you see a glow. Your skin also keeps most water out when you bathe.
 - *what is life:* A chembu leaf grows a waxy skin that rain rolls off. Living beings grow the materials they need.
 - *what is this world:* Sunlight passes through the air and a window to reach you, while the roof stops the rain. Each material lets some things in and keeps others out.
 
@@ -97,7 +97,7 @@ Polythene, foil, cotton and steel are all made of tiny particles holding on to e
 - **Isha Upanishad 15:** The face of truth is covered by a golden lid. Open it, so that I may see what is true. (A shiny golden lid is beautiful, but it is opaque, so it hides what is under it. To see, we need a material that lets light through, or we must lift the lid.)
 - Science (settled): Glass and clear plastic have no holes that water can pass through. Light gets through because their particles let most light pass without soaking it up.
 - Science (open): Light acts like a wave in some tests and like tiny packets of energy in others. What light really is underneath is still argued about.
-- Other view, Many physicists: They say a sheet of plastic has no awareness at all. They explain everything it does with particles and forces, and they find no need for a mind to explain it.
+- Other view, Many physicists: Many scientists say a sheet of plastic has no awareness at all. They explain everything it does with particles and forces, and they find no need for a mind to explain it.
 - Practice, Light through your eyelids (3 min): Sit facing a bright window. Close your eyes gently. Is it fully dark? Notice the soft glow. That is light coming through your eyelids. Now cover your closed eyes with your palms. Notice how much darker it is. Take three slow breaths. Then take your hands away, and feel the glow come back.
 - Ask: The polythene let light in but kept water out. Was it open or closed?
 - Ask: When your eyes are shut and you see a glow, are you seeing?
@@ -196,11 +196,11 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
   *Parent does:* 1. Read the front of each card. 2. Wait for every player to jump or freeze. 3. Read the back. 4. Send wrong movers back one jump.  
   *Parent says:* Water meets a glass window! Jump or freeze?  
   *Child mode:* Listen. Does it go through? Jump. Is it stopped? Freeze.
-  - Note: The last card is a surprise. Neutrinos are real, tiny particles that come from the Sun. Nearly all of them pass straight through the whole Earth.
+  - Note: The neutrino card is a surprise. Neutrinos are real, tiny particles that come from the Sun. Nearly all of them pass straight through the whole Earth.
 - **s3 (1 min)**  
   *Parent does:* 1. At the end, ask the question below.  
   *Parent says:* Light and water both met the glass window. Why did one jump and one freeze?  
-  *Child mode:* Why did light go through the glass, but water froze?
+  *Child mode:* Why did light go through the glass window, but water was stopped?
   - Ask: Why? (good: Glass has no holes for water, but light goes through glass itself.)
 
 ## Experiments
@@ -230,7 +230,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
   *Child mode:* Put the polythene on the tumbler. Hold it on with the rubber band. Make a little dip in the middle.
   - Note: The dip stops the water rolling off the edge. Keep the polythene fairly tight, so it does not touch the bottom.
 - **s4 (8 min)**  
-  *Parent does:* 1. Pour 1 teaspoon of water slowly into the middle. 2. Count slowly to 60. 3. Look at the tumbler from the side. 4. Lift the cover and feel the bottom of it. 5. Write the result. 6. Wipe the tumbler dry and do the next one. 7. Rest the strainer on top instead of using the band.  
+  *Parent does:* 1. Pour 1 teaspoon of water slowly into the middle. 2. Count slowly to 60. 3. Look at the tumbler from the side. 4. Lift the cover and feel the bottom of it. 5. Write the result. 6. Wipe the tumbler dry and do the next material. 7. For the tea strainer, rest it on top of the tumbler. It does not need the rubber band.  
   *Parent says:* Pour the water slowly into the middle. Now count to sixty with me. Look at the bottom of the tumbler. Is there any water? Feel underneath the cover. Is it wet or dry?  
   *Child mode:* Pour one spoon of water in the middle. Count to sixty. Look in the tumbler. Is there water? Feel under the cover.
   - Ask: Which ones kept the water out? (good: The polythene and the foil. The water sat on top.; The tumbler stayed dry under them.)
@@ -254,7 +254,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
   *Parent does:* 1. For each thing, your child looks through it, pulls it gently, and squeezes or tugs it. 2. For waterproof, they think about whether water would go through. 3. Mark a tick, a cross or a dot for 'a bit'.  
   *Parent says:* Look through the tumbler. Can you see through it? Now pull the rubber band. Does it stretch? Try to tear the hanky gently. Is it hard to break?  
   *Child mode:* Look through it. Pull it gently. Try to tear it gently. Mark the grid.
-  - Note: Rough answers are fine. Tumbler: not see-through, waterproof, not stretchy, strong. Polythene: see-through, waterproof, a bit stretchy, a bit strong. Rubber band: not see-through, waterproof, stretchy, a bit strong. Hanky: only a glow, not waterproof, a bit stretchy, strong.
+  - Note: Rough answers are fine. The steel tumbler is not see-through, it is waterproof, it is not stretchy and it is strong. The polythene bag is see-through, waterproof, a bit stretchy and a bit strong. The rubber band is not see-through, it is waterproof, stretchy and a bit strong. The hanky only glows, it is not waterproof, it is a bit stretchy and it is strong.
 - **s3 (2 min)**  
   *Parent does:* 1. Look at the four rows together. 2. Ask the question below.  
   *Parent says:* Look at the rows. Do any two things have exactly the same answers?  
@@ -302,10 +302,10 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 ## Challenges
 ### c1 · A Rain Window for a Shoebox Room (20 min)
 - **problem:** Make a skylight in the lid of a shoebox. When you peep in through a small hole in the side, the box must be bright inside. When you pour 3 teaspoons of water on the skylight, the paper on the floor of the box must stay dry.
-- **your turn:** Design your own skylight. Test it with 3 teaspoons of water, then peep inside. If the dots on the floor run, find where the water got in, and make it better.
+- **your turn:** Design your own skylight. Test it with 3 teaspoons of water, then peep inside. If the sketch pen dots on the paper are wet and have spread, find where the water got in, and make it better.
 - **constraints:** Use only things from home.; The window must be at least as big as a matchbox.; Use at most 4 pieces of sticky tape.
-- **general:** Clear polythene taped over the hole, pulled tight.; A piece of a clear plastic food box, cut by a grown-up and taped over the hole.
-- **creative:** A clear polythene roof that slopes, so the water runs off the edge.; A mosquito net piece under the polythene, so the window keeps out both insects and rain.
+- **general:** Tape clear polythene over the hole, and pull it tight.; A grown-up cuts a piece from a clear plastic food box. Tape it over the hole.
+- **creative:** Make a clear polythene roof that slopes, so the water runs off the edge.; Put a piece of mosquito net under the polythene. Then the window keeps out both insects and rain.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut a window in the lid, about the size of a matchbox. 2. Cut a peep hole, as big as a coin, in one side. 3. Put the dotted paper on the floor of the box.  
   *Parent says:* The window must do two jobs. What are they? Which material will you use? Why?  
@@ -344,11 +344,11 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
    **Answer:** 2. *Why:* A cotton towel is made of fibres with gaps between them, so water soaks in and through. The other three are waterproof.
 8. (label) Label each picture: transparent, translucent or opaque.  
    **Answer:** ['glass window: transparent', 'hanky: translucent', 'steel plate: opaque', 'foil: opaque']. *Why:* Through glass you see a clear picture. A hanky only glows. Steel and foil let no light through.
-9. (count) Kamala, a girl in Class 2, tested 5 materials with water. 2 of them kept the water out. How many let the water through?  
+9. (count) You test 5 materials with water. 2 of them keep the water out. How many let the water through?  
    **Answer:** 3. *Why:* 5 take away 2 leaves 3.
-10. (perspective) Selvi and her brother Ravi are choosing a cover for a small window in their flat.  
+10. (perspective) Revathi and her brother Arjun are choosing a cover for a small window in their flat.  
    **Answer:** A strong answer picks one and gives a reason, such as 'the polythene kept water out in our test'. It also says what the other gets right, such as 'the net lets air in, and polythene does not'.. *Why:* Both are right about something. Polythene keeps rain out but blocks air. A net lets air in but also lets rain in. The best choice depends on the weather and the job.
-11. (mcq) Anu wants to cover her school book in the rain, and still read its name on the front. Which cover is best?  
+11. (mcq) You want to cover your school book in the rain, and still read its name on the front. Which cover is best?  
    Options: Newspaper / Clear polythene / Kitchen foil  
    **Answer:** Clear polythene. *Why:* Clear polythene is waterproof and transparent, so it does both jobs. Foil is waterproof but opaque. Newspaper lets water through.
 ### Strong, Stretchy, See-Through (stretch) (stretch, 11 questions)
@@ -359,7 +359,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
    **Answer:** The rubber band is stretched round the pencils, and it pulls back to get shorter. When pencils come out, it shrinks and stays tight. The thread cannot shrink, so it goes loose.. *Why:* A strong answer says the band is stretchy and springs back. The thread stays the same length.
 3. (draw) Design a monsoon suit for a superhero. Label one part that is waterproof, one that is stretchy, one that is strong and one that is see-through.  
    **Answer:** For example, a waterproof polythene cape, stretchy rubber cuffs, a strong cotton belt and a see-through plastic face shield.. *Why:* A strong design gives each part a property that suits its job, and names a real material for it.
-4. (perspective) Anjali and Meera are arguing about whether a rubber band is strong.  
+4. (perspective) Revathi and her friend Divya are arguing about whether a rubber band is strong.  
    **Answer:** A strong answer picks a side with a reason, and sees that both are partly right. A band is strong enough to hold pencils, but it snaps if stretched too far.. *Why:* Whether a material is 'strong' depends on the job. The same band is strong for one job and too weak for another.
 5. (truefalse) Stretchy things are always weak.  
    **Answer:** False. *Why:* False. Spider silk is very stretchy and also very strong for how thin it is.
@@ -367,18 +367,18 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
    **Answer:** ['clear polythene', 'cotton hanky', 'newspaper', 'kitchen foil']. *Why:* Polythene gives a clear picture. A thin hanky glows brightly. Newspaper glows faintly. Foil lets no light through.
 7. (fill) A material that lets some light through, but no clear picture, is called ____.  
    **Answer:** ['translucent']. *Why:* A thin hanky and your closed eyelids are translucent.
-8. (mcq) Lakshmi wants a bathroom window that lets light in, but stops people outside from seeing in. Which material should she pick?  
+8. (mcq) A bathroom window must let light in, but stop people outside from seeing in. Which material is best?  
    Options: Clear glass / Frosted glass, which is translucent / A steel sheet  
    **Answer:** Frosted glass, which is translucent. *Why:* Translucent frosted glass lets light in but shows no clear picture. Clear glass lets people see in. Steel blocks the light.
 9. (match) Match each job to the property it needs most.  
    **Answer:** spectacles → transparent; a kite string → strong; a pyjama waistband → stretchy; an umbrella → waterproof. *Why:* Each job needs a different property. Spectacles must be see-through, a kite string must not break, a waistband must stretch, and an umbrella must keep rain off.
 10. (label) Label the parts of an umbrella with the property each part needs.  
    **Answer:** ['cloth: waterproof', 'ribs: strong and stiff', 'handle: strong, and easy to hold']. *Why:* The cloth keeps rain off. The ribs hold the cloth out in the wind without bending. The handle must not break.
-11. (count) In the Four Boxes game, Revathi put 4 cards in each of the 4 boxes. How many cards did she sort?  
+11. (count) In the Four Boxes game, there are 4 cards in each of the 4 boxes. How many cards are there?  
    **Answer:** 16. *Why:* 4 boxes with 4 cards each: 4 + 4 + 4 + 4 = 16.
 
 ## Videos
-- **Transparent, translucent and opaque objects: how light passes through** (Make It Easy Education, 2 min) id `Hy-XtuTlmN4`: Shows light going through some materials and not others, like our light test. *Check:* Found by search: "TRANSPARENT, TRANSLUCENT, OPAQUE OBJECT | LIGHT | HOW DO WE SEE THINGS? || SCIENCE EDUCATIONAL VIDEO" by Make It Easy Education, 1 minute 34 seconds. A parent may preview it.
+- **Transparent, translucent and opaque objects: how light passes through** (Make It Easy Education, 2 min) id `Hy-XtuTlmN4`: Shows light going through some materials and not others, like the light and water test. *Check:* Found by search: "TRANSPARENT, TRANSLUCENT, OPAQUE OBJECT | LIGHT | HOW DO WE SEE THINGS? || SCIENCE EDUCATIONAL VIDEO" by Make It Easy Education, 1 minute 34 seconds. A parent may preview it.
 - **Pearl on a taro leaf: water drops rolling on a chembu leaf** (Arvind Gupta, 1 min) id `XXmjDyyYYSU`: Shows a living leaf that is waterproof, with drops rolling off like pearls. *Check:* Found by search: "PEARL ON TARO LEAF - ENGLISH - 8MB.avi" by Arvind Gupta, 1 minute 17 seconds. A parent may preview it.
 - **The life of chemist Stephanie Kwolek, inventor of Kevlar** (PBS NewsHour, 6 min) id `3TfsvaMsk8w`: Tells the true story of the chemist who made a very strong fibre from a cloudy liquid. *Check:* Found by search: "The life and achievements of chemist Stephanie Kwolek, inventor of Kevlar" by PBS NewsHour, 5 minutes 47 seconds. A parent may preview it.
 
@@ -389,7 +389,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 2. (mcq) Which of these is transparent?  
    Options: A glass tumbler / A steel tumbler / A wooden spoon  
    **Answer:** A glass tumbler. *Why:* You can see clearly through glass. Steel and wood are opaque.
-3. (mcq) Nisha, a girl in Mysuru, pours a teaspoon of water on kitchen foil over a tumbler. What happens?  
+3. (mcq) You pour a teaspoon of water on kitchen foil over a tumbler. What happens?  
    Options: The water sits on top / The water drips into the tumbler / The foil soaks it up  
    **Answer:** The water sits on top. *Why:* Foil has no holes, so it is waterproof. Picking 'soaks it up' mixes foil up with paper or cloth.
 4. (mcq) You can see through clear polythene. Why does water still stay on top of it?  
@@ -401,10 +401,10 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 6. (mcq) Which two properties does a window need most?  
    Options: Stretchy and soft / Transparent and waterproof / Opaque and absorbent  
    **Answer:** Transparent and waterproof. *Why:* A window must let light in and keep rain out. Picking 'opaque' would make the room dark.
-7. (mcq) Farhan, a boy in Kolkata, tries to push a toy car with a thread. What happens?  
+7. (mcq) You try to push a toy car with a thread. What happens?  
    Options: The car moves fast / The thread bends, and the car stays still / The thread snaps  
    **Answer:** The thread bends, and the car stays still. *Why:* A thread is strong when pulled, but it bends when pushed. Picking 'snaps' may mean thinking a thread is weak. It is strong, but only for pulling.
-8. (mcq) You take 3 pencils out of two bundles. Which bundle stays tight?  
+8. (mcq) One bundle of pencils is held by a rubber band, and one by a cotton thread. You take 3 pencils out of each. Which bundle stays tight?  
    Options: The one held by a cotton thread / The one held by a rubber band / Both go loose  
    **Answer:** The one held by a rubber band. *Why:* The stretched rubber band shrinks back and keeps holding. The thread stays the same length and goes loose.
 9. (mcq) Which material is best for a mosquito net?  
@@ -450,9 +450,9 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 - What did the mosquito say to the net? *You're full of holes, but I still can't get in!*
 
 ## Connected maths
-- Megha, a girl in Pune, did the light and water test with 5 materials. Water stayed on top of 2 of them. Draw a block for each material in two columns: 'kept water out' and 'let water through'. Which column is taller, and by how many blocks? **'Let water through' is taller, by 1 block.**. 5 materials take away the 2 that kept water out leaves 3 that let it through. 3 blocks is 1 more than 2 blocks. (queues `math.data.sorting-and-tallies.L2`)
-- Draw two circles that overlap. Label one 'lets light through' and the other 'keeps water out'. Where do these go: clear polythene, a tea strainer, kitchen foil and newspaper? **Polythene goes in the middle, in both circles. The strainer goes only in 'lets light through'. Foil goes only in 'keeps water out'. Newspaper goes outside both circles.**. Polythene does both things, so it belongs in the overlap. The strainer lets light through but not water out. Foil keeps water out but blocks light. Newspaper lets only a faint glow through, which is not a clear picture, and it lets water through. (queues `math.logic.sets-and-venn.L2`)
-- You made a bundle of 10 pencils with a rubber band and took 3 out. How many pencils were left in the bundle? The thread bundle also had the same number left, but it fell apart. Why did the same number of pencils give two different results? **7 pencils were left. The rubber band shrank to hold 7 tightly. The thread stayed the size it was for 10, so it was too loose for 7.**. 10 take away 3 is 7. The number of pencils was the same, so the difference came from the materials: one can get shorter, and one cannot. (queues `math.addition-subtraction.meaning.L2`)
+- In the light and water test, you tested 5 materials. Water stayed on top of 2 of them. Draw a block for each material in two columns: 'kept water out' and 'let water through'. Which column is taller, and by how many blocks? **'Let water through' is taller, by 1 block.**. 5 materials take away the 2 that kept water out leaves 3 that let it through. 3 blocks is 1 more than 2 blocks. (queues `math.data.sorting-and-tallies.L2`)
+- Draw two circles that overlap. Label one 'lets light through' and the other 'keeps water out'. Where do these go: clear polythene, a tea strainer, kitchen foil and newspaper? **Polythene goes in the middle, in both circles. The strainer goes only in 'lets light through'. Foil goes only in 'keeps water out'. Newspaper goes outside both circles.**. Polythene does both things, so it belongs in the overlap. The strainer lets light through but does not keep water out. Foil keeps water out but blocks light. Newspaper lets only a faint glow through, which is not a clear picture, and it lets water through. (queues `math.logic.sets-and-venn.L2`)
+- In the tight bundle activity, you made a bundle of 10 pencils with a rubber band and took 3 out. How many pencils were left in the bundle? The thread bundle had the same number left, but it fell apart. Why did the same number of pencils give two different results? **7 pencils were left. The rubber band shrank to hold 7 tightly. The thread stayed the size it was for 10, so it was too loose for 7.**. 10 take away 3 is 7. The number of pencils was the same, so the difference came from the materials: one can get shorter, and one cannot. (queues `math.addition-subtraction.meaning.L2`)
 - The Four Boxes game has 4 boxes and 4 cards in each box. Then you add a card for 'a glass bangle'. How many cards are there now, and which box does the new card go in? **17 cards. The bangle goes in Box 1, see-through and keeps water out.**. 4 groups of 4 make 16. One more makes 17. Glass is transparent and has no holes, so water stays out. (queues `math.multiplication.equal-groups.L2`)
 
 ## Song
@@ -468,7 +468,7 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 ## Warm-up
 - What does transparent mean? → You can see clearly through it.
 - Name one opaque thing in the kitchen. → A steel plate, a pressure cooker, foil or a wooden spoon.
-- Did water go through the clear polythene? → No. It sat on top.
+- In the light and water test, did water go through the clear polythene? → No. It sat on top.
 - Why does water go through a tea strainer? → Because it has holes.
 - Can a thread push a toy car? → No. It bends. It can only pull.
 - What does translucent mean? → Some light gets through, but no clear picture.
@@ -483,11 +483,11 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 - ideas/by_topic/materials-and-their-properties.md: the science journal pages 'SuperHero Suit Design', used for the monsoon superhero suit drawing in the stretch worksheet.
 - ideas/by_topic/materials-and-their-properties.md: the C. V. Raman SCI card, used for the deep blue sea in the transparent, translucent and opaque card.
 - Cambridge Primary Science Stage 2, Unit 3 'Getting materials right': the property words (waterproof, flexible, strong, transparent) and one material having many properties. The tests here are new, so as not to repeat the testing materials unit at the same level.
-- Water passes through porous materials (paper, cotton) through the gaps between fibres; polyethylene film and aluminium foil are non-porous.
+- Water passes through porous materials (paper, cotton) through the gaps between fibres. Polyethylene film and aluminium foil are non-porous.
 - Transparency of glass and clear polymers: visible light is not absorbed by their electrons and is little scattered, because the material is uniform with no internal boundaries (any optics or materials textbook).
 - C. V. Raman, 'On the molecular scattering of light in water and the colour of the sea', Proceedings of the Royal Society A 101 (1922), 64-80, written after his 1921 sea voyage. Lord Rayleigh had said the deep blue of the sea is the sky seen by reflection.
-- Stephanie Kwolek at DuPont, 1965: a cloudy, low-viscosity solution of a para-aramid polymer, spun after persuading Charles Smullen, gave the fibre later sold as Kevlar (Science History Institute; Kwolek's own accounts).
-- Kevlar's strength-to-weight is about five times that of steel (DuPont); breaking elongation only a few percent.
+- Stephanie Kwolek at DuPont, 1965: a cloudy, low-viscosity solution of a para-aramid polymer, spun after persuading Charles Smullen, gave the fibre later sold as Kevlar (Science History Institute. Kwolek's own accounts).
+- Kevlar's strength-to-weight is about five times that of steel (DuPont). Breaking elongation only a few percent.
 - Spider dragline silk combines high strength with high extensibility (Gosline and others, Journal of Experimental Biology, 1999).
 - E. D. Zanotto, 'Do cathedral glasses flow?', American Journal of Physics 66 (1998), 392-395: room-temperature flow of glass would take far longer than the age of the Universe.
 - Neutrinos from the Sun pass through the Earth almost without interacting (any particle physics textbook).
