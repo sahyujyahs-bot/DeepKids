@@ -32,7 +32,7 @@
   {
    "term": "Sea water",
    "meaning": "The salty water of the seas and oceans. A litre of sea water holds about 35 grams of dissolved salts, mostly common salt.",
-   "example": "A litre of water from the Bay of Bengal, dried in the sun, leaves about 6 level teaspoons of salt.",
+   "example": "A litre of sea water, dried in the sun, leaves about 6 level teaspoons of salt.",
    "art": "A wave breaking on a beach, with a small heap of white salt drawn beside a one-litre bottle."
   },
   {
@@ -215,7 +215,7 @@
    "description": "Water is made of tiny particles called molecules. In ice, the water molecules are locked in a regular pattern. A salt particle does not fit that pattern. So as ice grows, the salt stays in the liquid that is left, and that liquid gets saltier. This is what you taste in Freeze the Sea. The ice is not perfectly fresh. Small pockets of very salty liquid get trapped between the ice crystals. Saltier water also freezes at a lower temperature. Sea water starts to freeze at about minus 2 degrees Celsius. Evaporation sorts water from salt even better. Only water molecules fly off into the air. So rain is fresh, although most of it rose from the salty sea.",
    "examples": [
     "In Freeze the Sea, the melted ice tastes less salty than the liquid left in the bowl.",
-    "New sea ice in the Arctic holds about a third of the salt of the sea water under it.",
+    "New sea ice holds less salt than the sea water under it. The rest sits in tiny pockets of salty liquid.",
     "Sea ice that has lasted several summers is nearly fresh, because the salty pockets drain out.",
     "Salt pans at Thoothukudi in Tamil Nadu use evaporation. The water leaves and the salt stays."
    ],
@@ -229,9 +229,9 @@
    "description": "About 17 of Earth's 25 fresh parts are ice. Nearly all of that ice lies on land. It began as snow. Each year's snow pressed down on the snow below, until it became hard ice. An ice sheet covers a whole land. About nine tenths of the world's ice is on Antarctica, where the ice is about 2 kilometres thick on average. A glacier is a river of ice in a mountain valley. The Himalayas hold thousands of glaciers. In summer their melt water feeds rivers such as the Ganga, the Indus and the Brahmaputra. An iceberg is a piece of glacier ice that has broken off into the sea. Sea ice is different. It forms when the sea's own surface freezes. This difference matters for the sea level. Ice on land adds water to the sea when it slides in and melts. Ice that already floats does not, as you see in Ice on Land, Ice on Sea. Warm sea water also takes up a little more room, and this adds to the rise.",
    "examples": [
     "The Gangotri glacier is about 30 kilometres long. The Bhagirathi river flows out of an ice cave called Gaumukh.",
-    "The Siachen glacier in the Karakoram is about 76 kilometres long.",
+    "The Siachen glacier in the Karakoram is more than 70 kilometres long.",
     "If all the ice on Antarctica melted, the sea would rise by about 58 metres.",
-    "In 1983 the oceanographer Aditi Pant and the geologist Sudipta Sengupta became the first Indian women to work in Antarctica.",
+    "Aditi Pant, an ocean scientist, and Sudipta Sengupta, a geologist, are credited as the first Indian women to reach Antarctica, in 1983 and 1984.",
     "In Ice on Land, Ice on Sea, the water rose when ice melted above the water, and stayed level when ice melted in it."
    ],
    "perspectives": [],
@@ -243,8 +243,8 @@
    "definition": "Groundwater fills the gaps between grains of soil, sand and rock. It holds about 100 times as much fresh water as all the lakes and rivers.",
    "description": "Rain soaks into the ground and trickles down until it reaches rock that it cannot pass. There the water fills the gaps between the grains. Wells and borewells take water from this store. In One Litre Earth, groundwater is 1 and a half teaspoons, and all the lakes and rivers are one drop. So most of the liquid fresh water on Earth is out of sight. More than half of India's farm water and most village drinking water come from groundwater. Groundwater moves slowly. Some of it fell as rain last year. Some has been under the ground for thousands of years. Not all groundwater is fresh. Under parts of the Thar desert and near some coasts, groundwater is brackish or salty.",
    "examples": [
-    "A borewell in Bengaluru may go down more than 300 metres to reach water.",
-    "In a mine in Canada, the scientist Barbara Sherwood Lollar found water that had been shut in rock for more than a billion years. It was far saltier than the sea.",
+    "A borewell in Bengaluru may go down 300 metres or more to reach water.",
+    "In a mine in Canada, a team that included the scientist Barbara Sherwood Lollar found water that had been shut in rock for more than a billion years.",
     "Water pumped from deep wells in the Thar desert is often too salty to drink."
    ],
    "perspectives": [],
@@ -268,7 +268,7 @@
    "concept": "Why we cannot drink sea water",
    "status": "defined",
    "definition": "Sea water is saltier than the liquid inside our cells. By osmosis, the salt draws water out of the cells, and the kidneys use up more water to remove it.",
-   "description": "Your body is built of cells, and each cell is a small bag of watery liquid in a thin skin. The liquid in your cells and blood holds about 9 grams of salt in a litre. Water passes through a cell's skin easily, and salt passes with difficulty. Water moves through the skin from the less salty side to the more salty side. This movement is called osmosis. In the Potato Test, potato sticks in very salty water lose water and go limp. Sea water holds about 35 grams of salt in a litre. If a person drinks sea water, the blood becomes saltier, and water leaves the cells. The kidneys must remove the extra salt in urine. But human urine can hold only about 20 grams of salt in a litre. So to remove the salt from one litre of sea water, the kidneys use more than one litre of the body's water. The person ends up thirstier than before.",
+   "description": "Your body is built of cells, and each cell is a small bag of watery liquid in a thin skin. The liquid in your cells and blood holds about 9 grams of salt in a litre. Water passes through a cell's skin easily, and salt passes with difficulty. Water moves through the skin from the less salty side to the more salty side. This movement is called osmosis. In the Potato Test, potato sticks in very salty water lose water and go limp. Sea water holds about 35 grams of salt in a litre. If a person drinks sea water, the blood becomes saltier, and water leaves the cells. The kidneys must remove the extra salt in urine. But human urine cannot become as salty as sea water. So to remove the salt from one litre of sea water, the kidneys use more water than the person drank. The person ends up thirstier than before.",
    "examples": [
     "In the Potato Test, the stick in plain water stays stiff and the stick in very salty water bends.",
     "Salt sprinkled on cut cucumber draws water out, and a puddle forms on the plate.",
@@ -299,7 +299,7 @@
    "examples": [
     "In The Island Well, clear fresh water stays as a layer above blue salty water until it is stirred.",
     "A well on Agatti island rises and falls a little with the tide, because the fresh water floats on the sea.",
-    "At Minjur, north of Chennai, groundwater has turned salty several kilometres from the shore."
+    "At Minjur, north of Chennai, groundwater has turned salty up to about 16 kilometres from the shore."
    ],
    "perspectives": [],
    "art": "A cut-away view of a small coral island with a thin layer of fresh water floating on sea water under the sand, and a shallow well reaching the fresh layer."
@@ -308,7 +308,7 @@
    "concept": "What people use fresh water for",
    "status": "defined",
    "definition": "Worldwide, about 7 in every 10 litres of fresh water that people take go to farms, about 2 to industry and about 1 to homes.",
-   "description": "People take fresh water from rivers, lakes and groundwater. Most of it grows food. A farm field needs far more water than a family drinks, because a growing plant takes up water all day and gives most of it back to the air. Industry uses water to cool machines, wash and make things such as paper, cloth and steel. Homes use the smallest share. A person needs only 2 to 3 litres a day to drink. India's planners work with about 135 litres a person each day in cities, for drinking, cooking, washing and the toilet. India pumps more groundwater than any other country, mostly for farms. The same water can be used more than once. Water that cools a machine or washes rice can often water a plant.",
+   "description": "People take fresh water from rivers, lakes and groundwater. Most of it grows food. A farm field needs far more water than a family drinks, because a growing plant takes up water all day and gives most of it back to the air. Industry uses water to cool machines, wash and make things such as paper, cloth and steel. Homes use the smallest share. A person needs only 2 to 3 litres a day to drink. India's planners work with about 135 litres a person each day in cities with sewers, for drinking, cooking, washing and the toilet. India pumps more groundwater than any other country, mostly for farms. The same water can be used more than once. Water that cools a machine or washes rice can often water a plant.",
    "examples": [
     "Rice paddies in the Kaveri delta are flooded with river water for much of the season.",
     "A cloth mill in Tiruppur uses water in dyeing and washing cloth.",
@@ -325,7 +325,7 @@
    "examples": [
     "Chennai has plants at Minjur and Nemmeli.",
     "Saudi Arabia and Israel get a large share of their drinking water from the sea.",
-    "A lifeboat's hand pump can make a few litres of fresh water an hour from sea water."
+    "A lifeboat's hand pump can make a little fresh water from sea water."
    ],
    "perspectives": [
     {
@@ -334,7 +334,7 @@
     },
     {
      "who": "A woman who fishes near the plant",
-     "explanation": "The waste water is about twice as salty as the sea. Near the pipe, the fish and the prawns have gone, and my catch is smaller."
+     "explanation": "The waste water is much saltier than the sea. Near the pipe, the fish and the prawns have gone, and my catch is smaller."
     },
     {
      "who": "A water scientist",
@@ -367,7 +367,7 @@
   },
   {
    "text": "When salt water freezes, the ice holds much less salt than the water it came from.",
-   "evidence": "In 1776 Edward Nairne froze sea water in London, washed the ice and melted it. The melted ice was fresh. Scientists who drill into sea ice measure the same thing today."
+   "evidence": "In 1776 Edward Nairne froze sea water in London and melted the ice. The water had no taste of salt. Scientists who drill into sea ice measure the same thing today."
   },
   {
    "text": "Water moves through the skin of a living cell towards the saltier side.",
@@ -375,7 +375,7 @@
   },
   {
    "text": "Drinking sea water makes a person lose more water than they drank.",
-   "evidence": "Human urine can hold about 20 grams of salt in a litre, and sea water holds about 35. Records of shipwrecks show that people who drank sea water died sooner than those who did not."
+   "evidence": "Human urine cannot become as salty as sea water, which holds about 35 grams in a litre. Records of shipwrecks show that people who drank sea water died sooner than those who did not."
   },
   {
    "text": "Fresh water floats on salt water, because a litre of fresh water has less mass.",
@@ -393,9 +393,9 @@
   },
   {
    "claim": "Sea water cannot freeze, so all the ice at sea must come from rivers.",
-   "who": "Several European scholars in the 1700s, among them Daines Barrington.",
+   "who": "Some European thinkers in the 1700s.",
    "for": "Ice taken from the sea melted into fresh water. Sea water also stays liquid when ponds on land have frozen.",
-   "against": "Edward Nairne froze sea water in 1776. It froze at a lower temperature than fresh water, and the ice left most of the salt behind.",
+   "against": "Edward Nairne froze sea water in 1776. It froze at a slightly lower temperature than fresh water, and the melted ice had no taste of salt.",
    "status": "rejected",
    "context": "This is an idea that many learned people held about 250 years ago. A simple test showed it was wrong."
   },
@@ -410,7 +410,7 @@
   {
    "claim": "Icebergs could be towed to dry countries to give them drinking water.",
    "who": "Some engineers, since the 1970s.",
-   "for": "An iceberg is fresh water, and one large iceberg holds enough for a city for a year. Icebergs melt into the sea unused.",
+   "for": "An iceberg is fresh water, and one large iceberg holds a very great amount of fresh water. Icebergs melt into the sea unused.",
    "against": "A towed iceberg melts on the way through warm seas, and the towing would cost a great deal of fuel. Nobody has yet done it.",
    "status": "minority",
    "context": "This is a plan that a few engineers have put forward. Most water scientists doubt that it can work."
@@ -468,7 +468,7 @@
   "title": "The Well That Moved with the Tide",
   "mins": 10,
   "read_aloud": true,
-  "note": "Ayesha, Ummumma, Yusuf, Hamza and Zubaida are made up. These facts are real: Agatti is a narrow coral island in Lakshadweep, a few kilometres long and about a kilometre across at the widest. On such islands, rain water soaks into the sand and floats as a thin layer on the sea water below. The water in island wells rises and falls with the tide. Wells that are dug too deep or pumped too hard turn salty. The monsoon reaches Lakshadweep around the start of June. Ummumma is a word for grandmother used by many Muslim families in Kerala and Lakshadweep.",
+  "note": "Ayesha, Ummumma, Yusuf, Hamza and Zubaida are made up. These facts are real: Agatti is a narrow coral island in Lakshadweep, about 7 kilometres long and under a kilometre across. On such islands, rain water soaks into the sand and floats as a thin layer on the sea water below. The water in island wells rises and falls with the tide. Wells that are dug too deep or pumped too hard turn salty. The monsoon reaches Lakshadweep around the start of June. Ummumma is a word for grandmother used by many Muslim families in Kerala and Lakshadweep.",
   "text": [
    "Ayesha was ten, and she drew the water for her grandmother every evening.",
    "The well stood behind their house on Agatti. The island was so narrow that she could hear the lagoon on one side and the open sea on the other. It was not a deep well. The rope had seven knots, one for each arm's length, and the bucket touched water near the fourth knot. Ummumma called the water sweet. On Agatti, sweet water meant water with no salt in it.",
@@ -602,7 +602,7 @@
       },
       {
        "f": "The Caspian Sea",
-       "b": "IN BETWEEN. It is called a sea, but it is a lake with no outlet. It is about a third as salty as the ocean."
+       "b": "IN BETWEEN. It is called a sea, but it is a lake with no outlet. It is less than half as salty as the ocean."
       },
       {
        "f": "Your tears",
@@ -2915,7 +2915,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sea water holds 35 grams of salt in a litre. Urine holds at most 20. How much urine carries that salt?",
+     "p": "Sea water holds 35 grams of salt in a litre. Suppose urine holds at most 20. How much urine carries that salt?",
      "opts": [
       "About 1.75 litres",
       "About half a litre",
@@ -3247,31 +3247,28 @@
  ],
  "videos": [
   {
-   "title": "Why we cannot drink sea water: how salt pulls water out of living cells",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What happens if you drink seawater? Here's why it causes dehydration and bacterial infections.",
+   "channel": "Geopop, everyday science",
+   "youtube": "Mx145Y5TH_I",
    "mins": 5,
    "why": "To see osmosis in cells, and why the kidneys cannot get rid of the salt in sea water. The Potato Test is a home version of it.",
-   "check": "No address yet. Find a short film from a university, a science museum or a well-known science channel. Check that it says water moves towards the saltier side, and that it explains why drinking sea water leaves a person with less water."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How much of Earth's water is fresh? The water drop picture from the US Geological Survey",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How Much Fresh Water is Available? | Science Activity",
+   "channel": "The Digital Classroom Experience",
+   "youtube": "cH0Bis4eTE4",
    "mins": 4,
    "why": "To see the share of salty water, ice, groundwater, and lakes and rivers as drawn spheres. One Litre Earth is a home version of it.",
-   "check": "No address yet. Find the short animation by the US Geological Survey or a similar science agency. Check that its numbers are close to 97 per cent salty and about 3 per cent fresh, and that most of the fresh water is ice and groundwater."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How seabirds and sea turtles drink the sea: salt glands",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "An Amazing Adaptation: the Supraorbital Gland",
+   "channel": "The Center for Ecosystem Sentinels",
+   "youtube": "NUJ1PtcKaqI",
    "mins": 4,
    "why": "To see a salt gland at work, as salty drops form on a seabird's beak or a turtle's eye.",
-   "check": "No address yet. Find a short clip from a nature channel or a university. Check that it shows the salty liquid coming from the gland near the eye or the beak."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3424,11 +3421,11 @@
    "why_maths": "A mix of two parts is a fraction of the stronger water, so a ratio tells you the saltiness of the mix without testing it."
   },
   {
-   "problem": "Urine can hold at most about 20 grams of salt in a litre. How many litres of urine does a person need to carry out the 35 grams of salt in 1 litre of sea water? How much more water than the person drank is lost?",
+   "problem": "Suppose urine can hold at most 20 grams of salt in a litre. How many litres of urine does a person need to carry out the 35 grams of salt in 1 litre of sea water? How much more water than the person drank is lost?",
    "answer": "1.75 litres of urine, so 0.75 litres more than the person drank.",
    "explain": "35 divided by 20 is 1.75. The person drank 1 litre, so the body loses 1.75 minus 1, which is 0.75 litres more than it took in.",
    "math_unit": "math.fractions.decimals-and-percentages.L5",
-   "context": "A person who drinks sea water must get rid of the salt through the kidneys. These are rounded figures.",
+   "context": "A person who drinks sea water must get rid of the salt through the kidneys. The 20 grams is a made-up round number.",
    "why_maths": "Dividing the salt by what each litre of urine can carry shows why sea water leaves a person with less water, not more."
   },
   {
@@ -3485,7 +3482,7 @@
    "url": "",
    "kind": "place",
    "where": "Odisha",
-   "why": "A brackish lagoon where rivers meet the Bay of Bengal. Boat trips run from Satapada and Barkul."
+   "why": "A brackish lagoon where rivers meet the Bay of Bengal. Boat trips run on the lagoon."
   },
   {
    "title": "Pichavaram mangrove forest",
@@ -3734,7 +3731,7 @@
   "science": [
    "Shiklomanov I. A. (1993). World fresh water resources. In P. H. Gleick (ed.), Water in Crisis: A Guide to the World's Fresh Water Resources. Oxford University Press.",
    "Gleick P. H. (1996). Water resources. In S. H. Schneider (ed.), Encyclopedia of Climate and Weather. Oxford University Press.",
-   "Barrington D. (1775). The Probability of Reaching the North Pole Discussed. London.",
+   "Nairne E. (1776). Experiments on water obtained from the melted ice of sea-water, to ascertain whether it be fresh or not; and to determine its specific gravity with respect to other water. Also experiments to find the degree of cold in which sea-water begins to freeze. Philosophical Transactions 66: 249-256.",
    "Weeks W. F. (2010). On Sea Ice. University of Alaska Press.",
    "Fretwell P. and others (2013). Bedmap2: improved ice bed, surface and thickness datasets for Antarctica. The Cryosphere 7: 375-393.",
    "Pearson D. G. and others (2014). Hydrous mantle transition zone indicated by ringwoodite included within diamond. Nature 507: 221-224.",
@@ -3742,14 +3739,16 @@
    "Holland G. and others (2013). Deep fracture fluids isolated in the crust since the Precambrian era. Nature 497: 357-360.",
    "Rodell M., Velicogna I., Famiglietti J. S. (2009). Satellite-based estimates of groundwater depletion in India. Nature 460: 999-1002.",
    "Bureau of Indian Standards. IS 10500: Drinking water, specification.",
-   "Food and Agriculture Organization, AQUASTAT: water withdrawals by sector."
+   "Food and Agriculture Organization, AQUASTAT: water withdrawals by sector.",
+   "U.S. Geological Survey, Water Science School: How much water is there on Earth? (checked 17 Nov 2026).",
+   "National Snow and Ice Data Center: Science of sea ice (checked 17 Nov 2026)."
   ]
  },
  "how_we_found_out": {
   "context": "This is the true story of how people found out that ice made from sea water leaves the salt behind. You test the same thing in Freeze the Sea.",
-  "story": "In the 1770s, British explorers wanted to know if ships could sail to the North Pole across open sea. Some thinkers said yes. Daines Barrington, a lawyer in London, argued that sea water does not freeze hard like pond water, because it is salty. The ice that explorers met at sea must have come from rivers and the land, he said, so the sea near the Pole must be open water. Edward Nairne, a London maker of scientific instruments, tested the idea. In 1776 he set sea water out in the winter cold. It froze, though only when the air was colder than freezing pond water needs. He then melted the ice, and the water was fresh. The salt had stayed in the liquid that was left. So sea water does freeze, and freezing takes most of the salt out. Later explorers found that the polar sea was covered with ice that the sea itself had made.",
-  "who": "Edward Nairne, a maker of scientific instruments in London, who tested an idea put forward by Daines Barrington",
-  "when": "Nairne froze sea water in 1776, in answer to arguments made in the 1770s.",
+  "story": "In the 1770s, British explorers wanted to know if ships could sail to the North Pole across open sea. Some thinkers said yes. Some thinkers doubted that sea water could freeze hard, because it is salty. Any ice that explorers met at sea, they said, must have come from rivers and the land. Edward Nairne, a London maker of scientific instruments, tested the idea. In 1776 he set sea water out in the winter cold. It froze, though only a little below the cold that freezes pond water. He then melted the ice, and the water had no taste of salt. The salt had stayed in the liquid that was left. So sea water does freeze, and freezing takes most of the salt out. Later explorers found that the polar sea was covered with ice that the sea itself had made.",
+  "who": "Edward Nairne, a maker of scientific instruments in London, who tested whether the ice of sea water is fresh",
+  "when": "Nairne froze sea water in 1776, in the years when British explorers were sailing north.",
   "wrong_idea": "That sea water cannot freeze hard, so ice found at sea must have come from rivers or from the land. Nairne froze sea water and melted the ice. It was nearly fresh, so the sea can freeze and the ice leaves most of the salt behind.",
   "art": "A man in eighteenth-century clothes on a snowy London rooftop at night, bending over shallow dishes of water with a thermometer in his hand."
  },
@@ -3775,7 +3774,7 @@
    {
     "source": "Tirukkural, verse 17, in the chapter on rain, by Thiruvalluvar",
     "teaching": "Even the wide sea will lose its wealth, if the cloud does not draw up its water and give it back as rain.",
-    "link": "Thiruvalluvar, more than 1,500 years ago, describes the cloud taking water from the sea and returning it. He is praising rain. He does not say that the salt stays behind, which is what Freeze the Sea and the salt pans show."
+    "link": "Thiruvalluvar, about 1,500 years ago by the usual dating, describes the cloud taking water from the sea and returning it. He is praising rain. He does not say that the salt stays behind, which is what Freeze the Sea and the salt pans show."
    },
    {
     "source": "Thich Nhat Hanh, No Death, No Fear (2002)",
@@ -3814,5 +3813,5 @@
   ],
   "art": "A child holding a steel tumbler of water at a window, with a faint line running from the tumbler back through a river and a glacier and a cloud to the sea."
  },
- "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. None of them has been tried at home yet, so treat the expected results as likely, not certain. Freeze the Sea (core) needs a freezer and two to four hours. Salt water freezes a little later than plain water, and its ice is soft. If the bowl freezes solid before you look, the step says how to thaw it over a strainer. The melted ice usually still tastes a little salty, which is part of the lesson. The Potato Test (core) needs one raw potato and a grown-up to cut it. The sticks must be thin, about as thick as a pencil, or one hour is too short to see a change. The length changes are small, so the bend test is the clearer result. Ice on Land, Ice on Sea needs two straight-sided tumblers, a tea strainer wide enough to rest on the rim, and an hour of waiting. The tumbler with floating ice should stay within a millimetre or two of its band. The other should rise by about 10 to 20 millimetres. If the strainer touches the water, pour a little water out and mark the line again. One Litre Earth (core) needs only a bottle, a teaspoon and a katori. The amounts are rounded, so a little more or less is fine. One Bottle, Three Forms (core) takes three days. Use a plastic cup, never glass, in the freezer. The ice may rise as a small bump, and the open cup may lose only one to three millimetres of water in a day. The Island Well works only if the clear water is poured very slowly over a spoon. If the whole jar turns pale blue, empty it and try again more slowly. A straw sample is a few drops, so keep the thumb tight on the top of the straw. Mix a Lagoon needs one teaspoon of salt, and a taster can tell PLAIN from MONSOON only with care. Pin the Fresh Water needs a world map or an atlas. The Roof and the Tap needs the area of a roof and the yearly rain of your town. A child must not climb on any roof. The rain figures in the notes are rounded, so look up your own town if you can. Fresher Ice needs a freezer and takes most of a day. A second freezing leaves less water, so the sample is small. The blind taste is the only measure, so a very small difference may not be noticed, and that is a fair result. A Water Plan for a Small Island needs only paper and a calculator, and its numbers are made up. Fresh, Salty or In Between needs scissors and 27 small cards. Sea to Glass needs a die, a button for each player, a grain of rice for each player and about 12 beans. Nothing needs a garden or an animal. Facts to treat with care: the shares of Earth's water are rounded from the standard tables of Shiklomanov and Gleick. The saltiness of seas and lakes is rounded, and the Bay of Bengal varies with the season and the place. Nairne's 1776 sea-water freezing is described in general terms, and the exact title of his paper was not checked. The reading of the Tirukkural verse and the Upanishad verse are paraphrases. The three videos have no address yet."
+ "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. None of them has been tried at home yet, so treat the expected results as likely, not certain. Freeze the Sea (core) needs a freezer and two to four hours. Salt water freezes a little later than plain water, and its ice is soft. If the bowl freezes solid before you look, the step says how to thaw it over a strainer. The melted ice usually still tastes a little salty, which is part of the lesson. The Potato Test (core) needs one raw potato and a grown-up to cut it. The sticks must be thin, about as thick as a pencil, or one hour is too short to see a change. The length changes are small, so the bend test is the clearer result. Ice on Land, Ice on Sea needs two straight-sided tumblers, a tea strainer wide enough to rest on the rim, and an hour of waiting. The tumbler with floating ice should stay within a millimetre or two of its band. The other should rise by about 10 to 20 millimetres. If the strainer touches the water, pour a little water out and mark the line again. One Litre Earth (core) needs only a bottle, a teaspoon and a katori. The amounts are rounded, so a little more or less is fine. One Bottle, Three Forms (core) takes three days. Use a plastic cup, never glass, in the freezer. The ice may rise as a small bump, and the open cup may lose only one to three millimetres of water in a day. The Island Well works only if the clear water is poured very slowly over a spoon. If the whole jar turns pale blue, empty it and try again more slowly. A straw sample is a few drops, so keep the thumb tight on the top of the straw. Mix a Lagoon needs one teaspoon of salt, and a taster can tell PLAIN from MONSOON only with care. Pin the Fresh Water needs a world map or an atlas. The Roof and the Tap needs the area of a roof and the yearly rain of your town. A child must not climb on any roof. The rain figures in the notes are rounded, so look up your own town if you can. Fresher Ice needs a freezer and takes most of a day. A second freezing leaves less water, so the sample is small. The blind taste is the only measure, so a very small difference may not be noticed, and that is a fair result. A Water Plan for a Small Island needs only paper and a calculator, and its numbers are made up. Fresh, Salty or In Between needs scissors and 27 small cards. Sea to Glass needs a die, a button for each player, a grain of rice for each player and about 12 beans. Nothing needs a garden or an animal. Facts checked on 17 Nov 2026: the shares of Earth's water (USGS), the Antarctic ice figures, the paper citations, Nairne's 1776 paper and its title, the glacier lengths, the Minjur and Kavaratti plants, the Indian drinking-water standard and the groundwater shares. Softened: the sea ice salt share, the Siachen length, the urine salt limit (now a made-up figure in the maths), the iceberg and hand-pump lines, the age of the Tirukkural, and the Agatti size. Removed: Daines Barrington as the person who argued the idea, the Bay of Bengal salt figure, and two boat-landing names. The readings of the Tirukkural verse and the Upanishad verse are paraphrases. The three videos have no address yet. The India-WRIS and Central Ground Water Board sites did not load on the check day."
 }
