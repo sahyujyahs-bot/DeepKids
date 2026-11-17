@@ -26,7 +26,7 @@
 ### A circuit is a complete ring · *defined*
 **Definition:** A circuit is a complete path that electricity can flow round, from one end of the cell, through the bulb, and back to the other end.
 
-In your first circuit, one wire went from the cell to the bulb. The other wire went from the bulb back to the cell. When you traced it with a finger, your finger came back to where it started. That ring is the circuit. When you unclipped one wire, the ring had a gap. The bulb went dark at once, even though everything else was still there.
+In the activity Your First Circuit, one wire went from the cell to the bulb. The other wire went from the bulb back to the cell. When you traced the path with a finger, your finger came back to where it started. That ring is the circuit. When you lifted one wire off the cell, the ring had a gap. The bulb went dark at once, even though everything else was still there.
 - e.g. A torch is a circuit you can hold. The switch opens and closes a gap in the ring.
 - e.g. A doorbell rings only while the button is pressed. Pressing it closes the gap.
 - e.g. A toy car runs only when its cells are in and its switch is on.
@@ -47,7 +47,7 @@ In the Shape Test, the bulb lit with straight wires. It also lit with a coiled w
 ### Why the bulb glows · *defined*
 **Definition:** When electricity flows through the very thin filament, the filament gets so hot that it glows and gives out light.
 
-Electricity flows easily through the thick wires. The filament is far thinner than a hair, and it is hard for electricity to get through it. That makes it very hot, and hot metal glows, like an iron rod in a blacksmith's fire. The glass keeps air away from the filament, so it does not burn up. That is why a bulb that has been on for a while feels warm.
+Electricity flows easily through the thick wires. The filament is far thinner than a hair, and it is hard for electricity to get through it. That makes the filament very hot, and hot metal glows, like an iron rod in a blacksmith's fire. That is why a bulb that has been on for a while feels warm. The glass keeps air away from the filament, so the filament does not burn up.
 - e.g. A torch bulb feels warm after it has been on for a minute.
 - e.g. The coil in an electric heater glows orange when it is hot.
 - e.g. A blacksmith's iron rod glows red in the fire.
@@ -65,7 +65,7 @@ You cannot see electricity in a wire. Scientists have found that metal is full o
 - A small AA cell is safe to play with in circuits, but the sockets in the wall are not. *How we know:* An AA cell gives 1.5 volts, which you cannot feel through dry skin. Indian homes get mains electricity at about 230 volts, which can kill. That is why we never use wall sockets for experiments.
 
 ## How we found out
-**Joseph Swan, a chemist in Newcastle in England, and Lewis Latimer, a Black American engineer who taught himself technical drawing, 1879 (Swan's carbon bulb) and 1882 (Latimer's better carbon threads).** In the 1800s, inventors found that a thin thread of carbon glows when electricity flows through it. But their bulbs burned out within minutes. Joseph Swan, a chemist in Newcastle in England, worked on this for years. He worked out that the trouble was the air left inside the glass. Hot carbon burns when air touches it. In 1865, Hermann Sprengel had invented a much better pump for taking air out of glass. Using a pump like this, Swan took almost all the air out of his bulbs. Now the carbon thread glowed without burning up. Early in 1879, he showed his bulb to a hall full of people in Newcastle. Thomas Edison's team in America made long-lasting bulbs at about the same time. Then the carbon threads were hard to make, and many broke. Lewis Latimer, a Black American engineer who had taught himself technical drawing, found a better way to make them. He was given a patent for it in 1882. The wrong idea was that a glowing thread would always burn up quickly. Taking the air away showed that it need not.  
+**Joseph Swan, a chemist in Newcastle in England, and Lewis Latimer, a Black American engineer who taught himself technical drawing, 1879 (Swan's carbon bulb) and 1882 (Latimer's better carbon threads).** In the 1800s, inventors found that a thin thread of carbon glows when electricity flows through it. But their bulbs burned out within minutes. Joseph Swan, a chemist in Newcastle in England, worked on this for years. He worked out that the trouble was the air left inside the glass. Hot carbon burns when air touches it. In 1865, Hermann Sprengel had invented a much better pump for taking air out of glass. Using a pump like this, Swan took almost all the air out of his bulbs. Now the carbon thread glowed without burning up. Early in 1879, he showed his bulb to a hall full of people in Newcastle. Thomas Edison's team in America made long-lasting bulbs at about the same time. But the carbon threads were still hard to make, and many broke. Lewis Latimer, a Black American engineer who had taught himself technical drawing, found a better way to make them. He was given a patent for it in 1882. People had wrongly thought that a glowing thread would always burn up quickly. Taking the air out showed that it does not have to.  
 *What people believed before:* Many early bulbs burned out in minutes, and a long-lasting electric bulb seemed out of reach. Swan showed that air inside the glass was burning the hot carbon. With the air taken out, the thread glowed for hours.
 
 ## Challenging perspectives
@@ -80,7 +80,7 @@ You cannot see electricity in a wire. Scientists have found that metal is full o
   Against: In the Which Way Round test, the bulb lit just the same with the cell turned round. A plain bulb lights either way. A remote has parts inside that need the electricity to flow one way.
 - **Thomas Edison invented the light bulb on his own.** (Many school books; *rejected*)  
   For: Edison's team made bulbs that lasted a long time, and his name is the one most people know.  
-  Against: Joseph Swan in England showed a working carbon bulb early in 1879. Many people had tried before them. Lewis Latimer, a Black American engineer, found a better way to make the glowing carbon threads in 1882.
+  Against: Joseph Swan in England showed a working carbon bulb early in 1879. Many people had tried before Swan and Edison. Lewis Latimer, a Black American engineer, found a better way to make the glowing carbon threads in 1882.
 - **Only animals with a brain can count or decide.** (Many people; *debated*)  
   For: Counting and deciding seem to need a brain like ours.  
   Against: A Venus flytrap plant counts. She shuts her trap only after an insect touches her trigger hairs twice. Each touch sends an electric signal through her leaf. Some scientists call this a reflex, not counting.
@@ -88,7 +88,7 @@ You cannot see electricity in a wire. Scientists have found that metal is full o
 ## Roots
 We have built a circuit, coiled and knotted its wires, and looked inside a bulb. Now we ask what the Shape Test tells us about ourselves and the world.
 
-**Deep truth.** Your bulb lit with the wires straight, coiled, crossed or knotted. It stayed dark when both wires touched the same end of the cell. So whether a bulb lights depends on what is joined to what. The shape of the wires does not change it.  
+**Deep truth.** In the Shape Test, the bulb lit with the wires straight, coiled, crossed or knotted. It stayed dark when both wires touched the same end of the cell. So whether a bulb lights depends on what is joined to what. The shape of the wires does not change it.  
 *Habit it breaks:* We judge things by how they look: a neat ring looks as if it should work, and a tangle looks as if it should not. The Shape Test shows that the joins decide, and the shape does not.  
 *Evidence:* In the Shape Test, four very different shapes all lit the bulb equally. A tidy-looking circuit with both wires on the flat end stayed dark.
 
@@ -102,16 +102,16 @@ A straight wire and a knotted wire look different. To the circuit they are the s
 - **Avatamsaka Sutra, the net of Indra:** Buddhist teachers describe a great net with a jewel at every knot. Each jewel reflects every other jewel. (In a net, what matters is which knots are joined, not how the net is folded. A circuit is a small net of joins too.)
 - Science (settled): A bulb lights only when there is a complete metal path from one end of the cell, through the bulb, to the other end.
 - Science (settled): Whether a circuit is complete depends only on its joins, not on the shape of its wires. Mathematicians call properties like this topological.
-- Other view, Most physicists: An electron in a wire is a tiny particle that follows fixed laws of nature. They say it has no inner life at all, and that awareness needs a brain, or at least a living body.
-- Practice, Feel the join (3 min): Sit still and close your eyes. Touch the tip of your first finger to the tip of your thumb. Your hand makes a ring. Feel the place where they meet. Now move them apart, just a hair's width. Can you still feel each other? Touch them again. Breathe slowly three times. Where does your finger end and your thumb begin?
-- Ask: Your knotted wire and your straight wire did the same job. In what way were they the same?
-- Ask: A bulb glows only because of what it is joined to. What are you joined to?
+- Other view, Most physicists: Most physicists say an electron in a wire is a tiny particle that follows fixed laws of nature. They say it has no inner life at all, and that awareness needs a brain, or at least a living body.
+- Practice, Feel the join (3 min): Sit still and close your eyes. Touch the tip of your first finger to the tip of your thumb. Your hand makes a ring. Feel the place where they touch. Now move them apart, just a hair's width. The ring has a gap, like a circuit with a wire lifted off. Touch them again. The ring is whole again. Breathe slowly three times. What do you feel when the ring is whole, and what do you feel when it has a gap?
+- Ask: In the Shape Test, the knotted wire and the straight wire both lit the bulb. In what way were they the same?
+- Ask: A bulb glows only because of what it is joined to. Think of your family, your friends and the food you eat. What are you joined to?
 - Ask: If everything is conscious, what might the electrons in a wire be aware of?
 
 ## Deep and big questions
-- *deep:* Your knotted wire still lit the bulb. What would you have to do to the wire to make the bulb go dark? (hint: Think about what is inside the plastic, and what has to stay unbroken.)
+- *deep:* In the Shape Test, the knotted wire still lit the bulb. What would you have to do to a wire to make the bulb go dark? (hint: Think about what is inside the plastic, and what has to stay unbroken.)
 - *deep:* The bulb goes dark the moment you unclip one wire. How does the bulb know the gap is there, far away at the cell? (hint: Think about the electrons in the wire. They are pushed round the whole ring at once.)
-- *big:* A metro map shows which stations join, but not the real shape of the streets. Is a drawing of a circuit the same kind of map? (hint: Draw your circuit two ways, neat and messy. Would both drawings help someone build it?)
+- *big:* A metro map shows which stations join, but not how the streets bend. A drawing of a circuit also shows only what joins to what. Why is that enough to build the circuit? (hint: Draw your circuit two ways, one neat and one messy. Would both drawings help someone build it?)
 - *big:* Your nerves carry tiny electric signals from your fingers to your brain. Is your body full of circuits too? (hint: Think about what happens when you touch something hot, and how fast you pull your hand away.)
 
 ## Story: The Light in the Golu Temple
@@ -183,24 +183,24 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 
 - Ask: Why did the bulb stay dark with only one wire?
 - Ask: Arun coiled the wire round a pencil. Why did the bulb still shine?
-- Ask: Both wires were still on the cell. Why did the temple go dark?
+- Ask: Arun moved the red wire to the flat end of the cell, next to the black wire. Why did the temple go dark?
 
 ## Games
 ### g1 · Find the Fault: a circuit detective game (15 min)
-- **rules:** Build a working circuit with a cell, a rubber band, two wires and a bulb.; The finder turns away. The fixer takes a fault card, reads the back, and does what it says.; The finder turns back and looks. They must say what is wrong before they touch anything.; Then the finder fixes it. If the bulb lights, the finder gets 2 points.; Swap jobs each round. After 8 rounds, the player with the most points wins.
-- **Printable cards: 8 fault cards:** LOOSE BULB (back: Unscrew the bulb one turn, so it still looks in place.); CLIP ON THE PLASTIC (back: Clip one wire onto its own plastic cover, not the metal.); SAME END (back: Move one wire so both wires are on the flat end of the cell.); WIRE JUST OFF (back: Take one wire end out from under the band, but leave it lying close to the cell.); TIRED CELL (back: Swap in a used-up cell from the drawer.); PAPER UNDER THE BAND (back: Slip a small piece of paper between one wire end and the cell.); TURN THE CELL (back: Turn the cell round. Trick card: the bulb still lights, so there is no fault!); NO FAULT (back: Change nothing. The finder must say 'There is no fault.')
+- **rules:** Build a working circuit with a cell, a rubber band, two wires and a bulb.; One player is the fixer and the other is the breaker. The fixer turns away. The breaker takes a fault card, reads the back, and makes that fault in the circuit.; The fixer turns back and looks. They must say what is wrong before they touch anything.; Then the fixer fixes it. If the bulb lights, the fixer gets 2 points.; Swap jobs each round. After 8 rounds, the player with the most points wins.
+- **Printable cards: 8 fault cards:** LOOSE BULB (back: Unscrew the bulb one turn, so it still looks in place.); CLIP ON THE PLASTIC (back: Clip one wire onto its own plastic cover, not the metal.); SAME END (back: Move one wire so both wires are on the flat end of the cell.); WIRE JUST OFF (back: Take one wire end out from under the band, but leave it lying close to the cell.); TIRED CELL (back: Swap in a used-up cell from the drawer.); PAPER UNDER THE BAND (back: Slip a small piece of paper between one wire end and the cell.); TURN THE CELL (back: Turn the cell round. Trick card: the bulb still lights, so there is no fault!); NO FAULT (back: Change nothing. The fixer must say 'There is no fault.')
 - **Printable score sheet: Detective score sheet:** Round; Fault card; Found it? (yes or no); Points
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Cut out the cards. 2. Build the circuit and check it lights. 3. Play one round yourself as the fixer.  
+  *Parent does:* 1. Cut out the cards. 2. Build the circuit and check it lights. 3. Play one round yourself as the breaker, the player who makes the fault.  
   *Parent says:* I will make one thing wrong while you look away. Then you be the detective. Say what is wrong before you touch it.  
   *Child mode:* Look away. Then find what is wrong. Say it first, then fix it.
   - Note: Keep a used-up cell ready for the TIRED CELL card. If you have none, take that card out.
 - **s2 (12 min)**  
-  *Parent does:* Take turns being the fixer and the finder. After each round, ask how they found the fault.  
+  *Parent does:* Take turns being the breaker and the fixer. After each round, ask how they found the fault.  
   *Parent says:* How did you find it? Where did you look first?  
   *Child mode:* How did you find it?
   - Ask: What do you check first when the bulb is dark? (good: Every place where metal touches metal.; Both ends of the cell, then the bulb.)
-  - Note: Good detectives follow the path round with a finger and check each join. The TURN THE CELL card is a trick, because the bulb still lights. Ask why.
+  - Note: Good detectives follow the path round with a finger and check each join. The TURN THE CELL card is a trick, because the bulb still lights. Ask your child why it still lights.
   - Check: The bulb is dark. Both wires are on the cell, and the bulb is screwed in. What should you check next? → **Whether the wires are on different ends of the cell**
 ### g2 · Light or Dark? a drawing game (10 min)
 - **rules:** Mix the cards and put them face down.; The drawer takes a card, reads the front quietly and draws that circuit.; The others say 'light' or 'dark', and give a reason.; Turn the card over to check. One point for the right answer and one point for a good reason.; If anyone is unsure, build the circuit with the real kit to see.
@@ -221,7 +221,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - **question:** Does the bulb still light if the wires are coiled, crossed or knotted? What does the bulb really need to light?
 - **predict:** Before each test, guess: will the bulb light or stay dark? Why do you think so?
 - **fair test:** We use the same cell, the same two wires and the same bulb for every test. We change only one thing each time. After each test we put the circuit back to straight wires and check that the bulb still lights, so we know nothing else has gone wrong.
-- **safety:** Use only small AA cells. Never use a wall socket, a plug or a phone charger. If a wire or the cell gets warm, unclip it at once. It means the two ends of the cell are joined without the bulb.
+- **safety:** Use only small AA cells. Never use a wall socket, a plug or a phone charger. If a wire or the cell gets warm, unclip it at once. Warmth means the two ends of the cell are joined to each other with no bulb in between.
 - **record:** Fill in the table with the six tests: 1 straight wires, 2 coiled wire, 3 crossed wires, 4 knotted wire, 5 both wires on the flat end, 6 bulb unscrewed. Draw a sun for light and a dark circle for dark. Then count the suns.
 - **results table:** Test | My guess: light or dark? | What happened: light or dark?
 - **s1 (4 min) · grown-up needed**  
@@ -256,8 +256,8 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   *Child mode:* Count the suns. Count the dark circles. Why did two stay dark?
   - Ask: Why did the coiled and knotted wires still light the bulb? (good: The metal inside was still one piece.; The path from the cell to the bulb and back was still joined.)
   - Ask: Why did the bulb go dark in tests 5 and 6? (good: Both wires were on the same end, so there was no path to the other end.; The bulb was loose, so there was a gap.)
-  - Note: Wait for your child's own claim and evidence. Then say it plainly: the bulb lights when one end of the cell joins the bulb and the bulb joins the other end, metal touching metal. The shape of the wires makes no difference. A wire on the wrong end, or a loose bulb, leaves a gap.
-  - Check: Leela ties a knot in a wire of her circuit. What happens to the bulb? → **It stays lit**
+  - Note: First let your child say what they found and how they know. Then say it plainly: the bulb lights when one end of the cell joins the bulb and the bulb joins the other end, metal touching metal. The shape of the wires makes no difference. A wire on the wrong end, or a loose bulb, leaves a gap.
+  - Check: You tie a knot in one wire of a working circuit. What happens to the bulb? → **It stays lit**
 ### e2 · Which Way Round? Turning the cell and the bulb (15 min)
 - **question:** Does the bulb still light if we turn the cell round, so the electricity goes the other way?
 - **predict:** Guess first. If we turn the cell round, will the bulb light, stay dark or get dimmer? Why do you think so?
@@ -285,7 +285,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   *Parent says:* What happened when we turned the cell round in our circuit? What happened in the remote? Why are they different?  
   *Child mode:* What did the bulb do? What did the remote do?
   - Ask: Why did the bulb light both ways? (good: Both ends of the cell were still joined to the bulb.; The bulb does not mind which way the electricity goes.)
-  - Check: Murali turns the cell round in his bulb circuit. What happens? → **The bulb lights just the same**
+  - Check: You turn the cell round in a bulb circuit. What happens? → **The bulb lights just the same**
 
 ## Activities
 ### a1 · Your First Circuit: make the bulb shine (15 min)
@@ -333,8 +333,9 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   *Child mode:* Draw the bulb. Label the parts.
   - Check: Which part of a bulb glows? → **The thin coiled wire, called the filament**
 ### a3 · Count the Twos: why cells, bulbs and plugs need two (12 min)
+- **problem:** Your bulb circuit needed two wires. One wire took the electricity to the bulb, and the other wire brought it back to the cell. Do other things that use electricity also have two metal parts? Count the metal ends on a cell, a bulb and some plugs, and see.
 - **safety:** A grown-up switches off and unplugs every appliance first. Children only look at plugs that are out of the wall. Never touch a socket or a plug that is in the wall.
-- **record:** A tally table: each thing, and how many metal ends or pins it has. Circle every 2.
+- **record:** Make a tally table. Write each thing and how many metal ends or pins it has. Circle every 2.
 - **s1 (3 min)**  
   *Parent does:* 1. Hold up the cell and the bulb. 2. Count the metal ends together. 3. Write the tallies.  
   *Parent says:* How many metal ends does the cell have? How many metal places does the bulb have?  
@@ -370,7 +371,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
   - Note: If the bulb does not light, play detective: check every join where metal touches metal, and check that the wires are on different ends of the cell.
 - **s3 (5 min)**  
   *Parent does:* Switch off the room light and look at the lighthouse. Then unclip the cell.  
-  *Parent says:* Switch off the light. Our lighthouse is shining. What would a ship's captain see?  
+  *Parent says:* Switch off the light. Our lighthouse is shining. The wires inside are bent and hidden. Why does it still work?  
   *Child mode:* Switch off the room light. Look at your lighthouse shine.
   - Check: The lighthouse wires are hidden and bent inside the tube. Why does the bulb still light? → **The metal path from the cell to the bulb and back is unbroken**
 
@@ -397,7 +398,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 
 ## Worksheets
 ### Making a circuit (core, 10 questions)
-1. (mcq) Hari has a cell, a bulb and one wire, and the bulb stays dark. What must he add?  
+1. (mcq) You have a cell, a bulb and one wire, and the bulb stays dark. What must you add?  
    Options: A second wire, back to the other end of the cell / A longer wire / A second bulb  
    **Answer:** A longer wire. *Why:* Electricity flows out of one end of the cell, through the bulb, and back into the other end. A strong answer says the path must go all the way round.
 2. (draw) Draw your circuit: a cell, two wires and a bulb. Draw arrows to show the electricity going round.  
@@ -408,16 +409,16 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    **Answer:** False. *Why:* False. In the Shape Test, the bulb stayed lit with a knot in the wire. The metal inside the plastic was still one unbroken piece.
 5. (fill) A bulb lights only in a ____ circuit, with no gaps.  
    **Answer:** ['complete']. *Why:* A complete circuit has no gaps, so electricity can flow all the way round.
-6. (count) In the Shape Test, Kavitha tried 6 ways. 4 lit the bulb. How many stayed dark?  
+6. (count) In the Shape Test, the circuit was joined in 6 ways. 4 ways lit the bulb. How many stayed dark?  
    **Answer:** 2. *Why:* 6 take away 4 is 2. The two that stayed dark were both wires on the same end of the cell, and the loose bulb.
 7. (label) Label the bulb: glass, filament, tip, metal side.  
    **Answer:** ['glass: the clear top', 'filament: the tiny coil inside', 'tip: the small metal dot at the bottom', 'metal side: the screw part of the base']. *Why:* Electricity goes in at one metal place, through the filament, and out at the other. A strong answer knows which part glows.
 8. (sort) Sort these: will the bulb light or stay dark?  
    **Answer:** Wires coiled round a pencil → Lights; Both wires on the flat end → Stays dark; Wires crossed in an X → Lights; Bulb unscrewed one turn → Stays dark. *Why:* The bulb lights when the path is complete, whatever shape the wires make. A wire on the wrong end or a loose bulb makes a gap.
-9. (write) Say out loud, and a grown-up writes it down: why did the bulb go out when you lifted one wire?  
+9. (write) Say out loud, and a grown-up writes it down: in Your First Circuit, why did the bulb go out when one wire was lifted off the cell?  
    **Answer:** Lifting the wire made a gap. The electricity could not get all the way round.. *Why:* A strong answer uses the word gap, or says the path was not complete any more.
-10. (perspective) Priya and her brother Dev look at a circuit with very long, curly wires.  
-   **Answer:** Priya is right, because the Shape Test showed coiled wires still light the bulb. Dev is right to look closely at the wires before building.. *Why:* A strong answer uses the Shape Test as evidence and says what Dev noticed, without calling him silly.
+10. (perspective) The first child and her brother the second child look at a circuit with very long, curly wires.  
+   **Answer:** The first child is right, because the Shape Test showed coiled wires still light the bulb. The second child is right to look closely at the wires before building.. *Why:* A strong answer uses the Shape Test as evidence and says what the second child noticed, without calling him silly.
 ### Circuits in new places (stretch, 10 questions)
 1. (odd) Three of these circuits light the bulb. Which one stays dark?  
    Options: Wires crossed in an X / One wire coiled like a spring / Both wires on the bump of the cell / Very long wires  
@@ -443,25 +444,25 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    **Answer:** Torch → Has a circuit; Steel tumbler → No circuit; Doorbell → Has a circuit; Wooden spoon → No circuit. *Why:* Anything that uses electricity has a circuit inside. A tumbler and a wooden spoon do not use electricity.
 ### Circuit puzzles (challenge, 10 questions)
 1. (perspective) Three people talk about why a bulb lights.  
-   **Answer:** Rahima, because the bulb lit only when a second wire went back to the cell. Swathi is right that the cell gives the bulb its energy. Joseph is right that the wires are needed.. *Why:* A strong answer uses evidence from building the circuit, and finds something true in each view.
+   **Answer:** Rahima, because the bulb lit only when a second wire went back to the cell. The first child is right that the cell gives the bulb its energy. The second child is right that the wires are needed.. *Why:* A strong answer uses evidence from building the circuit, and finds something true in each view.
 2. (write) Say out loud, and a grown-up writes it down: a torch has no wires you can see. How can it be a circuit?  
    **Answer:** Metal strips and the metal case inside the torch do the job of wires. They join the cells, the switch and the bulb in a ring.. *Why:* A strong answer says that any metal path can do the job of a wire.
-3. (mcq) Nandini's circuit was working. Now the bulb is dark, but every clip is in place. What should she try first?  
+3. (mcq) A circuit was working. Now the bulb is dark, but every clip is in place. What should you try first?  
    Options: Screw the bulb in tighter / Paint the wires / Make the wires longer  
    **Answer:** Screw the bulb in tighter. *Why:* A loose bulb leaves a gap at its tip. Paint and longer wires do not close a gap.
 4. (draw) Draw a circuit where the wire goes all the way round a plate of idli before it reaches the bulb. Will it light?  
    **Answer:** A circuit with a long wire curving round a plate, with both ends of the cell joined to the bulb. Yes, it lights.. *Why:* A strong answer shows a complete path and says that the long, curved shape does not matter.
 5. (truefalse) A wire from the bump to the bulb, and a second wire from the bulb back to the bump, makes the bulb light.  
    **Answer:** False. *Why:* False. Both wires are on the same end. Electricity needs a path from one end of the cell to the other.
-6. (count) Sunita has 3 bulbs. Each bulb needs 2 wires for its own circuit. How many wires does she need?  
-   **Answer:** 6. *Why:* 2 wires for each bulb, 3 times: 2, 4, 6. So she needs 6 wires.
+6. (count) You have 3 bulbs. Each bulb needs 2 wires for its own circuit. How many wires do you need?  
+   **Answer:** 6. *Why:* 2 wires for each bulb, 3 times: 2, 4, 6. So you need 6 wires.
 7. (write) Say out loud, and a grown-up writes it down: why should you never use a wall socket for a circuit experiment?  
    **Answer:** Mains electricity from the wall is about 230 volts and can kill. A small AA cell is only 1.5 volts and is safe.. *Why:* A strong answer says the wall is much stronger than a cell, and only cells are safe for experiments.
 8. (label) This circuit does not work. Label the gap with a G, and say how to fix it.  
    **Answer:** ['G: between the second wire and the flat end of the cell. Fix it by joining the wire to the flat end.']. *Why:* A strong answer finds the place where metal does not touch metal, and says how to close it.
 9. (odd) Which of these is NOT part of the path the electricity flows through?  
    Options: The filament / The wire's copper / The wire's plastic cover / The cell  
-   **Answer:** 2. *Why:* Electricity flows through the metal: the copper, the filament and through the cell. The plastic cover keeps it inside the wire.
+   **Answer:** 2. *Why:* Electricity flows through the copper, the filament and the cell. The plastic cover is not part of the path. It keeps the electricity inside the wire.
 10. (mcq) A Venus flytrap shuts only after an insect touches her trigger hairs twice. What carries the message through her leaf?  
    Options: An electric signal / A wire / An AA cell  
    **Answer:** An electric signal. *Why:* Each touch sends a tiny electric signal through her leaf. She has no wires or AA cells, but she uses electricity, as our nerves do.
@@ -469,19 +470,19 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 ## Videos
 - **The Power of Circuits** (SciShow Kids, 5 min) id `HOFp8bHTN30`: Explains for children how electricity needs a complete loop of cell, wires and bulb to work. *Check:* Found by search: "The Power of Circuits! | Technology for Kids | SciShow Kids" by SciShow Kids, 4 minutes 42 seconds. A parent may preview it.
 - **Light bulb filament, up close** (engineerguy, 4 min) id `DIGqBb3iZPo`: Shows the thin filament inside a bulb up close, so children see which part makes the light. *Check:* Found by search: "Light bulb filament" by engineerguy, 3 minutes 38 seconds. A parent may preview it.
-- **How a Venus flytrap works** (Peekaboo Kidz, 6 min) id `Rj4FiwB1FWE`: Shows a Venus flytrap closing its leaf trap, and how it works. *Check:* Found by search: "Deadliest Plants | How Does A Venus Flytrap Work? | Carnivorous Plants | The Dr. Binocs Show" by Peekaboo Kidz, 5 minutes 42 seconds. A parent may preview it.
+- **How a Venus flytrap works** (Peekaboo Kidz, 6 min) id `Rj4FiwB1FWE`: Shows a Venus flytrap closing her leaf trap, and explains how the trap works. *Check:* Found by search: "Deadliest Plants | How Does A Venus Flytrap Work? | Carnivorous Plants | The Dr. Binocs Show" by Peekaboo Kidz, 5 minutes 42 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) How many wires does a simple circuit with one cell and one bulb need?  
    Options: Two / One / None  
-   **Answer:** Two. *Why:* One wire takes the electricity to the bulb and one brings it back to the cell. Choosing one wire means thinking the bulb fills up with electricity.
+   **Answer:** Two. *Why:* One wire takes the electricity to the bulb and one brings it back to the cell. With only one wire the bulb stays dark, because the electricity has no way back.
 2. (mcq) Where must the two wires go on the cell?  
    Options: One on each end / Both on the bump / Both on the flat end  
    **Answer:** One on each end. *Why:* Electricity flows out of one end and back into the other. With both wires on one end, there is no path.
 3. (mcq) You unclip one wire. What happens to the bulb?  
    Options: It goes dark at once / It stays lit for a minute / It gets brighter  
    **Answer:** It goes dark at once. *Why:* Unclipping makes a gap, so the circuit is not complete. The bulb goes dark the moment the gap opens.
-4. (mcq) Leela coils a wire round a pencil. What happens to the bulb?  
+4. (mcq) You coil one wire of a working circuit round a pencil. What happens to the bulb?  
    Options: It stays lit / It goes dark / It flickers on and off  
    **Answer:** It stays lit. *Why:* The metal inside the wire is still one piece. The shape of the wire does not matter.
 5. (mcq) What is a circuit?  
@@ -493,10 +494,10 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 7. (mcq) Why does a bulb feel warm after a while?  
    Options: The filament is very hot / The cell is cold / The room is warm  
    **Answer:** The filament is very hot. *Why:* The filament gets hot enough to glow, and some of that heat warms the glass.
-8. (mcq) Arjun's bulb is dark. He finds it is unscrewed a little. Why is it dark?  
+8. (mcq) A bulb is dark. You find it is unscrewed a little. Why is it dark?  
    Options: There is a gap at the bulb / The wires are too short / The cell is upside down  
    **Answer:** There is a gap at the bulb. *Why:* A loose bulb does not touch the holder at its tip, so there is a gap in the path.
-9. (mcq) Mehrunissa traces her circuit with a finger, starting at the bump. Where does her finger end?  
+9. (mcq) You trace a circuit with a finger, starting at the bump of the cell. Where does your finger end?  
    Options: At the flat end of the cell / At the bulb / At the bump again, without passing the bulb  
    **Answer:** At the flat end of the cell. *Why:* The path goes from the bump, along a wire, through the bulb, along the other wire and into the flat end.
 10. (mcq) Which is safe to use for a circuit experiment?  
@@ -515,7 +516,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 ## Spotted around us
 - In Madurai and Chennai, homes light up their golu dolls with strings of tiny bulbs for Navaratri. Each string is one long circuit.
 - In Kolkata during Durga Puja, pandals glow with thousands of small lights, joined by wires that run behind the cloth.
-- Many fruit sellers' handcarts at night markets, as in Hyderabad, have a small light run from a battery.
+- At night markets, as in Hyderabad, many fruit sellers' handcarts have a small light that runs on a battery.
 - A cycle rickshaw in Guwahati or Patna may have a small light at the front, joined by wires to a battery.
 - The lighthouse at Mamallapuram, near Chennai, shines its light far out over the sea at night.
 
@@ -526,7 +527,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 
 ## Questions to ask kids
 - Where do you think the circuit is in our doorbell?
-- If we coiled the TV remote's cells' path round and round, would it still work?
+- If the metal paths inside the TV remote were coiled round and round, would the remote still work?
 - How many things in this room have a circuit inside?
 - What is the first thing you would check if a torch would not light?
 - Why do you think wires are covered in plastic?
@@ -543,10 +544,10 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 - Why did the electricity go round the circuit? *It was the only way home!*
 
 ## Connected maths
-- In the Shape Test, Kavitha's bulb lit in 4 tests and stayed dark in 2. How many tests did she do? **6 tests.**. 4 lit and 2 stayed dark. 4 add 2 is 6. So she did 6 tests in all. (queues `math.addition-subtraction.meaning.L2`)
+- In the Shape Test, the bulb lit in 4 tests and stayed dark in 2. How many tests were there? **6 tests.**. 4 lit and 2 stayed dark. 4 add 2 is 6. So there were 6 tests in all. (queues `math.addition-subtraction.meaning.L2`)
 - Every circuit needs 2 wires. Count in twos: how many wires do 1, 2, 3, 4 and 5 circuits need? What pattern do you see? **2, 4, 6, 8, 10. Each time it goes up by 2.**. One circuit needs 2 wires. Each new circuit adds 2 more. So the numbers go 2, 4, 6, 8, 10. They are all even numbers. (queues `math.patterns.number-patterns.L2`)
-- In Count the Twos, Farida found a cell with 2 ends, a bulb with 2 metal places, a charger with 2 pins and a mixie plug with 3 pins. Make a tally chart. Which number came up most? **2 came up 3 times. 3 came up once.**. Make one tally mark for each thing. Under 2 there are 3 marks: the cell, the bulb and the charger. Under 3 there is 1 mark: the mixie plug. Its third pin is the earth pin, for safety. (queues `math.data.sorting-and-tallies.L2`)
-- In the Find the Fault game, Ammu found the fault in 5 rounds out of 8. Her brother found it in 3 rounds out of 8. Each find gets 2 points. Who won, and by how many points? **Ammu won, by 4 points.**. Ammu: 5 finds, 2 points each, is 10 points. Her brother: 3 finds is 6 points. 10 take away 6 is 4. So Ammu won by 4 points. (queues `math.multiplication.equal-groups.L2`)
+- In Count the Twos, a cell has 2 ends, a bulb has 2 metal places, a charger has 2 pins and a mixie plug has 3 pins. Make a tally chart. Which number comes up most? **2 came up 3 times. 3 came up once.**. Make one tally mark for each thing. Under 2 there are 3 marks: the cell, the bulb and the charger. Under 3 there is 1 mark: the mixie plug. Its third pin is the earth pin, for safety. (queues `math.data.sorting-and-tallies.L2`)
+- In the Find the Fault game, the first player found the fault in 5 rounds out of 8. The second player found it in 3 rounds out of 8. Each find gets 2 points. Who won, and by how many points? **The first player won, by 4 points.**. The first player: 5 finds, 2 points each, is 10 points. The second player: 3 finds is 6 points. 10 take away 6 is 4. So the first player won by 4 points. (queues `math.multiplication.equal-groups.L2`)
 
 ## Song
 Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
@@ -565,7 +566,7 @@ Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
 - What is a circuit? → A complete ring that electricity flows round.
 - Which part of a bulb glows? → The thin wire inside, called the filament.
 - Does a knot in a covered wire stop the bulb lighting? → No. The metal inside is still one piece.
-- Both wires on the flat end of the cell: light or dark? → Dark. There is no path to the other end.
+- Both wires are on the flat end of the cell. Does the bulb light or stay dark? → Dark. There is no path to the other end.
 - Is a wall socket safe for experiments? → Never. Only small cells are safe.
 
 ## Plan

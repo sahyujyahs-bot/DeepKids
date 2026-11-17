@@ -160,7 +160,7 @@
    "for": "A knot in a water pipe blocks the water. Electricity seems to flow like water.",
    "against": "In the Shape Test, the bulb lit just as brightly with a knotted wire and a coiled wire. The metal inside the plastic was still one unbroken piece.",
    "status": "rejected",
-   "context": "This card is about whether the shape of a wire matters."
+   "context": "This card is about whether the shape of a wire matters. In the Shape Test, you coil, cross and knot the wires of a working circuit, and see if the bulb still lights."
   },
   {
    "claim": "The + end of the cell must go to the tip of the bulb, or the bulb will not light.",
@@ -168,7 +168,7 @@
    "for": "Cells in a remote only work one way round, so it seems the bulb should care too.",
    "against": "In the Which Way Round test, the bulb lit just the same with the cell turned round. A plain bulb lights either way. A remote has parts inside that need the electricity to flow one way.",
    "status": "rejected",
-   "context": "This card is about whether a bulb lights both ways round."
+   "context": "This card is about whether a bulb lights both ways round. In the Which Way Round test, you turn the cell round, so the electricity flows the other way, and see if the bulb still lights. The + end of a cell is the bump, and the − end is the flat end."
   },
   {
    "claim": "Thomas Edison invented the light bulb on his own.",
@@ -199,9 +199,9 @@
    "hint": "Think about the electrons in the wire. They are pushed round the whole ring at once."
   },
   {
-   "q": "A metro map shows which stations join, but not the real shape of the streets. Is a drawing of a circuit the same kind of map?",
+   "q": "A metro map shows which stations join, but not how the streets bend. A drawing of a circuit also shows only what joins to what. Why is that enough to build the circuit?",
    "kind": "big",
-   "hint": "Draw your circuit two ways, neat and messy. Would both drawings help someone build it?"
+   "hint": "Draw your circuit two ways, one neat and one messy. Would both drawings help someone build it?"
   },
   {
    "q": "Your nerves carry tiny electric signals from your fingers to your brain. Is your body full of circuits too?",
@@ -793,6 +793,7 @@
    "mins": 12,
    "days": 1,
    "context": "In this activity you hunt round your home for things that use electricity. You count their metal ends: on cells, bulbs and plugs. You look for a pattern.",
+   "problem": "Your bulb circuit needed two wires. One wire took the electricity to the bulb, and the other wire brought it back to the cell. Do other things that use electricity also have two metal parts? Count the metal ends on a cell, a bulb and some plugs, and see.",
    "materials": [
     {
      "item": "an AA cell, a torch bulb and a phone charger",
@@ -951,11 +952,11 @@
    "setup": [
     {
      "art": "A girl turned away with her hands over her eyes while her father secretly unscrews the bulb by one turn.",
-     "caption": "1. The finder turns away. The fixer makes one fault."
+     "caption": "1. The fixer turns away. The breaker makes one fault."
     },
     {
      "art": "The girl bending close to the circuit, pointing at the loose bulb, with a fault card face up beside it.",
-     "caption": "2. The finder says what is wrong, then fixes it."
+     "caption": "2. The fixer says what is wrong, then fixes it."
     }
    ],
    "flow": [
@@ -1199,7 +1200,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Switch off the room light and look at the lighthouse. Then unclip the cell.",
-     "say": "Switch off the light. Our lighthouse is shining. What would a ship's captain see?",
+     "say": "Switch off the light. Our lighthouse is shining. The wires inside are bent and hidden. Why does it still work?",
      "kid": "Switch off the room light. Look at your lighthouse shine.",
      "check": {
       "t": "mcq",
@@ -2099,12 +2100,12 @@
   "practice": {
    "title": "Feel the join",
    "mins": 3,
-   "say": "Sit still and close your eyes. Touch the tip of your first finger to the tip of your thumb. Your hand makes a ring. Feel the place where they meet. Now move them apart, just a hair's width. Can your finger and thumb still feel each other? Touch them again. Breathe slowly three times. Where does your finger end and your thumb begin?",
-   "kid": "Close your eyes. Touch your finger to your thumb. Your hand makes a ring. Move them apart a tiny bit. Touch again. Where does your finger end?"
+   "say": "Sit still and close your eyes. Touch the tip of your first finger to the tip of your thumb. Your hand makes a ring. Feel the place where they touch. Now move them apart, just a hair's width. The ring has a gap, like a circuit with a wire lifted off. Touch them again. The ring is whole again. Breathe slowly three times. What do you feel when the ring is whole, and what do you feel when it has a gap?",
+   "kid": "Close your eyes. Touch your finger to your thumb. Your hand makes a ring. Move them apart a tiny bit. Touch again. What is different when they touch?"
   },
   "ask": [
    "In the Shape Test, the knotted wire and the straight wire both lit the bulb. In what way were they the same?",
-   "A bulb glows only because of what it is joined to. What are you joined to?",
+   "A bulb glows only because of what it is joined to. Think of your family, your friends and the food you eat. What are you joined to?",
    "If everything is conscious, what might the electrons in a wire be aware of?"
   ],
   "art": "A child sitting cross-legged with eyes closed, finger and thumb touching in a ring, beside a glowing bulb joined by a knotted wire to a cell."

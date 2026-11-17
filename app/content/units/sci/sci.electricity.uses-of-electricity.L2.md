@@ -34,7 +34,7 @@ In the Listen to the Electricity activity, you heard the fan whirr and the fridg
 ### Mains electricity comes from a power station along wires · *defined*
 **Definition:** Mains electricity is made in power stations. It travels along wires, on poles or under the ground, to every building and then to the sockets in the walls.
 
-Every appliance with a plug gets its electricity from the wall. The wall does not make it. Wires bring it from a power station, often very far away. First come big wires on tall towers, then wires on street poles, then a wire to your building's meter box and into your wall. Power stations make electricity from coal, falling water, wind, sunlight and other fuels. In India, most of it comes from burning coal. If a wire on the way is broken, everyone after it has a power cut.
+Every appliance with a plug gets its electricity from the wall. The wall does not make the electricity. Wires bring it from a power station, often very far away. First come big wires on tall towers, then wires on street poles, then a wire to your building's meter box and into your wall. Power stations make electricity from coal, falling water, wind, sunlight and other fuels. In India, most of it comes from burning coal. If a wire on the way is broken, everyone after it has a power cut.
 - e.g. The Idukki dam in Kerala uses falling water to make electricity.
 - e.g. Near Kanyakumari in Tamil Nadu, hundreds of tall windmills make electricity from the wind.
 - e.g. At Pavagada in Karnataka, a huge field of solar panels makes electricity from sunlight.
@@ -166,7 +166,7 @@ Rahul groaned. He was getting hot. Ammamma picked up a palm-leaf fan and waved i
 
 Anju looked at her list again. 'Ammamma, your mixie needs the wall. But your mother's grinding stone needed only her arms.'
 
-'And her arms ran on breakfast,' said Ammamma.
+'And her arms got their energy from the food she ate,' said Ammamma.
 
 Just then, with a click, the fan began to turn. The lights flashed on. From every flat in the building came a cheer.
 
@@ -333,9 +333,9 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
   *Child mode:* Ask your questions. Listen well. What did they use?
   - Note: Typical answers are oil lamps or kerosene lanterns, hand fans, a grinding stone, boiling milk twice a day, and a clay pot for cool water. Some older people got electricity only as adults.
 - **s3 (5 min)**  
-  *Parent does:* Your child draws the then-and-now chart and tells you one thing that surprised them.  
-  *Parent says:* Draw each job: how it was done then, and how it is done now. What surprised you most?  
-  *Child mode:* Draw then and now. What surprised you most?
+  *Parent does:* Your child draws the then-and-now chart and says which old ways did not need electricity.  
+  *Parent says:* Draw each job: how it was done then, and how it is done now. Look at your chart. Which old way did not need electricity?  
+  *Child mode:* Draw then and now. Which old way did not need electricity?
   - Ask: Which old way did not need electricity at all? (good: The grinding stone. It needed only arms.; The hand fan.; The clay pot kept water cool.)
   - Think: Which of the old ways do people still use today?
 
@@ -530,7 +530,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - In the Tired Cell Test, 1 cell lit the torch and 5 cells ran the clock. How many more cells ran the clock than lit the torch? **4 more.**. Count on from 1 to 5: 2, 3, 4, 5. That is 4 more. So the clock could use 4 more cells than the torch. (queues `math.addition-subtraction.meaning.L2`)
 - In the Listen to the Electricity activity, a child drew 2 things in the Light box, 1 in Sound, 2 in Heat, 1 in Cold and 4 in Movement. Which job did electricity do most in that home? Make a tally chart. **Movement, with 4 things.**. Make one tally mark for each thing. Movement has 4 marks, more than any other box. So in that home, electricity made movement most often. (queues `math.data.sorting-and-tallies.L2`)
 - In the Phone Battery Race, the number went from 70 to 67 in the video test. In the resting test, it went from 71 to 70. Which test used up more of the battery, and by how much more? **The video test, by 2 more.**. The video test dropped 70 take away 67, which is 3. The resting test dropped 71 take away 70, which is 1. 3 is 2 more than 1. So the video and torch used more of the store. (queues `math.addition-subtraction.mental-strategies.L2`)
-- A torch takes 2 cells. A toy car takes 4 cells. A wall clock takes 1 cell. A family has one of each. How many cells do they need to fill all three? **7 cells.**. 2 and 4 make 6. 6 and 1 more make 7. So the family needs 7 cells. (queues `math.addition-subtraction.number-facts.L2`)
+- A torch takes 2 cells. A toy car takes 4 cells. A wall clock takes 1 cell. A family has one of each. How many cells do they need for all three? **7 cells.**. 2 and 4 make 6. 6 and 1 more make 7. So the family needs 7 cells. (queues `math.addition-subtraction.number-facts.L2`)
 
 ## Song
 Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2

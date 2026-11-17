@@ -130,7 +130,7 @@
    "context": "This card explains how a crow can sit on an electric wire and stay safe.",
    "status": "defined",
    "definition": "Electricity flows through something only when it has a path to somewhere else, such as the ground or another wire.",
-   "description": "A crow on a wire touches only that one wire. The electricity has no path through the crow to anywhere else, so it stays in the wire. A person on a ladder who touches the wire is also touching the ground. Then the electricity has a path through the person. A big bird whose wings touch two wires at once can be killed.",
+   "description": "A crow on a wire touches only that one wire. The electricity has no path through the crow to anywhere else. So the electricity stays in the wire. A person on a ladder who touches the wire is also touching the ground. Then the electricity has a path through the person. A big bird whose wings touch two wires at once can be killed.",
    "examples": [
     "Crows, pigeons and mynas sit on wires all over Indian cities.",
     "Never pull down a kite caught on a wire.",
@@ -191,7 +191,7 @@
    "for": "In homes where sockets have no shutters, a cover can stop a toddler poking a pin or a key into the holes.",
    "against": "Some safety experts in the UK say covers are not needed in sockets that already have shutters inside. A badly fitting cover can even hold the shutters open. They say shuttered sockets and watching small children work better.",
    "status": "debated",
-   "context": "This card is about a real disagreement on keeping toddlers safe."
+   "context": "This card is about a real disagreement on keeping toddlers safe. Socket shutters are small plastic doors inside a socket. They open only when both pins of a plug push in together."
   },
   {
    "claim": "Rubber chappals stop you getting a shock.",
@@ -206,7 +206,7 @@
   {
    "q": "Your body carries electricity, and your nerves send tiny electric messages. Is the electricity in you the same as the electricity in the wall?",
    "kind": "deep",
-   "hint": "Think about what is the same (it is the same force) and what is different (how strong it is, and what it does)."
+   "hint": "Think about what is the same and what is different. Both are electricity. How strong is each one, and what does each one do?"
   },
   {
    "q": "In the Dry Hands Test, your hand sometimes felt dry but the paper showed it was wet. When should we trust our feelings, and when should we test?",
@@ -257,7 +257,7 @@
    "'Each crow touches only one wire,' said Amma. 'So the electricity has no path through them, and it stays in the wire. If I stood on a ladder and touched that wire, the electricity could go through me, down the ladder, to the ground. That is the danger.'",
    "Ammamma brought in hot tea and banana fritters. 'Tell her about Lalitha,' she said.",
    "'A. Lalitha grew up in Chennai, about a hundred years ago,' said Amma. 'Her husband died when she was only eighteen, and she had a baby daughter. People told her to stay at home. Instead, she studied electrical engineering at the college in Guindy. In the 1940s she became one of the first women engineers in India. Later she worked on the electrical equipment for the great Bhakra Nangal dam.'",
-   "'Like you,' said Tara.",
+   "'Like you,' said Tara. 'You work with electricity too.'",
    "'Well, I climb the poles,' laughed Amma. 'She designed the big machines.'",
    "Just then the doorbell rang. It was Tara's cousin Kiran, who was five. He lived in the flat below. He had been jumping in puddles in the car park, and his hands and feet were soaking. He ran straight to the switch board to turn on the fan.",
    "'Stop, Kiran!' said Tara. 'Your hands are wet.'",
@@ -1171,10 +1171,10 @@
      "kid": "Read your book to a little one. Point at each picture.",
      "ask": [
       {
-       "q": "What did the little one ask?",
+       "q": "A little one asks, 'Why can't I touch the socket?' What would you say?",
        "good": [
-        "Why can't I touch the socket?",
-        "Why are crows safe?"
+        "The electricity in the wall is very strong. It can go through your body and hurt you.",
+        "It is much stronger than the electricity in a torch cell."
        ]
       }
      ]
@@ -1248,8 +1248,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Talk about the usual answers and the creative ones. Then your child plans their own corner.",
-     "say": "Here are some ideas other people use. Which do you like? Now plan your own corner.",
-     "kid": "Which idea do you like best? Now plan your own corner."
+     "say": "Here are some ideas other people use. Which one would best stop a spill from reaching a plug? Why? Now plan your own corner.",
+     "kid": "Which idea best keeps a spill away from the plugs? Now plan your own corner."
     }
    ]
   }
@@ -1840,7 +1840,7 @@
   "Where is the main switch in our home?",
   "Which things in our home run on cells, and which run on the wall?",
   "Where is the nearest place a spill could reach a plug?",
-  "If the lights went out in a storm, what would you do?"
+  "After a storm, a wire is lying in a puddle on the road. What would you do?"
  ],
  "jokes": [
   {

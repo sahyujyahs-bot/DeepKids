@@ -223,7 +223,7 @@
  ],
  "big_questions": [
   {
-   "q": "When you sit still, the Earth is still carrying you along. What does it really mean to be still?",
+   "q": "You are sitting still, but the Earth is carrying you round as it turns. So are you really still?",
    "kind": "deep",
    "hint": "Still compared with what? The floor, the Sun, or the whole sky?"
   },
@@ -270,7 +270,7 @@
    "\"Because the Sun moves across the sky,\" said Hari.",
    "\"It looks that way,\" said Ammamma. \"The Sun seems to move. But really, the Earth is turning, slowly, all day long. Our building turns with it, and so do we. So the sunlight comes in through our door at a new slant, and the patch slides across the floor.\"",
    "Hari stood very still in the middle of the room. \"I am not moving,\" he said.",
-   "Meenakshi laughed. \"You are,\" she said. \"The coin showed it. The whole room is turning, and you are in it.\"",
+   "Meenakshi laughed. \"You are,\" she said. \"The Earth is turning, and the whole room turns with it. That is why the sun patch slid away from the coin.\"",
    "After lunch, Ammamma moved her chillies to the other end of the balcony. By the evening, the patch by the balcony door was gone. A new, long patch of orange light lay across the kitchen floor. It came in through the window on the other side of the flat.",
    "Kutti was already lying in the new patch.",
    "\"How did she know it would be there?\" asked Hari.",
@@ -405,9 +405,10 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Add up the points.",
-     "say": "Which card was hardest? Why?",
-     "kid": "Which card was hardest? Why?",
+     "do": "Add up the points. Then pick a morning card and ask what the shadow will look like one hour later.",
+     "say": "Take a morning card. One hour later, will the shadow be longer or shorter? Why?",
+     "kid": "Take a morning card. An hour later, is the shadow longer or shorter? Why?",
+     "parent": "The shadow will be shorter. Through the morning the Sun climbs higher, so its light comes more from above and the shadow shrinks. It is shortest around noon.",
      "check": {
       "t": "mcq",
       "q": "A card says: your shadow is very long and points east. What time is it?",
@@ -523,9 +524,10 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Count the points. Then ask the question.",
-     "say": "Which time made the longest shadow? Which made none?",
-     "kid": "Which time made the longest shadow?",
+     "do": "Count the points. Then ask which times made the longest shadows, and which time made no shadow.",
+     "say": "Which times made the longest shadows? Which time made no shadow at all?",
+     "kid": "Which times made the longest shadows? When was there no shadow?",
+     "parent": "The longest shadows are at sunrise and sunset, when the Sun is lowest. At midnight the Sun is not in the sky, so there is no sunshine and no shadow from the Sun.",
      "check": {
       "t": "mcq",
       "q": "The caller shows the card for 4 in the afternoon. Which way should the shadow player lie?",
@@ -951,7 +953,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Look out of the east window together. Name what the Sun rises behind: a building, a hill, a tree or a water tank.",
-     "say": "The Sun rises over there. What does it come up behind? We can look out early in the morning, but never at the Sun itself, only at the buildings.",
+     "say": "The Sun rises over there. What does it come up behind? Remember it, so that you can find east any time you look out. We can look out early in the morning, but never at the Sun itself, only at the buildings.",
      "kid": "What does the Sun rise behind? A building? A tree? Say it.",
      "check": {
       "t": "mcq",
@@ -2001,8 +2003,8 @@
   "Is your shadow long or short at this moment? So where is the Sun?",
   "Which way does your shadow point on the way to school?",
   "Which room will get the evening sunshine today?",
-  "When the Sun sets here, who in India might still see it in the sky?",
-  "If we sit still for a minute, how far does the Earth carry us?",
+  "Why does the patch of sunlight in our home not stay in one place?",
+  "When we sit still, the Earth is still carrying us round. How could we tell that something is moving?",
   "Where do you think the cat will sleep after lunch?"
  ],
  "jokes": [
@@ -2236,7 +2238,7 @@
    {
     "source": "Aitareya Brahmana 3.44",
     "teaching": "The Aitareya Brahmana, an old Sanskrit text, says the Sun never really rises or sets. It says that when people think the Sun is setting, it is only making night on one side and day on the other.",
-    "link": "The Moving Sun Patch test agrees that rising and setting are not what they seem. The old text gave a different reason. We now know it is the Earth's turning that makes the Sun seem to rise and set."
+    "link": "This old text says that the Sun does not really rise or set. The Moving Sun Patch test agrees that rising and setting are not what they seem. The old text gave a different reason. Today we know that the Earth's turning makes the Sun seem to rise and set."
    },
    {
     "source": "Jain teaching of anekantavada, many-sidedness",

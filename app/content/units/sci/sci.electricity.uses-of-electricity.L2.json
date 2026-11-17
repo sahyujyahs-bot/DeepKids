@@ -88,7 +88,7 @@
    "concept": "Mains electricity comes from a power station along wires",
    "status": "defined",
    "definition": "Mains electricity is made in power stations. It travels along wires, on poles or under the ground, to every building and then to the sockets in the walls.",
-   "description": "Every appliance with a plug gets its electricity from the wall. The wall does not make it. Wires bring it from a power station, often very far away. First come big wires on tall towers, then wires on street poles, then a wire to your building's meter box and into your wall. Power stations make electricity from coal, falling water, wind, sunlight and other fuels. In India, most of it comes from burning coal. If a wire on the way is broken, everyone after it has a power cut.",
+   "description": "Every appliance with a plug gets its electricity from the wall. The wall does not make the electricity. Wires bring it from a power station, often very far away. First come big wires on tall towers, then wires on street poles, then a wire to your building's meter box and into your wall. Power stations make electricity from coal, falling water, wind, sunlight and other fuels. In India, most of it comes from burning coal. If a wire on the way is broken, everyone after it has a power cut.",
    "examples": [
     "The Idukki dam in Kerala uses falling water to make electricity.",
     "Near Kanyakumari in Tamil Nadu, hundreds of tall windmills make electricity from the wind.",
@@ -237,7 +237,7 @@
    "'No TV?' asked Rahul.",
    "'No TV,' said Ammamma, and she laughed.",
    "Anju looked at her list again. 'Ammamma, your mixie needs the wall. But your mother's grinding stone needed only her arms.'",
-   "'And her arms ran on breakfast,' said Ammamma.",
+   "'And her arms got their energy from the food she ate,' said Ammamma.",
    "Just then, with a click, the fan began to turn. The lights flashed on. From every flat in the building came a cheer.",
    "Anju drew a little plug at the top of her first list, and a little cell at the top of the second. Then she showed Rahul.",
    "'Now you know what to do in a power cut,' she said. 'Look for the things that carry their own cells.'"
@@ -273,7 +273,7 @@
    ],
    "materials": [
     {
-     "item": "old AA cells from remotes, toys, clocks or the drawer, at least 4 and 6 if you can (ask neighbours if you have none)",
+     "item": "old AA cells from remotes, toys, clocks or the drawer, at least 4 of them, and 6 if you can (ask neighbours if you have none)",
      "qty": 6
     },
     {
@@ -783,9 +783,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Your child draws the then-and-now chart and tells you one thing that surprised them.",
-     "say": "Draw each job: how it was done then, and how it is done now. What surprised you most?",
-     "kid": "Draw then and now. What surprised you most?",
+     "do": "Your child draws the then-and-now chart and says which old ways did not need electricity.",
+     "say": "Draw each job: how it was done then, and how it is done now. Look at your chart. Which old way did not need electricity?",
+     "kid": "Draw then and now. Which old way did not need electricity?",
      "ask": [
       {
        "q": "Which old way did not need electricity at all?",
@@ -1977,7 +1977,7 @@
    "why_maths": "Working out each drop lets us compare the two jobs fairly."
   },
   {
-   "problem": "A torch takes 2 cells. A toy car takes 4 cells. A wall clock takes 1 cell. A family has one of each. How many cells do they need to fill all three?",
+   "problem": "A torch takes 2 cells. A toy car takes 4 cells. A wall clock takes 1 cell. A family has one of each. How many cells do they need for all three?",
    "answer": "7 cells.",
    "explain": "2 and 4 make 6. 6 and 1 more make 7. So the family needs 7 cells.",
    "math_unit": "math.addition-subtraction.number-facts.L2",

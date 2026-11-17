@@ -110,7 +110,7 @@
    "status": "defined",
    "context": "This card is about why summer is hotter than winter.",
    "definition": "In summer, the Sun climbs higher in the sky at midday and stays up longer, so more sunlight reaches the ground each day.",
-   "description": "In summer, the Sun rises earlier and sets later, so there are more hours of sunlight. At midday it is high in the sky. In winter, the Sun stays lower and the days are shorter. Sunlight for more hours, from higher up, heats the ground and the air more.",
+   "description": "In summer, the Sun rises earlier and sets later, so there are more hours of sunlight. At midday it is high in the sky. In winter, the Sun stays lower and the days are shorter. So in summer there are more hours of sunlight each day. The Sun is also higher in the sky, so its light falls more directly on the ground. This heats the ground and the air more.",
    "examples": [
     "In May, it is still light at 6.30 in the evening in most of India. In December, it is often dark by 6.",
     "At noon in May, your shadow is very short, because the Sun is high.",
@@ -251,7 +251,7 @@
    "for": "In summer, the land does get much hotter than the sea, and the monsoon wind does blow from the sea.",
    "against": "Many weather scientists today say this is only part of the story. They say the whole belt of rain near the middle of the Earth moves north in summer, following the Sun, and India's mountains help to pull it in.",
    "status": "debated",
-   "context": "This card is about what makes the monsoon come."
+   "context": "This card is about what makes the monsoon come. A sea breeze is a wind that blows from the cooler sea onto the hotter land. The claim says the monsoon is one huge sea breeze that lasts for months."
   }
  ],
  "big_questions": [
@@ -271,9 +271,9 @@
    "hint": "What could they feel or notice: the heat, the rain, the length of the day?"
   },
   {
-   "q": "A year is one trip of the Earth round the Sun, and the seasons come back every year. Do you also have seasons in your own life?",
+   "q": "Which things do you do in only one part of the year, and which things come back every year?",
    "kind": "big",
-   "hint": "Think of things you do only in one part of the year, and things that come back."
+   "hint": "Think of festivals, foods, clothes and games. Which ones belong to one season?"
   },
   {
    "q": "Some people count three seasons, and some count six. Who is right?",
@@ -452,9 +452,10 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the points. Then ask the last question.",
-     "say": "Which trip would you most like to go on? Why? What would you see there?",
-     "kid": "Which trip do you want most? Why?",
+     "do": "Count the points. Then ask which card was hardest to guess, and what two things you need to know to guess a place's weather.",
+     "say": "Which card was hardest to guess? To guess the weather, what two things do you need to know?",
+     "kid": "Which card was hardest? What two things tell you the weather?",
+     "parent": "A good answer is the place and the month. One place has different weather in different months. Two places can also have different weather in the same month. For example, Chennai is hot in May but rainy in November, and Mumbai is rainy in August.",
      "check": {
       "t": "mcq",
       "q": "Chennai gets its big rains in November. When does Mumbai get its big rains?",
@@ -2335,5 +2336,5 @@
   "art": "Squares of coloured cloth on white snow in the sun, the black one sunk deep in a hollow and the white one on top, and beside them a desert scene with a person in a loose black robe."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. Fixed the minutes so the ice test (30) and the Damp Box (45) add up and the 15-minute look comes after a real wait, and took the flame out of the papad steps (ready-roasted or microwaved papad, with an honest note when it stays crisp). Made the papad challenge fair with a bare half to compare, removed repeated questions (Pongal, months in Mumbai, ice melted first, the T-shirt), introduced every named child at first mention, took out family members assumed in steps, and tidied jokes, a stock line and internal notes.",
- "warm": {"words": ["CLOUD", "WHITE", "BLACK", "RAINY", "WINDS"], "quiz": [["A black cloth gets hotter than a white cloth in the same sun.", true, "Black takes in most of the light and turns it to heat; white sends most back."], ["It is the same season all over India at the same time.", false, "India is big. In November Chennai gets heavy rain while Mumbai is dry."], ["The monsoon brings heavy rain because strong winds carry big clouds from the sea.", true, "The wind from the sea is full of water, and it drops that water as rain over land."], ["A peacock dances to make the rain come.", false, "He dances to show his tail to peahens, mostly in the breeding season."], ["In summer the midday Sun is higher and stays up longer, so the ground gets hotter.", true, "More sunlight reaches the ground each day when the Sun climbs high and shines for longer."], ["Summer is hottest because the Earth is nearest to the Sun.", false, "Summer is hotter because the Sun climbs higher and stays up longer, not because of distance."], ["Tamil Nadu gets a second rainy season from October, when the winds blow from the north-east.", true, "This north-east monsoon gives Tamil Nadu rain after the main monsoon has finished elsewhere."], ["Wet clothes dry faster when the air is humid.", false, "Humid air already holds a lot of water, so wet clothes dry slowly in it."], ["The seasons come back in the same order every year.", true, "A season is a part of the year with its own weather, and the order repeats."], ["Only people change with the seasons; plants and animals stay the same.", false, "Many plants flower or fruit, and many animals breed, in a particular season."]], "odd": [[["White shirt", "White wall", "Silver foil", "Black umbrella"], "Black umbrella", "White and shiny things send light back, so they stay cooler; black takes it in and gets hot."], [["Umbrella", "Raincoat", "Gumboots", "Sweater"], "Sweater", "The first three are for the rainy season; a sweater is for the cool winter."], [["Humid air", "Slow-drying clothes", "Sticky skin", "Cold dry wind"], "Cold dry wind", "The first three go with air full of hidden water; a cold dry wind has little water."], [["Frogs croaking", "Peacocks dancing", "Puddles filling", "Koel calling"], "Koel calling", "Frogs, peacocks and puddles belong to the rainy season; the koel calls in summer."], [["Sun high at midday", "Longer days", "More sunlight on the ground", "Sun low at midday"], "Sun low at midday", "The first three make summer hotter; a low midday Sun belongs to the cooler winter."]]}
+ "warm": {"words": ["CLOUD", "WHITE", "BLACK", "RAINY", "WINDS"], "quiz": [["A black cloth gets hotter than a white cloth in the same sun.", true, "Black takes in most of the light and turns it to heat; white sends most back."], ["It is the same season all over India at the same time.", false, "India is big. In November Chennai gets heavy rain while Mumbai is dry."], ["The monsoon brings heavy rain because strong winds carry big clouds from the sea.", true, "The wind from the sea is full of water, and it drops that water as rain over land."], ["A peacock dances to make the rain come.", false, "He dances to show his tail to peahens, mostly in the breeding season."], ["In summer the midday Sun is higher and stays up longer, so the ground gets hotter.", true, "More sunlight reaches the ground each day when the Sun climbs high and shines for longer."], ["Summer is hottest because the Earth is nearest to the Sun.", false, "Summer is hotter because the Sun climbs higher and stays up longer, not because of distance."], ["Tamil Nadu gets a second rainy season from October, when the winds blow from the north-east.", true, "This north-east monsoon gives Tamil Nadu rain after the main monsoon has finished elsewhere."], ["Wet clothes dry faster when the air is humid.", false, "Humid air already holds a lot of water, so wet clothes dry slowly in it."], ["The seasons come back in the same order every year.", true, "A season is a part of the year with its own weather, and the order repeats."], ["Only people change with the seasons; plants and animals stay the same.", false, "Many plants flower or fruit, and many animals breed, in a particular season."]], "odd": [[["White shirt", "White wall", "Silver foil", "Black umbrella"], "Black umbrella", "White and shiny things send light back, so they stay cooler. Black takes light in and gets hot."], [["Umbrella", "Raincoat", "Gumboots", "Sweater"], "Sweater", "The first three are for the rainy season. A sweater is for the cool winter."], [["Humid air", "Slow-drying clothes", "Sticky skin", "Cold dry wind"], "Cold dry wind", "The first three go with air that holds a lot of water you cannot see. A cold dry wind holds very little water."], [["Frogs croaking", "Peacocks dancing", "Puddles filling", "Koel calling"], "Koel calling", "Frogs, peacocks and puddles belong to the rainy season. The koel calls in summer."], [["Sun high at midday", "Longer days", "More sunlight on the ground", "Sun low at midday"], "Sun low at midday", "The first three make summer hotter. A low midday Sun belongs to the cooler winter."]]}
 }

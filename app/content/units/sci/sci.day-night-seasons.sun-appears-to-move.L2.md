@@ -20,7 +20,7 @@
 - **Shadow**: A shadow is the darker patch where light cannot reach, because something is in the way. *e.g.* Under a neem tree on a sunny day, there is a cool shadow on the ground.
 - **East**: East is the side of the sky where the Sun rises in the morning. *e.g.* If the morning sunlight comes in through your bedroom window, that window looks east.
 - **West**: West is the side of the sky where the Sun sets in the evening. It is opposite east. *e.g.* If the evening sunlight comes into your kitchen, the kitchen window looks west.
-- **Appears**: Something appears to happen when it looks as if it happens, even if the real reason is different. *e.g.* From a moving train, the trees appear to rush backwards. Really, the train is moving.
+- **Appears**: Something appears to happen when it looks as if it is happening, even if something else is really going on. *e.g.* From a moving train, the trees appear to rush backwards. Really, the train is moving.
 - **Rotate**: To rotate means to spin or turn round. The Earth rotates once every day. *e.g.* A top rotates on the floor. The Earth rotates too, but so smoothly that we do not notice it.
 - **Sun patch**: A sun patch is the bright shape that sunlight makes on a floor or wall when it comes in through a window or a door. *e.g.* In the morning, a cat often lies in the sun patch by the balcony door.
 - **Sundial**: A sundial is a clock that tells the time from the shadow made by the Sun. *e.g.* At Jantar Mantar in Jaipur, a huge stone sundial shows the time with the shadow of a tall wall.
@@ -78,11 +78,11 @@ Honeybees use the Sun to find their way back to flowers, and change direction as
 - Never look straight at the Sun, because its light can hurt the back of your eyes. *How we know:* Eye doctors see damage from looking at the Sun, often after people watch an eclipse without safe glasses.
 
 ## How we found out
-**Aristarchus of Samos, a Greek astronomer; Seleucus of Seleucia, on the river Tigris; Aryabhata in India; later Nicolaus Copernicus in Poland, About 2,300 years ago for Aristarchus, about 2,150 years ago for Seleucus, about 1,500 years ago for Aryabhata, and 1543 for Copernicus.** For a very long time, most people thought the Earth stood still and the Sun travelled round it once a day. It really does look that way. About 2,300 years ago, a Greek astronomer called Aristarchus of Samos said that the Earth turns, and also goes round the Sun. Seleucus, who lived in Seleucia on the river Tigris, in what is now Iraq, agreed with him. Almost nobody else did. About 1,500 years ago in India, Aryabhata wrote that the Earth turns. He said the stars only seem to move west, like still trees that seem to move backwards when you sit in a boat. In 1543, Nicolaus Copernicus in Poland wrote a book with the Sun in the middle. Later, careful tests with telescopes and pendulums showed that the Earth really does turn. These thinkers were right, though most people around them did not believe it.  
+**Aristarchus of Samos, a Greek astronomer; Seleucus of Seleucia, on the river Tigris; Aryabhata in India; later Nicolaus Copernicus in Poland, About 2,300 years ago for Aristarchus, about 2,150 years ago for Seleucus, about 1,500 years ago for Aryabhata, and 1543 for Copernicus.** For a very long time, most people thought the Earth stood still and the Sun travelled round it once a day. It really does look that way. About 2,300 years ago, a Greek astronomer called Aristarchus of Samos said that the Earth turns, and also goes round the Sun. Seleucus, who lived in Seleucia on the river Tigris, in what is now Iraq, agreed with him. Almost nobody else did. About 1,500 years ago in India, Aryabhata wrote that the Earth turns. He said the stars only seem to move west, like still trees that seem to move backwards when you sit in a boat. In 1543, Nicolaus Copernicus in Poland wrote a book that put the Sun, not the Earth, in the middle. Later, careful tests with telescopes and pendulums showed that the Earth really does turn. These thinkers were right, though most people around them did not believe it.  
 *What people believed before:* That the Earth stands still and the Sun travels round it every day. It looks that way from the ground, but later evidence from telescopes, pendulums and photos from space showed that the Earth turns.
 
 ## Challenging perspectives
-- **The Sun travels round the Earth once every day.** (Most people for thousands of years, and the first idea of most children; *rejected*)  
+- **The Sun travels round the Earth once every day.** (Most people for thousands of years, and most children at first; *rejected*)  
   For: It really does look that way. The Sun rises, crosses the sky and sets, and the ground does not seem to move.  
   Against: The Earth turns once a day, and that makes the Sun seem to move. Swinging pendulums, photos from space, and the way all the stars wheel across the night sky together show it.
 - **At noon, there is no shadow at all.** (A common idea; *rejected*)  
@@ -105,19 +105,19 @@ We have watched a sun patch creep across the floor, and our own shadows change f
 
 One turning of the Earth makes the whole day. It brings the sunrise to Kohima first, and to Kochi a little later. It makes long morning shadows, short noon shadows and long evening shadows from the same Sun. Morning, noon and evening are not three different things. They are one movement, seen at different moments.
 
-- **Aitareya Brahmana 3.44:** The Aitareya Brahmana, an old Sanskrit text, says the Sun never really rises or sets. It says that when people think the Sun is setting, it is only making night on one side and day on the other. (Your sun patch test agrees that rising and setting are not what they seem. The old text gave a different reason. We now know it is the Earth's turning that makes the Sun seem to rise and set.)
+- **Aitareya Brahmana 3.44:** The Aitareya Brahmana, an old Sanskrit text, says the Sun never really rises or sets. It says that when people think the Sun is setting, it is only making night on one side and day on the other. (This old text says that the Sun does not really rise or set. The Moving Sun Patch test agrees that rising and setting are not what they seem. The old text gave a different reason. Today we know that the Earth's turning makes the Sun seem to rise and set.)
 - **Jain teaching of anekantavada, many-sidedness:** Jain teachers say that a thing can be truly described in more than one way, depending on where you stand. They tell of blind men who each touch one part of an elephant and each describe the elephant differently. (From the ground, the Sun moves across the sky. From space, the Earth turns. Both describe the same day, from two places.)
-- **Heraclitus, fragment 91 (Diels-Kranz numbering):** Heraclitus, a Greek thinker who lived about 2,500 years ago, said you cannot step into the same river twice, because new water is always flowing past. (Your floor looked as still as a calm pond. Yet it was always moving with the Earth. Even things that look still are on the move.)
+- **Heraclitus, fragment 91 (Diels-Kranz numbering):** Heraclitus, a Greek thinker who lived about 2,500 years ago, said you cannot step into the same river twice, because new water is always flowing past. (Your floor looks still. Yet it is always moving with the Earth. Like the river, even things that look still are on the move.)
 - Science (settled): The Earth turns once a day. In most of India, the ground carries you east at about 1,500 kilometres an hour, faster than a jet plane.
 - Science (settled): Young sunflower plants follow the Sun across the sky by day and turn back east at night. An inner clock helps them get ready for the sunrise.
-- Other view, Some physicists and philosophers: Movement is always measured against something else. So from the ground, it is fair to say the Sun moves across the sky. Saying the Earth turns is chosen because it explains the Sun, the stars and the seasons together, most simply.
+- Other view, Some physicists and philosophers: Movement is always measured against something else. So from the ground, it is fair to say the Sun moves across the sky. Scientists choose to say the Earth turns because that one idea explains the Sun, the stars and the seasons together, most simply.
 - Practice, Sit in the Sun Patch (3 min): Sit at the edge of a sun patch, with your toes just touching its corner. Close your eyes. Feel the warmth on your toes. Breathe in slowly, and out slowly, ten times. Now open your eyes. Is the corner still touching your toes? You sat still. What moved?
-- Ask: You sat still, yet the patch moved. What else around you might be moving that you do not notice?
+- Ask: In Sit in the Sun Patch, you sat still, yet the patch moved. What else around you might be moving that you do not notice?
 - Ask: From the ground the Sun moves, and from space the Earth turns. Which way of saying it feels true to you, and why?
 - Ask: Kutti the cat moves to stay in the sunshine. How do you think she knows where it will go next?
 
 ## Deep and big questions
-- *deep:* You were sitting still, yet the Earth was carrying you along. What does it really mean to be still? (hint: Still compared with what? The floor, the Sun, or the whole sky?)
+- *deep:* You are sitting still, but the Earth is carrying you round as it turns. So are you really still? (hint: Still compared with what? The floor, the Sun, or the whole sky?)
 - *big:* From the ground, the Sun moves. From space, the Earth turns. Is one of these more true than the other? (hint: Both describe the same day. Which one explains more things at once?)
 - *deep:* Why don't we notice the Earth turning, when it carries us so fast? (hint: Think about a smooth train ride with your eyes closed.)
 - *big:* Long ago, people told the time from shadows. Now we use clocks. What else could you tell from the Sun if you watched it every day? (hint: Think of seasons, directions and sleep.)
@@ -158,7 +158,7 @@ Ammamma came in from the balcony. "Come and see," she said. "But never look at t
 
 Hari stood very still in the middle of the room. "I am not moving," he said.
 
-Meenakshi laughed. "You are," she said. "The coin showed it. The whole room is turning, and you are in it."
+Meenakshi laughed. "You are," she said. "The Earth is turning, and the whole room turns with it. That is why the sun patch slid away from the coin."
 
 After lunch, Ammamma moved her chillies to the other end of the balcony. By the evening, the patch by the balcony door was gone. A new, long patch of orange light lay across the kitchen floor. It came in through the window on the other side of the flat.
 
@@ -177,7 +177,7 @@ Kutti was already lying in the new patch.
 
 ## Games
 ### g1 · Morning, Noon or Evening? Shadow clue cards (12 min)
-- **rules:** Mix the cards and put them face down in a pile.; The first player takes the top card and reads it aloud, or a grown-up reads it.; The player says morning, noon or evening.; Then they give a reason. Turn the card over to check.; 1 point for the right time. 1 more point for a good reason.; Take turns until the pile is finished. The player with the most points wins.
+- **rules:** Mix the cards and put them face down in a pile.; The first player takes the top card and reads it aloud, or a grown-up reads it.; The player says morning, noon or evening.; Then they give a reason. Turn the card over to check.; Score 1 point for the right time, and 1 more point for a good reason.; Take turns until the pile is finished. The player with the most points wins.
 - **Printable cards: 12 clue cards to cut out, with the answer on the back:** Your shadow is very long and points west. (back: Morning. The Sun is low in the east, so the shadow is long and points the other way, west.); Your shadow is tiny and hides round your feet. (back: Noon. The Sun is high, so the shadow is short.); Your shadow is very long and points east. (back: Evening. The Sun is low in the west, so the shadow points east.); The sunlight comes in sideways through the east window. (back: Morning. The Sun is low on the east side.); The coconut tree's shadow is a small dark circle under the tree. (back: Noon. The Sun is nearly overhead.) [picture]; The orange sunlight comes in through the west window. (back: Evening. The Sun is low on the west side.); The shadow of the water tank stretches right across the terrace, towards the west. (back: Morning. A long shadow pointing west means a low Sun in the east.); Your shadow walks in front of you as you walk east. (back: Evening. The Sun is behind you, in the west, so your shadow is in front.); You must stand under the umbrella's middle to stay in its shade. (back: Noon. The Sun is high, so the shade is just under the umbrella.); The building's long shadow covers the whole road, on the east side. (back: Evening. The Sun is low in the west, so the shadow falls to the east.); A grandmother puts her chillies out where the first sunshine of the day reaches the balcony. (back: Morning. The first sunshine of the day comes from the east.); A bottle on the terrace has almost no shadow at all, in Bengaluru, in late April. (back: Noon, on Zero Shadow Day. The Sun is straight overhead.)
 - **Printable score sheet: Score sheet:** Player name; Right answers; Good reasons; Total points
 - **s1 (2 min)**  
@@ -188,15 +188,16 @@ Kutti was already lying in the new patch.
   *Parent does:* 1. Players take turns to read a card and answer. 2. Ask for a reason every time. 3. Keep the score.  
   *Parent says:* Is it morning, noon or evening? How do you know?  
   *Child mode:* Read the card. Morning, noon or evening? How do you know?
-  - Note: The reasons matter more than the guesses. Listen for: long means low Sun, short means high Sun, and the shadow points away from the Sun.
+  - Note: The reasons matter more than the guesses. Listen for these ideas: a long shadow means a low Sun, a short shadow means a high Sun, and a shadow points away from the Sun.
 - **s3 (1 min)**  
-  *Parent does:* Add up the points.  
-  *Parent says:* Which card was hardest? Why?  
-  *Child mode:* Which card was hardest? Why?
+  *Parent does:* Add up the points. Then pick a morning card and ask what the shadow will look like one hour later.  
+  *Parent says:* Take a morning card. One hour later, will the shadow be longer or shorter? Why?  
+  *Child mode:* Take a morning card. An hour later, is the shadow longer or shorter? Why?
+  - Note: The shadow will be shorter. Through the morning the Sun climbs higher, so its light comes more from above and the shadow shrinks. It is shortest around noon.
   - Check: A card says: your shadow is very long and points east. What time is it? → **Evening**
 ### g2 · Be My Shadow: a moving game (10 min)
-- **rules:** Tape the EAST sign on one wall and the WEST sign on the opposite wall. For the game, pretend these walls are east and west. Clear a space on the floor.; Play in pairs. One player stands in the middle of the room as the person. The other is the shadow. With 2 players, that is the whole game. With 4 players, two pairs take turns while the others watch.; The person turns over the top time card, looks at the front only, and holds the paper Sun from activity a5 (or a yellow plate) in the right place for that time.; The shadow player lies or curls on the floor from the person's feet, the right length and pointing the right way. At midnight, the shadow player hides.; The person reads the back of the card aloud. If the shadow is right, the pair gets 1 point.; Swap jobs after every two cards. The game ends when all 8 cards are used. With 2 players, try to get all 8 right together. With 4 players, the pair with more points wins.
-- **Printable cards: 8 time cards for the caller, with where the Sun is on the back:** Sunrise (back: The Sun is very low, by the East sign. The shadow is very long and points to West.); 8 in the morning (back: The Sun is low in the east. The shadow is long and points west.); 10 in the morning (back: The Sun is higher in the east. The shadow is shorter, pointing west.); Noon (back: The Sun is high overhead. The shadow curls up at the person's feet.); 2 in the afternoon (back: The Sun is a little way towards the west. The shadow is short and points east.); 4 in the afternoon (back: The Sun is lower in the west. The shadow is longer, pointing east.); Sunset (back: The Sun is very low, by the West sign. The shadow is very long and points to East.); Midnight (back: There is no Sun in the sky. No sunshine, so no Sun shadow at all. The shadow player hides.)
+- **rules:** Tape the EAST sign on one wall and the WEST sign on the opposite wall. For the game, pretend these walls are east and west. Clear a space on the floor.; Play in pairs. One player stands in the middle of the room as the person. The other is the shadow. With 2 players, that is the whole game. With 4 players, two pairs take turns while the others watch.; The person turns over the top time card, looks at the front only, and holds the paper Sun from the activity The Sun on a Stick (or a yellow plate) in the right place for that time.; The shadow player lies down or curls up on the floor, starting at the person's feet. They must be the right length and point the right way. At midnight, the shadow player hides.; The person reads the back of the card aloud. If the shadow is right, the pair gets 1 point.; Swap jobs after every two cards. The game ends when all 8 cards are used. With 2 players, try to get all 8 right together. With 4 players, the pair with more points wins.
+- **Printable cards: 8 time cards for the caller, with where the Sun is on the back:** Sunrise (back: The Sun is very low, by the East sign. The shadow is very long and points to West.); 8 in the morning (back: The Sun is low in the east. The shadow is long and points west.); 10 in the morning (back: The Sun is higher in the east. The shadow is shorter, pointing west.); Noon (back: The Sun is high overhead. The shadow curls up at the person's feet.); 2 in the afternoon (back: The Sun is a little way towards the west. The shadow is short and points east.); 4 in the afternoon (back: The Sun is lower in the west. The shadow is longer, pointing east.); Sunset (back: The Sun is very low, by the West sign. The shadow is very long and points to East.); Midnight (back: There is no Sun in the sky, so there is no sunshine and no shadow from the Sun. The shadow player hides.)
 - **Printable cards: 2 signs for the walls:** EAST; WEST
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Tape up the signs. 2. Move furniture so there is space on the floor. 3. Choose who stands and who is the shadow.  
@@ -206,19 +207,20 @@ Kutti was already lying in the new patch.
 - **s2 (7 min)**  
   *Parent does:* 1. The person turns over a time card and holds the paper Sun in the right place. 2. The shadow player moves. 3. Read the back to check.  
   *Parent says:* Eight in the morning! The Sun is here, low by East. Shadow, where do you go? How long are you?  
-  *Child mode:* Look where the Sun is. Lie the right way. Long or short?
+  *Child mode:* Look where the Sun is. Lie down pointing the right way. Should you be long or short?
   - Ask: Why did the shadow curl up at noon? (good: Because the Sun is high, so the shadow is short.; The light comes from above.)
 - **s3 (1 min)**  
-  *Parent does:* Count the points. Then ask the question.  
-  *Parent says:* Which time made the longest shadow? Which made none?  
-  *Child mode:* Which time made the longest shadow?
+  *Parent does:* Count the points. Then ask which times made the longest shadows, and which time made no shadow.  
+  *Parent says:* Which times made the longest shadows? Which time made no shadow at all?  
+  *Child mode:* Which times made the longest shadows? When was there no shadow?
+  - Note: The longest shadows are at sunrise and sunset, when the Sun is lowest. At midnight the Sun is not in the sky, so there is no sunshine and no shadow from the Sun.
   - Check: The caller shows the card for 4 in the afternoon. Which way should the shadow player lie? → **Pointing towards the East sign**
 
 ## Experiments
 ### e1 · The Moving Sun Patch: does sunlight on the floor stay still? (30 min)
 - **question:** If nobody touches the window or the curtain, does a patch of sunlight on the floor stay in the same place?
 - **predict:** Guess first. In 20 minutes, will the sun patch stay still, or move? If it moves, which way will it go? Why do you think so?
-- **fair test:** Nobody touches the window, the door or the curtain during the test. We always mark the same corner of the patch. We mark it every 5 minutes by the clock, so the gaps are the same. The same child's fingers count the finger widths.
+- **fair test:** Nobody touches the window, the door or the curtain during the test. We always mark the same corner of the patch. We mark it every 5 minutes by the clock, so the gaps are the same. The same child measures in finger widths every time.
 - **safety:** Never look straight at the Sun. Look only at the patch of light on the floor.
 - **record:** Fill in the table. Draw the patch with five small numbered dots at its corner, from mark 1 to mark 5.
 - **results table:** Clock time | Mark number | Finger widths from the first mark
@@ -229,7 +231,7 @@ Kutti was already lying in the new patch.
   - Ask: Why do you think so? (good: It will stay, because the window is not moving.; It will move, because the Sun moves.; It will move a little, because the shadows change in the day.)
   - Note: Any guess with a reason is a good start. Do not explain anything yet. If a curtain makes the edge fuzzy, use the sharp shadow of one grill bar or the window frame instead.
 - **s2 (2 min)**  
-  *Parent does:* 1. Put coin 1 exactly at the corner. 2. Write the time and mark 1 in the table.  
+  *Parent does:* 1. Put coin 1 exactly at the corner. 2. Write the time next to mark 1 in the table.  
   *Parent says:* Put this coin right at the corner of the patch. What is the time now? Write it next to mark 1.  
   *Child mode:* Put coin 1 right at the corner. Tell your grown-up the time to write down.
 - **s3 (20 min)**  
@@ -242,10 +244,10 @@ Kutti was already lying in the new patch.
 - **s4 (5 min)**  
   *Parent does:* 1. Count the finger widths from coin 1 to coin 5. 2. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Count the finger widths from the first coin to the last. Nobody touched the window. So what made the patch move?  
-  *Child mode:* Count the fingers from coin 1 to coin 5. What made the patch move?
-  - Ask: What do you think, and what did you see? (good: The patch moved, even though nobody touched the window.; It moved the same way every time.; The sunlight is coming in at a new slant, because the Sun seems to move.)
-  - Note: Let your child give a reason before you explain. Then read the card about why the Sun seems to move: the Earth, with your home on it, is turning.
-  - Check: Lakshmi, a girl in Class 2, marks a sun patch every 5 minutes. Nobody touches the window. What will she see? → **The patch moves a little each time**
+  *Child mode:* Count the finger widths from coin 1 to coin 5. What made the patch move?
+  - Ask: What did you see? What do you think made the patch move? (good: The patch moved, even though nobody touched the window.; It moved the same way every time.; The sunlight is coming in at a new slant, because the Sun seems to move.)
+  - Note: Let your child give a reason before you explain. Then read the card "Why the Sun seems to move: the Earth turns". It says that the Earth, with your home on it, is turning.
+  - Check: You mark a sun patch every 5 minutes. Nobody touches the window. What will you see? → **The patch moves a little each time**
 ### e2 · Shadow Footsteps: how long is your shadow in the morning, at noon and in the evening? (on a sunny terrace or in the building compound) (20 min)
 - **question:** Is your shadow the same length all day, or does it change between morning, noon and evening?
 - **predict:** Guess first. When will your shadow be longest: in the morning, at noon or in the evening? When will it be shortest? Why do you think so?
@@ -255,11 +257,11 @@ Kutti was already lying in the new patch.
 - **results table:** Time | My guess: long or short? | My shadow in footsteps | It points towards
 - **s1 (3 min)**  
   *Parent does:* 1. Draw the results table. 2. Ask for a guess and a reason for each time of day.  
-  *Parent says:* We will count your shadow three times today: morning, noon and evening. When will it be longest? Why do you think so?  
+  *Parent says:* We will measure your shadow in footsteps three times today: morning, noon and evening. When will it be longest? Why do you think so?  
   *Child mode:* When will your shadow be longest? Morning, noon or evening? Why?
   - Note: This test needs an open sunny place. A grown-up fills in the table. If you have no open sunny place, skip this test or do it at a park or on a relative's terrace.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* 1. At about 8 in the morning, mark a spot with chalk. 2. Your child stands on it. 3. Put a stone where the shadow of the head ends. 4. Your child walks heel to toe from the cross to the stone and counts. 5. Note a building or tree the shadow points at.  
+  *Parent does:* 1. At about 8 in the morning, draw a cross on the ground with chalk. 2. Your child stands on the cross. 3. Put a stone where the shadow of the head ends. 4. Your child walks heel to toe from the cross to the stone and counts the footsteps. 5. Note a building or tree the shadow points at.  
   *Parent says:* Stand on the cross and keep still. I will put a stone where your shadow ends. Now walk from the cross to the stone, heel to toe, and count. What is the shadow pointing at?  
   *Child mode:* Stand on the cross. Keep still. Then walk to the stone, heel to toe, and count your steps.
   - Note: A child's shadow at 8 in the morning is often 8 to 15 of the child's own footsteps. The exact number depends on the month and the city.
@@ -280,7 +282,7 @@ Kutti was already lying in the new patch.
   *Parent does:* Look at the table together. Ask what your child thinks, what they saw and why.  
   *Parent says:* Your body was the same height all day. What changed your shadow?  
   *Child mode:* You did not grow or shrink. So why did your shadow change?
-  - Check: Rani, a girl in Class 2, finds her shadow is 12 footsteps long in the morning. What is it likely to be at noon? → **About 2 footsteps**
+  - Check: Your shadow is 12 footsteps long in the morning. What is it likely to be at noon? → **About 2 footsteps**
 
 ## Activities
 ### a1 · Sunny Rooms: where is the sunlight coming in now? (10 min)
@@ -299,7 +301,7 @@ Kutti was already lying in the new patch.
   *Parent says:* It is afternoon now. Guess first: will the sunshine be in the same rooms as this morning? Now let us check.  
   *Child mode:* Guess first. Is the sunshine in the same rooms now? Go and check.
   - Note: If your home gets no direct sunlight, look at the building opposite instead: which side of it is lit in the morning, and which in the afternoon?
-  - Check: Ishaan, a boy in Class 2, lives in a flat where morning sunlight comes in through the bedroom window. Where is the evening sunlight most likely to come in? → **A window on the other side of the flat**
+  - Check: In a flat, the morning sunlight comes in through the bedroom window. Where is the evening sunlight most likely to come in? → **A window on the other side of the flat**
   - Wait: Come back in the afternoon
 ### a2 · Find East and West from Your Home (10 min)
 - **record:** Two signs on your walls, East and West, and a sentence: The Sun rises over ___ and sets over ___.
@@ -314,10 +316,10 @@ Kutti was already lying in the new patch.
   *Child mode:* Tape up the East sign. West goes on the opposite side.
 - **s3 (3 min)**  
   *Parent does:* Look out of the east window together. Name what the Sun rises behind: a building, a hill, a tree or a water tank.  
-  *Parent says:* The Sun rises over there, behind something. What is it? Do not look at the Sun. Look early in the morning, or at the buildings.  
+  *Parent says:* The Sun rises over there. What does it come up behind? Remember it, so that you can find east any time you look out. We can look out early in the morning, but never at the Sun itself, only at the buildings.  
   *Child mode:* What does the Sun rise behind? A building? A tree? Say it.
   - Note: Sunrise is roughly east, not exactly. Over the year, it slides a little north and south. Roughly east is all your child needs.
-  - Check: Farhan, a boy in Class 2, puts his East sign on his bedroom wall. Where should his West sign go? → **On the opposite wall**
+  - Check: You put your East sign on your bedroom wall. Where should your West sign go? → **On the opposite wall**
 ### a3 · Draw the Sun's Path from Your Window (12 min)
 - **safety:** Never look straight at the Sun. Use the shadows to find where it is.
 - **record:** A drawing of your view with three yellow suns, each with its time, joined by a curved arrow.
@@ -333,8 +335,8 @@ Kutti was already lying in the new patch.
   *Parent does:* 1. Come back around noon and in the afternoon. 2. Mark the Sun each time. 3. Join the three suns with a curved arrow.  
   *Parent says:* Before you draw, guess: will the Sun be higher or lower than this morning? Now draw it. Join your suns with a curve.  
   *Child mode:* Guess first. Higher or lower? Draw the new sun. Join the suns.
-  - Note: Around noon in most of India, the Sun is very high, so draw it near the top of the paper. Do not lean over the balcony railing to look up. The pattern is low, high, low.
-  - Check: Tanvi, a girl in Class 2, drew the Sun at 9 in the morning and at noon. Where will her 3 o'clock sun go? → **Lower down, on the other side from the morning sun**
+  - Note: Around noon in most of India, the Sun is very high, so draw it near the top of the paper. Do not lean over the balcony railing to look up. The pattern to look for is: low in the morning, high at noon, low in the afternoon.
+  - Check: You drew the Sun at 9 in the morning and at noon. Where will your 3 o'clock sun go? → **Lower down, on the other side from the morning sun**
   - Wait: Come back around noon, then in the afternoon
 ### a4 · Who Follows the Sun at Home? Ask the family (12 min)
 - **record:** A small table: who you asked, what they dry or keep in the sun, and when they move it.
@@ -352,7 +354,7 @@ Kutti was already lying in the new patch.
   *Parent says:* Why do people need to move their drying things? What does that tell us about the sunshine?  
   *Child mode:* Why do people move their drying things?
   - Ask: Why do people move them? (good: Because the sunshine moves to another place.; Because the Sun seems to move across the sky, so the shadows move too.)
-  - Check: Selvi, a woman who lives in a flat, puts her washing in a sunny corner of the terrace at 9 in the morning. At 3 in the afternoon, the corner is in shade. Why? → **The Sun has moved across the sky, so the shadows have moved**
+  - Check: At 9 in the morning, washing is put in a sunny corner of the terrace. At 3 in the afternoon, the corner is in shade. Why? → **The Sun has moved across the sky, so the shadows have moved**
 ### a5 · The Sun on a Stick: show the path from sunrise to sunset (10 min)
 - **record:** A drawing of the arch your Sun travelled, with the times written along it.
 - **s1 (3 min)**  
@@ -368,14 +370,14 @@ Kutti was already lying in the new patch.
   *Parent does:* Ask your child where their own shadow would be for two of the times.  
   *Parent says:* If the Sun is here, low by the East sign, where would your shadow point?  
   *Child mode:* The Sun is by the East sign. Where does your shadow point?
-  - Check: Meena, a girl in Class 2, holds her paper Sun low, near the West sign. What time of day is she showing? → **Evening**
+  - Check: You hold your paper Sun low, near the West sign. What time of day are you showing? → **Evening**
 
 ## Projects
 ### p1 · The Floor Clock: make a sun patch tell the time (30 min, 2 days)
-- **record:** A photo or drawing of the floor clock with its time strips, and a table: my guess from the floor clock, the real time.
+- **record:** A photo or drawing of the floor clock with its time strips, and a table with two columns: my guess from the floor clock, and the real time.
 - **schedule:** day 1: Every half hour for two hours, stick a strip at the same corner of the sun patch and write the time on it. Each mark takes about 2 minutes. (15 min); day 2: Without looking at a clock, guess the time from where the patch corner is. Then check the clock. Do it three or four times. (15 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Pick a sun patch that lasts at least two hours. 2. Choose one sharp corner. 3. Cut 5 strips.  
+  *Parent does:* 1. Pick a sun patch that lasts at least two hours. 2. Choose one sharp corner. 3. Cut 5 strips of paper or masking tape.  
   *Parent says:* We are going to turn this sun patch into a clock. Which corner has the sharpest edge?  
   *Child mode:* Pick the sharpest corner of the sun patch.
 - **s2 (10 min)**  
@@ -394,7 +396,7 @@ Kutti was already lying in the new patch.
   *Parent says:* Was your floor clock right? Why does a sun patch work like a clock?  
   *Child mode:* Was your floor clock right? Why does it work?
   - Note: Over a few weeks, the patch drifts a little, because the Sun's path changes with the seasons. Over two days, the floor clock is usually right to within a few minutes.
-  - Check: Leela, a girl in Class 2, made a floor clock. It worked on Monday and on Tuesday. Why can a sun patch tell the time? → **The Sun seems to move across the sky the same way every day**
+  - Check: A floor clock worked on Monday and again on Tuesday. Why can a sun patch tell the time? → **The Sun seems to move across the sky the same way every day**
 
 ## Challenges
 ### c1 · Shade for a Toy, All Day Long (20 min)
@@ -416,7 +418,7 @@ Kutti was already lying in the new patch.
   *Parent does:* Ask your child which torch place was hardest, and why.  
   *Parent says:* Which Sun was hardest to block: morning, noon or evening? Why?  
   *Child mode:* Which Sun was hardest to block? Why?
-  - Check: Divya, a girl in Class 2, puts a flat roof over her toy. When does the torch Sun still shine on the toy? → **When the torch is low at one side**
+  - Check: You put a flat roof over the toy. When does the torch still shine on the toy? → **When the torch is low at one side**
 
 ## Worksheets
 ### The Sun's path and our shadows (core) (core, 10 questions)
@@ -435,18 +437,18 @@ Kutti was already lying in the new patch.
    **Answer:** ['low in the east', 'highest in the sky', 'low in the west']. *Why:* The Sun seems to rise in the east, climb to its highest around noon, then sink and set in the west.
 7. (truefalse) True or false: the shadow of a tree points towards the Sun.  
    **Answer:** False. *Why:* False. A shadow falls on the side away from the Sun, so it points away from the Sun.
-8. (write) Remember the Moving Sun Patch test. Say it, and a grown-up writes it down: what happened to the corner of the patch?  
+8. (write) In the Moving Sun Patch test, you put a coin at the corner of the sun patch every 5 minutes. What happened to the corner? Say your answer, and a grown-up writes it down.  
    **Answer:** The corner moved a little further from the first coin every 5 minutes, though nobody touched the window.. *Why:* A strong answer says the patch moved by itself and steadily, and names the way it went.
 9. (label) Label the picture: sunrise, noon, sunset, east, west.  
    **Answer:** ['sunrise: the low Sun on the left', 'noon: the high Sun in the middle', 'sunset: the low Sun on the right', 'east: the left edge of the sky', 'west: the right edge of the sky']. *Why:* These are the main places on the Sun's daily path.
 10. (sort) Sort these into: safe ways to find the Sun, and not safe.  
    **Answer:** looking at a shadow → Safe; looking at the Sun through sunglasses → Not safe; feeling which cheek is warm, with eyes closed → Safe; staring at the Sun for one second → Not safe; seeing which wall is brightly lit → Safe. *Why:* Sunlight is strong enough to hurt the back of the eye, even through sunglasses. Shadows, warmth and lit walls show where the Sun is without looking at it.
 ### The Sun's path and our shadows (stretch) (stretch, 10 questions)
-1. (mcq) Gauri, a girl in Class 2, sees that her shadow points west and is very long. Is it morning or evening?  
+1. (mcq) Your shadow points west and is very long. Is it morning or evening?  
    Options: Morning / Evening / Noon  
    **Answer:** Morning. *Why:* A shadow points away from the Sun. Pointing west means the Sun is in the east, low down. A low Sun in the east means morning.
 2. (perspective) Three friends are arguing about the Sun's path.  
-   **Answer:** A strong answer picks a side and uses evidence. Kavya is right about what we see. Nila is right about why: the Earth turns. Arjun is right that we cannot tell it from the ground.. *Why:* Scientists agree the Earth turns, and that explains the sky most simply. But from the ground, the Sun really does appear to move. Each friend sees part of it.
+   **Answer:** A strong answer picks a side and uses evidence. The first person is right about what we see. The second person is right about why: the Earth turns. The third person is right that we cannot tell it from the ground.. *Why:* Scientists agree the Earth turns, and that explains the sky most simply. But from the ground, the Sun really does appear to move. Each friend sees part of it.
 3. (truefalse) True or false: if you sit very still on the floor, you are not moving at all.  
    **Answer:** False. *Why:* False. The Earth turns all the time and carries you, your home and the floor with it. The moving sun patch shows it.
 4. (draw) Draw a tree and the tree's shadow in the morning. Then draw the same tree and the shadow in the evening. Draw the Sun each time.  
@@ -462,15 +464,15 @@ Kutti was already lying in the new patch.
    **Answer:** away. *Why:* Light cannot get through the thing in the way, so the dark patch falls on the side away from the Sun.
 9. (sort) Sort these times into: long shadow, and short shadow.  
    **Answer:** 7 in the morning → Long shadow; 12 o'clock noon → Short shadow; 5 in the evening → Long shadow; 1 o'clock in the afternoon → Short shadow; 8 in the morning → Long shadow. *Why:* The lower the Sun, the longer the shadow. Early morning and evening are long, and around noon is short.
-10. (order) Put these parts of the story Kutti Follows the Sunshine in order.  
-   **Answer:** ['Meenakshi puts a coin at the corner of the sun patch.', 'Meenakshi carries Kutti to the sofa.', 'The bright corner has moved away from the coin.']. *Why:* The coin marks the corner first. Then Kutti is moved away, and the corner still moves, so Kutti did not move it.
+10. (order) You want to find out whether the sun patch on the floor moves by itself. Put the steps in order.  
+   **Answer:** ['Put a coin at the corner of the sun patch.', 'Wait a while and touch nothing.', 'See whether the bright corner has moved away from the coin.']. *Why:* The coin marks where the corner starts. Waiting without touching anything means nobody moved it. Then, if the corner has moved, it moved because the Sun seems to move.
 ### The Sun's path and our shadows (challenge) (challenge, 10 questions)
 1. (write) Many people think the Sun goes round the Earth, because that is what it looks like. What would you show a friend to help them think again? You can say it and a grown-up can write it down.  
    **Answer:** For example: a train ride, where still trees seem to move because we are moving. Or the sun patch, which moved though nothing in the room moved.. *Why:* A strong answer uses something the friend can see or try, and explains that something moving can make still things seem to move.
 2. (mcq) In Bengaluru, on a day in late April, a girl stands in the sun at noon. Her shadow hides right under her feet. Why?  
    Options: The Sun is straight overhead / The Sun has gone behind a cloud / Shadows stop working in April  
    **Answer:** The Sun is straight overhead. *Why:* On Zero Shadow Day, the noon Sun is straight overhead. The light falls straight down, so the shadow is right under her.
-3. (mcq) Sneha, a girl in Class 2, wants to dry her clothes in the sun all afternoon. Her balcony faces east. Is it a good place?  
+3. (mcq) You want to dry clothes in the sun all afternoon. Your balcony faces east. Is it a good place?  
    Options: No, an east balcony gets the morning sun, not the afternoon sun / Yes, an east balcony is sunny all day / Yes, because the Sun sets in the east  
    **Answer:** No, an east balcony gets the morning sun, not the afternoon sun. *Why:* The Sun is in the east in the morning. In the afternoon it is in the west, so a west-facing place gets the afternoon sun.
 4. (order) Put these shadows of the same girl in order, from shortest to longest: at 7 in the morning, at 10 in the morning, at noon.  
@@ -479,8 +481,8 @@ Kutti was already lying in the new patch.
    **Answer:** False. *Why:* False. The Earth turns towards the east, so places in the east see the Sun first. In Arunachal Pradesh, the Sun rises almost two hours before it does in the far west of Gujarat.
 6. (draw) Design a shade for a bench on a terrace that keeps it shady in the morning and in the evening, not only at noon. Draw it, with the Sun.  
    **Answer:** A roof with walls or a screen on the east and west sides, or a very wide roof that comes down low on both sides.. *Why:* A strong design blocks the low morning Sun from the east and the low evening Sun from the west, not only the high noon Sun.
-7. (perspective) Two friends, Sunita and Imran, disagree about when noon is.  
-   **Answer:** A strong answer picks a side with a reason. Sunita is right that clocks call 12 o'clock noon, so everyone shares one time. Imran is right that the Sun's noon is when shadows are shortest. In many Indian cities that is a little after or a little before 12.. *Why:* Clock noon and Sun noon are not exactly the same. All of India uses one clock time, but the Sun is highest at slightly different times in different cities.
+7. (perspective) Two friends, the first person and the second person, disagree about when noon is.  
+   **Answer:** A strong answer picks a side with a reason. The first person is right that clocks call 12 o'clock noon, so everyone shares one time. The second person is right that the Sun's noon is when shadows are shortest. In many Indian cities that is a little after or a little before 12.. *Why:* Clock noon and Sun noon are not exactly the same. All of India uses one clock time, but the Sun is highest at slightly different times in different cities.
 8. (match) Draw a line from each being to how they use the Sun's movement.  
    **Answer:** a honeybee → finds her way back to the flowers by the Sun; a young sunflower plant → turns to follow the Sun, and faces east before sunrise; a cat → moves to the next sun patch to stay warm. *Why:* Many beings keep track of where the Sun is going and act on it, each in their own way.
 9. (count) Bengaluru has 2 Zero Shadow Days every year. How many Zero Shadow Days is that in 5 years?  
@@ -489,9 +491,9 @@ Kutti was already lying in the new patch.
    **Answer:** False. *Why:* False. The Sun sets exactly in the west only around 21 March and 23 September. On other days it sets a little north or south of west.
 
 ## Videos
-- **Shadow time lapse: a shadow moving through the day** (GazdonianProductions, 1 min) id `3B7KLstUZbI`: Shows a shadow swinging round as the Sun crosses the sky in one day, after your child has watched their own sun patch move. *Check:* Found by search: "Sun's shadow time lapse  (N arrow is off a little bit)" by GazdonianProductions, 1 minute, 21 seconds. A parent may preview it.
+- **Shadow time lapse: a shadow moving through the day** (GazdonianProductions, 1 min) id `3B7KLstUZbI`: Your child has watched their own sun patch move. This video shows a shadow swinging round as the Sun crosses the sky in one day. *Check:* Found by search: "Sun's shadow time lapse  (N arrow is off a little bit)" by GazdonianProductions, 1 minute, 21 seconds. A parent may preview it.
 - **Earth's rotation and revolution, for children** (Crash Course Kids, 4 min) id `l64YwNl1wr0`: Shows the turning Earth, so your child can see why the Sun seems to cross our sky. It also mentions the Earth going round the Sun; the first part is the one for today. *Check:* Found by search: "Earth's Rotation & Revolution: Crash Course Kids 8.1" by Crash Course Kids, 4 minutes, 1 second. A parent may preview it.
-- **Zero Shadow Day in Bengaluru** (Firstpost, 3 min) id `I7kQR7mXnRs`: Shows objects losing their side shadows at noon on Zero Shadow Day in Bengaluru, as in the noon card. *Check:* Found by search: "India: Bengaluru Experiences Rare Celestial Event "Zero Shadow Day", Here is What it Means" by Firstpost, 3 minutes, 1 second. A parent may preview it.
+- **Zero Shadow Day in Bengaluru** (Firstpost, 3 min) id `I7kQR7mXnRs`: Shows objects losing their side shadows at noon on Zero Shadow Day in Bengaluru, as in the card "Noon with no shadow: Zero Shadow Day". *Check:* Found by search: "India: Bengaluru Experiences Rare Celestial Event "Zero Shadow Day", Here is What it Means" by Firstpost, 3 minutes, 1 second. A parent may preview it.
 
 ## Quiz
 1. (mcq) On which side of the sky does the Sun set?  
@@ -503,7 +505,7 @@ Kutti was already lying in the new patch.
 3. (mcq) Why does the Sun seem to move across the sky?  
    Options: The Earth turns once a day / The Sun runs round the Earth / The clouds push the Sun along  
    **Answer:** The Earth turns once a day. *Why:* The Earth rotates, carrying us with it. From the ground, that makes the Sun seem to move. The Sun is not going round us.
-4. (mcq) Nila is on a train. The trees outside seem to rush backwards. What is really moving?  
+4. (mcq) You are on a train. The trees outside seem to rush backwards. What is really moving?  
    Options: The train / The trees / Nothing  
    **Answer:** The train. *Why:* The train moves, so still things outside appear to move the other way. The turning Earth makes the Sun appear to move in the same way.
 5. (mcq) At what time of day is your shadow shortest?  
@@ -518,9 +520,9 @@ Kutti was already lying in the new patch.
 8. (mcq) Your shadow is in front of you as you walk. Where is the Sun?  
    Options: Behind you / In front of you / Under your feet  
    **Answer:** Behind you. *Why:* A shadow points away from the Sun. If your shadow is in front, the Sun must be behind you.
-9. (mcq) Pooja, a girl in Class 2, marked a sun patch corner every 5 minutes. The marks went further and further from the first one. What did she find?  
-   Options: The sun patch moves slowly and steadily / The sun patch stays still / The sun patch moves only when she looks away  
-   **Answer:** The sun patch moves slowly and steadily. *Why:* Her marks show that the patch creeps a little way every few minutes, because the Sun seems to move across the sky.
+9. (mcq) You mark the corner of a sun patch every 5 minutes. Each mark is further from the first one. What does this show?  
+   Options: The sun patch moves slowly and steadily / The sun patch stays still / The sun patch moves only when you look away  
+   **Answer:** The sun patch moves slowly and steadily. *Why:* The marks show that the patch creeps a little way every few minutes, because the Sun seems to move across the sky.
 10. (mcq) What is the safe way to find where the Sun is?  
    Options: Look at a shadow. The Sun is on the opposite side / Look at the Sun for just a second / Look at the Sun through sunglasses  
    **Answer:** Look at a shadow. The Sun is on the opposite side. *Why:* Looking at the Sun, even briefly or with sunglasses, can hurt the back of your eyes. A shadow tells you where the Sun is without any danger.
@@ -541,7 +543,7 @@ Kutti was already lying in the new patch.
 - In Kolkata, during an evening walk, the long shadows of buildings stretch across the road towards the east.
 - At noon in a Kochi school yard, children's shadows shrink to small dark puddles round their feet.
 - At Jantar Mantar in Jaipur, the shadow of a giant stone wall creeps along a curved scale to show the time.
-- On a sunny morning in Mumbai, the auto-rickshaws parked along one side of the road are in shade, and by evening those on the other side are.
+- On a sunny morning in Mumbai, the auto-rickshaws parked along one side of the road are in shade. By evening, the ones on the other side are in shade instead.
 
 ## Open questions
 - **Why does the Earth's turning speed up and slow down by tiny amounts?** Clocks show that some days are a few thousandths of a second shorter or longer than others. Scientists think the Moon, the oceans, the air and the Earth's melted core all play a part, but they still argue about how much each one matters.
@@ -553,8 +555,8 @@ Kutti was already lying in the new patch.
 - Is your shadow long or short at this moment? So where is the Sun?
 - Which way does your shadow point on the way to school?
 - Which room will get the evening sunshine today?
-- When the Sun sets here, who in India might still see it in the sky?
-- If we sit still for a minute, how far does the Earth carry us?
+- Why does the patch of sunlight in our home not stay in one place?
+- When we sit still, the Earth is still carrying us round. How could we tell that something is moving?
 - Where do you think the cat will sleep after lunch?
 
 ## Jokes
@@ -568,9 +570,9 @@ Kutti was already lying in the new patch.
 - What does a shadow wear in the evening? *A very long coat!*
 
 ## Connected maths
-- In the Moving Sun Patch test, Leela, a girl in Class 2, found that her patch corner moved 3 finger widths in 15 minutes. If it keeps going at the same speed, how far will it move in 30 minutes? **6 finger widths.**. 30 minutes is two lots of 15 minutes. Each lot moves the corner 3 finger widths. 3 and 3 make 6. (queues `math.multiplication.equal-groups.L2`)
-- In the Shadow Footsteps test, Rani, a girl in Class 2, counted her shadow. It was 11 footsteps in the morning, 2 at noon and 14 in the evening. Which shadow was longest? How many footsteps longer was it than the morning shadow? **The evening shadow was longest. It was 3 footsteps longer than the morning shadow.**. 14 is more than 11, and both are more than 2. Count on from 11 to 14: 12, 13, 14. That is 3 more. (queues `math.number-sense.comparing-ordering.L2`)
-- In the story, Meenakshi's grandmother Ammamma moves her drying chillies at 8 o'clock in the morning, at 12 o'clock, and at 4 o'clock in the afternoon. How many hours are there between each move? **4 hours.**. From 8 o'clock to 12 o'clock: 9, 10, 11, 12. That is 4 hours. From 12 o'clock to 4 o'clock: 1, 2, 3, 4. That is 4 hours too. (queues `math.time.telling-time.L2`)
+- In the Moving Sun Patch test, the corner of the patch moved 3 finger widths in 15 minutes. If it keeps going at the same speed, how far will it move in 30 minutes? **6 finger widths.**. 30 minutes is two lots of 15 minutes. Each lot moves the corner 3 finger widths. 3 and 3 make 6. (queues `math.multiplication.equal-groups.L2`)
+- In the Shadow Footsteps test, a shadow was 11 footsteps long in the morning, 2 at noon and 14 in the evening. Which shadow was longest? How many footsteps longer was it than the morning shadow? **The evening shadow was longest. It was 3 footsteps longer than the morning shadow.**. 14 is more than 11, and both are more than 2. Count on from 11 to 14: 12, 13, 14. That is 3 more. (queues `math.number-sense.comparing-ordering.L2`)
+- On a sunny day, Meenakshi's grandmother Ammamma moves her drying chillies at 8 o'clock in the morning, at 12 o'clock, and at 4 o'clock in the afternoon. How many hours are there between each move? **4 hours.**. From 8 o'clock to 12 o'clock: 9, 10, 11, 12. That is 4 hours. From 12 o'clock to 4 o'clock: 1, 2, 3, 4. That is 4 hours too. (queues `math.time.telling-time.L2`)
 - Meenakshi, the girl in the story, marks a sun patch every 5 minutes. Her first mark is at 9:00, the next at 9:05, then 9:10. What time will her fifth mark be? **9:20.**. Count on in fives: 9:00, 9:05, 9:10, 9:15, 9:20. The fifth mark is at 9:20. (queues `math.patterns.number-patterns.L2`)
 
 ## Song
