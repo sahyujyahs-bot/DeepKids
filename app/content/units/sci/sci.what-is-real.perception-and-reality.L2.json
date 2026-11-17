@@ -920,6 +920,7 @@
    "mins": 5,
    "days": 1,
    "context": "In this activity you practise a check some people use to find out if they are dreaming. You read a word, look away, and read it again.",
+   "problem": "In a dream, words and clocks often change when you look at them a second time. When you are awake, a word stays the same, and a clock moves on by only a little. In this activity you read a word and a time, look away, and read them again. Some people use this check to find out if they are dreaming.",
    "materials": [
     {
      "item": "a card or paper with one word written on it in big letters, such as MANGO",
@@ -1139,7 +1140,7 @@
       },
       {
        "f": "You read the clock: 7 o'clock. You look again: 3 o'clock.",
-       "b": "Dream sign: awake, a clock moves on by a minute, not four hours."
+       "b": "Dream sign. When you are awake, a clock moves on by one minute, not by four hours."
       },
       {
        "f": "You flap your arms and float up over Kochi.",
@@ -1311,7 +1312,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Crush two elaichi pods (or rub a piece of lemon peel) and put them in a cup. Cover it with a plate. 2. Your child stands three big steps away. 3. Lift the plate. 4. Your child says 'now' when the smell reaches them. If it takes long, move a step closer.",
+     "do": "1. Crush two elaichi pods (or rub a piece of lemon peel) and put them in a cup. Cover it with a plate. 2. Your child stands three big steps away. 3. Lift the plate. 4. Your child says 'now' when the smell reaches them. If it takes long, move a step closer. 5. After your child has answered, say: Tiny bits of the elaichi spread through the air until they reach your nose. That is how a smell travels.",
      "say": "You cannot see the smell. How did it reach your nose?",
      "kid": "Stand three steps away. Say 'now' when the smell reaches you. Draw how the smell came to you."
     },

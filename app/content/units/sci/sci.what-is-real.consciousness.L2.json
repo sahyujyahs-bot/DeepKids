@@ -227,7 +227,7 @@
    "hint": "The same sound reaches both of you. But each of you has your own experience of it. How could you ever check?"
   },
   {
-   "q": "When you stop noticing the fan, where does its sound go?",
+   "q": "When you stop noticing the fan, is its sound still reaching your ears?",
    "kind": "deep",
    "hint": "When a fan stops, you notice at once. How could you know it had stopped, if you were not hearing it?"
   },
@@ -277,7 +277,7 @@
    "Ten minutes later, she was back at her sums. When Appa came home, he said, \"Is the fan making that noise again?\" Meenakshi looked up. She had forgotten all about the fan.",
    "She laughed and took his hand. \"Appa, sit down on the mat and close your eyes,\" she said. \"I am going to teach you a game.\""
   ],
-  "epiphany": "For the parent: Meenakshi first thinks the quiet came with the power cut. She finds out that the sounds were there all along, and that her attention decided which ones she noticed. Then she forgets the fan again, which shows how easily we get used to a steady sound.",
+  "epiphany": "Meenakshi first thinks the quiet came with the power cut. She finds out that the sounds were there all along, and that her attention decided which ones she noticed. Then she forgets the fan again, which shows how easily we get used to a steady sound.",
   "ask": [
    "Why did the flat suddenly seem so quiet in the power cut?",
    "Why did Meenakshi not hear the fan while she did her sums?",
@@ -526,7 +526,7 @@
      "id": "s3",
      "mins": 1,
      "do": "Finish with everyone lying still.",
-     "say": "Now everyone lies still, like deep sleep. What are you aware of right now?",
+     "say": "Now everyone lies still, as if in deep sleep. But you are not asleep. What are you aware of right now? Deep sleep is different, because then you are aware of almost nothing.",
      "kid": "Lie still. What are you aware of now?",
      "check": {
       "t": "mcq",
@@ -967,7 +967,7 @@
      "do": "The child draws the being, with arrows to what they noticed.",
      "say": "Draw them. Draw an arrow to each thing they noticed.",
      "kid": "Draw them. Add arrows to what they noticed.",
-     "think": "Was the ant noticing you, the way you were noticing the ant?"
+     "think": "Did the being turn or move when you moved? If it did, it noticed you, in its own way."
     }
    ]
   },
@@ -2163,7 +2163,7 @@
    "kid": "Close your eyes. Someone taps a steel tumbler. Listen to the sound fade. Raise your hand when it is gone. What do you notice next?"
   },
   "ask": [
-   "When a sound fades from your notice, where does it go?",
+   "When you stop noticing a steady sound, is the sound still reaching your ears? How could you find out?",
    "Is the ant on the kitchen floor noticing you, the way you notice the ant?",
    "Is your sour the same as someone else's sour at home? How could anyone ever find out?"
   ],

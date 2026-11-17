@@ -112,13 +112,13 @@ At any moment there is one world of sound in your flat. You, a grown-up at home,
 - Science (open): Nobody knows how or why being aware happens at all. The philosopher David Chalmers called this the hard problem in 1995.
 - Other view, Most brain scientists today, and the Charvaka thinkers of ancient India: Most brain scientists think awareness is something brains do, so beings without brains are not aware. The Charvaka thinkers taught long ago that awareness comes from the body and ends with it.
 - Practice, The Last of the Sound (3 min): Sit comfortably and close your eyes. I will tap this steel tumbler once with a spoon. Listen as the sound gets softer and softer. Raise your hand when it is gone. Keep your eyes closed. What is the next sound you notice? And the next?
-- Ask: When a sound fades from your notice, where does it go?
+- Ask: When you stop noticing a steady sound, is the sound still reaching your ears? How could you find out?
 - Ask: Is the ant on the kitchen floor noticing you, the way you notice the ant?
 - Ask: Is your sour the same as someone else's sour at home? How could anyone ever find out?
 
 ## Deep and big questions
 - *big:* When you and a grown-up at home hear the same pressure cooker whistle, do you hear the same sound? (hint: The same sound reaches both of you. But each of you has your own experience of it. How could you ever check?)
-- *deep:* When you stop noticing the fan, where does its sound go? (hint: When a fan stops, you notice at once. How could you know it had stopped, if you were not hearing it?)
+- *deep:* When you stop noticing the fan, is its sound still reaching your ears? (hint: When a fan stops, you notice at once. How could you know it had stopped, if you were not hearing it?)
 - *big:* What is it like to be an ant on the kitchen floor? (hint: An ant smells and feels the floor through their feelers and feet. Their world is full of smells you cannot sense.)
 - *deep:* In a dream, who is noticing the dream? (hint: Your body is lying still in bed. Yet something is aware of the dream.)
 - *deep:* In deep sleep you remember almost nothing. Were you still there? (hint: Your body was there, breathing all night. What about your awareness?)
@@ -172,7 +172,7 @@ Ten minutes later, she was back at her sums. When Appa came home, he said, "Is t
 
 She laughed and took his hand. "Appa, sit down on the mat and close your eyes," she said. "I am going to teach you a game."
 
-**For the parent:** For the parent: Meenakshi first thinks the quiet came with the power cut. She finds out that the sounds were there all along, and that her attention decided which ones she noticed. Then she forgets the fan again, which shows how easily we get used to a steady sound.
+**For the parent:** Meenakshi first thinks the quiet came with the power cut. She finds out that the sounds were there all along, and that her attention decided which ones she noticed. Then she forgets the fan again, which shows how easily we get used to a steady sound.
 
 - Ask: Why did the flat suddenly seem so quiet in the power cut?
 - Ask: Why did Meenakshi not hear the fan while she did her sums?
@@ -213,7 +213,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   - Ask: How did you know it was a dream? (good: People can't fly on kites.; Strange things felt normal.)
 - **s3 (1 min)**  
   *Parent does:* Finish with everyone lying still.  
-  *Parent says:* Now everyone lies still, like deep sleep. What are you aware of right now?  
+  *Parent says:* Now everyone lies still, as if in deep sleep. But you are not asleep. What are you aware of right now? Deep sleep is different, because then you are aware of almost nothing.  
   *Child mode:* Lie still. What are you aware of now?
   - Check: In which state do you remember almost nothing afterwards? → **Deep sleep**
 
@@ -329,7 +329,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
   *Parent does:* The child draws the being, with arrows to what they noticed.  
   *Parent says:* Draw them. Draw an arrow to each thing they noticed.  
   *Child mode:* Draw them. Add arrows to what they noticed.
-  - Think: Was the ant noticing you, the way you were noticing the ant?
+  - Think: Did the being turn or move when you moved? If it did, it noticed you, in its own way.
 ### a3 · Five Things Right Now: a counting-down noticing game (5 min)
 - **record:** Write how many things you noticed in all.
 - **s1 (3 min)**  
