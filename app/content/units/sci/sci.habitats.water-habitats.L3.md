@@ -43,7 +43,7 @@ A pond or lake is still water. It warms up quickly in the sun, and plants can ro
 ### Water holds dissolved air · *defined*
 **Definition:** Air dissolves in water. It mixes in so finely that you cannot see it. Cold water can hold more dissolved air than warm water.
 
-When water touches air, some of the air slowly dissolves into it. This happens at the surface of every pond, river and sea. Splashing and wind mix in more. Cold water holds more dissolved air than warm water. Water from the fridge holds almost twice as much oxygen as water on a hot afternoon. When cold water warms up, it cannot hold all its air, so some comes out as bubbles. That is what you saw in the cold glass test. Boiling drives most of the air out, which is why boiled water made almost no bubbles.
+When water touches air, some of the air slowly dissolves into it. This happens at the surface of every pond, river and sea. Splashing and wind mix in more. Cold water holds more dissolved air than warm water. Water from the fridge holds almost twice as much oxygen as water on a hot afternoon. When cold water warms up, it cannot hold all its air, so some comes out as bubbles. That is what happened in the Cold Glass Test: the glass of cold water grew bubbles as it warmed. Boiling drives most of the air out, which is why the glass of boiled water grew almost no bubbles.
 - e.g. Tiny bubbles on the inside of a glass of cold water that has warmed up.
 - e.g. Small bubbles on the bottom of a pan of water, long before it boils.
 - e.g. A waterfall or a splashing stream mixes lots of air into the water.
@@ -78,27 +78,27 @@ A lotus has a problem. Their leaves need sunlight and air to make food. Their ro
 ### Algae: the tiny food makers of water · *defined*
 **Definition:** Algae are simple living things that make their own food from sunlight, water and carbon dioxide, like plants do. They give out oxygen as they do it.
 
-Some algae are long green threads, like the slimy paasi on a pond. Others are single cells, far too small to see alone. When millions of them grow together, the water turns green. Tiny animals eat the algae, small fish eat those animals, and bigger fish eat the small fish. So algae feed almost everything in the water. Algae in the sea also make a huge amount of oxygen, about half of all the oxygen made on Earth each year. But too much of a good thing is a problem. When sewage or fertiliser flows into a lake, algae grow far too fast. This is called an algal bloom. When the algae die, bacteria rot them and use up the dissolved oxygen, and fish can die.
+Some algae are long green threads, like the slimy paasi on a pond. Others are single cells, far too small to see alone. When millions of them grow together, the water turns green. Tiny animals eat the algae, small fish eat those animals, and bigger fish eat the small fish. So algae feed almost everything in the water. Algae in the sea also make a huge amount of oxygen, about half of all the oxygen made on Earth each year. But too many algae are a problem. When sewage or fertiliser flows into a lake, algae grow far too fast. This is called an algal bloom. When the algae die, bacteria rot them and use up the dissolved oxygen, and fish can die.
 - e.g. Green water in an old flower vase or a pot saucer left in the sun.
 - e.g. Green slime on the steps of a temple tank.
 - e.g. A lake turning bright green after waste water flows into it.
 ### Salt water and fresh water · *defined*
 **Definition:** Sea water is salty, with about 35 grams of salt in every litre. River water, pond water and rain are fresh, with very little salt.
 
-Water moves from the less salty side to the more salty side of a living skin. You saw this with the cucumber. In very salty water, water left the cucumber's cells, and the slice went floppy. A fish's body is less salty than the sea, and saltier than a river. So a sea fish keeps losing water to the sea. They drink sea water, and their gills push the extra salt out. A river fish has the opposite problem. Water keeps soaking into their body, so they make a lot of very watery urine. Each kind of fish is built for one kind of water. A few, like the hilsa, change as they travel. The hilsa lives in the sea and swims up rivers like the Godavari and the Hooghly to lay their eggs.
+Imagine a living skin with less salty water on one side and more salty water on the other side. Water moves through the skin towards the saltier side. You saw this in the Salty Cucumber experiment. In very salty water, water left the cucumber's cells, and the slice went floppy. A fish's body is less salty than the sea, and saltier than a river. So a sea fish keeps losing water to the sea. They drink sea water, and their gills push the extra salt out. A river fish has the opposite problem. Water keeps soaking into their body, so they make a lot of very watery urine. Each kind of fish is built for one kind of water. A few, like the hilsa, change as they travel. The hilsa lives in the sea and swims up rivers like the Godavari and the Hooghly to lay their eggs.
 - e.g. Pulasa, the hilsa caught in the Godavari during the monsoon floods, is a famous dish in Andhra Pradesh. Ilish, the hilsa of the Hooghly, is just as loved in West Bengal.
 - e.g. Sea fish in the market, like mackerel and sardine, come from the sea. Rohu and catla come from rivers and ponds.
 - e.g. Mangrove trees at Pichavaram live in brackish water and push salt out of their leaves.
 ### Holding on in flowing water · *defined*
 **Definition:** In a fast river or stream, living things must hold on, hide, or swim hard, or the water carries them away.
 
-Flowing water pushes on everything in it. The faster it flows, the harder it pushes. A tall shape catches more of the push and topples. A low, flat shape lets the water slide over it. That is what you found in the flat or tall test. Many stream animals are flat and hug the rocks. Some small fish in fast streams of the Western Ghats have flat bodies and fins that work like suckers. Snails clamp down on stones. Fish that live in open river water are streamlined, pointed in front and narrow at the tail, so water flows smoothly around them. Fish in a river usually face upstream, so the water flows over their gills the right way.
+Flowing water pushes on everything in it. The faster it flows, the harder it pushes. A tall shape catches more of the push and topples. A low, flat shape lets the water slide over it. That is what happened in the Flat or Tall experiment, when you poured water at a tall dough tower and a flat dough dome. Many stream animals are flat and hug the rocks. Some small fish in fast streams of the Western Ghats have flat bodies and fins that work like suckers. Snails clamp down on stones. Fish that live in open river water are streamlined, pointed in front and narrow at the tail, so water flows smoothly around them. Fish in a river usually face upstream, so the water flows over their gills the right way.
 - e.g. Snails stuck to the stones under a waterfall.
 - e.g. Small flat fish clinging to rocks in fast hill streams of the Western Ghats.
 - e.g. Fish in a stream holding still, all facing the same way, into the current.
 ### Do fish feel pain? · *debated*
 Many scientists think fish feel pain. Their bodies have nerve endings that sense harm, like ours do, and fish change what they do after they are hurt. Scientists still argue about what fish feel inside, because nobody can ask a fish. Here are the main views.
-- e.g. Lynne Sneddon and her team, in Britain in 2003, found that trout with a sting in their lips rubbed their lips on the gravel and stopped eating for a while.
+- e.g. Lynne Sneddon and her team, in Britain in 2003, found that trout who had been stung on the lips rubbed their lips on the gravel and stopped eating for a while.
 - e.g. Fish learn to avoid a part of a tank where something hurt them.
 - **Lynne Sneddon, a British biologist, and many fish scientists:** Fish have nerves that sense harm, and they act as if they hurt: they stop eating, rub the hurt place and avoid what hurt them. So fish feel pain, and we should handle them kindly.
 - **Brian Key, an Australian brain scientist, and some others:** Fish do not have the parts of the brain that people use to feel pain. So their reactions might happen without a feeling of pain.
@@ -106,7 +106,7 @@ Many scientists think fish feel pain. Their bodies have nerve endings that sense
 
 ## Mostly agreed
 - Water holds dissolved oxygen, and cold water holds more than warm water. *How we know:* Chemists have measured it at every temperature. You can see it at home: cold water grows bubbles as it warms.
-- Fish breathe the oxygen dissolved in water, using their gills. They do not split water to get oxygen. *How we know:* In 1809, Alexander von Humboldt and Provençal measured the gases in water before and after fish lived in the water. The dissolved oxygen went down and carbon dioxide went up.
+- Fish breathe the oxygen dissolved in water, using their gills. They do not break the water itself apart to get oxygen. *How we know:* In 1809, Alexander von Humboldt and Provençal measured the gases in water before and after fish lived in the water. The dissolved oxygen went down and carbon dioxide went up.
 - Tadpoles breathe with gills, and adult frogs breathe with lungs and through their wet skin. *How we know:* Biologists have watched tadpoles grow into frogs for hundreds of years, and studied their bodies at each stage.
 - Algae and water plants make oxygen in sunlight. In the sea, algae and other tiny living things make about half of the oxygen made on Earth each year. *How we know:* Scientists measure oxygen in water by day and night, and satellites measure how much green algae is in the sea.
 - Sewage and fertiliser in a lake can make algae grow far too fast, and this can use up the oxygen and kill fish. *How we know:* Scientists have measured this in lakes all over the world, including lakes in Indian cities.
@@ -135,20 +135,20 @@ Many scientists think fish feel pain. Their bodies have nerve endings that sense
 ## Roots
 We have learned that water holds dissolved air, and how fish, frogs, lotus and algae live on it. Now we ask what life in water tells us about ourselves and the world.
 
-**Deep truth.** Your cold glass of water grew bubbles as it warmed, though nothing was added. That air had been dissolved in the water all along, out of sight. Fish breathe that dissolved oxygen through their gills. Warm water holds less, so on a hot, still night a pond can run short of oxygen for its fish.  
+**Deep truth.** In the Cold Glass Test, the glass of cold water grew bubbles as it warmed, though nothing was added. That air had been dissolved in the water all along, out of sight. Fish breathe that dissolved oxygen through their gills. Warm water holds less, so on a hot, still night a pond can run short of oxygen for its fish.  
 *Habit it breaks:* We think of water and air as two separate worlds: air is for breathing, and water is where you cannot breathe. But every pond, river and sea has air dissolved in it, and that is what its fish and tadpoles breathe.  
-*Evidence:* Glass A, cold tap water, grew many bubbles as it warmed. Glass B, boiled water, grew almost none. Fish breathe that same dissolved oxygen, and measurements since 1809 show it falling as they breathe.
+*Evidence:* In the Cold Glass Test, glass A, cold tap water, grew many bubbles as it warmed. Glass B, boiled water, grew almost none. Fish breathe that same dissolved oxygen. Measurements since 1809 show the oxygen in the water going down as fish breathe.
 
 - *who am i:* You breathe air with lungs. A fish breathes the same oxygen, dissolved in water, with gills.
-- *what is life:* A tadpole breathes with gills, then grows into a frog that breathes with lungs and skin. One life can change how they breathe.
+- *what is life:* A tadpole breathes with gills, then grows into a frog who breathes with lungs and skin. One animal can change the way they breathe during their life.
 - *what is this world:* Tiny algae floating in the sea make about half of the oxygen made on Earth each year.
 
 A pond holds one store of dissolved air. Algae and water plants add oxygen to it in sunlight. Fish, tadpoles, snails and the plants themselves take from it all day and all night. So many different lives breathe from the same water, the way a whole family breathes the air of one room. When the store runs low, every one of them feels it.
 
-- **Chandogya Upanishad 6.13:** Uddalaka asks his son Shvetaketu to put salt in water and leave it overnight. In the morning the salt cannot be seen, yet every sip tastes salty. It is there, everywhere in the water, though unseen. (The air in your cold glass was also there, all through the water, though you could not see it. Only warming brought it out as bubbles.)
+- **Chandogya Upanishad 6.13:** Uddalaka asks his son Shvetaketu to put salt in water and leave it overnight. In the morning the salt cannot be seen, yet every sip tastes salty. It is there, everywhere in the water, though unseen. (In the Cold Glass Test, the air was also there, all through the cold water, though you could not see it. Only warming brought it out as bubbles.)
 - **Tirukkural 20, in the chapter on the excellence of rain:** The world cannot go on without water, and the order of life cannot go on without rain. (In the story, Kavya's pond came back to life when cool rain filled it, cooled it and splashed air into it.)
 - **Tao Te Ching 8:** The highest good is like water. Water helps all things and does not compete. It settles in the low places that people look down on. (Ponds and marshes fill the low places of the land, and they are home to fish, frogs, lotus, snails and algae.)
-- Science (settled): Water holds dissolved oxygen, and cold water holds more than warm water. At fridge-cold, water holds almost twice as much as on a hot afternoon.
+- Science (settled): Water holds dissolved oxygen, and cold water holds more than warm water. Water from the fridge holds almost twice as much oxygen as water on a hot afternoon.
 - Science (settled): Algae and other tiny living things in the sea make about half of the oxygen made on Earth each year.
 - Science (debated): What fish feel when they are hurt is still argued about by scientists.
 - Other view, Many ecologists: A pond is not one family breathing together. Each fish, plant and microbe takes what they need for themselves, and they compete for space, food and oxygen. The sharing is a result of chemistry, not of anyone choosing to share.
@@ -159,7 +159,7 @@ A pond holds one store of dissolved air. Algae and water plants add oxygen to it
 
 ## Deep and big questions
 - *deep:* A sea fish drinks sea water all day, but a river fish hardly drinks. Why might they be so different? (hint: Think of the cucumber slice in very salty water.)
-- *deep:* Air has about 30 times more oxygen than the same amount of water, yet a fish cannot live in air. Why not? (hint: Think of two wet sheets of paper pressed together.)
+- *deep:* Air has about 30 times more oxygen than the same amount of water, yet a fish cannot live in air. Why not? (hint: Out of water, a fish's thin gill folds stick together, like two wet sheets of paper pressed together. Then almost no surface is left to take in oxygen.)
 - *big:* A tadpole breathes with gills, and the frog they become breathes with lungs. Are they the same animal? (hint: Think about how your own body has changed since you were a baby.)
 - *deep:* Frogs are often the first animals to vanish when a pond is polluted. Why might a thin, wet skin make a frog easy to harm? (hint: What else can pass through a thin wet skin besides oxygen?)
 - *deep:* Algae feed tiny animals, and tiny animals feed small fish. If a pond lost all its algae, who else would be in trouble? (hint: Follow who eats whom.)
@@ -190,9 +190,9 @@ The next morning she woke very early, before the sun was up, and went to the ste
 
 Kavya was not so sure. Fish lived in water. Why would they come to the top to drink it?
 
-She ran to fetch Paati. She came down the steps in her cotton saree, rubbing her eyes, and her face changed when he saw the pond.
+Kavya ran to fetch Paati. Paati came down the steps in her cotton saree, rubbing her eyes. Her face changed when she saw the pond.
 
-'I have seen this before,' he said quietly. 'In a dry year when I was a girl. One morning, the fish were floating.'
+'I have seen this before,' she said quietly. 'In a dry year when I was a girl. One morning, the fish were floating.'
 
 'Are they going to die?' asked Arjun.
 
@@ -214,7 +214,7 @@ Kavya's thoughts tumbled out. 'Then in the daytime the paasi makes lots of oxyge
 
 Paati nodded slowly.
 
-'And the water is so warm this year,' she went on. 'Warm water holds less air. My glass showed that. So the fish come up to the very top, where the water touches the air. That is where there is a little more oxygen.'
+'And the water is so warm this year,' Kavya went on. 'Warm water holds less air. My glass showed that. So the fish come up to the very top, where the water touches the air. That is where there is a little more oxygen.'
 
 Arjun stared at her. 'So they weren't drinking. They were trying to breathe.'
 
@@ -242,7 +242,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 
 ## Games
 ### g1 · Pond, River or Sea? (20 min)
-- **rules:** Draw the pond, river, sea and mixed areas on a big sheet.; Shuffle the 24 cards and put them in a pile, front side up on top.; On your turn, take the top card. A living thing card: put it on the area where you think it lives, and say one reason. A QUESTION card: say your answer.; Another player reads the back of the card. If you are right, keep the card. If you are wrong, nobody scores: put a living thing card on its right area, and put a QUESTION card aside.; When the pile is gone, the player with the most cards wins. If two players tie, they share the win.; Playing alone: read the back yourself. Can you keep 20 or more of the 24 cards?
+- **rules:** Draw the pond, river, sea and mixed areas on a big sheet.; Shuffle the 24 cards and put them in a pile, with the front sides facing up.; On your turn, take the top card. If it is a living thing card, put it on the area where you think that living thing lives, and say one reason. If it is a QUESTION card, say your answer.; Another player reads the back of the card. If you are right, keep the card. If you are wrong, nobody scores. Put a living thing card on its right area, and put a QUESTION card aside.; When the pile is gone, the player with the most cards wins. If two players tie, they share the win.; Playing alone: read the back yourself. Can you keep 20 or more of the 24 cards?
 - **Printable board: Four areas to draw on a big sheet: pond, river, sea and mixed:** POND: still fresh water; RIVER: flowing fresh water; SEA: salt water; In the middle: MIXED, where a river meets the sea
 - **Printable cards: 24 cards to cut out: 18 living things and 6 questions. Write the front on one side and the answer on the back.:** Lotus (back: POND. Lotus grow in still, muddy water, and their leaves stand above it.) [picture]; Frog eggs in jelly (back: POND. Frogs lay their eggs in still fresh water.); Green threads of paasi, or algae (back: POND. Paasi grows in still, sunny water.) [picture]; Murrel, a fish that gulps air (back: POND. Murrel live in ponds, even when the water is short of oxygen, because they can breathe air at the surface.) [picture]; Tadpole (back: POND. Tadpoles live in still fresh water until they become frogs.); Water lily (back: POND. Water lilies float their leaves on still water.) [picture]; Snail clamped to a stone in a fast stream (back: RIVER. In fast water, a snail that clamps on to a stone is not swept away.); Small flat fish holding on to rocks (back: RIVER. A flat body hugs the rocks, so fast water slides over it.) [picture]; Mahseer, a big fish of fast rivers (back: RIVER. Mahseer swim in cool, fast rivers, such as the Kaveri.) [picture]; Ganga river dolphin (back: RIVER. The Ganga river dolphin lives in the fresh water of the Ganga and the rivers that join it.) [picture]; Hilsa swimming upstream to lay eggs (back: RIVER, SEA or MIXED is right if you say why. Hilsa live in the sea and swim up rivers, such as the Hooghly and the Godavari, to lay their eggs.) [picture]; Mackerel and sardines (back: SEA. Both live in salt water.) [picture]; Coral reef (back: SEA. Coral reefs grow in warm, clear sea water.) [picture]; Sea turtle (back: SEA. Sea turtles swim in the sea and come up to breathe air. The mothers lay their eggs on beaches.) [picture]; Tiny sea algae, making about half of Earth's oxygen (back: SEA. Tiny algae floating in the sea make about half of the oxygen made on Earth each year.); Mangrove trees at Pichavaram (back: MIXED. Mangroves grow in brackish water, where a river meets the sea.) [picture]; Flamingos at Pulicat lake (back: MIXED. Pulicat is a brackish lagoon, partly fresh and partly salty.) [picture]; Irrawaddy dolphins in Chilika lake (back: MIXED. Chilika lake is brackish: rivers feed it and the sea flows in.) [picture]; QUESTION: Why do fish gulp at a pond's surface at dawn? (back: The oxygen is lowest at the end of the night, and the water at the top has the most.); QUESTION: Does cold or warm water hold more air? (back: Cold water.); QUESTION: How does a tadpole breathe? (back: With gills.); QUESTION: How does air reach a lotus's roots in the mud? (back: Through air canals in the stalk and stem.); QUESTION: What did very salty water do to a cucumber slice? (back: It made the slice floppy, by pulling water out.); QUESTION: Which shape stays put in a fast stream? (back: A low, flat shape.)
 - **s1 (3 min)**  
@@ -251,32 +251,32 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   *Child mode:* Draw the pond, river, sea and mixed areas. Shuffle the cards.
 - **s2 (14 min)**  
   *Parent does:* Take turns. Place each living thing card on its home with a reason, or answer the question card.  
-  *Parent says:* Where does this one live? And why does it suit that home?  
-  *Child mode:* Take a card. Where does it live? Say why.
-  - Note: Ask for a reason each time. 'The flat fish lives in the river, because a flat body holds on to rocks, so the water doesn't carry it away.' The hilsa can go on the river, the sea or the mixed area: hilsa live in the sea and swim up rivers to lay their eggs.
+  *Parent says:* Where does this one live? And why does that home suit them?  
+  *Child mode:* Take a card. Where does this living thing live? Say why.
+  - Note: Ask for a reason each time. 'The flat fish lives in the river, because a flat body holds on to rocks, so the water doesn't carry them away.' The hilsa can go on the river, the sea or the mixed area: hilsa live in the sea and swim up rivers to lay their eggs.
 - **s3 (3 min)**  
   *Parent does:* Count the cards and talk about the hardest one.  
   *Parent says:* Which card was hardest to place? Why?  
   *Child mode:* Count your cards. Which one was hardest?
   - Check: Which living thing lives in both the sea and rivers at different times of their life? → **The hilsa**
 ### g2 · Day and Night in the Pond: an oxygen token game (15 min)
-- **rules:** Put 10 tokens in a bowl. This is the oxygen in the pond. Draw 2 fish on a sheet of paper and keep a space beside them for gulp marks.; Shuffle the 10 round cards and put them face down.; Each round, turn over a card and do what it says. If it takes out more tokens than the bowl has, take all that are there.; Then take 1 token for each fish, to breathe. Then take 1 more token for the algae and snails, if any are left.; If there is no token for a fish, that fish gulps at the surface. Make a gulp mark on the paper.; After all 10 cards, count the gulp marks. With 2 gulps or fewer, the fish came through. With more, play again, but start with both NIGHT cards on top.; With 2 players, take turns turning the card and counting out tokens. With 3 or 4 players, pass the cards round and each say what the card means in the real pond. Playing alone, do it all yourself.
+- **rules:** Put 10 tokens in a bowl. This is the oxygen in the pond. Draw 2 fish on a sheet of paper and keep a space beside them for gulp marks.; Shuffle the 10 round cards and put them face down.; Each round, turn over a card and do what it says. If it takes out more tokens than the bowl has, take all that are there.; Then take out 1 token for each fish, because each fish breathes. Then take out 1 more token for the algae and snails, if any are left.; If there is no token for a fish, that fish gulps at the surface. Make a gulp mark on the paper.; After all 10 cards, count the gulp marks. If there are 2 gulp marks or fewer, the fish got through safely. If there are more, play again, but start with both NIGHT cards on top of the pile.; With 2 players, take turns turning the card and counting out tokens. With 3 or 4 players, pass the cards round and each say what the card means in the real pond. Playing alone, do it all yourself.
 - **Printable tokens: 24 oxygen tokens: small paper circles marked O:** O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O
 - **Printable cards: 10 round cards:** SUNNY DAY: the algae make oxygen. Add 6 tokens to the pond bowl.; SUNNY DAY: the algae make oxygen. Add 6 tokens to the pond bowl.; CLOUDY DAY: less sun, so the algae make less oxygen. Add 3 tokens.; NIGHT: the algae make no oxygen. Add 0 tokens.; NIGHT: the algae make no oxygen. Add 0 tokens.; WIND: waves mix air into the water. Add 2 tokens.; HOT AFTERNOON: warm water holds less air. Take 2 tokens out of the bowl.; RAIN: cool water and splashing. Add 3 tokens.; SEWAGE: rotting waste uses up oxygen. Take 4 tokens out of the bowl.; FOUNTAIN: a pump splashes air into the water. Add 3 tokens.
 - **s1 (2 min)**  
   *Parent does:* 1. Put 10 tokens in the bowl. 2. Draw 2 fish on a sheet of paper. 3. Shuffle the round cards and put them face down.  
-  *Parent says:* The bowl is the pond's oxygen. These two fish must breathe one token each round.  
+  *Parent says:* The bowl is the pond's oxygen. Each of these two fish needs one token to breathe every round.  
   *Child mode:* The bowl is the pond's oxygen. Two fish live in the pond bowl. Each fish needs one token every round.
 - **s2 (10 min)**  
   *Parent does:* Turn over a round card and do what it says. Then take 1 token for each fish and 1 for the algae and snails. If a fish has no token, make a gulp mark. After each card, say what it means in the real pond.  
   *Parent says:* Night! The algae can't make oxygen in the dark, but everyone still breathes. Watch the bowl.  
   *Child mode:* Turn a card. Do what it says. Then each fish takes a token.
-  - Note: After NIGHT cards, the bowl runs low. That is the dawn shortage in the story. HOT AFTERNOON and SEWAGE make it worse. WIND, RAIN and FOUNTAIN help.
+  - Note: After NIGHT cards, the bowl runs low. That is the shortage of oxygen at dawn in the story 'The Pond That Gasped at Dawn'. HOT AFTERNOON and SEWAGE make it worse. WIND, RAIN and FOUNTAIN help.
 - **s3 (3 min)**  
   *Parent does:* Count the gulp marks. Talk about when the fish were in most danger.  
-  *Parent says:* When did the pond run out? What helped most?  
+  *Parent says:* When did the pond run out of oxygen? What helped most?  
   *Child mode:* When did the tokens run out? What helped?
-  - Check: In the game, when did the pond usually run short of oxygen? → **After nights in a row**
+  - Check: In the game, when did the pond usually run short of oxygen? → **After NIGHT cards**
 
 ## Experiments
 ### e1 · The Cold Glass Test: is there air hidden in water? (45 min, 2 days)
@@ -286,11 +286,11 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **safety:** A grown-up boils the water and mixes the warm bath. The bath should feel warm, like a bath, and never hot. Wipe up spills so nobody slips.
 - **record:** Fill in the table. Draw the three glasses, with the bubbles you saw on each.
 - **results table:** Glass | What water is in it | My guess: lots, some or almost none? | Bubbles after 5 minutes | Bubbles after 15 minutes
-- **schedule:** day 1: A grown-up boils water for 5 minutes, covers the pan and lets it cool until warm. Pour it into a bottle filled right to the top and cap it. Fill a second bottle with tap water. Put both bottles in the fridge overnight. (10 min); day 2: Fill glass A with cold tap water, glass B with cold boiled water and glass C with room-temperature tap water. Make a warm bath and stand the glasses in it. Watch for bubbles at 5 and 15 minutes. (35 min)
+- **schedule:** day 1: A grown-up boils water for 5 minutes, covers the pan and lets it cool until warm. Pour it into a bottle, right to the top, and cap it. Fill a second bottle with tap water. Put both bottles in the fridge overnight. (10 min); day 2: Fill glass A with cold tap water, glass B with cold boiled water and glass C with room-temperature tap water. Make a warm bath and stand the glasses in it. Watch for bubbles at 5 and 15 minutes. (35 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Boil a pan of water for 5 minutes. 2. Put the lid on and leave it until the water is only warm, about 20 minutes. 3. Pour it into a bottle right to the top and cap it tight. 4. Fill a second bottle with tap water. 5. Put both in the fridge overnight.  
   *Parent says:* Tonight we get the water ready. I am boiling some water. Tomorrow we find out what boiling did to it.  
-  *Child mode:* A grown-up boils some water and lets it cool with the lid on. Then it goes into a full bottle. Both bottles go in the fridge till tomorrow.
+  *Child mode:* A grown-up boils some water and lets it cool with the lid on. Then it goes into a bottle, filled right to the top. A second bottle holds tap water. Both bottles go in the fridge till tomorrow.
   - Note: Fill the boiled-water bottle right to the top, so there is almost no air above the water. That keeps air from dissolving back in as it cools. Warm water, not hot, is safe in a plastic bottle. Label the bottles 'boiled' and 'tap'.
   - Wait: Leave both bottles in the fridge overnight.
 - **s2 (5 min)**  
@@ -321,9 +321,9 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   *Child mode:* Tap glass A gently. Do the bubbles float up? What are they made of?
   - Note: Some bubbles let go and rise to the top. They are air that was dissolved in the water. Nothing was added to the glass, so the air must have been in the water all along.
 - **s7 (4 min)**  
-  *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
+  *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things: what you think, what you saw, and why it happened.
   - Note: A good answer sounds like this. What I think: clear water has air hidden in it, and cold water holds more. What I saw: glass A grew the most bubbles, glass C fewer, and the boiled water in B almost none. Why: as cold water warms, it cannot hold all its air, so some comes out. Boiling had already driven the air out of B.
   - Think: If warm water holds less air, what happens to fish in a pond on a very hot day?
 ### e2 · Salty Cucumber: why sea fish and river fish cannot swap homes (30 min)
@@ -336,7 +336,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s1 (6 min)**  
   *Parent does:* 1. Pour one cup of water into each bowl. 2. Leave the first plain. 3. Stir 1 and a half teaspoons of salt into the second. This is about as salty as the sea. 4. Stir 2 tablespoons of salt into the third. 5. Label the bowls.  
   *Parent says:* These are three kinds of water. Plain, like a river. As salty as the sea. And far saltier than the sea.  
-  *Child mode:* Make three bowls. Plain water. Sea water. Very salty water. Stir till the salt disappears.
+  *Child mode:* Make three bowls: plain water, water as salty as the sea, and very salty water. Stir till the salt disappears.
   - Note: Stir until the salt has dissolved, about a minute. The sea has about 35 grams of salt in each litre, which is about 1 and a half teaspoons in a cup.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut 6 slices from the middle of the cucumber, all about half a centimetre thick. 2. Hold one slice by its edge and see how it bends. 3. Put 2 slices in each bowl.  
@@ -349,20 +349,20 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   - Note: Don't explain yet. A common guess is that salt will make the slices harder, like salted pickles.
 - **s4 (2 min)**  
   *Parent does:* Start a 20-minute timer. While you wait, read the card on salt water and fresh water, or play a game.  
-  *Parent says:* Now we wait 20 minutes. Let's read about fish while the cucumber works.  
+  *Parent says:* Now we wait 20 minutes. Let's read about fish while the cucumber slices soak.  
   *Child mode:* Wait 20 minutes. Read a card while you wait.
   - Wait: Wait 20 minutes.
 - **s5 (8 min)**  
   *Parent does:* 1. Take one slice from each bowl. 2. Hold each by its edge and see how far it droops. 3. Squeeze each one gently. 4. Write what you find.  
   *Parent says:* Hold each slice by its edge. Which one droops most? Which still stands stiff?  
   *Child mode:* Hold each slice by its edge. Which droops? Which stays stiff?
-  - Note: The very salty slices are usually floppy and bendy after 20 minutes. The plain-water slices stay stiff and crisp. The sea-strength slices may be a little bendier than the plain ones, or about the same. That is why we also used very salty water: it makes the change easy to see.
+  - Note: The very salty slices are usually floppy and bendy after 20 minutes. The plain-water slices stay stiff and crisp. The slices from the water as salty as the sea may be a little bendier than the plain ones, or about the same. That is why we also used very salty water: it makes the change easy to see.
   - Check: The slice in very salty water went floppy. Why? → **Water moved out of the cucumber into the salty water**
 - **s6 (7 min)**  
-  *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why. Then ask about fish.  
-  *Parent says:* Tell me what you think, what you saw and why. Now imagine a river fish. Their body is much less salty than the sea. What would the sea do to it?  
+  *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why. Then ask about fish.  
+  *Parent says:* Tell me what you think, what you saw and why. Now think of a river fish. Their body is much less salty than the sea. What would the sea do to them?  
   *Child mode:* Say what you think, what you saw, and why. What would the sea do to a river fish?
-  - Note: A good answer: What I think: very salty water pulls water out of living things. What I saw: the slice in very salty water went floppy, and the plain one stayed stiff. Why: water moved out of the cucumber into the saltier water. A river fish put in the sea would keep losing water like this. Sea fish drink sea water and push the salt out through their gills, so they can live there.
+  - Note: A good answer: What I think: very salty water pulls water out of living things. What I saw: the slice in very salty water went floppy, and the plain one stayed stiff. Why: water moved out of the cucumber into the saltier water. A river fish put in the sea would keep losing water like this. Sea fish drink sea water and push the salt out through their gills, so they can live there. Sea water is saltier than our own bodies, so it would pull water out of us too. That is why it cannot quench our thirst.
   - Think: Why can't we drink sea water when we are thirsty?
 ### e3 · Flat or Tall: which shape stays put in a fast stream? (25 min)
 - **question:** In flowing water, which shape is hardest for the water to push away: tall, round or flat?
@@ -373,7 +373,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s1 (5 min)**  
   *Parent does:* 1. Divide the dough into three equal pieces. 2. Roll one into a tall tower, about as tall as your thumb. 3. Roll one into a ball. 4. Press one into a low flat dome, like an upside-down bowl.  
   *Parent says:* These three shapes are made of exactly the same amount of dough. Only their shape is different.  
-  *Child mode:* Make three shapes from equal dough. A tall tower. A ball. A flat dome.
+  *Child mode:* Make three shapes from equal pieces of dough: a tall tower, a ball and a flat dome.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask for a guess and a reason. 2. Write the guesses. 3. Prop one end of the plate on a book over the sink, so it slopes only a little.  
   *Parent says:* Which shape will the water push away first? Why do you think so?  
@@ -385,7 +385,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   *Child mode:* Pour water down the plate at each shape. Does it slide, fall or stay?
   - Note: This is a rough model, and dough sticks a little, so the differences can be small. Often the tower leans or slides first, and the ball rolls away easily. The flat dome usually stays put, because the water slides over it and it has a wide base on the plate. If nothing moves, tip the plate a little more or pour faster. If everything moves, pour more gently. Whatever happens, write what you really saw.
 - **s4 (7 min)**  
-  *Parent does:* Ask your child for claim, evidence and reasoning. Then talk about stream animals.  
+  *Parent does:* Ask your child to say three things: what I think, what I saw, and why. Then talk about stream animals.  
   *Parent says:* What do you think now? What did you see? Why? Now think of a snail or a small fish in a fast hill stream. Which shape helps them?  
   *Child mode:* Say what you think, what you saw, and why. Which shape helps a stream snail?
   - Note: A good answer: What I think: low, flat shapes stay put best in flowing water. What I saw: the tower fell over, the ball rolled away, and the flat dome stayed. Why: water pushes harder on a tall shape, and slides over a flat one.
@@ -393,6 +393,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 
 ## Activities
 ### a1 · Holes in a Lotus Stem: blow air through it (10 min)
+- **problem:** A lotus has its leaves in the air and its roots in thick mud at the bottom of a pond. There is almost no air in that mud, yet every part of the plant needs air. You will look inside a lotus stem to find how the air reaches the roots.
 - **safety:** A grown-up cuts the stem. Wash the stem before you put your mouth on it, and use a fresh piece for each person.
 - **record:** Draw the slice and its holes. Count the holes.
 - **s1 (3 min) · grown-up needed**  
@@ -416,7 +417,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s1 (5 min)**  
   *Parent does:* Draw one stage of a frog's life on each card. 1. Eggs in jelly. 2. A tadpole with gills. 3. A tadpole with back legs. 4. A tadpole with four legs. 5. A young frog with a short tail. 6. An adult frog.  
   *Parent says:* A frog changes their whole body as they grow. Let's draw each stage on a card.  
-  *Child mode:* Draw six cards. Eggs. Tadpole. Back legs. Four legs. Young frog. Frog.
+  *Child mode:* Draw six cards: eggs, a tadpole, a tadpole with back legs, a tadpole with four legs, a young frog, and a frog.
 - **s2 (4 min)**  
   *Parent does:* 1. Shuffle the cards. 2. Ask your child to put them in order. 3. Next to each card, write how that stage breathes.  
   *Parent says:* Put them in order. Now, at each stage, how does the frog get their oxygen? Through the jelly, gills, or lungs and skin?  
@@ -429,6 +430,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   *Child mode:* A frog breathes through wet skin too. Where must they stay?
   - Note: Good answers: near water, in damp places, in the shade, coming out after rain. A frog also needs water to lay their eggs.
 ### a3 · Where the River Meets the Sea: layers in a glass (15 min)
+- **problem:** Where a river meets the sea, fresh water and salty water meet. You will pour coloured fresh water onto very salty water in a glass, to see what the two do when they meet.
 - **record:** Draw the glass with its layers and label them 'river water' and 'sea water'.
 - **s1 (4 min)**  
   *Parent does:* 1. Half fill the glass with water. 2. Stir in 3 tablespoons of salt until most of it dissolves. 3. Let it settle for a minute.  
@@ -441,9 +443,9 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   - Note: The coloured fresh water should stay on top as a separate layer, because salty water is heavier than the same amount of fresh water. If it mixes, start again and pour more slowly.
 - **s3 (6 min)**  
   *Parent does:* Talk about real places where this happens.  
-  *Parent says:* In the Kerala backwaters and in Pulicat lake, sea water creeps in under the river water. Why do you think fish there must cope with both?  
+  *Parent says:* In the Kerala backwaters and in Pulicat lake, sea water creeps in under the river water. What do the fish there have to cope with?  
   *Child mode:* Rivers meet the sea in some places. The water there is a mix. Who could live there?
-  - Note: Water that is a mix of fresh and salt is called brackish. Mangrove trees, crabs and some fish live in brackish water. In Kerala, the Thanneermukkom barrier was built across Vembanad lake to keep salt water out of the rice fields of Kuttanad.
+  - Note: Fish there must cope with water whose saltiness changes with the tide and the season. Water that is a mix of fresh and salt is called brackish. Mangrove trees, crabs and some fish live in brackish water. In Kerala, the Thanneermukkom barrier was built across Vembanad lake to keep salt water out of the rice fields of Kuttanad.
   - Check: Why did the coloured fresh water stay on top? → **Salty water is heavier than the same amount of fresh water**
 ### a4 · Map India's Waters: fresh, salty or mixed? (15 min)
 - **record:** Keep the map in your notebook with a key for the three colours.
@@ -454,10 +456,11 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s2 (7 min)**  
   *Parent does:* Mark three brackish places in brown. 1. The Kerala backwaters. 2. Pulicat lake, on the Tamil Nadu and Andhra border. 3. Chilika lake in Odisha.  
   *Parent says:* Some water is a mix of fresh and salty. These places are where rivers meet the sea. Mark them in brown.  
-  *Child mode:* Mark the mixed places in brown. Kerala backwaters. Pulicat. Chilika.
+  *Child mode:* Mark the mixed places in brown: the Kerala backwaters, Pulicat lake and Chilika lake.
   - Note: Chilika is a home of the Irrawaddy dolphin. Pulicat lake is famous for flamingos in winter.
   - Check: Chilika lake is joined to the sea and also gets water from rivers. What kind of water is it? → **Brackish water, a mix of both**
 ### a5 · Bubbles from a Water Plant: sun or shade? (25 min)
+- **problem:** Water plants and algae make the oxygen that fish breathe, but they need something to do it. You will put one water plant in sunlight and one in a dark cupboard, and look for bubbles of oxygen on each.
 - **record:** Write how many bubbles you saw on each sprig, or 'many', 'few' or 'none'.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut the plant into two sprigs of the same size. 2. Put one in each glass, cut end up. 3. Put one glass in bright sunlight and one in a dark cupboard.  
@@ -477,14 +480,15 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 
 ## Projects
 ### p1 · Green Water Jar: grow a tiny pond (45 min, 21 days)
+- **problem:** Algae are tiny living things that make their own food. They are too small to see one by one, but they are in the air and the soil. You will set up two jars of water, one in the sun and one in the dark, to find out whether algae need light to grow.
 - **safety:** Wash your hands after touching the jar water. Never drink it. Cover the jars with a cloth tied with a rubber band, so mosquitoes cannot lay eggs in them.
 - **record:** Draw both jars every week and write the colour of the water.
 - **schedule:** day 1: Set up two jars of water with a pinch of pot soil. Put one in a sunny window and one in a dark cupboard. Cover both with cloth. (15 min); day 7: Look at both jars. Is either one turning green? Draw them. (10 min); day 14: Look again. Look closely at the sides with a magnifying glass. Draw them. (10 min); day 21: Compare the two jars and explain the difference. Then pour the water into a pot plant. (10 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Fill both jars with tap water that has stood open for a day. 2. Add a pinch of pot soil to each. 3. Cover each with a cloth. 4. Put one on a sunny windowsill and one in a dark cupboard.  
-  *Parent says:* We are making two tiny ponds. One gets sunlight and one gets none. Let's see which one comes alive with green.  
+  *Parent says:* We are making two tiny ponds. One gets sunlight and one gets none. Let's see which one turns green.  
   *Child mode:* Fill two jars. Add a pinch of soil. Cover them. One goes in the sun. One goes in the dark.
-  - Note: Leaving tap water open for a day lets some of its chlorine escape. The soil or vase water brings in algae too small to see.
+  - Note: Leaving tap water open for a day lets some of its chlorine escape. The pinch of soil brings in algae too small to see.
 - **s2 (10 min)**  
   *Parent does:* Look at both jars after one week. Draw them.  
   *Parent says:* Has either jar changed colour? Look at the side that faces the window.  
@@ -505,7 +509,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 
 ## Challenges
 ### c1 · Put Air Back in the Pond (30 min)
-- **problem:** On hot, still nights, a pond can run short of oxygen. Design a way to mix more air into a bucket of still water, using only things from home.
+- **problem:** On hot, still nights, a pond can run short of oxygen. Air dissolves into water at the surface, where the water touches the air. So the more the surface is broken and splashed, the more air gets in. Design a way to mix more air into a bucket of still water, using only things from home.
 - **your turn:** Now invent your own way to mix air into still water. Draw it, try it, and explain why it adds air.
 - **constraints:** Use only things from home.; No electric pumps.; Show how your idea breaks the water's surface or pushes air into it.
 - **general:** Pour water from a height, like a waterfall, so it splashes.; Stir the water hard, so the surface keeps breaking.; Blow air into the water through a straw.
@@ -558,8 +562,8 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 2. (truefalse) A fish breathes the water, not the air in it.  
    **Answer:** False. *Why:* False. A fish breathes the oxygen dissolved in the water. Their gills take that oxygen out of the water.
 3. (truefalse) Cold water holds more dissolved air than warm water.  
-   **Answer:** True. *Why:* True. That is why the fridge-cold glass grew the most bubbles as it warmed up.
-4. (mcq) Meena, a girl in Class 3, fills a glass with cold water from the fridge and leaves it on the table. An hour later, tiny bubbles cover the inside of the glass. What are the bubbles?  
+   **Answer:** True. *Why:* True. That is why, in the Cold Glass Test, the glass of fridge-cold tap water grew the most bubbles as it warmed up.
+4. (mcq) You fill a glass with cold water from the fridge and leave it on the table. An hour later, tiny bubbles cover the inside of the glass. What are the bubbles?  
    Options: Soap left in the glass / Air that was dissolved in the water / Steam / Tiny fish eggs  
    **Answer:** Air that was dissolved in the water. *Why:* The water held dissolved air. As it warmed up, it could not hold it all, so some came out as bubbles. Steam comes only from very hot water.
 5. (fill) A fish takes oxygen out of the water with their ____.  
@@ -571,7 +575,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
    **Answer:** wet skin. *Why:* Oxygen passes through a frog's thin skin, but only when the skin is wet. That is why frogs stay near water.
 8. (match) Match each living thing to how they get their oxygen.  
    **Answer:** Fish → gills, from the water; Tadpole → gills, from the water; Adult frog → lungs and wet skin; Lotus roots → air sent down through the stem. *Why:* Each living thing in a pond has their own way of getting oxygen.
-9. (mcq) Lalit, a boy in Class 3, puts cucumber slices in very salty water. After 20 minutes, what happens to them?  
+9. (mcq) You put cucumber slices in very salty water. After 20 minutes, what happens to them?  
    Options: They go stiff and hard / They go floppy / They turn blue / Nothing happens  
    **Answer:** They go floppy. *Why:* Water moves out of the cucumber into the saltier water, so the slices go limp. Sea water would do the same to a river fish.
 10. (write) Why do fish in a pond sometimes gulp at the surface just before sunrise? Use the words 'algae' and 'oxygen'.  
@@ -583,18 +587,18 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 13. (write) A frog sits all day on a hot, dry road. What problem will their skin have? Use the word 'wet' in your answer.  
    **Answer:** A frog breathes partly through their skin, and oxygen passes only through wet skin. On a hot, dry road the skin dries out, so the frog cannot take in enough oxygen.. *Why:* A full answer links dry skin to breathing.
 14. (perspective) A village temple tank has lotus leaves spreading across most of the water. People disagree about it.  
-   **Answer:** A strong answer picks a side with a reason. For Selvi: shade keeps water cooler, and cool water holds more oxygen. For Tashi: algae need light to make oxygen, and air mixes in at the open surface. It then admits what the other has right: both shade and open water matter.. *Why:* Both sides have real science behind them. The best pond has some cover and some open water.
+   **Answer:** A strong answer picks a side with a reason. For the flower seller: shade keeps water cooler, and cool water holds more oxygen. For the person who looks after the fish: algae need light to make oxygen, and air mixes in at the open surface. It then admits what the other has right: both shade and open water matter.. *Why:* Both sides have real science behind them. The best pond has some cover and some open water.
 15. (mcq) In the Flat or Tall test, which dough shape stayed put when water was poured at it?  
    Options: The tall tower / The ball / The flat dome  
    **Answer:** The flat dome. *Why:* The flat dome is low, so the water slides over it, and its wide base grips the plate. Many stream animals are flat for this reason.
 ### Breathing Under Water (stretch) (stretch, 15 questions)
 1. (mcq) In the Cold Glass Test, why did glass B, the boiled water, grow almost no bubbles?  
    Options: Boiling made the water heavier / Boiling had already driven most of the air out / Boiled water is too clean / Glass B was a different shape  
-   **Answer:** Boiling had already driven most of the air out. *Why:* Boiling drives dissolved air out of water. The full, capped bottle stopped much air dissolving back in. So there was little air left to come out.
-2. (mcq) In the Cold Glass Test, what was the one thing that changed between the three glasses?  
-   Options: The size of the glass / The warm bath / The water inside / The time we waited  
-   **Answer:** The water inside. *Why:* In a fair test, only one thing changes. Here it was the water inside: cold tap, cold boiled or room-temperature tap.
-3. (truefalse) A fish can breathe in air, as long as their gills stay in the air.  
+   **Answer:** Boiling had already driven most of the air out. *Why:* Boiling drives dissolved air out of water. The bottle was full and capped, so little air could dissolve back in. So there was little air left to come out.
+2. (mcq) In the Cold Glass Test, you warm three glasses: cold tap water, cold boiled water and room-temperature tap water. In a fair test, what is the one thing that should be different between the three glasses?  
+   Options: The size of the glass / The warm bath / The water inside / The time you wait  
+   **Answer:** The water inside. *Why:* In a fair test, only one thing changes. Here it is the water inside. The glass, the warm bath and the waiting time stay the same.
+3. (truefalse) A fish taken out of water can breathe the air with their gills.  
    **Answer:** False. *Why:* False. Out of water, a fish's thin gill folds stick together and stop working, so most fish cannot breathe in air. A few, like the murrel, have extra air-breathing parts.
 4. (mcq) Water holds about how much oxygen compared with the same amount of air?  
    Options: The same / About twice as much / About 30 times less / No oxygen at all  
@@ -606,7 +610,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 7. (draw) Draw a line graph of the oxygen in a green pond from noon one day to noon the next day. Mark where it is highest and where it is lowest.  
    **Answer:** The line rises through the afternoon while the algae make oxygen, falls through the evening and all night, is lowest just before sunrise, then rises again after sunrise.. *Why:* Oxygen falls whenever the algae cannot make it and everything keeps using it.
 8. (truefalse) Salty water is heavier than the same amount of fresh water.  
-   **Answer:** True. *Why:* True. That is why fresh water floated on top of salty water in the layers activity.
+   **Answer:** True. *Why:* True. That is why fresh water floated on top of salty water in the activity Where the River Meets the Sea.
 9. (match) Match each kind of fish to how their body copes with the water.  
    **Answer:** Sea fish → drink sea water and push the extra salt out through their gills; River fish → make lots of very watery urine to get rid of the water that soaks in. *Why:* A sea fish keeps losing water to the salty sea. A river fish has water soaking into the body all the time. Each kind of fish is built for one kind of water.
 10. (fill) Water that is a mix of fresh and salt water, where a river meets the sea, is called ____ water.  
@@ -618,10 +622,10 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
    **Answer:** Roots in airless mud → air canals in the lotus stem; Fast flowing water → a flat body that hugs rocks; Little oxygen in water → gills with many thin folds; Moving through water easily → a streamlined body. *Why:* Each feature solves a problem that the living thing has in water.
 13. (write) In the story 'The Pond That Gasped at Dawn', the fish stopped gulping at dawn after the rain. Explain why.  
    **Answer:** The rain cooled the water, and cool water holds more oxygen. The wind and splashing rain mixed more air into the water.. *Why:* Two reasons are best: cooler water and air mixed in by waves and rain.
-14. (mcq) In the water plant activity, the sprig in the cupboard made few or no bubbles. What does this tell us?  
+14. (mcq) In the activity Bubbles from a Water Plant, the sprig in the dark cupboard made few or no bubbles. What does this tell us?  
    Options: Plants make oxygen only in light / Plants hate cupboards / Water in cupboards has no air / The sprig was dead  
-   **Answer:** Plants make oxygen only in light. *Why:* Plants and algae need light to photosynthesise. In the dark they make no oxygen.
-15. (write) Hari, a boy in Class 4, says, 'Boiled and cooled water is the cleanest, so a fish will be safest in it.' What is his mistake?  
+   **Answer:** Plants make oxygen only in light. *Why:* Plants and algae make oxygen by photosynthesis, which needs light. In the dark they make no oxygen.
+15. (write) Someone says, 'Boiled and cooled water is the cleanest, so a fish will be safest in it.' What is the mistake?  
    **Answer:** Boiling drives the dissolved air out of the water, and fish breathe that dissolved oxygen. A fish in boiled and cooled water would have almost nothing to breathe.. *Why:* A strong answer says that boiling removes dissolved oxygen, and fish need it.
 ### Water Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) A fish tank sits in a sunny window in May, and the fish keep gulping at the top. What is the best fix?  
@@ -634,28 +638,28 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
    **Answer:** False. *Why:* False. Warm water holds less oxygen, so a warm tank can support fewer fish, not more.
 4. (mcq) Why do fish in a river usually face upstream?  
    Options: To see their friends / So water flows into their mouths and over their gills the right way / Because they are lost / To keep warm  
-   **Answer:** So water flows into their mouths and over their gills the right way. *Why:* Facing the current, water flows in at the mouth and out over the gills. Facing the other way, water would push against the gill covers.
-5. (write) A girl says, 'Green water is always bad for fish.' Is she right? Explain.  
+   **Answer:** So water flows into their mouths and over their gills the right way. *Why:* When a fish faces the current, water flows in at the mouth and out over the gills. If the fish faced the other way, water would push against the gill covers.
+5. (write) 'Green water is always bad for fish.' Is this right? Explain.  
    **Answer:** Not always. Some algae feed the animals in a pond and make oxygen in the day. The trouble comes when far too many grow, and they use up oxygen at night and when they rot.. *Why:* A good answer says some algae are good and too many are harmful.
 6. (mcq) The hilsa lives in the sea and lays their eggs in rivers. What must their body be able to do?  
    Options: Live in both salty and fresh water / Breathe air / Climb waterfalls / Live without oxygen  
    **Answer:** Live in both salty and fresh water. *Why:* Moving from the sea to a river, the hilsa must cope with very different saltiness. Most fish cannot do this.
-7. (mcq) In the story 'The Pond That Gasped at Dawn', Paati said the murrel did not mind the shortage of oxygen. Why?  
-   Options: They sleep at night / They can breathe air at the surface / They eat algae / They live in the mud  
-   **Answer:** They can breathe air at the surface. *Why:* The murrel has extra air-breathing parts above the gills, so they can gulp air when the water is short of oxygen.
+7. (mcq) At dawn, a pond is short of oxygen and most fish gasp at the top. One kind of fish stays calm. What could that fish most likely do?  
+   Options: Sleep through the night / Breathe air at the surface / Eat algae / Hide in the mud  
+   **Answer:** Breathe air at the surface. *Why:* Fish breathe the oxygen dissolved in water. A fish that can also gulp air at the surface, like the murrel with their extra air-breathing parts, does not need the dissolved oxygen as much.
 8. (write) A lotus leaf stands high above the water. The plant's roots are in mud. Explain how air gets from the leaf to the roots.  
    **Answer:** Air goes into the leaf and travels down long air canals inside the leaf stalk and underground stem to the roots in the mud.. *Why:* The answer should name the air canals, the tubes you saw as holes in the stem.
 9. (fill) Tiny algae in the sea make about ____ of all the oxygen made on Earth each year.  
    **Answer:** ['half']. *Why:* Algae and other tiny ocean life make about half. Land plants make most of the rest.
 10. (order) Put the pond's day in order, starting at sunset.  
    **Answer:** ['Sunset: algae stop making oxygen', 'All night: everything keeps using oxygen', 'Just before sunrise: oxygen lowest', 'Noon: algae making lots of oxygen']. *Why:* Oxygen falls all night, is lowest at dawn, and rises again once the sun shines on the algae.
-11. (write) Aristotle thought fish do not breathe. How did Humboldt and Provençal show he was wrong?  
-   **Answer:** They kept fish in closed jars of water and measured the gases. The oxygen dissolved in the water went down and carbon dioxide went up, so the fish were breathing.. *Why:* The key is measuring the gases in the water before and after.
+11. (write) Long ago, some people thought fish do not breathe. How could you test whether a fish breathes the air dissolved in water?  
+   **Answer:** Keep a fish in a closed jar of water and measure the gases in the water at the start and later. If the oxygen goes down and carbon dioxide goes up, the fish is breathing. A jar of the same water with no fish shows what happens without a fish.. *Why:* The key is measuring the gases in the water before and after, and comparing with a jar that has no fish.
 12. (draw) Draw a fish and show with arrows how water goes in and out as they breathe.  
    **Answer:** An arrow into the mouth, over the gills, and out under the gill cover.. *Why:* Water enters the mouth and leaves over the gills, where oxygen passes into the blood.
 13. (truefalse) A river fish put into the sea would soak up even more water.  
    **Answer:** False. *Why:* False. The sea is saltier than a river fish's body, so water would leave their body, as it left the cucumber.
-14. (sort) Does it add oxygen to a pond, or use it up?  
+14. (sort) Sort these. Does each one add oxygen to a pond, or use it up?  
    **Answer:** a splashing waterfall → Adds oxygen; fish breathing → Uses up oxygen; algae in sunlight → Adds oxygen; bacteria rotting dead leaves → Uses up oxygen; wind making waves → Adds oxygen; algae at night → Uses up oxygen. *Why:* Oxygen comes in from the air at the surface and from algae in the light. Every living thing in the pond, and the bacteria that rot dead leaves, use up oxygen.
 15. (perspective) A city lake has turned green and smelly, and fish are dying. People disagree about what to do.  
    **Answer:** A strong answer picks a plan and uses the science: sewage feeds algae, and when they die the rotting uses up oxygen, so cleaning the source fixes the cause. Fountains mix in air, which helps fish at once. It then admits what another plan gets right.. *Why:* The plans trade speed against fixing the cause. Real lake managers often do both.
@@ -672,10 +676,10 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 2. (mcq) Which water is salty?  
    Options: A village pond / The Kaveri river / The Arabian Sea / Rain  
    **Answer:** The Arabian Sea. *Why:* Sea water is salty, about 35 grams of salt in every litre. Ponds, rivers and rain are fresh.
-3. (mcq) Nila, a girl in Class 3, warms three glasses of water: fridge-cold tap water, fridge-cold boiled water, and room-temperature tap water. Which grows the most bubbles?  
+3. (mcq) You warm three glasses of water: fridge-cold tap water, fridge-cold boiled water, and room-temperature tap water. Which grows the most bubbles?  
    Options: The fridge-cold tap water / The fridge-cold boiled water / The room-temperature tap water  
    **Answer:** The fridge-cold tap water. *Why:* Cold water holds the most dissolved air, so most comes out when it warms. Boiling had already driven the air out of the boiled water.
-4. (mcq) What were the tiny bubbles on the inside of the warmed glass?  
+4. (mcq) In the Cold Glass Test, what were the tiny bubbles on the inside of the warmed glass?  
    Options: Steam / Air that had been dissolved in the water / Soap / Germs  
    **Answer:** Air that had been dissolved in the water. *Why:* Nothing was added. The air was dissolved in the water all along and came out as the water warmed.
 5. (mcq) What does a fish breathe?  
@@ -695,11 +699,11 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
    **Answer:** Carrying air down to the parts in the mud. *Why:* Pond mud has almost no oxygen. Air canals carry air from the leaves to the underground stem and roots.
 10. (mcq) When do algae make oxygen?  
    Options: Only at night / Only in light / All the time, equally / Never  
-   **Answer:** Only in light. *Why:* Algae photosynthesise, which needs light. In the dark they make none but still use some.
+   **Answer:** Only in light. *Why:* Algae make oxygen by photosynthesis, which needs light. In the dark they make no oxygen, but they still use some.
 11. (mcq) A lake gets sewage flowing into it, and it turns bright green. Why do fish start to die?  
    Options: The green colour hurts their eyes / Far too many algae grow, then die and rot, and the rotting uses up the oxygen / The lake gets too cold / The fish eat too much  
    **Answer:** Far too many algae grow, then die and rot, and the rotting uses up the oxygen. *Why:* Sewage feeds an algal bloom. When the algae die, bacteria rot them and use up the oxygen fish need.
-12. (mcq) Anwesha, a girl in Class 3, puts cucumber slices in very salty water. Why do they go floppy?  
+12. (mcq) Cucumber slices are put in very salty water. Why do they go floppy?  
    Options: Salt makes them heavy / Water moves out of them into the salty water / They soak up too much water / They get cold  
    **Answer:** Water moves out of them into the salty water. *Why:* Water moves from the less salty side to the more salty side. The cucumber lost water and went limp.
 13. (mcq) Why can't most river fish live in the sea?  
@@ -756,9 +760,9 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - Why did the crab never share? *Because they were shellfish.*
 
 ## Connected maths
-- In the Cold Glass Test, Lakshmi, a girl in Class 3, counted the bubbles on the bottom of each glass after 15 minutes. Glass A had 48 bubbles. Glass C had 12 bubbles. How many times as many bubbles did glass A have? **4 times as many.**. Glass A had 48 bubbles and glass C had 12. 48 divided by 12 is 4. So glass A had 4 times as many. Check: 12 + 12 + 12 + 12 = 48. (queues `math.division.sharing-and-grouping.L3`)
+- In the Cold Glass Test, suppose you counted the bubbles on the bottom of each glass after 15 minutes. Glass A had 48 bubbles. Glass C had 12 bubbles. How many times as many bubbles did glass A have? **4 times as many.**. Glass A had 48 bubbles and glass C had 12. 48 divided by 12 is 4. So glass A had 4 times as many. Check: 12 + 12 + 12 + 12 = 48. (queues `math.division.sharing-and-grouping.L3`)
 - Sea water has about 35 grams of salt in every litre. A bucket holds 10 litres of sea water. About how much salt is in it? **About 350 grams.**. Each litre has about 35 grams. 10 litres have 10 times as much. 35 times 10 is 350. So about 350 grams, which is about as heavy as a small packet of salt. (queues `math.multiplication.equal-groups.L3`)
-- In the Day and Night in the Pond game, the pond starts with 10 oxygen tokens. Each round, two fish and the algae and snails use 3 tokens. Two NIGHT cards come in a row, adding nothing. How many tokens are left after the two nights? How many more nights in a row could the pond get through before a fish has no token? **4 tokens are left. One more night, and then a fish gulps.**. Each round uses 3 tokens: 1 for each fish and 1 for the algae and snails. After the first night, 10 - 3 = 7 are left. After the second, 7 - 3 = 4. A third night leaves 4 - 3 = 1, and everyone still breathes. On a fourth night in a row, only 1 token is left for 3 needed, so a fish must gulp at the surface. (queues `math.addition-subtraction.word-problems.L3`)
+- In the Day and Night in the Pond game, the pond starts with 10 oxygen tokens. Each round, two fish and the algae and snails use 3 tokens. Two NIGHT cards come in a row, adding nothing. How many tokens are left after the two nights? How many more nights in a row could the pond get through before a fish has no token? **4 tokens are left. One more night, and then a fish gulps.**. Each round uses 3 tokens: 1 for each fish and 1 for the algae and snails. After the first night, 10 - 3 = 7 are left. After the second, 7 - 3 = 4. A third night leaves 4 - 3 = 1, and everyone still breathes. On a fourth night in a row, only 1 token is left but 3 are needed, so a fish must gulp at the surface. (queues `math.addition-subtraction.word-problems.L3`)
 - Suppose you put a kitchen thermometer in the warm bath of the Cold Glass Test. It reads 40 degrees at the start and 34 degrees after 15 minutes. By how many degrees did the bath cool? If it kept cooling at the same speed, what would it read after another 15 minutes? **It cooled by 6 degrees. After another 15 minutes it would be about 28 degrees.**. 40 - 34 = 6, so it cooled 6 degrees in 15 minutes. Another 15 minutes at the same speed would take off another 6: 34 - 6 = 28. Really, warm water cools more slowly as it gets near room temperature, so it might stay a little warmer. (queues `math.temperature.reading-thermometers.L3`)
 - A frog's tadpole stage lasts about 8 weeks. How many days is that? If a tadpole hatched on the 1st of July, about when would they become a frog? **56 days. About the 26th of August.**. A week has 7 days. 8 times 7 is 56. July has 31 days, so after 1st July, 30 days take us to the 31st of July. 56 - 30 = 26 more days takes us to about the 26th of August. Different frogs take different times, and warm water makes tadpoles grow faster. (queues `math.time.calendar.L3`)
 

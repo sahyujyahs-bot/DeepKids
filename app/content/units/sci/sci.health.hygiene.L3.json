@@ -9,7 +9,7 @@
  ],
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home with the materials listed. The turmeric test says to score clumps of powder, not the faint yellow dye turmeric leaves on skin, and to wash fully between rounds so each round starts fresh. The jar test gives amounts, says the plain jar separates in 1 to 3 minutes, and says to stop at 10 minutes and write 'more than 600 seconds' if the soapy jar is still cloudy. Bar soap flakes work but slowly. The bread test says packet bread with preservatives can take 10 days or more, so bakery bread or pav is better, and that a mouldy soap slice is a real result to talk about. The bags are never opened. The reetha activity says to soak the shells at least 15 minutes beforehand, and what to do if they have not soaked long. The tippy-tap hangs by a taped string round its middle, three-quarters full, with the foot string on its neck, so it really tips. The Sneeze Catcher uses food colour or ink, because turmeric blocks a spray nozzle. The timeline lets children write words instead of drawing all 8 cards, so it fits 25 minutes. The still-water check works in a flat: trays, buckets and coolers are scrubbed as well as emptied, because some mosquito eggs stick to the sides. The pepper test and the animal-watching activity were taken out, because they were about other ideas (surface tension, animal grooming) and broke the unit's one thread: germs ride on hands, and soap lifts them off. Parents should know: the bread test runs for a week, the turmeric stains clothes and towels, reetha stings in the eyes, and the private-parts card is short and plain about body safety. The Semmelweis card and chart say honestly that mothers died; read it first and tell it calmly.",
  "summary": {
-  "text": "Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule holds oil at one end and water at the other. So the rinse water carries the oil away, and the germs go with it. Most of those germs go down the drain still alive, far from your mouth. Washing with soap before food and after the toilet stops germs passing from hand to mouth, and from person to person.",
+  "text": "Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule has one end that sticks to oil and another end that sticks to water. Soap wraps tiny blobs of oil, and the rinse water carries the blobs away. The germs that were in the oil go with them. Most of those germs go down the drain still alive, far from your mouth. Washing with soap before food and after the toilet stops germs passing from hand to mouth, and from person to person.",
   "art": "A child's soapy hands under a running tap, with a zoomed-in circle showing two-ended soap molecules wrapping a blob of oil with a germ inside, being carried off in the water towards the drain."
  },
  "intro": {
@@ -434,7 +434,7 @@
   {
    "q": "If you cannot see germs, how can you know they are there?",
    "kind": "deep",
-   "hint": "In the bread test, mould grew on slices touched by unwashed hands. Semmelweis wrote down how many mothers died each month, before and after doctors washed their hands."
+   "hint": "We can see what germs leave behind. In the bread test, mould grew on slices touched by unwashed hands. Semmelweis counted how many mothers died each month, before and after the doctors washed their hands."
   },
   {
    "q": "Why does a molecule with two different ends clean better than one that sticks only to water?",
@@ -1248,7 +1248,7 @@
       "A test of the soap's colour"
      ],
      "a": 0,
-     "why": "He could not see the 'particles' he suspected. The smell was a clue that something stayed. Scientists often use a clue they can sense to study things they cannot see."
+     "why": "He could not see what was on his hands, but the smell showed that something was still there. Scientists often use a clue they can sense to study things they cannot see."
     },
     {
      "t": "mcq",
@@ -1319,7 +1319,7 @@
     },
     {
      "t": "write",
-     "p": "A child notices a clue that a doctor has missed, but nearly does not speak, because the doctor is an important man. Why is it good for science when everyone's observations count, not only those of important people?",
+     "p": "A child notices a clue that a doctor has missed, but nearly does not speak, because the doctor is an important person. Why is it good for science when everyone's observations count, not only those of important people?",
      "lines": 4,
      "a": "A strong answer says that anyone can notice a clue, and the person who notices may not be important. If only important people were listened to, many true clues would be lost. What matters is the evidence, not who brings it.",
      "why": "Evidence matters, not who brings it.",
@@ -1918,7 +1918,8 @@
       "a": 0,
       "why": "The eyes, nose and mouth have soft, wet linings that germs can get through. Hands bring germs there. That is why washing hands before eating or rubbing eyes matters. Picking 'dirty-looking' is about how things look, not germs. How the body fights germs that do get in is in the immune system unit."
      },
-     "think": "We touch our faces without noticing. What else do your hands do without you deciding?"
+     "think": "We touch our faces many times without noticing. Is trying not to touch your face a good way to keep germs out? What works better?",
+     "parent": "Most people cannot simply stop, because most face touches happen without noticing. Washing hands with soap at the key moments, such as before eating, works better."
     }
    ],
    "context": "This is a counting activity. You count how often people touch their faces, because that is how hands carry germs into the body.",
@@ -1935,7 +1936,8 @@
      "art": "A notepad with tally marks grouped in fives and 'times 6' written beside them.",
      "caption": "3. Count the marks. Multiply by 6 for one hour."
     }
-   ]
+   ],
+   "problem": "Hands carry germs to the eyes, nose and mouth, which let germs in most easily. You will count how often you and a grown-up touch your faces in 10 minutes. Then you will work out how many touches that is in a whole hour."
   },
   {
    "id": "a2",
@@ -2017,7 +2019,8 @@
       "a": 0,
       "why": "Saponins hold oil and water, like soap, and they hold air in foam bubbles too. Picking 'air from the tree' mixes up foam with something stored inside the fruit. The foam forms only when you squeeze the shells in water. The water was only warm, so heat was not the reason."
      },
-     "think": "What other plants might make their own chemicals to protect themselves?"
+     "think": "The tree made saponins to protect its fruit, not to clean our plates. So why do saponins clean oil off a plate?",
+     "parent": "Saponins have a water-loving end and an oil-loving end, just like soap molecules. So they hold oil and water together, and the water carries the oil away, whatever the tree made them for."
     }
    ],
    "context": "This activity uses reetha, the soapnut, a dried fruit sold in Indian shops. You make foam from it and test whether a plant's own soap can clean oil.",
@@ -2034,7 +2037,8 @@
      "art": "Two steel plates side by side, one still shiny with oil and one clean after reetha water.",
      "caption": "3. Wash an oily plate with the reetha water. Compare it with plain water."
     }
-   ]
+   ],
+   "problem": "Plants can make soap-like molecules too. You will make foam from reetha, a dried soapnut, and test whether it cleans an oily plate as well as soap does."
   },
   {
    "id": "a3",
@@ -2102,7 +2106,8 @@
      "art": "The child tipping water from a flowerpot tray onto a dry, sunny balcony floor while the grown-up scrubs the tray with a brush.",
      "caption": "3. Fix one germ spot with a grown-up. Tip out the water and scrub the tray."
     }
-   ]
+   ],
+   "problem": "Germs spread through dirty water, flies and mosquitoes, and not only on hands. You will look round your home and street for places where this could happen. Then you will fix one of them."
   },
   {
    "id": "a5",
@@ -2240,7 +2245,8 @@
       "a": 0,
       "why": "Without good microscopes, germs could not be seen, and the old idea of bad air seemed to fit. Changing a big idea takes evidence and time. Picking 'germs did not exist' mixes up when something was discovered with when it began. Microbes are billions of years old."
      },
-     "think": "Is there an idea everyone believes today that people might laugh at in 200 years?"
+     "think": "Many doctors in 1847 refused to believe that their own hands carried illness. What could help a doctor change their mind?",
+     "parent": "A good answer: evidence. Semmelweis wrote down how many mothers died before and after washing, and he had a fair comparison in the midwives' ward. Listening to people who notice clues also helps, whoever they are."
     }
    ],
    "context": "This activity makes a timeline on a string, like a washing line. It shows how people slowly found out that germs cause illness, from 1546 to 1884.",
@@ -2379,7 +2385,8 @@
      "art": "A child pressing the foot loop so the bottle tips and a thin stream of water falls on their soapy hands over a bucket.",
      "caption": "3. Press the loop with your foot. Wash. Your hands touch only soap."
     }
-   ]
+   ],
+   "problem": "A tap handle is touched by dirty hands, and touching it again after washing puts germs back on clean hands. A tippy-tap is a hand-washing station that you work with your foot. Clean hands then touch nothing but the soap. You will build one."
   }
  ],
  "challenges": [
@@ -2838,7 +2845,7 @@
   "Is there any still water near our home this week?",
   "Who cleaned our street today?",
   "The curd set overnight. Who did that work?",
-  "If you could see germs, what colour would you want them to be?",
+  "Germs are too small to see. What could we do to show that they are there?",
   "How many times have you touched your face since lunch?"
  ],
  "jokes": [

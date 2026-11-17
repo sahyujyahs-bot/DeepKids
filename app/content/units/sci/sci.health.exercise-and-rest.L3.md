@@ -34,9 +34,9 @@
 **Definition:** A muscle needs energy to contract. It keeps a small, quick store of fuel inside its cells. To refill that store, the muscle needs oxygen and food, which the blood brings.
 
 When you squeeze a peg fast, your finger muscles contract again and again. Each contraction uses some of the quick fuel store. If you keep going without a break, the muscle uses the fuel faster than the blood can help refill it. Waste also builds up inside the muscle. So the muscle slows down and starts to ache. When you stop, blood keeps flowing through the muscle. It brings oxygen, and the muscle uses it to refill its store. It also carries the waste away. After a short rest the muscle can work hard again. The quick fuel is called phosphocreatine. It was found in 1927 by Cyrus Fiske and Yellapragada Subbarow, who grew up in Andhra Pradesh, and at the same time by Grace and Philip Eggleton in England.
-- e.g. Squeezing a peg for two and a half minutes without stopping, your count falls in every round.
+- e.g. When you squeeze a peg for two and a half minutes without stopping, your count falls in every round.
 - e.g. After a short rest, a fast bowler can run in and bowl hard again.
-- e.g. Carrying a heavy bag up three floors, your legs ache by the top. After a minute of standing, they feel better.
+- e.g. When you carry a heavy bag up three floors, your legs ache by the top. After a minute of standing, they feel better.
 ### Why muscles get tired: two answers · *debated*
 Everyone agrees that a muscle that works hard without rest slows down. Scientists still argue about what causes most of the tiredness. One answer is that it happens inside the muscle. The other answer is that the brain makes you slow down early, to keep you safe. Most scientists now think both happen.
 - e.g. In the peg test, the fingers slow down even though you try your hardest.
@@ -76,11 +76,11 @@ Nearly every animal that has been studied sleeps or rests in a sleep-like way, e
 
 Most people are about half a centimetre to one centimetre taller just after waking up than at bedtime. Most of the height is lost in the first hour or two after getting up. Astronauts in space have no weight pressing down on their backs. Their discs fill up and their backbones straighten a little, so they grow up to about 5 centimetres taller. They shrink back after they return to Earth.
 - e.g. Measure yourself at bedtime and again just after waking. The morning mark is usually a little higher.
-- e.g. A sponge squeezed in your hand gets thinner. Put it in water and it swells again.
+- e.g. Your discs work like a sponge. A sponge squeezed in your hand gets thinner. Put it in water and it swells again.
 
 ## Mostly agreed
-- A muscle that works hard without a break gets slower and weaker, and rest lets it recover. *How we know:* Anyone can see it with the peg test at home. Scientists measure it with machines that record muscle force.
-- Working muscles need oxygen, which the blood brings. When less blood reaches a muscle, it tires faster. *How we know:* Squeezing a peg with the arm held up, so less blood reaches the hand, usually tires the fingers a little faster. Lab studies that squeeze the blood supply with a cuff show the same.
+- A muscle that works hard without a break gets slower and weaker, and rest lets it recover. *How we know:* Anyone can see it at home with the Tired Peg test, where you squeeze a clothes peg again and again. Scientists measure it with machines that record muscle force.
+- Working muscles need oxygen, which the blood brings. When less blood reaches a muscle, it tires faster. *How we know:* Squeezing a peg with the arm held up, so less blood reaches the hand, usually tires the fingers a little faster. Lab studies that use a tight cuff to cut down the blood supply show the same.
 - Regular exercise makes muscles, bones, the heart and the lungs stronger. *How we know:* Studies follow children and adults for months and measure their fitness and bone strength. Astronauts lose bone and muscle without exercise.
 - Children aged 6 to 12 need about 9 to 12 hours of sleep a night. *How we know:* In 2016, a group of sleep doctors in the United States studied hundreds of research papers and agreed on these numbers.
 - The brain is very busy during sleep, especially in dreaming sleep. *How we know:* Machines that record the brain's electrical signals show it. This was first seen clearly in 1953.
@@ -94,45 +94,45 @@ Most people are about half a centimetre to one centimetre taller just after waki
   For: Working muscles do make lactic acid, and lactic acid was for a long time blamed for tiredness.  
   Against: Lactic acid is cleared from the muscles within about an hour after exercise. The ache the next day comes from tiny injuries in the muscle, which heal and make it stronger.
 - **Most tiredness during exercise is made by the brain, not by the muscle.** (Tim Noakes, a South African sports scientist, and others; *debated*)  
-  For: People can often speed up at the end of a race, so their muscles had more left.  
-  Against: The peg test shows the muscle itself slowing down. Lab tests show the muscle's fuel store falling.
+  For: People can often speed up at the end of a race, so their muscles still had some strength left.  
+  Against: In the Tired Peg test, the finger muscles slow down even when you try your hardest. Lab tests show the muscle's fuel store falling.
 - **You can make up for lost sleep in the week by sleeping late on Sunday.** (A common idea; *debated*)  
   For: Sleeping longer after a short night does help you feel less sleepy.  
   Against: Studies find that one long sleep does not undo all the effects of a week of short nights. A steady bedtime works better.
 - **Resting is a waste of time.** (A common feeling, among busy children and grown-ups; *rejected*)  
   For: While you rest, you are not getting anything visible done.  
-  Against: In the peg test, two minutes of rest brought back much of the strength. In deep sleep, the body releases growth hormone. Rest is when the body refills, repairs and grows.
+  Against: In the Tired Peg test, where you squeeze a clothes peg again and again, two minutes of rest brought back much of the strength. In deep sleep, the body releases growth hormone. Rest is when the body refills, repairs and grows.
 
 ## Roots
 We have learned how muscles get tired and recover, what exercise builds and what happens in sleep. Now we ask what rest tells us about ourselves and the world.
 
-**Deep truth.** In the peg test, your squeezes slowed each round you did not rest. After two minutes of rest, your count went up again. In those two minutes, your blood brought oxygen and helped the muscle refill its fuel. So a resting muscle is busy, getting ready to work again.  
-*Habit it breaks:* We split the day into working and resting, and think of resting as doing nothing. But the peg test shows that strength comes back during rest, because the body is busy refilling and clearing the muscle.  
-*Evidence:* The peg count fell from round to round without a break, then rose after two minutes of rest. With the arm held up, so less blood reached the hand, the fingers usually tired a little faster.
+**Deep truth.** In the Tired Peg test, you squeezed a clothes peg for five rounds with no break, and your count fell each round. After two minutes of rest, your count went up again. In those two minutes, your blood brought oxygen and helped the muscle refill its fuel. So a resting muscle is busy, getting ready to work again.  
+*Habit it breaks:* We split the day into working and resting, and think of resting as doing nothing. But the Tired Peg test shows that strength comes back during rest, because the body is busy refilling and clearing the muscle.  
+*Evidence:* In the Tired Peg test, the count fell from round to round without a break, then rose after two minutes of rest. In the Arm Up, Arm Down test, the arm was held up so that less blood reached the hand, and the fingers usually tired a little faster.
 
 - *who am i:* You are a body that works and rests in turns, all day and all night. Even your heart rests for a moment between beats.
 - *what is life:* Every living thing has times of activity and times of rest. Tamarind trees fold their leaves at night, and a dog sleeps and dreams.
-- *what is this world:* The Earth turns from day to night, and the sea comes in and goes out. Much of the world moves in rhythms of more and less.
+- *what is this world:* The Earth turns from day to night, and the sea comes in and goes out. Much of the world works in turns like this: more for a while, then less.
 
-The peg test showed a rhythm: work uses the fuel up, and rest fills it again. Your heart contracts and then relaxes, every second of your life. Your lungs fill and empty. Tamarind trees fold their leaves at night and open them by day. Your whole body sleeps and wakes.
+The Tired Peg test showed a pattern: work uses the fuel up, and rest fills it again. You can find the same pattern in other places. Your heart contracts and then relaxes, every second of your life. Your lungs fill and empty. Tamarind trees fold their leaves at night and open them by day. Your whole body sleeps and wakes.
 
-- **Bhagavad Gita 6.16–6.17:** Yoga is not for someone who eats too much or too little, or sleeps too much or too little. It is for someone who keeps a balance in eating, playing, working, sleeping and waking. (The peg test and the sleep diary both show that the body needs a balance of work and rest, not only one of them.)
+- **Bhagavad Gita 6.16–6.17:** Yoga is not for someone who eats too much or too little, or sleeps too much or too little. It is for someone who keeps a balance in eating, playing, working, sleeping and waking. (The Tired Peg test and the sleep diary both show that the body needs a balance of work and rest, not only one of them.)
 - **Yoga Sutras of Patanjali 2.46:** A pose should be steady and comfortable. (In tree pose, your muscles work and relax in tiny amounts, all the time, to keep you steady. Steadiness itself needs a balance of effort and ease.)
 - **Mandukya Upanishad, verses 3 to 7:** There are four states of awareness: waking, dreaming, deep sleep, and a fourth that is aware of all three. (Sleep scientists also find different states in one night: light sleep, deep sleep and dreaming sleep. The Upanishad asks who is aware through all of them.)
 - Science (settled): After hard work, a muscle refills most of its quick fuel within a few minutes, using oxygen brought by the blood.
 - Science (settled): The brain is very active in dreaming sleep, and sleep helps people remember what they learned.
 - Science (open): Why animals need sleep at all has no full answer yet.
-- Other view, Tim Noakes, a South African sports scientist, and others: Much of what we feel as tiredness is made by the brain, which slows us down early to keep us safe. So the peg test may show the brain's caution as much as the muscle's empty store.
+- Other view, Tim Noakes, a South African sports scientist, and others: Much of what we feel as tiredness is made by the brain, which slows us down early to keep us safe. So in the Tired Peg test, the falling count may come from the brain being careful as much as from the muscle running out of fuel.
 - Practice, Feel the rest arrive (4 min): Let's lie down flat on our backs, with our arms by our sides. Close your eyes. Squeeze both fists as tight as you can and count to five. Now let go. Feel your hands go soft and heavy. Now squeeze your toes and count to five. Let go. Now breathe slowly, in for four counts and out for six counts. Do this five times. Notice the warmth in your hands. Your blood is flowing there right now, even though you are doing nothing.
 - Ask: When you rest, your body keeps refilling, repairing and growing. Is resting a kind of work?
 - Ask: In a dream, you can run and fly while your body lies still. Which one is really you?
 - Ask: Your heart rests between every beat, all your life. What else in the world works in turns like that?
 
 ## Deep and big questions
-- *deep:* After two minutes of rest, your peg count went up again. Where did the strength come back from? (hint: Think about what kept flowing through your hand while it rested.)
+- *deep:* In the Tired Peg test, your count went up again after two minutes of rest. Where did the strength come back from? (hint: Think about what kept flowing through your hand while it rested.)
 - *deep:* Your body lies still for 10 hours every night. Is sleep a time of doing nothing? (hint: Think of growing, dreaming and remembering. Which of them happen while you sleep?)
 - *deep:* Tiredness is a feeling. Does it come from the muscle or from the brain? (hint: Runners can often sprint at the finish line. What does that tell you?)
-- *big:* Your heart beats your whole life. It rests for a moment between every beat. Is there anything in the world that works without ever resting? (hint: Think of day and night, the tide, a plant at night, and your breath.)
+- *big:* Your heart beats your whole life. It rests for a moment between every beat. Is there anything in the world that works without ever resting? (hint: Your heart rests for a moment between beats. Day turns into night, and the tide goes out and comes back in. Do these ever stop, or does each one have a rest built in?)
 - *big:* When you dream, where are you? (hint: Your body is in bed. What about the you that runs and talks in the dream?)
 
 ## Story: The Night Before Pongal
@@ -196,9 +196,9 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 
 ## Games
 ### g1 · Day and Night: the energy race (20 min)
-- **rules:** Each player puts a counter on square 1, 6 a.m., and takes 3 energy tokens. Energy never goes above 5 or below 0.; On your turn, another player reads you a card and checks the answer on the back. Playing alone? Read it yourself.; Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square. If the cards run out, shuffle them and use them again.; On a TRY IT card, do it for real. Then gain 1 energy and roll.; Follow what the square you land on says. Squares you move on to from a square do not count: only the square you landed on.; If your energy is 0 at the start of your turn, you must REST: miss that turn and gain 2 energy.; When you land on or pass square 16, BEDTIME, take its 1 energy and write down your energy. That is your score. Then keep going through the night to square 24.; When everyone has reached square 24, the game ends. The highest score wins, and equal scores share the win. Playing alone? Try for a score of 4 or more. Then everyone says one thing their body does during sleep.
+- **rules:** Each player puts a counter on square 1, 6 a.m., and takes 3 energy tokens. Energy never goes above 5 or below 0.; On your turn, another player reads you a card and checks the answer on the back. Playing alone? Read it yourself.; If you answer right, roll the dice and move that many squares. If you answer wrong, move 1 square. If the cards run out, shuffle them and use them again.; On a TRY IT card, do it for real. Then gain 1 energy and roll.; Do what the square you land on says. If that square moves you on to another square, do not follow the second square.; If your energy is 0 at the start of your turn, you must REST: miss that turn and gain 2 energy.; When you land on or pass square 16, BEDTIME, take its 1 energy and write down your energy. That is your score. Then keep going through the night to square 24.; When everyone has reached square 24, the game ends. The highest score wins, and equal scores share the win. Playing alone? Try for a score of 4 or more. Then everyone says one thing their body does during sleep.
 - **Printable board: A board with 24 squares, one for each hour, going round in a circle from 6 in the morning to 5 the next morning:** Square 1, 6 a.m.: WAKE UP. Everyone starts here.; Square 2, 7 a.m.: BREAKFAST. Gain 1 energy.; Square 3, 8 a.m.: LONG LESSON, sitting still. Lose 1 energy.; Square 4, 9 a.m.: PLAY! Do 10 star jumps or march on the spot, then gain 1 energy.; Square 5, 10 a.m.: WATER BREAK. Take a sip of water, then move on 1 square.; Square 6, 11 a.m.: TOO LONG ON A SCREEN. Lose 1 energy.; Square 7, 12 noon: LUNCH. Gain 1 energy.; Square 8, 1 p.m.: STRETCH. Reach up high for three slow breaths, then move on 1 square.; Square 9, 2 p.m.: REST. Take three slow breaths, then gain 1 energy.; Square 10, 3 p.m.: PLAY! Do 10 star jumps or march on the spot, then gain 1 energy.; Square 11, 4 p.m.: HOMEWORK, sitting still. Lose 1 energy.; Square 12, 5 p.m.: BIG GAME OF KHO-KHO. Lose 2 energy, but move on 2 squares.; Square 13, 6 p.m.: TOO LONG ON A SCREEN. Lose 1 energy.; Square 14, 7 p.m.: DINNER. Gain 1 energy.; Square 15, 8 p.m.: YOGA. Stand in tree pose for 10 seconds, then gain 1 energy.; Square 16, 9 p.m.: BEDTIME. Screens off, lights out. Gain 1 energy, then write down your energy. That is your score.; Square 17, 10 p.m.: LIGHT SLEEP. Breathing slows down. Breathe slowly three times.; Square 18, 11 p.m.: DEEP SLEEP. The body makes growth hormone. Close your eyes and count five slow breaths.; Square 19, midnight: DEEP SLEEP. The discs in your back soak up water. Sit up straight and stretch your back tall.; Square 20, 1 a.m.: DREAMING SLEEP. The eyes dart about under the lids. Close your eyes and roll them left and right.; Square 21, 2 a.m.: DEEP SLEEP. The heart and breathing stay slow. Let both arms go floppy.; Square 22, 3 a.m.: DREAMING SLEEP. The brain is nearly as busy as when awake. Say one thing you dreamed about, real or made up.; Square 23, 4 a.m.: DREAMING SLEEP. The arm and leg muscles go floppy, so you do not act out dreams. Let your legs go floppy.; Square 24, 5 a.m.: WAKE UP. Stretch like a cat. This is the finish.
-- **Printable cards: 24 cards to cut out: 20 question cards and 4 TRY IT cards. Question on the front, answer on the back.:** In the clothes-peg test, what happens to your count if you squeeze round after round without a break? (back: It goes down.); What does a muscle do when it contracts? (back: It gets shorter and pulls on a bone.); Does rest help a tired muscle recover? (back: Yes. Blood keeps flowing through it and helps refill it.); Name one thing that helps a child fall asleep. (back: A dark, quiet, cool room, or no screen before bed.); Name a stamina exercise. (back: Skipping, cycling, swimming, kho-kho or running.); Name a strength exercise. (back: Climbing, carrying or wall push-ups.); Name a flexibility exercise. (back: Yoga or stretching.); In which yoga pose do you lie on your tummy and lift your chest? (back: Cobra pose, bhujangasana.); Which yoga breath is a long hum, like a bee? (back: Bhramari, the bee breath.); Name the yoga pose where you stand on one leg. (back: Tree pose, vrikshasana.); What does REM stand for? (back: Rapid eye movement.); After light sleep comes deep sleep or dreaming sleep? (back: Deep sleep. Dreaming sleep comes after that.); Does the brain switch off when you sleep? (back: No. It stays busy.); When is most growth hormone released? (back: In deep sleep.); Why can astronauts be up to about 5 cm taller in space? (back: Nothing presses down on their backs, so the discs fill up.); Why do astronauts exercise every day? (back: So their bones and muscles do not get weaker.); Who discovered dreaming sleep in 1953? (back: Eugene Aserinsky and Nathaniel Kleitman.); You squeeze a peg with your arm held up above your head. Do your fingers tire faster or slower than with the arm down? (back: Usually faster, because less blood reaches a raised hand.); Does the heart rest between beats? (back: Yes, for a moment between every beat.); Which day is the International Day of Yoga? (back: 21 June.); TRY IT: stand in tree pose for 10 seconds. (back: Did you do it? Gain 1 energy, then roll.); TRY IT: hum like a bee for one long breath out. (back: Did you do it? Gain 1 energy, then roll.); TRY IT: squeeze your fists tight, then let go. Which feels better? (back: Letting go. Gain 1 energy, then roll.); TRY IT: touch your toes slowly and hold for three breaths. (back: Did you do it? Gain 1 energy, then roll.)
+- **Printable cards: 24 cards to cut out: 20 question cards and 4 TRY IT cards. Question on the front, answer on the back.:** In the clothes-peg test, what happens to your count if you squeeze round after round without a break? (back: It goes down.); What does a muscle do when it contracts? (back: It gets shorter and pulls on a bone.); Does rest help a tired muscle recover? (back: Yes. Blood keeps flowing through it and helps refill it.); Name one thing that helps a child fall asleep. (back: A dark, quiet, cool room, or no screen before bed.); Name a stamina exercise. (back: Skipping, cycling, swimming, kho-kho or running.); Name a strength exercise. (back: Climbing, carrying or wall push-ups.); Name a flexibility exercise. (back: Yoga or stretching.); In which yoga pose do you lie on your tummy and lift your chest? (back: Cobra pose, bhujangasana.); Which yoga breath is a long hum, like a bee? (back: Bhramari, the bee breath.); Name the yoga pose where you stand on one leg. (back: Tree pose, vrikshasana.); What does REM stand for? (back: Rapid eye movement.); Which comes after light sleep: deep sleep or dreaming sleep? (back: Deep sleep. Dreaming sleep comes after that.); Does the brain switch off when you sleep? (back: No. It stays busy.); When is most growth hormone released? (back: In deep sleep.); Why can astronauts be up to about 5 cm taller in space? (back: Nothing presses down on their backs, so the discs fill up.); Why do astronauts exercise every day? (back: So their bones and muscles do not get weaker.); Who discovered dreaming sleep in 1953? (back: Eugene Aserinsky and Nathaniel Kleitman.); You squeeze a peg with your arm held up above your head. Do your fingers tire faster or slower than with the arm down? (back: Usually faster, because less blood reaches a raised hand.); Does the heart rest between beats? (back: Yes, for a moment between every beat.); Which day is the International Day of Yoga? (back: 21 June.); TRY IT: stand in tree pose for 10 seconds. (back: Did you do it? Gain 1 energy, then roll.); TRY IT: hum like a bee for one long breath out. (back: Did you do it? Gain 1 energy, then roll.); TRY IT: squeeze your fists tight, then let go. Which feels better? (back: Letting go. Gain 1 energy, then roll.); TRY IT: touch your toes slowly and hold for three breaths. (back: Did you do it? Gain 1 energy, then roll.)
 - **Printable tokens: Counters, energy tokens and a dice:** Counters: one coin, button or bottle cap for each player.; Energy tokens: cut 5 small paper squares for each player.; A dice from any board game.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the board. 2. Give each player a counter and 3 energy tokens. 3. Shuffle the cards and put them in a pile. 4. Put the dice beside the board.  
@@ -216,9 +216,10 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   - Note: In a flat with neighbours below, swap star jumps for marching on the spot. Most games last about 10 to 15 minutes.
 - **s4 (4 min)**  
   *Parent does:* When everyone has reached the morning, each player says one thing the body does during sleep.  
-  *Parent says:* Everyone is in bed. Tell me one thing your body or brain is doing while you sleep.  
+  *Parent says:* Everyone has reached the morning. Tell me one thing your body or brain does while you sleep.  
   *Child mode:* You reached the morning. Say one thing your body does while you sleep.
   - Ask: What does your body do while you sleep? (good: It grows, because growth hormone is released in deep sleep.; The brain dreams.; The brain sorts what I learned.; The discs in my back fill up, so I am taller in the morning.)
+  - Note: A good answer: sleep is a busy part of the day, and not a gap in it. During the night your body grows and repairs itself, and your brain stores what you learned. So the night squares belong in the game.
   - Think: Squares 17 to 23 are the night. Why does the board go through the whole night, and not stop at bedtime?
 ### g2 · Muscle Says: contract and relax (10 min)
 - **rules:** The caller reads a card aloud. Sometimes the caller starts with 'Muscle says', and sometimes not. With two players, a grown-up is the caller.; If the caller said 'Muscle says', the players do the move. If not, they stay still.; Players put a hand on the muscle and say 'hard' or 'soft'.; Anyone who moves when the caller did not say 'Muscle says' becomes the next caller. If the cards run out, shuffle them and go on. There is no winner: the aim is to feel every muscle change.
@@ -233,7 +234,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Child mode:* Listen for 'Muscle says'. Do it, and feel the muscle. Say hard or soft.
   - Check: When you stand on tiptoe, what does your calf muscle do? → **It contracts and gets hard**
 - **s3 (2 min)**  
-  *Parent does:* End by asking about pairs.  
+  *Parent does:* End by asking how muscles work in pairs.  
   *Parent says:* When you bend your arm, the front muscle contracts. What does the back of your arm do?  
   *Child mode:* Bend your arm. The front muscle is hard. Feel the back of your arm. Is it hard or soft?
   - Note: The muscle at the back of the upper arm relaxes when the arm bends, and contracts to straighten it. Muscles work in pairs, because each one can only pull.
@@ -264,7 +265,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Child mode:* Round 1. When your helper says go, squeeze as fast as you can. Stop when they say stop.
   - Note: Counting under your breath works better than making your child count, so they can put all their effort into squeezing. Most children of 8 manage somewhere between 30 and 70 squeezes in the first round.
 - **s4 (5 min)**  
-  *Parent does:* 1. Go straight on to round 2, with no break. Write the number in 2 or 3 seconds. 2. Do rounds 3, 4 and 5 the same way. 3. After each round, ask how the fingers feel, and write one word.  
+  *Parent does:* 1. Go straight on to round 2, with no break. Take only 2 or 3 seconds to write the number. 2. Do rounds 3, 4 and 5 the same way. 3. After each round, ask how the fingers feel, and write one word.  
   *Parent says:* No break! Round 2, go! Keep squeezing as hard as you can. How do your fingers feel now?  
   *Child mode:* No break. Keep going, round after round. Squeeze as fast as you can. How do your fingers feel?
   - Note: The count usually falls from round to round, and the child says the hand burns, aches or feels slow. If your child slows down on purpose to save strength, remind them to go as fast as they can every round. The test only works if every round is full effort.
@@ -272,16 +273,16 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent does:* 1. Your child lays the hand on the table and rests for two minutes. 2. Then do round 6, timed the same way.  
   *Parent says:* Now rest for two minutes. Let your hand lie still on the table. Then round 6.  
   *Child mode:* Rest your hand on the table. Wait two minutes. Then do round 6, as fast as you can.
-  - Check: Riya, a girl in Class 3, did five rounds with no break. Her counts were 50, 44, 39, 35 and 31. After two minutes of rest, what do you think round 6 was? → **About 45, because the rest let her fingers recover**
+  - Check: A child did five rounds of the Tired Peg test with no break. The counts were 50, 44, 39, 35 and 31. After two minutes of rest, what do you think round 6 was? → **About 45, because the rest let the fingers recover**
 - **s6 (5 min)**  
   *Parent does:* 1. A grown-up does the same six rounds while the child times and counts. 2. Compare the pattern of the two sets of numbers.  
   *Parent says:* Now it's my turn, and you are the timer and counter. Let's see if my numbers make the same pattern.  
   *Child mode:* Now you are the timer. Your grown-up squeezes. Count their squeezes. Is their pattern like yours?
   - Note: The grown-up's numbers may be bigger or smaller. What matters is the pattern: falling with no rest, then rising after the rest. If both of you show it, the result is less likely to be a fluke.
 - **s7 (5 min)**  
-  *Parent does:* 1. Your child draws a bar chart, one bar per round. 2. Then ask for three sentences: what I think, what I saw, why.  
+  *Parent does:* 1. Your child draws a bar chart, one bar per round. 2. Then ask your child to say three things: what they think, what they saw, and why it happened.  
   *Parent says:* Draw a bar for each round. Then tell me three things. What do you think now? What did you see? And why do you think it happened?  
-  *Child mode:* Draw a bar for each round. Then say three things. What I think. What I saw. Why.
+  *Child mode:* Draw a bar for each round. Then say three things: what you think, what you saw, and why it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a muscle gets tired when it works without a break, and rest brings its strength back. What I saw: my count went from 48 to 29 in five rounds, then up to 43 after resting. Why: the muscle used up its fuel, and while I rested my blood helped refill it. Now read the card 'What a working muscle uses up' together.
 ### e2 · Arm Up, Arm Down: does blood help a muscle keep going? (25 min)
 - **question:** Do your fingers tire faster when your hand is held up above your head, where less blood reaches it?
@@ -311,7 +312,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Child mode:* Rest for 10 minutes. Then lean your back on the wall and raise your arm straight up. Squeeze fast for one minute. Say 'now' when it aches.
   - Note: Most children feel the ache sooner with the arm up. Resting the arm against the wall stops the shoulder tiring first.
 - **s5 (4 min)**  
-  *Parent does:* 1. Compare the totals and the ache times. 2. Ask for what I think, what I saw, why.  
+  *Parent does:* 1. Compare the totals and the ache times. 2. Ask your child to say what they think, what they saw, and why it happened.  
   *Parent says:* Which way gave more squeezes? When did the ache start each time? Tell me what you think, what you saw, and why.  
   *Child mode:* Which way gave more squeezes? Which started aching sooner? Say what you think, what you saw, and why.
   - Note: Usually the arm-up count is lower and the ache comes sooner. After only one minute the difference can be small, and it can go the other way. If the two counts are within a few squeezes of each other, say honestly that it is too close to call, and try again another day. Ask what might have been different, such as tired fingers from earlier or counting mistakes.
@@ -339,7 +340,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   - Note: Most people are taller in the morning, often by about half a centimetre to one centimetre. If the difference is only 1 or 2 millimetres, it could be a measuring mistake. Measure a grown-up too: adults often show a bigger change.
   - Wait: Do this step the next morning, as soon as your child wakes up.
 - **s4 (3 min)**  
-  *Parent does:* 1. Work out the difference. 2. Ask for what I think, what I saw, why.  
+  *Parent does:* 1. Work out the difference. 2. Ask your child to say what they think, what they saw, and why it happened.  
   *Parent says:* How much taller or shorter were you this morning? Tell me what you think, what you saw, and why.  
   *Child mode:* Take away the night number from the morning number. That is the difference. What do you think made it?
   - Check: Why are most people a little taller in the morning? → **The soft discs in the backbone soak up water while you lie down, and get squashed again during the day**
@@ -357,11 +358,12 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent says:* The bottle weighed the same all the time. So why did it feel heavier and heavier?  
   *Child mode:* The bottle did not get heavier. So why did it feel heavier? What do you think?
   - Ask: Why did the bottle feel heavier and heavier? (good: My arm muscles got tired.; The muscles were working without a rest.)
-  - Note: Do not explain yet. Let your child guess. The unit answers this in the peg test.
+  - Note: Do not explain yet. Let your child guess. The Tired Peg experiment in this unit answers the question.
 - **s3 (3 min)**  
   *Parent does:* 1. Rest the arm for one minute. 2. Try again, timing it. 3. Compare the two times.  
   *Parent says:* Rest your arm for one minute. Then try again. Will you last as long as the first time?  
   *Child mode:* Rest for one minute. Then hold the bottle out again. Did you last as long?
+  - Note: While the arm rested, blood kept flowing through it. The blood brought oxygen, and the muscle used it to refill its quick store of fuel. Let your child guess first. The Tired Peg experiment and the card 'What a working muscle uses up' explain it fully.
   - Think: After one minute of rest, some strength came back, but maybe not all of it. Where did it come back from?
 ### a2 · Three Poses and a Bee Breath: a short yoga session (15 min)
 - **safety:** Move slowly and stop if anything hurts. Never bounce in a stretch.
@@ -379,7 +381,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **s3 (3 min)**  
   *Parent does:* 1. Lie on the tummy with hands under the shoulders. 2. Press gently and lift the head and chest, keeping the hips down. 3. Hold for three breaths. Lower slowly.  
   *Parent says:* This is cobra pose, bhujangasana. Lift your chest slowly, like a cobra lifting her head. Keep your hips on the floor.  
-  *Child mode:* Lie on your tummy. Hands under your shoulders. Lift your head and chest slowly. Breathe three times. Come down slowly.
+  *Child mode:* Lie on your tummy. Put your hands under your shoulders. Lift your head and chest slowly. Breathe three times. Come down slowly.
   - Note: Keep the elbows a little bent. The pose should feel like a gentle stretch at the front of the body, never a pinch in the back.
 - **s4 (3 min)**  
   *Parent does:* 1. Sit cross-legged and close the eyes. 2. Breathe in through the nose. 3. Breathe out slowly while humming, like a bee, with the mouth closed. 4. Do it five times. This is bhramari, the bee breath.  
@@ -390,8 +392,9 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent says:* Now child's pose. Rest your forehead on the floor. Let every muscle go soft.  
   *Child mode:* Kneel and sit back on your heels. Bend forward. Rest your forehead on the floor. Breathe slowly six times.
 ### a3 · My Sleep Diary and 24-Hour Circle (29 min, 7 days)
+- **problem:** Children of your age need about 9 to 12 hours of sleep every night. For one week you will write down how long you really sleep and how you feel each morning. Then you will look for a pattern.
 - **record:** A table with these columns: date, bedtime, wake-up time, hours slept, how I felt (great, fine or tired), how long I played or exercised.
-- **schedule:** day 1: Make the diary table. Write tonight's bedtime. (5 min); day 2: Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime. (2 min); day 3: The same as day 2. (2 min); day 4: The same as day 2. (2 min); day 5: The same as day 2. (2 min); day 6: The same as day 2. (2 min); day 7: Fill in the last row. Draw a 24-hour circle of one day. Look for a pattern. (14 min)
+- **schedule:** day 1: Make the diary table. Write tonight's bedtime. (5 min); day 2: Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime. (2 min); day 3: Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime. (2 min); day 4: Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime. (2 min); day 5: Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime. (2 min); day 6: Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime. (2 min); day 7: Fill in the last row. Draw a 24-hour circle of one day. Look for a pattern. (14 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Draw the diary table in the notebook. 2. Fill in tonight's bedtime: the time the lights go off.  
   *Parent says:* For one week, we'll write down when you sleep and wake, and how you feel. Then we'll look for a pattern.  
@@ -412,6 +415,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent says:* On the mornings you felt great, how many hours had you slept? On the tired mornings?  
   *Child mode:* Look at your table. On great mornings, how long did you sleep? On tired mornings?
 ### a4 · Stamina, Strength or Stretch? Sort and try (15 min)
+- **problem:** There are three kinds of exercise. Stamina exercise lets you keep going for a long time. Strength exercise makes your muscles push or pull hard. Flexibility exercise helps your body bend and stretch. You will sort everyday activities into these three kinds, and then try one of each.
 - **safety:** Do the moves on a clear floor, away from furniture.
 - **record:** Write your three groups. Circle the activities you do in a normal week.
 - **s1 (4 min)**  
@@ -422,7 +426,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent does:* Your child sorts the slips and explains each choice.  
   *Parent says:* Why did you put kabaddi there? Could it go in more than one bowl?  
   *Child mode:* Sort all 12 slips. Some could go in two bowls. Which ones?
-  - Ask: Which activities use more than one kind? (good: Kabaddi uses stamina, strength and stretch.; Bharatanatyam needs stamina, strength and flexibility.; Swimming builds stamina and strength.)
+  - Ask: Which activities use more than one kind of exercise? (good: Kabaddi uses stamina, strength and stretch.; Bharatanatyam needs stamina, strength and flexibility.; Swimming builds stamina and strength.)
   - Note: There is no single right answer for many slips. A good answer explains what the body does: kabaddi needs running for a long time, holding and pulling, and bending low.
 - **s3 (6 min)**  
   *Parent does:* 1. Do one minute of each: marching fast on the spot for stamina, wall push-ups for strength, and a slow toe-touch for stretch. 2. After each, ask what the body felt.  
@@ -444,13 +448,15 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent does:* Fill in the then and now table together.  
   *Parent says:* What is different now? Do children today move more or less? Sleep more or less?  
   *Child mode:* Fill in your table: then and now. What changed the most?
-  - Think: Which habit from long ago would you like to bring back?
+  - Note: A good answer: walking long distances gave stamina, and hard work such as carrying water gave strength. Stretch came from games and from yoga. Many children today sit more, so they often miss stamina and strength.
+  - Think: Look at your table. Which habits of your elder gave their body stamina, strength or stretch? Which of these three do children today often miss?
 
 ## Projects
 ### p1 · My Ten-Day Yoga Log: does practice make me steadier? (70 min, 10 days)
+- **problem:** Do your balance and your stretch get better with practice? You will test your balance in tree pose and your stretch in a sit and reach test. Then you will practise for 5 minutes a day and test again, to see whether the numbers change.
 - **safety:** Move slowly, and stop if anything hurts. Never bounce in a stretch.
 - **record:** A table with columns: day, tree pose on the left leg (seconds), tree pose on the right leg (seconds), sit and reach (cm).
-- **schedule:** day 1: Day 1 test: time tree pose on each leg, up to 60 seconds. Do the sit and reach test. Write the numbers. (10 min); day 2: Practise tree pose and the toe-touch stretch for 5 minutes. (5 min); day 3: Practise for 5 minutes. (5 min); day 4: Practise for 5 minutes. (5 min); day 5: Practise for 5 minutes, then test again and write the numbers. (15 min); day 6: Practise for 5 minutes. (5 min); day 7: Practise for 5 minutes. (5 min); day 8: Practise for 5 minutes. (5 min); day 9: Practise for 5 minutes. (5 min); day 10: Final test. Draw a chart of your tree pose times and reach on days 1, 5 and 10. (10 min)
+- **schedule:** day 1: Day 1 test: time tree pose on each leg, up to 60 seconds. Do the sit and reach test. Write the numbers. (10 min); day 2: Practise tree pose and the toe-touch stretch for 5 minutes. (5 min); day 3: Practise tree pose and the toe-touch stretch for 5 minutes. (5 min); day 4: Practise tree pose and the toe-touch stretch for 5 minutes. (5 min); day 5: Practise tree pose and the toe-touch stretch for 5 minutes. Then do the tree pose test and the sit and reach test again, and write the numbers. (15 min); day 6: Practise tree pose and the toe-touch stretch for 5 minutes. (5 min); day 7: Practise tree pose and the toe-touch stretch for 5 minutes. (5 min); day 8: Practise tree pose and the toe-touch stretch for 5 minutes. (5 min); day 9: Practise tree pose and the toe-touch stretch for 5 minutes. (5 min); day 10: Do the tree pose test and the sit and reach test one last time. Draw a chart of your tree pose times and reach on days 1, 5 and 10. (10 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Time tree pose on each leg, up to 60 seconds. Stop the timer when the raised foot touches the floor. 2. Write both times.  
   *Parent says:* Today is test day. Let's see how long you can stand in tree pose on each leg.  
@@ -466,38 +472,38 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Child mode:* Practise tree pose on each leg. Then reach for your toes slowly. Hold for three breaths. Do it three times.
   - Wait: Practise every day for days 2 to 9, and test again on day 5 and day 10.
 - **s4 (10 min)**  
-  *Parent does:* 1. On day 10, test again. 2. Draw a bar chart of tree pose times on days 1, 5 and 10. 3. Ask for what I think, what I saw, why.  
+  *Parent does:* 1. On day 10, test again. 2. Draw a bar chart of tree pose times on days 1, 5 and 10. 3. Ask your child to say what they think, what they saw, and why it happened.  
   *Parent says:* Did your times change? Tell me what you think, what you saw, and why.  
   *Child mode:* Draw a bar for day 1, day 5 and day 10. Did you get steadier? Why do you think so?
   - Note: Most children improve their tree pose time within ten days. The reach may change only a little. Both are real results. If nothing changed, ask your child what might help, such as practising at the same time every day.
-  - Check: Nisha, a girl in Class 3, held tree pose for 12 seconds on day 1 and 40 seconds on day 10. What is the best explanation? → **Her body and brain got better at the tiny corrections that keep her balanced**
+  - Check: A child held tree pose for 12 seconds on day 1 and 40 seconds on day 10, after practising every day. What is the best explanation? → **The child's body and brain got better at the tiny corrections that keep the body balanced**
 
 ## Challenges
 ### c1 · The Monsoon Workout: exercise in a small flat (30 min)
 - **problem:** It has rained for a week, and nobody can go out to play. Design a 10-minute workout for a small flat that builds stamina, strength and flexibility, without disturbing the neighbours downstairs.
 - **your turn:** Now plan your own monsoon workout. Write the moves and the rest times on a card. Do it with your family, and time it. Did it work your breath, your muscles and your stretch?
 - **constraints:** It must fit in a space the size of a single bed.; No jumping or stamping, because the neighbours below will hear.; It must include at least one stamina move, one strength move and one stretch.; It must last 10 minutes, with short rests.
-- **general:** March fast on the spot, or dance on the spot, for stamina.; Slow squats, or sitting against a wall as if on a chair, for strength.; Cobra pose and a slow side bend for flexibility.; Work for one minute, then rest for 30 seconds, then the next move.
+- **general:** March fast on the spot, or dance on the spot, for stamina.; Slow squats, or sitting against a wall as if on a chair, for strength.; Cobra pose and a slow side bend for flexibility.; Do one move for one minute, rest for 30 seconds, then start the next move.
 - **creative:** Make a dice where each number is a move, and roll for the order.; Climb the building stairs slowly, one floor at a time, if your building has stairs.; Make it a dance to your favourite song, such as garba, bhangra or a film song, with each verse a different kind of move.
 - **s1 (5 min)**  
   *Parent does:* Read the problem and the rules together.  
   *Parent says:* It's been raining for a week. Plan a 10-minute workout for our flat, with no jumping.  
-  *Child mode:* Rain all week! Plan a 10-minute workout in a small space. No jumping. Include stamina, strength and stretch.
+  *Child mode:* It has rained all week. Plan a 10-minute workout in a small space. No jumping. Include stamina, strength and stretch.
 - **s2 (10 min)**  
   *Parent does:* Your child writes the plan: each move, how long, and the rests.  
   *Parent says:* Write each move, how long it lasts, and where the rests go. Why do you need rests?  
   *Child mode:* Write your moves. How long is each one? Put in rests. Why do you need them?
-  - Ask: Why put rests between the moves? (good: So the muscles can recover, like in the peg test.; So the blood can refill the muscles before the next move.)
+  - Ask: Why put rests between the moves? (good: So the muscles can recover, as they did in the Tired Peg test.; So the blood can refill the muscles before the next move.)
 - **s3 (15 min)**  
   *Parent does:* Do the workout together, timed. Then talk about what to change.  
   *Parent says:* Let's do it! Afterwards, tell me what worked and what you would change.  
   *Child mode:* Do your workout with your family. Time it. What would you change next time?
 ### c2 · The Sleep Den: help someone fall asleep in a noisy city (30 min)
-- **problem:** Kavya, a girl in Class 3, lives beside a busy road in Hyderabad. A street light shines into her room, autos honk late at night, and her room gets hot. She keeps waking up. Design changes to her room and her bedtime that would help her sleep through the night.
+- **problem:** Kavya lives beside a busy road in Hyderabad. A street light shines into her room, autos honk late at night, and her room gets hot. She keeps waking up. Design changes to her room and her bedtime that would help her sleep through the night.
 - **your turn:** Now design your own sleep den for Kavya. Build it as a model in a shoebox, or draw it. Then write a bedtime routine for her with five steps.
 - **constraints:** You may only use things that most homes have, or that are cheap to buy.; The family cannot move house or change rooms.; The plan must deal with light, noise and heat.
 - **general:** Hang a dark curtain or a thick bedsheet over the window to block the street light.; Use a fan, which also covers small noises with a steady hum.; Stop screens an hour before bed, because bright screens make it harder to feel sleepy.; Go to bed and wake up at the same time every day.
-- **creative:** Put the head of the bed on the wall furthest from the road.; Fold a soft cloth into an eye mask.; Make a bedtime routine card with pictures: bath, brush, story, lights out.; Open the window on the far side of the flat in the evening to let cooler air through.
+- **creative:** Put the head of the bed against the wall furthest from the road.; Fold a soft cloth into an eye mask.; Make a bedtime routine card with pictures: bath, brush, story, lights out.; Open the window on the far side of the flat in the evening to let cooler air through.
 - **s1 (5 min)**  
   *Parent does:* Read Kavya's problem together. List the three troubles: light, noise and heat.  
   *Parent says:* What are the three things keeping Kavya awake? Let's list them.  
@@ -547,16 +553,16 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 13. (write) In the tired peg test, what happened to your count after two minutes of rest? Say why.  
    **Answer:** My count went up again after the rest. While I rested, my blood brought oxygen, and the muscle refilled its fuel and got rid of waste.. *Why:* A strong answer gives the numbers from the test and says what the blood did during the rest.
 14. (write) Write two things your body does while you sleep.  
-   **Answer:** It releases growth hormone in deep sleep, which helps me grow and repair. My brain dreams and sorts what I learned. The discs in my back fill up with water.. *Why:* Any two true things show that sleep is a busy time, not doing nothing.
+   **Answer:** It releases growth hormone in deep sleep, which helps me grow and repair. My brain dreams and sorts what I learned. The discs in my back fill up with water.. *Why:* Any two true things are right. They show that sleep is a busy time, not a time of doing nothing.
 15. (draw) Draw yourself in tree pose. Mark the leg muscles that are working hardest.  
    **Answer:** A child standing on one leg, with the standing leg's calf, thigh and ankle marked.. *Why:* The standing leg does all the work, making tiny corrections to keep you balanced.
 ### Blood, Breath and Balance (stretch) (stretch, 15 questions)
-1. (mcq) Divya, a girl in Class 3, squeezes a peg for one minute with her arm up, and later with her arm down. Which way do her fingers usually tire faster?  
+1. (mcq) You squeeze a peg for one minute with your arm up, and later with your arm down. Which way do your fingers usually tire faster?  
    Options: Arm up / Arm down / Both exactly the same  
    **Answer:** Arm up. *Why:* With the arm up, blood has to be pumped uphill, so less reaches the hand. Less oxygen arrives to help the muscle refill.
 2. (mcq) In the arm up, arm down test, why do the arm-down round first?  
    Options: So that if the arm-up count is still lower, it cannot be because of extra practice / Because arms are stronger in the morning / It does not matter at all  
-   **Answer:** So that if the arm-up count is still lower, it cannot be because of extra practice. *Why:* The second try often goes better because you have practised. Doing arm-down first puts that extra practice on the arm-up side, so if arm-up is still lower, the reason must be something else, such as blood flow.
+   **Answer:** So that if the arm-up count is still lower, it cannot be because of extra practice. *Why:* The second try often goes better because you have practised. Arm-up comes second, so practice helps it. If the arm-up count is still lower, the reason must be something else, such as blood flow.
 3. (mcq) Lactic acid is cleared from muscles within about an hour. So what causes the ache the next day after hard exercise?  
    Options: Tiny injuries in the muscle, which heal and make it stronger / Lactic acid still sitting in the muscle / Not drinking enough milk  
    **Answer:** Tiny injuries in the muscle, which heal and make it stronger. *Why:* The next-day ache comes from tiny injuries that heal over a few days. The muscle rebuilds a little stronger.
@@ -574,14 +580,14 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** 3. *Why:* Skipping, cycling and swimming are stamina exercises. Sleeping is rest.
 9. (order) Put the parts of a night in order for a child who falls asleep at 9 p.m.  
    **Answer:** ['light sleep, just after lights out', 'deep sleep, with slow breathing', 'dreaming sleep, with eyes darting', 'waking up in the morning']. *Why:* Each sleep cycle goes from light sleep to deep sleep, then dreaming sleep. The cycle repeats several times before morning.
-10. (write) Your hand looked paler after you held it up for one minute. What does that tell you about blood? How does it explain the arm-up peg result?  
+10. (write) In the Arm Up, Arm Down test, your hand looked paler after you held it up for one minute. What does that tell you about blood? How does it explain why fingers tire faster with the arm up?  
    **Answer:** Less blood was in the raised hand, because it had to be pumped uphill. With less blood, less oxygen reached the finger muscles, so they could not refill their fuel as fast, and tired sooner.. *Why:* A strong answer links the colour to blood, and the blood to the muscle's fuel.
-11. (write) Your grown-up's peg counts were different from yours, but both sets fell and then rose after rest. Why does the pattern matter more than the size of the numbers?  
+11. (write) In the Tired Peg test, your grown-up's counts were different from yours. But both sets of counts fell with no rest and then rose after the rest. Why does the pattern matter more than the size of the numbers?  
    **Answer:** The question was about what rest does. Both of us showed counts falling with no rest and rising after it. Different people give different numbers. The same pattern in two people makes the result less likely to be a fluke.. *Why:* A strong answer says that the test compared rounds within one person, not people with each other.
 12. (write) Many people say 'Exercise makes you tired, so if you exercise less you will have more energy.' Is that right? Use what you learned to explain.  
    **Answer:** Not over weeks. Exercise tires you for a short time, but rest refills the muscles. Over weeks, regular exercise makes the heart and muscles stronger, so everyday things feel easier and you have more energy.. *Why:* A strong answer separates the short tiredness right after exercise from what regular exercise does over weeks.
-13. (perspective) Nandini, a girl in Class 4, and her cousin Vikram are arguing about the tired peg test.  
-   **Answer:** A strong answer picks a side with evidence. For Nandini: the counts fell even though I tried my hardest, and the arm-up test tired faster when less blood came, which points to fuel in the muscle. For Vikram: some runners can sprint at the finish, so the brain may hold some strength back. Many scientists think both happen.. *Why:* Scientists still argue about this. A good answer uses evidence and is fair to the other side.
+13. (perspective) Two cousins are arguing about why the count falls in the tired peg test.  
+   **Answer:** A strong answer picks a side with evidence. For the first cousin: the counts fell even though I tried my hardest, and the arm-up test tired faster when less blood came, which points to fuel in the muscle. For the second cousin: some runners can sprint at the finish, so the brain may hold some strength back. Many scientists think both happen.. *Why:* Scientists still argue about this. A good answer uses evidence and is fair to the other side.
 14. (draw) Draw a bar chart of these made-up peg counts: round 1, 50. Round 2, 42. Round 3, 37. Round 4, 33. Round 5 after a two-minute rest, 46.  
    **Answer:** Five bars, falling from 50 to 33, then a tall bar of 46 for the round after rest.. *Why:* The chart shows the falling counts without rest and the jump back after rest.
 15. (label) Label the parts of a night's sleep on the circle: light sleep, deep sleep, dreaming sleep.  
@@ -601,8 +607,8 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** With one half of the brain at a time. *Why:* Dolphins rest one half of the brain while the other half stays awake enough to swim and breathe.
 5. (truefalse) Sleeping late on Sunday fully makes up for a whole week of going to bed too late.  
    **Answer:** False. *Why:* False. A long sleep helps, but studies find it does not undo all the effects of a week of short nights. A steady bedtime works better.
-6. (fill) In 1927, Yellapragada Subbarow and Cyrus Fiske found a quick fuel in muscle called ____.  
-   **Answer:** ['phosphocreatine']. *Why:* Phosphocreatine is the store a muscle uses in short, hard bursts, and refills during rest.
+6. (fill) In short, hard bursts, a muscle uses a quick store of fuel. During rest, this store is ____.  
+   **Answer:** ['refilled', 'filled up again', 'topped up', 'filled again']. *Why:* The quick fuel store runs low in hard bursts, and fills up again while you rest. That is why a short rest lets you go hard again.
 7. (odd) Which one is the odd one out? A heart between beats, a muscle after the peg test, a sleeping child, a running child.  
    Options: A heart between beats / A muscle after the peg test / A sleeping child / A running child  
    **Answer:** 3. *Why:* The first three are resting and refilling. The running child is using up fuel.
@@ -612,13 +618,13 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** I disagree. In the peg test my count rose after two minutes of rest, because my blood helped refill the muscle. In sleep, growth hormone is released, my brain sorts memories, and the discs in my back fill up. Rest is when the body refills, repairs and grows.. *Why:* A strong answer uses evidence from the test and from sleep, not only opinion.
 10. (write) Plan a fair test to find out whether children do better at the tree pose after a long night's sleep than after a short one. What would you change, and what would you keep the same?  
    **Answer:** Change only the hours of sleep: one night of about 10 hours and one night of about 8. Keep the same child, the same time of the morning, the same floor and the same timer. Do the test on several mornings of each kind, because one morning can be a fluke.. *Why:* A strong answer changes one thing, keeps the rest the same, and repeats the test.
-11. (write) Eugene Aserinsky first thought the machine was broken when the lines went wild. Why was it important that he tested again and again, and with other sleepers?  
+11. (write) In 1951, Eugene Aserinsky used a machine to record the brain signals of sleepers. Several times a night the lines went wild, and at first he thought the machine was broken. Why was it important that he tested again and again, and with other sleepers?  
    **Answer:** If it was a broken machine, it would go wild at random times. It happened at regular times each night, and in other people too, so it was real. Testing again ruled out a fault.. *Why:* A strong answer says how repeating a test separates a real finding from a mistake.
 12. (write) Your sleep diary shows that on the three mornings you felt tired, you had slept fewer than 9 hours. Does this prove short sleep made you tired? What else could explain it?  
    **Answer:** It does not fully prove it. Something else might have caused both, such as being ill or a late, exciting day. To be surer, I could keep the diary for longer, or try going to bed earlier for a week and see if I feel better.. *Why:* A strong answer sees that two things happening together does not always mean one caused the other.
 13. (write) Your heart rests between every beat, and you rest every night. Name two other things in nature that work and rest in turns.  
    **Answer:** Tamarind trees fold their leaves at night and open them in the day. The sea comes in and goes out with the tides. Birds sleep at night and fly in the day.. *Why:* Any two true examples of a rhythm of activity and rest are good.
-14. (perspective) Pooja, a girl in Class 5, wants to stay up late to practise the veena for a concert. Her aunt Shalini thinks she should go to bed. Her friend Ritu says she should do both, a little.  
+14. (perspective) A girl wants to stay up late to practise the veena for a concert. Her aunt Shalini thinks she should go to bed. Her friend thinks she should do both, a little.  
    **Answer:** A strong answer picks a side and uses evidence: tired muscles make mistakes, as the peg test showed, and sleep after practice helps people remember a new skill. It also gives the other side its due: practice is needed too, because there is nothing for sleep to store without it.. *Why:* Practice and sleep both matter. The best answers explain how they work together.
 15. (draw) Draw a 24-hour circle for a healthy day for a child of 8. Show sleep, school or study, play and exercise, and meals.  
    **Answer:** A circle of 24 slices with 9 to 10 slices for sleep, about 6 for school or study, at least 1 for active play, and slices for meals.. *Why:* A child needs 9 to 12 hours of sleep and at least one hour of active play a day.
@@ -629,18 +635,18 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **Why do we dream? - Amy Adkins** (TED-Ed, 6 min) id `2W85Dwxx218`: The main ideas scientists have about dreams, and why the question is still open. It mentions the discovery of dreaming sleep. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
 
 ## Quiz
-1. (mcq) Meena, a girl in Class 3, squeezes a clothes peg for five rounds of 30 seconds with no break. What usually happens to her count?  
+1. (mcq) You squeeze a clothes peg for five rounds of 30 seconds with no break. What usually happens to your count?  
    Options: It goes up each round / It goes down each round / It stays exactly the same  
-   **Answer:** It goes down each round. *Why:* With no break, her finger muscles use up their quick fuel faster than her blood can help refill it, so each round she manages fewer squeezes. Picking 'goes up' means thinking practice wins over tiredness in a few minutes.
-2. (mcq) After the five rounds, Meena rests her hand for two minutes. What happens to her next count?  
-   Options: It goes up again / It falls even lower / She cannot squeeze at all  
+   **Answer:** It goes down each round. *Why:* With no break, your finger muscles use up their quick fuel faster than your blood can help refill it, so each round you manage fewer squeezes. Picking 'goes up' means thinking practice wins over tiredness in a few minutes.
+2. (mcq) You squeeze a clothes peg for five rounds with no break. Then you rest your hand for two minutes. What happens to your next count?  
+   Options: It goes up again / It falls even lower / You cannot squeeze at all  
    **Answer:** It goes up again. *Why:* During the rest, blood brings oxygen and the muscle refills much of its fuel. Picking 'falls even lower' means thinking rest does nothing.
 3. (mcq) What does blood bring to a working muscle?  
    Options: Oxygen and food / Only water / Electricity  
    **Answer:** Oxygen and food. *Why:* Blood carries oxygen from the lungs and food from the gut. The muscle uses them to refill its fuel. Blood also carries waste away.
 4. (mcq) Why is it a fair test to use the same peg and the same hand in every round?  
-   Options: So only the rest changes, and nothing else / So the test is quicker / Because pegs are expensive  
-   **Answer:** So only the rest changes, and nothing else. *Why:* In a fair test you change only one thing. If you used a softer peg in one round, you would not know whether the peg or the rest changed the count.
+   Options: So the only thing that changes is whether you rested / So the test is quicker / Because pegs are expensive  
+   **Answer:** So the only thing that changes is whether you rested. *Why:* In a fair test you change only one thing. If you used a softer peg in one round, you would not know whether the peg or the rest changed the count.
 5. (mcq) Which of these is mainly a stamina exercise?  
    Options: Skipping for five minutes / Touching your toes / Carrying one heavy bucket once  
    **Answer:** Skipping for five minutes. *Why:* Stamina means keeping going for a long time, which works the heart and lungs. Touching the toes is a stretch. Carrying a heavy bucket is mostly strength.
@@ -656,13 +662,13 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 9. (mcq) What does the brain do during dreaming sleep?  
    Options: It switches off completely / It is nearly as busy as when you are awake / It only controls breathing  
    **Answer:** It is nearly as busy as when you are awake. *Why:* Recordings of the brain's signals show it is very active in dreaming sleep. For a long time people thought the brain switched off at night. That was shown wrong in 1953.
-10. (mcq) Eugene Aserinsky, a scientist, recorded his son Armond sleeping. What did he see several times a night?  
-   Options: Armond's eyes darting about under his closed eyelids / Armond's heart stopping / Armond growing taller  
-   **Answer:** Armond's eyes darting about under his closed eyelids. *Why:* Aserinsky saw bursts of rapid eye movement, with busy brain signals. People woken at those times usually said they had been dreaming. This was dreaming sleep, or REM sleep.
+10. (mcq) A scientist watches people sleep. Several times a night, their eyes dart about under closed eyelids. People woken at those times usually say they were dreaming. What does this suggest?  
+   Options: Sleep has different stages, and dreaming happens in one with fast eye movements / Their hearts stop for a while / They are growing taller  
+   **Answer:** Sleep has different stages, and dreaming happens in one with fast eye movements. *Why:* The eye movements come and go in a pattern through the night, and they match dreaming. So sleep is not all the same: dreaming sleep, or REM sleep, is one stage of it.
 11. (mcq) Why are most people a little taller in the morning than at bedtime?  
    Options: The discs in their backbone fill up with water while they lie down / They grow 1 centimetre every night / Their hair stands up  
    **Answer:** The discs in their backbone fill up with water while they lie down. *Why:* Standing and sitting squeeze water out of the soft discs between the bones of the backbone. Lying down lets them soak it back. Children grow only about 5 or 6 centimetres in a whole year.
-12. (mcq) Karthik, a boy in Class 3, has a test tomorrow. Which plan will help his body and brain most?  
+12. (mcq) You have a test tomorrow. Which plan will help your body and brain most?  
    Options: Study late until midnight, then wake up at 6 / Study, play outside, and go to bed on time for 10 hours of sleep / Skip dinner and study all evening  
    **Answer:** Study, play outside, and go to bed on time for 10 hours of sleep. *Why:* Sleep helps the brain store what was learned, and play gives the body exercise. Studying until midnight leaves only 6 hours of sleep, far less than a child needs.
 
@@ -709,13 +715,13 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - What do you call a dinosaur who is fast asleep? *A dino-snore.*
 
 ## Connected maths
-- In the tired peg test, Meera, a girl in Class 3, counted 48, 41, 36, 32 and 29 squeezes in five rounds with no break. How many fewer squeezes did she do in round 5 than in round 1? **19 fewer.**. 48 take away 29 is 19. Count up from 29: 1 more makes 30, then 18 more makes 48. 1 + 18 = 19. (queues `math.addition-subtraction.word-problems.L3`)
-- Meera, a girl in Class 3, did the tired peg test. Her count fell each round: 48 to 41, 41 to 36, 36 to 32, 32 to 29. Is the fall getting bigger or smaller? Guess what round 6 would be without a rest. **The fall gets smaller each round: 7, then 5, then 4, then 3. Round 6 would probably be about 26 or 27.**. 48 − 41 = 7. 41 − 36 = 5. 36 − 32 = 4. 32 − 29 = 3. The drops shrink, so the next drop might be about 2 or 3. 29 − 3 = 26. (queues `math.addition-subtraction.mental-strategies.L3`)
-- In the tired peg test, Meera, a girl in Class 3, rested for two minutes after her fifth round. Her count went from 29 back up to 43. Her first round was 48. Did the rest bring back all of her strength? **Not all of it. She got back 14 of the 19 squeezes she had lost.**. She lost 48 − 29 = 19 squeezes. The rest brought her up 43 − 29 = 14. 19 − 14 = 5, so she was still 5 short of round 1. A longer rest would probably bring back the rest. (queues `math.addition-subtraction.word-problems.L3`)
-- Kavya, a girl in Class 3, goes to sleep at 9 at night and wakes up at 6:30 in the morning. How long did she sleep? Is it enough for a child of 8? **9 and a half hours. Yes, it is within the 9 to 12 hours a child of 8 needs.**. From 9 at night to midnight is 3 hours. From midnight to 6 in the morning is 6 hours. Then 30 more minutes to 6:30. 3 + 6 = 9 hours, plus half an hour. (queues `math.time.duration.L3`)
+- In the tired peg test, a child counted 48, 41, 36, 32 and 29 squeezes in five rounds with no break. How many fewer squeezes did the child do in round 5 than in round 1? **19 fewer.**. 48 take away 29 is 19. Count up from 29: 1 more makes 30, then 18 more makes 48. 1 + 18 = 19. (queues `math.addition-subtraction.word-problems.L3`)
+- In the tired peg test, a child's count fell each round: 48 to 41, 41 to 36, 36 to 32, 32 to 29. Is the fall getting bigger or smaller? Guess what round 6 would be without a rest. **The fall gets smaller each round: 7, then 5, then 4, then 3. Round 6 would probably be about 26 or 27.**. 48 − 41 = 7. 41 − 36 = 5. 36 − 32 = 4. 32 − 29 = 3. The drops shrink, so the next drop might be about 2 or 3. 29 − 3 = 26. (queues `math.addition-subtraction.mental-strategies.L3`)
+- In the tired peg test, a child's count fell from 48 in round 1 to 29 in round 5. After two minutes of rest, the count went back up to 43. Did the rest bring back all of the strength? **Not all of it. The child got back 14 of the 19 squeezes lost.**. The child lost 48 − 29 = 19 squeezes. The two minutes of rest brought the count up by 43 − 29 = 14. 19 − 14 = 5, so the count was still 5 short of round 1. A longer rest would probably bring back the last 5. (queues `math.addition-subtraction.word-problems.L3`)
+- A child goes to sleep at 9 at night and wakes up at 6:30 in the morning. How long does the child sleep? Is it enough for a child of 8? **9 and a half hours. Yes, it is within the 9 to 12 hours a child of 8 needs.**. From 9 at night to midnight is 3 hours. From midnight to 6 in the morning is 6 hours. Then 30 more minutes to 6:30. 3 + 6 = 9 hours, plus half an hour. (queues `math.time.duration.L3`)
 - In a 24-hour day, a child sleeps for 10 hours. How many hours are left for everything else? **14 hours.**. 24 − 10 = 14. A day has 24 hours, and 10 of them are used for sleep. (queues `math.time.duration.L3`)
-- Sneha, a girl in Class 3, measured her height at bedtime: 128.3 cm. In the morning she measured 129.0 cm. How many millimetres taller was she in the morning? **7 millimetres.**. 129.0 − 128.3 = 0.7 centimetres. One centimetre is 10 millimetres, so 0.7 centimetres is 7 millimetres. (queues `math.length.standard-units-length.L3`)
-- In the arm up, arm down test, Divya, a girl in Class 3, squeezed 62 times with her arm up and 81 times with her arm down. Her brother squeezed 70 times arm up and 90 times arm down. Did both show the same pattern? **Yes. Both did more squeezes with the arm down: Divya 19 more, her brother 20 more.**. 81 − 62 = 19. 90 − 70 = 20. The numbers are different, but both did better with the arm down by about the same amount. (queues `math.addition-subtraction.word-problems.L3`)
+- A child measured 128.3 cm at bedtime and 129.0 cm the next morning. How many millimetres taller was the child in the morning? **7 millimetres.**. 129.0 − 128.3 = 0.7 centimetres. One centimetre is 10 millimetres, so 0.7 centimetres is 7 millimetres. (queues `math.length.standard-units-length.L3`)
+- Two children did the arm up, arm down test. The first child squeezed 62 times with the arm up and 81 times with the arm down. The second child squeezed 70 times with the arm up and 90 times with the arm down. Did both show the same pattern? **Yes. Both did more squeezes with the arm down: the first child 19 more, the second child 20 more.**. 81 − 62 = 19. 90 − 70 = 20. The numbers are different, but both did better with the arm down by about the same amount. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song
 Clean, Strong and Happy (sci.health.L3): Topic-level song for Health and well-being L3

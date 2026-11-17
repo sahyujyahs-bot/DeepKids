@@ -1,7 +1,7 @@
 # Hygiene: how soap lifts germs off your hands
 `sci.health.hygiene.L3`
 
-**Summary.** Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule holds oil at one end and water at the other. So the rinse water carries the oil away, and the germs go with it. Most of those germs go down the drain still alive, far from your mouth. Washing with soap before food and after the toilet stops germs passing from hand to mouth, and from person to person.
+**Summary.** Plain water runs off an oily hand and leaves the dirt behind. Germs, the few microbes that can make us ill, sit in that thin layer of skin oil. A soap molecule has one end that sticks to oil and another end that sticks to water. Soap wraps tiny blobs of oil, and the rinse water carries the blobs away. The germs that were in the oil go with them. Most of those germs go down the drain still alive, far from your mouth. Washing with soap before food and after the toilet stops germs passing from hand to mouth, and from person to person.
 
 **Intro.** *Rub a drop of cooking oil on your palm. Rinse it with plain water, then press your palm on a sheet of paper. Is there an oily mark? Now wash with soap, and press again.* Your hands touch hundreds of things every day, such as door handles, coins and your own face. Tiny living things called microbes ride along on every touch. Most are harmless. A few, called germs, can give you a tummy upset or a cold. They are far too small to see. So how can we know they are on our hands? And why does soap get them off when water alone does not?
 
@@ -170,7 +170,7 @@ Soap works because one molecule can hold two things that will not mix by themsel
 - Ask: Are microbes germs wherever they are, or only when they reach the wrong place?
 
 ## Deep and big questions
-- *deep:* If you cannot see germs, how can you know they are there? (hint: In the bread test, mould grew on slices touched by unwashed hands. Semmelweis wrote down how many mothers died each month, before and after doctors washed their hands.)
+- *deep:* If you cannot see germs, how can you know they are there? (hint: We can see what germs leave behind. In the bread test, mould grew on slices touched by unwashed hands. Semmelweis counted how many mothers died each month, before and after the doctors washed their hands.)
 - *deep:* Why does a molecule with two different ends clean better than one that sticks only to water? (hint: Think about what water does with oil, and what soap does with both.)
 - *big:* Doctors were offended when Semmelweis said their hands carried illness. Why is it so hard to accept that you might be causing harm? (hint: Think of a time you found out you were wrong. How did it feel?)
 - *big:* One family washing hands helps one family. Who keeps a whole town clean, and do they get enough thanks? (hint: Think of the people who sweep streets and clean drains near your home.)
@@ -370,6 +370,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 
 ## Activities
 ### a1 · How Often Do You Touch Your Face? (15 min)
+- **problem:** Hands carry germs to the eyes, nose and mouth, which let germs in most easily. You will count how often you and a grown-up touch your faces in 10 minutes. Then you will work out how many touches that is in a whole hour.
 - **record:** Make tally marks for each touch. Write which part was touched most: eyes, nose, mouth or other.
 - **s1 (2 min)**  
   *Parent does:* Explain the task. Your child will count your face touches, and you will count theirs, without saying when.  
@@ -384,9 +385,11 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent does:* Count the tallies. Multiply by 6 to estimate touches in one hour.  
   *Parent says:* There are six lots of 10 minutes in an hour. So we multiply by 6. How many face touches is that in one hour?  
   *Child mode:* Count the marks. Multiply by 6 for one hour. Is it more than you guessed?
+  - Note: Most people cannot simply stop, because most face touches happen without noticing. Washing hands with soap at the key moments, such as before eating, works better.
   - Check: Why does it matter how often we touch our faces? → **Hands carry germs to the eyes, nose and mouth, where they get in easily**
-  - Think: We touch our faces without noticing. What else do your hands do without you deciding?
+  - Think: We touch our faces many times without noticing. Is trying not to touch your face a good way to keep germs out? What works better?
 ### a2 · Reetha Foam: a plant that makes soap (20 min)
+- **problem:** Plants can make soap-like molecules too. You will make foam from reetha, a dried soapnut, and test whether it cleans an oily plate as well as soap does.
 - **safety:** Reetha water stings badly in the eyes. Keep it away from faces. A grown-up helps squeeze the shells. If it gets in an eye, rinse with plenty of clean water.
 - **record:** Draw the foam. Write which cleaned the oily plate better: reetha water, soap or plain water.
 - **s1 (3 min) · grown-up needed**  
@@ -406,9 +409,11 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent does:* Talk about why the plant makes saponins.  
   *Parent says:* The soapnut tree did not make saponins for us. They taste bitter and can harm insects and fungi. So they probably protect the fruit. People learned to borrow them.  
   *Child mode:* The tree did not make reetha soap for us. The soap probably protects the fruit from insects and fungi.
+  - Note: Saponins have a water-loving end and an oil-loving end, just like soap molecules. So they hold oil and water together, and the water carries the oil away, whatever the tree made them for.
   - Check: Why does reetha water foam and clean? → **It has soap-like molecules, with a water-loving end and an oil-loving end**
-  - Think: What other plants might make their own chemicals to protect themselves?
+  - Think: The tree made saponins to protect its fruit, not to clean our plates. So why do saponins clean oil off a plate?
 ### a3 · Clean Street Survey and the Weekly Dry Day (25 min)
+- **problem:** Germs spread through dirty water, flies and mosquitoes, and not only on hands. You will look round your home and street for places where this could happen. Then you will fix one of them.
 - **safety:** A grown-up comes along. Do not touch rubbish, drains or animal droppings. Look, don't touch. Wash hands with soap when you get home.
 - **record:** A two-column list: germ spots and clean spots. Draw the one germ spot you fixed.
 - **s1 (3 min)**  
@@ -456,11 +461,13 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
   *Parent does:* Talk about who got the credit.  
   *Parent says:* Who is famous today? Who was ignored? Pacini saw the cholera germ 30 years before Koch, but hardly anyone listened. Why might that happen?  
   *Child mode:* Who is famous? Who was ignored? Circle the people who were ignored at first.
+  - Note: A good answer: evidence. Semmelweis wrote down how many mothers died before and after washing, and he had a fair comparison in the midwives' ward. Listening to people who notice clues also helps, whoever they are.
   - Check: Why did it take so long for people to accept germ theory? → **Germs are too small to see without good microscopes, and many people trusted old ideas about bad air**
-  - Think: Is there an idea everyone believes today that people might laugh at in 200 years?
+  - Think: Many doctors in 1847 refused to believe that their own hands carried illness. What could help a doctor change their mind?
 
 ## Projects
 ### p1 · Build a Tippy-Tap Hand-Washing Station (60 min, 2 days)
+- **problem:** A tap handle is touched by dirty hands, and touching it again after washing puts germs back on clean hands. A tippy-tap is a hand-washing station that you work with your foot. Clean hands then touch nothing but the soap. You will build one.
 - **safety:** Only a grown-up heats the nail and makes the hole. Hold the hot nail with pliers or a thick cloth.
 - **record:** Draw your tippy-tap and label each part. Write how many washes one bottle gave, and one thing you changed.
 - **schedule:** day 1: A grown-up makes the hole. Tie and hang the bottle. Add the foot loop and the soap on a string. Test it. (40 min); day 2: Use it all day. Count how many washes one full bottle gives. Improve the design. (20 min)
@@ -617,7 +624,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
    **Answer:** ['9', 'nine']. *Why:* 18 divided by 2 is 9. So about 9 times fewer mothers died after washing began.
 3. (mcq) Semmelweis's hands smelled of the room where dead bodies were cut open. Ordinary soap did not remove the smell, but chlorine water did. What did he use the smell as?  
    Options: A sign that something invisible was still on his hands / A way to make his hands smell nice / A medicine / A test of the soap's colour  
-   **Answer:** A sign that something invisible was still on his hands. *Why:* He could not see the 'particles' he suspected. The smell was a clue that something stayed. Scientists often use a clue they can sense to study things they cannot see.
+   **Answer:** A sign that something invisible was still on his hands. *Why:* He could not see what was on his hands, but the smell showed that something was still there. Scientists often use a clue they can sense to study things they cannot see.
 4. (mcq) Many doctors in 1847 refused to wash. Which of their reasons was the LEAST scientific?  
    Options: A gentleman's hands could not possibly be dirty / Nobody had yet seen the germs / Semmelweis could not explain why washing worked / Chlorine water made their hands sore  
    **Answer:** A gentleman's hands could not possibly be dirty. *Why:* Saying a gentleman's hands cannot be dirty is pride, not evidence. The other reasons were real problems, even though the numbers already showed washing worked. Science should follow the evidence, even when it is uncomfortable.
@@ -632,7 +639,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
    **Answer:** A strong answer picks a view and gives evidence or a reason, for example that most microbes are harmless or helpful, which fits Rook. It admits a fair point from another side, for example that washing before food still saves lives. It does not conclude that washing hands is bad.. *Why:* This is still debated. No study shows that washing hands before meals causes allergies. Most scientists today agree that washing at the key moments still matters, because it stops real germs.
 9. (write) Design a fair test to find out whether reetha water or soap cleans oil off a steel plate better. What will you change? What will you keep the same?  
    **Answer:** A strong answer changes only the cleaner: reetha water on one plate, soap on another. It keeps the same amount of oil, the same plates, the same amount of water and the same number of wipes. Then it compares how greasy each plate feels, or how a tissue looks after wiping.. *Why:* A good fair test changes one thing and names at least three things kept the same.
-10. (write) A child notices a clue that a doctor has missed, but nearly does not speak, because the doctor is an important man. Why is it good for science when everyone's observations count, not only those of important people?  
+10. (write) A child notices a clue that a doctor has missed, but nearly does not speak, because the doctor is an important person. Why is it good for science when everyone's observations count, not only those of important people?  
    **Answer:** A strong answer says that anyone can notice a clue, and the person who notices may not be important. If only important people were listened to, many true clues would be lost. What matters is the evidence, not who brings it.. *Why:* Evidence matters, not who brings it.
 11. (write) Microbes lived on Earth for billions of years before any animal. Do you think they matter only for what they do for people? Give a reason.  
    **Answer:** A strong answer gives a view with a reason. For example: no, they matter for themselves, because they are living beings with their own lives, and the whole Earth depends on them, not just people.. *Why:* There is no single right answer. A good answer gives a reason.
@@ -731,7 +738,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 - Is there any still water near our home this week?
 - Who cleaned our street today?
 - The curd set overnight. Who did that work?
-- If you could see germs, what colour would you want them to be?
+- Germs are too small to see. What could we do to show that they are there?
 - How many times have you touched your face since lunch?
 
 ## Jokes
