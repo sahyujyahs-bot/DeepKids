@@ -316,9 +316,9 @@
       "status": "rejected"
     },
     {
-      "claim": "Friction always has one fixed size, and that size is its biggest.",
+      "claim": "Friction always pushes back with its full strength, whatever you do.",
       "who": "Many students.",
-      "for": "Friction always seems to be 'in the way'.",
+      "for": "Friction always seems to be working against us at full strength.",
       "against": "When you push a heavy cupboard gently and it does not move, friction pushes back exactly as hard as you push. It rises as you push, up to a limit. After the limit, the cupboard moves.",
       "status": "rejected"
     },
@@ -432,12 +432,12 @@
       {
         "source": "Tao Te Ching 11",
         "teaching": "Thirty spokes meet in the hub of a wheel, but it is the empty space in the middle that makes the wheel useful. Clay is shaped into a pot, but it is the hollow that makes the pot useful.",
-        "link": "A wheel works because only a small spot of it touches the road, and the rest is hollow space. A grip also works at a few small spots, with much empty space in between."
+        "link": "A wheel touches the road at only one small spot, and the hollow space between its spokes is part of what makes it work. In the same way, a grip is made at only a few tiny spots, with empty gaps in between."
       },
       {
         "source": "Udana 6.4, the blind men and the elephant",
         "teaching": "In this old Buddhist story, blind men each feel one part of an elephant. One feels the leg and says it is a pillar. One feels the tail and says it is a rope. Each is right about the part and wrong about the whole.",
-        "link": "Friction is like the elephant. It is the grip that saves a boat, and it is the burn on a hand. It slows a cyclist down, and it is the reason the brakes work. Each view is true about one side."
+        "link": "Friction is a bit like the elephant, because people meet different parts of it. It is the grip that saves a boat, and it is the burn on a hand. It slows a cyclist down, and it is also the reason the brakes work. Each of these is true about one side of friction, but none of them is the whole of it."
       }
     ],
     "science": [
@@ -685,7 +685,7 @@
         "Gap between the dots, try 1 (cm)",
         "Gap between the dots, try 2 (cm)",
         "Gap between the dots, try 3 (cm)",
-        "Typical stretch: the middle one of the three gaps, minus 4 (cm)"
+        "Typical stretch: the middle one of the three gaps, minus the 4 cm the dots start apart (cm)"
       ],
       "materials": [
         {
@@ -1129,10 +1129,10 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Pull the box so that it slides, then on pencils, then on marbles. For each, work out the stretch (the gap minus 4). See how many times smaller the stretch is when the box rolls."
+          "what": "Pull the box so that it slides, then on pencils, then on marbles. For each, work out the stretch, which is the gap between the dots minus the 4 centimetres they start apart. See how many times smaller the stretch is when the box rolls."
         }
       ],
-      "record": "Write the dot gap and the stretch (gap minus 4) for sliding, for rolling on pencils and for rolling on marbles. Write how many times smaller the pencil stretch was than the sliding stretch. Write which was the easiest to pull.",
+      "record": "Write the dot gap and the stretch (the gap minus the 4 centimetres the dots start apart) for sliding, for rolling on pencils and for rolling on marbles. Write how many times smaller the pencil stretch was than the sliding stretch. Write which was the easiest to pull.",
       "context": "In this activity, you pull the same box three ways and see how rolling changes the pull. It is a test of rolling friction.",
       "setup": [
         {
@@ -1434,7 +1434,7 @@
       "creative": [
         "Weave the string over and under three pencils in a zigzag, like a shoelace, so each pencil adds its own grip.",
         "Wind the string round the post in a figure-of-eight, which makes the string cross itself.",
-        "Tie one knot round a pencil as a brake, and open it a little at a time."
+        "Tie a loose knot round a pencil to act as a brake. Loosen the knot a little at a time to let the bottle down."
       ],
       "your_turn": "Sketch your design and say how many turns you expect to need. Try it. Change one thing at a time. Which design lowered the bottle most smoothly? How do you know?",
       "context": "This is a design challenge about the rope rule. You use turns of string round a post to lower a bottle slowly.",
@@ -2374,14 +2374,14 @@
       "why_open": "The old rules, such as friction being proportional to load, may stop working at this size. Scientists are still finding out which rules replace them."
     },
     {
-      "q": "Why does a thing slide with a smaller friction than the friction it started with?",
+      "q": "Why is the friction on a sliding thing a little smaller than the friction that held it still before it moved?",
       "why_open": "Scientists describe it well, but they are still working out what the atoms do at the moment a surface lets go."
     }
   ],
   "ask_kids": [
     "When you push a door and it does not move, where does the push go?",
     "If we put a heavy bag on this bag, will it be harder to drag? Why?",
-    "Which is easier to carry up a ramp: a trolley with wheels or a box with flat sides? Why?",
+    "Which is easier to pull along the floor, a trolley with wheels or a box with flat sides? Why?",
     "Look at your shoe. Where does it touch the floor, really?",
     "Why do the boats at the harbour have such thick ropes with so many turns?",
     "A bike chain squeaks. What would you do, and what is the squeak telling you?",
@@ -2552,7 +2552,7 @@
     {
       "problem": "You drag a box 15 metres along the floor. The friction force is 12 newtons. How many joules of work do you do against the friction?",
       "answer": "180 joules.",
-      "explain": "Work is force times distance. 12 times 15 is 180. Ten 12s make 120, and five more make 60, so 120 plus 60 is 180. All of it ends up as heat.",
+      "explain": "Work is force times distance. 12 times 15 is 180. Ten lots of 12 make 120, and five more lots of 12 make 60. So 120 plus 60 is 180. All of it ends up as heat.",
       "math_unit": "math.multiplication.multi-digit.L4",
       "context": "Friction turns movement into heat. The work you do against friction is the friction force times the distance.",
       "why_maths": "Multiplying force by distance tells you how much energy friction costs on a journey."

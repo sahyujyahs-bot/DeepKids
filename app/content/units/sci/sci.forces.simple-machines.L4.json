@@ -1,14 +1,14 @@
 {
   "id": "sci.forces.simple-machines.L4",
-  "title": "Pulleys, gears and screws: how machines trade a small pull for a long way",
+  "title": "Pulleys, gears and screws: how a machine trades a smaller pull for a longer distance",
   "level": 4,
   "summary": {
-    "text": "A child can lift a heavy bucket with a gentle pull, if the rope runs round the right wheels. Your child hangs a bottle from reels and a rubber band, and finds that two ropes halve the pull but double how far the hand must move. They then count the turns of a bicycle's gears, wind a paper ramp into a screw, and find where a machine's missing effort goes. They learn that pulleys, gears, screws and wedges all make the same trade: a smaller force over a longer distance. They also learn that no machine has ever given out more work than was put in, and that the mathematician Emmy Noether showed why: the laws of nature are the same on every day.",
+    "text": "A child can lift a heavy bucket with a gentle pull, if the rope runs round the right wheels. Your child hangs a bottle from reels and a rubber band, and finds that two ropes halve the pull but double how far the hand must move. They then count the turns of a bicycle's gears, wind a paper ramp into a screw, and find where a machine's missing effort goes. They learn that pulleys, gears, screws and wedges all make the same trade: a smaller force over a longer distance. They also learn that no machine has ever given out more work than was put in, and that the mathematician Emmy Noether showed why: the laws of nature do not change from one day to the next.",
     "art": "A glass bottle of water hanging from two thread reels on a broomstick between two chairs, with a rubber band at the loose end of the string stretched to a ruler."
   },
   "intro": {
     "hook": "A rope is wound several times round two broom handles. A strong grown-up holds the handles apart. A child pulls the end of the rope, and the handles slide together, however hard the grown-up pushes. How can a child beat a grown-up?",
-    "text": "The child did not become stronger. The rope did something clever. Each time it is wound round, one more length of rope pulls the handles together, so the child's pull is multiplied. In this unit you hang a bottle from two reels and count the ropes. You measure how much easier the pull gets, and how much further your hand must move. Then you follow the same idea into gears, screws and the tiny machines inside every living cell.",
+    "text": "The child did not become stronger. The way the rope is wound round the handles does the work. Each time it is wound round, one more length of rope pulls the handles together, so the child's pull is multiplied. In this unit you hang a bottle from two reels and count the ropes. You measure how much easier the pull gets, and how much further your hand must move. Then you follow the same idea into gears, screws and the tiny machines inside every living cell.",
     "art": "A child pulling the end of a rope wound four times round two broom handles, while a grown-up at the other end tries to hold the handles apart."
   },
   "outcomes": [
@@ -152,10 +152,10 @@
       "concept": "Work: force times distance stays the same",
       "status": "defined",
       "definition": "Work is the force on a thing multiplied by the distance it moves in the direction of the force. A machine can change the force and the distance, but the work that comes out cannot be more than the work that goes in.",
-      "description": "Lifting a bottle of 1 kilogram by 10 centimetres needs a pull of about 10 newtons for 0.1 metres. Multiply them, and the work is 1 joule. With two ropes, the pull is 5 newtons and the hand moves 0.2 metres. Multiply them, and the work is again 1 joule. With four ropes, the pull is 2.5 newtons and the hand moves 0.4 metres, and the work is 1 joule once more. The two numbers change, but the answer when you multiply them does not. That is the trade. A smaller force goes a longer way. We call the number of times a machine multiplies your force its mechanical advantage. A machine with an advantage of 2 needs half the force and twice the distance. No set-up of ropes, levers or ramps has ever given out more work than was put in.",
+      "description": "Lifting a bottle of 1 kilogram by 10 centimetres needs a pull of about 10 newtons for 0.1 metres. Multiply them, and the work is 1 joule. With two ropes, the pull is 5 newtons and the hand moves 0.2 metres. Multiply them, and the work is again 1 joule. With four ropes, the pull is 2.5 newtons and the hand moves 0.4 metres, and the work is 1 joule once more. The two numbers change, but the answer when you multiply them does not. That is the trade. You use a smaller force, but you must use it over a longer distance. We call the number of times a machine multiplies your force its mechanical advantage. A machine with an advantage of 2 needs half the force and twice the distance. No set-up of ropes, levers or ramps has ever given out more work than was put in.",
       "examples": [
-        "1 kilogram lifted 10 centimetres: 10 newtons times 0.1 metres is 1 joule.",
-        "The same lift with 2 ropes: 5 newtons times 0.2 metres is still 1 joule.",
+        "Lifting 1 kilogram by 10 centimetres takes 10 newtons over 0.1 metres, and 10 times 0.1 is 1 joule.",
+        "The same lift with 2 ropes takes 5 newtons over 0.2 metres, and 5 times 0.2 is still 1 joule.",
         "A ramp 4 times as long as the height needs a quarter of the push."
       ],
       "perspectives": [],
@@ -222,7 +222,7 @@
       "concept": "Six machines, two ideas",
       "status": "defined",
       "definition": "The lever, the wheel and axle and the pulley are all kinds of lever. The ramp, the wedge and the screw are all kinds of ramp. Both ideas follow one rule: force times distance stays the same.",
-      "description": "In Class 3 you met six simple machines. Look closely and they work in only two ways. A pulley is a lever with equal arms bent round into a wheel, and a moving pulley is a lever with arms in a ratio of 2 to 1. A wheel and axle is a lever that goes round and round, with the handle at the long end. A wedge is two ramps back to back, and a screw is a ramp wound round a rod. So there are six names but only two ideas. A lever swaps force and distance by moving a fulcrum. A ramp swaps force and distance by changing the slope. Whichever you pick, the trade is the same. A smaller force goes a longer way. People sorted these machines into six kinds because they look different, and that sorting helps us remember them. But the sorting is ours. Nature has only one rule underneath.",
+      "description": "In Class 3 you met six simple machines. Look closely and they work in only two ways. A pulley is a lever with equal arms bent round into a wheel, and a moving pulley is a lever with arms in a ratio of 2 to 1. A wheel and axle is a lever that goes round and round, with the handle at the long end. A wedge is two ramps back to back, and a screw is a ramp wound round a rod. So there are six names but only two ideas. A lever swaps force and distance by moving a fulcrum. A ramp swaps force and distance by changing the slope. Whichever you pick, the trade is the same. You use a smaller force, but over a longer distance. People sorted these machines into six kinds because they look different, and that sorting helps us remember them. But the sorting is ours. Nature has only one rule underneath.",
       "examples": [
         "A moving pulley is a lever in which the load hangs from the middle and the effort is at the end.",
         "A screw is a ramp wound round a rod.",
@@ -263,8 +263,8 @@
     {
       "concept": "Why machines can never give out more: energy and time",
       "status": "defined",
-      "definition": "Energy is never made from nothing or destroyed, only moved or changed. In 1918 Emmy Noether showed that this follows from the laws of nature being the same on every day.",
-      "description": "Everything in this unit leads to the same rule. However you arrange the ropes, the work that comes out is never more than the work that went in. For thousands of years inventors tried to build machines that gave out extra, and none worked. Energy is the thing that is passed on. It can change from a pull to height, or to warmth, but the total stays the same. In 1918, the German mathematician Emmy Noether showed something deeper. If the laws of nature do not change from one day to the next, then energy cannot be made or lost. The rule is not about ropes. It is about time. Noether did this at a university where, for years, she was not allowed to be a paid teacher, and her lectures were announced under the professor David Hilbert's name. Physicists say the rule gets tricky when the whole universe is stretching, and this is still being discussed.",
+      "definition": "Energy is never made from nothing or destroyed, only moved or changed. In 1918 Emmy Noether showed that this follows from the laws of nature not changing from one day to the next.",
+      "description": "Everything in this unit leads to the same rule. However you arrange the ropes, the work that comes out is never more than the work that went in. For thousands of years inventors tried to build machines that gave out extra, and none worked. Energy is what gets passed on. It can change from a pull into height, or into warmth, but the total stays the same. In 1918, the German mathematician Emmy Noether showed something deeper. If the laws of nature do not change from one day to the next, then energy cannot be made or lost. The rule is not about ropes. It is about time. Noether did this at a university where, for years, she was not allowed to be a paid teacher, and her lectures were announced under the professor David Hilbert's name. Physicists say the rule gets tricky when the whole universe is stretching, and this is still being discussed.",
       "examples": [
         "A pulley, a lever and a ramp all show the same total work in and out.",
         "A swing swings lower each time as friction turns its energy into warmth, but the total stays the same.",
@@ -366,7 +366,7 @@
     {
       "q": "No machine has ever given out more than it took in. Is that a fact about machines, or about the universe?",
       "kind": "deep",
-      "hint": "Think about Emmy Noether's idea about the laws being the same on every day."
+      "hint": "Think about Emmy Noether's idea that the laws of nature do not change from one day to the next."
     },
     {
       "q": "On a bicycle, a low gear makes a hill easy but is slow on the flat, and a high gear is fast on the flat but hard up a hill. Why can't we have both at once?",
@@ -439,23 +439,23 @@
     ]
   },
   "roots": {
-    "context": "We have counted ropes, turned gears and found that every machine trades a smaller pull for a longer way. Now we ask why that trade never changes, and what it tells us.",
+    "context": "We have counted ropes, turned gears and found that every machine trades a smaller pull for a longer distance. Now we ask why that trade never changes, and what it tells us.",
     "deep_truth": {
-      "truth": "In the Count the Ropes test, with every arrangement of reels, the hand moved exactly as much further as the pull got smaller. In 1918 Emmy Noether showed why. If the laws of nature work the same on every day, energy cannot be made from nothing. So no machine can cheat, because cheating would need nature to change its rules from day to day.",
-      "habit": "We treat 'you cannot get something for nothing' as a fact about ropes and levers, a limit of the tools that we make. It is a wider rule, tied to how time works.",
+      "truth": "In the Count the Ropes test, with every arrangement of reels, the hand moved exactly as much further as the pull got smaller. In 1918 Emmy Noether showed why. If the laws of nature do not change from one day to the next, energy cannot be made from nothing. So no machine can cheat, because cheating would need nature to change its rules from day to day.",
+      "habit": "We treat 'you cannot get something for nothing' as a fact about ropes and levers, a limit of the tools that we make. It is a much wider rule. Noether showed that it is linked to the fact that the laws of nature do not change as time goes on.",
       "evidence": "In the Count the Ropes test, a fixed reel only turned the pull round, and a moving reel halved the pull and doubled the distance. Force times distance came out about the same each time, a little worse because of friction."
     },
     "three": {
       "who_am_i": "You can lift more than your strength alone if you share the load between ropes. What you can do depends on how you arrange things.",
       "what_is_life": "Inside every cell of your body, tiny motors turn like wheels on axles, and they follow the same trade as a pulley.",
-      "what_is_this_world": "No machine anywhere, from a crane to a cell, has beaten the trade of force for distance. That is because the world's laws stay the same on every day."
+      "what_is_this_world": "No machine anywhere, from a crane to a cell, has beaten the trade of force for distance. That is because the laws of nature do not change from one day to the next."
     },
-    "thread": "Six machines turned out to be two ideas, and the two ideas turned out to be one trade. Behind the trade is a single rule about energy, which Emmy Noether linked to the way time behaves. Rope, wood, steel and protein all follow it. The many tools and cells are different shapes of the same rule. A rope pulled by a girl, a bullock or a motor passes on energy it received from somewhere, and that energy, in the end, came from the Sun.",
+    "thread": "Six machines turned out to be two ideas, and the two ideas turned out to be one trade. Behind the trade is a single rule about energy, which Emmy Noether linked to the way time behaves. Rope, wood, steel and protein all follow it. All the different tools and cells follow this same rule. A rope pulled by a girl, a bullock or a motor passes on energy it received from somewhere, and that energy, in the end, came from the Sun.",
     "teachings": [
       {
         "source": "Tao Te Ching 77",
         "teaching": "The way of heaven is like bending a bow. What is high is brought down, and what is low is raised. It takes from what has too much and gives to what has too little.",
-        "link": "A lever or pulley takes from the distance and gives to the force, so the two stay in balance."
+        "link": "A lever or pulley gives you more force by taking away distance, so the two stay in balance."
       },
       {
         "source": "Heraclitus, fragment 51",
@@ -470,7 +470,7 @@
     ],
     "science": [
       {
-        "text": "Emmy Noether's theorem of 1918 says that whenever nature's laws stay the same under some steady change, some quantity is conserved, which means its total never changes. Because the laws are the same on every day, energy is conserved.",
+        "text": "Emmy Noether's theorem of 1918 says that whenever nature's laws stay the same under some steady change, some quantity is conserved, which means its total never changes. Because the laws of nature do not change from one day to the next, energy is conserved.",
         "status": "settled"
       },
       {
@@ -641,7 +641,7 @@
           "say": "These cards show a load and a machine. We work out the pull and the distance. Then we turn the card over to check.",
           "kid": "Cut out the cards. Shuffle them. Get paper and a pencil.",
           "context": "This is the first step of Rope Counter. You set up the cards.",
-          "parent": "No printer or no double-sided printing? Cut the fronts as slips and keep the answer sheet face down, or let the reader hold the sheet with the answers covered. Two to four players can share one pile and one reader at a time; each writes on their own scrap."
+          "parent": "No printer or no double-sided printing? Cut the fronts as slips and keep the answer sheet face down, or let the reader hold the sheet with the answers covered. Two to four players can share one pile and one reader at a time. Each writes on their own scrap."
         },
         {
           "id": "s2",
@@ -886,7 +886,7 @@
           "do": "Draw a bar chart with one bar for each way, using the bigger of the two stretches. Then ask your child to say what they thought, what they saw and why.",
           "say": "Tell me three things. What did you think would happen? What did you see in the table? Why do you think it happened?",
           "kid": "Draw a bar for each way. Say what you thought, what you saw, and why.",
-          "think": "The stretch got smaller and the knot moved further. What stayed the same?",
+          "think": "The stretch got smaller and the knot moved further. What stayed the same when you multiplied the pull by the distance?",
           "parent": "A strong answer says that the fixed reel only changed direction, and that the moving reel halved the pull but doubled the distance. After they have said what they saw, explain it. A bottle of 1 kilogram needs about 10 newtons. Lifting it 0.1 metres is 1 joule of work. With two strings, the pull is about 5 newtons and the knot moves 0.2 metres, which is again 1 joule. The extra stretch in your results is friction.",
           "context": "This is the last step of Count the Ropes. You draw the chart and explain what you found."
         }
@@ -1004,7 +1004,7 @@
               ]
             }
           ],
-          "parent": "A count of 2 and a bit turns is normal. Count part-turns as halves or quarters. The wheel keeps turning after you stop pedalling, so stop the pedal exactly at the mark. If it is hard to judge, turn the pedal 5 full turns, count the wheel turns and divide by 5. With several children, one watches the tyre mark, one watches the pedal tooth and one writes. Swap jobs on each try.",
+          "parent": "A count that is a whole number plus a part, such as 2 and a bit turns, is normal. Count part-turns as halves or quarters. The wheel keeps turning after you stop pedalling, so stop the pedal exactly at the mark. If it is hard to judge, turn the pedal 5 full turns, count the wheel turns and divide by 5. With several children, one watches the tyre mark, one watches the pedal tooth and one writes. Swap jobs on each try.",
           "context": "In this step, you turn the pedal once and count the turns of the wheel."
         },
         {
@@ -1699,7 +1699,7 @@
             "5 centimetres"
           ],
           "a": 0,
-          "why": "Both ropes must get 10 centimetres shorter, so 20 centimetres of rope must pass through your hand. A smaller pull always goes a longer way.",
+          "why": "Both ropes must get 10 centimetres shorter, so 20 centimetres of rope must pass through your hand. A smaller pull always has to move over a longer distance.",
           "outcome": 1
         },
         {
@@ -2174,7 +2174,7 @@
           "t": "mcq",
           "p": "Emmy Noether showed in 1918 that energy cannot be made from nothing if which thing is true?",
           "opts": [
-            "The laws of nature are the same on every day",
+            "The laws of nature do not change over time",
             "All machines are well oiled",
             "Gravity is the same everywhere"
           ],
@@ -2412,7 +2412,7 @@
         "Machines are too small"
       ],
       "a": 0,
-      "why": "Every careful test has shown the same result. Physicists link it to the laws of nature being the same on every day.",
+      "why": "Every careful test has shown the same result. Physicists link it to the laws of nature not changing from one day to the next.",
       "outcome": 6
     }
   ],
@@ -2601,7 +2601,7 @@
           }
         ]
       },
-      "why_maths": "Comparing a result with half shows whether the machine did what the ideal rule says, and how much friction took."
+      "why_maths": "Comparing a result with half shows whether the machine did what the ideal rule says, and how much of the work friction took."
     },
     {
       "problem": "A tackle has 5 ropes and a load of 40 kilograms. Ignoring friction, what is the pull? In real life you pull with the strength of 10 kilograms. What percent of your effort is useful?",
@@ -2649,7 +2649,7 @@
       "answer": "50,000 kilograms. 1000 centimetres, which is 10 metres.",
       "explain": "50 times 1000 is 50,000 kilograms. Their end moves 1000 times as far as the load, so 1 centimetre of lift needs 1000 centimetres of push, which is 10 metres.",
       "math_unit": "math.number-sense.big-numbers.L4",
-      "context": "In the Count the Ropes test, you saw that a smaller force always goes a longer distance. A very long lever shows the same idea with very big numbers.",
+      "context": "In the Count the Ropes test, you saw that a machine that gives a smaller force makes you move over a longer distance. A very long lever shows the same idea with very big numbers.",
       "why_maths": "Big numbers show why a lever that could move the Earth would need a push as long as a galaxy."
     }
   ],
@@ -2828,5 +2828,5 @@
     "wrong_idea": "The Greek book called the lever a wonder that beats nature, and some people hoped a clever machine could win something for free. Galileo showed that every machine pays for a smaller force with a longer distance."
   },
   "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Count the Ropes: the string-through-the-reel loop pulleys and the rubber band gauge are the most likely thing to need adjusting. The band should stretch 6 to 12 centimetres under the full bottle. If it stretches less than 4 or reaches its limit, the steps say what to change. The stretch with the moving reel should be a little more than half, and the knot should move about 20 centimetres. Because the band is not exactly even, the numbers show the pattern, not exact halves. Bicycle Gears needs a grown-up to turn the bicycle over. Clock Gears needs a clock with a setting knob. The Paper Screw gaps depend on how tightly the paper is wound. Facts to check before the unit goes live: the Ljubljana Marshes wheel (about 5,200 years old, found in 2002; checked), the earliest pulleys (Mesopotamia and Egypt, about 3,500 years ago), that Emmy Noether's early lectures were announced under David Hilbert's name, that the mote (Karnataka) and charsa (North India) are the right names for the bullock-drawn leather bucket lifts, the single-speed bicycle tooth counts in the notes, and the Galileo and Mechanical Problems dates. The videos have no address yet.",
- "warm": {"words": ["WHEEL", "GEARS", "SCREW", "WEDGE", "FORCE"], "quiz": [["Two ropes holding a load halve the pull, but you must pull twice as much rope.", true, "A machine trades a smaller pull for a longer distance, so the work stays the same."], ["No machine can give out more work than the work put into it.", true, "Some work is always lost as warmth from friction, and none is ever made from nothing."], ["A fixed pulley only turns the direction of the pull round. It does not make the pull smaller.", true, "Only one rope holds the load, so the pull needed is the same as the load."], ["A screw is a ramp wound round and round a rod.", true, "The thread is a long ramp that climbs a short height, so a small push can move a big load."], ["A bicycle works because several simple machines, such as wheels and gears, work together.", true, "A machine made of two or more simple machines is called a compound machine."], ["When a small gear turns a big gear, the big gear turns faster.", false, "The big gear has more teeth, so it turns fewer times than the small gear."], ["A long, thin wedge needs a bigger push than a short, fat one to split the same log.", false, "A thin wedge spreads the wood slowly over a longer distance, so it needs a smaller push."], ["A screw with threads packed closer together moves further forward with each turn.", false, "Closer threads mean a smaller gap between turns, so the screw moves less with each turn."], ["The work a machine does not give out just disappears.", false, "It is turned into warmth by friction, and energy is not lost, only changed."], ["In science, work depends only on how hard you push, not on how far.", false, "Work is the push or pull multiplied by the distance the thing moves."]], "odd": [[["Axe", "Knife", "Chisel", "Rolling pin"], "Rolling pin", "An axe, knife and chisel are wedges that push things apart; a rolling pin is a wheel-like roller."], [["Bolt", "Jar lid", "Light bulb base", "Nail"], "Nail", "Bolts, jar lids and bulb bases have a spiral thread, like a screw; a nail has no thread."], [["Cycle gear", "Mixer gear", "Clock gear", "Pulley wheel"], "Pulley wheel", "Gears have teeth that fit into each other; a pulley wheel has a smooth groove for a rope."], [["Moving pulley", "Block and tackle", "Four ropes holding a load", "Fixed pulley on a well"], "Fixed pulley on a well", "The first three make the pull smaller by sharing the load between ropes; a fixed pulley only changes direction."], [["Rubbing your palms", "Squealing brakes", "Drilling into wood", "Stone resting on a table"], "Stone resting on a table", "The first three rub surfaces together and make warmth from friction; a resting stone has nothing rubbing."]]}
+ "warm": {"words": ["WHEEL", "GEARS", "SCREW", "WEDGE", "FORCE"], "quiz": [["Two ropes holding a load halve the pull, but you must pull twice as much rope.", true, "A machine trades a smaller pull for a longer distance, so the work stays the same."], ["No machine can give out more work than the work put into it.", true, "Some work is always lost as warmth from friction, and none is ever made from nothing."], ["A fixed pulley only turns the direction of the pull round. It does not make the pull smaller.", true, "Only one rope holds the load, so the pull needed is the same as the load."], ["A screw is a ramp wound round and round a rod.", true, "The thread is a long ramp that climbs a short height, so a small push can move a big load."], ["A bicycle works because several simple machines, such as wheels and gears, work together.", true, "A machine made of two or more simple machines is called a compound machine."], ["When a small gear turns a big gear, the big gear turns faster.", false, "The big gear has more teeth, so it turns fewer times than the small gear."], ["A long, thin wedge needs a bigger push than a short, fat one to split the same log.", false, "A thin wedge spreads the wood slowly over a longer distance, so it needs a smaller push."], ["A screw with threads packed closer together moves further forward with each turn.", false, "Closer threads mean a smaller gap between turns, so the screw moves less with each turn."], ["The work a machine does not give out just disappears.", false, "It is turned into warmth by friction, and energy is not lost, only changed."], ["In science, work depends only on how hard you push, not on how far.", false, "Work is the push or pull multiplied by the distance the thing moves."]], "odd": [[["Axe", "Knife", "Chisel", "Rolling pin"], "Rolling pin", "An axe, knife and chisel are wedges that push things apart. A rolling pin is a wheel-like roller."], [["Bolt", "Jar lid", "Light bulb base", "Nail"], "Nail", "Bolts, jar lids and bulb bases have a spiral thread, like a screw. A nail has no thread."], [["Cycle gear", "Mixer gear", "Clock gear", "Pulley wheel"], "Pulley wheel", "Gears have teeth that fit into each other. A pulley wheel has a smooth groove for a rope."], [["Moving pulley", "Block and tackle", "Four ropes holding a load", "Fixed pulley on a well"], "Fixed pulley on a well", "The first three make the pull smaller by sharing the load between ropes. A fixed pulley only changes direction."], [["Rubbing your palms", "Squealing brakes", "Drilling into wood", "Stone resting on a table"], "Stone resting on a table", "The first three rub surfaces together and make warmth from friction. A resting stone has nothing rubbing."]]}
 }

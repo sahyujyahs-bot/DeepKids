@@ -162,7 +162,7 @@
       "concept": "Why a falling thing stops speeding up: terminal speed",
       "status": "defined",
       "definition": "A falling thing speeds up until its drag equals its weight. After that it falls at a steady speed called its terminal speed.",
-      "description": "When you let go, only weight is pulling the thing down, so it speeds up. As it speeds up, drag grows. At some speed the drag grows as big as the weight. Then the forces are balanced, and the thing stops speeding up. A big raindrop falls at no more than about 9 metres each second, or about 30 kilometres an hour, though it may fall from a cloud a kilometre up. A parachute has a huge canopy, so it reaches the balance at a very low speed. A heavier thing needs more drag to balance it, so it falls faster. But four times the weight does not make four times the speed. It makes about two times the speed. A skydiver falling flat reaches about 55 metres each second, and a skydiver with a parachute open lands at about 5.",
+      "description": "When you let go, only weight is pulling the thing down, so it speeds up. As it speeds up, drag grows. At some speed the drag grows as big as the weight. Then the forces are balanced, and the thing stops speeding up. A big raindrop falls at no more than about 9 metres each second, or about 30 kilometres an hour, though it may fall from a cloud a kilometre up. A parachute has a huge canopy, so it reaches the balance at a very low speed. A heavier thing needs more drag to balance it, so it falls faster. But four times the weight does not make four times the speed. It makes about two times the speed. A skydiver falling flat reaches about 55 metres each second, and a skydiver with a parachute open lands at about 5 metres each second.",
       "examples": [
         "A big raindrop stops speeding up at about 9 metres each second.",
         "A skydiver falling belly-down reaches about 55 metres each second, about 200 kilometres an hour.",
@@ -342,9 +342,9 @@
       "hint": "Think about what the drop had to push out of the way, all the way down."
     },
     {
-      "q": "Is the air a bird flies in the same air that we walk in?",
+      "q": "Does a bird feel the same air that we feel when we walk?",
       "kind": "big",
-      "hint": "A hawk feels rising and sinking currents. A tiny wasp feels thick air. We feel almost nothing. Whose air is the real one?"
+      "hint": "A hawk feels rising and sinking currents. A tiny wasp feels the air as thick. We feel almost nothing. So is the air the same for all of them?"
     },
     {
       "q": "A plane that is easy to steer is hard to keep steady, and one that is steady is hard to steer. What should a pilot want? What should a bird want?",
@@ -372,7 +372,7 @@
       "hint": "Think about whose names you were told, and whose you had to look up."
     },
     {
-      "q": "When we say a bird uses the air, who is using whom? Could we say the air uses the bird?",
+      "q": "We say a bird uses the air to fly. But the bird also moves the air, and the next bird uses that moving air. Is it fair to say the birds and the air work together?",
       "kind": "deep",
       "hint": "Think about the whirls left behind, and who catches them."
     }
@@ -428,20 +428,20 @@
     "context": "We have raced parachutes, steered paper planes and watched smoke whirl behind a card. Now we ask what this tells us about the air, about flyers, and about ourselves.",
     "deep_truth": {
       "truth": "After you swish a card through smoke, whirls of smoke keep turning where the card has been. A flyer moves the air they pass through, and that air keeps moving after the flyer has gone. In a flock, the next bird is held up by air the bird ahead has moved. So a flyer's push does not end at their wings.",
-      "habit": "We picture air as empty space that a flyer passes through, and a flock as separate birds. But air is a real material that gets pushed. A flyer and the air around them move together. They are one event, not two separate things.",
+      "habit": "We picture air as empty space that a flyer passes through, and a flock as separate birds. But air is a real material that gets pushed. The air does not stay still while a flyer passes. The flyer moves the air, and the moving air then pushes on the flyer and on whatever comes next. So the flight and the movement of the air are really one happening, not two.",
       "evidence": "In the smoke test, the whirls kept turning after the card had stopped. Northern bald ibises flying in a V were tracked in 2014, and each one flapped in step with the bird ahead to catch the air that bird had lifted."
     },
     "three": {
       "who_am_i": "When you walk across a room, you move the air as well as yourself. The air you push aside closes behind you, and it keeps moving after you have passed.",
       "what_is_life": "Flamingos and geese fly in lines and take turns at the front. Many living beings save effort by using what the others around them are already doing.",
-      "what_is_this_world": "Nothing moves through the world without moving a little of it. The air a plane stirs is still moving minutes after the plane has gone."
+      "what_is_this_world": "Whenever something moves through air or water, it pushes some of that air or water along. The air a plane stirs is still moving minutes after the plane has gone."
     },
     "thread": "A bird and the sky around her look like two things. But in the smoke test, a card and the air moved together, and the air kept the motion after the card stopped. A flock shares that motion from one bird to the next. A bird's muscles move her wings, her wings move the air, and the moving air lifts the next bird. In the end the motion becomes warmth in the air. The energy is not lost. It is only handed on.",
     "teachings": [
       {
         "source": "Avatamsaka Sutra, the image of Indra's net",
         "teaching": "Think of a net with a jewel at every knot. Each jewel shows the reflection of every other jewel. Nothing in the net stands alone.",
-        "link": "The air that each flying bird moves reaches the next bird. A flock is a net of moving air, where each push is felt by the others."
+        "link": "The air that each flying bird moves reaches the next bird. So the birds in a flock are linked through the air, and each bird's push is felt by the others."
       },
       {
         "source": "Tao Te Ching 11",
@@ -455,13 +455,13 @@
         "status": "settled"
       },
       {
-        "text": "Nobody can yet work out, from the basic equations, exactly how the swirling air behind a moving thing will behave. Whether those equations always have smooth answers is one of the Clay Mathematics Institute's seven million-dollar prize problems.",
+        "text": "Scientists have exact equations for how air moves. But nobody can yet use them to predict exactly how the swirling air behind a moving thing will behave. Nobody has even proved that the equations always give a sensible answer. This is one of the seven million-dollar prize problems of the Clay Mathematics Institute.",
         "status": "open"
       }
     ],
     "other_view": {
       "who": "Many physicists and engineers",
-      "view": "A wake is only air moving according to the usual laws. Nothing is shared and nothing is used. To say a bird uses the air, or that the bird and the air are one event, is only a way of speaking, and it adds nothing to the sums."
+      "view": "A wake is only air moving according to the usual laws. Nothing is shared and nothing is used. To say a bird uses the air, or that the bird and the air are one event, is only a way of speaking, and it does not change any of the calculations."
     },
     "practice": {
       "title": "Feel the air go on moving",
@@ -471,8 +471,8 @@
     },
     "ask": [
       "When you walk across a room, do you move through the air, or do you move the air?",
-      "If a bird's push goes on in the air after she has passed, where does her flight end?",
-      "Is the air a hawk flies in the same air that you walk in?"
+      "A bird's push keeps moving in the air after she has passed. So is her flight over once she has gone by, or is it still going on in the air?",
+      "Does a hawk feel the same air that you feel when you walk?"
     ],
     "art": "A card swished through a ribbon of incense smoke, with spiral whirls of smoke curling behind it, and a line of flamingos flying in the background."
   },
@@ -990,7 +990,7 @@
               ]
             }
           ],
-          "parent": "Typical times from 2 metres are about 2 seconds for the small parachute, about 3 to 4 for the big one, about 2 for the big one with 4 coins and under 1 second for the scrunched ball. Your numbers will differ, so trust your own table. The big parachute is the slowest and the scrunched ball the fastest; those two should be clear. The same person should use the stopwatch each time, because reaction time adds about a fifth of a second of error. Mark the time as a failed drop if the canopy folds, and drop it again. With several children, one drops, one times and one writes, and everyone swaps after each parachute. If the times are all too short to tell apart, a grown-up can drop from the top of a flight of stairs with a clear floor below.",
+          "parent": "Typical times from 2 metres are about 2 seconds for the small parachute, about 3 to 4 for the big one, about 2 for the big one with 4 coins and under 1 second for the scrunched ball. Your numbers will differ, so trust your own table. The big parachute is the slowest and the scrunched ball the fastest. Those two results should be clear. The same person should use the stopwatch each time, because reaction time adds about a fifth of a second of error. Mark the time as a failed drop if the canopy folds, and drop it again. With several children, one drops, one times and one writes, and everyone swaps after each parachute. If the times are all too short to tell apart, a grown-up can drop from the top of a flight of stairs with a clear floor below.",
           "check": {
             "t": "mcq",
             "q": "Parachute B takes 2.8, 2.6 and 2.7 seconds. What is the average?",
@@ -1118,7 +1118,7 @@
           "do": "Fold one plane with the steps in the pictures. Press every crease flat with your fingernail. Make four more planes exactly the same way. Mark L and R on each.",
           "say": "Fold the paper in half and open it. Fold the top corners in to the middle line. Fold the slanted edges in again. Fold the plane in half. Fold the wings down.",
           "kid": "Fold a plane. Make four the same. Mark L and R on the wings.",
-          "parent": "Fold carefully so the planes are the same; ordinary A4 or notebook paper works, and thick card does not. With 2 to 4 children, each child folds one plane and checks a friend's. A plane with crooked wings will turn on its own, which spoils the test. Fold the wings so they are level and equal.",
+          "parent": "Fold carefully so the planes are the same. Ordinary A4 or notebook paper works, and thick card does not. With 2 to 4 children, each child folds one plane and checks a friend's. A plane with crooked wings will turn on its own, which spoils the test. Fold the wings so they are level and equal.",
           "check": {
             "t": "mcq",
             "q": "Why must all five planes be folded the same way?",
@@ -1136,7 +1136,7 @@
           "id": "s3",
           "mins": 5,
           "do": "Stand behind the start line. Throw plane 1, with no bends, three times, level and gently. Write what it does and where it lands each time.",
-          "say": "Throw it level, like putting a ball on a shelf. Do it three times. Write where it lands and which way it curves, if it curves.",
+          "say": "Throw it level and gently, as if you were setting it down on a shelf. Do it three times. Write where it lands and which way it curves, if it curves.",
           "kid": "Throw the plane three times. Write where it lands.",
           "parent": "Plane 1 is the control. If it already curves, bend the wings level again, and refold if needed. Use the same gentle throw each time, and let the same child throw every plane, because a different arm changes the result more than a bend does. Keep the fans off and the windows shut. Everyone else stands behind the thrower. One child marks the landing spot with chalk or a pencil and one writes.",
           "context": "In this step, you throw the plane with no bends, to see how it flies by itself."
@@ -1261,7 +1261,7 @@
             }
           ],
           "adult": true,
-          "parent": "Put the fan on its lowest setting. Keep the card at the same distance each time. The card should swing a clear 10 to 30 centimetres when flat to the wind. If it flies almost level, add a second coin; if it hardly moves, move the card closer to the fan. Then keep it the same for every test. Switch off the fan's side-to-side swing.",
+          "parent": "Put the fan on its lowest setting. Keep the card at the same distance each time. The card should swing a clear 10 to 30 centimetres when flat to the wind. If the wind blows the card almost out sideways, add a second coin. If the card hardly moves, move it closer to the fan. Then keep the coins and the distance the same for every test. Switch off the fan's side-to-side swing.",
           "context": "In this step, you set up the card and the fan, and make a guess."
         },
         {
@@ -1397,7 +1397,7 @@
               ]
             }
           ],
-          "parent": "The round spoon usually leaves two whirls that keep turning for a few seconds after you stop. The ruler edge-first leaves very little. If you see nothing, use less pepper, make the water 3 centimetres deep, wait for still water, and pull faster, about 15 centimetres in 1 second. Count how many seconds the whirls keep turning and write it down for the spoon and the ruler. It may take a few tries and the whirls may be faint, but a round shape leaves bigger whirls than an edge. One child pulls, one watches, one counts seconds; a phone filming in slow-motion shows the whirls clearly. Water and air are both fluids, which means they flow, and the same kinds of whirls form in air.",
+          "parent": "The round spoon usually leaves two whirls that keep turning for a few seconds after you stop. The ruler edge-first leaves very little. If you see nothing, use less pepper, make the water 3 centimetres deep, wait for still water, and pull faster, about 15 centimetres in 1 second. Count how many seconds the whirls keep turning and write it down for the spoon and the ruler. It may take a few tries and the whirls may be faint, but a round shape leaves bigger whirls than an edge. One child pulls, one watches and one counts seconds. A phone filming in slow motion shows the whirls clearly. Water and air are both fluids, which means they flow, and the same kinds of whirls form in air.",
           "context": "In this step, you pull each shape through the pepper and watch the wake."
         },
         {
@@ -1406,7 +1406,7 @@
           "do": "Ask your child to say what they saw. Ask what the whirls tell us about the water, and what the same shapes would do in air.",
           "say": "The spoon has stopped, but the water is still moving. What does that tell us about water? What do you think happens to air behind a bus?",
           "kid": "The spoon stopped. Why does the water keep moving?",
-          "think": "If the water behind the spoon keeps moving, what does it have that it did not have before?",
+          "think": "The spoon has stopped, but the water behind it is still moving. Where did that movement come from?",
           "context": "This is the last step of Whirls Behind a Spoon. You think about what the wake shows."
         }
       ]
@@ -1504,7 +1504,7 @@
               ]
             }
           ],
-          "parent": "A quick swish about 20 centimetres from the smoke usually bends the ribbon into curls that turn for a second or two. A slower swish makes less. If nothing happens, swish faster or move a little closer. Do not blow on the smoke. If the ribbon still wobbles on its own, put the stick inside the box on its side. In damp weather the smoke is thicker and slower to curl; swish more slowly. With several children, one swishes, one counts how many seconds the whirls last and one draws. Then take turns.",
+          "parent": "A quick swish about 20 centimetres from the smoke usually bends the ribbon into curls that turn for a second or two. A slower swish makes less. If nothing happens, swish faster or move a little closer. Do not blow on the smoke. If the ribbon still wobbles on its own, put the stick inside the box on its side. In damp weather the smoke is thicker and slower to curl, so swish more slowly. With several children, one swishes, one counts how many seconds the whirls last and one draws. Then take turns.",
           "check": {
             "t": "mcq",
             "q": "The card stopped, but the smoke kept curling. What does that show?",
@@ -1619,7 +1619,7 @@
               ]
             }
           ],
-          "parent": "The thread always hangs straight down from the hole. The balance point lies on that line. Two lines cross at only one spot, so that spot is the balance point. If the card does not balance, redraw the lines more carefully. A third hole gives a third line; if all three cross at the same spot you have measured it well. With several children, each cuts a different shape and a friend holds the thread still.",
+          "parent": "The thread always hangs straight down from the hole. The balance point lies on that line. Two lines cross at only one spot, so that spot is the balance point. If the card does not balance, redraw the lines more carefully. A third hole gives a third line. If all three cross at the same spot, you have measured it well. With several children, each cuts a different shape and a friend holds the thread still.",
           "check": {
             "t": "mcq",
             "q": "Why does the card balance at the point where the two lines cross?",
@@ -1719,7 +1719,7 @@
               ]
             }
           ],
-          "parent": "The shuttlecock should turn within about a metre and fly cork-first almost every time. Toss low and away from people and glass. One child tosses, one tallies and one watches where it turns. The ball with no strips should tumble and not turn the same way; if the ball with strips also tumbles, make the strips longer. The feathers have much more drag than the cork, and drag pulls them behind. If you use the homemade one, the paper strips should trail behind the paper ball.",
+          "parent": "The shuttlecock should turn within about a metre and fly cork-first almost every time. Toss low and away from people and glass. One child tosses, one tallies and one watches where it turns. The ball with no strips should tumble and not turn the same way. If the ball with strips also tumbles, make the strips longer. The feathers have much more drag than the cork, and drag pulls them behind. If you use the homemade one, the paper strips should trail behind the paper ball.",
           "check": {
             "t": "mcq",
             "q": "Why does the shuttlecock end up with the cork in front?",
@@ -2342,7 +2342,7 @@
         "A smooth, level throw that stays the same each time."
       ],
       "creative": [
-        "Bend only the left wing's back edge down a little, so that the plane turns right, then reverse it.",
+        "Bend only the left wing's back edge down a little, so that the plane turns right. To turn it left, bend the right wing's back edge down instead.",
         "A paper tail fin made of a folded strip at the back.",
         "Moving a paper clip to one wing tip to make the plane lean."
       ],
@@ -2953,7 +2953,7 @@
             "They land together"
           ],
           "a": 0,
-          "why": "A bigger drop is heavier for its surface, so it needs more drag to balance it. It falls at a higher steady speed than a small one.",
+          "why": "A bigger drop has more weight compared with the size of its surface. So it needs more drag to balance its weight, and it falls at a higher steady speed than a small one.",
           "outcome": 1
         },
         {
@@ -3036,7 +3036,7 @@
           "t": "write",
           "p": "Do bigger raindrops fall faster than small ones? Say why.",
           "lines": 4,
-          "a": "Yes. A bigger drop is heavier for the size of its surface, so it needs more speed before drag equals its weight. It reaches a higher steady speed.",
+          "a": "Yes. A bigger drop has more weight compared with the size of its surface, so it needs more speed before the drag equals its weight. It reaches a higher steady speed.",
           "why": "A strong answer says that the steady speed depends on the balance of drag and weight, and a bigger drop has a higher steady speed.",
           "outcome": 1
         }
@@ -3257,7 +3257,7 @@
   "open_questions": [
     {
       "q": "Can anyone predict exactly how the swirling air behind a moving thing will behave?",
-      "why_open": "The equations for moving air are well known, but nobody can solve them exactly for swirling air, which scientists call turbulent. Whether they always have smooth answers is a million-dollar prize problem."
+      "why_open": "The equations for moving air are well known, but nobody can solve them exactly for swirling air, which scientists call turbulent. Nobody has even proved that the equations always give a sensible answer. That question is a million-dollar prize problem."
     },
     {
       "q": "How much energy does a V really save for each kind of bird?",

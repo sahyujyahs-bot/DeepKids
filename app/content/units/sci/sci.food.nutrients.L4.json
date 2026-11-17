@@ -132,7 +132,7 @@
    "concept": "Three jobs: energy-giving, body-building and protective",
    "status": "defined",
    "definition": "Food does three main jobs. It gives energy, it gives the materials to build and mend the body, and it gives the vitamins and minerals that protect the body and keep it working.",
-   "description": "Many schoolbooks sort foods into energy-giving foods, body-building foods and protective foods. Rice, roti and ghee are energy-giving foods. Dal, egg and paneer are body-building foods. Fruit, vegetables and leafy greens are protective foods. The sorting is useful for planning a meal, because a meal with all three jobs covered has what the body needs. But a job is something food does, not a label stuck on the food. A groundnut is called a body-building food, because a quarter of it is protein. Yet in the Burning Nuts experiment it burns and heats the water. Your body also burns protein for fuel when it has little else. Curd, milk and eggs do all three jobs at once. So the three groups tell you what a food mostly does in a normal meal. The body decides what it really does.",
+   "description": "Many schoolbooks sort foods into energy-giving foods, body-building foods and protective foods. Rice, roti and ghee are energy-giving foods. Dal, egg and paneer are body-building foods. Fruit, vegetables and leafy greens are protective foods. The sorting is useful for planning a meal, because a meal with all three jobs covered has what the body needs. But a job is something food does, not a label stuck on the food. A groundnut is called a body-building food, because a quarter of it is protein. Yet in the Burning Nuts experiment it burns and heats the water. Your body also burns protein for fuel when it has little else. Curd, milk and eggs do all three jobs at once. So the three groups tell you what a food mostly does in a normal meal. What the body does with each bite depends on what it needs at that moment.",
    "examples": [
     "Dal is called a body-building food. About a fifth of dry dal is protein, and more than half is starch, which is fuel.",
     "Milk gives energy in its fat and milk sugar, building material in its protein and calcium, and protection in its vitamins.",
@@ -158,7 +158,7 @@
    "concept": "Protein: building first, fuel when needed",
    "status": "defined",
    "definition": "Proteins are long chains made of small building blocks called amino acids. The body builds its muscles, skin, hair, blood and many other parts from protein.",
-   "description": "When you eat protein, your gut breaks it into single amino acids. Your body then joins them again, in a new order, into the proteins it needs. Your body can make some amino acids itself, but there are nine it cannot make, so they must come from food. Different foods carry different amounts of each. Grains such as rice are low in one amino acid called lysine. Pulses such as dal are low in another called methionine. Together, they supply all nine well. Proteins are also a fuel. If a body has too little carbohydrate and fat, it burns protein, at about 4 kilocalories in a gram. Children need protein every day, because they are growing. Adults need it to mend their bodies.",
+   "description": "When you eat protein, your gut breaks it into single amino acids. Your body then joins them again, in a new order, into the proteins it needs. Your body can make some amino acids itself, but there are nine it cannot make, so they must come from food. Different foods carry different amounts of each. Grains such as rice are low in one amino acid called lysine. Pulses such as dal are low in another called methionine. Eaten together, rice and dal make up for each other's gap, so the meal supplies all nine well. Proteins are also a fuel. If a body has too little carbohydrate and fat, it burns protein, at about 4 kilocalories in a gram. Children need protein every day, because they are growing. Adults need it to mend their bodies.",
    "examples": [
     "Rice with dal, idli with sambar and roti with rajma each join a grain and a pulse, and are old traditional pairings.",
     "A growing child needs more protein for each kilogram of body weight than an adult does.",
@@ -173,7 +173,7 @@
    "definition": "Vitamins and minerals are nutrients needed in small amounts, and fibre is the part of plants we cannot digest. Foods rich in them protect the body.",
    "description": "Vitamins and minerals give no energy, but the body cannot work without them. Vitamin A, from carrots, papaya, drumstick leaves and spinach, protects the eyes and the skin. Vitamin C, from amla, guava and lemon, helps the body heal and helps it take in iron. Iron, from ragi, jaggery, dates and leafy greens, helps the blood carry oxygen. Calcium, from milk, curd and ragi, builds bones and teeth. Iodine in iodised salt protects against goitre. Skin makes vitamin D when sunlight falls on it. Vitamin B12 is made by microbes, so plant foods rarely hold any, and vegetarians get it from milk, curd and eggs, or from a supplement a doctor suggests. Tea drunk with a meal holds on to iron and lowers how much the body takes in. A squeeze of lemon on dal or spinach raises it. Fibre keeps the gut moving and feeds helpful gut bacteria.",
    "examples": [
-    "Amla holds several times more vitamin C than an orange does, weight for weight.",
+    "Amla holds several times more vitamin C than an orange does, if you compare the same weight of each.",
     "Kamala Sohonie, who in 1939 became the first Indian woman to earn a doctorate in science, later studied neera, the fresh sweet sap of the palm, and found it rich in vitamins.",
     "Ragi holds about 340 milligrams of calcium in 100 grams, and the same weight of milk holds about 120."
    ],
@@ -225,7 +225,7 @@
    "definition": "Sugar is the plain name for sucrose, but food makers use many other names for sweet carbohydrates that the body treats in much the same way.",
    "description": "On an ingredient list, sugar may appear as sugar, jaggery, honey, glucose syrup, fructose, dextrose, maltodextrin, invert sugar, malt extract or fruit juice concentrate. A packet can list several of these separately, so each one is small and none is first on the list, even though together they add up to the biggest share. Four grams of sugar is about one level teaspoon. A small packet drink of 200 millilitres with 22 grams of sugar holds more than five teaspoons. Labels in India show total sugars and, on many packets, added sugars. Sugar is a fuel and not a poison, but sweet foods are easy to eat quickly and in large amounts. Jaggery has a little iron and a few minerals that white sugar lacks, but it is still mostly sugar, and the body handles it much the same way.",
    "examples": [
-    "Ingredients: wheat flour, sugar, glucose syrup, invert sugar, palm oil. Together, the three sugars could weigh more than the flour. The list cannot tell you, but it tells you to look closer.",
+    "Ingredients: wheat flour, sugar, glucose syrup, invert sugar, palm oil. Sugar, glucose syrup and invert sugar are all sugar, so together they could weigh more than the flour. The list does not give the weights, so you cannot be sure. But it tells you to look more closely.",
     "A teaspoon of sugar is about 4 grams. A drink with 22 grams of sugar holds 5 and a half teaspoons.",
     "Honey, jaggery and sugar all give about 3 to 4 kilocalories in each gram."
    ],
@@ -236,7 +236,7 @@
    "concept": "Where a label's calorie number comes from, and how exact it is",
    "status": "debated",
    "definition": "",
-   "description": "A food label's energy number is usually not measured by burning the packet. Makers work it out by weighing the protein, fat and carbohydrate in the food, and multiplying each by a standard number, about 4 for protein, 9 for fat and 4 for carbohydrate. These standard numbers were worked out in the 1890s by Wilbur Atwater. They are averages. A real body does not get exactly the same from every food, so the number on a label is a good estimate and not an exact measure.",
+   "description": "A food label's energy number is usually not measured by burning the packet. Makers work it out by weighing the protein, fat and carbohydrate in the food, and multiplying each by a standard number, about 4 for protein, 9 for fat and 4 for carbohydrate. These standard numbers were worked out in the 1890s by Wilbur Atwater. They are averages. A real body does not take in exactly that much energy from every food, so the number on a label is a good estimate and not an exact measure.",
    "examples": [
     "In a careful study published in 2012, almonds gave volunteers about a quarter fewer calories than the standard numbers predicted.",
     "In 2015, Israeli scientists led by Eran Segal and Eran Elinav watched the blood sugar of about 800 people after the same meals, and found that people reacted very differently to the same food.",
@@ -360,7 +360,7 @@
    "hint": "Think of a firework and a slowly burning lamp. What would happen to a cell that got all its energy at once?"
   },
   {
-   "q": "A label gives one calorie number for a food. Is the number a fact about the food, or a fact about the food meeting a body?",
+   "q": "A label gives one calorie number for a food. Does that number depend only on the food, or also on the body that eats it?",
    "kind": "deep",
    "hint": "In a study published in 2012, almonds gave volunteers about a quarter fewer calories than the standard numbers predicted. Cooking also changes how much of a food a body can take in. So does the number depend only on the food?"
   },
@@ -385,7 +385,7 @@
    "hint": "Compare the energy in a gram of fat with a gram of sugar, and think about what carrying the extra weight costs."
   },
   {
-   "q": "Almost every calorie in your food began as sunlight. When you run, whose energy are you spending?",
+   "q": "Almost all the energy in your food began as sunlight. When you run, where does the energy you use really come from?",
    "kind": "big",
    "hint": "Follow the energy back from you to the groundnut, from the groundnut to the plant, and from the plant to the Sun."
   }
@@ -435,21 +435,21 @@
  "roots": {
   "context": "In this unit you burn food under a tumbler of water, cook rice and read labels. This part asks what those tests show about food and about your own body.",
   "deep_truth": {
-   "truth": "In the Burning Nuts experiment, the groundnut heats the water, yet it is called a body-building food. Your body can also burn protein for fuel and turn extra sugar into fat. So energy, building and protection are jobs that food does, not kinds of food. The body decides which job each bite does.",
+   "truth": "In the Burning Nuts experiment, the groundnut heats the water, yet it is called a body-building food. Your body can also burn protein for fuel and turn extra sugar into fat. So energy, building and protection are jobs that food does, not kinds of food. What the body does with each bite depends on what it needs at that moment.",
    "habit": "We sort foods into energy-giving, body-building and protective, as if the job were printed on the food. But a hungry body burns its protein, and a well-fed body stores extra sugar as fat. The groups help us plan a meal, but they describe the usual job, not a fixed one.",
    "evidence": "In the Burning Nuts experiment, the groundnut heats the water although about a quarter of it is protein. Atwater found that protein gives about 4 kilocalories in a gram, the same as starch. The label of dal, milk or a groundnut shows protein, fat and carbohydrate together, so one food carries material for all three jobs."
   },
   "three": {
    "who_am_i": "You are built from what you ate. The carbon in your muscle was a gas in the air not long ago, and in time much of it will leave in your breath.",
-   "what_is_life": "A living body does three things with food at once. It gets warm, it moves, and it builds new parts. A flame can only make heat.",
-   "what_is_this_world": "The energy in every meal came from the Sun, was caught by a plant and was passed on through bodies. Food is how sunlight travels from one living being to another."
+   "what_is_life": "A living body does three things with food at once. It gets warm, it moves, and it builds new parts. A flame can only give out heat. It cannot move anything or build anything.",
+   "what_is_this_world": "The energy in every meal came from the Sun, was caught by a plant and was passed on through bodies. So the energy in food keeps passing from one living being to the next, and it began as sunlight."
   },
   "thread": "A plant catches the energy of sunlight and stores that energy in sugar, starch, fat and protein. You eat the plant, and your cells release that energy in many small steps. Part of it moves you, part of it warms you, and part of it builds you. What you breathe out and what you sweat out goes back to the air, and plants take the carbon dioxide in again. A meal does not simply sit inside you. Slowly it becomes part of your body, and just as slowly parts of your body leave as air, water and heat.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2 (the Bhrigu Valli)",
     "teaching": "Bhrigu asks his father Varuna to teach him about Brahman, the root of everything. His father tells him to find out through tapas, which means long, steady effort of thought. Bhrigu's first answer is that Brahman is food. All beings are born from food, they live by food, and when they die they go back into food.",
-    "link": "Your muscles were once dal and rice, and one day the atoms in them will be soil, air and water again. The teaching names the cycle that the food label leaves out."
+    "link": "Your muscles were once dal and rice, and one day the atoms in them will be soil, air and water again. A food label says nothing about this cycle, but the teaching names it."
    },
    {
     "source": "Chandogya Upanishad 6.5.1",
@@ -572,11 +572,11 @@
       },
       {
        "f": "Per 100 grams: energy 380 kilocalories, protein 7 grams, fat 0.5 grams, carbohydrate 80 grams. Is it A, cooked rice, B, puffed rice, or C, groundnuts?",
-       "b": "B, puffed rice. It has the same nutrients as raw rice, but it is dry and full of air. Cooked rice has only 130 because of its water."
+       "b": "B, puffed rice. It has the same nutrients as raw rice, but it is dry and full of air. Cooked rice has only 130 kilocalories because of its water."
       },
       {
        "f": "Per 100 grams: energy 450 kilocalories, protein 7 grams, fat 12 grams, carbohydrate 76 grams. Is it A, a plain biscuit, B, boiled potato, or C, cucumber?",
-       "b": "A, a plain biscuit. It is dry, with starch, sugar and some fat. A boiled potato is mostly water and has only about 85."
+       "b": "A, a plain biscuit. It is dry, with starch, sugar and some fat. A boiled potato is mostly water and has only about 85 kilocalories."
       },
       {
        "f": "Per 100 grams: energy 400 kilocalories, protein 0 grams, fat 0 grams, carbohydrate 100 grams. Is it A, white sugar, B, rice, or C, milk?",
@@ -658,7 +658,7 @@
        "good": [
         "Fat gives 9 kilocalories in a gram.",
         "Fat holds more than twice the energy of starch.",
-        "It is the most energy in each gram."
+        "Fat holds more energy in each gram than starch or protein does."
        ]
       }
      ],
@@ -791,7 +791,7 @@
      "kid": "We will burn three foods under a tumbler of water. Which gives the most heat? Why do you think so?",
      "ask": [
       {
-       "q": "Why do you think that food has the most heat?",
+       "q": "Which food did you guess would give the most heat, and why?",
        "good": [
         "It has the most fat.",
         "It burns longest.",
@@ -965,7 +965,7 @@
      "kid": "Read the rice packet. Will cooked rice hold more, the same or less? Why?",
      "ask": [
       {
-       "q": "Why do you think cooked rice will hold that much?",
+       "q": "Why did you guess that cooked rice holds more, the same or less energy than raw rice?",
        "good": [
         "It stays the same, it is still rice.",
         "It soaks up water so it holds less.",
@@ -1091,7 +1091,7 @@
      "kid": "Which packet has the most energy? Which has the least? Why?",
      "ask": [
       {
-       "q": "Why do you think that packet has the most?",
+       "q": "Which packet did you guess has the most energy, and why?",
        "good": [
         "It is oily.",
         "It is dry.",
@@ -1411,7 +1411,7 @@
       "a": 0,
       "why": "680 divided by 170 is 4, so each gram holds 4 kilocalories. 100 grams holds 400. If you chose 680, you gave the total, not the amount for 100 grams."
      },
-     "parent": "For example, 100 grams of dates at 280 gives 280, 60 grams of groundnuts at 580 gives 348, and 10 grams of sesame at 570 gives 57. The total is 685 kilocalories. In 170 grams that is about 400 in 100 grams, and about 68 in each of 10 balls. Their numbers will differ with their packets.",
+     "parent": "For example, dates hold 280 kilocalories in 100 grams, so 100 grams of dates give 280. Groundnuts hold 580 in 100 grams, so 60 grams give 348. Sesame holds 570 in 100 grams, so 10 grams give 57. The total is 685 kilocalories. Spread over 170 grams, that is about 400 in every 100 grams. Shared between 10 balls, it is about 68 in each ball. Their numbers will differ with their packets.",
      "context": "In this step, you work out the label numbers, just as a maker does."
     },
     {
@@ -1533,7 +1533,7 @@
      "do": "Pack the bag and weigh it. Show the family your table. Say what you would change if the walk lasted two days.",
      "say": "Show the family your pack. Tell us how you chose, and what you would change for a two-day walk.",
      "kid": "Show your pack. Say how you chose.",
-     "think": "What is the heaviest part of a pack of idli, and what is the heaviest part of a pack of chikki?",
+     "think": "Most of the weight of idli is water. What makes up most of the weight of chikki? Which pack gives more energy for the same weight, and why?",
      "context": "This is the last step of Day Pack. You pack the bag and talk about your choices."
     }
    ]
@@ -2045,19 +2045,19 @@
      "pairs": [
       [
        "Cucumber",
-       "mostly water, so very low"
+       "very low, because it is mostly water"
       ],
       [
        "Dry coconut",
-       "the water has gone, so very high"
+       "very high, because the water has gone"
       ],
       [
        "Cooked rice",
-       "water added, so about a third of raw rice"
+       "a third of raw rice, from added water"
       ],
       [
        "Ghee",
-       "almost pure fat, so the highest"
+       "the highest, because it is almost pure fat"
       ]
      ],
      "a": "pairs as given",
@@ -2449,7 +2449,7 @@
   },
   {
    "q": "Why do animals store extra energy as fat, and plants as starch?",
-   "why_open": "Fat is lighter to carry for an animal that moves, which may be part of the answer. But the full reason is still debated."
+   "why_open": "Fat holds more than twice the energy of starch in each gram. So an animal that moves around carries less weight if they store their energy as fat. That may be part of the answer. But the full reason is still debated."
   },
   {
    "q": "Is there one best diet for all people?",
@@ -2462,7 +2462,7 @@
   "Why does the back of the packet tell us more than the front?",
   "What is the first ingredient in your favourite snack, and what does that tell you?",
   "Why might a hiker pack groundnuts and not cucumber?",
-  "Where was the energy in this meal a few months ago?",
+  "Before this meal was grown, where did its energy come from?",
   "How many servings do you think you eat when you open a packet of biscuits?",
   "Why do we feel warm after running?",
   "What colours of fruit and vegetables did we eat today?",
@@ -2686,5 +2686,5 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it. The experiments have not yet been cooked at home, so please check these before release. Burning Nuts: one groundnut kernel weighs about half a gram and holds about 3 kilocalories, so the water above it can gain at most about 60 degrees. A home flame loses most of that, and a rise of 5 to 20 degrees is expected. A pocket scale and a real thermometer are needed, and the nuts must weigh about the same. Nobody with a nut allergy should be near the test. Rice Before and After: 50 grams of rice with 150 millilitres of water, cooked covered for 15 minutes, should leave about 120 to 160 grams of cooked rice, and the steps say what to do if water remains. The game cards use rounded numbers close to the Indian food tables, not exact values. Facts to verify before release: the daily energy range for children aged 6 to 10 (1,700 to 2,000 kilocalories), the calcium in ragi, Kamala Sohonie's neera work, the details of Lavoisier's ice calorimeter and of Marie-Anne Lavoisier's drawings, the results of the Atwater room, and the almond and Hall studies. The videos have no address yet.",
- "warm": {"words": ["SUGAR", "FIBRE", "WATER", "LABEL", "CELLS"], "quiz": [["Fat gives more than twice the energy of carbohydrate in the same weight.", true, "Fat holds about 9 kilocalories in each gram, while carbohydrate holds about 4."], ["Cooked rice has more energy in 100 grams than raw rice.", false, "Cooked rice soaks up water, and water holds no energy, so each 100 grams holds less."], ["A packet that says 'natural' on the front must be a healthy food.", false, "The words on the front are chosen to sell the packet. Only the nutrition table and the ingredient list show the sugar, salt and fat."], ["On a label, the ingredient present in the largest amount by weight is listed first.", true, "Ingredients go from largest to smallest by weight, so if sugar is listed first, there is more sugar than any other ingredient."], ["Jaggery is mostly sugar, and the body handles it much like white sugar.", true, "Jaggery is about 95 percent sugar, and its extra minerals are too small to change that."], ["Protein can only build the body and can never be burned for fuel.", false, "Building is protein's first job, but the body burns it for fuel when it needs to."], ["A wet food holds less energy in each 100 grams than a dry food.", true, "Water holds no energy for the body, so more water means less energy in the same weight."], ["Two foods with the same calories fill you up and affect your body in the same way.", false, "Foods differ in how filling they are, how fast they are eaten and how much the body takes in."], ["If a label does not say 'sugar', the food has no added sugar.", false, "Makers use many other names for sweet carbohydrates, which the body treats in much the same way."], ["Fibre cannot be digested, yet it still helps the body.", true, "Fibre keeps the gut moving and feeds the helpful bacteria that live there."]], "odd": [[["Groundnut", "Cashew", "Dry coconut", "Cucumber"], "Cucumber", "Groundnut, cashew and dry coconut have little water and much fat, so they burn well; cucumber is mostly water."], [["Dal", "Egg", "Fish", "Ghee"], "Ghee", "Dal, egg and fish are rich in protein for building the body; ghee is almost all fat, an energy food."], [["Spinach", "Orange", "Guava", "White sugar"], "White sugar", "Spinach, orange and guava give vitamins and minerals that protect the body; white sugar gives only energy."], [["Kilocalorie", "Kilojoule", "Calorie", "Gram"], "Gram", "Kilocalorie, kilojoule and calorie measure energy; a gram measures weight."], [["Sucrose", "Glucose syrup", "Dextrose", "Fibre"], "Fibre", "Sucrose, glucose syrup and dextrose are sweet sugars on labels; fibre is a plant part the body cannot digest."]]}
+ "warm": {"words": ["SUGAR", "FIBRE", "WATER", "LABEL", "CELLS"], "quiz": [["Fat gives more than twice the energy of carbohydrate in the same weight.", true, "Fat holds about 9 kilocalories in each gram, while carbohydrate holds about 4."], ["Cooked rice has more energy in 100 grams than raw rice.", false, "Cooked rice soaks up water, and water holds no energy, so each 100 grams holds less."], ["A packet that says 'natural' on the front must be a healthy food.", false, "The words on the front are chosen to sell the packet. Only the nutrition table and the ingredient list show the sugar, salt and fat."], ["On a label, the ingredient present in the largest amount by weight is listed first.", true, "Ingredients go from largest to smallest by weight, so if sugar is listed first, there is more sugar than any other ingredient."], ["Jaggery is mostly sugar, and the body handles it much like white sugar.", true, "Jaggery is about 95 percent sugar, and its extra minerals are too small to change that."], ["Protein can only build the body and can never be burned for fuel.", false, "Building is protein's first job, but the body burns it for fuel when it needs to."], ["A wet food holds less energy in each 100 grams than a dry food.", true, "Water holds no energy for the body, so more water means less energy in the same weight."], ["Two foods with the same calories fill you up and affect your body in the same way.", false, "Foods differ in how filling they are, how fast they are eaten and how much the body takes in."], ["If a label does not say 'sugar', the food has no added sugar.", false, "Makers use many other names for sweet carbohydrates, which the body treats in much the same way."], ["Fibre cannot be digested, yet it still helps the body.", true, "Fibre keeps the gut moving and feeds the helpful bacteria that live there."]], "odd": [[["Groundnut", "Cashew", "Dry coconut", "Cucumber"], "Cucumber", "Groundnut, cashew and dry coconut have little water and much fat, so they burn well. Cucumber is mostly water."], [["Dal", "Egg", "Fish", "Ghee"], "Ghee", "Dal, egg and fish are rich in protein for building the body. Ghee is almost all fat, so it is an energy food."], [["Spinach", "Orange", "Guava", "White sugar"], "White sugar", "Spinach, orange and guava give vitamins and minerals that protect the body. White sugar gives only energy."], [["Kilocalorie", "Kilojoule", "Calorie", "Gram"], "Gram", "Kilocalorie, kilojoule and calorie measure energy. A gram measures weight."], [["Sucrose", "Glucose syrup", "Dextrose", "Fibre"], "Fibre", "Sucrose, glucose syrup and dextrose are sweet sugars on labels. Fibre is a plant part the body cannot digest."]]}
 }
