@@ -137,7 +137,7 @@
    "concept": "The tests we use to decide if something is alive",
    "status": "defined",
    "definition": "A living thing is made of cells, uses energy from food, grows, senses, gets rid of waste, makes more of their kind, and passes on instructions to their young.",
-   "description": "Scientists do not use one sign. They use a list, and a living thing shows most of these signs, at least some of the time. The usual seven are: moving, getting energy from food, sensing, growing, making young, getting rid of waste, and taking in food. Many scientists add two more that matter most for tricky cases. Every living thing is made of cells. Every living thing also carries instructions and passes them on to their young. These tests decide what biologists call alive. A flame or a crystal that fails these tests is still aware in its own way, because everything is conscious. Being alive and being aware are two different questions. Many scientists think awareness needs a living brain and nerves.",
+   "description": "Scientists do not use one sign. They use a list, and a living thing shows most of these signs, at least some of the time. The usual seven are: moving, getting energy from food, sensing, growing, making young, getting rid of waste, and taking in food. Many scientists add two more that matter most for tricky cases. Every living thing is made of cells. Every living thing also carries instructions and passes them on to their young. These tests decide what biologists call alive. A flame or a crystal fails these tests, so it is not alive. But being alive and being aware are two different questions. Everything is conscious in its own way, even a flame or a crystal. Many scientists disagree, and think awareness needs a living brain and nerves.",
    "examples": [
     "A goat moves, eats grass, grows, senses you, has young (called kids), makes dung and breathes. She is made of cells. Her kids look like goats because of the instructions they got.",
     "A bicycle moves, but it does none of the other things. So one sign alone tells us nothing."
@@ -152,7 +152,7 @@
    "definition": "Fire is a fast chemical change in which fuel joins with oxygen and gives out heat and light. It has no cells and no instructions, so it is not alive.",
    "description": "Fire is a very fast chemical change. Fuel, like wax or wood, joins with oxygen from the air. This gives out heat and light. Fire passes many tests. It moves and spreads. It takes in fuel and oxygen. It grows. It gives off waste: smoke, soot, carbon dioxide and water. A spark can even start a new fire. But fire has no cells. And a new fire carries no instructions from the old one. Its shape comes only from its fuel and the air around it. So, by the biologists' tests, fire is not alive.",
    "examples": [
-    "Put a glass over a candle and the flame soon goes out. It has used up some of the oxygen under the glass, and too little is left.",
+    "Put a glass over a candle and the flame soon goes out. The flame has used up some of the oxygen under the glass, and too little is left.",
     "A fire lit from a birthday candle is no different from one lit with a match. Nothing passes from the old fire to the new one except heat."
    ],
    "perspectives": [],
@@ -230,7 +230,7 @@
    "examples": [
     "A cold virus gets into the cells lining your nose. Those cells make many new viruses, and some leave your nose when you sneeze.",
     "Some viruses attack only bacteria. They are called phages, and they are the most common kind of virus on Earth.",
-    "In 1935 the American scientist Wendell Stanley turned a plant virus, tobacco mosaic virus, into crystals. When the crystals were put back on a tobacco leaf, the leaf still got sick. So a virus can be stored like salt, and still make copies inside cells."
+    "In 1935 the American scientist Wendell Stanley turned a plant virus, tobacco mosaic virus, into crystals. When the crystals were put back on a tobacco leaf, the leaf still got sick. So a virus can be stored as a crystal, as salt can. It still makes copies once it gets inside a living cell."
    ],
    "perspectives": [
     {
@@ -352,7 +352,7 @@
   {
    "concept": "J.C. Bose: the living and the non-living respond alike",
    "status": "debated",
-   "description": "Jagadish Chandra Bose was a scientist in Kolkata. He built instruments so sensitive they could show a plant's tiny electrical signals. In 1902 he wrote a book called 'Response in the Living and Non-Living'. He showed that plants respond to touch, heat, injury and poison with signals rather like those in animal nerves. He also found that some metals seemed to get 'tired' after being poked many times, then recover after rest. He felt there was one long chain of response running through all matter, with no sharp break between living and non-living. He saw something real. Plants, animals and even metals respond, each in its own way, because everything is conscious, not only things with nerves.",
+   "description": "Jagadish Chandra Bose was a scientist in Kolkata. He built instruments so sensitive they could show a plant's tiny electrical signals. In 1902 he wrote a book called 'Response in the Living and Non-Living'. He showed that plants respond to touch, heat, injury and poison with signals rather like those in animal nerves. He also found that some metals seemed to get 'tired' after being poked many times, then recover after rest. He felt there was one long chain of response running through all matter, with no sharp break between living and non-living. Part of what he saw was real, because plants do respond to touch and injury with electrical signals. He also said that plants, animals and even metals respond, each in its own way, because everything is conscious, not only things with nerves.",
    "examples": [
     "A touch-me-not plant (lajwanti) folds their leaves when you touch them. Bose measured the electrical signal that travels through them.",
     "Bose's crescograph magnified a plant's growth thousands of times, so you could watch the plant grow."
@@ -771,8 +771,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Count the tokens. Then look at the ARGUE IT mat together.",
-     "say": "Who has the most tokens? Now look at the ARGUE IT pile. These are the cards that even scientists argue about. Which one would you most like to find out about?",
-     "kid": "Count your tokens. Look at the ARGUE IT pile. Which card is the biggest puzzle for you?",
+     "say": "Who has the most tokens? Now look at the ARGUE IT pile. These are the cards that even scientists argue about. For each card, name one sign it has and one sign it lacks.",
+     "kid": "Count your tokens. Look at the ARGUE IT pile. For each card, name one sign it has and one sign it lacks.",
      "think": "If you had to make one new sign card that every living thing has, and nothing else has, what would it say?"
     }
    ]
@@ -1082,7 +1082,7 @@
     },
     {
      "t": "mcq",
-     "p": "Someone says: 'A coconut palm cannot walk or run, so the palm is not alive.' What have they forgotten?",
+     "p": "A coconut palm cannot walk or run. Is the palm alive? Which is the best reason?",
      "opts": [
       "Palms are too tall to be alive",
       "The palm takes in water, grows from inside and makes coconuts that grow into new palms",
@@ -1122,10 +1122,10 @@
     },
     {
      "t": "write",
-     "p": "A younger child says: 'Fire is alive. It eats wood, breathes air and grows.' What would you tell them?",
+     "p": "Is fire alive? Fire uses wood as food, takes in air and grows. Explain your answer.",
      "lines": 3,
-     "a": "You could say: 'You are right that fire uses fuel and air and grows. But fire has no cells. A new flame gets no instructions from the old one. Living things have both, so fire is not alive.'",
-     "why": "A strong answer agrees with what is true in the child's idea first, then names the signs fire lacks: cells and passed-on instructions."
+     "a": "No, fire is not alive. It is true that fire uses fuel and air and grows. But fire has no cells. A new flame gets no instructions from the old one. Living things have both.",
+     "why": "A strong answer first says what is true about fire, that it uses fuel and air and grows. Then it names the signs fire lacks: cells and passed-on instructions."
     },
     {
      "t": "draw",
@@ -1136,24 +1136,24 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and her family are arguing about the robot vacuum cleaner that cleans their floor.",
+     "p": "A girl and her family are arguing about the robot vacuum cleaner that cleans their floor.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The girl, aged 9",
        "says": "The robot is a little bit alive. It senses walls, finds its way home and charges itself when it is hungry."
       },
       {
-       "who": "Paati, the first person's grandmother",
+       "who": "Paati, the girl's grandmother",
        "says": "Only things made of cells can be alive. A machine of metal and plastic is never alive, however clever it is."
       },
       {
-       "who": "Arjun, the first person's cousin",
+       "who": "Arjun, the girl's cousin",
        "says": "If someone built a robot that could find its own food, repair itself and build copies of itself, then it would be alive."
       }
      ],
      "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and uses the signs of life. For Paati: a robot has no cells and does not grow from inside. For Arjun: some scientists who study 'artificial life' think the same. A strong answer also says what another person has right. For example, the first person is right that the robot senses and moves, but 'hungry' is only a word for a low battery.",
+     "a": "A strong answer picks a side and uses the signs of life. For Paati: a robot has no cells and does not grow from inside. For Arjun: some scientists who study 'artificial life' think the same. A strong answer also says what another person has right. For example, the girl is right that the robot senses and moves, but 'hungry' is only a word for a low battery.",
      "why": "Scientists really do disagree about whether a machine could ever be alive. There is no single right answer. A strong answer names signs of life and is fair to the other side."
     }
    ]
@@ -1190,9 +1190,9 @@
     },
     {
      "t": "mcq",
-     "p": "A mule is the young of a horse and a donkey. Mules eat, grow and breathe, but almost never have young. Someone says this means mules are not alive. What is wrong with that idea?",
+     "p": "A mule is the young of a horse and a donkey. Mules eat, grow and breathe, but almost never have young. Does that mean mules are not alive?",
      "opts": [
-      "Nothing. Mules are not alive",
+      "Yes. Mules are not alive",
       "Making young is something a kind of living thing does, but not every single one has to. Mules do all the other life processes",
       "Mules have young all the time",
       "Mules are dormant, so they only look alive"
@@ -1314,7 +1314,7 @@
     },
     {
      "t": "write",
-     "p": "Someone says: 'A virus is just like a dry seed. Both do nothing until they get what they need.' Write one way this is right and one way it is wrong.",
+     "p": "Is a virus just like a dry seed, because both do nothing until they get what they need? Write one way this is right and one way it is wrong.",
      "lines": 4,
      "a": "It is right that both do nothing for a long time, until the right thing comes along: water for the seed, a living cell for the virus. It is wrong because the seed has their own cells and stored food, and grows by themselves. A virus has no cells, and the cell the virus gets into does all the work.",
      "why": "A strong answer gives one real likeness and one real difference, and the difference is about cells."
@@ -1939,7 +1939,8 @@
      "kid": "Say three things. What I think. What I saw. Why. Why was the cold bottle slow?",
      "parent": "A good answer: What I think: dried yeast is alive but resting. What I saw: the warm yeast balloon grew to 30 cm round, but the no-yeast balloon stayed at 10 cm. Why: the yeast woke up, ate the sugar and gave off gas. Cold slows living things down."
     }
-   ]
+   ],
+   "problem": "Living things take in food and give off waste. If dried yeast is alive, the yeast should eat sugar and give off a waste gas. In this test a balloon on each bottle catches any gas. You compare bottles with and without yeast."
   },
   {
    "id": "e3",
@@ -2080,7 +2081,8 @@
      "kid": "Say three things. What I think. What I saw. Why.",
      "parent": "A good answer: What I think: the crystal is not alive. What I saw: small crystals grew on the thread (they may be only a few millimetres), but only salt built up on the outside, and it did nothing else. The plain water thread stayed bare. Why: the salt came out of the water as the water evaporated. The crystal has no cells and takes in no food."
     }
-   ]
+   ],
+   "problem": "Salt crystals grow bigger. Growing is one sign of life. You grow salt crystals on a thread. Then you compare how a crystal grows with how a seedling grows."
   }
  ],
  "activities": [
@@ -2296,7 +2298,8 @@
      "adult": true,
      "parent": "A good verdict: 'Not alive. The flame moved, grew, used fuel and oxygen, made waste and started a new flame. But it has no cells and passes on no instructions.' If your child says it is a little bit alive, ask what it would need to be fully alive. Then ask: the flame and you both made the spoon misty and both felt warm. Why might that be?"
     }
-   ]
+   ],
+   "problem": "A candle flame seems to do many things that living things do. In this trial, you test the flame against each sign of life, one at a time. Then you decide whether fire is alive."
   },
   {
    "id": "a3",
@@ -2907,7 +2910,7 @@
      "do": "Plan the test: sprout 6 seeds from the jar each month on wet cotton.",
      "say": "How will we know if your method works? Each month we will sprout 6 seeds. If most still wake up, your seed-sleep box works.",
      "kid": "Each month, sprout 6 seeds from your jar. Count how many wake up.",
-     "think": "Seed banks keep seeds for many years. Why might it matter to keep old kinds of seeds alive?"
+     "think": "A farmer's best seeds grow into plants that suit her fields. If an old kind of seed is lost, nobody can ever grow that kind again. Why might it matter to keep old kinds of seeds alive?"
     }
    ]
   }
@@ -2941,7 +2944,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Someone says: 'A mushroom has no legs and no eyes, and stays in one place. So a mushroom is not alive.' Which fact shows that this is wrong?",
+   "p": "A mushroom has no legs and no eyes, and stays in one place. Which fact shows that the mushroom is still alive?",
    "opts": [
     "The mushroom is soft",
     "The mushroom grows from inside and makes spores that grow into new mushrooms",
@@ -3530,7 +3533,7 @@
    "what_is_life": "Scientists find no special chemicals in living things. A cell is alive because of how the ordinary chemistry inside is organised, kept going and passed on.",
    "what_is_this_world": "Living and non-living things are made of the same atoms and use the same chemistry. All of them are part of one consciousness, each aware in its own way."
   },
-  "thread": "A flame, a crystal, a virus and you are made of the same few kinds of atoms, and a flame and your cells do the same chemistry. Everything comes from one source, consciousness, and shows up as many different things. Some of them, like you, are arranged into cells that keep themselves going and pass on instructions, and biologists call them alive. A flame or a crystal is not alive by those tests, but it is still aware in its own way. Being alive and being aware are two different questions.",
+  "thread": "A flame, a crystal, a virus and you are made of the same few kinds of atoms, and a flame and your cells do the same chemistry. Everything comes from one source, which is consciousness. That one source shows up as many different things. Some of them, like you, are arranged into cells that keep themselves going and pass on instructions, and biologists call them alive. A flame or a crystal is not alive by those tests, but it is still aware in its own way. Being alive and being aware are two different questions.",
   "teachings": [
    {
     "source": "Charaka Samhita, Chikitsa Sthana 15.3-4",
@@ -3565,8 +3568,8 @@
   "practice": {
    "title": "The fire inside",
    "mins": 3,
-   "say": "Sit comfortably and close your eyes. Rub your palms together, then put them on your cheeks. Feel how warm you are. Now breathe out slowly onto the back of your hand. Feel the warm, damp air. Take ten slow breaths, and count them on your fingers. With each breath in, oxygen goes to your cells. With each breath out, carbon dioxide and water leave. Open your eyes. Where in you is the fire?",
-   "kid": "Close your eyes. Put your hands on your cheeks. Feel how warm you are. Breathe out on your hand. Feel the warm, damp air. Take ten slow breaths. Where in you is the fire?"
+   "say": "Sit comfortably and close your eyes. Rub your palms together, then put them on your cheeks. Feel how warm you are. Now breathe out slowly onto the back of your hand. Feel the warm, damp air. Take ten slow breaths, and count them on your fingers. With each breath in, oxygen goes to your cells. With each breath out, carbon dioxide and water leave. Open your eyes. Inside you there is a slow, gentle burning, like a very small flame. Where in your body do you think it happens? Think about where the oxygen goes. Then I will tell you. It happens in every one of your cells, because that is where the oxygen goes.",
+   "kid": "Close your eyes. Put your hands on your cheeks. Feel how warm you are. Breathe out on your hand. Feel the warm, damp air. Take ten slow breaths. Your breath takes oxygen to your cells. Where in you is the slow burning, like a small flame?"
   },
   "ask": [
    "Your body is warm and a flame is hot, for almost the same reason. So what is the real difference between you and a flame?",
