@@ -78,9 +78,9 @@
    "definition": "A test is doing something to a material on purpose and seeing what happens. It shows what a material does, which looking alone cannot show.",
    "description": "A thick cotton towel looks as if it would keep rain out, but water soaks into it. A thin sheet of polythene looks weak, but it keeps water out completely. So we cannot always tell by looking. We test. In a fair test every material gets the same bottle, the same water and the same time, so only the material is different.",
    "examples": [
-    "Stretch test: the same full bottle hangs from every strip.",
-    "Waterproof test: the same spoon of water goes on every square.",
-    "Strength test: every strip is the same size, and water is added to the bottle one cup at a time."
+    "In the stretch test, the same full bottle hangs from every strip.",
+    "In the waterproof test, the same spoon of water goes on every square.",
+    "In the strength test, every strip is the same size, and water is added to the bottle one cup at a time."
    ],
    "perspectives": [],
    "art": "A child looking at a thick wool square and a thin polythene square, with a thinking bubble asking which one keeps water out."
@@ -106,8 +106,8 @@
    "definition": "A waterproof material does not let water through. An absorbent material soaks water up.",
    "description": "Paper and cotton are made of tiny fibres, like very thin threads, with tiny gaps between them. Water creeps into the gaps and spreads along the fibres, so it soaks in and goes through. Polythene and foil have no gaps, so water stays on top as a round drop. A banana leaf also has a thin layer of wax, and water slides off wax.",
    "examples": [
-    "Waterproof: a polythene sheet, foil, a steel plate, a banana leaf, an umbrella.",
-    "Absorbent: a towel, a paper napkin, newspaper, a cotton hanky, a sponge.",
+    "Waterproof things include a polythene sheet, foil, a steel plate, a banana leaf and an umbrella.",
+    "Absorbent things include a towel, a paper napkin, newspaper, a cotton hanky and a sponge.",
     "A raincoat must be waterproof. A towel must be absorbent. Each one is right for its own job."
    ],
    "perspectives": [],
@@ -120,8 +120,8 @@
    "definition": "A strong material is hard to break or tear. It can hold a big weight. A weak material breaks or tears with a small weight.",
    "description": "In cotton cloth, the threads are twisted and woven tightly, so they hold on to each other well. A paper napkin is made of short fibres pressed loosely together, so a small pull drags them apart. Strong is not always best: a napkin is useful because it is soft and absorbent, not because it is strong.",
    "examples": [
-    "Strong: cotton cloth, rope, a thick carry bag, steel.",
-    "Weak: a paper napkin, toilet paper, a dry leaf.",
+    "Strong things include cotton cloth, rope, a thick carry bag and steel.",
+    "Weak things include a paper napkin, toilet paper and a dry leaf.",
     "Wet paper is weaker than dry paper, because water loosens its fibres."
    ],
    "perspectives": [],
@@ -180,7 +180,7 @@
    "claim": "Natural materials are always weaker than materials made in factories.",
    "who": "A common idea",
    "for": "Steel and nylon rope are very strong. Many natural things, like leaves and paper napkins, tear easily.",
-   "against": "Some natural materials are very strong. Coir rope made from coconut fibre holds boats. Weight for weight, the silk that spiders use for their safety line is stronger than steel.",
+   "against": "Some natural materials are very strong. Coir rope made from coconut fibre holds boats. Spiders make silk for their safety line. If you compare the same weight of spider silk and of steel, the silk is stronger.",
    "status": "rejected",
    "context": "This card is about whether natural or made materials are stronger."
   },
@@ -882,7 +882,7 @@
      "kid": "Which strip will hold the most water? Why do you think so?",
      "ask": [
       {
-       "q": "Why?",
+       "q": "Why do you think that strip will hold the most water?",
        "good": [
         "The cloth, because my clothes don't tear.",
         "The napkin will tear first, because it is thin."
@@ -955,7 +955,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Read each job to your child. The six jobs are: a shower curtain, a dishcloth, a strap to carry a full water bottle, a pyjama waistband, a cover to keep a school book dry in the rain, and a rope to pull up a bucket from a well. 2. For each one, ask which material from your tests they would use. 3. Ask which test told them.",
+     "do": "1. Read each job to your child, one at a time. 2. The jobs are a shower curtain and a dishcloth. 3. The others are a strap to carry a full water bottle and a pyjama waistband. 4. Another is a cover to keep a school book dry in the rain. 5. The last is a rope to pull up a bucket from a well. 6. For each one, ask which material from your tests they would use. 7. Ask which test told them.",
      "say": "For a shower curtain, which material would you choose? Which of our tests tells you it is right?",
      "kid": "Pick a material for each job. Which test helps you choose?",
      "ask": [
@@ -1026,7 +1026,7 @@
       },
       {
        "f": "A catapult band",
-       "b": "Needs to be very stretchy and elastic. Good pick: Rubber."
+       "b": "A catapult throws a small thing when you pull a band back and let go. The band needs to be very stretchy and elastic. Good pick: Rubber."
       },
       {
        "f": "A scarf for a cold morning",
@@ -1146,14 +1146,24 @@
        ]
       }
      ],
-     "parent": "Give a point for any material that really works, even if it is not the one on the back. A steel raincoat is waterproof, but ask if it would bend."
+     "parent": "Give a point for any material that really works, even if it is not the one on the back. A steel raincoat would keep water out. Ask your child if it would be easy to wear, because steel does not bend or stretch."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask your child which job was hardest to choose for, and why.",
-     "say": "Which job was the hardest? Why?",
-     "kid": "Which job was hardest? Why?"
+     "do": "1. Hold up the towel job card and the raincoat job card. 2. Ask the question below. 3. Let your child look at the material cards before they answer.",
+     "say": "A towel must soak up water. A raincoat must keep water out. Could one material be the best for both jobs? Why or why not?",
+     "kid": "A towel soaks up water. A raincoat keeps water out. Is one material best for both?",
+     "ask": [
+      {
+       "q": "Could one material be the best for both a towel and a raincoat?",
+       "good": [
+        "No. Cotton soaks up water, so it is good for a towel but it would not keep the rain out.",
+        "No. Polythene keeps water out, so it is good for a raincoat but it would not dry you."
+       ]
+      }
+     ],
+     "parent": "Each job needs something different from its material, so no one material is best for every job. Let your child answer in their own words before you say this."
     }
    ]
   },
@@ -1233,9 +1243,19 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Score each player's line-up. Ask which guess surprised them.",
-     "say": "Which one surprised you? Why?",
-     "kid": "Count your points. Which one surprised you?"
+     "do": "1. Score each player's line-up. 2. Look at the two ends of the true order, the stretchiest thing and the least stretchy thing. 3. Ask the question below.",
+     "say": "Which thing stretched the most? Which stretched the least? Was that the same as your guess?",
+     "kid": "Count your points. Which stretched most? Which stretched least?",
+     "ask": [
+      {
+       "q": "Which thing stretched the most, and which stretched the least?",
+       "good": [
+        "The rubber band or the hair band stretched the most.",
+        "The newspaper strip or the cotton hanky stretched the least."
+       ]
+      }
+     ],
+     "parent": "The point is to compare the guess with the test. If a guess was wrong, ask what the child saw that they did not expect. A wrong guess still taught them something."
     }
    ]
   }
@@ -1505,14 +1525,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her brother the second child are buying a bag for vegetables.",
+     "p": "Two children are buying a bag for vegetables. One child is 8 years old. Her brother is 6 years old.",
      "views": [
       {
-       "who": "The first child, aged 8",
+       "who": "The child aged 8",
        "says": "Buy a cloth bag. It held the full bottle in our bottle lift, and we can use it for years."
       },
       {
-       "who": "The second child, aged 6",
+       "who": "The child aged 6",
        "says": "Take a polythene bag. It is waterproof, so wet vegetables will not leak."
       }
      ],
@@ -1709,10 +1729,10 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her grandmother are wrapping lunch for a picnic in the rain.",
+     "p": "A child and her grandmother are wrapping lunch for a picnic in the rain.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "The child, aged 7",
        "says": "Use foil. It kept the circle dry in our spot test."
       },
       {
@@ -1927,23 +1947,23 @@
  ],
  "spotted": [
   {
-   "text": "A banana leaf meal in Tamil Nadu or Kerala: the leaf holds rasam and sambar without leaking.",
+   "text": "At a banana leaf meal in Tamil Nadu or Kerala, the leaf holds the rasam and sambar without leaking.",
    "art": "A meal of rice, sambar and rasam served on a banana leaf."
   },
   {
-   "text": "A fruit seller wrapping a bunch of bananas with a rubber band.",
+   "text": "A fruit seller ties a bunch of bananas together with a rubber band.",
    "art": "A woman at a fruit cart wrapping a rubber band round a bunch of bananas."
   },
   {
-   "text": "A fisherwoman in Kolkata or Mumbai covering fish with a polythene sheet in the rain.",
+   "text": "A fisherwoman in Kolkata or Mumbai covers her fish with a polythene sheet when rain falls.",
    "art": "A fisherwoman at a market spreading a polythene sheet over a basket of fish."
   },
   {
-   "text": "Coir rope, made from coconut fibre, tying boats in Kerala's backwaters.",
+   "text": "In Kerala's backwaters, boats are tied up with coir rope, which is made from coconut fibre.",
    "art": "A thick brown coir rope tying a small wooden boat to a post."
   },
   {
-   "text": "A tailor stretching a waistband of elastic before sewing it into pyjamas.",
+   "text": "A tailor stretches a piece of elastic before sewing it into the waistband of pyjamas.",
    "art": "A woman tailor at a sewing machine stretching a white elastic band."
   }
  ],
@@ -2020,7 +2040,7 @@
   {
    "problem": "In one spot test, 8 squares were tested and 5 kept water out. How many let water through? In a second spot test, only 3 squares were waterproof. Which test found more waterproof squares, and how many more?",
    "answer": "3 let water through. The first test found 2 more waterproof squares than the second.",
-   "explain": "8 take away 5 is 3. 5 is more than 3, and 5 take away 3 is 2.",
+   "explain": "8 squares take away the 5 that kept water out leaves 3 that let water through. The first test had 5 waterproof squares and the second had 3. 5 is more than 3, and 5 take away 3 is 2.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e2",
    "context": "This question is about the spot test. You pour a teaspoon of water on squares of different materials over paper marked with sketch pen, then lift each square to see if the water got through.",
@@ -2029,7 +2049,7 @@
   {
    "problem": "In the bottle lift, the napkin tore after 3 cups. Every cup holds 50 ml. How much water was in the bottle when it tore?",
    "answer": "150 ml.",
-   "explain": "3 cups of 50 ml: 50, 100, 150. So the napkin held 150 ml of water, as well as the bottle.",
+   "explain": "Each cup holds 50 ml. After one cup there is 50 ml of water, after two cups there is 100 ml, and after three cups there is 150 ml. So the napkin held 150 ml of water, as well as the bottle.",
    "math_unit": "math.measurement-basics.standard-units.L2",
    "how": "a2",
    "context": "This question is about the bottle lift. You hang an empty bottle from a strip and add water one cup at a time until the strip tears.",
@@ -2186,10 +2206,10 @@
   },
   "three": {
    "who_am_i": "Your skin is elastic. You bend your knee, and the skin stretches. You straighten it, and the skin goes back.",
-   "what_is_life": "A rubber tree makes latex, and latex seals a cut in the bark. Living things make the materials they need.",
+   "what_is_life": "A rubber tree makes latex, and the latex seals a cut in the bark. Plants and other living beings make the materials that they need.",
    "what_is_this_world": "Every material does something different when it is pulled, made wet or given a weight to hold. We only find out by testing."
   },
-  "thread": "Rubber, cotton, paper and polythene are all made of tiny particles, joined in different ways. Long curled chains let rubber spring back. Short, loose fibres let a napkin tear. Everything is conscious, the rubber tree too. When the tree is cut, latex flows out and dries to seal the cut.",
+  "thread": "Rubber, cotton, paper and polythene are all made of tiny particles, joined in different ways. Long curled chains let rubber spring back. Short, loose fibres let a napkin tear. Everything is conscious, including a rubber tree. When someone cuts the bark, the tree responds. Latex flows out and dries to seal the cut.",
   "teachings": [
    {
     "source": "Tirukkural 423",
@@ -2199,7 +2219,7 @@
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer than water. Yet nothing is better at wearing away what is hard and strong.",
-    "link": "In the spot test, soft water found its way through paper and cloth. Only materials with no gaps kept it out."
+    "link": "In the spot test, soft water found its way through paper and cloth by creeping into the tiny gaps. Only materials with no gaps kept it out."
    },
    {
     "source": "Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant",
@@ -2213,7 +2233,7 @@
     "status": "settled"
    },
    {
-    "text": "Weight for weight, spider silk is one of the strongest materials known. Scientists are still trying to make a material as good in a factory.",
+    "text": "Spider silk is one of the strongest materials known. If you compare the same weight of spider silk and of steel, the silk is stronger. Scientists are still trying to make a material as good in a factory.",
     "status": "open"
    }
   ],

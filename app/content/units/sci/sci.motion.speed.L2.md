@@ -1,7 +1,7 @@
 # Fast and slow: how to tell who is faster in a race
 `sci.motion.speed.L2`
 
-**Summary.** Take tiny, quick steps across the room, and your feet fly, yet you arrive late. Speed is how fast something moves: how far it goes in a stretch of time. There are two fair ways to find the faster one in a race. Over the same distance, the one who arrives first is faster. In the same time, the one who goes further is faster. Your child races across the room in different ways, counts claps, and finds that a slow walker with a head start can win a short race but lose a long one.
+**Summary.** If you cross a room with tiny, quick steps, your feet move fast but you take longer to get there. Speed is how fast something moves: how far it goes in a stretch of time. There are two fair ways to find the faster one in a race. Over the same distance, the one who arrives first is faster. In the same time, the one who goes further is faster. Your child races across the room in different ways, counts claps, and finds that a slow walker with a head start can win a short race but lose a long one.
 
 **Intro.** *Cross the room taking tiny steps, as fast as your feet can go. Then cross it again, walking the way you always walk. Which way got you there first?* Fast feet do not always mean a fast walk. In this unit you find out what speed is, and how to tell who really is faster. You learn to count time with steady claps. You find the two fair ways to judge a race. Then you work out why the walker who looks busiest is not always the one who wins.
 
@@ -46,13 +46,13 @@ Tiny steps come very quickly, but each one goes only a foot's length. Giant step
 - e.g. A mosquito beats her wings hundreds of times every second, yet she flies slowly enough for you to run away from her.
 - e.g. A paddler in a boat race pulls long strokes in time with the others. Short, splashy strokes push the boat a shorter way.
 ### A head start, and how long the race is · *defined*
-**Definition:** A faster racer gains a little on a slower racer every moment. In a short race, a head start can be enough to win. In a long race, the faster racer has time to catch up and pass.
+**Definition:** A faster racer keeps getting closer to a slower racer who is ahead. In a short race, a head start can be enough to win. In a long race, the faster racer has time to catch up and pass.
 
 In the Head-Start Race, the grown-up took one slow step for each clap. You walked in your ordinary way from further back. In the short race, the grown-up reached the finish first. In the long race, you caught up and passed. Nobody's speed changed. Only the length of the race changed.
 - e.g. In the old story of the hare and the tortoise, the tortoise wins only because the hare stops and sleeps.
 - e.g. A little sister given a head start may win a race to the door, but not a race round the building.
 - e.g. In a relay race, a team with a slow runner can still win if the others make up the gap.
-### Every speed is measured compared with something · *defined*
+### Speed is always compared with something · *defined*
 **Definition:** When we say how fast something moves, we mean how fast compared with something else, usually the ground.
 
 You sit on a train, and your sister sits beside you. Compared with you, she is not moving. Compared with the platform, she moves as fast as the train. Both are true. Even when you sit still on the floor, the Earth carries you round the Sun at about 30 kilometres every second.
@@ -65,7 +65,7 @@ A crow flies slowly while looking for food and fast when a cat comes near. An an
 - e.g. A cat creeps slowly towards a pigeon, then springs at top speed.
 - e.g. A moong sprout's root grows downwards fastest where the cotton is wet.
 - **Many biologists who study plant and animal behaviour:** Living beings sense and decide. A crow, an ant and a sprouting seed each change their speed to suit what they sense, and that is a choice.
-- **Other scientists:** For an ant or a plant, speed changes are automatic responses. Warmth makes their body chemistry run faster, the way warm honey runs faster than cold honey.
+- **Other scientists:** For an ant or a plant, a change of speed happens by itself, without any deciding. Warmth makes the chemistry in their bodies run faster, the way warm honey runs faster than cold honey.
 
 ## Mostly agreed
 - Speed is how far something goes in a stretch of time. *How we know:* Every speed we measure, from a runner on a track to a train, is worked out from a distance and a time.
@@ -74,14 +74,14 @@ A crow flies slowly while looking for food and fast when a cat comes near. An an
 - Light is the fastest thing there is. In empty space it travels about 3 lakh kilometres every second. *How we know:* Scientists have measured the speed of light in many ways since the 1600s, and every careful measurement agrees.
 
 ## How we found out
-**Ibn al-Haytham, a scientist in Cairo; René Descartes, a French thinker; and Ole Rømer, a Danish astronomer working at the Paris Observatory, About 1015 CE, the 1630s, and 1676.** For a very long time, many people thought light needs no time to travel. Switch on a lamp, and the whole room is lit at once. About 1,000 years ago, Ibn al-Haytham, a scientist in Cairo, argued that light must move, and so must take some time. But he could not measure it. Hundreds of years later, René Descartes, a French thinker, still taught that light arrives in an instant. In 1676, Ole Rømer, a Danish astronomer in Paris, was timing Io, one of Jupiter's moons. Io goes behind Jupiter again and again, like clockwork. But Rømer saw that Io seemed to come out late when the Earth was far from Jupiter, and early when it was near. He worked out why. When the Earth is further away, the light from Io has further to travel, so it reaches us later. So light does take time. Today we know that sunlight takes about 8 minutes to reach the Earth.  
+**Ibn al-Haytham, a scientist in Cairo; René Descartes, a French thinker; and Ole Rømer, a Danish astronomer working at the Paris Observatory, About 1015 CE, the 1630s, and 1676.** For a very long time, many people thought light needs no time to travel. Switch on a lamp, and the whole room is lit at once. About 1,000 years ago, Ibn al-Haytham, a scientist in Cairo, argued that light must move, and so must take some time. But he could not measure it. Hundreds of years later, René Descartes, a French thinker, still taught that light arrives in an instant. In 1676, Ole Rømer, a Danish astronomer in Paris, was timing Io, one of Jupiter's moons. Io goes behind Jupiter again and again, at regular times. But Rømer saw that Io seemed to come out late when the Earth was far from Jupiter, and early when it was near. He worked out why. When the Earth is further away, the light from Io has further to travel, so it reaches us later. So light does take time. Today we know that sunlight takes about 8 minutes to reach the Earth.  
 *What people believed before:* Light does not travel at all. It arrives everywhere at the same instant.
 
 ## Challenging perspectives
 - **The one whose legs move fastest is always the fastest.** (A very common idea, among children and grown-ups; *rejected*)  
   For: A fast runner's legs do move quickly.  
   Against: In the Step Race, tiny quick steps lost to ordinary walking. Each tiny step went only a short way. Speed depends on step length as well as how quick the steps are.
-- **Slow and steady always wins the race.** (Many people, after the story of the hare and the tortoise; *rejected*)  
+- **Slow and steady always wins the race.** (Many people, because of the story of the hare and the tortoise; *rejected*)  
   For: A racer who never stops can beat a faster racer who stops for a long rest.  
   Against: If the faster racer does not stop, the faster racer wins. In the story, the tortoise wins because the hare sleeps, not because slow is better.
 - **A race is fair as long as everyone runs as hard as they can.** (Some children playing races at home; *rejected*)  
@@ -94,7 +94,7 @@ A crow flies slowly while looking for food and fast when a cat comes near. An an
 ## Roots
 We have raced across the room, counted claps and given a slow walker a head start. Now we ask what speed tells us about ourselves and the world.
 
-**Deep truth.** Your tiny steps came very fast, yet they lost to your ordinary walk. Each tiny step covered only a foot's length. How fast you go depends on how far each step reaches and how often you take one. So feet that look busy can still be slow.  
+**Deep truth.** In the Step Race, your tiny steps were very quick, yet they lost to your ordinary walk. Each tiny step covered only a foot's length. How fast you go depends on how far each step reaches and how often you take one. So feet that look busy can still be slow.  
 *Habit it breaks:* We judge speed by how busy something looks: whirring legs, flapping wings, splashing oars. But busy movement is only half of speed. How far each movement carries you is the other half.  
 *Evidence:* In the Step Race, tiny quick steps took the most steps and usually the most claps. The ordinary walk took fewer steps and fewer claps. In the story, the boat with the fastest oars lost to the boat with long pulls.
 
@@ -104,8 +104,8 @@ We have raced across the room, counted claps and given a slow walker a head star
 
 Speed joins two things: how far, and how long. A sprout, an ant, a boat and you all move through the same space and the same time. Each moves at their own speed, by their own mix of step length and pace.
 
-- **Zeno of Elea, as told by Aristotle in his Physics, Book 6, chapter 9:** Zeno, a Greek thinker, told a puzzle. Swift Achilles races a tortoise who has a head start. When Achilles reaches where the tortoise was, the tortoise has moved a little further on. Zeno asked how Achilles could ever catch up. (In the Head-Start Race, you did catch up, and you marked the exact place. Zeno's puzzle is old, but you showed that a faster racer does pass.)
-- **Nagarjuna, Mulamadhyamakakarika (Fundamental Verses on the Middle Way), chapter 2:** Nagarjuna, an Indian Buddhist thinker, asked where going happens. It is not on the path already walked, and not on the path still to walk. He showed that going, the goer and the path depend on each other. (A speed also needs more than the walker. It needs a path, a distance and a time. Take away any one, and there is no speed to measure.)
+- **Zeno of Elea, as told by Aristotle in his Physics, Book 6, chapter 9:** Zeno, a Greek thinker, told a puzzle. Achilles, a fast runner, races a tortoise who has a head start. When Achilles reaches where the tortoise was, the tortoise has moved a little further on. Zeno asked how Achilles could ever catch up. (In the Head-Start Race, you did catch up, and you marked the exact place. Zeno's puzzle is old, but you showed that a faster racer does pass.)
+- **Nagarjuna, Mulamadhyamakakarika (Fundamental Verses on the Middle Way), chapter 2:** Nagarjuna, an Indian Buddhist thinker, asked where walking actually happens. It is not on the part of the path you have already walked, and not on the part you have not reached yet. He showed that the walking, the walker and the path all depend on each other. (A speed also needs more than the walker. It needs a path, a distance and a time. Take away any one, and there is no speed to measure.)
 - **Tao Te Ching, chapter 64:** The Tao Te Ching, a Chinese book of wisdom, says that a journey of a thousand miles begins with a single step. (In the Step Race, every journey across the room was made of single steps. How long each step was, and how often it came, decided how soon you arrived.)
 - Science (settled): Every speed is measured compared with something else, usually the ground. The Earth carries all of us round the Sun at about 30 kilometres every second.
 - Science (open): Nothing has been found that travels faster than light in empty space. Why the universe has this speed limit is still unknown.
@@ -118,7 +118,7 @@ Speed joins two things: how far, and how long. A sprout, an ant, a boat and you 
 ## Deep and big questions
 - *big:* You are sitting still. But the Earth carries you round the Sun at about 30 kilometres every second. So are you still or moving? (hint: Still compared with what? Moving compared with what? Can both answers be true?)
 - *deep:* A snail is slow compared with you. Compared with a sprouting seed's root, is the snail slow or fast? (hint: Is 'slow' something a snail has, or something we say when we compare?)
-- *deep:* Your tiny steps came fast, but you arrived late. When something looks busy, is it always getting somewhere? (hint: Think of the ant's legs and the mosquito's wings. What else counts besides how quick each movement is?)
+- *deep:* In the Step Race, your tiny steps were quick, but they took more claps to cross the room. When something looks busy, is it always getting somewhere? (hint: Think of the ant's legs and the mosquito's wings. What else counts besides how quick each movement is?)
 - *big:* A plant grows slower than you can see. Does a plant feel time passing the way you do? (hint: A plant's day is full of slow growing and turning towards light. What would a day feel like if you lived at a plant's speed?)
 - *big:* Light from the Sun takes about 8 minutes to reach us. So when you look at the Sun, are you seeing it as it is now? (hint: Never look straight at the Sun. Just think: if the light is 8 minutes old, what are you really seeing?)
 
@@ -161,7 +161,7 @@ Anju thought about it. She watched one green oar go into the water. It pulled th
 
 The green boat crossed the finish line first, a whole boat ahead. The crowd roared. Anju jumped up and down. Joel jumped too, even though he had cheered for blue.
 
-Later, Shiny Chechi came up the bank, wet and laughing. Her arms were tired, she said, but her heart was full.
+Later, Shiny Chechi came up the bank, wet and laughing. Her arms were tired, she said, but she was very happy.
 
 "Chechi," said Joel, "Anju says your boat won because of long pulls. Is that true?"
 
@@ -176,12 +176,12 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - Ask: Why did Joel think the blue boat would win?
 - Ask: What did Anju count, and what did she notice?
 - Ask: Why did the song help the green boat go faster?
-- Ask: Where else might looking busy not mean going fast?
+- Ask: Can you think of something else that looks busy but does not go fast?
 
 ## Games
 ### g1 · Who Won the Race? (12 min)
-- **rules:** Cut out the cards and put them in a pile, question side up.; Take turns. The grown-up reads the top card aloud.; The player says the answer and why: same distance, or same time, or fair or not fair.; Turn the card over. If the player was right and gave the reason, they keep the card.; If not, the card goes to the bottom of the pile.; When the pile is gone, the player with the most cards wins.
-- **Printable cards: 16 race cards to cut out, with the answer on the back:** Kavya walks to the door in 6 claps. Farhan walks to the same door in 9 claps. Who is faster? (back: Kavya. Same distance, and she took fewer claps.); Two ants walk for 10 claps. Ant A goes 2 tiles. Ant B goes 3 tiles. Who is faster? (back: Ant B. Same time, and she went further.); Meenakshi starts 3 steps ahead of her brother. She wins. Was it a fair race? (back: No. A fair race has the same start line for everyone.); Lakshmi runs before anyone says 'Go!'. She wins. Was it a fair race? (back: No. Everyone must start at the same 'Go!'.); Riya takes tiny quick steps. Sana takes ordinary steps. Who usually crosses the room first? (back: Sana. Tiny steps are quick but short, so they cover less ground each clap.); A snail and a tortoise race to a leaf 1 metre away. The tortoise gets there first. Who is slower? (back: The snail. Same distance, and the snail took longer.); Bisakha cycles for 1 minute and goes 200 metres. Her friend walks for 1 minute and goes 60 metres. Who is faster? (back: Bisakha. Same time, and she went further.); A slow walker starts ahead. In a very short race, who will probably win? (back: The slow walker. The race ends before the fast walker can catch up.); A slow walker starts ahead. In a very long race, who will probably win? (back: The fast walker. There is time to catch up and pass.); Two boats row for the same time. The green boat goes further. Which boat is faster? (back: The green boat. Same time, further distance.); Gurpreet claps fast for one racer and slowly for the other. Is the race fair? (back: No. The claps are the clock, so they must stay steady for everyone.); Nandini runs 50 metres in 12 seconds. Ishita runs 50 metres in 15 seconds. Who wins? (back: Nandini. Same distance, and she took less time.); A mosquito's wings beat hundreds of times a second. Can you run faster than a mosquito flies? (back: Yes. Each wing beat moves her only a tiny way, so she flies slowly.); Thenmozhi and Arjun race to the gate. They start together and arrive together. Who is faster? (back: Neither. Same distance and same time means the same speed.); A crow flies to a tree in 3 claps. A pigeon flies to the same tree in 4 claps. Who is faster? (back: The crow. Same distance, fewer claps.); A train and a car both travel for 1 hour. The train goes further. Which was faster? (back: The train. Same time, further distance.)
+- **rules:** Cut out the cards and put them in a pile, question side up.; Take turns. The grown-up reads the top card aloud.; The player says the answer and the reason. The reason might be the same distance, the same time, or that the race was not fair.; Turn the card over. If the player was right and gave the reason, they keep the card.; If not, the card goes to the bottom of the pile.; When the pile is gone, the player with the most cards wins.
+- **Printable cards: 16 race cards to cut out, with the answer on the back:** One child walks to the door in 6 claps. Another child walks to the same door in 9 claps. Who is faster? (back: The child who took 6 claps. Same distance, fewer claps.); Two ants walk for 10 claps. Ant A goes 2 tiles. Ant B goes 3 tiles. Who is faster? (back: Ant B. Same time, and she went further.); One racer starts 3 steps ahead of the other, and wins. Was it a fair race? (back: No. A fair race has the same start line for everyone.); One racer runs before anyone says 'Go!', and wins. Was it a fair race? (back: No. Everyone must start at the same 'Go!'.); One child takes tiny quick steps. Another child takes ordinary steps. Who usually crosses the room first? (back: The child taking ordinary steps. Tiny steps are quick but short, so they cover less ground each clap.); A snail and a tortoise race to a leaf 1 metre away. The tortoise gets there first. Who is slower? (back: The snail. Same distance, and the snail took longer.); A cyclist rides for 1 minute and goes 200 metres. A walker walks for 1 minute and goes 60 metres. Who is faster? (back: The cyclist. Same time, and the cyclist went further.); A slow walker starts ahead. In a very short race, who will probably win? (back: The slow walker. The race ends before the fast walker can catch up.); A slow walker starts ahead. In a very long race, who will probably win? (back: The fast walker. There is time to catch up and pass.); Two boats row for the same time. The green boat goes further. Which boat is faster? (back: The green boat. Same time, further distance.); The person clapping claps fast for one racer and slowly for the other. Is the race fair? (back: No. The claps are the clock, so they must stay steady for everyone.); One runner runs 50 metres in 12 seconds. Another runner runs 50 metres in 15 seconds. Who wins? (back: The runner who took 12 seconds. Same distance, less time.); A mosquito's wings beat hundreds of times a second. Can you run faster than a mosquito flies? (back: Yes. Each wing beat moves her only a tiny way, so she flies slowly.); Two children race to the gate. They start together and arrive together. Who is faster? (back: Neither. Same distance and same time means the same speed.); A crow flies to a tree in 3 claps. A pigeon flies to the same tree in 4 claps. Who is faster? (back: The crow. Same distance, fewer claps.); A train and a car both travel for 1 hour. The train goes further. Which was faster? (back: The train. Same time, further distance.)
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards and read the rules together.  
   *Parent says:* Each card is a race. You say who was faster, and why. Was it the same distance, or the same time?  
@@ -195,19 +195,19 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
   *Parent does:* Count the cards and talk about the hardest one.  
   *Parent says:* Which card was hardest? Why?  
   *Child mode:* Which card was hardest? Why?
-  - Check: Thenmozhi and Arjun start together and reach the gate together. Who is faster? → **Neither, they have the same speed**
+  - Check: Two children start together and reach the gate together. Who is faster? → **Neither, they have the same speed**
 ### g2 · The Snake Boat Race board game (15 min)
 - **rules:** Each player puts a boat on square 0.; Take turns. Another player reads you the top question card.; If you answer right, row on 3 squares. If not, row on 1 square.; If you land on a square with words, do what it says.; Put the card at the bottom of the pile.; The first boat to reach square 20 wins the race.
-- **Printable board: A race board with squares from the jetty to the finish line:** Square 0: the start, at the boat jetty; Square 1: open water; Square 2: open water; Square 3: the crowd cheers, move on 1 more square; Square 4: open water; Square 5: oars out of time, miss a turn; Square 6: open water; Square 7: open water; Square 8: everyone sings the boat song, every boat moves on 1 square; Square 9: open water; Square 10: halfway flag; Square 11: open water; Square 12: a long strong pull, move on 2 squares; Square 13: open water; Square 14: short splashy strokes, go back 1 square; Square 15: open water; Square 16: open water; Square 17: the crowd cheers, move on 1 more square; Square 18: open water; Square 19: almost there; Square 20: the finish line
+- **Printable board: A race board with squares from the jetty to the finish line:** Square 0: the start, at the boat jetty; Square 1: open water; Square 2: open water; Square 3: the crowd cheers, move on 1 more square; Square 4: open water; Square 5: the oars are not pulling together, miss a turn; Square 6: open water; Square 7: open water; Square 8: everyone sings the boat song, every boat moves on 1 square; Square 9: open water; Square 10: halfway flag; Square 11: open water; Square 12: a long strong pull, move on 2 squares; Square 13: open water; Square 14: short splashy strokes, go back 1 square; Square 15: open water; Square 16: open water; Square 17: the crowd cheers, move on 1 more square; Square 18: open water; Square 19: almost there; Square 20: the finish line
 - **Printable cards: 12 question cards, with the answer on the back:** What is speed? (back: How far something goes in a stretch of time.); Two runners race the same distance. How do you know who is faster? (back: The one who takes less time, and finishes first.); Two runners run for the same time. How do you know who is faster? (back: The one who goes further.); Name one thing a fair race needs. (back: The same start line, the same finish line, or the same 'Go!' for everyone.); Name an animal faster than you. (back: For example a dog, a crow or a cheetah.); Name something slower than you. (back: For example a snail, an ant or a tortoise.); Why do tiny quick steps lose to an ordinary walk? (back: Each tiny step goes only a short way.); What is a head start? (back: Starting ahead of the others, closer to the finish.); Which wins a long race: a slow walker with a head start, or a fast walker? (back: Usually the fast walker, who has time to catch up and pass.); What is the fastest thing there is? (back: Light.); Why do rowers in a boat pull at the same moment? (back: So their pulls add up and push the boat forward together.); Say 'faster' or 'slower': a bullock cart compared with a bus. (back: Slower.)
 - **Printable tokens: 4 boat tokens to cut out:** A green boat; A blue boat; A red boat; A yellow boat
 - **s1 (3 min)**  
   *Parent does:* Draw the board, cut out the boats and the cards, and read the rules.  
   *Parent says:* This is a boat race in Kerala. Answer right and your boat rows 3 squares. Answer wrong and it rows only 1.  
-  *Child mode:* Answer right and row 3 squares. Wrong, and row 1.
+  *Child mode:* Answer right and row 3 squares. Answer wrong and row 1.
 - **s2 (10 min)**  
   *Parent does:* Play until one boat reaches square 20.  
-  *Parent says:* You landed on 'short splashy strokes'. Why do those make a boat go back?  
+  *Parent says:* You landed on 'short splashy strokes'. Why do those make a boat slower?  
   *Child mode:* Why do short splashy strokes make the boat slower?
   - Note: When a player lands on square 12 or 14, ask why long pulls help and splashy strokes do not.
 - **s3 (2 min)**  
@@ -219,7 +219,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 ### e1 · The Step Race: tiny steps, giant steps or my ordinary walk? (20 min)
 - **question:** Which gets me across the room fastest: tiny quick steps, giant steps, or my ordinary walk?
 - **predict:** Guess first. Which way will take the fewest claps: tiny quick steps, giant steps or your ordinary walk? Why do you think so?
-- **fair test:** Walk the same path every time, from the same start chappal to the same finish chappal. The same person claps every time, at the same steady speed, about one clap each second. Only the kind of step changes. Walk each way three times, because one try can be a fluke.
+- **fair test:** Walk the same path every time, from the same start chappal to the same finish chappal. The same person claps every time, at the same steady speed, about one clap each second. Only the kind of step changes. Walk each way three times, because one try can be a fluke, a result that happens by chance.
 - **safety:** Walk, never run, indoors. Move chairs and toys off the path. Walk barefoot rather than in socks on smooth tiles, so you do not slip.
 - **record:** Fill in the results table. Circle the way that took the fewest claps. Draw the two footprint trails: tiny steps and ordinary steps.
 - **results table:** Way of walking | My guess (1st, 2nd or 3rd) | Try 1 (claps) | Try 2 (claps) | Try 3 (claps) | Steps I took
@@ -245,13 +245,13 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
   *Child mode:* Now take giant steps. Then walk the way you always walk.
   - Note: Giant steps need few steps, but each one is slow. The ordinary walk usually takes the fewest claps. If tiny steps win or tie, look at the step counts together and talk about why.
 - **s5 (5 min)**  
-  *Parent does:* Look at the table together. Ask what they think, what they saw and why.  
+  *Parent does:* Look at the table together. Ask your child what they saw, and why they think it happened.  
   *Parent says:* Which way won? Which way had the busiest feet? Why did the busy feet not win?  
   *Child mode:* Which way won? Why did the tiny steps not win?
   - Ask: Why did the tiny steps take more claps? (good: Each step went only a little way.; I needed lots of steps to get there.; My feet were fast but my steps were short.)
   - Ask: Why were giant steps not the fastest? (good: Each giant step took a long time.; I had to balance and go slowly.)
   - Note: This is the heart of the unit. Speed depends on how far each step goes and how often a step comes. The ordinary walk mixes a good length with a good pace. Say the word speed: how far you go in a stretch of time.
-  - Check: Kavya's tiny steps came very fast, but she took more claps to cross the room. Why? → **Each tiny step went only a short way**
+  - Check: In the Step Race, the tiny steps were very quick, but they took more claps to cross the room. Why? → **Each tiny step went only a short way**
 ### e2 · The Head-Start Race: can a slow walker win? (15 min)
 - **question:** If a slow walker starts ahead of me, who wins a short race, and who wins a long race?
 - **predict:** Guess first. The grown-up walks very slowly but starts 4 big steps ahead. Who will win the short race? Who will win the long race? Why do you think so?
@@ -266,26 +266,27 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
   - Ask: Why do you think so? (good: You will win the short race, because you are ahead.; I will win the long one, because I am faster.; You will win both, because you start ahead.)
   - Note: Heel-to-toe means the heel of your front foot touches the toes of your back foot. One step each clap keeps your speed the same every time.
 - **s2 (4 min)**  
-  *Parent does:* 1. Short race: both stand at your start lines. 2. Say 'Go!'. 3. You clap and take one heel-to-toe step each clap. 4. Your child walks in their ordinary way. 5. Who passes the slipper first? 6. Do it twice.  
+  *Parent does:* 1. Short race: you each stand at your own start line. 2. Say 'Go!'. 3. You clap and take one heel-to-toe step each clap. 4. Your child walks in their ordinary way. 5. Who passes the slipper first? 6. Do it twice.  
   *Parent says:* Short race, to the slipper. Ready? Go! Clap, step. Clap, step. Who got there first?  
   *Child mode:* Walk your ordinary way to the slipper. Who got there first?
-  - Note: The grown-up needs only 2 slow steps, so the grown-up should win. Your child is catching up, but runs out of race.
+  - Note: The grown-up needs only 2 slow steps, so the grown-up should win. Your child is catching up, but the race ends before they get there.
 - **s3 (4 min)**  
-  *Parent does:* 1. Long race: the same starts, but the finish is the cushion. 2. Say 'Go!' and race again. 3. Watch for the moment your child draws level with you. 4. Put the second cushion or a paper slip there. 5. Do it twice.  
+  *Parent does:* 1. Long race: the same starts, but the finish is the cushion. 2. Say 'Go!' and race again. 3. Watch for the moment your child catches up with you. 4. Put a second cushion or a paper slip there. 5. Do it twice.  
   *Parent says:* Long race, to the cushion. Watch the moment you catch up with me. We will mark that place.  
   *Child mode:* Now race to the cushion. Where did you catch up?
   - Note: Your child should catch up a little after the slipper and win the long race clearly. Nobody's speed changed. Only the length of the race did.
 - **s4 (3 min)**  
-  *Parent does:* Look at the table and the catch-up mark. Ask what they think, what they saw and why.  
+  *Parent does:* Look at the table and the catch-up mark. Ask your child what they saw, and why they think it happened.  
   *Parent says:* I won one race and you won the other. Our speeds stayed the same. So what decided who won?  
-  *Child mode:* One race each. What decided who won?
-  - Ask: Why did you win the long race but not the short one? (good: I was catching up all the time, and the long race gave me time to pass.; The short race ended before I caught up.; My head start was smaller, but I was faster.)
+  *Child mode:* You won one race and the grown-up won the other. What decided who won?
+  - Ask: Why did you win the long race but not the short one? (good: I was catching up all the time, and the long race gave me time to pass.; The short race ended before I caught up.; You had a head start, but I was faster.)
   - Check: A slow walker starts ahead of a fast walker. Where must the finish line be for the fast walker to win? → **Past the place where the fast walker catches up**
 
 ## Activities
 ### a1 · The Freeze Race: who goes furthest in 4 claps? (8 min)
+- **problem:** Speed can be judged in two fair ways. In one way, everyone goes the same distance, and the one who takes less time is faster. In the other way, everyone moves for the same time, and the one who goes further is faster. In this activity, every way of moving gets the same 4 claps. So the way that takes you furthest is the fastest.
 - **safety:** Hop on a mat or a durrie, not on wet or smooth tiles.
-- **record:** Write C, H or T on each paper slip. Draw the three slips on a line, with the furthest one circled.
+- **record:** Write C for crawl, H for hop or T for tiptoe on each paper slip. Draw the three slips on a line, with the furthest one circled.
 - **s1 (2 min)**  
   *Parent does:* 1. Put the chappal at the start. 2. Ask your child which way will go furthest in 4 claps: crawling, hopping or tiptoeing.  
   *Parent says:* You will move for 4 claps, then freeze. Which way will take you furthest? Why do you think so?  
@@ -293,7 +294,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **s2 (4 min)**  
   *Parent does:* 1. Your child crawls from the chappal while you clap 4 slow claps. 2. Say 'Freeze!' 3. Put a paper slip by their hands. 4. Do the same for hopping on two feet and for tiptoeing.  
   *Parent says:* Go! One, two, three, four. Freeze! Put your slip down right there.  
-  *Child mode:* Move until four claps. Then freeze. Put your slip down.
+  *Child mode:* Move for 4 claps. Then freeze. Put your slip down.
   - Note: Clap at the same steady pace each time, so the time stays the same.
 - **s3 (2 min)**  
   *Parent does:* Look at the three slips together.  
@@ -305,8 +306,8 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **record:** Write how many seconds the clock showed when you thought 10 seconds had passed. Try three times.
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the second hand of a clock, or a phone stopwatch. 2. Clap together once each second, for 20 seconds.  
-  *Parent says:* One second is about as long as it takes to say 'one Kochi'. Clap each time the clock ticks. One Kochi, two Kochi, three Kochi.  
-  *Child mode:* Clap each time the clock ticks. Say 'one Kochi, two Kochi'.
+  *Parent says:* The clock ticks once each second. Clap each time it ticks. Saying a word like Kochi takes about one second too. So you can count 'one Kochi, two Kochi, three Kochi' to keep the beat.  
+  *Child mode:* Clap each time the clock ticks. Count 'one Kochi, two Kochi' to keep each clap one second long.
 - **s2 (4 min)**  
   *Parent does:* 1. Start the stopwatch without your child seeing it. 2. Your child shuts their eyes and claps 10 steady claps. 3. Stop the stopwatch at the tenth clap. 4. Do it three times.  
   *Parent says:* Shut your eyes. Clap 10 times, once for each second, as steady as you can. I will see what the clock says.  
@@ -318,16 +319,16 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
   *Child mode:* How close were you? Why does a clock help in a race?
   - Ask: Why does it matter that the claps are steady? (good: So every racer gets the same kind of claps.; If the claps speed up, the race is not fair.)
 ### a3 · Faster Than Me? A card sort (10 min)
-- **record:** Write how many cards you sorted right. Draw the one that surprised you most.
+- **record:** Write how many cards you sorted right. Then draw a mosquito, and write one sentence on why she is slower than you.
 - **s1 (3 min)**  
   *Parent does:* Write one name on each of the 14 cards. The names are in the note below.  
   *Parent says:* Each card is a living being or a machine. Is each one faster or slower than you when you run?  
   *Child mode:* Is each one faster or slower than you running?
   - Note: The 14 names: a snail, an ant, a tortoise, a mosquito, a bullock cart, a growing bamboo, the hour hand of a clock, a dog running, a crow flying, a cheetah, a cycle on an open road, a train, a raindrop falling and an aeroplane.
 - **s2 (4 min)**  
-  *Parent does:* Your child puts each card on FASTER THAN ME or SLOWER THAN ME.  
-  *Parent says:* Put each card on a sheet. Tell me why for each one.  
-  *Child mode:* Put each card on a sheet. Say why.
+  *Parent does:* Your child puts each card on one of two sheets, marked FASTER THAN ME and SLOWER THAN ME.  
+  *Parent says:* Put each card on one of the two sheets, FASTER THAN ME or SLOWER THAN ME. Tell me why for each one.  
+  *Child mode:* Put each card on FASTER THAN ME or SLOWER THAN ME. Say why.
 - **s3 (3 min)**  
   *Parent does:* Check together. Slower than a running child: snail, ant, tortoise, mosquito, bullock cart, bamboo, the hour hand. Faster: the dog, crow, cheetah, cycle, train, raindrop and aeroplane.  
   *Parent says:* The mosquito beats her wings hundreds of times each second. Yet you can run away from her. Why?  
@@ -335,29 +336,30 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
   - Ask: Why is the mosquito slow, even with such fast wings? (good: Each wing beat moves her only a tiny way.; Busy wings are not the same as speed.)
   - Note: Some bamboo can grow almost a metre in one day, the fastest growth of any plant. That is still far slower than a snail crawls, but very fast for a plant.
 ### a4 · The Slow Race: who can be last without stopping? (8 min)
-- **record:** Write your slowest number of claps. Draw how you moved your feet.
+- **problem:** Speed works both ways. If you take more time to go the same distance, you are slower. In this race the slowest walker wins, but you must keep moving the whole time. You walk the same 2 metres twice, once ordinarily and once very slowly. Then you count the claps for each.
+- **record:** Write how many claps the ordinary walk took and how many claps the slow walk took. Circle the one with more claps. That one was slower.
 - **s1 (2 min)**  
   *Parent does:* Explain the rules: the slowest walker wins, but feet must keep moving all the time.  
   *Parent says:* This race is upside down. The slowest one wins. But you must never stand still. If you stop, you are out.  
   *Child mode:* The slowest one wins. But you must never stop.
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child walks the 2 metres as slowly as they can, while you count claps. 2. Try twice. 3. Swap, and you try too.  
-  *Parent says:* Go! Slower, slower. Keep moving. How many claps did that take?  
+  *Parent does:* 1. Your child walks the 2 metres in their ordinary way, while you count claps. 2. Then they walk the same 2 metres as slowly as they can, and you count claps again. 3. Swap, and you try too.  
+  *Parent says:* First walk the way you always walk. Then walk as slowly as you can, and keep moving. How many claps did each walk take?  
   *Child mode:* Move very slowly. Keep moving. Count the claps.
-  - Note: A slow race shows that speed works both ways. More claps for the same distance means slower.
+  - Note: A slow race shows the same rule from the other side. More claps for the same distance means slower.
 - **s3 (2 min)**  
-  *Parent does:* Compare the clap counts.  
-  *Parent says:* Who took the most claps? So who was slowest? How did you keep so slow?  
-  *Child mode:* Who took the most claps? Who was slowest?
+  *Parent does:* Compare the clap counts of the ordinary walk and the slow walk.  
+  *Parent says:* Both walks were the same 2 metres. Which one took more claps? So which one was slower? How did you stay so slow?  
+  *Child mode:* Which walk took more claps? Which one was slower?
   - Ask: How did you move so slowly? (good: I took tiny steps.; I lifted my feet very slowly.; I did both.)
 
 ## Projects
 ### p1 · The Sprout Race: whose root grows fastest? (30 min, 5 days)
 - **record:** A growth table with the longest root of each seed for each day, and a drawing of the three rows on day 5.
-- **schedule:** day 1: Soak 5 seeds of each kind in water overnight, in separate bowls. (5 min); day 2: Lay the seeds on the wet cloth in three rows. Guess which root will grow longest. Measure any roots. (8 min); day 3: Measure the longest root in each row. Keep the cloth wet. (6 min); day 4: Measure again. Which seed is winning? (6 min); day 5: Measure one last time. Work out how much each root grew from day 4 to day 5. (5 min)
+- **schedule:** day 1: Soak 5 seeds of each kind in water overnight, in separate bowls. (5 min); day 2: Lay the seeds on the wet cloth in three rows. Guess which root will grow longest. Measure any roots that have come out. (8 min); day 3: Measure the longest root in each row. Keep the cloth wet. (6 min); day 4: Measure again. Which seed is winning? (6 min); day 5: Measure one last time. Work out how much each root grew from day 4 to day 5. (5 min)
 - **s1 (5 min)**  
-  *Parent does:* Day 1: put 5 seeds of each kind in its own bowl and cover them with water.  
-  *Parent says:* These seeds will race. Not on legs, but by growing. Tomorrow we lay them out.  
+  *Parent does:* Day 1: put 5 moong seeds, 5 chana seeds and 5 methi seeds in three bowls, one kind in each bowl. Cover them with water.  
+  *Parent says:* These seeds will race, not by running but by growing. Tomorrow we lay them out on a wet cloth.  
   *Child mode:* Soak the seeds tonight. Tomorrow the race begins.
 - **s2 (8 min)**  
   *Parent does:* Day 2: lay the seeds on the wet cloth in three rows. Ask your child to guess the winner.  
@@ -384,12 +386,12 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - **creative:** Make a spiral of dough walls, so the marble rolls round and round before it reaches the bottom.; Lay a strip of cloth on part of the path, so the marble rolls more slowly there.
 - **s1 (3 min)**  
   *Parent does:* Tilt the tray on one book. Let the marble roll straight down while you clap.  
-  *Parent says:* Straight down, that took only about one clap. Can you make it take five?  
+  *Parent says:* Rolling straight down took only about one clap. Can you make it take five?  
   *Child mode:* Straight down is fast. Can you make it slow?
 - **s2 (12 min)**  
   *Parent does:* Your child builds walls and tests them. Count the claps each time.  
   *Parent says:* How many claps this time? Which wall made the biggest difference?  
-  *Child mode:* Build walls. Let go. Count the claps.
+  *Child mode:* Build walls. Let the marble go. Count the claps.
   - Note: A zigzag makes the path longer, so the same marble takes more time. The marble did not change. The distance did.
 - **s3 (5 min)**  
   *Parent does:* Show the best path and talk about why it was slow.  
@@ -400,7 +402,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 ## Worksheets
 ### Who Is Faster? (core) (core, 10 questions)
 1. (match) Draw a line from each racer to the word that fits: faster or slower than you running.  
-   **Answer:** a cheetah → faster; a snail → slower; a train → faster; a tortoise → slower. *Why:* A cheetah and a train go further than you in the same time. A snail and a tortoise go a shorter way.
+   **Answer:** a cheetah → faster; a snail → slower; a train → faster; a tortoise → slower. *Why:* A cheetah and a train go further than you in the same time. A snail and a tortoise go less far.
 2. (mcq) In the Step Race, you walked the same path three ways. How did you know which way was fastest?  
    Options: It took the fewest claps / It took the most steps / It made my feet move fastest  
    **Answer:** It took the fewest claps. *Why:* The distance was the same each time. So the way that took the least time, the fewest claps, was the fastest.
@@ -412,9 +414,9 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
    **Answer:** Everyone moves for 4 claps → Fair; One person gets 8 claps → Not fair; Everyone starts at the same chappal → Fair; One person starts halfway → Not fair. *Why:* A fair race keeps the time or the distance the same for everyone. Extra claps or a closer start are not fair.
 6. (fill) Speed is how ___ something goes in a stretch of time.  
    **Answer:** far. *Why:* Speed tells you how far a thing goes in a stretch of time.
-7. (write) Say out loud, and a grown-up writes it down: in the Step Race, why did tiny steps take more claps than your ordinary walk?  
+7. (write) Say your answer out loud and ask a grown-up to write it down. In the Step Race, why did tiny steps take more claps than your ordinary walk?  
    **Answer:** Each tiny step went only a little way, so I needed many more steps to get there.. *Why:* A strong answer says the steps were short, not only that they were tiny. Short steps add up to less ground in each clap.
-8. (count) In the Step Race, Riya took 10 claps with tiny steps and 4 claps with her ordinary walk. How many more claps did the tiny steps take?  
+8. (count) In the Step Race, the tiny steps took 10 claps and the ordinary walk took 4 claps. How many more claps did the tiny steps take?  
    **Answer:** 6. *Why:* From 4 up to 10 is 6: 5, 6, 7, 8, 9, 10.
 9. (label) Label the picture of a race: start line, finish line, racer, the person saying 'Go!'.  
    **Answer:** ['start line: where the racers stand at the beginning', 'finish line: where the race ends', 'racer: a child walking along the path', "the person saying 'Go!': the grown-up at the side"]. *Why:* Knowing each part helps you check a race is fair. A strong answer puts each label on the right part.
@@ -423,9 +425,9 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
    **Answer:** 2. *Why:* The snail is slower than you. The other three are faster than you.
 ### Fair Races and Head Starts (stretch) (stretch, 10 questions)
 1. (perspective) Three friends watched the Step Race, where a girl walked the same path with tiny steps, giant steps and her ordinary walk.  
-   **Answer:** A strong answer usually agrees with Revathi, using the clap counts from the test. Kavya is right that tiny steps come fastest, but each one is short. Farhan is right that giant steps are fewest, but each one is slow.. *Why:* Speed depends on both how far each step goes and how often a step comes. Each friend saw one half of that.
-2. (mcq) Sana and her grandfather race to the door. Sana takes 4 claps. Her grandfather takes 4 claps too. What can you say?  
-   Options: They have the same speed / Sana is faster / Her grandfather is faster  
+   **Answer:** A strong answer usually agrees with the second person, using the clap counts from the Step Race. The first person is right that tiny steps come fastest, but each one is short. The third person is right that giant steps are fewest, but each one is slow.. *Why:* Speed depends on both how far each step goes and how often a step comes. Each friend saw one half of that.
+2. (mcq) A child and her grandfather race to the door. The child takes 4 claps. Her grandfather takes 4 claps too. What can you say?  
+   Options: They have the same speed / The child is faster / Her grandfather is faster  
    **Answer:** They have the same speed. *Why:* Same distance and same time means the same speed.
 3. (write) In the Head-Start Race, the slow grown-up won the short race but lost the long one. Their speeds never changed. Why did the winner change?  
    **Answer:** The faster walker was catching up all the time. In the short race the finish came before they caught up. In the long race there was time to catch up and pass.. *Why:* A strong answer says the faster walker gains every clap, and that the length of the race decides whether there is time to pass.
@@ -437,19 +439,19 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
    **Answer:** A line with the child's start at the back, the grown-up's start ahead, the near finish just past the grown-up's start, the catch-up mark a little further, and the far finish beyond it.. *Why:* A strong drawing puts the catch-up mark between the near finish and the far finish. That shows why the short race and the long race had different winners.
 7. (match) Match each race to the fair way to judge it.  
    **Answer:** Everyone runs to the gate → fewest claps wins; Everyone moves for 10 claps → furthest wins; Everyone swims one length of the pool → fewest seconds wins; Everyone cycles for 1 minute → furthest wins. *Why:* When the distance is the same, the shortest time wins. When the time is the same, the longest distance wins.
-8. (count) Hema walked 10 tiles in 5 claps. She walked the same number of tiles in each clap. How many tiles did she walk in each clap?  
+8. (count) You walk 10 tiles in 5 claps. You walk the same number of tiles in each clap. How many tiles do you walk in each clap?  
    **Answer:** 2. *Why:* 10 shared into 5 equal claps is 2 each. Check: 2 + 2 + 2 + 2 + 2 = 10.
 9. (write) In the Freeze Race, all three ways had the same 4 claps. Why does that make it a fair way to compare them?  
    **Answer:** Because only the way of moving changed. The time was the same, so the one that went furthest really was the fastest.. *Why:* A strong answer says the time was kept the same, so the distance shows the speed.
-10. (odd) Which race is the odd one out, because it is not fair?  
+10. (odd) Three of these keep a race fair. Which one makes the race unfair?  
    Options: Both start at the same chappal / Both hear the same 'Go!' / One racer starts halfway / Both run to the same door  
    **Answer:** 2. *Why:* Starting halfway gives one racer a head start, so the race is not fair. The others keep the race fair.
 ### Speed Puzzles (challenge) (challenge, 10 questions)
 1. (perspective) Two friends are arguing about whether a slow racer can ever win.  
-   **Answer:** A strong answer agrees with Thenmozhi, because the slow grown-up won the short race with a head start. Bisakha is right in a fair race with the same start line: then the faster racer always wins.. *Why:* In a fair race, the faster racer wins. With a head start, the length of the race decides.
+   **Answer:** A strong answer agrees with the second person, because the slow grown-up won the short race with a head start. The first person is right in a fair race with the same start line: then the faster racer always wins.. *Why:* In a fair race, the faster racer wins. With a head start, the length of the race decides.
 2. (write) A mosquito beats her wings hundreds of times each second. Yet you can run away from her. Explain why, using what you found in the Step Race.  
    **Answer:** Each wing beat moves the mosquito only a tiny way, just as each tiny step moved me only a foot's length. Many quick movements can still add up to a slow speed.. *Why:* A strong answer links the quick, short wing beats to the quick, short steps in the Step Race.
-3. (mcq) Arjun rolls a toy car slowly down the aisle of a bus that is speeding along the road. Compared with the bus, the car is slow. Compared with the road, is the car slow or fast?  
+3. (mcq) A toy car rolls slowly down the aisle of a bus that is speeding along the road. Compared with the bus, the car is slow. Compared with the road, is the car slow or fast?  
    Options: Fast, because the bus carries it along / Slow, because it rolls slowly / Still, because it is inside  
    **Answer:** Fast, because the bus carries it along. *Why:* Compared with the bus, the car is slow. Compared with the road, it moves with the bus, so it is fast. Speed is always compared with something.
 4. (draw) Draw a race that is NOT fair. Then draw a cross on what makes it unfair, and write how to fix it.  
@@ -459,13 +461,13 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 6. (count) Grandma has a head start of 6 tiles. Each clap, Grandma walks 1 tile and Meena walks 3 tiles. After how many claps does Meena catch up?  
    **Answer:** 3. *Why:* After 1 clap: Grandma 7, Meena 3. After 2: Grandma 8, Meena 6. After 3: Grandma 9, Meena 9. They are level after 3 claps.
 7. (write) In the Sprout Race, the moong root grew 2 centimetres in one day. Is a growing root moving? Is it fast or slow? Give a reason.  
-   **Answer:** Yes, the root tip moves as it grows. You can see it is slow: it took a whole day to grow 2 centimetres. A snail goes much further in a day.. *Why:* A strong answer says growing is moving, and that fast or slow depends on what you compare it with.
+   **Answer:** Yes, the root tip moves as it grows. It is slow: it took a whole day to grow 2 centimetres. A snail goes much further in a day.. *Why:* A strong answer says growing is moving, and that fast or slow depends on what you compare it with.
 8. (truefalse) True or false: when you sit still on the floor, you are moving compared with the Sun.  
    **Answer:** True. *Why:* True. You are still compared with the room. But the Earth is carrying you round the Sun, very fast.
 9. (label) Label the boat race picture: long pull, short splashy stroke, the singer, the faster boat.  
    **Answer:** ['long pull: an oar pulled all the way back in the green boat', 'short splashy stroke: an oar throwing up spray in the blue boat', 'the singer: the person standing in the green boat who sings', 'the faster boat: the green boat, ahead']. *Why:* A strong answer marks the green boat as faster, because each long pull moves it further.
 10. (fill) A slow walker with a head start can win a ___ race, but usually loses a long one.  
-   **Answer:** short. *Why:* In a short race, the faster walker runs out of distance before catching up.
+   **Answer:** short. *Why:* In a short race, the race ends before the faster walker catches up.
 
 ## Videos
 - **The Science of a Cheetah's Speed** (National Geographic, 4 min) id `icFMTB0Pi0g`: Shows how a cheetah's long strides and quick steps together make the fastest land animal, after your child has done the Step Race. *Check:* Found by search: "The Science of a Cheetah's Speed" by National Geographic, 3:33. A parent may preview it.
@@ -478,16 +480,16 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
    **Answer:** How far something goes in a stretch of time. *Why:* Speed tells you how far a thing goes in a stretch of time. Weight and size are different things.
 2. (mcq) Meera and Zoya walk to the same door. Meera takes 5 claps and Zoya takes 8 claps. Who is faster?  
    Options: Meera / Zoya / They are the same  
-   **Answer:** Meera. *Why:* The distance is the same, and Meera took fewer claps. Picking Zoya means counting more claps as more speed. More claps means more time, so slower.
+   **Answer:** Meera. *Why:* The distance is the same, and Meera took fewer claps. If you picked Zoya, remember that more claps means more time, so slower.
 3. (mcq) Two children ride cycles for 1 minute. Chitra goes 150 metres. Hema goes 100 metres. Who is faster?  
    Options: Chitra / Hema / You cannot tell  
    **Answer:** Chitra. *Why:* The time is the same, and Chitra went further. So she is faster.
 4. (mcq) Which race is fair?  
    Options: Everyone starts at one line and goes at the same 'Go!' / The youngest starts closer to the finish / Each runner starts when they feel ready  
    **Answer:** Everyone starts at one line and goes at the same 'Go!'. *Why:* A fair race has the same start, the same finish and the same signal for everyone. A head start is kind, but it is not a fair test of speed.
-5. (mcq) Kavya crossed the room with tiny quick steps and then with her ordinary walk. Which usually takes fewer claps?  
-   Options: Her ordinary walk / Tiny quick steps / Both always take the same  
-   **Answer:** Her ordinary walk. *Why:* Each tiny step covers only a foot's length, so tiny steps take more claps. Picking tiny steps means judging speed by how busy the feet look.
+5. (mcq) You cross the room with tiny quick steps and then with your ordinary walk. Which usually takes fewer claps?  
+   Options: Your ordinary walk / Tiny quick steps / Both always take the same  
+   **Answer:** Your ordinary walk. *Why:* Each tiny step covers only a foot's length, so tiny steps take more claps. If you picked tiny steps, you judged speed by how busy the feet look.
 6. (mcq) How fast you walk depends on what?  
    Options: How long your steps are and how often you take them / Only how fast your feet move / Only how long your legs are  
    **Answer:** How long your steps are and how often you take them. *Why:* Speed needs both: the length of each step and how many steps you take in a clap.
@@ -500,9 +502,9 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 9. (mcq) Why should claps be steady when you use them to time a race?  
    Options: So every racer is timed the same way / So the claps sound nice / So the race ends sooner  
    **Answer:** So every racer is timed the same way. *Why:* The claps are the clock. If they speed up or slow down, the race is not fair.
-10. (mcq) Before a test, what should you do first?  
+10. (mcq) Before you try an experiment, what should you do first?  
    Options: Guess what will happen and say why / Write the answer you want / Skip the guess  
-   **Answer:** Guess what will happen and say why. *Why:* A guess with a reason lets the test show you whether your idea was right.
+   **Answer:** Guess what will happen and say why. *Why:* A guess with a reason lets the experiment show you whether your idea was right.
 11. (mcq) A mosquito beats her wings very fast. Why can you still run away from her?  
    Options: Each wing beat moves her only a tiny way / Mosquitoes cannot see you / Her wings go backwards  
    **Answer:** Each wing beat moves her only a tiny way. *Why:* Many quick, tiny movements can add up to a slow speed, like tiny quick steps.
@@ -528,7 +530,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 
 ## Open questions
 - **What is the fastest any animal could ever run?** A cheetah can reach more than 90 kilometres an hour for a short burst. Scientists still argue about what sets the limit for any land animal: muscles, bones, heat or breathing.
-- **Why does the universe have a speed limit, the speed of light?** Physicists have tested that nothing goes faster than light, many times. Nobody knows why the limit has the value it has.
+- **Why does the universe have a speed limit, the speed of light?** Physicists have tested this many times, and nothing goes faster than light. Nobody knows why the limit has the value it has.
 - **How does an ant decide how fast to walk?** Ants walk faster when it is warm. How an ant senses her surroundings and sets her speed is still being studied.
 - **How fast do our thoughts go?** Scientists can measure how fast signals travel along nerves. But a thought uses many parts of the body at once, and nobody can yet say how long one thought takes.
 
@@ -540,7 +542,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - If you raced your shadow, who would win?
 - Why do you think a cat creeps slowly, then runs fast?
 - Is the Moon moving right now? How fast do you think?
-- Is our moong sprout moving? Is it fast or slow?
+- Is our moong sprout moving? Fast or slow?
 
 ## Jokes
 - What do you call a snail on a ship? *A snailor.*
@@ -553,9 +555,9 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 - Why did the tortoise bring a cushion to the race? *He wanted a comfortable finish.*
 
 ## Connected maths
-- In the Step Race, Riya's tiny steps took 8 claps and her ordinary walk took 3 claps. How many more claps did the tiny steps take? **5 more claps.**. Start at 3 and count on to 8: 4, 5, 6, 7, 8. That is 5 counts. So the tiny steps took 5 more claps. More claps for the same distance means slower. (queues `math.addition-subtraction.mental-strategies.L2`)
-- In the Step Race, Farhan's giant steps took 4 claps, 9 claps and 4 claps. Which try looks like a fluke, and how many claps did giant steps really take? **The try with 9 claps looks like a fluke. Giant steps really took about 4 claps.**. Two tries gave 4 claps and one gave 9. The 9 is far from the others. Maybe Farhan wobbled or the clapping slipped. So we trust the 4, and try once more to check. (queues `math.number-sense.comparing-ordering.L2`)
-- Lakshmi walked 12 tiles in 4 claps. She walked the same number of tiles in each clap. How many tiles did she walk in each clap? **3 tiles in each clap.**. 12 tiles shared into 4 equal claps is 3 tiles in each clap. Check: 3 + 3 + 3 + 3 = 12. Tiles in each clap is a way to say her speed. (queues `math.division.division-facts.L3`)
+- In the Step Race, the tiny steps took 8 claps and the ordinary walk took 3 claps. How many more claps did the tiny steps take? **5 more claps.**. Start at 3 and count on to 8: 4, 5, 6, 7, 8. That is 5 counts. So the tiny steps took 5 more claps. More claps for the same distance means slower. (queues `math.addition-subtraction.mental-strategies.L2`)
+- In the Step Race, giant steps took 4 claps, 9 claps and 4 claps in three tries. Which try looks like a fluke (a result that happened by chance), and how many claps did giant steps really take? **The try with 9 claps looks like a fluke. Giant steps really took about 4 claps.**. Two tries gave 4 claps and one gave 9. The 9 is far from the others. Maybe the walker wobbled or the clapping slipped. So we trust the 4, and try once more to check. (queues `math.number-sense.comparing-ordering.L2`)
+- You walk 12 tiles in 4 claps. You walk the same number of tiles in each clap. How many tiles do you walk in each clap? **3 tiles in each clap.**. 12 tiles shared into 4 equal claps is 3 tiles in each clap. Check: 3 + 3 + 3 + 3 = 12. Tiles in each clap is a way to say your speed. (queues `math.division.division-facts.L3`)
 - Amma has a head start of 8 tiles. Each clap, Amma walks 1 tile and Meena walks 3 tiles. After how many claps does Meena catch up? **After 4 claps.**. Make a table. After 1 clap: Amma 9, Meena 3. After 2: Amma 10, Meena 6. After 3: Amma 11, Meena 9. After 4: Amma 12, Meena 12. Each clap Meena gains 2 tiles, and 8 tiles take 4 claps to make up. (queues `math.patterns.number-patterns.L2`)
 - In the Sprout Race, the moong root was 1 centimetre long on day 2, 3 centimetres on day 3 and 5 centimetres on day 4. If it keeps growing the same way, how long will it be on day 5? **About 7 centimetres.**. Each day the root grew 2 more centimetres: 1, 3, 5. The next number is 5 and 2 more, which is 7. A real root may slow down or speed up, so measure to check. (queues `math.length.standard-units-length.L2`)
 

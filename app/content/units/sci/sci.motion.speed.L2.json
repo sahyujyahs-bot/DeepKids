@@ -197,7 +197,7 @@
    "for": "A racer who never stops can beat a faster racer who stops for a long rest.",
    "against": "If the faster racer does not stop, the faster racer wins. In the story, the tortoise wins because the hare sleeps, not because slow is better.",
    "status": "rejected",
-   "context": "This card is about what the hare and tortoise story really shows."
+   "context": "In the old story, a fast hare runs ahead and stops to sleep. A slow tortoise keeps walking and wins. This card asks what the story really shows."
   },
   {
    "claim": "A race is fair as long as everyone runs as hard as they can.",
@@ -213,7 +213,7 @@
    "for": "In over a hundred years of tests, nothing carrying matter or a message has been measured going faster than light in empty space.",
    "against": "Nobody has found anything faster. Scientists still keep testing the limit, because they do not yet know why it exists.",
    "status": "accepted",
-   "context": "This card is about the fastest speed there is."
+   "context": "Light is what lets us see. In empty space it travels about 3 lakh kilometres every second. This card asks if anything can go faster than that."
   }
  ],
  "big_questions": [
@@ -560,6 +560,7 @@
    "mins": 8,
    "days": 1,
    "context": "In this activity you move for 4 claps in three different ways: crawling, hopping and tiptoeing. When the claps stop, you freeze. The way that took you furthest is the fastest.",
+   "problem": "Speed can be judged in two fair ways. In one way, everyone goes the same distance, and the one who takes less time is faster. In the other way, everyone moves for the same time, and the one who goes further is faster. In this activity, every way of moving gets the same 4 claps. So the way that takes you furthest is the fastest.",
    "materials": [
     {
      "item": "a clear stretch of floor, about 5 metres",
@@ -663,8 +664,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child the second hand of a clock, or a phone stopwatch. 2. Clap together once each second, for 20 seconds.",
-     "say": "One second is about as long as it takes to say 'one Kochi'. Clap each time the clock ticks. One Kochi, two Kochi, three Kochi.",
-     "kid": "Clap each time the clock ticks. Say 'one Kochi, two Kochi'."
+     "say": "The clock ticks once each second. Clap each time it ticks. Saying a word like Kochi takes about one second too. So you can count 'one Kochi, two Kochi, three Kochi' to keep the beat.",
+     "kid": "Clap each time the clock ticks. Count 'one Kochi, two Kochi' to keep each clap one second long."
     },
     {
      "id": "s2",
@@ -715,7 +716,7 @@
      "what": "Sort 14 cards into faster and slower than you, then check the answers."
     }
    ],
-   "record": "Write how many cards you sorted right. Draw the one that surprised you most.",
+   "record": "Write how many cards you sorted right. Then draw a mosquito, and write one sentence on why she is slower than you.",
    "setup": [
     {
      "art": "Fourteen small paper cards on a floor mat, with words like snail, crow, cheetah and bamboo.",
@@ -739,8 +740,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Your child puts each card on one of two sheets, marked FASTER THAN ME and SLOWER THAN ME.",
-     "say": "Put each card on a sheet. Tell me why for each one.",
-     "kid": "Put each card on a sheet. Say why."
+     "say": "Put each card on one of the two sheets, FASTER THAN ME or SLOWER THAN ME. Tell me why for each one.",
+     "kid": "Put each card on FASTER THAN ME or SLOWER THAN ME. Say why."
     },
     {
      "id": "s3",
@@ -767,6 +768,7 @@
    "mins": 8,
    "days": 1,
    "context": "In this activity the slowest walker wins. You must keep moving all the time and never stand still. Many Indian schools have a slow cycle race on sports day, where the last cyclist to finish without putting a foot down wins.",
+   "problem": "Speed works both ways. If you take more time to go the same distance, you are slower. In this race the slowest walker wins, but you must keep moving the whole time. You walk the same 2 metres twice, once ordinarily and once very slowly. Then you count the claps for each.",
    "materials": [
     {
      "item": "a path about 2 metres long, with a chappal at each end",
@@ -784,7 +786,7 @@
      "what": "Walk 2 metres as slowly as you can without ever stopping, and count the claps."
     }
    ],
-   "record": "Write your slowest number of claps. Draw how you moved your feet.",
+   "record": "Write how many claps the ordinary walk took and how many claps the slow walk took. Circle the one with more claps. That one was slower.",
    "setup": [
     {
      "art": "A girl lifting one foot very slowly between two chappals, with her arms out for balance.",
@@ -806,17 +808,17 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child walks the 2 metres as slowly as they can, while you count claps. 2. Try twice. 3. Swap, and you try too.",
-     "say": "Go! Slower, slower. Keep moving. How many claps did that take?",
+     "do": "1. Your child walks the 2 metres in their ordinary way, while you count claps. 2. Then they walk the same 2 metres as slowly as they can, and you count claps again. 3. Swap, and you try too.",
+     "say": "First walk the way you always walk. Then walk as slowly as you can, and keep moving. How many claps did each walk take?",
      "kid": "Move very slowly. Keep moving. Count the claps.",
      "parent": "A slow race shows the same rule from the other side. More claps for the same distance means slower."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Compare the clap counts.",
-     "say": "Who took the most claps? So who was slowest? How did you stay so slow?",
-     "kid": "Who took the most claps? Who was slowest?",
+     "do": "Compare the clap counts of the ordinary walk and the slow walk.",
+     "say": "Both walks were the same 2 metres. Which one took more claps? So which one was slower? How did you stay so slow?",
+     "kid": "Which walk took more claps? Which one was slower?",
      "ask": [
       {
        "q": "How did you move so slowly?",
@@ -1182,7 +1184,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Day 1: put 5 seeds of each kind in its own bowl and cover them with water.",
+     "do": "Day 1: put 5 moong seeds, 5 chana seeds and 5 methi seeds in three bowls, one kind in each bowl. Cover them with water.",
      "say": "These seeds will race, not by running but by growing. Tomorrow we lay them out on a wet cloth.",
      "kid": "Soak the seeds tonight. Tomorrow the race begins."
     },
@@ -1229,6 +1231,7 @@
    "title": "The Slow Lane: make a marble take as long as possible",
    "mins": 20,
    "context": "This is a design challenge. A marble rolls down a tilted tray very fast. Your job is to build a path that makes it take as many claps as you can to reach the bottom.",
+   "problem": "A marble rolls down a tilted tray very quickly. If the path is longer, the marble has further to go, so it takes more time. In this challenge, you build walls to make the path longer and slower. Then you count how many claps the marble takes to reach the bottom.",
    "problem": "Can you build a path on a tilted tray that makes a marble take as long as possible to reach the bottom, without ever stopping?",
    "constraints": [
     "The tray stays tilted on one book the whole time.",
