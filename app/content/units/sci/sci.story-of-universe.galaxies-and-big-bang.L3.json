@@ -247,7 +247,7 @@
    "for": "Everything we see growing, like a balloon or a rising dhokla, grows into the room around it.",
    "against": "The expanding universe means that the distances between galaxies grow. It does not need anything outside. On the balloon model, only the rubber skin stands for space, and the bindis can never leave it. Nobody has found any sign of an outside, and the main theory of gravity describes stretching without one.",
    "status": "rejected",
-   "context": "This card is about a common picture of the expanding universe."
+   "context": "This card is about a common picture of the expanding universe. Think of a balloon that grows into the room around it. The question is whether the universe also needs empty space outside itself to grow into."
   },
   {
    "claim": "The universe has always existed and looks the same at all times. As galaxies move apart, new matter quietly appears to fill the gaps. This is called the steady state theory.",
@@ -263,7 +263,7 @@
    "for": "The name sounds like an explosion, and galaxies are moving apart, like pieces after a blast.",
    "against": "If galaxies were flying from one spot, there would be a centre, and galaxies there would see things differently from galaxies at the edge. Astronomers see the same pattern in every direction. The stretching happens everywhere at once.",
    "status": "rejected",
-   "context": "This card is about a common mistake about the Big Bang."
+   "context": "This card is about a common mistake about the Big Bang. The Big Bang is the name for the start of the universe, when everything was packed close together and very hot. Since then it has been stretching and cooling."
   },
   {
    "claim": "The two main ways of measuring how fast the universe expands give different answers, so something may be missing from our picture of the universe.",
@@ -271,7 +271,7 @@
    "for": "Measuring nearby galaxies with Cepheids and exploding stars gives a faster speed than working it out from the leftover glow. Both sets of measurements have been checked many times.",
    "against": "Some astronomers think a small mistake in one of the methods will explain the difference, and newer measurements sometimes come out closer together.",
    "status": "debated",
-   "context": "This card is about a puzzle astronomers are working on right now."
+   "context": "This card is about a puzzle astronomers are working on right now. One way of measuring uses nearby Cepheid stars and exploding stars. The other works out the speed from the leftover glow of the early universe. The two ways give different speeds, and nobody yet knows why."
   }
  ],
  "big_questions": [
@@ -296,7 +296,7 @@
    "hint": "Some scientists say yes and some say no. What would 'before time' mean?"
   },
   {
-   "q": "We are made of atoms from the early universe and from old stars. Is the universe looking at itself through your eyes?",
+   "q": "Your body is made of atoms that were made in the early universe and in old stars. So in a way, a small part of the universe is now looking at the sky through your eyes. Does that change how you think about yourself?",
    "kind": "big",
    "hint": "Where did the hydrogen in your body come from? Where did the carbon come from?"
   }
@@ -557,7 +557,7 @@
      "mins": 4,
      "do": "1. Show your child the balloon and the bindis. 2. Ask the guess question below. 3. Wait for a guess and a reason.",
      "say": "Each bindi will be a galaxy, and the balloon's rubber will be space. When I blow the balloon bigger, will a near bindi and a far bindi move away by the same amount? Why do you think so?",
-     "kid": "Each bindi is a galaxy. The rubber is space. When the balloon grows, will near and far bindis move the same? Guess. Say why.",
+     "kid": "Each bindi is a galaxy, and the rubber is space. When the balloon grows, will near and far bindis move the same? Guess first, then say why.",
      "ask": [
       {
        "q": "Which bindi do you think will move furthest from the home bindi: a near one or a far one? Why?",
@@ -585,7 +585,7 @@
      "mins": 7,
      "do": "1. Hold one end of the thread on the middle of H. 2. Lay the thread flat along the rubber to the middle of A. 3. Pinch the thread there, lift it off, and hold it against the ruler. 4. Write the gap in the table. 5. Do the same for H to B, H to C, C to A and C to B. 6. Measure how wide one bindi is across its middle, and write it down.",
      "say": "Hold the thread on the home bindi. Lay it along the rubber to the next one, and pinch it there. Now let's read it on the ruler.",
-     "kid": "Hold the thread on H. Lay it to A. Pinch it. Read it on the ruler. Write it down.",
+     "kid": "Hold one end of the thread on H. Lay the thread along the rubber to A, and pinch it there. Read the length on the ruler, and write it down.",
      "parent": "This needs two pairs of hands: one person holds the thread end on the bindi, the other lays it and pinches. Round each gap to the nearest half centimetre. The gaps from C let you look at the balloon from a second bindi later.",
      "context": "In this step of the Bindi Balloon experiment, you measure the gaps on the small balloon."
     },
@@ -746,7 +746,7 @@
      "mins": 3,
      "do": "1. Ask the guess question below. 2. Wait for a guess and a reason.",
      "say": "A spiral galaxy is a flat spinning disc. What shape would it look like if we saw it from the side? Would a ball of stars change shape? Why do you think so?",
-     "kid": "A spiral galaxy is a flat disc. What would it look like from the side? Guess. Say why.",
+     "kid": "A spiral galaxy is a flat disc. What would it look like from the side? Guess first, then say why.",
      "ask": [
       {
        "q": "What will the disc look like from the side?",
@@ -991,7 +991,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Look at the calendar together. Point at where all of human history fits.",
-     "say": "For most of the year there are no people at all. All of human history fits into the last few minutes of 31 December. Your whole life is less than a tenth of a second.",
+     "say": "For most of the year there are no people at all. All of human history fits into the last few minutes of 31 December. Your whole life so far is less than a tenth of a second.",
      "kid": "All of human history is in the last minutes of the year. Your life is shorter than a blink.",
      "check": {
       "t": "mcq",
@@ -1163,7 +1163,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about what you saw.",
-     "say": "That smudge is a whole galaxy of about a trillion stars. Its light set off two and a half million years ago. What was the Earth like then?",
+     "say": "That smudge is a whole galaxy of about a trillion stars. Its light set off two and a half million years ago, long before there were people like us on Earth. So are we seeing Andromeda as it is tonight?",
      "kid": "That smudge is a galaxy. Its light is two and a half million years old.",
      "ask": [
       {
@@ -1235,7 +1235,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the tally marks together.",
-     "say": "Which shape did we see most? Why might that be?",
+     "say": "Which shape did we see most? Were some photos hard to sort? Why?",
      "kid": "Count your tally. Which shape did you see most?",
      "ask": [
       {
@@ -2577,9 +2577,9 @@
   "three": {
    "who_am_i": "From every galaxy, the others seem to move away, just as the other bindis moved away from every bindi on the balloon. So no place is the centre of the universe, and your place is as central as any other.",
    "what_is_life": "Living things are made of carbon, oxygen and other atoms that only stars can make. The first stars had to shine and explode before any of these atoms existed. So the universe was already hundreds of millions of years old before life could begin anywhere.",
-   "what_is_this_world": "The world is not standing still. The space between the galaxies grows every moment, and the light reaching us carries pictures of the past. The sky you see tonight shows many different times at once."
+   "what_is_this_world": "The world is not standing still. The space between the galaxies grows every moment, and the light reaching us carries pictures of the past. The sky you see tonight shows many different times at once, because each star and galaxy is seen as it was when its light set off."
   },
-  "thread": "In the Bindi Balloon experiment, no bindi was special. From every one, the others moved away. Science found that every place in the universe is like this. No galaxy is the middle and none is the edge, and every place was part of the same hot beginning. People are one kind of life on one planet, in one galaxy among hundreds of billions, and that galaxy is in the middle exactly as much as every other.",
+  "thread": "In the Bindi Balloon experiment, no bindi was special. From every one, the others moved away. Science found that every place in the universe is like this. No galaxy is the middle and none is the edge, and every place was part of the same hot beginning. People are one kind of life on one planet, in one galaxy among hundreds of billions, and that galaxy is no more in the middle than any other galaxy.",
   "teachings": [
    {
     "source": "Nicholas of Cusa, On Learned Ignorance (De docta ignorantia), Book 2, chapter 12, 1440",
@@ -2618,7 +2618,7 @@
    "title": "Old light, new light",
    "mins": 4,
    "say": "Let's sit quietly. Look at the lamp in this room. Its light reaches you in a tiny part of a second. Now look out of the window at the furthest thing you can see. Its light took a little longer. Close your eyes. Breathe in slowly, and out slowly, five times. Think of a light that set off from Andromeda before there were any people. It is still travelling, and some of it is arriving now. Open your eyes slowly.",
-   "kid": "Look at the lamp. Now look at the furthest thing outside. Close your eyes. Breathe slowly five times. Think of old light arriving now. Open your eyes."
+   "kid": "Look at the lamp. Now look at the furthest thing you can see outside. Close your eyes and breathe slowly five times. Think of light that set off from Andromeda long ago and is arriving now. Then open your eyes."
   },
   "ask": [
    "If every place is as central as every other, is there anywhere that is the edge?",

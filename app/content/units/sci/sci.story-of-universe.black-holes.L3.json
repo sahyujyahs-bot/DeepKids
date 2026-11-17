@@ -214,7 +214,7 @@
    "for": "Black holes were so strange that many scientists thought nature must have a way to prevent them.",
    "against": "Roger Penrose showed in 1965 that collapse cannot be stopped once it goes far enough. Since then, stars have been seen going round black holes.",
    "status": "rejected",
-   "context": "This card is about whether black holes could exist at all."
+   "context": "This card is about whether black holes could exist at all. A star's own gravity squeezes it smaller. The question is whether anything in nature could stop the squeezing before a black hole forms."
   },
   {
    "claim": "A black hole sucks in everything around it, like a vacuum cleaner.",
@@ -222,7 +222,7 @@
    "for": "Things that come very close to a black hole do fall in and can never get out.",
    "against": "Far away, a black hole pulls just like any star of the same mass. Stars go round black holes for millions of years without falling in.",
    "status": "rejected",
-   "context": "This card is about a popular belief."
+   "context": "This card is about a popular belief from films and cartoons. The pull of gravity depends on how much mass there is and how far away you are. So a black hole pulls from far away just as hard as any star of the same mass."
   },
   {
    "claim": "Black holes slowly give off a very faint glow and shrink away over a very long time.",
@@ -230,7 +230,7 @@
    "for": "His calculation joined quantum physics, the rules of the very small, with Einstein's theory of gravity. Most physicists accept the calculation.",
    "against": "The glow from real black holes would be far too faint to measure, so nobody has seen it.",
    "status": "debated",
-   "context": "This card is about whether black holes last for ever."
+   "context": "This card is about whether black holes last for ever. Stephen Hawking's calculation says a black hole slowly gives off a very faint glow. The glow carries energy away, so the black hole would very slowly shrink."
   },
   {
    "claim": "Some giant black holes formed straight from collapsing gas clouds, without a star first.",
@@ -298,9 +298,9 @@
   "ask": [
    "Why did the hole in the box look blacker than the black paper?",
    "Is a black hole really a hole? What is it?",
-   "What did Paati show with the soft ball?",
-   "Why did Paati squeeze the slice of bread?",
-   "How did Nila work out that the Earth would not fall in if the Sun became a black hole?"
+   "What does a ball that goes up and comes back down show about gravity?",
+   "What does squeezing a slice of bread show about how a black hole forms?",
+   "If the Sun became a black hole of the same mass, why would the Earth not fall in?"
   ],
   "art": [
    "Karthik, a worried boy of seven, standing at the door of his grandmother's room in a Mysuru flat, while Kamala Paati reads the newspaper.",
@@ -373,7 +373,7 @@
      "mins": 4,
      "do": "1. Show your child a sheet of black paper and a sheet of white paper. 2. Show them the closed box. 3. Ask the guess question below. 4. Wait for a guess and a reason.",
      "say": "Black paper is about the darkest thing we have at home. Soon we will make a small hole in this box. Which do you think will look darker, the black paper or the hole? Why?",
-     "kid": "Here is black paper. Here is a closed box. Soon it will have a hole. Which will look darker? Guess. Say why.",
+     "kid": "Here is black paper, and here is a closed box. Soon the box will have a hole in it. Guess which will look darker, the paper or the hole. Then say why you think so.",
      "ask": [
       {
        "q": "Which do you think will look darkest: black paper, a small hole in the box, or a big hole? Why?",
@@ -401,7 +401,7 @@
      "mins": 6,
      "do": "1. Put the box in a bright room, or near a window in daytime, but not in direct sunshine. 2. Stand one big step away and look at the lid. 3. Rank the three: the white strip, the black paper and the hole. Number 1 is the darkest. 4. Ask another person to rank them too, without hearing your answer.",
      "say": "Look carefully. Put them in order, from darkest to lightest. Now let's ask someone else, without telling them what you said.",
-     "kid": "Stand one big step away. Look at the white paper, the black paper and the hole. Which is darkest? Number them. Ask someone else too.",
+     "kid": "Stand one big step away. Look at the white paper, the black paper and the hole. Number them from darkest to lightest, with 1 for the darkest. Then ask someone else to do the same.",
      "ask": [
       {
        "q": "Which looked darkest? What did the black paper look like, close up?",
@@ -803,7 +803,7 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Fold the strip back and forth into 6 pages, like a fan. 2. Page 1: a big cloud of gas and dust. 3. Page 2: a giant blue-white star shining. 4. Page 3: the star swelling up, red and huge. 5. Write one short sentence under each page.",
-     "say": "We are making the life story of a giant star. It starts as a cloud. Gravity pulls the cloud together into a star. What happens near the end?",
+     "say": "We are making the life story of a giant star. It starts as a cloud. Gravity pulls the cloud together into a star. Once the star shines, its middle is very hot, and hot gas pushes outwards. Gravity keeps pulling inwards. Near the end of its life, the star swells up and turns red. First, what do you think keeps the star from being squeezed smaller by its own gravity?",
      "kid": "Fold the paper into 6 pages. Draw a gas cloud, then a giant star, then the star swelling up. Write one line under each.",
      "ask": [
       {
@@ -894,7 +894,7 @@
      "mins": 18,
      "do": "Let your child try their own idea first. If they are stuck, suggest a smaller hole, a deeper box or a black cloth inside.",
      "say": "Try your idea. If you are stuck, think: where does the light go, and how could you make it bounce more times inside?",
-     "kid": "Try your idea. Stuck? Make the hole smaller. Or the box deeper. Or add black cloth.",
+     "kid": "Try your idea. If you are stuck, you could make the hole smaller. You could also use a deeper box. Or you could add black cloth inside.",
      "adult": true,
      "parent": "Help with any cutting. Many small changes work: a smaller hole, a longer tube, a cloth lining. A shiny steel tumbler can reflect light back out, so it may look less dark. That is a useful result too."
     },
@@ -1624,7 +1624,7 @@
      ],
      "ask": "Who do you agree with more? Give a reason from this unit. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For the first child: seeing is strong evidence, and no picture shows the black hole itself, only gas round it. For her grandmother: many teams have tracked the stars for years, and no other heavy thing could fit in so small a space. Then it says one thing the other person has right.",
+     "a": "A strong answer picks a side with evidence. For the first child: seeing something yourself is strong evidence, and nobody has a picture of the black hole itself, only of the gas round it. For her grandmother: many teams have tracked the stars for years, and no other heavy thing could fit in so small a space. Then it says one thing the other person has right.",
      "why": "This is a real question about evidence. Most knowledge about black holes comes from what they do to things nearby, not from seeing them."
     }
    ]
@@ -2166,7 +2166,7 @@
    "title": "The black inside your eye",
    "mins": 3,
    "say": "Rub your palms together until they feel warm. Close your eyes and cup your palms over them, without pressing. Notice the black you see. No light is reaching your eyes now. Breathe slowly five times. Now take your hands away and open your eyes slowly. Look at one of your eyes in a mirror. The black circle in the middle is your pupil. It is a hole into your eye. Light goes in there and almost none comes back out. That is why it looks black, and that is how you see.",
-   "kid": "Rub your hands warm. Cup them over your closed eyes. See the black? Breathe slowly five times. Open your eyes. Look at your pupil in a mirror. Light goes in there. Almost none comes out."
+   "kid": "Rub your hands together until they feel warm. Cup them over your closed eyes. The black you see is there because no light is reaching your eyes. Breathe slowly five times. Then open your eyes and look at your pupil in a mirror. Light goes in through the pupil, and almost none comes back out."
   },
   "ask": [
    "In the Blackest Black experiment, the hole in the box looked blacker than black paper. Was the blackness in the box or in your eyes?",
