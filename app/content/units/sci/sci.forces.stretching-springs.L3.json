@@ -2455,7 +2455,7 @@
      "what": "Hunt for springs and elastic things around your home."
     }
    ],
-   "record": "Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce. Then draw the find that surprised you most.",
+   "record": "Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce. Then write what would go wrong with one of them if it were made of something stiff.",
    "setup": [
     {
      "art": "A child opening a clothes peg and looking at its twisty spring.",
@@ -2491,10 +2491,11 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask each person to share the spring or springy thing that surprised them most. Then ask them to draw it.",
-     "say": "Which of your finds surprised you most? Maybe it was something you never knew had a spring in it. Let's draw it and write one line about what it does. Which find would be a disaster if it were not elastic?",
-     "kid": "Pick the spring or springy thing that surprised you most. Draw it. Write one line about its job.",
-     "think": "Who designed these springs? Why did they choose a spring, and not something stiff?"
+     "do": "Ask your child to choose one of their finds and imagine it made of something stiff, like wood or steel. Ask what would go wrong.",
+     "say": "Pick one of your finds. Now pretend it was made of something stiff that cannot bend or spring back. What would go wrong with it?",
+     "kid": "Pick one find. Pretend it is made of stiff wood. What would go wrong?",
+     "think": "Count your finds. Did most of them stretch, squash, bend or bounce? Why do you think that job needs a spring?",
+     "parent": "Look for an answer that says what the spring does. A clothes peg made of stiff wood could not squeeze shut on a cloth, because there would be no spring to push the jaws back together. A clicky pen would stay clicked in, because nothing would push the button back out. A cushion would stay flat once you sat on it. The idea to reach: a spring is useful because it pushes back and returns to its shape, so the thing can be used again and again."
     }
    ],
    "context": "This is a hunt around your home for springs and elastic things. You find out what job each one does."

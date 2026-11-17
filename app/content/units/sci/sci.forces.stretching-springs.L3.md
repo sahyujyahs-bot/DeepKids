@@ -480,7 +480,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 
 ## Activities
 ### a1 · Spring Hunt (20 min)
-- **record:** Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce. Then draw the find that surprised you most.
+- **record:** Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce. Then write what would go wrong with one of them if it were made of something stiff.
 - **s1 (2 min)**  
   *Parent does:* Explain the hunt to your child, and give them the paper and pencil.  
   *Parent says:* We're spring detectives. Springs and elastic things are hiding all over our home. Let's find 12.  
@@ -491,10 +491,11 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Child mode:* For each find, say its job. Does it stretch, squash, bend or bounce? Write it down.
   - Note: Good finds include the squash spring in a clicky pen and the twisty spring in a clothes peg. Look for stretch springs in a spring balance or a trampoline. The elastic in socks, a hair band and the springs in a cycle seat count too.
 - **s3 (3 min)**  
-  *Parent does:* Ask each person to share the spring or springy thing that surprised them most. Then ask them to draw it.  
-  *Parent says:* Which of your finds surprised you most? Maybe it was something you never knew had a spring in it. Let's draw it and write one line about what it does. Which find would be a disaster if it were not elastic?  
-  *Child mode:* Pick the spring or springy thing that surprised you most. Draw it. Write one line about its job.
-  - Think: Who designed these springs? Why did they choose a spring, and not something stiff?
+  *Parent does:* Ask your child to choose one of their finds and imagine it made of something stiff, like wood or steel. Ask what would go wrong.  
+  *Parent says:* Pick one of your finds. Now pretend it was made of something stiff that cannot bend or spring back. What would go wrong with it?  
+  *Child mode:* Pick one find. Pretend it is made of stiff wood. What would go wrong?
+  - Note: Look for an answer that says what the spring does. A clothes peg made of stiff wood could not squeeze shut on a cloth, because there would be no spring to push the jaws back together. A clicky pen would stay clicked in, because nothing would push the button back out. A cushion would stay flat once you sat on it. The idea to reach: a spring is useful because it pushes back and returns to its shape, so the thing can be used again and again.
+  - Think: Count your finds. Did most of them stretch, squash, bend or bounce? Why do you think that job needs a spring?
 ### a2 · Two in a Row, Two Side by Side (20 min)
 - **record:** Write three stretches: one band, two in a chain, two side by side. A stretch is the length with coins, minus the length without coins.
 - **s1 (4 min)**  
