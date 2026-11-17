@@ -32,7 +32,7 @@
 - **Model and mimic**: The model is the animal with the real defence. The mimic is the animal who copies the model's look. *e.g.* The bitter common rose butterfly is the model. Some female common mormon butterflies are her mimics.
 - **Field of view**: All that an animal can see without moving her head. *e.g.* A rabbit's eyes are on the sides of the head. Her field of view goes almost all the way round.
 - **Co-evolution**: Two kinds of living things changing over many generations, each because of the other. *e.g.* Many moths have ears that hear the calls of hunting bats. Some bats now call very softly.
-- **Endangered**: So few in number that the whole kind may die out. *e.g.* Fewer than 150 great Indian bustards are left in the wild.
+- **Endangered**: So few in number that the whole kind may die out. *e.g.* Only about 100 to 150 great Indian bustards are left in the wild.
 
 ## Explanations
 ### What an adaptation is, and its three kinds · *defined*
@@ -61,7 +61,7 @@ In the Thar desert the problems are heat, thirst and loose sand. A camel stores 
 ### Predators are adapted to find, reach and kill prey · *defined*
 **Definition:** A predator is an animal who catches and eats other animals. Those other animals are the prey.
 
-A predator has three problems to solve, in order. The first is to find the prey. An eagle's eyes are far sharper than ours. A barn owl can catch a mouse in complete darkness by hearing alone. Most hunters have both eyes at the front of the face. Both eyes then see the same prey, and the brain uses the two views to judge distance. The second problem is to get within reach. A tiger uses camouflage and creeps close before a short rush. A cheetah uses speed, and can reach about 100 kilometres an hour for a few hundred metres. A spider builds a web and waits. Dholes, the wild dogs of Indian forests, hunt as a pack and tire out a deer. The third problem is to kill. Hunters have long pointed teeth, claws or talons, and some snakes inject venom. A few plants are predators too. The pitcher plant of Meghalaya traps insects in a cup of liquid and digests them. Many predators are also prey. A house gecko hunts moths, and a cat hunts the gecko.
+A predator has three problems to solve, in order. The first is to find the prey. An eagle's eyes are far sharper than ours. A barn owl can catch a mouse in complete darkness by hearing alone. Most hunters have both eyes at the front of the face. Both eyes then see the same prey, and the brain uses the two views to judge distance. The second problem is to get within reach. A tiger uses camouflage and creeps close before a short rush. A cheetah uses speed, and can pass 90 kilometres an hour in a short dash. A spider builds a web and waits. Dholes, the wild dogs of Indian forests, hunt as a pack and tire out a deer. The third problem is to kill. Hunters have long pointed teeth, claws or talons, and some snakes inject venom. A few plants are predators too. The pitcher plant of Meghalaya traps insects in a cup of liquid and digests them. Many predators are also prey. A house gecko hunts moths, and a cat hunts the gecko.
 - e.g. Finding: a barn owl hears a mouse under dry leaves.
 - e.g. Reaching: a tiger stalks to within a few leaps before she rushes.
 - e.g. Killing: a Russell's viper injects venom through hollow fangs.
@@ -69,7 +69,7 @@ A predator has three problems to solve, in order. The first is to find the prey.
 ### Prey are adapted to notice, escape and resist · *defined*
 **Definition:** Prey animals have adaptations that help them notice a hunter early, avoid being found, get away, or fight back.
 
-Each prey adaptation answers one of the predator's three problems. To notice a hunter early, a deer has eyes on the sides of her head. She sees almost all the way round, though she judges distance less well. Her large ears turn towards a sound. Spotted deer feed below langurs, who see far from the treetops and bark at a tiger. To avoid being found, many prey animals use camouflage and keep still. To get away, a blackbuck runs at about 80 kilometres an hour and swerves sharply. A house gecko drops her tail, and the wriggling tail holds the hunter's eye while she runs. An octopus squirts ink and jets away. To resist, a pangolin rolls into a ball of hard scales. A porcupine raises her quills, and bees sting together. Living in a group helps in two more ways. Each animal is one among many, so the chance that the hunter picks her is small. Animals in the middle are also shielded by those outside. In Edge or Middle, the marble tiger nearly always catches a chana on the outer ring of the herd. Plants are prey too. They resist with thorns, tough leaves and bitter chemicals.
+Each prey adaptation answers one of the predator's three problems. To notice a hunter early, a deer has eyes on the sides of her head. She sees almost all the way round, though she judges distance less well. Her large ears turn towards a sound. Spotted deer feed below langurs, who see far from the treetops and bark at a tiger. To avoid being found, many prey animals use camouflage and keep still. To get away, a blackbuck can run at up to about 80 kilometres an hour and swerves sharply. A house gecko drops her tail, and the wriggling tail holds the hunter's eye while she runs. An octopus squirts ink and jets away. To resist, a pangolin rolls into a ball of hard scales. A porcupine raises her quills, and bees sting together. Living in a group helps in two more ways. Each animal is one among many, so the chance that the hunter picks her is small. Animals in the middle are also shielded by those outside. In Edge or Middle, the marble tiger nearly always catches a chana on the outer ring of the herd. Plants are prey too. They resist with thorns, tough leaves and bitter chemicals.
 - e.g. Noticing: a spotted deer's side-facing eyes and turning ears.
 - e.g. Escaping: a house gecko's tail that breaks off and wriggles.
 - e.g. Resisting: an Indian pangolin's ball of scales.
@@ -108,7 +108,7 @@ In every generation, some deer are a little quicker to notice a tiger. They are 
 ### When a place changes fast, an adaptation can stop fitting · *defined*
 **Definition:** An adaptation fits the place where it arose. If the place changes quickly, the same feature may stop helping, or may even do harm.
 
-The peppered moth of England is pale and speckled. On tree trunks covered with pale lichen, birds seldom found her. In the 1800s, smoke from factories killed the lichen and blackened the trunks around Manchester. Pale moths now stood out, and birds ate them. A rare dark form was hard to see on the dark bark. By 1895 almost all the moths near Manchester were dark. When the air was cleaned after 1956, pale moths became common again. Bodies can follow a change in this way only if it is slow enough, and only over many generations. The great Indian bustard is a large bird of dry grassland. Like many prey birds, she has eyes on the sides of her head. She watches the ground and the sky for foxes and eagles. She sees poorly straight ahead while flying. That did no harm for thousands of years. Now power lines cross her grassland, and bustards fly into the wires and die. Fewer than 150 are left. Vultures can eat rotting meat safely. But a cattle medicine called diclofenac poisoned them. India lost more than 95 of every 100 vultures before the medicine was banned for cattle in 2006.
+The peppered moth of England is pale and speckled. On tree trunks covered with pale lichen, birds seldom found her. In the 1800s, smoke from factories killed the lichen and blackened the trunks around Manchester. Pale moths now stood out, and birds ate them. A rare dark form was hard to see on the dark bark. By 1895 almost all the moths near Manchester were dark. When the air was cleaned after 1956, pale moths became common again. Bodies can follow a change in this way only if it is slow enough, and only over many generations. The great Indian bustard is a large bird of dry grassland. Like many prey birds, she has eyes on the sides of her head. She watches the ground and the sky for foxes and eagles. She sees poorly straight ahead while flying. That did no harm for thousands of years. Now power lines cross her grassland, and bustards fly into the wires and die. Only about 100 to 150 are left. Vultures can eat rotting meat safely. But a cattle medicine called diclofenac poisoned them. India lost more than 95 of every 100 vultures before the medicine was banned for cattle in 2006.
 - e.g. The peppered moth: pale wings stopped hiding her on sooty bark.
 - e.g. The great Indian bustard: side-facing eyes do not show her the power lines ahead.
 - e.g. Indian vultures: a strong stomach was no defence against a new medicine.
@@ -119,7 +119,7 @@ Not every adaptation has an agreed explanation. A zebra's stripes are bold and e
 - e.g. A zebra standing in short grass is easy for a person to see from far away.
 - e.g. Biting flies land less often on striped surfaces than on plain ones.
 - **Tim Caro and his team:** The stripes keep biting flies away. In 2019 the team dressed horses in striped coats. Flies came near, but few managed to land on the stripes.
-- **Scientists who study heat, such as Alison Cobb:** Black stripes warm up more than white ones in the sun. This may stir small currents of air over the skin and help a zebra to cool.
+- **Scientists who study heat, such as Alison Cobb and Stephen Cobb:** Black stripes warm up more than white ones in the sun. This may stir small currents of air over the skin and help a zebra to cool.
 - **An older view, held since the 1800s:** The stripes are camouflage, or they dazzle a lion when a herd runs. Tests have found little support for this, because lions see the stripes only when they are already very close.
 
 ## Mostly agreed
@@ -153,14 +153,14 @@ Not every adaptation has an agreed explanation. A zebra's stripes are bold and e
   Against: Plants defend themselves with thorns, tough leaves and bitter chemicals. In 2014 Heidi Appel and Rex Cocroft played the vibrations of a chewing caterpillar to cress plants. When caterpillars later fed on those plants, the plants made more defence chemicals than plants kept in silence.
 - **A mimic stays safe however many mimics there are.** (An easy thing to assume.; *debated*)  
   For: When the model is very nasty, hunters stay away from the pattern even if mimics are common. Jane Brower found this with starlings and bitter mealworms in 1960.  
-  Against: When the model is only mildly unpleasant, or is missing, hunters soon learn that the pattern is safe. In places with no coral snakes, clay copies of their harmless mimic were attacked far more often.
+  Against: When the model is only mildly unpleasant, or is missing, hunters soon learn that the pattern is safe. In places with no coral snakes, clay copies of their harmless mimic were attacked more often.
 
 ## Roots
 In this unit you poured rava snow on paper trees and hunted paper prey with false warnings. Here we ask what an adaptation depends on, and where a body's safety is kept.
 
 **Deep truth.** In the Copycat Test, the harmless striped squares were left alone while most striped squares tasted bitter. In the second hunt most spotted squares were harmless, and the hunter ate them. A copied warning works only while hunters keep meeting the real, bitter kind. So one animal's safety can depend on the bodies of other animals.  
 *Habit it breaks:* We talk about an adaptation as something an animal owns, like a tool in a bag. But the copied pattern worked in one hunt and failed in the other. What changed was the other squares on the table.  
-*Evidence:* In the Copycat Test only the share of copycats changed, from 2 in 12 to 10 in 12. Jane Brower's jays refused viceroy butterflies only after they had tasted monarchs. David Pfennig's team put out clay copies of a harmless banded snake. In places with no coral snakes, the copies were attacked far more often.
+*Evidence:* In the Copycat Test only the share of copycats changed, from 2 in 12 to 10 in 12. Jane Brower's jays refused viceroy butterflies only after they had tasted monarchs. David Pfennig's team put out clay copies of a harmless banded snake. In places with no coral snakes, the copies were attacked more often.
 
 - *who am i:* You depend on shared warnings too. A red traffic light keeps you safe only while most drivers stop at red.
 - *what is life:* No living being is adapted alone. A deer's speed answers the tiger, and a tiger's stripes answer the deer's eyes.
@@ -504,7 +504,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
   *Parent says:* What did people change in her place? Find one number that shows what happened to her kind. Now look at her three adaptations again. Is there one that does not help against the new danger?  
   *Child mode:* What did people change? Find one number as evidence. Which adaptation fails now?
   - Ask: Why can her body not simply change to fit the new danger? (good: Bodies change over many generations.; The place changed in a few years.; Too few are left to have many young.)
-  - Note: Examples of a number: fewer than 150 great Indian bustards are left. India lost more than 95 of every 100 vultures.
+  - Note: Examples of a number: only about 100 to 150 great Indian bustards are left. India lost more than 95 of every 100 vultures.
   - Wait: Do this on day 2
 - **s3 (15 min)**  
   *Parent does:* Your child makes a poster with four boxes: her place, her adaptations, what changed, and what people can do. Then they give a three-minute talk to the family. The family asks two questions.  
@@ -675,9 +675,9 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
    **Answer:** Matching the background → A nightjar on dry leaves; Disruptive pattern → A tiger's stripes in tall grass; Countershading → A fish with a dark back and a pale belly; Masquerade → A butterfly who looks like a dead leaf. *Why:* Matching blends with the background. A disruptive pattern breaks the outline. Countershading cancels the belly's shadow. Masquerade makes the animal look like some other thing.
 
 ## Videos
-- **Peppered moths on pale and sooty tree trunks: how birds changed the moths of England** (, 5 min) id `to find`: To see how well a pale moth hides on lichen and how clearly she shows on dark bark. *Check:* No address yet. Find a clip from a museum, a university or a well-known science channel. Check that it shows both forms on both kinds of bark. Check that it does not say single moths turned dark.
-- **Mimicry in Indian butterflies: the common mormon and the common rose** (, 5 min) id `to find`: To see the model and the mimic from the story The Third Butterfly flying, and to compare their bodies. *Check:* No address yet. Find a clip from an Indian research institute, a butterfly park or a nature channel. Check that the butterflies are named correctly and that only females are called mimics.
-- **A cheetah chasing an antelope who turns sharply** (, 4 min) id `to find`: To see a faster hunter overshoot when the prey swerves, as the chaser does in Turn or Sprint. *Check:* No address yet. Find a clip from a wildlife film maker or a university. Watch it first, because some hunts end in a kill. Choose one where the chase and the turn can be seen clearly.
+- **The Peppered Moth** (guardianwitness, 5 min) id `OmwF2h1iAAM`: To see how well a pale moth hides on lichen and how clearly she shows on dark bark. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **FEMALE Common Mormon Butterfly** (kidowmer, 5 min) id `TF5qpAfvti0`: To see the model and the mimic from the story The Third Butterfly flying, and to compare their bodies. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Cheetah chases a Gazelle | Which one will outrun the other? #NatGeoWild** (National Geographic India, 4 min) id `S18rcISMqmc`: To see a faster hunter overshoot when the prey swerves, as the chaser does in Turn or Sprint. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which of these is an adaptation?  
@@ -719,7 +719,7 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 - Soldiers' uniforms and bird-watchers' hides use camouflage patterns that break up the outline, as a tiger's stripes do.
 - In Rajasthan, people hang shining flaps called bird diverters on power lines. The flaps help great Indian bustards to see the wires.
 - Farmers in Botswana painted eyes on the rumps of cattle. Lions hunt by ambush, and during the four-year study no painted cow was killed.
-- In the Sundarbans in the 1980s, honey collectors wore face masks on the back of the head. Tigers usually attack from behind.
+- In the Sundarbans in the 1980s, honey collectors wore face masks on the back of the head. Tigers are said to attack from behind.
 - Farmers in Assam hang ropes smeared with chilli around fields. The burning chemical that protects the chilli plant also turns elephants away.
 - Houses in Himachal Pradesh and Kashmir have steep sloping roofs. Snow slides off before the weight can break the roof.
 
@@ -780,7 +780,7 @@ Fit for This Place (sci.habitats.L5): Topic-level song
 - [Great Indian bustard (Wikipedia)](https://en.wikipedia.org/wiki/Great_Indian_bustard) · interactive: For the project An Animal at Risk: where the bird lives, how many are left and why.
 - [Bannerghatta Biological Park, with its butterfly park](https://en.wikipedia.org/wiki/Bannerghatta_Biological_Park) · place · Bengaluru, Karnataka: To see live butterflies with warning colours, and to look for mimics among them.
 - [Pichavaram mangrove forest](https://en.wikipedia.org/wiki/Pichavaram) · place · Near Chidambaram, Tamil Nadu: To see mangrove trees on stilt roots from a boat.
-- [Desert National Park](https://en.wikipedia.org/wiki/Desert_National_Park) · place · Near Jaisalmer, Rajasthan: The dry grassland where most of the last great Indian bustards live.
+- [Desert National Park](https://en.wikipedia.org/wiki/Desert_National_Park) · place · Near Jaisalmer, Rajasthan: The dry grassland where many of the last great Indian bustards live.
 
 ## Things to buy
 - [Dry rava (sooji), a small packet](https://www.amazon.in/s?k=rava+sooji) (material): For the rava snow in the Snow Load Test. Most kitchens have it already. Fine salt or sugar also works. Used in e1, c2. 
