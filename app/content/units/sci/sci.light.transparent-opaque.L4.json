@@ -193,7 +193,7 @@
    "concept": "Why glass is clear and a ruby is red: electrons and energy",
    "status": "defined",
    "definition": "A material soaks up light only when the light carries the right amount of energy for its electrons to take in. Taking in that energy is called a jump. In glass, the smallest jump needs more energy than visible light carries, so visible light passes on. Ultraviolet light has more energy, and glass soaks it up.",
-   "description": "Everything is made of atoms, and atoms have electrons. An electron can take energy from light, but only in a jump of one particular size. Light comes in tiny packets of energy called photons. A photon of red light carries less energy than a photon of violet, and a photon of ultraviolet carries even more. In glass, the electrons are held tightly. The smallest jump they can make needs more energy than any photon of visible light carries. So visible light cannot be soaked up, and it passes on. That is why glass is clear. Ultraviolet photons are strong enough for the jump, so ordinary window glass soaks up most of the ultraviolet B that causes sunburn. In a metal, some electrons are free to move, and they soak up and bounce back all visible light, so metals are opaque and shiny. Pure aluminium oxide is clear. A trace of chromium turns it into a red ruby. A trace of iron and titanium turns it into a blue sapphire. Thick window glass looks green at its edge because of a trace of iron in it. A tiny impurity can make a clear crystal red, because it adds a jump of just the right size to soak up one colour.",
+   "description": "Everything is made of atoms, and atoms have electrons. An electron can take energy from light, but only in a jump of one particular size. Light comes in tiny packets of energy called photons. A photon of red light carries less energy than a photon of violet, and a photon of ultraviolet carries even more. Ultraviolet is an invisible kind of light that carries more energy than violet light. In glass, the electrons are held tightly. The smallest jump they can make needs more energy than any photon of visible light carries. So visible light cannot be soaked up, and it passes on. That is why glass is clear. Ultraviolet photons are strong enough for the jump, so ordinary window glass soaks up most of the ultraviolet B that causes sunburn. In a metal, some electrons are free to move, and they soak up and bounce back all visible light, so metals are opaque and shiny. Pure aluminium oxide is clear. A trace of chromium turns it into a red ruby. A trace of iron and titanium turns it into a blue sapphire. Thick window glass looks green at its edge because of a trace of iron in it. A tiny trace of another material can make a clear crystal red. The trace adds electrons that can take a jump of just the right size to soak up the blue and green light. The red light passes on, so the crystal looks red.",
    "examples": [
     "Ordinary window glass passes visible light, but blocks most of the ultraviolet B that burns the skin.",
     "A ruby and a sapphire are both aluminium oxide, a clear crystal with different traces of other materials.",
@@ -409,7 +409,7 @@
   {
    "q": "A wall that stops light lets some radio waves through, and the Earth lets neutrinos through. Is anything really solid?",
    "kind": "deep",
-   "hint": "A wall can stop light and stop a hand, and still let a neutrino through."
+   "hint": "Think about what the word solid means. A wall stops light and stops your hand, yet neutrinos pass straight through it. So whether something is solid depends on what is trying to get through."
   },
   {
    "q": "Some windows are see-through from one side only. Who decides who can see in and who can see out?",
@@ -496,7 +496,7 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at the hub of a wheel, but the empty space in the hub is what makes the wheel work. Clay is shaped into a pot, but the emptiness inside is what makes the pot useful. We cut doors and windows for a room, and it is the empty places that make the room useful.",
-    "link": "A window is useful because it is the part of the wall that does not stop the light. Like the empty space inside the pot, the part we do not notice is often the part that does the work."
+    "link": "A window is useful because it is the part of the wall that does not stop the light. In the same way, the empty space inside a pot is what lets it hold water. The part we do not notice is often the part that does the useful work."
    },
    {
     "source": "Plato, Republic, Book 7 (the allegory of the cave)",
@@ -532,7 +532,7 @@
   "ask": [
    "If you cannot see a thing, is it still there? How could you find out?",
    "A glass marble almost vanishes in honey. Is it the marble that changed, or the way you see it?",
-   "An eye cannot be completely see-through, because it must stop some light to see. Can you think of something else that has to be given up in order to know something?"
+   "An eye must stop some light in order to see, so it cannot be completely see-through. Can you think of another time when you have to give up one thing in order to get another?"
   ],
   "art": "A hand holding a steel tumbler of pond water in front of a black cloth, with tiny nearly clear fish showing only as dark eye dots and silver threads."
  },
@@ -1139,7 +1139,7 @@
        ]
       }
      ],
-     "parent": "Optional. This step needs a third lens, such as the other lens from the second pair. Two pairs of sunglasses give four lenses, so a third is easy to find. Skip this step if you only have two lenses. It works best when the third lens is turned halfway between the two crossed ones. The third lens turns the direction of the wiggle partway, so the last lens can pass a part of it. The light that comes back is dim but clear against the dark, so hold the lenses up to a very bright window and be patient.",
+     "parent": "Optional. This step needs a third lens, such as the other lens from the second pair. Two pairs of sunglasses give four lenses, so a third is easy to find. Skip this step if you only have two lenses. It works best when the third lens is turned halfway between the two crossed ones. The middle lens lets through only the wiggles that run along its own direction. That direction is slanted compared with both of the other lenses. So the last lens can now pass a part of the light. The light that comes back is dim but clear against the dark, so hold the lenses up to a very bright window and be patient.",
      "think": "Adding a third see-through lens made the dark window brighter. What does that say about how the filters work?",
      "context": "In this step, you try an optional trick: a third lens between two crossed lenses."
     },
@@ -1627,7 +1627,7 @@
      "id": "s3",
      "mins": 15,
      "do": "A grown-up helps to cut strips of tape about 3 centimetres long. Stick the strips onto the plastic, in layers, following your plan. Lay each layer across the one below, not in line with it. Press out the bubbles. Stick the first layer for every part, then the second layers, and so on.",
-     "say": "Stick the first layer of tape for every part. Then the second layer on the parts that need two. Then the third. Press out bubbles. Lay each new strip across the one below.",
+     "say": "Stick the first layer of tape for every part. Then the second layer on the parts that need two. Then the third. Press out bubbles. Lay each new strip across the one below. Clear tape is made of stretched plastic. That stretching can twist the wiggle direction of light going through it, and each layer twists it a bit more.",
      "kid": "Cut strips of tape. Stick them on the plastic in layers. Press out bubbles.",
      "adult": true,
      "parent": "The tape does not need to cover the whole sheet. A flower shape in the middle looks best. Cross each layer over the last at a slant, because colours are stronger when the layers lie in different directions. Plain clear tape gives more colour than matt tape. Ordinary cello tape from a stationery shop works; brown or masking tape does not. Each child can make their own small flower, and several children can share one screen and one lens by taking turns.",
@@ -2242,7 +2242,7 @@
       "Your skin is made of glass"
      ],
      "a": 0,
-     "why": "If your body stopped a share of them, they would warm you or be detected. Almost all pass through, and only a very tiny number are stopped. So a person is nearly see-through to neutrinos.",
+     "why": "If your body stopped many neutrinos, you would feel warmth, or detectors would catch them in you. In fact almost all of them pass straight through, and only a tiny number are stopped. So a person is nearly see-through to neutrinos.",
      "outcome": 6
     },
     {
@@ -2620,7 +2620,7 @@
     "The lens soaks up the screen"
    ],
    "a": 0,
-   "why": "A polarising lens blocks light that wiggles across it. If the screen goes dark at one angle, the light from the screen must wiggle in only one direction.",
+   "why": "A polarising lens lets through light that wiggles in one direction, and blocks light that wiggles across that direction. If the screen goes dark at one angle, the light from the screen must wiggle in only one direction.",
    "outcome": 5
   },
   {
@@ -2802,7 +2802,7 @@
   "Why do you think wet clothes look darker than dry ones?",
   "If a fish was see-through, where would you look for her?",
   "Which things at home let Wi-Fi through, and which things block it?",
-  "Hold your hand over a phone torch in a dark room. What colour does it glow? What does that tell you about your hand?",
+  "Hold your hand over a phone torch in a dark room. It glows red, so red light is getting through your hand. Your hand stops most of the other colours. What does that tell you about your hand?",
   "What would the world be like if all windows were mirrors on the outside? Who would be happy, and who would not?"
  ],
  "jokes": [

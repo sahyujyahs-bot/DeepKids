@@ -310,7 +310,7 @@
    "concept": "Why our eyes see only a thin slice of the family",
    "status": "idea",
    "definition": "",
-   "description": "Our eyes catch light with wavelengths from about 0.0004 to 0.0007 millimetres. That is a very thin slice of the whole family. There are several likely reasons. The Sun gives out most of its light in this slice. The air and water let this slice through, while they block much of the ultraviolet and some of the infrared. A cell that catches visible light needs a certain amount of energy, which is the amount a visible photon carries. Many scientists think animals ended up using this slice because it was bright, and because it could reach the ground. Other animals use different slices. Bees and many birds see some ultraviolet. Pit vipers sense infrared. These reasons are not proven, but they fit what we know.",
+   "description": "Our eyes catch light with wavelengths from about 0.0004 to 0.0007 millimetres. That is a very thin slice of the whole family. There are several likely reasons. The Sun gives out most of its light in this slice. The air and water let this slice through, while they block much of the ultraviolet and some of the infrared. The cells in an eye that catch light need photons with a certain amount of energy, and a visible photon carries about that amount. Photons with much less energy are too weak for the cells to notice. Photons with much more energy can damage them. Many scientists think animals ended up using this slice because it was bright, and because it could reach the ground. Other animals use different slices. Bees and many birds see some ultraviolet. Pit vipers sense infrared. These reasons are not proven, but they fit what we know.",
    "examples": [
     "Bees see ultraviolet patterns on flowers that look plain to us.",
     "Pit vipers sense infrared heat from warm prey in darkness.",
@@ -476,7 +476,7 @@
   {
    "q": "Radio waves from phones and radio stations pass through your body all day. Why do you not feel them?",
    "kind": "big",
-   "hint": "Think about which members of the family your skin and eyes respond to, and about how much energy each photon of radio carries."
+   "hint": "Think about which kinds of light your eyes and skin can notice. Then think about how much energy one photon of radio waves carries. It is very small."
   },
   {
    "q": "In 1967 Jocelyn Bell, a student, spotted the first pulsar in a long paper chart from a radio telescope. Her supervisor shared a Nobel Prize for it in 1974, and she did not. Who should get the credit when a discovery is made by a team?",
@@ -484,7 +484,7 @@
    "hint": "Think about who noticed the signal, who built the telescope, and who explained what it meant. Many scientists think she was treated unfairly."
   },
   {
-   "q": "Sunlight pushes so little that you do not notice it, yet in space it can move a spacecraft. Does a small push that never stops count for more than a big push that stops?",
+   "q": "Sunlight pushes so gently that you never notice it. Yet in space, where nothing slows a spacecraft down, that gentle push can move it. Which can do more, a small push that never stops, or a big push that lasts only a moment?",
    "kind": "big",
    "hint": "Think about how a very small push on a swing, repeated at the right moment, can build up."
   },
@@ -588,7 +588,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "The family of waves is a physical fact and nothing more. Words like 'dark' and 'visible' describe our eyes, not the world. It holds no deeper lesson about the limits of what we can know. This is a fair view to hold."
+   "view": "The family of waves is a physical fact and nothing more. Words like dark and visible describe our eyes, not the world. Some physicists say it holds no deeper lesson about the limits of what we can know. That is a fair view to hold."
   },
   "practice": {
    "title": "Feel the light you cannot see",
@@ -2118,7 +2118,7 @@
      "id": "s3",
      "mins": 15,
      "do": "Make the room dark. Put the phone torch 50 centimetres from the paper, on one side, pointing at it. Put the key-ring torch on the other side, close to the paper. Look at the paper from beside the phone torch. Slide the key-ring torch away slowly until the spot almost vanishes. Measure both distances.",
-     "say": "Look at the spot. Is it darker or brighter than the paper around it? Slide the small torch slowly. When the spot vanishes, both sides are getting the same light. Stop and measure.",
+     "say": "Look at the spot. Is it darker or brighter than the paper around it? The oiled spot lets more light pass through and bounces less back. So from the side that gets more light, it looks darker than the paper. From the other side, it looks brighter. Slide the small torch slowly. When both sides get the same light, the spot looks just like the paper and seems to vanish. Stop and measure.",
      "kid": "Slide the small torch away slowly. Stop when the spot almost vanishes. Measure both distances.",
      "parent": "The spot looks dark when the near side is brighter, and bright when the far side is brighter. It nearly vanishes when the two sides get equal light. Look from one side, a little off the line of the torches, so you do not block the light. Take your time. The point of vanishing is a range of a few centimetres, so choose the middle. Repeat twice. The room must be properly dark, or the spot will never vanish. The rule works best when the torches are not too close, so if the key-ring torch ends up nearer than about 10 centimetres, move the phone torch further away (up to 80 centimetres) and start again. Real ratios vary a lot, from about 3 to 20 times, depending on the torches. With 2 to 4 children: one slides the key-ring torch, one watches the spot from the side, one measures and one writes. One child alone: tape the phone torch down and slide the key-ring torch yourself.",
      "context": "In this step, you find where the two torches give the same light, using the spot as the judge."
@@ -2127,7 +2127,7 @@
      "id": "s4",
      "mins": 10,
      "do": "Write the two distances. Multiply each distance by itself. Divide the bigger answer by the smaller one. This is how many times brighter the phone torch is.",
-     "say": "How much light thins out depends on the distance multiplied by itself. So we multiply each distance by itself. Then we divide. For example, if the phone is at 50 and the key-ring is at 20, then 50 times 50 is 2500 and 20 times 20 is 400. 2500 divided by 400 is about 6.",
+     "say": "Light thins out as it spreads over a bigger area. Twice as far covers 2 times 2, which is 4 times the area. So we multiply each distance by itself. Then we divide the bigger answer by the smaller one. For example, say the phone is at 50 and the key-ring is at 20. Then 50 times 50 is 2500, and 20 times 20 is 400. 2500 divided by 400 is about 6.",
      "kid": "Multiply each distance by itself. Divide the bigger by the smaller. That is how many times brighter.",
      "check": {
       "t": "mcq",
@@ -2271,7 +2271,7 @@
     "a dark room"
    ],
    "general": [
-    "Bring the torch closer to the page. Light thins out with distance, so closer is brighter.",
+    "Place the torch exactly 50 centimetres from the page, which is the nearest the rules allow. Light thins out with distance, so closer is brighter.",
     "Point the torch at a white wall or ceiling, and let the wall's light fall on the page.",
     "Stand the torch inside a clear jar or tumbler on its side so the light spreads over the page."
    ],
@@ -3310,7 +3310,7 @@
   "A bee sees patterns on a flower that you cannot see. What do you think the flower looks like to her?",
   "Why is it helpful to keep a thermometer in the shade when you test the others in the sun?",
   "Where does the energy in your breakfast come from?",
-  "What is the farthest thing you have ever seen? How old is its light?",
+  "Light takes time to travel, so the light we see from far away left a long time ago. Sunlight takes about 8 minutes to reach you. What is the farthest thing you have ever seen? How old do you think its light is?",
   "If light can push, why can you not feel sunlight pushing you?",
   "What question would you ask Herschel if you could stand in his room?"
  ],

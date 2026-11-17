@@ -169,7 +169,7 @@
    "concept": "A nail near a magnet becomes a magnet itself",
    "status": "defined",
    "definition": "A piece of iron near a magnet becomes an induced magnet. The magnet turns the domains inside the iron to point one way, and the iron becomes a magnet for as long as the magnet stays near.",
-   "description": "Why does a magnet pick up a plain nail at all? A plain nail is not a magnet. Its domains point in all directions and cancel out. When a magnet comes near, its magnetic field turns the domains in the nail to point the same way. Now the nail is a magnet too, with its own north and south poles. The end of the nail closest to the magnet's north pole becomes a south pole, and a north pole and a south pole attract. So a magnet never attracts plain iron directly. It first makes the iron into a magnet, and then the two magnets attract each other. This is also why a chain of clips can hang from a magnet. Each clip becomes a magnet and holds the next one.",
+   "description": "Why does a magnet pick up a plain nail at all? A plain nail is not a magnet. Its domains point in all directions and cancel out. A magnet has a magnetic field, which is the space around it where its pull can be felt. When a magnet comes near, its magnetic field turns the domains in the nail to point the same way. Now the nail is a magnet too, with its own north and south poles. The end of the nail closest to the magnet's north pole becomes a south pole, and a north pole and a south pole attract. So a magnet never attracts plain iron directly. It first makes the iron into a magnet, and then the two magnets attract each other. This is also why a chain of clips can hang from a magnet. Each clip becomes a magnet and holds the next one.",
    "examples": [
     "A nail touching a magnet can pick up pins. Pull the magnet away and most pins fall.",
     "Either end of a plain iron nail pulls a compass needle. The needle is a small magnet, so it makes the nail into a magnet, and the two attract.",
@@ -182,7 +182,7 @@
    "concept": "Why two hanging nails spread apart like a V",
    "status": "defined",
    "definition": "Two nails hanging from the same pole of a magnet spread apart because both become magnets with the same kind of pole at their free ends, and two poles of the same kind repel.",
-   "description": "Touch the heads of two nails to the north pole of a magnet. Each nail becomes an induced magnet. The head, next to the magnet's north pole, becomes a south pole. The far end, the tip, must then be a north pole. Both tips are north poles, and two north poles repel. So the tips push each other apart, and the two nails hang in a V. If you use the magnet's south pole instead, the same thing happens, and both tips are south poles. The longer the nails are, the further their tips are from the magnet and from each other, so they have more room to spread.",
+   "description": "Touch the heads of two nails to the north pole of a magnet. Each nail becomes an induced magnet. The head, next to the magnet's north pole, becomes a south pole. The far end of each nail, the tip, is then a north pole, because every magnet has a north pole at one end and a south pole at the other. Both tips are north poles, and two north poles repel. So the tips push each other apart, and the two nails hang in a V. If you use the magnet's south pole instead, the same thing happens, and both tips are south poles. The longer the nails are, the further their tips are from the magnet and from each other, so they have more room to spread.",
    "examples": [
     "Two pins hanging from one magnet spread at the tips.",
     "Three pins hang as a small bunch, with the tips pushing apart as far as they can.",
@@ -260,7 +260,7 @@
    "concept": "Keepers: why magnets are stored in pairs",
    "status": "defined",
    "definition": "A keeper is a piece of soft iron laid across the poles of a magnet. It gives the magnet's field an easy path from one pole to the other, and helps the magnet to stay strong.",
-   "description": "A bar magnet works slightly against itself. Its own north pole sits not far from its own south pole, and the field from one pole tends to turn the domains near the other pole backwards. Over many years, this can make the magnet weaker. A keeper is a small bar of soft iron. When it lies across the poles, the field runs through the iron instead of around through the air, and the magnet's domains are not pushed backwards. Shops once kept horseshoe magnets with a flat iron bar across their ends. Two bar magnets stored side by side with opposite poles together, and a keeper at each end, hold in the field in the same way. The magnets that need this most are made from materials like alnico. Modern ferrite and neodymium magnets keep their magnetism far better and need less care.",
+   "description": "A bar magnet slowly weakens itself. Its own north pole sits close to its own south pole. The field that comes out of one pole can turn the domains near the other pole backwards. Over many years, this can make the magnet weaker. A keeper is a small bar of soft iron. When it lies across the poles, the field runs through the iron instead of around through the air, and the magnet's domains are not pushed backwards. Shops once kept horseshoe magnets with a flat iron bar across their ends. Two bar magnets stored side by side with opposite poles together, and a keeper at each end, hold in the field in the same way. The magnets that need this most are made from materials like alnico. Modern ferrite and neodymium magnets keep their magnetism far better and need less care.",
    "examples": [
     "A horseshoe magnet with a flat iron bar across its ends.",
     "Two bar magnets stored in a box side by side, north next to south, with an iron bar across each end.",
@@ -453,17 +453,17 @@
   {
    "q": "The magnetic force beats the whole Earth's gravity, yet we say gravity is the force that holds the universe together. How can the weaker force be the one that shapes planets and stars?",
    "kind": "big",
-   "hint": "Think about what adds up over a huge amount of stuff, and what cancels."
+   "hint": "Gravity only ever pulls, so the pull from every bit of a planet adds up. Magnetic pushes and pulls often cancel each other out over a big lump of matter. Think about which one wins when there is a huge amount of stuff."
   },
   {
    "q": "The same domains that make a fridge magnet also store the songs on a hard disk. Does knowing that a song is held by tiny magnetised regions change how you feel about the music?",
    "kind": "big",
-   "hint": "Are you still the same you if you know what your brain is made of?"
+   "hint": "You are still the same person after you learn what your brain is made of. Think about whether knowing how something works makes it less special."
   },
   {
    "q": "Two people who work together to move a heavy thing both move it, but only one might get the thanks. Who does the 'pulling' in a team?",
    "kind": "big",
-   "hint": "Who is the nail, and who is the magnet?"
+   "hint": "Think of a team moving a heavy table. Everyone pulls on the table, and the table pulls back on everyone. Who in a team is easy to notice, and who might be missed?"
   },
   {
    "q": "Newton thought it was absurd that one thing could pull another across empty space. Faraday, who had no university education, found a way to picture it. Why do you think a new way of seeing sometimes comes from outside the usual path?",
@@ -478,7 +478,7 @@
   {
    "q": "A repulsion is stronger proof of a magnet than an attraction. What other kinds of evidence are stronger when they say 'no' than when they say 'yes'?",
    "kind": "deep",
-   "hint": "Think about a fever test, or a lock that does not open."
+   "hint": "A key that opens a lock does not prove it is the right key, because other keys might open it too. Think of other tests where one result proves something, but the opposite result proves very little."
   }
  ],
  "story": {
@@ -810,7 +810,7 @@
       },
       {
        "f": "The core of a transformer.",
-       "b": "DROP. It must follow the changing electric current, so it is made of thin sheets of soft iron."
+       "b": "DROP. The electric current in a transformer keeps changing direction many times a second. The core must gain and lose its magnetism just as fast, so it is made of thin sheets of soft iron."
       },
       {
        "f": "The coating on a hard disk.",
@@ -834,7 +834,7 @@
       },
       {
        "f": "The cores of the coils inside an electric fan motor.",
-       "b": "DROP. The cores follow the changing current, so they are made of soft iron sheets."
+       "b": "DROP. The current in a motor keeps changing direction, so the cores must gain and lose their magnetism quickly. They are made of soft iron sheets."
       },
       {
        "f": "A magnet in earphones.",
@@ -865,8 +865,8 @@
        "b": "KEEP. The strip must stay magnetised for years to keep pulling the door shut."
       },
       {
-       "f": "The needle of a school ammeter that is moved by a coil.",
-       "b": "KEEP. A small permanent magnet is used so that the needle moves in the same direction every time."
+       "f": "The magnet inside a school ammeter, which is a meter that shows how much electricity flows in a wire. A coil of wire moves the needle.",
+       "b": "KEEP. The ammeter uses a small permanent magnet, so the needle always moves the same way for the same current."
       }
      ]
     },
@@ -938,7 +938,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Play the last eight cards. Stop at a card with a coil of wire and ask the check question.",
-     "say": "Some of these jobs use a coil of wire and electricity. A coil can make a magnet that switches on and off. What must the middle of the coil be made of?",
+     "say": "An electromagnet is a coil of wire with electricity running through it. While the electricity flows, the coil acts as a magnet. Some of these jobs use a coil like this. What must the middle of the coil be made of?",
      "kid": "Play the last eight cards. Some use a coil. Think about what the middle of the coil must be made of.",
      "check": {
       "t": "mcq",
@@ -1094,7 +1094,7 @@
       "a": 0,
       "why": "A control trial swaps out the one thing we want to test, here the nails. If the rafts do not move with a pencil, then the moves in the next trials must come from the nails. Picking 'wood is the best raft' mixes up the raft with the thing on it."
      },
-     "parent": "Nothing should happen. If the rafts drift together, they are too close. Floating things within about 2 centimetres pull each other together because of the water's skin. That is why we start 8 centimetres apart. If they drift, wait longer for the water to calm and try again.",
+     "parent": "Nothing should happen. If the rafts drift together, they are too close. Floating things that are very close, within about 2 centimetres, drift together because of the way the surface of the water pulls on them. This has nothing to do with magnetism. That is why we start 8 centimetres apart. If they drift, wait longer for the water to calm and try again.",
      "context": "In this step you run a control trial, with a pencil instead of the nails."
     },
     {
@@ -1670,7 +1670,7 @@
      "do": "Sort the pieces into two piles, real magnets and plain iron. Write your verdict for each. Then the helper tells you which were magnets. Count how many verdicts were right.",
      "say": "Make two piles. Which pieces pushed? Those are your magnets. Which only pulled? Those are plain iron. Now the helper tells you which were magnets. How many did you get right?",
      "kid": "Make two piles. Magnets and plain iron. Now check. How many were right?",
-     "think": "A pull can fool you, and a push cannot. What other tests are good at saying no but not yes?",
+     "think": "A pull can fool you, because plain iron pulls too. A push cannot fool you, because only a magnet pushes. Can you think of another test where one result proves something, but the opposite result proves very little?",
      "parent": "If a verdict was wrong, look at the notes together. A very weak magnet can look like plain iron. So the safest verdicts are 'one end pushed, so it is a magnet' and 'both ends only pulled, so it is probably plain iron'.",
      "context": "In this step you sort the pieces and find out how many you got right."
     },
@@ -2472,7 +2472,7 @@
      "do": "Show your door to someone. Ask your child to explain how it works, using the words magnet, steel, pull and gap.",
      "say": "Show someone your door. Explain how it works. Use the words magnet, steel, pull and gap.",
      "kid": "Show your door. Tell someone how it works.",
-     "think": "A good catch holds when it should and lets go when it should. What other things in life work like that?",
+     "think": "A good catch holds when it should and lets go when you want it to. Can you think of other things, such as a door latch or a school bag clip, that work like that?",
      "context": "In this last step you show your door and explain how the catch works."
     }
    ]
@@ -2844,7 +2844,7 @@
      "t": "truefalse",
      "p": "Storing a bar magnet loose in a drawer with steel tools always keeps it as strong as it was.",
      "a": false,
-     "why": "False. Steel tools can pull on the magnet's field and may slowly change it. Magnets are better stored in pairs with their poles reversed and an iron keeper at each end.",
+     "why": "False. Steel tools near the magnet become magnets themselves and pull on the magnet's field. Over time this can weaken the magnet. Magnets are better stored in pairs with their poles reversed and an iron keeper at each end.",
      "outcome": 5
     },
     {

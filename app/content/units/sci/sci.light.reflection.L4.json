@@ -162,7 +162,7 @@
    "concept": "Smooth surfaces and rough surfaces",
    "status": "defined",
    "definition": "A very smooth surface sends light back in neat order and makes an image. A rough surface scatters light in all directions and makes no image, but can be seen from anywhere.",
-   "description": "Picture a bundle of parallel rays landing on a mirror. They all meet a flat surface, so they all bounce off together, in the same new direction. Your eye, in the right place, collects the whole bundle and sees a picture. Now picture the same rays landing on white paper. Under a microscope, paper is a tangle of tiny fibres, with bumps and slopes facing every way. Each ray meets a differently tilted bump, so each bounces off in a different direction. The light is scattered. No picture forms, but light leaves the paper in every direction, so you can see the paper from any side of the room.",
+   "description": "Picture a bundle of rays, all travelling side by side in the same direction, landing on a mirror. They all meet a flat surface, so they all bounce off together, in the same new direction. Your eye, in the right place, collects the whole bundle and sees a picture. Now picture the same rays landing on white paper. Under a microscope, paper is a tangle of tiny fibres, with bumps and slopes facing every way. Each ray meets a differently tilted bump, so each bounces off in a different direction. The light is scattered. No picture forms, but light leaves the paper in every direction, so you can see the paper from any side of the room.",
    "examples": [
     "A bathroom mirror and still water give a clear image of your face.",
     "A white wall scatters light, and looks the same from every corner of a room.",
@@ -214,7 +214,7 @@
    "concept": "Every surface turns into a mirror at a low enough angle",
    "status": "defined",
    "definition": "At a very low, glancing angle, even a dull surface reflects most of the light in an orderly way and shows a mirror-like image.",
-   "description": "Try this with a plain page. Hold it level, with a lamp on the far side of the room. Look straight down, and the page looks matt. Now lower your head until your eye is almost level with the page and look across it. The page now shows a blurry bright image of the lamp. At a very shallow angle, the light skims across the tiny bumps instead of hitting them, so they behave like a smooth surface. This is why wet roads glare at night. Water on the road smooths it, and the street lights and the car headlights hit it at a glancing angle. A calm lake looks like a mirror at sunset for the same reason. Polarising sunglasses cut down this glare.",
+   "description": "Try this with a plain page. Hold it level, with a lamp on the far side of the room. Look straight down, and the page looks matt. Now lower your head until your eye is almost level with the page and look across it. The page now shows a blurry bright image of the lamp. At a very shallow angle, the light arrives almost flat along the surface. It slides over the tops of the tiny bumps and hardly touches their sides. So the surface behaves almost like a smooth one. This is why wet roads glare at night. Water on the road smooths it, and the street lights and the car headlights hit it at a glancing angle. A calm lake looks like a mirror at sunset for the same reason. Some sunglasses are made with a special coating that cuts down this kind of glare. They are called polarising sunglasses.",
    "examples": [
     "A wet road at night shows long streaks of street lights.",
     "A calm lake at sunrise shows the sky almost perfectly, though it is a poor mirror at noon.",
@@ -240,7 +240,7 @@
    "concept": "Two bounces: the periscope",
    "status": "defined",
    "definition": "A periscope uses two mirrors, each tilted at 45 degrees, to send light round two right-angle turns, so you can see over or round something.",
-   "description": "A mirror tilted at 45 degrees turns a ray through a right angle. In a periscope, light from a scene goes into the top window, hits the top mirror and turns down the tube. At the bottom, it hits the second mirror and turns again, out through the viewing window to your eye. You see the scene as if you were looking from the top of the tube. Two mirrors turn the picture twice. The first turn flips the picture, and the second flips it back. So the picture is upright and the right way round. Submarines used periscopes to look above the waves while the boat stayed hidden. Soldiers in trenches used them to look over the top without raising their heads.",
+   "description": "A mirror tilted at 45 degrees turns a ray through a right angle. In a periscope, light from a scene goes into the top window, hits the top mirror and turns down the tube. At the bottom, it hits the second mirror and turns again, out through the viewing window to your eye. You see the scene as if you were looking from the top of the tube. A single flat mirror reverses a picture. That is why your right hand looks like a left hand in a bathroom mirror. In a periscope the light bounces off two mirrors. The first mirror reverses the picture, and the second mirror reverses it back. So you see the scene upright and the right way round, just as it really is. Submarines used periscopes to look above the waves while the boat stayed hidden. Soldiers in trenches used them to look over the top without raising their heads.",
    "examples": [
     "A submarine periscope lets the crew see ships on the surface.",
     "A child with a cardboard periscope can see over a garden wall.",
@@ -253,7 +253,7 @@
    "concept": "Corner mirrors that send light straight back",
    "status": "defined",
    "definition": "Two mirrors set at a right angle, or three mirrors set like the corner of a box, send light back parallel to the way it came in. Such a device is called a retroreflector.",
-   "description": "A single mirror sends a beam off at an angle. Two mirrors at a right angle make the beam bounce twice, and it comes out parallel to its path in, going back toward the torch. Three mirrors at right angles, like the inside corner of a cardboard box, do this for a beam from any direction. That is why a bicycle reflector, a cat's eye on a road and the reflective strip on a school bag glow when a headlight shines on them. The glow is brightest for someone looking from near the headlight. Astronauts left a set of corner reflectors on the Moon in 1969. It still sends laser flashes back to Earth. In 2023, India's Chandrayaan-3 lander carried one made by NASA.",
+   "description": "A single mirror sends a beam off at an angle. Two mirrors at a right angle make the beam bounce twice, and it comes out parallel to its path in, going back toward the torch. Parallel means running side by side, like the two rails of a railway track, and never meeting. Three mirrors at right angles, like the inside corner of a cardboard box, do this for a beam from any direction. That is why a bicycle reflector, a cat's eye on a road and the reflective strip on a school bag glow when a headlight shines on them. The glow is brightest for someone looking from near the headlight. Astronauts left a set of corner reflectors on the Moon in 1969. It still sends laser flashes back to Earth. In 2023, India's Chandrayaan-3 lander carried one made by NASA.",
    "examples": [
     "A cat's eye in the middle of a highway glows back at the driver.",
     "A reflective strip on a school bag glows brightly in a torch beam, and can look dark in daylight.",
@@ -387,7 +387,7 @@
    "claim": "A periscope turns the picture upside down or back to front.",
    "who": "Some people, because they have seen pictures turned round in a spoon or a single mirror.",
    "for": "A single mirror turns a picture back to front, and a lens can turn it upside down.",
-   "against": "A periscope uses two mirrors. The first mirror flips the picture and the second flips it back. The two flips cancel, so the picture comes out upright and the right way round.",
+   "against": "A periscope uses two mirrors. The first mirror reverses the picture, the way a bathroom mirror swaps your left hand and right hand. The second mirror reverses it back. The two reversals cancel, so the picture comes out upright and the right way round.",
    "status": "rejected",
    "context": "This card is about whether a periscope shows things upside down or reversed."
   },
@@ -417,12 +417,12 @@
   {
    "q": "The Moon reflects only about one eighth of the sunlight that lands on it, yet it lights up the night. If the Moon were a perfect mirror ball, would the night be brighter or darker?",
    "kind": "deep",
-   "hint": "A mirror ball sends each ray in one direction. Imagine standing on the Earth and looking for the bright spot."
+   "hint": "A perfect mirror ball would send each ray of sunlight off in just one direction. Think about whether that one direction would reach your eyes from most places on the Earth."
   },
   {
    "q": "You see your friends only by the light that scatters off them, and you see yourself in a mirror by tidy light. Is the face you see in a mirror the same face your friends see?",
    "kind": "deep",
-   "hint": "A mirror turns front to back. Think about the photographs you have seen of yourself, and which feels more like you."
+   "hint": "A bathroom mirror swaps left and right, so the face you see in it is a reversed version of the face your friends see. Think about photographs of yourself. Which looks more like you, the photograph or the mirror?"
   },
   {
    "q": "If you could make a surface perfectly smooth, down to single atoms, would it look like anything at all?",
@@ -430,9 +430,9 @@
    "hint": "A perfect mirror shows only the things in front of it. Can you see the mirror itself?"
   },
   {
-   "q": "Light picks up something, such as colour, from every surface it bounces off. Is the light in a room a kind of record of everything it has touched?",
+   "q": "When light bounces off a red apple, it carries some red colour away with it. So the light moving around a room has been changed by every surface it has touched. Could you say that this light holds a record of those surfaces?",
    "kind": "deep",
-   "hint": "The colour of a red apple is in the light that reaches your eye. What else is in it?"
+   "hint": "The red of an apple reaches your eye in the light that bounced off it. Think about what else about the apple, or about the room, that light could carry."
   },
   {
    "q": "James Gregory designed a reflecting telescope in 1663, but could not make it work. Isaac Newton built one in 1668. Who invented the reflecting telescope?",
@@ -518,7 +518,7 @@
    {
     "source": "Avatamsaka Sutra, the net of Indra",
     "teaching": "This Buddhist teaching describes a net hung over the world, with a bright jewel at each knot. Each jewel reflects every other jewel in the net, and each of those jewels reflects all the others again, without end.",
-    "link": "Two mirrors facing each other make endless copies, and every bumpy patch of a wall bounces a little of the whole room. Each place holds a trace of all the others."
+    "link": "Two mirrors facing each other make endless copies of each other. A rough wall also sends a little light from every part of the room onto every other part. So each place holds a small trace of all the other places."
    },
    {
     "source": "Rumi, Masnavi, Book 1 (the Greek and the Chinese painters)",
@@ -542,18 +542,18 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "A mirror and a wall differ only in the size of their bumps. The tale of 'tidy light' and 'scattered light' is a way of talking about bump size. Nothing deeper about seeing or about oneself needs to be read into it. This is an honest view."
+   "view": "A mirror and a wall differ only in the size of their bumps. Talking about tidy light and scattered light is just a way of describing that bump size. Some physicists say nothing deeper about seeing or about ourselves needs to be read into it. That is an honest view, and you can hold it too."
   },
   "practice": {
    "title": "Fog and clear",
    "mins": 3,
-   "say": "Take a clean steel tumbler, or a small mirror. Look at your eyes in it. Breathe in slowly. Breathe out onto the steel, and watch your face vanish into fog. Breathe in slowly again. Wait, and watch the fog fade. Your face comes back. Breathe out and in a few more times. Think about how the light was always there. Only the bumps changed.",
+   "say": "Take a clean steel tumbler, or a small mirror. Look at your eyes in it. Breathe in slowly. Breathe out onto the steel, and watch your face vanish into fog. Breathe in slowly again. Wait, and watch the fog fade. Your face comes back. Breathe out and in a few more times. Think about what changed. The light was arriving all the time. The tiny fog drops made the surface rough, and when they cleared, the surface was smooth again.",
    "kid": "Look at your eyes in a steel tumbler. Breathe out onto it. Watch the fog. Wait and watch your face come back."
   },
   "ask": [
-   "A white wall reflects as much light as a mirror, yet it shows no picture. Is that because the wall is hiding something, or because it shows everything at once?",
-   "When you see your face in a mirror, who is looking at whom?",
-   "If everything we see is scattered light, do we ever see a thing as it is, or only what it does to light?"
+   "A white wall sends back almost as much light as a mirror does, yet it shows no picture of your face. Where does the picture go?",
+   "When you see your face in a mirror, light from your face bounces back into your own eyes. So are you seeing yourself, or only the light that came back from you?",
+   "Everything we see is light that bounced off something. So when we look at a thing, are we seeing the thing itself, or only the way it sends light back to us?"
   ],
   "art": "A steel tumbler with half of its surface fogged, showing a face on the clear half and nothing on the fogged half, and a bumpy wall behind it."
  },
@@ -669,7 +669,7 @@
       },
       {
        "f": "The Moon in the night sky.",
-       "b": "No image. The Moon's dust and rock scatter sunlight in every direction. That is why the whole Moon glows. A mirror Moon would show only a tiny bright dot."
+       "b": "No image. The Moon's dust and rock scatter sunlight in every direction. That is why the whole Moon glows. If the Moon were a perfect mirror, it would show only a tiny bright dot of sunlight, not a glowing round face."
       },
       {
        "f": "A bathroom mirror covered in fog after a hot shower.",
@@ -978,7 +978,7 @@
      "say": "Which real thing is like these mazes? Where do mirrors turn a beam through right angles?",
      "kid": "Where do real mirrors turn a beam through a right angle?",
      "context": "In this step, you link the game to a real tool, the periscope.",
-     "think": "A periscope has two mirrors that turn the beam twice. Which two squares of your maze would make a periscope?"
+     "think": "In a periscope, the beam turns at two mirrors, one after the other. Could you draw a maze with just two mirrors that turns a beam in the same way?"
     }
    ]
   }
@@ -1405,7 +1405,7 @@
      "id": "s3",
      "mins": 12,
      "do": "Lay the torch flat on the paper, aimed at the corner at about 20 degrees to the first mirror. Mark two dots on the thin line going in. Mark two dots on the line coming out. Join each pair of dots with a ruler. Use the protractor to measure the angle between the line going in and the line coming out. It should be close to 0 degrees, which means the two lines are parallel. Repeat at about 45 degrees and 70 degrees. Then remove one mirror and try again with one mirror alone.",
-     "say": "Lay the torch down. Mark two dots on the beam going in. Mark two dots on the beam coming out. Join each pair with a ruler. How do the two lines compare? Do the same for a different angle.",
+     "say": "Lay the torch down. Mark two dots on the beam going in. Mark two dots on the beam coming out. Join each pair with a ruler. Two lines are parallel when they run side by side, like the two rails of a railway track. How do the two lines compare? Are they parallel? Do the same for a different angle.",
      "kid": "Mark the beam going in. Mark the beam coming out. Join the dots. How do the lines compare?",
      "parent": "Expected: with two mirrors at a right angle, the line out is parallel to the line in, and goes back the way it came, at all three angles. With one mirror alone, the beam goes off in a different direction every time. Tiny errors are normal. Check that the lines look parallel, not that they match exactly.",
      "check": {
@@ -1418,7 +1418,7 @@
        "Light always goes parallel to everything"
       ],
       "a": 0,
-      "why": "The first mirror turns the beam through some angle, and the second mirror turns it through exactly the opposite amount, because the mirrors are at a right angle. The beam ends up going parallel to its path in, but the other way. Picking 'the mirrors made the beam stronger' is wrong, because a mirror cannot add light."
+      "why": "The first mirror turns the beam through some angle. The second mirror turns it through the same angle again, but the other way round. This works because the mirrors are at a right angle. So the beam ends up going parallel to its path in, but in the opposite direction. Picking 'the mirrors made the beam stronger' is wrong, because a mirror cannot add light."
      },
      "context": "In this step, you follow the beam through the two mirrors at three different angles."
     },
@@ -1740,7 +1740,7 @@
      "do": "Turn the katori round, so that its back faces the torch. Catch the light on the card and move the card as before. Compare it with the inside. Then switch on the room light. Look at your face in the inside of a large steel spoon, at arm's length. Look in the back of the spoon too.",
      "say": "Now the back of the katori. Where does the light go? Is it small and bright, or large and dim? What is different from before?",
      "kid": "Turn the katori round. Shine the torch on its back. Is the spot big or small?",
-     "parent": "The back spreads the beam into a wide, dim patch with no sharp spot. That is why convex mirrors, which curve outward, are used on cars and in shop corners: they show a wide view. This is a good moment to name the two kinds, concave and convex. Expected: the back never makes a small bright spot, only a dim wide patch. In the inside of the spoon your face is usually upside down; in the back it is upright and small.",
+     "parent": "The back spreads the beam into a wide, dim patch with no sharp spot. That is why convex mirrors, which curve outward, are used on cars and in shop corners. They show a wide view. This is a good moment to name the two kinds, concave and convex. Expected: the back never makes a small bright spot, only a dim wide patch. In the inside of the spoon, your face is usually upside down. That happens because the curve makes the rays cross over, which turns the picture over. In the back of the spoon, your face is upright and small.",
      "context": "In this step, you compare the back of the katori with the inside."
     }
    ]
@@ -1921,7 +1921,7 @@
       {
        "q": "Why do you think the picture will come out that way?",
        "good": [
-        "One mirror flips it, and the other flips it back.",
+        "One mirror reverses it, and the other reverses it back.",
         "It will be upside down.",
         "It will be the right way up."
        ]
@@ -1966,7 +1966,7 @@
      "id": "s4",
      "mins": 15,
      "do": "On day 2, slide one wedge into the top of the carton. One of its 7 centimetre sides lies along the top edge. The other 7 centimetre side lies against the back wall. Its mirror faces the front window. Slide the second wedge into the bottom. One of its 7 centimetre sides lies against the front wall, and its mirror faces the back window. Tape both in place. Look into the lower window.",
-     "say": "Top wedge: the mirror faces down and toward the front window. Bottom wedge: the mirror faces up and toward the back window. Both mirrors lean the same way, with their shiny sides facing each other.",
+     "say": "Top wedge: the mirror faces down and toward the front window. Bottom wedge: the mirror faces up and toward the back window. The two mirrors are parallel, which means they are tilted the same way. Their shiny sides face each other.",
      "kid": "Fit the top wedge. Fit the bottom wedge. The mirrors face each other. Look in the lower window.",
      "adult": true,
      "parent": "If you see only black, check that the mirrors face each other and that the windows are on opposite faces. If you see a tilted picture, one wedge is crooked. Press the wedges to sit flat against the walls. The picture should come out upright and the right way round.",
@@ -1983,13 +1983,13 @@
       {
        "q": "Why does the picture come out the right way up?",
        "good": [
-        "The first mirror flips it and the second flips it back.",
-        "The two mirrors cancel each other.",
-        "Two bounces turn it back."
+        "The first mirror reverses it and the second reverses it back.",
+        "The two reversals cancel each other.",
+        "Two bounces turn it back the right way."
        ]
       }
      ],
-     "parent": "The first mirror flips the picture, and the second flips it back. The two flips cancel, so the picture is upright and not reversed. Writing held in front of the top window reads the right way round. A 19 centimetre periscope lifts your eye by only about 12 to 14 centimetres. That is enough to see over a sofa arm, a box or a low wall, not a tall wall. For a taller thing, make a taller tube.",
+     "parent": "A single flat mirror reverses a picture, the way your right hand looks like a left hand in a bathroom mirror. The first mirror reverses the picture, and the second mirror reverses it back. So the picture is upright and not reversed. Writing held in front of the top window reads the right way round. A 19 centimetre periscope lifts your eye by only about 12 to 14 centimetres. That is enough to see over a sofa arm, a box or a low wall, not a tall wall. For a taller thing, make a taller tube.",
      "context": "In this step, you use the periscope and check that its picture is upright."
     }
    ]
@@ -2083,7 +2083,7 @@
        "Mirrors turn the picture upside down"
       ],
       "a": 0,
-      "why": "Each flat mirror flips the picture front to back once. An even number of flips cancels out, so two or four mirrors give an upright picture, while one or three give a reversed one. More mirrors make the picture slightly dimmer, because each mirror loses a little light."
+      "why": "A single flat mirror reverses the picture once, like a bathroom mirror that swaps your left hand and right hand. An even number of mirrors reverses it back, so two or four mirrors give an upright picture. One or three mirrors give a reversed one. More mirrors make the picture slightly dimmer, because each mirror loses a little light."
      },
      "context": "In this step, you check your design and think about what the mirrors do to the picture."
     }
@@ -2422,7 +2422,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In a periscope, the first mirror flips the picture and the second mirror flips it again. What does the viewer see?",
+     "p": "In a periscope, the first mirror reverses the picture and the second mirror reverses it again. What does the viewer see?",
      "opts": [
       "The picture upright and not reversed",
       "The picture upside down",
@@ -2430,7 +2430,7 @@
       "No picture"
      ],
      "a": 0,
-     "why": "The first flip is undone by the second. Two flips cancel out. One flip alone would reverse the picture, as in a single mirror.",
+     "why": "The second reversal undoes the first. Two reversals cancel out. One mirror alone would reverse the picture, as your reflection does in a bathroom mirror.",
      "outcome": 5
     },
     {
@@ -2536,7 +2536,7 @@
      "t": "truefalse",
      "p": "Two mirrors set at a right angle send a beam back parallel to its path in, whatever angle it came in at. True or false?",
      "a": true,
-     "why": "True. The first mirror turns the beam by some angle and the second turns it back by the opposite amount. The beam leaves parallel to the way it came in. A single mirror cannot do this for all angles.",
+     "why": "True. The first mirror turns the beam by some angle. The second mirror turns it by the same angle again, but the other way round. So the beam leaves parallel to the way it came in. A single mirror cannot do this for every angle.",
      "outcome": 6
     },
     {
@@ -2753,8 +2753,8 @@
      "t": "write",
      "p": "Explain why a periscope shows the picture the right way round, although it uses two mirrors.",
      "lines": 3,
-     "a": "Each flat mirror flips the picture once. The first mirror flips it and the second flips it back. Two flips cancel each other, so the picture arrives upright and not reversed.",
-     "why": "A strong answer says each mirror flips the picture, and the two flips cancel.",
+     "a": "Each flat mirror reverses the picture once. The first mirror reverses it and the second reverses it back. The two reversals cancel each other, so the picture arrives upright and not reversed.",
+     "why": "A strong answer says each mirror reverses the picture once, and the two reversals cancel.",
      "outcome": 5
     },
     {
@@ -2962,13 +2962,13 @@
    "t": "mcq",
    "p": "A periscope with just one mirror, instead of two, would show what kind of picture?",
    "opts": [
-    "Reversed, because one flip is not cancelled",
+    "Reversed, because one reversal is not cancelled",
     "Upright, the same as with two mirrors",
     "Upside down",
     "Twice as bright"
    ],
    "a": 0,
-   "why": "Each flat mirror flips the picture front to back once. With two mirrors, the two flips cancel. With one mirror, the flip stays and the picture is reversed.",
+   "why": "Each flat mirror reverses the picture once. With two mirrors, the second reversal undoes the first. With one mirror, the reversal stays and the picture is reversed.",
    "outcome": 5
   },
   {
@@ -3110,7 +3110,7 @@
    "art": "A round convex mirror in the corner of a small shop, showing the aisles and the door."
   },
   {
-   "text": "The side mirror of a car, which says that objects are closer than they appear.",
+   "text": "The side mirror of a car, which has the words \"Objects in mirror are closer than they appear\" printed on it. The mirror curves outward, so it shows a wide view but makes things look smaller and farther away.",
    "art": "A car's side mirror with a small line of writing at its bottom edge."
   },
   {
@@ -3467,5 +3467,5 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Things to verify before release: (1) Where Does the Bounce Go needs a protractor and a very dark room. The mirror's flash is at mark 4, and a phone torch can dazzle, so the steps say to glance only. The five marks and the 45 degree torch mark were worked out from the rule of reflection. (2) Make a Dull Thing Shine: the wet strip may show no gain, which is stated as a possible honest result. Black chart paper wrinkles when damp. (3) Send It Straight Back: the thin slit line is faint, so the room must be dark. Results for two mirrors should come out as parallel lines, with small errors. (4) The Milk-Carton Periscope geometry was worked out with the wedge method: both mirrors lean the same way, shiny sides facing, windows on opposite faces. A 1 litre carton is about 7 centimetres square. Try it with the family's own carton before giving it to a child. (5) Mirror Maze answers were checked by a program. (6) Facts to verify: Michael Land and the scallop eye (1965), Kapany and fibre optics, the NASA retroreflector on Chandrayaan-3, the idea that earliest writers on the siege of Syracuse do not mention mirrors, and the Auroville solar kitchen link. Videos still need to be found.",
- "warm": {"words": ["LIGHT", "IMAGE", "SHINY", "GLARE", "CURVE"], "quiz": [["A white wall reflects light, but it scatters it in every direction.", true, "Rough surfaces send light every way, so you see the wall but no clear image."], ["Walls and paper reflect no light; only mirrors do.", false, "You see a white wall only because it reflects light into your eyes."], ["A rough surface breaks the rule that light leaves at the angle it arrives.", false, "The rule holds on every tiny flat patch, but the patches face different ways."], ["Breathing on a steel tumbler hides your face because tiny water drops scatter the light.", true, "Drops make the surface rough, so rays go every way instead of staying in order."], ["Rubbing wax or water onto a dull surface can make it shinier.", true, "They fill or flatten the tiny bumps, so light reflects in neat order."], ["A black thing reflects no light at all.", false, "Black cloth still sends back a small share, which is why you can see its folds."], ["A periscope shows the picture upside down.", false, "Two mirrors flip the picture twice, and the two flips cancel out."], ["At a very low angle, even a dull surface can show a mirror-like image.", true, "Glancing light reflects mostly in order, so rough surfaces start to act like mirrors."], ["A concave mirror curves inward and gathers light into a bright spot.", true, "Parallel rays bounce towards each other and meet at one focus point."], ["A convex mirror gathers sunlight into a tiny bright spot.", false, "A convex mirror curves outward and spreads light, giving a wide, smaller view."]], "odd": [[["Chalk", "Paper", "Cloth", "Polished steel"], "Polished steel", "Chalk, paper and cloth have rough surfaces that scatter light; polished steel is smooth and shows images."], [["Cat's-eye road stud", "Bicycle reflector", "Reflective bag strip", "Periscope"], "Periscope", "The first three send light straight back to the source; a periscope sends it round two turns to your eye."], [["Road-bend mirror", "Car side mirror", "Back of a spoon", "Inside of a spoon"], "Inside of a spoon", "The first three curve outward and spread light for a wide view; the inside of a spoon curves inward and gathers it."], [["Polishing", "Waxing", "Wetting", "Scratching"], "Scratching", "Polishing, waxing and wetting smooth the tiny bumps; scratching adds bumps that scatter light."], [["Black cloth", "Charcoal", "Dark soil", "Fresh snow"], "Fresh snow", "The first three take in most light and send little back; fresh snow sends back most of it."]]}
+ "warm": {"words": ["LIGHT", "IMAGE", "SHINY", "GLARE", "CURVE"], "quiz": [["A white wall reflects light, but it scatters it in every direction.", true, "Rough surfaces send light every way, so you see the wall but no clear image."], ["Walls and paper reflect no light; only mirrors do.", false, "You see a white wall only because it reflects light into your eyes."], ["A rough surface breaks the rule that light leaves at the angle it arrives.", false, "The rule holds on every tiny flat patch, but the patches face different ways."], ["Breathing on a steel tumbler hides your face because tiny water drops scatter the light.", true, "Drops make the surface rough, so rays go every way instead of staying in order."], ["Rubbing wax or water onto a dull surface can make it shinier.", true, "They fill or flatten the tiny bumps, so light reflects in neat order."], ["A black thing reflects no light at all.", false, "Black cloth still sends back a small share, which is why you can see its folds."], ["A periscope shows the picture upside down.", false, "Each mirror reverses the picture once, so two mirrors reverse it back to the right way round."], ["At a very low angle, even a dull surface can show a mirror-like image.", true, "Glancing light reflects mostly in order, so rough surfaces start to act like mirrors."], ["A concave mirror curves inward and gathers light into a bright spot.", true, "Parallel rays bounce towards each other and meet at one focus point."], ["A convex mirror gathers sunlight into a tiny bright spot.", false, "A convex mirror curves outward and spreads light, giving a wide, smaller view."]], "odd": [[["Chalk", "Paper", "Cloth", "Polished steel"], "Polished steel", "Chalk, paper and cloth have rough surfaces that scatter light; polished steel is smooth and shows images."], [["Cat's-eye road stud", "Bicycle reflector", "Reflective bag strip", "Periscope"], "Periscope", "The first three send light straight back to the source; a periscope sends it round two turns to your eye."], [["Road-bend mirror", "Car side mirror", "Back of a spoon", "Inside of a spoon"], "Inside of a spoon", "The first three curve outward and spread light for a wide view; the inside of a spoon curves inward and gathers it."], [["Polishing", "Waxing", "Wetting", "Scratching"], "Scratching", "Polishing, waxing and wetting smooth the tiny bumps; scratching adds bumps that scatter light."], [["Black cloth", "Charcoal", "Dark soil", "Fresh snow"], "Fresh snow", "The first three take in most light and send little back; fresh snow sends back most of it."]]}
 }
