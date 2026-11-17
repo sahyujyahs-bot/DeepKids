@@ -25,7 +25,7 @@
    .dkg .slide p{font-size:15px;padding:0 4px}.dkg .slide b{display:block;font-size:17px;margin-bottom:4px;color:#2B2340}
    .dkg .dots{display:flex;align-items:center;gap:7px;justify-content:center;margin-top:-4px}.dkg .dots i{width:7px;height:7px;border-radius:50%;background:rgba(43,35,64,.2)}.dkg .dots i.on{background:#2B2340;width:20px;border-radius:4px}
    .dkg .pic{position:relative;overflow:hidden;border-radius:24px;background:#e9dcc8;line-height:0}.dkg .pic>img{border-radius:0;width:100%;height:auto;display:block}
-   .dkg .iamstage{position:relative;aspect-ratio:1200/780;background:linear-gradient(#f9ebdb,#fbf1e6);overflow:hidden}.dkg .iamstage::before{content:"";position:absolute;left:50%;top:50%;width:55%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;background:#ffe2a8}.dkg .iamstage img{position:absolute;left:50%;bottom:3%;height:92%;width:auto;transform:translateX(-50%);background:none;border-radius:0}
+   .dkg .iamstage{position:relative;aspect-ratio:1200/780;background:linear-gradient(#f9ebdb,#fbf1e6);overflow:hidden}.dkg .iamstage::before{content:"";position:absolute;left:50%;top:50%;width:55%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;background:#ffe2a8}.dkg .iamfig{position:absolute;left:50%;bottom:3%;height:92%;aspect-ratio:343/404;transform:translateX(-50%);transform-origin:50% 100%;animation:dkbreathe 4.5s ease-in-out infinite}.dkg .iamfig img{position:absolute;background:none;border-radius:0;display:block}.dkg .iamnow{inset:0;width:100%;height:100%}.dkg .iamblink{left:40.46%;top:12.24%;width:18.68%;height:auto;opacity:0;animation:dkblink 5s steps(1) infinite}@keyframes dkbreathe{50%{transform:translateX(-50%) scale(1.012,1.018)}}@keyframes dkblink{0%,95%{opacity:0}96%{opacity:1}}
    .dkg .p-intro-eye>img{animation:dkdeep 11s ease-in-out infinite alternate;transform-origin:50% 47%}
    .dkg .eyeglow{position:absolute;left:50%;top:47%;width:30%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;background:conic-gradient(rgba(255,238,160,0),rgba(255,238,160,.7) 10%,rgba(255,238,160,0) 22%,rgba(255,238,160,0) 50%,rgba(255,238,160,.6) 60%,rgba(255,238,160,0) 72%);-webkit-mask:radial-gradient(circle,#000 35%,transparent 70%);mask:radial-gradient(circle,#000 35%,transparent 70%);mix-blend-mode:screen;animation:dkspin 7s linear infinite}
    .dkg .eyering{position:absolute;left:50%;top:47%;width:26%;aspect-ratio:1;border-radius:50%;border:3px solid rgba(255,220,120,.9);transform:translate(-50%,-50%) scale(.3);opacity:0;animation:dkring 3.6s ease-out infinite}.dkg .eyering.r2{animation-delay:1.8s}
@@ -59,7 +59,7 @@
     "intro-calm":`<i class="moonglow"></i><i class="star t1"></i><i class="star t2"></i><i class="star t3"></i><i class="star t4"></i><i class="star t5"></i><i class="star t6"></i><i class="shoot"></i>`
   };
   /* IAm looks straight at the viewer, then glances up, reads and turns a page, and looks back */
-  const IAMSEQ=[["iam",2600],["iam-glance",900],["iam",1700],["iam-page",500],["iam-reach",500],["iam-page",500],["iam-read",1500],["iam",1800],["iam-lift",1200],["iam",2200],["iam-shift",800]];
+  const IAMSEQ=[["iam",3000],["iam-glance",1000],["iam",2000],["iam-read",1800]];
   function iamLife(){const im=document.querySelector(".iamnow");if(!im)return;IAMSEQ.forEach(([f])=>{new Image().src="/media/ui/"+f+".webp"});let k=0;(function step(){if(!document.body.contains(im))return;const [f,ms]=IAMSEQ[k++%IAMSEQ.length];im.src="/media/ui/"+f+".webp";setTimeout(step,ms)})()}
   async function signInScreen(msg){
     const FEATS=await slides();
@@ -67,7 +67,7 @@
       ${ready?`<button id="dkGoogle" class="dkgo">${GOOGLE}</button>`:`<p class="err">This site isn't connected to its database yet. Fill in web/public/config.js (see web/SETUP.md).</p>`}
       ${msg?`<p class="err">${msg}</p>`:""}
       <small>We use your Google account only to sign you in. Your family's plans, progress and photos are private to you.</small></div>
-      <div class="show"><div class="swipe">${FEATS.map(([n,t,d,pts,tag])=>`<div class="slide"><div class="pic p-${n}">${n==="intro-iam"?`<div class="iamstage"><img class="iamnow" src="/media/ui/iam.webp" alt=""></div>`:`<img src="/media/ui/${n}.jpg" alt="">`}${MOVE[n]||""}</div><div><b>${t}</b><p>${d}</p></div><div class="pts">${pts.map(([l,x])=>`<div><i>${l}</i>${x}</div>`).join("")}</div>${tag?`<span class="tag">${tag}</span>`:""}</div>`).join("")}</div>
+      <div class="show"><div class="swipe">${FEATS.map(([n,t,d,pts,tag])=>`<div class="slide"><div class="pic p-${n}">${n==="intro-iam"?`<div class="iamstage"><span class="iamfig"><img class="iamnow" src="/media/ui/iam.webp" alt=""><img class="iamblink" src="/media/ui/iam-blink.webp" alt=""></span></div>`:`<img src="/media/ui/${n}.jpg" alt="">`}${MOVE[n]||""}</div><div><b>${t}</b><p>${d}</p></div><div class="pts">${pts.map(([l,x])=>`<div><i>${l}</i>${x}</div>`).join("")}</div>${tag?`<span class="tag">${tag}</span>`:""}</div>`).join("")}</div>
       <div class="dots">${FEATS.map((f,i)=>`<i${i?"":' class="on"'}></i>`).join("")}</div></div></div></div>`;
     iamLife();
     const sw=$(".swipe");sw.onscroll=()=>{const k=Math.round(sw.scrollLeft/sw.clientWidth);document.querySelectorAll(".dots i").forEach((d,i)=>d.classList.toggle("on",i===k))};

@@ -7193,7 +7193,7 @@ select.inp {
 }
 .lvrow {
   display: grid;
-  grid-template-columns: 30px 78px 1fr;
+  grid-template-columns: 28px 64px minmax(0, 1fr);
   align-items: center;
   gap: 8px;
   padding: 8px 0;
@@ -7201,10 +7201,11 @@ select.inp {
 }
 .lvrow .row {
   flex-wrap: nowrap;
-  gap: 6px;
+  gap: 4px;
 }
 .lvrow .chip {
-  min-width: 34px;
+  flex: 1 1 0;
+  min-width: 0;
   padding-inline: 0;
   justify-content: center;
 }
