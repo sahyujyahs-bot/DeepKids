@@ -216,7 +216,7 @@
    "concept": "Spoiled food and unsafe food are not the same",
    "status": "defined",
    "definition": "Spoilage microbes change how food looks and smells. Many microbes and toxins that make people ill change nothing you can see or smell.",
-   "description": "Your nose is good at finding spoilage. It picks up the acids and gases that large numbers of spoilage microbes make. But the bacteria that cause the worst illness often work in small numbers and make no smell. Some leave a toxin in the food. Reheating kills the bacteria, but some toxins stay. A mould on damp groundnuts or maize makes a toxin called aflatoxin, which cooking does not destroy. So there are two separate questions about any stored food. Has it spoiled? And has it been kept in a way that lets harmful microbes multiply? Only the second question protects you, and you answer it from the food's history: how warm, how long, how damp.",
+   "description": "Your nose is good at finding spoilage. It picks up the acids and gases that large numbers of spoilage microbes make. But the bacteria that cause the worst illness often work in small numbers and make no smell. Some leave a toxin in the food. Reheating kills the bacteria, but some toxins stay. A mould on damp groundnuts or maize makes a toxin called aflatoxin, which cooking does not fully destroy. So there are two separate questions about any stored food. Has it spoiled? And has it been kept in a way that lets harmful microbes multiply? Only the second question protects you, and you answer it from the food's history: how warm, how long, how damp.",
    "examples": [
     "Sour curd has changed a lot and is safe.",
     "Rice kept warm all night can look and smell fine and still hold a toxin.",
@@ -295,7 +295,7 @@
    "concept": "Pasteurised milk, UHT milk, tins and the cold chain",
    "status": "defined",
    "definition": "Heat kills microbes in food, and a sealed pack or an unbroken line of cold keeps new growth away.",
-   "description": "Pouch milk is pasteurised. It is heated to 72 degrees Celsius for 15 seconds, which kills the microbes that cause disease. Some harmless microbes and spores survive, so the pouch must stay cold from the dairy to your kitchen. That line of cold places is called a cold chain. An American chemist, Mary Engle Pennington, worked out many of its rules after 1905. She rode in railway wagons to measure how cold the food stayed. Carton milk is treated by UHT, which is heating to about 140 degrees for a few seconds. This kills the spores too, and the carton is filled without letting any microbe in. So it keeps for months on a shelf. A tin of food is heated after it is sealed. A tin or packet that has swollen holds gas made by living microbes. Never open or taste its food.",
+   "description": "Pouch milk is pasteurised. It is heated to 72 degrees Celsius for 15 seconds, which kills the microbes that cause disease. Some harmless microbes and spores survive, so the pouch must stay cold from the dairy to your kitchen. That line of cold places is called a cold chain. An American chemist, Mary Engle Pennington, worked out many of its rules after 1905. She tested railway wagons that carried food, to see how cold they kept it. Carton milk is treated by UHT, which is heating to about 140 degrees for a few seconds. This kills the spores too, and the carton is filled without letting any microbe in. So it keeps for months on a shelf. A tin of food is heated after it is sealed. A tin or packet that has swollen holds gas made by living microbes. Never open or taste its food.",
    "examples": [
     "India's milk cold chain begins at a village cooler. There the milk is chilled to 4 degrees Celsius within hours of milking.",
     "An opened UHT carton is like pouch milk: keep it in the fridge and finish it in two days.",
@@ -357,8 +357,8 @@
    "evidence": "Health officers who trace outbreaks at feasts and canteens often find food that was cooked hours ahead in big vessels. In laboratory tests, spores of the bacterium Clostridium perfringens multiplied in cooked food that was cooled slowly. They did not multiply in food that was cooled fast."
   },
   {
-   "text": "Moulds on damp grain and nuts can make poisons that cooking does not destroy.",
-   "evidence": "In 1960 about 100,000 young turkeys in England died after eating mouldy groundnut meal. In 1974 mouldy maize poisoned people in about 200 villages of Gujarat and Rajasthan. Rain had wet the maize."
+   "text": "Moulds on damp grain and nuts can make poisons that cooking does not fully destroy.",
+   "evidence": "In 1960 more than 100,000 young turkeys in England died after eating mouldy groundnut meal. In 1974 mouldy maize poisoned people in more than 100 villages of Gujarat and Rajasthan. Rain had wet the maize."
   },
   {
    "text": "Babies under one year should not be given honey.",
@@ -577,7 +577,7 @@
       },
       {
        "f": "Groundnuts from an old packet. Some are shrivelled, and one has grey-green mould.",
-       "b": "STOP. Throw the packet away. The mould may have made aflatoxin, which roasting does not destroy."
+       "b": "STOP. Throw the packet away. The mould may have made aflatoxin, which roasting does not fully destroy."
       },
       {
        "f": "A potato with a small green patch and two sprouts.",
@@ -2678,7 +2678,7 @@
       "Cooked mould tastes bitter"
      ],
      "a": 0,
-     "why": "Aflatoxin and some other mould poisons survive roasting and boiling. The heat kills the mould, but the poison the mould made stays in the food.",
+     "why": "Aflatoxin and some other mould poisons mostly survive roasting and boiling. The heat kills the mould, but most of the poison the mould made stays in the food.",
      "outcome": 7
     },
     {
@@ -2977,44 +2977,41 @@
     "Roasted nuts turn rancid"
    ],
    "a": 0,
-   "why": "The mould makes a poison called aflatoxin. Roasting kills the mould, but the poison stays. Mouldy and shrivelled nuts are thrown away.",
+   "why": "The mould makes a poison called aflatoxin. Roasting kills the mould, but most of the poison stays. Mouldy and shrivelled nuts are thrown away.",
    "outcome": 7
   }
  ],
  "videos": [
   {
-   "title": "Bacteria dividing under a microscope: a time-lapse of one cell becoming thousands",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Bacillus bacteria colony in formation under a microscope",
+   "channel": "Learjet66",
+   "youtube": "u17uELCFZeI",
    "mins": 3,
    "why": "To see doubling happen. The activity Three Clocks works it out on paper, and no home test can show single bacteria.",
-   "check": "No address yet. Find a time-lapse from a university or a science museum. Check that it gives the real time between divisions, and that it does not call all bacteria harmful."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How milk travels from a village to a city packet: chilling, the tanker and the dairy",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Village Level Collection Center (VLC) Set-up. How milk is collected in village by dairies or agents",
+   "channel": "Chadha Sales Pvt. Ltd. Dairy Equipment Engineers",
+   "youtube": "pWluxQHfI5g",
    "mins": 6,
    "why": "To see the cold chain that the activity Two Milks draws, with the village cooler and the pasteuriser at work.",
-   "check": "No address yet. Find a film from a dairy cooperative or a science channel. Check that it shows chilling at the village and pasteurising at 72 degrees Celsius. Skip any part that is only an advertisement."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How a kitchen that cooks for hundreds cools food fast: shallow trays and ice baths",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Proper Food Cooling Techniques",
+   "channel": "U of M Extension Food Safety",
+   "youtube": "Vfv5CiD_QXM",
    "mins": 5,
    "why": "To see cooks do at full size what Deep or Shallow does with two cups of rice.",
-   "check": "No address yet. Find a food safety training film from a health department or a catering school. Check that it gives the two-hour limit and shows food being divided into shallow trays."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
   "Cooks for weddings, temples, gurdwaras and school meals divide hot food into shallow trays. Or they cook it close to serving time.",
   "Dairy cooperatives chill milk in village coolers within hours of milking, so that it reaches the city fresh.",
   "Farmers dry grain in the sun and test its dampness before they fill a bin or a godown.",
-  "Sealed three-layer grain bags let farmers keep grain and pulses for a year with no insect poison.",
+  "Sealed three-layer grain bags let farmers keep grain and pulses for many months with no insect poison.",
   "Shops and home kitchens use first in, first out, so that the oldest food is used first.",
   "Hospitals and baby-care centres cook food fresh for patients and babies, and serve no raw sprouts or raw milk.",
   "Vaccines travel in a cold chain of their own, in ice boxes, to every village health centre."
@@ -3216,7 +3213,7 @@
    "title": "Aflatoxin (Wikipedia)",
    "url": "https://en.wikipedia.org/wiki/Aflatoxin",
    "kind": "interactive",
-   "why": "For the parent: the mould poison in damp groundnuts and maize, and the story of how it was found."
+   "why": "For the parent: the mould poison in damp groundnuts and maize, and the year it was found."
   },
   {
    "title": "Cold chain (Wikipedia)",
@@ -3234,7 +3231,7 @@
    "title": "Amul Dairy",
    "url": "https://www.amul.com/",
    "kind": "place",
-   "why": "A large cooperative dairy that visitors can tour. You see milk arrive, and the pasteurising and packing lines.",
+   "why": "A large cooperative dairy. Groups can ask to visit by arrangement, so ask first.",
    "where": "Anand, Gujarat"
   },
   {
@@ -3261,13 +3258,13 @@
    "id": "b-book",
    "item": "Tiny Creatures: The World of Microbes, by Nicola Davies, with pictures by Emily Sutton (2014)",
    "kind": "book",
-   "why": "For parent and child together: a picture book about how small microbes are, how fast they multiply and what they do.",
+   "why": "For parent and child together: a picture book about how small microbes are, how many there are and what they do.",
    "url": "https://www.amazon.in/s?k=Tiny+Creatures+The+World+of+Microbes+Nicola+Davies",
    "used_in": [
     "a2",
     "e2"
    ],
-   "plan": "Read it after Three Clocks. Find the pages where one microbe becomes millions, and compare them with your own table."
+   "plan": "Read it after Three Clocks. Find the pages that count microbes, and compare them with your own table."
   }
  ],
  "warmup": [
@@ -3346,7 +3343,7 @@
    [
     "Roasting destroys the poison that mould makes in groundnuts.",
     false,
-    "Aflatoxin survives roasting and boiling."
+    "Aflatoxin mostly survives roasting and boiling."
    ],
    [
     "Unopened UHT milk needs no fridge.",
@@ -3476,7 +3473,7 @@
   ],
   "science": [
    "Sargeant K., Sheridan A., O'Kelly J., Carnaghan R. B. A. (1961). Toxicity associated with certain samples of groundnuts. Nature 192: 1096-1097.",
-   "Blount W. P. (1961). Turkey 'X' disease. Turkeys (Journal of the British Turkey Federation) 9: 52-77.",
+   "Blount W. P. (1961). Turkey 'X' disease. Turkeys (Journal of the British Turkey Federation) 9: 52 onward.",
    "Krishnamachari K. A. V. R., Bhat R. V., Nagarajan V., Tilak T. B. G. (1975). Hepatitis due to aflatoxicosis: an outbreak in western India. The Lancet 305: 1061-1063.",
    "Ratkowsky D. A., Olley J., McMeekin T. A., Ball A. (1982). Relationship between temperature and growth rate of bacterial cultures. Journal of Bacteriology 149: 1-5.",
    "Monod J. (1949). The growth of bacterial cultures. Annual Review of Microbiology 3: 371-394.",
@@ -3492,10 +3489,10 @@
  },
  "how_we_found_out": {
   "context": "This is the true story of how scientists found a poison made by a mould in stored groundnuts. It began with farm birds in England in 1960.",
-  "story": "In the summer of 1960, young turkeys began to die on farms in the south and east of England. About 100,000 birds died within a few months. Farmers and vets thought a new germ was passing from bird to bird. They named the illness Turkey X disease. But no germ could be found, and sick birds did not make healthy birds ill. A poultry adviser, William Blount, looked at what the sick flocks had eaten. Their feed all held groundnut meal from one shipment from Brazil. Scientists fed that meal to healthy ducklings, and the ducklings fell ill. In 1961 Kenneth Sargeant and his team in London found a mould growing in the meal. The mould is called Aspergillus flavus. They showed that the mould makes a poison, which was named aflatoxin. The groundnuts had grown mouldy in damp storage. In 1974 the same poison harmed people in about 200 villages of Gujarat and Rajasthan. Rain had wet their maize, and the maize had grown mouldy. Doctors from Hyderabad traced the illness to the maize.",
-  "who": "William Blount, a poultry adviser in England. Kenneth Sargeant and his team at the Tropical Products Institute in London. K. A. V. R. Krishnamachari, Ramesh Bhat and their team at the National Institute of Nutrition in Hyderabad.",
+  "story": "In 1960, young turkeys began to die on farms in England. More than 100,000 birds died. Farmers and vets thought a new germ was passing from bird to bird. They named the illness Turkey X disease. But no germ could be found, and sick birds did not make healthy birds ill. A poultry adviser, William Blount, looked at what the sick flocks had eaten. Their feed all held groundnut meal that had come from Brazil. Scientists fed that meal to healthy ducklings, and the ducklings fell ill. In 1961 scientists in England, including Kenneth Sargeant, found a mould growing in the meal. The mould is called Aspergillus flavus. They showed that the mould makes a poison, which was named aflatoxin. The groundnuts had grown mouldy. In 1974 the same poison harmed people in more than 100 villages of Gujarat and Rajasthan. Rain had wet their maize, and the maize had grown mouldy. Doctors in India traced the illness to the maize.",
+  "who": "William Blount, a poultry adviser in England. Kenneth Sargeant and his team of scientists in England. K. A. V. R. Krishnamachari, R. V. Bhat and their team in India.",
   "when": "The turkeys died in 1960. The mould was found in 1961, and the poison was named soon after. The outbreak in western India was in 1974.",
-  "wrong_idea": "That the turkeys had an infectious disease, caused by a new germ that passed from bird to bird. Tracing the feed showed that only birds fed one batch of groundnut meal fell ill. Feeding that meal to healthy ducklings made them ill too.",
+  "wrong_idea": "That the turkeys had an infectious disease, caused by a new germ that passed from bird to bird. Tracing the feed showed that only birds fed a certain groundnut meal fell ill. Feeding that meal to healthy ducklings made them ill too.",
   "art": "A farm worker in the 1960s holding a scoop of brown groundnut meal over a feed trough, with young turkeys behind a wire fence and a sack marked with a ship's stamp."
  },
  "roots": {
@@ -3514,8 +3511,8 @@
   "teachings": [
    {
     "source": "Bhagavad Gita 17.10",
-    "teaching": "The verse lists the foods that a dull and heavy mind prefers. The first food on the list is food cooked more than one watch ago. A watch is about three hours.",
-    "link": "The verse sets a time limit on cooked food. The limit is close to the two-hour rule of food safety. The Gita is speaking about the mind and its qualities. It does not speak about microbes, which nobody had seen."
+    "teaching": "The verse lists the foods that a dull and heavy mind prefers. One well-known commentary reads the first food on the list as food cooked more than one watch ago. A watch is about three hours.",
+    "link": "On that reading, the verse sets a time limit on cooked food. The limit is near the two-hour rule of food safety. The Gita is speaking about the mind and its qualities. It does not speak about microbes, which nobody had seen."
    },
    {
     "source": "J. B. S. Haldane, the essay 'On Being the Right Size' (1926)",
@@ -3559,5 +3556,5 @@
   ],
   "art": "A child sitting on a kitchen floor with both hands around a steel tumbler, with a bowl of heaped rice and a plate of spread rice in front of them and thin wavy lines of warmth rising from all three."
  },
- "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. Deep or Shallow (core) needs freshly cooked rice and a digital fever thermometer. Most such thermometers show HI above about 43 degrees Celsius, and some show a number up to 45. So the first step checks yours. The times will differ from home to home with the bowl and the room. The plate should show a number within about 15 minutes. The middle of a full 2-cup bowl should stay at HI far longer. Rice straight from the cooker may harm a fever thermometer. So the edge of the bowl is measured only from 20 minutes, and the middle from 40 minutes. A home with no thermometer uses steam and a grown-up's finger. A grown-up handles the rice for the first ten minutes. Three Sealed Bags (core) takes six days and the bags are never opened. In warm weather the wet rice should change first and turn slimy. The bread should grow fuzzy mould after three to five days. The lemon may show nothing for a week, and the step says to wait longer. In winter everything is slower. A child with asthma or a mould allergy only watches. Dry Enough needs salt that has been roasted dry, and jars that are completely dry. It is a farmers' test. That the salt will stick in the wetted rice was reasoned from how salt takes up water in damp air. If the salt sticks in every jar, the salt or the jars were damp, so roast the salt again. No step tastes or smells food that may be unsafe. The rice in Deep or Shallow, Cool the Feast Pot and Dry Enough is fresh. It may be eaten as the steps say. Three Clocks, Tiffin Timeline, Two Milks and Five at the Table need only paper and what is in the kitchen. In Serve, Change or Stop and the Keep Line, every card was checked against its answer. The keeping times are careful rules of thumb for a warm kitchen, and a packet's own date comes first. One Week of Lost Food needs the whole family to use the sheet. No part needs a garden or an animal. Facts to treat with care: the doubling times in Three Clocks are rounded laboratory figures. A pot twice as wide takes about four times as long to cool. This rule holds for thick food that does not flow, and is rough for thin liquids. The four hours for a closed fridge in a power cut is the usual advice of food safety agencies. The number of turkeys and the number of villages in the aflatoxin story are given as 'about'. The Gita verse and the Charaka rule are paraphrased. The three videos have no address yet."
+ "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. Deep or Shallow (core) needs freshly cooked rice and a digital fever thermometer. Most such thermometers show HI above about 43 degrees Celsius, and some show a number up to 45. So the first step checks yours. The times will differ from home to home with the bowl and the room. The plate should show a number within about 15 minutes. The middle of a full 2-cup bowl should stay at HI far longer. Rice straight from the cooker may harm a fever thermometer. So the edge of the bowl is measured only from 20 minutes, and the middle from 40 minutes. A home with no thermometer uses steam and a grown-up's finger. A grown-up handles the rice for the first ten minutes. Three Sealed Bags (core) takes six days and the bags are never opened. In warm weather the wet rice should change first and turn slimy. The bread should grow fuzzy mould after three to five days. The lemon may show nothing for a week, and the step says to wait longer. In winter everything is slower. A child with asthma or a mould allergy only watches. Dry Enough needs salt that has been roasted dry, and jars that are completely dry. It is a farmers' test. That the salt will stick in the wetted rice was reasoned from how salt takes up water in damp air. If the salt sticks in every jar, the salt or the jars were damp, so roast the salt again. No step tastes or smells food that may be unsafe. The rice in Deep or Shallow, Cool the Feast Pot and Dry Enough is fresh. It may be eaten as the steps say. Three Clocks, Tiffin Timeline, Two Milks and Five at the Table need only paper and what is in the kitchen. In Serve, Change or Stop and the Keep Line, every card was checked against its answer. The keeping times are careful rules of thumb for a warm kitchen, and a packet's own date comes first. One Week of Lost Food needs the whole family to use the sheet. No part needs a garden or an animal. Facts checked on 17 Nov 2026: the paper citations, the Turkey X and aflatoxin story, the honey study, the Gita and Charaka verses, Haldane's years in India, the pasteurising and UHT heats, the two-hour, one-hour and four-hour rules, and the danger zone. Softened: the turkey and village counts, where the investigators worked, Pennington's railway work, the Amul visit, the book's pages, the sealed bag storage time, and the words about roasting and aflatoxin. The doubling times and the pot-width rule stay rounded rules of thumb. The three videos have no address yet."
 }
