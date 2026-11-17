@@ -285,7 +285,7 @@
    "concept": "Weight is a force",
    "status": "defined",
    "definition": "Weight is the pull of a planet on a thing. It is a force, counted in newtons. Mass is how much stuff a thing has, counted in kilograms.",
-   "description": "When you hang a bag from a forcemeter, what is pulling it down? It is the Earth. The pull of a planet on a thing is called its weight. So weight is a force, and scientists count it in newtons. In shops, we say a bag of rice 'weighs 1 kilogram'. Strictly, the kilogram tells us how much rice there is. Scientists call that its mass. On Earth, every kilogram is pulled down with about 10 newtons. On the Moon, gravity is weaker. The same bag of rice would pull the forcemeter down only about one sixth as hard. The rice has not changed. Only the pull has. The unit on Weight and mass goes deeper into this.",
+   "description": "When you hang a bag from a forcemeter, what is pulling it down? It is the Earth. The pull of a planet on a thing is called its weight. So weight is a force, and scientists count it in newtons. In shops, we say a bag of rice 'weighs 1 kilogram'. Strictly, the kilogram tells us how much rice there is. Scientists call that its mass. On Earth, every kilogram is pulled down with about 10 newtons. On the Moon, gravity is weaker. The same bag of rice would pull the forcemeter down only about one sixth as hard. The rice has not changed. Only the pull has. Another unit, called Weight and mass, goes deeper into this.",
    "examples": [
     "A 1 kilogram bag of rice reads about 10 newtons on Earth, and about 1.6 newtons on the Moon.",
     "Astronauts on the Moon could carry heavy packs easily, because their packs pulled down less.",
@@ -446,7 +446,7 @@
    "concept": "Who decides how big a unit is?",
    "status": "defined",
    "definition": "Since 2019, the kilogram, and so the newton, is fixed by numbers from nature, not by one metal object.",
-   "description": "A newton depends on the kilogram, the metre and the second. So who decides how big a kilogram is? From 1889 to 2019, the kilogram was one real metal cylinder, made of platinum and iridium. It was kept locked in a vault near Paris, under three glass covers. People called it Le Grand K. By agreement, it was exactly 1 kilogram, whatever happened to it. Countries had copies. India's copy is kept at the National Physical Laboratory in New Delhi. But over about 100 years, the copies and the original slowly drifted apart, by about 50 millionths of a gram. Nobody could say which had changed. So in 2018, at a meeting in Versailles in France, countries voted to change the rule. Since 20 May 2019, the kilogram is fixed by a constant of nature, called the Planck constant. Even here there is an agreement. People chose the exact number for it, so the new kilogram matched the old one. A machine called a Kibble balance can turn that number into a real kilogram. It balances a weight against the push of a magnet on an electric current. Bryan Kibble, a British scientist, invented it in 1975.",
+   "description": "A newton depends on the kilogram, the metre and the second. So who decides how big a kilogram is? From 1889 to 2019, the kilogram was one real metal cylinder, made of platinum and iridium. It was kept locked in a vault near Paris, under three glass covers. People called it Le Grand K. By agreement, it was exactly 1 kilogram, whatever happened to it. Countries had copies. India's copy is kept at the National Physical Laboratory in New Delhi. But over about 100 years, the copies and the original slowly drifted apart, by about 50 millionths of a gram. Nobody could say which had changed. So in 2018, at a meeting in Versailles in France, countries voted to change the rule. Since 20 May 2019, the kilogram is fixed by a constant of nature, called the Planck constant. Even here there is an agreement. People chose the exact number for it, so the new kilogram matched the old one. A machine called a Kibble balance can turn that number into a real kilogram. It balances a weight against the push that a magnet gives to a wire carrying an electric current. Bryan Kibble, a British scientist, invented it in 1975.",
    "examples": [
     "The metre is now fixed by the speed of light, not by a metal bar.",
     "A country with a Kibble balance can now make its own kilogram, without visiting Paris."
@@ -475,7 +475,7 @@
    "description": "We can put very exact numbers on forces. But what is a force, deep down? How does the Earth pull a mango without touching it? Scientists have given different answers, and the question is not finished.",
    "examples": [
     "A magnet pulls a pin across a gap. Nothing we can see joins them.",
-    "A forcemeter inside a falling lift would read zero, even though gravity is still there."
+    "Hang a mango from a forcemeter inside a falling lift. The mango and the forcemeter fall together, so the spring does not stretch and the forcemeter reads zero. Gravity is still pulling."
    ],
    "perspectives": [
     {
@@ -868,7 +868,8 @@
      "say": "Who won? Now let's look for our biggest surprise. Which thing was most different from what we guessed?",
      "kid": "Count the points. Who won? Which thing surprised you most?",
      "context": "This is the last step of Guess the Newtons. You count the points and look for the biggest surprise.",
-     "think": "Why do we need a forcemeter if our guesses got quite good?"
+     "think": "Why do we need a forcemeter if our guesses got quite good?",
+     "parent": "Our hands can be fooled, and different people guess differently. A forcemeter gives a number that everyone can check and agree on."
     }
    ],
    "setup": [
@@ -1088,7 +1089,7 @@
        "q": "The molecule and the rocket are both on the ladder. How can the same unit, the newton, work for both?",
        "good": [
         "You just use very small or very big numbers.",
-        "A newton is like a centimetre. You can count tiny parts of it or millions of it."
+        "A centimetre can measure a tiny insect or a long road, using small or large numbers of centimetres. The newton works in the same way."
        ]
       }
      ],
@@ -1101,7 +1102,8 @@
      "say": "Now let's read the whole ladder from the bottom to the top, slowly. Which force surprised you most? Why?",
      "kid": "Put each rung in order. Read the ladder from bottom to top. Which force amazes you most?",
      "context": "This is the last step of Climb the Force Ladder. You read all the forces in order, from tiny to huge.",
-     "think": "Both the molecule and the Moon have numbers in newtons. Which one do you think was harder to measure? Why?"
+     "think": "Both the molecule and the Moon have numbers in newtons. Which one do you think was harder to measure? Why?",
+     "parent": "Both are hard in different ways. The pull of one molecule is so tiny that scientists needed light tweezers to feel it. The Earth and the Moon cannot be hung from a forcemeter at all, so scientists work out their pull from sums."
     }
    ],
    "setup": [
@@ -1343,7 +1345,8 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: each extra notebook needs about the same number of extra coins. What I saw: one notebook took 6 coins, two took 12 and three took 17. Why: the stack presses harder on the table, so it grips more. Another good answer is about units. What I think: a number is no use without its unit. What I saw: I needed 6 coins and a grown-up needed 12 for the same notebook. Why: the grown-up's coins were lighter.",
      "context": "This is the last step of the coin-pull investigation. You say what you found, which numbers show it, and why."
     }
-   ]
+   ],
+   "problem": "Nobody can put a number on a push until we choose something to count. You will hang a cup from a notebook by a string, and drop coins in until the notebook starts to slide. One coin is your unit of pull. Then you will find out what happens when someone else counts with different coins."
   },
   {
    "id": "e1",
@@ -1592,7 +1595,8 @@
       "emoji": "🪑"
      }
     ]
-   }
+   },
+   "problem": "A forcemeter shows a pull as a number of newtons. You will use one to measure how big a pull it takes to open a door, a drawer and other things at home. Then you will compare the numbers with your guesses."
   },
   {
    "id": "e2",
@@ -1713,7 +1717,7 @@
       }
      ],
      "think": "On the Moon, would the scale show a bigger number, a smaller number, or the same?",
-     "parent": "Let your child answer first. Then you can say it: the scale shows how hard you push on it. The amount of you never changed."
+     "parent": "Let your child answer first. Then you can say it: the scale shows how hard you push on it. The amount of you never changed. On the Moon the scale would show a smaller number, because you would push less on it. There would still be just as much of you."
     },
     {
      "id": "s5",
@@ -1721,11 +1725,12 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think the scale shows? Which numbers show it? And why did the number change when you pressed the table?",
      "kid": "Say or write three things. What the scale really shows. Which numbers show it. Why it changed.",
-     "parent": "A good answer sounds like this. What I think: the scale shows my push. What I saw: it showed 25 standing still, 18 pressing the table and 29 pulling up. Why: the table took some of my push, or added to it. There was always the same amount of me.",
+     "parent": "A good answer sounds like this. What I think: the scale shows my push. What I saw: it showed 25 kilograms standing still, 18 kilograms pressing on the table and 29 kilograms pulling up. Why: the table took some of my push, or added to it. There was always the same amount of me.",
      "context": "This is the last step of the bathroom scale experiment. You explain what you found, like a scientist.",
      "how": "e2"
     }
-   ]
+   ],
+   "problem": "A bathroom scale shows a number in kilograms, and most people think it shows how much of you there is. You will change how hard you press on the scale without changing yourself, and see what the number does."
   },
   {
    "id": "e3",
@@ -1900,7 +1905,8 @@
       "emoji": "⚖️"
      }
     ]
-   }
+   },
+   "problem": "Our hands judge how heavy something is, but a forcemeter measures how hard it pulls. You will make a big box and a small box pull the forcemeter by exactly the same amount. Then you will ask people which box feels heavier."
   }
  ],
  "activities": [
@@ -1978,9 +1984,11 @@
      "kid": "Put the pushes in order, smallest first. Could a balloon tell you an exact number?",
      "context": "This is the last step of the balloon push activity. You put the pushes in order and think about numbers.",
      "how": "a1",
-     "think": "A balloon shows big and small, but not an exact number. What tool could give us a number?"
+     "think": "A balloon shows big and small, but not an exact number. What tool could give us a number?",
+     "parent": "A forcemeter can give a number. It has a spring that stretches more when the pull is bigger, and it shows the pull in newtons. You will use one in the next activities."
     }
-   ]
+   ],
+   "problem": "A push or a pull is a force, and we need a way to tell how big it is. A balloon is one simple way, because it squashes more when the push is bigger. You will push five things with a balloon and put the pushes in order."
   },
   {
    "id": "a2",
@@ -2063,9 +2071,11 @@
      "kid": "Find three things that feel like 1 newton. Check them. Are they about 100 grams?",
      "context": "This is the last step of the one newton activity. You make your own one newton kit.",
      "how": "a2",
-     "think": "A small apple is about 1 newton on Earth. Would it still be 1 newton on the Moon?"
+     "think": "A small apple is about 1 newton on Earth. Would it still be 1 newton on the Moon?",
+     "parent": "No. The Moon pulls about one sixth as hard as the Earth, so the apple would pull with about one sixth of a newton there. The apple itself has not changed."
     }
-   ]
+   ],
+   "problem": "The newton is the unit of force that people everywhere share, but it is hard to imagine. A small apple pulls on your hand with about 1 newton. You will hold things that pull with 1 newton and 10 newtons, so you can feel the size of each."
   },
   {
    "id": "a3",
@@ -2163,7 +2173,8 @@
      "think": "Why do you think scientists always say 'eye level'?",
      "parent": "Because the toothpick stands in front of the scale, it seems to sit on a different mark when you look from above or below. Only the level view is true. A real forcemeter's pointer also stands a little in front of its scale."
     }
-   ]
+   ],
+   "problem": "A forcemeter only gives a true number if you read it with care. You will make a paper forcemeter, and practise reading it at eye level, counting the small marks and saying the unit."
   },
   {
    "id": "a4",
@@ -2243,7 +2254,7 @@
      "context": "This is the last step of the forcemeter tug of war. You see that even a door pulls back.",
      "how": "a4",
      "think": "If you pull on the door with 5 newtons, how hard is the door pulling you?",
-     "parent": "The door pulls back with exactly the same force. Every pull comes with an equal pull back. Isaac Newton wrote this as his third law of motion. The unit on Pushes and pulls explores it more."
+     "parent": "The door pulls back with exactly the same force. Every pull comes with an equal pull back. Isaac Newton wrote this as his third law of motion. Another unit, called Pushes and pulls, explores it more."
     }
    ]
   },
@@ -2354,7 +2365,8 @@
       ]
      }
     }
-   ]
+   ],
+   "problem": "Weight is the pull of a planet on a thing, and the Moon pulls less than the Earth. Your hand can feel this difference. You will feel how a tiffin of rice would pull on Earth, on the Moon and on Jupiter."
   },
   {
    "id": "a6",
@@ -2423,9 +2435,11 @@
      "adult": true,
      "context": "This is the last step of the market visit. You ask a shopkeeper how they keep their scale fair.",
      "how": "a6",
-     "think": "Why might a shopkeeper want an honest scale, even if nobody checks?"
+     "think": "Why might a shopkeeper want an honest scale, even if nobody checks?",
+     "parent": "Good answers: people keep coming back to a shop they trust, and cheating your neighbours is unfair."
     }
-   ]
+   ],
+   "problem": "A scale gives a number, but the number is only fair if someone has checked the scale against standard weights. In India, officers do this and put a seal on honest scales. You will visit a market and look for these seals."
   },
   {
    "id": "a7",
@@ -2541,11 +2555,12 @@
        ]
       }
      ],
-     "parent": "Today the kilogram is fixed by a number from nature instead of by an object.",
+     "parent": "Yes. A perfect unit must stay exactly the same every time. That is why, since 2019, the kilogram is fixed by a number from nature instead of by one metal object.",
      "think": "Water changes a tiny bit when it is hot or cold. Would a perfect unit need something that never changes at all?",
      "context": "This is the last step of the water-pull activity. You think about why water makes a unit anyone can share."
     }
-   ]
+   ],
+   "problem": "A child in another city cannot use your coins, but she can use water. You will start the same notebook sliding with water instead of coins. Then you will turn the millilitres of water into newtons, so your answer means the same to everyone."
   }
  ],
  "projects": [
@@ -2715,7 +2730,8 @@
      "how": "p1",
      "parent": "Two bands side by side stretch less, so the forcemeter can show bigger pulls. A thin band stretches more, so it can show smaller pulls more clearly."
     }
-   ]
+   ],
+   "problem": "A forcemeter is a spring with a scale beside it. You will build one from a rubber band and a strip of card. You will mark its scale with 100 gram packets, which each pull with about 1 newton, and then test it against a kitchen scale."
   }
  ],
  "challenges": [
@@ -2797,7 +2813,8 @@
      "kid": "Why does your tool work? How could it notice even smaller pulls?",
      "context": "This is the last step of the paper challenge. You explain why your tool works.",
      "how": "c1",
-     "think": "Could you make a tool that shows the pull of one hair? What would you change?"
+     "think": "Could you make a tool that shows the pull of one hair? What would you change?",
+     "parent": "Good answers: make the ruler longer and thinner, or add a longer pointer, so that even a tiny pull moves it a visible amount."
     }
    ]
   },
@@ -2878,7 +2895,8 @@
      "kid": "Write the steps for your check. Make them easy for a little child.",
      "context": "This is the last step of the fair scale challenge. You write instructions anyone can follow.",
      "how": "c2",
-     "think": "Who should be allowed to check the scales: the shopkeeper, the buyers, or someone else?"
+     "think": "Who should be allowed to check the scales: the shopkeeper, the buyers, or someone else?",
+     "parent": "A good answer says someone who has nothing to gain, because a shopkeeper could cheat and a buyer could complain unfairly. In India, Legal Metrology officers do this with standard weights."
     }
    ]
   }
@@ -4357,5 +4375,117 @@
   ],
   "art": "Two children in two cities, one on a rooftop in Madurai and one by a window in Paris, each with a cup of coins pulling a notebook, joined by one thin glowing thread marked N."
  },
- "warm": {"words": ["FORCE", "UNITS", "SCALE", "PULLS", "WEIGH"], "quiz": [["A number means little until you know its unit.", true, "Six big coins and twelve small coins can be exactly the same pull."], ["Things need a push to keep moving.", false, "Things stop because friction and air pull back. Far out in space, a moving thing keeps going."], ["Scientists everywhere measure force in newtons.", true, "One shared unit means a number gives the same size of force for everyone."], ["If a thing is not moving, there is no force on it.", false, "A book lying on a table is pulled down by weight and pushed up by the table."], ["The bigger the pull on a forcemeter, the further its spring stretches.", true, "A spring stretches more as the pull grows, so the pointer moves further along the scale."], ["Your hands can tell you exactly how heavy something is.", false, "Tired arms make things feel heavier, and a small box can feel heavier than a big one."], ["Weight is a force, while mass is how much stuff a thing has.", true, "Weight is the pull of a planet and is counted in newtons. Mass is counted in kilograms."], ["A book has less mass on the Moon than on Earth.", false, "Its mass is the same. Its weight is smaller because the Moon pulls less."], ["Before you read a forcemeter, its pointer should sit exactly on zero.", true, "If it starts above or below zero, every reading will be wrong by the same amount."], ["A bathroom scale shows how much of you there is.", false, "It shows how hard you push down on it. Bend your knees quickly and the number jumps."]], "odd": [[["Weight of an apple", "Pull of the Earth", "Strength of a push", "Mass of a book"], "Mass of a book", "The first three are forces, counted in newtons. Mass is how much stuff a thing has, counted in kilograms."], [["Forcemeter", "Spring balance", "Spring scale", "Ruler"], "Ruler", "The first three use a stretching spring to measure a pull. A ruler measures length and has no spring."], [["Push on a door", "Pull of a magnet", "Weight of a bag", "Speed of a cycle"], "Speed of a cycle", "The first three are pushes or pulls, which are forces. Speed is how fast something moves."], [["Check the zero", "Hold it straight", "Read at eye level", "Pull in sudden jerks"], "Pull in sudden jerks", "The first three give a true reading. A forcemeter should be pulled steadily, not in jerks."], [["Newton", "Kilogram", "Centimetre", "My own coin unit"], "My own coin unit", "The first three are units everyone agrees on. A unit made up by one person is not shared."]]}
+ "warm": {
+  "words": [
+   "FORCE",
+   "UNITS",
+   "SCALE",
+   "PULLS",
+   "WEIGH"
+  ],
+  "quiz": [
+   [
+    "A number means little until you know its unit.",
+    true,
+    "Six big coins and twelve small coins can be exactly the same pull."
+   ],
+   [
+    "Things need a push to keep moving.",
+    false,
+    "Things stop because friction and air pull back. Far out in space, a moving thing keeps going."
+   ],
+   [
+    "Scientists everywhere measure force in newtons.",
+    true,
+    "One shared unit means a number gives the same size of force for everyone."
+   ],
+   [
+    "If a thing is not moving, there is no force on it.",
+    false,
+    "A book lying on a table is pulled down by weight and pushed up by the table."
+   ],
+   [
+    "The bigger the pull on a forcemeter, the further its spring stretches.",
+    true,
+    "A spring stretches more as the pull grows, so the pointer moves further along the scale."
+   ],
+   [
+    "Your hands can tell you exactly how heavy something is.",
+    false,
+    "Tired arms make things feel heavier, and a small box can feel heavier than a big one."
+   ],
+   [
+    "Weight is a force, while mass is how much stuff a thing has.",
+    true,
+    "Weight is the pull of a planet and is counted in newtons. Mass is counted in kilograms."
+   ],
+   [
+    "A book has less mass on the Moon than on Earth.",
+    false,
+    "Its mass is the same. Its weight is smaller because the Moon pulls less."
+   ],
+   [
+    "Before you read a forcemeter, its pointer should sit exactly on zero.",
+    true,
+    "If it starts above or below zero, every reading will be wrong by the same amount."
+   ],
+   [
+    "A bathroom scale shows how much of you there is.",
+    false,
+    "It shows how hard you push down on it. Bend your knees quickly and the number jumps."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Weight of an apple",
+     "Pull of the Earth",
+     "Strength of a push",
+     "Mass of a book"
+    ],
+    "Mass of a book",
+    "The first three are forces, counted in newtons. Mass is how much stuff a thing has, counted in kilograms."
+   ],
+   [
+    [
+     "Forcemeter",
+     "Spring balance",
+     "Spring scale",
+     "Ruler"
+    ],
+    "Ruler",
+    "The first three use a stretching spring to measure a pull. A ruler measures length and has no spring."
+   ],
+   [
+    [
+     "Push on a door",
+     "Pull of a magnet",
+     "Weight of a bag",
+     "Speed of a cycle"
+    ],
+    "Speed of a cycle",
+    "The first three are pushes or pulls, which are forces. Speed is how fast something moves."
+   ],
+   [
+    [
+     "Check the zero",
+     "Hold it straight",
+     "Read at eye level",
+     "Pull in sudden jerks"
+    ],
+    "Pull in sudden jerks",
+    "The first three give a true reading. A forcemeter should be pulled steadily, not in jerks."
+   ],
+   [
+    [
+     "Newton",
+     "Kilogram",
+     "Centimetre",
+     "My own coin unit"
+    ],
+    "My own coin unit",
+    "The first three are units everyone agrees on. A unit made up by one person is not shared."
+   ]
+  ]
+ }
 }

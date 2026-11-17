@@ -224,7 +224,7 @@
    "definition": "A machine can make a push smaller, but then the push must travel a longer distance. Push times distance stays the same, or a little more because of friction.",
    "description": "This is the most important idea in this unit. Machines never give you something for nothing. When a spoon lifts a tin lid, your hand moves far, and the lid moves only a little. When you walk up a long ramp, you push less, but you walk further. Scientists call push times distance 'work'. A machine cannot make the work smaller. It only spreads it out into a smaller push over a longer way. This is because energy is never made from nothing. Friction, the grip between touching things, always takes a little extra. So a real machine always needs a little more work than the ideal one.",
    "examples": [
-    "A long ramp: small push, long walk. Lifting straight up: big push, short distance.",
+    "A long ramp needs a small push, but you walk a long way. Lifting straight up needs a big push, but only for a short distance.",
     "A see-saw: the child at the far end moves down a long way. The grown-up near the middle rises only a little.",
     "A hand pump: your hand moves a long way down, and the rod inside moves a short way up, with a bigger force."
    ],
@@ -541,7 +541,7 @@
   {
    "claim": "A clever enough wheel could keep turning for ever by itself, giving free energy.",
    "who": "Bhaskara II, a great Indian mathematician, described such a wheel in about 1150. Many inventors in Europe and elsewhere tried for centuries after him.",
-   "for": "His wheel carried mercury, a heavy liquid metal, sealed inside tubes. The idea was that the mercury would always make one side heavier, so the wheel would keep turning.",
+   "for": "The Indian mathematician Bhaskara II described a wheel that carried mercury, a heavy liquid metal, sealed inside tubes. The idea was that the mercury would always make one side heavier, so the wheel would keep turning.",
    "against": "No such wheel has ever worked. The weights shift, but the turning effects on both sides always end up balanced, and friction slowly stops the wheel. Energy cannot come from nothing. Bhaskara II was a brilliant mathematician, but this one idea did not work. Even great thinkers can be wrong.",
    "status": "rejected",
    "context": "For hundreds of years, people dreamed of a machine that never stops. This card is about one of the oldest designs, from India."
@@ -801,7 +801,8 @@
      "do": "Play the 4 Level 4 mystery cards. Use the rule to find the weight of each object in coins.",
      "say": "Now we're detectives. A tarazu, the vegetable seller's weighing scale, weighs vegetables by balancing them against known weights. How many coins does the eraser weigh?",
      "kid": "Mystery card! The eraser balances some coins. How many coins does the eraser weigh? Use the rule to find out.",
-     "think": "Could you weigh a pencil with this ruler and some coins? How would you do it?"
+     "think": "Could you weigh a pencil with this ruler and some coins? How would you do it?",
+     "parent": "Yes. Put the pencil on one side at a known distance, and slide coins along the other side until the ruler balances. Then use coins times distance on both sides to find the pencil's weight in coins."
     },
     {
      "id": "s6",
@@ -825,7 +826,8 @@
      "art": "One coin on right peg 4 balancing two coins on left peg 2, a sheet of paper with each player's points beside the ruler.",
      "caption": "3. If it balances first try, score 2 points."
     }
-   ]
+   ],
+   "problem": "A ruler on a pencil is a see-saw, and coins are the weights. Each order card names some coins on one side. Your job is to place other coins so that the ruler balances."
   },
   {
    "id": "g2",
@@ -954,7 +956,8 @@
      "do": "Look at the three piles together. Find the ones that could go on two mats.",
      "say": "Which pile is biggest? Which things were two machines at once?",
      "kid": "Look at your three piles. Which is biggest? Which things are two machines at once?",
-     "think": "A bicycle is many simple machines joined together. How many can you find on one bicycle?"
+     "think": "A bicycle is many simple machines joined together. How many can you find on one bicycle?",
+     "parent": "Good finds: the brake levers, the wheels and axles, the pedal cranks, the handlebar and the screws that hold it together."
     }
    ],
    "context": "This is a sorting card game. Players decide whether everyday objects, and parts of their own body, are levers, ramps or wheels.",
@@ -1808,7 +1811,8 @@
      "do": "Use the rule to predict a new balance before testing it: 4 coins sit 3 cm to the left of the pencil. Where must 2 coins go on the right?",
      "say": "Now use the rule to predict. 4 coins at 3 cm. Where do 2 coins balance them? Work it out first, then test.",
      "kid": "4 coins at 3 cm. Where do 2 coins go? Work it out first. Then test it.",
-     "think": "Archimedes found this rule about 2,200 years ago. Could you have found it without the ruler and coins?"
+     "think": "You predicted where the 2 coins must go before testing. Why is a rule useful, when you could simply test every case?",
+     "parent": "A rule lets you work out the answer for any weights and distances, even ones you have not tried. Without a rule, you would have to test every case."
     },
     {
      "id": "s5b",
@@ -1872,7 +1876,8 @@
      "art": "A small, thin book on one end of the ruler with the pencil close to it, a finger pressing the far end down.",
      "caption": "4. Lift a small book: pencil close to the book, push the far end."
     }
-   ]
+   ],
+   "problem": "A see-saw is a lever, and a lever balances when weight and distance work together. You will lay a ruler on a pencil and find out whether one coin can balance two coins, and where it must sit."
   },
   {
    "id": "e2",
@@ -2064,7 +2069,8 @@
      "ruler": true,
      "caption": "4. Now use the long board to the same pile. Pull and measure again."
     }
-   ]
+   ],
+   "problem": "A ramp lets you lift a load to the same height with a smaller pull, but the ramp is longer than a straight lift. You will pull a loaded toy truck up a pile of books, straight up and on two ramps. A rubber band will show how hard you pull."
   },
   {
    "id": "e3",
@@ -2228,7 +2234,8 @@
      "art": "A long card handle taped to the pencil end like a crank, a hand turning it from the tip in a big circle.",
      "caption": "4. Tape on a handle and wind from its tip. Try a small and a big handle."
     }
-   ]
+   ],
+   "problem": "A wheel and axle is a lever that goes round and round. You will build a model well winch from a box and a pencil. Then you will find out whether a bigger handle makes it easier to wind up a bottle of water."
   }
  ],
  "activities": [
@@ -2294,7 +2301,8 @@
       "a": 1,
       "why": "Your knee is the fulcrum, where the lower leg turns. Picking 'your thigh muscle' mixes up the effort, the muscle's pull, with the fulcrum. Picking 'your foot' mixes up the load with the fulcrum."
      },
-     "think": "Your body was not designed by an engineer. So how did it end up full of levers?"
+     "think": "Your body was not designed by an engineer. So how did it end up full of levers?",
+     "parent": "Bodies were shaped slowly over millions of years. Animals whose bones and muscles worked well as levers lived longer and had young, so their body shapes were passed on."
     }
    ],
    "context": "This is a hunt for simple machines around your home, and for levers in your own body.",
@@ -2378,7 +2386,8 @@
      "say": "It's the same rule as our ruler and coins. Heavy close in, light far out.",
      "kid": "Try with a friend. Who sits where? It's the same rule as the ruler and coins!",
      "adult": true,
-     "think": "Could two small children at one end lift a grown-up sitting at the other end? Where would everyone have to sit?"
+     "think": "Could two small children at one end lift a grown-up sitting at the other end? Where would everyone have to sit?",
+     "parent": "Yes. Two children together weigh more than one. The grown-up would sit closer to the middle than the children, until weight times distance matches on both sides."
     }
    ],
    "context": "This activity needs a park with a see-saw. A child lifts a grown-up on the see-saw. They find that where you sit matters as much as how heavy you are.",
@@ -2395,7 +2404,8 @@
      "art": "Two children of different sizes balancing a see-saw, the bigger one closer to the middle.",
      "caption": "3. Try other pairs. Heavy close in, light far out."
     }
-   ]
+   ],
+   "problem": "A see-saw is a lever. You will go to a park see-saw and find out how a light child can lift a heavy grown-up, and where each of you must sit."
   },
   {
    "id": "a3",
@@ -2461,7 +2471,8 @@
       "a": 0,
       "why": "10 kg. Things that balance at the same distance from the fulcrum weigh the same. Picking 20 kg or 5 kg would only be right if the mystery object sat at a different distance."
      },
-     "think": "How could a see-saw weigh something heavier than all your bricks put together?"
+     "think": "How could a see-saw weigh something heavier than all your bricks put together?",
+     "parent": "Put the heavy thing close to the middle, and the bricks far out on the other side. Distance makes up for weight."
     }
    ],
    "context": "This activity uses Balancing Act, a free online see-saw game from PhET, a science website. Your child plays four levels of see-saw puzzles, and finds the weight of mystery objects.",
@@ -2478,7 +2489,8 @@
      "art": "The simulation's game screen with a mystery object on the plank and a score at the top.",
      "caption": "3. Play the game levels and find the mystery masses."
     }
-   ]
+   ],
+   "problem": "Balancing Act is a free online see-saw game. You will put bricks on a plank and balance it, and then use the plank to find the weight of mystery objects."
   },
   {
    "id": "a4",
@@ -2545,7 +2557,8 @@
      "do": "1. Nod the head slowly, forward and back. 2. Feel the back of the neck. 3. Talk about how muscles at the back hold the head up like a see-saw.",
      "say": "Your head sits on top of your spine like a see-saw. When you nod, which muscles hold it up?",
      "kid": "Nod slowly. Feel the back of your neck. Your head is a see-saw on top of your spine!",
-     "think": "A muscle can only pull, never push. So how does your arm get back down after you lift the bottle?"
+     "think": "A muscle can only pull, never push. So how does your arm get back down after you lift the bottle?",
+     "parent": "A second muscle, at the back of the upper arm, pulls to straighten the arm. Muscles work in pairs. Gravity also helps to lower the bottle."
     }
    ],
    "context": "In this activity you feel the levers in your own body: your arm, your foot and your neck.",
@@ -2562,7 +2575,8 @@
      "art": "A child nodding slowly with a hand on the back of the neck.",
      "caption": "3. Nod slowly. Feel the back of your neck."
     }
-   ]
+   ],
+   "problem": "Your bones are levers, your joints are their fulcrums, and your muscles give the effort. You will feel the levers in your own arm, foot and neck."
   },
   {
    "id": "a5",
@@ -2668,7 +2682,8 @@
      "art": "A child and a grown-up holding both hands and spinning, the child's path a big circle and the grown-up's a small one.",
      "caption": "3. Spin with a grown-up. Who goes round the bigger circle?"
     }
-   ]
+   ],
+   "problem": "A ruler or a broom has one point where it balances. Two things that go round each other, like the Earth and the Moon, also swing round one shared balance point. You will find the balance point of some things, and then act out the Earth and the Moon."
   },
   {
    "id": "a6",
@@ -2761,7 +2776,8 @@
       "a": 0,
       "why": "Handles are far from the hinges so a small push turns the door. Picking 'they look nice' misses the science. Try pushing near the hinges and feel how hard it is."
      },
-     "think": "A spanner with a long handle loosens a stuck nut more easily. Why?"
+     "think": "A spanner with a long handle loosens a stuck nut more easily. Why?",
+     "parent": "The far end of the handle is further from the nut, which is the point it turns on. A push far from that point turns the nut with a much bigger force. A door handle works in the same way."
     }
    ],
    "context": "In this activity you find out where it is easiest to push a door. A door turns on its hinges, the way a lever turns on its fulcrum.",
@@ -2778,7 +2794,8 @@
      "art": "A paper cup of rice hanging from a string over a chair back, the string taped to the face of a half-open door.",
      "caption": "3. Hang a cup of rice at different places. Count spoonfuls until the door moves."
     }
-   ]
+   ],
+   "problem": "A door turns on its hinges, in the way a lever turns on its fulcrum. You will find out where on a door it is easiest to push."
   }
  ],
  "projects": [
@@ -2913,7 +2930,8 @@
      "do": "Your child shows the family how the shaduf works, naming the fulcrum, load and counterweight.",
      "say": "Teach someone else how the shaduf works. Name the fulcrum, the load and the counterweight.",
      "kid": "Show someone at home your shaduf. Name its parts.",
-     "think": "The first shaduf was invented by someone whose name nobody knows. Do you think they were a farmer, a child or a builder?"
+     "think": "The first shaduf was invented by someone whose name nobody knows. Do you think they were a farmer, a child or a builder?",
+     "parent": "Nobody knows. It was most likely an ordinary farmer or builder who needed to lift water. Many great inventions came from people whose names were never written down."
     }
    ],
    "context": "In this 3-day project, you build a model shaduf. It is a lever with a bucket on one end and a heavy stone on the other, used for 4,000 years to lift water.",
@@ -2934,7 +2952,8 @@
      "art": "A child counting cups of water poured into a second bucket, a timer beside them.",
      "caption": "4. Count cups lifted in one minute. Change one thing and test again."
     }
-   ]
+   ],
+   "problem": "A shaduf is a lever that farmers used for about 4,000 years to lift water. A bucket hangs from one end and a heavy stone from the other. You will build a model shaduf and find out how heavy the stone must be."
   }
  ],
  "challenges": [
@@ -3007,7 +3026,8 @@
       "a": 1,
       "why": "Your pull had to travel a longer way. Every machine trades a smaller pull for a longer distance. Picking 'nothing' means thinking machines give something for free. Picking 'lighter' mixes up the bag's weight with the pull."
      },
-     "think": "Every machine makes a trade. Which trade was the best one for this job?"
+     "think": "Every machine makes a trade. Which trade was the best one for this job?",
+     "parent": "A ramp trades a long walk for a small pull. A lever trades a long push for a small pull. Whichever needed the smallest pull gave the best trade for lifting, but it also needed the longest way."
     }
    ],
    "context": "This is an engineering challenge. You must raise a bag of rice onto a chair using simple machines, with as small a pull as you can.",
@@ -3094,7 +3114,8 @@
      "do": "Talk about who uses ramps, and why some places don't have them.",
      "say": "Who in your street or building would use a ramp? Why do you think some places don't have one?",
      "kid": "Who would use your ramp? Why do some places have no ramp?",
-     "think": "When a place has only steps, who is left outside? Who decides whether a ramp is built?"
+     "think": "When a place has only steps, who is left outside? Who decides whether a ramp is built?",
+     "parent": "People in wheelchairs, parents with prams and people with sore knees are left outside. The owner of the place, the builder and the people who make building rules decide whether a ramp is built."
     }
    ],
    "context": "This is a design challenge. You design a ramp for a real doorstep, so that everyone can get in.",
@@ -4001,5 +4022,117 @@
   "wrong_idea": "Many inventors believed a clever machine could give out more than you put in, and keep turning for ever. Stevin used the fact that this never happens to work out how ramps work."
  },
  "playtest": "Play-tested by walking each game, experiment, activity, project and challenge in order, as a family in a city flat would, and reading every worksheet and quiz card on its own. Balance Bazaar: all 29 coin cards and the 9 ruler labels were checked by arithmetic (coins times peg), and the game now ends only when the 20 cards are used, because the old 15-point cap could end a 2-player game before the Predict and mystery cards. Mystery cards now say to put the coins on the named peg. Machine Spotter: all 30 cards were counted, and an answer list was added to the parent note, since two players had no way to tell which mat is right. Ramp test: both ramps are now cardboard so the rubbing is the same (it was a chopping board against cardboard), the string goes round the truck so it hangs level, and the record says how far the truck travelled. Well winch: the box is open-topped so the string can come out, it sits in a table corner so the crank can swing, and the bottle is 500 ml so a bare pencil really feels hard. Door test: the chart and caption said coins but the test uses rice spoonfuls, now fixed. Shaduf: the wait for tomorrow moved so the days match the schedule, a second bucket and a book on the chair seat were added. Worksheets: a wrong answer-key name (grandmother for the physiotherapist) was fixed, the 3-metre ramp question no longer shows its own answer in the chart, and repeats were removed (a second biceps ratio, replaced by three new items, drum-and-plank, what-you-give-up, see-saw brother, the 20 kg and 40 kg see-saw, the 3-coin ruler sum, the 15 cm step sum, a duplicate chart, and the ramp-road think question). The Archimedes gap is now 1,800 years to match 4,000 and 2,200. Two weak jokes were cut (10 to 8). The three videos were opened and exist. The park see-saw (a2) and PhET (a3, needs internet) are kept but are not flat-only, so the DeepKids offline versions are g1 and e1. Everyday examples now include idukki (Tamil) beside chimta. Unsure: the door test numbers depend on the door, and the shaduf names (picottah, etram) were not re-checked.",
- "warm": {"words": ["LEVER", "WHEEL", "SCREW", "WEDGE", "SLOPE"], "quiz": [["A light child sitting far from the middle can lift a heavier person on a see-saw.", true, "A lever balances when weight times distance from the fulcrum is equal on both sides."], ["Archimedes invented the lever.", false, "Farmers used levers like the shaduf long before he was born. Archimedes explained how levers work."], ["A longer, gentler ramp needs a smaller push to raise a load to the same height.", true, "A gentle slope spreads the lift over a longer path, so the push can be smaller."], ["A clever enough wheel could keep turning for ever and give free energy.", false, "The turning effects on both sides always end up balanced, and friction slows any wheel."], ["A machine can give out more work than you put in.", false, "A machine makes the push smaller but the distance longer, so the work stays the same."], ["A screw is a ramp wrapped round a rod.", true, "A screw is an inclined plane wound round a rod, and a wedge is two ramps back to back."], ["A big wheel fixed to a thin axle turns a strong push into a weak twist.", false, "A small push on the big wheel gives a strong twist on the thin axle."], ["Your bones are levers, with your joints as the fulcrums.", true, "Bones are the bars, joints are the points they turn on, and muscles give the effort."], ["Dragging a heavy box takes less push than rolling it on rollers.", false, "Rolling takes much less push than dragging a load along the ground."], ["A machine can change the direction of a push.", true, "Machines can change how big a force is, which way it points, or how far it moves."]], "odd": [[["Ramp", "Wedge", "Screw", "Pulley"], "Pulley", "A ramp, a wedge and a screw are all sloping surfaces in some form; a pulley is not."], [["See-saw", "Crowbar", "Elbow joint", "Rolling ball"], "Rolling ball", "A see-saw, a crowbar and an elbow are levers turning on a point; a rolling ball has no fulcrum."], [["Longer ramp", "Gentler slope", "Pushing far out on a lever", "Dragging on rough ground"], "Dragging on rough ground", "The first three make the push smaller; dragging on rough ground needs a bigger push."], [["2 kg at 6 m", "3 kg at 4 m", "4 kg at 3 m", "5 kg at 3 m"], "5 kg at 3 m", "The first three each give weight times distance of 12, but 5 kg at 3 m gives 15."], [["Smaller push, longer way", "Bigger push, shorter way", "Same work in and out", "Free-energy wheel"], "Free-energy wheel", "The first three are true of machines, but no machine or wheel has ever given free energy."]]}
+ "warm": {
+  "words": [
+   "LEVER",
+   "WHEEL",
+   "SCREW",
+   "WEDGE",
+   "SLOPE"
+  ],
+  "quiz": [
+   [
+    "A light child sitting far from the middle can lift a heavier person on a see-saw.",
+    true,
+    "A lever balances when weight times distance from the fulcrum is equal on both sides."
+   ],
+   [
+    "Archimedes invented the lever.",
+    false,
+    "Farmers used levers like the shaduf long before he was born. Archimedes explained how levers work."
+   ],
+   [
+    "A longer, gentler ramp needs a smaller push to raise a load to the same height.",
+    true,
+    "A gentle slope spreads the lift over a longer path, so the push can be smaller."
+   ],
+   [
+    "A clever enough wheel could keep turning for ever and give free energy.",
+    false,
+    "The turning effects on both sides always end up balanced, and friction slows any wheel."
+   ],
+   [
+    "A machine can give out more work than you put in.",
+    false,
+    "A machine makes the push smaller but the distance longer, so the work stays the same."
+   ],
+   [
+    "A screw is a ramp wrapped round a rod.",
+    true,
+    "A screw is an inclined plane wound round a rod, and a wedge is two ramps back to back."
+   ],
+   [
+    "A big wheel fixed to a thin axle turns a strong push into a weak twist.",
+    false,
+    "A small push on the big wheel gives a strong twist on the thin axle."
+   ],
+   [
+    "Your bones are levers, with your joints as the fulcrums.",
+    true,
+    "Bones are the bars, joints are the points they turn on, and muscles give the effort."
+   ],
+   [
+    "Dragging a heavy box takes less push than rolling it on rollers.",
+    false,
+    "Rolling takes much less push than dragging a load along the ground."
+   ],
+   [
+    "A machine can change the direction of a push.",
+    true,
+    "Machines can change how big a force is, which way it points, or how far it moves."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Ramp",
+     "Wedge",
+     "Screw",
+     "Pulley"
+    ],
+    "Pulley",
+    "A ramp, a wedge and a screw are all sloping surfaces in some form. A pulley is not."
+   ],
+   [
+    [
+     "See-saw",
+     "Crowbar",
+     "Elbow joint",
+     "Rolling ball"
+    ],
+    "Rolling ball",
+    "A see-saw, a crowbar and an elbow are levers turning on a point. A rolling ball has no fulcrum."
+   ],
+   [
+    [
+     "Longer ramp",
+     "Gentler slope",
+     "Pushing far out on a lever",
+     "Dragging on rough ground"
+    ],
+    "Dragging on rough ground",
+    "The first three make the push smaller. Dragging on rough ground needs a bigger push."
+   ],
+   [
+    [
+     "2 kg at 6 m",
+     "3 kg at 4 m",
+     "4 kg at 3 m",
+     "5 kg at 3 m"
+    ],
+    "5 kg at 3 m",
+    "The first three each give weight times distance of 12, but 5 kg at 3 m gives 15."
+   ],
+   [
+    [
+     "Smaller push, longer way",
+     "Bigger push, shorter way",
+     "Same work in and out",
+     "Free-energy wheel"
+    ],
+    "Free-energy wheel",
+    "The first three are true of machines, but no machine or wheel has ever given free energy."
+   ]
+  ]
+ }
 }
