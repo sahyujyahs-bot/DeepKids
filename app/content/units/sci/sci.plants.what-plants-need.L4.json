@@ -3,7 +3,7 @@
   "title": "What plants need underground: air, minerals and helpers in the soil",
   "level": 4,
   "summary": {
-    "text": "A brinjal plant in a big pot starts to droop and turn yellow. The family waters the plant more and adds fertiliser, and the plant gets worse. What is wrong? Your child pours water onto dry soil and sees bubbles of air rush out, and finds that between a third and a half of soil is gaps. Roots need that air as much as they need water. Then comes the rest of what happens underground: about a dozen minerals that a plant needs in tiny amounts, the rule that the mineral in shortest supply limits how well the plant grows, bacteria that make fertiliser inside bean roots, and fungi that trade with trees. Some of it is well known, and some of it scientists still argue about.",
+    "text": "A brinjal plant in a big pot starts to droop and turn yellow. The family waters the plant more and adds fertiliser, and the plant gets worse. What is wrong? Your child pours water onto dry soil and sees bubbles of air rush out, and finds that between a third and a half of soil is gaps. Roots need that air as much as they need water. Then comes the rest of what happens underground: about a dozen minerals that a plant needs in tiny amounts, the rule that the mineral in shortest supply limits how well the plant grows, bacteria inside bean roots that turn nitrogen from the air into a form the plant can use, and fungi that trade with trees. Some of it is well known, and some of it scientists still argue about.",
     "art": "A brinjal plant with yellow leaves in a pot standing in a saucer of water, and a cutaway of the pot showing pale roots drowning in soaked soil."
   },
   "intro": {
@@ -217,7 +217,7 @@
       "concept": "The shortest plank: the limiting nutrient",
       "status": "defined",
       "definition": "A plant's growth is limited by the mineral that is in the shortest supply. Adding more of the other minerals does not help until the shortest one is supplied.",
-      "description": "Think of a wooden barrel made of planks of different heights. You can only fill the barrel as high as the shortest plank, because water spills over it. A plant is like that. Suppose the soil has lots of phosphorus and potassium but very little nitrogen. The plant grows only as well as the nitrogen allows. Pouring on more phosphorus does nothing. This idea is called the law of the minimum. A German agricultural scientist named Carl Sprengel worked it out in 1828, and the chemist Justus von Liebig made it famous in the 1840s. Today it is often called Liebig's law, though Sprengel was first. Farmers use it. They test the soil, find the mineral in shortest supply and add only that. This saves money, and it saves the soil and rivers from extra minerals that the crop cannot use.",
+      "description": "Imagine a wooden barrel made of planks of different heights. When you pour water in, it rises only as high as the shortest plank, and then it spills out over that plank. The taller planks make no difference. A plant works in the same way. Each mineral is a plank, and how well the plant grows is the water level. Suppose the soil has lots of phosphorus and potassium but very little nitrogen. The plant grows only as well as the nitrogen allows. Pouring on more phosphorus does nothing. This idea is called the law of the minimum. A German agricultural scientist named Carl Sprengel worked it out in 1828, and the chemist Justus von Liebig made it famous in the 1840s. Today it is often called Liebig's law, though Sprengel was first. Farmers use it. They test the soil, find the mineral in shortest supply and add only that. This saves money, and it saves the soil and rivers from extra minerals that the crop cannot use.",
       "examples": [
         "A farmer's soil test shows plenty of potassium and phosphorus but low nitrogen. She adds a nitrogen fertiliser, and the crop improves.",
         "A house plant with pale leaves does not need more water. They may need a few drops of fertiliser with nitrogen."
@@ -284,7 +284,7 @@
       "concept": "Compost and humus: dead things feed the living",
       "status": "defined",
       "definition": "Compost is plant and animal waste rotted by bacteria, fungi and worms. It turns into humus and minerals that plants can take up, and it opens up the soil so that it holds air and water.",
-      "description": "Nothing in nature is waste. A fallen leaf, a vegetable peel or cow dung is food for decomposers: bacteria, fungi, worms, beetles and tiny soil creatures. They break the dead material down. They use some of it for their own bodies and energy, and leave the rest as simple minerals that roots can take in, such as nitrate and phosphate. What remains is a dark, spongy material called humus. Humus does three jobs. It holds minerals so that rain does not wash them away. It holds water like a sponge. And it makes the soil crumbly, with lots of gaps for air. This is why gardeners add compost, and why farmers in India have used cow dung manure and vermicompost for centuries. A heap of compost can get warm, because the decomposers are respiring fast and giving off heat. Rotting is not the end of a leaf. It is the leaf's next job.",
+      "description": "In nature, dead things are not thrown away. They are used again. A fallen leaf, a vegetable peel or cow dung is food for decomposers: bacteria, fungi, worms, beetles and tiny soil creatures. They break the dead material down. They use some of it for their own bodies and energy, and leave the rest as simple minerals that roots can take in, such as nitrate and phosphate. What remains is a dark, spongy material called humus. Humus does three jobs. It holds minerals so that rain does not wash them away. It holds water like a sponge. And it makes the soil crumbly, with lots of gaps for air. This is why gardeners add compost, and why farmers in India have used cow dung manure and vermicompost for centuries. A heap of compost can get warm, because the decomposers are respiring fast and giving off heat. A rotting leaf is not wasted. It becomes food for the soil, and later it helps new plants to grow.",
       "examples": [
         "Kitchen peels and dry leaves turn into dark, earthy-smelling compost in a few weeks to months.",
         "Vermicompost is made by earthworms eating waste and leaving rich castings behind.",
@@ -365,7 +365,7 @@
     {
       "concept": "The Green Revolution: more food, and new costs",
       "status": "debated",
-      "description": "In the 1960s, India had a food shortage and relied on grain from other countries. Scientists, including Norman Borlaug in Mexico and M. S. Swaminathan in India, helped bring in new short-stalked varieties of wheat and rice. These plants put more of their energy into grain, and did not fall over when given a lot of fertiliser. With fertiliser, irrigation and new seed, harvests rose steeply, and India became much less dependent on imported grain. This was called the Green Revolution. It also brought costs. Farmers bought seed, fertiliser and pumps, and many took on debts. In some regions, the water in the ground fell, and soils became tired. Extra fertiliser flowed into rivers. Scientists and farmers still disagree about the balance.",
+      "description": "In the 1960s, India had a food shortage and relied on grain from other countries. Scientists, including Norman Borlaug in Mexico and M. S. Swaminathan in India, helped bring in new short-stalked varieties of wheat and rice. These plants put more of their energy into grain, and did not fall over when given a lot of fertiliser. With fertiliser, irrigation and new seed, harvests rose steeply, and India became much less dependent on imported grain. This was called the Green Revolution. It also brought costs. Farmers bought seed, fertiliser and pumps, and many took on debts. In some regions, the water in the ground fell, and the soil gave smaller harvests than before. Extra fertiliser flowed into rivers. Scientists and farmers still disagree about the balance.",
       "examples": [
         "In Punjab and Haryana, wheat and rice harvests rose steeply, and the water table in many places has fallen.",
         "Newer ideas, such as growing dal in turns with cereals and adding compost, aim to keep the high yields while caring for the soil."
@@ -545,7 +545,7 @@
       "Then she did something Paati had never done in forty years. She pushed a finger into the soil, two knuckles deep. 'Dry here,' she said. 'Now we can water.' She gave Rani just half a mug.",
       "Ten days later, a small green leaf, the colour of a new parrot, opened at the top of Rani's stem. The old yellow leaves stayed yellow, but Paati did not mind. She snipped them off and put them in the compost.",
       "Salma Aunty came up to see. 'My tulsi is going yellow,' she said. 'Can you look at it, Revathi?'",
-      "Paati stood at the balcony with her arms folded. 'Check the finger,' she told her friend, 'not the clock.' She winked at her granddaughter."
+      "Paati stood at the balcony with her arms folded. 'Check the soil with your finger,' she told her friend, 'not the clock.' She winked at her granddaughter."
     ],
     "epiphany": "For the parent: roots are alive and breathe. They get oxygen from the air in the gaps between soil grains. When the gaps fill with water, the air is pushed out, and the roots drown. Drooping can mean too much water, and not only too little. In the story, Revathi's clue is the bubbles of air from the soil in a glass, and the proof is the brown, slimy roots. Strong fertiliser on drowned roots makes things worse, because roots with no oxygen cannot take in minerals.",
     "ask": [
@@ -2008,7 +2008,7 @@
           "id": "s3",
           "mins": 15,
           "adult": true,
-          "do": "A grown-up reads the fertiliser label and mixes 1 litre of strong solution in the bottle, at double the label dose. Pour 300 millilitres of strong solution into jar C. For jar B, mix 75 millilitres (five tablespoons) of strong solution with 225 millilitres of low-mineral water. Fill jar A with 300 millilitres of low-mineral water only.",
+          "do": "A grown-up reads the fertiliser label and mixes 1 litre of strong solution in the bottle, at double the label dose. Pour 300 millilitres of strong solution into jar C. For jar B, mix 75 millilitres (five tablespoons) of strong solution with 225 millilitres of low-mineral water, which means distilled water or clean rainwater. Fill jar A with 300 millilitres of low-mineral water only.",
           "say": "Jar A gets plain low-mineral water. Jar C gets the strong solution, double the label dose. Jar B gets one quarter of that, which is half the label dose. A grown-up measures. Mark the jars.",
           "kid": "A grown-up measures the fertiliser. Mark the jars A, B and C.",
           "parent": "Labels usually give a dose per litre, so double it for the strong solution (for example, 2.5 millilitres per litre becomes 5). Measure carefully, because the point of the test is the difference in dose. Ordinary tap water already holds some minerals, so jar A is only low in minerals, not empty, and the difference may be smaller. Wrap each jar in dark paper to stop green slime growing on the roots. Tape the card over each jar and push the sprouts through, so that the seed rests on the card and only the roots reach the water. Leave a small air gap between the water and the card, because roots need air too. Top up with the same solution when the water drops. With one child, the child sets up and measures all three jars. With two to four children, each child takes one jar, and then they compare.",
@@ -2670,7 +2670,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Draw a table with five rows. Write the columns: plant, leaves, soil, light, my guess. Explain the finger test.",
+          "do": "Draw a table with five rows. Write the columns: plant, leaves, soil, light, my guess. Explain the finger test: push a clean finger two knuckles deep into the soil. If it feels dry, the plant needs water. If it feels damp or wet, wait.",
           "say": "We will check five plants like a plant doctor. For each one, look at the leaves, feel the soil and think about the light.",
           "kid": "Draw a table. Look at five plants. Do the finger test on each soil.",
           "parent": "Play Plant Doctor first, or copy a few clues from its tokens. Two to four children can each take different plants, and then compare guesses. Only touch plants that belong to you or that you have permission to touch. For the finger test, push a clean finger two knuckles deep into the soil, away from the stem. Wash hands afterwards.",
@@ -2782,14 +2782,14 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Make the notches at five clearly different heights, 1 to 2 centimetres apart, on the rim of the cut bottle. Label the notches N, P, K, Ca and Fe. Dry the outside before taping. With one child, the child pours and the parent counts. With two to four children, one pours, one tapes, one counts cups and one records. Or each child makes a bottle with different notch heights and predicts where the water will spill.",
+          "parent": "Do not correct the guess. Make the notches at five clearly different heights, 1 to 2 centimetres apart, on the rim of the cut bottle. Label the notches N for nitrogen, P for phosphorus, K for potassium, Ca for calcium and Fe for iron. Dry the outside before taping. With one child, the child pours and the parent counts. With two to four children, one pours, one tapes, one counts cups and one records. Or each child makes a bottle with different notch heights and predicts where the water will spill.",
           "context": "This is the first step of Liebig's Bottle. You guess before you test."
         },
         {
           "id": "s2",
           "mins": 10,
           "do": "Pour water slowly into the bottle until it spills. Mark the level and count the cups that went in. Tape over the lowest notch. Pour again. Mark the new level and count the cups again.",
-          "say": "Pour until the water spills. Tape over the lowest notch. Pour again. What happens to the level? Does the next lowest notch decide?",
+          "say": "Pour until the water spills. Taping over the lowest notch is like a farmer adding the mineral that was short, so that notch no longer spills. Pour again. What happens to the level? Does the next lowest notch decide?",
           "kid": "Pour until it spills. Tape the lowest notch. Pour again.",
           "ask": [
             {
@@ -3029,7 +3029,7 @@
           "mins": 25,
           "adult": true,
           "do": "A grown-up cuts the bottle and pokes holes. Layer a handful of dry leaves, a handful of chopped peels, and a handful of soil. Repeat. Spray with water until damp.",
-          "say": "Build it in layers: dry leaves, then peels, then soil. Then do the three layers again. Spray with water until it feels like a wrung-out sponge.",
+          "say": "Build it in layers: dry leaves, then peels, then soil. Then do the three layers again. Spray with water until it feels like a wrung-out sponge. The air holes, and the stirring, bring oxygen to the tiny decomposers, which need it to breathe.",
           "kid": "A grown-up cuts the bottle. Add layers of leaves, peels and soil. Spray with water.",
           "parent": "Cut the peels small, which helps them rot faster. Mix about two parts dry leaves to one part peels. The heap should be damp but not dripping. If it is too wet, it will smell sour, because the gaps fill with water and run out of air. Add dry leaves, and stir.",
           "check": {

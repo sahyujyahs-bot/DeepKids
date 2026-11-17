@@ -56,7 +56,7 @@ Behind the tip of each young root, single cells grow out into root hairs. They a
 ### Fungus helpers: reaching water a root cannot reach · *defined*
 **Definition:** Mycorrhiza is a partnership between a plant's roots and a fungus. The fungus grows threads, thinner than root hairs, out into the soil and brings back water and minerals. The plant gives the fungus sugar.
 
-About 7 or 8 in every 10 kinds of land plants have fungus partners. The fungal threads reach into tiny gaps that even a root hair cannot enter, and they spread far from the root. In return, the plant sends part of the sugar she makes down to the fungus. Water and minerals travel one way, and sugar travels the other. Scientists are still finding out how much water the fungus really brings in different soils.
+About 8 or 9 in every 10 kinds of land plants have fungus partners. The fungal threads reach into tiny gaps that even a root hair cannot enter, and they spread far from the root. In return, the plant sends part of the sugar she makes down to the fungus. Water and minerals travel one way, and sugar travels the other. Scientists are still finding out how much water the fungus really brings in different soils.
 - e.g. Most trees in a forest share fungal threads under the soil.
 - e.g. Many crop plants, such as maize and finger millet, grow better with fungus partners in poor soil.
 ### The slope from soil to sky · *defined*
@@ -111,7 +111,7 @@ In the 1670s, the Italian scientist Marcello Malpighi cut a ring of bark off a b
 - Water goes up in the xylem, and sugar travels in the phloem, which is a different set of tubes. *How we know:* Cutting a ring of bark stops sugar but not water. Aphids feed on phloem sap, and sugars marked with a radioactive label can be followed through the plant. Both show where the sugar flows.
 
 ## How we found out
-**Per Scholander (1905 to 1980), a Norwegian-born scientist working in the United States, building on Henry Dixon and John Joly of Dublin, 1894 (the idea), and the early 1960s, with results published in 1965 (the measurement).** In 1894, Henry Dixon and John Joly, two scientists in Dublin, said that a tree pulls her water up from the top, and that the water holds together in an unbroken thread under strain. Many scientists did not believe it. A pulled thread of water, they said, should snap. And nobody could measure the pull inside a living tree. In the early 1960s, Per Scholander, a Norwegian-born scientist working in the United States, found a way. He cut a leafy twig and sealed it in a metal chamber, with the cut end poking out. Then he slowly raised the gas pressure around the leaves. When a drop of sap just showed at the cut end, the gas pressure matched how hard the twig had been pulling its water. He measured pulls many times stronger than the pressure of the air around us. The thread of water had not snapped. Scientists still argue about some details.  
+**Per Scholander (1905 to 1980), a Norwegian-born scientist working in the United States, building on Henry Dixon and John Joly of Dublin, 1894 (the idea), and the early 1960s, with results published in 1965 (the measurement).** In 1894, Henry Dixon and John Joly, two scientists in Dublin, said that a tree pulls her water up from the top, and that the water holds together in an unbroken thread that is pulled tight, like a rope. Many scientists did not believe it. A pulled thread of water, they said, should snap. And nobody could measure the pull inside a living tree. In the early 1960s, Per Scholander, a Norwegian-born scientist working in the United States, found a way. He cut a leafy twig and sealed it in a metal chamber, with the cut end poking out. Then he slowly raised the gas pressure around the leaves. When a drop of sap just showed at the cut end, the gas pressure matched how hard the twig had been pulling its water. He measured pulls many times stronger than the pressure of the air around us. The thread of water had not snapped. Scientists still argue about some details.  
 *What people believed before:* Many scientists thought a thread of water pulled so hard must snap, so the pull idea could not be right. Scholander measured the pull and found that plants hold water under strong pull without it breaking.
 
 ## Challenging perspectives
@@ -151,7 +151,7 @@ A drop of water in wet soil, in a root, in a leaf and in the air is the same dro
 - Other view, Many plant physiologists: When the soil dries, a root's cells fill with more sugars and salts because chemical signals switch genes on. That is chemistry running by itself. Saying the plant 'decides' is only a way of talking.
 - Practice, The water you cannot squeeze out (3 min): Wet a clean cloth and hold it in both hands. Squeeze it gently and let the water drip into a bowl. Then squeeze as hard as you can. Notice that the cloth is still damp. Breathe in slowly, and breathe out slowly, three times. Think of the damp that stays in the cloth. Some water stays held, however hard you squeeze.
 - Ask: If a root cannot drink from wet soil because the soil holds on too tightly, was there water there or not?
-- Ask: A mangrove and the sea both hold on to water. Is the contest fair? Who is winning, and does anyone lose?
+- Ask: A mangrove and the sea water each try to hold on to water, and the mangrove holds on tighter. Who is winning, and does anyone lose?
 - Ask: A plant thickens her sap when the soil dries. Is she deciding, or is it just happening? How could you ever tell the difference?
 
 ## Deep and big questions
@@ -177,9 +177,9 @@ Moushumi did not understand. The bed was soaked, and her uncle was giving it mor
 
 That evening, her grandmother, Thakuma, sat on the step with a heap of bitter gourd. She cut it into thin rounds, threw handfuls of salt over it and left it in a steel plate. 'Why salt?' Moushumi asked. 'To bring out the bitter water,' said Thakuma. 'My mother did it, and hers.' When Moushumi came back after a while, a green puddle had gathered under the rounds, and the slices had gone soft.
 
-She looked at the puddle for a long time. In class, Ranu Didi had done the same with cucumber. Salt does not make water, Didi had said. Salt holds water, so tightly that the cucumber lets go. Moushumi licked her finger, dipped it in the pond water, and licked it again. Salt. The sea had filled that pond.
+She looked at the puddle for a long time. In class, her teacher, Ranu Didi, had done the same with cucumber. Salt does not make water, Didi had said. Salt holds water, so tightly that the cucumber lets go. Moushumi licked her finger, dipped it in the pond water, and licked it again. Salt. The sea had filled that pond.
 
-She thought of the roots in the bed, sitting in mud soaked with the sea. If salt could pull water out of a gourd, it could pull water out of a root. The mud was wet, and still it held its water too tightly to give any away. The seedlings stood in water and could not drink a drop. And every bucket from the pond made the grip tighter.
+She thought of the roots in the bed, sitting in mud soaked with the sea. If salt could pull water out of a gourd, it could pull water out of a root. The mud was wet, and still it held its water too tightly to give any away. The seedlings stood in water and could not drink a drop. And every bucket from the pond added more salt, so the salty mud held its water even tighter.
 
 She wanted to be sure before she spoke, because who listens to a girl of ten? So she tested it. She dug up six seedlings and washed their roots. She stood three in a cup of pond water and three in a cup of rain water from the drum on the roof. Rupa kept watch. By dusk, the three in the pond water were lying over the rim. The three in the rain water still stood straight.
 
@@ -206,7 +206,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 - **Printable tokens: 8 tokens: four marked Toward A and four marked Toward B:** Toward A; Toward A; Toward A; Toward A; Toward B; Toward B; Toward B; Toward B
 - **s1 (5 min)**  
   *Parent does:* Cut out the 24 cards and the 8 tokens. Read the first rule together. Say that the water always goes toward the bigger pull number.  
-  *Parent says:* Each card shows two places, A and B, with a pull number. Water goes toward the place with the bigger number. Your job is to say which one, and why.  
+  *Parent says:* A pull number tells how tightly a place holds its water. A bigger number means a tighter hold. Each card shows two places, A and B, with a pull number. Water goes toward the place with the bigger number. Your job is to say which one, and why.  
   *Child mode:* Each card has two places with numbers. Water goes toward the bigger number. Which one?
   - Ask: If A has a pull number of 3 and B has 1, which way does the water go? (good: Toward A.; Toward the bigger number.)
   - Note: Do not explain the cards. Let the game teach. If a child asks why the water goes to the bigger number, say that the bigger number means it is held tighter, and say that the reasons will become clear as you play.
@@ -319,14 +319,14 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   - Check: Why do we float oil on top of the water? → **So water can only leave through the leaves, not from the surface**
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* Cut the end of each sprig fresh, under a little water in a bowl. Push one sprig into each bottle neck, so the cut end is in the water and the leaves are outside. Put a bag over the leaves of bottle C and fasten it loosely round the bottle neck with a rubber band.  
-  *Parent says:* Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck.  
+  *Parent says:* Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck. The bag will trap the water vapour that leaves the leaves, so the air inside it will get damp.  
   *Child mode:* Put a sprig in each bottle. Tie a bag over the leaves of bottle C.
   - Note: A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag closed round the bottle neck keeps the air inside damp. Do not pull the rubber band so tight that the sprig is crushed. If a sprig leans or falls, tape its stem to the bottle neck. Mint and coriander droop fast once cut, so set up quickly.
 - **s4 (4 min)**  
   *Parent does:* Put bottle A under a ceiling fan, or in front of a table fan on low, about 1 metre away. Put bottles B and C in the same room, in still air. Use a corner or a spot behind a standing book, away from the fan. Switch the fan on and write the time.  
   *Parent says:* A goes where the breeze reaches it. B and C go behind a book, out of the breeze. Switch the fan on and write down the time.  
   *Child mode:* Put A in the breeze. Put B and C in still air. Write the time.
-  - Note: Keep all three in the same light, at the same height. A table fan on low is enough. Keep B and C out of direct sun: a bag in the sun gets hot and wilts the sprig. Hold a thin strip of tissue near B and C: it should hardly move. Leave them for at least 3 hours. Leave the fan on while someone is home and switch it off at bedtime; most of the difference between the bottles builds up in daylight, when the leaf pores are open. On a damp, rainy day the differences will be smaller.
+  - Note: Keep all three in the same light, at the same height. A table fan on low is enough. Keep B and C out of direct sun: a bag in the sun gets hot and wilts the sprig. Hold a thin strip of tissue near B and C: it should hardly move. Leave them for at least 3 hours. Leave the fan on while someone is home and switch it off at bedtime; most of the difference between the bottles builds up in daylight, when the stomata, the tiny holes in the leaves, are open. On a damp, rainy day the differences will be smaller.
 - **s5 (5 min)**  
   *Parent does:* After 3 hours, look at the bag on bottle C. Are there drops inside? Measure how far the oil has dropped on each bottle with the ruler. Write the numbers.  
   *Parent says:* It has been three hours. Look inside bag C. What do you see? Then measure how far each oil level has dropped.  

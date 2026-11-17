@@ -30,7 +30,7 @@
     },
     {
       "term": "Loam",
-      "meaning": "A soil with a good mix of sand, silt, clay and humus. It drains well and still holds water that roots can use.",
+      "meaning": "A soil with a good mix of sand, silt, clay and humus. Humus is the dark, crumbly part of soil that comes from rotted leaves and roots. Loam drains well and still holds water that roots can use.",
       "example": "Many vegetable gardens and fruit orchards are planted in loam.",
       "art": "A cut-away of a garden bed with dark crumbly loam, roots running through it and a worm in a gap."
     },
@@ -136,7 +136,7 @@
       "concept": "Texture decides how soil behaves with water",
       "status": "defined",
       "definition": "A soil's texture is how much sand, silt and clay it has. The size of the grains decides how much water the soil holds and how fast it lets go.",
-      "description": "Water in soil does not sit in puddles between the grains. Most of it clings to the grains as thin films. The finer the grains, the more grain surface there is for water to cling to. A few grams of some clays have more grain surface than a classroom floor. So clay holds a lot of water, and holds it tightly. But its gaps are tiny, so water drains very slowly, and when the soil is soaked there is little air left for roots. Sand is the other way round. Its gaps are big, so water runs through quickly and air gets in, but very little water stays behind. Loam has some of each, so it drains well and still keeps a lot of water that roots can use.",
+      "description": "Water in soil does not sit in puddles between the grains. Most of it clings to the grains as thin films. The finer the grains, the more grain surface there is for water to cling to. Clay grains are very tiny. If you added up the surface of every grain in a few grams of clay, it could cover a classroom floor. So clay holds a lot of water, and holds it tightly. But its gaps are tiny, so water drains very slowly, and when the soil is soaked there is little air left for roots. Sand is the other way round. Its gaps are big, so water runs through quickly and air gets in, but very little water stays behind. Loam has some of each, so it drains well and still keeps a lot of water that roots can use.",
       "examples": [
         "A sandy pot dries out in a day in summer and needs watering often.",
         "A field of heavy clay stays sticky and waterlogged after rain, and roots can struggle for air.",
@@ -164,7 +164,7 @@
       "concept": "Capillary rise: how water climbs through soil",
       "status": "defined",
       "definition": "Capillary rise is water climbing up through very narrow gaps against gravity. The narrower the gap, the higher the water climbs.",
-      "description": "Water is sticky in two ways. Water particles stick to each other, and they stick to the surface of the grains. At the edge of a narrow gap, the water sticks to the wall and pulls the water behind it upwards. This goes on until the weight of the lifted water balances the pull. In a wide gap, the pull is small, so water climbs only a little. In a narrow gap, the pull is strong, so water climbs much higher. It also moves more slowly through narrow gaps, because the gap is tight. So water climbs only a centimetre or two in gravel, tens of centimetres in sand, and up to a metre or more in very fine soil in the ground. But the finer the soil, the slower the climb. A cup of sand fills quickly, and a cup of fine soil takes much longer to wet. Capillary rise is also why a wick lifts oil up in a diya, and why a sugar cube turns brown when you touch it to tea.",
+      "description": "Water is sticky in two ways. Water particles stick to each other, and they stick to the surface of the grains. At the edge of a narrow gap, the water sticks to the wall and pulls the water behind it upwards. This goes on until the weight of the lifted water balances the pull. In a wide gap, the pull is small, so water climbs only a little. In a narrow gap, the pull is strong, so water climbs much higher. This is why water climbs only a centimetre or two in gravel, and tens of centimetres in sand. In very fine soil in the ground, it can climb a metre or more. Narrow gaps also slow the water down, because it is hard to squeeze through such a tight space. So a cup of sand fills quickly, but a cup of fine soil takes much longer to wet. Capillary rise is also why a wick lifts oil up in a diya, and why a sugar cube turns brown when you touch it to tea.",
       "examples": [
         "Water climbs up the threads of a dry towel hanging with one corner in a bucket.",
         "A mud wall of a house gets damp at the bottom after the rains, as water climbs up from the wet ground.",
@@ -178,7 +178,7 @@
       "concept": "Why the top of a field dries, and what mulch does",
       "status": "defined",
       "definition": "Soil loses most of its water to the air by evaporation from the top. Mulch, a cover of straw or leaves, slows this down.",
-      "description": "Water climbs up through the soil by capillary rise until it reaches the surface. There the Sun and wind turn it into vapour and carry it away. On a hot day a bare field can lose a thick layer of water this way. A cover of straw, dry leaves or husk shades the soil and stops the wind from reaching it, so much less water escapes. Mulch also stops raindrops from beating the soil hard, and, as it rots, it turns into humus. Some farmers also loosen the top few centimetres of soil with a hoe. This is meant to break the narrow paths that the water climbs, so it is not drawn all the way up to the surface. Scientists find that this works well in some soils and hardly at all in others.",
+      "description": "Water climbs up through the soil by capillary rise until it reaches the surface. There the Sun and wind turn it into vapour and carry it away. On a hot day, a bare field can lose a lot of water this way. A cover of straw, dry leaves or husk shades the soil and stops the wind from reaching it, so much less water escapes. Mulch also stops raindrops from beating the soil hard, and, as it rots, it turns into humus, the dark, crumbly part of soil that holds water. Some farmers also loosen the top few centimetres of soil with a hoe. This is meant to break the narrow paths that the water climbs, so it is not drawn all the way up to the surface. Scientists find that this works well in some soils and hardly at all in others.",
       "examples": [
         "Farmers lay paddy straw, coconut husk or sugarcane leaves around the plants in vegetable and banana fields.",
         "A gardener covers the soil of a pot with dry leaves to keep it damp.",
@@ -205,7 +205,7 @@
       "examples": [
         "A pale yellow rice field often means the plants are short of nitrogen.",
         "The numbers on a bag of complex fertiliser, such as 19:19:19, are the shares of nitrogen, phosphorus and potassium.",
-        "The Soil Health Card tells a farmer whether the soil is low, medium or high in each of these."
+        "The Soil Health Card is a report on a soil test that the Government of India gives a farmer. It tells her whether the soil is low, medium or high in each of these."
       ],
       "perspectives": [],
       "art": "A young plant with three arrows from the roots labelled N for leaves, P for roots and flowers, K for water and health, beside a fertiliser bag showing three numbers.",
@@ -215,7 +215,7 @@
       "concept": "Nitrogen from the air: the bean and the bacteria",
       "status": "defined",
       "definition": "Most plants cannot use the nitrogen gas in the air. Legumes can, because bacteria living in swellings on their roots change nitrogen gas into a form the plant can use.",
-      "description": "About four of every five parts of air are nitrogen gas. Yet plants cannot use it, because the two nitrogen atoms in each molecule are held together very strongly. Some bacteria have a tool that can break that hold. Bean plants and their relatives have learned to house these bacteria. Rhizobium bacteria enter the root hairs of a young legume. The root grows a nodule around them. Inside, the bacteria change nitrogen gas into ammonia, which the plant turns into protein. The plant pays for this with sugar made in her leaves. Breaking the nitrogen bond takes a lot of energy. The tool the bacteria use is damaged by oxygen, so the nodule makes a red-pink substance that holds oxygen back. A working nodule is pink when you cut it open. Lightning also fixes a little nitrogen, and so do bacteria that live free in the soil. Rice farmers in India grow a floating fern called azolla in paddy fields, where blue-green bacteria in the fern leaves fix nitrogen.",
+      "description": "About four of every five parts of air are nitrogen gas. Yet plants cannot use it, because the two nitrogen atoms in each molecule are held together very strongly. Some bacteria have an enzyme that can break that hold. An enzyme is a tiny working part inside a living cell that makes one particular change happen. Bean plants and their relatives let these bacteria live in their roots. Rhizobium bacteria enter the root hairs of a young legume. The root grows a nodule around them. Inside, the bacteria change nitrogen gas into ammonia, a form of nitrogen that plants can use. The plant then builds the ammonia into protein. The plant pays for this with sugar made in her leaves. Breaking the nitrogen bond takes a lot of energy. Oxygen damages that enzyme. So the nodule makes a red-pink substance that holds oxygen back, which keeps the enzyme safe. A working nodule is pink when you cut it open. Lightning also fixes a little nitrogen, and so do bacteria that live free in the soil. Rice farmers in India grow a floating fern called azolla in paddy fields, where blue-green bacteria in the fern leaves fix nitrogen.",
       "examples": [
         "Moong, urad, groundnut, chana and peas all grow nodules on their roots.",
         "A working nodule is pink inside, and one that has stopped working is white or green.",
@@ -266,7 +266,7 @@
       "concept": "Salt in the soil",
       "status": "defined",
       "definition": "Water used on fields carries a little salt. When the water evaporates or is taken up by plants, the salt is left behind and builds up in the soil.",
-      "description": "All water from rivers, canals and wells carries a little dissolved salt. When this water is spread on a field and evaporates, only the water goes into the air. The salt stays. Year after year, it builds up, and in dry places a white crust can appear on the top of the soil. Salt makes it harder for roots to take in water, and too much damages them. Seeds sprout badly in salty soil. Salt also arrives where seawater creeps into the ground along a coast. Farmers can clear it by letting extra water wash the salt down and out through drains. Some crops have learned to cope. In Kerala, the Pokkali rice grown in the backwaters of Alappuzha and Ernakulam can grow in salty water. Millions of hectares of farmland around the world are damaged by salt.",
+      "description": "All water from rivers, canals and wells carries a little dissolved salt. When this water is spread on a field and evaporates, only the water goes into the air. The salt stays. Year after year, it builds up, and in dry places a white crust can appear on the top of the soil. Salt makes it harder for roots to take in water, because salty water holds on to its water tightly. Too much salt also damages roots. Seeds sprout badly in salty soil. Salt also arrives where seawater creeps into the ground along a coast. Farmers can clear it by letting extra water wash the salt down and out through drains. Some crops have learned to cope. In Kerala, the Pokkali rice grown in the backwaters of Alappuzha and Ernakulam can grow in salty water. Millions of hectares of farmland around the world are damaged by salt.",
       "examples": [
         "A white crust on the edge of a dry irrigated field.",
         "A well along a coast turning brackish when too much groundwater is pumped out and seawater flows in.",
@@ -280,7 +280,7 @@
       "concept": "Acid and alkaline soils",
       "status": "defined",
       "definition": "Soil can be acidic, neutral or alkaline. Different plants grow best in different kinds, and the kind of soil changes which nutrients a plant can take up.",
-      "description": "How acidic or alkaline a soil is gets measured on the pH scale, which runs from 0 to 14. A pH of 7 is neutral. Lower numbers are acidic, and higher numbers are alkaline. Vinegar is acidic. Baking soda in water is alkaline. Soils in rainy places, such as the laterite soils of Kerala, tend to be acidic, because rain washes away the minerals that balance acid. Soils in dry places, or made from chalky rock, tend to be alkaline. Tea bushes in Assam and the Nilgiris grow best in acid soil. In soil that is too acidic or too alkaline, some nutrients are locked up and a plant cannot take them in. A farmer can add lime to an acidic soil, and compost helps many soils. A Soil Health Card reports the pH of a field.",
+      "description": "How acidic or alkaline a soil is gets measured on the pH scale, which runs from 0 to 14. A pH of 7 is neutral. Lower numbers are acidic, and higher numbers are alkaline. Vinegar is acidic. Baking soda in water is alkaline. Soils in rainy places, such as the laterite soils of Kerala, tend to be acidic, because heavy rain washes away the minerals that cancel out acid. Soils in dry places, or made from chalky rock, tend to be alkaline. Tea bushes in Assam and the Nilgiris grow best in acid soil. In soil that is too acidic or too alkaline, some nutrients stay stuck to the soil and a plant cannot take them in. A farmer can add lime to an acidic soil. Lime is a white powder made from limestone, and it cancels some of the acid. Compost helps many soils too. A Soil Health Card reports the pH of a field.",
       "examples": [
         "Tea gardens in the Nilgiris and Assam grow on acid soils.",
         "Red cabbage water turns pink with vinegar and green-blue with baking soda, and can be used to compare soils.",
@@ -350,7 +350,7 @@
     },
     {
       "text": "Bacteria in the nodules of legumes change nitrogen gas into ammonia, and the plant pays them in sugar.",
-      "evidence": "Scientists give bean plants nitrogen gas marked with a rare kind of nitrogen atom. Later they find the marked atoms in the plant's proteins."
+      "evidence": "Scientists give bean plants nitrogen gas made of a rare, slightly heavier kind of nitrogen atom that they can trace. Later they find those same traced atoms in the plant's proteins."
     },
     {
       "text": "Irrigation water leaves its dissolved salt behind when it evaporates, and the salt can build up in the soil.",
@@ -474,13 +474,13 @@
       "\"That was long ago, Amma,\" said Kamala. \"There is no time for it now.\"",
       "Murugan Mama laughed kindly. \"A pulse is a waste of a season. The soil takes, you know. The soil is a bank. When the bank is empty, you must put money in. Urea is the money.\"",
       "Karthika was thinking about her science lesson on yellow leaves. Her teacher had said that pale yellow leaves often mean a plant is short of nitrogen. But the air was full of nitrogen. Her teacher had said that too. About four of every five parts of air are nitrogen gas. So why did the rice go hungry with all that nitrogen around her?",
-      "She decided to look at the ulundu. Paati kept a tin of seeds under her bed. Karthika scattered a handful along the damp edge of the field, as Paati showed her, and they sprouted in four days. Three weeks later, the small plants were knee-high and covered in flowers.",
+      "Then she remembered what Paati had said about the ulundu making the rice green. Maybe the ulundu had something to do with nitrogen. So she decided to look closely at the ulundu. Paati kept a tin of seeds under her bed. Karthika scattered a handful along the damp edge of the field, as Paati showed her, and they sprouted in four days. Three weeks later, the small plants were knee-high and covered in flowers.",
       "She asked Paati to pull one up. Selvam shouted before anyone else did. \"She has beads on her roots! Little white beads!\"",
       "Karthika washed the roots in the channel. Along them sat small round bumps, each about as big as a sesame seed. They were smooth and hard. \"What are they?\" she asked.",
       "Paati shrugged. \"Pearls, my mother used to say. The ulundu always has them.\"",
       "Karthika took the plant to the kitchen. With her mother standing beside her, she cut one bump in half with the small vegetable knife. Selvam leaned in so close that his nose almost touched it.",
       "\"It is pink,\" he whispered. \"Like the inside of a guava.\"",
-      "It was pink all through. Karthika remembered her teacher's words. A working nodule is pink inside. It holds bacteria that take nitrogen from the air and give it to the plant. She drew it in her notebook, and wrote under it: the bean does not only take. The bean gives.",
+      "It was pink all through. Then Karthika remembered her science lesson. Her teacher had said that bean roots carry small bumps called nodules, and that a working nodule is pink inside. Bacteria live in each nodule. They take nitrogen from the air and give it to the plant. She drew it in her notebook, and wrote under it: the bean does not only take. The bean gives.",
       "\"So,\" Kamala said slowly, \"the ulundu has tiny helpers in her roots. They pull nitrogen from the air. When we plough the roots and leaves back in, the nitrogen stays in the field.\"",
       "\"And the rice gets it next season,\" said Karthika.",
       "That season, Kamala sowed ulundu on half of her field and left the other half bare. The rest of the plants were ploughed back in after the pods were picked. In the next rice season, she bought a smaller bag of urea for the whole field, and put it on evenly.",
@@ -512,7 +512,7 @@
     "deep_truth": {
       "truth": "Beans do not only take from a field. Tiny bacteria in swellings on their roots pull nitrogen out of the air, and the bean pays them in sugar. So a bean's food is made by two kinds of life working together. That is why a field can end a season richer than it began.",
       "habit": "We think of a plant as one being on her own, and of soil as a bank that she empties and a farmer refills. A nodule is part bean and part bacteria, and the giving goes both ways.",
-      "evidence": "A working nodule is pink inside. Farmers in the Kaveri delta sow black gram after rice, and the next rice often grows greener. Scientists who feed beans nitrogen gas marked with a rare kind of atom find the marked atoms in the bean's protein."
+      "evidence": "A working nodule is pink inside. Farmers in the Kaveri delta sow black gram after rice, and the next rice often grows greener. Scientists have fed beans nitrogen gas made of a rare, slightly heavier kind of nitrogen atom that they can trace. They then find those same traced atoms in the bean's protein."
     },
     "three": {
       "who_am_i": "The protein in your dal was nitrogen gas in the air, until bacteria in a bean's roots turned it into something a plant can use. When you eat the dal, your body uses that protein to build itself.",
@@ -724,7 +724,7 @@
         }
       ],
       "rules": [
-        "Each player has a field. Draw a circle on a sheet of paper and call it the nitrogen bank. Put 4 nitrogen tokens in it. Put the rest of the tokens in the middle as the supply. If the supply runs out of tokens, use dry beans or buttons from a bowl.",
+        "Each player has a field. Draw a circle on a sheet of paper and call it the nitrogen bank. Put 4 nitrogen tokens in it. On the cards, the letter N stands for nitrogen, so Needs 3 N means three nitrogen tokens. Put the rest of the tokens in the middle as the supply. If the supply runs out of tokens, use dry beans or buttons from a bowl.",
         "Shuffle the crop cards and deal 3 to each player. Put the rest face down as a pile. If the pile runs out, shuffle the played cards and use them as a new pile.",
         "A game has 8 seasons. In each season, every player plays one card face up on their field.",
         "A card that says Needs asks you to pay that many tokens from your bank to the supply. If your bank has fewer, the crop fails. Pay what you have and score 0 for the season.",
@@ -958,7 +958,7 @@
           "id": "s2",
           "mins": 9,
           "do": "Play ten cards. After each card, the holder reads the answer and says one fact about it.",
-          "say": "Ask questions like these. Is it a thing, a gas or a living being? Is it in the soil? Does it help the roots?",
+          "say": "Ask questions like these. Am I alive? Am I a gas? Am I found in the soil? Do I help the roots?",
           "kid": "Ask yes or no questions. Guess when you are sure.",
           "check": {
             "t": "mcq",
@@ -1467,7 +1467,7 @@
       "mins": 25,
       "days": 4,
       "question": "Three cups of the same damp soil sit in the same sunny window. One is covered with dry leaves, one is bare and one has loosened soil on top. Which dries out deepest in three days?",
-      "predict": "Which cup will have the thickest dry layer at the top after three days? Will the cover of leaves make a difference? Why do you think so?",
+      "predict": "Which cup will have the thickest dry layer at the top after three days? Will the cover of leaves make a difference? Will loosening the top make a difference? Why do you think so?",
       "fair_test": "All three cups have the same soil, the same depth of soil, and the same amount of water poured in slowly. They sit side by side in the same sunny place. Only the top changes: leaf cover, bare, or loosened soil. We measure the pale dry layer at the same time each day.",
       "results_table": [
         "Day",
@@ -1530,7 +1530,7 @@
           "id": "s1",
           "mins": 3,
           "do": "Show the three cups, the soil and the leaves. Ask for a guess and a reason, and write it down.",
-          "say": "Three cups of the same soil, in the same Sun. One gets a cover of dry leaves, one stays bare and one has loose soil on top. Which dries out most? Why do you think so?",
+          "say": "Three cups of the same soil, in the same Sun. One gets a cover of dry leaves, one stays bare and one has loose soil on top. Some farmers loosen the top of their soil with a hoe, and they say it saves water. That is why one cup has loose soil. Which cup dries out most? Why do you think so?",
           "kid": "Three cups hold the same soil. One is covered with dry leaves, one is bare and one is loosened. Which will dry out most? Why?",
           "ask": [
             {
@@ -1596,7 +1596,7 @@
           "id": "s5",
           "mins": 5,
           "do": "On day 4, measure for the last time. Then ask your child for three things: what they think the test showed, what they saw, and why.",
-          "say": "Tell me three things. What did the leaves do? What did you see? Why do you think the covered soil stayed damp?",
+          "say": "Tell me three things. What did the leaves do? What did you see? Why do you think the covered soil stayed damp? What did the loosened cup do?",
           "kid": "Say three things: what you found, what you saw, and why you think it happened.",
           "parent": "A good answer: a cover of leaves keeps soil damp for longer. The bare cup had a thick dry layer and the covered cup had almost none. Why: the leaves shade the soil and stop the wind, so less water turns into vapour and leaves. Farmers lay straw between rows for the same reason.",
           "check": {
@@ -1938,7 +1938,7 @@
           "say": "A grown-up cuts a nodule in half. What colour is the inside? Pink means the nodule is working.",
           "kid": "A grown-up cuts a nodule open. What colour is the inside?",
           "adult": true,
-          "parent": "A pink or reddish inside means the nodule is working and fixing nitrogen. A white or green inside means it has stopped. The pink comes from a substance that holds oxygen back, because oxygen damages the tool the bacteria use to fix nitrogen. Dried or old nodules look brown or green inside. On a plant sold after harvest this is common, so do not be surprised if none is pink: write down what you see, and try a younger plant (chana or moong at flowering time) if you can. Pink is clearest in nodules cut from a living, flowering plant.",
+          "parent": "A pink or reddish inside means the nodule is working and fixing nitrogen. A white or green inside means it has stopped. The pink comes from a substance that holds oxygen back, because oxygen damages the enzyme the bacteria use to fix nitrogen. Dried or old nodules look brown or green inside. On a plant sold after harvest this is common, so do not be surprised if none is pink: write down what you see, and try a younger plant (chana or moong at flowering time) if you can. Pink is clearest in nodules cut from a living, flowering plant.",
           "check": {
             "t": "mcq",
             "q": "A cut nodule is bright pink inside. What does this tell you?",
@@ -1948,7 +1948,7 @@
               "The nodule is rotting"
             ],
             "a": 0,
-            "why": "The pink comes from a substance the nodule makes to hold oxygen back, because oxygen damages the tool the bacteria use to fix nitrogen. A white or green nodule is no longer working."
+            "why": "The pink comes from a substance the nodule makes to hold oxygen back, because oxygen damages the enzyme the bacteria use to fix nitrogen. A white or green nodule is no longer working."
           },
           "context": "In this step you cut open a nodule to see if it is working."
         },
@@ -2005,7 +2005,7 @@
           "id": "s1",
           "mins": 6,
           "do": "Read this made-up card for a field near Thanjavur. Nitrogen is low. Phosphorus is medium. Potassium is high. The pH is 8.1, which is slightly alkaline. Salt is low. Humus is low.",
-          "say": "This is a card for a farmer's field. Nitrogen is low. Phosphorus is medium. Potassium is high. The soil is slightly alkaline. Salt is low. Humus is low.",
+          "say": "This is a card for a farmer's field. Nitrogen is low. Phosphorus is medium. Potassium is high. The soil is slightly alkaline. That means it is on the opposite side from acid, like baking soda in water. Salt is low. Humus is low, which means there are few rotted leaves and roots in the soil.",
           "kid": "Read the card. What is low? What is high?",
           "ask": [
             {
@@ -2134,7 +2134,7 @@
           "id": "s3",
           "mins": 6,
           "do": "Look at both plates. Measure the widest crack in each with a ruler. Draw what you see.",
-          "say": "Look at the plates. Which one cracked? How wide is the widest crack?",
+          "say": "Look at the plates. Which one cracked? How wide is the widest crack? Here is why. Clay holds a lot of water. As the water dries out, the clay shrinks, and the shrinking pulls it apart into cracks. Sand does not shrink, so the sand in plate B stops most of the cracking.",
           "kid": "Look at both plates. Which one cracked?",
           "parent": "The all-clay plate usually cracks into pieces with wide gaps. The sandy plate usually cracks much less, or not at all. If both crack alike, write that down. The cracking is stronger when the paste is thick and dries fast. Multani mitti paste in strong sun usually cracks in a few hours. In a damp or cloudy spell it can take two or three days: leave it longer and keep the plates in the same place. One child with a parent: make the two plates. Two to four children: each child makes a plate with a different mix (all clay, three clay to one sand, one clay to one sand, one clay to three sand) and you line the plates up from most to least cracked.",
           "check": {
@@ -2350,7 +2350,7 @@
           "id": "s2",
           "mins": 10,
           "do": "Water both pots the same amount every day or two, so the soil stays slightly damp (every day in hot weather). Pull weeds out of both pots. On day 21, pull up one moong plant from pot A. Wash the roots in a bowl. Look for nodules. Cut the rest of the moong at soil level and leave the roots in the pot.",
-          "say": "After three weeks, pull up one moong plant. Look for round bumps on her roots. Cut the others at the soil and leave the roots in.",
+          "say": "After three weeks, pull up one moong plant. Look for round bumps on her roots. These are called nodules. Cut the others at the soil and leave the roots in, because roots that rot in the soil add nitrogen to it.",
           "kid": "Pull up one moong plant. Look for round bumps. Cut the rest at the soil.",
           "ask": [
             {
@@ -2530,7 +2530,7 @@
       "id": "c2",
       "title": "The Four-Year Plan: plan a field that never runs out of nitrogen",
       "mins": 30,
-      "problem": "A family has one small field and grows two crops a year, so eight seasons in four years. Plan the eight crops so that the nitrogen bank never runs empty, the family has rice at least four times, and there is a pulse in at least three seasons.",
+      "problem": "Remember the game Soil Bank, where the tokens in a bank show how much nitrogen is in a field? Now plan a longer game on paper. A family has one small field and grows two crops a year, so eight seasons in four years. Plan the eight crops so that the nitrogen bank never runs empty, the family has rice at least four times, and there is a pulse in at least three seasons.",
       "constraints": [
         "Use the crop cards from the game Soil Bank, or write your own, with the same costs and gains.",
         "Start with a bank of 4 nitrogen tokens.",
@@ -2919,12 +2919,12 @@
           "t": "mcq",
           "p": "A nodule has a red-pink substance inside. What does it do?",
           "opts": [
-            "It holds back oxygen, which would damage the nitrogen-fixing tool",
+            "It holds back oxygen, which would damage the nitrogen-fixing enzyme",
             "It makes the bean sweet",
             "It keeps the nodule warm"
           ],
           "a": 0,
-          "why": "The tool the bacteria use to break the nitrogen bond is harmed by oxygen. The pink substance holds oxygen back so the tool keeps working.",
+          "why": "The enzyme the bacteria use to break the nitrogen bond is harmed by oxygen. The pink substance holds oxygen back so the enzyme keeps working.",
           "outcome": 4
         },
         {
@@ -3136,7 +3136,7 @@
           "t": "label",
           "p": "Label the cut nodule: root, nodule wall, pink centre with bacteria, nitrogen arriving, sugar arriving.",
           "a": "The nodule sits on the root. Its pink centre is full of bacteria. Nitrogen gas arrives from the soil air and sugar arrives from the plant.",
-          "why": "The pink substance holds oxygen back, so the tool the bacteria use to fix nitrogen is not damaged.",
+          "why": "The pink substance holds oxygen back, so the enzyme the bacteria use to fix nitrogen is not damaged.",
           "art": "An unlabelled cross-section of a root with a round nodule and a pink centre, with four blank label lines."
         },
         {
@@ -3195,7 +3195,7 @@
             "Nitrogen is too heavy for roots"
           ],
           "a": 0,
-          "why": "Only bacteria with a special tool, or a factory using great heat and pressure, can break that bond.",
+          "why": "Only bacteria with a special enzyme, or a factory using great heat and pressure, can break that bond.",
           "outcome": 4
         },
         {
@@ -3379,7 +3379,7 @@
         "The nodule is full of water"
       ],
       "a": 0,
-      "why": "The pink substance holds oxygen back, so the tool the bacteria use to fix nitrogen can work. A white or green nodule has stopped.",
+      "why": "The pink substance holds oxygen back, so the enzyme the bacteria use to fix nitrogen can work. A white or green nodule has stopped.",
       "outcome": 4
     },
     {

@@ -152,7 +152,7 @@
       "concept": "Fungus helpers: reaching water a root cannot reach",
       "status": "defined",
       "definition": "Mycorrhiza is a partnership between a plant's roots and a fungus. The fungus grows threads, thinner than root hairs, out into the soil and brings back water and minerals. The plant gives the fungus sugar.",
-      "description": "About 7 or 8 in every 10 kinds of land plants have fungus partners. The fungal threads reach into tiny gaps that even a root hair cannot enter, and they spread far from the root. In return, the plant sends part of the sugar she makes down to the fungus. Water and minerals travel one way, and sugar travels the other. Scientists are still finding out how much water the fungus really brings in different soils.",
+      "description": "About 8 or 9 in every 10 kinds of land plants have fungus partners. The fungal threads reach into tiny gaps that even a root hair cannot enter, and they spread far from the root. In return, the plant sends part of the sugar she makes down to the fungus. Water and minerals travel one way, and sugar travels the other. Scientists are still finding out how much water the fungus really brings in different soils.",
       "examples": [
         "Most trees in a forest share fungal threads under the soil.",
         "Many crop plants, such as maize and finger millet, grow better with fungus partners in poor soil."
@@ -355,8 +355,8 @@
       "Her uncle, Bhaskar Kaka, was already there with a bucket. 'They are thirsty,' he said. He dipped the bucket in the pond at the edge of the field and poured it over the bed. The next morning, the seedlings were worse. He poured again.",
       "Moushumi did not understand. The bed was soaked, and her uncle was giving it more water. How could a plant standing in wet mud be thirsty? 'Maybe they drowned,' said her cousin Rupa. But the bed had drained, and drowned plants do not look like plants in a drought.",
       "That evening, her grandmother, Thakuma, sat on the step with a heap of bitter gourd. She cut it into thin rounds, threw handfuls of salt over it and left it in a steel plate. 'Why salt?' Moushumi asked. 'To bring out the bitter water,' said Thakuma. 'My mother did it, and hers.' When Moushumi came back after a while, a green puddle had gathered under the rounds, and the slices had gone soft.",
-      "She looked at the puddle for a long time. In class, Ranu Didi had done the same with cucumber. Salt does not make water, Didi had said. Salt holds water, so tightly that the cucumber lets go. Moushumi licked her finger, dipped it in the pond water, and licked it again. Salt. The sea had filled that pond.",
-      "She thought of the roots in the bed, sitting in mud soaked with the sea. If salt could pull water out of a gourd, it could pull water out of a root. The mud was wet, and still it held its water too tightly to give any away. The seedlings stood in water and could not drink a drop. And every bucket from the pond made the grip tighter.",
+      "She looked at the puddle for a long time. In class, her teacher, Ranu Didi, had done the same with cucumber. Salt does not make water, Didi had said. Salt holds water, so tightly that the cucumber lets go. Moushumi licked her finger, dipped it in the pond water, and licked it again. Salt. The sea had filled that pond.",
+      "She thought of the roots in the bed, sitting in mud soaked with the sea. If salt could pull water out of a gourd, it could pull water out of a root. The mud was wet, and still it held its water too tightly to give any away. The seedlings stood in water and could not drink a drop. And every bucket from the pond added more salt, so the salty mud held its water even tighter.",
       "She wanted to be sure before she spoke, because who listens to a girl of ten? So she tested it. She dug up six seedlings and washed their roots. She stood three in a cup of pond water and three in a cup of rain water from the drum on the roof. Rupa kept watch. By dusk, the three in the pond water were lying over the rim. The three in the rain water still stood straight.",
       "She carried both cups into the courtyard. Her uncle looked at the cups. He looked at the brown pond. Then he sat down on his heels. 'I have been giving them the sea,' he said quietly.",
       "There was a long argument that night. Where would fresh water come from, when the pond was salty and the tube-well was far away? Thakuma settled it. 'The rain is coming,' she said. 'Rain is the one water with no salt in it. Let it fall on the bed and run off, and it will carry the salt away.' The women of the lane dug a cut in the bank so the water could drain out, and then they waited.",
@@ -534,7 +534,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Cut out the 24 cards and the 8 tokens. Read the first rule together. Say that the water always goes toward the bigger pull number.",
-          "say": "Each card shows two places, A and B, with a pull number. Water goes toward the place with the bigger number. Your job is to say which one, and why.",
+          "say": "A pull number tells how tightly a place holds its water. A bigger number means a tighter hold. Each card shows two places, A and B, with a pull number. Water goes toward the place with the bigger number. Your job is to say which one, and why.",
           "kid": "Each card has two places with numbers. Water goes toward the bigger number. Which one?",
           "ask": [
             {
@@ -1652,7 +1652,7 @@
           "id": "s3",
           "mins": 6,
           "do": "Cut the end of each sprig fresh, under a little water in a bowl. Push one sprig into each bottle neck, so the cut end is in the water and the leaves are outside. Put a bag over the leaves of bottle C and fasten it loosely round the bottle neck with a rubber band.",
-          "say": "Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck.",
+          "say": "Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck. The bag will trap the water vapour that leaves the leaves, so the air inside it will get damp.",
           "kid": "Put a sprig in each bottle. Tie a bag over the leaves of bottle C.",
           "adult": true,
           "parent": "A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag closed round the bottle neck keeps the air inside damp. Do not pull the rubber band so tight that the sprig is crushed. If a sprig leans or falls, tape its stem to the bottle neck. Mint and coriander droop fast once cut, so set up quickly.",
@@ -1664,7 +1664,7 @@
           "do": "Put bottle A under a ceiling fan, or in front of a table fan on low, about 1 metre away. Put bottles B and C in the same room, in still air. Use a corner or a spot behind a standing book, away from the fan. Switch the fan on and write the time.",
           "say": "A goes where the breeze reaches it. B and C go behind a book, out of the breeze. Switch the fan on and write down the time.",
           "kid": "Put A in the breeze. Put B and C in still air. Write the time.",
-          "parent": "Keep all three in the same light, at the same height. A table fan on low is enough. Keep B and C out of direct sun: a bag in the sun gets hot and wilts the sprig. Hold a thin strip of tissue near B and C: it should hardly move. Leave them for at least 3 hours. Leave the fan on while someone is home and switch it off at bedtime; most of the difference between the bottles builds up in daylight, when the leaf pores are open. On a damp, rainy day the differences will be smaller.",
+          "parent": "Keep all three in the same light, at the same height. A table fan on low is enough. Keep B and C out of direct sun: a bag in the sun gets hot and wilts the sprig. Hold a thin strip of tissue near B and C: it should hardly move. Leave them for at least 3 hours. Leave the fan on while someone is home and switch it off at bedtime; most of the difference between the bottles builds up in daylight, when the stomata, the tiny holes in the leaves, are open. On a damp, rainy day the differences will be smaller.",
           "context": "In this step, you place the bottles. Only the air around the leaves is different."
         },
         {
@@ -2931,13 +2931,13 @@
     },
     "ask": [
       "If a root cannot drink from wet soil because the soil holds on too tightly, was there water there or not?",
-      "A mangrove and the sea both hold on to water. Is the contest fair? Who is winning, and does anyone lose?",
+      "A mangrove and the sea water each try to hold on to water, and the mangrove holds on tighter. Who is winning, and does anyone lose?",
       "A plant thickens her sap when the soil dries. Is she deciding, or is it just happening? How could you ever tell the difference?"
     ],
     "art": "A rice seedling standing in a flooded field of brown water, with a drawing of a root hair beside her showing water drops being held back by clumps of salt."
   },
   "how_we_found_out": {
-    "story": "In 1894, Henry Dixon and John Joly, two scientists in Dublin, said that a tree pulls her water up from the top, and that the water holds together in an unbroken thread under strain. Many scientists did not believe it. A pulled thread of water, they said, should snap. And nobody could measure the pull inside a living tree. In the early 1960s, Per Scholander, a Norwegian-born scientist working in the United States, found a way. He cut a leafy twig and sealed it in a metal chamber, with the cut end poking out. Then he slowly raised the gas pressure around the leaves. When a drop of sap just showed at the cut end, the gas pressure matched how hard the twig had been pulling its water. He measured pulls many times stronger than the pressure of the air around us. The thread of water had not snapped. Scientists still argue about some details.",
+    "story": "In 1894, Henry Dixon and John Joly, two scientists in Dublin, said that a tree pulls her water up from the top, and that the water holds together in an unbroken thread that is pulled tight, like a rope. Many scientists did not believe it. A pulled thread of water, they said, should snap. And nobody could measure the pull inside a living tree. In the early 1960s, Per Scholander, a Norwegian-born scientist working in the United States, found a way. He cut a leafy twig and sealed it in a metal chamber, with the cut end poking out. Then he slowly raised the gas pressure around the leaves. When a drop of sap just showed at the cut end, the gas pressure matched how hard the twig had been pulling its water. He measured pulls many times stronger than the pressure of the air around us. The thread of water had not snapped. Scientists still argue about some details.",
     "who": "Per Scholander (1905 to 1980), a Norwegian-born scientist working in the United States, building on Henry Dixon and John Joly of Dublin",
     "when": "1894 (the idea), and the early 1960s, with results published in 1965 (the measurement)",
     "wrong_idea": "Many scientists thought a thread of water pulled so hard must snap, so the pull idea could not be right. Scholander measured the pull and found that plants hold water under strong pull without it breaking."

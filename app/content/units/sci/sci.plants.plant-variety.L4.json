@@ -130,7 +130,7 @@
    "concept": "Why plants make strong chemicals",
    "status": "defined",
    "definition": "Plants cannot run away from an insect, a goat or a mould. So many plants make chemicals that are bitter, smelly, hot or sticky. These defence chemicals keep many attackers away.",
-   "description": "An animal that is being chased can run. A plant stays where their seed landed. So plants protect themselves in other ways, and chemistry is one of the biggest. Many plants keep defence chemicals in their leaves, bark, buds, seeds or roots all the time. Many plants also sense when they are being chewed and make more defence chemicals within hours. A tomato plant bitten by a caterpillar sends signals to their other leaves, and those leaves get ready too. Some plants even give off a smell that nearby plants pick up. Plants sense, remember and decide. Some scientists say these are automatic responses, built up over millions of years of evolution. Scientists have found many thousands of these chemicals, and new ones are found every year.",
+   "description": "An animal that is being chased can run. A plant stays where their seed landed. So plants protect themselves in other ways, and chemistry is one of the biggest. Many plants keep defence chemicals in their leaves, bark, buds, seeds or roots all the time. Many plants also sense when they are being chewed and make more defence chemicals within hours. A tomato plant bitten by a caterpillar sends signals to their other leaves, and those leaves get ready too. Some plants even give off a smell that nearby plants pick up. Plants sense, remember and decide. Some scientists say these are automatic responses, built up over millions of years of evolution. Scientists have found many thousands of these chemicals, and new ones are found every year. People often call a defence chemical a plant's shield or armour, because it protects the plant the way a shield protects a person.",
    "examples": [
     "Neem leaves and seeds hold azadirachtin. Insects who eat it stop feeding, and young insects cannot grow into adults properly.",
     "A clove bud is packed with eugenol, which has a strong smell and stops many moulds growing.",
@@ -245,10 +245,10 @@
   {
    "concept": "Who owns traditional knowledge?",
    "status": "debated",
-   "description": "In 1995, a patent office in America gave two researchers a patent for using turmeric powder to heal wounds. That meant others could not sell it for this use without permission. Scientists at India's CSIR, led by R. A. Mashelkar, showed old Indian texts that described this use long before. In 1997 the patent was cancelled. In 1994, the European Patent Office gave a patent on a way to use neem oil to kill moulds on crops. Vandana Shiva from India, Magda Aelvoet, a Belgian politician, and Linda Bullard of an organic farming group fought it. They showed that Indian farmers had used neem this way for generations. The patent was cancelled in 2000. India then built the Traditional Knowledge Digital Library, so patent offices can check old Indian knowledge before they give a patent. But there is a harder question. When a company does make a new medicine from a community's plant, who should be paid?",
+   "description": "In 1995, a patent office in America gave two researchers a patent for using turmeric powder to heal wounds. That meant others could not sell it for this use without permission. Scientists at India's Council of Scientific and Industrial Research, led by R. A. Mashelkar, showed old Indian texts that described this use long before. In 1997 the patent was cancelled. In 1994, the European Patent Office gave a patent on a way to use neem oil to kill moulds on crops. Vandana Shiva from India, Magda Aelvoet, a Belgian politician, and Linda Bullard of an organic farming group fought it. They showed that Indian farmers had used neem this way for generations. The patent was cancelled in 2000. India then built the Traditional Knowledge Digital Library, so patent offices can check old Indian knowledge before they give a patent. But there is a harder question. When a company does make a new medicine from a community's plant, who should be paid?",
    "examples": [
     "The Kani people of Kerala received half the licence fee for Jeevani, through a trust set up in 1997.",
-    "The Traditional Knowledge Digital Library was set up in 2001 by CSIR and the government department for Ayurveda and other traditional systems.",
+    "The Traditional Knowledge Digital Library was set up in 2001 by the Council of Scientific and Industrial Research and the government department for Ayurveda and other traditional systems.",
     "A patent lasts about 20 years. After that, anyone can use the invention."
    ],
    "art": "A scroll of old Indian writing laid across a patent certificate, with a woman pointing to a line on the scroll.",
@@ -336,7 +336,7 @@
    "concept": "Sacred groves: caring for a forest together",
    "status": "defined",
    "definition": "A sacred grove is a patch of forest that a village protects for their gods or ancestors. Often nobody may cut a tree or take more than a little fallen wood.",
-   "description": "India has many thousands of sacred groves, with different names across the country. In Kerala they are kavu. In Maharashtra they are devrai. In Rajasthan they are oran, in Jharkhand sarna, and in Meghalaya law kyntang. Some are a few trees around a shrine. The Mawphlang sacred forest in Meghalaya covers many hectares. In the 1970s, the ecologist Madhav Gadgil and the botanist V. D. Vartak walked through the Western Ghats and studied these groves. They found that many groves still held old trees and rare plants that had vanished from the land around them. Because nobody had cut them, the groves showed what the forest had once looked like. Today scientists see sacred groves as seed banks that communities kept alive.",
+   "description": "India has many thousands of sacred groves, with different names across the country. In Kerala they are kavu. In Maharashtra they are devrai. In Rajasthan they are oran, in Jharkhand sarna, and in Meghalaya law kyntang. Some are a few trees around a shrine. The Mawphlang sacred forest in Meghalaya covers many hectares. In the 1970s, the ecologist Madhav Gadgil and the botanist V. D. Vartak walked through the Western Ghats and studied these groves. They found that many groves still held old trees and rare plants that had vanished from the land around them. Because nobody had cut them, the groves showed what the forest had once looked like. Today scientists see sacred groves as safe places where communities kept the seeds and plants of old forests alive.",
    "examples": [
     "In 1975, Gadgil and Vartak published a paper asking for sacred groves to be protected.",
     "Some sacred groves in Kerala have ponds and springs that never dry up, because the old trees hold the soil and water.",
@@ -528,7 +528,7 @@
   "three": {
    "who_am_i": "Your body makes its own defences too: tears, stomach acid and white blood cells fight germs. You and the clove both protect yourselves with chemistry.",
    "what_is_life": "Every living being looks after themselves. A plant who cannot run still defends their body, in their own way.",
-   "what_is_this_world": "Moulds, insects and plants are always testing each other's defences. Our medicines come from that old contest."
+   "what_is_this_world": "Moulds, insects and plants have been attacking and defending against each other for millions of years. Many of our medicines come from the chemicals that plants made to defend themselves."
   },
   "thread": "Plants, moulds, insects and people all come from shared ancestors. Over millions of years, each plant family made their own set of chemicals to protect themselves: eugenol in cloves and tulsi, azadirachtin in neem, capsaicin in chilli. People who lived among these plants learned which ones help, and passed that knowledge on. So a plant's own protection ends up in a grandmother's rice tin and in a dentist's filling.",
   "teachings": [
@@ -1791,9 +1791,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask the check question.",
-     "say": "Let's check one idea.",
-     "kid": "Answer the question.",
+     "do": "Ask your child what endemic means, using the plant on their passport as the example.",
+     "say": "Your plant is endemic to one place. What does that word mean?",
+     "kid": "Say what endemic means.",
      "check": {
       "t": "mcq",
       "q": "A plant is endemic to Meghalaya. What does that mean?",
@@ -1991,9 +1991,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask the check question.",
-     "say": "Let's check one idea.",
-     "kid": "Answer the question.",
+     "do": "Ask your child why a botanist writes the date and the place on every pressed plant.",
+     "say": "Why do you think a botanist writes the date and the place on every sheet?",
+     "kid": "Say why the date and the place go on the label.",
      "check": {
       "t": "mcq",
       "q": "Why does a botanist write the date and the place on every pressed plant?",
@@ -2309,9 +2309,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask the check question.",
-     "say": "Let's check one idea.",
-     "kid": "Answer the question.",
+     "do": "Ask your child why the control group should get a drink that looks and tastes like kadha.",
+     "say": "Why should the control group get a drink that looks like kadha?",
+     "kid": "Say why the control group gets a drink that looks the same.",
      "check": {
       "t": "mcq",
       "q": "In a fair trial of kadha, why should the control group get a drink that looks and tastes like kadha?",

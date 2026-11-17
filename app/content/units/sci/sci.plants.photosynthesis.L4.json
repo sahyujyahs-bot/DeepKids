@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "A pond is full of green plants, and plants make oxygen. Yet at dawn the fish in the pond come up to the surface and gulp, as if they cannot breathe. Where did the oxygen go?",
-  "text": "You may already know that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this unit you catch the carbon dioxide in a jar, watch a leaf use it up in the light and add it back in the dark, and then work out why a pond runs short of oxygen just before sunrise.",
+  "text": "You may already know that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this unit you blow your breath into cabbage water, which changes colour as carbon dioxide goes in. Then you watch a leaf use that carbon dioxide up in the light and add it back in the dark. After that, you work out why a pond runs short of oxygen just before sunrise.",
   "art": "A jar of blue-purple water with a green sprig in it on a sunny windowsill, and an identical jar wrapped in foil next to it."
  },
  "outcomes": [
@@ -43,7 +43,7 @@
   },
   {
    "term": "Mitochondria",
-   "meaning": "Tiny parts inside almost every cell of plants, animals and fungi where respiration happens. One of them is called a mitochondrion. They are the cell's power stations.",
+   "meaning": "Tiny parts inside almost every cell of plants, animals and fungi where respiration happens. One of them is called a mitochondrion. They release the energy in sugar so that the cell can use it.",
    "example": "A muscle cell in your leg is packed with mitochondria, and so is a cell in a growing root tip.",
    "art": "A cell with a few green chloroplasts and many small orange bean-shaped mitochondria."
   },
@@ -79,7 +79,7 @@
   },
   {
    "term": "Indicator",
-   "meaning": "A colouring that changes colour when something around it changes. Red cabbage juice is an indicator. It is blue-purple in water that is a little alkaline, and turns pink-purple when the water gets more acidic.",
+   "meaning": "A colouring that changes colour when something around it changes. Red cabbage juice is an indicator. It is blue-purple in water that is a little alkaline, and turns pink-purple when the water gets more acidic. Acidic means a little sour, like lemon juice. Alkaline is the opposite, like baking soda in water.",
    "example": "Blow breath into blue-purple cabbage water, and it slowly turns pinker, because carbon dioxide makes water slightly acidic.",
    "art": "Two glasses of cabbage water, one blue-purple and one pink-purple, with a straw bubbling in the pink one."
   },
@@ -139,7 +139,7 @@
   },
   {
    "term": "C4 plant",
-   "meaning": "A plant that has a pump to gather carbon dioxide, so that photosynthesis goes fast even when the stomata are only a little open. Sugarcane, maize, sorghum and millets such as bajra and ragi are C4 plants.",
+   "meaning": "A plant with an extra step that works like a pump. It gathers carbon dioxide and packs it into inner leaf cells, so that photosynthesis goes fast even when the stomata are only a little open. Sugarcane, maize, sorghum and millets such as bajra and ragi are C4 plants.",
    "example": "Sugarcane stays green and grows tall in the hot, bright months when many other plants slow down.",
    "art": "A sugarcane leaf cut open, with a small ring of cells pumping carbon dioxide into a central bundle."
   },
@@ -221,7 +221,7 @@
    "concept": "What holds photosynthesis back: limiting factors",
    "status": "defined",
    "definition": "Photosynthesis can only go as fast as its slowest ingredient allows. The ingredient in shortest supply is the limiting factor. For a leaf it can be light, carbon dioxide or warmth.",
-   "description": "Think of a kitchen with a cook, a stove and a pile of vegetables. If the stove is tiny, a second cook does not help. The stove is the limiting factor. A leaf is like that. On a dim morning, light is limiting. If you give the leaf more light, photosynthesis speeds up. But as the light gets stronger, a point comes when more light no longer helps, because the leaf cannot take in carbon dioxide fast enough. Now carbon dioxide has become the limiting factor. Warmth matters too. Photosynthesis uses enzymes, which are proteins that speed up changes inside a cell. Enzymes work faster when it is warm, up to a point. Very hot leaves slow down or get damaged. Greenhouse growers use this idea. They add light in winter, put extra carbon dioxide in the air, and keep the greenhouse warm, but not hot. They make sure that no single factor is the one that holds the plants back.",
+   "description": "Imagine a kitchen with one cook, one tiny stove and a big pile of vegetables. The food can only be cooked as fast as the tiny stove allows. A second cook would not help, because the stove is what holds the cooking back. That is what a limiting factor is. A leaf is like that kitchen. On a dim morning, light is limiting. If you give the leaf more light, photosynthesis speeds up. But as the light gets stronger, a point comes when more light no longer helps, because the leaf cannot take in carbon dioxide fast enough. Now carbon dioxide has become the limiting factor. Warmth matters too. Photosynthesis uses enzymes, which are proteins that speed up changes inside a cell. Enzymes work faster when it is warm, up to a point. Very hot leaves slow down or get damaged. Greenhouse growers use this idea. They add light in winter, put extra carbon dioxide in the air, and keep the greenhouse warm, but not hot. They make sure that no single factor is the one that holds the plants back.",
    "examples": [
     "A tomato plant in a closed greenhouse often grows faster when the grower adds carbon dioxide gas to the air.",
     "In the shade on a cold morning, a leaf is limited by light and by warmth at the same time."
@@ -377,7 +377,7 @@
   {
    "concept": "Can we make leaves better at their job?",
    "status": "idea",
-   "description": "A leaf stores only a small part of the energy of the light that falls on it. Scientists are testing ways to raise that. One group, led by Johannes Kromdijk and Stephen Long, changed tobacco plants so that their leaves recover faster when a cloud passes over after bright sun. In field trials, the plants were reported to grow about 15 percent more. Others are trying to build the sugarcane carbon dioxide pump into rice, or to add a shortcut that avoids the wasteful cleanup after rubisco grabs oxygen. These ideas are promising, but none is a quick fix. A plant is a very tangled system, and changing one step often changes ten others.",
+   "description": "A leaf stores only a small part of the energy of the light that falls on it. Scientists are testing ways to raise that. One group, led by Johannes Kromdijk and Stephen Long, changed tobacco plants so that their leaves switch off a sun-protection setting faster when a cloud passes over after bright sun. In strong sun, a leaf protects itself by wasting some light, and the leaf is slow to stop doing this once the cloud arrives. In field trials, the plants were reported to grow about 15 percent more. Others are trying to build the sugarcane carbon dioxide pump into rice, or to add a shortcut that avoids the wasteful cleanup after rubisco grabs oxygen. These ideas are promising, but none is a quick fix. A plant is a very tangled system, and changing one step often changes ten others.",
    "examples": [
     "A big project has been trying to give rice the sugarcane pump since 2008, and it has proved very difficult.",
     "Some scientists are asking whether plants could be grown under coloured lights in towers, to use less land."
@@ -483,7 +483,7 @@
    "hint": "Think of how the oxygen in a pond rises by day and falls by night, and of the thick green bloom that blocks light and then rots."
   },
   {
-   "q": "A carbon atom in your breath could have been in a tree, a mango, a dinosaur's world, or a fern in a swamp. Are the atoms in your body really yours?",
+   "q": "A carbon atom in your breath could have been in a tree, a mango, the air that dinosaurs breathed, or a fern in a swamp. Are the atoms in your body really yours?",
    "kind": "big",
    "hint": "How long have you held on to the atoms you ate last year? Where did they go?"
   },
@@ -513,7 +513,7 @@
    "hint": "Think about what we would have to know before we could decide. Who decides what a mistake is?"
   },
   {
-   "q": "Janaki Ammal, Kamala Sohonie and Penny Chisholm all did important science on plants and other photosynthesisers. Why do we often learn the names of only a few scientists?",
+   "q": "Janaki Ammal bred sugarcane in India. Kamala Sohonie studied how plant cells get energy from food. Penny Chisholm found tiny sea bacteria that do photosynthesis. All three did important science on plants and other photosynthesisers. Why do we often learn the names of only a few scientists?",
    "kind": "big",
    "hint": "Think about who gets into books, who gets prizes and who gets asked."
   }
@@ -529,10 +529,10 @@
    "It was the monsoon, and for four days the sky had been grey. The rain came and went. The sun never really showed its face.",
    "On the fifth morning, Anjana woke before dawn to the sound of Appooppan banging a pot. She ran outside in her nightdress. In the grey light, she saw something she had never seen before. All the karimeen were at the top of the pond. Their mouths opened and closed at the surface. Gulp, gulp, gulp.",
    "'They cannot breathe,' said Appooppan. His voice shook. 'The pond has turned against us. Mathew's pond went like this last year. Every fish.'",
-   "Her uncle Gopan arrived on his bicycle, still wiping sleep from his eyes. 'It is the new feed,' he said. 'Or the water. We should drain the pond and fill it fresh. Or buy the white powder from the shop in Kottayam.' Appooppan nodded slowly at both ideas, which made Anjana nervous.",
+   "Her uncle Gopan arrived on his bicycle, still wiping sleep from his eyes. 'It is the new feed,' he said. 'Or the water. We should drain the pond and fill it fresh. Or buy the white powder from the shop in Kottayam, which people sprinkle in a pond to clean the water.' Appooppan nodded slowly at both ideas, which made Anjana nervous.",
    "Anjana looked at the water. It was thick and green, much greener than last month. 'But Appooppan,' she said, 'a green pond is full of plants. Plants make oxygen. Beena Miss said so.'",
    "Gopan laughed. 'Plants make oxygen, kutty, and the fish are choking. Which is it?' It was a fair question. Anjana did not know the answer. She stood very still, the way she did when a sum would not come.",
-   "Then she remembered another thing that Beena Miss had said. 'A plant makes oxygen only while the sun shines on it,' Miss had said. 'But a plant uses oxygen all the time, day and night, just like you. A plant sleeps and still breathes.' The whole class had giggled.",
+   "Then she remembered another thing that Beena Miss had said. 'A plant makes oxygen only while the sun shines on it,' Miss had said. 'But a plant uses oxygen all the time, day and night, just like you. A plant sleeps and still breathes.' The whole class had giggled. Beena Miss had also shown them jars of cabbage water. The water with leaves in the dark had turned pinker overnight, because the leaves had given out carbon dioxide.",
    "The sun finally came out a little after nine, a pale spot behind the cloud. By ten, the fish had sunk back down. By noon they were swimming in slow circles, as calm as ever. Appooppan went inside to eat, looking puzzled.",
    "Anjana stayed at the pond. She watched the fish. She thought about how the trouble came only at dawn, and was gone by noon. The pond had not changed during the night. The fish had not changed. The only thing that changed was the light.",
    "That evening, she found a blank page at the back of her notebook and drew a long line. On the left she wrote the night. On the right she wrote the day. She drew the green things in the pond making oxygen on the day side. On the night side she drew nothing, and then she drew arrows going the other way. Everything in the pond was using oxygen all night. The fish, the green things, the mud, even the old rice bran at the bottom.",
@@ -616,7 +616,7 @@
       },
       {
        "f": "DARK RAINY DAY. The whole pond adds just 1 oxygen, however many plants it has.",
-       "b": "Light is so dim that the plants are close to their compensation point. They make very little oxygen."
+       "b": "Light is so dim that the plants are close to their compensation point, which is the light where they make only as much sugar as they use. They make very little oxygen."
       },
       {
        "f": "HOT SUNNY DAY. Each plant adds 2 oxygen, but at the end of the day take away 3 oxygen.",
@@ -1882,7 +1882,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Put one bunch of water plant into B and a bunch of the same size into C. Fill both jars to the top and close the lids tight. Wrap C all over with foil. Put all four jars at a bright window.",
-     "say": "Put one bunch of water plant in B and the same size bunch in C. Close the lids tightly. Wrap C in foil so no light gets in. Put all four jars in the light.",
+     "say": "Put one bunch of water plant in B and the same size bunch in C. Close the lids tightly. Wrap C in foil so no light gets in. Put all four jars in the light. Remember, your breath put carbon dioxide into the water, and carbon dioxide turns cabbage water pinker. So pinker means more carbon dioxide, and bluer means less.",
      "kid": "Add one bunch of water plant to B and the same to C. Wrap C in foil. Put all jars in the light.",
      "parent": "Use fresh water plant of one kind. Weigh the two bunches, or judge them by eye, so that they are the same. Keep every jar full to the top with the lid on, because air above the water would change the result. With water plants the change often shows within 3 to 5 hours of sun, so peek in the afternoon. If the day is gloomy, leave them for two days. In very hot weather, move the jars to a bright but cooler spot.",
      "wait": "Leave the jars for one day",
@@ -2036,7 +2036,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Pour 300 millilitres of water into each jar. Add a spoonful of green water from a pond, a rain bucket or a fish tank to each, if you have it. Add the same tiny pinch of fertiliser to each.",
-     "say": "Pour the same amount of water in each jar. Add the same pinch of fertiliser to each. Make everything exactly the same.",
+     "say": "Pour the same amount of water in each jar. Add the same pinch of fertiliser to each. Fertiliser is food for algae, because it gives them the minerals they need to grow. Make everything exactly the same.",
      "kid": "Pour the same water in each jar. Add the same pinch of fertiliser.",
      "parent": "Fertiliser feeds the algae. Use a very small amount, such as one drop or a pinch the size of a grain of rice. If you cannot find green water from a pond, a rain bucket or a fish tank, use water that has stood under a pot plant for a few days. The green may take longer to start. The best green water is from a bucket or pot saucer that has sat in sun for a week and looks slightly green.",
      "check": {
@@ -2144,7 +2144,7 @@
    "mins": 30,
    "days": 1,
    "question": "Water holds some air inside it, which fish breathe. Does the water let the air go when it gets warm?",
-   "predict": "Before you start, guess. Which glass will grow more tiny bubbles on its walls: the cold one or the warm one? Why do you think so?",
+   "predict": "Before you start, guess. Which glass will grow the most tiny bubbles on its walls: the one in the icy bowl, the cool bowl or the warm bowl? Why do you think so?",
    "fair_test": "All three glasses are filled from the same cold jug at the same time. They hold the same amount of water. Each stands in a bowl, and the only difference is the bowl water: icy, cool or hand-warm. Any difference in bubbles comes from the temperature.",
    "results_table": [
     "Glass",
@@ -2592,7 +2592,7 @@
      "mins": 8,
      "adult": true,
      "do": "A grown-up lights the diya. Hold a cold spoon in a cloth so its underside touches the yellow flame tip for 3 to 5 seconds. Rest it on the steel plate. Try again low in the blue part and compare.",
-     "say": "Watch the spoon. A black patch is forming. Where could the black stuff come from?",
+     "say": "Watch the spoon. A black patch is forming. It is soot, which is mostly carbon. The oil is made of carbon and a few other things, and the flame burns it. The soot is carbon that did not burn away. Where could that carbon have come from in the first place?",
      "kid": "A grown-up lights the diya and holds the spoon. Look for black.",
      "parent": "Use a clean, cool spoon. The black soot forms on the underside of the spoon where it cools the yellow part of the flame, which has glowing bits of unburnt carbon. In the blue part near the wick there is plenty of air and the carbon burns away, so there should be much less soot. If the soot is faint, hold the spoon in the yellow tip a second longer. Take care that the spoon does not smother the flame.",
      "check": {
@@ -3012,7 +3012,7 @@
    "id": "c1",
    "title": "Greenhouse Budget: spend 100 coins to grow the most tomatoes",
    "mins": 35,
-   "problem": "A greenhouse grower has 100 coins. Light, carbon dioxide and warmth can each be raised from level 1 to level 2 or 3, at a price. A tomato plant grows only as fast as the lowest of the three levels. Find the best way to spend the coins.",
+   "problem": "This challenge uses the idea of a limiting factor, the one thing in shortest supply that sets how fast a plant can grow. A greenhouse grower has 100 coins. Light, carbon dioxide and warmth can each be raised from level 1 to level 2 or 3, at a price. A tomato plant grows only as fast as the lowest of the three levels. Find the best way to spend the coins.",
    "constraints": [
     "Spend no more than 100 coins in total.",
     "Light costs 20 coins for level 2 and 50 coins for level 3. Carbon dioxide costs 30 coins for level 2 and 60 coins for level 3. Warmth costs 10 coins for level 2 and 40 coins for level 3.",
@@ -3708,7 +3708,7 @@
    "what_is_life": "Every living being, from a cyanobacterium to a fish to a banyan tree, takes in and gives out all the time. Life is a flow of matter and energy, and no living being is only a giver or only a taker.",
    "what_is_this_world": "The air is shared by all of us. A carbon atom can be in a leaf, a grain, a child's breath and the sky in turn. The carbon dioxide in the whole Earth's air falls and rises once a year with the leaves of the north."
   },
-  "thread": "A pond at dawn shows that the same plants that fill the water with oxygen by day use it up at night. The only difference is the light. Plants and animals are not two teams, with one giving and one taking. Both belong to the same flow of carbon and oxygen, and each one's waste is another's food. Sorting living things into givers and takers is our habit. The pond, the jars of cabbage water and the carbon cycle all show one flow that every living thing is part of. Light only decides which way the balance tips at that moment.",
+  "thread": "A pond at dawn shows that the same plants that fill the water with oxygen by day use it up at night. The only difference is the light. Plants and animals are not two teams, with one giving and one taking. Both belong to the same flow of carbon and oxygen, and what one gives out, another takes in. Sorting living things into givers and takers is our habit. The pond, the jars of cabbage water and the carbon cycle all show one flow that every living thing is part of. Light only decides which way the balance tips at that moment.",
   "teachings": [
    {
     "source": "Bhagavad Gita 3.14 to 3.16",
