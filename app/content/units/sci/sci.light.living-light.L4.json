@@ -198,7 +198,7 @@
    "status": "defined",
    "context": "In the first Living light unit you found out that a glow stick feels cold. This card puts a number on how well different lights turn energy into light.",
    "definition": "A light is efficient if most of the energy it uses comes out as light. Living light is far more efficient than an old bulb, but it is not perfect.",
-   "description": "An old bulb with a thin wire inside turns only about 5 parts in every 100 of its electrical energy into light. The other 95 parts become heat. That is why such a bulb is too hot to touch. Modern LED bulbs do much better and stay cooler. A firefly's reaction does even better, but only at one step: the moment the light is made. In a lab in 2008, scientists reported that about 4 in every 10 firefly luciferin molecules that reacted gave out a flash of light. But that is one step in a chain. The firefly still spends energy to make luciferin, to carry oxygen and to make ATP. So living light wastes very little at the moment the light is made, but the whole animal still spends food to shine. No living being gets light for nothing.",
+   "description": "An old bulb with a thin wire inside turns only about 5 parts in every 100 of its electrical energy into light. The other 95 parts become heat. That is why such a bulb is too hot to touch. Modern LED bulbs do much better and stay cooler. A firefly's reaction does much better, but only at one step. At the moment the light is made, very little energy is wasted. In a lab in 2008, scientists reported that about 4 in every 10 firefly luciferin molecules that reacted gave out a flash of light. But that is one step in a chain. The firefly still spends energy to make luciferin, to carry oxygen and to make ATP. So living light wastes very little at the moment the light is made, but the whole animal still spends food to shine. No living being gets light for nothing.",
    "examples": [
     "An old filament bulb gives out about 5 parts of light for every 95 parts of heat.",
     "About 4 in every 10 firefly luciferin molecules that react are reported to give out light. Very little is wasted as heat, which is why a firefly's flash feels cool.",
@@ -216,7 +216,7 @@
    "examples": [
     "A red cloth looks black at 20 metres under the sea, because the red light has already been taken in by the water above.",
     "A hatchetfish's belly lights are blue, to match the faint blue light that comes down from above.",
-    "A firefly on land makes yellow-green light, because the night air does not take in colours as sea water does."
+    "A firefly on land makes yellow-green light. Night air does not take in colours the way sea water does, so the light does not have to be blue."
    ],
    "art": "A cross-section of the sea, with coloured light fading from red at the top to deep blue at the bottom and a blue-glowing fish at the bottom.",
    "perspectives": []
@@ -694,7 +694,7 @@
      "mins": 4,
      "do": "Play round 1 with the listen rule. Start the beat. Everyone moves a box on each tick. Flash at your own flash number, and join other flashes as the listen rule says. Count the ticks until everyone flashes together twice in a row.",
      "say": "Round one. Listen to each other. If you see a flash and your marker is halfway or more, flash too. Let's count the ticks until all of us flash together two times.",
-     "kid": "Round 1. If you see a flash and your marker is at halfway or further, flash too. Count the ticks.",
+     "kid": "This is round 1. If you see a flash, check your marker. If it is at halfway or further, flash too. Count the ticks.",
      "check": {
       "t": "mcq",
       "q": "In round 1, a player sees a flash when their marker is before the halfway number. What do they do?",
@@ -713,7 +713,7 @@
      "mins": 4,
      "do": "Play round 2 with the ignore rule. Use new start numbers. Stop at 40 ticks if the group never flashes together twice in a row. Write the number on the round record.",
      "say": "Round two. This time we ignore each other. Flash only at your own number, and never join. We will count to 40 ticks if we have to.",
-     "kid": "Round 2. Do not join anyone. Flash only at your own number. Stop at 40.",
+     "kid": "This is round 2. Do not join anyone else's flash. Flash only at your own number. Stop at 40 ticks.",
      "ask": [
       {
        "q": "What do you notice about round 2 compared with round 1?",
@@ -732,7 +732,7 @@
      "mins": 5,
      "do": "Play round 3 with the listen rule and new cards. Then talk about the three numbers. Ask your child three things: what they think made the difference, what they saw, and why they think it happened.",
      "say": "Round three, listening again with new cards. Now look at our three numbers. What do you think made the difference? What did you see? Why do you think it happened?",
-     "kid": "Round 3. Use the listen rule again. Then say three things: what you think, what you saw, and why it happened.",
+     "kid": "This is round 3. Use the listen rule again. Then tell me three things. What do you think? What did you see? Why did it happen?",
      "check": {
       "t": "mcq",
       "q": "In the game, who told the fireflies when to flash together?",
@@ -912,7 +912,7 @@
      "mins": 4,
      "do": "Cut out the 26 cards and the tokens. Make five tokens for each player. Shuffle the cards. Read the five kinds of light aloud, with one example each: candle, firefly, highlighter under UV, glow star, Moon.",
      "say": "There are five ways a thing can shine. It can be hot, like a candle. It can make light by chemistry, like a firefly. It can send light back at once in a new colour. It can store light and let it out slowly. Or it can only bounce light, like the Moon.",
-     "kid": "Cut out the cards and tokens. There are five kinds of light. Learn them.",
+     "kid": "Cut out the cards and tokens. There are five kinds of light. Say each kind aloud.",
      "adult": true,
      "parent": "A UV torch is not needed for this game. If you have one, show a highlighter line under it, and then switch the torch off, to show the glow stops at once.",
      "context": "This is the first step of the Which Glow game. You set up the cards and learn the five kinds of light."
@@ -1561,7 +1561,7 @@
       "10",
       "ten"
      ],
-     "why": "2 litres is 2,000 millilitres. 2,000 divided by 200 is 10. So the jug holds 10 times as much, and a signal chemical spreads out about 10 times more in the jug.",
+     "why": "2 litres is 2,000 millilitres. 2,000 divided by 200 is 10. So the jug holds 10 times as much water as the glass. The same amount of signal chemical would spread out through 10 times more water in the jug, so it would be much weaker.",
      "outcome": 5
     },
     {
@@ -1745,7 +1745,7 @@
      "mins": 4,
      "do": "Show your child the glow stick and the stack of paper. Say that the stick will be hidden under 12 sheets. Ask for a guess and a reason. Write it down.",
      "say": "This glow stick will lie under twelve sheets of paper. Each sheet hides some of the light. We will sit in a dark room and see how many sheets we can see the glow through. After twenty minutes, will we see it through more sheets, fewer sheets or the same? Why do you think so?",
-     "kid": "A glow stick is hidden under 12 sheets of paper. After 20 minutes in the dark, will you see the glow through more sheets or fewer? Why?",
+     "kid": "A glow stick is hidden under 12 sheets of paper. You will wait 20 minutes in the dark. Will you see the glow through more sheets or fewer? Why?",
      "ask": [
       {
        "q": "Why do you think the number of sheets might change, or stay the same?",
@@ -1852,7 +1852,7 @@
      "mins": 4,
      "do": "Ask your child three things: what they think now, what they saw in their numbers that shows it, and why they think it happened. Draw a line graph of the four numbers, with minutes along the bottom and sheets up the side.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see in your numbers that shows it? Third, why do you think it happened?",
-     "kid": "Say three things: what you think, what you saw in your numbers, and why it happened.",
+     "kid": "Tell me three things. What do you think now? What did you see in your numbers? Why did it happen?",
      "parent": "A good answer. What I think: eyes can see fainter and fainter light the longer they are in the dark. What I saw: at 1 minute I saw the glow through a few sheets, and at 20 minutes through more. Why: the light and the stack did not change, so my eyes must have. After bright light, the rod cells need time to build back their light-catching chemical. Do not give this explanation first. Ask for the child's own idea, and then add this.",
      "think": "A firefly's flash is faint. What do a watcher's eyes need before they can see it?",
      "context": "In this step, you say what the numbers show, and draw a line graph."
@@ -2002,7 +2002,7 @@
      "mins": 3,
      "do": "Put 3 raw cubes in glass A. Put 3 boiled cubes in glass B. Put 3 cold cubes in glass C. Leave glass D empty. Put the glasses on the tray in a row. Check the peroxide strength on the label.",
      "say": "Raw in A. Boiled in B. Cold in C. Nothing in D. Look at the cubes. Do they look different? Be ready with the timer. A grown-up will pour.",
-     "kid": "Put the cubes in A, B and C. Nothing in D. Get the timer ready.",
+     "kid": "Put the cubes in glasses A, B and C. Leave glass D empty. Get the timer ready.",
      "adult": true,
      "parent": "Check the label: it should say 3 percent or 10 volume. If it says 6 percent or 20 volume, mix it with an equal amount of water first. Peroxide that has stood open for a year or more may be weak.",
      "context": "In this step, you put the cubes in the glasses. The peroxide goes in next."
@@ -2042,7 +2042,7 @@
      "mins": 4,
      "do": "Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Draw a bar chart of the foam heights.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened?",
-     "kid": "Say three things: what you think, what you saw, and why it happened.",
+     "kid": "Tell me three things. What do you think? What did you see? Why did it happen?",
      "parent": "A good answer. What I think: raw potato makes peroxide fizz, and heat stops it. What I saw: raw foamed the most, boiled hardly at all, cold a medium amount, and no potato did nothing. Why: raw potato holds a helper chemical, an enzyme. Heat bends the enzyme out of shape so it cannot help. Cold only slows it. In the 1880s, Raphael Dubois found that heat also stopped the helper in a glowing beetle but left the fuel unharmed. Give this last part only after your child has given their own ideas.",
      "think": "A firefly's luciferase is also an enzyme. What do you think would happen to a firefly's glow in very hot water?",
      "context": "In this step, you say what the foam heights show, and draw a bar chart."
@@ -2189,7 +2189,7 @@
      "mins": 4,
      "do": "Ask your child three things: what they think now, what they saw, and why they think it happened. Then compare these glows with a firefly, who needs no torch at all.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see? Third, why do you think it happened? Then tell me how a firefly's glow is different from all of these.",
-     "kid": "Say three things: what you think, what you saw, and why it happened. Then say how a firefly is different.",
+     "kid": "Tell me three things. What do you think? What did you see? Why did it happen? Then say how a firefly is different.",
      "parent": "A good answer. What I think: some things send light back at once when a UV torch shines, and some store it. What I saw: the highlighter, the cloth and the tonic water glowed and went dark when the torch was off, and the star kept glowing. Why: fluorescent things turn the invisible UV into visible light at once, and stored glows keep the light and let it out slowly. A firefly is different because they make new light from chemicals, and need no torch at all.",
      "think": "Why does a banknote have parts that glow under UV, and who would want to check this?",
      "context": "In this step, you say what the test showed, and compare it with living light."
@@ -2298,7 +2298,7 @@
      "mins": 2,
      "do": "Ask your child three things: what they think now, what they saw, and why they think pupils change. Then mention that cat pupils are slits and an octopus has a rectangular pupil.",
      "say": "What do you think now? What did you see? Why do you think pupils change? A cat's pupil is a thin slit by day and a big circle at night. Why might that help a cat?",
-     "kid": "Say three things: what you think, what you saw, and why it happened.",
+     "kid": "Tell me three things. What do you think? What did you see? Why did it happen?",
      "parent": "A good answer. What I think: pupils get bigger in the dark and smaller in bright light. What I saw: the black circle shrank in about two seconds. Why: the pupil lets light in, so a bigger pupil catches more light in the dark. Pupils can change the amount of light by roughly ten times or more, but the chemical change in the retina is a much bigger change. That takes about twenty minutes, as you will see in the Eyes in the Dark test.",
      "think": "A firefly's flash is faint. What could an owl do with their pupils to see it better?",
      "context": "In this step, you say what you saw about pupils, and compare with a cat."
@@ -2407,7 +2407,7 @@
      "mins": 4,
      "do": "Compare the two numbers. Ask your child three things: what they think now, what numbers they got, and why they think it happened. Mention that astronomers use this trick to see faint stars.",
      "say": "What do you think now? What numbers did you get? Why do you think the corner of the eye might see a faint light better? Astronomers use this trick to look at faint stars. They call it averted vision.",
-     "kid": "Compare your two numbers. Say three things: what you think, what you saw, and why it happened.",
+     "kid": "Compare your two numbers. Then tell me three things. What do you think? What did you see? Why did it happen?",
      "parent": "A good answer. What I think: a faint light is easier to see from the corner of the eye. What I saw: I saw the glow through more sheets when I looked beside it. Why: the middle of the eye has cone cells, which need bright light, and the sides have many rod cells.",
      "context": "In this step, you compare the two numbers and say what they show."
     }
@@ -2529,7 +2529,7 @@
      "mins": 3,
      "do": "Divide the jug count by the glass count. Ask your child three things: what they think now, what they saw, and why they think it happened.",
      "say": "How many more spoonfuls did the jug need? What do you think now? What did you see? Why do you think a glowing bacterium alone in the sea stays dark?",
-     "kid": "Compare the two counts. Say three things: what you think, what you saw, and why it happened.",
+     "kid": "Compare the two counts. Then tell me three things. What do you think? What did you see? Why did it happen?",
      "parent": "A good answer. What I think: a signal is strong only if there are many bacteria in a small space. What I saw: the glass needed a few spoonfuls and the jug needed many more. Why: in the big jug the signal spreads out. That is why bacteria in the open sea stay dark and bacteria packed in a squid's light organ glow.",
      "think": "A squid empties out most of their bacteria at dawn. What would happen to the signal inside their light organ then?",
      "context": "In this step, you compare the counts and say what they show about glowing bacteria."
@@ -2589,7 +2589,7 @@
      "mins": 4,
      "do": "Number the squares on the back and mix up their order. Lay them in a row on a tray, 1 metre from where your child will sit. Ask for a guess: will they be able to name the colours in a very dim light?",
      "say": "Here are six paper squares of different colours. Soon we will put out the lights and make a very dim light. Do you think you will be able to name every colour? Why do you think so?",
-     "kid": "Six coloured squares. In very dim light, can you name every colour? Why?",
+     "kid": "There are six coloured squares. In very dim light, can you name every colour? Why?",
      "ask": [
       {
        "q": "Why might colours look different in very dim light?",
@@ -2638,7 +2638,7 @@
      "mins": 4,
      "do": "Turn on the room light and check each square. Count how many your child named correctly. Ask your child three things: what they think now, what they saw, and why they think it happened.",
      "say": "Now the light is on. Let's check. How many did you name correctly? What do you think now? What did you see? Why do you think colours seem to fade in the dark?",
-     "kid": "Switch on the light. Check each square. Count how many you got right. Say three things: what you think, what you saw, and why it happened.",
+     "kid": "Switch on the light. Check each square. Count how many you got right. Then tell me three things. What do you think? What did you see? Why did it happen?",
      "parent": "A good answer. What I think: colours fade in very dim light. What I saw: I called the squares greys, and only the white and black were easy. Why: rod cells work in dim light but cannot see colour, and cone cells need more light. It is also why a moonlit garden looks grey.",
      "context": "In this step, you check the colours and say what the test showed."
     }
@@ -2977,7 +2977,7 @@
      "mins": 5,
      "do": "Compare the three rules in a table. Ask which was fastest and which failed. Then ask your child three things: what they think now, what they saw, and why they think the best rule worked.",
      "say": "Which rule was fastest? Which never worked? What do you think now? What did you see? Why do you think the best rule worked?",
-     "kid": "Which rule was fastest? Which failed? Say three things: what you think, what you saw, and why it happened.",
+     "kid": "Which rule was fastest? Which one failed? Then tell me three things. What do you think? What did you see? Why did it happen?",
      "parent": "A good answer. What I think: the more willing each firefly is to join, the faster the group lines up. What I saw: the bold rule was fastest, and the shy rule never worked. Why: joining a flash pulls fireflies into step, and a rule that joins too late or only nudges never makes them flash at the same tick.",
      "think": "A firefly that joins every flash flashes at the pace of the fastest one. Is that good or bad for the group?",
      "context": "In this step, you compare the rules and say which worked and why."
@@ -3036,7 +3036,7 @@
     "Heat adds water to the enzymes"
    ],
    "a": 0,
-   "why": "An enzyme works by its shape. Strong heat bends the shape and the enzyme stops working. It is not used up. Even before boiling, an enzyme is never used up when it does its job.",
+   "why": "An enzyme works by its shape. Strong heat bends the shape, and the enzyme stops working. The enzyme is not used up when it does its job, so using up is not the reason.",
    "outcome": 1
   },
   {
@@ -3316,7 +3316,7 @@
   {
    "problem": "In a made-up Eyes in the Dark test, a child saw the glow through 3 sheets at 1 minute, 5 at 5 minutes, 7 at 10 minutes and 9 at 20 minutes. How many more sheets could the child see through at 20 minutes than at 1 minute? How many times as many is that?",
    "answer": "6 more sheets, and 3 times as many.",
-   "explain": "9 sheets at 20 minutes take away 3 sheets at 1 minute is 6. The child saw through 9 sheets after 20 minutes and 3 sheets after 1 minute. 9 divided by 3 is 3. So the child saw through 3 times as many sheets.",
+   "explain": "At 20 minutes the child saw through 9 sheets, and at 1 minute through 3 sheets. 9 take away 3 is 6, so that is 6 more sheets. 9 divided by 3 is 3, so the child saw through 3 times as many sheets.",
    "math_unit": "math.data.bar-charts.L4",
    "context": "In the Eyes in the Dark test, you hide a glow stick under sheets of paper and count how many sheets you can see the glow through at different times.",
    "how": "e1",
@@ -3379,7 +3379,7 @@
   {
    "problem": "One firefly flashes every 6 ticks and another every 8 ticks, and both start at tick 0 in the Flash Together game with the ignore rule. At which tick do they next flash at the same time?",
    "answer": "At tick 24.",
-   "explain": "The first firefly flashes at 6, 12, 18, 24 and so on. The second flashes at 8, 16, 24 and so on. The first number in both lists is 24. So they flash together next at tick 24, and then not again until tick 48.",
+   "explain": "The first firefly flashes at 6, 12, 18, 24 and so on. The second flashes at 8, 16, 24 and so on. The first number that is in both lists is 24. So they flash together next at tick 24, and then not again until tick 48.",
    "math_unit": "math.factors-multiples.factors-and-multiples.L4",
    "context": "In the Flash Together game, fireflies with different beats only flash together by chance when nobody joins another's flash.",
    "how": "g1",
@@ -3741,7 +3741,7 @@
    "title": "Clap until we are one",
    "mins": 3,
    "say": "Sit facing each other. Each of us claps slowly, five times, at our own pace. Now listen to each other. Let your claps drift towards mine, and mine towards yours, without talking. Notice the moment they land together. Breathe in and out twice. Now ask yourself, who was leading?",
-   "kid": "Sit facing each other. Clap slowly five times. Now listen. Let your claps drift together. Who led?"
+   "kid": "Sit facing each other. Clap slowly five times. Now listen to each other. Let your claps drift together. Then ask who led."
   },
   "ask": [
    "When a whole tree of fireflies flashes together, who is flashing, one firefly or the tree?",

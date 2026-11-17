@@ -1,7 +1,7 @@
 # Living light: how a glow is made, how it is read, and why eyes need the dark
 `sci.light.living-light.L4`
 
-**Summary.** Switch off every light and the room seems to vanish. Wait twenty minutes, and the room slowly comes back, though not one lamp has been lit. Your eyes have changed. A firefly's flash is made by chemistry that needs four ingredients, and your eye reads that flash with chemistry too. In this unit your child counts what a dark-adapted eye can see, finds out why heat stops a helper chemical, and plays a game in which a group of fireflies flashes together with no leader.
+**Summary.** Switch off every light and at first you see nothing. After about twenty minutes you can see the room again, though no lamp has been lit. Your eyes have changed. A firefly's flash is made by chemistry that needs four ingredients, and your eye catches that flash with chemistry too. In this unit your child tests how much more their eyes can see after waiting in the dark, finds out why heat stops a helper chemical from working, and plays a game in which a group of fireflies flashes together with no leader.
 
 **Intro.** *Walk out of bright sunshine into a dark cupboard. For a minute you see nothing at all. Stay there, and shapes begin to appear. Nothing in the cupboard has changed. What has?* Your eyes have been changing, step by step, so that they can catch very faint light. A firefly's flash is faint light too, made by chemistry inside their body. In this unit you find out what a flash needs, why a helper chemical stops working in hot water, and how a squid and a crowd of bacteria make one lamp together. You also test how much your own eyes can see in the dark, and play a game in which fireflies with different beats learn to flash as one.
 
@@ -25,14 +25,14 @@
 - **Fluorescence**: Light that a thing sends out at the same moment it takes in light of another colour, usually a colour we cannot see. It stops as soon as the light shining on it stops. *e.g.* A yellow highlighter line glows brightly under a UV torch, and goes dark the moment the torch is switched off.
 - **Phosphorescence**: Light that a thing stores and gives back slowly, so it goes on glowing after the light shining on it has gone. *e.g.* A glow-in-the-dark star keeps glowing for many minutes after you switch the lamp off.
 - **Ultraviolet (UV) light**: Light with more energy than violet, which our eyes cannot see. It is a part of sunlight. Too much of it can harm skin and eyes. *e.g.* A shopkeeper's UV torch makes parts of banknotes glow.
-- **Wavelength**: The distance from the top of one light wave to the top of the next. Red light has a long wavelength. Blue light has a shorter one. *e.g.* Blue light has a shorter wavelength than red light, and it carries more energy in each packet.
+- **Wavelength**: The distance from the top of one light wave to the top of the next. Red light has a long wavelength. Blue light has a shorter one. *e.g.* Blue light has a shorter wavelength than red light, and each tiny packet of blue light carries more energy.
 - **Retina**: The thin layer at the back of the eye that catches light and turns it into signals for the brain. *e.g.* The retina is like the screen at the back of a pinhole camera, but it is made of living cells.
 - **Rod cell**: A light-catching cell in the retina that works in very dim light but cannot tell colours. Each eye has about a hundred million of them. *e.g.* At night, rod cells let you see the shape of a tree, but not what colour the leaves are.
 - **Cone cell**: A light-catching cell in the retina that needs bright light but can tell colours. Each eye has a few million of them. *e.g.* In daylight, cone cells let you tell a red chilli from a green one.
 - **Rhodopsin**: The light-catching chemical inside rod cells. When one packet of light hits it, it changes shape and starts a signal. It must then be built back before it can work again. *e.g.* Bright light uses up a lot of rhodopsin. That is why you see so little when you first enter a dark room.
 - **Dark adaptation**: The slow change by which your eyes become able to see in dim light. It takes about twenty to thirty minutes to finish. *e.g.* After twenty minutes in a dark room, you can see a glow that was invisible at the start.
 - **Quorum sensing**: The way bacteria count their own crowd. Each one gives off a signal chemical, and when enough has built up they all change what they do together. Say it like this: KWOR-um. *e.g.* Glowing bacteria stay dark when few of them are together, and all switch on their light when many are.
-- **Symbiosis**: Two different kinds of living being living closely together, each getting something from the other. *e.g.* A squid gives glowing bacteria a home and food, and the bacteria give the squid a lamp.
+- **Symbiosis**: Two different kinds of living beings that live closely together, each getting something from the other. *e.g.* A squid gives glowing bacteria a home and food, and the bacteria give the squid a lamp.
 - **Light organ**: A body part made to make or hold light. It may have a lens, a shutter and a mirror, like a tiny torch. *e.g.* A flashlight fish has a light organ under each eye that they can cover with a flap of skin.
 - **Synchrony**: Many things doing the same thing at the same moment. Fireflies in synchrony flash together. Say it like this: SIN-kruh-nee. *e.g.* In some mangrove trees, thousands of fireflies blink on and off in step.
 - **Green fluorescent protein (GFP)**: A protein from a glowing jellyfish that glows green under blue light. Scientists attach it to other proteins to see where they are inside a living cell. *e.g.* A scientist adds the gene for GFP to a nerve cell, and the whole nerve cell lights up green under a microscope.
@@ -42,14 +42,14 @@
 ### Four ways a thing can shine: hot, made, sent back at once, or stored · *defined*
 **Definition:** A thing can shine because it is hot, because a chemical reaction makes light, because it sends light back at once in another colour (fluorescence), or because it stores light and lets it out slowly (phosphorescence).
 
-A candle flame and an old bulb shine because they are very hot. A firefly and a glow stick shine because a chemical reaction makes light, with almost no heat. Fluorescence is different again. A highlighter line takes in ultraviolet light that your eyes cannot see, and sends out visible light at the same moment. When the torch goes off, the glow goes off with it. Phosphorescence is a stored glow. A glow-in-the-dark star keeps some of the light that fell on it and lets it out for minutes or hours. A simple test tells them apart. Switch off the light that was shining on the thing. If the glow stops at once, it was fluorescence. If it fades slowly, it was stored. If it carries on in total darkness with nothing shining on it, it is being made. The Moon is none of these. The Moon only bounces sunlight back.
+A candle flame and an old bulb shine because they are very hot. A firefly and a glow stick shine because a chemical reaction makes light, with almost no heat. Fluorescence is different again. Under a UV torch, a highlighter line takes in ultraviolet light that your eyes cannot see, and sends out visible light at the same moment. When the torch goes off, the glow goes off with it. Phosphorescence is a stored glow. A glow-in-the-dark star keeps some of the light that fell on it and lets it out for minutes or hours. A simple test tells them apart. Switch off the light that was shining on the thing. If the glow stops at once, it was fluorescence. If it fades slowly, it was stored. If it carries on in total darkness with nothing shining on it, the thing is making its own light. The Moon is none of these. The Moon only bounces sunlight back.
 - e.g. A firefly's flash carries on in a pitch dark field, so it is made by chemistry.
 - e.g. A highlighter line stops glowing the moment the UV torch is switched off, so it is fluorescence.
 - e.g. A glow-in-the-dark star fades slowly over many minutes, so it is stored light.
 ### A firefly's flash needs four ingredients · *defined*
 **Definition:** A firefly's flash needs luciferin, the helper chemical luciferase, oxygen, and ATP, the small chemical cells use to carry energy.
 
-Luciferin is the chemical that gives out the light. Luciferase is the enzyme that makes the reaction quick. Oxygen arrives through tiny air tubes. ATP is the fourth ingredient, and it is the one that is easy to miss. ATP is a small packet of energy that every living cell makes and spends. Your muscles spend it, and so does every plant. In a firefly's lantern, ATP first gets the luciferin ready, and then oxygen turns it into light. So every flash costs the firefly some of the energy from their food. In 1947, the American scientist William McElroy found that a firefly lantern extract, mixed in a test tube, glowed only when ATP was added. Without ATP the glow died away. With a new drop, it came back.
+Luciferin is the chemical that gives out the light. Luciferase is the enzyme that makes the reaction quick. Oxygen arrives through tiny air tubes. ATP is the fourth ingredient, and it is the one that is easy to miss. ATP is a small packet of energy that every living cell makes and spends. Your muscles spend it, and so does every plant. In a firefly's lantern, ATP first gets the luciferin ready, and then oxygen turns it into light. So every flash costs the firefly some of the energy from their food. In 1947, the American scientist William McElroy found that a firefly lantern extract, mixed in a test tube, glowed only when ATP was added. Without ATP the glow died away. When he added a new drop of ATP, the glow came back.
 - e.g. A flash costs the firefly ATP, in the same way a step costs your muscles ATP.
 - e.g. A firefly lantern extract in a tube glows for a short while and fades, and glows again when ATP is added.
 - e.g. The more ATP there is, the brighter a mixture of firefly luciferin and luciferase glows.
@@ -63,28 +63,28 @@ A reaction that would take days or years can take a fraction of a second when th
 ### Cold light: how much of the energy comes out as light · *defined*
 **Definition:** A light is efficient if most of the energy it uses comes out as light. Living light is far more efficient than an old bulb, but it is not perfect.
 
-An old bulb with a thin wire inside turns only about 5 parts in every 100 of its electrical energy into light. The other 95 parts become heat. That is why such a bulb is too hot to touch. Modern LED bulbs do much better and stay cooler. A firefly's reaction is even better at one step. In a lab in 2008, scientists reported that about 4 in every 10 firefly luciferin molecules that reacted gave out a flash of light. But that is one step in a chain. The firefly still spends energy to make luciferin, to carry oxygen and to make ATP. So living light is very efficient at the moment of light, and the whole animal still spends food to shine. Nothing in nature gives light for nothing.
+An old bulb with a thin wire inside turns only about 5 parts in every 100 of its electrical energy into light. The other 95 parts become heat. That is why such a bulb is too hot to touch. Modern LED bulbs do much better and stay cooler. A firefly's reaction does much better, but only at one step. At the moment the light is made, very little energy is wasted. In a lab in 2008, scientists reported that about 4 in every 10 firefly luciferin molecules that reacted gave out a flash of light. But that is one step in a chain. The firefly still spends energy to make luciferin, to carry oxygen and to make ATP. So living light wastes very little at the moment the light is made, but the whole animal still spends food to shine. No living being gets light for nothing.
 - e.g. An old filament bulb gives out about 5 parts of light for every 95 parts of heat.
-- e.g. A firefly's flash is reported to come from about 4 reacting molecules in every 10, which is why it feels cool.
+- e.g. About 4 in every 10 firefly luciferin molecules that react are reported to give out light. Very little is wasted as heat, which is why a firefly's flash feels cool.
 - e.g. A glow stick's light does not need a battery, but the glow ends when the chemicals run out.
 ### Why most deep-sea light is blue · *defined*
 **Definition:** Sea water takes in red light very quickly and lets blue light travel furthest, so most deep-sea animals make blue light and have eyes that see blue best.
 
-Sunlight is a mix of all the colours. As it goes down into the sea, the water takes in each colour at a different speed. Red is nearly gone within about ten metres. Orange and yellow go next. Green goes deeper. Blue goes furthest. So below a few hundred metres, the only light left from the Sun is a faint blue. A light the same colour as the water can be seen from far away. That is why many deep-sea animals make blue light, and why their eyes are best at catching blue. The colour of the light depends on the shape of the luciferase, the enzyme that helps make it. A small change in the luciferase's shape can change the colour. There are exceptions. Some deep-sea fish, such as certain dragonfish, make red light that most animals around them cannot see, which is like having a secret torch.
+Sunlight is a mix of all the colours. As it goes down into the sea, the water takes in each colour at a different speed. Red is nearly gone within about ten metres. Orange and yellow go next. Green goes deeper. Blue goes furthest. So below a few hundred metres, the only light left from the Sun is a faint blue. Blue light also travels furthest through the water, so a blue light can be seen from far away. That is why many deep-sea animals make blue light, and why their eyes are best at catching blue. The colour of the light depends on the shape of the luciferase, the enzyme that helps make it. A small change in the luciferase's shape can change the colour. There are exceptions. Some deep-sea fish, such as certain dragonfish, make red light that most animals around them cannot see, which is like having a secret torch.
 - e.g. A red cloth looks black at 20 metres under the sea, because the red light has already been taken in by the water above.
 - e.g. A hatchetfish's belly lights are blue, to match the faint blue light that comes down from above.
-- e.g. A firefly on land makes yellow-green light, because the night air does not take in colours as sea water does.
+- e.g. A firefly on land makes yellow-green light. Night air does not take in colours the way sea water does, so the light does not have to be blue.
 ### How your eyes see in dim light · *defined*
 **Definition:** Your retina has two kinds of light catchers. Rod cells work in dim light and see no colour. Cone cells work in bright light and see colour.
 
-Each eye has about a hundred million rod cells and a few million cone cells. In a bright room, the cones do most of the seeing. In a dark room the cones can no longer catch enough light, and the rods must take over. Rod cells hold a light-catching chemical called rhodopsin. One packet of light, a photon, can change one rhodopsin molecule, and a rod cell can answer even to one. But bright light uses up rhodopsin. After bright light, the rods have little left, so you see almost nothing. In the dark your cells build rhodopsin back, a little at a time. This takes about twenty to thirty minutes. Your pupils also open wider within seconds, but the chemical change matters more. This is also why a red torch is kinder to night eyes. Rods are much less sensitive to red, so red light uses up much less rhodopsin.
+Each eye has about a hundred million rod cells and a few million cone cells. In a bright room, the cones do most of the seeing. In a dark room the cones can no longer catch enough light, and the rods must take over. Rod cells hold a light-catching chemical called rhodopsin. One packet of light, called a photon, can change one rhodopsin molecule, and a rod cell can respond to even one photon. But bright light uses up rhodopsin. After bright light, the rods have little left, so you see almost nothing. In the dark your cells build rhodopsin back, a little at a time. This takes about twenty to thirty minutes. Your pupils also open wider within seconds, but the chemical change matters more. This is also why a red torch is kinder to eyes that have got used to the dark. Rods are much less sensitive to red, so red light uses up much less rhodopsin.
 - e.g. A person who steps out of a bright street into a dark cinema cannot see the seats for a minute or two.
-- e.g. A pilot or sailor uses a dim red lamp at night so that their night eyes are not spoiled.
+- e.g. A pilot or sailor uses a dim red lamp at night so that their eyes stay used to the dark.
 - e.g. Faint stars seem to disappear when you look straight at them, because the middle of your retina has few rod cells.
 ### Seeing is chemistry too: a firefly's glow in reverse · *defined*
 **Definition:** In a rod cell, a packet of light changes the shape of a rhodopsin molecule, and that starts a chain of chemical steps that ends in a signal to the brain.
 
-In a firefly, a chemical reaction ends with a packet of light being given out. In your eye, a packet of light starts a chemical reaction. When light hits rhodopsin, a part of the molecule snaps from a bent shape to a straight one. That change sets off a chain of reactions inside the rod cell, and the cell sends an electrical signal along the optic nerve. So the chain goes from the firefly's food, to their ATP, to their flash, to the rhodopsin in your eye, to the signal in your nerve, to what you see. Light is the bridge between two chemical events, one in the sender and one in the receiver. The rhodopsin must be built back afterwards, which is why seeing in the dark takes minutes to get ready.
+In a firefly, a chemical reaction ends with a packet of light being given out. In your eye, a packet of light starts a chemical reaction. When light hits rhodopsin, a part of the molecule snaps from a bent shape to a straight one. That change sets off a chain of reactions inside the rod cell, and the cell sends an electrical signal along the optic nerve. So the chain goes from the firefly's food, to their ATP, to their flash, to the rhodopsin in your eye, to the signal in your nerve, to what you see. Light is the bridge between two chemical events, one in the sender and one in the receiver. The rhodopsin must be built back afterwards, which is why your eyes take minutes to get ready for the dark.
 - e.g. A firefly turns chemical energy into a flash. Your rod cell turns the flash back into a chemical change.
 - e.g. A camera turns light into numbers. An eye turns light into chemical change, then into nerve signals.
 - e.g. Plants also catch light with chemistry, using chlorophyll, and turn it into food.
@@ -92,25 +92,25 @@ In a firefly, a chemical reaction ends with a packet of light being given out. I
 **Definition:** Bacteria count their crowd by giving out a signal chemical. When the signal builds up past a level, all the bacteria change what they do at the same time.
 
 A single bacterium is far too small to make a visible light. A bacterium that glowed alone in the open sea would waste energy. So each one makes a small amount of a signal chemical, and the chemical drifts away. In a big open sea, the signal spreads out and stays weak. In a small, crowded space, such as a squid's light organ, the signal builds up. When it passes a level, it switches on the genes for making light in every bacterium together. In the 1970s, the American scientists Kenneth Nealson and Woodland Hastings found that glowing bacteria stay dark until many of them are together. Later, the scientist Bonnie Bassler and her team found a second signal that many different kinds of bacteria use, like a shared language.
-- e.g. A bacterium alone in the open sea stays dark, because its signal drifts away.
+- e.g. A bacterium alone in the open sea stays dark, because their signal drifts away.
 - e.g. Thousands of the same bacteria packed into a squid's light organ all switch on together.
 - e.g. Some bacteria that cause disease also wait for a crowd before they attack, which is why scientists study how to block the signal.
 ### Two beings, one lamp: the squid and the bacteria · *defined*
 **Definition:** The Hawaiian bobtail squid keeps glowing bacteria in a light organ under their body. The squid gives the bacteria a home and food, and the bacteria give the squid a lamp.
 
-A newborn bobtail squid has no bacteria. They pick them up from the sea water, and only one kind of bacteria, Vibrio fischeri, is allowed to stay. The squid hunts at night in shallow water. On a moonlit night, their shadow would show against the light from above. The light organ shines a little blue light downwards to cancel the shadow, matching the brightness of the moonlight. The organ even has a lens, a shutter and light-sensing cells, so the squid can adjust their lamp as the moon changes. Each dawn the squid pushes out most of their bacteria into the sea, and the few that are left multiply during the day, ready for the night. The scientist Margaret McFall-Ngai has studied this partnership for many years.
+A newborn bobtail squid has no bacteria. They pick them up from the sea water, and only one kind of bacteria, Vibrio fischeri, is allowed to stay. The squid hunts at night in shallow water. On a moonlit night, the squid would show from below as a dark shadow against the light from above. The light organ shines a little blue light downwards to cancel the shadow, matching the brightness of the moonlight. The organ even has a lens, a shutter and light-sensing cells, so the squid can adjust their lamp as the moon changes. Each dawn the squid pushes out most of their bacteria into the sea, and the few that are left multiply during the day, ready for the night. The scientist Margaret McFall-Ngai has studied this partnership for many years.
 - e.g. The squid's light organ has a lens that spreads the light and a shutter that can dim it.
-- e.g. The squid keeps their bacteria in the day, and pushes most out at dawn, so the crowd is ready again by night.
+- e.g. The squid pushes most of their bacteria out at dawn. The few that are left multiply during the day, so the crowd is ready again by night.
 - e.g. Your own gut is full of bacteria that live with you, and help you digest food.
 ### Fireflies that flash together, with no leader · *idea*
 **Definition:** In some kinds of fireflies, a crowd flashes in step because each firefly has an inner timer and adjusts it slightly when they see a neighbour's flash.
 
-In 1935, an American scientist named Hugh Smith described fireflies in Thailand flashing together in trees. Many scientists did not believe him. They thought it was a trick of the eye. Careful studies in the 1960s and 1970s, by John Buck and Elisabeth Buck, showed that it was real. The idea is simple. Each firefly has a timer that counts up to the next flash. Seeing a neighbour's flash nudges your own timer forward, so your flash comes a little sooner. Fireflies that flash late are nudged forward, and in a few cycles the whole crowd lines up. There is no leader. Computer models of this one rule can reproduce the effect, but scientists have not worked out all the details for each kind of firefly. This is why we call it an idea.
+In 1935, an American scientist named Hugh Smith described fireflies in Thailand flashing together in trees. Many scientists did not believe him. They thought it was a trick of the eye. Careful studies in the 1960s and 1970s, by John Buck and Elisabeth Buck, showed that it was real. The idea is simple. Each firefly has a timer that counts up to the next flash. When a firefly sees a neighbour flash, their own timer is nudged forward, so their next flash comes a little sooner. Fireflies that flash late are nudged forward, and in a few cycles the whole crowd lines up. There is no leader. Computer models that use only this one rule also end up flashing together. But scientists have not worked out all the details for each kind of firefly. This is why we still call it an idea.
 - e.g. In the mangroves of Malaysia and Thailand, thousands of fireflies of one kind flash in step along a river.
 - e.g. In 1665, the Dutch scientist Christiaan Huygens noticed that two pendulum clocks on the same wall swung in step.
-- e.g. The pacemaker cells of your heart keep time together in the same way, with no boss cell.
+- e.g. The pacemaker cells of your heart keep time together with no boss cell, as these fireflies do with no leader.
 ### Where does the luciferin come from? · *debated*
-A glowing being needs a supply of luciferin. Some make it inside their own body. Others may collect it from what they eat. In the sea, many glowing animals use the same luciferin, called coelenterazine. Scientists have shown that some animals can make it themselves. For others, such as some small crustaceans, the evidence points to food. Fireflies are a special case. A kind of firefly called Photuris is known to eat another kind of firefly, and so gains from them a set of bitter defence chemicals. The scientist Thomas Eisner and his team showed this in the 1990s. But how fireflies make their own luciferin is still being worked out.
+A glowing being needs a supply of luciferin. Some make it inside their own body. Others may collect it from what they eat. In the sea, many glowing animals use the same luciferin, called coelenterazine. Scientists have shown that some animals can make it themselves. For others, such as some small crustaceans, the evidence points to food. Fireflies are a special case. A kind of firefly called Photuris eats fireflies of another kind, and so gets their bitter defence chemicals. The scientist Thomas Eisner and his team showed this in the 1990s. But how fireflies make their own luciferin is still being worked out.
 - e.g. Many sea animals use the same luciferin, coelenterazine, even though they are not close relatives.
 - e.g. A trickster Photuris female eats a male of another kind, and so gets his bitter defence chemicals.
 - e.g. An animal that glows only because of their food could lose the glow if the food changed.
@@ -125,7 +125,7 @@ In the 1950s and 1960s, the scientists Woodland Hastings and Beatrice Sweeney st
 - e.g. Some glowing fungi are brightest at night, and dim by day.
 - e.g. You feel sleepy at night even in a room with no windows, because of a clock in your body.
 ### Sea sparkle, plankton blooms and the Indian seas · *debated*
-Sea sparkle, called Noctiluca by scientists, is a one-celled plankton that glows when the water is stirred. When conditions suit them, they multiply into a bloom that can turn the sea green by day and blue by night. A form of Noctiluca that has green algae living inside it has been reported to bloom each winter in the northern Arabian Sea. Scientists including Helga do Rosario Gomes, who worked in Goa, reported in 2014 that these blooms had become much larger, and linked them to patches of low-oxygen water. Some scientists worry that blooms change the food chain, because fish may not eat Noctiluca. Others say that more careful long records are needed before saying what causes them.
+Sea sparkle, called Noctiluca by scientists, is a one-celled plankton that glows when the water is stirred. When conditions suit them, they multiply into a bloom that can turn the sea green by day and blue by night. A form of Noctiluca that has green algae living inside them has been reported to bloom each winter in the northern Arabian Sea. Scientists including Helga do Rosario Gomes, who worked in Goa, reported in 2014 that these blooms had become much larger, and linked them to patches of low-oxygen water. Some scientists worry that blooms change the food chain, because fish may not eat Noctiluca. Others say that more years of careful records are needed before anyone can say what causes the blooms.
 - e.g. A bloom of Noctiluca can turn the sea surface green in the day.
 - e.g. On a night with a bloom, every breaking wave lights up blue.
 - e.g. Fishers on the Indian coasts have long noticed years when the sea changes colour.
@@ -135,14 +135,14 @@ Sea sparkle, called Noctiluca by scientists, is a one-celled plankton that glows
 ### Living light as a tool: lamps for the invisible · *defined*
 **Definition:** Scientists use the genes for glowing proteins as markers. If a gene is on, the cell lights up, so the light shows where the gene is working.
 
-In 1962 Osamu Shimomura and his team described a green glowing protein from a jellyfish. In 1994 Martin Chalfie put the gene for it into a tiny worm, and the worm's cells glowed green. Roger Tsien later made versions in other colours. The three shared the Nobel Prize in Chemistry in 2008. Now a scientist can join the gene for the glowing protein to a gene they want to follow. Where that gene works, the cell glows. Scientists use this to watch nerve cells grow, and cancer cells spread. The firefly gives another tool. Firefly luciferase glows in proportion to the ATP around it. A swab on a kitchen counter glows brighter if more living cells, with more ATP, have been left there.
+In 1962 Osamu Shimomura and his team described a green glowing protein from a jellyfish. In 1994 Martin Chalfie put the gene for it into a tiny worm, and the worm's cells glowed green. Roger Tsien later made versions in other colours. The three shared the Nobel Prize in Chemistry in 2008. Now a scientist can join the gene for the glowing protein to a gene they want to follow. Where that gene works, the cell glows. Scientists use this to watch nerve cells grow, and cancer cells spread. The firefly gives another tool. The more ATP there is, the brighter a mixture with firefly luciferase glows. So a swab wiped on a kitchen counter and tested this way glows brighter if more living cells, with more ATP, have been left there.
 - e.g. A nerve cell with the glow gene attached to it lights up green, so a scientist can see its branches.
 - e.g. A hospital swab glows brighter when more living cells, and so more ATP, are on a surface.
 - e.g. A water sample is tested with glowing bacteria. If the glow gets dim, something in the water is poisoning them.
 ### Bright nights: light pollution beyond fireflies · *defined*
 **Definition:** Light pollution is too much artificial light at night, and it harms many animals, not only fireflies.
 
-Many animals use the dark. Baby turtles hatch at night on a beach and crawl towards the brightest, lowest horizon, which is usually the sea shining under the sky. A bright lamp on the land behind the beach can make them crawl the wrong way. On the Chennai coast, volunteer groups protect Olive Ridley turtle nests and ask nearby houses to keep lights low in the hatching season. Moths circle lamps and get tired, so they eat less and are easier to catch. Migrating birds can be pulled off course by lit towers. A bright sky also hides the stars. A well-aimed, dim, downward light helps people and keeps the dark for others. In 2020, firefly scientists named light pollution as one of the biggest threats to fireflies after the loss of the places where they live.
+Many animals use the dark. Baby turtles hatch at night on a beach and crawl towards the brightest, lowest horizon, which is usually the sea shining under the sky. A bright lamp on the land behind the beach can make them crawl the wrong way. On the Chennai coast, volunteer groups protect Olive Ridley turtle nests and ask nearby houses to keep lights low in the hatching season. Moths circle lamps and get tired, so they eat less and are easier to catch. Migrating birds can be pulled off course by lit towers. A bright sky also hides the stars. A dim lamp that points down gives people the light they need and leaves the dark for the animals. In 2020, firefly scientists named light pollution as one of the biggest threats to fireflies after the loss of the places where they live.
 - e.g. Olive Ridley hatchlings can be drawn to a street lamp instead of the sea.
 - e.g. Moths circle a lamp for hours and have less time to feed.
 - e.g. In a big city you can see only a few stars, but in a village far from lights you can see hundreds.
@@ -187,7 +187,7 @@ Many animals use the dark. Baby turtles hatch at night on a beach and crawl towa
 ## Roots
 We have followed living light from a firefly's chemistry to the eye that reads it, and to a crowd of fireflies flashing as one. Now we ask what that tells us about leaders, crowds and ourselves.
 
-**Deep truth.** Thousands of fireflies can flash as one with no leader. In the game, each player followed one rule: join a flash you see, if you are past halfway. The group lined up fast with that rule, and never lined up without it. So a crowd acts as one through how its members answer each other, not through any one member.  
+**Deep truth.** Thousands of fireflies can flash as one with no leader. In the Flash Together game, each player followed one rule: join a flash you see, if your marker is at halfway or further. The group lined up fast with that rule, and never lined up without it. So a crowd acts as one through how its members answer each other, not through any one member.  
 *Habit it breaks:* We think that when many things act together, one of them must be in charge, or must have given the signal.  
 *Evidence:* In the Flash Together game, players with different beats flashed together within about 20 ticks, when each one joined the flashes they saw. In the round where they ignored each other, they never lined up in 40 ticks. If your own rounds went differently, write them down as they are and play again.
 
@@ -214,10 +214,10 @@ A firefly's flash is chemistry that turns into light. Your eye turns that light 
 - *deep:* A boiled potato does not fizz, though nothing was taken out of it. What did boiling change? (hint: Think about the shape of an enzyme.)
 - *deep:* A single bacterium cannot count. How can a crowd of bacteria know that the crowd is big enough? (hint: Think about where a signal builds up and where it drifts away.)
 - *deep:* Fireflies flash together with no leader. How could a crowd agree without anyone in charge? (hint: Think about what each firefly does when they see a neighbour flash.)
-- *deep:* Why does the same flash look blue in the sea and yellow-green in a field? (hint: Think about which colours sea water takes in, and what the animals' eyes can see.)
+- *deep:* Why is living light mostly blue in the deep sea, but yellow-green from a firefly in a field? (hint: Think about which colours sea water takes in, and what the animals' eyes can see.)
 - *big:* Some deep-sea fish make red light that most animals around them cannot see. Is that cheating? (hint: Think about whether seeing is the same for every animal.)
 - *big:* A squid and her bacteria make one lamp together. Is the lamp one being, or two? (hint: Think about which of them could make the lamp alone.)
-- *big:* A trickster firefly copies the answer flash of another kind. How does anyone trust a signal that could be copied? (hint: Think about what a signal would have to cost, or what else a listener could check.)
+- *big:* A trickster firefly copies the answer flash of another kind of firefly. How can a firefly trust a signal that could be copied? (hint: Think about what a signal would have to cost, or what else a listener could check.)
 
 ## Story: Twenty Minutes of Dark
 *A made-up story. Valaikuppam, Mythili, her grandmother and her uncle are imagined. The science is real. Eyes need about twenty minutes in the dark to see their best. Faint lights are easier to see out of the corner of the eye. Sea sparkle plankton really flash blue when the water around them is stirred.*
@@ -270,16 +270,16 @@ He jumped out into the shallow water, and the splash lit up around his knees lik
 
 In the morning, the rocks were plain and black, and the sea was only grey. Mythili stood on the beach for a long time. She thought about the lamps she had never seen, because she had never waited long enough in the dark.
 
-**For the parent:** Faint light is always there. Eyes need about twenty minutes in the dark to be ready to see it, and a bright lamp undoes that work in a moment.
+**For the parent:** A faint light can be there even when you cannot see it. Eyes need about twenty minutes in the dark to be ready to see it, and a bright lamp undoes that work in a moment.
 
 - Ask: Why does shining a torch make it harder to see a faint light afterwards?
 - Ask: Why is it easier to see a very faint light if you look a little to one side of it?
-- Ask: Why is a dim red light kinder to your night eyes than a bright white one?
-- Ask: How could you tell if a glow in water was being made by living beings or only sunlight bouncing off?
+- Ask: Why is a dim red light kinder than a bright white one to eyes that have got used to the dark?
+- Ask: How could you tell whether a glow in water was being made by living beings, or was only sunlight bouncing off?
 
 ## Games
 ### g1 · Flash Together: can fireflies with different beats flash as one? (20 min)
-- **rules:** Play with 2, 3 or 4 players. Everyone is a firefly. One clock sets the beat for all: a phone metronome set to 60 beats a minute, or a loud ticking clock. Each beat is one tick.; Deal each player one firefly card, using different flash numbers if you can. With 2 players, use a 7 and a 9. With 3 players, use a 7, an 8 and a 9. With 4 players, use a 7, an 8 and both 9s.; Each player also draws a start number card. Put your marker in that box on your counting track.; On every tick, move your marker one box to the right.; When your marker reaches your flash number, you flash. Stand up, raise both hands and say flash. Then put your marker back in box 0.; Listen rule, for rounds 1 and 3. Whenever you see anyone flash, and your marker is at your halfway number or further, flash too and go back to box 0. If your marker is before halfway, do nothing.; Ignore rule, for round 2. Never join. Flash only when your own marker reaches your own flash number.; A round ends when everyone flashes on the same tick two times in a row, or after 40 ticks. Write the number of ticks on the round record. After round 3, compare the three numbers.
+- **rules:** Play with 2, 3 or 4 players. Everyone is a firefly. One clock sets the beat for all: a phone metronome set to 60 beats a minute, or a loud ticking clock. Each beat is one tick.; Deal each player one firefly card, using different flash numbers if you can. With 2 players, use a 7 and a 9. With 3 players, use a 7, an 8 and a 9. With 4 players, use a 7, an 8 and both 9s.; Each player also draws a start number card. Put your marker in that box on your counting track.; On every tick, move your marker one box to the right.; When your marker reaches your flash number, you flash. Stand up, raise both hands and say flash. Then put your marker back in box 0.; Listen rule, for rounds 1 and 3. Whenever you see anyone flash, and your marker is at your halfway number or further, flash too and go back to box 0. If your marker is before halfway, do nothing.; Ignore rule, for round 2. Never join anyone else's flash. Flash only when your own marker reaches your own flash number.; A round ends when everyone flashes on the same tick two times in a row, or after 40 ticks. Write the number of ticks on the round record. After round 3, compare the three numbers.
 - **Printable cards: 6 firefly cards: two of each beat:** Firefly card. Flash number 7. Halfway number 4.; Firefly card. Flash number 7. Halfway number 4.; Firefly card. Flash number 8. Halfway number 4.; Firefly card. Flash number 8. Halfway number 4.; Firefly card. Flash number 9. Halfway number 5.; Firefly card. Flash number 9. Halfway number 5.
 - **Printable cards: 14 start-number cards, numbers 0 to 6, two of each:** Start number 0; Start number 0; Start number 1; Start number 1; Start number 2; Start number 2; Start number 3; Start number 3; Start number 4; Start number 4; Start number 5; Start number 5; Start number 6; Start number 6
 - **Printable board: Counting track: print or draw one for each player:** A row of ten boxes numbered 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9, big enough for a coin to sit in each box.
@@ -297,31 +297,31 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Ask: Before we play, do you think fireflies with different beats could ever flash at the same moment? Why do you think so? (good: Only by luck, when their beats happen to match.; Yes, if they watch each other and change.; No, because each one has their own beat.)
   - Note: Do not correct any guess. Write each guess and reason on the back of the round record.
 - **s3 (4 min)**  
-  *Parent does:* Play round 1 with the listen rule. Start the beat. Everyone moves a box on each tick. Flash and join as the rules say. Count the ticks until everyone flashes together twice in a row.  
+  *Parent does:* Play round 1 with the listen rule. Start the beat. Everyone moves a box on each tick. Flash at your own flash number, and join other flashes as the listen rule says. Count the ticks until everyone flashes together twice in a row.  
   *Parent says:* Round one. Listen to each other. If you see a flash and your marker is halfway or more, flash too. Let's count the ticks until all of us flash together two times.  
-  *Child mode:* Round 1. If you see a flash and you are past halfway, flash too. Count the ticks.
+  *Child mode:* This is round 1. If you see a flash, check your marker. If it is at halfway or further, flash too. Count the ticks.
   - Check: In round 1, a player sees a flash when their marker is before the halfway number. What do they do? → **Nothing, they carry on counting to their own flash number**
 - **s4 (4 min)**  
   *Parent does:* Play round 2 with the ignore rule. Use new start numbers. Stop at 40 ticks if the group never flashes together twice in a row. Write the number on the round record.  
   *Parent says:* Round two. This time we ignore each other. Flash only at your own number, and never join. We will count to 40 ticks if we have to.  
-  *Child mode:* Round 2. Do not join anyone. Flash only at your own number. Stop at 40.
+  *Child mode:* This is round 2. Do not join anyone else's flash. Flash only at your own number. Stop at 40 ticks.
   - Ask: What do you notice about round 2 compared with round 1? (good: In round 2 we never flashed together.; Round 1 took a few ticks and round 2 never finished.; The flashes stayed all over the place.)
   - Note: Expected: in round 1 a group of fireflies usually flashes together within about 9 to 19 ticks. In round 2 it almost never happens in 40 ticks. If a player makes a mistake in counting, you can still go on. Write down what really happened.
 - **s5 (5 min)**  
-  *Parent does:* Play round 3 with the listen rule and new cards. Then talk about the three numbers. Ask for claim, evidence and reasoning.  
+  *Parent does:* Play round 3 with the listen rule and new cards. Then talk about the three numbers. Ask your child three things: what they think made the difference, what they saw, and why they think it happened.  
   *Parent says:* Round three, listening again with new cards. Now look at our three numbers. What do you think made the difference? What did you see? Why do you think it happened?  
-  *Child mode:* Round 3. Listen again. Say three things. What I think. What I saw. Why.
+  *Child mode:* This is round 3. Use the listen rule again. Then tell me three things. What do you think? What did you see? Why did it happen?
   - Note: A good answer. What I think: a crowd can flash together with no leader if each one answers the flashes they see. What I saw: with the listen rule we lined up in a few ticks, and with the ignore rule we did not in 40. Why: joining a flash when you are past halfway pulls the late fireflies into step, and after that they stay together. Real fireflies seem to do something like this, but nobody knows all the details yet.
   - Check: In the game, who told the fireflies when to flash together? → **Nobody. Each firefly followed the same rule about the flashes they saw**
   - Think: Fireflies in a tree may have no way to count out loud. What could each one be doing instead?
 ### g2 · Which Glow? A card game of five kinds of light (20 min)
-- **rules:** Each player gets five tokens: Hot, Made by chemistry, Sent back at once, Stored, and Only bounced. Shuffle the cards and make a pile with the fronts facing up.; One player is the reader. The reader takes the top card and reads the front aloud, but does not show the back.; Everyone else lays one token face down. Then everyone turns their token over together.; The reader turns the card over and reads the back aloud. Each player with the right token takes the card. If you got it right and can also say why, you take the card and a point.; Pass the reader job to the next player. Play until the pile runs out.; Playing alone: take the top card, pick a token, then check the back. Count your right answers out of 26, and try to beat your score the next day.; The player with the most cards wins. In a tie, everyone wins.
+- **rules:** Each player gets five tokens: Hot, Made by chemistry, Sent back at once, Stored, and Only bounced. Shuffle the cards and make a pile with the fronts facing up.; One player is the reader. The reader takes the top card and reads the front aloud, but does not show the back.; Everyone else lays one token face down. Then everyone turns their token over together.; The reader turns the card over and reads the back aloud. Only one player takes each card. If one player has the right token, that player takes the card. If several players have it, the first one to say why it is right takes the card.; Pass the reader job to the next player. Play until the pile runs out.; Playing alone: take the top card, pick a token, then check the back. Count your right answers out of 26, and try to beat your score the next day.; The player with the most cards wins. In a tie, everyone wins.
 - **Printable cards: 26 two-sided cards: something that shines on the front, and how it shines on the back:** A candle flame in a dark room. (back: Hot. The flame is very hot, and the heat makes the glow.); A firefly flashing over a dark field. (back: Made by chemistry. Living light needs no light shining on it.); A yellow highlighter line seen under a UV torch. (back: Sent back at once (fluorescence). It takes in UV and sends out visible light. It goes dark the moment the torch goes off.); A glow-in-the-dark star, ten minutes after the lamp is switched off. (back: Stored (phosphorescence). It keeps some light and lets it out slowly.); The Moon on a clear night. (back: Only bounced. The Moon sends back sunlight and makes no light.); A glow stick, bent so that it starts to shine. (back: Made by chemistry. Two liquids react. Nothing alive is involved.); A white shirt glowing blue-white under a UV lamp after washing with detergent. (back: Sent back at once. Many detergents leave a chemical that sends out visible light under UV.); A filament bulb in an old lamp. (back: Hot. A thin wire is heated until it glows.); The blue sparkle of a wave breaking at night, when the water holds sea sparkle. (back: Made by chemistry. Tiny living plankton flash when the water around them is stirred.); A mirror in a dark room with a torch shining on it. (back: Only bounced. The mirror makes no light of its own.); A scorpion lit by a UV torch. (back: Sent back at once. Their hard outer skin sends out blue-green light under UV. It stops when the torch is off.); The glowing hands of a clock that sat in a bright room all day, now in a dark room. (back: Stored. The paint kept light from the day and lets it out slowly.); A hatchetfish with lights on their belly, deep in the sea. (back: Made by chemistry. Their belly lights make light in the dark.); A sparkler at Diwali. (back: Hot. The burning chemicals glow because they are extremely hot.); A reflective strip on a road sign lit by a car's headlights. (back: Only bounced. Tiny reflectors send the car's light straight back.); A coral on a reef lit by a blue torch, glowing green. (back: Sent back at once. Many corals have proteins that turn blue light into green light. It stops when the torch is off.); A glowing mushroom on a rotting log in a rainforest. (back: Made by chemistry. Living fungi make this light.); A bottle of tonic water glowing blue under a UV torch. (back: Sent back at once. A chemical in tonic water called quinine sends out blue light under UV.); A red-hot iron rod in a blacksmith's fire. (back: Hot. Very hot iron glows red.); A cat's eyes shining green in a torch beam. (back: Only bounced. A mirror-like layer at the back of the eye sends light back.); A white page of a book in bright lamplight. (back: Only bounced. The page makes no light.); The lure of an anglerfish, deep in the sea. (back: Made by chemistry. Glowing bacteria live inside the lure.); A leaf under strong blue light glowing a faint red. (back: Sent back at once. Chlorophyll in a leaf sends out a little red light when blue light falls on it.); Paint on the edge of a stair, glowing in a power cut. (back: Stored. The paint kept light from earlier and lets it out slowly.); A tubelight in a classroom. (back: Sent back at once. Inside the tube, UV light makes a white powder glow. That is why it is called a fluorescent tube.); The Sun at noon. (back: Hot. The Sun's surface is extremely hot, and the heat makes the light.)
 - **Printable tokens: 5 kind-of-light tokens to cut out for each player:** Hot; Made by chemistry; Sent back at once; Stored; Only bounced
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Cut out the 26 cards and the tokens. Make five tokens for each player. Shuffle the cards. Read the five kinds of light aloud, with one example each: candle, firefly, highlighter under UV, glow star, Moon.  
   *Parent says:* There are five ways a thing can shine. It can be hot, like a candle. It can make light by chemistry, like a firefly. It can send light back at once in a new colour. It can store light and let it out slowly. Or it can only bounce light, like the Moon.  
-  *Child mode:* Cut out the cards and tokens. There are five kinds of light. Learn them.
+  *Child mode:* Cut out the cards and tokens. There are five kinds of light. Say each kind aloud.
   - Note: A UV torch is not needed for this game. If you have one, show a highlighter line under it, and then switch the torch off, to show the glow stops at once.
 - **s2 (4 min)**  
   *Parent does:* Play three practice cards together, face up, and talk about each one. Use the candle, the firefly and the Moon.  
@@ -333,7 +333,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   *Parent says:* Reader, read the front. Everyone, lay a token face down. Turn them over together. Now the reader reads the back. Who has it? Who can say why?  
   *Child mode:* Read a card. Lay a token. Turn it over. Check the back.
   - Ask: A glow-in-the-dark star and a highlighter under a UV torch both seem to glow in the dark. How can you tell them apart? (good: Switch off the light. The highlighter stops at once, and the star fades slowly.; The star keeps glowing after the light goes off.; The highlighter needs the UV torch on all the time.)
-  - Note: The tricky pair is sent back at once and stored. The test is to switch the light off. A thing that sends light back stops the moment the light stops. A thing that stores light keeps glowing for a while.
+  - Note: The two kinds that are easy to mix up are 'sent back at once' and 'stored'. The test is to switch the light off. A thing that sends light back stops glowing the moment the light stops. A thing that stores light keeps glowing for a while.
 - **s4 (4 min)**  
   *Parent does:* At the end, spread out all the cards face up and sort them by kind of light. Count each group. Ask which group has the most cards.  
   *Parent says:* Let's sort all twenty-six cards into five piles. Which pile is biggest? Which one holds the living things? Which pile holds the lights that need another light to shine at all?  
@@ -351,20 +351,20 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **s1 (4 min)**  
   *Parent does:* Show your child the glow stick and the stack of paper. Say that the stick will be hidden under 12 sheets. Ask for a guess and a reason. Write it down.  
   *Parent says:* This glow stick will lie under twelve sheets of paper. Each sheet hides some of the light. We will sit in a dark room and see how many sheets we can see the glow through. After twenty minutes, will we see it through more sheets, fewer sheets or the same? Why do you think so?  
-  *Child mode:* A hidden glow under 12 sheets. Wait 20 minutes in the dark. Will you see the glow through more sheets or fewer? Why?
+  *Child mode:* A glow stick is hidden under 12 sheets of paper. You will wait 20 minutes in the dark. Will you see the glow through more sheets or fewer? Why?
   - Ask: Why do you think the number of sheets might change, or stay the same? (good: My eyes will get used to the dark.; The glow stick will get dimmer.; It will be the same, because the light does not change.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Expect to hear that the glow stick will fade. A glow stick does fade over hours, but over 20 minutes it hardly changes, and that is part of why this is a fair test of eyes.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* Cut six A4 sheets in half to make 12 half-sheets. Put a table and two chairs in the dark room. Towel the gap under the door. Snap the glow stick and lay it flat on the table. Cover it with all 12 half-sheets, stacked neatly.  
+  *Parent does:* Cut six A4 sheets in half to make 12 half-sheets. Put a table and two chairs in the dark room. Block the gap under the door with a towel. Snap the glow stick and lay it flat on the table. Cover it with all 12 half-sheets, stacked neatly.  
   *Parent says:* We cut twelve half-sheets. The stick lies under all of them. Put your chair about thirty centimetres from the stack. This is where you will sit for every test.  
   *Child mode:* Cut 6 sheets in half. Snap the glow stick. Cover it with all 12 half-sheets.
   - Note: The room must be as dark as you can make it. A bathroom with no window works well. Mark the chair position with a small piece of tape. Check that the glow stick cannot be seen through the 12 sheets in a lit room.
   - Check: Why must the stack, the stick and the seat stay in the same place for every test? → **So only the time in the dark changes**
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* Sit with your child in the brightest room for 3 minutes, facing a bright lamp or window. Do not look at the Sun. Then walk them, holding their hand, into the dark room.  
-  *Parent says:* First we make your eyes ready for bright light. Look at this bright lamp, but not too closely, for three minutes. Now come into the dark room with me. Sit in your chair, and keep your eyes open.  
+  *Parent says:* First we get your eyes used to bright light. Look at this bright lamp, but not too closely, for three minutes. Now come into the dark room with me. Sit in your chair, and keep your eyes open.  
   *Child mode:* Sit in bright light for 3 minutes. Then walk into the dark room. Keep your eyes open.
-  - Note: Bright light uses up the rhodopsin in the rod cells, so the test starts from a clear point. Never let your child look at the Sun or at the bulb directly.
+  - Note: Bright light uses up the rhodopsin in the rod cells, so the test has a clear starting point. Never let your child look at the Sun or at the bulb directly.
 - **s4 (3 min)**  
   *Parent does:* After 1 minute in the dark, ask your child to lift the sheets off one at a time from the top. When they first see a glow, they say stop. Count the sheets left on top. Write the number. Put all the sheets back.  
   *Parent says:* You have been in the dark for one minute. Lift off the sheets one at a time. Say stop when you see the faintest glow. Now we count how many sheets are left. That is your number for one minute. Put all the sheets back.  
@@ -379,7 +379,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   *Parent does:* Keep waiting in the dark. At 10 minutes, the timer rings. Do the sheets test again. Write the number. Put all the sheets back. Do not turn on any light.  
   *Parent says:* Ten minutes. Same test again. Lift off one sheet at a time. Say stop when you see the glow. Remember, no lights, and no phone screens.  
   *Child mode:* At 10 minutes, do the sheet test again.
-  - Note: The numbers often rise slowly at first and then more quickly. Do not tell your child what number you expect.
+  - Note: The numbers often rise quickly at first and then more slowly. Do not tell your child what number you expect.
 - **s7 (8 min)**  
   *Parent does:* Keep waiting in the dark. At 20 minutes, the timer rings. Do the sheets test again. Write the number. Then turn on the light and look at your four numbers together.  
   *Parent says:* Twenty minutes. This is the last test. Lift off one sheet at a time and say stop when you see the glow. Then we will turn the light on and look at all four numbers.  
@@ -387,26 +387,26 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Note: If your child still sees the glow through all 12 sheets, write 12 or more, and next time use 20 sheets. If the numbers stay the same, write that down. It is still a real result. Dim glow sticks and very dark rooms give smaller numbers. Do not worry if your numbers are different from the example.
   - Check: At 20 minutes, your child sees the glow with 9 sheets left. The glow stick has hardly changed. What does the change in numbers show? → **Their eyes became able to catch fainter light**
 - **s8 (4 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning. Draw a line graph of the four numbers, with minutes along the bottom and sheets up the side.  
+  *Parent does:* Ask your child three things: what they think now, what they saw in their numbers that shows it, and why they think it happened. Draw a line graph of the four numbers, with minutes along the bottom and sheets up the side.  
   *Parent says:* Let's put it together. First, what do you think now? Second, what did you see in your numbers that shows it? Third, why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw in my numbers. Why it happened.
+  *Child mode:* Tell me three things. What do you think now? What did you see in your numbers? Why did it happen?
   - Note: A good answer. What I think: eyes can see fainter and fainter light the longer they are in the dark. What I saw: at 1 minute I saw the glow through a few sheets, and at 20 minutes through more. Why: the light and the stack did not change, so my eyes must have. After bright light, the rod cells need time to build back their light-catching chemical. Do not give this explanation first. Ask for the child's own idea, and then add this.
-  - Think: A firefly's flash is faint. What does a firefly need from their watchers before they can be seen?
+  - Think: A firefly's flash is faint. What do a watcher's eyes need before they can see it?
 ### e2 · The Helper That Heat Stops: raw potato, boiled potato and a bottle of peroxide (31 min)
 - **question:** Which potato will make hydrogen peroxide fizz the most: a raw one, a boiled one or a very cold raw one?
 - **predict:** Before you start, guess. Which glass will have the most foam? Which will have the least? Why do you think so?
-- **fair test:** Every glass gets 3 cubes of potato of the same size, 1 centimetre on each side, and the same amount of hydrogen peroxide and the same drop of dish-wash liquid. You pour all the glasses at the same time and measure after the same 2 minutes. Only the potato changes: raw, boiled or cold. A fourth glass with no potato at all shows what the peroxide does alone.
+- **fair test:** Every glass gets 3 cubes of potato of the same size, 1 centimetre on each side, the same amount of hydrogen peroxide and one drop of dish-wash liquid. You pour all the glasses at the same time and measure after the same 2 minutes. Only the potato changes: raw, boiled or cold. A fourth glass with no potato at all shows what the peroxide does alone.
 - **safety:** A grown-up does the cutting, the boiling and the pouring of the peroxide. Hydrogen peroxide is a mild chemical. Keep it off skin and out of eyes, never drink it, wash your hands afterwards and keep the bottle away from small children. If it touches skin or eyes, rinse with plenty of water. Wear old clothes, because it can bleach cloth. Do the test on a tray. Do not eat any of the potato cubes afterwards.
 - **record:** Fill in the table. Draw each glass after 2 minutes, with the foam. Draw a bar chart of the foam heights.
 - **results table:** Glass | What is in it | Foam height after 2 minutes (centimetres) | What I saw
 - **s1 (4 min)**  
   *Parent does:* Show your child the potato, the peroxide and the four glasses. Say what will go into each glass. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will drop potato cubes into hydrogen peroxide. Glass A gets raw potato. Glass B gets boiled potato. Glass C gets raw potato that was very cold. Glass D gets no potato. Which glass will have the most foam? Why do you think so?  
-  *Child mode:* Four glasses. Raw potato, boiled potato, cold potato and none. Which makes the most foam? Why?
+  *Child mode:* There are four glasses: raw potato, boiled potato, cold potato and no potato. Which makes the most foam? Why?
   - Ask: Why do you think boiling might change what a potato does? (good: Boiling cooks it, and cooked things are different.; Boiling kills it.; The heat might break something inside.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Do not say yet what the potato holds.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* A grown-up peels the potato and cuts 9 cubes of about 1 centimetre. Boil 3 cubes for 5 minutes, then cool them under cold tap water. Put 3 cubes in the bowl of ice water for 15 minutes. Keep 3 cubes raw on a plate. Meanwhile, label the glasses and put 1 drop of dish-wash liquid in each.  
+  *Parent does:* A grown-up peels the potato and cuts 9 cubes of about 1 centimetre. Boil 3 cubes for 5 minutes, then cool them under cold tap water. Put 3 cubes in a bowl of ice water for 15 minutes. Keep 3 cubes raw on a plate. Meanwhile, label the glasses A to D and put 1 drop of dish-wash liquid in each.  
   *Parent says:* While the boiled cubes cook, and the cold ones chill, we get the glasses ready. Each glass gets one drop of dish-wash liquid. The soap will help us see the bubbles as foam.  
   *Child mode:* Ask a grown-up to cut and boil. Label the glasses A to D. Add 1 drop of soap to each.
   - Note: While waiting for the cubes to cook and chill, your child can draw the results table and write the guess. A boiled cube must be cooled before it touches the peroxide. The cold cubes must be cold but not frozen. If you have no ice, use the coldest water from the fridge.
@@ -414,7 +414,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* Put 3 raw cubes in glass A. Put 3 boiled cubes in glass B. Put 3 cold cubes in glass C. Leave glass D empty. Put the glasses on the tray in a row. Check the peroxide strength on the label.  
   *Parent says:* Raw in A. Boiled in B. Cold in C. Nothing in D. Look at the cubes. Do they look different? Be ready with the timer. A grown-up will pour.  
-  *Child mode:* Put the cubes in A, B and C. Nothing in D. Get the timer ready.
+  *Child mode:* Put the cubes in glasses A, B and C. Leave glass D empty. Get the timer ready.
   - Note: Check the label: it should say 3 percent or 10 volume. If it says 6 percent or 20 volume, mix it with an equal amount of water first. Peroxide that has stood open for a year or more may be weak.
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* A grown-up pours 4 teaspoons, about 20 millilitres, of peroxide into each glass, as close to the same time as possible. Start the timer. Watch. At 2 minutes, measure the foam height with the ruler from the outside of each glass. Write the numbers.  
@@ -428,52 +428,52 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   *Child mode:* Look again at the glasses. Draw what you see.
   - Note: The cold cubes in glass C may start fizzing faster as they warm. That is a good thing to talk about, because it shows that cold slows the helper but does not break it.
 - **s6 (4 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning. Draw a bar chart of the foam heights.  
+  *Parent does:* Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Draw a bar chart of the foam heights.  
   *Parent says:* Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why it happened.
+  *Child mode:* Tell me three things. What do you think? What did you see? Why did it happen?
   - Note: A good answer. What I think: raw potato makes peroxide fizz, and heat stops it. What I saw: raw foamed the most, boiled hardly at all, cold a medium amount, and no potato did nothing. Why: raw potato holds a helper chemical, an enzyme. Heat bends the enzyme out of shape so it cannot help. Cold only slows it. In the 1880s, Raphael Dubois found that heat also stopped the helper in a glowing beetle but left the fuel unharmed. Give this last part only after your child has given their own ideas.
   - Think: A firefly's luciferase is also an enzyme. What do you think would happen to a firefly's glow in very hot water?
 ### e3 · Glow Detective: what glows under a UV torch, and what keeps glowing? (25 min)
 - **question:** Which everyday things glow under a UV torch? Which of them keep glowing after the torch is switched off?
 - **predict:** Before you start, guess. Which things on the table will glow? Which will keep glowing after the torch goes off? Why do you think so?
 - **fair test:** Test every thing in the same dark room with the same UV torch held at the same distance, about 10 centimetres, for the same count of five. Then switch the torch off and watch for another count of five. Only the thing you test changes.
-- **safety:** UV light can harm eyes. A grown-up holds the torch. Never shine it at anyone's eyes, your own, a pet's or a mirror. Keep it pointing down at the table, and do not look into the beam. Keep the torch off bare skin for long. Small button batteries are dangerous if swallowed, so keep them away from children under five. Do not drink the tonic water after it has been in a test.
+- **safety:** UV light can harm eyes. A grown-up holds the torch. Never shine it at anyone's eyes, including your own or a pet's, and never at a mirror. Keep it pointing down at the table, and do not look into the beam. Do not shine the torch on bare skin for long. Small button batteries are dangerous if swallowed, so keep them away from children under five. Do not drink the tonic water after it has been in a test.
 - **record:** Fill in the table. Draw the thing that glowed the brightest, with its colour.
 - **results table:** Thing | Did it glow under the UV torch? | What colour? | Did it keep glowing after the torch went off?
 - **s1 (4 min)**  
   *Parent does:* Lay out the nine things on a table. Show your child the UV torch, but do not switch it on yet. Ask for a guess for each thing and a reason. Write the guesses in the table.  
   *Parent says:* This torch makes a light your eyes cannot see. It is called ultraviolet. We will shine it on each thing. Which will glow? Which will keep glowing when we switch the torch off? Why do you think so?  
-  *Child mode:* Nine things on the table. A UV torch. Which will glow? Which will keep glowing? Why?
+  *Child mode:* There are nine things on the table, and a UV torch. Which will glow? Which will keep glowing after the torch goes off? Why?
   - Ask: Why do you think a light we cannot see might make some things glow? (good: The light gives them energy.; Some things change the light into another colour.; I do not know, but it might make the paint glow.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Do not switch on the torch yet.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Draw a line of yellow highlighter and a line of blue pen on a plain sheet of paper. Darken the room. A grown-up holds the torch pointing down. Shine it on the white paper first.  
-  *Parent says:* We switch off the room light. I will hold the torch. Look at the paper. Does it glow? What colour? We will go on to the other things.  
+  *Parent says:* We switch off the room light. I will hold the torch. Look at the paper. Does it glow? What colour? Next we will test the other things.  
   *Child mode:* Draw 2 lines on paper. Darken the room. Look at the paper under the UV torch.
   - Note: Do not worry if the torch itself looks violet. That is only a little visible light that the torch gives out. Most white paper has a chemical that glows blue-white under UV, but some paper does not. Write down what yours does.
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* Test each thing in turn for a count of five. Do the highlighter line, the blue pen line, the newspaper and the washed cloth first. Then do the unwashed cloth, the leaf, the plain water, the tonic water and the star. Write what you see in the table.  
+  *Parent does:* Test each thing in turn for a count of five. Do the highlighter line, the blue pen line, the newspaper and the washed cloth first. Then do the unwashed cloth, the leaf, the plain water, the tonic water and the glow-in-the-dark star. Write what you see in the table.  
   *Parent says:* Next thing. Hold the torch ten centimetres away. Count to five. What do you see? What colour? Write it in the table.  
   *Child mode:* Test each thing for a count of five. Write what you see.
   - Note: Expected. The highlighter glows bright yellow-green or pink. The blue pen does not glow. Newspaper looks dull. A cloth washed in detergent often glows blue-white. Tonic water glows blue, but only a clear drink will work. A leaf may glow a very faint red, which may be hard to see. Plain water does not glow. The star may glow a little in green while the torch is on. Results can vary, so write what really happens.
   - Check: The highlighter line glows under the UV torch. What is the torch doing? → **Giving the highlighter light that it turns into visible light**
 - **s4 (4 min) · grown-up needed**  
-  *Parent does:* Switch the torch off. Count to five in the dark. Look at each thing again. Write which ones are still glowing. The star should still be glowing a little.  
+  *Parent does:* Switch the torch off. Count to five in the dark. Look at each thing again. Write which ones are still glowing. The glow-in-the-dark star should still be glowing a little.  
   *Parent says:* Now the torch is off. Look carefully. Which things are still glowing? Which went dark at once?  
   *Child mode:* Switch the torch off. Which things still glow? Which went dark?
   - Note: The highlighter and the cloth go dark at once, which is fluorescence. The star keeps glowing for a while, which is a stored glow. If the star does not glow, hold the torch on it for 20 seconds first. UV charges a star much better than a white torch.
   - Check: The highlighter went dark the moment the torch was switched off, and the star kept glowing. What is the difference? → **The star stored light, and the highlighter sent light back at once**
 - **s5 (4 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning. Compare with a firefly, who needs no torch at all.  
+  *Parent does:* Ask your child three things: what they think now, what they saw, and why they think it happened. Then compare these glows with a firefly, who needs no torch at all.  
   *Parent says:* Let's put it together. First, what do you think now? Second, what did you see? Third, why do you think it happened? Then tell me how a firefly's glow is different from all of these.  
-  *Child mode:* Say three things. What I think. What I saw. Why. Then say how a firefly is different.
+  *Child mode:* Tell me three things. What do you think? What did you see? Why did it happen? Then say how a firefly is different.
   - Note: A good answer. What I think: some things send light back at once when a UV torch shines, and some store it. What I saw: the highlighter, the cloth and the tonic water glowed and went dark when the torch was off, and the star kept glowing. Why: fluorescent things turn the invisible UV into visible light at once, and stored glows keep the light and let it out slowly. A firefly is different because they make new light from chemicals, and need no torch at all.
-  - Think: Why does a paper money note have parts that glow under UV, and who would want to check this?
+  - Think: Why does a banknote have parts that glow under UV, and who would want to check this?
 
 ## Activities
 ### a1 · The Little Black Windows: watch your pupils change (12 min)
 - **safety:** Never shine a torch into anyone's eyes. This activity needs only a bright room and your own hands.
-- **record:** Draw one eye twice: the pupil just after you open your hands, and the pupil two seconds later. Write whether it grew or shrank.
+- **record:** Draw one eye twice: the pupil just after the hands are taken away, and the pupil two seconds later. Write whether it grew or shrank.
 - **s1 (3 min)**  
   *Parent does:* Sit facing your child in a bright room. Look at their eyes. Find the black circle in the middle. Ask them to look at yours. Ask for a guess.  
   *Parent says:* Look at my eye. The black circle in the middle is the pupil. It is a hole that lets light into the eye. Now, if I cover my eyes with my hands for a while, what do you think will happen to my pupils? Why do you think so?  
@@ -484,16 +484,16 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   *Parent does:* Your child covers their eyes with cupped hands for 30 seconds. The room stays bright. Then they take their hands away. You watch their pupils closely for the first three seconds. Say what you saw.  
   *Parent says:* Cover your eyes with both hands, like a tent. Keep your eyes open under your hands. I will count thirty seconds. Now take your hands away. I am watching your pupils.  
   *Child mode:* Cover your eyes with cupped hands for 30 seconds. Take your hands away. Your partner watches.
-  - Note: Expected: just after the hands move, the pupils are wide, and within about two seconds they shrink. It can be quick, so repeat the test two or three times. Keep the light from the room the same each time.
+  - Note: Expected: just after the hands move, the pupils are wide, and within about two seconds they shrink. It can be quick, so repeat the test two or three times. Keep the room just as bright each time.
   - Check: When hands are taken away from the eyes in a bright room, what happens to the pupils? → **They start wide and then get smaller**
 - **s3 (3 min)**  
   *Parent does:* Swap roles. Now you cover your eyes, and your child watches your pupils. Then draw one eye twice: the pupil just after the hands moved, and the pupil two seconds later.  
   *Parent says:* Now it is my turn. I will cover my eyes. You watch my pupils when I take my hands away. Then draw one eye twice, once big and once small.  
   *Child mode:* Swap. Watch your partner's pupils. Draw one eye twice.
 - **s4 (2 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning. Then mention that cat pupils are slits and an octopus has a rectangular pupil.  
+  *Parent does:* Ask your child three things: what they think now, what they saw, and why they think pupils change. Then mention that cat pupils are slits and an octopus has a rectangular pupil.  
   *Parent says:* What do you think now? What did you see? Why do you think pupils change? A cat's pupil is a thin slit by day and a big circle at night. Why might that help a cat?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Tell me three things. What do you think? What did you see? Why did it happen?
   - Note: A good answer. What I think: pupils get bigger in the dark and smaller in bright light. What I saw: the black circle shrank in about two seconds. Why: the pupil lets light in, so a bigger pupil catches more light in the dark. Pupils can change the amount of light by roughly ten times or more, but the chemical change in the retina is a much bigger change. That takes about twenty minutes, as you will see in the Eyes in the Dark test.
   - Think: A firefly's flash is faint. What could an owl do with their pupils to see it better?
 ### a2 · Look Beside It: a glow seen from the corner of the eye (15 min)
@@ -517,9 +517,9 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Note: Looking beside the stack often lets people see the glow through one or two more sheets, but not always. If your child sees no difference, write that down. It is a real result. Try the tape on the other side too.
   - Check: Your child sees the glow through more sheets when looking beside it than when looking straight at it. What is the best explanation? → **The middle of the retina has few rod cells, and the sides have many**
 - **s4 (4 min)**  
-  *Parent does:* Compare the two numbers. Ask for claim, evidence and reasoning. Mention that astronomers use this trick to see faint stars.  
+  *Parent does:* Compare the two numbers. Ask your child three things: what they think now, what numbers they got, and why they think it happened. Mention that astronomers use this trick to see faint stars.  
   *Parent says:* What do you think now? What numbers did you get? Why do you think the corner of the eye might see a faint light better? Astronomers use this trick to look at faint stars. They call it averted vision.  
-  *Child mode:* Compare your two numbers. Say three things. What I think. What I saw. Why.
+  *Child mode:* Compare your two numbers. Then tell me three things. What do you think? What did you see? Why did it happen?
   - Note: A good answer. What I think: a faint light is easier to see from the corner of the eye. What I saw: I saw the glow through more sheets when I looked beside it. Why: the middle of the eye has cone cells, which need bright light, and the sides have many rod cells.
 ### a3 · The Crowd and the Signal: why bacteria glow only in a crowd (20 min)
 - **safety:** Food colour can stain clothes and hands. Do the test on a tray. Do not drink the coloured water.
@@ -527,11 +527,11 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **s1 (4 min)**  
   *Parent does:* Show your child the glass, the jug and the coloured signal water. Explain that each spoonful is the signal from one bacterium. Ask for a guess: how many spoonfuls will the jug need compared with the glass?  
   *Parent says:* Each spoonful of coloured water is the signal that one bacterium makes. The glass is like a squid's tiny light organ. The jug is like the open sea. When the water looks coloured, the bacteria know the crowd is big enough. How many spoonfuls will the glass need? And the jug? Why do you think so?  
-  *Child mode:* A spoonful of colour is one bacterium's signal. How many for the glass? How many for the jug? Why?
+  *Child mode:* A spoonful of coloured water is one bacterium's signal. How many spoonfuls will the glass need? How many will the jug need? Why?
   - Ask: Why do you think the jug will need more or fewer spoonfuls than the glass? (good: The jug is bigger, so the colour spreads out more.; It will need the same, because it is the same colour.; The jug will need a lot more.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (4 min)**  
-  *Parent does:* Stir 5 drops of food colour into half a cup of water. This is the signal water. Put the small glass and the plain glass side by side on the white paper. Compare them from above.  
+  *Parent does:* Stir 5 drops of food colour into half a cup of water. This is the signal water. Put the small glass of water and a second glass of plain water side by side on the white paper. You will compare them by looking from above.  
   *Parent says:* This is the signal water. We will add it one spoonful at a time. We stop when the water in the glass looks clearly different from the plain glass.  
   *Child mode:* Stir 5 drops of colour into half a cup of water. Put 2 glasses on white paper.
 - **s3 (4 min)**  
@@ -545,18 +545,18 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   *Child mode:* Do the same with the jug. Add spoonfuls. Count them.
   - Note: Expected: the glass needs about one or two spoonfuls, and the 2-litre jug about ten times as many, which may be 10 to 20. The exact number depends on your colour and your eyes. If the jug is not coloured after 30 spoonfuls, make the signal water stronger and try again. Write the real numbers.
 - **s5 (3 min)**  
-  *Parent does:* Divide the jug count by the glass count. Ask for claim, evidence and reasoning.  
+  *Parent does:* Divide the jug count by the glass count. Ask your child three things: what they think now, what they saw, and why they think it happened.  
   *Parent says:* How many more spoonfuls did the jug need? What do you think now? What did you see? Why do you think a glowing bacterium alone in the sea stays dark?  
-  *Child mode:* Compare the two counts. Say three things. What I think. What I saw. Why.
+  *Child mode:* Compare the two counts. Then tell me three things. What do you think? What did you see? Why did it happen?
   - Note: A good answer. What I think: a signal is strong only if there are many bacteria in a small space. What I saw: the glass needed a few spoonfuls and the jug needed many more. Why: in the big jug the signal spreads out. That is why bacteria in the open sea stay dark and bacteria packed in a squid's light organ glow.
-  - Think: A squid empties out most of their bacteria at dawn. What would happen to the signal inside her light organ then?
+  - Think: A squid empties out most of their bacteria at dawn. What would happen to the signal inside their light organ then?
 ### a4 · Colours Go to Sleep: can you name colours in very dim light? (27 min)
 - **safety:** Stay in the room with your child. Clear the floor. Do not shine the torch into anyone's eyes.
 - **record:** Write what you called each square in the dim light, and what colour it really was.
 - **s1 (4 min)**  
   *Parent does:* Number the squares on the back and mix up their order. Lay them in a row on a tray, 1 metre from where your child will sit. Ask for a guess: will they be able to name the colours in a very dim light?  
   *Parent says:* Here are six paper squares of different colours. Soon we will put out the lights and make a very dim light. Do you think you will be able to name every colour? Why do you think so?  
-  *Child mode:* Six coloured squares. In very dim light, can you name every colour? Why?
+  *Child mode:* There are six coloured squares. In very dim light, can you name every colour? Why?
   - Ask: Why might colours look different in very dim light? (good: There is not enough light to see the colour.; Colours look grey at night.; I will see all colours as usual.)
   - Note: Do not correct the guess. Make sure your child does not see the order of the squares before the test.
 - **s2 (4 min) · grown-up needed**  
@@ -571,16 +571,16 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Note: Expected: many people see the squares as greys. Often the white square looks brightest, the black darkest, and red looks dark. Blue and green may look lighter than red. Some people can name some colours. If your child can name every colour easily, add more sheets and try again. Write what really happens.
   - Check: In very dim light, why are colours hard to name? → **Rod cells work in dim light but cannot tell colours**
 - **s4 (4 min)**  
-  *Parent does:* Turn on the room light and check each square. Count how many your child named correctly. Ask for claim, evidence and reasoning.  
+  *Parent does:* Turn on the room light and check each square. Count how many your child named correctly. Ask your child three things: what they think now, what they saw, and why they think it happened.  
   *Parent says:* Now the light is on. Let's check. How many did you name correctly? What do you think now? What did you see? Why do you think colours seem to fade in the dark?  
-  *Child mode:* Switch on the light. Check each square. Count how many you got right. Say three things.
+  *Child mode:* Switch on the light. Check each square. Count how many you got right. Then tell me three things. What do you think? What did you see? Why did it happen?
   - Note: A good answer. What I think: colours fade in very dim light. What I saw: I called the squares greys, and only the white and black were easy. Why: rod cells work in dim light but cannot see colour, and cone cells need more light. It is also why a moonlit garden looks grey.
 
 ## Projects
 ### p1 · How Dark Is Our Sky? A star count in three conditions (65 min, 3 days)
 - **safety:** Go outside only with a grown-up. Stay on the balcony, terrace or a safe open space. Keep the red torch dim and never point it at anyone's eyes.
 - **record:** Each night write the date, the time, the place, the weather and the number of stars. On night 3, draw a bar chart.
-- **schedule:** day 1: Make the card window. Go out with all the lights on. Count stars straight overhead at once. Write the number. (20 min); day 2: Switch off the lights near you. Wait 20 minutes in the dark. Count the stars again. Write the number. (25 min); day 3: Count again from a darker place, or very late at night when more lights are off. Make a bar chart of the three counts and write a short report. (20 min)
+- **schedule:** day 1: Make the card window. Go out with all the lights on. Count the stars straight overhead straight away, without waiting. Write the number. (20 min); day 2: Switch off the lights near you. Wait 20 minutes in the dark. Count the stars again. Write the number. (25 min); day 3: Count again from a darker place, or very late at night when more lights are off. Make a bar chart of the three counts and write a short report. (20 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* A grown-up cuts a 15 centimetre square window in the card. Tie a 60 centimetre string to one corner. Ask your child to guess how many stars they will count in the window on the three nights, and why.  
   *Parent says:* This card is our window on the sky. When we hold the string to our nose and look up, the window always shows the same patch. How many stars do you think we will see tonight with the lights on? And after waiting in the dark? Why do you think so?  
@@ -588,7 +588,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Ask: What might change the number of stars you can see on different nights? (good: Clouds.; Bright lights nearby.; How long my eyes have been in the dark.)
   - Note: Choose nights with a clear sky and, if you can, no bright Moon. Count at the same time of night each time. A Moon in the sky hides faint stars, so write down if it is out.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* On night 1, keep all the lights on near you. Go out. Hold the string against your nose and the card out straight. Look straight up through the window. Count the stars in the window. Write the number, and write what you can see.  
+  *Parent does:* On night 1, keep all the lights on near you. Go out. Hold the string against your nose and the card out straight. Look straight up through the window. Count the stars in the window. Write the number, and anything else you notice.  
   *Parent says:* Night one. All our lights are on. Hold the string to your nose and look straight up through the window. Count every star you can see. Write down the number.  
   *Child mode:* Hold the string to your nose. Look straight up. Count the stars in the window.
   - Note: A planet looks like a star, so count it too and write that it may be a planet. If the number is zero, write zero. A zero is a real result.
@@ -617,21 +617,21 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **your turn:** Invent your own code. Write it down. Test it with a trickster who watches three rounds. Change one thing and test again. Which code was hardest to copy? Why do you think so?
 - **constraints:** You may use only torches, with no sound and no words.; The code must work in a dim room, and nobody may shine a torch in anyone's eyes.; The trickster is a family member who watches three rounds and then tries to copy the code.; The code must be easy for the two friends to remember.
 - **general:** A pattern of long and short flashes, like 1 long, 2 short, followed by a reply from your friend after a wait.; A first flash and a reply, with the wait between them set to exactly 2 seconds.; A password flash that you change on every night.
-- **creative:** Make the code change after every flash, so a copy of the last round does not work on the next.; Add a colour change with a piece of cellophane over the torch that only you two know about.; Hide the key in how long you wait. A trickster can copy a flash, but it is hard to copy a wait of exactly two heartbeats.
+- **creative:** Make the code change after every flash, so a copy of the last round does not work on the next.; Add a colour change with a piece of cellophane over the torch that only you two know about.; Make the length of the wait the secret. A trickster can copy a flash, but it is hard to copy a wait of exactly two heartbeats.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Explain the trickster fireflies. Ask for ideas on what a trickster could copy easily and what would be hard to copy.  
-  *Parent says:* Some female fireflies copy the answer of another kind, and then catch the males who come. Our trickster is a person who watches and copies. What is easy to copy about a flash? What is hard?  
+  *Parent says:* Some female fireflies copy the answer flash of another kind of firefly, and then catch the males who come. Our trickster is a person who watches and copies. What is easy to copy about a flash? What is hard?  
   *Child mode:* A trickster watches your flashes. What is easy to copy? What is hard to copy?
   - Ask: What part of a flash code would be hardest to copy? (good: A secret that is not in the flash.; The exact time between flashes.; A change that happens every time.)
 - **s2 (8 min)**  
-  *Parent does:* Your child and a friend or you design a code and write it down. They decide the flashes, the wait before the reply, and what the reply is.  
+  *Parent does:* Your child and a friend, or your child and you, design a code and write it down. They decide the flashes, the wait before the reply, and what the reply is.  
   *Parent says:* Design your code. How many flashes? How long between them? What does your friend send back? Write it down so you both remember it.  
   *Child mode:* Design a code. Write down the flashes, the wait and the reply.
 - **s3 (10 min)**  
   *Parent does:* In a dim room, the two friends use the code three times. The trickster watches. Then the trickster tries to copy it. The friend says if they believe the trickster. Write down whether it worked.  
   *Parent says:* Trickster, watch carefully. Friends, send your code three times. Now trickster, your turn. Friend, is that your real friend, or the trickster?  
-  *Child mode:* Use your code 3 times. The trickster tries to copy it. Is it fooled?
-  - Note: Be a fair trickster. Copy the flashes as well as you can, and do not guess at a secret. If your child's code is fooled, that is useful. It tells them what to change.
+  *Child mode:* Use your code 3 times. The trickster tries to copy it. Is your friend fooled?
+  - Note: Be a fair trickster. Copy the flashes as well as you can, and do not guess at a secret. If you manage to copy your child's code, that is useful. It tells them what to change.
   - Check: A code is just three quick flashes with no reply. Why is it easy for a trickster to copy? → **Everything about it is visible, so the trickster can copy all of it**
 - **s4 (7 min)**  
   *Parent does:* Change one thing in the code to make it harder to copy. Test again. Compare the two codes.  
@@ -645,12 +645,12 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **general:** The game rule: flash when you see a flash and your marker is at the halfway number or further.; A shyer rule: join only if your marker is at least one third of the way to your number.; A bolder rule: join any flash you see, whatever your marker says.
 - **creative:** A rule where you move your marker forward by 2 boxes whenever you see a flash, but never flash early. Test whether this works.; A very shy rule: join only if your marker is one box from your own flash number. Test whether this works.; A rule that joins a flash only when two or more fireflies flash together, as if the louder the crowd, the more you listen.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Remember the game rule and how many ticks it took. Ask your child to guess how to make a rule that is faster.  
+  *Parent does:* Read the problem together. Recall the listen rule from the Flash Together game, and how many ticks the group took to line up. Ask your child to guess how to make a rule that is faster.  
   *Parent says:* In the game, we lined up after about a dozen ticks. Can you make a rule that is faster? Can you make one that fails? Think of a rule, and write it in one sentence.  
   *Child mode:* Think of a new rule. Could it be faster than the game rule? Write it in one sentence.
   - Ask: What would make a group line up faster? (good: Joining a flash sooner.; Joining every flash I see.; Moving closer to the flash.)
 - **s2 (10 min)**  
-  *Parent does:* Choose three rules to test: the game rule, your own rule and one rule of your own choice. Write each in one sentence. Fix the cards and start numbers, so each rule is tested the same way.  
+  *Parent does:* Choose three rules to test: the game rule, your child's own rule and one more rule. Write each in one sentence. Fix the cards and start numbers, so each rule is tested the same way.  
   *Parent says:* We test three rules. The game rule, your rule, and one more. We use the same cards and the same start numbers for each. Why is that important?  
   *Child mode:* Pick 3 rules. Use the same cards and start numbers for each. Why is that fair?
   - Check: Why must every rule be tested with the same cards and start numbers? → **So only the rule changes, and the result comes from the rule**
@@ -660,9 +660,9 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   *Child mode:* Test each rule 3 times. Count the ticks. Stop at 40.
   - Note: Results from computer tests of the same game. A rule that says join if your marker is at the halfway number or further lines the group up in at most about 19 ticks. A bolder rule that joins any flash is faster, up to about 14 ticks. A very shy rule that joins only one box before your own number never lines up in 40 ticks. A rule that only moves your marker forward 1, 2 or 3 boxes and never joins did not line up either. Real players may be slower than the computer, because people make mistakes in counting.
 - **s4 (5 min)**  
-  *Parent does:* Compare the three rules in a table. Ask which was fastest and which failed. Ask for claim, evidence and reasoning.  
+  *Parent does:* Compare the three rules in a table. Ask which was fastest and which failed. Then ask your child three things: what they think now, what they saw, and why they think the best rule worked.  
   *Parent says:* Which rule was fastest? Which never worked? What do you think now? What did you see? Why do you think the best rule worked?  
-  *Child mode:* Which rule was fastest? Which failed? Say three things. What I think. What I saw. Why.
+  *Child mode:* Which rule was fastest? Which one failed? Then tell me three things. What do you think? What did you see? Why did it happen?
   - Note: A good answer. What I think: the more willing each firefly is to join, the faster the group lines up. What I saw: the bold rule was fastest, and the shy rule never worked. Why: joining a flash pulls fireflies into step, and a rule that joins too late or only nudges never makes them flash at the same tick.
   - Think: A firefly that joins every flash flashes at the pace of the fastest one. Is that good or bad for the group?
 
@@ -674,13 +674,13 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 2. (fill) The helper chemical that makes luciferin react quickly is called ____.  
    **Answer:** ['luciferase']. *Why:* Luciferase is an enzyme, a helper chemical. It makes the reaction go fast but is not used up.
 3. (sort) Sort these. How does each one shine?  
-   **Answer:** a candle flame → Hot; a firefly's flash → Made by chemistry; a yellow highlighter line under a UV torch → Sent back at once; a glow-in-the-dark star ten minutes after the lamp goes off → Stored; the Moon → Only bounced. *Why:* A flame is hot. A firefly makes light by chemistry. A highlighter takes in UV light and sends out visible light at once. A star keeps light and lets it out slowly. The Moon only bounces sunlight.
+   **Answer:** a candle flame → Hot; a firefly's flash → Made by chemistry; a yellow highlighter line under a UV torch → Sent back at once; a glow-in-the-dark star ten minutes after the lamp goes off → Stored; the Moon → Only bounced. *Why:* A flame is hot. A firefly makes light by chemistry. A highlighter takes in UV light and sends out visible light at once. A glow-in-the-dark star keeps light and lets it out slowly. The Moon only bounces sunlight.
 4. (truefalse) An enzyme is used up each time it helps with a reaction.  
    **Answer:** False. *Why:* False. An enzyme is not used up. It can do the same job again and again, often thousands of times in a second.
 5. (mcq) Raw potato fizzes in hydrogen peroxide, but boiled potato does not. What did boiling do to the enzyme?  
    Options: It bent the enzyme out of shape, so it could not help any more / It made more enzyme / It made the potato lighter  
    **Answer:** It bent the enzyme out of shape, so it could not help any more. *Why:* An enzyme works by its shape. Heat bends the shape out, and then the enzyme cannot grip anything. Picking 'made more enzyme' goes the wrong way. Boiling takes helpers away, it does not add them.
-6. (write) In the potato test, glass D held peroxide but no potato. Why was it included, and what did it show?  
+6. (write) In the Helper That Heat Stops test, glass D held hydrogen peroxide but no potato. Why was it included, and what did it show?  
    **Answer:** Glass D was the control. It showed what the peroxide does alone. It did not foam, so the foam in the other glasses came from the potato.. *Why:* A strong answer says that a control shows what happens without the thing you are testing, so the other results can be trusted.
 7. (match) Match each part of the eye to its job.  
    **Answer:** Pupil → lets light in, and opens wider in the dark; Retina → the layer at the back that catches light; Rod cell → works in dim light but cannot tell colours; Cone cell → needs bright light and tells colours apart. *Why:* The pupil is the opening. The retina is the screen at the back. Rod cells work in dim light. Cone cells give us colour in bright light.
@@ -688,8 +688,8 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
    **Answer:** [0, 1, 2, 3, 4]. *Why:* A reaction in the firefly makes light. The light travels to your eye. In the rod cell it changes rhodopsin, which starts a chain that ends in a nerve signal. Your brain makes the picture. Making light and seeing it are two ends of a chemical chain.
 9. (mcq) Why do colours become hard to name in very dim light?  
    Options: Rod cells take over in dim light, and they cannot tell colours / Colours only exist in the daytime / The pupil closes up and stops light  
-   **Answer:** Rod cells take over in dim light, and they cannot tell colours. *Why:* In dim light, cone cells cannot catch enough light, and rod cells do the seeing. Rod cells cannot tell colours apart. Picking 'colours only exist in the daytime' mixes up the paper with the eye. The paper does not change.
-10. (draw) Draw a line graph of the made-up numbers from an Eyes in the Dark test: 1 minute, 3 sheets. 5 minutes, 5 sheets. 10 minutes, 7 sheets. 20 minutes, 9 sheets. Say what the line shows.  
+   **Answer:** Rod cells take over in dim light, and they cannot tell colours. *Why:* In dim light, cone cells cannot catch enough light, and rod cells do the seeing. Rod cells cannot tell colours apart. Picking 'colours only exist in the daytime' mixes up the thing you are looking at with your eye. The thing does not change. Your eye does.
+10. (draw) Here are made-up numbers from an Eyes in the Dark test. They show how many sheets of paper the glow was seen through: 3 sheets at 1 minute, 5 sheets at 5 minutes, 7 sheets at 10 minutes and 9 sheets at 20 minutes. Draw a line graph of these numbers. Say what the line shows.  
    **Answer:** A line that rises from 3 sheets at 1 minute to 9 sheets at 20 minutes, rising quickly at first and then more slowly. It shows that the longer the eyes are in the dark, the fainter a light they can see.. *Why:* A strong drawing has minutes along the bottom, sheets up the side, four points joined by a line, and a sentence saying the line goes up because the eyes became ready for dim light.
 11. (truefalse) A glow-in-the-dark star that keeps glowing for a while after the lamp is switched off is showing fluorescence.  
    **Answer:** False. *Why:* False. A glow that carries on after the light is off is stored light, called phosphorescence. Fluorescence stops the moment the light is switched off.
@@ -698,9 +698,9 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 13. (mcq) Why do glowing bacteria in the open sea stay dark?  
    Options: Their signal chemical spreads out and stays too weak to switch on the light / They are asleep / Sunlight stops them glowing  
    **Answer:** Their signal chemical spreads out and stays too weak to switch on the light. *Why:* Bacteria switch on their light only when the signal they give out builds up past a level. In the open sea the signal drifts away. Inside a squid's small light organ it builds up.
-14. (write) A friend says a red torch is just a dim white torch. Use what you know about rod cells to explain why a red torch is kinder to your night eyes.  
+14. (write) A friend says a red torch is just a dim white torch. Use what you know about rod cells to explain why a red torch is kinder to eyes that have got used to the dark.  
    **Answer:** Rod cells are much less sensitive to red light than to other colours. So red light uses up very little of the rhodopsin in the rods. After a red torch, the rods are still ready for dim light. A white torch uses up a lot of rhodopsin.. *Why:* A strong answer says that rods are not very sensitive to red, so red light does not undo the dark adaptation.
-15. (perspective) A beach in Tamil Nadu is where baby Olive Ridley turtles hatch. A hotel on the road behind the beach wants to keep its bright lamps on all night. Three people disagree.  
+15. (perspective) Baby Olive Ridley turtles hatch on a beach in Tamil Nadu. A hotel on the road behind the beach wants to keep its bright lamps on all night. Three people disagree.  
    **Answer:** A strong answer picks a plan and explains it with science. Hatchlings follow the brightest horizon, so lamps that shine on the beach confuse them. It also gives the other side a fair point, for example that guests need a safe path. It may mix ideas, such as low shaded lamps that point down at the path.. *Why:* This is a real trade-off between people's safety and animals' need for dark. Good answers use the science of light and keep both sides in mind.
 16. (truefalse) Fireflies that flash together must have a leader that keeps the beat.  
    **Answer:** False. *Why:* False. In the Flash Together game, no one led. Each firefly followed one rule about the flashes they saw, and the group lined up. Real fireflies seem to work in a similar way.
@@ -721,9 +721,9 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
    **Answer:** Hatchetfish with belly lights → blue light that matches the faint light from above; A dragonfish with a red light → a secret torch that most animals cannot see; Glowing bacteria in a squid → switch on their light only when the crowd is big; A flashing firefly → a code to find a partner. *Why:* Each light does a job. Belly lights hide a shape, a red light lights up prey that cannot see red, bacteria count their crowd, and a firefly's flash is a message.
 7. (sort) Sort these. Is each one an enzyme, or not an enzyme?  
    **Answer:** luciferase in a firefly → Enzyme; catalase in a raw potato → Enzyme; amylase in your spit → Enzyme; ATP → Not an enzyme; hydrogen peroxide → Not an enzyme; table salt → Not an enzyme. *Why:* Luciferase, catalase and amylase are proteins that speed up one reaction each. ATP carries energy, hydrogen peroxide is the chemical that catalase breaks down, and salt is a simple mineral.
-8. (order) Put the steps by which a crowd of glowing bacteria light up in order.  
+8. (order) Put these steps in order to show how a crowd of glowing bacteria lights up.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* Every bacterium makes some signal, and in a small crowded space it builds up. Past a level, the light genes switch on in all of them together.
-9. (mcq) In an eye test, a child saw a hidden glow through 3 sheets at 1 minute and 8 sheets at 20 minutes. The stick and the sheets did not change. What is the best conclusion?  
+9. (mcq) In an Eyes in the Dark test, a child saw a hidden glow stick through 3 sheets of paper at 1 minute and through 8 sheets at 20 minutes. The glow stick and the sheets did not change. What is the best conclusion?  
    Options: The child's eyes became able to catch fainter light / The glow stick got much brighter / The sheets got thinner  
    **Answer:** The child's eyes became able to catch fainter light. *Why:* If the stick and the sheets stayed the same, the part that changed must be the eye. The rod cells rebuilt their rhodopsin in the dark. Picking 'the stick got brighter' goes against what we know, because a glow stick slowly fades.
 10. (write) A cold raw potato cube still fizzed in peroxide, though more slowly, but a boiled cube did not fizz at all. Explain the difference between what cold does and what boiling does to an enzyme.  
@@ -743,12 +743,12 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
    Options: Fluorescence / Phosphorescence / Bioluminescence  
    **Answer:** Fluorescence. *Why:* A glow that stops at once when the light goes off is fluorescence. A stored glow would fade slowly. Bioluminescence is made by living beings, and a banknote is not alive.
 ### Numbers and Nature (challenge) (challenge, 16 questions)
-1. (write) Two children do the sheets test. Child A saw the glow through 4 sheets at 1 minute, 6 at 5 minutes, 8 at 10 minutes and 9 at 20 minutes. Child B saw it through 4, 4, 5 and 5. Give two reasons why B's numbers may have risen less.  
+1. (write) Two children do the Eyes in the Dark test. Child A saw the glow through 4 sheets at 1 minute, 6 at 5 minutes, 8 at 10 minutes and 9 at 20 minutes. Child B saw it through 4, 4, 5 and 5. Give two reasons why B's numbers may have risen less.  
    **Answer:** B's room may not have been fully dark, so some light kept B's eyes from becoming ready. B may have looked at a phone or a bright light during the wait. B may also have been looking at the stack the whole time instead of waiting calmly.. *Why:* A strong answer gives two different reasons, such as stray light in the room or a peek at a screen, and says how to check, for example by repeating the test in a darker room.
 2. (mcq) A glow stick behind 10 sheets of paper cannot be seen at first. A friend says there is no light there. What is the best reply?  
    Options: There is light, but your eyes are not ready yet to see something so faint / You are right, because you cannot see it / The light only starts after 20 minutes  
    **Answer:** There is light, but your eyes are not ready yet to see something so faint. *Why:* The glow stick gives out light all the time. After about twenty minutes in the dark, the eyes can catch it. 'You cannot see it' is different from 'it is not there'.
-3. (mcq) In an enzyme test, a boiled potato cube still fizzed a little. What is the most likely reason?  
+3. (mcq) In the Helper That Heat Stops test, a boiled potato cube still fizzed a little in the hydrogen peroxide. What is the most likely reason?  
    Options: The middle of the cube did not get hot enough to bend all the enzyme / Boiling makes more enzyme / The peroxide was too strong  
    **Answer:** The middle of the cube did not get hot enough to bend all the enzyme. *Why:* Heat reaches the middle of a cube slowly. If it was not boiled long enough, some enzyme in the middle still works. Boiling longer or cutting smaller cubes would fix it.
 4. (truefalse) If an enzyme is cooled in ice water, it is destroyed.  
@@ -756,18 +756,18 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 5. (write) Suppose a firefly flashed all night and all day. Why would that waste energy, and how could an inner clock help?  
    **Answer:** Each flash costs ATP, which comes from food. A flash in the daytime would not be seen, so the energy would be wasted. An inner clock lets the firefly get ready before dark and flash only when flashes can be seen.. *Why:* A strong answer connects the cost of a flash to the benefit of timing it for the night.
 6. (match) Match each observation to what it shows about the eye.  
-   **Answer:** A red torch hardly spoils your night eyes → rod cells are not very sensitive to red; A faint star vanishes when you stare straight at it → the very centre of the retina has few rod cells; It takes twenty minutes to see well in the dark → rhodopsin has to be built back; Pupils grow in the dark → more light can enter the eye. *Why:* Each observation links to a part of the eye. Rods, cones, rhodopsin and the pupil each play their own role in seeing in dim light.
-7. (mcq) Look at the chart of foam heights. Which two glasses together show that heat stops the enzyme, and not just the potato being a potato?  
+   **Answer:** A red torch hardly spoils eyes that are used to the dark → rod cells are not very sensitive to red; A faint star vanishes when you stare straight at it → the very centre of the retina has few rod cells; It takes twenty minutes to see well in the dark → rhodopsin has to be built back; Pupils get wider in the dark → more light can enter the eye. *Why:* Each observation links to a part of the eye. Rods, cones, rhodopsin and the pupil each play their own role in seeing in dim light.
+7. (mcq) Look at the chart of foam heights. Which two glasses, compared with each other, show that heat stops the enzyme?  
    Options: A, with raw potato, and B, with boiled potato / B, with boiled potato, and D, with no potato / C, with cold potato, and D, with no potato  
    **Answer:** A, with raw potato, and B, with boiled potato. *Why:* A and B hold the same potato, one raw and one heated. They differ in only one way, the heat, and the foam is very different. Glass D shows what the peroxide does with no potato at all.
 8. (mcq) A group of 100 glowing bacteria doubles in number every hour. How many are there after 3 hours?  
    Options: 800 / 300 / 600  
    **Answer:** 800. *Why:* After 1 hour there are 200, after 2 hours 400, and after 3 hours 800. Doubling three times is 100 times 2 times 2 times 2, which is 800. Picking 300 adds 100 each hour instead of doubling.
 9. (fill) A glass holds 200 millilitres of water and a jug holds 2 litres. The jug holds ____ times as much water as the glass.  
-   **Answer:** ['10', 'ten']. *Why:* 2 litres is 2,000 millilitres. 2,000 divided by 200 is 10. So the jug holds 10 times as much, and a signal chemical spreads out about 10 times more in the jug.
+   **Answer:** ['10', 'ten']. *Why:* 2 litres is 2,000 millilitres. 2,000 divided by 200 is 10. So the jug holds 10 times as much water as the glass. The same amount of signal chemical would spread out through 10 times more water in the jug, so it would be much weaker.
 10. (perspective) A tree is covered in thousands of fireflies that flash together. A student asks, 'Is the tree of fireflies one thing, or many things?'  
    **Answer:** A strong answer picks a view and uses the game, for example that the group lined up without a leader, so the way the fireflies answer each other makes the crowd act as one. It then gives another view a fair point, such as that each firefly still has their own timer.. *Why:* This is an open question about what counts as one thing. Good answers use the game as evidence and treat other views fairly.
-11. (write) In the Flash Together game, a player says, 'We lined up because the metronome told us when to flash.' Use the round where nobody joined to show why this is wrong.  
+11. (write) In the Flash Together game, a player says, 'We lined up because the metronome told us when to flash.' Use round 2, played with the ignore rule, to show why this is wrong.  
    **Answer:** The metronome was on in both rounds. In the round where nobody joined, the group never lined up in 40 ticks. So the metronome alone did not do it. The rule about joining flashes you see made the difference.. *Why:* A strong answer uses the control round as evidence. The metronome was the same, only the joining rule changed.
 12. (order) Put these colours in order by how deep into the sea their light goes, from the shallowest to the deepest.  
    **Answer:** [0, 1, 2, 3]. *Why:* Sea water takes in red first, then yellow, then green. Blue goes the deepest, which is why the deep sea is lit only by a faint blue.
@@ -790,9 +790,9 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 1. (mcq) A test tube holding firefly luciferin, luciferase and oxygen glows for a short while and then fades. What brings the glow back?  
    Options: ATP / Switching on a torch / Cooling the tube  
    **Answer:** ATP. *Why:* A flash needs a payment of cell energy. ATP is the energy carrier, and adding it brings the glow back. A torch would not help, because a firefly makes new light and does not store old light. Cooling would only slow the reaction.
-2. (mcq) A cook boils milk, and many of the enzymes in the milk stop working. Why?  
+2. (mcq) When milk is boiled, many of the enzymes in the milk stop working. Why?  
    Options: Heat bends the enzymes out of shape, so they cannot grip anything / Heat uses the enzymes up / Heat adds water to the enzymes  
-   **Answer:** Heat bends the enzymes out of shape, so they cannot grip anything. *Why:* An enzyme works by its shape. Strong heat bends the shape and the enzyme stops working. It is not used up. Even before boiling, an enzyme is never used up when it does its job.
+   **Answer:** Heat bends the enzymes out of shape, so they cannot grip anything. *Why:* An enzyme works by its shape. Strong heat bends the shape, and the enzyme stops working. The enzyme is not used up when it does its job, so using up is not the reason.
 3. (mcq) What happens to an enzyme after it has helped with one reaction?  
    Options: It is free to help with the same reaction again / It is used up / It turns into light  
    **Answer:** It is free to help with the same reaction again. *Why:* Enzymes are not used up. A single enzyme can do the same job thousands of times in a second. Picking 'turns into light' mixes up the enzyme luciferase with luciferin, which is the chemical that gives out the light.
@@ -817,12 +817,12 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 10. (mcq) A newborn bobtail squid has no glowing bacteria. How do they get them?  
    Options: They pick them up from the sea water / They are born with them / They get them from their mother's food  
    **Answer:** They pick them up from the sea water. *Why:* A baby squid has no bacteria at first. They pick up the right kind from the sea water, and only one kind is allowed to stay. Picking 'born with them' misses that this partnership has to be set up again by each new squid.
-11. (mcq) Imagine two groups of fireflies with different beats. Group one joins any flash they see once they are past halfway to their own flash. Group two ignores every flash but their own. Which group will line up, and why?  
+11. (mcq) There are two groups of fireflies with different beats. In group one, each firefly joins any flash they see once they are past halfway to their own flash. In group two, each firefly ignores every flash but their own. Which group will line up, and why?  
    Options: Group one, because answering each other's flashes pulls them into step / Group two, because each keeps their own steady beat / Neither, because only a leader can line them up  
-   **Answer:** Group one, because answering each other's flashes pulls them into step. *Why:* A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' is the idea that this unit shows is not needed.
+   **Answer:** Group one, because answering each other's flashes pulls them into step. *Why:* A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this unit shows: no leader is needed.
 12. (mcq) The pacemaker cells of your heart keep time together with no boss cell. How is this like fireflies flashing together?  
    Options: Each cell answers its neighbours, and the whole group keeps one beat / Both are led by one main cell / Both make light  
-   **Answer:** Each cell answers its neighbours, and the whole group keeps one beat. *Why:* In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' is the idea that this lesson shows is not needed.
+   **Answer:** Each cell answers its neighbours, and the whole group keeps one beat. *Why:* In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' misses what this unit shows: no leader is needed.
 13. (mcq) A scientist adds the gene for a green glowing protein next to the gene for a nerve cell's protein. What does the green glow tell her?  
    Options: That the nerve cell's gene is working in that cell / That the cell is hot / That the cell is dead  
    **Answer:** That the nerve cell's gene is working in that cell. *Why:* The glowing gene is switched on wherever the gene beside it is switched on. So the green light marks where the gene is working. Picking 'hot' misses that this glow is cold.
@@ -835,7 +835,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - Scientists attach green fluorescent protein to other proteins to watch nerve cells grow and cancer cells spread.
 - Glowing bacteria are used to test water, because a poison in the water makes them dim.
 - Doctors use enzymes in medicine and in blood tests, and keep them cool because heat would bend them out of shape.
-- Astronomers and sailors use a dim red lamp at night so that their night eyes are not spoiled.
+- Astronomers and sailors use a dim red lamp at night so that their eyes stay used to the dark.
 - Shopkeepers and banks use UV torches to check notes and documents for parts that glow under UV.
 - Washing powder makers add chemicals that send out blue-white light under UV, so clothes look whiter.
 - Engineers study how a firefly's lantern lets out so much light, to make better LED lamps.
@@ -868,7 +868,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - When you are in a very dark room, which do you think sees better, the middle of your eye or the side?
 - If you could invent a code of flashes with a friend, what would it say?
 - Where in our house is a light that nobody needs at night?
-- Who in your family decides when to stop and listen to others, and when to lead?
+- In your family, when do you stop and listen to others, and when do you lead?
 - Why do you think a firefly's light is yellow-green and a deep-sea animal's is blue?
 - What do you think a baby turtle sees when she hatches on a beach at night?
 - Which things in our kitchen change when they are heated, and which change back when they are cooled?
@@ -887,14 +887,14 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - Why did the eyes take twenty minutes to get ready for the dark? *They were rod-ing up.*
 
 ## Connected maths
-- In a made-up Eyes in the Dark test, a child saw the glow through 3 sheets at 1 minute, 5 at 5 minutes, 7 at 10 minutes and 9 at 20 minutes. How many more sheets was it at 20 minutes than at 1 minute? How many times as many? **6 more sheets, and 3 times as many.**. 9 sheets at 20 minutes take away 3 sheets at 1 minute is 6. The child saw through 9 sheets after 20 minutes and 3 sheets after 1 minute. 9 divided by 3 is 3. So the child saw through 3 times as many sheets. (queues `math.data.bar-charts.L4`)
+- In a made-up Eyes in the Dark test, a child saw the glow through 3 sheets at 1 minute, 5 at 5 minutes, 7 at 10 minutes and 9 at 20 minutes. How many more sheets could the child see through at 20 minutes than at 1 minute? How many times as many is that? **6 more sheets, and 3 times as many.**. At 20 minutes the child saw through 9 sheets, and at 1 minute through 3 sheets. 9 take away 3 is 6, so that is 6 more sheets. 9 divided by 3 is 3, so the child saw through 3 times as many sheets. (queues `math.data.bar-charts.L4`)
 - An old bulb turns about 5 of every 100 parts of its energy into light. In a lab test, about 40 of every 100 firefly luciferin molecules that reacted gave out a flash. About how many times better is the firefly at that one step? **About 8 times better.**. The bulb gives 5 parts in 100. The reaction gives 40 parts in 100. 40 divided by 5 is 8. So at that step, the firefly's reaction is about 8 times as good at making light as the old bulb. But the firefly still spends food energy, so the whole animal is not 8 times as efficient. (queues `math.fractions.ratio-and-proportion.L4`)
 - In a made-up potato test, the raw cubes made a foam 4 centimetres high, and the cold raw cubes made a foam 2 centimetres high. What fraction of the raw foam was the cold foam? What does it show about cold? **One half. Cold slowed the enzyme but did not stop it.**. The cold foam was 2 centimetres and the raw foam was 4 centimetres. 2 out of 4 is the same as 1 out of 2, which is one half. The cold potato still made foam, so cold only slowed the enzyme down. Boiling made no foam at all, because boiling bends the enzyme. (queues `math.fractions.fractions-of-a-whole.L4`)
 - In the Crowd and the Signal activity, a glass of 200 millilitres needed 2 spoonfuls of signal water to look coloured. A jug holds 2 litres, which is 10 times as much water. About how many spoonfuls would the jug need? **About 20 spoonfuls.**. 2 litres is 2,000 millilitres, and 2,000 divided by 200 is 10. The jug holds 10 times as much water. So it needs about 10 times as much signal. 2 spoonfuls times 10 is 20 spoonfuls. (queues `math.multiplication.multi-digit.L4`)
-- One firefly flashes every 6 ticks and another every 8 ticks, and both start at tick 0 in the Flash Together game with the ignore rule. When is the next tick when they flash at the same time? **At tick 24.**. The first firefly flashes at 6, 12, 18, 24 and so on. The second flashes at 8, 16, 24 and so on. The first number in both lists is 24. So they flash together next at tick 24, and then not again until tick 48. (queues `math.factors-multiples.factors-and-multiples.L4`)
+- One firefly flashes every 6 ticks and another every 8 ticks, and both start at tick 0 in the Flash Together game with the ignore rule. At which tick do they next flash at the same time? **At tick 24.**. The first firefly flashes at 6, 12, 18, 24 and so on. The second flashes at 8, 16, 24 and so on. The first number that is in both lists is 24. So they flash together next at tick 24, and then not again until tick 48. (queues `math.factors-multiples.factors-and-multiples.L4`)
 - Each of your eyes has about 100 million rod cells and about 5 million cone cells. About how many times as many rod cells as cone cells is that? **About 20 times as many.**. 100 million divided by 5 million is 20. You can check it. 5 million times 20 is 100 million. So there are about 20 rod cells for every cone cell, which is why you can see in dim light better than you can see colours. (queues `math.number-sense.estimation.L4`)
 - In a made-up star count, a family counted 2 stars with the lights on, 6 stars after switching off the lights and waiting 20 minutes, and 24 stars from a dark village. How many times as many stars did they see in the village as after waiting at home? **4 times as many.**. 24 divided by 6 is 4. You can check it by counting in sixes: 6, 12, 18, 24. That is four sixes. So the dark village showed 4 times as many stars as the home after waiting, and 12 times as many as with the lights on. (queues `math.division.division-facts.L4`)
-- A bobtail squid pushes out 9 tenths of her 1,000 glowing bacteria at dawn. The bacteria that are left double every hour. After 3 hours, how many bacteria are there? **800 bacteria.**. 9 tenths of 1,000 is 900, so 1,000 take away 900 leaves 100. After 1 hour there are 200, after 2 hours 400, and after 3 hours 800. This is made-up numbers, but real squid also refill their light organ each day. (queues `math.fractions.fractions-of-a-whole.L4`)
+- A bobtail squid pushes out 9 tenths of her 1,000 glowing bacteria at dawn. The bacteria that are left double every hour. After 3 hours, how many bacteria are there? **800 bacteria.**. 9 tenths of 1,000 is 900, so 1,000 take away 900 leaves 100. After 1 hour there are 200, after 2 hours 400, and after 3 hours 800. These are made-up numbers, but real squid also refill their light organ each day. (queues `math.fractions.fractions-of-a-whole.L4`)
 - Red light is nearly gone within about 10 metres of sea water. A diver goes down to 35 metres. How many metres below the depth where red is gone is the diver? What colour of light is left? **25 metres below. Mostly blue and some green are left.**. 35 take away 10 is 25. So the diver is 25 metres below the place where red light has gone. Green and blue travel further than red, and so at that depth mostly blue and a little green are left. (queues `math.addition-subtraction.mental-strategies.L4`)
 
 ## Song

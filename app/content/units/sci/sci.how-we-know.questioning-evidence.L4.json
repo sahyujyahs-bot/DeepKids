@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "On a Kerala beach, a doctor counted the people who came to her tent with sunburn each day. A gola seller counted the golas he sold. On the days he sold more golas, she saw more sunburn. A man in the crowd said, \"Ban the golas!\" Was he right?",
-  "text": "The two counts really did rise and fall together. That was true. But the idea that golas burn skin may still be wrong. You may already know three questions to ask about any claim: says who, how do they know, who is missing. This time you ask a harder question. When two things go together, what is really going on? You will use a coin, okra pods and some sweet cups to find out.",
+  "text": "The two counts really did rise and fall together. That was true. But the idea that golas burn skin may still be wrong. You may already know three questions to ask about any claim. Who says so? How do they know? Who is missing? This time you ask a harder question. When two things go together, what is really going on? You will use a coin, okra pods and some cups of squash to find out.",
   "art": "A doctor's tent on a beach with two tally charts pinned up side by side, one headed Golas sold and the other Sunburn cases, and a gola cart in the background."
  },
  "outcomes": [
@@ -127,7 +127,7 @@
    "description": "On a beach in May, the more golas the cart sold, the more people got sunburnt. The numbers really did go together. That is called a correlation. A correlation is worth noticing, because it tells you where to look. But it does not tell you what is making what happen. To know that, you have to do more work. You can look for a third thing, check which came first, and compare with a situation where one of the two is missing.",
    "examples": [
     "More golas sold and more sunburn on the same days is a correlation.",
-    "Taller children read better books. Height does not help reading. Both come with being older.",
+    "Taller children read harder books. Being tall does not help anyone read. Both happen because the children are older.",
     "On the days more umbrellas are open in Chennai, the roads are wetter. Neither makes the other happen. Rain is behind both."
    ],
    "perspectives": [],
@@ -140,7 +140,7 @@
    "definition": "A hidden third thing is something outside your table that pushes two things in the table up and down together. Scientists call it a confounder.",
    "description": "Ask: what else is different on the days when both numbers are high? On the beach the answer is the hot sun. Sun makes people buy golas, and sun burns skin. The golas and the sunburn never touched each other. To check, compare like with like. Look only at sunny days, so the sun is the same in every row. If golas still go with sunburn when the sun is the same, golas might matter. If they do not, the sun was doing it all.",
    "examples": [
-    "Fire engines and damage: the bigger the fire, the more engines come and the more damage there is. The size of the fire is the hidden third thing.",
+    "The bigger a fire is, the more fire engines come, and the more damage there is. The engines do not cause the damage. The size of the fire is the hidden third thing.",
     "Children with big shoes spell better. Age is behind both.",
     "Towns with more tea stalls have more phone shops. The size of the town is behind both."
    ],
@@ -168,8 +168,8 @@
    "definition": "Chance means no cause is pushing the result. Even so, chance makes streaks and lumps that look like patterns, most often when you have only a few tries.",
    "description": "A fair coin lands heads about half the time. In ten flips, though, you will often see 7 heads, because ten flips is a small number. About one set in every six sets of ten flips shows 7 or more heads, by luck alone. In a long run of flips, a streak of four heads in a row turns up many times. People who see a streak often feel a reason must be behind it. Usually the reason is just luck. The way to tell is to ask how often chance alone would do that.",
    "examples": [
-    "Your cricket team wins three matches in a row when you wear a red shirt. Three is a small number.",
-    "Two buses to the same stop come together. Chance bunches things up.",
+    "Your cricket team wins three matches in a row when you wear a red shirt. Three matches is far too few to show that the shirt matters. Luck alone can do that.",
+    "Sometimes two buses for the same stop arrive together after a long wait. Nobody planned it. Chance bunches things up like this.",
     "A fair coin gives five heads in a row once in a while. It is not broken."
    ],
    "perspectives": [],
@@ -194,7 +194,7 @@
    "concept": "A fair comparison needs a control group",
    "status": "defined",
    "definition": "A control group is treated exactly like the test group, except for the one thing being tested. The only way to see what a thing does is to compare it with a case where it is missing.",
-   "description": "Suppose someone says wrapping the stalk of a banana slows its ripening. If you wrap one banana and watch it, you learn nothing, because bananas ripen anyway. You need a second banana, from the same bunch, kept in the same place, with no wrapping. That is the control. If the wrapped banana ripens slower, the wrapping might be the reason. Then you check by trying again. It is like checking the old saying that a crow's call means guests are coming: you also need to look at the days when no crow called. A control group is that idea, made on purpose.",
+   "description": "Suppose someone says wrapping the stalk of a banana slows its ripening. If you wrap one banana and watch it, you learn nothing, because bananas ripen anyway. You need a second banana, from the same bunch, kept in the same place, with no wrapping. That is the control. If the wrapped banana ripens slower, the wrapping might be the reason. Then you check by trying again. Think of the old saying that a crow's call means guests are coming. To check it, you also need to look at the days when no crow called. A control group does the same thing on purpose, by always including a case where the thing is missing.",
    "examples": [
     "A medicine test gives the medicine to one group and a dummy pill to another.",
     "A new fertiliser is tried on half the pots, while the other half get plain water.",
@@ -238,7 +238,7 @@
    "definition": "Evidence can mislead even when every number in it is true. Showing only the hits, too few tries, asking only fans, and tests run by sellers are the common tricks.",
    "description": "Here are five ways true numbers can mislead. One: only the hits are shown, like three happy customers out of three hundred. Two: too few tries, like a toothpaste tested on five people. Three: only the fans were asked, like a survey handed out at the biscuit stall. Four: the seller ran the test, so it might be tilted. Five: a chart that starts its bars at 90 instead of 0, so a tiny gap looks huge. None of these proves a claim is wrong. They tell you to ask for more before you believe it.",
    "examples": [
-    "\"Nine out of ten users agree!\" Nine out of ten of which ten people?",
+    "An advert says, \"Nine out of ten users agree!\" You should ask which ten people were asked, and who chose them.",
     "A bar chart where one bar looks twice as tall because the scale starts at 90.",
     "A cereal box says a study found children who eat the cereal do better. The cereal company paid for the study."
    ],
@@ -254,7 +254,7 @@
    "examples": [
     "Two villages get electricity in different years, and scientists compare their school results.",
     "A new road splits a town, and doctors compare the health of the two sides.",
-    "Twins who grow up in different cities can be compared on one thing at a time."
+    "Twins who grew up in different cities started out very alike. Scientists can compare them to see what the city changed."
    ],
    "perspectives": [],
    "art": "A street of terrace houses with a blue pipe going to the left side and a green pipe going to the right side, and red crosses on mostly the blue houses.",
@@ -396,7 +396,7 @@
   {
    "q": "The philosopher David Hume said we never see a cause, only one thing following another many times. Do you agree?",
    "kind": "deep",
-   "hint": "Think about pushing a door. Do you see the push make it open, or do you just see push then open?"
+   "hint": "Think about pushing a door. Do you see the push making the door open? Or do you only see a push, and then a door that opens?"
   },
   {
    "q": "A village farmer says her rain dance works because rain came the next day. Who should test it, and how would you do it kindly?",
@@ -628,7 +628,7 @@
      "mins": 4,
      "do": "Read the gola card first, as a practice. Let your child pick a token and give a reason before you turn the card.",
      "say": "On days when more golas are sold, more people get sunburnt. What is really going on? Why do you think so?",
-     "kid": "More golas sold, more sunburn. What is really going on?",
+     "kid": "On days when more golas are sold, more people get sunburnt. What is really going on?",
      "check": {
       "t": "mcq",
       "q": "On days when more golas are sold on a beach, more people get sunburnt. What is the best explanation?",
@@ -710,7 +710,7 @@
       },
       {
        "f": "A fortune teller says: I told 3 people they would get good news, and all 3 did.",
-       "b": "ONLY THE HITS. She does not say how many people she told. If she told a hundred, the three are the ones who remember her. Ask: how many did she tell in all?"
+       "b": "ONLY THE HITS. She does not say how many people she told. If she told a hundred people, we only hear about the three who got good news. Ask: how many did she tell in all?"
       },
       {
        "f": "A school website shows the five children who won prizes this year and says: Our children always win.",
@@ -812,7 +812,7 @@
      "mins": 3,
      "do": "Read the toothpaste card as a practice. Ask your child which trick it is and why before you turn the card.",
      "say": "Four people were tested and all four said their teeth felt cleaner. Which trick is it? Why?",
-     "kid": "Four people tested a toothpaste. Which trick is it?",
+     "kid": "Four people tried a toothpaste, and all four liked it. Which trick is this?",
      "check": {
       "t": "mcq",
       "q": "An advert says: We tested our paste on 4 people, and all 4 said their teeth felt cleaner. What is the main problem?",
@@ -1005,7 +1005,7 @@
      "mins": 6,
      "do": "Ask your child to say what the friend's 7 heads in 10 does and does not show. Ask for a claim, the evidence from the table, and the reasoning.",
      "say": "Now think about your friend. What is your claim about her seven heads? What in your table is the evidence? What is your reason?",
-     "kid": "Does 7 heads in 10 show your friend can make heads come up by wishing? What is your evidence?",
+     "kid": "Does 7 heads in 10 show that wishing works? What is your evidence?",
      "ask": [
       {
        "q": "What would the friend have to do to show she can really make heads come up by wishing?",
@@ -1134,7 +1134,7 @@
      "mins": 4,
      "do": "Show your child the ten pods. Ask for a guess about the pattern and a reason. Write the guess at the top of the page.",
      "say": "Here are ten okra pods of different lengths. Do you think longer pods will have more seeds? Why do you think so?",
-     "kid": "Ten okra pods. Will longer pods have more seeds? Why?",
+     "kid": "Here are ten okra pods. Will longer pods have more seeds? Why?",
      "ask": [
       {
        "q": "Why might a longer pod have more seeds?",
@@ -1344,7 +1344,7 @@
      "mins": 5,
      "do": "Copy the second table. A school, by class. Class 1: foot length 17 centimetres, spelling mark 4 out of 10. Class 2: 18.5 and 5. Class 3: 20 and 6. Class 4: 21.5 and 7. Class 5: 23 and 8. Ask for the hidden third thing.",
      "say": "Children with longer feet get better spelling marks. Does a bigger foot help spelling? What is behind both? How could we check?",
-     "kid": "Longer feet, better spelling marks. What is behind both? How could you check?",
+     "kid": "Children with longer feet get better spelling marks. What is behind both? How could you check?",
      "ask": [
       {
        "q": "What is the hidden third thing here, and how could you check it?",
@@ -1362,7 +1362,7 @@
      "mins": 4,
      "do": "Read the third example. A boy carried an umbrella on 4 of 6 days, and his school shoes were muddy on the same 4 days. Ask if the umbrella makes the shoes muddy, and which came first.",
      "say": "A boy's umbrella days were also his muddy shoe days. Does the umbrella make shoes muddy? What came first? Now make up your own pair of things that go together, and say what is behind them.",
-     "kid": "Umbrella days were muddy shoe days. What is behind both? Make up your own pair.",
+     "kid": "A boy's shoes were muddy on the days he carried an umbrella. What is behind both? Make up your own pair.",
      "check": {
       "t": "mcq",
       "q": "A boy carried an umbrella on 4 of 6 days. His shoes were muddy on the same 4 days. What is the best explanation?",
@@ -1435,7 +1435,7 @@
      "mins": 5,
      "do": "A grown-up makes the squash in one jug. Your child writes four labels on slips of paper: POSH SHOP, HOME-MADE, 1 and 2. Ask for a guess and a reason before anyone tastes.",
      "say": "We will taste two cups. One will be labelled posh shop, and one home-made. Do you think people will like the posh shop one more? Why do you think so?",
-     "kid": "Two cups, one labelled posh shop. Will people like it more? Why?",
+     "kid": "There are two cups. One is labelled posh shop. Will people like it more? Why?",
      "ask": [
       {
        "q": "Why might a label change what someone says they taste?",
@@ -1585,7 +1585,7 @@
      "mins": 4,
      "do": "Uncover the numbers. Talk about which chart is honest. Ask when it is fine to start a scale above zero.",
      "say": "Both charts show the same numbers. Which one tells the truth about the difference? Is it ever fine to start the scale above zero?",
-     "kid": "Same numbers, different bars. Which chart is honest? Why?",
+     "kid": "The two charts show the same numbers but look different. Which one is honest? Why?",
      "check": {
       "t": "mcq",
       "q": "Two bars show scores of 92 and 95. On chart B the scale starts at 90, and one bar looks about 2.5 times as tall as the other. What is the problem?",
@@ -1929,7 +1929,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Sicker people stay longer, hot rooms get coolers, and falls lead to sticks. Rivers, town size and the start of the school year are the hidden third things."
+     "why": "Sicker people stay longer in hospital. Hot rooms are the ones that get air coolers. People who fall more often are the ones who start using sticks. For the other three, a river is behind bridges and boats. The size of a town is behind schools and stationery shops. The start of the school year is behind school bags and uniforms."
     },
     {
      "t": "mcq",
@@ -2678,7 +2678,7 @@
  ],
  "spotted": [
   {
-   "text": "A forwarded message that says: 9 out of 10 people agree. Which ten?",
+   "text": "A forwarded message that says, 9 out of 10 people agree. You can ask which ten people were asked.",
    "art": "A phone screen with a message headed 9 out of 10 agree, and a question mark over the 10."
   },
   {
@@ -2739,7 +2739,7 @@
  "ask_kids": [
   "What goes together in our home, and what could be behind both?",
   "Which came first, and could the arrow point the other way?",
-  "How many times did it happen, and how many times could it have?",
+  "How many times did it happen? And how many times could it have happened but did not?",
   "Who or what is the group to compare it with?",
   "Would a coin flip have given the same result? How many flips would it take to be sure?",
   "Who ran this test, and what would they gain?",
@@ -3055,7 +3055,7 @@
    "what_is_life": "Many flowers open when the sun is high, and bees come to them at that hour. Both the flowers and the bees are responding to the same sun.",
    "what_is_this_world": "Rain clouds, wet roads, open umbrellas and calling frogs all arrive together in the monsoon. They look like separate events, but many of them share one source."
   },
-  "thread": "When two things go together, there is always a reason. Sometimes one makes the other. Sometimes the second makes the first. Sometimes luck brings them together. And sometimes a third thing, like the sun, is behind both. Telling these apart takes patience, a fair comparison, and a willingness to look past what everyone has already noticed.",
+  "thread": "When two things go together, there are a few different things that could be going on. Sometimes one makes the other. Sometimes the second makes the first. Sometimes luck brings them together. And sometimes a third thing, like the sun, is behind both. Telling these apart takes patience, a fair comparison, and a willingness to look past what everyone has already noticed.",
   "teachings": [
    {
     "source": "Samyutta Nikaya 12 (dependent origination), a collection of the Buddha's teachings",
@@ -3089,7 +3089,7 @@
   "practice": {
    "title": "Look behind the two",
    "mins": 3,
-   "say": "Sit by a window. Feel the warmth on your arm. Look at the bright patch of light on the floor. Breathe in slowly three times. Now ask what is behind both the warmth and the light. Notice that it is one thing, far away, reaching both places at once.",
+   "say": "Sit by a window. Feel the warmth on your arm. Look at the bright patch of light on the floor. Breathe in slowly three times. Now ask what is behind both the warmth and the light. It is the same Sun, far away, warming your arm and lighting the floor at the same moment.",
    "kid": "Feel the warm patch on your arm. Look at the bright patch on the floor. Breathe in slowly three times. What is behind both?"
   },
   "ask": [

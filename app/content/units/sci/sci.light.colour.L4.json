@@ -346,7 +346,7 @@
       "claim": "Brown is a colour of its own, like red or blue.",
       "who": "Many young children.",
       "for": "Brown looks as different from orange as green looks from blue, and we have a separate word for it.",
-      "against": "Vision scientists find that brown is dim orange or yellow seen next to brighter things. A patch of orange light on a dark wall looks orange, and the same colour in a bright room looks brown.",
+      "against": "Vision scientists find that brown is orange or yellow light that is dim compared with the things around it. A patch of orange light on a dark wall looks orange. The same orange light, seen next to much brighter things, looks brown.",
       "status": "accepted"
     },
     {
@@ -1302,7 +1302,7 @@
       "days": 1,
       "question": "When a red torch and a green torch shine on one white wall, what colour is the wall where they overlap? And what colour is each shadow of a pencil in front of the wall?",
       "predict": "Before you start, guess. What colour will the wall be where the red and green lights overlap? What colour will the pencil's shadows be? Why do you think so?",
-      "fair_test": "Use the same two torches, the same wall, the same pencil and the same dim room each time. Keep both torches between half a metre and one metre from the wall, and move them closer if the patches look faint. Change one thing at a time: first only red, then only green, then both. Look at each set-up for a full ten seconds, because your eyes need time to settle in a dim room. Safety: use LED or phone torches, because cellophane can melt on a hot bulb, and never shine a torch into anyone's eyes. Who does what: with one child, the child holds the red torch and the parent holds the green. With 2 to 4 children, one holds each torch, one holds the pencil and one is the recorder with the table. Swap jobs for each set-up. If you have only one phone, use a small LED torch for the second light.",
+      "fair_test": "Use the same two torches, the same wall, the same pencil and the same dim room each time. Keep both torches between half a metre and one metre from the wall, and move them closer if the patches look faint. Change one thing at a time: first only red, then only green, then both. Look at each set-up for a full ten seconds, because your eyes need time to settle in a dim room. Safety: use LED or phone torches, because cellophane can melt on a hot bulb, and never shine a torch into anyone's eyes. Who does what: with one child, the child holds the red torch and the parent holds the green. With two to four children, one child holds each torch, one holds the pencil and one is the recorder with the table. Swap jobs for each set-up. If you have only one phone, use a small LED torch for the second light.",
       "results_table": [
         "Lights on",
         "Colour of the wall where the light lands",
@@ -1374,7 +1374,7 @@
           "mins": 5,
           "do": "Show your child the two torches, the cellophane and the white wall. Ask what colour the wall will be where the two lights overlap, and what colour the pencil's shadows will be. Ask for a reason each time. Write the guesses at the top of the table.",
           "say": "We will cover one torch with red cellophane and one with green cellophane. Then we shine both on the wall. What colour will the wall be where the two lights meet? Why do you think so?",
-          "kid": "A red torch and a green torch. Both shine on one wall. What colour will it be? Why do you think so?",
+          "kid": "A red torch and a green torch will both shine on one wall. What colour will the wall be? Why do you think so?",
           "ask": [
             {
               "q": "Why do you think the wall will be that colour?",
@@ -1495,7 +1495,7 @@
           "mins": 3,
           "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
           "say": "Now tell me three things. What do you think now about mixing lights? What did you see that shows it? And why do you think it happened?",
-          "kid": "Say three things. What I think. What I saw. Why it happened.",
+          "kid": "Tell me three things. What do you think? What did you see? Why did it happen?",
           "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: red light and green light together look yellow. What I saw: the wall was yellow where the two patches overlapped, and the pencil had one red shadow and one green shadow. Why: each torch adds its light to the spot, and the eye gives the same answer to red plus green as it does to yellow.",
           "context": "In this step, you say what you think, what you saw and why it happened. Scientists call this claim, evidence and reasoning."
         }
@@ -1567,9 +1567,9 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Show your child the three highlighters and the paper. Ask what colour yellow over blue will be, what colour pink over yellow will be, and whether the crossings will look brighter or darker than the single stripes. Ask for a reason each time. Write the guesses at the top of the table.",
+          "do": "Show your child the three highlighters and the paper. Ask what colour yellow over blue will be. Ask what colour pink over yellow will be. Ask whether the crossings will look brighter or darker than the single stripes. Ask for a reason each time. Write the guesses at the top of the table.",
           "say": "We will colour stripes across each other. What colour will yellow over blue be? What about pink over yellow? Will the crossings be brighter or darker? Why do you think so?",
-          "kid": "Three highlighters. We will draw stripes across each other. What colours will the crossings be? Why?",
+          "kid": "You will draw highlighter stripes across each other. What colours will the crossings be? Why?",
           "ask": [
             {
               "q": "Will the crossings look brighter or darker than the single stripes?",
@@ -1588,16 +1588,16 @@
           "mins": 5,
           "do": "Use the ruler to draw three wide horizontal stripes across the first page: yellow, pink and blue. Leave a gap of one finger-width between them. Colour each with one slow stroke. Close each cap after use. Keep the pens away from your mouth and eyes.",
           "say": "Draw three stripes across the page. Yellow, then pink, then blue. One slow stroke each. Leave a gap between them.",
-          "kid": "Draw three stripes across. Yellow, pink, blue. Leave gaps.",
+          "kid": "Draw three stripes across the page. Make them yellow, pink and blue. Leave a gap between them.",
           "context": "In this step, you draw the first three stripes of the grid.",
-          "parent": "Use plain printer or copy paper, because highlighter ink bleeds through thin paper. Try each pen on a scrap first. One child: the parent can draw a second grid with the same pens, to compare. 2 to 4 children: share the three pens and pass them round, so each child draws a grid on their own page. Then compare grids. Do different hands give different colours?"
+          "parent": "Use plain printer or copy paper, because highlighter ink bleeds through thin paper. Try each pen on a scrap first. If you have one child, the parent can draw a second grid with the same pens, to compare. If you have two to four children, share the three pens and pass them round, so each child draws a grid on their own page. Then compare grids. Do different hands give different colours?"
         },
         {
           "id": "s3",
           "mins": 5,
           "do": "Now draw three tall stripes down the page, from top to bottom, crossing the first ones. Use blue first, then yellow, then pink. Leave gaps between them. Use the same pressure each time.",
           "say": "Now draw three tall stripes down the page, crossing the first ones. Blue, then yellow, then pink. Use the same slow stroke as before.",
-          "kid": "Draw three tall stripes down the page. Blue, yellow, pink. Cross the first ones.",
+          "kid": "Draw three tall stripes down the page. Make them blue, yellow and pink. Cross the first stripes.",
           "parent": "Wait a few seconds for the ink to dry before you look closely. Where a stripe crosses a stripe of the same colour, the square should look deeper than the single stripe. Where two different colours cross, you get a new colour.",
           "context": "In this step, you draw the second set of stripes, which cross the first set and make nine crossing squares."
         },
@@ -1665,7 +1665,7 @@
           "mins": 2,
           "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
           "say": "Now tell me three things. What do you think now about mixing inks? What did you see that shows it? And why do you think it happened?",
-          "kid": "Say three things. What I think. What I saw. Why it happened.",
+          "kid": "Tell me three things. What do you think? What did you see? Why did it happen?",
           "parent": "A good answer sounds like this. What I think: inks take colours away, so mixing them makes the colour darker. What I saw: yellow over blue made a darker green, and all three layers made a dark colour. Why: each ink takes some colours out of the light, so less light comes back to my eye.",
           "context": "In this step, you say what you think, what you saw and why it happened. Scientists call this claim, evidence and reasoning."
         }
@@ -1733,7 +1733,7 @@
           "mins": 5,
           "do": "Draw a rectangle 12 centimetres wide and 9 centimetres tall. Divide it into three stripes. Colour the top stripe blue-green, the middle stripe black and the bottom stripe pink. Leave a small round spot in the middle uncoloured.",
           "say": "We will draw India's flag in the wrong colours. Top is blue-green. Middle is black. Bottom is pink. In the middle, leave a little white dot to stare at. What colours do you think you will see on a white wall afterwards?",
-          "kid": "Draw three stripes. Top blue-green. Middle black. Bottom pink. Leave a white dot in the middle.",
+          "kid": "Draw three stripes. Colour the top blue-green. Colour the middle black and the bottom pink. Leave a white dot in the middle.",
           "ask": [
             {
               "q": "What colours do you think you will see on the white wall after staring?",
@@ -1781,7 +1781,7 @@
           "mins": 3,
           "do": "Now draw a large red square on a new page, with a white dot in the middle. Ask your child to guess the colour of the ghost square. Then stare at it for 30 seconds and look at the white wall.",
           "say": "Let's try one more. Guess first. If you stare at a red square, what colour will the ghost be on the white wall? Then try it.",
-          "kid": "Draw a red square. Guess the ghost colour. Stare. Look at the white wall.",
+          "kid": "Draw a red square. Guess what colour the ghost will be. Stare at it, then look at the white wall.",
           "parent": "Expect a pale blue-green ghost. The ghost of green is pink. The ghost of yellow is blue. These pairs are called complementary colours. The white wall has none of these colours. They are made in the eye.",
           "think": "The ghost of red was blue-green, and the ghost of blue-green was red. What do you notice about the pairs?",
           "context": "In this step, you predict and test the afterimage of a red square."
@@ -1849,7 +1849,7 @@
           "mins": 6,
           "do": "Draw two squares, each 3 centimetres wide and 3 centimetres tall. In the first, draw thin stripes side by side. Go red, green, red, green, with no gaps, until the square is full. In the second, do the same with blue and yellow.",
           "say": "Draw two small squares. Fill the first with thin stripes of red and green, side by side. Fill the second with blue and yellow. Use the thin tip of the pen and no gaps.",
-          "kid": "Draw two squares. Fill one with thin red and green stripes. Fill one with blue and yellow.",
+          "kid": "Draw two squares. Fill one with thin red and green stripes. Fill the other with thin blue and yellow stripes.",
           "ask": [
             {
               "q": "What colour do you think each square will look from far away?",
@@ -1869,7 +1869,7 @@
           "do": "Stick the paper on a wall at eye height. Stand close, at about 30 centimetres. Look at the stripes. Say what you see. Then take one big step back and look again. Keep stepping back one step at a time.",
           "say": "Stand close and look at the stripes. Now step back, one step at a time. Look after each step. When do the stripes stop being stripes?",
           "kid": "Look at the stripes up close. Step back one step at a time. When do they blend?",
-          "parent": "Fine pen stripes usually blend between 2 and 8 big steps away (thicker pens need more steps), depending on your eyes and the pens. If the room is short, use a corridor or a terrace, or squint, which blurs the stripes sooner. Eyes differ, so with 2 to 4 children each child stands where they think the stripes blend and the others mark the spot with a shoe. Compare. With one child, the parent does the same test. If the stripes never blend, they are too wide. Draw thinner ones.",
+          "parent": "Fine pen stripes usually blend between 2 and 8 big steps away (thicker pens need more steps), depending on your eyes and the pens. If the room is short, use a corridor or a terrace, or squint, which blurs the stripes sooner. Eyes differ. If you have two to four children, each child stands where they think the stripes blend, and the others mark the spot with a shoe. Then compare the spots. If you have one child, the parent does the same test too. If the stripes never blend, they are too wide. Draw thinner ones.",
           "context": "In this step, you start walking away from the stripes and look after every step."
         },
         {
@@ -1969,7 +1969,7 @@
           "mins": 4,
           "do": "Lay the dark things on a table. Point out the navy one and the black one. Ask your child to guess whether it will be easy or hard to tell them apart under each light.",
           "say": "Here are four dark things. Two look almost alike, the navy and the black. In which light will it be easiest to tell them apart? In which will it be hardest? Why do you think so?",
-          "kid": "Four dark things. Navy and black look alike. In which light is it hardest to tell them apart? Why?",
+          "kid": "Here are four dark things. Navy and black look alike. In which light is it hardest to tell them apart? Why?",
           "ask": [
             {
               "q": "Which light do you think will make navy and black easiest to tell apart?",
@@ -2124,7 +2124,7 @@
           "mins": 4,
           "do": "Write a secret message in red felt pen on white paper. Then scribble green felt-pen lines all over and around the words. Give it to a friend. Ask them to look through the green cellophane, and then through the red cellophane, and say what happens. Through the green, the green scribbles fade and the red message shows dark. Through the red, the message hides. With one child, the parent is the friend. With 2 to 4 children, swap messages in pairs.",
           "say": "Write a short secret message to a friend, in red. Give them the green cellophane to read it with. Then give them the red cellophane. What happens?",
-          "kid": "Write a secret in red. Read it through green. Then red. What happens?",
+          "kid": "Write a secret message in red. Read it through green cellophane. Then read it through red. What happens?",
           "think": "A message in red vanishes through red cellophane. What colour of pen would vanish through blue cellophane?",
           "context": "In this step, you use the trick to make a message that only shows through one sheet."
         }
@@ -2203,7 +2203,7 @@
           "mins": 5,
           "do": "Show your child the cardboard, cellophane and torches. Ask what the puppets will look like on the screen. Ask them to draw three puppet shapes on paper with windows marked in colour.",
           "say": "We will make shadow puppets with coloured windows. What colour will the puppet's body be on the screen? What will the windows look like? Why do you think so?",
-          "kid": "We make puppets with coloured windows. What will the body look like on the screen? The windows?",
+          "kid": "You will make puppets with coloured windows. What will the body look like on the screen? What will the windows look like?",
           "ask": [
             {
               "q": "What will the puppet's body look like on the screen?",
@@ -2251,7 +2251,7 @@
           "do": "Perform a short show with a white torch behind the screen. Make each puppet walk, fly or dance. Look at the screen from the front and see the dark body and the coloured windows.",
           "say": "Perform a small show with the white torch. What do you see on the screen? What colour is each window? What colour is the body?",
           "kid": "Put on a show with the white torch. What colours do the windows show?",
-          "parent": "With a white torch, the dark body of the puppet blocks the light, and each cellophane window lets through its own colour. This is the same as red cellophane on a torch, but smaller. One child: the child works the puppet and the parent holds the torch. With 2 to 4 children: one holds the torch, one or two work puppets, and one watches from the front and writes what each window looks like. Swap jobs for each show.",
+          "parent": "With a white torch, the dark body of the puppet blocks the light, and each cellophane window lets through its own colour. This is the same as red cellophane on a torch, but smaller. If you have one child, the child works the puppet and the parent holds the torch. If you have two to four children, one holds the torch, one or two work puppets, and one watches from the front and writes what each window looks like. Swap jobs for each show.",
           "context": "In this step, you perform a short show with a white torch and look at the colours."
         },
         {
@@ -2336,7 +2336,7 @@
           "mins": 5,
           "do": "Read the challenge together. Ask your child how many different looks there will be. Ask how they can be sure they found them all.",
           "say": "Here is your job. You have three torches: red, green and blue. Each one is on or off. How many different looks can you make on the wall? How can you be sure you found them all?",
-          "kid": "Three torches. Each one on or off. How many looks can you make?",
+          "kid": "You have three torches. Each one is either on or off. How many looks can you make?",
           "ask": [
             {
               "q": "How can you be sure you found every look?",
@@ -2356,7 +2356,7 @@
           "do": "Try every setting of the three torches and write the recipe and the colour for each. Include the setting with all three torches off. Check whether any recipes give the same look.",
           "say": "Try every setting. Write the recipe and the colour. Do not forget the setting with all three off. Tick each one off your list.",
           "kid": "Try every setting. Write the recipe and the colour. Tick each one off.",
-          "parent": "Expect eight looks: dark, red, green, blue, yellow (red and green), cyan (green and blue), magenta (red and blue) and white. Some may look slightly different from these because cheap cellophane is not pure. Write what you really see. Prop phones on a pile of books so your hands are free. With only two torches, swap the cellophane between them to try the pairs: red and green, green and blue, red and blue. You will miss white until you borrow a third light. One child: the parent holds one torch. 2 to 4 children: give each child a torch and one child writes the recipes, then swap.",
+          "parent": "Expect eight looks: dark, red, green, blue, yellow (red and green), cyan (green and blue), magenta (red and blue) and white. Some may look slightly different from these because cheap cellophane is not pure. Write what you really see. Prop phones on a pile of books so your hands are free. With only two torches, swap the cellophane between them to try the pairs: red and green, green and blue, red and blue. You will miss white until you borrow a third light. If you have one child, the parent holds one torch. If you have two to four children, give each child a torch and let one child write the recipes. Then swap jobs.",
           "check": {
             "t": "mcq",
             "q": "Three torches are each on or off. How many different settings are there, counting all off?",
@@ -2375,7 +2375,7 @@
           "mins": 10,
           "do": "Now change one thing at a time. Move a torch further away, or add another layer of cellophane to it. Look at the new colours. Try to make orange and pink. Write down what you did each time.",
           "say": "Now invent new colours. Move a torch back, or add another layer of cellophane. Can you make orange? Can you make pink? Write what you did.",
-          "kid": "Move a torch back or add a layer. Can you make orange? Pink?",
+          "kid": "Move a torch back or add a layer. Can you make orange? Can you make pink?",
           "parent": "Orange comes from a strong red and a weak green. Pink comes from a strong red with weaker green and blue. Changing the distance of a torch changes how much light it adds. Change only one thing at a time, so you know what made the difference.",
           "context": "In this step, you invent new colours by changing how strong each torch is."
         },
@@ -2384,7 +2384,7 @@
           "mins": 5,
           "do": "Show your family a short light show of your best looks. Name each look and say its recipe. Ask them to guess the recipe before you tell them.",
           "say": "Put on a light show. Name each look. Can your family guess the recipe before you tell them?",
-          "kid": "Show your family a light show. Say each recipe.",
+          "kid": "Put on a light show for your family. Say the recipe for each look.",
           "think": "Three torches made eight looks. How many looks would four torches make, with each one on or off?",
           "context": "In this step, you show your family your looks and explain the recipes."
         }

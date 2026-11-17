@@ -3,7 +3,7 @@
  "title": "From 'I saw it' to 'we know it': how a discovery wins belief",
  "level": 4,
  "summary": {
-  "text": "In the 1670s, a Dutch cloth seller wrote to the great scientists of London that a single drop of water was full of tiny living beings. Nobody believed him. Nobody else had a lens strong enough to look. How does a claim that nobody can check become something everybody knows? Your child makes a lens from one drop of water, finds out what it shows in a newspaper photograph, and then hands the steps to someone else to see if they get the same result. They also set up the three jars of a famous fly test, and meet people whose ideas were doubted for years before they were believed.",
+  "text": "In the 1670s, a Dutch cloth seller wrote to the great scientists of London that a single drop of water was full of tiny living beings. Nobody believed him. Nobody else had a lens strong enough to look. How does a claim that nobody can check become something everybody knows? Your child makes a lens from one drop of water and uses it to look closely at a newspaper photograph. Then they hand their steps to someone else, to see if that person gets the same result. They also set up the three jars of a famous fly test, and meet people whose ideas were doubted for years before they were believed.",
   "art": "A girl holding a strip of foil with a drop of water in a tiny hole over a newspaper photograph, with her grandmother looking over her shoulder."
  },
  "intro": {
@@ -151,12 +151,12 @@
   {
    "concept": "How a drop of water becomes a lens",
    "status": "defined",
-   "definition": "Light bends when it passes from air into water. A round drop of water bends the light from a small thing so that it spreads wider, and the thing looks bigger.",
+   "definition": "Light bends when it passes from air into water. A round drop of water bends the light coming from a small thing, so the thing looks bigger.",
    "description": "Light travels slower in water than in air, so when it crosses the surface at a slant, it bends. This is called refraction. A flat surface bends all the light the same way. A curved surface bends the light more at the edge than at the middle. A drop of water sitting in a tiny hole is held in a round shape because water particles pull on each other. The pull is called surface tension. The round drop acts as a lens. A smaller, rounder drop bends light more than a larger, flatter one, so it magnifies more. Glass lenses, spectacles, cameras and the lens in your own eye all work by bending light in a similar way.",
    "examples": [
     "A straw in a tumbler of water looks bent, because light bends at the water's surface.",
     "A drop of water on a newspaper makes the print under it look bigger.",
-    "A glass of water with a flat side acts like a weak lens, and a round glass bowl acts like a stronger one."
+    "A round glass bowl filled with water makes the things behind it look bigger, in the same way a lens does."
    ],
    "perspectives": [],
    "art": "A cross-section of a round water drop in a foil hole, with lines of light bending as they enter and spread out towards an eye.",
@@ -235,7 +235,7 @@
   {
    "concept": "Why wrong ideas are kept",
    "status": "idea",
-   "description": "Wrong ideas stay for reasons. They can seem sensible, as with maggots on meat. They may be taught by respected people, so doubting them feels rude. A good story can feel more satisfying than a plain fact. And sometimes nobody has done the simple test. Thinkers still argue about how much of this is human nature and how much is how groups of people work. We may not be able to stop wrong ideas from seeming sensible, from being taught by respected people or from making a good story. But we can build habits against them, such as asking 'who tested this?' and trying the test ourselves.",
+   "description": "Wrong ideas stay for reasons. They can seem sensible, as with maggots on meat. They may be taught by respected people, so doubting them feels rude. A good story can feel more satisfying than a plain fact. And sometimes nobody has done the simple test. Thinkers still argue about how much of this is human nature and how much is how groups of people work. We cannot stop wrong ideas from sounding sensible, or from being taught by respected people, or from making a good story. But we can build habits against them. We can ask 'who tested this?' and try the test ourselves.",
    "examples": [
     "A teacher repeats a saying that nobody has ever tested.",
     "A nice story about a famous scientist spreads, though parts of it were added later.",
@@ -1189,7 +1189,7 @@
        "q": "What did the cloth-covered jar show that the lid jar could not?",
        "good": [
         "The smell could get through the cloth, but the flies could not, and no maggots came.",
-        "Flies landed on the cloth, so they were looking for the banana, not made by it."
+        "Flies landed on the cloth, so the flies were looking for the banana. The banana had not made them."
        ]
       }
      ],
@@ -1470,9 +1470,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Tell the first story. Leeuwenhoek told London about his tiny creatures around 1674, and Hooke and others looked for themselves and saw the same creatures in 1677. That is about 3 years. Cut a 3 centimetre piece of string and label it.",
+     "do": "Tell the first story. Leeuwenhoek told London about his tiny creatures around 1674. Hooke and others looked for themselves and saw the same creatures in 1677. That is about 3 years. Cut a 3 centimetre piece of string and label it.",
      "say": "Leeuwenhoek told London about his tiny creatures around 1674. Others looked for themselves and saw the same creatures in 1677. How many years is that? Cut a piece of string, one centimetre for each year.",
-     "kid": "Leeuwenhoek: 1674 to 1677. How many years? Cut that many centimetres of string.",
+     "kid": "Leeuwenhoek told London in 1674. Others saw the creatures in 1677. How many years is that? Cut that many centimetres of string.",
      "context": "This is the first step of A String of Years. You cut a string for Leeuwenhoek's wait."
     },
     {
@@ -1480,7 +1480,7 @@
      "mins": 6,
      "do": "Tell the second story. Wegener put forward his idea in 1912, and it was accepted in the 1960s. That is about 50 years. Cut a 50 centimetre piece and label it. Hold it next to the first.",
      "say": "Wegener put forward his idea in 1912. It was accepted in the 1960s. About how many years is that? Cut the string and compare.",
-     "kid": "Wegener: 1912 to the 1960s. About 50 years. Cut 50 centimetres of string.",
+     "kid": "Wegener spoke up in 1912. People accepted his idea in the 1960s. That is about 50 years. Cut 50 centimetres of string.",
      "parent": "The exact date is a matter of opinion, because acceptance came step by step through the 1960s. About 50 years is a fair round figure, so cut 50 centimetres.",
      "context": "In this step, you cut a string for Wegener's wait and compare it with the first."
     },
@@ -1489,7 +1489,7 @@
      "mins": 7,
      "do": "Tell the third story. Redi showed in 1668 that flies do not come from meat. The wider question, whether microbes appear on their own in broth, was settled by Pasteur in the 1860s. That is about 190 years. Cut a string about 190 centimetres long, which is nearly two metres, and stretch it across the floor.",
      "say": "Redi tested flies in 1668. The same idea for microbes was settled in the 1860s. About how many years is that? Cut the string and stretch it out.",
-     "kid": "Redi to Pasteur: 1668 to the 1860s. About 190 years. Cut a string that long.",
+     "kid": "Redi tested flies in 1668. Pasteur settled the same question for microbes in the 1860s. That is about 190 years. Cut a string that long.",
      "check": {
       "t": "mcq",
       "q": "Leeuwenhoek's claim was accepted in about 3 years, but Wegener's idea took about 50. What is the most likely reason?",
@@ -3097,7 +3097,7 @@
   "practice": {
    "title": "See it first, then show it",
    "mins": 3,
-   "say": "Look at a leaf, a coin or a flower for one minute, as if you had never seen it. Breathe in slowly three times. Now say out loud what you see, so clearly that someone in another room could find it. Notice what you needed to add.",
+   "say": "Look at a leaf, a coin or a flower for one minute, as if you had never seen it. Breathe in slowly three times. Now say out loud what you see, so clearly that someone in another room could find it. Notice which words you had to add so that a stranger could really find it.",
    "kid": "Look at one small thing for one minute. Breathe in slowly three times. Say what you see so clearly that a stranger could find it."
   },
   "ask": [
