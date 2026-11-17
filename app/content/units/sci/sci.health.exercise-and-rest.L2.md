@@ -22,7 +22,7 @@
 - **Heartbeat**: One squeeze of your heart. Each squeeze pushes blood around your body. Your heart beats faster when you exercise. *e.g.* After running up the stairs, you can feel your heart thumping in your chest.
 - **Rest**: Stopping hard work so that your body can recover. Sitting quietly, lying down and sleeping are all kinds of rest. *e.g.* After a game of kabaddi, the players sit down and drink water.
 - **Sleep**: The long rest your body takes every day, usually at night. Your eyes close and you stop noticing most things around you. Your body and brain are still busy. *e.g.* A child of 7 who goes to bed at 9 at night and wakes at 7 in the morning sleeps for 10 hours.
-- **Recover**: To get back to how you were before. After exercise, your breathing and heartbeat recover and slow down again. *e.g.* After the fast dance, your breathing took a few minutes to recover.
+- **Recover**: To get back to how you were before. After exercise, your breathing and heartbeat recover and slow down again. *e.g.* In the Puff Count, your breathing takes a few minutes to recover after the fast dance.
 
 ## Explanations
 ### Why you breathe faster when you move · *defined*
@@ -51,23 +51,23 @@ When you use a muscle again and again, over weeks it gets stronger. Your heart i
 ### Where muscles get their energy · *defined*
 **Definition:** Muscles get their energy from food. They use oxygen to release the energy stored in food.
 
-The rice, dal, ragi, fruit and vegetables you eat are broken down in your body. Your blood carries the food and the oxygen to every muscle. Inside the muscle, the oxygen helps to release the energy in the food. Some of it is kept in a quick store, ready to use. In the 1920s, a scientist from Andhra Pradesh, Yellapragada Subbarow, worked with Cyrus Fiske in America. They found one of the substances a muscle uses as a quick store of energy. For a long time, Subbarow was not given the credit he earned.
+The rice, dal, ragi, fruit and vegetables you eat are broken down in your body. Your blood carries the food and the oxygen to every muscle. Inside the muscle, the oxygen helps to release the energy in the food. A muscle does not use all of this energy at once. It keeps some of it in a small store, so the muscle can use it quickly when it needs to. In the 1920s, a scientist from Andhra Pradesh, Yellapragada Subbarow, worked with Cyrus Fiske in America. They found one of the substances in a muscle that holds this stored energy. For a long time, Subbarow was not given the credit he earned.
 - e.g. A child who skips breakfast may feel tired and slow in a morning race.
 - e.g. Idli and sambar, or poha with peanuts, give energy for a busy morning.
 - e.g. Your body also turns some of the food's energy into heat, which is why you get warm when you run.
 ### What your body does while you sleep · *defined*
 **Definition:** Sleep is a long daily rest. While you sleep, your body grows and repairs itself, and your brain sorts out what you learned.
 
-When you fall asleep, your muscles relax and your breathing slows down. But your body is busy. In deep sleep, your body sends out most of the growth signal that helps children grow. It mends small injuries. Your brain goes over what you did and learned in the day, and keeps the important parts. You also dream. A child of 6 to 12 needs about 9 to 12 hours of sleep every night. Without enough sleep, it is harder to learn, to stay cheerful and to play well.
+When you fall asleep, your muscles relax and your breathing slows down. But your body is busy. In deep sleep, your body makes most of its growth hormone. Growth hormone is a chemical that tells your body to grow. It mends small injuries. Your brain goes over what you did and learned in the day, and keeps the important parts. You also dream. A child of 6 to 12 needs about 9 to 12 hours of sleep every night. Without enough sleep, it is harder to learn, to stay cheerful and to play well.
 - e.g. After a late night at a wedding, a child is grumpy and sleepy the next day.
 - e.g. A new baby sleeps for about 14 to 17 hours a day.
 - e.g. Many grown-ups need about 7 to 9 hours.
 ### Do all animals sleep? · *debated*
-Every mammal and bird that scientists have studied sleeps. But they sleep in very different ways. In a 2017 study, Nadine Gravett and her team in South Africa tracked two wild elephant matriarchs in Botswana. The elephants slept only about 2 hours a day, mostly standing up. A little brown bat sleeps about 20 hours a day. A dolphin sleeps with half of the brain at a time, so she can keep swimming and come up to breathe. In 2017, scientists in America found that upside-down jellyfish have a sleep-like rest at night. These jellyfish have no brain at all.
+Every mammal and bird that scientists have studied sleeps. But they sleep in very different ways. In a 2017 study, Nadine Gravett and her team in South Africa tracked two wild elephant mothers in Botswana. The elephants slept only about 2 hours a day, mostly standing up. A little brown bat sleeps about 20 hours a day. A dolphin sleeps with half of her brain at a time, so she can keep swimming and come up to breathe. In 2017, scientists in America found that upside-down jellyfish have a sleep-like rest at night. These jellyfish have no brain at all.
 - e.g. A house cat sleeps about 12 to 15 hours a day.
 - e.g. A crow sleeps at night in a tree with many other crows.
 - e.g. Rajma plants lower their leaves at night and lift them in the morning.
-- **Many sleep scientists:** Sleep is found in every animal that has been carefully studied, even ones with no brain. So sleep is very old, and may be needed by every body made of cells.
+- **Many sleep scientists:** Sleep is found in every animal that has been carefully studied, even ones with no brain. So sleep probably began a very long time ago, and every living body made of cells may need it.
 - **Other scientists:** Real sleep is something brains do. A jellyfish or a plant has a daily rhythm of rest, but we should not call it sleep until we know more.
 - **Scientists who study plants:** Plants like the rajma bean have a daily rhythm of moving their leaves. Some call these 'sleep movements'. Whether plants sleep the way we do is still an open question.
 
@@ -75,11 +75,11 @@ Every mammal and bird that scientists have studied sleeps. But they sleep in ver
 - You breathe faster and deeper during hard exercise, because working muscles use more oxygen. *How we know:* People of every age, in every country, show this. Scientists measure it with masks that collect the breath during exercise.
 - Regular exercise makes muscles, the heart and bones stronger. *How we know:* Many long studies of children and grown-ups compare people who are active with people who are not. Active people have stronger hearts, muscles and bones.
 - Children aged 6 to 12 need about 9 to 12 hours of sleep a night. *How we know:* Sleep experts in many countries studied how much children sleep, and how they learn and feel. Children who slept less than this did worse.
-- The body grows and repairs itself during sleep. *How we know:* Blood tests during the night show that most of the growth signal comes out in deep sleep.
+- The body grows and repairs itself during sleep. *How we know:* Blood tests during the night show that most of the growth hormone is made in deep sleep. Growth hormone is the chemical that tells the body to grow.
 
 ## How we found out
 **Mary Carskadon, a sleep scientist, working with William Dement at Stanford University, The Stanford summer sleep camp ran from 1976 to 1985. The work on teenagers' body clocks followed in the 1990s..** For a long time, many people thought that children need less sleep as they grow older. Babies sleep most of the day, and grown-ups sleep less. So a teenager who slept late was often called lazy. In 1976, a young scientist called Mary Carskadon helped start a summer sleep camp at Stanford University in America, with the sleep scientist William Dement. Children aged 10 to 12 came to the camp each summer, and came back year after year as they grew up. They played games in the day. At night they slept with small wires taped to their heads, to record their sleep. Every two hours in the day, they lay down to see how fast they fell asleep. Carskadon expected the older children to need less sleep. They did not. The teenagers needed as much sleep as they had at age 10, and they got sleepier in the day. Later, her studies showed that a teenager's body clock shifts later, so they feel sleepy later at night.  
-*What people believed before:* That older children need less sleep, so teenagers who sleep late are lazy. The camp showed teenagers need as much sleep as younger children, and their bodies want it later at night.
+*What people believed before:* People thought that older children need less sleep, so teenagers who sleep late are lazy. The camp showed that teenagers need as much sleep as younger children, and their bodies want it later at night.
 
 ## Challenging perspectives
 - **Exercise is bad for you when you are tired, so you should never move after school.** (A common belief; *rejected*)  
@@ -93,7 +93,7 @@ Every mammal and bird that scientists have studied sleeps. But they sleep in ver
 We have counted our breaths before and after dancing, and learned why the body needs rest and sleep. Now we ask what the puff count tells us about our bodies and the air around us.
 
 **Deep truth.** Sitting still, you took about 10 breaths in half a minute. Right after dancing, you took many more, and bigger ones. Working muscles use oxygen fast, so your body pulled in more air. So the harder you move, the more of the room's air passes through you.  
-*Habit it breaks:* We think of exercise as something the legs and arms do, and of our body as ending at the skin. The puff count shows that moving the legs changes the breathing, so the air of the room joins in every move.  
+*Habit it breaks:* We think of exercise as something the legs and arms do, and of our body as ending at the skin. The puff count shows that when the legs work, the breathing changes too. So every move you make also uses the air around you.  
 *Evidence:* In the puff count test, the count right after a fast dance was much higher than sitting still, often about twice as high. In the three moves test, star jumps raised it far more than slow stretching. Then the count fell back, minute by minute, as the muscles rested.
 
 - *who am i:* You are a body that is always breathing in and out. Part of the air of your room is inside you right now.
@@ -103,10 +103,10 @@ We have counted our breaths before and after dancing, and learned why the body n
 Every breath you take in has oxygen that a plant or a tiny sea creature gave out. Your muscles use it to release the energy in your food, and that food was made by plants from sunlight. You breathe out carbon dioxide, and plants take it in to make more food and oxygen. So a fast dance in a small flat moves air between you, a plant on the sill and the trees outside. Your body senses what your muscles need and changes your breathing to match. Some scientists call this an automatic reflex.
 
 - **Chandogya Upanishad 5.1:** The parts of a person had an argument about who was the most important. Speech left the body for a year, then the eyes, the ears and the mind. Each time, the person went on living. Then breath began to leave. All the others felt themselves being pulled out too. They agreed that breath, prana, was the most important of all. (In the puff count test, your breathing changed by itself to keep your dancing muscles going. Every part of the body depends on breath.)
-- **Anguttara Nikaya 6.55, the Sona Sutta:** A monk named Sona tried so hard that his feet bled from walking. The Buddha asked him, 'You used to play the vina. When the strings were too tight, did it sound good?' 'No.' 'And when they were too loose?' 'No.' 'When they were neither too tight nor too loose?' 'Then it sounded good.' The Buddha said effort is the same. (A body needs both: hard work to grow strong, and rest and sleep to recover. Too much of either is like a string tuned badly.)
+- **Anguttara Nikaya 6.55, the Sona Sutta:** A monk named Sona tried so hard that his feet bled from walking. The Buddha asked him, 'You used to play the vina. When the strings were too tight, did it sound good?' 'No.' 'And when they were too loose?' 'No.' 'When they were neither too tight nor too loose?' 'Then it sounded good.' The Buddha said effort is the same. (A body needs both: hard work to grow strong, and rest and sleep to recover. Too much of either is like a vina string that is too tight or too loose.)
 - Science (settled): During exercise, working muscles use more oxygen and make more carbon dioxide. The body senses the change and makes breathing faster and deeper.
 - Science (open): Every animal that scientists have carefully studied rests or sleeps, even upside-down jellyfish, who have no brain. Why sleep is needed is still not fully known.
-- Other view, Many physiologists, the scientists who study how bodies work: They say the faster breathing is a reflex. Sensors in the blood vessels and the brain detect more carbon dioxide and send signals to the breathing muscles. They describe it as a chain of signals, that you do not have to decide on.
+- Other view, Many physiologists, the scientists who study how bodies work: They say the faster breathing is a reflex. Sensors in the blood vessels and the brain detect more carbon dioxide and send signals to the breathing muscles. They describe it as a chain of signals that works without you deciding anything.
 - Practice, Watch your breath slow down (3 min): Stand up and jump on the spot ten times. Now sit down and close your eyes. Put one hand on your tummy. Feel it going fast. Don't try to slow it. Just watch. Can you feel it getting slower, all by itself? Now think of a plant by the window, or a tree outside. The air you are breathing out is going to the plant.
 - Ask: Your jumps made your breathing change. What else in your body changes when you move?
 - Ask: If plants give you oxygen and you give them carbon dioxide, who is looking after whom?
@@ -115,7 +115,7 @@ Every breath you take in has oxygen that a plant or a tiny sea creature gave out
 - *deep:* When you dance, your body breathes faster without you deciding to. Who, or what, made that choice? (hint: Think about what your body notices when your muscles work. Your body sensed the change and acted on it.)
 - *deep:* Why does sleep feel like doing nothing, when your body is so busy? (hint: Think of what grows and gets mended at night.)
 - *big:* The oxygen you breathe in was given out by plants. The air you breathe out is used by plants. Where does your body end? (hint: Follow one breath from a plant, into you, and back out again.)
-- *big:* An elephant sleeps 2 hours and a bat sleeps 20. Is there a right amount of sleep, or does each body find their own? (hint: Think about how each animal lives: what they eat, and who might hunt them.)
+- *big:* An elephant sleeps 2 hours a day and a bat sleeps 20. Is there one right amount of sleep, or does each kind of animal need a different amount? (hint: Think about how each animal lives: what they eat, and who might hunt them.)
 
 ## Story: The Rainy Week in Kochi
 *Anju, Tomin and Ammachi are made up. Ammachi is a Malayalam word many children in Kerala use for their grandmother.*
@@ -146,7 +146,7 @@ When the song ended, they flopped onto the floor. Anju's chest was going up and 
 
 "Resting is not nothing," said Ammachi. "While you sat, your body was getting your muscles ready to work again."
 
-They drank a tumbler of water each. Then Anju had an idea. "Let's make the dance every day, until the rain stops," she said. Ammachi agreed, as long as everyone took a bath after, because they were sweaty.
+They drank a tumbler of water each. Then Anju had an idea. "Let's do the dance every day, until the rain stops," she said. Ammachi agreed, as long as everyone took a bath afterwards, because they were sweaty.
 
 That night, Tomin fell asleep before his story was finished. Anju lay awake a little longer, listening to the rain on the window. She felt heavy and warm and sleepy.
 
@@ -156,7 +156,7 @@ That night, Tomin fell asleep before his story was finished. Anju lay awake a li
 
 "So my body works even when I'm asleep?"
 
-"All night long," said Ammachi. "Your heart keeps beating. Your breathing keeps going, slow and steady. And you need about ten hours of it, because you are still growing."
+"All night long," said Ammachi. "Your heart keeps beating. Your breathing keeps going, slow and steady. And you need about ten hours of sleep, because you are still growing."
 
 Anju counted the hours on the clock in her head. Nine o'clock to seven o'clock. Ten hours. She was asleep before she reached the end.
 
@@ -170,7 +170,7 @@ On the last day, the sun came out at last. The play area dried. Anju and Tomin r
 
 "Count!" said Tomin, putting his hand on his tummy.
 
-And they both started to laugh too much to count anything.
+Then they both laughed so much that they could not count anything.
 
 **For the parent:** When I danced, my body breathed faster all by itself, to bring in more air for my muscles. When I rested and slept, it got my body ready to move again. Moving and resting work together.
 
@@ -184,7 +184,7 @@ And they both started to laugh too much to count anything.
 - **rules:** Cut out the 12 cards. Mix them up and lay them face down in rows.; On your turn, turn over two cards and read them aloud.; If they are a sleeper and their sleep time, check the back. If the back says they are a pair, keep them and take another turn.; If they are not a pair, turn them face down again. The next player has a turn.; When all the pairs are found, the player with the most pairs wins.; At the end, everyone puts the 6 sleepers in a line, from the shortest sleeper to the longest.; If two players have the same number of pairs, they both win.
 - **Printable cards: 12 cards to cut out: 6 sleepers and 6 sleep times:** A wild African elephant (back: Pair: about 2 hours a day, mostly standing up) [picture]; About 2 hours a day, mostly standing up (back: Pair: a wild African elephant); A grown-up human (back: Pair: about 7 to 9 hours); About 7 to 9 hours (back: Pair: a grown-up human); A child of 7 (back: Pair: about 9 to 12 hours); About 9 to 12 hours (back: Pair: a child of 7); A house cat (back: Pair: about 12 to 15 hours, in many naps) [picture]; About 12 to 15 hours, in many naps (back: Pair: a house cat); A newborn baby (back: Pair: about 14 to 17 hours, waking often to feed); About 14 to 17 hours, waking often to feed (back: Pair: a newborn baby); A little brown bat (back: Pair: about 20 hours, hanging upside down) [picture]; About 20 hours, hanging upside down (back: Pair: a little brown bat)
 - **s1 (2 min)**  
-  *Parent does:* 1. Cut out and mix the cards. 2. Ask your child to guess which animal sleeps the longest and which the shortest.  
+  *Parent does:* 1. Cut out and mix the cards. 2. Ask your child to guess which sleeper sleeps the longest and which the shortest.  
   *Parent says:* Which of these sleepers do you think sleeps the longest in a day? Which the shortest? Why?  
   *Child mode:* Which sleeper sleeps the longest? Which sleeps the shortest? Why?
 - **s2 (10 min)**  
@@ -199,7 +199,7 @@ And they both started to laugh too much to count anything.
   - Ask: Why does a baby sleep so much? (good: Because a baby is growing very fast.; Because a baby's body and brain do a lot of growing, and growing happens in sleep.)
   - Check: Which of these sleeps the shortest time in a day? → **A wild African elephant**
 ### g2 · Healthy Day Ladders: a board game (20 min)
-- **rules:** Print the board and cut out the 4 counters. With no printer, draw 30 squares in 5 rows of 6, number them 1 to 30, and write the words from the list in each square. A grown-up can write them.; Each player puts a counter on square 1.; Take turns to roll a dice and move that many squares. Read the square you land on aloud, and do what it says.; If you land on the bottom of a ladder, read it aloud and climb up to the square it names. If you land on the start of a slide (the higher number), read it aloud and slide down to the square it names.; When you climb or slide, say one more reason why that thing helps or harms the body. If you can, the next player gives a cheer.; Do not follow a ladder or slide again when you arrive at the square it sends you to. Just do what that square says.; The first player to reach square 30 wins. You do not need an exact roll: any roll that takes you to 30 or past it wins.
+- **rules:** Print the board and cut out the 4 counters. With no printer, draw 30 squares in 5 rows of 6, number them 1 to 30, and write the words from the list in each square. A grown-up can write them.; Each player puts a counter on square 1.; Take turns to roll a dice and move that many squares. Read the square you land on aloud, and do what it says.; If you land on the bottom of a ladder, read it aloud and climb up to the square it names. If you land on the start of a slide (the higher number), read it aloud and slide down to the square it names.; When you climb or slide, say one more reason why that thing helps or harms the body. If you can say one, the next player gives a cheer.; A ladder or a slide moves you only once. On the square it sends you to, just do what that square says.; The first player to reach square 30 wins. You do not need an exact roll: any roll that takes you to 30 or past it wins.
 - **Printable board: A board of 30 squares in 5 rows of 6, with 4 ladders, 4 slides and 20 action squares:** Square 1: Start; Square 2: Rest square: take three slow breaths.; Square 3, ladder up to square 10: You skipped with a rope for 10 minutes. Your heart and muscles got stronger.; Square 4: Move square: hop on one foot five times.; Square 5: Water square: take a sip of water.; Square 6: Name one food that gives your muscles energy.; Square 7, ladder up to square 14: You slept 10 hours. Your body grew and mended overnight.; Square 8: Move square: stretch up tall, then touch your toes.; Square 9: Rest square: sit still and put a hand on your tummy. Feel it go out and in.; Square 10: Name one thing you do to keep clean.; Square 11: Move square: march on the spot for ten steps.; Square 12, slide down to square 5: You stayed up very late. Today you feel too sleepy to learn.; Square 13: Water square: take a sip of water.; Square 14: Rest square: close your eyes and take three slow breaths.; Square 15, ladder up to square 22: You washed your hands before lunch. The germs went down the drain.; Square 16: Name one kind of exercise you can do in a flat.; Square 17: Move square: do five star jumps.; Square 18, slide down to square 11: You sat on the sofa all day. Your muscles did not get any work.; Square 19: Name one thing that helps you fall asleep.; Square 20, ladder up to square 27: You ate idli, sambar and a banana. Your muscles have food for energy.; Square 21: Move square: walk like an elephant for five steps.; Square 22: Rest square: sit down and count to ten slowly.; Square 23: Name one thing your body does while you sleep.; Square 24, slide down to square 16: You looked at a bright phone in bed. It was hard to fall asleep.; Square 25: Move square: do three frog jumps.; Square 26: Water square: take a sip of water.; Square 27: Name one thing you do to keep clean.; Square 28, slide down to square 21: You played hard and forgot to drink water. You feel tired and hot.; Square 29: Rest square: take three slow breaths. Nearly there!; Square 30: Finish. You had a healthy day!
 - **Printable tokens: 4 counters, one for each player: buttons or bottle caps work well:** A red counter; A blue counter; A green counter; A yellow counter
 - **s1 (5 min)**  
@@ -212,9 +212,10 @@ And they both started to laugh too much to count anything.
   *Child mode:* Roll and move. Read your square and do it. On a ladder or a slide, say why.
   - Ask: Why did sitting on the sofa all day send you down? (good: My muscles didn't work, so they don't get stronger.; I didn't move, so I didn't get any exercise.)
 - **s3 (2 min)**  
-  *Parent does:* 1. Ask the question below.  
-  *Parent says:* Which ladder will you climb in real life tomorrow?  
-  *Child mode:* Which ladder will you climb tomorrow, in real life?
+  *Parent does:* 1. Look at the four ladders together. 2. Ask what they have in common, and which one the family can do tomorrow.  
+  *Parent says:* Look at the four ladders. What do they all have in common? Which one could we do tomorrow?  
+  *Child mode:* Look at the four ladders. What is the same about them? Which one can you do tomorrow?
+  - Note: All four ladders help the body. Skipping and play make muscles, heart and bones stronger. Sleep lets the body grow and mend. Washing hands sends germs away. Good food gives muscles energy. Any ladder your child picks for tomorrow is fine, if they can say what it does for the body.
 
 ## Experiments
 ### e1 · The Puff Count: how fast do you breathe after dancing, and how long until you calm down? (20 min)
@@ -258,9 +259,9 @@ And they both started to laugh too much to count anything.
   - Ask: When was your breathing back to normal? (good: After 3 minutes it was the same as at the start.; It took 4 minutes.)
 - **s7 (3 min)**  
   *Parent does:* 1. Ask the three questions below, one at a time. 2. Write the answers down. 3. Only after your child has answered, read the card 'Why you breathe faster when you move'.  
-  *Parent says:* What do you think now? What did you see that tells you so? Why do you think it happened?  
-  *Child mode:* What do you think now? What did you see? Why?
-  - Ask: What do you think now? (good: Dancing makes me breathe faster.; It takes a few minutes for my breathing to calm down.)
+  *Parent says:* What do you think dancing does to your breathing now? What did you see that tells you so? Why do you think it happened?  
+  *Child mode:* What does dancing do to your breathing? What did you see? Why did it happen?
+  - Ask: What do you think dancing does to your breathing now? (good: Dancing makes me breathe faster.; It takes a few minutes for my breathing to calm down.)
   - Ask: What did you see? (good: I took 11 breaths sitting still and 22 after dancing. It took 4 minutes to get back to 11.)
   - Ask: Why do you think it happened? (good: My legs were working hard, so they needed more air.; My body needed more oxygen for dancing.)
 ### e2 · Three Moves: which kind of exercise makes you breathe hardest? (20 min)
@@ -294,10 +295,10 @@ And they both started to laugh too much to count anything.
   - Check: After which move did you breathe the fastest? → **Star jumps**
 - **s5 (4 min)**  
   *Parent does:* 1. Help your child draw three towers. 2. Ask the three questions below.  
-  *Parent says:* What do you think now? What did you see? Why do you think star jumps and stretching were so different?  
-  *Child mode:* What do you think now? What did you see? Why?
+  *Parent says:* Which move do you now think makes you breathe fastest? What did you see? Why do you think star jumps and stretching were so different?  
+  *Child mode:* Which move made you breathe fastest? What did you see? Why?
   - Ask: Why do you think it happened? (good: Star jumps make my legs and arms work really fast, so they need more air.; Stretching is slow, so my muscles don't need as much oxygen.)
-  - Think: Which games you play make you breathe like star jumps? Which are more like stretching?
+  - Think: Which of the games you play make you breathe as fast as star jumps do? Which are more like stretching?
 
 ## Activities
 ### a1 · Move Like Other Animals: crab, frog, elephant and cat (12 min)
@@ -321,8 +322,8 @@ And they both started to laugh too much to count anything.
   *Parent says:* Which move made you puff the most? Which one was gentle, like a rest?  
   *Child mode:* Which move made you puff most? Which one was gentle?
   - Ask: Which made you puff most? (good: The frog jumps, because I jumped with my whole body.; The crab walk made my arms tired.)
-  - Think: A real crab, frog or cat moves like this every day. Do you think they get puffed too?
-### a2 · My Bedtime Steps: put a wind-down in order (12 min)
+  - Think: Working muscles use oxygen. A frog's muscles work hard when she jumps. What would you expect a frog to do with her breathing after many jumps?
+### a2 · My Bedtime Steps: put what you do before bed in order (12 min)
 - **record:** Stick your bedtime cards in order on a sheet of paper. Put a star on the steps that help you feel sleepy.
 - **s1 (5 min)**  
   *Parent does:* 1. Ask your child what they do each evening after dinner. 2. Help them draw one step on each card, such as eating dinner, washing, brushing teeth, a story, lights off.  
@@ -353,9 +354,9 @@ And they both started to laugh too much to count anything.
   - Note: Every family's day is different. The aim is noticing, not scoring. If a box is empty, ask what your child could add tomorrow.
 - **s3 (3 min)**  
   *Parent does:* 1. Ask the question below.  
-  *Parent says:* Look at your chart. Did one box help another box? For example, did a sweaty game mean you needed a wash?  
-  *Child mode:* Did one box help another? Did a sweaty game need a wash?
-  - Ask: How do the boxes help each other? (good: After running I was hungry, so I ate.; I played a lot, so I slept well.; I got sweaty, so I had a bath.)
+  *Parent says:* Look at your chart. Did something in one box lead to something in another box? For example, did a sweaty game mean you needed a wash?  
+  *Child mode:* Did one box lead to another? Did a sweaty game mean you needed a wash?
+  - Ask: How did one box lead to another? (good: After running I was hungry, so I ate.; I played a lot, so I slept well.; I got sweaty, so I had a bath.)
 ### a4 · Busy or Still? Watch another animal rest (15 min)
 - **record:** Your 10 boxes, each marked B for busy or S for still, and a drawing of the animal you watched.
 - **s1 (3 min)**  
@@ -415,9 +416,10 @@ And they both started to laugh too much to count anything.
   - Note: Let your child choose the moves. If one is unsafe, ask a question rather than saying no: 'What if they felt dizzy?'
 - **s3 (7 min)**  
   *Parent does:* 1. Your child teaches the moves to an older person, or to you. 2. Afterwards, ask the questions below.  
-  *Parent says:* Which move did they like best? Did any move make them breathe a little faster?  
-  *Child mode:* Teach your moves. Which one did they like best?
+  *Parent says:* Did any move make them breathe a little faster? Which move, and why?  
+  *Child mode:* Teach your moves. Did any move make them breathe faster? Which one?
   - Ask: What would you change next time? (good: Add music.; Make the arm move slower.)
+  - Note: Moves that use big muscles for longer, such as lifting the knees or raising both arms, are the most likely to make breathing faster. This links back to the Puff Count, where working muscles used more oxygen. If no move made them puff, that is a fair result for gentle chair moves.
 
 ## Worksheets
 ### Move and Rest (core) (core, 10 questions)
@@ -434,14 +436,14 @@ And they both started to laugh too much to count anything.
    **Answer:** skipping with a rope → Exercise; sleeping → Rest; climbing the stairs → Exercise; sitting and reading a book → Rest; playing kho-kho → Exercise; lying on a mat with eyes closed → Rest. *Why:* Exercise makes your muscles work hard. Rest gives them a break so they can recover.
 6. (draw) Draw yourself right after the fast dance. Show what your face and chest looked like.  
    **Answer:** A child with a red face, open mouth, and lines to show fast breathing.. *Why:* A strong drawing shows signs of hard work: a red or sweaty face, an open mouth, or a big chest.
-7. (count) Lakshmi, a girl in Class 2, took 10 breaths in half a minute sitting still. After dancing she took 20. How many more breaths did she take after dancing?  
-   **Answer:** 10. *Why:* 20 take away 10 is 10. She took 10 more breaths, which is twice as many as sitting still.
-8. (write) Zoya, a girl in Class 2, runs for the bus and puffs hard. Say out loud why her breathing is so fast, and a grown-up writes it down.  
-   **Answer:** Her leg muscles are working hard and need more oxygen, so she breathes in more air.. *Why:* A strong answer links the muscles working to needing more oxygen, and more oxygen to more breaths.
+7. (count) You take 10 breaths in half a minute sitting still. After dancing you take 20. How many more breaths do you take after dancing?  
+   **Answer:** 10. *Why:* 20 take away 10 is 10. That is 10 more breaths, which is twice as many as sitting still.
+8. (write) You run for the bus and puff hard. Say out loud why your breathing is so fast. A grown-up can write it down.  
+   **Answer:** My leg muscles are working hard and need more oxygen, so I breathe in more air.. *Why:* A strong answer links the muscles working to needing more oxygen, and more oxygen to more breaths.
 9. (label) Label the picture: lungs, heart, leg muscle.  
    **Answer:** ['the two shapes in the chest: lungs', 'the fist-sized shape between them: heart', 'the top of the leg: leg muscle']. *Why:* The lungs take in the air. The heart pumps the blood. The leg muscle uses the oxygen to move.
-10. (perspective) Priya and her brother Arun are talking about after school.  
-   **Answer:** A strong answer might agree with Priya, because sitting all day gives the muscles little work and play helps you sleep well. It also says Arun is right that his body may need some rest.. *Why:* Both are partly right. A body needs both moving and resting. Which comes first can depend on how the day went.
+10. (perspective) Two children talk about after school. The first child is 6. The second child is his sister, aged 9.  
+   **Answer:** A strong answer might agree with the second child, because sitting all day gives the muscles little work and play helps you sleep well. It also says the first child is right that his body may need some rest.. *Why:* Both are partly right. A body needs both moving and resting. Which comes first can depend on how the day went.
 ### Breath and Sleep (stretch) (stretch, 10 questions)
 1. (order) Put the steps of the puff count test in order.  
    **Answer:** order shown. *Why:* We count sitting still first, so we know what normal breathing is. Then we can compare.
@@ -450,7 +452,7 @@ And they both started to laugh too much to count anything.
    **Answer:** Star jumps. *Why:* Star jumps make big muscles work fast, so they need the most oxygen. Stretching can feel hard, but it uses less oxygen each minute.
 3. (truefalse) When you sleep, your body stops working.  
    **Answer:** False. *Why:* False. While you sleep, your body grows and mends, and your brain sorts what you learned. Your heart and lungs keep working all night.
-4. (count) Revathi, a girl in Class 2, takes 12 breaths in half a minute sitting still. How many breaths does she take in a whole minute, if she goes on breathing the same way?  
+4. (count) You take 12 breaths in half a minute sitting still. How many breaths do you take in a whole minute, if you go on breathing the same way?  
    **Answer:** 24. *Why:* A whole minute is two half minutes. 12 and 12 make 24.
 5. (write) Your breathing took a few minutes to get back to normal after the dance. Why didn't it go back the moment you stopped? You can say it out loud and a grown-up can write it down.  
    **Answer:** My muscles still needed extra oxygen for a while after the hard work, to recover and get ready again.. *Why:* A strong answer says the body was still working after the dance stopped: taking in extra oxygen to recover.
@@ -463,16 +465,16 @@ And they both started to laugh too much to count anything.
    **Answer:** A newborn baby. *Why:* A newborn baby sleeps about 14 to 17 hours a day. Babies grow very fast, and much growing happens in sleep.
 9. (fill) While you sleep, your body grows and ____ small injuries.  
    **Answer:** ['mends', 'repairs', 'heals']. *Why:* In sleep the body grows and mends. A strong answer uses a word like mends, repairs or heals.
-10. (perspective) Meera's family is going to a cousin's wedding. It ends late at night, and there is school the next day.  
+10. (perspective) The first child's family is going to a cousin's wedding. It ends late at night, and there is school the next day.  
    **Answer:** A strong answer uses a fact about sleep: a child needs 9 to 12 hours, and too little sleep makes it hard to learn. It also sees the other side: a family wedding matters too.. *Why:* There is no single right answer. Each person cares about something real: joy, sleep, or school.
 ### Body Detective (challenge) (challenge, 10 questions)
-1. (write) Gowri, a girl in Class 2, counted 12 breaths sitting still and only 13 after dancing. What might have gone wrong in her test? You can say it out loud and a grown-up can write it down.  
-   **Answer:** She may have waited too long before counting, or danced slowly, or counted the wrong way.. *Why:* A strong answer finds a reason in how the test was done: the count must start straight after a fast dance, and last exactly half a minute.
+1. (write) A child counted 12 breaths sitting still and only 13 after dancing. What might have gone wrong in the test? You can say it out loud and a grown-up can write it down.  
+   **Answer:** The child may have waited too long before counting, or danced slowly, or counted the wrong way.. *Why:* A strong answer finds a reason in how the test was done: the count must start straight after a fast dance, and last exactly half a minute.
 2. (perspective) Two friends are arguing about stretching.  
-   **Answer:** A strong answer says stretching makes muscles work and keeps the body bendy, so it is a kind of exercise, even though it makes you breathe less than star jumps. Nandini is right that it is much gentler on the heart and lungs.. *Why:* Different exercise does different jobs. Fast moves work the heart and lungs. Stretching keeps muscles long and bendy.
-3. (mcq) Tara, a girl in Class 3, walks up the stairs every day for a month. At the end of the month, what will most likely happen?  
-   Options: She puffs more on the stairs than before / She puffs less, and recovers faster / Nothing changes  
-   **Answer:** She puffs less, and recovers faster. *Why:* Regular exercise makes the heart, lungs and muscles stronger, so the same stairs feel easier. Picking 'puffs more' mixes up being tired after one climb with getting fitter over weeks.
+   **Answer:** A strong answer says stretching makes muscles work and keeps the body bendy, so it is a kind of exercise, even though it makes you breathe less than star jumps. The first child is right that it is much gentler on the heart and lungs.. *Why:* Different exercise does different jobs. Fast moves work the heart and lungs. Stretching keeps muscles long and bendy.
+3. (mcq) You walk up the stairs every day for a month. At the end of the month, what will most likely happen?  
+   Options: You puff more on the stairs than before / You puff less, and recover faster / Nothing changes  
+   **Answer:** You puff less, and recover faster. *Why:* Regular exercise makes the heart, lungs and muscles stronger, so the same stairs feel easier. Picking 'you puff more' mixes up being tired after one climb with getting fitter over weeks.
 4. (write) A dolphin must come up to the surface to breathe air. How can she sleep without drowning? You can say it out loud and a grown-up can write it down.  
    **Answer:** She sleeps with half of her brain at a time, so the other half keeps her swimming and breathing.. *Why:* A strong answer says the dolphin never lets her whole brain sleep at once.
 5. (odd) Three of these make your muscles work hard. Which one does not?  
@@ -484,7 +486,7 @@ And they both started to laugh too much to count anything.
    **Answer:** A drawing with arrows from a plant, to the nose, to the lungs, to the heart and blood, to the leg.. *Why:* A strong drawing shows the oxygen moving from the plant to the air, then into the lungs, then through the blood to the muscle.
 8. (order) Put these in order, from first to last: what happens in your body when you dance and then rest.  
    **Answer:** order shown. *Why:* Working muscles use oxygen first, so breathing speeds up. When you rest, the muscles need less, and breathing slows step by step.
-9. (count) In the three moves test, Asha, a girl in Class 2, counted 11 breaths after stretching, 14 after walking and 21 after star jumps. How many more breaths came after star jumps than after walking?  
+9. (count) In the three moves test, a child counted 11 breaths after stretching, 14 after walking and 21 after star jumps. How many more breaths came after star jumps than after walking?  
    **Answer:** 7. *Why:* 21 take away 14 is 7. Star jumps gave 7 more breaths in half a minute than walking.
 10. (write) Many people think that sleep is a waste of time, because you do nothing. What would you tell them? You can say it out loud and a grown-up can write it down.  
    **Answer:** That while we sleep, the body grows and mends, and the brain sorts what we learned. Without sleep we can't learn or play well.. *Why:* A strong answer gives at least one thing the body does in sleep, and says how the next day changes without it.
@@ -509,7 +511,7 @@ And they both started to laugh too much to count anything.
    **Answer:** Skipping with a rope. *Why:* Skipping makes your muscles work hard. Reading and sleeping are rest.
 5. (mcq) What does regular exercise make stronger?  
    Options: Only your legs / Your muscles, heart and bones / Only your hair  
-   **Answer:** Your muscles, heart and bones. *Why:* Exercise strengthens all the muscles you use, your heart, which is a muscle, and your bones.
+   **Answer:** Your muscles, heart and bones. *Why:* Exercise makes the muscles you use stronger. It also makes your heart, which is a muscle, and your bones stronger.
 6. (mcq) How much sleep does a child of 7 need each night?  
    Options: About 5 hours / About 9 to 12 hours / About 20 hours  
    **Answer:** About 9 to 12 hours. *Why:* Children aged 6 to 12 need about 9 to 12 hours. 20 hours is how long a little brown bat sleeps.
@@ -539,7 +541,7 @@ And they both started to laugh too much to count anything.
 - Children puffing and laughing after a game of kho-kho or lagori in a school ground.
 - A street dog panting in the shade on a hot afternoon. Dogs pant to cool down, and also after running.
 - Morning walkers at a beach or a park, like the Marina in Chennai, walking fast and swinging their arms.
-- A whole family asleep on mats on a terrace on a hot summer night, in many towns.
+- In many towns, a whole family asleep on mats on a terrace on a hot summer night.
 
 ## Open questions
 - **Why exactly do humans and other animals need to sleep?** Scientists know many things that happen during sleep: growth, repair, sorting memories, cleaning the brain. But nobody knows for sure which one, or which mix, is the main reason we must sleep.
@@ -566,12 +568,12 @@ And they both started to laugh too much to count anything.
 - What did the skipping rope say to the child? *Jump to it!*
 
 ## Connected maths
-- Fathima, a girl in Class 2, took 11 breaths in half a minute sitting still. After dancing, she took 22. Is that more or less than twice as many? **Exactly twice as many.**. Double 11 is 11 and 11, which is 22. So after dancing Fathima took exactly twice as many breaths. (queues `math.addition-subtraction.meaning.L2`)
+- A child took 11 breaths in half a minute sitting still. After dancing, the child took 22. Is 22 more than twice 11, less than twice 11, or exactly twice 11? **Exactly twice as many.**. Double 11 is 11 and 11, which is 22. So after dancing the child took exactly twice as many breaths. (queues `math.addition-subtraction.meaning.L2`)
 - Here are one child's counts in the puff count test: 11 sitting still, 22 after dancing, then 17, 14, 12 and 11 after each minute of rest. After how many minutes was the count back to 11? **After 4 minutes.**. Count along the rest counts: 17 after 1 minute, 14 after 2, 12 after 3, and 11 after 4. 11 is the sitting-still count. (queues `math.number-sense.comparing-ordering.L2`)
-- In the three moves test, Sneha, a girl in Class 2, took 12 breaths after stretching, 15 after walking and 24 after star jumps. Put the three moves in order from most breaths to fewest. **Star jumps, walking, stretching.**. 24 is the biggest number, then 15, then 12. (queues `math.number-sense.comparing-ordering.L2`)
-- Karthik, a boy in Class 2, sleeps from 9 at night to 6 in the morning. A child of 7 needs at least 9 hours. Is he getting enough? **Yes, 9 hours, but only just.**. Count on from 9: 10, 11, 12, 1, 2, 3, 4, 5, 6. That is 9 hours. 9 is the least a child of 7 needs. (queues `math.time.telling-time.L2`)
+- In the three moves test, a child took 12 breaths after stretching, 15 after walking and 24 after star jumps. Put the three moves in order from most breaths to fewest. **Star jumps, walking, stretching.**. 24 is the biggest number, then 15, then 12. (queues `math.number-sense.comparing-ordering.L2`)
+- A child of 7 sleeps from 9 at night to 6 in the morning. A child of 7 needs at least 9 hours of sleep. Is this enough? **Yes, 9 hours, but only just.**. Count on from 9: 10, 11, 12, 1, 2, 3, 4, 5, 6. That is 9 hours. 9 is the least a child of 7 needs. (queues `math.time.telling-time.L2`)
 - A wild elephant sleeps about 2 hours a day. A little brown bat sleeps about 20 hours. How many times longer does the bat sleep? **10 times longer.**. 2, 4, 6, 8, 10, 12, 14, 16, 18, 20. That is ten 2s. So the bat sleeps 10 times as long as the elephant. (queues `math.multiplication.equal-groups.L2`)
-- Doctors say children should be active for about 60 minutes a day, all added up. Divya, a girl in Class 3, skipped for 15 minutes, danced for 20 minutes and climbed stairs for 10 minutes. How many more minutes does she need to reach 60? **15 more minutes.**. 15 and 20 make 35. 35 and 10 make 45. From 45 to 60 is 15 more. (queues `math.time.duration.L3`)
+- Doctors say children should be active for about 60 minutes a day, all added up. A child skipped for 15 minutes, danced for 20 minutes and climbed stairs for 10 minutes. How many more minutes does the child need to reach 60? **15 more minutes.**. 15 and 20 make 35. 35 and 10 make 45. From 45 to 60 is 15 more. (queues `math.time.duration.L3`)
 
 ## Song
 Move, Puff and Rest (sci.health.L2): Topic-level song for Health and well-being L2

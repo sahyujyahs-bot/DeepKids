@@ -126,7 +126,7 @@
    "status": "defined",
    "context": "This card explains where the energy for exercise comes from.",
    "definition": "Muscles get their energy from food. They use oxygen to release the energy stored in food.",
-   "description": "The rice, dal, ragi, fruit and vegetables you eat are broken down in your body. Your blood carries the food and the oxygen to every muscle. Inside the muscle, the oxygen helps to release the energy in the food. Some of it is kept in a quick store, ready to use. In the 1920s, a scientist from Andhra Pradesh, Yellapragada Subbarow, worked with Cyrus Fiske in America. They found one of the substances a muscle uses as a quick store of energy. For a long time, Subbarow was not given the credit he earned.",
+   "description": "The rice, dal, ragi, fruit and vegetables you eat are broken down in your body. Your blood carries the food and the oxygen to every muscle. Inside the muscle, the oxygen helps to release the energy in the food. A muscle does not use all of this energy at once. It keeps some of it in a small store, so the muscle can use it quickly when it needs to. In the 1920s, a scientist from Andhra Pradesh, Yellapragada Subbarow, worked with Cyrus Fiske in America. They found one of the substances in a muscle that holds this stored energy. For a long time, Subbarow was not given the credit he earned.",
    "examples": [
     "A child who skips breakfast may feel tired and slow in a morning race.",
     "Idli and sambar, or poha with peanuts, give energy for a busy morning.",
@@ -140,7 +140,7 @@
    "status": "defined",
    "context": "This card explains why sleep matters, even though you seem to be doing nothing.",
    "definition": "Sleep is a long daily rest. While you sleep, your body grows and repairs itself, and your brain sorts out what you learned.",
-   "description": "When you fall asleep, your muscles relax and your breathing slows down. But your body is busy. In deep sleep, your body sends out most of the signal that tells it to grow. It mends small injuries. Your brain goes over what you did and learned in the day, and keeps the important parts. You also dream. A child of 6 to 12 needs about 9 to 12 hours of sleep every night. Without enough sleep, it is harder to learn, to stay cheerful and to play well.",
+   "description": "When you fall asleep, your muscles relax and your breathing slows down. But your body is busy. In deep sleep, your body makes most of its growth hormone. Growth hormone is a chemical that tells your body to grow. It mends small injuries. Your brain goes over what you did and learned in the day, and keeps the important parts. You also dream. A child of 6 to 12 needs about 9 to 12 hours of sleep every night. Without enough sleep, it is harder to learn, to stay cheerful and to play well.",
    "examples": [
     "After a late night at a wedding, a child is grumpy and sleepy the next day.",
     "A new baby sleeps for about 14 to 17 hours a day.",
@@ -191,7 +191,7 @@
   },
   {
    "text": "The body grows and repairs itself during sleep.",
-   "evidence": "Blood tests during the night show that most of the signal that tells the body to grow comes out in deep sleep."
+   "evidence": "Blood tests during the night show that most of the growth hormone is made in deep sleep. Growth hormone is the chemical that tells the body to grow."
   }
  ],
  "challenging": [
@@ -524,10 +524,11 @@
     {
      "id": "s3",
      "mins": 2,
-     "context": "This is the end of the game. You choose one ladder for tomorrow.",
-     "do": "1. Ask the question below.",
-     "say": "Which ladder will you climb in real life tomorrow?",
-     "kid": "Which ladder will you climb tomorrow, in real life?"
+     "context": "This is the end of the game. You look at the ladders and choose one for tomorrow.",
+     "do": "1. Look at the four ladders together. 2. Ask what they have in common, and which one the family can do tomorrow.",
+     "say": "Look at the four ladders. What do they all have in common? Which one could we do tomorrow?",
+     "kid": "Look at the four ladders. What is the same about them? Which one can you do tomorrow?",
+     "parent": "All four ladders help the body. Skipping and play make muscles, heart and bones stronger. Sleep lets the body grow and mend. Washing hands sends germs away. Good food gives muscles energy. Any ladder your child picks for tomorrow is fine, if they can say what it does for the body."
     }
    ]
   }
@@ -960,7 +961,7 @@
        ]
       }
      ],
-     "think": "A real crab, frog or cat moves like this every day. Do you think they get puffed too?"
+     "think": "Working muscles use oxygen. A frog's muscles work hard when she jumps. What would you expect a frog to do with her breathing after many jumps?"
     }
    ]
   },
@@ -1382,8 +1383,9 @@
      "mins": 7,
      "context": "This is the last step of the chair challenge. You teach your moves.",
      "do": "1. Your child teaches the moves to an older person, or to you. 2. Afterwards, ask the questions below.",
-     "say": "Which move did they like best? Did any move make them breathe a little faster?",
-     "kid": "Teach your moves. Which one did they like best?",
+     "say": "Did any move make them breathe a little faster? Which move, and why?",
+     "kid": "Teach your moves. Did any move make them breathe faster? Which one?",
+     "parent": "Moves that use big muscles for longer, such as lifting the knees or raising both arms, are the most likely to make breathing faster. This links back to the Puff Count, where working muscles used more oxygen. If no move made them puff, that is a fair result for gentle chair moves.",
      "ask": [
       {
        "q": "What would you change next time?",
@@ -1697,7 +1699,7 @@
     },
     {
      "t": "perspective",
-     "p": "The second child and her brother the first child are talking about after school.",
+     "p": "Two children talk about after school. The first child is 6. The second child is his sister, aged 9.",
      "views": [
       {
        "who": "The first child, aged 6",
@@ -2270,5 +2272,5 @@
   "art": "A woman scientist in the 1970s at a desk with long strips of paper covered in wavy lines, and a sleeping child with small wires on their head in a room behind a glass window."
  },
  "playtest": "Walked through both games and every experiment as a parent and child in a flat. The Healthy Day Ladders board now lists all 30 squares, each with a small thing to do, and says how to finish and how ladders and slides work; the sleep matching game has a tie rule. The puff count and three moves tests only need a phone timer and some floor space, and the three moves test now says how to check that breathing is calm before each move. The rajma leaf project was lengthened to 14 days so the leaves open before the two night and two morning drawings, and it now says a small droop is a fair result. Repeated questions, a made-up name in a challenge, a missing card material, a weak joke and a repeated teenage sleep claim were removed, and every named child is introduced.",
- "warm": {"words": ["LUNGS", "HEART", "SLEEP", "BONES", "TIRED"], "quiz": [["Your body breathes faster when your muscles work hard.", true, "Working muscles use more oxygen, so you breathe in more air."], ["You breathe fast after running because your lungs are tired.", false, "You breathe fast because your muscles need more oxygen, not because your lungs are tired."], ["After you stop running, your breathing slowly gets back to normal.", true, "Muscles need less oxygen at rest, so breathing and heartbeat slow down. This is called recovery."], ["Your heart beats slower while you dance than while you sit.", false, "Your heart beats faster during exercise to push more blood to your working muscles."], ["Playing and running often can make your bones stronger.", true, "Regular exercise makes muscles, the heart and bones stronger."], ["A child of seven needs only four hours of sleep each night.", false, "Children of this age need about 9 to 12 hours of sleep every night."], ["Your body grows and repairs itself while you sleep.", true, "Sleep is a busy time for the body, even though you lie still."], ["Your heart is not a muscle, so exercise does nothing for it.", false, "The heart is a muscle, and regular exercise makes it stronger."], ["Muscles use oxygen to get energy out of the food you eat.", true, "Food stores energy, and oxygen helps the muscles let that energy out."], ["You should never play after a long day of sitting at school.", false, "Gentle play after a long day of sitting often makes children feel more awake and sleep better."]], "odd": [[["Skipping", "Dancing", "Climbing stairs", "Lying down"], "Lying down", "Skipping, dancing and climbing make muscles work hard; lying down is rest."], [["Heart", "Leg muscle", "Arm muscle", "Lungs"], "Lungs", "The heart, leg and arm are muscles that pull; lungs are soft parts that fill with air."], [["Muscles", "Heart", "Bones", "Hair"], "Hair", "Regular exercise makes muscles, the heart and bones stronger, but it does not make hair stronger."], [["Body grows", "Body repairs itself", "Brain sorts what you learned", "Heart stops"], "Heart stops", "The body grows, mends and sorts out learning during sleep; the heart keeps beating all night."], [["Breathing faster", "Heart beating faster", "Feeling warmer", "Heart beating slower"], "Heart beating slower", "Hard exercise speeds up breathing and heartbeat and warms you; a slower heartbeat comes with rest."]]}
+ "warm": {"words": ["LUNGS", "HEART", "SLEEP", "BONES", "TIRED"], "quiz": [["Your body breathes faster when your muscles work hard.", true, "Working muscles use more oxygen, so you breathe in more air."], ["You breathe fast after running because your lungs are tired.", false, "You breathe fast because your muscles need more oxygen, not because your lungs are tired."], ["After you stop running, your breathing slowly gets back to normal.", true, "Muscles need less oxygen at rest, so breathing and heartbeat slow down. This is called recovery."], ["Your heart beats slower while you dance than while you sit.", false, "Your heart beats faster during exercise to push more blood to your working muscles."], ["Playing and running often can make your bones stronger.", true, "Regular exercise makes muscles, the heart and bones stronger."], ["A child of seven needs only four hours of sleep each night.", false, "Children of this age need about 9 to 12 hours of sleep every night."], ["Your body grows and repairs itself while you sleep.", true, "Sleep is a busy time for the body, even though you lie still."], ["Your heart is not a muscle, so exercise does nothing for it.", false, "The heart is a muscle, and regular exercise makes it stronger."], ["Muscles use oxygen to get energy out of the food you eat.", true, "Food stores energy, and oxygen helps the muscles let that energy out."], ["You should never play after a long day of sitting at school.", false, "Gentle play after a long day of sitting often makes children feel more awake and sleep better."]], "odd": [[["Skipping", "Dancing", "Climbing stairs", "Lying down"], "Lying down", "Skipping, dancing and climbing make muscles work hard. Lying down is rest."], [["Heart", "Leg muscle", "Arm muscle", "Lungs"], "Lungs", "The heart, leg and arm are muscles that pull. Lungs are soft parts that fill with air."], [["Muscles", "Heart", "Bones", "Hair"], "Hair", "Regular exercise makes muscles, the heart and bones stronger, but it does not make hair stronger."], [["Body grows", "Body repairs itself", "Brain sorts what you learned", "Heart stops"], "Heart stops", "The body grows, mends and sorts out learning during sleep. The heart keeps beating all night."], [["Breathing faster", "Heart beating faster", "Feeling warmer", "Heart beating slower"], "Heart beating slower", "Hard exercise speeds up breathing and heartbeat and warms you. A slower heartbeat comes with rest."]]}
 }
