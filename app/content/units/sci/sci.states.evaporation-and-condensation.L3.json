@@ -274,7 +274,7 @@
    "hint": "A cold bottle from the fridge gets wet on the outside. Where does that water come from?"
   },
   {
-   "q": "A towel stays damp in a bathroom, but dries on a breezy balcony. Is 'dry' something a towel is, or something that happens between the towel and the air?",
+   "q": "A towel stays damp in a bathroom but dries on a breezy balcony. So is dry something the towel is, or does it depend on the air around it?",
    "kind": "deep",
    "hint": "In the Closed Box Test, the same cloth stayed wet in one box and dried once the lid came off."
   },
@@ -319,7 +319,7 @@
    "Why did the uniform stay wet inside the tied bag?",
    "How did Nila know that the drops inside the bag came from the uniform, and not from the rain?",
    "Why did the uniform dry under the fan, though it was still raining outside?",
-   "Paati gave Nila a clue instead of the answer. Why do you think she did that?"
+   "Paati said that the idli steamer lid has water on it, and the water is not gone. How is that like the drops inside the bag?"
   ],
   "art": [
    "A rainy balcony five floors up, with a school uniform hanging heavy on a line and a girl touching the sleeve.",
@@ -346,12 +346,12 @@
    {
     "source": "Tirukkural 17, in the chapter on the excellence of rain",
     "teaching": "Even the wide sea will lose its richness if the clouds take up its water and do not give it back as rain.",
-    "link": "The sea stays full because water that evaporates from it comes back as rain. Tiruvalluvar saw that the taking and the giving back must both go on, like the leaving and landing back in the closed box."
+    "link": "The sea stays full because the water that evaporates from it comes back as rain. Tiruvalluvar saw that water must be both taken and given back. In the same way, water in the closed box both left the cloth and landed back on it."
    },
    {
     "source": "Bhagavad Gita 2.16",
     "teaching": "What is not real never comes to be. What is real never stops being.",
-    "link": "The Gita says this about the true self. Science found something like it for water. A puddle seems to vanish into nothing, but its water still exists as vapour, and comes back when it is cooled."
+    "link": "The Gita says this about the true self, not about water. But something similar is true of water. A puddle seems to vanish into nothing, but its water still exists as vapour, and it comes back when the vapour is cooled."
    }
   ],
   "science": [
@@ -366,7 +366,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Particles leaving and landing back is simply what countless particles do when they move about at random. It is a useful fact about water. Reading a lesson about life or balance into it says more about us than about water."
+   "view": "Particles leaving and landing back is simply what huge numbers of moving particles do. It is a useful fact about water, and nothing more. Some people read a lesson about life or balance into it, but that lesson comes from the person and not from the water."
   },
   "practice": {
    "title": "Watch your breath come back",
@@ -539,9 +539,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about the hardest card.",
-     "say": "Which card was hardest? Why?",
-     "kid": "Which card was hardest? Why?",
+     "do": "Ask your child to pick one card that was hard to sort.",
+     "say": "Pick one card that was hard. What question can you ask about the water to tell evaporation from condensation?",
+     "kid": "Pick a card that was hard. What question tells you if it is evaporation or condensation?",
      "check": {
       "t": "mcq",
       "q": "A misty window in a bus on a rainy day. Is it evaporation or condensation?",
@@ -551,7 +551,8 @@
       ],
       "a": 1,
       "why": "The water vapour from people's breath and the damp air turns into drops on the window, which is cooled by the rain outside. Water is coming out of the air, so it is condensation."
-     }
+     },
+     "parent": "A good question is this one. Is the water leaving something wet and going into the air, which is evaporation? Or is it appearing on something cold, which is condensation?"
     }
    ]
   },
@@ -692,7 +693,7 @@
      "mins": 15,
      "do": "Play the game. When someone lands on a special square, ask why it helps or slows drying.",
      "say": "You landed on the plastic bag. Why does that send you back?",
-     "kid": "Answer the card. Roll. Move. Why does your square help or slow you?",
+     "kid": "Answer the question card, then roll the die and move. When you land on a special square, say why it helps or slows drying.",
      "ask": [
       {
        "q": "Why does the plastic bag square send you back?",
@@ -719,7 +720,8 @@
       ],
       "a": 1,
       "why": "Warmth makes water particles escape faster, and a balcony has moving air to carry the damp away. A heap traps damp air, and a rainy, still day has humid air."
-     }
+     },
+     "parent": "Good answers use the science. The fan carries the damp air away. The sunny balcony gives warmth. Spreading the cloth wide gives the water more surface to leave from."
     }
    ]
   }
@@ -813,7 +815,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These four words come up all through the unit."
+     "why": "Each of these four words is explained on a card in this unit. Using them makes it easier to talk about drying."
     },
     {
      "t": "sort",
@@ -1549,7 +1551,8 @@
       "why": "Warm bath water evaporates quickly, and the small closed bathroom keeps the vapour in. More water vapour hits the cold tumbler each second, so more condenses. 'The coldest room' mixes up the room with the tumbler: it is the tumbler that must be cold."
      }
     }
-   ]
+   ],
+   "problem": "You cannot see water vapour. But a cold steel tumbler can show you where it is. Water vapour in the air turns into drops when it touches the cold steel, so the tumbler goes misty. The more water vapour there is in the air, the faster the tumbler goes misty. In this experiment, you use a cold tumbler as a water vapour detector in different places in your home."
   }
  ],
  "activities": [
@@ -1769,7 +1772,8 @@
       "why": "Particles kept stepping off with every clap. The cloth stayed full because the same number stepped back on. That is what happened in the closed box."
      }
     }
-   ]
+   ],
+   "problem": "Water particles are far too small to see. So in this activity, you and your family act them out. Each person is one water particle on a wet cloth. You will see what happens when the particles can walk away, and what happens when they cannot."
   },
   {
    "id": "a4",
@@ -1947,9 +1951,9 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Count the E's and the C's.",
-     "say": "Which did we find more of? Was anything both?",
-     "kid": "Count your E's and C's. Was anything both?",
+     "do": "Count the E's and the C's. Then look for one thing that shows both.",
+     "say": "Look at your list. Can you find one thing that shows both evaporation and condensation?",
+     "kid": "Count your E's and C's. Can you find one thing that shows both?",
      "ask": [
       {
        "q": "Can one thing show both evaporation and condensation?",
@@ -2098,7 +2102,7 @@
    "creative": [
     "Hang it in a zigzag over a string, so no part touches another part.",
     "Hang it near an open window on the side the wind comes from, with another window open on the far side.",
-    "Washing machines spin clothes very fast, which throws water out before they are hung up. Can you think of a safe way to throw water out of the towel?"
+    "A washing machine spins clothes very fast, which throws most of the water out before they are hung up. You cannot spin a towel at home, but pressing it hard inside a dry towel gets out much of the same water."
    ],
    "your_turn": "Now invent your own way to dry the towel in 2 hours. Draw it, try it, and compare it with the folded control towel. Which idea dried the towel most?",
    "context": "This is an engineering challenge. You must dry a wet towel quickly on a rainy day, using what you know about drying.",
@@ -2168,7 +2172,7 @@
    "creative": [
     "Rub a tiny drop of liquid soap on one half and polish it until it looks clear. On that half, the condensed water spreads into a thin, flat layer you can see through, instead of tiny drops that scatter light.",
     "Swimmers rub a little soap on the inside of their goggles, so the goggles do not mist up.",
-    "Car drivers blow dry air or warm air onto a misty windscreen. How does dry air clear the mist? How does warm air clear it?"
+    "Car drivers blow dry air or warm air onto a misty windscreen. Dry air has little water vapour, so the drops on the glass can evaporate into it. Warm air heats the glass, so vapour stops condensing on it, and the drops evaporate faster."
    ],
    "your_turn": "Now invent your own way to keep the mirror clear. Test it against the untreated half. Did it work?",
    "context": "This is a design challenge. You try to stop condensation from misting up a mirror.",

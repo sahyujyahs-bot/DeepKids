@@ -310,7 +310,7 @@
    "hint": "Think about how long you watch. In one second, pitch acts like a solid. In ten years, it acts like a liquid."
   },
   {
-   "q": "Honey is thick, and warm honey is runny. If the same honey can be both, is 'thick' really part of what honey is?",
+   "q": "Honey is thick, but warm honey is runny. So is being thick really part of what honey is, or does it depend on how warm the honey is?",
    "kind": "deep",
    "hint": "Remember the syrup race. What changed between the two spoons of honey, and what stayed the same?"
   },
@@ -372,8 +372,8 @@
    "How could Nila and Arjun tell that each skater's foot made a dent in the water?",
    "Why did the dome on the coin spill so much sooner when Nila added soap?",
    "How did the skaters know where the fallen ant was?",
-   "Why did the skater rub their legs with their feet after Nila rescued them?",
-   "Arjun said soap is like a hole in the floor for a skater. Is that a good way to explain it? Why?"
+   "What happened to the skater's feet when they slid into the soapy foam, and why?",
+   "Arjun said that for a skater, soap is like a hole in the floor. What does he mean?"
   ],
   "art": [
    "Early morning at a South Indian temple tank, stone steps going down to green still water, lotus leaves in one corner, and two children crouching on the bottom step.",
@@ -1102,11 +1102,11 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Fill one spoon with water and one with honey. 2. Hold both about 10 centimetres above the plate. 3. Tip them at the same moment.",
-     "say": "Watch both spoons. Tell me everything you notice.",
+     "say": "Watch both spoons. Tell me everything you notice about how each liquid moves.",
      "kid": "Tip both spoons at the same time. Watch closely. What do you notice?",
      "ask": [
       {
-       "q": "What do you notice? What do you wonder?",
+       "q": "What do you notice about how each liquid moves?",
        "good": [
         "The water fell fast and splashed.",
         "The honey made a long thread.",
@@ -1534,7 +1534,8 @@
      "say": "Put the fastest at the top and the slowest at the bottom. Then tell everyone what you found.",
      "kid": "Draw a ladder. Fastest at the top. Slowest at the bottom. Explain it to your family.",
      "wait": "Do this on day 3",
-     "think": "Which liquids surprised you?"
+     "think": "Which liquid was thicker than you guessed? What could be in it that makes it thick?",
+     "parent": "Good answers name something in the liquid that could thicken it. For example, kanji is thick because of long starch particles from the rice, and sugar syrup is thick because of the sugar dissolved in it."
     }
    ],
    "setup": [
@@ -1639,7 +1640,7 @@
    "creative": [
     "Make the notch on one side, so the boat turns in circles.",
     "Try different shapes: long and thin, round, or a triangle.",
-    "Race two boats in two basins."
+    "Race two boats in two basins, one with a bigger notch than the other, and see which goes further."
    ],
    "your_turn": "Now design your own boat. Draw it, test it, and measure how far it goes.",
    "flow": [
@@ -1986,7 +1987,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These four words come up all through the unit."
+     "why": "Each of these four words is explained on a card in this unit. Using them makes it easier to talk about liquids."
     },
     {
      "t": "sort",
@@ -2503,7 +2504,7 @@
   "Can you see a dome of water on top of your full tumbler?",
   "Why do you think the cook warms the ghee before pouring it?",
   "If you were a water strider, what would you be most afraid of?",
-  "Is toothpaste a solid or a liquid? Why?",
+  "Ketchup stays in the bottle until you tap it. Why do you think tapping makes it flow?",
   "Why do raindrops sit in round blobs on a leaf?",
   "Where does the soapy water from your kitchen sink go?"
  ],
@@ -2839,7 +2840,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Viscosity is a number we measure, and the particle picture is a useful model of it. Honey flowing faster when warm is a fact about honey. It carries no lesson about stillness or change, and reading one into it says more about us than about honey."
+   "view": "Viscosity is a number we measure, and the particle picture is a useful model of it. Honey flowing faster when warm is a fact about honey, and nothing more. Some people read a lesson about stillness or change into it, but that lesson comes from the person and not from the honey."
   },
   "practice": {
    "title": "Slow as honey",
@@ -2848,9 +2849,9 @@
    "kid": "Watch the honey pour. Breathe in slowly as it stretches. Breathe out as it lands. Do it three times. What might be moving too slowly to see?"
   },
   "ask": [
-   "If the same honey can crawl or run, what is honey really like?",
+   "The same honey can crawl or run, depending on how warm it is. So is being thick a fixed part of honey, or does it change? How do you know?",
    "Pitch looks still but flows. What else around you might be moving too slowly to notice?",
-   "A water strider lives on a skin we cannot even see. What other worlds might be right in front of us that we never notice?"
+   "The water's skin is easy to miss, yet a water strider lives on it. Where have you seen the skin of water at home?"
   ],
   "art": "A child at a kitchen window at dawn, watching a slow rope of honey pour from a spoon, with a faint drawing in the sky of a glacier and a pitch drop funnel, and a water strider on a puddle on the windowsill."
  },

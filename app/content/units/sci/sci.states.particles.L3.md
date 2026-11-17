@@ -11,7 +11,7 @@
 2. I can show with a balance and by tasting that dissolved sugar is still there, and still weighs the same.
 3. I can run a fair test to find whether a lump, grains or powder of sugar dissolves fastest, and explain why.
 4. I can tell dissolving from melting, and give an example of each.
-5. I can tell how people found out that a dissolved thing is still there, and the old idea that it stops existing.
+5. I can tell how people found out that a dissolved thing is still there, and what the old idea was: that it stops existing.
 
 ## Terms
 - **Particle**: A very tiny piece that a material is made of. Particles are far too small to see, even with a magnifying glass. *e.g.* A single grain of sugar is made of a huge number of sugar particles, packed together.
@@ -63,13 +63,13 @@ Diffusion through water is very slow. Sugar left unstirred at the bottom of a ta
 - e.g. Unstirred sugar in tea makes the last sip the sweetest.
 - e.g. The smell of jasmine flowers spreads across a room in a few minutes, carried by moving air.
 ### What is inside a particle? · *idea*
-A sugar particle is made of 45 atoms joined together: 12 of carbon, 22 of hydrogen and 11 of oxygen. Atoms are made of even smaller particles. Physicists now describe those smallest particles as ripples in fields that fill all of space. Nobody knows yet whether there is anything deeper still. That is why this card says 'idea'.
+A sugar particle is made of 45 atoms joined together: 12 of carbon, 22 of hydrogen and 11 of oxygen. Atoms are made of even smaller particles. Physicists now think the smallest of these are not tiny balls. They describe each one as a small ripple in an invisible field that fills all of space, a little like a ripple on a pond is a small movement of the water. This is a hard idea, and nobody knows yet whether there is anything deeper still. That is why this card says 'idea'.
 - e.g. A water particle is made of 3 atoms: 2 of hydrogen and 1 of oxygen.
 - e.g. Sugar and the paper in a book are made of the same three kinds of atom, joined in different ways.
 
 ## Mostly agreed
 - Everything is made of particles far too small to see. *How we know:* Scientists first worked it out from how gases and dissolved things behave. Since the 1980s, special microscopes have made pictures of single atoms.
-- A dissolved substance is still there, as particles spread through the liquid. *How we know:* The solution tastes of it, weighs more by exactly its weight, and gives it back when the liquid dries up.
+- A dissolved substance is still there, as particles spread through the liquid. *How we know:* The solution tastes of the dissolved substance. It weighs more than the liquid alone by exactly the weight of that substance. When the liquid dries up, the substance is left behind.
 - In a closed container, the total weight stays the same through dissolving, melting and chemical changes. *How we know:* Chemists have weighed this carefully since the 1700s, and it has always held.
 - Crushing, stirring and warming make a solid dissolve faster. *How we know:* Anyone can test it at home with sugar or salt.
 
@@ -90,14 +90,14 @@ A sugar particle is made of 45 atoms joined together: 12 of carbon, 22 of hydrog
 - **Particles are not real. They are only a handy way of thinking.** (Some famous scientists around 1900, such as Wilhelm Ostwald and Ernst Mach; *rejected*)  
   For: Nobody had ever seen a particle, and some said science should talk only about what can be measured.  
   Against: Experiments around 1908 measured how particles bump into specks in water, and worked out their size. Ostwald changed his mind. Today, microscopes can make pictures of single atoms.
-- **Dissolved sugar weighs less, because it has become thin and spread out.** (A common guess before the balance test; *rejected*)  
+- **Dissolved sugar weighs less, because it has become thin and spread out.** (A common guess before the hanger balance test; *rejected*)  
   For: Spread out, the sugar seems lighter, like a cloud compared with a stone.  
   Against: Every particle is still in the bottle, and each one weighs just what it did. The balance stays level.
 
 ## Roots
 We have learned that sugar breaks into particles in water and is still all there. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Stirred into water, your sugar vanished, yet the balance stayed level and every sip tasted sweet. The sugar had come apart into separate particles, far too small to see. Each of those particles is still sugar. A heap of sugar is many sugar particles packed together, and water can spread them out.  
+**Deep truth.** In the hanger balance test, you dissolved sugar in a closed bottle of water and it vanished. Yet the balance stayed level and the water tasted sweet. The sugar had come apart into separate particles, far too small to see. Each of those particles is still sugar. A heap of sugar is many sugar particles packed together, and water can spread them out.  
 *Habit it breaks:* We think of sugar as the white grains in the dabba, so when the grains vanish we say the sugar is gone. But grains are only how sugar particles are packed. Spread out in water, it is all the same sugar.  
 *Evidence:* In the hanger balance test, bottle A weighed the same after the sugar vanished. Every sip from the stirred bottle tasted sweet. Ants went to the clear sugar water drop and left the plain one. Crushed sugar powder still tasted sweet.
 
@@ -108,7 +108,7 @@ We have learned that sugar breaks into particles in water and is still all there
 Before you stirred, the sugar was one heap you could hold in a spoon. In water it became countless particles spread through the whole bottle, and none was lost. Boil cane juice in a sugar mill, and the particles gather into grains again. The heap and the spread-out particles are the same sugar, arranged in two ways.
 
 - **Chandogya Upanishad 6.13:** Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning he asks for the salt, but Shvetaketu cannot find it. 'Taste the water from the top, the middle and the bottom,' says Uddalaka. Each time it is salty. 'You cannot see the salt, but it is there,' he says. 'In the same way, the finest essence is in everything, and you are that.' (This is the tasting test from your unit, told more than 2,000 years ago. Your test also showed something the story leaves out: unstirred, dissolved sugar stays mostly at the bottom, so the water must be stirred to taste the same everywhere.)
-- **Lucretius, On the Nature of Things, Book 1, about lines 265 to 328:** Lucretius, a Roman poet, said nature works through bodies too small to see. Wet clothes hung by the sea get damp, and dry again in the sun, but nobody sees the water come or go. A ring worn on a finger grows thinner over the years. (The camphor tablet and the drying clothes are the same kind of evidence. We see what particles do, not the particles themselves.)
+- **Lucretius, On the Nature of Things, Book 1, about lines 265 to 328:** Lucretius, a Roman poet, said nature works through bodies too small to see. He gave examples. Clothes hung by the sea get damp, and dry again in the sun, but nobody sees the water come or go. A ring worn on a finger slowly grows thinner over the years, though nobody sees any bits wear away. (The camphor tablet and the drying clothes are the same kind of evidence. We see what particles do, not the particles themselves.)
 - Science (settled): In a closed container, the total mass stays the same through dissolving, melting and chemical changes.
 - Science (open): Whether there is a smallest thing, with nothing smaller inside it, nobody knows.
 - Other view, Many chemists: The salt story in the Upanishad is a teaching about the self, not about chemistry. Dissolving shows only that sugar particles spread through water. It does not show that one hidden essence fills everything.
@@ -119,7 +119,7 @@ Before you stirred, the sugar was one heap you could hold in a spoon. In water i
 
 ## Deep and big questions
 - *deep:* If you keep crushing sugar into smaller and smaller pieces, is there a smallest piece that is still sugar? (hint: Scientists say yes: one sugar particle, a molecule. Break that, and you have atoms of carbon, hydrogen and oxygen, which are not sweet.)
-- *deep:* When the sugar spread through the water, was it one thing or many things? (hint: Think about the heap on the spoon, and then the same sugar spread out in every sip.)
+- *deep:* Before it dissolved, the sugar was one heap on a spoon. After it dissolved, it was spread through every sip. Is it still one thing, or has it become many things? (hint: Think about the heap on the spoon, and then the same sugar spread out in every sip.)
 - *big:* If something is too small for anyone to see, how can we be sure it is there? (hint: In this unit you used your tongue, a balance and some ants. What other ways can you think of?)
 - *big:* Ants found the sugar water and left the plain water alone. What else might be around us that other living beings notice and we do not? (hint: Think of a dog's nose, a bee's eyes, or a snake that senses warmth.)
 - *deep:* The particles in a stone floor never stop moving. So is anything really still? (hint: The floor looks still because its particles jiggle in place and do not go anywhere.)
@@ -130,7 +130,7 @@ Before you stirred, the sugar was one heap you could hold in a spoon. In water i
 
 Every summer holiday, Kavya helped at her Chithi's juice stall near the bus stand in Madurai. Chithi means aunt, and Kavya's Chithi was called Meenakshi. Her stall sold lemon juice, sugarcane juice and sweet lime juice. It had a steel counter, a big glass jar of lemons, and a tall bottle of thick, clear sugar syrup.
 
-Kavya was nine. Her job was to squeeze the lemons, pour in the syrup, fill the glass with cold water and hand it over. It was May, and the queue never ended. Bus drivers, students, a grandmother with a basket of jasmine flowers. Everyone was hot and thirsty.
+Kavya was nine. Her job was to squeeze the lemons, pour in the syrup, fill the glass with cold water and hand it over. It was May, and the queue never ended. There were bus drivers, students, and a grandmother with a basket of jasmine flowers. Everyone was hot and thirsty.
 
 That afternoon a bus conductor came to the counter. He wore a khaki uniform and a leather bag across his chest, and he looked tired. 'One lemon juice, please,' he said, 'and hurry, my bus leaves in five minutes.'
 
@@ -188,8 +188,8 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 
 ## Games
 ### g1 · Where Did It Go? a matching card game (15 min)
-- **rules:** Lay the 4 'Where it went' cards face up in a row.; Take out the camphor card for the practice round. Shuffle the other 15 'It disappeared' cards and make a pile with the story side up.; On your turn, take the top card and read it aloud.; Put it on the 'Where it went' card that fits. Then say what the thing broke into: grains, crumbs or particles.; Turn the card over to check. Right place: keep the card, 1 point. Say the word 'particles' in your reason: 1 more point.; Wrong place: the card is out of the game, and nobody keeps it.; Some cards can fit two places. If you can explain your choice, it counts as right.; When all 15 cards are used, count your points. The most points wins. A tie is a shared win.; Playing alone, try to keep all 15 cards with a 'particles' reason for each: 30 points.
-- **Printable cards: 16 'It disappeared' cards to cut out (the answer is on the back):** Lakshmi, a girl in Class 3, stirs sugar into her tea. The grains disappear. (back: Into water, a drink or food: the sugar spread through the tea.); Salt is stirred into the rasam. You can't see it any more. (back: Into water, a drink or food: the salt spread through the rasam.); Wet clothes hung on the balcony are dry by evening. (back: Into the air: the water became vapour.); A camphor tablet left on a plate gets smaller every day. (back: Into the air: camphor particles leave the tablet. (This is the practice card.)); A puddle on the terrace is gone by afternoon. (back: Into the air: the water became vapour.); Water in an open steel tumbler is lower after three days. (back: Into the air: the water became vapour.); A bar of soap gets thinner after a month of baths. (back: Into water, a drink or food: tiny bits of soap went into the bath water.); Kavya, a girl in Class 3, rubs out a pencil line. The line is gone. (back: Onto something it rubbed against: the eraser crumbs.); The soles of Arjun's chappals wear thin. Arjun is a boy in Class 3. (back: Onto something it rubbed against: the roads he walked on.); Meera, a girl in Class 3, sucks a piece of kalkandu until it is gone. (back: Into a living body: into her spit, then into her body.); An ice cube in a glass of water disappears. (back: Into water, a drink or food: it became more water.); A spoon of instant coffee powder vanishes in hot milk. (back: Into water, a drink or food: the coffee spread through the milk.); A drop of ink spreads until the whole tumbler of water is pale blue. (back: Into water, a drink or food: the ink spread through the water.); A drop of sugar syrup on the floor is gone by morning. Ants were nearby. (back: Into a living body: the ants ate it or carried it home.); Jaggery is stirred into water to make panakam. (back: Into water, a drink or food: the jaggery spread through the panakam.) [picture]; A wet handprint on the steel kitchen counter fades away. (back: Into the air: the water became vapour.)
+- **rules:** Lay the 4 'Where it went' cards face up in a row.; Take out the camphor card for the practice round. Shuffle the other 15 'It disappeared' cards and make a pile with the story side up.; On your turn, take the top card and read it aloud.; Put it on the 'Where it went' card that fits. Then say what the thing broke into: grains, crumbs or particles.; Turn the card over to check. If you put it in the right place, keep the card and score 1 point. If you also said the word 'particles' in your reason, score 1 more point.; If you put it in the wrong place, the card is out of the game and nobody keeps it.; Some cards can fit two places. If you can explain your choice, it counts as right.; When all 15 cards are used, count your points. The most points wins. A tie is a shared win.; If you play alone, try to keep all 15 cards and give a 'particles' reason for each one. That makes 30 points.
+- **Printable cards: 16 'It disappeared' cards to cut out (the answer is on the back):** Sugar is stirred into a cup of tea. The grains disappear. (back: Into water, a drink or food: the sugar spread through the tea.); Salt is stirred into the rasam. You can't see it any more. (back: Into water, a drink or food: the salt spread through the rasam.); Wet clothes hung on the balcony are dry by evening. (back: Into the air: the water became vapour.); A camphor tablet left on a plate gets smaller every day. (back: Into the air: camphor particles leave the tablet. (This is the practice card.)); A puddle on the terrace is gone by afternoon. (back: Into the air: the water became vapour.); Water in an open steel tumbler is lower after three days. (back: Into the air: the water became vapour.); A bar of soap gets thinner after a month of baths. (back: Into water, a drink or food: tiny bits of soap went into the bath water.); A pencil line is rubbed out with an eraser. The line is gone. (back: Onto something it rubbed against: the eraser crumbs.); The soles of a pair of chappals wear thin. (back: Onto something it rubbed against: the roads the chappals were worn on.); You suck a piece of kalkandu until it is gone. (back: Into a living body: into your spit, then into your body.); An ice cube in a glass of water disappears. (back: Into water, a drink or food: it became more water.); A spoon of instant coffee powder vanishes in hot milk. (back: Into water, a drink or food: the coffee spread through the milk.); A drop of ink spreads until the whole tumbler of water is pale blue. (back: Into water, a drink or food: the ink spread through the water.); A drop of sugar syrup on the floor is gone by morning. Ants were nearby. (back: Into a living body: the ants ate it or carried it home.); Jaggery is stirred into water to make panakam. (back: Into water, a drink or food: the jaggery spread through the panakam.) [picture]; A wet handprint on the steel kitchen counter fades away. (back: Into the air: the water became vapour.)
 - **Printable cards: 4 'Where it went' cards to cut out:** Into the air; Into water, a drink or food; Onto something it rubbed against; Into a living body
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Lay the 4 'Where it went' cards face up. 3. Take out the camphor card. Shuffle the other 15 cards and put them in a pile, story side up.  
@@ -227,7 +227,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   - Check: A 5 by 5 square has 25 beans. How many touch the water at the start? → **16**
 - **s3 (8 min)**  
   *Parent does:* 1. Take turns counting, rolling and taking beans. 2. On a 6, pull the grain apart into pieces.  
-  *Parent says:* Count the beans that touch the water. Roll. Take only beans that touch the water.  
+  *Parent says:* Count the beans that touch the water. Roll the dice. Take only beans that touch the water.  
   *Child mode:* Count the beans touching the water. Roll the dice. Take beans from the outside only. On a 6, pull your grain apart!
   - Note: Watch for the first 6. After the grain is pulled apart, every bean touches the water, so the next rolls take many more beans. That is what crushing does to real sugar.
 - **s4 (2 min)**  
@@ -251,7 +251,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s2 (6 min)**  
   *Parent does:* 1. Pour 1 small cup of water into each bottle and close the caps. Call them A and B. 2. Put 4 level teaspoons of sugar on a square of paper, and fold it into a packet. 3. Put bottle A and the sugar packet in the left bag. Put bottle B in the right bag.  
   *Parent says:* Bottle A has the sugar with it. So which side do you think goes down?  
-  *Child mode:* Fill both bottles with one cup of water. Close them. Fold the sugar into a paper packet. Put bottle A and the sugar on the left. Bottle B on the right.
+  *Child mode:* Fill both bottles with one cup of water. Close them. Fold the sugar into a paper packet. Put bottle A and the sugar on the left. Put bottle B on the right.
   - Note: Side A should go down, because it has the sugar too. 4 teaspoons of sugar weigh about 16 grams.
 - **s3 (5 min)**  
   *Parent does:* 1. Open bottle B and add water a teaspoon at a time. 2. After each spoon, close it and hang it back. 3. Stop when the straw points straight down again. 4. Draw a line on the paper where the straw tip is.  
@@ -283,7 +283,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s8 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things: what you think, what you saw, and why it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: dissolved sugar is still there. What I saw: the sugar vanished, but the balance stayed level, and the water tasted sweet. Why: the sugar broke into particles too small to see, and they spread through the water. Every particle was still in the bottle.
 ### e2 · Lump, Grains or Powder: which sugar dissolves first? (37 min)
 - **question:** Does the size of the pieces change how fast sugar dissolves?
@@ -298,23 +298,23 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   - Ask: Which will dissolve first, and why? (good: The powder, because its pieces are smallest.; The lump, because it is one piece.)
 - **s2 (3 min)**  
   *Parent does:* 1. Pour one small cup of water into each glass. 2. Measure 1 level teaspoon of each sugar. For the kalkandu, choose pieces that fill a teaspoon about as full as the sugar.  
-  *Parent says:* Same water, same glasses, about the same amount of sugar. Only the size of the pieces is different.  
+  *Parent says:* We use the same water, the same glasses and about the same amount of sugar. Only the size of the pieces is different.  
   *Child mode:* Pour one cup of water into each glass. Measure one teaspoon of each sugar.
   - Note: The kalkandu will not fill the spoon exactly. That is fine. If you have a kitchen scale, weigh about 4 grams of each instead.
 - **s3 (4 min)**  
   *Parent does:* 1. Tip the powdered sugar into glass 1 and start the timer. 2. Stir 5 times slowly every 30 seconds. 3. Stop the timer when no powder is left at the bottom. 4. Write the time.  
-  *Parent says:* Go! Five slow stirs every 30 seconds. Shout stop when you can't see any powder.  
+  *Parent says:* Go! Stir slowly five times every 30 seconds. Shout stop when you can't see any powder.  
   *Child mode:* Tip in the powder. Start the timer. Stir 5 times every 30 seconds. Shout stop when it is gone!
   - Note: Powdered sugar usually goes in well under a minute.
 - **s4 (4 min)**  
   *Parent does:* Do the same with the sugar grains in glass 2.  
-  *Parent says:* Same again with the ordinary grains. Five slow stirs every 30 seconds.  
-  *Child mode:* Now the grains. Same stirring. Shout stop when they are gone.
+  *Parent says:* Now do the same with the ordinary grains. Stir slowly five times every 30 seconds.  
+  *Child mode:* Now do the grains. Stir the same way. Shout stop when they are gone.
   - Note: Grains usually take 1 to 3 minutes. Look from the side, against a dark cloth, to see the last few.
 - **s5 (15 min)**  
   *Parent does:* 1. Do the same with the kalkandu in glass 3. 2. If pieces are still there after 15 minutes, stop and write 'more than 15 minutes'.  
   *Parent says:* Now the lump. This one may take a while. While we wait, watch the lump closely. Is it getting smaller from the outside, or from the middle?  
-  *Child mode:* Now the kalkandu. Same stirring. Watch the lump. Does it shrink from the outside or the middle?
+  *Child mode:* Now do the kalkandu. Stir the same way. Watch the lump. Does it shrink from the outside or the middle?
   - Ask: Is the lump shrinking from the outside or from the middle? (good: From the outside.; Its corners are getting round.)
   - Note: A pea-sized lump often takes 5 to 15 minutes. Its sharp corners go round first, because water reaches the corners from more sides.
 - **s6 (4 min)**  
@@ -323,19 +323,19 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   *Child mode:* Which was fastest? All three had the same sugar. Why did the powder win?
   - Check: Why did the powdered sugar dissolve first? → **Its tiny pieces have much more outside, so water can pull off many particles at once**
 - **s7 (2 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning.  
+  *Parent does:* Ask your child to say three things: what they think, what they saw, and why it happened.  
   *Parent says:* Tell me what you think, what you saw, and why.  
   *Child mode:* Say what you think, what you saw, and why.
   - Note: A good answer sounds like this. What I think: smaller pieces dissolve faster. What I saw: the powder went in 30 seconds, the grains in 2 minutes, the kalkandu in 12 minutes. Why: small pieces have more outside, and water pulls particles off the outside.
 
 ## Activities
 ### a1 · Where Did the Sugar Go? look, wonder and draw (10 min)
-- **record:** A drawing of what you think the sugar water looks like if you could zoom in very, very close.
+- **record:** Draw what you think the sugar water would look like if you could zoom in very, very close.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the glass on the table. 2. Let your child drop in the teaspoon of sugar and stir slowly. 3. Both of you watch until the grains are gone.  
-  *Parent says:* Drop the sugar in and stir slowly. Watch it closely. Tell me what you notice.  
+  *Parent says:* Drop the sugar in and stir slowly. Watch it closely. Tell me what you notice about the sugar as it disappears.  
   *Child mode:* Drop the sugar into the water. Stir slowly. Watch closely. What do you notice?
-  - Ask: What do you notice? What do you wonder? (good: The grains get smaller.; The water looks wobbly.; Where did it go?)
+  - Ask: What do you notice about the sugar as it disappears? (good: The grains get smaller.; The water looks wobbly.; Where did it go?)
 - **s2 (3 min)**  
   *Parent does:* Ask where the sugar went, and listen to the whole answer.  
   *Parent says:* Where do you think the sugar went? Why do you think so?  
@@ -343,8 +343,8 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   - Note: Common answers are 'it melted', 'it's gone' and 'it's hiding at the bottom'. Don't correct any of them yet. The experiments in this unit will test them. You will see a wobbly shimmer in the water while the sugar dissolves. That is sweet water bending light differently from plain water.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to draw what is in the water, as if they could zoom in very, very close.  
-  *Parent says:* Imagine you could shrink and swim in this water. What would you see? Draw it.  
-  *Child mode:* Imagine you are tiny, swimming in this glass. What would you see? Draw it.
+  *Parent says:* If you could shrink and swim in this water, what would you see? Draw it.  
+  *Child mode:* If you were tiny and swimming in this glass, what would you see? Draw it.
   - Note: Keep this drawing. At the end of the unit, your child can draw it again and compare.
   - Think: If you can't see the sugar, how could you find out if it is still there?
 ### a2 · Zoom In on a Grain: sugar, salt and kalkandu (15 min)
@@ -376,12 +376,12 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s2 (4 min)**  
   *Parent does:* 1. Dip a clean straw just under the surface. 2. Press a finger tight on the top of the straw and lift it out. 3. Let the drops fall onto a clean spoon. 4. Taste.  
   *Parent says:* This is water from the very top. Taste it. Sweet or plain?  
-  *Child mode:* Take a little water from the top with the straw trick. Taste it. Sweet or plain?
+  *Child mode:* Dip a straw just under the top of the water. Press a finger on the top of the straw and lift it out. Let the drops fall onto a spoon. Taste them. Sweet or plain?
   - Note: The straw trick: a finger pressed on the top end holds the water in the straw. Lift your finger and the water drops out. The top may taste very faintly sweet if pouring the sugar stirred the water a little. The bottom will still be much sweeter.
 - **s3 (4 min)**  
   *Parent does:* 1. Press a finger on the top of the second straw. 2. Push it straight down to the very bottom. 3. Lift your finger for one second, then press it down again. 4. Lift the straw out and let the drops fall onto the second spoon. 5. Taste.  
-  *Parent says:* Now from the very bottom. Keep your finger on until the straw is right at the bottom.  
-  *Child mode:* Finger on the straw. Push it to the bottom. Lift your finger, then press again. Taste the drops.
+  *Parent says:* Now take water from the very bottom. Keep your finger on the top of the straw until the straw is right at the bottom.  
+  *Child mode:* Press a finger on the top of the straw. Push it to the bottom. Lift your finger, then press again. Lift the straw out and taste the drops.
   - Check: After 30 minutes, the top tasted plain and the bottom tasted very sweet. What does this show? → **Sugar particles do spread by themselves, but very slowly**
 - **s4 (4 min)**  
   *Parent does:* Stir the glass 10 times. Then taste from the top again with a clean straw.  
@@ -395,7 +395,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s1 (4 min)**  
   *Parent does:* 1. Find a place where ants walk, such as a window sill, the kitchen platform edge or the balcony. 2. Put a drop of sugar water at one end of the card and a drop of plain water at the other. 3. Mark which is which with a pencil. 4. Lay the card near the ants' path.  
   *Parent says:* Both drops look the same. Will the ants be able to tell them apart? Why do you think so?  
-  *Child mode:* Put a sugar water drop at one end. Plain water at the other. They look the same. Can the ants tell?
+  *Child mode:* Put a drop of sugar water at one end of the card and a drop of plain water at the other. They look the same. Can the ants tell them apart?
   - Note: Ants need sugar for energy. A colony has many mouths to feed, so ants search all the time and lead each other to good food. If no ants come in 30 minutes, that is not a result: try near the bottom of a balcony wall or a potted plant, or try again another day.
   - Wait: Check after 15 minutes, and again after 30 minutes
 - **s2 (4 min)**  
@@ -404,16 +404,16 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   *Child mode:* Count the ants at each drop. Which one did they choose?
   - Check: Suppose the ants gather at the sugar water drop and leave the plain water alone. How did they find it? → **They sensed the sugar particles with their antennae**
 - **s3 (2 min)**  
-  *Parent does:* Wipe the card and the sill clean with a wet cloth.  
+  *Parent does:* Wipe the card and the place where it lay clean with a wet cloth.  
   *Parent says:* The ants found sugar that our eyes could not see. Let's clean up so they don't follow it indoors.  
   *Child mode:* The ants found the hidden sugar! Now wipe the drops away.
-  - Think: What else might ants notice that we can't?
+  - Think: The ants found sugar that we could not see. What did they use to find it?
 
 ## Projects
 ### p1 · The Shrinking Camphor: a 7-day watch (40 min, 7 days)
 - **safety:** Camphor is poisonous if swallowed. A grown-up handles the tablets and keeps them out of reach of small children. Never light the camphor for this project. Wash your hands after touching it.
 - **record:** One sheet with the outlines of the open tablet on days 1, 3, 5 and 7, one inside the other, and the jar tablet on days 1 and 7.
-- **schedule:** day 1: Trace both tablets. Put one on an open saucer and one in a closed jar, side by side, high up out of reach. (10 min); day 3: Trace the open tablet again on the same paper. Sniff the air near the saucer. (5 min); day 5: Trace the open tablet again. Look at the jar one without opening it. (5 min); day 7: Trace both tablets. Open the jar and sniff. Compare the two, and explain what happened. (20 min)
+- **schedule:** day 1: Trace both tablets. Put one on an open saucer and one in a closed jar, side by side, high up out of reach. (10 min); day 3: Trace the open tablet again on the same paper. Sniff the air near the saucer. (5 min); day 5: Trace the open tablet again. Look at the tablet in the jar without opening the jar. (5 min); day 7: Trace both tablets. Open the jar and sniff. Compare the two, and explain what happened. (20 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Put both tablets on the paper and trace round each one. Write 'Day 1'. 2. Put one tablet on the saucer. 3. Put the other in the jar and close the lid. 4. Put both on a high shelf, side by side.  
   *Parent says:* Camphor is a solid. We will watch two tablets for a week: one in the open air, and one shut in a jar. Will either of them change? Why do you think so?  
@@ -427,7 +427,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* On day 7, trace both tablets. Then open the jar and sniff, holding it a little away from your nose.  
   *Parent says:* Compare the two tablets. Then smell inside the jar. Where did the missing camphor from the open tablet go? How do you know?  
-  *Child mode:* Trace both. Open the jar and sniff, not too close. Where did the open tablet's camphor go?
+  *Child mode:* Trace both tablets. Open the jar and sniff, not too close. Where did the open tablet's camphor go?
   - Ask: Where did the missing camphor from the open tablet go? How do you know? (good: Into the air, as camphor particles.; We could smell it in the room, and the saucer stayed dry.)
 - **s4 (10 min)**  
   *Parent does:* Talk about why the jar tablet hardly changed.  
@@ -441,8 +441,8 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **problem:** A friend says the glass of sugar water on the table is just water, because he can't see any sugar. He won't taste it, because he says that's cheating. Find a way to show the sugar is there, without anyone tasting it.
 - **your turn:** Now invent your own test. Draw it, try it, and show your friend the result.
 - **constraints:** Nobody may taste the water.; You may use only things from home.; Your test must work with a glass that looks exactly like plain water.
-- **general:** Weigh it, if you have a kitchen scale. Put two same glasses on the scale one at a time, each filled to the same mark, one with each water. The sugar water reads a little more, by a few grams. Fill carefully, or the difference is lost.; Let it dry. Put a few drops of each on a steel plate in a sunny window. The plain water dries to almost nothing. The sugar water dries to a sticky patch.; Rub a drop of each between your finger and thumb, then let it dry. Sugar water makes your fingers sticky.
-- **creative:** Paint a few lines with each water on black paper with a brush. When dry, the sugar lines may shine and feel stiff.; Dip a strip of kitchen paper in each water and let both dry. The sugar strip feels stiffer.; Ask a grown-up to boil a few spoons of each in a small pan until almost dry. The sugar water leaves a sticky, brownish syrup at the bottom.
+- **general:** Weigh it, if you have a kitchen scale. Take two glasses of the same kind. Fill each to the same mark, one with sugar water and one with plain water. Put them on the scale one at a time. The sugar water weighs a few grams more. Fill both glasses carefully to exactly the same mark, because a small mistake in the amount of water can hide that difference.; Let it dry. Put a few drops of each on a steel plate in a sunny window. The plain water dries to almost nothing. The sugar water dries to a sticky patch.; Rub a drop of each between your finger and thumb, then let it dry. Sugar water makes your fingers sticky.
+- **creative:** With a brush, paint a few lines of each water on black paper. When the lines dry, the sugar lines may shine and feel stiff.; Dip a strip of kitchen paper in each water and let both dry. The sugar strip feels stiffer.; Ask a grown-up to boil a few spoons of each in a small pan until almost dry. The sugar water leaves a sticky, brownish syrup at the bottom.
 - **s1 (5 min)**  
   *Parent does:* 1. Set out a glass of sugar water and a glass of plain water. 2. Read the problem aloud.  
   *Parent says:* A friend says this is just water, and he won't let anyone taste it. How could we show him the sugar is there?  
@@ -451,7 +451,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
   *Parent does:* 1. Try two of the usual ideas. 2. Then try one of the creative ideas, or your own.  
   *Parent says:* Pick two ways to try. Which shows the sugar most clearly?  
   *Child mode:* Pick two tests and try them. Which one shows the sugar best?
-  - Note: Boiling down needs a grown-up at the stove. Start the drying test first, on a steel plate in a sunny window. It may take an hour or more, so look at it again at the end, or later in the day.
+  - Note: The boiling test needs a grown-up at the stove. Start the drying test first, on a steel plate in a sunny window. It may take an hour or more, so look at it again at the end, or later in the day.
 - **s3 (5 min)**  
   *Parent does:* Ask your child to explain their best test, as if to the friend.  
   *Parent says:* Explain to your friend why your test shows the sugar is there.  
@@ -465,8 +465,8 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - **creative:** Put crushed jaggery and water in a closed bottle and shake it hard.; Wrap the jaggery in a clean cloth and pound it with a rolling pin, then drop the cloth bundle in the water and squeeze it.; Ask a grown-up to chop the block into small cubes with a knife before you start.
 - **s1 (5 min)**  
   *Parent does:* 1. Show your child the jaggery block. 2. Read the problem aloud. 3. Ask them to plan before touching anything.  
-  *Parent says:* Think about the sugar race. What made the sugar dissolve fastest? How can we use that for the jaggery?  
-  *Child mode:* Look at the jaggery block. Remember the sugar race. What made sugar dissolve fastest? Make a plan.
+  *Parent says:* Think about the Lump, Grains or Powder race, where you timed three kinds of sugar. What made the sugar dissolve fastest? How can we use that for the jaggery?  
+  *Child mode:* Look at the jaggery block. Remember the Lump, Grains or Powder race. What made the sugar dissolve fastest? Make a plan.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Crush or grate the jaggery. 2. Start the timer. 3. Add it to the water and stir, following your plan.  
   *Parent says:* Start the timer. Let's see if your plan beats 10 minutes.  
@@ -480,7 +480,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 
 ## Worksheets
 ### Where Did the Sugar Go? (core) (core, 15 questions)
-1. (mcq) Lakshmi, a girl in Class 3, drops a spoon of salt into a glass of water and stirs. The salt disappears. Which word says what happened?  
+1. (mcq) You drop a spoon of salt into a glass of water and stir. The salt disappears. Which word says what happened?  
    Options: The salt melted / The salt dissolved / The salt evaporated  
    **Answer:** The salt dissolved. *Why:* Salt breaking up in water and spreading through it is dissolving. Melting needs heat. Evaporating is a liquid going into the air.
 2. (mcq) Which of these is made of particles?  
@@ -506,7 +506,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 10. (fill) Sugar dissolves faster when it is crushed, when it is ____, and when the water is warm.  
    **Answer:** ['stirred']. *Why:* Stirring carries the sweet water away from the sugar, so fresh water can reach it.
 11. (match) Match each word to what it means.  
-   **Answer:** Particle → a very tiny piece that things are made of; Dissolve → break up and spread through a liquid; Melt → turn liquid because of heat; Crystal → a solid with particles in neat rows. *Why:* These four words come up all through the unit.
+   **Answer:** Particle → a very tiny piece that things are made of; Dissolve → break up and spread through a liquid; Melt → turn liquid because of heat; Crystal → a solid with particles in neat rows. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about particles.
 12. (sort) Sort these. Is it dissolving or melting?  
    **Answer:** sugar in lemon juice → Dissolving; ice on a hot day → Melting; salt in sambar → Dissolving; butter in a hot pan → Melting; jaggery in water → Dissolving; a candle near a flame → Melting. *Why:* Dissolving needs a liquid to break the solid up. Melting needs heat, and nothing else.
 13. (write) A friend says the sugar in her tea has disappeared. How could she find out if it is still there? Give one way.  
@@ -519,7 +519,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 1. (mcq) Why does a lump of kalkandu dissolve more slowly than the same amount of powdered sugar?  
    Options: Kalkandu is not real sugar / The lump has much less outside for the water to reach / The lump is colder  
    **Answer:** The lump has much less outside for the water to reach. *Why:* Water pulls particles off the outside only. A lump has little outside compared with powder. Picking 'not real sugar' misses that kalkandu is crystals of ordinary sugar.
-2. (mcq) In the kalkandu race, why did we use water from one jug for all three glasses?  
+2. (mcq) In the Lump, Grains or Powder race, why did we use water from one jug for all three glasses?  
    Options: So all the water was the same warmth / So it would taste better / Because one jug is enough  
    **Answer:** So all the water was the same warmth. *Why:* Warm water dissolves sugar faster. Water from one jug is all the same warmth, so only the size of the sugar pieces changed.
 3. (mcq) Which of these shows that particles move by themselves?  
@@ -543,7 +543,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
    **Answer:** crushing the sugar into powder → Dissolves faster; stirring the water → Dissolves faster; using warmer water → Dissolves faster; using a blue glass instead of a clear one → No difference; saying 'dissolve!' loudly → No difference; counting the stirs out loud → No difference. *Why:* Smaller pieces, stirring and warmth change how fast particles leave the sugar. The colour of the glass or words said over it change nothing.
 11. (write) Explain to a younger child why crushing jaggery helps it dissolve faster. Use the word 'outside'.  
    **Answer:** Water can only pull bits off the outside of a piece. When you crush the jaggery, there are many small pieces with lots more outside, so it dissolves faster.. *Why:* A strong answer says water works on the outside, and crushing makes more outside.
-12. (write) In the tall glass test, the top tasted plain and the bottom tasted sweet. What would you expect if you left the glass for a whole week without stirring? Why?  
+12. (write) In Sweet at the Bottom, sugar was left at the bottom of a tall glass without stirring. After 30 minutes the top tasted plain and the bottom tasted sweet. What would you expect if you left the glass for a whole week without stirring? Why?  
    **Answer:** The top would slowly get sweeter, because sugar particles keep moving and spread out bit by bit.. *Why:* A strong answer says the particles keep moving and slowly spread, even with no stirring.
 13. (write) Ants found the sugar water drop, though it looked exactly like the plain water drop. Why is this good evidence that the sugar was still there?  
    **Answer:** The ants sense sugar with their antennae, and they only went to one drop. So that drop really had sugar in it, even though we couldn't see it.. *Why:* A strong answer says the ants could tell the drops apart, so something real was different.
@@ -552,10 +552,10 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 15. (perspective) Divya and her grandmother Kamala disagree about the sugar in Kamala's coffee.  
    **Answer:** A strong answer agrees with Kamala for drinking now, using the tall glass test, where the top stayed plain after 30 minutes. It also says Divya is right that particles move by themselves, but the spreading is far too slow for a cup of coffee.. *Why:* Both have a point. Particles do spread by themselves, as Divya says. But it takes days, so Kamala's stirring is what makes the first sip sweet.
 ### Prove It With Particles (challenge) (challenge, 15 questions)
-1. (mcq) Nila, a girl in Class 3, puts a camphor tablet in an empty jar, closes the lid tight, and weighs the jar every day for a week. What happens to the weight of the closed jar?  
+1. (mcq) You put a camphor tablet in an empty jar, close the lid tight, and weigh the jar every day for a week. What happens to the weight of the closed jar?  
    Options: It goes down / It stays the same / It goes up  
    **Answer:** It stays the same. *Why:* Some camphor particles leave the tablet, but they stay in the air inside the closed jar. Nothing escapes, so the total weight stays the same.
-2. (mcq) Anand, a boy in Class 3, puts 4 teaspoons of sugar into a full glass of water. Will the water spill over the top?  
+2. (mcq) You put 4 teaspoons of sugar into a full glass of water. Will the water spill over the top?  
    Options: No, the sugar takes up no space at all / A little may spill, because the sugar particles still take up some space / It will spill a whole cupful  
    **Answer:** A little may spill, because the sugar particles still take up some space. *Why:* Sugar particles are still there, so they take up some room. The level rises a little. A heap of sugar on a spoon also has air between the grains, so the rise is less than the size of the heap.
 3. (mcq) Which test would best show that dissolved salt is still in water, without tasting?  
@@ -570,22 +570,22 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
    **Answer:** ['mass']. *Why:* Mass means how much stuff there is. It is never lost, only moved or changed.
 7. (order) Put these in order, from the slowest to dissolve to the fastest.  
    **Answer:** ['A kalkandu lump in cold water, not stirred', 'Sugar grains in cold water, stirred', 'Powdered sugar in warm water, stirred']. *Why:* Big pieces, cold water and no stirring are slowest. Small pieces, warm water and stirring are fastest.
-8. (write) Ravi, a boy in Class 3, did the hanger balance test, but he did not put the empty sugar paper back in the bag. Side A went up a tiny bit. He says, 'Dissolved sugar weighs less!' What went wrong?  
-   **Answer:** He took the paper out, so side A lost the paper's weight. That is why it went up. To be fair, everything that was on side A before must go back.. *Why:* A strong answer spots that the test was not fair: something was taken away.
+8. (write) Someone did the hanger balance test, but did not put the empty sugar paper back in the bag. Side A went up a tiny bit. They said, 'Dissolved sugar weighs less!' What went wrong?  
+   **Answer:** The paper was left out, so side A lost the paper's weight. That is why it went up. To be fair, everything that was on side A before must go back.. *Why:* A strong answer spots that the test was not fair: something was taken away.
 9. (write) Sugar dissolves in water, but sand does not. What do you think is different about how water particles treat sugar particles and sand particles?  
-   **Answer:** Water particles attract sugar particles strongly enough to pull them off the grain. Sand particles hold on to each other more tightly than water can pull, so they stay together.. *Why:* A strong answer says dissolving depends on a pull between the water and the solid, and is a good guess, even if not every detail is known.
+   **Answer:** Water particles attract sugar particles strongly enough to pull them off the grain. Sand particles hold on to each other more tightly than water can pull, so they stay together.. *Why:* A strong answer says dissolving depends on a pull between the water and the solid. Any good guess counts, even if not every detail is known.
 10. (write) Your body gets energy from a sugar called glucose, carried in your blood. Why is it useful that this sugar is dissolved, and not in grains?  
    **Answer:** Dissolved sugar is spread out as tiny particles, so the blood can carry it everywhere and it can get into every cell. Grains would be too big and would block thin tubes.. *Why:* A strong answer links dissolving to how easily tiny particles can travel and get into cells.
 11. (write) A grain of sugar holds roughly a million million million particles. Why does it still look like one solid grain, and not a cloud of dots?  
    **Answer:** The particles are packed tightly and hold on to each other in neat rows. They are far too small for our eyes to see one by one, so we only see the whole grain.. *Why:* A strong answer mentions that the particles are packed close and are too small to see apart.
 12. (write) You want to find out if warm water makes sugar dissolve faster. Plan a fair test. Say what you change and what you keep the same.  
    **Answer:** Change only the warmth of the water: one glass of cool water and one of warm water. Keep the same glass, the same amount of water, the same amount and kind of sugar, and the same stirring. Time how long each takes.. *Why:* A strong answer changes one thing, the warmth, and names several things kept the same.
-13. (write) In the camphor project, the jar tablet hardly shrank. Arjun, a boy in Class 3, says this shows camphor in the jar stopped moving. Is he right? Explain.  
+13. (write) In the camphor project, the tablet in the closed jar hardly shrank. Someone says this shows the camphor in the jar stopped moving. Is that right? Explain.  
    **Answer:** No. The camphor particles in the jar keep leaving the tablet, but just as many land back on it, because they can't escape. So the tablet stays the same size, even though its particles are moving all the time.. *Why:* A strong answer separates 'nothing changes that we can see' from 'nothing is moving'.
 14. (draw) Draw the hanger balance three times: with the sugar packet beside bottle A, with the packet lifted out, and after the sugar dissolved. Show the straw each time.  
-   **Answer:** First drawing: straw at the line. Second: side A higher, straw swung. Third: straw back at the line.. *Why:* A strong drawing shows that the balance could feel the sugar, and that dissolving did not change the weight.
+   **Answer:** First drawing: the straw is at the line. Second drawing: side A is higher and the straw has swung away from the line. Third drawing: the straw is back at the line.. *Why:* A strong drawing shows that the balance could feel the sugar, and that dissolving did not change the weight.
 15. (perspective) Three people talk about how we know particles are real.  
-   **Answer:** A strong answer picks one view with a reason, for example Sennert's, because getting the silver back is strong evidence even without seeing. It also says what another view gets right, for example that Ostwald was right to ask for evidence, and he did change his mind when it came.. *Why:* Each view has a point. Ostwald asked for evidence, Sennert found indirect evidence, and Revathi shows both seeing and testing count.
+   **Answer:** A strong answer picks one view with a reason, for example Sennert's, because getting the silver back is strong evidence even without seeing. It also says what another view gets right, for example that Ostwald was right to ask for evidence, and he did change his mind when it came.. *Why:* Each view has a point. Ostwald asked for evidence, Sennert found indirect evidence, and the chemist today shows that both seeing and testing count.
 
 ## Videos
 - **Part(icles) of Your World: Crash Course Kids #3.2** (Crash Course Kids, 5 min) id `npv74D2MO6Q`: A short, lively explanation for children that everything is made of particles too small to see. *Check:* A parent should preview it first.
@@ -595,11 +595,11 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 ## Quiz
 1. (mcq) What is everything around you made of?  
    Options: Particles only in solids, not in water or air / Particles far too small to see, in solids, liquids and gases / Grains you can see with a magnifying glass  
-   **Answer:** Particles far too small to see, in solids, liquids and gases. *Why:* Solids, liquids and gases are all made of particles far too small to see. Picking the first means thinking water and air are smooth all the way down, with no pieces. Picking the last confuses grains, which are huge heaps of particles, with particles.
-2. (mcq) Kavya, a girl in Class 3, stirs sugar into water and the grains disappear. Where is the sugar now?  
+   **Answer:** Particles far too small to see, in solids, liquids and gases. *Why:* Solids, liquids and gases are all made of particles far too small to see. Picking 'only in solids' means thinking water and air are smooth all the way down, with no pieces. Picking 'grains you can see' confuses grains, which are huge heaps of particles, with particles.
+2. (mcq) You stir sugar into water and the grains disappear. Where is the sugar now?  
    Options: It has been destroyed / Spread through the water as tiny sugar particles / It has turned into water  
    **Answer:** Spread through the water as tiny sugar particles. *Why:* The sugar broke into particles too small to see, and they spread among the water particles. Picking 'destroyed' is the most common guess, because we trust our eyes. Picking 'turned into water' misses that the water tastes sweet: the sugar is still sugar.
-3. (mcq) On a kitchen scale, a closed bottle of water and a packet of sugar weigh 120 grams together. Riya, a girl in Class 3, pours the sugar into the bottle, closes it and shakes it until the sugar is gone. She puts the bottle and the empty packet back on the scale. What does the scale show?  
+3. (mcq) On a kitchen scale, a closed bottle of water and a packet of sugar weigh 120 grams together. You pour the sugar into the bottle, close it and shake it until the sugar is gone. You put the bottle and the empty packet back on the scale. What does the scale show?  
    Options: Less than 120 grams / 120 grams / More than 120 grams  
    **Answer:** 120 grams. *Why:* Every sugar particle is still in the bottle, so the weight stays the same. Picking 'less' means thinking dissolved sugar weighs nothing. Picking 'more' is a guess that sugar water is heavier than water and sugar apart, but nothing was added.
 4. (mcq) In the hanger balance test, why did we first lift the sugar packet out of the bag and watch the straw?  
@@ -608,18 +608,18 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 5. (mcq) Which dissolves fastest in a glass of water?  
    Options: A lump of kalkandu / Ordinary sugar grains / Powdered sugar  
    **Answer:** Powdered sugar. *Why:* Powder has the most outside, so water can pull off many particles at once. Picking kalkandu means thinking a bigger piece holds more and so goes faster, but it has the least outside.
-6. (mcq) Meera, a girl in Class 3, wants to test whether stirring makes sugar dissolve faster. What should she keep the same?  
+6. (mcq) You want to test whether stirring makes sugar dissolve faster. What should you keep the same?  
    Options: Nothing, it doesn't matter / The water, the glass and the amount of sugar / Only the glass  
-   **Answer:** The water, the glass and the amount of sugar. *Why:* In a fair test only one thing changes, here the stirring. Everything else stays the same, so she knows the stirring made the difference.
+   **Answer:** The water, the glass and the amount of sugar. *Why:* In a fair test only one thing changes, here the stirring. Everything else stays the same, so you know the stirring made the difference.
 7. (mcq) Which of these is melting, not dissolving?  
    Options: Salt disappearing in rasam / Ghee turning runny in a warm pan / Sugar disappearing in cold milk  
    **Answer:** Ghee turning runny in a warm pan. *Why:* Ghee turns liquid because it is heated, with nothing else added. That is melting. Salt in rasam and sugar in cold milk are dissolving: they break up in a liquid, with no heat needed.
-8. (mcq) Arjun, a boy in Class 3, says, 'Sugar melts in tea because the tea is hot.' What is wrong with this?  
-   Options: Nothing, he is right / Sugar dissolves even in cold water, so it is dissolving, not melting / Sugar never goes into tea  
+8. (mcq) Someone says, 'Sugar melts in tea because the tea is hot.' What is wrong with this?  
+   Options: Nothing, it is right / Sugar dissolves even in cold water, so it is dissolving, not melting / Sugar never goes into tea  
    **Answer:** Sugar dissolves even in cold water, so it is dissolving, not melting. *Why:* Sugar dissolves in ice-cold water too. Melting sugar needs a dry pan at about 186 degrees Celsius. Hot tea only makes dissolving faster.
-9. (mcq) Long ago, many teachers said that when two things truly mix, each stops being itself. What did Daniel Sennert, a doctor in the 1600s, do to show this was wrong?  
-   Options: He dissolved silver in a strong acid and got the same silver back / He looked at silver particles with a microscope / He weighed the air  
-   **Answer:** He dissolved silver in a strong acid and got the same silver back. *Why:* If the silver had stopped existing, he could not have got it back. So it must have been there all along, as tiny particles. Microscopes of his time could not show particles.
+9. (mcq) Some people once said that when silver dissolves in a strong acid, the silver stops existing. Which result would show they were wrong?  
+   Options: Getting the same silver back out of the acid / Seeing nothing in the acid / Weighing the air  
+   **Answer:** Getting the same silver back out of the acid. *Why:* If the silver had stopped existing, nobody could get it back. So it must have been there all along, as tiny particles. A doctor called Daniel Sennert did this in the 1600s.
 10. (mcq) Sugar was left at the bottom of a tall glass with no stirring. After 30 minutes, how did the top taste?  
    Options: Plain, because sugar particles spread very slowly by themselves / Very sweet, because sugar rises / Salty  
    **Answer:** Plain, because sugar particles spread very slowly by themselves. *Why:* Sugar particles do move by themselves, but through water this spreading is very slow. It could take days to reach the top. Picking 'sugar rises' is a fair guess, but sweet water is heavier, so it stays at the bottom.
@@ -647,7 +647,7 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 
 ## Open questions
 - **Is there a smallest thing, with nothing smaller inside it?** Sugar particles are made of atoms, and atoms of smaller particles. Physicists do not know if there is a last, smallest level.
-- **Why do some things dissolve in water and others not, exactly?** Chemists understand the main reasons, but working out from scratch how much of a new substance will dissolve is still very hard. They often have to test it.
+- **Exactly why do some things dissolve in water and others do not?** Chemists understand the main reasons, but working out from scratch how much of a new substance will dissolve is still very hard. They often have to test it.
 - **What happens at the very moment a single particle leaves a crystal?** It happens in far less than a millionth of a second. Scientists study it with computer models, and they are still learning the details.
 - **How do ants tell sugar from other things so quickly with their antennae?** Scientists know ants have many sensing cells on their antennae, but how an ant puts the signals together to choose food is still being studied.
 
@@ -673,9 +673,9 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 - Why did the jaggery block stay so calm in the water? *It knew it would dissolve its problems eventually.*
 
 ## Connected maths
-- Divya, a girl in Class 3, has a kitchen scale. Her bottle of water weighs 115 grams. Her packet of sugar weighs 16 grams. She dissolves the sugar in the bottle and puts the empty packet on the scale too. What will the scale show? Explain how you know before she weighs it. **131 grams.**. Before: 115 + 16 = 131 grams. When the sugar dissolves, every sugar particle is still in the bottle, and the paper is still on the scale. Nothing is added or taken away, so the scale still shows 131 grams. (queues `math.weight-capacity.weight.L3`)
-- Arjun, a boy in Class 3, races three kinds of sugar. His sugar grains took 2 minutes to dissolve and his kalkandu lump took 12 minutes. How many times as long did the lump take? **6 times as long.**. 12 divided by 2 is 6. Check: 2 + 2 + 2 + 2 + 2 + 2 = 12. So the lump took 6 times as long as the grains, though both were one teaspoon of the same sugar. (queues `math.division.sharing-and-grouping.L3`)
-- Nila, a girl in Class 3, traces her open camphor tablet. It was 20 millimetres wide on day 1, 17 millimetres on day 3, and 14 millimetres on day 5. If it keeps shrinking the same way, how wide will it be on day 7? On which day will it be about 5 millimetres wide? **11 millimetres on day 7. About 5 millimetres on day 11.**. It loses 3 millimetres every 2 days: 20, 17, 14. So day 7 is 14 - 3 = 11. Then day 9 is 8, and day 11 is 5. A real tablet may not shrink at exactly the same rate, so this is a prediction to test. (queues `math.patterns.number-patterns.L3`)
+- On a kitchen scale, a bottle of water weighs 115 grams and a packet of sugar weighs 16 grams. You dissolve the sugar in the bottle, then put the bottle and the empty packet on the scale together. What will the scale show? Explain how you know before you weigh it. **131 grams.**. Before: 115 + 16 = 131 grams. When the sugar dissolves, every sugar particle is still in the bottle, and the paper is still on the scale. Nothing is added or taken away, so the scale still shows 131 grams. (queues `math.weight-capacity.weight.L3`)
+- In a sugar race, the sugar grains took 2 minutes to dissolve and the kalkandu lump took 12 minutes. How many times as long did the lump take? **6 times as long.**. 12 divided by 2 is 6. Check: 2 + 2 + 2 + 2 + 2 + 2 = 12. So the lump took 6 times as long as the grains, though both were one teaspoon of the same sugar. (queues `math.division.sharing-and-grouping.L3`)
+- An open camphor tablet was 20 millimetres wide on day 1, 17 millimetres on day 3, and 14 millimetres on day 5. If it keeps shrinking the same way, how wide will it be on day 7? On which day will it be about 5 millimetres wide? **11 millimetres on day 7. About 5 millimetres on day 11.**. It loses 3 millimetres every 2 days: 20, 17, 14. So day 7 is 14 - 3 = 11. Then day 9 is 8, and day 11 is 5. A real tablet may not shrink at exactly the same rate, so this is a prediction to test. (queues `math.patterns.number-patterns.L3`)
 - Each glass of panakam needs 3 tablespoons of grated jaggery. A family wants 6 glasses. How many tablespoons of jaggery do you need? If you crush it into small pieces, does the amount change? **18 tablespoons. Crushing does not change the amount of jaggery, only the size of the pieces.**. 6 groups of 3 is 6 x 3 = 18 tablespoons. Crushing breaks the jaggery into more, smaller pieces, but the total amount of jaggery stays the same. It just dissolves faster. (queues `math.multiplication.equal-groups.L3`)
 
 ## Song
@@ -696,8 +696,8 @@ Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and par
 - What is everything made of? → Particles, far too small to see.
 - When sugar dissolves, is it still there? → Yes. It is spread through the water as particles.
 - Does sugar water weigh the same as the water and sugar did before? → Yes. Nothing is lost.
-- Melting or dissolving: ghee in a hot pan? → Melting. It needs heat, not water.
-- Melting or dissolving: salt in rasam? → Dissolving.
+- Ghee turns runny in a hot pan. Is that melting or dissolving? → Melting. It needs heat, not water.
+- Salt disappears in rasam. Is that melting or dissolving? → Dissolving.
 - Which dissolves fastest: a lump, grains or powder? → Powder, because it has the most outside.
 - Name one thing that makes sugar dissolve faster. → Crushing it, stirring, or warm water.
 - Where does the camphor go when a tablet shrinks? → Into the air, as camphor particles.

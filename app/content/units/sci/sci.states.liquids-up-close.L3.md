@@ -1,7 +1,7 @@
 # Thick and runny liquids, and the skin on water
 `sci.states.liquids-up-close.L3`
 
-**Summary.** Tip a spoon of water and a spoon of honey together, and the water is gone while the honey crawls. How easily a liquid flows is called its viscosity. Honey has a high viscosity because its particles hold on to each other and slide past each other slowly. Warm honey runs much faster than cool honey, because warmth makes its particles move faster. Water is runny, but its particles attract each other too, and at the top this makes a stretchy skin called surface tension. Water striders, insects with long, hairy, waterproof legs, live on that skin and hunt insects that fall onto ponds.
+**Summary.** Tip a spoon of water and a spoon of honey at the same moment. The water falls at once, and the honey comes down slowly. How much a liquid resists flowing is called its viscosity. Honey has a high viscosity because its particles hold on to each other and slide past each other slowly. Warm honey runs much faster than cool honey, because warmth makes its particles move faster. Water is runny, but its particles attract each other too. At the top of the water, this pull is called surface tension, and it makes the water act like a stretchy skin. Water striders, insects with long, hairy, waterproof legs, live on that skin and hunt insects that fall onto ponds.
 
 **Intro.** *Hold a spoon of water and a spoon of honey over a plate, and tip both at the same moment. The water is gone in a blink. The honey stretches into a slow, shiny rope. Both are liquids. So why does one pour so much more slowly than the other?* In this unit you race kitchen liquids down a slope and time each one. You find out what makes a liquid thick or runny, and what warming does to it. Then you look closely at the top of water. There, water acts like a thin stretchy skin. It is strong enough to hold a dome of water on a coin, and to hold up a living insect.
 
@@ -69,7 +69,7 @@ Pitch is a black material made from tar. Hit it with a hammer at room temperatur
 Water particles attract each other. Deep inside the water, each particle is pulled equally from every side. At the surface there is only air above, and air pulls very little. So the surface particles are pulled down and sideways, towards their neighbours. They hold together like a stretched sheet. That is why a drop is round, and why a coin can hold a dome of water above its edge. Soap makes the skin much weaker. Oil has a weaker skin than water, so oil drops spread out flatter.
 - e.g. Drops of water pile up on a coin into a dome before they spill over.
 - e.g. A drop of soap breaks the skin, and the dome spills at once.
-- e.g. A loop of thread on water snaps into a circle when soap touches inside it.
+- e.g. A loop of thread on water snaps into a circle when soap touches the water inside it.
 ### Water striders: insects who live on the water's skin · *defined*
 **Definition:** A water strider is an insect who lives on the surface of still or slow water. Their legs are long, and covered in tiny waxy hairs that keep water off, so the water's skin holds them up.
 
@@ -127,7 +127,7 @@ Glass is made by melting sand and cooling it fast. Its particles stay in a jumbl
 ## Roots
 We have raced liquids and watched the water's skin hold up a dome of drops. Now we ask what thick and runny liquids tell us about ourselves and the world.
 
-**Deep truth.** The same honey crawled down your plate at room warmth and ran fast once warmed. Warmth makes a liquid's particles jiggle harder, so they slip past each other more easily. So a liquid's thickness depends on how warm it is, as well as on what it is made of.  
+**Deep truth.** In the Syrup Race, honey at room warmth crawled down the tray, and the same honey ran fast once it was warmed. Warmth makes a liquid's particles jiggle harder, so they slip past each other more easily. So a liquid's thickness depends on how warm it is, as well as on what it is made of.  
 *Habit it breaks:* We say 'honey is thick' and 'water is runny' as if thickness were a fixed part of each, like a name. But thickness is how easily particles slide past each other, and that changes with warmth. The same honey can crawl or run.  
 *Evidence:* In the syrup race, honey from the same jar ran down the same tray twice. The only difference was five minutes in warm water. The warmed honey reached the finish line several times faster.
 
@@ -143,15 +143,15 @@ Honey's slow flow, the skin on water and the strider standing on it all come fro
 - Science (settled): Surface tension comes from the attraction between particles of a liquid. Soap weakens it.
 - Science (settled): Pitch flows, about 100 billion times more slowly than water.
 - Science (open): What exactly happens to particles when a liquid slows into a glass has no agreed explanation yet.
-- Other view, Many physicists: Viscosity is a number we measure, and the particle picture is a useful model of it. Honey flowing faster when warm is a fact about honey. It carries no lesson about stillness or change, and reading one into it says more about us than about honey.
+- Other view, Many physicists: Viscosity is a number we measure, and the particle picture is a useful model of it. Honey flowing faster when warm is a fact about honey, and nothing more. Some people read a lesson about stillness or change into it, but that lesson comes from the person and not from the honey.
 - Practice, Slow as honey (3 min): Let's watch one slow spoon of honey pour onto a plate. As the honey stretches down, breathe in slowly. As it coils on the plate, breathe out slowly. Let's do it three times. Notice how long one slow pour really takes. Then say one thing around you that might be moving too slowly to see.
-- Ask: If the same honey can crawl or run, what is honey really like?
+- Ask: The same honey can crawl or run, depending on how warm it is. So is being thick a fixed part of honey, or does it change? How do you know?
 - Ask: Pitch looks still but flows. What else around you might be moving too slowly to notice?
-- Ask: A water strider lives on a skin we cannot even see. What other worlds might be right in front of us that we never notice?
+- Ask: The water's skin is easy to miss, yet a water strider lives on it. Where have you seen the skin of water at home?
 
 ## Deep and big questions
 - *deep:* Pitch shatters like a solid but drips like a liquid. Is it a solid or a liquid? Who gets to decide? (hint: Think about how long you watch. In one second, pitch acts like a solid. In ten years, it acts like a liquid.)
-- *deep:* Honey is thick, and warm honey is runny. If the same honey can be both, is 'thick' really part of what honey is? (hint: Remember the syrup race. What changed between the two spoons of honey, and what stayed the same?)
+- *deep:* Honey is thick, but warm honey is runny. So is being thick really part of what honey is, or does it depend on how warm the honey is? (hint: Remember the syrup race. What changed between the two spoons of honey, and what stayed the same?)
 - *big:* Water feels like nothing when you put your finger in it. Yet its skin holds up a living insect. What else might be stronger than it feels? (hint: Think about the dome of water on the coin, and how many drops it took to break it.)
 - *big:* A water strider feels ripples with their legs and knows where food is. What would the world feel like if you lived on top of a pond? (hint: Close your eyes and rest your fingertips on water while someone drops a grain of rice. What do you notice?)
 - *big:* If you could watch for a thousand years, which things around you would turn out to be flowing? (hint: Think about glaciers, the rock under the Earth's crust, and the pitch drop.)
@@ -215,8 +215,8 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - Ask: How could Nila and Arjun tell that each skater's foot made a dent in the water?
 - Ask: Why did the dome on the coin spill so much sooner when Nila added soap?
 - Ask: How did the skaters know where the fallen ant was?
-- Ask: Why did the skater rub their legs with their feet after Nila rescued them?
-- Ask: Arjun said soap is like a hole in the floor for a skater. Is that a good way to explain it? Why?
+- Ask: What happened to the skater's feet when they slid into the soapy foam, and why?
+- Ask: Arjun said that for a skater, soap is like a hole in the floor. What does he mean?
 
 ## Games
 ### g1 · Runny or Thick? A guessing card game (15 min)
@@ -234,7 +234,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
   *Child mode:* Honey or water: which is thicker? Now the honey is warmed. Which is thicker now?
   - Check: Honey has been warmed in warm water for 5 minutes. Is it now thicker or runnier than water? → **Still thicker than water, but runnier than before**
 - **s3 (8 min)**  
-  *Parent does:* Take turns. Each turn, two cards, a guess and a reason. Check with your results.  
+  *Parent does:* Take turns. On each turn, turn over two cards, guess which liquid is thicker, and give a reason. Then check with your results.  
   *Parent says:* Turn over two cards. Which is thicker? Tell us why.  
   *Child mode:* Turn two cards. Which is thicker? Say why. Then check.
   - Note: Some pairs are close, such as milk and buttermilk. If the tip test does not show a clear winner, call it a draw. That is a good scientific answer.
@@ -247,10 +247,10 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 ### g2 · Strider Hunt: a pond board game (20 min)
 - **rules:** Each player puts a strider token on the steps, just before square 1. You also need a dice, such as one from a Ludo or Snakes and Ladders set.; On your turn, roll the dice and move that many squares across the water.; If you land on a ripple square, take a pond card, read it aloud, and do what it says. A card never starts another card, so if it moves you onto a ripple square, do nothing more. You cannot go back past the steps.; After each pond card, say why it helps or harms a water strider. A good reason earns a bonus square.; The first strider to reach or pass square 30 wins. If the pond cards run out, shuffle the used ones and use them again.; Playing alone, race a second token. It moves the number you roll, but only when you roll a 5 or a 6, and it never takes pond cards.
 - **Printable board: A pond board: a temple tank with 30 squares in a winding path across the water, the steps at the start and the lotus leaves at the finish:** Square 1: open water; Square 2: open water; Square 3: ripple (take a pond card); Square 4: open water; Square 5: ripple (take a pond card); Square 6: open water; Square 7: ripple (take a pond card); Square 8: open water; Square 9: ripple (take a pond card); Square 10: open water; Square 11: open water; Square 12: ripple (take a pond card); Square 13: open water; Square 14: ripple (take a pond card); Square 15: open water; Square 16: ripple (take a pond card); Square 17: open water; Square 18: ripple (take a pond card); Square 19: open water; Square 20: open water; Square 21: ripple (take a pond card); Square 22: open water; Square 23: ripple (take a pond card); Square 24: open water; Square 25: ripple (take a pond card); Square 26: open water; Square 27: ripple (take a pond card); Square 28: open water; Square 29: open water; Square 30: Finish, the lotus leaves
-- **Printable cards: 18 pond cards to cut out:** An ant falls in and struggles. You feel the ripples. Skate 3 squares to catch them. [picture]; A small fly lands on the water. Their kicks make tiny ripples. Skate 2 squares. [picture]; A moth falls in after a night of lights. Big ripples! Skate 4 squares. [picture]; You make ripples with your legs to send a signal to another strider. Every player moves 1 square.; A fish rises under you. You feel the water bulge and jump away. Go back 1 square, but you are safe.; A kingfisher dives nearby. Stay very still: miss a turn. [picture]; Wind blows ripples across the whole tank. You cannot tell where food is. Miss a turn.; Soapy water runs in from someone washing at the steps. The skin is weak there. Go back 3 squares to clean water.; Oil from a scooter wash spreads on the water. Go back 2 squares.; You row hard with your middle legs and push the water back. Skate 3 squares.; Rain drops hit the water. Ripples everywhere! Miss a turn.; You clean your legs with your feet, to keep their waxy hairs dry. Stay where you are, but your next move is doubled.; A dragonfly lands on a lotus leaf. Dragonflies are not food for you, so you skate on. Roll again. [picture]; A baby water strider hatches nearby. Move 1 square to make room.; A leaf falls and makes a big dent. Skate around it: move 1 square.; A struggling ant reaches you. Grab them with your short front legs. Skate 2 squares.; The Sun warms the water. Skate 2 squares.; A child drops a stone into the tank. Big rings. Go back 1 square.
+- **Printable cards: 18 pond cards to cut out:** An ant falls in and struggles. You feel the ripples. Skate 3 squares to catch them. [picture]; A small fly lands on the water. Their kicks make tiny ripples. Skate 2 squares. [picture]; A moth falls in after flying around lights all night. They make big ripples. Skate 4 squares. [picture]; You make ripples with your legs to send a signal to another strider. Every player moves 1 square.; A fish rises under you. You feel the water bulge and jump away. Go back 1 square, but you are safe.; A kingfisher dives nearby. Stay very still: miss a turn. [picture]; Wind blows ripples across the whole tank. You cannot tell where food is. Miss a turn.; Soapy water runs in from someone washing at the steps. The skin is weak there. Go back 3 squares to clean water.; Oil from a scooter wash spreads on the water. Go back 2 squares.; You row hard with your middle legs and push the water back. Skate 3 squares.; Rain drops hit the water. Ripples everywhere! Miss a turn.; You clean your legs with your feet, to keep their waxy hairs dry. Stay where you are, but your next move is doubled.; A dragonfly lands on a lotus leaf. Dragonflies are not food for you, so you skate on. Roll again. [picture]; A baby water strider hatches nearby. Move 1 square to make room.; A leaf falls and makes a big dent. Skate around it: move 1 square.; A struggling ant reaches you. Grab them with your short front legs. Skate 2 squares.; The Sun warms the water. Skate 2 squares.; A child drops a stone into the tank. Big rings. Go back 1 square.
 - **Printable tokens: 4 water strider tokens to cut out and fold (use as many as there are players):** Red strider; Blue strider; Yellow strider; Green strider
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the board pieces, cards and tokens. 2. Shuffle the pond cards. 3. Put the tokens on Start.  
+  *Parent does:* 1. Cut out the board pieces, cards and tokens. 2. Shuffle the pond cards. 3. Put the tokens on the steps, just before square 1.  
   *Parent says:* You are water striders living on a temple tank. You hunt insects that fall onto the water. Let's see who reaches the lotus leaves first.  
   *Child mode:* You are a water strider on a temple tank. Hunt for food. Reach the lotus leaves.
 - **s2 (3 min)**  
@@ -302,7 +302,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s5 (3 min) · grown-up needed**  
   *Parent does:* 1. Put half a teaspoon of honey in the small steel bowl. 2. Stand the bowl in the big bowl of warm water. 3. Wait 5 minutes.  
   *Parent says:* This honey is warming in the water. Will it be faster, slower, or the same as the honey you raced at room warmth? Why?  
-  *Child mode:* Honey in a bowl in warm water. Will it be faster than the room-warm honey? Why?
+  *Child mode:* Stand the bowl of honey in warm water. Will the warm honey be faster than the room-warm honey? Why?
   - Ask: What do you think the warmth will do, and why? (good: Faster, because warm things melt and get runny.; Slower, because warm honey is stickier.; The same, because it is still honey.)
   - Note: Any guess with a reason is good. A grown-up mixes the warm water from the tap or a kettle with some cold water. It should feel like bath water.
   - Wait: Wait 5 minutes while the honey warms. Look back at the table of results.
@@ -338,12 +338,12 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s3 (6 min)**  
   *Parent does:* 1. Drop plain water onto the middle of the coin, one drop at a time. 2. Make a tally mark for every drop. 3. Stop when the water spills over the edge. 4. Dry the coin and repeat twice more.  
   *Parent says:* Count out loud. Look at the coin from the side. What shape is the water making?  
-  *Child mode:* Drop, count, drop, count. Look from the side. What shape is the water?
+  *Child mode:* Add one drop at a time, and count each drop. Look from the side. What shape is the water?
   - Ask: What do you notice about the water as you add drops? (good: It makes a hill.; It goes higher than the edge of the coin.; It wobbles but does not spill.)
   - Note: A one-rupee coin usually holds somewhere between 15 and 40 drops, depending on the coin and the drop size. The water makes a dome that rises well above the edge. That surprises most children.
 - **s4 (5 min)**  
   *Parent does:* 1. Dry the coin well. 2. Do the same with the soapy water, three times. 3. Then do it with the oil, three times, wiping the coin with a tissue between tries.  
-  *Parent says:* Now soapy water. Will it make the same tall dome? Then oil.  
+  *Parent says:* Now try soapy water. Will it make the same tall dome? After that, try oil.  
   *Child mode:* Now try soapy water three times. Then oil three times. Count each drop.
   - Note: Soapy water usually holds far fewer drops, and makes a low, flat puddle that spills early. Oil also spreads flatter than water. Dry the coin very well after the soapy water. Any soap left on it will spoil the next plain water try.
 - **s5 (3 min)**  
@@ -363,9 +363,9 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **record:** Draw the water stream and the honey stream side by side.
 - **s1 (3 min)**  
   *Parent does:* 1. Fill one spoon with water and one with honey. 2. Hold both about 10 centimetres above the plate. 3. Tip them at the same moment.  
-  *Parent says:* Watch both spoons. Tell me everything you notice.  
+  *Parent says:* Watch both spoons. Tell me everything you notice about how each liquid moves.  
   *Child mode:* Tip both spoons at the same time. Watch closely. What do you notice?
-  - Ask: What do you notice? What do you wonder? (good: The water fell fast and splashed.; The honey made a long thread.; The honey piled up in loops like a rope.; Why is honey so slow?)
+  - Ask: What do you notice about how each liquid moves? (good: The water fell fast and splashed.; The honey made a long thread.; The honey piled up in loops like a rope.; Why is honey so slow?)
 - **s2 (2 min)**  
   *Parent does:* Pour the honey again, very slowly, from higher up, and watch where it lands.  
   *Parent says:* Look where the honey lands. What is it doing on the plate?  
@@ -405,7 +405,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **s1 (3 min)**  
   *Parent does:* 1. Let the water go still. 2. Float the paper squares near one edge. 3. Drop one grain of rice onto the far side, from about 10 centimetres up.  
   *Parent says:* Watch the water, and watch the paper squares.  
-  *Child mode:* Float the paper squares. Drop a rice grain on the far side from up high. Watch.
+  *Child mode:* Float the paper squares. Drop a rice grain onto the far side, from about 10 centimetres up. Watch.
   - Ask: What happened to the paper squares? (good: Rings spread out from the rice.; The papers bobbed when the rings reached them.)
 - **s2 (2 min)**  
   *Parent does:* Explain how a water strider hunts.  
@@ -415,14 +415,14 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
   *Parent does:* 1. Your child closes their eyes. 2. They rest four fingertips very lightly on the water, as if they had strider legs. 3. Drop a rice grain or one drop of water on one side. 4. They point to where it came from.  
   *Parent says:* Close your eyes. Rest your fingertips on the water, very lightly. When you feel a ripple, point to where it came from.  
   *Child mode:* Close your eyes. Touch the water lightly with your fingertips. Point where the ripple came from.
-  - Note: Keep the room quiet and the fingertips still. The ripple is small, and some children feel it and some do not. If your child cannot, drop the rice from higher up, or open their eyes and watch the paper squares instead.
+  - Note: Keep the room quiet and the fingertips still. The ripple is small, and some children feel it and some do not. If your child cannot, drop the rice from higher up, or let them open their eyes and watch the paper squares instead.
   - Think: A water strider has six legs spread wide. How could that help them tell which way a ripple came from?
 ### a4 · The Bubble Race: flip the bottles (10 min)
 - **record:** Write each bottle's bubble time in a small table.
 - **s1 (2 min)**  
   *Parent does:* 1. Check the caps are tight. 2. Stand the bottles in a row. 3. Ask for a guess.  
   *Parent says:* When we turn each bottle upside down, the air bubble will rise. In which bottle will it rise slowest? Why?  
-  *Child mode:* Flip each bottle. The bubble will rise. Which bubble will be slowest? Why?
+  *Child mode:* When you flip a bottle, the air bubble rises. In which bottle will it rise slowest? Why?
 - **s2 (6 min)**  
   *Parent does:* 1. Flip one bottle and start the stopwatch. 2. Stop it when the last of the air reaches the top. 3. Do the same for each bottle.  
   *Parent says:* Flip it, start the clock. Stop when the air is all at the top.  
@@ -437,7 +437,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **record:** Write two sentences: what the ketchup did, and what the curd did.
 - **s1 (3 min)**  
   *Parent does:* 1. Hold the ketchup bottle upside down over the plate, without squeezing or shaking. 2. Count to ten. 3. Now tap the bottom of the bottle firmly with your palm.  
-  *Parent says:* Upside down, and no squeezing. Does it come out? Now tap it hard.  
+  *Parent says:* Hold the bottle upside down, with no squeezing. Does the ketchup come out? Now tap it hard.  
   *Child mode:* Hold the ketchup upside down. Don't squeeze. Wait. Now tap it hard.
   - Ask: What did the ketchup do when you tapped it? (good: It suddenly came out.; It stayed still, then ran.)
 - **s2 (4 min)**  
@@ -446,10 +446,10 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
   *Child mode:* Tilt the curd bowl. Now stir it hard. Tilt it again. What changed?
   - Note: Set curd holds its shape. After stirring it is much runnier and flows in the bowl.
 - **s3 (3 min)**  
-  *Parent does:* Talk about why.  
+  *Parent does:* Talk about why the ketchup and the curd got runnier.  
   *Parent says:* Ketchup and curd have tiny bits inside them that hold each other in a loose net. Shaking and stirring break the net, so they flow.  
   *Child mode:* Shaking breaks a tiny net inside ketchup and curd. Then they flow.
-  - Check: Aditi, a girl in Class 3, cannot get ketchup out of a full bottle. What should she try? → **Tap or shake the bottle**
+  - Check: Ketchup will not come out of a full bottle. What should you try? → **Tap or shake the bottle**
 
 ## Projects
 ### p1 · The Kitchen Thickness Ladder: race the foods you eat (45 min, 3 days)
@@ -471,12 +471,13 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
   *Parent does:* 1. Draw a ladder on a long strip of paper. 2. Put the fastest liquid on the top rung, and the slowest at the bottom. 3. Your child explains the ladder to the family.  
   *Parent says:* Put the fastest at the top and the slowest at the bottom. Then tell everyone what you found.  
   *Child mode:* Draw a ladder. Fastest at the top. Slowest at the bottom. Explain it to your family.
-  - Think: Which liquids surprised you?
+  - Note: Good answers name something in the liquid that could thicken it. For example, kanji is thick because of long starch particles from the rice, and sugar syrup is thick because of the sugar dissolved in it.
+  - Think: Which liquid was thicker than you guessed? What could be in it that makes it thick?
   - Wait: Do this on day 3
 
 ## Challenges
 ### c1 · Slow Down the Water (25 min)
-- **problem:** A juice-stall owner in Mysuru wants to make a thick drink that pours as slowly as honey. Start with 4 spoons of water. Add things from the kitchen to make it race down the tray as slowly as your honey did.
+- **problem:** Make a thick drink that pours as slowly as honey. Start with 4 teaspoons of water. Add things from the kitchen until it runs down the syrup race tray as slowly as your honey did.
 - **your turn:** Now try your own idea. Write down exactly what you added, so someone else could make the same liquid.
 - **constraints:** Start with 4 teaspoons of water.; Use only things from the kitchen, cold, with no cooking.; Test it on the syrup race tray, at the same slope.
 - **general:** Stir in sugar, spoon by spoon. Lots of sugar makes a thick syrup, but it takes a lot.; Stir in atta or rice flour, a little at a time, to make a batter. This is how dosa batter gets thick.; Stir in besan. It thickens water quickly.
@@ -500,10 +501,10 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - **your turn:** Now design your own boat. Draw it, test it, and measure how far it goes.
 - **constraints:** The boat must be made from card or paper.; No pushing, blowing or touching the boat after it is placed.; Use fresh water for every try.
 - **general:** Cut a boat shape about 3 centimetres long, with a small notch cut into the back.; Put the boat on the water and touch a soapy toothpick into the notch.; The soap weakens the skin behind the boat, and the stronger skin in front pulls it forward.
-- **creative:** Make the notch on one side, so the boat turns in circles.; Try different shapes: long and thin, round, or a triangle.; Race two boats in two basins.
+- **creative:** Make the notch on one side, so the boat turns in circles.; Try different shapes: long and thin, round, or a triangle.; Race two boats in two basins, one with a bigger notch than the other, and see which goes further.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Remind your child about the thread loop.  
-  *Parent says:* Remember the thread loop that jumped into a circle? Soap weakens the water's skin. How could that move a boat?  
+  *Parent says:* In the Thread Loop activity, soap touched the water inside the loop, and the thread jumped into a circle. Soap weakens the water's skin. How could that move a boat?  
   *Child mode:* Soap makes the water's skin weaker. How could that move a boat?
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Cut a boat with a notch at the back. 2. Put it on the water at one end. 3. Touch a soapy toothpick into the notch. 4. Measure how far it goes. 5. Change the water and try a new design.  
@@ -515,17 +516,17 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
   *Parent does:* Compare designs.  
   *Parent says:* Which boat went furthest? Why do you think it worked best?  
   *Child mode:* Which boat went furthest? Why?
-  - Think: If soapy water from a washing step ran into a pond, what would happen to the water striders?
+  - Think: If soapy water ran into a pond, what would happen to the water striders?
 
 ## Worksheets
 ### Thick, Runny and the Water's Skin (core) (core, 15 questions)
 1. (mcq) What does viscosity mean?  
    Options: How heavy a liquid is / How much a liquid resists flowing / How hot a liquid is  
    **Answer:** How much a liquid resists flowing. *Why:* Viscosity is how much a liquid resists flowing. Honey has a high viscosity and flows slowly. Picking 'heavy' is the most common mix-up: thick and heavy are different things.
-2. (mcq) Kavya, a girl in Class 3, puts half a teaspoon each of water, honey and shampoo at the top of a sloping tray. Which reaches the bottom first?  
+2. (mcq) Half a teaspoon each of water, honey and shampoo is put at the top of a sloping tray. Which reaches the bottom first?  
    Options: Water / Shampoo / Honey  
    **Answer:** Water. *Why:* Water has the lowest viscosity of the three, so it flows fastest. Shampoo is slower, and honey is slowest.
-3. (mcq) Plain water made a tall dome on a coin. Then Priya, a girl in Class 3, tried water with a drop of soap. What did she see?  
+3. (mcq) Plain water made a tall dome on a coin. Then you try water with a drop of soap in it. What do you see?  
    Options: A taller dome / A flatter puddle that spilled sooner / Exactly the same dome  
    **Answer:** A flatter puddle that spilled sooner. *Why:* Soap weakens the water's skin, so it cannot hold up a tall dome. It spills after fewer drops.
 4. (mcq) How do a water strider's legs help them stand on water?  
@@ -545,17 +546,17 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 10. (fill) The pull between particles at the top of water makes a skin. This is called surface ____.  
    **Answer:** ['tension']. *Why:* Surface tension makes the top of water act like a stretchy skin.
 11. (match) Match each word to what it means.  
-   **Answer:** Viscous → thick and slow to flow; Runny → thin and quick to flow; Surface → the top layer, where water meets the air; Water strider → an insect who lives on top of ponds. *Why:* These four words come up all through the unit.
+   **Answer:** Viscous → thick and slow to flow; Runny → thin and quick to flow; Surface → the top layer, where water meets the air; Water strider → an insect who lives on top of ponds. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about liquids.
 12. (sort) Sort these kitchen liquids. Is each one runny or thick?  
    **Answer:** water → Runny; honey → Thick; rasam → Runny; dosa batter → Thick; buttermilk → Runny; ketchup → Thick. *Why:* Runny liquids pour fast and splash. Thick ones pour slowly and pile up.
 13. (write) Why does warm honey run faster than cool honey? Use the word 'particles'.  
    **Answer:** Warmth makes the honey's particles jiggle harder, so they let go of each other and slip past each other more easily.. *Why:* A strong answer says that the particles move faster when warm, and that this lets them slide past each other.
-14. (write) Divya, a girl in Class 3, says water striders stand on water only because they are light. What would you tell her?  
+14. (write) Someone says water striders stand on water only because they are light. What would you tell them?  
    **Answer:** Being light helps, but their legs matter too. Their waxy, hairy legs keep the water off, so the water's skin holds them. With soap in the water, they sink, though they are just as light.. *Why:* A strong answer agrees that light weight helps, and adds the legs and the water's skin, with the soap evidence.
-15. (draw) Draw the coin from the side, just before the water spilled. Show how high the water rose above the coin's edge.  
+15. (draw) In How Many Drops Fit on a Coin?, water piled up on the coin. Draw the coin from the side, just before the water spilled. Show how high the water rose above the coin's edge.  
    **Answer:** A coin with a rounded dome of water rising clearly above its edge.. *Why:* A strong drawing shows the water higher than the coin's edge, held up by its skin.
 ### Liquid Detective (stretch) (stretch, 15 questions)
-1. (mcq) Meenakshi, a girl in Class 3, flips closed bottles of water, oil and honey upside down. In which one does the air bubble rise slowest?  
+1. (mcq) Closed bottles of water, oil and honey are flipped upside down. In which one does the air bubble rise slowest?  
    Options: Water / Oil / Honey  
    **Answer:** Honey. *Why:* Honey is the most viscous, so it moves out of the bubble's way very slowly.
 2. (mcq) Honey is left in the fridge for an hour, then raced down the tray. What do you predict?  
@@ -577,21 +578,21 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 9. (fill) A huge slow river of ice that creeps downhill is called a ____.  
    **Answer:** ['glacier']. *Why:* A glacier is ice that flows under its own weight, very slowly.
 10. (sort) Sort these. Does each one help a water strider or harm them?  
-   **Answer:** waxy hairs on their legs → Helps; soap foam on the pond → Harms; ripples from a fallen ant → Helps; an oil film from a scooter wash → Harms; long legs spread wide → Helps; heavy rain hitting the water → Harms. *Why:* Striders need a strong water skin, dry legs and clear ripples. Soap and oil weaken the skin, and rain hides the ripples from food.
+   **Answer:** waxy hairs on their legs → Helps; soap foam on the pond → Harms; ripples from a fallen ant → Helps; an oil film from a scooter wash → Harms; long legs spread wide → Helps; heavy rain hitting the water → Harms. *Why:* Striders need a strong water skin, dry legs and clear ripples. Soap and oil weaken the skin, and rain hides the ripples that food makes.
 11. (write) Honey in a bottle will not pour on a cold winter morning. Give two ways to make it pour, and say why they work.  
    **Answer:** Stand the bottle in a bowl of warm water, or keep it in a warm place for a while. Warmth makes the honey's particles move faster, so they slide past each other more easily and the honey flows.. *Why:* A strong answer gives a way to warm the honey and links it to particles moving faster.
-12. (write) Sana, a girl in Class 3, raced water using a full spoon and honey using half a spoon. She says honey is slower. Why is her test not fair? How would you fix it?  
-   **Answer:** She used different amounts. A bigger blob may flow differently. She should use half a spoon of each, on the same slope.. *Why:* A strong answer names the one thing that was different (the amount) and says to keep it the same for every liquid.
+12. (write) In a race, a full spoon of water was used, but only half a spoon of honey. The honey was slower. Why is this test not fair? How would you fix it?  
+   **Answer:** The amounts were different. A bigger blob may flow differently. Use half a spoon of each, on the same slope.. *Why:* A strong answer names the one thing that was different (the amount) and says to keep it the same for every liquid.
 13. (perspective) Pitch shatters when hit with a hammer. But in a funnel it has dripped nine drops since 1930. Three people talk about it.  
-   **Answer:** A strong answer picks a view with a reason, for example Kavya's, because the same pitch breaks when hit fast and drips over years. It also says what another view gets right, for example that Revathi is right that pitch acts like a solid in everyday life.. *Why:* Each view has a point. Parnell's funnel shows pitch flows, Revathi's experience shows it acts solid when hit, and Kavya notices that time decides which you see.
+   **Answer:** A strong answer picks a view with a reason, for example the child's, because the same pitch breaks when hit fast and drips over years. It also says what another view gets right, for example that the road builder is right that pitch acts like a solid in everyday life.. *Why:* Each view has a point. Parnell's funnel shows pitch flows, the road builder's experience shows it acts solid when hit, and the child notices that time decides which you see.
 14. (draw) Draw a water strider standing on water, seen from the side. Show the dents their feet make in the water's skin.  
    **Answer:** An insect with long legs, each foot pressing a small curved dip into the surface without breaking through.. *Why:* A strong drawing shows the surface bending down under each foot but not broken.
 15. (write) Health workers sometimes spread a thin film of special oil on stagnant water to stop mosquitoes. How does this work?  
    **Answer:** Mosquito larvae hang from the water's skin to breathe through a small tube. The oil weakens the skin, so they cannot hang on and breathe.. *Why:* A strong answer links the oil to a weaker water skin, and the weaker skin to the larvae not being able to breathe.
 ### Think Like a Liquid Scientist (challenge) (challenge, 15 questions)
-1. (mcq) Farhan, a boy in Class 3, raced water and oil. Strangely, the oil won. Which is the most likely reason?  
-   Options: Oil is runnier than water / His tray was tipped more steeply in the oil's lane, or the water spread out sideways / Oil is heavier than water  
-   **Answer:** His tray was tipped more steeply in the oil's lane, or the water spread out sideways. *Why:* Usually water is faster. When a result is odd, check the test before changing the idea. A tilted tray or water spreading sideways can change the result.
+1. (mcq) In a race between water and oil, the oil won. That is strange. Which is the most likely reason?  
+   Options: Oil is runnier than water / The tray was tipped more steeply in the oil's lane, or the water spread out sideways / Oil is heavier than water  
+   **Answer:** The tray was tipped more steeply in the oil's lane, or the water spread out sideways. *Why:* Usually water is faster. When a result is odd, check the test before changing the idea. A tilted tray or water spreading sideways can change the result.
 2. (mcq) A sweet-maker warms thick jaggery syrup before pouring it into moulds. Why?  
    Options: Warm syrup is runnier, so it pours easily / Warm syrup is sweeter / Warm syrup is lighter, so it floats  
    **Answer:** Warm syrup is runnier, so it pours easily. *Why:* Warming lowers the syrup's viscosity, just like the warm honey in the syrup race.
@@ -616,11 +617,11 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 11. (write) Give two reasons why you cannot stand on water the way a water strider can.  
    **Answer:** I am far too heavy for the water's skin to hold up. My feet are not covered in waxy hairs, so the water wets them and they break through.. *Why:* A strong answer names both weight and the water-repelling legs.
 12. (perspective) Mosquitoes spread dengue. Spreading a film of special oil on stagnant water stops mosquito larvae from breathing. Three people talk about it.  
-   **Answer:** A strong answer picks a view with a reason, for example Meera's, because emptying standing water stops mosquitoes without harming other animals. It also says what another gets right, for example that Lakshmi is right that dengue is dangerous, and some drains cannot be emptied.. *Why:* This is a real trade-off. Health workers, insect scientists and families each see a true part of it.
+   **Answer:** A strong answer picks a view with a reason, for example the parent's, because emptying standing water stops mosquitoes without harming other animals. It also says what another gets right, for example that the health worker is right that dengue is dangerous, and some drains cannot be emptied.. *Why:* This is a real trade-off. Health workers, insect scientists and families each see a true part of it.
 13. (draw) Draw two zoomed-in circles: one of water particles and one of honey. Show why honey flows more slowly.  
    **Answer:** Water: small particles with space to slide. Honey: big sugar particles held close to water particles, with arrows showing them clinging.. *Why:* A strong drawing shows that honey's particles hold on to each other more, so they slide past each other more slowly.
 14. (write) Warm honey and tapped ketchup both get runnier. Are they getting runnier for the same reason? Explain.  
-   **Answer:** No. Warm honey is runnier because its particles move faster. Tapped ketchup is runnier because tapping breaks a tiny net inside it. Nothing was warmed.. *Why:* A strong answer gives a different reason for each: warmth speeds up particles, and shaking breaks a net.
+   **Answer:** No. Warm honey is runnier because its particles move faster. Tapped ketchup is runnier because tapping breaks a tiny net inside it. The ketchup was not warmed.. *Why:* A strong answer gives a different reason for each: warmth speeds up particles, and shaking breaks a net.
 15. (write) Many people think thick liquids are heavier. Plan a test you could do at home to check this idea.  
    **Answer:** Pour some coconut oil into a glass of water. If the oil floats, it is lighter than water, even though it is thicker. Or weigh the same cup filled with each.. *Why:* A strong answer tests thickness and weight separately, and uses a thick liquid that might be light, such as oil.
 
@@ -636,15 +637,15 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 2. (mcq) Which of these has the highest viscosity?  
    Options: Water / Rasam / Honey  
    **Answer:** Honey. *Why:* Honey flows slowest, so it has the highest viscosity. Water and rasam are runny.
-3. (mcq) Kavya, a girl in Class 3, races half a teaspoon of each liquid down a tray. Why must every liquid use the same amount?  
-   Options: So the test is fair, and only the liquid changes / So she uses less honey / So the tray stays clean  
+3. (mcq) In the syrup race, half a teaspoon of each liquid is raced down a tray. Why must every liquid use the same amount?  
+   Options: So the test is fair, and only the liquid changes / So less honey is used / So the tray stays clean  
    **Answer:** So the test is fair, and only the liquid changes. *Why:* In a fair test only one thing changes. A bigger blob can flow differently, so the amounts must be the same.
 4. (mcq) In the syrup race, water took about 1 second and honey took about 150 seconds. What does that tell you?  
    Options: Honey is much more viscous than water / Honey is lighter than water / The tray was wet  
    **Answer:** Honey is much more viscous than water. *Why:* The longer a liquid takes to flow, the higher its viscosity. Honey took far longer.
 5. (mcq) Why does warm honey flow faster than cool honey?  
    Options: Warm honey has water in it / Warmth makes honey's particles move faster, so they slip past each other more easily / Warm honey is heavier  
-   **Answer:** Warmth makes honey's particles move faster, so they slip past each other more easily. *Why:* Warmth makes the particles jiggle harder, so they let go of their neighbours more easily. Picking 'water in it' is a fair worry, but the honey was in its own dry bowl.
+   **Answer:** Warmth makes honey's particles move faster, so they slip past each other more easily. *Why:* Warmth makes the particles jiggle harder, so they let go of their neighbours more easily. Picking 'water in it' is a fair worry, but in the syrup race the honey was warmed in its own dry bowl.
 6. (mcq) Ghee is thick on a cool morning. What will make it pour easily?  
    Options: Putting it in the fridge / Warming it a little / Stirring in cold water  
    **Answer:** Warming it a little. *Why:* Warming lowers viscosity, so the ghee flows. Cold makes it thicker.
@@ -653,7 +654,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
    **Answer:** Water particles attract each other, so the surface acts like a stretchy skin. *Why:* This is surface tension. The pull between water particles at the surface holds the dome together. The coin's metal has nothing to do with it.
 8. (mcq) What does soap do to the water's skin?  
    Options: Makes it stronger / Makes it weaker / Nothing  
-   **Answer:** Makes it weaker. *Why:* Soap weakens the skin. That is why the soapy dome spilled sooner and the thread loop jumped into a circle.
+   **Answer:** Makes it weaker. *Why:* Soap weakens the skin. That is why soapy water spilled off the coin sooner than plain water, and why the thread loop jumped into a circle when soap touched the water inside it.
 9. (mcq) A water strider hunts insects that fall onto ponds. How do they find a fallen ant?  
    Options: They smell the ant from far away / They feel the ant's ripples through their legs / They wait for the ant to swim to them  
    **Answer:** They feel the ant's ripples through their legs. *Why:* A struggling ant sends out ripples. The strider feels them through their legs and skates towards them.
@@ -701,7 +702,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 - Can you see a dome of water on top of your full tumbler?
 - Why do you think the cook warms the ghee before pouring it?
 - If you were a water strider, what would you be most afraid of?
-- Is toothpaste a solid or a liquid? Why?
+- Ketchup stays in the bottle until you tap it. Why do you think tapping makes it flow?
 - Why do raindrops sit in round blobs on a leaf?
 - Where does the soapy water from your kitchen sink go?
 
@@ -720,7 +721,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 ## Connected maths
 - Honey at room warmth took 150 seconds to reach the finish line. Warmed honey took 30 seconds. How many seconds faster was the warm honey? **120 seconds faster.**. 150 minus 30 is 120. So the warm honey arrived 120 seconds sooner. That is 2 whole minutes, because 60 + 60 = 120. (queues `math.addition-subtraction.word-problems.L3`)
 - Honey at room warmth took 150 seconds. Warmed honey took 30 seconds. How many times as fast was the warm honey? **5 times as fast.**. 150 divided by 30 is 5. Check: 30 + 30 + 30 + 30 + 30 = 150. So the warm honey covered the track 5 times in the time the room-warm honey covered it once. (queues `math.division.division-facts.L3`)
-- Nila, the girl in the story, counted 26, 31 and 28 drops of plain water on her coin. Which is the middle number? Why is it a good number to use? **28.**. In order, the numbers are 26, 28, 31. The middle one is 28. One try can be a fluke, for example a drop that splashed. The middle number is not pulled up or down by one odd try. (queues `math.number-sense.comparing-ordering.L3`)
+- In three tries, 26, 31 and 28 drops of plain water fit on a coin. Which is the middle number? Why is it a good number to use? **28.**. In order, the numbers are 26, 28, 31. The middle one is 28. One try can be a fluke, for example a drop that splashed. The middle number is not pulled up or down by one odd try. (queues `math.number-sense.comparing-ordering.L3`)
 - Honey took 150 seconds to flow 15 centimetres. If it keeps the same speed, how long would it take to flow down a tray 30 centimetres long? **300 seconds, which is 5 minutes.**. 30 centimetres is 2 lots of 15 centimetres. So it takes 2 lots of 150 seconds: 150 + 150 = 300 seconds. 300 seconds is 5 minutes, because 5 × 60 = 300. A real honey blob may slow down as it spreads thinner, so test it. (queues `math.multiplication.equal-groups.L3`)
 - Thomas Parnell poured the pitch in 1927. He opened the funnel in 1930. The first drop fell in 1938. How many years after the pitch was poured did the first drop fall? **11 years.**. From 1927 to 1930 is 3 years. From 1930 to 1938 is 8 years. 3 + 8 = 11 years. You can also do 1938 − 1927 = 11. (queues `math.time.duration.L3`)
 

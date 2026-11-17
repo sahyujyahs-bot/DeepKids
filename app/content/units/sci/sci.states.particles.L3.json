@@ -161,7 +161,7 @@
    "concept": "What is inside a particle?",
    "status": "idea",
    "definition": "",
-   "description": "A sugar particle is made of 45 atoms joined together: 12 of carbon, 22 of hydrogen and 11 of oxygen. Atoms are made of even smaller particles. Physicists now describe those smallest particles as ripples in fields that fill all of space. Nobody knows yet whether there is anything deeper still. That is why this card says 'idea'.",
+   "description": "A sugar particle is made of 45 atoms joined together: 12 of carbon, 22 of hydrogen and 11 of oxygen. Atoms are made of even smaller particles. Physicists now think the smallest of these are not tiny balls. They describe each one as a small ripple in an invisible field that fills all of space, a little like a ripple on a pond is a small movement of the water. This is a hard idea, and nobody knows yet whether there is anything deeper still. That is why this card says 'idea'.",
    "examples": [
     "A water particle is made of 3 atoms: 2 of hydrogen and 1 of oxygen.",
     "Sugar and the paper in a book are made of the same three kinds of atom, joined in different ways."
@@ -241,7 +241,7 @@
    "hint": "Scientists say yes: one sugar particle, a molecule. Break that, and you have atoms of carbon, hydrogen and oxygen, which are not sweet."
   },
   {
-   "q": "When the sugar spread through the water, was it one thing or many things?",
+   "q": "Before it dissolved, the sugar was one heap on a spoon. After it dissolved, it was spread through every sip. Is it still one thing, or has it become many things?",
    "kind": "deep",
    "hint": "Think about the heap on the spoon, and then the same sugar spread out in every sip."
   },
@@ -1024,11 +1024,11 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the glass on the table. 2. Let your child drop in the teaspoon of sugar and stir slowly. 3. Both of you watch until the grains are gone.",
-     "say": "Drop the sugar in and stir slowly. Watch it closely. Tell me what you notice.",
+     "say": "Drop the sugar in and stir slowly. Watch it closely. Tell me what you notice about the sugar as it disappears.",
      "kid": "Drop the sugar into the water. Stir slowly. Watch closely. What do you notice?",
      "ask": [
       {
-       "q": "What do you notice? What do you wonder?",
+       "q": "What do you notice about the sugar as it disappears?",
        "good": [
         "The grains get smaller.",
         "The water looks wobbly.",
@@ -1322,7 +1322,7 @@
      "do": "Wipe the card and the place where it lay clean with a wet cloth.",
      "say": "The ants found sugar that our eyes could not see. Let's clean up so they don't follow it indoors.",
      "kid": "The ants found the hidden sugar! Now wipe the drops away.",
-     "think": "What else might ants notice that we can't?"
+     "think": "The ants found sugar that we could not see. What did they use to find it?"
     }
    ],
    "context": "In this activity you ask ants to find sugar you can't see. You put a drop of sugar water and a drop of plain water near their path.",
@@ -1473,7 +1473,7 @@
     "a kitchen scale, if you have one"
    ],
    "general": [
-    "Weigh it, if you have a kitchen scale. Take two glasses of the same kind. Fill each to the same mark, one with sugar water and one with plain water. Put them on the scale one at a time. The sugar water weighs a few grams more. Fill carefully, or the difference is lost.",
+    "Weigh it, if you have a kitchen scale. Take two glasses of the same kind. Fill each to the same mark, one with sugar water and one with plain water. Put them on the scale one at a time. The sugar water weighs a few grams more. Fill both glasses carefully to exactly the same mark, because a small mistake in the amount of water can hide that difference.",
     "Let it dry. Put a few drops of each on a steel plate in a sunny window. The plain water dries to almost nothing. The sugar water dries to a sticky patch.",
     "Rub a drop of each between your finger and thumb, then let it dry. Sugar water makes your fingers sticky."
    ],
@@ -1886,7 +1886,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These four words come up all through the unit."
+     "why": "Each of these four words is explained on a card in this unit. Using them makes it easier to talk about particles."
     },
     {
      "t": "sort",
@@ -2650,7 +2650,7 @@
    },
    {
     "source": "Lucretius, On the Nature of Things, Book 1, about lines 265 to 328",
-    "teaching": "Lucretius, a Roman poet, said nature works through bodies too small to see. Clothes hung by the sea get damp, and dry again in the sun, but nobody sees the water come or go. A ring worn on a finger grows thinner over the years.",
+    "teaching": "Lucretius, a Roman poet, said nature works through bodies too small to see. He gave examples. Clothes hung by the sea get damp, and dry again in the sun, but nobody sees the water come or go. A ring worn on a finger slowly grows thinner over the years, though nobody sees any bits wear away.",
     "link": "The camphor tablet and the drying clothes are the same kind of evidence. We see what particles do, not the particles themselves."
    }
   ],
