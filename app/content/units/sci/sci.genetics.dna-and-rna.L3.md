@@ -342,7 +342,7 @@ Arjun held out his hand and looked at it for a long time.
   *Parent does:* Ask your child to draw a guess of the leaf each seed will grow.  
   *Parent says:* Each of these seeds can grow into a whole plant. Where is the plant now? Draw the leaf you think each one will grow.  
   *Child mode:* Each seed can grow a whole plant. Where is the plant now? Draw your guess of each leaf.
-  - Note: There is no wrong answer to the drawing. The answer to the question is that the whole plant is already inside the seed, folded up very small, together with its instructions. Keep the drawings, and compare them with the real seed leaves at the end of the Three Seeds experiment.
+  - Note: There is no wrong answer to the drawing. The answer to the question is that the whole plant is already inside the seed, folded up very small, with their instructions. Keep the drawings, and compare them with the real seed leaves at the end of the Three Seeds experiment.
 ### a2 · Same Letters, New Picture: the four-letter code (15 min)
 - **problem:** DNA is written with only four letters. In this activity each letter is a colour. You colour three grids that use the same letters in different orders, and see whether the order changes the picture.
 - **record:** Stick the three coloured grids side by side and write the code under each.
@@ -420,7 +420,7 @@ Arjun held out his hand and looked at it for a long time.
   - Wait: Day 3
 - **s3 (15 min)**  
   *Parent does:* 1. Day 5: fill three cups with soil from a potted plant. 2. Make a hole with a pencil and lower one seedling of each kind in, root first. 3. Water gently.  
-  *Parent says:* A seed holds only a little food. When the seedling has used it all up, the cotton gives them nothing more to eat. Soil holds minerals, which a plant needs to keep growing.  
+  *Parent says:* A seed holds only a little food. When the seedling has used all the food up, the cotton gives them nothing more to eat. Soil holds minerals, which a plant needs to keep growing.  
   *Child mode:* Put each seedling into a cup of soil, root first. Water it gently.
   - Note: No soil? Keep them on the cotton. They will still grow for a few more days, though more slowly. Soil from a potted plant, or a small bag from any plant nursery, is enough.
   - Wait: Day 5

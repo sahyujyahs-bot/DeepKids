@@ -244,7 +244,7 @@
     }
    ],
    "art": "A chicken and an egg with a question mark between them, and next to them a strand of RNA holding both a message scroll and a tiny tool.",
-   "context": "This card is about the leading idea of how life began. It is still being tested."
+   "context": "RNA is a chain of four kinds of letters that can carry instructions, like DNA. Some RNA can also do jobs, like proteins. The RNA idea says the first life was RNA that could help copy itself. This card asks whether that is right. It is still being tested."
   },
   {
    "concept": "Cell skins that form by themselves",
@@ -346,7 +346,7 @@
    "for": "For a long time, nobody could make sugar, urea or other chemicals of living bodies in the lab.",
    "against": "Wöhler made urea in 1828, and Miller made amino acids in 1952. Chemists now make many such chemicals from non-living ones.",
    "status": "rejected",
-   "context": "This card is about an old idea that experiments showed to be wrong."
+   "context": "Until the 1800s, many chemists believed that only living things could make the chemicals found in living bodies, such as urea. This card asks whether that is true."
   },
   {
    "claim": "Life began as RNA, before DNA and proteins.",
@@ -354,7 +354,7 @@
    "for": "RNA can carry instructions and do jobs, and the ribosome's working centre is made of RNA.",
    "against": "RNA is hard to make without a cell, and it breaks easily. Nobody has yet made RNA that copies itself from scratch.",
    "status": "debated",
-   "context": "This card is about the leading idea of how life began."
+   "context": "RNA is a chain of four kinds of letters that can carry instructions, like DNA. Some RNA can also do jobs, like proteins. The RNA idea says the first life was RNA that could help copy itself. This card asks whether that is right."
   },
   {
    "claim": "Life began at hot vents on the sea floor.",
@@ -362,7 +362,7 @@
    "for": "Vents give warmth, minerals and energy, all day and night, safe from the harsh light of the young Sun.",
    "against": "RNA and other chains break apart easily in hot water, and vents do not dry out, so it is hard to join small pieces into long chains there.",
    "status": "debated",
-   "context": "This card is about one idea of where life began."
+   "context": "Hot vents are cracks in the sea floor where hot water full of minerals pours out. Some scientists think life began at vents like these. This card asks whether that is right."
   },
   {
    "claim": "Life began in warm pools on land.",
@@ -370,7 +370,7 @@
    "for": "Pools dry and wet again, which helps small pieces join into chains. Lab chemistry with sunlight makes RNA letters.",
    "against": "There was little dry land on the young Earth, and we have no rocks from the first pools.",
    "status": "debated",
-   "context": "This card is about another idea of where life began."
+   "context": "Some scientists think life began in warm pools on land, which fill with rain and dry out again and again. This card asks whether that is right."
   },
   {
    "claim": "Life came to Earth from space.",
@@ -378,7 +378,7 @@
    "for": "Meteorites carry amino acids and RNA letters, and some microbes can survive a long time in space.",
    "against": "No living thing has ever been found in a meteorite. And the idea only moves the question: how did life begin out there?",
    "status": "minority",
-   "context": "This card is about the idea that life came from space."
+   "context": "Some scientists have suggested that life, or its first building blocks, came to Earth from space on rocks called meteorites. This card asks whether life itself came from space."
   },
   {
    "claim": "All life today comes from one shared family of early cells.",
@@ -386,7 +386,7 @@
    "for": "All living things use DNA, RNA, ribosomes and the same genetic code.",
    "against": "Some think life may have begun more than once, and the other kinds died out. Even so, all life alive today shares one family.",
    "status": "accepted",
-   "context": "This card is about the idea that all life is one family."
+   "context": "This card is about the idea that every living thing today, from bacteria to mango trees to people, came from the same first cells. Scientists call this one shared family of life. This card asks whether that is right."
   }
  ],
  "big_questions": [
@@ -676,8 +676,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the points.",
-     "say": "What surprised you most about the order?",
-     "kid": "Count your points. What surprised you most?",
+     "say": "Let's check one thing from the line. Which came first: the first animals, oxygen filling the air, or dinosaurs dying out?",
+     "kid": "Count your points. Which came first: the first animals, oxygen in the air, or dinosaurs dying out?",
      "check": {
       "t": "mcq",
       "q": "In the story of life, which of these came first?",
@@ -905,7 +905,8 @@
      "art": "Three nails on white paper: one very rusty, one with orange patches, one still grey.",
      "caption": "3. After three days, compare the nails."
     }
-   ]
+   ],
+   "problem": "The young sea held iron and almost no oxygen. Then tiny microbes began to make oxygen, and the iron in the sea rusted. You will test what oxygen does to an iron nail. One nail gets plenty of oxygen. One nail gets very little."
   },
   {
    "id": "e2",
@@ -1048,7 +1049,8 @@
      "art": "Three glasses: two with white stringy clouds rising into the top layer, one clear, a toothpick lifting white threads.",
      "caption": "3. Look for white threads where the layers meet."
     }
-   ]
+   ],
+   "problem": "DNA is a long chain molecule inside every cell. It holds the instructions for that living thing. RNA is its close cousin. You will break open the cells of a banana and pull out the DNA, so you can see it as white threads."
   }
  ],
  "activities": [
@@ -1098,7 +1100,8 @@
      "do": "At the far left end, draw a big question mark.",
      "say": "Every living thing came from another living thing. So where did the very first one come from? That is what this unit is about.",
      "kid": "Draw a big question mark at the far end. Who was first? Where did they come from?",
-     "think": "If life only comes from life, how could the first life begin?"
+     "think": "If life only comes from life, how could the first life begin?",
+     "parent": "There is no sure answer yet. Scientists have ideas, and this unit looks at the leading one. It is fine for your child to say 'nobody knows'."
     }
    ],
    "setup": [
@@ -1173,7 +1176,8 @@
       "a": 1,
       "why": "Animals appear about 60 cm from the Today end. Before that, for about 3.9 metres, the Earth had no life at all and then only microbes and other tiny living things. Picking 'only the last 60 cm' mixes up when animals came with when there was only tiny life."
      },
-     "think": "For most of the Earth's story, the only life was too small to see. What were they doing all that time?"
+     "think": "For most of the Earth's story, the only life was too small to see. What were they doing all that time?",
+     "parent": "They were making their own food from sunlight, making oxygen, and building stromatolites, layer by layer, for billions of years. For most of the Earth's story, all life was tiny."
     }
    ],
    "setup": [
@@ -1189,7 +1193,8 @@
      "art": "The Today end of the string, with labels at 60 cm and 6.6 cm, and a tiny pencil dot at the very end.",
      "caption": "3. People are just the last tiny dot."
     }
-   ]
+   ],
+   "problem": "The Earth is 4.5 billion years old. That is too long to picture. You will lay out a string where each metre is one billion years. Then you will see where life, oxygen, animals and people come in."
   },
   {
    "id": "a3",
@@ -1266,7 +1271,8 @@
      "art": "Two rows of letter cards, A C G U A G and under it U G C A U C, and a third row A C G U A G written in pencil under them.",
      "caption": "2. Build the partner with cards, then write the partner's partner."
     }
-   ]
+   ],
+   "problem": "RNA is a chain of four kinds of letters: A, U, C and G. A pairs with U, and C pairs with G. You will use paper letters to see how a chain can make a partner chain, and then make a copy of itself."
   },
   {
    "id": "a4",
@@ -1325,7 +1331,8 @@
       "a": 0,
       "why": "Each copy is made from the one before it. So a change, once made, is passed on to every later copy. This is how changes add up in living things over many generations. Picking 'mistakes disappear' is a common guess, but a mistake is fixed only if someone checks the copy against the first chain."
      },
-     "think": "Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to keep a few?"
+     "think": "Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to keep a few?",
+     "parent": "Mistakes are how new kinds appear. A few mistakes can make a copy that lasts or copies better. If there were never any mistakes, life could never change. A checker stops too many mistakes, which would spoil the copies."
     }
    ],
    "setup": [
@@ -1337,7 +1344,8 @@
      "art": "A column of eight copied chains, with a few letters circled in red lower down.",
      "caption": "2. Copy fast, line by line. Circle the changes."
     }
-   ]
+   ],
+   "problem": "No copy is perfect. You will copy a chain of letters again and again, each time from your last copy. Then you will see what happens to the mistakes."
   },
   {
    "id": "a5",
@@ -1387,7 +1395,8 @@
      "mins": 2,
      "do": "Draw or photograph it, and write where you found it.",
      "say": "Is it in the sun or the shade? Why might that matter to living things that make food from light?",
-     "kid": "Draw it. Was it in sun or shade? Write it down."
+     "kid": "Draw it. Was it in sun or shade? Write it down.",
+     "parent": "Microbes that make food from sunlight need light, so a film in the sun is often greener and thicker than one in deep shade. Any answer that links light to food is a good one."
     }
    ],
    "setup": [
@@ -1625,7 +1634,8 @@
      "do": "Read the usual and creative solutions, then invent one more.",
      "say": "Here's what people usually do, and some creative ideas. Can you think of a better one?",
      "kid": "Look at the usual ways and the creative ones. Invent your own.",
-     "think": "The iron in the young sea had no coat. What kept it from rusting for so long?"
+     "think": "The iron in the young sea had no coat. What kept it from rusting for so long?",
+     "parent": "There was almost no oxygen in the young sea, and iron needs oxygen to rust. So the iron stayed unrusted until microbes began to make oxygen."
     }
    ],
    "setup": [
@@ -1695,7 +1705,8 @@
      "do": "Read the usual and creative ideas, then invent one more.",
      "say": "Here are some ideas. Which would you add to your machine?",
      "kid": "Read the ideas. Which one would you add?",
-     "think": "If the first RNA copied with no checker, it made many mistakes. Was that good or bad for life?"
+     "think": "If the first RNA copied with no checker, it made many mistakes. Was that good or bad for life?",
+     "parent": "Both. Many mistakes spoil the copies, so the chain stops working. But a few mistakes make new kinds, and some of them copy better than the old ones."
     }
    ],
    "setup": [
@@ -2793,7 +2804,7 @@
   "context": "We have learned about the oldest life, the first oxygen, and the RNA idea of how life began. Now we ask what this story tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "Your nail in open water rusted, but the nail sealed under oil stayed almost grey. Iron rusts only where oxygen reaches it. Earth's early sea had almost no oxygen until tiny microbes began making it. Their oxygen rusted iron in the sea, and much of that rust became the iron ore India mines today.",
-   "habit": "We think of the Earth as a stage, and living things as the actors who live on it. But the oldest life changed the stage itself: the air, the sea and the rocks. The planet we live on is partly made by life.",
+   "habit": "We think of the Earth as a place that was already finished, with living things simply living on it. But the oldest life changed the Earth itself: the air, the sea and the rocks. The planet we live on was partly shaped by life.",
    "evidence": "In the nail test, the nail with oxygen rusted and the nail without oxygen did not. Banded iron rocks, at Kudremukh, Sandur and Bailadila, hold red layers of rust that formed when oxygen made by microbes met iron in the sea."
   },
   "three": {

@@ -118,7 +118,7 @@
    "status": "defined",
    "context": "This card is about the cooking, cleaning and caring done at home, and why it counts as work.",
    "definition": "Unpaid work is work done for your own home or family that nobody pays for. Care work is looking after people who need help.",
-   "description": "Cooking, washing, cleaning, shopping and caring take hours every day in every home. When a house help or a cook does this work, she is paid. When a family member does the same work, nobody pays. When India adds up the value of all the work done in the country, it leaves out unpaid home work. In 2019, India's Time Use Survey asked people how they spent each minute of a day. It found that women who did unpaid home work spent about 299 minutes a day on it. Men who did any spent about 97 minutes.",
+   "description": "Cooking, washing, cleaning, shopping and caring take hours every day in every home. When a house help or a cook does this work, she is paid. When a family member does the same work, nobody pays. Every year, countries add up the value of everything that is made and sold, to count their income. India does this too. Unpaid home work is left out of that income, because nobody pays money for it. In 2019, India's Time Use Survey asked people how they spent each minute of a day. It found that women who did any unpaid home work spent about 299 minutes a day on it, which is about five hours. Men who did any spent about 97 minutes, which is a little over an hour and a half.",
    "examples": [
     "Cooking three meals for a family of five can take more than three hours a day.",
     "Sitting with a sick grandparent at night is care work.",
@@ -213,7 +213,7 @@
   {
    "claim": "Housework is not real work, because nobody is paid for it.",
    "who": "A common view, and the way countries add up their income",
-   "context": "This card is about whether home work counts as work.",
+   "context": "Every year, countries add up the value of everything that is made and sold, to count their income. Unpaid home work is not counted in it, because nobody pays money for it. This card asks whether that means home work is not real work.",
    "for": "Nobody pays money for it, so it does not appear in a country's income figures.",
    "against": "The same jobs are paid when a house help or a cook does them. Without this work, nobody could eat, stay clean or go out to a paid job. Many countries now measure it with time use surveys.",
    "status": "rejected"
@@ -221,7 +221,7 @@
   {
    "claim": "Hugging and comforting a child too much spoils them.",
    "who": "John B. Watson and Rosalie Rayner Watson, in their book for parents, 1928",
-   "context": "This card is about an old idea of how to bring up children.",
+   "context": "In 1928, an American psychologist, John B. Watson, and his co-writer Rosalie Rayner Watson, told parents in a book never to hug or kiss their children. They thought it would spoil them. This card asks whether that is true.",
    "for": "They thought children who were cuddled would grow up weak and clingy.",
    "against": "Harlow's baby monkeys ran to a soft cloth mother when scared. Children's studies since then show that comfort makes children braver, not weaker.",
    "status": "rejected"
@@ -229,7 +229,7 @@
   {
    "claim": "A child needs only their mother to grow up well.",
    "who": "John Bowlby's early writing, in the 1950s",
-   "context": "This card is about who a child needs.",
+   "context": "In the 1950s, a British doctor, John Bowlby, wrote that a baby needs one main carer, usually the mother, above all others. This card asks whether a child needs only their mother to grow up well.",
    "for": "Babies often cling most to one person, and are upset when that person goes away.",
    "against": "Rudolph Schaffer and Peggy Emerson followed babies in Glasgow in 1964 and found most of them grew attached to several people. Grandmothers, fathers and others raise children well.",
    "status": "minority"
@@ -639,7 +639,8 @@
      "art": "A pictograph on paper with small clock pictures in rows, one row for each family member, one clock for every 15 minutes.",
      "caption": "3. Draw one clock for every 15 minutes of work."
     }
-   ]
+   ],
+   "problem": "Every family needs hours of cooking, washing and caring each day. Most of that work is never paid, so people hardly notice it. You will time every home job in one evening. Then you will see how much work it is, and who does it."
   },
   {
    "id": "e2",
@@ -753,7 +754,8 @@
      "art": "A girl, her mother and her grandmother folding the same clothes together on the mat.",
      "caption": "3. Fold them with two people, then three, and time each try."
     }
-   ]
+   ],
+   "problem": "Jobs at home get done faster when people share them. But is it exactly twice as fast with two people? You will fold the same pile of clothes alone, with two people and with three, and time each try."
   }
  ],
  "activities": [
@@ -812,7 +814,8 @@
       "a": 0,
       "why": "English uses one word, uncle, for a mother's brother, a father's brother and the husbands of aunts. Many Indian languages have a separate word for each, so the word tells you exactly how the person is related."
      },
-     "think": "Why might a language have so many words for relatives?"
+     "think": "Why might a language have so many words for relatives?",
+     "parent": "Many Indian languages have separate words because, in a family, it matters whether a person is on the mother's side or the father's side, and whether they are older or younger. English groups them under one word."
     }
    ],
    "setup": [
@@ -824,7 +827,8 @@
      "art": "The same table filled in, with the word 'uncle' circled four times in the English column.",
      "caption": "2. Count how many people English calls uncle."
     }
-   ]
+   ],
+   "problem": "In English, the word uncle is used for four different relatives. Many Indian languages have a separate word for each one. You will write the words in your home language and in English, and compare them."
   },
   {
    "id": "a2",
@@ -888,7 +892,8 @@
       "a": 1,
       "why": "Each of your 4 grandparents had 2 parents, and 4 times 2 is 8. The number doubles every generation you go back. If you chose 6, you added 2 instead of doubling."
      },
-     "think": "If the number doubles each generation, how many ancestors did you have 10 generations ago?"
+     "think": "If the number doubles each generation, how many ancestors did you have 10 generations ago?",
+     "parent": "The number doubles each time: 2, 4, 8, 16, 32, 64, 128, 256, 512 and 1,024. So 10 generations ago you had 1,024 ancestors."
     }
    ],
    "setup": [
@@ -952,7 +957,8 @@
      "do": "Ask each person to say one job their hands do for the family. Write it inside the hand.",
      "say": "What do your hands do for our family? Tell me, and I will write it in.",
      "kid": "Ask each person. What do your hands do for the family?",
-     "think": "Does the biggest hand do the most work?"
+     "think": "Does the biggest hand do the most work?",
+     "parent": "Usually not. A small hand can do a lot of work. What matters is what each person does for the family, not how big their hand is."
     }
    ],
    "setup": [
@@ -964,7 +970,8 @@
      "art": "A ruler laid across a traced hand from the thumb tip to the little finger tip, with a job written in the palm.",
      "caption": "2. Measure each hand span and write one job inside."
     }
-   ]
+   ],
+   "problem": "Every person in a family does jobs with their hands. You will trace each person's hand on one sheet. Then you will write one job that hand does for the family."
   },
   {
    "id": "a4",
@@ -1118,7 +1125,8 @@
      "do": "Put the answers in a table, oldest first. Ask what changed from one generation to the next.",
      "say": "Look down the table from the oldest woman to you. What changed? What stayed the same?",
      "kid": "Look from the oldest woman down to you. What changed?",
-     "think": "Why did girls in the past leave school earlier than boys?"
+     "think": "Why did girls in the past leave school earlier than boys?",
+     "parent": "Many families thought a daughter's place was at home. They needed her to help with housework and with the younger children, so they sent the sons to school instead. This is the unfair treatment described in the card 'Girls and women, then and now'."
     }
    ],
    "setup": [
@@ -1219,7 +1227,8 @@
      "say": "Let's count again. Did the rows of clocks change?",
      "kid": "Count again. Compare the two pictographs. What changed?",
      "wait": "Day 7",
-     "think": "Was the work shared more fairly this week? How can you tell?"
+     "think": "Was the work shared more fairly this week? How can you tell?",
+     "parent": "Look at the rows of clocks in the two pictographs. If the rows are closer in length the second time, the work was shared more evenly."
     }
    ],
    "setup": [
@@ -2352,7 +2361,7 @@
  "roots": {
   "context": "We have named our relatives, counted every minute of home work in one evening, and met animal families. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the Home Work Count, you found that cooking, washing and caring take hours in a home every evening. A house help is paid for this work, but a family member doing it is not. When India adds up the value of all its work, it leaves out unpaid home work. So the work that keeps every family alive is missing from the country's total.",
+   "truth": "In the Home Work Count, you found that cooking, washing and caring take hours in a home every evening. A house help is paid for this work, but a family member doing it is not. Every year, India adds up the value of everything made and sold, to count the country's income. Unpaid home work is left out of that income. So the work that keeps every family alive is missing from the figures.",
    "habit": "We use the word 'work' for a paid job. People say 'Appa goes to work' and 'Amma doesn't work', even when Amma works for hours at home. The word hides the work that everything else depends on.",
    "evidence": "In the Home Work Count, the jobs added up to hours in one evening, and only a house help, if there was one, was paid. India's Time Use Survey of 2019 found women doing about 299 minutes of unpaid home work a day."
   },

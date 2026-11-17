@@ -102,7 +102,7 @@
   },
   {
    "term": "Balance point (centre of gravity)",
-   "meaning": "The point where a thing balances. Its weight acts as if it were all there. For a plane to fly steadily, this point must be a little in front of the middle of its wings.",
+   "meaning": "The point where a thing balances on your fingertip. All of its weight acts as if it were at that one point. For a plane to fly steadily, this point must be a little in front of the middle of its wings.",
    "example": "Balance a paper plane on your fingertip. Where it balances is its balance point.",
    "art": "A paper plane balanced on one fingertip, a dot marking the point."
   },
@@ -187,7 +187,7 @@
   {
    "concept": "How a wing makes lift: it pushes air down",
    "status": "defined",
-   "definition": "A wing makes lift by turning the air that flows past it downwards. When the wing pushes air down, the air pushes the wing up. That push shows up as lower air pressure above the wing and higher air pressure below it.",
+   "definition": "A wing makes lift by turning the air that flows past it downwards. When the wing pushes air down, the air pushes the wing up. Air pressure is how hard the air pushes on a surface. Above the wing it becomes a little lower, and below the wing it becomes a little higher. That difference is the push up.",
    "description": "Every push has an equal push back. Isaac Newton wrote this down in 1687, and it is called Newton's third law. When you swim, you push water backwards, and the water pushes you forwards. A wing works the same way with air. As it moves through the air, tilted slightly upwards at the front, it bends the air behind it downwards. The air pushes back, upwards, on the wing. That upward push is lift. How does the air push on the wing? Through air pressure. As the wing bends the air, the air presses a little less on the top of the wing and a little more on the bottom. Pushing air down and the difference in pressure are two ways of describing the same lift. Even a flat wing, like a paper plane's, can do this, as long as it is tilted a little. A helicopter shows it plainly. Stand near one and you feel a gale blowing down.",
    "examples": [
     "Under a hovering helicopter, a strong wind blows straight down.",
@@ -231,7 +231,7 @@
    "concept": "How a kite flies",
    "status": "defined",
    "definition": "A kite flies because the wind pushes on it while the string holds it back. The kite is tilted, so the wind is turned downwards and the kite is pushed upwards.",
-   "description": "A kite has no engine and does not flap. Instead, the wind moves past it. The string pulls the kite back, so it can't simply be blown away. The tilted kite turns the wind downwards, and the wind pushes the kite up. If the string goes slack, the kite tumbles. If the wind stops, you can run, so the air still moves past the kite. A tail adds a little drag at the back. It keeps the kite's nose pointing into the wind, so it doesn't spin. Old stories from China say people made kites there more than 2,000 years ago. In India, kites fill the sky on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, on Vishwakarma Puja in Kolkata, and on Independence Day in Delhi.",
+   "description": "A kite has no engine and does not flap. Instead, the wind moves past it. The string pulls the kite back, so it can't simply be blown away. The tilted kite turns the wind downwards, and the wind pushes the kite up. If the string goes slack, the kite tumbles. If the wind stops, you can run with the kite instead. Running makes the air move past the kite, just as wind does. A tail adds a little drag at the back. It keeps the kite's nose pointing into the wind, so it doesn't spin. Old stories from China say people made kites there more than 2,000 years ago. In India, kites fill the sky on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, on Vishwakarma Puja in Kolkata, and on Independence Day in Delhi.",
    "examples": [
     "A patang climbs when the string is pulled tight and drops when it goes slack.",
     "On a still day you must run to fly a kite.",
@@ -302,7 +302,7 @@
    "concept": "Seeds that fly",
    "status": "defined",
    "definition": "Many plants make seeds that fly, so the wind carries them far from the parent plant. Some float on parachutes of fine hairs. Some spin on one wing. Some glide on two wings.",
-   "description": "A seed that lands under their parent has to share light and water with them. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so the seed falls very slowly. A mahogany seed has one wing and spins while falling. In 2009, scientists filmed spinning maple seeds and found something new. The spinning makes a little whirl of air over the wing, which gives extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about 13 centimetres across, wider than your palm. The seed glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like this seed.",
+   "description": "A seed that lands under their parent has to share light and water with them. A seed that travels can find new ground. So plants have found many ways to fly. A dandelion seed hangs under a tuft of about a hundred fine bristles. In 2018, scientists in Edinburgh found that air flowing through the bristles makes a ring of swirling air above the seed. The ring holds the seed up, so the seed falls very slowly. A mahogany seed has one wing and spins while falling. In 2009, scientists filmed spinning maple seeds and found that the spinning makes a little whirl of air over the wing. The whirl gives the seed extra lift. Some seeds glide. The Javan cucumber, a climbing plant in Asia, makes a paper-thin seed with wings about 13 centimetres across, wider than your palm. The seed glides like a tiny plane. In the early 1900s, an Austrian inventor, Igo Etrich, built gliders shaped like this seed.",
    "examples": [
     "Silky aak and semal fluff floats away on the wind.",
     "Big-leaf mahogany seeds spin down like helicopters in many Indian cities.",
@@ -1223,7 +1223,8 @@
       "emoji": "📎"
      }
     ]
-   }
+   },
+   "problem": "A paper plane has no engine, so after you throw it, it glides. Where its weight sits decides whether it glides steadily, swoops up and drops, or dives. You will add paper clips to the nose and find out how many let the plane fly furthest."
   },
   {
    "id": "e2",
@@ -1380,7 +1381,8 @@
      "do": "Take the clip off one spinner and drop it. Then put two clips on it and drop it.",
      "say": "What happens with no clip? And with two?",
      "kid": "Take the clip off one spinner and drop the spinner. Now put two clips on it and drop it again. What changed?",
-     "think": "In a real mahogany fruit, the heavy seed sits at one end and the wing is at the other. Why might that help the seed spin?"
+     "think": "In a real mahogany fruit, the heavy seed sits at one end and the wing is at the other. Why might that help the seed spin?",
+     "parent": "Without the clip, the spinner is very light. It flutters and tumbles instead of spinning steadily. The clip keeps the heavy end at the bottom, so the wings spin evenly. A real mahogany fruit has the heavy seed at one end and the wing at the other, for the same reason."
     },
     {
      "id": "s5",
@@ -1415,7 +1417,8 @@
       "emoji": "🌀"
      }
     ]
-   }
+   },
+   "problem": "Winged seeds, like those of the mahogany tree, spin as they fall. The spinning wing pushes on the air, so the seed falls slowly. That gives the wind time to carry them far. You will make paper models of such seeds and find out whether longer wings slow the fall more."
   },
   {
    "id": "e3",
@@ -1554,7 +1557,8 @@
       "Wobbly"
      ]
     ]
-   }
+   },
+   "problem": "A wing stays up when it is tilted a little, because it pushes moving air downwards and the air pushes the wing up. Your hand can act as a wing, and a fan makes the moving air. You will tilt your hand and feel how the push of the air changes."
   }
  ],
  "activities": [
@@ -1645,7 +1649,8 @@
      "think": "If air pushes back so hard on a card, how hard must it push on the wings of a big plane?"
     }
    ],
-   "context": "This activity shows that air is a real material. It fills an 'empty' glass, and it pushes back when you run with a card."
+   "context": "This activity shows that air is a real material. It fills an 'empty' glass, and it pushes back when you run with a card.",
+   "problem": "We cannot see air, so it is easy to think there is nothing there. But a wing can only stay up if air is a real material that it can push on. You will show that an 'empty' glass is full of air, and that air pushes back."
   },
   {
    "id": "a2",
@@ -1738,7 +1743,8 @@
      }
     }
    ],
-   "context": "In this activity a grown-up points a hair dryer upwards. You float a feather and a ping-pong ball on the moving air, and see the air push."
+   "context": "In this activity a grown-up points a hair dryer upwards. You float a feather and a ping-pong ball on the moving air, and see the air push.",
+   "problem": "Moving air can push things up. A hair dryer makes a stream of moving air, and you will see it hold up a light ball. Then you will compare this with a wing, which pushes air down instead."
   },
   {
    "id": "a3",
@@ -1813,10 +1819,11 @@
      "do": "Talk about why plants send seeds so far.",
      "say": "Why is it good for a tree if the seeds fly far away, instead of dropping just underneath?",
      "kid": "Why is it good for a tree if the seeds fly far away?",
-     "think": "Some seeds fly, some float on water, and some stick to animals' fur. If you were a plant, which way would you send your seeds?"
+     "parent": "A seed that lands under the parent tree has to share light and water with them. A seed that flies far away can land on new ground and grow there."
     }
    ],
-   "context": "This is a seed hunt, if you have a park or a tree-lined road nearby. You collect seeds that fly, sort them by how they fly, and time how slowly they fall."
+   "context": "This is a seed hunt, if you have a park or a tree-lined road nearby. You collect seeds that fly, sort them by how they fly, and time how slowly they fall.",
+   "problem": "Many plants send their seeds out on the air, so the seeds land far from the parent plant. Some seeds have fluff like a parachute, some spin on one wing, and some glide. You will find these seeds and sort them by how they fly."
   },
   {
    "id": "a4",
@@ -1898,10 +1905,12 @@
      "say": "Which kind of flying did we see most? Which kind looks like the least work?",
      "kid": "Count your tally marks. Which kind of flying did you see most? Which looks easiest?",
      "how": "a4",
-     "think": "Soaring birds use the Sun's heat to climb, without flapping. Where else does the Sun's heat make air or water move?"
+     "think": "Soaring birds use the Sun's heat to climb, without flapping. Where else does the Sun's heat make air or water move?",
+     "parent": "Good answers: the wind, the sea breeze at the beach, and the monsoon. The Sun heats some places more than others. Warm air or water rises, and cooler air or water moves in to take its place. That is the same thing that lifts a cheel."
     }
    ],
-   "context": "This is a bird-watching activity. You watch the sky for about 12 minutes and sort birds by how they fly: flapping, gliding or soaring."
+   "context": "This is a bird-watching activity. You watch the sky for about 12 minutes and sort birds by how they fly: flapping, gliding or soaring.",
+   "problem": "Birds use different tricks to stay up. Some flap their wings, some glide with their wings held still, and some soar, which means they rise on warm air without flapping. You will watch birds and sort them by what they do."
   },
   {
    "id": "a5",
@@ -1974,10 +1983,12 @@
       "a": 0,
       "why": "Downwards is right. The tilted wing pushed the molecules down, and they pushed the wing up. That is lift. Picking 'upwards' turns the picture over. Picking 'nowhere' misses that every bump changed a molecule's direction."
      },
-     "think": "You can't see a single air molecule. How did scientists ever find out they exist?"
+     "think": "Imagine a wing in space, where there are no molecules underneath it. What would push the wing up?",
+     "parent": "Nothing would push it up. With no molecules to bump the wing, there is no lift. That is why a plane's wings do nothing in space."
     }
    ],
-   "context": "This is a short play. People act as air molecules, and someone walks through them with a tilted cardboard wing. It shows what lift is deep down."
+   "context": "This is a short play. People act as air molecules, and someone walks through them with a tilted cardboard wing. It shows what lift is deep down.",
+   "problem": "Air is made of tiny molecules that bump into everything. A tilted wing bumps molecules downwards, and the molecules push back and lift the wing. You will act this out with people as molecules and a piece of cardboard as the wing."
   },
   {
    "id": "a6",
@@ -2065,8 +2076,7 @@
      "mins": 2,
      "do": "End the dance by asking which flyer each person liked being most.",
      "say": "Which flyer did you like being most? Why?",
-     "kid": "Which flyer did you like being most? Tell someone why.",
-     "think": "People have danced like birds for thousands of years. Why do you think flying makes people want to dance?"
+     "kid": "Which flyer did you like being most? Tell someone why."
     }
    ],
    "context": "This is a dance and breathing activity. You move like the different flyers in this unit, and then breathe out gently like the wind."
@@ -2162,7 +2172,7 @@
      "id": "s3",
      "mins": 15,
      "do": "1. Tie a string loop, called a bridle, from the top of the long stick to the bottom. 2. Tie the flying thread to the bridle about a third of the way down from the top. 3. Tie a tail, 1 to 2 metres long, to the bottom. 4. Decorate the kite.",
-     "say": "The bridle sets the tilt. The tail keeps the nose pointing into the wind.",
+     "say": "The string loop, called the bridle, decides how much the kite tilts. The tail keeps the kite's nose pointing into the wind.",
      "kid": "Tie a string loop from top to bottom. Tie the flying string to it, near the top. Add a long tail. Decorate it!",
      "parent": "Where the flying string joins the bridle sets the kite's tilt. If the kite will not climb, move the knot a little up or down the bridle and try again. Change it only a little each time."
     },
@@ -2203,7 +2213,8 @@
      "think": "In the story The Kite Who Watched the Kites, glass-coated string cut the cheel's wing. How can kite festivals be safe for birds?"
     }
    ],
-   "context": "In this 3-day project you build a diamond paper kite, a patang, from bamboo sticks and paper. Then you fly it, and change the tail and the tilt to make it fly better."
+   "context": "In this 3-day project you build a diamond paper kite, a patang, from bamboo sticks and paper. Then you fly it, and change the tail and the tilt to make it fly better.",
+   "problem": "A kite has no engine and does not flap. The wind pushes it, the string holds it back, and its tilt turns the push upwards. You will build a kite, fly it, and then change its tail and its tilt to make it fly better."
   }
  ],
  "challenges": [
@@ -2263,7 +2274,8 @@
      "do": "Read the usual solutions and the creative ideas together.",
      "say": "Here is what usually works, and some creative ideas. Which will you try? Or can you invent something new?",
      "kid": "Look at the usual ideas and the creative ones. Which will you try? Or invent your own.",
-     "think": "A dandelion seed is mostly empty space, yet a ring of air above the seed holds the seed up. Can empty space be useful?"
+     "think": "A dandelion seed is mostly empty space, yet a ring of air above the seed holds the seed up. Can empty space be useful?",
+     "parent": "Yes. The gaps between the bristles let air flow through the seed. That air makes a ring of swirling air above the seed, and the ring helps to hold the seed up."
     },
     {
      "id": "s3",
@@ -2347,7 +2359,7 @@
      "do": "1. Your child designs and builds their own glider. 2. Throw it 3 times and measure each flight. 3. Improve it and test again.",
      "say": "What will you change to make it go further? Change only one thing at a time.",
      "kid": "Build your own coin glider. Throw it 3 times and measure. Change one thing and try again.",
-     "parent": "The coin on the tail usually makes the plane swoop up and drop. On the nose, it glides steadily. This is the balance point idea from the Paper Clip Pilot experiment.",
+     "parent": "The coin on the tail usually makes the plane swoop up and drop. On the nose, it glides steadily. This is the balance point idea from the Paper Clip Pilot experiment. Engineers also load real planes so the balance point stays a little in front of the middle of the wings, so heavy things are placed near the middle.",
      "check": {
       "t": "mcq",
       "q": "In the Air Mail challenge, where is the coin best placed for a steady glide?",
@@ -3153,7 +3165,7 @@
    "t": "mcq",
    "p": "Some scientists think the first birds began to fly by gliding down from trees. Others think they flapped while running up slopes. How could fossils help decide?",
    "opts": [
-    "Fossil bodies built for climbing trees would support gliding; bodies built for running would support the other idea",
+    "Climbing bodies support gliding. Running bodies support flapping",
     "Fossils cannot tell us anything",
     "Only a living dinosaur could tell us"
    ],
@@ -3774,7 +3786,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "The air holds up a bird the way a floor holds up a chair. It is a force between molecules, and saying the bird and the air fly together adds nothing that the physics does not already say."
+   "view": "A floor holds up a chair by pushing on it. In the same way, air holds up a bird by pushing on the wings. That push is only air molecules bumping into the wings. So these physicists say it adds nothing to say that the bird and the air fly together. The physics of the push already says everything."
   },
   "practice": {
    "title": "Feel the invisible",
@@ -3796,5 +3808,117 @@
   "wrong_idea": "The numbers inventors had used for many years to work out how much a wing lifts were correct. The Wrights' wind tunnel showed that one key number was too big."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a family of two (parent and child) would, in a city flat. Games: all 24 flyer cards, 5 mats and 20 feathers are listed one by one; the mat for soaring birds was missing, so mat 2 is now GLIDERS AND SOARERS, and the practice card is shuffled back so the count stays 24. Paper Plane Airport had 8 cards for up to 16 turns and a torn-wing card that cannot be undone, so cards now go back to the bottom of the pile, every change is undone after the throw, and the tear became a bent wing edge. Experiments: added the missing dart-plane folding steps and the tape the steps need; moved the Hand Wing check to the step where the hand is tilted; kept the made-up numbers labelled and the honest 'no difference' result. Core path now uses a hallway or longest room, not a park. Air Mail challenge now reads the ideas before building. Removed repeated questions (tissue glass, plane swoop, hand tilt, spinner chart, bottle in water, kite string story question), two weak jokes (8 kept), two unused books from the buy list, and fixed names and pronouns (new names for Pooja and Isha, Isha introduced, 'her back' made 'their back', Bob Balaram no longer 'its'). Added Kolkata Vishwakarma Puja, a saree end and a postage stamp for variety across India. The two YouTube videos were opened (oembed) and match. Not checked: the claim that the toy kite is named after the bird, and that a 4 cm-wing paper spinner will spin steadily (the steps say to drop again if it tumbles).",
- "warm": {"words": ["WINGS", "GLIDE", "FORCE", "STALL", "KITES"], "quiz": [["A wing stays up by pushing air downwards, and the air pushes the wing upwards.", true, "When a wing pushes air down, the air pushes back up on the wing. That push is lift."], ["Only wings with curved tops can make lift.", false, "Flat paper wings fly, and stunt planes fly upside down. The tilt and the air pushed down matter most."], ["A wing tilted too steeply can lose most of its lift and drop.", true, "Too much tilt stops the air from following the top of the wing, so lift is lost."], ["Air is empty space, so it cannot push on anything.", false, "Air is made of tiny moving particles. It takes up space, has weight and pushes on things."], ["A heavy jumbo jet cannot fly, because heavy things always fall.", false, "Big wings push a lot of air down, so the lift can be bigger than the weight."], ["A glider with no engine keeps moving forward by slowly sinking through the air.", true, "Sliding gently downwards through the air gives a glider its forward movement, while its wings make lift."], ["Air going over a wing speeds up because it must meet the air from underneath at the same time.", false, "Nothing makes the two streams meet again. Smoke films show the air on top arrives much sooner."], ["Drag pushes a flying thing forward.", false, "Drag is the air pushing back against movement. Thrust is the push that goes forward."], ["Some birds can climb without flapping by riding on rising warm air.", true, "Warm air rises from hot ground in bubbles called thermals. Soaring birds circle inside them and go up."], ["A kite flies because the wind pushes it while the string holds it back.", true, "The string holds the tilted kite, so the wind is turned downwards and the kite is pushed up."]], "odd": [[["Dandelion seed", "Maple seed", "Madar seed", "Mango stone"], "Mango stone", "The first three are carried far by wind on hairs or wings. A mango stone is heavy and just drops."], [["Flying squirrel", "Gliding frog", "Flying lizard", "Bat"], "Bat", "The first three spread skin flaps and glide without flapping. A bat flaps their wings to fly."], [["Flapping wings", "Propeller", "Jet engine", "Sinking slowly"], "Sinking slowly", "The first three give a forward push called thrust. Sinking slowly in a glide is not a push at all."], [["Kite", "Paper plane", "Sparrow", "Spacecraft in space"], "Spacecraft in space", "Kites, paper planes and sparrows need air to push on for lift. There is no air in space."], [["Wing pushes air down", "Lift pushes wing up", "Equal-time rule", "Air has weight"], "Equal-time rule", "The other three are true. The equal-time explanation of lift is wrong, because nothing makes the two air streams meet."]]}
+ "warm": {
+  "words": [
+   "WINGS",
+   "GLIDE",
+   "FORCE",
+   "STALL",
+   "KITES"
+  ],
+  "quiz": [
+   [
+    "A wing stays up by pushing air downwards, and the air pushes the wing upwards.",
+    true,
+    "When a wing pushes air down, the air pushes back up on the wing. That push is lift."
+   ],
+   [
+    "Only wings with curved tops can make lift.",
+    false,
+    "Flat paper wings fly, and stunt planes fly upside down. The tilt and the air pushed down matter most."
+   ],
+   [
+    "A wing tilted too steeply can lose most of its lift and drop.",
+    true,
+    "Too much tilt stops the air from following the top of the wing, so lift is lost."
+   ],
+   [
+    "Air is empty space, so it cannot push on anything.",
+    false,
+    "Air is made of tiny moving particles. It takes up space, has weight and pushes on things."
+   ],
+   [
+    "A heavy jumbo jet cannot fly, because heavy things always fall.",
+    false,
+    "Big wings push a lot of air down, so the lift can be bigger than the weight."
+   ],
+   [
+    "A glider with no engine keeps moving forward by slowly sinking through the air.",
+    true,
+    "Sliding gently downwards through the air gives a glider its forward movement, while its wings make lift."
+   ],
+   [
+    "Air going over a wing speeds up because it must meet the air from underneath at the same time.",
+    false,
+    "Nothing makes the two streams meet again. Smoke films show the air on top arrives much sooner."
+   ],
+   [
+    "Drag pushes a flying thing forward.",
+    false,
+    "Drag is the air pushing back against movement. Thrust is the push that goes forward."
+   ],
+   [
+    "Some birds can climb without flapping by riding on rising warm air.",
+    true,
+    "Warm air rises from hot ground in bubbles called thermals. Soaring birds circle inside them and go up."
+   ],
+   [
+    "A kite flies because the wind pushes it while the string holds it back.",
+    true,
+    "The string holds the tilted kite, so the wind is turned downwards and the kite is pushed up."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Dandelion seed",
+     "Maple seed",
+     "Madar seed",
+     "Mango stone"
+    ],
+    "Mango stone",
+    "The first three are carried far by wind on hairs or wings. A mango stone is heavy and just drops."
+   ],
+   [
+    [
+     "Flying squirrel",
+     "Gliding frog",
+     "Flying lizard",
+     "Bat"
+    ],
+    "Bat",
+    "The first three spread skin flaps and glide without flapping. A bat flaps their wings to fly."
+   ],
+   [
+    [
+     "Flapping wings",
+     "Propeller",
+     "Jet engine",
+     "Sinking slowly"
+    ],
+    "Sinking slowly",
+    "The first three give a forward push called thrust. Sinking slowly in a glide is not a push at all."
+   ],
+   [
+    [
+     "Kite",
+     "Paper plane",
+     "Sparrow",
+     "Spacecraft in space"
+    ],
+    "Spacecraft in space",
+    "Kites, paper planes and sparrows need air to push on for lift. There is no air in space."
+   ],
+   [
+    [
+     "Wing pushes air down",
+     "Lift pushes wing up",
+     "Equal-time rule",
+     "Air has weight"
+    ],
+    "Equal-time rule",
+    "The other three are true. The equal-time explanation of lift is wrong, because nothing makes the two air streams meet."
+   ]
+  ]
+ }
 }

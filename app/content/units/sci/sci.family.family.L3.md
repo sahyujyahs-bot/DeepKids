@@ -19,10 +19,10 @@
 - **Relative**: A person who belongs to your family, even if they live far away. *e.g.* Your mother's brother, your father's sister and your cousins are all relatives.
 - **Generation**: All the people in a family who were born at about the same time. Grandparents are one generation, parents the next, and children the next. *e.g.* Ajji, Appa and Kavya belong to three different generations.
 - **Mother's side and father's side**: Your relatives through your mother are on your mother's side. Your relatives through your father are on your father's side. *e.g.* In Tamil, Mama is your mother's brother and Chithappa is your father's younger brother. In English, both are called uncle.
-- **Joint family and nuclear family**: A joint family is a big family where grandparents, parents, uncles, aunts and cousins live together. A nuclear family is parents, or one parent, living with their children. *e.g.* Farhan lives with his grandparents, his parents, his uncle, his aunt and two cousins. That is a joint family.
-- **Guardian**: A grown-up who takes the place of a parent and is responsible for a child. *e.g.* Meenakshi's grandmother is her guardian, because her parents work in another country.
+- **Joint family and nuclear family**: A joint family is a big family where grandparents, parents, uncles, aunts and cousins live together. A nuclear family is parents, or one parent, living with their children. *e.g.* A child who lives with grandparents, parents, an uncle, an aunt and two cousins lives in a joint family.
+- **Guardian**: A grown-up who takes the place of a parent and is responsible for a child. *e.g.* When a child's parents work in another country and her grandmother looks after her, the grandmother is her guardian.
 - **Unpaid work**: Work that nobody pays money for, such as cooking for your own family, washing your own clothes or looking after a sick grandparent. *e.g.* When a house help washes the vessels, she is paid. When Amma washes the same vessels, nobody pays her. Both are doing work.
-- **Care work**: Looking after people who need help: feeding a baby, bathing a toddler, giving medicine, helping with homework, sitting with someone who is ill. *e.g.* Rina in Guwahati spends half an hour each evening helping her grandfather with his eye drops and his walk. That is care work.
+- **Care work**: Looking after people who need help: feeding a baby, bathing a toddler, giving medicine, helping with homework, sitting with someone who is ill. *e.g.* Spending half an hour each evening helping a grandfather with his eye drops and his walk is care work.
 - **Discrimination**: Treating someone unfairly because of who they are, for example because she is a girl. *e.g.* Sending a son to school but keeping a daughter at home to do housework is discrimination.
 - **Equal rights**: Rights that every person has in the same way, whoever they are. India's Constitution gives women and men equal rights. *e.g.* Every girl and every boy in India from 6 to 14 has the right to go to school for free.
 
@@ -31,9 +31,9 @@
 **Definition:** A family is a group of people who care for each other and are joined by birth, marriage, adoption or by choosing to live as a family.
 
 Families come in many shapes. A joint family has grandparents, parents, uncles, aunts and cousins under one roof. A nuclear family is parents and their children. Some children live with one parent, some with grandparents, and some were adopted. Some families live apart, with a parent working in another city or country. What makes all of these families is the same: the people in them look after each other.
-- e.g. Farhan in Hyderabad lives in a joint family of nine people.
-- e.g. Divya in Kochi lives with her mother only. They are a family of two.
-- e.g. Arjun, aged 8, was adopted as a baby. His parents are his parents, just as much as anyone's.
+- e.g. Nine people from three generations living in one home are a joint family.
+- e.g. A mother and her daughter who live together are a family of two.
+- e.g. A child who was adopted as a baby: the parents are the child's parents, just as much as anyone's.
 ### How relatives are related · *defined*
 **Definition:** A relation is the way two people in a family are connected, such as 'my mother's brother'. A relation word is the name we call them, such as Mama.
 
@@ -45,7 +45,7 @@ Each person has two parents, four grandparents and eight great-grandparents. You
 ### Home work is work · *defined*
 **Definition:** Unpaid work is work done for your own home or family that nobody pays for. Care work is looking after people who need help.
 
-Cooking, washing, cleaning, shopping and caring take hours every day in every home. When a house help or a cook does this work, she is paid. When a family member does the same work, nobody pays. When India adds up the value of all the work done in the country, it leaves out unpaid home work. In 2019, India's Time Use Survey asked people how they spent each minute of a day. It found that women who did unpaid home work spent about 299 minutes a day on it. Men who did any spent about 97 minutes.
+Cooking, washing, cleaning, shopping and caring take hours every day in every home. When a house help or a cook does this work, she is paid. When a family member does the same work, nobody pays. Every year, countries add up the value of everything that is made and sold, to count their income. India does this too. Unpaid home work is left out of that income, because nobody pays money for it. In 2019, India's Time Use Survey asked people how they spent each minute of a day. It found that women who did any unpaid home work spent about 299 minutes a day on it, which is about five hours. Men who did any spent about 97 minutes, which is a little over an hour and a half.
 - e.g. Cooking three meals for a family of five can take more than three hours a day.
 - e.g. Sitting with a sick grandparent at night is care work.
 - e.g. A house help who sweeps and mops is doing paid work. The same sweeping by Amma is unpaid work.
@@ -75,7 +75,7 @@ A calf walks within hours of being born. A human baby takes about a year to walk
 - e.g. Grandmothers, aunts, older brothers and sisters often feed and carry babies in Indian families.
 - e.g. In many homes, a neighbour or a house help also cares for a child.
 - **Sarah Blaffer Hrdy, an American scientist who studies animals and people, in her book Mothers and Others (2009):** Human mothers have always had help from others, such as grandmothers, fathers and older children. Without these helpers, our long childhood would not have been possible.
-- **Kristen Hawkes and her team, who studied the Hadza people of Tanzania:** Grandmothers matter most. Hadza grandmothers dig food for their grandchildren, so mothers can have the next baby sooner. This is called the grandmother idea.
+- **Kristen Hawkes and her team, who studied the Hadza people of Tanzania:** Grandmothers matter most. Hadza grandmothers dig up food for their grandchildren, so mothers can have the next baby sooner. This is called the grandmother idea.
 - **John Bowlby, a British doctor, in his early writing:** A baby needs one main carer, usually the mother, above all others. Later studies found that most babies attach to several people.
 
 ## Mostly agreed
@@ -101,7 +101,7 @@ A calf walks within hours of being born. A human baby takes about a year to walk
 ## Roots
 We have named our relatives, counted every minute of home work in one evening, and met animal families. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Your count found that cooking, washing and caring take hours in a home every evening. A house help is paid for this work, but a family member doing it is not. When India adds up the value of all its work, it leaves out unpaid home work. So the work that keeps every family alive is missing from the count.  
+**Deep truth.** In the Home Work Count, you found that cooking, washing and caring take hours in a home every evening. A house help is paid for this work, but a family member doing it is not. Every year, India adds up the value of everything made and sold, to count the country's income. Unpaid home work is left out of that income. So the work that keeps every family alive is missing from the figures.  
 *Habit it breaks:* We use the word 'work' for a paid job. People say 'Appa goes to work' and 'Amma doesn't work', even when Amma works for hours at home. The word hides the work that everything else depends on.  
 *Evidence:* In the Home Work Count, the jobs added up to hours in one evening, and only a house help, if there was one, was paid. India's Time Use Survey of 2019 found women doing about 299 minutes of unpaid home work a day.
 
@@ -112,7 +112,7 @@ We have named our relatives, counted every minute of home work in one evening, a
 A home is many people doing many jobs: one cooks, one washes, one carries the baby, one earns money. Each job needs the others. A pair of crows building a nest, a group of babblers feeding chicks and a family sharing dinner are all care, done by many hands.
 
 - **Tirukkural 101:** Help given to you when you had done nothing for the helper is so great that even the earth and the sky together cannot repay it. (Most of the minutes in the Home Work Count are help of this kind. They are given every day, and the person who receives them, often a child, has done nothing to earn them.)
-- **Taittiriya Upanishad 1.11:** A teacher tells students who are leaving: treat your mother as a god, treat your father as a god, treat your teacher as a god, treat your guest as a god. (The mother is named first. In many homes, as the Home Work Count shows, her minutes are the ones the whole day stands on.)
+- **Taittiriya Upanishad 1.11:** A teacher tells students who are leaving: treat your mother as a god, treat your father as a god, treat your teacher as a god, treat your guest as a god. (The mother is named first. In many homes, as the Home Work Count shows, the rest of the day depends on her work.)
 - **Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa:** A person is a person through other people. (Nobody grows up alone. Human children, like jungle babbler chicks, are raised by many helpers.)
 - Science (settled): Countries leave unpaid home work and care out of their income figures. They measure it separately, with time use surveys.
 - Science (debated): Human mothers have always raised children with help from others, such as grandmothers, fathers and older children. Scientists still argue about which helpers mattered most.
@@ -125,7 +125,7 @@ A home is many people doing many jobs: one cooks, one washes, one carries the ba
 - *big:* When a house help cooks, she is paid. When a grandmother cooks the same meal for her own family, she is not. Is it the same work? (hint: Think about what the food does for the family, and why one person gets money.)
 - *big:* Is a family made by birth, or by people caring for each other? (hint: Think about an adopted child, or a grandmother who raises her granddaughter.)
 - *deep:* A koel chick is raised by crows. Who is the koel's family? (hint: Think about who fed the chick, and who laid the egg.)
-- *big:* If nobody counts a piece of work, is it still there? (hint: Think about your own work count, and what would happen if a job was not done for a week.)
+- *big:* If nobody counts a piece of work, is it still there? (hint: Think about your Home Work Count, and what would happen if a job was not done for a week.)
 
 ## Story: Ajji's Minutes
 *The story is made up. What it shows is true: home work takes many hours, it is often unpaid, and many girls of earlier generations left school to do it.*
@@ -170,7 +170,7 @@ Ajji sat down on the mat next to her. "When I was your age, I lived in a village
 
 "No," said Ajji. "It was not fair. Things are better now. Your Amma studied nursing. You will study whatever you like."
 
-Kavya looked at her notebook. Every line was a job that had to be done, or nobody would have eaten, and nobody would have had clean clothes. Ajji's minutes had held up the whole day, and nobody had counted them before.
+Kavya looked at her notebook. Every line was a job that had to be done, or nobody would have eaten, and nobody would have had clean clothes. The whole day had depended on Ajji's minutes, and nobody had counted them before.
 
 "Can I draw a picture of the minutes?" she asked. "One clock for every half hour?"
 
@@ -195,7 +195,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 
 ## Games
 ### g1 · Who Raises the Babies? An animal family matching game (20 min)
-- **rules:** Lay the 5 carer cards face up in a row.; Shuffle the 12 animal cards and put them in a pile, animal side up.; On your turn, take the top animal card. Place the card below the carer you think is right, and say why.; Turn the card over and read the back aloud. If you were right, keep the card. If not, put it under the right carer card.; When the pile is finished, count your cards. The player with the most cards wins, and a tie is fine. Playing with one grown-up, try to beat your own score in a second round.
+- **rules:** Lay the 5 carer cards face up in a row.; Shuffle the 12 animal cards and put them in a pile, animal side up.; On your turn, take the top animal card. Place the card below the carer you think is right, and say why.; Turn the card over and read the back aloud. If you were right, keep the card. If not, put it under the right carer card.; When the pile is finished, count your cards. The player with the most cards wins, and a tie is fine. If you are playing with just one grown-up, try to beat your own score in a second round.
 - **Printable cards: 12 animal cards to cut out (who looks after the young is on the back):** Cow and her calf (back: The mother. She feeds the calf with her milk.) [picture]; House crow chicks (back: Both parents. They build the nest together and both feed the chicks.) [picture]; Emperor penguin egg (back: The father, for the first two months. He keeps the egg warm on his feet while the mother feeds at sea. Then both parents feed the chick.) [picture]; Seahorse eggs (back: The father. He carries the eggs in a pouch until they hatch.) [picture]; Mugger crocodile hatchlings (back: The mother. She guards the nest and carries the hatchlings to water in her mouth.) [picture]; Jungle babbler chicks (back: A group. The parents and older birds in their group all feed the chicks.) [picture]; Asian koel chick (back: House crows. The koel mother lays her egg in a crow's nest, and the crows raise the chick.) [picture]; Olive ridley turtle hatchlings (back: Nobody. The mother lays her eggs on a beach and swims away. The hatchlings live on their own.) [picture]; Elephant calf (back: A group. The calf's mother and the other related females in the herd look after the calf.) [picture]; Great hornbill chicks (back: Both parents. The mother seals herself into a tree hole with the eggs, and the father brings food to her and the chicks.) [picture]; House sparrow chicks (back: Both parents. They take turns to bring insects to the chicks.) [picture]; Human baby (back: A group. Parents and many helpers: grandparents, older children, relatives and neighbours.) [picture]
 - **Printable cards: 5 carer cards:** Mother; Father; Both parents; A group; Nobody, or someone else
 - **Printable score sheet: Score sheet:** Player name; Pairs matched right; Surprises
@@ -217,6 +217,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 
 ## Experiments
 ### e1 · The Home Work Count: who keeps our home running in one evening? (45 min)
+- **problem:** Every family needs hours of cooking, washing and caring each day. Most of that work is never paid, so people hardly notice it. You will time every home job in one evening. Then you will see how much work it is, and who does it.
 - **question:** How many minutes of home work does our home need in one evening, and who does it?
 - **predict:** Before you start, guess. Who will do the most minutes of home work this evening? How many minutes will all the jobs add up to? Why do you think so?
 - **fair test:** Count every person in the same way: the job, the start time and the end time, all from the same clock. Count everyone, including yourself, any house help or cook, and anyone looking after a baby or an elder. Ask everyone to have a normal evening, so the count shows a usual day. Count from 5 o'clock until bedtime.
@@ -227,7 +228,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent says:* Tonight we will count every home job and time it. First, guess. Who will do the most minutes of work? How many minutes will it be in all? Why do you think so?  
   *Child mode:* Tonight you count every home job. Guess first. Who will work the most? How many minutes in all? Why?
   - Ask: Why do you think that person will do the most? (good: Because a grandparent does the cooking, and cooking takes long.; Because Amma comes home and starts the dinner and the washing.)
-  - Note: Write down the guess with the reason. It is the child's prediction, and it matters more when it turns out wrong.
+  - Note: Write down the guess with the reason. This is your child's prediction. A wrong guess is useful too, because it shows what the count taught them.
 - **s2 (3 min)**  
   *Parent does:* 1. Draw the results table in the notebook. 2. Tell the family about the count. 3. Ask everyone to have a normal evening.  
   *Parent says:* Please do everything as you always do. I am only counting, not checking anyone.  
@@ -236,26 +237,27 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **s3 (20 min)**  
   *Parent does:* 1. From 5 o'clock, each time someone starts a home job, your child writes the job, the person and the start time. 2. When the job ends, they write the end time. 3. Write whether the person is paid for it.  
   *Parent says:* Someone is starting the cooking. What time is it now? Write it down. Tell me when they finish.  
-  *Child mode:* Someone starts a job. Look at the clock. Write the time. Write it again when they stop.
-  - Note: Spread this over the evening: your child only writes for a minute each time a job starts or stops, so the 20 minutes here is the writing time. If reading the clock is hard, you can read out the times and your child writes the job and the person. If two jobs happen at once, write both. Count your child's own jobs too, such as setting the plates.
+  *Child mode:* When someone starts a job, look at the clock and write the time. Write the time again when they stop.
+  - Note: This step runs through the whole evening. Your child writes for only about a minute each time a job starts or stops. The 20 minutes shown for this step is the total writing time. If reading the clock is hard, you can read out the times and your child writes the job and the person. If two jobs happen at once, write both. Count your child's own jobs too, such as setting the plates.
   - Check: A grandmother starts cooking at 6:10 and stops at 7:00. How long did she cook? → **50 minutes**
 - **s4 (7 min)**  
   *Parent does:* 1. After the evening, work out the minutes for each job. 2. Add up the minutes for each person. 3. Write each person's total in a list.  
   *Parent says:* Now add up each person's minutes. Who did the most? Who did the least? Was any of it paid?  
   *Child mode:* Add up each person's minutes. Who did the most?
-  - Note: Help with the adding if the numbers are big. In most Indian homes, one or two people, very often women, do most of the minutes. Your result may be different. Whatever you found is a real result.
+  - Note: Help with the adding if the numbers are big. In most Indian homes, one or two people, very often women, do most of the work. Your result may be different. Whatever you found is a real result.
 - **s5 (5 min)**  
   *Parent does:* 1. Draw a pictograph. 2. Draw one clock for every 15 minutes, in one row for each person. 3. Draw part of a clock for a part of 15 minutes.  
   *Parent says:* Let's draw the minutes as clocks. One clock is 15 minutes. How many clocks does each person get?  
   *Child mode:* Draw one clock for every 15 minutes. One row for each person.
   - Note: If one person's total is 140 minutes, that is 9 clocks and a bit more, because 9 times 15 is 135.
 - **s6 (5 min)**  
-  *Parent does:* Ask your child for a claim, the evidence and a reason. Compare with the guess from the start.  
+  *Parent does:* Ask your child what the count showed, which numbers show it, and why they think it turned out that way. Compare this with the guess from the start.  
   *Parent says:* Was your guess right? What did the count show? Who was paid, and who was not? Why do you think it is like that?  
   *Child mode:* Was your guess right? Who did most? Who was paid?
   - Ask: What did the count show you that you did not know before? (good: A grandparent did much more work than I thought.; The jobs added up to more than three hours.; The house help is paid, but Amma is not, for the same kind of work.)
   - Think: Which job on your list did you not know about before the count?
 ### e2 · Many Hands: do two people fold clothes twice as fast? (25 min)
+- **problem:** Jobs at home get done faster when people share them. But is it exactly twice as fast with two people? You will fold the same pile of clothes alone, with two people and with three, and time each try.
 - **question:** If two people fold a pile of clothes together, do they finish in half the time?
 - **predict:** Guess how long it will take you to fold 20 clothes alone. Then guess how long it will take with two people, and with three. Why do you think so?
 - **fair test:** Use the same 20 clothes each time, and shake them out flat before each try. Fold them the same way each time. Time each try with the same clock. Fold alone at the start and again at the end, because practice can make you faster.
@@ -275,14 +277,14 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent does:* 1. Shake out all the clothes. 2. Two people fold them together. Time it. 3. Shake them out again. 4. If a third person is at home, fold with three. Time it.  
   *Parent says:* Now we shake them out and fold together. Let's see if two of us take half the time.  
   *Child mode:* Now fold with two people. If someone else is at home, fold with three. Time each one.
-  - Check: Divya, a girl in Class 3 in Kochi, took 8 minutes to fold the clothes alone. With her mother, they took 5 minutes. Was that exactly half the time? → **No, half of 8 is 4, so it took a little longer than half**
+  - Check: A child took 8 minutes to fold the clothes alone. When her mother helped, the two of them took 5 minutes. Was that exactly half the time? → **No, half of 8 is 4, so it took a little longer than half**
 - **s4 (4 min)**  
   *Parent does:* Shake out the clothes again. Your child folds all 20 alone a second time. Time it.  
   *Parent says:* One more alone. Were you faster this time? Why might that be?  
   *Child mode:* Fold alone once more. Were you faster?
   - Note: If the second try alone is much faster, practice helped. Compare the helper tries with the average of the two alone tries.
 - **s5 (4 min)**  
-  *Parent does:* Look at the results together. Ask for a claim, the evidence and a reason.  
+  *Parent does:* Look at the results together. Ask your child what the times showed, which numbers show it, and why they think it turned out that way.  
   *Parent says:* Did two people take exactly half the time? If you tried three, did they take a third? Why not?  
   *Child mode:* Did two of you take half the time? Why or why not?
   - Ask: Why might two people not take exactly half the time? (good: Because we bumped into each other.; Because one of us was faster than the other.; Because we had to decide who folds what.)
@@ -290,6 +292,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 
 ## Activities
 ### a1 · One Word, Four Uncles: the relation words in your home language (15 min)
+- **problem:** In English, the word uncle is used for four different relatives. Many Indian languages have a separate word for each one. You will write the words in your home language and in English, and compare them.
 - **record:** A table with three columns: how the person is related to me, our word, the English word.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a table with three columns: 'How they are related to me', 'Our word', 'English word'. 2. Fill in Amma's brother, Amma's sister, Appa's brother and Appa's sister.  
@@ -305,7 +308,8 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent does:* Count the people English calls uncle. Then count the words your language has for the same people.  
   *Parent says:* How many different people did English call uncle? How many words did our language use?  
   *Child mode:* Count. How many people are 'uncle' in English? How many words do we have?
-  - Check: Arjun, aged 8, calls his mother's brother Mama and his father's younger brother Chithappa. What does English call both of them? → **Uncle**
+  - Note: Many Indian languages have separate words because, in a family, it matters whether a person is on the mother's side or the father's side, and whether they are older or younger. English groups them under one word.
+  - Check: In Tamil, Mama is your mother's brother and Chithappa is your father's younger brother. What does English call both of them? → **Uncle**
   - Think: Why might a language have so many words for relatives?
 ### a2 · Our Family Tree: three generations (20 min)
 - **record:** The family tree, with each person's name and their relation word.
@@ -322,9 +326,11 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent does:* Count the people in each generation. Then ask how many great-grandparents your child has.  
   *Parent says:* You have two parents and four grandparents. Each grandparent had two parents. How many great-grandparents is that?  
   *Child mode:* Two parents. Four grandparents. How many great-grandparents?
+  - Note: The number doubles each time: 2, 4, 8, 16, 32, 64, 128, 256, 512 and 1,024. So 10 generations ago you had 1,024 ancestors.
   - Check: Each person has 2 parents and 4 grandparents. How many great-grandparents does each person have? → **8**
-  - Think: If the number doubles each generation, how many people were your family 10 generations ago?
+  - Think: If the number doubles each generation, how many ancestors did you have 10 generations ago?
 ### a3 · Family Handprints: what each pair of hands does (15 min)
+- **problem:** Every person in a family does jobs with their hands. You will trace each person's hand on one sheet. Then you will write one job that hand does for the family.
 - **record:** The handprint sheet, with each person's name, hand span and job.
 - **s1 (6 min)**  
   *Parent does:* 1. Each person spreads one hand on the sheet. 2. Your child traces round it with a pencil. 3. Write the person's name inside.  
@@ -338,6 +344,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent does:* Ask each person to say one job their hands do for the family. Write it inside the hand.  
   *Parent says:* What do your hands do for our family? Tell me, and I will write it in.  
   *Child mode:* Ask each person. What do your hands do for the family?
+  - Note: Usually not. A small hand can do a lot of work. What matters is what each person does for the family, not how big their hand is.
   - Think: Does the biggest hand do the most work?
 ### a4 · Games Our Grandparents Played (25 min)
 - **record:** Write the name of the game, who taught you, and the rules in three sentences.
@@ -362,7 +369,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent says:* Whose minutes surprised you most? Let's list what they did, with the minutes.  
   *Child mode:* Look at your table. Pick one person. List their jobs.
 - **s2 (10 min)**  
-  *Parent does:* Your child writes the card: the jobs, the minutes, and one sentence on why each job matters. Then gives it.  
+  *Parent does:* Your child writes the card: the jobs, the minutes, and one sentence on why each job matters. Then your child gives the card to that person.  
   *Parent says:* Write what they did and why it mattered. For example: You cooked for 70 minutes, so everyone had dinner.  
   *Child mode:* Write the jobs and the minutes. Say why each one mattered. Give the card.
   - Think: How did the person feel when they read the minutes?
@@ -377,6 +384,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent does:* Put the answers in a table, oldest first. Ask what changed from one generation to the next.  
   *Parent says:* Look down the table from the oldest woman to you. What changed? What stayed the same?  
   *Child mode:* Look from the oldest woman down to you. What changed?
+  - Note: Many families thought a daughter's place was at home. They needed her to help with housework and with the younger children, so they sent the sons to school instead. This is the unfair treatment described in the card 'Girls and women, then and now'.
   - Think: Why did girls in the past leave school earlier than boys?
 
 ## Projects
@@ -398,6 +406,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent does:* On day 7, do the Home Work Count again for one evening. Draw a new pictograph and put it next to the first.  
   *Parent says:* Let's count again. Did the rows of clocks change?  
   *Child mode:* Count again. Compare the two pictographs. What changed?
+  - Note: Look at the rows of clocks in the two pictographs. If the rows are closer in length the second time, the work was shared more evenly.
   - Think: Was the work shared more fairly this week? How can you tell?
   - Wait: Day 7
 
@@ -435,7 +444,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* Build a tray from cardboard, cloth and tape. A grown-up does the cutting.  
   *Parent says:* What will stop the tumbler sliding? What will stop it tipping?  
-  *Child mode:* Build your tray. Stop the slide. Stop the tip.
+  *Child mode:* Build your tray. Make it stop the tumbler from sliding and from tipping.
 - **s3 (5 min)**  
   *Parent does:* Test it by walking slowly across the room. Count the drops of water spilled on the tray.  
   *Parent says:* Walk across. How many drops fell on the tray? Can you make it better?  
@@ -449,7 +458,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 2. (match) Match each word to what it means.  
    **Answer:** Generation → people in a family born at about the same time; Guardian → a grown-up who takes the place of a parent; Care work → looking after people who need help; Relative → someone who belongs to your family. *Why:* These words come up all through the unit.
 3. (sort) Sort these jobs. Is each one paid or unpaid?  
-   **Answer:** a house help sweeping the floor for a salary → Paid; a grandmother cooking lunch for her family → Unpaid; a mother bathing her own baby → Unpaid; a cook making dinner in someone else's home → Paid; a father folding his family's clothes → Unpaid; a nurse giving medicine in a hospital → Paid. *Why:* The same kind of job can be paid or unpaid. It is paid when someone outside the family is given money to do it. A strong sorter looks at who pays, not at the job.
+   **Answer:** a house help sweeping the floor for a salary → Paid; a grandmother cooking lunch for her family → Unpaid; a mother bathing her own baby → Unpaid; a cook making dinner in someone else's home → Paid; a father folding his family's clothes → Unpaid; a nurse giving medicine in a hospital → Paid. *Why:* The same kind of job can be paid or unpaid. It is paid when someone outside the family is given money to do it. A strong answer looks at whether the person is paid, not at the job.
 4. (write) In your Home Work Count, who did the most minutes of work? Write the number of minutes, and one reason why that person did the most.  
    **Answer:** For example: a parent did 150 minutes, because she cooks dinner and puts the baby to sleep.. *Why:* A strong answer gives the real number from the count and a reason that comes from what the child saw.
 5. (draw) Draw your family tree with three generations: grandparents at the top, parents in the middle, and you at the bottom. Write what you call each person.  
@@ -466,8 +475,8 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
    **Answer:** ['Top row: grandparents', 'Middle row: parents', 'Bottom row: children']. *Why:* Each row of a family tree is one generation. The oldest are at the top.
 10. (write) In a story, Kavya's Ajji left school after Class 4 to look after her baby brothers, while her brothers went to school. Was that fair? Give a reason.  
    **Answer:** No. Ajji wanted to learn and loved sums, but she lost her schooling only because she was a girl.. *Why:* A strong answer says it was unfair and gives the reason: the choice was made because she was a girl, not because of what she wanted or could do.
-11. (perspective) Janaki and her brother Sanjay disagree about who should wash the dinner plates.  
-   **Answer:** A strong answer picks a side with evidence, for example that Amma already did the most minutes in the count. It also says what the other side has right: Arjun is right that some jobs go faster with practice, and Meenakshi is right that sharing makes it fairer.. *Why:* Both have a point. Being fastest is a reason, but it can also mean one person ends up doing everything. Practice makes other people faster too.
+11. (perspective) The first child and her brother the second child disagree about who should wash the dinner plates.  
+   **Answer:** A strong answer picks a side with evidence, for example that Amma already did the most minutes in the count. It also says what the other side has right: The second child is right that some jobs go faster with practice, and the first child is right that sharing makes it fairer.. *Why:* Both have a point. Being fastest is a reason, but it can also mean one person ends up doing everything. Practice makes other people faster too.
 12. (order) Put the steps of the Home Work Count in order.  
    **Answer:** ['Guess who will do the most', 'Write the start and end time of each job', "Add up each person's minutes", 'Draw a pictograph of the minutes']. *Why:* You guess first, so the guess is a real prediction. Then you collect the times, add them up, and show them.
 13. (mcq) Your mother's mother belongs to which side of your family?  
@@ -483,15 +492,15 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
    **Answer:** Ajji cooking lunch for her own family. *Why:* Unpaid home work is left out. So cooking, cleaning and caring for your own family are not counted, though every family needs them. The paid cook and the factory are counted.
 2. (count) In a Home Work Count, Amma did 90 minutes, Appa did 30 minutes, a grandmother did 120 minutes and the child did 15 minutes. How many minutes of home work were done in all?  
    **Answer:** 255. *Why:* 90 + 30 + 120 + 15 = 255 minutes. That is 4 hours and 15 minutes in one evening. A strong answer also says who did the most.
-3. (write) In the Many Hands test, three people took longer than a third of the time one person took. Give two reasons why.  
+3. (write) In the Many Hands test, three people did not finish in a third of the time one person took. They took longer. Give two reasons why.  
    **Answer:** They had to wait for each other, they got in each other's way, and some folders were slower than others.. *Why:* A strong answer gives two different reasons that come from what really happens when people work together.
 4. (perspective) Two grown-ups in a family talk about how to share the home work.  
    **Answer:** A strong answer picks a side with a reason, for example that splitting by skill can leave one person with far more hours. It also says what the other side has right: Rekha is right that skills differ, and Shalini is right that hours should be fair.. *Why:* This is a real disagreement among economists and families. A fair answer looks at hours as well as skills.
 5. (truefalse) An olive ridley turtle mother stays with her hatchlings until they can swim.  
    **Answer:** False. *Why:* False. She lays her eggs on a beach and swims away. The hatchlings find their way to the sea on their own.
-6. (mcq) John B. Watson and Rosalie Rayner Watson wrote a book for parents in 1928. What did they tell parents?  
-   Options: Hug your children often / Do not hug or kiss your children / Let grandparents raise your children  
-   **Answer:** Do not hug or kiss your children. *Why:* They told parents not to hug or kiss their children. Later studies, such as Harlow's, showed that comfort and touch are what children need.
+6. (mcq) Long ago, some experts told parents not to hug or kiss their children. Later studies showed that baby monkeys clung to a soft cloth mother for comfort. What does that tell us about the old advice?  
+   Options: It was right: hugs spoil children / It was wrong: young ones need comfort and touch / It does not matter either way  
+   **Answer:** It was wrong: young ones need comfort and touch. *Why:* Baby monkeys chose a soft, comforting mother even over one that gave milk. Comfort and touch matter to young ones, so telling parents not to hug was poor advice.
 7. (fill) Each child gets about half of their genes from their mother and about half from their ____.  
    **Answer:** ['father']. *Why:* Genes come from both parents, about half from each.
 8. (write) Kerala had more women who could read and write than any other state in the 2011 Census. What could have helped girls there go to school?  
@@ -508,11 +517,11 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
    **Answer:** So the count shows a usual day. *Why:* On festival days there is often much more cooking and cleaning. A normal evening shows what a usual day needs. That makes it a fair test.
 13. (write) Write one question you would ask a woman in your family about her school days. Say why you want to know the answer.  
    **Answer:** For example: Did you want to study longer? A strong question asks about her choices and feelings, and the reason shows what the child wants to understand.. *Why:* Good questions about the past ask who decided and how it felt, not only up to which class.
-14. (truefalse) In the 2011 Census, more women than men in India could read and write.  
-   **Answer:** False. *Why:* False. About 65 in every 100 women could read and write, and about 82 in every 100 men.
-15. (mcq) Kristen Hawkes studied Hadza grandmothers in Tanzania. What did she think their digging of food lets mothers do?  
-   Options: Have the next baby sooner / Go to school / Stop caring for babies  
-   **Answer:** Have the next baby sooner. *Why:* Hawkes thought that when grandmothers find food for grandchildren, mothers can have the next baby sooner. This is called the grandmother idea.
+14. (truefalse) If, for many years, fewer girls than boys are sent to school, then later there will be fewer women than men who can read and write.  
+   **Answer:** True. *Why:* True. Reading is mostly learned at school. If fewer girls go, fewer women grow up able to read. In India's 2011 Census, about 65 in every 100 women could read and write, and about 82 in every 100 men.
+15. (mcq) In some families, grandmothers find food and care for the older grandchildren. What might this let the mothers do?  
+   Options: Have and care for a new baby more easily / Go to school / Stop caring for babies  
+   **Answer:** Have and care for a new baby more easily. *Why:* When a grandmother feeds and looks after the older children, the mother has more time and strength for a new baby. Scientists call this the grandmother idea.
 ### Families, Then and Now (challenge) (challenge, 15 questions)
 1. (write) Many people say a mother who stays at home 'does not work'. Use evidence from your Home Work Count to explain whether that is true.  
    **Answer:** It is not true. In our count, the person at home did many minutes of cooking, washing and caring. That is work. It is just unpaid.. *Why:* A strong answer uses real numbers from the count and says the difference is payment, not work.
@@ -527,14 +536,14 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
    **Answer:** 1680. *Why:* 240 times 7 is 1680 minutes, which is 28 hours. That is more than a whole day and night of work each week, from evenings alone.
 6. (write) If every person in your home stopped all unpaid home work for one week, what would happen? Name three things.  
    **Answer:** For example: no cooked food, dirty plates and clothes piling up, a baby or grandparent not looked after, and nobody able to go out to a paid job.. *Why:* A strong answer shows that paid work and school depend on unpaid home work being done.
-7. (mcq) Selvi, a girl in Class 4, folded 20 clothes alone in 12 minutes, then with her aunt in 7 minutes, then alone again in 9 minutes. Why was her second try alone faster than her first?  
+7. (mcq) A girl folded 20 clothes alone in 12 minutes, then with her aunt in 7 minutes, then alone again in 9 minutes. Why was her second try alone faster than her first?  
    Options: Practice made her faster / The clothes got smaller / Her aunt was still helping  
    **Answer:** Practice made her faster. *Why:* She had folded the same clothes twice before, so she had practised. This is why the test folds alone at the start and the end.
 8. (truefalse) India's Constitution, from 1950, gives women and men equal rights.  
    **Answer:** True. *Why:* True. The Constitution says nobody can be treated unfairly by the government because of their sex. But laws alone do not change every home.
 9. (write) Savitribai Phule kept teaching though people threw mud at her. Why do you think some people were so against girls going to school?  
    **Answer:** For example: they thought girls should only do housework, they were afraid of change, or they wanted girls to depend on others.. *Why:* A strong answer gives a real reason people held then, and does not make it seem like the reason was right.
-10. (label) Here is a picture of the results table from the Home Work Count. Label the column that shows how you know who was paid.  
+10. (label) Here is a picture of the results table from the Home Work Count. Label the column that shows who was paid.  
    **Answer:** ['Paid or unpaid?']. *Why:* The last column records whether the person is paid for the job. A strong answer also says that the 'Minutes' column comes from the start and end times.
 11. (match) Match each person to what they found or did.  
    **Answer:** Savitribai Phule → opened a school for girls in Pune in 1848; Harry Harlow → found baby monkeys clung to a soft cloth mother; Mary Ainsworth → showed babies use a trusted grown-up as a safe base; Kristen Hawkes → studied how Hadza grandmothers feed grandchildren. *Why:* Each of these people changed how we understand families.
@@ -549,18 +558,18 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
    **Answer:** A strong answer compares real numbers from the child's own count with 299 and 97, and gives a reason such as a bigger family, a house help, or work shared more evenly.. *Why:* One home is a small sample, so it can differ from the average of a whole country.
 
 ## Videos
-- **What is the real value of unpaid work?** (UN Women, 3 min) id `fcqt0QzgUFU`: For the parent, and a child who has done the Home Work Count: a short film on cooking, cleaning and caring as work that keeps the world going. *Check:* Watch it yourself before showing your child.
+- **What is the real value of unpaid work?** (UN Women, 3 min) id `fcqt0QzgUFU`: For the parent, and for a child who has done the Home Work Count. This short film shows cooking, cleaning and caring as work that keeps the world going. *Check:* Watch it yourself before showing your child.
 - **The Jungle Babblers: Jungle's Best-Kept Secret** (Roundglass Sustain, 5 min) id `fn46Yaf-2eI`: Jungle babblers, the 'seven sisters' of Indian gardens, live in family groups that raise chicks together. This film shows the birds and their group life. *Check:* Watch it yourself before showing your child.
-- **Harlow's Studies on Dependency in Monkeys** (Michael Baker, 6 min) id `OrNBEhzjg8I`: For the parent first. The old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one with milk, from the How We Found Out story. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child. *Check:* Watch it yourself before showing your child.
+- **Harlow's Studies on Dependency in Monkeys** (Michael Baker, 6 min) id `OrNBEhzjg8I`: For the parent first. This is the old film of Harry Harlow's baby monkeys choosing a soft cloth mother over a wire one that gave milk. The How We Found Out story in this unit tells what happened. Some scenes show frightened baby monkeys, so watch the film alone before deciding whether to show your child. *Check:* Watch it yourself before showing your child.
 
 ## Quiz
-1. (mcq) Kavya, a girl in Class 3, counts the home work in her flat one evening. Her grandmother, Ajji, cooks for 70 minutes and nobody pays her. The house help sweeps for 60 minutes and is paid. Who did work?  
-   Options: Only the house help, because she was paid / Both of them / Only Ajji, because she worked longer  
+1. (mcq) In one evening, a grandmother cooks for 70 minutes and nobody pays her. A house help sweeps for 60 minutes and is paid. Who did work?  
+   Options: Only the house help, because she was paid / Both of them / Only the grandmother, because she worked longer  
    **Answer:** Both of them. *Why:* Both did work. Cooking and sweeping both need time and effort, and the family needs both. Being paid or not does not change whether it is work. Choosing 'only the house help' means thinking only paid jobs count.
-2. (mcq) Farhan lives with his grandparents, his parents, his uncle, his aunt and two cousins in one home. What kind of family is this?  
+2. (mcq) A child lives with his grandparents, his parents, his uncle, his aunt and two cousins in one home. What kind of family is this?  
    Options: A nuclear family / A joint family / Not a family, because there are too many people  
    **Answer:** A joint family. *Why:* A joint family has grandparents, parents, uncles, aunts and cousins under one roof. A nuclear family is only parents and their children.
-3. (mcq) Divya lives in Kochi with only her mother. Are they a family?  
+3. (mcq) A girl lives with only her mother. Are they a family?  
    Options: Yes, because they live together and care for each other / No, a family needs a mother and a father / Only if grandparents live with them  
    **Answer:** Yes, because they live together and care for each other. *Why:* Care is what makes a family, not how many people there are. A mother and a daughter are a family of two. Choosing 'No' means thinking there is only one shape of family.
 4. (mcq) In Telugu, Ammamma is your mother's mother and Nannamma is your father's mother. What does English call both of them?  
@@ -569,15 +578,15 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 5. (mcq) In a pictograph, one clock stands for 15 minutes. Ajji's row has 6 clocks. How many minutes of work is that?  
    Options: 21 minutes / 90 minutes / 60 minutes  
    **Answer:** 90 minutes. *Why:* 6 clocks of 15 minutes each is 6 times 15, which is 90 minutes. Choosing 21 means adding 6 and 15 instead of multiplying.
-6. (mcq) India's Time Use Survey in 2019 found that women who did unpaid home work spent about 299 minutes a day on it. What did it find for men who did any?  
-   Options: About 300 minutes, the same / About 97 minutes / About 600 minutes  
-   **Answer:** About 97 minutes. *Why:* Men who did any unpaid home work spent about 97 minutes a day. That is about one third of the women's 299 minutes. Women in India do most of this work.
+6. (mcq) In many Indian homes, women do most of the unpaid home work, like cooking, cleaning and caring. If a survey timed this work for women and for men, what would it most likely find?  
+   Options: Both spend about the same time / Women spend much more time on it than men / Men spend much more time on it than women  
+   **Answer:** Women spend much more time on it than men. *Why:* If women do most of the unpaid home work, they spend far more minutes on it each day. India's Time Use Survey found about 299 minutes a day for women and about 97 for men.
 7. (mcq) Which of these must parents or guardians in India do for a child of 8?  
    Options: Send the child out to work for money / Send the child to school / Keep the child at home to do housework  
    **Answer:** Send the child to school. *Why:* The Right to Education Act of 2009 gives every child from 6 to 14 the right to free schooling, and parents are expected to send daughters and sons alike. Paid work for a child under 14 is mostly against the law.
-8. (mcq) In 1848 in Pune, Savitribai Phule and Jyotirao Phule did something new. What was it?  
-   Options: They opened a school for girls / They built a hospital / They started a newspaper  
-   **Answer:** They opened a school for girls. *Why:* They opened a school for girls, at a time when most girls were not sent to school. People threw mud at Savitribai on her way to teach, but she kept going.
+8. (mcq) Long ago, most girls in India were kept at home and not sent to school. What would change that most for girls?  
+   Options: Opening schools where girls are welcome to study / Building more hospitals / Starting a newspaper  
+   **Answer:** Opening schools where girls are welcome to study. *Why:* Girls can only learn at school if there is a school that lets them in. When people opened schools for girls, more girls learned to read, even though some people fought against it.
 9. (mcq) Harry Harlow gave baby monkeys two model mothers. One was wire and gave milk. One was soft cloth and gave no milk. Which did the babies cling to?  
    Options: The wire one, because it gave milk / The cloth one / Neither of them  
    **Answer:** The cloth one. *Why:* The babies drank from the wire mother, then went back to cling to the cloth one, and ran to her when scared. Comfort mattered to them as much as food. Choosing the wire one is the old idea that babies love whoever feeds them.
@@ -623,9 +632,9 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - Why did Ajji win every game of pallanguzhi? *She had seventy years of practice with the seeds.*
 
 ## Connected maths
-- Kavya, a girl in Class 3, did a Home Work Count. In it, Ajji did 135 minutes, Amma did 60 minutes, Appa did 30 minutes and Kavya did 15 minutes. In a pictograph, one clock is 15 minutes. How many clocks does each person get? **Ajji 9 clocks, Amma 4, Appa 2, Kavya 1.**. 135 divided by 15 is 9, because 9 times 15 is 135. 60 divided by 15 is 4. 30 divided by 15 is 2. 15 divided by 15 is 1. (queues `math.data.pictographs.L3`)
+- In a Home Work Count, Ajji did 135 minutes, Amma did 60 minutes, Appa did 30 minutes and the child did 15 minutes. In a pictograph, one clock is 15 minutes. How many clocks does each person get? **Ajji 9 clocks, Amma 4, Appa 2, the child 1.**. 135 divided by 15 is 9, because 9 times 15 is 135. 60 divided by 15 is 4. 30 divided by 15 is 2. 15 divided by 15 is 1. (queues `math.data.pictographs.L3`)
 - Ajji starts making dinner at 6:20 and finishes at 7:35. How long did she cook? **1 hour and 15 minutes, which is 75 minutes.**. From 6:20 to 7:20 is 1 hour. From 7:20 to 7:35 is 15 more minutes. 60 and 15 make 75 minutes. (queues `math.time.duration.L3`)
-- In the Many Hands test, Meena, a girl in Class 3, folded 20 clothes alone in 10 minutes. With her brother they took 6 minutes. With three people they took 5 minutes. How much time did the second helper save? How much did the third helper save? **The second helper saved 4 minutes. The third helper saved only 1 more minute.**. 10 minus 6 is 4 minutes saved. 6 minus 5 is only 1 more minute. Each extra helper saved less time than the one before. (queues `math.addition-subtraction.word-problems.L3`)
+- In the Many Hands test, one child folded 20 clothes alone in 10 minutes. Two people took 6 minutes. Three people took 5 minutes. How much time did adding the second person save? How much more did adding the third person save? **The second person saved 4 minutes. The third person saved only 1 more minute.**. 10 minus 6 is 4 minutes saved. 6 minus 5 is only 1 more minute. Each extra person saved less time than the one before. (queues `math.addition-subtraction.word-problems.L3`)
 - You have 2 parents, 4 grandparents and 8 great-grandparents. How many great-great-grandparents do you have? How many generations back do you go before you have more than 100 ancestors in one generation? **16 great-great-grandparents. At 7 generations back you have 128, which is more than 100.**. The number doubles each generation: 2, 4, 8, 16, 32, 64, 128. The seventh number, 128, is the first one over 100. (queues `math.patterns.number-patterns.L3`)
 
 ## Song

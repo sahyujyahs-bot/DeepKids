@@ -3,7 +3,7 @@
 
 **Summary.** Every living thing comes from another living thing. So how did the very first life begin? Nobody knows for sure yet. The Earth formed about 4.5 billion years ago. The oldest signs of life we have found are rocks about 3.5 billion years old, built in layers by mats of tiny microbes. These rocks are called stromatolites, and some are found in India too. Before life, the young sea held simple chemicals. Experiments show that some of the building blocks of life can form from these chemicals without any living thing. Many scientists think the first life was RNA, a chain molecule that can carry instructions and can also help make copies of itself. Later, tiny green microbes began to make oxygen. Their oxygen rusted the iron in the sea and changed the air for ever.
 
-**Intro.** *You came from your mother. She came from her mother, and so on, back and back. A curry leaf plant came from a seed, which came from another curry leaf plant. Every living thing comes from another living thing. So where did the very first living thing come from, when there was nothing alive to come from?* This is one of the biggest questions in science, and it is still open. In this unit you meet the oldest life we know, which left striped rocks behind. You test what the first oxygen did to iron, with nails in jars of water. You see the white threads of DNA from a banana. And you learn the leading idea about how life began: the RNA idea. Scientists are still testing it, and you can weigh the evidence too.
+**Intro.** *Every living thing is born from another living thing. You were born from your mother, and she was born from her mother. A curry leaf plant grows from a seed that fell from another curry leaf plant. Now think about the very first living thing. Nothing alive came before it. So where did it come from?* This is one of the biggest questions in science, and it is still open. In this unit you meet the oldest life we know, which left striped rocks behind. You test what the first oxygen did to iron, with nails in jars of water. You see the white threads of DNA from a banana. And you learn the leading idea about how life began: the RNA idea. Scientists are still testing it, and you can weigh the evidence too.
 
 ## Learning outcomes
 0. I can say that every living thing comes from another living thing, and explain why that makes the first life a puzzle.
@@ -147,7 +147,7 @@ Bacteria, mushrooms, mango trees, crows and you all use DNA. All use RNA to carr
 We have learned about the oldest life, the first oxygen, and the RNA idea of how life began. Now we ask what this story tells us about ourselves and the world.
 
 **Deep truth.** Your nail in open water rusted, but the nail sealed under oil stayed almost grey. Iron rusts only where oxygen reaches it. Earth's early sea had almost no oxygen until tiny microbes began making it. Their oxygen rusted iron in the sea, and much of that rust became the iron ore India mines today.  
-*Habit it breaks:* We think of the Earth as a stage, and living things as the actors who live on it. But the oldest life changed the stage itself: the air, the sea and the rocks. The planet we live on is partly made by life.  
+*Habit it breaks:* We think of the Earth as a place that was already finished, with living things simply living on it. But the oldest life changed the Earth itself: the air, the sea and the rocks. The planet we live on was partly shaped by life.  
 *Evidence:* In the nail test, the nail with oxygen rusted and the nail without oxygen did not. Banded iron rocks, at Kudremukh, Sandur and Bailadila, hold red layers of rust that formed when oxygen made by microbes met iron in the sea.
 
 - *who am i:* Your cells hold DNA and RNA written in the same four-letter way as a banana's and a microbe's. You come from the same first cells as every living thing.
@@ -250,12 +250,13 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   - Note: The hardest ones are usually oxygen and animals. Many children put animals much earlier than they came. That surprise is the point.
 - **s3 (3 min)**  
   *Parent does:* Count the points.  
-  *Parent says:* What surprised you most about the order?  
-  *Child mode:* Count your points. What surprised you most?
+  *Parent says:* Let's check one thing from the line. Which came first: the first animals, oxygen filling the air, or dinosaurs dying out?  
+  *Child mode:* Count your points. Which came first: the first animals, oxygen in the air, or dinosaurs dying out?
   - Check: In the story of life, which of these came first? → **Oxygen starts to fill the air**
 
 ## Experiments
 ### e1 · The Rusting Nails: what did the first oxygen do to the sea? (35 min, 3 days)
+- **problem:** The young sea held iron and almost no oxygen. Then tiny microbes began to make oxygen, and the iron in the sea rusted. You will test what oxygen does to an iron nail. One nail gets plenty of oxygen. One nail gets very little.
 - **question:** Does an iron nail in water rust when very little oxygen can reach it?
 - **predict:** Guess first. Which nail will rust most: the nail in open tap water, the nail in boiled water sealed under oil, or the nail in open salty water? Which will rust least? Why do you think so?
 - **fair test:** Use three nails of the same kind and size, three jars of the same size, and the same amount of water in each. Keep the jars side by side in the same place. Only one thing changes in each jar: open water, water with little oxygen, or salty water.
@@ -307,6 +308,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   - Note: This is claim, evidence and reasoning. A good answer sounds like this. What I think: iron rusts when oxygen reaches it, and salt makes it rust faster. What I saw: nails A and C turned orange, but the nail in boiled water under oil stayed grey. Why: the oil kept oxygen away from nail B. Afterwards, tell them this. The young sea had almost no oxygen, so its iron did not rust. When microbes began making oxygen, the iron in the sea rusted and sank in layers.
   - Check: Long ago, the sea had almost no oxygen. Then tiny microbes began making oxygen. What happened to the iron in the sea? → **It joined with the oxygen, made rust and sank in layers**
 ### e2 · Banana Threads: can we see the instruction molecule? (25 min)
+- **problem:** DNA is a long chain molecule inside every cell. It holds the instructions for that living thing. RNA is its close cousin. You will break open the cells of a banana and pull out the DNA, so you can see it as white threads.
 - **question:** Do a banana and green peas both hold white threads of DNA, and does a glass with no food give any?
 - **predict:** Guess first. Will you see anything in the glass with no food? Will the banana or the peas give more threads? Why do you think so?
 - **fair test:** Use the same amounts of salt, washing liquid, water and spirit for every glass. Only the food changes: banana, green peas, or none.
@@ -351,16 +353,18 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent says:* Draw yourself at this end. Who did you come from? Draw her next to you. And who did she come from?  
   *Child mode:* Draw yourself at the right end. Draw your mother next to you. Then her mother.
 - **s2 (3 min)**  
-  *Parent does:* Keep going left with dotted lines, as far back as your child can imagine.  
-  *Parent says:* Every living thing comes from another living thing. If we keep going back, and back, what do we reach?  
-  *Child mode:* Keep going back. Who came before her? And before that? Draw dots for the far past.
+  *Parent does:* Keep drawing to the left: her mother, and her mother's mother. When your child runs out of people to draw, use dotted lines for the very long ago.  
+  *Parent says:* Every living thing is born from another living thing. If we draw one mother after another, who do we get to at the very end?  
+  *Child mode:* Draw her mother next, and then her mother's mother. When you run out of people, draw dots for the very long ago.
   - Note: Children often draw cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now.
 - **s3 (2 min)**  
   *Parent does:* At the far left end, draw a big question mark.  
   *Parent says:* Every living thing came from another living thing. So where did the very first one come from? That is what this unit is about.  
   *Child mode:* Draw a big question mark at the far end. Who was first? Where did they come from?
+  - Note: There is no sure answer yet. Scientists have ideas, and this unit looks at the leading one. It is fine for your child to say 'nobody knows'.
   - Think: If life only comes from life, how could the first life begin?
 ### a2 · The Time String: 4.5 billion years along a corridor (15 min)
+- **problem:** The Earth is 4.5 billion years old. That is too long to picture. You will lay out a string where each metre is one billion years. Then you will see where life, oxygen, animals and people come in.
 - **record:** Take a photo of the string, or draw it with the labels in order.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the string straight along a corridor or across two rooms. 2. Mark one end 'Earth forms, 4.5 billion years ago' and the other 'Today'.  
@@ -375,9 +379,11 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent does:* 1. Now measure from the Today end. 2. Stick 'first animals' at 60 cm and 'dinosaurs die out' at 6.6 cm. 3. Make a pencil dot right at the end for 'first people'.  
   *Parent says:* Animals only appear in the last 60 centimetres. Dinosaurs died out about 6 and a half centimetres from the end. People are just the last pencil tip.  
   *Child mode:* Measure from the Today end. Animals come 60 cm from the end. Where are people?
+  - Note: They were making their own food from sunlight, making oxygen, and building stromatolites, layer by layer, for billions of years. For most of the Earth's story, all life was tiny.
   - Check: On the time string, one metre is one billion years. The string is 4.5 metres long. For how much of it was there only life too small to see, or no life at all? → **About 3.9 metres, until the first animals**
   - Think: For most of the Earth's story, the only life was too small to see. What were they doing all that time?
 ### a3 · Copy the Chain: how RNA letters make a copy (12 min)
+- **problem:** RNA is a chain of four kinds of letters: A, U, C and G. A pairs with U, and C pairs with G. You will use paper letters to see how a chain can make a partner chain, and then make a copy of itself.
 - **record:** Write your first chain, its partner and the partner's partner, one under the other.
 - **s1 (3 min)**  
   *Parent does:* 1. Make the letter cards. 2. Write the rule on a paper: A pairs with U, C pairs with G.  
@@ -398,6 +404,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Child mode:* Write a partner for the partner chain. Look at your first chain. What do you see?
   - Note: The third chain matches the first exactly. That is how a chain can be copied: partner, then partner again. In cells, proteins help with this copying. In the RNA idea, the first RNA chains copied themselves with help only from chemicals around them, and maybe from other RNA.
 ### a4 · Copy Mistakes: how one chain becomes many (10 min)
+- **problem:** No copy is perfect. You will copy a chain of letters again and again, each time from your last copy. Then you will see what happens to the mistakes.
 - **record:** Keep all the copies in a column. Circle every letter that is different from the first chain.
 - **s1 (2 min)**  
   *Parent does:* Write this chain at the top of the paper: A U G C C A U G G A C U.  
@@ -412,6 +419,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent does:* Compare the last copy with the first chain. Circle every letter that changed.  
   *Parent says:* How many letters changed? Did a mistake, once made, carry on into the next copies?  
   *Child mode:* Circle every letter that changed. Did a mistake stay in the copies after it?
+  - Note: Mistakes are how new kinds appear. A few mistakes can make a copy that lasts or copies better. If there were never any mistakes, life could never change. A checker stops too many mistakes, which would spoil the copies.
   - Check: In a copying game, a mistake is made in copy 3. Why does it show up in copies 4 to 8 too? → **Each copy was made from the copy before, so the mistake was copied too**
   - Think: Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to keep a few?
 ### a5 · Find a Living Film (in the monsoon, or by a damp corner) (10 min)
@@ -431,6 +439,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent does:* Draw or photograph it, and write where you found it.  
   *Parent says:* Is it in the sun or the shade? Why might that matter to living things that make food from light?  
   *Child mode:* Draw it. Was it in sun or shade? Write it down.
+  - Note: Microbes that make food from sunlight need light, so a film in the sun is often greener and thicker than one in deep shade. Any answer that links light to food is a good one.
 ### a6 · Where Did Life Begin? A debate with evidence (15 min)
 - **record:** Write which idea you think is best, and your best reason.
 - **s1 (5 min)**  
@@ -494,6 +503,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent does:* Read the usual and creative solutions, then invent one more.  
   *Parent says:* Here's what people usually do, and some creative ideas. Can you think of a better one?  
   *Child mode:* Look at the usual ways and the creative ones. Invent your own.
+  - Note: There was almost no oxygen in the young sea, and iron needs oxygen to rust. So the iron stayed unrusted until microbes began to make oxygen.
   - Think: The iron in the young sea had no coat. What kept it from rusting for so long?
 ### c2 · The Copying Machine (30 min)
 - **problem:** Copy a 20-letter chain of A, U, C and G five times, each copy from the last, in under one minute per copy. Invent a way to make fewer mistakes.
@@ -518,6 +528,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent does:* Read the usual and creative ideas, then invent one more.  
   *Parent says:* Here are some ideas. Which would you add to your machine?  
   *Child mode:* Read the ideas. Which one would you add?
+  - Note: Both. Many mistakes spoil the copies, so the chain stops working. But a few mistakes make new kinds, and some of them copy better than the old ones.
   - Think: If the first RNA copied with no checker, it made many mistakes. Was that good or bad for life?
 
 ## Worksheets
@@ -557,8 +568,8 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 15. (sort) Sort these: living thing, or once made by living things?  
    **Answer:** a cyanobacterium → Living thing; a stromatolite → Made by living things; a curd bacterium → Living thing; banded iron rock → Made by living things; the oxygen in the air → Made by living things. *Why:* Cyanobacteria and a curd bacterium are alive now. A stromatolite, banded iron rock and the oxygen in the air were made by living things.
 ### Clues to the Beginning (stretch) (stretch, 15 questions)
-1. (draw) Draw Stanley Miller's flask. Label the gases, the water, the spark and the brown water at the end of the week.  
-   **Answer:** A glass flask with water and the gases methane, ammonia and hydrogen, two metal points with a spark between them, and brown water at the end with amino acids in it.. *Why:* Everything in the flask was non-living, yet amino acids formed.
+1. (draw) Draw an experiment that could test whether building blocks of life can form without anything living. Show what you put in, where the energy comes from, and what you look for at the end.  
+   **Answer:** For example: a sealed flask with water and simple gases, sparks for energy, and a check for new chemicals, like amino acids, at the end.. *Why:* A strong drawing uses only non-living things, gives them energy, and says what result would show building blocks had formed.
 2. (write) Miller used no living thing in his flask. Why does that matter for the question of how life began?  
    **Answer:** It shows that building blocks of life, amino acids, can form from simple chemicals without life. So the first life did not need living things to make its chemicals.. *Why:* It does not show how life began, only that one step does not need life.
 3. (fill) Friedrich Wöhler made ____, a chemical found in urine, from non-living chemicals.  
@@ -577,9 +588,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
    **Answer:** RNA that does a job. *Why:* A ribozyme is a piece of RNA that does a job, like cutting or joining other molecules.
 9. (fill) The part of the ribosome that joins amino acids into proteins is made of ____.  
    **Answer:** ['RNA']. *Why:* This was shown in 2000. It is one of the strongest clues for the RNA idea.
-10. (mcq) Venkatraman Ramakrishnan, who shared the 2009 Nobel Prize for working out the shape of the ribosome, was born in which town?  
-   Options: Kolkata / Mumbai / Chidambaram / Delhi  
-   **Answer:** Chidambaram. *Why:* He was born in Chidambaram, in Tamil Nadu. He shared the prize with Ada Yonath and Thomas Steitz.
+10. (mcq) A ribosome is the part of a cell that builds proteins. Why did scientists want to work out its exact shape?  
+   Options: To give it a name / Because it is the biggest thing in a cell / Its shape shows how it does its job, and helps make medicines that stop germs' ribosomes / To find out how old it is  
+   **Answer:** Its shape shows how it does its job, and helps make medicines that stop germs' ribosomes. *Why:* How something is shaped tells you how it works. Many medicines for germs work by jamming their ribosomes, so knowing the shape helps make better ones.
 11. (truefalse) Fatty acid molecules can form tiny hollow bubbles in water by themselves.  
    **Answer:** True. *Why:* True. Their water-shy ends tuck in, and they close up into bubbles. The first cell skins may have formed this way.
 12. (mcq) Why are living stromatolites found at Shark Bay in Australia?  
@@ -661,9 +672,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 9. (mcq) Why do scientists call the RNA idea a hypothesis and not a fact?  
    Options: Because nobody likes it / Because RNA does not exist / Because it has not yet been fully shown to work / Because it is too old  
    **Answer:** Because it has not yet been fully shown to work. *Why:* It has good evidence, but nobody has yet shown RNA copying itself from scratch, as the idea needs.
-10. (mcq) What did Stanley Miller's spark experiment show?  
+10. (mcq) Scientists put water and simple gases in a sealed flask and passed sparks through it for a week. Building blocks of proteins formed. What does this show?  
    Options: Building blocks of life can form without living things / Life can be made in a week / Lightning kills microbes / Gases cannot change  
-   **Answer:** Building blocks of life can form without living things. *Why:* It showed that amino acids, building blocks of proteins, can form from water and simple gases with energy, without any living thing.
+   **Answer:** Building blocks of life can form without living things. *Why:* Nothing in the flask was alive, yet amino acids, the building blocks of proteins, formed from water and simple gases with energy. Stanley Miller did this in 1953.
 11. (mcq) Before 1828, many chemists believed something that Wöhler showed was wrong. What was it?  
    Options: That the Earth is flat / That only living things could make the chemicals of life / That iron never rusts / That RNA was the first life  
    **Answer:** That only living things could make the chemicals of life. *Why:* They believed only living things could make the chemicals of life. Wöhler made urea from non-living chemicals.
