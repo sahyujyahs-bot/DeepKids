@@ -2339,7 +2339,7 @@
      "mins": 3,
      "do": "1. Lay out the six pieces. 2. Ask your child to put them in a line, fastest-soaking first.",
      "say": "Which surface will soak up a drop the fastest? Which will never soak it up? Put them in a line, fastest first. Why that order?",
-     "kid": "Look at the six surfaces. Put them in a line, with the one you think will soak up a drop fastest first. This is your guess.",
+     "kid": "Look at the six surfaces. Put them in a line. Put first the one you think will soak up a drop fastest. This is your guess.",
      "context": "This is the first step of the vanishing drop test. You find out which materials are absorbent and which are waterproof, by timing a drop."
     },
     {

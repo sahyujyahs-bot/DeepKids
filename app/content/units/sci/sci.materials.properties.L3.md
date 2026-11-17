@@ -446,7 +446,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the six pieces. 2. Ask your child to put them in a line, fastest-soaking first.  
   *Parent says:* Which surface will soak up a drop the fastest? Which will never soak it up? Put them in a line, fastest first. Why that order?  
-  *Child mode:* Look at the six surfaces. Put them in a line, with the one you think will soak up a drop fastest first. This is your guess.
+  *Child mode:* Look at the six surfaces. Put them in a line. Put first the one you think will soak up a drop fastest. This is your guess.
 - **s2 (6 min)**  
   *Parent does:* 1. Lay the six pieces flat on the tray, a few centimetres apart. 2. Fill the dropper with water. 3. Put one drop on the paper towel and start the timer at the same moment. Look from the side. When the drop's shiny top is gone, stop the timer and write the seconds. 4. Do the same, one at a time, for the cotton cloth and the newspaper. 5. Now put one drop each on the printer paper, the butter paper and the plastic bag, one after another. Start the timer when the last drop lands. 6. Each time a shiny top is gone, write the seconds beside that piece. Stop at 120 seconds.  
   *Parent says:* Fast surfaces get timed one at a time. Slow ones get timed together. Watch from the side. Stop when a shiny drop has gone into the material, and write down the seconds.  
