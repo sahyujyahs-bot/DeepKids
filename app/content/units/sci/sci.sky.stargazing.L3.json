@@ -73,7 +73,7 @@
    "examples": [
     "Kratu, the star at the top corner of the Saptarishi's bowl, is about 123 light-years away. Pulaha, just below him, is about 80 light-years away.",
     "In Orion, Betelgeuse (the red star called Ardra or Thiruvathirai) is about 550 light-years away, while Bellatrix, on the other shoulder, is about 250. Astronomers are still refining the Betelgeuse distance.",
-    "Two fingertips, one near your eye and one at arm's length, can seem to touch. Move your head and they come apart. Stars in a constellation line up in the same way."
+    "Hold one fingertip close to your eye and another at arm's length, and the two can seem to touch. Move your head and they come apart. Stars in a constellation are like this. They can look close together from where we stand, even when one is much nearer than the other."
    ],
    "perspectives": [],
    "art": "Seven stars seen from Earth as a ladle, and the same stars drawn from the side at their real distances, two far behind the other five.",
@@ -174,7 +174,7 @@
    "for": "They look close together, and they move across the sky together every night.",
    "against": "Measured distances show they are usually far apart. Kratu in the Saptarishi is about 43 light-years further away than Pulaha, the star just below him. They move across the sky together only because the Earth spins.",
    "status": "rejected",
-   "context": "This card is about a common idea of what a constellation is."
+   "context": "A constellation is a pattern of stars that people have named. This card asks whether the stars in a pattern are really near each other, like people in one family."
   },
   {
    "claim": "The stars are fixed, so the constellations keep their shapes for ever.",
@@ -182,7 +182,7 @@
    "for": "In one lifetime, or even in a thousand years, nobody can see a constellation change by eye.",
    "against": "In 1718 Edmond Halley showed that bright stars had moved since Ptolemy's time. Today we measure every bright star's movement.",
    "status": "rejected",
-   "context": "This card is about the old name 'the fixed stars', and why it was wrong."
+   "context": "People used to call the stars 'the fixed stars', because they seem never to change their places. This card asks whether that is true, and whether the constellations keep their shape for ever."
   },
   {
    "claim": "The nakshatra or star sign a person is born under shapes their character and their future.",
@@ -198,7 +198,7 @@
    "for": "Peoples who had been apart for tens of thousands of years tell similar stories about the cluster and a lost sister. Long ago, one star was further from its neighbour, so it was easier to see.",
    "against": "A missing-sister story could be invented again and again, because some people see six stars and some see seven. There is no way to test a story that old directly.",
    "status": "debated",
-   "context": "This card is about a bold idea on how old our star stories might be."
+   "context": "Krittika, also called the Pleiades, is a small group of stars. Many peoples tell a story about seven sisters in it, and often one sister is lost or hidden. This card asks how old that story might be."
   }
  ],
  "big_questions": [
@@ -225,7 +225,7 @@
   {
    "q": "Light from Kratu left about 123 years ago. Are you seeing Kratu as he is now, or as he was?",
    "kind": "deep",
-   "hint": "Was anyone you know alive 123 years ago? What could have changed since?"
+   "hint": "The light you see tonight set off from Kratu 123 years ago. Think of how much has changed in the world since then. A star changes far more slowly than that, but the light you see is still old, so it shows Kratu as he was."
   },
   {
    "q": "In 50,000 years the ladle will be bent out of shape. Will anyone then still call it the Saptarishi?",
@@ -560,6 +560,7 @@
   {
    "id": "e1",
    "title": "The Thread Saptarishi: are its seven stars really close together?",
+   "problem": "The seven stars of the Saptarishi look like a ladle in the sky. In this model, a card with a hole stands for Earth. Seven threads run from the hole to seven dots on the wall, and a paper star sits on each thread at that star's real distance. One centimetre of thread stands for 2 light-years. First you look through the hole, as we look from Earth. Then you look from the side, as if you were standing somewhere else in space.",
    "mins": 35,
    "days": 1,
    "question": "Are the seven stars of the Saptarishi at the same distance from us? Does their ladle shape still show when you look from somewhere other than Earth?",
@@ -869,6 +870,7 @@
   {
    "id": "e3",
    "title": "The Moon's Daily Step: how far does the Moon move among the stars?",
+   "problem": "Indian astronomers split the Moon's path across the sky into 27 star groups called nakshatras. In this experiment you find out how far the Moon moves among the stars from one night to the next. You measure with your fist held out at arm's length, which covers about 10 degrees of sky.",
    "mins": 30,
    "days": 4,
    "question": "Against the stars, how far does the Moon move from one night to the next, and in which direction?",
@@ -1032,10 +1034,10 @@
      "kid": "The Greeks saw a hunter here. Indian astronomers saw a deer's head. The red star is Ardra.",
      "ask": [
       {
-       "q": "Which picture do you like best, yours or theirs? Why?",
+       "q": "Put your picture beside the Greek hunter and the Indian deer's head. All three are made on the same dots. What is the same in the three pictures, and what is different?",
        "good": [
-        "Mine, because it looks like a kite.",
-        "The hunter, because the belt is easy to find."
+        "The dots are the same. Each picture joins them in a different way.",
+        "The stars did not change. Only the lines and the story changed."
        ]
       }
      ]
@@ -1046,6 +1048,7 @@
      "do": "Ask the question below and let your child think.",
      "say": "Three people joined the same stars and made three different pictures. Were the stars different?",
      "kid": "Three people saw three different pictures. Were the stars different?",
+     "parent": "A good answer: they would see a different picture, or none at all. From another planet, the stars would be seen from a different place, so they would line up differently, as the paper stars did in the Thread Saptarishi model.",
      "check": {
       "t": "mcq",
       "q": "The Greeks saw a hunter and Indian astronomers saw a deer's head in the same stars. Why?",
@@ -1200,6 +1203,7 @@
      "do": "Your child draws one story and makes up their own.",
      "say": "Now you are a storyteller. Make up your own story about these stars. Who are they? Why are they so close together?",
      "kid": "Make up your own story about these stars. Who are they? Draw it.",
+     "parent": "A good answer to why the stars are so close together: they really are close, because the stars of Krittika were born together from one cloud of gas and travel together. A story where the sisters stay together fits that best. Unlike the Saptarishi, Krittika is a real group.",
      "think": "Krittika's stars really were born together. Which story fits that best?"
     }
    ],
@@ -2161,7 +2165,7 @@
      "lines": 5,
      "how": "e1",
      "context": "In the Thread Saptarishi experiment, seven threads run from a card with a hole (the Earth) to seven dots on a wall. A paper star sits on each thread at that star's real distance, 1 centimetre for every 2 light-years.",
-     "a": "No. In the model, the ladle showed only from the Earth card. Kratu is about 43 light-years further away than the five middle stars, so from Kratu they would be in a completely different direction. You would not see a ladle. Kratu would be your own sun.",
+     "a": "No. In the model, the ladle showed only from the Earth card. Kratu is about 43 light-years further away than the five middle stars. From a planet round Kratu, you would see those stars from a different place, so they would make a different pattern, and you would not see the ladle. Kratu would be your own sun.",
      "why": "A strong answer uses the model's lesson, that the shape depends on where you look from, and reasons about the new viewpoint."
     },
     {
@@ -2720,9 +2724,9 @@
    "evidence": "In the Thread Saptarishi experiment, the ladle showed only from the Earth card and broke apart from the side. Measured distances say the same: Kratu is about 123 light-years away and Pulaha, just below him, about 80."
   },
   "three": {
-   "who_am_i": "You are standing in the one place where the Saptarishi is a ladle. Part of every star pattern you see comes from where you are.",
+   "who_am_i": "The Saptarishi looks like a ladle only from near Earth, and you are standing on Earth. So part of every star pattern you see comes from the place where you stand, and not only from the stars.",
    "what_is_life": "Indigo buntings fly thousands of kilometres at night and need to keep their direction. As chicks they learn the stars that turn round the Pole Star, and use them to steer.",
-   "what_is_this_world": "The stars are not stuck on a dome. They are scattered through deep space, near and far, and the flat sky is how that space looks from one small place."
+   "what_is_this_world": "The stars are not stuck on a dome. They are spread through deep space, some near and some far. The sky looks flat to us only because we see all of it from one small place."
   },
   "thread": "There is one set of stars in space, and every people on Earth looks at it from the same place. Indian families see Vasishtha and Arundhati. The Greeks saw a bear, and the Mi'kmaq of Canada see a bear followed by hunters. The stars are the same, and each people joined them into its own pictures and stories. In the same way, every place in space has its own sky made from the same stars. Each view is true from where it is seen, and none of them is the whole.",
   "teachings": [
@@ -2754,11 +2758,11 @@
   "practice": {
    "title": "Two eyes, two views",
    "mins": 4,
-   "say": "Let's sit quietly in a dim room. Hold up one finger at arm's length, in front of a far light or a picture on the wall. Close your left eye and look. Now open it and close your right eye. Did your finger jump? Each eye sees from a slightly different place, so each sees its own picture. Now close both eyes. Breathe slowly six times. When you open them, look round the room. Everything you see, you see from exactly here.",
+   "say": "Let's sit quietly in a dim room. Hold up one finger at arm's length, in front of a far light or a picture on the wall. Close your left eye and look. Now open it and close your right eye. Did your finger jump? Each eye sees from a slightly different place, so each sees its own picture. Now close both eyes. Breathe slowly six times. When you open them, look round the room. Everything you see, you see from exactly here, and the sky is the same. Every picture of the sky is a view from one place.",
    "kid": "Hold up one finger. Close one eye. Now swap eyes. Did your finger jump? Each eye sees from its own place. Close your eyes. Breathe slowly six times. Open them and look round."
   },
   "ask": [
-   "If the Saptarishi is a ladle only from near Earth, is the ladle in the sky or in us?",
+   "The Saptarishi is a ladle only when we look from near Earth. Is the ladle really out in the sky, or does it come from the place where we stand when we look?",
    "From a planet round Kratu, someone may be joining other stars into her own pictures. Would her pictures be wrong?",
    "The Krittikas are six mothers in India and seven sisters in Greece. Can both stories be true in their own way?"
   ],

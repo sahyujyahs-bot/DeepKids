@@ -24,7 +24,7 @@
 - **Trough**: The lowest point of a wave, between two crests. Say it 'troff'. *e.g.* A small boat dips down into the trough between two waves.
 - **Wavelength**: The distance from one crest to the next crest. *e.g.* Ripples from a dripping tap have a short wavelength, about a finger-width. Waves at Marina Beach in Chennai have a much longer one.
 - **Height of a wave**: How far the crest is above the flat water. Scientists call half the distance from trough to crest the amplitude. *e.g.* A gentle ripple is only a few millimetres high. A storm wave can be taller than a house.
-- **Wave speed**: How far a wave travels in one second. *e.g.* In your tray, a wave took a few seconds to cross and come back.
+- **Wave speed**: How far a wave travels in one second. *e.g.* Drop a pebble in a bucket and time the ripple. If it crosses 20 centimetres in 1 second, its wave speed is 20 centimetres each second.
 - **Depth**: How deep the water is, from the top to the bottom. *e.g.* Stand a ruler in the tray. If the water reaches the 2 cm mark, the depth is 2 centimetres.
 - **Reflect**: To bounce back. A wave reflects when it hits a wall or a fixed end. *e.g.* A ripple that hits the side of the bucket comes back towards the middle.
 - **Tsunami**: A very long, fast sea wave, usually started by an earthquake under the sea. Say it 'soo-nah-mee'. It is a Japanese word for a harbour wave. *e.g.* On 26 December 2004, a tsunami from an earthquake near Sumatra reached the coast of Tamil Nadu about two hours later.
@@ -36,14 +36,14 @@
 ### A wave is travelling energy · *defined*
 **Definition:** A wave is energy travelling through a material while the material only moves a little, back and forth or up and down, and stays in its place.
 
-When you tap the water, your pencil pushes the water next to it. That water pushes the water next to it, and so on, across the bucket. Each bit of water moves only a tiny distance and then settles back. What crosses the bucket is the energy of your tap. The puffed rice bobs as the energy passes under it, but it stays near the middle.
+When you tap the water in a bucket with a pencil, the pencil pushes the water next to it. That water pushes the water next to it, and so on, across the bucket. Each bit of water moves only a tiny distance and then settles back. What crosses the bucket is the energy of your tap. A grain of puffed rice floating in the middle bobs as the energy passes under it, but it stays near the middle.
 - e.g. Ripples cross a bucket, but a floating grain stays near the middle.
 - e.g. A bump runs along a dupatta to the door, but the cloth stays tied where it was.
 - e.g. In a Mexican wave, the wave runs round the stadium, but every person stays in their seat.
 ### The water moves in small circles · *defined*
 **Definition:** As a water wave passes, each bit of water near the top moves round in a small circle: up and forward as the crest arrives, then down and back as the trough arrives.
 
-Watch the puffed rice closely. As a crest comes, it rises and moves a little forward. As the trough comes, it sinks and moves a little back. It ends up almost where it began. In a real sea, each circle comes out very slightly forward, so floating things creep slowly. Near the beach the waves break, and then the water does rush up the sand. Far from the shore, the water mostly goes round and round in its place.
+Float a grain of puffed rice on a bucket of water, make ripples, and watch the grain closely. As a crest comes, the grain rises and moves a little forward. As the trough comes, it sinks and moves a little back. It ends up almost where it began. In a real sea, each circle ends very slightly ahead of where it began, so floating things creep slowly forward. Near the beach the waves break, and then the water does rush up the sand. Far from the shore, the water mostly goes round and round in its place.
 - e.g. A duck sitting on a pond rides up and down as ripples pass, but stays in the same spot.
 - e.g. A fishing boat out at sea rises and falls on the waves without being carried to the beach.
 - e.g. The puffed rice in your bucket bobs and creeps only a little.
@@ -55,16 +55,16 @@ A wave on a dupatta travels through the cloth. A squeeze on a spring toy travels
 - e.g. Put your ear on one end of a long table while a friend taps the far end. The tap comes to you through the wood.
 - e.g. Sunlight reaches us across empty space.
 ### The medium sets a wave's speed · *defined*
-**Definition:** How fast a wave travels depends on what it travels through. A water wave that is long compared with the depth goes faster in deeper water and slower in shallower water.
+**Definition:** How fast a wave travels depends on what it travels through. A water wave that is much longer than the water is deep goes faster in deeper water and slower in shallower water.
 
 In the Tray Test, you gave the water the same push each time. In 1 cm of water, the wave crawled. In 4 cm, it went about twice as fast. Your push only started the wave. After that, the water passed the energy along at its own speed. Each kind of medium has its own rule. A tight rope carries a wave faster than a loose one. A crowd of people who stand up quickly carries a Mexican wave faster than a sleepy crowd. Sound goes faster in water than in air, and faster again in steel.
-- e.g. Water 4 times as deep carries a long wave about 2 times as fast.
+- e.g. If water is four times as deep, a long wave in it goes about twice as fast.
 - e.g. A dupatta pulled tight carries a bump faster than a dupatta hanging loose.
-- e.g. A Mexican wave in a big stadium travels at about 20 seats each second. That speed is set by how quickly people react.
+- e.g. A Mexican wave in a big stadium travels about 20 seats each second. Its speed is set by how quickly people react.
 ### Why a tsunami grows tall near the shore · *defined*
 **Definition:** A tsunami travels fast in the deep ocean and slows down as the sea gets shallow. The back of the wave is still in deeper water and moving faster, so the water piles up and the wave grows taller.
 
-On 26 December 2004, a huge earthquake under the sea near Sumatra lifted the sea floor. A tsunami spread out across the Bay of Bengal. In the deep ocean it moved at more than 700 kilometres an hour, as fast as a jet plane, but it was less than a metre high, so ships hardly noticed it. Near the coast, the water got shallow and the wave slowed down, just as your wave slowed in shallow water. The wave behind caught up and the water piled up. It reached Nagapattinam, Chennai and the coast of Kerala as a wall of water. Today the Indian Tsunami Early Warning Centre in Hyderabad watches for undersea earthquakes and warns the coast.
+On 26 December 2004, a huge earthquake under the sea near Sumatra lifted the sea floor. A tsunami spread out across the Bay of Bengal. In the deep ocean it moved at more than 700 kilometres an hour, as fast as a jet plane. But it was less than a metre high, so ships hardly noticed it. Near the coast, the water got shallow and the wave slowed down, just as the wave in the Tray Test went slower in shallow water. The back of the wave was still in deeper water, so it caught up and the water piled up. The tsunami reached Nagapattinam, Chennai and the coast of Kerala as a wall of water. Today the Indian Tsunami Early Warning Centre in Hyderabad watches for undersea earthquakes and warns the coast.
 - e.g. In the deep ocean, a tsunami is fast and low.
 - e.g. Near the shore, it is slow and tall.
 - e.g. Before a tsunami arrives, the sea sometimes pulls far back from the beach. That is a sign to run to high ground at once.
@@ -78,7 +78,7 @@ Look at a wave drawn on paper. It goes up to a crest, down to a trough, and up a
 ### Waves bounce back and pass through each other · *defined*
 **Definition:** A wave reflects, or bounces back, when it reaches a wall or a fixed end. Two waves that meet pass through each other and carry on.
 
-In the tray, the wave hit the far wall and came back to you. That is why you could time it there and back. On the dupatta tied to a door handle, a bump that went along the top came back along the bottom. A fixed end turns a pulse upside down as it reflects. When two ripples cross in a bucket, they add up where they meet, then carry on as if nothing happened. Two balls would bump into each other. Two waves do not.
+In the Tray Test, the wave hit the far wall and came back to you. That is why you could time it there and back. In The Dupatta Wave, a bump that went along the top of the dupatta came back from the door handle along the bottom. The fixed end pushes back on the cloth, so a bump that goes out on top comes back underneath. When two ripples cross in a bucket, they add up where they meet, then carry on as if nothing happened. Two balls would bump into each other. Two waves do not.
 - e.g. A ripple bounces off the side of the bucket.
 - e.g. An echo is a sound wave bouncing back off a wall.
 - e.g. Ripples from two raindrops cross each other in a puddle and keep going.
@@ -89,15 +89,15 @@ Nobody can dig to the centre of the Earth. The deepest hole ever drilled goes do
 - e.g. Doctors use sound waves to see a baby inside the mother's body.
 - e.g. Bats send out sound waves and listen to the echoes to find insects in the dark.
 - e.g. Inge Lehmann used earthquake waves to find the solid inner core in 1936.
-### Living beings who use waves for their own lives · *defined*
+### Living beings who use waves to find food and stay safe · *defined*
 **Definition:** Many animals sense waves in water, in the ground or along silk, and use them to find food, find each other and notice danger.
 
-A garden spider has a problem: she sits in the middle of a big web, and an insect may land on any part of the web. Many web-building spiders see poorly. So she rests her legs on the threads. When an insect struggles, waves of shaking run along the silk to her legs. From which threads shake, she can tell where the insect is and run straight there. A fish has a line of sense organs along each side, called the lateral line. It feels tiny waves in the water from other fish, so a shoal can swim together and turn together in the dark.
+A garden spider has a problem: she sits in the middle of a big web, and an insect may land on any part of the web. Many web-building spiders see poorly. So she rests her legs on the threads. When an insect struggles, waves of shaking run along the silk to her legs. She can tell where the insect is from which threads shake, and she runs straight there. A fish has a line of sense organs along each side, called the lateral line. Through this line, the fish feels tiny waves in the water from other fish. That is how a shoal can swim together and turn together in the dark.
 - e.g. A spider feels waves along her web and finds a trapped fly.
-- e.g. A fish feels water waves through the lateral line along their sides.
+- e.g. Fish feel water waves through the lateral line along their sides.
 - e.g. Elephants may feel low rumbles from other elephants through their feet. Scientists are still studying this.
 ### Is a wave a thing? · *debated*
-A wave can be seen, counted and timed. It can knock down a sandcastle. Yet it is made of no stuff of its own. The water it travels through stays behind. So is a wave a thing, or only something that water does?
+A wave can be seen, counted and timed. It can knock down a sandcastle. Yet a wave has no stuff of its own. The water it travels through stays behind. So is a wave a thing, or only something that water does?
 - e.g. You can say 'that wave is coming', as if it were a thing.
 - e.g. You can also say 'the water is going up and down', and never mention a wave.
 - **Many physicists:** A wave is a real thing in its own right. It carries energy, it has a speed and a wavelength, and it can be measured. It does not need to be made of its own stuff to be real.
@@ -105,7 +105,7 @@ A wave can be seen, counted and timed. It can knock down a sandcastle. Yet it is
 
 ## Mostly agreed
 - A wave carries energy from place to place, while the material it travels through stays roughly where it was. *How we know:* A floating grain on a bucket bobs up and down as ripples pass, and ends up almost where it started.
-- The speed of a water wave that is long compared with the depth depends on the depth. Deeper water carries it faster. *How we know:* In a tray, the same push sends a wave across and back faster in deeper water. School labs measure this with ripple tanks. Tsunami warning centres use the depth of the sea to work out when a wave will reach each coast.
+- When a water wave is much longer than the water is deep, its speed depends on the depth. Deeper water carries it faster. *How we know:* In a tray, the same push sends a wave across and back faster in deeper water. School labs measure this with ripple tanks. Tsunami warning centres use the depth of the sea to work out when a wave will reach each coast.
 - Waves reflect from walls and pass through each other. *How we know:* Ripples bounce off the side of a bucket, and two sets of ripples cross without stopping.
 - The Earth has a solid inner core inside a liquid outer core. *How we know:* Inge Lehmann proposed it in 1936 from earthquake waves. In 1970, more sensitive seismographs picked up waves bouncing off the solid inner core.
 - A tsunami slows down and grows taller as it reaches shallow water near a coast. *How we know:* Measurements of the 2004 Indian Ocean tsunami by satellites over the deep sea and by people on the coast showed a low, fast wave far out and a tall, slower one at the shore.
@@ -118,7 +118,7 @@ A wave can be seen, counted and timed. It can knock down a sandcastle. Yet it is
 - **Sea waves carry the water from far out at sea to the beach.** (A very common idea among children and grown-ups; *rejected*)  
   For: Waves do run up the beach, and floating things do slowly wash ashore.  
   Against: Far from the shore, the water mostly goes round in small circles as the wave passes. A boat out at sea rises and falls but is not carried in by each wave. Floating things wash ashore slowly, mostly because of wind, currents and the slight forward creep of each circle. Only where waves break does water rush up the sand.
-- **A wave's speed comes from the push that started it, like a ball thrown harder goes faster.** (A common first guess; *rejected*)  
+- **A wave's speed comes from the push that started it, just as a ball thrown harder goes faster.** (A common first guess; *rejected*)  
   For: A big storm does make big waves, and a harder flick sends a bigger bump along a rope.  
   Against: In the Tray Test, the same push travelled at different speeds in different depths. The medium sets the speed. The push mostly sets how tall the wave is. The push does matter a little: in the deep sea, long waves travel faster than short ones, and a very tall wave in shallow water goes a little faster than a small one.
 - **Mangrove forests along the coast protected villages from the 2004 tsunami.** (Some scientists who studied the coast of Tamil Nadu and Sri Lanka after 2004; *debated*)  
@@ -131,17 +131,17 @@ A wave can be seen, counted and timed. It can knock down a sandcastle. Yet it is
 ## Roots
 We have sent waves across water, along a dupatta and through a row of people. Now we ask what waves tell us about ourselves and the world.
 
-**Deep truth.** In your tray, the same push sent a wave slowly through shallow water and fast through deeper water. Your hand did the same thing each time. So once a wave starts, the water it travels through sets its speed. That is why a tsunami slows down as the sea gets shallow.  
-*Habit it breaks:* We expect whoever starts something to decide how fast it goes, as a harder throw makes a faster ball. A ball carries its own motion. A wave is passed on by everything it travels through, so they set its pace.  
+**Deep truth.** In the Tray Test, the same push sent a wave slowly through shallow water and fast through deeper water. Your hand did the same thing each time. So once a wave starts, the water it travels through sets its speed. That is why a tsunami slows down as the sea gets shallow.  
+*Habit it breaks:* We expect whoever starts something to decide how fast it goes, just as a harder throw makes a faster ball. A ball carries its own motion. A wave is passed on by the material it travels through, so the material sets its speed.  
 *Evidence:* In the Tray Test, two trips there and back took about 5 seconds in 1 cm of water and about 3 seconds in 4 cm, with the same push. In the family stadium wave, the same start made a slower wave when everyone waited before standing.
 
-- *who am i:* Your voice reaches a friend as a wave in the air. The air by your mouth stays by your mouth, yet your words arrive.
+- *who am i:* Your voice reaches a friend as a wave in the air. The air near your mouth stays near your mouth. Only the energy of your voice crosses the room, and your words arrive.
 - *what is life:* A spider feels waves along her web and runs to her food. A fish feels waves in the water and turns with the shoal. Living beings know their world through the waves that reach them.
 - *what is this world:* The sea, the ground and the air are full of waves passing through. Nobody has been to the centre of the Earth, yet waves have told us what is there.
 
-Before you tap, the water in the bucket is flat and still. One tap gives it energy, and that energy spreads out as ring after ring of ripples. No ripple is made of new water. Each is the same body of water, rising and falling as the energy passes. So the many ripples are one water, moving in many places.
+Before you tap, the water in the bucket is flat and still. One tap gives it energy, and that energy spreads out as ring after ring of ripples. No ripple is made of new water. Every ripple is the same water as before, rising and falling as the energy passes. So the ripples are not separate things. They are one body of water, moving in different places.
 
-- **Ashtavakra Gita 2.4:** As waves, foam and bubbles are not different from water, so the whole world that comes from the Self is not different from it. (Your tray showed the fact this verse starts from: a wave has no stuff of its own. It is the water itself, moving. The Ashtavakra Gita uses that fact about water to speak about the world.)
+- **Ashtavakra Gita 2.4:** As waves, foam and bubbles are not different from water, so the whole world that comes from the Self is not different from it. (The Tray Test showed that a wave is not a separate thing from the water. It is the water itself, moving. The verse uses this fact about water to say that the whole world is not separate from the one Self it comes from.)
 - **Tao Te Ching 78:** Nothing in the world is softer and weaker than water. Yet nothing is better at wearing down what is hard and strong. (Water gives way to your finger. Yet water passing on the energy of an undersea earthquake broke sea walls in 2004. Water carries energy by giving way, each part passing it to the next.)
 - Science (settled): Energy is never made or destroyed. A wave carries energy from one place to another. When a wave fades, its energy has turned into a little warmth in the water.
 - Science (settled): Ripples, sound, earthquake shaking and light look very different, but they are all waves. The same ideas of wavelength and speed describe every one of them.
@@ -152,9 +152,9 @@ Before you tap, the water in the bucket is flat and still. One tap gives it ener
 - Ask: Inge Lehmann learned about the centre of the Earth without ever going there. What else do we know only from the waves that come to us?
 
 ## Deep and big questions
-- *deep:* The puffed rice stayed in the middle, yet something crossed the bucket. What exactly is it that travels in a wave? (hint: Think about what your pencil gave the water, and what the puffed rice felt when the wave passed.)
+- *deep:* Float a grain of puffed rice on a bucket of ripples. The grain stays in the middle, yet something crosses the bucket. What is it that travels in a wave? (hint: Think about what the tapping pencil gave the water, and what the puffed rice felt when the wave passed.)
 - *deep:* If the water sets the speed of the wave, what does the person who starts the wave decide? (hint: Compare a small push with a big push. What changed, and what stayed the same?)
-- *deep:* Your voice is a wave in the air. When a friend hears you, has any of your air reached them? (hint: Think about the puffed rice and the dupatta.)
+- *deep:* Your voice is a wave in the air. When a friend hears you, has any of your air reached them? (hint: Think about the puffed rice that stayed in the middle of the bucket, and the dupatta that stayed tied to the door handle.)
 - *big:* Light from a far star is a wave that left the star long ago. Is the star still there? (hint: Light takes time to travel. Some starlight has been travelling for thousands of years.)
 - *big:* A rumour passes from person to person around a school, and every person stays at their desk. Is a rumour a kind of wave? (hint: What travels, and what stays? Does the rumour change as it goes?)
 - *big:* If we know what is inside the Earth only from the waves that come through it, how sure can we be? (hint: Think about how many earthquakes and machines Inge Lehmann needed, and what would make you more sure.)
@@ -204,19 +204,19 @@ The wave came round a third time. Meenakshi and Arjun waited a moment too long b
 
 Revathi Chithi nodded. "In my work, that matters a lot. The sea is the same. A wave in the deep ocean travels very fast. When it comes into shallow water near the beach, it slows down. The water behind is still fast, so it catches up and the wave piles up taller. That is why a tsunami is so tall when it reaches the shore."
 
-"Like the people behind us bumping into us when we were slow?" said Arjun.
+"So the fast water behind piles up on the slow water in front?" said Arjun.
 
-"Something like that," said Revathi Chithi, and she laughed.
+"Yes, exactly," said Revathi Chithi, and she laughed.
 
 On the way home in the auto, Meenakshi kept thinking. When they got home, she took the long steel tray that Paati used for drying vadams. She poured in a little water and pushed it at one end with a dosa turner. A bump of water ran to the far end and came back.
 
 Then she poured in more water and did it again. This time the bump ran faster.
 
-"Arjun, look," she said. "I pushed the same. The water decided."
+"Arjun, look," she said. "I pushed the same each time. The water set the speed, not me."
 
-Arjun peered into the tray. "So the water is the crowd," he said.
+Arjun peered into the tray. "So the water is like the crowd," he said. "Each bit passes the push to the next bit."
 
-Meenakshi grinned. "And the deep water is a quick crowd."
+Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like a crowd that reacts quickly."
 
 **For the parent:** For the parent: a wave is energy passed from one part of a material to the next, while each part stays in its place. The speed of the wave is set by the material it passes through, whether that is people in a stadium or water in a tray.
 
@@ -233,8 +233,8 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 - **Printable score sheet: Score sheet:** Player name; Cards sorted right; Best reason given
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards and put them in a pile with the questions facing up.  
-  *Parent says:* In this game, the question is always the same. Does the stuff travel, or only the energy?  
-  *Child mode:* For each card, ask: does the stuff travel, or only the energy?
+  *Parent says:* In this game, the question is always the same. Does the material itself travel, or only the energy?  
+  *Child mode:* For each card, ask: does the material travel, or only the energy?
 - **s2 (3 min)**  
   *Parent does:* Find the river Kaveri card and play it together as a practice.  
   *Parent says:* The river Kaveri flowing to the sea. Is that a wave? What travels, and what stays?  
@@ -269,7 +269,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 ### e1 · The Tray Test: does a wave cross deep or shallow water faster? (30 min)
 - **question:** If you give the water the same push, does a wave cross a tray faster when the water is shallow or when it is deep?
 - **predict:** Guess: will the wave be faster in shallow water, in deep water, or the same in both? Why do you think so?
-- **fair test:** Use the same tray, the same dosa turner and the same push every time: push it forward about 2 cm, once, quickly. Time the same thing every time: the bump runs to the far end and back to you, twice. Only the depth of the water changes. Time each depth three times, because a stopwatch pressed a little late can fool you.
+- **fair test:** Use the same tray, the same dosa turner and the same push every time: push the turner forward about 2 cm, once, quickly. Time the same thing every time: the bump runs to the far end and back to you, twice. Only the depth of the water changes. Time each depth three times, because a stopwatch pressed a little late can fool you.
 - **record:** Fill in the table. Circle the middle time for each depth. Then finish this sentence: 'The deeper the water, the ...'
 - **results table:** Water depth | My guess: fast or slow? | Try 1 (seconds) | Try 2 (seconds) | Try 3 (seconds) | Middle time (seconds)
 - **s1 (5 min)**  
@@ -282,11 +282,11 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Parent says:* Watch the bump of water run to the far end and come back. Next we will make the water deeper. Do you think the wave will go faster, slower, or the same? Why?  
   *Child mode:* Push once. Watch the bump go and come back. Will deeper water be faster or slower? Why?
   - Ask: Why do you think so? (good: Deeper water is heavier, so it will be slower.; There is more water to push the wave, so faster.; The push is the same, so the same speed.)
-  - Note: Do not say which is right. Write down the guess and the reason. Every one of the good answers above is a sensible first idea.
+  - Note: Do not say which is right. Write down the guess and the reason. Slower, faster and the same are all sensible first ideas.
 - **s3 (9 min)**  
   *Parent does:* 1. Your child holds the phone stopwatch. 2. Shine the torch at a slant across the water, so the wave makes a bright line on the bottom of the tray. 3. Say 'go' and push once. Your child starts the stopwatch as you push. 4. Your child watches the bump run to the far end and back to you. Then it goes to the far end and back again. 5. Your child stops the stopwatch when the bump reaches you the second time. 6. Wait for the water to go still. Do it three times.  
   *Parent says:* Go! Count it with me. There, and back one. There, and back two. Stop!  
-  *Child mode:* Start the stopwatch when the push starts. Watch the bump go there and back. There and back again is two. Press stop!
+  *Child mode:* Start the stopwatch when the push starts. Watch the bump go there and back, twice. Then press stop!
   - Note: In 1 cm of water the wave is slow and fades quickly, so watch the bright line it makes on the bottom. In a 40 cm tray, two trips there and back take roughly 5 seconds. If the bump fades before the second trip, time just one trip there and back at every depth instead.
 - **s4 (9 min)**  
   *Parent does:* 1. Add water until the ruler shows 2 cm. 2. Wait until it is still. 3. Time it three times, with the same push. 4. Add water to 4 cm and time it three times again.  
@@ -294,9 +294,9 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Child mode:* Add water to 2 cm. Same push. Time it three times. Then do 4 cm.
   - Note: The wave should be clearly faster in 4 cm of water. In a 40 cm tray, two trips take about 3 seconds at 4 cm, compared with about 5 seconds at 1 cm. The exact numbers depend on your tray. What matters is that the time gets shorter as the water gets deeper. For the middle time, put the three times in order and take the middle one.
 - **s5 (4 min)**  
-  *Parent does:* 1. Look at the table together. 2. Ask your child to say or write three things: what I think, what I saw, and why.  
+  *Parent does:* 1. Look at the table together. 2. Ask your child to say or write three things: what they think now, what they saw that shows it, and why they think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think now, what you saw, and why you think it happened.
   - Note: A strong answer sounds like this: 'Deeper water makes a faster wave. In my table, 4 cm took less time than 1 cm, with the same push. I think the water decides how fast the wave goes.' Now read the card 'The medium sets a wave's speed'.
   - Check: You gave the water the same push every time. What made the wave faster? → **Deeper water**
 ### e2 · Puffed Rice on the Waves: does the water travel with the wave? (20 min)
@@ -319,7 +319,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 - **s3 (5 min)**  
   *Parent does:* 1. Your child taps the water near one edge with the pencil end, about once a second, for one minute. 2. Watch the grains closely from the side. 3. Mark where they are at the end.  
   *Parent says:* Tap gently, once a second. Watch one grain closely. What does it do as each ripple passes?  
-  *Child mode:* Tap once a second. Watch one grain. Up? Down? Across?
+  *Child mode:* Tap once a second. Watch one grain. Does it go up, down or across?
   - Note: The grains bob up and down as each ripple passes. They may creep a little, a centimetre or two, but they stay near the middle. If they drift a lot, the tapping is too hard and is pushing water, so tap more gently.
 - **s4 (4 min)**  
   *Parent does:* 1. Put the grains back in the middle. 2. Your child blows gently across the water through the straw, from one side, for a few seconds.  
@@ -327,16 +327,16 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Child mode:* Now blow across the water through the straw. Where do the grains go?
   - Note: Now the grains sail quickly to the far side. Blowing pushes the top of the water along, like wind making a current. That is different from a wave, which passes through the water and leaves it behind.
 - **s5 (4 min)**  
-  *Parent does:* Talk about the two tests. Ask for claim, evidence and reason.  
+  *Parent does:* Talk about the two tests. Ask your child what crossed the bucket, what they saw that shows it, and why they think so.  
   *Parent says:* With tapping, the grains stayed. With blowing, they sailed away. What crossed the bucket when you tapped?  
-  *Child mode:* Tapping: the grains stayed. Blowing: they sailed. What crossed when you tapped?
+  *Child mode:* When you tapped, the grains stayed. When you blew, they sailed away. What crossed the bucket when you tapped?
   - Note: A strong answer: 'The ripples carried the energy, not the water. The grains bobbed up and down but stayed near the middle. When I blew, I pushed the water itself, so the grains moved across.'
   - Check: Ripples crossed the bucket, but the puffed rice stayed near the middle. What did the ripples carry across? → **Energy from your tapping**
 
 ## Activities
 ### a1 · The Dupatta Wave (8 min)
 - **safety:** Tie the end to a door handle that cannot swing shut on a finger, or have a grown-up hold it.
-- **record:** Draw the dupatta with the bump on it, and an arrow for where the bump goes and an arrow for where the peg goes.
+- **record:** Draw the dupatta with the bump on it. Draw one arrow to show where the bump goes, and another to show where the peg goes.
 - **s1 (3 min)**  
   *Parent does:* 1. Tie one end of the dupatta to a door handle. 2. Your child holds the other end, with the dupatta a little slack, just above the floor. 3. Your child flicks their hand up and down once, quickly.  
   *Parent says:* Flick your hand once, up and down, fast. What do you see?  
@@ -363,7 +363,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Parent does:* 1. Gather a few coils at your end into a squeeze, then let them go. 2. Watch the squeeze run along. 3. Watch the paper tag.  
   *Parent says:* This is a push wave. Watch the tag. Does it go to the other end, or does it move a little and come back?  
   *Child mode:* Watch the squeeze run along. Watch the tag. Does it travel?
-  - Note: The tag moves forward a little and back, along the length of the spring. The squeeze travels the whole way. Sound travels through air like this, as squeezes passing from air to air.
+  - Note: The tag moves forward a little and back, along the length of the spring. The squeeze travels the whole way. Sound travels through air like this, as squeezes passed from one bit of air to the next.
 - **s3 (3 min)**  
   *Parent does:* Flick your end once, quickly, sideways along the floor.  
   *Parent says:* This is a shake wave. Now how does the tag move?  
@@ -402,7 +402,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 - **s2 (6 min)**  
   *Parent does:* Walk round the home together and find more waves.  
   *Parent says:* Let's hunt. Look for things that wave, ripple, shake or sound. For each one, ask: what is the wave travelling through?  
-  *Child mode:* Hunt for waves. Ripples. Shakes. Sounds. What does each travel through?
+  *Child mode:* Hunt for waves: ripples, shakes and sounds. What does each one travel through?
   - Note: Ideas: ripples when a tap drips into a full bucket, the pressure cooker whistle, a door slamming that shakes the window, a rope or dupatta shaken, light from the window. Light is a wave too, but it can travel through empty space.
 - **s3 (2 min)**  
   *Parent does:* Read the list together.  
@@ -424,6 +424,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   *Child mode:* Draw the wave. Label crest, trough, wavelength and height.
   - Check: Where is the wavelength of a wave? → **From one crest to the next crest**
 ### a6 · Tap the Water, Tap the Curd (10 min)
+- **problem:** Waves do not behave the same way in every material. In this activity, you tap a bowl of water and a bowl of set curd. You see how long the waves last in each. Scientists use the same idea to learn what is inside the Earth.
 - **record:** Write one line for each bowl: what you saw, and how long the waves lasted.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the bowls side by side, with the water and the curd both about 3 cm deep. 2. Shine the torch across them at a slant. 3. Ask for a guess.  
@@ -436,11 +437,12 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   - Note: In water, ripples run across, bounce off the sides and keep going for a few seconds. In set curd, the top gives a small wobble that stops almost at once. The curd is thick and soaks up the energy quickly.
 - **s3 (3 min)**  
   *Parent does:* Talk about why this matters.  
-  *Parent says:* Waves travel differently through different materials. Scientists use that to find out what is inside the Earth, where nobody can dig.  
-  *Child mode:* Waves change in different materials. That helps us see inside the Earth!
+  *Parent says:* In the water, the ripples kept going. In the curd, they stopped almost at once. So the material changes how a wave behaves. Earthquake waves speed up and bend when they pass from one kind of rock to another. Scientists use that to learn what is inside the Earth, where nobody can dig.  
+  *Child mode:* Water and curd carry waves differently. Earthquake waves also change in different rock. That is how we learn what is inside the Earth!
 
 ## Projects
 ### p1 · The Straw Wave Machine (45 min, 2 days)
+- **problem:** A wave moves along a row of straws, and each straw only turns on the spot. On day 2, you make some straws heavier with dough. You then see that the material a wave travels through sets how fast it goes, as the depth of the water did in the Tray Test.
 - **safety:** A grown-up cuts the cardboard strips if you use them.
 - **record:** Day 1: draw your machine with a wave on it. Day 2: write how the wave changed when it reached the heavy straws.
 - **schedule:** day 1: Build the machine: stretch tape sticky side up between two chairs, lay straws across it, and send a twist wave along. (25 min); day 2: Add dough to the ends of the straws on one half. Compare how fast the wave crosses each half. (20 min)
@@ -451,15 +453,15 @@ Meenakshi grinned. "And the deep water is a quick crowd."
   - Ask: Did any straw move along the tape to the other end? (good: No, each straw stayed in its place and only turned.; Only the twist moved along.)
   - Note: The twist passes from straw to straw along the tape. Each straw only turns a little and back. The wave reflects at the far end and comes back. If the wave dies fast, pull the tape a little tighter. This is a home version of a wave machine first built by John Shive at Bell Labs in the 1950s.
 - **s2 (10 min)**  
-  *Parent does:* 1. Make pea-sized balls of dough. 2. On one half of the machine, stick one on both ends of every straw. 3. Send a wave from the light end.  
+  *Parent does:* 1. Make pea-sized balls of dough. 2. On one half of the machine, stick a ball on each end of every straw. 3. Send a wave from the light end.  
   *Parent says:* Now half the straws are heavy at the ends. Before you twist, guess. Will the wave speed up, slow down, or stay the same when it reaches the heavy half? Why do you think so?  
-  *Child mode:* Half the straws have dough on. Will the wave change there? Why?
+  *Child mode:* Half the straws have dough on their ends. Will the wave change when it reaches them? Why?
   - Wait: Do this on day 2.
 - **s3 (10 min)**  
   *Parent does:* 1. Watch the wave cross from the light half into the heavy half. 2. Time a wave across each half three times.  
   *Parent says:* Watch where it slows down. Time it across each half.  
   *Child mode:* Watch the wave cross into the heavy half. Time each half.
-  - Note: The wave slows down clearly in the heavy half, because heavy-ended straws are slower to start turning and slower to pass the twist on. Part of the wave also bounces back where the two halves meet. The waves are quick, so the timings are rough. If you cannot time them, film the machine on a phone and watch it slowly, or compare the two halves by eye. Just like the water in the tray, the material sets the speed of the wave.
+  - Note: The wave slows down clearly in the heavy half, because heavy-ended straws are slower to start turning and slower to pass the twist on. Part of the wave also bounces back where the two halves meet. The waves are quick, so the timings are rough. If you cannot time them, film the machine on a phone and watch it slowly, or compare the two halves by eye. Just as the depth of the water did in the Tray Test, the material sets the speed of the wave.
   - Check: Why did the wave slow down in the heavy half? → **Because the heavy straws pass the twist on more slowly**
 
 ## Challenges
@@ -467,7 +469,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 - **problem:** Make a small village of clay or paper houses at one end of a tray of water. Waves from a dosa turner at the other end knock them over. Design something that protects the village.
 - **your turn:** Now design your own wave guard. Draw it first, build it, and test it with three waves. Then make it better and test again.
 - **constraints:** Use only things from home.; Leave a gap at least 3 cm wide so a paper boat could still reach the village.; Push the waves the same way for every test.
-- **general:** A solid wall across the tray, with a gap for boats. Walls like this, called breakwaters, protect harbours in Chennai and Visakhapatnam, and the tetrapods along Marine Drive in Mumbai.; A sloping beach at the village end, made from a folded wet towel. Waves lose their energy running up a slope instead of crashing.
+- **general:** A solid wall across the tray, with a gap for boats. Walls like this are called breakwaters. They protect the harbours in Chennai and Visakhapatnam. The tetrapods along Marine Drive in Mumbai protect the shore in the same way.; A sloping beach at the village end, made from a folded wet towel. Waves lose their energy running up a slope instead of crashing.
 - **creative:** A forest of toothpicks stuck in a strip of dough, like the mangrove forests of the Sundarbans.; A row of sponge pieces that soak up the wave's energy.; A floating line of bottle caps tied with thread.
 - **s1 (5 min)**  
   *Parent does:* 1. Build three small houses at one end of the tray. 2. Send three waves with the dosa turner. 3. See how many houses fall.  
@@ -509,7 +511,7 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 
 ## Worksheets
 ### Wave Watcher (core) (core, 15 questions)
-1. (mcq) Nila, a girl in Class 3, flicks one end of a dupatta tied to a door handle. A clothes peg is clipped in the middle. What does the peg do as the bump passes?  
+1. (mcq) You flick one end of a dupatta tied to a door handle. A clothes peg is clipped in the middle. What does the peg do as the bump passes?  
    Options: It slides along to the door / It jumps up and falls back in the same place / It falls off  
    **Answer:** It jumps up and falls back in the same place. *Why:* The bump passes through the cloth, and the peg jumps up and falls back where it was. Only the energy travels to the door.
 2. (fill) Energy travelling through a material, while the material stays in place, is called a ____.  
@@ -518,34 +520,34 @@ Meenakshi grinned. "And the deep water is a quick crowd."
    **Answer:** ['medium']. *Why:* The medium can be water, a rope, the air, rock or even a crowd of people.
 4. (match) Match each word to what it means.  
    **Answer:** Crest → the highest point of a wave; Trough → the lowest point of a wave; Wavelength → the distance from one crest to the next; Medium → the material a wave travels through; Tsunami → a long, fast sea wave started by an earthquake. *Why:* These words come up all through the unit.
-5. (sort) Sort these. Is each one a wave, or is the stuff itself moving?  
+5. (sort) Sort these. In each one, is it a wave, or is the material itself moving?  
    **Answer:** ripples in a bucket → Wave; a thrown ball → Stuff moves; the sound of a drum → Wave; a river flowing → Stuff moves; a bump on a dupatta → Wave; wind blowing → Stuff moves; a Mexican wave → Wave. *Why:* In a wave, the energy travels and the material stays. In the others, the thing itself moves from place to place.
 6. (truefalse) When you blow across a bucket through a straw, the floating puffed rice sails away. This shows that waves carry water.  
    **Answer:** False. *Why:* False. Blowing pushes the top of the water itself, like wind making a current. When you only tapped, the ripples crossed but the puffed rice stayed near the middle.
 7. (truefalse) In a Mexican wave, every person stays in their own seat.  
    **Answer:** True. *Why:* True. Each person only stands up and sits down. The standing up travels round the stadium.
-8. (mcq) In the Tray Test, the wave took 5 seconds at 1 cm and 3 seconds at 4 cm, with the same push. What does this show?  
+8. (mcq) You push the water in a tray the same way each time. The wave takes 5 seconds in 1 cm of water and 3 seconds in 4 cm. What does this show?  
    Options: Deeper water carries the wave faster / Shallow water carries the wave faster / The depth makes no difference  
    **Answer:** Deeper water carries the wave faster. *Why:* A shorter time means a faster wave. The wave was faster in 4 cm of water, and the push did not change, so the depth made the difference.
 9. (mcq) Which of these could you use as a medium for a wave at home?  
    Options: A dupatta / A bucket of water / A spring toy / All of these  
    **Answer:** All of these. *Why:* A wave can travel through cloth, water, a spring and many other materials.
-10. (mcq) Farhan, a boy in Class 3, taps the side of a bowl of water and a bowl of set curd. Where do the waves last longer?  
+10. (mcq) You tap the side of a bowl of water and a bowl of set curd. Where do the waves last longer?  
    Options: In the water / In the curd / The same in both  
    **Answer:** In the water. *Why:* In water, ripples run across and bounce for a few seconds. Thick curd soaks up the energy, so its wobble stops almost at once. Different materials carry waves differently.
-11. (mcq) Why did you shine a torch at a slant across the tray?  
+11. (mcq) You time a wave across a tray of water. Why do you shine a torch at a slant across the tray?  
    Options: To warm the water / So the wave makes a bright line on the bottom that is easy to see / To make the wave faster  
    **Answer:** So the wave makes a bright line on the bottom that is easy to see. *Why:* Light bends as it passes through the bump of the wave, making a bright line on the tray's bottom. That line is much easier to follow than the clear water.
 12. (label) Label the drawing of a wave: crest, trough, wavelength, height.  
    **Answer:** ['crest', 'trough', 'wavelength', 'height']. *Why:* The crest is the top, the trough is the bottom, the wavelength goes from one crest to the next, and the height goes from the flat line up to the crest.
-13. (write) Tell how you would show a friend that ripples do not carry the water with them. What would you use, and what would they see?  
+13. (write) How would you show a friend that ripples do not carry the water with them? What would you use, and what would they see?  
    **Answer:** Float puffed rice or paper in the middle of a bucket. Tap the water at one side. The ripples cross the bucket, but the puffed rice only bobs up and down and stays near the middle.. *Why:* A strong answer names a floating thing, says how to make the waves without pushing the water, and says what the floating thing does.
-14. (write) Meenakshi, a girl of 8, saw a Mexican wave at Chepauk stadium. She said, 'The wave travelled, but nobody went anywhere.' How can both be true?  
+14. (write) A Mexican wave runs round a stadium. People watching see the wave travel round, but nobody leaves their seat. How can both be true?  
    **Answer:** Each person only stood up and sat down in their own seat. The standing up was passed from person to person, so the wave travelled round while the people stayed.. *Why:* A strong answer says what each person did and what travelled.
 15. (draw) Draw a dupatta with a bump on it. Draw one arrow to show which way the bump travels, and another to show which way a clothes peg on it moves.  
    **Answer:** The bump arrow points along the dupatta towards the door. The peg arrow points up and down.. *Why:* A strong drawing shows that the bump and the peg move in different directions: the bump along, the peg up and down.
 ### Wave Speed Detective (stretch) (stretch, 15 questions)
-1. (mcq) Imran, a boy in Class 3, says, 'If I push harder in the Tray Test, the wave will cross faster.' What would test his idea fairly?  
+1. (mcq) Someone says, 'If I push harder in the Tray Test, the wave will cross faster.' What would test this idea fairly?  
    Options: Push harder and make the water deeper at the same time / Change trays each time / Keep the depth the same, and try a small push and a big push  
    **Answer:** Keep the depth the same, and try a small push and a big push. *Why:* To test the push, only the push may change. If the depth changed too, you could not tell which one made the difference.
 2. (mcq) A wave in the tray takes 3 seconds to go there and back once. How long would three trips there and back take?  
@@ -560,21 +562,21 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 5. (mcq) A garden spider sits in the middle of her web. How does she know where an insect has landed?  
    Options: She hears it buzzing / She sees it with her sharp eyes / She feels the waves of shaking along the threads with her legs  
    **Answer:** She feels the waves of shaking along the threads with her legs. *Why:* Many web-building spiders see poorly. The spider rests her legs on the threads, and the waves from a struggling insect tell her which way to run.
-6. (order) Put these in order, from where a wave would travel slowest to fastest.  
+6. (order) Put these in order, from the water where a wave would travel slowest to the water where it would travel fastest.  
    **Answer:** ['water 1 cm deep', 'water 2 cm deep', 'water 4 cm deep']. *Why:* Deeper water carries a long water wave faster.
 7. (truefalse) A tsunami is tallest far out in the deep ocean.  
    **Answer:** False. *Why:* False. In the deep ocean a tsunami is fast but less than a metre high. It slows down and grows tall only as the sea gets shallow near the shore.
 8. (truefalse) Two sets of ripples can cross each other and both carry on.  
    **Answer:** True. *Why:* True. Where they meet they add up for a moment, then each carries on as before. Two balls would bump, but two waves pass through each other.
 9. (fill) When a wave hits a wall and bounces back, we say it ____.  
-   **Answer:** ['reflects', 'is reflected']. *Why:* A wave reflects from a wall. That is why the tray wave came back to you, and why you hear an echo.
+   **Answer:** ['reflects', 'is reflected']. *Why:* A wave reflects from a wall. That is why the wave in the Tray Test came back to you, and why you hear an echo.
 10. (odd) Three of these are waves. Which one is the odd one out?  
    Options: A squeeze running along a spring toy / Sound from a pressure cooker whistle / A paper boat carried down a gutter by rainwater / Shaking that travels through the ground in an earthquake  
    **Answer:** 2. *Why:* The paper boat is carried by water that is itself flowing. In the other three, energy travels while the material stays.
-11. (perspective) Lakshmi and her grandmother are at Marina Beach in Chennai, watching the waves come in.  
+11. (perspective) The first child and her grandmother are at Marina Beach in Chennai, watching the waves come in.  
    **Answer:** A strong answer picks a side, uses evidence from the bucket or tray, and fairly says what the other person has right.. *Why:* Both have part of the truth. Far out, the water mostly goes round in small circles. Where waves break near the beach, water really does rush up the sand.
-12. (write) Kavya, a girl in Class 3, did the Tray Test. She found that 1 cm took 6 seconds, 2 cm took 4 seconds and 4 cm took 3 seconds. Write what pattern you see, and predict what happens at 6 cm.  
-   **Answer:** The deeper the water, the shorter the time, so the faster the wave. At 6 cm, the time would be a little shorter than 3 seconds.. *Why:* A strong answer states the pattern in words and makes a prediction that follows it, without guessing a time below zero or a big jump.
+12. (write) In a Tray Test, the wave took 6 seconds in 1 cm of water, 4 seconds in 2 cm and 3 seconds in 4 cm. Write what pattern you see, and predict what happens at 6 cm.  
+   **Answer:** The deeper the water, the shorter the time, so the faster the wave. At 6 cm, the time would be a little shorter than 3 seconds.. *Why:* A strong answer states the pattern in words and makes a prediction that follows it: a time a little shorter than 3 seconds, not a big drop.
 13. (write) In the family stadium wave, the wave was slower when everyone counted 'one, two' before standing. The first person started it the same way both times. What does this tell you about what sets a wave's speed?  
    **Answer:** The speed was set by how quickly each person passed it on, not by the person who started it. So the medium, here the people, sets the speed of a wave.. *Why:* A strong answer connects the speed to the people in the line and not to the start.
 14. (write) A duck sits on a pond as ripples pass. Say what the duck will do, and why.  
@@ -587,14 +589,14 @@ Meenakshi grinned. "And the deep water is a quick crowd."
    **Answer:** Tray B, about twice as long. *Why:* The depth is the same, so the wave goes at the same speed. Tray B is twice as long, so the trip takes about twice as long.
 2. (mcq) A tsunami travels about 800 km in an hour over the deep ocean. Near the shore it slows to about 40 km in an hour. Why does it slow down?  
    Options: The water near the shore is shallow / The wave runs out of energy / The wind pushes against it  
-   **Answer:** The water near the shore is shallow. *Why:* Like the wave in your tray, a tsunami slows down in shallow water. It still carries most of its energy, which is why it grows tall and dangerous.
+   **Answer:** The water near the shore is shallow. *Why:* Like the wave in the Tray Test, a tsunami slows down in shallow water. It still carries most of its energy, which is why it grows tall and dangerous.
 3. (mcq) Sound goes faster through steel than through air. What does this tell you?  
    Options: Steel sounds are louder / Sound is made of steel / The material sets the speed of a wave  
    **Answer:** The material sets the speed of a wave. *Why:* Sound waves, like water waves, travel at a speed set by the material they pass through.
 4. (mcq) In 1929, a big earthquake shook New Zealand. Machines on the far side of the world recorded faint waves where a fully liquid core would leave none. What did Inge Lehmann conclude?  
    Options: The machines were broken / The core has a solid ball inside it / The Earth is hollow  
    **Answer:** The core has a solid ball inside it. *Why:* Lehmann showed that a solid inner core would bend the waves so that some reach those places. More sensitive machines confirmed this in 1970.
-5. (mcq) Divya, a girl in Class 3, pushes the water in a tray once. The wave fades after one trip. What would help her see it for longer?  
+5. (mcq) You push the water in a tray once. The wave fades after one trip. What would help you see it for longer?  
    Options: Use deeper water, so the bottom slows the wave less / Use a smaller tray / Push it sideways  
    **Answer:** Use deeper water, so the bottom slows the wave less. *Why:* In very shallow water, rubbing against the bottom takes the wave's energy quickly. In deeper water the wave lasts longer. A torch at a slant also helps.
 6. (sort) Sort these waves by what they travel through.  
@@ -607,33 +609,33 @@ Meenakshi grinned. "And the deep water is a quick crowd."
    **Answer:** ['seismographs']. *Why:* Seismographs in many countries record when earthquake waves arrive. Scientists use the times to see inside the Earth.
 10. (perspective) After the 2004 tsunami, a village in Tamil Nadu is deciding how to protect its coast.  
    **Answer:** A strong answer picks a plan, gives a reason from the unit or the Save the Clay Village challenge, and fairly states one strength of another plan.. *Why:* There is no single right answer. Walls block waves but cost a lot and can fail. Mangroves calm everyday waves and give fish a home, but scientists argue about how much they help in a big tsunami. Warnings save lives whatever the coast looks like.
-11. (write) Look at the habit: 'Whoever starts something decides how fast it goes.' Use the Tray Test or the stadium wave to explain why this is not true for a wave.  
+11. (write) People often think, 'Whoever starts something decides how fast it goes.' Use the Tray Test or the family stadium wave to explain why this is not true for a wave.  
    **Answer:** In the Tray Test, the push was the same every time, but the wave went at different speeds in different depths. So after the start, the water decides the speed. In the stadium wave, the start was the same, but a slow crowd made a slow wave.. *Why:* A strong answer uses real evidence from the child's own test and says clearly what sets the speed.
-12. (write) Your voice reaches a friend across a room as a wave in the air. Has any of the air from your mouth reached them? Explain using what you saw with the puffed rice.  
+12. (write) Your voice reaches a friend across a room as a wave in the air. Has any of the air from your mouth reached them? Explain using what you saw in Puffed Rice on the Waves.  
    **Answer:** Almost none. The air near your mouth only moves back and forth a tiny bit and passes the energy on, like the water passing ripples under the puffed rice. What reaches your friend is the energy of the wave.. *Why:* A strong answer links sound to the puffed rice result and says what travels and what stays.
 13. (write) Why do you think a tsunami warning centre needs to know how deep the sea is?  
    **Answer:** Because the speed of the tsunami depends on the depth of the sea. Knowing the depth, they can work out when the wave will reach each part of the coast and warn people in time.. *Why:* A strong answer connects depth to speed and speed to arrival time.
-14. (write) In the bucket, the puffed rice crept forward about 1 cm. Kavya, a girl in Class 3, says, 'So waves do carry water after all.' What would you say to her?  
-   **Answer:** The puffed rice moved only a centimetre while the ripples crossed the whole bucket. The water mostly goes round in small circles, and each circle ends slightly forward, so floating things creep a little. But the wave's energy went much further than the water did.. *Why:* A strong answer takes Kavya's evidence seriously, compares the distances, and explains the small creep.
+14. (write) In Puffed Rice on the Waves, the puffed rice crept forward about 1 cm. Someone says, 'So waves do carry water after all.' What would you say to them?  
+   **Answer:** The puffed rice moved only a centimetre while the ripples crossed the whole bucket. The water mostly goes round in small circles, and each circle ends slightly forward, so floating things creep a little. But the wave's energy went much further than the water did.. *Why:* A strong answer takes the 1 cm creep seriously, compares the distances, and explains the small creep.
 15. (draw) Draw the Earth cut in half. Show the crust, the mantle, the liquid outer core and the solid inner core. Draw one earthquake wave bending as it goes through.  
    **Answer:** A circle with layers from outside to inside: crust, mantle, liquid outer core, solid inner core, and a curved line through them.. *Why:* A strong drawing has the four layers in the right order and a wave path that bends where layers meet.
 
 ## Videos
-- **Does a Falling Slinky Defy Gravity?** (Veritasium, 4 min) id `uiyMuHuCFo4`: Slow-motion film of a hanging spring toy being dropped. The bottom of the spring stays still in the air until the wave of change, travelling down the coils, reaches it. A striking way to see that a wave takes time to travel through a material. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess. A parent should preview it.
+- **Does a Falling Slinky Defy Gravity?** (Veritasium, 4 min) id `uiyMuHuCFo4`: This is slow-motion film of a hanging spring toy being dropped. The bottom of the spring stays still in the air until a wave travelling down the coils reaches it. It shows that a wave takes time to travel through a material. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess. A parent should preview it.
 - **How tsunamis work - Alex Gendler** (TED-Ed, 4 min) id `Wx9vPv-T51I`: A cartoon explaining how an undersea earthquake starts a tsunami, and why the wave slows down and grows tall near the shore. It matches the Tray Test. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here. Preview it first: it shows the damage tsunamis do, which may upset a young child.
 - **Waves** (Bozeman Science, 8 min) id `JppViHtLNlc`: For the parent: a teacher explains waves, wavelength, crests and troughs, and the difference between push waves and shake waves, to help you answer your child's questions. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: preview it, and note that it goes further than this unit.
 
 ## Quiz
-1. (mcq) Divya, a girl in Class 3, floats a leaf in the middle of a bucket and taps the water at one side. What does the leaf do?  
+1. (mcq) You float a leaf in the middle of a bucket and tap the water at one side. What does the leaf do?  
    Options: It sails to the far side / It bobs up and down and stays near the middle / It sinks to the bottom  
    **Answer:** It bobs up and down and stays near the middle. *Why:* The ripples pass under the leaf, so the leaf bobs up and down. The ripples carry energy, not water, so the leaf stays near the middle. 'Sails to the far side' is what happens when you blow on the water, which pushes the water itself.
 2. (mcq) What is a wave?  
    Options: Water moving from one place to another / Energy travelling through a material while the material stays in place / Anything that goes up and down  
    **Answer:** Energy travelling through a material while the material stays in place. *Why:* A wave is travelling energy. The material, such as water or a rope, moves a little and stays where it is. A swing goes up and down too, but nothing travels from it, so going up and down is not enough to make a wave.
-3. (mcq) Kavya, a girl in Class 3, sends the same wave across a tray. First the water is 1 cm deep, then 4 cm deep. When is the wave faster?  
+3. (mcq) You send the same wave across a tray. First the water is 1 cm deep, then 4 cm deep. When is the wave faster?  
    Options: At 1 cm / At 4 cm / The same at both depths  
    **Answer:** At 4 cm. *Why:* Deeper water carries this kind of wave faster. In 4 cm of water it goes about twice as fast as in 1 cm. If you picked 'the same', you may be thinking the push sets the speed. The push was the same both times, but the water was not.
-4. (mcq) In the Tray Test, why must you push the water the same way every time?  
+4. (mcq) You time a wave in a tray at different water depths. Why must you push the water the same way every time?  
    Options: So that only the depth changes, and we know the depth made the difference / So the water does not spill / So the stopwatch works  
    **Answer:** So that only the depth changes, and we know the depth made the difference. *Why:* In a fair test only one thing changes. If the push changed too, we could not tell whether the depth or the push made the wave faster.
 5. (mcq) Which of these is NOT a wave?  
@@ -654,12 +656,12 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 10. (mcq) Fishermen far out at sea, in deep water, sometimes did not notice the 2004 tsunami passing under their boats. Why?  
    Options: In deep water the tsunami was low and very long / The tsunami was asleep / Boats cannot float on a tsunami  
    **Answer:** In deep water the tsunami was low and very long. *Why:* In deep water a tsunami is less than a metre high and more than 100 kilometres long, so a boat only rises and falls very gently. It grows tall only near the shore.
-11. (mcq) Inge Lehmann found a solid ball at the centre of the Earth. How?  
-   Options: She dug a deep hole / She studied the times when earthquake waves arrived at machines around the world / She looked through a telescope  
-   **Answer:** She studied the times when earthquake waves arrived at machines around the world. *Why:* Nobody can dig that deep. Lehmann studied when earthquake waves arrived at seismographs far away. Faint waves arrived where a fully liquid core would leave none, so she worked out that the core has a solid ball inside.
-12. (mcq) Before 1936, what did many scientists think about the Earth's core?  
-   Options: It was hollow / It was liquid all the way through / It was made of ice  
-   **Answer:** It was liquid all the way through. *Why:* Many scientists thought the whole core was liquid metal. Inge Lehmann showed that a solid inner core explained the faint waves better. Later measurements in 1970 confirmed it.
+11. (mcq) Nobody can dig to the centre of the Earth. How can scientists find out what is inside?  
+   Options: Dig a very deep hole / Time when earthquake waves arrive at machines around the world / Look through a telescope  
+   **Answer:** Time when earthquake waves arrive at machines around the world. *Why:* Earthquake waves travel through the Earth and change as they pass through different layers. By timing when they arrive at machines far away, scientists can work out what the waves passed through.
+12. (mcq) Some earthquake waves cannot pass through liquid. Yet faint waves still arrive on the far side of the Earth, after passing near its centre. What does this suggest?  
+   Options: The core is hollow / There is something solid in the middle / The core is made of ice  
+   **Answer:** There is something solid in the middle. *Why:* If the whole core were liquid, no waves would arrive on the far side of the Earth. A solid ball in the middle speeds up and bends some waves, so a few of them reach the far side.
 
 ## Applications
 - Tsunami warning centres, like the one in Hyderabad, use the depth of the sea to work out when a wave will reach each part of the coast.
@@ -707,11 +709,11 @@ Meenakshi grinned. "And the deep water is a quick crowd."
 - What did the bucket say to the pencil? *Stop tapping me, you're making waves.*
 
 ## Connected maths
-- In the Tray Test, Meenakshi, a girl of 8, timed the wave at 1 cm three times: 5.4 seconds, 5.1 seconds and 5.6 seconds. What is the middle time? **5.4 seconds.**. Put the times in order: 5.1, 5.4, 5.6. The one in the middle is 5.4 seconds. The middle time stops one late press of the stopwatch from changing the answer too much. (queues `math.time.duration.L3`)
-- A Mexican wave travels about 20 seats each second. One stand has 100 seats in a row. About how long does the wave take to cross the stand? **About 5 seconds.**. 20 seats in 1 second. 40 seats in 2 seconds. 60 in 3, 80 in 4, 100 in 5. So 20 times 5 is 100, and the wave takes about 5 seconds. (queues `math.multiplication.multiplication-facts.L3`)
-- Water 4 times as deep carries a long wave about 2 times as fast. Lakshmi, a girl in Class 3, timed her wave in the Tray Test. It took 6 seconds there and back in 1 cm of water. About how long should it take in 4 cm of water? **About 3 seconds.**. Twice as fast means it takes half the time. Half of 6 seconds is 3 seconds. This is a prediction, so check it in your own tray. (queues `math.multiplication.multiplication-facts.L3`)
-- A tsunami can travel about 800 kilometres in an hour over the deep ocean. Near the shore it slows to about 40 kilometres in an hour. How many times faster is it in the deep ocean? **About 20 times faster.**. 40 times 2 is 80. 40 times 20 is 800. So 800 is 20 lots of 40, and the deep-ocean wave is about 20 times faster. (queues `math.multiplication.multiplication-facts.L3`)
-- Your straw wave machine has a straw every 3 cm. There are 50 straws. About how long is the machine? **About 150 cm, or 1.5 metres.**. Each straw takes 3 cm. 50 straws take 50 times 3 cm. 5 times 3 is 15, so 50 times 3 is 150 cm. (queues `math.multiplication.multiplication-facts.L3`)
+- In the Tray Test, the wave in 1 cm of water was timed three times: 5.4 seconds, 5.1 seconds and 5.6 seconds. What is the middle time? **5.4 seconds.**. Put the times in order: 5.1, 5.4, 5.6. The one in the middle is 5.4 seconds. The middle time stops one late press of the stopwatch from changing the answer too much. (queues `math.time.duration.L3`)
+- A Mexican wave travels about 20 seats each second. One stand has 100 seats in a row. About how long does the wave take to cross the stand? **About 5 seconds.**. The wave covers 20 seats in 1 second, and 40 seats in 2 seconds. In 3 seconds it covers 60 seats, in 4 seconds 80 seats, and in 5 seconds 100 seats. So 20 times 5 is 100, and the wave takes about 5 seconds. (queues `math.multiplication.multiplication-facts.L3`)
+- If water is 4 times as deep, a long wave goes about 2 times as fast. In a tray, a wave took 6 seconds to go there and back in 1 cm of water. About how long should it take in 4 cm of water? **About 3 seconds.**. Twice as fast means it takes half the time. Half of 6 seconds is 3 seconds. This is a prediction, so check it in your own tray. (queues `math.multiplication.multiplication-facts.L3`)
+- A tsunami can travel about 800 kilometres in an hour over the deep ocean. Near the shore it slows to about 40 kilometres in an hour. How many times faster is it in the deep ocean? **About 20 times faster.**. 40 times 2 is 80, and 40 times 20 is 800. So 800 is 20 lots of 40, and the deep-ocean wave is about 20 times faster. (queues `math.multiplication.multiplication-facts.L3`)
+- Your straw wave machine has a straw every 3 cm. There are 50 straws. About how long is the machine? **About 150 cm, or 1.5 metres.**. Each straw takes up 3 cm. So 50 straws take 50 times 3 cm. 5 times 3 is 15, so 50 times 3 is 150 cm. (queues `math.multiplication.multiplication-facts.L3`)
 
 ## Song
 Everything Hums (sci.sound.L3): Topic-level song for Sound L3

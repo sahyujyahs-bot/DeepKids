@@ -231,7 +231,7 @@
    "hint": "Think of a coral reef, an anthill, a language, or your own body."
   },
   {
-   "q": "Your teeth and the tiny crystals in your ears were grown by your own body. Is a crystal inside you part of you?",
+   "q": "The enamel on your teeth is made of crystals that your own body grew. Is a crystal inside you part of you?",
    "kind": "big",
    "hint": "Your body takes calcium from food and builds it into crystals in the right places."
   }
@@ -299,7 +299,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "16 solid cards to cut out (the answer is on the back of each card)",
+     "title": "16 solid cards to cut out. The answer is on the back of each card.",
      "items": [
       {
        "f": "A grain of salt",
@@ -434,15 +434,15 @@
      "mins": 2,
      "context": "This is the start of Crystal or Not?, a card game about which solids are crystals.",
      "do": "1. Cut out the cards. 2. Lay out the two sorting cards. 3. Shuffle the 16 solid cards, names facing up.",
-     "say": "Every card is a solid. Is it a crystal, with its particles in a pattern, or not?",
+     "say": "Every card shows a solid. For each one, decide whether it is a crystal, with its particles in a repeating pattern, or not a crystal.",
      "kid": "Lay out the two big cards. Shuffle the rest. Is each solid a crystal or not?"
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Play the boiled sweet card together as a practice round, then shuffle it back into the pile.",
-     "say": "Practice card. A clear boiled sweet. It is made of sugar. Is it a crystal? Turn it over to check.",
-     "kid": "Practice card. A clear boiled sweet, made of sugar. Crystal or not? Turn it over to check."
+     "say": "Let us try one card together first. Here is a clear boiled sweet. It is made of sugar. Is it a crystal? Turn the card over to check.",
+     "kid": "Try one card first. Here is a clear boiled sweet, made of sugar. Is it a crystal or not? Turn the card over to check."
     },
     {
      "id": "s3",
@@ -456,9 +456,10 @@
      "id": "s4",
      "mins": 2,
      "do": "Count your cards and points. The most points wins.",
-     "say": "Which card surprised you most? Why?",
-     "kid": "Count your cards. Which one surprised you?",
-     "think": "Is there a solid in your home that you are not sure about? How could you find out?"
+     "say": "Which card did you sort wrongly, or nearly sort wrongly? What clue would have told you the right answer?",
+     "kid": "Count your cards. Which one nearly fooled you? What clue would have helped?",
+     "think": "Choose one solid in your home that you are not sure about. If you broke it, how would the broken edges tell you whether it is a crystal?",
+     "parent": "Good answers: the steel spoon or the sand, because they do not look like crystals but are made of crystals. Or the boiled sweet, because it is sugar like kalkandu but its particles are jumbled. The clue is always the same. A crystal has its particles in a repeating pattern, and a solid that was cooled very fast does not."
     }
    ]
   },
@@ -475,7 +476,7 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A grid of 6 by 6 squares for each round and each player (36 squares; or draw 6 by 6 squares on squared paper)",
+     "title": "A grid of 6 by 6 squares for each round and each player, which is 36 squares. You can also draw the grid on squared paper.",
      "items": [
       "A1",
       "B1",
@@ -519,8 +520,8 @@
      "kind": "cards",
      "title": "Rule card",
      "items": [
-      "Fast round: roll 1 to 4 = start a NEW crystal (colour one square that does not touch another crystal). Roll 5 or 6 = add one square to a crystal you have.",
-      "Slow round: roll 1 = start a NEW crystal. Roll 2 to 6 = add one square to a crystal you have.",
+      "Fast round: roll a 1, 2, 3 or 4 to start a new crystal. Colour one square that does not touch another crystal. Roll a 5 or 6 to add one square to a crystal you already have.",
+      "Slow round: roll a 1 to start a new crystal. Roll a 2, 3, 4, 5 or 6 to add one square to a crystal you already have.",
       "If you have no crystal yet, any roll starts a new one.",
       "A square you add must share a whole side with the crystal it joins, and must not touch a different crystal.",
       "If you cannot make the move, miss that turn."
@@ -562,7 +563,7 @@
      "context": "This is the start of Fast or Slow?, a dice game about how crystals start and grow.",
      "do": "Give each player two grids and a pencil, and read the rule card aloud.",
      "say": "Each coloured square is a bit of salt joining a crystal. In the fast round, new crystals start often. In the slow round, they rarely start.",
-     "kid": "Each square is salt joining a crystal. Fast round: new crystals start often. Slow round: rarely."
+     "kid": "Each square is salt joining a crystal. In the fast round, new crystals start often. In the slow round, they start rarely."
     },
     {
      "id": "s2",
@@ -700,7 +701,7 @@
      "mins": 3,
      "context": "This is the start of the Fast Plate or Slow Glass experiment. You will dry salt water in two ways and compare the crystals.",
      "do": "Put a pinch of salt on a dark plate. Look at it with the phone camera zoomed in.",
-     "say": "These are salt crystals. Look at their sides. Are they round, or flat? We are going to grow new ones from salt water.",
+     "say": "These are salt crystals. Look at their sides. Are they round or flat? We are going to grow new crystals from salt water.",
      "kid": "Look at salt with the phone zoomed in. Are the sides round or flat? Now we will grow new crystals."
     },
     {
@@ -1038,11 +1039,11 @@
      "mins": 3,
      "context": "This is the start of Crack a Crystal. You look closely at a big salt crystal before you crack it.",
      "do": "Put one big grain of kal uppu on the plate. Turn it in the light from a window.",
-     "say": "What do you notice about this salt? What do you wonder about it?",
-     "kid": "Turn the salt crystal in the light. What do you notice? What do you wonder?",
+     "say": "Turn this salt crystal in the light. What do you notice about its sides and corners?",
+     "kid": "Turn the salt crystal in the light. What do you notice about its sides and corners?",
      "ask": [
       {
-       "q": "What do you notice?",
+       "q": "What do you notice about its sides and corners?",
        "good": [
         "It has flat sides.",
         "It shines when I turn it.",
@@ -1179,7 +1180,8 @@
       "why": "In a crystal, the particles sit in a pattern that repeats, like your packed coins, and this makes straight edges. In glass or a boiled sweet, the particles are jumbled, like the heap. Picking 'both are the same' misses that only the pattern gives straight edges."
      }
     }
-   ]
+   ],
+   "problem": "A crystal has straight edges because its particles sit in a neat pattern. Particles are too small to see, so in this activity each coin stands for one particle. You will pack the coins in a pattern, then jumble them, and see which one gives a straight edge."
   },
   {
    "id": "a3",
@@ -1394,7 +1396,7 @@
      "mins": 5,
      "context": "This is the start of Grow Your Own Kalkandu. You prepare a thread for sugar crystals to grow on.",
      "do": "1. Tie the thread to the middle of the pencil. 2. Tie the button to the other end. 3. Wet the thread with a little water. 4. Roll it in dry sugar and let it dry for an hour.",
-     "say": "The tiny sugar grains stuck on the thread are seed crystals. New sugar can join them more easily than start from nothing.",
+     "say": "The tiny sugar grains stuck on the thread are seed crystals. When more sugar comes out of the syrup, it joins these grains more easily than it starts a new crystal from nothing.",
      "kid": "Tie the thread to the pencil. Wet it, then roll it in sugar. Let it dry.",
      "parent": "Hang the thread across the jar first to check the length. The button should hang about 2 centimetres above the bottom, so crystals on the bottom do not trap it."
     },
@@ -1798,7 +1800,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These four words come up all through the unit."
+     "why": "Each of these four words is explained on a card in this unit. Using them makes it easier to talk about crystals."
     },
     {
      "t": "sort",
@@ -2331,11 +2333,11 @@
  ],
  "ask_kids": [
   "Put a pinch of salt on a dark plate and zoom in with the phone camera. Is every grain a cube?",
-  "Why do you think kalkandu is clear, but table salt looks white?",
+  "Kalkandu and the sugar in the dabba are both sugar crystals. What is different about them, and why?",
   "If you wanted bigger salt crystals, would you put the glass in the sun or on a shelf? Why?",
   "Is ice a crystal? How could you check?",
   "Which do you think is a crystal: the steel tumbler or the glass tumbler?",
-  "Where do you think the salt in the sea came from?",
+  "Sea water tastes salty. If you let a plate of sea water dry in the sun, what would be left, and why?",
   "Your teeth are made of crystals your body grew. What do you think your body used to build them?",
   "What else grows big by adding a little at a time?"
  ],
@@ -2647,17 +2649,17 @@
   ],
   "other_view": {
    "who": "Many chemists",
-   "view": "Saying the salt 'sets its own shape' is just a way of describing the forces between its particles. The forces are what we measure. The cube follows from them, and nothing more is needed to explain it."
+   "view": "Salt does not set its own shape. The forces between its particles pull them into a square pattern, and the cube follows from those forces. Nothing more is needed to explain it. Saying that salt sets its own shape is only a short way of describing this."
   },
   "practice": {
    "title": "Watch a crystal face",
    "mins": 3,
-   "say": "Hold one big salt crystal or a piece of kalkandu near the window. Turn it slowly until one face catches the light and shines. Keep it still there. Breathe in and out slowly five times. With each breath, picture one more row of particles joining that face. Now put it down. Your crystal grew without hurrying. Open your hands.",
+   "say": "Hold one big salt crystal or a piece of kalkandu near the window. Turn it slowly until one face catches the light and shines. Keep it still there. Breathe in and out slowly five times. With each breath, picture one more row of particles joining that face. Now put it down. A crystal grows slowly, one row at a time, and it still ends up with smooth flat faces.",
    "kid": "Hold a crystal near the window. Turn it until one face shines. Keep it still. Breathe slowly five times. Picture one more row joining with each breath."
   },
   "ask": [
    "Nobody shaped your salt cubes. Where do you think their shape came from?",
-   "Is a crystal that grew for a week more special than one that grew in an hour? Why?",
+   "One salt crystal grew for a week and another grew for an hour. Which one is bigger, and what does that tell you about growing slowly?",
    "Your body grows crystals in your teeth and ears. Did you make them, or did they make themselves?"
   ],
   "art": "A child at a window holding a single clear salt cube up to the light, with a faint picture inside it of rows of tiny particles, and a plate and a glass of salt crystals on the sill."

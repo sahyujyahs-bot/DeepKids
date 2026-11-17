@@ -41,7 +41,7 @@ Stir atta into water and the water turns white and cloudy. Wait half an hour, an
 - e.g. Coconut oil floats on water. You can see it as a shiny layer on top.
 - e.g. Chalk dust in water makes it white, and a layer of chalk settles on the bottom.
 ### Water has a limit for each thing · *defined*
-**Definition:** There is a most that a certain amount of water can dissolve of each substance. When it has dissolved that much, the solution is saturated, and any more stays as grains.
+**Definition:** A certain amount of water can dissolve only so much of each substance. When it has dissolved that much, the solution is saturated, and any more stays as grains.
 
 A little water cannot dissolve a whole packet of salt. In 100 millilitres of water, about half a small tumbler, you can dissolve about 36 grams of salt. That is about six level teaspoons. After that, extra salt stays on the bottom, however long you stir. Sugar is different. The same water can dissolve about 200 grams of sugar, around five times as much by weight. So the limit depends on what you are dissolving. Stirring does not change the limit. It only helps the water reach it faster.
 - e.g. Three tablespoons of water took two or three teaspoons of salt in the Full Glass Test, but more than ten teaspoons of sugar.
@@ -50,17 +50,17 @@ A little water cannot dissolve a whole packet of salt. In 100 millilitres of wat
 ### Full of salt, but not full of sugar · *defined*
 **Definition:** A solution that is saturated with one substance can still dissolve a different substance.
 
-When the salt water was full, it would not take one more grain of salt. But it still dissolved a spoon of sugar. This shows that water is not like a box with a fixed amount of empty space. Dissolving is water particles holding on to another substance's particles. Water's limit for salt depends on how water and salt hold each other. Its limit for sugar depends on how water and sugar hold each other. Filling up one limit does not use up the other.
+In the Full Glass Test, the water that was full of salt would not take one more grain of salt. But it still dissolved a spoon of sugar. This shows that water is not like a box with a fixed amount of empty space. Dissolving is water particles holding on to another substance's particles. Water's limit for salt depends on how water and salt hold each other. Its limit for sugar depends on how water and sugar hold each other. Filling up one limit does not use up the other.
 - e.g. Sea water is salty, but it can still dissolve sugar.
 - e.g. Oral rehydration solution, ORS, has both salt and sugar dissolved in the same water.
 - e.g. Lemon juice has acid and sugar dissolved in it, and you can still dissolve salt in it for a salty lime soda.
 ### Warm water and dissolving · *defined*
 **Definition:** In warm water, particles move faster, so most solids dissolve faster. For many solids, warm water can also hold more.
 
-Water particles are always moving. In warm water they move faster and bump into a sugar grain more often and harder. So sugar dissolves much faster in warm water than in ice-cold water. Warm water can also hold much more sugar. At 100 degrees Celsius, boiling water can dissolve more than twice as much sugar as cold water can. Salt is a surprise. Warm water dissolves salt a little faster, but it can hold hardly any more salt than cold water. That is why the warm salt water test gives almost the same count of spoons.
+Water particles are always moving. In warm water they move faster and bump into a sugar grain more often and harder. So sugar dissolves much faster in warm water than in ice-cold water. Warm water can also hold much more sugar. At 100 degrees Celsius, boiling water can dissolve more than twice as much sugar as cold water can. Salt is a surprise. Warm water dissolves salt a little faster, but it can hold hardly any more salt than cold water. That is why, in the Does Warm Water Take More Salt? test, warm water and cool water take almost the same number of spoons.
 - e.g. Sugar dissolves quickly in hot tea but sits at the bottom of a glass of iced water.
 - e.g. To make sugar syrup, cooks heat sugar and water together, because hot water dissolves much more sugar.
-- e.g. A spoon of salt takes about the same number of spoons to fill warm water as cool water.
+- e.g. Warm water and cool water take about the same number of spoons of salt before they are full.
 ### A filter catches only what has not dissolved · *defined*
 **Definition:** A filter has holes smaller than the bits in a cloudy mixture, so it catches them. Dissolved particles are far smaller than the holes, so they go through.
 
@@ -71,7 +71,7 @@ Pour cloudy atta water through a folded cotton cloth, and the atta stays on the 
 ### Salt and sugar dissolve in different ways · *defined*
 **Definition:** Salt is made of two kinds of particles, sodium and chloride. In water they come apart into ions, particles with a tiny electric charge. Sugar particles stay whole when they dissolve.
 
-A salt crystal is built from two kinds of particles, sodium and chloride, holding on to each other in a neat pattern. When salt dissolves, the two kinds come apart and float off separately. Each one carries a tiny electric charge, so they are called ions. Sugar is made of bigger particles, each one a single sugar molecule. When sugar dissolves, each molecule floats off whole. Because of its ions, salt water lets electricity through. Sugar water hardly lets it through at all. Never test this with a wall socket. Scientists test it with special meters and small cells.
+A salt crystal is built from two kinds of particles, sodium and chloride, holding on to each other in a neat pattern. When salt dissolves, the two kinds come apart and float off separately. Each one carries a tiny electric charge, so they are called ions. Sugar is made of bigger particles, each one a single sugar molecule. When sugar dissolves, each molecule floats off whole. Because of its ions, salt water lets electricity through. Sugar water hardly lets it through at all. Never test this with a wall socket. Scientists test it with special meters and small batteries.
 - e.g. Sweat and tears carry ions, which is why wet skin lets electricity through more easily than dry skin.
 - e.g. Sea water carries electricity because it is full of dissolved salt ions.
 - e.g. ORS has both kinds: salt that splits into ions, and sugar that stays whole.
@@ -93,10 +93,10 @@ Lemon juice, vinegar and rose water mix into water completely. You cannot see wh
 - A certain amount of water can dissolve only a certain amount of each substance, and the limit is different for different substances. *How we know:* Chemists have measured these limits for thousands of substances. Anyone can count spoons of salt and sugar at home and see the difference.
 - Most solids dissolve faster in warm water, and stirring makes them dissolve faster too. *How we know:* Timing a spoon of sugar in cold and warm water, stirred and not stirred, shows it every time.
 - A filter catches undissolved bits but not dissolved substances. *How we know:* Salt water strained through cloth or even fine filter paper still tastes salty.
-- Salt comes apart into charged particles called ions when it dissolves, but sugar does not. *How we know:* Salt water carries electricity and sugar water hardly does, and salt lowers the freezing point of water about twice as much as the same number of sugar particles.
+- Salt comes apart into charged particles called ions when it dissolves, but sugar does not. *How we know:* Salt water carries electricity and sugar water hardly does. Salt also lowers the freezing point of water, which is the temperature at which water turns to ice. It lowers it about twice as much as the same number of sugar particles.
 
 ## How we found out
-**Svante Arrhenius, a Swedish chemist, helped by Wilhelm Ostwald and Jacobus van 't Hoff, 1884 (his thesis) to 1887 (his full idea), and the Nobel Prize in 1903.** In the 1800s, chemists knew that salt water carries electricity, but sugar water hardly does. Most of them thought that dissolved salt stayed whole, as tiny salt particles. They thought an electric current was what split those particles apart. In 1884, Svante Arrhenius, a young Swedish student, measured how well many solutions carried electricity. He found that the more water there was for each bit of salt, the better each bit of salt carried electricity. He suggested that some of the salt was already in a different, split form in the water. His examiners were not impressed and gave his thesis a low pass. But Wilhelm Ostwald, a chemist in Riga, took the idea seriously. Soon after, Jacobus van 't Hoff, a Dutch chemist, noticed that salt lowers the freezing point of water about twice as much as the same number of sugar particles. In 1887 Arrhenius explained both results. As salt dissolves, it splits by itself into two kinds of charged particles, with no current needed. Each bit of salt makes two particles, so it acts twice. In 1903 he won the Nobel Prize in Chemistry. We now call these charged particles ions.  
+**Svante Arrhenius, a Swedish chemist, helped by Wilhelm Ostwald and Jacobus van 't Hoff, 1884 (his thesis) to 1887 (his full idea), and the Nobel Prize in 1903.** In the 1800s, chemists knew that salt water carries electricity, but sugar water hardly does. Most of them thought that dissolved salt stayed whole, as tiny salt particles. They thought an electric current was what split those particles apart. In 1884, Svante Arrhenius, a young Swedish student, measured how well many solutions carried electricity. He found that the more water there was for each bit of salt, the better each bit of salt carried electricity. He suggested that some of the salt was already in a different, split form in the water. His examiners were not impressed and gave his thesis a low pass. But Wilhelm Ostwald, a chemist in Riga, took the idea seriously. Soon after, Jacobus van 't Hoff, a Dutch chemist, noticed that salt lowers the freezing point of water about twice as much as the same number of sugar particles. In 1887 Arrhenius explained both results. As salt dissolves, it splits by itself into two kinds of charged particles, with no current needed. Each bit of salt makes two particles, so it lowers the freezing point twice as much. In 1903 he won the Nobel Prize in Chemistry. We now call these charged particles ions.  
 *What people believed before:* Most chemists thought dissolved salt stayed as whole salt particles, which an electric current split apart. Arrhenius showed that salt splits into charged ions on its own as it dissolves.
 
 ## Challenging perspectives
@@ -116,35 +116,35 @@ Lemon juice, vinegar and rose water mix into water completely. You cannot see wh
 ## Roots
 We have found what dissolves in water, and how much of each thing water can take. Now we ask what that tells us about water, about ourselves and about the world.
 
-**Deep truth.** Your water stopped taking salt after two or three spoons. The extra salt lay on the bottom. Yet that same salty water still dissolved a spoon of sugar. So water has a separate limit for each thing that dissolves in it.  
+**Deep truth.** In the Full Glass Test, the water stopped taking salt after two or three spoons. The extra salt lay on the bottom. Yet that same salty water still dissolved a spoon of sugar. So water has a separate limit for each thing that dissolves in it.  
 *Habit it breaks:* We picture a glass of water like a box with a fixed amount of empty room, so 'full' would mean full of everything. But dissolving is water holding on to another thing's particles, and how much it can hold depends on what that thing is.  
 *Evidence:* In the Full Glass Test, three tablespoons of water dissolved only two or three teaspoons of salt, but more than ten of sugar. Then the clear, full salt water dissolved a whole teaspoon of sugar too.
 
 - *who am i:* Your tears, sweat and blood all have salt dissolved in them. You carry a solution inside you all day.
-- *what is life:* A plant's roots take in water with minerals dissolved in it. They can take in only what has dissolved.
+- *what is life:* Plants take in water through their roots, and the water has minerals dissolved in it. They can take in only what has dissolved.
 - *what is this world:* The sea is salty because, for millions of years, rivers have carried tiny amounts of dissolved salt from rocks into it.
 
-A salt crystal is two kinds of particles, sodium and chloride, holding each other tight. Water particles hold on to them too. Where water's hold is stronger, the crystal comes apart into the water. Sugar meets water in its own way, with its own limit. So one plain glass of water meets each substance differently, and the same water can hold salt, sugar and lemon juice together.
+A salt crystal is two kinds of particles, sodium and chloride, holding each other tight. Water particles hold on to them too. Where water's hold is stronger, the crystal comes apart into the water. Water holds sugar in a different way, with a different limit. That is why the same glass of water can hold salt, sugar and lemon juice together.
 
-- **Tao Te Ching 78:** Nothing in the world is softer and weaker than water. Yet nothing is better at wearing away what is hard and strong. (A hard salt crystal falls apart in plain water within a minute, and no one has to crush it. Your test also showed that water's power has a limit. After two or three spoons, the salt stayed hard on the bottom.)
+- **Tao Te Ching 78:** Nothing in the world is softer and weaker than water. Yet nothing is better at wearing away what is hard and strong. (A hard salt crystal falls apart in plain water within a minute, and no one has to crush it. The Full Glass Test also showed that water's power has a limit. After two or three spoons, the salt stayed hard on the bottom.)
 - **The Gospel of Sri Ramakrishna, as recorded by Mahendranath Gupta:** Sri Ramakrishna told of a doll made of salt that went to measure how deep the ocean was. As soon as she stepped in, she melted into the water. Then who was left to tell how deep it was? He used the story to say that a person who truly knows the One becomes one with it. (In science we would say the doll dissolved, not melted. She could vanish completely because the ocean holds so much water. A whole salt doll dropped in a bucket would leave most of her salt on the bottom.)
 - Science (settled): Every substance has its own limit for how much dissolves in a certain amount of water, and the limit changes with temperature.
 - Science (settled): Salt comes apart into charged ions when it dissolves, while sugar molecules stay whole.
 - Science (open): Working out the limit for a new substance from what its particles are like, without testing it, is still hard even with computers.
-- Other view, Many chemists: Dissolving is particles attracting each other, and a limit is a number you measure and write in a table. Comparing it with an ocean and a salt doll is a pleasant picture. It does not add anything to the chemistry.
-- Practice, A pinch on the tongue (3 min): Sit still and close your eyes. I will put three grains of salt on the tip of your tongue. Keep your tongue still. Feel the grains. Now notice them getting smaller. Notice the salty taste spreading. Where did the grains go? Now breathe in slowly and out slowly, three times. Open your eyes.
-- Ask: You could not see the salt, but you could taste it. What else might be in the glass that you cannot see?
-- Ask: The sugar you dissolved is still in the glass. What else might be in the water you drink, and how could you find out?
-- Ask: The salt in your tears and the salt in the sea dissolved in water. Where do you think the salt in you came from?
+- Other view, Many chemists: Dissolving is only particles attracting each other, and a limit is only a number that you measure and write in a table. A story such as the salt doll in the ocean is a pleasant picture, but it adds nothing to the chemistry.
+- Practice, A pinch on the tongue (3 min): Sit still and close your eyes. I will put three grains of salt on the tip of your tongue. Keep your tongue still. Feel the grains getting smaller. Notice the salty taste spreading. The grains have not gone. They have dissolved in the water in your mouth, and that is why you can still taste them. Now breathe in slowly and out slowly, three times. Open your eyes.
+- Ask: You could not see the salt, but you could taste it. How could you show that sugar is still in a glass of sweet water, even though you cannot see it?
+- Ask: Sea water looks like plain water. How could you get the salt back out of it?
+- Ask: A river tastes fresh, but the sea tastes salty. Why? Think about where the water goes and what stays behind.
 
 ## Deep and big questions
-- *deep:* The full salt water still dissolved sugar. So what does 'full' really mean for water? (hint: Think about whether water has empty room inside it, or whether it holds on to each thing in its own way.)
+- *deep:* In the Full Glass Test, water that was full of salt still dissolved sugar. So what does 'full' really mean for water? (hint: Think about whether water has empty room inside it, or whether it holds on to each thing in its own way.)
 - *deep:* When salt dissolves, it comes apart into sodium and chloride. Is the water still holding salt, or something else? (hint: Think about what happens when the water dries up. What comes back?)
 - *deep:* Why does warm water dissolve sugar so much faster than cold water? (hint: Think about how fast the water particles are moving and how often they bump into the grain.)
 - *big:* The sea is salty but rivers taste fresh. Where does the salt in the sea come from? (hint: Rivers carry a tiny amount of dissolved salt from rocks. Think about what happens when sea water evaporates and the salt stays.)
 
 ## Story: Farhan's Sea in a Tumbler
-*The story is made up. The science is true: three tablespoons of water dissolve only two or three teaspoons of salt, water full of salt is many times saltier than the sea, and it can still dissolve sugar.*
+*The story is made up. The science is true: a small tumbler of water dissolves about ten spoons of salt, water full of salt is many times saltier than the sea, and it can still dissolve sugar.*
 
 It was a hot Saturday in Chennai, and the fan was spinning as fast as it could. Farhan was seven. He was sitting on the floor of the flat with a steel tumbler of water, a packet of salt and a spoon.
 
@@ -228,9 +228,10 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   *Child mode:* Play your turns. Surprised by a card? Test it in water.
   - Note: Honey and tamarind start arguments, which is good. Honey sinks at first but dissolves with stirring.
 - **s3 (2 min)**  
-  *Parent does:* Count the points. Ask which card was the biggest surprise.  
-  *Parent says:* Which card surprised you most? Why did you think it would do something else?  
-  *Child mode:* Count your points. Which card surprised you most? Why?
+  *Parent does:* Count the points. Ask your child to pick one card they guessed wrongly, or one that was tricky.  
+  *Parent says:* Pick one card you guessed wrongly, or one that was tricky. What would you see in water that shows the right answer?  
+  *Child mode:* Count your points. Pick a card you got wrong or found tricky. What would you see in water that shows the answer?
+  - Note: Good answers use what is seen in water. Turmeric turns the water yellow, but then it settles, so it has not dissolved. Honey sinks at first, but it mixes in when stirred, so it has dissolved. Salt vanishes and the water stays clear, so it has dissolved.
   - Check: Turmeric makes water yellow. Then a yellow layer settles on the bottom. Did it dissolve? → **Mostly not, because most of it settled**
 ### g2 · The Full Glass: a dice race (15 min)
 - **rules:** Each player has a salt glass board, a sugar glass board and 20 spoon tokens.; On your turn, roll a die. Odd number: add 1 spoon to your salt glass. Even number: add 2 spoons to your sugar glass.; A spoon goes in a space only if there is an empty space. If the salt glass is full, the spoon goes in the 'bottom of the glass' square. It did not dissolve.; Each spoon in a space scores 1 point. Each spoon on the bottom loses 1 point.; Once your salt glass is full, you may choose, on an odd roll, to put the spoon in your sugar glass instead. Say why first: 'Full salt water can still dissolve sugar.'; Play 10 turns each. With four players, play 6 turns each.; The player with the most points wins. If points are equal, the players share the win.
@@ -244,9 +245,9 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   *Child mode:* Look at the two glasses. Salt has 3 spaces. Sugar has 20. Why?
 - **s2 (10 min)**  
   *Parent does:* Play 10 turns each, or 6 turns each with four players.  
-  *Parent says:* Your salt glass is full. Where does this spoon go? Can you use the sugar rule?  
-  *Child mode:* Roll and add spoons. Full glass? The spoon goes on the bottom.
-  - Note: The salt glass's 3 spaces match about three tablespoons of water. Children often put a spoon on the bottom the first time the salt glass is full and lose a point. Then they find the sugar rule, which is the point of the game: a full salt glass still has room for sugar.
+  *Parent says:* Your salt glass is full. Where can this spoon go? Is there another glass that still has room?  
+  *Child mode:* Roll the die and add spoons. If your salt glass is full, a spoon goes on the bottom square. Or you can use your sugar glass.
+  - Note: The salt glass has 3 spaces because three tablespoons of water take about three spoons of salt. Children often put a spoon on the bottom the first time the salt glass is full and lose a point. Then they find the sugar rule, which is the point of the game: a full salt glass still has room for sugar.
 - **s3 (2 min)**  
   *Parent does:* Add up the points. Ask the question below.  
   *Parent says:* Why did spoons end up on the bottom of the salt glass and not the sugar glass?  
@@ -255,7 +256,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 
 ## Experiments
 ### e1 · The Full Glass Test: how much salt and sugar can water take? (35 min)
-- **question:** Three tablespoons of water: how many level teaspoons of salt will dissolve in it? And how many of sugar? Is it the same?
+- **question:** How many level teaspoons of salt will dissolve in three tablespoons of water? How many of sugar? Is it the same number?
 - **predict:** How many spoons of salt do you think the water will take before the salt stops dissolving? How many of sugar? Will they be the same? Why do you think so?
 - **fair test:** Use the same amount of water in both glasses, from the same tablespoon. Use the same teaspoon, filled level, for both salt and sugar. Stir each spoon the same way, for the same time. Only the thing you add changes.
 - **record:** Fill in the table, a row for each spoon. Draw the two glasses at the end. Then write what you think, what you saw, and why.
@@ -274,12 +275,12 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **s3 (11 min)**  
   *Parent does:* 1. Add one level teaspoon of salt. 2. Stir for one minute, counting to 60. 3. Look at the bottom. 4. If it is all gone, add the next spoon. 5. Stop when grains stay on the bottom after a minute.  
   *Parent says:* Stir for a whole minute. Now look at the bottom carefully. Has every grain gone? Then add the next spoon.  
-  *Child mode:* Add one spoon of salt. Stir and count to 60. Look at the bottom. All gone? Add another. Grains still there? Stop.
+  *Child mode:* Add one spoon of salt. Stir and count to 60. Look at the bottom. If all the salt has gone, add another spoon. If grains are still there, stop.
   - Note: Three tablespoons is about 45 millilitres. It dissolves about 16 grams of salt, so usually two spoons vanish and grains stay after the third or fourth. Near the limit, salt dissolves slowly. If a few grains remain, stir for one more minute to be sure. Table salt can make the water a little cloudy, because of what is added to stop it caking. Look for grains on the bottom, not cloudiness.
 - **s4 (12 min)**  
   *Parent does:* 1. Now do the same with sugar in the other glass. 2. Stir each spoon for one minute. 3. Keep going up to ten spoons, then stop.  
   *Parent says:* Now the sugar. Same water, same spoon, same stirring. Let's count together. Is it still dissolving?  
-  *Child mode:* Now add sugar the same way. One spoon. Stir and count to 60. Keep going. Stop at ten spoons.
+  *Child mode:* Now add sugar the same way. Add one spoon, then stir and count to 60. Keep going until you have added ten spoons. Then stop.
   - Note: The same water can dissolve about 90 grams of sugar, around twenty spoons. So sugar will still be dissolving at ten. The water gets thick, like syrup, and its level rises. Stopping at ten is enough to see the difference. Keep this syrup for the lemonade activity.
 - **s5 (3 min)**  
   *Parent does:* 1. Slowly pour the clear salt water off the top into the third glass, leaving the grains behind. 2. Ask for a guess. 3. Add one level teaspoon of sugar and stir for one minute.  
@@ -289,7 +290,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things. First, what you think. Second, what you saw. Third, why it happened.
   - Note: This is claim, evidence and reasoning. A strong answer: What I think: water can dissolve much more sugar than salt. What I saw: the salt stopped at the third spoon, but ten spoons of sugar dissolved. The full salt water still took sugar. Why: water has a different limit for each thing it dissolves.
   - Check: Water stopped dissolving salt, but then it dissolved sugar. What does that show? → **Water has a different limit for each thing**
 ### e2 · Cold, Room or Warm: which water dissolves sugar fastest? (25 min)
@@ -316,9 +317,9 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   *Child mode:* Do it all again. Are the numbers close to last time?
   - Note: The numbers will not match exactly, but the order should be the same: warm fastest, cold slowest.
 - **s4 (3 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning.  
+  *Parent does:* Ask your child to say three things: what they think, what they saw, and why they think it happened.  
   *Parent says:* What do you think now? What did you see? Why do you think warm water was faster?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things. First, what you think. Second, what you saw. Third, why it happened.
   - Note: A strong answer: warm water dissolves sugar fastest. It took about 20 stirs, and cold water took about 90. In warm water the water particles move faster and bump into the sugar grains harder and more often. This is why it helps to dissolve the sugar for cold lemonade in a little warm water first.
   - Check: In one test, ice-cold water took about 90 stirs, room water 45 and bath-warm water 20. What does this show? → **The warmer the water, the faster the sugar dissolved**
 ### e3 · Does Warm Water Take More Salt? (30 min)
@@ -339,9 +340,9 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   *Child mode:* Add salt a spoon at a time. Stir and count to 60. After two spoons, add half spoons. Stop when grains stay.
   - Note: The warm glass cools as you go, but it stays warmer than the cool glass for the test. Warm water dissolves the salt a little faster, but its limit is only a tiny bit higher. Expect the same count, or at most half a spoon more. A difference this small is hard to see with a kitchen spoon, so write down honestly what you saw.
 - **s3 (6 min)**  
-  *Parent does:* Compare the two counts. Then ask for claim, evidence and reasoning.  
+  *Parent does:* Compare the two counts. Then ask your child to say three things: what they think, what they saw, and why they think it happened.  
   *Parent says:* Warm water dissolved sugar much faster. But did it take more salt? What does that tell us about salt and sugar?  
-  *Child mode:* Compare the two glasses. Same? Different? What does that tell you?
+  *Child mode:* Compare the two glasses. Did the warm water take more salt, the same, or less? What does that tell you about salt?
   - Note: A strong answer: warm water took hardly any more salt. Both glasses stopped at about the same spoon. You may not see any difference at home, and that is the result. Chemists have measured that warm water holds much more sugar but almost the same salt. So each substance has its own limit, and heat changes the limits differently.
   - Check: What did warm water do to how much salt could dissolve? → **It changed it very little**
 
@@ -442,10 +443,10 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 
 ## Challenges
 ### c1 · Clean the Muddy Water (30 min)
-- **problem:** Divya, a girl in Class 3, has a glass of water with soil, rava and a spoon of salt mixed in. Your job is to make the water as clear as you can, using only things from home. Then say what is still in it.
+- **problem:** You have a glass of water with soil, rava and a spoon of salt mixed in. Make the water as clear as you can, using only things from home. Then say what is still in it.
 - **your turn:** Design your own way to clear the water. Draw it, test it, and compare it with one other way. Then say what the filter could not take out, and how you know.
 - **constraints:** Use only things from home.; No boiling and no chemicals.; You have 30 minutes.; Nobody drinks the water, however clear it looks.
-- **general:** Let it settle for 10 minutes while you build a filter, then pour the clear top water off carefully. Water left still in a pot lets the mud sink.; Strain it through a folded cloth in a tea strainer.; Make a bottle filter: cut a plastic bottle in half, turn the top upside down, and fill it with cotton wool, then clean sand, then small stones.
+- **general:** Let it settle for 10 minutes while you build a filter, then pour the clear top water off carefully. Mud sinks when water is left still.; Strain it through a folded cloth in a tea strainer.; Make a bottle filter: cut a plastic bottle in half, turn the top upside down, and fill it with cotton wool, then clean sand, then small stones.
 - **creative:** Let it settle first, then filter only the top water, so the filter does not clog.; Pour it through the same filter twice.; Hang a cloth with one end in the muddy glass and the other in an empty glass below. Water creeps along the cloth and drips out much clearer, but this takes hours.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at the muddy glass. Plan two ways to clear it.  
@@ -462,7 +463,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
   *Child mode:* Think about the Strain It test. Is the salt still in your clear water? Is clear water always safe? Look at the saucer tomorrow.
   - Note: The salt is still there, because it dissolved and goes through any filter. The saucer will show a thin white crust of salt once it dries. Germs can pass through these filters too, which is why drinking water is boiled or treated. Clear does not mean safe.
 ### c2 · The Fastest Sweet Drink (20 min)
-- **problem:** Anjali, a girl in Class 4, sells sweet lime juice at a school fair in Mysuru. People are waiting, and the sugar sits at the bottom of her cold drinks. Find the fastest way to get two spoons of sugar fully dissolved in a glass of cold drink.
+- **problem:** At a sweet lime juice stall at a school fair, people are waiting, and the sugar sits at the bottom of the cold drinks. Find the fastest way to get two spoons of sugar fully dissolved in a glass of cold drink.
 - **your turn:** Choose your best two ideas. Time each one with the same amount of sugar and cold water, and decide which is best for a busy stall.
 - **constraints:** The finished drink must be cold.; Use two level teaspoons of sugar for each glass.; Only a grown-up may use the kettle or stove.
 - **general:** Dissolve the sugar in two spoons of warm water first, then add cold water.; Make a bottle of sugar syrup the day before and keep it in the fridge.; Stir hard and fast.
@@ -495,8 +496,8 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 5. (write) You cannot see the salt in a glass of salt water. Write two ways to show that the salt is still there.  
    **Answer:** Taste a drop: it is salty. Leave the water in the sun until it dries: salt crystals are left behind.. *Why:* A strong answer gives two different tests and says what each one would show.
 6. (match) Match each word to what it means.  
-   **Answer:** Dissolve → mix into a liquid and disappear from sight; Solution → a liquid with something dissolved in it; Insoluble → does not dissolve; Saturated → cannot dissolve any more. *Why:* These four words come up all through the unit.
-7. (mcq) In the Full Glass Test, three tablespoons of water got two or three teaspoons of salt. Then grains stayed on the bottom. What does this show?  
+   **Answer:** Dissolve → mix into a liquid and disappear from sight; Solution → a liquid with something dissolved in it; Insoluble → does not dissolve; Saturated → cannot dissolve any more. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about dissolving.
+7. (mcq) In the Full Glass Test, three tablespoons of water took two or three teaspoons of salt. Then grains stayed on the bottom. What does this show?  
    Options: The salt was bad / The water could not dissolve any more salt / The spoon was too big  
    **Answer:** The water could not dissolve any more salt. *Why:* The water had reached its limit for salt. It was saturated. The salt was the same salt that had dissolved a minute before.
 8. (draw) Draw two glasses. In one, draw salt water. In the other, draw rava in water. Show what you would see.  
@@ -509,16 +510,16 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 11. (mcq) Which glass dissolves a spoon of sugar fastest?  
    Options: Ice-cold water / Room-temperature water / Bath-warm water  
    **Answer:** Bath-warm water. *Why:* In warm water the water particles move faster. They knock sugar particles off the grains faster.
-12. (write) Arjun, a boy in Class 2, says, 'The tea strainer caught the tea leaves, so it caught the tea too.' What would you tell him?  
+12. (write) Someone says, 'The tea strainer caught the tea leaves, so it caught the tea too.' What would you tell them?  
    **Answer:** The strainer caught only the leaves. The brown colour and the taste of tea dissolved into the water, so they went through the strainer into the cup.. *Why:* A strong answer says which part dissolved and which part did not, and that a strainer can catch only what has not dissolved.
 13. (truefalse) Lemon juice mixes into water completely.  
    **Answer:** True. *Why:* True. Lemon juice is mostly water with acid and sugars dissolved in it, so it mixes in completely.
 14. (label) Label this drawing of a glass after the atta test: cloudy water, settled atta, clear water at the top.  
    **Answer:** Clear water at the top, cloudy water in the middle, a white layer of settled atta on the bottom.. *Why:* When atta settles, the water clears from the top down, and the atta collects at the bottom.
-15. (perspective) Kavya, a girl of nine, and her cousin Rohan, who is seven, are making lemonade for guests. They disagree about the sugar.  
-   **Answer:** A strong answer picks one and uses evidence. For example: Kavya's way, because warm water dissolved sugar in far fewer stirs than cold water in your test. Then it gives the other side fairly: Rohan's way does work if you stir long enough, and it is simpler.. *Why:* Both ways can work. One is faster, and the other is simpler. A good answer weighs both.
+15. (perspective) The first person and the second person are making lemonade for guests. They disagree about the sugar.  
+   **Answer:** A strong answer picks one and uses evidence. For example: The first person's way, because in the Cold, Room or Warm test, warm water dissolved sugar in far fewer stirs than cold water. Then it gives the other side fairly: The second person's way does work if you stir long enough, and it is simpler.. *Why:* Both ways can work. One is faster, and the other is simpler. A good answer weighs both.
 ### Limits and Filters (stretch) (stretch, 15 questions)
-1. (write) The full salt water still dissolved a spoon of sugar. Explain why, in your own words.  
+1. (write) In the Full Glass Test, the water that was full of salt still dissolved a spoon of sugar. Explain why, in your own words.  
    **Answer:** Water has a separate limit for each thing. Being full of salt does not use up its limit for sugar.. *Why:* A strong answer says the limits are separate, not that the water has empty room left.
 2. (mcq) Two glasses are left still for a day. One has mud in water. One has salt dissolved in water. What do you find?  
    Options: The mud has settled but the salt water looks the same / Both have a layer on the bottom / The salt has settled but the mud water looks the same  
@@ -527,9 +528,9 @@ Every morning that week, Farhan checked. The water went down and down. After abo
    **Answer:** ['Put the same water in two glasses', 'Guess how many spoons each glass will take', 'Add salt a spoon at a time and stir', 'Pour off the clear salt water and add sugar']. *Why:* A fair test starts with the same water, then a guess, then the test, then the extra test with sugar.
 4. (truefalse) Warm water can dissolve much more salt than cold water.  
    **Answer:** False. *Why:* False. Warm water dissolves salt a little faster, but it holds only a little more. Sugar is the one that warm water holds much more of.
-5. (write) Divya, a girl in Class 3, strained muddy salty water through a cloth. It came out clear. She says it is now just water. Is she right? Explain.  
+5. (write) Muddy, salty water is strained through a cloth and comes out clear. Is it now just water? Explain.  
    **Answer:** No. The cloth caught the mud, but the salt dissolved and went through. The water is still salty. It may still have germs too.. *Why:* A strong answer separates what a filter can catch from what has dissolved.
-6. (count) In the Full Glass Test, Thenmozhi, a girl in Class 3, did the test. Her salt glass took 3 spoons. Her sugar glass was still going at 10 spoons. How many more spoons did the sugar glass take, at least?  
+6. (count) In one Full Glass Test, the salt glass took 3 spoons. The sugar glass was still going at 10 spoons. How many more spoons did the sugar glass take, at least?  
    **Answer:** 7. *Why:* 10 take away 3 is 7. The sugar glass took at least 7 more spoons, and it could have taken many more.
 7. (mcq) Why does oil float on top of water in a bottle, even after you shake it?  
    Options: Oil dissolves and then comes back / Oil does not dissolve in water, and it is lighter than water / Oil is a solid  
@@ -541,7 +542,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 10. (odd) Which one is not a solution?  
    Options: Rasam / Sugar syrup / Muddy water / Salt water  
    **Answer:** 2. *Why:* A solution is clear and the same all through. Muddy water has bits floating in it that settle.
-11. (mcq) Nandini, a girl in Class 4, makes coffee with filter coffee powder. What is left in the filter?  
+11. (mcq) Coffee is made with filter coffee powder. What is left in the filter?  
    Options: Nothing, it all dissolved / The coffee grounds, which did not dissolve / Sugar  
    **Answer:** The coffee grounds, which did not dissolve. *Why:* Hot water dissolves the colour and flavour out of the powder. The rest of the powder does not dissolve and stays in the filter.
 12. (write) A cook makes sugar syrup by heating sugar and water together. Why does she heat it?  
@@ -561,26 +562,26 @@ Every morning that week, Farhan checked. The water went down and down. After abo
    **Answer:** Salt comes apart into charged particles called ions, but sugar stays whole. *Why:* Charged ions can carry electricity through water. Sugar molecules have no charge, so sugar water hardly carries electricity.
 3. (write) Sea water is salty, but the rain that falls on the sea is not. When sea water evaporates, what happens to the salt? Use this to explain how salt pans work.  
    **Answer:** Only the water evaporates into the air. The salt stays behind. In salt pans, sea water is let into shallow ponds, the sun evaporates the water, and the salt is left as crystals.. *Why:* A strong answer says that the water leaves and the salt stays, and links it to the salt pans.
-4. (perspective) Three friends, Kavya, Meenakshi and Rohan, explain why the full salt water could still dissolve sugar.  
-   **Answer:** A strong answer picks Meenakshi's, because the sugar glass took more than ten spoons while the salt stopped at three, so each thing has its own limit. Kavya's idea sounds sensible, because a glass does look as if it has room. But it cannot explain why sugar fits and salt does not.. *Why:* The evidence that sugar and salt have different limits in the same water supports separate limits. 'Empty space' and 'softer' do not explain why sugar dissolves so much more.
+4. (perspective) Three friends, the first person, the second person and the third person, explain why the water that was full of salt could still dissolve sugar in the Full Glass Test.  
+   **Answer:** A strong answer picks the second person's, because the sugar glass took more than ten spoons while the salt stopped at three, so each thing has its own limit. The first person's idea sounds sensible, because a glass does look as if it has room. But it cannot explain why sugar fits and salt does not.. *Why:* The evidence that sugar and salt have different limits in the same water supports separate limits. 'Empty space' and 'softer' do not explain why sugar dissolves so much more.
 5. (count) Sea water leaves about 35 grams of salt for every litre that dries up in a salt pan. How many grams of salt would 3 litres leave?  
    **Answer:** 105. *Why:* Each litre leaves 35 grams. 3 lots of 35 is 35 + 35 + 35, which is 105 grams.
-6. (mcq) Why could Sri Ramakrishna's salt doll dissolve completely in the ocean, when a whole doll in a bucket would not?  
+6. (mcq) In a story told by Sri Ramakrishna, a doll made of salt steps into the ocean and dissolves completely. Why could she dissolve in the ocean, when a whole doll in a bucket would not?  
    Options: The ocean is warmer / The ocean has so much water that it is far below its limit for salt / Salt dolls are special  
    **Answer:** The ocean has so much water that it is far below its limit for salt. *Why:* How much salt can dissolve depends on how much water there is. A bucket would soon be saturated, and most of the doll would stay on the bottom.
-7. (write) Svante Arrhenius's examiners thought his idea was wrong. What evidence later showed he was right?  
-   **Answer:** Salt lowers the freezing point of water about twice as much as the same number of sugar particles, because each bit of salt splits into two ions. And salt solutions carry electricity even when very dilute.. *Why:* A strong answer names a measurement that his idea explained and the old idea did not.
+7. (write) Someone says salt breaks into two tiny charged bits when it dissolves, but sugar stays whole. What could you test to check this idea?  
+   **Answer:** Test whether salt water and sugar water carry electricity, for example with a battery and a bulb. If salt has charged bits, salt water should carry electricity and sugar water should not.. *Why:* A strong answer names a test whose result would be different if the idea were right or wrong.
 8. (draw) Draw a bar chart of the Full Glass Test: one bar for salt and one bar for sugar, showing how many spoons dissolved.  
    **Answer:** A short bar of about 3 for salt and a much taller bar of at least 10 for sugar, with the sugar bar marked 'still going'.. *Why:* A good chart shows the big difference at a glance and notes that the sugar limit was not reached.
 9. (truefalse) A clear glass of water is always safe to drink.  
    **Answer:** False. *Why:* False. Dissolved things and germs can be in clear water. That is why drinking water is boiled, filtered with special filters or treated.
-10. (mcq) Ananya, a girl in Class 4, wants to dissolve as much sugar as possible in one cup of water. What should she do?  
+10. (mcq) You want to dissolve as much sugar as possible in one cup of water. What should you do?  
    Options: Use ice-cold water / Use hot water, with a grown-up's help / Use less stirring  
    **Answer:** Use hot water, with a grown-up's help. *Why:* Hot water can hold much more sugar than cold water. Boiling water holds more than twice as much.
 11. (order) Put these in order, from the most sugar that can dissolve in a cup of water to the least.  
    **Answer:** ['boiling water', 'room-temperature water', 'ice-cold water']. *Why:* The warmer the water, the more sugar it can hold.
-12. (write) ORS has salt and sugar dissolved in the same water. Using what you found, explain why both can dissolve together.  
-   **Answer:** Water has a separate limit for salt and for sugar. Dissolving salt does not stop the sugar dissolving, as the full salt water test showed.. *Why:* A strong answer links ORS to the evidence from the Full Glass Test.
+12. (write) ORS has salt and sugar dissolved in the same water. Using what you found in the Full Glass Test, explain why both can dissolve together.  
+   **Answer:** Water has a separate limit for salt and for sugar. Dissolving salt does not stop the sugar dissolving. The Full Glass Test showed this, when water that was full of salt still dissolved sugar.. *Why:* A strong answer links ORS to the evidence from the Full Glass Test.
 13. (match) Match each thing to what happens to it in water.  
    **Answer:** Salt → comes apart into two kinds of ions; Sugar → comes apart into whole sugar molecules; Oil → floats as a layer; Atta → clouds the water, then settles. *Why:* Each thing meets water in its own way. Salt and sugar dissolve, but differently. Oil and atta do not dissolve.
 14. (label) Label the zoomed-in picture of salt water: water particle, sodium ion, chloride ion.  
@@ -596,37 +597,37 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 ## Quiz
 1. (mcq) Which of these dissolves in water?  
    Options: Sand / Sugar / Rava / Coconut oil  
-   **Answer:** Sugar. *Why:* Sugar dissolves and the water goes clear. Sand and rava sink, and oil floats. Picking rava is easy to do because it looks like sugar, but rava is ground wheat, which does not dissolve.
+   **Answer:** Sugar. *Why:* Sugar dissolves and the water goes clear. Sand and rava sink, and oil floats. Rava is an easy mistake because it looks like sugar, but rava is ground wheat, which does not dissolve.
 2. (mcq) Which way gets dissolved salt back out of salt water?  
    Options: Pour it through a cloth / Let the water evaporate / Stir it faster  
    **Answer:** Let the water evaporate. *Why:* When the water evaporates, it goes into the air and the salt stays behind as crystals. A cloth cannot catch dissolved salt, and stirring does not take it out.
-3. (mcq) Meenakshi, a girl in Class 3, stirs salt into water until she cannot see it. Where is the salt?  
+3. (mcq) You stir salt into water until you cannot see it. Where is the salt?  
    Options: It has gone / It is still in the water, in particles too small to see / It has turned into water  
    **Answer:** It is still in the water, in particles too small to see. *Why:* The salt is still there. You can taste it, and it comes back when the water dries. It has not turned into water: it stays salt.
-4. (mcq) In the Full Glass Test, which did the same small amount of water dissolve more of?  
-   Options: Salt / Sugar / The same of both  
-   **Answer:** Sugar. *Why:* The water took two or three spoons of salt and more than ten of sugar. Many children guess salt or the same, because the grains look alike.
+4. (mcq) A glass of water stops dissolving salt after 3 spoons. Then sugar is stirred into the same full salt water, and it keeps dissolving. What does this show?  
+   Options: Water has a different limit for each thing / The salt turned into sugar / The water was never full  
+   **Answer:** Water has a different limit for each thing. *Why:* The water was full for salt but not for sugar. Each thing has its own limit in water, even when the grains look alike.
 5. (mcq) What is a saturated solution?  
    Options: A very cold solution / A solution that cannot dissolve any more of a thing / A solution with oil in it  
    **Answer:** A solution that cannot dissolve any more of a thing. *Why:* Saturated means the water has reached its limit for that thing. Extra grains stay on the bottom.
 6. (mcq) Why does sugar dissolve faster in warm water?  
    Options: Warm water particles move faster and knock sugar particles off quicker / Warm water is thinner / Sugar melts in warm water  
    **Answer:** Warm water particles move faster and knock sugar particles off quicker. *Why:* In warm water, water particles move faster and hit the grains more often. Sugar does not melt in warm water: it would need about 186 degrees Celsius to melt. It dissolves.
-7. (mcq) Kavya, a girl in Class 3, wants cold lemonade with no sugar at the bottom. What should she do first?  
+7. (mcq) You want cold lemonade with no sugar at the bottom. What should you do first?  
    Options: Add lots of ice / Dissolve the sugar in a little warm water / Add the sugar last  
    **Answer:** Dissolve the sugar in a little warm water. *Why:* Sugar dissolves fast in warm water and then stays dissolved when cold water is added. Ice slows dissolving down.
-8. (mcq) Farhan, a boy in Class 2, pours salt water through a cotton cloth. What comes through?  
+8. (mcq) You pour salt water through a cotton cloth. What comes through?  
    Options: Plain water, with the salt left on the cloth / Salt water / Nothing  
    **Answer:** Salt water. *Why:* Dissolved salt is far smaller than the gaps in the cloth, so it goes through. A cloth catches only things that have not dissolved, like atta or tea leaves.
 9. (mcq) A tea strainer catches the tea leaves. Why does the tea in the cup still taste of tea?  
    Options: Some leaves got through / The taste and colour dissolved in the water and went through / The cup adds the taste  
    **Answer:** The taste and colour dissolved in the water and went through. *Why:* The flavour and colour dissolve in the hot water. The leaves themselves do not, so the strainer catches them.
-10. (mcq) Divya, a girl in Class 3, tests sugar in cold and in warm water. To make it a fair test, what must stay the same?  
+10. (mcq) You test how fast sugar dissolves in cold water and in warm water. To make it a fair test, what must stay the same?  
    Options: The temperature of the water / The amount of water and sugar, and the stirring / Nothing  
    **Answer:** The amount of water and sugar, and the stirring. *Why:* In a fair test, only one thing changes. Here that is the temperature, so everything else stays the same. If the temperature stayed the same, there would be nothing to test.
-11. (mcq) What did Svante Arrhenius show about salt in water?  
-   Options: It turns into sugar / It comes apart into charged particles called ions by itself / It does not dissolve  
-   **Answer:** It comes apart into charged particles called ions by itself. *Why:* Arrhenius showed that salt splits into ions as it dissolves, with no electric current needed. His examiners doubted him, but he won the Nobel Prize in 1903.
+11. (mcq) Salt dissolved in water lets electricity pass through, but sugar dissolved in water does not. What does this tell us about salt in water?  
+   Options: It turns into sugar / It comes apart into tiny charged bits / It does not dissolve  
+   **Answer:** It comes apart into tiny charged bits. *Why:* Electricity needs charged bits that can move. Salt comes apart into charged bits called ions as it dissolves. Sugar stays whole, so sugar water does not carry electricity.
 
 ## Applications
 - ORS, oral rehydration solution, is salt and sugar dissolved in clean water. It helps the body take back water lost in diarrhoea.
@@ -670,10 +671,10 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 
 ## Connected maths
 - Three tablespoons of water is about 45 millilitres. A tablespoon is 15 millilitres. How many tablespoons would you need for 90 millilitres, about half a cup? **6 tablespoons.**. Each tablespoon is 15 millilitres. 45 millilitres is 3 tablespoons. 90 is twice 45, so it is twice 3, which is 6 tablespoons. (queues `math.weight-capacity.capacity.L3`)
-- Three tablespoons of water dissolved 3 spoons of salt. Revathi, a girl in Class 3, doubles the water to 6 tablespoons. How many spoons of salt do you predict it will dissolve? Why? **About 6 spoons.**. Twice as much water can dissolve twice as much salt, because each part of the water has the same limit. 3 doubled is 6. (queues `math.multiplication.equal-groups.L3`)
+- Three tablespoons of water dissolved 3 spoons of salt. If you double the water to 6 tablespoons, how many spoons of salt do you predict it will dissolve? Why? **About 6 spoons.**. Twice as much water can dissolve twice as much salt, because each part of the water has the same limit. 3 doubled is 6. (queues `math.multiplication.equal-groups.L3`)
 - In the Cold, Room or Warm test, cold water took 90 stirs, room water took 45 and warm water took 20. How many times more stirs did cold water take than room water? **2 times.**. 45 plus 45 is 90. So cold water took twice as many stirs as room water. Warm water was more than twice as fast as room water. (queues `math.division.sharing-and-grouping.L3`)
-- Anjali's lemonade recipe uses 4 tablespoons of sugar for 3 cups of water. She wants to make 9 cups for a party. How much sugar does she need? **12 tablespoons.**. 9 cups is 3 lots of 3 cups. Each 3 cups needs 4 tablespoons. 3 lots of 4 is 12 tablespoons. (queues `math.multiplication.equal-groups.L3`)
-- Odd one out: in the Full Glass Test, four children, Kavya, Divya, Priya and Meenakshi, each did the test. Kavya's salt glass took 3 spoons, Divya's took 3, Priya's took 2, and Meenakshi's took 7. Which result looks odd, and what might have gone wrong? **Meenakshi's 7 spoons looks odd.**. The others are close together, at 2 or 3. Seven is far more. Meenakshi may have used more water, small spoons that were not level, or warm water, or she may have counted cloudy water as grains being gone. Checking how she did it is the way to find out. (queues `math.data.sorting-and-tallies.L3`)
+- A lemonade recipe uses 4 tablespoons of sugar for 3 cups of water. How much sugar is needed for 9 cups? **12 tablespoons.**. 9 cups is 3 lots of 3 cups. Each 3 cups needs 4 tablespoons. 3 lots of 4 is 12 tablespoons. (queues `math.multiplication.equal-groups.L3`)
+- Odd one out: four children each did the Full Glass Test. Their salt glasses took 3, 3, 2 and 7 spoons. Which result looks odd, and what might have gone wrong? **The 7 spoons looks odd.**. The others are close together, at 2 or 3. Seven is far more. That child may have used more water, small spoons that were not level, or warm water, or may have counted cloudy water as grains being gone. Checking how the test was done is the way to find out. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
 Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and particles L3

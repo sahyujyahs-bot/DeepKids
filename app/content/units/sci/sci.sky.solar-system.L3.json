@@ -166,7 +166,7 @@
   {
    "concept": "Why the Earth has liquid water",
    "status": "defined",
-   "definition": "The Earth is at a distance from the Sun where water can stay liquid on its surface. Its air keeps it a little warmer, too.",
+   "definition": "The Earth is at a distance from the Sun where water can stay liquid on its surface. The Earth's air also keeps the surface a little warmer.",
    "description": "Close to the Sun, sunlight is so strong that water boils away. Far from the Sun, sunlight is so weak that water freezes solid. The Earth is in between, where water can be liquid. Distance is not the whole story, though. A planet's air matters too. Venus is further from the Sun than Mercury, but Venus is the hottest planet. Its very thick air traps the heat, so its ground is about 460 degrees Celsius, hot enough to melt lead. The Earth's thinner air keeps us warm enough without cooking us. Every living thing we know of lives on the Earth.",
    "examples": [
     "Mars once had rivers and lakes. Today its water is frozen at its poles and under its ground.",
@@ -292,7 +292,7 @@
    "for": "The Sun, the Moon and the stars all seem to travel across our sky every day. We do not feel the Earth moving.",
    "against": "Galileo saw Venus change from a small full disc to a big thin crescent, which only fits if Venus goes round the Sun. Later measurements showed the Earth moves too.",
    "status": "rejected",
-   "context": "This card is about the oldest idea about the planets, and how it was shown wrong."
+   "context": "For thousands of years, most people believed that the Earth stands still in the middle, and that the Sun and the planets go round it. This card asks whether that is true."
   },
   {
    "claim": "Pluto is a planet.",
@@ -300,7 +300,7 @@
    "for": "Pluto is round, has its own moons, mountains and air, and goes round the Sun.",
    "against": "Pluto shares its path with many other icy worlds, and Eris is about as big. The 2006 rule says a planet must clear its path.",
    "status": "debated",
-   "context": "This card is about whether Pluto should be called a planet."
+   "context": "In 2006 astronomers voted that a planet must go round the Sun, be round, and have cleared its path of other big things. Pluto has not cleared its path, so it is now called a dwarf planet. This card asks whether Pluto should still be called a planet."
   },
   {
    "claim": "The planets closest to the Sun are always the hottest.",
@@ -324,7 +324,7 @@
    "for": "Some far icy worlds have orbits that seem to line up, as if something big were pulling them.",
    "against": "Nobody has seen it, and the pattern may come from where astronomers happened to look.",
    "status": "debated",
-   "context": "This card is about a planet that may or may not exist."
+   "context": "A few far icy worlds have long orbits that point roughly the same way. This card asks whether an unseen planet beyond Neptune could be pulling them into line."
   }
  ],
  "big_questions": [
@@ -341,7 +341,7 @@
   {
    "q": "If the Earth were a little closer to the Sun, or a little further, would we be here?",
    "kind": "big",
-   "hint": "Venus is a bit closer and is hot enough to melt lead. Mars is a bit further and its water is frozen."
+   "hint": "Venus is a bit closer to the Sun, and its thick air makes it hot enough to melt lead. Mars is a bit further, and its water is frozen."
   },
   {
    "q": "Is a planet that has not cleared its path really a different kind of thing, or did people just choose a new name?",
@@ -674,6 +674,7 @@
   {
    "id": "e1",
    "title": "Light Through a Window: how does light spread out with distance?",
+   "problem": "The Sun's light spreads out as it travels, so the planets far from the Sun get weaker light. In this test, a phone torch stands for the Sun. A card with a small square hole lets through a small square of its light. You catch that light on squared paper at different distances, and count how many squares it covers.",
    "mins": 30,
    "days": 1,
    "question": "When light travels twice as far, how much bigger is the patch it covers?",
@@ -879,6 +880,7 @@
   {
    "id": "e2",
    "title": "The Marble and the Missing Rim: what keeps a planet going round?",
+   "problem": "A planet moves round the Sun in a curved path. In this test, the rim of a plate stands for the Sun's gravity, because the rim pushes the marble inwards and keeps it going round. You cut a gap in the rim, and see which way the marble goes when nothing pushes it any more.",
    "mins": 20,
    "days": 1,
    "question": "When nothing pushes a rolling marble round any more, which way does it go?",
@@ -1128,10 +1130,10 @@
      "kid": "At this size, the Sun would be over a metre wide. Taller than the table! Measure it with your arms.",
      "ask": [
       {
-       "q": "What surprised you most?",
+       "q": "If the Earth is a ball 1 centimetre wide, the Sun is a ball 109 centimetres wide. About how many Earths would fit in a row across the Sun?",
        "good": [
-        "Jupiter is so much bigger than the Earth.",
-        "The Sun is bigger than everything put together."
+        "About 109, one for every centimetre.",
+        "More than a hundred. The Sun is far, far bigger than the Earth."
        ]
       }
      ]
@@ -1309,6 +1311,7 @@
      "do": "Ask your child where the planet's light comes from.",
      "say": "That planet makes no light of its own. What are we seeing?",
      "kid": "The planet makes no light. So what light are you seeing?",
+     "parent": "A good answer: a planet, because the Earth makes no light of its own. It only shines with sunlight bouncing off it, just as the planet you are looking at does. To someone on another planet, the Earth is one more bright dot.",
      "ask": [
       {
        "q": "What light are we seeing?",
@@ -1318,7 +1321,7 @@
        ]
       }
      ],
-     "think": "Someone on that planet could look back and see the Earth as a bright dot. What would they think we are?"
+     "think": "Someone standing on that planet could look back and see the Earth as a bright dot too. Would they call the Earth a star or a planet? Why?"
     }
    ]
   },
@@ -1531,7 +1534,7 @@
     {
      "id": "s2",
      "mins": 40,
-     "do": "1. On each page, write five short lines: how far the planet is from the Sun, compared with the Earth; how wide it is, compared with the Earth; how long its year is; how strong the sunlight is, compared with the Earth (multiply the distance by itself, as in the torch test); and one thing a visitor would see. 2. Draw the planet.",
+     "do": "1. On each page, write five short lines. The first is how far the planet is from the Sun, compared with the Earth. The second is how wide it is, compared with the Earth. The third is how long its year is. The fourth is how strong its sunlight is, compared with the Earth. To find it, multiply the distance by itself, as in the torch test. The fifth is one thing a visitor would see. 2. Draw the planet.",
      "say": "Use the 3-metre string and the dough planets from the Planet Line-up to help. Jupiter is 5 times as far. 5 times 5 is 25, so sunlight there is 25 times weaker. What would a visitor see on Venus? Thick yellow clouds, and terrible heat.",
      "kid": "Write five facts on each page. How far. How wide. How long a year. How weak the sunlight is. What a visitor sees. Then draw it.",
      "wait": "Do three planets a day, over three days.",
@@ -1655,7 +1658,7 @@
    "creative": [
     "Use two layers of card with an air gap between them.",
     "Tilt the shade so it bounces sunlight away rather than soaking it up.",
-    "The Parker Solar Probe, launched in 2018, flies closer to the Sun than anything before it. Its shield has a white front facing the Sun. Find out what is inside it."
+    "The Parker Solar Probe, launched in 2018, flies closer to the Sun than any spacecraft before it. Its heat shield has a white front facing the Sun, so it bounces sunlight away, as the white side of your shade does. The instruments sit in the shield's shadow."
    ],
    "your_turn": "Now design your own sunshade, test it against an unshaded ice cube, and time how long each takes to melt.",
    "context": "This is a design challenge about keeping something cool in strong sunlight, the problem every spacecraft near the Sun has to solve.",
@@ -2805,7 +2808,7 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding, 1988",
     "teaching": "Look deeply into a sheet of paper and you will see sunshine in it. Without sunshine, the forest cannot grow, and without the forest there is no paper.",
-    "link": "The paper you drew your planets on was a tree, and the tree grew on the share of sunlight that reaches the Earth."
+    "link": "The paper you drew your planets on came from a tree. The tree grew using sunlight that reached the Earth at its distance from the Sun."
    }
   ],
   "science": [
@@ -2833,9 +2836,9 @@
    "kid": "Sit in the sunshine. Hold out your hand. Close your eyes and feel the warmth. This light came from the Sun. It goes on to Mars and Jupiter too. Breathe slowly five times."
   },
   "ask": [
-   "The Earth's warmth comes from the Sun. Is the warmth yours, or the Sun's, or both?",
-   "From Venus, the Earth is a bright dot. Does 'up there' mean anything unless you say where you are standing?",
-   "If the Earth were where Mars is, would there still be you? What would be different?"
+   "The warmth on your skin first came from the Sun. Is it still the Sun's warmth when it reaches you, or does it become yours? Why do you think so?",
+   "From Venus, the Earth looks like a bright dot up in the sky. So is 'up there' a place, or does it depend on where you are standing?",
+   "Suppose the Earth were as far from the Sun as Mars is. Sunlight would be a bit less than half as strong. What would be different for you, and for the water on the Earth?"
   ],
   "art": "A child sitting cross-legged in a patch of sunlight by a window, palm open, with a faint beam passing through the window and on out into space past small drawings of the other planets."
  },

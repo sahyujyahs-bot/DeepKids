@@ -27,7 +27,7 @@
   {
    "term": "Sound",
    "meaning": "What we hear when something vibrates and the vibration reaches our ears.",
-   "example": "The ring of a cycle bell, a dog barking, rain on a tin roof.",
+   "example": "A cycle bell ringing, a dog barking and rain on a tin roof are all sounds.",
    "art": "A cycle bell with small curved lines spreading out from it towards an ear."
   },
   {
@@ -81,19 +81,19 @@
   {
    "term": "String instrument",
    "meaning": "An instrument where a stretched string vibrates.",
-   "example": "The veena, the sitar, the violin and the ektara.",
+   "example": "The veena, the sitar, the violin and the ektara are all string instruments.",
    "art": "A veena with one string blurred as it is plucked."
   },
   {
    "term": "Drum",
    "meaning": "An instrument where a stretched skin vibrates when you hit it.",
-   "example": "The tabla, the mridangam, the dhol and the damru.",
+   "example": "The tabla, the mridangam, the dhol and the damru are all drums.",
    "art": "A hand striking a tabla skin, the skin bulging down slightly."
   },
   {
    "term": "Wind instrument",
    "meaning": "An instrument where a column of air inside a tube vibrates.",
-   "example": "The bansuri flute, the shehnai and the conch shell.",
+   "example": "The bansuri flute, the shehnai and the conch shell are all wind instruments.",
    "art": "A bansuri with a glowing column of air inside it."
   },
   {
@@ -172,10 +172,10 @@
    "definition": "Different sources vibrate different parts. Strings, stretched skins, columns of air, solid things and living bodies can all vibrate and make sound.",
    "description": "In a veena or sitar, a stretched string vibrates. In a tabla, dhol or mridangam, a stretched skin vibrates. In a bansuri, a shehnai or a conch, it is the air inside the tube that vibrates. In a temple bell, a steel plate or a ghatam, the whole solid thing vibrates. The ghatam is a clay pot played as a drum. Many of the best are made in Manamadurai, in Tamil Nadu. In your voice, two soft flaps in your throat, the vocal folds, vibrate as air from your lungs rushes past.",
    "examples": [
-    "String: veena, sitar, ektara, violin, a twanged rubber band.",
-    "Skin: tabla, mridangam, dhol, damru.",
-    "Air: bansuri, shehnai, conch, a whistle, a bottle you blow across.",
-    "Solid: temple bell, ghatam, manjira, a steel tumbler tapped with a spoon."
+    "A veena, a sitar, an ektara, a violin and a twanged rubber band all make sound with a vibrating string.",
+    "A tabla, a mridangam, a dhol and a damru all make sound with a vibrating stretched skin.",
+    "A bansuri, a shehnai, a conch, a whistle and a bottle you blow across all make sound with vibrating air.",
+    "A temple bell, a ghatam, a manjira and a steel tumbler tapped with a spoon all make sound because the solid thing itself vibrates."
    ],
    "perspectives": [],
    "art": "Five small panels, each glowing on the part that vibrates: a veena string, a tabla skin, the air inside a bansuri, a ringing temple bell, and a child's throat.",
@@ -187,7 +187,7 @@
    "definition": "A vibrating thing pushes on the air molecules next to it. They push on their neighbours, which push on the next ones. The push is passed along, the way a squeeze passes down a line of people holding shoulders. That moving pattern of pushes is a sound wave.",
    "description": "Air looks empty, but it is packed with molecules. One sugar cube of air holds about 25 billion billion of them. Each one zooms about at roughly 500 metres a second, and bumps into others billions of times every second. When a tabla skin bulges out, it squashes the air molecules in front of it closer together. They push on the molecules beyond them and squash those too. When the skin swings back, it leaves a space where the molecules are spread out. So bands of squashed air and spread-out air move away from the drum. This is the sound wave. No air travels from the drum to your ear. Each molecule only moves a tiny distance back and forth, much less than the width of a hair. Only the pattern travels, at about 343 metres every second.",
    "examples": [
-    "A line of coins on a table: flick one coin into the end, and the last coin shoots off. The middle coins hardly move.",
+    "Line up coins so they touch on a table, then flick one coin into the end of the line. The last coin shoots off, but the coins in the middle hardly move.",
     "A stadium wave: the wave goes all the way round, but every person stays in their seat.",
     "A candle flame near a loud drum flickers. The vibrating air makes it flicker, but the drum does not blow it out."
    ],
@@ -216,7 +216,7 @@
    "description": "Space between the planets is silent. But the Sun is a huge ball of hot gas, and it rings like a bell. Sound waves bounce around inside it, and its surface rises and falls about every five minutes. Robert Leighton and his team found this in the early 1960s. Scientists now use these 'sunquakes' to look inside the Sun. Far away, around a giant black hole in the Perseus galaxy cluster, there is a thin cloud of hot gas. In 2003, astronomers found ripples in it, like sound waves. The note would be far too low for anyone to hear, about 57 octaves below the middle note on a piano. And when the whole universe was young, it was a hot, thick soup. Sound waves rang through it. Their pattern can still be seen in the faint glow left over from that time.",
    "examples": [
     "The Sun's surface rises and falls about every five minutes, because sound waves bounce inside it.",
-    "NASA turned the Perseus black hole ripples into a sound people can hear, by making it more than a hundred million billion times higher."
+    "NASA raised the pitch of the Perseus black hole ripples more than a hundred million billion times. That made them into a sound that people can hear."
    ],
    "perspectives": [],
    "art": "The Sun drawn with gentle ripples on its surface like a struck bell, and beside it a dark galaxy cluster with faint rings of gas around a black hole.",
@@ -329,7 +329,7 @@
    "definition": "No. Every solid, liquid and gas is made of atoms and molecules that never stop jiggling. The warmer a thing is, the faster they jiggle.",
    "description": "A stone on the ground looks perfectly still. But its atoms are jiggling all the time, too fast and too small to see or hear. That jiggling is what warmth is. Cool the stone, and the jiggling slows down. Scientists have cooled things to almost the coldest anything can be. Even there, quantum physics, the science of the very tiniest things, says the jiggling never stops completely. Sound is a neat vibration that molecules pass along together. Underneath it is always this messy jiggle of everything.",
    "examples": [
-    "A tumbler of hot filter coffee: its molecules jiggle faster than those in a glass of cold water.",
+    "The molecules in a tumbler of hot filter coffee jiggle faster than the molecules in a glass of cold water.",
     "The 'quietest' room ever built still isn't silent to the person in it. They hear their own heartbeat and breathing."
    ],
    "perspectives": [],
@@ -768,7 +768,7 @@
        ]
       }
      ],
-     "think": "When you whisper, your throat doesn't buzz. So what is making the whisper sound?"
+     "think": "When you whisper, your throat does not buzz. Air rushes past your tongue, teeth and lips. So what is vibrating to make the whisper?"
     },
     {
      "id": "s5",
@@ -776,7 +776,7 @@
      "do": "Count the tokens. Then look at the five piles together.",
      "say": "Which mat has the most cards? Can you think of a sound that doesn't fit any mat?",
      "kid": "Count your tokens. Which pile is biggest? Can you think of a sound that fits no mat?",
-     "think": "Thunder, rain and wind are sounds too. What is vibrating in them?"
+     "think": "Thunder is a sound too. Lightning heats the air in a flash, and the hot air shoves the air beside it. What is vibrating in thunder?"
     }
    ],
    "context": "This is a card game about sound sources. Every sound comes from something vibrating. For each card, players decide what is vibrating: a string, a skin, air, a solid thing or a body.",
@@ -1258,7 +1258,7 @@
     },
     {
      "t": "write",
-     "p": "Remember the Coin Line, where you flicked one coin into a row of touching coins and the coin at the far end shot away. Which coins hardly moved? What does this tell you about the air between a drum and your ear?",
+     "p": "Line up coins so they touch. Flick one coin into the end of the row, and the coin at the far end shoots away. Which coins hardly move? What does this tell you about the air between a drum and your ear?",
      "lines": 4,
      "a": "The coins in the middle hardly moved. They only passed the push along. In the same way, the air molecules between the drum and my ear stay roughly where they are. They just pass the push from one to the next until it reaches my ear.",
      "why": "A strong answer uses what the child saw, the still middle coins, as evidence that the push travels but the molecules do not.",
@@ -1920,7 +1920,7 @@
      "do": "Talk about the tabla and the mridangam together.",
      "say": "Real tabla and mridangam drums have a heavy black patch called the syahi. Our dough only makes the note lower. The syahi also makes the drum ring with a clear note instead of a thud. C.V. Raman, an Indian scientist, explained how in 1920. But drum makers invented it long before.",
      "kid": "Real drums have a heavy black patch called syahi. It helps them ring with a clear note. Drum makers invented it long ago.",
-     "think": "Drum makers found this out without any science lab. How do you think they did it?"
+     "think": "Drum makers found the syahi without any science lab. They added a thin layer of paste and tapped the drum after each layer. What were they listening for each time?"
     },
     {
      "id": "s5",
@@ -2015,7 +2015,7 @@
      "do": "Count how many of each kind you found: string, skin, air, solid, body. Make a tally.",
      "say": "Which kind of vibration did we find most at home?",
      "kid": "Count each kind. String, skin, air, solid, body. Which kind did you find most?",
-     "think": "Is anything in your home completely silent? How could you tell?"
+     "think": "Think of something at home that is making no sound right now, such as a steel plate on a shelf. If every sound comes from a vibration, what does the silence tell you about that plate?"
     }
    ],
    "context": "This is a hunt around your home. You find ten sounds and, for each one, the thing that is vibrating to make it.",
@@ -2117,6 +2117,7 @@
     }
    ],
    "context": "In this activity, coins and people act as air molecules. You pass a push along a line, to see how sound travels without any air moving across the room. Then you leave gaps, like in space.",
+   "problem": "Sound crosses a room without any air flying from the drum to your ear. In this activity, coins stand in for air molecules, and a flick stands in for a vibrating drum. You will see a push travel along a line of coins, while the coins in the middle hardly move.",
    "setup": [
     {
      "art": "Five one-rupee coins in a straight touching line on a table, and a finger flicking a sixth coin towards them.",
@@ -2378,6 +2379,7 @@
     }
    ],
    "context": "In this activity, you make a reed instrument from a plastic straw. It shows how a shehnai's reed makes the air inside it vibrate.",
+   "problem": "A shehnai has a reed, which is a thin flap that vibrates when you blow. The reed makes the air inside the tube vibrate, and the air sets the note. In this activity, you make a reed from a straw, and then you cut the straw shorter to hear how the note changes.",
    "setup": [
     {
      "art": "Fingers flattening the end of a plastic straw, and scissors cutting the flat end into a V shape.",
@@ -2557,7 +2559,7 @@
      "mins": 5,
      "do": "Make one change to improve it. For example, add a box to make it louder, or tighten or shorten something to change the note.",
      "say": "Real instrument makers test and change, again and again. What one change could make yours better?",
-     "kid": "Make one change. Add a box to make it louder, or make something tighter or shorter for a higher note. Test it again."
+     "kid": "Make one change. Add a box to make it louder. Or make something tighter or shorter for a higher note. Test it again."
     },
     {
      "id": "s4",
@@ -2856,7 +2858,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Coin Line, why did the push not reach the last coin when there were gaps between the coins?",
+   "p": "Coins are laid in a row with wide gaps between them. You flick a coin at the first one. Why does the push not reach the last coin?",
    "opts": [
     "The coins were too far apart to pass the push on",
     "The coins got tired",
@@ -3499,11 +3501,11 @@
    "evidence": "In the coin line, the middle coins hardly moved, yet the last coin shot away. In a real sound wave, each air molecule moves back and forth less than the width of a hair, yet the sound crosses a room in a hundredth of a second."
   },
   "three": {
-   "who_am_i": "Your voice is your own vocal folds vibrating. When you hum, that movement is passed on through the air of the whole room.",
+   "who_am_i": "Your voice starts inside your own body, when your vocal folds vibrate. When you hum, that vibration is passed through the air to every part of the room. So your voice is inside you, and it is also out in the room.",
    "what_is_life": "Crickets, frogs, elephants and bats find each other, warn each other and hunt by sound. Many of their calls are too high or too low for us, and most are not meant for us at all.",
    "what_is_this_world": "Sound travels wherever there is a medium to carry it: air, water, wood, even the hot gas inside the Sun. Where there is nothing, as in space, there is silence."
   },
-  "thread": "One tap on a tabla starts one vibration. The air passes it on to billions of molecules, and it reaches every ear in the room: yours, your mother's and the cat's. Each ear receives the same movement, yet no molecule travelled from the drum to anyone. The world is joined in this way: what happens in one place is passed on and shared by everything around it.",
+  "thread": "One tap on a tabla starts one vibration. The air passes it on through billions of molecules, and it reaches every ear in the room: yours, your mother's and the cat's. Each ear receives the same movement, yet no molecule travelled from the drum to anyone. The world is joined in this way. Something that happens in one place is passed on, and everything around it shares in it.",
   "teachings": [
    {
     "source": "Mandukya Upanishad, verse 1",

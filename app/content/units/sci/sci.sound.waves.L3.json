@@ -79,7 +79,7 @@
   {
    "term": "Wave speed",
    "meaning": "How far a wave travels in one second.",
-   "example": "In the Tray Test, a wave took a few seconds to cross the tray and come back.",
+   "example": "Drop a pebble in a bucket and time the ripple. If it crosses 20 centimetres in 1 second, its wave speed is 20 centimetres each second.",
    "art": "A tray of water with a wave bump halfway across and a phone stopwatch beside it."
   },
   {
@@ -169,9 +169,9 @@
    "definition": "How fast a wave travels depends on what it travels through. A water wave that is much longer than the water is deep goes faster in deeper water and slower in shallower water.",
    "description": "In the Tray Test, you gave the water the same push each time. In 1 cm of water, the wave crawled. In 4 cm, it went about twice as fast. Your push only started the wave. After that, the water passed the energy along at its own speed. Each kind of medium has its own rule. A tight rope carries a wave faster than a loose one. A crowd of people who stand up quickly carries a Mexican wave faster than a sleepy crowd. Sound goes faster in water than in air, and faster again in steel.",
    "examples": [
-    "Water 4 times as deep carries a long wave about 2 times as fast.",
+    "If water is four times as deep, a long wave in it goes about twice as fast.",
     "A dupatta pulled tight carries a bump faster than a dupatta hanging loose.",
-    "A Mexican wave in a big stadium travels at about 20 seats each second. That speed is set by how quickly people react."
+    "A Mexican wave in a big stadium travels about 20 seats each second. Its speed is set by how quickly people react."
    ],
    "perspectives": [],
    "art": "Two trays side by side, one with shallow water and a short arrow, one with deeper water and a long arrow, both with the same hand and the same dosa turner at one end."
@@ -209,7 +209,7 @@
    "status": "defined",
    "context": "This card explains two things you saw in the Tray Test and in The Dupatta Wave.",
    "definition": "A wave reflects, or bounces back, when it reaches a wall or a fixed end. Two waves that meet pass through each other and carry on.",
-   "description": "In the Tray Test, the wave hit the far wall and came back to you. That is why you could time it there and back. In The Dupatta Wave, a bump that went along the top of the dupatta came back from the door handle along the bottom. A fixed end turns a pulse upside down as it reflects. When two ripples cross in a bucket, they add up where they meet, then carry on as if nothing happened. Two balls would bump into each other. Two waves do not.",
+   "description": "In the Tray Test, the wave hit the far wall and came back to you. That is why you could time it there and back. In The Dupatta Wave, a bump that went along the top of the dupatta came back from the door handle along the bottom. The fixed end pushes back on the cloth, so a bump that goes out on top comes back underneath. When two ripples cross in a bucket, they add up where they meet, then carry on as if nothing happened. Two balls would bump into each other. Two waves do not.",
    "examples": [
     "A ripple bounces off the side of the bucket.",
     "An echo is a sound wave bouncing back off a wall.",
@@ -326,7 +326,7 @@
  ],
  "big_questions": [
   {
-   "q": "In Puffed Rice on the Waves, the puffed rice stayed in the middle of the bucket, yet something crossed the bucket. What is it that travels in a wave?",
+   "q": "Float a grain of puffed rice on a bucket of ripples. The grain stays in the middle, yet something crosses the bucket. What is it that travels in a wave?",
    "kind": "deep",
    "hint": "Think about what the tapping pencil gave the water, and what the puffed rice felt when the wave passed."
   },
@@ -383,13 +383,13 @@
    "\"We slowed it down!\" said Arjun, delighted.",
    "\"Only near us,\" said Meenakshi. \"So the wave's speed is not set by the person who started it, far away. It is set by everyone it passes through.\"",
    "Revathi Chithi nodded. \"In my work, that matters a lot. The sea is the same. A wave in the deep ocean travels very fast. When it comes into shallow water near the beach, it slows down. The water behind is still fast, so it catches up and the wave piles up taller. That is why a tsunami is so tall when it reaches the shore.\"",
-   "\"Like the people behind us bumping into us when we were slow?\" said Arjun.",
-   "\"Something like that,\" said Revathi Chithi, and she laughed.",
+   "\"So the fast water behind piles up on the slow water in front?\" said Arjun.",
+   "\"Yes, exactly,\" said Revathi Chithi, and she laughed.",
    "On the way home in the auto, Meenakshi kept thinking. When they got home, she took the long steel tray that Paati used for drying vadams. She poured in a little water and pushed it at one end with a dosa turner. A bump of water ran to the far end and came back.",
    "Then she poured in more water and did it again. This time the bump ran faster.",
-   "\"Arjun, look,\" she said. \"I pushed the same. The water decided.\"",
-   "Arjun peered into the tray. \"So the water is the crowd,\" he said.",
-   "Meenakshi grinned. \"And the deep water is a quick crowd.\""
+   "\"Arjun, look,\" she said. \"I pushed the same each time. The water set the speed, not me.\"",
+   "Arjun peered into the tray. \"So the water is like the crowd,\" he said. \"Each bit passes the push to the next bit.\"",
+   "Meenakshi grinned. \"Yes. In deep water, the push is passed on faster. It is like a crowd that reacts quickly.\""
   ],
   "epiphany": "For the parent: a wave is energy passed from one part of a material to the next, while each part stays in its place. The speed of the wave is set by the material it passes through, whether that is people in a stadium or water in a tray.",
   "ask": [
@@ -417,7 +417,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. You sort cards into waves, where energy travels and the stuff stays, and not waves, where the stuff itself moves.",
+   "context": "This is a card game. You sort cards into waves, where energy travels and the material stays in place, and not waves, where the material itself moves.",
    "printables": [
     {
      "kind": "cards",
@@ -548,8 +548,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Cut out the cards and put them in a pile with the questions facing up.",
-     "say": "In this game, the question is always the same. Does the stuff travel, or only the energy?",
-     "kid": "For each card, ask: does the stuff travel, or only the energy?"
+     "say": "In this game, the question is always the same. Does the material itself travel, or only the energy?",
+     "kid": "For each card, ask: does the material travel, or only the energy?"
     },
     {
      "id": "s2",
@@ -1354,6 +1354,7 @@
    "mins": 10,
    "days": 1,
    "context": "In this activity you send waves into water and into set curd, and see that different materials carry waves differently.",
+   "problem": "Waves do not behave the same way in every material. In this activity, you tap a bowl of water and a bowl of set curd. You see how long the waves last in each. Scientists use the same idea to learn what is inside the Earth.",
    "materials": [
     {
      "item": "two steel bowls the same size",
@@ -1404,8 +1405,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk about why this matters.",
-     "say": "Waves travel differently through different materials. Scientists use that to find out what is inside the Earth, where nobody can dig.",
-     "kid": "Waves travel differently in different materials. That helps us see inside the Earth!"
+     "say": "In the water, the ripples kept going. In the curd, they stopped almost at once. So the material changes how a wave behaves. Earthquake waves speed up and bend when they pass from one kind of rock to another. Scientists use that to learn what is inside the Earth, where nobody can dig.",
+     "kid": "Water and curd carry waves differently. Earthquake waves also change in different rock. That is how we learn what is inside the Earth!"
     }
    ],
    "setup": [
@@ -1427,6 +1428,7 @@
    "mins": 45,
    "days": 2,
    "context": "In this 2-day project you build a wave machine from tape and straws, then make its waves slower by changing what they travel through.",
+   "problem": "A wave moves along a row of straws, and each straw only turns on the spot. On day 2, you make some straws heavier with dough. You then see that the material a wave travels through sets how fast it goes, as the depth of the water did in the Tray Test.",
    "materials": [
     {
      "item": "wide brown packing tape or wide cello tape",
@@ -1722,7 +1724,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Tray Test, why must you push the water the same way every time?",
+   "p": "You time a wave in a tray at different water depths. Why must you push the water the same way every time?",
    "opts": [
     "So that only the depth changes, and we know the depth made the difference",
     "So the water does not spill",
@@ -1826,7 +1828,7 @@
     "The core is made of ice"
    ],
    "a": 1,
-   "why": "If the whole core were liquid, no waves would arrive on the far side of the Earth. A solid ball in the middle can bend some waves so that they reach it.",
+   "why": "If the whole core were liquid, no waves would arrive on the far side of the Earth. A solid ball in the middle speeds up and bends some waves, so a few of them reach the far side.",
    "outcome": 6
   }
  ],
@@ -1895,7 +1897,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these. Is each one a wave, or is the stuff itself moving?",
+     "p": "Sort these. In each one, is it a wave, or is the material itself moving?",
      "a": "see items",
      "why": "In a wave, the energy travels and the material stays. In the others, the thing itself moves from place to place.",
      "cats": [
@@ -1948,7 +1950,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Tray Test, the wave took 5 seconds at 1 cm and 3 seconds at 4 cm, with the same push. What does this show?",
+     "p": "You push the water in a tray the same way each time. The wave takes 5 seconds in 1 cm of water and 3 seconds in 4 cm. What does this show?",
      "a": 0,
      "why": "A shorter time means a faster wave. The wave was faster in 4 cm of water, and the push did not change, so the depth made the difference.",
      "opts": [
@@ -1984,7 +1986,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Tray Test, why did you shine a torch at a slant across the tray?",
+     "p": "You time a wave across a tray of water. Why do you shine a torch at a slant across the tray?",
      "a": 1,
      "why": "Light bends as it passes through the bump of the wave, making a bright line on the tray's bottom. That line is much easier to follow than the clear water.",
      "opts": [
@@ -2015,7 +2017,7 @@
     },
     {
      "t": "write",
-     "p": "In the story The Wave at Chepauk, Meenakshi saw a Mexican wave pass her at the stadium. The wave travelled round, but nobody went anywhere. How can both be true?",
+     "p": "A Mexican wave runs round a stadium. People watching see the wave travel round, but nobody leaves their seat. How can both be true?",
      "a": "Each person only stood up and sat down in their own seat. The standing up was passed from person to person, so the wave travelled round while the people stayed.",
      "why": "A strong answer says what each person did and what travelled.",
      "lines": 3
@@ -2500,13 +2502,13 @@
   {
    "problem": "A Mexican wave travels about 20 seats each second. One stand has 100 seats in a row. About how long does the wave take to cross the stand?",
    "answer": "About 5 seconds.",
-   "explain": "20 seats in 1 second. 40 seats in 2 seconds. 60 in 3, 80 in 4, 100 in 5. So 20 times 5 is 100, and the wave takes about 5 seconds.",
+   "explain": "The wave covers 20 seats in 1 second, and 40 seats in 2 seconds. In 3 seconds it covers 60 seats, in 4 seconds 80 seats, and in 5 seconds 100 seats. So 20 times 5 is 100, and the wave takes about 5 seconds.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
    "why_maths": "Multiplying the speed by the time tells you how far a wave goes, so you can predict when it will reach you.",
    "context": "This is about the Mexican wave, where each person stands up just after the person beside them."
   },
   {
-   "problem": "Water 4 times as deep carries a long wave about 2 times as fast. In the Tray Test, a wave took 6 seconds to go there and back in 1 cm of water. About how long should it take in 4 cm of water?",
+   "problem": "If water is 4 times as deep, a long wave goes about 2 times as fast. In a tray, a wave took 6 seconds to go there and back in 1 cm of water. About how long should it take in 4 cm of water?",
    "answer": "About 3 seconds.",
    "explain": "Twice as fast means it takes half the time. Half of 6 seconds is 3 seconds. This is a prediction, so check it in your own tray.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
@@ -2517,7 +2519,7 @@
   {
    "problem": "A tsunami can travel about 800 kilometres in an hour over the deep ocean. Near the shore it slows to about 40 kilometres in an hour. How many times faster is it in the deep ocean?",
    "answer": "About 20 times faster.",
-   "explain": "40 times 2 is 80. 40 times 20 is 800. So 800 is 20 lots of 40, and the deep-ocean wave is about 20 times faster.",
+   "explain": "40 times 2 is 80, and 40 times 20 is 800. So 800 is 20 lots of 40, and the deep-ocean wave is about 20 times faster.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
    "why_maths": "Saying 'how many times faster' compares two speeds in one number, which is easier to picture than two big numbers.",
    "context": "This is about tsunamis, which slow down as the sea gets shallow."
@@ -2525,7 +2527,7 @@
   {
    "problem": "Your straw wave machine has a straw every 3 cm. There are 50 straws. About how long is the machine?",
    "answer": "About 150 cm, or 1.5 metres.",
-   "explain": "Each straw takes 3 cm. 50 straws take 50 times 3 cm. 5 times 3 is 15, so 50 times 3 is 150 cm.",
+   "explain": "Each straw takes up 3 cm. So 50 straws take 50 times 3 cm. 5 times 3 is 15, so 50 times 3 is 150 cm.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
    "why_maths": "Multiplying tells you how much tape to cut before you start building.",
    "context": "This is about the Straw Wave Machine, made of straws laid across a strip of tape.",
@@ -2698,16 +2700,16 @@
    "evidence": "In the Tray Test, two trips there and back took about 5 seconds in 1 cm of water and about 3 seconds in 4 cm, with the same push. In the family stadium wave, the same start made a slower wave when everyone waited before standing."
   },
   "three": {
-   "who_am_i": "Your voice reaches a friend as a wave in the air. The air by your mouth stays by your mouth, yet your words arrive.",
+   "who_am_i": "Your voice reaches a friend as a wave in the air. The air near your mouth stays near your mouth. Only the energy of your voice crosses the room, and your words arrive.",
    "what_is_life": "A spider feels waves along her web and runs to her food. A fish feels waves in the water and turns with the shoal. Living beings know their world through the waves that reach them.",
    "what_is_this_world": "The sea, the ground and the air are full of waves passing through. Nobody has been to the centre of the Earth, yet waves have told us what is there."
   },
-  "thread": "Before you tap, the water in the bucket is flat and still. One tap gives it energy, and that energy spreads out as ring after ring of ripples. No ripple is made of new water. Each is the same body of water, rising and falling as the energy passes. So all the ripples are the same water, moving in many places.",
+  "thread": "Before you tap, the water in the bucket is flat and still. One tap gives it energy, and that energy spreads out as ring after ring of ripples. No ripple is made of new water. Every ripple is the same water as before, rising and falling as the energy passes. So the ripples are not separate things. They are one body of water, moving in different places.",
   "teachings": [
    {
     "source": "Ashtavakra Gita 2.4",
     "teaching": "As waves, foam and bubbles are not different from water, so the whole world that comes from the Self is not different from it.",
-    "link": "The Tray Test showed the fact this verse starts from: a wave has no stuff of its own. It is the water itself, moving. The Ashtavakra Gita uses that fact about water to speak about the world."
+    "link": "The Tray Test showed that a wave is not a separate thing from the water. It is the water itself, moving. The verse uses this fact about water to say that the whole world is not separate from the one Self it comes from."
    },
    {
     "source": "Tao Te Ching 78",

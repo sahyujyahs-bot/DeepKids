@@ -102,7 +102,7 @@
   {
    "term": "Quietest sound you can hear",
    "meaning": "The softest sound that your ears can just catch. Scientists call it your hearing threshold. A sound softer than this reaches you, but you do not hear it.",
-   "example": "In the volume test, a listener might first hear the song at volume step 2. Step 2 is then the listener's quietest sound at that distance.",
+   "example": "Turn a phone up one step at a time. If you first hear the song at step 2, then step 2 is your quietest sound at that distance.",
    "art": "A volume bar on a phone with the first step grey and a bright mark at step 2 where the girl raises her hand."
   },
   {
@@ -143,7 +143,7 @@
    "definition": "Sound is a vibration of the air. The ear passes the vibration inwards from the eardrum to the cochlea, and hair cells there turn it into nerve signals for the brain.",
    "description": "When a bell rings, it vibrates, and the air around it vibrates too. Your ear flap collects some of that vibrating air and sends it down the ear canal. At the end, the eardrum vibrates. The three tiny bones pass the vibration on to the cochlea. The bones make the push stronger, because the cochlea is full of liquid and liquid is harder to move than air. In the cochlea the liquid ripples, and the tufts on the hair cells bend. Each bend makes a hair cell send a signal along the auditory nerve. Only then does the brain make the sound you hear.",
    "examples": [
-    "A pressure cooker whistle: vibrating steam, then air, eardrum, three bones, cochlea, hair cells, nerve, brain.",
+    "A pressure cooker whistle makes the steam and the air vibrate. The vibration then passes through your eardrum, the three tiny bones, the cochlea, the hair cells and the nerve, and your brain hears the whistle.",
     "Your mother calling you from the kitchen reaches your brain through the same chain in much less than one second."
    ],
    "perspectives": [],
@@ -156,8 +156,8 @@
    "definition": "Every ear has a quietest sound it can catch, called the hearing threshold. A softer sound still reaches the ear, but it does not make a strong enough signal to be heard.",
    "description": "In the Quietest Sound experiment, you turned a phone up one step at a time from across the room. At the lowest steps the phone was playing, but you heard nothing. The sound was there in the air. It was too soft for your hair cells to send a clear signal. When the volume went up, you heard it. Covering the ear raised the step you needed, because less sound got in. An audiologist tests hearing this way. They play soft beeps of different pitches and find the quietest one you hear for each pitch.",
    "examples": [
-    "A ticking wall clock you can hear at night, but not in the day when the road is busy.",
-    "A child who hears a whisper from 3 metres away, while a grandparent needs the speaker to come closer."
+    "At night the road is quiet, so you can hear a wall clock tick. In the day the road is noisy, and the tick is too soft to hear.",
+    "A child may hear a whisper from 3 metres away. A grandparent may need the speaker to come closer."
    ],
    "perspectives": [],
    "art": "A phone volume bar with grey steps at the bottom and a child's raised hand at the step where the song is first heard.",
@@ -182,7 +182,7 @@
    "definition": "The hair cells for the highest pitches wear out first, so most people hear less of the top of the band as they grow older.",
    "description": "High-pitch hair cells sit at the start of the cochlea, where every sound passes. Over many years, more of them stop working. A child may hear a tone of 17,000 hertz that most grown-ups over 40 cannot. Many grandparents hear deep voices well but miss high sounds, like the 's' and 'f' in words. So 'fifty' and 'sixty' can sound the same to them. Loud places and some illnesses make this happen sooner.",
    "examples": [
-    "A grandmother who hears the temple drum but misses the microwave beep.",
+    "A grandmother may hear the low temple drum well, but miss the high beep of the microwave.",
     "In the family pitch test, a tone rises higher and higher. The children usually keep hearing it after the parents have stopped."
    ],
    "perspectives": [],
@@ -208,8 +208,8 @@
    "definition": "You protect your hearing by keeping loud sound short, staying away from the thing that makes it, covering your ears, and never pushing anything into the ear canal.",
    "description": "Moving away from a loud sound helps a lot, because sound spreads out and gets weaker with distance. Covering the ears helps, and a cover that seals the ear hole helps most. With earphones, keep the volume low enough to hear someone talking next to you. Earwax keeps the canal clean and moves out by itself as you chew and talk. A cotton bud can push wax deeper or scratch the eardrum. Doctors say to put nothing in your ear, not a bud, a hairpin, a matchstick or oil. If an ear hurts, leaks or feels blocked, see a doctor.",
    "examples": [
-    "Standing far back and pressing your ear flaps shut when crackers burst at Deepavali.",
-    "Wiping only the outside of the ear with a cloth after a bath."
+    "At Deepavali, stand far back from the crackers and press your ear flaps shut when they burst.",
+    "After a bath, wipe only the outside of your ear with a cloth."
    ],
    "perspectives": [],
    "art": "A child at a Deepavali evening standing well back from bursting crackers, with fingertips pressing the small flaps over the ear holes.",
@@ -321,7 +321,7 @@
  ],
  "big_questions": [
   {
-   "q": "In the Quietest Sound experiment, the phone played at the lowest volume and you heard nothing. Was there a sound in the room or not?",
+   "q": "A phone plays at its lowest volume and you hear nothing. Is there a sound in the room or not?",
    "kind": "deep",
    "hint": "Think about what the phone was doing, and what your ears were doing."
   },
@@ -331,7 +331,7 @@
    "hint": "Could there be a creature that hears every sound? What would that be like?"
   },
   {
-   "q": "Your voice sounds different to you than to everyone else. Which one is your real voice?",
+   "q": "Your voice sounds different to you than it does to everyone else. Which one is your real voice?",
    "kind": "deep",
    "hint": "Think of the recording of your voice, and of how your hum got louder when you pressed your ears shut."
   },
@@ -870,7 +870,7 @@
        ]
       }
      ],
-     "think": "Is a room ever truly silent?",
+     "think": "At step 1 you heard nothing, yet the phone was making sound. Could a room that seems silent to you still have sound in it? Why?",
      "parent": "The cover that needs the most extra steps is the one that blocked the most. Which one wins can differ from home to home. A tight seal over the ear hole helps. Cupped hands leave gaps, and sound slips round them. Ask what your family found, not what the book says."
     }
    ],
@@ -1024,7 +1024,7 @@
      "do": "Play 20,000 hertz for a few seconds, then switch it off.",
      "say": "Most of us hear nothing now. Many phone speakers cannot play a note this high, so we cannot be sure. But a dog or a cat would hear a note like this easily.",
      "kid": "Do you hear anything? A dog or a cat could hear a note this high.",
-     "think": "What else in our home might make sounds too high for us?",
+     "think": "A dog can hear notes we cannot. Why might a dog, or a bat, need to hear very high sounds?",
      "parent": "If the speaker cannot play 20,000 hertz, it made no sound at all. The idea is still true: sounds above our band are real, and a dog hears them."
     }
    ],
@@ -1495,6 +1495,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this activity you check which sounds at home are loud enough to harm hearing over time, using one simple test.",
+   "problem": "Doctors use a simple test to tell if a place is too loud. Stand one arm's length from someone and talk in a normal voice. If you have to shout to be heard, the place is loud enough to harm ears over time.",
    "materials": [
     {
      "item": "a helper",
@@ -1567,6 +1568,7 @@
    "mins": 5,
    "days": 1,
    "context": "In this activity you feel the tiny tube that joins each ear to the back of your throat. It is why ears pop in a lift or on a ghat road.",
+   "problem": "Behind each eardrum there is a small space full of air. A thin tube joins that space to the back of your throat, and swallowing opens the tube. That is why your ears pop when you go up in a lift or drive up a hill.",
    "materials": [
     {
      "item": "a glass of water",
@@ -3050,7 +3052,7 @@
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "The teacher says there is something that is the ear of the ear and the mind of the mind. It is what hears through the ear.",
-    "link": "The ear passes on vibrations, and the hair cells send signals. But something in you hears. The Upanishad asks what that listener is, a question science has not answered."
+    "link": "The ear passes on vibrations, and the hair cells send signals. Yet science has not found what it is in you that does the hearing. The Upanishad asks about that listener."
    },
    {
     "source": "Udana 6.4, a Buddhist text from the Pali Canon: the blind men and the elephant",

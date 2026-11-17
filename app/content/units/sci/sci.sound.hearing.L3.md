@@ -1,7 +1,7 @@
 # Our ears: how we hear, how to protect hearing, and the sounds animals hear that we can't
 `sci.sound.hearing.L3`
 
-**Summary.** A phone can be playing music while you hear nothing at all. Every ear has a quietest sound it can catch, and softer sounds pass it by. Your ear works as a chain. The ear flap collects sound, the eardrum vibrates, three tiny bones pass the vibration on, and hair cells in the cochlea turn it into signals for the brain. People hear only a band of pitches, and the top of that band drops as we grow older. Loud sound can break hair cells, and in people they never grow back, so ears need protecting. Bats, moths, cats and dogs hear sounds too high for us, and elephants and pigeons hear sounds too low for us. Each of them hears what their own life needs.
+**Summary.** A phone can be playing music while you hear nothing at all. Every ear has a quietest sound it can catch, and you do not hear sounds softer than that. Your ear works as a chain. The ear flap collects sound, the eardrum vibrates, three tiny bones pass the vibration on, and hair cells in the cochlea turn it into signals for the brain. People hear only a band of pitches, and the top of that band drops as we grow older. Loud sound can break hair cells, and in people they never grow back, so ears need protecting. Bats, moths, cats and dogs hear sounds too high for us, and elephants and pigeons hear sounds too low for us. Each of them hears what their own life needs.
 
 **Intro.** *Try this. Play a song on a phone and turn the volume all the way down, but leave the song playing. Put the phone on a table across the room. Can you hear it? The song is playing, and the phone is sending out sound. So why can't you hear it?* Your ears catch only sounds that are loud enough, and only sounds of certain pitches. In this unit you find the quietest sound you can hear, and you test which ear covers block sound best. You follow a sound from your ear flap to your brain. You find out why very loud sounds can harm hearing for ever, and how to keep your ears safe. You also meet animals that hear sounds we never notice: bats, moths, elephants and more.
 
@@ -27,7 +27,7 @@
 - **Hertz**: The unit for counting vibrations each second. 1 hertz is one vibration in one second. *e.g.* A young child can hear from about 20 hertz up to about 20,000 hertz.
 - **Ultrasound**: Sound with a pitch too high for people to hear, above about 20,000 hertz. *e.g.* Many bats hunt with ultrasound calls.
 - **Infrasound**: Sound with a pitch too low for people to hear, below about 20 hertz. *e.g.* The lowest part of an elephant's rumble is infrasound.
-- **Quietest sound you can hear**: The softest sound that your ears can just catch. Scientists call it your hearing threshold. A sound softer than this reaches you, but you do not hear it. *e.g.* In the volume test, Kavya, a girl aged 9, heard the song first at volume step 2. Step 2 was her quietest sound at that distance.
+- **Quietest sound you can hear**: The softest sound that your ears can just catch. Scientists call it your hearing threshold. A sound softer than this reaches you, but you do not hear it. *e.g.* Turn a phone up one step at a time. If you first hear the song at step 2, then step 2 is your quietest sound at that distance.
 - **Decibel**: The unit for measuring how loud a sound is. A whisper is about 30 decibels. A mixer grinder is about 80 to 90 decibels. *e.g.* Sounds above about 85 decibels, heard for a long time, can harm hearing.
 - **Hearing loss**: When a person hears less than before, in one or both ears. It can come from age, illness or loud sound. *e.g.* Many grandparents find it harder to hear high sounds, like the 's' in words.
 - **Audiologist**: A trained person who tests hearing and helps people who hear less. *e.g.* An audiologist plays soft beeps through headphones and asks you to raise your hand at each one.
@@ -39,16 +39,16 @@
 **Definition:** Sound is a vibration of the air. The ear passes the vibration inwards from the eardrum to the cochlea, and hair cells there turn it into nerve signals for the brain.
 
 When a bell rings, it vibrates, and the air around it vibrates too. Your ear flap collects some of that vibrating air and sends it down the ear canal. At the end, the eardrum vibrates. The three tiny bones pass the vibration on to the cochlea. The bones make the push stronger, because the cochlea is full of liquid and liquid is harder to move than air. In the cochlea the liquid ripples, and the tufts on the hair cells bend. Each bend makes a hair cell send a signal along the auditory nerve. Only then does the brain make the sound you hear.
-- e.g. A pressure cooker whistle: vibrating steam, then air, eardrum, three bones, cochlea, hair cells, nerve, brain.
+- e.g. A pressure cooker whistle makes the steam and the air vibrate. The vibration then passes through your eardrum, the three tiny bones, the cochlea, the hair cells and the nerve, and your brain hears the whistle.
 - e.g. Your mother calling you from the kitchen reaches your brain through the same chain in much less than one second.
 ### The quietest sound you can hear · *defined*
 **Definition:** Every ear has a quietest sound it can catch, called the hearing threshold. A softer sound still reaches the ear, but it does not make a strong enough signal to be heard.
 
-In the volume test, the phone was playing at the lowest steps, but you heard nothing. The sound was there in the air. It was too soft for your hair cells to send a clear signal. When the volume went up, you heard it. Covering the ear raised the step you needed, because less sound got in. An audiologist tests hearing this way. They play soft beeps of different pitches and find the quietest one you hear for each pitch.
-- e.g. A ticking wall clock you can hear at night, but not in the day when the road is busy.
-- e.g. A child who hears a whisper from 3 metres away, while a grandparent needs the speaker to come closer.
+In the Quietest Sound experiment, you turned a phone up one step at a time from across the room. At the lowest steps the phone was playing, but you heard nothing. The sound was there in the air. It was too soft for your hair cells to send a clear signal. When the volume went up, you heard it. Covering the ear raised the step you needed, because less sound got in. An audiologist tests hearing this way. They play soft beeps of different pitches and find the quietest one you hear for each pitch.
+- e.g. At night the road is quiet, so you can hear a wall clock tick. In the day the road is noisy, and the tick is too soft to hear.
+- e.g. A child may hear a whisper from 3 metres away. A grandparent may need the speaker to come closer.
 ### Pitch, and the band of sounds people hear · *defined*
-**Definition:** Pitch depends on how many times each second a thing vibrates. People hear from about 20 to about 20,000 vibrations each second, called 20 to 20,000 hertz.
+**Definition:** Pitch depends on how many times each second a thing vibrates. People hear from about 20 to about 20,000 vibrations each second. This is written as 20 to 20,000 hertz.
 
 A big drum skin vibrates slowly and makes a low pitch. A small bell vibrates very fast and makes a high pitch. Young people hear from about 20 hertz up to about 20,000 hertz. Sounds above that are called ultrasound. Sounds below it are called infrasound. They are real sounds, but our hair cells do not respond to them. Different hair cells pick up different pitches. Those for high sounds sit near the start of the coil in the cochlea, and those for low sounds sit deep inside it.
 - e.g. A mosquito's whine is a few hundred hertz. You hear it well.
@@ -57,8 +57,8 @@ A big drum skin vibrates slowly and makes a low pitch. A small bell vibrates ver
 **Definition:** The hair cells for the highest pitches wear out first, so most people hear less of the top of the band as they grow older.
 
 High-pitch hair cells sit at the start of the cochlea, where every sound passes. Over many years, more of them stop working. A child may hear a tone of 17,000 hertz that most grown-ups over 40 cannot. Many grandparents hear deep voices well but miss high sounds, like the 's' and 'f' in words. So 'fifty' and 'sixty' can sound the same to them. Loud places and some illnesses make this happen sooner.
-- e.g. A grandmother who hears the temple drum but misses the microwave beep.
-- e.g. In the family pitch test, the children hear the tone for longer than the parents.
+- e.g. A grandmother may hear the low temple drum well, but miss the high beep of the microwave.
+- e.g. In the family pitch test, a tone rises higher and higher. The children usually keep hearing it after the parents have stopped.
 ### Loud sound and hair cells · *defined*
 **Definition:** Very loud sound, or loud sound for a long time, can bend and break hair cells. In people, broken hair cells never grow back.
 
@@ -66,11 +66,11 @@ Loudness is measured in decibels. Talking is about 60 decibels. Sounds above abo
 - e.g. If you must shout to be heard by someone an arm's length away, the place is loud enough to harm hearing over time.
 - e.g. Earphones at full volume for hours each day can cause hearing loss that lasts.
 ### Keeping your ears safe · *defined*
-**Definition:** You protect your hearing by keeping loud sound short, keeping away from its source, covering your ears, and never pushing anything into the ear canal.
+**Definition:** You protect your hearing by keeping loud sound short, staying away from the thing that makes it, covering your ears, and never pushing anything into the ear canal.
 
 Moving away from a loud sound helps a lot, because sound spreads out and gets weaker with distance. Covering the ears helps, and a cover that seals the ear hole helps most. With earphones, keep the volume low enough to hear someone talking next to you. Earwax keeps the canal clean and moves out by itself as you chew and talk. A cotton bud can push wax deeper or scratch the eardrum. Doctors say to put nothing in your ear, not a bud, a hairpin, a matchstick or oil. If an ear hurts, leaks or feels blocked, see a doctor.
-- e.g. Standing far back and pressing your ear flaps shut when crackers burst at Deepavali.
-- e.g. Wiping only the outside of the ear with a cloth after a bath.
+- e.g. At Deepavali, stand far back from the crackers and press your ear flaps shut when they burst.
+- e.g. After a bath, wipe only the outside of your ear with a cloth.
 ### Hearing through your bones · *defined*
 **Definition:** Vibrations can reach the cochlea through the bones of the head, without passing through the eardrum. This is called bone conduction.
 
@@ -96,7 +96,7 @@ A bat hears echoes of their own calls and knows where a moth is, how fast she fl
 - Loud sound for a long time causes hearing loss that lasts. *How we know:* The World Health Organization studies hearing all over the world. It says that more than a billion young people are at risk from loud music and noisy places.
 
 ## How we found out
-**Lazzaro Spallanzani in Italy, Louis Jurine in Switzerland, Georges Cuvier in France, and Donald Griffin and George Pierce in America, 1793 to 1794, and 1938.** In 1793, in Italy, Lazzaro Spallanzani wondered how bats fly at night without hitting anything. He covered the eyes of some bats, and they still flew around his room easily. In 1794 a Swiss surgeon, Louis Jurine, tried plugging bats' ears with wax instead. Now the bats bumped into walls. Spallanzani repeated the test and found the same. So hearing mattered. But nobody could hear any sound from the bats. The famous French scientist Georges Cuvier said bats must feel the air with the skin of their wings, by touch. Most people accepted that for more than a hundred years. Then in 1938, in America, a student named Donald Griffin brought bats to the physicist George Pierce. Pierce had built a machine that could pick up sounds too high for people to hear. When the bats flew in front of it, the machine was full of their calls. Bats call in ultrasound and listen to the echoes. Griffin later named this echolocation. The wrong idea came from one mistake: people thought that a sound they could not hear did not exist.  
+**Lazzaro Spallanzani in Italy, Louis Jurine in Switzerland, Georges Cuvier in France, and Donald Griffin and George Pierce in America, 1793 to 1794, and 1938.** In 1793, in Italy, Lazzaro Spallanzani wondered how bats fly at night without hitting anything. He covered the eyes of some bats, and they still flew around his room easily. In 1794 a Swiss surgeon, Louis Jurine, tried plugging bats' ears with wax instead. Now the bats bumped into walls. Spallanzani repeated the test and found the same. So hearing mattered. But nobody could hear any sound from the bats. The famous French scientist Georges Cuvier said bats must feel the air with the skin of their wings, by touch. Most people accepted that for more than a hundred years. Then in 1938, in America, a student named Donald Griffin brought bats to the physicist George Pierce. Pierce had built a machine that could pick up sounds too high for people to hear. When the bats flew in front of it, the machine picked up their calls, one after another. Bats call in ultrasound and listen to the echoes. Griffin later named this echolocation. The wrong idea came from one mistake: people thought that a sound they could not hear did not exist.  
 *What people believed before:* Bats find their way by touch, feeling the air with their wings. Jurine's wax plugs showed that bats need their ears. Pierce's machine showed that bats make sounds too high for people to hear, and use the echoes to find their way.
 
 ## Challenging perspectives
@@ -119,19 +119,19 @@ A bat hears echoes of their own calls and knows where a moth is, how fast she fl
 ## Roots
 We have been learning how the ear catches sound, how to protect it, and which sounds other animals hear. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** At the lowest volume steps, the phone was playing, yet you heard nothing. The sound reached your ears, but it was too soft for them to catch. Bats, cats and elephants catch sounds that human ears miss. So a room that seems silent to you still has sounds in it.  
+**Deep truth.** In the Quietest Sound experiment, the phone was playing at the lowest volume steps, yet you heard nothing. The sound reached your ears, but it was too soft for them to catch. Bats, cats and elephants catch sounds that human ears miss. So a room that seems silent to you still has sounds in it.  
 *Habit it breaks:* We say a room is 'silent' when we hear nothing, as if no sound were there. But silent only tells us about our own ears. The same room can be full of sound for a cat, a bat or a mouse.  
-*Evidence:* In the volume test, the phone was playing at step 1, but nobody heard it until a higher step. In the pitch test, a 20,000 hertz note is above what most people hear, and a dog would hear the note easily.
+*Evidence:* In the Quietest Sound experiment, the phone was playing at step 1, but nobody heard it until a higher step. In the family pitch test, a 20,000 hertz note is above what most people hear, but a dog would hear it easily.
 
-- *who am i:* You are a listener with your own band of hearing. Your ears catch some sounds and miss others, and your band changes as you grow.
+- *who am i:* You are a listener who hears only some of the sounds around you. Your ears catch some sounds and miss others, and what you can hear changes as you grow older.
 - *what is life:* Every creature hears what their own life needs. A moth hears the bat, a cat hears the mouse, and an elephant hears the herd far away.
 - *what is this world:* The world is full of vibrations, far more than any one creature hears. Each listener hears their own part of it.
 
 One room holds one set of vibrations. A child, a grandfather, a cat and a mouse in that room each hear a different part of them. None of them hears all of it, and each hears what matters for their life.
 
-- **Kena Upanishad 1.2:** The teacher says there is something that is the ear of the ear and the mind of the mind. It is what hears through the ear. (The ear passes on vibrations, and the hair cells send signals. But something in you hears. The Upanishad asks what that listener is, a question science has not answered.)
+- **Kena Upanishad 1.2:** The teacher says there is something that is the ear of the ear and the mind of the mind. It is what hears through the ear. (The ear passes on vibrations, and the hair cells send signals. Yet science has not found what it is in you that does the hearing. The Upanishad asks about that listener.)
 - **Udana 6.4, a Buddhist text from the Pali Canon: the blind men and the elephant:** Some blind men each touch one part of an elephant. One feels the ear and says an elephant is like a winnowing basket. One feels the leg and says it is like a pillar. Each is sure he alone is right. (A person, a bat and an elephant each hear one band of the sounds in the same forest. Each band is real, and none is the whole.)
-- **John Cage, Silence, 1961:** The composer John Cage sat in a room built to block all sound. He still heard two sounds, from his own body. He wrote that there is no such thing as empty time or empty space: there is always something to hear. (In the volume test you found that a room can be playing sound while you hear nothing. Cage found that even the quietest room still has sound.)
+- **John Cage, Silence, 1961:** The composer John Cage sat in a room built to block all sound. He still heard two sounds, from his own body. He wrote that there is no such thing as empty time or empty space: there is always something to hear. (In the Quietest Sound experiment you found that a phone can be playing sound in a room while you hear nothing. Cage found that even the quietest room still has sound.)
 - Science (settled): People hear from about 20 to 20,000 hertz. Bats, mice, cats and moths hear far above that, and elephants and pigeons hear below it.
 - Science (open): What hearing is like from the inside, for a person or a bat, is still an open question for science and philosophy.
 - Other view, Some philosophers: A sound is the experience of hearing. Vibrations nobody hears are only vibrations, not sounds. On this view, an empty forest at night has movement in the air, but no sound until someone listens.
@@ -141,9 +141,9 @@ One room holds one set of vibrations. A child, a grandfather, a cat and a mouse 
 - Ask: As your hearing changes over your life, is the world changing, or are you?
 
 ## Deep and big questions
-- *deep:* When the phone played at the lowest volume and you heard nothing, was there a sound in the room or not? (hint: Think about what the phone was doing, and what your ears were doing.)
+- *deep:* A phone plays at its lowest volume and you hear nothing. Is there a sound in the room or not? (hint: Think about what the phone was doing, and what your ears were doing.)
 - *big:* A dog hears a whistle that you cannot. Which of you hears the room as it really is? (hint: Could there be a creature that hears every sound? What would that be like?)
-- *deep:* Your voice sounds different to you than to everyone else. Which one is your real voice? (hint: Remember the recording, and the humming test with your ears shut.)
+- *deep:* Your voice sounds different to you than it does to everyone else. Which one is your real voice? (hint: Think of the recording of your voice, and of how your hum got louder when you pressed your ears shut.)
 - *big:* If a forest is full of bat calls that no person can hear, is the forest noisy or quiet? (hint: Who is the forest quiet for?)
 - *big:* What would your day be like if you heard everything a bat hears? (hint: Think about the fan, the phone charger, the mice and the bats at night.)
 
@@ -202,16 +202,16 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 
 ## Games
 ### g1 · Who Hears It? A card game of sounds and listeners (20 min)
-- **rules:** Shuffle the listener cards. Each player takes two and puts them face up. Playing alone, take all eight. With 3 players, put the 2 extra cards aside.; Make a pile of the sound cards with the sound side up and the answer side hidden. On paper, write each player's name and a column for points.; Turn over the top sound card and read it out. Don't look at the back yet.; Each player says, for each of their two listeners, 'hears it' or 'does not hear it'.; Turn the card over and read the answer. Each listener you got right scores 1 point.; For 1 bonus point, say how hearing this sound helps one animal that hears this sound. For example, a moth hears a bat and dives away.; Play until all 10 sound cards are used. The highest score wins. If scores are equal, those players share the win.
-- **Printable cards: 8 listener cards (each shows which bands of pitch they hear):** A child: MIDDLE (all the sounds people hear); A grandparent: MIDDLE, but often not the very top of it; An elephant: VERY LOW and the lower part of MIDDLE; A pigeon: VERY LOW and the lower part of MIDDLE; A dog: MIDDLE and HIGH; A cat: MIDDLE, HIGH and VERY HIGH; A mouse: MIDDLE, HIGH and VERY HIGH; A moth: HIGH only, the band where bats call
-- **Printable cards: 10 sound cards (the answer is on the back):** A veena string being plucked (back: MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.); A mosquito whining near your ear (back: MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.); A pressure cooker whistling (back: MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.); A temple bell (back: MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.); A tone of 17,000 hertz (back: The very top of MIDDLE. Heard by: child, dog, cat, mouse. Not heard by: grandparent, elephant, pigeon, moth.); The lowest part of an elephant's rumble (back: VERY LOW. Heard by: elephant, pigeon. Not heard by: child, grandparent, dog, cat, mouse, moth.); The lowest rumble of a far-away storm (back: VERY LOW. Heard by: elephant, pigeon. Not heard by: child, grandparent, dog, cat, mouse, moth.); A dog whistle (back: HIGH. Heard by: dog, cat, mouse, moth. Not heard by: child, grandparent, elephant, pigeon.); A bat hunting a moth (back: HIGH. Heard by: dog, cat, mouse, moth. Not heard by: child, grandparent, elephant, pigeon.); A baby mouse calling for their mother (back: VERY HIGH. Heard by: cat, mouse. Not heard by: child, grandparent, elephant, pigeon, dog, moth.)
+- **rules:** Shuffle the listener cards. Each player takes two and puts them face up. Playing alone, take all eight. With 3 players, put the 2 extra cards aside.; Make a pile of the sound cards with the sound side up and the answer side hidden. On paper, write each player's name and a column for points.; Turn over the top sound card and read it out. Don't look at the back yet.; Each player says, for each of their two listeners, 'hears it' or 'does not hear it'.; Turn the card over and read the answer. Each listener you got right scores 1 point.; For 1 bonus point, name one animal that hears this sound and say how hearing it helps them. For example, a moth hears a bat and dives away.; Play until all 10 sound cards are used. The highest score wins. If scores are equal, those players share the win.
+- **Printable cards: 8 listener cards (each shows which bands of pitch they hear):** A child: MIDDLE (all the sounds people hear); A grandparent: MIDDLE, but often not the very top of it; An elephant: VERY LOW and the lower part of MIDDLE [picture]; A pigeon: VERY LOW and the lower part of MIDDLE [picture]; A dog: MIDDLE and HIGH [picture]; A cat: MIDDLE, HIGH and VERY HIGH [picture]; A mouse: MIDDLE, HIGH and VERY HIGH [picture]; A moth: HIGH only, the band where bats call [picture]
+- **Printable cards: 10 sound cards (the answer is on the back):** A veena string being plucked (back: MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.); A mosquito whining near your ear (back: MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.) [picture]; A pressure cooker whistling (back: MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.); A temple bell (back: MIDDLE. Heard by: child, grandparent, elephant, pigeon, dog, cat, mouse. Not heard by: moth.); A tone of 17,000 hertz (back: The very top of MIDDLE. Heard by: child, dog, cat, mouse. Not heard by: grandparent, elephant, pigeon, moth.); The lowest part of an elephant's rumble (back: VERY LOW. Heard by: elephant, pigeon. Not heard by: child, grandparent, dog, cat, mouse, moth.); The lowest rumble of a far-away storm (back: VERY LOW. Heard by: elephant, pigeon. Not heard by: child, grandparent, dog, cat, mouse, moth.); A dog whistle (back: HIGH. Heard by: dog, cat, mouse, moth. Not heard by: child, grandparent, elephant, pigeon.); A bat hunting a moth (back: HIGH. Heard by: dog, cat, mouse, moth. Not heard by: child, grandparent, elephant, pigeon.); A baby mouse calling for their mother (back: VERY HIGH. Heard by: cat, mouse. Not heard by: child, grandparent, elephant, pigeon, dog, moth.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Write the four bands on a sheet of paper where everyone can see it: VERY LOW is below 20 hertz. MIDDLE is 20 to 20,000 hertz, what people hear. HIGH is 20,000 to 60,000. VERY HIGH is above 60,000.  
   *Parent says:* People hear only the middle band. Some animals hear lower, and some hear higher.  
   *Child mode:* Pick two listener cards. Look at their bands.
 - **s2 (12 min)**  
-  *Parent does:* Play the rounds. After each card, ask why.  
-  *Parent says:* A bat hunting a moth. Which of your listeners can hear it? Why does the moth need to?  
+  *Parent does:* Play the rounds. After each sound card, ask why a listener needs to hear that sound.  
+  *Parent says:* This card says: a bat hunting a moth. Which of your listeners can hear it? Why does the moth need to hear it?  
   *Child mode:* Read the sound card. Can your listeners hear it? Say why.
   - Ask: Why does a moth need to hear bats? (good: So she can dive away before the bat catches her.; Because bats hunt moths at night.)
   - Ask: Why does an elephant hear very low sounds? (good: Other elephants call with low rumbles from far away.; So the herd can stay together.)
@@ -221,7 +221,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Add up your points. Did anyone hear every sound?
   - Check: Which creature in the game could hear a baby mouse calling for their mother? → **A cat**
 ### g2 · The Ear Road: a board game from ear flap to brain (20 min)
-- **rules:** Each player puts a counter on square 1, the ear flap. Shuffle the ear cards and put them face down in a pile.; Take turns to roll a dice and move that many squares. With no dice, write 1 to 6 on six paper slips and pick one without looking.; Read out the name of the ear part you land on, and what it does.; When you land on a square marked STAR, take the top ear card and do what it says. Question cards: a grown-up reads the answer from the back. If you move by a card, you do not take another card.; Moving back never takes you before square 1. If you must miss a turn, your counter stays where it is.; When the pile is empty, shuffle the used cards and make a new pile.; The first player to reach or pass square 24, the brain, wins. Everyone else can keep going to see who comes second.
+- **rules:** Each player puts a counter on square 1, the ear flap. Shuffle the ear cards and put them face down in a pile.; Take turns to roll a dice and move that many squares. With no dice, write 1 to 6 on six paper slips and pick one without looking.; Read out the name of the ear part you land on, and what it does.; When you land on a square marked STAR, take the top ear card and do what it says. For a question card, a grown-up checks your answer against the back of the card. If a card moves you, you do not take another card, even if you land on a STAR.; Moving back never takes you before square 1. If you must miss a turn, your counter stays where it is.; When the pile is empty, shuffle the used cards and make a new pile.; The first player to reach or pass square 24, the brain, wins. Everyone else can keep going to see who comes second.
 - **Printable board: A path of 24 squares from the ear flap to the brain:** Square 1: Ear flap: start. The ear flap collects sound.; Square 2: Ear flap: it collects sound and sends it into the ear hole.; Square 3: Ear flap: its curves help it catch sound.; Square 4: Ear flap (STAR): take an ear card.; Square 5: Ear canal: the short tube to the eardrum.; Square 6: Ear canal: earwax in the walls traps dust.; Square 7: Ear canal: sound travels along it.; Square 8: Ear canal (STAR): take an ear card.; Square 9: Eardrum: a thin tight skin that vibrates when sound reaches it.; Square 10: Hammer: the first tiny bone. It takes the vibration from the eardrum.; Square 11: Anvil: the middle tiny bone. It passes the vibration on.; Square 12: Stirrup (STAR): the smallest bone in the body. Take an ear card.; Square 13: Three tiny bones: they push the vibration into the cochlea.; Square 14: Cochlea: a coiled tube, full of liquid.; Square 15: Cochlea: the liquid ripples as the vibration arrives.; Square 16: Cochlea (STAR): take an ear card.; Square 17: Cochlea: the ripples reach the hair cells.; Square 18: Hair cells: their tufts bend in the ripples.; Square 19: Hair cells: each bend makes a signal.; Square 20: Hair cells (STAR): they never grow back in people. Take an ear card.; Square 21: Auditory nerve: it carries the signals.; Square 22: Auditory nerve: the signals race along it.; Square 23: Auditory nerve: nearly there.; Square 24: Brain: the finish. The brain makes the sound you hear.
 - **Printable cards: 16 ear cards:** You stand far back from the crackers. Move 2 forward.; You poke a cotton bud deep in your ear. Move 3 back.; You turn your earphones down so you can hear someone talking next to you. Move 2 forward.; You shout over the mixer instead of shutting the door. Move 1 back.; Your ears ring after a loud band. Miss a turn to let them rest.; Question: what does earwax do? Answer right to move 2 forward. (back: It traps dust and keeps the ear canal healthy. It moves out on its own.); Question: which part vibrates first in the ear? Answer right to move 2 forward. (back: The eardrum.); Question: name the three tiny bones. Answer right to move 2 forward. (back: The hammer, the anvil and the stirrup.); Question: why do your ears pop on a ghat road? Answer right to move 2 forward. (back: The air outside gets thinner. Swallowing opens the tube to your throat and evens out the air on both sides of the eardrum.); Question: do hair cells in people grow back? Answer right to move 2 forward. (back: No. Birds can grow new ones, but people cannot.); You press your ear flaps shut when a truck honks. Move 1 forward.; You push a hairpin into your ear. Move 3 back.; You see a doctor when your ear hurts. Move 2 forward.; Question: name an animal that hears ultrasound. Answer right to move 2 forward. (back: A bat, a moth, a mouse, a cat or a dog.); Question: what is pitch? Answer right to move 2 forward. (back: How high or low a sound is. Faster vibration makes a higher pitch.); You face a grandparent and speak clearly. Move 1 forward.
 - **Printable tokens: Counters:** Not printed: each player picks a small thing from home, such as a coin, a button, a bead or a bottle cap
@@ -230,7 +230,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Parent says:* Your counter is a sound. It has to travel all the way to the brain.  
   *Child mode:* Put your counter on the ear flap. You are a sound!
 - **s2 (14 min)**  
-  *Parent does:* Play. At each part, the player says what it does.  
+  *Parent does:* Play the game. On each square, the player says what that ear part does.  
   *Parent says:* You landed on the eardrum. What does it do?  
   *Child mode:* Say the part you landed on. What does it do?
   - Ask: What happens at the cochlea? (good: Hair cells bend and send signals to the brain.)
@@ -242,9 +242,9 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 
 ## Experiments
 ### e1 · The Quietest Sound: which ear cover blocks the most? (30 min)
-- **question:** Which ear cover blocks the most sound: cupped hands, a thick folded towel, or the small ear flaps pressed shut with a fingertip?
-- **predict:** Guess first. Which cover will block the most sound: cupped hands, a folded towel, or pressing the small flaps shut? Which will block the least? Why do you think so?
-- **fair test:** Keep everything the same except the ear cover: the same phone, the same song, the same distance of 3 metres, the same quiet room, the same listener. The helper turns the volume up one step at a time, slowly and evenly. The listener keeps their eyes shut so they can't see the phone. Try each cover twice, because one try can be a fluke.
+- **question:** Which ear cover blocks the most sound: cupped hands, a thick folded towel, or the small flap in front of each ear hole pressed shut with a fingertip?
+- **predict:** Guess first. Which cover will block the most sound: cupped hands, a folded towel, or the small flap in front of each ear hole pressed shut? Which will block the least? Why do you think so?
+- **fair test:** Keep everything the same except the ear cover: the same phone, the same song, the same distance of 3 metres, the same quiet room, the same listener. The helper turns the volume up one step at a time, slowly and evenly. The listener keeps their eyes shut so they can't see the phone. Try each cover twice, because one try can go wrong by chance.
 - **safety:** Turn the volume back to zero before the listener takes any cover off. Press only the small flap in front of the ear hole.
 - **record:** Fill in the table. Then draw one bar for each ear cover, as tall as the volume step it needed.
 - **results table:** Ear cover | Volume step when first heard (try 1) | Try 2 | How many steps more than open ears?
@@ -267,20 +267,20 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Parent does:* 1. Now test each ear cover the same way, twice each. 2. Cupped hands: palms held over both ear flaps. 3. Towel: folded thick and held over both ears with both hands. 4. Ear flaps: press the small flap in front of each ear hole shut with a fingertip. 5. Write each step in the table.  
   *Parent says:* Same phone, same place, same song. Only the ear cover changes. Raise your hand when you hear it.  
   *Child mode:* Cover your ears the new way. Shut your eyes. Raise your hand when you hear it.
-  - Note: Show the small flap: it is the bump of cartilage just in front of the ear hole. Pushing it back over the hole closes the hole without putting anything inside. If the listener cannot hear the song even at full volume with a cover, write 'more than full' and move closer for every test.
+  - Note: Show the small flap: it is the bump of cartilage just in front of the ear hole. Pushing it back over the hole closes the hole without putting anything inside. If the listener cannot hear the song even at full volume with a cover, write 'more than full'. Then move the chair closer and do every test again from there.
 - **s5 (4 min)**  
   *Parent does:* 1. For each cover, take away the open-ears step from its step. 2. Write the difference in the last column.  
   *Parent says:* Which cover needed the most extra steps? That one blocked the most sound. Was your guess right?  
   *Child mode:* Which cover needed the most steps? That one blocked most. Were you right?
-  - Check: Meera, a girl in Class 3, heard the song at step 2 with open ears and at step 7 with her ear flaps pressed shut. What does that tell you? → **Pressing the flaps blocked sound, so she needed a louder song to hear it**
+  - Check: A listener heard the song at step 2 with open ears and at step 7 with the ear flaps pressed shut. What does that tell you? → **Pressing the flaps blocked sound, so the listener needed a louder song to hear it**
 - **s6 (5 min)**  
-  *Parent does:* Talk about the results. Then go back to step 1 of the volume, with the song still playing and ears open.  
+  *Parent does:* Talk about the results. Then set the phone to volume step 1, with the song still playing and the listener's ears open.  
   *Parent says:* Look. At step 1 the song is playing, but you can't hear it. What is happening to that sound?  
   *Child mode:* The song plays at step 1. You can't hear it. Where is the sound going?
   - Ask: Why did one cover block more than another? (good: It closed the ear hole, so sound couldn't get in round the edges.; Hands leave gaps, and sound goes through gaps.)
   - Ask: At step 1, is there sound in the room? (good: Yes, the phone is making sound, but it is too soft for my ears.; Yes. If the volume went up, it would reach my ears.)
   - Note: The cover that needs the most extra steps is the one that blocked the most. Which one wins can differ from home to home. A tight seal over the ear hole helps. Cupped hands leave gaps, and sound slips round them. Ask what your family found, not what the book says.
-  - Think: Is a room ever truly silent?
+  - Think: At step 1 you heard nothing, yet the phone was making sound. Could a room that seems silent to you still have sound in it? Why?
 ### e2 · Who Hears the Highest Note? A family pitch test (25 min)
 - **question:** Who in our family can hear the highest pitch: the children or the grown-ups?
 - **predict:** Guess first. Who in your family will hear the highest note? Who will stop hearing it first? Why do you think so?
@@ -289,8 +289,8 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **record:** Write each person's name, age and the highest pitch they heard. Put them in order from the highest to the lowest.
 - **results table:** Person and age | Highest pitch heard, in hertz (try 1) | Try 2
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Open the tone generator. 2. Set it to 1,000 hertz. 3. Set the volume to a comfortable talking level. 4. Put the phone on a table 1 metre from where everyone sits.  
-  *Parent says:* This plays one pure note. The number is how many times each second the speaker vibrates. Let's hear 1,000 first.  
+  *Parent does:* 1. Open a free tone generator in the phone's browser. 2. Set it to 1,000 hertz. 3. Set the volume to a comfortable talking level. 4. Put the phone on a table 1 metre from where everyone sits.  
+  *Parent says:* The tone generator plays one pure note. The number is how many times each second the speaker vibrates. Let's hear 1,000 hertz first.  
   *Child mode:* Listen to the note. The speaker vibrates 1,000 times a second. Is it high or low?
   - Note: Use the device's own speaker, not earphones. Leave the volume at this level for the whole test. Higher notes can sound sharp, so keep it moderate.
 - **s2 (3 min)**  
@@ -307,40 +307,40 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Parent does:* Put everyone in order from the highest pitch heard to the lowest. Look for a pattern with age.  
   *Parent says:* Who heard the highest? Who stopped first? Do you see a pattern with age?  
   *Child mode:* Who heard the highest note? Is there a pattern with age?
-  - Check: Meenakshi, aged 8, hears the note up to 18,000 hertz. Her grandmother stops at 9,000. Why? → **Hair cells for the highest pitches wear out first as people grow older**
+  - Check: A child aged 8 hears the note up to 18,000 hertz. The child's grandmother stops hearing it at 9,000 hertz. Why? → **Hair cells for the highest pitches wear out first as people grow older**
 - **s5 (3 min)**  
   *Parent does:* Play 20,000 hertz for a few seconds, then switch it off.  
   *Parent says:* Most of us hear nothing now. Many phone speakers cannot play a note this high, so we cannot be sure. But a dog or a cat would hear a note like this easily.  
   *Child mode:* Do you hear anything? A dog or a cat could hear a note this high.
-  - Note: If the speaker cannot play 20,000 hertz, nothing was made at all. The idea still holds: sounds above our band are real, and a dog hears them.
-  - Think: What else in our home might make sounds too high for us?
+  - Note: If the speaker cannot play 20,000 hertz, it made no sound at all. The idea is still true: sounds above our band are real, and a dog hears them.
+  - Think: A dog can hear notes we cannot. Why might a dog, or a bat, need to hear very high sounds?
 ### e3 · Through the Door: do low or high sounds pass better? (20 min)
 - **question:** When a door is shut, does a low note or a high note get through better?
 - **predict:** Guess first. Behind a shut door, will the low note or the high note sound quieter? Why do you think so?
 - **fair test:** Use the same phone, the same volume and the same place for both notes. Listen from the same spot, first with the door open, then shut. Only the pitch and the door change.
 - **safety:** Keep the volume at a comfortable talking level. Don't hold the phone near anyone's ear.
 - **record:** Fill in the table. Circle the note that lost more loudness when the door shut.
-- **results table:** Note | Door open: how loud (3 big, 2 medium, 1 soft, 0 nothing) | Door shut: how loud | How much quieter?
+- **results table:** Note | Door open: how loud (3 loud, 2 medium, 1 soft, 0 nothing) | Door shut: how loud | How much quieter?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the phone on a table inside the room. 2. Set the volume to a comfortable level. 3. Stand outside, 2 metres from the open door.  
   *Parent says:* We will play a low note and a high note. First, guess: which will the door block more? Why do you think so?  
   *Child mode:* Guess. Will the door block the low note or the high note more? Why?
 - **s2 (7 min)**  
   *Parent does:* 1. The helper sets the phone to 200 hertz inside the room, presses play and steps out, leaving the door open. 2. Score how loud it sounds from outside with the door open. 3. The helper shuts the door. Score it again from the same spot. 4. Open the door, stop the note, and do the same with 4,000 hertz.  
-  *Parent says:* Score it: 3 for big, 2 for medium, 1 for soft, 0 for nothing.  
+  *Parent says:* Score it: 3 for loud, 2 for medium, 1 for soft, 0 for nothing.  
   *Child mode:* Listen. Give it a score from 0 to 3. Now the door shuts. Score it again.
   - Note: The helper must not change the volume between notes. Low notes often sound softer than high notes at the same volume, because ears are less sensitive to them. That is why we compare how much each note drops when the door shuts. Phone speakers play low notes weakly. If 200 hertz is barely there with the door open, try 400 hertz, or use a laptop. Scores are guesses, so the result is only a rough sign.
 - **s3 (5 min)**  
   *Parent does:* Work out how much each note dropped.  
   *Parent says:* Which note dropped more when the door shut?  
   *Child mode:* Which note lost more when the door shut?
-  - Check: Ibemhal, a girl in Class 4 in Imphal, hears her neighbour's music through the wall. She hears the drum beat but not the words. Why? → **Walls and doors block high sounds more than low sounds**
+  - Check: You hear a neighbour's music through the wall. You hear the drum beat but not the words. Why? → **Walls and doors block high sounds more than low sounds**
 - **s4 (5 min)**  
   *Parent does:* Talk about elephants.  
   *Parent says:* Elephants call with very low rumbles. Why might low sounds be useful for a herd spread across a forest?  
-  *Child mode:* Elephants rumble very low. Why is low good in a big forest?
+  *Child mode:* Elephants rumble very low. Why is a low sound useful in a big forest?
   - Ask: Why might low rumbles help an elephant herd? (good: Low sounds pass through trees and travel far.; The herd can stay in touch from far away.)
-  - Note: In your test the high note usually drops more. If both dropped the same, the door may have a big gap. Try a heavier door.
+  - Note: In the door test, the high note usually drops more. If both dropped the same, the door may have a big gap. Try a heavier door.
 
 ## Activities
 ### a1 · Hum With Your Ears Shut (6 min)
@@ -372,11 +372,11 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Listen. Is that your voice? Ask a grown-up if it sounds like you.
   - Ask: What is different about your recorded voice? (good: It sounds higher.; It sounds thinner.; It doesn't sound like me.)
 - **s3 (2 min)**  
-  *Parent does:* Explain why, after the child has said what they noticed.  
+  *Parent does:* After the child has said what they noticed, explain why the recording sounds different.  
   *Parent says:* When you talk, you hear yourself through the air and through the bones of your head. The bones carry the low parts best. Everyone else hears only the air part.  
   *Child mode:* You hear yourself through your bones too. Others hear only the air part.
 ### a3 · Turn Your Ears Like a Cat (8 min)
-- **record:** Draw your hands for the way that made the sound in front loudest, and the way that made a sound behind you loudest.
+- **record:** Draw how you held your hands when the sound in front was loudest, and how you held them when the sound behind you was loudest.
 - **s1 (3 min)**  
   *Parent does:* 1. Stand facing the fan or phone, 2 metres away. 2. Listen. 3. Cup both hands behind your ear flaps, fingers together, and listen again.  
   *Parent says:* Listen to the fan. Now cup your hands behind your ears. Is it louder, quieter or the same?  
@@ -389,8 +389,8 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **s3 (2 min)**  
   *Parent does:* Talk about cats.  
   *Parent says:* A cat can turn each ear flap separately, without moving the head. Why would that help a cat who hunts mice?  
-  *Child mode:* A cat turns each ear on their own. Why does that help catch a mouse?
-  - Ask: How does turning ears help a cat? (good: They can hear a mouse rustling and find which way it is.; They can listen in two directions at once.)
+  *Child mode:* A cat can turn each ear separately. Why does that help catch a mouse?
+  - Ask: How does turning ears help a cat? (good: They can hear a mouse rustling and find which way the mouse is.; They can listen in two directions at once.)
 ### a4 · Build a Model Ear (20 min)
 - **safety:** A grown-up helps with scissors.
 - **record:** Label each part and write one line about what it does.
@@ -402,7 +402,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Parent does:* 1. Stretch the balloon piece over the other end of the tube. 2. Hold it with a rubber band.  
   *Parent says:* This is the eardrum. Tap the tube and feel it vibrate.  
   *Child mode:* Stretch the balloon over the end. That is your eardrum.
-  - Note: If you sprinkle a few grains of salt on the eardrum and shout into the flap, they may jump. It is a bonus, not a must.
+  - Note: If you sprinkle a few grains of salt on the balloon eardrum and shout into the flap, the grains may jump. This is an extra, and you can skip it.
 - **s3 (5 min)**  
   *Parent does:* 1. Tape the tube onto the rest of the chart paper. 2. Glue the three small things in a row behind the eardrum. 3. Coil the wool like a snail shell next to them.  
   *Parent says:* These are the hammer, the anvil and the stirrup. The coil is the cochlea.  
@@ -414,10 +414,11 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Label each part. Tell the journey of a sound out loud.
   - Check: Which part turns the vibration into signals for the brain? → **The hair cells in the cochlea**
 ### a5 · The Arm's-Length Noise Check (15 min)
+- **problem:** Doctors use a simple test to tell if a place is too loud. Stand one arm's length from someone and talk in a normal voice. If you have to shout to be heard, the place is loud enough to harm ears over time.
 - **safety:** Don't stand close to a pressure cooker as it whistles. Stay away from anything hot.
 - **record:** Make two lists: 'normal voice is fine' and 'had to shout'.
 - **s1 (3 min)**  
-  *Parent does:* Explain the test.  
+  *Parent does:* Explain the arm's-length test.  
   *Parent says:* Here is a test doctors use. Stand one arm's length from someone. If you have to shout to be heard, the place is loud enough to harm ears over time.  
   *Child mode:* Stand an arm's length from a family member. Talk. Do you need to shout?
 - **s2 (9 min) · grown-up needed**  
@@ -431,6 +432,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Pick one loud thing. How can we keep our ears safe from it?
   - Ask: What can we change? (good: Shut the kitchen door when the mixer runs.; Turn the TV down.; Close the window in busy traffic.)
 ### a6 · Why Do Ears Pop? The tube to your throat (5 min)
+- **problem:** Behind each eardrum there is a small space full of air. A thin tube joins that space to the back of your throat, and swallowing opens the tube. That is why your ears pop when you go up in a lift or drive up a hill.
 - **safety:** Don't blow hard with your nose pinched. Swallowing gently is enough.
 - **record:** Write one sentence about when your ears have popped before.
 - **s1 (2 min)**  
@@ -439,7 +441,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Pinch your nose. Swallow some water. Feel a click?
   - Note: Not everyone feels a click the first time. Try once or twice more with another sip. If nothing happens, that is fine.
 - **s2 (3 min)**  
-  *Parent does:* Explain, after asking for ideas.  
+  *Parent does:* Ask what the click might be. Then explain.  
   *Parent says:* Behind each eardrum is a little space full of air. A thin tube joins it to your throat. When you swallow, the tube opens, and the air on both sides of the eardrum evens out.  
   *Child mode:* A tiny tube joins your ear to your throat. Swallowing opens it.
   - Ask: When have your ears popped? (good: In a lift.; Driving up the ghat road to Ooty.; In an aeroplane.)
@@ -456,7 +458,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Draw the table. Write each loud sound you hear today.
 - **s2 (24 min)**  
   *Parent does:* Keep the diary on days 2, 3 and 4. On day 4, add up the minutes for each day.  
-  *Parent says:* Remember the arm's-length test. Did we have to shout?  
+  *Parent says:* Use the arm's-length test: stand one arm's length apart and talk. Did we have to shout?  
   *Child mode:* Keep writing loud moments. Add up the minutes.
   - Note: Common entries: the mixer grinder, the pressure cooker, honking traffic, a loud TV, a festival loudspeaker.
   - Wait: Keep the diary for 3 more days
@@ -469,12 +471,12 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 ## Challenges
 ### c1 · Earmuffs for the Festival (35 min)
 - **problem:** At the Ganesh Chaturthi procession, the dhol-tasha drums and firecrackers are very loud. A 4-year-old child hates it. Design ear protectors from home things that block the most sound and are comfortable.
-- **your turn:** Design and build your own ear protectors. Test them with the volume test from the quietest sound experiment. How many steps more than open ears did they need?
+- **your turn:** Design and build your own ear protectors. Test them with the volume test from the Quietest Sound experiment. How many steps more than open ears did they need?
 - **constraints:** Use only things from home.; Nothing may go inside the ear canal.; It must stay on while walking.; It must not hurt.
 - **general:** Shop-bought earmuffs: hard cups with soft foam rims that seal around the ear flap.; Foam earplugs, for older children and grown-ups, rolled small and placed at the ear hole as the packet shows.; Standing further away, which works for everyone.
 - **creative:** Two plastic cups lined with a folded cloth, joined by a headband.; A thick woollen cap pulled down over the ears.; A shawl wrapped round the head, with folded cloth over each ear.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem. Remember the volume test.  
+  *Parent does:* Read the problem. Think back to the volume test in the Quietest Sound experiment, where you tested ear covers.  
   *Parent says:* In the volume test, which cover blocked the most? What made it good?  
   *Child mode:* Which cover worked best in the volume test? Why?
 - **s2 (5 min)**  
@@ -487,10 +489,10 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Build your earmuffs. Nothing goes inside the ear!
   - Note: Help with cutting. Check nothing is tight on the head.
 - **s4 (10 min)**  
-  *Parent does:* Set up the phone as in the quietest sound experiment: 3 metres from the chair, the same song. Test the ear protectors with the volume test, twice.  
+  *Parent does:* Set up the phone as in the Quietest Sound experiment: 3 metres from the chair, the same song. Test the ear protectors with the volume test, twice.  
   *Parent says:* Let's test. At which step do you hear the song now?  
   *Child mode:* Put them on. Shut your eyes. Raise your hand when you hear it.
-  - Check: Riya, a girl in Class 3, makes cup earmuffs that block 2 steps. A second pair, lined with cloth, blocks 4 steps. Why might the lining help? → **It fills the gaps, so less sound leaks round the edges**
+  - Check: One pair of cup earmuffs blocks 2 steps. A second pair, lined with cloth, blocks 4 steps. Why might the lining help? → **It fills the gaps, so less sound leaks round the edges**
 ### c2 · Talk So Someone Who Hears Less Can Hear (25 min)
 - **problem:** Many grandparents hear low sounds but miss high ones, like the 's' in 'six'. Shouting often makes it worse. Find the ways of talking that work best.
 - **your turn:** Choose the three ways that worked best in your test. Teach them to your family.
@@ -518,12 +520,12 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    **Answer:** ['ear flap', 'ear canal', 'eardrum', 'three tiny bones', 'cochlea', 'auditory nerve']. *Why:* The ear flap collects the sound, the ear canal leads it in, and the eardrum vibrates. The three tiny bones pass the vibration to the cochlea, where hair cells turn it into signals. The auditory nerve carries them to the brain.
 2. (match) Match each part of the ear to what it does.  
    **Answer:** Ear flap → collects sound; Eardrum → vibrates when sound reaches it; Three tiny bones → pass the vibration to the cochlea; Hair cells → turn the vibration into signals; Auditory nerve → carries the signals to the brain. *Why:* Each part does one job in a chain. A strong answer could also say what goes wrong if one part is missing.
-3. (mcq) In the volume test, Kavya, a girl aged 9, hears the song at step 2 with open ears. With cupped hands she hears it at step 3. What does the cupped-hands result tell you?  
+3. (mcq) In the volume test, a girl hears the song at step 2 with open ears. With cupped hands she hears it at step 3. What does the cupped-hands result tell you?  
    Options: Her hands blocked a little sound / Her hands made the phone quieter / Her hearing got better / The song changed  
    **Answer:** Her hands blocked a little sound. *Why:* The phone played the same at each step. Her hands let less sound into her ears, so the song had to be one step louder. Hands leave gaps, so they block only a little.
 4. (write) Write two things your family could do this week to keep everyone's ears safe. For each one, say how it protects hair cells.  
    **Answer:** For example: turn earphones down so a friend next to you can still talk, and shut the kitchen door while the mixer runs. Loud sound breaks hair cells, and distance, a shut door or low volume means less sound reaches them.. *Why:* A strong answer gives real changes for this family and links each one to hair cells.
-5. (truefalse) Farhan, a boy in Class 3, says, 'The stirrup is the biggest bone in the ear.' Is he right?  
+5. (truefalse) 'The stirrup is the biggest bone in the ear.' Is this right?  
    **Answer:** False. *Why:* False. The stirrup is the smallest of the three tiny bones, and the smallest bone in the whole body. It is about 3 millimetres long.
 6. (fill) How high or low a sound is, is called its ____.  
    **Answer:** ['pitch']. *Why:* Pitch depends on how fast something vibrates. Faster vibration makes a higher pitch.
@@ -547,11 +549,11 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    Options: The air outside gets thinner, and the tube to your throat opens to even out the air / The cold freezes the eardrum / Earwax melts / The road is noisy  
    **Answer:** The air outside gets thinner, and the tube to your throat opens to even out the air. *Why:* Higher up, the air pressure is lower. The air behind the eardrum pushes outwards until a swallow opens the tube to the throat and evens it out. That is the pop.
 15. (perspective) Two friends in Madurai are at a wedding with a very loud band.  
-   **Answer:** A strong answer agrees with Nandini, because having to shout at arm's length means the sound is loud enough to harm hearing over time, and hair cells don't grow back. It gives Divya her due: pain is a real warning sign, and a short time near loud music is not a disaster. But no pain doesn't mean no harm.. *Why:* Both have part of it. Pain is a warning, but harm can start below the level that hurts.
+   **Answer:** A strong answer agrees with the second child, because having to shout at arm's length means the sound is loud enough to harm hearing over time, and hair cells don't grow back. It gives the first child her due: pain is a real warning sign, and a short time near loud music is not a disaster. But no pain doesn't mean no harm.. *Why:* Both have part of it. Pain is a warning, but harm can start below the level that hurts.
 16. (fill) Sound that is too high for people to hear is called ____.  
    **Answer:** ['ultrasound']. *Why:* Ultra means beyond. Ultrasound is above about 20,000 hertz. Bats, dogs, cats and mice hear it.
 ### Sound Detective (stretch) (stretch, 16 questions)
-1. (mcq) Nithya, a girl in Class 4, tested ear covers. Her results in the volume test: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Which cover blocked the most?  
+1. (mcq) Here are the results of a volume test of ear covers: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Which cover blocked the most?  
    Options: Cupped hands / Towel / Ear flaps pressed shut / They all blocked the same  
    **Answer:** Ear flaps pressed shut. *Why:* The flaps needed 8 steps, 6 more than open ears, so they blocked the most. They seal the ear hole, while hands and towels leave gaps.
 2. (write) Why do you think pressing the ear flaps shut blocked more sound than cupping your hands?  
@@ -566,8 +568,8 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    **Answer:** Bat → hears echoes of their own ultrasound calls to find insects; Moth → hears bat calls and dives away; Elephant → hears low rumbles from herd members far away; Cat → hears the very high squeaks of mice; Cricket → hears with ears on her front legs. *Why:* Each animal hears the sounds their life depends on.
 7. (order) Sound has reached the cochlea. Put what happens next in order.  
    **Answer:** ['the liquid inside ripples', 'the tufts on the hair cells bend', 'the hair cells send signals along the nerve', 'the brain makes the sound you hear']. *Why:* The ripple bends the tufts, the bending makes the signal, and the nerve carries it to the brain.
-8. (perspective) Rekha's grandfather keeps the TV very loud. The family argues about what to do.  
-   **Answer:** A strong answer says Thatha probably hears low voices but not high ones, so he hears the deep newsreader but misses children's higher voices. It supports the mother: shouting makes voices higher and blurs them, while facing him and cutting noise helps, and an audiologist can test him. It gives Rekha credit for wanting to help quickly.. *Why:* Each person sees part of it. Thatha's own words are the best clue.
+8. (perspective) The first child's grandfather keeps the TV very loud. The family argues about what to do.  
+   **Answer:** A strong answer says Thatha probably hears low voices but not high ones, so he hears the deep newsreader but misses children's higher voices. It supports the mother: shouting makes voices higher and blurs them, while facing him and cutting noise helps, and an audiologist can test him. It gives the first child credit for wanting to help quickly.. *Why:* Each person sees part of it. Thatha's own words are the best clue.
 9. (mcq) Why does your recorded voice sound strange to you?  
    Options: The phone changes your voice / You normally hear yourself through the bones of your head too, which adds low sounds / Your voice is different in the morning / Phones only record high sounds  
    **Answer:** You normally hear yourself through the bones of your head too, which adds low sounds. *Why:* Other people hear only the air part of your voice. You also hear the bone part, which carries low sounds well. So you sound deeper to yourself than you really do to others.
@@ -593,7 +595,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    **Answer:** A strong answer says both are describing something real. The air is full of vibration, as the microphone shows, but it is too high for human ears, so for the woman it is quiet. It might say the forest is noisy for a bat and quiet for a person.. *Why:* There is no single answer. Whether a place is 'quiet' depends on who is listening.
 3. (write) Birds can grow new hair cells but people cannot. If scientists learn how birds do it, how might that help people?  
    **Answer:** It might one day help people with hearing loss grow new hair cells and hear again.. *Why:* A strong answer links the bird finding to people whose hair cells are broken.
-4. (mcq) In the door test, Sneha, a girl in Class 4, scored the low note 2 with the door open and 2 with it shut. She scored the high note 3 open and 1 shut. What do her results show?  
+4. (mcq) In the door test, a listener scored the low note 2 with the door open and 2 with it shut. The listener scored the high note 3 with the door open and 1 with it shut. What do these results show?  
    Options: The door blocked the high note more / The door blocked the low note more / The door blocked nothing / High notes are always quieter  
    **Answer:** The door blocked the high note more. *Why:* The low note did not drop at all. The high note dropped by 2. So the door blocked the high note more.
 5. (write) In 1794, Louis Jurine plugged bats' ears with wax and they bumped into walls. Why didn't this prove that bats make sounds?  
@@ -608,7 +610,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 9. (order) Put these sounds from lowest to highest pitch.  
    **Answer:** ["the lowest part of an elephant's rumble", "a child's voice", "a mosquito's whine", 'a dog whistle']. *Why:* The elephant's rumble is infrasound. A child's voice is a few hundred hertz. A mosquito's whine is a little higher. A dog whistle is ultrasound.
 10. (sort) Sort these: do they help someone with high-pitch hearing loss understand you?  
-   **Answer:** facing them → Helps; shouting → Does not help; turning off the fan → Helps; talking from another room → Does not help; speaking a little slower → Helps; covering your mouth → Does not help. *Why:* Facing and lip-reading, less background noise and slower speech help. Shouting makes the voice higher and blurrier, and covering your mouth hides your lips.
+   **Answer:** facing them → Helps; shouting → Does not help; turning off the fan → Helps; talking from another room → Does not help; speaking a little slower → Helps; covering your mouth → Does not help. *Why:* Facing the person so they can read your lips, less background noise and slower speech all help. Shouting makes the voice higher and blurrier, and covering your mouth hides your lips.
 11. (mcq) Why do the three tiny bones make the push stronger before it reaches the cochlea?  
    Options: The cochlea is full of liquid, which is harder to move than air / Bones are louder than skin / The brain needs the sound slower / The cochlea is very far away  
    **Answer:** The cochlea is full of liquid, which is harder to move than air. *Why:* Liquid is much harder to set moving than air. The bones collect the push from the large eardrum onto the tiny stirrup, making it strong enough to ripple the liquid.
@@ -634,7 +636,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 2. (mcq) Where are the hair cells that turn vibrations into signals?  
    Options: In the ear flap / In the cochlea / On the eardrum / In the ear canal  
    **Answer:** In the cochlea. *Why:* Hair cells line the cochlea, the snail-shaped tube deep inside the head. Picking 'ear canal' mixes up hair cells with the tiny hairs near the ear hole.
-3. (mcq) Priya, a girl in Class 3, turns a phone up one step at a time from across the room. Her brother first hears the song at step 3. What is step 3?  
+3. (mcq) A phone is turned up one step at a time from across the room. A boy first hears the song at step 3. What is step 3?  
    Options: The loudest sound he can hear / The quietest sound he can hear from there / The phone's broken step / The song's best part  
    **Answer:** The quietest sound he can hear from there. *Why:* Below step 3 the phone was playing, but too softly for him to catch. Step 3 is his quietest sound at that distance.
 4. (mcq) In a fair test of ear covers, what must change?  
@@ -643,8 +645,8 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 5. (mcq) Why can loud sound cause hearing loss that never gets better?  
    Options: It makes the ear canal smaller / It breaks hair cells, and in people they do not grow back / It melts earwax / It makes the ear flap stiff  
    **Answer:** It breaks hair cells, and in people they do not grow back. *Why:* Hair cells bend and break under loud sound. Birds can grow new ones, but people cannot, so the loss stays.
-6. (mcq) Anjali, a girl in Class 4, has to shout to be heard by her friend, an arm's length away. What does that tell her?  
-   Options: Her friend is not listening / The place is loud enough to harm hearing over time / She should talk faster / Nothing, shouting is normal  
+6. (mcq) You have to shout to be heard by a friend who is an arm's length away. What does that tell you?  
+   Options: Your friend is not listening / The place is loud enough to harm hearing over time / You should talk faster / Nothing, shouting is normal  
    **Answer:** The place is loud enough to harm hearing over time. *Why:* This is the arm's-length test. If you must shout at an arm's length, the sound is loud enough to harm hearing if you stay long.
 7. (mcq) What is the safest way to look after earwax?  
    Options: Clean it out with a cotton bud every day / Leave it, and wipe only the outside of the ear / Use a hairpin / Pour oil in every week  
@@ -711,9 +713,9 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - Why did the owl win hide and seek? *She heard everyone breathing.*
 
 ## Connected maths
-- In the volume test, Kavya, a girl aged 9, heard the song at step 2 with open ears and at step 8 with her ear flaps pressed shut. How many more steps did she need with the flaps shut? **6 more steps.**. 8 take away 2 is 6. So pressing the flaps shut made her need 6 more steps before she heard the song. (queues `math.addition-subtraction.mental-strategies.L3`)
-- Kavya, a girl aged 9, tested ear covers. Her results: open ears 2, cupped hands 3, towel 5, ear flaps shut 8. Draw a bar chart. Which cover blocked about twice as much as the towel did? **The ear flaps pressed shut.**. The towel needed 3 more steps than open ears (5 take away 2). The flaps needed 6 more (8 take away 2). 6 is twice 3. (queues `math.data.bar-charts.L3`)
-- In a family pitch test, Kavya (9) heard up to 18,000 hertz, her mother (38) up to 16,000, and her grandfather (70) up to 9,000. Put them in order and describe the pattern. Predict roughly where a 20-year-old cousin might stop. **Kavya, her mother, her grandfather. The older the person, the lower they stop. A 20-year-old might stop somewhere between 16,000 and 18,000 hertz.**. The numbers go down as age goes up. A 20-year-old is between Kavya and her mother in age, so a good guess is between their numbers. Real people vary, so it is only a prediction. (queues `math.number-sense.comparing-ordering.L3`)
+- In the volume test, a listener heard the song at step 2 with open ears and at step 8 with the ear flaps pressed shut. How many more steps did the listener need with the flaps shut? **6 more steps.**. 8 take away 2 is 6. So with the flaps pressed shut, the listener needed 6 more steps before hearing the song. (queues `math.addition-subtraction.mental-strategies.L3`)
+- Here are the results of a volume test of ear covers: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Draw a bar chart. Which cover blocked about twice as much as the towel did? **The ear flaps pressed shut.**. The towel needed 3 more steps than open ears (5 take away 2). The flaps needed 6 more (8 take away 2). 6 is twice 3. (queues `math.data.bar-charts.L3`)
+- In a family pitch test, a child aged 9 heard up to 18,000 hertz, her mother (38) up to 16,000, and her grandfather (70) up to 9,000. Put them in order and describe the pattern. Predict roughly where a 20-year-old cousin might stop. **The child, her mother, her grandfather. The older the person, the lower they stop. A 20-year-old might stop somewhere between 16,000 and 18,000 hertz.**. The numbers go down as age goes up. A 20-year-old is between the child and her mother in age, so a good guess is between their numbers. Real people vary, so it is only a prediction. (queues `math.number-sense.comparing-ordering.L3`)
 - In the noise diary, the mixer ran for 6 minutes in the morning and 4 in the evening, every day for 5 days. How many loud minutes is that in all? If the family shuts the kitchen door each time, how many loud minutes have they protected their ears from? **50 minutes.**. 6 plus 4 is 10 minutes a day. 10 minutes for 5 days is 50 minutes. Shutting the door each time protects their ears for all 50. (queues `math.multiplication.equal-groups.L3`)
 - A young child hears from 20 hertz to 20,000 hertz. A dog hears up to about 45,000 hertz. About how many times higher can the dog hear than the child? **A little more than 2 times.**. Two lots of 20,000 is 40,000, and 45,000 is a little more. So the dog hears a little over twice as high. (queues `math.multiplication.multiplication-facts.L3`)
 
