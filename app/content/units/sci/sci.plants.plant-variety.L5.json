@@ -37,7 +37,7 @@
   {
    "term": "Spore",
    "meaning": "A spore is one single cell that can grow into a new plant. Spores are far too small to see one by one, and carry almost no food. Ferns and mosses make spores.",
-   "example": "The brown dust that falls from the dots under a fern leaf is millions of spores.",
+   "example": "The brown dust that falls from the dots under a fern leaf is many thousands of spores.",
    "art": "A magnified view of a few round fern spores next to a grain of sugar for size."
   },
   {
@@ -124,7 +124,7 @@
    "concept": "The four big groups of land plants",
    "status": "defined",
    "definition": "Land plants fall into four big groups by how they make new plants and whether they have veins. Mosses (and their relatives the liverworts and hornworts) have no stiff veins and make spores. Ferns have veins and make spores. Conifers and cycads have veins and make naked seeds on cones. Flowering plants have veins and make seeds inside fruits.",
-   "description": "A key with three questions sorts almost any plant. Does the plant have flowers? Then the plant is a flowering plant. If not, does the plant make cones? Then the plant is probably a conifer or a cycad. If not, does the plant have veins? Then the plant is a fern. If the plant is small and soft and has no veins, the plant is a moss or one of the mosses' relatives. The groups are not equal in size. About 9 in every 10 kinds of plant alive today are flowering plants. There are about 12,000 kinds of moss, about 10,500 kinds of fern and only about 600 kinds of conifer.",
+   "description": "A key with three questions sorts almost any plant. Does the plant have flowers? Then the plant is a flowering plant. If not, does the plant make cones? Then the plant is probably a conifer or a cycad. If not, does the plant have veins? Then the plant is a fern. If the plant is small and soft and has no veins, the plant is a moss or one of the mosses' relatives. The groups are not equal in size. About 9 in every 10 kinds of plant alive today are flowering plants. There are about 12,700 kinds of moss, about 10,500 kinds of fern and only about 1,000 kinds of conifer, cycad and their relatives.",
    "examples": [
     "Flowering: tulsi, rice, lotus, the banyan tree (their tiny flowers are hidden inside the figs)",
     "Conifers and cycads: deodar, chir pine, the Khasi pine, the 'Christmas tree' (Araucaria) in many building gardens, and the cycad palm-like plant in hotel gardens",
@@ -138,7 +138,7 @@
    "concept": "Spores and seeds",
    "status": "defined",
    "definition": "A spore is one cell with almost no stored food. A seed is made of many cells: a tiny young plant, a store of food and a protective coat.",
-   "description": "Because a spore is so small and light, gentle wind can carry spores a long way, even across seas. A fern can release millions of spores in a year, and most land where they cannot grow. A seed is heavier, so wind carries most seeds only a short way unless they have wings or hairs. But a seed carries food, so the young plant can push out a root and a shoot before they can make their own food. A seed can also wait, dry and alive, for months or years until rain comes. That is why seed plants could spread into dry lands. Orchids are flowering plants with seeds as fine as dust and almost no food. They travel far like spores, and to sprout they need help from a fungus that feeds them.",
+   "description": "Because a spore is so small and light, gentle wind can carry spores a long way, even across seas. A fern can release a huge number of spores, and most land where they cannot grow. A seed is heavier, so wind carries most seeds only a short way unless they have wings or hairs. But a seed carries food, so the young plant can push out a root and a shoot before they can make their own food. A seed can also wait, dry and alive, for months or years until rain comes. That is why seed plants could spread into dry lands. Orchids are flowering plants with seeds as fine as dust and almost no food. They travel far like spores, and to sprout they need help from a fungus that feeds them.",
    "examples": [
     "In the fan test, haldi powder, as fine as spores, drifted far. Mustard seeds fell close, and the rajma dropped almost straight down.",
     "A coconut is a huge seed with a big food store. Coconuts travel by floating on the sea, not by wind.",
@@ -189,7 +189,7 @@
    "description": "Flowering plants appear in fossils suddenly, about 130 million years ago, and within a few tens of millions of years they were everywhere. In 1879 Charles Darwin called this sudden rise 'an abominable mystery', meaning a hateful puzzle. Botanists still argue about it.",
    "examples": [
     "The oldest flower fossils, such as Archaefructus from China, are about 125 million years old.",
-    "Fossil pollen from flowering plants goes back about 135 million years.",
+    "The first widely accepted fossil pollen of flowering plants is about 135 million years old.",
     "Amborella, a small shrub found only on the island of New Caledonia, sits on the oldest living branch of the flowering plants."
    ],
    "perspectives": [
@@ -215,7 +215,7 @@
    "description": "Older textbooks called mosses and ferns 'lower plants' and flowering plants 'higher plants', as if plants climbed a ladder. Most botanists today reject this ladder. Mosses and ferns alive today have been changing for as long as flowering plants have.",
    "examples": [
     "Mosses live on every continent, including Antarctica, where few flowering plants can survive.",
-    "Sphagnum moss holds about 20 times their own dry weight of water. Peat bogs, built mostly from dead sphagnum, store more carbon than all the trees in the world's forests.",
+    "Sphagnum moss holds many times their own dry weight of water. Peat bogs are built largely from dead mosses like sphagnum. The world's peatlands store about twice as much carbon as all the world's forests.",
     "Ferns kept spreading long after flowering plants arrived. Many fern groups alive today began in the shade of flowering forests."
    ],
    "perspectives": [
@@ -246,11 +246,11 @@
   },
   {
    "text": "Seed plants first appeared about 365 million years ago, and flowering plants are much younger.",
-   "evidence": "The oldest true seeds are found in rocks about 365 million years old. Pollen of flowering plants appears in rocks only from about 135 million years ago."
+   "evidence": "The oldest true seeds are found in rocks about 365 million years old. The first widely accepted pollen of flowering plants appears in rocks from about 135 million years ago."
   },
   {
    "text": "About 9 in every 10 kinds of plant alive today are flowering plants.",
-   "evidence": "Botanists have named about 295,000 flowering plants, compared with about 12,000 mosses, about 10,500 ferns and about 1,000 conifers, cycads and their relatives together."
+   "evidence": "Botanists have named about 295,000 flowering plants, compared with about 12,700 mosses, about 10,500 ferns and about 1,000 conifers, cycads and their relatives together."
   }
  ],
  "challenging": [
@@ -274,7 +274,7 @@
    "claim": "Glossopteris fossils show that India, Africa, South America, Antarctica and Australia were once joined.",
    "who": "Alfred Wegener (1915), and many geologists later",
    "for": "Glossopteris was a seed plant with tongue-shaped leaves. Their fossils are found in India, Africa, South America, Antarctica and Australia. Their seeds were too heavy to cross oceans.",
-   "against": "For about 40 years, most geologists rejected the idea, because nobody knew how continents could move. In the 1960s, sea-floor studies showed how. Today this is accepted.",
+   "against": "For decades, most geologists rejected the idea, because nobody knew how continents could move. In the 1960s, sea-floor studies showed how. Today this is accepted.",
    "status": "accepted",
    "context": "This card is about a plant fossil that helped show the continents have moved."
   },
@@ -602,7 +602,7 @@
       },
       {
        "f": "Sphagnum: a spongy pale-green moss of wet hill bogs",
-       "b": "Spore group. A moss that soaks up about 20 times their dry weight of water.",
+       "b": "Spore group. A moss that soaks up many times their dry weight of water.",
        "img": {
         "src": "media/cards/plant-variety-g1-0-22.jpg",
         "credit": "Bartosz Czołczyński, CC BY, via iNaturalist"
@@ -1713,7 +1713,7 @@
      "do": "1. Compare the results. 2. Explain why moss holds water.",
      "say": "Sphagnum has big empty cells in their leaves that fill with water. Why is that useful for a plant with no veins?",
      "kid": "Which held more? Why might that help a moss?",
-     "parent": "Sphagnum leaves have large, empty, dead cells that soak up water, so sphagnum can hold about 20 times their own dry weight. A plant with no veins must keep water close.",
+     "parent": "Sphagnum leaves have large, empty, dead cells that soak up water, so sphagnum can hold many times their own dry weight. A plant with no veins must keep water close.",
      "check": {
       "t": "mcq",
       "q": "Why is holding water useful for a moss?",
@@ -2658,7 +2658,7 @@
     },
     {
      "t": "mcq",
-     "p": "Botanists have named about 295,000 flowering plants, 12,000 mosses, 10,500 ferns and 1,000 conifers and their relatives. About what fraction of these plants are flowering plants?",
+     "p": "Botanists have named about 295,000 flowering plants, 12,700 mosses, 10,500 ferns and 1,000 conifers and their relatives. About what fraction of these plants are flowering plants?",
      "opts": [
       "About 9 in 10",
       "About half",
@@ -2963,7 +2963,7 @@
   },
   {
    "q": "Did the first land plants need fungi to survive on land?",
-   "why_open": "Some of the oldest plant fossils, about 407 million years old, already have fungi living inside them. Whether plants could have come onto land without fungi is still argued about."
+   "why_open": "Some of the oldest plant fossils, about 410 million years old, already have fungi living inside them. Whether plants could have come onto land without fungi is still argued about."
   },
   {
    "q": "How many kinds of plants are there?",
@@ -3062,9 +3062,9 @@
    "why_maths": "Saying 'about 10 times as far' compares the two results more clearly than just saying 'farther'."
   },
   {
-   "problem": "Botanists have named about 295,000 flowering plants, 12,000 mosses, 10,500 ferns and 1,000 conifers and their relatives. What percentage of these are flowering plants?",
-   "answer": "About 93%.",
-   "explain": "Total: 295,000 + 12,000 + 10,500 + 1,000 = 318,500. Flowering plants: 295,000 ÷ 318,500 is about 0.93. So about 93 out of every 100 are flowering plants.",
+   "problem": "Botanists have named about 295,000 flowering plants, 12,700 mosses, 10,500 ferns and 1,000 conifers and their relatives. What percentage of these are flowering plants?",
+   "answer": "About 92%.",
+   "explain": "Total: 295,000 + 12,700 + 10,500 + 1,000 = 319,200. Flowering plants: 295,000 ÷ 319,200 is about 0.92. So about 92 out of every 100 are flowering plants.",
    "math_unit": "math.fractions.decimals-and-percentages.L5",
    "context": "This is about how many kinds of plant are in each big group.",
    "chart": {
@@ -3077,7 +3077,7 @@
      },
      {
       "label": "Mosses",
-      "value": 12000
+      "value": 12700
      },
      {
       "label": "Ferns",
@@ -3154,7 +3154,7 @@
    "url": "",
    "kind": "place",
    "where": "Udhagamandalam (Ooty), Tamil Nadu",
-   "why": "A hill garden with many ferns and conifers growing in the open."
+   "why": "A botanical garden in the Nilgiri hills, where many plants grow in the open."
   }
  ],
  "buy": [
@@ -3291,16 +3291,19 @@
    "Ma and others, Nature 2001, 'A fern that hyperaccumulates arsenic'",
    "UNEP Global Peatlands Assessment 2022 (peatlands hold a very large store of carbon)",
    "Darwin's letter to J. D. Hooker, 22 July 1879 ('an abominable mystery')",
-   "Jane Colden (1724 to 1766), Flora of New York, a manuscript written about 1753 to 1758 that described more than 300 plants with Linnaeus's method: https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/colden-jane-1724-1766"
+   "Jane Colden (1724 to 1766), Flora of New York, a manuscript written about 1753 to 1758 that described more than 300 plants with Linnaeus's method: https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/colden-jane-1724-1766",
+   "Christenhusz and Byng 2016 (Phytotaxa 261): about 295,000 flowering plants, 12,700 mosses, 10,560 ferns and 1,079 gymnosperms, checked 17 Nov 2026",
+   "Darwin Correspondence Project, letter to J. D. Hooker, 22 July [1879], letter 12167 ('an abominable mystery'), checked 17 Nov 2026",
+   "UNEP Global Peatlands Assessment 2022: peatlands hold about twice the carbon in the world's forests"
   ]
  },
  "how_we_found_out": {
   "context": "How did people find out where ferns and mosses come from? This card tells the true story, and the idea that turned out wrong.",
-  "story": "In 1753 the Swedish botanist Carl Linnaeus sorted plants by counting the parts of their flowers. In the 1750s, Jane Colden, often called America's first woman botanist, used his method on over 300 plants in New York. Ferns, mosses, algae and fungi had no flowers to count, so he put them all into one group. He called it Cryptogamia, 'hidden marriage', because nobody knew how they made new plants. In Europe, many people still believed ferns had invisible seeds. In the 1840s, botanists watched fern spores grow into tiny heart-shaped plants. Then a young man in Leipzig, Wilhelm Hofmeister, studied mosses, ferns and conifers under his microscope. He had never been to university. He worked in his father's music shop and studied plants in his spare time. In 1851 he published a book showing that mosses, ferns and conifers all follow one pattern. The life of each of these plants has two stages: one that makes spores, and one that makes eggs and sperm. In conifers the second stage is hidden inside the cone and the pollen. So the 'hidden' plants were not a separate world. They were relatives of the seed plants, with the same plan of life.",
+  "story": "In 1753 the Swedish botanist Carl Linnaeus sorted plants by counting the parts of their flowers. In the 1750s, Jane Colden, often called America's first woman botanist, used his method on over 300 plants in New York. Ferns, mosses, algae and fungi had no flowers to count, so he put them all into one group. He called it Cryptogamia, 'hidden marriage', because nobody knew how they made new plants. In Europe, many people still believed ferns had invisible seeds. In the 1840s, botanists watched fern spores grow into tiny heart-shaped plants. Then a young man in Leipzig, Wilhelm Hofmeister, studied mosses, ferns and conifers under his microscope. He had never been to university. He worked in his father's music and book shop and studied plants in his spare time. In 1851 he published a book showing that mosses, ferns and conifers all follow one pattern. The life of each of these plants has two stages: one that makes spores, and one that makes eggs and sperm. In conifers the second stage is hidden inside the cone and the pollen. So the 'hidden' plants were not a separate world. They were relatives of the seed plants, with the same plan of life.",
   "who": "Carl Linnaeus, a Swedish botanist; Jane Colden, who used his method in New York; Wilhelm Hofmeister, a German botanist who taught himself",
   "when": "1753 (Linnaeus), the 1840s (fern spores watched as they grew) and 1851 (Hofmeister)",
   "wrong_idea": "That ferns and mosses were a separate, mysterious kind of plant with hidden or invisible seeds. Hofmeister showed that they follow the same pattern of life as conifers, only without seeds.",
   "art": "A young man at a wooden desk beside sheet music and a brass microscope, with drawings of a moss, a fern and a pine cone on his page."
  },
- "playtest": "I walked the unit through as a parent and child in a city flat would. Fixed: the fan was said to blow along the floor, but a table fan blows across the room; the Moss Sponge soil would crumble in the water, so both go in a tea strainer; the rajma needed an overnight soak, now said in the materials; a game step pointed to a four-question key that does not exist; the Twenty Questions ending repeated the key drawing and now counts halvings (16 to 1 takes 4 questions) with a matching check; the fern-seed question was asked in the intro and again in the dhania activity, so the activity now asks what a spore has room for; the jasmine card claimed fruit it seldom sets; four named children were not introduced; two worksheet items repeated the family-tree drawing and the lower-plants debate, so they became a Linnaeus and Hofmeister question and a seaweed debate; the story now says what the heart-shaped plant is for; one weak joke was replaced; the three video entries still have no checked address, so find and watch real videos before they are shown. Counts, minutes and answers agree."
+ "playtest": "I walked the unit through as a parent and child in a city flat would. Fixed: the fan was said to blow along the floor, but a table fan blows across the room; the Moss Sponge soil would crumble in the water, so both go in a tea strainer; the rajma needed an overnight soak, now said in the materials; a game step pointed to a four-question key that does not exist; the Twenty Questions ending repeated the key drawing and now counts halvings (16 to 1 takes 4 questions) with a matching check; the fern-seed question was asked in the intro and again in the dhania activity, so the activity now asks what a spore has room for; the jasmine card claimed fruit it seldom sets; four named children were not introduced; two worksheet items repeated the family-tree drawing and the lower-plants debate, so they became a Linnaeus and Hofmeister question and a seaweed debate; the story now says what the heart-shaped plant is for; one weak joke was replaced; the three video entries still have no checked address, so find and watch real videos before they are shown. Counts, minutes and answers agree. Facts checked on 17 Nov 2026 against Christenhusz and Byng 2016, the Darwin Correspondence Project and UNEP 2022: species counts (mosses corrected to about 12,700, conifers now with cycads), the Darwin quote, Colden and Hofmeister. Softened: the sphagnum water figure, peat carbon, fossil pollen age, the Wegener delay, the spore counts, the Rhynie age and the Ooty garden line. The three video entries still need a real address."
 }

@@ -32,7 +32,7 @@
 - **Scale**: The rule that turns real sizes into model sizes. One scale must be used for every size and every distance in a true model. *e.g.* On the scale of 1 centimetre to 8,000 kilometres, the Earth is a marble. The Moon is a peppercorn 48 centimetres away.
 - **Astronomical unit**: The distance from the Earth to the Sun, about 150 million kilometres. It is used to measure the solar system. The short form is AU. *e.g.* Jupiter is about 5 astronomical units from the Sun. Neptune is about 30.
 - **Revolution**: One full trip of a body round another body. One revolution of the Earth round the Sun is one year. *e.g.* Mercury makes one revolution in 88 days. Neptune takes about 165 years.
-- **Heliosphere**: The huge bubble of thin gas that the Sun blows out around itself. Its edge is far beyond all the planets. *e.g.* The spacecraft Voyager 1 left the heliosphere in 2012, about 121 times as far from the Sun as the Earth.
+- **Heliosphere**: The huge bubble of thin gas that the Sun blows out around itself. Its edge is far beyond all the planets. *e.g.* The spacecraft Voyager 1 left the heliosphere in 2012, about 120 times as far from the Sun as the Earth.
 - **Axis**: The imaginary line through a spinning world, from one pole to the other. The Earth spins on its axis once in about 24 hours. *e.g.* The Earth's axis leans about 23.5 degrees. Uranus leans so far that it spins almost on its side.
 
 ## Explanations
@@ -53,7 +53,7 @@ The first four are small and made of rock and metal. The next four are giants ma
 ### Satellites: natural ones and the ones people make · *defined*
 **Definition:** A natural satellite, or moon, is a body that goes round a planet without anyone putting it there. An artificial satellite is a machine that people have put into orbit.
 
-Mercury and Venus have no moons. The Earth has one and Mars has two. The giant planets have many. By 2025, astronomers had counted about 95 moons for Jupiter and more than 270 for Saturn. They had counted about 28 for Uranus and about 16 for Neptune. The counts keep rising. Seven moons are wider than Pluto, and our Moon is one of them. People have also made satellites since 1957. The International Space Station goes round the Earth about 400 kilometres up, once every 90 minutes. Television and weather satellites sit about 36,000 kilometres up. A spacecraft that goes round the Moon or Mars is a satellite of that world.
+Mercury and Venus have no moons. The Earth has one and Mars has two. The giant planets have many. By 2025, astronomers had counted about 95 moons for Jupiter and more than 270 for Saturn. They had counted about 28 for Uranus and 16 for Neptune. The counts keep rising. Seven moons are wider than Pluto, and our Moon is one of them. People have also made satellites since 1957. The International Space Station goes round the Earth about 400 kilometres up, once every 90 minutes. Television and weather satellites sit about 36,000 kilometres up. A spacecraft that goes round the Moon or Mars is a satellite of that world.
 - e.g. Natural satellites: the Moon, Ganymede, Titan, and Phobos, a moon of Mars only 22 kilometres wide.
 - e.g. Artificial satellites: Aryabhata in 1975, the INSAT weather satellites and the International Space Station.
 - e.g. The Chandrayaan-2 orbiter goes round the Moon. So it is a satellite of a satellite.
@@ -113,9 +113,9 @@ The Moon is 3,474 kilometres wide and about 384,400 kilometres away. That distan
 ### Where does the solar system end? · *debated*
 **Definition:** There is no single agreed edge. The answer depends on what you measure. The choices are the last planet, the last icy bodies, the Sun's bubble of gas, and the reach of the Sun's gravity.
 
-Neptune, the last planet, is 30 astronomical units from the Sun. The Kuiper belt of icy bodies reaches to about 50. The Sun also blows out a thin wind of gas in every direction. This wind makes a bubble called the heliosphere. The spacecraft Voyager 1 crossed the edge of the bubble in August 2012, about 121 astronomical units out. But the Sun's gravity reaches much further. Comets seem to come from a far shell of icy bodies called the Oort cloud. It may reach 100,000 astronomical units out. Nobody has seen the Oort cloud itself. Astronomers worked it out from the paths of comets.
+Neptune, the last planet, is 30 astronomical units from the Sun. The Kuiper belt of icy bodies reaches to about 50. The Sun also blows out a thin wind of gas in every direction. This wind makes a bubble called the heliosphere. The spacecraft Voyager 1 crossed the edge of the bubble in August 2012, about 120 astronomical units out. But the Sun's gravity reaches much further. Comets seem to come from a far shell of icy bodies called the Oort cloud. It may reach 100,000 astronomical units out. Nobody has seen the Oort cloud itself. Astronomers worked it out from the paths of comets.
 - e.g. By the last planet: 30 astronomical units, at Neptune.
-- e.g. By the Sun's bubble: about 121 astronomical units, where Voyager 1 crossed in 2012.
+- e.g. By the Sun's bubble: about 120 astronomical units, where Voyager 1 crossed in 2012.
 - e.g. By the Sun's gravity: perhaps 100,000 astronomical units, at the edge of the Oort cloud.
 - **A scientist who studies the Sun's wind:** The solar system ends where the Sun's wind stops and the thin gas between the stars begins. Voyager 1 crossed that edge in 2012.
 - **A scientist who studies orbits:** The solar system is everything the Sun's gravity holds. By that measure Voyager 1 is still deep inside it. It will need about 300 years to reach the Oort cloud.
@@ -142,7 +142,7 @@ The Earth's axis leans about 23.5 degrees from the upright line to its path roun
 - Two bodies held by gravity both go round a shared balance point, and the heavier body moves less. *How we know:* Isaac Newton showed it in 1687. Astronomers have measured the wobble of the Sun, of Pluto and of thousands of stars with planets.
 
 ## How we found out
-**Giuseppe Piazzi, Clyde Tombaugh, James Christy, and Mike Brown with Chad Trujillo and David Rabinowitz, Ceres was found in 1801 and Pluto in 1930. Charon was found in 1978 and Eris in 2005. The vote was on 24 August 2006..** On 1 January 1801, Giuseppe Piazzi, an astronomer in Palermo in Italy, found a new world between Mars and Jupiter. He named it Ceres, and books listed it as a planet. Then more small worlds were found in the same region. By the 1850s there were dozens, and astronomers moved them all to a new list, the asteroids. In 1930 Clyde Tombaugh, at the Lowell Observatory in the United States, found Pluto. Astronomers expected a large planet, heavier than the Earth, because Percival Lowell had predicted one. That idea was wrong. In 1978 James Christy found Pluto's moon, Charon. The moon's orbit let astronomers weigh Pluto. It had only about 2 parts in 1,000 of the Earth's mass. From 1992, more icy worlds were found beyond Neptune. In 2005 Mike Brown, Chad Trujillo and David Rabinowitz found Eris, which has more mass than Pluto. Either Eris was a tenth planet, or Pluto was not a planet. On 24 August 2006, in Prague, astronomers voted for three tests, and Pluto became a dwarf planet.  
+**Giuseppe Piazzi, Clyde Tombaugh, James Christy, and Mike Brown with Chad Trujillo and David Rabinowitz, Ceres was found in 1801 and Pluto in 1930. Charon was found in 1978 and Eris in 2005. The vote was on 24 August 2006..** On 1 January 1801, Giuseppe Piazzi, an astronomer in Palermo in Italy, found a new world between Mars and Jupiter. He named it Ceres, and books listed it as a planet. Then more small worlds were found in the same region. By the 1850s there were many, and astronomers moved them all to a new list, the asteroids. In 1930 Clyde Tombaugh, at the Lowell Observatory in the United States, found Pluto. Astronomers expected a large planet, heavier than the Earth, because Percival Lowell had predicted one. The sums behind his prediction were done by his team of human computers, led by the mathematician Elizabeth Williams. That idea was wrong. In 1978 James Christy found Pluto's moon, Charon. The moon's orbit let astronomers weigh Pluto. It had only about 2 parts in 1,000 of the Earth's mass. From 1992, more icy worlds were found beyond Neptune. In 2005 Mike Brown, Chad Trujillo and David Rabinowitz found Eris, which has more mass than Pluto. Either Eris was a tenth planet, or Pluto was not a planet. On 24 August 2006, in Prague, astronomers voted for three tests, and Pluto became a dwarf planet.  
 *What people believed before:* That Pluto was a large planet, heavier than the Earth. In 1978 the orbit of its moon Charon showed that Pluto has only about 2 parts in 1,000 of the Earth's mass.
 
 ## Challenging perspectives
@@ -237,7 +237,7 @@ But the astronomers went on measuring. Pluto turned out to be small. It was smal
 
 In August 2006 the astronomers met and voted again. This time they voted on what the word 'planet' should mean. By the new meaning there were eight planets. Pluto was something else, called a dwarf planet.
 
-Venetia was eighty-eight by then. People telephoned to ask her how she felt about it. She told them she was too old to mind very much.
+Venetia was eighty-eight by then. People telephoned to ask her how she felt about it. She told them she had been largely indifferent to the argument.
 
 Earlier that same year, a spacecraft had set off for Pluto. It carried an instrument built by students and named after her. The journey took more than nine years, and Venetia did not live to see the pictures.
 
@@ -528,7 +528,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
   *Parent says:* Vote for the rule you like best. Then we hear both sides and vote again. Did anyone change their mind? What changed it?  
   *Child mode:* Vote on the three rules. Hear both sides. Vote again. Write down the results.
   - Ask: Did a fact or an argument change anyone's vote? (good: Yes. A fact about Pluto's moons changed my vote.; No. I kept my vote, but I understand the other side better.)
-  - Note: Rule 3 keeps a list without a reason. In 2006 about 400 astronomers voted in Prague. Many astronomers had already gone home, and some said later that the vote was too small to settle the matter. Ask your child if a vote can settle what is true.
+  - Note: Rule 3 keeps a list without a reason. In 2006 only a few hundred astronomers voted in Prague. Many of the world's astronomers were not there, and some said later that the vote was too small to settle the matter. Ask your child if a vote can settle what is true.
   - Wait: Do this on the third day
 
 ## Challenges
@@ -670,7 +670,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 10. (match) Match each world to why it is not a planet.  
    **Answer:** Pluto → It has not cleared its path; The Moon → It goes round a planet; Vesta → It is too small to be round; The Sun → It is a star. *Why:* Pluto fails the third test. The Moon fails the first, since it goes round the Earth. Vesta is too small to have pulled itself round. The Sun makes its own light.
 11. (order) Put these in order, from nearest to furthest from the Sun.  
-   **Answer:** ['Neptune', 'The end of the Kuiper belt', "The edge of the Sun's bubble", 'The Oort cloud']. *Why:* Neptune is 30 astronomical units out. The Kuiper belt reaches about 50. The Sun's bubble ends about 121 out. The Oort cloud may reach about 100,000.
+   **Answer:** ['Neptune', 'The end of the Kuiper belt', "The edge of the Sun's bubble", 'The Oort cloud']. *Why:* Neptune is 30 astronomical units out. The Kuiper belt reaches about 50. The Sun's bubble ends about 120 out. The Oort cloud may reach about 100,000.
 12. (mcq) Nobody has seen the Oort cloud. How do astronomers know it is probably there?  
    Options: A telescope photographed it / Comets seem to come from far away in every direction / Voyager 1 flew through it / Moon rock holds pieces of it  
    **Answer:** Comets seem to come from far away in every direction. *Why:* Astronomers worked out where comets come from by studying their paths. Voyager 1 will need about 300 years to reach the Oort cloud.
@@ -739,7 +739,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - A bright dot that moves smoothly across the sky in a few minutes, with no blinking light. It may be the International Space Station.
 - A cloud picture on the weather forecast on television. It was taken by a weather satellite going round the Earth.
 - A planet next to the crescent Moon, on an evening when the two come close. A phone sky app tells you which planet it is.
-- The Aryabhata satellite on an old 2-rupee note or a 1975 stamp, in a family collection or a museum.
+- The Aryabhata satellite on the back of an old 2-rupee note, in a family collection or a museum.
 - A planetarium show, such as in Chennai, Bengaluru, Hyderabad or Kolkata, with the planets and moons projected on a dome.
 - A ball of any size in a shop, and the question of how many smaller balls would fit inside it. For a ball twice as wide, the answer is eight.
 
@@ -826,3 +826,4 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 - Batygin K., Brown M. E. (2016). Evidence for a distant giant planet in the solar system. Astronomical Journal 151: 22.
 - Stone E. C. et al. (2013). Voyager 1 observes low-energy galactic cosmic rays in a region depleted of heliospheric ions. Science 341: 150-153.
 - Newton I. (1687). Philosophiae Naturalis Principia Mathematica. London: Royal Society.
+- Elizabeth Langdon Williams led Percival Lowell's team of human computers and made the Planet X calculations that guided the search that found Pluto (Lowell, Memoir on a Trans-Neptunian Planet, 1915; Lowell Observatory Archives, 'Trans-Neptunian planet (Planet X) computations'; Wikipedia, Elizabeth Langdon Williams, as a lead). Lowell's Planet X prediction itself turned out to be wrong.

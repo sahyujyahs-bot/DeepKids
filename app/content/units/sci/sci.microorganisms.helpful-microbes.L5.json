@@ -221,7 +221,7 @@
    "concept": "Cold, heat and sealing",
    "status": "defined",
    "definition": "Cold slows microbes down but does not kill them. Strong heat kills them. Sealing a food after heating stops new microbes from getting in.",
-   "description": "In a fridge at about 4 degrees Celsius, most bacteria split only once in many hours, so food lasts days. In a freezer at minus 18 degrees there is no liquid water and growth stops. When the food warms up, the microbes who lived through the cold grow again. Boiling kills most microbes, but the spores of some bacteria live through boiling. Pasteurised milk is heated to 72 degrees for 15 seconds, which kills most microbes and leaves the taste. Some milk is sold in cartons that keep for months without a fridge. That milk has been heated to about 140 degrees for a few seconds and packed with no microbes. Tinned food is sealed and then heated to about 121 degrees. That heat is needed because one kind of bacterium grows without air and makes a deadly toxin. A tin or packet that has swollen has gas made by microbes inside, and must be thrown away unopened. In the early 1900s the American chemist Mary Engle Pennington studied eggs, milk and chicken on the way to shops. She worked out how cold they must be kept. Her rules for cold railway wagons made food safer for millions of people.",
+   "description": "In a fridge at about 4 degrees Celsius, most bacteria split only once in many hours, so food lasts days. In a freezer at minus 18 degrees there is no liquid water and growth stops. When the food warms up, the microbes who lived through the cold grow again. Boiling kills most microbes, but the spores of some bacteria live through boiling. Pasteurised milk is heated to 72 degrees for 15 seconds, which kills most microbes and leaves the taste. Some milk is sold in cartons that keep for months without a fridge. That milk has been heated to about 140 degrees for a few seconds and packed with no microbes. Tinned food is sealed and then heated to about 121 degrees. That heat is needed because one kind of bacterium grows without air and makes a deadly toxin. A tin or packet that has swollen has gas made by microbes inside, and must be thrown away unopened. In the early 1900s the American chemist Mary Engle Pennington studied eggs, milk and chicken on the way to shops. She worked out how cold they must be kept. She also led a study of cold railway wagons for carrying food.",
    "examples": [
     "An unopened carton of long-life milk keeps for months on a shelf. Once opened, it needs the fridge like any milk.",
     "Apples from Himachal Pradesh are kept in cold stores, so they can be sold many months after the harvest.",
@@ -234,7 +234,7 @@
    "concept": "Hurdles: several small barriers together",
    "status": "defined",
    "definition": "A hurdle is anything that makes a food harder for microbes to grow in. Many preserved foods use several hurdles at once, each one weaker than it would need to be alone.",
-   "description": "The German food scientist Lothar Leistner gave this idea its name in the 1970s. A microbe who can get past one hurdle is often stopped by the next. Mango pickle is a good example. The salt holds the water. The raw mango is sour. Mustard and chilli slow some microbes. The layer of oil on top keeps air away from moulds. If one hurdle fails, the others may still hold. But a wet spoon brings in fresh water. As the oil is used up, pieces of mango stick out above it, and mould can start there. A food label often shows its hurdles. 'Refrigerate after opening' means that the seal was one hurdle. Once the seal is broken, cold must take its place.",
+   "description": "The German food scientist Lothar Leistner gave this idea its name. A microbe who can get past one hurdle is often stopped by the next. Mango pickle is a good example. The salt holds the water. The raw mango is sour. Mustard and chilli slow some microbes. The layer of oil on top keeps air away from moulds. If one hurdle fails, the others may still hold. But a wet spoon brings in fresh water. As the oil is used up, pieces of mango stick out above it, and mould can start there. A food label often shows its hurdles. 'Refrigerate after opening' means that the seal was one hurdle. Once the seal is broken, cold must take its place.",
    "examples": [
     "Tomato ketchup uses vinegar, sugar, salt, heating and a sealed bottle.",
     "Dried fish is both salted and dried.",
@@ -325,7 +325,7 @@
    "concept": "The same rules keep a mummy, a mammoth and an astronaut's dinner",
    "status": "defined",
    "definition": "The things that keep food also keep anything else that microbes would eat. Dryness, salt, sugar and cold have preserved bodies, seeds and food for thousands of years.",
-   "description": "In ancient Egypt, bodies were packed in a natural salt called natron for about 40 days. The salt drew out the water, and the dried bodies have lasted more than 3,000 years. Jars of honey about 3,000 years old have been found in Egyptian tombs, still unspoiled. In Siberia, frozen ground has kept woolly mammoths, with hair and flesh, for tens of thousands of years. A man died in the Alps about 5,300 years ago. He was found in the ice in 1991, with his last meal still in his stomach. On an island near the North Pole, a vault holds dried seeds from all over the world. The vault is kept at minus 18 degrees Celsius. Astronauts eat food that has been dried or heated and sealed. The Defence Food Research Laboratory in Mysuru has prepared packed foods such as idli and upma for India's astronauts. Nobody yet knows how to keep a full, tasty diet fresh for a journey to Mars that could last years.",
+   "description": "In ancient Egypt, bodies were packed in a natural salt called natron for about 40 days. The salt drew out the water, and the dried bodies have lasted for thousands of years. Honey was also left in Egyptian tombs, and sealed honey is known to keep for a very long time. In Siberia, frozen ground has kept woolly mammoths, with hair and flesh, for tens of thousands of years. A man died in the Alps about 5,300 years ago. He was found in the ice in 1991, with his last meal still in his stomach. On an island near the North Pole, a vault holds dried seeds from all over the world. The vault is kept at minus 18 degrees Celsius. Astronauts eat food that has been dried or heated and sealed. The Defence Food Research Laboratory in Mysuru has prepared packed foods such as idli and upma for India's astronauts. Nobody yet knows how to keep a full, tasty diet fresh for a journey to Mars that could last years.",
    "examples": [
     "Egyptian mummies were dried with salt.",
     "Frozen mammoths were kept by cold.",
@@ -364,7 +364,7 @@
  "challenging": [
   {
    "claim": "Air spoils food, so food keeps if all the air is removed.",
-   "who": "The French chemist Joseph Louis Gay-Lussac, in 1810, and most scientists for the next fifty years",
+   "who": "The French chemist Joseph Louis Gay-Lussac, in 1810, and many scientists for years after",
    "for": "Food sealed in bottles and heated did keep. When the bottles were opened to the air, the food spoiled.",
    "against": "Pasteur showed that microbes carried in the air do the spoiling. Some bacteria grow best with no air at all, and they spoil tins that were heated too little.",
    "status": "rejected",
@@ -2877,7 +2877,7 @@
        "Cold"
       ],
       [
-       "Honey in an ancient tomb",
+       "Honey sealed in a jar",
        "Sugar"
       ],
       [
@@ -3132,31 +3132,28 @@
  ],
  "videos": [
   {
-   "title": "A time-lapse of bread or fruit growing mould over several days",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Time - lapse of Mold Growing on Bread",
+   "channel": "MooMooMath and Science",
+   "youtube": "YeuI30NQJwo",
    "mins": 3,
    "why": "To see mould threads spread across food, which takes too long to watch at home.",
-   "check": "No address yet. Find a time-lapse from a science museum, a university or a well-known science channel. Check that it shows the fuzz spreading from a few spots, and watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Why honey does not spoil",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Why honey doesn't spoil? | #aumsum #kids #science #education #children",
+   "channel": "It's AumSum Time",
+   "youtube": "VF8wOmcxlMI",
    "mins": 5,
    "why": "To hear the idea of free water explained with honey, after the Thick or Thin experiment.",
-   "check": "No address yet. Find a short explainer from a science channel or a museum. Check that it gives low water as the main reason. It should not claim that honey can never spoil, even when water is added."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Drying fish or making vadam in the sun in an Indian village",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "India's Largest Dry Fish Village Life (Sundarban)",
+   "channel": "Mintu Roy",
+   "youtube": "9PVdhdHcr14",
    "mins": 5,
    "why": "To see sun-drying done on a large scale by people who do it every year.",
-   "check": "No address yet. Find a clip from a news channel, a documentary or a government fisheries or food department. Check that it shows the salting and the drying clearly, and watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3258,7 +3255,7 @@
   },
   {
    "j": "Why was the honey jar never in a hurry?",
-   "a": "It had already waited three thousand years."
+   "a": "It had already waited a very long time."
   },
   {
    "j": "What do you call a grape who stayed in the sun all week?",
@@ -3395,7 +3392,7 @@
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
-   "url": "",
+   "url": "https://vismuseum.gov.in/",
    "kind": "place",
    "where": "Bengaluru",
    "why": "A science museum with a gallery on biotechnology, where children can see exhibits about microbes and cells. Check the current galleries before you go."
@@ -3623,7 +3620,6 @@
    "Pasteur L. (1861). Mémoire sur les corpuscules organisés qui existent dans l'atmosphère. Annales des Sciences Naturelles 16: 5-98.",
    "Prescott S. C., Underwood W. L. (1897). Micro-organisms and sterilizing processes in the canning industries. Technology Quarterly 10: 183-199.",
    "Scott W. J. (1957). Water relations of food spoilage microorganisms. Advances in Food Research 7: 83-127.",
-   "Leistner L. (1978). Hurdle effect and energy saving. In: Downey W. K. (ed.), Food Quality and Nutrition. London: Applied Science Publishers.",
    "Sender R., Fuchs S., Milo R. (2016). Revised estimates for the number of human and bacteria cells in the body. PLoS Biology 14: e1002533.",
    "McDonald D. and others (2018). American Gut: an open platform for citizen science microbiome research. mSystems 3: e00031-18.",
    "Wastyk H. C. and others (2021). Gut-microbiota-targeted diets modulate human immune status. Cell 184: 4137-4153.",
@@ -3637,7 +3633,7 @@
  },
  "how_we_found_out": {
   "context": "How did people find out why heating and sealing keeps food? This card tells the true story, and the idea that turned out wrong.",
-  "story": "In the 1790s, armies and ships needed food that would keep for months. Nicolas Appert, a cook and sweet-maker in Paris, tried for about fourteen years to find a way. He packed soups, peas and fruit into glass bottles, corked them tightly and heated them in boiling water. The food kept. In 1810 the French government paid him 12,000 francs to publish his method. Appert did not know why it worked. The chemist Joseph Louis Gay-Lussac tested the bottles. He said that air spoils food. He thought the bottled food kept because no air was left to act on it. Most scientists accepted this for fifty years. In the 1860s Louis Pasteur showed that living microbes, carried on dust in the air, do the spoiling. The heat had killed the microbes in the bottle, and the cork kept new ones out. In the 1890s Samuel Prescott and William Underwood, in the United States, opened swollen tins of clams and corn. No air had got in, yet the food had spoiled. They found living bacteria inside, whose spores had survived too little heating.",
+  "story": "In the 1790s, armies and ships needed food that would keep for months. Nicolas Appert, a cook and sweet-maker in Paris, tried for many years to find a way. He packed soups, peas and fruit into glass bottles, corked them tightly and heated them in boiling water. The food kept. In 1810 the French government paid him 12,000 francs, on the condition that he made his method public. Appert did not know why it worked. The chemist Joseph Louis Gay-Lussac tested the bottles. He is said to have argued that air spoils food. He thought the bottled food kept because no air was left to act on it. Many scientists accepted this for years. In the 1860s Louis Pasteur showed that living microbes, carried on dust in the air, do the spoiling. The heat had killed the microbes in the bottle, and the cork kept new ones out. In the 1890s Samuel Prescott and William Underwood, in the United States, opened swollen tins of clams and corn. No air had got in, yet the food had spoiled. They found living bacteria inside, whose spores had survived too little heating.",
   "who": "Nicolas Appert, a cook in Paris. Joseph Louis Gay-Lussac and Louis Pasteur, French chemists. Samuel Prescott and William Underwood in the United States.",
   "when": "Appert published his method in 1810. Pasteur's work was in the 1860s. Prescott and Underwood worked on tins from 1895 to 1898.",
   "wrong_idea": "That air itself spoils food, and that food keeps when the air is taken away. Pasteur showed that microbes do the spoiling. Prescott and Underwood found food spoiled by bacteria inside tins that no air had entered.",
@@ -3699,5 +3695,5 @@
   ],
   "art": "A child sitting cross-legged with eyes closed and one raisin on an open palm, beside a small bowl of grapes and a jar of honey."
  },
- "playtest": "Every experiment, activity, game and challenge was reasoned through step by step for a family in a city flat. None has yet been tried at home. So the timings and results below are expected, not measured. The Salt Ladder (core) needs dal, salt and five clear glasses. In a warm kitchen, glasses A and B should turn cloudy and sour within one to two days. They hold no salt and a quarter teaspoon. Glasses D and E, with 2 and 4 teaspoons, should stay as they were. Glass C, with 1 teaspoon, is the uncertain one. In a cool room everything is slower, and the steps say to go on for two more days. Very salty dal water can look slightly different from the start. So each glass is compared with how that same glass looked on day 1. Thick or Thin (core) needs about 200 grams of jaggery or sugar and a pinch of atta. The thin glass should bubble within two to three days in warm weather. Jaggery differs from block to block, so the day may vary. A white skin or mould counts as a change too. Nothing from either test is tasted. Sun-Dried Tomato needs three sunny days or a ceiling fan. In the monsoon the open slices may grow mould before they dry, and the step says to record that. The hanger balance is good to about 5 grams. In the Snap Test, the biscuit on the open plate depends on the weather. The biscuit beside the damp cloth softens in any season. My Own Keeping Trial is the child's own design. Some methods will fail, and that is part of the project. The Train Tiffin ends with a grown-up deciding whether a packed item is safe to taste. No part needs a garden. Facts to treat with care: one level teaspoon of fine salt is taken as 6 grams, and spoons differ. The numbers for free water and the heating temperatures are the usual rounded figures. So are the shares of water in honey, bread, butter and tomato. The doubling times in the maths are examples, marked with 'suppose'. The ages of the Egyptian honey, the frozen mammoths and the man in the ice are rounded. The Upanishad and Digha Nikaya lines are paraphrases. The three videos have no address yet."
+ "playtest": "Every experiment, activity, game and challenge was reasoned through step by step for a family in a city flat. None has yet been tried at home. So the timings and results below are expected, not measured. The Salt Ladder (core) needs dal, salt and five clear glasses. In a warm kitchen, glasses A and B should turn cloudy and sour within one to two days. They hold no salt and a quarter teaspoon. Glasses D and E, with 2 and 4 teaspoons, should stay as they were. Glass C, with 1 teaspoon, is the uncertain one. In a cool room everything is slower, and the steps say to go on for two more days. Very salty dal water can look slightly different from the start. So each glass is compared with how that same glass looked on day 1. Thick or Thin (core) needs about 200 grams of jaggery or sugar and a pinch of atta. The thin glass should bubble within two to three days in warm weather. Jaggery differs from block to block, so the day may vary. A white skin or mould counts as a change too. Nothing from either test is tasted. Sun-Dried Tomato needs three sunny days or a ceiling fan. In the monsoon the open slices may grow mould before they dry, and the step says to record that. The hanger balance is good to about 5 grams. In the Snap Test, the biscuit on the open plate depends on the weather. The biscuit beside the damp cloth softens in any season. My Own Keeping Trial is the child's own design. Some methods will fail, and that is part of the project. The Train Tiffin ends with a grown-up deciding whether a packed item is safe to taste. No part needs a garden. Facts checked on 17 Nov 2026 against museum, university and journal sources: the Appert, Prescott and Underwood dates, the 38 and 30 trillion cell counts, the Otzi age and find year, the 40-day natron drying, honey's water activity, and the Visvesvaraya museum biotechnology gallery. Softened: the years Appert worked, Gay-Lussac's air idea, how long scientists believed it, Pennington's railway work, the date of Leistner's term, and the age of Egyptian honey (the 3,000-year claim could not be confirmed). The one-teaspoon salt weight, the doubling times and the heating temperatures remain rounded figures, and the Upanishad and Digha Nikaya lines remain paraphrases. The three videos have no address yet."
 }
